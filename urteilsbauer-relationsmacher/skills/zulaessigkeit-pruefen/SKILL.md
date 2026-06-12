@@ -59,7 +59,7 @@ da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000
 **Partei- und Prozessfähigkeit:** Beide Parteien sind partei- und prozessfähig nach §§ 50, 51 ZPO.
 ```
 
-## Pruefpunkte
+## Prüfpunkte
 
 1. **Rechtsweg** Paragraf 13 GVG, Verweisung Paragraf 17 GVG
 2. **Internationale Zuständigkeit** EuGVVO Brüssel Ia (Verordnung Nr. 1215 2012), Luganer Übereinkommen, autonomes Recht (Paragraf 12 ff ZPO entsprechend)
@@ -81,4 +81,4 @@ da der Streitwert [BETRAG] EUR beträgt und damit die aktuelle Grenze von 10.000
 
 ## Ausgabe
 
-Tabelle: Pruefpunkt / Norm / Ergebnis / Begründung.
+Tabelle: Prüfpunkt / Norm / Ergebnis / Begründung.

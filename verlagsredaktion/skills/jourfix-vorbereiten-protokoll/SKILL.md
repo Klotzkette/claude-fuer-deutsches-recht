@@ -67,7 +67,7 @@ Sie brauchen ihn für jeden Jourfixe. Klären Sie vorab:
 | Mueller "Plattformhaftung" | Lektorat 1 | Befundtabelle an Autorin | 12.06.2026 | Lekt | gruen |
 | Schmidt "AGB" | Autorenkorrektur | Rueckmeldung Autor | 19.06.2026 | Aut | gelb |
 | Lehmann "Festschrift" | Eingang | Format-Check | 14.06.2026 | Lekt | gruen |
-| Weber "Compliance" | Lieferverzug | Klaerungsanruf | sofort | Schrift | rot |
+| Weber "Compliance" | Lieferverzug | Klärungsanruf | sofort | Schrift | rot |
 
 **Agenda-Vorlage:**
 

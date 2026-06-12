@@ -48,7 +48,7 @@ Wenn ein Punkt fehlt, scheitert PKH.
 
 § 115 ZPO regelt Einkommens-Anrechnung:
 
-- Nettoeinkommen (Lohn, Selbstaendigkeit, Sozialleistungen).
+- Nettoeinkommen (Lohn, Selbständigkeit, Sozialleistungen).
 - Minus Freibetraege für Sie selbst, Partner, Kinder.
 - Minus Mietkosten in angemessener Höhe.
 - Minus weitere Abzuege (Versicherungen, Werbungskosten).
@@ -67,7 +67,7 @@ Wenn Sie groesseres Bargeld, Wertpapiere, Immobilie haben: Anrechnung. Sie müss
 
 ### Schritt 4 — Antragsformular
 
-Das amtliche Formular "Erklaerung über die persönlichen und wirtschaftlichen Verhaeltnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
+Das amtliche Formular "Erklaerung über die persönlichen und wirtschaftlichen Verhältnisse" ist Pflicht. Verfuegbar online und in der Rechtsantragsstelle. Sie fuellen aus:
 
 - Persoenliche Daten.
 - Familienstand, Unterhaltspflichten.
@@ -83,7 +83,7 @@ Anzufuegen:
 - Mietvertrag mit aktueller Miete.
 - Kontoausziuege (letzte 3 Monate).
 - Versicherungs-Beitragsnachweise.
-- Bei Selbstaendigen: Steuerbescheid und betriebswirtschaftliche Auswertung.
+- Bei Selbständigen: Steuerbescheid und betriebswirtschaftliche Auswertung.
 
 ### Schritt 6 — Antrag einreichen
 
@@ -126,7 +126,7 @@ In Praxis selten bewilligt — meist nur bei komplexen Faellen.
 - **Belege vollstaendig**: Unvollstaendige Antraege werden zurueckgewiesen.
 - **Wahrheitspflicht** beim PKH-Antrag — falsche Angaben sind Betrug.
 - **PKH deckt nur Ihre Kosten**: Bei Niederlage zahlen Sie Gegnerkosten.
-- **Aenderung der Einkommens-Situation** muss gemeldet werden (§ 120a ZPO).
+- **Änderung der Einkommens-Situation** muss gemeldet werden (§ 120a ZPO).
 
 ## Typische Fehler
 

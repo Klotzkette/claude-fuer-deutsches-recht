@@ -7,7 +7,7 @@ description: "Zinsberechnung nach § 288 BGB: Verbraucherverzug 5 Prozentpunkte 
 
 Konkrete Berechnung von Verzugszinsen und der Pauschale nach § 288 BGB für den Klageantrag und die Forderungsaufstellung.
 
-## Zinssaetze im Ueberblick
+## Zinssaetze im Überblick
 
 | Schuldner | Zinssatz | Norm |
 |---|---|---|
@@ -32,7 +32,7 @@ Halbjaehrliche Anpassung durch Deutsche Bundesbank (jeweils zum 01.01. und 01.07
 | 01.01.2023 - 30.06.2023 | 1,62 % |
 | 01.07.2016 - 30.06.2022 | -0,88 % |
 
-Aktueller Basiszinssatz beim Glaeubiger prüfen: [bundesbank.de/basiszinssatz](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)
+Aktueller Basiszinssatz beim Gläubiger prüfen: [bundesbank.de/basiszinssatz](https://www.bundesbank.de/de/bundesbank/organisation/agb-und-regelungen/basiszinssatz-607820)
 
 ## Verzugseintritt § 286 BGB
 
@@ -73,14 +73,14 @@ Bei Periodenwechsel (z.B. über den 01.07. hinaus): Aufteilen und separat rechne
 
 ## Hoehere Zinsen nach § 288 Abs. 3 BGB
 
-Glaeubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. vertraglich vereinbart, § 354 HGB, § 352 HGB), aber **kumulativ nur einmal**.
+Gläubiger kann hoehere Verzugszinsen nach anderem Rechtsgrund verlangen (z.B. vertraglich vereinbart, § 354 HGB, § 352 HGB), aber **kumulativ nur einmal**.
 
 ## Mahnkosten als Verzugsschaden § 280 Abs. 1, 2, § 286 BGB
 
 - Erste Mahnung kostet **nichts** (selbst Verzug auslosend).
 - Folgemahnungen: Schadensersatz für tatsaechliche Kosten (Porto, Material).
 - Pauschale 2,50 EUR pro Mahnung in der Praxis akzeptiert (LG Berlin 32 O 188/95).
-- Inkassokosten nur in Höhe einer 1,3 Geschaeftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
+- Inkassokosten nur in Höhe einer 1,3 Geschäftsgebuehr eines Rechtsanwalts (§ 4 Abs. 5 RDGEG).
 
 ## Klageantrag-Formulierung
 

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-belarus
-description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Pruefung von H..."
+description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Prüfung von H..."
 ---
 
 # Embargo Belarus: Sanktionsregime und Umgehungsrisiken
@@ -36,7 +36,7 @@ description: "EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
 - **Art. 2 VO (EU) 765/2006**: Bereitstellungsverbot für gelistete Personen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Partei auf EU-Sanktionsliste Belarus geprueft?
 - [ ] Gueterkategorie und Anhang-Verbote geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

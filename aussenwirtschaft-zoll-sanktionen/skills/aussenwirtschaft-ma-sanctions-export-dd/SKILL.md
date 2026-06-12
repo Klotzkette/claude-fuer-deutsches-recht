@@ -23,7 +23,7 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 
 1. Exportkontroll- und Sanktions-DD-Fragebogen an Zielunternehmen senden.
 2. Exportprofile prüfen: Hauptmaerkte, Produktkategorien, Genehmigungshistorie, BAFA-Kontakte.
-3. Historische BAFA-Pruefungen und Sanktionsscreening-Prozesse analysieren.
+3. Historische BAFA-Prüfungen und Sanktionsscreening-Prozesse analysieren.
 4. ICP-Qualitaet bewerten: Struktur, gelebte Praxis, Luecken.
 5. Sanktionsexposure quantifizieren: aktive Kundenbeziehungen, laufende Verträge, offene Verbindlichkeiten.
 6. M&A-Reps-and-Warranties und Ruecktrittsklauseln für Exportkontroll-Risiken formulieren.
@@ -32,14 +32,14 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 
 - **AWG § 18**: Strafbarkeit; Rechtsnachfolge-Haftung bei Umwandlungen.
 - **§ 25 UmwG**: Haftung des Rechtsnachfolgers bei Gesamtrechtsnachfolge.
-- **VO (EU) 833/2014, 269/2014**: Aktuelle Sanktionslage als DD-Massstab.
+- **VO (EU) 833/2014, 269/2014**: Aktuelle Sanktionslage als DD-Maßstab.
 - **§ 130 OWiG**: Organschaftliche Verantwortung des Erwerbers.
 - **§ 438 BGB**: Maengelansprueche bei versteckten Exportkontrollverstossen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Exportprofile und Hauptmaerkte des Zielunternehmens vollstaendig erfasst?
-- [ ] BAFA-Pruefungshistorie und Ergebnisse analysiert?
+- [ ] BAFA-Prüfungshistorie und Ergebnisse analysiert?
 - [ ] ICP-Qualitaet bewertet und Luecken dokumentiert?
 - [ ] Sanktionsexposure quantifiziert (Kundenbeziehungen, Verträge)?
 - [ ] Haftungsrisiken für Kaeufer bewertet und in Kaufpreis reflektiert?
@@ -47,7 +47,7 @@ description: "Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen:
 
 ## Typische Fallstricke
 
-- Vererbte BAFA-Pruefungen werden nach Closing zu Kaeufer-Problem.
+- Vererbte BAFA-Prüfungen werden nach Closing zu Kaeufer-Problem.
 - ITAR-contamination: US-Technologie im Zielunternehmen uebertraegt sich auf Kaeufer (ITAR 22 CFR 127.1).
 - Historische Verstoss-Potenziale (Verjaeahrungsfristen beachten; AWG 5 Jahre) können nach Closing aufschlagen.
 - ICP-Luecken bedeuten kontinuierliches Risiko; Integrations-ICP-Plan erforderlich.
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

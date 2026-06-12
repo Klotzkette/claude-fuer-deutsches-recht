@@ -1,6 +1,6 @@
 ---
 name: charterparty-arrest-vorbereiten
-description: "Charterparty: Glaeubiger sichert Anspruch an Gechartertes Seeschiff unter Charterparty durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollz..."
+description: "Charterparty: Gläubiger sichert Anspruch an Gechartertes Seeschiff unter Charterparty durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollz..."
 ---
 
 # Charterparty – Arrest vorbereiten

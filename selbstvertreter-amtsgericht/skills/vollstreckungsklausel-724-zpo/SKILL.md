@@ -7,7 +7,7 @@ description: "Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsst
 
 ## Worum geht es?
 
-Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschaeftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel können Sie zum Gerichtsvollzieher.
+Ein Urteil allein reicht **nicht** für Zwangsvollstreckung. Sie brauchen eine **Vollstreckungsklausel** (§ 724 ZPO) — eine Bescheinigung der Geschäftsstelle, dass das Urteil vollstreckbar ist. Mit dieser Klausel können Sie zum Gerichtsvollzieher.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -39,7 +39,7 @@ Wenn das Urteil vorliegt und Gegnerseite nicht freiwillig erfuellt:
 
 ### Schritt 2 — Antrag stellen
 
-An die Geschaeftsstelle des Gerichts, das das Urteil erlassen hat. Formloser Antrag:
+An die Geschäftsstelle des Gerichts, das das Urteil erlassen hat. Formloser Antrag:
 
 ```
 [Briefkopf]
@@ -66,7 +66,7 @@ Die Klausel ist gebuehrenfrei, wenn Sie sie binnen Frist von 6 Monaten nach Verk
 
 ### Schritt 4 — Erteilung der Klausel
 
-Die Geschaeftsstelle prüft und stellt aus:
+Die Geschäftsstelle prüft und stellt aus:
 
 - Eine vollstreckbare Ausfertigung des Urteils.
 - Mit aufgedruckter Klausel ("Vorstehende Ausfertigung wird dem ... als Vollstreckungstitel erteilt").
@@ -79,7 +79,7 @@ Sie bekommen das Original; bewahren Sie auf.
 
 Beispiele:
 
-- Sie haben Schaden, der vom Sozialamt teilweise erstattet wurde — Sozialamt ist Glaeubiger. Klausel auf Sozialamt.
+- Sie haben Schaden, der vom Sozialamt teilweise erstattet wurde — Sozialamt ist Gläubiger. Klausel auf Sozialamt.
 - Schuldner ist verstorben — Klausel gegen Erben.
 
 ### Schritt 6 — Klausel-Zustellung

@@ -19,7 +19,7 @@ description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: 
 2. Welche Anlagen/Standorte — BImSchG-Genehmigungen vorhanden?
 3. Altlasten bekannt (§§ 4, 9 BBodSchG) — Bodenuntersuchungen vorgelegt?
 4. TEHG-Pflicht? Emissionshandel-Status?
-5. Produktions-Genehmigungen aktuell oder laeuft Aenderungsverfahren?
+5. Produktions-Genehmigungen aktuell oder laeuft Änderungsverfahren?
 6. Bestehen Behördenanordnungen oder laufende Verwaltungs-/Gerichtsverfahren?
 
 ## Zentrale Normen und Paragrafenkette
@@ -48,7 +48,7 @@ description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: 
 
 ### Phase 2: Dokument-Analyse
 
-1. **BImSchG-Genehmigungen**: Inhalt, Nebenbestimmungen, Aenderungs-Historie; laufen aktuelle Verfahren?
+1. **BImSchG-Genehmigungen**: Inhalt, Nebenbestimmungen, Änderungs-Historie; laufen aktuelle Verfahren?
 2. **Altlasten**: Bodenuntersuchungen Phase I (historische Nutzung) und Phase II (Analytik); Sanierungsplan?
 3. **TEHG**: Zuteilungsbescheid, Monitoring-Plan; Abgabe-Geschichte letzter 5 Jahre.
 4. **Wasserrecht**: Einleitgenehmigungen, Entnahmegenehmigungen; ablaufende Genehmigungen?
@@ -59,7 +59,7 @@ description: "M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: 
 
 | Kategorie | Red Flag | Orange | Gruen |
 |---|---|---|---|
-| BImSchG-Genehmigung | Fehlt oder wesentlich veraltet | Aenderung laufend | Aktuell und vollstaendig |
+| BImSchG-Genehmigung | Fehlt oder wesentlich veraltet | Änderung laufend | Aktuell und vollstaendig |
 | Altlasten | Aktiver Kontaminationsherd | Historische Untersuchung fehlt | Phase II ohne Befund |
 | TEHG-Abgabe | Rueckstand > 3 Jahre | Einmalige Verspaetung | Vollstaendig |
 | Behördenanordnung | Rechtshaft unanfechtbar | Widerspruch laufend | Keine |

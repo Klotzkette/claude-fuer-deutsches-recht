@@ -1,6 +1,6 @@
 ---
 name: plan-pension-erisa-classification
-description: "Prueft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code."
+description: "Prüft pension obligations, PBGC claims, retiree benefits, collective bargaining and plan treatment im US Bankruptcy Code."
 ---
 
 # Pension, ERISA and PBGC
@@ -12,7 +12,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.

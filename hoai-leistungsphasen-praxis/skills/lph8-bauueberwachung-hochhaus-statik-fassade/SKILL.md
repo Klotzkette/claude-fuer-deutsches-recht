@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Hoehe —
 
 Hochhaeuser ab 22 m Höhe (Sonderbauten gemäß Musterrichtlinie Hochhaeuser MHHR) unterliegen erhoehten Anforderungen.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Statik, Fassade, Brandschutz und TGA unter verschaerften Ueberwachungsklassen.
-Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle Spannstahl und Fassadenabnahme.
+Wesentliche Prüfelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle Spannstahl und Fassadenabnahme.
 
 ## Bauwerk und Auftrag
 
@@ -30,7 +30,7 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 1. Prüfung Statik und Freigabe Bewehrungsplaene: Stahlguete BSt500S, Anschluss Wandscheiben und Kerne
 2. Betongueteplan: C30/37 bis C45/55 je Geschoss und Bauteil, Frischbetonproben und Wuerfelproben
 3. Fassadenmontageplan prüfen: Ankerpositionen, Toleranzen, Dichtsystem Silikonbutylfuge
-4. Windlastpruefung Fassade: Pruefoeffnungen nach DIN EN 13830, Druckwasserdichtheit-Pruefprotokoll
+4. Windlastpruefung Fassade: Prüfoeffnungen nach DIN EN 13830, Druckwasserdichtheit-Prüfprotokoll
 5. Brandschutzabschalung Traeger und Stuetzen: F90-A Brandschutzputz oder Intumeszenz-Anstrich dokumentieren
 6. Aufzugsschachtkontrolle: Schachtmasse für Hochgeschwindigkeitsaufzug bis 6 m/s, Fuehrungsschienen-Ausrichtung
 
@@ -39,18 +39,18 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen Bauueberwachung
 - § 650p und § 650q BGB Architekten- und Ingenieurvertrag
 - DIN EN 13670 Ausfuehrung von Tragwerken aus Beton: Ueberwachungsklasse UK3 für Hochhaeuser
-- DIN EN 13830 Vorhangfassaden: Pruefanforderungen Windlast, Schlagregendichtheit, Einbruchhemmung
+- DIN EN 13830 Vorhangfassaden: Prüfanforderungen Windlast, Schlagregendichtheit, Einbruchhemmung
 - DIN EN 1991-1-4 Eurocode 1: Windlasten, Boesigkeit, Richtungsbeiwert für Hochhaeuser
 - Musterrichtlinie Hochhaeuser MHHR: Sonderbauvorschriften Fluchtwege, Feuerwehrzugang, Sprinkler
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Betonguete je Geschoss: Probenahme Fahrmischer, 3 Wuerfel je Betonageabschnitt, Gueteklasse C30/37 bis C45/55
 2. Bewehrung Kernwaende: Betondeckung min. 3 cm (XC1), Kreuzungspunkte verschweisst, Abstandshalter sichtbar
 3. Fassadenanker: Lage nach Montagepluenen, Toleranz +/-5 mm, Duebel Zulassung ETA, Anzugsmomente dokumentiert
 4. Fassadenmodul Abdichtung: Butyldichtung vollstaendig, Silikon-Stuetzklotz-System nach Herstellervorgabe
-5. Brandschutzputz F90: Schichtdicke min. 20 mm, Zulaessung Z-19.17 oder ETA, Pruefprotokoll je Abschnitt
-6. Fluchtwegkennzeichnung: Treppenhaus-Druckbelueeftung Ueberdruck-Pruefprotokoll, Notbeleuchtung 3 h
+5. Brandschutzputz F90: Schichtdicke min. 20 mm, Zulaessung Z-19.17 oder ETA, Prüfprotokoll je Abschnitt
+6. Fluchtwegkennzeichnung: Treppenhaus-Druckbelueeftung Ueberdruck-Prüfprotokoll, Notbeleuchtung 3 h
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -58,7 +58,7 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 - Fotodokumentation verdeckte Anker: Bewehrungsanschluss Fassadenhalter vor Verguss, GPS und Zeitstempel
 - Prüfung Fassadenmodul-Abnahmeprotokoll: Werkspruefzeugnis Glas Uw-Wert, CE-Zertifikat, Feuerwiderstandsklasse
 - BIM360 Coordination: Clash-Bericht Fassade vs. Rohbau, offene Konflikte mit Verantwortlichen und Terminen
-- Windtunnel-Gutachten: Vergleich Ist-Fassade mit Pruefzertifikat nach DIN EN 13830 Abschnitt 8
+- Windtunnel-Gutachten: Vergleich Ist-Fassade mit Prüfzertifikat nach DIN EN 13830 Abschnitt 8
 
 ## Meldungserstellung im ERP / SAP
 
@@ -70,9 +70,9 @@ Wesentliche Pruefelemente sind Betonguete C30/37 bis C45/55, Pressenprotokolle S
 
 ## Typische Fallstricke
 
-- Betonlieferung C30/37 statt C45/55 im Kern: Statiker und Pruefingenieur einschalten, Rissmonitoring anordnen
+- Betonlieferung C30/37 statt C45/55 im Kern: Statiker und Prüfingenieur einschalten, Rissmonitoring anordnen
 - Fassadenanker falsch gesetzt: Toleranz ueberschritten, Nachjustierung teuer, Statik muss Anker freigeben
-- Brandschutzputz zu duenn: Schichtdicke unter 20 mm, Pruefprotokoll zeigt Unterschreitung, Nacharbeit erforderlich
+- Brandschutzputz zu duenn: Schichtdicke unter 20 mm, Prüfprotokoll zeigt Unterschreitung, Nacharbeit erforderlich
 - Fluchtwegbreite unterschritten: Treppenraumbreite min. 1.0 m nach MHHR, Korrekturen im Rohbau kostspielig
 
 ## Quellen

@@ -1,6 +1,6 @@
 ---
 name: kommunalwahlkampf-groundgame
-description: "Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen im Wahlkampfrecht."
 ---
 
 # Kommunalgroundgame
@@ -33,7 +33,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachkern: Kommunalgroundgame
 
-- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen.
+- **Wahlkampflage (Kommunalgroundgame):** Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege übersetzen.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
+Prüft kommunale Plakatierungsregeln, Kandidatenlisten, lokale Neutralitaet und Buergerdialog.
 
 ## Rechts- und Praxislogik
 

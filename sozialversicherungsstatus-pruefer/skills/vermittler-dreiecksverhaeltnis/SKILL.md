@@ -1,6 +1,6 @@
 ---
 name: vermittler-dreiecksverhaeltnis
-description: "Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht im Sozialversicherungsstatus Pruefer."
+description: "Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht im Sozialversicherungsstatus Prüfer."
 ---
 
 # Vermittler und Dreiecksverhältnis

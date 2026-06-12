@@ -43,8 +43,8 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 
 ### Locked Box
 - Stichtag: Bilanzdatum (meist letzter Jahresabschluss)
-- Leakage-Definition: Dividenden, Management Fees, unerlaubte Vermoegensverlagerungen
-- Permitted Leakage: normal course payments, Geschaeftsfuehrergehalt
+- Leakage-Definition: Dividenden, Management Fees, unerlaubte Vermögensverlagerungen
+- Permitted Leakage: normal course payments, Geschäftsführergehalt
 - Vorteile: Preissicherheit, kein Closing Accounts-Streit
 - Risiko: Seller traegt kein Upside; Kaeufer muss Leakage-Periode ueberwachen
 
@@ -191,7 +191,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Earn-Out — Praxisrisiken
 
-Earn-Out-Klauseln sind streitanfaellig. Kaeufer-Risiken: Manipulation durch Accounting-Wahlrechte, Senkung des EBITDA durch konzerninterne Umlagen. Verkaeufer-Risiken: Kaeufer aendert Geschaeftsstrategie, was Milestones unmoeglich macht.
+Earn-Out-Klauseln sind streitanfaellig. Kaeufer-Risiken: Manipulation durch Accounting-Wahlrechte, Senkung des EBITDA durch konzerninterne Umlagen. Verkaeufer-Risiken: Kaeufer ändert Geschäftsstrategie, was Milestones unmoeglich macht.
 
 Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigungs-Covenant ("Non-Frustration"); (c) klare Earn-Out-Statementerstellung mit Schiedsklausel; (d) OLG Frankfurt-Rspr. beachten: Kaeufer hat aktive Foerderpflicht.
 

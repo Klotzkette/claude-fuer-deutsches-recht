@@ -14,7 +14,7 @@ description: "Beschwerde Art: 77 DSGVO bei zuständiger Aufsichtsbehoerde einrei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll ueberpruefbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
+**Fokus:** Beschwerde Art. 77 DSGVO bei zuständiger Aufsichtsbehoerde einreichen oder abwehren. Sieben-Fragen-Diagnose: Beschwerdefuehrer oder Beschwerdegegner Aufsicht zuständig BfDI § 13 BDSG oder Land § 40 BDSG Sachverhalt Norm konkret Beweise Mandatsziel. Schritt-für-Schritt für beide Seiten. Mustertexte für Beschwerdeschreiben Stellungnahme und Anhörungsantwort. EuGH C-26/22 SCHUFA Beschwerdeentscheidung gerichtlich voll überprüfbar. Abgrenzung: keine Bussgeldverteidigung im engeren Sinn (datenschutz-bussgeldverfahren-art-83-dsgvo-verteidigung).
 
 ### Datenschutz Beschwerde Art. 77 DSGVO — Aufsichtsbehoerden-Praxis
 
@@ -39,7 +39,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 78 DSGVO** Wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehoerde — auch bei Untaetigkeit nach drei Monaten.
 - **Art. 80 I DSGVO** Vertretung durch Einrichtungen, Organisationen, Vereinigungen.
 - **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
-- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
+- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll überprüfbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 - **§ 13 BDSG** BfDI.
 - **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **VwGO § 113 V** Verpflichtungsklage / Untaetigkeitsklage.
@@ -106,7 +106,7 @@ Sieben-Fragen-Diagnose:
 > 1. Verfahrensrechtliche Stellungnahme (Zuständigkeit, Akteneinsicht).
 > 2. Sachverhalt aus Sicht des Verantwortlichen (neutral).
 > 3. Rechtliche Bewertung mit DSGVO-Norm.
-> 4. Massnahmenlage Art. 30, 32, 35 (mit Belegen).
+> 4. Maßnahmenlage Art. 30, 32, 35 (mit Belegen).
 > 5. Verarbeitungsgrundlage Art. 6 DSGVO (konkret).
 > 6. Antrag: Einstellung des Verfahrens; hilfsweise schriftliche Verwarnung Art. 58 II b.
 

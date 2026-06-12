@@ -1,9 +1,9 @@
 ---
 name: pruefumfang-was-prueft-der-nicht
-description: "Negativabgrenzung des NKR-Pruefumfangs. Erklaert was der NKR ausdruecklich nicht prueft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prueft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand"
+description: "Negativabgrenzung des NKR-Prüfumfangs. Erklaert was der NKR ausdruecklich nicht prüft (politische Zielwahl Verfassungsmaessigkeit Haushaltsfolgen) und was er sehr wohl prüft (Methodik Erfuellungsaufwand Praktikabilitaet Digitaltauglichkeit). Verhindert Zuständigkeitsanmassung und liefert Stand"
 ---
 
-# NKR-Pruefumfang — was prüft der NKR nicht
+# NKR-Prüfumfang — was prüft der NKR nicht
 
 ## Worum geht es konkret
 
@@ -11,20 +11,20 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Pruefkern faellt
+- Sekretariat bekommt Vorhaben, das nach NKR aussieht, aber methodisch nicht in den Prüfkern faellt
 - Ressort moechte den NKR "instrumentalisieren" für politische Argumente
 - Stellungnahme-Entwurf wird zu breit, droht Kompetenzgrenze zu ueberschreiten
 
 ## Rechtlicher und methodischer Rahmen
 
 - **§ 1 Abs. 1 NKRG** — Prüfung "auf die Darstellung des Erfuellungsaufwands"
-- **§ 4 NKRG** — Pruefungsgegenstand: Erfuellungsaufwand und sein Methodik
+- **§ 4 NKRG** — Prüfungsgegenstand: Erfuellungsaufwand und sein Methodik
 - **§ 6 NKRG** — Stellungnahme
 - **§ 44 GGO** — Gesetzesfolgenabschaetzung (umfasst mehr als nur Erfuellungsaufwand)
 - **Art. 114 GG, BHO, § 88 BHO** — Bundesrechnungshof, Wirtschaftlichkeit
 - **Art. 93 GG, BVerfGG** — Verfassungsgerichtsbarkeit
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Der NKR prüft
 
@@ -54,7 +54,7 @@ Spiegelbild zu `nkr-aufgabe-und-kompetenz-nkrg`. Adressiert die haeufige Verwech
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
-- Ressort umgeht NKR durch Verschieben der Befassungspflicht (z.B. über parlamentarische Aenderung)
+- Ressort umgeht NKR durch Verschieben der Befassungspflicht (z.B. über parlamentarische Änderung)
 - Ressort liefert "alibimaessig" Zahlen ohne Methodik
 - Ressort behauptet "kein Aufwand" ohne Plausibilisierung
 

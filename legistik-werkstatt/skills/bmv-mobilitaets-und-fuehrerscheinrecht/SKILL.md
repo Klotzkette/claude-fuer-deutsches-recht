@@ -1,11 +1,11 @@
 ---
 name: bmv-mobilitaets-und-fuehrerscheinrecht
-description: "Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschaeftsbereich BMV: Normbestand (FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.); Akteure (KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Länder.); EU-Bezug (Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).); typisc..."
+description: "Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschäftsbereich BMV: Normbestand (FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.); Akteure (KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Länder.); EU-Bezug (Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).); typisc..."
 ---
 
 # Mobilitaets- und Fuehrerscheinrecht (BMV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Mobilitaets- und Fuehrerscheinrecht im Geschaeftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Mobilitaets- und Fuehrerscheinrecht im Geschäftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschaeftsberei
 
 Kernbestand des Sachfelds: FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Foederale Vollzug; Akzeptanz neuer Mobilitaetsangebote.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

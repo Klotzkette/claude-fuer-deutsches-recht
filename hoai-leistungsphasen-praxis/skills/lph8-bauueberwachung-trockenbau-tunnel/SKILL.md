@@ -39,16 +39,16 @@ Trockenbau-Brandschutzwaende sind das haeufigstes Sorgenkind der Bauueberwachung
 - VOB/C DIN 18183 Montagewände: Unterkonstruktion, Beplankung, Toleranzen, Aufmass nach Flaeche
 - MBO § 28 LBO und MLAR (Muster-Leitungsanlagen-Richtlinie): Leitungsdurchfuehrungen, Abschottungen, Brandschutzklassen
 - DIBt-Zulassungen Trockenbau-Systemhersteller: Knauf W112 Z-23.32-1462, Rigips RF Systeme, Beplankungslagen, Systemgrenzen
-- DIN 4102-4:2016-05 Brandverhalten von Baustoffen: F30 bis F120 Klassifizierung, Pruefkriterien Feuerwiderstand
+- DIN 4102-4:2016-05 Brandverhalten von Baustoffen: F30 bis F120 Klassifizierung, Prüfkriterien Feuerwiderstand
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Lagenanzahl Beplankung: Soll-Anzahl nach Zulassungszeichnung, Ist-Lagenanzahl zaehlen und foto-dokumentieren, bei Abweichung Sofortmeldung
 2. Schrauben-Einstand-Tiefe: Schraubenkopf 0.5-1.0 mm unter Plattenoberflaeche nach Zulassung, Stichprobe 10 Schrauben je 20 qm Wand
 3. Abschottungs-Vollstaendigkeit: Checkliste je Durchfuehrungsrohr mit Foto, Schottungstyp, Rohr-Material und Rohr-Durchmesser eingetragen
 4. Fugenabdichtung Brandschutzmasse: Eindringtiefe min. 20 mm je Seite, Material konform mit Zulassung, keine Hohlraeume
 5. Zargenmontage Stahltuer F30: Einbau nach Zulassung, Schwellenhoehe nach DIN 18040 barrierefreiheit, Feuerhubbeschlag vorhanden
-6. Abnahme Brandschutzsachverstaendiger: Begehung mit BSV, Pruefprotokoll je Wand-ID, Freigabe-Vermerk BSV für Baubehoerde
+6. Abnahme Brandschutzsachverstaendiger: Begehung mit BSV, Prüfprotokoll je Wand-ID, Freigabe-Vermerk BSV für Baubehoerde
 
 ## Foto-, Video- und Dokumentenanalyse
 

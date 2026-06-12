@@ -1,6 +1,6 @@
 ---
 name: ki-kunst-abgrenzung-konventionelle
-description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen im Ki Vo Ai Act Pruefer."
+description: "KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation für Agenturen, Verlage, Kanzleien und Unternehmen im Ki Vo Ai Act Prüfer."
 ---
 
 # KI-Kunst: Lizenzierung und Kennzeichnung

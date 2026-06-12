@@ -50,7 +50,7 @@ Bevor losgelegt wird, klaere:
 
 ## Normen-Kette
 
-- **Art. 289 AEUV** — Gesetzgebungsverfahren (ordentlich/besonderes); Art. 293 AEUV — Aenderungen Kommissionsvorschlag
+- **Art. 289 AEUV** — Gesetzgebungsverfahren (ordentlich/besonderes); Art. 293 AEUV — Änderungen Kommissionsvorschlag
 - **Art. 294 AEUV** — Ordentliches Gesetzgebungsverfahren Ablauf (Lesungen, Trilog)
 - **Art. 296 AEUV** — Begruendungspflicht EU-Rechtsakte; Art. 297 — Bekanntmachung, Inkrafttreten
 

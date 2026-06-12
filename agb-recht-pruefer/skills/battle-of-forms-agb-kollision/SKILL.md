@@ -54,7 +54,7 @@ description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüf
 - Auftragsbestaetigung mit eigenen AGB sollte ausdruecklich auf bisherige Kommunikation Bezug nehmen, um Rechtsklarheit über Vertragsinhalt zu schaffen.
 - Spaetere Erfuellungshandlungen werden im Zweifel als konkludentes Einverstaendnis gewertet, aber nur für Kernpunkte.
 
-### Pruefraster
+### Prüfraster
 1. Welche AGB-Set lagen wann vor?
 2. Abwehrklauseln vorhanden?
 3. Welche Klauseln widersprechen sich konkret?

@@ -1,6 +1,6 @@
 # Finanzdaten-Check
 
-| Kategorie | Geschaeftsjahr | Methode | Wert/Stufe | Beleg | Freigabe |
+| Kategorie | Geschäftsjahr | Methode | Wert/Stufe | Beleg | Freigabe |
 |---|---|---|---|---|---|
 | Finanzielle Aufwendungen Interessenvertretung |  |  |  |  |  |
 | Hauptfinanzierungsquellen |  |  |  |  |  |

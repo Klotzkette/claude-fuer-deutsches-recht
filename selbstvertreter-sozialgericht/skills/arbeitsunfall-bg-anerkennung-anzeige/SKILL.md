@@ -43,7 +43,7 @@ Plotzlich von aussen einwirkendes Ereignis das zu einem Gesundheitsschaden oder 
 - Bescheid der BG.
 - Bei Ablehnung Widerspruch.
 
-## Pruefraster
+## Prüfraster
 
 1. Unfallbegriff erfuellt?
 2. Versicherte Taetigkeit?

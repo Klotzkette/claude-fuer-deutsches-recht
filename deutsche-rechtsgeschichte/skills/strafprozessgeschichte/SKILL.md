@@ -32,13 +32,13 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Der Strafprozess hat sich von der Inquisition (Ex-officio-Prozess, Folter, Geheimverfahren) zum modernen Akkusationsprozess (Anklage, Muendlichkeit, Oeffentlichkeit, Unschuldsvermutung) entwickelt. Die Constitutio Criminalis Carolina (CCC, 1532) kodifizierte das gemeinrechtliche Strafprozessrecht mit Folter und strengem Beweisrecht. Die Aufklaerung brachte die Abschaffung der Folter (Preussen 1740, Deutschland 1848). Die StPO 1877 (RGBl. 1877, 253) schuf das moderne akkusatorische Strafverfahren. Das NS-Strafprozessrecht 1935 (Gesetz zur Aenderung der StPO, RGBl. I 1935, 844) beseitigte Verfahrensgarantien. Die heutige StPO ist seit 1877 vielfach reformiert (aktuell 2021: Erweiterung digitaler Beweismittel).
+Der Strafprozess hat sich von der Inquisition (Ex-officio-Prozess, Folter, Geheimverfahren) zum modernen Akkusationsprozess (Anklage, Muendlichkeit, Oeffentlichkeit, Unschuldsvermutung) entwickelt. Die Constitutio Criminalis Carolina (CCC, 1532) kodifizierte das gemeinrechtliche Strafprozessrecht mit Folter und strengem Beweisrecht. Die Aufklaerung brachte die Abschaffung der Folter (Preussen 1740, Deutschland 1848). Die StPO 1877 (RGBl. 1877, 253) schuf das moderne akkusatorische Strafverfahren. Das NS-Strafprozessrecht 1935 (Gesetz zur Änderung der StPO, RGBl. I 1935, 844) beseitigte Verfahrensgarantien. Die heutige StPO ist seit 1877 vielfach reformiert (aktuell 2021: Erweiterung digitaler Beweismittel).
 
 ## Kernnormen / Kernquellen
 
 - **Constitutio Criminalis Carolina (CCC) 1532**: Kodifikation des gemeinen Strafprozessrechts
 - **StPO 1877 (RGBl. 1877, 253)**: Einheitliches akkusatorisches Strafverfahren
-- **NS-StPO-Aenderungsgesetz 1935 (RGBl. I 1935, 844)**: Abbau Verfahrensgarantien
+- **NS-StPO-Änderungsgesetz 1935 (RGBl. I 1935, 844)**: Abbau Verfahrensgarantien
 - **GG Art. 103 Abs. 1**: Rechtliches Gehoer als Verfassungsgrundlage
 - **EMRK Art. 6**: Faire Verfahrensgarantien
 

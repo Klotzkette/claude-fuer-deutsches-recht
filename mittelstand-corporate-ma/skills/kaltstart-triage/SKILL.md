@@ -197,7 +197,7 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - **Conditions Precedent (CP)** — Vollzugsbedingungen, deren Erfuellung Closing ausloest (z.B. Fusionskontrollfreigabe).
 - **W&I-Versicherung** — Warranty and Indemnity Insurance; Versicherung gegen Garantieverletzungen im SPA.
 - **Closing Bible** — Archiv aller signierten Transaktionsdokumente nach Vollzug.
-- **PMI** — Post-Merger-Integration; Massnahmenplanung nach Closing.
+- **PMI** — Post-Merger-Integration; Maßnahmenplanung nach Closing.
 - **StaRUG** — Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen; Restrukturierungsinstrument vor formeller Insolvenz.
 
 ## Rechtsgrundlagen
@@ -242,14 +242,14 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 **Datenraum**
 
 - `mittelstand-corporate-ma-datenraum-aufbau` — Strukturiert und bestueckt virtuelle Datenraeume für M&A-Prozesse.
-- `mittelstand-corporate-ma-datenraum-gap-clean-room` — Prueft Datenraum, Teaser und Information Memorandum auf Luecken, Widersprueche und Clean-Room-Bedarf.
+- `mittelstand-corporate-ma-datenraum-gap-clean-room` — Prüft Datenraum, Teaser und Information Memorandum auf Luecken, Widersprueche und Clean-Room-Bedarf.
 - `mittelstand-corporate-ma-qa-information-requests` — Verwaltet Q&A-Prozess im Datenraum mit Information Request Lists und Follow-ups.
 - `mittelstand-corporate-ma-tabellenreview-3d-datenraum` — Verbindet Datenraumprüfung mit interner Review-Matrix aus Rechts-, Steuer- und Wirtschaftsperspektive.
 
 **Due Diligence**
 
 - `mittelstand-corporate-ma-due-diligence-legal` — Standardisierte Legal DD mit Findings, Materiality, Quellenbelegen und Red-Flag-Report.
-- `mittelstand-corporate-ma-due-diligence-commercial-contracts` — Prueft Kunden-, Lieferanten-, SaaS- und Lizenzvertraege auf Change of Control und Kuendigungsrisiken.
+- `mittelstand-corporate-ma-due-diligence-commercial-contracts` — Prüft Kunden-, Lieferanten-, SaaS- und Lizenzvertraege auf Change of Control und Kuendigungsrisiken.
 - `mittelstand-corporate-ma-due-diligence-reporting` — Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book und Executive Summary.
 - `mittelstand-corporate-ma-expert-calls-transkripte` — Wertet Management Presentations und Expert Calls für DD und SPA-Vorbereitung aus.
 - `mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` — Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias und Datenqualitaetsprobleme ab.
@@ -260,7 +260,7 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - `mittelstand-corporate-ma-spa-apa-entwurf` — Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
 - `mittelstand-corporate-ma-disclosure-schedules` — Ableitung von Disclosure Schedules aus Datenraum, DD-Findings und SPA-Garantien.
 - `mittelstand-corporate-ma-vertragsmarkup-key-issues` — Analysiert SPA/APA/NDA-Markups und erstellt Key-Issues-Lists und Gegenmarkup-Vorschlaege.
-- `mittelstand-corporate-ma-fair-disclosure-knowledge` — Prueft Wissens- und Fair-Disclosure-Klauseln im Lichte KI-gestuetzter Datenraumprüfung.
+- `mittelstand-corporate-ma-fair-disclosure-knowledge` — Prüft Wissens- und Fair-Disclosure-Klauseln im Lichte KI-gestuetzter Datenraumprüfung.
 - `mittelstand-corporate-ma-wi-insurance` — W&I-Prozess, Underwriting, Deckungsausschluesse und Disclosure Letter für M&A.
 
 **Signing und Closing**
@@ -279,11 +279,11 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 - `mittelstand-corporate-ma-public-ma-kapitalmarkt-mar` — Boersennotierte Transaktionen: WpUEG, Ad-hoc-Prüfung, Insiderlisten und MAR-Compliance.
 - `mittelstand-corporate-ma-kg-personengesellschaften` — KG, GmbH und Co. KG, MoPeG, Fondsvehikel und Kommanditistenwechsel.
 - `mittelstand-corporate-ma-distressed-ma` — Unternehmenskauf in Krise, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz.
-- `mittelstand-corporate-ma-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan, Insolvenzplan und Glaeubigerklassen-Matrix.
+- `mittelstand-corporate-ma-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan, Insolvenzplan und Gläubigerklassen-Matrix.
 
 **Krisenbegleitung (integriert)**
 
-- `mittelstand-ma-insolvenzreife` — Prueft Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit und Ueberschuldung mit Antragspflicht-Timing.
+- `mittelstand-ma-insolvenzreife` — Prüft Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit und Ueberschuldung mit Antragspflicht-Timing.
 - `mittelstand-ma-liquiditaetsvorschau` — 3-Wochen-Liquiditaet und 13-Wochen-Cash-Bridge mit Warnsignal-Ampel.
 
 **Post-Merger-Integration**
@@ -294,13 +294,13 @@ Das Plugin ist freistehend konzipiert und benoetigt keine externen Datenbanken. 
 
 - `mittelstand-corporate-ma-teaser-im-processdocs` — Unterstuetzt Seller-side bei Teaser, Information Memorandum, NDA und Process Letter.
 - `mittelstand-corporate-ma-simulation-bidder-process` — Simuliert einen beschleunigten M&A-Tag mit Datenraum, Q&A, Markup und Board Call.
-- `mittelstand-corporate-ma-translations-multijurisdictional` — Koordiniert lokale Kanzleien, Uebersetzungen und Multi-Jurisdiction-Matrizen.
+- `mittelstand-corporate-ma-translations-multijurisdictional` — Koordiniert lokale Kanzleien, Übersetzungen und Multi-Jurisdiction-Matrizen.
 - `mittelstand-corporate-ma-billing-narratives` — Erstellt praezise Time Narratives, Phasenbudgets und Workstream-Rechnungen für M&A-Mandate.
 - `mittelstand-ma-erechnung-gobd` — GoBD-konforme E-Rechnung (XRechnung/ZUGFeRD) für M&A-Mandate.
 - `mittelstand-ma-tabellenreview` — Review-Matrix aus Rechts-, Steuer- und Wirtschaftsperspektive für Dokumente und Tabellen.
 - `mittelstand-ma-schreibcanvas` — Substanzorientierter Feedback-Begleiter für SPA, Board Paper, DD-Report und Registertext.
 - `mittelstand-corporate-ma-rechtsprechungsrecherche` — Recherchiert Rechtsprechung und amtliche Quellen für Corporate/M&A und Kapitalmarkt.
-- `mittelstand-corporate-ma-ki-governance-berufsrecht` — Prueft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Datenschutz und KI-VO.
+- `mittelstand-corporate-ma-ki-governance-berufsrecht` — Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Datenschutz und KI-VO.
 - `mittelstand-corporate-ma-automation-monitoring` — Trackt Datenraum-Neuzugaenge, Fristen, Q&A, MAR-Signale und PMI-Aufgaben automatisiert.
 - `mittelstand-corporate-ma-board-paper-business-judgment` — Erstellt Board Paper und Business-Judgment-Dokumentation für M&A-Beschlüsse.
 - `mittelstand-corporate-ma-freundlicher-copilot` — Unterstuetzender Begleiter für Berufseinsteiger und Junior-Counsel durch große Transaktionen.

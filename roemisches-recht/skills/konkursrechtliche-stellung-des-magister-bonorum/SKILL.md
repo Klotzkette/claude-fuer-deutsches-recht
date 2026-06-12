@@ -1,6 +1,6 @@
 ---
 name: konkursrechtliche-stellung-des-magister-bonorum
-description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix im Römisches Recht."
+description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhältnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum
@@ -15,7 +15,7 @@ description: "Konkursrechtliche Stellung des magister bonorum und des curator bo
 
 ## Magister bonorum
 
-- Bestellt von den Glaeubigern.
+- Bestellt von den Gläubigern.
 - Hauptaufgabe: Vorbereitung und Durchfuehrung der bonorum venditio.
 - Klagebefugnis: actio Rutiliana, actio Serviana, actio utiles, actio Pauliana.
 - D. 42.5; Gaius IV.35.
@@ -23,7 +23,7 @@ description: "Konkursrechtliche Stellung des magister bonorum und des curator bo
 ## Curator bonorum
 
 - Bestellt vom Praetor.
-- Hauptaufgabe: Verwaltung des Vermoegens bei bonorum distractio.
+- Hauptaufgabe: Verwaltung des Vermögens bei bonorum distractio.
 - Verwaltungsbefugnisse weitergehend als der magister, weil Einzelverkauf laenger dauert.
 - D. 42.7.
 
@@ -39,7 +39,7 @@ description: "Konkursrechtliche Stellung des magister bonorum und des curator bo
 - Pro creditoribus bei magister.
 - Pro debitore et creditoribus bei curator (treuhaenderisch).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Person und Funktion?
 2. Welche Befugnisse?

@@ -46,9 +46,9 @@ Heck schreibt: Gesetz ist Resultat eines Interessenkonflikts. Wer es anwendet, m
 
 ## Anwendung im deutschen Zivilrecht
 
-**Beispiel § 437 BGB (Maengelrechte):** Interessenkonflikt zwischen Kaeufer (Erhaltung des Aequivalenzverhaeltnisses) und Verkaeufer (Beendigung des Vertrags ohne Wirtschaftsverlust). Der Gesetzgeber stuft: Nacherfuellung vor Ruecktritt, Minderung vor Schadensersatz statt der Leistung. Die Stufung ist Ergebnis einer Interessenabwaegung.
+**Beispiel § 437 BGB (Maengelrechte):** Interessenkonflikt zwischen Kaeufer (Erhaltung des Äquivalenzverhaeltnisses) und Verkaeufer (Beendigung des Vertrags ohne Wirtschaftsverlust). Der Gesetzgeber stuft: Nacherfuellung vor Ruecktritt, Minderung vor Schadensersatz statt der Leistung. Die Stufung ist Ergebnis einer Interessenabwaegung.
 
-**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Glaeubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner näher an den Tatsachen ist.
+**Beispiel § 280 BGB (Schadensersatz wegen Pflichtverletzung):** Interessenkonflikt zwischen Gläubigerschutz (Erhalt der Leistung oder Kompensation) und Schuldnerschutz (kein Schaden ohne Vertretenmuessen). § 280 Abs. 1 S. 2 BGB ist Interessenabwaegung: Beweislastumkehr für das Vertretenmuessen, weil der Schuldner näher an den Tatsachen ist.
 
 **Beispiel § 138 BGB (Sittenwidrigkeit):** Interessenkonflikt Privatautonomie (Vertragsfreiheit) vs. Schutz vor uebermäßiger Benachteiligung. Die Konkretisierung erfolgt durch Interessenabwaegung im Einzelfall (vgl. Buergschaftsentscheidung BVerfGE 89, 214).
 

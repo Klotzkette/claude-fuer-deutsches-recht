@@ -23,11 +23,11 @@ description: "Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor In
 
 ## Worum geht es
 
-Wer den Insolvenzplan oder den Restrukturierungsplan erst dann steuerlich denkt, wenn er bereits bei Gericht eingereicht ist, hat oft schon einen siebenstelligen Schaden produziert. Die Steuerfreiheit des Sanierungsertrags nach Paragraph 3a EStG haengt an vier materiellen Voraussetzungen (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger) und an einem Antrag, dessen Verrechnungsmasse nach Paragraph 3a Absatz 3 EStG **vor** Plan-Vorlage berechenbar sein muss.
+Wer den Insolvenzplan oder den Restrukturierungsplan erst dann steuerlich denkt, wenn er bereits bei Gericht eingereicht ist, hat oft schon einen siebenstelligen Schaden produziert. Die Steuerfreiheit des Sanierungsertrags nach Paragraph 3a EStG haengt an vier materiellen Voraussetzungen (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Gläubiger) und an einem Antrag, dessen Verrechnungsmasse nach Paragraph 3a Absatz 3 EStG **vor** Plan-Vorlage berechenbar sein muss.
 
 Liefert die Zeitachse: Welche steuerliche Vorarbeit gehoert in welchen Monat? Wer ist verantwortlich? Welcher Output muss vor der Plan-Vorlage in der Akte liegen?
 
-Adressat: Insolvenzverwalter, Sachwalter, Eigenverwalter, CRO, Geschaeftsleitung in der Krise und ihre Steuerberater.
+Adressat: Insolvenzverwalter, Sachwalter, Eigenverwalter, CRO, Geschäftsleitung in der Krise und ihre Steuerberater.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -40,7 +40,7 @@ Kaltstart-Fragen:
 1. Welche Rechtsform hat das Schuldnerunternehmen (GmbH, AG, GmbH und Co. KG, Einzelunternehmer, natuerliche Person)?
 2. Wann begann die Krise nach Ihrer Einschaetzung (Monat/Jahr)?
 3. Liegt eine Fortbestehensprognose vor, wenn ja Stand wann?
-4. Wie hoch ist der Forderungsverzicht der Glaeubiger, der im Plan voraussichtlich erforderlich wird (Bandbreite reicht)?
+4. Wie hoch ist der Forderungsverzicht der Gläubiger, der im Plan voraussichtlich erforderlich wird (Bandbreite reicht)?
 5. Steuerliche Verlustvortraege Stand letzte verbindliche Veranlagung — bekannt?
 6. Wer ist Steuerberater des Schuldners und ist er über die Sanierungsabsicht informiert?
 
@@ -49,7 +49,7 @@ Wenn nur drei der sechs Antworten vorliegen, beginnt die Arbeit am Zeitstrahl. D
 ## Rechtlicher Rahmen
 
 - Paragraph 3a Absatz 1 EStG — Steuerbefreiung von Betriebsvermoegensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass zum Zweck einer unternehmensbezogenen Sanierung.
-- Paragraph 3a Absatz 2 EStG — vier Voraussetzungen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger.
+- Paragraph 3a Absatz 2 EStG — vier Voraussetzungen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Gläubiger.
 - Paragraph 3a Absatz 3 EStG — die zwingende Verrechnungsreihenfolge (vortragsfaehige Verluste, laufende Verluste, weitere Minderungspositionen). Wenn die Verrechnungsmasse den Sanierungsertrag vollstaendig aufzehrt, bleibt **kein steuerbarer Sanierungsgewinn** — gesonderter Erlassantrag dann obsolet.
 - Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG — gewerbesteuerliche Parallelregelung.
 - Paragraph 251 AO — Aussetzung der Vollziehung und Behandlung von Steuerforderungen im Insolvenzverfahren.
@@ -62,11 +62,11 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 
 | Monat | Wer ist verantwortlich | Pflicht-Output | Hinweise |
 |---|---|---|---|
-| -9 bis -12 | Geschaeftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Später ein zentraler Baustein für Sanierungsbeduerftigkeit. |
+| -9 bis -12 | Geschäftsleitung + StB | Krisenfrueherkennung dokumentieren (Liquiditaetsplanung, Fortbestehensprognose Entwurf) | Später ein zentraler Baustein für Sanierungsbeduerftigkeit. |
 | -6 bis -9 | IV / Sachwalter / CRO | Verlustvortraege Bestandsaufnahme: Koerperschaftsteuer, Gewerbesteuer, ggf. Einkommensteuer | Bescheid-Kopien der letzten drei Veranlagungen. |
 | -6 bis -9 | StB des Schuldners | Steuerliche Modellrechnung Paragraph 3a Absatz 3 EStG: wie viel Sanierungsertrag wird durch Verlustvortraege aufgezehrt? | Wenn Verlustvortraege das Volumen vollstaendig schlucken, ist die spaetere Steuerfreiheit weniger kritisch — Antrag bleibt aber wichtig. |
 | -6 | IV / CRO | Externes Sanierungskonzept (IDW S 6 oder gleichwertig) beauftragen oder im Sachwaltermodell selbst aufsetzen | Belegt Sanierungsfaehigkeit + Sanierungseignung. |
-| -4 bis -6 | IV / CRO + StB | Glaeubiger-Kommunikation: Sanierungsabsicht aktenkundig machen (Protokollnotizen, Glaeubigerausschuss-Beschluss, Briefe) | Sanierungsabsicht ist eine der vier Voraussetzungen — sie muss aus der Akte belegbar sein. |
+| -4 bis -6 | IV / CRO + StB | Gläubiger-Kommunikation: Sanierungsabsicht aktenkundig machen (Protokollnotizen, Gläubigerausschuss-Beschluss, Briefe) | Sanierungsabsicht ist eine der vier Voraussetzungen — sie muss aus der Akte belegbar sein. |
 | -3 bis -4 | StB + IV | Antragsraster nach Paragraph 3a EStG und Paragraph 7b GewStG vorbereiten | Antraege werden mit der Steuererklaerung des Sanierungsjahres gestellt. |
 | -2 | IV + Plan-Anwalt | Plan-Entwurf in steuerlicher Hinsicht spiegelt die Verzichtsstruktur | Inhalt des darstellenden Teils muss alle vier Voraussetzungen sichtbar machen. |
 | -1 | IV + StB | Pre-Filing-Abstimmung mit dem Finanzamt (Vorabauskunft, soweit möglich) | Verbindliche Auskunft Paragraph 89 AO kann sich lohnen, ist gebuehrenpflichtig. |
@@ -78,8 +78,8 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 | Entscheidung | fruehe Klärung (mehr als 6 Monate vor Plan) | spaete Klärung (weniger als 3 Monate vor Plan) |
 |---|---|---|
 | Verlustvortraege ermitteln | Ruhe, Beanstandungen FA klaerbar | Hektik, Bescheide oft strittig |
-| Sanierungskonzept | substanzhaft, glaubwuerdig | hektisch, glaeubigerseitig anzweifelbar |
-| Glaeubiger-Sanierungsabsicht | dokumentierbar | rekonstruktiv |
+| Sanierungskonzept | substanzhaft, glaubwuerdig | hektisch, gläubigerseitig anzweifelbar |
+| Gläubiger-Sanierungsabsicht | dokumentierbar | rekonstruktiv |
 | Steuerliche Modellrechnung | iterierbar | Black Box |
 | Verbindliche Auskunft | machbar | meist zu spaet |
 | Haftungsrisiko IV/Sachwalter (Paragraph 60 InsO) | gering | erheblich |
@@ -87,7 +87,7 @@ Die folgende Tabelle nimmt als Tag 0 den geplanten Tag der Plan-Einreichung oder
 ## Praxistipps der alten Hasen
 
 1. **Eine Tabelle, zwei Sichten.** Verlustvortraege koerperschaftsteuerlich und gewerbesteuerlich getrennt fuehren, weil Paragraph 7b GewStG eine eigene Antragsmechanik vorsieht.
-2. **Sanierungsabsicht der Glaeubiger ist eine Akten-Sache, kein Wille.** Die Voraussetzung ist erfuellt, wenn die Glaeubiger im Plan dem Verzicht zustimmen, gerade weil die Sanierung sonst nicht funktioniert. Aktennotiz mit O-Ton aus Glaeubigerversammlung hilft mehr als Theorie.
+2. **Sanierungsabsicht der Gläubiger ist eine Akten-Sache, kein Wille.** Die Voraussetzung ist erfuellt, wenn die Gläubiger im Plan dem Verzicht zustimmen, gerade weil die Sanierung sonst nicht funktioniert. Aktennotiz mit O-Ton aus Gläubigerversammlung hilft mehr als Theorie.
 3. **Beraterhonorar fruehzeitig als Massehaftung sichern.** Die Beratung zu Sanierungsgewinn kostet — und der Berater haftet im Zweifel, wenn er die Modellrechnung nicht machte.
 4. **Vorabauskunft ist nicht kostenlos, aber oft wirtschaftlich.** Bei Sanierungsertraegen oberhalb von rund einer Million EUR Vorabauskunft Paragraph 89 AO regelmaessig prüfen.
 5. **Stille Reserven kennen.** Bei Buchwertfortfuehrung im Plan: stille Reserven können den Sanierungsertrag erhoehen oder mindern, je nach Buchungstechnik beim Verzicht.
@@ -135,7 +135,7 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 ## Typische Fehler
 
 1. Verlustvortraege erst nach Plan-Bestaetigung ermitteln — dann ist die Modellrechnung Paragraph 3a Absatz 3 EStG zu spaet.
-2. Annahme, Sanierungsabsicht der Glaeubiger sei "selbsterklaerend" — sie ist tatsaechlich zu dokumentieren.
+2. Annahme, Sanierungsabsicht der Gläubiger sei "selbsterklaerend" — sie ist tatsaechlich zu dokumentieren.
 3. Verbindliche Auskunft zu spaet beantragen — Finanzamt braucht Vorlaufzeit.
 4. Paragraph 7b GewStG vergessen — der Gewerbesteuer-Antrag laeuft eigenstaendig.
 5. Wahl des falschen Sanierungsbegriffs: nur die **unternehmensbezogene** Sanierung ist begnadigt, nicht die rein unternehmerbezogene.

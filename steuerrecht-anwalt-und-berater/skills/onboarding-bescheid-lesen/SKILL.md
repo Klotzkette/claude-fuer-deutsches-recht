@@ -13,11 +13,11 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist der Bescheid ein Erstbescheid Aenderungs- oder Berichtigungsbescheid?
+1. Ist der Bescheid ein Erstbescheid Änderungs- oder Berichtigungsbescheid?
 2. Steht er unter Vorbehalt der Nachpruefung § 164 AO oder vorlaeufig § 165 AO?
 3. Gibt es eine ordnungsgemaesse Rechtsbehelfsbelehrung (sonst Jahresfrist § 356 Abs. 2 AO)?
 4. Wann ist Bekanntgabe bewirkt (Stempel, Drei-Tages-Fiktion § 122 Abs. 2 AO, ELSTER-Bereitstellung § 122a AO)?
-5. Welche Besteuerungsgrundlagen wurden veraendert; gibt es Erlaeuterungstext am Bescheidende?
+5. Welche Besteuerungsgrundlagen wurden veraendert; gibt es Erläuterungstext am Bescheidende?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
@@ -27,7 +27,7 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 - **§ 157 AO** — Form und Inhalt von Steuerbescheiden.
 - **§ 164 AO** — Vorbehalt der Nachpruefung.
 - **§ 165 AO** — Vorlaeufige Steuerfestsetzung.
-- **§§ 129 172 173 174 175 AO** — Korrektur- und Aenderungsnormen.
+- **§§ 129 172 173 174 175 AO** — Korrektur- und Änderungsnormen.
 - **§ 356 AO** — Rechtsbehelfsbelehrung; Folge fehlerhafter Belehrung.
 
 ## Aktuelle Rechtsprechung
@@ -41,15 +41,15 @@ description: "Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbe
 
 ## Bescheid-Checkliste
 
-| Pruefpunkt | Wo im Bescheid | Folge |
+| Prüfpunkt | Wo im Bescheid | Folge |
 | --- | --- | --- |
 | Adressat korrekt | Kopf | sonst Bekanntgabemangel |
 | Steuerart und Zeitraum | Kopf | sonst Inhaltsmangel |
 | Festgesetzter Betrag | Tenor | Basis für AdV-Antrag |
-| Vorbehalt der Nachpruefung | Tenor / Erlaeuterungen | jederzeit Aenderung § 164 Abs. 2 AO |
-| Vorlaeufigkeitsvermerk | Erlaeuterungen | Reichweite genau prüfen |
+| Vorbehalt der Nachpruefung | Tenor / Erläuterungen | jederzeit Änderung § 164 Abs. 2 AO |
+| Vorlaeufigkeitsvermerk | Erläuterungen | Reichweite genau prüfen |
 | Rechtsbehelfsbelehrung | Ende | fehlt oder fehlerhaft → Jahresfrist § 356 Abs. 2 AO |
-| Erlaeuterungstext | letzte Seite | Indikator für Streitpunkt |
+| Erläuterungstext | letzte Seite | Indikator für Streitpunkt |
 
 ## Abgrenzung zu anderen Skills dieses Plugins
 

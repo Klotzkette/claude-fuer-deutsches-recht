@@ -1,6 +1,6 @@
 ---
 name: handwerkerrecht-und-zunftordnung
-description: "Handwerkerrecht und Zunftordnung im preussischen Recht. Skill behandelt die Zuenfte als wirtschaftliche Organisation Lehrlinge Gesellen Meister Wanderschaft die Gewerbefreiheit 1810/1869 und das Verhaeltnis zu ALR und HGB. Liefert Quellenmatrix."
+description: "Handwerkerrecht und Zunftordnung im preussischen Recht. Skill behandelt die Zuenfte als wirtschaftliche Organisation Lehrlinge Gesellen Meister Wanderschaft die Gewerbefreiheit 1810/1869 und das Verhältnis zu ALR und HGB. Liefert Quellenmatrix."
 ---
 
 # Pralr Handwerkerrecht Und Zunftordnung
@@ -32,7 +32,7 @@ description: "Handwerkerrecht und Zunftordnung im preussischen Recht. Skill beha
 - Eintragungspflicht in Handwerksrolle.
 - Meisterpruefung als Voraussetzung für selbststaendige Ausübung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Berufsausuebung?

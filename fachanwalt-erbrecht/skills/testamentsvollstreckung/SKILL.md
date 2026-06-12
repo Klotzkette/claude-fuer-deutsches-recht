@@ -223,7 +223,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Testamentsvollstreckung begleiten oder anfechten | TV-Arten und Schriftsatzbausteine unten |
 | Variante A — TV fuehrt Amt pflichtwidrig | Entlassungsantrag § 2227 BGB; Rechnungslegungsklage |
 | Variante B — Erbe will TV loswerden | Wichtiger Grund prüfen; Entlassungsantrag Nachlassgericht |
-| Variante C — TV-Vergütung streitig | Hamburger Tabelle als Massstab; ggf. Abweichung begruenden |
+| Variante C — TV-Vergütung streitig | Hamburger Tabelle als Maßstab; ggf. Abweichung begruenden |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

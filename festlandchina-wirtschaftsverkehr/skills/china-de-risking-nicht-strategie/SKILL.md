@@ -22,7 +22,7 @@ Ausgangspunkt ist der konkrete Mandantenfall; Ergebnis ist stets ein verwertbare
 
 ## Mandantenfall
 
-**Fall 1:** Ein DAX-Konzern will seiner China-Geschaeftsstrategie eine formal belastbare De-risking-Dokumentation geben, die Investoren und Aufsichtsrat überzeugt.
+**Fall 1:** Ein DAX-Konzern will seiner China-Geschäftsstrategie eine formal belastbare De-risking-Dokumentation geben, die Investoren und Aufsichtsrat überzeugt.
 
 **Fall 2:** Ein Mittelständler fragt, welche seiner China-Lieferanten echte Risiken darstellen und welche unbedenklich weiterlaufen können.
 

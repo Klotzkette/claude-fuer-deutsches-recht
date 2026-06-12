@@ -1,11 +1,11 @@
 ---
 name: bmleh-oekolandbau-pflanzenschutzrecht
-description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch"
+description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschäftsbereich BMLEH: Normbestand (OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).); Akteure (BLE; BVL (Zulassung Pflanzenschutzmittel); Länder-Pflanzenschutzdienste.); EU-Bezug (OeKo-VO 2018/848; PSM-VO 1107/2009; SUR-Entwurf.); typisch"
 ---
 
 # Oekolandbau und Pflanzenschutzrecht (BMLEH)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Oekolandbau und Pflanzenschutzrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Oekolandbau und Pflanzenschutzrecht im Geschäftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Oekolandbau und Pflanzenschutzrecht im Geschaeftsberei
 
 Kernbestand des Sachfelds: OeLG; PflSchG; PflSchAnwV; SaatG; DueV; OeKo-VO (EU).
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Glyphosat- und Wirkstoffdebatten; Konversionszeitraum; Doppelpruefung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

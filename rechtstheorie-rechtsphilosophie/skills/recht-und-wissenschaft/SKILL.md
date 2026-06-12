@@ -1,6 +1,6 @@
 ---
 name: recht-und-wissenschaft
-description: "Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung."
+description: "Prüft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung."
 ---
 
 # Recht und Wissenschaft

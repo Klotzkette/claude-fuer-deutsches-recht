@@ -14,7 +14,7 @@ description: "Konflikt Loeschpflicht Art: 17 DSGVO und Aufbewahrungspflichten HG
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Pruefraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
+**Fokus:** Konflikt Loeschpflicht Art. 17 DSGVO und Aufbewahrungspflichten HGB § 257 AO § 147 GoBD geordnet aufloesen. Sieben-Fragen-Diagnose: Datenkategorie Verarbeitungszweck Rechtsgrundlage konkurrierende Pflicht Sperrung statt Loeschung Backup-Strategie Drittweitergabe. Schritt-für-Schritt: NICHT pauschal alles loeschen Prüfraster nach Datenkategorie. Mustertexte für Loeschkonzept Sperrvermerk Ablehnungsschreiben. EuGH C-129/21 Proximus C-460/20 Google Right to be Forgotten. Abgrenzung: keine reine Auskunft (datenschutz-auskunftsersuchen-art-15-praxis).
 
 ### Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung
 
@@ -43,7 +43,7 @@ Sieben-Fragen-Diagnose:
 - **§ 147 AO** Aufbewahrung Buchungsbelege zehn Jahre (Stand 2026 nach Wachstumschancengesetz acht Jahre für bestimmte Belege), sonstige sechs Jahre.
 - **§ 17 GwG** Mindestaufbewahrung Sorgfaltspflicht-Dokumentation fuenf Jahre, bis zu zehn.
 - **§ 28 SGB IV** sozialversicherungsrechtliche Aufbewahrung.
-- **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Aenderung der Verarbeitungslage selbst Maßnahmen ergreifen.
+- **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Änderung der Verarbeitungslage selbst Maßnahmen ergreifen.
 - **EuGH C-460/20 Google** (Urteil 08.12.2022): Recht auf Aushebung von Verlinkung bei Falschangaben.
 
 ## Mandantenfuehrung Schritt-für-Schritt

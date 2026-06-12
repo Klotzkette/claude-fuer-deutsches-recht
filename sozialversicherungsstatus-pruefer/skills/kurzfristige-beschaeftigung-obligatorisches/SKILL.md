@@ -1,6 +1,6 @@
 ---
 name: kurzfristige-beschaeftigung-obligatorisches
-description: "Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit im Sozialversicherungsstatus Pruefer."
+description: "Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit im Sozialversicherungsstatus Prüfer."
 ---
 
 # Kurzfristige Beschäftigung

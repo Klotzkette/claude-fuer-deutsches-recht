@@ -82,7 +82,7 @@ description: "Orientierung im Strafrecht-Mandat und Fallrouting: Anwendungsfall 
 
 Plugin für Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
 
-## Zentrale Strafrecht-Normen im Ueberblick
+## Zentrale Strafrecht-Normen im Überblick
 
 - §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
 - §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum

@@ -45,7 +45,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 ### Verwaltungsanweisungen
 
 - BMF v. 28.11.2019 (BStBl I 2019, 1269) — GoBD; Anforderungen an zeitgerechte Buchungen (regelmaessig binnen 10 Tagen; spaetestens Monatsende).
-- BMF v. 25.08.2020 (DSGVO im Steuerberater-Verhaeltnis).
+- BMF v. 25.08.2020 (DSGVO im Steuerberater-Verhältnis).
 
 ## Workflow
 
@@ -67,7 +67,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 ### Phase 3 — Tag 15-20: Abstimmung und Periodenabgrenzung
 
 - Kontenabstimmung: Bank gegen Bankauszug, Kasse gegen Kassenbericht, Verrechnungskonten 1590/1599 (SKR 03) bzw. entsprechende SKR-04-Konten auf null.
-- Rueckstellungen monatlich anteilig: Urlaub, Tantiemen, Berufsgenossenschaft, Pruefungskosten.
+- Rueckstellungen monatlich anteilig: Urlaub, Tantiemen, Berufsgenossenschaft, Prüfungskosten.
 - Abschreibungen monatlich oder kumuliert (1/12-Methode aus Anlagenbuchhaltung).
 - Aktive und passive Rechnungsabgrenzung (Versicherung, Miete, Kfz-Steuer) auf den Monat zerlegt.
 - Bestandsveraenderung: bei Handel monatliche Schaetzung (Warenroll), bei Industrie Zwischeninventur quartalsweise.
@@ -82,7 +82,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 ### Phase 5 — Tag 25-30: BWA-Erstellung und Versand
 
 - BWA aus DATEV/Addison/Sage erstellen mit Vorjahresvergleich und kumuliertem Jahresblock.
-- Erlaeuterungstext (1-2 Seiten) ergaenzen.
+- Erläuterungstext (1-2 Seiten) ergaenzen.
 - Berufstraeger-Prüfung (4-Augen-Prinzip) — Stichproben, Plausibilitaet, Krisensignale.
 - BWA an Mandant versenden (DATEV Unternehmen Online, E-Mail mit verschluesseltem Anhang).
 - Monatsabschluss in Mandantenakte dokumentieren mit Zeitstempel und Bearbeiter.

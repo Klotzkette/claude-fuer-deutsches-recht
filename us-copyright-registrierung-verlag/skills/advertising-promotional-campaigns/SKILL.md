@@ -1,6 +1,6 @@
 ---
 name: advertising-promotional-campaigns
-description: "Prueft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments im Us Copyright Registrierung Verlag."
+description: "Prüft US-Copyright in Kampagnen: copy, music, video, photos, social cutdowns, influencer assets and agency assignments im Us Copyright Registrierung Verlag."
 ---
 
 # Advertising und Promotional Campaigns

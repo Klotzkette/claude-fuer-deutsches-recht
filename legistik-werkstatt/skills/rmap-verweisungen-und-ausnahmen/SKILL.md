@@ -16,7 +16,7 @@ description: "Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen 
 
 Statische Verweisungen werden direkt aufgeloest. Dynamische Verweisungen (auf jeweils gueltige Fassung) sind als Verweisknoten mit Versionspflege umzusetzen. Rueckverweisungen sind als Schleifenpfade explizit zu markieren und auf Endlichkeit zu prüfen. Ausnahmen sind eigene Pfade; keine versteckten Negationen in Tatbestandsknoten.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: gibt es zirkulaere Verweisungen? Welche EU-Vorgaben sind zu verlinken? Sind Ausnahmen verhaeltnismaessig zugeschnitten? Stehen Ausnahmen im Einklang mit Gleichheitssatz und Bestimmtheitsgebot?
 

@@ -1,6 +1,6 @@
 ---
 name: eu-abgrenzung-einschlaegige-normen
-description: "Klaert die Abgrenzung zwischen nationalem deutschen Recht und Unionsrecht: wann gilt AEUV/EUV/GRCh/Verordnung/Richtlinie unmittelbar, wann richtlinienkonforme Auslegung, wann Vorabentscheidungsersuchen Art. 267 AEUV und Anwendungsvorrang im Subsumtions Pruefer."
+description: "Klaert die Abgrenzung zwischen nationalem deutschen Recht und Unionsrecht: wann gilt AEUV/EUV/GRCh/Verordnung/Richtlinie unmittelbar, wann richtlinienkonforme Auslegung, wann Vorabentscheidungsersuchen Art. 267 AEUV und Anwendungsvorrang im Subsumtions Prüfer."
 ---
 
 # Deutsches Recht und Unionsrecht — Abgrenzung

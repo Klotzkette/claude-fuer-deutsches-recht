@@ -34,7 +34,7 @@ Bei verfassungswidriger Besoldung gibt es Musterverfahren am BVerfG. Andere Beam
 - Nachzahlung typisch für 3-5 Jahre rueckwirkend.
 - Zinsen nach § 247 BGB.
 
-## Pruefraster
+## Prüfraster
 
 1. Musterverfahren laufend?
 2. Eigener Widerspruch eingelegt?

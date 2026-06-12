@@ -29,7 +29,7 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 
 ## OWi-Red-Team-Checks
 - **Frist-Re-Check:** Einspruch § 67 OWiG 2 Wochen ab Zustellung; Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat; Verjährung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis 1. Instanz Urteil); Unterbrechung § 33 OWiG.
-- **BKatV-Re-Check:** Aktuelle Anlage zur StVO und § 26a StVG; Regelbusse, Punkte, Fahrverbote stets gegen Tatzeit prüfen; bei Aenderungen lex mitior § 4 III OWiG.
+- **BKatV-Re-Check:** Aktuelle Anlage zur StVO und § 26a StVG; Regelbusse, Punkte, Fahrverbote stets gegen Tatzeit prüfen; bei Änderungen lex mitior § 4 III OWiG.
 - **Messverfahren-Check:**
  - **Eichschein** im Tatzeitraum gueltig?
  - **Bedienerschein** Messbeamter?

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-sonderwuensche-zusaetzliche-vereinbarungen
-description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglic..."
+description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Änderungen der Baubeschreibung Schriftform und das Verhältnis zur urspruenglic..."
 ---
 
 # Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen
@@ -14,13 +14,13 @@ description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf.
+**Fokus:** Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Änderungen der Baubeschreibung Schriftform und das Verhältnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf.
 
 ### Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen
 
 ## Sonderwuensche
 
-- Erwerber wuenscht Aenderung gegenueber Baubeschreibung.
+- Erwerber wuenscht Änderung gegenueber Baubeschreibung.
 - Beispiel: bessere Bodenbelaege, Sanitaer-Ausstattung.
 
 ## Form
@@ -31,13 +31,13 @@ description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill k
 
 ## Mehrpreis-Klauseln
 
-- Pauschal: oft uebersetzt.
+- Pauschal: oft übersetzt.
 - Auf Basis Selbstkosten-Plus: angemessener.
 - Empfehlung: vorab Vergleichsangebote einholen.
 
-## Verhaeltnis zur Baubeschreibung
+## Verhältnis zur Baubeschreibung
 
-- Sonderwunsch aendert Baubeschreibung punktuell.
+- Sonderwunsch ändert Baubeschreibung punktuell.
 - Restliche Vertragsregelungen gelten weiter.
 
 ## Risiken
@@ -47,9 +47,9 @@ description: "Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen: Skill k
 
 ## Klauselentwurf Sonderwunsch
 
-"Die Parteien vereinbaren folgende Aenderung zur Baubeschreibung vom [Datum]: [Beschreibung Sonderwunsch]. Der Mehrpreis betraegt [Betrag] EUR. Die Vertragsausfuehrung verzoegert sich um maximal [Tage] Tage. Im uebrigen bleibt der Vertrag unveraendert."
+"Die Parteien vereinbaren folgende Änderung zur Baubeschreibung vom [Datum]: [Beschreibung Sonderwunsch]. Der Mehrpreis betraegt [Betrag] EUR. Die Vertragsausfuehrung verzoegert sich um maximal [Tage] Tage. Im uebrigen bleibt der Vertrag unveraendert."
 
-## Pruefraster
+## Prüfraster
 
 1. Schriftlich vereinbart?
 2. Mehrpreis angemessen?

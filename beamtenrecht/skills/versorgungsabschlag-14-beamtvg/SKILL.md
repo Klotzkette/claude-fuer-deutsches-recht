@@ -38,7 +38,7 @@ Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenz
 ### c) Ausnahmen
 - Schwerbehindertenstatus mit Grad der Behinderung mindestens 50 ermoeglicht den abschlagsfreien Antragsruhestand mit Vollendung des 60. Lebensjahres (geltende Altersgrenzen prüfen).
 
-### d) Verhaeltnis zur Altersteilzeit
+### d) Verhältnis zur Altersteilzeit
 - Bei Blockmodellen der Altersteilzeit ist die Berechnung im Hinblick auf den Versorgungsabschlag besonders zu prüfen.
 
 ### e) Rechtsschutz
@@ -46,7 +46,7 @@ Skill für Beamte, die einen Antragsruhestand vor Erreichen der Regelaltersgrenz
 
 ## 4. Quellenpflicht
 
-- Normen: § 14 BeamtVG; § 4 BeamtVG; § 8 BBG, § 51 BBG; landesrechtliche Aequivalente.
+- Normen: § 14 BeamtVG; § 4 BeamtVG; § 8 BBG, § 51 BBG; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zum Versorgungsabschlag — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 

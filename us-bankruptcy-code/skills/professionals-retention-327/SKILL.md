@@ -1,6 +1,6 @@
 ---
 name: professionals-retention-327
-description: "Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code."
+description: "Prüft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts im US Bankruptcy Code."
 ---
 
 # Professionals Retention § 327

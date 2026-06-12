@@ -1,6 +1,6 @@
 ---
 name: ki-training-tdm-optout
-description: "Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO im Urheberrecht De Eu."
+description: "Prüft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO im Urheberrecht De Eu."
 ---
 
 # KI-Training, TDM und Opt-out

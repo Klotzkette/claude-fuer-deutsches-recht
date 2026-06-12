@@ -56,7 +56,7 @@ description: "Anlagen zur Baubeschreibung beim Bautraegervertrag: Skill listet t
 ### Anlage nicht zur Beurkundung mit ausgehaendigt
 - Notarverletzung.
 
-## Pruefraster
+## Prüfraster
 
 1. Alle Anlagen vorhanden?
 2. Aktuelle Fassung?

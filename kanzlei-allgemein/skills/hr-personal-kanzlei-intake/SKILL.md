@@ -28,9 +28,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Geht es um Neueinstellung (Vertrag, Onboarding), laufendes Beschaeftigungsverhaeltnis (Urlaub, Krankenstand) oder Beendigung (Kündigung, Offboarding)?
-2. Welche Beschaeftigungsart liegt vor: Vollzeit, Teilzeit, Minijob, Werkstudent, freie Mitarbeit?
-3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber pruefenswert ab 5 Beschaeftigten)?
+1. Geht es um Neueinstellung (Vertrag, Onboarding), laufendes Beschäftigungsverhaeltnis (Urlaub, Krankenstand) oder Beendigung (Kündigung, Offboarding)?
+2. Welche Beschäftigungsart liegt vor: Vollzeit, Teilzeit, Minijob, Werkstudent, freie Mitarbeit?
+3. Ist ein Betriebsrat vorhanden (unwahrscheinlich bei Kleinkanzlei, aber prüfenswert ab 5 Beschäftigten)?
 4. Sind datenschutzrechtliche Anforderungen (Art. 88 DSGVO, § 26 BDSG) bei der Personalaktenfuehrung beachtet?
 
 ## Aktuelle Rechtsprechung
@@ -38,9 +38,9 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Zentrale Normen
 - §§ 620-630 BGB — Dienstvertrag: Kuendigung, Zeugnis, Grundpflichten
-- § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschaeftigte
+- § 23 KSchG — Geltungsbereich des Kuendigungsschutzgesetzes ab 10 Beschäftigte
 - § 3 BUrlG — Gesetzlicher Mindesturlaub (24 Werktage)
-- § 26 BDSG — Datenverarbeitung für Zwecke des Beschaeftigungsverhaeltnisses
+- § 26 BDSG — Datenverarbeitung für Zwecke des Beschäftigungsverhaeltnisses
 
 ## Personalakte
 

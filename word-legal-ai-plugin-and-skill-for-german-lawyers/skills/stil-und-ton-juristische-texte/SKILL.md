@@ -44,7 +44,7 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 | Gegenseite | Anwaltsschreiben | Kuehl, praezise, mit Frist | "Wir fordern Sie auf, bis zum ..." |
 | Gericht | Schriftsatz, Urteilsstil | Knapp, sachlich, beweisbar | "Die Klage ist begruendet, weil ..." |
 | Behörde | Antragsschrift, sachlich | Nuechtern, formal, ohne Polemik | "Es wird beantragt, ..." |
-| Intern (Memo) | Gutachtenstil | Pruefend, abwaegend | "Es koennte ... Dazu muesste ..." |
+| Intern (Memo) | Gutachtenstil | Prüfend, abwaegend | "Es koennte ... Dazu muesste ..." |
 | Gegenanwalt | Schriftverkehr Anwalt zu Anwalt | Kollegial-distanziert | "Sehr geehrte Frau Kollegin, ..." |
 
 ### Sieben Stilregeln
@@ -63,7 +63,7 @@ description: "Adressatengerechte Schreibhygiene für juristische Texte. Bestimmt
 
 **Gegenseitenbrief:** "Wir vertreten Frau Mustermann. Namens und in Vollmacht unserer Mandantin fordern wir Sie auf, den Betrag von 8.450 Euro bis zum 12. Juni 2026 auf das Konto IBAN ... zu zahlen. Bei fruchtlosem Fristablauf werden wir Klage erheben."
 
-**Schriftsatz (Urteilsstil):** "Die Klage ist begruendet. Der Klaegerin steht der geltend gemachte Anspruch aus § 433 Abs. 2 BGB zu. Die Beklagte hat den Kaufpreis trotz Faelligkeit am 1. April 2026 nicht gezahlt."
+**Schriftsatz (Urteilsstil):** "Die Klage ist begruendet. Der Klägerin steht der geltend gemachte Anspruch aus § 433 Abs. 2 BGB zu. Die Beklagte hat den Kaufpreis trotz Faelligkeit am 1. April 2026 nicht gezahlt."
 
 **Memo (Gutachtenstil):** "Es koennte ein Anspruch der A gegen B aus § 280 Abs. 1 BGB bestehen. Dazu muesste ein Schuldverhaeltnis zwischen A und B vorliegen ..."
 

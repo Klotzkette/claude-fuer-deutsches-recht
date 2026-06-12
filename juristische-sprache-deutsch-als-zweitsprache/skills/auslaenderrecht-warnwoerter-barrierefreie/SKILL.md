@@ -1,9 +1,9 @@
 ---
 name: auslaenderrecht-warnwoerter-barrierefreie
-description: "Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Hilft bei Ausländerrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
 ---
 
-# Auslaenderrecht Warnwoerter
+# Ausländerrecht Warnwoerter
 
 ## Arbeitsweg
 
@@ -36,7 +36,7 @@ description: "Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch al
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

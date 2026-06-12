@@ -1,6 +1,6 @@
 ---
 name: it-recht-datenschutz-im-it-vertrag
-description: "Datenschutzklauseln im IT-Vertrag pruefen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R..."
+description: "Datenschutzklauseln im IT-Vertrag prüfen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R..."
 ---
 
 # Datenschutzklauseln im IT-Vertrag prüfen und gestalten
@@ -30,7 +30,7 @@ Sieben-Fragen-Diagnose:
 4. **Subverarbeiter:** Wer nutzt Subdienstleister? Welche Genehmigungsklausel?
 5. **Datenstandort:** EU/EWR oder Drittland? Bei Drittland: welcher Transfermechanismus Art. 44 ff DSGVO?
 6. **Vertragslaufzeit und Datenrueckgabe:** Was passiert nach Vertragsende? Art. 28 III g.
-7. **Audit und Kontrolle:** Welche Pruefrechte des Verantwortlichen Art. 28 III h?
+7. **Audit und Kontrolle:** Welche Prüfrechte des Verantwortlichen Art. 28 III h?
 
 ## Rechtlicher Rahmen
 
@@ -79,7 +79,7 @@ Sieben-Fragen-Diagnose:
 
 ### Klausel "Subverarbeiter"
 
-> Der Auftragnehmer kann Subverarbeiter mit allgemeiner Genehmigung des Auftraggebers einsetzen. Eine aktuelle Liste der Subverarbeiter wird unter [URL] gefuehrt. Der Auftragnehmer informiert den Auftraggeber über beabsichtigte Aenderungen mit einer Frist von [30 Tagen]. Der Auftraggeber kann der Aenderung mit datenschutzrechtlicher Begruendung widersprechen; in diesem Fall sind die Parteien zur Verhandlung verpflichtet, und der Auftraggeber kann den Vertrag bei Nichteinigung mit angemessener Frist aus wichtigem Grund kuendigen.
+> Der Auftragnehmer kann Subverarbeiter mit allgemeiner Genehmigung des Auftraggebers einsetzen. Eine aktuelle Liste der Subverarbeiter wird unter [URL] gefuehrt. Der Auftragnehmer informiert den Auftraggeber über beabsichtigte Änderungen mit einer Frist von [30 Tagen]. Der Auftraggeber kann der Änderung mit datenschutzrechtlicher Begruendung widersprechen; in diesem Fall sind die Parteien zur Verhandlung verpflichtet, und der Auftraggeber kann den Vertrag bei Nichteinigung mit angemessener Frist aus wichtigem Grund kuendigen.
 
 ### Klausel "Drittlandstransfer"
 

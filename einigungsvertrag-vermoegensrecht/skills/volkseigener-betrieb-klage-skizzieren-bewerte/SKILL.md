@@ -3,7 +3,7 @@ name: volkseigener-betrieb-klage-skizzieren-bewerte
 description: "Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Widerspruch prüfen im Einigungsvertrag/Vermögensrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Volkseigener Betrieb Widerspruch Pruef
+# Volkseigener Betrieb Widerspruch Prüf
 
 ## Arbeitsweg
 

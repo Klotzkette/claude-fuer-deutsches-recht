@@ -23,7 +23,7 @@ description: "Integration des Internal Compliance Programme nach M&A: Harmonisie
 
 1. ICP-Gap-Analyse zwischen Kaeufer-Standard und Zielunternehmen durchfuehren.
 2. Kritische Luecken identifizieren: fehlende Gueterklassifizierungen, kein Sanktionsscreening, kein Ausfuhrverantwortlicher.
-3. BAFA über relevante Aenderungen (Inhaberwechsel, Umstrukturierung) informieren; Genehmigungsuebertragung prüfen.
+3. BAFA über relevante Änderungen (Inhaberwechsel, Umstrukturierung) informieren; Genehmigungsuebertragung prüfen.
 4. Integrationsplan mit Meilensteinen: sofortige Maßnahmen, 3 Monate, 6 Monate.
 5. Schulungsrollout für alle exportkontrollrelevanten Mitarbeiter des Zielunternehmens planen.
 6. Gemeinsames ICP-Handbuch verabschieden und System-Integration (ERP, Screening-Tool) vorantreiben.
@@ -36,7 +36,7 @@ description: "Integration des Internal Compliance Programme nach M&A: Harmonisie
 - **§ 25 UmwG**: Gesamtrechtsnachfolge und Haftungswirkung.
 - **§ 130 OWiG**: Aufsichtspflichtverletzung als Bussgeltatbestand.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] ICP-Gap-Analyse vollstaendig durchgefuehrt?
 - [ ] BAFA über Inhaberwechsel und Genehmigungsaenderungen informiert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -41,7 +41,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Handelt es sich um eine EU-Verordnung (unmittelbar anwendbar), eine Richtlinie (Umsetzung erforderlich) oder einen Beschluss?
-2. Sind die Umsetzungsfristen abgelaufen — wenn ja: unmittelbare Wirkung der Richtlinie pruefbar?
+2. Sind die Umsetzungsfristen abgelaufen — wenn ja: unmittelbare Wirkung der Richtlinie prüfbar?
 3. Richtet sich die Wirkung gegen den Staat (vertikale Direktwirkung) oder zwischen Privaten (horizontale Direktwirkung — sehr begrenzt)?
 4. Ist der nationale Richter verpflichtet, entgegenstehendes nationales Recht unangewendet zu lassen (Vorrangpflicht)?
 

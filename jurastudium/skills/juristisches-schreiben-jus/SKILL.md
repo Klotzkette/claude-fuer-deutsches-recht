@@ -1,6 +1,6 @@
 ---
 name: juristisches-schreiben-jus
-description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesl..."
+description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, ändert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesl..."
 ---
 
 # Lernprofil anpassen
@@ -23,7 +23,7 @@ description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfa
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 13 JAG NRW — Pruefungsinhalte 1. Staatsexamen (exemplarisch); andere Länder äquivalent
+- § 13 JAG NRW — Prüfungsinhalte 1. Staatsexamen (exemplarisch); andere Länder äquivalent
 - Art. 3 GG — Chancengleichheit: Grundlage für bundeslandspezifische Lernprofile
 - §§ 133, 157 BGB — Auslegungsmethoden: unveraendert kernelementig in allen Profilen
 - § 195 BGB — Verjährung als Dauerklassiker: bleibt in jedem Profil

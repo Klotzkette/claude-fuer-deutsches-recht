@@ -1,6 +1,6 @@
 ---
 name: luftfracht-pfaendung-genehmigung
-description: "Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung im Luftrecht Flughafenrecht."
+description: "Gläubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prüft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjährung und liefert Pfaendungsplan für Luftfracht-Vollstreckung im Luftrecht Flughafenrecht."
 ---
 
 # Luftfracht – Pfändung planen

@@ -44,7 +44,7 @@ description: "Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemisc
 - ALR mehr kasuistisch.
 - BGB-Generalklausel mit Aufgliederung.
 
-## Pruefraster
+## Prüfraster
 
 1. Etwas erlangt?
 2. Auf Kosten eines anderen?

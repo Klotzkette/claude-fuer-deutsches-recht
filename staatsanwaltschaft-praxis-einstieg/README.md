@@ -63,7 +63,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 142 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -187,8 +187,8 @@ Automatisch generierte Komplett-Liste aller 142 Skills in diesem Plugin. Beschre
 | `staatsanwalt-rolle-legalitaet-objektivitaet` | Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Ak... |
 | `staatsanwalt-rolle-staatsanwaltschaft` | Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Ak... |
 | `staatsanwaltschaft-entscheidungsvorlage-verfuegung` | Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächste... |
-| `staatsanwaltschaft-uebergabe-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prüft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt im Staatsanwaltschafts-Praxis. |
-| `staatsanwaltschaft-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prüft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. |
+| `staatsanwaltschaft-uebergabe-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prüft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Übergabevermerk und naechstem Schritt im Staatsanwaltschafts-Praxis. |
+| `staatsanwaltschaft-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prüft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Übergabevermerk und naechstem Schritt. |
 | `stalking-238-stgb-gewschg-schnittstelle` | Stalking § 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `steuerstrafrecht-kooperation` | Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt im Staatsanwaltschafts-Praxis. |
 | `steuerstrafrecht-kooperation-finanzamt` | Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |

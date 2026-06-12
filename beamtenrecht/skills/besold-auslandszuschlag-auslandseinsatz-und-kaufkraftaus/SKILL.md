@@ -41,7 +41,7 @@ description: "Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgle
 - BPol / Bundeswehr im Auslandseinsatz: Auslandsverwendungszuschlag + Gefaehrdungszulage.
 - KFOR / EUFOR / UNMIK / Resolute Support: Sonderverwaltungsregeln.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Auslandsort?
 2. Welche Zone?

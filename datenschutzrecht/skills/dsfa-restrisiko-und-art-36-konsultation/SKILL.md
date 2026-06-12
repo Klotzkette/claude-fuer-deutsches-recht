@@ -1,6 +1,6 @@
 ---
 name: dsfa-restrisiko-und-art-36-konsultation
-description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Massnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist."
+description: "Restrisiko nach Maßnahmen bewerten und Vorab-Konsultation Art. 36 DSGVO vorbereiten. Output: Konsultationsantrag mit Verarbeitungsbeschreibung Maßnahmen Restrisiko Begruendung warum die Konsultation erforderlich ist."
 ---
 
 # Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO
@@ -25,7 +25,7 @@ description: "Restrisiko nach Massnahmen bewerten und Vorab-Konsultation Art. 36
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Vollstaendige Beschreibung aus der DSFA uebernehmen — Zweck, Datenarten, Betroffene, Empfaenger, Technologie, Drittlandbezug.
-2. **Verhaeltnismaessigkeitspruefung.** Wurde die Verhaeltnismaessigkeitspruefung der DSFA mit nachvollziehbarem Ergebnis abgeschlossen? Wenn nein, zurueck zur DSFA.
+2. **Verhältnismäßigkeitspruefung.** Wurde die Verhältnismäßigkeitspruefung der DSFA mit nachvollziehbarem Ergebnis abgeschlossen? Wenn nein, zurueck zur DSFA.
 3. **Risikoanalyse.** Risikomatrix vor und nach Maßnahmen; Identifizierung der Szenarien, die im hohen Bereich verbleiben.
 4. **Maßnahmen.** Sind alle technisch und organisatorisch zumutbaren Maßnahmen ergriffen? Prüfung Art. 32 DSGVO, Stand der Technik, Implementierungskosten gegen Risikoreduktion.
 5. **Restrisiko.** Wenn hoch verbleibend: Art. 36 Konsultation Pflicht. Begruendung warum das Restrisiko nicht weiter reduzierbar ist (Wirtschaftlichkeit, technische Grenzen, gesetzlicher Zweck).

@@ -102,7 +102,7 @@ Das DBA-Ungarn vom 28.02.2011 (BGBl. 2011 II S. 1322) ersetzte das DBA von 1977 
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| HU-Holding 9 Prozent KSt vs. CFC | HU-Tochter mit aktivem Geschäft: 9 Prozent KSt vorteilhaft | DE-CFC-Hinzurechnung bei passiven Einkuenften, Pillar Two Top-Up | bei aktivem Geschaeftsbetrieb Aktivitaetskatalog § 8 AStG durchpruefen — bei passiven Einkuenften CFC; bei Pillar-Two-Konzern Top-Up oft unvermeidlich |
+| HU-Holding 9 Prozent KSt vs. CFC | HU-Tochter mit aktivem Geschäft: 9 Prozent KSt vorteilhaft | DE-CFC-Hinzurechnung bei passiven Einkuenften, Pillar Two Top-Up | bei aktivem Geschäftsbetrieb Aktivitaetskatalog § 8 AStG durchpruefen — bei passiven Einkuenften CFC; bei Pillar-Two-Konzern Top-Up oft unvermeidlich |
 | EU-MTRL-Schachtel 10 Prozent vs. DBA-Schachtel 10 Prozent | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-Ungarn: 5 Prozent ab 10 Prozent Beteiligung | EU-MTRL vorrangig — § 43b EStG |
 | Lizenzgebuehren 0 Prozent DBA-Hoechstsatz | DBA Art. 12: 0 Prozent — keine HU-QSt | EU-ZinsLizenzRL ergaenzend nicht erforderlich, da bereits 0 Prozent | DBA-Wirkung direkt; Freistellungsbescheinigung gleichwohl nuetzlich für den HU-Zahlenden zur Vermeidung von Rueckhalt-Risiko |
 

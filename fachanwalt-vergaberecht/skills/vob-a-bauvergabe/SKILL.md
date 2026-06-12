@@ -14,7 +14,7 @@ description: "VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Pruefraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (öffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Pruefvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren. Normen: VOB-A Abschnitt 1 (Unterschwelle), VOB-A Abschnitt 2 (Oberschwelle, ergaenzend zu VgV-Baubereich), §§ 1-22 VOB-A. Prüfraster: Anwendungsbereich Bauleistung § 1 VOB-A, Verfahrenstypen (öffentlich, beschraenkt mit/ohne TW, freihaendig), Leistungsbeschreibung § 7 VOB-A, Nebenangebote § 8, Wertung § 16d, Schnittstelle VOB-B-Vertrag. Output Verfahrenswahl-Prüfvermerk, Leistungsbeschreibungs-Checkliste. Abgrenzung: Unterschwelle Liefer-/Dienstleistung siehe fachanwalt-vergaberecht-uvgo-unterschwellenvergabe; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 ### VOB-A-Bauvergabe (Abschnitte 1 und 2)
 
@@ -42,7 +42,7 @@ description: "VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen:
 - **Detaillierte LB** (Leistungsverzeichnis mit Positionen, Mengen, Einheitspreisen).
 - **Funktionale LB** mit Leistungsprogramm (ueblich bei komplexen oder GU-Vergaben).
 - Eindeutigkeit, Vollstaendigkeit, Hinweis auf besondere Umstaende.
-- Risiko des Auftraggebers für unvollstaendige LB (BGH VII ZR 113/17 Rechtsprechungslinie ueberpruefen).
+- Risiko des Auftraggebers für unvollstaendige LB (BGH VII ZR 113/17 Rechtsprechungslinie überprüfen).
 
 ## Wertung § 16d VOB-A
 - Eignungspruefung (Fachkunde, Leistungsfaehigkeit, Zuverlaessigkeit).

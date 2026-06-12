@@ -57,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -87,22 +87,22 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `icsid-quellenkarte` | Icsid Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `incoterms-2020-fca-versendungskauf` | Incoterms 2020 fca Versendungskauf: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `internationales-tatbestand-beweis-und-belege` | Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `intwr-cisg-pruefraster` | Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragss... |
+| `intwr-cisg-pruefraster` | Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragss... |
 | `intwr-eu-sanktionen-trade-compliance-spezial` | Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos Dual-Use-VO, Sektorbezogene Beschraenkungen, Listings, Umgehungsverbot: Spezialfall EU-Sanktionen Russland / Belarus / Iran und Trade Compliance: Embargos... |
 | `intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle: Intwr: Red-Team und Qualitätskontrolle. |
 | `intwr-rom-i-ii-leitfaden` | Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art: 9 Rom I... |
-| `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt: Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wi... |
+| `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung ausländischer Schiedssprueche, ordre public-Vorbehalt: Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wi... |
 | `invest-schutz-bit-icsid-c-284-16` | Invest Schutz Bit Icsid C 284 16: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `investitionsschutz-verhandlung-vergleich-und-eskalation` | Investitionsschutz: Verhandlung, Vergleich und Eskalation: Investitionsschutz: Verhandlung, Vergleich und Eskalation. |
 | `iwr-arbitration-ny-convention-spezial` | Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Prüfung Versagungsgruende Art: Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im... |
 | `iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist: VO 1215/2... |
 | `iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder können wir es ausschließen? CISG Anwendbarkeit Art: Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch o... |
 | `iwr-cisg-anwendung-spezial` | Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out möglich: Maengelruege Art.... |
-| `iwr-einfuehrung-rechtsquellen` | Internationales Wirtschaftsrecht einfuehrend: ROM I/II VO, EuGVVO Bruessel Ia, HKUe Vertragspflichten, UN-Kaufrecht CISG, Bilaterale Abkommen. Pro Quelle Anwendungsbereich, Schluesselbestimmungen, Beispiele. Entscheidungstabelle. |
+| `iwr-einfuehrung-rechtsquellen` | Internationales Wirtschaftsrecht einfuehrend: ROM I/II VO, EuGVVO Bruessel Ia, HKUe Vertragspflichten, UN-Kaufrecht CISG, Bilaterale Abkommen. Pro Quelle Anwendungsbereich, Schlüsselbestimmungen, Beispiele. Entscheidungstabelle. |
 | `iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014: Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compli... |
 | `iwr-eu-us-dpf-data-privacy-framework` | EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung: Folge für Stand... |
 | `iwr-icc-uncitral-schiedsverfahren` | Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen: ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster:... |
-| `iwr-rechtswahl-gerichtsstand-praxis` | Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art: 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte für typische Konstellation... |
+| `iwr-rechtswahl-gerichtsstand-praxis` | Rechtswahl und Gerichtsstand in der Praxis: Prüfraster Art: 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte für typische Konstellation... |
 | `kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen: Kanzlei: Internationaler Bezug und Schnittstellen. |
 | `lksg-compliance-dokumentation-und-akte` | Lksg: Compliance-Dokumentation und Aktenvermerk: Lksg: Compliance-Dokumentation und Aktenvermerk. |
 | `mandat-triage-iwr` | Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen: Eingangs-Triage IWR. Prüfraster: Mandantenrol... |

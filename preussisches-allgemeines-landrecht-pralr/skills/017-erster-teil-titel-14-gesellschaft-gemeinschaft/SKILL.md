@@ -39,7 +39,7 @@ Zwei Bremer Kaufleute gruenden Gesellschaft zum Handelsbetrieb.
 - HGB OHG, KG.
 - GmbH-Gesetz 1892.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Gesellschaftsform?
 2. Beitrag?

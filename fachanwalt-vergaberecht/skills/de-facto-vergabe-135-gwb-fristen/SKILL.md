@@ -1,6 +1,6 @@
 ---
 name: de-facto-vergabe-135-gwb-fristen
-description: "De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege: De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pruefen: fehlende Bek..."
+description: "De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege: De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bek..."
 ---
 
 # De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege.
@@ -39,7 +39,7 @@ Fristen- und Kenntnismatrix, Unwirksamkeitsantrag, Verteidigungsargumente.
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

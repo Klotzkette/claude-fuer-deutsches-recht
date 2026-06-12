@@ -43,7 +43,7 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Bei Edge-Case immer Sachverhaltsdokumentation als erste Aktivitaet**: Photos, Belege, Vertrags-PDFs, Reisekalender, IT-Login-Logs — bevor das Memo geschrieben wird. Prüfer setzen den Massstab bei den Belegen, nicht bei der juristischen Argumentation.
+- **Bei Edge-Case immer Sachverhaltsdokumentation als erste Aktivitaet**: Photos, Belege, Vertrags-PDFs, Reisekalender, IT-Login-Logs — bevor das Memo geschrieben wird. Prüfer setzen den Maßstab bei den Belegen, nicht bei der juristischen Argumentation.
 - **Doppelbesteuerung sofort rechnerisch darstellen**: Welche Steuer fiel in welchem Staat an? Welche Bemessungsgrundlage? Welcher Bescheid liegt vor? Prüfer und MAP-Antraege verlangen Zahlentransparenz.
 - **Beneficial-Ownership-Prüfung bei Holding-Edge-Cases**: nicht nur § 50d Abs. 3 EStG, sondern auch DBA-eigene Beneficial-Ownership-Klausel; bei MLI-Anpassung zusaetzlich PPT.
 - **Bei Hybrid-Gesellschaften (LLC, LP, CV)**: BMF-Schreiben 26.09.2014 ist Hauptdokument; aktuellen Stand im BMF-Verzeichnis prüfen.
@@ -55,9 +55,9 @@ Für jeden Edge-Case eine Tabelle ausgeben:
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Bewusste BS-Begruendung vs. Vermeidung | aktive lokale Geschaeftstaetigkeit, BS akzeptieren | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion | bei lukrativen Maerkten Pfad A; bei Pilotprojekt Pfad B |
+| Bewusste BS-Begruendung vs. Vermeidung | aktive lokale Geschäftstaetigkeit, BS akzeptieren | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion | bei lukrativen Maerkten Pfad A; bei Pilotprojekt Pfad B |
 | Hybrid-Gesellschaft (US-LLC) als transparent vs. intransparent | transparent (DE-Sicht, mit BMF 26.09.2014) | intransparent (US-Sicht) | Qualifikationskonflikt — frueh klären, ggf. MAP |
-| Stock Options bei Wegzug: Realisierung vor vs. nach Wegzug | vor Wegzug: voll DE-besteuert | nach Wegzug: Anteil auslaendischer Vesting-Periode | bei nachgewiesener Auslandstaetigkeit Aufteilungsmodell |
+| Stock Options bei Wegzug: Realisierung vor vs. nach Wegzug | vor Wegzug: voll DE-besteuert | nach Wegzug: Anteil ausländischer Vesting-Periode | bei nachgewiesener Auslandstaetigkeit Aufteilungsmodell |
 | Pensionaer Wohnsitz Portugal NHR: NHR aktivieren oder nicht | NHR aktiv: niedrige PT-Steuer, aber § 50d Abs. 9 EStG-Risiko | NHR nicht aktiv: regulaere PT-Besteuerung, geringeres § 50d-Risiko | Modellrechnung pro Jahr; NHR oft trotzdem vorteilhaft, aber DE-Anrechnung kann drohen |
 | Dreieckssachverhalt: 3 Staaten besteuern | komplexes MAP zwischen allen Beteiligten | unilaterale § 34c-Anrechnung in DE | bei DE-Ansaessigkeit erst § 34c durchrechnen; MAP bei Restdoppelbesteuerung |
 | Treaty Shopping: Strukturoptimierung | EU-Holding zwischenschalten | Direktstruktur | § 50d Abs. 3 EStG, PPT, LOB — Pfad A nur bei echter Substanz |
@@ -115,7 +115,7 @@ Sachverhalt: Mandant DE-ansaessig, BS in Staat B, Zahlung aus Staat C (Quellenst
 | DBA DE-C existiert? | DBA-[C] | [ja/nein] |
 | DBA B-C existiert? | DBA zwischen B und C | nicht direkt relevant für DE-Memo |
 | Welchen DBA-Schutz hat DE-BS in B für Einkuenfte aus C? | DBA-[B] und nationales Recht B | live prüfen |
-| Anrechnung in DE: § 34c EStG für auslaendische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Prüfung — Doppelanrechnung droht |
+| Anrechnung in DE: § 34c EStG für ausländische Steuer aus C oder B? | § 34c EStG | sorgfaeltige Prüfung — Doppelanrechnung droht |
 | Switch-Over bei passiver Niedrigsteuer-BS? | § 20 Abs. 2 AStG | bei passiver BS Prüfung |
 | MAP DE-B oder DE-C? | DBA Art. 25 | bilateral |
 | Verstaendigung trilateral nicht möglich | — | nur zwei DBA-Verfahren parallel |

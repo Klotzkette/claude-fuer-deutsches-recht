@@ -15,7 +15,7 @@ bundesgerichtshof.de, gesetze-im-internet.de, eur-lex.europa.eu.
 | [`01-besoldung-bverfg-rechtsprechung.md`](./01-besoldung-bverfg-rechtsprechung.md) | BVerfG-Rechtsprechung zur verfassungswidrigen Besoldung, 5-Parameter-Prüfung, Mindestabstandsgebot, Reparaturgesetze, hängige Vorlagen | 938 Zeilen |
 | [`02-foederalismus-beamtenstatusrecht.md`](./02-foederalismus-beamtenstatusrecht.md) | Foederalismusreform 2006, BeamtStG, BBG, alle 16 LBG, Besoldungsfoederalismus, hergebrachte Grundsaetze Art. 33 V GG, Laufbahnrecht | 979 Zeilen |
 | [`03-disziplinarrecht-suspendierung.md`](./03-disziplinarrecht-suspendierung.md) | BDG, BDG-Novelle 2024 (Vollzugsmodell, Wegfall aufschiebende Wirkung), Suspendierung, Verfassungstreue, Reichsbuerger/Chatgruppen-Rechtsprechung | 803 Zeilen |
-| [`04-richterrecht-drig-unabhaengigkeit.md`](./04-richterrecht-drig-unabhaengigkeit.md) | DRiG, Art. 97 GG, Richterwahlausschuesse, Richterlaufbahn, R-Besoldung, Richterdienstgerichte, Fall Maier, EuGH-Polen, GG-Aenderung 2024 | 812 Zeilen |
+| [`04-richterrecht-drig-unabhaengigkeit.md`](./04-richterrecht-drig-unabhaengigkeit.md) | DRiG, Art. 97 GG, Richterwahlausschuesse, Richterlaufbahn, R-Besoldung, Richterdienstgerichte, Fall Maier, EuGH-Polen, GG-Änderung 2024 | 812 Zeilen |
 
 ## Zweck
 

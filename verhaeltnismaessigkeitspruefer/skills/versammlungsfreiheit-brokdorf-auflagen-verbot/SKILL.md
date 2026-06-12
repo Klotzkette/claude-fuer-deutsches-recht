@@ -1,6 +1,6 @@
 ---
 name: versammlungsfreiheit-brokdorf-auflagen-verbot
-description: "Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und Eilrechtsschutz: Brokdorf-Linie, konkrete Gefahrenprognose, Kooperationsgebot, Auflage-vor-Verbot und verhaeltnismaessige Versammlungssteuerung."
+description: "Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und Eilrechtsschutz: Brokdorf-Linie, konkrete Gefahrenprognose, Kooperationsgebot, Auflage-vor-Verbot und verhältnismäßige Versammlungssteuerung."
 ---
 
 # Versammlungsfreiheit: Brokdorf, Auflagen, Verbot
@@ -21,7 +21,7 @@ description: "Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und E
 - BVerfG, Beschluss vom 21.04.1998, 1 BvR 2311/94: nachweisbare Tatsachen für die Gefahrenprognose; blosse Vermutungen reichen nicht.
 - BVerfG, Urteil vom 22.02.2011, 1 BvR 699/06, BVerfGE 128, 226 (Fraport): Art. 8 GG kann auch in öffentlich beherrschten Privatrechtsraeumen durchgreifen.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Brokdorf in der amtlichen BVerfGE-Übersicht: `https://www.bundesverfassungsgericht.de/DE/Entscheidungen/EntscheidungenAusDerAmtlichenSammlung/_functions/akkordeon_band60-69.html`
 - BVerfG, 21.04.1998, 1 BvR 2311/94: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1998/04/rk19980421_1bvr231194.html`
@@ -32,7 +32,7 @@ description: "Art. 8 GG bei Demonstrationsauflagen, Verboten, Aufloesungen und E
 
 Prüfe eine Versammlungsbeschraenkung nicht als allgemeine Polizeisache, sondern zuerst als Eingriff in Art. 8 GG. Die vier Stufen werden versammlungsfreundlich kalibriert: Der Staat darf Gefahren abwehren, muss aber die Versammlung möglich machen, solange konkrete Auflagen die Gefahr beherrschbar halten.
 
-## Pruefmatrix
+## Prüfmatrix
 
 | Stufe | Leitfrage | Fehlerbremse |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Prüfe eine Versammlungsbeschraenkung nicht als allgemeine Polizeisache, sondern
 | Erforderlichkeit | Reicht eine Auflage, Route, Zeitfenster, Ordnerkonzept, Kommunikationsauflage? | Verbot und Aufloesung sind Ultima Ratio. |
 | Angemessenheit | Wie schwer wiegt der Eingriff gegen die konkret belegte Gefahr? | Je näher am Totalverbot, desto dichter die Begruendung. |
 
-## Kooperationsgebot als Verhaeltnismaessigkeitswerkzeug
+## Kooperationsgebot als Verhältnismäßigkeitswerkzeug
 
 Fordere oder simuliere immer ein Kooperationsgespraech:
 

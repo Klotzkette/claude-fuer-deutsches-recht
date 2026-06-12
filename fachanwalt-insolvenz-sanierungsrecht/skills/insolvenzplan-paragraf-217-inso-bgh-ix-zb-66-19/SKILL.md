@@ -7,7 +7,7 @@ description: "Insolvenzplan Paragraf 217 InsO BGH Ix Zb 66 19: fachanwaltlicher 
 
 ## Einsatzlage
 
-Schuldnerin legt Insolvenzplan; Glaeubigergruppe verweigert Zustimmung.
+Schuldnerin legt Insolvenzplan; Gläubigergruppe verweigert Zustimmung.
 
 ## Normenanker
 
@@ -32,7 +32,7 @@ Schuldnerin legt Insolvenzplan; Glaeubigergruppe verweigert Zustimmung.
 
 ## Arbeitsergebnis
 
-Obstruktionsverbot; Cramdown wenn Glaeubiger gleich gestellt.
+Obstruktionsverbot; Cramdown wenn Gläubiger gleich gestellt.
 
 ## Belege und Aktenlücken
 

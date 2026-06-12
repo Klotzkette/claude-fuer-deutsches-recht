@@ -251,7 +251,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Werkmangel nach VOB/B und BGB stufenweise prüfen | Neunstufiges Pruefschema; Schriftsatzbausteine unten |
+| Standard — Werkmangel nach VOB/B und BGB stufenweise prüfen | Neunstufiges Prüfschema; Schriftsatzbausteine unten |
 | Variante A — kein VOB/B-Vertrag (reines BGB) | Schritte 1-2 verkuerzen; ab Schritt 3 voll durchpruefen |
 | Variante B — Verjährung laeuft ab | Hemmung durch Verhandlung oder Klage unverzueglich; § 203 BGB |
 | Variante C — Architekt als Gesamtschuldner | Doppelklage AN und Architekt; Gesamtschuldner-Ausgleich beachten |

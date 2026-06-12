@@ -32,7 +32,7 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 3. WDVS-Unterkonstruktion: Klebeflaeche min. 40 Prozent, Duebelmuster, Stossversatz und Eckausfuehrung
 4. TGA-Koordination woechentlich: Baubesprechungsprotokoll, Konflikte Rohrleitungen vs. Deckenunterzuege
 5. Ausbaukontrolle Wohnungen: Estrich-Trocknungsprotokoll, Sanitaer-Rohinstallation vor Verkleidung fotografiert
-6. Aufzugsschacht: Schachtmasse, Sturztiefe, Grubentiefe nach DIN EN 81-20, Pruefingenieur-Abnahme
+6. Aufzugsschacht: Schachtmasse, Sturztiefe, Grubentiefe nach DIN EN 81-20, Prüfingenieur-Abnahme
 
 ## Normen und Rechtsrahmen
 
@@ -43,7 +43,7 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 - DIN EN 81-20 Sicherheitsregeln für Herstellung und Einbau von Aufzuegen
 - DIN 4109-1 Schallschutz im Hochbau: Mindestanforderungen Mehrfamilienhaus
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Bewehrung Geschossdecken: Betondeckung, Mattenstoss, Einbauteile Heizungsrohre nach Bewehrungsplan
 2. WDVS: Klebe- und Duebeldichte (min. 6 Duebel/qm), Stossversatz, Gewebeeinlage Eck-Armierung
@@ -73,7 +73,7 @@ Der akkreditierte Energieeffizienz-Experte (EE-Experte) begleitet Ausfuehrung un
 - KfW-Anforderung verfehlt: Bauteil-U-Wert abweichend, weil Daemmdicke geringer als geplant - Förderung rueckforderbar
 - Schallschutz MFH unterschaetzt: Estrich ohne Randstreifen, Schallzeugnis schlechter als Klasse II
 - WDVS-Duebel vergessen: Unterputz ohne Duebel loest sich von der Fassade
-- Aufzugsschacht zu kurz: Grubentiefe unterschritten, Pruefingenieur verweigert Abnahme
+- Aufzugsschacht zu kurz: Grubentiefe unterschritten, Prüfingenieur verweigert Abnahme
 
 ## Quellen
 

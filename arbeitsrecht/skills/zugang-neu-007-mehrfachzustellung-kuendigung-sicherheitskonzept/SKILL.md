@@ -28,8 +28,8 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 - Bote uebergibt persoenlich (Erstzugang).
 - Einwurfeinschreiben am gleichen Tag oder kurz danach (Ersatzbeweis).
 
-### Kombi 2: Persoenliche Uebergabe + Einschreiben mit Rueckschein
-- Persoenliche Uebergabe gegen Empfangsbestaetigung.
+### Kombi 2: Persoenliche Übergabe + Einschreiben mit Rueckschein
+- Persoenliche Übergabe gegen Empfangsbestaetigung.
 - Einschreiben mit Rueckschein zusaetzlich (falls Empfangsbestaetigung verloren).
 
 ### Kombi 3: Bote + Notar
@@ -47,7 +47,7 @@ Wegen der hohen Beweislast (Arbeitgeber muss Zugang beweisen) und der 3-Wochen-F
 - Identische Originale (Inhaltsbeweis).
 - Bei Streit über Zugang: spaetestens Zustellung wirkt.
 
-## Pruefraster
+## Prüfraster
 
 1. Wie viele Zustellwege?
 2. Welcher war zuerst wirksam?

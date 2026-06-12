@@ -91,15 +91,15 @@ description: "Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jae
 
 - Inventur-Protokolle aufbewahren (10 Jahre, § 257 HGB).
 - Wertberechnung dokumentieren.
-- Bei Pruefungspflicht WP-Inventur-Begleitung.
+- Bei Prüfungspflicht WP-Inventur-Begleitung.
 
 ## Strategie und Praxis-Tipps
 
 - Inventur ist Pflicht — nicht abgekuerzte Prüfung.
-- Bei Handel und Industrie Inventur-Tag oft am 31. Dezember (Geschaeftsruhe).
+- Bei Handel und Industrie Inventur-Tag oft am 31. Dezember (Geschäftsruhe).
 - LIFO steuerlich nur unter Voraussetzungen — aber bei Inflation Steuerstundungs-Vorteil.
 - Niederstwertprinzip ist Vorsichtsprinzip — bei zweifelhaften Bestaenden abschreiben.
-- Bei Pruefungspflicht: WP beobachtet Inventur (Stichproben).
+- Bei Prüfungspflicht: WP beobachtet Inventur (Stichproben).
 
 ## Quellen und Updates
 

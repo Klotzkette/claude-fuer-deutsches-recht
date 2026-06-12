@@ -16,16 +16,16 @@ description: "Strafzumessung bei Bankrott und Insolvenzdelikten: Paragraph 46 St
 
 **Fokus:** Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB.
 
-### Strafzumessung und Vermoegensabschoepfung bei Insolvenzstraftaten
+### Strafzumessung und Vermögensabschoepfung bei Insolvenzstraftaten
 
 ## Worum geht es konkret
 
-Wenn der Tatbestand einer Insolvenzstraftat feststeht, verlagert sich die Verteidigung in die Strafzumessung und Nebenfolgen. Anwendungsfall: GF wird wegen Paragraph 283 StGB und Paragraph 266a StGB verurteilt; die Hauptverhandlung wird zum Kampf um Bewaehrungsfaehigkeit, Vermoegensabschoepfung und Berufsverbot.
+Wenn der Tatbestand einer Insolvenzstraftat feststeht, verlagert sich die Verteidigung in die Strafzumessung und Nebenfolgen. Anwendungsfall: GF wird wegen Paragraph 283 StGB und Paragraph 266a StGB verurteilt; die Hauptverhandlung wird zum Kampf um Bewaehrungsfaehigkeit, Vermögensabschoepfung und Berufsverbot.
 
 Die Insolvenzstraftaten haben drei *parallele* Belastungen:
 
 1. **Strafrahmen** (Geld- oder Freiheitsstrafe);
-2. **Vermoegensabschoepfung** (Einziehung, Wertersatz);
+2. **Vermögensabschoepfung** (Einziehung, Wertersatz);
 3. **Berufliche und persönliche Folgen** (Berufsverbot, GF-Sperre, BZRG, Reputation).
 
 ## Tatbestand im Detail
@@ -38,7 +38,7 @@ Die Insolvenzstraftaten haben drei *parallele* Belastungen:
  - aufgewendete Energie,
  - Vorleben und Persoenlichkeit,
  - Verhalten nach der Tat (Wiedergutmachung, Gestaendnis),
- - Auswirkungen der Tat (Schaden, Glaeubigerzahl).
+ - Auswirkungen der Tat (Schaden, Gläubigerzahl).
 
 ### Wiedergutmachung als Strafzumessungs-Hebel
 
@@ -59,7 +59,7 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - Das aus der Tat **Erlangte** wird eingezogen.
 - Bei nicht koerperlich vorhandenem Vermögen: Wertersatz Paragraph 73c StGB (Geldbetrag).
 - Bei Drittbeteiligten: Paragraph 73b StGB Drittbeteiligten-Einziehung.
-- Berechnungsmethode: Brutto- oder Nettoprinzip? Seit 2017 (Gesetz zur Reform der Vermoegensabschoepfung) **Bruttoprinzip** als Grundregel.
+- Berechnungsmethode: Brutto- oder Nettoprinzip? Seit 2017 (Gesetz zur Reform der Vermögensabschoepfung) **Bruttoprinzip** als Grundregel.
 - **Paragraph 73e StGB Haerteklausel**: bei unbilliger Haerte teilweise Absehen möglich.
 
 ### Paragraph 70 StGB Berufsverbot
@@ -82,21 +82,21 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 ## Praktikertipps der alten Hasen
 
 - **Wiedergutmachung von Anfang an organisieren.** Mit Insolvenzverwalter Vergleich verhandeln; teilweise Rueckzahlung; Anerkenntnis der Anfechtungsforderung. Strafmilderung greift fruehzeitig.
-- **Sachverstaendigengutachten zur Schadenshoehe.** Bei Einziehung wirkt jede Euro Schadensminderung direkt auf die Vermoegensabschoepfung. Gegen-Bilanzierung kann sechsstellige Betraege bewegen.
+- **Sachverstaendigengutachten zur Schadenshoehe.** Bei Einziehung wirkt jede Euro Schadensminderung direkt auf die Vermögensabschoepfung. Gegen-Bilanzierung kann sechsstellige Betraege bewegen.
 - **Paragraph 73e StGB Haerteklausel.** Bei drohender Privatinsolvenz des Mandanten durch Wertersatz prüfen, ob Haerteklausel greift. Selten erfolgreich, aber möglich.
 - **Bewaehrung-Argumente bei Insolvenzstraftaten:**
  - Erste Verurteilung,
  - Schadenswiedergutmachung,
  - Persoenlich-wirtschaftliche Spitzensituation als Tatauslqueger,
  - Stabilisierung der Lebensumstaende (neue Arbeit, Therapie).
-- **Berufsverbot vermeiden.** Argumentieren: Tat war einmalig, Mandant hat berufliche Position aufgegeben, neue Position ohne Vermoegensverantwortung. Berufsverbot kann zeitlich begrenzt oder verneint werden.
+- **Berufsverbot vermeiden.** Argumentieren: Tat war einmalig, Mandant hat berufliche Position aufgegeben, neue Position ohne Vermögensverantwortung. Berufsverbot kann zeitlich begrenzt oder verneint werden.
 - **D&O-Versicherung prüfen.** Bei Vorstaenden/GF deckt D&O regelmaessig zivilrechtliche Haftung, aber nicht strafrechtliche Geldstrafen. Einziehung ist aber nicht Strafe iSv Paragraph 73a StGB - hier ist D&O-Deckung manchmal möglich.
 
 ## Trade-off-Matrix
 
 | Pfad A Bewaehrung anstreben + Wiedergutmachung | Pfad B Einziehung minimieren + Schaden bestreiten | Empfehlung |
 | --- | --- | --- |
-| Bei klarer Tatbestandsverwirklichung, Verlagerung in Strafzumessung | Bei zweifelhafter Schadensbeziffrung, gegen Vermoegensabschoepfung | Beide Pfade parallel. Bei sechsstelligen Schadenssummen Pfad B priorisieren. |
+| Bei klarer Tatbestandsverwirklichung, Verlagerung in Strafzumessung | Bei zweifelhafter Schadensbeziffrung, gegen Vermögensabschoepfung | Beide Pfade parallel. Bei sechsstelligen Schadenssummen Pfad B priorisieren. |
 
 ## Konkurrenzen
 
@@ -108,7 +108,7 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 (Diese Sektion ist hier zentraler Inhalt.)
 
 - **Strafrahmen-Verschiebung Paragraph 49 StGB**: bei minder schwerem Fall, taetiger Reue (Paragraph 266a Abs 6 StGB), Beihilfe (Paragraph 27 Abs 2 StGB), Versuch (Paragraph 23 Abs 2 StGB), Verbotsirrtum (Paragraph 17 Satz 2 StGB).
-- **Konfiskation der Tatbeute**: Praktisch wichtigste Vermoegensfolge.
+- **Konfiskation der Tatbeute**: Praktisch wichtigste Vermögensfolge.
 - **Persoenlicher Konkurs**: bei hohen Wertersatzbetraegen kann Privatinsolvenz folgen.
 - **Reputation**: in Wirtschaftsstrafsachen oft schwerwiegender als Strafe.
 
@@ -116,9 +116,9 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 **Plaedoyer-Snippet (Strafzumessung):** "Mein Mandant hat den Schaden in voller Höhe von EUR X an die Masse zurueckgefuehrt (Anlage P 1). Er hat ein vollumfaengliches Gestaendnis abgelegt (HV-Protokoll Bl. xx). Er ist Erststraefter. Eine Bewaehrungsstrafe ist auch über 1 Jahr nach Paragraph 56 Abs 2 StGB gerechtfertigt; die besonderen Umstaende liegen in der Erststrafenlage, der vollstaendigen Wiedergutmachung und der wirtschaftlichen Notlage der Tatzeit."
 
-**Antrag auf Absehen vom Berufsverbot:** "Es wird beantragt, von einem Berufsverbot nach Paragraph 70 StGB abzusehen. Mein Mandant hat seine Taetigkeit als GF aufgegeben und ist seit DD.MM.JJJJ als Angestellter (ohne Vermoegensverantwortung) bei der Y AG tätig (Anlage P 2). Eine Wiederholungsgefahr besteht damit nicht."
+**Antrag auf Absehen vom Berufsverbot:** "Es wird beantragt, von einem Berufsverbot nach Paragraph 70 StGB abzusehen. Mein Mandant hat seine Taetigkeit als GF aufgegeben und ist seit DD.MM.JJJJ als Angestellter (ohne Vermögensverantwortung) bei der Y AG tätig (Anlage P 2). Eine Wiederholungsgefahr besteht damit nicht."
 
-**Antrag Haerteklausel Einziehung:** "Es wird beantragt, von der Anordnung einer Einziehung nach Paragraph 73 StGB im Hinblick auf den Wertersatz nach Paragraph 73c StGB unter Anwendung der Haerteklausel Paragraph 73e StGB zumindest teilweise abzusehen. Mein Mandant ist bereits durch die zivilrechtliche Erstattungsklage des Insolvenzverwalters in Höhe von EUR Z belastet (Anlage P 3); zusaetzliche Vermoegensabschoepfung wuerde zu Privatinsolvenz fuehren."
+**Antrag Haerteklausel Einziehung:** "Es wird beantragt, von der Anordnung einer Einziehung nach Paragraph 73 StGB im Hinblick auf den Wertersatz nach Paragraph 73c StGB unter Anwendung der Haerteklausel Paragraph 73e StGB zumindest teilweise abzusehen. Mein Mandant ist bereits durch die zivilrechtliche Erstattungsklage des Insolvenzverwalters in Höhe von EUR Z belastet (Anlage P 3); zusaetzliche Vermögensabschoepfung wuerde zu Privatinsolvenz fuehren."
 
 ## Quellen Stand 06/2026
 
@@ -131,6 +131,6 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Sperre.
 - Paragraph 76 Abs 3 Satz 2 Nr 3 AktG Vorstands-Sperre.
 - Paragraph 46 BZRG Tilgungsfristen.
-- Gesetz zur Reform der strafrechtlichen Vermoegensabschoepfung (in Kraft 01.07.2017) - Bruttoprinzip.
+- Gesetz zur Reform der strafrechtlichen Vermögensabschoepfung (in Kraft 01.07.2017) - Bruttoprinzip.
 - BGH staendige Rspr. zur Wertgrenze "großes Ausmass" bei EUR 50.000.
-- BGH staendige Rspr. zum Verhaeltnis Einziehung und zivilrechtlicher Schaden.
+- BGH staendige Rspr. zum Verhältnis Einziehung und zivilrechtlicher Schaden.

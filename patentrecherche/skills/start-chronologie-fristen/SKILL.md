@@ -133,7 +133,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 
 - Mandant hat neue Erfindung und will wissen, ob sie neuheitlich und erfinderisch genueg für eine Patentanmeldung ist.
 - Unternehmen plant Markteintritt mit neuem Produkt und braucht FTO-Recherche zu aktiven Schutzrechten von Wettbewerbern.
-- Patentanwalt erhaelt Pruefungsbescheid des DPMA oder EPA und muss Antwort mit Stand-der-Technik-Analyse vorbereiten.
+- Patentanwalt erhaelt Prüfungsbescheid des DPMA oder EPA und muss Antwort mit Stand-der-Technik-Analyse vorbereiten.
 - Mandant will Patentportfolio eines Konkurrenten laufend beobachten (Ueberwachung Neuanmeldungen).
 - Rechtsstandpruefung eines Patents: Ist das Schutzrecht noch in Kraft? Sind Jahresgebuehren bezahlt?
 
@@ -153,13 +153,13 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - § 3 PatG — Neuheit
 - § 4 PatG — Erfinderische Taetigkeit
 - §§ 34 ff. PatG — Patentanmeldung beim DPMA
-- §§ 44 45 PatG — Pruefungsverfahren DPMA
+- §§ 44 45 PatG — Prüfungsverfahren DPMA
 - Art. 52-57 EPUe — Patentierbarkeit nach Europaeischem Patentrecht
-- Art. 94 EPUe — Pruefungsverfahren EPA
+- Art. 94 EPUe — Prüfungsverfahren EPA
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Neuanmeldung, FTO, Pruefungsbescheid-Antwort oder Konkurrenzueberwachung?
+1. Mandantenkonstellation klären: Neuanmeldung, FTO, Prüfungsbescheid-Antwort oder Konkurrenzueberwachung?
 2. Erfindungsmaterial aufnehmen: Anspruchsentwurf, Beschreibung oder technisches Dokument hochladen.
 3. Klassifikation bestimmen: CPC/IPC-Klassen für gezielte Datenbanksuche festlegen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
@@ -176,7 +176,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - `freedom-to-operate-recherche` — FTO-Recherche vor Markteintritt: aktive Drittpatente mit relevantem Scope identifizieren.
 - `patentfamilien-analyse` — Alle Familienmitglieder eines Schutzrechts über INPADOC und Espacenet ermitteln.
 - `rechtsstand-pruefen` — Aktuellen Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Register prüfen.
-- `pruefungsbescheid-vorbereiten` — Antwort auf DPMA-Pruefungsbescheid (§ 45 PatG) oder EPA-Bescheid (Art. 94 EPUe) systematisch vorbereiten.
+- `pruefungsbescheid-vorbereiten` — Antwort auf DPMA-Prüfungsbescheid (§ 45 PatG) oder EPA-Bescheid (Art. 94 EPUe) systematisch vorbereiten.
 - `recherchebericht-erstellen` — Formalen Recherchebericht mit Methodik, Datenbanken, Suchstrategien und Ergebnissen erstellen.
 - `ueberwachung-konkurrenten` — Watch-Profile für laufende Ueberwachung neuer Patentanmeldungen von Wettbewerbern anlegen.
 - `rueckfragen-mandant` — Rueckfragen an den Mandanten generieren, wenn Erfindungsmaterial unvollstaendig oder ambivalent ist.
@@ -185,7 +185,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 
 - Neuheitsschaedlichkeit ist weltweit und zeitlich unbegrenzt: Auch 20 Jahre alte Veroeffentlichungen können Neuheit zerstoeren.
 - FTO und Anmelderecherche sind unterschiedliche Aufgaben mit unterschiedlichem Scope; Verwechslung fuehrt zu falschen Ergebnissen.
-- Pruefungsbescheide haben feste Fristen (§ 45 PatG: 4 Monate, verlaengerbar; Art. 94 EPUe: ähnlich); versaeumte Fristen fuehren zu Zurueckweisung.
+- Prüfungsbescheide haben feste Fristen (§ 45 PatG: 4 Monate, verlaengerbar; Art. 94 EPUe: ähnlich); versaeumte Fristen fuehren zu Zurueckweisung.
 - Patentfamilien-Analyse ist essenziell: Ein nationales Schutzrecht kann international wirken; nur Famille-Prüfung zeigt Gesamtscope.
 - Veroeffentlichungen des Anmelders vor dem Prioritaetstag können neuheitsschaedlich sein (Ausnahme: 6-Monats-Schonfrist in manchen Systemen, z.B. USPTO).
 
@@ -194,7 +194,7 @@ Das Plugin arbeitet agentisch: Es steuert Datenbankabfragen in Espacenet, Google
 - Recherche nur in einer Datenbank: Relevante Dokumente sind oft nur in DEPATISnet oder USPTO-Datenbanken, nicht in Espacenet.
 - Falschen Zeitschnitt gesetzt: FTO-Recherche erfordert nur noch in Kraft befindliche Schutzrechte; Neuheitsrecherche erfordert alle Veroeffentlichungen bis zum Anmeldetag.
 - CPC-Klassifikation zu eng gewaehlt: Aehnliche Technologien in Nachbarklassen werden uebersehen.
-- Pruefungsbescheid-Argumente zu schwach: Ohne detaillierten Merkmals-Abgleich (Feature-by-Feature-Analysis) akzeptiert EPA keine summarischen Stellungnahmen.
+- Prüfungsbescheid-Argumente zu schwach: Ohne detaillierten Merkmals-Abgleich (Feature-by-Feature-Analysis) akzeptiert EPA keine summarischen Stellungnahmen.
 - Rechtsstand nicht gecheckt: FTO-Recherche gegen abgelaufene oder fallen lassene Patente liefert unnoetigen Aufwand.
 
 ## Quellen und Aktualitaet

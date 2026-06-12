@@ -1,6 +1,6 @@
 ---
 name: pflegekraefte-selbststaendig
-description: "Prüft Pflegekräfte, Einrichtungen, ambulante Dienste, Dienstpläne, Fachaufsicht und Statusrisiko im Sozialversicherungsstatus Pruefer."
+description: "Prüft Pflegekräfte, Einrichtungen, ambulante Dienste, Dienstpläne, Fachaufsicht und Statusrisiko im Sozialversicherungsstatus Prüfer."
 ---
 
 # Selbständige Pflegekräfte

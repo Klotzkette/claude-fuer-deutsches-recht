@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-ratenplan-3-mabv
-description: "MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt: Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten P..."
+description: "MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt: Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Prüfung. Liefert exakten P..."
 ---
 
 # MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt
@@ -14,7 +14,7 @@ description: "MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt: Skill listet 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Prüfung. Liefert exakten Pruefraster.
+**Fokus:** MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Prüfung. Liefert exakten Prüfraster.
 
 ### Bautraeger Mabv Ratenplan 3 Mabv
 
@@ -32,7 +32,7 @@ description: "MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt: Skill listet 
 - 4,2 % nach Innenputz.
 - 2,1 % nach Estricharbeiten.
 - 2,8 % nach Fliesenarbeiten im Sanitaer.
-- 8,4 % nach bezugsfertiger Herstellung und Zug-um-Zug-Uebergabe.
+- 8,4 % nach bezugsfertiger Herstellung und Zug-um-Zug-Übergabe.
 - 2,1 % nach Fassade.
 - 3,5 % nach vollstaendiger Fertigstellung.
 
@@ -48,7 +48,7 @@ Summen können je nach Fassung der MaBV abweichen — Vor Mandatsmäßigen Berat
 - BGH staendige Rspr.: zu hohe Raten oder vorgezogene Zahlung machen Klausel unwirksam.
 - Erwerber kann zurueckhalten / zurueckfordern.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Stand?
 2. Welche Rate verlangt?

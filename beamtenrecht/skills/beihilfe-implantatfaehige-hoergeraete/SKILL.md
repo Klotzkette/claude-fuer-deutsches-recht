@@ -59,7 +59,7 @@ Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hoch
 ## 6. Verifizierte Quellenanker
 
 - BBhV insbesondere Anlage 6 (Hilfsmittel und Festbetraege); landesrechtliche Beihilfeverordnungen mit eigenen Hilfsmittelverzeichnissen.
-- Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Massstab für beihilfefaehige Mehrkosten.
+- Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Maßstab für beihilfefaehige Mehrkosten.
 - BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel und zur Prüfung medizinischer Notwendigkeit — Datum und Az vor Zitat live verifizieren.
 - Hilfsmittelrichtlinie des G-BA und einschlaegige HNO- und audiologische Leitlinien als Begruendungsgrundlage.
 

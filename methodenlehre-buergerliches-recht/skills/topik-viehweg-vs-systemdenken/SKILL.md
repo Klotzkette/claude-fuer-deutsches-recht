@@ -1,6 +1,6 @@
 ---
 name: topik-viehweg-vs-systemdenken
-description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: General..."
+description: "Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhältnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: General..."
 ---
 
 # Topik nach Theodor Viehweg vs. Systemdenken
@@ -58,7 +58,7 @@ Diese Position steht in Spannung zur klassischen deutschen Methodenlehre (Begrif
 
 **Beispiel Vertragsauslegung §§ 133, 157 BGB:** Empfaengerhorizont, Verkehrssitte, Interessenlage sind Topoi der Auslegung. Sie werden nicht aus einer Systemlogik abgeleitet, sondern als etablierte Argumentationsmuster verwendet.
 
-**Beispiel AGB-Kontrolle § 307 BGB:** Konkretisierung von "unangemessene Benachteiligung" durch Topoi wie "Aequivalenzgedanke", "Schutz des Verbrauchers", "Transparenzgebot". Die Topoi sind im juristischen Diskurs konsentiert; der Begriff "Unangemessenheit" ist topisch ausgefuellt.
+**Beispiel AGB-Kontrolle § 307 BGB:** Konkretisierung von "unangemessene Benachteiligung" durch Topoi wie "Äquivalenzgedanke", "Schutz des Verbrauchers", "Transparenzgebot". Die Topoi sind im juristischen Diskurs konsentiert; der Begriff "Unangemessenheit" ist topisch ausgefuellt.
 
 **Beispiel Schiedsverfahren:** In internationalen Schiedsverfahren (DIS, ICC, LCIA) treten Topoi-Argumente oft staerker hervor als das Lehrbuch-Schema. Schiedsrichter operieren mit allgemeinen Rechtsprinzipien, lex mercatoria, equity-Erwaegungen — alles topische Argumentationsformen.
 

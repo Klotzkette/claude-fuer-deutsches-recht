@@ -43,7 +43,7 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - DIN 18312 VOB/C Untertagebauarbeiten: Abrechnung Vortriebsklassen, Mehrmengen
 - ArbStaettV Arbeitstaettenverordnung: Bewetterung Untertagebau, Grenzwerte CO 30 ppm
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Spritzbeton Druckfestigkeit: Bohrkernpruefliste je Vortriebsabschnitt, Gueteklasse J2/J3 nach ZTV-ING
 2. Spritzbeton-Schichtdicke: Messnadel-Kontrolle waehrend Aufbringen, min. 15 cm je Lage
@@ -57,8 +57,8 @@ Sicherheitsrelevante Messwerte (Konvergenz, Setzung) werden tagesaktuell mit Tot
 - PlanRadar Tunnel: Vortriebsklassen-Ticket je Meter, Foto Ortsbrust, GPS-Position, Verantwortlicher
 - Konvergenzmessdiagramm: Monatsbericht Gesamtverschiebungen, Alarm-Protokoll bei Grenzwertuebeerschreitung
 - Drohnenflug Tunnelportale: Portalstabilisierung, Einschnitt-Boeschungen, Wasseraustritte
-- Bohrkern-Pruefprotokoll: Druckfestigkeit, Zugfestigkeit, Datenmaterial für Flaechenstatistik
-- Spritzkernserie: Zeitstempel Entnahme, Lagerung 20 Grad C, Pruefprotokoll akkreditiertes Baustofflabor
+- Bohrkern-Prüfprotokoll: Druckfestigkeit, Zugfestigkeit, Datenmaterial für Flaechenstatistik
+- Spritzkernserie: Zeitstempel Entnahme, Lagerung 20 Grad C, Prüfprotokoll akkreditiertes Baustofflabor
 
 ## Meldungserstellung im ERP / SAP
 

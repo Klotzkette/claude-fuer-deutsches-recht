@@ -1,6 +1,6 @@
 ---
 name: gerichtsstand-und-rechtswahl-pruefen
-description: "Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Gerichtsstand Und Rechtswahl Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspre..."
+description: "Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtspre..."
 ---
 
 # Gerichtsstand Und Rechtswahl Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

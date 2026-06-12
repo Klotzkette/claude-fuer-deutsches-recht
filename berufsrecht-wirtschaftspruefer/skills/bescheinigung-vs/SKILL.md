@@ -1,11 +1,11 @@
 ---
 name: bescheinigung-vs
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+# Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.

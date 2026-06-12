@@ -14,11 +14,11 @@ description: "Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln o
 5. **Datenschutz:** Dürfen die eingereichten NDAs in das eingesetzte KI-System geladen werden (§ 203 StGB, GeschGehG)?
 
 ## Zentrale Normen
-- § 2 GeschGehG (Definition Geschaeftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
+- § 2 GeschGehG (Definition Geschäftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand): https://www.gesetze-im-internet.de/geschgehg/__2.html
 - § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat): https://www.gesetze-im-internet.de/geschgehg/__4.html
 - § 6 GeschGehG (Unterlassungs- und Beseitigungsanspruechen): https://www.gesetze-im-internet.de/geschgehg/__6.html
 - § 9 GeschGehG (Schadensersatz): https://www.gesetze-im-internet.de/geschgehg/__9.html
-- §§ 16-20 GeschGehG (prozessualer Geheimnisschutz im Geschaeftsgeheimnisstreit)
+- §§ 16-20 GeschGehG (prozessualer Geheimnisschutz im Geschäftsgeheimnisstreit)
 - **§ 273a ZPO** (neu eingefuegt durch Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): erstreckt die prozessualen Geheimnisschutzmassnahmen der §§ 16-20 GeschGehG auf alle Zivilverfahren und arbeitsgerichtliche Verfahren (§ 6a ArbGG); Antrag kann jede Partei stellen; Geheimhaltungspflicht aller Beteiligten, Verstoss-Ordnungsmittel bis 100.000 EUR. Quelle: https://www.gesetze-im-internet.de/zpo/__273a.html
 - §§ 305 ff. BGB (AGB-Kontrolle — bei vorformulierten NDA-Klauseln): https://www.gesetze-im-internet.de/bgb/__305.html
 - § 125 BGB (Schriftformerfordernis — doppelte Schriftformklausel): https://www.gesetze-im-internet.de/bgb/__125.html
@@ -237,7 +237,7 @@ Wichtig: Niemals den Text direkt am Anfang der `document.xml` über regulaere Au
 
 ## Header-Eintrag für die empfangende Partei
 
-Der Name des Mandanten (z. B. Wernherr & Dimpflmoser Spezialventiltechnik GmbH & Co. KG) wird als **Tracked Change** an der Stelle eingefügt, wo der Entwurf "[Company Name]" oder einen aequivalenten Platzhalter enthält. Ist kein Platzhalter vorhanden, wird die nächstpassende Stelle (in der "between"-Klausel der Präambel) verwendet und der Eintrag dort durch einen `w:ins`-Block ergänzt.
+Der Name des Mandanten (z. B. Wernherr & Dimpflmoser Spezialventiltechnik GmbH & Co. KG) wird als **Tracked Change** an der Stelle eingefügt, wo der Entwurf "[Company Name]" oder einen äquivalenten Platzhalter enthält. Ist kein Platzhalter vorhanden, wird die nächstpassende Stelle (in der "between"-Klausel der Präambel) verwendet und der Eintrag dort durch einen `w:ins`-Block ergänzt.
 
 ## Reporting im Chat
 
@@ -270,7 +270,7 @@ Für Modus A (Destillation):
 - "Hier sind unsere letzten zehn NDAs. Destilliere daraus unseren Standard."
 - "Wir haben zwar ein Template, aber wichtig ist die Praxis. Bau uns daraus eine Ampelmatrix."
 - "Aus diesen NDAs und meinen Notizen einen Haltelinien-Katalog ableiten."
-- "Pruef nochmal mit diesen drei neuen NDAs, ob unser Standard noch stimmt."
+- "Prüf nochmal mit diesen drei neuen NDAs, ob unser Standard noch stimmt."
 
 Für Modus B (Redlining):
 

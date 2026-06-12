@@ -66,7 +66,7 @@ Mit freundlichen Gruessen
 
 ### Beispiel 2 – Klageantrag bei Berichtigungsstreit
 
-Der Beklagte wird verurteilt, der Klaegerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
+Der Beklagte wird verurteilt, der Klägerin ein qualifiziertes Arbeitszeugnis zu erteilen, das auf dem Briefkopf der Beklagten ausgestellt wird, vom Tag des Beendigungsdatums datiert und vom dazu Befugten unterschrieben ist und folgenden Inhalt aufweist:
 
 Erstens, in der Leistungsbeurteilung statt "war stets bemueht" die Formulierung "erledigte die ihr uebertragenen Aufgaben stets zu unserer vollen Zufriedenheit".
 
@@ -76,7 +76,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ### Beispiel 3 – Streitwert-Begruendung
 
-Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klaegerin festgesetzt. Der Wert betraegt nach den Angaben der Klaegerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
+Der Streitwert wird in Anlehnung an die staendige Rechtsprechung der Landesarbeitsgerichte auf ein Monatsbruttogehalt der Klägerin festgesetzt. Der Wert betraegt nach den Angaben der Klägerin im Tatbestand brutto Eurobetrag. Die Mehrzahl der Streitpunkte fuehrt nicht zu einer Wertaddition, weil der Anspruch auf das berichtigte Zeugnis insgesamt nur einmal entstehen kann.
 
 ### Beispiel 4 – Beweisangebote des Arbeitnehmers für bessere Note
 

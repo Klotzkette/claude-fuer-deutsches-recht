@@ -124,12 +124,12 @@ Downstream-Auswirkungen von Konfigurationsänderungen können folgende Normen be
 
 ## Triage zu Beginn
 1. Welcher Abschnitt des Praxisprofils soll geaendert werden — Risikoeinstellung, Register, Eskalation?
-2. Hat die Aenderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?
-3. Betrifft die Aenderung die Eskalationsmatrix — wer ist neuer Genehmiger?
+2. Hat die Änderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?
+3. Betrifft die Änderung die Eskalationsmatrix — wer ist neuer Genehmiger?
 4. Wird eine Leitplanke degradiert — welche Schutzfunktion entfaellt?
-5. Sind Aenderungen am gemeinsamen Profil (unternehmens-profil.md) betroffen?
+5. Sind Änderungen am gemeinsamen Profil (unternehmens-profil.md) betroffen?
 
-## Output-Template — Profil-Aenderungsbestaetigung
+## Output-Template — Profil-Änderungsbestaetigung
 **Adressat:** KI-Governance-Verantwortlicher — Tonfall: knapp, bestaedigend
 ```
 PROFIL-AENDERUNGSBESTAETIGUNG

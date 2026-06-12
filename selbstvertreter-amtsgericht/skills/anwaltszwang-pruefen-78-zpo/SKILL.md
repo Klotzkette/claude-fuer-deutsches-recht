@@ -57,7 +57,7 @@ Nur weil kein Anwaltszwang besteht, ist Selbstvertretung nicht immer klug. Bei k
 
 ### Schritt 5 — Bevollmaechtigter ohne Anwaltszulassung?
 
-Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschaeftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
+Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn keine geschäftsmäßige Rechtsberatung vorliegt (§ 79 Abs. 2 ZPO):
 
 - Volljaehrige Familienangehoerige.
 - Mitarbeiter Ihres Unternehmens.
@@ -74,7 +74,7 @@ Vor dem AG können Sie sich auch durch eine andere Person vertreten lassen, wenn
 ## Typische Fehler
 
 - "Im Familienverfahren brauche ich keinen Anwalt, weil das ein AG ist." → Falsch. Familiengericht ist zwar formal Teil des AG, aber Anwaltszwang nach § 114 FamFG bleibt.
-- "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschaeftsmäßige Vertretung ist verboten.
+- "Mein Cousin ist Jurastudent, der vertritt mich." → Geht nur, wenn er Volljaehriger Familienangehoeriger ist und es Einzelfall. Geschäftsmäßige Vertretung ist verboten.
 - "Ich kann mich auch in der Berufung vor LG selbst vertreten." → Nur für einzelne Antraege. Berufungsbegruendung braucht Anwalt.
 
 ## Praxis-Tipp

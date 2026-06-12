@@ -18,7 +18,7 @@ description: "Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung b
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo für Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
+**Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Prüfraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Überlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo für Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
 
 ### Versicherungsmissbrauch § 265 StGB
 
@@ -43,7 +43,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 1. **Beschaedigt, zerstoert, in ihrer Brauchbarkeit beeintraechtigt, beiseite schafft** oder
 2. **Einem anderen ueberlaesst**, um sich oder einem Dritten Leistungen aus der Versicherung zu verschaffen.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Versicherung.** Privater Versicherungsvertrag. Sozialversicherung nicht erfasst.
 - **Versichert.** Konkreter Versicherungsschutz für die Sache zur Tatzeit.
@@ -57,7 +57,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 ### Subsidiaritaet § 265 Abs. 2 StGB
 
 - Die Tat ist nur strafbar, wenn nicht in § 263 StGB mit Strafe bedroht. § 263 vorrangig.
-- Bedeutung: § 265 erfasst Vorbereitungshandlung; sobald Versicherungsleistung tatsaechlich erschlichen (Vermoegensverfuegung der Versicherung), wechselt Strafbarkeit auf § 263 StGB.
+- Bedeutung: § 265 erfasst Vorbereitungshandlung; sobald Versicherungsleistung tatsaechlich erschlichen (Vermögensverfuegung der Versicherung), wechselt Strafbarkeit auf § 263 StGB.
 
 ## Praktikertipps Verteidigung
 
@@ -80,7 +80,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ## Konkurrenzen
 
-- **§ 265 StGB / § 263 StGB.** Subsidiaritaet — § 263 vorrangig bei vollendetem Vermoegensschaden.
+- **§ 265 StGB / § 263 StGB.** Subsidiaritaet — § 263 vorrangig bei vollendetem Vermögensschaden.
 - **§ 265 StGB / § 303 StGB Sachbeschaedigung.** Tateinheit möglich bei eigener fremder Sache (z. B. Leasing).
 - **§ 265 StGB / § 306 StGB Brandstiftung.** Tateinheit bei Auto- oder Hausbrand.
 - **§ 265 StGB / § 145d StGB Vortaeuschen einer Straftat.** Tateinheit bei vorgetaeuschtem Diebstahl.

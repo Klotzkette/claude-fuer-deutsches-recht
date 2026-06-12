@@ -39,7 +39,7 @@ description: "Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die histo
 - Grundbuchordnung (GBO).
 - Heute notarielle Beurkundung der Aufflassung (§ 925 BGB) plus Eintragung.
 
-## Pruefraster
+## Prüfraster
 
 1. Aufflassung erfolgt?
 2. Eintragung?

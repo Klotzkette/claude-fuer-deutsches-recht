@@ -37,4 +37,4 @@ Prüfe zuerst das vorhandene Material. Stelle nur Rückfragen, die die nächste 
 - **Kosten transparent machen:** RVG-Vergütung (insb. Hauptverhandlungstermine, Akteneinsicht VV 4100 ff. RVG); Honorarvereinbarung § 3a RVG schriftlich; Pflichtverteidigung §§ 140-141 StPO Kostenfolgen Mandant bei Verurteilung.
 - **Haftbesuch / Verteidigergespraech in JVA:** schriftliche Vorbereitung; bei U-Haft ungestoerter Verteidigerkontakt § 148 StPO (Ausnahme: Untersagung bei §§ 129a, 129b StGB Verdacht).
 - **Schweigepflichtentbindung** für Aerzte/Therapeuten nur eng abgrenzen.
-- **Sprachbarriere**: Dolmetscher § 187 GVG zwingend; bei Auslaender Pflichtverteidigerbestellung § 140 II StPO erweitert.
+- **Sprachbarriere**: Dolmetscher § 187 GVG zwingend; bei Ausländer Pflichtverteidigerbestellung § 140 II StPO erweitert.

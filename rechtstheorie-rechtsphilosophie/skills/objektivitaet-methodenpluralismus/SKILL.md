@@ -1,6 +1,6 @@
 ---
 name: objektivitaet-methodenpluralismus
-description: "Prueft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen."
+description: "Prüft, wie objektiv juristische Methoden sein koennen, wenn mehrere Methoden plausible Ergebnisse erzeugen."
 ---
 
 # Objektivität und Methodenpluralismus

@@ -130,7 +130,7 @@ Dauer: 2-3 Stunden
 
 ## Strategie und Praxis-Tipps
 
-- Jahresgespraech ist Mandantenbindungs-Hoehepunkt — gut investierte Zeit.
+- Jahresgespraech ist Mandantenbindungs-Höhepunkt — gut investierte Zeit.
 - 2-3 Stunden mindestens — kuerzere Gespraeche bringen zu wenig Tiefe.
 - Bei Krisensignalen: schriftliche Bestaetigung der ausgesprochenen Warnung.
 - Bei mehreren Generationen Familien-GmbH: alle Generationen einladen.

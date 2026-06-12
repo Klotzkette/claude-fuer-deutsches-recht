@@ -167,9 +167,9 @@ Mit freundlichen Grüßen
 
 > **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Prüfungsbescheids ist eine KI-gestützte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe müssen durch die Patentanwältin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Tätigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenüber Amt und Mandant.
 
-## Triage-Fragen bei Pruefungsbescheid
+## Triage-Fragen bei Prüfungsbescheid
 
-Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
+Bevor die Antwort auf den Prüfungsbescheid formuliert wird, klaere:
 1. Welche Einwaende werden geltend gemacht — Neuheit, erfinderische Taetigkeit, mangelnde Klarheit (Art. 84 EPU/§ 34 PatG) oder Offenbarung (Art. 83 EPU/§ 35 PatG)?
 2. Laeuft die 4-Monats-EPA-Frist (verlängerbar um 2 Monate) noch, oder ist eine Fristverlängerung erforderlich?
 3. Wurden Hilfsantraege vorbereitet (abgestufter Schutzbereich für den Fall, dass Hauptantrag nicht haltbar)?

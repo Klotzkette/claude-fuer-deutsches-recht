@@ -1,6 +1,6 @@
 ---
 name: wissenschaft-tdm-forschung
-description: "Prueft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu."
+description: "Prüft Forschungsnutzung, digitale Lehre, Bibliothek, TDM und Dokumentation für Hochschulen, Institute und Unternehmen im Urheberrecht De Eu."
 ---
 
 # Wissenschaft, Forschung und TDM

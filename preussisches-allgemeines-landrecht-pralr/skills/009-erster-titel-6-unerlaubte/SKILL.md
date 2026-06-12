@@ -54,7 +54,7 @@ ALR I 6 ist die Heimat des Delikts- und Schadensersatzrechts vor dem BGB. Es kom
 - Im 19. Jahrhundert in Preussen umfangreiche Rechtsprechung des Obertribunals zu den Fahrlaessigkeitsstufen.
 - Die ALR-Kasuistik wurde in den Pandektenvorlesungen Savignys teils ironisiert.
 
-### Pruefraster
+### Prüfraster
 1. Vorsatz oder welche Form der Fahrlaessigkeit? — ALR I 6 §§ 10-12.
 2. Sonderdelikt oder Generalklausel? — Reihenfolge: spezielle Norm vor Generalklausel.
 3. Heute lebender Sachverhalt? — direkt zu BGB §§ 823 ff. mit ALR nur als rechtsgeschichtlicher Hintergrund.

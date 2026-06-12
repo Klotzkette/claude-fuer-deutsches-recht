@@ -1,9 +1,9 @@
 ---
 name: einsichts-und-pruefungsrechte-111-aktg
-description: "AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
+description: "AG/SE-Aufsichtsrat Praxis: Einsichts Und Prüfungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis."
 ---
 
-# Einsichts Und Pruefungsrechte 111 Aktg
+# Einsichts Und Prüfungsrechte 111 Aktg
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg;
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Einsichts Und Pruefungsrechte 111 Aktg
+## Fachkern: Einsichts Und Prüfungsrechte 111 Aktg
 - **Normen-/Quellenanker:** AktG §§ 90, 93, 111, 116, 118 ff., SE-VO/SEAG, DCGK, Geschäftsordnung, Zustimmungsvorbehalte, D&O und Insider-/Ad-hoc-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Überwachung, Beratung, Zustimmung, Bestellung/Abberufung, Interessenkonflikt, Informationsdefizit, Protokoll und persönliche Haftungsvermeidung.
 

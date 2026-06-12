@@ -23,14 +23,14 @@ description: "Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 
 
 ## Worum geht es
 
-Der Insolvenzverwalter und Sachwalter sind Treuhaender der Masse. Verletzen sie ihre Pflichten schuldhaft, haften sie nach Paragraph 60 InsO gegenueber allen Beteiligten — den Glaeubigern wie dem Schuldner. Ein klassischer Haftungsfall: Der Verwalter versaeumt es, im Plan-Verfahren rechtzeitig die steuerlichen Antraege zu stellen (Paragraph 3a EStG-Anwendung, Paragraph 7b GewStG-Parallel, Vorabauskunft Paragraph 89 AO), mit der Folge, dass der Sanierungsertrag als steuerbarer Gewinn die Masse aufzehrt.
+Der Insolvenzverwalter und Sachwalter sind Treuhaender der Masse. Verletzen sie ihre Pflichten schuldhaft, haften sie nach Paragraph 60 InsO gegenueber allen Beteiligten — den Gläubigern wie dem Schuldner. Ein klassischer Haftungsfall: Der Verwalter versaeumt es, im Plan-Verfahren rechtzeitig die steuerlichen Antraege zu stellen (Paragraph 3a EStG-Anwendung, Paragraph 7b GewStG-Parallel, Vorabauskunft Paragraph 89 AO), mit der Folge, dass der Sanierungsertrag als steuerbarer Gewinn die Masse aufzehrt.
 
-Dieser Skill arbeitet die Pflichten und die Verteidigung heraus. Adressat: Verwalter, Berater des Verwalters, Glaeubigerausschuss, ggf. Klaegeranwalt aus Glaeubigerkreis.
+Dieser Skill arbeitet die Pflichten und die Verteidigung heraus. Adressat: Verwalter, Berater des Verwalters, Gläubigerausschuss, ggf. Klägeranwalt aus Gläubigerkreis.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Verwalter steht im Verdacht, Sanierungsertrag-Steuern in voller Höhe an das Finanzamt zahlen zu müssen, weil Antraege versaeumt wurden.
-- Glaeubigerausschuss ueberlegt, eine Pflichtverletzung anzunehmen.
+- Gläubigerausschuss ueberlegt, eine Pflichtverletzung anzunehmen.
 - Verwalter will praeventiv die eigene Aktenlage absichern.
 
 Kaltstart-Fragen:
@@ -81,7 +81,7 @@ Kaltstart-Fragen:
 | Vorabauskunft beantragt | sehr stark | wenn ueberhaupt nicht erwogen, schwach |
 | Vier Voraussetzungen dokumentiert | sehr stark | wenn Plan-Text duenn, schwach |
 | Verrechnungsreihenfolge gerechnet | sehr stark | wenn Modellrechnung fehlt, schwach |
-| Glaeubigerausschuss informiert | stark | wenn nicht informiert, schwach |
+| Gläubigerausschuss informiert | stark | wenn nicht informiert, schwach |
 | Versicherung deckt | bei Deckungszusage sicher | bei grober Fahrlaessigkeit Vorbehalt |
 
 ## Praxistipps der alten Hasen
@@ -90,7 +90,7 @@ Kaltstart-Fragen:
 2. **Aktendokumentation bei jedem Schritt.** Ohne Akte keine Verteidigung.
 3. **Bei Sanierungsertrag oberhalb 1 Mio EUR ist Vorabauskunft Paragraph 89 AO faktisch zwingend.** Wer sie nicht beantragt, riskiert Haftung.
 4. **Versicherung frueh einbinden.** Bei kritischen Sanierungsplaenen schon vor Plan-Vorlage der Versicherung anzeigen.
-5. **Glaeubigerausschuss-Beschluss zum Steuerteil.** Wer den Ausschuss explizit beteiligt hat, hat einen wertvollen Verteidigungs-Anker.
+5. **Gläubigerausschuss-Beschluss zum Steuerteil.** Wer den Ausschuss explizit beteiligt hat, hat einen wertvollen Verteidigungs-Anker.
 6. **Mehrere Verteidigungslinien:** keine Pflichtverletzung; kein Verschulden; kein Schaden; keine Kausalitaet.
 
 ## Mustertexte / Berechnungsbeispiele
@@ -174,7 +174,7 @@ Beweis: Anlagen 1-12.
 1. Steuerteil komplett dem StB ueberlassen, ohne eigene Aufsicht.
 2. Vorabauskunft Paragraph 89 AO nicht einmal erwogen.
 3. Akte enthaelt keine Modellrechnung.
-4. Glaeubigerausschuss zum Steuerteil nicht beteiligt.
+4. Gläubigerausschuss zum Steuerteil nicht beteiligt.
 5. Versicherung erst nach Klage angezeigt.
 6. Verteidigung baut nur auf "kein Verschulden" — Verteidigung muss mehrere Linien parallel fuehren.
 

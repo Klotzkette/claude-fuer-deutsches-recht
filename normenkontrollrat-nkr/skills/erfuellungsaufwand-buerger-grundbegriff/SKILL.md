@@ -21,18 +21,18 @@ Der Erfuellungsaufwand wird methodisch **separat für drei Adressatengruppen** a
 
 - Stellungnahme-Drafting: Tabellenstruktur
 - Ressortentwurf zeigt nur Gesamtsumme
-- Diskussion über Zuordnung (z.B. Selbstaendige zu Wirtschaft oder Buerger?)
+- Diskussion über Zuordnung (z.B. Selbständige zu Wirtschaft oder Buerger?)
 
 Rueckfrage nur wenn unklar: *"Welche Adressatengruppe steht im Vordergrund — Buerger, Wirtschaft oder Verwaltung?"*
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 4 NKRG** — Pruefungsgegenstand
+- **§ 4 NKRG** — Prüfungsgegenstand
 - **§ 44 Abs. 4, § 45 GGO** — getrennte Darstellung
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 - **DESTATIS Zeitwerttabellen** als Datenbasis
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Buerger
 

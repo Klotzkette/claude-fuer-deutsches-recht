@@ -14,7 +14,7 @@ description: "Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Prüfraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Prüfvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 ### Zuschlagskriterien und Wertungsschema
 
@@ -26,7 +26,7 @@ description: "Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbei
 5. Wertungsmethode bekannt (einfache Punktvergabe, gewichtete Nutzwertanalyse, Preis-Leistungs-Quotient, UFAB)?
 6. Ist Zuschlag bereits erteilt? (Dann nur noch Schadensersatzpfad)
 
-## Pruefraster Wertungskriterien
+## Prüfraster Wertungskriterien
 ### 1. Auftragsbezug § 127 Abs. 3 GWB
 Kriterium muss mit dem Auftragsgegenstand in Verbindung stehen. Soziale, oekologische, innovative Aspekte sind zulässig, wenn auftragsbezogen.
 
@@ -45,7 +45,7 @@ Reine Preisvergabe nur in Ausnahmefaellen (§ 58 Abs. 2 VgV: bei standardisierte
 ### 6. Lebenszykluskosten § 59 VgV
 Anschaffung, Nutzung, Wartung, Entsorgung. Methodische Anforderungen: Daten transparent, Berechnung nachvollziehbar.
 
-## Pruefraster Wertungsdurchfuehrung
+## Prüfraster Wertungsdurchfuehrung
 - Wertungsmatrix vor Angebotsoeffnung festlegen und dokumentieren.
 - Bewertungspersonen benennen (Vier-Augen-Prinzip).
 - Einzelbegruendung je Kriterium und Bieter, nicht nur Gesamtnote.
@@ -61,11 +61,11 @@ Anschaffung, Nutzung, Wartung, Entsorgung. Methodische Anforderungen: Daten tran
 
 ## Output-Module
 ### Wertungsmatrix-Entwurf (Auftraggeber)
-Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximalpunktzahl | Begruendung Auftragsbezug.
+Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmaßstab | Maximalpunktzahl | Begruendung Auftragsbezug.
 
-### Pruefvermerk Wertungsruege (Bieter)
+### Prüfvermerk Wertungsruege (Bieter)
 1. Wertungskriterium und Begruendung des Auftraggebers
-2. Vergaberechtlicher Massstab
+2. Vergaberechtlicher Maßstab
 3. Konkreter Fehler
 4. Auswirkung auf Wertungsergebnis
 5. Antrag im VK-Verfahren

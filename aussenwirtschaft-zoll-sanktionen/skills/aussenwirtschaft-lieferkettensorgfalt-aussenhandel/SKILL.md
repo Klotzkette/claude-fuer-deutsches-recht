@@ -15,7 +15,7 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 
 ## Mandantenfall
 
-- Importeur bezieht Textilien aus Bangladesch; LkSG-Risikoanalyse und Massnahmenplan erforderlich.
+- Importeur bezieht Textilien aus Bangladesch; LkSG-Risikoanalyse und Maßnahmenplan erforderlich.
 - Elektronikhersteller importiert Rohstoffe aus Kongo (Mineralien); Konfliktmineralien und LkSG-Pflichten.
 - CSDDD-Umsetzung erfordert Due Diligence für gesamte Lieferkette inkl. Unterlieferanten.
 
@@ -36,12 +36,12 @@ description: "Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach Lk
 - **§ 24 LkSG**: Bussgeldbewehrung bei Verstoss gegen Sorgfaltspflichten.
 - **VO (EU) 2021/821 Art. 4**: Schnittstelle Dual-Use-Catch-All zu LkSG.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] LkSG-Anwendbarkeit geprueft (Mitarbeiterzahl, Umsatz)?
 - [ ] Risikoanalyse für Import-Lieferkette vollstaendig und dokumentiert?
 - [ ] Hochrisikolieferanten identifiziert und mit verstaerkter Sorgfalt geprueft?
-- [ ] Massnahmenplan für identifizierte Risiken vorhanden?
+- [ ] Maßnahmenplan für identifizierte Risiken vorhanden?
 - [ ] Beschwerdemechanismus implementiert?
 - [ ] Jahresbericht nach § 10 LkSG erstellt und veroeffentlicht?
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

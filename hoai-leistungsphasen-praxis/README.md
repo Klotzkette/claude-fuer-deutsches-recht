@@ -85,7 +85,7 @@ Die HOAI ist nicht mehr das alte zwingende Mindestsatzregime für Neuverträge a
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -411,7 +411,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `lph8-bauueberwachung-flughafen-vorfeld-tower` | Bauueberwachung nach HOAI LPH 8 für Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte A... |
 | `lph8-bauueberwachung-fotoanalyse-baustellen-drohne` | Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetekt... |
 | `lph8-bauueberwachung-gartenhaus-carport` | Bauueberwachung gemäß HOAI LPH 8 für Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt... |
-| `lph8-bauueberwachung-gewerbehalle-stahlbau` | Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschut... |
+| `lph8-bauueberwachung-gewerbehalle-stahlbau` | Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Überprüfung nach DIN 15018 und Brandschut... |
 | `lph8-bauueberwachung-hafen-spundwand-kai` | Bauueberwachung HOAI LPH 8 für Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle... |
 | `lph8-bauueberwachung-hochhaus-statik-fassade` | Bauueberwachung nach HOAI LPH 8 für Hochhaeuser ab 22 m Höhe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach... |
 | `lph8-bauueberwachung-hotel-zimmerfertigung` | Bauueberwachung nach HOAI LPH 8 für Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barri... |
@@ -439,7 +439,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `lph8-bauueberwachung-trockenbau-tunnel` | Bauueberwachung HOAI LPH 8 für Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse... |
 | `lph8-bauueberwachung-tunnel-spritzbeton-vortrieb` | Bauueberwachung nach HOAI LPH 8 für Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherung... |
 | `lph8-bauueberwachung-videoanalyse-tagesbaustelle` | Methodikskill HOAI LPH 8 — Strukturierter für die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst In... |
-| `lph8-bauueberwachung-vob-c-din-checklisten` | Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten... |
+| `lph8-bauueberwachung-vob-c-din-checklisten` | Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Prüfrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten... |
 | `lph8-bauueberwachung-wasserwerk-rohrleitung` | Bauueberwachung HOAI LPH 8 für Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpr... |
 | `lph8-maengel-abnahme-restleistungen` | HOAI-Fachfrage LPH 8: Mängelmanagement, Vorbegehung, Abnahme, Restleistungen, Zustandsfeststellung, Sicherheitsleistung, Fristen und Beweisführung prüfen im Hoai Leistungsphasen Praxis. |
 | `lph8-rechnungspruefung-nachtraege-vob` | HOAI-Fachfrage LPH 8: Rechnungsprüfung, Aufmaß, Nachträge, geänderte/zusätzliche Leistungen, VOB/B- oder BGB-Bauvertrag, Kostenkontrolle und Freigabevermerk prüfen im Hoai Leistungsphasen Praxis. |

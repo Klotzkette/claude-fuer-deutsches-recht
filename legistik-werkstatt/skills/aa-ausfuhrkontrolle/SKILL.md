@@ -1,11 +1,11 @@
 ---
 name: aa-ausfuhrkontrolle
-description: "Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und"
+description: "Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und"
 ---
 
 # Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschäftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Ges
 
 Kernbestand des Sachfelds: AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Wechselzuständigkeit BMWE und AA; Listenwechsel; humanitaere Ausnahmen; sektorale Sanktionen.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

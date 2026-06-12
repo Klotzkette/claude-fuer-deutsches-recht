@@ -1,6 +1,6 @@
 ---
 name: eingliederung-arbeitsorganisation
-description: "Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Eingliederung in Arbeitsorganisation

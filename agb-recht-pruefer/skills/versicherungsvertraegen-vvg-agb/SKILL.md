@@ -15,7 +15,7 @@ description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt d
 
 ## Fachkern: Agb Bei Versicherungsvertraegen Vvg
 
-- **Klauselproblem (Agb Bei Versicherungsvertraegen Vvg):** AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Pruefraster und Klauselentwurf.
+- **Klauselproblem (Agb Bei Versicherungsvertraegen Vvg):** AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt das Spannungsverhaeltnis zwischen den Allgemeinen Versicherungsbedingungen (AVB) und § 307 BGB. Klaert das Transparenzgebot Risikoausschluesse Obliegenheitsverletzungen Sanktion bei Falschangaben Sondervorschriften des VVG. Liefert Prüfraster und Klauselentwurf.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -46,7 +46,7 @@ description: "AGB-Kontrolle bei Versicherungsvertraegen (VVG). Skill behandelt d
 - §§ 19 ff. VVG: spezifische Sanktionen.
 - AGB-Klauseln zur erweiterten Anzeigepflicht sind regelmaessig unwirksam.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche AVB-Klausel ist im Streit?
 2. Risikoausschluss oder Modalitaet?

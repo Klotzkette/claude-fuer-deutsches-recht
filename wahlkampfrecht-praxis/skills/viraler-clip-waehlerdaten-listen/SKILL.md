@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Kontext, Schnitt, Rechte, Plattform, Gegennarrativ, Entschuldigung oder Schweigen.
+Prüft Kontext, Schnitt, Rechte, Plattform, Gegennarrativ, Entschuldigung oder Schweigen.
 
 ## Rechts- und Praxislogik
 

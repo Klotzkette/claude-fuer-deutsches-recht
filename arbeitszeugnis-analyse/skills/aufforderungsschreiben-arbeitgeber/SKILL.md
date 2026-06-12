@@ -21,7 +21,7 @@ Der Ton ist hoeflich, sachlich und bestimmt. Drohgebaerden sind kontraproduktiv.
 
 ### Baustein 1 Mandatsanzeige
 
-Standardformulierung mit Hinweis auf die beigefuegte Vollmacht. Verweis auf die Mandantin oder den Mandanten mit vollem Namen, Geburtsdatum und Beschaeftigungszeitraum.
+Standardformulierung mit Hinweis auf die beigefuegte Vollmacht. Verweis auf die Mandantin oder den Mandanten mit vollem Namen, Geburtsdatum und Beschäftigungszeitraum.
 
 ### Baustein 2 Bezugnahme auf das Zeugnis
 
@@ -33,7 +33,7 @@ Kurzer Block: Anspruch aus Paragraf 109 Absatz 1 Satz 3 GewO auf wohlwollende Be
 
 ### Baustein 4 Beanstandungen pro Streitstelle
 
-Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts in Anfuehrungszeichen. Erlaeuterung, was der Wortlaut in der Zeugnissprache bedeutet (Geheimcode-Hinweis, Drift, Auslassung, Steigerungsadverb). Verweis auf einschlaegige BAG-Entscheidungen oder den Stand der Literatur. Vorschlag für die neue Formulierung in Anfuehrungszeichen. Begruendung, warum die neue Formulierung der Wahrheit entspricht und dem Wohlwollensgebot genuegt.
+Pro Streitstelle ein Block mit fester Struktur. Zitat des bisherigen Wortlauts in Anfuehrungszeichen. Erläuterung, was der Wortlaut in der Zeugnissprache bedeutet (Geheimcode-Hinweis, Drift, Auslassung, Steigerungsadverb). Verweis auf einschlaegige BAG-Entscheidungen oder den Stand der Literatur. Vorschlag für die neue Formulierung in Anfuehrungszeichen. Begruendung, warum die neue Formulierung der Wahrheit entspricht und dem Wohlwollensgebot genuegt.
 
 ### Baustein 5 Schlussformel und Gesamtbild
 
@@ -69,7 +69,7 @@ Wir beanstanden im Einzelnen:
 
 [Weitere Punkte analog.]
 
-Wir bitten Sie, das berichtigte Zeugnis bis zum [Datum] in einfacher Form und auf Geschaeftspapier ohne Anlassbezug auf das Berichtigungsverlangen zu erteilen. Sollte das Zeugnis nicht fristgerecht in der vorgeschlagenen Form neu erteilt werden, werden wir Klage zum zuständigen Arbeitsgericht erheben.
+Wir bitten Sie, das berichtigte Zeugnis bis zum [Datum] in einfacher Form und auf Geschäftspapier ohne Anlassbezug auf das Berichtigungsverlangen zu erteilen. Sollte das Zeugnis nicht fristgerecht in der vorgeschlagenen Form neu erteilt werden, werden wir Klage zum zuständigen Arbeitsgericht erheben.
 
 Die durch unsere Einschaltung entstandenen Anwaltskosten machen wir bereits jetzt als Verzugsschaden geltend; eine Bezifferung erfolgt mit gesondertem Schreiben.
 
@@ -116,5 +116,5 @@ Bleibt die Frist fruchtlos, geht es weiter mit `klage-strategie-zeugnisberichtig
 | **BAG, Urt. v. 20.02.2001 - 9 AZR 44/00** | Beginn der staendigen Linie: kein Anspruch auf Schlussformel mit Dank und guten Wuenschen; Fehlen kein unzulaessiges Geheimzeichen. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 11.12.2012 - 9 AZR 227/11** | Kein Anspruch auf Dank/Wuensche; bei unzufriedener Mandantschaft mit erteilter Schlussformel ist nur ein Zeugnis OHNE Schlussformel einklagbar - keine Umformulierung. | bundesarbeitsgericht.de / dejure.org |
 | **BAG, Urt. v. 25.01.2022 - 9 AZR 146/21** | Bestaetigung der Linie; Abwaegung mit Meinungsfreiheit des Arbeitgebers (Art. 5 I GG). | bundesarbeitsgericht.de / dejure.org |
-| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Aenderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
+| **BAG, Urt. v. 06.06.2023 - 9 AZR 272/22** | Massregelungsverbot $ 612a BGB: eine einmal erteilte Dankes-/Wunschformel darf nicht in spaeterer Fassung gestrichen werden, nur weil der Arbeitnehmer berechtigte Änderungswuensche geltend gemacht hat. | bundesarbeitsgericht.de / dejure.org |
 

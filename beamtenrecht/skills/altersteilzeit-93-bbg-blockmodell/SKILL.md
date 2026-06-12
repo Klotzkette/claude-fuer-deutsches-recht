@@ -49,7 +49,7 @@ Skill für Beamte ab dem 55. Lebensjahr, die über Altersteilzeit den gleitenden
 ### e) Versorgungsabschlag
 - Beim Eintritt in den Ruhestand nach Altersteilzeit kein Versorgungsabschlag, soweit die Altersteilzeit bis zur Regelaltersgrenze laeuft. Bei vorzeitigem Antragsruhestand greift Skill `versorgungsabschlag-14-beamtvg`.
 
-### f) Aenderungen waehrend der Altersteilzeit
+### f) Änderungen waehrend der Altersteilzeit
 - Bei eintretender Dienstunfaehigkeit gelten Sondervorschriften zur Beendigung der Altersteilzeit; Restbezuege und Versorgung sind zu bemessen.
 
 ## 4. Quellenpflicht
@@ -67,7 +67,7 @@ Skill für Beamte ab dem 55. Lebensjahr, die über Altersteilzeit den gleitenden
 
 - § 93 BBG (Altersteilzeit Bund) i.V.m. § 9 ArbZV (Arbeitszeitverordnung); landesrechtliche Altersteilzeitvorschriften (BeamtStG enthaelt keine Altersteilzeitnorm; die Länder regeln Altersteilzeit eigenstaendig in ihren Landesbeamtengesetzen).
 - § 6 BeamtVG (ruhegehaltfaehige Dienstzeit Altersteilzeit); § 14 BeamtVG (Versorgungsabschlag).
-- Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Aequivalente.
+- Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Äquivalente.
 - BVerwG zur Altersteilzeit der Beamten — Datum und Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)
@@ -100,5 +100,5 @@ Mandant 57 Jahre, will sechs Jahre Altersteilzeit im Blockmodell (drei Jahre Akt
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

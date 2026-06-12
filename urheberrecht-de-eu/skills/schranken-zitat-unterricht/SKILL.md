@@ -1,6 +1,6 @@
 ---
 name: schranken-zitat-unterricht
-description: "Prueft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche im Urheberrecht De Eu."
+description: "Prüft gesetzliche Erlaubnisse, Zitatrecht, Unterricht, Wissenschaft, Bibliotheken, Karikatur, Parodie und Pastiche im Urheberrecht De Eu."
 ---
 
 # Schranken: Zitat, Unterricht und Wissenschaft

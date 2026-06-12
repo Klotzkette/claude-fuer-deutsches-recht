@@ -1,6 +1,6 @@
 ---
 name: argumentationsverbesserung-red-team
-description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prueft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht."
+description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik, Berufung, Eilantrag oder Mandatsmemo. Prüft These, Beweis, Subsumtion, Gegenargumente, Richterperspektive, Antragsfassung und Ton im Prozessrecht."
 ---
 
 # Argumentationsverbesserung und Red Team
@@ -38,7 +38,7 @@ description: "Verbessert prozessuale Argumentation in Klage, Erwiderung, Replik,
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
 
-## Prozessuale Argumentations-Pruefpunkte
+## Prozessuale Argumentations-Prüfpunkte
 
 - **Anspruchsgrundlage konkret benannt:** Norm, nicht "der Vertrag" oder "das Gesetz". Bei mehreren AG Vorrang/Konkurrenz prüfen.
 - **Tatbestandsmerkmale gegliedert:** Jedes Merkmal mit Definition (Quelle: Rspr./Lit.), Tatsachen-Anker, Subsumtion.

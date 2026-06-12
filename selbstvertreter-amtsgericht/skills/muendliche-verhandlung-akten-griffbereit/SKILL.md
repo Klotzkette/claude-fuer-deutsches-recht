@@ -67,7 +67,7 @@ Auf einem weiteren Blatt machen Sie eine **Tabelle** mit den Streit-Punkten:
 | Punkt aus Klageerwiderung | Meine Antwort / Replik | Beweis |
 |-------------------------------------|----------------------------------|---------------|
 | Vertrag war nichtig wegen Wuchers | Preis war marktueblich | K5 |
-| Lieferung war mangelhaft | War zur Zeit der Uebergabe ok | K1 Klausel V |
+| Lieferung war mangelhaft | War zur Zeit der Übergabe ok | K1 Klausel V |
 | Mahnung kam zu spaet | Frist eingehalten — 14 Tage | K4 Datum |
 
 Diese Tabelle hilft Ihnen, im Termin **keinen Punkt zu vergessen**.

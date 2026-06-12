@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-hr-ai-ki
-description: "Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Pruefer."
+description: "Rechtsabteilungs-Fachmodul für HR-AI als Hochrisikosystem: Recruiting, Beförderung, Kündigungsrisiko und Beschäftigtendaten werden als Complianceakte geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption im Ki Vo Ai Act Prüfer."
 ---
 
 # Rechtsabteilung: HR-AI als Hochrisikosystem

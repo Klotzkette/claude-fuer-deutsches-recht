@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft A..."
+description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Maßnahmen, Berechnung endgueltiger Antidumping-Zoelle, Überprüfen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prüft A..."
 ---
 
 # Antidumping-Ausgleich: TARIC-Maßnahmen und Herstellerzuordnung
@@ -25,7 +25,7 @@ description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 
 2. Hersteller-ID und TARIC-Unternehmenscode (TARIC ADD-Code) des Lieferanten ermitteln.
 3. Individualzoll vs. Restzoll klären; Ursprungszeugnis und EU-Anerkennungsstatus prüfen.
 4. Antidumping-Zoll auf CIF-Wert berechnen; Vergleich mit eventueller Preisverpflichtung (Price Undertaking).
-5. Ueberpruefen ob Befreiungsantrag möglich (Art. 11 VO 2016/1036: Auslaufrevision).
+5. Überprüfen ob Befreiungsantrag möglich (Art. 11 VO 2016/1036: Auslaufrevision).
 6. Zollwertdeklaration und Ursprungsdokumentation für Audit-Compliance sicherstellen.
 
 ## Rechtsrahmen
@@ -36,7 +36,7 @@ description: "Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 
 - **VO (EU) 952/2013 Art. 59-63**: Ursprungsbestimmung für Antidumpingzwecke.
 - **AWG § 21**: Verfahrensbeteiligung bei Handelspolitikuntersuchungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] TARIC-Maßnahmen für exakten KN-Code und Ursprungsland aktuell geprueft?
 - [ ] Hersteller-TARIC-Code gueltig und anerkannt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

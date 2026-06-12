@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Fake-Accounts, Botnetze, Astroturfing, Plattformregeln und Reputationsfolgen.
+Prüft Fake-Accounts, Botnetze, Astroturfing, Plattformregeln und Reputationsfolgen.
 
 ## Spezifischer Prüfpfad
 

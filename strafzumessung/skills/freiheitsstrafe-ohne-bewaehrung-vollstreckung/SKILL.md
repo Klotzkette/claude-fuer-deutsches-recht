@@ -39,7 +39,7 @@ Wird die Freiheitsstrafe nicht zur Bewaehrung ausgesetzt, beginnt das Vollstreck
 - **§ 36 BtMG** — Anrechnung der Therapiezeit.
 - **§ 455 StPO** — Aufschub der Vollstreckung; Strafunterbrechung wegen Gesundheit.
 - **§ 456 StPO** — Aufschub aus persönlichen Gruenden.
-- **§ 456a StPO** — Absehen von Vollstreckung bei Auslaendern (Auslieferung/Ausweisung).
+- **§ 456a StPO** — Absehen von Vollstreckung bei Ausländern (Auslieferung/Ausweisung).
 - **§ 462a StPO** — Strafvollstreckungskammer ist zuständig für Reststrafenaussetzung bei zeitiger Strafe ab 9 Monaten.
 
 ## Anrechnung U-Haft (§ 51 StGB)

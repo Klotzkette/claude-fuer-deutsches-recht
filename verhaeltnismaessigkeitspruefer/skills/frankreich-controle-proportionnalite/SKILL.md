@@ -1,6 +1,6 @@
 ---
 name: frankreich-controle-proportionnalite
-description: Franzoesische Verhaeltnismaessigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE seit Ville Nouvelle Est Adequation Necessite Proportionnalite stricto sensu und dem QPC-Verfahren seit 2010. Mit Conciliation Argumentation des Conseil constitutionnel Erreur manifeste Plein contentieux Police und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Pruefung und zur Rezeption ueber Art 6 EMRK und Charta.
+description: Franzoesische Verhältnismäßigkeitsdogmatik des Conseil constitutionnel und des Conseil d Etat mit Triple Test des CE seit Ville Nouvelle Est Adequation Necessite Proportionnalite stricto sensu und dem QPC-Verfahren seit 2010. Mit Conciliation Argumentation des Conseil constitutionnel Erreur manifeste Plein contentieux Police und Hinweisen auf Strukturunterschiede zur deutschen Vier-Stufen-Prüfung und zur Rezeption ueber Art 6 EMRK und Charta.
 ---
 
 # Frankreich Controle de Proportionnalite
@@ -29,7 +29,7 @@ Conseil d Etat Eingriffsmassnahmen nach dem **triple test du bilan**:
 2. **Necessite**: kein milderes Mittel verfuegbar das das Ziel
    gleichermassen erreichen wuerde.
 3. **Proportionnalite stricto sensu / bilan cout-avantages**: die
-   Nachteile für die Betroffenen stehen nicht ausser Verhaeltnis zu den
+   Nachteile für die Betroffenen stehen nicht ausser Verhältnis zu den
    verfolgten Vorteilen.
 
 Struktur entspricht damit weitgehend der deutschen Drei-Stufen-Prüfung
@@ -44,7 +44,7 @@ Verfassungsgueter und mit **erreur manifeste d appreciation**.
 Klassische Entscheidungen:
 
 - Decision 76-75 DC du 12 janvier 1977 Fouille des vehicules
-  (Verhältnismäßigkeit als Massstab bei Polizeimassnahmen),
+  (Verhältnismäßigkeit als Maßstab bei Polizeimassnahmen),
 - Decision 99-411 DC du 16 juin 1999 (Loi sur la securite routiere,
   Verhältnismäßigkeit von Sanktionen),
 - Decision 2003-467 DC Loi de securite interieure (police
@@ -54,7 +54,7 @@ Klassische Entscheidungen:
 
 Seit 2010 prüft der Conseil constitutionnel im **QPC-Verfahren**
 (Question Prioritaire de Constitutionnalite Art 61-1 Verfassung)
-Eingriffsgesetze inzident. Der Pruefungsmassstab ist haeufig
+Eingriffsgesetze inzident. Der Prüfungsmassstab ist haeufig
 proportionnalite-foermig formuliert.
 
 ## Plein contentieux Police und Erreur manifeste
@@ -63,7 +63,7 @@ Bei Verwaltungsakten unterscheidet der Conseil d Etat die Kontrolldichte:
 
 - **Controle minimum** (erreur manifeste d appreciation): nur evident
   unverhaeltnismassige Akte werden aufgehoben.
-- **Controle normal**: voller Verhaeltnismaessigkeitsbilan.
+- **Controle normal**: voller Verhältnismäßigkeitsbilan.
 - **Controle maximum / triple test renforce**: bei besonders
   eingriffsintensiven Maßnahmen, etwa Ausweisungen, Polizei-Hausarrest,
   Versammlungsverboten.

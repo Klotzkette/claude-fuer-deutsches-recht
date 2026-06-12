@@ -1,6 +1,6 @@
 ---
 name: unternehmerisches-risiko
-description: "Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt im Sozialversicherungsstatus Pruefer."
+description: "Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt im Sozialversicherungsstatus Prüfer."
 ---
 
 # Unternehmerisches Risiko

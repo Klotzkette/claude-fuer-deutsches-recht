@@ -1,6 +1,6 @@
 ---
 name: tia-eu-us-data-privacy-framework-aktueller
-description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Pruefkriterien für DPF-Tragfaehigke..."
+description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemessenheitsbeschluss nach Art. 45 DSGVO. Durchfuehrungsbeschluss (EU) 2023/1795 vom 10.07.2023, Grundlage Executive Order 14086, Listing-Verfahren, HR/Non-HR-Abdeckung, Onward Transfer, Schrems III. Prüfkriterien für DPF-Tragfaehigke..."
 ---
 
 # EU-US Data Privacy Framework – Aktueller Stand für das TIA
@@ -45,7 +45,7 @@ description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemes
 
 ### EU-Review-Verfahren
 
-- Die EU-Kommission ueberprueft die Wirksamkeit des DPF in regelmäßigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
+- Die EU-Kommission überprüft die Wirksamkeit des DPF in regelmäßigen Abstaenden; **erster Review** im Sommer 2024 mit Bestaetigung des Beschlusses; weitere Reviews planmaessig alle vier Jahre, ggf. anlassbezogen frueher.
 
 ## Ablauf / Checkliste
 
@@ -61,7 +61,7 @@ description: "Aktueller Stand zum EU-US Data Privacy Framework (DPF) als Angemes
 
 ## Mustertext / Template
 
-DPF-Pruefvermerk:
+DPF-Prüfvermerk:
 
 ```
 DPF-Prufung – Importeur: [Exakter Name laut DPF-Liste]
@@ -83,7 +83,7 @@ Fallback-Klausel im DPA: [Verweis]
 
 Hinweisbaustein im TIA-Schritt 2:
 
-> Für den Transfer wird Art. 45 DSGVO i.V.m. dem Durchfuehrungsbeschluss (EU) 2023/1795 als Transferinstrument herangezogen. Der Importeur ist unter dem Namen "..." mit Zertifizierungsdatum [...] aktiv im EU-US Data Privacy Framework gelistet (Anhang DPF-Pruefvermerk). Das Listing umfasst [HR-/Non-HR-]Daten und die im konkreten Vertragsverhaeltnis erbrachten Dienste.
+> Für den Transfer wird Art. 45 DSGVO i.V.m. dem Durchfuehrungsbeschluss (EU) 2023/1795 als Transferinstrument herangezogen. Der Importeur ist unter dem Namen "..." mit Zertifizierungsdatum [...] aktiv im EU-US Data Privacy Framework gelistet (Anhang DPF-Prüfvermerk). Das Listing umfasst [HR-/Non-HR-]Daten und die im konkreten Vertragsverhaeltnis erbrachten Dienste.
 >
 > Es bleibt das Restrisiko aus FISA Section 702 und Executive Order 12333. Die Klage Schrems III bei dem Gericht der EU ist anhaengig; bei Aufhebung des Angemessenheitsbeschlusses wird Vertragsgrundlage automatisch auf die Standardvertragsklauseln gemäß Beschluss (EU) 2021/914 umgeschaltet (siehe Anhang AVV-Klausel "Fallback-Transferinstrument").
 

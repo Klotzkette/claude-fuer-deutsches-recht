@@ -62,7 +62,7 @@ Budget-/Pflegesatzbescheide und Schiedsstellenentscheidungen können vor dem Soz
 - Bei Mischsachverhalten (Vergütung + Struktur) kann Streit auf beide Gerichtsbarkeiten verteilt sein — Doppelklage prüfen.
 - Einstweiliger Rechtsschutz: § 80 Abs. 5 VwGO bei Sofortvollzug; § 86b SGG bei sozialgerichtlichem Eilfall.
 - Klagebegruendung muss Sachverhaltsfeststellung des Bescheids konkret angreifen — nicht nur Ergebnis.
-- BVerwG/BSG haben staend. Rspr. zur Schiedsstellenkontrolle: nur eingeschraenkte Pruefdichte (Beurteilungsspielraum).
+- BVerwG/BSG haben staend. Rspr. zur Schiedsstellenkontrolle: nur eingeschraenkte Prüfdichte (Beurteilungsspielraum).
 
 ## Mustertexte
 **Klageschrift (Skizze, VG):**

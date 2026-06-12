@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-dienstliche-beurteilung
-description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Pruefverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensr..."
+description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den Landesrichtergesetzen. Klaert die Zuständigkeit des Dienstgerichts in Statussachen Disziplinarsachen und Versetzungs- und Prüfverfahren die Besetzung des Spruchkoerpers mit beruflichen und ehrenamtlichen Richtern und das Verfahrensr..."
 ---
 
 # Dienstgericht für Richter
@@ -15,11 +15,11 @@ description: "Skill zum Dienstgericht für Richter nach §§ 61 ff. DRiG und den
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidigen wollen. Anwendung typisch bei Disziplinarsachen, Pruefverfahren wegen Eingriffen in die richterliche Unabhaengigkeit (§ 26 DRiG) oder Streit um die Geschaeftsverteilung.
+Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidigen wollen. Anwendung typisch bei Disziplinarsachen, Prüfverfahren wegen Eingriffen in die richterliche Unabhaengigkeit (§ 26 DRiG) oder Streit um die Geschäftsverteilung.
 
 ## 2. Eingaben
 
-- Beanstandeter Vorgang (Disziplinarverfuegung, Maßnahme der Dienstaufsicht, Geschaeftsverteilungsbeschluss)
+- Beanstandeter Vorgang (Disziplinarverfuegung, Maßnahme der Dienstaufsicht, Geschäftsverteilungsbeschluss)
 - Statusamt (Bundes- oder Landesrichter)
 - Spruchkoerper-Besetzung
 - Antrag im Detail
@@ -34,14 +34,14 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 - Dienstgericht: Drei Berufsrichter, zwei ehrenamtliche Richter (in Disziplinarsachen) bzw. spezifische Besetzung in Statussachen.
 
 ### c) Prüfung nach § 26 DRiG
-- Prüfung von Maßnahmen der Dienstaufsicht, ob die richterliche Unabhaengigkeit beruehrt wird; Pruefraster: Maßnahme, Beruehrung der Unabhaengigkeit, Folgen.
+- Prüfung von Maßnahmen der Dienstaufsicht, ob die richterliche Unabhaengigkeit beruehrt wird; Prüfraster: Maßnahme, Beruehrung der Unabhaengigkeit, Folgen.
 - Antrag auf Prüfung in Frist (regelmaessig 3 Monate nach Maßnahme).
 
 ### d) Disziplinarverfahren
 - Verfahren nach BDG in Anlehnung; spezifische Besonderheiten in DRiG und Landesrichtergesetzen.
 
-### e) Geschaeftsverteilung
-- Antrag auf Prüfung der Geschaeftsverteilung beim Dienstgericht — siehe Schwester-Skill `geschaeftsverteilung-richter-21e-gvg`.
+### e) Geschäftsverteilung
+- Antrag auf Prüfung der Geschäftsverteilung beim Dienstgericht — siehe Schwester-Skill `geschaeftsverteilung-richter-21e-gvg`.
 
 ## 4. Quellenpflicht
 
@@ -52,7 +52,7 @@ Skill für Richter, die ein Verfahren beim Dienstgericht fuehren oder verteidige
 ## 5. Ausgabeformat
 
 - Antrag an das Dienstgericht.
-- Pruefraster nach § 26 DRiG.
+- Prüfraster nach § 26 DRiG.
 
 ## 6. Verifizierte Quellenanker
 

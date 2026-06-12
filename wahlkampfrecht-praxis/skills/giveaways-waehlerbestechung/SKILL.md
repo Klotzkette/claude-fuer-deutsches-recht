@@ -1,6 +1,6 @@
 ---
 name: giveaways-waehlerbestechung
-description: "Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf prüfen im Wahlkampfrecht."
 ---
 
 # Giveaways Waehlerbestechung

@@ -41,14 +41,14 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 - DIN VDE 0100-540 Auswahl und Errichtung elektrischer Betriebsmittel Erdung: Fundamenterder, Schutzleiter
 - DIN 18014:2014-03 Fundamenterder: Anordnung im Beton, Material, Messung, Protokoll
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Fundamenterder-Sichtpruefung: Vor Betonage Foto Verlegung, Kreuzverbindungen geschweisst und abgenommen, Anschlussfahnen an Potentialausgleich sichtbar
 2. Messung Erdungswiderstand: Dreipolmethode nach DIN VDE 0100-610, Grenzwert kleiner 10 Ohm für TN-System, Protokoll Messgeraet Megger DET2/3
 3. Ableiterwiderstand-Messung: Leitungswiderstands-Messung je Ableiter kleiner 0.2 Ohm, Zaehlmessprotokoll alle Verbindungsstellen
 4. Trennungsabstand-Prüfung vor Ort: Bandmass zur naechsten metallischen Unterinstallation, Protokoll Mess-Ergebnis vs. Berechnung
 5. SPD-Prüfung: Fabrikat und Typ auf Lieferschein konform mit Planung, Anschlussquerschnitt nach Herstellervorschrift, Sicherungsschutz installiert
-6. DGUV Pruefprotokoll: Erstpruefung nach DGUV Vorschrift 3 durch Elektrofachkraft, Protokoll Muster 4 mit allen Pruefpunkten und Freigabe
+6. DGUV Prüfprotokoll: Erstpruefung nach DGUV Vorschrift 3 durch Elektrofachkraft, Protokoll Muster 4 mit allen Prüfpunkten und Freigabe
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -56,7 +56,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 - Messprotokolle digital: Megger Messdaten CSV-Export, Auswertung Kalkulationstabelle Grenzwert-Ampel, Import SAP PM als Anlage Meldung
 - Lieferschein Blitzschutzmaterial: Zertifikat Materialguete Cu oder Stahl feuerverzinkt nach DIN EN 62561-1, Chargen-Nr
 - PlanRadar Dachplan: SPD-Standorte markiert, Ableiter-Positionen eingetragen, Foto je Ableiterbefestigung
-- Pruefprotokoll DGUV Vorschrift 3: Scan Pruefprotokoll Erstpruefung Elektrofachkraft, Archivierung 10 Jahre
+- Prüfprotokoll DGUV Vorschrift 3: Scan Prüfprotokoll Erstpruefung Elektrofachkraft, Archivierung 10 Jahre
 
 ## Meldungserstellung im ERP / SAP
 
@@ -71,7 +71,7 @@ Eine fehlerhafte oder fehlende Erdungs- und Blitzschutzanlage ist einer der teue
 - Fundamenterder nicht eingebaut: Nach Betonage nicht mehr nachruestbar ohne Aufbruch, Tiefenerder als Notloesung teuer
 - Trennungsabstand zu gering bei Dachinstallation: PV-Anlage oder Klimaanlage zu nahe am Ableiter, Ueberschlag bei Blitzeinschlag, Brandgefahr
 - SPD Typ 1 fehlt: Ueberspannungsschutz nicht koordiniert, Blitzteilstroeme zerstoren Endgeraete
-- Erstpruefung nicht durch Elektrofachkraft: Betreiber haftet nach BGV A3 selbst wenn kein Pruefprotokoll vorhanden
+- Erstpruefung nicht durch Elektrofachkraft: Betreiber haftet nach BGV A3 selbst wenn kein Prüfprotokoll vorhanden
 
 ## Hinweise zur Qualitaetssicherung
 

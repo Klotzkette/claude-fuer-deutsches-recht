@@ -1,6 +1,6 @@
 ---
 name: notariat-cloud-ki-nebenakte-verschwiegenheit
-description: "Notariat, Cloud und KI: Nebenakte, Entwurfsarbeit, Urkundenbezug, Verschwiegenheit, Verfuegbarkeit, lokale Aktenherrschaft, Auftragsverarbeitung, Datenabfluss und Notfallbetrieb. Prueft, wann KI/Cloud nur Hilfsmittel ist und wann es berufsrechtlich kippt."
+description: "Notariat, Cloud und KI: Nebenakte, Entwurfsarbeit, Urkundenbezug, Verschwiegenheit, Verfuegbarkeit, lokale Aktenherrschaft, Auftragsverarbeitung, Datenabfluss und Notfallbetrieb. Prüft, wann KI/Cloud nur Hilfsmittel ist und wann es berufsrechtlich kippt."
 ---
 
 # Notariat: Cloud, KI und Nebenakte

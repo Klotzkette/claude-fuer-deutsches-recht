@@ -1,6 +1,6 @@
 ---
 name: anspruchslandkarte-bgb-aufforderungsschreiben
-description: "Anspruchslandkarte für Nachbarschaftsstreit erstellen: BGB-Eigentumsansprüche, Besitzschutz, Überbau, Überhang, Immissionen, Notweg, Landesnachbarrecht, öffentliches Recht, Beweise, Einwendungen und Rechtsfolge trennen im Nachbarschaftsstreit Pruefer."
+description: "Anspruchslandkarte für Nachbarschaftsstreit erstellen: BGB-Eigentumsansprüche, Besitzschutz, Überbau, Überhang, Immissionen, Notweg, Landesnachbarrecht, öffentliches Recht, Beweise, Einwendungen und Rechtsfolge trennen im Nachbarschaftsstreit Prüfer."
 ---
 
 # Anspruchslandkarte BGB-Nachbarrecht

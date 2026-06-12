@@ -1,6 +1,6 @@
 ---
 name: vertragsaufhebung-ruecktritt-wandlung
-description: "Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschaeftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkma..."
+description: "Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschäftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkma..."
 ---
 
 # Pralr Vertragsaufhebung Ruecktritt Wandlung
@@ -34,11 +34,11 @@ description: "Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt 
 
 ## Fortwirkung BGB
 
-- § 313 BGB Stoerung der Geschaeftsgrundlage.
+- § 313 BGB Stoerung der Geschäftsgrundlage.
 - § 323 BGB Ruecktritt wegen Nichterfuellung.
 - §§ 346-354 BGB Ruecktrittsfolgen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Aufhebungsgrund?
 2. Rueckabwicklung?

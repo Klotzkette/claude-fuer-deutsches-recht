@@ -44,7 +44,7 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 - **Stammkapital** (relevant für Mantel- bzw. Anhalt-Insolvenzreife).
 - **Geschäftsjahr** und Bilanzstichtag.
 - **Branche** (relevant für Plausibilisierung).
-- **Beschaeftigte** Anzahl.
+- **Beschäftigte** Anzahl.
 - **Umsatz** im laufenden Jahr und Vorjahr.
 
 ### 3. Buchhaltung und Bilanzierung

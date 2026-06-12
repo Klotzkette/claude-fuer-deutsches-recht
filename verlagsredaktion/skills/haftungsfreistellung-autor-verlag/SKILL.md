@@ -41,7 +41,7 @@ Bei Veroeffentlichung urheberrechtlich oder aeusserungsrechtlich kritischer Beit
 1. **Standardklausel prüfen.** Wie weit ist die Haftungsfreistellung des Autors formuliert (Rechte am Werk, Zitierfreiheit, Bildrechte, Persoenlichkeitsrechte, Datenrechte)?
 2. **AGB-Grenze.** Bei Verbraucher-Autor (Privatperson, kein Unternehmer): Klausel darf nicht über typische, vorhersehbare Risiken hinausgehen; bei B2B weitere Reichweite.
 3. **Manuskripterklaerung** vor Drucklegung: kurze Bestaetigung des Autors, dass alle Quellen rechtekonform verwendet wurden.
-4. **Versicherung.** Verlagshaftpflicht mit Vermoegensschadenbaustein prüfen; Selbstbehalt klären.
+4. **Versicherung.** Verlagshaftpflicht mit Vermögensschadenbaustein prüfen; Selbstbehalt klären.
 5. **Bei Eintritt des Anspruchs.** Anzeige an Versicherung innerhalb der vertraglichen Frist; Autor informieren; gemeinsame Verteidigung mit Justiziariat.
 6. **Aussergerichtliche Loesung.** Kommunikation mit Anspruchsteller; ggf. Vergleich; Innenausgleich Autor/Verlag nach BGB § 426.
 7. **Gerichtsverfahren.** Streitverkuendung an Autor (ZPO § 72), Versicherungsdeckung in Anspruch nehmen.

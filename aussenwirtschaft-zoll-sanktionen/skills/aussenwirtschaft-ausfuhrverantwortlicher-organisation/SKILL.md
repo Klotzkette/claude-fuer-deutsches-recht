@@ -23,7 +23,7 @@ description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG §
 
 1. Gesetzliche Pflicht zur Benennung prüfen: § 7 AWG, BAFA-Merkblatt Exportverantwortung.
 2. Geeignete Person identifizieren: Kenntnisse im Exportkontrollrecht, Erreichbarkeit, Befugnisse.
-3. Stellenbeschreibung erstellen: Aufgaben, Berichtslinie an Geschaeftsfuehrung, Vertretung.
+3. Stellenbeschreibung erstellen: Aufgaben, Berichtslinie an Geschäftsführung, Vertretung.
 4. Interne Vollmacht und Entscheidungskompetenzen dokumentieren (Freigabe, Hold, Eskalation).
 5. Schulungsplan für initialen und laufenden Wissenserhalt erstellen.
 6. BAFA über Benennung informieren falls explizit gefordert; Dokumentation im ICP ablegen.
@@ -33,15 +33,15 @@ description: "Benennung und Organisation des Ausfuhrverantwortlichen nach AWG §
 - **§ 7 AWG**: Verantwortlichkeit des Ausfuhrers.
 - **BAFA-Merkblatt 'Exportverantwortung'**: Anforderungen an Ausfuhrverantwortlichen.
 - **Art. 9 VO (EU) 2021/821**: Interne Compliance-Programme (ICP) und Verantwortlichkeit.
-- **§ 130 OWiG**: Aufsichtspflichtverletzung durch Geschaeftsfuehrung.
+- **§ 130 OWiG**: Aufsichtspflichtverletzung durch Geschäftsführung.
 - **§ 18 AWG**: Haftungsrahmen für unerlaubte Ausfuhr.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Ausfuhrverantwortlicher schriftlich benannt?
 - [ ] Person qualifiziert und mit Entscheidungsbefugnissen ausgestattet?
 - [ ] Vertretungsregel für Urlaub und Krankheit geregelt?
-- [ ] Berichtslinie an Geschaeftsfuehrung dokumentiert?
+- [ ] Berichtslinie an Geschäftsführung dokumentiert?
 - [ ] Zugang zu aktuellen Gueterlisten und Sanktionslisten sichergestellt?
 - [ ] ICP-Dokumentation vollstaendig und dem Ausfuhrverantwortlichen uebergeben?
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

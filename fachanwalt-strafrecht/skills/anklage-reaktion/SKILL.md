@@ -184,7 +184,7 @@ description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverf
 
 - BVerfG 23.09.2025 — 2 BvR 625/25 (ANOM-Kommunikation): Verwertbarkeit von Informationen aus der Überwachung einer ANOM-Kommunikation im Strafverfahren — relevant für die Frage des hinreichenden Tatverdachts (§ 203 StPO) bei Anklagen, die auf ANOM-Datensaetze gestuetzt sind. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=23.09.2025&Aktenzeichen=2+BvR+625/25
 - BGH (GSSt) 03.02.2025 — GSSt 1/24: KCanG — Verfolgungsausschluss bei sanktionsfreien Eigenkonsummengen; bei Cannabisanklage zu prüfen, ob nicht schon die Eroeffnung (§ 203 StPO) am fehlenden Tatverdacht scheitert. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Pruefungsdichte des Eroeffnungsbeschlusses ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 203 StPO hinreichender Tatverdacht" durchführen.
+- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Prüfungsdichte des Eroeffnungsbeschlusses ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 203 StPO hinreichender Tatverdacht" durchführen.
 
 ## Normen Eroffnungsverfahren
 
@@ -192,6 +192,6 @@ description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverf
 - § 200 StPO — Inhalt der Anklageschrift (Pflichtangaben)
 - § 203 StPO — Eroffnung bei hinreichendem Tatverdacht
 - § 204 StPO — Ablehnung der Eroffnung (sofortige Beschwerde § 210 II StPO)
-- § 207 StPO — Eroffnungsbeschluss mit Aenderungen
+- § 207 StPO — Eroffnungsbeschluss mit Änderungen
 - § 153 StPO — Einstellung Geringfuegigkeit
 - § 153a StPO — Einstellung gegen Auflage

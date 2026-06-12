@@ -30,8 +30,8 @@ description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei
 
 1. Wer initiiert? Arbeitgeber oder Arbeitnehmer?
 2. Drohende **betriebsbedingte Kündigung**? Konkretisierbar?
-3. Beschaeftigungsdauer und Brutto-Jahresgehalt?
-4. Anwendbarkeit KSchG (Betrieb > 10 AN, > 6 Monate Beschaeftigung)?
+3. Beschäftigungsdauer und Brutto-Jahresgehalt?
+4. Anwendbarkeit KSchG (Betrieb > 10 AN, > 6 Monate Beschäftigung)?
 5. Sonderkündigungsschutz (BR, Schwerbehindert, Schwanger, Eltern)?
 6. Bestehende Krankheit, BEM-Verfahren?
 7. Eltern- / Pflegezeit?
@@ -45,7 +45,7 @@ Rechtsprechungsstand: BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Aufhebungsv
 
 - AG hätte ordentlich kündigen können (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
 - Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
-- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschäftigungsjahr (Fachliche Weisungen BA zu § 159 SGB III, Stand 01.01.2024, arbeitsagentur.de)
 
 **Folge**: keine Sperrzeit.
 

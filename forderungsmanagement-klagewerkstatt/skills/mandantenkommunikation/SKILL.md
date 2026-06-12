@@ -23,7 +23,7 @@ Maendel der Mandantenpflicht endet jedes Forderungsmandat in Aerger. Dieser Skil
 
 - Risiko des Unterliegens Kostenfolge ZPO 91
 - Streitwertabhaengige Gebühren RVG 13
-- Vorschusspflicht des Glaeubigers für Gerichtskosten GKG 12
+- Vorschusspflicht des Gläubigers für Gerichtskosten GKG 12
 - Hemmungs- und Verjährungswirkung der Klageerhebung BGB 204
 
 ## E-Mail-Muster Mandantensachstand

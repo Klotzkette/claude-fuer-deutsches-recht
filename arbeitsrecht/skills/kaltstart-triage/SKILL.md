@@ -125,7 +125,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `abmahnung-arbeitsrecht` | Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB.… |
 | `agg-pruefung-bewerber-und-beschaeftigte` | AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15… |
-| `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag).… |
+| `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag).… |
 | `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne… |
 | `arbeitsrecht-kaltstart-interview` | Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalationsregeln aus Personalhandbuch und Kündigungsunterlagen. Ausführen bei Neuinstallation, wenn… |
 | `arbeitsrecht-mandat-arbeitsbereich` | Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten;… |
@@ -165,7 +165,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `interne-untersuchung` | gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit… |
 | `kuendigungs-pruefung` | Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund),… |
 | `kuendigungsschutzklage` | Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der… |
-| `kueschk-abfindung-faustformel-und-spannweite` | Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung… |
+| `kueschk-abfindung-faustformel-und-spannweite` | Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung… |
 | `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge… |
 | `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche… |
 | `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner… |
@@ -243,7 +243,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Arbeitnehmer, Arbeitgeber, Betriebsrat, Geschaeftsfuehrer oder Syndikus?
+1. Mandantenkonstellation klären: Arbeitnehmer, Arbeitgeber, Betriebsrat, Geschäftsführer oder Syndikus?
 2. Phase des Mandats bestimmen: Noch keine Kuendigung (praeventiv), Kuendigung ausgesprochen/erhalten (Fristensicherung), laufendes Verfahren oder Abschluss?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
 4. Eilfristen prüfen: § 4 KSchG drei Wochen ab Zugang der Kuendigung; § 17 TzBfG drei Wochen ab vereinbartem Vertragsende — beide absolute Ausschlussfristen.
@@ -316,7 +316,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - `massenentlassung-17-kschg` — Massenentlassungsanzeige und Konsultation Betriebsrat nach § 17 KSchG.
 
 **Status, Expansion und Einstellungspruefung**
-- `arbeitnehmer-status` — Statusfeststellung Arbeitnehmer vs. Selbstaendiger, § 611a BGB, Clearingverfahren.
+- `arbeitnehmer-status` — Statusfeststellung Arbeitnehmer vs. Selbständiger, § 611a BGB, Clearingverfahren.
 - `einstellungspruefung` — Arbeitsvertrag, Befristung, AGG und Nachweisgesetz bei Neueinstellungen.
 - `expansion-auftakt` — Planung einer Neueinstellung in neuem Bundesland oder Zielland.
 - `expansion-aktualisierung` — Status eines laufenden Expansionsprojekts aktualisieren.
@@ -327,7 +327,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - `lohnsteuer-sozialversicherung` — Sozialversicherungsrechtlicher Status und lohnsteuerliche Fragen.
 - `fehlzeit-erfassen` — Neue Abwesenheit im Register anlegen: BUrlG, EFZG, MuSchG, BEEG.
-- `fehlzeiten-register` — Offene Abwesenheiten und Fristen ueberpruefen.
+- `fehlzeiten-register` — Offene Abwesenheiten und Fristen überprüfen.
 - `agg-pruefung-bewerber-und-beschaeftigte` — AGG: Diskriminierungsmerkmale, Benachteiligungsverbot, Geltendmachungsfrist.
 - `betriebsuebergang-613a-pruefen` — Betriebsuebergang: Identitaetswahrung, Widerspruchsrecht, Kuendigungsverbot.
 - `hinschg-whistleblower-antwort` — HinSchG: interner Meldekanal, Repressalienverbot, Bussgelder.
@@ -379,7 +379,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - Mindestlohn: 12,82 EUR ab 01.01.2025; **13,90 EUR ab 01.01.2026**; 14,60 EUR ab 01.01.2027 (Fuenfte Mindestlohnanpassungsverordnung vom 05.11.2025, BGBl. 2025 I Nr. 268) - Quelle: bundesregierung.de / bmas.de
 - Minijob-Grenze 2026: 603 EUR / Monat - Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg
 - EU-Plattformarbeitsrichtlinie 2024/2831 (ABl. L vom 11.11.2024) - Umsetzungsfrist 02.12.2026: widerlegbare gesetzliche Vermutung eines Arbeitsverhaeltnisses bei Plattformarbeit; Beweislast bei der Plattform; Regelungen zum algorithmischen Management; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32024L2831)
-- EU-Lohntransparenzrichtlinie 2023/970 (ABl. L 132 vom 17.05.2023) - Umsetzungsfrist 07.06.2026: Auskunftsanspruch zu individuellen und durchschnittlichen Entgelthoehen; Pflicht zur Angabe von Einstiegsentgelt oder Spanne in Stellenausschreibungen; Verbot der Frage nach Gehaltshistorie; Beweislastumkehr bei Verletzung von Transparenzpflichten; Berichterstattung ab 250 Beschaeftigten ab 07.06.2027 jaehrlich; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32023L0970)
+- EU-Lohntransparenzrichtlinie 2023/970 (ABl. L 132 vom 17.05.2023) - Umsetzungsfrist 07.06.2026: Auskunftsanspruch zu individuellen und durchschnittlichen Entgelthoehen; Pflicht zur Angabe von Einstiegsentgelt oder Spanne in Stellenausschreibungen; Verbot der Frage nach Gehaltshistorie; Beweislastumkehr bei Verletzung von Transparenzpflichten; Berichterstattung ab 250 Beschäftigten ab 07.06.2027 jaehrlich; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32023L0970)
 
 ## Aktuelle BAG-Linie 2025/2026 (live verifizieren vor Schriftsatzverwendung)
 
@@ -389,6 +389,6 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 | --- | --- | --- |
 | **BAG, Urt. v. 23.10.2025 - 8 AZR 300/24** | **Equal Pay - Paarvergleich genuegt.** Eine einzige besser bezahlte Vergleichsperson des anderen Geschlechts mit gleicher oder gleichwertiger Arbeit reicht, um die Vermutung des $ 22 AGG auszuloesen. Der Arbeitgeber muss konkret darlegen, dass die Differenz ausschließlich auf objektiven, geschlechtsneutralen Gruenden beruht. Pauschale Hinweise auf Medianwerte, Durchschnittsbetrachtungen oder Verhandlungsgeschick reichen nicht. Art. 157 AEUV bekommt damit Schaerfe. | `bag-equal-pay-paarvergleich` (fachanwalt-arbeitsrecht) / `bag-equal-pay-paarvergleich-8azr30024` (arbeitsrecht) |
 | **BAG, Urt. v. 03.06.2025 - 9 AZR 104/24** | **Kein Verzicht auf gesetzlichen Mindesturlaub.** Im bestehenden Arbeitsverhaeltnis können Arbeitnehmer:innen auf den gesetzlichen Mindesturlaub nicht wirksam verzichten - auch nicht durch gerichtlichen Vergleich. Gilt selbst dann, wenn die Beendigung bereits feststeht und absehbar ist, dass der Urlaub krankheitsbedingt nicht mehr genommen werden kann. Ausgleichs-/Erledigungs-/Abgeltungsklauseln müssen sauber zwischen gesetzlichem Mindesturlaub, vertraglichem Mehrurlaub und bereits entstandener Urlaubsabgeltung unterscheiden. | `bag-mindesturlaub-kein-verzicht` (fachanwalt-arbeitsrecht) / `bag-mindesturlaub-kein-verzicht-9azr10424` (arbeitsrecht) |
-| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschaeftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
+| **BAG, Urt. v. 25.03.2026 - 5 AZR 108/25** | **Pauschale Freistellungsklauseln in Arbeitsvertragsformularen unwirksam.** Eine formularmaessige Freistellungsklausel, die dem Arbeitgeber das einseitige Recht gibt, Beschäftigte nach Kuendigung unter Fortzahlung der Vergütung freizustellen, ist nach AGB-Kontrolle unwirksam, wenn sie Arbeitnehmer:innen unangemessen benachteiligt. Freistellung bleibt im konkreten Fall möglich - braucht aber einen tragfaehigen Grund (ueberwiegende schutzwuerdige Arbeitgeberinteressen). Die pauschale Vorratsklausel reicht nicht. | `bag-freistellungsklausel-unwirksam` (fachanwalt-arbeitsrecht) / `bag-freistellungsklausel-unwirksam-5azr10825` (arbeitsrecht) |
 
-> Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Pruefschemata, Klagebausteine und Verteidigungsmuster.
+> Diese drei Aktenzeichen sind Sucheinstieg. Vor Verwendung in Schriftsatz, Memo oder Mandantenbrief: konkrete Entscheidung in der freien Quelle (bundesarbeitsgericht.de, dejure.org) live verifizieren - Datum, Aktenzeichen, Randnummer, Fortgeltung. Spezial-Skills oben enthalten Prüfschemata, Klagebausteine und Verteidigungsmuster.

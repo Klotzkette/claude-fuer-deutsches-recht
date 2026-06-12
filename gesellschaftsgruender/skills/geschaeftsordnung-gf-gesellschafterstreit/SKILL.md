@@ -23,19 +23,19 @@ description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortz
 
 ## Triage zu Beginn
 
-Klaere vor Erstellung der Geschaeftsordnung:
+Klaere vor Erstellung der Geschäftsordnung:
 
-1. **Anzahl Geschaeftsfuehrer?** Solo-GF: vereinfachte Version ausreichend; Multi-GF: Ressort-Verteilung und Patt-Mechanismus zwingend.
-2. **Investor-Beteiligung?** SHA-Berichtspflichten und Zustimmungskataloge aus dem SHA in Geschaeftsordnung spiegeln.
+1. **Anzahl Geschäftsführer?** Solo-GF: vereinfachte Version ausreichend; Multi-GF: Ressort-Verteilung und Patt-Mechanismus zwingend.
+2. **Investor-Beteiligung?** SHA-Berichtspflichten und Zustimmungskataloge aus dem SHA in Geschäftsordnung spiegeln.
 3. **Beirat vorhanden?** Beirats-Zustimmungsvorbehalte mit GF-Katalog koordinieren.
-4. **Erlassende Stelle?** Gesellschafterversammlung (empfohlen, § 46 Nr. 6 GmbHG) oder Geschaeftsfuehrer selbst? Aenderbarkeit unterscheidet sich.
-5. **Schwellenwerte?** Für Zustimmungspflichtige Geschaefte: am Umsatz und Bilanzsumme orientieren; zu hohe Schwellen sind wirkungslos.
+4. **Erlassende Stelle?** Gesellschafterversammlung (empfohlen, § 46 Nr. 6 GmbHG) oder Geschäftsführer selbst? Änderbarkeit unterscheidet sich.
+5. **Schwellenwerte?** Für Zustimmungspflichtige Geschäfte: am Umsatz und Bilanzsumme orientieren; zu hohe Schwellen sind wirkungslos.
 
 ## Zentrale Normen
 
 - **§ 37 I GmbHG** — GF ist an Gesetz, Satzung und Gesellschafterbeschluesse gebunden
-- **§ 37 II GmbHG** — Bei Mehrgliedrigkeit: Gesamtgeschaeftsfuehrung als Grundsatz; Satzung / Geschaeftsordnung kann abweichen
-- **§ 46 Nr. 6 GmbHG** — Zuständigkeit der Gesellschafterversammlung für Geschaeftsordnung der GF (Erlass und Aenderung)
+- **§ 37 II GmbHG** — Bei Mehrgliedrigkeit: Gesamtgeschaeftsfuehrung als Grundsatz; Satzung / Geschäftsordnung kann abweichen
+- **§ 46 Nr. 6 GmbHG** — Zuständigkeit der Gesellschafterversammlung für Geschäftsordnung der GF (Erlass und Änderung)
 - **§ 43 GmbHG** — Sorgfaltspflicht des GF; verletzt er Zustimmungsvorbehalt: Haftung
 - **§ 49 I GmbHG** — Einberufungspflicht GF bei gesellschafterwichtigem Anlass (Eskalationspflicht)
 - **§§ 133, 157 BGB** — Auslegung der Zustimmungspflichten bei Streit
@@ -44,15 +44,15 @@ Klaere vor Erstellung der Geschaeftsordnung:
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Prüfschema: Geschaeftsordnung-Qualitaet
+## Prüfschema: Geschäftsordnung-Qualitaet
 
-| Schritt | Pruefpunkt | Norm | Ergebnis |
+| Schritt | Prüfpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | 1 | Zustimmungskataloge am Umsatz/Bilanz orientiert? | § 37 GmbHG | Schwellen praxistauglich? |
 | 2 | Patt-Mechanismus bei Multi-GF? | § 37 II GmbHG | Eskalation zur GV noetig |
 | 3 | SHA-Berichtspflichten gespiegelt? | SHA | Investor-Infos rechtzeitig |
 | 4 | Beirats-Zustimmungsvorbehalte koordiniert? | § 52 GmbHG | Doppel-Genehmigungen vermeiden |
-| 5 | Erlass durch GV oder GF selbst? | § 46 Nr. 6 GmbHG | Aenderbarkeit festlegen |
+| 5 | Erlass durch GV oder GF selbst? | § 46 Nr. 6 GmbHG | Änderbarkeit festlegen |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Schritt-für-Schritt-Workflow
@@ -62,11 +62,11 @@ Klaere vor Erstellung der Geschaeftsordnung:
 3. **Schwellenwerte festlegen:** Am Jahresumsatz und geplanten Investitionen orientieren.
 4. **Patt-Mechanismus:** Bei 2+ GF: Eskalationsregel formulieren.
 5. **Meeting-Rhythmus:** Woechentlich, quartalsweise Investor-Meeting, jaehrliche Strategie.
-6. **Beschluss der Gesellschafterversammlung:** Erlass der Geschaeftsordnung beschliessen (Paragraf 46 Nr. 6 GmbHG); Protokoll erstellen.
+6. **Beschluss der Gesellschafterversammlung:** Erlass der Geschäftsordnung beschliessen (Paragraf 46 Nr. 6 GmbHG); Protokoll erstellen.
 7. **Gelebte Praxis:** Jedes Quartal evaluieren; Schwellenwerte anpassen.
-8. **Bei Aenderung:** Erneuter GV-Beschluss; alten Stand archivieren.
+8. **Bei Änderung:** Erneuter GV-Beschluss; alten Stand archivieren.
 
-## Output-Template: Geschaeftsordnung GF
+## Output-Template: Geschäftsordnung GF
 
 **Adressat:** Internes Fuehrungs-Dokument — Tonfall praezise-sachlich
 
@@ -125,7 +125,7 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Patt ohne Mechanismus bei 2 GF: Gesellschaft handlungsunfaehig; GV-Einberufung nach § 49 GmbHG
 - Keine Eskalationsregel: GF können wichtige Entscheidungen blocken -> teure Streitigkeiten
-- Zu hohe Schwellen: Geschaeftsordnung faktisch leer; Kontrollzweck nicht erfullt
+- Zu hohe Schwellen: Geschäftsordnung faktisch leer; Kontrollzweck nicht erfullt
 
 ## Quellen und Vertiefung
 
@@ -133,7 +133,7 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gf-meeting-templates` — Tagesordnungen, Protokoll-Vorlagen
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag; Ressortbezug

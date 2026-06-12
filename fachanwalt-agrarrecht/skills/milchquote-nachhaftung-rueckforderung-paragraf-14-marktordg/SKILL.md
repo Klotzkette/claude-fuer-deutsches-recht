@@ -1,6 +1,6 @@
 ---
 name: milchquote-nachhaftung-rueckforderung-paragraf-14-marktordg
-description: "Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Pruefraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung."
+description: "Nachhaftung des Verpaechters fuer rueckwirkende Milchquote-Rueckforderungen mit Paragraf 14 MOG und EuGH C-275/05 Alvis und BVerwG 3 C 38.06 als Loesungsweg. Prüfraster fuer den typischen Fall verpachtete Milchquote vor 2015 mit nachtraeglicher EU-Rueckforderung."
 ---
 
 # Milchquote Nachhaftung Rueckforderung Paragraf 14 Marktordg
@@ -36,7 +36,7 @@ Verpaechter A hatte bis 2015 Milchquoten an Paechter B verpachtet. Nach Auslaufe
 1. Quoteninhaber 2013/14 = formell Eingetragener.
 2. Verpachtungsvertrag prüfen: Klausel zur Superabgabe vorhanden?
 3. Wenn ja: Innenregress gegen Paechter aus Vertrag.
-4. Wenn nein: Prüfe Paragraf 313 BGB Wegfall der Geschaeftsgrundlage; Quotenmarkt 2015 weggefallen.
+4. Wenn nein: Prüfe Paragraf 313 BGB Wegfall der Geschäftsgrundlage; Quotenmarkt 2015 weggefallen.
 5. Verjaehrung: 3 Jahre Paragraf 195 BGB ab Ueberlieferungsjahr.
 
 ## Belege und Aktenlücken

@@ -25,7 +25,7 @@ description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirts
 2. Prioritaetenbewertung: Strafrisiko, Fristen, Geldwert, Reputationsschaden.
 3. Ressourcen zuordnen: externe Berater, interne Experten, IT-Kapazitaet.
 4. Kritische-Pfad-Analyse für zeitkritische Verfahren.
-5. Eskalationsprozess und Berichtslinien für Geschaeftsfuehrung definieren.
+5. Eskalationsprozess und Berichtslinien für Geschäftsführung definieren.
 6. Woechentliche Statusuebersicht und Fristen-Dashboard einrichten.
 
 ## Rechtsrahmen
@@ -36,13 +36,13 @@ description: "Steuerungsmodul für Mandanten mit mehreren parallelen Aussenwirts
 - **BAFA-Verfahrensordnung**: Bearbeitungsfristen für Genehmigungsantraege.
 - **§ 130 OWiG**: Organisationspflichtverletzung als Bussgelstatbestand.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle offenen Sachverhalte vollstaendig erfasst?
 - [ ] Fristen für Behördenverfahren identifiziert und im Kalender eingetragen?
 - [ ] Prioritaetenbewertung nach Risikokategorien durchgefuehrt?
 - [ ] Ressourcenzuordnung realistisch und bestaetigt?
-- [ ] Eskalationsweg zur Geschaeftsfuehrung definiert?
+- [ ] Eskalationsweg zur Geschäftsführung definiert?
 - [ ] Statusreporting-Format und Rhythmus festgelegt?
 
 ## Typische Fallstricke
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

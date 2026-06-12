@@ -1,11 +1,11 @@
 ---
 name: zwangsvollstreckung-ueberblick
-description: "Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung §§ 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung §§ 866 ff. ZPO und ZVG, Vermoegensauskunft § 802c ZPO. Voraussetzung: Vollstreckungstitel § 794 ZPO mit Klausel § 724 ZPO und Zustellu..."
+description: "Zwangsvollstreckung Überblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung §§ 828 ff. ZPO (Konto, Lohn), Immobiliarvollstreckung §§ 866 ff. ZPO und ZVG, Vermögensauskunft § 802c ZPO. Voraussetzung: Vollstreckungstitel § 794 ZPO mit Klausel § 724 ZPO und Zustellu..."
 ---
 
-# Zwangsvollstreckung Ueberblick
+# Zwangsvollstreckung Überblick
 
-Nach Erlangung eines Titels die richtige Vollstreckungsstrategie waehlen. Erfolg haengt von Schuldnertyp und Verfuegbarkeit verwertbaren Vermoegens ab.
+Nach Erlangung eines Titels die richtige Vollstreckungsstrategie waehlen. Erfolg haengt von Schuldnertyp und Verfuegbarkeit verwertbaren Vermögens ab.
 
 ## Drei Voraussetzungen § 750 ZPO
 
@@ -32,9 +32,9 @@ Nach Erlangung eines Titels die richtige Vollstreckungsstrategie waehlen. Erfolg
 | Vollstreckungsart | Organ | Norm |
 |---|---|---|
 | Mobiliar (Sachen, Bargeld) | Gerichtsvollzieher | §§ 808 ff. ZPO |
-| Forderungen (Konto, Lohn, Geschaeftsforderung) | Vollstreckungsgericht (AG) | §§ 828 ff. ZPO |
+| Forderungen (Konto, Lohn, Geschäftsforderung) | Vollstreckungsgericht (AG) | §§ 828 ff. ZPO |
 | Grundstuecke | Vollstreckungsgericht / Amtsgericht | ZVG |
-| Vermoegensauskunft | Gerichtsvollzieher | § 802c ZPO |
+| Vermögensauskunft | Gerichtsvollzieher | § 802c ZPO |
 | Eidesstattliche Versicherung | Gerichtsvollzieher | § 807 ZPO |
 
 ## Mobiliarvollstreckung §§ 808 ff. ZPO
@@ -67,7 +67,7 @@ P-Konto-Schutz § 850k ZPO: ab 2025 Grundfreibetrag ca. 1.560 EUR netto monatlic
 |---|---|
 | Pfaendungsschutz Tabelle | § 850c ZPO, Pfaendungstabelle in Anlage |
 | Drittschuldner | Arbeitgeber |
-| Pfaendungs- und Ueberweisungsbeschluss | analog Konto |
+| Pfaendungs- und Überweisungsbeschluss | analog Konto |
 | Wirkung | Arbeitgeber haftet § 829 Abs. 3 ZPO |
 
 Aktuelle Pfaendungsfreigrenze 2025: ca. 1.560 EUR netto monatlich (alle 2 Jahre angepasst, Bekanntmachung BMJ).
@@ -89,7 +89,7 @@ Aktuelle Pfaendungsfreigrenze 2025: ca. 1.560 EUR netto monatlich (alle 2 Jahre 
 
 Zwangshypothek nur bei Forderungen über 750 EUR (§ 866 Abs. 3 ZPO).
 
-## Vermoegensauskunft § 802c ZPO
+## Vermögensauskunft § 802c ZPO
 
 | Aspekt | Inhalt |
 |---|---|
@@ -97,12 +97,12 @@ Zwangshypothek nur bei Forderungen über 750 EUR (§ 866 Abs. 3 ZPO).
 | Pflichten | umfassende Auskunft Vermögen (Konten, Forderungen, Sachen) |
 | Folgen Verweigerung | Haftbefehl § 802g ZPO, Schuldnerverzeichnis |
 | Wirkung | Eintrag § 882b ZPO, 3 Jahre |
-| Sperrfrist | 2 Jahre erneuter Antrag (§ 802d ZPO), Ausnahme bei wesentlicher Aenderung |
+| Sperrfrist | 2 Jahre erneuter Antrag (§ 802d ZPO), Ausnahme bei wesentlicher Änderung |
 
 ## Schuldnerverzeichnis § 882b ZPO
 
 - Zentral elektronisch beim AG bzw. zentraler Stelle.
-- Online abrufbar für Glaeubiger.
+- Online abrufbar für Gläubiger.
 - Aufbewahrung: 3 Jahre.
 - Bonitaetsrelevant.
 
@@ -143,7 +143,7 @@ Zwangshypothek nur bei Forderungen über 750 EUR (§ 866 Abs. 3 ZPO).
 |---|---|
 | GV-Auftrag (Pfaendung) | 26 EUR Grundgebuehr + Pauschalen |
 | PfÜB-Antrag | 22 EUR (KV 2110 GKG) |
-| Vermoegensauskunft | 33 EUR (Nr. 260 KV GvKostG) |
+| Vermögensauskunft | 33 EUR (Nr. 260 KV GvKostG) |
 | Zwangshypothek-Eintrag | nach KostO Notar/Grundbuchamt |
 | Zwangsversteigerung | hohe Vorschuesse (Wertgutachten ca. 1.500-3.000 EUR) |
 
@@ -162,6 +162,6 @@ Zwangshypothek nur bei Forderungen über 750 EUR (§ 866 Abs. 3 ZPO).
 - ZPO § 829 Pfaendung Forderung [gesetze-im-internet.de/zpo/__829.html](https://www.gesetze-im-internet.de/zpo/__829.html)
 - ZPO § 850c Lohnpfaendung [gesetze-im-internet.de/zpo/__850c.html](https://www.gesetze-im-internet.de/zpo/__850c.html)
 - ZPO § 850k P-Konto [gesetze-im-internet.de/zpo/__850k.html](https://www.gesetze-im-internet.de/zpo/__850k.html)
-- ZPO § 802c Vermoegensauskunft [gesetze-im-internet.de/zpo/__802c.html](https://www.gesetze-im-internet.de/zpo/__802c.html)
+- ZPO § 802c Vermögensauskunft [gesetze-im-internet.de/zpo/__802c.html](https://www.gesetze-im-internet.de/zpo/__802c.html)
 - ZPO § 882b Schuldnerverzeichnis [gesetze-im-internet.de/zpo/__882b.html](https://www.gesetze-im-internet.de/zpo/__882b.html)
 - ZVG [gesetze-im-internet.de/zvg/](https://www.gesetze-im-internet.de/zvg/)

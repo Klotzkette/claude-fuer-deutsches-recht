@@ -1,6 +1,6 @@
 ---
 name: freiwillige-und-aufwandsersatz
-description: "Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile für Helfer prüfen im Wahlkampfrecht."
 ---
 
 # Freiwillige Und Aufwandsersatz

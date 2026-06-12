@@ -1,6 +1,6 @@
 ---
 name: bewaehrungswiderruf-56f-stgb
-description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie..."
+description: "Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhältnismäßigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie..."
 ---
 
 # Bewaehrungswiderruf — § 56f StGB
@@ -53,7 +53,7 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 ## Strafzumessungs-Grundsatz Widerruf
 
-- **Verhaeltnismaessigkeitspruefung** ist Pflicht (§ 56f Abs. 2 StGB).
+- **Verhältnismäßigkeitspruefung** ist Pflicht (§ 56f Abs. 2 StGB).
 - Eine Verurteilung wegen einer neuen Straftat allein begruendet nicht zwingend den Widerruf; das Gericht muss prüfen, ob die Sozialprognose unverwertbar enttaeuscht ist.
 - Bei **Verfehlung unter der Erheblichkeitsschwelle** ist mildere Maßnahme (Auflagen-Erhoehung, Verlaengerung) Pflicht.
 
@@ -109,5 +109,5 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 - § 56f StGB in der geltenden Fassung.
 - §§ 453, 311 StPO.
-- BGH-Linie zur "Beharrlichkeit" und zum Verhaeltnis "Widerruf vs. Gesamtstrafe" — Aktenzeichen in dejure.org/openjur.de verifizieren.
+- BGH-Linie zur "Beharrlichkeit" und zum Verhältnis "Widerruf vs. Gesamtstrafe" — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.

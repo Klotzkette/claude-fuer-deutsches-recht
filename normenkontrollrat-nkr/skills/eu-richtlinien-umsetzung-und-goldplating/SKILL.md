@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinien-umsetzung-und-goldplating
-description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster für Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung."
+description: "Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Prüfraster für Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Prüf-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung."
 ---
 
 # NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
@@ -46,7 +46,7 @@ Typische Erscheinungsformen:
 - strengere Sanktionen
 - zusaetzliche Inhalte der Berichts- / Mitteilungspflicht
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. EU-Vorgabe kartieren
 
@@ -114,7 +114,7 @@ Typische Erscheinungsformen:
 
 | Element | EU-Vorgabe | nationale Regelung | Delta | Aufwand p.a. |
 |---|---|---|---|---|
-| Schwellenwert | 250 Beschaeftigte | 50 Beschaeftigte | -200 | + [X] Mio EUR |
+| Schwellenwert | 250 Beschäftigte | 50 Beschäftigte | -200 | + [X] Mio EUR |
 | Frequenz | jaehrlich | quartalsweise | × 4 | + [Y] Mio EUR |
 | Inhalt | Pflichtfelder A-D | A-D + E-G | + 3 Felder | + [Z] Mio EUR |
 

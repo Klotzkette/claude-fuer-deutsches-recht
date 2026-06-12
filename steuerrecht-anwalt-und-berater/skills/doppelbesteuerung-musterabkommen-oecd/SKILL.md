@@ -25,7 +25,7 @@ description: "Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des 
 - **OECD-Musterabkommen** — interpretativer Leitfaden für deutsche DBA.
 - **§ 1 EStG** — unbeschraenkte Steuerpflicht.
 - **§ 49 EStG** — beschraenkt steuerpflichtige Einkuenfte.
-- **§ 34c EStG** — Anrechnung auslaendischer Steuern.
+- **§ 34c EStG** — Anrechnung ausländischer Steuern.
 - **§ 50d EStG** — DBA-Anwendungsvorbehalt.
 - **§ 2 AO** — Rangordnung Voelkerrecht und nationales Recht.
 

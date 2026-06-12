@@ -29,7 +29,7 @@ Arbeitslosengeld I bekommen Sie, wenn Sie eine Zeit lang gearbeitet haben und je
 
 - **ALG I**: Arbeitslosengeld bei Arbeitslosigkeit (12 bis 24 Monate je nach Lebensalter).
 - **Sperrzeit**: Kuerzung wegen versicherungswidrigem Verhalten (z.B. selbst gekuendigt).
-- **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschaeftigung in den letzten 30 Monaten.
+- **Anwartschaftszeit**: 12 Monate sozialversicherungspflichtige Beschäftigung in den letzten 30 Monaten.
 - **Bemessungsentgelt**: Berechnungsgrundlage für Höhe.
 
 ## Rechtsgrundlagen

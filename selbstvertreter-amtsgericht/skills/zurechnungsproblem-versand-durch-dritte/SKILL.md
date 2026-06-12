@@ -106,7 +106,7 @@ Erfolgsquote eher gering, aber: probieren, wenn nichts anderes geht. Skill `wied
 ## Typische Fehler
 
 - "Ich gebe Klage am Fristtag um 23 Uhr meinem Sohn." → Wenn er es nicht schafft: Frist versaeumt, kein Wiedereinsetzung.
-- "Bote ist Anwalt — der wird es schon machen." → Wenn Bote nur Bote (kein Mandant-Anwalt-Verhaeltnis), zaehlt sein Versaeumnis Ihnen zu.
+- "Bote ist Anwalt — der wird es schon machen." → Wenn Bote nur Bote (kein Mandant-Anwalt-Verhältnis), zaehlt sein Versaeumnis Ihnen zu.
 - "Post-Versand am letzten Tag." → Postlaufzeit nicht berechnet.
 
 ## Quellen und Aktualitaet

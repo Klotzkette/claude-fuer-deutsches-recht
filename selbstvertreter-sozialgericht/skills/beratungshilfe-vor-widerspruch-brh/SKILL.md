@@ -48,7 +48,7 @@ Adresse: www.justiz.de → Amtsgericht in Ihrer Stadt.
 
 Sie können den Schein:
 
-- **Persoenlich** auf der Geschaeftsstelle abholen (mit Ausweis und Belegen)
+- **Persoenlich** auf der Geschäftsstelle abholen (mit Ausweis und Belegen)
 - **Schriftlich** per Antrag holen
 
 ### Schritt 2 — Voraussetzungen

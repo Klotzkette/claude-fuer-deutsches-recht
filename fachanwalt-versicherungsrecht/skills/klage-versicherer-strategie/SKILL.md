@@ -96,9 +96,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Klage gegen Versicherer strategisch planen | Klagestrategie nach Pruefschema; Template unten |
+| Standard — Klage gegen Versicherer strategisch planen | Klagestrategie nach Prüfschema; Template unten |
 | Variante A — Aussichten gut aber Vergleich schneller | Vergleichsverhandlung vor Klageerhebung einleiten |
-| Variante B — Beweislage unsicher Sachverstaendiger noetig | Selbstaendiges Beweisverfahren zuerst; Klage nach Gutachten |
+| Variante B — Beweislage unsicher Sachverstaendiger noetig | Selbständiges Beweisverfahren zuerst; Klage nach Gutachten |
 | Variante C — Mehrere Versicherer beteiligt Abstimmung noetig | Federführungs-Versicherer bestimmen; Klagen koordiniert stellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -245,7 +245,7 @@ Ratenzahlung in Höhe von EUR [Betrag] monatlich wird angeboten.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

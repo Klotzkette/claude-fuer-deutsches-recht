@@ -1,9 +1,9 @@
 ---
 name: arbeitnehmer-status
-description: "Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschaeftigung - Abgrenzu..."
+description: "Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs: Statusfeststellung für eine geplante Beschäftigung - Abgrenzu..."
 ---
 
-# Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs
+# Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
+**Fokus:** Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
 
 ### /arbeitsrecht:arbeitnehmer-status
 
@@ -63,10 +63,10 @@ Bevor losgelegt wird, kläre:
 - Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persönliche Abhaengigkeit, Fremdbestimmung) zu prüfen.
 - **EU-Plattformarbeitsrichtlinie (EU) 2024/2831 vom 23.10.2024** (ABl. L vom 11.11.2024; CELEX 32024L2831) - Umsetzungsfrist 02.12.2026:
  - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast für das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur für Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
- - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschaeftigtenvertreter; Transparenzpflicht über Einsatz und Funktionsweise automatisierter Systeme.
- - **Menschliche Aufsicht**: Entscheidungen über **Kontosperrung oder Vertragsbeendigung** müssen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Ueberpruefung automatisierter Entscheidungen innerhalb von zwei Wochen.
+ - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschäftigtenvertreter; Transparenzpflicht über Einsatz und Funktionsweise automatisierter Systeme.
+ - **Menschliche Aufsicht**: Entscheidungen über **Kontosperrung oder Vertragsbeendigung** müssen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Überprüfung automatisierter Entscheidungen innerhalb von zwei Wochen.
  - **Anwendungsbereich**: gilt für Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch für Personen ohne Arbeitsvertrag.
- - Umsetzung in deutsches Recht (vermutlich Aenderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
+ - Umsetzung in deutsches Recht (vermutlich Änderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
  - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
 - Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) prüfen.
 

@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-program-drittpersonal-security
-description: "Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Coach Trainer Seminarleiter

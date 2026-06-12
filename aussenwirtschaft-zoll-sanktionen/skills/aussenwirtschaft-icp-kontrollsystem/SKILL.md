@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schluessel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap..."
+description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schlüssel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap..."
 ---
 
 # Internal Compliance Programme (ICP): Aufbau und Gap-Analyse
@@ -32,11 +32,11 @@ description: "Aufbau und Auditierung eines Internal Compliance Programme (ICP) n
 
 - **Art. 12 VO (EU) 2021/821**: ICP als Bedingung für globale Ausfuhrgenehmigungen.
 - **BAFA-Merkblatt ICP**: 8 Kernelement-Anforderungen des BAFA.
-- **§ 14 AWG**: Auskunftspflicht gegenueber BAFA (Pruefrelevanz ICP).
+- **§ 14 AWG**: Auskunftspflicht gegenueber BAFA (Prüfrelevanz ICP).
 - **AWV §§ 68 ff.**: Aufzeichnungspflichten im Ausfuhrverfahren.
 - **§ 130 OWiG**: Aufsichtspflichtverletzung bei fehlendem Compliance-System.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Ausfuhrverantwortlicher schriftlich benannt und Stellvertreter geregelt?
 - [ ] Risikoanalyse dokumentiert und aktuell?
@@ -68,7 +68,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

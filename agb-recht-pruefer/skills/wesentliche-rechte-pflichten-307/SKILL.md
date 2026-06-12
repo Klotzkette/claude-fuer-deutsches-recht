@@ -24,7 +24,7 @@ description: "Norm- und Dogmatik-Skill für Wesentliche Rechte Pflichten 307: pr
  - Beim Kaufvertrag: Lieferung mangelfreier Ware, Eigentumsuebertragung.
  - Beim Werkvertrag: Herstellung des Werkes nach Vertragspflicht.
  - Beim Dienstvertrag/SaaS: Bereitstellung der vertraglich vereinbarten Dienstleistung in vereinbarter Qualitaet.
- - Beim Mietvertrag: Ueberlassung in tauglichem Zustand (§ 535 BGB).
+ - Beim Mietvertrag: Überlassung in tauglichem Zustand (§ 535 BGB).
  - **Hauptanwendung:** Haftungsklauseln. Eine Klausel, die die Haftung für Verletzung der Kardinalpflicht selbst bei leichter Fahrlaessigkeit ausschliesst oder so weit beschraenkt, dass der Vertragspartner seine Hauptleistungs-Erwartung verliert, ist unwirksam.
  - **Zulässig:** Begrenzung der Haftung bei leichter Fahrlaessigkeit der Kardinalpflichten auf den vertragstypisch vorhersehbaren Schaden (BGH, ständige Rechtsprechung). Voraussetzung: Begrenzung muss in vernuenftiger Relation zum Vertragswert stehen.
  - **B2B-Anwendbarkeit:** Volle Geltung; § 307 Abs. 2 Nr. 2 BGB ist auch im unternehmerischen Verkehr unmittelbar anwendbar.

@@ -227,7 +227,7 @@ Zitierweise nach `../references/zitierweise.md`.
 
 Relevante Normen und Rspr.:
 - GeschGehG (in Kraft seit 26.04.2019; Umsetzung Richtlinie (EU) 2016/943): https://www.gesetze-im-internet.de/geschgehg/
-- § 2 Nr. 1 GeschGehG – Definition Geschaeftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
+- § 2 Nr. 1 GeschGehG – Definition Geschäftsgeheimnis; Angemessenheitsprinzip (Schutzmassnahmen-Erfordernis)
 - §§ 16-20 GeschGehG (prozessualer Geheimnisschutz)
 - **§ 273a ZPO** (Justizstandort-Staerkungsgesetz; in Kraft 01.04.2025): Erstreckung des prozessualen Geheimnisschutzes über den GeschGehG-Streit hinaus auf alle Zivilverfahren; Antrag jeder Partei möglich; Ordnungsgeld bis 100.000 EUR bei Verstoss; § 6a ArbGG für Arbeitsgerichtsverfahren. https://www.gesetze-im-internet.de/zpo/__273a.html — Praxisfolge: NDA-Mechanik kann durch das prozessuale Schutzregime ergaenzt werden.
 - § 241 Abs. 2 BGB – Schutzpflichten im Schuldverhaeltnis

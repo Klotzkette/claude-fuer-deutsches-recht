@@ -13,7 +13,7 @@ description: "SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfu
 
 ## Kernsachverhalt
 
-Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vormonat oder Vorjahres-Periode zeigt Entwicklungen und Auffaelligkeiten. Konten mit ungewoehnlicher Saldenentwicklung deuten auf Buchungsfehler, geschaeftliche Aenderungen oder Krisensignale hin. Der Steuerberater nutzt den SuSa-Vergleich als Pruefinstrument im Monatsabschluss und im Jahresabschluss-Vorlauf.
+Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vormonat oder Vorjahres-Periode zeigt Entwicklungen und Auffaelligkeiten. Konten mit ungewoehnlicher Saldenentwicklung deuten auf Buchungsfehler, geschäftliche Änderungen oder Krisensignale hin. Der Steuerberater nutzt den SuSa-Vergleich als Prüfinstrument im Monatsabschluss und im Jahresabschluss-Vorlauf.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Eine isolierte SuSa zeigt nur den Stichtag. Erst die Gegenueberstellung mit Vorm
 5. Welche Periodendefinitions (Kalender vs. abweichendes Wirtschaftsjahr)?
 6. Welche Auswertungsfrequenz (monatlich vs. quartalsweise)?
 7. Welche Verwendungszweck (interne Prüfung, Mandanten-Kommunikation)?
-8. Welche Buchungs-Kontinuitaet vs. Aenderungen Kontenrahmen?
+8. Welche Buchungs-Kontinuitaet vs. Änderungen Kontenrahmen?
 
 ## Rechtlicher Rahmen
 
@@ -80,9 +80,9 @@ Konto Bezeichnung Aktuell Vormonat Diff Vorjahres-Periode Diff
 
 ### Phase 4 — Konten-Cluster-Analyse
 
-- Bestandskonten: hohe Aenderung deutet auf Geschaeftsdynamik oder Buchungsfehler.
+- Bestandskonten: hohe Änderung deutet auf Geschäftsdynamik oder Buchungsfehler.
 - Erfolgskonten: monatliche Saldenaenderung ist normal; aber Anomalien (Habensaldo Aufwand) deutet auf Fehlbuchung.
-- USt-Konten: Vorsteuer und USt sollten in plausiblem Verhaeltnis stehen.
+- USt-Konten: Vorsteuer und USt sollten in plausiblem Verhältnis stehen.
 - Verrechnungskonten: sollten zeitnah auf null zurueck.
 
 ### Phase 5 — Auffaelligkeits-Liste

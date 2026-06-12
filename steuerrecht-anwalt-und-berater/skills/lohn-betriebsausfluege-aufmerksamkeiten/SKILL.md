@@ -13,7 +13,7 @@ description: "Aufmerksamkeiten 60 EUR-Freigrenze pro persönlichem Anlass. Anwen
 
 ## Kernsachverhalt
 
-Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschaeftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
+Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines Kindes, runder Beschäftigungs-Jubilaeum) sind LSt-frei bis 60 EUR pro Anlass (LStR R 19.6). Diese Regelung ist UNABHAENGIG von der 50-EUR-Sachbezugs-Freigrenze nach § 8 Abs. 2 Satz 11 EStG. Wichtig: keine Geldzuwendung, sondern Sachzuwendung. Anlassbezug muss erkennbar sein. Bei Ueberschreiten ist Aufmerksamkeit voll steuerpflichtig.
 
 ## Kaltstart-Rueckfragen
 
@@ -23,7 +23,7 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 4. Anlass dokumentiert (Karte, Vermerk)?
 5. Hat der AG weitere Sachbezuege im Monat (50-EUR-Grenze ist getrennt)?
 6. Bei Hochzeitsgeschenk: AN heiratet oder AG?
-7. Bei Jubilaeum: AN-Beschaeftigungsdauer oder AG-Firmenjubilaeum?
+7. Bei Jubilaeum: AN-Beschäftigungsdauer oder AG-Firmenjubilaeum?
 8. Bei Tod nahestehender Person: Trauerbeihilfe (eigenes Regelwerk)?
 
 ## Rechtlicher Rahmen
@@ -51,7 +51,7 @@ Aufmerksamkeiten zu persönlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 | Runder Geburtstag (50, 60, 70) | Ja |
 | Hochzeit | Ja |
 | Geburt eines Kindes | Ja |
-| Beschaeftigungs-Jubilaeum 10, 20, 25 Jahre | Ja |
+| Beschäftigungs-Jubilaeum 10, 20, 25 Jahre | Ja |
 | Krankheit, Genesung (Blumenstrauss) | Ja |
 | Beerdigung (Trauerbeihilfe) | Eigenes Regelwerk (R 19.7 LStR) |
 | Firmenjubilaeum (kein persönlicher Anlass des AN) | Nein, ggf. § 19 Abs. 1 Nr. 1a EStG Betriebsveranstaltung |

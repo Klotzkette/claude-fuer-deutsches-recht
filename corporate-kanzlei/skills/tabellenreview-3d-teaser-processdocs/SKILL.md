@@ -63,7 +63,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -121,7 +121,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Tabelle wird geprueft: Vertragsliste, Litigation-Tracker, IP-Register, HR-Übersicht?
 2. Quelle: Aus dem Datenraum oder vom Mandanten direkt geliefert?
-3. Pruefzweck: DD-Abgleich, W&I-Underwriting, Closing-Checkliste?
+3. Prüfzweck: DD-Abgleich, W&I-Underwriting, Closing-Checkliste?
 4. Fehlende Spalten / Felder definiert? (z.B. Vertragswert, Enddatum, CoC-Klausel)
 5. Konsistenz mit Datenraum-Dokumenten geprueft (Tabelle vs. Original-Vertrag)?
 
@@ -135,7 +135,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Tabellen-Pruefungskatalog
+## Tabellen-Prüfungskatalog
 
 ### Vertragsliste (Contract Schedule)
 
@@ -154,7 +154,7 @@ Haeufige Fehler:
 - Keine Laufzeitangabe → Unbegrenzter Vertrag unklar
 - CoC-Spalte leer → DD-Luecke
 - Volumen als "k.A." → Wesentlichkeitsabschaetzung unmoeglich
-- Gerichtsstand fehlt → unklar ob deutsches oder auslaendisches Recht
+- Gerichtsstand fehlt → unklar ob deutsches oder ausländisches Recht
 
 ### Litigation-Tracker
 
@@ -189,7 +189,7 @@ Pflichtfelder:
 6. **IRL-Update** — fehlende Dokumente als neue IRL-Anfragen aufnehmen
 7. **Bericht** — in DD-Report oder Red-Flag-Memo einarbeiten
 
-## Output-Template Tabellen-Pruefungskommentar
+## Output-Template Tabellen-Prüfungskommentar
 
 ```
 TABELLENREVIEW — [TABELLENNAME]

@@ -132,7 +132,7 @@ Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich f�
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -140,17 +140,17 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | --- | --- |
 | `anfaenger-verhandlung-vergleich-und-eskalation` | Anfaenger: Verhandlung, Vergleich und Eskalation im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `anschauungsmaterial-multiformat-auswertung` | Wertet Corporate-Legal-English-Unterlagen in mehreren Formaten aus: PDF, Scan, Screenshot, JPEG, Excel, Chat, Email, Notarvermerk, Cap Table und Dealroom-Fragmente im Gesellschaftsrecht Legal English. |
-| `anti-dilution-articles-association` | Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken im Gesellschaftsrecht Legal English. |
+| `anti-dilution-articles-association` | Prüft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken im Gesellschaftsrecht Legal English. |
 | `articles-association-satzung` | Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prüft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen im Gesellschaftsrecht Legal English. |
 | `begriffskompass-intake-bgb-at` | Erfasst einen Corporate-English-Begriff mit Dokument, Rechtsordnung, Parteirolle, deutscher Naeherung, False-Friend-Risiko und gewuenschtem Arbeitsprodukt im Gesellschaftsrecht Legal English. |
 | `bgb-at-schuldrecht-at-im-ma` | Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen: Form, Stellvertretung, Bedingungen, Verfuegungsverbote, AGB-Kontrolle, Konkretisi... |
 | `business-corporate` | Business: Dokumentenmatrix, Lückenliste und Nachforderung im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse u... |
-| `cap-table-client-explainer` | Erklaert und prüft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschaeftsanteile, Verwässerung und Registerrealitaet im Gesellschaftsrecht Legal English. |
+| `cap-table-client-explainer` | Erklaert und prüft Cap Table, Gesellschafterliste, wirtschaftliche Beteiligung, Stammkapital, Geschäftsanteile, Verwässerung und Registerrealitaet im Gesellschaftsrecht Legal English. |
 | `chronologie-fristen` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Gesellschaftsrecht Legal English. |
 | `client-explainer-legal-english` | Erstellt mandantenfreundliche Erklaerungen von Corporate-Legal-English-Begriffen ohne Jargon, mit Beispielen, Risiken und naechsten Entscheidungen im Gesellschaftsrecht Legal English. |
 | `corporate-behoerden-gericht-und-registerweg` | Corporate: Behörden-, Gerichts- oder Registerweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `dealroom-quellenkarte` | Dealroom Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
-| `deutsches-englische-drag-tag` | Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends im Gesellschaftsrecht Legal English. |
+| `deutsches-englische-drag-tag` | Prüft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Übersetzungsregeln, Auslegung und False Friends im Gesellschaftsrecht Legal English. |
 | `didaktisches-gesellschafterliste` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse un... |
 | `dokumente-intake` | Dokumentenintake für Gesellschaftsrecht in legal English: sortiert Articles of Association, Shareholders Agreement, Board Resolutions, prüft Datum, Absender, Frist und Beweiswert (Cap table, Board minutes); markiert Lücken; berücksichtig... |
 | `drag-tag-piggyback` | Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik im Gesellschaftsrecht Legal English. |
@@ -159,7 +159,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `einstieg-routing` | Einstieg, Triage und Routing für Gesellschaftsrecht in legal English: ordnet Rolle (Shareholders, Board of Directors, Investors), markiert Frist (UK confirmation statement annual), wählt Norm (UK Companies Act 2006, Delaware GCL, MBCA (U... |
 | `english-anschauungsmaterial-multiformat` | English: Fristen, Form, Zuständigkeit und Rechtsweg im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und dir... |
 | `exit-spa-financial-debt` | Erklaert Exit, SPA, signing, closing, Conditions Precedent, Long Stop Date, Closing Deliverables und Vollzugslogik bei Unternehmenstransaktionen im Gesellschaftsrecht Legal English. |
-| `financial-debt-net-debt-working-capital` | Prueft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext im Gesellschaftsrecht Legal English. |
+| `financial-debt-net-debt-working-capital` | Prüft Financial Debt, Net Debt, Cash Free Debt Free, Working Capital, Debt-like Items und Kaufpreisformel im M&A-Kontext im Gesellschaftsrecht Legal English. |
 | `financing-convertible-fully-diluted` | Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen im Gesellschaftsrecht Legal English. |
 | `fully-diluted-esop-option-pool` | Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren im Gesellschaftsrecht Legal English. |
 | `gesellschafterliste-compliance-dokumentation-und-akte` | Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Corporate Legal English: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/VC-Terms), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbre... |
@@ -171,7 +171,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `liquidation-preference-partner-briefing` | Erklaert Liquidation Preference, participating preference, non-participating preference, Exit-Waterfall, Rangfolge und wirtschaftliche Verteilungswirkung im Gesellschaftsrecht Legal English. |
 | `output-waehlen` | Output-Wahl für Gesellschaftsrecht in legal English: stimmt Adressat (Shareholders, Board of Directors, Investors), Frist (UK confirmation statement annual) und Form auf den Zweck ab — typische Outputs: Memo English, SPA-Markup, Drag-Alo... |
 | `partner-briefing-memo` | Schreibt ein knappes Partnerbriefing zu Corporate-English-Fragen mit Issue, Rechtsanker, wirtschaftlicher Wirkung, Empfehlung und Rueckfragen im Gesellschaftsrecht Legal English. |
-| `protective-provisions-qualitaetsgate` | Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten im Gesellschaftsrecht Legal English. |
+| `protective-provisions-qualitaetsgate` | Prüft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten im Gesellschaftsrecht Legal English. |
 | `qualitaetsgate-corporate-legal-english` | Schlusspruefung für Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen im Gesellschaftsrecht Legal English. |
 | `reasonable-efforts-reps-warranties` | Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie für deutsches Recht im Gesellschaftsrecht Legal English. |
 | `reps-warranties-indemnities` | Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA im Gesellschaftsrecht Legal English. |

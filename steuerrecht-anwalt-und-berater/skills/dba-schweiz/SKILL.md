@@ -32,11 +32,11 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 
 ### Primaernormen
 
-- **DBA Deutschland-Schweiz vom 11.08.1971** (BGBl. 1972 II S. 1021/1022) mit Aenderungsprotokollen: 12.03.2002 (BGBl. 2003 II S. 68, Einfuehrung Grenzgaengerregelung Art. 15a), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, anwendbar ab 01.01.2026).
+- **DBA Deutschland-Schweiz vom 11.08.1971** (BGBl. 1972 II S. 1021/1022) mit Änderungsprotokollen: 12.03.2002 (BGBl. 2003 II S. 68, Einfuehrung Grenzgaengerregelung Art. 15a), 27.10.2010 (BGBl. 2011 II S. 1092), 21.08.2023 (BGBl. 2025 II Nr. 275, in Kraft 27.11.2025, anwendbar ab 01.01.2026).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 6 AStG, § 20 AStG.
 - **§ 50i EStG** — Wegzugsbesteuerung Personengesellschaft.
-- **MLI**: Schweiz ist nicht MLI-Unterzeichnerstaat — DBA-Anpassungen erfolgen nur durch bilaterale Aenderungsprotokolle (zuletzt 21.08.2023).
+- **MLI**: Schweiz ist nicht MLI-Unterzeichnerstaat — DBA-Anpassungen erfolgen nur durch bilaterale Änderungsprotokolle (zuletzt 21.08.2023).
 
 ### Leitentscheidungen und BMF-Schreiben
 
@@ -80,7 +80,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 ## Workflow
 
 ### Phase 1 — DBA-Anwendbarkeit
-1. Anwendbares Aenderungsprotokoll.
+1. Anwendbares Änderungsprotokoll.
 
 ### Phase 2 — Ansaessigkeit klären
 1. Pauschalbesteuerung beachten.
@@ -145,7 +145,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 | Wegzug in die Schweiz vs. Beteiligung als deutscher Steuerpflichtiger halten | sofortige Wegzugssteuer § 6 AStG (bei Drittstaat Schweiz strenger), aber dann freie Verfuegung | Beteiligung halten, deutsche KSt/EStG-Pflicht weiter; Schenkung an in DE wohnenden Familienangehoerigen vor Wegzug prüfen | je nach stillen Reserven, Familienkonstellation, kuenftiger Veraeusserungsabsicht; Frueh-Beratung essenziell |
 | Schweizer Pauschalbesteuerung waehlen vs. ordentlich besteuert werden | niedrigere Steuer in CH, aber **kein voller DBA-Schutz**, Doppelbesteuerung droht | volle DBA-Berechtigung, aber hoehere Schweizer Steuerlast | bei hohem Auslandseinkommen: ordentliche Besteuerung wegen DBA-Schutz oft vorteilhafter |
 | Pension zweite Saeule (BVG) Auszahlung als **Kapital** vs. **Rente** | Kapital-Auszahlung: in CH einmalige niedrigere Besteuerung; in DE Lohn-/Kapitalbehandlung strittig | Rente: laufende Besteuerung beider Staaten, Anrechnung | bei groesseren Betraegen Berechnung beider Pfade in Mandanten-Memo; Wohnsitzwechsel beachten |
-| Grenzgaenger-Status (60-Tage-Regel) halten vs. echter Schweizer Wohnsitz | DE-Steuer-Wohnsitz, deutsche EStG-Anrechnung der CH-Quellensteuer 4,5 Prozent | CH-Wohnsitz, in CH besteuert (kantonal+Bund), § 6 AStG-Wegzug | bei stabilen 60-Tage-Verhaeltnissen Grenzgaenger guenstiger; bei zunehmender Reisetaetigkeit Wohnsitz CH prüfen |
+| Grenzgaenger-Status (60-Tage-Regel) halten vs. echter Schweizer Wohnsitz | DE-Steuer-Wohnsitz, deutsche EStG-Anrechnung der CH-Quellensteuer 4,5 Prozent | CH-Wohnsitz, in CH besteuert (kantonal+Bund), § 6 AStG-Wegzug | bei stabilen 60-Tage-Verhältnissen Grenzgaenger guenstiger; bei zunehmender Reisetaetigkeit Wohnsitz CH prüfen |
 
 ## Edge Cases — was Prüfer triggert
 
@@ -162,7 +162,7 @@ Das DBA-Schweiz vom 11.08.1971 ist eines der praxisrelevantesten DBA Deutschland
 >
 > Schritt 1: Grenzgaengerstatus erfuellt (Art. 15a DBA-CH). Schweizer Quellensteuer 4,5 Prozent (Hoechstsatz Art. 15a, verifikationspflichtig) = 5.580 EUR.
 >
-> Schritt 2: Deutscher Wohnsitz, EStG-Pflicht auf Welteinkommen. Anrechnung nach § 34c EStG: Schweizer 4,5 Prozent voll anrechenbar (sehr niedrig im Verhaeltnis zur deutschen Steuer).
+> Schritt 2: Deutscher Wohnsitz, EStG-Pflicht auf Welteinkommen. Anrechnung nach § 34c EStG: Schweizer 4,5 Prozent voll anrechenbar (sehr niedrig im Verhältnis zur deutschen Steuer).
 >
 > Schritt 3: Anlage N-AUS und Anlage AUS einreichen mit Schweizer Quellensteuerbescheinigung der CH-ESTV.
 >

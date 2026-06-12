@@ -37,7 +37,7 @@ description: "Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung i
 - Vorzeiten aus anderen EU-Staaten nicht schematisch ablehnen: Freizügigkeit, Gleichbehandlung, Berufsqualifikationsbezug und landes-/bundesrechtliche Anerkennungstatbestände getrennt prüfen.
 - Konkrete EuGH-Entscheidungen nur mit Curia-/EUR-Lex-Fundstelle ausgeben; Brouillard (C-298/14) nicht als Standardfall zur Stufenfestsetzung verwenden, sondern höchstens für Berufsqualifikations-/Anerkennungsfragen nach Live-Check.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Stufenstand?
 2. Welche Vorzeiten?

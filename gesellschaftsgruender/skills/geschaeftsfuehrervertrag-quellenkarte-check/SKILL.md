@@ -1,9 +1,9 @@
 ---
 name: geschaeftsfuehrervertrag-quellenkarte-check
-description: "Geschaeftsfuehrervertrag Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Geschäftsführervertrag Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
-# Geschaeftsfuehrervertrag Quellenkarte Check
+# Geschäftsführervertrag Quellenkarte Check
 
 ## Zweck
 

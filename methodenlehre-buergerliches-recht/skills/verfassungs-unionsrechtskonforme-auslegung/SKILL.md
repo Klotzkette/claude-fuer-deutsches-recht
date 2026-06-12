@@ -13,7 +13,7 @@ description: "Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivil
 
 ## Worum geht es?
 
-Die verfassungs- und unionsrechtskonforme Auslegung sind keine eigenstaendigen Auslegungsmethoden neben Wortlaut, System, Historie und Telos, sondern **Querschnittskanones**: Sie wirken in jede der vier klassischen Methoden hinein. Massstab ist nicht der reine Norm-Sinn, sondern die Vereinbarkeit mit hoeherrangigem Recht.
+Die verfassungs- und unionsrechtskonforme Auslegung sind keine eigenstaendigen Auslegungsmethoden neben Wortlaut, System, Historie und Telos, sondern **Querschnittskanones**: Sie wirken in jede der vier klassischen Methoden hinein. Maßstab ist nicht der reine Norm-Sinn, sondern die Vereinbarkeit mit hoeherrangigem Recht.
 
 Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit dem Grundgesetz vereinbare zu waehlen. Unionsrechtskonforme Auslegung: Nationales Recht ist im Lichte des Unionsrechts auszulegen, insbesondere zur effektiven Umsetzung von Richtlinien.
 
@@ -36,7 +36,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 
 - EuGH, Urt. v. 10.04.1984, Rs. 14/83 — Von Colson und Kamann: Pflicht der nationalen Gerichte zur richtlinienkonformen Auslegung des nationalen Rechts.
 - EuGH, Urt. v. 13.11.1990, Rs. C-106/89 — Marleasing: Pflicht erstreckt sich auf jedes nationale Recht, soweit es richtlinienrelevant ist; Auslegung "soweit möglich" im Sinne der Richtlinie.
-- EuGH, Urt. v. 26.02.1986, Rs. 152/84 — Marshall: keine horizontale Direktwirkung von Richtlinien im Verhaeltnis zwischen Privaten. Wer sich gegen einen Privaten auf eine Richtlinie beruft, muss über die richtlinienkonforme Auslegung des Umsetzungsgesetzes argumentieren.
+- EuGH, Urt. v. 26.02.1986, Rs. 152/84 — Marshall: keine horizontale Direktwirkung von Richtlinien im Verhältnis zwischen Privaten. Wer sich gegen einen Privaten auf eine Richtlinie beruft, muss über die richtlinienkonforme Auslegung des Umsetzungsgesetzes argumentieren.
 
 **Kernthese:** Recht ist Mehrebenenordnung. Nationale Norm muss Verfassung und Unionsrecht respektieren; bei mehreren Auslegungen ist die konforme zu waehlen.
 
@@ -47,7 +47,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - § 138 BGB (sittenwidrige Rechtsgeschaefte) wird durch Grundrechte ausgefuellt (Buergschaftsentscheidung BVerfGE 89, 214 zu nahen Familienangehoerigen).
 - § 242 BGB (Treu und Glauben) wirkt grundrechtsgepraegt — Beispiele in Mietrecht, Arbeitsrecht, AGB-Recht.
 - § 826 BGB (vorsaetzliche sittenwidrige Schaedigung) wird durch Grundrechtsabwaegung konkretisiert.
-- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Massstab für Kontrolle über AGB (§§ 305 ff. BGB) und über § 138 BGB.
+- Vertragsfreiheit (Art. 2 Abs. 1 GG iVm Art. 12 Abs. 1 GG) ist Maßstab für Kontrolle über AGB (§§ 305 ff. BGB) und über § 138 BGB.
 
 **Unionsrechtskonforme Auslegung:**
 

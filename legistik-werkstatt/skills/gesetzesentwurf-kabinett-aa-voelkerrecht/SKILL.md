@@ -51,7 +51,7 @@ Geaenderte Stammgesetze in der nach Inkrafttreten gültigen Fassung.
 
 Welche Ressorts wurden beteiligt, welche Änderungswünsche gab es, wie wurde damit umgegangen.
 
-### 9. Pruefbericht Normenkontrollrat
+### 9. Prüfbericht Normenkontrollrat
 
 (Bund: Nationaler Normenkontrollrat / NKR; Land: oft nicht vorhanden, aber teilweise Landes-NKR oder Verbändeanhörung)
 

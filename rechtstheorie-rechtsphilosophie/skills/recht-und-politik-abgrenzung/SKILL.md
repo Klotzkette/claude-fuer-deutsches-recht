@@ -1,6 +1,6 @@
 ---
 name: recht-und-politik-abgrenzung
-description: "Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss."
+description: "Prüft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss."
 ---
 
 # Recht und Politik

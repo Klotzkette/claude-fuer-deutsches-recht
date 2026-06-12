@@ -1,6 +1,6 @@
 ---
 name: delisting-bernahmeangebot
-description: "Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance."
+description: "Prüft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss im Insiderrecht Compliance."
 ---
 
 # Delisting – Insiderrecht und Ad-hoc-Pflicht

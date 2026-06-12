@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-gutachten-laien
-description: "Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt."
+description: "Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erläuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt."
 ---
 
 # Sich gegen ein negatives Gutachten wehren
@@ -28,14 +28,14 @@ Das Gutachten sagt: Sie haben kein Recht. Sie wissen aber, dass das Gutachten fa
 ## Fachbegriffe (kurz erklaert)
 
 - **Stellungnahme**: Schriftlich antworten und Kritik formulieren.
-- **Erlaeuterung**: Gutachter erklaert sein Gutachten persoenlich, oft im Termin.
+- **Erläuterung**: Gutachter erklaert sein Gutachten persoenlich, oft im Termin.
 - **Befangenheits-Antrag**: Ablehnung wegen Voreingenommenheit (enge Grenzen).
 - **Wahlgutachten § 109 SGG**: Eigenes Gutachten beantragen.
 
 ## Rechtsgrundlagen
 
 - **§ 109 SGG** — Eigenes Gutachten.
-- **§ 411 ZPO analog (i.V.m. § 118 SGG)** — Erlaeuterung des Gutachtens.
+- **§ 411 ZPO analog (i.V.m. § 118 SGG)** — Erläuterung des Gutachtens.
 - **§ 60 SGG i.V.m. § 42 ZPO** — Ablehnung wegen Befangenheit.
 
 ## Schritt-für-Schritt-Anleitung
@@ -86,7 +86,7 @@ b) Hilfsweise: Einholung eines weiteren Gutachtens nach § 109 SGG durch Prof. D
 [Unterschrift]
 ```
 
-### Schritt 3 — Erlaeuterung in der muendlichen Verhandlung
+### Schritt 3 — Erläuterung in der muendlichen Verhandlung
 
 Beantragen Sie ausdruecklich, dass der Gutachter im Termin erscheint. So können Sie ihn fragen.
 
@@ -112,7 +112,7 @@ Nur, wenn der Gutachter sich klar parteiisch geaeussert hat oder andere Befangen
 
 ### Schritt 7 — Geduldig bleiben
 
-Das Gericht prüft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert.
+Das Gericht prüft Stellungnahme und ggf. Erläuterung. Eine Entscheidung dauert.
 
 ## Worauf Sie besonders achten müssen
 
@@ -130,4 +130,4 @@ Das Gericht prüft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
+Stand: 05/2026. § 411 ZPO analog. Erläuterung im Termin selten verweigert.

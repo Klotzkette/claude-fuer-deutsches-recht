@@ -69,7 +69,7 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 - **Paragraph 154 StGB und Paragraph 153 StGB.** Spezialitaet — Paragraph 154 StGB bei Vereidigung.
 - **Paragraph 154 StGB und Paragraph 156 StGB.** Tatmehrheit, weil unterschiedliche Verfahrensarten (gerichtlich vs. behoerdlich).
-- **Paragraph 154 StGB und Paragraph 263 StGB Prozessbetrug.** Tatmehrheit, wenn Vermoegensschaden eintritt.
+- **Paragraph 154 StGB und Paragraph 263 StGB Prozessbetrug.** Tatmehrheit, wenn Vermögensschaden eintritt.
 - **Paragraph 154 StGB und Paragraph 145d StGB Vortaeuschen einer Straftat.** Tatmehrheit möglich.
 - **Paragraph 154 StGB und Paragraph 164 StGB falsche Verdaechtigung.** Tatmehrheit möglich.
 - **Paragraph 161 StGB fahrlaessiger Falscheid.** Subsidiaritaet bei Vorsatzwegfall.
@@ -82,7 +82,7 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 - **Bewaehrungsfaehigkeit:** Bei Mindeststrafe 1 Jahr Bewaehrung möglich nach Paragraph 56 StGB; bei Strafen über 2 Jahren nicht mehr.
 - **Berufsverbot Paragraph 70 StGB** möglich.
 - BZRG-Eintrag bei Freiheitsstrafe.
-- Bei Auslaender Ausweisungsrisiko Paragraph 53 AufenthG.
+- Bei Ausländer Ausweisungsrisiko Paragraph 53 AufenthG.
 
 ## Mustertexte
 

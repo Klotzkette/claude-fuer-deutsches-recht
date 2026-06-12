@@ -1,6 +1,6 @@
 ---
 name: klausel-bibliothek-kuendigungsklauseln
-description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salva..."
+description: "Klauselbibliothek mit ueber 60 fertigen Bausteinen für deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Änderungen Sprachklausel Schriftform Salva..."
 ---
 
 # Klauselbibliothek-Katalog
@@ -113,9 +113,9 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 > ### § 1 Vertrauliche Informationen
 >
-> (1) "Vertrauliche Informationen" sind alle Informationen, die einer Partei (die "Empfangende Partei") von der anderen Partei (die "Offenlegende Partei") im Rahmen der Vertragsverhandlungen oder der Vertragsdurchfuehrung in muendlicher, schriftlicher, elektronischer oder anderer Form zugaenglich gemacht werden, einschliesslich Geschaefts-, Betriebs- oder Berufsgeheimnissen im Sinne des § 2 GeschGehG.
+> (1) "Vertrauliche Informationen" sind alle Informationen, die einer Partei (die "Empfangende Partei") von der anderen Partei (die "Offenlegende Partei") im Rahmen der Vertragsverhandlungen oder der Vertragsdurchfuehrung in muendlicher, schriftlicher, elektronischer oder anderer Form zugaenglich gemacht werden, einschliesslich Geschäfts-, Betriebs- oder Berufsgeheimnissen im Sinne des § 2 GeschGehG.
 >
-> (2) Vertrauliche Informationen sind insbesondere: technische Informationen, Geschaeftsplaene, Finanzdaten, Kunden- und Lieferantenlisten, Personaldaten, Vertragsbedingungen, Quellcode und Algorithmen.
+> (2) Vertrauliche Informationen sind insbesondere: technische Informationen, Geschäftsplaene, Finanzdaten, Kunden- und Lieferantenlisten, Personaldaten, Vertragsbedingungen, Quellcode und Algorithmen.
 >
 > ### § 2 Geheimhaltungspflicht
 >
@@ -164,9 +164,9 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 **Gruene Ampel, Standard:**
 
-> ### § X Aenderungen, Schriftform
+> ### § X Änderungen, Schriftform
 >
-> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Aenderung dieser Schriftformklausel.
+> (1) Änderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Änderung dieser Schriftformklausel.
 >
 > (2) Die Schriftform ist gewahrt durch eine eigenhaendig oder mittels qualifizierter elektronischer Signatur unterzeichnete Vertragsurkunde, die in einem einheitlichen Dokument oder in mehreren gleichlautenden Ausfertigungen vorliegt.
 >
@@ -174,7 +174,7 @@ Die vollstaendige Klauselbibliothek liegt unter `references/klausel-bibliothek.m
 
 ## Pflege
 
-Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (z. B. Verbraucherschutzgesetze, AGB-Novellen) erfordern Anpassungen. Stand der Klauseln ist im Dateikopf von `references/klausel-bibliothek.md` vermerkt.
+Die Bibliothek wird regelmaessig aktualisiert. Änderungen in der Gesetzgebung (z. B. Verbraucherschutzgesetze, AGB-Novellen) erfordern Anpassungen. Stand der Klauseln ist im Dateikopf von `references/klausel-bibliothek.md` vermerkt.
 
 ## Quellen (Stand 05/2026)
 

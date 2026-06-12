@@ -1,11 +1,11 @@
 ---
 name: bmftr-biotechnologie-und-laborsicherheit
-description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; gep..."
+description: "Sachbereich Biotechnologie und Laborsicherheit im Geschäftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission für die Biologische Sicherheit (ZKBS); BVL; BfR; Länder-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; gep..."
 ---
 
 # Biotechnologie und Laborsicherheit (BMFTR)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Biotechnologie und Laborsicherheit im Geschäftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereic
 
 Kernbestand des Sachfelds: GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -28,7 +28,7 @@ Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; 
 
 ## EU- und voelkerrechtlicher Bezug
 
-RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.
+RL 2009/41/EG; RL 2001/18/EG; geplante Änderung NGT-Regeln.
 
 Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Akzeptanz; NGT-Reform; Doppelpruefung BVL und Länder.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

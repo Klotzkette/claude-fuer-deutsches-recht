@@ -1,6 +1,6 @@
 ---
 name: ki-output-menschlicher-beitrag
-description: "Prueft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein koennen und welcher menschliche Beitrag konkret nachweisbar ist."
+description: "Prüft, ob KI-unterstuetzte Ergebnisse urheberrechtlich geschuetzt sein koennen und welcher menschliche Beitrag konkret nachweisbar ist."
 ---
 
 # KI-Output und menschlicher Beitrag

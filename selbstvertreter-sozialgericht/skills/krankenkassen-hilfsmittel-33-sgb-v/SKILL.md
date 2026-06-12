@@ -50,7 +50,7 @@ description: "Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Vorau
 - Bei Stellungnahme MD: 5 Wochen.
 - Bei Ueberschreitung: Genehmigungsfiktion mit Folge Anspruch.
 
-## Pruefraster
+## Prüfraster
 
 1. Hilfsmittel im engeren Sinn?
 2. Verordnung vorhanden?

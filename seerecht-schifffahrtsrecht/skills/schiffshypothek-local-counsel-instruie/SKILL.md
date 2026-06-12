@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-local-counsel-instruie
-description: "Schiffshypothek: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
+description: "Schiffshypothek: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei hypothekenbelastetes Seeschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrtsrecht."
 ---
 
 # Schiffshypothek – Local Counsel instruieren

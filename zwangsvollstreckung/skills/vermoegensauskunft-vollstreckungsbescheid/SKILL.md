@@ -1,9 +1,9 @@
 ---
 name: vermoegensauskunft-vollstreckungsbescheid
-description: "Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwangsvollstreckung."
+description: "Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwangsvollstreckung."
 ---
 
-# Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung
+# Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwang
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung
+## Spezialwissen: Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 
 ## Fallweichen
@@ -27,7 +27,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vermoegensauskunft** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vermögensauskunft** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

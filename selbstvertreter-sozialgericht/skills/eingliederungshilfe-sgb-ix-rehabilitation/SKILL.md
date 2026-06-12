@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-sgb-ix-rehabilitation
-description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Pruefraster."
+description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zuständigen Reha-Traeger. Liefert Prüfraster."
 ---
 
 # Eingliederungshilfe Sgb Ix Rehabilitation
@@ -46,7 +46,7 @@ description: "Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistunge
 - Geldleistung statt Sachleistung.
 - Selbstbestimmtes Einkaufen von Leistungen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Teilhabe?
 2. Welcher Reha-Traeger?

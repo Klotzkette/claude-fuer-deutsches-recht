@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-drv
-description: "Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen im Sozialversicherungsstatus Pruefer."
+description: "Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Stellungnahme an DRV

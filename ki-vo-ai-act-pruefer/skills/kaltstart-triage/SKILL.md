@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständ..."
+description: "Einstieg, Schnelltriage und Fallrouting im KI VO AI Act Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständ..."
 ---
 
 ## Aktenstart statt Formularstart
@@ -196,9 +196,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Der KI-VO-AI-Act-Prüfer fuehrt Unternehmen, Kanzleien und Compliance-Beauftragte durch die vollstaendige Prüfung nach der EU-Verordnung 2024/1689 (EU AI Act / KI-VO). Er deckt alle Pruefschritte ab: ob eine Software ueberhaupt ein KI-System ist, welche Risikoklasse zutrifft, welche Rolle das Unternehmen einnimmt (Anbieter, Betreiber, Importeur, Haendler), ob verbotene Praktiken vorliegen, wie die Hochrisiko-Einstufung gehandhabt wird und wie der Weg bis zur CE-Kennzeichnung aussieht.
+Der KI-VO-AI-Act-Prüfer fuehrt Unternehmen, Kanzleien und Compliance-Beauftragte durch die vollstaendige Prüfung nach der EU-Verordnung 2024/1689 (EU AI Act / KI-VO). Er deckt alle Prüfschritte ab: ob eine Software ueberhaupt ein KI-System ist, welche Risikoklasse zutrifft, welche Rolle das Unternehmen einnimmt (Anbieter, Betreiber, Importeur, Haendler), ob verbotene Praktiken vorliegen, wie die Hochrisiko-Einstufung gehandhabt wird und wie der Weg bis zur CE-Kennzeichnung aussieht.
 
-Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahmen vom Hochrisiko nach Art. 6 Abs. 3, das Verhaeltnis zu anderen EU-Rechtsakten, Sanktionen sowie die laufende Marktbeobachtung nach Inverkehrbringen.
+Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahmen vom Hochrisiko nach Art. 6 Abs. 3, das Verhältnis zu anderen EU-Rechtsakten, Sanktionen sowie die laufende Marktbeobachtung nach Inverkehrbringen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -245,17 +245,17 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 - `triage-ki-vo-vorpruefung` — Einstieg in die KI-VO-Prüfung für unklare Faelle; Startpunkt des Gesamt-Workflows.
 - `entscheidungsbaum-ki-vo-gesamt-workflow` — Vollstaendige KI-VO-Prüfung von Anfang bis Ende in einem strukturierten Entscheidungsbaum.
-- `liegt-ki-system-vor-art-3-nr-1` — Erster Pruefschritt: Ist die eigene Software ueberhaupt ein KI-System nach Art. 3 Nr. 1 KI-VO?
+- `liegt-ki-system-vor-art-3-nr-1` — Erster Prüfschritt: Ist die eigene Software ueberhaupt ein KI-System nach Art. 3 Nr. 1 KI-VO?
 - `abgrenzung-konventionelle-software-vs-ki-system` — Abgrenzung konventioneller Software vom KI-System-Begriff der KI-VO.
 - `territorialer-anwendungsbereich-art-2` — Gilt die KI-VO auch für Nicht-EU-Unternehmen oder Exporte?
-- `sachlicher-ausschluss-art-2-abs-3-bis-12` — Prueft ob das KI-System vollstaendig aus dem Anwendungsbereich faellt.
+- `sachlicher-ausschluss-art-2-abs-3-bis-12` — Prüft ob das KI-System vollstaendig aus dem Anwendungsbereich faellt.
 - `persönlicher-anwendungsbereich-rollen-art-3` — Wer ist betroffen und welche Rolle nimmt das Unternehmen ein?
 - `risikoklassen-uebersicht-und-triage` — Schnelle Ersteinschaetzung der Risikoklasse nach Art. 5, 6, 50, 51 KI-VO.
-- `verbotene-praktiken-art-5` — Prueft ob ein KI-Einsatz in den Bereich absolut verbotener KI-Praktiken faellt.
+- `verbotene-praktiken-art-5` — Prüft ob ein KI-Einsatz in den Bereich absolut verbotener KI-Praktiken faellt.
 - `falsche-wiese-warnung-ki-vo` — Warnt vor Verwechslungen mit DSGVO, Produkthaftung oder MDR bei KI-VO-Fragen.
-- `rolle-anbieter-pruefen-art-3-nr-3` — Prueft ob das Unternehmen als Anbieter im Sinne der KI-VO einzustufen ist.
-- `rolle-betreiber-pruefen-art-3-nr-4` — Prueft ob das Unternehmen als Betreiber im Sinne der KI-VO einzustufen ist.
-- `anbieter-werden-art-25` — Prueft unter welchen Bedingungen Betreiber, Importeur oder Haendler selbst zum Anbieter werden.
+- `rolle-anbieter-pruefen-art-3-nr-3` — Prüft ob das Unternehmen als Anbieter im Sinne der KI-VO einzustufen ist.
+- `rolle-betreiber-pruefen-art-3-nr-4` — Prüft ob das Unternehmen als Betreiber im Sinne der KI-VO einzustufen ist.
+- `anbieter-werden-art-25` — Prüft unter welchen Bedingungen Betreiber, Importeur oder Haendler selbst zum Anbieter werden.
 - `hochrisiko-zuordnung-art-6-und-anhang-i-iii` — Gesamtuebersicht der Hochrisiko-Zuordnungsregeln vor der Detailpruefung.
 - `hochrisiko-art-6-abs-1-sicherheitsbauteil` — KI als Sicherheitsbauteil eines regulierten Produkts nach Art. 6 Abs. 1 KI-VO.
 - `hochrisiko-art-6-abs-2-anhang-iii` — KI in einem der acht sensiblen Anwendungsbereiche nach Anhang III KI-VO.
@@ -272,9 +272,9 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `eu-datenbank-registrierung-art-49-und-71` — Registrierungspflicht in der EU-KI-Datenbank für Anbieter und Betreiber.
 - `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — KI-VO-Pflichten und Dokumentation für nicht-hochrisiko-eingestufte Systeme.
 - `begrenztes-risiko-art-50-transparenzpflichten` — Transparenzpflichten für Chatbots, Deepfake-Tools und KI-Textgeneratoren (Art. 50 KI-VO).
-- `gpai-vorliegen-art-3-nr-63` — Prueft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
+- `gpai-vorliegen-art-3-nr-63` — Prüft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
 - `gpai-modelle-art-51-bis-55` — GPAI-Pflichten: Verhaltenskodizes, technische Dokumentation, Transparenz (Art. 51-55 KI-VO).
-- `gpai-systemisches-risiko-schwelle-10e25-flop` — Prueft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
+- `gpai-systemisches-risiko-schwelle-10e25-flop` — Prüft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
 - `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
 - `einfuehrer-importer-pflichten-art-23` — Sorgfaltspflichten des Importeurs von KI-Systemen aus Drittstaaten (Art. 23 KI-VO).
 - `haendler-distributor-pflichten-art-24` — Sorgfaltspflichten des Distributeurs beim Weitervertrieb von Hochrisiko-KI (Art. 24 KI-VO).
@@ -285,7 +285,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `sanktionen-art-99-bis-101` — Bussgelddimensionen und Sanktionsrahmen der KI-VO (Art. 99-101 KI-VO).
 - `verhaeltnis-zu-anderen-unionsrechtsakten` — Abgrenzung und Zusammenspiel der KI-VO mit DSGVO, MDR, Maschinenverordnung und anderen EU-Rechtsakten.
 - `zeitlicher-geltungsbereich-uebergangsfristen` — Uebergangsfristen und zeitlicher Geltungsbeginn je Pflichtenkategorie der KI-VO.
-- `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Pruefdokument mit allen Ergebnissen und Warnhinweisen erstellen.
+- `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Prüfdokument mit allen Ergebnissen und Warnhinweisen erstellen.
 - `output-konformitaetserklaerung-eu-anhang-v` — Muster der EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen (Anhang V KI-VO).
 - `output-konformitaetsbescheinigung-evidence-pack` — Konformitätsbescheinigung oder Readiness-Vermerk, EU-Erklärung, Evidence Index und Lückenliste erzeugen.
 - `output-betreiber-checkliste-und-folgenabschaetzung` — Fertige Betreiber-Compliance-Dokumentation und Folgenabschaetzung erstellen.
@@ -303,7 +303,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 - Konventionelle regelbasierte Software irrtuemlicherweise als KI-System eingestuft: Abgrenzungspruefung fehlt.
 - Hochrisiko-Rueckausnahme nach Art. 6 Abs. 3 uebersehen: System faellt in Anhang III, aber Rueckausnahme greift.
-- Technische Dokumentation als einmaliges Dokument behandelt: KI-VO verlangt laufende Aktualisierung bei wesentlichen Aenderungen.
+- Technische Dokumentation als einmaliges Dokument behandelt: KI-VO verlangt laufende Aktualisierung bei wesentlichen Änderungen.
 - GPAI-Pflichten mit Hochrisiko-Pflichten verwechselt: Verschiedene Regelungsregimes mit unterschiedlichen Anforderungen.
 - Sanktionsdimensionen unterschaetzt: Bussgelder bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes möglich.
 

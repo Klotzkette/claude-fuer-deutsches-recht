@@ -56,7 +56,7 @@ Wohngeld und Sozialhilfe sind nicht das Gleiche. Wohngeld geht ans Verwaltungsge
 - **Wohngeld**: Wenn Sie genug Geld zum Leben haben, aber die Miete zu hoch ist.
 - **Buergergeld + KdU**: Wenn Sie auch Geld für den Lebensunterhalt brauchen.
 
-In manchen Faellen können Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermoegens-Prüfung wie bei Buergergeld.
+In manchen Faellen können Sie wahlen — Wohngeld ist oft attraktiver, weil ohne Vermögens-Prüfung wie bei Buergergeld.
 
 ### Schritt 3 — Wohngeld-Streit
 

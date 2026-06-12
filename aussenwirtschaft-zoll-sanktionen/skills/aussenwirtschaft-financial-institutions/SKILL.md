@@ -36,7 +36,7 @@ description: "Sanktions-Compliance für Banken und Finanzinstitute im Korrespond
 - **§§ 3 ff. GwG**: Sorgfaltspflichten bei Verdacht auf Sanktionsverstoesse.
 - **§ 18 AWG i.V.m. § 17 AWV**: Bereitstellungsverbot im Zahlungsverkehr.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle Transaktionsparteien inkl. Intermediare gescreent?
 - [ ] 50-%-Eigentums-/Kontrollregel für alle juristischen Personen geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

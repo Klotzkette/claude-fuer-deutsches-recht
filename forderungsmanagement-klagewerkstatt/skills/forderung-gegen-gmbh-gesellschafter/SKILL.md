@@ -39,7 +39,7 @@ Wirtschaftlicher Hintergrund: GmbH darf bei drohendem Unterschreiten des Stammka
 
 **BGH II ZR 256/02 Trihotel** und **II ZR 3/04 Bremer Vulkan**:
 - Gesellschafter haftet **deliktisch nach § 826 BGB**, wenn er der GmbH planmaessig betriebsnotwendiges Vermögen entzieht und damit die Existenz der GmbH gefaehrdet.
-- Schadensersatz an die GmbH (nicht direkt an Glaeubiger).
+- Schadensersatz an die GmbH (nicht direkt an Gläubiger).
 - In der Insolvenz: Anspruch des Insolvenzverwalters; ohne Insolvenz Pfaendung des Anspruchs der GmbH.
 
 ### 4. Materielle Unterkapitalisierung
@@ -48,13 +48,13 @@ BGH abgelehnt als eigenen Haftungstatbestand (BGH II ZR 256/02). Nur über § 82
 
 ### 5. Sittenwidrige vorsaetzliche Schaedigung § 826 BGB
 
-Wenn Gesellschafter direkt den Glaeubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Glaeubigers gegen den Gesellschafter persoenlich.
+Wenn Gesellschafter direkt den Gläubiger taeuscht (Bonitaetstaeuschung, Eingehungsbetrug). Klage des Gläubigers gegen den Gesellschafter persoenlich.
 
 ### 6. Persoenliche Buergschaft, Schuldbeitritt, Garantie
 
 Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (§ 766 BGB Schriftform Buergschaft, ausser kaufmaennische Buergschaft § 350 HGB).
 
-### 7. Haftung Geschaeftsfuehrer (nicht Gesellschafter, aber oft personenidentisch)
+### 7. Haftung Geschäftsführer (nicht Gesellschafter, aber oft personenidentisch)
 
 | Anspruchsgrundlage | Norm |
 |---|---|
@@ -62,7 +62,7 @@ Vertraglicher Haftungsgrund, hat nichts mit GmbH-Recht zu tun. Prüfung Form (§
 | Sozialversicherungsbeitraege | § 823 Abs. 2 BGB i.V.m. § 266a StGB |
 | Insolvenzverschleppung | § 823 Abs. 2 BGB i.V.m. § 15a InsO |
 | Verletzung Vorsorgepflichten | § 43 GmbHG (gegenueber GmbH) |
-| Drittschadensliquidation | bei Sonderverbindung Glaeubiger |
+| Drittschadensliquidation | bei Sonderverbindung Gläubiger |
 
 ### 8. Strohmanngeschaeft / Treuhand
 
@@ -72,16 +72,16 @@ Wenn Gesellschafter wirtschaftlich agiert und GmbH nur Mantel ist: gerichtliche 
 
 In der Insolvenz nachrangig. Vorher zurueckgezahltes Gesellschafterdarlehen kann angefochten werden (§ 135 InsO 1 Jahr).
 
-## Pruefraster Forderung gegen GmbH-Gesellschafter
+## Prüfraster Forderung gegen GmbH-Gesellschafter
 
 | Schritt | Frage | Beweislast |
 |---|---|---|
-| 1 | Gegen welche Person Klage – GmbH oder Gesellschafter? | Glaeubiger |
-| 2 | Vertragliche Haftung Gesellschafter (Buergschaft, Beitritt)? | Glaeubiger |
+| 1 | Gegen welche Person Klage – GmbH oder Gesellschafter? | Gläubiger |
+| 2 | Vertragliche Haftung Gesellschafter (Buergschaft, Beitritt)? | Gläubiger |
 | 3 | Einlage vollstaendig erbracht? | GmbH/Insolvenzverwalter |
 | 4 | Verbotene Auszahlung § 30, 31 GmbHG erfolgt? | Insolvenzverwalter |
-| 5 | Existenzvernichtender Eingriff (§ 826 BGB)? | Glaeubiger/InsVerw |
-| 6 | Strohmann/Treuhand? | Glaeubiger |
+| 5 | Existenzvernichtender Eingriff (§ 826 BGB)? | Gläubiger/InsVerw |
+| 6 | Strohmann/Treuhand? | Gläubiger |
 | 7 | Insolvenz GmbH eroeffnet → Anspruchsverlagerung an Insolvenzverwalter | nachpruefen |
 
 ## Praxisfall – Inkasso-Strategie
@@ -105,7 +105,7 @@ Schritt 6: Bei Verdacht Insolvenzverschleppung
 
 | Anfechtungsgrund | Norm |
 |---|---|
-| Vorsaetzliche Glaeubigerbenachteiligung | § 133 InsO (10 J., 4 J. Verkuerzung 2017) |
+| Vorsaetzliche Gläubigerbenachteiligung | § 133 InsO (10 J., 4 J. Verkuerzung 2017) |
 | Unentgeltliche Leistung | § 134 InsO (4 J.) |
 | Gesellschafterdarlehen | § 135 InsO (1 J.) |
 | Inkongruente Deckung | § 131 InsO (3 Monate) |

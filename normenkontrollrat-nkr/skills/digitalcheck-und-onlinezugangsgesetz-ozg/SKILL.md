@@ -22,11 +22,11 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 
 - **Onlinezugangsgesetz (OZG)** in der jeweils geltenden Fassung (urspruenglich vom 14.08.2017; OZG 2.0 / Folgeregulierung Stand vom Anwender zu verifizieren)
 - **Digitalcheck-Methodik** (BMI / NKR, jeweils aktuelle Fassung)
-- **§ 4 Abs. 3 NKRG** — Digitalcheck als Pruefungsbestandteil (Prüfung der Moeglichkeiten digitaler Ausfuehrung)
+- **§ 4 Abs. 3 NKRG** — Digitalcheck als Prüfungsbestandteil (Prüfung der Moeglichkeiten digitaler Ausfuehrung)
 - **§ 9 NKRG** — § 4 Abs. 3 NKRG ist **ab dem 1. Januar 2023 anzuwenden** (Uebergangsregelung)
 - **eIDAS-Verordnung (EU) 910/2014** in der jeweils geltenden Fassung
 - **EU Single Digital Gateway-VO (EU) 2018/1724** (Once-Only auf EU-Ebene)
-- **§ 44 GGO**, **NKRG** § 4 (Pruefungsgegenstand)
+- **§ 44 GGO**, **NKRG** § 4 (Prüfungsgegenstand)
 - **Standards XOEV, FIM, ELSTER, beA**
 
 ## OZG-Grundbegriffe
@@ -45,7 +45,7 @@ Rueckfrage nur wenn unklar: *"Welche OZG-Leistung ist betroffen? Wer ist Leistun
 4. Klare, maschinenlesbare Regelungen
 5. Automatisierung ermoeglichen
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. OZG-Bezug prüfen
 

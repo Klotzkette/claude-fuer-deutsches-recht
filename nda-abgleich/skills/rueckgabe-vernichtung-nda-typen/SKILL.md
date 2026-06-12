@@ -25,12 +25,12 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
 3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -40,7 +40,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 - **Vertragsende:** ordentliche Kuendigung, ausserordentliche Kuendigung, Zeitablauf.
 - **Verlangen der offenlegenden Partei** (jederzeit, auch bei laufender Vertragsbeziehung).
-- **Wegfall des Geschaeftszwecks** (z.B. Verhandlungsabbruch, gescheiterte M&A-Transaktion).
+- **Wegfall des Geschäftszwecks** (z.B. Verhandlungsabbruch, gescheiterte M&A-Transaktion).
 
 ### Zwei Optionen: Rueckgabe vs. Vernichtung
 
@@ -61,7 +61,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Ausnahmen (Standard-Carve-outs)
 
-- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschaeftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
+- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre für Geschäftsbriefe, § 147 AO 10 Jahre für steuerlich relevante Unterlagen, § 50 GwG 5 Jahre für Geldwaeschepruefung).
 - **Backups / Archivsysteme:** "Standard IT-Backups" müssen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
 - **Rechtsberater (Legal Hold):** Anwaelte müssen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
 - **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
@@ -78,10 +78,10 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

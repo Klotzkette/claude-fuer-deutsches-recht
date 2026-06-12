@@ -93,7 +93,7 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit au
 
 - KUG wird im AN-Steuerbescheid in den Progressionsvorbehalt § 32b Abs. 1 Satz 1 Nr. 1 lit. a EStG einbezogen.
 - Hoehere Steuerklassifikation auf die uebrigen Einkuenfte.
-- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — bei LSt-Bescheinigungsmuster-Aenderungen BMF-Schreiben prüfen).
+- AN bekommt LSt-Bescheinigung mit "KUG" (in der Regel Zeile 15 — bei LSt-Bescheinigungsmuster-Änderungen BMF-Schreiben prüfen).
 - Bei Bezug von Lohnersatzleistungen über 410 EUR im Kalenderjahr: Veranlagungspflicht des AN gemäß § 46 Abs. 2 Nr. 1 EStG; Steuererklaerung zwingend.
 
 ### Phase 6 — Pflichten AG
@@ -120,4 +120,4 @@ Stand: 05/2026.
 - EStG § 32b.
 - BA-Merkblatt KUG.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BBG RV 2025 96.600 EUR eingesetzt), 1 ersetzt (LSt-Bescheinigungszeile Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (BBG RV 2025 96.600 EUR eingesetzt), 1 ersetzt (LSt-Bescheinigungszeile Prüfhinweis ohne Marker) -->

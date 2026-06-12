@@ -1,6 +1,6 @@
 ---
 name: tia-schrems-ii-eugh-c-311-18-grundlagen
-description: "Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Pruefung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung."
+description: "Schrems II als Grundlage des Transfer Impact Assessment. EuGH Urteil C-311/18 vom 16.07.2020 Facebook Ireland und Schrems. Tragende Aussagen, Folgen für Art. 46 DSGVO, Pflicht zur Prüfung der Schutzgleichwertigkeit (essentially equivalent), EDPB-Empfehlung 01/2020 als Konkretisierung."
 ---
 
 # Schrems II – Grundlagen für Transfer Impact Assessment
@@ -58,7 +58,7 @@ Kurzvermerk-Baustein für das TIA:
 
 - "Schrems II hat das Privacy Shield gekippt – wir brauchen jetzt nur SCC." Falsch: SCC alleine genügen ohne TIA und ggf. zusaetzliche Maßnahmen nicht.
 - Verwechslung Schrems I (C-362/14, Safe Harbor) und Schrems II.
-- Annahme, der EU-US Data Privacy Framework habe Schrems II "ueberholt". Tatsaechlich: DPF basiert auf neuem Angemessenheitsbeschluss; SCC-Pfad bleibt parallel relevant, und das EuGH-Pruefraster bleibt Massstab für SCC-Faelle.
+- Annahme, der EU-US Data Privacy Framework habe Schrems II "ueberholt". Tatsaechlich: DPF basiert auf neuem Angemessenheitsbeschluss; SCC-Pfad bleibt parallel relevant, und das EuGH-Prüfraster bleibt Maßstab für SCC-Faelle.
 - TIA nur für USA gemacht; UK, China, Indien, Brasilien werden vergessen.
 - TIA-Dokument als Einmal-Prüfung; keine Wiedervorlage.
 - "Essentially equivalent" mit "identisch" gleichgesetzt – nicht zutreffend, ein "im Wesentlichen gleichwertiger" Schutz genuegt.

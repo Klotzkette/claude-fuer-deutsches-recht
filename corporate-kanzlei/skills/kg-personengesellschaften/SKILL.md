@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -136,7 +136,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 - **Komplementaer-GmbH:** GmbH ist einziger Komplementaer; haftet nach § 13 II GmbHG mit Stammkapital
 - **Kommanditisten:** Natuerliche oder juristische Personen; Haftung = Einlage
-- **Geschaeftsfuehrung:** GmbH fuehrt KG-Geschaefte; GmbH-GF = handelnde Person
+- **Geschäftsführung:** GmbH fuehrt KG-Geschäfte; GmbH-GF = handelnde Person
 - **Jahresabschluss:** Konsolidierungspflicht ab bestimmter Groesse; oeffentlichkeitspflichtig nach § 325 HGB
 - **Vorteil:** Kombination der Vorteile von KG (Steuer: transparentes Mitunternehmer) und GmbH (Haftungsbeschraenkung)
 
@@ -148,7 +148,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 4. **UBO-Identifizierung** — Treuhander-Strukturen; GwG-CDD bei KG-Transaktionen
 5. **Anteilsuebertragung gestalten** — Notarielle Beurkundung nur wenn Gesellschaftsvertrag es vorschreibt
 6. **MoPeG-Kompatibilitaet** — GbR-Vertrag seit 01.01.2024 ggf. anpassen (Rechtsfaehigkeit, Register)
-7. **Post-Closing HR-Anmeldung** — Aenderungen in Kommanditanteilen beim Handelsregister-A melden
+7. **Post-Closing HR-Anmeldung** — Änderungen in Kommanditanteilen beim Handelsregister-A melden
 
 ## Output-Template Kommanditanteil-Abtretungsvertrag (Ausschnitt)
 

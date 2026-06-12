@@ -34,11 +34,11 @@ Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Ei
 
 Vor Beginn der Gruendungsbegleitung klären:
 
-1. **Rechtsform sicher?** GmbH oder UG (haftungsbeschraenkt, § 5a GmbHG)? Bei Stammkapital < 25.000 EUR: UG; bei nur 1 Gesellschafter und 1 Geschaeftsfuehrer: Musterprotokoll (§ 2 Abs. 1a GmbHG) möglich.
-2. **Gesellschafterkreis vollstaendig?** Alle Gesellschafter identifiziert, Geschaeftsfaehigkeit geprueft? Minderjaehrige: familiengerichtliche Genehmigung erforderlich?
+1. **Rechtsform sicher?** GmbH oder UG (haftungsbeschraenkt, § 5a GmbHG)? Bei Stammkapital < 25.000 EUR: UG; bei nur 1 Gesellschafter und 1 Geschäftsführer: Musterprotokoll (§ 2 Abs. 1a GmbHG) möglich.
+2. **Gesellschafterkreis vollstaendig?** Alle Gesellschafter identifiziert, Geschäftsfaehigkeit geprueft? Minderjaehrige: familiengerichtliche Genehmigung erforderlich?
 3. **Gegenstand erlaubnispflichtig?** Zahlungsdienste (§ 32 KWG), Finanzanlageberatung (§ 34f GewO), Immobilienmakler (§ 34c GewO), Gesundheit, Waffen? Genehmigung VOR Gruendung einholen.
 4. **Sacheinlagen?** Wird Stammkapital durch Sacheinlagen aufgebracht? → Sachgruendungsbericht (§ 5 Abs. 4 GmbHG) erforderlich; Zeitaufwand und Werthaltigkeitspruefung einplanen.
-5. **Geschaeftsfuehrer geprueft?** Bestellungshindernisse nach § 6 Abs. 2 GmbHG ausgeschlossen? (insb. Insolvenzstraftaten, Betrug, Untreue)
+5. **Geschäftsführer geprueft?** Bestellungshindernisse nach § 6 Abs. 2 GmbHG ausgeschlossen? (insb. Insolvenzstraftaten, Betrug, Untreue)
 6. **Transparenzregister-Pflicht bekannt?** Wirtschaftlich Berechtigte (§ 3 GwG) identifiziert? Eintragungsfrist 2 Wochen nach Gruendung.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -206,7 +206,7 @@ Naechster Schritt: [AKTION] — Frist: [DATUM]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -215,7 +215,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - **Handeln vor HR-Eintragung ohne Hinweis auf Vorgesellschaftshaftung** — § 11 Abs. 2 GmbHG: persönliche Haftung der Handelnden; Mandant explizit warnen.
 - **Stammkapital nicht oder zu wenig eingezahlt vor Anmeldung** — § 7 Abs. 2 GmbHG: mind. 12.500 EUR vor Anmeldung; Registergericht lehnt sonst Eintragung ab.
-- **Bestellungshindernis § 6 Abs. 2 GmbHG uebersehen** — Vorstrafe des Geschaeftsfuehrers fuehrt zur Ablehnung der Eintragung; Strafregisterauszug vorab anfordern.
+- **Bestellungshindernis § 6 Abs. 2 GmbHG uebersehen** — Vorstrafe des Geschäftsführers fuehrt zur Ablehnung der Eintragung; Strafregisterauszug vorab anfordern.
 - **Transparenzregister-Frist versaeumt** — Bussgeld bis 1.000.000 EUR (§ 56 Abs. 1 GwG); 2-Wochen-Frist ab Eintragung sofort im Fristenbuch verankern.
 - **Erlaubnispflichtige Taetigkeit ohne Genehmigung aufgenommen** — Ordnungswidrigkeitsrisiko, Betriebsuntersagung; Genehmigung VOR Aufnahme der Taetigkeit einholen.
 

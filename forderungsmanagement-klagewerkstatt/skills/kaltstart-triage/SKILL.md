@@ -27,7 +27,7 @@ Ich frage jetzt nur noch die Punkte ab, die aus den Unterlagen nicht sicher folg
 
 | Luecke | Frage | Nur stellen, wenn |
 |---|---|---|
-| Rolle unklar | "Ich vermute, du bist auf Seite [Glaeubiger/Schuldner]. Stimmt das?" | Vollmacht, Briefkopf oder Anschreiben widerspruechlich |
+| Rolle unklar | "Ich vermute, du bist auf Seite [Gläubiger/Schuldner]. Stimmt das?" | Vollmacht, Briefkopf oder Anschreiben widerspruechlich |
 | Ziel unklar | "Soll ich eintreiben, abwehren, vergleichen oder nur sortieren?" | kein Mandatsziel aus Mail/Anschreiben erkennbar |
 | Frist unklar | "Gibt es eine Frist ausserhalb der Akte?" | gerichtliche Frist oder Verjaehrungsdruck nicht sicher |
 | Zahlung unklar | "Ist nach dem letzten Kontoauszug noch etwas bezahlt worden?" | Kontoauszug endet vor aktueller Aktenlage |
@@ -44,7 +44,7 @@ Mehr als drei Startfragen sind nur erlaubt, wenn Fristversaeumnis oder falsche P
 | Bestreiten wahrscheinlich oder Anspruch muss begruendet werden | Zahlungsklage | zahlungsklage-erstellen |
 | Hauptforderung bezahlt, nur Kosten/Zinsen offen | Klageblocker | klagefreigabe-belegte-forderung |
 | Forderung wackelig, Belege unklar, Vergleich wirtschaftlich sinnvoll | aussergerichtliche Mahnung oder Vergleich | mahnung-aussergerichtlich-stufenmodell |
-| Titel liegt bereits vor | Vollstreckung | zwangsvollstreckung-ueberblick |
+| Titel liegt bereits vor | Vollstreckung | zwangsvollstreckung-überblick |
 
 ## Risikoampel Erstbewertung
 

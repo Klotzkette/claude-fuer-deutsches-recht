@@ -1,6 +1,6 @@
 ---
 name: ki-archivierung
-description: "Prueft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance."
+description: "Prüft Insiderrecht-Risiken beim Einsatz von KI-Prognosemodellen: Informationsasymmetrie, Modell-Output als Insiderinformation und Compliance-Anforderungen im Insiderrecht Compliance."
 ---
 
 # KI-Prognosemodelle und Insiderrecht

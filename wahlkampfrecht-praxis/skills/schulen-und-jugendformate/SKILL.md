@@ -1,6 +1,6 @@
 ---
 name: schulen-und-jugendformate
-description: "Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen prüfen im Wahlkampfrecht."
 ---
 
 # Schulen Und Jugendformate

@@ -56,18 +56,18 @@ description: "PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Ans
 **Heute**:
 - § 833 BGB Tierhalterhaftung; ggf. § 833 Satz 2 (Nutztier-Privileg). Heute strenger als ALR weil Verschuldensunabhaengig für Luxustiere.
 
-### Beispiel: Eheliche Vermoegenstrennung 1850
+### Beispiel: Eheliche Vermögenstrennung 1850
 
 **Sachverhalt**: Ehe scheitert; gemeinsam erworbenes Sparvermoegen.
 
 **ALR-Loesung**:
 - Quelle: ALR Zweiter Teil, Titel 1, §§ 205 ff.
-- Norm: Verwaltungsgemeinschaft; Mann verwaltet Frauengut; gemeinsam erworbenes Sparvermoegen wird je nach Vermoegensbringung aufgeteilt.
+- Norm: Verwaltungsgemeinschaft; Mann verwaltet Frauengut; gemeinsam erworbenes Sparvermoegen wird je nach Vermögensbringung aufgeteilt.
 
 **Heute**:
 - BGB §§ 1373-1390 Zugewinnausgleich; Halbierung des Zugewinns.
 
-### Pruefraster
+### Prüfraster
 1. Welches Recht?
 2. Welche Systemstelle?
 3. Subsumtion?

@@ -15,7 +15,7 @@ Edge-Cases die das Standardverfahren stoppen.
 | Schuldner verstorben Erben unklar | Erbenermittlung Klage gegen Nachlass Nachlasspfleger nach BGB 1961 | BGB 1922 1961 |
 | Schuldner unter Betreuung | Vertretung durch Betreuer Klage gegen Betreuer in seiner Stellvertreterrolle | BGB 1814 ff |
 | Schuldner Minderjaehrige | Eltern als gesetzliche Vertreter | BGB 1626 1629 |
-| Schuldner GmbH ohne Geschaeftsfuehrer | Notbestellung BGB 29 oder Bestellung Notgeschaeftsfuehrer GmbHG 35 |
+| Schuldner GmbH ohne Geschäftsführer | Notbestellung BGB 29 oder Bestellung Notgeschaeftsfuehrer GmbHG 35 |
 | Schuldner Auslandsanschrift | Brüssel Ia EuMVVO Prüfung | VO 1215/2012 |
 | Schuldner BGB-Gesellschaft GbR | Klage gegen Gesellschaft und Gesellschafter samt Haftung BGB 720 723 |
 | Forderung gegen Verein | Klage gegen e V Vorstand | BGB 26 |

@@ -1,6 +1,6 @@
 ---
 name: erstattung-zu-unrecht-50-sgb-x
-description: "Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine."
+description: "Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhältnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine."
 ---
 
 # Erstattung Zu Unrecht 50 Sgb X
@@ -34,7 +34,7 @@ description: "Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skil
 - Erlass: § 76 Abs. 2 Nr. 3 SGB IV (Haerteklausel).
 - Antrag schriftlich bei der Behörde — Beleg der wirtschaftlichen Lage.
 
-## Pruefraster
+## Prüfraster
 
 1. Aufhebungsbescheid bestandskraeftig?
 2. Höhe nachvollziehbar berechnet?

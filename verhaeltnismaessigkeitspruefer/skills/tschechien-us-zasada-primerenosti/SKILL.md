@@ -1,6 +1,6 @@
 ---
 name: tschechien-us-zasada-primerenosti
-description: Tschechische Verhaeltnismaessigkeitsdogmatik des Ustavni soud nach Art 4 IV Listina zakladnich prav a svobod und Art 1 LZPS als Drei-Stufen-Test Vhodnost Potrebnost Primerenost v uzsim smyslu. Mit Pl US 4/94 als methodischer Verankerung Test racionalniho zakladu fuer Sozialrechte und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Rezeption deutscher und EGMR-Doktrin.
+description: Tschechische Verhältnismäßigkeitsdogmatik des Ustavni soud nach Art 4 IV Listina zakladnich prav a svobod und Art 1 LZPS als Drei-Stufen-Test Vhodnost Potrebnost Primerenost v uzsim smyslu. Mit Pl US 4/94 als methodischer Verankerung Test racionalniho zakladu fuer Sozialrechte und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Rezeption deutscher und EGMR-Doktrin.
 ---
 
 # Tschechien US Zasada Primerenosti
@@ -9,7 +9,7 @@ description: Tschechische Verhaeltnismaessigkeitsdogmatik des Ustavni soud nach 
 
 Tschechien hat seine Grundrechte in der **Listina zakladnich prav a
 svobod (LZPS)** verankert. Sie ist Verfassungsrang (Art 3 und Art 112
-Ustavy) und neben der Ustava CR von 1992 zentraler Pruefungsmassstab.
+Ustavy) und neben der Ustava CR von 1992 zentraler Prüfungsmassstab.
 
 - **Art 4 IV LZPS**: Beschraenkungen müssen den Wesensgehalt
   (podstata a smysl) wahren.
@@ -82,7 +82,7 @@ Bei tschechischen Bezuegen:
 - Drei Stufen Vhodnost Potrebnost Primerenost ausdruecklich benennen.
 - Pl US 4/94 als methodische Verankerung zitieren.
 - Bei Sozial- und Wirtschaftsrechten Test racionalniho zakladu (Pl US
-  61/04) als reduzierten Pruefungsmassstab markieren.
+  61/04) als reduzierten Prüfungsmassstab markieren.
 - Pl US 24/10 als tschechisches Pendant zu BVerfGE 125, 260
   (Vorratsdatenspeicherung) und EuGH Digital Rights Ireland nutzen.
 

@@ -16,7 +16,7 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 ## Triage zu Beginn
 1. Welches Tatbestandsmerkmal wird gerade subsumiert und liegt eine Definition vor?
 2. Gibt es einen Sachverhaltsbezug für die Subsumtion oder wird abstrakt geuebt?
-3. Liegt ein Subsumtionssprung vor (Ergebnis wird vorweggenommen ohne Pruefungsweg)?
+3. Liegt ein Subsumtionssprung vor (Ergebnis wird vorweggenommen ohne Prüfungsweg)?
 4. Ist das Tatbestandsmerkmal streitig (mehrere Definitionen möglich)?
 
 ## Aktuelle Rechtsprechung

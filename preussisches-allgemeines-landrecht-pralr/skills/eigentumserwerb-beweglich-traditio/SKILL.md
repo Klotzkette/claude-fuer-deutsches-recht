@@ -1,20 +1,20 @@
 ---
 name: eigentumserwerb-beweglich-traditio
-description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix."
+description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhältnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix."
 ---
 
 # Pralr Eigentumserwerb Beweglich Traditio
 
 ## ALR-System
 
-- ALR I 8 — Eigentumserwerb durch traditio (Uebergabe) mit iustus titulus (rechtlicher Grund).
+- ALR I 8 — Eigentumserwerb durch traditio (Übergabe) mit iustus titulus (rechtlicher Grund).
 - Roemisch-rechtliche Tradition.
-- Kein Abstraktionsprinzip — die Wirksamkeit des Geschaefts ist Voraussetzung.
+- Kein Abstraktionsprinzip — die Wirksamkeit des Geschäfts ist Voraussetzung.
 
 ## Voraussetzungen
 
 - Iustus titulus: wirksamer Vertrag.
-- Uebergabe der Sache.
+- Übergabe der Sache.
 - Erwerbsfaehigkeit von Veraeusserer und Erwerber.
 - Eigentum oder Verfuegungsbefugnis des Veraeusserers.
 
@@ -30,11 +30,11 @@ description: "Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill b
 
 ## Fortwirkung BGB
 
-- § 929 BGB Einigung und Uebergabe.
+- § 929 BGB Einigung und Übergabe.
 - § 932 BGB gutglaeubiger Erwerb.
 - BGB-Abstraktionsprinzip — Verfuegungsgeschaeft unabhaengig vom Verpflichtungsgeschaeft.
 
-## Pruefraster
+## Prüfraster
 
 1. Iustus titulus?
 2. Traditio?

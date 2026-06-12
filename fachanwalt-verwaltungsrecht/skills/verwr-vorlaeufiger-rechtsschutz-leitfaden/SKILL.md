@@ -1,6 +1,6 @@
 ---
 name: verwr-vorlaeufiger-rechtsschutz-leitfaden
-description: "Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag."
+description: "Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 123 einstweilige Anordnung. Prüfraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag."
 ---
 
 # Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs
@@ -14,12 +14,12 @@ description: "Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag.
+**Fokus:** Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 123 einstweilige Anordnung. Prüfraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag.
 
 ### VerwR: Vorlaeufiger Rechtsschutz
 
 ## Aufgabe
-Leitfaden vorläufiger Rechtsschutz VwGO: § 80 V VwGO (Anfechtungssituationen mit aufschiebender Wirkung), § 80a VwGO (Drittwiderspruch), § 123 VwGO (einstweilige Anordnung in allen anderen Faellen). Pruefraster Eilbeduerftigkeit, Anordnungsanspruch/Anordnungsgrund. Verhaeltnis zu Art. 19 IV GG.
+Leitfaden vorläufiger Rechtsschutz VwGO: § 80 V VwGO (Anfechtungssituationen mit aufschiebender Wirkung), § 80a VwGO (Drittwiderspruch), § 123 VwGO (einstweilige Anordnung in allen anderen Faellen). Prüfraster Eilbeduerftigkeit, Anordnungsanspruch/Anordnungsgrund. Verhältnis zu Art. 19 IV GG.
 
 ## Einstieg
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -30,7 +30,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 ### Variante 1: § 80 V VwGO (aufschiebende Wirkung)
 
@@ -65,10 +65,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

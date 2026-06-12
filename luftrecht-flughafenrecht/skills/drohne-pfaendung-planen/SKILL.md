@@ -1,6 +1,6 @@
 ---
 name: drohne-pfaendung-planen
-description: "Glaeubiger will gewerbliche Drohne oder Drohnenflotte pfaenden. Prueft ZPO § 808 Mobiliarpfaendung BGB-Eigentumsrecht Sicherungsübereignung und LuftVG § 21a Registrierungsstatus und liefert Pfaendungsplan im Luftrecht Flughafenrecht."
+description: "Gläubiger will gewerbliche Drohne oder Drohnenflotte pfaenden. Prüft ZPO § 808 Mobiliarpfaendung BGB-Eigentumsrecht Sicherungsübereignung und LuftVG § 21a Registrierungsstatus und liefert Pfaendungsplan im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Pfändung planen

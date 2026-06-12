@@ -57,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -103,8 +103,8 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `spedition-behoerden-gericht-und-registerweg` | Spedition: Behörden-, Gerichts- oder Registerweg: Spedition: Behörden-, Gerichts- oder Registerweg. |
 | `speditionsrecht-fristen-form-und-zustaendigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `speditionsversicherung-paragraf-460-hgb` | Speditionsversicherung § 460 HGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art: 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger. |
-| `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff: HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber. |
+| `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art: 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Prüfraster Schadensanzeige Empfaenger. |
+| `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff: HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Prüfraster Spediteur und Auftraggeber. |
 | `trans-kabotage-marktzugang-spezial` | Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht: Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotageb... |
 | `trans-mandantenkommunikation-entscheidungsvorlage` | Trans: Mandantenkommunikation und Entscheidungsvorlage: Trans: Mandantenkommunikation und Entscheidungsvorlage. |
 | `trans-multimodaler-transport-spezial` | Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading: Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schaden... |
@@ -117,7 +117,7 @@ Automatisch generierte Komplett-Liste aller 64 Skills in diesem Plugin. Beschrei
 | `transport-tio-schiedsgericht-adsp-klauseln` | TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen: Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit,... |
 | `transr-cmr-grenzueberschreitend-spezial` | Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden: Spezialfall CMR grenzueberschreite... |
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
-| `transr-haftungssystem-grundzuege` | Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff: HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schade... |
+| `transr-haftungssystem-grundzuege` | Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff: HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Prüfraster Schade... |
 | `transr-multimodaler-transport-spezial` | Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort: Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bes... |
 | `uebereinkommen-quellenkarte` | Uebereinkommen Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Fachanwalt Transport- und Speditionsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Frachtbrief, CMR-Frachtbrief, Schadensanzeige), nennt pro Lücke Beweisthema, Beschaffungsweg (Handelsgericht),... |

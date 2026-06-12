@@ -1,6 +1,6 @@
 ---
 name: plan-classification
-description: "Prueft classification of claims and interests, impairment, gerrymandering risk and voting strategy im US Bankruptcy Code."
+description: "Prüft classification of claims and interests, impairment, gerrymandering risk and voting strategy im US Bankruptcy Code."
 ---
 
 # Plan Classification
@@ -12,7 +12,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.

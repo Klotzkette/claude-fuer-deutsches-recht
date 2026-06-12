@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-konventionalstrafe
-description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhaeltnis zu §§ 339-345 BGB. Liefert Pruefraster."
+description: "Vertragsstrafe und Konventionalstrafe im ALR. Skill behandelt ALR I 5 zur Vereinbarung Wirkung Anrechnung auf Schadensersatz und Verhältnis zu §§ 339-345 BGB. Liefert Prüfraster."
 ---
 
 # Pralr Vertragsstrafe Und Konventionalstrafe
@@ -18,7 +18,7 @@ ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverle
 
 - Bei Verstoss faellt die Strafe an.
 - Anrechnung auf den weitergehenden Schadensersatz typisch.
-- Bei Verzicht des Glaeubigers Erlassbarkeit.
+- Bei Verzicht des Gläubigers Erlassbarkeit.
 
 ## Grenzen
 
@@ -28,9 +28,9 @@ ALR I 5 §§ — Konventionalstrafe als vereinbarte Geldbusse für Vertragsverle
 ## Fortwirkung BGB
 
 - §§ 339-345 BGB.
-- § 343 BGB Reduzierung uebersetzter Strafe durch Gericht.
+- § 343 BGB Reduzierung übersetzter Strafe durch Gericht.
 
-## Pruefraster
+## Prüfraster
 
 1. Vereinbarung wirksam?
 2. Höhe angemessen?

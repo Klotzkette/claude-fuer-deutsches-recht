@@ -45,7 +45,7 @@ Es gibt ein neues Online-Gericht. Sie machen alles am Computer. Sie reichen die 
 | Schriftverkehr | E-Mail, Post, MJP | Plattform-internes Postfach |
 | Termin | Im Gerichtssaal | Video-Konferenz auf der Plattform |
 | Urteil | Schriftlich per Post | Im Plattform-Postfach |
-| Akteneinsicht | Geschaeftsstelle, Anwalt | Plattform jederzeit |
+| Akteneinsicht | Geschäftsstelle, Anwalt | Plattform jederzeit |
 
 ## Vorteile
 
@@ -71,7 +71,7 @@ Schauen Sie auf der Webseite der Justiz Ihres Bundeslandes oder direkt auf der W
 
 - Justizportal Bund-Länder
 - "Online-Verfahren" als Stichwort suchen.
-- Bei der Geschaeftsstelle des Amtsgerichts nachfragen.
+- Bei der Geschäftsstelle des Amtsgerichts nachfragen.
 
 ### Schritt 2 — Prüfen, ob Ihr Streit-Typ zugelassen ist
 
@@ -99,7 +99,7 @@ Speichern Sie regelmaessig (die Plattform speichert meistens automatisch).
 
 - Eingabe-Maske absenden.
 - Plattform berechnet die Gerichtskosten.
-- Zahlung per SEPA-Lastschrift, Ueberweisung oder Karte.
+- Zahlung per SEPA-Lastschrift, Überweisung oder Karte.
 - Sobald gezahlt: Klage wird zugestellt.
 
 ### Schritt 6 — Reaktion der Gegenseite abwarten

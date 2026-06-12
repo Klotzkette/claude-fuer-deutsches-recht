@@ -1,6 +1,6 @@
 ---
 name: musikwerk-melodie-harmonie-rhythmus
-description: "Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe im Urheberrecht De Eu."
+description: "Prüft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe im Urheberrecht De Eu."
 ---
 
 # Musikwerk, Melodie, Harmonie und Rhythmus

@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-zahlungsverbot-15b-inso
-description: "Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife: Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insol..."
+description: "Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insolvenzreife: Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insol..."
 ---
 
-# Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife
+# Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insolvenzreife
 
 
 ## Arbeitsbereich
@@ -18,28 +18,28 @@ description: "Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstat
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien für den Geschaeftsleiter im Wirtschaftsstrafverfahren.
+**Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschäftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Gläubigerbeguenstigung. Verteidigungslinien für den Geschäftsleiter im Wirtschaftsstrafverfahren.
 
 ### Zahlungsverbot nach Paragraph 15b InsO
 
 ## Worum geht es konkret
 
-Paragraph 15b InsO (in Kraft seit 01.01.2021 als Nachfolger des Paragraph 64 GmbHG aF) ist **kein Strafgesetz**, sondern ein zivilrechtlicher Erstattungstatbestand. Der Geschaeftsleiter haftet persoenlich gegenueber der Gesellschaft für Zahlungen, die er nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung leistet. Anwendungsfall: GF zahlt nach materieller Insolvenz noch Gehaltszahlungen, Lieferantenrechnungen, Tilgungen.
+Paragraph 15b InsO (in Kraft seit 01.01.2021 als Nachfolger des Paragraph 64 GmbHG aF) ist **kein Strafgesetz**, sondern ein zivilrechtlicher Erstattungstatbestand. Der Geschäftsleiter haftet persoenlich gegenueber der Gesellschaft für Zahlungen, die er nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung leistet. Anwendungsfall: GF zahlt nach materieller Insolvenz noch Gehaltszahlungen, Lieferantenrechnungen, Tilgungen.
 
-Strafrechtlich relevant ist Paragraph 15b InsO als **Indizientraeger** für Paragraph 283c StGB Glaeubigerbeguenstigung und Paragraph 266 StGB Untreue. Wer gegen Paragraph 15b InsO verstoesst, hat zumindest in Bezug auf das Vermögen der GmbH eine Pflichtverletzung begangen, die in der Strafkammer schnell als Untreuevorwurf aufgenommen wird.
+Strafrechtlich relevant ist Paragraph 15b InsO als **Indizientraeger** für Paragraph 283c StGB Gläubigerbeguenstigung und Paragraph 266 StGB Untreue. Wer gegen Paragraph 15b InsO verstoesst, hat zumindest in Bezug auf das Vermögen der GmbH eine Pflichtverletzung begangen, die in der Strafkammer schnell als Untreuevorwurf aufgenommen wird.
 
 ## Tatbestand im Detail
 
 ### Absatz 1 Grundregel des Zahlungsverbots
 
-Geschaeftsleiter einer juristischen Person dürfen nach Eintritt der Zahlungsunfaehigkeit (Paragraph 17 InsO) oder der Ueberschuldung (Paragraph 19 InsO) keine Zahlungen leisten. Zahlungen sind dabei alle Vermoegensabfluesse, also nicht nur Geldzahlungen, sondern auch Hingabe von Sicherheiten, Aufrechnungen, Verkaeufe weit unter Wert.
+Geschäftsleiter einer juristischen Person dürfen nach Eintritt der Zahlungsunfaehigkeit (Paragraph 17 InsO) oder der Ueberschuldung (Paragraph 19 InsO) keine Zahlungen leisten. Zahlungen sind dabei alle Vermögensabfluesse, also nicht nur Geldzahlungen, sondern auch Hingabe von Sicherheiten, Aufrechnungen, Verkaeufe weit unter Wert.
 
 ### Absatz 2 Ausnahmen vom Zahlungsverbot
 
 Zulässig sind:
 
-- **Nr. 1** Zahlungen, die nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung **mit der Sorgfalt eines ordentlichen und gewissenhaften Geschaeftsleiters** vereinbar sind. Klassische Faelle: Lohnzahlung an Mitarbeiter im Rahmen Insolvenzgeld (Paragraph 165 ff. SGB III), notwendige Steuerzahlungen, Energiekosten zur Erhaltung der Insolvenzmasse.
-- **Nr. 2** Zahlungen, die im **Zeitraum von 3 Wochen** nach Eintritt der Zahlungsunfaehigkeit oder 6 Wochen nach Eintritt der Ueberschuldung erfolgen und der Aufrechterhaltung des Geschaeftsbetriebs dienen.
+- **Nr. 1** Zahlungen, die nach Eintritt der Zahlungsunfaehigkeit oder Ueberschuldung **mit der Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters** vereinbar sind. Klassische Faelle: Lohnzahlung an Mitarbeiter im Rahmen Insolvenzgeld (Paragraph 165 ff. SGB III), notwendige Steuerzahlungen, Energiekosten zur Erhaltung der Insolvenzmasse.
+- **Nr. 2** Zahlungen, die im **Zeitraum von 3 Wochen** nach Eintritt der Zahlungsunfaehigkeit oder 6 Wochen nach Eintritt der Ueberschuldung erfolgen und der Aufrechterhaltung des Geschäftsbetriebs dienen.
 
 ### Absatz 3 Sorgfaltsmassstab
 
@@ -47,7 +47,7 @@ Die Pflichtgemaesheit der Zahlung beurteilt sich nach den Umstaenden im Zeitpunk
 
 ### Absatz 4 Erstattungsanspruch
 
-Der Geschaeftsleiter erstattet die unzulaessigen Zahlungen an die Masse. Der Erstattungsanspruch ist nicht aufrechenbar (Paragraph 15b Abs 4 Satz 2 InsO).
+Der Geschäftsleiter erstattet die unzulaessigen Zahlungen an die Masse. Der Erstattungsanspruch ist nicht aufrechenbar (Paragraph 15b Abs 4 Satz 2 InsO).
 
 ### Absatz 5 Steuerzahlungen
 
@@ -69,8 +69,8 @@ Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 ## Konkurrenzen
 
-- **Paragraph 15b InsO und Paragraph 266 StGB Untreue.** Wer als GF gegen das Zahlungsverbot verstoesst, schaedigt die GmbH; die Vermoegensbetreuungspflicht ist tangiert. Strafkammer prüfen oft als Erstes Paragraph 266 StGB, wenn Insolvenzverwalter Erstattungsklage erhoben hat.
-- **Paragraph 15b InsO und Paragraph 283c StGB Glaeubigerbeguenstigung.** Wer in der Krise einen Glaeubiger beguenstigt, verstoesst gegen 15b InsO und kann zusaetzlich nach 283c StGB strafbar sein. 15b InsO erfasst alle Zahlungen, 283c StGB nur inkongruente Deckungen.
+- **Paragraph 15b InsO und Paragraph 266 StGB Untreue.** Wer als GF gegen das Zahlungsverbot verstoesst, schaedigt die GmbH; die Vermögensbetreuungspflicht ist tangiert. Strafkammer prüfen oft als Erstes Paragraph 266 StGB, wenn Insolvenzverwalter Erstattungsklage erhoben hat.
+- **Paragraph 15b InsO und Paragraph 283c StGB Gläubigerbeguenstigung.** Wer in der Krise einen Gläubiger beguenstigt, verstoesst gegen 15b InsO und kann zusaetzlich nach 283c StGB strafbar sein. 15b InsO erfasst alle Zahlungen, 283c StGB nur inkongruente Deckungen.
 - **Paragraph 15b InsO und Paragraph 15a InsO.** Beide Normen sind miteinander verzahnt: Solange die Antragsfrist nicht abgelaufen ist, ist Sanierungstaetigkeit erlaubt (Paragraph 15b Abs 2 Nr 2 InsO).
 
 ## Strafzumessung und Folgen
@@ -83,7 +83,7 @@ Sonderregel für Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Die Zahlungen meines Mandanten in der antragslosen Phase erfolgten ausschließlich zur Aufrechterhaltung des Geschaeftsbetriebs iSv Paragraph 15b Abs 2 Nr 2 InsO. Die Sanierungsbemuehungen mit dem Investor X waren zum Zahlungszeitpunkt nicht abgeschlossen. Eine strafrechtliche Relevanz nach Paragraph 266 StGB oder Paragraph 283c StGB scheidet wegen pflichtgemaesser Sanierungsfortfuehrung aus."
+**Schutzschrift-Snippet:** "Die Zahlungen meines Mandanten in der antragslosen Phase erfolgten ausschließlich zur Aufrechterhaltung des Geschäftsbetriebs iSv Paragraph 15b Abs 2 Nr 2 InsO. Die Sanierungsbemuehungen mit dem Investor X waren zum Zahlungszeitpunkt nicht abgeschlossen. Eine strafrechtliche Relevanz nach Paragraph 266 StGB oder Paragraph 283c StGB scheidet wegen pflichtgemaesser Sanierungsfortfuehrung aus."
 
 **Einlassungs-Snippet:** "Ich habe die Loehne für Maerz 2026 noch ueberwiesen, weil ich davon ausging, dass die Mitarbeiter sonst sofort gekuendigt haetten und damit auch die Insolvenzgeldzahlung nicht haette gesichert werden können. Das war meine Pflicht als Arbeitgeber (Paragraph 266a StGB)."
 

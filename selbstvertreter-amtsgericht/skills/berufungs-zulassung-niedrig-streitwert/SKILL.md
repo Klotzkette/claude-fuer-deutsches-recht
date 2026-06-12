@@ -9,7 +9,7 @@ description: "Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertg
 
 Wenn Ihre Beschwer **1.000 EUR oder weniger** betraegt, ist Berufung grundsätzlich **nicht** statthaft (§ 511 II Nr. 1 ZPO, Fassung seit 01.01.2026). Eine Berufung ist in dieser Konstellation nur möglich, wenn das **Amtsgericht selbst die Berufung in seinem Urteil ausdruecklich zugelassen hat** (§ 511 II Nr. 2 ZPO i.V.m. § 511 IV ZPO).
 
-**Achtung Uebergangsfaelle (§ 47 EGZPO):** Für Verfahren, in denen die anzufechtende Entscheidung **bis einschliesslich 31.12.2025** verkuendet bzw. der Geschaeftsstelle uebergeben wurde — oder die muendliche Verhandlung bis dahin geschlossen war — gilt **weiterhin die alte Wertgrenze 600 EUR**. In solchen Faellen ist Berufung ohne Zulassung schon ab einer Beschwer von mehr als 600 EUR möglich. Prüfen Sie zuerst, in welche Phase Ihr Verfahren faellt.
+**Achtung Uebergangsfaelle (§ 47 EGZPO):** Für Verfahren, in denen die anzufechtende Entscheidung **bis einschliesslich 31.12.2025** verkuendet bzw. der Geschäftsstelle uebergeben wurde — oder die muendliche Verhandlung bis dahin geschlossen war — gilt **weiterhin die alte Wertgrenze 600 EUR**. In solchen Faellen ist Berufung ohne Zulassung schon ab einer Beschwer von mehr als 600 EUR möglich. Prüfen Sie zuerst, in welche Phase Ihr Verfahren faellt.
 
 **Wichtig:** Die Zulassung erfolgt **nur durch das erstinstanzliche Gericht (AG)**. Wenn das AG nicht zugelassen hat, gibt es **keinen separaten Rechtsbehelf zum LG** — keine "Zulassungs-Beschwerde", keine "Nichtzulassungsbeschwerde" wie etwa in der Revision (§ 544 ZPO). Das AG-Urteil ist dann endgueltig.
 
@@ -24,7 +24,7 @@ Eine sehr enge Ausnahme bietet die **Anhörungsruege § 321a ZPO** bei Verletzun
 ## Fachbegriffe (kurz erklaert)
 
 - **Beschwer**: Differenz zwischen Antrag und Urteil zu Ihren Lasten.
-- **Grundsaetzliche Bedeutung**: Frage, deren Beantwortung über den Einzelfall hinaus klaerend wirkt.
+- **Grundsaetzliche Bedeutung**: Frage, deren Beantwortung über den Einzelfall hinaus klärend wirkt.
 - **Zulassung der Berufung**: Erklaerung des AG im Urteil, dass Berufung ausnahmsweise statthaft ist.
 - **Anhörungsruege**: Rechtsbehelf bei Verletzung des rechtlichen Gehoers (§ 321a ZPO).
 
@@ -42,7 +42,7 @@ Eine sehr enge Ausnahme bietet die **Anhörungsruege § 321a ZPO** bei Verletzun
 
 § 511 IV ZPO setzt voraus:
 
-- **Grundsaetzliche Bedeutung**: Rechtsfrage hat allgemeine Klaerungs-Bedeutung.
+- **Grundsaetzliche Bedeutung**: Rechtsfrage hat allgemeine Klärungs-Bedeutung.
 - **Fortbildung des Rechts**: Frage ist offen und braucht Entscheidung.
 - **Sicherung einheitlicher Rechtsprechung**: Divergierende Entscheidungen anderer Gerichte.
 
@@ -52,7 +52,7 @@ In Praxis: AG-Urteile mit niedriger Beschwer werden sehr selten zugelassen.
 
 Schon **im AG-Verfahren** können Sie die Zulassung der Berufung anregen — typisch in der muendlichen Verhandlung oder im letzten Schriftsatz. Begruendung:
 
-- Welche Rechtsfrage ist klaerungs-beduerftig?
+- Welche Rechtsfrage ist klärungs-beduerftig?
 - Gibt es divergierende Entscheidungen anderer Gerichte?
 - Warum ist Klärung wichtig?
 

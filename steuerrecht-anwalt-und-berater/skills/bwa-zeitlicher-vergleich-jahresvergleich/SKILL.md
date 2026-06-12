@@ -19,7 +19,7 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 
 1. Welche Auswertungsform — Monats-BWA mit Vorjahresvergleich oder kumulierter Vergleich seit Jahresbeginn?
 2. Hat das Unternehmen Sondereffekte im Vorjahr (Einmal-Erloese, Sonderabschreibungen, Sonder-Tantieme)?
-3. Aenderungen im Geschaeftsmodell, Sortiment, Vertriebsgebiet seit Vorjahr?
+3. Änderungen im Geschäftsmodell, Sortiment, Vertriebsgebiet seit Vorjahr?
 4. Hat sich die Buchhaltungs-Routine geaendert (Periodenabgrenzung, Bestand-Schaetzung)?
 5. Liegen Vorjahres-BWA-Daten konsistent vor, oder wurde der Vorberater gewechselt?
 6. Aussagekraft des Vergleichs: Ist gleicher Saisonzyklus vorhanden (z.B. Tourismus)?
@@ -41,7 +41,7 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 ### Verwaltungsanweisungen
 
 - BMF v. 28.11.2019 zu GoBD — laufende Buchfuehrung.
-- IDW PS 250 — Berichterstattung über Pruefergebnisse (sinngemäß auf BWA-Berichterstattung anwendbar).
+- IDW PS 250 — Berichterstattung über Prüfergebnisse (sinngemäß auf BWA-Berichterstattung anwendbar).
 
 ## Workflow
 
@@ -49,7 +49,7 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 
 - Vorjahres-BWA-Daten aus Vorperiode bestaendig in DATEV/Addison verfuegbar machen.
 - Bei Mandantenuebernahme: Vorjahres-BWA des Vorberaters anfordern (Mandantenakte).
-- Kontenrahmen-Aenderungen prüfen (SKR 03 → SKR 04 erfordert Brueckenposten).
+- Kontenrahmen-Änderungen prüfen (SKR 03 → SKR 04 erfordert Brueckenposten).
 
 ### Phase 2 — Sondereffekte identifizieren
 
@@ -74,12 +74,12 @@ Eine BWA ohne zeitlichen Vergleich ist eine reine Momentaufnahme ohne Steuerungs
 | Betriebsergebnis | 19.500 | 10.700 | +8.800 | +82,2 |
 ```
 
-Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Frontmatter-Description waere das verboten (Cowork-Validator-Bug). In Erlaeuterungstexten ausserhalb der Tabelle "13 Prozent" oder "rund 14 Prozent" formulieren.
+Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Frontmatter-Description waere das verboten (Cowork-Validator-Bug). In Erläuterungstexten ausserhalb der Tabelle "13 Prozent" oder "rund 14 Prozent" formulieren.
 
 ### Phase 4 — Abweichungsanalyse
 
 - Absolute Abweichung in EUR: ab welchem Schwellenwert ist Klärung noetig? Mandantenabhaengig (kleine Mandanten ab 500 EUR, große ab 5.000 EUR).
-- Prozentuale Abweichung: ab 10-20 Prozent ist Erlaeuterung im BWA-Text Pflicht.
+- Prozentuale Abweichung: ab 10-20 Prozent ist Erläuterung im BWA-Text Pflicht.
 - Kreuzpruefung: Umsatzplus von 13 Prozent rechtfertigt Materialeinsatzplus von 7 Prozent nicht — Materialquote sinkt, Marge waechst. Ursache klären (Preiserhoehung, Mix-Effekt, Einkaufsvorteile)?
 
 ### Phase 5 — Kumuliert seit Jahresbeginn
@@ -88,9 +88,9 @@ Vorsicht: Im obigen Beispiel ist `13,6` nur in der Tabelle akzeptabel; in der Fr
 - Vergleichszeitraum identisch wie Mandantenkalender (Wirtschaftsjahr vom 1. Januar bis 31. Dezember; bei abweichendem Wirtschaftsjahr entsprechend anpassen).
 - Trend: Erwartung Jahresende hochrechnen (Annualisierung), aber mit Vorsicht (Saisonzyklus beachten).
 
-### Phase 6 — Erlaeuterungstext und Mandantenkommunikation
+### Phase 6 — Erläuterungstext und Mandantenkommunikation
 
-- 3-5 Saetze unter der BWA: wichtigste Abweichungen benennen, Ursachen vermuten oder klaerend fragen.
+- 3-5 Saetze unter der BWA: wichtigste Abweichungen benennen, Ursachen vermuten oder klärend fragen.
 - Bei Krisensignalen (Umsatz minus 20 Prozent, Eigenkapitalerosion): Eskalation an Berufstraeger und ggf. Querverweis stb-bwa-sus-bilanz-pruefung.
 
 ## Strategie und Praxis-Tipps

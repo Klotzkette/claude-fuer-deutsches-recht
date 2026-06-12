@@ -13,7 +13,7 @@ description: "Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kl
 
 ## Kernsachverhalt
 
-Addison (Wolters Kluwer) ist die zweitstaerkste StB-Kanzleisoftware in Deutschland. Funktionen vergleichbar mit DATEV: Buchfuehrung, BWA, Lohn, Jahresabschluss. Andere Bedienlogik und andere Standardforms. Steuerberater, die mit Addison arbeiten, brauchen aequivalente Praxis-Tipps.
+Addison (Wolters Kluwer) ist die zweitstaerkste StB-Kanzleisoftware in Deutschland. Funktionen vergleichbar mit DATEV: Buchfuehrung, BWA, Lohn, Jahresabschluss. Andere Bedienlogik und andere Standardforms. Steuerberater, die mit Addison arbeiten, brauchen äquivalente Praxis-Tipps.
 
 ## Kaltstart-Rueckfragen
 
@@ -66,7 +66,7 @@ Hinweis: konkrete Form-Nummern und Bezeichnungen variieren mit der Addison-Versi
 
 ### Phase 6 — Updates
 
-- Jaehrliche Programm-Updates zum 1. Januar (Lohnsteuer-, SV-Tabellen, USt-Aenderungen, AfA-Tabellen).
+- Jaehrliche Programm-Updates zum 1. Januar (Lohnsteuer-, SV-Tabellen, USt-Änderungen, AfA-Tabellen).
 - Bei groesseren Reformen unterjaehrige Updates (z.B. Wachstumschancengesetz, eRechnung).
 - Update-Pflicht aus § 146 AO (Programm muss aktuelle Tabellen abbilden).
 

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-nordkorea
-description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk un..."
+description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All für Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Prüfvermerk un..."
 ---
 
 # Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle
@@ -36,7 +36,7 @@ description: "EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und 
 - **Art. 4 VO (EU) 2021/821**: Catch-All Proliferationsverdacht.
 - **VO (EU) 2017/1509 Art. 19**: Finanztransaktionsverbote.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Partei auf EU-Sanktionsliste NK und UN-Liste geprueft?
 - [ ] Guetersanktionskatalog auf Vollstaendigkeit geprueft?
@@ -66,7 +66,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

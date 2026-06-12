@@ -15,7 +15,7 @@ description: "DBA Deutschland USA 1989 mit Protokollen 1998 2006 2021. LOB-Klaus
 
 ## Kernsachverhalt
 
-Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 14.12.1998, 01.06.2006 und ggf. weiteren ist eines der bedeutendsten DBA Deutschlands. Schwerpunkte sind die Limitation-on-Benefits-Klausel (LOB), Pension Protection im Protokoll 2006 (Schutz US-amerikanischer Pensionsplaene IRA und 401(k)), Branch Profits Tax, Beteiligungseinkuenfte deutscher Investoren in US-Gesellschaften und umgekehrt, Sportler/Kuenstler und Wegzugsbesteuerung. Die USA sind kein MLI-Mitglied — bilaterale Aenderungen.
+Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Änderungsprotokollen vom 14.12.1998, 01.06.2006 und ggf. weiteren ist eines der bedeutendsten DBA Deutschlands. Schwerpunkte sind die Limitation-on-Benefits-Klausel (LOB), Pension Protection im Protokoll 2006 (Schutz US-amerikanischer Pensionsplaene IRA und 401(k)), Branch Profits Tax, Beteiligungseinkuenfte deutscher Investoren in US-Gesellschaften und umgekehrt, Sportler/Kuenstler und Wegzugsbesteuerung. Die USA sind kein MLI-Mitglied — bilaterale Änderungen.
 
 ## Kaltstart-Rueckfragen
 
@@ -33,8 +33,8 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 
 ### Primaernormen
 
 - **DBA Deutschland-USA vom 29.08.1989** (BGBl. 1991 II S. 354), in Kraft seit 21.08.1991, anwendbar ab 01.01.1990.
-- **Aenderungsprotokoll vom 14.12.1998** (bilaterale Anpassungen; Bekanntmachung der Neufassung Erbschaftsteuer-DBA 21.12.2000).
-- **Aenderungsprotokoll vom 01.06.2006** (BGBl. 2006 II S. 1184; Inkrafttreten 28.12.2007, BGBl. 2008 II S. 611): Pension Protection (Schutz US-amerikanischer Pensionsplaene IRA, 401(k), Roth IRA, deutsche Riester/Rurup), LOB-Klausel deutlich verschaerft, Schiedsverfahren in Art. 25.
+- **Änderungsprotokoll vom 14.12.1998** (bilaterale Anpassungen; Bekanntmachung der Neufassung Erbschaftsteuer-DBA 21.12.2000).
+- **Änderungsprotokoll vom 01.06.2006** (BGBl. 2006 II S. 1184; Inkrafttreten 28.12.2007, BGBl. 2008 II S. 611): Pension Protection (Schutz US-amerikanischer Pensionsplaene IRA, 401(k), Roth IRA, deutsche Riester/Rurup), LOB-Klausel deutlich verschaerft, Schiedsverfahren in Art. 25.
 - **OECD-MA** als Auslegungshilfe — USA folgen tendenziell US-Modell-DBA, nicht OECD-MA.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **§ 50d Abs. 3 EStG** Anti-Treaty-Shopping (anwendbar bei US-Holding mit Drittstaats-Beguenstigten).
@@ -43,7 +43,7 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 
 
 ### Leitentscheidungen und BMF-Schreiben
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- BMF-Schreiben zur steuerrechtlichen Einordnung von US-LLCs vom 19.03.2004 (BStBl. I 2004, 411): Prüfung anhand Merkmalskatalog (Haftung, Geschaeftsfuehrung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung), ob PersGes oder KapGes.
+- BMF-Schreiben zur steuerrechtlichen Einordnung von US-LLCs vom 19.03.2004 (BStBl. I 2004, 411): Prüfung anhand Merkmalskatalog (Haftung, Geschäftsführung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung), ob PersGes oder KapGes.
 - BMF-Schreiben zu Pension Protection und IRA/401(k): aktuellen Stand beim BMF prüfen.
 
 ## Land-spezifisches
@@ -58,7 +58,7 @@ Das DBA-USA vom 29.08.1989 (BGBl. 1991 II S. 354) mit Aenderungsprotokollen vom 
 
 ### Aktive Einkuenfte
 - Loehne (Art. 15): 183-Tage-Regel.
-- Schifffahrt (Art. 8): tatsaechliche Geschaeftsleitung Reederei.
+- Schifffahrt (Art. 8): tatsaechliche Geschäftsleitung Reederei.
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. 10): nach OECD-MA typischerweise 5/15 Prozent (Schachtel/Streubesitz); im DBA-USA seit Protokoll 2006 zusaetzlich ein Sondersatz für qualifizierte Hochbeteiligungen, der in der Literatur regelmaessig mit 0 Prozent bei einer Mindestbeteiligung von 80 Prozent und einer Mindesthaltedauer (jeweils nach LOB-Voraussetzungen) referenziert wird — **konkreter Satz, Beteiligungsschwelle und Mindesthaltedauer ausschließlich aus dem konsolidierten DBA-Text Art. 10 i.V.m. Protokoll 2006 und der zugehoerigen LOB-Klausel zu entnehmen**, da Satz, Schwelle und LOB-Voraussetzungen kumulativ wirken.
@@ -78,7 +78,7 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemäß 
 3. **Tochter boersennotierter Gesellschaft**: berechtigt.
 4. **Non-profit Organisation, Pensionskasse**: berechtigt.
 5. **Ownership/Base-Erosion-Test**: 50 Prozent Anteile von berechtigten Ansaessigen, base erosion unter 50 Prozent.
-6. **Active Trade or Business**-Test: substanzieller Geschaeftsbetrieb in Staat X verbunden mit der Einkunftserzielung.
+6. **Active Trade or Business**-Test: substanzieller Geschäftsbetrieb in Staat X verbunden mit der Einkunftserzielung.
 7. **Derivative Benefits**-Test für EU-/EWR-Beteiligung.
 8. **Discretionary Benefits**: zuständige Behörde kann gewaehren.
 
@@ -121,17 +121,17 @@ Die LOB-Klausel im DBA-USA ist in **Art. 28 DBA-USA** geregelt (Fassung gemäß 
 ## Strategie und Praxis-Tipps
 
 - LOB-Klausel ist DAS Nadeloehr des DBA-USA — frueh prüfen; bei Misserfolg LOB Discretionary Benefits beantragen.
-- US-LLC: BMF-Schreiben 19.03.2004 — prüfen ob Personengesellschaft oder Kapitalgesellschaft für deutsche Steuerzwecke (Prüfung anhand Merkmals-Katalog: Haftung, Geschaeftsfuehrung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung).
+- US-LLC: BMF-Schreiben 19.03.2004 — prüfen ob Personengesellschaft oder Kapitalgesellschaft für deutsche Steuerzwecke (Prüfung anhand Merkmals-Katalog: Haftung, Geschäftsführung, Anteilsuebertragung, Lebensdauer, Gewinnverteilung).
 - IRA-Auszahlung an Wohnsitz Deutschland: Pension Protection schutzwuerdig — § 50d Abs. 12 EStG.
 - Wegzug DE → USA: § 6 AStG, USA als Drittland — Stundung nur bei Stellung von Sicherheiten und in EU/EWR-Ausnahme.
-- USA kein MLI-Staat — DBA-Aenderungen nur bilateral.
+- USA kein MLI-Staat — DBA-Änderungen nur bilateral.
 - Sportler/Kuenstler: IRS-Formular 8233 für Steuerbefreiung; W-8BEN-E für Holdings.
 - Form 6166 Ansaessigkeitsbescheinigung mit IRS-Form 8802 beantragen (Gebuehr).
 - LLC-Hybridprobleme: Doppelnichtansatz vermeiden, § 4k EStG.
 
 ## Praktiker-Tipps der alten Hasen
 
-- **Erstattungsverfahren US → DE-Mandant**: Antrag bei IRS (Internal Revenue Service); kein einheitliches Online-Portal für Auslaender — Antragsformulare werden je nach Einkunftsart unterschiedlich gehandhabt (Form 1040-NR für nichtansaessige natuerliche Personen, Form 1120-F für auslaendische Gesellschaften). Bearbeitungsdauer in der Praxis oft 6 bis 12 Monate, bei komplexeren Faellen laenger.
+- **Erstattungsverfahren US → DE-Mandant**: Antrag bei IRS (Internal Revenue Service); kein einheitliches Online-Portal für Ausländer — Antragsformulare werden je nach Einkunftsart unterschiedlich gehandhabt (Form 1040-NR für nichtansaessige natuerliche Personen, Form 1120-F für ausländische Gesellschaften). Bearbeitungsdauer in der Praxis oft 6 bis 12 Monate, bei komplexeren Faellen laenger.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Englisch; die englische Fassung dominiert die praktische Anwendung weltweit.
 - **Lokaler Berater**: Bei US-Engagement zwingend einen US-zertifizierten "CPA" oder "Enrolled Agent" oder US-Steueranwalt ("tax attorney") hinzuziehen — US-Steuerrecht extrem komplex, foederal mit Bundesstaat- und Lokalsteuern (NYC, Kalifornien, Texas).
 - **Apostille**: ZWINGEND bei Drittstaat USA; Haager Uebereinkommen anwendbar (US ist Vertragsstaat). Apostille für deutsche Urkunden über den jeweiligen Bundesland-Behörden; US-Apostille für US-Urkunden über den US-Bundesstaat oder Department of State.

@@ -59,7 +59,7 @@ Bei juristischen Buchprojekten (Lehrbuch, Kommentar, Handbuch) wird oft ein Hono
 ## Praxistipps der alten Redaktion
 
 - "Ein Vorschuss ist eine Versicherung gegen Autorwechsel, kein Geschenk."
-- Bei Lehrbuch mit Pruefungsbezug: Lebenszyklus 5 Jahre rechnen; danach Schwester- oder Anschlussbaende kalkulieren.
+- Bei Lehrbuch mit Prüfungsbezug: Lebenszyklus 5 Jahre rechnen; danach Schwester- oder Anschlussbaende kalkulieren.
 - Bei Kommentar: Mindestens auf die Folgeauflage hin denken; Vorschuss erstreckt sich oft über zwei Auflagen.
 - Bei Wechselautor: Karenzklausel prüfen (kein Konkurrenzwerk bis [Datum]).
 - Bei abgesprungenem Autor: Rueckforderung schnell schriftlich verlangen; sonst Verjährungsgefahr nach 3 Jahren.

@@ -36,10 +36,10 @@ Vor dem Beschlussentwurf klären:
 
 1. **Rechtsform:** GmbH / UG (schriftliches Verfahren § 48 Abs. 2 GmbHG) oder AG (Umlaufbeschluss nur für AR § 108 Abs. 4 AktG und Vorstand)? Bei AG-HV: Praesenz-HV oder virtuelle HV (§ 118a AktG) erforderlich.
 2. **Einverstaendnis aller Gesellschafter?** § 48 Abs. 2 GmbHG setzt nach h.M. voraus, dass alle Gesellschafter dem schriftlichen Verfahren zustimmen (oder der Gesellschaftsvertrag das Verfahren explizit zulaesst). Ist das sichergestellt?
-3. **Maßnahme-Typ:** Routine (Geschaeftsfuehrer, Prokura, Jahresabschluss) oder wesentlich (M&A, Satzungsaenderung, Liquidation)? → Bei wesentlichen Maßnahmen: Anwaltliche Prüfung vor Unterzeichnung.
-4. **Stimmverbot?** Ist ein Gesellschafter von der Abstimmung ausgeschlossen (§ 47 Abs. 4 GmbHG)? Insbesondere bei Eigenbestellung zum Geschaeftsfuehrer (str.)
+3. **Maßnahme-Typ:** Routine (Geschäftsführer, Prokura, Jahresabschluss) oder wesentlich (M&A, Satzungsaenderung, Liquidation)? → Bei wesentlichen Maßnahmen: Anwaltliche Prüfung vor Unterzeichnung.
+4. **Stimmverbot?** Ist ein Gesellschafter von der Abstimmung ausgeschlossen (§ 47 Abs. 4 GmbHG)? Insbesondere bei Eigenbestellung zum Geschäftsführer (str.)
 5. **Beurkundungspflicht?** Satzungsaenderung (§ 53 GmbHG), Kapitalerhoehung, Abtretung von Anteilen (§ 15 Abs. 3 GmbHG) — Notar erforderlich?
-6. **Handelsregisteranmeldung?** Geschaeftsfuehrerwechsel (§ 39 GmbHG), Satzungsaenderung, Kapitalerhoehung erforderlich?
+6. **Handelsregisteranmeldung?** Geschäftsführerwechsel (§ 39 GmbHG), Satzungsaenderung, Kapitalerhoehung erforderlich?
 
 ## Zweck
 

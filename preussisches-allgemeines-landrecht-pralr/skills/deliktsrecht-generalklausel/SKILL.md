@@ -24,7 +24,7 @@ description: "PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Verse
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 6 § 1**: "Wer einen anderen ohne Recht und Befugniss vorsetzlich beleidiget, ist zum Ersatze des dadurch entstandenen Schadens verpflichtet."
 - **ALR I 6 §§ 8 ff.**: Generelle Fahrlaessigkeitshaftung.
 - **ALR I 6 §§ 10-12**: Verschuldensstufen — dolus (Vorsatz), culpa lata (grobe Fahrlaessigkeit), culpa levis (leichte Fahrlaessigkeit), culpa levissima (allergeringste Fahrlaessigkeit).

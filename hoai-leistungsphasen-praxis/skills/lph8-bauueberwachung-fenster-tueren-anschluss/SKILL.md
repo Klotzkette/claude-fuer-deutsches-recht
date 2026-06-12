@@ -26,7 +26,7 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 ## Erste Schritte auf der Baustelle
 
 1. Einbauoeffnung-Aufmass: Rohbaumass und Fensterrahmen-Aussenmaass, Einbaufuge Breite 10-30 mm nach RAL, Rechtwinkligkeit mit Diagonalenmass
-2. Befestigungsnachweis Rahmendubel: Schraubentiefe in Mauerwerk mindestens 40 mm, Abstands max. 700 mm, Ausriss-Zugtest 10 Prozent der Befestigungen mit Pruefgeraet
+2. Befestigungsnachweis Rahmendubel: Schraubentiefe in Mauerwerk mindestens 40 mm, Abstands max. 700 mm, Ausriss-Zugtest 10 Prozent der Befestigungen mit Prüfgeraet
 3. Aussenabdichtung: Kompriband vorverdichtet 600 Pa schlagregensdicht, Ueberlappung an Ecken, kein Butt-Stoss
 4. Dampfsperre Innenanschluss: Selbstklebende Innenabdichtungsfolie, Anschluss an Unterputz-Anputzleiste, Klemmleisten-Verbindung Rahmen
 5. Waermebrueckenfreiheit Einbau: Einbautiefe Fenster in der Wandebene nach Aussenwaermedaemmung oder hinter Laibung nach PHPP-Grundsatz
@@ -39,12 +39,12 @@ Der Fenstereinbau ist Schnittstelle zwischen Rohbau, Waermedaemmung und Dichtigk
 - VOB/C DIN 18360 Metalltuerarbeiten, DIN 18361 Verglasung, DIN 18355 Tischlerarbeiten
 - DIN 4109-1:2018-01 Schallschutz im Hochbau: Mindestanforderungen, Nachweisverfahren, Einbaukategorien
 - RAL-Leitfaden zur Planung und Ausfuehrung der Montage von Fenstern 2016: 3-Ebenen-Konzept aussen-mitte-innen
-- DIN EN ISO 9972 Messung der Luftdurchlaessigkeit von Gebaeuden: Blower-Door-Test, n50-Wert, Pruefdruckniveau 50 Pa
+- DIN EN ISO 9972 Messung der Luftdurchlaessigkeit von Gebaeuden: Blower-Door-Test, n50-Wert, Prüfdruckniveau 50 Pa
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Kompriban-Kontrolle: Breite und Kompressionsgrad nach RAL-Lieferschein, aussen vollstaendig umlaufend, Ecke ohne Unterbrechung
-2. Befestigungs-Abstand: Rahmendubel-Abstand kleiner 700 mm, Abstand Eckpunkt kleiner 150 mm, Ausriss-Pruefprotokoll
+2. Befestigungs-Abstand: Rahmendubel-Abstand kleiner 700 mm, Abstand Eckpunkt kleiner 150 mm, Ausriss-Prüfprotokoll
 3. Innenabdichtung-Dichtheitspruefung: Locales Blower-Door einzelner Einbaupositionen, Leckage-Detektierung Foliensound mit Neopor-Stab
 4. Einbautiefe-Kontrolle: Fensterscheibenunterseite mindestens 50 mm hinter Bauteil-Aussenkante bei WDVS-Fassade
 5. Schallschutz-Einbauprotokoll: Glas-Zwischenscheibe Schallschutz-Klasse nach Bestellung, Rahmen-Akustik-Klasse, Einbau-Protokoll Nr je Einheit

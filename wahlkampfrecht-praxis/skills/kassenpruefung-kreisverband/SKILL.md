@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Ordnet Barkasse, Kleinspenden, Erstattungen, Quittungen, Vier-Augen-Prinzip und Uebergaben.
+Ordnet Barkasse, Kleinspenden, Erstattungen, Quittungen, Vier-Augen-Prinzip und Übergaben.
 
 ## Rechts- und Praxislogik
 

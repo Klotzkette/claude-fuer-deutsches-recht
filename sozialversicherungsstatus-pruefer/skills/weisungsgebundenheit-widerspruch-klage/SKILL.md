@@ -1,6 +1,6 @@
 ---
 name: weisungsgebundenheit-widerspruch-klage
-description: "Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz im Sozialversicherungsstatus Pruefer."
+description: "Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz im Sozialversicherungsstatus Prüfer."
 ---
 
 # Weisungsgebundenheit

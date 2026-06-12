@@ -17,7 +17,7 @@ description: "Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visue
 
 Rulemapping ist eine Methode, juristische Logik in strukturierte digitale Entscheidungsmodelle (Rulemaps) zu ueberfuehren. Die Methode wurde von Prof. Dr. Stephan Breidenbach entwickelt und wird durch die Bundesagentur für Sprunginnovationen SPRIN-D gefoerdert. Sie wird unter anderem im Bundesministerium der Justiz eingesetzt und bildet vollstaendige Wenn-Dann-Logik einer Norm ab; einschliesslich Tatbestaenden; Rechtsfolgen; Ausnahmen und Verweisen.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: passt die Methode zum Vorhaben? Komplexitaet hoch genug für Rulemap? Anschluss an Vollzugs-IT erforderlich? Welche Aufsichtsentscheidung soll später automatisierbar sein?
 

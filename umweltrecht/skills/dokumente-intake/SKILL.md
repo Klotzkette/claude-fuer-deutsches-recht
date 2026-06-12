@@ -27,7 +27,7 @@ Dieser Dokumenten-Intake für **Umweltrecht** ordnet Anlagen, Registerdaten, Kor
 
 - `abfall-anlagen-bimschg` — Abfall Anlagen Bimschg
 - `abfall-circular-economy` — Abfall Circular Economy
-- `anlagen-abschlussprodukt-und-uebergabe` — Anlagen Abschlussprodukt und Uebergabe
+- `anlagen-abschlussprodukt-und-uebergabe` — Anlagen Abschlussprodukt und Übergabe
 - `bimschg-tatbestand-beweis-und-belege` — Bimschg Tatbestand Beweis und Belege
 - `boden-csddd-csrd-sonderfall` — Boden Csddd CSRD Sonderfall
 - `bussgeld-emissionshandel-tehg-uwr` — Bussgeld Emissionshandel Tehg UWR

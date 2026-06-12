@@ -59,7 +59,7 @@ Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 - **Koschaker Europa und das roemische Recht**.
 - **MPI Frankfurt Digitalisat-Sammlung**.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Norm?
 2. Welcher Teil/Titel/§?

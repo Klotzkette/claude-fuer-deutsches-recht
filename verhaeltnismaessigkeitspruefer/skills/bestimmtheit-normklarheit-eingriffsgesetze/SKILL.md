@@ -5,7 +5,7 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 
 # Bestimmtheit und Normklarheit
 
-> Eingriffsgesetze müssen so klar sein, dass Buerger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden können. Diese Anforderung ist Vorfrage jeder Verhaeltnismaessigkeitspruefung.
+> Eingriffsgesetze müssen so klar sein, dass Buerger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden können. Diese Anforderung ist Vorfrage jeder Verhältnismäßigkeitspruefung.
 
 ## Dogmatische Verortung
 
@@ -35,9 +35,9 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 
 - BVerfGE 71, 108 (Anti-Atomkraft-Sitzblockade): Konkretisierung des Gewaltbegriffs.
 - BVerfGE 92, 1 (Sitzblockade II): Bestimmtheit der Noetigung Paragraf 240 StGB.
-- BVerfGE 126, 170 (Untreue): Bestimmtheit der Vermoegensbetreuungspflicht Paragraf 266 StGB.
+- BVerfGE 126, 170 (Untreue): Bestimmtheit der Vermögensbetreuungspflicht Paragraf 266 StGB.
 
-## Pruefraster
+## Prüfraster
 
 1. Tatbestand ablesbar (was loest den Eingriff aus)?
 2. Eingriffsfolge bestimmbar (Reichweite, Dauer, Schwelle)?
@@ -45,9 +45,9 @@ description: "Verfassungsrechtliche Bestimmtheits- und Normklarheitsanforderunge
 4. Gibt es Auslegungsmassstaebe (Rechtsprechung, Gesetzesbegruendung)?
 5. Sind verfahrensrechtliche Sicherungen vorgesehen (Richtervorbehalt, Loeschung, Protokollierung)?
 
-## Verhaeltnis zur Verhaeltnismaessigkeitspruefung
+## Verhältnis zur Verhältnismäßigkeitspruefung
 
-Wenn ein Gesetz bereits an der Bestimmtheit scheitert, kommt die Verhaeltnismaessigkeitspruefung nicht zum Zug. Diese Vorfrage hat eigenstaendige Funktion und ist nicht in der Stufe 4 aufgegangen.
+Wenn ein Gesetz bereits an der Bestimmtheit scheitert, kommt die Verhältnismäßigkeitspruefung nicht zum Zug. Diese Vorfrage hat eigenstaendige Funktion und ist nicht in der Stufe 4 aufgegangen.
 
 ## Quellen mit Schlagwort
 

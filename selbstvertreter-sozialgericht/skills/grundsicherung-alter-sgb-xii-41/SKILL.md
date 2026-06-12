@@ -21,7 +21,7 @@ description: "Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. 
 ## Bedarfspruefung
 
 - Einkommen und Vermögen.
-- Vermoegensfreibetrag (aktuell 10000 Euro Alleinstehende, 20000 Euro Paar — verifizieren).
+- Vermögensfreibetrag (aktuell 10000 Euro Alleinstehende, 20000 Euro Paar — verifizieren).
 - Schonvermoegen: angemessenes Hausgrundstueck.
 
 ## Berechnung
@@ -35,7 +35,7 @@ description: "Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. 
 - Bei der Stadt oder Gemeinde (oertlicher Traeger der Sozialhilfe).
 - Anlage zu Einkommen Vermögen Wohnverhaeltnisse.
 
-## Pruefraster
+## Prüfraster
 
 1. Altersgrenze oder EM?
 2. Bedarfspruefung erfolgt?

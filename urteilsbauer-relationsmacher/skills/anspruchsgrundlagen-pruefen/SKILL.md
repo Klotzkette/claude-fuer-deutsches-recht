@@ -66,7 +66,7 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 5. **Bereicherungsrechtlich** (Paragraf 812 ff BGB)
 6. **Familien- / erbrechtlich** soweit einschlaegig
 
-## Pruefschema für jede Anspruchsgrundlage
+## Prüfschema für jede Anspruchsgrundlage
 
 1. Anwendbarkeit (sachlich, persönlich, raeumlich, zeitlich)
 2. Tatbestandsmerkmale - bei jedem: Wer hat die Beweislast?

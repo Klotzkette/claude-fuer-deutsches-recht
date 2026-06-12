@@ -3,7 +3,7 @@ name: susa-anlagenkonten-ueberblick
 description: "Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abgleich. Output Anlagen-Kontenuebersicht mit Buchwerten."
 ---
 
-# Anlagenkonten in der SuSa — Ueberblick und Abstimmung
+# Anlagenkonten in der SuSa — Überblick und Abstimmung
 
 ## Fachlicher Anker
 
@@ -120,7 +120,7 @@ Stand: 05/2026.
 - EStG §§ 6, 7, 7b, 7g.
 - BMF AfA-Tabellen.
 - IDW PS 480.
-- Hinweis: § 7b EStG Förderung laeuft bis Bauantraege vor 01.10.2029; keine gesetzliche Aenderung 2026.
+- Hinweis: § 7b EStG Förderung laeuft bis Bauantraege vor 01.10.2029; keine gesetzliche Änderung 2026.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent seit JStG 2020 stabil.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (§ 7b bis 2029, GWG 800 EUR stabil, Sammelposten 250-1000 EUR stabil, § 7g 40%/50% stabil, BMF AfA-Tabelle AV 15.12.2000), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->

@@ -1,6 +1,6 @@
 ---
 name: duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation
-description: "Anwendung der DueV in roten Gebieten Niedersachsen mit Paragraf 13a DueV und EuGH C-543/16 als Massstab. Pruefraster Stickstoffobergrenze 170 kg Derogation Sanktionsstruktur."
+description: "Anwendung der DueV in roten Gebieten Niedersachsen mit Paragraf 13a DueV und EuGH C-543/16 als Maßstab. Prüfraster Stickstoffobergrenze 170 kg Derogation Sanktionsstruktur."
 ---
 
 # Duengeverordnung Rote Gebiete Paragraf 13a Duev Derogation

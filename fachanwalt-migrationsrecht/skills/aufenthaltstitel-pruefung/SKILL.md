@@ -1,9 +1,9 @@
 ---
 name: aufenthaltstitel-pruefung
-description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten: Prüfraster Aufenthaltstitel nach AufenthG Visum..."
+description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten: Prüfraster Aufenthaltstitel nach AufenthG Visum..."
 ---
 
-# Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten
+# Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Abl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
+**Fokus:** Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst.
 
 ### Aufenthaltstitel-Prüfung
 
@@ -107,8 +107,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Aufenthaltstitel-Prüfung | Pruef-Protokoll; Template unten |
-| Variante A — Aufenthalts-Aenderung durch Familienstand | Abgeleitetes Aufenthaltsrecht prüfen; Familiennachzug |
+| Standard — Aufenthaltstitel-Prüfung | Prüf-Protokoll; Template unten |
+| Variante A — Aufenthalts-Änderung durch Familienstand | Abgeleitetes Aufenthaltsrecht prüfen; Familiennachzug |
 | Variante B — Niederlassungserlaubnis angestrebt | § 9 AufenthG Voraussetzungen prüfen; Sprachkenntnisse |
 | Variante C — Aufenthaltsrecht durch EU-Freizuegigkeit | FreizuegG/EU statt AufenthG; andere Rechtslage |
 
@@ -340,7 +340,7 @@ Stand 05/2026. AufenthG, AsylG, BeschV und Fachkräfteeinwanderungsgesetz im Man
 
 Aktuelle Linie zur Dublin-Zuständigkeit: EuGH, Urt. v. 05.03.2026 — C-458/24 (Daraa) — Zuständigkeitsübergang auf ersuchenden Mitgliedstaat nach Ablauf 6-Monatsfrist; einseitige Aussetzung der Rücknahme bewirkt keinen automatischen Übergang.
 
-## Output-Template: Aufenthaltstitel-Pruefungsmemo
+## Output-Template: Aufenthaltstitel-Prüfungsmemo
 
 **Adressat:** Mandant oder Kanzlei-intern
 **Tonfall:** Sachlich-beratend, klare Handlungsempfehlung

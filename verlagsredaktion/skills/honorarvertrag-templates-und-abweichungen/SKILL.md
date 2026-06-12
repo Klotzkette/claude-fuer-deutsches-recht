@@ -50,7 +50,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
  - Ruecktritts- und Verzugsregelungen.
  - Karenz / Konkurrenzschutz (zeitlich begrenzen!).
  - Datenschutz und Werbenutzung des Namens.
-3. **Verhandlungsabweichungen aufnehmen.** In Aenderungsvermerk-Tabelle: Klausel - alt - neu - Begruendung des Autors - Verlagsantwort.
+3. **Verhandlungsabweichungen aufnehmen.** In Änderungsvermerk-Tabelle: Klausel - alt - neu - Begruendung des Autors - Verlagsantwort.
 4. **Angemessenheitspruefung.** Bei stark abweichenden Saetzen Vergleich mit branchenueblichen Verguetungsregeln (z. B. Hinweise Boersenverein, Verbandsempfehlungen Wissenschaftsverlage).
 5. **Justiziariat einbinden** bei: Pauschalverguetung trotz hoher Auflagenerwartung, Total-Buy-Out, ungewoehnlicher Karenz, internationalem Bezug.
 6. **Schlussfassung erstellen.** Reinschrift, beidseits paraphieren und unterschreiben.
@@ -69,7 +69,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
 ## Praxistipps der alten Redaktion
 
 - Pauschalhonorar nur für Aufsaetze und kleine Werke; ab Lehrbuch Tantieme.
-- Nutzungsrechte einzeln benennen: Print, E-Book, Datenbank, Online-Kommentar, Hoerbuch, Uebersetzung, Bearbeitung.
+- Nutzungsrechte einzeln benennen: Print, E-Book, Datenbank, Online-Kommentar, Hoerbuch, Übersetzung, Bearbeitung.
 - Karenzklausel niemals laenger als zwei Jahre nach Vertragsende - sonst kartell- und berufsrechtlich problematisch.
 - Sublizenzgewinne (Datenbank-Eintrag) zumindest teilweise an Autorin auskehren - sonst später § 32a.
 - Bei Hochschullehrer: Nebentaetigkeitsregelung der Universitaet beachten, sonst hat der Dienstherr ein Wort mitzureden.
@@ -103,7 +103,7 @@ Verlage halten Standardvertraege vor: Aufsatzvertrag, Lehrbuchvertrag, Kommentar
  zwischen den Parteien geteilt.
 ```
 
-**Pruefraster Abweichungsantrag des Autors**
+**Prüfraster Abweichungsantrag des Autors**
 
 ```
 Klausel: [Nummer]

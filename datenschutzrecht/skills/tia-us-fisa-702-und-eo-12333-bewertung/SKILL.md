@@ -1,6 +1,6 @@
 ---
 name: tia-us-fisa-702-und-eo-12333-bewertung
-description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Pruefraster und Texten für Schritt 3 E..."
+description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Executive Order 12333 für das TIA. Sachstand der EuGH-Kritik aus Schrems II, Reform durch EO 14086 (DPF-Grundlage), Folgen für Cloud-Provider, electronic communication service provider Status. Mit Prüfraster und Texten für Schritt 3 E..."
 ---
 
 # US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA
@@ -37,7 +37,7 @@ description: "Bewertung der US-Ueberwachungsgrundlagen FISA Section 702 und Exec
 
 ### EuGH Schrems II – tragende Beanstandungen
 
-- FISA 702: keine ausreichende Verhaeltnismaessigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit für Betroffene aus der EU.
+- FISA 702: keine ausreichende Verhältnismäßigkeitskontrolle, keine effektive Rechtsschutzmoeglichkeit für Betroffene aus der EU.
 - EO 12333: bulk collection ohne Anlassbezug, kein Rechtsschutz.
 
 ### Bewertung post EO 14086
@@ -63,7 +63,7 @@ Baustein TIA-Schritt 3 (US):
 
 > Der Importeur ist als "electronic communication service provider" im Sinne des 50 U.S.C. § 1881(b)(4) qualifiziert (Cloud-/SaaS-Anbieter). Damit greift FISA Section 702 grundsätzlich auf seine Verarbeitungstaetigkeiten zu. Daneben besteht die Moeglichkeit der Erfassung von Daten in Transit nach Executive Order 12333.
 >
-> Mit Executive Order 14086 vom 07.10.2022 wurden Verhaeltnismaessigkeitsmassstaebe ("necessary" und "proportionate") sowie der zweistufige Rechtsschutzmechanismus (CLPO/DPRC) eingefuehrt. Der EU-US Data Privacy Framework gemäß Durchfuehrungsbeschluss (EU) 2023/1795 stuetzt sich auf diese Reformen.
+> Mit Executive Order 14086 vom 07.10.2022 wurden Verhältnismäßigkeitsmassstaebe ("necessary" und "proportionate") sowie der zweistufige Rechtsschutzmechanismus (CLPO/DPRC) eingefuehrt. Der EU-US Data Privacy Framework gemäß Durchfuehrungsbeschluss (EU) 2023/1795 stuetzt sich auf diese Reformen.
 >
 > Im konkreten Fall ist der Importeur unter dem Namen "..." mit Listing-Datum [...] aktiv im DPF gelistet; das Listing deckt [HR-/Non-HR-]Daten ab. Soweit über das DPF hinausgehend SCCs zur Anwendung kommen (z. B. Konzernuebermittlungen ausserhalb des Listings), wird eine kumulative Prüfung vorgenommen.
 >

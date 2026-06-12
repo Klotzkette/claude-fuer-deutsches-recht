@@ -1,6 +1,6 @@
 ---
 name: bewertungsspielraum-und-kontrolle
-description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Pruefungsrecht Hochschule."
+description: "Prüft Bewertungsspielraum und gerichtliche Kontrolle im Prüfungsrecht Hochschule."
 ---
 
 # Bewertungsspielraum Und Kontrolle

@@ -187,7 +187,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Output-Template: Widerspruch gegen Ausweisungsverfuegung
 
-**Adressat:** Auslaenderbehoerde [ORT] / Widerspruchsbehoerde
+**Adressat:** Ausländerbehoerde [ORT] / Widerspruchsbehoerde
 **Tonfall:** Sachlich-juristisch; Verhältnismaessigkeit und Familienschutz betonend
 
 ```

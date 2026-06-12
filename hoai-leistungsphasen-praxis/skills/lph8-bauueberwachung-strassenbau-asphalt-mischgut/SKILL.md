@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-strassenbau-asphalt-mischgut
-description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Pruefung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Pruefung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12..."
+description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Asphaltmischgut-Prüfung nach ZTV Asphalt-StB und TL Asphalt-StB, Verdichtungsgrad Kontroll-Prüfung nach ZTVE-StB, Schichtdicken-Messung mittels Bohrkerne, Ebenheitspruefung nach ZTV Asphalt-StB und Bitumengehalt-Extraktion nach DIN EN 12..."
 ---
 
 # Bauueberwachung Strassenbau Asphalt Mischgut (LPH 8)
@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Strassenbauarbeiten — Aspha
 
 Strassenbauarbeiten erfordern eine kontinuierliche Bauueberwachung des Asphaltmischguts, der Verdichtung und der Ebenheit.
 Die Bauueberwachung nach HOAI LPH 8 prüft Mischgutproben, Kernbohrungen und Ebenheitsmessung nach ZTV Asphalt-StB.
-Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspruefung und Kontrollpruefung des Auftragnehmers.
+Eigenverantwortliche Überprüfung (EUe) durch Bauueberwacher erganzt Eignungspruefung und Kontrollpruefung des Auftragnehmers.
 
 ## Bauwerk und Auftrag
 
@@ -38,12 +38,12 @@ Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspr
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
-- ZTV Asphalt-StB Zusaetzliche Technische Vertragsbedingungen: Asphaltbauweise, Pruefverfahren
+- ZTV Asphalt-StB Zusaetzliche Technische Vertragsbedingungen: Asphaltbauweise, Prüfverfahren
 - TL Asphalt-StB Technische Lieferbedingungen: Asphaltmischguttypen, Eignungspruefung
 - ZTVE-StB Anforderungen Erdarbeiten: Verdichtungsgrad, Tragfaehigkeitspruefung
-- DIN EN 12697-1 Asphalt Pruefverfahren: Loeslicher Bindemittelgehalt (Bitumengehalt-Extraktion)
+- DIN EN 12697-1 Asphalt Prüfverfahren: Loeslicher Bindemittelgehalt (Bitumengehalt-Extraktion)
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Mischguttemperatur: Stichprobenmessung je Lkw, Protokoll, ablehnen bei unter 130 Grad C
 2. Probenahme Mischgut: Gutefuehrungs-Probe je 1000 t, Laboranalyse Bitumengehalt und Koernungsband
@@ -56,7 +56,7 @@ Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspr
 
 - PlanRadar Strassenbau: Mangel-Ticket Ebenheitsmangel mit km-Position, Foto Querneigung
 - Drohnenflug DJI Mavic 3 Enterprise: orthografische Aufnahme Strassenflaeche nach Fertigstellung
-- Bohrkern-Pruefprotokoll: Labor-Bericht Raumgewicht, Verdichtungsgrad, Schichtdicke je Bohrkern
+- Bohrkern-Prüfprotokoll: Labor-Bericht Raumgewicht, Verdichtungsgrad, Schichtdicke je Bohrkern
 - Profilometer-Bericht: Laengsprofil, Querprofil, Ebenheitswert, GPS-Zuordnung
 - Mischgutlieferschein-Scan: Mischguttype, Lkw-Nr., Temperatur, Mischanlage, Zeitstempel archivieren
 
@@ -64,7 +64,7 @@ Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspr
 
 - SAP PM Strassenbauverwaltung: Equipment Strassenabschnitt km-Angabe, Wartungsplaene alle 10 Jahre
 - SAP PM Meldung M2 Ebenheitsmangel: km-Lage, Schadenscode, Kostenstelle Strassenbetrieb
-- PlanRadar Sammelreport: Pruefergebnis-Export je km-Abschnitt für Auftraggeber-Dokumentation
+- PlanRadar Sammelreport: Prüfergebnis-Export je km-Abschnitt für Auftraggeber-Dokumentation
 - RIB iTWO: Aufmass Asphaltflaeche nach qm je Schicht, Abrechnungsfreigabe nach Bohrkern-Nachweis
 - Nevaris Build: Bautagebuch Tageseinbaumengen, Maschineneinsatz, Wetterdaten, Fremdbeobachtung
 
@@ -80,6 +80,6 @@ Eigenverantwortliche Ueberpruefung (EUe) durch Bauueberwacher erganzt Eignungspr
 - [HOAI 2021 § 34](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
 - [§ 650p BGB](https://www.gesetze-im-internet.de/bgb/__650p.html)
 - [ZTV Asphalt-StB](https://www.gesetze-im-internet.de/)
-- [DIN EN 12697 Asphalt Pruefverfahren](https://www.gesetze-im-internet.de/)
+- [DIN EN 12697 Asphalt Prüfverfahren](https://www.gesetze-im-internet.de/)
 - [ZTVE-StB Erdarbeiten](https://www.gesetze-im-internet.de/)
 - [BGH VII ZR 58/11 Strassenbau Mischgut](https://dejure.org/dienste/vernetzung/rechtsprechung?Text=VII+ZR+58/11)

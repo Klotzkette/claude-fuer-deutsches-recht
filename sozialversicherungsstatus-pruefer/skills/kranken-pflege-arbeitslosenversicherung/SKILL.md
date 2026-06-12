@@ -1,6 +1,6 @@
 ---
 name: kranken-pflege-arbeitslosenversicherung
-description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige im Sozialversicherungsstatus Pruefer."
+description: "Prüft Statusfolgen je Versicherungszweig und vermeidet Gleichsetzung aller Zweige im Sozialversicherungsstatus Prüfer."
 ---
 
 # Kranken-, Pflege- und Arbeitslosenversicherung

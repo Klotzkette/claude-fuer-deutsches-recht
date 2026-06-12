@@ -30,7 +30,7 @@ description: "Norm- und Dogmatik-Skill für Formvorgaben Anzeigen Erklärungen 3
 
 ### Mustertext B2C (zulaessige Formregelung)
 
-> Erklaerungen des Kunden, insbesondere Kuendigungen, Widerrufe und Mangelanzeigen, beduerfen der Textform (z.B. E-Mail, Fax, Brief). Bei Vertraegen im elektronischen Geschaeftsverkehr über entgeltliche Leistungen kann der Kunde die Kuendigung auch über den jederzeit zugaenglichen Kuendigungsbutton des Anbieters erklaeren.
+> Erklaerungen des Kunden, insbesondere Kuendigungen, Widerrufe und Mangelanzeigen, beduerfen der Textform (z.B. E-Mail, Fax, Brief). Bei Vertraegen im elektronischen Geschäftsverkehr über entgeltliche Leistungen kann der Kunde die Kuendigung auch über den jederzeit zugaenglichen Kuendigungsbutton des Anbieters erklaeren.
 
 ## Quellenanker
 

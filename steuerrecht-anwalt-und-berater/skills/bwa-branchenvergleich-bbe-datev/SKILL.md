@@ -1,6 +1,6 @@
 ---
 name: bwa-branchenvergleich-bbe-datev
-description: "Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung."
+description: "Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erläuterung."
 ---
 
 # Branchenvergleich BBE / DATEV in der BWA
@@ -86,7 +86,7 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 - Bei niedriger EBITDA-Marge: Preisgestaltung, Sortimentsbereinigung prüfen.
 - Bei niedriger Eigenkapitalquote: Bilanzpolitik (Thesaurierung), Finanzierungsstruktur.
 
-### Phase 6 — Erlaeuterung im Quartalsgespraech
+### Phase 6 — Erläuterung im Quartalsgespraech
 
 - Branchenvergleich Praesentation an Mandant.
 - Stellen heraus: was ist Ueberdurchschnitt, was Unterdurchschnitt.

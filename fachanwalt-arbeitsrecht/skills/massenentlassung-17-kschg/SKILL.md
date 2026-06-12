@@ -28,7 +28,7 @@ description: "Fachanwalt Arbeitsrecht Massenentlassung 17 KSchG: ordnet Normen, 
 
 ## Triage — vor jeder Bearbeitung klären
 
-1. **Wie viele Arbeitnehmer hat der Betrieb?** — Betriebsbegriff nach BAG (nicht Unternehmen!): selbstaendige Organisation mit eigener Leitung, § 4 BetrVG.
+1. **Wie viele Arbeitnehmer hat der Betrieb?** — Betriebsbegriff nach BAG (nicht Unternehmen!): selbständige Organisation mit eigener Leitung, § 4 BetrVG.
 2. **Wie viele Entlassungen sind geplant, in welchem Zeitraum?** — Massgeblich: 30 Tage.
 3. **Gibt es einen Betriebsrat?** — Ohne BR: keine Konsultation, aber Anzeige bei BA zwingend; Sozialplan-Pflicht entfaellt.
 4. **Ist Insolvenz im Hintergrund?** — Bei Insolvenz: § 125 InsO vereinfacht Sozialplan; aber Anzeigepflicht bleibt bestehen.
@@ -76,9 +76,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 | EuGH | C-402/24 (Sewel) | 30.10.2025 | Verfruehte Anzeige vor Abschluss der Konsultation ist unzulaessig; 30-Tage-Sperrfrist (Art. 4 RL 98/59/EG) beginnt erst mit ordnungsgemaesser Anzeige | dejure.org Vernetzung |
 | BAG, 6. Senat | 6 AZR 155/21 | (vor 2026) | Bloss unterbliebene Uebermittlung der Abschrift nach § 17 Abs. 3 Satz 1 KSchG ist für sich allein kein zur Unwirksamkeit fuehrender Fehler | dejure.org / bundesarbeitsgericht.de |
 
-## Pruefschema Massenentlassung
+## Prüfschema Massenentlassung
 
-| Schritt | Pruefpunkt | Norm | Rechtsfolge bei Fehler |
+| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
 |---|---|---|---|
 | 1 | Schwellenwert erreicht? (Betriebsgroesse x Entlassungszahl) | § 17 Abs. 1 KSchG | Kein Anzeigeverfahren noetig |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
@@ -98,7 +98,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Gruende für die geplanten Entlassungen
 - Zahl und Berufsgruppen der zu entlassenden AN
-- Zahl und Berufsgruppen der in der Regel beschaeftigten AN
+- Zahl und Berufsgruppen der in der Regel beschäftigten AN
 - Zeitraum der geplanten Entlassungen
 - Vorgesehene Kriterien für die Auswahl der zu entlassenden AN
 - Für die Berechnung etwaiger Abfindungen vorgesehene Kriterien (§ 17 Abs. 2 S. 1 KSchG)
@@ -160,7 +160,7 @@ Anlagen:
 
 - Erzwingbar: wenn BR und AG sich nicht einigen, entscheidet **Einigungsstelle** (§ 112 Abs. 4 BetrVG)
 - Inhalt: Abfindungs-Formel, Outplacement, Qualifizierungsmassnahmen, Transfergesellschaft
-- Typische Abfindungsformel: 0.5 bis 1.0 Bruttomonatsgehaelter je Beschaeftigungsjahr
+- Typische Abfindungsformel: 0.5 bis 1.0 Bruttomonatsgehaelter je Beschäftigungsjahr
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ### Nachteilsausgleich § 113 Abs. 3 BetrVG
@@ -250,7 +250,7 @@ c) Soziale Rechtfertigung fehlt nach § 1 II KSchG.
 → Art. 2-4 RL 98/59/EG (Massenentlassungs-RL)
 ```
 
-## Fristen — Ueberblick
+## Fristen — Überblick
 
 | Frist | Dauer | Rechtsgrundlage |
 |---|---|---|

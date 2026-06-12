@@ -21,13 +21,13 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 ## Rechtlicher und methodischer Rahmen
 
 - **§ 1 NKRG** — Einsetzung beim Bundesministerium der Justiz (BMJ) gemäß § 1 Abs. 1 Satz 1 NKRG; unabhaengig nach § 1 Abs. 1 Satz 2 NKRG; Aufgabe der Unterstuetzung der Bundesregierung folgt aus § 1 Abs. 2 NKRG
-- **§ 3 NKRG** — Sekretariat (Geschaeftsstelle) des NKR ist beim BMJ angesiedelt (§ 3 Abs. 9); Rechtsaufsicht beim BMJ (§ 3 Abs. 8); das den Vorsitz fuehrende Mitglied wird vom BMJ bestimmt (§ 3 Abs. 4)
+- **§ 3 NKRG** — Sekretariat (Geschäftsstelle) des NKR ist beim BMJ angesiedelt (§ 3 Abs. 9); Rechtsaufsicht beim BMJ (§ 3 Abs. 8); das den Vorsitz fuehrende Mitglied wird vom BMJ bestimmt (§ 3 Abs. 4)
 - **§ 5 NKRG** — Auskunfts- und Akteneinsichtsrecht
 - **§ 62 GGO** — Pflicht zur NKR-Befassung
 - **GGO § 22, § 23** — Ressortabstimmung allgemein
-- Geschaeftsordnung des NKR (intern)
+- Geschäftsordnung des NKR (intern)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Stufe 1 — Informeller Kontakt
 
@@ -45,7 +45,7 @@ Rueckfrage nur wenn der Konflikt unklar ist: *"Wo hakt es konkret — Daten, Met
 
 - Wenn Nachfrage nicht beantwortet
 - Eskalation an Unterabteilungsleitung des Ressorts
-- Verweis auf NKR-Pruefpflicht und Beteiligungsverfahren
+- Verweis auf NKR-Prüfpflicht und Beteiligungsverfahren
 
 ### Stufe 4 — Eskalation an Hausleitung
 
@@ -97,6 +97,6 @@ In der Stellungnahme:
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) §§ 1, 3, 5, 6
 - §§ 22, 23, 47, 62 GGO
-- Geschaeftsordnung des NKR (intern)
+- Geschäftsordnung des NKR (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

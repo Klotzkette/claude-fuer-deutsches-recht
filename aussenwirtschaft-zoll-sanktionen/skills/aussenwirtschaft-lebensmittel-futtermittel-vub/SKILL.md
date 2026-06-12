@@ -36,7 +36,7 @@ description: "Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln un
 - **RL 2000/29/EG**: Pflanzenschutz-Einfuhrverbote.
 - **VO (EU) 142/2011**: Tierische Nebenprodukte (ANP); Einfuhrverbote.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Produkt-Einstufung (tierisch/pflanzlich) und anwendbares EU-Hygienerecht klar?
 - [ ] Grenzkontrollstelle mit amtlicher Kontrollfunktion für Produkt identifiziert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

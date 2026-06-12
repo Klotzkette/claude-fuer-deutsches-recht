@@ -17,7 +17,7 @@ Die Standard-BWA weist ein Betriebsergebnis nach Block-Logik aus. Für Steuerung
 
 ## Kaltstart-Rueckfragen
 
-1. Welche Branche und welches Geschaeftsmodell — Industrie mit Fertigung, Handel mit Lagerumschlag, Dienstleistung mit Stundensaetzen?
+1. Welche Branche und welches Geschäftsmodell — Industrie mit Fertigung, Handel mit Lagerumschlag, Dienstleistung mit Stundensaetzen?
 2. Welche Kosten sind variabel (mit Umsatz schwankend), welche fix (unabhaengig vom Umsatz)?
 3. Ist eine Stufendeckungsbeitragsrechnung gewuenscht (DB I, DB II, DB III)?
 4. Welche Ergebniskennzahlen benoetigt der Mandant — EBITDA für Banken, EBIT für interne Steuerung?
@@ -89,16 +89,16 @@ Umsatzerloese [Umsatz]
 - Sicherheitsmarge = (Ist-Umsatz minus Break-even-Umsatz) geteilt durch Ist-Umsatz.
 - Rechenbeispiel: Fixkosten 100.000 EUR, DB-Rate 40 Prozent ergibt einen Break-even-Umsatz von 250.000 EUR. Liegt der Ist-Umsatz bei 300.000 EUR, betraegt die Sicherheitsmarge rund 17 Prozent.
 
-### Phase 5 — Reporting und Erlaeuterung
+### Phase 5 — Reporting und Erläuterung
 
 - BWA mit Stufendeckung auf einer Seite.
-- Erlaeuterung Schwellenwerte: Break-even, Sicherheitsmarge.
+- Erläuterung Schwellenwerte: Break-even, Sicherheitsmarge.
 - Bei sinkendem DB I: Prüfung Wareneinsatz, Lieferantenkonditionen.
 - Bei steigenden Fixkosten ohne Umsatzaequivalent: Fixkostenstruktur hinterfragen.
 
 ### Phase 6 — Quartalsgespraech mit Mandant
 
-- DB-Struktur erlaeutern, Mandant für die Stellschrauben sensibilisieren.
+- DB-Struktur erläutern, Mandant für die Stellschrauben sensibilisieren.
 - Maßnahmen-Plan bei kritischer Marge: Preiserhoehung, Sortimentsbereinigung, Fixkostensenkung.
 
 ## Strategie und Praxis-Tipps

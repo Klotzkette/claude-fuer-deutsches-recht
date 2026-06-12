@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue
-description: "Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB: BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidung..."
+description: "Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB: BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidung..."
 ---
 
-# Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB
+# Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB
 
 
 ## Arbeitsweg
@@ -14,15 +14,15 @@ description: "Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermoegensgefaehrdung. Revisions- und Verfassungsangriff.
+**Fokus:** Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermögensgefaehrdung. Revisions- und Verfassungsangriff.
 
-### Konkrete Vermoegensgefaehrdung vs. Schaden bei Paragraph 266 StGB
+### Konkrete Vermögensgefaehrdung vs. Schaden bei Paragraph 266 StGB
 
 ## Worum geht es konkret
 
-Bei der Untreue (Paragraph 266 StGB) und auch beim Betrug (Paragraph 263 StGB) hat die Rspr. lange die **schadensgleiche Vermoegensgefaehrdung** als ausreichend angesehen. Anwendungsfall: Vorstand vergibt riskanten Kredit ohne Sicherheiten; der Kredit ist im Zeitpunkt der Vergabe noch nicht ausgefallen, aber bilanziell teilweise wertlos.
+Bei der Untreue (Paragraph 266 StGB) und auch beim Betrug (Paragraph 263 StGB) hat die Rspr. lange die **schadensgleiche Vermögensgefaehrdung** als ausreichend angesehen. Anwendungsfall: Vorstand vergibt riskanten Kredit ohne Sicherheiten; der Kredit ist im Zeitpunkt der Vergabe noch nicht ausgefallen, aber bilanziell teilweise wertlos.
 
-BVerfG 23.06.2010 (2 BvR 2559/08) hat klargestellt: Die schadensgleiche Vermoegensgefaehrdung verletzt das Bestimmtheitsgebot (Paragraph 103 Abs 2 GG), wenn der Schaden nicht konkret beziffert werden kann. Damit wurde der Anwendungsbereich verfassungsrechtlich eingeengt.
+BVerfG 23.06.2010 (2 BvR 2559/08) hat klargestellt: Die schadensgleiche Vermögensgefaehrdung verletzt das Bestimmtheitsgebot (Paragraph 103 Abs 2 GG), wenn der Schaden nicht konkret beziffert werden kann. Damit wurde der Anwendungsbereich verfassungsrechtlich eingeengt.
 
 In der Verteidigung ist die Linie zentral: Wenn der Schaden nur als "abstrakte Gefahr" beziffert wird, kann das Urteil verfassungsrechtlich angegriffen werden.
 
@@ -38,7 +38,7 @@ BVerfG verlangt:
 
 Die Entscheidung hat folgende Konstellationen erfasst: **Schwarze Kassen** (Untreue durch Anlage von Mitteln in geheimen Konten) und **Risikogeschaefte** (Untreue durch riskante Investitionen ohne Sicherheiten).
 
-### Konkrete Vermoegensgefaehrdung als Schaden
+### Konkrete Vermögensgefaehrdung als Schaden
 
 Voraussetzungen:
 
@@ -48,17 +48,17 @@ Voraussetzungen:
 
 ### Anwendungsbeispiele aus BGH-Linie
 
-- **Schwarze Kassen**: Selbst geheime Konten ohne aktuelle Vermoegensminderung können Schaden darstellen, wenn der Mittelabfluss ausserhalb der ordentlichen Buchung erfolgt.
+- **Schwarze Kassen**: Selbst geheime Konten ohne aktuelle Vermögensminderung können Schaden darstellen, wenn der Mittelabfluss ausserhalb der ordentlichen Buchung erfolgt.
 - **Risikokredite**: Wertberichtigung als Schaden anerkannt, aber konkret zu beziffern.
 - **Anlageentscheidungen**: Bei Investitionen in Hochrisiko-Anlagen (Subprime, Derivate) ist die Bewertung der Risiken zentral.
 
 ### Subjektiver Tatbestand
 
-Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH staendige Rspr.: Wer in der Risikohoehe irrt, kann Eventualvorsatz auf Vermoegensgefaehrdung haben.
+Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH staendige Rspr.: Wer in der Risikohoehe irrt, kann Eventualvorsatz auf Vermögensgefaehrdung haben.
 
 ## Praktikertipps der alten Hasen
 
-- **Schadensbeziffrung in der Anklage prüfen.** Wenn die Anklageschrift den Schaden nur abstrakt benennt ("erheblicher Vermoegensverlust"), Antrag auf Praezisierung. Ohne konkrete Bezifferung verletzt das Verfahren das Bestimmtheitsgebot.
+- **Schadensbeziffrung in der Anklage prüfen.** Wenn die Anklageschrift den Schaden nur abstrakt benennt ("erheblicher Vermögensverlust"), Antrag auf Praezisierung. Ohne konkrete Bezifferung verletzt das Verfahren das Bestimmtheitsgebot.
 - **Sachverstaendiger einholen.** Bei Risikogeschaeften ist Wirtschaftspruefer-Gutachten unverzichtbar. Methodendiskussion (IDW S 6, IDW PS 800) bestimmt das Ergebnis.
 - **Wertberichtigungs-Argument.** Verteidigung argumentiert: Wertberichtigung in der Bilanz war im Tatzeitpunkt zu hoch. Mit ex ante-Sicht (Marktbedingungen, Zinslage, Sicherheiten) realistischer Wertansatz.
 - **Spiegelbild-Vorteil.** Risikogeschaeft hat oft Vorteile (Erhaltung des Kunden, Zinsgewinn, strategische Position). Saldierung prüfen (BGH staendige Rspr.).
@@ -73,7 +73,7 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 ## Konkurrenzen
 
-- Vermoegensgefaehrdung als Schaden gilt sowohl bei Paragraph 266 StGB Untreue als auch bei Paragraph 263 StGB Betrug. Verfassungsrechtliche Bezifferbarkeit erforderlich in beiden Tatbestaenden.
+- Vermögensgefaehrdung als Schaden gilt sowohl bei Paragraph 266 StGB Untreue als auch bei Paragraph 263 StGB Betrug. Verfassungsrechtliche Bezifferbarkeit erforderlich in beiden Tatbestaenden.
 - **Paragraph 266 StGB und Paragraph 261 StGB Geldwaesche.** Bei Verbringung in schwarze Kassen ggf. Geldwaesche.
 - **Paragraph 266 StGB und Paragraph 370 AO Steuerhinterziehung.** Bei steuerlicher Verschleierung Tateinheit.
 
@@ -81,7 +81,7 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 
 - Schwellenwerte für **Regelbeispiel "großes Ausmass"** (Paragraph 263 Abs 3 Satz 2 Nr 2 StGB iVm Paragraph 266 Abs 2 StGB): BGH ca. EUR 50.000.
 - **Wertersatz nach Paragraph 73c StGB** auf konkret bezifferten Schaden.
-- **Einziehung bei Gefaehrdung**: schwierig, weil keine effektive Vermoegensminderung vorliegt. BGH-Linie: Wertersatz nur, wenn Schaden konkret eingetreten oder einziehbarer Vermoegensvorteil entstanden.
+- **Einziehung bei Gefaehrdung**: schwierig, weil keine effektive Vermögensminderung vorliegt. BGH-Linie: Wertersatz nur, wenn Schaden konkret eingetreten oder einziehbarer Vermögensvorteil entstanden.
 - **Bewaehrung Paragraph 56 StGB**: Bei verfassungsrechtlich unsicherer Bezifferung oft Bewaehrungsfaehigkeit erhalten.
 
 ## Mustertexte
@@ -95,7 +95,7 @@ Vorsatz muss die *Gefaehrdung* erfassen, nicht den endgueltigen Schaden. BGH sta
 ## Quellen Stand 06/2026
 
 - Paragraph 266 StGB im Wortlaut (gesetze-im-internet.de).
-- BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue; schadensgleiche Vermoegensgefaehrdung).
+- BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue; schadensgleiche Vermögensgefaehrdung).
 - BVerfG 07.12.2011 - 2 BvR 2500/09 (Anwendung auf Betrug Paragraph 263 StGB).
 - BGH staendige Rspr. zur konkreten Schadensbeziffrung beim BGH-Stufenmodell.
 - BGH staendige Rspr. zu schwarzen Kassen und Untreue.

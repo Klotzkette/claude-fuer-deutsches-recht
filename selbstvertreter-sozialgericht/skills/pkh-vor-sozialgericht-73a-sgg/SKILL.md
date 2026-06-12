@@ -90,7 +90,7 @@ Anlagen:
 
 Das Formular gibt es:
 
-- Beim Sozialgericht (Geschaeftsstelle)
+- Beim Sozialgericht (Geschäftsstelle)
 - Online: www.justiz.de oder PDF-Suche "PKH Vordruck"
 - Im Anwaltsbuero
 
@@ -136,7 +136,7 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 
 ## Typische Fehler
 
-- PKH ohne Erfolgsaussicht-Erlaeuterung → Klagebegruendung mitliefern
+- PKH ohne Erfolgsaussicht-Erläuterung → Klagebegruendung mitliefern
 - PKH-Erklaerung unvollstaendig → alle Felder und Belege
 - Keinen Anwalt → ohne Anwalt keine Beiordnung; Sie können sich selbst vertreten
 - Anwalt akzeptiert PKH-Mandat nicht → anderen Anwalt fragen

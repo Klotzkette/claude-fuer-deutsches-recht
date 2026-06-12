@@ -1,6 +1,6 @@
 ---
 name: plattform-notice-upload-art17
-description: "Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu."
+description: "Prüft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie im Urheberrecht De Eu."
 ---
 
 # Notice, Takedown und Restore

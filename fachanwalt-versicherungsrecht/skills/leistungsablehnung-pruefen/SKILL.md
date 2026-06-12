@@ -71,7 +71,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Widerspruch gegen Leistungsablehnung | Widerspruchsschreiben nach Pruefschema; Template unten |
+| Standard — Widerspruch gegen Leistungsablehnung | Widerspruchsschreiben nach Prüfschema; Template unten |
 | Variante A — Ablehnung formell begruendet Unterlagen fehlen | Unterlagen nachreichen; kein Widerspruch noetig |
 | Variante B — Ablehnung materiell Rechtsfrage streitig | Widerspruch mit Rechtsgutachten; ggf. Klage vorbereiten |
 | Variante C — Versicherungsombudsmann als guenstigere Alternative | Ombudsmann-Beschwerde statt Widerspruch bei kleinen Betraegen |
@@ -124,7 +124,7 @@ Mit kollegialen Gruessen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

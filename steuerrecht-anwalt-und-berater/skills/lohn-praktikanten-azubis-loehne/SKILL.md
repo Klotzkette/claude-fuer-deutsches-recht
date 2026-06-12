@@ -111,4 +111,4 @@ Stand: 05/2026.
 - Mindest-Ausbildungsverguetung 2025: 682 EUR/Monat im 1. Ausbildungsjahr (§ 17 Abs. 2 BBiG; Wert 2026 über BMBF prüfen).
 - SvEV-Sachbezugswerte jaehrlich angepasst (Stand 2025: Verpflegung 313 EUR/Monat; über BMAS prüfen).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mindest-Ausbildungsverguetung 2025 682 EUR eingesetzt), 1 ersetzt (Geringverdienergrenze Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (Mindest-Ausbildungsverguetung 2025 682 EUR eingesetzt), 1 ersetzt (Geringverdienergrenze Prüfhinweis ohne Marker) -->

@@ -84,7 +84,7 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 ## Anwendung im deutschen Zivilrecht (als kritische Aussensicht)
 
-**Beispiel "objektive Wertungen" der Wertungsjurisprudenz:** CLS-Frage: Wer bestimmt, was eine "objektive Wertung" ist? Wessen Perspektive geht in die "Wertordnung" ein? Konkretisierungen von § 138 BGB durch BGH und BVerfG sind nicht wertneutral; sie privilegieren bestimmte Lebensentwuerfe und Vermoegensverteilungen.
+**Beispiel "objektive Wertungen" der Wertungsjurisprudenz:** CLS-Frage: Wer bestimmt, was eine "objektive Wertung" ist? Wessen Perspektive geht in die "Wertordnung" ein? Konkretisierungen von § 138 BGB durch BGH und BVerfG sind nicht wertneutral; sie privilegieren bestimmte Lebensentwuerfe und Vermögensverteilungen.
 
 **Beispiel AGB-Kontrolle und Vertragsfreiheit:** Legal Realism: Wer entscheidet, wie die Inhaltskontrolle ausgeuebt wird? Welche Werte stehen hinter "Unangemessenheit"? Pro-konsumentenfreundliche Auslegung schuetzt Verbraucher, schmaelert aber Unternehmensautonomie — das ist politische Wahl, keine logische Notwendigkeit.
 
@@ -106,10 +106,10 @@ Kernsatz: "The prophecies of what the courts will do in fact, and nothing more p
 
 - **Legal Realism als Nihilismus.** Holmes wollte nicht die Norm abschaffen, sondern realistisch beschreiben, wie sie wirkt. Recht bleibt verbindlich; aber wir müssen ehrlich darueber sein, wie es entsteht.
 - **CLS als blosses Anklagen.** CLS-Kritik ist konstruktiv: Sie will alternative Rechtsmodelle anregen, nicht nur das bestehende dekonstruieren.
-- **Uebertragung 1:1.** Das US-Common-Law-System ist anders als das deutsche Kodifikationssystem. CLS-Argumente müssen uebersetzt werden.
+- **Uebertragung 1:1.** Das US-Common-Law-System ist anders als das deutsche Kodifikationssystem. CLS-Argumente müssen übersetzt werden.
 - **CLS und Wertungsjurisprudenz verwechseln.** Wertungsjurisprudenz (Larenz, Canaris) sieht Wertungen als "objektiv" oder grundrechtlich gebunden; CLS sieht Wertungen als kontingent und machtgebunden.
 
-**Verteidigung der deutschen Tradition:** Die deutsche Wertungsjurisprudenz hat über die Grundrechtsbindung einen wertenden Rahmen, der nicht beliebig ist. Das BVerfG kontrolliert Auslegungen am Massstab des Grundgesetzes; das ist mehr als blosse Politik.
+**Verteidigung der deutschen Tradition:** Die deutsche Wertungsjurisprudenz hat über die Grundrechtsbindung einen wertenden Rahmen, der nicht beliebig ist. Das BVerfG kontrolliert Auslegungen am Maßstab des Grundgesetzes; das ist mehr als blosse Politik.
 
 **Kritik aus der Diskurstheorie (Alexy):** CLS uebertreibt den Indeterminismus. Auch wenn Recht nicht streng determiniert ist, gibt es rationale Argumentationsstandards, die über Beliebigkeit hinausreichen.
 

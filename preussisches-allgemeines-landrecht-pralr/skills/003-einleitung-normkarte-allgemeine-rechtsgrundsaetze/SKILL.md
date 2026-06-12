@@ -43,12 +43,12 @@ description: "PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze: prüft k
 ## Konkreter ALR-Stoff: Einleitung
 
 ### Aufbau der Einleitung
-Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation. Sie regelt allgemeine Rechtssatzlehre (Auslegung, Subsidiaritaet, Gewohnheitsrecht), das Verhaeltnis von Privatrecht und Staatszweck und Grundsaetze des Polizeistaats nach aufgeklaert-absolutistischem Modell.
+Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation. Sie regelt allgemeine Rechtssatzlehre (Auslegung, Subsidiaritaet, Gewohnheitsrecht), das Verhältnis von Privatrecht und Staatszweck und Grundsaetze des Polizeistaats nach aufgeklaert-absolutistischem Modell.
 
 ### Wichtige Paragraphen
-- **Einl. §§ 1-7 ALR** Verhaeltnis von Gesetz, Provinzialrecht, Statutarrecht und Gewohnheit; Subsidiaritaet des ALR gegenueber Provinzialrechten ("Soweit das Provinzial- oder Statutar-Recht nichts entgegengesetztes enthaelt, hat das Allgemeine Landrecht subsidiarische Kraft").
+- **Einl. §§ 1-7 ALR** Verhältnis von Gesetz, Provinzialrecht, Statutarrecht und Gewohnheit; Subsidiaritaet des ALR gegenueber Provinzialrechten ("Soweit das Provinzial- oder Statutar-Recht nichts entgegengesetztes enthaelt, hat das Allgemeine Landrecht subsidiarische Kraft").
 - **Einl. §§ 46-58 ALR** Auslegung der Gesetze nach Wortlaut, Sinn, Absicht des Gesetzgebers; ausdrueckliche Erwaehnung des Grundsatzes 'In dubio pro reo' bzw. 'in dubio mitius'.
-- **Einl. §§ 73-89 ALR** Verhaeltnis Individualrecht zu Staatswohl. Hier sitzt der heute beruehmte Aufopferungsgedanke.
+- **Einl. §§ 73-89 ALR** Verhältnis Individualrecht zu Staatswohl. Hier sitzt der heute beruehmte Aufopferungsgedanke.
 - **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
 - **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden." — Anker des Aufopferungsanspruchs.
 
@@ -60,7 +60,7 @@ Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation.
 - **Carl Gottlieb Svarez** (Hauptredaktor) und **Ernst Ferdinand Klein**, Theoretiker des aufgeklaerten Polizeirechts.
 - **Mueller-Arnold-Fall** (1779/1789): Friedrich II. setzte Justiz unter Druck im Mueller-Arnold-Streit; war Auslöser für die Justizreform, die das ALR vorbereitete.
 
-### Pruefraster
+### Prüfraster
 1. Provinzialrecht / Statutarrecht / Gewohnheit vor ALR? — Einl. §§ 1-7 abarbeiten.
 2. Liegt eine Aufopferungslage vor? — Einl. §§ 74, 75 mit BGB §§ 904, 906 II 2 vergleichen.
 3. Heute lebende Norm oder rein historisch? — Live-Check im Digitalisat plus juris.

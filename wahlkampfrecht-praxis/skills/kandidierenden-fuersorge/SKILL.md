@@ -3,7 +3,7 @@ name: kandidierenden-fuersorge
 description: "Wahlkampfrecht Praxis: Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen im Wahlkampfrecht."
 ---
 
-# Kandidierenden Fuersorge
+# Kandidierenden Fürsorge
 
 ## Normenanker
 
@@ -31,9 +31,9 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Kandidierenden Fuersorge
+## Fachkern: Kandidierenden Fürsorge
 
-- **Wahlkampflage (Kandidierenden Fuersorge):** Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen.
+- **Wahlkampflage (Kandidierenden Fürsorge):** Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.

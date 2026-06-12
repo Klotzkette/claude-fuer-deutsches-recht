@@ -32,7 +32,7 @@ description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Manda
 
 Standard-Fragenraster für Marken-, Patent-, Design- und Wettbewerbsrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Marken, Designs, Patente, UWG-Abmahnung, Lizenz, Domain
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)

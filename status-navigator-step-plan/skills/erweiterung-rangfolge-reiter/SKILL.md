@@ -12,6 +12,6 @@ Optionaler Reiter Rangfolge bei mehreren Finanzierungsinstrumenten. Senior Secur
 LausitzStorage Rangfolge: Senior-Darlehen NordCap (besichert durch Grundschulden und Verpfaendung der Anteile) > Konsortial-Darlehen Stadtwerke Cottbus (besichert durch Sicherungsabtretung Stromabnahmevertrag) > Wandeldarlehen NordCap (unbesichert, nachrangig nach § 39 InsO automatisch nicht — aber vertraglich subordiniert) > Gesellschafter-Stundungen Bauernfeind privat.
 
 ## Output-Module
-- Rangfolge-Reiter mit Spalten Instrument, Glaeubiger, Volumen, Sicherheit, Rang
+- Rangfolge-Reiter mit Spalten Instrument, Gläubiger, Volumen, Sicherheit, Rang
 - Hinweis-Spalte mit Quellnachweis (welche Klausel begruendet den Rang)
 - Pflichthinweis auf anwaltliche Prüfung insolvenzrechtlicher Rangfragen

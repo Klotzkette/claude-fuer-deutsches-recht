@@ -33,7 +33,7 @@ description: "Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. 
 
 ### Pflegezeit § 3 PflegeZG
 - Bis zu 6 Monate vollstaendige oder teilweise Freistellung.
-- Anspruch ab 16 Beschaeftigten.
+- Anspruch ab 16 Beschäftigten.
 
 ### Familienpflegezeit § 2 FPfZG
 - Bis zu 24 Monate Reduzierung auf 15 Stunden.
@@ -42,7 +42,7 @@ description: "Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. 
 - 10 Tage Freistellung bei akuter Pflegesituation.
 - Pflegeunterstuetzungsgeld der Pflegekasse.
 
-## Pruefraster
+## Prüfraster
 
 1. Pflegekurs gebucht?
 2. Beratungsanspruch genutzt?

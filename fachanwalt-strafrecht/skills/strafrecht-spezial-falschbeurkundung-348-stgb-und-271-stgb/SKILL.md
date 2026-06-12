@@ -14,7 +14,7 @@ description: "Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Fa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
+**Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft für und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Ausländerbehoerde Schiffsregister. Konkurrenzen.
 
 ### Falschbeurkundung im Amt Paragraph 348 StGB und mittelbare Falschbeurkundung Paragraph 271 StGB
 
@@ -25,7 +25,7 @@ Die beiden Paragraphen schuetzen die **Beweiskraft öffentlicher Urkunden** vor 
 - **Paragraph 348 StGB** sanktioniert den Amtstraeger, der innerhalb seiner Zuständigkeit eine rechtserhebliche Tatsache als wahr beurkundet, obwohl sie falsch ist.
 - **Paragraph 271 StGB** sanktioniert den Privaten, der einen Amtstraeger zur Falschbeurkundung veranlasst.
 
-Geschuetztes Rechtsgut: Beweiskraft öffentlicher Urkunden für und gegen jedermann (Paragraph 415 ZPO). Anwendungsfaelle: Standesbeamte beurkundet falsches Geburtsdatum; Notar beurkundet falsches Verkaufsdatum; Auslaenderbehoerde beurkundet falsche Identitaet; Schiffsregister beurkundet falschen Schiffseigner; Grundbuchamt beurkundet falsche Eigentuemerangabe.
+Geschuetztes Rechtsgut: Beweiskraft öffentlicher Urkunden für und gegen jedermann (Paragraph 415 ZPO). Anwendungsfaelle: Standesbeamte beurkundet falsches Geburtsdatum; Notar beurkundet falsches Verkaufsdatum; Ausländerbehoerde beurkundet falsche Identitaet; Schiffsregister beurkundet falschen Schiffseigner; Grundbuchamt beurkundet falsche Eigentuemerangabe.
 
 ## Tatbestand und Auslegung
 
@@ -80,7 +80,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 
 - **Paragraph 348 StGB und Paragraph 267 StGB Urkundenfaelschung.** Spezialitaet — Faelschung **echter** Urkunde ist Paragraph 267 StGB; Beurkundung **falschen Inhalts** ist Paragraph 348 StGB.
 - **Paragraph 271 StGB und Paragraph 267 StGB.** Tatmehrheit möglich.
-- **Paragraph 271 StGB und Paragraph 263 StGB Betrug.** Tateinheit, wenn neben falscher Beurkundung Vermoegensschaden eintritt.
+- **Paragraph 271 StGB und Paragraph 263 StGB Betrug.** Tateinheit, wenn neben falscher Beurkundung Vermögensschaden eintritt.
 - **Paragraph 271 StGB und Paragraph 95 AufenthG.** Konkurrenz bei Scheinehe-Erschleichung von Aufenthaltsrecht.
 - **Paragraph 271 StGB und Paragraph 145d StGB Vortaeuschen.** Tatmehrheit möglich.
 
@@ -92,7 +92,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer öffentlichen Behörde inne
 - **Disziplinarrechtliche Folgen** für Amtstraeger; Entfernung aus dem Dienst möglich.
 - **Berufsverbot Paragraph 70 StGB** möglich.
 - BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
-- Bei Auslaender: Ausweisungsrisiko bei Aufenthaltserschleichung.
+- Bei Ausländer: Ausweisungsrisiko bei Aufenthaltserschleichung.
 
 ## Mustertexte
 

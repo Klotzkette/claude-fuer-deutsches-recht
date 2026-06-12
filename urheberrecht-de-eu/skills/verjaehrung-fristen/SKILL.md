@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristen
-description: "Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu."
+description: "Prüft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen im Urheberrecht De Eu."
 ---
 
 # Verjährung, Dringlichkeit und Fristen

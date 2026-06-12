@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -131,8 +131,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 | Kartellrecht Phase-I-Frist | Kalender + Behörden-Kontakt | Woechentlich | 5 Werktage vor Ablauf | Regulatory |
 | FDI-Anmeldefrist (§ 56 AWV) | Signing-Datum + 2 Monate | Automatisch | Sofort bei 14 Tagen vor Frist | Legal |
 | Datenraum-Neuzugaenge | DR-Plattform API / E-Mail-Alert | Taegliche Zusammenfassung | Wenn Material-Dokument eingestellt | DD-Lead |
-| Gesellschafterlisten-Update | HR-System / Notar | Post-Closing | Bei Aenderung | Corporate-Lead |
-| Transparenzregister | Transparenzregister API | Quartalsweise | Bei Aenderung UBO | GwG-Officer |
+| Gesellschafterlisten-Update | HR-System / Notar | Post-Closing | Bei Änderung | Corporate-Lead |
+| Transparenzregister | Transparenzregister API | Quartalsweise | Bei Änderung UBO | GwG-Officer |
 | MAR-Signal | Nachrichten-Feed + Bloomberg | Echtzeit (werktags) | Bei Kursrelevanz-Verdacht | Kapitalmarkt-Partner |
 
 ## Schritt-für-Schritt-Workflow

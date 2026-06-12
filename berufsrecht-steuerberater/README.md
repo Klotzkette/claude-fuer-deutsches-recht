@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -238,10 +238,10 @@ Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschre
 | `unterlagenherausgabe-und-zurueckbehaltung-organis` | Steuerberater: unterlagenherausgabe und zurueckbehaltung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Ste... |
 | `unterlagenherausgabe-und-zurueckbehaltung-rechtsp` | Steuerberater: unterlagenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerbe... |
 | `unterlagenherausgabe-zurueckbehaltung` | Steuerberater: unterlagenherausgabe und zurueckbehaltung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
-| `vermoegensverfall-steuerberater-kaltstart-und-faktenmatrix` | Steuerberater: vermoegensverfall steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
-| `vermoegensverfall-steuerberater-kammerantwort` | Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
-| `vermoegensverfall-steuerberater-organisationspflicht` | Steuerberater: vermoegensverfall steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
-| `vermoegensverfall-steuerberater-rechtsprechungscheck` | Steuerberater: vermoegensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
+| `vermoegensverfall-steuerberater-kaltstart-und-faktenmatrix` | Steuerberater: vermögensverfall steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
+| `vermoegensverfall-steuerberater-kammerantwort` | Steuerberater: vermögensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
+| `vermoegensverfall-steuerberater-organisationspflicht` | Steuerberater: vermögensverfall steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
+| `vermoegensverfall-steuerberater-rechtsprechungscheck` | Steuerberater: vermögensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `verschwiegenheit-cloud-datev` | Steuerberater: verschwiegenheit cloud und datev - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `verschwiegenheit-cloud-und-datev-organisationspfl` | Steuerberater: verschwiegenheit cloud und datev - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |
 | `verschwiegenheit-cloud-und-datev-rechtsprechungsc` | Steuerberater: verschwiegenheit cloud und datev - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater. |

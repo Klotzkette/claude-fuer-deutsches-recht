@@ -51,7 +51,7 @@ Die Schiedsstelle nach § 18a KHG entscheidet, wenn sich Krankenhaus und Kostent
 |---|---|---|
 | begrenzter Streit, gute Datengrundlage | Schiedsstelle anrufen, schnelle Loesung | Planungssicherheit |
 | breite Datenlage strittig | Sachverstaendigengutachten | tiefe Prüfung, hoehere Kosten |
-| Klage nach Entscheidung | hoehere Pruefdichte VG | Verfahrensdauer |
+| Klage nach Entscheidung | hoehere Prüfdichte VG | Verfahrensdauer |
 | Vergleich vor Entscheidung | Risikominderung | Kompromiss noetig |
 
 ## Praxistipps

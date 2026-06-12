@@ -1,13 +1,13 @@
 ---
 name: terminvorbereitung-checkliste
-description: "Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schluesselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten."
+description: "Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schlüsselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten."
 ---
 
 # Termin im Amtsgericht: So bereiten Sie sich vor
 
 ## Worum geht es?
 
-Die muendliche Verhandlung ist der Hoehepunkt des Verfahrens. Hier entscheidet das Gericht — oder wird Vergleich verhandelt. Gute Vorbereitung kann über Erfolg oder Misserfolg entscheiden. Diese Skill ist Ihre Checkliste.
+Die muendliche Verhandlung ist der Höhepunkt des Verfahrens. Hier entscheidet das Gericht — oder wird Vergleich verhandelt. Gute Vorbereitung kann über Erfolg oder Misserfolg entscheiden. Diese Skill ist Ihre Checkliste.
 
 ## Wann brauchen Sie diese Skill?
 

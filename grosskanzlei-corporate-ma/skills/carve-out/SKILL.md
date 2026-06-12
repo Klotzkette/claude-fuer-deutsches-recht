@@ -1,6 +1,6 @@
 ---
 name: carve-out
-description: "Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschaeftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen."
+description: "Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschäftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen."
 ---
 
 # Carve Out Separation TSA
@@ -21,7 +21,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 
 | Feld | Worum es geht |
 | --- | --- |
-| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Business perimeter, Assets, Mitarbeiter, IT/Data, Verträge, Genehmigungen, Shared Services, Timeline. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |

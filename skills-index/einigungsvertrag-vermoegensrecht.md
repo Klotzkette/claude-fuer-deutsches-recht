@@ -1,4 +1,4 @@
-# einigungsvertrag-vermoegensrecht
+# einigungsvertrag-vermögensrecht
 
 **100 Skills** · Stand `v300.0.0`
 

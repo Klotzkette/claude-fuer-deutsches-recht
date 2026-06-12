@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-royalties-assists
-description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherheb..."
+description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Prüfung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherheb..."
 ---
 
 # Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71
@@ -36,7 +36,7 @@ description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists 
 - **UZK-DA Art. 136-141**: Detailregeln für Lizenzgebuehren-Hinzurechnung.
 - **WTO-Bewertungsabkommen Art. 8**: Internationale Grundlage für Hinzurechnungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle relevanten Lizenzgebuehren identifiziert?
 - [ ] Verkaufsbedingung-Test nach UZK-DA Art. 136 angewendet?
@@ -49,7 +49,7 @@ description: "Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists 
 
 - Lizenzgebuehren an Konzernmutter gelten fast immer als Verkaufsbedingung.
 - Markenlizenz für Weiterverkauf können ebenfalls hinzurechnungspflichtig sein.
-- Assists werden haeufig vergessen; Konzerninterne Beistellungen besonders pruefanfaellig.
+- Assists werden haeufig vergessen; Konzerninterne Beistellungen besonders prüfanfaellig.
 - Nacherhebung rueckwirkend bis zu 10 Jahre bei arglistiger Verschweigung.
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

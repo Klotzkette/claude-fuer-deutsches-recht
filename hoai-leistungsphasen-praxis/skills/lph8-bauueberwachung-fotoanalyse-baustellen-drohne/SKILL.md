@@ -15,7 +15,7 @@ description: "Methodikskill HOAI LPH 8 — Strukturierter für die Fotoanalyse v
 
 ## Spezialwissen
 
-Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation großer Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern massstabstreue Orthofotos für As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
+Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geworden: Sie ermöglichen die flaechendeckende Dokumentation großer Baustellen in wenigen Stunden, decken Maengel auf, die vom Boden aus unsichtbar sind, und liefern maßstabstreue Orthofotos für As-Built-Dokumentation und Aufmass. Dieser Skill beschreibt den vollstaendigen von der Flugplanung bis zur SAP-PM-Meldungserstellung.
 
 ## Bauwerk und Auftrag
 
@@ -39,12 +39,12 @@ Drohnenbefliegungen sind zum unverzichtbaren Werkzeug der Bauueberwachung geword
 - LuftVO 2021 Kap. 4 §§ 21a-21i: Drohnenbetrieb Kategorien offen, spezifisch, zertifiziert, Genehmigungen
 - DSGVO und BDSG: Personenbezogene Fotos Baustelle, Einwilligung Arbeitnehmer, Datenschutz-Folgeabschaetzung bei Luftaufnahmen Wohngebiete
 - VOB/B § 4 Abs. 3: Bauueberwachungspflicht, Dokumentation als Nachweis ordnungsgemaesse Leistungserbringung
-- DIN 18202 Toleranzen im Hochbau: Grenzwerte Soll-Ist Vergleich aus Orthofoto, Massstab und Messgenauigkeit
+- DIN 18202 Toleranzen im Hochbau: Grenzwerte Soll-Ist Vergleich aus Orthofoto, Maßstab und Messgenauigkeit
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. GCP-Punktgenauigkeit: Residuen nach Pix4Dmapper Bericht kleiner 2 cm horizontal und 3 cm vertikal, andernfalls Neubefliegung oder GCP nachbessern
-2. GSD-Wert Kontrollmessung: Massstabsbalken im Orthofoto, Strecke bekannter Laenge auf Baustelle gemessen, Abweichung kleiner 1.5 Prozent
+2. GSD-Wert Kontrollmessung: Maßstabsbalken im Orthofoto, Strecke bekannter Laenge auf Baustelle gemessen, Abweichung kleiner 1.5 Prozent
 3. Orthofotos vollstaendig: Keine Luecken im Kachelmosaik, nahtlose Verbindung Einzelfotos, Randbereich 10 m Ueberlappung mit Baustellen-Grenze
 4. Thermografie-Auswertung: Temperaturskala kalibriert, Emissionsgrad Material eingegeben, Hotspot definiert als Temperaturunterschied groesser 2 K zu Umgebung
 5. BIM-Vergleich: IFC-Modell Koordinate stimmt mit Orthofoto ueberein, Einmesstieferenz-Punkte GCP mindestens 4 verwendet

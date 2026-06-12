@@ -1,6 +1,6 @@
 ---
 name: formatvorlage-check-autor-manuskript
-description: "Prueft strikt die Einhaltung der Verlagsformatvorlage in Autorenmanuskripten und meldet Abweichungen so, dass der Autor sie selbst beheben kann im Verlagsredaktion."
+description: "Prüft strikt die Einhaltung der Verlagsformatvorlage in Autorenmanuskripten und meldet Abweichungen so, dass der Autor sie selbst beheben kann im Verlagsredaktion."
 ---
 
 # Formatvorlage-Check (Autor-Manuskript)

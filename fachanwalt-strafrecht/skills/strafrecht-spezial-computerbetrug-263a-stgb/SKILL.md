@@ -14,7 +14,7 @@ description: "Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manip
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off.
+**Fokus:** Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Prüfraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off.
 
 ### Computerbetrug § 263a StGB
 
@@ -26,7 +26,7 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 - Anklageschrift oder Ermittlungsschrift.
 - Technische Beweise: Logfiles, IP-Adressen, Geraete-Asservate, Forensik-Berichte.
-- Vermoegensschaden, Geschaedigter (Bank, Kunde, Plattform).
+- Vermögensschaden, Geschaedigter (Bank, Kunde, Plattform).
 - Rolle Mandant: Taeter, Mittaeter, Helfer.
 
 ## Tatbestand und Auslegung
@@ -41,7 +41,7 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 ### Erfolg
 
 - **Beeinflussung des Ergebnisses eines Datenverarbeitungsvorgangs.** Computer trifft Verfuegung statt Mensch.
-- **Vermoegensschaden** wie § 263 StGB.
+- **Vermögensschaden** wie § 263 StGB.
 
 ### Subjektiver Tatbestand
 
@@ -96,13 +96,13 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 ### Bestreiten Bereicherungsabsicht
 
-"Eine Bereicherungsabsicht des Mandanten ist nicht ersichtlich. Der Mandant hat die Zugangsdaten weitergegeben in der Annahme, eine legitime Teilzahlungstransaktion zu unterstuetzen; eine eigene oder fremde Vermoegensvorteilerstrebung lag nicht vor. Der erforderliche direkte Vorsatz hinsichtlich der Bereicherung wird bestritten."
+"Eine Bereicherungsabsicht des Mandanten ist nicht ersichtlich. Der Mandant hat die Zugangsdaten weitergegeben in der Annahme, eine legitime Teilzahlungstransaktion zu unterstuetzen; eine eigene oder fremde Vermögensvorteilerstrebung lag nicht vor. Der erforderliche direkte Vorsatz hinsichtlich der Bereicherung wird bestritten."
 
 ## Quellen Stand 06/2026
 
 - § 263a StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/__263a.html.
 - BGH staendige Rspr. zur unbefugten Verwendung von Daten (betrugsspezifischer Verwendungswille); Aktenzeichen vor Verwendung verifizieren.
-- §§ 100a, 100d, 102 StPO, §§ 111b ff. StPO Vermoegensabschoepfung.
+- §§ 100a, 100d, 102 StPO, §§ 111b ff. StPO Vermögensabschoepfung.
 - §§ 73, 73b, 73c StGB.
 - BVerfG-Rspr. zur Vorratsdatenspeicherung — bei Verwendung Az. live verifizieren.
 - references/zitierweise.md.

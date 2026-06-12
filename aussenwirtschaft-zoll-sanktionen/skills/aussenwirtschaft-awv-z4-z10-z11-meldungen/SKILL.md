@@ -15,7 +15,7 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 
 ## Mandantenfall
 
-- Unternehmen gewahrt auslaendischem Tochterunternehmen Darlehen; Z11-Meldepflicht prüfen.
+- Unternehmen gewahrt ausländischem Tochterunternehmen Darlehen; Z11-Meldepflicht prüfen.
 - Kapitalanlagegesellschaft kauft Aktien einer US-Gesellschaft; Z10 vs. Z4 klären.
 - GmbH in Deutschland vergibt Gesellschafterdarlehen an Muttergesellschaft im Ausland.
 
@@ -36,7 +36,7 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 - **§ 69 AWV**: Kreditgeschaefte mit dem Ausland (Z11).
 - **AWG § 13**: Allgemeine Auskunftspflicht.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Transaktionstyp eindeutig klassifiziert?
 - [ ] Richtiges Formular (Z4/Z10/Z11) ausgewaehlt?
@@ -48,7 +48,7 @@ description: "Meldepflichten nach AWV für spezifische Formulare Z4 (Direktinves
 ## Typische Fallstricke
 
 - Gesellschafterdarlehen und Direktinvestitionsdarlehn können sowohl Z4 als auch Z11 ausloesen.
-- Wertpapiertransaktionen über auslaendische Depotbanken können trotzdem Z10-Pflicht ausloesen.
+- Wertpapiertransaktionen über ausländische Depotbanken können trotzdem Z10-Pflicht ausloesen.
 - Fristen Z4 und Z10/Z11 unterscheiden sich; Kumulierung uebersehen.
 - Automatische Verrechnung von Forderungen und Verbindlichkeiten loescht Meldepflicht nicht.
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

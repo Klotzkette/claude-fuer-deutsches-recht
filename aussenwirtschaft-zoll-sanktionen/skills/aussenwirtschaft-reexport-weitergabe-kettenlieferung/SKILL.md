@@ -26,7 +26,7 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 3. No-Russia-Clause nach Art. 12g VO 833/2014: bei Anhaenge-XI/XX/XXXV-Gueter Klausel notwendig?
 4. Catch-All-Analyse: Kenntnis von Endverwender und Endverwendung bei Weiterlieferung?
 5. Vertragspartner-Due-Diligence auf Re-Export-Muster prüfen (UAE, Tuerkei als Durchgangslaender).
-6. Re-Export-Pruefmatrix mit Risikobewertung erstellen und dokumentieren.
+6. Re-Export-Prüfmatrix mit Risikobewertung erstellen und dokumentieren.
 
 ## Rechtsrahmen
 
@@ -36,7 +36,7 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 - **§ 9 AWG**: Genehmigungen gelten für den Genehmigungsinhaber; keine automatische Weitergabe.
 - **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot gilt auch für mittelbare Weitergabe.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Gesamte Lieferkette bis zum Endverwender abgebildet?
 - [ ] BAFA-Genehmigungsbedingungen auf Weitergabeverbote geprueft?
@@ -50,7 +50,7 @@ description: "Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weiter
 - Kenntnis von offensichtlichem Re-Export-Risiko loest Catch-All aus; 'Nichtwissen wollen' genuegt nicht.
 - No-Russia-Clause fehlend bei Anhaenge-XI-Gueter-Export in Drittland ist eigenstaendiger Verstoss.
 - BAFA-Genehmigungsbedingungen schliessen Re-Export oft aus; Kaeufer muss informiert werden.
-- Kettenlieferung über mehrere EU-Länder aendert nichts an Auslosung der Genehmigungspflicht.
+- Kettenlieferung über mehrere EU-Länder ändert nichts an Auslosung der Genehmigungspflicht.
 
 ## Schnittstellen zu anderen Skills
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

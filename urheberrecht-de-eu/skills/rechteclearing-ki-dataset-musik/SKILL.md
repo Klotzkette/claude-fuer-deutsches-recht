@@ -1,6 +1,6 @@
 ---
 name: rechteclearing-ki-dataset-musik
-description: "Prueft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken im Urheberrecht De Eu."
+description: "Prüft Musikdatensätze für Training, Finetuning, Retrieval, Cover-Modelle, Voice-Modelle und Stilimitationsrisiken im Urheberrecht De Eu."
 ---
 
 # Rechteclearing KI-Dataset Musik

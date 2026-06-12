@@ -1,6 +1,6 @@
 ---
 name: zwitterrecht-historisch
-description: "Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Pruefraster."
+description: "Zwitterrecht ALR — historisch-medizinische Dimension. Skill ergaenzt die Norm um die Praxis Eintraege im Kirchenbuch Schule Standesregister und die rechtsfolgen für Eheschliessung Erbrecht Wehrdienst. Liefert rechtshistorische Prüfraster."
 ---
 
 # Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen
@@ -9,14 +9,14 @@ description: "Zwitterrecht ALR — historisch-medizinische Dimension. Skill erga
 
 ### Eintraege
 - Kirchenbuch: Eintrag bei Taufe als "Knabe" oder "Maedchen" nach elterlicher Bestimmung.
-- Bei Volljaehrigkeit: Aenderung des Eintrags wenn von Wahlrecht Gebrauch gemacht.
+- Bei Volljaehrigkeit: Änderung des Eintrags wenn von Wahlrecht Gebrauch gemacht.
 
 ### Schule
 - Geschlechtertrennung im 19. Jh. — Wahl der Schule entsprach der Geschlechtsbestimmung.
 
 ### Standesregister ab 1875
 - Personenstandsgesetz 06.02.1875: Eintragung im Geburtenregister.
-- Nach Wahl: Aenderung des Eintrags möglich (anders als nach BGB-Logik).
+- Nach Wahl: Änderung des Eintrags möglich (anders als nach BGB-Logik).
 
 ## Eherecht
 
@@ -37,7 +37,7 @@ description: "Zwitterrecht ALR — historisch-medizinische Dimension. Skill erga
 - § 22 ALR II 1: Sachverstaendige bei Drittinteressen.
 - Frueh ein gerichtsmedizinischer Erfordernisrahmen.
 
-## Pruefraster
+## Prüfraster
 
 1. Eltern oder Volljaehrigkeitswahl?
 2. Eintrag in welches Register?

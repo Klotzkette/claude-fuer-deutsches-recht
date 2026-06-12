@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kritische-infrastruktur-investment
-description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeld..."
+description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Prüfbericht und BMWK-Anmeld..."
 ---
 
 # KRITIS-Investitionspruefung: Drittstaatserwerb in kritischer Infrastruktur
@@ -26,17 +26,17 @@ description: "Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) 
 3. Anteilsschwelle 10 % bei KRITIS-Sektor bestimmen; Vollzugsverbot beachten.
 4. BMWK-Anmeldung vorbereiten: Gesellschaftsstruktur, Geschaftstaetigkeit, Sicherheitskonzept.
 5. Moegliche Auflagen und Sicherheitszusagen mit BMWK abstimmen.
-6. Closing nur nach BMWK-Freigabe oder Ablauf der Prueffrist.
+6. Closing nur nach BMWK-Freigabe oder Ablauf der Prüffrist.
 
 ## Rechtsrahmen
 
 - **AWV § 55a**: KRITIS-Investitionspruefung mit 10-%-Schwelle.
 - **AWV Anhang A**: Abschliessende Liste der KRITIS-Sektoren.
 - **AWG § 55**: Grundlage für Untersagung oder Auflagen.
-- **KRITIS-VO (Entwurf 2026)**: Geplante Verschaerfung der Pruefkriterien.
+- **KRITIS-VO (Entwurf 2026)**: Geplante Verschaerfung der Prüfkriterien.
 - **EU-Screening-VO (EU) 2019/452**: EU-Kooperationsmechanismus bei Drittstaatsinvestitionen.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Zielunternehmen in AWV Anhang A gelistetem KRITIS-Sektor?
 - [ ] Erwerber ist Drittstaatsinvestor?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

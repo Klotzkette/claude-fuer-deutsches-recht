@@ -1,6 +1,6 @@
 ---
 name: deepfake-und-ki-kennzeichnung
-description: "Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: KI-generierte Inhalte, Deepfakes und synthetische Stimmen prüfen im Wahlkampfrecht."
 ---
 
 # Deepfake Und Ki Kennzeichnung

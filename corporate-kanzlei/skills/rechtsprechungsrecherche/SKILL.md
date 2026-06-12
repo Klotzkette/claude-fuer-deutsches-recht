@@ -73,7 +73,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Rechtsprechung zu Corporate/M&A-Frage recherchieren | Recherche-und Ausgabeliste nach Template unten |
 | Variante A — Fragestellung sehr spezifisch und aktuell | Direkt in beck-online / juris suchen; Template als Ausgabeformat |
 | Variante B — Grundsatzfrage mit langer Rechtsprechungslinie | Kanoentabelle aufbauen; historische Entwicklung darstellen |
-| Variante C — auslaendisches oder EU-Recht relevant | Parallele Recherche EU-Ebene; EuGH-Urteile gesondert auflisten |
+| Variante C — ausländisches oder EU-Recht relevant | Parallele Recherche EU-Ebene; EuGH-Urteile gesondert auflisten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

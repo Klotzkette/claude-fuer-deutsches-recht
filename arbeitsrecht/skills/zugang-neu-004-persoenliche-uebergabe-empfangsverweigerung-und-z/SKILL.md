@@ -16,12 +16,12 @@ description: "Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeug
 
 **Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.
 
-### Zugang Persoenliche Uebergabe Empfangsverweigerung Und Z
+### Zugang Persoenliche Übergabe Empfangsverweigerung Und Z
 
-## Persoenliche Uebergabe
+## Persoenliche Übergabe
 
 - Arbeitgeber (oder Vertreter) uebergibt die Kuendigung direkt an den Arbeitnehmer.
-- Zugang ist mit Uebergabe gegeben (§ 130 BGB analog).
+- Zugang ist mit Übergabe gegeben (§ 130 BGB analog).
 
 ## Empfangsverweigerung
 
@@ -44,9 +44,9 @@ description: "Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeug
 - BAG, Urteil vom 22.03.2012 - 2 AZR 224/11: Zugang unter Abwesenden richtet sich nach tatsächlicher Verfügungsgewalt und gewöhnlicher Kenntnisnahmemöglichkeit; individuelle Abwesenheit löst eher § 5 KSchG aus als fehlenden Zugang.
 - Für jede Kündigungsakte zusätzlich § 623 BGB (Schriftform), § 130 BGB (Zugang), § 4 KSchG (Dreiwochenfrist) und die Botendokumentation prüfen.
 
-## Pruefraster
+## Prüfraster
 
-1. Uebergabe versucht?
+1. Übergabe versucht?
 2. Verweigerung dokumentiert?
 3. Zeuge vorhanden?
 4. Grund der Verweigerung?

@@ -1,6 +1,6 @@
 ---
 name: rechtschreibung-amtlich-aktuell
-description: "Prueft die amtliche deutsche Rechtschreibung in Verlagsmanuskripten nach dem aktuellen Duden-Stand und dem amtlichen Regelwerk inklusive Eigennamen und Sondereinrichtungen im Verlagsredaktion."
+description: "Prüft die amtliche deutsche Rechtschreibung in Verlagsmanuskripten nach dem aktuellen Duden-Stand und dem amtlichen Regelwerk inklusive Eigennamen und Sondereinrichtungen im Verlagsredaktion."
 ---
 
 # Rechtschreibung amtlich-aktuell

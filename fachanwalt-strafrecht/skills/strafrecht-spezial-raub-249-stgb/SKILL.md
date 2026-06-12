@@ -24,7 +24,7 @@ description: "Raub nach § 249 StGB: Grundtatbestand. Wegnahme einer fremden bew
 
 Strafrahmen § 249 Abs. 1 StGB: Freiheitsstrafe nicht unter einem Jahr (bis 15 Jahre). Minder schwerer Fall § 249 Abs. 2 StGB: Freiheitsstrafe von sechs Monaten bis zu fuenf Jahren. Versuch ist strafbar (Verbrechen § 12 Abs. 1 StGB).
 
-In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 255 StGB)** zentral: Bei Wegnahme durch den Taeter (selbst nehmen) liegt § 249 StGB vor; bei Vermoegensverfuegung des Opfers (Herausgabe) liegt §§ 253, 255 StGB vor.
+In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 255 StGB)** zentral: Bei Wegnahme durch den Taeter (selbst nehmen) liegt § 249 StGB vor; bei Vermögensverfuegung des Opfers (Herausgabe) liegt §§ 253, 255 StGB vor.
 
 ## Tatbestand und Auslegung
 
@@ -48,7 +48,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 
 **Drohung mit gegenwaertiger Gefahr für Leib oder Leben:** Die Gefahr muss unmittelbar bevorstehen. Die Drohung kann ausdruecklich oder konkludent (Vorzeigen einer Waffe) erfolgen. **Streitig:** Drohung mit kuenftiger Gewalt – Abgrenzung zur Erpressung.
 
-**Wegnahme vs. Vermoegensverfuegung – Abgrenzung Raub / raeuberische Erpressung:**
+**Wegnahme vs. Vermögensverfuegung – Abgrenzung Raub / raeuberische Erpressung:**
 
 - **Raub:** Der Taeter nimmt selbst die Sache an sich. Opfer ist passiv oder kann sich nicht wehren.
 - **Raeuberische Erpressung:** Das Opfer haendigt aktiv die Sache aus. Opfer ist Handelnder.

@@ -57,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -78,9 +78,9 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `asylg-dokumentenmatrix-und-lueckenliste` | Asylg: Dokumentenmatrix, Lückenliste und Nachforderung: Asylg: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `aufenthalt-paragraf-25a-aufenthg` | Aufenthalt § 25a AufenthG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `aufenthaltsstatus-frist-und-rechtsmittel` | Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output: Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt... |
-| `aufenthaltstitel-antrag` | Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Auslaenderbehoerde: Typen § 4 AufenthG Visum Aufenthaltserlaubnis... |
+| `aufenthaltstitel-antrag` | Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Ausländerbehoerde: Typen § 4 AufenthG Visum Aufenthaltserlaubnis... |
 | `aufenthaltstitel-fristennotiz-und-naechster-schritt` | Aufenthaltstitel: Fristennotiz und nächster Schritt: Aufenthaltstitel: Fristennotiz und nächster Schritt. |
-| `aufenthaltstitel-pruefung` | Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten: Prüfraster Aufenthaltstitel nach AufenthG Visum... |
+| `aufenthaltstitel-pruefung` | Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Ausländerbehoerde erhalten: Prüfraster Aufenthaltstitel nach AufenthG Visum... |
 | `aufenthg-fristen-form-und-zustaendigkeit` | Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg: Aufenthg: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `ausbildungsduldung` | Ausbildungsduldung: Fachmodul im Migrationsrecht: prüft Ausbildung, Identität, Ausschlüsse, Fristen, Anschlussaufenthalt; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `ausweisung-abwaegung` | Ausweisung Abwägung: Fachmodul im Migrationsrecht: prüft §§ 53 ff. AufenthG, Bleibeinteressen, Familie, Straftat, Prognose; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -111,7 +111,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `einstieg-routing` | Einstieg, Triage und Routing für Fachanwalt Migrationsrecht: ordnet Rolle (Mandant Ausländer/Geflüchteter, ABH, BAMF), markiert Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.), wählt Norm (AufenthG, FreizügG/EU, AsylG, StAG, Aufenthaltsv... |
 | `einstieg-schnelltriage-fallrouting` | Einstieg, Schnelltriage und Fallrouting im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, S... |
 | `elternnachzug` | Elternnachzug: Fachmodul im Migrationsrecht: prüft Minderjährige Schutzberechtigte, außergewöhnliche Härte, Sicherung; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: St... |
+| `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: St... |
 | `erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel. |
 | `erwerbsmigration-fachkraefte-paragraf-18b-aufenthg` | Erwerbsmigration Fachkraefte Paragraf 18b Aufenthg: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `eu-freizuegigkeit-art-7-rl-2004-38-eugh-c-247-20` | EU Freizuegigkeit Art 7 Rl 2004 38 EuGH C 247 20: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
@@ -141,10 +141,10 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `migr-asyl-folge-und-zweitantrag-spezial` | Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage: Antragsbegruendung, Erfolgschancen, Eilantrag Aufschiebende Wirkung. Mu... |
 | `migr-asylverfahren-anhoerung-leitfaden` | Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung: Pru... |
 | `migr-aufenthaltstitel-uebersicht` | Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU: Übersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Nied... |
-| `migr-ausweisung-abschiebung-spezial` | Spezialfall Ausweisung und Abschiebung §§ 53 ff: AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhältnismäßigkeit Art. 8 EMRK, EuGH Ziebell. Pruefraster für Anhörung und Klage. |
-| `migr-duldung-und-spurwechsel-spezial` | Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19d AufenthG Beschaeftigungsduldung, § 25b AufenthG nachhaltige Integration, neues Chancen-Aufenthaltsrecht: Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19... |
+| `migr-ausweisung-abschiebung-spezial` | Spezialfall Ausweisung und Abschiebung §§ 53 ff: AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhältnismäßigkeit Art. 8 EMRK, EuGH Ziebell. Prüfraster für Anhörung und Klage. |
+| `migr-duldung-und-spurwechsel-spezial` | Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19d AufenthG Beschäftigungsduldung, § 25b AufenthG nachhaltige Integration, neues Chancen-Aufenthaltsrecht: Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19... |
 | `migr-einbuergerung-mehrstaatigkeit-spezial` | Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung: Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaati... |
-| `migr-einfuehrung-aufenthaltszwecke` | Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschaeftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU: Migrationsrecht einfuehren... |
+| `migr-einfuehrung-aufenthaltszwecke` | Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschäftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU: Migrationsrecht einfuehren... |
 | `migr-fachkraefteeinwanderung-praxis` | Fachkraefteeinwanderung in der Praxis: Schritte vom Visum über Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung: Fachkraefteeinwanderung in der Praxis: Schritte vom V... |
 | `migr-sonderfall-edge-case` | Migr: Sonderfall und Edge-Case-Prüfung: Migr: Sonderfall und Edge-Case-Prüfung. |
 | `migration-selbststaendige` | Selbstständige Migration: Fachmodul im Migrationsrecht: prüft wirtschaftliches Interesse, Finanzierung, Businessplan, Altersvorsorge; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -153,7 +153,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `niederlassungserlaubnis` | Niederlassungserlaubnis: Fachmodul im Migrationsrecht: prüft Zeiten, Beiträge, Sprach-/Integrationsanforderungen, Ausnahmen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `notfrist-compliance-dokumentation-und-akte` | Notfrist: Compliance-Dokumentation und Aktenvermerk: Notfrist: Compliance-Dokumentation und Aktenvermerk. |
 | `opfer-zeugen-menschenhandel` | Opfer/Zeugen/Menschenhandel: Fachmodul im Migrationsrecht: prüft Schutzstatus, Kooperation, Sicherheit, Sozialleistungen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `orientierung-fachanwaltschaft-mandat` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G... |
+| `orientierung-fachanwaltschaft-mandat` | Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Migrationsrecht: stimmt Adressat (Mandant Ausländer/Geflüchteter, ABH, BAMF), Frist (§ 74 AsylG Klagefrist 2 Wochen / 1 Mon.) und Form auf den Zweck ab — typische Outputs: Klage VG, Eilantrag § 80 V VwGO, Verlä... |
 | `passbeschaffung-zumutbarkeit` | Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht: prüft Mitwirkung, Botschaftskontakt, Schutzstatus, Beweisalternativen; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `petition-migration` | Petition Migration: Fachmodul im Migrationsrecht: prüft Landtag/Bundestag, Ziel, Timing, Parallelverfahren; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
@@ -405,7 +405,7 @@ Automatisch generierte Komplett-Liste aller 386 Skills in diesem Plugin. Beschre
 | `urkunden-ehe-geburt` | Ehe-/Geburtsurkunden: Fachmodul im Migrationsrecht: prüft Echtheit, Register, Übersetzung, Legalisation/Apostille und Plausibilität; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `verfahrens-behoerden-gericht-und-registerweg` | Verfahrens: Behörden-, Gerichts- oder Registerweg: Verfahrens: Behörden-, Gerichts- oder Registerweg. |
 | `verfolgungsgrund-gfk` | GFK-Verfolgungsgrund: Fachmodul im Migrationsrecht: prüft Religion, politische Überzeugung, soziale Gruppe, Nationalität und Rasse; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
-| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergle... |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergle... |
 | `visum-national-d` | Nationales Visum D: Fachmodul im Migrationsrecht: prüft Botschaft, Unterlagen, Zweck, Finanzierung, Remonstrations-/Klageweg; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `vulnerable-personen-asyl` | Vulnerable Personen Asyl: Fachmodul im Migrationsrecht: prüft Minderjährige, Krankheit, Trauma, Folteropfer und Verfahrensgarantien; mit deutschem Recht, EU/EMRK/GFK, Belegen, Fristen und Quellencheck. |
 | `woche-mehrparteien-konflikt-und-interessen` | Woche: Mehrparteienkonflikt und Interessenmatrix: Woche: Mehrparteienkonflikt und Interessenmatrix. |

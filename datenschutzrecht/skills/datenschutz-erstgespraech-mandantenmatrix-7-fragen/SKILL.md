@@ -36,7 +36,7 @@ Stellen Sie genau **diese sieben Fragen** in der Reihenfolge. Springen Sie nicht
 4. **Risikoklasse:** Welche Datenkategorien sind betroffen? Allgemeine personenbezogene Daten, besondere Kategorien (Art. 9 DSGVO Gesundheit Religion Gewerkschaft sexuelle Orientierung biometrische Daten), Strafrechtsdaten (Art. 10 DSGVO), Minderjaehrigen-Daten (Art. 8 DSGVO)?
 5. **Vorgeschichte:** Gab es schon Vorgaenge in derselben Sache? Frueheres Bussgeld, frueherer Auskunftsantrag, fruehere Beschwerde, frueherer Schadensersatzprozess?
 6. **Mandatsziel:** Was will der Mandant erreichen? Behördenkommunikation deeskalieren, Bussgeld senken, Schadensersatz abwehren, Auskunft formal erteilen, Klage einreichen?
-7. **Geheimhaltung und Mitwirkung:** Wer im Mandantenhaus weiss bereits Bescheid? Geschaeftsfuehrung, Datenschutzbeauftragter (Art. 37 DSGVO), Betriebsrat, IT-Leitung? Wer entscheidet?
+7. **Geheimhaltung und Mitwirkung:** Wer im Mandantenhaus weiss bereits Bescheid? Geschäftsführung, Datenschutzbeauftragter (Art. 37 DSGVO), Betriebsrat, IT-Leitung? Wer entscheidet?
 
 ## Rechtlicher Rahmen
 

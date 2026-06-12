@@ -7,7 +7,7 @@ description: "Source-Code-Escrow-Vereinbarung: drei-Parteien-Vertrag Lizenzgeber
 
 ## Anwendungsfall
 
-Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschaeftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Loesung: Drei-Parteien-Escrow-Vertrag.
+Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall des Lizenzgebers (Insolvenz, Geschäftsaufgabe) braucht der Lizenznehmer Zugriff auf Source Code, um den Betrieb fortzufuehren. Loesung: Drei-Parteien-Escrow-Vertrag.
 
 ## Drei-Parteien-Struktur
 
@@ -37,7 +37,7 @@ Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall
 
 | Trigger | Definition |
 |---|---|
-| **Insolvenz Lizenzgeber** | Antrag auf Insolvenzeroeffnung; Geschaeftseinstellung |
+| **Insolvenz Lizenzgeber** | Antrag auf Insolvenzeroeffnung; Geschäftseinstellung |
 | **Wartungsausfall** | Nicht-Erfuellung der Wartungs-/Support-Pflicht waehrend > 90 Tagen |
 | **Schwere Vertragsverletzung** | Z. B. Verletzung des Lizenzgegenstands oder Insolvenzanmeldung |
 | **Verkauf Lizenzgeber** | Verkauf des IP an Dritten ohne Fortfuehrung Wartung |
@@ -51,7 +51,7 @@ Lizenznehmer macht sich von der Software des Lizenzgebers abhaengig. Bei Ausfall
 
 ## Aktualisierungspflicht
 
-> "Der Lizenzgeber hinterlegt einen aktualisierten Source Code mindestens vierteljaehrlich. Bei wesentlichen Aenderungen (neue Major-Version) Aktualisierung unverzueglich."
+> "Der Lizenzgeber hinterlegt einen aktualisierten Source Code mindestens vierteljaehrlich. Bei wesentlichen Änderungen (neue Major-Version) Aktualisierung unverzueglich."
 
 ## Verification-Klausel
 
@@ -75,7 +75,7 @@ Siehe vertiefend: `insolvenz-fortbestand-paragraf-103-inso-lizenz`.
 >
 > (2) Der Lizenzgeber aktualisiert die Hinterlegung mindestens vierteljaehrlich.
 >
-> (3) Der Verwahrer gibt die Hinterlegung an den Lizenznehmer heraus, wenn einer der folgenden Trigger eintritt: (a) Eroeffnung eines Insolvenzverfahrens über das Vermögen des Lizenzgebers; (b) Wartungsausfall über mehr als 90 zusammenhaengende Tage trotz schriftlicher Mahnung; (c) endgueltige Geschaeftsaufgabe des Lizenzgebers.
+> (3) Der Verwahrer gibt die Hinterlegung an den Lizenznehmer heraus, wenn einer der folgenden Trigger eintritt: (a) Eroeffnung eines Insolvenzverfahrens über das Vermögen des Lizenzgebers; (b) Wartungsausfall über mehr als 90 zusammenhaengende Tage trotz schriftlicher Mahnung; (c) endgueltige Geschäftsaufgabe des Lizenzgebers.
 >
 > (4) Mit Herausgabe erwirbt der Lizenznehmer das Recht, den Source Code zu nutzen, zu modifizieren und zur Wartung der Lizenzsoftware einzusetzen. Eine Weitergabe an Dritte ist ausgeschlossen.
 >

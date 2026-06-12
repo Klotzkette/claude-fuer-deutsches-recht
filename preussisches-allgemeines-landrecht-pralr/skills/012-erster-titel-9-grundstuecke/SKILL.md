@@ -40,7 +40,7 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 ### Wichtige Paragraphen
 - **ALR I 22 §§ 1 ff.** Erbpacht, Erbzinsrecht.
 - **ALR I 22 §§ 50 ff.** Bauerngueter, Ablöse.
-- **ALR I 23 §§ 1 ff.** Nachbarrechtliche Pflichten: Grenzbaeume, Grenzhecken, Traufrecht, Ueberhang.
+- **ALR I 23 §§ 1 ff.** Nachbarrechtliche Pflichten: Grenzbaeume, Grenzhecken, Traufrecht, Überhang.
 - **ALR I 23 §§ 35-50** Immissionen: Beeintraechtigung durch Rauch, Geruch, Gewerbedaempfe. Frueher Vorlaeufer von § 906 BGB.
 - **ALR I 23 §§ 80 ff.** Notweg und Wegezwang. Schon damals strittig, wie weit Privatinteresse das Eigentum belasten darf.
 
@@ -52,7 +52,7 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 ### Beruehmte Faelle / Personen
 - Nachbarprozesse waren im 19. Jh. Massenpraxis; das ALR-Nachbarrecht praegte die Dorfgerichte Preussens.
 
-### Pruefraster
+### Prüfraster
 1. Wo liegt das Grundstueck (rechtsrheinisch / linksrheinisch)? Linksrheinisch galt Code civil, nicht ALR.
 2. Eintragungen im Grundbuch (Altrecht ja/nein)?
 3. Heute Landesnachbarrecht und § 906 BGB anwenden, ALR nur als historischer Bezug.

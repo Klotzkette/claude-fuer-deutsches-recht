@@ -107,7 +107,7 @@ Gegenmassnahme: Vor LG Anwaltszwang. Skill `berufung-amtsgericht-511-zpo`, `wann
 ## Typische Fehler bei diesen Fehlern
 
 - "Ich kenne die Fehler — daher mache ich sie nicht." → Routine fuehrt zu Unaufmerksamkeit.
-- "Ich pruefe nur einmal." → Doppelpruefung schuetzt.
+- "Ich prüfe nur einmal." → Doppelpruefung schuetzt.
 
 ## Quellen und Aktualitaet
 

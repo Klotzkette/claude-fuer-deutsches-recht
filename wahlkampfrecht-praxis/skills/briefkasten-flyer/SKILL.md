@@ -1,6 +1,6 @@
 ---
 name: briefkasten-flyer
-description: "Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen prüfen im Wahlkampfrecht."
 ---
 
 # Briefkasten Flyer

@@ -37,7 +37,7 @@ Bauer schickt Kind nicht zur Schule.
 - Art. 7 GG Schulwesen.
 - SGB XII / SGB II als Erbe des Armenwesens.
 
-## Pruefraster
+## Prüfraster
 
 1. Religionsfrage?
 2. Schulfrage?

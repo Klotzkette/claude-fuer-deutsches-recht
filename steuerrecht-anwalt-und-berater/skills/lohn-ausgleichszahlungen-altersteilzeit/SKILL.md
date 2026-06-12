@@ -56,7 +56,7 @@ Die Altersteilzeit ermoeglicht AN ab 55 Jahren eine Reduzierung der Arbeitszeit 
 | Voraussetzung | Prüfung |
 |---|---|
 | Alter mind. 55 Jahre | Geburtsdatum |
-| Beschaeftigungsdauer im Betrieb | Arbeitsvertrag |
+| Beschäftigungsdauer im Betrieb | Arbeitsvertrag |
 | Reduzierung auf 50 Prozent | Vereinbarung |
 | Vereinbarung schriftlich | Vertrag liegt vor |
 | Insolvenzsicherung Wertguthaben | Bei Blockmodell zwingend |

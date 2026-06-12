@@ -60,7 +60,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Schwurgericht abgeschafft 1924.
 - Schoeffengericht heute.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welches Verfahrensprinzip?

@@ -1,6 +1,6 @@
 ---
 name: bwa-aufbau-grundlagen-mandantengespraech-uebergabe
-description: "Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steu"
+description: "Aufbau der Standard-BWA für Steuerberater erläutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steu"
 ---
 
 # Aufbau der Standard-BWA — Grundlagen für Steuerberater
@@ -91,14 +91,14 @@ Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, i
 ### Phase 4 — Plausibilisierung
 
 - Umsatzerloese gegen Vorjahres-Monatsumsatz prüfen: Abweichung mehr als 20 Prozent (Daumenregel) inhaltlich klären.
-- Materialquote (Materialeinsatz im Verhaeltnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte aus DATEV-BBE-Branchenvergleich abrufen (BBE-Datenstand typischerweise 1-2 Jahre Zeitverzug).
+- Materialquote (Materialeinsatz im Verhältnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte aus DATEV-BBE-Branchenvergleich abrufen (BBE-Datenstand typischerweise 1-2 Jahre Zeitverzug).
 - Personalquote (Personalkosten zu Umsatz): bei Dienstleistung typisch ca. 35-55 Prozent (Branchenrichtwert, Verifikation in BBE Branchenkennzahlen empfohlen).
 - Ergebnis vor Steuern auf Konsistenz zur Summen- und Saldenliste prüfen — Endsaldo der Erfolgskonten muss mit BWA uebereinstimmen.
 
-### Phase 5 — BWA-Ausgabe und Erlaeuterung
+### Phase 5 — BWA-Ausgabe und Erläuterung
 
 - BWA als PDF mit Mandantenkopf und Zeitstempel ausgeben.
-- Kurz-Erlaeuterung unter die BWA setzen (max. 5-7 Saetze): wesentliche Abweichungen, Verfahrensschritte (z.B. Schaetzung Bestand), Hinweis auf offene Punkte.
+- Kurz-Erläuterung unter die BWA setzen (max. 5-7 Saetze): wesentliche Abweichungen, Verfahrensschritte (z.B. Schaetzung Bestand), Hinweis auf offene Punkte.
 - Mandantenbezogene Hinweise zu Steuervorauszahlungen und Liquiditaet.
 
 ### Phase 6 — Archivierung GoBD-konform

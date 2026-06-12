@@ -30,7 +30,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 - Antrag jederzeit möglich.
 - Rueckwirkung der Leistung: bis zu 4 Jahre vor Antragstellung.
 
-## Verhaeltnis zum Widerspruch
+## Verhältnis zum Widerspruch
 
 - Widerspruch ist die regelmäßige Korrekturschiene.
 - Zugunstenantrag tritt erst nach Bestandskraft.
@@ -39,7 +39,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 "Hiermit beantrage ich nach § 44 SGB X die Aufhebung des bestandskraeftigen Bescheids vom [...] und Festsetzung der zu Unrecht nicht gewaehrten Sozialleistung. Begruendung: [...] Die Rueckwirkung bitte ich auf 4 Jahre festzusetzen."
 
-## Pruefraster
+## Prüfraster
 
 1. Bescheid bestandskraeftig?
 2. Rechtswidrigkeit (falsche Rechtsanwendung oder falscher Sachverhalt)?

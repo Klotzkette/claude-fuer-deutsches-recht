@@ -36,7 +36,7 @@ description: "Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: 
 - **AWV § 24**: Aufbewahrungspflichten für Screening-Ergebnisse.
 - **Art. 20 VO (EU) 2021/821**: Aufzeichnungspflichten für Exportkontrollentscheidungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle relevanten Sanktionslisten im Tool integriert und aktuell?
 - [ ] False-Positive-Rate dokumentiert und tolerierbar?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -1,6 +1,6 @@
 ---
 name: relationslinien-pruefung-im-aufsatz
-description: "Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel? im Verlagsredaktion."
+description: "Prüft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel? im Verlagsredaktion."
 ---
 
 # Relationslinien-Prüfung im Aufsatz

@@ -355,7 +355,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
 5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
-## Output-Template — Pruefergebnis
+## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — HOCHRISIKO BESTAETIGT END TO END ROADMAP

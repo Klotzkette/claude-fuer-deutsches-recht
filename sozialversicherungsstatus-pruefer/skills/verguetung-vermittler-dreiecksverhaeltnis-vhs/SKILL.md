@@ -1,6 +1,6 @@
 ---
 name: verguetung-vermittler-dreiecksverhaeltnis-vhs
-description: "Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance im Sozialversicherungsstatus Pruefer."
+description: "Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance im Sozialversicherungsstatus Prüfer."
 ---
 
 # Vergütung Zeit oder Erfolg

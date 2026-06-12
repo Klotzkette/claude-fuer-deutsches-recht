@@ -1,11 +1,11 @@
 ---
 name: bmwsb-energetische-sanierung-und-geg
-description: "Sachbereich Energetische Sanierung (GEG) im Geschaeftsbereich BMWSB: Normbestand (GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.); Akteure (BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.); EU-Bezug (EPBD; EU-Energieeffizienz-RL.); typische Legistik-Aufgaben und Pruefpu..."
+description: "Sachbereich Energetische Sanierung (GEG) im Geschäftsbereich BMWSB: Normbestand (GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.); Akteure (BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.); EU-Bezug (EPBD; EU-Energieeffizienz-RL.); typische Legistik-Aufgaben und Prüfpu..."
 ---
 
 # Energetische Sanierung (GEG) (BMWSB)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Energetische Sanierung (GEG) im Geschaeftsbereich BMWSB. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Energetische Sanierung (GEG) im Geschäftsbereich BMWSB. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Energetische Sanierung (GEG) im Geschaeftsbereich BMWS
 
 Kernbestand des Sachfelds: GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Akzeptanz im Bestand; soziale Vertraeglichkeit; Mietrecht-Schnittstelle (Modernisierungs-umlage).
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

@@ -80,7 +80,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Erforderlichkeit einer Verarbeitung dokumentieren | Zwei-Stufen-Prüfung nach Art. 5 Abs. 1 lit. c DSGVO; Template unten |
 | Variante A — Verarbeitung klar nicht erforderlich | Stoppen empfehlen; Alternative vorschlagen |
 | Variante B — Grenzfall mit starkem Interesse | Interessenabwaegung vertiefen; ausfuehrlichere Dokumentation |
-| Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Massstab; gesonderte Rechtsgrundlage noetig |
+| Variante C — besondere Kategorie (Art. 9 DSGVO) | Erhoehter Maßstab; gesonderte Rechtsgrundlage noetig |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

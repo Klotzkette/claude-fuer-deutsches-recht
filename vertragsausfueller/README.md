@@ -93,7 +93,7 @@ Das Plugin erzeugt keine Track-Changes- oder Redline-Fassung stillschweigend. Es
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -117,19 +117,19 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fassungen-sonderfall-und-edge-case` | Fassungen: Sonderfall und Edge-Case-Prüfung im Vertragsausfueller. |
 | `felder-behoerden-gericht-und-registerweg` | Felder: Behörden-, Gerichts- oder Registerweg im Vertragsausfueller. |
 | `feldinventar-fragebogen-input` | Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsve... |
-| `fragebogen-input-leitfaden` | Leitfaden Fragebogen-Input für Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster für UX-Tests im Vertragsausfueller. |
-| `fremdsprachige-vertraege-bilingual` | Spezialfall fremdsprachige und bilinguale Verträge: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte im Vertragsa... |
+| `fragebogen-input-leitfaden` | Leitfaden Fragebogen-Input für Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Prüfraster für UX-Tests im Vertragsausfueller. |
+| `fremdsprachige-vertraege-bilingual` | Spezialfall fremdsprachige und bilinguale Verträge: Sprache für rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Übersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Prüfraster und Mustertexte im Vertragsa... |
 | `fuehren-interessen-mappen-nachfrage` | Fuehren: Mehrparteienkonflikt und Interessenmatrix im Vertragsausfueller. |
 | `klauselentscheidung` | Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden m... |
 | `kommandocenter-mehrsprachige-vertraege` | Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht... |
-| `konzern-rahmenvertrag-anpassen` | Spezialfall Rahmenvertrag im Konzern anpassen ohne Aenderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Pruefraster für Aenderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte im Vertragsausfu... |
+| `konzern-rahmenvertrag-anpassen` | Spezialfall Rahmenvertrag im Konzern anpassen ohne Änderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Prüfraster für Änderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte im Vertragsausfu... |
 | `mandantenkommunikation-redteam-qualitygate` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Vertragsausfueller. |
 | `mappen-zahlen-schwellen-und-berechnung` | Mappen: Zahlen, Schwellenwerte und Berechnung im Vertragsausfueller. |
-| `mehrsprachige-vertraege-spezial` | Spezialfall mehrsprachige Verträge deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster für internationale Mandate im Vertragsausfueller. |
+| `mehrsprachige-vertraege-spezial` | Spezialfall mehrsprachige Verträge deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Übersetzungsfehler. Prüfraster für internationale Mandate im Vertragsausfueller. |
 | `nachfrage-abschlussprodukt-und-uebergabe` | Nachfrage: Abschlussprodukt und Übergabe im Vertragsausfueller. |
 | `neue-rueckfragen-strippen` | Neue: Internationaler Bezug und Schnittstellen im Vertragsausfueller. |
 | `output-waehlen` | Output-Wahl für Vertragsausfüller: stimmt Adressat (Vertragsparteien, Berater), Frist (Schriftform/Textform-Fristen) und Form auf den Zweck ab — typische Outputs: Ausgefüllter Vertrag mit kommentierten Lücken, Issue List, Risikomemo. |
-| `platzhalterlogik-bauleiter` | Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Pruefraster für Templatebau und Fehlerquellen im Vertragsausfueller. |
+| `platzhalterlogik-bauleiter` | Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Prüfraster für Templatebau und Fehlerquellen im Vertragsausfueller. |
 | `plausibilitaetscheck-termsheet` | Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klaus... |
 | `quality-gate-redline-qa` | Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-30... |
 | `quellen-livecheck` | Quellen-Live-Check für Vertragsausfüller: prüft Normen (BGB AT, BGB BT, AGB-Recht §§ 305 ff. BGB) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt zuständige Stelle und Quellenhygiene nach references/quellenhygiene... |
@@ -146,7 +146,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `track-changes-nur-nach-frage` | Track Changes und Redline nur nach ausdrücklicher Bestätigung erstellen: Anwendungsfall überarbeiteter Vertrag soll als Track-Changes-Fassung ausgegeben werden; Skill fragt vorher explizit nach Bestätigung. §§ 145 ff. BGB Änderungsverhan... |
 | `track-mandantenkommunikation-entscheidungsvorlage` | Track: Mandantenkommunikation und Entscheidungsvorlage im Vertragsausfueller. |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Vertragsausfüller: trennt fehlende Tatsachen von fehlenden Belegen (Vertragsentwurf, Mustervertrag, Anlagen), nennt pro Lücke Beweisthema, Beschaffungsweg (zuständige Stelle), Frist und Ersatznachweis. |
-| `vaf-versionierung-aenderungsverfolgung-spezial` | Spezialfall Versionierung und Aenderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff: Pruefraster f... |
+| `vaf-versionierung-aenderungsverfolgung-spezial` | Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff: Prüfraster f... |
 | `vertraege-formular-portal-und-einreichung` | Verträge: Formular, Portal und Einreichungslogik im Vertragsausfueller. |
 | `vertragsausfueller-erstpruefung-und-mandatsziel` | Vertragsausfueller: Erstprüfung, Rollenklärung und Mandatsziel im Vertragsausfueller. |
 | `vorlagen-vertragsausfueller-vaf-altvertrag` | Vorlagen: Fristen, Form, Zuständigkeit und Rechtsweg im Vertragsausfueller. |

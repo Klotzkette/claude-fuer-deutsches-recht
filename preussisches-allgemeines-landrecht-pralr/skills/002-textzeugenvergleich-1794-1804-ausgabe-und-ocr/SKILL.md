@@ -31,7 +31,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Wichtige Editionen
 
 - **Editio princeps 1794**: Erstausgabe; verschiedene Drucker (Decker, Stettin).
-- **Revision 1804**: kleinere redaktionelle Aenderungen, einige Sondervorschriften.
+- **Revision 1804**: kleinere redaktionelle Änderungen, einige Sondervorschriften.
 - **Ausgabe Hattenhauer 1996**: maszgebliche moderne Edition, Modernisierung der Orthographie.
 - **Digitalisate**: deutschen-digitale-bibliothek.de, opinioiuris.de.
 
@@ -39,7 +39,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Geringfuegig in den meisten Paragraphen.
 - Bei Paragraphennummerierung: kann verschoben sein.
-- Wortlaut-Aenderungen markiert.
+- Wortlaut-Änderungen markiert.
 - Vor Zitat im Mandat verifizieren.
 
 ## OCR-Probleme
@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - "ey/ei" (z. B. "Eheleute" vs "Eheleyte").
 - Zahlen in roemischen Ziffern.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Ausgabe?
 2. OCR oder Original-Scan?

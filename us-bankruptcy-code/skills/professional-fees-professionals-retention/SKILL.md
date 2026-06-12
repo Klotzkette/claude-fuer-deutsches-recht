@@ -1,6 +1,6 @@
 ---
 name: professional-fees-professionals-retention
-description: "Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code."
+description: "Prüft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures im US Bankruptcy Code."
 ---
 
 # Professional Fees § 330

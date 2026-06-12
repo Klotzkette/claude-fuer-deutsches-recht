@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-trade-finance-lc-guarantees
-description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster für Bank-Compliance und Handelsfinanzieru..."
+description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Prüfraster für Bank-Compliance und Handelsfinanzieru..."
 ---
 
 # Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote
@@ -36,7 +36,7 @@ description: "Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrument
 - **§ 18 AWG**: Strafbarkeit bei verbotener Finanzhilfe an sanktionierte Entitaeten.
 - **UZK Art. 87**: Zollwertbescheinigung und Dokumentationspflicht bei Trade-Finance.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle Trade-Finance-Beteiligten gegen Sanktionslisten geprueft?
 - [ ] Finanzhilfe-Verbote für Bestimmungsland relevant?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

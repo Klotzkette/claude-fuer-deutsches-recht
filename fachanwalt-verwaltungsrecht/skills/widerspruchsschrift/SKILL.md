@@ -136,7 +136,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Widerspruch gegen Verwaltungsakt einlegen | Widerspruchsschrift nach Pruefschema; Template unten |
+| Standard — Widerspruch gegen Verwaltungsakt einlegen | Widerspruchsschrift nach Prüfschema; Template unten |
 | Variante A — Widerspruchsverfahren nicht Pflicht direkter Klageweg | Klagefrist prüfen; ggf. direkt Anfechtungsklage ohne Widerspruch |
 | Variante B — Mandant will Widerspruch nur zur Fristwahrung | Kurzwiderspruch ohne Begruendung zuerst; Begruendung nachreichen |
 | Variante C — Behörde zeigt Kooperationsbereitschaft | Informelles Gespraech vor Widerspruch; Widerspruch als letzte Option |
@@ -298,7 +298,7 @@ nach Einlegung des Widerspruchs eine Anhörung nachgeholt haben.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

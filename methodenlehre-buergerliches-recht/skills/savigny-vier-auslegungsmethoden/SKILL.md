@@ -1,6 +1,6 @@
 ---
 name: savigny-vier-auslegungsmethoden
-description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert..."
+description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhältnis zur modernen pragmatischen Auslegung. Klaert, warum die BGH-Rechtsprechung keine starre Rangfolge anerkennt. Liefert..."
 ---
 
 # Savigny und der Vierer-Kanon der Auslegung
@@ -13,7 +13,7 @@ description: "Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, 
 
 ## Worum geht es?
 
-Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer für alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhaeltnis und verweist auf die spezialisierten Skills für jede einzelne Methode.
+Friedrich Carl von Savigny (1779-1861) hat im ersten Band des "System des heutigen Roemischen Rechts" (Berlin 1840) die vier klassischen Auslegungselemente formuliert, die bis heute das Geruest jeder juristischen Auslegung in Deutschland bilden. Diese Skill ist die Eingangstuer für alle Auslegungsfragen: Sie ordnet die vier Elemente, klaert ihr Verhältnis und verweist auf die spezialisierten Skills für jede einzelne Methode.
 
 Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, sondern von "Elementen" einer einheitlichen Auslegung, die zusammen wirken. Erst die Spaetrezeption hat daraus den modernen Kanon der vier Auslegungsmethoden gemacht.
 
@@ -32,7 +32,7 @@ Wichtig: Savigny sprach nicht von "Methoden" im Sinne austauschbarer Werkzeuge, 
 **Hauptwerk:** "System des heutigen Roemischen Rechts", 8 Baende, 1840-1849. Die Auslegungslehre steht im ersten Band, §§ 32 bis 37. Savigny entwickelt dort vier Elemente:
 
 1. Grammatisches Element (Wortlaut nach Sprachgesetzen).
-2. Logisches Element (Verhaeltnis der Teile des Gedankens zueinander).
+2. Logisches Element (Verhältnis der Teile des Gedankens zueinander).
 3. Historisches Element (Zustand des Rechts zur Zeit des Gesetzes, Wirkung des Gesetzes auf den Zustand).
 4. Systematisches Element (Verbindung zu allen Rechtsinstituten und Rechtsregeln in einem großen Ganzen).
 
@@ -45,7 +45,7 @@ Der moderne Kanon heisst entsprechend: **Wortlaut, Systematik, Historie, Telos**
 Beispiel § 433 BGB (Kaufvertrag):
 
 - **Wortlaut:** "Kaufsache" und "Kaufpreis" sind keine Definitionen, sondern Begriffe mit allgemein- und fachsprachlicher Bedeutung.
-- **Systematik:** Stellung im Buch 2 BGB, Abschnitt 8, Titel 1; Verhaeltnis zu §§ 311 Abs. 1, 241 BGB.
+- **Systematik:** Stellung im Buch 2 BGB, Abschnitt 8, Titel 1; Verhältnis zu §§ 311 Abs. 1, 241 BGB.
 - **Historie:** Gesetzesmaterialien des BGB von 1900, Schuldrechtsmodernisierung 2002 (BT-Drs. 14/6040).
 - **Telos:** Synallagmatische Verknuepfung von Sach- und Geldleistung, Erfuellungs- und Gewaehrleistungsfunktion.
 
@@ -55,7 +55,7 @@ Die Rechtsprechung des BGH erkennt keine starre Rangfolge an. In stRspr. wird de
 
 1. **Norm und Streitfrage benennen.** Welche Tatbestandsmerkmale sind streitig?
 2. **Wortlaut prüfen** (siehe Skill `wortlaut-grammatikalische-auslegung`). Allgemein- oder Fachsprache? Wortlaut-Grenze beachten.
-3. **System prüfen** (siehe Skill `systematische-auslegung`). Stellung im Gesetz, Verweisungen, Ueberschriften, Verhaeltnis zu Spezial- und Generalnormen.
+3. **System prüfen** (siehe Skill `systematische-auslegung`). Stellung im Gesetz, Verweisungen, Ueberschriften, Verhältnis zu Spezial- und Generalnormen.
 4. **Historie prüfen** (siehe Skill `historische-auslegung`). Materialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen.
 5. **Telos prüfen** (siehe Skill `teleologische-auslegung`). Schutzzweck, Funktion, ratio legis.
 6. **Querschnittskanones** (siehe Skill `verfassungs-und-unionsrechtskonforme-auslegung`).

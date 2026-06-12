@@ -1,6 +1,6 @@
 ---
 name: klausel-mindestlizenzen-meldungen-audit
-description: "Mindestlizenzen, Reporting, Audit-Recht: Berichtspflichten quartalsweise, jaehrliche Pruefer-Audit, Strafzinsen bei Verzug, Beschraenkung Audit-Frequenz. Mit Mustertext und Eskalationsstufen."
+description: "Mindestlizenzen, Reporting, Audit-Recht: Berichtspflichten quartalsweise, jaehrliche Prüfer-Audit, Strafzinsen bei Verzug, Beschraenkung Audit-Frequenz. Mit Mustertext und Eskalationsstufen."
 ---
 
 # Klausel Mindestlizenzen, Meldungen, Audit
@@ -25,7 +25,7 @@ Quartalsweise Bericht; jaehrlicher Compliance-Bericht.
 
 ### C. Audit-Recht
 
-> "Der Lizenzgeber ist berechtigt, einmal pro Kalenderjahr nach Voranmeldung von mindestens 14 Tagen durch einen oder eine vereidigte Wirtschaftspruefer:in die Berechnung der Lizenzgebuehren beim Lizenznehmer zu prüfen. Die Pruefkosten traegt der Lizenzgeber, es sei denn, das Audit ergibt eine Abweichung von mehr als 5 % zulasten des Lizenzgebers; in diesem Fall traegt der Lizenznehmer die Pruefkosten und die festgestellte Differenz nebst Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz."
+> "Der Lizenzgeber ist berechtigt, einmal pro Kalenderjahr nach Voranmeldung von mindestens 14 Tagen durch einen oder eine vereidigte Wirtschaftspruefer:in die Berechnung der Lizenzgebuehren beim Lizenznehmer zu prüfen. Die Prüfkosten traegt der Lizenzgeber, es sei denn, das Audit ergibt eine Abweichung von mehr als 5 % zulasten des Lizenzgebers; in diesem Fall traegt der Lizenznehmer die Prüfkosten und die festgestellte Differenz nebst Verzugszinsen in Höhe von 9 Prozentpunkten über dem Basiszinssatz."
 
 ## Eskalationsstufen bei Berichts-/Zahlungsverzug
 

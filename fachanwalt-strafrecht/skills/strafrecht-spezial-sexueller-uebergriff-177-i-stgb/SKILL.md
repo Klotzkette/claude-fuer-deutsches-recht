@@ -57,7 +57,7 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 **Erheblichkeitsschwelle:** § 184h Nr. 1 StGB verlangt sexuelle Handlung "von einigem Gewicht". Bei nur kurzer leichter Beruehrung kann § 184i StGB (sexuelle Belaestigung) einschlaegig sein – Strafrahmen Geldstrafe oder Freiheitsstrafe bis zwei Jahre. Abgrenzung wichtig für den Strafrahmen.
 
-**Erkennbarkeit aus Sicht des Taeters:** **Objektiver Massstab** – wuerde ein durchschnittlicher Beobachter die Aeusserung als Ablehnung verstehen. Subjektive Wahrnehmungsstoerungen des Taeters (Alkohol, Wunschdenken) entlasten nicht ohne weiteres; sie können aber im Rahmen des § 16 StGB beruecksichtigt werden.
+**Erkennbarkeit aus Sicht des Taeters:** **Objektiver Maßstab** – wuerde ein durchschnittlicher Beobachter die Aeusserung als Ablehnung verstehen. Subjektive Wahrnehmungsstoerungen des Taeters (Alkohol, Wunschdenken) entlasten nicht ohne weiteres; sie können aber im Rahmen des § 16 StGB beruecksichtigt werden.
 
 **Vorbeziehung und Tatdynamik:** Bei vorbestehender Beziehung mit einvernehmlichen sexuellen Kontakten muss der Wille einer "Nein"-Position klar geaeussert sein. **Vergangenes Einverstaendnis ist kein Pauschalkonsens.**
 

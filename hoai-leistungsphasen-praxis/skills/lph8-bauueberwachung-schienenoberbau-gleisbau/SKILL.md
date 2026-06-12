@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-schienenoberbau-gleisbau
-description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Pruefung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Pra..."
+description: "Bauueberwachung nach HOAI LPH 8 für Schienenoberbau und Gleisbauarbeiten — Lagetoleranzen und Oberbau-Prüfung nach RIL 820 der DB AG, Schweissnahtpruefung Schienenstoss nach DIN EN 14730, Schotterqualitaet nach EN 13450, Spurweiten-Einhaltung und Gleisgeometrie-Messung mit Gleismessfahrzeug. Pra..."
 ---
 
 # Bauueberwachung Schienenoberbau Gleisbau (LPH 8)
@@ -38,16 +38,16 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
-- DB RIL 820 Oberbauarbeiten: Ausfuehrungs- und Pruefvorschriften Schienenoberbau
+- DB RIL 820 Oberbauarbeiten: Ausfuehrungs- und Prüfvorschriften Schienenoberbau
 - DIN EN 14730-1 Schweissen von Schienen: Abbrennstumpfschweissen, Thermitschweissen
 - DIN EN 13450 Gleisschotter: Gueteanforderungen, Korngroesse, Angaben der Abriebfestigkeit
 - DIN EN 13674-1 Schienen: Vignolschienen ab 46 kg/m, Werksbescheinigung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Schienenguete: CE-Zertifikat nach EN 13674-1, Biege-Zugfestigkeit, Haerteklasse HH oder HHT
 2. Schweissnahtpruefung: Ultraschall-Prüfung 100 Prozent je Stoss, kein interner Fehler ue3 mm
-3. Spurweite: Pruefliste je 25 m-Abschnitt, Toleranz +/-3 mm, Aufzeichnung Messprotokoll
+3. Spurweite: Prüfliste je 25 m-Abschnitt, Toleranz +/-3 mm, Aufzeichnung Messprotokoll
 4. Schotterqualitaet: Siebkurvenanalyse je 500 m3-Einbau, Korngroesse 31.5/63 mm eingehalten
 5. Gleisgeometrie nach Messtag: Verwindungsgrenzwerte, Pfeilhoehenabweichung, Spurerweiterung
 6. Schweissnahtschleifen: Höhe nach Schleifen +/-0.5 mm, Schliffbild-Protokoll je Stoss
@@ -56,7 +56,7 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 
 - Dalux Field Gleisbau: Schweissnahtriss-Ticket mit km-Position, Foto, Verantwortlicher, Frist
 - Drohnenflug DJI Mavic 3 Enterprise: Gleisanlage-Luftaufnahme ortho, Weichenbereich, Einschnitte
-- Schweissnaht-Pruefprotokoll UT: Bericht je Stoss, GPS-km-Angabe, Prueferqualifikation EN 9712
+- Schweissnaht-Prüfprotokoll UT: Bericht je Stoss, GPS-km-Angabe, Prüferqualifikation EN 9712
 - Gleismessbericht RIL 820: Tabelle Messstreifen-Auswertung, Grenzwert-Verletzungen, km-Lage
 - Schienen-Werksbescheinigung EN 13674-1: Chargenbezeichnung, Haerteklasse, Biege-Zugfestigkeit
 
@@ -66,7 +66,7 @@ Gleismessfahrzeuge der DB AG messen die Gleisgeometrie nach RIL 820 und geben Gr
 - SAP PM Meldung M1 Gleisfehler: Schweissnahtfehler UT, Equipment-Nr., Prioritaet 1-Sofort
 - SAP PS Projektsystem: Vorgang Gleisbau je km-Abschnitt, Kosten und Termine, Meilensteine
 - RIB iTWO: Aufmass Schienen nach Meter, Schottereinbau nach m3, Einheitspreisabrechnung
-- Dalux ERP-Export: Schweissnaht-Pruefberichte als PDF-Sammelreport für DB-Bahnbetriebsleiter
+- Dalux ERP-Export: Schweissnaht-Prüfberichte als PDF-Sammelreport für DB-Bahnbetriebsleiter
 
 ## Typische Fallstricke
 

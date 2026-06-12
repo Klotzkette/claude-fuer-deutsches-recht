@@ -1,6 +1,6 @@
 ---
 name: dba-oesterreich
-description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output..."
+description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschäftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output..."
 ---
 
 # DBA Deutschland-Oesterreich
@@ -32,7 +32,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Primaernormen
 
-- **DBA Deutschland-Oesterreich vom 24.08.2000**, in Kraft seit 18.08.2002 (BGBl. 2002 II S. 734; BStBl. 2002 I S. 584). Aenderungsprotokoll vom 29.12.2010, in Kraft 01.03.2012 (BGBl. 2011 II S. 1209; BStBl. 2012 I S. 366). Zweites Aenderungsprotokoll vom 21.08.2023, in Kraft 28.12.2023, anwendbar ab 01.01.2024 (BGBl. 2023 II S. 335; BGBl. 2024 II S. 236).
+- **DBA Deutschland-Oesterreich vom 24.08.2000**, in Kraft seit 18.08.2002 (BGBl. 2002 II S. 734; BStBl. 2002 I S. 584). Änderungsprotokoll vom 29.12.2010, in Kraft 01.03.2012 (BGBl. 2011 II S. 1209; BStBl. 2012 I S. 366). Zweites Änderungsprotokoll vom 21.08.2023, in Kraft 28.12.2023, anwendbar ab 01.01.2024 (BGBl. 2023 II S. 335; BGBl. 2024 II S. 236).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **Konsultationsvereinbarung Grenzgaenger DE-AT** (BMF, aktualisiert 20.12.2023): Grenzzone 30 km Luftlinie; bis 31.12.2023 Toleranzregelung max. 45 Nichtrückkehrtage; ab 01.01.2024 (Protokoll 2023) Homeoffice-Tage keine schaedlichen Nicht-Rueckkehrtage mehr — schaedlich sind Tage ausserhalb der Grenzzone, max. 45 Arbeitstage bzw. 20 Prozent der tatsaechlichen Arbeitstage.
@@ -40,7 +40,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Leitentscheidungen und BMF-Schreiben
 
-- BFH-Rechtsprechung zu Ansaessigkeit bei Doppelwohnsitz: Mittelpunkt der Lebensinteressen pruefbar nach Art. 4 DBA-Oesterreich (aktuelle Entscheidungen in freier amtlicher Quelle abrufen).
+- BFH-Rechtsprechung zu Ansaessigkeit bei Doppelwohnsitz: Mittelpunkt der Lebensinteressen prüfbar nach Art. 4 DBA-Oesterreich (aktuelle Entscheidungen in freier amtlicher Quelle abrufen).
 - BMF-Konsultationsvereinbarung zur Grenzgaengerregelung DBA-Oesterreich, zuletzt aktualisiert 20.12.2023 (BMF-Schreiben IV B 2 — S 1301/22/10002 :001).
 
 ## Land-spezifisches
@@ -121,7 +121,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Erstattungsverfahren oesterreichische Quellensteuer (KESt)
 
-- **Zuständigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt für Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart für Auslaenderzuständigkeit). Aktuelle Zuständigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at prüfen.
+- **Zuständigkeit oesterreichisch**: Erstattung oesterreichischer Kapitalertragsteuer durch das **Finanzamt für Grossbetriebe** in Wien (zuvor: Finanzamt Bruck Eisenstadt Oberwart für Ausländerzuständigkeit). Aktuelle Zuständigkeit im **bmf.gv.at** und auf finanzonline.bmf.gv.at prüfen.
 - **Antragsformulare**: oesterreichische Formulare **ZS-RD1** (Rueckerstattung KESt) und **ZS-QU1** (Quellensteuerentlastung an der Quelle) — Bezeichnungen und Formulare vom Anwender mit aktuellem Stand auf bmf.gv.at zu verifizieren.
 - **Frist**: nach oesterreichischer BAO grundsätzlich **fuenf Jahre** ab Veranlagungsjahr-Ablauf — laenger als in der Schweiz, aber nicht über Jahre liegen lassen.
 - **Bearbeitungsdauer**: 6-18 Monate Standard, bei Streubesitz haeufig schneller als bei Schachtel mit Substanzpruefung.
@@ -133,7 +133,7 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 
 ### Sprache
 
-- DBA-Text auf **Deutsch** verbindlich (beide Vertragsstaaten deutschsprachig) — keine Uebersetzungsrisiken wie bei Frankreich oder Italien.
+- DBA-Text auf **Deutsch** verbindlich (beide Vertragsstaaten deutschsprachig) — keine Übersetzungsrisiken wie bei Frankreich oder Italien.
 
 ## Trade-off-Tabelle
 
@@ -167,12 +167,12 @@ Das DBA-Oesterreich ist eines der praxisrelevantesten DBA, weil Pendler-, Beteil
 >
 > Schritt 1: EU-MTRL (§ 43b EStG) vorrangig: 0 Prozent Quellensteuer in AT — vorausgesetzt, deutsche Holding stellt vor Ausschuettung **Freistellungsbescheinigung** beim oesterreichischen FA (ZS-QU1).
 >
-> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Ueberhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent für Schachtel = 22,5 Prozent) über Antrag ZS-RD1 an oesterreichisches FA für Grossbetriebe.
+> Schritt 2: Ohne vorherige Freistellung: 27,5 Prozent KESt-Einbehalt nach oesterreichischem Recht; Erstattung des Überhangs (27,5 Prozent minus DBA-Hoechstsatz 5 Prozent für Schachtel = 22,5 Prozent) über Antrag ZS-RD1 an oesterreichisches FA für Grossbetriebe.
 >
 > Schritt 3: In DE: § 8b KStG 95 Prozent KSt-frei, 5 Prozent fiktive nichtabziehbare BA. Verbleibende 5 Prozent oesterreichische QSt (sofern nicht 0 nach MTRL) auf deutsche KSt teilweise anrechenbar.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Oesterreich vom 24.08.2000 (BGBl. 2002 II S. 734), Aenderungsprotokoll 29.12.2010 (BGBl. 2011 II S. 1209, in Kraft 01.03.2012), Zweites Protokoll 21.08.2023 (BGBl. 2023 II S. 335, anwendbar ab 01.01.2024). MLI wirksam ab 01.01.2022. Quellensteuer: Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Grenzgaenger-Grenzzone: 30 km Luftlinie; schaedliche Tage ausserhalb Grenzzone max. 45 Arbeitstage. Aktuelle Konsultationsvereinbarungen und DBA-Text im konsolidierten BMF-DBA-Verzeichnis abrufen.
+Stand: 05/2026. DBA-Oesterreich vom 24.08.2000 (BGBl. 2002 II S. 734), Änderungsprotokoll 29.12.2010 (BGBl. 2011 II S. 1209, in Kraft 01.03.2012), Zweites Protokoll 21.08.2023 (BGBl. 2023 II S. 335, anwendbar ab 01.01.2024). MLI wirksam ab 01.01.2022. Quellensteuer: Dividenden 5/15 Prozent, Zinsen und Lizenzen 0 Prozent. Grenzgaenger-Grenzzone: 30 km Luftlinie; schaedliche Tage ausserhalb Grenzzone max. 45 Arbeitstage. Aktuelle Konsultationsvereinbarungen und DBA-Text im konsolidierten BMF-DBA-Verzeichnis abrufen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 12 Marker aufgeloest: 8 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

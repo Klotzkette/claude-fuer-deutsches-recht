@@ -1,11 +1,11 @@
 ---
 name: bmv-luft-und-luftverkehrsrecht
-description: "Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pru..."
+description: "Sachbereich Luft- und Luftverkehrsrecht im Geschäftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pru..."
 ---
 
 # Luft- und Luftverkehrsrecht (BMV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Luft- und Luftverkehrsrecht im Geschäftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: 
 
 Kernbestand des Sachfelds: LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 EU-Vollharmonisierung; Drohnenregulierung; Flughafen-Slots.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

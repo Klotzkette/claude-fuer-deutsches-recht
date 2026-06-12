@@ -17,7 +17,7 @@ Padlet betreibt eine offizielle REST-API. Voraussetzung ist ein bezahltes Padlet
 2. **Board anlegen.** Aktuell legt die Public API v1 noch keine ganzen Boards an, sondern nur Posts auf bestehenden Boards. Das leere Shelf-Board mit den vier Spalten muss daher vorab existieren. Wenn noch keines da ist: in der eigenen Padlet-Oberflaeche neues Padlet → Format "Shelf" → vier Spalten benennen ("Legitimer Zweck", "Geeignetheit", "Erforderlichkeit", "Angemessenheit") → Board-ID aus der URL kopieren.
 3. **Posts erstellen** über den Endpoint `POST /api/1/boards/{boardId}/posts`. Pro Karte ein Aufruf. Felder: `subject`, `body`, `section` (= Spaltenname oder Spalten-ID), Farbe per `color`-Attribut oder Tag.
 4. **Sektion zuordnen.** Die Spalten heissen in der API "Sections". Die Section-IDs erhaelt man über `GET /api/1/boards/{boardId}` aus dem `sections`-Array.
-5. **Antwort prüfen.** Bei HTTP 201 die zurueckgegebene Post-ID festhalten, damit Aenderungen oder Loeschungen möglich sind.
+5. **Antwort prüfen.** Bei HTTP 201 die zurueckgegebene Post-ID festhalten, damit Änderungen oder Loeschungen möglich sind.
 
 **Beispiel als Pseudo-Curl** (api_credentials uebernehmen das Authorization-Header-Setting):
 

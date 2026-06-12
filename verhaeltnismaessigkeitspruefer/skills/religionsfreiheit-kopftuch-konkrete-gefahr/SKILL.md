@@ -1,6 +1,6 @@
 ---
 name: religionsfreiheit-kopftuch-konkrete-gefahr
-description: "Art. 4 GG und staatliche Neutralitaet verhaeltnismaessig pruefen: Kruzifix, Kopftuch I/II, konkrete Gefahr statt Pauschalverbot, praktische Konkordanz in Schule, Dienstrecht und oeffentlichen Einrichtungen."
+description: "Art. 4 GG und staatliche Neutralitaet verhältnismäßig prüfen: Kruzifix, Kopftuch I/II, konkrete Gefahr statt Pauschalverbot, praktische Konkordanz in Schule, Dienstrecht und oeffentlichen Einrichtungen."
 ---
 
 # Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr
@@ -21,7 +21,7 @@ description: "Art. 4 GG und staatliche Neutralitaet verhaeltnismaessig pruefen: 
 - BVerfG, Urteil vom 24.09.2003, 2 BvR 1436/02, BVerfGE 108, 282 (Kopftuch I): gesetzliche Grundlage für Verbote im Schuldienst erforderlich.
 - BVerfG, Beschluss vom 27.01.2015, 1 BvR 471/10, 1 BvR 1181/10, BVerfGE 138, 296 (Kopftuch II): pauschale Verbote religioeser Bekundungen im Schuldienst sind unverhaeltnismaessig; regelmaessig braucht es eine hinreichend konkrete Gefahr.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Kopftuch II, 27.01.2015, 1 BvR 471/10 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/01/rs20150127_1bvr047110.html`
 - Kopftuch I, 24.09.2003, 2 BvR 1436/02: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2003/09/rs20030924_2bvr143602.html`

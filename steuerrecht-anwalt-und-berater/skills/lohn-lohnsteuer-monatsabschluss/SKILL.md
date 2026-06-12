@@ -18,7 +18,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ## Kaltstart-Rueckfragen
 
 1. Welcher Abrechnungsmonat?
-2. Welche Aenderungen gegenueber Vormonat (Eintritte, Austritte, Gehaltsaenderungen, Sonderzahlungen)?
+2. Welche Änderungen gegenueber Vormonat (Eintritte, Austritte, Gehaltsaenderungen, Sonderzahlungen)?
 3. Liegen alle ELStAM-Daten aktuell vor?
 4. Liegen Krankheitstage / Urlaubstage vor?
 5. Sind Sondervergueteungen (Tantieme, Boni) abzurechnen?
@@ -61,7 +61,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ### Phase 1 — Datenuebernahme
 
 - Stammdaten aus DATEV LODAS/Lohn und Gehalt.
-- Aenderungsdaten aus Mandant (Eintritte, Krankheitstage, Sonderzahlungen).
+- Änderungsdaten aus Mandant (Eintritte, Krankheitstage, Sonderzahlungen).
 - ELStAM aktuell abrufen.
 
 ### Phase 2 — Bruttolohnermittlung
@@ -94,7 +94,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 ### Phase 5 — Auszahlung und Buchung
 
 - Nettolohn = Brutto minus LSt/KiSt/SolZ minus SV-AN-Anteile (- Pfaendung, - VL, - Sonderabzug).
-- Ueberweisung an AN-Konto.
+- Überweisung an AN-Konto.
 - Typische Buchungssaetze SKR04 (SKR03 entsprechend):
  - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
  - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
@@ -117,7 +117,7 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 - Bei pauschal versteuerten Loehnen (Minijob 2 Prozent): Buchung separat.
 - Sonn-/Feiertag-/Nacht-Zuschlaege § 3b EStG nur LSt- und SV-frei in bestimmten Grenzen; über die Grenze normal versteuert/verbeitragt.
 - StBVV: Monatsabschluss in Lohnpauschale; Sondertaetigkeiten (Mehrarbeit-Berechnung mit komplexer Schichten-Logik) Zeithonorar.
-- DATEV-Tipp: DATEV LODAS Monatsabschluss-Pruefliste vor Anmeldung; Plausibilitaetspruefung Bruttolohnsumme.
+- DATEV-Tipp: DATEV LODAS Monatsabschluss-Prüfliste vor Anmeldung; Plausibilitaetspruefung Bruttolohnsumme.
 
 ## Quellen und Updates
 
@@ -129,4 +129,4 @@ Stand: 05/2026.
 - BBG 2025: RV 96.600 EUR, KV/PV 66.150 EUR; Beitragssaetze 2025: RV 18,6%, AV 2,6%, KV 14,6%+Zusatz, PV 3,6%+Kinderlos 0,6% (Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
 - SvEV-Sachbezugswerte 2025: Verpflegung 313 EUR/Monat, Unterkunft 278 EUR/Monat (jaehrlich durch BMAS angepasst).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 6 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Prüfhinweise ohne Marker) -->

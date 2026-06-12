@@ -15,7 +15,7 @@ description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaeh
 
 ## Kernsachverhalt
 
-Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungsprotokoll 29.12.2010 und Zweites Protokoll 21.08.2023, anwendbar ab 01.01.2024) erfasst Arbeitnehmer, die in einer Gemeinde innerhalb einer Grenzzone von **30 km Luftlinie** zur jeweils anderen Seite wohnen und in der Grenzzone der anderen Seite ueblicherweise tätig sind. Folge ist Wohnsitzstaat-Besteuerung. Die Konsultationsvereinbarung vom 20.12.2023 reguliert die Schaedlichkeitsgrenzen.
+Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Änderungsprotokoll 29.12.2010 und Zweites Protokoll 21.08.2023, anwendbar ab 01.01.2024) erfasst Arbeitnehmer, die in einer Gemeinde innerhalb einer Grenzzone von **30 km Luftlinie** zur jeweils anderen Seite wohnen und in der Grenzzone der anderen Seite ueblicherweise tätig sind. Folge ist Wohnsitzstaat-Besteuerung. Die Konsultationsvereinbarung vom 20.12.2023 reguliert die Schaedlichkeitsgrenzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -31,9 +31,9 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Oesterreich vom 24.08.2000** (BGBl. 2002 II S. 734), in der Fassung des Zweiten Aenderungsprotokolls 21.08.2023 (BGBl. 2023 II S. 335), **Art. 15 Abs. 6** (Grenzgaengerregelung): Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung bei ueblicher Taetigkeit in der Grenzzone.
+- **DBA Deutschland-Oesterreich vom 24.08.2000** (BGBl. 2002 II S. 734), in der Fassung des Zweiten Änderungsprotokolls 21.08.2023 (BGBl. 2023 II S. 335), **Art. 15 Abs. 6** (Grenzgaengerregelung): Grenzzone 30 km Luftlinie beiderseits der Grenze; Wohnsitzstaat-Besteuerung bei ueblicher Taetigkeit in der Grenzzone.
 - **§ 1 EStG, § 49 EStG**.
-- **Konsultationsvereinbarung Grenzgaenger DE-AT** (BMF, 20.12.2023): ab 01.01.2024 Homeoffice-Tage in der Grenzzone keine schaedlichen Nicht-Rueckkehrtage; schaedlich bleiben Tage ausserhalb der Grenzzone beider Staaten, max. 45 Arbeitstage pro Jahr bzw. 20 Prozent der Arbeitstage bei unterjaerigem Beschaeftigungsverhaeltnis.
+- **Konsultationsvereinbarung Grenzgaenger DE-AT** (BMF, 20.12.2023): ab 01.01.2024 Homeoffice-Tage in der Grenzzone keine schaedlichen Nicht-Rueckkehrtage; schaedlich bleiben Tage ausserhalb der Grenzzone beider Staaten, max. 45 Arbeitstage pro Jahr bzw. 20 Prozent der Arbeitstage bei unterjaerigem Beschäftigungsverhaeltnis.
 
 ### Leitentscheidungen und BMF-Schreiben
 - BMF-Konsultationsvereinbarung zur Grenzgaengerregelung DBA-Oesterreich vom 20.12.2023 (BMF-Schreiben IV B 2 — S 1301/22/10002 :001).
@@ -47,7 +47,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 ### Arbeitstaegliche Rueckkehr
 - Nach jedem Arbeitstag Rueckkehr zum Wohnsitz.
-- Schaedlichkeitsschwelle: **max. 45 Arbeitstage** pro Kalenderjahr (bei ganzjaehrigem Beschaeftigungsverhaeltnis) bzw. max. 20 Prozent der Arbeitstage ausserhalb der Grenzzone zulassig (Konsultationsvereinbarung 20.12.2023).
+- Schaedlichkeitsschwelle: **max. 45 Arbeitstage** pro Kalenderjahr (bei ganzjaehrigem Beschäftigungsverhaeltnis) bzw. max. 20 Prozent der Arbeitstage ausserhalb der Grenzzone zulassig (Konsultationsvereinbarung 20.12.2023).
 
 ### Folge
 - Wohnsitzstaat-Besteuerung.
@@ -84,7 +84,7 @@ Die Grenzgaengerregelung des DBA-Oesterreich (zuletzt angepasst durch Aenderungs
 
 ### Sprache
 
-- DBA-Text Deutsch verbindlich — keine Uebersetzungsrisiken.
+- DBA-Text Deutsch verbindlich — keine Übersetzungsrisiken.
 - Bescheid auf Deutsch.
 
 ### Online-Portale

@@ -52,7 +52,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## Aktualisierte Norm- und Reformlage
 
-### CIC 1983: Schluesselcanones
+### CIC 1983: Schlüsselcanones
 - **can. 1055 § 1 CIC**: Definition der Ehe als foedus, das von Christus zum Sakrament erhoben ist; ad bonum coniugum und ad procreationem et educationem prolis.
 - **can. 1057 § 1 CIC**: Konsens als wirksame Ursache; nicht durch menschliche Macht ersetzbar.
 - **can. 1083 CIC**: Eheschliessungsalter (Mann 16, Frau 14, mit dispensativem Vorbehalt der Bischofskonferenz).
@@ -74,7 +74,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Kirchliche Eheschliessung hat keine zivilrechtliche Wirkung (§ 1310 BGB i.V.m. § 67 PStG).
 - Religionsausuebungsrecht Art. 4 GG schuetzt aber die kirchliche Form als religioesen Akt.
 
-### Pruefraster
+### Prüfraster
 1. Ist die Ehe vor 2015 oder danach geschlossen? Beim Nichtigkeitsverfahren immer Mitis Iudex prüfen.
 2. Konsensmangel oder Hindernis? — cc. 1083-1094 vor cc. 1095-1107.
 3. Liegt einer der vier Faelle für processus brevior vor (cc. 1683-1687 CIC)?

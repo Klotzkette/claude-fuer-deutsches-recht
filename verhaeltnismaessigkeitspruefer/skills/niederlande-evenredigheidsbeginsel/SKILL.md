@@ -1,6 +1,6 @@
 ---
 name: niederlande-evenredigheidsbeginsel
-description: Niederlaendische Verhaeltnismaessigkeitsdogmatik mit Evenredigheidsbeginsel nach Art 3 4 Awb seit Maxis Praxis ABRvS 2 februari 2022 ECLI NL RVS 2022 285 als Drei-Stufen-Pruefung Geschiktheid Noodzakelijkheid Evenwichtigheid mit variabler Toetsingsintensiteit. Mit Hinweis auf das Verbot der Verfassungspruefung Art 120 Gw die Rezeption von EMRK und Charta sowie auf Hoge Raad-Linien und Strukturunterschiede zur deutschen Schranken-Schranke.
+description: Niederlaendische Verhältnismäßigkeitsdogmatik mit Evenredigheidsbeginsel nach Art 3 4 Awb seit Maxis Praxis ABRvS 2 februari 2022 ECLI NL RVS 2022 285 als Drei-Stufen-Prüfung Geschiktheid Noodzakelijkheid Evenwichtigheid mit variabler Toetsingsintensiteit. Mit Hinweis auf das Verbot der Verfassungspruefung Art 120 Gw die Rezeption von EMRK und Charta sowie auf Hoge Raad-Linien und Strukturunterschiede zur deutschen Schranken-Schranke.
 ---
 
 # Niederlande Evenredigheidsbeginsel
@@ -11,7 +11,7 @@ Die Grondwet voor het Koninkrijk der Nederlanden 1815 / 1983 enthaelt
 einen Grundrechtskatalog (Art 1 bis 23 Gw). Eigenheit:
 
 - **Art 120 Gw** verbietet richterliche Prüfung formeller Gesetze am
-  Massstab der Verfassung (toetsingsverbod). Die Folge: praktisch
+  Maßstab der Verfassung (toetsingsverbod). Die Folge: praktisch
   wichtigste Eingriffsmasstaebe sind EMRK und EU-Charta, die über
   Art 93 und 94 Gw unmittelbar anwendbar sind und Vorrang haben.
 - Eingriffsbefugnisse haengen am **legaliteitsbeginsel** (Gesetzeskette
@@ -33,13 +33,13 @@ Das **algemeen bestuursrecht** kodifiziert allgemeine Grundsaetze:
 
 In **ABRvS 2 februari 2022 ECLI NL RVS 2022 285 (Maxis en Praxis)**
 und ABRvS 12 oktober 2022 hat die Afdeling bestuursrechtspraak van de
-Raad van State die Verhaeltnismaessigkeitspruefung umgebaut. Sie prüft
+Raad van State die Verhältnismäßigkeitspruefung umgebaut. Sie prüft
 seither in drei Stufen:
 
 1. **Geschiktheid**: ist die Maßnahme zur Zielerreichung geeignet?
 2. **Noodzakelijkheid**: gibt es kein milderes gleich wirksames Mittel?
 3. **Evenwichtigheid (proportionaliteit in enge zin)**: stehen die
-   Nachteile nicht ausser Verhaeltnis zum Zweck?
+   Nachteile nicht ausser Verhältnis zum Zweck?
 
 Die Prüfung wird mit variabler **toetsingsintensiteit** durchgefuehrt
 (volle, normale oder zurueckhaltende Prüfung), abhaengig von
@@ -51,7 +51,7 @@ Die strafrechtliche und zivilrechtliche Verhältnismäßigkeit verlaeuft
 über die EMRK und die Charta:
 
 - Strafrechtlich: **proportionaliteit en subsidiariteit** der Mittel der
-  Strafvordering (z B Telefoontaps, Doorzoeking), gepruft am Massstab
+  Strafvordering (z B Telefoontaps, Doorzoeking), gepruft am Maßstab
   Art 8 EMRK.
 - Zivilrechtlich: HR 5 juni 1987 NJ 1988 702 (Goeree) zur
   Meinungsfreiheit, HR 21 oktober 2008 zur Persoenlichkeitsrechtsabwaegung.
@@ -73,7 +73,7 @@ Die strafrechtliche und zivilrechtliche Verhältnismäßigkeit verlaeuft
 
 Bei niederlaendischen Bezuegen:
 
-- Verhaeltnismaessigkeitsargumentation primaer auf Awb (Art 3 4 lid 2)
+- Verhältnismäßigkeitsargumentation primaer auf Awb (Art 3 4 lid 2)
   und EMRK stuetzen, nicht auf die Grondwet.
 - Toetsingsintensiteit benennen (volle / normale / terughoudende
   toetsing).

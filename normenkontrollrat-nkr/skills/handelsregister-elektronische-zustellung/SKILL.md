@@ -1,19 +1,19 @@
 ---
 name: handelsregister-elektronische-zustellung
-description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only"
+description: "Fachmodul für Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Prüfpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only"
 ---
 
 # NKR-Handelsregister und elektronische Zustellung
 
 ## Worum geht es konkret
 
-Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Pruefungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage für die Testakte des Plugins (ElErrHandRegG).
+Vorhaben mit Bezug auf das Handelsregister und elektronische Zustellungswege gehoeren zu den methodisch komplexesten NKR-Prüfungen. Sie verbinden Gesellschaftsrecht, ZPO, OZG, eIDAS-VO, beA und die dezentrale Registerstruktur in Deutschland. Dieser Skill ist auch die methodische Grundlage für die Testakte des Plugins (ElErrHandRegG).
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Vorhaben aendert HGB / Handelsregister-Vorschriften
+- Vorhaben ändert HGB / Handelsregister-Vorschriften
 - Vorhaben sieht elektronische Zustellung an Gesellschaften vor
-- Vorhaben adressiert auslaendische Gesellschaften mit deutscher Zweigniederlassung
+- Vorhaben adressiert ausländische Gesellschaften mit deutscher Zweigniederlassung
 - Fallzahlen-Prüfung mit Bezug auf Anzahl Gesellschaften
 
 Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle eingetragenen Gesellschaften, nur Kapitalgesellschaften, nur GmbH?"*
@@ -35,15 +35,15 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 - Eingetragene Gesellschaften gesamt: rund 1,8 Mio (Statistisches Bundesamt, Unternehmensregister; vom Anwender mit aktueller Zahl zu prüfen)
 - GmbH: dominantes Segment (groesste Einzelmenge)
 - AG, KGaA, OHG, KG, e.K.: jeweils kleinere Segmente
-- Auslaendische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
+- Ausländische Gesellschaften mit deutscher Zweigniederlassung: kleinere Teilmenge
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. Adressatenkreis
 
 - Welche Rechtsformen?
 - Aktive vs. ruhende Gesellschaften?
-- Auslaendische Gesellschaften?
+- Ausländische Gesellschaften?
 - Konzerne — Konsolidierung oder einzeln?
 
 ### 2. Architektur (zentral vs. dezentral)
@@ -67,7 +67,7 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 - Frequenz (monatlich / quartalsweise / jaehrlich / event-driven)
 - Konsequenzen bei Verstoss (Zwangsgeld, Loeschung)
 
-### 5. Auslaendische Gesellschaften
+### 5. Ausländische Gesellschaften
 
 - Inlandsvertreter (analog § 184 ZPO)
 - Direktanschluss EU-weiter Systeme (BRIS Business Registers Interconnection System)
@@ -84,7 +84,7 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 - Dezentrale Loesung trotz hoher Skaleneffekte einer zentralen
 - Hoche Frequenz Lebensbescheid (monatlich) ohne Sachgrund
 - Parallele Standards ohne Once-Only
-- Auslaendische Gesellschaften ungeklaert
+- Ausländische Gesellschaften ungeklaert
 - Sanktionsmechanik zu pauschal (z.B. Loeschungsdrohung ohne Stufung)
 - KMU nicht differenziert (Kleinst-Gesellschaften gleich behandelt wie Konzerne)
 
@@ -101,12 +101,12 @@ Rueckfrage nur wenn unklar: *"Welche Rechtsformen sind adressiert — alle einge
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie auslaendische Gesellschaften mit deutscher Zweigniederlassung."
+- "Das Vorhaben betrifft alle im Handelsregister eingetragenen Gesellschaften (rund 1,8 Mio nach Unternehmensregister Statistisches Bundesamt) sowie ausländische Gesellschaften mit deutscher Zweigniederlassung."
 - "Der NKR begruesst die Zielsetzung, die elektronische Erreichbarkeit von im Handelsregister eingetragenen Gesellschaften zu verbessern und damit Verfahren zu beschleunigen."
 - "Der NKR weist darauf hin, dass die vorgesehene dezentrale Architektur einen erheblichen Mehraufwand für die Wirtschaft und die Verwaltung verursacht. Eine zentrale Loesung über das Handelsregistergericht im Sinne des Once-Only-Prinzips waere praktikabler."
 - "Die vorgesehene monatliche Lebensbescheid-Pflicht ist aus Sicht des NKR unverhaeltnismaessig. Eine jaehrliche Bestaetigung mit ereignisorientierter Nachmeldepflicht erreicht das Regelungsziel mit deutlich geringerem Erfuellungsaufwand."
 - "Der NKR empfiehlt, das vorgesehene Verfahren mit dem OZG-Portalverbund, dem beA-System und der EUDI-Wallet zu verknuepfen und die Standards XOEV und FIM anzuwenden."
-- "Der NKR empfiehlt, für auslaendische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu prüfen, anstatt einen separaten Inlandsvertreter zu fordern."
+- "Der NKR empfiehlt, für ausländische Gesellschaften mit deutscher Zweigniederlassung den Anschluss an das Business Registers Interconnection System (BRIS) zu prüfen, anstatt einen separaten Inlandsvertreter zu fordern."
 
 ### Spezielle Aufwandsberechnung (Beispiel ElErrHandRegG)
 
@@ -131,7 +131,7 @@ Ersparnis: rund **240 Mio EUR jaehrlich**.
 
 - Fallzahlen ohne Quelle (Mikrozensus statt Unternehmensregister)
 - "Geringer Mehraufwand für die Wirtschaft" trotz monatlicher Pflicht
-- Auslaendische Gesellschaften nicht adressiert
+- Ausländische Gesellschaften nicht adressiert
 - Mehrere Standards parallel ohne Schnittstellen-Spezifikation
 - Konsequenz Loeschung aus Handelsregister ohne Abstufung
 

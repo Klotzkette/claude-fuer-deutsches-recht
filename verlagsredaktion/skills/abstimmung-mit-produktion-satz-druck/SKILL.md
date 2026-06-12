@@ -19,7 +19,7 @@ Nach der inhaltlichen und sprachlichen Freigabe geht das Manuskript in die Produ
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klären Sie:
+Sie brauchen ihn bei der Übergabe an die Produktion und bei Reklamationen. Klären Sie:
 
 1. Inhouse-Satz oder externer Setzer?
 2. Welches Druckverfahren (Offset, Digital, Print-on-Demand)?
@@ -28,7 +28,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klä
 
 ## Material- bzw. Sachrahmen
 
-- Freigegebenes Manuskript (alle Aenderungen akzeptiert).
+- Freigegebenes Manuskript (alle Änderungen akzeptiert).
 - Bilddateien in Druckqualitaet, separat.
 - Layoutvorgaben (Style Guide Print).
 - Druckschrift mit Lizenznachweis.
@@ -36,8 +36,8 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klä
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Uebergabe-Paket für Setzer:**
- - Manuskript als .docx (freigegeben, alle Aenderungen akzeptiert).
+1. **Übergabe-Paket für Setzer:**
+ - Manuskript als .docx (freigegeben, alle Änderungen akzeptiert).
  - Bilder als separate Dateien in 300+ dpi.
  - Tabellen ggf. separat als .xlsx.
  - Style-Anweisungen / Vorlage.
@@ -69,7 +69,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klä
 
 ## Mustertexte / Vorlagen
 
-**Uebergabe-Checkliste Produktion:**
+**Übergabe-Checkliste Produktion:**
 
 ```
 [ ] Manuskript freigegeben (Versionsstand: ____)

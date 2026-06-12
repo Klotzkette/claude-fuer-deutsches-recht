@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-hochschule
-description: "Prüft Nachteilsausgleich an Hochschulen im Pruefungsrecht Hochschule."
+description: "Prüft Nachteilsausgleich an Hochschulen im Prüfungsrecht Hochschule."
 ---
 
 # Nachteilsausgleich Hochschule

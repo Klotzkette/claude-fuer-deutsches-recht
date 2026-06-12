@@ -1,6 +1,6 @@
 ---
 name: klausel-vertragsdauer-kuendigung-rueckwirkung
-description: "Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung, Verlaengerungsautomatik (Roll-over), ordentliche und ausserordentliche Kuendigung, Folgen Beendigung (Rueckgabe, Vertraulichkeit ueberhang, Lizenz-Nachwirkung)."
+description: "Vertragsdauer-Klauseln: feste Laufzeit, unbefristet mit Kuendigung, Verlaengerungsautomatik (Roll-over), ordentliche und ausserordentliche Kuendigung, Folgen Beendigung (Rueckgabe, Vertraulichkeit überhang, Lizenz-Nachwirkung)."
 ---
 
 # Klausel Vertragsdauer und Kuendigung

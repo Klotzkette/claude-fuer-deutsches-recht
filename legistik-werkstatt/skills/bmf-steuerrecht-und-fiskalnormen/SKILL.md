@@ -1,11 +1,11 @@
 ---
 name: bmf-steuerrecht-und-fiskalnormen
-description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufg..."
+description: "Sachbereich Steuerrecht und Fiskalnormen im Geschäftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Länder; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufg..."
 ---
 
 # Steuerrecht und Fiskalnormen (BMF)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Steuerrecht und Fiskalnormen im Geschäftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF:
 
 Kernbestand des Sachfelds: AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -34,7 +34,7 @@ Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Norm zur Steuerart einordnen; Tatbestand und Rechtsfolge sauber fassen; Verfahrensbezug (AO und FGO); Aufkommensschaetzung; Aenderung der ESt-Tabellen; Schnittstelle zum Haushaltsrecht.
+Norm zur Steuerart einordnen; Tatbestand und Rechtsfolge sauber fassen; Verfahrensbezug (AO und FGO); Aufkommensschaetzung; Änderung der ESt-Tabellen; Schnittstelle zum Haushaltsrecht.
 
 Schrittfolge für den Normgeber:
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Rueckwirkungsverbot; Bestimmtheitsgebot bei steuerlichen Belastungen; EU-Beihilferecht; Wechselwirkung mit DBA; Drei-Saeulen-Modell der Sozialversicherung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

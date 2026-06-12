@@ -26,7 +26,7 @@ description: "Ambulantes Operieren am Krankenhaus nach § 115b SGB V: AOP-Vertra
 - Liegen Kontextfaktoren vor (BMI, Komorbiditaet, Pflegegrad, soziale Lage)?
 - Wird Abrechnung gegen KV oder als Hybrid-DRG (§ 115f SGB V) gefuehrt?
 - Existiert AOP-Vertrag (Bundesrahmenvertrag GKV-SV/DKG/KBV)?
-- Drohen MD-Pruefungen wegen Fehlbelegung?
+- Drohen MD-Prüfungen wegen Fehlbelegung?
 
 ## Rechtlicher Rahmen
 - **SGB V § 115b** Ambulantes Operieren am Krankenhaus, AOP-Vertrag.

@@ -55,7 +55,7 @@ Der Beklagte wird verurteilt, an den Klaeger
 
 Konkrete Beispiele:
 
-- "Der Beklagte wird verurteilt, an die Klaegerin 2.450,50 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 1.5.2025 zu zahlen."
+- "Der Beklagte wird verurteilt, an die Klägerin 2.450,50 EUR nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit 1.5.2025 zu zahlen."
 - "Der Beklagte wird verurteilt, an den Kläger 1.200 EUR Zug um Zug gegen Rueckgabe des Sofas zu zahlen."
 
 ### Schritt 3 — Herausgabe-Antrag

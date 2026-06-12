@@ -1,6 +1,6 @@
 ---
 name: agb-bei-digitalen-produkten-327f-update
-description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill vertieft die AGB-rechtliche Behandlung von Update-Klauseln Aktualisierungspflichten Funktionsanpassungen sowie das Verhaeltnis zur Hauptleistungspflicht. Aktuelle BGH-Folgejudikate nach Inkrafttreten 01.01.2022. Behandelt Streaming..."
+description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill vertieft die AGB-rechtliche Behandlung von Update-Klauseln Aktualisierungspflichten Funktionsanpassungen sowie das Verhältnis zur Hauptleistungspflicht. Aktuelle BGH-Folgejudikate nach Inkrafttreten 01.01.2022. Behandelt Streaming..."
 ---
 
 # Agb Bei Digitalen Produkten 327F Update
@@ -32,11 +32,11 @@ description: "AGB bei digitalen Produkten und § 327f BGB Update-Pflicht. Skill 
 ### Subscription-Modelle
 - Automatische Verlaengerung muss klar und mit Kuendigungshinweis versehen sein.
 
-## Verhaeltnis zur Streamingdienst-Lebensdauer
+## Verhältnis zur Streamingdienst-Lebensdauer
 
 - Wenn ein Anbieter die Plattform abschaltet (z. B. Spielserver, DRM-Server), ist die Hauptleistung beendet — Verbraucher hat Anspruch auf Rueckabwicklung anteilig.
 
-## Pruefraster
+## Prüfraster
 
 1. Digitales Produkt im Sinne § 327 BGB?
 2. Welche AGB-Klausel ist betroffen?

@@ -1,6 +1,6 @@
 ---
 name: intensivmedizin-beatmung-verlegung
-description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Pruefung im Krankenhausrecht."
+description: "Intensivmedizin, Beatmung und Patientenverlegung: PpUGV-Intensiv, Verlegungsfaehigkeit, IPReG-Bedingungen ausserklinische Beatmung, Strukturanforderungen, OPS- und MD-Prüfung im Krankenhausrecht."
 ---
 
 # Intensivmedizin Beatmung Verlegung

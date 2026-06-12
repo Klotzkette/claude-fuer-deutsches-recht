@@ -56,7 +56,7 @@ ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtt
 - Familienfideikommisse wurden 1919/1938 abgeschafft (FideikommissauflösungsG, Kontrollratsgesetz Nr. 45 für Berlin).
 - In Adelsfamilien noch praktische Relevanz für historische Erbteilungsfragen — selten, aber möglich.
 
-### Pruefraster
+### Prüfraster
 1. Vor 1900 Erbfall? Dann ALR-Erbrecht.
 2. Nach 1900? BGB.
 3. Familienfideikommiss? — Aufloesungsfrist und Sondervermoegen prüfen.

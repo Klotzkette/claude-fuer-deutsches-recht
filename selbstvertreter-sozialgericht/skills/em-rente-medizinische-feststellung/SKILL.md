@@ -1,6 +1,6 @@
 ---
 name: em-rente-medizinische-feststellung
-description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster."
+description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Prüfraster."
 ---
 
 # Em Rente Medizinische Feststellung
@@ -32,7 +32,7 @@ description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die
 
 ## Reha vor Rente
 
-§ 9 SGB VI: DRV pruef zuerst Reha. EM-Rente nur, wenn Reha nicht möglich oder erfolglos.
+§ 9 SGB VI: DRV prüf zuerst Reha. EM-Rente nur, wenn Reha nicht möglich oder erfolglos.
 
 ## Zugangsfaktor
 
@@ -43,14 +43,14 @@ description: "Erwerbsminderungsrente medizinische Feststellung. Skill klaert die
 
 - EM-Rente regelmaessig 3 Jahre befristet.
 - Nach 9 Jahren ggf. unbefristet.
-- Pruefantraege Behörden initiative.
+- Prüfantraege Behörden initiative.
 
 ## Hinzuverdienst
 
 - Hinzuverdienstgrenze hat sich 2023 erheblich erweitert.
 - Aktuelle Werte live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Medizinische Voraussetzung?
 2. Versicherungsrechtliche Voraussetzung?

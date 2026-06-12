@@ -21,12 +21,12 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 
 - Pharmafabrik Frankfurt Reinraumausbau: 3.200 PM-Meldungen über 24 Monate Bauzeit, Equipment-Baum 850 Positionen, SAP S/4HANA EAM, Bausumme 28 Mio. EUR
 - Logistikzentrum Dortmund: SAP PM Integration mit PlanRadar REST-API, automatische Meldungserstellung aus mobiler App, 680 Meldungen
-- Klaeranlage Bielefeld: SAP PM mit DIN EN 13306-Schadenscodes für Instandhaltungsplanung nach Abnahme, Uebergabe an Betriebsabteilung
+- Klaeranlage Bielefeld: SAP PM mit DIN EN 13306-Schadenscodes für Instandhaltungsplanung nach Abnahme, Übergabe an Betriebsabteilung
 
 ## Erste Schritte SAP PM Einrichtung
 
 1. Equipment-Baum aufbauen: Hoehere Ebene Bauwerk, zweite Ebene Bauteil-Gruppe z.B. Rohbau oder TGA, dritte Ebene Equipment-ID z.B. STUETZE-EG-A04, nach Fliesschema IFC-Objektbaum
-2. Meldungsarten konfigurieren: M1 Instandhaltungsanforderung für planmäßige Pruefungen, M2 Stoerungsmeldung für unplanmäßige Maengel, M3 Aktivitaetenmeldung für erledigte Arbeiten
+2. Meldungsarten konfigurieren: M1 Instandhaltungsanforderung für planmäßige Prüfungen, M2 Stoerungsmeldung für unplanmäßige Maengel, M3 Aktivitaetenmeldung für erledigte Arbeiten
 3. Schadenscode-Katalog erstellen: Nach DIN 31051 und DIN EN 13306, Codes K001-K099 Bauwerk, A001-A099 Abdichtung, E001-E099 Elektro, B001-B099 Boden
 4. Prioritaetskatalog festlegen: Prio 1 sofortige Sicherheitsmassnahme 24 h, Prio 2 baubetrieblich kritisch T+3, Prio 3 dokumentierter Mangel T+14 nach VOB/B Fristen
 5. PM-Auftrag-Abschluss: Meldung MACO Status angelegt, Auftrag erstellt AUFTR, Ausfuehrung gemessen ABGE, Technische Meldung RÜCKG, PM-Auftrag abgeschlossen ABGE
@@ -41,13 +41,13 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 - DIN 31051:2012-09 Grundlagen der Instandhaltung: Zustandsbeurteilung, Schadensanalyse, Maßnahmen
 - SAP S/4HANA Enterprise Asset Management: Meldungstypen, Auftragsarten, Funktionsort-Struktur, Schnittstellen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Meldungsfeld-Vollstaendigkeit: Equipment-Nr, Meldungsart, Meldungsdatum, Kurzbeschreibung, Schadenscode, Ursachencode, Prioritaet, Kostenstelle, Foto-Anhang
 2. Faelligkeits-Kontrolle: Taeglich Auswertung offene Meldungen nach Faelligkeit, Eskalation bei Ueberschreitung Prio-1 an Projektleitung
 3. Maßnahmen-Protokoll: Jede Maßnahme im PM-Auftrag dokumentiert, Ausfuehrender, Datum, Stunden, Materialien, Abschlussfreigabe Bauueberwacher
 4. AN-Stellungnahme Frist: VOB/B § 13 Abs. 5 Frist zur Mangelbeseitigung angemessen, Erinnerung automatisch via SAP-T-3 Tage
-5. Foto-Pflicht: Mindestens 3 Fotos je Meldung Ueberblick-Detail-Kontext, Aufnahmedatum kongruent zum Meldungsdatum
+5. Foto-Pflicht: Mindestens 3 Fotos je Meldung Überblick-Detail-Kontext, Aufnahmedatum kongruent zum Meldungsdatum
 6. Abschluss-Prüfung: Nachkontrolle Bauueberwacher nach Mangelbeseitigung, Foto Abschluss, technische Meldung SAP PM Status E0004
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -64,7 +64,7 @@ SAP Plant Maintenance ist das mächtigste Werkzeug zur strukturierten Mangelverf
 - Prioritaetssetzung: Prioritaet 1 sofort in Transaktionscode IW72 an Projektleiter weiterleiten, Auto-E-Mail-Benachrichtigung, Eskalations-nach 2 h ohne Reaktion
 - Kostenstellen-Buchung: Mangelbeseitigungs-Kosten auf Auftragsart ZM01 Bau-Maengel, automatische Kostenstellenbuchung nach Ausfuehrung und Abschluss PM-Auftrag
 - PM-Auftrag aus Meldung: Transaktionscode IW32 Auftrag erstellen, Vorgaenge mit Arbeitsplan und Material-Bedarf, Kapazitaetsplanung Gewerk-Verantwortlicher
-- Eskalation: Meldung offen nach Faelligkeit -> automatischer E-Mail Projektleiter -> Nachfrist 48 h -> Eskalation Geschaeftsfuehrer -> VOB-Selbstvornahme-Mahnung
+- Eskalation: Meldung offen nach Faelligkeit -> automatischer E-Mail Projektleiter -> Nachfrist 48 h -> Eskalation Geschäftsführer -> VOB-Selbstvornahme-Mahnung
 
 ## Typische Fallstricke
 

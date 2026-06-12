@@ -1,9 +1,9 @@
 ---
 name: geschaeftsfuehrer-fristen-form-und-zustaendigkeit
-description: "Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg im Fortbestehensprognose."
+description: "Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg im Fortbestehensprognose."
 ---
 
-# Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg
+# Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg
 
 ## Normenanker
 
@@ -28,7 +28,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsführer, Steuerberater, Wirtschaftsprüfer, Restrukturierungsberater, IV (falls beauftragt), Bank, Gesellschafter.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Fortbestehensprognose-Bericht, Integrierte Planung (P&L, BS, CF) 12+ Monate, Stresstest-Szenarien, Sanierungskonzept IDW S 6, Sanierungsgutachten, GF-Erklärung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Geschaeftsfuehrer: Fristen, Form, Zuständigkeit und Rechtsweg
+## Spezialwissen: Geschäftsführer: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** InsO, IDW, StaRUG.
 
 ## Fallweichen
@@ -42,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geschaeftsfuehrer** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geschäftsführer** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

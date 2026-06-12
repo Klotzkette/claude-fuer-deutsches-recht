@@ -68,7 +68,7 @@ Der AG ist gesetzlich verpflichtet, Verdienst- und Arbeitszeitdaten an das Stati
 | Verdiensterhebung Quartal | Bruttolohnsumme, Stunden, AN-Zahl je Lohngruppe | 4-6 Wochen nach Quartalsende |
 | Verdienststrukturerhebung 4 Jahre | Individuelle AN-Daten (anonymisiert) | Festgelegt |
 | Statistik Berufsgenossenschaften | Lohnsummen, Arbeitsunfaelle | Jaehrlich |
-| Bundesagentur-Statistik | Beschaeftigungsdaten über DEUEV | Laufend |
+| Bundesagentur-Statistik | Beschäftigungsdaten über DEUEV | Laufend |
 
 ### Phase 3 — Uebermittlung
 
@@ -113,4 +113,4 @@ Stand: 05/2026.
 - VerdStatG.
 - Destatis-IDEV-Portal.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Paragraphennummerierung BStatG Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 2 ersetzt (Paragraphennummerierung BStatG Prüfhinweis ohne Marker) -->

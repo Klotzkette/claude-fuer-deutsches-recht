@@ -31,7 +31,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **EU-RL:** RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung).
  - **StGB / StPO:** Bundesrecht.
  - **Nebenstrafrecht:** BtMG, KCanG, AO, GwG, WaffG, StVG, AufenthG, MStrG.
- - **Geschaeftsverteilungsplaene** der Gerichte (öffentlich).
+ - **Geschäftsverteilungsplaene** der Gerichte (öffentlich).
 - **Fristennotiz-Struktur:**
  ```
  AZ: ...

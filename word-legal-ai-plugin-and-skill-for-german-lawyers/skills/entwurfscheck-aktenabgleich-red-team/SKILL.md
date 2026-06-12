@@ -1,6 +1,6 @@
 ---
 name: entwurfscheck-aktenabgleich-red-team
-description: "Prueft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand, Ton und Ausgabezweck. Findet Abweichungen, unbewiesene Behauptungen, fehlende Antraege, schwache Argumente und riskante Formulierungen."
+description: "Prüft juristische Entwuerfe gegen Akte, Ziel, Belege, Rechtsstand, Ton und Ausgabezweck. Findet Abweichungen, unbewiesene Behauptungen, fehlende Antraege, schwache Argumente und riskante Formulierungen."
 ---
 
 # Entwurfscheck, Aktenabgleich und Red Team

@@ -24,12 +24,12 @@ description: "PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 1 § 1**: "Der Mensch wird, in so fern er gewisse Rechte in der buergerlichen Gesellschaft geniesst, eine Person genannt."
 - **ALR I 1 §§ 13-14**: Lebendgeburt erforderlich für Rechtsfaehigkeit; "Schrei oder ander Lebenszeichen" Anforderung.
 - **ALR I 1 §§ 25-30**: Verschollenheit; nach 80. Lebensjahr Todvermutung mit Verschollensregel (vor Zitat verifizieren).
 - **ALR I 1 §§ 50-70**: Stand als rechtlicher Begriff; Verweis auf die staendischen Titel ALR II 7-9.
-- **ALR I 4 §§ 1 ff.**: Geschaeftsfaehigkeit; Minderjaehrige bis 14 völlig geschaeftsunfaehig, bis 25 beschraenkt.
+- **ALR I 4 §§ 1 ff.**: Geschäftsfaehigkeit; Minderjaehrige bis 14 völlig geschaeftsunfaehig, bis 25 beschraenkt.
 
 ### Subsumtionsbeispiel: Erbfaehigkeit eines Nasciturus
 Sachverhalt: Schwangere Witwe; Kind wird tot geboren; Erbschaft des verstorbenen Vaters.

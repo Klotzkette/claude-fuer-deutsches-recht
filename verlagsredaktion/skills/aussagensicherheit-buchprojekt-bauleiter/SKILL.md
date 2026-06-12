@@ -1,6 +1,6 @@
 ---
 name: aussagensicherheit-buchprojekt-bauleiter
-description: "Prueft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit im Verlagsredaktion."
+description: "Prüft im Manuskript jede tragende Aussage darauf ob sie so im Druck stehen darf: Belegtiefe Ehrenschutz Datenschutz Berufsrecht und Aussagewahrheit im Verlagsredaktion."
 ---
 
 # Aussagensicherheits-Prüfung ("darf das so im Druck?")
@@ -15,7 +15,7 @@ description: "Prueft im Manuskript jede tragende Aussage darauf ob sie so im Dru
 
 ## Worum geht es konkret
 
-Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problematisch sein, selbst wenn Grammatik, Stil und Quellen stimmen: Sie kann ehrverletzend gegenueber Beteiligten sein, datenschutzrechtlich heikel, berufsrechtlich relevant (Mandantenidentifizierung!), oder einfach inhaltlich nicht hinreichend belegt. Dieser Skill ist das letzte inhaltliche Pruefraster vor Druck.
+Eine Aussage in einem Fachaufsatz oder einer Anmerkung kann juristisch problematisch sein, selbst wenn Grammatik, Stil und Quellen stimmen: Sie kann ehrverletzend gegenueber Beteiligten sein, datenschutzrechtlich heikel, berufsrechtlich relevant (Mandantenidentifizierung!), oder einfach inhaltlich nicht hinreichend belegt. Dieser Skill ist das letzte inhaltliche Prüfraster vor Druck.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

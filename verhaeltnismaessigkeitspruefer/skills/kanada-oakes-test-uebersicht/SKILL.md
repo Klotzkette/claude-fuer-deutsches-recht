@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-test-uebersicht
-description: Oakes-Test des Supreme Court of Canada aus R v Oakes 1986 als Pruefraster fuer Section 1 der Canadian Charter of Rights and Freedoms 1982. Mit den vier Prongs pressing and substantial objective, rational connection, minimal impairment und proportionality between effects sowie Hinweisen zur Rezeption deutscher Schranken-Schranke und zum Wandel der Kontrolldichte ueber Edwards Books, Irwin Toy und Hutterian Brethren.
+description: Oakes-Test des Supreme Court of Canada aus R v Oakes 1986 als Prüfraster fuer Section 1 der Canadian Charter of Rights and Freedoms 1982. Mit den vier Prongs pressing and substantial objective, rational connection, minimal impairment und proportionality between effects sowie Hinweisen zur Rezeption deutscher Schranken-Schranke und zum Wandel der Kontrolldichte ueber Edwards Books, Irwin Toy und Hutterian Brethren.
 ---
 
 # Kanada Oakes Test Übersicht
@@ -17,7 +17,7 @@ society.
 ## Struktur des Oakes-Tests
 
 Der Supreme Court of Canada hat in R v Oakes [1986] 1 SCR 103 (Dickson
-CJ) den Pruefrahmen aus zwei Stufen und vier Prongs entwickelt:
+CJ) den Prüfrahmen aus zwei Stufen und vier Prongs entwickelt:
 
 Stufe A: Pressing and substantial objective.
 Stufe B: Proportionality, gegliedert in drei Prongs.
@@ -95,7 +95,7 @@ Section 33 der Charter erlaubt Bund und Provinzen, ein Gesetz für
 fuenf Jahre erneuerbar für immun gegen bestimmte Charter-Sections (2,
 7-15) zu erklaeren. Diese Notwithstanding Clause hat keine deutsche
 Entsprechung und ist verfassungstheoretisch hoch umstritten. In der
-Praxis verschiebt sie die Verhaeltnismaessigkeitskontrolle auf die
+Praxis verschiebt sie die Verhältnismäßigkeitskontrolle auf die
 politische Ebene.
 
 ## Bedeutung für den Prüfer

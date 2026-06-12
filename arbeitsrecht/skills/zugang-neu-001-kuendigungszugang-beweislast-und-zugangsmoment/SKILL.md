@@ -35,7 +35,7 @@ Zugang = wenn die Erklaerung so in den Machtbereich des Empfaengers gelangt, das
 
 ## Zugangsmoment
 
-- **Werktags** waehrend ueblicher Geschaeftszeit: sofort.
+- **Werktags** waehrend ueblicher Geschäftszeit: sofort.
 - **Abends/Wochenende**: meist erst am naechsten Werktag (BAG-Linie zur "Verkehrsuebung").
 - **Hausbriefkasten**: am Tag des Einwurfs nach ueblicher Leerungszeit.
 
@@ -46,7 +46,7 @@ Zugang = wenn die Erklaerung so in den Machtbereich des Empfaengers gelangt, das
 - BAG 2 AZR 224/18 zur Zugangsfiktion.
 - Az im Mandat live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Wann wurde die Kuendigung versandt/uebergeben?
 2. Wann gelangte sie in den Machtbereich?

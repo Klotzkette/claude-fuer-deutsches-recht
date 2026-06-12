@@ -55,7 +55,7 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 ## Praktikertipps der Verteidigung
 
 - **Wichtigstes Verteidigungsziel:** Verschiebung in den Strafrahmen des § 30 oder § 29a BtMG (zwei bzw. ein Jahr Mindeststrafe statt fuenf Jahre).
-- **Bandenmitgliedschaft angreifen:** War der Mandant tatsaechlich Bandenmitglied oder nur Gehilfe einer einzelnen Tat? Bandenabrede setzt mehrere kuenftige selbstaendige Taten voraus. Wenn nur eine konkrete Tat geplant, keine Bande.
+- **Bandenmitgliedschaft angreifen:** War der Mandant tatsaechlich Bandenmitglied oder nur Gehilfe einer einzelnen Tat? Bandenabrede setzt mehrere kuenftige selbständige Taten voraus. Wenn nur eine konkrete Tat geplant, keine Bande.
 - **Konkurrentenpruefung:** Ist die Tat als Mitglied der Bande begangen? Mancher Mitwirkende handelt unabhaengig von der Bandenabrede.
 - **Schusswaffe — Bei-sich-Fuehren:** Der Taeter muss die Waffe bewusst gegriffen bereit halten. Bei § 30a Abs. 2 Nr. 2 ist die Schwelle strenger als bei § 30 Abs. 2 BtMG: "bei sich fuehrt" ist enger als "mitfuehrt".
 - **Minder schwerer Fall § 30a Abs. 3 BtMG:** umfangreiche Verteidigungsmoeglichkeit. Bei Annahme: Mindeststrafe sechs Monate. Aufklaerungshilfe § 31 BtMG verstaerkt regelmaessig die Begruendung.

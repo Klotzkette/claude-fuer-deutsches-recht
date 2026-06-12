@@ -44,7 +44,7 @@ description: "Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft im B
 - BVerfG 2 BvL 8/17: Mindestabstand zur Grundsicherung muss gewahrt sein.
 - Gesetzgeber muss Erhoehung sicherstellen.
 
-## Pruefraster
+## Prüfraster
 
 1. Familienstand?
 2. Wie viele Kinder?

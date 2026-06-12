@@ -28,7 +28,7 @@ description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und
 
 ## Drittabtretungsmodell
 
-- BGH VIII ZR 60/01 und Folgejudikate: Leasinggeber tritt Maengelansprueche an Leasingnehmer ab; AGB-Klausel zur Drittabtretung im Verhaeltnis Lieferant-Leasinggeber wirksam.
+- BGH VIII ZR 60/01 und Folgejudikate: Leasinggeber tritt Maengelansprueche an Leasingnehmer ab; AGB-Klausel zur Drittabtretung im Verhältnis Lieferant-Leasinggeber wirksam.
 
 ## Restwertabrechnung
 
@@ -44,7 +44,7 @@ description: "AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und
 
 - AGB-Klausel zum Mehrkilometerentgelt wirksam, soweit angemessen.
 
-## Pruefraster
+## Prüfraster
 
 1. Operating- oder Finance-Leasing?
 2. Drittabtretungsmodell vereinbart?

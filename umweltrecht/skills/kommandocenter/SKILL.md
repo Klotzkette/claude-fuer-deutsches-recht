@@ -51,7 +51,7 @@ description: "Umweltmandat-Einstieg: Intake Anlagenkarte Behördenkarte Fristen 
 - **§ 4 UmwRG** — Verfahrensfehler als Aufhebungsgrund
 - **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen vollziehbare Genehmigung
 
-## Leitentscheidungen (Ueberblick)
+## Leitentscheidungen (Überblick)
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

@@ -1,6 +1,6 @@
 ---
 name: gesindeordnung-gesinderecht
-description: "Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Gesindeordnung 1810 und Folgereformen. Skill überblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
 ---
 
 # Pralr Gesindeordnung 1810 Und Folgereformen
@@ -50,7 +50,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - BGB §§ 611 ff. Dienstvertrag als allgemeines Recht.
 - Tarifvertraege Mindestlohn.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Quelle?

@@ -17,7 +17,7 @@ description: "PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge: prü
 
 - **ALR I 4 §§ 1-30**: Begriff Willenserklaerung.
 - **ALR I 4 §§ 31-90**: Mangelhafte Willenserklaerung (Furcht, Irrtum, arglistige Taeuschung).
-- **ALR I 4 §§ 100-150**: Erforderliche Geschaeftsfaehigkeit (Adolescenten unter 25 mit cura minorum).
+- **ALR I 4 §§ 100-150**: Erforderliche Geschäftsfaehigkeit (Adolescenten unter 25 mit cura minorum).
 
 ## Anfechtungsgruende
 
@@ -36,9 +36,9 @@ A unterschreibt aus Furcht vor Drohung mit Gewalt.
 
 - §§ 116-144 BGB Willenserklaerungen.
 - §§ 119, 120, 123 BGB Anfechtung.
-- §§ 104-113 BGB Geschaeftsfaehigkeit.
+- §§ 104-113 BGB Geschäftsfaehigkeit.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Mangel?
 2. Anfechtungsgrund?

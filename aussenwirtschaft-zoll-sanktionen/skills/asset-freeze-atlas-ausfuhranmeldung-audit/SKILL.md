@@ -3,7 +3,7 @@ name: asset-freeze-atlas-ausfuhranmeldung-audit
 description: "Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste für Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflich..."
 ---
 
-# Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermoegens
+# Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens
 
 ## Arbeitsbereich
 
@@ -40,7 +40,7 @@ Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis
 - **§ 18 AWG**: Strafbewehrte Bereitstellung sanktionierten Vermogens.
 - **§ 22 Abs. 4 AWG**: Freiwillige Selbstanzeige als Mildernungsmoeglichkeit.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Trefferidentitaet eindeutig verifiziert (kein False Positive)?
 - [ ] Einfrierungsmassnahmen sofort und vollstaendig umgesetzt?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

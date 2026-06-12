@@ -36,7 +36,7 @@ description: "Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer 
 - **§ 38 EnergieStG**: Steuerbefreiung bei Ausfuhr von Energieerzeugnissen.
 - **UZK Art. 5 Nr. 2**: Zollgebiet abgegrenzt von Verbrauchsteuerterritorium.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Ware korrekt als verbrauchsteuerpflichtig identifiziert?
 - [ ] Steueraussetzungsverfahren und EMCS korrekt eroeffnet?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

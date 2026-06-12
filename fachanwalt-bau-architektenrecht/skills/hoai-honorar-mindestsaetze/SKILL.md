@@ -89,7 +89,7 @@ description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindest
 - Basishonorarsatz / Honorartafel HOAI 2021
 - Multiplikator anrechenbare Kosten × Zone × LPH-Prozent
 
-## 5) Schlussrechnung Pruefbarkeit § 14 HOAI
+## 5) Schlussrechnung Prüfbarkeit § 14 HOAI
 
 ### Pflicht-Inhalt
 
@@ -99,13 +99,13 @@ description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindest
 - Multiplikator nachvollziehbar
 - Nebenkosten getrennt
 
-### Bei Pruefbarkeits-Mangel
+### Bei Prüfbarkeits-Mangel
 
 - Fälligkeit nicht eingetreten -> keine Verzugszinsen
-- Aufforderung zur Pruefbarmachung
+- Aufforderung zur Prüfbarmachung
 - Bei laufender Verjährungsfrist: Hemmung prüfen
 
-### Frist zur Pruefbarmachung
+### Frist zur Prüfbarmachung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nach Schweigen Fälligkeit fingiert
@@ -143,7 +143,7 @@ description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindest
 
 ## 8) AG-Strategie (Honorar-Verteidigung)
 
-### Schritt 1 — Pruefbarkeit ruegen
+### Schritt 1 — Prüfbarkeit ruegen
 
 - Innerhalb 2 Monaten
 
@@ -160,9 +160,9 @@ description: "HOAI-Honorar für Architekten und Ingenieure berechnen und Mindest
 ## 9) Typische Fehler
 
 1. **Mindestsätze als bindend angesehen** (nach EuGH-Urteil)
-2. **Pruefbarkeit-Ruege übersehen** -> Fälligkeit fingiert
+2. **Prüfbarkeit-Ruege übersehen** -> Fälligkeit fingiert
 3. **Verbraucher-Architektenvertrag ohne Pflicht-Inhalt** -> nichtig
-4. **Anrechenbare Kosten nicht dokumentiert** -> Pruefbarkeit
+4. **Anrechenbare Kosten nicht dokumentiert** -> Prüfbarkeit
 5. **LPH-Erbringung nicht nachweisbar** -> Honorar-Reduzierung
 
 ## 10) Aktuelle Rechtsprechung — Leitsätze (Stand Mai 2026)

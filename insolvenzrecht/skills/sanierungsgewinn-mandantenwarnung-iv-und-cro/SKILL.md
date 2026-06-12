@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-mandantenwarnung-iv-und-cro
-description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 O..."
+description: "Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klären ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 O..."
 ---
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner
@@ -35,7 +35,7 @@ Adressat: Berater, der gegenueber IV/CRO/Schuldner kommunizieren muss. Tonfall: 
 
 Kaltstart-Fragen:
 
-1. An wen geht der Brief (IV namentlich, CRO, Geschaeftsfuehrung, Sachwalter)?
+1. An wen geht der Brief (IV namentlich, CRO, Geschäftsführung, Sachwalter)?
 2. Mandatsstand (Forderungsverzicht im Plan in welcher Groessenordnung)?
 3. Wie ist der Berater im Mandat verankert (eigenes Mandat, Subbeauftragung, Massehaftung Kostenuebernahme)?
 4. Wie steht die Zeitachse (Plan in Vorbereitung, Plan eingereicht, Plan bestaetigt)?
@@ -46,7 +46,7 @@ Wenn die Fragen 1 und 4 beantwortet sind, beginnt der Brief.
 
 - Paragraph 60 InsO — Schadensersatzpflicht des Insolvenzverwalters bei schuldhafter Pflichtverletzung. Der Verwalter haftet auch gegenueber der Masse für steuerliche Versaeumnisse.
 - Paragraph 69 AO — Haftung der gesetzlichen Vertreter für Steuerschulden.
-- Paragraph 130 OWiG — Aufsichtspflichtverletzung; relevant für Geschaeftsfuehrer und CRO.
+- Paragraph 130 OWiG — Aufsichtspflichtverletzung; relevant für Geschäftsführer und CRO.
 - Paragraph 89 AO — verbindliche Auskunft (Kostenfrage).
 - Paragraph 43a Absatz 2 BRAO, Paragraph 203 StGB — Mandantengeheimnis bei Kommunikation; AVV bei Tools.
 - Paragraph 3a EStG, Paragraph 7b GewStG — die materiellen Sanierungsgewinn-Normen.
@@ -65,10 +65,10 @@ Wenn die Fragen 1 und 4 beantwortet sind, beginnt der Brief.
 | Variante | wann sinnvoll |
 |---|---|
 | Brief an IV | wenn der Berater extern angesprochen ist und Versaeumnis des IV vorbeugen will |
-| Brief an Schuldner-Geschaeftsfuehrung | wenn Eigenverwaltung oder Schutzschirm laeuft und GF entscheidungsbefugt ist |
+| Brief an Schuldner-Geschäftsführung | wenn Eigenverwaltung oder Schutzschirm laeuft und GF entscheidungsbefugt ist |
 | Brief an CRO | wenn der CRO im StaRUG-Verfahren oder Eigenverwaltung verantwortlich ist |
 | Aktennotiz statt Brief | wenn der Berater bereits im Beraterkreis ist und kein "Eskalations"-Schreiben noetig |
-| Stellungnahme Glaeubigerausschuss | wenn der Berater zugleich Mitglied oder Berater des Ausschusses ist |
+| Stellungnahme Gläubigerausschuss | wenn der Berater zugleich Mitglied oder Berater des Ausschusses ist |
 
 ## Mustertexte / Berechnungsbeispiele
 
@@ -122,7 +122,7 @@ Mit freundlichen kollegialen Gruessen
 [Unterschrift mit Berufsbezeichnung]
 ```
 
-**Variante B — Brief an Geschaeftsfuehrung / CRO in Eigenverwaltung:**
+**Variante B — Brief an Geschäftsführung / CRO in Eigenverwaltung:**
 
 ```
 [Briefkopf]
@@ -163,7 +163,7 @@ Mit freundlichen Gruessen
 2. **CC an StB des Schuldners.** Wer den Brief gleich an den StB mitschickt, schliesst die Kommunikationslucke.
 3. **Frist setzen, aber nicht ueberreizen.** 14 Tage sind im normalen Verfahren angemessen; im Schutzschirmverfahren ggf. kuerzer.
 4. **Keine Drohung, sondern Hinweispflicht.** Tonfall sachlich; die Haftungsformulierung soll mahnen, nicht eskalieren.
-5. **Wenn der IV nicht reagiert,** Briefkette dokumentieren und ggf. an den vorläufigen Glaeubigerausschuss eskalieren.
+5. **Wenn der IV nicht reagiert,** Briefkette dokumentieren und ggf. an den vorläufigen Gläubigerausschuss eskalieren.
 
 ## Typische Fehler
 

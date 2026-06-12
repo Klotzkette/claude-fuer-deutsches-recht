@@ -82,7 +82,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 146 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -176,14 +176,14 @@ Automatisch generierte Komplett-Liste aller 146 Skills in diesem Plugin. Beschre
 | `medizinprodukt-haftung-paragraf-1-prodhaftg` | Medizinprodukt Haftung § 1 ProdHaftG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `medizinrecht-tatbestand-beweis-und-belege` | Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `medr-arzthaftung-checkliste` | Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko: Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr §... |
-| `medr-aufklaerung-einwilligung-leitfaden` | Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung: Pruefraster für Ein... |
+| `medr-aufklaerung-einwilligung-leitfaden` | Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung: Prüfraster für Ein... |
 | `medr-aufklaerung-und-einwilligung-praxis` | Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme: Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachba... |
 | `medr-einfuehrung-themen` | Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen: Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht,... |
 | `medr-grundpfeiler-igel-und-aerztewerbung-spezial` | Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht: Spezialfall IGeL-Leistungen und... |
 | `medr-igel-leistung-spezial` | Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung: Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schrif... |
 | `medr-mandantenkommunikation-entscheidungsvorlage` | Medr: Mandantenkommunikation und Entscheidungsvorlage: Medr: Mandantenkommunikation und Entscheidungsvorlage. |
 | `medr-mvz-strukturierung-spezial` | Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft: Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsaus... |
-| `medr-mvz-strukturwandel-spezial` | Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot: Pruefrast... |
+| `medr-mvz-strukturwandel-spezial` | Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot: Prüfrast... |
 | `minderjaehrige-einwilligung` | Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz: Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsf... |
 | `mindestmengen-zentrumsbildung` | Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit: Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komple... |
 | `mpdg-compliance-dokumentation-und-akte` | Mpdg: Compliance-Dokumentation und Aktenvermerk: Mpdg: Compliance-Dokumentation und Aktenvermerk. |

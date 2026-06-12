@@ -25,7 +25,7 @@ description: "Student schreibt Seminararbeit mit persönlicher Lekture durch Leh
 ## Zentrale Normen
 - Art. 5 Abs. 3 GG — Wissenschaftsfreiheit als Grundlage der Seminararbeit
 - § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Ausbildungsziel
-- §§ 133, 157 BGB — Auslegungs-Methoden als inhaltlicher Massstab
+- §§ 133, 157 BGB — Auslegungs-Methoden als inhaltlicher Maßstab
 - § 242 BGB — Treu und Glauben: auch wissenschaftliche Auseinandersetzung muss fair und vollstaendig sein
 
 ## Schritt 1 — Was ist eine Seminararbeit?

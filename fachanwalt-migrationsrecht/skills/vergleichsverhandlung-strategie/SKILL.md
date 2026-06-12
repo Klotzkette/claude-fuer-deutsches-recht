@@ -1,9 +1,9 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlungs-St..."
+description: "Vergleichsverhandlungs-Strategie für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich): Vergleichsverhandlungs-St..."
 ---
 
-# Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+# Vergleichsverhandlungs-Strategie für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 
 ## Arbeitsweg
@@ -14,14 +14,14 @@ description: "Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staat
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
-### Vergleichsverhandlung und Einigung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Vergleichsverhandlung und Einigung im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 
-- Sachverhalte aus dem Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
-- Typische Konstellationen: Aufenthaltsverhandlung Auslaenderbehoerde, Familienzusammenfuehrung.
+- Sachverhalte aus dem Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
+- Typische Konstellationen: Aufenthaltsverhandlung Ausländerbehoerde, Familienzusammenfuehrung.
 - Sowohl in der aussergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Gueteverhandlung, Hauptverhandlung).
 
 ## Vorbereitung der Verhandlung
@@ -35,11 +35,11 @@ description: "Vergleichsverhandlungs-Strategie für Auslaender-, Asyl- und Staat
 
 ### 2. Interessen vs. Positionen
 
-Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sondern Interessen ("Ich brauche bis Jahresende Liquiditaet"). In Auslaender-, Asyl- und Staatsangehoerigkeitsrecht typische Interessen-Cluster:
+Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sondern Interessen ("Ich brauche bis Jahresende Liquiditaet"). In Ausländer-, Asyl- und Staatsangehoerigkeitsrecht typische Interessen-Cluster:
 
 - Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
 - Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
+- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschäftspartner)
 - Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
 - Vertraulichkeit (NDA im Vergleich)
 
@@ -92,7 +92,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 - Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
 - Beteiligung der Streithelfer/Nebenintervenienten beachten.
 
-## Risiken und Stolpersteine im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+## Risiken und Stolpersteine im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 - Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> AufenthG und ESt-/USt-Regeln prüfen.
 - Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
@@ -134,7 +134,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 ## Steuerliche Behandlung des Vergleichs
 
-Im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht oft uebersehen:
+Im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht oft uebersehen:
 
 - Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
 - Vergleich über Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug prüfen.
@@ -144,7 +144,7 @@ Im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht oft uebersehen:
 
 ## Mediation als Alternative
 
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
+- Wenn Beziehung erhalten bleiben soll (Familie, Geschäftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
 - Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
@@ -158,7 +158,7 @@ Im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht oft uebersehen:
 
 ## Vergleichs-Reichweite und Abgeltungsklausel
 
-Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
+Klassische Stolperfalle in Ausländer-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
@@ -193,11 +193,11 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Triage vor Verstaendigungsversuch
 
 Bevor losgelegt wird, klaere:
-1. Hat die Auslaenderbehoerde Ermessensspielraum — oder handelt es sich um gebundene Entscheidung?
+1. Hat die Ausländerbehoerde Ermessensspielraum — oder handelt es sich um gebundene Entscheidung?
 2. Was ist das BATNA des Mandanten: Klage mit wie langer Dauer und welchen Erfolgsaussichten?
 3. Was ist das BATNA der Behörde: Klagerisiko, Kosten, politischer Druck?
 4. Ist ein Prozessvergleich § 106 VwGO angestrebt (Vollstreckungstitel) oder aussergerichtliche Vereinbarung?
-5. Besteht Bereitschaft der Auslaenderbehoerde zu Gespraechen (Verhalten bisher)?
+5. Besteht Bereitschaft der Ausländerbehoerde zu Gespraechen (Verhalten bisher)?
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -214,7 +214,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Output-Template: Verstaendigungsvorschlag Migrationsrecht
 
-**Adressat:** Auslaenderbehoerde [ORT]
+**Adressat:** Ausländerbehoerde [ORT]
 **Tonfall:** Kooperativ-rechtlich; Kompromissbereitschaft signalisierend
 
 ```

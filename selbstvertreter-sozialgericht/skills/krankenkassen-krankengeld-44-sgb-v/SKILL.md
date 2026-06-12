@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-krankengeld-44-sgb-v
-description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Pruefraster und Strategie bei Streit."
+description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften für Selbststaendige. Liefert Prüfraster und Strategie bei Streit."
 ---
 
 # Krankenkassen Krankengeld 44 Sgb V
@@ -48,7 +48,7 @@ description: "Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Vorau
 - Bei Reha-Ablehnung: Krankengeld weiter, bis Aussteuerung.
 - Nach Aussteuerung Wechsel zu Arbeitslosengeld bei Arbeitslosigkeit.
 
-## Pruefraster
+## Prüfraster
 
 1. AU-Bescheinigung lueckenlos?
 2. Höhe des Bruttoeinkommens?

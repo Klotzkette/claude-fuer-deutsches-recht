@@ -71,7 +71,7 @@ Privatklage Paragraph 374 ff. StPO:
 - **Privatgebrauchsausnahme (Paragraph 108b Abs 2 UrhG, Paragraph 53 UrhG).** Bei Einzelkopien ohne Verbreitung greifen Schranken.
 - **Schutzbereichsstreit (Patent, Design).** Sachverstaendigengutachten zur Auslegung beantragen; bei Schutzbereich-Auseinandersetzungen kann das Strafverfahren ausgesetzt werden.
 - **Nichtigkeitsantrag (Patent, Design).** Parallel Nichtigkeitsklage einreichen; Strafverfahren aussetzen Paragraph 154d StPO (oder Paragraph 262 StPO bzw. allgemeine Aussetzung wegen Vorgreiflichkeit — bitte Norm im konkreten Fall verifizieren).
-- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Im Geschaeftsgeheimnisstrafrecht zentrale Rechtfertigungsgrundlage.
+- **Whistleblower-Schutz Paragraph 5 GeschGehG.** Im Geschäftsgeheimnisstrafrecht zentrale Rechtfertigungsgrundlage.
 
 ## Trade-off-Matrix
 
@@ -108,7 +108,7 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 **Antrag auf Einstellung wegen verspaeteten Strafantrags:** "Ich beantrage, das Ermittlungsverfahren gegen meinen Mandanten nach Paragraph 170 Abs 2 StPO einzustellen. Der Strafantrag der X AG vom DD.MM.JJJJ ist verspaetet. Die X AG hat ausweislich des Schreibens vom DD.MM.JJJJ (Anlage 1, internes Memorandum X) bereits am DD.MM.JJJJ Kenntnis von Tat und Taeter erlangt. Die Frist von drei Monaten nach Paragraph 77b StGB ist am DD.MM.JJJJ abgelaufen; der Strafantrag wurde erst am DD.MM.JJJJ und damit nach Fristablauf gestellt. Die Verfolgungsvoraussetzung fehlt."
 
-**Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware über den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschaeftsfuehrer der Haendlerfirma) angeboten."
+**Schutzschrift mit Erschoepfungseinwand:** "Mein Mandant hat die streitgegenstaendliche Ware über den autorisierten Haendler X in einem EWR-Mitgliedstaat erworben (Anlage 1, Rechnung mit MWSt-Ausweis; Anlage 2, Lieferschein mit EU-Herkunftserklaerung). Es liegt Erschoepfung nach Paragraph 24 MarkenG vor; eine Markenverletzung scheidet aus. Hilfsweise wird Beweis durch Vernehmung des Zeugen X (Geschäftsführer der Haendlerfirma) angeboten."
 
 ## Quellen Stand 06/2026
 
@@ -118,4 +118,4 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 - Paragraphen 14, 17, 25, 27, 46, 46a, 46b, 49, 52, 70, 73, 73c, 74 StGB.
 - Paragraph 24 MarkenG Erschoepfung; Paragraph 51 / Paragraph 53 UrhG Schranken; Paragraph 108b Abs 2 UrhG Privatgebrauchsausnahme; Paragraph 5 GeschGehG Whistleblower.
 - VO (EU) 608/2013 Produktpiraterieverordnung.
-- BGH staendige Rspr. zur Gewerbsmaessigkeit, zum Bandenbegriff und zum Bruttoprinzip bei Vermoegensabschoepfung; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz verifizieren.
+- BGH staendige Rspr. zur Gewerbsmaessigkeit, zum Bandenbegriff und zum Bruttoprinzip bei Vermögensabschoepfung; Datum und konkrete Aktenzeichen vor Verwendung im Schriftsatz verifizieren.

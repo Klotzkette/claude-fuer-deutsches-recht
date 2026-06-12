@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlaege-fristen
-description: "Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen prüfen im Wahlkampfrecht."
 ---
 
 # Wahlvorschlaege Fristen

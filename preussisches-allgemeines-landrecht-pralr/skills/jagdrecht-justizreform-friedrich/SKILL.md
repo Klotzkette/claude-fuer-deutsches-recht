@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - ALR I 24 — Fischereirecht des Eigentuemers oder des Berechtigten am Gewaesser.
 - Heute Landesfischereigesetze.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Berechtigung?

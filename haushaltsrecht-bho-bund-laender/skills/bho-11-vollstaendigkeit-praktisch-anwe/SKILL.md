@@ -53,6 +53,6 @@ description: "Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit pr
 
 ### Anwendung im Skill
 
-- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Massnahmebeginn wirkt zuwendungsschaedlich.
+- Zuwendung nach § 44 BHO und ANBest-P vor jeder Auszahlung prüfen; vorzeitiger Maßnahmebeginn wirkt zuwendungsschaedlich.
 - Wirtschaftlichkeitsuntersuchung nach § 7 BHO bei Investitionen > Schwellenwert nicht uebergehen.
 - BRH-Bemerkungen nach § 97 BHO sind keine Rechtsquellen, beeinflussen aber Bewilligungspraxis erheblich.

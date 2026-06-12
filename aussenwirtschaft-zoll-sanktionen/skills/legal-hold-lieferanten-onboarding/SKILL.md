@@ -36,7 +36,7 @@ description: "Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sa
 - **§ 146 AO**: Buchfuehrungsunterlagen-Aufbewahrungspflicht.
 - **§ 97 StPO**: Beschlagnahmefreiheit anwaltlicher Unterlagen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Legal-Hold-Anordnung alle relevante Datenkategorien erfassend?
 - [ ] IT-Sicherungsmassnahmen zeitnah eingeleitet?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

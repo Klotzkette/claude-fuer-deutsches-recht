@@ -1,6 +1,6 @@
 ---
 name: strafbarkeit-266a-teammeetings-agile
-description: "Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit im Sozialversicherungsstatus Pruefer."
+description: "Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit im Sozialversicherungsstatus Prüfer."
 ---
 
 # § 266a StGB Risiko

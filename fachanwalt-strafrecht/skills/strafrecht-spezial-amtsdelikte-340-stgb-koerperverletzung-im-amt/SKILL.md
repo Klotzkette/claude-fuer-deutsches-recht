@@ -48,7 +48,7 @@ Bei Anknuepfung an Paragraph 223 StGB gilt der erhoehte Strafrahmen Paragraph 34
 
 ### Subjektiver Tatbestand
 
-Vorsatz hinsichtlich Koerperverletzung und Amtsstellung. Notwehr nach Paragraph 32 StGB und Notstand nach Paragraph 34 StGB sind moegliche Rechtfertigungsgruende; sie sind aber bei Polizeibeamten oft durch Polizeigesetze und Verhaeltnismaessigkeitspruefung praezisiert.
+Vorsatz hinsichtlich Koerperverletzung und Amtsstellung. Notwehr nach Paragraph 32 StGB und Notstand nach Paragraph 34 StGB sind moegliche Rechtfertigungsgruende; sie sind aber bei Polizeibeamten oft durch Polizeigesetze und Verhältnismäßigkeitspruefung praezisiert.
 
 ### Versuch Absatz 3 (verweis auf Paragraph 223 StGB)
 
@@ -67,7 +67,7 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 
 | Pfad A vollumfaengliches Bestreiten | Pfad B Gestaendnis Koerperverletzung, Bestreiten Vorsatz / Rechtfertigung | Empfehlung |
 | --- | --- | --- |
-| Riskant bei Videoaufzeichnung; lange Hauptverhandlung. | Substantiierte Verhaeltnismaessigkeits-Verteidigung; Notwehr oder Putativnotwehr. | Bei Polizeigewalt-Vorwurf Pfad B fast immer guenstiger. Substantiierte Darstellung der Konfliktdynamik. |
+| Riskant bei Videoaufzeichnung; lange Hauptverhandlung. | Substantiierte Verhältnismäßigkeits-Verteidigung; Notwehr oder Putativnotwehr. | Bei Polizeigewalt-Vorwurf Pfad B fast immer guenstiger. Substantiierte Darstellung der Konfliktdynamik. |
 
 ## Konkurrenzen
 

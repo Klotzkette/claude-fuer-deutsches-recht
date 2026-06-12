@@ -1,6 +1,6 @@
 ---
 name: dsfa-template-deutsch-vollvorlage
-description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhaeltnismaessigkeit Risiken Massnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen."
+description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuellten Platzhaltern für alle sechs Pflichtsektionen Beschreibung Verhältnismäßigkeit Risiken Maßnahmen Restrisiko Freigabe. Output: vollstaendige DSFA-Vorlage zum Befuellen."
 ---
 
 # DSFA-Vollvorlage Deutsch
@@ -27,7 +27,7 @@ description: "Deutsche DSFA-Vollvorlage nach Art. 35 Abs. 7 DSGVO mit ausgefuell
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Sektion 1 der Vorlage befuellen.
-2. **Verhaeltnismaessigkeitspruefung.** Sektion 2.
+2. **Verhältnismäßigkeitspruefung.** Sektion 2.
 3. **Risikoanalyse.** Sektion 3 mit Risikomatrix.
 4. **Maßnahmen.** Sektion 4.
 5. **Restrisiko.** Sektion 5.
@@ -175,7 +175,7 @@ Trigger für ausserplanmäßige Pruefung: [Aenderung Datenarten / Empfaenger / T
 - Risikoszenarien werden nur für Vertraulichkeit gepflegt, andere Schutzziele bleiben leer.
 - Maßnahmen-Tabelle ohne Verantwortliche und Fristen — nicht steuerbar.
 - DSB unterschreibt nicht oder später — Beweisluecke.
-- Versionierung fehlt — bei Aenderung nicht nachvollziehbar.
+- Versionierung fehlt — bei Änderung nicht nachvollziehbar.
 
 ## Quellen Stand 06/2026
 

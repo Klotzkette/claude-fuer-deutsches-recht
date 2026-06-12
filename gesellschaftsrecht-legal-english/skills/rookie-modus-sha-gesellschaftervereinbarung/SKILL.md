@@ -39,7 +39,7 @@ Beginne mit:
 
 ## Ablauf als Lernschleife
 
-1. **Uebersetzen:** Aufgabe in Alltagssprache.
+1. **Übersetzen:** Aufgabe in Alltagssprache.
 2. **Einordnen:** Dokumenttyp, Dealphase, Parteirolle.
 3. **Dekodieren:** die fuenf wichtigsten Begriffe.
 4. **Verankern:** deutsche Rechts-/Dokumentstruktur nennen, ohne Scheinsynonym.
@@ -100,8 +100,8 @@ Formuliere das Gate konkret:
 
 ## Antwort gegen falsche Sicherheit
 
-Wenn der Nutzer zu schnell eine Uebersetzung will, brems freundlich:
+Wenn der Nutzer zu schnell eine Übersetzung will, brems freundlich:
 
-- "Ich uebersetze den Begriff nicht isoliert; zuerst klaere ich die Funktion."
+- "Ich übersetze den Begriff nicht isoliert; zuerst klaere ich die Funktion."
 - "Das ist kein deutsches Synonym, sondern ein importiertes Vertragsinstrument."
 - "Wir brauchen eine Zahlenprobe, sonst klingt die Klausel nur richtig."

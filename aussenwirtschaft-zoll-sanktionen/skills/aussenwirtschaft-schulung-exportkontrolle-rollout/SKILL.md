@@ -21,7 +21,7 @@ description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BA
 
 ## Erste Schritte
 
-1. Zielgruppen definieren: Vertrieb, Einkauf, Logistik, Compliance, IT, Geschaeftsfuehrung.
+1. Zielgruppen definieren: Vertrieb, Einkauf, Logistik, Compliance, IT, Geschäftsführung.
 2. Schulungsinhalt je Zielgruppe anpassen: Gueterklassifizierung für Vertrieb, Screening für Einkauf.
 3. Format waehlen: E-Learning (Skalierbarkeit), Prasenzschulung (Tiefenwirkung), Kombination.
 4. Schulungskalender erstellen; jhrliche Wiederholung planen.
@@ -36,7 +36,7 @@ description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BA
 - **AWV § 26**: Allgemeine Dokumentationspflicht, Schulungsnachweise als Teil.
 - **§ 43 GwG**: Schulungspflicht analog auch für exportkontrollrelevante Bereiche.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle exportkontrollrelevanten Zielgruppen identifiziert?
 - [ ] Schulungsinhalte zielgruppengerecht aufbereitet?
@@ -49,7 +49,7 @@ description: "Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BA
 
 - Schulung ohne Nachweis-Dokumentation hat keinen ICP-Wert bei BAFA-Prüfung.
 - Generische Online-Schulungen ohne Anpassung an Unternehmensgueter und -maerkte wenig wirksam.
-- Schulungsinhalt veraltet; Dual-Use-Liste-Aenderungen nicht eingearbeitet.
+- Schulungsinhalt veraltet; Dual-Use-Liste-Änderungen nicht eingearbeitet.
 - Vertrieb wird oft vergessen; hat aber die meisten Kundenkontakte mit Red-Flag-Potenzial.
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

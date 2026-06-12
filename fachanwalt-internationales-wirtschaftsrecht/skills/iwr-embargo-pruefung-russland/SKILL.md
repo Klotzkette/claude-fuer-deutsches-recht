@@ -251,7 +251,7 @@ Mit freundlichen Gruessen
 - **§ 134 BGB** — Nichtigkeit des Rechtsgeschaefts bei Verstoß gegen gesetzliches Verbot
 - **§ 31 OWiG** — Verjährung der Verbandsgeldbuße; § 78 Abs. 3 Nr. 4 StGB — Strafverfolgungsverjährung 5 Jahre
 
-## Output-Template: Sanktionsrechtliches Pruefungsmemo
+## Output-Template: Sanktionsrechtliches Prüfungsmemo
 
 **Adressat:** Geschaftsfuehrung / Compliance-Abteilung des Mandanten
 **Tonfall:** Sachlich-juristisch, handlungsorientiert

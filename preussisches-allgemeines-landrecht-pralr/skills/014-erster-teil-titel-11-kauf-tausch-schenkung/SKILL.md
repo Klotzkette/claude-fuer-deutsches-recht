@@ -16,7 +16,7 @@ description: "PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung: prüft konkret 
 ## Wichtige Paragraphen
 
 - **ALR I 11 §§ 1-86**: Kauf (emptio venditio).
-- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Uebergabe.
+- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Übergabe.
 - **ALR I 11 §§ 116-180**: Aedilizische Aktionen (Sachmaengelhaftung).
 - **ALR I 11 §§ 200-260**: Tausch.
 - **ALR I 11 §§ 270-320**: Schenkung.
@@ -40,7 +40,7 @@ Pferd nach Kauf lahmt; Mangel vor Kauf bestand.
 - §§ 480-481 BGB Tausch.
 - §§ 516-534 BGB Schenkung.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragstyp?
 2. Mangel?

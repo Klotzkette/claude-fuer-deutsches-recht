@@ -51,7 +51,7 @@ Zum Jahresende sind verschiedene Jahresmeldungen Pflicht: Jahresmeldung DEUEV (L
 - Inhalt: SV-pflichtige Lohnsumme je AN über das ganze Jahr.
 - Form: elektronisch über sv.net (online / comfort) oder DATEV DAKOTA.
 - Abgabegrund: 50 (Jahresmeldung).
-- Eigene Meldung pro AN, der im Jahr beschaeftigt war (auch ausgeschiedene).
+- Eigene Meldung pro AN, der im Jahr beschäftigt war (auch ausgeschiedene).
 
 ### Phase 2 — Lohnsteuerbescheinigung
 

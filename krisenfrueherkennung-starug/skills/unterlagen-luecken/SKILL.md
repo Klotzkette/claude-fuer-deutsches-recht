@@ -14,13 +14,13 @@ Diese Unterlagenprüfung für **Krisenfrueherkennung Starug** benennt fehlende D
 - `ampelsystem-beweislast-und-darlegungslast` — Ampelsystem Beweislast und Darlegungslast
 - `berater-drohende-fruehwarnsystem` — Berater Drohende Fruehwarnsystem
 - `cross-class-cram-down-und-absolute-priority` — Cross Class Cram Down und Absolute Priority
-- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschaeftsfuehrung
+- `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Dokumentationspflicht und Protokollierung Geschäftsführung
 - `drohende-zahlen-schwellen-und-berechnung` — Drohende Zahlen Schwellen und Berechnung
 - `drohende-zahlungsunfaehigkeit` — Drohende Zahlungsunfaehigkeit
 - `fortbestehensprognose-zweistufig` — Fortbestehensprognose Zweistufig
 - `fruehwarnsystem-architektur-zwei-jahres-horizont` — Fruehwarnsystem Architektur Zwei Jahres Horizont
 - `fruehwarnsystem-behoerden-gericht-und-registerweg` — Fruehwarnsystem Behoerden Gericht und Registerweg
-- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschaeftsfuehrerhaftung Quellenkarte Check
+- `geschaeftsfuehrerhaftung-quellenkarte-check` — Geschäftsführerhaftung Quellenkarte Check
 - `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF Haftung Paragraph 43 GMBHG und Paragraph 93 AKTG
 - `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Insolvenzantragspflicht Paragraph 15A Inso und Drei Wochen Frist
 - `integrierte-interessen-kennzahlenset` — Integrierte Interessen Kennzahlenset

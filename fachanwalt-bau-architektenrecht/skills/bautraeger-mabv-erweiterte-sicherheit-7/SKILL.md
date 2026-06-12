@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-erweiterte-sicherheit-7
-description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell: Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Pruefraster."
+description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell: Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Prüfraster."
 ---
 
 # MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell
@@ -14,7 +14,7 @@ description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Raten
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell. Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Pruefraster.
+**Fokus:** MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Ratenmodell. Skill klaert die Voraussetzungen Praxisfragen und das Risiko-Profil aus Erwerberperspektive. Liefert Prüfraster.
 
 ### Bautraeger Mabv Erweiterte Sicherheit 7
 
@@ -35,7 +35,7 @@ description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Raten
 
 ### § 3-Modell Vorteile
 - Erwerber zahlt nur für Geleistetes.
-- Bei Insolvenz: bisher gezahlte Raten sind ggf. werthaltig in Vermoegensauskehr.
+- Bei Insolvenz: bisher gezahlte Raten sind ggf. werthaltig in Vermögensauskehr.
 
 ### § 3-Modell Risiken
 - Komplexer.
@@ -46,7 +46,7 @@ description: "MaBV § 7 erweiterte Sicherheitsleistung — Alternative zum Raten
 - Vor Annahme der Buergschaft Erwerber bonitaetspruefung des Bautraegers UND der Bank.
 - Frueh: Bautraegerinsolvenz Pleiten typisch zwischen Baubeginn und Bezugsfertigkeit.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Modell?
 2. Bonitaet aller Parteien?

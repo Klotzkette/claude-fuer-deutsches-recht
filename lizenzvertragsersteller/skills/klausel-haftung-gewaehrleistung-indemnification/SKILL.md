@@ -32,7 +32,7 @@ Bei B2B-Vertraegen ueblich:
 
 > "$ 9 Haftungsbeschraenkungen.
 > (1) Die Haftung des Lizenzgebers für einfache Fahrlaessigkeit ist je Vertragsjahr auf einen Betrag in Höhe der im jeweiligen Vertragsjahr gezahlten Lizenzgebuehren begrenzt; insgesamt jedoch nicht weniger als [Betrag] EUR.
-> (2) Mittelbare Schaeden, Folgeschaeden, entgangener Gewinn und reine Vermoegensschaeden sind ausgeschlossen.
+> (2) Mittelbare Schaeden, Folgeschaeden, entgangener Gewinn und reine Vermögensschaeden sind ausgeschlossen.
 > (3) Diese Beschraenkungen gelten nicht bei Vorsatz, grober Fahrlaessigkeit, der Verletzung von Leben, Koerper oder Gesundheit sowie bei Verletzung wesentlicher Vertragspflichten ("Kardinalpflichten")."
 
 ## Spezialfall Patent Validity

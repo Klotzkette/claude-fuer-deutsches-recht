@@ -1,13 +1,13 @@
 ---
 name: umwandlungsrecht-wi-insurance
-description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG im Corporate Kanzlei."
+description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schlüsselentscheidungen BGH und BayObLG im Corporate Kanzlei."
 ---
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel
 
 ## Arbeitsbereich
 
-Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schlüsselentscheidungen BGH und BayObLG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -27,7 +27,7 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 
 ## Triage — klaere vor Beginn
 
-1. Welche Umwandlungsart: Verschmelzung (§§ 2 ff. UmwG), Spaltung (§§ 123 ff. UmwG), Formwechsel (§§ 190 ff. UmwG) oder Vermoegensuebertragung (§§ 174 ff. UmwG)?
+1. Welche Umwandlungsart: Verschmelzung (§§ 2 ff. UmwG), Spaltung (§§ 123 ff. UmwG), Formwechsel (§§ 190 ff. UmwG) oder Vermögensuebertragung (§§ 174 ff. UmwG)?
 2. Welche Rechtsformen sind beteiligt: GmbH, AG, KG, GbR (nach MoPeG)?
 3. Grenzueberschreitend? → Sondernormen SEVIC, UmwandlungsRL 2019/2121/EU, Umsetzung durch UmwG-Novelle 2023
 4. Steuerlich gewuenschte Behandlung: steuerneutraler Uebergang (§§ 11 ff. UmwStG) oder Realisierung?
@@ -39,9 +39,9 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 ## Zentrale Normen
 
 - **§§ 2-122 UmwG** — Verschmelzung (Aufnahme und Neugründung); Verschmelzungsvertrag, Verschmelzungsbericht, HV/GV-Beschluss 3/4-Mehrheit
-- **§§ 123-173 UmwG** — Spaltung (Aufspaltung, Abspaltung, Ausgliederung); partieller Vermoegensuebertrag
+- **§§ 123-173 UmwG** — Spaltung (Aufspaltung, Abspaltung, Ausgliederung); partieller Vermögensuebertrag
 - **§§ 190-304 UmwG** — Formwechsel; Identitaet der Gesellschaft bleibt erhalten; Anteilsneubegründung
-- **§§ 174-189 UmwG** — Vermoegensuebertragung auf öffentliche Hand
+- **§§ 174-189 UmwG** — Vermögensuebertragung auf öffentliche Hand
 - **§§ 11-25 UmwStG** — Steuerneutrale Umwandlung; Ansatz von Buchwerten; Sperrfrist 5 Jahre
 - **§ 613a BGB** — Betriebsuebertragung bei Spaltung/Ausgliederung; Arbeitnehmeruebertritt
 - **§§ 5, 21, 29 UmwG** — Pflichten gegenueber Arbeitnehmern; Auskunftsrechte; Widerspruchsrecht
@@ -51,7 +51,7 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefungsschema: Verschmelzung (§§ 2 ff. UmwG)
+## Prüfungsschema: Verschmelzung (§§ 2 ff. UmwG)
 
 | Schritt | Inhalt | Norm | Frist/Formalitaet |
 |---|---|---|---|
@@ -65,12 +65,12 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 | 8 | Eintragung → Wirksamkeit | § 20 UmwG | Gesamtrechtsnachfolge wirksam |
 | 9 | Arbeitnehmer-Information | §§ 5, 21 UmwG | Spaetest. 1 Monat vor HV/GV |
 
-## Spaltungsarten im Ueberblick
+## Spaltungsarten im Überblick
 
 | Art | Rechtsfolge | Typischer Anwendungsfall |
 |---|---|---|
 | Aufspaltung (§ 123 I UmwG) | Uebertragende Gesellschaft erloscht; gesamtes Vermögen geht auf mind. 2 aufnehmende über | Konzernaufloesung, Carve-Out |
-| Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermoegens geht auf aufnehmende über | Ausgliederung einer Geschaeftssparte |
+| Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermögens geht auf aufnehmende über | Ausgliederung einer Geschäftssparte |
 | Ausgliederung (§ 123 III UmwG) | Wie Abspaltung, aber Gegenleistung sind Anteile an der aufnehmenden Gesellschaft — kommen der uebertragenden Gesellschaft, nicht den Gesellschaftern zu | Holdingstruktur aufbauen; Tochtergesellschaft gruenden |
 
 ## Schritt-für-Schritt-Workflow
@@ -85,7 +85,7 @@ Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensu
 6. **HV/GV-Beschlüsse** — Einberufung, Beschluss mit qualifizierter Mehrheit; Protokoll notariell
 7. **Anmeldung Handelsregister** — Notarielle Anmeldung; Freigabeverfahren wenn Klage eingereicht
 8. **Steuerneutralitaet sichern** — UmwStG-Antrag auf Buchwertfortfuehrung; Sperrfrist 5 Jahre beachten
-9. **Post-Umwandlung** — Vertragsanpassungen (neue Firma, IBAN, Steuernummer); Gesellschafter- und Glaeubigerschutz
+9. **Post-Umwandlung** — Vertragsanpassungen (neue Firma, IBAN, Steuernummer); Gesellschafter- und Gläubigerschutz
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -93,7 +93,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Verschmelzung nach UmwG vorbereiten | Pruefschema und Verschmelzungsvertrag-Outline nach Template unten |
+| Standard — Verschmelzung nach UmwG vorbereiten | Prüfschema und Verschmelzungsvertrag-Outline nach Template unten |
 | Variante A — Spaltung statt Verschmelzung vorzugsweise | Spaltungsarten vergleichen; Abspaltung oder Ausgliederung waehlen |
 | Variante B — steuerliche Optimierung vorrangig | § 15 UmwStG prüfen; Buchwertfortfuehrung sichern |
 | Variante C — Umwandlung mit Auslandsbezug | Grenzueberschreitende Verschmelzung; SE-Option und UmwRL prüfen |
@@ -149,7 +149,7 @@ PRAEMBEL
 
 ## Rote Schwellen
 
-- Bewertungsstichtag nicht mehr als 8 Monate vor Anmeldung (§ 17 II UmwG) → Pruefungserfordernis
+- Bewertungsstichtag nicht mehr als 8 Monate vor Anmeldung (§ 17 II UmwG) → Prüfungserfordernis
 - Arbeitnehmer nicht fristgerecht informiert (§ 5 UmwG) → Beschluss anfechtbar
 - Steuerneutralitaet vergessen → UmwStG-Buchwertfortfuehrungsantrag nachholen nicht möglich
 - Fusionskontrolle uebersehen → Verschmelzung ggf. untersagt; Entflechtung

@@ -1,6 +1,6 @@
 ---
 name: agb-anwaltsvertrag-und-allg-mandatsbedingungen
-description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Pruefung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster im AGB-Recht."
+description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Prüfung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Prüfraster im AGB-Recht."
 ---
 
 # Agb Anwaltsvertrag Und Allg Mandatsbedingungen
@@ -15,7 +15,7 @@ description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill kla
 
 ## Fachkern: Agb Anwaltsvertrag Und Allg Mandatsbedingungen
 
-- **Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen):** AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Prüfung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Pruefraster.
+- **Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen):** AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill klaert die AGB-rechtliche Prüfung typischer Mandatsbedingungen Verguetungsklauseln Verzugsregelungen Verschwiegenheit Auflagen RVG-konforme Honorarvereinbarungen und Sondervorschriften der BRAO. Liefert Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -43,7 +43,7 @@ description: "AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Skill kla
 ### Verschwiegenheit
 - Im Anwaltsvertrag zwingend (§ 43a Abs. 2 BRAO).
 
-## Pruefraster
+## Prüfraster
 
 1. Honorarvereinbarung formgerecht?
 2. RVG-Konformitaet?

@@ -13,13 +13,13 @@ Nicht jede Forderungsakte braucht eine Klage. Dieser Skill waehlt das passende P
 |---|---|---|---|
 | Aussergerichtliche Mahnung | Schuldner noch nicht in Verzug oder zur Verzugsbegruendung | Forderung Faelligkeit Zahlungsfrist Verzugsfolgenhinweis | BGB 286 Abs. 1 |
 | Anwaltliches Forderungsschreiben | Zweite Eskalationsstufe Inkassokostenanspruch wecken | wie oben plus Vollmacht Hinweis Kostenfolge | RDG 13b |
-| Mahnbescheidsantrag online | unstrittig faellig kein Widerspruch erwartet | Glaeubiger Schuldner Anspruchsgrund Hauptforderung Nebenforderungen Zinsen | ZPO 690 |
+| Mahnbescheidsantrag online | unstrittig faellig kein Widerspruch erwartet | Gläubiger Schuldner Anspruchsgrund Hauptforderung Nebenforderungen Zinsen | ZPO 690 |
 | Klageschrift Zahlungsklage | Streit erwartet oder Mahnverfahren ausgeschlossen | Parteien Antrag Tatsachen Beweis Streitwert | ZPO 253 Abs. 2 |
-| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermögen | Glaeubiger Schuldner Titel Forderung Höhe | ZPO 753 ZPO 754 |
-| Pfaendungs- und Ueberweisungsbeschluss | Titel Drittschuldner bekannt | Drittschuldnerdaten Forderungsbezeichnung | ZPO 829 ZPO 835 |
+| Vollstreckungsauftrag Gerichtsvollzieher | Titel vorhanden bewegliches Vermögen | Gläubiger Schuldner Titel Forderung Höhe | ZPO 753 ZPO 754 |
+| Pfaendungs- und Überweisungsbeschluss | Titel Drittschuldner bekannt | Drittschuldnerdaten Forderungsbezeichnung | ZPO 829 ZPO 835 |
 | Forderungsanmeldung InsO | Schuldner insolvent | Forderung Grund Beleg Rangstufe Vorrechte | InsO 174 |
 | Vergleichsentwurf | beide Seiten verhandlungsbereit | Forderungshoehe Ratenplan Verzichtsklausel Vollstreckungsklausel | BGB 779 ZPO 794 Abs. 1 Nr. 1 |
-| Aktenvermerk Nichtaufnahme | Forderung verjaehrt unwirtschaftlich oder Konflikt | Sachverhalt Pruefergebnis Mandantenbeschluss Wiedervorlage | BORA 50 Aktenpflicht |
+| Aktenvermerk Nichtaufnahme | Forderung verjaehrt unwirtschaftlich oder Konflikt | Sachverhalt Prüfergebnis Mandantenbeschluss Wiedervorlage | BORA 50 Aktenpflicht |
 
 ## Entscheidungslogik
 

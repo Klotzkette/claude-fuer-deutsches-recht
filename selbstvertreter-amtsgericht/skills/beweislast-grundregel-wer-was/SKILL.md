@@ -77,7 +77,7 @@ Sie als Kläger profitieren — der Beklagte muss den Anschein erschuettern.
 
 In Faellen, wo eine Partei keinen Zugang zu Tatsachen hat, kann das Gericht von der gegnerischen Partei substantiierten Vortrag verlangen, obwohl sie nicht beweislastpflichtig ist.
 
-Beispiel: Kläger behauptet, eine Mahnung geliefert. Beklagter sagt: "habe nichts erhalten". Beklagter muss substantiiert vortragen, was bei ihm im Briefkasten lag — sonst gilt Klaegers Behauptung.
+Beispiel: Kläger behauptet, eine Mahnung geliefert. Beklagter sagt: "habe nichts erhalten". Beklagter muss substantiiert vortragen, was bei ihm im Briefkasten lag — sonst gilt Klägers Behauptung.
 
 Skill `substantiiertes-bestreiten-138-iv-zpo`.
 

@@ -1,6 +1,6 @@
 ---
 name: luftvg-anwendungsbereich
-description: "Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Verme..."
+description: "Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände ausländische Airline auf deutschem Flughafen. Prüft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Verme..."
 ---
 
 # LuftVG Anwendungsbereich – Normanwendbarkeit im Einzelfall

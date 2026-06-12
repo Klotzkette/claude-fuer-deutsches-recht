@@ -154,7 +154,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `grosskanzlei-corporate-ma-matter-file` | Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a… |
 | `grosskanzlei-corporate-ma-output-versand-signing` | Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§… |
 | `grosskanzlei-corporate-ma-outside-in-target-screening` | Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und… |
-| `grosskanzlei-corporate-ma-post-closing-integration` | Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt… |
+| `grosskanzlei-corporate-ma-post-closing-integration` | Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing müssen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt… |
 | `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar` | Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG… |
 | `grosskanzlei-corporate-ma-qa-information-requests` | Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege prüfen. SPA… |
 | `grosskanzlei-corporate-ma-rechtsprechungsrecherche` | Corporate und M\&A Rechtsprechungsrecherche: Anwendungsfall Anwalt braucht für Gutachten, Schriftsatz oder DD-Report relevante BGH-Rechtsprechung zu Organpflichten, Kapitalmarkt, Umwandlung oder Insolvenz. §§ 93 und… |
@@ -197,7 +197,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 
 ## Fachbegriffe (kurz erklaert)
 
-- **SPA/APA** — Share Purchase Agreement (Anteilskaufvertrag) / Asset Purchase Agreement (Vermoegensuebertragungsvertrag); zentrale Transaktionsdokumente.
+- **SPA/APA** — Share Purchase Agreement (Anteilskaufvertrag) / Asset Purchase Agreement (Vermögensuebertragungsvertrag); zentrale Transaktionsdokumente.
 - **Due Diligence (DD)** — Sorgfaeltige Prüfung aller rechtlichen, wirtschaftlichen und steuerlichen Risiken des Zielobjekts vor der Transaktion.
 - **W&I-Versicherung** — Warranty and Indemnity Insurance; versichert Gewaehrleistungs- und Freistellungsansprueche aus SPA.
 - **Conditions Precedent (CP)** — Vertragliche Bedingungen, die zwischen Signing und Closing erfuellt werden müssen.
@@ -205,7 +205,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 - **StaRUG** — Unternehmensstabilisierungs- und -restrukturierungsgesetz; ermoeglicht ausserinsolvenzliche Restrukturierung für Unternehmen mit drohender Zahlungsunfaehigkeit.
 - **PMI** — Post-Merger-Integration; Umsetzung der DD-Findings und SPA-Pflichten nach Closing.
 - **GoBD** — Grundsaetze ordnungsmäßiger Datenfuehrung; relevanter Rahmen für elektronische Buchfuehrung und E-Rechnung.
-- **FDI-Prüfung** — Foreign Direct Investment; Investitionspruefung bei Erwerb strategisch bedeutsamer Unternehmen durch Auslaender (AWG, AWVO).
+- **FDI-Prüfung** — Foreign Direct Investment; Investitionspruefung bei Erwerb strategisch bedeutsamer Unternehmen durch Ausländer (AWG, AWVO).
 - **Fusionskontrolle** — Merger Control; Anmeldung und Freigabe durch Kartellbehoerden (EU-Kommission, Bundeskartellamt) vor Vollzug.
 
 ## Rechtsgrundlagen
@@ -287,7 +287,7 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 **Prozess und Kommunikation**
 - `grosskanzlei-corporate-ma-teaser-im-processdocs` — Investment Teaser, Information Memorandum und Prozessdokumente erstellen.
 - `grosskanzlei-corporate-ma-simulation-bidder-process` — Bieterprozess simulieren für Training und Mandatsvorbereitung.
-- `grosskanzlei-corporate-ma-translations-multijurisdictional` — Multi-Jurisdiction-Koordination und Uebersetzungen.
+- `grosskanzlei-corporate-ma-translations-multijurisdictional` — Multi-Jurisdiction-Koordination und Übersetzungen.
 - `grosskanzlei-corporate-ma-rechtsprechungsrecherche` — Rechtsprechungsrecherche für Gutachten, Schriftsatz oder DD-Report.
 - `grosskanzlei-corporate-ma-board-paper-business-judgment` — Board Paper und Business Judgment Rule Prüfung.
 - `grosskanzlei-corporate-ma-automation-monitoring` — Monitoring und Automatisierungen für laufende M&A-Mandate einrichten.

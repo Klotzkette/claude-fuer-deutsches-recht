@@ -39,12 +39,12 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 
 ## Praktikertipps der Verteidigung
 
-- **Strafantrag und öffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsätzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Deshalb zuerst klären: Strafantrag gestellt? Frist und Berechtigung? Rücknahme nach § 77d StGB denkbar? Hat die StA das besondere öffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
+- **Strafantrag und öffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsätzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen öffentlichen Interesses ein Einschreiten von Amts wegen für geboten. Deshalb zuerst klären: Strafantrag gestellt? Frist und Berechtigung? Rücknahme nach § 77d StGB denkbar? Hat die StA das besondere öffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermögensdelikte, nicht Koerperverletzung.
 - **Aussage-gegen-Aussage**: regelmaessig methodische Glaubhaftigkeitspruefung erforderlich. Verteidigung sollte aussagepsychologisches SV-Gutachten anregen (§ 244 III StPO), wenn Realkennzeichen schwach sind oder Motiv zur Falschbelastung erkennbar (Trennungsdynamik, Sorgerechtsstreit).
-- **Polizeiprotokoll als Beweismittel**: Sturmprotokolle der Polizei, Wegweisungs-/Rueckkehrverbote nach Polizeigesetz Land sind oft Schluesselbeweise. Verteidiger holt Protokoll im Original; Verzerrungen durch Stresssituation und Wahrnehmungslueken kommen vor.
+- **Polizeiprotokoll als Beweismittel**: Sturmprotokolle der Polizei, Wegweisungs-/Rueckkehrverbote nach Polizeigesetz Land sind oft Schlüsselbeweise. Verteidiger holt Protokoll im Original; Verzerrungen durch Stresssituation und Wahrnehmungslueken kommen vor.
 - **Schutzraum-Akte**: Mandant darf wegen Aufnahme in Frauenhaus keine Annaeherung suchen. Adressfeststellung durch Verteidiger über Strafakte (§ 147 StPO) — diskret und ohne Verschriftlichung im Mandantenkontakt.
 - **Beratungskette mit Familiengericht**: Schutzbeschluss § 1 GewSchG, Wohnungszuweisung § 2 GewSchG, Sorgerecht/Umgang — alle Verfahren parallel; ein Familienverfahren kann das Strafverfahren stark beeinflussen.
-- **Tat-Provokation**: § 199 StGB Wechselseitigkeit bei Beleidigung; bei KV-Streit ohne klares Aggressor-Opfer-Verhaeltnis kann § 213 StGB (minder schwerer Fall Totschlag) bzw. Provokationsgrundsatz bei Strafzumessung argumentiert werden.
+- **Tat-Provokation**: § 199 StGB Wechselseitigkeit bei Beleidigung; bei KV-Streit ohne klares Aggressor-Opfer-Verhältnis kann § 213 StGB (minder schwerer Fall Totschlag) bzw. Provokationsgrundsatz bei Strafzumessung argumentiert werden.
 
 ## Trade-off-Matrix
 

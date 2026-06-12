@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Kirchensanierungen mit statis
 
 Kirchensanierungen verbinden Denkmalschutz, Statik-Ertuechtigung und Restaurierung historischer Baustoffe.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Zimmererarbeiten am Dachstuhl, Gewoelbe-Verpressung und Foerdermittelnachweise.
-Kirchenbauaemter der Landeskirchen haben eigene Baulast-Regelungen und Pruefanforderungen.
+Kirchenbauaemter der Landeskirchen haben eigene Baulast-Regelungen und Prüfanforderungen.
 
 ## Bauwerk und Auftrag
 
@@ -43,7 +43,7 @@ Kirchenbauaemter der Landeskirchen haben eigene Baulast-Regelungen und Pruefanfo
 - DIN EN 998-1 Moertel: Moertel für Mauerwerk, Instandsetzungsmoertel
 - DIN EN ISO 12572 Waermeschutz: Bestimmung der Wasserdampfdurchlaessigkeit Baustoffe
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Dachstuhl Resistograph: Bohrkern-Widerstandsprofil je Sparren und Binder, Faeulnis-Gradientbestimmung
 2. Gewoelbe-Rissmonitoring: Rissbreite und Laenge je Markierungspunkt, Wachstum mm/Monat

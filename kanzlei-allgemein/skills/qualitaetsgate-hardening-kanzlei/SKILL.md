@@ -20,7 +20,7 @@ Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates für Anfaenger und Prof
 ## Triage zu Beginn
 1. Welches Produkttyp soll geprueft werden: Klage, Replik, Antrag, Vertrag, Mandantenbrief, Rechnung oder beA-Versand?
 2. Soll der Schnellcheck (nur rote Risiken), Normal- oder Profi-Modus (Taktik, Gegner-Argument, Kosten) eingesetzt werden?
-3. Gibt es eine laufende Frist, die den Pruefumfang begrenzt?
+3. Gibt es eine laufende Frist, die den Prüfumfang begrenzt?
 4. Soll das Qualitaetsgate-Protokoll als Aktenbestandteil gespeichert werden?
 
 ## Aktuelle Rechtsprechung

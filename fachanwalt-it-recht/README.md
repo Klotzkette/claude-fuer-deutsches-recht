@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -142,16 +142,16 @@ Automatisch generierte Komplett-Liste aller 124 Skills in diesem Plugin. Beschre
 | `governance-mandantenkommunikation-entscheidungsvorlage` | Governance: Mandantenkommunikation und Entscheidungsvorlage: Governance: Mandantenkommunikation und Entscheidungsvorlage. |
 | `hacking-haftung-paragraf-823-bgb-it-sicherheit` | Hacking Haftung § 823 BGB it Sicherheit: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
-| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence für Cloud-Verträge: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art... |
+| `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence für Cloud-Verträge: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art... |
 | `it-recht-datenschutz-im-it-vertrag` | Datenschutzklauseln im IT-Vertrag prüfen und gestalten: Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten R... |
 | `it-recht-saas-avv-und-tia-bundle` | SaaS-Vertrag mit AVV nach Art: 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-für-... |
 | `it-vertrag-verhandlung-eu-odr` | IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen: Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muess... |
 | `itil-sla-vertragsstrafe` | Itil sla Vertragsstrafe: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 | `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce: IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wart... |
-| `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation: Pruef... |
+| `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation: Prüf... |
 | `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz: Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzinat... |
-| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung: Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wes... |
-| `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM: Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
+| `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschäftsführerhaftung: Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wes... |
+| `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM: Prüfraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
 | `itr-saas-vertrag-bauleiter` | Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus: Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsv... |
 | `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp: Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH... |
 | `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent: Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code... |

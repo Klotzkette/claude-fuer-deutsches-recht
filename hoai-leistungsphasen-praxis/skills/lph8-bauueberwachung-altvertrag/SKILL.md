@@ -41,7 +41,7 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 - DIN EN 206:2021-06 und DIN 1045-2:2023-08: Beton C30/37 XF4 für Froststress Windpark-Exposition
 - DIBt-Zulassung des Herstellers für Turm-Fundament-Verbindung Ankerkorb und Bolzengarnitur
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Pfahlherstellung: Bohrdurchmesser und Tiefe nach Bohrdatenprotokoll, Betoneinbau mit Kontraktorrohr, kein freier Fall bei Wasser im Bohrloch
 2. Ankerkorb-Geometrie: Mittelpunkt-Abweichung aller Ankerbolzen-Teilkreise kleiner 2 mm, Neigung kleiner 0.5 Promille nach Einschalplan
@@ -56,15 +56,15 @@ Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchs
 - Zeitrafferaufnahme Betonage Ringfundament: GoPro HERO11 auf Stativ 1-Minuten-Intervall, Dokumentation Betonfluss und Verdichtung
 - Stahllieferscheine: Werksbescheinigung 3.1 nach EN 10204 für Ankerbolzen Guete 10.9 und Stahl S355 für Ankerkorbkonstruktion
 - Bohrprotokoll und Schichtenverzeichnis: DIN 4022 je Bohrung, Abgleich mit Baugrundgutachten Schichtgrenzen, Foto Bohrkern
-- PlanRadar Fotodokumentation: Jeder Mangel mit 3 Fotos Ueberblick-Detail-Kontext, GPS-Tag, Zeitstempel ISO 8601
+- PlanRadar Fotodokumentation: Jeder Mangel mit 3 Fotos Überblick-Detail-Kontext, GPS-Tag, Zeitstempel ISO 8601
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M1 Instandhaltungsanforderung planmäßige Pruefungen Ankerschrauben: Equipment-Nr Anlage-ID z.B. WEA-07-NF, Pruefplan PP-WIND-0001
+- SAP PM Meldungsart M1 Instandhaltungsanforderung planmäßige Prüfungen Ankerschrauben: Equipment-Nr Anlage-ID z.B. WEA-07-NF, Prüfplan PP-WIND-0001
 - SAP PS Projekt WP-XXX: Netzplan FUND-010 Erdaushub, FUND-020 Bewehrung, FUND-030 Betonage, FUND-040 Ankerkorb, FUND-050 Setzungsmonitoring
-- RIB iTWO Qualitaetsmanagement: Pruefplan Beton-Guetepruefung, automatische Eskalation bei Unterschreitung C30/37, Freigabe Bauleiter erforderlich
+- RIB iTWO Qualitaetsmanagement: Prüfplan Beton-Guetepruefung, automatische Eskalation bei Unterschreitung C30/37, Freigabe Bauleiter erforderlich
 - Nevaris Bautagebuch-Modul: Import Wetter-API DWD, automatische Eintragung Temperatur und Niederschlag, digitale Unterschrift Bauleiter
-- Workflow: Ankerkorb ausserhalb Toleranz -> Meldung PLANI-001 -> Tragwerksplaner Stellungnahme 24 h -> Massnahmenplan -> Umsetzung -> Freigabe
+- Workflow: Ankerkorb ausserhalb Toleranz -> Meldung PLANI-001 -> Tragwerksplaner Stellungnahme 24 h -> Maßnahmenplan -> Umsetzung -> Freigabe
 
 ## Typische Fallstricke
 

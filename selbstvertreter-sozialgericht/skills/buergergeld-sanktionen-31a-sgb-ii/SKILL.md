@@ -40,7 +40,7 @@ description: "Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sankti
 4. Verhältnismäßigkeit?
 5. Mehrfachsanktion?
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Pflichtverletzung?
 2. Anhörung erfolgt?

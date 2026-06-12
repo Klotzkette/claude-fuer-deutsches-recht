@@ -17,12 +17,12 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
 3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
@@ -30,7 +30,7 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 ### Zwei Grunddesigns
 
-- **Breite Definition (offenlegende Partei-freundlich):** Alle Informationen, die im Zusammenhang mit der Geschaeftsbeziehung offenbart werden, gelten als vertraulich, unabhaengig vom Medium und ohne Kennzeichnungserfordernis.
+- **Breite Definition (offenlegende Partei-freundlich):** Alle Informationen, die im Zusammenhang mit der Geschäftsbeziehung offenbart werden, gelten als vertraulich, unabhaengig vom Medium und ohne Kennzeichnungserfordernis.
 - **Enge Definition (empfangende Partei-freundlich):** Nur ausdruecklich als "vertraulich" gekennzeichnete oder bei mundlicher Weitergabe binnen [14/30] Tagen schriftlich bestaetigte Informationen.
 
 ### Pflicht-Ausnahmen (Standard-Carve-outs)
@@ -46,7 +46,7 @@ Eine NDA-Definition ohne diese Ausnahmen ist regelmaessig zu breit und im B2B-Ko
 ### Spezialfaelle
 
 - **Auswirkungen / Derivate:** Klarstellen, ob Analysen, Zusammenfassungen, abgeleitete Daten ebenfalls als vertraulich gelten ("Derived Information").
-- **Negative Information:** Tatsache, dass eine bestimmte Information NICHT existiert (z.B. "Unternehmen ist nicht in Land X aktiv"), kann ebenfalls Geschaeftsgeheimnis sein. Definition sollte das erfassen.
+- **Negative Information:** Tatsache, dass eine bestimmte Information NICHT existiert (z.B. "Unternehmen ist nicht in Land X aktiv"), kann ebenfalls Geschäftsgeheimnis sein. Definition sollte das erfassen.
 - **Existenz des Vertrages selbst:** Oft über separate "Existence Confidentiality"-Klausel geregelt.
 - **Whistleblower-Schutz:** § 5 GeschGehG - rechtmäßige Hinweisgebung an Behörden, Hinweisgeberstelle, Presse darf NDA nicht behindern; Klausel zur Klarstellung empfehlenswert.
 - **Personenbezogene Daten:** Wenn personenbezogene Daten betroffen sind, parallel AVV nach Art. 28 DSGVO prüfen; NDA ersetzt AVV nicht.
@@ -65,10 +65,10 @@ Eine NDA-Definition ohne diese Ausnahmen ist regelmaessig zu breit und im B2B-Ko
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

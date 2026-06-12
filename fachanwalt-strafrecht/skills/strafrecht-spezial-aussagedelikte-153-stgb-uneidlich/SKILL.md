@@ -76,7 +76,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - **Paragraph 153 StGB und Paragraph 156 StGB falsche Versicherung an Eides Statt.** Tatmehrheit möglich.
 - **Paragraph 153 StGB und Paragraph 145d StGB Vortaeuschen einer Straftat.** Tatmehrheit.
 - **Paragraph 153 StGB und Paragraph 164 StGB falsche Verdaechtigung.** Tatmehrheit möglich.
-- **Paragraph 153 StGB und Paragraph 263 StGB Prozessbetrug.** Tatmehrheit, wenn neben falscher Aussage auch Vermoegensschaden eintritt.
+- **Paragraph 153 StGB und Paragraph 263 StGB Prozessbetrug.** Tatmehrheit, wenn neben falscher Aussage auch Vermögensschaden eintritt.
 
 ## Strafzumessung und Folgen
 
@@ -85,7 +85,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 - **Bewaehrungspraxis:** Bei Ersttaetern haeufig Bewaehrung; Bewaehrungsstrafe regelmaessig 6 bis 12 Monate.
 - **Berufsverbot Paragraph 70 StGB** möglich bei Sachverstaendigen oder Berufsausuebenden mit Aussagepflicht.
 - BZRG-Eintrag bei Freiheitsstrafe ab 90 Tagessaetzen / 3 Monaten.
-- Bei Auslaender Ausweisungsrisiko nach Paragraph 53 AufenthG.
+- Bei Ausländer Ausweisungsrisiko nach Paragraph 53 AufenthG.
 
 ## Mustertexte
 

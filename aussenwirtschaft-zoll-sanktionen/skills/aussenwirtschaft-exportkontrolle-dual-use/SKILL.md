@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Dual-Use-Pruefung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassi..."
+description: "Dual-Use-Prüfung für Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassi..."
 ---
 
 # Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad
@@ -21,7 +21,7 @@ Dual-Use-Prüfung für Gueter, Software und Technologie nach VO (EU) 2021/821 An
 
 - Maschinenbauunternehmen exportiert CNC-Fraesmaschine nach China; HS-Code liegt in Grauzone der ML-Liste.
 - Software-Unternehmen uebertragt Verschluesselungsmodul über Cloud-Download an iranischen Kunden.
-- Forschungseinrichtung gibt Technologieunterstuetzung an auslaendischen Gastwissenschaftler; Catch-All geprueft?
+- Forschungseinrichtung gibt Technologieunterstuetzung an ausländischen Gastwissenschaftler; Catch-All geprueft?
 
 ## Erste Schritte
 
@@ -40,7 +40,7 @@ Dual-Use-Prüfung für Gueter, Software und Technologie nach VO (EU) 2021/821 An
 - **§ 8 AWV**: Genehmigungsfreie Ausfuhren, Ausnahmen.
 - **§ 18 Abs. 1 AWG**: Strafbarkeit bis 5 Jahre bei unerlaubter Ausfuhr.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle 10 Kategorien des Anhangs I systematisch durchsucht?
 - [ ] Technische Parameter mit Listenschwellenwerten verglichen?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

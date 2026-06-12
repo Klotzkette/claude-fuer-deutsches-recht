@@ -13,14 +13,14 @@ description: "SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwen
 
 ## Kernsachverhalt
 
-Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet prüfen, bevor er sie verwendet. Typische Fehler: Pruefsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
+Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Jahresabschluss. Der Steuerberater muss die SuSa systematisch auf Plausibilitaet prüfen, bevor er sie verwendet. Typische Fehler: Prüfsumme-Differenz, ungewoehnliche Salden, USt-Inkonsistenz, offene Verrechnungskonten. Dieser Skill ist Pflicht-Checkliste für Sachbearbeiter und Berufstraeger.
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Periode wird geprueft — Monat, Quartal, kumuliert?
-2. Welche Pruef-Tiefe — Standard-Checkliste oder vertieft?
+2. Welche Prüf-Tiefe — Standard-Checkliste oder vertieft?
 3. Wurde die laufende Buchfuehrung bereits einmal geprueft?
-4. Welche systembedingten Auffaelligkeiten (DATEV-Pruefliste)?
+4. Welche systembedingten Auffaelligkeiten (DATEV-Prüfliste)?
 5. Welche Sondereffekte sind erwartet (Anlagenkauf, Sondertilgung)?
 6. Welche Konsistenz-Quellen liegen vor (Bankauszug, USt-VA, Lohnauswertung)?
 7. Welche Vorperioden-Korrektur ist zu bearbeiten?
@@ -44,11 +44,11 @@ Eine fehlerhafte SuSa ist Risiko für alle Folgeauswertungen — BWA, USt-VA, Ja
 
 - BMF v. 28.11.2019 zu GoBD.
 - IDW PS 480.
-- DATEV-Pruefliste Monatsabschluss.
+- DATEV-Prüfliste Monatsabschluss.
 
 ## Workflow
 
-### Phase 1 — Pruefsumme Soll/Haben
+### Phase 1 — Prüfsumme Soll/Haben
 
 - Summe Soll-Buchungen = Summe Haben-Buchungen (doppelte Buchfuehrung).
 - Differenz = Systemfehler (selten, aber bei Datenmigrationen möglich).
@@ -109,10 +109,10 @@ Datum: [Datum] Bearbeiter: [Name]
 
 - SuSa-Prüfung sollte vor jedem Versand erfolgen — auch bei Routine-Mandanten.
 - Bei wiederholten Fehlern (gleiches Konto, gleicher Sachbearbeiter): Schulung.
-- Pruefliste standardisieren — Sachbearbeiter haben einheitliches Pruefraster.
+- Prüfliste standardisieren — Sachbearbeiter haben einheitliches Prüfraster.
 - Bei wesentlichen Fehlern in der Vorperiode: § 153 AO Berichtigungspflicht.
 - StBVV: Prüfung als Bestandteil der Buchfuehrungspauschale.
-- DATEV-Tipp: DATEV-Pruefliste Monatsabschluss systematisch durchgehen; "Konten mit ungewoehnlichem Saldo" als Standardlauf.
+- DATEV-Tipp: DATEV-Prüfliste Monatsabschluss systematisch durchgehen; "Konten mit ungewoehnlichem Saldo" als Standardlauf.
 
 ## Quellen und Updates
 

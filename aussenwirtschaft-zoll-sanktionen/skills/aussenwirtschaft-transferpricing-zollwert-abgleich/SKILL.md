@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-transferpricing-zollwert-abgleich
-description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen...."
+description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Prüfung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen...."
 ---
 
 # Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko
@@ -22,7 +22,7 @@ description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (
 ## Erste Schritte
 
 1. Verrechnungspreisdokumentation (Masterfile Localfile) auf Relevanz für Zollwert prüfen.
-2. Transaktionswert nach UZK Art. 70 Prüfung: Gibt es Preisbeeinflussung durch Verhaeltnis (Art. 70 Abs. 3)?
+2. Transaktionswert nach UZK Art. 70 Prüfung: Gibt es Preisbeeinflussung durch Verhältnis (Art. 70 Abs. 3)?
 3. Preisanpassungen und True-Ups: retroaktive Zollwertkorrektur und Nachanmeldungspflicht prüfen.
 4. APA-Vereinbarung auf Zollwert-Kompatibilitaet prüfen; WTO Valuation Agreement Art. 1.
 5. Alternativmethoden nach UZK Art. 74 wenn Transaktionswert abgelehnt wird.
@@ -36,7 +36,7 @@ description: "Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (
 - **OECD-Verrechnungspreisleitlinien (2022)**: Armlaengenprinzip und Dokumentationsstandards.
 - **§ 22 ZollVG**: Auskunftspflichten und Nacherhebungsfristen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Verrechnungspreisdokumentation vorhanden und konsistent mit Zollwert?
 - [ ] Transaktionswert-Voraussetzungen (Art. 70 UZK) erfuellt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

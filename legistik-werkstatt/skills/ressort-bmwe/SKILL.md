@@ -15,7 +15,7 @@ description: "Heranfuehrung Ressort BMWE (Bundesministerium für Wirtschaft und 
 - **Hausleitung Stand 2026:** Katherina Reiche (CDU)
 - **Dienstsitz:** Scharnhorststr. 34-37; 10115 Berlin; Zweitsitz Villemombler Str. 76; 53123 Bonn
 - **Schwerpunkt:** Energie und Netze; Erneuerbare; Industriepolitik; Außenwirtschaft; Wettbewerb.
-- **Kernnormen im Geschaeftsbereich:** EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
+- **Kernnormen im Geschäftsbereich:** EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV.
 
 ## Materie auf einer Seite
 
@@ -28,10 +28,10 @@ Vollzugspraxis greifen ineinander.
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMWE)
-- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschäftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMWE-Spiegel)
-- **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
+- **Verbaende** im Geschäftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
 ### Welche Normen muss man lesen können
@@ -60,12 +60,12 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmwe-aussenwirtschaft-und-investitionspruefung` - Außenwirtschaft und Investitionspruefung
 - `legw-bmwe-wettbewerb-und-kartellrecht-gwb` - Wettbewerbsrecht und Kartellrecht (GWB)
 
-Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
+Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Prüfpfad und
 Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 
-1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
+1. **Geschäftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
  abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
  personell gedeckt; Erfuellungsaufwand falsch berechnet.

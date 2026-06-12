@@ -152,8 +152,8 @@ Vergleichs- und abfindungsrelevante Leitentscheidungen:
 
 - **BAG, 03.06.2025 - 9 AZR 104/24**: Pauschale Erledigungsklausel im Vergleich erfasst den gesetzlichen Mindesturlaub nicht; Mindesturlaub gesondert ausweisen. Quelle: dejure.org-Vernetzung.
 - **BAG, 25.03.2026 - 5 AZR 108/25**: Pauschale Freistellungsklausel unwirksam (§ 307 BGB); im Vergleich konkret formulieren. Quelle: dejure.org-Vernetzung.
-- **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmäßiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschaeftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
-- Faustformel zur Abfindung: 0,5 BMG x Beschaeftigungsjahre (KSchG-Verhandlungsmaszstab); Verhandlungsspielraum 0,25 - 1,5 BMG je nach Prozesschance, Bestandsrisiko und Alter / Schwerbehinderung.
+- **BSG, 12.07.2006 - B 11a AL 47/05 R**: Sperrzeit-Vermeidung bei drohender, objektiv rechtmäßiger betriebsbedingter Kuendigung und eingehaltener Frist; Faustformel-Abfindung (0,25 - 0,5 BMG/Beschäftigungsjahr) marktueblich. Quelle: dejure.org-Vernetzung.
+- Faustformel zur Abfindung: 0,5 BMG x Beschäftigungsjahre (KSchG-Verhandlungsmaszstab); Verhandlungsspielraum 0,25 - 1,5 BMG je nach Prozesschance, Bestandsrisiko und Alter / Schwerbehinderung.
 - Vor Vergleichsabschluss aktuelle Rechtsprechung in offenen Quellen prüfen.
 
 ## Paragrafenkette

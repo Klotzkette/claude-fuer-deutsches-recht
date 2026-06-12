@@ -1,6 +1,6 @@
 ---
 name: tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung
-description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2: Technische Massnahmen Verschluesselung Pseudonymisierung Split Processi..."
+description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2: Technische Maßnahmen Verschluesselung Pseudonymisierung Split Processi..."
 ---
 
 # Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2
@@ -52,7 +52,7 @@ description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-E
 - **Starke Verschluesselung at-rest und in-transit** (mindestens AES-256, TLS 1.3, geprueft anhand ENISA-/BSI-TR-02102).
 - **Key Management ausserhalb des Drittlands**: Schlüssel im EU/EWR-HSM; Importeur kann nicht entschluesseln.
 - **Hold-Your-Own-Key (HYOK), Bring-Your-Own-Key (BYOK)** mit Vorbehalten – HYOK ist staerker.
-- **Pseudonymisierung mit unkorrelierten Schluesseln** (Art. 4 Nr. 5 DSGVO; § 22 Abs. 2 Nr. 5 BDSG).
+- **Pseudonymisierung mit unkorrelierten Schlüsseln** (Art. 4 Nr. 5 DSGVO; § 22 Abs. 2 Nr. 5 BDSG).
 - **Anonymisierung**, soweit Re-Identifizierung im Drittland praktisch ausgeschlossen.
 - **Split Processing / Confidential Computing** (Enclaves, TEEs) – Wirksamkeit von Implementation abhaengig.
 - **Tokenisierung**, **Format-Preserving Encryption**.
@@ -64,13 +64,13 @@ description: "Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-E
 - Anfechtungspflicht des Importeurs ("challenge any legally available avenue").
 - Erweiterte Audit-Rechte für Exporteur und Aufsichtsbehoerde.
 - Sofortige Aussetzungspflicht bei Anweisung, die nicht abgewehrt werden kann.
-- Klausel zur Mitteilung bei Aenderung der Rechtslage.
+- Klausel zur Mitteilung bei Änderung der Rechtslage.
 - Haftungs- und Schadensersatzregelungen verstaerken.
 
 ### Organisatorische Maßnahmen
 
 - Mitarbeiterschulung mit Schwerpunkt Behördenanfragen-Reaktion.
-- Standardisierte interne Pruefprozesse für eingehende Government Requests.
+- Standardisierte interne Prüfprozesse für eingehende Government Requests.
 - Veroeffentlichte Privacy Policy / Transparenzberichte des Importeurs.
 - Datenminimierung an der Quelle.
 - Klare Rollendefinition: wer entscheidet Aussetzung?
@@ -89,7 +89,7 @@ Vertragsbaustein – Behördenanfragen:
 
 Technischer Baustein:
 
-> Vor jeder Uebermittlung wird der personenbezogene Datensatz anhand des Schluessels K1 verschluesselt; K1 wird im Hardware Security Module des Exporteurs in der EU verwaltet und nicht an den Importeur uebermittelt. Der Importeur erhaelt ausschließlich verschluesselte Datenstroeme. Eine Entschluesselung ist ohne K1 nicht möglich. Der Importeur fuehrt keine Klartextverarbeitung durch und besitzt keine Funktion zur Entschluesselung.
+> Vor jeder Uebermittlung wird der personenbezogene Datensatz anhand des Schlüssels K1 verschluesselt; K1 wird im Hardware Security Module des Exporteurs in der EU verwaltet und nicht an den Importeur uebermittelt. Der Importeur erhaelt ausschließlich verschluesselte Datenstroeme. Eine Entschluesselung ist ohne K1 nicht möglich. Der Importeur fuehrt keine Klartextverarbeitung durch und besitzt keine Funktion zur Entschluesselung.
 
 ## Typische Fehler
 

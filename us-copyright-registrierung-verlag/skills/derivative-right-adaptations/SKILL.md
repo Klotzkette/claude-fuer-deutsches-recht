@@ -1,6 +1,6 @@
 ---
 name: derivative-right-adaptations
-description: "Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works im Us Copyright Registrierung Verlag."
+description: "Prüft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works im Us Copyright Registrierung Verlag."
 ---
 
 # Derivative Right und Adaptations

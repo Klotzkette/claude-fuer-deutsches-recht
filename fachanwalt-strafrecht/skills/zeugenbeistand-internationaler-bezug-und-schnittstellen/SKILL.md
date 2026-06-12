@@ -44,8 +44,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **§ 55 StPO Auskunftsverweigerung wegen Selbstbelastung:** bei Strafverfolgungsrisiko für Zeugen / Angehoerige.
  - **§ 68 StPO Prüfung Anonymitaet** bei gefaehrdeten Zeugen.
 - **Internationaler Zeugenbeistand:**
- - **Auslaendischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
- - **Auslaendischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung möglich.
+ - **Ausländischer Zeuge im Inland:** Dolmetscher § 185 GVG; ggf. videovernehmung.
+ - **Ausländischer Zeuge im Ausland:** Rechtshilfeersuchen / Europaeische Ermittlungsanordnung RL 2014/41/EU; Videovernehmung möglich.
  - **Inlandszeuge im Ausland:** Vernehmung über Botschaft / Konsulat; ggf. kommissarische Vernehmung § 223 StPO.
 - **Konfrontation und Konfrontationsrecht Art. 6 III lit. d EMRK:**
  - Recht des Beschuldigten auf Befragung Belastungszeugen.

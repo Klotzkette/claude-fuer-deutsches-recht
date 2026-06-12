@@ -1,6 +1,6 @@
 ---
 name: lohn-berufsgenossenschaft-bg-meldung-jahresende
-description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid im Steuerrecht Anwalt Und Berater."
+description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schlüsseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid im Steuerrecht Anwalt Und Berater."
 ---
 
 # Berufsgenossenschaft — Lohnnachweis Jahresende
@@ -63,13 +63,13 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 ### Phase 2 — Gefahrtarif
 
-- Jede Beschaeftigung wird einer Gefahrenklasse zugeordnet (Branchenstaerke des Unfallrisikos).
+- Jede Beschäftigung wird einer Gefahrenklasse zugeordnet (Branchenstaerke des Unfallrisikos).
 - Gefahrtarif aus BG-Satzung.
 - Beitragssatz auf 1.000 EUR Lohnsumme (z.B. 5,00 EUR pro 1.000 EUR Lohnsumme bei Gefahrenklasse 5).
 
 ### Phase 3 — Lohnsumme zusammenstellen
 
-- Brutto-Lohnsumme aller AN über das Geschaeftsjahr.
+- Brutto-Lohnsumme aller AN über das Geschäftsjahr.
 - Einschluesse: alle SV-pflichtigen Loehne plus Minijob-Loehne.
 - Aussschluesse: ggf. bestimmte Sonderzahlungen (BG-spezifisch).
 - Aufteilung nach Gefahrenklasse (bei Mischbetrieb).
@@ -85,7 +85,7 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 
 - Bemessung nach Vorjahres-Lohnsumme.
 - Monatliche oder vierteljaehrliche Vorauszahlungen.
-- Anpassung bei wesentlichen Lohnsummen-Aenderungen.
+- Anpassung bei wesentlichen Lohnsummen-Änderungen.
 
 ### Phase 6 — Buchung
 

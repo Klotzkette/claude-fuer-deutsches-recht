@@ -15,7 +15,7 @@ description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraege
 
 ## Fachkern: Blue Pencil Und Geltungserhaltende Reduktion
 
-- **Klauselproblem (Blue Pencil Und Geltungserhaltende Reduktion):** Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Pruefraster.
+- **Klauselproblem (Blue Pencil Und Geltungserhaltende Reduktion):** Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraegen. Skill arbeitet die Methodik aus wann eine teilbare Klausel durch Streichung in einen wirksamen Restbestand zerfaellt und wann dies ausgeschlossen ist. Behandelt die BGH-Linie zu wirksamen und unwirksamen Klauselteilen und die Ablehnung der geltungserhaltenden Reduktion. Liefert Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -34,7 +34,7 @@ description: "Blue-Pencil-Test und geltungserhaltende Reduktion in AGB-Vertraege
 ### Nicht zerlegbar
 - "Wir haften nur für Vorsatz und grobe Fahrlaessigkeit; mittelbare Schaeden sind ausgeschlossen" — Streichung des Halbsatzes "mittelbare Schaeden sind ausgeschlossen" liefert keine eindeutige Wertung; Klausel insgesamt unwirksam.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist im Streit?
 2. Inhaltliche Trennbarkeit gegeben?

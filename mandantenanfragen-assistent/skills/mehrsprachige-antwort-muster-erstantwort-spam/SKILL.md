@@ -21,7 +21,7 @@ Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet d
 1. Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll für die Antwort verwendet werden?
 2. Gibt es landesspezifische Anredekonventionen (EN, FR, IT) die abweichen von deutschen Regeln?
 3. Muss der Datenschutzhinweis (Art. 13 DSGVO) und der Kein-Mandat-Disclaimer ebenfalls in der Fremdsprache formuliert werden?
-4. Ist die Anfrage moeglicherweise automatisch uebersetzt worden (Qualitaet der Sprache prüfen)?
+4. Ist die Anfrage moeglicherweise automatisch übersetzt worden (Qualitaet der Sprache prüfen)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

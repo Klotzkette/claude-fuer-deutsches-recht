@@ -60,7 +60,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -127,7 +127,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 15b InsO — Haftung für masseschmaeIernde Zahlungen nach Insolvenzreife
 - §§ 129-147 InsO — Insolvenzanfechtung: Nachteilsbewusstsein, Vorsatzanfechtung (§ 133 InsO), Sicherungsanfechtung (§ 135 InsO); Frist bis zu 10 Jahre
 - §§ 163, 233 InsO — Uebertragender Sanierung: Veraeusserung des Unternehmens durch Insolvenzverwalter
-- §§ 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Glaeubigerzustimmung
+- §§ 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Gläubigerzustimmung
 - §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
 - § 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
 
@@ -142,9 +142,9 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. **Anfechtungsrisiko-Analyse:** § 133 InsO (Vorsatz), § 135 InsO (Sicherheiten, Gesellschafterdarlehen), § 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
 4. **Sicherheitenlage kartieren:** Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte, Eigentumsvorbehalt — welche Sicherheiten werden mit erworben?
 5. **§ 613a BGB-Prüfung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
-6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Glaeubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
+6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Gläubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
 7. **W&I und Closing-Risiko:** W&I bei Distressed meist ausgeschlossen; stattdessen: Disclosure-basierter Haftungsausschluss, MAC-Trigger im SPA
-8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs prüfen (Insolvenzgericht-Genehmigung, Glaeubigerzustimmung)
+8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs prüfen (Insolvenzgericht-Genehmigung, Gläubigerzustimmung)
 
 ## Entscheidungsbaum
 
@@ -185,7 +185,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 
 ## Rote Schwellen
 
-- Insolvenzrechtlicher Status unklar: Antragspflicht § 15a InsO laeuft; Haftung Geschaeftsfuehrer § 15b InsO
+- Insolvenzrechtlicher Status unklar: Antragspflicht § 15a InsO laeuft; Haftung Geschäftsführer § 15b InsO
 - Anfechtungsrisiko nicht geprueft: Asset Deal anfechtbar; Sicherheiten fallen zurueck zur Masse
 - § 613a BGB-Information unterlassen: Schadensersatz; alle Arbeitsverhaeltnisse gehen über
 - Liquiditaetslücke vor Closing: MAC-Trigger im SPA; Closing-Versagung
@@ -197,7 +197,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 - Liquiditaets- und Antragspflicht-Ampel
 - Closing-Faehigkeitscheck mit Belegkette
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Insolvenzreife-Detail → `grosskanzlei-ma-insolvenzreife`
 - Liquiditaet → `grosskanzlei-ma-liquiditaetsvorschau`

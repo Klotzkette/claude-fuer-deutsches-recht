@@ -40,9 +40,9 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 
 **SGB III** — Arbeitsfoerderung (AV).
 
-**§ 7 SGB IV** — Beschaeftigung.
+**§ 7 SGB IV** — Beschäftigung.
 
-**§ 8 SGB IV** — geringfuegige Beschaeftigung.
+**§ 8 SGB IV** — geringfuegige Beschäftigung.
 
 **§ 28d SGB IV** — Gesamt-SV-Beitrag.
 
@@ -129,4 +129,4 @@ Stand: 05/2026.
 - PV-Kinderlosenzuschlag 2025: 0,6 Prozent (§ 55 Abs. 3 SGB XI, PflegeunterstuetzungsG seit 01.07.2023).
 - Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Pruefhinweise ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (BBG/Beitragssaetze 2025 eingesetzt), 2 ersetzt (Prüfhinweise ohne Marker) -->

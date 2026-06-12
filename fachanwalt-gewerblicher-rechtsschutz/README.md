@@ -63,7 +63,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -100,7 +100,7 @@ Automatisch generierte Komplett-Liste aller 72 Skills in diesem Plugin. Beschrei
 | `faevvollzug-neu-008-qualitaetsgate-vor-vollziehung` | Qualitätsgate vor EV-Vollziehung: Letzter Check vor Zustellung der einstweiligen Verfügung: Titel, Dringlichkeit, Zustellungsweg, Schutzschrift, Kosten-Nutzen, Red-T... |
 | `fao-dokumentenmatrix-und-lueckenliste` | FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO: Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erf... |
 | `gebrmg-verhandlung-vergleich-und-eskalation` | Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation: GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade... |
-| `geschaeftsgeheimnis-schutz-gehg-bgh-i-zb-117-19` | Geschaeftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `geschaeftsgeheimnis-schutz-gehg-bgh-i-zb-117-19` | Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
 | `gewerblichen-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung,... |
 | `gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden: Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn m... |
 | `gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren: Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Aut... |

@@ -15,7 +15,7 @@ description: "Heranfuehrung Ressort BMUKN (Bundesministerium für Umwelt; Klimas
 - **Hausleitung Stand 2026:** Carsten Schneider (SPD)
 - **Dienstsitz:** Robert-Schuman-Platz 3; 53175 Bonn; Zweitsitz Stresemannstr. 128-130; 10117 Berlin
 - **Schwerpunkt:** Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares.
-- **Kernnormen im Geschaeftsbereich:** BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG.
+- **Kernnormen im Geschäftsbereich:** BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG.
 
 ## Materie auf einer Seite
 
@@ -28,10 +28,10 @@ Vollzugspraxis greifen ineinander.
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMUKN)
-- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschäftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMUKN-Spiegel)
-- **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
+- **Verbaende** im Geschäftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
 ### Welche Normen muss man lesen können
@@ -60,12 +60,12 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmukn-naturschutz-und-artenschutzrecht` - Naturschutz- und Artenschutzrecht
 - `legw-bmukn-atom-und-strahlenschutzrecht` - Atom- und Strahlenschutzrecht
 
-Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
+Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Prüfpfad und
 Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 
-1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
+1. **Geschäftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
  abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
  personell gedeckt; Erfuellungsaufwand falsch berechnet.

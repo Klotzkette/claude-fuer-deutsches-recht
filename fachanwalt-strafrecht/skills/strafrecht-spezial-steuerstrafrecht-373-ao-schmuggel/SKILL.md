@@ -80,7 +80,7 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 - **Verbrauchsteuer-Nachforderung** (Tabaksteuer, Branntweinsteuer) plus Zoll plus EUSt.
 - **Berufsverbot Paragraph 70 StGB** möglich bei Speditionsunternehmern.
 - BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
-- Bei Auslaender: Ausweisung nach Paragraph 53 AufenthG droht.
+- Bei Ausländer: Ausweisung nach Paragraph 53 AufenthG droht.
 
 ## Mustertexte
 
@@ -99,5 +99,5 @@ Vorsatz hinsichtlich Schmuggel, Gewerbsmaessigkeit und (ggf.) Bandenabrede. Verb
 - Unionsrechtliches Zollrecht (Unionszollkodex Verordnung EU Nr 952/2013).
 - Verbrauchsteuerrechtliche Vorschriften (Tabaksteuergesetz, Branntweinsteuergesetz).
 - Paragraph 73 StGB Einziehung; Paragraph 73c StGB Wertersatz.
-- Paragraph 53 AufenthG Ausweisung bei Auslaendern.
+- Paragraph 53 AufenthG Ausweisung bei Ausländern.
 - BVerfG staendige Linie zur Bestimmtheit Art 103 II GG.

@@ -1,6 +1,6 @@
 ---
 name: resilienz-sicherheit-kritische-infrastruktur
-description: "Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe: Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz,..."
+description: "Resilienz-, Sicherheits- und KRITIS-Beschaffung prüfen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe: Resilienz-, Sicherheits- und KRITIS-Beschaffung prüfen: Versorgungssicherheit, Geheimschutz,..."
 ---
 
 # Resilienz-, Sicherheits- und KRITIS-Beschaffung prüfen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe.
@@ -39,7 +39,7 @@ Risikomatrix, Sicherheitsanforderungen, Beleglogik, Ruge-/Verteidigungslinien.
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

@@ -15,7 +15,7 @@ description: "DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding
 
 ## Kernsachverhalt
 
-Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Aenderungsprotokoll vom 19.05.2011 (BGBl. 2011 II S. 275) regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt für Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
+Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Änderungsprotokoll vom 19.05.2011 (BGBl. 2011 II S. 275) regelt das Verhältnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt für Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
 
 ## Kaltstart-Rueckfragen
 
@@ -32,7 +32,7 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 
 ### Primaernormen
 - **DBA Deutschland-Malta vom 08.03.2001**, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297).
-- Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275).
+- Änderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
@@ -113,8 +113,8 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 |---|---|---|---|
 | Malta-Refund-System (effektiv 5 Prozent) vs. Aufgabe der Struktur nach Pillar Two | sehr niedrige effektive KSt, aber Top-Up-Tax 10 Prozent (Differenz 15-5) | DE-Direktstruktur mit voller KSt+GewSt | Pillar Two macht Malta-Vorteil weitgehend zunichte — nur bei Liquiditaetsvorteil/Latenz noch relevant |
 | Schachteldividende MT-Ltd an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | Malta erhebt **0 Prozent national** Quellensteuer auf Dividenden | DBA-Hoechstsatz greift praktisch nicht | regelmaessig 0 Prozent — keine Erstattung erforderlich |
-| Online-Glueckspiel über MT-Lizenz (MGA) vs. DE-Standort | MGA-Lizenz weltweit anerkannt; niedrige effektive KSt | DE: GluestV2021, strenge Lizenzpflicht | Geschaeftsmodell-Entscheidung mit erheblichen regulatorischen und steuerlichen Folgen |
-| CFC § 7 AStG vs. aktive Geschaeftstaetigkeit | bei passiven Einkuenften Hinzurechnung in DE | bei Aktiv-Katalog § 8 AStG keine Hinzurechnung | Aktiv-Katalog strikt prüfen |
+| Online-Glueckspiel über MT-Lizenz (MGA) vs. DE-Standort | MGA-Lizenz weltweit anerkannt; niedrige effektive KSt | DE: GluestV2021, strenge Lizenzpflicht | Geschäftsmodell-Entscheidung mit erheblichen regulatorischen und steuerlichen Folgen |
+| CFC § 7 AStG vs. aktive Geschäftstaetigkeit | bei passiven Einkuenften Hinzurechnung in DE | bei Aktiv-Katalog § 8 AStG keine Hinzurechnung | Aktiv-Katalog strikt prüfen |
 
 ## Edge Cases — was Prüfer triggert
 
@@ -123,7 +123,7 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 - **Pillar Two ab 01.01.2024**: Malta-effektivsteuersatz 5 Prozent unter 15 Prozent — Top-Up-Tax 10 Prozent erforderlich; entweder QDMTT in MT oder IIR in DE.
 - **Online-Glueckspiel-MGA-Lizenz**: substanzielle Lizenz mit Personal-Erfordernissen; § 50d Abs. 3 EStG-Substanztest gleichwohl Pflicht.
 - **REIT-Strukturen Malta**: maltesische REIT-Sonderbesteuerung — DBA-Berechtigung prüfen.
-- **Schifffahrt Tonnage-Tax**: maltesisches Tonnage-System — Geschaeftsleitung prüfen.
+- **Schifffahrt Tonnage-Tax**: maltesisches Tonnage-System — Geschäftsleitung prüfen.
 - **PPT (MLI ab 01.01.2025)**: Hauptzweck der Malta-Struktur darf nicht steuerlich motiviert sein.
 
 ## Berechnungsbeispiel — Malta-Refund-System nach Pillar Two
@@ -152,6 +152,6 @@ Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1297, in Kraft 27.12.2001) mit Ae
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297). Aenderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
+Stand: 05/2026. DBA-Malta 08.03.2001, in Kraft 27.12.2001 (BGBl. 2001 II S. 1297). Änderungsprotokoll in Kraft 19.05.2011 (BGBl. 2011 II S. 275). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 6 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

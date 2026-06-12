@@ -90,7 +90,7 @@ In der Praxis ist § 252 StGB die zentrale Norm für **Fluchtdiebstahl mit Gewal
 > § 252 StGB setzt die Beutesicherungsabsicht voraus. Die Beweisaufnahme hat ergeben, dass der Angeklagte die Beute bereits zur Seite geworfen hatte, als er den Schlag gegen den Ladendetektiv ausfuehrte. Sein Handeln war ausschließlich auf die Vermeidung der Festnahme gerichtet. § 252 StGB ist daher nicht erfuellt. Es bleibt § 113 StGB in Tateinheit mit § 242 StGB.
 
 **Hilfsbeweisantrag:**
-> Hilfsweise wird beantragt, das Videomaterial der Ueberwachungsanlage des Geschaeftes zu sichten und in Augenschein zu nehmen. Beweisthema: Der Angeklagte hat die Beute vor dem koerperlichen Kontakt mit dem Ladendetektiv zur Seite geworfen.
+> Hilfsweise wird beantragt, das Videomaterial der Ueberwachungsanlage des Geschäftes zu sichten und in Augenschein zu nehmen. Beweisthema: Der Angeklagte hat die Beute vor dem koerperlichen Kontakt mit dem Ladendetektiv zur Seite geworfen.
 
 ## Quellen Stand 06/2026
 

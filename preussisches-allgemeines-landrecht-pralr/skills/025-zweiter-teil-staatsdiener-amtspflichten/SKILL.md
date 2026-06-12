@@ -37,7 +37,7 @@ Staatsdiener trifft pflichtwidrige Entscheidung.
 - BBG, BeamtStG, BeamtVG.
 - BDG.
 
-## Pruefraster
+## Prüfraster
 
 1. Status Staatsdiener / Beamter?
 2. Pflichtverletzung?

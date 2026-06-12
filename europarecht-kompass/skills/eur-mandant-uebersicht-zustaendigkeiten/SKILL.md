@@ -47,7 +47,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | Kartell/Marktmissbrauch | Kommission DG COMP; Schadensersatz nationale Gerichte (RL 2014/104/EU, §§ 33 ff. GWB) |
 | Missstand EU-Verwaltung | Buergerbeauftragter Art. 228 AEUV |
 
-## Pruefraster für den Skill
+## Prüfraster für den Skill
 
 1. **Sachverhalt fixieren** — streitige und unstreitige Tatsachen, Lueckentafel.
 2. **Unionsbezug prüfen** — Faellt die Materie in den Anwendungsbereich des Unionsrechts (Art. 51 GRC)?
@@ -65,10 +65,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

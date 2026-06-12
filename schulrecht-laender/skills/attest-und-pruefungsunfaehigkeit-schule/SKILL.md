@@ -3,7 +3,7 @@ name: attest-und-pruefungsunfaehigkeit-schule
 description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht Länder."
 ---
 
-# Attest Und Pruefungsunfaehigkeit Schule
+# Attest Und Prüfungsunfaehigkeit Schule
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Prüft Atteste und Prüfungsunfähigkeit in Schule im Schulrecht L
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Attest Und Pruefungsunfaehigkeit Schule
+## Fachkern: Attest Und Prüfungsunfaehigkeit Schule
 - **Normen-/Quellenanker:** Schulgesetz des Bundeslands, Schulordnung, VwVfG/VwGO, Grundrechte, Inklusions-/SGB-IX-Schnittstellen, Datenschutz und kommunale Satzung.
 - **Entscheidende Weiche:** Bestimme Bundesland, Schulform, Verwaltungsakt/Realakt, Frist, pädagogischen Beurteilungsspielraum, Kindeswohl und gerichtlichen Eilbedarf.
 
@@ -26,7 +26,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Spezialfokus
 
 - **Konkreter Auftrag:** Prüft Atteste und Prüfungsunfähigkeit in Schule.
-- **Erste Trennlinie:** Ist das Problem wirklich Attest Und Pruefungsunfaehigkeit Schule, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Erste Trennlinie:** Ist das Problem wirklich Attest Und Prüfungsunfaehigkeit Schule, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.

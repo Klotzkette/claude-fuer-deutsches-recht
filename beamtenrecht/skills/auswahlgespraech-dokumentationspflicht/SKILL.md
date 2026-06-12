@@ -55,7 +55,7 @@ Skill für Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 
 ## 5. Ausgabeformat
 
-- Pruefraster Verfahrensfehler.
+- Prüfraster Verfahrensfehler.
 - Eilantragsbaustein "Anordnungsanspruch — Gespraechsfehler".
 
 ## 6. Verifizierte Quellenanker

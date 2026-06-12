@@ -41,7 +41,7 @@ Hafenbauwerke gehoeren zu den komplexesten Ingenieurbauwerken im Tiefbau: Stahls
 - DIN EN 1993-5 EC3 Spundwaende und DIN EN 1997-1 EC7: Dimensionierung und Nachweis Erd- und Wasserdruckwiderstand
 - EN 12954:2019 Kathodischer Korrosionsschutz metallischer Werkstoffe im Erdboden: KKS-System Hafen Seewasser
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Rammprotokoll vollstaendig: Bortenmass, GPS-Koordinate, Rammaggregat, Schlagenergie, Eindringtiefe je 10 cm Schlagzahl
 2. Spundwandkopf-Lage: Tachymeter-Kontrolle nach Rammen, Abweichung Hauptachse kleiner +-25 mm, Verkantung kleiner 10 mm/m

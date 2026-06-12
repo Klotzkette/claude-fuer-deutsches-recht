@@ -63,7 +63,7 @@ Klaere vor Gestaltung von Vetorechten:
 1. **Schutzinteresse definieren:** Wen schuetzen wir (Gründer, Investor, Familie) und wovor?
 2. **Katalog der Veto-Themen festlegen:** Selektiv; maximal 5-8 klar definierte Anlaesse.
 3. **Satzungs-Klausel entwerfen:** Personenbezogen vs. anteilsbezogen; Erloesch-Klausel formulieren.
-4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erlaeuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
+4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erläuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
 5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: für Faelle, die satzungsmaessig nicht erfasst sind.
 6. **Notar-Beurkundung** der Satzungsaenderung (bei Verankerung in Satzung).
 7. **Monitoring:** Jaehrliche Prüfung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
@@ -117,7 +117,7 @@ erheben.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-share-classes-a-b-c` — Verbindung mit Klassen-Strukturen
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtungs-Klauseln

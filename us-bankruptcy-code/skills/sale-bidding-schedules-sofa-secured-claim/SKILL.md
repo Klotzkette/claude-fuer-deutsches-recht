@@ -1,6 +1,6 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code."
+description: "Prüft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline im US Bankruptcy Code."
 ---
 
 # Sale Process and Bidding Procedures
@@ -12,7 +12,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.

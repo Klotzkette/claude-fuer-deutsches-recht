@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-konstanzanalyse
-description: "Konstanzanalyse: Aussagekonstanz vs: Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesa..."
+description: "Konstanzanalyse: Aussagekonstanz vs: Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Prüfung, Bewertung im aussagepsychologischen Gesa..."
 ---
 
 # Konstanzanalyse: Aussagekonstanz vs
@@ -20,7 +20,7 @@ description: "Konstanzanalyse: Aussagekonstanz vs: Aussageinkonstanz, Kernkonsta
 
 ## Worum geht es
 
-Die Konstanzanalyse ist das zweite tragende Pruefelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente über die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — für Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
+Die Konstanzanalyse ist das zweite tragende Prüfelement der aussagepsychologischen Begutachtung neben den Realkennzeichen. Sie fragt: Wie konstant sind die wesentlichen Aussageelemente über die Zeit hinweg, und wo variieren sie? Konstanz spricht — bei sonst plausibler Aussagegenese — für Erlebnisbasiertheit; auffaellige Inkonstanzen oder eine schrittweise Steigerung der Belastung indizieren Suggestion, Konfabulation oder bewusste Anpassung.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert ein strukturiertes Werkzeug für die Aufbereitung der Aussagechronologie und das Kreuzverhoer.
 
@@ -39,7 +39,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 6. Schriftliche Mitteilungen (E-Mail, Chat, Brief, Tagebuch).
 7. Hauptverhandlung.
 
-**Pruefdimensionen.**
+**Prüfdimensionen.**
 - Konsistenz: gleichbleibende Beschreibung des Kerngeschehens.
 - Steigerung: zunehmende Belastung, neue Vorwuerfe, neue Taten über die Zeit (typisch suggestiv kontaminiert).
 - Reduktion: Wegfall belastender Elemente (kann auf Vermeidung, Schamabbau oder Korrektur hindeuten).
@@ -83,7 +83,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 
 - BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Beweiswuerdigung in Aussage-gegen-Aussage-Konstellationen).
 - BGH staendige Rechtsprechung zur Konstanzanalyse als Bestandteil der aussagepsychologischen Prüfung (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
-- Steller, M., Koehnken, G., zur Konstanzbewertung als eines der Pruefkriterien (Lehrbuch-Bezug, generisch).
+- Steller, M., Koehnken, G., zur Konstanzbewertung als eines der Prüfkriterien (Lehrbuch-Bezug, generisch).
 - Volbert, R., zur Aussagegenese und Aussageentwicklung (generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).
 - Zitierregeln siehe `references/zitierweise.md`.

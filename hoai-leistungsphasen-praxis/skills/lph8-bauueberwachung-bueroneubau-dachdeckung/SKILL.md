@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Bueroneubau mit Curtain-Wall-
 
 Buerogebaeude mit vorgehaengter Pfosten-Riegel-Fassade stellen hohe Anforderungen an Koordination von Fassade, Tragwerk und TGA.
 Die Bauueberwachung nach HOAI LPH 8 sichert Fassadendichtheit, Raumakustik und Energieeffizienz als vermieterrelevante Qualitaetsmerkmale.
-Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige Pruefzertifikate und baustellen-seitige Abnahmepruefungen.
+Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige Prüfzertifikate und baustellen-seitige Abnahmepruefungen.
 
 ## Bauwerk und Auftrag
 
@@ -32,25 +32,25 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 3. Fassadenankerpositionen im Rohbau: Lage nach Montagepluenen prüfen, Toleranz +/-5 mm einhalten
 4. Doppelbodenmontage: Trittfestigkeit 3 kN/dm nach DIN EN 12825, Hoehenkonsistenz, Fugenversatz
 5. Heizungs-Kuehlungs-Deckenstrahlplatten: Druckpruefung 6 bar, Fuehleranschluss, Kondenswasserabfuhr
-6. Brandschutzabschalung Traeger F90: Schichtdicke nach Pruefprotokoll, Lueftungskanalabschottung EI 120
+6. Brandschutzabschalung Traeger F90: Schichtdicke nach Prüfprotokoll, Lueftungskanalabschottung EI 120
 
 ## Normen und Rechtsrahmen
 
 - HOAI 2021 § 34 Anlage 10 LPH 8 Grundleistungen
 - § 650p BGB Architektenvertrag, § 650q BGB Kuendigung
-- DIN EN 13830 Vorhangfassaden: Pruefanforderungen Schlagregendichtheit, Windlast, Einbruchhemmung
+- DIN EN 13830 Vorhangfassaden: Prüfanforderungen Schlagregendichtheit, Windlast, Einbruchhemmung
 - ETAG 002 Structural Sealant Glazing Systems: Anforderungen strukturelle Verglasung
 - VDI 3804 Raumlufttechnik Buerogebaeude: Planungsanforderungen Lueftung und Kuehldecke
 - DIN EN 12825 Doppelboden: Prüfung Belastbarkeit, Klassifizierung Lastklassen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Bewehrungsabnahme Rohbau: Betondeckung, Mattenstahlstoss, Einbauteile je Geschoss und Achsraster
 2. Fassadenmodulmontage: Ankerlage, Verbindungsschrauben, Dichtungskontinuitaet sichtbar geprueft
 3. Schlagregendichtheit: stichprobenartige Wasserdruckpruefung nach DIN EN 12155 an Fugenverbindungen
 4. Kuehldecke Druckpruefprotokoll: 6 bar, 30 Minuten, keine Undichtheit, Protokoll je Geschoss
 5. Doppelboden Fugenversatz: max. 1 mm, Hoehendifferenz benachbarter Platten max. 0.5 mm
-6. Brandschutzabschottung TGA-Durchfuehrungen: EI 90 je Durchfuehrung, Zulassung und Pruefprotokoll
+6. Brandschutzabschottung TGA-Durchfuehrungen: EI 90 je Durchfuehrung, Zulassung und Prüfprotokoll
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -64,9 +64,9 @@ Curtain-Wall-Systeme (z.B. Schuco FW 60+, Wicona Wicstyle) erfordern werkseitige
 
 - PlanRadar Buero-Projekt: Maengelkategorien Fassade/TGA/Ausbau, Mieteinheiten-Zuordnung, Statusverfolgung
 - SAP PS Projektsystem: Netzplan Rohbau/Fassade/Innenausbau, Meilensteine Vorvermietungsstand, Kosten
-- SAP PM Equipment Fassadenanlage: Wartungsintervalle Silikonfugen alle 10 Jahre, Prueflisten
+- SAP PM Equipment Fassadenanlage: Wartungsintervalle Silikonfugen alle 10 Jahre, Prüflisten
 - RIB iTWO: Massenabgleich Ausschreibung vs. Aufmass Fassadenflaeche, Nachtragsprotokoll Sondermasse
-- Dalux ERP-Export: Maengelreport je Mietereinheit für Vermieter und Hauptmieter-Prüfung vor Uebergabe
+- Dalux ERP-Export: Maengelreport je Mietereinheit für Vermieter und Hauptmieter-Prüfung vor Übergabe
 
 ## Typische Fallstricke
 

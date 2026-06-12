@@ -41,8 +41,8 @@ Der Gegner beruft sich auf ältere Nutzung.
 
 ### Umfang
 - Weiternutzung im **bisherigen Umfang**.
-- Erweiterung nur in den Grenzen des urspruenglichen Geschaeftsbereichs.
-- Verkauf des Vorbenutzungsrechts nur zusammen mit dem Geschaeftsbetrieb.
+- Erweiterung nur in den Grenzen des urspruenglichen Geschäftsbereichs.
+- Verkauf des Vorbenutzungsrechts nur zusammen mit dem Geschäftsbetrieb.
 
 ### BGH-Linie
 - BGH X ZR 75/02 — Anforderungen an "konkrete Vorbereitungshandlungen".

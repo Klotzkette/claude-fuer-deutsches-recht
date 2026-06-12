@@ -25,7 +25,7 @@ Dieser Dokumenten-Intake für **Common Law Kompass** ordnet Anlagen, Registerdat
 
 ## Fachlandkarte dieses Plugins
 
-- `begriffe-uebersetzung-bilingual-contract` — Begriffe Uebersetzung Bilingual Contract
+- `begriffe-uebersetzung-bilingual-contract` — Begriffe Übersetzung Bilingual Contract
 - `bilingual-contract-review` — Bilingual Contract Review
 - `bilinguale-client-commercial-sonderfall` — Bilinguale Client Commercial Sonderfall
 - `cl-discovery-doc-production-spezial` — CL Discovery DOC Production Spezial

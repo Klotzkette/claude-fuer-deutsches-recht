@@ -34,7 +34,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Hansestadt seit Mittelalter.
 - Frei-Reichsstadt bis 1806.
-- Selbstaendige Mitglied des Deutschen Bundes 1815.
+- Selbständige Mitglied des Deutschen Bundes 1815.
 
 ## Wichtige Hamburger Rechtssaetze
 

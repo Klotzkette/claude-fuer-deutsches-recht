@@ -19,7 +19,7 @@ Praezision schlaegt Generalformulierung. Wer den Lizenzgegenstand vage haelt ("a
 | Marke | Reg.-Nr., Wortmarke/Bildmarke, Nizza-Klassen |
 | Design | Reg.-Nr., Beschreibung, Schutzgebiete |
 | Gebrauchsmuster | Reg.-Nr., Datum |
-| Geschaeftsgeheimnis | Bezeichnung + Anlage-Hash + Versionsnummer |
+| Geschäftsgeheimnis | Bezeichnung + Anlage-Hash + Versionsnummer |
 | Domain | Domain + Registrar |
 
 ## Anlage-A-Schema (Standard)
@@ -59,7 +59,7 @@ A.4 Know-how
 >
 > (3) Anlage A ist integraler Bestandteil dieses Vertrages.
 
-## Pruefroutine vor Vertragsschluss
+## Prüfroutine vor Vertragsschluss
 
 1. Schutzrechtsregister live abfragen (DPMA, EUIPO, EPA)
 2. Whois für Domains

@@ -1,6 +1,6 @@
 ---
 name: vorstandswechsel-dividenden
-description: "Prueft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten im Insiderrecht Compliance."
+description: "Prüft Insiderrecht bei Vorstandswechseln: Zeitpunkt der Insiderinformation, Ad-hoc-Pflicht, Abberufung vs. Ruecktritt und Vertraulichkeitspflichten im Insiderrecht Compliance."
 ---
 
 # Vorstandswechsel – Insiderrecht und Ad-hoc-Pflicht

@@ -1,13 +1,13 @@
 ---
 name: rmap-evaluierung-export
-description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfad"
+description: "Lebenszyklus einer Rulemap-Norm: Versionierung; Änderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Änderungs- und Evaluationsplan mit Zuständigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfad"
 ---
 
-# Evaluierung und Aenderung von Rulemap-Normen
+# Evaluierung und Änderung von Rulemap-Normen
 
 ## Normenanker
 
-Arbeitsfokus: **Evaluierung und Aenderung von Rulemap-Normen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Evaluierung und Änderung von Rulemap-Normen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 20 Abs. 3 GG` — Gesetzesbindung.
 - `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
@@ -42,11 +42,11 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Kern der Methode
 
-Rulemaps werden im Builder per No-Code gepflegt; Aenderungen sind versionierbar und reviewbar. Die Evaluation orientiert sich an Wirkungskontrolle und Erfuellungsaufwand (NKRG-Anforderungen) und stellt fest; ob das Regelungsziel erreicht wird.
+Rulemaps werden im Builder per No-Code gepflegt; Änderungen sind versionierbar und reviewbar. Die Evaluation orientiert sich an Wirkungskontrolle und Erfuellungsaufwand (NKRG-Anforderungen) und stellt fest; ob das Regelungsziel erreicht wird.
 
-## Pruefpunkte
+## Prüfpunkte
 
-Prüfen: ist jede Aenderung rueckverfolgbar? Bleibt der parlamentarische Vorbehalt gewahrt? Wird die Norm trotz Modellpflege materiell richtig gehalten?
+Prüfen: ist jede Änderung rueckverfolgbar? Bleibt der parlamentarische Vorbehalt gewahrt? Wird die Norm trotz Modellpflege materiell richtig gehalten?
 
 ## Abgrenzung
 

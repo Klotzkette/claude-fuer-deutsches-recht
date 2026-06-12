@@ -42,7 +42,7 @@ description: "PrALR: Normkarte Altrecht in heutiger Akte: prüft konkret die ein
 - Für Ostdeutschland.
 - Ablöse von Bodenreformland und Altrechten.
 
-## Pruefraster
+## Prüfraster
 
 1. Wann begruendet?
 2. Welches Recht?

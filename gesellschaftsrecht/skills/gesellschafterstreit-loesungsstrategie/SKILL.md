@@ -141,7 +141,7 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 - Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsrecht:gesellschafterbeschluss` — Beschlussanfechtung und Nichtigkeitsklage
 - `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn GF-Haftungsvorwürfe Teil des Konflikts

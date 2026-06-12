@@ -46,7 +46,7 @@ description: "Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit konkre
 - Fremder Briefkasten (Mehrfamilienhaus mit gleichem Namen).
 - Arbeitnehmer im Urlaub — Zugang trotzdem (Urlaubs-Selbstrisiko).
 
-## Pruefraster
+## Prüfraster
 
 1. Wann wurde eingeworfen?
 2. Wann war Leerung uebrlich?

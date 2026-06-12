@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-grenzbaum-traufrecht
-description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Ueberhang Wegerecht und das Verhaeltnis zu Landesnachbarrecht und § 906 BGB. Liefert Pruefraster."
+description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Überhang Wegerecht und das Verhältnis zu Landesnachbarrecht und § 906 BGB. Liefert Prüfraster."
 ---
 
 # Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau
@@ -15,7 +15,7 @@ description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behan
 - Wasserabfluss vom Dach auf Nachbarsgrundstueck.
 - ALR I 23.
 
-### Ueberhang
+### Überhang
 - Aeste oder Wurzeln über die Grenze.
 - Heute § 910 BGB.
 
@@ -33,7 +33,7 @@ description: "Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behan
 - § 906 BGB Immissionen.
 - §§ 910, 917 BGB.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Konstellation?
 2. ALR oder Landesrecht?

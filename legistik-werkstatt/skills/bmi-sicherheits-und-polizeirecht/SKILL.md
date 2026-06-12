@@ -1,11 +1,11 @@
 ---
 name: bmi-sicherheits-und-polizeirecht
-description: "Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Auf..."
+description: "Sachbereich Sicherheits- und Polizeirecht im Geschäftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Auf..."
 ---
 
 # Sicherheits- und Polizeirecht (BMI)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Sicherheits- und Polizeirecht im Geschaeftsbereich BMI. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Sicherheits- und Polizeirecht im Geschäftsbereich BMI. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI
 
 Kernbestand des Sachfelds: BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Trennungsgebot Polizei und Nachrichtendienste; Online-Durchsuchung; Quellen-TKUe; Vorratsdatenspeicherung; BVerfG-Linie.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

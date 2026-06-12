@@ -170,5 +170,5 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - DelistingVO und Boersenrecht § 39 BoerseG: https://www.gesetze-im-internet.de/b_rsg_2007/__39.html
 - BVerfG, Beschl. v. 27.04.1999 — 1 BvR 1613/94 (DAT/Altana; BVerfGE 100, 289) — Boersenkurs als Untergrenze: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/04/rs19990427_1bvr161394.html
 - BaFin-Merkblaetter MAR/Ad-hoc: https://www.bafin.de/DE/Aufsicht/BoersenMaerkte/Marktmissbrauch/marktmissbrauch_node.html
-- Listing Act (Verordnung (EU) 2024/2809 zur Aenderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel prüfen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
+- Listing Act (Verordnung (EU) 2024/2809 zur Änderung MAR/Prospekt-VO/MiFIR; in Kraft 04.12.2024 mit gestaffelten Anwendungsdaten — Inkrafttretensdaten je Artikel prüfen): https://eur-lex.europa.eu/eli/reg/2024/2809/oj
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

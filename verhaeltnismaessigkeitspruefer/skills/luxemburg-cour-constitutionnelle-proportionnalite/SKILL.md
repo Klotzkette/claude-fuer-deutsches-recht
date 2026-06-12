@@ -1,6 +1,6 @@
 ---
 name: luxemburg-cour-constitutionnelle-proportionnalite
-description: Luxemburgische Verhaeltnismaessigkeitsdogmatik der Cour constitutionnelle nach Art 95ter Verfassung mit Drei-Stufen-Test Adequation Necessite Proportionnalite stricto sensu sowie der reformierten Verfassung 2023 mit Art 32 bis 49bis. Mit starkem EMRK und Charta-Einfluss Pruefungspraxis ueber die Cour superieure de justice und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Naehe zu franzoesischer und belgischer Doktrin.
+description: Luxemburgische Verhältnismäßigkeitsdogmatik der Cour constitutionnelle nach Art 95ter Verfassung mit Drei-Stufen-Test Adequation Necessite Proportionnalite stricto sensu sowie der reformierten Verfassung 2023 mit Art 32 bis 49bis. Mit starkem EMRK und Charta-Einfluss Prüfungspraxis ueber die Cour superieure de justice und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die enge Naehe zu franzoesischer und belgischer Doktrin.
 ---
 
 # Luxemburg Cour Constitutionnelle Proportionnalite
@@ -37,13 +37,13 @@ Leading cases:
 - Arret 109/2014 (Berufsfreiheit),
 - Arret 132/2017 (Privatleben Art 11 III Verfassung a F).
 
-Der Massstab wird haeufig kombiniert mit Art 10bis (a F) bzw Art 15
+Der Maßstab wird haeufig kombiniert mit Art 10bis (a F) bzw Art 15
 (n F) Gleichheitssatz, vergleichbar zur belgischen Praxis über
 Art 10 11 GW.
 
 ## Cour superieure de justice und Verwaltungsgerichtsbarkeit
 
-Die Verhaeltnismaessigkeitspruefung ist in Luxemburg auf mehreren Bahnen:
+Die Verhältnismäßigkeitspruefung ist in Luxemburg auf mehreren Bahnen:
 
 - **Cour constitutionnelle**: Prüfung von Gesetzen.
 - **Cour administrative**: Prüfung von Verwaltungsakten über
@@ -83,4 +83,4 @@ Bei luxemburgischen Bezuegen:
 Arrets vor Zitierung verifizieren über justice public lu /
 cour-constitutionnelle public lu. Memorial A (offizielles Amtsblatt) für
 Verfassungs- und Gesetzestexte. Mit der Reform 2023 Artikelzaehlung
-ueberpruefen.
+überprüfen.

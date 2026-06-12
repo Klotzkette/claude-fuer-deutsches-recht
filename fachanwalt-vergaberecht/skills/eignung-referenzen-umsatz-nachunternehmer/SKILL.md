@@ -1,6 +1,6 @@
 ---
 name: eignung-referenzen-umsatz-nachunternehmer
-description: "Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung: Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehme..."
+description: "Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung: Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehme..."
 ---
 
 # Eignung vertieft prüfen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.
@@ -39,7 +39,7 @@ Eignungsmatrix, Nachforderungscheck, Ausschlussrisiko, Ruge-/Verteidigungslinie.
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

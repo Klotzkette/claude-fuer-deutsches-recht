@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-mev-verstoss-bgh-vii-zr-25-20
-description: "Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Pruefraster Vorleistungsverbot Erstattungsanspruch."
+description: "Bautraegervertrag MaBV-Verstoss mit BGH VII ZR 25/20; Prüfraster Vorleistungsverbot Erstattungsanspruch."
 ---
 
 # Bautraegervertrag Mev Verstoss BGH Vii Zr 25 20

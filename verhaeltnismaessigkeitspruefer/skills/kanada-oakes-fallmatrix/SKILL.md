@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-fallmatrix
-description: Rechtsvergleichende Fallmatrix zu Leitentscheidungen des Supreme Court of Canada zum Oakes-Test als Kontrastfolie zur deutschen BVerfG-Pruefung. Mit R v Oakes 1986, Edwards Books 1986, RJR-MacDonald 1995, Hutterian Brethren 2009, Carter v Canada 2015 und Bedford 2013 jeweils auf Stufe Pressing Substantial Objective Rational Connection Minimal Impairment Proportionality of Effects gespiegelt.
+description: Rechtsvergleichende Fallmatrix zu Leitentscheidungen des Supreme Court of Canada zum Oakes-Test als Kontrastfolie zur deutschen BVerfG-Prüfung. Mit R v Oakes 1986, Edwards Books 1986, RJR-MacDonald 1995, Hutterian Brethren 2009, Carter v Canada 2015 und Bedford 2013 jeweils auf Stufe Pressing Substantial Objective Rational Connection Minimal Impairment Proportionality of Effects gespiegelt.
 ---
 
 # Kanada Oakes-Test: Fallmatrix
@@ -12,7 +12,7 @@ Supreme Court of Canada Eingriffe in Charter-Rechte durch den
 Oakes-Test diszipliniert. Der Vergleich dient als Denkwerkzeug, nicht
 als Ersatz für Art. 1 bis 19 GG und die BVerfG-Rechtsprechung.
 
-## Leitentscheidungen im Ueberblick
+## Leitentscheidungen im Überblick
 
 | Fall | Jahr | Charter-Recht | Ergebnis | Tragender Prong |
 | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ als Ersatz für Art. 1 bis 19 GG und die BVerfG-Rechtsprechung.
 David Oakes wurde unter dem Narcotic Control Act mit der gesetzlichen
 Vermutung konfrontiert, dass jeder Besitz von Betaeubungsmitteln auch
 Handelsabsicht impliziert (reverse onus). Der SCC entwickelte den
-Pruefraster und befand, dass kein rationaler Zusammenhang zwischen
+Prüfraster und befand, dass kein rationaler Zusammenhang zwischen
 bloss em Besitz und Handelsabsicht besteht: die reverse onus erfasst
 auch kleinste Mengen und ist daher nicht rational.
 
@@ -40,7 +40,7 @@ zur deutschen Diskussion um Beweislastumkehr und Indizregelungen.
 ## Edwards Books and Art Ltd v The Queen [1986] 2 SCR 713
 
 Ontario Retail Business Holidays Act verbot Sonntagsoeffnung mit
-Ausnahmen für kleine Geschaefte und juedische Haendler mit Samstagsruhe.
+Ausnahmen für kleine Geschäfte und juedische Haendler mit Samstagsruhe.
 Die Maehrheit hielt das Gesetz für verhaeltnismaessig: der Gesetzgeber
 darf bei komplexen sozialpolitischen Materien einen Gestaltungsspielraum
 beanspruchen, solange die Ausnahmen die Belastung mildern.
@@ -84,7 +84,7 @@ oder overbroad und damit nicht in Einklang mit principles of fundamental
 justice. Verfassungswidrig.
 
 Bedeutung für den Prüfer: Innerhalb von Section 7 hat der SCC eigene
-Pruefkategorien (arbitrariness, overbreadth, groß disproportionality)
+Prüfkategorien (arbitrariness, overbreadth, groß disproportionality)
 entwickelt, die teilweise Section 1 vorgelagert sind. Pendant zur
 deutschen Diskussion über strukturelle Inkonsequenz im
 Eingriffsrecht und über Schutzpflichten gegenueber besonders
@@ -118,9 +118,9 @@ Verhältnismäßigkeit verletzen.
 
 - Nicht behaupten, der Oakes-Test gelte in Deutschland. Der Vergleich
   hilft nur, methodische Alternativen sichtbar zu machen.
-- Section 7 Pruefkategorien (overbreadth, arbitrariness, groß
+- Section 7 Prüfkategorien (overbreadth, arbitrariness, groß
   disproportionality) sind nicht identisch mit deutschen Begriffen
-  und dürfen nicht ungeprueft uebersetzt werden.
+  und dürfen nicht ungeprueft übersetzt werden.
 - Notwithstanding Clause Section 33 hat keine Entsprechung; im
   rechtsvergleichenden Argument nicht uebersehen, dass kanadische
   Charter-Rechtsprechung gesetzgeberisch ueberschrieben werden kann.

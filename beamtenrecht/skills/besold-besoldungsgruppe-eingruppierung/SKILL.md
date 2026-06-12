@@ -41,7 +41,7 @@ description: "Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion im 
 - Konkurrentenklage (Eilrechtsschutz § 123 VwGO).
 - BVerwG-Linie zur Auswahlentscheidung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Statusamt?
 2. Welche Funktion?

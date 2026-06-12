@@ -27,7 +27,7 @@ Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungs
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 10 GwG — Allgemeine Sorgfaltspflichten: Identifizierung und Ueberpruefung von Kundendaten
+- § 10 GwG — Allgemeine Sorgfaltspflichten: Identifizierung und Überprüfung von Kundendaten
 - §§ 18-26 GwG — Transparenzregister: Eintragungspflicht und Richtigkeit
 - § 23a GwG — Unstimmigkeitsmeldung an Transparenzregister
 - Art. 5 DSGVO — Datengenauigkeit und -aktualitaet als Datenschutzgrundsatz

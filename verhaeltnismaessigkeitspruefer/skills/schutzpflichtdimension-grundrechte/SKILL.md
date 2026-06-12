@@ -1,6 +1,6 @@
 ---
 name: schutzpflichtdimension-grundrechte
-description: Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde. Verhaeltnismaessigkeit wirkt hier als Untermassverbot. Erklaert wann der Staat aktiv handeln muss und wie die Schutzpflicht ueber die Drittwirkung in Konstellationen zwischen Privaten hineinreicht.
+description: Schutzpflichtdimension der Grundrechte als zweite Saeule neben der Abwehrfunktion. Behandelt insbesondere die Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG bei Behinderung wie sie im Triage-Beschluss des BVerfG vom 16.12.2021 anerkannt wurde. Verhältnismäßigkeit wirkt hier als Untermassverbot. Erklaert wann der Staat aktiv handeln muss und wie die Schutzpflicht ueber die Drittwirkung in Konstellationen zwischen Privaten hineinreicht.
 ---
 
 # Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot
@@ -39,10 +39,10 @@ Aus Art. 3 Abs. 3 Satz 2 GG folgt eine **Schutzpflicht des Gesetzgebers** dafuer
 ### Bedeutung
 
 - Erste explizite Anerkennung einer Schutzpflicht aus Art. 3 Abs. 3 Satz 2 GG.
-- Schutzpflicht reicht in das aerztliche Triage-Geschehen also ein Verhaeltnis zwischen Privaten.
-- Untermassverbot als Pruefungsmassstab — der Schutz darf nicht völlig fehlen oder ungeeignet sein.
+- Schutzpflicht reicht in das aerztliche Triage-Geschehen also ein Verhältnis zwischen Privaten.
+- Untermassverbot als Prüfungsmassstab — der Schutz darf nicht völlig fehlen oder ungeeignet sein.
 
-## Pruefungsschema Untermassverbot
+## Prüfungsschema Untermassverbot
 
 1. **Schutzpflicht identifizieren** — Grundrecht und betroffene Position.
 2. **Schutzwirklichkeit messen** — was tut der Staat tatsaechlich.
@@ -81,7 +81,7 @@ Im Triage-Beschluss wirken beide zusammen: Der Staat schuldet einen Rechtsrahmen
 
 ## Fallstricke
 
-- **Untermassverbot und Uebermassverbot verwechseln** — beide sind Verhältnismäßigkeit aber spiegelbildlich. Pruefungsrichtung beachten.
+- **Untermassverbot und Uebermassverbot verwechseln** — beide sind Verhältnismäßigkeit aber spiegelbildlich. Prüfungsrichtung beachten.
 - **Schutzpflichtenkatalog ueberdehnen** — nicht jede Beeintraechtigung loest eine Schutzpflicht aus. Erforderlich ist eine grundrechtsrelevante Gefaehrdung.
 - **Einschaetzungsspielraum ignorieren** — der Gesetzgeber hat erhebliche Wahlfreiheit bei den Mitteln. Nur klare Schutzdefizite sind verfassungswidrig.
 - **Triage-Beschluss verallgemeinern** — die Entscheidung ist auf Art. 3 Abs. 3 Satz 2 GG zugeschnitten. Andere Schutzpflichten folgen eigenen Linien.

@@ -30,7 +30,7 @@ Die Norm ist eine **Strafnorm der Krisenfruherkennung**. Sie tritt regelmaessig 
 
 ### Absatz 1 vorsaetzliche Verletzung
 
-Wer als Geschaeftsfuehrer es **unterlaesst**, entgegen Paragraph 49 Abs 3 GmbHG die Versammlung der Gesellschafter zu berufen, wenn aus der Jahresbilanz oder aus einer im Laufe des Geschaeftsjahres aufgestellten Bilanz hervorgeht oder bei pflichtmäßigem Ermessen anzunehmen ist, dass die Haelfte des Stammkapitals verloren ist, wird mit Freiheitsstrafe bis 3 Jahre oder Geldstrafe bestraft.
+Wer als Geschäftsführer es **unterlaesst**, entgegen Paragraph 49 Abs 3 GmbHG die Versammlung der Gesellschafter zu berufen, wenn aus der Jahresbilanz oder aus einer im Laufe des Geschäftsjahres aufgestellten Bilanz hervorgeht oder bei pflichtmäßigem Ermessen anzunehmen ist, dass die Haelfte des Stammkapitals verloren ist, wird mit Freiheitsstrafe bis 3 Jahre oder Geldstrafe bestraft.
 
 ### Absatz 2 fahrlaessige Verletzung
 
@@ -38,7 +38,7 @@ Wer die Pflicht fahrlaessig verletzt: Freiheitsstrafe bis 1 Jahr oder Geldstrafe
 
 ### Voraussetzungen
 
-- **GF-Stellung**: Eingetragener oder faktischer Geschaeftsfuehrer (Paragraph 14 StGB).
+- **GF-Stellung**: Eingetragener oder faktischer Geschäftsführer (Paragraph 14 StGB).
 - **Verlust der Haelfte des Stammkapitals**: Bilanzielle Betrachtung; Eigenkapital muss weniger als die Haelfte des Stammkapitals betragen. Stille Reserven gehen *nicht* ein, weil Bilanzpruefung an Buchwerten orientiert ist.
 - **Ergibt sich aus der Bilanz** oder **pflichtmaesses Ermessen** lassen es annehmen. Zweite Alternative ist die Frueherkennung: GF muss bei laufender Beobachtung der Lage handeln.
 - **Unverzueglich** = ohne schuldhaftes Zoegern (Paragraph 121 BGB). In der Praxis: Einberufung innerhalb von 2 bis 4 Wochen nach Erkenntnis.
@@ -100,4 +100,4 @@ zu unterrichten. Die Versammlung muss über das weitere Vorgehen entscheiden.
 - Paragraph 43 GmbHG Haftung des GF gegenueber der Gesellschaft.
 - Paragraph 121 BGB unverzueglich = ohne schuldhaftes Zoegern.
 - BGH staendige Rspr. zur Formstrenge der Einberufung.
-- BGH staendige Rspr. zur Pflicht auch bei laufender Geschaeftsbeobachtung (pflichtmaesses Ermessen).
+- BGH staendige Rspr. zur Pflicht auch bei laufender Geschäftsbeobachtung (pflichtmaesses Ermessen).

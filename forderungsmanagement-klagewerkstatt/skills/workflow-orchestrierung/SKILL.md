@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrierung
-description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Pruefung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspru..."
+description: "Steuert den Gesamtablauf einer Forderungsakte vom Eingang bis zur Vollstreckung oder Abschreibung. Definiert Workflow-Stufen Eingang Prüfung Mahnung Mahnbescheid Klage Titel Vollstreckung Erloesverwertung. Pinpoints ZPO 91 Kostenfolge ZPO 167 Rueckwirkung Zustellung ZPO 696 Abgabe nach Widerspru..."
 ---
 
 # Workflow-Orchestrierung
@@ -20,7 +20,7 @@ Der Workflow startet bei vorhandenen Unterlagen immer mit `aktenordner-schnellst
 | 3 Mahnung | gruenes Licht und Verzug fehlt | mahnung-aussergerichtlich-stufenmodell | Mahnschreiben | 14 Tage Zahlungsfrist |
 | 4 Mahnbescheid oder Klage | Verzug eingetreten oder Mahnung erfolglos | mahnbescheid-online oder zahlungsklage-erstellen | MB-Antrag oder Klageschrift | 4 bis 8 Wochen |
 | 5 Titel | Vollstreckungsbescheid oder Urteil rechtskraeftig | vollstreckungsbescheid-folgen | titel mit Vollstreckungsklausel | sofort |
-| 6 Vollstreckung | Titel vorhanden | zwangsvollstreckung-ueberblick | Pfaendungsergebnis | je Schritt 14 Tage |
+| 6 Vollstreckung | Titel vorhanden | zwangsvollstreckung-überblick | Pfaendungsergebnis | je Schritt 14 Tage |
 
 ## Kostenfolge
 
@@ -35,7 +35,7 @@ Der Workflow startet bei vorhandenen Unterlagen immer mit `aktenordner-schnellst
 | Zahlungsfrist abgelaufen ohne Eingang | naechste Stufe |
 | Schuldner-Brief eingegangen | sofort Auswertung mandantenkommunikation |
 | Gericht setzt Termin | Tatbestand-beweis-belege aktualisieren |
-| Vollstreckung erfolglos | Vermoegensauskunft ZPO 802c veranlassen |
+| Vollstreckung erfolglos | Vermögensauskunft ZPO 802c veranlassen |
 | Insolvenzantrag bekannt | Wechsel in forderung-gegen-insolventen-schuldner |
 
 ## Zustellung Rueckwirkung ZPO 167

@@ -28,7 +28,7 @@ description: "Einsatz KI-gestuetzter Schriftsaetze in der Strafverteidigung ohne
 ## Risikolage
 
 - KI-Modelle generieren ueberzeugend wirkende, aber zum Teil erfundene Aktenzeichen, Entscheidungen oder Kommentarfundstellen.
-- Ein Schriftsatz mit erfundenen Zitaten ist Schlechterfuellung des Mandatsvertrags (Geschaeftsbesorgungsvertrag § 675 BGB), bietet Angriffsflaeche für berufsrechtliche Maßnahmen (§ 43a Abs. 3 BRAO) und kann das Vertrauensverhaeltnis zum Gericht beschaedigen.
+- Ein Schriftsatz mit erfundenen Zitaten ist Schlechterfuellung des Mandatsvertrags (Geschäftsbesorgungsvertrag § 675 BGB), bietet Angriffsflaeche für berufsrechtliche Maßnahmen (§ 43a Abs. 3 BRAO) und kann das Vertrauensverhaeltnis zum Gericht beschaedigen.
 - Eingriffstatbestaende wie § 138a StPO greifen meist nicht, aber die Konsequenzen sind erheblich.
 
 ## Verifizierungsregeln

@@ -1,6 +1,6 @@
 ---
 name: eur-anrufung-state-beihilfen-vergaben
-description: "Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass."
+description: "Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Prüfraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen im Europarecht Kompass."
 ---
 
 # EU: Petitionsausschuss
@@ -25,7 +25,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Petition
+## Prüfraster Petition
 
 1. **Petitionsberechtigung** Art. 24 II, 227 AEUV
  - Jeder Buerger der Union, jede in einem Mitgliedstaat wohnhafte natuerliche Person, jede in einem Mitgliedstaat eingetragene juristische Person.
@@ -38,7 +38,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
  - Per Post oder Online-Portal `petiport.secure.europarl.europa.eu`.
  - Mehrere Petenten: erster Unterzeichner gilt als Sprecher.
 4. **Sprache** — alle 24 Amtssprachen der EU; Deutsch zulässig.
-5. **Pruefungsablauf**
+5. **Prüfungsablauf**
  - Prüfung der Zulaessigkeit durch Petitionsausschuss (PETI).
  - Bei Zulaessigkeit: Prüfung der Begruendetheit, ggf. Anhörung, Stellungnahme von Kommission, Kontakte zu nationalen Behörden.
  - Mitteilung an Petenten über Ergebnis; ggf. Weiterleitung an EU-Buergerbeauftragten, SOLVIT oder andere Stellen.
@@ -59,10 +59,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

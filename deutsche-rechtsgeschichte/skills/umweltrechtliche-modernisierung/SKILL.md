@@ -37,7 +37,7 @@ Das moderne Umweltrecht ist ein Kind der zweiten Haelfte des 20. Jh. Zwar gab es
 1. Art. 20a GG als Staatsziel: Hat es normative Verbindlichkeit oder ist es ein Programmsatz?
 2. BImSchG: War es ausreichend für den Klimaschutz?
 3. GG-Klimaurteil BVerfGE 157, 30 (2021): Art. 2 GG und Klimaschutzpflicht
-4. EU-Emissionshandel (ETS) und deutsches Umweltrecht: Verhaeltnis?
+4. EU-Emissionshandel (ETS) und deutsches Umweltrecht: Verhältnis?
 5. Atomkraft und Ausstieg: BVerfGE 118, 79 zum Atommoratorium
 
 ## Methodik

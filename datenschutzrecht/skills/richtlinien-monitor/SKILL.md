@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abg..."
+description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformität monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Prüfraster: Richtlinienbestand Änderungsbedarf neue Verarbeitungstätigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Änderungsliste. Abg..."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung
@@ -117,7 +117,7 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitli
 
 - **TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz):** Seit 14.05.2024 (loest TTDSG ab); enthaelt §§ 24-25 zur Cookie- und Endgeraetezugriffs-Einwilligung. Quelle: gesetze-im-internet.de/tdddg.
 - **EDSA-Guidelines Cookies / Tracking:** EDSA-Guidelines 02/2023 und Aktualisierungen (z.B. Dark Patterns) live über edpb.europa.eu prüfen.
-- **DSK-Beschlüsse (Datenschutzkonferenz Bund-Länder):** Aktuelle DSK-Beschlüsse zu Cookies, Drittlandtransfer, KI, Beschaeftigtendatenschutz live über datenschutzkonferenz-online.de prüfen.
+- **DSK-Beschlüsse (Datenschutzkonferenz Bund-Länder):** Aktuelle DSK-Beschlüsse zu Cookies, Drittlandtransfer, KI, Beschäftigtendatenschutz live über datenschutzkonferenz-online.de prüfen.
 - **EuGH-Linie Cookies / Einwilligung:** Aktuelle EuGH-Verfahren zur Granularitaet, Freiwilligkeit, Pay-or-OK-Modellen live über curia.europa.eu prüfen.
 - **DSA-Werbetransparenz:** Datenschutzerklaerung sollte bei Plattformen Hinweise auf DSA-Werbearchiv (Art. 39 DSA) und Empfehlungssysteme (Art. 38 DSA) enthalten.
 - **KI-VO Art. 50:** Falls Webseite Chatbot oder KI-generierte Inhalte enthaelt — KI-VO-Transparenzpflichten ab 02.08.2026 in Datenschutzerklaerung / Impressum / Hinweise integrieren.

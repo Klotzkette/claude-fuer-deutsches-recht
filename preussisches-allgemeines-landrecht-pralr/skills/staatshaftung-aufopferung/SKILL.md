@@ -24,7 +24,7 @@ description: "PrALR: Einleitung §§ 74 und 75, Aufopferung, enteignender/enteig
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **Einl. § 74 ALR**: "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
 - **Einl. § 75 ALR**: "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
 

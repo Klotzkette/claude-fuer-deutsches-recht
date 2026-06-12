@@ -13,7 +13,7 @@ description: "Lohn-Streitfaelle BAG-Linie BSG-Linie StB-Haftungsrisiko. Anwendun
 
 ## Kernsachverhalt
 
-Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeitsrechtlich vor dem Arbeitsgericht (BAG-Linie) und sozialversicherungsrechtlich vor dem Sozialgericht (BSG-Linie). Die Klassifikation als AN, Werkvertrag, Selbstaendiger, Werkstudent oder GGF kann sich in beiden Spuren unterschiedlich darstellen. Der Steuerberater haftet bei Fehlklassifikation aus Mandantenvertrag.
+Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeitsrechtlich vor dem Arbeitsgericht (BAG-Linie) und sozialversicherungsrechtlich vor dem Sozialgericht (BSG-Linie). Die Klassifikation als AN, Werkvertrag, Selbständiger, Werkstudent oder GGF kann sich in beiden Spuren unterschiedlich darstellen. Der Steuerberater haftet bei Fehlklassifikation aus Mandantenvertrag.
 
 ## Kaltstart-Rueckfragen
 
@@ -22,7 +22,7 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 3. Welche DRV-Statusfeststellung wurde durchgefuehrt?
 4. Welche Vertragstexte und tatsaechliche Ausgestaltung?
 5. Welche AN-Lebensumstaende (Familieneinbettung, Mehrfachbeschaeftigung)?
-6. Welcher Pruefzeitraum?
+6. Welcher Prüfzeitraum?
 7. Welche Höhe Nachforderung?
 8. Welche Versicherungs-Deckung (BHV des StB)?
 
@@ -32,7 +32,7 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 **§ 611a BGB** — Arbeitsvertragsdefinition.
 
-**§ 7 SGB IV** — Beschaeftigung.
+**§ 7 SGB IV** — Beschäftigung.
 
 **§ 1 ArbGG** — Arbeitsgerichtsbarkeit.
 
@@ -89,8 +89,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Phase 5 — GGF-Status
 
-- Mehrheits-GGF (>50 Prozent): selbstaendig.
-- Mehrheits-GGF mit Sperrminoritaet: selbstaendig.
+- Mehrheits-GGF (>50 Prozent): selbständig.
+- Mehrheits-GGF mit Sperrminoritaet: selbständig.
 - Familien-GGF: Einzelfallpruefung.
 - Fremd-GGF: in der Regel abhaengig.
 
@@ -124,4 +124,4 @@ Stand: 05/2026.
 - StGB § 266a.
 - BAG- und BSG-Linien; aktuelle Entscheidungen in amtliche/freie Quellen oder lizenzierte Datenbanken prüfen.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Pruefhinweise ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 1 bestaetigt (BAG 9 AZR 102/20 v. 01.12.2020 recherchiert), 3 ersetzt (Prüfhinweise ohne Marker) -->

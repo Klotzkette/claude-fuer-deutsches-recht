@@ -34,7 +34,7 @@ description: "PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft: Bearbeite 
 
 ## Konkreter ALR-Stoff: Aufopferungsanspruch Einl. §§ 74, 75 ALR
 
-### Wortlaut der Schluesselnormen
+### Wortlaut der Schlüsselnormen
 - **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
 - **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
 
@@ -44,9 +44,9 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 ### Heutige Anwendungsfaelle
 - **Polizeischaden gegen Unbeteiligte** (Geschossschaden im Streifeneinsatz, Sturz im Festnahmevorgang ohne Eigenanteil): Klage gegen den Hoheitstraeger auf der Grundlage des allgemeinen Aufopferungsanspruchs. Heute teils kodifiziert in den Polizei- und Ordnungsgesetzen der Länder, daneben fortgesetzt als ungeschriebenes Institut.
 - **Impfschaeden** vor InfSchG / vor BVG-Versorgung: Aufopferungsanspruch als Sekundaeranspruch.
-- **Eingriff in Vermoegenswerte für die Allgemeinheit** ohne ausdrueckliche enteignende Wirkung.
+- **Eingriff in Vermögenswerte für die Allgemeinheit** ohne ausdrueckliche enteignende Wirkung.
 
-### Verhaeltnis zu anderen Normen
+### Verhältnis zu anderen Normen
 - Art. 14 III GG (Enteignung) — fokussiert auf Eigentum.
 - Art. 34 GG mit § 839 BGB (Amtshaftung) — bei rechtswidrigem Verhalten.
 - Aufopferungsanspruch fuellt die Luecke für rechtmäßige Eingriffe.
@@ -55,7 +55,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 - **BGH** zur Aufopferung in Polizeifaellen (st. Rspr.; konkrete Az im Digitalisat verifizieren, etwa BGHZ 9 Seite 83; BGHZ 92 Seite 34).
 - **Pockenimpfungs-Faelle** der Nachkriegszeit.
 
-### Pruefraster
+### Prüfraster
 1. Hoheitlicher Eingriff zugunsten der Allgemeinheit?
 2. Eingriffsopfer ist Unbeteiligter bzw. Sonderbetroffener (Sonderopfer)?
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.

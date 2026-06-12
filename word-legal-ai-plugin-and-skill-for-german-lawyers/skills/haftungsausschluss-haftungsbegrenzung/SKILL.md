@@ -32,7 +32,7 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 - § 307 BGB: AGB-Generalklausel. Auch im B2B begrenzt.
 - § 444 BGB: Bei arglistig verschwiegenem Mangel kein Haftungsausschluss.
 - § 11 ProdHaftG: Haftung nach Produkthaftungsgesetz kann nicht ausgeschlossen oder begrenzt werden.
-- § 14 OWiG, § 75 AktG, § 43 GmbHG: Haftung der Geschaeftsleitung. Nicht beliebig ausschliessbar.
+- § 14 OWiG, § 75 AktG, § 43 GmbHG: Haftung der Geschäftsleitung. Nicht beliebig ausschliessbar.
 
 ## Ablauf / Checkliste
 
@@ -40,7 +40,7 @@ Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 B
 2. **Wessen Haftung?** Schuldner selbst, Erfuellungsgehilfen (§ 278 BGB), gesetzliche Vertreter?
 3. **Verschuldungsgrad?** Einfache Fahrlaessigkeit, grobe Fahrlaessigkeit, Vorsatz?
 4. **Welche Pflicht?** Kardinalpflicht oder Nebenpflicht?
-5. **AGB oder Individualabrede?** Im AGB-Verhaeltnis gelten Klauselverbote.
+5. **AGB oder Individualabrede?** Im AGB-Verhältnis gelten Klauselverbote.
 6. **Höhe der Begrenzung?** Summenmaessig, deckungsgleich mit Haftpflichtversicherung?
 7. **Zeitliche Begrenzung?** Verkuerzung der Verjährung nach § 202 BGB beachten.
 

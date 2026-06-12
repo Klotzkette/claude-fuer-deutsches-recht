@@ -1,6 +1,6 @@
 ---
 name: fernstudium-private-gruppenausarbeitung
-description: "Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Pruefungsrecht Hochschule."
+description: "Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Prüfungsrecht Hochschule."
 ---
 
 # Fernstudium und private Prüfstelle
@@ -15,10 +15,10 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 2 HRG` — Aufgaben der Hochschulen.
 - `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
 - `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Pruefungen und Leistungspunktsystem.
-- `§ 16 HRG` — Pruefungsordnungen.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
 - `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Pruefungsentscheidungen.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

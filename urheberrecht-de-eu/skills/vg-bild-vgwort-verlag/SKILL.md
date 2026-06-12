@@ -1,6 +1,6 @@
 ---
 name: vg-bild-vgwort-verlag
-description: "Prueft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz im Urheberrecht De Eu."
+description: "Prüft Vergütung, Meldung, Wahrnehmung, Bildrechte, Reprographie, Bibliothek, Verlagserlös und Autorentransparenz im Urheberrecht De Eu."
 ---
 
 # VG Wort, VG Bild-Kunst und Verlag

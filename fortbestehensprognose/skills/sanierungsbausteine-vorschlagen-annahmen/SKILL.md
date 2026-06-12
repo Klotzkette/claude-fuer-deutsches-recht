@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-vorschlagen-annahmen
-description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapita..."
+description: "Wenn die Fortbestehensprognose ohne Maßnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapita..."
 ---
 
 # Sanierungsbausteine vorschlagen
@@ -150,6 +150,6 @@ empfehlungen:
 ## Triage — Sanierungsbaustein-Auswahl
 
 1. **Zeitbedarf?** Patronatserklaerung/Rangrücktritt: 1-2 Tage. StaRUG-Plan: 4-8 Wochen. Kapitalerhöhung: 4-12 Wochen.
-2. **Glaeubiger-Einbindung noetig?** Stundungsanfragen, Verzichte — Zustimmung einholen.
+2. **Gläubiger-Einbindung noetig?** Stundungsanfragen, Verzichte — Zustimmung einholen.
 3. **Steuerliche Wirkung?** Sanierungserloes § 3a EStG: Voraussetzungen prüfen; Steuerberater einbinden.
 4. **Gesamtkonzept?** Alle Bausteine zusammen müssen eine positive Prognose tragen (IDW S 11 Konformitaet).

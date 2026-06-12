@@ -1,6 +1,6 @@
 ---
 name: eigentumsschutz-vindikation
-description: "Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Pruefraster."
+description: "Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Prüfraster."
 ---
 
 # Pralr Eigentumsschutz Vindikation Besitzschutz
@@ -34,7 +34,7 @@ description: "Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behande
 - §§ 985-986 BGB Vindikation.
 - §§ 858-862 BGB Besitzschutz.
 
-## Pruefraster
+## Prüfraster
 
 1. Eigentumsklage oder Besitzschutz?
 2. Welche Stoerung?

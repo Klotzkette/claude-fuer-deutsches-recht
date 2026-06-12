@@ -52,11 +52,11 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
  - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
 
 4. **Negativindizien gegen Joint Control.**
- - Reiner Datenfluss zwischen zwei getrennten Geschaeften ohne abgestimmte Verarbeitung.
+ - Reiner Datenfluss zwischen zwei getrennten Geschäften ohne abgestimmte Verarbeitung.
  - Jeder Akteur hat eigene Rechtsgrundlage und eigenen Zweck.
  - Keine gemeinsame Bewerbung oder Organisation.
 
-5. **Pruefraster (Stufenmodell).**
+5. **Prüfraster (Stufenmodell).**
  - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
  - Stufe 2: Wer entscheidet über Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
  - Stufe 3: Liegt gemeinsame Entscheidung auch über wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
@@ -64,7 +64,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 
 ## Mustertext / Template
 
-Pruefvermerk-Vorlage zur Rollenzuordnung:
+Prüfvermerk-Vorlage zur Rollenzuordnung:
 
 ```
 Pruefvermerk Rollenzuordnung DSGVO

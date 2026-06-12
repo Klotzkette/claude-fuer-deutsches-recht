@@ -57,7 +57,7 @@ ALR II 5 — Gesinderecht. Regelt die Dienstverhaeltnisse zwischen Herrschaft (B
 - §§ 622-624 BGB Kuendigungsfristen.
 - Arbeitsrecht: Mindestlohn AVG TzBfG.
 
-## Pruefraster
+## Prüfraster
 
 1. ALR-Gesindeverhaeltnis oder modernes Arbeitsverhaeltnis?
 2. Historische Vorperiode bewerten?

@@ -47,14 +47,14 @@ Skill für Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 30 bis 47 BeamtVG; landesrechtliche Aequivalente.
+- Normen: §§ 30 bis 47 BeamtVG; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zum Dienstunfallbegriff und zur Kausalitaet — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
 - Schriftliche Dienstunfallmeldung.
-- Pruefraster für Spaetfolgenmeldungen.
+- Prüfraster für Spaetfolgenmeldungen.
 
 ## 6. Verifizierte Quellenanker
 

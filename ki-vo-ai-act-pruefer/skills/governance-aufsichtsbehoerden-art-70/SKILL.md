@@ -84,14 +84,14 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Governance und Aufsichtsbehoerden-Anforderungen Art. 70 KI-VO prüfen | Pruefergebnis nach Schema; Template unten |
-| Variante A — Behörde hat bereits Anfrage gestellt | Antwort-Vorlage statt Pruefprotokoll; Fristen beachten |
+| Standard — Governance und Aufsichtsbehoerden-Anforderungen Art. 70 KI-VO prüfen | Prüfergebnis nach Schema; Template unten |
+| Variante A — Behörde hat bereits Anfrage gestellt | Antwort-Vorlage statt Prüfprotokoll; Fristen beachten |
 | Variante B — System kein Hochrisiko keine Art. 70 Pflicht | Kurzdokumentation der Nicht-Anwendbarkeit |
 | Variante C — Mehrere Jurisdiktionen EU und national | Separate Prüfung pro Mitgliedstaat; Koordination erforderlich |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Output-Template — Pruefergebnis
+## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — GOVERNANCE AUFSICHTSBEHOERDEN ART 70
@@ -117,7 +117,7 @@ Geprueft: [NAME], [DATUM]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

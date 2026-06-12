@@ -13,7 +13,7 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 
 ## Triage zu Beginn
 1. Welcher Absender-Typ: Rechtsanwalt, Steuerberater, Unternehmen oder Privatperson?
-2. Welcher Adressat: Mandant, Geschaeftspartner, Mitarbeiter, Dienstleister oder Gericht?
+2. Welcher Adressat: Mandant, Geschäftspartner, Mitarbeiter, Dienstleister oder Gericht?
 3. Welcher Anlass: Anfrage, Mahnung, Rueckmeldung, Beschwerde, allgemeine Information?
 4. Welcher Stil ist gewuenscht: sehr foermlich, foermlich, sachlich-freundlich oder kollegial?
 
@@ -21,10 +21,10 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 242 BGB — Treu und Glauben als Massstab für sachliche Korrespondenz
+- § 242 BGB — Treu und Glauben als Maßstab für sachliche Korrespondenz
 - §§ 823, 824 BGB — Deliktsrecht: persoenlichkeitsrechtsverletzende oder rufschaedigende Aeusserungen
 - § 241 Abs. 2 BGB — Rücksichtnahmepflichten im Schuldverhaeltnis (auch bei Kommunikation)
-- § 5 UWG — Irrefuehrung durch unwahre Angaben in geschaeftlicher Kommunikation
+- § 5 UWG — Irrefuehrung durch unwahre Angaben in geschäftlicher Kommunikation
 
 ## Output-Template: Ueberarbeitete Korrespondenz
 

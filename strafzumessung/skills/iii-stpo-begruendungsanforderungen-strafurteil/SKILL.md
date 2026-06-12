@@ -86,7 +86,7 @@ III. Strafzumessung
  Inhalt der Verstaendigung: [...].
 ```
 
-## Typische revisionsrechtliche Pruefpunkte
+## Typische revisionsrechtliche Prüfpunkte
 
 ### Pauschalbegruendung
 

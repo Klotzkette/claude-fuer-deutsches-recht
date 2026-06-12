@@ -19,7 +19,7 @@ Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus
 
 ## Worum geht es?
 
-Vor der konkreten Strafzumessung muss der **gesetzliche Strafrahmen** bestimmt werden. Erst danach wird innerhalb dieses Rahmens nach § 46 StGB die konkrete Strafe gebildet. Der Skill erlaeutert die Stufen: abstrakter Strafrahmen, Modifikationen, konkreter Strafrahmen, konkrete Strafe.
+Vor der konkreten Strafzumessung muss der **gesetzliche Strafrahmen** bestimmt werden. Erst danach wird innerhalb dieses Rahmens nach § 46 StGB die konkrete Strafe gebildet. Der Skill erläutert die Stufen: abstrakter Strafrahmen, Modifikationen, konkreter Strafrahmen, konkrete Strafe.
 
 ## Wann brauchen Sie diese Skill?
 

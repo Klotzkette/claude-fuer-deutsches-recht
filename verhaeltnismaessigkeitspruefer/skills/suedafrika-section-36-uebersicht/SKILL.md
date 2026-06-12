@@ -1,6 +1,6 @@
 ---
 name: suedafrika-section-36-uebersicht
-description: Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhaeltnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Methodik und Constitutional Court Praxis.
+description: Section 36 der Verfassung Suedafrikas 1996 als Limitation Clause mit fuenf Kriterien Bedeutung der Rechte Bedeutung des Zwecks Eingriffsintensitaet Verhältnis Mittel-Zweck und mildere Mittel. Mit Hinweisen zur Rezeption deutscher Methodik und Constitutional Court Praxis.
 ---
 
 # Suedafrika Section 36 Übersicht
@@ -30,7 +30,7 @@ Grundrechte der Bill of Rights. Sie kombiniert:
   Bestimmtheit, Allgemeinheit).
 - materielle Anforderungen: **reasonable and justifiable in an open and
   democratic society**.
-- fuenf konkrete Pruefkriterien.
+- fuenf konkrete Prüfkriterien.
 
 ## Die fuenf Faktoren
 

@@ -107,7 +107,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -128,7 +128,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstgespraech... |
 | `erwerbsminderungsrente` | Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch: §§ 43 240 SGB VI. Prüfraster: volle... |
 | `erwerbsminderungsrente-paragraf-43-sgb-vi-bsg-b-13-r-25-19-r` | Erwerbsminderungsrente Paragraf 43 SGB Vi Bsg B 13 R 25 19 R: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
-| `eu-rente-antrag` | Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden: VO (EG) 883... |
+| `eu-rente-antrag` | Versicherter mit Beschäftigungszeiten im EU-Ausland fragt nach Rente und wie die ausländischen Zeiten angerechnet werden: VO (EG) 883... |
 | `fristenbuch-sozialrecht` | Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen: Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG K... |
 | `gdb-schwerbehinderung` | Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten: § 152 SGB I... |
 | `hilfsmittelantrag-pruefen` | Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen: Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflege... |
@@ -178,7 +178,7 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `laienhilfe-schwerbehinderung-gdb` | Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch... |
 | `laienhilfe-sgb-xii-grundsicherung` | Laienverstaendlicher Sozialrechts-Skill zu Sgb Xii Grundsicherung: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspru... |
 | `laienhilfe-telefonat-behoerde` | Laienverstaendlicher Sozialrechts-Skill zu Telefonat Behörde: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage... |
-| `laienhilfe-ueberpruefungsantrag-44-sgbx` | Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd... |
+| `laienhilfe-ueberpruefungsantrag-44-sgbx` | Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd... |
 | `laienhilfe-unfallversicherung-bg` | Laienverstaendlicher Sozialrechts-Skill zu Unfallversicherung Bg: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch... |
 | `laienhilfe-unterlagen-sortieren` | Laienverstaendlicher Sozialrechts-Skill zu Unterlagen Sortieren. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-vergleich-sozialgericht` | Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widersp... |

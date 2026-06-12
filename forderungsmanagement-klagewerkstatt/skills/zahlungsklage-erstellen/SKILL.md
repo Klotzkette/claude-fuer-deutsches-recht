@@ -11,7 +11,7 @@ Konstruktion einer Klageschrift für reine Geldforderungen nach §§ 253 ff. ZPO
 
 | Bestandteil | Norm | Inhalt |
 |---|---|---|
-| Bezeichnung der Parteien | § 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschaeftsfuehrer mit HRB-Auszug |
+| Bezeichnung der Parteien | § 253 Abs. 2 Nr. 1 ZPO | Voller Name, ladungsfaehige Anschrift, gesetzlicher Vertreter (bei juristischen Personen); bei GmbH Geschäftsführer mit HRB-Auszug |
 | Bezeichnung des Gerichts | § 253 Abs. 2 Nr. 1 ZPO | Sachlich + oertlich zuständiges Gericht (AG/LG) |
 | Bestimmter Antrag | § 253 Abs. 2 Nr. 2 ZPO | Zahlung in EUR, Zinsen genau (Höhe, Zeitraum, Bezugsforderung), Kosten |
 | Bestimmter Gegenstand und Grund | § 253 Abs. 2 Nr. 2 ZPO | Tatbestand mit Lebenssachverhalt |
@@ -53,7 +53,7 @@ Bei Verbraucher als Beklagtem: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BG
 
 1. **Parteien und Vertragsverhaeltnis:** Wer hat mit wem worueber kontrahiert, Vertragsdatum, Vertragstyp.
 2. **Hauptleistungspflichten:** Was war geschuldet (Lieferung, Werk, Dienstleistung).
-3. **Erfuellung durch Klaegerin:** Wann geliefert, Abnahme (§ 640 BGB), Rechnungsstellung (§ 14 UStG bei Unternehmer).
+3. **Erfuellung durch Klägerin:** Wann geliefert, Abnahme (§ 640 BGB), Rechnungsstellung (§ 14 UStG bei Unternehmer).
 4. **Faelligkeit:** Vertragliche Faelligkeitsregel ODER § 271 BGB (sofort) ODER § 641 BGB (Werklohn nach Abnahme) ODER § 271a BGB (Hoechstfristen B2B 30/60 Tage).
 5. **Verzugseintritt:** Mahnung (§ 286 Abs. 1 BGB) ODER kalendermäßige Bestimmung (§ 286 Abs. 2 Nr. 1 BGB) ODER 30-Tage-Regel B2B nach Rechnungszugang (§ 286 Abs. 3 BGB).
 6. **Stand der Forderung:** Hauptforderung, Teilzahlungen, Restforderung, Verzugszinsen, Mahnkosten.

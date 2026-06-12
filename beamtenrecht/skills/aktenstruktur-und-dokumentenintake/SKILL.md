@@ -61,5 +61,5 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

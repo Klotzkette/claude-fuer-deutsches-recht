@@ -1,6 +1,6 @@
 ---
 name: diskurstheorie-habermas-alexy
-description: "Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Ausleg..."
+description: "Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhältnis allgemein-praktischer und juristischer Diskurs. Konsequenzen für Ausleg..."
 ---
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)
@@ -50,7 +50,7 @@ Für die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 1. **Anspruch auf Richtigkeit.** Jeder juristische Akt erhebt den Anspruch, richtig zu sein — sonst waere er kein Recht, sondern blosse Befehlsausuebung.
 2. **Juristischer Diskurs als Sonderfall des allgemein-praktischen Diskurses.** Der juristische Diskurs unterliegt den allgemeinen Diskursregeln, ergaenzt um Gesetzesbindung, Praezedenz-Beruecksichtigung und Dogmatik.
 3. **Argumentationsstufen:** interne Rechtfertigung (logische Subsumtion) und externe Rechtfertigung (Begruendung der Praemissen — durch empirische Argumente, dogmatische Argumente, praezedenzielle Argumente, rationale Wertungen, Argumente der allgemeinen praktischen Vernunft).
-4. **Gewichtungsformel** (in "Theorie der Grundrechte"): Bei Grundrechtskonflikten ist abzuwaegen — Eingriffsintensitaet gegen Schutzbeduerftigkeit, gewichtet nach abstrakter Bedeutung. Das Modell beeinflusst die deutsche Verhaeltnismaessigkeitsdogmatik stark.
+4. **Gewichtungsformel** (in "Theorie der Grundrechte"): Bei Grundrechtskonflikten ist abzuwaegen — Eingriffsintensitaet gegen Schutzbeduerftigkeit, gewichtet nach abstrakter Bedeutung. Das Modell beeinflusst die deutsche Verhältnismäßigkeitsdogmatik stark.
 
 ## Anwendung im deutschen Zivilrecht
 
@@ -60,7 +60,7 @@ Für die anwaltliche Praxis hat Alexy mit seiner "Theorie der juristischen Argum
 
 **Beispiel Vertragsauslegung (§§ 133, 157 BGB):** Empfaengerhorizont-Auslegung kann diskurstheoretisch begruendet werden: Welche Bedeutung wuerde ein rationaler Empfaenger der Erklaerung beimessen, der die relevanten Umstaende kennt?
 
-**Beispiel Grundrechtsabwaegung:** Im Verhaeltnis Pressefreiheit (Art. 5 Abs. 1 GG) zu allgemeinem Persoenlichkeitsrecht (Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG) — Alexys Gewichtungsformel hilft bei der Strukturierung. BGH stuetzt sich in der Sache vielfach auf vergleichbare Abwaegungsmuster.
+**Beispiel Grundrechtsabwaegung:** Im Verhältnis Pressefreiheit (Art. 5 Abs. 1 GG) zu allgemeinem Persoenlichkeitsrecht (Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG) — Alexys Gewichtungsformel hilft bei der Strukturierung. BGH stuetzt sich in der Sache vielfach auf vergleichbare Abwaegungsmuster.
 
 **Beispiel Schiedsverfahren und Schiedsspruch:** Diskurstheoretisch betrachtet ist das Schiedsverfahren eine besondere Form des juristischen Diskurses: konsensuale Verfahrenswahl, Anspruch auf rationale Begruendung. Aufhebungsverfahren (§§ 1059 ZPO) kontrolliert die Diskursregeln, nicht den Inhalt.
 

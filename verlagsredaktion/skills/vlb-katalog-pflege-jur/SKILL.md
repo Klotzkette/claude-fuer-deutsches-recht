@@ -43,7 +43,7 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
  - Untertitel, Reihentitel, Bandzaehlung.
  - Erscheinungstermin (Tag, Monat, Jahr).
  - Verlag, Verlagsanschrift, Imprint.
- - Sprache, Originalsprache, Uebersetzer.
+ - Sprache, Originalsprache, Übersetzer.
  - Format (Hardcover, Paperback, EPUB, PDF), Seitenzahl.
  - Preis brutto, Waehrung.
  - Warengruppe (juristische Werke: 750-789 nach VLB-Schlüssel).
@@ -51,7 +51,7 @@ Das VLB ist die zentrale Datenbank des Buchhandels in Deutschland. Wer dort nich
 3. **Klappentext pflegen.** Max. 2500 Zeichen; SEO-optimiert; mit den ersten 160 Zeichen den Kern fassen (Google-Snippet).
 4. **Cover hochladen.** RGB, 300 dpi, mindestens 1500 px hohe Kante; ohne Anschnitt.
 5. **Inhaltsverzeichnis und Leseprobe.** Als PDF, freigegeben durch Autor und Hersteller.
-6. **Preisbindung.** Endkundenpreis für Print und E-Book in EUR, MwSt. eingeschlossen; bei Aenderung Boersenverein melden (BuchPrG § 5).
+6. **Preisbindung.** Endkundenpreis für Print und E-Book in EUR, MwSt. eingeschlossen; bei Änderung Boersenverein melden (BuchPrG § 5).
 7. **Erscheinungstermin.** Bei Verschiebung VLB unverzueglich aktualisieren - sonst Vorbestellprobleme.
 8. **Abkuendigung.** Bei Auslaufen "ng" (= nicht mehr lieferbar) oder "vg" (vergriffen) setzen; bei Neuauflage "ohne Nachfolger" oder Verweis auf Nachfolgeauflage.
 9. **Konsistenz prüfen** mit Webshop, beck-online, Amazon, Thalia, Hugendubel, Buchhandelsdienst-Anbietern.

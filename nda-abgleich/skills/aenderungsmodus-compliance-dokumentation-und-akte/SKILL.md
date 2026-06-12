@@ -1,9 +1,9 @@
 ---
 name: aenderungsmodus-compliance-dokumentation-und-akte
-description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk."
+description: "Änderungsmodus: Compliance-Dokumentation und Aktenvermerk."
 ---
 
-# Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk
+# Änderungsmodus: Compliance-Dokumentation und Aktenvermerk
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk."
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geheimnisinhaber, Empfänger, M&A-Berater, Investmentbanker, externer Dienstleister, Datenschutzbeauftragter, Compliance.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Unilateral NDA, Mutual NDA, Cleanroom-Agreement, Joinder-Erklärung, Term Sheet, AVV nach Art. 28 DSGVO, Verschwiegenheitsanlage — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Aenderungsmodus: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Änderungsmodus: Compliance-Dokumentation und Aktenvermerk
 - **Normen-/Quellenanker:** NDA, ROT, GELB, GRUEN.
 
 ## Fallweichen
@@ -27,7 +27,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aenderungsmodus** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Änderungsmodus** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

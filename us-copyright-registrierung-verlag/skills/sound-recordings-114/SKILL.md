@@ -1,6 +1,6 @@
 ---
 name: sound-recordings-114
-description: "Prueft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses im Us Copyright Registrierung Verlag."
+description: "Prüft Rechte an Sound Recordings, digital audio transmissions, SoundExchange, noninteractive services und direct licenses im Us Copyright Registrierung Verlag."
 ---
 
 # Sound Recordings § 114

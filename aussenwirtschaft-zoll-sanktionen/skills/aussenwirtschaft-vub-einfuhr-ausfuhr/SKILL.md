@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-vub-einfuhr-ausfuhr
-description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzuständigen Behörden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotoko..."
+description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzuständigen Behörden (BZSt BAFA BLE BfR). Output: VuB-Prüfprotoko..."
 ---
 
 # Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behördenkoordination
@@ -26,7 +26,7 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 3. Genehmigung/Lizenz bei zuständiger Behörde vor Zollanmeldung beantragen.
 4. ATLAS-Zollanmeldung: VuB-Code eintragen und Dokument-Referenz hinterlegen.
 5. Begleitdokumentation (CITES-Zertifikat BLE-Genehmigung etc.) bei Abfertigung vorlegen.
-6. Abfertigungszeitraum kalkulieren: VuB-Pruefungen verlaengern Zollabfertigung.
+6. Abfertigungszeitraum kalkulieren: VuB-Prüfungen verlaengern Zollabfertigung.
 
 ## Rechtsrahmen
 
@@ -36,7 +36,7 @@ description: "Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberw
 - **§§ 1-5 KultSchG**: Kulturgutschutz bei Ausfuhr.
 - **BtMG §§ 3 ff.**: Betaeubungsmittelrecht bei Im- und Export.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] TARIC auf VuB-Eintraege für HS-Code geprueft?
 - [ ] Zustaendige Behörde korrekt identifiziert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

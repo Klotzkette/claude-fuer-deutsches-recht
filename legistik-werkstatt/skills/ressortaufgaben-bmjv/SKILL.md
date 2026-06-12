@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmjv
-description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Justiz und für Verbraucherschutz. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-B..."
+description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium der Justiz und für Verbraucherschutz. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-B..."
 ---
 
 # Ressortaufgaben BMJV
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMJV: typische Legistik-Aufgaben im Geschaeftsbere
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMJV
 - Ressort-Kompass aus `legw-ressort-bmjv`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

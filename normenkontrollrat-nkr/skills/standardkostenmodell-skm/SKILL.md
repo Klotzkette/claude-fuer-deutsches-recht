@@ -35,14 +35,14 @@ Aufwand pro Fall
  = Zeitaufwand × Lohnsatz + Sachkosten + externe Dienstleistungskosten
 ```
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Pflicht-Inhalt zerlegen** in Einzeltaetigkeiten ("Activity Mapping")
-2. **Standardtaetigkeit** zuordnen (Lese-, Schreib-, Pruef-, Antwort-, Berechnungstaetigkeit)
+2. **Standardtaetigkeit** zuordnen (Lese-, Schreib-, Prüf-, Antwort-, Berechnungstaetigkeit)
 3. **Zeitwert pro Taetigkeit** ansetzen (Leitfaden-Tabelle, ggf. mit Komplexitaetsfaktor)
 4. **Lohnsatz** zuordnen nach Qualifikationsniveau
 5. **Sachkosten** ergaenzen (Material, Geraete, IT-Lizenz)
-6. **Externe Kosten** ergaenzen (Beraterhonorare, Pruefkosten)
+6. **Externe Kosten** ergaenzen (Beraterhonorare, Prüfkosten)
 7. **Fallzahl** ermitteln (Statistik, ggf. Schaetzung mit Bandbreite)
 8. **Multiplikation** und Aggregation
 9. **Plausibilisierung** durch Vergleich mit Referenzfaellen

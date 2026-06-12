@@ -27,7 +27,7 @@ description: "Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nac
 
 - Grenzstreitigkeiten.
 - Aequitas-Recht: 2,5 Fuss Grenzbahn.
-- Ueberhang regelung.
+- Überhang regelung.
 
 ## Subsumtionsbeispiel: Testament 450 v. Chr.
 
@@ -40,7 +40,7 @@ A will Vermögen zu Lebzeiten über Tod hinaus verfuegen.
 - Testierfreiheit als Grundprinzip (§ 1937 BGB).
 - Pflichtteil als später Schutz (§ 2303 BGB).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Tafel?
 2. Familienrecht / Erbrecht / Nachbarrecht?

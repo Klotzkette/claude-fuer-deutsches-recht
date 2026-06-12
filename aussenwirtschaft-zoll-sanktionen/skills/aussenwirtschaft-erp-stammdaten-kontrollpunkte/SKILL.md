@@ -36,14 +36,14 @@ description: "Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM
 - **§ 14 AWG**: Auskunftspflichten gegenueber Behörden (BAFA-Audit).
 - **GoBD**: Anforderungen an digitale Buchfuehrungs- und Archivsysteme.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle Dual-Use-Codes und ECCNs aktuell und korrekt eingetragen?
 - [ ] Embargo-Länder-Tabelle tagesaktuel?
 - [ ] Sanktionslisten-Update-Frequenz ausreichend (taglich/wochentlich)?
 - [ ] Test-Szenarios für Sperr-Faelle bestanden?
 - [ ] Dokumentenablage für EUC und Genehmigungen konfiguriert?
-- [ ] Audit-Log für alle exportkontrollrelevanten ERP-Aenderungen vorhanden?
+- [ ] Audit-Log für alle exportkontrollrelevanten ERP-Änderungen vorhanden?
 
 ## Typische Fallstricke
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

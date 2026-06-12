@@ -29,7 +29,7 @@ Den Widerspruch können Sie auf mehrere Arten abschicken. Wichtig ist: Sie brauc
 
 - **Zugangsnachweis**: Beweis, dass die Behörde Ihren Brief bekommen hat.
 - **Einschreiben mit Rueckschein**: Brief, bei dem der Empfaenger unterschreibt; Sie bekommen den Rueckschein zurueck.
-- **Zur Niederschrift**: Sie diktieren auf der Geschaeftsstelle, der Mitarbeiter schreibt es auf.
+- **Zur Niederschrift**: Sie diktieren auf der Geschäftsstelle, der Mitarbeiter schreibt es auf.
 - **Mein Justizpostfach (MJP)**: Sicheres elektronisches Postfach für Buerger (seit 2024).
 
 ## Rechtsgrundlagen

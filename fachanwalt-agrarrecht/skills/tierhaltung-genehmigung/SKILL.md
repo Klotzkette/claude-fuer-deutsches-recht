@@ -163,7 +163,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Neuantrag Tierhaltungsgenehmigung BImSchG | Genehmigungsverfahren-Schema unten |
 | Variante A — Erweiterung unter BImSchG-Schwellenwert | Nur Baugenehmigungsverfahren; BImSchV nicht noetig |
 | Variante B — Nachbarn klagen wegen Immissionen | Verwaltungsrechtlichen Schutz und ggf. Anpassungsauflage prüfen |
-| Variante C — Bestandsanlage soll veraendert werden | Aenderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle prüfen |
+| Variante C — Bestandsanlage soll veraendert werden | Änderungsgenehmigung § 15 BImSchG; Wesentlichkeitsschwelle prüfen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

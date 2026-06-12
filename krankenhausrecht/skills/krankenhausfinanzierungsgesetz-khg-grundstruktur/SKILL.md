@@ -1,6 +1,6 @@
 ---
 name: krankenhausfinanzierungsgesetz-khg-grundstruktur
-description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Ueberblick im Krankenhausrecht."
+description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Länder-Aufgabenteilung im Überblick im Krankenhausrecht."
 ---
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
@@ -42,7 +42,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 1. **Status klären:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
 2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Förderung/§ 9, Vergütung/§ 17 ff.
 3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
-4. **KHVVG-Auswirkung prüfen:** Welche Aenderung greift bereits, was ist Konvergenz?
+4. **KHVVG-Auswirkung prüfen:** Welche Änderung greift bereits, was ist Konvergenz?
 5. **Output formen:** Memo, Stellungnahme, Antrag, Klagebegruendung.
 
 ## Trade-off-Matrix
@@ -67,7 +67,7 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 ## Typische Fehler
 - KHG ohne Bezug zu Landeskrankenhausgesetz prüfen — Foerderdetails dort.
 - Plankrankenhausstatus mit GKV-Versorgungsvertrag verwechseln (§ 108 SGB V).
-- KHVVG-Aenderungen nicht in laufende Foerderbescheide einarbeiten.
+- KHVVG-Änderungen nicht in laufende Foerderbescheide einarbeiten.
 
 ## Quellen Stand 06/2026
 - KHG i. d. F. KHVVG 12/2024.

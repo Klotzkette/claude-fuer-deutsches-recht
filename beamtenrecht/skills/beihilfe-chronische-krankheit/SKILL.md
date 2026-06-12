@@ -1,6 +1,6 @@
 ---
 name: beihilfe-chronische-krankheit
-description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt..."
+description: "Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Länder. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhältnis zur privaten Krankenversicherung. Behandelt..."
 ---
 
 # Beihilfe bei chronischer Krankheit
@@ -39,7 +39,7 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ### d) Pflegegrad
 - Bei Eintritt von Pflegebeduerftigkeit Antrag auf Beihilfe zu Pflege nach den Beihilfeverordnungen i.V.m. SGB XI.
 
-### e) Verhaeltnis zur PKV
+### e) Verhältnis zur PKV
 - PKV und Beihilfe sind aufeinander abzustimmen; Versicherungsbedingungen der PKV prüfen.
 
 ## 4. Quellenpflicht
@@ -51,7 +51,7 @@ Skill für Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 ## 5. Ausgabeformat
 
 - Antrag auf Reduzierung der Belastungsgrenze.
-- Pruefraster Behandlung — Beihilfefaehigkeit — Eigenbehalt.
+- Prüfraster Behandlung — Beihilfefaehigkeit — Eigenbehalt.
 
 ## 6. Verifizierte Quellenanker
 

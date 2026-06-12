@@ -38,7 +38,7 @@ Sie brauchen ihn, wenn keine zentrale Themenverwaltung existiert oder die besteh
 1. **Backlog-Format festlegen.** Eine Quelle der Wahrheit (Excel-Tabelle reicht). Felder: ID, Titel, Beschreibung in 2 Saetzen, Status, Prioritaet, Owner, Notizen.
 2. **Status-Lebenszyklus.** Roh -> Geprueft -> Entscheidungsreif -> Beauftragt -> In Produktion -> Erschienen -> Abgelehnt.
 3. **Priorisierungsmatrix.** Zwei Achsen: Lesernutzen (1-5) und Verlagsaufwand (1-5). Top-Quadrant: hoher Nutzen, geringer Aufwand - macht zuerst.
-4. **Pruefkriterien.** Aktualitaet, Originalitaet, Autorenverfuegbarkeit, Konkurrenzlage.
+4. **Prüfkriterien.** Aktualitaet, Originalitaet, Autorenverfuegbarkeit, Konkurrenzlage.
 5. **Periodische Priorisierung.** Monatlicher Termin, an dem das Backlog gemeinsam durchgegangen wird (max. 45 Min).
 6. **Eskalationsregel.** Idee, die 6 Monate "Roh" bleibt, wird automatisch dekategorisiert.
 7. **Backlog-Hygiene.** Mindestens quartalsweise Aufraeumen: Dubletten, ueberholte, irrelevante.
@@ -69,7 +69,7 @@ ID | Titel | Beschreibung | Rechtsgebiet | Quelle | Status | Prioritaet (1-5) | 
 
 **Priorisierungs-Mail-Vorlage:**
 
-> Liebes Redaktionsteam, anbei das aktualisierte Backlog (Stand 02.06.2026, 47 Eintraege). Vorschlag für den naechsten Monat: Top 10 Themen sind im Anhang grun markiert (entscheidungsreif), 5 weitere gelb (Pruefauftrag noetig). Bitte bis zur Sitzung am 12.06.2026 Stellungnahme. Backlog-Hygiene-Termin: 30.06.2026.
+> Liebes Redaktionsteam, anbei das aktualisierte Backlog (Stand 02.06.2026, 47 Eintraege). Vorschlag für den naechsten Monat: Top 10 Themen sind im Anhang grun markiert (entscheidungsreif), 5 weitere gelb (Prüfauftrag noetig). Bitte bis zur Sitzung am 12.06.2026 Stellungnahme. Backlog-Hygiene-Termin: 30.06.2026.
 
 **Status-Definition (intern):**
 

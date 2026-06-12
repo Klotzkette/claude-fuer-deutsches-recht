@@ -36,7 +36,7 @@ description: "Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuh
 - **§ 26 AWV**: Berichtspflichten bei Nutzung von Genehmigungen.
 - **BAFA-Merkblatt Genehmigungsverfahren**: Verfahrensanforderungen für ELAN-K2.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] AGG EU001-EU008 auf Gueter und Bestimmungslaender geprueft?
 - [ ] Ausschlusslisten der AGGs vollstaendig durchsucht?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

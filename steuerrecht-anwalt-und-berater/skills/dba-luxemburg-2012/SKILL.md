@@ -1,6 +1,6 @@
 ---
 name: dba-luxemburg-2012
-description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-..."
+description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Änderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-..."
 ---
 
 # DBA Deutschland-Luxemburg (2012)
@@ -20,7 +20,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ## Kaltstart-Rueckfragen
 
 1. Welche Konstellation: Holding, Fonds, operative Gesellschaft, Arbeitnehmer?
-2. Bei Holding: Substanz, Personal, Geschaeftsraeume?
+2. Bei Holding: Substanz, Personal, Geschäftsraeume?
 3. Bei Arbeitnehmer: tageweise Praesenz in Luxemburg? Konsultationsvereinbarung Home-Office?
 4. Bei Beteiligung: Schachtelhoehe, Behandlung in Luxemburg (transparente vs. intransparente Einordnung)?
 5. Bei Fonds: SICAV, SICAR, RAIF, FCP — DBA-Berechtigung Fond?
@@ -33,7 +33,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Primaernormen
 
 - **DBA Deutschland-Luxemburg vom 23.04.2012** (BGBl. 2012 II S. 1402/1403), in Kraft 30.09.2013 (BGBl. 2014 II S. 728), anwendbar ab 01.01.2014.
-- Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), anwendbar ab 01.01.2024.
+- Änderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334), in Kraft 29.12.2023 (BGBl. 2024 II Nr. 147), anwendbar ab 01.01.2024.
 - **OECD-MA 2010/2017**.
 - **MLI**: Deutschland und Luxemburg sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
 - **§§ 50d Abs. 3, 34c, 32b EStG**, § 8 ff. AStG (Hinzurechnung).
@@ -57,7 +57,7 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 ### Betriebsstaette (Art. 5)
 
 - Bauausfuehrung **12 Monate**.
-- Holdings ohne Geschaeftsbetrieb: keine Betriebsstaette, aber Substanz für Treaty-Schutz erforderlich.
+- Holdings ohne Geschäftsbetrieb: keine Betriebsstaette, aber Substanz für Treaty-Schutz erforderlich.
 
 ### Aktive Einkuenfte
 
@@ -149,9 +149,9 @@ Das DBA-Luxemburg wurde 2012 neu gefasst und ersetzte das DBA von 1958. Luxembur
 
 ## Edge Cases — was Prüfer triggert
 
-- **Briefkasten-SOPARFI nach AbzStEntModG 2021**: § 50d Abs. 3 EStG strenger formuliert — selbst luxemburgische Beratungsfirma "kann" nicht mehr als Substanz gelten. Indizientabelle: eigenes Personal, eigene Geschaeftsraeume, eigene Entscheidungstraeger.
+- **Briefkasten-SOPARFI nach AbzStEntModG 2021**: § 50d Abs. 3 EStG strenger formuliert — selbst luxemburgische Beratungsfirma "kann" nicht mehr als Substanz gelten. Indizientabelle: eigenes Personal, eigene Geschäftsraeume, eigene Entscheidungstraeger.
 - **Hybrid-Mismatch nach § 4k EStG**: luxemburgisches Funding-Vehikel (SARL) mit Hybrid-Element — Doppelabzug verboten.
-- **PPT (Principal Purpose Test)** nach MLI: Hauptzweck der Struktur darf nicht steuerlich motiviert sein — Geschaeftszweck-Dokumentation in Holdingbuechern.
+- **PPT (Principal Purpose Test)** nach MLI: Hauptzweck der Struktur darf nicht steuerlich motiviert sein — Geschäftszweck-Dokumentation in Holdingbuechern.
 - **RAIF-Ausschuettung an deutschen Investor**: RAIF in der Regel nicht abkommensberechtigt — keine DBA-Reduktion der Quellensteuer.
 - **Bagatelle 19 vs. 34 Tage**: vor 01.01.2024 galt 19-Tage-Schwelle (alte Konsultationsvereinbarung); ab 2024 34 Tage. Veranlagungszeitraum-Wechsel beachten.
 

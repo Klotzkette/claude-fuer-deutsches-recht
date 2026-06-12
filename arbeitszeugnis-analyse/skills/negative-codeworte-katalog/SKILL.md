@@ -102,7 +102,7 @@ description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeut
 
 **Beispiel 3 – Konflikt-Code:** "Herr Klein pflegte einen direkten und offenen Kommunikationsstil und brachte sich engagiert in Diskussionen ein." → Doppelcode, signalisiert schwieriges Sozialverhalten. Rot, berichtigungsfaehig.
 
-**Beispiel 4 – Loyalitaets-Auslassung:** Zeugnis einer Geschaeftsfuehrerin enthaelt zu allen anderen Sozialaspekten Aussagen, aber kein Wort zur Loyalitaet gegenueber dem Unternehmen. → Auslassungs-Code, signalisiert Loyalitaetsproblem. Rot, berichtigungsfaehig.
+**Beispiel 4 – Loyalitaets-Auslassung:** Zeugnis einer Geschäftsführerin enthaelt zu allen anderen Sozialaspekten Aussagen, aber kein Wort zur Loyalitaet gegenueber dem Unternehmen. → Auslassungs-Code, signalisiert Loyalitaetsproblem. Rot, berichtigungsfaehig.
 
 **Beispiel 5 – Mitlaeufer-Code:** "Frau Bauer fuegte sich gut in die Hierarchie ein und akzeptierte Entscheidungen ihrer Vorgesetzten." → Doppelcode für Passivitaet ohne Eigeninitiative. Orange.
 

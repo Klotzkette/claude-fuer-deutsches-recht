@@ -1,6 +1,6 @@
 ---
 name: gleichheit-und-praejudizien
-description: "Prueft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität."
+description: "Prüft Gleichbehandlung durch Praejudizien: ratio, Vergleichbarkeit, Abweichungslast, Fortentwicklung und institutionelle Kontinuität."
 ---
 
 # Gleichheit und Präjudizien

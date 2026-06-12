@@ -1,6 +1,6 @@
 ---
 name: term-sheet-vertragsstrafe-bgb
-description: "Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jede..."
+description: "Übersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jede..."
 ---
 
 # Term Sheet zu Vertrag
@@ -46,7 +46,7 @@ description: "Uebersetzung eines Term Sheets oder Letter of Intent in einen ausg
 | Recht/Gericht | § Schlussbestimmungen | `boilerplate-klauseln-katalog` |
 | Force Majeure (fehlt oft) | § Hoehere Gewalt | `force-majeure-und-erschwerung-313-bgb` |
 | Vertragsstrafe (fehlt oft) | § Vertragsstrafe | `vertragsstrafe-339-bgb` |
-| Aenderungen | § Aenderungen, Schriftform | `boilerplate-klauseln-katalog` |
+| Änderungen | § Änderungen, Schriftform | `boilerplate-klauseln-katalog` |
 | Salvatorische Klausel | § Schlussbestimmungen | `boilerplate-klauseln-katalog` |
 | IP-Rechte (oft fehlend) | § Schutzrechte | `ip-rechteuebertragung-und-lizenzen` |
 | Datenschutz (immer noetig) | § Datenschutz, AVV | externes Plugin datenschutzrecht |
@@ -61,7 +61,7 @@ Diese Punkte fehlen in fast jedem Term Sheet und müssen aktiv ergaenzt werden:
 3. **Maengelanzeige und Untersuchungsobliegenheit** — § 377 HGB im B2B-Kaufvertrag.
 4. **Force Majeure** — Naturkatastrophen, Pandemie, Krieg, Cyber-Angriff.
 5. **Datenschutz und AVV** — Sobald personenbezogene Daten verarbeitet werden, ist Art. 28 DSGVO Pflicht.
-6. **Aenderungen des Vertrags** — Schriftformklausel mit Ausnahme der Schriftformklausel selbst.
+6. **Änderungen des Vertrags** — Schriftformklausel mit Ausnahme der Schriftformklausel selbst.
 7. **Salvatorische Klausel** — Was passiert bei Teilnichtigkeit.
 8. **Abtretungsverbot oder Zustimmungsvorbehalt** — § 399 BGB.
 9. **Aufrechnungsverbot oder -beschraenkung** — Wirksamkeitsgrenzen § 309 Nr. 3 BGB.

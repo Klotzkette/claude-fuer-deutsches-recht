@@ -20,7 +20,7 @@ Verlagsleitung verlangt einen klaren, kurzen Bericht, der die Ampel zeigt: laeuf
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 1. Anlass: Routine-Reporting oder Eskalation?
-2. Adressat: Geschaeftsfuehrung, Programmleitung, Lektoratsleitung, Aufsichtsrat?
+2. Adressat: Geschäftsführung, Programmleitung, Lektoratsleitung, Aufsichtsrat?
 3. Zeitraum und Stichtag?
 4. Welche Projekte oder Produkte sind betroffen (Buchprojekt, Zeitschrift, Loseblatt, Onlinekommentar)?
 5. Welche Zahlen liegen vor (Umsatz, Auflage, Manuskriptstand, Honorarvolumen)?
@@ -123,4 +123,4 @@ Mit freundlichen Gruessen
 - Art. 17 MAR (Marktmissbrauchsverordnung) - Ad-hoc-Publizitaet.
 - §§ 87, 99 BetrVG - Mitbestimmung bei personellen Maßnahmen.
 - Art. 6 DSGVO - Rechtsgrundlage interner Datenverarbeitung.
-- Verlagsinterne Reportingrichtlinien (Berichtspflicht Programmleitung an Geschaeftsfuehrung) - Kanzlei- bzw. Verlagsspezifisch.
+- Verlagsinterne Reportingrichtlinien (Berichtspflicht Programmleitung an Geschäftsführung) - Kanzlei- bzw. Verlagsspezifisch.

@@ -41,14 +41,14 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 - DIN EN 12828:2014-03 Heizungsanlagen in Gebaeuden: Druckpruefung, Druck-Klassen, Befuellung, Entlueftung
 - DIN 1986-30:2012-02 Entwaesserungsanlagen: Dichtheitspruefung Abwasserleitungen, Grundleitungen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Druckpruefungsprotokoll Heizung: Manometer-Ablese-Protokoll Beginn und Ende, Datum, Druckklasse PN, Unterschrift Monteur und Bauleiter
 2. Schweissnahtprotokoll Stahl: WPS-Nr, Schweisser-Qualifikation EN 287-1, Prufergebnis VT und RT, Chargen-Nr Rohre
 3. Daemmdicke-Stichprobe: Schiebelehere je 10 Daemmabschnitt, Soll-Dicke nach VDI 2055 Tabelle, Protokoll Lage-Nr und Messwert
 4. AKS-Kennzeichnung: Flussmedium, Druck, Temperatur, Fliessrichtung auf Schild nach DIN 2403, vollstaendig je Rohrleitung
 5. Trinkwasser-Probenahme: Entnahme nach 3 h Stagnation, Labor-Parameter Legionellen, E.coli, Gesamtkeimzahl, Grenzwerte TrinkwV
-6. Druckluftpruefung Abwasser: Protokoll Ausgangsdruck, Pruefzeit, Druckverlust je Abschnitt, Leckstellen-Ortung Schaumspray
+6. Druckluftpruefung Abwasser: Protokoll Ausgangsdruck, Prüfzeit, Druckverlust je Abschnitt, Leckstellen-Ortung Schaumspray
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -68,7 +68,7 @@ Rohrleitungen der technischen Gebaeude-ausruestung sind nach dem Einbau in Waend
 
 ## Typische Fallstricke
 
-- Druckpruefung ohne AKS-Identifikation protokolliert: Spaetere Zuordnung des Pruefprotokolls zum Rohrsystem nicht möglich, keine verwertbare Dokumentation
+- Druckpruefung ohne AKS-Identifikation protokolliert: Spaetere Zuordnung des Prüfprotokolls zum Rohrsystem nicht möglich, keine verwertbare Dokumentation
 - Rohrdaemmung vor Druckpruefung aufgebracht: Undichtigkeiten unter Daemmung nicht lokalisierbar, Abwicklung im Schadensfall kompliziert
 - Trinkwasseranlage ohne DVGW W 551 Betriebstemperatur: Legionellenausbruch waehrend Hotel-Betrieb, schwerwiegende Haftungsfolgen nach § 823 BGB
 - Abwasserleitungen nicht einzeln geprueft: Gesamtabschnitt zu lang, Leckstelle nicht lokalisierbar

@@ -1,11 +1,11 @@
 ---
 name: bmg-arzneimittel-medizinprodukterecht
-description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Ko"
+description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschäftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Länder-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Prüfpunkte. Output Sachfeld-Ko"
 ---
 
 # Arzneimittel- und Medizinprodukterecht (BMG)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Arzneimittel- und Medizinprodukterecht im Geschäftsbereich BMG. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbe
 
 Kernbestand des Sachfelds: AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -34,7 +34,7 @@ Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Zulassungsverfahren; Pharmakovigilanz; klinische Pruefungen; Medizinprodukte-Konformitaet; Preisbildung (AMNOG).
+Zulassungsverfahren; Pharmakovigilanz; klinische Prüfungen; Medizinprodukte-Konformitaet; Preisbildung (AMNOG).
 
 Schrittfolge für den Normgeber:
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 EU-Konformitaet; Notified Bodies; Versorgungsengpaesse; Off-label-Use.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

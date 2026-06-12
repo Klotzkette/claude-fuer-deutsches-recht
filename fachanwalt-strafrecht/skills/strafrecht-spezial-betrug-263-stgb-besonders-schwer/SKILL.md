@@ -14,7 +14,7 @@ description: "Besonders schwerer Fall des Betruges § 263 Abs: 3 StGB Regelbeisp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen über Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust großer Ausmasses oder große Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen.
+**Fokus:** Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen über Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermögensverlust großer Ausmasses oder große Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Prüfraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen.
 
 ### Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB
 
@@ -34,7 +34,7 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 ### Regelbeispiele § 263 Abs. 3 StGB
 
 1. **Gewerbsmaessig (Nr. 1).** Wiederholte Begehung in Absicht, sich aus dem Begehen von Straftaten eine nicht nur voruebergehende Einnahmequelle von einigem Umfang zu verschaffen. Auch bei Erst-Tat möglich, wenn auf Wiederholung angelegt (BGH staendige Rspr.).
-2. **Vermoegensverlust großen Ausmasses oder große Zahl von Personen in wirtschaftliche Not gebracht (Nr. 2).** Großes Ausmass = ab 50.000 EUR pro Tat (BGH staendige Rspr. seit BGH 7.10.2003 — 1 StR 274/03, durchgehend bestaetigt; Wertgrenze inhaltlich seit langem unveraendert). Bei Verlust an Privatperson restriktive Auslegung.
+2. **Vermögensverlust großen Ausmasses oder große Zahl von Personen in wirtschaftliche Not gebracht (Nr. 2).** Großes Ausmass = ab 50.000 EUR pro Tat (BGH staendige Rspr. seit BGH 7.10.2003 — 1 StR 274/03, durchgehend bestaetigt; Wertgrenze inhaltlich seit langem unveraendert). Bei Verlust an Privatperson restriktive Auslegung.
 3. **Wirtschaftliche Not großer Zahl von Menschen (Nr. 3 Var. 2).** Schoenheitsfehler bei zahlreichen Klein-Geschaedigten.
 4. **Amtstraeger missbraucht seine Befugnisse (Nr. 4).** Amtsbezogene Straftat.
 5. **Versicherungsmissbrauch (Nr. 5).** Vorbereitung eines Versicherungsfalls oder gezielte Vortaeuschung.
@@ -42,7 +42,7 @@ Spezial-Mandat: Anklage oder Hauptverhandlung mit Vorwurf eines besonders schwer
 ### Indizwirkung und Widerlegung
 
 - **Indizwirkung** nicht zwingend. Auch ohne Regelbeispiel kann besonders schwerer Fall vorliegen (unbenannter besonders schwerer Fall).
-- Bei vorliegendem Regelbeispiel: Indizwirkung widerlegbar, wenn besondere Milderungsgruende ueberwiegen (Gestaendnis, Wiedergutmachung § 46a StGB, Krankheit, geringer Schaden im Verhaeltnis).
+- Bei vorliegendem Regelbeispiel: Indizwirkung widerlegbar, wenn besondere Milderungsgruende ueberwiegen (Gestaendnis, Wiedergutmachung § 46a StGB, Krankheit, geringer Schaden im Verhältnis).
 - Prüfung der Gesamtwuerdigung § 46 StGB zwingend.
 
 ## Praktikertipps Verteidigung

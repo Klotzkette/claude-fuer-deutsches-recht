@@ -1,6 +1,6 @@
 ---
 name: kindergeld-familienkasse-einspruch
-description: "Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster."
+description: "Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Prüfraster."
 ---
 
 # Kindergeld Familienkasse Einspruch
@@ -18,7 +18,7 @@ Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach de
 ## Anspruchsgrundlagen
 
 - Kindergeld nach EStG (§§ 62 ff.) — Steuerprivileg.
-- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung für Auslaender / EU-Buerger.
+- Kindergeld nach BKGG (Bundeskindergeldgesetz) — Sozialleistung für Ausländer / EU-Buerger.
 
 ## Familienkasse
 
@@ -42,7 +42,7 @@ Kindergeld nach EStG wird über die Familienkasse im Einspruchsverfahren nach de
 - Frist: 1 Monat nach Bekanntgabe (§ 355 AO).
 - Adressat: Familienkasse, die den Bescheid erlassen hat.
 
-## Pruefraster
+## Prüfraster
 
 1. Bescheid bezeichnen.
 2. Kindergeld-Anspruch belegen.

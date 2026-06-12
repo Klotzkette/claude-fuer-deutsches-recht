@@ -49,7 +49,7 @@ Berufung ohne Zulassung möglich, wenn:
 Beispiel:
 
 - Pflegegrad 2 statt 3, monatlich 200 EUR mehr ab 1.1.2025 → über Jahr über 750 EUR
-- Sanktion 100 EUR → unter Wertgrenze, aber pruefbar wenn Sanktion über 12 Monate
+- Sanktion 100 EUR → unter Wertgrenze, aber prüfbar wenn Sanktion über 12 Monate
 
 Bei laufenden Leistungen reicht 1 Jahr Bezug — die Höhe muss nicht über 750 EUR sein.
 

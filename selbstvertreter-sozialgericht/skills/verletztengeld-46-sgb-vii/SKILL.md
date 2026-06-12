@@ -1,6 +1,6 @@
 ---
 name: verletztengeld-46-sgb-vii
-description: "Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster."
+description: "Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhältnis zur Verletztenrente. Liefert Prüfraster."
 ---
 
 # Verletztengeld 46 Sgb Vii
@@ -34,7 +34,7 @@ description: "Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzunge
 
 - Beitragspflichtig zur Renten- und Arbeitslosenversicherung.
 
-## Pruefraster
+## Prüfraster
 
 1. Anerkennung als Arbeitsunfall / BK?
 2. AU-Bescheinigung?

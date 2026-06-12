@@ -1,6 +1,6 @@
 ---
 name: usa-tiers-of-scrutiny
-description: Tiers of scrutiny des US Supreme Court als Pruefungsmuster fuer Eingriffe in Grundrechte und Gleichheitsfragen mit strict scrutiny intermediate scrutiny und rational basis review. Mit Korematsu Grutter Adarand Craig v Boren Romer und Hinweisen zur Rezeption deutscher Verhaeltnismaessigkeit und zur Sonderstruktur des Substantive Due Process unter dem 14th Amendment.
+description: Tiers of scrutiny des US Supreme Court als Prüfungsmuster fuer Eingriffe in Grundrechte und Gleichheitsfragen mit strict scrutiny intermediate scrutiny und rational basis review. Mit Korematsu Grutter Adarand Craig v Boren Romer und Hinweisen zur Rezeption deutscher Verhältnismäßigkeit und zur Sonderstruktur des Substantive Due Process unter dem 14th Amendment.
 ---
 
 # USA Tiers of Scrutiny
@@ -8,10 +8,10 @@ description: Tiers of scrutiny des US Supreme Court als Pruefungsmuster fuer Ein
 ## Verfassungsverankerung
 
 Anders als die deutsche Schranken-Schranke ergibt sich das
-amerikanische Pruefraster nicht aus einem einzelnen Verfassungstext,
+amerikanische Prüfraster nicht aus einem einzelnen Verfassungstext,
 sondern aus der Auslegung der **Due Process Clauses** (5th und 14th
 Amendment) und der **Equal Protection Clause** (14th Amendment) durch
-den Supreme Court. Drei Pruefstufen haben sich herausgebildet:
+den Supreme Court. Drei Prüfstufen haben sich herausgebildet:
 
 1. **Strict scrutiny**.
 2. **Intermediate scrutiny**.
@@ -19,7 +19,7 @@ den Supreme Court. Drei Pruefstufen haben sich herausgebildet:
 
 ## Strict Scrutiny
 
-Hoechste Pruefdichte. Voraussetzungen:
+Hoechste Prüfdichte. Voraussetzungen:
 
 - **Compelling governmental interest**: Eingriffszweck muss zwingend
   sein, nicht nur legitim.
@@ -44,7 +44,7 @@ diese Linie weitgehend aufgehoben.
 
 ## Intermediate Scrutiny
 
-Mittlere Pruefdichte. Voraussetzungen:
+Mittlere Prüfdichte. Voraussetzungen:
 
 - **Important governmental interest**.
 - **Substantially related** Mittel.
@@ -61,7 +61,7 @@ Anwendungsfaelle:
 
 ## Rational Basis Review
 
-Niedrigste Pruefdichte. Voraussetzungen:
+Niedrigste Prüfdichte. Voraussetzungen:
 
 - **Legitimate governmental interest**.
 - **Rationally related** Mittel.
@@ -81,7 +81,7 @@ Center 473 US 432 (1985).
 
 ## Substantive Due Process
 
-Eine eigene Pruefkategorie ausserhalb der Tiers betrifft die
+Eine eigene Prüfkategorie ausserhalb der Tiers betrifft die
 **fundamental rights** unter dem 14th Amendment, insbesondere im
 Privacy- und Familienrecht.
 
@@ -114,9 +114,9 @@ Strukturelle Unterschiede sind aber gravierend.
 
 | Deutschland | USA |
 | --- | --- |
-| Vier Stufen sequenziell für alle Grundrechte gleich | Drei Pruefstufen je nach Eingriffsgegenstand vorab kategorisiert |
+| Vier Stufen sequenziell für alle Grundrechte gleich | Drei Prüfstufen je nach Eingriffsgegenstand vorab kategorisiert |
 | Schutzbereich-Eingriff-Rechtfertigung als Aufbau | Direkte Kategorisierung am Eingriff, dann Tier |
-| Einschaetzungspraerogative je nach Materie | Kategorisierte Pruefdichte je nach betroffener Class oder Right |
+| Einschaetzungspraerogative je nach Materie | Kategorisierte Prüfdichte je nach betroffener Class oder Right |
 | Wesensgehalt Art 19 II GG | Kein expliziter Wesensgehalt; absolute Grenzen über Substantive Due Process |
 | Menschenwuerde Art 1 I GG | Kein vergleichbares Recht; Dignity-Argumentation nur punktuell (Kennedy J in Obergefell) |
 | Praktische Konkordanz | Categorical balancing, ad hoc balancing |

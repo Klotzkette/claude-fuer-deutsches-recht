@@ -15,7 +15,7 @@ description: "DBA Deutschland Lettland 1997. Anwendungsfall Mittelstand IT Holdi
 
 ## Kernsachverhalt
 
-Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhaeltnis zum EU-Mitglied Lettland (Beitritt 2004, Euro 2014). Praxisrelevant sind Mittelstand, IT, Holding und Transport-Branche.
+Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhältnis zum EU-Mitglied Lettland (Beitritt 2004, Euro 2014). Praxisrelevant sind Mittelstand, IT, Holding und Transport-Branche.
 
 ## Kaltstart-Rueckfragen
 
@@ -60,7 +60,7 @@ Das DBA-Lettland vom 21.02.1997 (BGBl. 1997 II S. 1382) regelt das Verhaeltnis z
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4).
 2. Sachliche Anwendbarkeit (Art. 2).
@@ -81,7 +81,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbes
 
 - **Erstattungsverfahren LV → DE-Mandant**: Antrag bei VID (Valsts ieņēmumu dienests, Staatliche Finanzverwaltung); Online-Portal "EDS" (Elektroniskās deklarēšanas sistēma, vom Anwender mit aktuellem Stand zu verifizieren). Ansaessigkeitsbescheinigung der VID als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Lettisch. Englische Arbeitsfassungen kursieren — nicht authentisch.
-- **Lokaler Berater**: Bei lettischer SIA (Sabiedrība ar ierobežotu atbildību, GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines lettischen "nodokļu konsultants" wegen Distribution-Tax-System (seit 2018 nach estnischem Vorbild) und spezifischer Pruefungspraxis.
+- **Lokaler Berater**: Bei lettischer SIA (Sabiedrība ar ierobežotu atbildību, GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines lettischen "nodokļu konsultants" wegen Distribution-Tax-System (seit 2018 nach estnischem Vorbild) und spezifischer Prüfungspraxis.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (LV seit 2004).
 
 ## Edge Cases und Was-Prüfer-Triggert
@@ -97,7 +97,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbes
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Distribution-Tax-Modell nutzen vs. CFC-Risiko | LV-SIA mit Einbehaltung: 0 Prozent KSt bei Einbehaltung | DE-CFC bei passiven Einkuenften | bei aktivem Geschaeftsbetrieb Aktivitaetskatalog nutzen; bei passiver Holding CFC obligatorisch |
+| Distribution-Tax-Modell nutzen vs. CFC-Risiko | LV-SIA mit Einbehaltung: 0 Prozent KSt bei Einbehaltung | DE-CFC bei passiven Einkuenften | bei aktivem Geschäftsbetrieb Aktivitaetskatalog nutzen; bei passiver Holding CFC obligatorisch |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-LV: 15 Prozent Standardsatz Dividenden | EU-MTRL vorrangig |
 | Zinsen DBA-LV 10 Prozent vs. EU-ZinsLizenzRL | DBA-LV: 10 Prozent QSt | EU-ZinsLizenzRL: 0 Prozent bei verbundenen Unternehmen | EU-ZinsLizenzRL vorrangig bei Verbundenheit (Beteiligung mindestens 25 Prozent, Mindesthaltedauer 2 Jahre) |
 

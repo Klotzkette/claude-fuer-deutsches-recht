@@ -90,7 +90,7 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 - **EuGH C-634/21** v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung i.S.v. Art. 22 DSGVO. Quelle: curia.europa.eu
 - **EuGH C-66/19** v. 26.3.2020 (Kreissparkasse Saarlouis) — Kaskadenverweisung in Widerrufsbelehrung unzulässig. Quelle: curia.europa.eu
 
-### Normen-Ueberblick nach Mandatstyp
+### Normen-Überblick nach Mandatstyp
 | Mandat | Zentralnorm |
 |---|---|
 | Widerruf Verbraucherkredit | §§ 491, 495, 355 BGB; EGBGB Art. 247 |
@@ -105,7 +105,7 @@ description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder 
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen Ueberblick
+### Fristen Überblick
 | Frist | Dauer | Norm |
 |---|---|---|
 | Verjaebrung Beratungsfehler | 3 Jahre ab Kenntnis | §§ 195, 199 Abs. 1 BGB |

@@ -77,7 +77,7 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 
 - Zusatzspalten: GwG-Transparenzregister / Sanktionslisten-Treffer / Risiko nach LkSG Paragraph 5 / Beschwerdeverfahren-Anbindung
 - Prüfer: Compliance-Officer
-- Materialität rot: Sanktionslisten-Treffer; LkSG-Hochrisiko-Region ohne Pruefkette
+- Materialität rot: Sanktionslisten-Treffer; LkSG-Hochrisiko-Region ohne Prüfkette
 
 ### Wirtschaft
 
@@ -88,7 +88,7 @@ description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Ve
 ## Normenrahmen
 
 - **DSGVO** — Artikel 28 (Auftragsverarbeitung) Artikel 35 (DSFA) Artikel 44 ff. (Drittlandtransfer)
-- **BDSG** — Beschaeftigtendatenschutz
+- **BDSG** — Beschäftigtendatenschutz
 - **GwG** — Paragraph 10 Sorgfaltspflichten Paragraph 20 Transparenzregister
 - **LkSG** — Paragraph 5 Risikoanalyse Paragraph 6 Präventionsmaßnahmen
 - **BGB** — Paragraph 305 ff. AGB-Kontrolle

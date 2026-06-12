@@ -14,7 +14,7 @@ description: "Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto. Skill klaert die rechtliche Konstruktion des Pfaendungsschutzkontos nach §§ 850k 850l ZPO Grundfreibetraege Erhoehungsbetraege Antrag und Beweisfuehrung sowie Wechselwirkung mit Insolvenzverfahren. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Pfaendungsschutzkonto
 
@@ -50,7 +50,7 @@ description: "Verbraucherinsolvenz: Pfaendungsschutzkonto P-Konto: Skill klaert 
 - P-Konto-Schutz neben Insolvenzverfahren.
 - Nicht Schuldnerkonto wechseln, sondern bestehendes Konto umwandeln.
 
-## Pruefraster
+## Prüfraster
 
 1. P-Konto eingerichtet?
 2. Grundfreibetrag korrekt?

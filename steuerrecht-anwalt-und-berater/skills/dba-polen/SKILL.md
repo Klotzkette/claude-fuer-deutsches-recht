@@ -87,7 +87,7 @@ Das DBA-Polen vom 14.05.2003 regelt Arbeitnehmerentsendungen (Bau, Pflege, IT), 
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren PL → DE-Mandant**: Antrag bei der polnischen Finanzverwaltung (Krajowa Administracja Skarbowa, KAS); Online-Portal "e-Urzad Skarbowy" (vom Anwender mit aktuellem Stand des polnischen Online-Portals zu verifizieren). Bearbeitungsdauer in der Praxis typischerweise mehrere Monate; Antragsformular CFR-1 für Ansaessigkeitsbescheinigung als Anlage.
-- **Sprache des DBA**: Authentische Textfassungen sind Deutsch und Polnisch; englische Arbeitsuebersetzungen kursieren, sind aber nicht authentisch. Bei strittiger Auslegung beide authentischen Sprachfassungen vergleichen — historisch waren z.B. die Begriffe "Einkuenfte aus selbstaendiger Arbeit" und "samodzielna dzialalnosc" leicht abweichend gefasst.
+- **Sprache des DBA**: Authentische Textfassungen sind Deutsch und Polnisch; englische Arbeitsuebersetzungen kursieren, sind aber nicht authentisch. Bei strittiger Auslegung beide authentischen Sprachfassungen vergleichen — historisch waren z.B. die Begriffe "Einkuenfte aus selbständiger Arbeit" und "samodzielna dzialalnosc" leicht abweichend gefasst.
 - **Lokaler Berater**: Bei polnischer Sp.z o.o. mit Niederlassung in DE und umgekehrt empfiehlt sich Hinzuziehung eines polnischen "doradca podatkowy" (zertifizierter Steuerberater) wegen polnischer Buchfuehrungspflichten und CIT-8-Erklaerung.
 - **Apostille**: PL-Behörden akzeptieren EU-Ansaessigkeitsbescheinigungen ohne Apostille; bei Notarurkunden im Schenkungs-/Erbfall ist Apostille (Haager Uebereinkommen) erforderlich.
 

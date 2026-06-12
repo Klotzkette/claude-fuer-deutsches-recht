@@ -23,7 +23,7 @@ Vor der Erstellung von Billing Narratives klären:
 1. **Honorarvereinbarung vorhanden?** Stundenhonorar (§ 3a RVG) oder Pauschalhonorar oder Success Fee oder Cap + Success Fee? Kein Narrative ohne klar definiertes Abrechnungsmodell.
 2. **Taetigkeiten vollstaendig erfasst?** Alle Time Entries nach Phase, Workstream und Deliverable vorliegend? Fehlende Entries flaggen.
 3. **Budgetstatus geprueft?** Aktuelles WIP gegen Budget halten; Scope Creep und Abweichungen markieren bevor Narrative erstellt wird.
-4. **Mandantenvertraulichkeit:** Narrative darf kein Mandatsgeheimnis unnoetig offen legen (§ 43a Abs. 2 BRAO); Formulierungen müssen pruefbar aber nicht erlaeuternd sein.
+4. **Mandantenvertraulichkeit:** Narrative darf kein Mandatsgeheimnis unnoetig offen legen (§ 43a Abs. 2 BRAO); Formulierungen müssen prüfbar aber nicht erläuternd sein.
 5. **Rechnungsreife?** Sind alle Bedingungen erfuellt (Leistungsstand, SPA-Meilenstein, vereinbarter Faelligkeitspunkt)? Bei Unsicherheit nicht abrechnen.
 6. **E-Rechnung erforderlich?** Oeffentlicher Auftraggeber oder SPA-Klausel zu XRechnung/ZUGFeRD? Dann an `grosskanzlei-ma-erechnung-gobd` uebergeben.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -50,7 +50,7 @@ Vor der Erstellung von Billing Narratives klären:
 ### Narrative-Formulierungsregeln
 
 1. **Mandantentauglich:** Keine Rechtsbegriffe ohne Erklaerung; kein unnoetig detaillierter Sachverhalt.
-2. **Pruefbar:** Jede Taetigkeit muss einem Workstream und Deliverable zugeordnet sein.
+2. **Prüfbar:** Jede Taetigkeit muss einem Workstream und Deliverable zugeordnet sein.
 3. **Vertraulich:** Kein Inhalt aus privilegierten Dokumenten (anwaltliche Stellungnahmen, DD-Reports) in externe Narrative.
 4. **Zeitgenau:** Time Entries tagesgenau; keine rueckwirkenden Grosskorrekturen ohne Erklaerung.
 5. **Budget-Delta markieren:** Abweichungen > 10 % zum vereinbarten Budget kommentieren.
@@ -101,7 +101,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 ## Output-Template
 
-**Adressat:** Mandant / Matter-Controller — Tonfall: knapp, pruefbar, mandantentauglich
+**Adressat:** Mandant / Matter-Controller — Tonfall: knapp, prüfbar, mandantentauglich
 
 ```
 BILLING NARRATIVE LEDGER
@@ -156,7 +156,7 @@ XRechnung/ZUGFeRD erforderlich: [JA → Uebergabe grosskanzlei-ma-erechnung-gobd
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -172,9 +172,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Arbeitsmodus
 
 - Taetigkeiten nach Phase, Workstream und Deliverable erfassen.
-- Narratives knapp, mandantentauglich und pruefbar formulieren.
+- Narratives knapp, mandantentauglich und prüfbar formulieren.
 - Budgetabweichungen und Scope Creep markieren.
-- WIP, Cap, Success Fee, Auslagen, Rabatte und Steuerlogik als eigene Pruefpunkte fuehren.
+- WIP, Cap, Success Fee, Auslagen, Rabatte und Steuerlogik als eigene Prüfpunkte fuehren.
 - Bei Rechnungsreife an `grosskanzlei-ma-erechnung-gobd` uebergeben.
 
 ## Standardausgabe
@@ -182,7 +182,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Billing Narrative Ledger.
 - Budgetstatus nach Workstream.
 - Rechnungsreife-Ampel.
-- Uebergabe an E-Rechnung/GoBD mit Belegkette.
+- Übergabe an E-Rechnung/GoBD mit Belegkette.
 
 ## Vorlagen
 

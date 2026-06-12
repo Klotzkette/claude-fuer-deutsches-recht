@@ -1,6 +1,6 @@
 ---
 name: staat-ordnungsmacht-anti-autoritaerer-check
-description: "Prueft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz."
+description: "Prüft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein; Gesetzesbindung, Grundrechte, Verhältnismäßigkeit und Rechtsschutz."
 ---
 
 # Staat als Ordnungsmacht: anti-autoritärer Check

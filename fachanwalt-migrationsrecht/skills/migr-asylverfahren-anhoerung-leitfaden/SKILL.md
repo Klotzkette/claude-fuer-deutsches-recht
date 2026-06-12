@@ -14,7 +14,7 @@ description: "Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandanten
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund.
+**Fokus:** Leitfaden Asylverfahren und Anhörung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Prüfraster Glaubhaftigkeit und Fluchtgrund.
 
 ### Migr: Asyl Anhörung
 
@@ -27,14 +27,14 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Asylverfahren und Anhörung
+## Prüfraster Asylverfahren und Anhörung
 
 ### 1. Asylverfahren beim BAMF (§§ 14 ff. AsylG)
 
 - **Antragstellung** § 13 AsylG; Asylgesuch loest § 55 AsylG Aufenthaltsgestattung aus.
 - **Aussenstelle / Anhörung** § 24 AsylG: persönliche Anhörung ist Pflicht (Ausnahmen § 25 IV-VI AsylG).
 - **Dublin-Verfahren** VO (EU) 604/2013 (Dublin III) — Zuständigkeitsbestimmung; Selbsteintrittsrecht Art. 17.
-- **Pruefungsreihenfolge** § 13 II AsylG: zuerst Asylberechtigung Art. 16a GG, dann Fluechtlingseigenschaft (§ 3 AsylG), dann subsidiaerer Schutz (§ 4 AsylG), dann nationale Abschiebungsverbote (§ 60 V, VII AufenthG).
+- **Prüfungsreihenfolge** § 13 II AsylG: zuerst Asylberechtigung Art. 16a GG, dann Fluechtlingseigenschaft (§ 3 AsylG), dann subsidiaerer Schutz (§ 4 AsylG), dann nationale Abschiebungsverbote (§ 60 V, VII AufenthG).
 
 ### 2. Rechtsgrundlagen Schutzformen
 
@@ -72,7 +72,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **Sieben-Tages-Frist** bei "offensichtlich unbegruendet" wird oft uebersehen.
 - **Dublin-Frist** sechs Monate Art. 29 Dublin III; Verlaengerung bei Untertauchen.
-- **Aenderungen Anhörung** müssen sofort moniert werden; sonst Bestandskraft der Niederschrift.
+- **Änderungen Anhörung** müssen sofort moniert werden; sonst Bestandskraft der Niederschrift.
 - **Asylfolgeantrag** § 71 AsylG nur bei neuer Sach- oder Rechtslage; Frist drei Monate.
 - **Familienasyl** § 26 AsylG (Ehegatte, minderjaehrige ledige Kinder).
 - **Sichere Herkunftsstaaten** § 29a AsylG i.V.m. Anlage II AsylG (z. B. Albanien, Bosnien, Ghana, Kosovo, Mazedonien, Senegal, Serbien, Moldau, Georgien).
@@ -81,10 +81,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

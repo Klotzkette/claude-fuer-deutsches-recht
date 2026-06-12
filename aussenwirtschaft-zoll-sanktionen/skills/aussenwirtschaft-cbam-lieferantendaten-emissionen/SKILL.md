@@ -17,7 +17,7 @@ description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtige
 
 - Importeur muss Lieferanten in Indien zur Emissionsoffenlegung auffordern; wie formulieren?
 - Hersteller in der Tuerkei liefert keine vollstaendigen Emissionsdaten; Standardwerte zwingend?
-- Mehrere Lieferanten für gleiche Ware liefern unterschiedliche Emissionswerte; Pruefmethodologie klären.
+- Mehrere Lieferanten für gleiche Ware liefern unterschiedliche Emissionswerte; Prüfmethodologie klären.
 
 ## Erste Schritte
 
@@ -36,7 +36,7 @@ description: "Beschaffung und Validierung von Emissionsdaten bei CBAM-pflichtige
 - **ISO 14064**: Internationale Norm für Treibhausgasmessungen als Referenz.
 - **Art. 35 Abs. 4 VO (EU) 2023/956**: Meldepflichten bei Unklarheit der Emissionsdaten.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Emissionsdaten-Anforderungsschreiben an Lieferanten versendet?
 - [ ] Direktemissionen (Scope 1) und Stromemissionen (Scope 2) separat ermittelt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

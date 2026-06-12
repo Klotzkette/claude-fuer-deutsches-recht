@@ -1,11 +1,11 @@
 ---
 name: bmftr-raumfahrt-und-weltraumrecht-wrgg
-description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typi..."
+description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschäftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typi..."
 ---
 
 # Raumfahrt- und Weltraumrecht (BMFTR)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Raumfahrt- und Weltraumrecht im Geschäftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFT
 
 Kernbestand des Sachfelds: WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Voelkerrecht (Weltraumvertrag); duale Nutzung; Haftung; New-Space-Akteure.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

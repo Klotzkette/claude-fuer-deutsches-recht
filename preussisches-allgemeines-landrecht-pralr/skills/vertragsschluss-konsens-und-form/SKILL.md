@@ -1,6 +1,6 @@
 ---
 name: vertragsschluss-konsens-und-form
-description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB §§ 145 ff. Liefert Pruefraster."
+description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das Konsensmodell des ALR Formerfordernisse (mancipatio analog stipulatio analog Schriftform) und die Fortwirkung in BGB §§ 145 ff. Liefert Prüfraster."
 ---
 
 # Pralr Vertragsschluss Konsens Und Form
@@ -21,7 +21,7 @@ description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das K
 - Grundstueckskauf, Adoption, Testamenten.
 
 ### Mancipatio-ähnlich
-- Bei besonderen Geschaeften (im Kern aufgegeben mit roemisch-rechtlichem Anachronismus).
+- Bei besonderen Geschäften (im Kern aufgegeben mit roemisch-rechtlichem Anachronismus).
 
 ## Vertragsangebot und Annahme
 
@@ -33,7 +33,7 @@ description: "Vertragsschluss im ALR — Konsens und Form. Skill behandelt das K
 - §§ 145-157 BGB.
 - § 311 BGB allgemeines Schuldverhaeltnis.
 
-## Pruefraster
+## Prüfraster
 
 1. Konsens vorhanden?
 2. Form gewahrt?

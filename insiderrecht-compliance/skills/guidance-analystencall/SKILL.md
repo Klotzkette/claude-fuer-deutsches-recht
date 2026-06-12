@@ -1,6 +1,6 @@
 ---
 name: guidance-analystencall
-description: "Prueft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus im Insiderrecht Compliance."
+description: "Prüft wann ein Guidance-Update (Prognoseaenderung) zur Insiderinformation wird, koordiniert Ad-hoc und schreibt den Prognose-Passus im Insiderrecht Compliance."
 ---
 
 # Guidance Update / Prognoseänderung – Insiderrecht

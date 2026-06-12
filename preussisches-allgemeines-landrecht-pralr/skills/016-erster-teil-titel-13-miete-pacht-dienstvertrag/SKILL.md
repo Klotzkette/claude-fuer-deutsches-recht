@@ -41,7 +41,7 @@ Mieter X zahlt 6 Monate nicht.
 - §§ 611-630h BGB Dienstvertrag.
 - § 562 BGB Vermieterpfandrecht.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Vertragstyp?
 2. Kuendigung?

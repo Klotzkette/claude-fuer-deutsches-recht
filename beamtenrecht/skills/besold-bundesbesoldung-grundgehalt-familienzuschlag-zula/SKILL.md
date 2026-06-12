@@ -36,7 +36,7 @@ description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen
 
 ## Zulagen
 
-- **Ministerialzulage** (BMI-Beschaeftigte).
+- **Ministerialzulage** (BMI-Beschäftigte).
 - **Stellenzulage** (z. B. Polizei, BPol, BKA).
 - **Erschwerniszulage** (Wechselschicht, Tauchen, Sprengstoff).
 - **Auslandszuschlag** (Botschaftsdienst).
@@ -47,7 +47,7 @@ description: "Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen
 - BVerfG 2 BvL 6/17 zur R-Besoldung.
 - Az live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Besoldungsgruppe?
 2. Welche Stufe?

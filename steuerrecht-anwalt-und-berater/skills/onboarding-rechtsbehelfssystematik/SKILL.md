@@ -14,7 +14,7 @@ description: "Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf 
 ## Triage — kläre vor der Bearbeitung
 
 1. Liegt ein Verwaltungsakt vor — sonst kein Einspruch sondern Untaetigkeitseinspruch § 347 Abs. 1 S. 2 AO?
-2. Ist die Einspruchsfrist abgelaufen — prüfen ob Wiedereinsetzung oder schlichte Aenderung § 172 AO?
+2. Ist die Einspruchsfrist abgelaufen — prüfen ob Wiedereinsetzung oder schlichte Änderung § 172 AO?
 3. Gibt es eine Einspruchsentscheidung — dann nur noch Klage § 47 FGO offen?
 4. Ist die Sache von grundsaetzlicher Bedeutung — Sprungklage § 45 FGO oder Musterverfahren § 363 Abs. 2 AO ueberlegen?
 5. Steht eine Verfassungsfrage im Raum — Vorlage § 100 GG oder Verfassungsbeschwerde nach Erschoepfung?

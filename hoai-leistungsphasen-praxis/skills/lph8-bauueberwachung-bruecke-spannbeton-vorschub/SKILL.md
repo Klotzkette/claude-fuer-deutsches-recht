@@ -27,7 +27,7 @@ Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Bruec
 
 ## Erste Schritte auf der Baustelle
 
-1. Pruefplan Spannstahlguete: Zertifikat nach DIN EN 10138, Chargenidentifikation, Lagerungsprotokoll
+1. Prüfplan Spannstahlguete: Zertifikat nach DIN EN 10138, Chargenidentifikation, Lagerungsprotokoll
 2. Bewehrungsabnahme vor Betonage: Spannkanaele gerade, Huellrohr Dichtheit, Bewehrungsdeckung
 3. Betonage Freivorbau-Takt: C45/55 XD1 XF2, Frischbetonpruefung, Wuerfelproben je Betoniertakt
 4. Pressenprotokoll Vorspannen: Spannkraft je Litzenbuendel, Spannweg, Reibungskoeffizient, Ankerschlupf
@@ -41,11 +41,11 @@ Gebrauchstauglichkeit und Rissbeschraenkung nach DIN EN 1992-2 (Eurocode 2 Bruec
 - DIN EN 1992-2 Eurocode 2: Betonbruecken, Beton- und Spannbetontragwerke
 - ZTV-Ing Teil 4 Stahlbeton- und Spannbetonbau: Grundsaetze, Ausfuehrung, Prüfung
 - DIN EN 1337-1 Lager im Bauwesen: Allgemeine Konstruktionsprinzipien
-- DIN EN 10138 Spannstaehle: Anforderungen, Werksbescheinigung, Pruefverfahren
+- DIN EN 10138 Spannstaehle: Anforderungen, Werksbescheinigung, Prüfverfahren
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
-1. Spannstahlzertifikat: Chargenbezeichnung, Gueteklasse Y1860 oder Y1770, Pruefattest 3.1
+1. Spannstahlzertifikat: Chargenbezeichnung, Gueteklasse Y1860 oder Y1770, Prüfattest 3.1
 2. Spannkanal-Dichtheit: Druckpruefung Huellrohr 2 bar, Verlust kleiner 0.1 bar/min, Protokoll
 3. Betonguete: Frischbetonpruefung Konsistenz, Frischbetontemperatur max. 30 Grad C, Wuerfelproben
 4. Pressenprotokoll: Istkraft und Sollkraft je Litzenbuendel, Ankerschlupf Toleranz 5 mm

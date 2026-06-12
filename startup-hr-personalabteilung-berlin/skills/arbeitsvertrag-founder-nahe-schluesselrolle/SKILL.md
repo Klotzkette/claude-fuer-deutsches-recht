@@ -3,7 +3,7 @@ name: arbeitsvertrag-founder-nahe-schluesselrolle
 description: "Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head of, C-Level minus Organstellung, Bonus, Vesting, Geheimnisse und Exit. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
-# Arbeitsvertrag Founder Nahe Schluesselrolle
+# Arbeitsvertrag Founder Nahe Schlüsselrolle
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Berliner Start-up-HR: Schlüsselrollen nah an Foundern: VP, Head o
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Arbeitsvertrag Founder Nahe Schluesselrolle
+## Fachkern: Arbeitsvertrag Founder Nahe Schlüsselrolle
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.
 - **Entscheidende Weiche:** Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt.
 

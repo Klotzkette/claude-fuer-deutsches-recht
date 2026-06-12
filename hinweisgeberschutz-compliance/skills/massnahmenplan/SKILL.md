@@ -3,7 +3,7 @@ name: massnahmenplan
 description: "Priorisiert Verbesserungen am HinSchG-System im Hinweisgeberschutz Compliance."
 ---
 
-# Massnahmenplan
+# Maßnahmenplan
 
 ## Arbeitsweg
 

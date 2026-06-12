@@ -18,7 +18,7 @@ description: "BtMG-Qualifikation § 29a BtMG: nicht geringe Menge: Verbrechen mi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Pruefraster und Verteidigungsstrategie.
+**Fokus:** BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Prüfraster und Verteidigungsstrategie.
 
 ### § 29a BtMG: Nicht geringe Menge
 
@@ -92,7 +92,7 @@ Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich 
 ## Mustertexte
 
 **Antrag minder schwerer Fall § 29a Abs. 2 BtMG:**
-"Es liegt ein minder schwerer Fall im Sinne des § 29a Abs. 2 BtMG vor. Mein Mandant ist nicht vorbestraft, hat ein umfassendes Gestaendnis abgelegt, die nicht geringe Menge wurde nur knapp ueberschritten (Wirkstoffmenge: [X] g, Schwelle [Y] g). Aufklaerungshilfe im Sinne des § 31 BtMG wurde geleistet. Die wirtschaftlichen und persönlichen Verhaeltnisse rechtfertigen die Annahme eines minder schweren Falls."
+"Es liegt ein minder schwerer Fall im Sinne des § 29a Abs. 2 BtMG vor. Mein Mandant ist nicht vorbestraft, hat ein umfassendes Gestaendnis abgelegt, die nicht geringe Menge wurde nur knapp ueberschritten (Wirkstoffmenge: [X] g, Schwelle [Y] g). Aufklaerungshilfe im Sinne des § 31 BtMG wurde geleistet. Die wirtschaftlichen und persönlichen Verhältnisse rechtfertigen die Annahme eines minder schweren Falls."
 
 ## Quellen Stand 06/2026
 

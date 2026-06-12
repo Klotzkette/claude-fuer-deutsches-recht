@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-bverfge-50-290
-description: Mitbestimmungs-Urteil BVerfGE Band 50 Seite 290 vom 01.03.1979 als Lehrstueck fuer Einschaetzungspraerogative des Gesetzgebers und intensive Pruefungsdichte bei Eigentum und Berufsfreiheit. Mit Sachverhalt MitbestG 1976 und Kontrolldichte.
+description: Mitbestimmungs-Urteil BVerfGE Band 50 Seite 290 vom 01.03.1979 als Lehrstueck fuer Einschaetzungspraerogative des Gesetzgebers und intensive Prüfungsdichte bei Eigentum und Berufsfreiheit. Mit Sachverhalt MitbestG 1976 und Kontrolldichte.
 ---
 
 # Mitbestimmung BVerfGE 50 290
@@ -8,7 +8,7 @@ description: Mitbestimmungs-Urteil BVerfGE Band 50 Seite 290 vom 01.03.1979 als 
 ## Sachverhalt
 
 Mitbestimmungsgesetz 1976 schuf paritaetische Mitbestimmung in
-Aufsichtsraeten von Kapitalgesellschaften mit mehr als 2000 Beschaeftigten.
+Aufsichtsraeten von Kapitalgesellschaften mit mehr als 2000 Beschäftigten.
 Konzerne argumentierten, das verletze Eigentum Art 14 GG und
 Vereinigungsfreiheit der Anteilseigner Art 9 GG.
 
@@ -16,7 +16,7 @@ Vereinigungsfreiheit der Anteilseigner Art 9 GG.
 
 Senat 1 BVerfG, Urteil 01.03.1979, BVerfGE 50, 290 (Mitbestimmung).
 MitbestG verfassungsmaessig. Einschaetzungspraerogative des Gesetzgebers
-schliesst nicht aus, dass das Gesetz später ueberprueft werden muss.
+schliesst nicht aus, dass das Gesetz später überprüft werden muss.
 
 ## Drei Kontrolldichten
 

@@ -78,7 +78,7 @@ Beteiligte: Arbeitgeber / Betriebsrat / Gewerkschaft. Keine Parteien im zivilpro
 - Richter versucht aktiv Vergleich herbeizuführen
 - Bei Einigung im Gütetermin: Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO)
 - Im Aktenauszug: Güteterminsdatum und Ergebnis (Einigung / Scheitern) hervorheben
-- Abfindungserwartung Faustformel: 0,5 Bruttomonatsgehaelter pro Beschaeftigungsjahr
+- Abfindungserwartung Faustformel: 0,5 Bruttomonatsgehaelter pro Beschäftigungsjahr
 
 ## Besonderheiten Beschlussverfahren
 

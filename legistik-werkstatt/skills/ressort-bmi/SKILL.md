@@ -15,7 +15,7 @@ description: "Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpu
 - **Hausleitung Stand 2026:** Alexander Dobrindt (CSU)
 - **Dienstsitz:** Alt-Moabit 140; 10559 Berlin; Zweitsitz Graurheindorfer Str. 198; 53117 Bonn
 - **Schwerpunkt:** Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; öffentlicher Dienst.
-- **Kernnormen im Geschaeftsbereich:** BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG.
+- **Kernnormen im Geschäftsbereich:** BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG.
 
 ## Materie auf einer Seite
 
@@ -28,10 +28,10 @@ Vollzugspraxis greifen ineinander.
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMI)
-- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschäftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMI-Spiegel)
-- **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
+- **Verbaende** im Geschäftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
 ### Welche Normen muss man lesen können
@@ -55,17 +55,17 @@ gerichts-Linie und BVerwG-Linie.
 ## Fuenf Spezialfelder im Ressort
 
 - `legw-bmi-sicherheits-und-polizeirecht` - Sicherheits- und Polizeirecht
-- `legw-bmi-auslaender-und-staatsangehoerigkeitsrecht` - Auslaender- und Staatsangehoerigkeitsrecht
+- `legw-bmi-auslaender-und-staatsangehoerigkeitsrecht` - Ausländer- und Staatsangehoerigkeitsrecht
 - `legw-bmi-verwaltungsverfahren-und-bundesverwaltung` - Verwaltungsverfahren und Bundesverwaltung
 - `legw-bmi-bevoelkerungsschutz-und-katastrophenrecht` - Bevoelkerungsschutz und Katastrophenrecht
 - `legw-bmi-öffentlicher-dienst-und-beamtenrecht` - Oeffentlicher Dienst und Beamtenrecht
 
-Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
+Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Prüfpfad und
 Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 
-1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
+1. **Geschäftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
  abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
  personell gedeckt; Erfuellungsaufwand falsch berechnet.

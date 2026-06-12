@@ -21,7 +21,7 @@ Die Beziehung zwischen Verlag und Autorin laeuft über einen kontinuierlichen Ko
 
 Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahnenden Konflikten, bei Lieferverzug. Klären Sie:
 
-1. Verhaeltnis (langjaehrige Autorin / Erstautor / schwieriges Verhaeltnis)?
+1. Verhältnis (langjaehrige Autorin / Erstautor / schwieriges Verhältnis)?
 2. Kommunikationspraeferenz (Mail, Telefon, Termin)?
 3. Wer im Verlag ist Ansprechpartner (Schriftleitung, Lektorat, Verlag)?
 4. Verbindliche Termine (Manuskriptabgabe, Korrektur, Druckfreigabe)?
@@ -35,7 +35,7 @@ Sie brauchen ihn bei Vertragsabschluss eines neuen Manuskripts, bei sich anbahne
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Kanal festlegen.** E-Mail als Primaerkanal (dokumentierbar), Telefon für komplexe Klaerungen, Termin für strategische Themen.
+1. **Kanal festlegen.** E-Mail als Primaerkanal (dokumentierbar), Telefon für komplexe Klärungen, Termin für strategische Themen.
 2. **Frequenz.** Bei aktiver Manuskriptbearbeitung mindestens monatlicher Statusaustausch; bei Druckphase woechentlich.
 3. **Dokumentation.** Jedes wichtige Telefonat in einer Notiz festhalten und an Autorin als "Aktennotiz" mailen. So entsteht beidseitige Dokumentation.
 4. **Eskalationswege.** Bei Konflikten: zunaechst direkte Klärung; dann Schriftleitung; dann Verlagsleitung. Niemals von vorneherein eskalieren.

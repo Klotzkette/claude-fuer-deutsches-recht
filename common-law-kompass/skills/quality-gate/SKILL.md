@@ -87,9 +87,9 @@ Kläre vor dem Qualitaets-Gate-Durchlauf:
 - Lewison/Hughes, *The Interpretation of Contracts*, 7th ed. 2022 — massgebliches englisches Werk
 - Adams, *A Manual of Style for Contract Drafting*, 5th ed. 2023 (ABA) — US-Drafting-Standard
 
-## Quality-Gate-Pruefmatrix
+## Quality-Gate-Prüfmatrix
 
-| Pruefpunkt | Standard | Fundstelle | Status |
+| Prüfpunkt | Standard | Fundstelle | Status |
 |---|---|---|---|
 | Governing law & jurisdiction | Eindeutige Rechtswahlklausel | *Spiliada* [1987] AC 460 | GRUEN/GELB/ROT |
 | Consideration (UK) | Nicht illusorisch, nicht past | *Currie v Misa* (1875) LR 10 Ex 153 | — |

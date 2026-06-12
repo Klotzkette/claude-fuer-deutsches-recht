@@ -24,7 +24,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 - **GO BT** §§ 70 ff. — Anhörungen im Ausschuss
 - **NKR-Jahresbericht** — Praxis der Anhörungen
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Vorbereitung
 
@@ -48,7 +48,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 
 1. Vorhabens-Identifikation
 2. Erfuellungsaufwand-Tabelle
-3. Pruefraster-Ueberblick
+3. Prüfraster-Überblick
 4. Hauptempfehlungen
 5. Alternative Ausgestaltung
 6. Schluss / Kontaktstelle
@@ -63,7 +63,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 | "Warum nicht hoehere / niedrigere Kostenschaetzung?" | Methodik und Datenstand |
 | "Wie sieht die NKR-Position zur Politik?" | Hinweis auf § 4 NKRG, keine politische Bewertung |
 | "Hat der NKR die EU-Folgenabschaetzung beruecksichtigt?" | ja / Ausschnitt nennen |
-| "Ist eine Evaluierungsklausel vorgesehen?" | Empfehlung erlaeutern |
+| "Ist eine Evaluierungsklausel vorgesehen?" | Empfehlung erläutern |
 
 ## NKR-Sicht — was triggert eine kritische Stellungnahme
 
@@ -106,7 +106,7 @@ Rueckfrage nur wenn unklar: *"Welcher Ausschuss, welches Vorhaben, welche Frage 
 
 ### Schluss-Bausteine
 
-- "Der NKR bietet an, im Rahmen einer Folge-Stellungnahme zu konkretisierten Aenderungsantraegen erneut Stellung zu nehmen."
+- "Der NKR bietet an, im Rahmen einer Folge-Stellungnahme zu konkretisierten Änderungsantraegen erneut Stellung zu nehmen."
 - "Für Rueckfragen steht das Sekretariat des NKR jederzeit zur Verfuegung."
 
 ## Typische Fehler in Anhörungen

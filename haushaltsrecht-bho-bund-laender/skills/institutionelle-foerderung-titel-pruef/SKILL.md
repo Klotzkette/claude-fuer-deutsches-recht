@@ -3,7 +3,7 @@ name: institutionelle-foerderung-titel-pruef
 description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Institutionelle Förderung Titel Pruef
+# Institutionelle Förderung Titel Prüf
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: T
 
 ## Normenanker
 
-Arbeitsfokus: **Institutionelle Förderung Titel Pruef**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Institutionelle Förderung Titel Prüf**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 23 BHO` — Zuwendungen.
 - `§ 44 Abs. 1 BHO` — Bewilligung, Nachweis und Prüfung.

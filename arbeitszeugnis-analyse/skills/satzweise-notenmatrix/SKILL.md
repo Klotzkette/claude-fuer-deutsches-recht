@@ -1,6 +1,6 @@
 ---
 name: satzweise-notenmatrix
-description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmassstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)."
+description: "Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmaßstab BAG-Linie zur Zeugnissprache. Prüfraster Satzkurzform Themenbereich Note Steigerungsadverb-Befund Begründung. Output Geschlossene Notenmatrix als Grundlage für Bereichs-Drift-Detektor und Gesamtnoten-Aggregation. Abgrenzung zu notenrelevante-saetze-identifizieren (Vorstufe) und gesamtnoten-aggregation (Folgestufe)."
 ---
 
 # Satzweise Notenmatrix

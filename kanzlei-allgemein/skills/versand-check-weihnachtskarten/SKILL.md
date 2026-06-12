@@ -90,7 +90,7 @@ Jeder ausgehende Versand der Kanzlei muss diesen Check durchlaufen. Fehlversand 
 
 ## Sperrregel
 
-Wenn ein Pflicht-Pruefpunkt offen ist: Versand sperren. Eskalation an zuständigen Anwalt.
+Wenn ein Pflicht-Prüfpunkt offen ist: Versand sperren. Eskalation an zuständigen Anwalt.
 
 ## Audit-Eintrag
 

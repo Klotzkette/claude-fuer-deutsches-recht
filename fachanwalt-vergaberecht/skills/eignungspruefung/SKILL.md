@@ -48,7 +48,7 @@ description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
-| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Ausschluss wegen Falschangaben — Verhaeltnismaessigkeitspruefung im Einzelfall obligatorisch (Art. 57 RL 2014/24) | curia.europa.eu |
+| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Ausschluss wegen Falschangaben — Verhältnismäßigkeitspruefung im Einzelfall obligatorisch (Art. 57 RL 2014/24) | curia.europa.eu |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstoss § 124 Abs. 1 Nr. 4 GWB / Art. 57 Abs. 4 RL — Auslegung „schwerwiegende Verfehlung im beruflichen Bereich" | curia.europa.eu |
 | EuGH | C-66/20 | 12.05.2022 | Selbstreinigung Art. 57 Abs. 6 RL — Bewertung obliegt national; Verhältnismäßigkeit der Ausschlussfolgen | curia.europa.eu |
 | VK Bund / OLG Vergabesenate | laufende Senatsrspr. 2023-2025 | — | PQ-Verzeichnis ersetzt Einzelnachweise; Zusatznachweise nur ausnahmsweise zulässig | bundeskartellamt.de/Vergabe + olg-duesseldorf.nrw.de |
@@ -275,7 +275,7 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
 1. Welches Eignungskriterium ist streitig? (Umsatz, Referenzen, Personal, Zertifikate, Insolvenz)
 2. Ist Kriterium in Bekanntmachung oder Vergabeunterlagen eindeutig beschrieben? (§ 122 Abs. 4 GWB)
-3. Wurde Eignungsanforderung im Verhaeltnis zum Auftragsgegenstand aufgestellt? (Verhältnismäßigkeit)
+3. Wurde Eignungsanforderung im Verhältnis zum Auftragsgegenstand aufgestellt? (Verhältnismäßigkeit)
 4. Liegt behaupteter Ausschluss § 124 GWB vor? (Harte/weiche Ausschlusskriterien)
 5. Selbstreinigung nach § 125 GWB möglich?
 

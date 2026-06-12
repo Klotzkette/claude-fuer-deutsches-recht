@@ -1,6 +1,6 @@
 ---
 name: nutzungsrechte-lizenzkette
-description: "Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette im Urheberrecht De Eu."
+description: "Prüft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette im Urheberrecht De Eu."
 ---
 
 # Nutzungsrechte und Lizenzkette

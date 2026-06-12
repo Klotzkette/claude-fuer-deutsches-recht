@@ -1,6 +1,6 @@
 ---
 name: sanierung-vorhandener-vertraege
-description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Pruefer."
+description: "Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis im Sozialversicherungsstatus Prüfer."
 ---
 
 # Sanierung vorhandener Verträge

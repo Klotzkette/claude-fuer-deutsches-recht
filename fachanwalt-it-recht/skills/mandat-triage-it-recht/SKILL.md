@@ -192,7 +192,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 - § 45 BRAO — Verbotene Taetigkeit (frueherer Mandant / Gegenpartei)
 - Art. 33 DSGVO — 72-Stunden-Meldepflicht Datenpanne
 - § 32 BSIG n. F. — NIS-2-Meldepflicht 24 Stunden / 72 Stunden
-- Art. 19 NIS-2-RL (EU 2022/2555) — Haftung Geschaeftsleitungsorgane
+- Art. 19 NIS-2-RL (EU 2022/2555) — Haftung Geschäftsleitungsorgane
 
 ## Triage zu Beginn
 1. Besteht ein Interessenkonflikt — wurde dieselbe Partei oder Gegenseite bereits beraten (§ 43a BRAO)?

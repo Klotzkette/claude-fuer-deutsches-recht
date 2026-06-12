@@ -33,7 +33,7 @@ description: "3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalt
  - Jede Zeile ist ein Dokument mit Quellpfad Hash und optionalem Zeilenprompt.
  - Pflichtfelder pro Zeile: `id`, `pfad`, `hash`, `dokumenttyp`, optional `zeilenprompt` für dokumentspezifische Sonderanweisungen.
 3. **Achse 3 — Arbeitsblätter (Perspektiven) definieren**
- - Jedes Arbeitsblatt ist eine eigene Pruefperspektive die über denselben Dokumentenstapel läuft.
+ - Jedes Arbeitsblatt ist eine eigene Prüfperspektive die über denselben Dokumentenstapel läuft.
  - Beispiele: Recht (Anwaltsperspektive) / Steuer (Steuerberater) / Wirtschaft (Buyside) / Datenschutz (DSGVO) / IT (Architektur) / Betrieb (Operations)
  - Pflichtfelder pro Arbeitsblatt: `id`, `titel`, `perspektive`, `eigene-spalten-zusätze` (Arbeitsblatt-spezifische Zusatzspalten) und `auslassungen` (Spalten die für dieses Blatt nicht gelten).
 4. **Risikoampel-Konsolidierung** je Achse festlegen: Wann ist eine Zelle rot? Wann eine ganze Zeile rot? Wann ein ganzes Arbeitsblatt rot?

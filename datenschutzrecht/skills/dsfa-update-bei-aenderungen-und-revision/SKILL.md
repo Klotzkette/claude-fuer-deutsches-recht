@@ -1,32 +1,32 @@
 ---
 name: dsfa-update-bei-aenderungen-und-revision
-description: "Aktualisierung einer DSFA bei wesentlichen Aenderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Aenderungsanalyse Risikoreassessment und Versionshistorie."
+description: "Aktualisierung einer DSFA bei wesentlichen Änderungen der Verarbeitung nach Art. 35 Abs. 11 DSGVO. Output: Revisionsplan mit Trigger-Liste Änderungsanalyse Risikoreassessment und Versionshistorie."
 ---
 
-# DSFA Update bei Aenderungen und Revision
+# DSFA Update bei Änderungen und Revision
 
 ## Wann dieses Modul hilft
 
-- Bei Aenderung der Zwecke einer Verarbeitung
+- Bei Änderung der Zwecke einer Verarbeitung
 - Bei neuem Auftragsverarbeiter oder Sub-Auftragsverarbeiter
 - Bei neuem Drittlandtransfer
 - Bei neuer Technologie (KI-Modul, Biometrie)
 - Bei neuer Datenkategorie oder neuem Betroffenenkreis
 - Bei aktualisierter Rechtsprechung oder Aufsichtsbehoerdenpraxis
 - Bei wesentlich erweiterter Datenmenge oder Aufbewahrungsfrist
-- Bei Vorfall (Art. 33 Datenpanne) — Risikobewertung neu ueberpruefen
+- Bei Vorfall (Art. 33 Datenpanne) — Risikobewertung neu überprüfen
 
 ## Rechtlicher Rahmen
 
-- Art. 35 Abs. 11 DSGVO: Der Verantwortliche fuehrt erforderlichenfalls eine Ueberpruefung durch, um zu bewerten, ob die Verarbeitung gemäß der DSFA durchgefuehrt wird; dies gilt zumindest, wenn sich das mit den Verarbeitungsvorgaengen verbundene Risiko aendert.
+- Art. 35 Abs. 11 DSGVO: Der Verantwortliche fuehrt erforderlichenfalls eine Überprüfung durch, um zu bewerten, ob die Verarbeitung gemäß der DSFA durchgefuehrt wird; dies gilt zumindest, wenn sich das mit den Verarbeitungsvorgaengen verbundene Risiko ändert.
 - Art. 5 Abs. 2 DSGVO Rechenschaftspflicht — Versionshistorie und Begruendung der Re-Prüfung.
-- Art. 30 DSGVO Verarbeitungsverzeichnis — Aenderungen sind dort zu spiegeln.
+- Art. 30 DSGVO Verarbeitungsverzeichnis — Änderungen sind dort zu spiegeln.
 - EDSA-Leitlinien WP 248 rev.01.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Aktuellen Stand der Verarbeitung erfassen und mit der dokumentierten DSFA-Version vergleichen.
-2. **Verhaeltnismaessigkeitspruefung.** Aenderung wesentlich? Schwellenwerte:
+2. **Verhältnismäßigkeitspruefung.** Änderung wesentlich? Schwellenwerte:
  - Neue oder weggefallene Zweck
  - Neue Datenkategorie
  - Neue Empfaenger oder neuer Drittlandtransfer
@@ -95,19 +95,19 @@ Versionshistorie
 
 ## Empfohlene Revisionsfrequenz
 
-- Routine-Revision: einmal jaehrlich, dokumentiert auch wenn keine Aenderung
+- Routine-Revision: einmal jaehrlich, dokumentiert auch wenn keine Änderung
 - Anlassbezogene Revision: unverzueglich nach Trigger
 - KI-Verarbeitungen: alle 6 Monate (wegen Modell- und Datenaenderungen)
-- Beschaeftigtenverarbeitungen bei BetrVG-Tatbestand: nach jeder Betriebsvereinbarung
+- Beschäftigtenverarbeitungen bei BetrVG-Tatbestand: nach jeder Betriebsvereinbarung
 - Drittlandtransfer: nach jedem Schrems-Folgeurteil oder EDSA-Update
 
 ## Typische Fehler
 
 - DSFA wird einmal erstellt und nie aktualisiert — Verstoss gegen Art. 35 Abs. 11 DSGVO.
-- Aenderungen werden im Original-Dokument ueberschrieben — Versionshistorie geht verloren.
+- Änderungen werden im Original-Dokument ueberschrieben — Versionshistorie geht verloren.
 - Routine-Revision wird unterlassen, weil sich nichts geaendert hat — ohne Dokumentation kein Nachweis.
 - Trigger werden nicht in das Change-Management-Verfahren integriert.
-- Nach Datenpanne (Art. 33) wird die DSFA nicht ueberprueft.
+- Nach Datenpanne (Art. 33) wird die DSFA nicht überprüft.
 - KI-Modellupdate wird nicht als Trigger erkannt.
 
 ## Quellen Stand 06/2026

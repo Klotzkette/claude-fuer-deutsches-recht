@@ -99,20 +99,20 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `anschluss-routing` | Anschluss-Routing für Common Law Kompass: wählt den nächsten Spezial-Skill nach Engpass (Statutes of Limitations je Jurisdiction, Pleadings, Discovery requests, Affidavits), dokumentiert Router-Entscheidung mit Begründung. |
-| `begriffe-uebersetzung-bilingual-contract` | Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrecht... |
+| `begriffe-uebersetzung-bilingual-contract` | Deutscher Anwalt übersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrecht... |
 | `bilingual-contract-review` | Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitio... |
 | `bilinguale-client-commercial-sonderfall` | Bilinguale: Compliance-Dokumentation und Aktenvermerk. |
-| `cl-discovery-doc-production-spezial` | Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster für deutsche Mandanten in US-Verfahren im Common Law Kompass. |
+| `cl-discovery-doc-production-spezial` | Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Prüfraster für deutsche Mandanten in US-Verfahren im Common Law Kompass. |
 | `cl-mandantenuebersicht-cl-prozesskostenrisiko` | Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz E... |
-| `cl-prozesskostenrisiko-each-party-bears-own` | Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse im C... |
-| `cl-spezial-precedent-vs-statute` | Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster für Vergleich mit deutscher Methode und Beispiel-Faelle im Common... |
+| `cl-prozesskostenrisiko-each-party-bears-own` | Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Prüfraster für Mandanten-Risikoanalyse im C... |
+| `cl-spezial-precedent-vs-statute` | Spezialfall Precedent gegen Statute: Verhältnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Prüfraster für Vergleich mit deutscher Methode und Beispiel-Faelle im Common... |
 | `cl-vertragsklauseln-vertragsbegriffe-cl` | Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und... |
 | `client-explainer` | Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punk... |
 | `client-mandantenkommunikation-entscheidungsvorlage` | Client: Mandantenkommunikation und Entscheidungsvorlage. |

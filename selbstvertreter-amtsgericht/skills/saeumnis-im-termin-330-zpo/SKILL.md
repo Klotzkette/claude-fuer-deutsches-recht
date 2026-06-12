@@ -45,7 +45,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 - Gericht prüft Schluessigkeit der Klage; bei Schluessigkeit: VU.
 - Bei Unschluessigkeit: Klageabweisung (gegen Kläger).
 
-#### Saeumnis des Klaegers (§ 330 ZPO):
+#### Saeumnis des Klägers (§ 330 ZPO):
 
 - Beklagter stellt Antrag auf VU.
 - Klageabweisung durch VU.
@@ -61,7 +61,7 @@ Wenn Sie im Termin nicht erscheinen oder erscheinen und nicht verhandeln, sind S
 
 Sofort beim Gericht melden:
 
-- Geschaeftsstelle anrufen.
+- Geschäftsstelle anrufen.
 - Erklaerung warum Sie nicht erscheinen konnten.
 - Bitte um Verlegung oder Termin nach Saeumnis.
 

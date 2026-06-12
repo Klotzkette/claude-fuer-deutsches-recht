@@ -1,6 +1,6 @@
 ---
 name: ueberwachung-streubreite-vorratsdaten-rasterfahndung
-description: "Sicherheits- und Ueberwachungsmassnahmen verhaeltnismaessig pruefen: Streubreite, Anlasslosigkeit, Eingriffstiefe, Zweckbindung, Transparenz, Richtervorbehalt und Loeschung nach Rasterfahndung, Online-Durchsuchung und Vorratsdatenspeicherung."
+description: "Sicherheits- und Ueberwachungsmassnahmen verhältnismäßig prüfen: Streubreite, Anlasslosigkeit, Eingriffstiefe, Zweckbindung, Transparenz, Richtervorbehalt und Loeschung nach Rasterfahndung, Online-Durchsuchung und Vorratsdatenspeicherung."
 ---
 
 # Überwachung: Streubreite, Vorratsdaten, Rasterfahndung
@@ -21,7 +21,7 @@ description: "Sicherheits- und Ueberwachungsmassnahmen verhaeltnismaessig pruefe
 - BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): heimliche IT-Zugriffe verlangen hohe Eingriffsschwellen und Verfahrenssicherungen.
 - BVerfG, Urteil vom 02.03.2010, 1 BvR 256/08, 1 BvR 263/08, 1 BvR 586/08, BVerfGE 125, 260 (Vorratsdatenspeicherung): Anlasslose Speicherung ist wegen Streubreite und Missbrauchsrisiko nur unter strengen Sicherungen denkbar.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Rasterfahndung, 04.04.2006, 1 BvR 518/02: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/04/rs20060404_1bvr051802.html`
 - Vorratsdatenspeicherung, 02.03.2010, 1 BvR 256/08 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/03/rs20100302_1bvr025608.html`

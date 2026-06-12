@@ -58,10 +58,10 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 ## Praktikertipps Verteidigung
 
-- **Genehmigungslage gruendlich rekonstruieren.** Kopien aller Bescheide, Aenderungsgenehmigungen, Nebenbestimmungen. Verfahrensakten der Genehmigungsbehoerde anfordern.
+- **Genehmigungslage gruendlich rekonstruieren.** Kopien aller Bescheide, Änderungsgenehmigungen, Nebenbestimmungen. Verfahrensakten der Genehmigungsbehoerde anfordern.
 - **Genehmigungsbeduerftigkeit prüfen.** Liegt die Anlage im Anwendungsbereich der 4. BImSchV? Werden Schwellenwerte (z. B. Durchsatz, Behaeltergroesse) ueberschritten? Bei Schwellenwertueberschreitung muss neue Genehmigung beantragt werden.
 - **Wesentliche Abweichung bestreiten.** Substantiierte Darstellung, dass die Umstellung Umweltbelange nicht betraf. Sachverstaendigengutachten zur Immissionssituation vor und nach Umstellung.
-- **Verbotsirrtum.** Bei komplexen technischen Anlagen oft schwierige Abgrenzung zwischen genehmigungsbeduerftiger Aenderung und blossem Austausch. Beratung durch Umweltgutachter dokumentieren.
+- **Verbotsirrtum.** Bei komplexen technischen Anlagen oft schwierige Abgrenzung zwischen genehmigungsbeduerftiger Änderung und blossem Austausch. Beratung durch Umweltgutachter dokumentieren.
 - **Stilllegungsanordnung der Behörde abwarten.** Wenn die Behörde von Aufsichtsmoeglichkeiten Gebrauch macht, kann das Vertrauen geschuetzt sein.
 - **Verbandshaftung mitdenken.** Bei groesseren Unternehmen droht Geldbusse nach Paragraph 30 OWiG; Compliance-Argumente strukturieren.
 
@@ -69,7 +69,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 | Pfad A Bestreiten Genehmigungsbeduerftigkeit | Pfad B Gestaendnis Anlagenbetrieb, Bestreiten wesentliche Abweichung | Empfehlung |
 | --- | --- | --- |
-| Tragfaehig bei Anlagen am Rand der 4. BImSchV; Sachverstaendiger zur Auslegung. | Substantiierter technischer Vergleich vor/nach Aenderung; haeufig erfolgreich. | Bei klar genehmigungsbeduerftiger Anlage und nur kleiner Abweichung Pfad B bevorzugen. Reduziert Tatbestand oft auf OWi-Bereich. |
+| Tragfaehig bei Anlagen am Rand der 4. BImSchV; Sachverstaendiger zur Auslegung. | Substantiierter technischer Vergleich vor/nach Änderung; haeufig erfolgreich. | Bei klar genehmigungsbeduerftiger Anlage und nur kleiner Abweichung Pfad B bevorzugen. Reduziert Tatbestand oft auf OWi-Bereich. |
 
 ## Konkurrenzen
 
@@ -94,7 +94,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines anerkannten Immissionsschutzgutachters einzuholen zum Beweis der Tatsache, dass die durchgefuehrte Umstellung die Immissionssituation nicht relevant veraendert hat und damit keine wesentliche Abweichung im Sinne von Paragraph 327 Abs 2 Nr 1 StGB darstellt."
 
-**Einlassungs-Snippet (Verbotsirrtum):** "Ich habe vor der Umstellung am DD.MM.JJJJ den Umweltgutachter X um eine schriftliche Einschaetzung gebeten (Anlage U 1). Dieser hat mir mitgeteilt, dass die Aenderung lediglich anzeigepflichtig nach Paragraph 15 BImSchG, nicht jedoch genehmigungsbeduerftig sei. Ich habe deshalb keine neue Genehmigung beantragt."
+**Einlassungs-Snippet (Verbotsirrtum):** "Ich habe vor der Umstellung am DD.MM.JJJJ den Umweltgutachter X um eine schriftliche Einschaetzung gebeten (Anlage U 1). Dieser hat mir mitgeteilt, dass die Änderung lediglich anzeigepflichtig nach Paragraph 15 BImSchG, nicht jedoch genehmigungsbeduerftig sei. Ich habe deshalb keine neue Genehmigung beantragt."
 
 ## Quellen Stand 06/2026
 

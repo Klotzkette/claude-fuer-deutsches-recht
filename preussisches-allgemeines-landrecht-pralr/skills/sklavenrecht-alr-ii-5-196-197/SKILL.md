@@ -1,15 +1,15 @@
 ---
 name: sklavenrecht-alr-ii-5-196-197
-description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzun..."
+description: "Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schlüsselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzun..."
 ---
 
 # Sklavenrecht im ALR — ALR II 5 §§ 196 ff.
 
 ## Norm und Kontext
 
-ALR Zweiter Teil, Fuenfter Titel (Vom Gesinde) enthaelt mehrere Bestimmungen zum Status auslaendischer Sklaven, die nach Preussen gelangen. Sie zaehlen zu den beruehmten Stellen des ALR und werden in der Diskussion um das "free soil"-Prinzip Europas regelmaessig zitiert.
+ALR Zweiter Teil, Fuenfter Titel (Vom Gesinde) enthaelt mehrere Bestimmungen zum Status ausländischer Sklaven, die nach Preussen gelangen. Sie zaehlen zu den beruehmten Stellen des ALR und werden in der Diskussion um das "free soil"-Prinzip Europas regelmaessig zitiert.
 
-### Schluesselparagraphen (Wortlaut sinngemäß)
+### Schlüsselparagraphen (Wortlaut sinngemäß)
 
 - **ALR II 5 § 196**: "Sklaverei soll in den koeniglichen Staaten nicht geduldet werden."
 - **ALR II 5 § 197**: "Sklaven, welche aus auswaertigen Ländern in die koeniglichen Staaten gebracht werden, sind, sobald sie die Grenze ueberschreiten, für frei zu erklaeren."
@@ -43,14 +43,14 @@ Spaetere Akte:
 - **Edikt zur Aufhebung der Erbuntertaenigkeit** (sog. Oktoberedikt vom **09.10.1807**) hob die preussische Gutsuntertaenigkeit auf — innerpreussische "Leibeigenschaft" entfaellt.
 - **Gesetz vom 09.03.1857**: Bestaetigung und Schaerfung des Verbots der Sklaverei.
 
-## Verhaeltnis zu BGB / GG / Voelkerrecht
+## Verhältnis zu BGB / GG / Voelkerrecht
 
 - **Art. 1 Abs. 1 GG, Art. 2 Abs. 2 GG**: Menschenwuerde und koerperliche Unversehrtheit als heutige Anker.
 - **§ 138 Abs. 1 BGB**: ein Sklaverei-Vertrag ist sittenwidrig und nichtig.
 - **Art. 4 EMRK**: Verbot der Sklaverei.
 - **§ 233 StGB**: Menschenhandel.
 
-## Pruefraster
+## Prüfraster
 
 1. Historische Fragestellung oder lebende Frage?
 2. Quelle: ALR II 5 §§ 196 ff. (Wortlaut im Digitalisat verifizieren).

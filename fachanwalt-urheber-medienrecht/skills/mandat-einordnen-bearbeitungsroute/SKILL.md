@@ -88,7 +88,7 @@ KI-Training und Text-Data-Mining?
 - [ ] Widerspruch gegen einstweilige Verfuegung: 14 Tage (§ 924 ZPO)
 - [ ] Verjährung Urheberrecht: 3 Jahre (§§ 195, 199 BGB; § 102 UrhG)
 
-## Uebergabe
+## Übergabe
 
 - Bei markenrechtlichen Aspekten: Plugin `gewerblicher-rechtsschutz` / `fachanwalt-gewerblicher-rechtsschutz`.
 - Bei Verlagsvertraegen: Plugin `verlagsredaktion`.

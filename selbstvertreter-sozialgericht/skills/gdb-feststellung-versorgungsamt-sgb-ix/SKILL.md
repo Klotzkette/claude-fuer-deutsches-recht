@@ -53,7 +53,7 @@ description: "GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill kla
 - Inhaltlich GdB-Werte ruegen mit Beweisangeboten.
 - Nachuntersuchung mit Privatgutachten als Beweisbaustein.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher GdB beantragt?
 2. Welche Merkzeichen?

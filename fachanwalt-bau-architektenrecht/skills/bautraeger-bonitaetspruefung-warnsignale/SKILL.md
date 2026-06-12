@@ -44,7 +44,7 @@ description: "Bautraeger-Bonitaetspruefung Warnsignale: Skill listet typische Wa
 2. Anwalt einschalten.
 3. Andere Erwerber kontaktieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Warnsignale?
 2. Risiko-Höhe?

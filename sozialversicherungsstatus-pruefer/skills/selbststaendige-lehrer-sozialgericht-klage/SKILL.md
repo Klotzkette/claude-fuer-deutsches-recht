@@ -1,6 +1,6 @@
 ---
 name: selbststaendige-lehrer-sozialgericht-klage
-description: "Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Pruefer."
+description: "Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus im Sozialversicherungsstatus Prüfer."
 ---
 
 # Selbständige Lehrer § 2 SGB VI

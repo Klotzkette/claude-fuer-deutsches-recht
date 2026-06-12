@@ -1,6 +1,6 @@
 ---
 name: leistungsschutz-kuenstler-label
-description: "Prueft Rechte ausübender Künstler, Produzenten, Tonträgerhersteller, Sendeunternehmen und Bild-/Tonträgerrechte im Urheberrecht De Eu."
+description: "Prüft Rechte ausübender Künstler, Produzenten, Tonträgerhersteller, Sendeunternehmen und Bild-/Tonträgerrechte im Urheberrecht De Eu."
 ---
 
 # Leistungsschutzrechte Künstler und Label

@@ -1,6 +1,6 @@
 ---
 name: gmbh-co-gruppenfeststellung-gleichartige
-description: "Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung im Sozialversicherungsstatus Prüfer."
 ---
 
 # GmbH & Co. KG Kommanditist/GF

@@ -13,7 +13,7 @@ description: "Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfer
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist Leichtfertigkeit gegeben (grobe Fahrlaessigkeit nach OWiG-Massstab)?
+1. Ist Leichtfertigkeit gegeben (grobe Fahrlaessigkeit nach OWiG-Maßstab)?
 2. Kann Vorsatz § 370 AO ausgeschlossen werden — Schweigerecht beachten?
 3. Greift Selbstanzeige nach § 378 Abs. 3 AO (Wirksamkeit wenn keine Sperrgruende)?
 4. Welche Bussgeldhoehe droht nach § 17 OWiG iVm § 378 AO?

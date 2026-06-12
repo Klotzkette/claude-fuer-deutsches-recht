@@ -25,10 +25,10 @@ description: "Macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen
 
 Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtswahl, oft Frankfurt oder Muenchen) lesen sich wie reines Vertragsrecht. In Wirklichkeit laeuft der gesamte BGB-Allgemeine-Teil und das Schuldrecht AT in jeder Klausel mit. Wer das ueberliest, baut Verträge, die im Streit nicht halten. Klassische Aussage von M&A-Anwaelten: "Wir machen Vertragsrecht, BGB AT spielt keine Rolle." Das ist falsch und produziert vorhersehbare Fehler.
 
-## Pruefraster vor jedem Vertragsentwurf und jedem Markup
+## Prüfraster vor jedem Vertragsentwurf und jedem Markup
 
 1. **Form, § 125 BGB, § 311b BGB, § 15 Abs. 3 und Abs. 4 GmbHG:** Reicht Schriftform oder Textform, oder ist notarielle Beurkundung erforderlich? Ein SPA über GmbH-Anteile ist nach § 15 Abs. 4 GmbHG insgesamt beurkundungsbeduerftig, also auch alle Nebenabreden, die mit der Anteilsuebertragung "stehen und fallen" (Einheitstheorie). Ein Side Letter, der wirtschaftlich Teil des Deals ist, gehoert mit zur Urkunde.
-2. **Stellvertretung, §§ 164 ff. BGB:** Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei auslaendischen Beteiligten Legalisation oder Apostille? Insichgeschaeft nach § 181 BGB ausgeschlossen? Bei GmbH-Geschaeftsfuehrer prüfen, ob die Satzung ihn von § 181 BGB befreit.
+2. **Stellvertretung, §§ 164 ff. BGB:** Wer unterzeichnet im Namen wessen? Vollmacht im Original? Bei ausländischen Beteiligten Legalisation oder Apostille? Insichgeschaeft nach § 181 BGB ausgeschlossen? Bei GmbH-Geschäftsführer prüfen, ob die Satzung ihn von § 181 BGB befreit.
 3. **Bedingung, §§ 158 ff. BGB:** CPs im SPA sind aufschiebende Bedingungen. § 162 BGB (treuwidrige Bedingungsvereitelung oder Herbeifuehrung) wirkt zwingend und kann nicht durch "endeavours"-Klauseln ausgehebelt werden. Long-Stop-Date ist eine Befristung, keine Bedingung.
 4. **AGB-Kontrolle, §§ 305 ff. BGB:** Auch im B2B-Verkehr gilt §§ 305 ff. BGB. Wenn das Term Sheet oder der SPA von einer Seite gestellt wird und nicht im Einzelnen ausgehandelt ist (§ 305 Abs. 1 Satz 3 BGB), sind die Klauseln einer Inhaltskontrolle über § 307 BGB ausgesetzt. Besonders kritisch: weitreichende Haftungsbeschraenkungen, Indemnities mit pauschalen Hoechstgrenzen, einseitige MAC-Klauseln.
 5. **Treu und Glauben, § 242 BGB:** Auslegung nach §§ 133, 157 BGB. "Reasonable efforts", "best efforts", "commercially reasonable efforts" werden im deutschen Recht über § 242 BGB konkretisiert. Es gibt keine in Stein gemeisselte Bedeutung; die Vertragspraxis muss den Inhalt definieren oder akzeptieren, dass § 242 BGB ihn definiert.
@@ -40,8 +40,8 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 
 ## Typische M&A-Fallen, die BGB AT betreffen
 
-- **Side Letter neben dem SPA, der wirtschaftlich Teil des Deals ist:** § 15 Abs. 4 GmbHG verlangt Beurkundung der gesamten Abrede. Heilung durch nachtraegliche Beurkundung des Geschaeftsanteilskaufs nach § 15 Abs. 4 Satz 2 GmbHG nur in engen Grenzen.
-- **Englischsprachige Vollmacht eines auslaendischen Investors:** Apostille fehlt, Vollmacht ist im Original nicht vorgelegt, § 174 BGB greift, Erklaerung kann zurueckgewiesen werden.
+- **Side Letter neben dem SPA, der wirtschaftlich Teil des Deals ist:** § 15 Abs. 4 GmbHG verlangt Beurkundung der gesamten Abrede. Heilung durch nachtraegliche Beurkundung des Geschäftsanteilskaufs nach § 15 Abs. 4 Satz 2 GmbHG nur in engen Grenzen.
+- **Englischsprachige Vollmacht eines ausländischen Investors:** Apostille fehlt, Vollmacht ist im Original nicht vorgelegt, § 174 BGB greift, Erklaerung kann zurueckgewiesen werden.
 - **"Best efforts" ohne Definition:** Auslegung über § 242 BGB; das Ergebnis ist in der Regel sachlicher und niedriger als das, was die englische Rechtspraxis darunter versteht.
 - **CP-Vereitelung:** Der Verkaeufer unterlaesst Handlungen, die zum CP-Eintritt fuehren wuerden. § 162 BGB fingiert den Eintritt. Wirkt zwingend, jedes "exclusive remedy"-Wording dagegen ist unwirksam.
 - **MAC-Klausel als AGB:** Wenn die MAC-Klausel von einer Seite gestellt und nicht ausgehandelt ist, droht § 307 BGB-Inhaltskontrolle.
@@ -59,7 +59,7 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 ## Quellen
 
 - § 125 BGB, § 138 BGB, § 158 BGB, § 162 BGB, § 164 BGB, § 181 BGB, § 242 BGB, § 305 BGB, § 307 BGB, § 311b BGB, § 444 BGB.
-- § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschaeftsanteilskauf, Einheitstheorie).
+- § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschäftsanteilskauf, Einheitstheorie).
 - BGH, Urt. v. 14.04.1986 - II ZR 155/85 zur Beurkundungspflicht der Nebenabreden nach § 15 Abs. 4 GmbHG (Vollstaendigkeitsgrundsatz/Einheitstheorie).
 - BGH, Urt. v. 27.06.2001 - VIII ZR 329/99 (NJW 2002, 142) zur Reichweite der Beurkundungspflicht auf alle Nebenabreden, die nach dem Willen der Parteien Bestandteil der Verpflichtung zur Anteilsuebertragung sein sollen.
 - BGH, Urt. v. 22.10.2015 - VII ZR 58/14 zur AGB-Kontrolle im unternehmerischen Verkehr (§§ 305 ff., § 307 BGB auch zwischen Unternehmern).

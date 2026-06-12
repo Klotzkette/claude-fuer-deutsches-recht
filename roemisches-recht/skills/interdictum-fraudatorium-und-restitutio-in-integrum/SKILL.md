@@ -1,6 +1,6 @@
 ---
 name: interdictum-fraudatorium-und-restitutio-in-integrum
-description: "Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix im Römisches Recht."
+description: "Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Gläubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
@@ -16,20 +16,20 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 ## Interdictum fraudatorium
 
 - Praetorisches Eilinstrument zur Sicherung des Status quo.
-- Inhalt: der Praetor verbietet dem Empfaenger des fraudulenten Vermoegens die weitere Verfuegung.
+- Inhalt: der Praetor verbietet dem Empfaenger des fraudulenten Vermögens die weitere Verfuegung.
 - D. 42.8 ergaenzt um diese Verfahrensseite.
 
 ## Restitutio in integrum
 
 - "Wiedereinsetzung in den vorigen Stand".
-- Praetorisches Gesamtinstitut, das den Schuldigen oder Geschaedigten in seinen vorherigen Vermoegenszustand zurueckversetzt.
-- Faelle: minderjaehriger Vertragspartner (ob aetatem), arglistige Taeuschung (ob dolum), Furcht (ob metum), Glaeubigerbenachteiligung (ob fraudem).
+- Praetorisches Gesamtinstitut, das den Schuldigen oder Geschaedigten in seinen vorherigen Vermögenszustand zurueckversetzt.
+- Faelle: minderjaehriger Vertragspartner (ob aetatem), arglistige Taeuschung (ob dolum), Furcht (ob metum), Gläubigerbenachteiligung (ob fraudem).
 - D. 4.6 (De in integrum restitutionibus).
 
 ## Verzahnung
 
 - Restitutio in integrum ob fraudem ist die uebergeordnete Lehre.
-- Actio Pauliana ist die spezifische Aktion für Glaeubigeranfechtung.
+- Actio Pauliana ist die spezifische Aktion für Gläubigeranfechtung.
 - Interdictum fraudatorium sichert den Anspruch waehrend der Verfahrensdauer.
 
 ## Vergleich zu modernem Recht
@@ -38,8 +38,8 @@ description: "Interdictum fraudatorium und restitutio in integrum: weitere praet
 - Anfechtungsklage nach AnfG als Hauptverfahren.
 - Restitutio-Wirkung in § 143 InsO (Rueckgewaehrungsanspruch nach Insolvenzanfechtung).
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Instrument einschlaegig?
-2. Schutzbedarf wegen Vermoegensentzug?
+2. Schutzbedarf wegen Vermögensentzug?
 3. Beweislage hinreichend?

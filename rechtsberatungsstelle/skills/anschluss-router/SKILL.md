@@ -111,7 +111,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 |---|---|
 | `anleiter-pruefwarteschlange` | Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen. Nur aktiv, wenn das Supervisionsmodell "formelle… |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte… |
-| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite… |
+| `einfache-sprache-briefe` | Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behörde Gericht oder Gegenseite… |
 | `entwurf` | Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6… |
 | `formular-erzeugung` | Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behörde oder Gericht. BeratungsHiG Beratungsschein,… |
 | `fristen` | Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard:… |
@@ -130,7 +130,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Plugin unterstuetzt studentische und gemeinnuetzige Rechtsberatungsstellen bei der RDG-konformen Durchfuehrung ihrer Beratungsarbeit. Es bildet den gesamten Lebenszyklus eines Mandats ab: von der Erstaufnahme über die rechtliche Analyse und Schriftstueckerstellung bis zur sauberen Semesteruebergabe.
 
-Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Pruefwarteschlange.
+Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rechtsanwaelte. Die Beratungsleistung muss im Rahmen der nach § 6 RDG erlaubten unentgeltlichen Rechtsdienstleistungen bleiben. Alle wesentlichen Dokumente beduerften einer Anleiter-Freigabe. Das Plugin beruecksichtigt diese Aufsichtsstruktur mit einer optionalen Prüfwarteschlange.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -148,7 +148,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **Anleiter** — Zugelassener Rechtsanwalt, der die Aufsicht über Studierende fuehrt und Arbeitsergebnisse freigibt.
 - **Gutachtenmethode** — Juristische Analyse nach dem Schema Obersatz - Norm/Definition - Subsumtion - Ergebnis.
 - **Interessenkonflikt** — Situation, in der Berater oder Kanzlei bereits die Gegenpartei vertreten; muss vor Mandatsannahme geprueft werden (§ 43a Abs. 4 BRAO entsprechend).
-- **Pruefwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
+- **Prüfwarteschlange** — Optionale Aufsichtsstruktur, in der Arbeitsergebnisse auf Anleiter-Freigabe warten, bevor sie den Mandanten oder Gerichten zugehen.
 
 ## Rechtsgrundlagen
 
@@ -166,13 +166,13 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 2. Neue Studierende einarbeiten (Semester-Start).
 3. Mandanten aufnehmen: Sachverhalt, Fristen, Interessenkonflikt und Beratungsberechtigung prüfen.
 4. Passenden Skill auswaehlen (Memo, Entwurf, Mandantenbrief, einfache Sprache, Formular).
-5. Ergebnis in Pruefwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
+5. Ergebnis in Prüfwarteschlange stellen; nach Anleiter-Freigabe versenden oder weitergeben.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `anleiter-pruefwarteschlange` — Supervisoren-Pruefwarteschlange für studentische Arbeitsergebnisse vor Anleiter-Freigabe.
+- `anleiter-pruefwarteschlange` — Supervisoren-Prüfwarteschlange für studentische Arbeitsergebnisse vor Anleiter-Freigabe.
 - `einarbeitung` — Semestereinarbeitung für neue studentische Berater mit RDG-Grundlagen und Toolwalkthrough.
-- `einfache-sprache-briefe` — Anwalts- und Behördenbriefe in leichte oder einfache Sprache uebersetzen für Mandanten mit sprachlichen Einschraenkungen.
+- `einfache-sprache-briefe` — Anwalts- und Behördenbriefe in leichte oder einfache Sprache übersetzen für Mandanten mit sprachlichen Einschraenkungen.
 - `entwurf` — Erstentwurf haeufiger Schriftstuecke (Widerspruch, Mietrechtsbrief, Klageschrift im Beratungshilfe-Kontext).
 - `formular-erzeugung` — Formulare und Antragsdokumente für Behörden oder Gerichte erstellen.
 - `fristen` — Fristenmanagement für laufende Mandate mit Warnschwellen und Eskalation.
@@ -184,7 +184,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - `recherche-start` — Recherchefahrplan für eine Rechtsfrage mit Normen, Rechtsprechungsbereichen und Suchbegriffen.
 - `rechtsberatungsstelle-anpassen` — Plugin an spezifische Hochschule, Rechtsgebiete und Verfahrensregeln anpassen.
 - `rechtsberatungsstelle-kaltstart-interview` — Erst-Konfiguration des Plugins mit Hochschule, Anleiter und Beratungsregeln.
-- `semester-uebergabe` — Semesterabschluss-Uebergabe laufender Mandate mit Uebergabenotizen und Gesamtuebersicht.
+- `semester-uebergabe` — Semesterabschluss-Übergabe laufender Mandate mit Übergabenotizen und Gesamtuebersicht.
 - `status` — Fallstatuszusammenfassung mandantengerichtet, intern oder gerichts-/behoerdengerichtet erstellen.
 
 ## Worauf besonders achten
@@ -192,7 +192,7 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - **RDG-Grenze einhalten**: Studierende dürfen keine individualrechtliche Beratung ausserhalb des § 6 RDG-Rahmens erbringen; Abgrenzung zu anwaltlicher Taetigkeit ist essentiell.
 - **Anleiter-Freigabe vor Versand**: Kein Schriftstuck und kein Mandantenbrief verlasst die Beratungsstelle ohne Anleiter-Freigabe.
 - **Fristen besonders beobachten**: Versaeumte Fristen können den Mandanten seinen Anspruch kosten; der Fristen-Skill muss regelmaessig abgerufen werden.
-- **Mandatsgeheimnis bei Semesteruebergabe**: Uebergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
+- **Mandatsgeheimnis bei Semesteruebergabe**: Übergabenotizen dürfen nur mit dem Einverstaendnis des Mandanten weitergegeben werden.
 - **Dokumentation datenschutzkonform**: Mandantendaten duerften nicht in nicht-genehmigten KI-Systemen verarbeitet werden.
 
 ## Typische Fehler
@@ -200,8 +200,8 @@ Besonderheit gegenueber Anwaltsplugins: Studierende sind keine zugelassenen Rech
 - Interessenkonfliktpruefung vergessen: Zwei Studierende aus derselben Kohorte beraten unwissentlich Parteien desselben Konflikts.
 - Memo als fertige Rechtsberatung weitergeben statt als Analyse-Grundlage für den Anleiter.
 - Fristenliste nicht aktuell halten; Fristaenderungen durch Gericht werden nicht eingetragen.
-- Bei der Semesteruebergabe Mandate ohne Uebergabenotiz an Nachfolgekohorte weitergeben.
-- Einfache-Sprache-Uebersetzung nicht auf Richtigkeit prüfen lassen; Vereinfachungen können Rechtsinhalte veraendern.
+- Bei der Semesteruebergabe Mandate ohne Übergabenotiz an Nachfolgekohorte weitergeben.
+- Einfache-Sprache-Übersetzung nicht auf Richtigkeit prüfen lassen; Vereinfachungen können Rechtsinhalte veraendern.
 
 ## Quellen und Aktualitaet
 

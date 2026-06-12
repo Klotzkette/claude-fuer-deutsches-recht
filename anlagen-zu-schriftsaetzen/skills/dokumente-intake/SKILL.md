@@ -27,7 +27,7 @@ Dieser Dokumenten-Intake für **Anlagen Zu Schriftsaetzen** ordnet Anlagen, Regi
 
 - `anlage-fehlerkatalog` — Anlage Fehlerkatalog
 - `anlage-red-anlagen-anlagenkonvolut-sonderfall` — Anlage RED Anlagen Anlagenkonvolut Sonderfall
-- `anlagen-an-assistenz-uebersetzungspflicht` — Anlagen AN Assistenz Uebersetzungspflicht
+- `anlagen-an-assistenz-uebersetzungspflicht` — Anlagen AN Assistenz Übersetzungspflicht
 - `anlagen-aus-datenraum-und-sharepoint` — Anlagen AUS Datenraum und Sharepoint
 - `anlagen-aus-edv-systemen` — Anlagen AUS EDV Systemen
 - `anlagen-aus-mandantenmaterial` — Anlagen AUS Mandantenmaterial

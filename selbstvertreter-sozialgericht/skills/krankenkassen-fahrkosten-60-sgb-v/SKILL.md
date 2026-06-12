@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-fahrkosten-60-sgb-v
-description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Pruefraster."
+description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen für ambulante Behandlungen. Liefert Prüfraster."
 ---
 
 # Krankenkassen Fahrkosten 60 Sgb V
@@ -41,7 +41,7 @@ description: "Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die K
 - Bei Eigenauslage: zeitnahe Erstattung mit Belegen.
 - Kilometerpauschale 0.20 Euro/km.
 
-## Pruefraster
+## Prüfraster
 
 1. Stationaer oder ambulant?
 2. Zwingende medizinische Notwendigkeit?

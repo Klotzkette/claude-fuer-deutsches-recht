@@ -1,6 +1,6 @@
 ---
 name: mechanical-licensing-motion-picture-music
-description: "Prueft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis im Us Copyright Registrierung Verlag."
+description: "Prüft MLC-Prozesse, blanket license, unmatched royalties, claiming, publisher splits und deutsche Verlagspraxis im Us Copyright Registrierung Verlag."
 ---
 
 # Mechanical Licensing Collective MLC

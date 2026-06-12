@@ -23,7 +23,7 @@ description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverha
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Massstab für Sachverhaltswuerdigung
+- §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Maßstab für Sachverhaltswuerdigung
 - § 195 BGB — Regelverjaehrung 3 Jahre: Zeitstrahl-Relevanz bei Klage/Mahnung/Verjährungsbeginn
 - § 199 BGB — Verjährungsbeginn: Kenntnis und grob fahrlässige Unkenntnis
 - § 204 BGB — Hemmung der Verjährung durch Rechtsverfolgung

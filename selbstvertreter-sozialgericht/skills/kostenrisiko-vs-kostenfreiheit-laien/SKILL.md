@@ -13,7 +13,7 @@ description: "Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit �
 
 ## Worum geht es?
 
-Viele Buerger fragen sich: was kostet die Klage am Ende? Diese Skill gibt einen klaren Ueberblick — was bezahlen Sie, was nicht.
+Viele Buerger fragen sich: was kostet die Klage am Ende? Diese Skill gibt einen klaren Überblick — was bezahlen Sie, was nicht.
 
 ## In einfacher Sprache
 

@@ -1,6 +1,6 @@
 ---
 name: ius-suffragii-und-ius-honorum
-description: "Ius suffragii und ius honorum: politische Buergerrechte im roemischen Recht. Skill behandelt das Stimmrecht in den Volksversammlungen und die Wahlbarkeit zu Aemtern Einschraenkungen für Latini und Frauen sowie das Verhaeltnis zum status civitatis. Liefert Quellenmatrix."
+description: "Ius suffragii und ius honorum: politische Buergerrechte im roemischen Recht. Skill behandelt das Stimmrecht in den Volksversammlungen und die Wahlbarkeit zu Aemtern Einschraenkungen für Latini und Frauen sowie das Verhältnis zum status civitatis. Liefert Quellenmatrix."
 ---
 
 # Rom 155 Ius Suffragii Und Ius Honorum

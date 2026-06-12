@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-register-pruefen
-description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Last..."
+description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prüft Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Last..."
 ---
 
 # Offshore-Schiff – Registerprüfung
@@ -14,12 +14,12 @@ description: "Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drill
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prüft den Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten vor Auszahlung eines Kredits für ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
+Eine finanzierende Bank prüft den Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten vor Auszahlung eines Kredits für ein Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Gläubigerliste für die Masse.
 
 ## Erste Schritte
 1. Aktuellen Registerauszug (Seeschiffsregister; Bahamas/Isle of Man für Offshore-Flotten) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) prüfen; Verkaeufereigenschaft bestaetigen.
-3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
+3. Hypothekenabteilung (Abt. II): Betrag, Rang, Gläubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
 5. Arrest- und Pfaendungsvermerke sichten; Zeitpunkt der Eintragung beachten.
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.

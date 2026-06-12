@@ -1,6 +1,6 @@
 ---
 name: dba-frankreich-1959
-description: "DBA Deutschland Frankreich aus 1959 mit Aenderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-MA. Output Mandanten-Memo Grenzgaengernachweis BZSt-Hinweise..."
+description: "DBA Deutschland Frankreich aus 1959 mit Änderungsprotokollen. Anwendungsfall Pendler im Elsass und Lothringen Grenzgaengerregelung 20-km-Zone. Beteiligungen Pensionen Lizenzen. Aelteres DBA mit Sonderkonstruktionen abweichend vom OECD-MA. Output Mandanten-Memo Grenzgaengernachweis BZSt-Hinweise..."
 ---
 
 # DBA Deutschland-Frankreich (1959/Protokolle)
@@ -32,7 +32,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 
 ### Primaernormen
 
-- **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398) mit Aenderungsprotokollen: 09.06.1969, 28.09.1989, 20.12.2001, 31.03.2015 (BGBl. 2015 II S. 1332/1335).
+- **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398) mit Änderungsprotokollen: 09.06.1969, 28.09.1989, 20.12.2001, 31.03.2015 (BGBl. 2015 II S. 1332/1335).
 - **OECD-MA** zur Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Frankreich sind Unterzeichnerstaaten; MLI wirksam für DBA-FR ab 01.01.2025 (BGBl. 2025 II Nr. 5) — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
@@ -58,7 +58,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 ### Aktive Einkuenfte
 
 - Unternehmensgewinne (Art. 4).
-- **Grenzgaengerregelung** (Art. 13 Abs. 5 DBA-FR, erlaeutert durch Verwaltungsvereinbarung 16.02.2006): Arbeitnehmer mit Wohnsitz in der Grenzzone des einen Staats, Taetigkeitsort in der Grenzzone des anderen Staats, taegliche Rueckkehr — Besteuerung Wohnsitzstaat.
+- **Grenzgaengerregelung** (Art. 13 Abs. 5 DBA-FR, erläutert durch Verwaltungsvereinbarung 16.02.2006): Arbeitnehmer mit Wohnsitz in der Grenzzone des einen Staats, Taetigkeitsort in der Grenzzone des anderen Staats, taegliche Rueckkehr — Besteuerung Wohnsitzstaat.
 - Die Grenzzone wird in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt (konkrete Definition und aktuelle Gemeindelisten im BMF-Schreiben und DBA-Protokoll prüfen).
 - **Schaedlichkeitsschwelle Nicht-Rueckkehrtage**: in der Verwaltungsvereinbarung 16.02.2006 ist eine Tagesschwelle normiert (in der Literatur regelmaessig mit 45 Tagen pro Jahr referenziert) — **konkrete Schwelle aus Verwaltungsvereinbarung uebernehmen, nicht aus diesem Skill**.
 
@@ -171,7 +171,7 @@ Das DBA-Frankreich vom 21.07.1959 ist eines der aeltesten noch geltenden DBA Deu
 >
 > Schritt 3: Verbleibende deutsche Steuer = 2.637,50 - 1.280 = 1.357,50 EUR.
 >
-> Anmerkung: bei Ueberhang FR-Steuer > DBA-Hoechstsatz Erstattungsantrag mit Cerfa 5000/5001 an SIPNR Noisy-le-Grand; konkrete Saetze auf impots.gouv.fr verifizieren.
+> Anmerkung: bei Überhang FR-Steuer > DBA-Hoechstsatz Erstattungsantrag mit Cerfa 5000/5001 an SIPNR Noisy-le-Grand; konkrete Saetze auf impots.gouv.fr verifizieren.
 
 ## Quellen und Updates
 

@@ -1,6 +1,6 @@
 ---
 name: subsumtions-tatbestand-beweis-und-belege
-description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Subsumtions Pruefer."
+description: "Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Subsumtions Prüfer."
 ---
 
 # Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage

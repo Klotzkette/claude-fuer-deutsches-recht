@@ -1,6 +1,6 @@
 ---
 name: freie-zeiteinteilung
-description: "Prüft Zeitsouveränität, Dienstpläne, Kernzeiten, Deadlines, Verfügbarkeit und Abwesenheitsregeln im Sozialversicherungsstatus Pruefer."
+description: "Prüft Zeitsouveränität, Dienstpläne, Kernzeiten, Deadlines, Verfügbarkeit und Abwesenheitsregeln im Sozialversicherungsstatus Prüfer."
 ---
 
 # Freie Zeiteinteilung

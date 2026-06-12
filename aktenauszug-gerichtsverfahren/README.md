@@ -111,7 +111,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -122,10 +122,10 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `aktenauszug-strukturpruefung-akzg-bauleiter` | Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qual... |
 | `aktenauszug-tatbestand-beweis-und-belege` | Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `aktenauszug-verfahrensidentifikation-gericht` | Extrahiert strukturiert alle Verfahrensstammdaten: Gericht Kammer Aktenzeichen Streitwert Parteien (Kläger Beklagte Streithelfer mit Anschrift gesetzlicher Vertretung Prozessbevollmaechtigten) Instanz und Verfahrensart (Klage Eilverfahr... |
-| `akzg-aktenauszug-bauleiter` | Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren. |
-| `akzg-multiparteienverfahren-konsolidierung-spezial` | Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Pruefraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren. |
-| `akzg-vertraulichkeit-redaction-spezial` | Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Pruefraster für Akteneinsicht durch Dritte im Aktenauszug Gerichtsverfahren. |
-| `akzg-zeitstrahl-anlagenverzeichnis-extrakt` | Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster für Rechtsmittelinstanz im Aktenauszug Gerichtsverfahren. |
+| `akzg-aktenauszug-bauleiter` | Bauleiter Aktenauszug für Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Prüfraster Vollstaendigkeit für Berufung und Revision im Aktenauszug Gerichtsverfahren. |
+| `akzg-multiparteienverfahren-konsolidierung-spezial` | Spezialfall Multiparteienverfahren Konsolidierung mehrerer Akten und Streithelfer: Reihenfolge, Querverweise, Streitverkuendung. Prüfraster für Hauptaktenfuehrer im Aktenauszug Gerichtsverfahren. |
+| `akzg-vertraulichkeit-redaction-spezial` | Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Prüfraster für Akteneinsicht durch Dritte im Aktenauszug Gerichtsverfahren. |
+| `akzg-zeitstrahl-anlagenverzeichnis-extrakt` | Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Prüfraster für Rechtsmittelinstanz im Aktenauszug Gerichtsverfahren. |
 | `anlagenverzeichnis-extrakt` | Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigk... |
 | `anschluss-routing` | Anschluss-Routing für Aktenauszüge zivilgerichtlicher Verfahren: wählt den nächsten Spezial-Skill nach Engpass (Akteneinsicht im laufenden Verfahren jederzeit, Klageschrift, Klageerwiderung, Schriftsätze), dokumentiert Router-Entscheidun... |
 | `anwaltsschriftsatz-beweislast-beweismittel` | Anwaltsschriftsatz: Beweislast, Darlegungslast und Substantiierung. |
@@ -146,7 +146,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `neutralitaetspruefung` | Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherhe... |
 | `output-waehlen` | Output-Wahl für Aktenauszüge zivilgerichtlicher Verfahren: stimmt Adressat (Mandant, Gegenpartei, Gericht), Frist (Akteneinsicht im laufenden Verfahren jederzeit) und Form auf den Zweck ab — typische Outputs: Aktenauszug mit Inhaltsverze... |
 | `parteivortraege-compliance-dokumentation-und-akte` | Parteivortraege: Compliance-Dokumentation und Aktenvermerk. |
-| `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine... |
+| `parteivortrag-gegenueberstellung` | Erstellt eine Tabelle mit zwei Spalten (Klägerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine... |
 | `quellen-livecheck` | Quellen-Live-Check für Aktenauszüge zivilgerichtlicher Verfahren: prüft Normen (§ 299 ZPO Akteneinsicht, § 130a ZPO eA-Übermittlung, § 169 GVG Öffentlichkeit) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt AG/LG/... |
 | `rechtsargumente-gegenueberstellung` | Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt... |
 | `rechtsargumente-internationaler-bezug-und-schnittstellen` | Rechtsargumente: Internationaler Bezug und Schnittstellen. |

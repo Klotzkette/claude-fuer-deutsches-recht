@@ -1,6 +1,6 @@
 ---
 name: aircraft-arrest-airline-finanzielle
-description: "Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-V..."
+description: "Mandant will Flugzeug im Ausland arrestieren oder ausländischer Gläubiger arrestiert in Deutschland. Prüft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-V..."
 ---
 
 # Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest

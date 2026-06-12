@@ -1,6 +1,6 @@
 ---
 name: abschlussmemo-historische-tragfaehigkeit
-description: "Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prüft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt im Deutsche Rechtsgeschichte."
 ---
 
 # Abschlussmemo historische Tragfaehigkeit
@@ -38,13 +38,13 @@ Das Abschlussmemo historische Tragfaehigkeit ist ein Qualitaetssicherungsinstrum
 
 - **BVerfGE 62, 1 (1982)**: BVerfG-Methodik der historischen Auslegung
 - **BGB § 133**: Wille des Erklaerenden / Gesetzgebers als Auslegungsziel
-- **Mugdan, Materialien BGB** (1899): Massstab für BGB-historische Argumente
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab für historische Verfassungsargumente
-- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Massstab für DDR-Rechtsuebergangsargumente
+- **Mugdan, Materialien BGB** (1899): Maßstab für BGB-historische Argumente
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Maßstab für historische Verfassungsargumente
+- **Einigungsvertrag 1990 (BGBl. II 1990, 885)**: Maßstab für DDR-Rechtsuebergangsargumente
 
 ## Akteure und Institutionen
 
-- **BVerfG**: Pruefungsmassstab für historische Verfassungsargumente
+- **BVerfG**: Prüfungsmassstab für historische Verfassungsargumente
 - **BGH**: Zivilrechtliche historische Auslegung, z. B. BGB-Materialien
 - **Bundesarchiv**: Primaerquellen-Lieferant für historische Argumentationsbasis
 - **BReg Rechtsabteilung**: Nutzer von historischer Argumentation in Gesetzesbegr√ündungen

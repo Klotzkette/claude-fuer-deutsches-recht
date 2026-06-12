@@ -14,7 +14,7 @@ description: "Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Pruefraster.
+**Fokus:** Leistungsbeschreibung und Baubeschreibung beim Bautraegervertrag. Skill klaert was zwingend in der Baubeschreibung stehen muss (Standards Ausstattung Materialien) Inhaltsfeinheit und Folgen mangelhafter Baubeschreibung. § 650l BGB Verbraucherbauvertrag. Liefert Prüfraster.
 
 ### Bautraeger Leistungsbeschreibung Baubeschreibung
 
@@ -44,7 +44,7 @@ Seit 01.01.2018: Bautraegervertraege mit Verbrauchern sind Verbraucherbauvertrae
 - Wenn nicht ausgehaendigt: Vertrag ist anfechtbar.
 - § 650l BGB: jederzeitige Aufzeichnung der vereinbarten Leistungen.
 
-## Pruefraster
+## Prüfraster
 
 1. Baubeschreibung vorliegend?
 2. Materialien konkret bezeichnet?

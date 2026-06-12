@@ -1,6 +1,6 @@
 ---
 name: menschenwuerde-grundrechte-theoriekern
-description: "Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch."
+description: "Prüft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch."
 ---
 
 # Menschenwürde und Grundrechte

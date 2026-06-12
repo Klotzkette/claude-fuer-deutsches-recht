@@ -1,6 +1,6 @@
 ---
 name: fair-use-fashion-jewelry-fixation-originality
-description: "Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix im Us Copyright Registrierung Verlag."
+description: "Prüft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix im Us Copyright Registrierung Verlag."
 ---
 
 # Fair Use Four Factors

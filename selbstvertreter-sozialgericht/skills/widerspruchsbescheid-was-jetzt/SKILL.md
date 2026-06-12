@@ -91,7 +91,7 @@ Fehlt die Rechtsbehelfsbelehrung oder ist sie falsch: 1 Jahr Frist nach § 66 SG
 
 Siehe folgende Skills:
 
-- `klage-zur-niederschrift-90-sgg` — auf Geschaeftsstelle
+- `klage-zur-niederschrift-90-sgg` — auf Geschäftsstelle
 - `einreichung-papierform-sozialgericht-mit-abschriften` — per Post
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — digital
 

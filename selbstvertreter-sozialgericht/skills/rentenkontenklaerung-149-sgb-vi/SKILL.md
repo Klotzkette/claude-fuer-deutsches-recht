@@ -44,7 +44,7 @@ description: "Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Ve
 - BA-Bescheide.
 
 ### Auslandsarbeit
-- Beschaeftigungsnachweise.
+- Beschäftigungsnachweise.
 - Bei EU/EWR/CH Auslandsversicherungen.
 
 ## Wichtige Fristen
@@ -52,7 +52,7 @@ description: "Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Ve
 - Sobald möglich vor Rentenantrag.
 - Nach 30 Jahren wird DRV Beitragszeiten aus Ostzeit nicht mehr klären.
 
-## Pruefraster
+## Prüfraster
 
 1. Kontoklaerungsantrag gestellt?
 2. Vollstaendiger Versicherungsverlauf eingegangen?

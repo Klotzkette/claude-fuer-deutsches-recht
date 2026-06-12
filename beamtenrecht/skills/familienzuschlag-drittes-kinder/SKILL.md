@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-drittes-kinder
-description: "Skill zum verfassungsrechtlichen Mindeststandard des Familienzuschlags für das dritte und jedes weitere Kind nach Art. 33 Abs. 5 GG. Klaert das BVerfG-Pruefschema für den Mehrkinderzuschlag mit Vergleich zur sozialhilferechtlichen Bedarfsdeckung und zum kinderbezogenen Existenzminimum. Behandelt..."
+description: "Skill zum verfassungsrechtlichen Mindeststandard des Familienzuschlags für das dritte und jedes weitere Kind nach Art. 33 Abs. 5 GG. Klaert das BVerfG-Prüfschema für den Mehrkinderzuschlag mit Vergleich zur sozialhilferechtlichen Bedarfsdeckung und zum kinderbezogenen Existenzminimum. Behandelt..."
 ---
 
 # Familienzuschlag dritte und weitere Kinder — verfassungsrechtliches Minimum
@@ -27,7 +27,7 @@ Skill für Beamte und Richter mit drei oder mehr unterhaltsberechtigten Kindern,
 
 ## 3. Ablauf / Checkliste
 
-### a) BVerfG-Massstab
+### a) BVerfG-Maßstab
 - Der Mehrkinderzuschlag muss die kindbezogenen Mehrbedarfe so abdecken, dass jedes Mehrkind nicht zur Belastung der Familie wird, die das amtsangemessene Lebenshaltungsniveau gefaehrden wuerde. Vergleich erfolgt mit dem sozialhilferechtlichen Mindestbedarf eines Kindes (Regelbedarf, anteilige Unterkunft, Bildungs- und Teilhabepaket, anteiliges Heizen).
 
 ### b) Berechnungsmodell
@@ -43,7 +43,7 @@ Skill für Beamte und Richter mit drei oder mehr unterhaltsberechtigten Kindern,
 
 ## 4. Quellenpflicht
 
-- Normen: Art. 33 Abs. 5 GG; §§ 39, 40 BBesG; landesrechtliche Aequivalente; SGB II / SGB XII (Bedarfsberechnung).
+- Normen: Art. 33 Abs. 5 GG; §§ 39, 40 BBesG; landesrechtliche Äquivalente; SGB II / SGB XII (Bedarfsberechnung).
 - Rspr.: BVerfG zur Familienzuschlagsproblematik — Quellenanker unten; konkrete Entscheidung in amtlicher oder freier Quelle prüfen.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 

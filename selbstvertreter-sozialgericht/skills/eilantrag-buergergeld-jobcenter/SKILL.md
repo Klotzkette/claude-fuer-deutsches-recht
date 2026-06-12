@@ -136,7 +136,7 @@ Sehr wichtig — das Gericht braucht das für die Glaubhaftmachung. Erklaeren Si
 - Per Fax (schnellster Weg), per Mein Justizpostfach oder persoenlich abgeben.
 - Bei akuter Notlage (Strom-Abschaltung in 3 Tagen): "akute Eilbeduerftigkeit" hervorheben.
 
-### Schritt 6 — Bei Verzoegerung: Geschaeftsstelle anrufen
+### Schritt 6 — Bei Verzoegerung: Geschäftsstelle anrufen
 
 Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eilantrag liegt vor seit [Datum]. Mein Existenzminimum ist akut bedroht."
 

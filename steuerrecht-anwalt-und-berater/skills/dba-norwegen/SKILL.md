@@ -32,7 +32,7 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) rege
 
 ### Primaernormen
 - **DBA Deutschland-Norwegen vom 04.10.1991**, in Kraft 07.10.1993 (BGBl. 1993 II S. 970; BStBl. 1993 I S. 655).
-- Aenderungsprotokoll vom 24.06.2013, in Kraft 03.02.2015 (BGBl. 2014 II S. 906).
+- Änderungsprotokoll vom 24.06.2013, in Kraft 03.02.2015 (BGBl. 2014 II S. 906).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **EWR-Abkommen** ergaenzend (Niederlassung, Kapitalverkehr).
@@ -99,9 +99,9 @@ Das DBA-Norwegen vom 04.10.1991 (BGBl. 1993 II S. 970, in Kraft 07.10.1993) rege
 - **Petroleum-Sondersteuer (Sokkelloven)**: Sonderbesteuerung Petroleum-Aktivitaeten — Standard-KSt 22 Prozent plus Sondersatz Petroleum von 56 Prozent (Stand 05/2026 vom Anwender mit aktuellem norwegischem Steuerrecht zu verifizieren). Anrechnung auf DE-Steuer nach § 34c EStG nur in Höhe deutscher Steuer — Anrechnungsueberhang typisch bei Petroleum-Aktivitaeten.
 - **Offshore-BS-Schwelle 30 Tage**: Im DBA Norwegen (Art. 23 oder Protokoll) gesonderte Offshore-Regelung — Bohrinsel-Aktivitaeten begruenden schon ab 30 Tagen Betriebsstaette, anders als die 12-Monatsfrist für Onshore-Bau.
 - **NAV-Rente Wohnsitz DE**: norwegische Sozialversicherungsrente — Wohnsitzstaat-Prinzip, aber Sondersteuer "Trinnskatt" in NO; Prüfung Art. 18.
-- **Aenderungsprotokoll 2013/2015**: vom Anwender mit konsolidiertem Text zu prüfen.
+- **Änderungsprotokoll 2013/2015**: vom Anwender mit konsolidiertem Text zu prüfen.
 - **MLI ratifiziert**: PPT-Klausel anwendbar.
-- **Schifffahrt Art. 8**: Geschaeftsleitung Reederei massgeblich — bei norwegischen Tankern oft Sitzverlagerung.
+- **Schifffahrt Art. 8**: Geschäftsleitung Reederei massgeblich — bei norwegischen Tankern oft Sitzverlagerung.
 - **Wegzug DE → NO**: § 6 AStG, NO ist EWR — Stundung mit Sicherheiten erleichtert nach EuGH-Rechtsprechung und ATAD.
 
 ## Trade-offs
@@ -152,10 +152,10 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 ## Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Norwegen 1991 mit Aenderungsprotokoll 2013 Fundstellen, BMF-Schreiben verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Norwegen 1991 mit Änderungsprotokoll 2013 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 07.10.1993 (BGBl. 1993 II S. 970). Aenderungsprotokoll 24.06.2013 (BGBl. 2014 II S. 906, in Kraft 03.02.2015). MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
+Stand: 05/2026. DBA-Norwegen 04.10.1991, in Kraft 07.10.1993 (BGBl. 1993 II S. 970). Änderungsprotokoll 24.06.2013 (BGBl. 2014 II S. 906, in Kraft 03.02.2015). MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 4 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

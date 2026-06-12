@@ -14,7 +14,7 @@ description: "WEG-Erstverwalter-Bestellung beim Bautraegervertrag: Skill klaert 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster.
+**Fokus:** WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Prüfraster.
 
 ### Bautraeger Weg Erstverwalter Bestellung
 
@@ -42,7 +42,7 @@ description: "WEG-Erstverwalter-Bestellung beim Bautraegervertrag: Skill klaert 
 - Vorgaben zur Verlaengerungsabsicht.
 - Festlegung der Verwaltervergueltung im voraus.
 
-## Pruefraster
+## Prüfraster
 
 1. Erstverwalter bestellt?
 2. Dauer max. 3 Jahre?

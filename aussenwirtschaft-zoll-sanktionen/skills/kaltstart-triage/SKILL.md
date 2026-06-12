@@ -150,7 +150,7 @@ Das Plugin integriert auch AWV-Meldepflichten gegenueber der Deutschen Bundesban
 ## Fachbegriffe (kurz erklaert)
 
 - **Dual-Use** — Gueter, Software und Technologien mit ziviler und militaerischer Verwendungsmoeglichkeit; unterstehen der EG Dual-Use-Verordnung (VO (EG) 428/2009, jetzt VO (EU) 2021/821).
-- **BAFA** — Bundesamt für Wirtschaft und Ausfuhrkontrolle; zentrale Genehmigungs- und Pruefungsbehoerde für Exportkontrolle.
+- **BAFA** — Bundesamt für Wirtschaft und Ausfuhrkontrolle; zentrale Genehmigungs- und Prüfungsbehoerde für Exportkontrolle.
 - **Sanktionen / Embargos** — Wirtschaftliche Maßnahmen der EU, UN oder USA gegen Länder oder Personen; Umgehung ist Straftat.
 - **TARIC** — Integrierter Zolltarif der EU; kombiniert CN-Code mit handelspolitischen Maßnahmen.
 - **Zollwert** — Basis für die Berechnung der Eingangsabgaben; grundsätzlich Transaktionswert nach UZK-Zollwertmethoden.

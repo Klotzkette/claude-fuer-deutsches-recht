@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-liquidation
-description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen...."
+description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermögenslosigkeit bestehen...."
 ---
 
 # Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen
@@ -26,15 +26,15 @@ description: "Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfo
 Der Mandant hat im Krisenfall meist die Wahl zwischen Plan-Sanierung und Liquidation. Steuerlich sind das zwei sehr unterschiedliche Welten:
 
 - **Plan-Sanierung:** Forderungsverzicht möglich, Sanierungsertrag, Paragraph 3a EStG-Antrag, Unternehmensfortfuehrung.
-- **Liquidation:** Verwertung der Aktiva, Auskehrung an Glaeubiger nach Quote, Restverbindlichkeiten bleiben (bei juristischer Person) zivilrechtlich bestehen, über Loeschung im Handelsregister hinaus (BFH, Urteil vom 26.02.2003 — II R 19/01).
+- **Liquidation:** Verwertung der Aktiva, Auskehrung an Gläubiger nach Quote, Restverbindlichkeiten bleiben (bei juristischer Person) zivilrechtlich bestehen, über Loeschung im Handelsregister hinaus (BFH, Urteil vom 26.02.2003 — II R 19/01).
 
-Die Liquidation produziert **keinen Sanierungsertrag**, weil keine Verbindlichkeit erlassen wird. Wenn die GmbH später Vermögen erhaelt oder ein Glaeubiger sich noch meldet, leben Verbindlichkeiten wieder auf. Eine Verlautbarung der OFD Frankfurt a. M. stellt zudem klar: der Liquidationsbeschluss allein ist nicht als konkludenter Forderungsverzicht zu deuten. Adressat: Beratungs-Anwalt der Geschaeftsleitung, IV, StB.
+Die Liquidation produziert **keinen Sanierungsertrag**, weil keine Verbindlichkeit erlassen wird. Wenn die GmbH später Vermögen erhaelt oder ein Gläubiger sich noch meldet, leben Verbindlichkeiten wieder auf. Eine Verlautbarung der OFD Frankfurt a. M. stellt zudem klar: der Liquidationsbeschluss allein ist nicht als konkludenter Forderungsverzicht zu deuten. Adressat: Beratungs-Anwalt der Geschäftsleitung, IV, StB.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Mandant ueberlegt, statt Sanierung den Geschaeftsbetrieb einzustellen.
+- Mandant ueberlegt, statt Sanierung den Geschäftsbetrieb einzustellen.
 - Insolvenzverwalter fragt, ob Plan oder Liquidation steuerlich besser ist.
-- StB plant die Steuererklaerung des letzten Geschaeftsjahres.
+- StB plant die Steuererklaerung des letzten Geschäftsjahres.
 
 Kaltstart-Fragen:
 
@@ -60,8 +60,8 @@ Kaltstart-Fragen:
 1. **Entscheidungsmatrix Plan vs. Liquidation** aus betriebs- und steuerwirtschaftlicher Sicht aufstellen.
 2. **Stille Reserven bewerten** — bei Liquidation werden sie aufgedeckt; bei Plan-Buchwertfortfuehrung nicht.
 3. **Verlustvortraege:** Bei Liquidation Paragraph 11 KStG-Phase (3 Jahre); bei Plan Paragraph 3a Absatz 3 EStG.
-4. **Restverbindlichkeiten:** Bei juristischer Person bleibt die Schuld zivilrechtlich bestehen (BFH II R 19/01); erst spaetere Vermoegenslosigkeit oder ein expliziter Verzicht erlischt sie.
-5. **OFD Frankfurt-Linie beachten:** Der Liquidationsbeschluss allein ist nicht als Verzicht zu lesen. Wer einen Sanierungsertrag aus der Liquidation herleiten will, muss eine ausdrueckliche Verzichtserklaerung der Glaeubiger nachweisen.
+4. **Restverbindlichkeiten:** Bei juristischer Person bleibt die Schuld zivilrechtlich bestehen (BFH II R 19/01); erst spaetere Vermögenslosigkeit oder ein expliziter Verzicht erlischt sie.
+5. **OFD Frankfurt-Linie beachten:** Der Liquidationsbeschluss allein ist nicht als Verzicht zu lesen. Wer einen Sanierungsertrag aus der Liquidation herleiten will, muss eine ausdrueckliche Verzichtserklaerung der Gläubiger nachweisen.
 6. **Steuererklaerung Liquidation:** Paragraph 11 KStG Liquidationszeitraum.
 
 ## Plan vs. Liquidation — Entscheidungsmatrix
@@ -75,7 +75,7 @@ Kaltstart-Fragen:
 | Unternehmen fortgefuehrt | ja | nein |
 | Restverbindlichkeiten | nach Plan-Bestaetigung erlischt nicht-Plan-Verzichts-Teil ggf. weiter passiviert | bei juristischer Person bleiben bestehen (BFH II R 19/01) |
 | Erloeschen der juristischen Person | nein | mit Loeschung im Handelsregister, aber Verbindlichkeiten bleiben |
-| Bei spaeterer Vermoegenslosigkeit | irrelevant | Verbindlichkeiten erloeschen erst bei expliziter Verzichtserklaerung oder Eintritt der Verjährung |
+| Bei spaeterer Vermögenslosigkeit | irrelevant | Verbindlichkeiten erloeschen erst bei expliziter Verzichtserklaerung oder Eintritt der Verjährung |
 | Steueraufwand | Paragraph 3a EStG-Prüfung | Veraeusserungsgewinne + Liquidations-Phase |
 | Geschwindigkeit | mehrere Monate Plan-Verfahren | je nach Verwertung |
 | Kosten | typisch hoeher | typisch niedriger |
@@ -94,7 +94,7 @@ Kaltstart-Fragen:
 ## Praxistipps der alten Hasen
 
 1. **Steuermodellrechnung beide Wege.** Vergleichszahl in EUR liefern — die Mandanten wollen einen Vergleich, nicht Theorie.
-2. **Restverbindlichkeiten der GmbH nach Liquidation:** BFH II R 19/01 lesen. Wer glaubt, mit der Loeschung im Handelsregister sei alles weg, wird beim Glaeubiger-Wiederantrag ueberrascht.
+2. **Restverbindlichkeiten der GmbH nach Liquidation:** BFH II R 19/01 lesen. Wer glaubt, mit der Loeschung im Handelsregister sei alles weg, wird beim Gläubiger-Wiederantrag ueberrascht.
 3. **OFD Frankfurt-Verlautbarung.** Liquidationsbeschluss ist kein Verzicht — wer den Sanierungsertrag aus reiner Liquidation herleitet, hat schlechte Karten.
 4. **Bei Personengesellschaft:** Gesellschafter haften persoenlich (Paragraph 128 HGB); Liquidation der GbR/oHG ist nicht das Ende der Schulden.
 5. **Vor Liquidationsbeschluss Steuermodellrechnung.** Manchmal ist die Plan-Sanierung wirtschaftlich besser, auch wenn die GF lieber einen "sauberen Schnitt" macht.
@@ -136,7 +136,7 @@ bleiben formell bestehen.
 Empfehlung: [...]
 ```
 
-**Brief an Glaeubigerausschuss (Auszug):**
+**Brief an Gläubigerausschuss (Auszug):**
 
 ```
 Mit dem im Plan vorgesehenen Forderungsverzicht entsteht ein

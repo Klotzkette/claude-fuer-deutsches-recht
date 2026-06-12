@@ -1,6 +1,6 @@
 ---
 name: courier-platform-worker
-description: "Prüft Plattformarbeiter, Kurierdienste, App-Steuerung, Algorithmic Management und Statusindizien im Sozialversicherungsstatus Pruefer."
+description: "Prüft Plattformarbeiter, Kurierdienste, App-Steuerung, Algorithmic Management und Statusindizien im Sozialversicherungsstatus Prüfer."
 ---
 
 # Kurier und Plattformarbeit

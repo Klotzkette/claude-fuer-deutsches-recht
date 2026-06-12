@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-S
 
 ## Worum es geht
 
-Das BGB-Schuldrecht 1900 (Buch II, §§ 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien können im Rahmen des Gesetzes jeden Inhalt vereinbaren (§ 311 Abs. 1 BGB). Einschraenkungen: Sittenwidrigkeit (§ 138 BGB), Treu und Glauben (§ 242 BGB). Im Laufe des 20. Jh. wuchs die Einschraenkung: AGB-Gesetz 1976 (BGBl. I 1976, 3317) kontrollierte Allgemeine Geschaeftsbedingungen. Die Schuldrechtsreform 2002 (SchuRModG, BGBl. I 2001, 3138) integrierte AGB-Recht ins BGB, schuf § 433 Abs. 1 S. 2 (Mangelfreiheit), neues Verjaerungs- und Leistungsstoerungsrecht. Europaeische Richtlinien praegen das BGB-Schuldrecht zunehmend (Verbraucherkreditrichtlinie, Kaufrecht-Richtlinie 2019).
+Das BGB-Schuldrecht 1900 (Buch II, §§ 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien können im Rahmen des Gesetzes jeden Inhalt vereinbaren (§ 311 Abs. 1 BGB). Einschraenkungen: Sittenwidrigkeit (§ 138 BGB), Treu und Glauben (§ 242 BGB). Im Laufe des 20. Jh. wuchs die Einschraenkung: AGB-Gesetz 1976 (BGBl. I 1976, 3317) kontrollierte Allgemeine Geschäftsbedingungen. Die Schuldrechtsreform 2002 (SchuRModG, BGBl. I 2001, 3138) integrierte AGB-Recht ins BGB, schuf § 433 Abs. 1 S. 2 (Mangelfreiheit), neues Verjaerungs- und Leistungsstoerungsrecht. Europaeische Richtlinien praegen das BGB-Schuldrecht zunehmend (Verbraucherkreditrichtlinie, Kaufrecht-Richtlinie 2019).
 
 ## Kernnormen / Kernquellen
 

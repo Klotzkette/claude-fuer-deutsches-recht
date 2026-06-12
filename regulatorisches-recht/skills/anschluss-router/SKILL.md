@@ -109,7 +109,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `aufsichts-feed-monitor` | Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist… |
+| `aufsichts-feed-monitor` | Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist… |
 | `dora-ikt-vertragspruefung` | IKT-Drittanbietervertraege auf DORA-Konformität prüfen wenn Finanzunternehmen digitale Dienstleistungen einkaufen. Art. 28 30 DORA VO (EU) 2022/2554. Prüfraster: Pflichtklauseln Art. 30 DORA Ausstiegsstrategien… |
 | `inkasso-rdg` | Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Prüfraster: Erlaubnispflicht Nebenleistungsprivileg… |
 | `luecken` | Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit… |
@@ -118,7 +118,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `regulatorisches-recht-kaltstart-interview` | Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Prüfraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte… |
 | `regulatorisches-recht-mandat-arbeitsbereich` | Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behörden. Output: Mandatssteckbrief Arbeitsplan… |
 | `richtlinien-neufassung` | Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg.… |
-| `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der… |
+| `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Änderungshistorie Bedeutung der… |
 | `stellungnahmen` | Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege… |
 | `ustva` | Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse… |
 
@@ -130,11 +130,11 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Wann brauchen Sie diese Skill?
 
-- Ein Finanzunternehmen muss prüfen, ob ein neues Geschaeftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
+- Ein Finanzunternehmen muss prüfen, ob ein neues Geschäftsmodell einer BaFin-Erlaubnis nach KWG oder ZAG bedarf.
 - Eine Kanzlei bereitet eine Stellungnahme zu einem neuen Regulierungsvorhaben vor.
 - Ein Unternehmen will interne Compliance-Richtlinien nach DORA, MaRisk oder WpHG aktualisieren.
 - Ein Inkassounternehmen fragt, ob seine Taetigkeiten unter das RDG fallen.
-- Ein reguliertes Unternehmen beobachtet neue BaFin- oder EBA-Veroeffentlichungen und will relevante Aenderungen schnell identifizieren.
+- Ein reguliertes Unternehmen beobachtet neue BaFin- oder EBA-Veroeffentlichungen und will relevante Änderungen schnell identifizieren.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -167,7 +167,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Skill-Tour (was gibt es hier?)
 
-- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren.
+- `aufsichts-feed-monitor` — Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Änderungen für Mandanten identifizieren.
 - `dora-ikt-vertragspruefung` — IKT-Drittanbietervertraege auf DORA-Konformitaet prüfen für Finanzunternehmen, die digitale Dienstleistungen einkaufen.
 - `inkasso-rdg` — Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen, wenn gewerbliche Forderungseinziehung betrieben wird.
 - `luecken` — Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren (KWG, WpHG, DORA, VAG, GwG).
@@ -190,7 +190,7 @@ Im Mittelpunkt stehen das Kreditwesengesetz (KWG), das Zahlungsdiensteaufsichtsg
 
 ## Typische Fehler
 
-- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschaeftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Prüfung gestartet.
+- Erlaubnispflicht nach KWG oder ZAG uebersehen: Neue Geschäftsmodelle (z. B. Krypto, Buy-now-pay-later) werden ohne Vorab-Prüfung gestartet.
 - DORA nur als IT-Thema behandelt: Vertragliche Anforderungen an IKT-Drittanbieter werden von der Rechtsabteilung nicht koordiniert.
 - Luecken in Compliance-Richtlinien nach Gesetzesaenderungen nicht nachgepflegt: Alte MaRisk-Version oder veraltete GwG-Interna bleiben im Einsatz.
 - Fristen für Stellungnahmen zu Konsultationsverfahren verpasst: Europ. Behörden (EBA, ESMA) setzen kurze Fristen.

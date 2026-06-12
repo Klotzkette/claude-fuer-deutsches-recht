@@ -1,6 +1,6 @@
 ---
 name: avv-tom-art-32-dsgvo-anlage
-description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Massnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Pruefung. Output: Strukturierte TOM-Anlage auf Deutsch."
+description: "TOM-Anlage zum AVV nach Art. 32 DSGVO. Strukturierte Aufstellung der technischen und organisatorischen Maßnahmen mit Pseudonymisierung Verschluesselung Vertraulichkeit Integritaet Verfuegbarkeit Belastbarkeit sowie regelmäßige Prüfung. Output: Strukturierte TOM-Anlage auf Deutsch."
 ---
 
 # TOM-Anlage Art. 32 DSGVO
@@ -14,7 +14,7 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Maßnahme
 - TOM-Anlage zum AVV ist zu erstellen, zu prüfen oder zu aktualisieren.
 - Aufsichtsbehoerde fordert Nachweis der TOM.
 - Nach Datenpanne ist die TOM-Anlage auf Aktualitaet zu prüfen.
-- Bei Aenderung der Verarbeitung ist die TOM-Anlage anzupassen.
+- Bei Änderung der Verarbeitung ist die TOM-Anlage anzupassen.
 
 ## Rechtlicher Rahmen
 
@@ -32,10 +32,10 @@ Strukturierte Anlage zum AVV mit den technischen und organisatorischen Maßnahme
 
 2. **Mindestkategorien (Art. 32 Abs. 1 DSGVO).**
 
- | Kategorie | Massnahmenbeispiele |
+ | Kategorie | Maßnahmenbeispiele |
  |---|---|
  | Pseudonymisierung | Pseudonymisierung in Test- und Entwicklungsumgebungen, technische Trennung der Zuordnungstabelle |
- | Verschluesselung | TLS 1.3 in Transit; AES-256 at rest; Schluesselverwaltung HSM |
+ | Verschluesselung | TLS 1.3 in Transit; AES-256 at rest; Schlüsselverwaltung HSM |
  | Vertraulichkeit | Zutrittskontrolle, Zugangskontrolle, Zugriffskontrolle, Trennungskontrolle |
  | Integritaet | Weitergabekontrolle, Eingabekontrolle, Logging, Hashfunktionen |
  | Verfuegbarkeit | Backup, RPO/RTO, Notfallplan, geo-redundante Speicherung |
@@ -131,7 +131,7 @@ Pruefturnus: jaehrlich, unverzueglich bei wesentlicher Aenderung
 - Keine Aktualisierung seit Vertragsschluss.
 - Pseudonymisierung als Pflicht uebergangen, obwohl Art. 32 Abs. 1 lit. a DSGVO sie explizit benennt.
 - Keine RPO/RTO.
-- Keine Pruefturnusangaben.
+- Keine Prüfturnusangaben.
 - Sub-AV-Konsistenz nicht adressiert.
 
 ## Quellen Stand 06/2026

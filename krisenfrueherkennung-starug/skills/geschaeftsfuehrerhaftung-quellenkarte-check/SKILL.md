@@ -1,9 +1,9 @@
 ---
 name: geschaeftsfuehrerhaftung-quellenkarte-check
-description: "Geschaeftsfuehrerhaftung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Geschäftsführerhaftung Quellenkarte Check: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
-# Geschaeftsfuehrerhaftung Quellenkarte Check
+# Geschäftsführerhaftung Quellenkarte Check
 
 ## Zweck
 

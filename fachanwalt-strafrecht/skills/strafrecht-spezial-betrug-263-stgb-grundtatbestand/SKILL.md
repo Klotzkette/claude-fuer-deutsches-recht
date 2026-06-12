@@ -18,7 +18,7 @@ description: "Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung ei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung über Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Pruefraster für Plaedoyer.
+**Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand für Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung über Tatsachen, Irrtum, Vermögensverfuegung und Vermögensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Prüfraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo für Akte und Mandanten plus Prüfraster für Plaedoyer.
 
 ### Betrug § 263 StGB — Grundtatbestand
 
@@ -41,13 +41,13 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 - **Taeuschung über Tatsachen.** Tatsache ist jeder konkrete dem Beweis zugaengliche Vorgang oder Zustand. Werturteile reichen nicht. Konkludente Taeuschung möglich (z. B. Bestellung in der Gastronomie = konkludente Erklaerung der Zahlungswilligkeit, BGH staendige Rspr.).
 - **Irrtum.** Positive Fehlvorstellung beim Getaeuschten. Sachgedankliches Mitbewusstsein ausreichend (BGH staendige Rspr. zum Tankstellen- und Mensa-Fall).
-- **Vermoegensverfuegung.** Jedes Tun, Dulden oder Unterlassen, das unmittelbar zu einer Vermoegensminderung fuehrt.
-- **Vermoegensschaden.** Wirtschaftlicher Betrachtung: Saldierung der Vermoegenslagen vor und nach der Verfuegung. Schadensgleiche konkrete Vermoegensgefaehrdung anerkannt bei Eingehungsbetrug (BVerfG zu Wirtschaftsstrafrecht 2010, 2 BvR 2559/08 — Schadensbezifferung).
+- **Vermögensverfuegung.** Jedes Tun, Dulden oder Unterlassen, das unmittelbar zu einer Vermögensminderung fuehrt.
+- **Vermögensschaden.** Wirtschaftlicher Betrachtung: Saldierung der Vermögenslagen vor und nach der Verfuegung. Schadensgleiche konkrete Vermögensgefaehrdung anerkannt bei Eingehungsbetrug (BVerfG zu Wirtschaftsstrafrecht 2010, 2 BvR 2559/08 — Schadensbezifferung).
 
 ### Subjektiver Tatbestand
 
 - **Vorsatz** bezüglich aller objektiven Merkmale, einschliesslich Schaden (Eventualvorsatz reicht).
-- **Bereicherungsabsicht.** Direkter Vorsatz auf den eigenen oder fremden Vermoegensvorteil. **Stoffgleichheit** zwischen Schaden und Vorteil zwingend.
+- **Bereicherungsabsicht.** Direkter Vorsatz auf den eigenen oder fremden Vermögensvorteil. **Stoffgleichheit** zwischen Schaden und Vorteil zwingend.
 - **Rechtswidrigkeit der erstrebten Bereicherung.** Bei fehlendem materiellem Anspruch.
 
 ## Praktikertipps Verteidigung
@@ -71,7 +71,7 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 ## Konkurrenzen
 
 - **§ 263 StGB / § 246 StGB Unterschlagung.** Bei Sachdelikt: § 246 subsidiaer, § 263 vorrangig wenn Taeuschung.
-- **§ 263 StGB / § 266 StGB Untreue.** Untreue greift bei Verletzung einer Vermoegensbetreuungspflicht ohne Aussentaeuschung; bei Taeuschung Dritter regelmaessig § 263.
+- **§ 263 StGB / § 266 StGB Untreue.** Untreue greift bei Verletzung einer Vermögensbetreuungspflicht ohne Aussentaeuschung; bei Taeuschung Dritter regelmaessig § 263.
 - **§ 263 StGB / § 267 StGB Urkundenfaelschung.** Tateinheit möglich, wenn Faelschung Tatmittel war.
 - **§ 263 StGB / § 264 StGB Subventionsbetrug.** § 264 ist Spezialnorm bei Subventionssachverhalt.
 - **§ 263 StGB / § 370 AO Steuerhinterziehung.** Konkurrenz; Tateinheit möglich bei Doppeltaeuschung.
@@ -90,7 +90,7 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 ### Schutzschrift Schadensbestreiten
 
-"Der bezifferte Vermoegensschaden in Höhe von [Betrag] EUR wird bestritten. Eine wirtschaftliche Saldierung der Vermoegenslagen vor und nach der vermeintlichen Verfuegung der Geschaedigten ergibt nach Massgabe der staendigen Rechtsprechung des BGH zur Schadensberechnung beim Eingehungsbetrug einen Saldo von hoechstens [Betrag] EUR. Der Beschuldigte regt die Einholung eines wirtschaftspruefungsfaehigen Sachverstaendigengutachtens an."
+"Der bezifferte Vermögensschaden in Höhe von [Betrag] EUR wird bestritten. Eine wirtschaftliche Saldierung der Vermögenslagen vor und nach der vermeintlichen Verfuegung der Geschaedigten ergibt nach Massgabe der staendigen Rechtsprechung des BGH zur Schadensberechnung beim Eingehungsbetrug einen Saldo von hoechstens [Betrag] EUR. Der Beschuldigte regt die Einholung eines wirtschaftspruefungsfaehigen Sachverstaendigengutachtens an."
 
 ### Antrag § 46a StGB
 
@@ -109,12 +109,12 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 - `fachanwalt-strafrecht-einlassung-vorbereiten` — Einlassungs-Workflow.
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` — Deal und § 46a StGB.
 
-## Pruefraster Subsumtion (Kurzform)
+## Prüfraster Subsumtion (Kurzform)
 
 1. Taeuschungshandlung? (ausdruecklich, konkludent, durch Unterlassen bei Aufklaerungspflicht).
 2. Tatsache (nicht Werturteil)?
 3. Irrtum erregt oder unterhalten?
-4. Vermoegensverfuegung Getaeuschter (Stoffgleichheit Verfuegender = Geschaedigter)?
+4. Vermögensverfuegung Getaeuschter (Stoffgleichheit Verfuegender = Geschaedigter)?
 5. Schaden wirtschaftlich (Saldoprinzip; konkrete Gefaehrdung anerkannt)?
 6. Vorsatz und Bereicherungsabsicht (direkter Vorsatz; rechtswidrige Bereicherung)?
 7. Stoffgleichheit Schaden — Vorteil?

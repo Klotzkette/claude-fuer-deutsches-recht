@@ -27,7 +27,7 @@ description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mi
 
 ## Bonorum possessio secundum tabulas
 
-- Praetor gewaehrt dem im Testament eingesetzten Erben die Vermoegensbesitzbestaetigung, auch wenn die strenge zivilrechtliche Form fehlt.
+- Praetor gewaehrt dem im Testament eingesetzten Erben die Vermögensbesitzbestaetigung, auch wenn die strenge zivilrechtliche Form fehlt.
 - "Praetorische Erbschaftseinweisung" mit Wirkung gegen alle ausser den iure civili-Erben.
 
 ## Folge
@@ -40,7 +40,7 @@ description: "Testamentum praetorium: praetorische Form des Tabula-Testaments mi
 - §§ 2231 ff. BGB.
 - § 2356 BGB Erbschein.
 
-## Pruefraster
+## Prüfraster
 
 1. Tabulae-Form?
 2. 7 Zeugen gesiegelt?

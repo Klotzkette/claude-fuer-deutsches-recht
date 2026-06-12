@@ -1,6 +1,6 @@
 ---
 name: data-protection-transfer-dd
-description: "Data Protection Transfer DD für M&A: prueft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration: Data Protection Transfer DD für M&A: prueft DSGVO-Risiken, Datenuebertragung, Datenraumz..."
+description: "Data Protection Transfer DD für M&A: prüft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration: Data Protection Transfer DD für M&A: prüft DSGVO-Risiken, Datenuebertragung, Datenraumz..."
 ---
 
 # Data Protection Transfer DD für M&A: prüft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration.
@@ -36,7 +36,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 
 | Feld | Worum es geht |
 | --- | --- |
-| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Datenkategorien, Zwecke, Rollen, AVV, TOMs, Drittlandtransfer, Datenraumzugriffe, PMI-Plan. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |

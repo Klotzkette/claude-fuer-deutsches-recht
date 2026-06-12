@@ -44,7 +44,7 @@ Vor dem Termin: gut vorbereiten. Was sagen Sie? Welche Papiere haben Sie dabei? 
 - **Sachvortrag**: Was Sie als Tatsachen vortragen.
 - **Rechtsausfuehrung**: Ihre rechtlichen Argumente.
 - **Antrag**: Was Sie konkret vom Gericht wollen.
-- **Erlaeuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behörde stellen.
+- **Erläuterungs-Frage**: Fragen, die Sie an Sachverstaendige oder Behörde stellen.
 
 ## Rechtsgrundlagen
 

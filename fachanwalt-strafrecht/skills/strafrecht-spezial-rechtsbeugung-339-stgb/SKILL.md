@@ -71,7 +71,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 - **Paragraph 339 StGB und Paragraph 340 StGB Koerperverletzung im Amt.** Tatmehrheit möglich, wenn neben Rechtsbeugung auch koerperliche Misshandlung.
 - **Paragraph 339 StGB und Paragraph 348 StGB Falschbeurkundung im Amt.** Tatmehrheit möglich, wenn Rechtsbeugung durch Beurkundungsfehler erfolgt.
-- **Paragraph 339 StGB und Paragraph 263 StGB Betrug.** Tateinheit möglich bei Vermoegensbezug.
+- **Paragraph 339 StGB und Paragraph 263 StGB Betrug.** Tateinheit möglich bei Vermögensbezug.
 - **Paragraph 339 StGB und Paragraph 332 StGB Bestechlichkeit.** Tatmehrheit; oft gemeinsam (Bestechungsgeld + Rechtsbeugung).
 - **Paragraph 339 StGB ist primaer.** Andere Verfahrensdelikte des Amtstraegers treten zurueck.
 

@@ -44,7 +44,7 @@ Abgrenzung zwischen Funktionsuebertragung (eigene Verantwortlichkeit des Dritten
  |---|---|---|
  | Steuerberater erstellt Buchhaltung für Mandant | Funktionsuebertragung | Steuerberatungsvertrag, ggf. C2C-Datenuebermittlungsregelung |
  | Rechtsanwalt vertritt Mandant | Funktionsuebertragung | Mandatsvertrag |
- | Wirtschaftspruefer prüft Jahresabschluss | Funktionsuebertragung | Pruefungsvertrag |
+ | Wirtschaftspruefer prüft Jahresabschluss | Funktionsuebertragung | Prüfungsvertrag |
  | Inkassodienstleister treibt Forderungen ein | Funktionsuebertragung (typisch) | Inkassovertrag |
  | Arzt behandelt Patient | Funktionsuebertragung | Behandlungsvertrag § 630a BGB |
  | Externe IT betreut Kanzlei-IT mit Datenzugang | regelmaessig Auftragsverarbeitung Art. 28 | AVV plus § 203 Abs. 3 StGB |
@@ -89,7 +89,7 @@ B) Klausel zur Verpflichtung mitwirkender Personen bei Auftragsverarbeitung:
 ## Typische Drafting-Fehler
 
 - Berufstraeger (Steuerberater, Anwalt, Arzt) als Auftragsverarbeiter eingestuft – Funktionsuebertragung uebersehen.
-- Externe IT oder Schreibbuero ohne AVV beschaeftigt – § 203 StGB-Strafbarkeitsrisiko.
+- Externe IT oder Schreibbuero ohne AVV beschäftigt – § 203 StGB-Strafbarkeitsrisiko.
 - Keine Verpflichtung mitwirkender Personen nach § 203 Abs. 3 StGB.
 - Informationspflichten Art. 13/14 DSGVO nicht beruecksichtigt.
 - Cloud-Speicher für Mandantenakten ohne AVV oder ohne § 203-Klausel.

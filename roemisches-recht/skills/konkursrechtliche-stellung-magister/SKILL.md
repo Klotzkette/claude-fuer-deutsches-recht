@@ -1,6 +1,6 @@
 ---
 name: konkursrechtliche-stellung-magister
-description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix."
+description: "Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhältnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix."
 ---
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum

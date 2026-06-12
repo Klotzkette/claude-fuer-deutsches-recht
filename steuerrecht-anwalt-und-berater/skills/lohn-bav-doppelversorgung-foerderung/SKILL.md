@@ -21,7 +21,7 @@ Hat ein AN mehrere bAV-Verträge (z.B. Direktversicherung und Pensionskasse), gr
 2. Welche Beitragshoehe je Vertrag pro Monat?
 3. Wann wurden die Verträge abgeschlossen?
 4. Sind alle Verträge beim aktuellen AG?
-5. Hat der AN aus frueheren AG-Verhaeltnis weiter laufende bAV?
+5. Hat der AN aus frueheren AG-Verhältnis weiter laufende bAV?
 6. Welche Direktzusagen (steuerlich anders)?
 7. Welche steuerliche Praxis der Vorperioden (bisher LSt-frei abgerechnet)?
 8. Was ist Wunsch des AN — voll foerdern oder Beitrag aufteilen?
@@ -82,7 +82,7 @@ Hat ein AN mehrere bAV-Verträge (z.B. Direktversicherung und Pensionskasse), gr
 
 - Beitragspruefliste pro AN mit allen Vertraegen.
 - Jaehrliche Aktualisierung.
-- Bei Aenderungen Anpassung Lohnabrechnung.
+- Bei Änderungen Anpassung Lohnabrechnung.
 
 ## Strategie und Praxis-Tipps
 
@@ -102,4 +102,4 @@ Stand: 05/2026.
 - BMF v. 06.12.2017 (IV C 5 - S 2333/17/10002), BMF v. 18.03.2022 (IV C 5 - S 2333/19/10005).
 - BBG-West RV 2025: 96.600 EUR/Jahr; 8 Prozent = 7.728 EUR LSt-frei, 4 Prozent = 3.864 EUR SV-frei (Sozialversicherungs-Rechengroessenverordnung 2026 zum Jahreswechsel prüfen).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (BMF-Daten recherchiert), 2 ersetzt (BBG-Werte 2025 eingesetzt, Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 2 bestaetigt (BMF-Daten recherchiert), 2 ersetzt (BBG-Werte 2025 eingesetzt, Prüfhinweis ohne Marker) -->

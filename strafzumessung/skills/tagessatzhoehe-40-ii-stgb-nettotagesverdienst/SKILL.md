@@ -23,14 +23,14 @@ Die **Höhe** des einzelnen Tagessatzes bildet die wirtschaftliche Leistungsfaeh
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie prüfen einen Strafbefehl mit hoeherem Tagessatz, als die wirtschaftlichen Verhaeltnisse rechtfertigen.
+- Sie prüfen einen Strafbefehl mit hoeherem Tagessatz, als die wirtschaftlichen Verhältnisse rechtfertigen.
 - Sie bereiten die Hauptverhandlung vor und sammeln Einkommensnachweise für Ihren Mandanten.
 - Sie schaetzen vor einer Verstaendigung (§ 257c StPO), welche Geldstrafe insgesamt droht.
 - Sie prüfen einen Ratenzahlungsantrag nach § 42 StGB oder die drohende Ersatzfreiheitsstrafe nach § 43 StGB.
 
 ## Rechtliche Grundlagen
 
-- **§ 40 Abs. 2 Satz 1 StGB** — Bemessung nach den persönlichen und wirtschaftlichen Verhaeltnissen des Taeters.
+- **§ 40 Abs. 2 Satz 1 StGB** — Bemessung nach den persönlichen und wirtschaftlichen Verhältnissen des Taeters.
 - **§ 40 Abs. 2 Satz 2 StGB** — Ausgangspunkt: durchschnittliches Nettoeinkommen, das der Taeter an einem Tag hat oder haben koennte.
 - **§ 40 Abs. 2 Satz 3 StGB** — Tagessatzhoehe mindestens 1, hoechstens 30 000 EUR.
 - **§ 40 Abs. 3 StGB** — Schaetzungsrecht des Gerichts.
@@ -136,7 +136,7 @@ Anlage: Einkommensnachweis, Kontoauszug.
 
 ## Typische Fehler
 
-- **Schaetzung ohne Aktenlage** akzeptiert: Einkommensnachweise nachreichen, Antrag auf Aenderung im Erkenntnis- oder Vollstreckungsverfahren.
+- **Schaetzung ohne Aktenlage** akzeptiert: Einkommensnachweise nachreichen, Antrag auf Änderung im Erkenntnis- oder Vollstreckungsverfahren.
 - **Unterhaltspflichten nicht beachtet**: Nettoeinkommen sinkt; Anhörungs-/Nachweispflicht des Anwalts.
 - **Konsumschulden pauschal abgezogen**: nur einzelfallabhaengig.
 - **Ratenzahlungsantrag spaet**: nach Beginn der Vollstreckung schwieriger durchzusetzen.

@@ -16,11 +16,11 @@ description: "Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eil
 
 **Fokus:** Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
-### Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Schriftsatzkern und Substantiierung im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 
-- Es soll ein vollwertiger Schriftsatz im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht erstellt werden, typischerweise: Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage.
+- Es soll ein vollwertiger Schriftsatz im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht erstellt werden, typischerweise: Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
 - Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
 
@@ -59,7 +59,7 @@ Anspruchsaufbau klassisch:
 1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
 3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
-4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Auslaender-, Asyl- und Staatsangehoerigkeitsrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
+4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Ausländer-, Asyl- und Staatsangehoerigkeitsrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
 5. **Subsumtion-Ergebnis** klar formulieren.
 
 ### E. Beweisangebote
@@ -74,12 +74,12 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 - Pflicht-Erwaehnung im Tatsachenvortrag.
 
-## Substantiierungs-Fallen im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+## Substantiierungs-Fallen im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 - **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
 - **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
@@ -87,7 +87,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -100,7 +100,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht.
 - AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG sowie Verordnungen/Richtlinien dazu.
 - Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
@@ -112,7 +112,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-## Beispiel-Anspruchsgrundlagen im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+## Beispiel-Anspruchsgrundlagen im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG und ihre Substantiierungs-Anforderungen:
 
@@ -133,7 +133,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 
 ## Antrags-Muster nach Verfahrenstyp
 
-Typische Antraege in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage):
+Typische Antraege in Ausländer-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
 - Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
@@ -155,7 +155,7 @@ Typische Antraege in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Klage VG
 
 ### Sachverstaendigenbeweis
 
-- Bei Auslaender-, Asyl- und Staatsangehoerigkeitsrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
+- Bei Ausländer-, Asyl- und Staatsangehoerigkeitsrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
 - Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
 - Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
 
@@ -179,7 +179,7 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht ggf. spezifische ERV-Pflichten beachten.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Ausländer-, Asyl- und Staatsangehoerigkeitsrecht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
@@ -208,7 +208,7 @@ Vor Versand:
 
 ## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Schriftsatz)
 
-### Leitsaetze zur Substantiierung im VG-Asyl/Auslaenderrecht
+### Leitsaetze zur Substantiierung im VG-Asyl/Ausländerrecht
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

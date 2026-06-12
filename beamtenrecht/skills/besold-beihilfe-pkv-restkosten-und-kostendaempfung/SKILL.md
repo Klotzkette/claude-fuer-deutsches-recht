@@ -44,7 +44,7 @@ description: "Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung im Beamt
 - Pflegebeihilfe.
 - Reha-Bedarfe.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Beihilfeanspruch?
 2. PKV-Vertrag passend?

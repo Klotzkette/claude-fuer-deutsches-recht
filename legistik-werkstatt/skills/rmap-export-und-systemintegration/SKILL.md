@@ -1,6 +1,6 @@
 ---
 name: rmap-export-und-systemintegration
-description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw für die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzun..."
+description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Prüfpunkten. Anschluss legw-rmap-anschluss-an-legw für die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzun..."
 ---
 
 # Export und Integration in Vollzugs-IT
@@ -17,7 +17,7 @@ description: "Export der Rulemap aus dem Builder; Integration in Fachverfahren; 
 
 Der Rulemap Builder exportiert ausfuehrbare Modelle; sie werden über die Rulemapping Automation Platform an Fachverfahren angebunden. Juristisch zu klären sind: Rechtsgrundlage der Datenverarbeitung; Registerzugriffe; Auftragsverarbeitung; Loeschkonzept; Protokollierung.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: Zuständigkeitsverteilung Norm und IT; Folgepflichten aus DSGVO; Anschluss an Bundes-IT-Standards (z.B. BSI-Vorgaben; OZG-Vorgaben).
 

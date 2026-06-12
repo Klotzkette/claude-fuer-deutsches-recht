@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-zahlen-schwellen-und-berechnung
-description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Subsumtions Pruefer."
+description: "Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung im Subsumtions Prüfer."
 ---
 
 # Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung

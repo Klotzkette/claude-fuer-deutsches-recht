@@ -39,7 +39,7 @@ Kaltstart-Fragen:
 2. GewSt-Vortrag Stand letzter Bescheid?
 3. Geplanter Sanierungsertrag?
 4. Liegt bereits ein KSt-/ESt-Antrag Paragraph 3a EStG vor?
-5. Wer fuehrt die Kommunikation mit der Gemeinde (StB, IV, Geschaeftsleitung)?
+5. Wer fuehrt die Kommunikation mit der Gemeinde (StB, IV, Geschäftsleitung)?
 
 ## Rechtlicher Rahmen
 

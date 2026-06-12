@@ -62,14 +62,14 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 
 ## Paragrafenkette Aktenanlage
 
-§ 174 InsO (Anmeldeform) → § 175 InsO (Eintragung Tabelle) → § 176 InsO (Pruefungstermin) → § 66 InsO (Rechnungslegung und Dokumentation) → § 60 InsO (Verwalterhaftung) → § 61 InsO (persönliche Haftung IV)
+§ 174 InsO (Anmeldeform) → § 175 InsO (Eintragung Tabelle) → § 176 InsO (Prüfungstermin) → § 66 InsO (Rechnungslegung und Dokumentation) → § 60 InsO (Verwalterhaftung) → § 61 InsO (persönliche Haftung IV)
 
 ## Triage — Batchregister-Kaltstart
 
-1. **Wieviele Anmeldungen erwartet?** Mittel- bis Grossverfahren (>20 Glaeubiger) → Batch-System zwingend.
+1. **Wieviele Anmeldungen erwartet?** Mittel- bis Grossverfahren (>20 Gläubiger) → Batch-System zwingend.
 2. **Digitale Einreichung?** § 174 Abs. 4 InsO Erleichterungen beachten; E-Mail vs. beA.
-3. **Fristen?** Pruefungstermin § 176 InsO: Ladungsfrist 7 Tage; Tabelle muss vorher vollstaendig sein.
-4. **Dubletten-Risiko?** Gleicher Glaeubiger mehrfach (z.B. Abtretung) → Deduplication-Logik einbauen.
+3. **Fristen?** Prüfungstermin § 176 InsO: Ladungsfrist 7 Tage; Tabelle muss vorher vollstaendig sein.
+4. **Dubletten-Risiko?** Gleicher Gläubiger mehrfach (z.B. Abtretung) → Deduplication-Logik einbauen.
 
 ## Normen und Rechtsprechung
 

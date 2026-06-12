@@ -57,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -139,7 +139,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `redezeit-und-ordnungsmassnahmen` | Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestands... |
 | `registeranmeldung-risk-map-satzung` | Hauptversammlung AG und SE: Registeranmeldung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fris... |
 | `risk-map-anfechtung-nichtigkeit` | Hauptversammlung AG und SE: Risk Map Anfechtung Nichtigkeit; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestands... |
-| `satzung-und-geschaeftsordnung-check` | Hauptversammlung AG und SE: Satzung Und Geschaeftsordnung Check; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbest... |
+| `satzung-und-geschaeftsordnung-check` | Hauptversammlung AG und SE: Satzung Und Geschäftsordnung Check; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbest... |
 | `satzungsaenderung` | Hauptversammlung AG und SE: Satzungsaenderung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fris... |
 | `se-hauptversammlung-mitbestimmung` | Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Fr... |
 | `se-mitbestimmung` | Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aktienrecht (HV AG/SE): prüft konkret die einschlägigen Tatbestandsmerkmale, Frist... |

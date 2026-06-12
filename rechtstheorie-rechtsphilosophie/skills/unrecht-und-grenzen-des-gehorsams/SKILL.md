@@ -1,6 +1,6 @@
 ---
 name: unrecht-und-grenzen-des-gehorsams
-description: "Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren."
+description: "Prüft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren."
 ---
 
 # Unrecht und Gehorsamsgrenzen

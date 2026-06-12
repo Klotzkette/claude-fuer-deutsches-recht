@@ -1,6 +1,6 @@
 ---
 name: mandanten-intake-status
-description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten im Sozialversicherungsstatus Pruefer."
+description: "Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten im Sozialversicherungsstatus Prüfer."
 ---
 
 # Mandanten-Intake Statusprüfung

@@ -34,11 +34,11 @@ Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR)
 
 Vor der Anmeldungsvorbereitung klären:
 
-1. **Anmeldungsgegenstand:** Was soll angemeldet werden? (Geschaeftsfuehrer-Wechsel, Prokura, Sitzverlegung, Kapitalerhoehung, Satzungsaenderung, Liquidation, Loeschung)
+1. **Anmeldungsgegenstand:** Was soll angemeldet werden? (Geschäftsführer-Wechsel, Prokura, Sitzverlegung, Kapitalerhoehung, Satzungsaenderung, Liquidation, Loeschung)
 2. **Registerart:** HRB (GmbH/AG), HRA (OHG/KG), GnR (eG), PartGR (PartG)? Bei GmbH & Co. KG: sowohl HRB als auch HRA betroffen?
 3. **Unterlagen vollstaendig?** Gesellschafterbeschluss (ggf. notariell beurkundet bei Satzungsaenderung § 53 GmbHG), Versicherung GF (§ 8 Abs. 3 GmbHG), Satzung aktuell?
 4. **Notar beauftragt?** § 12 HGB: öffentliche Beglaubigung erforderlich; Notar uebermittelt elektronisch (§ 12 Abs. 2 HGB). Ist der Notar bereits beauftragt?
-5. **Mehrfache Aenderungen gleichzeitig?** Mehrere Aenderungen können in einer Anmeldung zusammengefasst werden; Voraussetzungen für jede Aenderung separat prüfen.
+5. **Mehrfache Änderungen gleichzeitig?** Mehrere Änderungen können in einer Anmeldung zusammengefasst werden; Voraussetzungen für jede Änderung separat prüfen.
 6. **§ 15 HGB-Risiko waehrend Wartezeit?** Wer vertritt die Gesellschaft bis zur Eintragung des neuen GF? Uebergangsregelungen (Vollmachten) treffen.
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -141,7 +141,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Handelsregisteranmeldung vorbereiten und einreichen | Anmeldung nach Checkliste; Template unten |
 | Variante A — Eilbedarf Eintragung innerhalb Woche noetig | Vorlagenversion prüfen; Notarbeschleunigungs-Option |
-| Variante B — Aenderungsanmeldung nicht Erstanmeldung | Aenderungsanmeldung-Subset des Templates verwenden |
+| Variante B — Änderungsanmeldung nicht Erstanmeldung | Änderungsanmeldung-Subset des Templates verwenden |
 | Variante C — Anmeldung wird vom Registergericht bemueckelt | Beschwerdeverfahren vorbereiten; Ergaenzung der Unterlagen zuerst |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -210,7 +210,7 @@ Mit freundlichen Gruessen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

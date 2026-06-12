@@ -71,11 +71,11 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Frage einzuholen, ob die Aussage der Zeugin [Name] aufgrund der konkreten Aussagegenese (Latenz [Monate/Jahre], [N] Vernehmungen, therapeutische Behandlung bei [Therapeutin/Therapeut] seit [Datum], Familienkonflikt um [Sachverhalt]) ein erhoehtes Suggestions- und Falscherinnerungsrisiko aufweist."
 
 **Mustersatz für Plaedoyer:**
-"Die Annahme, die Zeugin luege, ist nicht zu treffen — und sie ist methodisch auch nicht der richtige Pruefansatz. Der richtige Ansatz ist: Ist die Erinnerung erlebnisbasiert oder suggestiv kontaminiert? Nach dem Stand der aussagepsychologischen Forschung (Loftus, Volbert/Steller) sind die Faktoren Latenz von [Zeitraum], die [N] vorausgegangenen Vernehmungen und die therapeutische Aufdeckung seit [Datum] geeignet, eine Falscherinnerung zu erzeugen. Damit ist die Suggestionshypothese nicht ausgeraeumt."
+"Die Annahme, die Zeugin luege, ist nicht zu treffen — und sie ist methodisch auch nicht der richtige Prüfansatz. Der richtige Ansatz ist: Ist die Erinnerung erlebnisbasiert oder suggestiv kontaminiert? Nach dem Stand der aussagepsychologischen Forschung (Loftus, Volbert/Steller) sind die Faktoren Latenz von [Zeitraum], die [N] vorausgegangenen Vernehmungen und die therapeutische Aufdeckung seit [Datum] geeignet, eine Falscherinnerung zu erzeugen. Damit ist die Suggestionshypothese nicht ausgeraeumt."
 
 ## Quellen Stand 06/2026
 
-- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Hypothesen-gegen-Hypothesen-Methode, Suggestionshypothese als zu pruefende Alternative).
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Hypothesen-gegen-Hypothesen-Methode, Suggestionshypothese als zu prüfende Alternative).
 - BGH staendige Rechtsprechung zur Aussage-gegen-Aussage-Beweiswuerdigung (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
 - Loftus, E., misinformation effect und lost-in-the-mall-Forschung (psychologische Standardliteratur, generisch).
 - Volbert, R., Steller, M., zur Suggestion in Strafverfahren (Lehrbuch-Bezug, generisch).

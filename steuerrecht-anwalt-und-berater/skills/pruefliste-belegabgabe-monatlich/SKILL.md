@@ -3,7 +3,7 @@ name: pruefliste-belegabgabe-monatlich
 description: "Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollständigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Prüfliste Eingangskontrolle Mahnung. Output Prüfprotokoll Belegmahnung."
 ---
 
-# Pruefliste monatliche Belegabgabe
+# Prüfliste monatliche Belegabgabe
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte 
 
 ## Kernsachverhalt
 
-Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Routine. Fehlt ein Beleg, verzoegert sich die BWA, die USt-VA wird ungenau, der Jahresabschluss bekommt Probleme. Der Steuerberater fuehrt eine Pruefliste, prüft die Vollstaendigkeit eingegangener Belege und mahnt bei Verzoegerungen. Bei wiederholten Verspaetungen Honoraranknuepfung oder Eskalation.
+Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Routine. Fehlt ein Beleg, verzoegert sich die BWA, die USt-VA wird ungenau, der Jahresabschluss bekommt Probleme. Der Steuerberater fuehrt eine Prüfliste, prüft die Vollstaendigkeit eingegangener Belege und mahnt bei Verzoegerungen. Bei wiederholten Verspaetungen Honoraranknuepfung oder Eskalation.
 
 ## Kaltstart-Rueckfragen
 
@@ -42,7 +42,7 @@ Die Belegabgabe-Disziplin des Mandanten ist Erfolgsfaktor der Monatsabschluss-Ro
 
 ## Workflow
 
-### Phase 1 — Standard-Pruefliste
+### Phase 1 — Standard-Prüfliste
 
 ```
 BELEGABGABE-PRUEFLISTE
@@ -120,12 +120,12 @@ Mahnstand: [keine / 1. / 2. Mahnung]
 
 ### Phase 6 — Reporting an Mandant
 
-- Bei jedem Monatsabschluss: Pruefprotokoll mit Status.
+- Bei jedem Monatsabschluss: Prüfprotokoll mit Status.
 - Bei wesentlichen Maengeln: Mandantengespraech.
 
 ## Strategie und Praxis-Tipps
 
-- Pruefliste konsequent durchgehen — fehlende Belege sind haeufige Ursache von Buchungsfehlern.
+- Prüfliste konsequent durchgehen — fehlende Belege sind haeufige Ursache von Buchungsfehlern.
 - Bei wiederholten Verzoegerungen: Honorar-Aufschlag (z.B. 25 Prozent Eilzuschlag) abrechnen.
 - DATEV-DUO ist Effizienz-Hebel — Mandanten konsequent zur Nutzung ermutigen.
 - StBVV: in Pauschal; Eilbearbeitung Sonderhonorar.

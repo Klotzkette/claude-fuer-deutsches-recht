@@ -1,6 +1,6 @@
 ---
 name: dienstvergehen-ausser-agg-gleichstellung
-description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhaeltnis zwischen privatem Verhalten und dienstlichen Anforderunge..."
+description: "Skill zur disziplinarrechtlichen Beurteilung von Verhalten ausserhalb des Dienstes nach § 47 BeamtStG bzw. § 77 BBG. Klaert die Voraussetzung der Eignung zur Beeintraechtigung des Vertrauens den Bezug zur Statusrelevanz und das Verhältnis zwischen privatem Verhalten und dienstlichen Anforderunge..."
 ---
 
 # Dienstvergehen ausser Dienst nach § 47 BeamtStG
@@ -53,7 +53,7 @@ Skill für Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 
 ## 5. Ausgabeformat
 
-- Verteidigungs-Memo mit Pruefraster.
+- Verteidigungs-Memo mit Prüfraster.
 - Schriftsatz Disziplinarverteidigung.
 
 ## 6. Verifizierte Quellenanker
@@ -67,4 +67,4 @@ Skill für Beamte, denen Verhalten ausserhalb des Dienstes als Dienstvergehen vo
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Lehrer, Verurteilung wegen Steuerhinterziehung 28.000 Euro im Strafbefehlsverfahren. Skill liefert Pruefraster: Bezug zum Lehramt, Statusrelevanz, Bemessung der Disziplinarmassnahme.
+Mandant Lehrer, Verurteilung wegen Steuerhinterziehung 28.000 Euro im Strafbefehlsverfahren. Skill liefert Prüfraster: Bezug zum Lehramt, Statusrelevanz, Bemessung der Disziplinarmassnahme.

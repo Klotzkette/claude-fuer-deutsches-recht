@@ -1,6 +1,6 @@
 ---
 name: lautsprecher-fahrzeug
-description: "Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung prüfen im Wahlkampfrecht."
 ---
 
 # Lautsprecher Fahrzeug

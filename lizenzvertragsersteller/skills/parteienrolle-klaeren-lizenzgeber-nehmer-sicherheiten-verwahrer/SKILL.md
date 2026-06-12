@@ -1,6 +1,6 @@
 ---
 name: parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer
-description: "Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klaerungs-Checkliste pro Rolle."
+description: "Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sicherheitengeber, Sicherheitennehmer, Verwahrer (Source-Code-Escrow), Konzernlizenzen, Cross-License. Mit Klärungs-Checkliste pro Rolle."
 ---
 
 # Parteienrollen klären
@@ -17,7 +17,7 @@ description: "Rollenmatrix fuer Lizenzvertraege: Lizenzgeber, Lizenznehmer, Sich
 | Cross-Licensor | beidseitige Lizenzgewaehrung (Patentpool, Forschungspartnerschaft) | Gegenseitige Lizenz, Schiedsklausel |
 | Konzernlizenznehmer | Lizenz auch für Konzernunternehmen | Definition $ 15 AktG / $ 17 AktG, Schutzkette |
 
-## Klaerungs-Checkliste
+## Klärungs-Checkliste
 
 ### Lizenzgeber
 

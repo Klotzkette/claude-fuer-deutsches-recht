@@ -37,9 +37,9 @@ automatischen Datenverarbeitung kein belangloses Datum mehr."
 
 - **Verarbeitungskontext** entscheidet: ein Datum kann harmlos in einem
   Kontext und gefaehrlich in einem anderen Kontext sein.
-- **Zweckbindung** und **Zweckaenderung** als zentrale Pruefkriterien.
+- **Zweckbindung** und **Zweckaenderung** als zentrale Prüfkriterien.
 - **Verfahrenssicherungen** Aufklaerung Auskunft Berichtigung Loeschung
-  als Verhaeltnismaessigkeitsfaktoren.
+  als Verhältnismäßigkeitsfaktoren.
 - **Streuwirkung** auf große Personenmehrzahl als gewichtssteigernd.
 
 ## Vier Stufen Konkretisierung
@@ -56,4 +56,4 @@ unverhaeltnismaessig.
 - BVerfGE 152 152 und 152 216 (Recht auf Vergessen I und II): Anwendung
   unter unionsrechtlicher Vollharmonisierung.
 - Volkszaehlung ist die Stamm-Entscheidung jedes datenschutzrechtlichen
-  Verhaeltnismaessigkeitsfalls.
+  Verhältnismäßigkeitsfalls.

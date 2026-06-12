@@ -31,7 +31,7 @@ description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahr
 
 - **§§ 1025-1066 ZPO** — Schiedsverfahren (deutsches Recht; bei Sitz DE). Reformprozess: Gesetz zur Modernisierung des Schiedsverfahrensrechts; Referentenentwurf des BMJ vom 01.02.2024 (Konsultation bis 14.03.2024); Vorhaben fiel mit Ende der 20. Wahlperiode der Diskontinuitaet anheim, neues Verfahren in 21. Wahlperiode. Inhalte u. a. Formfreiheit kaufmaennischer Schiedsvereinbarungen, Online-Verhandlungen, elektronische Schiedssprueche. Stand bei Verwendung prüfen: https://www.bmj.de/SharedDocs/Gesetzgebungsverfahren/DE/2023_Modernisierung_Schiedsverfahrensrecht.html
 - **ICC Rules 2021** (in Kraft seit 01.01.2021; Update gegenueber ICC Rules 2017): https://iccwbo.org/dispute-resolution/dispute-resolution-services/arbitration/rules-procedure/2021-arbitration-rules/
-- **UNCITRAL Model Law 2006** (mit Aenderungen)
+- **UNCITRAL Model Law 2006** (mit Änderungen)
 - **UNCITRAL Arbitration Rules 2021** (Expedited Arbitration Rules; in Kraft 19.09.2021): https://uncitral.un.org/en/texts/arbitration/contractualtexts/expedited_arbitration
 - **ICSID Convention** (Investitionsschutz); Stand 2024/2025: ICSID-Rules-Revision 2022 (in Kraft seit 01.07.2022): https://icsid.worldbank.org/rules-regulations/convention/icsid-convention-arbitration-rules-2022
 - **New Yorker Übereinkommen 1958** — Vollstreckung Schiedssprueche in derzeit über 170 Vertragsstaaten (Stand 2025; laufend aktualisiert). Aktuelle Liste: https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2

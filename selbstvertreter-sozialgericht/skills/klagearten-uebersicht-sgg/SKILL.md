@@ -3,7 +3,7 @@ name: klagearten-uebersicht-sgg
 description: "Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern."
 ---
 
-# Welche Klage passt? — Ueberblick
+# Welche Klage passt? — Überblick
 
 ## Fachlicher Anker
 
@@ -100,18 +100,18 @@ Siehe `untaetigkeitsklage-88-sgg`.
 
 ### Schritt 8 — Im Zweifel kombinieren
 
-Sie können Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage stellen. Die Geschaeftsstelle hilft bei der Formulierung.
+Sie können Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage stellen. Die Geschäftsstelle hilft bei der Formulierung.
 
 ## Worauf Sie besonders achten müssen
 
-- **Klage in der richtigen Form**: schriftlich oder zur Niederschrift bei der Geschaeftsstelle. Siehe `klage-zur-niederschrift-90-sgg`.
+- **Klage in der richtigen Form**: schriftlich oder zur Niederschrift bei der Geschäftsstelle. Siehe `klage-zur-niederschrift-90-sgg`.
 - **Klagebegruendung kann nachgereicht werden**: Erstmal nur Klage einlegen, dann begruenden.
 - **Frist 1 Monat** ab Bekanntgabe des Widerspruchsbescheids.
 
 ## Typische Fehler
 
-- Nur "Ich klage" geschrieben, ohne Antrag → Antrag formulieren oder Geschaeftsstelle bitten
-- Falsche Klageart → SG aendert in der Regel selbst, kein Drama
+- Nur "Ich klage" geschrieben, ohne Antrag → Antrag formulieren oder Geschäftsstelle bitten
+- Falsche Klageart → SG ändert in der Regel selbst, kein Drama
 - Bei Untaetigkeit zu frueh klagen (vor 3/6 Monaten) → Klage unzulaessig
 
 ## Quellen und Aktualitaet

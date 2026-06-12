@@ -3,7 +3,7 @@ name: beschaeftigtenzahl-konzern
 description: "Klärt Beschäftigtenzählung, Konzernlösung und gemeinsame Ressourcen im Hinweisgeberschutz Compliance."
 ---
 
-# Beschaeftigtenzahl Konzern
+# Beschäftigtenzahl Konzern
 
 ## Arbeitsweg
 

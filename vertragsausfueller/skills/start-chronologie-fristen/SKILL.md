@@ -135,17 +135,17 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 - Anwalt oder Mandant uebergibt eine unbekannte DOCX-Vorlage und moechte wissen, welche Felder ausgefallt werden mussen.
 - Ein Term Sheet liegt vor und soll systematisch in die entsprechende Vertragsvorlage uebertragen werden.
 - Altvertrag soll auf eine neue Vorlage nachgezogen oder aktualisiert werden (Parteienwechsel, Gesetzesaenderungen).
-- Gegenentwurf liegt vor und soll auf Vollstandigkeit, versteckte Aenderungen und ungeklartel Klauselentscheidungen geprueft werden.
+- Gegenentwurf liegt vor und soll auf Vollstandigkeit, versteckte Änderungen und ungeklartel Klauselentscheidungen geprueft werden.
 - Fertig ausgefullter Vertragsentwurf soll vor Unterschrift oder Versand auf Rechenfehler, Inkonsistenzen und AGB-Verstoeasse geprueft werden.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Feldinventar** — Strukturierte Liste aller ausfullbaren Felder einer Vertragsvorlage mit Pflicht/Optional-Status, Quelle und Risikohinweis.
 - **Term Sheet** — Vorvertragliches Eckpunktepapier; Letter of Intent oder Term Sheet werden auf Vertragsfelder gemappt.
-- **Track Changes** — Dokumenten-Aenderungsmarkierung in Word (DOCX); wird nur nach ausdrucklicher Bestaetigung ausgegeben.
-- **AGB-Kontrolle** — Prüfung von allgemeinen Geschaeftsbedingungen nach §§ 305 bis 310 BGB; strenger Massstab bei B2C, geringer bei B2B.
+- **Track Changes** — Dokumenten-Änderungsmarkierung in Word (DOCX); wird nur nach ausdrucklicher Bestaetigung ausgegeben.
+- **AGB-Kontrolle** — Prüfung von allgemeinen Geschäftsbedingungen nach §§ 305 bis 310 BGB; strenger Maßstab bei B2C, geringer bei B2B.
 - **Schriftformerfordernis** — § 550 BGB bei Mietvertraegen laenger als ein Jahr; § 125 BGB bei gesetzlicher Schriftform; Fehler macht Vertrag unwirksam.
-- **Redline** — Uberarbeitete Vertragsfassung mit sichtbaren Aenderungen gegenuber dem Ausgangsdokument.
+- **Redline** — Uberarbeitete Vertragsfassung mit sichtbaren Änderungen gegenuber dem Ausgangsdokument.
 - **Clean Output** — Bereinigter Vertragsentwurf ohne Platzhalter und Track-Changes für Unterzeichnung oder Versand.
 - **Plausibilitaetscheck** — Prüfung von Betragen, Fristen, Querverweisen und interner Konsistenz vor Ausgabe.
 
@@ -202,7 +202,7 @@ Das Plugin deckt alle gaengigen deutschen Vertragstypen ab: Mietvertraege, Arbei
 
 **Redline und Track Changes**
 
-- `vaf-redline-qa` — Redline oder Gegenentwurf auf Vollstandigkeit und versteckte Aenderungen prüfen.
+- `vaf-redline-qa` — Redline oder Gegenentwurf auf Vollstandigkeit und versteckte Änderungen prüfen.
 - `vaf-track-changes-nur-nach-frage` — Track-Changes-Fassung nur nach ausdrucklicher Bestaetigung erstellen.
 
 ## Worauf besonders achten

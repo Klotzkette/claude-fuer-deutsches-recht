@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-haeusliche-krankenpflege-37-sgb
-description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage."
+description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhältnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage."
 ---
 
 # Krankenkassen Haeusliche Krankenpflege 37 Sgb V
@@ -31,7 +31,7 @@ description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill kla
 ### Hauswirtschaftliche Versorgung
 - Nur bei besonderer Notwendigkeit.
 
-## Verhaeltnis zur Pflegekasse
+## Verhältnis zur Pflegekasse
 
 - Grundpflege und hauswirtschaftliche Versorgung primaer Pflegekasse SGB XI.
 - Krankenkasse nur Behandlungspflege.
@@ -46,7 +46,7 @@ description: "Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill kla
 - Aerztliche Verordnung der haeuslichen Krankenpflege (Muster 12).
 - Verordnungsdauer max. 4 Wochen, Verlaengerung möglich.
 
-## Pruefraster
+## Prüfraster
 
 1. Behandlungspflege erforderlich?
 2. Aerztliche Verordnung?

@@ -1,6 +1,6 @@
 ---
 name: anlassbeurteilung-vs-regelbeurteilung
-description: "Klaert das Verhaeltnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill pruef Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation i..."
+description: "Klaert das Verhältnis von Regelbeurteilung und Anlassbeurteilung im Auswahlverfahren des öffentlichen Dienstes. Skill prüf Beurteilungsstichtag Aktualitaet der Beurteilungsgrundlage und Vergleichbarkeit der konkurrierenden Beurteilungen. Behandelt die Konstellation einer Konkurrentensituation i..."
 ---
 
 # Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit
@@ -52,7 +52,7 @@ Skill für den haeufigen Streit, ob die Auswahlentscheidung auf einer ausreichen
 
 ## 5. Ausgabeformat
 
-- Pruefvermerk in Memoform mit Spalten "Aktualitaet — Vergleichbarkeit — Massstab — Spielraum".
+- Prüfvermerk in Memoform mit Spalten "Aktualitaet — Vergleichbarkeit — Maßstab — Spielraum".
 - Schriftsatzbaustein "Begruendung Anordnungsanspruch" für Konkurrenteneilantrag.
 
 ## 6. Verifizierte Quellenanker
@@ -93,5 +93,5 @@ Regelbeurteilung Mandant Stichtag vor 4 Jahren, Bewertung "uebertrifft die Anfor
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

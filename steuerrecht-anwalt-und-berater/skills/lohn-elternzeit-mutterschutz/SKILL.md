@@ -1,6 +1,6 @@
 ---
 name: lohn-elternzeit-mutterschutz
-description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
+description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschäftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
 ---
 
 # Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld
@@ -13,7 +13,7 @@ description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant.
 
 ## Kernsachverhalt
 
-Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen: Mutterschutz nach MuschG (Beschaeftigungsverbot 6 Wochen vor und 8 Wochen nach Geburt), Mutterschaftsgeld nach SGB V, Elternzeit nach BEEG (bis 3 Jahre), Elterngeld nach BEEG (Bundeselterngeld- und Elternzeitgesetz). Der Steuerberater begleitet die Lohnabrechnung in dieser Phase, prüft AG-Zuschuss-Pflichten und die SV-Behandlung.
+Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen: Mutterschutz nach MuschG (Beschäftigungsverbot 6 Wochen vor und 8 Wochen nach Geburt), Mutterschaftsgeld nach SGB V, Elternzeit nach BEEG (bis 3 Jahre), Elterngeld nach BEEG (Bundeselterngeld- und Elternzeitgesetz). Der Steuerberater begleitet die Lohnabrechnung in dieser Phase, prüft AG-Zuschuss-Pflichten und die SV-Behandlung.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,7 +24,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 5. Plant AN Elternzeit — wie lange?
 6. Plant Vater/Partner ebenfalls Elternzeit?
 7. Wird Elterngeld Basis oder Plus gewaehlt?
-8. Welche Beschaeftigungsverbote vor Geburt (z.B. schwere Arbeiten, Schichtdienst)?
+8. Welche Beschäftigungsverbote vor Geburt (z.B. schwere Arbeiten, Schichtdienst)?
 
 ## Rechtlicher Rahmen
 
@@ -32,7 +32,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 **MuschG** — Mutterschutzgesetz.
 
-**§§ 3, 6 MuschG** — Beschaeftigungsverbote.
+**§§ 3, 6 MuschG** — Beschäftigungsverbote.
 
 **§ 24 SGB V** — Mutterschaftsgeld.
 
@@ -53,10 +53,10 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 
 ## Workflow
 
-### Phase 1 — Mutterschutz und Beschaeftigungsverbot
+### Phase 1 — Mutterschutz und Beschäftigungsverbot
 
-- 6 Wochen vor Geburt: Beschaeftigungsverbot ohne Antrag (kann AN auf eigenen Wunsch arbeiten).
-- 8 Wochen nach Geburt (12 bei Mehrlingen/Behinderung): absolutes Beschaeftigungsverbot.
+- 6 Wochen vor Geburt: Beschäftigungsverbot ohne Antrag (kann AN auf eigenen Wunsch arbeiten).
+- 8 Wochen nach Geburt (12 bei Mehrlingen/Behinderung): absolutes Beschäftigungsverbot.
 - AG zahlt Mutterschutzlohn 100 Prozent fortgesetzt (basis für Mutterschaftsgeld + AG-Zuschuss).
 
 ### Phase 2 — Mutterschaftsgeld
@@ -84,7 +84,7 @@ Bei Schwangerschaft und Elternschaft gelten besondere lohnrechtliche Regelungen:
 ### Phase 5 — SV-Status waehrend Elternzeit
 
 - Mitgliedschaft KV bleibt erhalten (beitragsfrei).
-- RV-Pflicht eingeschraenkt (wenn keine Beschaeftigung).
+- RV-Pflicht eingeschraenkt (wenn keine Beschäftigung).
 - AV: Anwartschaftsanrechnung Erziehungszeiten (3 Jahre).
 - Prüfung Krankenkasse: ggf. freiwillige Versicherung.
 

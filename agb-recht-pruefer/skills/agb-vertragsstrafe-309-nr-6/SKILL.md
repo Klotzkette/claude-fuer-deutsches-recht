@@ -33,7 +33,7 @@ description: "AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-r
 - BAG 8 AZR 73/13: Vertragsstrafe bis zu einem Bruttomonatsgehalt regelmaessig zulässig.
 - Bei Wettbewerbsklauseln Kombination mit § 74 HGB beachten.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragsart (B2C / B2B / Arbeit)?
 2. Vertragsstrafe oder Schadenspauschalierung?

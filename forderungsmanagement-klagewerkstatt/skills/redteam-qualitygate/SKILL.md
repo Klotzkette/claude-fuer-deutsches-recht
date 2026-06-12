@@ -5,13 +5,13 @@ description: "Red-Team-Review eines fertigen Schriftsatzes oder Mahnbescheidsant
 
 # Redteam Qualitygate
 
-Vor Einreichung ein Pruefgang aus Sicht der Beklagten.
+Vor Einreichung ein Prüfgang aus Sicht der Beklagten.
 
-## Pruefraster
+## Prüfraster
 
 | Bereich | Fragen aus Beklagten-Sicht |
 |---|---|
-| Aktivlegitimation | Ist Klaegerin Inhaberin der Forderung Tritt eine Abtretung dazwischen |
+| Aktivlegitimation | Ist Klägerin Inhaberin der Forderung Tritt eine Abtretung dazwischen |
 | Passivlegitimation | Stimmt der Beklagte mit dem Vertragspartner ueberein |
 | Anspruchsgrund | Welche Tatsachen sind unstreitig welche streitig |
 | Faelligkeit | Bestreite ich die Faelligkeit mit Erfolg |

@@ -49,7 +49,7 @@ Privatklageweg Paragraph 374 StPO ist nach hM bei Paragraph 142 PatG eroeffnet (
 ## Praktikertipps der Verteidigung
 
 - **Patentbestand-Angriff (Nichtigkeitsklage parallel).** Patentstrafverfahren ist nur tragfaehig, wenn das Patent **gueltig** ist. Strafrechtlich ist die Rechtskraft des Patents Vorfrage; Verteidigung kann Nichtigkeitsklage beim Bundespatentgericht erheben oder anregen. Das Strafverfahren ist regelmaessig auszusetzen Paragraph 154d StPO bis zur Entscheidung im Patentstreit. **Verifizieren** der konkreten Norm und Praxis.
-- **Schutzbereich (Anspruchsauslegung).** Patentanspruch bestimmt den Schutzbereich (Paragraph 14 PatG). Auslegung nach Sicht des Fachmanns. Verteidigung muss Sachverstaendigengutachten zur Auslegung beantragen. Insbesondere Äquivalent-Verletzung (Paragraph 9 PatG iVm Doppelidentitaet vs. aequivalente Ausfuehrungsform) muss klar abgegrenzt werden.
+- **Schutzbereich (Anspruchsauslegung).** Patentanspruch bestimmt den Schutzbereich (Paragraph 14 PatG). Auslegung nach Sicht des Fachmanns. Verteidigung muss Sachverstaendigengutachten zur Auslegung beantragen. Insbesondere Äquivalent-Verletzung (Paragraph 9 PatG iVm Doppelidentitaet vs. äquivalente Ausfuehrungsform) muss klar abgegrenzt werden.
 - **Erschoepfungseinwand.** Bei Reimport von patentgeschuetzten Erzeugnissen aus EWR-Land: Patentrecht ist erschoepft, sofern Patentinhaber das Inverkehrbringen im EWR autorisiert hat. Reimport aus Drittstaaten ist nicht erschoepft.
 - **Mittelbare Patentverletzung Paragraph 10 PatG.** Strafrechtlich erfasst. Bei Lieferung von Mitteln, die zur Patentverletzung geeignet und bestimmt sind, ist auch Mittler strafbar. Vorsatzpruefung restriktiv: Mittler muss wissen, dass Mittel bestimmt ist.
 - **Vorsatz erschuettern.** Patentinhaber muss meist Abmahnung mit Patentangabe zugestellt haben. Erst danach ist Vorsatz regelmaessig zu bejahen. Vor Abmahnung typischerweise nur fahrlaessig (strafrechtlich nicht erfasst).
@@ -74,7 +74,7 @@ Paragraph 153a StPO Einstellung gegen Auflage in der Praxis oft Ausweg, sofern k
 
 Strafrahmen Paragraph 142 Abs 1 PatG: bis drei Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation Paragraph 142 Abs 2 PatG gewerbsmaessig: drei Monate bis fuenf Jahre Freiheitsstrafe (genauen Wortlaut der Untergrenze verifizieren — PatG-Qualifikation parallel zu UrhG/MarkenG-Strukturen). Versuch strafbar (Paragraph 142 Abs 3 PatG).
 
-Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Schadenshoehe (Lizenzgebuehrenanalogie), Dauer der Verletzung, Anzahl betroffener Patente, Bedeutung des Patents im Wirtschaftsverkehr (Schluesselpatent vs. Randpatent), Reue, Schadensausgleich.
+Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Schadenshoehe (Lizenzgebuehrenanalogie), Dauer der Verletzung, Anzahl betroffener Patente, Bedeutung des Patents im Wirtschaftsverkehr (Schlüsselpatent vs. Randpatent), Reue, Schadensausgleich.
 
 - **Einziehung des Tatobjekts** Paragraph 74 StGB iVm Paragraph 142 Abs 5 PatG (Sondereinziehung — bitte Wortlaut verifizieren): patentverletzende Erzeugnisse, Werkzeuge, Maschinen.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Bruttoprinzip BGH.
@@ -86,7 +86,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 **Schutzschrift-Snippet:** "Das streitgegenstaendliche Patent DE [12345] ist nach Auffassung meiner Mandantin nicht rechtsbestaendig. Ich habe daher am DD.MM.JJJJ vor dem Bundespatentgericht Nichtigkeitsklage gemäß Paragraph 81 PatG erhoben. Es wird beantragt, das Strafverfahren bis zur rechtskraeftigen Entscheidung im Nichtigkeitsverfahren auszusetzen (Paragraph 154d StPO; bitte konkrete Norm verifizieren). Hilfsweise: Der Schutzbereich des Patents erfasst nach Auslegung gemäß Paragraph 14 PatG nicht das von meinem Mandanten gefertigte Erzeugnis; die technische Loesung weicht in mehreren Merkmalen ab. Beweis: Sachverstaendigengutachten."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Patentanwalts mit Schwerpunkt Maschinenbau einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Maschine Z des Beschuldigten nicht in den Schutzbereich des Patents DE [12345] faellt, weil das Merkmal A des Patentanspruchs 1 nicht (auch nicht in aequivalenter Form) verwirklicht ist."
+**Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten eines Patentanwalts mit Schwerpunkt Maschinenbau einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Maschine Z des Beschuldigten nicht in den Schutzbereich des Patents DE [12345] faellt, weil das Merkmal A des Patentanspruchs 1 nicht (auch nicht in äquivalenter Form) verwirklicht ist."
 
 ## Quellen Stand 06/2026
 

@@ -1,6 +1,6 @@
 ---
 name: rdg-pruefung-chatbot
-description: "Rdg Pruefung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Ki Richtlinie Kanzleien."
+description: "Rdg Prüfung Chatbot: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Ki Richtlinie Kanzleien."
 ---
 
 # RDG-Prüfung Chatbot
@@ -62,7 +62,7 @@ Die Rechtsprechung zum RDG im Kontext von KI-Systemen ist noch im Entstehen. Nac
 4. Wird der Chatbot-Charakter nach Art. 50 Abs. 1 KI-VO offengelegt?
 5. Gibt es einen Hinweis, dass der Chatbot keine anwaltliche Beratung ersetzt?
 
-## Output-Template — RDG-Pruefprotokoll Chatbot
+## Output-Template — RDG-Prüfprotokoll Chatbot
 **Adressat:** Kanzlei / Compliance — Tonfall: rechtlich, praezise
 ```
 RDG-PRUEFPROTOKOLL — CHATBOT

@@ -1,9 +1,9 @@
 ---
 name: md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung
-description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquoten, PrueferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Pruefberichte im Krankenhausrecht."
+description: "MD-Prüfung der Krankenhausabrechnung nach § 275c SGB V: Prüfquoten, PrüferV, Aufwandspauschalen, Beanstandungen, Strukturpruefung und Klage gegen Prüfberichte im Krankenhausrecht."
 ---
 
-# MD-Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung
+# MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung
 
 ## Arbeitsweg
 
@@ -13,31 +13,31 @@ description: "MD-Pruefung der Krankenhausabrechnung nach § 275c SGB V: Pruefquo
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: MD-Prüfung Krankenhausabrechnung Pruefverfahrensvereinbarung
+## Fachkern: MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Der Medizinische Dienst (MD) prüft im Auftrag der Krankenkassen die Abrechnung stationaerer Faelle. Seit 2020 ist die Pruefquote pro Klinik gedeckelt; Aufwandspauschalen und Strukturpruefungen ergaenzen das Verfahren. Die Pruefverfahrensvereinbarung (PrueferV) ist Spielregeln-Vertrag zwischen GKV-SV und DKG.
+Der Medizinische Dienst (MD) prüft im Auftrag der Krankenkassen die Abrechnung stationaerer Faelle. Seit 2020 ist die Prüfquote pro Klinik gedeckelt; Aufwandspauschalen und Strukturpruefungen ergaenzen das Verfahren. Die Prüfverfahrensvereinbarung (PrüferV) ist Spielregeln-Vertrag zwischen GKV-SV und DKG.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
-- Liegt eine MD-Pruefanzeige, ein Pruefbericht oder eine Schlussbewertung vor?
-- Welche Pruefquote ist relevant (klinikspezifisch, Standardquote)?
+- Liegt eine MD-Prüfanzeige, ein Prüfbericht oder eine Schlussbewertung vor?
+- Welche Prüfquote ist relevant (klinikspezifisch, Standardquote)?
 - Welche Beanstandungen werden gestellt (Hauptdiagnose, Nebendiagnose, OPS, Verweildauer, Strukturmerkmal)?
 - Drohen Rueckforderung, Aufwandspauschale, Strukturzuschlag-Risiko?
 
 ## Rechtlicher Rahmen
-- **SGB V § 275c** Pruefverfahren, Pruefquote, Aufwandspauschale 300 EUR.
+- **SGB V § 275c** Prüfverfahren, Prüfquote, Aufwandspauschale 300 EUR.
 - **SGB V § 17c KHG** Strukturpruefung durch MD.
-- **PrueferV (Pruefverfahrensvereinbarung)** zwischen GKV-SV und DKG nach § 17c Abs. 2 KHG.
+- **PrüferV (Prüfverfahrensvereinbarung)** zwischen GKV-SV und DKG nach § 17c Abs. 2 KHG.
 - **FPV (Fallpauschalenvereinbarung)** zwischen Selbstverwaltungspartnern.
 - **DKR (Deutsche Kodierrichtlinien)** als Auslegungsgrundlage.
 - **SGB V § 109 Abs. 5** Versorgungsauftrag bei Strukturmerkmalen.
 
 ## / Schritt für Schritt
-1. **Pruefanzeige eingangsdatieren:** Frist § 275c: MD muss innerhalb von 6 Wochen prüfen, Klinik antwortet innerhalb 8 Wochen.
-2. **Pruefthema identifizieren:** Hauptdiagnose, Nebendiagnose, Verweildauer (untere Grenzverweildauer), OPS, Strukturmerkmal?
+1. **Prüfanzeige eingangsdatieren:** Frist § 275c: MD muss innerhalb von 6 Wochen prüfen, Klinik antwortet innerhalb 8 Wochen.
+2. **Prüfthema identifizieren:** Hauptdiagnose, Nebendiagnose, Verweildauer (untere Grenzverweildauer), OPS, Strukturmerkmal?
 3. **Akte komplettieren:** Pflegebericht, Aerztliche Doku, OP-Bericht, Befunde, Anaesthesieprotokoll.
 4. **Eigene Prüfung:** Kodierrichtlinien, DRG-Browser, ICD/OPS-Aktualisierung.
 5. **Stellungnahme verfassen:** Begruendung mit Akten- und DKR-Verweis, Gegenargumente vorbereiten.
@@ -49,20 +49,20 @@ Der Medizinische Dienst (MD) prüft im Auftrag der Krankenkassen die Abrechnung 
 
 | Reaktion | Vorteil | Nachteil |
 |---|---|---|
-| akzeptieren | Verfahrensschluss | Erloesausfall, Pruefquote belastet |
+| akzeptieren | Verfahrensschluss | Erloesausfall, Prüfquote belastet |
 | eroertern | guenstig, oft Einigung | zeitintensiv |
 | klagen SG | Drittentscheidung | Verfahrensdauer 1-3 Jahre |
 | schon nachkodieren | korrigierte DRG | Pflicht, dokumentierbar |
 
 ## Praxistipps
-- Pruefquote 2024 ff. liegt klinikspezifisch zwischen 5 % und 15 %; Schlussbewertungsquote relevant für Aufschlag/Abschlag (§ 275c Abs. 4 SGB V).
+- Prüfquote 2024 ff. liegt klinikspezifisch zwischen 5 % und 15 %; Schlussbewertungsquote relevant für Aufschlag/Abschlag (§ 275c Abs. 4 SGB V).
 - Strukturpruefungen (Stroke, Onkologie, Geriatrie) sind separat — Verlust gefaehrdet ganze OPS-Abrechnung.
 - 300-EUR-Aufwandspauschale gilt bei "Prüfung ohne Erloesminderung" (BSG, staend. Rspr.).
 - Klage zum SG ist meist Leistungsklage auf Restzahlung, kein Vorverfahren.
 
 ## Mustertexte
-**Stellungnahme zur MD-Pruefanzeige:**
-> Sehr geehrte Damen und Herren, wir nehmen zur Pruefanzeige vom [Datum] wie folgt Stellung. Die Hauptdiagnose [ICD] ist gemäß DKR D002f richtlinienkonform kodiert. Die Verweildauer entspricht … OP-Bericht und Pflegebericht zeigen … Wir bitten um Bestaetigung der Abrechnung; hilfsweise um Anberaumung eines Eroerterungstermins.
+**Stellungnahme zur MD-Prüfanzeige:**
+> Sehr geehrte Damen und Herren, wir nehmen zur Prüfanzeige vom [Datum] wie folgt Stellung. Die Hauptdiagnose [ICD] ist gemäß DKR D002f richtlinienkonform kodiert. Die Verweildauer entspricht … OP-Bericht und Pflegebericht zeigen … Wir bitten um Bestaetigung der Abrechnung; hilfsweise um Anberaumung eines Eroerterungstermins.
 
 **Aufwandspauschale-Forderung:**
 > Da die MD-Prüfung mit Schlussbewertung vom [Datum] ohne Erloesminderung endete, machen wir gemäß § 275c Abs. 1 SGB V die Aufwandspauschale i. H. v. 300 EUR geltend.
@@ -75,9 +75,9 @@ Der Medizinische Dienst (MD) prüft im Auftrag der Krankenkassen die Abrechnung 
 
 ## Quellen Stand 06/2026
 - SGB V §§ 275c, 109; KHG § 17c.
-- PrueferV (Live-Check gkv-spitzenverband.de, dkgev.de).
+- PrüferV (Live-Check gkv-spitzenverband.de, dkgev.de).
 - DKR (Deutsche Kodierrichtlinien) jeweils aktuelle Fassung.
-- BSG, staend. Rspr. zu Pruefverfahren, Aufwandspauschale, Strukturpruefung.
+- BSG, staend. Rspr. zu Prüfverfahren, Aufwandspauschale, Strukturpruefung.
 - InEK G-DRG-Katalog (Live-Check g-drg.de).
 
 ## Normen & Rechtsprechung

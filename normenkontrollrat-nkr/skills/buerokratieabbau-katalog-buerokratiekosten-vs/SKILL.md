@@ -19,7 +19,7 @@ Buerokratieabbau ist kein abstrakter Wunsch, sondern eine konkrete Liste wiederk
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Stellungnahme mit konkreten Aenderungsempfehlungen
+- Stellungnahme mit konkreten Änderungsempfehlungen
 - One-in-one-out-Gegenrechnung — wo Entlastung finden?
 - Jahresbericht: Best-Practice-Kapitel
 - Vorhaben mit hoher Belastung, mildere Alternative suchen
@@ -38,7 +38,7 @@ Rueckfrage nur wenn unklar: *"Soll der Vorschlag in einer aktuellen Stellungnahm
 
 ### Muster 1 — Schwellenwerte
 
-Statt Pflicht für alle: Pflicht nur ab Schwellenwert (Beschaeftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
+Statt Pflicht für alle: Pflicht nur ab Schwellenwert (Beschäftigte, Umsatz, Bilanzsumme, Transaktionsvolumen).
 
 ### Muster 2 — Bagatell-Ausnahmen
 
@@ -84,7 +84,7 @@ Alte Normen, die durch neuere ersetzt sind, ausdruecklich aufheben.
 
 Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Belastung identifizieren** (welche Pflicht? welcher Aufwand?)
 2. **Geeignetes Muster aus Katalog** waehlen
@@ -112,9 +112,9 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR empfiehlt, einen Schwellenwert (z.B. ab [X] Beschaeftigten oder [Y] EUR Umsatz) einzufuehren, um Kleinst- und Kleinunternehmen zu entlasten."
+- "Der NKR empfiehlt, einen Schwellenwert (z.B. ab [X] Beschäftigten oder [Y] EUR Umsatz) einzufuehren, um Kleinst- und Kleinunternehmen zu entlasten."
 - "Der NKR empfiehlt, die vorgesehene Pflicht zur jaehrlichen Datenmeldung durch Anwendung des Once-Only-Prinzips zu vereinfachen; die erforderlichen Daten liegen der Verwaltung bereits aus dem [Register] vor."
-- "Der NKR empfiehlt, die Frequenz der Bestaetigungspflicht von monatlich auf jaehrlich zu reduzieren und ereignisorientierte Nachmeldungen vorzusehen. Diese Aenderung wuerde den Erfuellungsaufwand um etwa [X] Mio EUR jaehrlich reduzieren."
+- "Der NKR empfiehlt, die Frequenz der Bestaetigungspflicht von monatlich auf jaehrlich zu reduzieren und ereignisorientierte Nachmeldungen vorzusehen. Diese Änderung wuerde den Erfuellungsaufwand um etwa [X] Mio EUR jaehrlich reduzieren."
 - "Im Rahmen der One-in-one-out-Bilanz schlaegt der NKR vor, die ressortintern bestehende Pflicht nach [Norm] aufzuheben, die seit Inkrafttreten von [Norm] redundant ist."
 - "Der NKR empfiehlt, die vorgesehene Genehmigungspflicht durch eine Anzeigepflicht mit Stichprobenkontrolle zu ersetzen."
 

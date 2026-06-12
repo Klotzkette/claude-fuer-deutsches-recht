@@ -1,6 +1,6 @@
 ---
 name: legalitaetsprinzipien-als-rechtsstaatsmotor
-description: "Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung."
+description: "Prüft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung."
 ---
 
 # Legalitätsprinzipien als Rechtsstaatsmotor

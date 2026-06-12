@@ -38,7 +38,7 @@ description: "Substantiierter Schriftsatzkern für Widerspruch + SG-Klage, Eilan
 
 ## Wann dieser Arbeitsgang greift
 
-- Es soll ein vollwertiger Schriftsatz im Bereich Sozialrecht (SGB I-XIV) erstellt werden, typischerweise: Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X.
+- Es soll ein vollwertiger Schriftsatz im Bereich Sozialrecht (SGB I-XIV) erstellt werden, typischerweise: Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X.
 - Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
 - Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
 
@@ -92,7 +92,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 - Pflicht-Erwaehnung im Tatsachenvortrag.
@@ -105,7 +105,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -151,7 +151,7 @@ Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
 
 ## Antrags-Muster nach Verfahrenstyp
 
-Typische Antraege in Sozialrecht (SGB I-XIV) (Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X):
+Typische Antraege in Sozialrecht (SGB I-XIV) (Widerspruch + SG-Klage, Eilantrag § 86b SGG, Überprüfungsantrag § 44 SGB X):
 
 - Hauptantrag (Leistung/Feststellung/Gestaltung).
 - Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
@@ -197,7 +197,7 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Sozialrecht (SGB I-XIV) ggf. spezifische ERV-Pflichten beachten.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Sozialrecht (SGB I-XIV) ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 

@@ -32,7 +32,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 ### Primaernormen
 
-- **DBA Deutschland-Belgien vom 11.04.1967** (BGBl. 1969 II S. 17/18), Zusatzabkommen 05.11.2002 (BGBl. 2003 II S. 1616), Aenderungsprotokoll 21.01.2010 (BGBl. 2010 II S. 1279).
+- **DBA Deutschland-Belgien vom 11.04.1967** (BGBl. 1969 II S. 17/18), Zusatzabkommen 05.11.2002 (BGBl. 2003 II S. 1616), Änderungsprotokoll 21.01.2010 (BGBl. 2010 II S. 1279).
 - **OECD-MA 2017** als Auslegungshilfe.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Belgien sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
@@ -56,7 +56,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Aktive Einkuenfte
 
 - Loehne (Art. 15): 183-Tage-Regel.
-- Achtung: Es gab in den 1960er-DBA für Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Aenderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text prüfen.
+- Achtung: Es gab in den 1960er-DBA für Belgien eine **echte Grenzgaengerregelung** in den Grenzbezirken (Aachen, Eupen, Malmedy). Diese wurde durch Änderungsprotokolle abgeschafft und durch eine Sonderregelung in den Grenzgemeinden ersetzt — aktuellen Protokoll-Stand im konsolidierten DBA-Text prüfen.
 
 ### Passive Einkuenfte
 
@@ -96,7 +96,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ## Strategie und Praxis-Tipps
 
 - DBA-Belgien war fruehe Generation; Begriffe entsprechen nicht in allen Punkten dem OECD-MA 2017 — Protokolle vollstaendig durchgehen.
-- Belgische DBI (Definitief Belaste Inkomsten) ist nationales Äquivalent zur Schachtelprivilegierung — Verhaeltnis zu deutscher § 8b KStG-Befreiung beachten.
+- Belgische DBI (Definitief Belaste Inkomsten) ist nationales Äquivalent zur Schachtelprivilegierung — Verhältnis zu deutscher § 8b KStG-Befreiung beachten.
 - Pensionen Art. 18 DBA-Belgien: Spezialregelung in einigen Fallgruppen vom OECD-Standard abweichend — aktuellen DBA-Text und BMF-Schreiben prüfen.
 - 183-Tage-Regelung: Kalenderjahr oder 12-Monatszeitraum — DBA-Text konkret prüfen, weicht historisch ab.
 - Bruessel-EU-Beamte: Wohnsitzfiktion erhaelt deutsche Steueransaessigkeit; deutsche Steuerpflicht greift weiter, EU-Bezuege sind frei nach EU-Protokoll.
@@ -106,7 +106,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 ### Erstattungsverfahren belgische Vorsteuer (Roerende Voorheffing / Precompte Mobilier)
 
 - **Zuständigkeit**: belgische Erstattung durch **Service Public Federal Finances** (FOD/SPF Finances), Centre de Perception/Inningscentrum. Aktuelle Zuständigkeit auf **finance.belgium.be** prüfen.
-- **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer für Auslaender) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
+- **Antragsformulare**: belgische Formulare **276 Div.** (Antrag Erstattung Mobiliar-Steuer für Ausländer) bzw. Schachtel-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf finance.belgium.be zu verifizieren.
 - **Frist**: nach belgischem Steuerrecht regelmaessig **fuenf Jahre** ab dem Steuerjahr — vergleichsweise grosszuegig.
 - **Bearbeitungsdauer**: 6-24 Monate; bei strittigen Faellen oft Jahre.
 - **Online-Portal**: **MyMinfin** (myminfin.be) für belgische Steuerangelegenheiten.
@@ -132,7 +132,7 @@ Das DBA-Belgien regelt unter anderem die deutschsprachige Gemeinschaft (Eupen, M
 
 - **Sondersystem für Sportler/Kuenstler**: Belgien hat eigenes System für auftretende Kuenstler/Sportler (haeufig 18 Prozent Pauschalsteuer); DBA Art. 17 sieht Quellenstaat-Besteuerung vor — bei Tournees genau dokumentieren.
 - **EU-Beamten-Konstellation**: deutscher EU-Beamter mit Wohnsitz Bruessel — § 14 EU-BeamtenStG iVm Protokoll 7 EUV bewirkt **Wohnsitzfiktion** Deutschland; trotz physischem Aufenthalt BE bleibt deutsche Steueransaessigkeit erhalten. EU-Gehalt steuerfrei in beiden Staaten.
-- **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Aenderungsprotokolle ersetzt — aktuellen Stand prüfen.
+- **Eupen-Malmedy-Pendler**: deutschsprachige Gemeinschaft Belgiens; klassische Grenzgaengerregelung der 1960er-Generation wurde durch Änderungsprotokolle ersetzt — aktuellen Stand prüfen.
 - **DBI-Mismatch**: belgische Holding mit deutscher Quelle — belgische DBI gewaehrt Schachtelbefreiung im Empfaengerstaat; § 8b KStG-Befreiung in DE; bei Hybriden § 4k EStG.
 - **183-Tage-Zaehlung**: aelteres DBA-Belgien definiert ggf. abweichend (Kalenderjahr vs. 12-Monatszeitraum) — sorgfaeltig prüfen.
 

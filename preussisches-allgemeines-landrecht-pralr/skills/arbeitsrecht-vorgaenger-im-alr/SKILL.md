@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-vorgaenger-im-alr
-description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster."
+description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhältnis zur preussischen Sozialversicherung Bismarcks. Liefert Prüfraster."
 ---
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr
@@ -33,7 +33,7 @@ description: "Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die 
 - 1889 Rentenversicherung.
 - Trennung von ALR-Tradition und Sozialgesetzgebung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Arbeitsverhaeltnistyp?
 2. Schutzvorschriften?

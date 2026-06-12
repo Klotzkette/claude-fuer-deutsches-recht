@@ -40,7 +40,7 @@ description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen od
 
 ## Verwechslungsgefahr: 4-Stufen-Test
 
-| Stufe | Pruefkriterium | Hinweis |
+| Stufe | Prüfkriterium | Hinweis |
 |-------|---------------|---------|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | Waren-/Dienstleistungsaehnlichkeit | Nizza-Klassifikation; funktionale Austauschbarkeit |
@@ -51,7 +51,7 @@ description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen od
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefraster Benutzungspflicht § 26 MarkenG
+## Prüfraster Benutzungspflicht § 26 MarkenG
 
 ```
 Eintragungs-Datum > 5 Jahre?
@@ -188,7 +188,7 @@ Anlage W3: [Gebührenbeleg]
 
 ## Vertiefung: Typische Fehler
 
-1. **Frist 3 Monate verpasst** — kein Widerspruch mehr möglich (→ Loeschungsklage § 50 MarkenG pruefe)
+1. **Frist 3 Monate verpasst** — kein Widerspruch mehr möglich (→ Loeschungsklage § 50 MarkenG prüfe)
 2. **Benutzungsnachweis nicht parat** bei aelterer Marke über 5 Jahre
 3. **Klassen-Aehnlichkeit oberflaechlich** — Verwechslungsgefahr falsch eingeschaetzt
 4. **Cooling-off bei EUIPO uebersehen** — Koexistenz-Chance vertan

@@ -1,6 +1,6 @@
 ---
 name: anti-dilution-articles-association
-description: "Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken im Gesellschaftsrecht Legal English."
+description: "Prüft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken im Gesellschaftsrecht Legal English."
 ---
 
 # Anti-Dilution Protection

@@ -1,6 +1,6 @@
 ---
 name: dba-betriebsstaette-art-5-musterabkommen
-description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette A..."
+description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob ausländische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette A..."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)
@@ -20,7 +20,7 @@ Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmen
 ## Kaltstart-Rueckfragen
 
 1. Welche Art von Aktivitaet liegt im anderen Staat vor (Vertrieb, Produktion, Bauausfuehrung, IT, Lager, Mitarbeiterentsendung)?
-2. Existiert dort eine feste Geschaeftseinrichtung (Buero, Werkstatt, Geschaeftsstelle, Server)?
+2. Existiert dort eine feste Geschäftseinrichtung (Buero, Werkstatt, Geschäftsstelle, Server)?
 3. Wie lang dauert die Aktivitaet (Bauausfuehrung 12 Monate, in vielen DBA abweichend — Schweiz/Oesterreich/Frankreich auch 9 oder 6 Monate)?
 4. Ist Personal vor Ort, mit welchen Vollmachten?
 5. Werden Verträge mit Mandantenkunden vor Ort abgeschlossen oder regelmaessig vorbereitet?
@@ -48,16 +48,16 @@ Die Betriebsstaette ist der Aufhaenger für das Besteuerungsrecht am Unternehmen
 
 ## Tatbestaende Betriebsstaette
 
-### Feste Geschaeftseinrichtung (Art. 5 Abs. 1)
+### Feste Geschäftseinrichtung (Art. 5 Abs. 1)
 
-- **Geschaeftseinrichtung**: jeder physische Ort (Buero, Halle, Stand, Sponsorflaeche).
+- **Geschäftseinrichtung**: jeder physische Ort (Buero, Halle, Stand, Sponsorflaeche).
 - **Festigkeit**: raeumlich-funktional fest, also nicht jeden Tag woanders.
-- **Verfuegungsmacht**: Unternehmen kontrolliert den Ort für seine Geschaefte.
-- **Aktivitaet**: dort werden Geschaefte ausgefuehrt (Anwesenheit Personal oder automatische Anlagen).
+- **Verfuegungsmacht**: Unternehmen kontrolliert den Ort für seine Geschäfte.
+- **Aktivitaet**: dort werden Geschäfte ausgefuehrt (Anwesenheit Personal oder automatische Anlagen).
 
 ### Beispielliste (Art. 5 Abs. 2)
 
-Ort der Leitung, Zweigniederlassung, Geschaeftsstelle, Fabrikationsstaette, Werkstaette, Bergwerk, Quelle.
+Ort der Leitung, Zweigniederlassung, Geschäftsstelle, Fabrikationsstaette, Werkstaette, Bergwerk, Quelle.
 
 ### Bauausfuehrung (Art. 5 Abs. 3)
 
@@ -77,7 +77,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 ### Tochter ist nicht automatisch Betriebsstaette (Art. 5 Abs. 7)
 
-- Aber: Faktische Geschaeftsleitung durch Mutter oder Personenidentitaet kann zusaetzlich BS begruenden.
+- Aber: Faktische Geschäftsleitung durch Mutter oder Personenidentitaet kann zusaetzlich BS begruenden.
 
 ## Land-spezifisches
 
@@ -96,7 +96,7 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 ### Phase 1 — Tatbestand Betriebsstaette prüfen
 
-1. Feste Geschaeftseinrichtung? Verfuegungsmacht, Festigkeit, Geschaeftstaetigkeit.
+1. Feste Geschäftseinrichtung? Verfuegungsmacht, Festigkeit, Geschäftstaetigkeit.
 2. Wenn nicht: Bauausfuehrung mit ausreichender Dauer?
 3. Wenn nicht: Vertreterbetriebsstaette? Vollmachtsumfang oder Hauptrolle?
 4. Negative Liste prüfen — Anti-Fragmentierung beachten.
@@ -105,14 +105,14 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 
 1. Functions performed, risks borne, assets used — Function-Risk-Asset-Analysis.
 2. Dotationskapital ermitteln.
-3. Dealings interne Geschaeftsbeziehungen markieren.
+3. Dealings interne Geschäftsbeziehungen markieren.
 4. Verrechnungspreise nach Fremdvergleichsgrundsatz.
 5. Dokumentation nach BsGaV.
 
 ### Phase 3 — Quellensteuer und Steuerverfahren
 
 1. Steuererklaerung Betriebsstaettenstaat.
-2. Anlage AESt (Auslaendische Steuer) Deutschland.
+2. Anlage AESt (Ausländische Steuer) Deutschland.
 3. Vermeidung Doppelbesteuerung: Freistellung oder Anrechnung.
 
 ### Phase 4 — Compliance
@@ -136,13 +136,13 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 - **Vertreterbetriebsstaette: Verträge gegenchecken**: nach MLI Art. 12 reicht die "Hauptrolle beim Zustandekommen". Prüfer schauen, ob Vertrieb vor Ort Quittungs- und Kundenkommunikationsbefugnis hat — Vertragsmuster und CRM-Datenanalyse.
 - **Lokales Filing nicht vergessen**: viele Staaten verlangen vor Tag 1 Aktivitaet eine Anzeigemeldung (z.B. Frankreich Bureau de Liaison, UK Permanent Establishment Notification). Im DE-Bereich Anlage AESt nicht vergessen.
 - **AOA-Dokumentation mitliefern**: BsGaV (Betriebsstaettengewinnaufteilungsverordnung) verlangt eine Hilfs- und Nebenrechnung — prüfer freuen sich über lieferfertige FRA (Function-Risk-Asset)-Tabelle ab Tag 1.
-- **Konsultationsvereinbarungen Home-Office**: aktuell mit Luxemburg dauerhaft im Aenderungsprotokoll vom 06.07.2023 verankert (Bagatellgrenze 34 Tage), Niederlande analog ab 01.01.2026 (Aend.-Prot. 14.04.2025). Andere Staaten teils befristet — BMF-Verzeichnis prüfen.
+- **Konsultationsvereinbarungen Home-Office**: aktuell mit Luxemburg dauerhaft im Änderungsprotokoll vom 06.07.2023 verankert (Bagatellgrenze 34 Tage), Niederlande analog ab 01.01.2026 (Aend.-Prot. 14.04.2025). Andere Staaten teils befristet — BMF-Verzeichnis prüfen.
 
 ## Trade-off-Tabelle
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Tochter im Ausland gruenden vs. BS unterhalten | Tochter (Capital Company) — eigenstaendige Besteuerung, aber Compliance | BS — Gewinnabgrenzung AOA, keine separate Rechtspersoenlichkeit | bei dauerhaftem Geschaeftsbetrieb meist Tochter; bei Pilotprojekt BS |
+| Tochter im Ausland gruenden vs. BS unterhalten | Tochter (Capital Company) — eigenstaendige Besteuerung, aber Compliance | BS — Gewinnabgrenzung AOA, keine separate Rechtspersoenlichkeit | bei dauerhaftem Geschäftsbetrieb meist Tochter; bei Pilotprojekt BS |
 | BS bewusst vermeiden vs. anerkennen | Aktivitaeten reduzieren auf Vorbereitung/Hilfsfunktion, Mitarbeiter ohne Vollmacht | BS akzeptieren, AOA-Doku aufbauen | bei lukrativen lokalen Maerkten BS akzeptieren, Steuerersparnis durch Freistellungsmethode oft attraktiver |
 | Anti-Fragmentierung: Strukturoptimierung | Aktivitaeten auf mehrere verbundene Unternehmen aufteilen — vor BEPS oft genutzt | Aktivitaeten zentralisieren, eine klare BS | seit MLI Art. 13: Pfad A scheitert regelmaessig — Pfad B sicherer |
 | Server-BS vs. Server-Cloud | dedizierter Server vor Ort (Verfuegungsmacht) — kann BS sein | Cloud-Hosting (Drittanbieter) — regelmaessig keine BS | bei E-Commerce: Cloud-Hosting bevorzugen, wenn Quellenstaat-Steuer vermieden werden soll |
@@ -156,13 +156,13 @@ Reine Vorbereitungs- oder Hilfstaetigkeiten begruenden keine Betriebsstaette: La
 - **Anti-Fragmentierung uebersehen**: Aktivitaeten auf Schwestergesellschaften aufgeteilt, Memo argumentiert pro Standort isoliert.
 - **AOA-Gewinnabgrenzung fehlt** oder ohne Dotationskapital — fuehrt zur Schaetzung durch FA.
 - **Doppelte Compliance**: Local Filing im BS-Staat versaeumt; deutsche Anlage AESt fehlt.
-- **Tochter automatisch als BS behandelt** (Art. 5 Abs. 7) — falsch, nur faktische Geschaeftsleitung der Mutter kann BS-Wirkung haben.
+- **Tochter automatisch als BS behandelt** (Art. 5 Abs. 7) — falsch, nur faktische Geschäftsleitung der Mutter kann BS-Wirkung haben.
 
-## BS-Pruefraster (Mustertabelle)
+## BS-Prüfraster (Mustertabelle)
 
-| Pruefpunkt | DBA-Norm / nat. Recht | Befund Mandant | Ergebnis |
+| Prüfpunkt | DBA-Norm / nat. Recht | Befund Mandant | Ergebnis |
 |---|---|---|---|
-| Feste Geschaeftseinrichtung | Art. 5 Abs. 1 DBA | [Buero/Werkstatt/Server] | [ja/nein] |
+| Feste Geschäftseinrichtung | Art. 5 Abs. 1 DBA | [Buero/Werkstatt/Server] | [ja/nein] |
 | Verfuegungsmacht | Art. 5 Abs. 1 DBA | [Mietvertrag/Eigentum/dauerhafte Nutzung] | [ja/nein] |
 | Festigkeit (raeumlich-funktional) | Art. 5 Abs. 1 DBA | [Dauer; > 6 Monate Indiz] | [ja/nein] |
 | Aktivitaet | Art. 5 Abs. 1 DBA | [Personal/Anlage tätig] | [ja/nein] |

@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 19
 
 ## Worum es geht
 
-Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schluesselgewalt des Mannes (§ 1354 BGB a.F.), maennliches Entscheidungsrecht, Unmuendigkeit der Ehefrau in Vermoegensfragen. Die WRV 1919 postulierte in Art. 119 die Gleichberechtigung der Eheleute, ohne sie vollstaendig durchzusetzen. Das GG 1949 Art. 3 Abs. 2 verbot Benachteiligung wegen des Geschlechts; das BVerfG setzte dem Gesetzgeber in BVerfGE 3, 225 (1953) eine Frist. Das Gleichberechtigungsgesetz 1957 (BGBl. I 1957, 609) schaffte die maennliche Schluesselgewalt ab. Das Erste Eherechtsreformgesetz (EheRG) 1976 (BGBl. I 1976, 1421) ersetzte das Verschuldensprinzip durch das Zerruttungsprinzip.
+Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schlüsselgewalt des Mannes (§ 1354 BGB a.F.), maennliches Entscheidungsrecht, Unmuendigkeit der Ehefrau in Vermögensfragen. Die WRV 1919 postulierte in Art. 119 die Gleichberechtigung der Eheleute, ohne sie vollstaendig durchzusetzen. Das GG 1949 Art. 3 Abs. 2 verbot Benachteiligung wegen des Geschlechts; das BVerfG setzte dem Gesetzgeber in BVerfGE 3, 225 (1953) eine Frist. Das Gleichberechtigungsgesetz 1957 (BGBl. I 1957, 609) schaffte die maennliche Schlüsselgewalt ab. Das Erste Eherechtsreformgesetz (EheRG) 1976 (BGBl. I 1976, 1421) ersetzte das Verschuldensprinzip durch das Zerruttungsprinzip.
 
 ## Kernnormen / Kernquellen
 
@@ -40,7 +40,7 @@ Das Familienrecht des BGB 1900 spiegelte das 19. Jahrhundert: Eheliche Schluesse
 ## Typische Streitfragen / Forschungsfragen
 
 1. Warum dauerte es bis 1957, obwohl Art. 3 Abs. 2 GG schon 1949 galt?
-2. Schluesselgewalt § 1354 BGB a.F.: War sie wirklich ein Problem in der Praxis?
+2. Schlüsselgewalt § 1354 BGB a.F.: War sie wirklich ein Problem in der Praxis?
 3. Zerruttungsprinzip 1976 vs. Verschuldensprinzip: Welches Modell ist fairer?
 4. Eheliches Gueterrecht: Wie veraenderte das Gleichberechtigungsgesetz das Gueterrecht?
 5. GG Art. 6: Ehe und Familie als Schutz oder als Normierungsgebot?

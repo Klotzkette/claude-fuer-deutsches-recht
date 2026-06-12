@@ -31,7 +31,7 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 2. Welche Abfindungshoehe?
 3. Wird die Abfindung in einem Jahr ausgezahlt (Zusammenballung)?
 4. Welcher Bruttolohn des AN im Vorjahr und im Jahr der Auszahlung?
-5. Welches Alter des AN, welche Beschaeftigungsdauer (Aufstockungs-Pauschale)?
+5. Welches Alter des AN, welche Beschäftigungsdauer (Aufstockungs-Pauschale)?
 6. Erfolgt die Abfindung ausschließlich oder mit weiteren Komponenten (offene Loehne, Urlaubsabgeltung)?
 7. Wird die Abfindung als Zahlungsersatz für entgangene Loehne gestaltet (SV-Pflicht-Risiko)?
 8. AG-Wunsch — Auszahlung im Folgejahr (Steueroptimierung)?

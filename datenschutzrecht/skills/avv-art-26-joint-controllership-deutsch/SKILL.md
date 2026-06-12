@@ -95,7 +95,7 @@ Klauselgeruest für eine Joint-Controller-Vereinbarung nach Art. 26 DSGVO in deu
 > Die Parteien stimmen sich bei einer Datenpanne unverzueglich, spaetestens innerhalb von vierundzwanzig (24) Stunden ab Kenntnis, über Meldepflichten gegenueber der Aufsichtsbehoerde und gegenueber Betroffenen ab. Die Federfuehrung für die Meldung an die Aufsichtsbehoerde liegt bei der Partei, in deren Verantwortungsbereich der Vorfall faellt; bei gemeinsamem Bereich uebernimmt Partei A die Federfuehrung.
 >
 > § 6 Haftung und Innenregress
-> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils gemäß Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
+> Die Parteien haften gegenueber Betroffenen gesamtschuldnerisch nach Art. 82 Abs. 4 DSGVO. Im Innenverhaeltnis tragen die Parteien den Schaden im Verhältnis ihres jeweiligen Verschuldensanteils gemäß Art. 82 Abs. 5 DSGVO. Die Haftung im Innenverhaeltnis ist auf [BETRAG] EUR pro Schadensfall begrenzt; die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >
 > § 7 Aufsichtsbehoerden
 > Die Parteien unterstuetzen einander bei Anfragen und Kontrollen durch die Aufsichtsbehoerden.

@@ -41,11 +41,11 @@ description: "Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltse
 
 ## Empfehlung Arbeitgeber
 
-1. Einwurfeinschreiben + zweites Versand (Bote zur Empfangsbestaetigung) oder Uebergabe persoenlich.
+1. Einwurfeinschreiben + zweites Versand (Bote zur Empfangsbestaetigung) oder Übergabe persoenlich.
 2. Inhalt protokollieren (Zeuge sieht Umschlag-Inhalt vor Einwurf).
 3. Kopie der Kuendigung mit Versand-Vermerk dokumentieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Zustellweg?
 2. Auslieferungsbeleg vorhanden?

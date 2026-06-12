@@ -24,7 +24,7 @@ description: "PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrecht
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 8 § 1**: "Eigenthuemer heisst derjenige, welcher befugt ist, über die Substanz einer Sache, oder eines Rechts, mit Ausschliessung Anderer, aus eigener Macht, durch sich selbst oder einen Dritten, zu verfuegen."
 - **ALR I 8 §§ 26-50**: Schranken — Aufopferung für Gemeinwohl, Notrechte Dritter.
 - **ALR I 9 §§ 1-100**: Besitz; corpus + animus aus roemischer Tradition; mittelbarer Besitz uebergeben.

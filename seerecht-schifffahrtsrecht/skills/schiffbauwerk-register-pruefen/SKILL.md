@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-register-pruefen
-description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Register..."
+description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prüft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Register..."
 ---
 
 # Schiffbauwerk – Registerprüfung
@@ -14,12 +14,12 @@ description: "Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prue
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prüft den Schiffbauwerksregister vor Auszahlung eines Kredits für ein Schiff im Bau (Schiffbauwerk). Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
+Eine finanzierende Bank prüft den Schiffbauwerksregister vor Auszahlung eines Kredits für ein Schiff im Bau (Schiffbauwerk). Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Gläubigerliste für die Masse.
 
 ## Erste Schritte
 1. Aktuellen Registerauszug (Schiffbauwerksregister) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) prüfen; Verkaeufereigenschaft bestaetigen.
-3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
+3. Hypothekenabteilung (Abt. II): Betrag, Rang, Gläubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
 5. Arrest- und Pfaendungsvermerke sichten; Zeitpunkt der Eintragung beachten.
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.

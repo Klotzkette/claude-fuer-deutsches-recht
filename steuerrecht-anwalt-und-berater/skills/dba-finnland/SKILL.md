@@ -33,7 +33,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 ### Primaernormen
 - **DBA Deutschland-Finnland vom 19.02.2016**, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467; BStBl. 2017 I S. 1527/1528).
 - Altes DBA-Finnland vom 05.07.1979 für Zeitraeume bis 2017.
-- Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755).
+- Änderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755).
 - **OECD-MA 2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
@@ -64,7 +64,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 ### Besonderheiten
 - **Pensionen** Art. 17: gesetzliche Renten Wohnsitzstaat, Beamtenpensionen Kassenstaat.
 - **TyEL** (Arbeitsplatzrente Finnland): Sonderbehandlung.
-- **Aktive Geschaeftstaetigkeit** (Aktivitaetsklausel) im Methodenartikel.
+- **Aktive Geschäftstaetigkeit** (Aktivitaetsklausel) im Methodenartikel.
 
 ## Workflow
 
@@ -94,7 +94,7 @@ Das DBA-Finnland wurde 2016 neu gefasst (Unterzeichnung 19.02.2016, BGBl. 2017 I
 
 - **Wechsel Methodenartikel**: DBA 1979 hatte Freistellungsmethode (Art. 23 a.F.); DBA 2016 hat Anrechnung (Art. 22 n.F.). Bei VZ-uebergreifenden Sachverhalten Stichtagspruefung — der Wechsel zu Anrechnung verschlechtert i.d.R. die DE-Position bei aktiven Einkuenften.
 - **Finnische TyEL-Rente**: Arbeitsplatzrente, vergleichbar mit deutscher betrieblicher Altersversorgung. Behandlung nach DBA 2016 Art. 17 — gesetzliche Renten Wohnsitzstaat, Beamtenpension Kassenstaat. TyEL ist privatrechtlich organisiert, aber gesetzlich verpflichtend — Prüfer differenziert ggf.
-- **Aenderungsprotokoll 2020/2021**: Anpassungen, vom Anwender mit aktuellem konsolidierten Text zu prüfen.
+- **Änderungsprotokoll 2020/2021**: Anpassungen, vom Anwender mit aktuellem konsolidierten Text zu prüfen.
 - **MLI**: Beide ratifiziert; PPT-Klausel anwendbar — Treaty-Shopping versagt.
 - **Sportler Eishockey/Wintersport**: Art. 17 Auftrittsstaat — bei finnischen Eishockey-Spielern in DE-Liga oder umgekehrt sorgfaeltige Vertragsauslegung; Promoter und Veranstalter haben oft eigene Quellensteuerpflichten.
 
@@ -143,10 +143,10 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 ## Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Finnland 2016, Aenderungsprotokoll 2020/2021 Fundstellen verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Finnland 2016, Änderungsprotokoll 2020/2021 Fundstellen verbindlich zitieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Aenderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
+Stand: 05/2026. DBA-Finnland 19.02.2016, in Kraft 16.11.2017, anwendbar ab 01.01.2018 (BGBl. 2017 II S. 466/467). Altes DBA 05.07.1979. Änderungsprotokoll in Kraft 25.02.2021 (BGBl. 2020 II S. 754/755). MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 8 Marker aufgeloest: 5 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

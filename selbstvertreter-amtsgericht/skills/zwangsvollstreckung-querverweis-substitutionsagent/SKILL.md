@@ -55,7 +55,7 @@ Mit:
 ### Schritt 2 — Bonitaets-Check Schuldner
 
 - Schuldnerverzeichnis prüfen (kostenfrei einsehbar).
-- Vermoegens-Auskunft (§ 802c ZPO) beantragen — Schuldner muss Vermögen offenlegen.
+- Vermögens-Auskunft (§ 802c ZPO) beantragen — Schuldner muss Vermögen offenlegen.
 
 ### Schritt 3 — Vollstreckungs-Wege
 
@@ -66,7 +66,7 @@ Es gibt mehrere Wege:
 - **Kontopfaendung** bei der Bank.
 - **Immobilien-Vollstreckung** (Zwangshypothek, Zwangsversteigerung) bei Hausbesitz.
 
-Welcher Weg ist optimal? Haengt von Schuldner-Verhaeltnissen ab.
+Welcher Weg ist optimal? Haengt von Schuldner-Verhältnissen ab.
 
 ### Schritt 4 — Hier nur Hinweis: Ziehen Sie den Substitutionsagenten
 
@@ -74,7 +74,7 @@ Für Details:
 
 - Wie Sie Antraege formulieren.
 - Welche Pfaendungs-Strategie wann sinnvoll.
-- Wie Sie die Vermoegens-Auskunft auswerten.
+- Wie Sie die Vermögens-Auskunft auswerten.
 - Wie Sie mehrere Vollstreckungs-Akte koordinieren.
 
 → **Substitutionsagent**.

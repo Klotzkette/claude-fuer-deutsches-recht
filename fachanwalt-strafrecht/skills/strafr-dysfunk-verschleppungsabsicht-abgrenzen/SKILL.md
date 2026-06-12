@@ -39,7 +39,7 @@ description: "Verschleppungsabsicht nach § 244 Abs: 3 Satz 3 StPO als Sonderfal
 ## Argumentation gegen Ablehnungsbeschluss
 
 - Beanstanden, dass das subjektive Element (Kenntnis des Antragstellers von Bedeutungslosigkeit) nicht konkret dargelegt ist.
-- Hinweis auf Aufklaerungspflicht § 244 Abs. 2 StPO als ueberlagernden Massstab.
+- Hinweis auf Aufklaerungspflicht § 244 Abs. 2 StPO als ueberlagernden Maßstab.
 - Bei Ablehnung wegen Verschleppungsabsicht: Beanstandung in der Hauptverhandlung, Erklaerung § 257 Abs. 2 StPO, Vorbehalt der Revisionsruege § 244 StPO.
 
 ## Pitfalls

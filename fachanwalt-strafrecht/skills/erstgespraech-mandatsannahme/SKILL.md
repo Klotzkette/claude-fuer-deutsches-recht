@@ -33,7 +33,7 @@ Erste Frage: Wofür braucht Mandantschaft Sie?
 - **Beschuldigte oder Angeklagte** - Verteidigung im Strafverfahren.
 - **Verletzte oder Anzeigeerstattende** - Beratung, Strafanzeige, Akteneinsicht der Verletzten, ggf. Nebenklage-Anschluss.
 - **Zeuginnen oder Zeugen** - Zeugenbeistand gemäß § 68b StPO, Auskunftsverweigerungsrecht gemäß § 55 StPO.
-- **Insolvenzverwalter/Geschaeftsfuehrung** mit StA-Berlin-Beruehrung - paralleles Insolvenz-/Strafverfahren.
+- **Insolvenzverwalter/Geschäftsführung** mit StA-Berlin-Beruehrung - paralleles Insolvenz-/Strafverfahren.
 
 Standard-Fragenraster:
 
@@ -48,7 +48,7 @@ Standard-Fragenraster:
 - Konflikt-Check über Mandantsystem: Mit-Beschuldigte, Verletzte, frueheres Mandat?
 - Bei Mehrfach-Beschuldigten zwingend pro Person eigene Verteidigung (§ 146 StPO).
 - GwG-Identifizierung: amtlicher Lichtbildausweis, bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
-- Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermoegensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
+- Risikobewertung (niedrig/mittel/hoch) abhaengig von Auslandsbezug, Vermögensherkunft, Tatvorwurf (insbesondere § 261 StGB Geldwaesche, § 370 AO Steuerhinterziehung).
 - Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG, BRAK-Identifizierungsleitfaden).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -83,7 +83,7 @@ Drei Weichen am Ende des Erstgespraechs:
 ## Pflicht-Output am Ende
 
 1. **Mandatsbogen** mit Beteiligten, Rolle, Konflikt-Check, GwG-Status, Tatvorwurf, Aktenzeichen.
-2. **Frist-Liste** (Einspruch, Revisionseinlegung, Revisionsbegruendung, Beschwerdefristen, Anschluss-Frist Nebenklage, U-Haft-Pruefungsfristen § 121 StPO).
+2. **Frist-Liste** (Einspruch, Revisionseinlegung, Revisionsbegruendung, Beschwerdefristen, Anschluss-Frist Nebenklage, U-Haft-Prüfungsfristen § 121 StPO).
 3. **Anlagenverzeichnis** des uebergebenen Datenraums (Bescheide, Schreiben, Anhörungsbogen).
 4. **Naechster-Schritt-Plan:** binnen 24 / 48 / 72 h, Owner, Output (Akteneinsicht stellen, Pflichtverteidigerbeiordnung beantragen, U-Haft-Beschwerde).
 5. **Honorarvereinbarung** unterschrieben oder Hinweis auf RVG-Festgebuehr / Pflichtverteidiger-Beiordnung.
@@ -160,11 +160,11 @@ Mandantschaft hat Vorladung als Zeuge in einem Verfahren erhalten, ist aber selb
 
 ### Konstellation E: Wirtschaftsstrafverfahren mit Insolvenzantrag der StA
 
-Mandantschaft ist Geschaeftsfuehrer/in einer GmbH; StA hat Insolvenzantrag gemäß § 14 InsO gestellt, parallel laeuft Strafverfahren wegen Insolvenzverschleppung (§ 15a InsO) oder Untreue (§ 266 StGB).
+Mandantschaft ist Geschäftsführer/in einer GmbH; StA hat Insolvenzantrag gemäß § 14 InsO gestellt, parallel laeuft Strafverfahren wegen Insolvenzverschleppung (§ 15a InsO) oder Untreue (§ 266 StGB).
 
 1. Doppelgleisige Strategie: Strafverteidigung + Insolvenzverteidigung.
 2. Prüfung Anhörungsantraege im InsO-Verfahren.
-3. Vermoegensabschoepfung gemäß §§ 73 ff. StGB und Beschlagnahme gemäß § 111b StPO im Auge behalten.
+3. Vermögensabschoepfung gemäß §§ 73 ff. StGB und Beschlagnahme gemäß § 111b StPO im Auge behalten.
 4. Cross-Ref: `fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`.
 
 ## Mandanten-Erwartungsmanagement

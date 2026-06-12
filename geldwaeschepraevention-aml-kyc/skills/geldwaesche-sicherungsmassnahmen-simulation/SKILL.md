@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sicherungsmassnahmen-simulation
-description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise..."
+description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Maßnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise..."
 ---
 
 # Interne Sicherungsmaßnahmen und ICP
@@ -28,7 +28,7 @@ Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsf
 
 ## Zentrale Normen
 - § 4 GwG — Interne Sicherungsmaßnahmen: vollstaendige Pflichtkataloge
-- § 6 GwG — Pflichten der Geschaeftsleitung zur Einrichtung wirksamer Kontrollen
+- § 6 GwG — Pflichten der Geschäftsleitung zur Einrichtung wirksamer Kontrollen
 - BaFin MaRisk AT 8.2 — Anforderungen an interne Kontrollsysteme (analoger Standard für AML)
 - FATF Recommendation 18 — Internal Controls, Compliance and Audit
 

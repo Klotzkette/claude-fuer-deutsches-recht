@@ -1,13 +1,13 @@
 ---
 name: geschaeftsverteilung-richter-21e-gvg
-description: "Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschaeftsverteilungsplans zu Beginn des Geschaeftsjahres die Aenderung waehrend des Jahres und..."
+description: "Skill zur richterlichen Geschäftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschäftsverteilungsplans zu Beginn des Geschäftsjahres die Änderung waehrend des Jahres und..."
 ---
 
-# Geschaeftsverteilung Richter § 21e GVG
+# Geschäftsverteilung Richter § 21e GVG
 
 ## Arbeitsbereich
 
-Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschaeftsverteilungsplans zu Beginn des Geschaeftsjahres die Aenderung waehrend des Jahres und die Anforderungen an die Bestimmtheit. Behandelt die Konstellation Belastungssituation Kammerwechsel Vertretungsregelungen sowie unzulaessige Umverteilung anhaengiger Verfahren. Liefert Pruefraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur richterlichen Geschäftsverteilung nach § 21e GVG und zum verfassungsrechtlichen Anspruch auf den gesetzlichen Richter aus Art. 101 Abs. 1 Satz 2 GG. Klaert das Praesidium die Aufstellung des Geschäftsverteilungsplans zu Beginn des Geschäftsjahres die Änderung waehrend des Jahres und die Anforderungen an die Bestimmtheit. Behandelt die Konstellation Belastungssituation Kammerwechsel Vertretungsregelungen sowie unzulaessige Umverteilung anhaengiger Verfahren. Liefert Prüfraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,30 +19,30 @@ Skill zur richterlichen Geschaeftsverteilung nach § 21e GVG und zum verfassungs
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Richterinnen und Richter, die ihre Spruchkoerperzuteilung prüfen oder eine Aenderung des Geschaeftsverteilungsplans angreifen wollen, und für Verteidiger, die in einem konkreten Verfahren die Verletzung des gesetzlichen Richters geltend machen wollen.
+Skill für Richterinnen und Richter, die ihre Spruchkoerperzuteilung prüfen oder eine Änderung des Geschäftsverteilungsplans angreifen wollen, und für Verteidiger, die in einem konkreten Verfahren die Verletzung des gesetzlichen Richters geltend machen wollen.
 
 ## 2. Eingaben
 
-- Geschaeftsverteilungsplan des laufenden Geschaeftsjahres
-- Etwaige unterjaehrige Aenderungen
+- Geschäftsverteilungsplan des laufenden Geschäftsjahres
+- Etwaige unterjaehrige Änderungen
 - Beschluss des Praesidiums
 - Konkrete Streitfrage (Spruchkoerperzuweisung im einzelnen Verfahren)
 
 ## 3. Ablauf / Checkliste
 
 ### a) Aufstellung
-- § 21e Abs. 1 GVG: das Praesidium des Gerichts bestimmt vor Beginn des Geschaeftsjahres die Geschaeftsverteilung.
+- § 21e Abs. 1 GVG: das Praesidium des Gerichts bestimmt vor Beginn des Geschäftsjahres die Geschäftsverteilung.
 - Die Bestimmungen müssen so bestimmt sein, dass die Zuteilung im Voraus feststeht.
 
-### b) Aenderung waehrend des Geschaeftsjahres
-- § 21e Abs. 3 GVG: Aenderung nur, wenn dies wegen Ueberlastung, ungenuegender Auslastung, Wechsels eines Mitglieds des Spruchkoerpers, dauernder Verhinderung notwendig ist.
+### b) Änderung waehrend des Geschäftsjahres
+- § 21e Abs. 3 GVG: Änderung nur, wenn dies wegen Überlastung, ungenuegender Auslastung, Wechsels eines Mitglieds des Spruchkoerpers, dauernder Verhinderung notwendig ist.
 - Anhaengige Verfahren dürfen einem anderen Spruchkoerper grundsätzlich nicht zugeteilt werden.
 
 ### c) Bestimmtheit
 - Wahllos formulierte Verteilungsplaene ("Sonderzuweisungen durch den Praesidenten") verletzen das Bestimmtheitsgebot.
 
 ### d) Vertretung
-- Vertretungsregelung muss ebenfalls im Geschaeftsverteilungsplan vorgesehen sein und einer abstrakt-generellen Regel folgen.
+- Vertretungsregelung muss ebenfalls im Geschäftsverteilungsplan vorgesehen sein und einer abstrakt-generellen Regel folgen.
 
 ### e) Rechtsschutz
 - Antrag auf Prüfung beim Dienstgericht; Eilantrag bei drohender Verletzung des gesetzlichen Richters.
@@ -51,7 +51,7 @@ Skill für Richterinnen und Richter, die ihre Spruchkoerperzuteilung prüfen ode
 ## 4. Quellenpflicht
 
 - Normen: Art. 101 Abs. 1 Satz 2 GG; §§ 21a, 21e GVG; § 21f GVG.
-- Rspr.: BVerfG und BGH zum gesetzlichen Richter und zur Geschaeftsverteilung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Rspr.: BVerfG und BGH zum gesetzlichen Richter und zur Geschäftsverteilung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

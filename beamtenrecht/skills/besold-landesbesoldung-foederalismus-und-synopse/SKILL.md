@@ -45,7 +45,7 @@ Bei Bewerbung in mehrere Länder Synopse erstellen:
 - Diverse Länder haben 2023/2024 amtsangemessene Alimentation reformiert.
 - Konkrete Datum live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Bundesland?
 2. Welches LBesG aktuell?

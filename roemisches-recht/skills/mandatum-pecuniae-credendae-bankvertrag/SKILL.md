@@ -1,6 +1,6 @@
 ---
 name: mandatum-pecuniae-credendae-bankvertrag
-description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhaeltnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix im Römisches Recht."
+description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhältnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag
@@ -20,14 +20,14 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 
 ## Tatbestand
 
-- A (Buerge) gibt B (Glaeubiger) den Auftrag, dem C (Schuldner) Geld zu leihen.
+- A (Buerge) gibt B (Gläubiger) den Auftrag, dem C (Schuldner) Geld zu leihen.
 - Wirtschaftlich: A garantiert die Rueckzahlung durch C.
 
 ## Rechtsfolge
 
 - Wenn C nicht zahlt, hat B actio mandati contraria gegen A auf Ausgleich.
-- Im Verhaeltnis A-B: mandatum (Auftrag mit Aufwendungsersatz).
-- Im Verhaeltnis B-C: regulaeres mutuum (Darlehen).
+- Im Verhältnis A-B: mandatum (Auftrag mit Aufwendungsersatz).
+- Im Verhältnis B-C: regulaeres mutuum (Darlehen).
 
 ## Funktionale Äquivalenz zur Buergschaft
 
@@ -40,7 +40,7 @@ description: "Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemisch
 - § 651 BGB Schuldbeitritt.
 - Garantievertrag (eigenstaendige Schuld).
 
-## Pruefraster
+## Prüfraster
 
 1. Mandatum oder mutuum?
 2. Aufwendungsersatz?

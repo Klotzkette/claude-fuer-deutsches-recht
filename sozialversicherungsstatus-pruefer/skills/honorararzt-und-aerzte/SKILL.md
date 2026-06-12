@@ -1,6 +1,6 @@
 ---
 name: honorararzt-und-aerzte
-description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation im Sozialversicherungsstatus Pruefer."
+description: "Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation im Sozialversicherungsstatus Prüfer."
 ---
 
 # Honorararzt und Ärzte

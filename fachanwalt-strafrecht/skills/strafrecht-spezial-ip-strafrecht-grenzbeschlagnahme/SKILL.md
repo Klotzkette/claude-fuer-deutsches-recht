@@ -72,8 +72,8 @@ Praxisbesonderheit: Die **Benachrichtigung durch Zoll** (Art. 17 VO) loest die K
 ## Konkurrenzen
 
 - Grenzbeschlagnahme ist Verfahrensinstrument, keine Strafnorm; sie steht **neben** den materiellen IP-Straftatbestaenden, nicht in Konkurrenz.
-- Verhaeltnis zu Paragraphen 94 ff. StPO (Beschlagnahme): Zollbeschlagnahme tritt regelmaessig vor Strafverfahren; StA kann Ware nach Paragraph 94 StPO beschlagnahmen, sofern noch in Zollverwahrung; Uebergabe aus Zoll an StA.
-- Verhaeltnis zur **Vorratsdatenpflicht** beim Online-Plattform-Vertrieb (DSA Art. 22 ff.) — kommerzielle Plattformen müssen Trader-Daten speichern und auf Anforderung herausgeben; im IP-Strafverfahren Beweissicherung über Plattform-Betreiber möglich.
+- Verhältnis zu Paragraphen 94 ff. StPO (Beschlagnahme): Zollbeschlagnahme tritt regelmaessig vor Strafverfahren; StA kann Ware nach Paragraph 94 StPO beschlagnahmen, sofern noch in Zollverwahrung; Übergabe aus Zoll an StA.
+- Verhältnis zur **Vorratsdatenpflicht** beim Online-Plattform-Vertrieb (DSA Art. 22 ff.) — kommerzielle Plattformen müssen Trader-Daten speichern und auf Anforderung herausgeben; im IP-Strafverfahren Beweissicherung über Plattform-Betreiber möglich.
 
 ## Strafzumessung
 

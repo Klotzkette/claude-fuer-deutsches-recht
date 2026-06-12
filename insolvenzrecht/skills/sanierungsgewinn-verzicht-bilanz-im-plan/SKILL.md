@@ -31,7 +31,7 @@ Ordnet die Konstellationen und liefert konkrete Buchungs-Saetze.
 
 - Plan steht vor Vollzug; Buchhaltung des Schuldners muss die Bilanzfolgen vorbereiten.
 - StB muss die Steuerbilanz für das Sanierungsjahr aufstellen.
-- IV oder Sachwalter muss dem Glaeubigerausschuss die wirtschaftlichen Folgen erklaeren.
+- IV oder Sachwalter muss dem Gläubigerausschuss die wirtschaftlichen Folgen erklaeren.
 
 Kaltstart-Fragen:
 
@@ -51,7 +51,7 @@ Kaltstart-Fragen:
 - Paragraph 5 Absatz 1 EStG — Massgeblichkeit der Handelsbilanz.
 - Paragraph 5 Absatz 2a EStG — Rangrücktritt und auflosbare Verbindlichkeit.
 - Paragraph 3a EStG — steuerliche Begnadigung des Sanierungsertrags.
-- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
+- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermögenslosigkeit begruendet keine Ausbuchung der Verbindlichkeit — Abgrenzung zum Verzicht.
 
 ## / Schritt für Schritt
 
@@ -132,7 +132,7 @@ Die verbleibenden 20 % bleiben passiviert und werden plangemaess bedient.
 2. **Besserungsabrede genau formulieren.** Eine missverstaendliche Klausel kann den gesamten Sanierungsertrag steuerlich nach hinten verschieben — oder umgekehrt vorziehen.
 3. **HGB- und Steuerbilanz auseinander halten.** Massgeblichkeit nach Paragraph 5 Absatz 1 EStG, aber Sonderregeln greifen.
 4. **Konzern-Verzichte sind heikel.** Verdeckte Einlage Mutter zugunsten Tochter laeuft anders als über Schwesterunternehmen.
-5. **Achtung Ausbuchung mangels Schuldner.** Verbindlichkeiten bleiben nach BFH II R 19/01 über blosse Vermoegenslosigkeit hinaus bestehen — keine erleichterte Ausbuchung; Verzicht ist eigene Kategorie.
+5. **Achtung Ausbuchung mangels Schuldner.** Verbindlichkeiten bleiben nach BFH II R 19/01 über blosse Vermögenslosigkeit hinaus bestehen — keine erleichterte Ausbuchung; Verzicht ist eigene Kategorie.
 
 ## Mustertexte / Berechnungsbeispiele
 
@@ -188,7 +188,7 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten gehen nicht allein durch Vermoegenslosigkeit unter.
+- **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten gehen nicht allein durch Vermögenslosigkeit unter.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn nach Loeschung mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).

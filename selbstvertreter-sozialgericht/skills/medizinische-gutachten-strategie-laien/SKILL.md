@@ -36,7 +36,7 @@ Das Gericht lässt Sie oft von Aerzten untersuchen. Diese Aerzte schreiben dann 
 ## Rechtsgrundlagen
 
 - **§ 103 SGG** — Amtsermittlung incl. Gutachten.
-- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
+- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klägers.
 - **§ 118 SGG i.V.m. ZPO** — Gutachten-Verfahren.
 
 ## Schritt-für-Schritt-Anleitung
@@ -90,7 +90,7 @@ Wenn das Gutachten gegen Sie ist:
 
 - Eigenes aerztliches Attest, das widerspricht.
 - Konkrete Fehler im Gutachten benennen.
-- Erlaeuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen.
+- Erläuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen.
 
 **Option 2: § 109-Gutachten beantragen**
 
@@ -98,14 +98,14 @@ Wenn das Gutachten gegen Sie ist:
 - Sie tragen Kosten erstmal selbst.
 - Siehe `sachverstaendigen-wahlrecht-109-sgg`.
 
-**Option 3: Erlaeuternde Anhörung des Gutachters**
+**Option 3: Erläuternde Anhörung des Gutachters**
 
 - Im Termin kann der Gutachter gefragt werden.
 - Sie / Ihr Anwalt stellen Fragen.
 
 ### Schritt 6 — Gutachter-Auswahl beim Gericht
 
-Das Gericht waehlt den Gutachter. Manchmal können Sie Vorschlaege machen. Wenn Sie schlechte Erfahrungen mit einem Gutachter haben, können Sie Ablehnung wegen Befangenheit (§ 60 SGG i.V.m. § 42 ZPO) prüfen — aber sehr enger Massstab.
+Das Gericht waehlt den Gutachter. Manchmal können Sie Vorschlaege machen. Wenn Sie schlechte Erfahrungen mit einem Gutachter haben, können Sie Ablehnung wegen Befangenheit (§ 60 SGG i.V.m. § 42 ZPO) prüfen — aber sehr enger Maßstab.
 
 ### Schritt 7 — Reha-Bericht als alternative
 

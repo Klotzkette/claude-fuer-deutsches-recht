@@ -69,7 +69,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rechtsgrundlage:** §§ 44-51 SGB V; §§ 46 (Beginn / Ende), 47 (Höhe), 48 (Hoechstdauer 78 Wochen wegen derselben Krankheit binnen 3 Jahre), 51 (Reha-/Rentenantragsaufforderung).
 - **Beginn Krankengeld § 46 SGB V:**
  - Bei Krankenhausaufenthalt: ab Aufnahme.
- - Bei AU: ab Tag nach Feststellung AU (Achtung Aenderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
+ - Bei AU: ab Tag nach Feststellung AU (Achtung Änderung seit 2020 - rueckwirkender Tag möglich); seit 2023 elektronische AU (eAU).
  - **Lueckenlose Krankschreibung** zwingend - **Verlust Krankengeldanspruch** bei Lueckentag (BSG-Linie staendige Rspr; bei Aerztewechsel insbesondere kritisch).
  - **Lueckenfueller-Frist:** AU-Folgebescheinigung muss spaetestens am Werktag nach Ende der vorherigen AU erfolgen.
 - **Höhe Krankengeld § 47 SGB V:**

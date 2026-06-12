@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
-description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag a..."
+description: "Vorab-Prüfung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-für-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag a..."
 ---
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen
@@ -29,8 +29,8 @@ Macht eine **Schritt-für-Schritt-Modellrechnung**, die der Steuerberater des Sc
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Plan ist in Vorbereitung, Forderungsverzicht der Glaeubiger ist der Groesse nach umrissen.
-- Insolvenzverwalter oder Sachwalter braucht eine Zahl, die er der Glaeubigerversammlung vorlegen kann.
+- Plan ist in Vorbereitung, Forderungsverzicht der Gläubiger ist der Groesse nach umrissen.
+- Insolvenzverwalter oder Sachwalter braucht eine Zahl, die er der Gläubigerversammlung vorlegen kann.
 - StB will die Wirkung der Verlustvortraege quantifizieren, bevor der Plan-Entwurf finalisiert ist.
 
 Kaltstart-Fragen:

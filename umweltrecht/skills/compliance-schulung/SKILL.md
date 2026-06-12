@@ -23,13 +23,13 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 2. Besteht bereits ein Compliance-Management-System oder steht erstmalige Einrichtung an?
 3. Wurde ein behordliches Audit oder eine Ueberwachung angekuendigt?
 4. Wie groß ist das Unternehmen — Anzahl Anlagen, Produktionsstaetten, Mitarbeiter?
-5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Aenderung, CSRD)?
+5. Welche Schulungsthemen sind akut (TEHG, KrWG-Novelle, BImSchG-Änderung, CSRD)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen und Paragrafenkette
 
 - **§ 53 BImSchG** — Bestellung Immissionsschutzbeauftragter (Pflicht bei Anlagen der 4. BImSchV, § 1 5. BImSchV)
-- **§ 54 BImSchG** — Aufgaben des ISB (Unterrichtung Betreiber, Ueberpruefung Betrieb, Stellungnahme Genehmigungsaenderung)
+- **§ 54 BImSchG** — Aufgaben des ISB (Unterrichtung Betreiber, Überprüfung Betrieb, Stellungnahme Genehmigungsaenderung)
 - **§ 55 BImSchG** — Pflichten des Betreibers gegenueber ISB (Unterrichtungs-, Ausstattungspflicht)
 - **§ 58 BImSchG** — Haftungsfreistellung ISB
 - **§ 59 KrWG** — Bestellung Abfallbeauftragter (Pflicht § 1 AbfBeauftrV)
@@ -55,14 +55,14 @@ Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstel
 ### B) Schulungsplan erstellen
 
 1. **Bedarfsanalyse**: Welche Rechtsgebiete betreffen Anlagen (BImSchG, KrWG, WHG, TEHG, BNatSchG)?
-2. **Jede Zielgruppe definieren**: Geschaeftsfuehrung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
+2. **Jede Zielgruppe definieren**: Geschäftsführung (Haftung), ISB/Abfallbeauftragter (Fachkunde), Mitarbeiter (Praxis).
 3. **Schulungsplan**: Jährliche Pflichtschulung je Beauftragtenrolle; Ad-hoc-Schulung bei Gesetzesaenderung.
 4. **Dokumentation**: Teilnahmelisten, Schulungsunterlagen, Teilnehmerzertifikate (Pflicht für Fachkunde-Erhalt).
 5. **Audit-Vorbereitung**: Interne Revision vor behordlichem Audit; Mangelbeseitigung.
 
 ### C) Jahres-Audit-Checkliste (Kurzform)
 
-| Pruefpunkt | Erfuellt? | Quelle | Bemerkung |
+| Prüfpunkt | Erfuellt? | Quelle | Bemerkung |
 |---|---|---|---|
 | ISB bestellt und fachkundig | JA/NEIN | § 53 BImSchG | Letzte Schulung: [DATUM] |
 | Abfallbeauftragter bestellt | JA/NEIN | § 59 KrWG | Letzte Schulung: [DATUM] |
@@ -137,7 +137,7 @@ Verantwortlich: [NAME COMPLIANCE-OFFICER]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

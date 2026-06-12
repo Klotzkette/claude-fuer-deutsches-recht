@@ -20,7 +20,7 @@ description: "Kommunikation mit Aufsichtsbehoerden BfDI und Landesbehoerden inha
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhörung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Pruefungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
+Sie brauchen den Skill, sobald ein Schreiben einer Aufsichtsbehoerde eingegangen ist — egal ob foermlich (Anhörung nach § 28 VwVfG), informell (Auskunftsverlangen nach Art. 58 I a DSGVO), als Prüfungsankuendigung (Art. 58 I b DSGVO Untersuchung) oder als Reaktion auf eine eigene Meldung.
 
 Sieben-Fragen-Diagnose:
 
@@ -28,7 +28,7 @@ Sieben-Fragen-Diagnose:
 2. **Welcher Anlass?** Prüfung von Amts wegen, Beschwerde Art. 77, Folge einer Meldung Art. 33, anonymer Hinweis, koordiniertes Aufsichtsverfahren EDSA?
 3. **Welche Verfahrensart?** Anhörung (kein Bussgeldverfahren), Bussgeldverfahren OWiG, Verwaltungsverfahren Art. 58 II DSGVO (Anordnung)?
 4. **Welche Frist?** Genau notieren, Eingangsstempel, Fristenkalender.
-5. **Ist der Mandant antwortbereit?** Sind Daten vorhanden, ist die Geschaeftsfuehrung einig, DSB beteiligt?
+5. **Ist der Mandant antwortbereit?** Sind Daten vorhanden, ist die Geschäftsführung einig, DSB beteiligt?
 6. **Welches Mandatsziel?** Prüfung erledigen mit minimalem Eingriff, Bussgeld vermeiden, oder öffentliche Wahrnehmung steuern?
 7. **Welche Spurensicherung intern?** Verarbeitungsverzeichnis Art. 30 DSGVO, TOM Art. 32, DSFA Art. 35, AVV Art. 28 — liegt alles vor und ist aktuell?
 
@@ -48,7 +48,7 @@ Sieben-Fragen-Diagnose:
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-1. **Mandantenfreigabe zwingend.** Kein Brief geht raus ohne Geschaeftsfuehrungsfreigabe. Vier-Augen-Prinzip.
+1. **Mandantenfreigabe zwingend.** Kein Brief geht raus ohne Geschäftsführungsfreigabe. Vier-Augen-Prinzip.
 2. **NICHT vorschnell schriftliche Stellungnahme abgeben.** Erst Akteneinsicht beantragen, Sachverhalt klären, Belegmatrix erstellen.
 3. **Eingangsschreiben sortieren:** Anhörung, Auskunftsverlangen, Anordnung, Bussgeldanhoerung — andere Vorgehen pro Variante.
 4. **Akteneinsicht beantragen.** Bei Bussgeldverfahren § 49 OWiG i.V.m. § 147 StPO. Bei Verwaltungsverfahren § 29 VwVfG.
@@ -85,13 +85,13 @@ Sieben-Fragen-Diagnose:
 
 > 1. Sachverhalt (knapp, neutrale Sprache, ohne Selbstvorwurf).
 > 2. Rechtlicher Rahmen (DSGVO-Norm konkret).
-> 3. Massnahmenlage des Mandanten zum Zeitpunkt des Vorfalls (Art. 30, 32, 35 DSGVO — mit Belegen als Anlage).
+> 3. Maßnahmenlage des Mandanten zum Zeitpunkt des Vorfalls (Art. 30, 32, 35 DSGVO — mit Belegen als Anlage).
 > 4. Bewertung (Subsumtion mit Bezug zu Aufsichtspraxis und EDSA-Leitlinien).
-> 5. Ergebnis und Antrag (Einstellung, Verwarnung statt Bussgeld Art. 58 II b, Massnahmenplan).
+> 5. Ergebnis und Antrag (Einstellung, Verwarnung statt Bussgeld Art. 58 II b, Maßnahmenplan).
 
 ## Typische Fehler
 
-- Geschaeftsfuehrer telefoniert "kurz" mit Sachbearbeiter — alles geht zur Akte.
+- Geschäftsführer telefoniert "kurz" mit Sachbearbeiter — alles geht zur Akte.
 - Pauschale Schuldeingestaendnisse in Mailverkehr.
 - Stellungnahme ohne Akteneinsicht.
 - Frist verpasst und keinen Verlaengerungsantrag gestellt.

@@ -1,6 +1,6 @@
 ---
 name: estate-property-541
-description: "Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code."
+description: "Prüft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets im US Bankruptcy Code."
 ---
 
 # Property of the Estate § 541

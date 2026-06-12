@@ -32,7 +32,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 
 ### Primaernormen
 - **DBA Deutschland-Zypern vom 18.02.2011**, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069; BStBl. 2012 I S. 222).
-- Aenderungsprotokoll, in Kraft 08.12.2021, anwendbar ab 01.01.2022 (BGBl. 2022 II S. 4).
+- Änderungsprotokoll, in Kraft 08.12.2021, anwendbar ab 01.01.2022 (BGBl. 2022 II S. 4).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL**, **ZinsLizenzRL**.
@@ -75,7 +75,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 
 ## Strategie und Praxis-Tipps
 
-- Zypern-Holding: Substanz § 50d Abs. 3 EStG zentral, Personal und Geschaeftsfuehrung — Briefkasten scheitert.
+- Zypern-Holding: Substanz § 50d Abs. 3 EStG zentral, Personal und Geschäftsführung — Briefkasten scheitert.
 - IP-Box Zypern: Nexus-Approach erfordert Forschungs- und Entwicklungsausgaben in Zypern; § 4j EStG-Lizenzschranke prüfen.
 - Tonnage Tax: kann Hauptsteuerlast ersetzen — DBA-Berechtigung sorgfaeltig prüfen.
 - CFC § 7 ff. AStG bei passiven Einkuenften vom Anfang an prüfen — Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
@@ -121,7 +121,7 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 
 ## Berechnungsbeispiel — Zypern-Holding mit IP-Box
 
-> CY-Ltd (Limassol, voller Geschaeftsbetrieb mit 5 Forschern und Buero in CY, Nexus-konform) generiert Lizenzeinnahmen von 1.000.000 EUR aus Patent-Lizenz an DE-AG.
+> CY-Ltd (Limassol, voller Geschäftsbetrieb mit 5 Forschern und Buero in CY, Nexus-konform) generiert Lizenzeinnahmen von 1.000.000 EUR aus Patent-Lizenz an DE-AG.
 >
 > Schritt 1: DBA-CY Art. 12: Lizenzgebuehren ggf. 0 Prozent oder reduzierter Satz (konkreter DBA-Text Art. 12 prüfen).
 >
@@ -145,6 +145,6 @@ Das DBA-Zypern vom 18.02.2011 (BGBl. 2011 II S. 1068/1069, in Kraft 16.12.2011) 
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Zypern 18.02.2011, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069). Aenderungsprotokoll in Kraft 08.12.2021 (BGBl. 2022 II S. 4). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
+Stand: 05/2026. DBA-Zypern 18.02.2011, in Kraft 16.12.2011 (BGBl. 2011 II S. 1068/1069). Änderungsprotokoll in Kraft 08.12.2021 (BGBl. 2022 II S. 4). MLI-modifiziert ab 01.01.2025 (MLI-Anwendungsgesetz 2024). AStG-Niedrigsteuerschwelle ab VZ 2024: 15 Prozent.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 2 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

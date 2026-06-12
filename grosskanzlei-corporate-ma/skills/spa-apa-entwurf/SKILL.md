@@ -32,7 +32,7 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 - § 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
 - § 311b BGB — notarielle Beurkundung bei Grundstueckseinschluss im Asset Deal
 - § 613a BGB — Betriebsuebergang beim Asset Deal: zwingend; Information der Arbeitnehmer
-- § 443 BGB — Selbstaendige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
+- § 443 BGB — Selbständige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
 - § 254 BGB — Mitverschulden: Kaeuferwissen schraenkt Garantieansprueche ein; Aufdeckung in DD mindert Schaden
 - §§ 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
 - §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln müssen hervorgehoben werden
@@ -116,7 +116,7 @@ ANLAGEN:
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -134,7 +134,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe
 - Belegkette: DD-Finding, SPA-Klausel, Norm
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - DD-Findings → `grosskanzlei-corporate-ma-due-diligence-reporting`
 - Disclosure Schedules → `grosskanzlei-corporate-ma-disclosure-schedules`

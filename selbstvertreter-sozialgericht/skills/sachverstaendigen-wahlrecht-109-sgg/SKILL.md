@@ -33,7 +33,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie kön
 
 ## Rechtsgrundlagen
 
-- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
+- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klägers.
 - **§ 109 Abs. 1 S. 2 SGG** — Kosten traegt der Antragsteller.
 - **§ 109 Abs. 1 S. 3 SGG** — Bei Erfolg kann das Gericht die Kosten der Staatskasse auferlegen.
 

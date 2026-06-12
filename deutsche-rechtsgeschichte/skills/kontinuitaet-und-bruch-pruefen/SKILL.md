@@ -1,6 +1,6 @@
 ---
 name: kontinuitaet-und-bruch-pruefen
-description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch prüfen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden im Deutsche Rechtsgeschichte."
 ---
 
 # Kontinuitaet und Bruch prüfen
@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodi
 
 ## Worum es geht
 
-Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen Rechtsgeschichte. Scheinbare Brueche: 1945 schien das Recht neu zu beginnen, aber viele NS-Juristen arbeiteten weiter. 1990 schien DDR-Recht beendet, aber viele DDR-Regelungen galten uebergangsweise fort. Echte Brueche: 1933 Ermächtigungsgesetz als Bruch mit der WRV; 1945 Totalzusammenbruch. Das Pruef-Instrument fragt: (1) Normkontinuitaet (gleicher Gesetzestext?), (2) Institutionenkontinuitaet (gleiche Behörden, Gerichte?), (3) Personalkaontinuitaet (gleiche Richter, Beamten?), (4) Dogmatikkontinuitaet (gleiche Rechtsbegriffe und Prinzipien?).
+Die Frage nach Kontinuitaet und Bruch ist eine der grundlegendsten der deutschen Rechtsgeschichte. Scheinbare Brueche: 1945 schien das Recht neu zu beginnen, aber viele NS-Juristen arbeiteten weiter. 1990 schien DDR-Recht beendet, aber viele DDR-Regelungen galten uebergangsweise fort. Echte Brueche: 1933 Ermächtigungsgesetz als Bruch mit der WRV; 1945 Totalzusammenbruch. Das Prüf-Instrument fragt: (1) Normkontinuitaet (gleicher Gesetzestext?), (2) Institutionenkontinuitaet (gleiche Behörden, Gerichte?), (3) Personalkaontinuitaet (gleiche Richter, Beamten?), (4) Dogmatikkontinuitaet (gleiche Rechtsbegriffe und Prinzipien?).
 
 ## Kernnormen / Kernquellen
 

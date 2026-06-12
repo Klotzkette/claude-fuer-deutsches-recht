@@ -1,6 +1,6 @@
 ---
 name: ksv-abgabe-auftraggeber
-description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus im Sozialversicherungsstatus Pruefer."
+description: "Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus im Sozialversicherungsstatus Prüfer."
 ---
 
 # Künstlersozialabgabe Auftraggeber

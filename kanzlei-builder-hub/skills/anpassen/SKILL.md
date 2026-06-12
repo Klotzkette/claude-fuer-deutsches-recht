@@ -17,7 +17,7 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 1. Welcher Abschnitt des Kanzleiprofils soll angepasst werden: Rechtsgebiete, Positivliste, TOM-Dokumentation, Registries oder Update-Einstellungen?
 2. Liegt ein konkreter Anlass vor (neue Rechtsgebiet-Erweiterung, Datenschutzaenderung, Teamaenderung)?
 3. Ist die bestehende Konfiguration vollstaendig und ohne Platzhalter (sonst Kaltstart-Interview noetig)?
-4. Betrifft die Aenderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
+4. Betrifft die Änderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -25,8 +25,8 @@ description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: 
 ## Zentrale Normen
 - Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen müssen Datenschutz beruecksichtigen
 - Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
-- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
-- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Änderung des Verarbeitungsumfangs zu aktualisieren
+- Art. 32 DSGVO — Technisch-organisatorische Maßnahmen: TOM-Dokumentation nach jeder relevanten Änderung
 
 ## Eingaben
 

@@ -21,7 +21,7 @@ description: "Exportkontrolle für Verschluesselungssoftware und Kryptografiepro
 
 ## Erste Schritte
 
-1. Kryptografische Parameter bestimmen: Algorithmus, Schluessellaenge, Protokoll (TLS SSL VPN SSH).
+1. Kryptografische Parameter bestimmen: Algorithmus, Schlüssellaenge, Protokoll (TLS SSL VPN SSH).
 2. Einreihung in Kategorie 5 Teil 2 der EU-Dual-Use-Liste (VO 2021/821 Anhang I) prüfen.
 3. Ausnahmeregelungen prüfen: Massenmarktprodukt mit Standard-Kryptografie, Open-Source-Ausnahme.
 4. Allgemeine Genehmigung EU001 auf Anwendbarkeit prüfen (Standard-Verschluesselung in Massenmarktsoftware).
@@ -36,9 +36,9 @@ description: "Exportkontrolle für Verschluesselungssoftware und Kryptografiepro
 - **EAR Part 742.15 (US)**: US-spezifische Kryptografie-Exportkontrolle (als Risikoanker).
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei militaerischer Endverwendung von Kryptografietechnologie.
 
-## Pruef-Raster
+## Prüf-Raster
 
-- [ ] Kryptografische Parameter vollstaendig erfasst (Algorithmus Schluessellaenge Protokoll)?
+- [ ] Kryptografische Parameter vollstaendig erfasst (Algorithmus Schlüssellaenge Protokoll)?
 - [ ] Einreihung in Kategorie 5 Teil 2 geprueft?
 - [ ] Massenmarkt- oder Open-Source-Ausnahme anwendbar?
 - [ ] Allgemeine Genehmigung EU001 greift?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

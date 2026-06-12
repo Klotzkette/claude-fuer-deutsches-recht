@@ -1,6 +1,6 @@
 ---
 name: daseinsvorsorge-verwaltungsrealismus
-description: "Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz."
+description: "Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz."
 ---
 
 # Daseinsvorsorge und Verwaltungsrealismus

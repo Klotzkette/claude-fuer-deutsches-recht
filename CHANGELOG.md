@@ -1,3 +1,52 @@
+# v307.0.0 — Welle 3: Komposita-Stamm + description-Frontmatter
+
+## Stamm-Sweep ueber das Repo
+
+`scripts/sweep-umlaut-welle-3.py`: Komposita-Stamm-Sweep, der ASCII-Schreibungen am Wortanfang erkennt (Pattern `\bStamm`, ohne `\b` am Ende) — erfasst damit zusammengesetzte Wörter, die Welle 2 nicht treffen konnte.
+
+Zusätzlich behandelt Welle 3 jetzt das `description:`-Feld in YAML-Frontmatter, während `name:` (Plugin-/Skill-Slug) weiterhin geschützt bleibt.
+
+Erfasste Stamm-Familien (Auszug):
+- `Pruefung*` → `Prüfung*` (Prüfungsschritt, Prüfungsordnung, Prüfungsrecht, Prüfungstermin, Prüfungsentscheidung)
+- `Geschaeft*` → `Geschäft*` (Geschäftsbereich, Geschäftsführung, Geschäftsleitung, Geschäftsgeheimnis, Geschäftsordnung)
+- `Beschaeftig*` → `Beschäftig*` (Beschäftigung, Beschäftigte, Beschäftigungsverhältnis)
+- `Verhaeltnismaessig*` → `Verhältnismäßig*` (auch in Komposita)
+- `Massnahme*`, `Massstab*`, `Massgabe*` → `Maßnahme*`, `Maßstab*`, `Maßgabe*`
+- `Aenderung*`, `Aender*` → `Änderung*`, `Änder*`
+- `Klaeger*`, `Klaerung*`, `Klaeren*` → `Kläger*`, `Klärung*`, `Klären*`
+- `Erlaeuter*` → `Erläuter*`
+- `Aequivalent*`, `Aequival*` → `Äquivalent*`, `Äquival*`
+- `Schluessel*` → `Schlüssel*`
+- `Selbstaendig*` → `Selbständig*`
+- `Auslaendisch*`, `Auslaender*` → `Ausländisch*`, `Ausländer*`
+- `Glaeubig*` → `Gläubig*`
+- `Vermoegens*` → `Vermögens*`
+- `Ueberpruef*`, `Ueberlassung*`, `Uebergabe*`, `Uebersetz*` etc. → `Überprüf*`, `Überlassung*`, `Übergabe*`, `Übersetz*`
+- `Fuersorge*`, `Fuerstent*` → `Fürsorge*`, `Fürstent*`
+
+Stand:
+- 5253 Dateien angefasst, ~31.755.404 Zeichen geändert
+- 83 false-positive Sanity-Check-Abbrüche unverändert gelassen (z. B. "pflegebedürftig", "Prüfbedarf" — Hex-Verdacht durch Buchstabenkombination)
+- Eval-Harness: 204/204 All-Pass
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-plugin-structure.mjs`: OK
+
+## Frontmatter-`description` jetzt erfasst
+
+Das `description:`-Feld in der YAML-Frontmatter wird jetzt mit derselben Stamm-Wortliste behandelt. Das `name:`-Feld (Plugin-/Skill-Slug) bleibt unangetastet.
+
+Beispiel `verhaeltnismaessigkeitspruefer/skills/agg-systematik-und-verhaeltnismaessigkeit/SKILL.md`:
+- `name: agg-systematik-und-verhaeltnismaessigkeit` (Slug, unverändert)
+- `description: ... Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab ...` (ehemals `Verhaeltnismaessigkeit`, `Pruefungsmassstab`)
+
+## Offen für Welle 4
+
+- 83 false-positive Sanity-Check-Abbrüche aus Welle 3 manuell adressieren
+- Restliche Stamm-Familien ergänzen (`Bruecke*`, `Tatbestaenden`, `Erklaert`, `Rechtfertigungs*` etc.)
+- 213 Skills mit verbleibendem „Az verifizieren"-Marker (unverändert seit Welle 2)
+
+---
+
 # v306.0.0 — Welle 2: Umlaut-Hygiene und Quellenhygiene-Anschluss
 
 ## Umlaut-Sweep über das Repo

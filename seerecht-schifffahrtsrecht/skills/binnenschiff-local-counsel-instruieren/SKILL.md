@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-local-counsel-instruieren
-description: "Binnenschiff: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Sc..."
+description: "Binnenschiff: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Sc..."
 ---
 
 # Binnenschiff – Local Counsel instruieren

@@ -46,11 +46,11 @@ Die Beweislast verlagert sich damit vollstaendig auf den Arbeitgeber. Er muss ko
 
 ## Bedeutung für die anwaltliche Praxis
 
-Die Entscheidung verschiebt die Beweislast erheblich. Vor der Entscheidung musste die Klaegerin in der Praxis oft umfangreiche statistische Auswertungen vorlegen, was an der Datenverfuegbarkeit scheiterte. Mit dem Paarvergleich genuegt ab sofort die konkrete Benennung eines Vergleichskollegen und der Verweis auf die gleichwertige Taetigkeit.
+Die Entscheidung verschiebt die Beweislast erheblich. Vor der Entscheidung musste die Klägerin in der Praxis oft umfangreiche statistische Auswertungen vorlegen, was an der Datenverfuegbarkeit scheiterte. Mit dem Paarvergleich genuegt ab sofort die konkrete Benennung eines Vergleichskollegen und der Verweis auf die gleichwertige Taetigkeit.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefschema
+## Prüfschema
 
 | Schritt | Prüfung |
 | --- | --- |
@@ -65,11 +65,11 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## Klagebaustein Equal Pay
 
-Die Klaegerin ist seit dem [Datum] bei der Beklagten als [Position] tätig. Der maennliche Kollege [Name], ebenfalls als [Position] tätig, erhaelt seit [Datum] ein um [Betrag] hoeheres Bruttomonatsgehalt. Die Taetigkeiten beider Beschaeftigten sind gleichwertig im Sinne des Paragraf 4 EntgTranspG: gleiche Anforderungen an Qualifikation, Berufserfahrung und Verantwortung; vergleichbare Belastung.
+Die Klägerin ist seit dem [Datum] bei der Beklagten als [Position] tätig. Der maennliche Kollege [Name], ebenfalls als [Position] tätig, erhaelt seit [Datum] ein um [Betrag] hoeheres Bruttomonatsgehalt. Die Taetigkeiten beider Beschäftigten sind gleichwertig im Sinne des Paragraf 4 EntgTranspG: gleiche Anforderungen an Qualifikation, Berufserfahrung und Verantwortung; vergleichbare Belastung.
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Die Klaegerin hat Anspruch auf Differenzentgelt nach Paragraf 3 Absatz 1 iVm Paragraf 7 EntgTranspG sowie auf Entschaedigung nach Paragraf 15 Absatz 2 AGG.
+Die Klägerin hat Anspruch auf Differenzentgelt nach Paragraf 3 Absatz 1 iVm Paragraf 7 EntgTranspG sowie auf Entschaedigung nach Paragraf 15 Absatz 2 AGG.
 
 ## Typische Arbeitgeber-Verteidigung und Reaktion
 
@@ -94,7 +94,7 @@ Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21)
 
 - Art. 5 — Vorvertragliche Entgelttransparenz: Auskunftspflicht des Arbeitgebers über Einstiegsgehalt oder Gehaltsspanne; Verbot, Bewerber nach der Gehaltshistorie zu fragen.
 - Art. 7 — Individueller Auskunftsanspruch über Durchschnittsentgelt nach Geschlecht für gleiche oder gleichwertige Arbeit; Frist zwei Monate.
-- Art. 9 — Berichtspflicht über das geschlechtsspezifische Entgeltgefaelle: ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (gestaffelte Uebergangsfristen).
+- Art. 9 — Berichtspflicht über das geschlechtsspezifische Entgeltgefaelle: ab 250 Beschäftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (gestaffelte Uebergangsfristen).
 - Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung bei einem Entgeltgefaelle ab fuenf Prozent ohne sachliche Rechtfertigung.
 - Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung.
 - Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers bei Verletzung der Transparenzpflichten.

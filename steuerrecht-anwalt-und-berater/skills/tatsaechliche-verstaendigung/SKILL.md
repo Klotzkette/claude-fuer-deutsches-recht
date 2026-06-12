@@ -26,7 +26,7 @@ description: "Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Fina
 - **§ 162 AO** — Schaetzung von Besteuerungsgrundlagen.
 - **§ 201 AO** — Schlussbesprechung; haeufig Vehikel der Verstaendigung.
 - **§ 204 AO** — verbindliche Zusage; rechtsverbindliche Auspraegung.
-- **Bindungswirkung** — entwickelt durch Rechtsprechung; nur über gravierende Aenderungen aufhebbar.
+- **Bindungswirkung** — entwickelt durch Rechtsprechung; nur über gravierende Änderungen aufhebbar.
 
 ## Aktuelle Rechtsprechung
 

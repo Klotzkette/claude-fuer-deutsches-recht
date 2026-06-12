@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-abfallverbringung
-description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen...."
+description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren für Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schlüssel-Prüfung, Kontrolle von Empfaengerlandzustimmungen...."
 ---
 
 # Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren
@@ -36,7 +36,7 @@ description: "Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013
 - **Art. 36 VO 1013/2006**: Ausfuhrverbote für Abfaelle in Nicht-OECD-Staaten.
 - **§ 18 AWG**: Aussenwirtschaftsrechtliche Ordnungswidrigkeit bei Umgehungsversuchen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] AVV-Code korrekt und mit Abfallbeschaffenheit konsistent?
 - [ ] Eingruppierung in Gruene/Gelbe/Rote Liste und Verfahren korrekt ausgewaehlt?
@@ -69,7 +69,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

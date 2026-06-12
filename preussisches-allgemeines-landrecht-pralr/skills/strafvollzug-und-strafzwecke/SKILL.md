@@ -24,7 +24,7 @@ description: "PrALR: Strafvollzug, Freiheitsstrafe, Leibesstrafen, Abschreckung 
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 20 §§ 1-30**: Allgemeine Strafzwecke — Vergeltung, Abschreckung, Spezialpraevention ansatzweise.
 - **ALR II 20 §§ 50-79**: Strafkatalog — Todesstrafe, Festungshaft, Zuchthaus, Gefaengnis, Schandstrafen (Pranger, Brandmarken — formell bis 1851).
 - **ALR II 20 §§ — Anwendung Sondervollzuegen für Adlige und Staende.

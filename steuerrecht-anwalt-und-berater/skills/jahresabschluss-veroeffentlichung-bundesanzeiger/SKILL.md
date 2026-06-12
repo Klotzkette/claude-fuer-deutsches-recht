@@ -23,7 +23,7 @@ description: "Jahresabschluss-Veröffentlichung Bundesanzeiger § 325 HGB. Anwen
 
 ## Kernsachverhalt
 
-Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) müssen ihren Jahresabschluss offenlegen (§ 325 HGB). Frist: 12 Monate nach Bilanzstichtag. Groessenklassen (§ 267 HGB) bestimmen Umfang und Veroeffentlichungs- bzw. Hinterlegungsweg. Verspaetung loest ein Ordnungsgeldverfahren des Bundesamts für Justiz (BfJ) gemäß § 335 HGB aus (Ordnungsgeld 2.500-25.000 EUR, ggf. mehrfach festsetzbar). Zustaendige Plattform: Seit den Geschaeftsjahren mit Beginn nach dem 31.12.2021 erfolgt die Offenlegung nach dem DiRUG (BGBl. I 2021, 3338) über das **Unternehmensregister** (publikations-plattform.de), nicht mehr direkt über den Bundesanzeiger; für aeltere Geschaeftsjahre gilt noch die Veroeffentlichung im Bundesanzeiger.
+Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) müssen ihren Jahresabschluss offenlegen (§ 325 HGB). Frist: 12 Monate nach Bilanzstichtag. Groessenklassen (§ 267 HGB) bestimmen Umfang und Veroeffentlichungs- bzw. Hinterlegungsweg. Verspaetung loest ein Ordnungsgeldverfahren des Bundesamts für Justiz (BfJ) gemäß § 335 HGB aus (Ordnungsgeld 2.500-25.000 EUR, ggf. mehrfach festsetzbar). Zustaendige Plattform: Seit den Geschäftsjahren mit Beginn nach dem 31.12.2021 erfolgt die Offenlegung nach dem DiRUG (BGBl. I 2021, 3338) über das **Unternehmensregister** (publikations-plattform.de), nicht mehr direkt über den Bundesanzeiger; für aeltere Geschäftsjahre gilt noch die Veroeffentlichung im Bundesanzeiger.
 
 ## Kaltstart-Rueckfragen
 
@@ -40,7 +40,7 @@ Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) müssen ihren Ja
 
 ### Primaernormen
 
-**§ 325 HGB** — Offenlegungspflicht (Geschaeftsjahre ab 01.01.2022: Uebermittlung an das Unternehmensregister gem. § 8b HGB).
+**§ 325 HGB** — Offenlegungspflicht (Geschäftsjahre ab 01.01.2022: Uebermittlung an das Unternehmensregister gem. § 8b HGB).
 
 **§ 8b HGB** — Unternehmensregister als zentrale Plattform.
 
@@ -107,7 +107,7 @@ Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) müssen ihren Ja
 - Die 12-Monats-Frist gemäß § 325 Abs. 1a HGB ist hart; verstreicht sie, leitet das BfJ ohne weitere Mahnung das Ordnungsgeldverfahren ein.
 - Die Hinterlegungs-Option für Kleinstkapitalgesellschaften (§ 326 Abs. 2 HGB) ist haeufig attraktiv: Bilanz ist dann nur auf Antrag und gegen Gebuehr einsehbar — wesentlicher Vertraulichkeitsvorteil bei vergleichbaren Kosten.
 - Bei mehreren offenen Vorperioden: nachholen vor Folgeperiode, da das BfJ Ordnungsgelder mehrfach festsetzen kann.
-- Veroeffentlichungskosten variieren mit Umfang und Format; Richtwert pro Geschaeftsjahr 30-200 EUR — konkrete Gebühren über den Tarif des Unternehmensregisters.
+- Veroeffentlichungskosten variieren mit Umfang und Format; Richtwert pro Geschäftsjahr 30-200 EUR — konkrete Gebühren über den Tarif des Unternehmensregisters.
 - StBVV-Honorar: Offenlegung als Sonderauftrag, in der Praxis ueblich als Pauschalvereinbarung gem. § 14 StBVV oder als Beratungsleistung gem. § 21 StBVV (Erstellung E-Bilanz und Offenlegung sind getrennte Leistungen).
 
 ## Quellen und Updates

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rohbau-betongueteklasse
-description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Pruefkoerperherstellung nach DIN E..."
+description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongueteklassen — Kontrolle Frischbeton und Festbeton nach DIN EN 206 und DIN 1045-2, Abnahme Bewehrung und Schalung vor Betonage, Betonage-Protokolle je Bauteil, Expositionsklassen XC1-XD3 und XF1-XF4, Prüfkoerperherstellung nach DIN E..."
 ---
 
 # Bauueberwachung Rohbau und Betongueteklassen
@@ -15,7 +15,7 @@ description: "Bauueberwachung HOAI LPH 8 für den Rohbau mit Schwerpunkt Betongu
 
 ## Spezialwissen
 
-Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungslage und Schalungspraezision bestimmen die langfristige Tragfaehigkeit und Dauerhaftigkeit des Bauwerkes. Die Bauueberwachung in LPH 8 stellt sicher, dass kein Beton vergossen wird, ohne zuvor Bewehrung und Schalung abgenommen zu haben, und dass die Pruefkoerper lueckenlos für die 28-Tage-Drueckfestigkeit eingelagert werden.
+Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungslage und Schalungspraezision bestimmen die langfristige Tragfaehigkeit und Dauerhaftigkeit des Bauwerkes. Die Bauueberwachung in LPH 8 stellt sicher, dass kein Beton vergossen wird, ohne zuvor Bewehrung und Schalung abgenommen zu haben, und dass die Prüfkoerper lueckenlos für die 28-Tage-Drueckfestigkeit eingelagert werden.
 
 ## Bauwerk und Auftrag
 
@@ -29,24 +29,24 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 2. Bewehrungsabnahme: Stahlsorte BSt 500 S Werksbescheinigung 3.1, Abstandhalter-Typ und Anordnung, Biegerollendurchmesser, Stosslage nicht in Momentenmaximum
 3. Frischbetonprobenahme: DIN EN 12350-1 bis -7, Konsistenz F3, Rohdichte, Luftgehalt, Temperatur, Chargen-Nummer und Transportbegleitschein
 4. Betonierprotokoll: Einbaugeschwindigkeit je Schalungseinheit, Verdichtungsabstand Innenruettler max. 0.5 m, Aussetzmethode dokumentiert
-5. Pruefkoerperherstellung: 3 Wuerfel 150 mm je 50 m3 oder je Bauteil, Lagerung normtemperate 20 degC nach DIN EN 12390-2, Prüfung nach 7 und 28 Tagen
+5. Prüfkoerperherstellung: 3 Wuerfel 150 mm je 50 m3 oder je Bauteil, Lagerung normtemperate 20 degC nach DIN EN 12390-2, Prüfung nach 7 und 28 Tagen
 6. Sichtbeton-Klasseneinstufung: SB1-SB4 nach DBV-Merkblatt Sichtbeton 2015, Abnahmebegehung mit Auftraggeber vor Freistellung
 
 ## Normen und Rechtsrahmen
 
 - § 650p BGB, § 650q BGB: Architektenvertrag Rohbau, Bauueberwachungspflicht
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bewehrungsabnahme, Betonierprotokoll, Prüfung Bausubstanz
-- VOB/C DIN 18331 Betonarbeiten: Einteilung Betone, Pruefpflichten, Aufmass nach Einbaumassen
+- VOB/C DIN 18331 Betonarbeiten: Einteilung Betone, Prüfpflichten, Aufmass nach Einbaumassen
 - DIN EN 206:2021-06 und DIN 1045-2:2023-08: Konformitaetsnachweis Beton, Chargen-Prüfung, Eignungspruefung
 - DIN EN 1992-1-1 Eurocode 2: Betondeckung, Mindestbewehrung, Rissbreitenbegrenzung
 - DIN EN 12390 (Prüfung von Festbeton): Teile 1-8, Wuerfelherstellung, Druckfestigkeit, Wasserundurchlaessigkeit
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
-1. Bewehrungsabnahme-Protokoll: Bewehrungsplan-Revision aktuell, Stabdurchmesser gemessen, Bewehrungslage und Abdeckung protokolliert, Unterschrift Statik-Pruefingenieur
+1. Bewehrungsabnahme-Protokoll: Bewehrungsplan-Revision aktuell, Stabdurchmesser gemessen, Bewehrungslage und Abdeckung protokolliert, Unterschrift Statik-Prüfingenieur
 2. Frischbetonzertifikat: Lieferschein Betonwerk mit Bestellbeton-Bezeichnung, Chargen-Nr, Einbauzeit max. 90 Minuten nach Mischbeginn
 3. Luftgehalt bei XF-Exposition: Messung DIN EN 12350-7 je Liefercharge, Grenzwert 4.0-5.5 Prozent, bei Unterschreitung Rueckweisung Lieferung
-4. Pruefwuerfeldokumentation: Wuerfel-Nummer, Herstelldatum, Prueftermin, Druckfestigkeit kN und N/mm2, Konformitaetsbewertung
+4. Prüfwuerfeldokumentation: Wuerfel-Nummer, Herstelldatum, Prüftermin, Druckfestigkeit kN und N/mm2, Konformitaetsbewertung
 5. Rissbreitenkontrolle Ausschalen: Beurteilung Risse nach Grenzwert WO 0.3 mm, bei Ueberschreitung Sachverstaendiger einschalten
 6. Sichtbetonbewertung: Fotos nach Ausschalen, Farb- und Porositaetsbewertung, Klasseneinstufung SB1-SB4 mit Auftraggeber gemeinsam
 
@@ -55,7 +55,7 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 - BIM360 Photo Tracking: Fotos getaggt an IFC-Bauteil-ID, Schalung und Bewehrung vor Betonage, After-Casting nach Ausschalen
 - Drohnenbefliegung DJI Mavic 3 Enterprise nach jedem Stockwerk: Grundrissorthofoto 2 cm/px, Massen-Soll/Ist, Stuetzen-Rastelab gleich mit CAD
 - Lieferschein-Scan: Mobile Scan-App oder PlanRadar Dokumenten-Upload, Verknuepfung mit Bauteil-ID, Archivierung für 10 Jahre
-- Pruefwuerfel-Fotoprotokoll: Foto je Wuerfelgruppe mit Chargen-Nr auf Schild, Einlagerungs-Foto Prueflabor, Ergebnis-Scan Pruefbericht
+- Prüfwuerfel-Fotoprotokoll: Foto je Wuerfelgruppe mit Chargen-Nr auf Schild, Einlagerungs-Foto Prüflabor, Ergebnis-Scan Prüfbericht
 - Schadensdokumentation Ausschalen: Lochfrass, Kiesnest, Risse in Rissbild-Zeichnung, Foto und GPS, PlanRadar-Meldung an Polier
 
 ## Meldungserstellung im ERP / SAP
@@ -69,7 +69,7 @@ Der Rohbau ist das Herzstuck jedes Bauvorhabens: Betongueteklassen, Bewehrungsla
 ## Typische Fallstricke
 
 - Betonage ohne Bewehrungsabnahme-Protokoll: Fehlende Unterschrift Statiker gilt als nicht abgenommen, Haftungsrisiko Bauueberwacher
-- Pruefwuerfel falsch gelagert: Wuerfel bei Frost oder direkter Sonne gelagert, Druckfestigkeit verfaelscht, kein Konformitaetsnachweis möglich
+- Prüfwuerfel falsch gelagert: Wuerfel bei Frost oder direkter Sonne gelagert, Druckfestigkeit verfaelscht, kein Konformitaetsnachweis möglich
 - Sichtbeton-Klasse nicht schriftlich vereinbart: Auftraggeber beanstandet später Farbtoene, keine vertragliche Grundlage, teurer Nachtragsstreit
 - Zu fruehes Ausschalen: Mindest-Ausschalfristen nach DIN 1045-3 nicht eingehalten, Rissbildung durch Eigengewicht
 

@@ -1,6 +1,6 @@
 ---
 name: optionales-anfrageverfahren
-description: "Prüft, wann freiwillige Statusfeststellung sinnvoll ist und wann sie strategisch nachteilig sein kann im Sozialversicherungsstatus Pruefer."
+description: "Prüft, wann freiwillige Statusfeststellung sinnvoll ist und wann sie strategisch nachteilig sein kann im Sozialversicherungsstatus Prüfer."
 ---
 
 # Optionales Anfrageverfahren

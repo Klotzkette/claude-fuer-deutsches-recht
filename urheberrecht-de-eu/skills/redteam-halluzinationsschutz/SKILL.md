@@ -1,6 +1,6 @@
 ---
 name: redteam-halluzinationsschutz
-description: "Prueft Ergebnisse auf Quellenfehler, erfundene Rechtsprechung, falsche Normen, unklare Beweise und überzogene Sicherheit."
+description: "Prüft Ergebnisse auf Quellenfehler, erfundene Rechtsprechung, falsche Normen, unklare Beweise und überzogene Sicherheit."
 ---
 
 # Red-Team und Halluzinationsschutz

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-und-mandatsannahme
-description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Aenderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
+description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassung und Fristen-Erstprognose. Anwendungsfall Arbeitnehmer erhaelt Zeugnis das er für mangelhaft haelt und sucht anwaltliche Hilfe. Normen § 109 GewO Anspruch auf qualifiziertes Zeugnis § 195 BGB Verjährung drei Jahre § 611a BGB Arbeitsvertrag. Prüfraster Zielklaerung fehlende Unterlagen Arbeitsvertrag Änderungen Vorzeugnisse Fristen Vergleichsbereitschaft Verguetungsvereinbarung Beweislast. Output Mandatsannahmeprotokoll mit Unterlagenliste Erstprognose und naechsten Schritten. Abgrenzung zu klage-strategie-zeugnisberichtigung und aufforderungsschreiben-arbeitgeber."
 ---
 
 # Erstgespraech und Mandatsannahme im Zeugnisrecht
@@ -13,7 +13,7 @@ description: "Mandatsannahme im Zeugnisrecht mit Erstgespraech Unterlagenerfassu
 
 ## Eingangsbestaetigung
 
-Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klaerenden Fristen.
+Auf den ersten Kontakt des Mandanten antwortet die Kanzlei zeitnah, in der Regel innerhalb eines Werktages. Die Eingangsbestaetigung enthaelt vier Bausteine: Dank für das uebersandte Zeugnis, kurze Beschreibung des weiteren Vorgehens, Liste der noch benoetigten Unterlagen sowie Hinweis auf die zu klärenden Fristen.
 
 Wichtig ist der Hinweis, dass die Bewertung erst nach Sichtung aller Unterlagen erfolgen kann. Eine vorschnelle Einschaetzung allein anhand des Zeugnistextes ist riskant, weil der Kontext (Aufgabenzuschnitt, Krankheitstage, Abmahnungen, Vergleichszeugnisse) die Bewertung erheblich verschieben kann. Der Mandant erhaelt daher zunaechst nur eine Eingangsbestaetigung, keine Bewertung.
 
@@ -24,7 +24,7 @@ Die folgende Liste ist abschliessend strukturiert und sollte vollstaendig angefo
 | Unterlage | Zweck |
 | --- | --- |
 | Arbeitsvertrag (Erstfassung) | Aufgabenzuschnitt, Eingruppierung, vereinbarte Taetigkeit |
-| Aenderungsvereinbarungen, Versetzungsschreiben | Veraenderungen im Taetigkeitsbild |
+| Änderungsvereinbarungen, Versetzungsschreiben | Veraenderungen im Taetigkeitsbild |
 | Stellenbeschreibung, Organigramm | Hierarchische Einordnung, Fuehrungsverantwortung |
 | Vorzeugnisse (Zwischenzeugnis, Beurteilungen) | Vergleichsmassstab, Sperrwirkung der besseren Vorbewertung |
 | Kuendigungsschreiben, Aufhebungsvertrag | Beendigungsgrund, Schlussformel-Erwartung |
@@ -40,7 +40,7 @@ Bei besonderen Konstellationen kommen weitere Unterlagen hinzu: Schwerbehinderte
 
 Das Erstgespraech ist strukturiert in fuenf Bloecken zu fuehren.
 
-Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschaeftigung (Beginn, Ende, Position, Vorgesetzte, letzte Aufgabe) werden notiert. Schwerpunkt ist nicht das Zeugnis, sondern das tatsaechliche Leistungs- und Verhaltensbild aus Sicht des Mandanten.
+Der erste Block ist die Sachverhaltsaufnahme. Eckdaten der Beschäftigung (Beginn, Ende, Position, Vorgesetzte, letzte Aufgabe) werden notiert. Schwerpunkt ist nicht das Zeugnis, sondern das tatsaechliche Leistungs- und Verhaltensbild aus Sicht des Mandanten.
 
 Der zweite Block ist die Zielklaerung. Will der Mandant ein besseres Zeugnis, eine bestimmte Note, eine bestimmte Schlussformel, eine konkrete Taetigkeitsbeschreibung oder die Entfernung bestimmter Passagen. Auch der Zeitdruck wird erfragt: Steht ein Vorstellungsgespraech an, ist Eile geboten.
 
@@ -58,12 +58,12 @@ vielen Dank für Ihre Beauftragung und die uebersandten Unterlagen. Wir haben Ih
 
 Damit wir die Bewertung rechtssicher vornehmen und die Erfolgsaussichten eines Berichtigungsverlangens beurteilen können, benoetigen wir noch die folgenden Unterlagen:
 
-- Arbeitsvertrag nebst allen Aenderungsvereinbarungen
+- Arbeitsvertrag nebst allen Änderungsvereinbarungen
 - Stellenbeschreibung oder schriftliche Aufgabenuebersicht
 - gegebenenfalls vorhandene Zwischenzeugnisse und Beurteilungen
 - Kuendigungsschreiben oder Aufhebungsvertrag
 - gegebenenfalls erteilte Abmahnungen
-- Übersicht über Krankheits- und Fehlzeiten im letzten Beschaeftigungsjahr
+- Übersicht über Krankheits- und Fehlzeiten im letzten Beschäftigungsjahr
 - bisheriger Schriftwechsel zum Zeugnis
 - Lohnabrechnungen der letzten drei Monate
 
@@ -72,7 +72,7 @@ Bitte beachten Sie, dass der Anspruch auf Berichtigung eines Arbeitszeugnisses d
 Mit freundlichen Gruessen
 [Kanzlei]
 
-## Pruefliste vor Mandatsannahme
+## Prüfliste vor Mandatsannahme
 
 Vor der formellen Annahme prüft die Kanzlei drei Punkte. Erstens den Interessenkonflikt: Vertritt die Kanzlei den frueheren Arbeitgeber oder einen verbundenen Konzern, ist das Mandat zu versagen. Zweitens die Verjährung: Liegt das Zeugnisdatum mehr als drei Jahre zurueck, ist die Erfolgsaussicht ohne besondere Umstaende gering. Drittens die Werthaltigkeit: Bei einer reinen Schlussformel-Diskussion ohne wirtschaftliche Bedeutung sollte der Mandant über das Kostenrisiko offen aufgeklaert werden.
 

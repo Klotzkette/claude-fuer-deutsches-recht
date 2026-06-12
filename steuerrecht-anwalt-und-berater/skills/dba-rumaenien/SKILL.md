@@ -86,7 +86,7 @@ Das DBA-Rumaenien vom 04.07.2001 (BGBl. 2003 II S. 1594) regelt Beziehungen zum 
 
 - **Erstattungsverfahren RO → DE-Mandant**: Antrag bei ANAF (Agenția Națională de Administrare Fiscală); Online-Portal "Spațiul Privat Virtual" der ANAF (vom Anwender mit aktuellem Stand des rumaenischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Certificat de rezidență fiscală" der ANAF als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Rumaenisch; bei strittiger Auslegung beide vergleichen.
-- **Lokaler Berater**: Bei rumaenischer SRL (GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines rumaenischen "consultant fiscal" wegen RO-Pruefungspraxis (sehr formalistisch, viele lokale Steuerarten: Sondersteuern Banken, OMV-Petroleum, Telekom).
+- **Lokaler Berater**: Bei rumaenischer SRL (GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines rumaenischen "consultant fiscal" wegen RO-Prüfungspraxis (sehr formalistisch, viele lokale Steuerarten: Sondersteuern Banken, OMV-Petroleum, Telekom).
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (RO seit 2007).
 
 ## Edge Cases und Was-Prüfer-Triggert

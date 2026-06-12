@@ -1,6 +1,6 @@
 ---
 name: kst-organschaft-14-kstg
-description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehend..."
+description: "Prüfung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehend..."
 ---
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag
@@ -14,7 +14,7 @@ description: "Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft 
 ## Triage — kläre vor der Bearbeitung
 
 1. Ist Organtraeger eine gewerblich taetige Person oder Personengesellschaft?
-2. Ist die Organgesellschaft Kapitalgesellschaft mit Sitz und Ort der Geschaeftsleitung im Inland?
+2. Ist die Organgesellschaft Kapitalgesellschaft mit Sitz und Ort der Geschäftsleitung im Inland?
 3. Ist die finanzielle Eingliederung iSd § 14 Abs. 1 Nr. 1 KStG gegeben (Stimmrechtsmehrheit ab Beginn des Wirtschaftsjahres)?
 4. Liegt ein wirksamer Gewinnabfuehrungsvertrag mit fuenf Jahren Mindestlaufzeit und Verlustuebernahmeklausel § 302 AktG vor?
 5. Wird der GAV tatsaechlich durchgefuehrt (Gewinnabfuehrung Verlustausgleich Buchungen)?

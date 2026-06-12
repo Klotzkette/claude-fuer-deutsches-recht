@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegner und rassistisch definierter Gruppen. Die Nuernberger Gesetze 1935 (Reichsbuergergesetz, RGBl. I 1935, 1146 und Blutschutzgesetz, RGBl. I 1935, 1146) stellten Juden ausserhalb der Rechtsgemeinschaft. Das Reichskriminalpolizeiamt setzte Verwaltungsakt-Legitimation für Willkuerinhaftierung ein. Ernst Fraenkel analysierte in Der Doppelstaat (1941) den Dualismus von Normen- und Massnahmenstaat. Gustav Radbruch formulierte nach 1945 seine Formel: Gesetzliches Unrecht und uebergesetzliches Recht sind möglich (Radbruch-Formel, SJZ 1946, 105).
+Das NS-Regime (1933-1945) pervertierte das Recht zur Verfolgung politischer Gegner und rassistisch definierter Gruppen. Die Nuernberger Gesetze 1935 (Reichsbuergergesetz, RGBl. I 1935, 1146 und Blutschutzgesetz, RGBl. I 1935, 1146) stellten Juden ausserhalb der Rechtsgemeinschaft. Das Reichskriminalpolizeiamt setzte Verwaltungsakt-Legitimation für Willkuerinhaftierung ein. Ernst Fraenkel analysierte in Der Doppelstaat (1941) den Dualismus von Normen- und Maßnahmenstaat. Gustav Radbruch formulierte nach 1945 seine Formel: Gesetzliches Unrecht und uebergesetzliches Recht sind möglich (Radbruch-Formel, SJZ 1946, 105).
 
 ## Kernnormen / Kernquellen
 

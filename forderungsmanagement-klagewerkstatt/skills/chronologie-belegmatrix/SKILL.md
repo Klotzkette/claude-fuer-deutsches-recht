@@ -11,7 +11,7 @@ Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Er
 
 | Nr | Datum | Ereignis | Quelle | Anlage Kläger | Anlage Beklagter | Beweismittel |
 |---|---|---|---|---|---|---|
-| 1 | 2024-01-15 | Angebot Klaegerin | E-Mail | K 1 | | Urkunde |
+| 1 | 2024-01-15 | Angebot Klägerin | E-Mail | K 1 | | Urkunde |
 | 2 | 2024-01-20 | Annahme Beklagte | E-Mail | K 2 | | Urkunde |
 | 3 | 2024-02-10 | Lieferung | Lieferschein | K 3 | | Urkunde Zeuge Mueller |
 | 4 | 2024-02-12 | Rechnung | Rechnung Nr 2024-117 | K 4 | | Urkunde |
@@ -21,7 +21,7 @@ Jeder Schriftsatz steht und faellt mit der Belegkette. Diese Matrix verbindet Er
 
 ## Anlagenkonvention
 
-- K eins K zwei Anlagen der Klaegerin
+- K eins K zwei Anlagen der Klägerin
 - B eins B zwei Anlagen der Beklagten
 - BK Beweisanlagen kombiniert
 - Im Text immer Bezugnahme z B Anlage K vier

@@ -29,7 +29,7 @@ Behandelt die Konstellation systematisch.
 ## Rechtlicher Rahmen
 
 - **§ 60 Abs. 1 Nr. 2 GmbHG** — Aufloesungsbeschluss durch Gesellschafter.
-- **§ 65 GmbHG** — Bekanntmachung und Glaeubigeraufruf.
+- **§ 65 GmbHG** — Bekanntmachung und Gläubigeraufruf.
 - **§ 71 GmbHG** — Liquidations-Eroeffnungsbilanz, Schlussbilanz.
 - **§ 73 GmbHG** — Sperrjahr und Verteilungsverbot.
 - **§ 74 GmbHG** — Loeschung im Handelsregister und Vollbeendigung.
@@ -45,7 +45,7 @@ Behandelt die Konstellation systematisch.
 
 > „Ist ausgeschlossen, dass ein GmbH-Gesellschafter die mit einer Rangruecktrittserklaerung verbundenen Darlehensforderungen gegenueber der GmbH erlassen wird, kann bei der Liquidation der GmbH der Verzicht nicht unterstellt und ein steuerpflichtiger Gewinn angenommen werden. Die Verbindlichkeit ist bis zum Abschluss der Liquidation, d.h. bis zur Loeschung im Handelsregister als Verbindlichkeit auszuweisen. Mit dem Erloeschen der GmbH erloeschen neben den Verbindlichkeiten auch eventuelle Verlustvortraege. Der dadurch rechtstheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht mehr steuerpflichtig."
 
-- **BFH, Urteil v. 26.02.2003 — II R 19/01** — Verbindlichkeiten entfallen nicht allein durch Vermoegenslosigkeit oder Aufloesungsbeschluss.
+- **BFH, Urteil v. 26.02.2003 — II R 19/01** — Verbindlichkeiten entfallen nicht allein durch Vermögenslosigkeit oder Aufloesungsbeschluss.
 - **BFH, Urteil v. 30.11.2011 — I R 100/10** — § 5 Abs. 2a EStG bei qualifiziertem Rangrücktritt (Abgrenzung).
 - **OFD Frankfurt a. M.** — Verfuegung mit der Aussage, dass der blosse Liquidationsbeschluss kein konkludenter Forderungsverzicht ist (Aktualitaet vor Anwendung prüfen).
 
@@ -55,7 +55,7 @@ Behandelt die Konstellation systematisch.
 |---|---|---|
 | 1 | Sachverhalt sauber erfassen: GmbH solvent? Drittglaeubiger gedeckt? Nachrangiges Darlehen? | Sachverhaltsblatt |
 | 2 | Wortlaut der Rangruecktrittsklausel prüfen: „freies Vermögen" oder „nur aus zukuenftigen Gewinnen"? | Klausel-Memo |
-| 3 | § 5 Abs. 2a EStG-Falle prüfen: Bei „nur aus zukuenftigen Gewinnen"-Klauseln greift Passivierungsverbot — Ausbuchung waehrend der Liquidation noch bei fortbestehendem Steuersubjekt | Pruefvermerk |
+| 3 | § 5 Abs. 2a EStG-Falle prüfen: Bei „nur aus zukuenftigen Gewinnen"-Klauseln greift Passivierungsverbot — Ausbuchung waehrend der Liquidation noch bei fortbestehendem Steuersubjekt | Prüfvermerk |
 | 4 | Wenn Klausel sauber (freies Vermögen): FG-Koeln-Linie tragend | Memo Szenario A |
 | 5 | Sanierungseignung § 3a EStG prüfen — fehlt regelmaessig bei Liquidation | Negativbefund |
 | 6 | § 17 Abs. 4 EStG-Aufloesungsverlust auf Gesellschafterebene parallel prüfen | Spiegel-Memo |
@@ -69,7 +69,7 @@ Behandelt die Konstellation systematisch.
 |---|---|---|
 | A — Darlehen bleibt passiviert bis Loeschung | Steuerausfall nach FG Koeln 13 K 3006/11 (mangels Subjekt) | § 5 Abs. 2a EStG-Falle bei unsauberer Klausel |
 | B — Ausbuchung in Liquidations-Eroeffnungsbilanz | Sanierungsertrag entsteht bei fortbestehender GmbH | § 3a EStG kaum anwendbar — Sanierungseignung fehlt; voll steuerpflichtig |
-| C — Ausdruecklicher Verzicht durch Gesellschafterin (§ 397 BGB) | Sofortige Ausbuchung, klare Verhaeltnisse | Sanierungsertrag voll steuerpflichtig; § 17 EStG-Spiegel wahrnehmen |
+| C — Ausdruecklicher Verzicht durch Gesellschafterin (§ 397 BGB) | Sofortige Ausbuchung, klare Verhältnisse | Sanierungsertrag voll steuerpflichtig; § 17 EStG-Spiegel wahrnehmen |
 | D — Insolvenzverfahren statt Liquidation | § 3a EStG eher anwendbar | Insolvenzverfahrenkosten, Reputationsrisiko |
 
 ## Praxistipps der alten Hasen
@@ -109,7 +109,7 @@ GmbH solvent, Darlehen 2,4 Mio EUR, Gesellschafterin erklaert ausdruecklich Verz
 ## Praxistipps der alten Hasen — Ergaenzung
 
 - **Verbindliche Auskunft § 89 AO mit FG-Koeln-Bezug.** Wenn das FA der Linie folgt, wird der Antrag haeufig positiv beschieden; aktuelle OFD-Verfuegungen vorab prüfen.
-- **Sperrjahr ausnutzen.** Das Sperrjahr nach § 73 GmbHG (mindestens 1 Jahr nach Bekanntmachung des Glaeubigeraufrufs) gibt Zeit, die Strategie zu finalisieren.
+- **Sperrjahr ausnutzen.** Das Sperrjahr nach § 73 GmbHG (mindestens 1 Jahr nach Bekanntmachung des Gläubigeraufrufs) gibt Zeit, die Strategie zu finalisieren.
 - **Loeschungsantrag erst nach Steuerakte.** Vor Loeschung sollten die FA-Verfahren abgeschlossen oder die Bescheide bestandskraeftig sein, um die Vollbeendigung nicht zu blockieren.
 
 ## Quellen Stand 06/2026

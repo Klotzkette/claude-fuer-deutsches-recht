@@ -46,7 +46,7 @@ description: "Rechtswahl-, Gerichtsstands- und Schiedsklauseln im Lizenzvertrag:
 > "(3) Vor Anrufung des Schiedsgerichts verpflichten sich die Parteien zur Durchfuehrung eines Mediationsverfahrens nach der Mediationsordnung der DIS. Das Mediationsverfahren gilt als gescheitert, wenn binnen 90 Tagen seit Einleitung keine Einigung erzielt wurde."
 
 **C. Multi-Tier-Klausel (Eskalation):**
-> "Streitigkeiten werden zunaechst durch direkte Verhandlungen der Geschaeftsfuehrungen geloest. Scheitern die Verhandlungen binnen 30 Tagen, wird Mediation durchgefuehrt. Scheitert die Mediation binnen weiterer 60 Tage, wird das Schiedsgericht angerufen."
+> "Streitigkeiten werden zunaechst durch direkte Verhandlungen der Geschäftsführungen geloest. Scheitern die Verhandlungen binnen 30 Tagen, wird Mediation durchgefuehrt. Scheitert die Mediation binnen weiterer 60 Tage, wird das Schiedsgericht angerufen."
 
 **D. Bilinguale Variante (DE/EN):**
 > "$ 15 Governing Law and Dispute Resolution. This Agreement shall be governed by the laws of the Federal Republic of Germany under exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and conflict-of-laws provisions. Any dispute, controversy or claim arising out of or in connection with this Agreement shall be finally settled under the DIS Arbitration Rules. The seat of arbitration shall be Frankfurt am Main. The language of arbitration shall be English."

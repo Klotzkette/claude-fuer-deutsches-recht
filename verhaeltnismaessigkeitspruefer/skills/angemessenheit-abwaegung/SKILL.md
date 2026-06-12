@@ -1,14 +1,14 @@
 ---
 name: angemessenheit-abwaegung
-description: Stufe 4 der Verhaeltnismaessigkeit Angemessenheit als Abwaegung zwischen Eingriffsschwere und Gewicht des Zwecks. Mit dem Gewichtungsraster Wahrscheinlichkeit Intensitaet Reversibilitaet und Hinweisen wie eine Abwaegung methodisch kontrollierbar bleibt.
+description: Stufe 4 der Verhältnismäßigkeit Angemessenheit als Abwaegung zwischen Eingriffsschwere und Gewicht des Zwecks. Mit dem Gewichtungsraster Wahrscheinlichkeit Intensitaet Reversibilitaet und Hinweisen wie eine Abwaegung methodisch kontrollierbar bleibt.
 ---
 
 # Angemessenheit Abwaegung
 
-## Massstab
+## Maßstab
 
 Auf der vierten Stufe wird **abgewogen**: Steht der Eingriff in einem
-**ausgewogenen Verhaeltnis** zum Zweckgewinn?
+**ausgewogenen Verhältnis** zum Zweckgewinn?
 
 BVerfGE 65, 1 (Volkszaehlung) (Volkszaehlung): "Im Spannungsverhaeltnis
 zwischen Individuum und Gemeinschaft im Sinne der Gemeinschaftsbezogenheit
@@ -49,7 +49,7 @@ Strukturierende Fragen:
 2. Wie sicher und wie wertvoll ist der Zweckgewinn?
 3. Gibt es eine absolute Grenze (Menschenwuerde, Wesensgehalt, Existenzminimum)?
 4. Trifft der Eingriff den Kernbereich des Grundrechts?
-5. Gibt es Ausgleichsmechanismen (Entschaedigung, Befristung, Pruefkriterien)?
+5. Gibt es Ausgleichsmechanismen (Entschaedigung, Befristung, Prüfkriterien)?
 
 ## Wenn die Abwaegung kippt
 

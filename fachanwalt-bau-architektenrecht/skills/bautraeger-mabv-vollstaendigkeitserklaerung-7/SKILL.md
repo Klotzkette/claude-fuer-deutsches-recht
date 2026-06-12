@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-vollstaendigkeitserklaerung-7
-description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefra..."
+description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Prüfra..."
 ---
 
 # MaBV § 7 Vollstaendigkeitserklaerung als Alternative
@@ -14,13 +14,13 @@ description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaer
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster.
+**Fokus:** MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Prüfraster.
 
 ### Bautraeger Mabv Vollstaendigkeitserklaerung 7
 
 ## Norm
 
-§ 7 MaBV: Bautraeger darf die gesamte Vertragssumme vor Baufortschritt verlangen, **wenn** er eine **selbstschuldnerische Buergschaft** in Höhe von 105 Prozent der Vertragssumme stellt — diese sichert sowohl die Fertigstellung als auch die Vermoegensauskehr.
+§ 7 MaBV: Bautraeger darf die gesamte Vertragssumme vor Baufortschritt verlangen, **wenn** er eine **selbstschuldnerische Buergschaft** in Höhe von 105 Prozent der Vertragssumme stellt — diese sichert sowohl die Fertigstellung als auch die Vermögensauskehr.
 
 ## Voraussetzungen
 
@@ -33,7 +33,7 @@ description: "MaBV § 7 Vollstaendigkeitserklaerung als Alternative: Skill klaer
 - Bautraeger mit guten Kapitalbeziehungen waehlt § 7-Modell.
 - Erwerber gewinnt Vorhersehbarkeit; Bautraeger gewinnt Liquiditaet.
 
-## Pruefraster
+## Prüfraster
 
 1. § 7 oder § 3 vereinbart?
 2. Sicherheit hinterlegt?

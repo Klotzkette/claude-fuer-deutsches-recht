@@ -27,14 +27,14 @@ Der formale Jahresabschluss (Bilanz + GuV + Anhang + ggf. Lagebericht) ist juris
 
 ## Kaltstart-Rueckfragen
 
-1. Welcher Stichtag — Kalender-Geschaeftsjahr oder abweichendes Wirtschaftsjahr?
+1. Welcher Stichtag — Kalender-Geschäftsjahr oder abweichendes Wirtschaftsjahr?
 2. Liegen Daten der letzten 3-5 Jahre vor (Mehrjahres-Trend)?
 3. Welche Korrekturen ergeben sich aus dem Jahresabschluss (vs. vorläufiger Quartals-BWA)?
-4. Sondereffekte im Geschaeftsjahr (Sondertilgung, Sonderausschuettung, Sonder-AfA)?
+4. Sondereffekte im Geschäftsjahr (Sondertilgung, Sonderausschuettung, Sonder-AfA)?
 5. Welche Kennzahlen sind im Vordergrund?
 6. Welche Mandantenidentitaet (Logo, Farben)?
 7. Verwendungszweck — Mandantengespraech, Gesellschafterversammlung, Bankgespraech?
-8. Welche Erlaeuterungstiefe — knapp (2-3 Seiten) oder ausfuehrlich (10 Seiten)?
+8. Welche Erläuterungstiefe — knapp (2-3 Seiten) oder ausfuehrlich (10 Seiten)?
 
 ## Rechtlicher Rahmen
 
@@ -109,7 +109,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 ### Phase 3 — Sondereffekte separat
 
 - Sonder-AfA § 7g EStG, § 7b EStG separat ausweisen.
-- Anlagenverkauf, Sondertilgung, Sonderausschuettung mit kurzem Erlaeuterungsblock.
+- Anlagenverkauf, Sondertilgung, Sonderausschuettung mit kurzem Erläuterungsblock.
 - "Bereinigtes Ergebnis" zusaetzlich darstellen.
 
 ### Phase 4 — Mehrjahres-Visualisierung
@@ -120,7 +120,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 
 ### Phase 5 — Kommentierung
 
-- 2-Seiten-Erlaeuterung der wesentlichen Entwicklung.
+- 2-Seiten-Erläuterung der wesentlichen Entwicklung.
 - Vergleich Plan vs. Ist (falls Plan vorlag).
 - Vergleich Branche (BBE-Daten falls verfuegbar).
 - Ausblick auf Folgejahr.

@@ -1,11 +1,11 @@
 ---
 name: bmds-it-sicherheit-und-bsig
-description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfe"
+description: "Sachbereich IT-Sicherheit (BSIG) im Geschäftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Länder-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Prüfpunkte. Output Sachfe"
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema IT-Sicherheit (BSIG) im Geschäftsbereich BMDS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbe
 
 Kernbestand des Sachfelds: BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Doppelmeldepflicht zu Datenschutz; Sektor-Abgrenzung; Sanktionsrahmen.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: bilingual-drafting-cowork-cloud
-description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boi..."
+description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), übersetzt Boi..."
 ---
 
 # Bilinguales Drafting Deutsch-Englisch
@@ -25,8 +25,8 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 
 - **Vertragssprache**: Privatautonomie. Parteien können frei waehlen.
 - **Anwendbares Recht**: Rom I-VO. Bei B2C-Vertraegen Verbraucherschutz im Land des gewoehnlichen Aufenthalts (Art. 6 Rom I-VO).
-- **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Uebersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern für englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
-- **§ 293 ZPO**: Auslaendisches Recht muss bewiesen werden. Sachverstaendigengutachten regelmaessig erforderlich, Kosten 10.000 EUR aufwaerts.
+- **§ 184 GVG**: Gerichtssprache deutscher Gerichte ist Deutsch. Bei englischen Vertraegen vor deutschen Gerichten: Übersetzung erforderlich, Kosten regelmaessig zulasten der vorlegenden Partei. Vereinzelte Spezialkammern für englischsprachige Verfahren (Hamburg, Frankfurt, Stuttgart).
+- **§ 293 ZPO**: Ausländisches Recht muss bewiesen werden. Sachverstaendigengutachten regelmaessig erforderlich, Kosten 10.000 EUR aufwaerts.
 - **CISG (UN-Kaufrecht)**: Bei grenzueberschreitendem Warenkauf automatisch anwendbar, soweit nicht ausgeschlossen.
 
 ## Drei Anwendungsfaelle
@@ -35,7 +35,7 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 
 - Beide Sprachen rechtlich verbindlich.
 - Bei Widerspruch: Auslegung nach Treu und Glauben (§§ 133, 157 BGB) oder vereinbarter Auslegungsregel.
-- Hoechster Drafting-Aufwand: jede Aenderung in beiden Fassungen.
+- Hoechster Drafting-Aufwand: jede Änderung in beiden Fassungen.
 - Sinnvoll bei symmetrischen Partnerschaften, internationalen Joint Ventures.
 
 **Sprachklausel:** "Dieser Vertrag ist in deutscher und englischer Sprache abgefasst. Beide Fassungen sind gleichermassen verbindlich. Im Falle eines Widerspruchs zwischen den beiden Fassungen sind die Bestimmungen so auszulegen, wie sie dem gemeinsamen wirtschaftlichen Zweck am besten entsprechen. // This Agreement is executed in both German and English. Both versions shall be equally binding. In the event of a conflict between the two versions, the provisions shall be interpreted in a manner that best reflects the common commercial purpose."
@@ -52,8 +52,8 @@ description: "Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacke
 ### Courtesy translation (eine nur informativ)
 
 - Eine Sprache ist verbindlich, die andere wird ausschließlich zur Information beigefuegt.
-- Niedriger Drafting-Aufwand bei Aenderungen (nur die verbindliche Fassung ist relevant).
-- Risiko: Uebersetzung kann irrefuehrend sein, der Mandant unterschreibt im Vertrauen auf die Uebersetzung.
+- Niedriger Drafting-Aufwand bei Änderungen (nur die verbindliche Fassung ist relevant).
+- Risiko: Übersetzung kann irrefuehrend sein, der Mandant unterschreibt im Vertrauen auf die Übersetzung.
 
 **Sprachklausel:** "Dieser Vertrag ist in deutscher Sprache verbindlich. Die englische Fassung ist eine reine Hoeflichkeitsuebersetzung ohne Rechtswirkung. // This Agreement is binding in its German version. The English version is a courtesy translation only and has no legal effect."
 
@@ -83,15 +83,15 @@ Gestapelt: Jeder Abschnitt erst auf Deutsch, dann auf Englisch. Englische Abschn
 
 ## False Friends Deutsch-Englisch
 
-Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. Prüfen Sie jede Klausel.
+Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch übersetzt. Prüfen Sie jede Klausel.
 
-| Englisch | Falsche dt. Uebersetzung | Korrekte dt. Uebersetzung | Anmerkung |
+| Englisch | Falsche dt. Übersetzung | Korrekte dt. Übersetzung | Anmerkung |
 |---|---|---|---|
 | **Indemnify** | Versichern | Freistellen | Konzept des § 257 BGB, weiter als dt. Schadensersatz |
 | **Hold harmless** | Schadlos halten | Freistellen | Synonym zu indemnify in UK/US-Verstaendnis |
 | **Reasonable** | Vernuenftig | Angemessen / verkehrsueblich | Common-Law-Standard, kein deutscher Begriff |
 | **Best efforts** | Beste Bemuehungen | Aeusserste / hoechstmoegliche Anstrengungen | Im US-Recht haerter als "reasonable efforts" |
-| **Reasonable best efforts** | (oft falsch uebersetzt) | Angemessene Anstrengungen | Verhandlungsformel zwischen "best" und "commercially reasonable" |
+| **Reasonable best efforts** | (oft falsch übersetzt) | Angemessene Anstrengungen | Verhandlungsformel zwischen "best" und "commercially reasonable" |
 | **Consequential damages** | Folgeschaeden | Indirekte oder mittelbare Schaeden | Begriff im US-Recht enger als dt. mittelbarer Schaden |
 | **Punitive damages** | Strafzahlungen | Strafschadensersatz | Im dt. Recht unbekannt, ordre public-relevant (§ 328 ZPO) |
 | **Liquidated damages** | Verfluessigte Schaeden | Pauschalierter Schadensersatz | Näher an § 309 Nr. 5 BGB als an Vertragsstrafe |
@@ -117,7 +117,7 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 - Definitionen-Verzeichnis: parallel pflegen, gleiche Nummerierung in beiden Sprachen.
 - Querverweise: in beiden Sprachen, gleiche Paragraphennummer.
 - Anlagen: gleiche Bezeichnung (Anlage 1 / Schedule 1).
-- Bei Aenderung einer Klausel: andere Sprache sofort mitziehen. Niemals nur eine Sprache bearbeiten.
+- Bei Änderung einer Klausel: andere Sprache sofort mitziehen. Niemals nur eine Sprache bearbeiten.
 - Prüfung am Ende: Word-Vergleich beider Sprachen (manuell) auf Synchronitaet.
 
 ## Ablauf / Checkliste
@@ -127,7 +127,7 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 3. Sprachklausel formulieren (s. o.).
 4. Definitionenverzeichnis aufbauen, beide Sprachen synchron.
 5. Vertrag in der verbindlichen Sprache zuerst draften.
-6. Uebersetzung erstellen, dabei jede der oben aufgefuehrten False Friends prüfen.
+6. Übersetzung erstellen, dabei jede der oben aufgefuehrten False Friends prüfen.
 7. Konsistenz-Prüfung: jeder definierte Begriff in beiden Sprachen identisch.
 8. Forum-Prüfung: Kosten und Risiken bei Streitfall im vereinbarten Gericht (§ 184 GVG, § 293 ZPO).
 9. Versand mit beiden Fassungen im selben Word-Dokument.

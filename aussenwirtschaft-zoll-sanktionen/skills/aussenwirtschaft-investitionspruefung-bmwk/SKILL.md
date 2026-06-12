@@ -1,9 +1,9 @@
 ---
 name: aussenwirtschaft-investitionspruefung-bmwk
-description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pru..."
+description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff: sektorspezifische Prüfung (KRITIS) und allgemeine Prüfung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pru..."
 ---
 
-# Investitionspruefung BMWK: AWG-Verfahren bei auslaendischen Unternehmenserwerben
+# Investitionspruefung BMWK: AWG-Verfahren bei ausländischen Unternehmenserwerben
 
 ## Arbeitsweg
 
@@ -30,13 +30,13 @@ description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV �
 
 ## Rechtsrahmen
 
-- **AWG §§ 55-59**: Pruefungsgrundlage, Anmelde- und Genehmigungspflicht.
-- **AWV §§ 55-62**: Sektorspezifische und allgemeine Pruefverfahren, Anteilsschwellen.
+- **AWG §§ 55-59**: Prüfungsgrundlage, Anmelde- und Genehmigungspflicht.
+- **AWV §§ 55-62**: Sektorspezifische und allgemeine Prüfverfahren, Anteilsschwellen.
 - **AWV Anhang A**: KRITIS-Sektoren mit 10-%-Schwelle.
 - **AWV Anhang B**: Weitere Sektoren mit 20-%-Schwelle (u.a. kuenstliche Intelligenz, Halbleiter).
 - **§ 18 AWG**: Sanktionen bei Vollzug ohne Freigabe.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Erwerber aus Drittstaat (Nicht-EU/EFTA/NATO)?
 - [ ] Sektor des Zielunternehmens in Anhang A oder B AWV?
@@ -48,9 +48,9 @@ description: "Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV �
 ## Typische Fallstricke
 
 - Vollzugsverbot gilt ab Anmeldepflicht; Closing vor Freigabe ist bussgeldbewehrt.
-- Intrakonzernuebertragungen können Pruefpflicht ausloesen wenn Letzteigentuemer wechselt.
+- Intrakonzernuebertragungen können Prüfpflicht ausloesen wenn Letzteigentuemer wechselt.
 - Berechnung Anteilsschwelle muss alle Stimmrechte und wirtschaftliche Einflussmoeglichkeiten einschliessen.
-- BMWK-Pruefverfahren kann laenger als 3 Monate dauern; Verlaengerungen möglich.
+- BMWK-Prüfverfahren kann laenger als 3 Monate dauern; Verlaengerungen möglich.
 
 ## Schnittstellen zu anderen Skills
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

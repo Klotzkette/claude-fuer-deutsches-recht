@@ -62,7 +62,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Zusammenfassung für Akte oder Uebergabe | Vorlage unten nach acht bis zehn Saetzen |
+| Standard — Zusammenfassung für Akte oder Übergabe | Vorlage unten nach acht bis zehn Saetzen |
 | Variante A — Adressat ist Laie (Mandant) | Vereinfachte Sprache; keine Paragrafenverweise |
 | Variante B — sehr fruehes Stadium ohne Entscheidung | Vorlaeufige Zusammenfassung mit Offenhalten des Ausgangs |
 | Variante C — Verfahren laueft noch | Zwischenbericht-Format statt abschliessender Zusammenfassung |

@@ -12,7 +12,7 @@ Vor jeder Recherche oder Klagevorbereitung muss klar sein, wer wen mit welchem Z
 | Aktenfund | Vermutung | Rueckfrage nur wenn |
 |---|---|---|
 | Vollmacht, Auftragsbestaetigung, Mandatsmail | Mandant und Auftraggeber | mehrere Auftraggeber oder unklare Konzernrolle |
-| Rechnung / Mahnung aus derselben Firma | Glaeubigerseite | Abtretung, Factoring oder Inkasso zwischengeschaltet |
+| Rechnung / Mahnung aus derselben Firma | Gläubigerseite | Abtretung, Factoring oder Inkasso zwischengeschaltet |
 | Widerspruch gegen Mahnbescheid / Klageerwiderung | Schuldnerseite oder Abwehrmandat | Nutzer will trotzdem eintreiben |
 | Kontoauszug mit Zahlung | moegliche Erfuellung oder Teilzahlung | Zahlung nicht zuordenbar |
 | HR-Auszug / Registerfund | richtige juristische Person | Firmenname, Rechtsform oder Sitz abweichen |
@@ -24,7 +24,7 @@ Erst danach werden Luecken erfragt. Keine Einstiegsfrage nach "Wer sind Sie?", w
 | Rolle | Typische Pflicht aus Mandat | Kollisionsrisiko |
 |---|---|---|
 | Privatglaeubiger | Zahlung Titel Vollstreckung | gering |
-| Gewerblicher Glaeubiger | Zahlung Titel ggf. Inkassokosten | Konflikt wenn Schuldner ebenfalls Mandant in anderer Sache |
+| Gewerblicher Gläubiger | Zahlung Titel ggf. Inkassokosten | Konflikt wenn Schuldner ebenfalls Mandant in anderer Sache |
 | Sicherungsglaeubiger Bank | Verwertung Sicherheit | Konflikt mit Schuldner-Mandat verboten |
 | Privatschuldner | Abwehr Reduktion Ratenzahlung Verbraucherinsolvenz | Mandantenschutz nach VerbrKredR |
 | Gewerblicher Schuldner | Abwehr Streckung Vergleich Sanierung | InsO-Antragspflichten beachten |

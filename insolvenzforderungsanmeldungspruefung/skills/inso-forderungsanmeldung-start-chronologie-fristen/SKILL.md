@@ -140,7 +140,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Insolvenzverwalter, Pruefungsstellen und Kanzleien bei der strukturierten Prüfung von Insolvenzforderungsanmeldungen nach §§ 174-189 InsO. Es deckt den gesamten Pruefpfad ab: vom kanaluebergreifenden Eingang der Anmeldungen über Formalprüfung, Belegprüfung, Anspruchsgrundlage, Betrag, Zinsen, Rangprüfung und vorsaetzlich begangene unerlaubte Handlung (vbuH) bis hin zu Pruefungstermin, Bestreitungsverfahren, Tabelleneintrag, Tabellenauszug und Verteilung.
+Dieses Plugin unterstuetzt Insolvenzverwalter, Prüfungsstellen und Kanzleien bei der strukturierten Prüfung von Insolvenzforderungsanmeldungen nach §§ 174-189 InsO. Es deckt den gesamten Prüfpfad ab: vom kanaluebergreifenden Eingang der Anmeldungen über Formalprüfung, Belegprüfung, Anspruchsgrundlage, Betrag, Zinsen, Rangprüfung und vorsaetzlich begangene unerlaubte Handlung (vbuH) bis hin zu Prüfungstermin, Bestreitungsverfahren, Tabelleneintrag, Tabellenauszug und Verteilung.
 
 Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auch für Massenverfahren mit strukturiertem Batchregister.
 
@@ -148,19 +148,19 @@ Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auc
 
 - Sie sind Insolvenzverwalter und erhalten einen neuen Stapel von Forderungsanmeldungen nach § 174 InsO.
 - Sie müssen Formalmaengel in einer Forderungsanmeldung identifizieren und ein Maengelschreiben erstellen.
-- Sie bereiten den Pruefungstermin nach § 176 InsO vor und benoetigen eine strukturierte Terminmappe.
-- Ein Glaeubiger hat die Forderung als vbuH gekennzeichnet und Sie müssen die Restschuldbefreiungsrelevanz prüfen.
+- Sie bereiten den Prüfungstermin nach § 176 InsO vor und benoetigen eine strukturierte Terminmappe.
+- Ein Gläubiger hat die Forderung als vbuH gekennzeichnet und Sie müssen die Restschuldbefreiungsrelevanz prüfen.
 - Sie bereiten die Schlussverteilung vor und müssen bestrittene Forderungen nach § 189 InsO korrekt behandeln.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Forderungsanmeldung** — Erklaerung des Glaeubiger gegenueber dem Insolvenzgericht oder Insolvenzverwalter über seine Insolvenzforderung (§ 174 InsO).
+- **Forderungsanmeldung** — Erklaerung des Gläubiger gegenueber dem Insolvenzgericht oder Insolvenzverwalter über seine Insolvenzforderung (§ 174 InsO).
 - **Tabelle** — Das vom Insolvenzgericht gefuehrte Verzeichnis aller angemeldeten Insolvenzforderungen (§ 175 InsO).
-- **Pruefungstermin** — Termin beim Insolvenzgericht, in dem Forderungen auf Feststellung oder Bestreitung geprüft werden (§ 176 InsO).
+- **Prüfungstermin** — Termin beim Insolvenzgericht, in dem Forderungen auf Feststellung oder Bestreitung geprüft werden (§ 176 InsO).
 - **Feststellungswirkung** — Die anerkannte Forderung wirkt wie ein rechtskraeftiger Titel gegen den Schuldner (§ 178 InsO).
 - **vbuH** — Vorsaetzlich begangene unerlaubte Handlung; Forderungen aus vbuH sind von der Restschuldbefreiung ausgenommen (§ 302 Nr. 1 InsO).
 - **Nachrang** — Insolvenzforderungen, die erst nach den einfachen Insolvenzforderungen befriedigt werden (§ 39 InsO).
-- **Absonderungsrecht** — Recht bestimmter Glaeubiger, aus bestimmten Gegenstanden der Insolvenzmasse vorab befriedigt zu werden (§§ 49-51 InsO).
+- **Absonderungsrecht** — Recht bestimmter Gläubiger, aus bestimmten Gegenstanden der Insolvenzmasse vorab befriedigt zu werden (§§ 49-51 InsO).
 
 ## Rechtsgrundlagen
 
@@ -176,40 +176,40 @@ Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auc
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Verwalterrolle, Verfahrensstand (Eroeffnung, Pruefungstermin, Verteilung), Forderungstyp.
+1. Mandantenkonstellation klären: Verwalterrolle, Verfahrensstand (Eroeffnung, Prüfungstermin, Verteilung), Forderungstyp.
 2. Phase des Mandats bestimmen: Eingangserfassung, Formalprüfung, inhaltliche Prüfung, Entscheidung, Termin oder Verteilung.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: Pruefungstermin-Termin, Frist Schuldnerwiderspruch (§ 184 InsO Monatsfrist), Verteilungs-Nachweis (§ 189 InsO).
-5. Anschluss-Skill bestimmen: nach Formalprüfung folgt inhaltliche Prüfung; nach Pruefungstermin folgt Tabelleneintrag oder Streitverfahren.
+4. Eilfristen prüfen: Prüfungstermin-Termin, Frist Schuldnerwiderspruch (§ 184 InsO Monatsfrist), Verteilungs-Nachweis (§ 189 InsO).
+5. Anschluss-Skill bestimmen: nach Formalprüfung folgt inhaltliche Prüfung; nach Prüfungstermin folgt Tabelleneintrag oder Streitverfahren.
 
 ## Skill-Tour (was gibt es hier?)
 
 **Einstieg und Steuerung**
 
-- `ifap-kommandocenter` — Steuerung des gesamten Pruefpfads von Eingang bis Tabelle; zeigt naechste Schritte und Fristen an.
+- `ifap-kommandocenter` — Steuerung des gesamten Prüfpfads von Eingang bis Tabelle; zeigt naechste Schritte und Fristen an.
 - `ifap-intake-kanalcheck` — Kanaluebergreifende Eingangserfassung: Post, E-Mail, Portal, Tabellenexport und Nachtrag.
-- `ifap-aktenanlage-batchregister` — Strukturiertes Batchregister für Massenverfahren mit Glaeubigerstamm, Fristen und Audit-Trail.
+- `ifap-aktenanlage-batchregister` — Strukturiertes Batchregister für Massenverfahren mit Gläubigerstamm, Fristen und Audit-Trail.
 
 **Formalprüfung**
 
-- `ifap-formalpruefung-174` — Formalprüfung nach § 174 InsO: Pflichtinhalt, Glaeubiger, Anspruchsgrund, Betrag, Urkundenvorlage.
-- `ifap-beleg-und-urkundencheck` — Prueft Belegkette (Rechnungen, Verträge, Titel) auf Vollstaendigkeit und Beweiswert.
+- `ifap-formalpruefung-174` — Formalprüfung nach § 174 InsO: Pflichtinhalt, Gläubiger, Anspruchsgrund, Betrag, Urkundenvorlage.
+- `ifap-beleg-und-urkundencheck` — Prüft Belegkette (Rechnungen, Verträge, Titel) auf Vollstaendigkeit und Beweiswert.
 - `ifap-dubletten-serienforderungen` — Erkennt Doppelerfassungen und Serienforderungen (z.B. Inkasso und Originalglaeubiger parallel).
 - `ifap-nachtraegliche-anmeldung-177` — Behandlung verspaeteter Forderungsanmeldungen nach § 177 InsO mit Kostenpflicht und Sondertermin.
 - `ifap-nachforderung-maengelschreiben` — Erstellt praezises Maengelschreiben bei unvollstaendiger Anmeldung mit konkreten Nachforderungen.
 
 **Inhaltliche Prüfung**
 
-- `ifap-grund-betrag-zinsen` — Prueft Anspruchsgrundlage, Betrag und Zinsberechnung der angemeldeten Forderung.
+- `ifap-grund-betrag-zinsen` — Prüft Anspruchsgrundlage, Betrag und Zinsberechnung der angemeldeten Forderung.
 - `ifap-rang-nachrang-absonderung` — Klassifiziert Forderung nach Rang: einfach, Nachrang, Absonderungsrecht oder Aussonderungsrecht.
 - `ifap-masseverbindlichkeit-abgrenzen` — Grenzt Masseverbindlichkeiten von Insolvenzforderungen nach Entstehungszeitpunkt ab.
-- `ifap-vbuh-pruefung` — Prueft Kennzeichnung als vbuH, Restschuldbefreiungsrelevanz und Begruendungsanforderungen.
+- `ifap-vbuh-pruefung` — Prüft Kennzeichnung als vbuH, Restschuldbefreiungsrelevanz und Begruendungsanforderungen.
 
-**Pruefungsentscheidung und Termin**
+**Prüfungsentscheidung und Termin**
 
 - `ifap-pruefentscheidung` — Entscheidung über Feststellung, Teilfeststellung, Bestreiten oder Rueckstellung.
-- `ifap-pruefungstermin-176` — Vorbereitung des Pruefungstermins nach § 176 InsO: Terminmappe, Widersprueche, schriftliches Verfahren.
-- `ifap-quality-gate` — Qualitaetsgate vor Tabelleneintrag, Pruefungstermin und Verteilung: Vollstaendigkeit und Plausibilitaet.
+- `ifap-pruefungstermin-176` — Vorbereitung des Prüfungstermins nach § 176 InsO: Terminmappe, Widersprueche, schriftliches Verfahren.
+- `ifap-quality-gate` — Qualitaetsgate vor Tabelleneintrag, Prüfungstermin und Verteilung: Vollstaendigkeit und Plausibilitaet.
 
 **Bestreiten und Streit**
 
@@ -225,18 +225,18 @@ Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auc
 ## Worauf besonders achten
 
 - **Formalmaengel fruehzeitig behandeln.** Eine formal unvollstaendige Anmeldung nach § 174 InsO kann nicht festgestellt werden; Maengelschreiben sofort nach Eingang erstellen.
-- **vbuH-Kennzeichnung erfordert Tatsachengrundlage.** Nicht jede Deliktsforderung ist automatisch vbuH; der Glaeubiger muss Tatsachen darlegen (§ 174 Abs. 2 InsO).
+- **vbuH-Kennzeichnung erfordert Tatsachengrundlage.** Nicht jede Deliktsforderung ist automatisch vbuH; der Gläubiger muss Tatsachen darlegen (§ 174 Abs. 2 InsO).
 - **Masseverbindlichkeiten nicht als Insolvenzforderungen behandeln.** Entstehungszeitpunkt (vor oder nach Eroeffnung) und Verwalterhandeln sind entscheidend.
-- **Monatsfrist nach Pruefungstermin beachten.** Bei Schuldnerwiderspruch zu titulierten Forderungen laeuft die Aufnahme-Frist nach § 184 InsO ab Pruefungstermin.
-- **Verteilung korrekt berechnen.** Bestrittene Forderungen nach § 189 InsO können nur beruecksichtigt werden, wenn der Glaeubiger rechtzeitig Nachweis erbringt.
+- **Monatsfrist nach Prüfungstermin beachten.** Bei Schuldnerwiderspruch zu titulierten Forderungen laeuft die Aufnahme-Frist nach § 184 InsO ab Prüfungstermin.
+- **Verteilung korrekt berechnen.** Bestrittene Forderungen nach § 189 InsO können nur beruecksichtigt werden, wenn der Gläubiger rechtzeitig Nachweis erbringt.
 
 ## Typische Fehler
 
 - Rang wird nicht geprueft; Nachrang-Forderungen (§ 39 InsO) werden als einfache Insolvenzforderungen eingetragen.
 - Belegkette ist unvollstaendig; Forderung wird festgestellt ohne dass Anspruchsgrundlage belegt ist.
 - Dubletten werden nicht erkannt; Doppelzahlung im Verteilungsverfahren ist moegliche Folge.
-- Pruefungstermin wird ohne Terminmappe angegangen; streitige Forderungen können nicht geordnet behandelt werden.
-- Schuldnerwiderspruch bei titulierten Forderungen wird nicht nachverfolgt; Glaeubiger verliert Feststellungswirkung durch Fristversaeumnis.
+- Prüfungstermin wird ohne Terminmappe angegangen; streitige Forderungen können nicht geordnet behandelt werden.
+- Schuldnerwiderspruch bei titulierten Forderungen wird nicht nachverfolgt; Gläubiger verliert Feststellungswirkung durch Fristversaeumnis.
 
 ## Quellen und Aktualitaet
 

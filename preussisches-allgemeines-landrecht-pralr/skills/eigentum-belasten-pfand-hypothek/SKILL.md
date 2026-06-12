@@ -36,7 +36,7 @@ description: "Belastung des Eigentums im ALR Pfand und Hypothek. Skill behandelt
 - § 1199 BGB Grundschuld.
 - § 1204 BGB Pfandrecht.
 
-## Pruefraster
+## Prüfraster
 
 1. Beweglich oder unbeweglich?
 2. Eintragungserforderlich?

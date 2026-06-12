@@ -18,8 +18,8 @@ Verfahrenssprache ist Deutsch (§ 184 GVG). Wenn Sie nicht ausreichend Deutsch k
 ## Fachbegriffe (kurz erklaert)
 
 - **Verfahrenssprache**: Sprache, in der das Verfahren stattfindet (Deutsch).
-- **Dolmetscher**: Person, die zwischen Verfahrenssprache und einer anderen Sprache uebersetzt.
-- **Uebersetzer**: Person für schriftliche Uebersetzungen.
+- **Dolmetscher**: Person, die zwischen Verfahrenssprache und einer anderen Sprache übersetzt.
+- **Übersetzer**: Person für schriftliche Übersetzungen.
 
 ## Rechtsgrundlagen
 
@@ -69,17 +69,17 @@ Bei normalen Sprach-Beduerfnissen kann es Beteiligungs-Pflicht geben. Klären Si
 
 ### Schritt 5 — Im Termin
 
-- Dolmetscher uebersetzt Verhandlung simultan oder konsekutiv.
-- Ihre Aussagen werden uebersetzt.
-- Aussagen des Gerichts und der Gegenseite werden Ihnen uebersetzt.
+- Dolmetscher übersetzt Verhandlung simultan oder konsekutiv.
+- Ihre Aussagen werden übersetzt.
+- Aussagen des Gerichts und der Gegenseite werden Ihnen übersetzt.
 
-### Schritt 6 — Schriftliche Uebersetzung
+### Schritt 6 — Schriftliche Übersetzung
 
 Bei Urkunden in fremder Sprache:
 
-- Sie selbst können Uebersetzung beifuegen.
-- Das Gericht kann beglaubigte Uebersetzung anfordern (§ 142 III ZPO).
-- Beglaubigte Uebersetzer (Liste IHK).
+- Sie selbst können Übersetzung beifuegen.
+- Das Gericht kann beglaubigte Übersetzung anfordern (§ 142 III ZPO).
+- Beglaubigte Übersetzer (Liste IHK).
 
 ### Schritt 7 — Zeuge in fremder Sprache
 
@@ -102,14 +102,14 @@ Wenn Sie ohne Dolmetscher kommen und Verstaendnis-Schwierigkeiten habens: Gerich
 
 - **Vor Termin Antrag stellen**.
 - **Sprach-Niveau realistisch einschaetzen**.
-- **Beglaubigte Uebersetzungen** für Urkunden bei Bedarf.
+- **Beglaubigte Übersetzungen** für Urkunden bei Bedarf.
 - **Recht auf faires Verfahren** (Art. 6 EMRK).
 
 ## Typische Fehler
 
 - "Ich komm ohne Dolmetscher und schaff das." → Wichtige Aussagen koennten verloren gehen.
-- "Familienangehoeriger uebersetzt." → Nicht vereidigt, Beweis-Wert problematisch.
-- "Uebersetzung ohne Beglaubigung." → Bei Streit erforderlich.
+- "Familienangehoeriger übersetzt." → Nicht vereidigt, Beweis-Wert problematisch.
+- "Übersetzung ohne Beglaubigung." → Bei Streit erforderlich.
 
 ## Quellen und Aktualitaet
 

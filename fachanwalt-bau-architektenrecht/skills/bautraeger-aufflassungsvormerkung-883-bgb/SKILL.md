@@ -14,7 +14,7 @@ description: "Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag: Skill kl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
+**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen für den Erwerber bei Bautraegerinsolvenz. Liefert Prüfraster.
 
 ### Bautraeger Aufflassungsvormerkung 883 Bgb
 
@@ -40,7 +40,7 @@ description: "Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag: Skill kl
 - Insolvenzverwalter muss Eigentum nach Vollzahlung uebertragen.
 - Bei nur teilweiser Zahlung: kompliziert — Skill `bautraeger-rueckabwicklung-bei-insolvenz`.
 
-## Pruefraster
+## Prüfraster
 
 1. Vormerkung im Grundbuch eingetragen?
 2. Eintragungsdatum vor Zahlung?

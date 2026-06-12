@@ -1,6 +1,6 @@
 ---
 name: lohn-meldungen-sv-elstam-zugang
-description: "SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschaeftigungsbeginn und Beendigung Anmeldung Abmeldung Aenderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik DEUEV-Verfahren ELStAM Prüfung. Output gemeldete Vorgaenge Quittungen."
+description: "SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschäftigungsbeginn und Beendigung Anmeldung Abmeldung Änderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik DEUEV-Verfahren ELStAM Prüfung. Output gemeldete Vorgaenge Quittungen."
 ---
 
 # SV-Meldungen und ELStAM-Verfahren
@@ -13,16 +13,16 @@ description: "SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfa
 
 ## Kernsachverhalt
 
-Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden, bei Ende abzumelden. Aenderungen (Krankenkasse-Wechsel, Adresse, Steuerklasse) sind zu melden. Parallel erfolgt der elektronische Abruf der Lohnsteuer-Abzugsmerkmale (ELStAM). Das DEUEV-Verfahren (Datenerfassungs- und -uebermittlungsverordnung) steuert die SV-Meldungen, das ELStAM-Verfahren die LSt-Abzugsmerkmale. Beide müssen rechtzeitig und korrekt erfolgen.
+Bei Beschäftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden, bei Ende abzumelden. Änderungen (Krankenkasse-Wechsel, Adresse, Steuerklasse) sind zu melden. Parallel erfolgt der elektronische Abruf der Lohnsteuer-Abzugsmerkmale (ELStAM). Das DEUEV-Verfahren (Datenerfassungs- und -uebermittlungsverordnung) steuert die SV-Meldungen, das ELStAM-Verfahren die LSt-Abzugsmerkmale. Beide müssen rechtzeitig und korrekt erfolgen.
 
 ## Kaltstart-Rueckfragen
 
-1. Beschaeftigungsbeginn — wann, regulaer oder Sofortmeldungspflicht (Bau, Gaststaette, Fleisch, ...)?
+1. Beschäftigungsbeginn — wann, regulaer oder Sofortmeldungspflicht (Bau, Gaststaette, Fleisch, ...)?
 2. Steuer-Id des AN vorhanden?
 3. Krankenkassen-Wahl bekannt?
 4. SV-Status — versicherungspflichtig, geringfuegig, kurzfristig, Werkstudent?
 5. AN-Vorbeschaeftigung in laufender Periode (Mehrfachbeschaeftigung)?
-6. Liegt Aenderungs-Anlass vor (Steuerklasse, Adresse, Kinderfreibetrag)?
+6. Liegt Änderungs-Anlass vor (Steuerklasse, Adresse, Kinderfreibetrag)?
 7. Bei Beendigung: ordentliche Kuendigung, fristlos, Aufhebungsvertrag?
 8. Liegt ELStAM-Sperre vor (Mehrfacharbeitgeber-Konflikt)?
 
@@ -52,12 +52,12 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 
 ## Workflow
 
-### Phase 1 — Beschaeftigungsbeginn-Anmeldung
+### Phase 1 — Beschäftigungsbeginn-Anmeldung
 
 | Meldungsart | Inhalt | Frist |
 |---|---|---|
-| Anmeldung | Beschaeftigungsbeginn, AN-Daten | Mit der ersten naechsten Lohnabrechnung, spaetestens 6 Wochen nach Beschaeftigungsbeginn |
-| Sofortmeldung (Sonderbranchen) | Vor Beschaeftigungsbeginn | Spaetestens bei Aufnahme der Beschaeftigung |
+| Anmeldung | Beschäftigungsbeginn, AN-Daten | Mit der ersten naechsten Lohnabrechnung, spaetestens 6 Wochen nach Beschäftigungsbeginn |
+| Sofortmeldung (Sonderbranchen) | Vor Beschäftigungsbeginn | Spaetestens bei Aufnahme der Beschäftigung |
 | Minijob-Anmeldung | Bei Minijob-Zentrale (Knappschaft) | Mit erster Abrechnung |
 
 ### Phase 2 — DEUEV-Abgabegruende (Auszug)
@@ -66,8 +66,8 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 - Abmeldung (Grund 30).
 - Jahresmeldung (Grund 50).
 - Unterbrechungsmeldung (Grund 51).
-- Aenderung Beitragsgruppe (Grund 11).
-- Aenderung Personalien (Grund 12).
+- Änderung Beitragsgruppe (Grund 11).
+- Änderung Personalien (Grund 12).
 - Sofortmeldung (Grund 20).
 
 ### Phase 3 — ELStAM-Abruf
@@ -75,18 +75,18 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 - Anmeldung beim ELStAM-Verfahren über das BZSt (Bundeszentralamt für Steuern).
 - Voraussetzungen: AN-Steuer-ID (11-stellig nach § 139b AO), AG-Steuer-Nr (oder AG-Identifikationsnummer), AG-Betriebsstaetten-Nummer der BA.
 - Standard-Abrufintervall: monatlich vor der Lohnabrechnung; in DATEV LODAS automatisiert.
-- Bei Aenderungen (Steuerklasse, Kinderfreibetrag, Konfession): automatische Aktualisierung durch FA; das AG-System aktualisiert ELStAM beim naechsten Abruf.
+- Bei Änderungen (Steuerklasse, Kinderfreibetrag, Konfession): automatische Aktualisierung durch FA; das AG-System aktualisiert ELStAM beim naechsten Abruf.
 
 ### Phase 4 — ELStAM-Sonderfaelle
 
 - Erster Arbeitgeber (Steuerklasse 1-5): Hauptbeschaeftigung.
 - Weiterer Arbeitgeber (Steuerklasse 6): hoechste LSt-Belastung.
-- Aenderung Hauptbeschaeftigung: AN muss FA informieren.
+- Änderung Hauptbeschaeftigung: AN muss FA informieren.
 - Bei ELStAM-Sperre durch Konflikt: Sperrgrund prüfen, AN-Aufklaerung.
 
 ### Phase 5 — Abmeldung
 
-- Bei Beschaeftigungsende: Abmeldung in der naechsten Entgeltabrechnung.
+- Bei Beschäftigungsende: Abmeldung in der naechsten Entgeltabrechnung.
 - Grund 30 (regulaer), 34 (Tod), 36 (Renteneintritt).
 - ELStAM-Abmeldung automatisch.
 
@@ -98,9 +98,9 @@ Bei Beschaeftigungsbeginn ist der Arbeitnehmer zur Sozialversicherung anzumelden
 
 ## Strategie und Praxis-Tipps
 
-- Anmeldung rechtzeitig — Sofortmeldungspflicht-Branchen vor Beschaeftigungsbeginn melden.
+- Anmeldung rechtzeitig — Sofortmeldungspflicht-Branchen vor Beschäftigungsbeginn melden.
 - Bei Sofortmeldungs-Branchen Verspaetung: Bussgelder erheblich (bis 25.000 EUR für den AG).
-- ELStAM-Abruf jeden Monat — Aenderungen durch FA (KiFB, KKB) werden automatisch wirksam.
+- ELStAM-Abruf jeden Monat — Änderungen durch FA (KiFB, KKB) werden automatisch wirksam.
 - Bei Mehrfachbeschaeftigung: AN muss FA bzgl. Hauptarbeitgeber informieren.
 - StBVV: SV/ELStAM-Meldungen pauschal in Lohnabrechnungsentgelt.
 - DATEV-Tipp: DATEV LODAS DEUEV-Modul und ELStAM-Schnittstelle automatisiert.

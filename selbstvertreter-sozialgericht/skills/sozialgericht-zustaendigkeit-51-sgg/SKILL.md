@@ -70,7 +70,7 @@ Das Sozialgericht ist zuständig für:
 
 ### Schritt 4 — Bei Unsicherheit anrufen
 
-Rufen Sie die Geschaeftsstelle des Sozialgerichts an. Sagen Sie kurz, was los ist. Die Geschaeftsstelle hilft Ihnen meistens weiter.
+Rufen Sie die Geschäftsstelle des Sozialgerichts an. Sagen Sie kurz, was los ist. Die Geschäftsstelle hilft Ihnen meistens weiter.
 
 ### Schritt 5 — Wenn falsch eingereicht
 
@@ -90,4 +90,4 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Prüfen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.
+Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschäftsstelle Ihres Sozialgerichts (kostenlose Auskunft). Prüfen Sie immer die Rechtsbehelfsbelehrung Ihres Bescheids.

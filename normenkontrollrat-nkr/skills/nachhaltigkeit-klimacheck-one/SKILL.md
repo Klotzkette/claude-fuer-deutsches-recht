@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-klimacheck-one
-description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeit"
+description: "Fachmodul Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erläutert wo die NKR-Prüfung ansetzt und wo ressortinterne Nachhaltigkeit"
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - **EU Green Deal / Fit-for-55** / EU-Taxonomie-VO
 - **NKRG** § 4 — Methodik
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. Nachhaltigkeitsbezug identifizieren
 
@@ -46,7 +46,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 ### 2. Klimawirkung prüfen
 
 - Werden CO2-Emissionen erhoeht oder reduziert?
-- Quantifizierung in t CO2-Aequivalente?
+- Quantifizierung in t CO2-Äquivalente?
 - Bezug auf Sektorziele des Klimaschutzgesetzes?
 
 ### 3. Methodische Konsistenz
@@ -89,8 +89,8 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 - "Das Vorhaben beruehrt die Indikatoren [Nr.] der Deutschen Nachhaltigkeitsstrategie und das SDG [Nr.]. Die Nachhaltigkeitsbewertung im Vorblatt ist nachvollziehbar dargestellt."
 - "Der NKR weist darauf hin, dass die ressortseitige Nachhaltigkeitspruefung nur qualitative Aussagen enthaelt. Eine Quantifizierung der CO2-Wirkung im Sinne des Bundes-Klimaschutzgesetzes waere wuenschenswert."
 - "Das Vorhaben enthaelt einen potentiellen Zielkonflikt zwischen [SDG-Bereich 1] und [SDG-Bereich 2]. Der NKR empfiehlt, die Abwaegung in der Begruendung transparent zu machen."
-- "Die Klimawirkung des Vorhabens wurde im Klimacheck mit [+/- X] t CO2-Aequivalente pro Jahr ausgewiesen. Der NKR haelt die Methodik für nachvollziehbar."
-- "Aus Sicht des NKR ist die methodische Prüfung der Nachhaltigkeitsfolgen nicht Pruefgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
+- "Die Klimawirkung des Vorhabens wurde im Klimacheck mit [+/- X] t CO2-Äquivalente pro Jahr ausgewiesen. Der NKR haelt die Methodik für nachvollziehbar."
+- "Aus Sicht des NKR ist die methodische Prüfung der Nachhaltigkeitsfolgen nicht Prüfgegenstand im engeren Sinne nach § 4 NKRG; soweit sie jedoch für die Konsistenz der Folgenabschaetzung relevant ist, wird sie kommentiert."
 
 ## Typische Fehler in Ressort-Entwuerfen
 

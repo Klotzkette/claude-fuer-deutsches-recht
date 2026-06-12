@@ -66,7 +66,7 @@ Die Anforderungen an AVV können sich durch Entscheidungen der Datenschutzbehör
 4. Sind Unterauftragsverarbeiter benannt und durch eigenen AVV gebunden?
 5. Sind Auditrechte der Kanzlei nach Art. 28 Abs. 3 lit. h DSGVO vereinbart?
 
-## Output-Template — AVV-Pruefungsprotokoll
+## Output-Template — AVV-Prüfungsprotokoll
 **Adressat:** Kanzlei intern / DSB — Tonfall: checklisten-strukturiert
 ```
 AVV-PRUEFUNGSPROTOKOLL

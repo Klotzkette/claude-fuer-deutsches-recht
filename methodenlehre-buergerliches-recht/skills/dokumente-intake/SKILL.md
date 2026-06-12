@@ -25,7 +25,7 @@ Dieser Dokumenten-Intake für **Methodenlehre Buergerliches Recht** ordnet Anlag
 
 ## Fachlandkarte dieses Plugins
 
-- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Übergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
 - `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl

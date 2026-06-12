@@ -15,7 +15,7 @@ description: "Richtigstellung im Online- und Printmedium: Berichtigungsanspruch,
 
 ## Worum geht es konkret
 
-Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tippfehler im Az., falsche Zuordnung, irrige Wertangabe, missverstaendliche Formulierung. Im Verhaeltnis zum Betroffenen gibt es drei Stufen: (1) freiwillige redaktionelle Korrektur (Erratum), (2) Berichtigungsanspruch nach allgemeinem Zivilrecht, (3) Gegendarstellung nach Landesmedienrecht / MStV § 20. Der Skill fuehrt durch die Wahl der richtigen Form und liefert Mustertexte.
+Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tippfehler im Az., falsche Zuordnung, irrige Wertangabe, missverstaendliche Formulierung. Im Verhältnis zum Betroffenen gibt es drei Stufen: (1) freiwillige redaktionelle Korrektur (Erratum), (2) Berichtigungsanspruch nach allgemeinem Zivilrecht, (3) Gegendarstellung nach Landesmedienrecht / MStV § 20. Der Skill fuehrt durch die Wahl der richtigen Form und liefert Mustertexte.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -33,7 +33,7 @@ Nach Erscheinen eines Beitrags wird eine inhaltliche Korrektur erforderlich: Tip
 - LandesPresseG der Länder - Gegendarstellungspflicht im Printbereich (z. B. § 11 LPresseG NRW).
 - BGB §§ 823, 1004 (analog) - Berichtigungsanspruch über das allgemeine Persoenlichkeitsrecht; BGB § 824 Kreditgefaehrdung.
 - BVerfG-Rechtsprechung zur Pflicht zur Berichtigung unwahrer Tatsachenbehauptungen (vgl. zur amtlichen Prüfung unter bundesverfassungsgericht.de).
-- UWG §§ 5, 5a, 8 - Berichtigung bei irrefuehrenden geschaeftlichen Aussagen.
+- UWG §§ 5, 5a, 8 - Berichtigung bei irrefuehrenden geschäftlichen Aussagen.
 - Pressekodex (Ziffern 3 und 13) - Richtigstellung als Grundsatz journalistischer Sorgfalt.
 
 ## Praxisleitfaden / Schritt für Schritt

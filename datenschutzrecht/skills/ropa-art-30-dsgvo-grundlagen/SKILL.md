@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-dsgvo-grundlagen
-description: "Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhaeltnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA)."
+description: "Grundlagen des Verzeichnisses von Verarbeitungstaetigkeiten nach Art. 30 DSGVO. Anwendungsbereich, Schwellenwert, Mindestinhalte Controller und Processor, Verhältnis zu § 70 BDSG, Vorlagepflicht gegenueber der Aufsichtsbehoerde. Einstiegs-Skill für das Records of Processing Activities (RoPA)."
 ---
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen
@@ -62,13 +62,13 @@ Für Bundesbehoerden im Anwendungsbereich der JI-Richtlinie (Polizei und Justiz)
 
 1. **Rollenklaerung:** Ist die Stelle Verantwortlicher, gemeinsam Verantwortlicher (Art. 26 DSGVO), Auftragsverarbeiter (Art. 28 DSGVO) oder mehreres zugleich?
 2. **Pflichtenpruefung:** Greift Art. 30 Abs. 5 DSGVO oder ist Verzeichnis ohnehin Pflicht?
-3. **Inventar:** Welche Verarbeitungstaetigkeiten gibt es? Faustregel: pro Geschaeftsprozess eine Zeile.
+3. **Inventar:** Welche Verarbeitungstaetigkeiten gibt es? Faustregel: pro Geschäftsprozess eine Zeile.
 4. **Mindestinhalte erfassen:** je nach Rolle 7 (Controller) oder 4 (Processor) Felder.
 5. **Drittlandtransfer:** separate Spalte; Verweis auf SCC, BCR, DPF, Angemessenheitsbeschluss.
 6. **Loeschfristen:** konkrete Fristen, nicht "nach gesetzlichen Vorgaben".
 7. **TOM-Referenz:** Verweis auf TOM-Konzept; nicht jede Maßnahme im RoPA wiederholen.
 8. **Versionierung:** Datierte Snapshots für Audit-Trail.
-9. **Review-Zyklus:** jaehrlich oder bei wesentlicher Aenderung.
+9. **Review-Zyklus:** jaehrlich oder bei wesentlicher Änderung.
 
 ## Mustertext / Template
 
@@ -95,7 +95,7 @@ Konkrete Vorlagen liefern die Skills:
 - TOM-Spalte mit "Verschluesselung" abgespeist – zu pauschal, Aufsichtsbehoerde fordert Konkretion.
 - Drittlandtransfer nicht erfasst, obwohl SaaS in den USA gehostet wird.
 - Empfaengerkategorien fehlen oder werden mit Einzelempfaengern verwechselt.
-- Kein Versionsstand; bei Audit unklar, welcher Stand zum Pruefzeitpunkt galt.
+- Kein Versionsstand; bei Audit unklar, welcher Stand zum Prüfzeitpunkt galt.
 - Loeschfristen pauschal "10 Jahre"; ohne Differenzierung nach Datenkategorie.
 - Doppelte Pflege RoPA / DSFA / TOM-Konzept ohne Querverweise.
 

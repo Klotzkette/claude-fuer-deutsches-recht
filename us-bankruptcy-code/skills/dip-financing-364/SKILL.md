@@ -1,6 +1,6 @@
 ---
 name: dip-financing-364
-description: "Prueft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code."
+description: "Prüft debtor-in-possession financing, priming liens, roll-up, milestones, fees and lender control issues im US Bankruptcy Code."
 ---
 
 # DIP Financing § 364

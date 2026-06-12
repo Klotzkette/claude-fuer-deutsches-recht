@@ -23,15 +23,15 @@ description: "Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsan
 
 ## Worum geht es
 
-Die Insolvenzmasse ist begrenzt. Wenn aus dem Restsanierungsertrag eine Steuer entsteht — etwa weil Paragraph 3a EStG-Voraussetzungen nicht zweifelsfrei erfuellt sind — dann ist diese Steuer regelmaessig eine **Masseverbindlichkeit** (Paragraph 55 InsO). Masseverbindlichkeiten gehen den Insolvenzforderungen vor (Paragraph 53 InsO). Damit kann es sein, dass die Plan-Quote zu Lasten der Quote-Glaeubiger geht — oder dass der Plan praktisch scheitert, weil die Masse die Steuer nicht traegt.
+Die Insolvenzmasse ist begrenzt. Wenn aus dem Restsanierungsertrag eine Steuer entsteht — etwa weil Paragraph 3a EStG-Voraussetzungen nicht zweifelsfrei erfuellt sind — dann ist diese Steuer regelmaessig eine **Masseverbindlichkeit** (Paragraph 55 InsO). Masseverbindlichkeiten gehen den Insolvenzforderungen vor (Paragraph 53 InsO). Damit kann es sein, dass die Plan-Quote zu Lasten der Quote-Gläubiger geht — oder dass der Plan praktisch scheitert, weil die Masse die Steuer nicht traegt.
 
-Dieser Skill modelliert den Konflikt. Adressat: IV/Sachwalter, Plan-Anwalt, Glaeubigerausschuss.
+Dieser Skill modelliert den Konflikt. Adressat: IV/Sachwalter, Plan-Anwalt, Gläubigerausschuss.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Modellrechnung Paragraph 3a Absatz 3 EStG zeigt einen Restsanierungsertrag mit moeglicher Steuer.
-- Plan steht vor Vorlage; Plan-Quote zu Lasten der Glaeubiger soll abgesichert werden.
-- Glaeubigerausschuss fragt: können wir uns auf die Sanierungsquote verlassen, wenn die Steuer im Hintergrund wartet?
+- Plan steht vor Vorlage; Plan-Quote zu Lasten der Gläubiger soll abgesichert werden.
+- Gläubigerausschuss fragt: können wir uns auf die Sanierungsquote verlassen, wenn die Steuer im Hintergrund wartet?
 
 Kaltstart-Fragen:
 
@@ -57,7 +57,7 @@ Kaltstart-Fragen:
 3. **Steuer als Masseverbindlichkeit verbuchen** (Paragraph 55 InsO).
 4. **Plan-Quote prüfen.** Reicht die Masse nach Abzug der Steuer für die zugesagte Quote?
 5. **Plan-Klausel zur Vermeidung der Massenpriorisierung prüfen.** Hilfsweise Stundung Paragraph 222 AO oder Erlass Paragraph 227 AO als Bedingung im Plan.
-6. **Glaeubigerausschuss informieren** — der Ausschuss muss das Steuerrisiko kennen.
+6. **Gläubigerausschuss informieren** — der Ausschuss muss das Steuerrisiko kennen.
 7. **Bei Masseunzulaenglichkeit (Paragraph 208 InsO) Anzeige beim Gericht.**
 
 ## Trade-off-Matrix
@@ -78,7 +78,7 @@ Kaltstart-Fragen:
 2. **Plan-Quote mit Reservepolster.** Die Plan-Quote nicht so eng kalibrieren, dass eine Reststeuer den Plan kippt.
 3. **Vorabauskunft Paragraph 89 AO** ist hier besonders wertvoll, weil sie das Restrisiko quantifiziert.
 4. **Stundungsantrag als Plan-Anlage.** Wer den Stundungsantrag schon mit dem Plan einreicht, signalisiert vorausschauende Planung.
-5. **Glaeubigerausschuss-Beschluss** zur Risikoeinschaetzung explizit einholen.
+5. **Gläubigerausschuss-Beschluss** zur Risikoeinschaetzung explizit einholen.
 6. **Bei Eigenverwaltung** gilt die Massenpriorisierung sinngemäß: GF/CRO tragen die Verantwortung.
 
 ## Mustertexte / Berechnungsbeispiele
@@ -109,7 +109,7 @@ Masse bleibt für Plan-Quote frei.
 => Plan-Quote einhaltbar, aber Tilgungsplan ist Pflicht.
 ```
 
-**Brief an Glaeubigerausschuss (Geruest):**
+**Brief an Gläubigerausschuss (Geruest):**
 
 ```
 [Briefkopf IV]
@@ -149,7 +149,7 @@ Mit freundlichen Gruessen
 
 1. Plan-Quote ohne Reservepolster — Steuer-Restrisiko kippt den Plan.
 2. Vorabauskunft Paragraph 89 AO ignoriert.
-3. Glaeubigerausschuss nicht informiert.
+3. Gläubigerausschuss nicht informiert.
 4. Stundungsantrag erst nach Bescheid, nicht parallel zum Plan.
 5. Bei Eigenverwaltung Verantwortung verschoben — sie bleibt bei GF/CRO.
 6. Masseunzulaenglichkeitsanzeige Paragraph 208 InsO vergessen.

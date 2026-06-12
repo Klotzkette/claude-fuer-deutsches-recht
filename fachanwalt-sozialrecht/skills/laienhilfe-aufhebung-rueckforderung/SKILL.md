@@ -32,7 +32,7 @@ Dieser Skill erklaert **Aufhebung Rueckforderung** so, dass auch Menschen ohne j
 
 ## Norm- und Praxisanker
 
-- Aufhebung Verwaltungsakt mit Dauerwirkung: § 48 SGB X – bei wesentlicher Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse; rueckwirkend nur bei grober Verletzung Mitwirkungspflichten oder Kenntnis/grob fahrlaessiger Unkenntnis.
+- Aufhebung Verwaltungsakt mit Dauerwirkung: § 48 SGB X – bei wesentlicher Änderung der tatsaechlichen oder rechtlichen Verhältnisse; rueckwirkend nur bei grober Verletzung Mitwirkungspflichten oder Kenntnis/grob fahrlaessiger Unkenntnis.
 - Aufhebung rechtswidrig beguenstigender VA: § 45 SGB X – Vertrauensschutz prüfen (§ 45 Abs. 2 SGB X), Rueckwirkung nur bei Boesglaeubigkeit, falschen Angaben, Kenntnis.
 - Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten; ab 4. Jahr Verjährung.
 - Aufrechnung: § 51 SGB I – Aufrechnung mit laufenden Leistungen begrenzt (Existenzminimum, § 51 Abs. 2 SGB I, Pfaendungsfreigrenze).

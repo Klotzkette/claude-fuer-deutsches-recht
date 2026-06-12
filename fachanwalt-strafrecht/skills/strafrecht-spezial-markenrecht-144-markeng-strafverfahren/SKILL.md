@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-144-markeng-strafverfahren
-description: "Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG: Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafan..."
+description: "Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG: Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhältnis zu zivilrechtlicher Verletzungsklage. Strafan..."
 ---
 
 # Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG
@@ -14,7 +14,7 @@ description: "Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG: Antrags
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhaeltnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung.
+**Fokus:** Strafverfahren bei Markenstraftaten Paragraph 144 MarkenG. Antragsdelikt Privatklage besonderes öffentliches Interesse. Zuständigkeit AG LG. Verhältnis zu zivilrechtlicher Verletzungsklage. Strafantragsfrist Paragraph 77b StGB. Prozessuale Gestaltung Strafanzeige Verteidigung Adhaesion. Trade-offs Strafanzeige vs. zivilrechtliche Abmahnung.
 
 ### Strafverfahren bei Markenstraftaten nach Paragraph 144 MarkenG
 
@@ -73,7 +73,7 @@ Aus Sicht der Verteidigung: Wenn der Mandant kooperationsbereit ist, anwaltlich 
 
 - **Paragraph 144 MarkenG ist prozessuale Norm**, keine eigenstaendige Strafnorm. Sie modifiziert die Verfolgbarkeit der Paragraph 143 MarkenG und (eingeschraenkt) Paragraph 143a MarkenG.
 - **Paragraph 143a MarkenG** ist Offizialdelikt; Paragraph 144 MarkenG gilt insoweit nicht. Antragserfordernis entfaellt bei Bandentaten.
-- **Verhaeltnis zum Zivilrecht.** Verfahren parallel; rechtskraeftiges Strafurteil entfaltet im Zivilverfahren Indizwirkung, aber keine Bindungswirkung (anders als bei Schaedigung im Sinne Paragraph 14 BGB nach KapMuG; in normalen Zivilverfahren herrscht freie Beweiswuerdigung nach Paragraph 286 ZPO).
+- **Verhältnis zum Zivilrecht.** Verfahren parallel; rechtskraeftiges Strafurteil entfaltet im Zivilverfahren Indizwirkung, aber keine Bindungswirkung (anders als bei Schaedigung im Sinne Paragraph 14 BGB nach KapMuG; in normalen Zivilverfahren herrscht freie Beweiswuerdigung nach Paragraph 286 ZPO).
 
 ## Strafzumessung
 

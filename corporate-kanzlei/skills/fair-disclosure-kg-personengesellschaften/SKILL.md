@@ -63,7 +63,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -133,7 +133,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 1, 19 GWB** — kartellrechtliche Verbote; Informationsaustausch zwischen Wettbewerbern vor Freigabe
 - **§ 41 GWB** — Vollzugsverbot; keine Integration vor Kartellfreigabe; auch kein Informationsaustausch
 - **§ 43a BRAO** — Kanzlei-Verschwiegenheit; Firewall zwischen mandatswidersprechenden Teams
-- **§ 17 UWG** — Geschaeftsgeheimnis; Transaktionsinformationen sind schuetzwuerdig
+- **§ 17 UWG** — Geschäftsgeheimnis; Transaktionsinformationen sind schuetzwuerdig
 
 ## Aktuelle Rechtsprechung
 

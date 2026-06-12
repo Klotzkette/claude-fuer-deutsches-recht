@@ -1,6 +1,6 @@
 ---
 name: kirchenrecht-und-staatskirchenrecht
-description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhältnis Staat-Kirche heute im Deutsche Rechtsgeschichte."
 ---
 
 # Kirchenrecht und Staatskirchenrecht
@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Re
 
 ## Worum es geht
 
-Das Verhaeltnis von Staat und Kirche in Deutschland ist historisch gewachsen und hat keinen scharfen Trennungsschnitt vollzogen. Der Kulturkampf unter Bismarck (1871-1878/80) versuchte, kirchlichen Einfluss staatlich zurueckzudraengen (Jesuiten-Verbot, Kanzelparagraph). Die WRV 1919 schuf ein kooperatives Trennsystem: Keine Staatskirche (Art. 137 Abs. 1), aber Kirchensteuerrecht (Art. 137 Abs. 6) und Anstaltsseelsorge (Art. 141). Das GG 1949 inkorporierte die WRV-Kirchenartikel (Art. 140 GG). Die Kirchensteuer, der Religionsunterricht (Art. 7 GG) und das kirchliche Arbeitsrecht (Dritter Weg) sind die heutigen Kernthemen.
+Das Verhältnis von Staat und Kirche in Deutschland ist historisch gewachsen und hat keinen scharfen Trennungsschnitt vollzogen. Der Kulturkampf unter Bismarck (1871-1878/80) versuchte, kirchlichen Einfluss staatlich zurueckzudraengen (Jesuiten-Verbot, Kanzelparagraph). Die WRV 1919 schuf ein kooperatives Trennsystem: Keine Staatskirche (Art. 137 Abs. 1), aber Kirchensteuerrecht (Art. 137 Abs. 6) und Anstaltsseelsorge (Art. 141). Das GG 1949 inkorporierte die WRV-Kirchenartikel (Art. 140 GG). Die Kirchensteuer, der Religionsunterricht (Art. 7 GG) und das kirchliche Arbeitsrecht (Dritter Weg) sind die heutigen Kernthemen.
 
 ## Kernnormen / Kernquellen
 

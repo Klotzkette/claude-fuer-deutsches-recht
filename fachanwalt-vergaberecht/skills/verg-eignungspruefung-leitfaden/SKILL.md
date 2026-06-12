@@ -1,6 +1,6 @@
 ---
 name: verg-eignungspruefung-leitfaden
-description: "Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit: Pruefraster für Bie..."
+description: "Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit: Prüfraster für Bie..."
 ---
 
 # Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit
@@ -14,7 +14,7 @@ description: "Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Pruefraster für Bieter und Vergabestelle.
+**Fokus:** Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Prüfraster für Bieter und Vergabestelle.
 
 ### Verg: Eignungspruefung
 
@@ -27,15 +27,15 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Eignungspruefung
+## Prüfraster Eignungspruefung
 
 1. **Eignungsanforderungen festlegen** § 122 II GWB, §§ 42-46 VgV (oberschwellig) bzw. UVgO (unterschwellig).
  - Befaehigung und Erlaubnis zur Berufsausuebung (§ 44 VgV).
  - Wirtschaftliche und finanzielle Leistungsfaehigkeit (§ 45 VgV: z. B. Bilanzen, Umsatz, Berufshaftpflichtdeckung).
  - Technische und berufliche Leistungsfaehigkeit (§ 46 VgV: Referenzen, Qualifikation, Ausruestung).
- - Eignungsanforderungen müssen mit dem Auftragsgegenstand in Verbindung und in angemessenem Verhaeltnis stehen (§ 122 IV GWB).
+ - Eignungsanforderungen müssen mit dem Auftragsgegenstand in Verbindung und in angemessenem Verhältnis stehen (§ 122 IV GWB).
 2. **Eignungsnachweise** — Vorzugsweise Eigenerklaerung (Einheitliche Europaeische Eigenerklaerung EEE, § 50 VgV); Belege erst von engerer Auswahl bzw. Zuschlagskandidat.
-3. **Pruefungszeitpunkt** — bei offenem Verfahren mit Angeboten; bei nicht offenem Verfahren mit Teilnahmeantraegen.
+3. **Prüfungszeitpunkt** — bei offenem Verfahren mit Angeboten; bei nicht offenem Verfahren mit Teilnahmeantraegen.
 4. **Eignungsleihe** § 47 VgV: Bieter darf sich auf Kapazitaeten Dritter stuetzen; Drittunternehmen muss die Leistung auch tatsaechlich erbringen (bei wirtschaftlich-finanziellen Kapazitaeten gesamtschuldnerische Haftung).
 5. **Bietergemeinschaften** § 43 VgV.
 
@@ -62,10 +62,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

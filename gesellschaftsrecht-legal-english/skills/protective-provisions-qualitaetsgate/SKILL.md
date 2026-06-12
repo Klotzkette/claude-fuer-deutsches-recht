@@ -1,6 +1,6 @@
 ---
 name: protective-provisions-qualitaetsgate
-description: "Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten im Gesellschaftsrecht Legal English."
+description: "Prüft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten im Gesellschaftsrecht Legal English."
 ---
 
 # Protective Provisions und Vetorechte

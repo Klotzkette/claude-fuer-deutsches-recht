@@ -18,7 +18,7 @@ description: "Unerlaubtes Entfernen vom Unfallort nach Paragraph 142 StGB: Warte
 
 ## Worum geht es
 
-Paragraph 142 StGB sanktioniert das **unerlaubte Entfernen vom Unfallort** (haeufig umgangssprachlich "Fahrerflucht" — der Tatbestand selbst heisst aber "unerlaubtes Entfernen vom Unfallort"). Geschuetztes Rechtsgut: privates Feststellungsinteresse der Beteiligten und Geschaedigten an der Klärung von Personalien, Schadenshergang und Versicherungsverhaeltnis. Es ist also kein Strassenverkehrsschutzdelikt, sondern ein Vermoegens- und Beweissicherungsdelikt.
+Paragraph 142 StGB sanktioniert das **unerlaubte Entfernen vom Unfallort** (haeufig umgangssprachlich "Fahrerflucht" — der Tatbestand selbst heisst aber "unerlaubtes Entfernen vom Unfallort"). Geschuetztes Rechtsgut: privates Feststellungsinteresse der Beteiligten und Geschaedigten an der Klärung von Personalien, Schadenshergang und Versicherungsverhaeltnis. Es ist also kein Strassenverkehrsschutzdelikt, sondern ein Vermögens- und Beweissicherungsdelikt.
 
 Anwendungsfaelle: Parkrempler auf Parkplatz; Streifkollision mit Auto; Anfahren eines abgestellten Fahrzeugs; Sturz eines Fussgaengers nach Streifkontakt — Fahrer faehrt weiter, ohne Personalien anzugeben oder Wartepflicht zu erfuellen.
 
@@ -55,7 +55,7 @@ Vorsatz bezüglich aller objektiven Merkmale: Unfall, Schaden, Wartepflicht. Ver
 ## Praktikertipps Verteidigung
 
 - **Unfall nicht bemerkt — primaere Verteidigungslinie.** Insbesondere bei Lkw, lauten Fahrzeugen oder geringen Kraftuebertragungen. Sachverstaendigengutachten kann belegen, dass Kollision unter Hoerschwelle blieb.
-- **Schadenshoehe prüfen.** Liegt der Schaden unter der Bagatellschwelle, ist schon der Unfallbegriff nicht erfuellt. Kostenvoranschlag der Werkstatt — kritisch ueberpruefen, ob Werte aufgepumpt sind.
+- **Schadenshoehe prüfen.** Liegt der Schaden unter der Bagatellschwelle, ist schon der Unfallbegriff nicht erfuellt. Kostenvoranschlag der Werkstatt — kritisch überprüfen, ob Werte aufgepumpt sind.
 - **Wartepflicht erfuellt — Bestreiten als Pfad B.** Mandant hat gewartet, Zeugen waren keine da — Anwesenheit am Unfallort dokumentiert (Standort-Daten, Kassenbon Tankstelle).
 - **Nachholobliegenheit Absatz 3 nach 24 Stunden.** Nachweis Anruf bei Polizei oder Schadensmitteilung an Halter. Wenn unverzueglich gehandelt: Absatz 4 taetige Reue.
 - **Im OLG-Bezirk Bagatellgrenze klären.** OLG Hamm, OLG Stuttgart, OLG Bremen vertreten teils unterschiedliche Wertgrenzen.

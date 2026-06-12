@@ -34,7 +34,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Zentrale Normen
 
-- **§ 6 GmbHG** — Organstellung des Geschaeftsfuehrers
+- **§ 6 GmbHG** — Organstellung des Geschäftsführers
 - **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF
 - **§ 38 GmbHG** — Jederzeits-Abberufung des GF (mit Folgen für das Anstellungsverhaeltnis)
 - **§ 43 GmbHG** — Haftung des GF bei Pflichtverstoessen (Fahrlassigkeit, Vorsatz)
@@ -49,7 +49,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Prüfschema: Anstellungsvertrag-Check
 
-| Schritt | Pruefpunkt | Norm | Ergebnis |
+| Schritt | Prüfpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | 2 | SV-Status bestimmt? | § 7a SGB IV | Statusfeststellungsverfahren empfohlen |
@@ -72,7 +72,7 @@ Klaere vor Entwurf des Anstellungsvertrags:
 
 ## Output-Template: Anstellungsvertrag (Kernauszug)
 
-**Adressat:** GmbH und Geschaeftsfuehrer — Tonfall rechtspraezise
+**Adressat:** GmbH und Geschäftsführer — Tonfall rechtspraezise
 
 ```
 GESCHAEFTSFUEHRER-ANSTELLUNGSVERTRAG
@@ -143,7 +143,7 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Verweise Satzung zu GF-Vertrag
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren

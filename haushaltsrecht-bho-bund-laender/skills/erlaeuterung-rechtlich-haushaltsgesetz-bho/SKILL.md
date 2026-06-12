@@ -3,7 +3,7 @@ name: erlaeuterung-rechtlich-haushaltsgesetz-bho
 description: "Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbe..."
 ---
 
-# Erlaeuterung Rechtlich Bewerten
+# Erläuterung Rechtlich Bewerten
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewert
 
 ## Normenanker
 
-Arbeitsfokus: **Erlaeuterung Rechtlich Bewerten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Erläuterung Rechtlich Bewerten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 109 Abs. 3 GG` — Haushaltsdisziplin.
 - `Art. 110 Abs. 1 GG` — Haushaltsplan.

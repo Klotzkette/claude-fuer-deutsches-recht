@@ -130,24 +130,24 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschaeftsfuehrer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
+Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) verpflichtet Geschäftsführer und Vorstande, ein Fruehwarnsystem mit 24-Monats-Horizont zu unterhalten (§ 1 StaRUG). Daneben trifft Rechtsberater (Steuerberater, Wirtschaftspruefer, Rechtsanwaelte) bei Anzeichen einer Unternehmenskrise eine eigenstaendige Hinweis- und Warnpflicht nach § 102 StaRUG.
 
 Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem und der Krisenstadien-Diagnose über Insolvenzantragspflicht und Fortbestehensprognose bis hin zur Restrukturierungsplan-Architektur, dem Cross-Class-Cram-Down und der Stabilisierungsanordnung. Zielgruppe sind Restrukturierungsberater, Steuerberater, Wirtschaftspruefer und Unternehmensjuristen.
 
 ## Wann brauchen Sie diese Skill?
 
 - Ein Mandant zeigt erste Krisenzeichen (sinkende Liquiditaetsreichweite, Covenant-Verletzung, Umsatzeinbruch) und Sie wollen das Krisenstadium nach IDW S 6 einordnen.
-- Ein Geschaeftsfuehrer fragt, ob und bis wann er Insolvenz anmelden muss (§ 15a InsO, Drei-Wochen-Frist).
+- Ein Geschäftsführer fragt, ob und bis wann er Insolvenz anmelden muss (§ 15a InsO, Drei-Wochen-Frist).
 - Als Steuerberater oder Anwalt wollen Sie Ihre Warnpflicht nach § 102 StaRUG dokumentieren, um eigene Haftungsrisiken zu begrenzen.
-- Ein Restrukturierungsplan soll nach §§ 7 ff. StaRUG aufgestellt werden und das Gericht soll den Plan gegen ablehnende Glaeubiger bestaetigen.
+- Ein Restrukturierungsplan soll nach §§ 7 ff. StaRUG aufgestellt werden und das Gericht soll den Plan gegen ablehnende Gläubiger bestaetigen.
 - Ein Schuldner benoetigt eine Stabilisierungsanordnung nach §§ 49 ff. StaRUG, um Vollstreckungsversuche zu stoppen.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Drohende Zahlungsunfaehigkeit** — Zugangsberechtigung zum StaRUG: Wahrscheinlichkeit, dass das Unternehmen kuenftig nicht mehr zahlen kann (§ 18 InsO), abzugrenzen von der aktuellen ZU nach § 17 InsO.
 - **Fortbestehensprognose** — zweistufige Prüfung nach IDW S 11 (Fortfuehrungswille + Fortfuehrungsfaehigkeit), die bei Ueberschuldung (§ 19 InsO) die Insolvenzantragspflicht ausloesen oder verhindern kann.
-- **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
-- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentümer-Interesse zum Glaeubiger-Interesse bei drohender Insolvenz.
+- **Cram-Down** — gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG (Cross-Class-Cram-Down).
+- **Shift of Fiduciary Duties** — Verschiebung der Treuepflichten vom Eigentümer-Interesse zum Gläubiger-Interesse bei drohender Insolvenz.
 - **Restrukturierungsbeauftragter** — vom Gericht bestellter Sachwalter nach § 73 StaRUG; Pflicht-Bestellung bei bestimmten Plantypen.
 - **DSCR** — Debt Service Coverage Ratio; einer der zentralen Krisenfruehindikator-KPIs.
 - **IDW S 6** — Standard des Instituts der Wirtschaftspruefer für Sanierungskonzepte.
@@ -162,12 +162,12 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - §§ 49-59 StaRUG — Stabilisierungsanordnung
 - § 73 StaRUG — Restrukturierungsbeauftragter
 - § 102 StaRUG — Warnpflicht bei Rechtsberatern
-- § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschaeftsfuehrers
+- § 43 GmbHG — Sorgfaltspflicht und Haftung des GmbH-Geschäftsführers
 - § 93 AktG — Vorstandshaftung
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Geschaeftsfuehrer/Vorstand, Rechtsberater, Glaeubiger oder Restrukturierungsberater?
+1. Mandantenkonstellation klären: Geschäftsführer/Vorstand, Rechtsberater, Gläubiger oder Restrukturierungsberater?
 2. Phase des Mandats bestimmen: Fruehwarnung (Krisenstadium Eins bis Drei), drohende ZU/StaRUG-Zugangsberechtigung, Restrukturierungsplan oder Insolvenznaehe (§ 15a InsO)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
 4. Eilfristen prüfen: § 15a InsO — maximale Antragsfrist drei Wochen bei ZU oder Ueberschuldung; kein Aufschub möglich.
@@ -178,7 +178,7 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - `paragraph-1-starug-pflichten-und-24-monats-horizont` — Erklaert § 1 StaRUG: Adressatenkreis, Planungshorizont und Haftungsfolgen bei Pflichtverletzung.
 - `fruehwarnsystem-architektur-zwei-jahres-horizont` — StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont, KPI-Kaskade und Eskalationsstufen aufbauen.
 - `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Dashboard-Template mit numerischen Schwellenwerten und gruen/gelb/rot-Ampel.
-- `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Massnahmenkorridore bestimmen.
+- `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — IDW-S-6-Krisenstadien diagnostizieren und Maßnahmenkorridore bestimmen.
 - `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — StaRUG-Zugangsberechtigung nach § 18 InsO prüfen und dokumentieren.
 - `fortbestehensprognose-zweistufig` — Zweistufige Fortbestehensprognose nach IDW S 11 (Fortfuehrungswille + Faehigkeit) erstellen.
 - `integrierte-planung-guv-bilanz-cashflow` — Konsistentes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen.
@@ -186,11 +186,11 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO, Maximalfrist drei Wochen, Handlungsoptionen.
 - `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsrisiken des GF bei Krisenversagen und Enthaftungsstrategien.
 - `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Krisenprotokoll-Templates und Sitzungsvorlagen für Haftungsschutz.
-- `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Glaeubigerinteressen Vorrang haben.
+- `pflichtenkollision-und-shift-of-fiduciary-duties` — Shift of Fiduciary Duties: wann Gläubigerinteressen Vorrang haben.
 - `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Eigene Haftungsrisiken des Beraters bei Krisenmandat und Warnpflicht-Ausloeser.
 - `mandantenbrief-warnung-paragraph-102-starug-template` — Warnbrief-Templates für alle drei Eskalationsstufen nach § 102 StaRUG.
 - `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG-Restrukturierungsplan aufbauen: Planbestandteile, Gruppenbildung, Mehrheiten.
-- `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Glaeubiger-Gruppen nach § 26 StaRUG.
+- `cross-class-cram-down-und-absolute-priority` — Gerichtliche Planbestaetigung gegen ablehnende Gläubiger-Gruppen nach § 26 StaRUG.
 - `stabilisierungsanordnung-und-vollstreckungssperre` — Vollstreckungsschutz nach §§ 49-59 StaRUG beantragen.
 - `restrukturierungsbeauftragter-und-sachwalter` — Bestellung, Aufgaben und Honorar des Restrukturierungsbeauftragten nach § 73 StaRUG.
 - `restructuring-lounge-impulsvortrag-toolkit` — Toolkit für Impulsvortraege zu Krisenfrueherkennung und StaRUG.
@@ -201,11 +201,11 @@ Das Plugin deckt den gesamten Krisenmanagement-Zyklus ab: vom Fruehwarnsystem un
 - **StaRUG setzt drohende ZU voraus**: Der Zugang zum StaRUG-Verfahren benoetigt § 18 InsO als Tatbestand; bei bereits eingetretener ZU ist § 17 InsO gegeben und nur InsO anwendbar.
 - **Beraterneutralitaet vs. Berater-Warnpflicht**: § 102 StaRUG verpflichtet den Berater zur eigenen Warnung; Schweigen aus Mandantenruecksicht ist eine Pflichtverletzung.
 - **Business Judgment Rule in der Krise eingeschraenkt**: Die BJR (§ 93 AktG) schuetzt den Vorstand nur bei informierter Entscheidung auf Basis vollstaendiger Dokumentation.
-- **Absolute-Priority-Rule beim Cram-Down**: Das Gericht bestaetigt den Plan nur, wenn kein Glaeubiger schlechter gestellt ist als bei der besten Alternativentscheidung (§ 30 StaRUG).
+- **Absolute-Priority-Rule beim Cram-Down**: Das Gericht bestaetigt den Plan nur, wenn kein Gläubiger schlechter gestellt ist als bei der besten Alternativentscheidung (§ 30 StaRUG).
 
 ## Typische Fehler
 
-- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Massnahmenkonzept; Gerichte und Glaeubigerausschuesse erwarten die Stadien-Einordnung.
+- Krisenstadien werden uebersprungen: Ohne Diagnose nach IDW S 6 fehlt die Grundlage für das Maßnahmenkonzept; Gerichte und Gläubigerausschuesse erwarten die Stadien-Einordnung.
 - Fruehwarnsystem nur auf dem Papier: § 1 StaRUG verlangt ein funktionierendes System, nicht nur ein Dokument; fehlende Protokolle belegen die Pflichtverletzung.
 - Warnbrief ohne Quittung: Ohne Empfangsbestaetigung lässt sich die Pflichterfuellung nach § 102 StaRUG im Haftungsprozess nicht beweisen.
 - Liquiditaetsplanung zu grob: Monatliche Granularitaet genuegt für die naechsten drei Monate nicht; woechentliche Granularitaet ist Mindeststandard in der akuten Krise.

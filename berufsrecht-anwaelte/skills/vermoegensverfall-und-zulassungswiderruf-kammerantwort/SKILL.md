@@ -1,9 +1,9 @@
 ---
 name: vermoegensverfall-und-zulassungswiderruf-kammerantwort
-description: "Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
+description: "Anwälte: vermögensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte."
 ---
 
-# Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+# Anwälte: vermögensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+## Konkreter Berufsrechtskern: Anwälte: vermögensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 - **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA-Pflichten, anwaltliche Verschwiegenheit und anwaltsgerichtliches Verfahren.
 - **Institutionen:** Rechtsanwaltskammer, Anwaltsgericht, AGH/BGH-Anwaltssenat und gegebenenfalls Aufsichts-/Strafbehörden.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.

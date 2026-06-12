@@ -1,6 +1,6 @@
 ---
 name: agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung
-description: "Pflichtteilsergaenzung bei landwirtschaftlichem Erbe und Bewertung Hof versus Pflichtteil mit Paragraf 2316 BGB Paragrafen 12 13 HoeO. Pruefraster gleichberechtigtes Geschwister Wertbemessung Wirtschaftsverhaeltnis."
+description: "Pflichtteilsergaenzung bei landwirtschaftlichem Erbe und Bewertung Hof versus Pflichtteil mit Paragraf 2316 BGB Paragrafen 12 13 HoeO. Prüfraster gleichberechtigtes Geschwister Wertbemessung Wirtschaftsverhaeltnis."
 ---
 
 # Agrarerbe Pflichtteil Paragraf 2316 BGB Hoefeordnung

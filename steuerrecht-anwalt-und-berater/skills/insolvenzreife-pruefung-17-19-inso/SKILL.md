@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife-pruefung-17-19-inso
-description: "Prüfungslinie für anw insolvenzreife pruefung 17 19 inso im Steuerrecht Anwalt Und Berater."
+description: "Prüfungslinie für anw insolvenzreife prüfung 17 19 inso im Steuerrecht Anwalt Und Berater."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
@@ -120,7 +120,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Insolvenzreife pruefend im steuerrechtlichen Kontext | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
+| Standard — Insolvenzreife prüfend im steuerrechtlichen Kontext | Insolvenzreife-Prüfung nach Schema; Schriftsatz unten |
 | Variante A — Steuerschulden dominieren Insolvenzgrund | Stundungsantrag FA parallel; Insolvenzantrag vermeiden wenn möglich |
 | Variante B — Insolvenzreife durch Betriebspruefungs-Nachforderung | Rechtsmittel gegen Steuerbescheid parallel; Insolvenz aufschieben |
 | Variante C — Steuerpflichtiger will Betrieb aufgeben | Geordnete Abwicklung statt Insolvenz; Steuerpflichten beachten |
@@ -280,7 +280,7 @@ Datum: ___________________________
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

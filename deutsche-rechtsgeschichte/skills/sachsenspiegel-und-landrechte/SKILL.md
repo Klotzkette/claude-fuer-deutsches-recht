@@ -53,7 +53,7 @@ Der Sachsenspiegel ist die bedeutendste Rechtsquelle des deutschen Mittelalters.
 
 1. War der Sachsenspiegel Gewohnheitsrecht-Aufzeichnung oder Normsetzung?
 2. Lateinisches Original oder niederdeutsche Urform: Was war die echte Erstfassung?
-3. Sachenspiegelrecht und roemisches Recht: In welchem Verhaeltnis standen sie?
+3. Sachenspiegelrecht und roemisches Recht: In welchem Verhältnis standen sie?
 4. Geltungsbereich: War der Sachsenspiegel Partikularrecht Sachsens oder ueberre gionales Recht?
 5. Rezeption durch Glossatoren: Hat Johanns von Buch Glosse das Sachsenspiegelrecht verfaelscht?
 

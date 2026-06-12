@@ -50,7 +50,7 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 
 ### Aktive Einkuenfte
 - Loehne (Art. XI): 183-Tage-Regel.
-- Schifffahrt (Art. VI): tatsaechliche Geschaeftsleitung Reederei.
+- Schifffahrt (Art. VI): tatsaechliche Geschäftsleitung Reederei.
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. VII): 5 Prozent bei Schachtelbeteiligung (mind. 25 Prozent), 25 Prozent sonst (BZST 2025, Tabelle DBA-Griechenland). EU-MTRL Schachtel 0 Prozent vorrangig (§ 43b EStG).
@@ -110,17 +110,17 @@ Das DBA-Griechenland vom 18.04.1966 (BGBl. 1967 II S. 853) ist eines der aeltest
 |---|---|---|---|
 | Schachteldividende GR-AE an DE-Mutter über DBA (5 Prozent ab 25 Prozent Beteiligung) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung AADE (langwierig) | 0 Prozent via Freistellung vorab | EU-MTRL vorzugswuerdig |
 | Tonnage Tax für Schifffahrt vs. ordentliche KSt | griechisches Tonnage-System effektiv sehr niedrige Belastung | Standard-KSt | bei Reedereien Tonnage-System Standard; aber DBA-Berechtigung prüfen |
-| Pension DRV an GR-Wohnsitz vs. DE-Wohnsitz | GR-Besteuerung auslaendischer Pensionen variiert; ggf. Verstaendigungsverfahren | DE-Wohnsitz: nur deutsche Besteuerung | Beratung im Einzelfall |
+| Pension DRV an GR-Wohnsitz vs. DE-Wohnsitz | GR-Besteuerung ausländischer Pensionen variiert; ggf. Verstaendigungsverfahren | DE-Wohnsitz: nur deutsche Besteuerung | Beratung im Einzelfall |
 | Hotelimmobilien-Beteiligung GR vs. Direktinvestition DE | Belegenheits-Besteuerung GR (Art. 6 DBA); GR-AE-Holding ggf. mit Steuervorteil | DE: Veranlagung nach deutscher Logik | bei substanziellem Hotel-Engagement GR-Vehikel sinnvoll |
 
 ## Edge Cases — was Prüfer triggert
 
 - **DBA mit roemischen Artikelnummern (Art. II, VII, IX)**: nicht mit OECD-MA-Nummerierung verwechseln. Vor Zitat in Memos Stelle prüfen.
-- **Schifffahrt Art. VI**: tatsaechliche Geschaeftsleitung der Reederei — bei deutschen Investoren in griechische Reederei DBA-Berechtigung der Reederei prüfen.
+- **Schifffahrt Art. VI**: tatsaechliche Geschäftsleitung der Reederei — bei deutschen Investoren in griechische Reederei DBA-Berechtigung der Reederei prüfen.
 - **Pension Klassifikation**: griechische Pensionen aus IKA (gesetzliche Sozialversicherung) gegenueber privaten oder berufsstaendischen Pensionen — unterschiedliche DBA-Klausel.
 - **EU-Mitgliedschaft seit 01.01.1981**: Mutter-Tochter-Richtlinie ab 1990 anwendbar — für Schachteldividenden vorrangig.
 - **MLI ab 01.01.2025**: PPT-Klausel wirkt sich auf bestehende Strukturen aus; Mandanten-Memos aktualisieren.
-- **Renten-Sondersteuer für Auslaender** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze für auslaendische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG prüfen.
+- **Renten-Sondersteuer für Ausländer** (griechisches Pendant zur portugiesischen NHR/spanischen Beckham): historische Sondersteuersaetze für ausländische Pensionisten — aktuellen Stand und Subject-to-Tax-Klausel § 50d Abs. 9 EStG prüfen.
 
 ## Berechnungsbeispiel — Schachteldividende GR-AE an DE-Mutter
 

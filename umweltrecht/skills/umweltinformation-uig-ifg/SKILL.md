@@ -121,7 +121,7 @@ Gemaess § 4 Abs. 1 UIG bitte ich um Bescheidung binnen eines Monats.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -159,7 +159,7 @@ Wir beantragen, den Ablehnungsbescheid aufzuheben und die Informationen herauszu
 - Emissionsdaten, Genehmigungen, UVP-Berichte grundsätzlich öffentlich.
 - Verstoss gegen aktive Veroeffentlichungspflicht: Ruege durch UIG-Antrag + Klage.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|

@@ -14,7 +14,7 @@ description: "Realkennzeichen nach Steller und Koehnken (Criteria-Based Content 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
+**Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Prüfraster für die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
 
 ### Realkennzeichen nach Steller und Koehnken
 
@@ -67,7 +67,7 @@ Deliktsspezifische Inhalte:
 - **Aussage in Tabelle zerlegen.** Saemtliche 19 Kriterien anhand des Hauptverhandlungsprotokolls und der polizeilichen Aussagen abklopfen, Belegstellen markieren. Wenn ein Kriterium fehlt: dokumentieren.
 - **Kompetenzschwelle prüfen.** Aussagepsychologisch geschulte Personen (Therapeutinnen, einschlaegige Kursteilnehmer, in Foren aktive Belastende) können Realkennzeichen kennen und reproduzieren. Diese Kompetenzschwelle bei der Person des Zeugen prüfen.
 - **Fehlende Kriterien stark betonen.** Wenn z. B. Komplikationen im Tatverlauf fehlen, woertliche Rede nicht erinnert wird, Nebensaechlichkeiten ueberhaupt nicht vorkommen — die Aussage hat das Profil einer konstruierten Erzaehlung.
-- **Konstanz nicht mit Realkennzeichen verwechseln.** Konstanz ist ein eigenstaendiges Pruefkriterium (separater Skill). Eine konstant erzaehlte, aber detailarme Aussage ist nicht automatisch erlebnisbasiert.
+- **Konstanz nicht mit Realkennzeichen verwechseln.** Konstanz ist ein eigenstaendiges Prüfkriterium (separater Skill). Eine konstant erzaehlte, aber detailarme Aussage ist nicht automatisch erlebnisbasiert.
 
 ## Trade-off-Matrix
 

@@ -42,7 +42,7 @@ description: "Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende AS
 - **Lieferkette**: Re-Export-Kontrolle, US ITAR/EAR für raumfahrttechnologisches Material, EU Dual-Use-VO 2021/821.
 - **Datenfluss**: Befassung mit US Space Force CSpOC, ESOC Space Debris Office und EU SST Konsortium.
 
-## Pruefraster
+## Prüfraster
 
 1. Voelkerrechtliche Pflicht des Mandanten-Staates verletzt?
 2. Mandant selbst Partei einer ASAT-Mission oder mittelbar betroffen?

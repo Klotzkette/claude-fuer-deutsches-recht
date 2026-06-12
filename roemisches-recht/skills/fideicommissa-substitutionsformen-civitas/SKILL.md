@@ -16,7 +16,7 @@ description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbscha
 ## Fideicommissa
 
 - Treuhaenderische letztwillige Verfuegung.
-- Erbe oder Legatar wird verpflichtet, einen Vermoegensvorteil an einen Dritten weiterzugeben.
+- Erbe oder Legatar wird verpflichtet, einen Vermögensvorteil an einen Dritten weiterzugeben.
 - Ursprung: Schutzinstrument für Personen, die nicht erbfaehig waren (z. B. peregrini, Frauen mit Velleianum-Problem).
 
 ## Senatusconsultum Trebellianum (56 n. Chr.)
@@ -48,7 +48,7 @@ description: "Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbscha
 - § 2096 BGB Ersatzerbe.
 - Trust im Common Law als funktionales Äquivalent.
 
-## Pruefraster
+## Prüfraster
 
 1. Fideicommissum oder Substitution?
 2. Quarta Falcidia einschlaegig?

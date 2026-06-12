@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-hypothek-bestellen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bestellt Schiffshypothek als Sicherheit für Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellung..."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger bestellt Schiffshypothek als Sicherheit für Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellung..."
 ---
 
 # Kreuzfahrtschiff – Schiffshypothek bestellen
@@ -17,7 +17,7 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder großes Fahrgastschiff als Sicherheit für einen Schiffskredit. Ein Reeder sucht Zwischenfinanzierung und bietet sein Kreuzfahrtschiff oder großes Fahrgastschiff als Sicherheit an. Eine Bestandshypothek soll auf eine neue Kredittranche erstreckt werden.
 
 ## Erste Schritte
-1. Eintragungsfaehigkeit des Kreuzfahrtschiff oder großes Fahrgastschiffs prüfen; Eintragung im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) bestaetigen.
+1. Eintragungsfaehigkeit des Kreuzfahrtschiff oder großes Fahrgastschiffs prüfen; Eintragung im Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) bestaetigen.
 2. Sicherungsabrede aufsetzen: gesicherte Forderungen, Kuendigungsrechte, Cross-Default.
 3. Notarielle Hypothekenbestellungsurkunde nach SchRG §§ 8-18 erstellen.
 4. Vertretungsbefugnis des Eigentuemers prüfen; ggf. Handelsregisterauszug.
@@ -28,7 +28,7 @@ Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder großes Fahrgasts
 - HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III; SchRG § 31 Zubehoer-Mithaftung; SchRG § 75 Hoechstbetragshypothek; SchRegO §§ 13-19. ISPS-Code Hafen-Sicherheit; SOLAS Kap. II-2 Brandschutz; MLC Passagierschiffe.
 
 ## Prüfraster
-- Ist das Kreuzfahrtschiff oder großes Fahrgastschiff im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) eingetragen und eintragungsfaehig?
+- Ist das Kreuzfahrtschiff oder großes Fahrgastschiff im Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) eingetragen und eintragungsfaehig?
 - Ist die Sicherungsabrede vollstaendig und rechtswirksam?
 - Ist Zubehoer-Mithaftung (SchRG § 31) vertraglich gesichert?
 - Ist die notarielle Form eingehalten (SchRG § 17)?
@@ -36,7 +36,7 @@ Eine Bank bestellt eine Hypothek auf ein Kreuzfahrtschiff oder großes Fahrgasts
 
 ## Typische Fallstricke
 - Fehlende notarielle Form fuehrt zur Nichtigkeit der Hypothek (SchRG § 17).
-- Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta)-Gericht stellen.
+- Rang entsteht mit Antragstellung; fruehzeitig beim Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta)-Gericht stellen.
 - Briefhypothek verliert Vollstreckungswert bei Verlust des Hypothekenbriefs.
 
 ## Vertiefung: Hypothekenarten im deutschen Schiffsrecht

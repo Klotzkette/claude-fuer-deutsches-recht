@@ -1,6 +1,6 @@
 ---
 name: songtext-lyrics-sprachwerk
-description: "Prueft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen im Urheberrecht De Eu."
+description: "Prüft Lyrics, Refrain, Claim, kurze Zeilen, Titel und Textfragmente als Sprachwerke oder nicht schutzfaehige Redewendungen im Urheberrecht De Eu."
 ---
 
 # Songtext, Lyrics und Sprachwerk

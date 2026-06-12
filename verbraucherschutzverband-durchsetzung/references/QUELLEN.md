@@ -8,7 +8,7 @@
 
 Alle Normen, Gebühren, Schwellen, Fristen und Zuständigkeiten sind vor produktiver Nutzung am aktuellen amtlichen Stand zu prüfen.
 
-## Frei pruefbare Rechtsprechungsanker
+## Frei prüfbare Rechtsprechungsanker
 
 - EuGH, Urteil vom 07.04.2022, C-249/21, Fuhrmann-2: Button-Loesung/Zahlungspflicht bei Online-Bestellungen. https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=de&num=C-249/21
 - BGH, Urteil vom 27.04.2021, XI ZR 26/20: Bank-AGB und Zustimmungsfiktion. https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&az=XI+ZR+26%2F20&nr=118834

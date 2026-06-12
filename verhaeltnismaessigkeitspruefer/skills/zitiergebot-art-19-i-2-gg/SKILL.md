@@ -22,7 +22,7 @@ description: "Zitiergebot Art 19 I 2 GG als formelle Vorgabe fuer Eingriffsgeset
 | Allgemeingesetze | BVerfGE 64, 72 | Berufungserstattung | Nur bei eigentlichem Grundrechtseingriff |
 | Inhalts- und Schrankenbestimmungen Art 14 I 2 GG | BVerfGE 24, 367 | Hamburgisches Deichordnungsgesetz | Klassische Eingriffe brauchen Zitierung |
 
-## Pruefraster
+## Prüfraster
 
 1. Liegt ein Grundrechtseingriff vor (klassisch oder modern)?
 2. Ist das Grundrecht vorbehaltlos? Wenn ja: Zitiergebot nicht anwendbar.
@@ -30,9 +30,9 @@ description: "Zitiergebot Art 19 I 2 GG als formelle Vorgabe fuer Eingriffsgeset
 4. Ist die Norm vorkonstitutionell oder eine Allgemeingesetz-Ausgestaltung?
 5. Wenn Zitiergebot anwendbar und verletzt: das Gesetz ist formell verfassungswidrig.
 
-## Verhaeltnis zu Bestimmtheit und Wesentlichkeit
+## Verhältnis zu Bestimmtheit und Wesentlichkeit
 
-Das Zitiergebot ist eine eigene formelle Vorgabe **neben** Bestimmtheits- und Wesentlichkeitsanforderungen. Es kann selbstaendig zur Verfassungswidrigkeit fuehren, auch wenn das Gesetz materiell verhaeltnismaessig waere.
+Das Zitiergebot ist eine eigene formelle Vorgabe **neben** Bestimmtheits- und Wesentlichkeitsanforderungen. Es kann selbständig zur Verfassungswidrigkeit fuehren, auch wenn das Gesetz materiell verhaeltnismaessig waere.
 
 ## Quellen mit Schlagwort
 

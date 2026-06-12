@@ -1,6 +1,6 @@
 ---
 name: steuerbescheid-analyse
-description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst..."
+description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Änderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst..."
 ---
 
 # Steuerbescheid-Analyse
@@ -53,7 +53,7 @@ description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Eins
 
 ### 3. Vorläufigkeit und Änderbarkeit
 
-- **§ 164 AO** Vorbehalt der Nachprüfung — Bescheid jederzeit aenderbar bis Festsetzungsverjährung.
+- **§ 164 AO** Vorbehalt der Nachprüfung — Bescheid jederzeit änderbar bis Festsetzungsverjährung.
 - **§ 165 AO** Vorläufigkeitsvermerk — Bescheid teilweise vorläufig.
 - **§ 172 ff. AO** Änderungsvorschriften nach Bestandskraft (z. B. § 173 neue Tatsachen § 175 Änderungsbescheid).
 - **§ 129 AO** offenbare Unrichtigkeit (Schreib- Rechenfehler).

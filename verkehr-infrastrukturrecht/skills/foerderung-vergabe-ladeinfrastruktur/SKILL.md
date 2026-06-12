@@ -22,7 +22,7 @@ Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorha
 1. **Förderung oder Vergabe?** — Foerderrecht: Zuwendungsbescheid nach GVFG/LStrG/BVWP; Vergaberecht: Ausschreibung und Zuschlag bei öffentlichen Auftraggebern.
 2. **EU-Schwellenwert ueberschritten?** — Vergabe: EU-weit ab 5.382.000 EUR (Bauleistungen 2024), 221.000 EUR (Liefer-/Dienstleistungen Kommunen), 143.000 EUR (Bundesbehörden) — beeinflusst welches Vergaberecht gilt.
 3. **Ruegefrist nach § 160 GWB beachtet?** — Ruege muss unverzueglich nach Erkennbarkeit des Verstosses bei dem Auftraggeber eingelegt werden; Praeklusion!
-4. **Zweckbindungsfrist?** — GVFG-gefoerderte Anlagen typischerweise 25 Jahre Zweckbindung; vorzeitige Aenderung erfordert Zustimmung.
+4. **Zweckbindungsfrist?** — GVFG-gefoerderte Anlagen typischerweise 25 Jahre Zweckbindung; vorzeitige Änderung erfordert Zustimmung.
 5. **Widerspruch gegen Zuwendungsbescheid?** — Nebenbestimmungen, Auflagen, Abruf-Fristen prüfen.
 
 ## Zentrale Normen

@@ -24,11 +24,11 @@ description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach 
 - **Prüfungsanordnung:** § 196 AO (schriftlich, anfechtbar mit Einspruch).
 - **Außenprüfung:** §§ 193 ff. AO; bei Konzernen § 13 BpO.
 - **Mitwirkungspflichten:** § 200 AO; bei Auslandssachverhalten § 90 Abs. 2 Abs. 3 AO.
-- **Qualifiziertes Mitwirkungsverlangen:** § 200a AO (eingefuegt durch DAC7-UmsG vom 20.12.2022, BGBl. 2022 I S. 2730, Wirkung 01.01.2025; ersetzt das frueher in § 146 Abs. 2c AO geregelte Verzoegerungsgeld im BP-Kontext) — fruehestens 6 Monate nach Bekanntgabe der Pruefungsanordnung; Mitwirkungsverzoegerungsgeld 75 EUR pro Tag für hoechstens 150 Tage (Hoechstbetrag 11.250 EUR); Zuschlag bis 25.000 EUR pro Tag bei wirtschaftlich leistungsstarken / wiederholt unkooperativen Steuerpflichtigen.
+- **Qualifiziertes Mitwirkungsverlangen:** § 200a AO (eingefuegt durch DAC7-UmsG vom 20.12.2022, BGBl. 2022 I S. 2730, Wirkung 01.01.2025; ersetzt das frueher in § 146 Abs. 2c AO geregelte Verzoegerungsgeld im BP-Kontext) — fruehestens 6 Monate nach Bekanntgabe der Prüfungsanordnung; Mitwirkungsverzoegerungsgeld 75 EUR pro Tag für hoechstens 150 Tage (Hoechstbetrag 11.250 EUR); Zuschlag bis 25.000 EUR pro Tag bei wirtschaftlich leistungsstarken / wiederholt unkooperativen Steuerpflichtigen.
 - **Datenzugriff:** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datenträgerüberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschäften. **§ 147b AO** (neu) Datenbereitstellung über digitale Schnittstellen.
 - **Schlussbesprechung:** § 201 AO — Pflicht des Prüfers, soweit Steueränderung in Betracht kommt.
 - **Prüfungsbericht:** § 202 AO; Stellungnahme des Steuerpflichtigen ist anzuhören.
-- **Ablaufhemmung:** § 171 Abs. 4 AO i.d.F. DAC7-UmsG — Begrenzung der Ablaufhemmung auf fuenf Jahre nach Ende des Kalenderjahres der Bekanntgabe der Pruefungsanordnung (gilt für ab 01.01.2025 ergangene Pruefungsanordnungen).
+- **Ablaufhemmung:** § 171 Abs. 4 AO i.d.F. DAC7-UmsG — Begrenzung der Ablaufhemmung auf fuenf Jahre nach Ende des Kalenderjahres der Bekanntgabe der Prüfungsanordnung (gilt für ab 01.01.2025 ergangene Prüfungsanordnungen).
 - **Teilabschlussbescheid:** § 180 Abs. 1a AO — verbindliche Teilabschluesse zu abgrenzbaren und abschliessend gepruefte Besteuerungsgrundlagen.
 - **Trennungsprinzip Steuer- und Strafverfahren:** § 393 Abs. 1 AO — Mitwirkungspflicht ruht, soweit Selbstbelastung droht; § 397 AO Einleitung des Strafverfahrens.
 - **Auskunftsverweigerungsrecht:** § 102 AO (Steuerberater, Rechtsanwalt); § 103 AO (Berufsgeheimnisträger).
@@ -42,7 +42,7 @@ description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach 
 
 ## Maßgebliche Rechtsprechung
 
-- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mails als vorzulegende Handels- und Geschaeftsbriefe in der Aussenpruefung): E-Mails mit steuerlichem Bezug fallen unter § 147 Abs. 1 Nr. 2 und 3 AO und unterliegen dem Datenzugriff. Die Aufforderung zur Erstellung eines "Gesamtjournals", das über das vorhandene E-Mail-Postfach hinaus zusaetzliche Informationen anreichert, ist mangels Rechtsgrundlage unzulaessig. Der Steuerpflichtige hat ein Erstqualifikationsrecht und darf nicht steuerrelevante E-Mails aussortieren. Volltext unter dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) sowie BFH-Datenbank.
+- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mails als vorzulegende Handels- und Geschäftsbriefe in der Aussenpruefung): E-Mails mit steuerlichem Bezug fallen unter § 147 Abs. 1 Nr. 2 und 3 AO und unterliegen dem Datenzugriff. Die Aufforderung zur Erstellung eines "Gesamtjournals", das über das vorhandene E-Mail-Postfach hinaus zusaetzliche Informationen anreichert, ist mangels Rechtsgrundlage unzulaessig. Der Steuerpflichtige hat ein Erstqualifikationsrecht und darf nicht steuerrelevante E-Mails aussortieren. Volltext unter dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) sowie BFH-Datenbank.
 
 ## Prüfschema
 
@@ -90,7 +90,7 @@ description: "Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach 
 ### Phase 3 — Prüfungsdurchführung
 
 - **Mitwirkungspflicht** § 200 AO — Auskunft Vorlage Aufzeichnungen.
-- **Qualifiziertes Mitwirkungsverlangen** § 200a AO (ab 01.01.2025) — fruehestens nach 6 Monaten ab Bekanntgabe der Pruefungsanordnung; bei Nichterfuellung Mitwirkungsverzoegerungsgeld 75 EUR/Tag (max. 150 Tage = 11.250 EUR); Zuschlag bis 25.000 EUR/Tag bei wirtschaftlicher Leistungsfaehigkeit oder Wiederholungsfaellen.
+- **Qualifiziertes Mitwirkungsverlangen** § 200a AO (ab 01.01.2025) — fruehestens nach 6 Monaten ab Bekanntgabe der Prüfungsanordnung; bei Nichterfuellung Mitwirkungsverzoegerungsgeld 75 EUR/Tag (max. 150 Tage = 11.250 EUR); Zuschlag bis 25.000 EUR/Tag bei wirtschaftlicher Leistungsfaehigkeit oder Wiederholungsfaellen.
 - **Datenzugriff** § 147 Abs. 6 AO — Z1 (unmittelbarer Zugriff) Z2 (mittelbarer Zugriff) Z3 (Datenträgerüberlassung). Bei E-Mail-Vorlageverlangen ist BFH XI R 15/23 vom 30.04.2025 zu beachten: en-bloc-Aufforderung zu transaktionsbezogenen E-Mails zulässig, "Gesamtjournal" mit Anreicherung nicht.
 - **DSFinV-K** Digitale Schnittstelle der Finanzverwaltung für Kassensysteme bei Bargeschäften.
 - **Grenze** Mitwirkungspflicht — kein Selbstbelastungszwang bei möglicher Steuerstraftat / Ordnungswidrigkeit (§ 393 AO).
@@ -144,7 +144,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Strategie für Aussenprufung entwickeln und Stellungnahme erstellen | Stellungnahme nach Schema; Template unten |
 | Variante A — Mandant will kooperieren um Prüfung schnell abzuschliessen | Kooperative Strategie; Unterlagen proaktiv vorlegen |
 | Variante B — Prüfung hat strafrechtliche Relevanz | Steuerstrafrecht-Skill einschalten; vorsichtige Kooperation |
-| Variante C — Pruefungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
+| Variante C — Prüfungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -186,7 +186,7 @@ Mit freundlichen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

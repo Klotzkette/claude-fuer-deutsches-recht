@@ -1,9 +1,9 @@
 ---
 name: bescheinigung-vs-pruefungsurteil-kammerantwo
-description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+# Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwo
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bescheinigung vs pruefungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.

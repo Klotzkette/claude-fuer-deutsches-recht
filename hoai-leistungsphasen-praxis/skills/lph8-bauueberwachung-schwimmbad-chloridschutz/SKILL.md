@@ -41,9 +41,9 @@ Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosions
 - DIN 19643 Aufbereitung von Schwimm- und Badebeckenwasser: Filtration, Desinfektion, Grenzwerte
 - DIN EN 13670 Ausfuehrung Tragwerke aus Beton: Sonderbeton XA3, chloridbestaendig
 - DIN EN ISO 12944 Korrosionsschutz: Beschichtungssysteme Kategorie C5 und CX
-- DIN EN 13451 Schwimmbadausruestung: Pruefverfahren, Sicherheitsanforderungen
+- DIN EN 13451 Schwimmbadausruestung: Prüfverfahren, Sicherheitsanforderungen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Betondeckung Becken: min. 4 cm (XA3), Frischbetonchlorid kleiner 0.4 Prozent, Wuerfelproben
 2. Beckenbeschichtung: Untergrundpruefung Haftzug min. 1.5 N/mm, Schichtdicke nach Herstellerplan
@@ -58,7 +58,7 @@ Lueftungsanlage im Hallenbad muss spezifisch auf Chloramin-Abfuhr und Korrosions
 - Drohnenflug Freibad: Uebersichtsaufnahme Becken, Verformungen, Risse, Entwaesserung
 - Beckenbeschichtungs-Schichtdickenmessung: Dualscope MP40, Messwert je Abschnitt, Protokoll
 - Betonkernproben: Bohrkern nach 28 Tagen, Chloridpenetrationstest nach DIN EN 12390-11
-- Korrosionsschutz-Pruefprotokoll Stahltragwerk: Trockenschichtdicke, Haftzug, Glanzgrad
+- Korrosionsschutz-Prüfprotokoll Stahltragwerk: Trockenschichtdicke, Haftzug, Glanzgrad
 
 ## Meldungserstellung im ERP / SAP
 

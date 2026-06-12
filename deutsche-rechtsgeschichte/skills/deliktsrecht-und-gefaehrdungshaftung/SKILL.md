@@ -37,7 +37,7 @@ Das BGB-Deliktsrecht 1900 (§§ 823-853) basiert auf dem Verschuldensprinzip: We
 1. Warum entschied sich das BGB 1900 gegen eine generelle Gefaehrdungshaftung?
 2. BGB § 823 und technische Risiken: Genuegt Verschuldenshaftung für Industrie, Auto, Produkte?
 3. Produzentenhaftung vor dem ProdHaftG: BGH-Rspr. (Huehnerpestrohrsaft 1968)?
-4. ProdHaftG 1989 und BGB § 823: Verhaeltnis der beiden Anspruchsgrundlagen?
+4. ProdHaftG 1989 und BGB § 823: Verhältnis der beiden Anspruchsgrundlagen?
 5. EU-Produkthaftungsreform 2022: Notwendige Modernisierung für KI und Digitales?
 
 ## Methodik
@@ -45,4 +45,4 @@ Das BGB-Deliktsrecht 1900 (§§ 823-853) basiert auf dem Verschuldensprinzip: We
 - BGB §§ 823-853: gesetze-im-internet.de
 - Reichshaftpflichtgesetz 1871: RGBl. 1871, 207 via ALEX/OeNB
 - ProdHaftG: gesetze-im-internet.de
-- BGH-Deliktsrecht: bgh.de (VI. Zivilsenat; Schluesselfaelle z. B. Huehnerpestrohrsaft BGHZ 51, 91)
+- BGH-Deliktsrecht: bgh.de (VI. Zivilsenat; Schlüsselfaelle z. B. Huehnerpestrohrsaft BGHZ 51, 91)

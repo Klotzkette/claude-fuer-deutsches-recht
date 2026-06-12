@@ -83,7 +83,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -120,7 +120,7 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `normenkontrolle-47-vwgo` | Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen: Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnunge... |
 | `normenkontrolle-zahlen-schwellen-und-berechnung` | Normenkontrolle: Zahlen, Schwellenwerte und Berechnung: Normenkontrolle: Zahlen, Schwellenwerte und Berechnung. |
 | `ordnungsrecht-mehrparteien-konflikt-und-interessen` | Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix: Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix. |
-| `orientierung-mandat-fachanwaltschaft` | Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken: N... |
+| `orientierung-mandat-fachanwaltschaft` | Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen überblicken: N... |
 | `orientierung-sonderfall-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung: Orientierung: Sonderfall und Edge-Case-Prüfung. |
 | `output-waehlen` | Output-Wahl für Fachanwalt Verwaltungsrecht: stimmt Adressat (Bürger/Antragsteller, Behörde, Verwaltungsgericht), Frist (§ 74 VwGO Klagefrist 1 Mon.) und Form auf den Zweck ab — typische Outputs: Widerspruch, Klage VG, Eilantrag § 80 V V... |
 | `polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk: Polizei: Compliance-Dokumentation und Aktenvermerk. |
@@ -139,13 +139,13 @@ Automatisch generierte Komplett-Liste aller 65 Skills in diesem Plugin. Beschrei
 | `verwaltungsakt-rechtsbehelf-vorverfahren` | Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output: Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverh... |
 | `verwaltungsrecht-tatbestand-beweis-und-belege` | Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `verwr-fehlerkatalog` | Verwr Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `verwr-folgenbeseitigung-spezial` | Spezialfall Folgenbeseitigungsanspruch: Grundlage Art: 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Pruefraster für Klage. |
-| `verwr-planfeststellung-grossvorhaben-spezial` | Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff: VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Pruefraster für Einwender. |
+| `verwr-folgenbeseitigung-spezial` | Spezialfall Folgenbeseitigungsanspruch: Grundlage Art: 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Prüfraster für Klage. |
+| `verwr-planfeststellung-grossvorhaben-spezial` | Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff: VwVfG, öffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Prüfraster für Einwender. |
 | `verwr-verwaltungsverfahren-checkliste` | Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen: P... |
-| `verwr-vorlaeufiger-rechtsschutz-leitfaden` | Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag. |
+| `verwr-vorlaeufiger-rechtsschutz-leitfaden` | Leitfaden vorläufiger Rechtsschutz VwGO: § 80 Abs: 5 Antrag, § 123 einstweilige Anordnung. Prüfraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag. |
 | `vorlaeufiger-mandantenkommunikation-entscheidungsvorlage` | Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage: Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage. |
 | `vwgo-fristen-form-und-zustaendigkeit` | VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: VwGO: Fristen, Form, Zuständigkeit und Rechtsweg. |
-| `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs: 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und... |
+| `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs: 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Prüfraster und... |
 | `vwvfg-dokumentenmatrix-und-lueckenliste` | Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung. |
 | `widerspruch-oder-klage-erstpruefung` | Entscheidung Widerspruch vs: direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Kl... |
 | `widerspruch-paragraf-68-vwgo` | Widerspruch § 68 VwGO: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |

@@ -1,11 +1,11 @@
 ---
 name: bmvg-wehrrecht-und-soldatenstatus
-description: "Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Leg..."
+description: "Sachbereich Wehrrecht und Soldatenstatus im Geschäftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Leg..."
 ---
 
 # Wehrrecht und Soldatenstatus (BMVg)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Wehrrecht und Soldatenstatus im Geschäftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg
 
 Kernbestand des Sachfelds: SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Parlamentsbeteiligung bei Auslandseinsaetzen (BVerfG); Vereinbarkeit mit GG; Wehrdienst-verweigerung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

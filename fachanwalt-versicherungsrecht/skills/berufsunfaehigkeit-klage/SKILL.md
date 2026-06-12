@@ -107,7 +107,7 @@ description: "Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung: A
 
 - Vom Gericht bestellt
 - Beide Seiten konnen Fragen stellen
-- Erfaehrung-Massstab
+- Erfaehrung-Maßstab
 
 ### Beweis-Niveau
 
@@ -230,7 +230,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Klage gegen BU-Versicherer wegen Leistungsablehnung | BU-Klageschrift nach Pruefschema; Template unten |
+| Standard — Klage gegen BU-Versicherer wegen Leistungsablehnung | BU-Klageschrift nach Prüfschema; Template unten |
 | Variante A — Erstantrag noch nicht vollstaendig gestellt | Nachbeibringung Unterlagen zuerst; Klage danach |
 | Variante B — Vergleich wirtschaftlich attraktiver als Prozess | Vergleichsverhandlung vor Klageerhebung; Klage als Druckmittel |
 | Variante C — BU nur voruebergehend Reaktivierung möglich | Teilleistung akzeptieren und beobachten statt Vollklage |
@@ -276,7 +276,7 @@ Beweis: K1 Police + AVB, K2 Tätigkeitsbeschreibung, K3 Privatgutachten,
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

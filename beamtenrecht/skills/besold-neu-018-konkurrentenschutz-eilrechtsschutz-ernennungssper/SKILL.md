@@ -37,7 +37,7 @@ description: "Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre 
 - Im Eilverfahren nach § 123 VwGO immer prüfen: rechtzeitige Konkurrentenmitteilung, Wartefrist/Stillhalteabrede, Anordnungsanspruch aus möglichem Auswahlfehler und Anordnungsgrund wegen irreversibler Ernennung.
 - Konkrete BVerwG-/BVerfG-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren; keine uneinheitlichen Datums-/Aktenzeichenkombinationen aus Modellwissen übernehmen.
 
-## Pruefraster
+## Prüfraster
 
 1. Auswahlentscheidung getroffen?
 2. Mitkonkurrent informiert?

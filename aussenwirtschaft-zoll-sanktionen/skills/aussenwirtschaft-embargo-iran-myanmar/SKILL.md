@@ -36,7 +36,7 @@ description: "EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU
 - **Art. 4 VO (EU) 2021/821**: Catch-All für WMD-Proliferationsverdacht.
 - **AWV § 9**: Nationale Genehmigungsfreiheitsmerkmale (Abgrenzung).
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Partei auf EU-Sanktionsliste Iran geprueft?
 - [ ] Dual-Use-Listenpruefung mit Iran-Bezug durchgefuehrt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

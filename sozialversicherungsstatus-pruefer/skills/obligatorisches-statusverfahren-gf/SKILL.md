@@ -1,6 +1,6 @@
 ---
 name: obligatorisches-statusverfahren-gf
-description: "Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen im Sozialversicherungsstatus Pruefer."
+description: "Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Obligatorisches Statusverfahren Geschäftsführer

@@ -1,6 +1,6 @@
 ---
 name: vfgr-grundrechtspruefung-bauleiter
-description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster für Klausur und Schriftsatz im Verfassungsrecht."
+description: "Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhältnismäßigkeit. Prüfraster für Klausur und Schriftsatz im Verfassungsrecht."
 ---
 
 # VfgR: Grundrechtspruefung
@@ -26,7 +26,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster — Drei-Schritt der Grundrechtspruefung
+## Prüfraster — Drei-Schritt der Grundrechtspruefung
 
 1. **Schutzbereich** — sachlich und persoenlich. Welches Grundrecht ist einschlaegig (Art. 1-19 GG)? Persoenlicher Schutzbereich (Deutsche/jedermann/juristische Personen Art. 19 III GG)? Sachlicher Schutzbereich nach BVerfG-Definition? Konkurrenzen prüfen (Spezialitaet, Idealkonkurrenz).
 2. **Eingriff** — klassisch (final, unmittelbar, rechtsfoermig, mit Befehl und Zwang) oder modern (jede dem Staat zurechenbare nicht nur unwesentliche Beeintraechtigung). Schutzbereichsverkuerzung oder mittelbar-faktischer Eingriff?
@@ -39,7 +39,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - Schutzbereich und Eingriff vermischen (Klassiker). Strenge Trennung im Schriftsatz.
 - Bei Art. 12 I GG: Drei-Stufen-Theorie (Berufsausuebung/subjektive/objektive Zulassungsschranken).
 - Bei Art. 14 I GG: Inhalts- und Schrankenbestimmung vs. Enteignung sauber abgrenzen (BVerfGE 58, 300 — Nassauskiesung).
-- Bei Art. 3 I GG: Pruefungsmassstaeben (Willkuer vs. neue Formel) je nach Differenzierungsmerkmal.
+- Bei Art. 3 I GG: Prüfungsmassstaeben (Willkuer vs. neue Formel) je nach Differenzierungsmerkmal.
 - Bei Art. 2 I GG: Subsidiaritaet (nur wenn kein spezielleres Grundrecht greift).
 - Drittwirkung: mittelbar über Generalklauseln (BVerfGE 7, 198 — Lueth).
 
@@ -47,10 +47,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

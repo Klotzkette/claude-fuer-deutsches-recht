@@ -36,7 +36,7 @@ Das Gericht hilft Ihnen. Es sucht selbst nach der Wahrheit. Sie müssen nicht al
 
 - **§ 103 SGG** — Sachaufklaerung von Amts wegen.
 - **§ 106 SGG** — Hinweise und Anregungen durch das Gericht.
-- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klaegers.
+- **§ 109 SGG** — Sachverstaendigen-Wahlrecht des Klägers.
 - **§ 60 SGB I** — Mitwirkungspflichten.
 
 ## Schritt-für-Schritt-Anleitung
@@ -50,7 +50,7 @@ Das Gericht:
 - **Beauftragt Sachverstaendigen-Gutachten** (z.B. Orthopaedie, Psychiatrie).
 - **Befragt Zeugen** (auf Antrag und von Amts wegen).
 - **Holt Sozialamts-, BG- und anderen Akten bei**.
-- **Prueft Versicherungsverlauf** bei DRV.
+- **Prüft Versicherungsverlauf** bei DRV.
 
 ### Schritt 2 — Was Sie tun sollten
 
@@ -99,7 +99,7 @@ Wenn ein eingeholtes Gutachten falsch ist, können Sie:
 
 - Schriftlich widersprechen mit aerztlichem Gegen-Attest
 - Eigenes Gutachten nach § 109 SGG beantragen
-- Erlaeuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen
+- Erläuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen
 
 Siehe `widerspruch-gegen-gutachten-laien`.
 

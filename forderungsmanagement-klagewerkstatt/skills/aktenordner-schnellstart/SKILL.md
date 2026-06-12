@@ -56,7 +56,7 @@ Nur Punkte mit `mittel` oder `niedrig` werden danach abgefragt.
 
 Stelle im ersten Dialogblock hoechstens drei Fragen. Nutze sie nur für echte Luecken oder Widersprueche:
 
-1. **Rolle:** "Ich vermute, du vertrittst [Glaeubiger/Schuldner]. Stimmt das?"
+1. **Rolle:** "Ich vermute, du vertrittst [Gläubiger/Schuldner]. Stimmt das?"
 2. **Ziel:** "Soll ich Zahlung eintreiben, Forderung abwehren, Vergleich vorbereiten oder nur die Akte sortieren?"
 3. **Frist:** "Gibt es eine Frist, die in den Unterlagen nicht erkennbar ist, z. B. Widerspruch, Einspruch, Verjaehrung oder gerichtliche Verfuegung?"
 

@@ -1,9 +1,9 @@
 ---
 name: konkurs-und-glaeubigerquoten-rangfolge
-description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Pruefraster im Römisches Recht."
+description: "Konkurs und Gläubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Gläubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Gläubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Prüfraster im Römisches Recht."
 ---
 
-# Rom 120 Konkurs Und Glaeubigerquoten Rangfolge
+# Rom 120 Konkurs Und Gläubigerquoten Rangfolge
 
 ## Arbeitsweg
 
@@ -16,10 +16,10 @@ description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt 
 ## Pfandglaeubiger
 
 - Hypothecarii / pignoraticii creditores hatten Vorrang bei Sachen mit dinglicher Sicherung.
-- Hypothek / Pfand musste vor allgemeiner Glaeubigerverteilung bedient werden.
+- Hypothek / Pfand musste vor allgemeiner Gläubigerverteilung bedient werden.
 - D. 20.1 ff. Hypothecarius creditor.
 
-## Bevorrechtigte Glaeubiger (privilegium personae)
+## Bevorrechtigte Gläubiger (privilegium personae)
 
 - Krasse Beispiele:
  - Beerdigungskosten ("funeris causa").
@@ -29,7 +29,7 @@ description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt 
 
 ## Quotale Verteilung
 
-- Allgemeine Glaeubiger erhielten nach Sicherung und Vorrechten den Rest quotal.
+- Allgemeine Gläubiger erhielten nach Sicherung und Vorrechten den Rest quotal.
 - Magister bonorum berechnete die Quote.
 - Bonorum emptor war verpflichtet, anteilig zu zahlen — typische Quote 50-90 Prozent, abhaengig vom Erloes.
 
@@ -44,9 +44,9 @@ description: "Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt 
 | dos | Ehegueterrecht heute zivilrechtlich |
 | quotal | Insolvenzforderungen quotale Verteilung § 187 InsO |
 
-## Pruefraster
+## Prüfraster
 
-1. Welche Glaeubigerstellung?
+1. Welche Gläubigerstellung?
 2. Sicherungsrecht vorhanden?
 3. Privilegium personae anwendbar?
 4. Quote zu berechnen?

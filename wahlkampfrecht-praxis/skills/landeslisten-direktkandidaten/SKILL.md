@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Aufstellungsversammlung, geheime Wahl, Niederschrift, Vertrauenspersonen und Einreichung.
+Prüft Aufstellungsversammlung, geheime Wahl, Niederschrift, Vertrauenspersonen und Einreichung.
 
 ## Rechts- und Praxislogik
 

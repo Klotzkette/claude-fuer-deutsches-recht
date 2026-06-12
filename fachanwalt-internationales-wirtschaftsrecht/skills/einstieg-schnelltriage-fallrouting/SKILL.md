@@ -113,7 +113,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und… |
-| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner über Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprüche bestehen? CISG UN-Kaufrecht. Prüfraster: Anwendungsbereich Art. 1-5 CISG Abbedingung… |
+| `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` | Deutsches Unternehmen hat Streit mit ausländischem Handelspartner über Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprüche bestehen? CISG UN-Kaufrecht. Prüfraster: Anwendungsbereich Art. 1-5 CISG Abbedingung… |
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC.… |
 | `fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit` | Vertragsparteien aus verschiedenen Ländern streiten über Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Prüfraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4… |
 | `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New… |

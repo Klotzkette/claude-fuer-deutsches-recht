@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insolvenzverschleppung-15a-inso
-description: "Insolvenzverschleppung nach Paragraph 15a InsO: Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktisch..."
+description: "Insolvenzverschleppung nach Paragraph 15a InsO: Antragspflicht des Geschäftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktisch..."
 ---
 
 # Insolvenzverschleppung nach Paragraph 15a InsO
@@ -14,7 +14,7 @@ description: "Insolvenzverschleppung nach Paragraph 15a InsO: Antragspflicht des
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott.
+**Fokus:** Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschäftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschäftsführer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott.
 
 ## Worum geht es konkret
 
@@ -37,7 +37,7 @@ Die Frist ist Hoechstfrist, nicht Mindestfrist. Wenn klar ist, dass Sanierung sc
 
 ### Absatz 2 Verlagerung der Antragspflicht
 
-Bei juristischen Personen ohne Geschaeftsfuehrer trifft die Pflicht jeden Gesellschafter (GmbH) bzw. jedes Aufsichtsratsmitglied (AG), sofern sie Kenntnis der Zahlungsunfaehigkeit oder Ueberschuldung haben.
+Bei juristischen Personen ohne Geschäftsführer trifft die Pflicht jeden Gesellschafter (GmbH) bzw. jedes Aufsichtsratsmitglied (AG), sofern sie Kenntnis der Zahlungsunfaehigkeit oder Ueberschuldung haben.
 
 ### Absatz 4 vorsaetzliche Insolvenzverschleppung
 
@@ -57,7 +57,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - **Sanierungsfenster nutzen.** Innerhalb der 3- bzw. 6-Wochen-Frist darf intensiv saniert werden (Investorensuche, Schutzschirmverfahren Paragraph 270b InsO, StaRUG-Verfahren). Wichtig: schriftliche Dokumentation der Bemuehungen.
 - **Drohende Zahlungsunfaehigkeit Paragraph 18 InsO ist KEINE Antragspflicht.** Nur ein Antragsrecht. Wer noch nicht zahlungsunfaehig, aber bald, hat Zeit. Verteidigung nutzt diese Abgrenzung intensiv.
 - **Beratung dokumentieren.** Sanierungsberater, Rechtsanwalt, Steuerberater haben den Mandanten zur Geduld geraten? Schriftlicher Beratungsvertrag + Beratungsprotokolle als Indiz für fehlenden Vorsatz.
-- **Faktische Geschaeftsfuehrer.** Die Antragspflicht trifft auch faktische GF, die nach aussen keine Eintragung haben (BGH staendige Rspr.). Verteidigung muss Strohmann-Argumentation sehr vorsichtig handhaben.
+- **Faktische Geschäftsführer.** Die Antragspflicht trifft auch faktische GF, die nach aussen keine Eintragung haben (BGH staendige Rspr.). Verteidigung muss Strohmann-Argumentation sehr vorsichtig handhaben.
 - **Erweiterung auf andere Pflichtige.** Aufsichtsrat, Komplementaer, Liquidator - jeder mit Vertretungsmacht ist Pflichtsubjekt. Bei mehreren GF wirkt die Pflicht solidarisch.
 
 ## Trade-off-Matrix
@@ -68,7 +68,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 ## Konkurrenzen
 
-- **Paragraph 15a InsO und Paragraph 283 StGB.** Tatmehrheit Paragraph 53 StGB, weil unterschiedliche Schutzgueter. Insolvenzverschleppung ist Schutzgesetz für Neuglaeubiger; Bankrott schuetzt Glaeubigergesamtheit gegen Vermoegensverkuerzung.
+- **Paragraph 15a InsO und Paragraph 283 StGB.** Tatmehrheit Paragraph 53 StGB, weil unterschiedliche Schutzgueter. Insolvenzverschleppung ist Schutzgesetz für Neuglaeubiger; Bankrott schuetzt Gläubigergesamtheit gegen Vermögensverkuerzung.
 - **Paragraph 15a InsO und Paragraph 263 StGB Eingehungsbetrug.** Wer als zahlungsunfaehiger GF noch Lieferungen bestellt, taeuscht über Zahlungsfaehigkeit. Tateinheit Paragraph 52 StGB.
 - **Paragraph 15a InsO und Paragraph 266a StGB.** Vorenthalten Arbeitgeberanteile in antragsloser Krise; Tatmehrheit.
 - **Paragraph 15a InsO und Paragraph 15b InsO.** Paragraph 15b InsO ist nicht strafbewehrt; relevant nur für zivilrechtlichen Erstattungsanspruch des GF.
@@ -97,6 +97,6 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 - Paragraph 14 StGB Handeln für andere (faktischer GF).
 - Paragraph 823 Abs 2 BGB iVm Paragraph 15a InsO als Schutzgesetz - BGH staendige Rspr.
 - Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG GF-Sperre.
-- BGH staendige Rspr. zur Pflichtigkeit faktischer Geschaeftsfuehrer.
+- BGH staendige Rspr. zur Pflichtigkeit faktischer Geschäftsführer.
 - BGH staendige Rspr. zum Beginn der 3-Wochen-Frist (Eintritt, nicht Kenntnis).
 - StaRUG-Verfahren (Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen) seit 2021 als zusaetzliches Sanierungsinstrument.

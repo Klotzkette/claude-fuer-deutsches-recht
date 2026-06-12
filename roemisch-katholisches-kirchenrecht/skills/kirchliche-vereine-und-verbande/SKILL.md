@@ -69,8 +69,8 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## Aktualisierte Norm- und Reformlage
 
-### Schluesselcanones CIC 1983
-- **can. 215 CIC** Recht der Glaeubigen, für kirchliche Zwecke Vereinigungen zu gruenden.
+### Schlüsselcanones CIC 1983
+- **can. 215 CIC** Recht der Gläubigen, für kirchliche Zwecke Vereinigungen zu gruenden.
 - **can. 298 CIC** Definition kirchliche Vereinigungen.
 - **can. 299-329 CIC** Allgemeine Normen für Vereinigungen.
 - **can. 312-320 CIC** Oeffentliche Vereinigungen (juristische Personen öffentlichen Rechts).
@@ -92,7 +92,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Zentralkomitee der deutschen Katholiken (ZdK) - staendige Konferenz katholischer Verbaende.
 - Kirchliche Verbandsstruktur unterliegt in Deutschland Doppelregime: kanonisches Recht (CIC) plus staatliches Vereinsrecht (BGB), wenn der Verein zugleich eingetragener Verein ist.
 
-### Pruefraster
+### Prüfraster
 1. Oeffentliche oder private Vereinigung? — cc. 312-326 CIC.
 2. Wem unterstellt (Bischof, Bischofskonferenz, Apostolischer Stuhl)?
 3. Statuten approbiert? Welche Fassung gilt heute?

@@ -14,7 +14,7 @@ description: "Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstra
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo für Vergabekorruption Amtstraegerbestechung Richterbestechung.
+**Fokus:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Prüfraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo für Vergabekorruption Amtstraegerbestechung Richterbestechung.
 
 ### Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern
 
@@ -47,7 +47,7 @@ Wenn die genannten Personen **Richter, Mitglieder eines Gerichts der Europaeisch
 
 Spiegelbildlich zu § 332 StGB.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Pflichtwidrige Diensthandlung.** Verstoss gegen Dienstvorschriften, Gesetze, ermessensbeschraenkende Vorgaben.
 - **Unrechtsvereinbarung.** Direkter Bezug Vorteil ↔ Diensthandlung.
@@ -85,7 +85,7 @@ Spiegelbildlich zu § 332 StGB.
 ## Konkurrenzen
 
 - **§ 332/334 StGB / § 331/333 StGB.** §§ 332/334 Spezialnorm bei Pflichtwidrigkeit.
-- **§ 332/334 StGB / § 263 StGB.** Bei Vermoegensschaedigung der Behörde Tateinheit.
+- **§ 332/334 StGB / § 263 StGB.** Bei Vermögensschaedigung der Behörde Tateinheit.
 - **§ 332/334 StGB / § 266 StGB Untreue.** Tateinheit bei Untreue durch Amtstraeger.
 - **§ 332/334 StGB / § 299 StGB.** Beim "Sektorenwechsel" — privater Auftragnehmer und Amtstraeger zugleich.
 - **§ 332/334 StGB / § 30 OWiG.** Verbandsgeldbusse Geber-Unternehmen.
@@ -96,12 +96,12 @@ Spiegelbildlich zu § 332 StGB.
 - **Strafrahmen** §§ 332 Abs. 1, 334 Abs. 1 sechs Monate bis fuenf Jahre / drei Monate bis fuenf Jahre.
 - **§ 335 StGB** besonders schwere Faelle ein bis zehn Jahre.
 - **§ 46 StGB** Höhe Vorteil, Wettbewerbsschaden, öffentliches Interesse, Wiedergutmachung.
-- **Einziehung § 73 StGB** zwingend (Vorteilsgegenstand sowie der durch die Diensthandlung erlangte Vermoegensvorteil).
+- **Einziehung § 73 StGB** zwingend (Vorteilsgegenstand sowie der durch die Diensthandlung erlangte Vermögensvorteil).
 - **§ 73d StGB erweiterte Einziehung** bei Strukturen.
 - **Berufsverbot § 70 StGB / Dienstentfernung § 13 BDG**.
 - **Beamtenrechtliche Folgen** Entfernung aus dem Dienst, Pensionsentzug.
 - **Wettbewerbsregister-Eintragung** § 124 GWB; Vergabeausschluss.
-- **Disqualifikation § 6 GmbHG** Geschaeftsfuehrer (5 Jahre).
+- **Disqualifikation § 6 GmbHG** Geschäftsführer (5 Jahre).
 - **§ 30 OWiG Verbandsgeldbusse** plus Abschoepfung.
 
 ## Mustertexte

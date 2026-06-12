@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Gemeinde, Zeitraum, Anzahl, Formate, Strassenbaulast, Sicherheitsabstaende und Auflagen.
+Prüft Gemeinde, Zeitraum, Anzahl, Formate, Strassenbaulast, Sicherheitsabstaende und Auflagen.
 
 ## Spezifischer Prüfpfad
 

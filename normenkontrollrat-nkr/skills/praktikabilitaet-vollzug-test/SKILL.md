@@ -1,6 +1,6 @@
 ---
 name: praktikabilitaet-vollzug-test
-description: "Praktikabilitaetstest für den Vollzug. Prueft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik..."
+description: "Praktikabilitaetstest für den Vollzug. Prüft ob die Regelung von Behörden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik..."
 ---
 
 # NKR-Praktikabilitaet im Vollzug
@@ -27,7 +27,7 @@ Rueckfrage nur wenn unklar: *"Welche Stelle vollzieht — Bundesbehoerde, Landes
 - **Art. 83-87 GG** — Vollzugskompetenzen
 - **Art. 104a GG, Konnexitaetsverbot** (Verfassungen der Länder)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. Vollzugskaskade
 

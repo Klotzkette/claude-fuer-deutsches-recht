@@ -1,6 +1,6 @@
 ---
 name: receptum-nautarum-cauponum
-description: "Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltnis zur actio depositi. Liefert Quellenmatrix."
+description: "Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern für eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhältnis zur actio depositi. Liefert Quellenmatrix."
 ---
 
 # Rom 126 Receptum Nautarum Cauponum Stabulariorum

@@ -26,9 +26,9 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 
 - **§ 286 I BGB** — Verzug nach Mahnung.
 - **§ 286 II BGB** — Mahnung entbehrlich (Termin, Selbst, ernsthafte Erfuellungsverweigerung).
-- **§ 286 III BGB** — 30 Tage nach Rechnungs-Zugang im Geschaeftsverkehr.
+- **§ 286 III BGB** — 30 Tage nach Rechnungs-Zugang im Geschäftsverkehr.
 - **§ 288 BGB** — Verzugszinsen (Verbraucher 5 % über Basiszins, Unternehmer 9 %).
-- **§ 288 V BGB** — Pauschale 40 EUR im Geschaeftsverkehr.
+- **§ 288 V BGB** — Pauschale 40 EUR im Geschäftsverkehr.
 - **§ 280 II BGB** — Schadensersatz wegen Verzug.
 
 ## Schritt-für-Schritt-Anleitung
@@ -41,7 +41,7 @@ Vor Klage sollten Sie den Schuldner schriftlich auffordern zu zahlen. Das nennt 
 - Vorgesehen ist eine **Frist nach Ereignis** ("14 Tage nach Lieferung") — Verzug nach Ablauf.
 - Schuldner Leistung **ernsthaft und endgueltig verweigert**.
 - Bei besonderen Gruenden (Treu und Glauben).
-- Im Geschaeftsverkehr 30 Tage nach Rechnungs-Zugang (§ 286 III BGB).
+- Im Geschäftsverkehr 30 Tage nach Rechnungs-Zugang (§ 286 III BGB).
 
 Wenn entbehrlich: Sie können direkt klagen oder mahnen-fest verzugsrechtlich. Wenn nicht: mahnen Sie.
 
@@ -84,7 +84,7 @@ Mit freundlichen Gruessen
 - **Einschreiben Einwurf**: Etwas guenstiger.
 - **Brief mit Postzustellungsurkunde** (selten privat).
 - **Email**: rechtlich möglich, aber Zugangs-Beweis schwieriger. Speichern Sie versendete Email und ggf. Lesebestaetigung.
-- **Persoenliche Uebergabe gegen Empfangsquittung**: Beweis durch Quittung.
+- **Persoenliche Übergabe gegen Empfangsquittung**: Beweis durch Quittung.
 
 **Beweis-Tipp**: Bewahren Sie Sendungs-Beleg/Einschreibe-Beleg auf. Im Streitfall müssen Sie den Zugang beweisen.
 
@@ -94,12 +94,12 @@ Geben Sie eine angemessene Frist (7-14 Tage). Zu kurz koennte unbillig sein, zu 
 
 ### Schritt 5 — Zweit-Mahnung? Dritt-Mahnung?
 
-Rechtlich reicht **eine** Mahnung für den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschaeftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
+Rechtlich reicht **eine** Mahnung für den Verzug. Mehrere Mahnungen sind eher psychologisch (Geschäftsgefuehl). Mahngebuehr darf nicht ueberhoeht sein (in Verbraucherbeziehung umstritten — pauschal 2,50 EUR sind als marktueblich akzeptiert).
 
 ### Schritt 6 — Verzugszinsen ab wann?
 
 - Bei Mahnung: Ab Zugang der Mahnung (= Ablauf der gesetzten Frist).
-- Bei Mahnung entbehrlich: Ab Faelligkeit / 30 Tage nach Rechnung im Geschaeftsverkehr.
+- Bei Mahnung entbehrlich: Ab Faelligkeit / 30 Tage nach Rechnung im Geschäftsverkehr.
 
 Höhe:
 
@@ -116,8 +116,8 @@ Sie können über Zinsen hinaus weitere Schaeden geltend machen (z. B. Mahngebue
 
 - **Zugang beweisen**: Sie müssen darlegen, dass der Schuldner die Mahnung erhalten hat. Einschreiben mit Rueckschein ist sicherster Beweis.
 - **Faelligkeit voraussetzen**: Eine Mahnung vor Faelligkeit ist wirkungslos.
-- **Im Geschaeftsverkehr**: § 286 III BGB greift ab Tag 31 nach Rechnungs-Zugang auch ohne Mahnung — wenn auf der Rechnung darauf hingewiesen wird.
-- **Mahngebuehr-Pauschale 40 EUR**: Nur im Geschaeftsverkehr unter Unternehmern (§ 288 V BGB).
+- **Im Geschäftsverkehr**: § 286 III BGB greift ab Tag 31 nach Rechnungs-Zugang auch ohne Mahnung — wenn auf der Rechnung darauf hingewiesen wird.
+- **Mahngebuehr-Pauschale 40 EUR**: Nur im Geschäftsverkehr unter Unternehmern (§ 288 V BGB).
 
 ## Typische Fehler
 

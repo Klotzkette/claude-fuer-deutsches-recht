@@ -122,7 +122,7 @@ Mit freundlichen Grüßen
 ## Triage-Fragen vor Mandanten-Rueckfragen
 
 Bevor die Rueckfrageliste erstellt wird, klaere:
-1. Welches Rechercheprodukt benoetigt die Informationen — Neuheitspruefung, FTO, Pruefungsbescheid-Antwort oder Valorisierung?
+1. Welches Rechercheprodukt benoetigt die Informationen — Neuheitspruefung, FTO, Prüfungsbescheid-Antwort oder Valorisierung?
 2. Hat der Mandant bereits Unterlagen eingereicht (Anspruchsentwurf, Produktbeschreibung, Skizze)?
 3. Besteht ein zeitlicher Druck (Patent-Frist, Messe-Neuheitsfrist, Vertragsverhandlung)?
 4. Ist der Mandant technischer Fachmann oder berufslaie (Fragebogen-Sprachstil anpassen)?

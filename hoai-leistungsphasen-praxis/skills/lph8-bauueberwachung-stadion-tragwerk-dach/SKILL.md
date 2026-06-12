@@ -31,7 +31,7 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 2. Membrandach Spannungsprotokoll: Fadenspannungsmessung je Feld nach Herstellervorgabe, Protokoll
 3. Brandschutz Versammlungsstaette: Fluchtwegebreite 1.2 m je 600 Personen nach MVStaettVO
 4. Tribueune-Entwasserung: Rinnen, Abfluss, Speier, Druckpruefung je Sektion
-5. Fangtragnetz KARO: Zertifizierung nach DIN EN 1263-1, Belastungstest 6 kN/m, Pruefliste
+5. Fangtragnetz KARO: Zertifizierung nach DIN EN 1263-1, Belastungstest 6 kN/m, Prüfliste
 6. Rasenbewasserung und Beleuchtung: Druckpruefung Bewaesserungsanlage, Lux-Messung Spielfeld 500 lx
 
 ## Normen und Rechtsrahmen
@@ -43,12 +43,12 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 - DIN EN ISO 5817 Schweissnaehte Stahl: Bewertungsgruppen, Imperfektionen
 - DIN EN 1263-1 Fangnetze: Sicherheitseinrichtungen, Netzversuche, KARO-Zertifizierung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Membranspannung: Messung Fadenspannungsmesser je Feldpunkt, Toleranz +/-10 Prozent nach Herstellerplan
 2. Schweissnahtpruefung Stahltribuene: VT aller sichtbaren Naehte, UT an 10 Prozent Hauptnaehte
 3. Fluchtwegebreite: Massbandkontrolle je Zugang und Treppenbreite nach MVStaettVO
-4. Fangtragnetz: Befestigung, Ueberlappungsbreite, Knotenverbindungen, Pruefprotokoll
+4. Fangtragnetz: Befestigung, Ueberlappungsbreite, Knotenverbindungen, Prüfprotokoll
 5. Rasenbewasserung: Druckpruefung 6 bar, Bewaesserungsflaeche, Gleichmaessigkeitsmessung Turf-Tec
 6. Spielfeldbeleuchtung: Lux-Messung 500 lx Mindest, Gleichmaessigkeit ue0.65 nach DIN EN 12193
 
@@ -56,9 +56,9 @@ Fangtraegerkonstruktionen und Membranen erfordern Fadenspannungs-Messungen und H
 
 - BIM360 Stadion: 3D-Modell Membrandach mit Spannungsprotokoll-Overlay, Clash-Detection TGA
 - Drohnenflug DJI Mavic 3 Enterprise: Membranflaeche ortho-Aufnahme, Falten und Wasereinschluesse
-- Schweissnahtueberwachungsbericht: VT/UT-Ergebnisse je Bauteil, Prueferqualifikation EN 9712
+- Schweissnahtueberwachungsbericht: VT/UT-Ergebnisse je Bauteil, Prüferqualifikation EN 9712
 - Membran-Werkszeugnis: Zugfestigkeit, UV-Bestaendigkeit, Brandklasse Cfl-s1 oder B-s2 nach EN 13501-1
-- Fangnetz KARO-Pruefprotokoll: Belastungsnachweis, Befestigungsprotokoll, TUeV-Bestaetigung
+- Fangnetz KARO-Prüfprotokoll: Belastungsnachweis, Befestigungsprotokoll, TUeV-Bestaetigung
 
 ## Meldungserstellung im ERP / SAP
 

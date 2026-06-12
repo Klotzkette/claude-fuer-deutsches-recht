@@ -26,13 +26,13 @@ Eine Abmahnung wird gesendet oder empfangen.
 
 ## Konkrete GebrMG-Normen und BGH-Linie
 
-### Schluesselnormen
+### Schlüsselnormen
 - **§ 24 GebrMG**: Unterlassungs- und Schadensersatzansprueche bei Verletzung.
 - **§ 24a-c GebrMG**: Auskunfts-, Schadensersatz- und Vernichtungsansprueche analog §§ 139-140d PatG.
 - **§ 25 GebrMG**: Strafbarkeit bei vorsaetzlicher Verletzung.
 
 ### Besonderheit Gebrauchsmuster
-- Anders als Patent: **kein materieller Pruefungsfilter im Eintragungsverfahren** (DPMA prüft nur formell).
+- Anders als Patent: **kein materieller Prüfungsfilter im Eintragungsverfahren** (DPMA prüft nur formell).
 - Folge: Eingetragenes Gebrauchsmuster sagt **nichts über Rechtsbestand** aus.
 - Die Abmahnung muss den ungeprüften Registertitel besonders sorgfältig gegen Rechtsbestandsangriffe absichern; konkrete BGH-Zitate nur nach Live-Check mit frei zugänglicher Quelle einsetzen.
 

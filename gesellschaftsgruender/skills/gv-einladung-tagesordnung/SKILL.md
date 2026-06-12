@@ -30,11 +30,11 @@ Klaere vor Erstellung der Einladung:
 3. **Welche Fristen gelten?** Gesetzlich: 1 Woche (§ 51 I GmbHG); Satzungsverlaengerung prüfen.
 4. **Elektronischer Versand zugelassen?** Nur wenn Satzung das vorsieht (§ 51 II GmbHG).
 5. **Streitige Versammlung erwartet?** Notar hinzuziehen; eingeschriebener Brief mit Rueckschein.
-6. **Auslaendische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG für Beurkundungen.
+6. **Ausländische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG für Beurkundungen.
 
 ## Zentrale Normen
 
-- **§ 49 I GmbHG** — Einberufung durch Geschaeftsfuehrer
+- **§ 49 I GmbHG** — Einberufung durch Geschäftsführer
 - **§ 49 II GmbHG** — Pflichtversammlung bei Verlust der Haelfte des Stammkapitals
 - **§ 50 GmbHG** — Einberufungsrecht von Gesellschaftern mit mindestens 10 % der Anteile
 - **§ 51 I GmbHG** — Form und Frist: schriftlich, mindestens 1 Woche Vorlauf
@@ -49,7 +49,7 @@ Klaere vor Erstellung der Einladung:
 
 ## Prüfschema: Einladungs-Rechtmaessigkeit
 
-| Schritt | Pruefpunkt | Norm | Ergebnis |
+| Schritt | Prüfpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | 1 | Alle Gesellschafter eingeladen? | § 51 GmbHG | Nein: Nichtigkeit der Beschlüsse |
 | 2 | Frist eingehalten? (≥ 1 Woche; Satzung beachten) | § 51 I GmbHG | Nein: Anfechtbarkeit |
@@ -169,7 +169,7 @@ Anlage: [RELEVANTE DOKUMENTE]
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — Protokoll der GV
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung

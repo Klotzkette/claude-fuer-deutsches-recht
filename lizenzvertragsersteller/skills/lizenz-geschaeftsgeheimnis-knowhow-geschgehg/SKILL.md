@@ -1,14 +1,14 @@
 ---
 name: lizenz-geschaeftsgeheimnis-knowhow-geschgehg
-description: "Lizenz von Geschaeftsgeheimnissen und Know-how nach GeschGehG: $$ 1-12 GeschGehG; Schutzmassnahmen $ 2 Nr. 1b; Reverse Engineering $ 3; Sphaeren-Trennung; Know-how-Lizenz mit Vertraulichkeitsklauseln und Sanktionsregelungen."
+description: "Lizenz von Geschäftsgeheimnissen und Know-how nach GeschGehG: $$ 1-12 GeschGehG; Schutzmassnahmen $ 2 Nr. 1b; Reverse Engineering $ 3; Sphaeren-Trennung; Know-how-Lizenz mit Vertraulichkeitsklauseln und Sanktionsregelungen."
 ---
 
-# Lizenz Geschaeftsgeheimnis / Know-how (GeschGehG)
+# Lizenz Geschäftsgeheimnis / Know-how (GeschGehG)
 
 ## Normenanker
 
 - $ 1 GeschGehG - Schutzgegenstand
-- $ 2 GeschGehG - Begriffsbestimmungen; $ 2 Nr. 1: Geschaeftsgeheimnis = vertrauliche Information mit Schutzmassnahmen und wirtschaftlichem Wert
+- $ 2 GeschGehG - Begriffsbestimmungen; $ 2 Nr. 1: Geschäftsgeheimnis = vertrauliche Information mit Schutzmassnahmen und wirtschaftlichem Wert
 - $ 3 GeschGehG - Erlaubte Handlungen (Reverse Engineering bei rechtmaessig erlangter Sache!)
 - $ 4 GeschGehG - Verbotene Handlungen
 - $ 5 GeschGehG - Schutzausnahmen (Whistleblowing, Journalistik, Aufdeckung Fehlverhalten)
@@ -16,7 +16,7 @@ description: "Lizenz von Geschaeftsgeheimnissen und Know-how nach GeschGehG: $$ 
 
 ## Pflichtbaustein: Schutzmassnahmen vor Lizenz
 
-Damit Know-how als Geschaeftsgeheimnis schutzfaehig bleibt, muss der Lizenzgeber vor Vertragsschluss nachweisen, dass:
+Damit Know-how als Geschäftsgeheimnis schutzfaehig bleibt, muss der Lizenzgeber vor Vertragsschluss nachweisen, dass:
 
 1. **Zugriffsbeschraenkungen** - Need-to-Know, MFA, Branch Protection
 2. **NDAs** mit Mitarbeitern, Beratern, Sub-Unternehmern
@@ -41,7 +41,7 @@ $ 3 GeschGehG: Reverse Engineering einer rechtmaessig erlangten Sache ist **erla
 
 ## Klausel-Bausteine (DE)
 
-**1. Lizenzgegenstand Geschaeftsgeheimnis:**
+**1. Lizenzgegenstand Geschäftsgeheimnis:**
 > "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das nicht-ausschliessliche, nicht-uebertragbare Recht ein, das in **Anlage A** bezeichnete Know-how ("Lizenz-Know-how") für die in **Anlage B** definierten Zwecke zu nutzen. Das Lizenz-Know-how umfasst die in Anlage A aufgefuehrten technischen Unterlagen, Daten, Prozessbeschreibungen und Quellcode-Auszuege."
 
 **2. Vertraulichkeitspflicht:**

@@ -1,6 +1,6 @@
 ---
 name: frageliste-auftraggeber
-description: "Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung im Sozialversicherungsstatus Pruefer."
+description: "Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Frageliste Auftraggeber

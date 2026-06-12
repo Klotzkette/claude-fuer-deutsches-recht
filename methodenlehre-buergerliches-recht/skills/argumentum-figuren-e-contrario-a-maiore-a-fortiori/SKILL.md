@@ -1,6 +1,6 @@
 ---
 name: argumentum-figuren-e-contrario-a-maiore-a-fortiori
-description: "Argumentum-Figuren im deutschen Zivilrecht: Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur..."
+description: "Argumentum-Figuren im deutschen Zivilrecht: Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhältnis zur..."
 ---
 
 # Argumentum-Figuren im deutschen Zivilrecht
@@ -14,7 +14,7 @@ description: "Argumentum-Figuren im deutschen Zivilrecht: Umkehrschluss (argumen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke.
+**Fokus:** Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhältnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Prüfraster mit Begruendungsstaerke.
 
 ### Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
 
@@ -59,7 +59,7 @@ Die klassischen Argumentations-Figuren der juristischen Logik. Sie sind nicht ei
 **Argumentum e contrario:**
 
 - **§ 181 BGB (Insichgeschaeft):** "Ein Vertreter kann, soweit nicht ein anderes ihm gestattet ist, im Namen des Vertretenen mit sich im eigenen Namen oder als Vertreter eines Dritten ein Rechtsgeschaeft nicht vornehmen, es sei denn, dass das Rechtsgeschaeft ausschließlich in der Erfuellung einer Verbindlichkeit besteht." E contrario: Wenn das Insichgeschaeft ausschließlich Erfuellung ist, ist es zulässig.
-- **§ 311 Abs. 1 BGB:** Zur Begruendung eines Schuldverhaeltnisses durch Rechtsgeschaeft sowie zur Aenderung des Inhalts eines Schuldverhaeltnisses ist ein Vertrag erforderlich, soweit nicht das Gesetz ein anderes vorschreibt. E contrario: Einseitige Akte begruenden grundsätzlich kein Schuldverhaeltnis, ausser das Gesetz sieht es vor (z. B. § 657 BGB Auslobung, § 661a BGB Gewinnzusage).
+- **§ 311 Abs. 1 BGB:** Zur Begruendung eines Schuldverhaeltnisses durch Rechtsgeschaeft sowie zur Änderung des Inhalts eines Schuldverhaeltnisses ist ein Vertrag erforderlich, soweit nicht das Gesetz ein anderes vorschreibt. E contrario: Einseitige Akte begruenden grundsätzlich kein Schuldverhaeltnis, ausser das Gesetz sieht es vor (z. B. § 657 BGB Auslobung, § 661a BGB Gewinnzusage).
 - **Abschliessende Aufzaehlungen** — z. B. § 437 BGB (Maengelrechte). E contrario: Andere Rechte als Nacherfuellung, Ruecktritt, Minderung, Schadensersatz und Aufwendungsersatz hat der Kaeufer nicht. Aber: Konkurrenzen zu allgemeinem Schadensersatz nach § 280 BGB sind nicht ausgeschlossen.
 
 **Argumentum a maiore ad minus (vom Groesseren auf das Kleinere):**

@@ -540,5 +540,5 @@ Eindeutig bewertete Zellen: [N] ([%])
 
 - **Mehr als 20 % der Zellen als `prüfung_erforderlich`** — Schema ueberarbeiten; Zeilenprompts praezisieren; oder Stichprobengroesse erhoehen bevor Vollstaendigkeitsdurchlauf.
 - **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
-- **Rechtswahlklausel auslaendisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst prüfen.
+- **Rechtswahlklausel ausländisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst prüfen.
 - **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.

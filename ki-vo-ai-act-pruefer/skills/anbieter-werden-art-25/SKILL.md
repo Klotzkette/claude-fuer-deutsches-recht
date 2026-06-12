@@ -1,6 +1,6 @@
 ---
 name: anbieter-werden-art-25
-description: "Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Name..."
+description: "Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Änderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Name..."
 ---
 
 # Anbieter-Werden — Art. 25 KI-VO
@@ -91,7 +91,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
 5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
-## Output-Template — Pruefergebnis
+## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — ANBIETER WERDEN ART 25

@@ -1,11 +1,11 @@
 ---
 name: bmwe-wettbewerb-und-kartellrecht-gwb
-description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Ac..."
+description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschäftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Ac..."
 ---
 
 # Wettbewerbsrecht und Kartellrecht (GWB) (BMWE)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Wettbewerbsrecht und Kartellrecht (GWB) im Geschäftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsb
 
 Kernbestand des Sachfelds: GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
-Anmeldepflicht uebersehen; Sektoruntersuchung; Verhaeltnis zu DMA.
+Anmeldepflicht uebersehen; Sektoruntersuchung; Verhältnis zu DMA.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

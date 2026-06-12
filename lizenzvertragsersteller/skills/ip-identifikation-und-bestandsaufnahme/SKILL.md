@@ -1,6 +1,6 @@
 ---
 name: ip-identifikation-und-bestandsaufnahme
-description: "IP-Identifikation und Bestandsaufnahme fuer Lizenzvertraege: Schutzrechtsregister-Auszug, Klassifikation nach Typ (Urheber Patent Marke Design Gebrauchsmuster Geschaeftsgeheimnis), Belastungen, Erfindervergutung, Lizenzhistorie, IP-Inventar als Anlage A."
+description: "IP-Identifikation und Bestandsaufnahme fuer Lizenzvertraege: Schutzrechtsregister-Auszug, Klassifikation nach Typ (Urheber Patent Marke Design Gebrauchsmuster Geschäftsgeheimnis), Belastungen, Erfindervergutung, Lizenzhistorie, IP-Inventar als Anlage A."
 ---
 
 # IP-Identifikation und Bestandsaufnahme
@@ -18,8 +18,8 @@ Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert di
 | Patent | DPMA (deutsch), EPA (europaeisch), USPTO/WIPO | Anmeldedatum, Erteilungsdatum, Schutzdauer, Erfinder, Gemeinschaft, Arbeitnehmererfindergesetz |
 | Marke | DPMA, EUIPO, WIPO | Reg.-Nr., Wort/Bild, Klassen, Schutzgebiete, Verlaengerung, Benutzungspflicht |
 | Geschmacksmuster (Design) | DPMA, EUIPO | Reg.-Nr., Anmeldedatum, Schutzdauer (max 25 J.) |
-| Gebrauchsmuster | DPMA | Reg.-Nr., Anmeldedatum, Schutzdauer 10 J., kein Pruefverfahren |
-| Geschaeftsgeheimnis/Know-how | nicht registriert; Schutzmassnahmen | Schutzmassnahmen nach $ 2 GeschGehG (NDAs, Zugriffsbeschraenkung, Branch-Protection) |
+| Gebrauchsmuster | DPMA | Reg.-Nr., Anmeldedatum, Schutzdauer 10 J., kein Prüfverfahren |
+| Geschäftsgeheimnis/Know-how | nicht registriert; Schutzmassnahmen | Schutzmassnahmen nach $ 2 GeschGehG (NDAs, Zugriffsbeschraenkung, Branch-Protection) |
 | Domains | Whois / united-domains | Inhaber, Provider, Verlaengerung |
 
 ## Inventar-Schema (Anlage A des Vertrags)
@@ -30,7 +30,7 @@ Ohne saubere IP-Identifikation kein guter Lizenzvertrag. Dieser Skill liefert di
 
 Pro Zeile: ein Schutzrecht. Belastungen = Lizenzen Dritter, Pfandrechte, Sicherungsabtretungen, Veroeffentlichungen die Patentschutz gefaehrden.
 
-## Pruefroutine
+## Prüfroutine
 
 1. **Bestand:** Sind alle Schutzrechte tatsaechlich auf den Lizenzgeber registriert?
 2. **Lebensdauer:** Restschutzdauer, Verlaengerungspflichten, Gebuehren faellig?

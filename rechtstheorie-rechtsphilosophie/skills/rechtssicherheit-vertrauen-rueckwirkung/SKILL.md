@@ -1,6 +1,6 @@
 ---
 name: rechtssicherheit-vertrauen-rueckwirkung
-description: "Prueft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung."
+description: "Prüft Rechtssicherheit, Vertrauensschutz, Rückwirkung und Vorhersehbarkeit bei neuer Rechtsprechung oder neuer Auslegung."
 ---
 
 # Rechtssicherheit und Rückwirkung

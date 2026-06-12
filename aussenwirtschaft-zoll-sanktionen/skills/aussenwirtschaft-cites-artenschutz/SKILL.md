@@ -36,7 +36,7 @@ description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Ti
 - **§§ 71-73 BNatSchG**: Nationales Strafrecht bei Artenschutzverletzungen.
 - **AWG § 18**: Aussenwirtschaftsrechtliche Strafbarkeit bei Verstoss.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Art korrekt bestimmt und CITES-Anhang-Einstufung geprueft?
 - [ ] Genehmigung für Anhang A/B beantragt und erteilt?
@@ -47,7 +47,7 @@ description: "Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Ti
 
 ## Typische Fallstricke
 
-- CITES-Anhang-Einstufung aendert sich; Jahreslisten prüfen.
+- CITES-Anhang-Einstufung ändert sich; Jahreslisten prüfen.
 - Pre-Convention-Ausnahme ist eng; Beweislast liegt beim Importeur.
 - Illegale CITES-Waren können nicht nachtraeglich legalisiert werden.
 - Zoll und Strafverfolgungsbehoerden kooperieren bei CITES-Kontrollen intensiv.
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

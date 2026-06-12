@@ -1,6 +1,6 @@
 ---
 name: schranke-vorbehaltlos-verfassungsimmanent
-description: "Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur ueber verfassungsimmanente Schranken, dh kollidierende Verfassungsgueter mit Rang. Anwendung praktischer Konkordanz, BVerfG-Linien Kruzifix, Mephisto, Reiten im Walde, Brokdorf."
+description: "Spezial-Prüfraster fuer vorbehaltlose Grundrechte: Eingriffe nur ueber verfassungsimmanente Schranken, dh kollidierende Verfassungsgueter mit Rang. Anwendung praktischer Konkordanz, BVerfG-Linien Kruzifix, Mephisto, Reiten im Walde, Brokdorf."
 ---
 
 # Vorbehaltlose Grundrechte und verfassungsimmanente Schranken
@@ -14,7 +14,7 @@ description: "Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur 
 | Art 4 I, II GG | Glaubens-/Gewissens-/Bekenntnisfreiheit | BVerfGE 93, 1 (Kruzifix-Beschluss); BVerfGE 108, 282 (Kopftuch I); BVerfGE 138, 296 (Kopftuch II) |
 | Art 5 III 1 GG | Kunstfreiheit | BVerfGE 30, 173 (Mephisto-Beschluss); BVerfGE 67, 213 (Anachronistischer Zug) |
 | Art 5 III 1 GG | Wissenschaftsfreiheit | BVerfGE 35, 79 (Hochschul-Urteil); BVerfGE 111, 333 (Brandenburgisches Hochschulgesetz) |
-| Art 8 I GG (geschlossen) | Versammlungsfreiheit in geschlossenen Raeumen | BVerfGE 69, 315 (Brokdorf-Beschluss als Massstab) |
+| Art 8 I GG (geschlossen) | Versammlungsfreiheit in geschlossenen Raeumen | BVerfGE 69, 315 (Brokdorf-Beschluss als Maßstab) |
 | Art 9 III GG | Koalitionsfreiheit | BVerfGE 50, 290 (Mitbestimmungs-Urteil) |
 | Art 16 II 1 GG | Schutz vor Auslieferung Deutscher | EU-Haftbefehl ueberlagert (Art 16 II 2 GG) |
 
@@ -31,7 +31,7 @@ description: "Spezial-Pruefraster fuer vorbehaltlose Grundrechte: Eingriffe nur 
 
 Verfassungsimmanente Schranken werden über die **praktische Konkordanz** aufgeloest. Beide Verfassungsgueter sollen moeglichst weitgehend zur Geltung kommen, ohne dass eines vollstaendig zurueckweicht (BVerfGE 93, 1 Kruzifix-Beschluss; BVerfGE 35, 366 Eindringen in Glaubensbekenntnis). Siehe `praktische-konkordanz`.
 
-## Pruefraster
+## Prüfraster
 
 1. Vorbehaltlosigkeit feststellen.
 2. Kollidierendes Verfassungsgut benennen (Verfassungsrang, nicht blosser Gemeinwohlbelang).

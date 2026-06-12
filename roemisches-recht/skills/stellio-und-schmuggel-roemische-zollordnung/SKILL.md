@@ -1,6 +1,6 @@
 ---
 name: stellio-und-schmuggel-roemische-zollordnung
-description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix im Römisches Recht."
+description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermögenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 133 Stellio Und Schmuggel Roemische Zollordnung
@@ -21,7 +21,7 @@ description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-,
 
 ## Tatbestand
 
-- Stellionatus: Vermoegensdelikte, die kein anderes Delikt erfuellen (Generalklausel).
+- Stellionatus: Vermögensdelikte, die kein anderes Delikt erfuellen (Generalklausel).
 - Schmuggel: Nichtdeklaration zollpflichtiger Ware.
 
 ## Strafe
@@ -45,7 +45,7 @@ description: "Stellio und Schmuggel im roemischen Reich: Strafregeln für Zoll-,
 - §§ 369 ff. AO Steuerhinterziehung.
 - Zollkodex der EU.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Ware betroffen?
 2. Welche Zollordnung?

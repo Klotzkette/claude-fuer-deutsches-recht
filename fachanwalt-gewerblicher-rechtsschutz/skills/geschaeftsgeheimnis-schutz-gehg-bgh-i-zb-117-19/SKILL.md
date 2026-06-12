@@ -1,13 +1,13 @@
 ---
 name: geschaeftsgeheimnis-schutz-gehg-bgh-i-zb-117-19
-description: "Geschaeftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
 ---
 
-# Geschaeftsgeheimnis Schutz Gehg BGH I Zb 117 19
+# Geschäftsgeheimnis Schutz Gehg BGH I Zb 117 19
 
 ## Einsatzlage
 
-Ehemaliger Mitarbeiter nimmt Kundenliste mit; Streit über Geschaeftsgeheimnis.
+Ehemaliger Mitarbeiter nimmt Kundenliste mit; Streit über Geschäftsgeheimnis.
 
 ## Normenanker
 

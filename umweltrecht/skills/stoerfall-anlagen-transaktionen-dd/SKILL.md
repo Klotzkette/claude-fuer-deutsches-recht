@@ -48,7 +48,7 @@ description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anla
 
 1. **Stoerfall-Relevanz prüfen**: Mengen gefaehrlicher Stoffe nach Anhang I 12. BImSchV — Spalte 1 oder 2.
 2. **Sicherheitskonzept Grundpflichten**: § 8 12. BImSchV — schriftliches Konzept Verhuetung Stoerfaelle.
-3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prueflauf alle 5 Jahre.
+3. **Sicherheitsbericht Erweiterte Pflichten**: § 16 12. BImSchV — Inhalt: Stoffe, Anlage, Risiken, Notfallplanung; Prüflauf alle 5 Jahre.
 4. **Anzeige/Genehmigung**: § 4 BImSchG, § 9 12. BImSchV — Behörde informieren vor Betriebsbeginn.
 5. **Sicherheitsabstand prüfen**: KAS-18-Leitfaden BG Chemie; Abstand zu schutzbeduerftigen Gebieten ermitteln.
 6. **Notfallplan**: § 10 12. BImSchV — interner Alarm- und Notfallplan; externe Information an Behörde.
@@ -58,9 +58,9 @@ description: "Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anla
 
 1. **Sofortanzeige**: § 19 12. BImSchV — unverzueglich an Behörde, Feuerwehr, Umweltamt.
 2. **Ursachenuntersuchung**: § 17 12. BImSchV — Bericht innerhalb angemessener Frist.
-3. **Massnahmenumsetzung**: Wiederholungsvermeidung; Dokumentation.
+3. **Maßnahmenumsetzung**: Wiederholungsvermeidung; Dokumentation.
 4. **Bussgeld-Abwehr**: § 62 BImSchG — schuldlose Pflichtverletzung, technisches Versagen ohne Vorwerfbarkeit?
-5. **Kommunikation Behörde**: Kooperationsbereitschaft zeigen; Massnahmenplan vorlegen.
+5. **Kommunikation Behörde**: Kooperationsbereitschaft zeigen; Maßnahmenplan vorlegen.
 
 ### Entscheidungsbaum Stoerfallrelevanz
 
@@ -84,7 +84,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Stellungnahme nach Storfallmeldung erstellen | Stellungnahme nach Schema; Template unten |
 | Variante A — Stoeranfall noch laufend keine Stellungnahme möglich | Krisenkommunikation zuerst; Stellungnahme nach Abschluss |
 | Variante B — Stoeranfall ohne Schaden nur formale Meldepflicht | Minimale Meldung; Stellungnahme kurzgefasst |
-| Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Massnahmenplan |
+| Variante C — Behörde droht Betriebsuntersagung | Dringlichkeit erhoehen; Stellungnahme mit Maßnahmenplan |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -131,7 +131,7 @@ Anlagen: Lageplan, Stofffliessschema, Messprotokoll
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

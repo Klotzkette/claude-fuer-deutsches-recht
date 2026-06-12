@@ -59,7 +59,7 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 - **Service-Permanent-Establishment** bei Indien/China nicht geprueft — eigene Tatbestaende.
 - **Limitation-on-Benefits (LOB)** bei US-DBA nicht geprueft — eigenstaendiger Anti-Missbrauchs-Tatbestand neben PPT.
 
-## Regionale Pruef-Checklisten
+## Regionale Prüf-Checklisten
 
 ### USA / Kanada
 - LOB-Klausel prüfen (DBA-USA Art. 28; DBA-Kanada Art. 28).
@@ -76,7 +76,7 @@ description: "DBA-Regionenrouter für Nicht-EU- und Sonderstaaten: USA, Kanada, 
 ### UK
 - Brexit: keine MTRL/ZinsLizenzRL.
 - LLP/Partnership: Qualifikationskonflikt.
-- Non-Domiciled / Remittance Basis: deutsche Sicht — auslaendische Einkuenfte in UK nur bei Remittance besteuert; § 50d Abs. 9 EStG-Prüfung.
+- Non-Domiciled / Remittance Basis: deutsche Sicht — ausländische Einkuenfte in UK nur bei Remittance besteuert; § 50d Abs. 9 EStG-Prüfung.
 - Pension: UK-DBA 2010 Sonderregelungen prüfen.
 
 ### Asien (China, Japan, Korea, Indien)

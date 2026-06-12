@@ -120,7 +120,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin unterstuetzt Spezialkanzleien, Wissenschaftler und Rechtsanwaelte bei verfassungsrechtlichen Pruefungen nach dem Grundgesetz. Es deckt alle Kernbereiche ab: Gesetzgebungskompetenz (Art. 70-74 GG), formelle Verfassungsmaessigkeit, Grundrechtspruefung im Drei-Schritt, Verhaeltnismaessigkeitspruefung, Gesetzentwurfs-Prüfung auf GG-Konformitaet und Verfassungsbeschwerde-Formulierung nach §§ 90 ff. BVerfGG.
+Dieses Plugin unterstuetzt Spezialkanzleien, Wissenschaftler und Rechtsanwaelte bei verfassungsrechtlichen Prüfungen nach dem Grundgesetz. Es deckt alle Kernbereiche ab: Gesetzgebungskompetenz (Art. 70-74 GG), formelle Verfassungsmaessigkeit, Grundrechtspruefung im Drei-Schritt, Verhältnismäßigkeitspruefung, Gesetzentwurfs-Prüfung auf GG-Konformitaet und Verfassungsbeschwerde-Formulierung nach §§ 90 ff. BVerfGG.
 
 Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentscheidungen und empfiehlt bei aktuellen Fragen die Live-Recherche auf bundesverfassungsgericht.de.
 
@@ -155,11 +155,11 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Pruefungsanlass (Gesetzentwurf, staatliche Maßnahme, Verfassungsbeschwerde), Verfahrensstadium.
+1. Mandantenkonstellation klären: Prüfungsanlass (Gesetzentwurf, staatliche Maßnahme, Verfassungsbeschwerde), Verfahrensstadium.
 2. Phase des Mandats bestimmen: Kompetenzpruefung, formelle Prüfung, Grundrechtspruefung, Verhältnismäßigkeit oder Beschwerde-Entwurf.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Eilfristen prüfen: Verfassungsbeschwerde-Frist ein Monat ab Zustellung (§ 93 Abs. 1 BVerfGG) bzw. ein Jahr bei Gesetzesbeschwerden.
-5. Anschluss-Skill bestimmen: nach Grundrechtspruefung folgt Verhaeltnismaessigkeitspruefung; nach Gesamtpruefung ggf. Verfassungsbeschwerde-Entwurf.
+5. Anschluss-Skill bestimmen: nach Grundrechtspruefung folgt Verhältnismäßigkeitspruefung; nach Gesamtpruefung ggf. Verfassungsbeschwerde-Entwurf.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -176,7 +176,7 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 **Grundrechte und Verhältnismäßigkeit**
 
 - `grundrechtspruefung` — Grundrechtspruefung im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung mit Wesensgehalt-Prüfung.
-- `verhaeltnismaessigkeit` — Verhaeltnismaessigkeitspruefung: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
+- `verhaeltnismaessigkeit` — Verhältnismäßigkeitspruefung: legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
 
 **Verfassungsbeschwerde**
 
@@ -196,11 +196,11 @@ Das Plugin ist rechtsprechungsgetrieben: Es orientiert sich an BVerfG-Leitentsch
 
 ## Typische Fehler
 
-- Verhaeltnismaessigkeitspruefung wird ohne Herausarbeitung eines legitimen Zwecks begonnen; Prüfung ist dann unvollstaendig.
+- Verhältnismäßigkeitspruefung wird ohne Herausarbeitung eines legitimen Zwecks begonnen; Prüfung ist dann unvollstaendig.
 - Verfassungsbeschwerde wird eingereicht ohne Rechtswegerschoepfung; BVerfG nimmt sie nicht zur Entscheidung an.
 - Grundrechtspruefung vermischt Schutzbereich und Eingriff; strukturelles Problem im Schriftsatz.
 - Gesetzgebungskompetenz wird nur für den Bund geprueft ohne Sperrwirkung und Abweichungsgesetzgebung zu beachten.
-- BVerfG-Judikatur aus den 1990er Jahren wird ohne Ueberpruefung auf Weitergeltung angewendet; Rechtsprechung kann sich geaendert haben.
+- BVerfG-Judikatur aus den 1990er Jahren wird ohne Überprüfung auf Weitergeltung angewendet; Rechtsprechung kann sich geaendert haben.
 
 ## Quellen und Aktualitaet
 

@@ -75,7 +75,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Modul 5: Bewaeltigung von und selbststaendiger Umgang mit krankheits-/therapiebedingten Anforderungen** (20 %).
  - **Modul 6: Gestaltung des Alltagslebens und sozialer Kontakte** (15 %).
 - **Pflegegrade § 15 SGB XI:** PG 1 (12,5-26,99 Pkt), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
-- **Wichtiger Pruefansatz:** **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig); MD-Gutachter neigen zu Unterbewertung - **Pflegetagebuch über 14 Tage** als Beleg.
+- **Wichtiger Prüfansatz:** **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig); MD-Gutachter neigen zu Unterbewertung - **Pflegetagebuch über 14 Tage** als Beleg.
 - **Antragsdatum entscheidend** § 33 SGB XI: Leistung ab Antragsmonat; Begutachtung soll regelmaessig binnen 25 Arbeitstagen § 18 III SGB XI (sonst 70 EUR pro Woche Saeumnis-Zuschlag).
 - **Widerspruch § 84 SGG:** 1 Monat ab Bekanntgabe; ueberzeugende Begruendung mit Detail-Pflegetagebuch, behandelnde Aerzte einbinden (Schweigepflichtentbindung).
 - **Erst-/Zweitgutachten:** Klage nach Widerspruch zum SG; § 109 SGG Wahl-Sachverstaendiger im Klageverfahren.

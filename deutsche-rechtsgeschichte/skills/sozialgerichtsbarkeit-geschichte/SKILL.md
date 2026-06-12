@@ -53,7 +53,7 @@ Die Sozialgerichtsbarkeit hat ihre Wurzeln in den Schiedsgerichten der Bismarcks
 ## Typische Streitfragen / Forschungsfragen
 
 1. War die Bismarckschen Sozialversicherung sozialpolitisches Instrument oder Mittel zur Arbeiterbefriedung?
-2. Verhaeltnis RVO 1911 zur heutigen SGB-Kodifikation: Kontinuitaet oder Bruch?
+2. Verhältnis RVO 1911 zur heutigen SGB-Kodifikation: Kontinuitaet oder Bruch?
 3. Unabhaengigkeit der Sozialgerichtsbarkeit im NS?
 4. Ostdeutsche Sozialversicherung 1990: Eingliederung oder Ersatz durch westdeutsches System?
 5. BSG-Rechtsprechung zur Rentenformel: Politische vs. rechtliche Bindung?

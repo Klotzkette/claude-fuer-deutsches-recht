@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-grundrechte-mittelbar
-description: Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erlaeutert Lueth-Linie objektive Wertordnung Ausstrahlungswirkung und wie Verhaeltnismaessigkeit als Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien zum Tragen kommt. Grenzen der Drittwirkung und Verhaeltnis zur Privatautonomie.
+description: Mittelbare Drittwirkung der Grundrechte im Privatrecht. Grundrechte wirken nicht unmittelbar zwischen Privaten sondern strahlen ueber die Generalklauseln Paragraphen 138 242 826 BGB in das Zivilrecht ein. Erläutert Lueth-Linie objektive Wertordnung Ausstrahlungswirkung und wie Verhältnismäßigkeit als Abwaegungsmassstab zwischen kollidierenden Grundrechten privater Parteien zum Tragen kommt. Grenzen der Drittwirkung und Verhältnis zur Privatautonomie.
 ---
 
 # Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit
@@ -26,9 +26,9 @@ Grundrechte wirken nicht direkt sondern durch das einfachrechtliche Vehikel:
 - Paragraph 315 BGB Bestimmung nach billigem Ermessen
 - unbestimmte Begriffe wie wichtiger Grund berechtigtes Interesse Treuwidrigkeit
 
-### Pruefungsschema
+### Prüfungsschema
 
-1. **Konflikt zwischen Privaten identifizieren** — welche Norm regelt das Verhaeltnis.
+1. **Konflikt zwischen Privaten identifizieren** — welche Norm regelt das Verhältnis.
 2. **Grundrechtspositionen beider Seiten benennen** — keine einseitige Sicht.
 3. **Einbruchstelle bestimmen** — Generalklausel oder unbestimmter Rechtsbegriff im Normprogramm.
 4. **Praktische Konkordanz herstellen** — schonender Ausgleich beider Grundrechte.
@@ -53,7 +53,7 @@ Das BVerfG verstaerkt die Drittwirkung wo eine Partei strukturell unterlegen ist
 - Handelsvertreterentscheidung BVerfGE 81 242 — Wettbewerbsverbote nach Vertragsende.
 - AGB-Kontrolle als institutionalisierte Drittwirkung.
 
-In diesen Konstellationen kann die Verhaeltnismaessigkeitspruefung zu einer faktisch eingriffsaehnlichen Kontrolle aufruecken.
+In diesen Konstellationen kann die Verhältnismäßigkeitspruefung zu einer faktisch eingriffsaehnlichen Kontrolle aufruecken.
 
 ## Tragende Leitentscheidungen
 

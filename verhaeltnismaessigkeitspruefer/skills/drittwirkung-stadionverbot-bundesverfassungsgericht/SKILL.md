@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-stadionverbot-bundesverfassungsgericht
-description: Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders stark in die Vertragsfreiheit ein. Verhaeltnismaessigkeit wird zum Pruefungsmassstab fuer Hausrechtsausuebung Plattformausschluesse und vergleichbare Konstellationen mit oeffentlicher Funktion.
+description: Stadionverbot-Entscheidung BVerfGE 148 267 als seltenes Beispiel einer eingriffsaehnlichen Drittwirkung. Wo Private faktisch oeffentliche Funktionen wahrnehmen und einen monopolartigen Zugang gewaehren strahlen Grundrechte besonders stark in die Vertragsfreiheit ein. Verhältnismäßigkeit wird zum Prüfungsmassstab fuer Hausrechtsausuebung Plattformausschluesse und vergleichbare Konstellationen mit oeffentlicher Funktion.
 ---
 
 # Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei oeffentlicher Funktion
@@ -17,7 +17,7 @@ Ein Fussballfan hatte ein bundesweites Stadionverbot der Bundesligavereine erhal
 
 ### Kernsatz
 
-In Sachverhaltskonstellationen die der staatlichen Bindung an Grundrechte vergleichbar sind können die Grundrechte auch im Verhaeltnis zwischen Privaten **eine den Grundrechtsbindungen des Staates aehnliche Wirkung** entfalten. Wo der Zugang zu einer Veranstaltung von erheblichem oeffentlichen Interesse einseitig durch private Veranstalter kontrolliert wird ist die Vertragsfreiheit durch das **Willkuerverbot** und das **Verhaeltnismaessigkeitsprinzip** begrenzt.
+In Sachverhaltskonstellationen die der staatlichen Bindung an Grundrechte vergleichbar sind können die Grundrechte auch im Verhältnis zwischen Privaten **eine den Grundrechtsbindungen des Staates aehnliche Wirkung** entfalten. Wo der Zugang zu einer Veranstaltung von erheblichem oeffentlichen Interesse einseitig durch private Veranstalter kontrolliert wird ist die Vertragsfreiheit durch das **Willkuerverbot** und das **Verhältnismäßigkeitsprinzip** begrenzt.
 
 ## Voraussetzungen der eingriffsaehnlichen Drittwirkung
 
@@ -28,13 +28,13 @@ In Sachverhaltskonstellationen die der staatlichen Bindung an Grundrechte vergle
 
 Sind alle vier Voraussetzungen erfuellt naehert sich die Bindung der Bindung an Grundrechte gegenueber dem Staat an.
 
-## Pruefungsschema
+## Prüfungsschema
 
 1. **Identifikation der Konstellation** — kommerzieller Veranstalter mit oeffentlicher Reichweite.
 2. **Vergleich mit staatlicher Funktion** — wie weit reicht die oeffentliche Funktion.
 3. **Sachgrund für den Ausschluss** — keine Willkuer keine Stigmatisierung.
 4. **Verhältnismäßigkeit der Maßnahme** — Geeignetheit Erforderlichkeit Angemessenheit angepasst auf das Privatrechtsverhaeltnis.
-5. **Verfahrensanforderungen** — Anhoerung Begruendung Befristung Ueberpruefung.
+5. **Verfahrensanforderungen** — Anhoerung Begruendung Befristung Überprüfung.
 
 ## Anwendungsfelder
 
@@ -44,7 +44,7 @@ Sind alle vier Voraussetzungen erfuellt naehert sich die Bindung der Bindung an 
 - Sportverbaende und Sanktionen mit erheblicher Berufsausuebungswirkung.
 - Akkreditierungen bei Medien- oder Wissenschaftsveranstaltungen.
 
-## Verhaeltnis zur klassischen mittelbaren Drittwirkung
+## Verhältnis zur klassischen mittelbaren Drittwirkung
 
 Die Stadionverbot-Linie ist **keine** unmittelbare Drittwirkung im Sinne einer direkten Grundrechtsbindung Privater. Sie ist eine **verstaerkte Auspraegung** der mittelbaren Drittwirkung in Sonderkonstellationen. Die Wirkungsweise bleibt: Generalklauseln des Zivilrechts werden grundrechtskonform ausgelegt. Die Intensitaet der Kontrolle naehert sich aber der staatlichen Eingriffskontrolle an.
 

@@ -27,7 +27,7 @@ description: "Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forde
 ## Konflikt-Klassifikation
 
 - **echter Widerspruch:** beide Antworten beanspruchen dieselbe Tatsache aber unterscheiden sich. Prüfer-Flag rot.
-- **legitime perspektivische Abweichung:** Arbeitsblätter haben unterschiedliche Pruefmassstaebe. Vermerk gelb.
+- **legitime perspektivische Abweichung:** Arbeitsblätter haben unterschiedliche Prüfmassstaebe. Vermerk gelb.
 - **Datenfehler:** OCR-Konfidenz schwach in einem der Arbeitsblätter — Re-Run dieser Zelle.
 - **Klassifikationsfehler:** Dokumenttyp falsch erkannt — Zeile neu klassifizieren.
 
@@ -43,4 +43,4 @@ description: "Kreuzblatt-Konsistenzprüfung: Abgleich der drei Dimensionen Forde
 ## Beispiele
 
 - **echter Widerspruch:** Kundenvertrag-042. Spalte 'Laufzeit'. Recht: '3 Jahre + 1 Jahr Verlängerung'. Wirtschaft: '4 Jahre Festlaufzeit'. Echter Widerspruch — Wirtschaft hat den Vertrag verkürzt gelesen.
-- **legitime Abweichung:** Lizenzvertrag-018. Spalte 'Haftung'. Recht: 'unwirksam BGB Paragraph 309 Nr 7'. Steuer: 'irrelevant — Pauschalhaftungs-Aufwand absetzbar'. Legitim — unterschiedliche Pruefmassstaebe.
+- **legitime Abweichung:** Lizenzvertrag-018. Spalte 'Haftung'. Recht: 'unwirksam BGB Paragraph 309 Nr 7'. Steuer: 'irrelevant — Pauschalhaftungs-Aufwand absetzbar'. Legitim — unterschiedliche Prüfmassstaebe.

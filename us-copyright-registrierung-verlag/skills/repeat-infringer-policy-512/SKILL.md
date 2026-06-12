@@ -1,6 +1,6 @@
 ---
 name: repeat-infringer-policy-512
-description: "Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken im Us Copyright Registrierung Verlag."
+description: "Prüft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken im Us Copyright Registrierung Verlag."
 ---
 
 # Repeat Infringer Policy

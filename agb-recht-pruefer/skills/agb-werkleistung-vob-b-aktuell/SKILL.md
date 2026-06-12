@@ -1,13 +1,13 @@
 ---
 name: agb-werkleistung-vob-b-aktuell
-description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (..."
+description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Änderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Änderungen zum Bauvertragsrecht (..."
 ---
 
 # Agb Werkleistung Vob B Aktuell
 
 ## Fachkern: Agb Werkleistung Vob B Aktuell
 
-- **Klauselproblem (Agb Werkleistung Vob B Aktuell):** AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Aenderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Aenderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Pruefraster.
+- **Klauselproblem (Agb Werkleistung Vob B Aktuell):** AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behandelt die VOB-B-Klauseln zur Maengelhaftung Abnahme Sicherheitsleistung und Änderungsanordnung Klausel-für-Klausel-Wirksamkeitspruefung gegen § 307 BGB. BGH-Aktuelles zu §§ 12 13 17 VOB-B. Behandelt Änderungen zum Bauvertragsrecht (§§ 650a ff. BGB). Liefert Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -37,7 +37,7 @@ description: "AGB im Werkvertragsrecht VOB-B in aktueller Fassung. Skill behande
 - §§ 650a ff. BGB (Bauvertrag) gelten zwingend in B2C-Bauvertraegen.
 - VOB-B im B2C-Bauvertrag praktisch nicht uebernehmbar.
 
-## Pruefraster
+## Prüfraster
 
 1. B2B oder B2C?
 2. VOB-B vollstaendig einbezogen?

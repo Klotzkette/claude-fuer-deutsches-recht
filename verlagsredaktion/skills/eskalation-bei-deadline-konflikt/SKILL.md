@@ -1,6 +1,6 @@
 ---
 name: eskalation-bei-deadline-konflikt
-description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails für Autor, Programmleitung und Geschaeftsfuehrung im Verlagsredaktion."
+description: "Eskalation bei Deadline-Konflikt: strukturierte Hochstufung von Manuskript-, Druck-, Honorar- oder Auslieferungsterminen mit Mustermails für Autor, Programmleitung und Geschäftsführung im Verlagsredaktion."
 ---
 
 # Eskalation bei Deadline-Konflikt

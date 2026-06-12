@@ -149,7 +149,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `iv-plan-planbetroffene-auswahl` | Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen… |
 | `iv-plan-planvollzug-monitoring` | Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants… |
 | `iv-plan-redteam-qualitygate` | Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger und Gericht. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit Bewertungswiderspruch… |
-| `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete… |
+| `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Maßnahmenpakete… |
 | `iv-plan-sicherheiten-drittsicherheiten` | Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister… |
 | `iv-plan-stabilisierung-starug` | StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit… |
 | `iv-plan-stakeholder-kommunikation` | Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO Planeroerterung §§ 17 20 StaRUG Gläubigerinfo. Prüfraster:… |
@@ -176,7 +176,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 ## Wann brauchen Sie diese Skill?
 
 - Sie wurden als Insolvenzverwalter bestellt und müssen das Verfahren strukturieren, Prioritaeten setzen und erste Maßnahmen einleiten.
-- Sie prüfen Anfechtungsansprueche nach §§ 129 ff. InsO und benoetigen einen strukturierten Pruefrahmen mit Fristen und Vergleichspotenzial.
+- Sie prüfen Anfechtungsansprueche nach §§ 129 ff. InsO und benoetigen einen strukturierten Prüfrahmen mit Fristen und Vergleichspotenzial.
 - Sie erstellen ein Eroeffnungsgutachten für das Insolvenzgericht: Zahlungsunfaehigkeit, Ueberschuldung, Massekostendeckung.
 - Sie sollen einen Insolvenzplan oder StaRUG-Restrukturierungsplan vollstaendig aufbauen und vor Einreichung Quality-Gate durchfuehren.
 - Die Verfahrensschlussphase naht: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote müssen erstellt werden.
@@ -191,7 +191,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - **Cramdown** — Gruppenuebergreifende Mehrheitsentscheidung nach § 245 InsO / § 27 StaRUG; Plan kann über ablehnende Klassen hinweggesetzt werden.
 - **Vergleichsrechnung** — Gegenueberstellen von Plan-Fall und Liquidationsszenario zur Demonstration des Planmehrwerts.
 - **PSV** — Pensionssicherungsverein; sichert Pensionsansprueche der Arbeitnehmer bei Insolvenz des Arbeitgebers.
-- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschaeftsleiters für nicht privilegierte Zahlungen.
+- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife; Haftung des Geschäftsleiters für nicht privilegierte Zahlungen.
 
 ## Rechtsgrundlagen
 
@@ -222,10 +222,10 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-aktenanlage-verfahrenscockpit` — Neue Verfahrensakte anlegen und Verfahrenscockpit mit Gliederung, Rollenplan und Fristenliste strukturieren.
 - `iv-anfechtung-129ff` — Insolvenzanfechtungsansprueche nach §§ 129 ff. InsO prüfen und verfolgen.
 - `iv-arbeitsrecht-insolvenzgeld` — Personalthemen in der Insolvenz bearbeiten: Lohnrueckstaende, Insolvenzgeld, Kuendigungen.
-- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen für Insolvenzgericht und Glaeubiger erstellen.
+- `iv-berichte-gericht-glaeubiger` — Zwischenberichte und Beschlussvorlagen für Insolvenzgericht und Gläubiger erstellen.
 - `iv-eigenverwaltung-sachwaltung` — Sachwalter-Kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO.
 - `iv-eroeffnungsgutachten` — Eroeffnungsgutachten als Sachverstaendiger oder vorläufiger Verwalter erstellen.
-- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Pruefungstermin vorbereiten.
+- `iv-forderungsanmeldung-pruefung` — Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten.
 - `iv-idw-s6-sanierungsfaehigkeit-gate` — Sanierungskonzept und Sanierungsfähigkeit vor Planroute, Schutzschirm oder StaRUG hart plausibilisieren.
 - `iv-kommandocenter` — Einstiegspunkt: Verfahrensart bestimmen, Prioritaeten setzen und Workstreams planen.
 - `iv-masseeinsammlung` — Massepositionen erfassen und realisieren: Bankguthaben, Debitoren, Herausgabeansprueche.
@@ -241,16 +241,16 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-plan-gruppen-klassenbildung` — Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden.
 - `iv-plan-insolvenzplan-architektur` — Vollstaendigen Insolvenzplan nach §§ 217 ff. InsO von Grund auf strukturieren.
 - `iv-plan-integrierte-planung` — Integrierte Planrechnung aus GuV, Liquiditaet und Bilanz erstellen.
-- `iv-plan-kaltstart-interview` — Erstes Mandatsgespraech strukturieren: Basisdaten, Krisenursachen, Glaeubigerlandschaft.
+- `iv-plan-kaltstart-interview` — Erstes Mandatsgespraech strukturieren: Basisdaten, Krisenursachen, Gläubigerlandschaft.
 - `iv-plan-kommandocenter` — Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute bestimmen.
 - `iv-plan-minderheitenschutz` — Schlechterstellungsrisiken einzelner Beteiligter analysieren und Planverbesserungen vorschlagen.
 - `iv-plan-planbetroffene-auswahl` — Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begruenden.
 - `iv-plan-planvollzug-monitoring` — Planvollzug nach Bestaetigung ueberwachen: Zahlungen, Covenants, Abweichungen.
-- `iv-plan-redteam-qualitygate` — Insolvenzplan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Glaeubiger.
+- `iv-plan-redteam-qualitygate` — Insolvenzplan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger.
 - `iv-plan-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage für Plan erstellen oder prüfen.
 - `iv-plan-sicherheiten-drittsicherheiten` — Absonderungsrechte und Drittsicherheiten im Plan planfest behandeln.
 - `iv-plan-stabilisierung-starug` — StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen.
-- `iv-plan-stakeholder-kommunikation` — Glaeubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
+- `iv-plan-stakeholder-kommunikation` — Gläubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
 - `iv-plan-starug-plan-architektur` — StaRUG-Restrukturierungsplan vollstaendig strukturieren.
 - `iv-plan-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans prüfen: Sanierungsgewinn, Verlustvortraege.
 - `iv-plan-verfahrenswahl` — Passenden Sanierungsrahmen auswaehlen: Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG.
@@ -260,10 +260,10 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - `iv-schutzschirm-270d` — Schutzschirmverfahren nach § 270d InsO von Antrag bis Planvorlageschluss begleiten.
 - `iv-sicherung-betriebsfortfuehrung` — Betrieb in Insolvenz fortfuehren: Cash-Bridge, Insolvenzgeld, kritische Lieferanten.
 - `iv-steuern-sozialversicherung` — Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Verfahren klassifizieren.
-- `iv-tabelle-pruefungstermin` — Insolvenztabelle konsolidieren und Pruefungstermin nach §§ 175 ff. InsO vorbereiten.
+- `iv-tabelle-pruefungstermin` — Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten.
 - `iv-verteilung-schlussrechnung` — Abschlussphase: Schlussrechnung, Schlussbericht, Verteilungsverzeichnis und Quote.
 - `iv-vorläufige-verwaltung` — Erste Maßnahmen als vorläufiger Insolvenzverwalter nach § 21 InsO umsetzen.
-- `iv-zahlungsklagen-15b` — Zahlungsklagen nach § 15b InsO gegen Geschaeftsleiter nach Insolvenzreife vorbereiten.
+- `iv-zahlungsklagen-15b` — Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter nach Insolvenzreife vorbereiten.
 
 ## Worauf besonders achten
 
@@ -278,7 +278,7 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 - Betriebsfortfuehrungs-Masse nicht abgegrenzt: Alt- und Neumasseverbindlichkeiten werden vermischt.
 - Anfechtungsfristen nach § 129 InsO verschlafen; Ansprueche verjahren in drei Jahren ab Verfahrenseroeffnung.
 - Insolvenzplan ohne Vergleichsrechnung eingereicht; Gericht weist bei Vorpruefung zurueck.
-- StaRUG-Planbetroffene ohne Begruendung ausgewaehlt; Anfechtungsrisiko durch uebergangene Glaeubiger.
+- StaRUG-Planbetroffene ohne Begruendung ausgewaehlt; Anfechtungsrisiko durch uebergangene Gläubiger.
 - Sachwalter-Kontrolle bei Eigenverwaltung vernachlaessigt; Haftungsrisiko des Sachwalters bei unterlassener Beanstandung.
 
 ## Quellen und Aktualitaet

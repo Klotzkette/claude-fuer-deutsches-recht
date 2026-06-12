@@ -61,7 +61,7 @@ Eigentum, Besitz und Nutzung sind über mehrere Titel verteilt: Sachen (I 2), Ei
 - Streit über Hutungsrechte in Ostpreussen, Brandenburg und Hinterpommern vor 1945 als Massenphaenomen.
 - Streit um Erbpacht: das ALR-Erbenzinsverhaeltnis war Vorbild für das spaetere Erbbaurecht.
 
-### Pruefraster
+### Prüfraster
 1. Beweglich oder unbeweglich? Bei Unbeweglichem heutiges Grundbuchamt einschalten.
 2. Altrecht im Grundbuch eingetragen? — § 5 GBO und § 184 EGBGB.
 3. Berechtigter und Verpflichteter durch Rechtsnachfolge bis heute belegbar?

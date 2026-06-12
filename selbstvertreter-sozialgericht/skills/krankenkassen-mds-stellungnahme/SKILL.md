@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-mds-stellungnahme
-description: "Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster."
+description: "Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Prüfung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Prüfraster."
 ---
 
 # Krankenkassen Mds Stellungnahme
@@ -49,7 +49,7 @@ description: "Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill
 - Subjektive Eindrucks-Bewertung.
 - Telefonbegutachtung oft kritisch.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Gutachten?
 2. Akteneinsicht erfolgt?

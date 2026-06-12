@@ -84,7 +84,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Restrukturierungsplan einleiten | StaRUG-Verfahren nach § 29 StaRUG; Template unten |
 | Variante A — Schuldner will aussergerichtliche Einigung | Sanierungs-Moderationsverfahren vor Planverfahren prüfen (§§ 94 ff. StaRUG) |
-| Variante B — Glaeubiger blockieren Plan | Obstruktionsverbot § 26 StaRUG prüfen; Gruppenbildung optimieren |
+| Variante B — Gläubiger blockieren Plan | Obstruktionsverbot § 26 StaRUG prüfen; Gruppenbildung optimieren |
 | Variante C — Insolvenznaehe kritisch | Insolvenzantrag ggf. vorzuziehen wenn StaRUG-Fristen nicht haltbar |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -227,7 +227,7 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 Bevor losgelegt wird, klaere:
 
 1. **Nur drohende ZU § 18 InsO?** Bei eingetretener ZU sofort InsO-Antragspflicht § 15a InsO.
-2. **Welche Klassen geplant?** Finanzglaeubiger, Lieferanten, gesicherte Glaeubiger, Arbeitnehmer-Klasse?
-3. **75%-Mehrheit realistisch?** Wer ist der groesste Glaeubiger und will er mitziehen?
+2. **Welche Klassen geplant?** Finanzglaeubiger, Lieferanten, gesicherte Gläubiger, Arbeitnehmer-Klasse?
+3. **75%-Mehrheit realistisch?** Wer ist der groesste Gläubiger und will er mitziehen?
 4. **Cramdown-Szenario?** § 26 StaRUG — Falls eine Klasse ablehnt: Best-Interest-Test bestanden?
 5. **Restrukturierungsgericht anzeigen?** § 31 StaRUG konstitutiv — ohne Anzeige kein Schutz und kein Plan.

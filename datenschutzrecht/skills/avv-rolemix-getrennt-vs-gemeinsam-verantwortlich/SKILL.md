@@ -14,7 +14,7 @@ description: "Abgrenzung Rollenmix Art: 4 Nr. 7 versus Art. 26 versus Art. 28 DS
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Pruefvermerk zur Rollenzuordnung.
+**Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Prüfvermerk zur Rollenzuordnung.
 
 ### Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
 
@@ -65,11 +65,11 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
  - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
 
 4. **Negativindizien gegen Joint Control.**
- - Reiner Datenfluss zwischen zwei getrennten Geschaeften ohne abgestimmte Verarbeitung.
+ - Reiner Datenfluss zwischen zwei getrennten Geschäften ohne abgestimmte Verarbeitung.
  - Jeder Akteur hat eigene Rechtsgrundlage und eigenen Zweck.
  - Keine gemeinsame Bewerbung oder Organisation.
 
-5. **Pruefraster (Stufenmodell).**
+5. **Prüfraster (Stufenmodell).**
  - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
  - Stufe 2: Wer entscheidet über Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
  - Stufe 3: Liegt gemeinsame Entscheidung auch über wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
@@ -77,7 +77,7 @@ Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in 
 
 ## Mustertext / Template
 
-Pruefvermerk-Vorlage zur Rollenzuordnung:
+Prüfvermerk-Vorlage zur Rollenzuordnung:
 
 ```
 Pruefvermerk Rollenzuordnung DSGVO

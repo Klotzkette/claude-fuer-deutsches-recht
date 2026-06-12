@@ -1,9 +1,9 @@
 ---
 name: geschaeftsfuehrerhaftung
-description: "Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: ordnet Normen, Nutze..."
+description: "Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutze..."
 ---
 
-# Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+# Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: or
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Fachanwalt Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
+**Fokus:** Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Prüfungslinie für fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -124,9 +124,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GF-Haftung prüfen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
+| Standard — GF-Haftung prüfen und Klage vorbereiten | Prüfschema; Schriftsatzbausteine unten |
 | Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss prüfen |
-| Variante B — Aussenhaeftung Glaeubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
+| Variante B — Aussenhaeftung Gläubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
 | Variante C — Steuerhaftung § 69 AO | Finanzbehorde parallel; privatrechtliche Klage koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.

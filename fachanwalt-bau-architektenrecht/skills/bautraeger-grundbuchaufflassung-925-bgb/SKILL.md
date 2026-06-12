@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchaufflassung-925-bgb
-description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster."
+description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhältnis zur Vormerkung. Notarielle Beurkundung. Liefert Prüfraster."
 ---
 
 # Aufflassung nach § 925 BGB beim Bautraegervertrag
@@ -14,7 +14,7 @@ description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert d
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster.
+**Fokus:** Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhältnis zur Vormerkung. Notarielle Beurkundung. Liefert Prüfraster.
 
 ### Bautraeger Grundbuchaufflassung 925 Bgb
 
@@ -36,12 +36,12 @@ description: "Aufflassung nach § 925 BGB beim Bautraegervertrag: Skill klaert d
 
 - "Bedingungslose Aufflassung" gibt es nicht — die Bedingung ist die Zahlung.
 
-## Verhaeltnis zur Vormerkung
+## Verhältnis zur Vormerkung
 
 - Vormerkung sichert den Anspruch auf Aufflassung.
 - Aufflassung mit Eintragung ist der eigentliche Eigentumserwerb.
 
-## Pruefraster
+## Prüfraster
 
 1. Aufflassung notariell erklaert?
 2. Bedingungsklausel?

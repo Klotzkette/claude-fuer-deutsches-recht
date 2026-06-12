@@ -3,7 +3,7 @@ name: klage-zur-niederschrift-90-sgg
 description: "Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger."
 ---
 
-# Klage auf der Geschaeftsstelle diktieren — § 90 SGG
+# Klage auf der Geschäftsstelle diktieren — § 90 SGG
 
 ## Fachlicher Anker
 
@@ -29,7 +29,7 @@ Sie können Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schre
 ## Fachbegriffe (kurz erklaert)
 
 - **Niederschrift**: Ein offizielles schriftliches Protokoll.
-- **Geschaeftsstelle**: Buero im Sozialgericht, wo Sie Antraege und Klagen abgeben.
+- **Geschäftsstelle**: Buero im Sozialgericht, wo Sie Antraege und Klagen abgeben.
 - **Rechtsantragsstelle**: Spezielle Stelle, die Buergern beim Formulieren hilft.
 
 ## Rechtsgrundlagen
@@ -43,7 +43,7 @@ Sie können Ihre Klage muendlich machen. Im Sozialgericht. Ein Mitarbeiter schre
 
 Rufen Sie das Sozialgericht an. Sagen Sie: "Ich moechte eine Klage zur Niederschrift abgeben. Wann kann ich kommen?"
 
-Oeffnungszeiten der Geschaeftsstellen meistens:
+Oeffnungszeiten der Geschäftsstellen meistens:
 
 - Montag bis Donnerstag 8:00 bis 12:00 Uhr
 - Manche auch 14:00 bis 15:30 Uhr
@@ -60,7 +60,7 @@ Manche SG haben offene Sprechstunden, andere arbeiten nur mit Termin.
 - Versicherungsnummer / Aktenzeichen
 - Bei Bedarf Adresse der beklagten Behörde
 
-### Schritt 3 — Was die Geschaeftsstelle macht
+### Schritt 3 — Was die Geschäftsstelle macht
 
 Sie erzaehlen Ihren Fall. Der Mitarbeiter:
 
@@ -89,7 +89,7 @@ Sie bekommen eine Kopie der Niederschrift. Aufheben! Das ist Ihr Beweis.
 ## Worauf Sie besonders achten müssen
 
 - **Klagebegruendung kann nachgereicht werden**: Bei der Niederschrift müssen Sie nicht alle Details liefern. Erst Klage einreichen, Frist sichern; Begruendung folgt schriftlich.
-- **Mitarbeiter sind freundlich**: Auf den Geschaeftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
+- **Mitarbeiter sind freundlich**: Auf den Geschäftsstellen arbeiten Personen, die genau dafür da sind, Buergern zu helfen.
 - **Sprache**: Wenn Sie Deutsch nicht gut sprechen: Dolmetscher kann möglich sein (siehe `dolmetscher-beim-sozialgericht-laien`). Vorher anfragen.
 - **Begleitperson**: Sie dürfen jemanden mitnehmen. Familienmitglied, Freund, Sozialberater.
 

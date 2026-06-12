@@ -22,7 +22,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 
 - **NKRG** § 7 — Jahresbericht
 - **GGO** §§ 5, 6 — Pressearbeit der Bundesregierung
-- **NKR-Geschaeftsordnung** (intern) — Pressepraxis
+- **NKR-Geschäftsordnung** (intern) — Pressepraxis
 - **NKR-Jahresbericht** (jeweils aktuelle Ausgabe)
 
 ## Drei kommunikative Instrumente
@@ -48,7 +48,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 - vor Erscheinen einer wichtigen Stellungnahme
 - vorbereitend / einordnend
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Wann Pressemitteilung
 
@@ -119,7 +119,7 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 > **NKR-Befassung:** [Datum]
 > **Erfuellungsaufwand:** 320 Mio EUR/Jahr (Wirtschaft), 180 Mio EUR/Jahr (Verwaltung), 35 Mio EUR einmalig
 > **NKR-Empfehlungen:** zentrale Loesung; jaehrliche statt monatliche Bestaetigung; Evaluationsklausel; KMU-Schwellenwert
-> **Stand bei Redaktionsschluss:** Aenderungsantrag Bundestag aufgegriffen; reduzierter Aufwand 95 Mio EUR/Jahr
+> **Stand bei Redaktionsschluss:** Änderungsantrag Bundestag aufgegriffen; reduzierter Aufwand 95 Mio EUR/Jahr
 
 ## Typische Fehler in Pressearbeit
 
@@ -132,6 +132,6 @@ Rueckfrage nur wenn unklar: *"Pressehinweis, Jahresberichts-Eintrag, Hintergrund
 
 - NKRG vom 14.08.2006 (BGBl. I S. 1866) § 7
 - §§ 5, 6 GGO
-- NKR-Geschaeftsordnung (intern)
+- NKR-Geschäftsordnung (intern)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - Live verifizieren über [www.normenkontrollrat.bund.de](https://www.normenkontrollrat.bund.de)

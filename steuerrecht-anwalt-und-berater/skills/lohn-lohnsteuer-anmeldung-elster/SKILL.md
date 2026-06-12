@@ -86,7 +86,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch über ELSTER an das Finanzamt uebermi
 ### Phase 5 — Zahlung
 
 - LSt-Faelligkeit: 10. des Folgemonats.
-- Ueberweisung an FA-Konto.
+- Überweisung an FA-Konto.
 - Verspaetungszuschlag § 152 AO: bis 10 Prozent der Anmeldung, max. 25.000 EUR.
 - Saeumniszuschlag § 240 AO: 1 Prozent pro Monat.
 

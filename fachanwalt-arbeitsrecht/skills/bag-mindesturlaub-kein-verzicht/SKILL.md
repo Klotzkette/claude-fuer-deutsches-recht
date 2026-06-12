@@ -54,7 +54,7 @@ Die saubere Vergleichsformulierung trennt drei Schichten:
 2. **Vertraglicher Mehrurlaub** — frei verhandelbar, kann verzichtet werden.
 3. **Urlaubsabgeltung nach Beendigung** — Geldanspruch, dispositiv, muss konkret beziffert sein.
 
-## Pruefschema
+## Prüfschema
 
 | Schritt | Prüfung |
 | --- | --- |
@@ -69,14 +69,14 @@ Die saubere Vergleichsformulierung trennt drei Schichten:
 
 ## Empfohlene Vergleichsformulierung
 
-Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] endet. Bis zum Beendigungstermin ist die Klaegerin unwiderruflich von der Arbeitsleistung freigestellt. Saemtliche Urlaubsansprueche, einschliesslich des gesetzlichen Mindesturlaubs nach Paragraf 3 BUrlG sowie des vertraglichen Mehrurlaubs, werden waehrend der Freistellung in natura gewaehrt und sind damit erfuellt. Sollten Urlaubsansprueche aufgrund von Arbeitsunfaehigkeit nicht in natura gewaehrt werden können, werden diese zum Beendigungstermin als Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG in Höhe von brutto [Betrag] Euro ausgezahlt.
+Die Parteien sind sich darueber einig, dass das Arbeitsverhaeltnis zum [Datum] endet. Bis zum Beendigungstermin ist die Klägerin unwiderruflich von der Arbeitsleistung freigestellt. Saemtliche Urlaubsansprueche, einschliesslich des gesetzlichen Mindesturlaubs nach Paragraf 3 BUrlG sowie des vertraglichen Mehrurlaubs, werden waehrend der Freistellung in natura gewaehrt und sind damit erfuellt. Sollten Urlaubsansprueche aufgrund von Arbeitsunfaehigkeit nicht in natura gewaehrt werden können, werden diese zum Beendigungstermin als Urlaubsabgeltung nach Paragraf 7 Absatz 4 BUrlG in Höhe von brutto [Betrag] Euro ausgezahlt.
 
 ## Klausel-Verbote
 
 | Formulierung | Problem |
 | --- | --- |
 | "Saemtliche Urlaubsansprueche sind abgegolten." | Pauschal, erfasst Mindesturlaub im laufenden Arbeitsverhaeltnis unwirksam |
-| "Die Klaegerin verzichtet auf restlichen Urlaub." | Verzicht im laufenden Verhaeltnis unwirksam |
+| "Die Klägerin verzichtet auf restlichen Urlaub." | Verzicht im laufenden Verhältnis unwirksam |
 | "Urlaubsabgeltung ist mit der Abfindung abgegolten." | Keine konkrete Bezifferung, keine Trennung |
 
 ## Nachforderungsmoeglichkeit

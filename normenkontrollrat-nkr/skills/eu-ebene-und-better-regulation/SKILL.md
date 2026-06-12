@@ -26,10 +26,10 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 - **Better Regulation Guidelines / Toolbox** der EU-Kommission
 - **Regulatory Scrutiny Board (RSB)** der EU-Kommission — funktionales Pendant zum NKR
 - **REFIT-Programm** der EU-Kommission
-- **NKRG** § 4 — Pruefungsgegenstand auch bei EU-Umsetzung
+- **NKRG** § 4 — Prüfungsgegenstand auch bei EU-Umsetzung
 - **HdR Teil B** — Umsetzung von EU-Recht
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Rechtsaktstyp identifizieren**:
  - Richtlinie (Umsetzung) -> nationaler Gestaltungsspielraum, Goldplating-Gefahr
@@ -48,7 +48,7 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 5. **EU-Folgenabschaetzung einbeziehen**:
  - Impact Assessment der EU-Kommission lesen
  - RSB-Opinion lesen
- - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhaeltnisse adaptieren
+ - Daten als Ausgangspunkt verwenden, dann auf deutsche Verhältnisse adaptieren
 6. **REFIT-Programme nutzen**:
  - Wenn EU bereits Vereinfachung andenkt, nicht national verschaerfen
 

@@ -35,7 +35,7 @@ Art. 17 MAR (Ad-hoc-Publizitaet; Insiderinformationen) — §§ 33 ff. WpHG (Sti
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Monitoring-Kategorien und Pruefliste
+## Monitoring-Kategorien und Prüfliste
 
 ### A: Datenraum-Monitoring (Pre-Signing)
 
@@ -138,7 +138,7 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Komplexe Eingaenge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurueckspielen.
 - Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknuepfen.

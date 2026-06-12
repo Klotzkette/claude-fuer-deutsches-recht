@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-strafmass-geldstrafe
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Ant..."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Ant..."
 ---
 
 # Freiheitsstrafe — Strafmass prüfen
@@ -80,7 +80,7 @@ Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbez
 - Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
 - Lange Verfahrensdauer ruegen und Kompensation einfordern.
 - Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
-- Wirtschaftliche und persönliche Verhaeltnisse substantiiert vortragen.
+- Wirtschaftliche und persönliche Verhältnisse substantiiert vortragen.
 
 ## Antrags-Strategie Staatsanwaltschaft
 

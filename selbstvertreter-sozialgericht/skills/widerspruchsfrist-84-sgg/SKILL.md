@@ -74,9 +74,9 @@ Endet die Frist an einem Samstag, Sonntag oder Feiertag? Dann verlaengert sich d
 
 Schreiben Sie das genaue Datum groß in den Kalender. Setzen Sie sich eine Erinnerung drei Tage vorher. Lieber zu frueh handeln als zu spaet.
 
-### Schritt 6 — Bei Unsicherheit zur Geschaeftsstelle
+### Schritt 6 — Bei Unsicherheit zur Geschäftsstelle
 
-Auf der Geschaeftsstelle des SG können Sie nach dem genauen Fristende fragen. Die Mitarbeiter helfen.
+Auf der Geschäftsstelle des SG können Sie nach dem genauen Fristende fragen. Die Mitarbeiter helfen.
 
 ## Worauf Sie besonders achten müssen
 
@@ -93,4 +93,4 @@ Auf der Geschaeftsstelle des SG können Sie nach dem genauen Fristende fragen. D
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschaeftsstelle anrufen.
+Stand: 05/2026. PostModG seit 1.1.2025 hat die Drei-Tage-Fiktion auf vier Tage geaendert. § 37 Abs. 2 SGB X n.F. Wer mit alten Bescheiden arbeitet, muss Tage zaehlen. Bei Unsicherheit Geschäftsstelle anrufen.

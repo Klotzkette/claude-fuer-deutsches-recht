@@ -1,6 +1,6 @@
 ---
 name: pruefung-erstpruefung-und-mandatsziel
-description: "Pruefung: Erstprüfung, Rollenklärung und Mandatsziel."
+description: "Prüfung: Erstprüfung, Rollenklärung und Mandatsziel."
 ---
 
 # Prüfung: Erstprüfung, Rollenklärung und Mandatsziel

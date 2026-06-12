@@ -3,7 +3,7 @@ name: restitutio-integrum-seehandel-lex-fenus
 description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Q"
 ---
 
-# Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
+# Rom 121 Restitutio In Integrum Ob Aetatem Vermögensschutz
 
 ## Arbeitsweg
 
@@ -22,32 +22,32 @@ description: "Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemi
 ## Tatbestand
 
 - Adolescens (junger Mann unter 25 Jahre).
-- Vermoegensnachteil durch eigenes Geschäft.
+- Vermögensnachteil durch eigenes Geschäft.
 - Geschäft an sich wirksam, aber praetorische Restitution möglich.
 
 ## Voraussetzungen
 
 - Antrag innerhalb einer Frist (annus utilis nach Volljaehrigkeit).
-- Nachweis des Vermoegensnachteils.
+- Nachweis des Vermögensnachteils.
 
 ## Rechtsfolge
 
 - Aufhebung der wirtschaftlichen Nachteile.
-- Rueckgaengigmachung des Geschaefts.
+- Rueckgaengigmachung des Geschäfts.
 
-## Verhaeltnis zur cura minorum
+## Verhältnis zur cura minorum
 
 - Mit 25 Jahren konnte ein cura minorum bestellt werden, um vorbeugend zu schuetzen (Lex Iulia et Titia).
 
 ## Fortwirkung
 
-- Heute §§ 104 ff. BGB Geschaeftsfaehigkeit.
+- Heute §§ 104 ff. BGB Geschäftsfaehigkeit.
 - § 108 ff. BGB: schwebende Unwirksamkeit Minderjaehrigenvertraege.
 - § 1644 BGB Gerichtliche Genehmigung.
 
-## Pruefraster
+## Prüfraster
 
 1. Adolescens-Status?
-2. Vermoegensnachteil?
+2. Vermögensnachteil?
 3. Frist gewahrt?
 4. Restitution möglich?

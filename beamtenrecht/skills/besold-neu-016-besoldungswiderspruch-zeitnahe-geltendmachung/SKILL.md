@@ -36,7 +36,7 @@ description: "Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung im Bea
 - Konkrete Vorlagebeschluss.
 - BVerfG entscheidet.
 
-## Pruefraster
+## Prüfraster
 
 1. Unterbesoldung vermutet?
 2. Widerspruch eingelegt?

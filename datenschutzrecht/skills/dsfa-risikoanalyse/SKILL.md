@@ -8,7 +8,7 @@ description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal 
 ## Wann dieses Modul hilft
 
 - In jeder vollstaendigen DSFA
-- Bei Aktualisierung einer DSFA nach wesentlicher Aenderung
+- Bei Aktualisierung einer DSFA nach wesentlicher Änderung
 - Bei DSB-Stellungnahme, wenn die Risikobewertung pauschal blieb
 - Bei Aufsichtsanstoss, wenn die Risikomethodik gegruendet werden muss
 
@@ -23,10 +23,10 @@ description: "Risikoanalyse im Rahmen der DSFA: Eintrittswahrscheinlichkeit mal 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Datenfluss, Datenarten, Empfaenger, Aufbewahrung, Technologie — als Grundlage für die Bedrohungsanalyse.
-2. **Verhaeltnismaessigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
+2. **Verhältnismäßigkeitspruefung.** Welche Schutzziele sind beruehrt (Vertraulichkeit, Integritaet, Verfuegbarkeit, Transparenz, Intervenierbarkeit, Nicht-Verkettung, Datenminimierung)?
 3. **Risikoanalyse.** Pro Schutzziel Bedrohungsszenarien definieren:
  - Vertraulichkeit: unbefugter Zugriff, Datenleck, Insider-Zugriff
- - Integritaet: unbemerkte Aenderung, Manipulation
+ - Integritaet: unbemerkte Änderung, Manipulation
  - Verfuegbarkeit: Ausfall, Loeschung, Ransomware
  - Transparenz: verdeckte Verarbeitung, fehlende Information
  - Intervenierbarkeit: Loeschungs- oder Berichtigungssperre
@@ -87,8 +87,8 @@ Unterschrift DSB: ____________________
 ## Typische Fehler
 
 - Wahrscheinlichkeit ohne Bedrohungsmodell geschaetzt — Bauchwerte sind nicht aufsichtstauglich.
-- Schadenschwere nur aus Sicht der Organisation bewertet — Massstab ist der Betroffene (Erwaegungsgrund 75).
-- Massnahmenwirkung nicht beziffert — die Spalte nach Maßnahmen bleibt leer.
+- Schadenschwere nur aus Sicht der Organisation bewertet — Maßstab ist der Betroffene (Erwaegungsgrund 75).
+- Maßnahmenwirkung nicht beziffert — die Spalte nach Maßnahmen bleibt leer.
 - Restrisiko hoch wird hingenommen ohne Art. 36 zu konsultieren — eigenstaendige Pflichtverletzung.
 - Risikomatrix wird nicht aktualisiert — DSFA als Einmaldokument.
 - Schutzziele werden auf Vertraulichkeit reduziert — Transparenz und Intervenierbarkeit werden vergessen.

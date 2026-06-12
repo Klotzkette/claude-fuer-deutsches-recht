@@ -1,9 +1,9 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstge..."
+description: "Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen: Strukturierter Erstge..."
 ---
 
-# Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+# Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
-### Erstgespraech und Mandatsannahme im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
+### Erstgespraech und Mandatsannahme im Ausländer-, Asyl- und Staatsangehoerigkeitsrecht
 
 ## Wann dieser Arbeitsgang greift
 
-- Neue Anfrage aus dem Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht (Telefon, Mail, Empfehlung, Walk-in).
+- Neue Anfrage aus dem Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht (Telefon, Mail, Empfehlung, Walk-in).
 - Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
 - Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
 
@@ -28,9 +28,9 @@ description: "Strukturierter Erstgespraechsleitfaden für Auslaender-, Asyl- und
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
+Standard-Fragenraster für Ausländer-, Asyl- und Staatsangehoerigkeitsrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Aufenthaltstitel, Asyl, Abschiebung, Einbuergerung, FamNachzug, FreizuegigG/EU
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
@@ -51,7 +51,7 @@ Standard-Fragenraster für Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 ### 4. Streitwert und Gebührenvereinbarung
 
-Standard-Streitwerte im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
+Standard-Streitwerte im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
 - RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
@@ -76,7 +76,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 ## Relevante Rechtsgrundlagen und Standards
 
-- BORA, BRAO, FAO für Fachanwaltschaft Auslaender-, Asyl- und Staatsangehoerigkeitsrecht.
+- BORA, BRAO, FAO für Fachanwaltschaft Ausländer-, Asyl- und Staatsangehoerigkeitsrecht.
 - GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
 - AufenthG, AsylG, StAG, FreizuegigG/EU, BeschV, EU-RL 2008/115/EG (für fachliche Erstpruefung).
 - DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
@@ -106,7 +106,7 @@ Drei Weichen am Ende des Erstgespraechs:
 
 ### Konstellation A: Eilbeduerftigkeit
 
-Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht). Handlungs-Sequenz:
+Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht). Handlungs-Sequenz:
 
 1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
 2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
@@ -132,7 +132,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 ## Mandanten-Erwartungsmanagement
 
 - Realistische Erfolgs- und Kostenprognose (nicht "Wir gewinnen sicher").
-- Verfahrensdauer im Bereich Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfahrungswerte nach Instanz.
+- Verfahrensdauer im Bereich Ausländer-, Asyl- und Staatsangehoerigkeitsrecht: Erfahrungswerte nach Instanz.
 - Vergleichschance vs. streitiges Urteil als Option offen halten.
 - Schriftliche Zusammenfassung des Erstgespraechs binnen 48 h.
 
@@ -162,7 +162,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Mandatsannahme)
 

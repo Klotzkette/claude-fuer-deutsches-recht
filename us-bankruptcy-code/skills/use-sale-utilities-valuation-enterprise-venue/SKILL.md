@@ -1,6 +1,6 @@
 ---
 name: use-sale-utilities-valuation-enterprise-venue
-description: "Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code."
+description: "Prüft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections im US Bankruptcy Code."
 ---
 
 # Use, Sale or Lease § 363

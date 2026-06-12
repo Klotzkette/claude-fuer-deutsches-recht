@@ -37,7 +37,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 **§ 153 StPO:** Einstellung bei Geringfuegigkeit ohne Auflagen.
 **§ 153a StPO:** Einstellung gegen Auflagen (Geldzahlung, Sozialstunden, Therapie).
 
-**Konsumeigenbedarf — Pruefkriterien:**
+**Konsumeigenbedarf — Prüfkriterien:**
 - Suchtanamnese, Konsumdauer, Tagesdosis
 - Konsumdokumentation durch Beratungsstelle oder Arzt
 - Kein Hinweis auf Verkaufsabsicht (keine Verpackung in Portionen, keine Waage, keine Kundenkommunikation)

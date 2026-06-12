@@ -1,6 +1,6 @@
 ---
 name: verkehrswende
-description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung..."
+description: "Verkehrswende-Maßnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Förderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung..."
 ---
 
 # Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
@@ -49,7 +49,7 @@ description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fus
 8. **Evaluation planen:** Verkehrszaehlung vor/nach, Laermmessung, Beschwerdemanagement
 9. **Anfechtungsrisiko einschaetzen:** Widerspruch durch Anlieger oder Gewerbetreibende wahrscheinlich?
 
-## Entscheidungsbaum Massnahmentyp
+## Entscheidungsbaum Maßnahmentyp
 
 ```
 Verkehrsberuhigung geplant

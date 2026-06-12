@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-existenzminimum
-description: "Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I iVm Art 20 I GG als absolute Grenze der Verhaeltnismaessigkeit von Sozialleistungskuerzungen, Asylbewerberleistungen und Sanktionsregelungen. Mit BVerfG-Linie Hartz IV, AsylbLG, Hartz-IV-Sanktionen."
+description: "Grundrecht auf Gewaehrleistung eines menschenwuerdigen Existenzminimums aus Art 1 I iVm Art 20 I GG als absolute Grenze der Verhältnismäßigkeit von Sozialleistungskuerzungen, Asylbewerberleistungen und Sanktionsregelungen. Mit BVerfG-Linie Hartz IV, AsylbLG, Hartz-IV-Sanktionen."
 ---
 
 # Absolute Grenze: Menschenwuerdiges Existenzminimum
@@ -30,7 +30,7 @@ Kernaussagen:
 | BVerfGE 152, 68 | Hartz-IV-Sanktionen | 30-Prozent-Kuerzung verfassungsmaessig nur unter strikten Bedingungen, 60- und 100-Prozent-Kuerzungen verfassungswidrig |
 | BVerfGE 153, 1 | Sozialrechtliche Bedarfssaetze | Verfahrensanforderungen weiter konkretisiert |
 
-## Pruefraster
+## Prüfraster
 
 1. Ist das Existenzminimum (materiell + soziokulturell) betroffen?
 2. Wird es unterschritten?
@@ -38,7 +38,7 @@ Kernaussagen:
 4. Sanktionen oder Ausschluesse: wie wirken sie auf die Bedarfsdeckung?
 5. Verfahrensrechtliche Sicherungen: Bestimmtheit, Begruendungspflicht, Transparenz?
 
-## Verhaeltnis zu Verhältnismäßigkeit
+## Verhältnis zu Verhältnismäßigkeit
 
 Die Prüfung Stufe 1 bis 4 entfaellt nicht völlig, aber Stufe 4 wird durch das Existenzminimum **absolut begrenzt**: wo das Existenzminimum unterschritten wuerde, scheitert die Maßnahme bereits hier.
 

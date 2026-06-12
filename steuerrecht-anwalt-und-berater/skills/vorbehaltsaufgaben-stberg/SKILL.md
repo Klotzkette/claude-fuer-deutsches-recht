@@ -1,6 +1,6 @@
 ---
 name: vorbehaltsaufgaben-stberg
-description: "Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche H..."
+description: "Prüfung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte Befugnisse oder eine Werkstattgesellschaft will steuerliche H..."
 ---
 
 # Vorbehaltsaufgaben Steuerberater — § 3 § 4 StBerG

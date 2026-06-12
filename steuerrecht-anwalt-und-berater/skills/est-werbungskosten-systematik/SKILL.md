@@ -1,6 +1,6 @@
 ---
 name: est-werbungskosten-systematik
-description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Ab..."
+description: "Systematische Prüfung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Ab..."
 ---
 
 # Werbungskosten und Betriebsausgaben — § 9 EStG § 4 Abs. 4 EStG
@@ -14,7 +14,7 @@ description: "Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — v
 ## Triage — kläre vor der Bearbeitung
 
 1. Ist die Aufwendung beruflich oder privat veranlasst (Veranlassungsprinzip § 9 § 4 Abs. 4 EStG)?
-2. Liegt gemischte Veranlassung vor — Aufteilung nach objektivem Massstab möglich?
+2. Liegt gemischte Veranlassung vor — Aufteilung nach objektivem Maßstab möglich?
 3. Greift Abzugsverbot § 12 Nr. 1 EStG (Lebensfuehrungsaufwendungen) oder § 4 Abs. 5 EStG (Bewirtung Geschenke)?
 4. Aktuelle Beleglage — Nachweis sicher dokumentiert?
 5. Sonderfall haeusliches Arbeitszimmer § 4 Abs. 5 Nr. 6b EStG bzw. Homeoffice-Pauschale § 4 Abs. 5 Nr. 6c EStG?

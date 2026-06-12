@@ -1,6 +1,6 @@
 ---
 name: krankenhausapotheke-arzneimittelversorgung
-description: "Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse im Krankenhausrecht."
+description: "Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Prüfungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse im Krankenhausrecht."
 ---
 
 # Krankenhausapotheke Arzneimittelversorgung
@@ -40,7 +40,7 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder über eine eigene **
 
 ## / Schritt für Schritt
 1. **Versorgungsmodell prüfen:** Eigene Apotheke, Verbund-Apotheke, Versorgungsvertrag § 14 ApoG.
-2. **Compliance Apotheke:** Apothekenleiter, ApBetrO, Pruefungen Land.
+2. **Compliance Apotheke:** Apothekenleiter, ApBetrO, Prüfungen Land.
 3. **NUB-Antrag prüfen:** Wenn Arzneimittel/Methode neu — Antrag an InEK, § 6 Abs. 2 KHEntgG.
 4. **Off-Label-Use:** Aufklaerung, Indikationsbegruendung, Haftungsabsicherung.
 5. **Antibiotic Stewardship:** ABS-Team, Leitlinien, Dokumentation, Berichte an Aufsicht.
@@ -67,8 +67,8 @@ Die Krankenhausversorgung mit Arzneimitteln laeuft entweder über eine eigene **
 **NUB-Antrag (Skizze):**
 > Antrag auf Neue Untersuchungs- und Behandlungsmethode gemäß § 6 Abs. 2 KHEntgG. Methode: [Name]. Wirkstoff: [INN]. Indikation: … Klinische Evidenz: … Wir beantragen Zusatzentgelt für Behandlungsjahr [Jahr]. Anlagen: Studien, Kalkulation.
 
-**Versorgungsvertrag-Pruefliste:**
-> Pruefkriterien: Lieferzeiten, Notfallversorgung 24/7, Compounding, Zytostatika, BtM, Apothekenleiter-Praesenz, Pruefberichte Land, Kosten, Vergaberecht.
+**Versorgungsvertrag-Prüfliste:**
+> Prüfkriterien: Lieferzeiten, Notfallversorgung 24/7, Compounding, Zytostatika, BtM, Apothekenleiter-Praesenz, Prüfberichte Land, Kosten, Vergaberecht.
 
 ## Typische Fehler
 - NUB-Frist verpasst — kein Zusatzentgelt möglich.

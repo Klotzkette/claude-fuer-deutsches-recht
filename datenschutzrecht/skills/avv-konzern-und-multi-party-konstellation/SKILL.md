@@ -23,7 +23,7 @@ Strukturierung von Auftragsverarbeitungsvertraegen in Konzernverbuenden und Mult
 - Erwaegungsgrund 36 DSGVO – Niederlassung und Verantwortlichkeit im Konzern.
 - Art. 26 DSGVO – Joint Controller, falls gemeinsame Zweckentscheidung.
 - Art. 47 DSGVO – Verbindliche interne Datenschutzvorschriften (BCR).
-- § 26 BDSG – Beschaeftigtendatenschutz bei konzerninternem HR-Transfer.
+- § 26 BDSG – Beschäftigtendatenschutz bei konzerninternem HR-Transfer.
 
 ## Ablauf / Checkliste
 
@@ -73,7 +73,7 @@ Konzern-AVV-Klauseln (Auszug):
 >
 > § 3 Konzerngesamtleitung und Kommunikation
 >
-> Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhaeltnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
+> Die Muttergesellschaft uebt für die beigetretenen Konzerngesellschaften die Funktion der zentralen Anlaufstelle aus, soweit dies mit der jeweiligen Konzerngesellschaft schriftlich vereinbart ist. Die Pflichten und Rechte aus Art. 28 DSGVO bestehen unabhaengig davon im Verhältnis Auftragsverarbeiter zu jeweiliger Konzerngesellschaft fort.
 >
 > § 4 Beitritt und Austritt von Konzerngesellschaften
 >

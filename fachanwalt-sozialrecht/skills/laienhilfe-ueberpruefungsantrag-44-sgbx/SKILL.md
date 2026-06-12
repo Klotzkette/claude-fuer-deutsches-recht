@@ -1,9 +1,9 @@
 ---
 name: laienhilfe-ueberpruefungsantrag-44-sgbx
-description: "Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd..."
+description: "Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx: Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörd..."
 ---
 
-# Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx
+# Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behörde, Widerspruch, Klage oder Beratung.
 
-### Laienhilfe: Ueberpruefungsantrag 44 Sgbx
+### Laienhilfe: Überprüfungsantrag 44 Sgbx
 
 ## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Laienhilfe: Ueberpruefungsantrag 44 Sgbx` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
@@ -28,7 +28,7 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Ueberpruefungsantrag 44
 
 ## Worum es geht
 
-Dieser Skill erklaert **Ueberpruefungsantrag 44 Sgbx** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+Dieser Skill erklaert **Überprüfungsantrag 44 Sgbx** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
 ## Erst sortieren
 

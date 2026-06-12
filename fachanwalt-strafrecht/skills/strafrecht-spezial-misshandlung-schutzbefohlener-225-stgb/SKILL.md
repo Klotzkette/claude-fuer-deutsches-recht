@@ -20,7 +20,7 @@ description: "Misshandlung Schutzbefohlener nach § 225 StGB: Schutz von Persone
 
 ## Worum geht es
 
-§ 225 StGB schuetzt besonders verletzliche Personen vor Misshandlung durch Personen, die Obhuts-, Fuersorge- oder Aufsichtspflichten innehaben. Geschuetzt sind:
+§ 225 StGB schuetzt besonders verletzliche Personen vor Misshandlung durch Personen, die Obhuts-, Fürsorge- oder Aufsichtspflichten innehaben. Geschuetzt sind:
 
 - Personen unter 18 Jahren,
 - Personen, die wegen Gebrechlichkeit oder Krankheit wehrlos sind.
@@ -31,9 +31,9 @@ In der Praxis ist § 225 StGB die zentrale Norm zum Schutz von **Kindern in Fami
 
 ## Tatbestand und Auslegung
 
-**Taeter (Sondersubjekt):** Personen, denen das Opfer zur **Fuersorge oder Obhut**, zur **Wohnung**, zur **Gewalt im Sinne der Aufsicht** oder im Rahmen eines **Dienst- oder Arbeitsverhaeltnisses** untersteht.
+**Taeter (Sondersubjekt):** Personen, denen das Opfer zur **Fürsorge oder Obhut**, zur **Wohnung**, zur **Gewalt im Sinne der Aufsicht** oder im Rahmen eines **Dienst- oder Arbeitsverhaeltnisses** untersteht.
 
-- **Fuersorge / Obhut:** Eltern, Lebenspartner, Stiefeltern, Grosseltern bei dauerhafter Betreuung, Pflegeeltern.
+- **Fürsorge / Obhut:** Eltern, Lebenspartner, Stiefeltern, Grosseltern bei dauerhafter Betreuung, Pflegeeltern.
 - **Wohnung:** Personen, die mit dem Opfer in haeuslicher Gemeinschaft leben.
 - **Gewalt:** Aufsichtspersonen, Vormuende, Lehrer, Erzieher.
 - **Dienst- oder Arbeitsverhaeltnis:** Pflegekraefte, Heimleiter, Betreuer.
@@ -42,7 +42,7 @@ In der Praxis ist § 225 StGB die zentrale Norm zum Schutz von **Kindern in Fami
 
 1. **Quaelen:** Laenger dauernde oder wiederholte Misshandlungen, die erhebliche koerperliche oder seelische Leiden verursachen. Wiederholungs- oder Dauerelement.
 2. **Roh misshandeln:** Gefuehllose, von schwerer Brutalitaet gepraegte Misshandlung. Einzelne Handlung kann genügen, wenn sie besonders brutal ist.
-3. **Pflichtwidrige Vernachlaessigung mit Gesundheitsschaedigung:** Unterlassen der gebotenen Fuersorge mit der Folge einer Schaedigung der Gesundheit. Beispiel: Nichtversorgung eines Kindes; Verweigerung medizinischer Versorgung.
+3. **Pflichtwidrige Vernachlaessigung mit Gesundheitsschaedigung:** Unterlassen der gebotenen Fürsorge mit der Folge einer Schaedigung der Gesundheit. Beispiel: Nichtversorgung eines Kindes; Verweigerung medizinischer Versorgung.
 
 **Subjektiver Tatbestand:** Vorsatz hinsichtlich der Tathandlung und der Stellung als Schutzbefohlener. Dolus eventualis genuegt.
 
@@ -52,7 +52,7 @@ In der Praxis ist § 225 StGB die zentrale Norm zum Schutz von **Kindern in Fami
 
 **Roh misshandeln:** Tat mit besonderer Brutalitaet oder Gefuehllosigkeit. Auch Einzelhandlung möglich, wenn sie sich durch eine rohe Gesinnung auszeichnet. Schuetteln eines Saeuglings (Schuetteltrauma), schwere Schlaege gegen ein Kleinkind.
 
-**Pflichtwidrige Vernachlaessigung:** Unterlassen iVm § 13 StGB. Voraussetzung: Garantenstellung aus Fuersorgepflicht. Erforderlich ist eine **Schaedigung der Gesundheit**. Bei blosser Gefaehrdung ggf. § 171 StGB (Verletzung der Fuersorgepflicht).
+**Pflichtwidrige Vernachlaessigung:** Unterlassen iVm § 13 StGB. Voraussetzung: Garantenstellung aus Fürsorgepflicht. Erforderlich ist eine **Schaedigung der Gesundheit**. Bei blosser Gefaehrdung ggf. § 171 StGB (Verletzung der Fürsorgepflicht).
 
 **Qualifikation § 225 Abs. 3 StGB:** Strafrahmen Freiheitsstrafe nicht unter einem Jahr (bis 15 Jahre), wenn der Taeter die schutzbefohlene Person durch die Tat in die Gefahr
 
@@ -64,7 +64,7 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 ## Praktikertipps der Verteidigung
 
-- **Taetereigenschaft prüfen:** Liegt eine Obhuts- oder Fuersorgepflicht vor? Bei lockerem familiaeren Kontakt ohne dauerhafte Verantwortung kann Taetereigenschaft entfallen.
+- **Taetereigenschaft prüfen:** Liegt eine Obhuts- oder Fürsorgepflicht vor? Bei lockerem familiaeren Kontakt ohne dauerhafte Verantwortung kann Taetereigenschaft entfallen.
 - **Quaelen – Wiederholungselement:** Wenn nur einmalige Misshandlung vorlag, ist § 225 StGB nicht in der Quael-Variante erfuellt; ggf. § 223 / § 224 StGB.
 - **Aerztliche Sachverstaendige:** Bei Schuetteltrauma / Babyshaking medizinische Sachverstaendige zu Verletzungsmechanismus, Vorerkrankungen, Alternativursachen.
 - **Kindersachverstaendige:** Bei seelischer Quaelung kinderpsychologische / kinderpsychiatrische Begutachtung.
@@ -84,7 +84,7 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 - **§§ 223, 224, 226, 227 StGB:** Tateinheit möglich; § 225 StGB hat Sperrwirkung wegen Sonderpflichtverletzung (staendige BGH-Linie).
 - **§ 211 StGB iVm § 22 StGB:** Bei Toetungsvorsatz vorrangig.
-- **§ 171 StGB:** Verletzung der Fuersorge- oder Erziehungspflicht – allgemeines Gefaehrdungsdelikt; bei Schaedigung tritt § 225 StGB vorrangig ein.
+- **§ 171 StGB:** Verletzung der Fürsorge- oder Erziehungspflicht – allgemeines Gefaehrdungsdelikt; bei Schaedigung tritt § 225 StGB vorrangig ein.
 - **§§ 174 ff. StGB:** Bei sexuellem Missbrauch Tateinheit möglich.
 - **§ 240 StGB:** Bei Noetigungen Tateinheit möglich.
 
@@ -111,7 +111,7 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 ## Quellen Stand 06/2026
 
 - § 225 StGB Misshandlung Schutzbefohlener (gesetze-im-internet.de).
-- § 171 StGB Verletzung der Fuersorgepflicht.
+- § 171 StGB Verletzung der Fürsorgepflicht.
 - §§ 223, 224, 226, 227 StGB.
 - § 1631 Abs. 2 BGB gewaltfreie Erziehung; § 1666 BGB Kindeswohlgefaehrdung.
 - § 58a StPO Videovernehmung Kinder.

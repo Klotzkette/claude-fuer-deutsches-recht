@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttr..."
+description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Änderung aussieht ohne Änderungsmarkierungen. Einheitlich lesbar ohne Änderungsmarkierung Datierung Stand nach Inkrafttr..."
 ---
 
 # Lesefassung konsolidiert
@@ -110,7 +110,7 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 - `xml-paralleldarstellung` — bei XML-pflichtigen Veröffentlichungen
 - `synopse-erstellen` — für den Änderungs-Diff alt vs. neu
 - `dokumente-rendern-docx-pdf` — für den DOCX-/PDF-Export der Lesefassung
-- `referentenentwurf-bauen` — bei aenderbarem Entwurfsstand
+- `referentenentwurf-bauen` — bei änderbarem Entwurfsstand
 - `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen
 
 ## Aktuelle Rechtsprechung & Leitsätze

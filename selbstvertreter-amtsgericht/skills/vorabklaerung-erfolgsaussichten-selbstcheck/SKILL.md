@@ -80,10 +80,10 @@ Im Niederlagefall zahlen Sie also schnell mehr als 1.000 EUR. Skill `kostenrisik
 
 ### Schritt 6 — Bonitaet der Gegenseite prüfen
 
-Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermoegenslosigkeit haben Sie zwar einen Titel, aber nichts zu vollstrecken. Hinweise auf schlechte Bonitaet:
+Selbst wenn Sie gewinnen: Bekommen Sie das Geld? Bei Insolvenz/Vermögenslosigkeit haben Sie zwar einen Titel, aber nichts zu vollstrecken. Hinweise auf schlechte Bonitaet:
 
 - Gegenseite ist privat insolvent (Schufa, öffentliches Schuldnerverzeichnis).
-- Wiederholt ausstehende Forderungen anderer Glaeubiger.
+- Wiederholt ausstehende Forderungen anderer Gläubiger.
 - Gewerbe abgemeldet.
 
 Schauen Sie ins Schuldnerverzeichnis (§ 882f ZPO) bei der Vollstreckungsbehoerde.
@@ -103,7 +103,7 @@ Beantworten Sie:
 - Habe ich eine klare Anspruchsgrundlage? Ja/Nein.
 - Ist die Verjährung noch offen? Ja/Nein.
 - Ist die Gegenseite voraussichtlich liquide? Ja/Nein/Unklar.
-- Lohnt sich der Aufwand im Verhaeltnis zum Streitwert? Ja/Nein.
+- Lohnt sich der Aufwand im Verhältnis zum Streitwert? Ja/Nein.
 
 Wenn Sie mehr als 2x "Nein/Unklar" haben: pause — prüfen Sie nochmal mit der Rechtsantragsstelle oder einem Anwalt.
 

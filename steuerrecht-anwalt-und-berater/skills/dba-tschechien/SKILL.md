@@ -63,7 +63,7 @@ Das DBA wurde urspruenglich mit der CSSR am 19.12.1980 abgeschlossen (BGBl. 1982
 
 ### Besonderheiten
 - Aelteres DBA (1980): Begriffe nicht in allen Punkten OECD-MA 2017 konform.
-- Tschechien als Nachfolgestaat — Notenwechsel und ggf. Aenderungsprotokolle.
+- Tschechien als Nachfolgestaat — Notenwechsel und ggf. Änderungsprotokolle.
 - EU-Beitritt Tschechien 01.05.2004 — EU-Richtlinien gelten ergaenzend.
 
 ## Workflow

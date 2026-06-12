@@ -1,6 +1,6 @@
 ---
 name: china-sanctions-and-restricted-anti-coercion-instrument-trade
-description: "Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken..."
+description: "Sanktionen und Restricted-Party-Screening im China-Geschäft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken..."
 ---
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika

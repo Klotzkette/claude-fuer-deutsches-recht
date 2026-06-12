@@ -11,15 +11,15 @@ Dieser Einstieg routet **Nda Abgleich** vom ersten Sachverhalt zu Rollen, Friste
 
 ## Fachlandkarte dieses Plugins
 
-- `aenderungsmodus-compliance-dokumentation` — Aenderungsmodus Compliance Dokumentation
-- `aenderungsmodus-compliance-dokumentation-und-akte` — Aenderungsmodus Compliance Dokumentation und Akte
+- `aenderungsmodus-compliance-dokumentation` — Änderungsmodus Compliance Dokumentation
+- `aenderungsmodus-compliance-dokumentation-und-akte` — Änderungsmodus Compliance Dokumentation und Akte
 - `ampelmatrix-internationaler-bezug-schnittstellen` — Ampelmatrix Internationaler Bezug Schnittstellen
 - `ampelmatrix-internationaler-bezug-und-schnittstellen` — Ampelmatrix Internationaler Bezug und Schnittstellen
 - `arbeitnehmer-kuendigung` — Arbeitnehmer Kuendigung
 - `ausgabe-changes-docx-beweislast` — Ausgabe Changes Docx Beweislast
 - `ausgabe-mandantenkommunikation-entscheidungsvorlage` — Ausgabe Mandantenkommunikation Entscheidungsvorlage
-- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Uebergabe
-- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Uebergabe
+- `changes-abschlussprodukt-uebergabe` — Changes Abschlussprodukt Übergabe
+- `changes-abschlussprodukt-und-uebergabe` — Changes Abschlussprodukt und Übergabe
 - `chirurgisch-quellenkarte` — Chirurgisch Quellenkarte
 - `chronologie-und-belegmatrix` — Chronologie und Belegmatrix
 - `docx-beweislast-darlegungslast` — Docx Beweislast Darlegungslast

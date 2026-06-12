@@ -16,7 +16,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 29 HGB` — Anmeldung des Kaufmanns.
 - `§ 106 HGB` — Eintragung der OHG.
 - `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Aenderung der Geschaeftsfuehrung.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
 - `§ 40 GmbHG` — Gesellschafterliste.
 - `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
 - `§ 395 FamFG` — Loeschungsverfahren.

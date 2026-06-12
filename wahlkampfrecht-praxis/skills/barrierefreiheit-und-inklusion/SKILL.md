@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Sprache, Untertitel, Gebaerden, Zugaenglichkeit, leichte Sprache und Wahlrechtsinformationen.
+Prüft Sprache, Untertitel, Gebaerden, Zugaenglichkeit, leichte Sprache und Wahlrechtsinformationen.
 
 ## Rechts- und Praxislogik
 

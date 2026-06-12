@@ -33,7 +33,7 @@ description: "Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-List
 ## Meldung
 
 - Aerzte sind meldepflichtig bei Verdacht (§ 202 SGB VII).
-- Arbeitgeber meldet wenn betroffene Beschaeftigte.
+- Arbeitgeber meldet wenn betroffene Beschäftigte.
 
 ## Verfahren
 
@@ -47,7 +47,7 @@ description: "Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-List
 - Beweis der Kausalitaet schwierig — lange Latenzzeiten.
 - Mehrjaehrige Verfahren typisch.
 
-## Pruefraster
+## Prüfraster
 
 1. BK-Listenfall oder Wie-Fall?
 2. Berufsverlauf belegt?

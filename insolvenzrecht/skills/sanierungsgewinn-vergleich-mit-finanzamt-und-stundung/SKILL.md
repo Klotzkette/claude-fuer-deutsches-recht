@@ -40,7 +40,7 @@ Kaltstart-Fragen:
 
 1. Restsanierungsertrag nach Verrechnung — wie hoch?
 2. Wieso greift Paragraph 3a EStG nicht (welche Voraussetzung wird angezweifelt)?
-3. Vermoegenslage Schuldnerin nach Plan-Vollzug — Liquiditaetsplan vorhanden?
+3. Vermögenslage Schuldnerin nach Plan-Vollzug — Liquiditaetsplan vorhanden?
 4. Hat das FA bereits einen Bescheid erlassen?
 5. Plan-Quote der Insolvenzglaeubiger?
 

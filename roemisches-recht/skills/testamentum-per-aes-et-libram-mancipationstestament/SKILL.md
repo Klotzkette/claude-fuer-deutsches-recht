@@ -42,7 +42,7 @@ description: "Testamentum per aes et libram: das mancipationstestament als klass
 - §§ 2229 ff. BGB Testament.
 - § 2247 BGB eigenhaendiges Testament.
 
-## Pruefraster
+## Prüfraster
 
 1. Mancipationsritual eingehalten?
 2. Heredis institutio?

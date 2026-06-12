@@ -1,13 +1,13 @@
 ---
 name: actio-pauliana-voraussetzungen
-description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermoegensverschleierung waehrend laufender Vollstre"
+description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Gläubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften für Vermögensverschleierung waehrend laufender Vollstre"
 ---
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
 ## Beweislast
 
-- Glaeubiger traegt die Beweislast für:
+- Gläubiger traegt die Beweislast für:
  - eventus damni
  - consilium fraudis des Schuldners
  - scientia oder conscientia des Dritten (bei entgeltlich)
@@ -16,7 +16,7 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 
 - Verkauf zu marktnotorisch zu niedrigem Preis: Indiz für scientia.
 - Verkauf unter Freunden in zeitlicher Naehe zur Insolvenz.
-- Verschwiegene Geschaefte über Mittelsmaenner.
+- Verschwiegene Geschäfte über Mittelsmaenner.
 
 ## Vermutungen
 
@@ -26,7 +26,7 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 ## Sondervorschriften
 
 - Verschleierung waehrend laufender Vollstreckung: erleichterte Beweisfuehrung.
-- Geschaeftspartner als Reflexbeteiligter.
+- Geschäftspartner als Reflexbeteiligter.
 
 ## Vergleich zu modernem Recht
 
@@ -34,7 +34,7 @@ description: "Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skil
 - Anfechtungsrecht: AnfG § 3 Abs. 2: Vermutung der scientia bei nahestehenden Personen.
 - Insolvenzanfechtung: InsO § 133 Abs. 1 Satz 2: Vermutung der Kenntnis bei drohender Zahlungsunfaehigkeit.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Tatbestaende müssen bewiesen werden?
 2. Welche Indizien stehen zur Verfuegung?

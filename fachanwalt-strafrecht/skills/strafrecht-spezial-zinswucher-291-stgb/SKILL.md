@@ -53,9 +53,9 @@ Wer **die Zwangslage, die Unerfahrenheit, den Mangel an Urteilsvermoegen oder di
 3. **für eine sonstige Leistung** oder
 4. **für die Vermittlung** einer der vorbezeichneten Leistungen
 
-**Vermoegensvorteile versprechen oder gewaehren lässt**, die in einem **auffaelligen Missverhaeltnis** zur Leistung oder ihrer Vermittlung stehen.
+**Vermögensvorteile versprechen oder gewaehren lässt**, die in einem **auffaelligen Missverhaeltnis** zur Leistung oder ihrer Vermittlung stehen.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Zwangslage.** Wirtschaftliche, persönliche oder psychische Notlage. Bei Wohnraum: drohende Obdachlosigkeit, Aufenthaltssicherung; ein bloß angespannter Wohnungsmarkt reicht nicht (klare Abgrenzung zu § 5 WiStrG 1954).
 - **Unerfahrenheit / Mangel an Urteilsvermoegen / Willensschwaeche.** Bildung, Alter, Sprache, Suchtdruck.

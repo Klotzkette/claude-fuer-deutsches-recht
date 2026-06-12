@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmbfsfj
-description: "Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestags..."
+description: "Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Bildung; Familie; Senioren; Frauen und Jugend. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestags..."
 ---
 
 # Ressortaufgaben BMBFSFJ
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschaeftsb
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMBFSFJ
 - Ressort-Kompass aus `legw-ressort-bmbfsfj`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

@@ -36,7 +36,7 @@ description: "Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised
 - **UZK Art. 79**: Zollschuldentstehung bei nicht ordnungsgemaesser Erledigung.
 - **AEO-Leitlinien (TAXUD/B2/047/2011)**: AEO-Erleichterungen im Versandverfahren.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Versandverfahren-Typ (T1/T2) korrekt bestimmt?
 - [ ] Sicherheitsleistung ausreichend und gueltig?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

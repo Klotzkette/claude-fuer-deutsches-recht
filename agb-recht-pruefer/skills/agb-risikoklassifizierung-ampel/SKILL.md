@@ -40,7 +40,7 @@ description: "Einstiegs- und Prüfungslinie für AGB Risikoklassifizierung Ampel
 - AGB im Plattformhandel (Amazon, eBay) — BGH zur Marktstellung und § 307 BGB.
 - Update-Klauseln (§ 327f BGB) seit 2022 — BGH-Folgejudikate im Aufbau.
 
-### Pruefraster
+### Prüfraster
 1. Vertragsart und Rollencheck (B2C/B2B/B2B2C).
 2. Klauseltyp (Haupt-/Nebenleistung/AGB-Modul).
 3. § 309 BGB-Treffer? — Rot.

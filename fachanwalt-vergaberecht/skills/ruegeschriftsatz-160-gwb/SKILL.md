@@ -44,7 +44,7 @@ description: "Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs: 3 GWB ausarb
 | Wettbewerbs-Verzerrung | Insider-Information |
 | Diskriminierung | Pflicht-Referenzen unangemessen |
 | Eignungs-Kriterien | Mindest-Umsatz uneurthältnismaessig |
-| Wertungs-Mangel | Bewertungs-Massstab unklar |
+| Wertungs-Mangel | Bewertungs-Maßstab unklar |
 | Änderungs-Verbot | Wesentliche Vertrags-Änderung ohne Neu-Ausschreibung |
 
 ## 3) Präklusion

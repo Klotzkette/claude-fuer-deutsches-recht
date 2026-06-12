@@ -1,11 +1,11 @@
 ---
 name: bmvg-nato-und-stationierungsrecht
-description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.);..."
+description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschäftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.);..."
 ---
 
 # NATO-Recht und Stationierungsrecht (BMVg)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema NATO-Recht und Stationierungsrecht im Geschäftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereic
 
 Kernbestand des Sachfelds: NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Doppelte Vertragsbasis; Schadensregulierung; Umweltrecht auf Liegenschaften.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: plan-modification-1127
-description: "Prueft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code."
+description: "Prüft pre- and post-confirmation plan modification, changed circumstances, resolicitation and confirmation compliance im US Bankruptcy Code."
 ---
 
 # Plan Modification § 1127

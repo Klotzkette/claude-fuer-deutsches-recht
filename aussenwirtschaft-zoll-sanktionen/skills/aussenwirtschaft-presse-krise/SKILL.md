@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-presse-krise
-description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung un..."
+description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschäftsführung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung un..."
 ---
 
 # Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement
@@ -36,7 +36,7 @@ description: "Krisenmanagement bei medialer Berichterstattung ueber Exportkontro
 - **§ 37 StPO**: Schweigerecht; Mitarbeiter nicht zur Aussage an Presse drangen.
 - **§ 130 OWiG**: Organisationsverschulden; Kommunikation darf kein Schuldanerkenntnis enthalten.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Krisenteam vollstaendig versammelt und Rollenverteilung klar?
 - [ ] Ersteinschaetzung durch Rechtsanwalt vor erster Kommunikation?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

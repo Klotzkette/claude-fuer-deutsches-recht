@@ -123,7 +123,7 @@ H. ESKALATION
 
 - Erstgespraech mit Mandant über Prozesse.
 - DATEV Unternehmen Online Einfuehrung.
-- Belegabgabe-Routine erlaeutern.
+- Belegabgabe-Routine erläutern.
 
 ### Phase 5 — DSGVO-Compliance
 

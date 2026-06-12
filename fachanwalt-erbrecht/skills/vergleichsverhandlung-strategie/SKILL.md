@@ -58,7 +58,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 - Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
 - Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
+- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschäftspartner)
 - Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
 - Vertraulichkeit (NDA im Vergleich)
 
@@ -162,7 +162,7 @@ Im Bereich Erb- und Pflichtteilsrecht oft uebersehen:
 
 ## Mediation als Alternative
 
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
+- Wenn Beziehung erhalten bleiben soll (Familie, Geschäftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
 - Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.

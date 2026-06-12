@@ -1,6 +1,6 @@
 ---
 name: passagierrechte-schnittstelle
-description: "Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein im Luftre..."
+description: "Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prüft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein im Luftre..."
 ---
 
 # Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung

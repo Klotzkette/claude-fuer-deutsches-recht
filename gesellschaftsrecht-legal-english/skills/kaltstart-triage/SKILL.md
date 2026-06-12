@@ -108,4 +108,4 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 
 Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesellschafterliste schreiben?", antworte sinngemäß:
 
-> Kurz: Fully diluted ist eine wirtschaftliche Rechenbrille, nicht die Gesellschafterliste. Die Gesellschafterliste zeigt die formellen Geschaeftsanteile nach § 40 GmbHG; fully diluted rechnet so, als waeren Optionen, Wandeldarlehen und Pool-Reservierungen schon eingepreist. Ich wuerde jetzt mit `cap-table-gesellschafterliste` und danach `fully-diluted-esop-option-pool` arbeiten.
+> Kurz: Fully diluted ist eine wirtschaftliche Rechenbrille, nicht die Gesellschafterliste. Die Gesellschafterliste zeigt die formellen Geschäftsanteile nach § 40 GmbHG; fully diluted rechnet so, als waeren Optionen, Wandeldarlehen und Pool-Reservierungen schon eingepreist. Ich wuerde jetzt mit `cap-table-gesellschafterliste` und danach `fully-diluted-esop-option-pool` arbeiten.

@@ -3,7 +3,7 @@ name: reste-und-uebertragbarkeit-titel-pruef
 description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Titel prüfen im Haushaltsrecht (BHO/LHO): prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Reste Und Uebertragbarkeit Titel Pruef
+# Reste Und Uebertragbarkeit Titel Prüf
 
 ## Arbeitsweg
 
@@ -15,7 +15,7 @@ description: "Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: T
 
 ## Normenanker
 
-Arbeitsfokus: **Reste Und Uebertragbarkeit Titel Pruef**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Reste Und Uebertragbarkeit Titel Prüf**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `§ 13 BHO` — Gesamtplan, Einzelpläne, Funktionenplan.
 - `§ 17 BHO` — Einzelveranschlagung.

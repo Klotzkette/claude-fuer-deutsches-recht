@@ -1,6 +1,6 @@
 ---
 name: interpretation-und-intention
-description: "Prueft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung."
+description: "Prüft Text, Sprecherintention, objektivierten Sinn, Zweck, Materialien und spätere Entwicklung ohne starre Rangbehauptung."
 ---
 
 # Interpretation und Intention

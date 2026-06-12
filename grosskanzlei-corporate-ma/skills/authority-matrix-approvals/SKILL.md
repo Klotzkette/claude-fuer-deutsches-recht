@@ -1,6 +1,6 @@
 ---
 name: authority-matrix-approvals
-description: "Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben: Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenz..."
+description: "Authority Matrix und Approvals Skill: prüft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben: Authority Matrix und Approvals Skill: prüft Zeichnungsberechtigungen, Gremienkompetenz..."
 ---
 
 # Authority Matrix und Approvals Skill: prüft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben.
@@ -36,7 +36,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 
 | Feld | Worum es geht |
 | --- | --- |
-| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Rechtsform, Satzung/Gesellschaftsvertrag, Gesellschafterliste, Organstruktur, Transaktionsdokumente, Jurisdiktionen. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |

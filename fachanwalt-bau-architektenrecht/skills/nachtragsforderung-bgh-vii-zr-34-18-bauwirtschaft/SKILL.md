@@ -7,7 +7,7 @@ description: "Nachtragsforderung BGH Vii Zr 34 18 Bauwirtschaft: fachanwaltliche
 
 ## Einsatzlage
 
-Bauherr aendert Leistung; Unternehmer fordert Nachtrag von 188.000 EUR ohne Vereinbarung.
+Bauherr ändert Leistung; Unternehmer fordert Nachtrag von 188.000 EUR ohne Vereinbarung.
 
 ## Normenanker
 

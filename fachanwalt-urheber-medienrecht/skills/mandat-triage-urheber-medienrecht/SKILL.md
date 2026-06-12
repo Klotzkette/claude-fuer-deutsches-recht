@@ -98,7 +98,7 @@ Schritt 5: Routing zum Folge-Skill
 - **Sofort-Telefon:** einstweilige Verfuegung zugestellt; Berichterstattung in 2 Tagen
 - **Binnen 1 Stunde:** Abmahnfrist laeuft heute ab; Schutzschrift-Einreichung noetig
 - **Heute:** Gegendarstellungsverlangen verfassen; Reaktion auf Abmahnung
-- **Diese Woche:** Lizenzverletzungs-Pruefu ng; Klageschrift-Entwurf
+- **Diese Woche:** Lizenzverletzungs-Prüfu ng; Klageschrift-Entwurf
 
 ## Cross-Refs
 

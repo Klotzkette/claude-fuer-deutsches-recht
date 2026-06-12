@@ -42,7 +42,7 @@ Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begl
 
 - **BVerwG 23.06.2020, 9 A 22.19** (A 49 Mittelhessen): Klimaschutz und Klimawandelfolgen sind in der Abwaegung zu beruecksichtigen; Planfeststellungsbeschluss aufgehoben. Quelle: bverwg.de — Pressemitteilung 41/2020.
 - **BVerwG 04.05.2022, 9 A 7.21** (A 14): UVP-Anforderungen; sektorale Klimaschutzpruefung. Quelle: bverwg.de.
-- **BVerwG 11.10.2017, 9 A 14.16** (A 33): Planergaenzungsverfahren bei Heilung von Abwaegungsfehlern; Massstab für "fehlerhafte Abwaegung". Quelle: bverwg.de.
+- **BVerwG 11.10.2017, 9 A 14.16** (A 33): Planergaenzungsverfahren bei Heilung von Abwaegungsfehlern; Maßstab für "fehlerhafte Abwaegung". Quelle: bverwg.de.
 - **BVerwG 09.02.2017, 7 A 2.15** (Elbvertiefung): Anforderungen an FFH-Vertraeglichkeitspruefung. Quelle: bverwg.de.
 - **EuGH 28.05.2020, C-535/18** (IL u.a.): UVP-Richtlinie 2011/92/EU; öffentliche Beteiligung; sektoraler Schutz. Quelle: curia.europa.eu.
 
@@ -118,7 +118,7 @@ Wir beantragen: [Planänderung / Auflagen / Entschaedigung].
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

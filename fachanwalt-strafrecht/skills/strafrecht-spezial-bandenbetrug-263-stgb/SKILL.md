@@ -14,7 +14,7 @@ description: "Bandenbetrug § 263 Abs: 5 StGB: Anwendungsfall Verteidigung in Ba
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo.
+**Fokus:** Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Prüfraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo.
 
 ### Bandenbetrug § 263 Abs. 5 StGB
 
@@ -90,7 +90,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 ### Bestreiten Bandenabrede
 
-"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Ueberweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte über anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
+"Eine Bandenabrede wird bestritten. Der Mandant hat als sogenannter Money Mule lediglich ein einzelnes Konto für Überweisungen zur Verfuegung gestellt. Eine Kenntnis von einer auf fortgesetzte Begehung gerichteten Organisation ist nicht ersichtlich; der Kontakt zu den vermeintlichen Mittaetern erfolgte über anonyme Chatkanaele ohne Personenwissen. Eine konkludente Bandenabrede setzt zumindest die Kenntnis der wesentlichen Strukturmerkmale voraus (BGH staendige Rspr.)."
 
 ## Quellen Stand 06/2026
 

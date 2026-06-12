@@ -1,9 +1,9 @@
 ---
 name: bwa-erlaeuterungstext-mandant
-description: "Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anha..."
+description: "Erläuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erläuterung Ausblick Empfehlung. Output strukturierter Erläuterungstext 1 bis 2 Seiten als Anha..."
 ---
 
-# Erlaeuterungstext zur BWA für den Mandanten
+# Erläuterungstext zur BWA für den Mandanten
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall
 
 ## Kernsachverhalt
 
-Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bilanzbuchhalter — liest sie nicht oder falsch. Erst der Erlaeuterungstext macht aus Tabellen Steuerungsinformation. Der Steuerberater liefert auf 1-2 Seiten die wesentlichen Aussagen: Was ist passiert, welche Abweichungen sind erklaerungsbeduerftig, welche Handlungsempfehlungen ergeben sich? Ein guter Erlaeuterungstext erhoeht die Mandantenbindung und schuetzt vor Krisenuebersehen.
+Die BWA ohne Erläuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bilanzbuchhalter — liest sie nicht oder falsch. Erst der Erläuterungstext macht aus Tabellen Steuerungsinformation. Der Steuerberater liefert auf 1-2 Seiten die wesentlichen Aussagen: Was ist passiert, welche Abweichungen sind erklaerungsbeduerftig, welche Handlungsempfehlungen ergeben sich? Ein guter Erläuterungstext erhoeht die Mandantenbindung und schuetzt vor Krisenuebersehen.
 
 ## Kaltstart-Rueckfragen
 
@@ -30,13 +30,13 @@ Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bil
 
 ### Primaernormen
 
-**§ 33 StBerG** — Aufgabenkreis des StB; Erlaeuterung ist Bestandteil der Hilfeleistung in Steuersachen.
+**§ 33 StBerG** — Aufgabenkreis des StB; Erläuterung ist Bestandteil der Hilfeleistung in Steuersachen.
 
 **§ 57 Abs. 1 StBerG** — Gewissenhaftigkeit; auch in der Mandantenkommunikation.
 
-**§ 102 StaRUG** — Hinweis- und Warnpflicht bei Krisensignalen; im Erlaeuterungstext zu beruecksichtigen.
+**§ 102 StaRUG** — Hinweis- und Warnpflicht bei Krisensignalen; im Erläuterungstext zu beruecksichtigen.
 
-**§ 5 RDG** — Abgrenzung Rechts- vs. Wirtschaftsberatung; rein wirtschaftliche Erlaeuterung ist StB-Aufgabe.
+**§ 5 RDG** — Abgrenzung Rechts- vs. Wirtschaftsberatung; rein wirtschaftliche Erläuterung ist StB-Aufgabe.
 
 ### Standards
 
@@ -55,7 +55,7 @@ Die BWA ohne Erlaeuterung ist ein Zahlenfriedhof. Der Mandant — meist kein Bil
 | Mittelstand 5-50 Mio EUR | ab 10.000 EUR | ab 3 Prozent |
 | Großer Mittelstand > 50 Mio EUR | ab 50.000 EUR | ab 2 Prozent |
 
-### Phase 2 — Erlaeuterungs-Struktur
+### Phase 2 — Erläuterungs-Struktur
 
 ```
 ERLAEUTERUNGEN ZUR BWA
@@ -85,7 +85,7 @@ Stichtag: [Datum]
 [Erwartung Jahresende oder naechstes Quartal.]
 ```
 
-### Phase 3 — Sondereffekte erlaeutern
+### Phase 3 — Sondereffekte erläutern
 
 - Einmaleffekte (Anlagenverkauf, Versicherungsleistung): Hinweis auf "ohne Sondereffekt waere das Ergebnis ...".
 - Sonderabschreibungen (§ 7b, § 7g EStG): kurz erklaeren, dass es sich um steuerliche Förderung handelt.
@@ -111,11 +111,11 @@ Stichtag: [Datum]
 
 ## Strategie und Praxis-Tipps
 
-- Erlaeuterungstexte standardisieren: Bausteinbibliothek pflegen, individualisieren je Mandant.
-- Erlaeuterungstexte sind Haftungsschutz — bei spaeterem Streit kann der StB nachweisen, dass er hingewiesen hat.
+- Erläuterungstexte standardisieren: Bausteinbibliothek pflegen, individualisieren je Mandant.
+- Erläuterungstexte sind Haftungsschutz — bei spaeterem Streit kann der StB nachweisen, dass er hingewiesen hat.
 - Nicht ausufernd: Mandant liest 2 Seiten, nicht 10. Was nicht in 2 Seiten passt, gehoert ins Quartalsgespraech.
 - Wiederkehrende Posten in den Folgemonaten nur kurz erwaehnen, neuartige Effekte ausfuehrlich.
-- StBVV: Erlaeuterungstext als Teil der BWA-Erstellung pauschalisiert; bei Sondererlaeuterung Zeithonorar.
+- StBVV: Erläuterungstext als Teil der BWA-Erstellung pauschalisiert; bei Sondererlaeuterung Zeithonorar.
 
 ## Quellen und Updates
 

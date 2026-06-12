@@ -15,7 +15,7 @@ description: "Skill zum Nebentaetigkeitsrecht der Beamten nach §§ 97 ff. BBG b
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagungs- oder Widerrufsentscheidung des Dienstherrn ueberpruefen.
+Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagungs- oder Widerrufsentscheidung des Dienstherrn überprüfen.
 
 ## 2. Eingaben
 
@@ -34,11 +34,11 @@ Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 - Beeintraechtigung dienstlicher Pflichten.
 - Interessenkonflikt.
 - Ueberschreiten der Belastungsgrenze (regelmaessig 1/5 der Wochenarbeitszeit, § 99 Abs. 3 BBG).
-- Hoher Aufwand an Arbeitskraft im Verhaeltnis zur Hauptamtsleistung.
+- Hoher Aufwand an Arbeitskraft im Verhältnis zur Hauptamtsleistung.
 
 ### c) Verbotene Nebentaetigkeiten
-- Geschaeftsfuehrertaetigkeit in einem auf Gewinnerzielung gerichteten Unternehmen ohne weitere Genehmigung.
-- Beratungstaetigkeit für einen mit dem Dienstherrn in Geschaeftsbeziehung stehenden Auftraggeber.
+- Geschäftsführertaetigkeit in einem auf Gewinnerzielung gerichteten Unternehmen ohne weitere Genehmigung.
+- Beratungstaetigkeit für einen mit dem Dienstherrn in Geschäftsbeziehung stehenden Auftraggeber.
 
 ### d) Ablieferungspflicht
 - Bei Nebentaetigkeit im öffentlichen Dienst Ablieferung des die Hoechstgrenze uebersteigenden Anteils der Vergütung an den Dienstherrn.
@@ -67,4 +67,4 @@ Skill für Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit für einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Pruefraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.
+Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit für einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Prüfraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.

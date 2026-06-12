@@ -7,7 +7,7 @@ description: "Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koen
 
 ## Worum geht es?
 
-Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschaeftsstelle für Rechtsantraege" genannt). Dort können Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
+Bei jedem Amtsgericht gibt es eine **Rechtsantragsstelle** (oft auch "Rechtsantragstelle" oder "Geschäftsstelle für Rechtsantraege" genannt). Dort können Sie als Buerger **muendlich** Klagen aufnehmen lassen, Antraege stellen und sich formal beraten. Das ist kostenlos und insbesondere für Selbstvertreter sehr nuetzlich, wenn Sie unsicher sind, wie ein Schriftsatz auszusehen hat.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -75,7 +75,7 @@ Antrag auf Prozesskostenhilfe kann direkt zur Niederschrift erfolgen. Sie bringe
 Beim Rechtspfleger (eigene Stelle am AG, oft im Bereich Rechtsantragsstelle):
 
 - Vollstreckungsklausel.
-- Pfaendungs- und Ueberweisungsbeschluss.
+- Pfaendungs- und Überweisungsbeschluss.
 - Lohnpfaendung.
 
 Detailliert beim separaten Substitutionsagenten.

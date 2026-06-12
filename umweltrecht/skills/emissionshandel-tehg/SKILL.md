@@ -26,7 +26,7 @@ description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepfl
 
 - **§ 2 TEHG i.V.m. Anlage 1** — Anwendungsbereich; Taetigkeitsliste (Energieumwandlung, Industrie, Luftverkehr)
 - **§ 4 TEHG** — Genehmigungspflicht Anlagenbetreiber
-- **§ 5 TEHG** — Monitoring-Pflicht (akkreditierter Pruefstelle)
+- **§ 5 TEHG** — Monitoring-Pflicht (akkreditierter Prüfstelle)
 - **§ 7 TEHG** — Jaehrliche Berichtspflicht (verifizierter Emissionsbericht)
 - **§ 8 TEHG** — Abgabepflicht 30. April (Anzahl Berechtigungen entspricht verifizierten Emissionen)
 - **§ 9 TEHG** — Kostenlose Zuteilung (ZuV 2020, Produktbenchmarks)
@@ -43,7 +43,7 @@ description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepfl
 1. **TEHG-Pflicht prüfen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
 2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemäß MVO/DEHSt.
 3. **Zuteilungsantrag** (Phase 4: bis 31.05.2019 gestellt; laufende Anpassung bei Kapazitaetsaenderung): ZuV 2020-Benchmarks bestimmen; Baseline-Daten (2014-2018) einreichen.
-4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Pruefstelle verifizieren lassen.
+4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Prüfstelle verifizieren lassen.
 5. **Emissionsbericht 31. Maerz**: DEHSt-Einreichung.
 6. **Abgabe 30. April**: Berechtigungen (EUAs) im EUTL-Konto abbuchen; fehlende Berechtigungen zukaufen (Spot oder Forward).
 7. **Bei Zuteilungsbescheid-Angriff**: Widerspruch DEHSt, Klageverwaltungsgericht Berlin (§ 88 VwGO, auschliessliche Zuständigkeit VG Berlin).
@@ -104,7 +104,7 @@ Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
 - Abgabe-Pflicht: Berechtigungszertifikate (nEHS-Zertifikate) bis 31. Juli des Folgejahres.
 - DEHSt für nEHS-Registerueberwachung zuständig.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|

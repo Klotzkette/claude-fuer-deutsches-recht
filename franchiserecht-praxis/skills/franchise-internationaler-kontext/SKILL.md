@@ -1,6 +1,6 @@
 ---
 name: franchise-internationaler-kontext
-description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster für Cross-Border-Franchise im Franchiserecht."
+description: "Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Prüfraster für Cross-Border-Franchise im Franchiserecht."
 ---
 
 # Franchise Internationaler Kontext
@@ -41,7 +41,7 @@ description: "Franchise im internationalen Kontext. Skill behandelt internationa
 - Spanien Ley 7/1996.
 - Deutschland keine spezifische gesetzliche Disclosure.
 
-## Pruefraster
+## Prüfraster
 
 1. Anwendbares Recht klären.
 2. Sprachen klären.

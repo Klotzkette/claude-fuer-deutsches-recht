@@ -41,7 +41,7 @@ Der Anspruchsentwurf ist roh oder KI-generiert.
 1. Merkmalsgliederung praezise.
 2. Funktionale Merkmale moeglichst durch strukturelle Merkmale ergaenzen.
 3. Unteransprueche kaskadiert (Hauptanspruch -> abhaengige Ansprueche).
-4. Aequivalenzraum durch sprachlich offene Begriffe (z. B. "im Wesentlichen") wahren.
+4. Äquivalenzraum durch sprachlich offene Begriffe (z. B. "im Wesentlichen") wahren.
 
 ### BGH-Linie
 - BGH X ZR 95/05 "Schneidmesser" — Äquivalenz auch im Gebrauchsmusterrecht.

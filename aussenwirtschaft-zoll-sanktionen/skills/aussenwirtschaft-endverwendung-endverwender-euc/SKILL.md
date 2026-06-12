@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-endverwendung-endverwender-euc
-description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen un..."
+description: "Endverwender-Prüfung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Prüfen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen un..."
 ---
 
 # Endverwender-Prüfung und EUC: Authentizitaet und Risikoeinschaetzung
@@ -36,7 +36,7 @@ description: "Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizieru
 - **§ 18 AWG**: Strafbarkeit bei Falschangaben zur Endverwendung.
 - **Art. 4 Abs. 1 VO (EU) 2021/821**: Catch-All bei Kenntnis militaerischer Endverwendung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] EUC vollstaendig ausgefuellt und unterschrieben?
 - [ ] Endverwender-Identitaet verifiziert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

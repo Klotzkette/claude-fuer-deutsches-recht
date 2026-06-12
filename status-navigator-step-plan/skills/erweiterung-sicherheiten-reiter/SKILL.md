@@ -1,6 +1,6 @@
 ---
 name: erweiterung-sicherheiten-reiter
-description: "Optionaler Reiter Sicherheiten. Uebersicht aller Sicherheiten mit Status der Bestellung und Verwertbarkeit. Nimmt keine rechtliche Bewertung der Sicherheitenwirksamkeit vor — die bleibt der anwaltlichen Pruefung vorbehalten."
+description: "Optionaler Reiter Sicherheiten. Uebersicht aller Sicherheiten mit Status der Bestellung und Verwertbarkeit. Nimmt keine rechtliche Bewertung der Sicherheitenwirksamkeit vor — die bleibt der anwaltlichen Prüfung vorbehalten."
 ---
 
 # Erweiterung Sicherheiten-Reiter

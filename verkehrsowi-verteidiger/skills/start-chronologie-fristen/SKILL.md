@@ -150,7 +150,7 @@ Das Plugin folgt dem Verfahrensablauf: Anhörung → Bussgeldbescheid → Einspr
 - **StVG** — Strassenverkehrsgesetz; § 24 StVG Grundnorm für Verkehrsordnungswidrigkeiten, § 25 StVG Fahrverbot.
 - **FAER** — Fahreignungsregister; Punkteregister in Flensburg beim Kraftfahrt-Bundesamt.
 - **Messakte** — Vollstaendige Unterlagen zum Messvorgang: Eichschein, Rohmessdaten, Geraetefoto, Aufstellprotokoll.
-- **Standardisiertes Messverfahren** — Pruefstandsgerechtes Verfahren mit amtlich anerkanntem Messgeraet; Gerichte dürfen auf Beweiswert vertrauen, solange keine konkreten Fehlerhinweise vorliegen.
+- **Standardisiertes Messverfahren** — Prüfstandsgerechtes Verfahren mit amtlich anerkanntem Messgeraet; Gerichte dürfen auf Beweiswert vertrauen, solange keine konkreten Fehlerhinweise vorliegen.
 - **Verfolgungsverjaehrung** — Nach §§ 26 StVG und 31 ff. OWiG: Verjaeht die Tat, kann kein Bussgeld mehr verhaengt werden.
 - **Rechtsbeschwerde** — Rechtsmittel nach § 79 OWiG zum Oberlandesgericht gegen Urteil des Amtsgerichts im OWi-Verfahren.
 - **Haertefall** — Ausnahme vom Fahrverbot nach § 25 StVG, wenn unverhieltnisgemäßige berufliche Folgen drohen.

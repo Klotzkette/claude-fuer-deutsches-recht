@@ -15,11 +15,11 @@ description: "Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Met
 
 ## Worum es geht
 
-Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine andere. In der Rechtsgeschichte sind haeufige Anachronismen: Schuldrecht-BGB-Kategorien auf roemisches Recht anwenden, NS-Recht mit moderner Menschenrechtsdoktrin messen ohne Kontextualisierung, Weimarer Parteienrecht mit GG-Massstab beurteilen. Korrekter Gegenwartsbezug hingegen benennt: (1) das historische Konzept in seinem Kontext, (2) die historische Kritik, (3) den Unterschied zum heutigen Recht, (4) was das für heutige Argumente bedeutet. Savignys Auslegungskanons, die historische Auslegung (genetische Interpretation), und die Kontinuitaetsfrage sind Kernfelder.
+Anachronismus ist die unzulässige Anwendung von Konzepten einer Epoche auf eine andere. In der Rechtsgeschichte sind haeufige Anachronismen: Schuldrecht-BGB-Kategorien auf roemisches Recht anwenden, NS-Recht mit moderner Menschenrechtsdoktrin messen ohne Kontextualisierung, Weimarer Parteienrecht mit GG-Maßstab beurteilen. Korrekter Gegenwartsbezug hingegen benennt: (1) das historische Konzept in seinem Kontext, (2) die historische Kritik, (3) den Unterschied zum heutigen Recht, (4) was das für heutige Argumente bedeutet. Savignys Auslegungskanons, die historische Auslegung (genetische Interpretation), und die Kontinuitaetsfrage sind Kernfelder.
 
 ## Kernnormen / Kernquellen
 
-- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Massstab für Gegenwartsbezug
+- **GG Art. 79 Abs. 3**: Ewigkeitsklausel als Maßstab für Gegenwartsbezug
 - **BVerfGE 62, 1** (1982): Historische Auslegung als Methode
 - **Savigny, System Bd. I** (1840): Vier Kanons inkl. historische Auslegung
 - **BGB § 133 und § 157**: Auslegungsnormen mit historischem Hintergrund

@@ -35,7 +35,7 @@ description: "Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten im 
 - Sprengstoffumgang.
 - Hoehenflug.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Dienstform?
 2. Wie haeufig Schicht?

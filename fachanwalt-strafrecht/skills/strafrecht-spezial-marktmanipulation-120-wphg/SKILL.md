@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-marktmanipulation-120-wphg
-description: "Marktmanipulation § 120 WpHG iVm Art: 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff..."
+description: "Marktmanipulation § 120 WpHG iVm Art: 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Prüfraster Art. 12 MAR Manipulationsbegriff..."
 ---
 
 # Marktmanipulation § 120 WpHG iVm Art
@@ -14,7 +14,7 @@ description: "Marktmanipulation § 120 WpHG iVm Art: 15 MAR: Anwendungsfall Vert
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Algo-Trading Krypto Boersenmakler.
+**Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Prüfraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Algo-Trading Krypto Boersenmakler.
 
 ### Marktmanipulation § 120 WpHG iVm Art. 15 MAR
 
@@ -42,8 +42,8 @@ Spezial-Mandat: Anklage Marktmanipulation. Klassische Konstellationen: Spoofing 
 
 Drei Varianten:
 
-1. **Handelsgestuetzt (Art. 12 Abs. 1 lit. a MAR):** Geschaefte oder Handelsauftraege, die falsche oder irrefuehrende Signale geben oder kuenstliches Preisniveau erzeugen.
-2. **Handlungsgestuetzt (Art. 12 Abs. 1 lit. b MAR):** Geschaefte unter Vorspiegelung oder sonstige Taeuschung.
+1. **Handelsgestuetzt (Art. 12 Abs. 1 lit. a MAR):** Geschäfte oder Handelsauftraege, die falsche oder irrefuehrende Signale geben oder kuenstliches Preisniveau erzeugen.
+2. **Handlungsgestuetzt (Art. 12 Abs. 1 lit. b MAR):** Geschäfte unter Vorspiegelung oder sonstige Taeuschung.
 3. **Informationsgestuetzt (Art. 12 Abs. 1 lit. c und d MAR):** Verbreitung von Informationen, die falsche oder irrefuehrende Signale geben oder ein kuenstliches Kursniveau erzeugen; auch durch Massenmedien oder Internet.
 
 ### Beispiele Art. 12 Abs. 2 MAR
@@ -93,7 +93,7 @@ Marktmanipulation ist verboten.
 
 - **§ 120 WpHG / § 119 WpHG Insiderhandel.** Bei Kombination Tateinheit möglich.
 - **§ 120 WpHG / § 264a StGB Kapitalanlagebetrug.** Bei Prospekt-/Kapitalmarktangaben Tateinheit.
-- **§ 120 WpHG / § 263 StGB.** Bei Vermoegensschaedigung Tateinheit möglich.
+- **§ 120 WpHG / § 263 StGB.** Bei Vermögensschaedigung Tateinheit möglich.
 - **§ 120 WpHG / § 261 StGB Geldwaesche.** Nach Reform 2021.
 - **§ 120 WpHG / Art. 30 MAR Verwaltungssanktion.** Parallel.
 
@@ -105,7 +105,7 @@ Marktmanipulation ist verboten.
 - **Einziehung § 73 StGB** Manipulationsgewinn.
 - **Berufsverbot § 70 StGB** bei Wertpapierdienstleistern, Vorstaenden.
 - **BaFin-Sanktionen Art. 30 MAR** bis 5 Mio. EUR natuerliche / 15 Mio. oder 15 Prozent juristische Person.
-- **Disqualifikation Vorstand / Geschaeftsfuehrer** § 6 GmbHG, § 76 AktG (5 Jahre).
+- **Disqualifikation Vorstand / Geschäftsführer** § 6 GmbHG, § 76 AktG (5 Jahre).
 - **Veroeffentlichung der Sanktion** Art. 34 MAR.
 
 ## Mustertexte

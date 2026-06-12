@@ -19,7 +19,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 ## Kaltstart-Rueckfragen
 
-1. Konstellation: Rentner, Selbstaendiger, Holding, Immobilien?
+1. Konstellation: Rentner, Selbständiger, Holding, Immobilien?
 2. NHR-Status in Portugal (eingeschraenkt seit 2024)?
 3. Pension aus DRV, berufsstaendisch oder privat?
 4. Madeira oder portugiesisches Festland?
@@ -63,7 +63,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 - Folge: deutsche Pensionen voll im Welteinkommen.
 
 ### Besonderheiten
-- **NHR-Status (non-habitual resident)**: ermoeglichte über einen Zeitraum von bis zu 10 Jahren eine ueberwiegend begünstigte Besteuerung in Portugal (insb. für auslaendische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prüft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
+- **NHR-Status (non-habitual resident)**: ermoeglichte über einen Zeitraum von bis zu 10 Jahren eine ueberwiegend begünstigte Besteuerung in Portugal (insb. für ausländische Pensionen — historisch in Teilen voellige Steuerbefreiung, ab 2020 Mindeststeuer 10 Prozent eingefuehrt). Deutsches BMF prüft Subject-to-Tax-Anwendung nach § 50d Abs. 9 EStG.
 - **NHR-Reform 2024**: Das NHR-Programm ist für Neuzugaenge ab 2024 weitgehend geschlossen; Bestandsschutz für Altfaelle mit NHR-Registrierung vor 2024. Nachfolger ist das IFICI-Regime (Incentivo Fiscal a Investigacao Cientifica e Inovacao — für Wissenschaftler, Hochqualifizierte und bestimmte Investoren). Konkrete Einzelheiten nach portugiesischem Steuerrecht im Anwendungsfall prüfen.
 - **Madeira**: Madeira International Business Center mit ermaessigtem Koerperschaftsteuersatz; DBA-Berechtigung prüfen.
 - **Pensionen** Art. 18: gesetzliche Renten Wohnsitzstaat, öffentlicher Dienst Kassenstaat.
@@ -108,8 +108,8 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung auslaendischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI für Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur über IFICI |
-| Algarve-Wohnsitz mit Pension DBA-Anrechnung vs. DE-Wohnsitz | PT-Besteuerung auslaendischer Pensionen (auch DRV); DE-Anrechnung max. DE-Steuer | DE-Wohnsitz: nur deutsche Besteuerung | bei NHR/IFICI Algarve guenstiger; ohne NHR mit deutscher EStG-Belastung haeufig DE-Wohnsitz besser |
+| NHR-Bestandsschutz behalten vs. nach IFICI wechseln | NHR mit 10-Prozent-Sonderbesteuerung ausländischer Pensionen (ab 2020); endet nach 10 Jahren | IFICI für Wissenschaftler/Hochqualifizierte; engere Voraussetzungen | bei aktiven NHR-Faellen Bestand sichern; Neuzugaenge nur über IFICI |
+| Algarve-Wohnsitz mit Pension DBA-Anrechnung vs. DE-Wohnsitz | PT-Besteuerung ausländischer Pensionen (auch DRV); DE-Anrechnung max. DE-Steuer | DE-Wohnsitz: nur deutsche Besteuerung | bei NHR/IFICI Algarve guenstiger; ohne NHR mit deutscher EStG-Belastung haeufig DE-Wohnsitz besser |
 | Madeira-Holding (5 Prozent KSt) vs. Portugal Festland (21 Prozent KSt) | Madeira International Business Center | Festland | bei Pillar-Two-Mindeststeuer 15 Prozent ab 2024 Madeira-Vorteil reduziert |
 | Schachteldividende PT-S.A. an DE-Mutter über DBA (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten | 0 Prozent via Freistellung | EU-MTRL vorzugswuerdig |
 
@@ -129,7 +129,7 @@ Das DBA-Portugal vom 15.07.1980 (BGBl. 1982 II S. 129, in Kraft 08.10.1982) rege
 >
 > Schritt 2: DBA-PT Art. 18: gesetzliche Renten Wohnsitzstaat — Portugal hat Besteuerungsrecht.
 >
-> Schritt 3: NHR-Bestandsschutz: 10 Prozent Sonderbesteuerung in PT auf auslaendische Pensionen (seit 2020).
+> Schritt 3: NHR-Bestandsschutz: 10 Prozent Sonderbesteuerung in PT auf ausländische Pensionen (seit 2020).
 >
 > Schritt 4: § 50d Abs. 9 EStG-Prüfung in DE: bei effektiver portugiesischer Besteuerung (10 Prozent ist substanziell) regelmaessig Anrechnungsmethode bei DBA-PT.
 >

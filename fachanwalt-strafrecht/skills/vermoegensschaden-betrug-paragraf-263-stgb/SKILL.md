@@ -1,13 +1,13 @@
 ---
 name: vermoegensschaden-betrug-paragraf-263-stgb
-description: "Vermoegensschaden Betrug § 263 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Vermögensschaden Betrug § 263 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
 ---
 
-# Vermoegensschaden Betrug § 263 StGB
+# Vermögensschaden Betrug § 263 StGB
 
 ## Worum es geht
 
-Prüfe **Vermoegensschaden Betrug § 263 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Vermögensschaden Betrug § 263 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

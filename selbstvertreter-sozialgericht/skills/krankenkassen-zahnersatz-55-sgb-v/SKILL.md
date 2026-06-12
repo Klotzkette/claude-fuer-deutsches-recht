@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-zahnersatz-55-sgb-v
-description: "Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine."
+description: "Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Prüfraster und Beratungsbausteine."
 ---
 
 # Krankenkassen Zahnersatz 55 Sgb V
@@ -41,7 +41,7 @@ description: "Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzu
 - Implantate sind als Regelversorgung in der Regel nicht vorgesehen.
 - Ausnahme: angeborene Anomalien, schwere Kieferdefekte.
 
-## Pruefraster
+## Prüfraster
 
 1. Heil- und Kostenplan eingereicht?
 2. Festzuschuss richtig berechnet?

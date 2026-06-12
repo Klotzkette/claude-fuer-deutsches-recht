@@ -36,7 +36,7 @@ Sieben-Fragen-Diagnose:
 
 ## Mandantenfuehrung Schritt-für-Schritt
 
-### Klaegerseite
+### Klägerseite
 
 1. **Zuerst:** Beleg-Akte anlegen — Mailverkehr, Screenshots, Auskunftsersuchen nach Art. 15 DSGVO mit Antwort.
 2. **Als zweites:** Schadensdarstellung konkretisieren — Gefuehlssituation, zeitlicher Verlauf, Folgen (Sorge, Kontrollverlust, Aengste, konkrete Aufwendungen).
@@ -69,7 +69,7 @@ Sieben-Fragen-Diagnose:
 > Beklagte: [Verantwortlicher, Anschrift]
 > Streitwert: vorlaeufig [Betrag]
 >
-> Antrag: Die Beklagte wird verurteilt, an die Klaegerseite [Betrag] nebst Zinsen in Höhe von fuenf Prozentpunkten über dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
+> Antrag: Die Beklagte wird verurteilt, an die Klägerseite [Betrag] nebst Zinsen in Höhe von fuenf Prozentpunkten über dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
 >
 > Begruendung:
 > I. Sachverhalt (konkret Vorfall, Datum, Datenkategorie).

@@ -37,7 +37,7 @@ A leiht Sense von B; verschwindet im Heuschober.
 - §§ 598-606 BGB Leihe.
 - §§ 688-700 BGB Verwahrung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Realvertrag?
 2. Haftungsgrad?

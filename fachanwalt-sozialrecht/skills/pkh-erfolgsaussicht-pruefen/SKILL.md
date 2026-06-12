@@ -1,6 +1,6 @@
 ---
 name: pkh-erfolgsaussicht-pruefen
-description: "Pkh Erfolgsaussicht Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Pkh Erfolgsaussicht Pruefen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer bel..."
+description: "Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer bel..."
 ---
 
 # Pkh Erfolgsaussicht Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Museumsbauten und denkmalgesc
 
 Denkmalgeschuetzte Gebaeude und Museumsbauten erfordern bei der Restaurierung besondere Materialkenntnis und Behördenkommunikation.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Denkmalschutzbehoerden, Restauratoren und Fachhandwerker.
-Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spezifische Pruefmethoden.
+Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spezifische Prüfmethoden.
 
 ## Bauwerk und Auftrag
 
@@ -43,7 +43,7 @@ Sichtsteinarbeiten, Gewoelbesicherung und historische Bautechniken verlangen spe
 - DSchG des jeweiligen Bundeslandes: Denkmalschutzbehorden-Genehmigung für Eingriffe
 - VOB/C DIN 18350 Putze und Stuckarbeiten: Instandsetzung historischer Putzflaechen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Moertelanalyse: Probenahme Presse-Moertel, Labor EN 998 Druckfestigkeit und Porenstruktur
 2. Rissmonitoring: Gipsmarken oder Glasstaebe mit Datum anbringen, woechentliche Ablesung, Protokoll

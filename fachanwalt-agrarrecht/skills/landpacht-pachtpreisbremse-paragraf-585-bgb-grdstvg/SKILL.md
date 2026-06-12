@@ -1,6 +1,6 @@
 ---
 name: landpacht-pachtpreisbremse-paragraf-585-bgb-grdstvg
-description: "Ueberhoehte Landpacht und Pachtpreiskontrolle nach Paragraf 4 LPachtVG bei verbindenden Vertraegen mit Verwandten. Pruefraster Genehmigungspflicht ortsuebliches Entgelt Anpassungsklage."
+description: "Ueberhoehte Landpacht und Pachtpreiskontrolle nach Paragraf 4 LPachtVG bei verbindenden Vertraegen mit Verwandten. Prüfraster Genehmigungspflicht ortsuebliches Entgelt Anpassungsklage."
 ---
 
 # Landpacht Pachtpreisbremse Paragraf 585 BGB Grdstvg

@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-reha-40-sgb-v
-description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhaeltnis zur Rentenversicherung. Liefert Antragsvorlage."
+description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhältnis zur Rentenversicherung. Liefert Antragsvorlage."
 ---
 
 # Krankenkassen Reha 40 Sgb V
@@ -48,7 +48,7 @@ description: "Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Vo
 
 - Wunsch- und Wahlrecht hinsichtlich Klinik.
 
-## Pruefraster
+## Prüfraster
 
 1. Aerztliche Verordnung (Muster 61)?
 2. Reha-Bedarf belegbar?

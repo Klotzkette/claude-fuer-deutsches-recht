@@ -33,7 +33,7 @@ description: "Klimaklagen Verbandsklage Umwrg: ordnet Normen, Nutzerangaben, Fri
 - Verwaltungsgerichtliche Klage auf Erlass von Klimaschutz-Maßnahmen
 - **BVerwG 30.11.2023, 8 C 7.22** (Klage DUH/BUND auf Klimaschutz-Sofortprogramm § 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach § 3 UmwRG anerkannten Umweltvereinigungen für den Klimaschutzprogramm-Anspruch nach KSG. Quelle: bverwg.de — Pressemitteilung 79/2023.
 - OVG Berlin-Brandenburg (Vorinstanzen DUH/BUND vs. BMU) — Aktenzeichen vor Ausgabe verifizieren über berlin.de/justiz
-- KSG-Aenderungsgesetz 2024 (BGBl. I 2024 S. 251) — Sofortprogramm-Mechanismus § 8 KSG modifiziert (Sektorenzielung gelockert, jahresbezogene Sektorgrenze ueberarbeitet)
+- KSG-Änderungsgesetz 2024 (BGBl. I 2024 S. 251) — Sofortprogramm-Mechanismus § 8 KSG modifiziert (Sektorenzielung gelockert, jahresbezogene Sektorgrenze ueberarbeitet)
 
 ### Typ 3 — Klage Verband gegen Genehmigung mit Klima-Bezug
 

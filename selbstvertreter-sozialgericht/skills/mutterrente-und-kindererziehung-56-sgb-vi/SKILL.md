@@ -1,6 +1,6 @@
 ---
 name: mutterrente-und-kindererziehung-56-sgb-vi
-description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster."
+description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Prüfraster."
 ---
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi
@@ -40,7 +40,7 @@ description: "Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill er
 
 - Bis 10. Lebensjahr des Kindes — Beruecksichtigungszeit (kein Entgeltpunkt, aber rentenrechtliche Wirkung).
 
-## Pruefraster
+## Prüfraster
 
 1. Kinder im Versicherungsverlauf erfasst?
 2. Reform-Stand korrekt angewendet?

@@ -118,7 +118,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Einstweiliger Rechtsschutz nach VwGO beantragen | Eilantragsschriftsatz nach Pruefschema; Template unten |
+| Standard — Einstweiliger Rechtsschutz nach VwGO beantragen | Eilantragsschriftsatz nach Prüfschema; Template unten |
 | Variante A — Interessenabwaegung spricht gegen Erfolg | Folgenabwaegung statt summarischer Prüfung in den Vordergrund |
 | Variante B — Behörde wuerde Vollziehung freiwillig aussetzen | Anfrage bei Behörde zuerst; Gericht nur wenn Behörde ablehnt |
 | Variante C — Eilrechtsschutz erfolglos war Hauptsache laeuft | Hauptsacheklage parallel weiter fuehren |
@@ -276,7 +276,7 @@ Es wird beantragt, die aufschiebende Wirkung wiederherzustellen.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

@@ -3,7 +3,7 @@ name: geschaeftsgeheimnis-geschgehg
 description: "Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen im Hinweisgeberschutz Compliance."
 ---
 
-# Geschaeftsgeheimnis Geschgehg
+# Geschäftsgeheimnis Geschgehg
 
 ## Arbeitsweg
 

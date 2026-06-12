@@ -44,7 +44,7 @@ description: "Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO f
 
 ## Aktuelle Rechtsprechung
 
-- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mail-Vorlagepflicht und Erstqualifikationsrecht des Steuerpflichtigen in der Aussenpruefung) — relevant für Einspruchsbegruendungen gegen Pruefungsfeststellungen und Bescheide. Volltext: dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) / BFH-Datenbank.
+- **BFH, Beschluss vom 30.04.2025 — XI R 15/23** (E-Mail-Vorlagepflicht und Erstqualifikationsrecht des Steuerpflichtigen in der Aussenpruefung) — relevant für Einspruchsbegruendungen gegen Prüfungsfeststellungen und Bescheide. Volltext: dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BFH&Datum=30.04.2025&Aktenzeichen=XI+R+15/23) / BFH-Datenbank.
 - **BFH, Vorlagebeschluss vom 08.05.2024 — VIII R 9/23** (anhaengig BVerfG 1 BvL 8/24) — Verfassungsmaessigkeit der Aussetzungszinsen (§ 237 AO); für AdV-Antraege im Einspruchsverfahren relevant.
 - **BFH, Beschluss vom 21.03.2025 — X B 21/25 (AdV)** zu Saeumniszuschlaegen § 240 AO — keine verfassungsrechtlichen Zweifel an der Höhe für Zeitraeume nach 31.12.2018.
 - Im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über dejure.org / BFH-Datenbank verifizieren.

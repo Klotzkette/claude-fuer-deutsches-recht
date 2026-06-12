@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-beratung-interne
-description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: interessenkollision beratung und prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

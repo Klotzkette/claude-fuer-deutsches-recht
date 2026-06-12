@@ -14,7 +14,7 @@ description: "Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Pruefraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung. Normen: §§ 119 GWB, 17 VgV (Verhandlungsverfahren), § 18 VgV (Wettbewerblicher Dialog), § 19 VgV (Innovationspartnerschaft). Prüfraster: Voraussetzungen § 14 Abs. 3 VgV, Teilnahmewettbewerb, Mindestanforderungen, Verhandlungsphasen, Reduktion Loesungen, Wahrung Gleichbehandlung waehrend Verhandlung. Output Verfahrensplan, Bewertungsmatrix Verhandlungsphasen. Abgrenzung: Offenes Verfahren siehe fachanwalt-vergaberecht-orientierung; Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 ### Verhandlungsverfahren und wettbewerblicher Dialog
 
@@ -51,7 +51,7 @@ Wenn Loesung nicht am Markt verfuegbar; Phasenmodell Forschung/Entwicklung + spa
 ## Gleichbehandlungsgebot in Verhandlung
 - Gleiche Informationen an alle verbleibenden Bieter.
 - Keine Preisgabe vertraulicher Bieterinformationen.
-- Aenderung Mindestanforderungen unzulaessig; Aenderung Zuschlagskriterien grundsätzlich unzulaessig.
+- Änderung Mindestanforderungen unzulaessig; Änderung Zuschlagskriterien grundsätzlich unzulaessig.
 - Protokollierung jeder Verhandlung im Vergabevermerk.
 
 ## Wettbewerblicher Dialog: Phasen
@@ -62,7 +62,7 @@ Wenn Loesung nicht am Markt verfuegbar; Phasenmodell Forschung/Entwicklung + spa
 
 ## Typische Fehler
 - Verhandlungsverfahren ohne Vorliegen der Voraussetzungen § 14 Abs. 3 VgV (haeufig in OLG-Beschwerden).
-- Aenderung der Zuschlagskriterien in der Verhandlungsphase.
+- Änderung der Zuschlagskriterien in der Verhandlungsphase.
 - Verraten von Bieterinformationen.
 - Kein BAFO obwohl Verhandlung ergebnislos.
 - Dialogphase wird zur Mengen-Bieter-Reduktion ohne Substanz missbraucht.

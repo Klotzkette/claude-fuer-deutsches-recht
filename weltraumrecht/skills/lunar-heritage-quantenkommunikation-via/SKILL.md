@@ -43,7 +43,7 @@ description: "Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Art
 - **Sammlerwert** historischer Artefakte vs. NASA-Eigentumsrechte (US-Recht: historische Artefakte gelten als US-Bundeseigentum, mit Sondervorschriften für geschenkte Apollo-Materialien).
 - **Tourismus**: Wettbewerb zwischen Anbietern um Annaeherungspflicht an Apollo-Stellen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Mondbereich, welche historische Stelle?
 2. Welche nationalen und voelkerrechtlichen Vorschriften?

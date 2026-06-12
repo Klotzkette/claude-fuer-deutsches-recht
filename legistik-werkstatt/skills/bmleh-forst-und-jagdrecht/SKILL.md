@@ -1,11 +1,11 @@
 ---
 name: bmleh-forst-und-jagdrecht
-description: "Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.); Akteure (BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pr..."
+description: "Sachbereich Forst- und Jagdrecht im Geschäftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.); Akteure (BLE; Länder-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pr..."
 ---
 
 # Forst- und Jagdrecht (BMLEH)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Forst- und Jagdrecht im Geschaeftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Forst- und Jagdrecht im Geschäftsbereich BMLEH. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normb
 
 Kernbestand des Sachfelds: BWaldG; BJagdG; LJagdGes der Länder; FleischhygieneG; ForstWG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Foederale Kompetenz; Bockschwund; EUDR-Sorgfaltspflichten.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

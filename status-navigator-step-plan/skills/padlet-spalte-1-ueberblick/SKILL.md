@@ -1,9 +1,9 @@
 ---
 name: padlet-spalte-1-ueberblick
-description: "Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan-Excel. Ueberblick aller erforderlichen Dokumente mit Ampelfaerbung, Sortierung nach Vertragsebene und sieben Kartenfeldern (Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von, Rechtsgrundlage, Zweck)."
+description: "Baut die erste Padlet-Spalte als Pendant zu Reiter 1 der Step-Plan-Excel. Überblick aller erforderlichen Dokumente mit Ampelfaerbung, Sortierung nach Vertragsebene und sieben Kartenfeldern (Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von, Rechtsgrundlage, Zweck)."
 ---
 
-# Padlet Reiter 1 Ueberblick aufbauen
+# Padlet Reiter 1 Überblick aufbauen
 
 ## Ziel
 Spalte 1 des Padlets bildet Reiter 1 der Step-Plan-Excel ab: alle

@@ -1,11 +1,11 @@
 ---
 name: klagefreigabe-belegte-forderung
-description: "Pruefraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjährung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entscheidung mit Begruendung und Aktenvermerk."
+description: "Prüfraster ob eine Forderung klagefaehig ist. Verlangt Belegnachweis Faelligkeit Verzug Verjährung Zustellfaehigkeit und positive Aussicht. Pinpoints ZPO 253 ZPO 138 BGB 286 BGB 195 BGB 199 ZPO 167. Liefert binaere Klagefreigabe-Entscheidung mit Begruendung und Aktenvermerk."
 ---
 
 # Klagefreigabe belegte Forderung
 
-Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Pruefraster. Liefere das Raster und das Freigabe-Vermerksmuster.
+Bevor Klage eingereicht wird durchlaeuft die Forderung ein Pflicht-Prüfraster. Liefere das Raster und das Freigabe-Vermerksmuster.
 
 ## Pflicht-Raster
 

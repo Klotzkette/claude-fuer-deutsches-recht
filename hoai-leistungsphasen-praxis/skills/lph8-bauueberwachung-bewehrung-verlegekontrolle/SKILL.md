@@ -37,11 +37,11 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 - § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Pflicht zur Bewehrungsabnahme vor Betonage
 - HOAI 2021 § 34 Anlage 10 LPH 8: Bewehrungsabnahme als Grundleistung Bauueberwachung Hochbau und Ingenieurbau
 - VOB/C DIN 18331 Betonarbeiten: Dokumentationspflichten Bewehrungseinbau
-- DIN 488-1:2009-08 Betonstahl: Gueteeigenschaften BSt 500 S und 500 M, Pruefanforderungen
+- DIN 488-1:2009-08 Betonstahl: Gueteeigenschaften BSt 500 S und 500 M, Prüfanforderungen
 - DIN EN 1992-1-1 Eurocode 2: Betondeckung cmin und cdev, Stosslaeangen, Mindestbewehrung, Biegeradius
 - DBV-Merkblatt Betondeckung und Bewehrung 2020: Abstandhalter-Anordnung, Toleranzregeln für Betondeckung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Betondeckungsmessung nach Ausschalen: Covermeter Profometer 650 oder Hilti PS200, Messung Raster 1 m x 1 m, Grenzwert Unterschreitung kleiner 10 mm unter cmin
 2. Stabdurchmesser Stichprobe: Schieblehre je 10. Stab gemessen, Toleranz nach DIN 488 +-4 Prozent, Protokolliert mit Lage GPS
@@ -54,7 +54,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 
 - Fotodokumentation Bewehrungsabnahme: Systemfoto Flaeche, Detailfoto Stosslage, Detailfoto Abstandhalter, Detailfoto Aussparungsschalung, Zeitstempel
 - BIM360 Photo Tracking: Foto gelinkt an IFC-Bauteil-ID Deckenfeld-Nr oder Stuetzen-ID, exportierbar je Bauteil als Abnahme-Paket
-- Matterport 360-Grad-Scan große Bewehrungsflaechen: Deckenbewehrung 3D dokumentiert, massstabsgerechte Abstands-Messung im Viewer
+- Matterport 360-Grad-Scan große Bewehrungsflaechen: Deckenbewehrung 3D dokumentiert, maßstabsgerechte Abstands-Messung im Viewer
 - Lieferschein-Archiv: Scan per Handy-App, Verknuepfung Chargen-Nr zu Stahlsorte und Einbaubereich, vollstaendig für Gewaehrleistungsakte
 - Covermeter-Messprotokoll: Tabellarisch je Rasterfeld, Farbmarkierung Unterschreitung rot, Export PDF für Bauherrenakte
 
@@ -69,7 +69,7 @@ Die Bewehrungsabnahme ist eine der wichtigsten Pflichten des Bauueberwachungsing
 ## Typische Fallstricke
 
 - Abstandhalter bei Plattenunterkante weggedrückt: Durch Betongewicht rutschen Abstandhalter weg, Betondeckungsunterschreitung nach Ausschalen
-- Fehlende aktuelle Bewehrungsplan-Revision: Aeltere Plversion eingebaut, Nachtraegliche Aenderungen nicht im Feld, Statik-Widerspruch
+- Fehlende aktuelle Bewehrungsplan-Revision: Aeltere Plversion eingebaut, Nachtraegliche Änderungen nicht im Feld, Statik-Widerspruch
 - Stosslage in Momentenmaximum: Fehlplatzierung Stosslage durch unklare Plandarstellung, Tragfaehigkeitsminderung im Stutzmomentbereich
 - Chargen-Wechsel ohne neue Werksbescheinigung: Stahl anderer Schmelze ohne Nachweis verbaut, Guetedokumentation lueckenhaft
 

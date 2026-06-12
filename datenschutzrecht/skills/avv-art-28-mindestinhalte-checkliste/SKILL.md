@@ -1,19 +1,19 @@
 ---
 name: avv-art-28-mindestinhalte-checkliste
-description: "Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Pruefra..."
+description: "Vollstaendige Pflichtinhalte-Checkliste für einen AVV nach Art. 28 Abs. 3 lit. a bis h DSGVO. Jede der acht Pflichtklauseln mit Sollformulierung Fallback-Position und Auditfrage. Geeignet für das Drafting eines neuen AVV oder das Auditing eines bestehenden AVV. Output: Klausel-für-Klausel-Prüfra..."
 ---
 
 # AVV-Mindestinhalte nach Art. 28 Abs. 3 DSGVO – Klauselcheckliste
 
 ## Zweck / Purpose
 
-Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel für Klausel mit Soll-Position, Fallback und Pruefkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
+Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 3 DSGVO – Klausel für Klausel mit Soll-Position, Fallback und Prüfkriterium. Purpose (EN): Mandatory-content checklist for DPAs under Art. 28 (3) GDPR, clause by clause.
 
 ## Wann dieses Modul hilft
 
 - Beim Drafting eines neuen AVV ist sicherzustellen, dass alle acht Pflichtinhalte vollstaendig sind.
 - Beim Auditing eines vorgelegten AVV ist zu prüfen, ob jede Pflichtklausel ihren Mindestanforderungen genuegt.
-- Bei Aufsichtsbehoerden-Pruefungen ist der vollstaendige Pflichtkatalog nachweisbar zu dokumentieren.
+- Bei Aufsichtsbehoerden-Prüfungen ist der vollstaendige Pflichtkatalog nachweisbar zu dokumentieren.
 
 ## Rechtlicher Rahmen
 
@@ -25,11 +25,11 @@ Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 ### Rahmenangaben (Art. 28 Abs. 3 Satz 2 DSGVO)
 
-| Pflichtangabe | Pruefkriterium |
+| Pflichtangabe | Prüfkriterium |
 |---|---|
 | Gegenstand der Verarbeitung | Konkret benannt, nicht "Datenschutz allgemein" |
 | Dauer | Vertragslaufzeit, ggf. Verlaengerung |
-| Art und Zweck | Operative Funktion und Geschaeftszweck |
+| Art und Zweck | Operative Funktion und Geschäftszweck |
 | Art der personenbezogenen Daten | Datenarten katalogisiert (Stammdaten, Verkehrsdaten, Inhaltsdaten, besondere Kategorien Art. 9 DSGVO) |
 | Kategorien Betroffener | Mitarbeitende, Mandanten, Kinder, Patienten etc. |
 | Pflichten und Rechte des Verantwortlichen | Mindestens Weisungsrechte, Kontrollrechte, Beendigungsrechte |
@@ -50,7 +50,7 @@ Pflichtinhalte-Checkliste für Auftragsverarbeitungsvertraege nach Art. 28 Abs. 
 
 **lit. g – Loeschung oder Rueckgabe.** Nach Wahl des Verantwortlichen alle personenbezogenen Daten loeschen oder zurueckgeben nach Ende des Auftrags, ausser gesetzliche Aufbewahrungspflichten. Auditfrage: Format der Rueckgabe definiert? (Querverweis: avv-loeschung-rueckgabe-nach-vertragsende)
 
-**lit. h – Audit und Nachweis.** Alle erforderlichen Informationen zum Nachweis bereitstellen; Ueberpruefungen einschliesslich Inspektionen durch Verantwortlichen oder Prüfer ermoeglichen. Auditfrage: Frequenz, Form, Kosten geregelt? (Querverweis: avv-audit-und-kontrollrechte)
+**lit. h – Audit und Nachweis.** Alle erforderlichen Informationen zum Nachweis bereitstellen; Überprüfungen einschliesslich Inspektionen durch Verantwortlichen oder Prüfer ermoeglichen. Auditfrage: Frequenz, Form, Kosten geregelt? (Querverweis: avv-audit-und-kontrollrechte)
 
 ## Mustertext / Template
 

@@ -1,6 +1,6 @@
 ---
 name: entwerfen-oder-pruefen-router
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Prüfen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
 # Entwerfen Oder Prüfen Router

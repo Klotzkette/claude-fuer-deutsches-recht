@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmv
-description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete"
+description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete"
 ---
 
 # Ressortaufgaben BMV
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsberei
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMV
 - Ressort-Kompass aus `legw-ressort-bmv`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

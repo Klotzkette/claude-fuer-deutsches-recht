@@ -3,7 +3,7 @@ name: ifggebv-gebuehren-zustaendigkeit-pruef
 description: "Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Ifggebv Gebühren Zuständigkeit Pruef
+# Ifggebv Gebühren Zuständigkeit Prüf
 
 ## Arbeitsweg
 

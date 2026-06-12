@@ -1,13 +1,13 @@
 ---
 name: vierstufige-schranken-schranke
-description: Die vier Stufen der Verhaeltnismaessigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Pruefungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nadeloehr ist.
+description: Die vier Stufen der Verhältnismäßigkeitspruefung legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit als Schranken-Schranke. Mit Prüfungsschema, dogmatischer Verortung und Hinweisen welche Stufe in welcher Fallgruppe das Nadeloehr ist.
 ---
 
 # Vierstufige Schranken Schranke
 
 ## Dogmatische Verortung
 
-Die Verhaeltnismaessigkeitspruefung ist eine **Schranken-Schranke**: Sie
+Die Verhältnismäßigkeitspruefung ist eine **Schranken-Schranke**: Sie
 begrenzt die Grenzen, die der Gesetzgeber den Grundrechten zieht. Sie folgt
 aus dem **Rechtsstaatsprinzip** Art 20 III GG und dem **Wesensgehalt**
 der jeweiligen Grundrechte.
@@ -45,7 +45,7 @@ Verfolgt die Maßnahme einen vom Grundgesetz nicht verbotenen Zweck?
 - Bei verfassungsimmanenten Schranken: nur Verfassungsguete mit Rang.
 
 ### Stufe 2: Geeignetheit
-Foerdert das Mittel den Zweck? Massstab ist **objektive Eignung**,
+Foerdert das Mittel den Zweck? Maßstab ist **objektive Eignung**,
 nicht volle Zweckerreichung.
 
 ### Stufe 3: Erforderlichkeit
@@ -54,7 +54,7 @@ ist das Mittel mit dem geringsten Grundrechtseingriff, das mit gleicher
 Sicherheit zum Zweck fuehrt.
 
 ### Stufe 4: Angemessenheit (Verhältnismäßigkeit im engeren Sinne)
-Steht der Eingriff in einem ausgewogenen Verhaeltnis zum Zweckgewinn?
+Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn?
 Hier wird **abgewogen**: Schwere des Eingriffs gegen Gewicht des Zwecks
 und Wahrscheinlichkeit der Zweckerreichung.
 
@@ -74,7 +74,7 @@ und Wahrscheinlichkeit der Zweckerreichung.
 
 ## Output-Module
 
-- Strukturiertes Pruefraster als ASCII (`ascii-pruefungsschema`).
+- Strukturiertes Prüfraster als ASCII (`ascii-pruefungsschema`).
 - Flowchart als Mermaid (`mermaid-flowchart-pruefung`).
 - Padlet-Tafel mit vier Spalten (`padlet-vier-stufen-tafel`).
 - Entscheidungsbaum: "Scheitert es schon an Schutzbereich, Schranke, Zitiergebot, Bestimmtheit oder erst an Stufe 4?"

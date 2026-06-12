@@ -31,7 +31,7 @@ Dorfgemeinschaft hat Hutungsrecht (Weiderecht) auf Adelsgrundstueck.
 - **ALR I 21**: Dienstbarkeit; Ablösung gegen Entschaedigung in Geld.
 - **Heute**: Sachenrechtsbereinigung, falls noch eingetragen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Dienstbarkeit?
 2. Im Grundbuch eingetragen?

@@ -19,7 +19,7 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 
 ## Kernnormen / Kernquellen
 
-- **VwVfG 1976 (BGBl. I 1976, 1253) § 35**: Verwaltungsakt-Definition (moderner Massstab)
+- **VwVfG 1976 (BGBl. I 1976, 1253) § 35**: Verwaltungsakt-Definition (moderner Maßstab)
 - **VwVfG § 39**: Begruendungspflicht (im historischen Verwaltungsakt oft fehlend)
 - **Preussische Behördenordnung** (19. Jh.): Historischer Rahmen für preussische Verwaltungsakte
 - **Reichsgewerbeordnung § 35** (19. Jh.): Gewerbegenehmigung als historischer Verwaltungsakt
@@ -41,7 +41,7 @@ Historische Verwaltungsakte (Konzessionen, Bescheide, Genehmigungen, Erlasse) si
 
 ## Methodik
 
-- VwVfG: gesetze-im-internet.de für modernen Massstab
+- VwVfG: gesetze-im-internet.de für modernen Maßstab
 - Historische Verwaltungsakte: Bundesarchiv und Landesarchive
 - Kanzleisprache: Woerterbucher und Lexika der historischen Amtssprache
 - Epochenspezifische Rechtsgrundlage: GewO, preussische Behördenordnungen

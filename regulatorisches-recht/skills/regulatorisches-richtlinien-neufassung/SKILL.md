@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-richtlinien-neufassung
-description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht für Neu..."
+description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Änderungsprotokoll. Abgrenzung: nicht für Neu..."
 ---
 
 # Praxisprofil anpassen
@@ -64,7 +64,7 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 
 ## Zentrale Normen
 
-§§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
+§§ 48, 49 VwVfG (Rücknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Änderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
 
 ## Quellen und Zitierweise
 

@@ -1,6 +1,6 @@
 ---
 name: werkhoehe-schoepfungshoehe-wissenschaft-tdm
-description: "Prueft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persönliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee im Urheberrecht De Eu."
+description: "Prüft Schutzfaehigkeit und Werkhoehe nach § 2 UrhG und EU-Originalitaet: persönliche geistige Schoepfung, Gestaltungsspielraum, Ausdruck statt Idee im Urheberrecht De Eu."
 ---
 
 # Werkhöhe und Schöpfungshöhe prüfen

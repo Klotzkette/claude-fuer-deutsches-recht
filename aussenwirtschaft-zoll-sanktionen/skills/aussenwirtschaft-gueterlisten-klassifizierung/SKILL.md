@@ -36,7 +36,7 @@ description: "Technische Klassifizierung von Waren, Software und Technologie nac
 - **AWV Anlage AL**: Nationale Ausfuhrliste (komplementaer zur EU-Liste).
 - **Art. 3 VO (EU) 2021/821**: Genehmigungspflicht bei Listentreffer.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle 10 Kategorien des Anhangs I VO (EU) 2021/821 systematisch durchsucht?
 - [ ] Technische Parameter exakt mit Schwellenwerten verglichen?
@@ -49,7 +49,7 @@ description: "Technische Klassifizierung von Waren, Software und Technologie nac
 
 - Suche nach Produktbeschreibung ist unzureichend; nur Parametervergleich entscheidet.
 - Softwarekomponenten und technische Unterstuetzung können hoher klassifiziert sein als die Hardware.
-- Aenderungen der Gueterliste (jaehrliche Aktualisierung) werden nicht nachverfolgt.
+- Änderungen der Gueterliste (jaehrliche Aktualisierung) werden nicht nachverfolgt.
 - 'Entwickelt für' vs. 'geeignet für': Kriterium variiert je nach Listeneintrag.
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

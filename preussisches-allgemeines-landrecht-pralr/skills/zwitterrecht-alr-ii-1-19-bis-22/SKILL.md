@@ -40,7 +40,7 @@ ALR II 1 §§ 19 bis 22 — die wahrscheinlich beruehmteste Detailregelung des A
 - In der modernen Diskussion um Intersexualitaet wird ALR-Norm als bemerkenswert frueh anerkennendes Beispiel zitiert.
 - Norm ist humaner und individueller als das BGB-System des Personenstandsrechts vor 2013/2017/2018.
 
-## Pruefraster
+## Prüfraster
 
 1. Geschichtswissenschaft oder lebendes Recht?
 2. Vergleich zu modernem Personenstandsrecht.

@@ -1,6 +1,6 @@
 ---
 name: useful-articles-separability
-description: "Prueft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht im Us Copyright Registrierung Verlag."
+description: "Prüft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht im Us Copyright Registrierung Verlag."
 ---
 
 # Useful Articles und Separability

@@ -1,13 +1,13 @@
 ---
 name: agb-bei-plattformnutzung-app-stores
-description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster."
+description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhältnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Prüfraster."
 ---
 
 # Agb Bei Plattformnutzung App Stores
 
 ## Fachkern: Agb Bei Plattformnutzung App Stores
 
-- **Klauselproblem (Agb Bei Plattformnutzung App Stores):** AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster.
+- **Klauselproblem (Agb Bei Plattformnutzung App Stores):** AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhältnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -27,7 +27,7 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 
 ## BGH-Linie
 
-- BGH KZR 67/19 zur Marketplace-AGB: einseitige Aenderung unwirksam, wenn Hauptleistung beruehrt.
+- BGH KZR 67/19 zur Marketplace-AGB: einseitige Änderung unwirksam, wenn Hauptleistung beruehrt.
 - BGH I ZR 26/19 Cookie-Banner.
 
 ## P2B-VO
@@ -41,7 +41,7 @@ description: "AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Ski
 - Art. 5 Gatekeeper-Pflichten.
 - Art. 6 spezifische Verhaltenspflichten.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Plattform?
 2. Gatekeeper-Status?

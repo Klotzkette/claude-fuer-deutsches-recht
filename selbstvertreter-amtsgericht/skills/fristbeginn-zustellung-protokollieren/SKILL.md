@@ -17,7 +17,7 @@ Die meisten Prozessfristen beginnen mit der **Zustellung** eines Schriftstuecks 
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Zustellung**: Foermliche Uebergabe eines Schriftstuecks an den Empfaenger.
+- **Zustellung**: Foermliche Übergabe eines Schriftstuecks an den Empfaenger.
 - **Gelber Umschlag / Postzustellungsurkunde (PZU)**: Postzustellung mit Datums-Vermerk.
 - **Empfangsbekenntnis**: Vom Empfaenger unterzeichnete Bestaetigung (i. d. R. nur für Anwaelte).
 - **Ersatzzustellung**: Wenn Empfaenger nicht angetroffen — Hinterlegung im Briefkasten, beim Nachbarn.
@@ -81,9 +81,9 @@ Bei Streit über Zustellungs-Datum: PZU ist Beweis.
 
 Beispiel: Falsche Anschrift, Brief landete bei Ihrem Nachbarn, der Ihnen am 10.5. uebergibt. Zustellung erfolgte am 10.5. (Datum tatsaechlicher Zugang).
 
-### Schritt 7 — Bei Adress-Aenderung
+### Schritt 7 — Bei Adress-Änderung
 
-Sie sind verpflichtet, Adress-Aenderung dem Gericht mitzuteilen, wenn Verfahren laeuft.
+Sie sind verpflichtet, Adress-Änderung dem Gericht mitzuteilen, wenn Verfahren laeuft.
 
 Wenn Sie nicht melden: Zustellung an alte Adresse gilt als wirksam.
 

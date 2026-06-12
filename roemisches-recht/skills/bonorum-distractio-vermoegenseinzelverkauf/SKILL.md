@@ -1,9 +1,9 @@
 ---
 name: bonorum-distractio-vermoegenseinzelverkauf
-description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix im Römisches Recht."
+description: "Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermögensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg für Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix im Römisches Recht."
 ---
 
-# Rom 114 Bonorum Distractio Vermoegenseinzelverkauf
+# Rom 114 Bonorum Distractio Vermögenseinzelverkauf
 
 ## Quellenanker
 

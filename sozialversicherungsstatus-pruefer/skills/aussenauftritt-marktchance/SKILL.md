@@ -1,6 +1,6 @@
 ---
 name: aussenauftritt-marktchance
-description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme im Sozialversicherungsstatus Pruefer."
+description: "Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme im Sozialversicherungsstatus Prüfer."
 ---
 
 # Außenauftritt und Marktchance

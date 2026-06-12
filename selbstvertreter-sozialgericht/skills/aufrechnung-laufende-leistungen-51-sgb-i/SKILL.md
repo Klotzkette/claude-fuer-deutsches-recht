@@ -23,7 +23,7 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 ## Anhörungspflicht
 
 - § 24 SGB X — vor Aufrechnung anhoeren.
-- Aenderung des bewilligten Leistungsbetrags = belastender VA.
+- Änderung des bewilligten Leistungsbetrags = belastender VA.
 
 ## Pfaendungsfreigrenze beachten
 
@@ -35,7 +35,7 @@ description: "Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill
 - Aufrechnung mit Krankengeld Buergergeld Rente: nur, soweit § 51 SGB I.
 - Aufrechnung mit Pflegegeld nicht zulässig (Zweckbindung).
 
-## Pruefraster
+## Prüfraster
 
 1. Bestehende Rueckforderung?
 2. Laufende Leistung des selben Traegers?

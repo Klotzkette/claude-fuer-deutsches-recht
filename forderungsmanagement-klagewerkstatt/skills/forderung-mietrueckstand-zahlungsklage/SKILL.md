@@ -15,12 +15,12 @@ Zwei Wege: reine Zahlungsklage auf rueckstaendige Miete oder kombinierte Zahlung
 | Faelligkeit Wohnraum im Voraus 3. Werktag | § 556b Abs. 1 BGB |
 | Nebenkostenvorauszahlungen | § 556 Abs. 2 BGB |
 | Heizkostenpauschale | § 9 HeizKV |
-| Geschaeftsraummiete | § 535 Abs. 2 BGB (allg. Werktag § 271 BGB) |
+| Geschäftsraummiete | § 535 Abs. 2 BGB (allg. Werktag § 271 BGB) |
 
 ## Verzug bei Mietzahlung
 
 - Wohnraum Faelligkeit kalendermaessig (§ 556b BGB) → **Verzug ohne Mahnung** (§ 286 Abs. 2 Nr. 1 BGB).
-- Geschaeftsraum: Vertrag prüfen, sonst Mahnung erforderlich.
+- Geschäftsraum: Vertrag prüfen, sonst Mahnung erforderlich.
 
 Verzugszinsen B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
 

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-belehrungspflicht-17-beurkg
-description: "Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach §..."
+description: "Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: Skill klaert den Umfang die Pflicht zur Erläuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach §..."
 ---
 
 # Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag
@@ -14,13 +14,13 @@ description: "Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss.
+**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erläuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG für Verbraucher. Folgen bei Verstoss.
 
 ### Bautraeger Belehrungspflicht 17 Beurkg
 
 ## Norm
 
-§ 17 BeurkG (Beurkundungsgesetz): Notar muss die rechtliche Tragweite des Geschaefts erlaeutern und sich vergewissern, dass die Beteiligten die rechtliche Tragweite erfassen.
+§ 17 BeurkG (Beurkundungsgesetz): Notar muss die rechtliche Tragweite des Geschäfts erläutern und sich vergewissern, dass die Beteiligten die rechtliche Tragweite erfassen.
 
 ## § 17 Abs. 2a BeurkG — Verbraucher
 
@@ -42,7 +42,7 @@ description: "Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag: 
 - Schadensersatzhaftung nach § 19 BNotO.
 - Vertrag ist trotzdem wirksam — Schaden ist sekundaer.
 
-## Pruefraster
+## Prüfraster
 
 1. Wann hat Erwerber den Entwurf erhalten?
 2. Wurden alle wesentlichen Punkte belehrt?

@@ -67,111 +67,111 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `abgabe-frist-fristverlaengerung` | Prüft Abgabe, Frist, Upload und Zugang im Pruefungsrecht Hochschule. |
-| `abschlussarbeit-betreuung` | Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Pruefungsrecht Hochschule. |
-| `akteneinsicht-pruefungsakte` | Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule. |
-| `akteneinsicht-vollstaendig` | Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien im Pruefungsrecht Hochschule. |
-| `anerkennung-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Pruefungsrecht Hochschule. |
-| `anonymisierung-klausur` | Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler im Pruefungsrecht Hochschule. |
-| `anwesenheitspflicht` | Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Pruefungsrecht Hochschule. |
-| `anwesenheitspflicht-modul` | Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Pruefungsrecht Hochschule. |
-| `attest-anforderungen-auslandsanerkennung` | Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Pruefungsrecht Hochschule. |
-| `auslandsanerkennung-pruefungsleistung` | Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Pruefungsrecht Hochschule. |
-| `bachelorarbeit-abgabe-abschlussarbeit` | Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Pruefungsrecht Hochschule. |
-| `befangenheit-pruefer` | Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Pruefungsrecht Hochschule. |
-| `begruendung-der-note` | Prüft Begründungspflicht und Bewertungsfeedback im Pruefungsrecht Hochschule. |
-| `beisitzer-rolle-bewertungsspielraum-grenzen` | Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung im Pruefungsrecht Hochschule. |
-| `bewertungsspielraum-grenzen` | Prüft Bewertungsspielraum, fachwissenschaftliche Kontrolle, Verfahrensfehler und Begründung im Pruefungsrecht Hochschule. |
-| `bewertungsspielraum-und-kontrolle` | Prüft Bewertungsspielraum und gerichtliche Kontrolle im Pruefungsrecht Hochschule. |
-| `chancengleichheit-stoerung` | Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Pruefungsrecht Hochschule. |
-| `datenschutz-pruefungsdaten-drittversuch` | Prüft Datenschutz bei Prüfungsdaten im Pruefungsrecht Hochschule. |
-| `drittversuch-und-haertefall` | Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Pruefungsrecht Hochschule. |
-| `ects-leistungspunkte` | Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Pruefungsrecht Hochschule. |
-| `eilantrag-endgueltig-nicht-bestanden` | Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule. |
-| `einsichtnahme-notizen-endgueltiges` | Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch im Pruefungsrecht Hochschule. |
-| `endgueltiges-nichtbestehen` | Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Pruefungsrecht Hochschule. |
-| `erasmus-mobility-pruefungsfolgen` | Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester im Pruefungsrecht Hochschule. |
-| `exmatrikulation-nach-nichtbestehen` | Prüft Exmatrikulation nach Prüfungsversagen im Pruefungsrecht Hochschule. |
-| `fernstudium-private-gruppenausarbeitung` | Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Pruefungsrecht Hochschule. |
-| `fristverlaengerung-pruefungsleistung` | Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Pruefungsrecht Hochschule. |
-| `gruppenausarbeitung-taeuschung` | Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Pruefungsrecht Hochschule. |
-| `habilitation-verfahren` | Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Pruefungsrecht Hochschule. |
-| `hilfsmittel-liste-pruefung` | Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Pruefungsrecht Hochschule. |
-| `ihk-handwerk-berufsabschluss` | Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Pruefungsrecht Hochschule. |
-| `juristisches-staatsexamen-ki-nutzung-ki` | Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Pruefungsrecht Hochschule. |
+| `abgabe-frist-fristverlaengerung` | Prüft Abgabe, Frist, Upload und Zugang im Prüfungsrecht Hochschule. |
+| `abschlussarbeit-betreuung` | Prüft Bachelor-/Masterarbeit, Betreuung und Thema im Prüfungsrecht Hochschule. |
+| `akteneinsicht-pruefungsakte` | Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule. |
+| `akteneinsicht-vollstaendig` | Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien im Prüfungsrecht Hochschule. |
+| `anerkennung-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen im Prüfungsrecht Hochschule. |
+| `anonymisierung-klausur` | Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler im Prüfungsrecht Hochschule. |
+| `anwesenheitspflicht` | Prüft Anwesenheitspflichten als Prüfungsvoraussetzung im Prüfungsrecht Hochschule. |
+| `anwesenheitspflicht-modul` | Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung im Prüfungsrecht Hochschule. |
+| `attest-anforderungen-auslandsanerkennung` | Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren im Prüfungsrecht Hochschule. |
+| `auslandsanerkennung-pruefungsleistung` | Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung im Prüfungsrecht Hochschule. |
+| `bachelorarbeit-abgabe-abschlussarbeit` | Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung im Prüfungsrecht Hochschule. |
+| `befangenheit-pruefer` | Prüft Prüferbefangenheit und Besorgnis der Befangenheit im Prüfungsrecht Hochschule. |
+| `begruendung-der-note` | Prüft Begründungspflicht und Bewertungsfeedback im Prüfungsrecht Hochschule. |
+| `beisitzer-rolle-bewertungsspielraum-grenzen` | Prüft Rolle von Beisitzer, Protokollführung, Beratung und Bewertungsentscheidung im Prüfungsrecht Hochschule. |
+| `bewertungsspielraum-grenzen` | Prüft Bewertungsspielraum, fachwissenschaftliche Kontrolle, Verfahrensfehler und Begründung im Prüfungsrecht Hochschule. |
+| `bewertungsspielraum-und-kontrolle` | Prüft Bewertungsspielraum und gerichtliche Kontrolle im Prüfungsrecht Hochschule. |
+| `chancengleichheit-stoerung` | Prüft Lärm, Technik, Aufsicht, Täuschungsverdacht und Störungsrüge im Prüfungsrecht Hochschule. |
+| `datenschutz-pruefungsdaten-drittversuch` | Prüft Datenschutz bei Prüfungsdaten im Prüfungsrecht Hochschule. |
+| `drittversuch-und-haertefall` | Prüft Drittversuch, Härtefall und zusätzliche Wiederholung im Prüfungsrecht Hochschule. |
+| `ects-leistungspunkte` | Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt im Prüfungsrecht Hochschule. |
+| `eilantrag-endgueltig-nicht-bestanden` | Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Prüfungsrecht Hochschule. |
+| `einsichtnahme-notizen-endgueltiges` | Prüft interne Notizen, Randbemerkungen, Bewertungsbögen und Kopieranspruch im Prüfungsrecht Hochschule. |
+| `endgueltiges-nichtbestehen` | Prüft endgültiges Nichtbestehen, Exmatrikulation, Fristen und Eilrechtsschutz im Prüfungsrecht Hochschule. |
+| `erasmus-mobility-pruefungsfolgen` | Prüft Fristen, Anerkennung, Wiederholung und Härtefall nach Auslandssemester im Prüfungsrecht Hochschule. |
+| `exmatrikulation-nach-nichtbestehen` | Prüft Exmatrikulation nach Prüfungsversagen im Prüfungsrecht Hochschule. |
+| `fernstudium-private-gruppenausarbeitung` | Prüft private Prüfungsordnungen, AGB-Schnittstelle, Anerkennung und Rechtsschutz im Prüfungsrecht Hochschule. |
+| `fristverlaengerung-pruefungsleistung` | Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen im Prüfungsrecht Hochschule. |
+| `gruppenausarbeitung-taeuschung` | Prüft Gruppenarbeiten, Zurechnung, Eigenanteil und Täuschungsvorwurf im Prüfungsrecht Hochschule. |
+| `habilitation-verfahren` | Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien im Prüfungsrecht Hochschule. |
+| `hilfsmittel-liste-pruefung` | Prüft zugelassene Hilfsmittel, Taschenrechner, Gesetzestexte, KI und Sanktionen im Prüfungsrecht Hochschule. |
+| `ihk-handwerk-berufsabschluss` | Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung im Prüfungsrecht Hochschule. |
+| `juristisches-staatsexamen-ki-nutzung-ki` | Prüft Klausuren, mündliche Prüfung, Schwerpunkt, Akteneinsicht und Prüfungsrüge im Prüfungsrecht Hochschule. |
 | `kaltstart-triage` | Startet Hochschulprüfungsrecht für Klausur, Hausarbeit, Abschlussarbeit, Drittversuch, Täuschung, Krankheit und Rechtsschutz. |
-| `ki-nutzung-offenlegung` | Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast im Pruefungsrecht Hochschule. |
-| `ki-nutzung-und-eigenstaendigkeit` | Prüft KI-Nutzung in Prüfungsleistungen im Pruefungsrecht Hochschule. |
-| `korrekturfrist-und-verzoegerung` | Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Pruefungsrecht Hochschule. |
-| `krankheit-und-ruecktritt` | Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Pruefungsrecht Hochschule. |
-| `lehramtspruefung-lrs-hochschule-masterarbeit` | Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung im Pruefungsrecht Hochschule. |
-| `losverfahren-neubewertung-verfahren` | Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Pruefungsrecht Hochschule. |
-| `lrs-hochschule` | Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck im Pruefungsrecht Hochschule. |
-| `masterarbeit-betreuung` | Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Pruefungsrecht Hochschule. |
-| `medizinisches-staatsexamen` | Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Pruefungsrecht Hochschule. |
-| `modulhandbuch-bindung-modulpruefung` | Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Pruefungsrecht Hochschule. |
-| `modulpruefung-und-teilleistungen` | Prüft Modulprüfung und Teilleistungen im Pruefungsrecht Hochschule. |
-| `muendliche-atmosphaere-druck` | Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis im Pruefungsrecht Hochschule. |
-| `muendliche-pruefung-protokoll` | Prüft mündliche Prüfungen und Protokolle im Pruefungsrecht Hochschule. |
-| `multiple-choice-nachteilsausgleich` | Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Pruefungsrecht Hochschule. |
-| `nachteilsausgleich-behinderung` | Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Pruefungsrecht Hochschule. |
-| `nachteilsausgleich-hochschule` | Prüft Nachteilsausgleich an Hochschulen im Pruefungsrecht Hochschule. |
-| `neubewertung-verfahren` | Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Pruefungsrecht Hochschule. |
-| `notenbekanntgabe-und-friststart` | Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Pruefungsrecht Hochschule. |
-| `online-pruefung-identitaet` | Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage im Pruefungsrecht Hochschule. |
-| `online-technischer-open-book-plagiatssoftware` | Prüft technische Fehler in Online-Prüfungen im Pruefungsrecht Hochschule. |
-| `open-book-pruefung` | Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Pruefungsrecht Hochschule. |
-| `plagiatssoftware-treffer` | Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Pruefungsrecht Hochschule. |
-| `postlauf-zustellung-pruefungsamt` | Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme im Pruefungsrecht Hochschule. |
-| `praktikum-praxissemester-proctoring` | Prüft Praktikum, Praxissemester und Anerkennung im Pruefungsrecht Hochschule. |
-| `proctoring-und-videoaufsicht` | Prüft Online-Proctoring und Videoaufsicht im Pruefungsrecht Hochschule. |
-| `promotion-disputation` | Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Pruefungsrecht Hochschule. |
-| `promotionspruefung-disputation` | Prüft Promotionsprüfung, Disputation und Bewertung im Pruefungsrecht Hochschule. |
-| `protokollmangel-pruefungsamt-kommunikation` | Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Pruefungsrecht Hochschule. |
-| `prueferbestellung-zustaendigkeit` | Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Pruefungsrecht Hochschule. |
-| `pruefungsamt-kommunikation` | Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Pruefungsrecht Hochschule. |
-| `pruefungsangst-und-psychische-erkrankung` | Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Pruefungsrecht Hochschule. |
-| `pruefungsordnung-aenderung-uebergangsrecht` | Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-baden-wuerttemberg` | Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-bayern` | Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-berlin` | Prüft Hochschulprüfungsrecht in Berlin mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-brandenburg-bremen-hamburg` | Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-bremen` | Prüft Hochschulprüfungsrecht in Bremen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-hamburg` | Prüft Hochschulprüfungsrecht in Hamburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-hessen` | Prüft Hochschulprüfungsrecht in Hessen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-mecklenburg-vorpommern` | Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-niedersachsen` | Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-nordrhein-westfalen` | Prüft Hochschulprüfungsrecht in Nordrhein-Westfalen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-pruefungsordnung-baden` | Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-rheinland-pfalz` | Prüft Hochschulprüfungsrecht in Rheinland-Pfalz mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-saarland-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-sachsen` | Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-schleswig-holstein` | Prüft Hochschulprüfungsrecht in Schleswig-Holstein mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-thueringen-pruefungssprache` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungsrecht-vorlaeufige-zulassung` | Prüft Vergleichslösungen im Prüfungsrecht im Pruefungsrecht Hochschule. |
-| `pruefungssprache` | Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit im Pruefungsrecht Hochschule. |
-| `pruefungsunfaehigkeit-ruecktritt` | Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Pruefungsrecht Hochschule. |
-| `punkte-noten-umrechnung` | Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Pruefungsrecht Hochschule. |
-| `rechtsbehelfsbelehrung-pruefungsbescheid` | Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Pruefungsrecht Hochschule. |
+| `ki-nutzung-offenlegung` | Prüft erlaubte Hilfsmittel, KI-Offenlegung, Eigenständigkeit und Beweislast im Prüfungsrecht Hochschule. |
+| `ki-nutzung-und-eigenstaendigkeit` | Prüft KI-Nutzung in Prüfungsleistungen im Prüfungsrecht Hochschule. |
+| `korrekturfrist-und-verzoegerung` | Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz im Prüfungsrecht Hochschule. |
+| `krankheit-und-ruecktritt` | Prüft Krankheit, Rücktritt und Prüfungsunfähigkeit im Prüfungsrecht Hochschule. |
+| `lehramtspruefung-lrs-hochschule-masterarbeit` | Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung im Prüfungsrecht Hochschule. |
+| `losverfahren-neubewertung-verfahren` | Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler im Prüfungsrecht Hochschule. |
+| `lrs-hochschule` | Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck im Prüfungsrecht Hochschule. |
+| `masterarbeit-betreuung` | Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur im Prüfungsrecht Hochschule. |
+| `medizinisches-staatsexamen` | Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide im Prüfungsrecht Hochschule. |
+| `modulhandbuch-bindung-modulpruefung` | Prüft Modulhandbuch, Prüfungsordnung, Lernziele, Prüfungsform und Vertrauensschutz im Prüfungsrecht Hochschule. |
+| `modulpruefung-und-teilleistungen` | Prüft Modulprüfung und Teilleistungen im Prüfungsrecht Hochschule. |
+| `muendliche-atmosphaere-druck` | Prüft unsachliche Atmosphäre, Unterbrechungen, Voreingenommenheit und Protokollbeweis im Prüfungsrecht Hochschule. |
+| `muendliche-pruefung-protokoll` | Prüft mündliche Prüfungen und Protokolle im Prüfungsrecht Hochschule. |
+| `multiple-choice-nachteilsausgleich` | Prüft Multiple-Choice- und Antwort-Wahl-Verfahren im Prüfungsrecht Hochschule. |
+| `nachteilsausgleich-behinderung` | Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck im Prüfungsrecht Hochschule. |
+| `nachteilsausgleich-hochschule` | Prüft Nachteilsausgleich an Hochschulen im Prüfungsrecht Hochschule. |
+| `neubewertung-verfahren` | Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik im Prüfungsrecht Hochschule. |
+| `notenbekanntgabe-und-friststart` | Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung im Prüfungsrecht Hochschule. |
+| `online-pruefung-identitaet` | Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage im Prüfungsrecht Hochschule. |
+| `online-technischer-open-book-plagiatssoftware` | Prüft technische Fehler in Online-Prüfungen im Prüfungsrecht Hochschule. |
+| `open-book-pruefung` | Prüft Open-Book-Regeln, Quellen, Kollaboration, Eigenleistung und Täuschungsabgrenzung im Prüfungsrecht Hochschule. |
+| `plagiatssoftware-treffer` | Prüft Trefferberichte, Quellenlage, rechtliches Gehör und eigenständige Bewertung im Prüfungsrecht Hochschule. |
+| `postlauf-zustellung-pruefungsamt` | Prüft Zugang, Postlauf, E-Mail, Portalnachricht und Nachweisprobleme im Prüfungsrecht Hochschule. |
+| `praktikum-praxissemester-proctoring` | Prüft Praktikum, Praxissemester und Anerkennung im Prüfungsrecht Hochschule. |
+| `proctoring-und-videoaufsicht` | Prüft Online-Proctoring und Videoaufsicht im Prüfungsrecht Hochschule. |
+| `promotion-disputation` | Prüft Promotionsordnung, Disputation, Gutachten, Befangenheit und Entzug im Prüfungsrecht Hochschule. |
+| `promotionspruefung-disputation` | Prüft Promotionsprüfung, Disputation und Bewertung im Prüfungsrecht Hochschule. |
+| `protokollmangel-pruefungsamt-kommunikation` | Prüft fehlende, knappe oder widersprüchliche Protokolle und Rechtsfolgen im Prüfungsrecht Hochschule. |
+| `prueferbestellung-zustaendigkeit` | Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung im Prüfungsrecht Hochschule. |
+| `pruefungsamt-kommunikation` | Baut klare Kommunikation mit Prüfungsamt und Ausschuss im Prüfungsrecht Hochschule. |
+| `pruefungsangst-und-psychische-erkrankung` | Prüft Prüfungsangst, psychische Erkrankung und Rücktritt im Prüfungsrecht Hochschule. |
+| `pruefungsordnung-aenderung-uebergangsrecht` | Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-baden-wuerttemberg` | Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-bayern` | Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-berlin` | Prüft Hochschulprüfungsrecht in Berlin mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-brandenburg-bremen-hamburg` | Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-bremen` | Prüft Hochschulprüfungsrecht in Bremen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-hamburg` | Prüft Hochschulprüfungsrecht in Hamburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-hessen` | Prüft Hochschulprüfungsrecht in Hessen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-mecklenburg-vorpommern` | Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-niedersachsen` | Prüft Hochschulprüfungsrecht in Niedersachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-nordrhein-westfalen` | Prüft Hochschulprüfungsrecht in Nordrhein-Westfalen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-pruefungsordnung-baden` | Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-rheinland-pfalz` | Prüft Hochschulprüfungsrecht in Rheinland-Pfalz mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-saarland-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-sachsen` | Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-sachsen-anhalt` | Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-schleswig-holstein` | Prüft Hochschulprüfungsrecht in Schleswig-Holstein mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-thueringen-pruefungssprache` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungsrecht-vorlaeufige-zulassung` | Prüft Vergleichslösungen im Prüfungsrecht im Prüfungsrecht Hochschule. |
+| `pruefungssprache` | Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit im Prüfungsrecht Hochschule. |
+| `pruefungsunfaehigkeit-ruecktritt` | Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme im Prüfungsrecht Hochschule. |
+| `punkte-noten-umrechnung` | Prüft Punkte, Noten, Rundung und ECTS-Umrechnung im Prüfungsrecht Hochschule. |
+| `rechtsbehelfsbelehrung-pruefungsbescheid` | Prüft Belehrung, Fristverlängerung, Bekanntgabe und Bestandskraft im Prüfungsrecht Hochschule. |
 | `redteam-pruefungsrecht-qualitygate` | Finaler Qualitätscheck für Prüfungsrechtsausgaben. |
-| `sprachpruefung-und-eignung` | Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Pruefungsrecht Hochschule. |
-| `sprachtest-auslaenderrecht` | Prüft Sprachprüfungen, Zertifikate, Anerkennung, Täuschungsvorwurf und Fristen im Pruefungsrecht Hochschule. |
-| `staatsexamen-landesrecht` | Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter im Pruefungsrecht Hochschule. |
-| `staatsexamen-schnittstelle-taeuschung-plagiat` | Prüft Schnittstellen zu staatlichen Prüfungen im Pruefungsrecht Hochschule. |
-| `taeuschung-und-plagiat` | Prüft Täuschung, Plagiat und Sanktionen im Pruefungsrecht Hochschule. |
-| `technische-stoerung-upload` | Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Pruefungsrecht Hochschule. |
-| `toilettengang-aufsicht` | Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Pruefungsrecht Hochschule. |
-| `vorlaeufige-zulassung-eilrechtsschutz` | Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Pruefungsrecht Hochschule. |
-| `widerspruch-und-remonstration` | Baut Widerspruch, Remonstration oder Gegenvorstellung im Pruefungsrecht Hochschule. |
-| `wiederholungspruefung` | Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht im Pruefungsrecht Hochschule. |
-| `zweitkorrektur-neubewertung-zweitpruefer` | Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Pruefungsrecht Hochschule. |
-| `zweitpruefer-befangenheit` | Prüft Prüferbestellung, Befangenheit, Zweitkorrektur und Bewertungsunabhängigkeit im Pruefungsrecht Hochschule. |
+| `sprachpruefung-und-eignung` | Prüft Sprach-, Eignungs- und Aufnahmeprüfungen im Prüfungsrecht Hochschule. |
+| `sprachtest-auslaenderrecht` | Prüft Sprachprüfungen, Zertifikate, Anerkennung, Täuschungsvorwurf und Fristen im Prüfungsrecht Hochschule. |
+| `staatsexamen-landesrecht` | Prüft landesrechtliche Staatsexamensordnungen, Fristen, Rücktritt und Prüfungsämter im Prüfungsrecht Hochschule. |
+| `staatsexamen-schnittstelle-taeuschung-plagiat` | Prüft Schnittstellen zu staatlichen Prüfungen im Prüfungsrecht Hochschule. |
+| `taeuschung-und-plagiat` | Prüft Täuschung, Plagiat und Sanktionen im Prüfungsrecht Hochschule. |
+| `technische-stoerung-upload` | Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung im Prüfungsrecht Hochschule. |
+| `toilettengang-aufsicht` | Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf im Prüfungsrecht Hochschule. |
+| `vorlaeufige-zulassung-eilrechtsschutz` | Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen im Prüfungsrecht Hochschule. |
+| `widerspruch-und-remonstration` | Baut Widerspruch, Remonstration oder Gegenvorstellung im Prüfungsrecht Hochschule. |
+| `wiederholungspruefung` | Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht im Prüfungsrecht Hochschule. |
+| `zweitkorrektur-neubewertung-zweitpruefer` | Prüft Zweitkorrektur, Neubewertung und Austausch des Prüfers im Prüfungsrecht Hochschule. |
+| `zweitpruefer-befangenheit` | Prüft Prüferbestellung, Befangenheit, Zweitkorrektur und Bewertungsunabhängigkeit im Prüfungsrecht Hochschule. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

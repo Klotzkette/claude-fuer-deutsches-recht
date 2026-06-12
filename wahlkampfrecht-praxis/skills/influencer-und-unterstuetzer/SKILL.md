@@ -1,6 +1,6 @@
 ---
 name: influencer-und-unterstuetzer
-description: "Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen prüfen im Wahlkampfrecht."
 ---
 
 # Influencer Und Unterstuetzer

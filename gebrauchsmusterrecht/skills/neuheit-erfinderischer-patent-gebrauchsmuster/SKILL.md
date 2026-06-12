@@ -39,7 +39,7 @@ Ein eingetragenes oder geplantes Gebrauchsmuster braucht Rechtsbestandsprüfung.
 - Technische Weiterentwicklungen können schutzfähig sein, wenn die Merkmalskombination sich nicht nur handwerklich aus dem Stand der Technik ergibt.
 - Aber: rein handwerkliche Loesungen sind nicht schutzfaehig.
 
-### Pruefraster
+### Prüfraster
 1. Stand der Technik vollstaendig recherchieren.
 2. Naechster Stand der Technik bestimmen.
 3. Unterschiede zur Erfindung herausarbeiten.

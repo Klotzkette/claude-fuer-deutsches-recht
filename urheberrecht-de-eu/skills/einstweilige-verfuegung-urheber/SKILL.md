@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-urheber
-description: "Prueft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu."
+description: "Prüft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung im Urheberrecht De Eu."
 ---
 
 # Einstweilige Verfügung im Urheberrecht

@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -104,12 +104,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere vor Beginn
 
-1. Welche Aenderung soll angemeldet werden: GF-Wechsel, Satzungsaenderung, Kapitalerhoehung, Sitzverlegung, Firmennamensaenderung?
+1. Welche Änderung soll angemeldet werden: GF-Wechsel, Satzungsaenderung, Kapitalerhoehung, Sitzverlegung, Firmennamensaenderung?
 2. GmbH oder AG? (Verfahren unterschiedlich; AG braucht AR-Beschluss und HV bei Satzungsaenderung)
 3. Notar: Erforderlich für notarielle Beurkundung und Anmeldung (§ 8 I GmbHG)?
 4. Eintragungspflichtige und freiwillige Eintragungen unterscheiden?
-5. Fristen: Manche Aenderungen müssen unverzueglich (§ 39 I GmbHG) angemeldet werden.
-6. Auslaendische Gesellschafter: Apostille, Legalisation, Uebersetzung von Vollmachten?
+5. Fristen: Manche Änderungen müssen unverzueglich (§ 39 I GmbHG) angemeldet werden.
+6. Ausländische Gesellschafter: Apostille, Legalisation, Übersetzung von Vollmachten?
 
 ## Zentrale Normen
 
@@ -138,14 +138,14 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Beschluss der Gesellschafterversammlung mit 3/4-Mehrheit (oder Satzungsmehrheit)
 2. Protokoll (notariell wenn Satzungsaenderung Kapital betrifft; sonst beurkundet oder einfach — je nach Satzung)
-3. Notarielle Beurkundung des Aenderungsbeschlusses (§ 53 II GmbHG)
-4. Vollstaendiger Satzungstext in geaenderter Fassung (keine blossen Aenderungsmarkierungen)
+3. Notarielle Beurkundung des Änderungsbeschlusses (§ 53 II GmbHG)
+4. Vollstaendiger Satzungstext in geaenderter Fassung (keine blossen Änderungsmarkierungen)
 5. Anmeldung durch saemtliche GF
 6. Einreichung beim Registergericht
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Handlungsbedarf identifizieren** — welche Aenderung; welche Organbeschluesse erforderlich
+1. **Handlungsbedarf identifizieren** — welche Änderung; welche Organbeschluesse erforderlich
 2. **Notar beauftragen** — für Beurkundung Beschluss und Anmeldung
 3. **Unterlagen vorbereiten** — Beschlussprotokoll; aktueller HR-Auszug; Vollmachten; ggf. Apostille
 4. **Beurkundung / Beglaubigung** — Notartermin; alle Unterschriften
@@ -194,7 +194,7 @@ Notariell beglaubigte Unterschrift des neuen GF (Anlage)
 - Anmeldung durch nicht mehr amtierenden GF → Zurueckweisung durch Registergericht
 - Satzungsaenderung ohne notarielle Beurkundung → § 53 II GmbHG; Nichtigkeit des Beschlusses
 - Gesellschafterliste nicht aktualisiert nach Anteilsuebertragung → gutglaeubiger Erwerb durch Dritten möglich
-- Auslaendische Vollmacht ohne Apostille → Registergericht akzeptiert nicht
+- Ausländische Vollmacht ohne Apostille → Registergericht akzeptiert nicht
 - Frist für Anmeldung verpasst → Ordnungswidrigkeitengeld (§ 79 GmbHG); Zwangsgeld
 
 ## Quellen

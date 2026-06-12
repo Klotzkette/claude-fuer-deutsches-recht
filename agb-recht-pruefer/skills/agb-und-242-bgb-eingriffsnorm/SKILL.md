@@ -26,7 +26,7 @@ description: "Diskussion um § 242 BGB als Eingriffsnorm im Sinne Art. 9 Rom-I-V
 - Bei B2C bleibt Art. 6 Rom-I — der ist die einzige relevante Schutzklippe.
 - Schiedsklauseln in B2B sind frei verwertbar.
 
-## Pruefraster
+## Prüfraster
 
 1. Behauptet der Mandant § 242 BGB als Eingriffsnorm?
 2. Welche Konstellation (B2C vs. B2B)?

@@ -37,7 +37,7 @@ Es ist kein einfacher Sprachkurs. Es ist ein juristischer Verstehens- und Formul
 ## Arbeitsweise
 
 1. Erst Ziel und Gefahr klären: Frist, Zahlung, Antrag, Widerspruch, Termin oder Vertrag.
-2. Schwierige Begriffe in einfache Sprache uebersetzen.
+2. Schwierige Begriffe in einfache Sprache übersetzen.
 3. Dokumente in Abschnitte zerlegen: Wer will was, bis wann, mit welchen Folgen?
 4. Eigene Worte des Nutzers in klares formales Deutsch bringen.
 5. Keine herablassende Sprache, keine falschen Vereinfachungen.
@@ -58,7 +58,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle. 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -72,13 +72,13 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `antrag-stellungnahme-erklaerung` | Hilft bei Antrag Stellungnahme Erklaerung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprac... |
 | `anwaltstermin-vorbereiten-arbeitsrecht` | Hilft bei Anwaltstermin Vorbereiten für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |
 | `arbeitsrecht-warnwoerter` | Hilft bei Arbeitsrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
-| `auslaenderrecht-warnwoerter-barrierefreie` | Hilft bei Auslaenderrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache D... |
+| `auslaenderrecht-warnwoerter-barrierefreie` | Hilft bei Ausländerrecht Warnwoerter für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache D... |
 | `barrierefreie-erklaerung` | Hilft bei Barrierefreie Erklaerung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
 | `behoerdenpflichten-mitwirkung-bescheid` | Hilft bei Behördenpflichten Mitwirkung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache... |
 | `bescheid-in-einfacher-sprache` | Hilft bei Bescheid In Einfacher Sprache für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache... |
 | `chronologie-erstellen` | Hilft bei Chronologie Erstellen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch... |
 | `datenschutz-akteneinsicht-dolmetscher` | Hilft bei Datenschutz Und Akteneinsicht für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache... |
-| `dolmetscher-und-uebersetzung` | Hilft bei Dolmetscher Und Uebersetzung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache... |
+| `dolmetscher-und-uebersetzung` | Hilft bei Dolmetscher Und Übersetzung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache... |
 | `eigene-worte-email-an` | Hilft bei Eigene Worte Zu Formalem Deutsch für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Spra... |
 | `email-an-anwalt` | Hilft bei Email An Anwalt für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Z... |
 | `email-an-familienrecht-warnwoerter` | Hilft bei Email An Behörde für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als... |
@@ -89,7 +89,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `geldbetraege-berechnungen-gerichtstermin` | Hilft bei Geldbetraege Berechnungen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |
 | `gerichtstermin-verstehen` | Hilft bei Gerichtstermin Verstehen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deut... |
 | `grammatik-korrektur-begriffe-uebersetzen` | Hilft bei Grammatik Korrektur Ohne Inhaltsverlust für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristisc... |
-| `juristische-begriffe-uebersetzen` | Hilft bei Juristische Begriffe Uebersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Spra... |
+| `juristische-begriffe-uebersetzen` | Hilft bei Juristische Begriffe Übersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Spra... |
 | `kaltstart-triage` | Hilft bei Allgemein für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `keine-falschen-klage-einfach` | Hilft bei Keine Falschen Zugestaendnisse für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprach... |
 | `klage-einfach-formulieren` | Hilft bei Klage Einfach Formulieren für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deu... |

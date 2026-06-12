@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft
-description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs: Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidi..."
+description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs: Aussagebereitschaft als motivationaler Wille zur Aussage. Prüfkriterien, Auswirkung auf Beweiswuerdigung, Verteidi..."
 ---
 
 # Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs
@@ -14,7 +14,7 @@ description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin.
+**Fokus:** Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Prüfkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin.
 
 ### Aussagetuechtigkeit und Aussagebereitschaft
 
@@ -22,11 +22,11 @@ description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage
 
 Bevor die Glaubhaftigkeit einer Aussage anhand der Realkennzeichen und der Konstanz geprueft wird, ist zunaechst eine vorgeschaltete Frage zu beantworten: Ist die Zeugin oder der Zeuge ueberhaupt aussagetuechtig — also kognitiv und emotional in der Lage, ein Geschehen wahrzunehmen, zu speichern, abzurufen und zu kommunizieren? Und ist die Person aussagebereit — also motivational gewillt, eine wahrheitsgemaesse Aussage zu machen? Diese beiden Vorfragen werden in der Praxis haeufig nicht hinreichend getrennt.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodische Trennung, die Pruefkriterien und das Replik-Werkzeug für den Fall, dass die Belastungszeugin psychisch erkrankt, traumatisiert, kognitiv eingeschraenkt oder hochgradig motivational beeinflusst ist.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodische Trennung, die Prüfkriterien und das Replik-Werkzeug für den Fall, dass die Belastungszeugin psychisch erkrankt, traumatisiert, kognitiv eingeschraenkt oder hochgradig motivational beeinflusst ist.
 
 ## Methodische Grundlagen
 
-**Aussagetuechtigkeit.** Bezieht sich auf die kognitiv-emotionale Faehigkeit zur Aussage. Pruefdimensionen:
+**Aussagetuechtigkeit.** Bezieht sich auf die kognitiv-emotionale Faehigkeit zur Aussage. Prüfdimensionen:
 - Wahrnehmung: Hat die Person das Geschehen unter den konkreten Umstaenden (Sicht, Beleuchtung, Distanz, Aufmerksamkeit) wahrnehmen können?
 - Speicherung: Verfuegt die Person über ein hinreichendes Gedaechtnis (keine schwere Gedaechtnisstoerung, kein Alkohol- oder Drogeneinfluss zur Tatzeit, kein medizinisches Hindernis)?
 - Abruf: Kann die Person die gespeicherten Inhalte zu einem spaeteren Zeitpunkt reproduzieren?
@@ -34,7 +34,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 Aussagetuechtigkeit kann durch psychische Erkrankung, Demenz, schwere Persoenlichkeitsstoerung, Intelligenzminderung, akuten Drogeneinfluss, Trauma, dissoziative Stoerungen, organische Hirnschaeden eingeschraenkt oder aufgehoben sein.
 
-**Aussagebereitschaft.** Bezieht sich auf die motivationale Disposition. Pruefdimensionen:
+**Aussagebereitschaft.** Bezieht sich auf die motivationale Disposition. Prüfdimensionen:
 - Belastungsmotive: Eifersucht, Streit, Sorgerechtsstreit, finanzielle Interessen, Schamabbau.
 - Schutzmotive: Schutz Dritter, eigene Verstrickung, Loyalitaet.
 - Druckmotive: Familiendruck, Therapeutendruck, sozialer Druck der Selbsthilfegruppe.

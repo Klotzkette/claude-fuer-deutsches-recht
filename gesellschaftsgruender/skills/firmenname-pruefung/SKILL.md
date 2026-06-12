@@ -73,7 +73,7 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 6. **T+5 bis T+14 (HR-Prüfung):** HR-Gericht prüft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
 7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gründer angemeldet).
 
-## Output-Template: Firmenname-Pruefprotokoll
+## Output-Template: Firmenname-Prüfprotokoll
 
 **Adressat:** Interne Dokumentation / Anwaltsakte
 
@@ -121,7 +121,7 @@ Naechste Schritte:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen

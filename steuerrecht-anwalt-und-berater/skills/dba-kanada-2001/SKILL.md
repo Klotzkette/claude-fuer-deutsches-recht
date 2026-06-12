@@ -15,7 +15,7 @@ description: "DBA Deutschland Kanada 2001. Anwendungsfall RRSP RRIF Pensionen Be
 
 ## Kernsachverhalt
 
-Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhaeltnis zu Kanada (G7-Staat). Praxisrelevant sind Pensionen (RRSP/RRIF und Canada Pension Plan), Beteiligungen, Branch Profits Tax, sowie Auswanderung Deutsch-Kanadischer Doppelstaatsbuerger (insbesondere Quebec mit franzoesischer Steuerregelung).
+Das DBA-Kanada vom 19.04.2001 (BGBl. 2002 II S. 670) regelt das Verhältnis zu Kanada (G7-Staat). Praxisrelevant sind Pensionen (RRSP/RRIF und Canada Pension Plan), Beteiligungen, Branch Profits Tax, sowie Auswanderung Deutsch-Kanadischer Doppelstaatsbuerger (insbesondere Quebec mit franzoesischer Steuerregelung).
 
 ## Kaltstart-Rueckfragen
 
@@ -115,7 +115,7 @@ Mandant mit Wohnsitz Deutschland hat RRSP-Bestand 100.000 CAD bei kanadischer Ba
 - CA-QSt national auf RRSP-Auszahlung: 25 Prozent = 25.000 CAD.
 - DBA-Kanada 2001 Art. 18: Wohnsitzstaat-Prinzip — DE besteuert; CA-QSt kann nach DBA reduziert sein (vom Anwender mit konkretem DBA-Text Art. 18 und Protokoll zu verifizieren; oft 15 Prozent für "periodic payments", 25 Prozent für "lump-sum").
 - Erstattung Differenz über CRA — langwieriger Antragsprozess.
-- DE: RRSP-Auszahlung als auslaendische Pensionseinkuenfte (§ 22 EStG); persönlicher Steuersatz angenommen 35 Prozent auf 100.000 CAD = ca. 67.500 EUR (Wechselkurs 1 EUR = 1,48 CAD vom Anwender mit aktuellem EZB-Kurs zu verifizieren) = 23.625 EUR DE-Steuer.
+- DE: RRSP-Auszahlung als ausländische Pensionseinkuenfte (§ 22 EStG); persönlicher Steuersatz angenommen 35 Prozent auf 100.000 CAD = ca. 67.500 EUR (Wechselkurs 1 EUR = 1,48 CAD vom Anwender mit aktuellem EZB-Kurs zu verifizieren) = 23.625 EUR DE-Steuer.
 - Anrechnung CA-QSt (z.B. 15.000 CAD nach DBA-Reduktion = ca. 10.135 EUR) auf DE-Steuer; DE-Resteuer ca. 13.490 EUR.
 - Gesamtbelastung etwa entsprechend DE-Steuerniveau ohne Anrechnungsverlust.
 

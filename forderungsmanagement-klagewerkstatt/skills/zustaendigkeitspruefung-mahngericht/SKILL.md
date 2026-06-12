@@ -17,7 +17,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 **Ausnahme: AG kraft sachlicher Sondernorm** (ohne Streitwert):
 - § 23 Nr. 2 GVG: Wohnraummiete, Reiseangelegenheiten, Wildschaden.
 - § 23a GVG: Familiensachen.
-- § 600 ZPO: Urkundenprozess (Wahlrecht des Klaegers).
+- § 600 ZPO: Urkundenprozess (Wahlrecht des Klägers).
 
 **Berufungssumme**: § 511 Abs. 2 Nr. 1 ZPO 600 EUR (Erhoehung auf **1.000 EUR ab 01.01.2026** durch BGBl. 2025 I Nr. 318), Zulassung bei grundsaetzlicher Bedeutung.
 
@@ -41,7 +41,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 |---|---|---|
 | Erfuellungsort | vertragliche Streitigkeit | § 29 ZPO i.V.m. § 269 BGB |
 | Niederlassung | Geschäft der Niederlassung | § 21 ZPO |
-| Vermögen | bei auslaendischem Beklagten | § 23 ZPO |
+| Vermögen | bei ausländischem Beklagten | § 23 ZPO |
 | Unerlaubte Handlung | Tatort (Handlungs-/Erfolgsort) | § 32 ZPO |
 | Mietsachen | belegene Sache (ausschließlich) | § 29a ZPO |
 | Verbraucherklagen gegen Verbraucher | Wohnsitz Verbraucher | § 29c ZPO |
@@ -64,7 +64,7 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 
 ## Mahngericht § 689 ZPO
 
-**Ausschließlich** das **zentrale Mahngericht des Landes des Glaeubigers** (siehe Skill `mahnbescheid-online`).
+**Ausschließlich** das **zentrale Mahngericht des Landes des Gläubigers** (siehe Skill `mahnbescheid-online`).
 
 ## Internationale Zuständigkeit
 
@@ -87,9 +87,9 @@ Vor jeder Klage- oder Mahnantrag-Einreichung prüfen: ist das angegangene Gerich
 
 Parallel zu Bruessel Ia, weitgehend identisch.
 
-### Auslaendische Beklagte ausserhalb EU/Lugano
+### Ausländische Beklagte ausserhalb EU/Lugano
 
-- Wohnsitz im Drittstaat: § 23 ZPO Vermoegensgerichtsstand.
+- Wohnsitz im Drittstaat: § 23 ZPO Vermögensgerichtsstand.
 - Bei Inlandsvermoegen: AG/LG am Belegenheitsort.
 
 ## Verweisung § 281 ZPO
@@ -102,7 +102,7 @@ Bei Unzuständigkeit: Antrag auf Verweisung statt Klageabweisung. Bindungswirkun
 |---|---|
 | [justiz.de Gerichtssuche](https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php) | bundesweit Gericht finden |
 | [justizadressen.nrw.de](https://www.justizadressen.nrw.de) | NRW-Adressen |
-| Justizportal jeweiliges Land | aktuelle Anschrift, Geschaeftsstelle |
+| Justizportal jeweiliges Land | aktuelle Anschrift, Geschäftsstelle |
 
 ## Output Prüfung
 

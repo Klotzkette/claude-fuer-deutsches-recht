@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-gemeinschaftsordnung-pruefen
-description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster."
+description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen: Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Änderung. Liefert Prüfraster."
 ---
 
 # WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen
@@ -14,7 +14,7 @@ description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill kla
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
+**Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag prüfen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Änderung. Liefert Prüfraster.
 
 ### Bautraeger Weg Gemeinschaftsordnung Prüfen
 
@@ -42,14 +42,14 @@ description: "WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen: Skill kla
 ### Stimmrechte
 - Kopfstimmen oder nach Miteigentumsanteilen?
 
-## Nachtraegliche Aenderung
+## Nachtraegliche Änderung
 
 - Erfordert idR Einstimmigkeit oder qualifizierte Mehrheit.
-- Schutz davor, dass Bautraeger später alles aendert.
+- Schutz davor, dass Bautraeger später alles ändert.
 
-## Pruefraster
+## Prüfraster
 
 1. Gemeinschaftsordnung als Anlage?
 2. Inhalt angemessen?
-3. Aenderungsregeln klar?
+3. Änderungsregeln klar?
 4. Bautraeger-Privilegien?

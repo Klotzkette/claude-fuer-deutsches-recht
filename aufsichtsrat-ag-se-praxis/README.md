@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -95,7 +95,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `drittelbeteiligungsgesetz-einladung-agenda` | AG/SE-Aufsichtsrat Praxis: Drittelbeteiligungsgesetz; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `eigenhaftung-aufsichtsrat` | AG/SE-Aufsichtsrat Praxis: Eigenhaftung Aufsichtsrat; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `einladung-und-agenda` | AG/SE-Aufsichtsrat Praxis: Einladung Und Agenda; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
-| `einsichts-und-pruefungsrechte-111-aktg` | AG/SE-Aufsichtsrat Praxis: Einsichts Und Pruefungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
+| `einsichts-und-pruefungsrechte-111-aktg` | AG/SE-Aufsichtsrat Praxis: Einsichts Und Prüfungsrechte 111 Aktg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `entscheidungsvorlage-check` | AG/SE-Aufsichtsrat Praxis: Entscheidungsvorlage Check; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `europaeische-gruppe-exkulpationsakte` | AG/SE-Aufsichtsrat Praxis: Europaeische Gruppe; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `exkulpationsakte` | AG/SE-Aufsichtsrat Praxis: Exkulpationsakte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
@@ -104,7 +104,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `follow-up-fragenkatalog-an-geheimhaltung` | AG/SE-Aufsichtsrat Praxis: Follow Up Tracker; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `fragenkatalog-an-vorstand` | AG/SE-Aufsichtsrat Praxis: Fragenkatalog An Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `geheimhaltung-und-insiderlisten` | AG/SE-Aufsichtsrat Praxis: Geheimhaltung Und Insiderlisten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
-| `geschaeftsordnung-vorstand` | AG/SE-Aufsichtsrat Praxis: Geschaeftsordnung Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
+| `geschaeftsordnung-vorstand` | AG/SE-Aufsichtsrat Praxis: Geschäftsordnung Vorstand; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `grenzueberschreitender-formwechsel` | AG/SE-Aufsichtsrat Praxis: Grenzueberschreitender Formwechsel; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `grossinvestition` | AG/SE-Aufsichtsrat Praxis: Grossinvestition; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |
 | `haftungsradar` | AG/SE-Aufsichtsrat Praxis: Haftungsradar; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Aufsichtsrat Ag Se Praxis. |

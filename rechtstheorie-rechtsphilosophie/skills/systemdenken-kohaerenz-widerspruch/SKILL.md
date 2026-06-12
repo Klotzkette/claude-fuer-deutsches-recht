@@ -1,6 +1,6 @@
 ---
 name: systemdenken-kohaerenz-widerspruch
-description: "Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen."
+description: "Prüft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen."
 ---
 
 # Systemdenken und Kohärenz

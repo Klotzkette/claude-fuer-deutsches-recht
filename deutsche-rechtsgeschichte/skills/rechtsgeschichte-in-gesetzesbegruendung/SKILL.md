@@ -20,8 +20,8 @@ Gesetzesbegründungen (Regierungsentwuerfe, Referentenentwuerfe, BT-Drucksachen)
 ## Kernnormen / Kernquellen
 
 - **GG Art. 76**: Gesetzgebungsverfahren, Regierungsentwurf mit Begruendung
-- **Gemeinsame Geschaeftsordnung der Bundesministerien (GGO) § 42**: Anlagen zu Gesetzentwuerfen
-- **Mugdan**: Massstab für historische Begruendungsqualitaet
+- **Gemeinsame Geschäftsordnung der Bundesministerien (GGO) § 42**: Anlagen zu Gesetzentwuerfen
+- **Mugdan**: Maßstab für historische Begruendungsqualitaet
 - **BT-Drucksache 14/6040** (Schuldrechtsreform): Beispiel historischer Abschnitt in Entwurfsbegruendung
 
 ## Akteure und Institutionen

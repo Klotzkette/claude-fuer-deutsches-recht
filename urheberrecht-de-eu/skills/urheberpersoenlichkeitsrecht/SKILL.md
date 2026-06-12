@@ -1,6 +1,6 @@
 ---
 name: urheberpersoenlichkeitsrecht
-description: "Prueft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit im Urheberrecht De Eu."
+description: "Prüft Namensnennung, Erstveröffentlichung, Entstellung, Bearbeitung, Integrität und Konflikte bei KI-Remix oder Label-Edit im Urheberrecht De Eu."
 ---
 
 # Urheberpersönlichkeitsrecht

@@ -14,7 +14,7 @@ description: "Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung: Skill k
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster.
+**Fokus:** Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Prüfraster.
 
 ### Bautraeger Pfandfreigabe Und Loeschung
 
@@ -41,7 +41,7 @@ description: "Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung: Skill k
 - Vorbereitung durch den Notar erforderlich.
 - Notar uebernimmt typischerweise die Koordination.
 
-## Pruefraster
+## Prüfraster
 
 1. Zahlungsstand?
 2. Pfandfreigabevereinbarung vorliegend?

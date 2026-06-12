@@ -57,7 +57,7 @@ Je intensiver der Eingriff, desto strenger die Anforderungen an Zweck und Mittel
 
 Die strikte Drei-Stufen-Prüfung ist zugunsten einer flexiblen
 Verhältnismäßigkeit nuanciert worden, aber die **Eingriffsintensitaet
-bleibt** der zentrale Massstab.
+bleibt** der zentrale Maßstab.
 
 ## Normen und Rechtsprechung
 

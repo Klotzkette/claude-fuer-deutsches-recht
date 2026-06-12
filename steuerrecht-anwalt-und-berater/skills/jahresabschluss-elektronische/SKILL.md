@@ -62,13 +62,13 @@ description: "E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bi
 
 - Standardkontenrahmen SKR 03 / SKR 04 (DATEV) bzw. IKR sind mit Standard-Mapping zur Kerntaxonomie ausgestattet; konkrete Mapping-Pflege siehe SKR-aktuelle Fassung.
 - Individuelle Konten erfordern manuelle Zuordnung zur Taxonomie-Position; Prüfen vor Versand zwingend.
-- In DATEV Kanzlei-Rechnungswesen erfolgt die E-Bilanz-Erstellung typischerweise über das Modul "E-Bilanz" mit eigenem Pruefprotokoll (genaue Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
+- In DATEV Kanzlei-Rechnungswesen erfolgt die E-Bilanz-Erstellung typischerweise über das Modul "E-Bilanz" mit eigenem Prüfprotokoll (genaue Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
 
 ### Phase 4 — Uebermittlung
 
 - Auswertung im StB-Programm generiert eine XBRL-Datei (Endung .xbrl bzw. eingebettet in das XBRL-Paket).
 - Versand an die Finanzverwaltung erfolgt über das ERiC-Modul (ELSTER Rich Client) mit Authentifizierungszertifikat (in der Regel das Berater-/Organisations-Zertifikat im ELSTER-Online-Portal).
-- Vor Echt-Versand: Plausibilitaetspruefung im ERiC durchlaufen; Pruefprotokoll dokumentieren.
+- Vor Echt-Versand: Plausibilitaetspruefung im ERiC durchlaufen; Prüfprotokoll dokumentieren.
 - Nach Versand: Uebermittlungsprotokoll (Transferticket-ID) speichern; Ablage in der Mandantenakte (Pflicht zur Aufbewahrung der Versandquittung).
 
 ### Phase 5 — Steuerbilanz-Anteil

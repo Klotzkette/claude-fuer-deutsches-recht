@@ -14,7 +14,7 @@ description: "Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Voll
 ## Triage — kläre vor der Bearbeitung
 
 1. Sind alle Steuerarten und Veranlagungszeitraeume seit den letzten zehn Jahren erfasst (Vollstaendigkeit § 371 Abs. 1 AO)?
-2. Liegt ein Sperrgrund § 371 Abs. 2 AO vor (Pruefungsanordnung Einleitung Erscheinen des Pruefers Tatentdeckung)?
+2. Liegt ein Sperrgrund § 371 Abs. 2 AO vor (Prüfungsanordnung Einleitung Erscheinen des Prüfers Tatentdeckung)?
 3. Kann der Hinterziehungsbetrag innerhalb der gesetzten Frist gezahlt werden (§ 371 Abs. 3 AO)?
 4. Liegt der Hinterziehungsbetrag über 25 000 Euro je Tat — § 398a AO Zuschlag 10 bis 20 Prozent zu beachten?
 5. Welche Beratungsalternative bestuende (§ 153 AO Berichtigung wenn Tatbestand des § 370 fehlt)?

@@ -38,13 +38,13 @@ Wenn Sie das Verfahren verloren haben, kann die Gegenseite gegen Sie vollstrecke
 
 ### Schritt 2 — Vor Pfaendung: Ratenzahlung anbieten
 
-Glaeubiger sind oft kulant, wenn:
+Gläubiger sind oft kulant, wenn:
 
 - Sie aktiv Kontakt aufnehmen.
 - Realistische Ratenzahlung anbieten.
 - Schriftlich vereinbaren.
 
-Modul-Email an Glaeubiger:
+Modul-Email an Gläubiger:
 
 ```
 Sehr geehrte Damen und Herren,

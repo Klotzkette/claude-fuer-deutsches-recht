@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-finanzsanktionen-eigentum-kontrolle
-description: "Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output:..."
+description: "Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschäftspartnern. Output:..."
 ---
 
 # 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken
 
 ## Arbeitsbereich
 
-Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschäftspartnern. Output: UBO-Analysevermerk. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -40,12 +40,12 @@ Prüfung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Per
 - **§ 3 GwG**: UBO-Definition und Transparenzpflicht.
 - **§ 18 AWG**: Strafbarkeit bei Bereitstellung gegenueber sanktionierter Entitaet.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] UBO-Kette bis zur natuerlichen Person vollstaendig verfolgt?
 - [ ] 50-%-Schwelle nach Eigentumsanteilen und Stimmrechten getrennt geprueft?
 - [ ] Mittelbare Kontrolle (mehrstufige Holdingstrukturen) beruecksichtigt?
-- [ ] Treuhand- und Nominee-Verhaeltnisse ausgeschlossen oder aufgedeckt?
+- [ ] Treuhand- und Nominee-Verhältnisse ausgeschlossen oder aufgedeckt?
 - [ ] EU-Leitlinien zur Akkumulation konsultiert?
 - [ ] Quellenstand und Abrufdatum dokumentiert?
 
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -14,15 +14,15 @@ description: "Methodische Mindestanforderungen an aussagepsychologische Sachvers
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster für die Verteidigung, Replik gegen mangelhafte Gutachten.
+**Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Prüfraster für die Verteidigung, Replik gegen mangelhafte Gutachten.
 
 ### Anforderungen an aussagepsychologische Sachverstaendigengutachten
 
 ## Worum geht es
 
-Ein aussagepsychologisches Sachverstaendigengutachten ist nicht ein freier Eindrucksbericht, sondern ein methodisch strukturiertes Dokument, das den BGH-Vorgaben (insbesondere aus 1 StR 618/98, BGHSt 45, 164) entsprechen muss. Wer als Verteidigerin oder Verteidiger ein Gutachten zu analysieren hat — sei es weil die Staatsanwaltschaft eines vorgelegt hat, sei es weil das Gericht eines eingeholt hat — braucht ein Pruefraster, an dem die methodische Qualitaet des Gutachtens gemessen werden kann.
+Ein aussagepsychologisches Sachverstaendigengutachten ist nicht ein freier Eindrucksbericht, sondern ein methodisch strukturiertes Dokument, das den BGH-Vorgaben (insbesondere aus 1 StR 618/98, BGHSt 45, 164) entsprechen muss. Wer als Verteidigerin oder Verteidiger ein Gutachten zu analysieren hat — sei es weil die Staatsanwaltschaft eines vorgelegt hat, sei es weil das Gericht eines eingeholt hat — braucht ein Prüfraster, an dem die methodische Qualitaet des Gutachtens gemessen werden kann.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodischen Mindeststandards, das strukturierte Pruefraster für die Gutachtenanalyse und die Replik-Werkzeuge gegen unzureichende Gutachten.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die methodischen Mindeststandards, das strukturierte Prüfraster für die Gutachtenanalyse und die Replik-Werkzeuge gegen unzureichende Gutachten.
 
 ## Methodische Grundlagen
 
@@ -54,7 +54,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Pruefraster systematisch abklopfen.** Jeden der 10 Aufbaupunkte prüfen. Fehlt einer, ist das Gutachten methodisch luckenhaft.
+- **Prüfraster systematisch abklopfen.** Jeden der 10 Aufbaupunkte prüfen. Fehlt einer, ist das Gutachten methodisch luckenhaft.
 - **CBCA-Vollstaendigkeit prüfen.** Sind alle 19 Kriterien adressiert? Welche werden bejaht, welche verneint, welche werden uebergangen?
 - **Hypothesen einzeln prüfen.** Sind alle Hypothesen explizit benannt? Wird die Verwerfung methodisch begruendet oder pauschal? Eine bloss erwaehnte Hypothese, die nicht geprueft wird, ist methodisch nicht widerlegt.
 - **Aussagegenese prüfen.** Welche Erstaussagen liegen vor? Welche Suggestionsfaktoren werden diskutiert? Welche werden uebergangen?

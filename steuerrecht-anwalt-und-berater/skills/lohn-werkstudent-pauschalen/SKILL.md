@@ -1,6 +1,6 @@
 ---
 name: lohn-werkstudent-pauschalen
-description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
+description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschäftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
 ---
 
 # Werkstudent — SV-Status und Pauschalen
@@ -64,14 +64,14 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 - Vorlesungszeit: max. 20 Wochenstunden.
 - Vorlesungsfreie Zeit (Semesterferien): mehr als 20 Stunden möglich.
 - Mehrfach-Werkstudent: Summe der Stunden über alle AG ist massgeblich.
-- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im 52-Wochen-Zeitraum nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; bei Aenderung der DEUEV-Grundsaetze prüfen).
+- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im 52-Wochen-Zeitraum nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; bei Änderung der DEUEV-Grundsaetze prüfen).
 - Bei dauerhafter Ueberschreitung der 20 Wochenstunden in der Vorlesungszeit: Werkstudenten-Status weg, voll SV-pflichtig.
 
 ### Phase 3 — SV-Beitraege
 
 | Zweig | Werkstudent |
 |---|---|
-| KV | Beitragsfrei aus der Beschaeftigung; eigene KV-Pflicht über Familienversicherung (bis Vollendung 25. Lj., § 10 SGB V) oder studentische KV (§ 5 Abs. 1 Nr. 9 SGB V) |
+| KV | Beitragsfrei aus der Beschäftigung; eigene KV-Pflicht über Familienversicherung (bis Vollendung 25. Lj., § 10 SGB V) oder studentische KV (§ 5 Abs. 1 Nr. 9 SGB V) |
 | PV | Beitragsfrei |
 | AV | Beitragsfrei |
 | RV | Pflicht (voller Beitrag; im Uebergangsbereich nach § 20 Abs. 2 SGB IV gemindert, sofern Brutto in den Midi-Job-Bereich faellt) |
@@ -81,7 +81,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 ### Phase 4 — Anmeldung und Prüfung
 
 - Immatrikulationsbescheinigung jaehrlich aktualisieren (am besten zu Semesterbeginn).
-- SV-Anmeldung mit Personengruppen-Schlüssel 106 (Werkstudent; DEUEV-Schluesselverzeichnis ITSG Stand 2025, unveraendert; bei DEUEV-Aenderung ITSG-Schluesselverzeichnis prüfen).
+- SV-Anmeldung mit Personengruppen-Schlüssel 106 (Werkstudent; DEUEV-Schlüsselverzeichnis ITSG Stand 2025, unveraendert; bei DEUEV-Änderung ITSG-Schlüsselverzeichnis prüfen).
 - Bei Verlust Werkstudent-Status: Personengruppen-Schlüssel auf 101 (regulaer) wechseln; Beitragsgruppen-Schlüssel anpassen.
 
 ### Phase 5 — Sonderfaelle
@@ -102,7 +102,7 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 - 20-Stunden-Regel strikt — bei systematischem Ueberschreiten Status verloren.
 - Bei Ueberschreitung waehrend Semesterferien akzeptabel; in Vorlesungszeit kritisch.
 - Bei Wechsel Master in Promotion: Status faellt weg, Umstellung Personengruppen-Schlüssel.
-- Bei Studienabschluss waehrend Beschaeftigung: Status faellt zum Tag des Abschlusses weg.
+- Bei Studienabschluss waehrend Beschäftigung: Status faellt zum Tag des Abschlusses weg.
 - StBVV: in Lohnpauschale; Statuspruefung bei Sonderfaellen Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Werkstudent-Personengruppe automatisch; Immatrikulations-Wiedervorlage zu Semesterbeginn.
 
@@ -116,4 +116,4 @@ Stand: 05/2026.
 - BAfoeG § 16.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schlüssel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 2 Marker aufgeloest: 1 bestaetigt (DEUEV-Schlüssel 106 unveraendert), 1 ersetzt (26-Wochen-Regel Prüfhinweis ohne Marker) -->

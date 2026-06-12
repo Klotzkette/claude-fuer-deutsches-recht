@@ -7,7 +7,7 @@ description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentli
 
 > Satzungen sind autonome Rechtssetzung. Sie brauchen aber immer eine staatliche Ermaechtigung.
 
-## Pruefstation 1 - Welche Koerperschaft erlaesst die Satzung?
+## Prüfstation 1 - Welche Koerperschaft erlaesst die Satzung?
 
 - Gemeinde / Landkreis (kommunale Satzung)
 - Rechtsanwaltskammer (berufsstaendische Satzung)
@@ -18,7 +18,7 @@ description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentli
 - Sozialversicherungsträger (Krankenkassen-Satzung, BG-Satzung)
 - Öffentlich-rechtliche Rundfunkanstalt
 
-## Pruefstation 2 - Welche Ermaechtigung gibt es?
+## Prüfstation 2 - Welche Ermaechtigung gibt es?
 
 | Koerperschaft | Ermaechtigung |
 |---|---|
@@ -33,17 +33,17 @@ description: "Satzungskompetenz für Koerperschaften und Anstalten des öffentli
 | BG | SGB VII Paragraf 33 ff. |
 | ARD-Anstalt | Landesrundfunkgesetz |
 
-## Pruefstation 3 - Vorbehalt des Gesetzes
+## Prüfstation 3 - Vorbehalt des Gesetzes
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 Faustregel: je tiefer der Grundrechtseingriff, desto mehr muss das ermaechtigende Gesetz selbst regeln.
 
-## Pruefstation 4 - Bestimmtheit der Ermaechtigung
+## Prüfstation 4 - Bestimmtheit der Ermaechtigung
 
 Art. 80 GG gilt nicht direkt für Satzungen, aber sinngemäß: Inhalt Zweck Ausmass müssen aus dem ermaechtigenden Gesetz erkennbar sein.
 
-## Pruefstation 5 - Verfahren des Erlasses
+## Prüfstation 5 - Verfahren des Erlasses
 
 | Koerperschaft | Verfahren |
 |---|---|
@@ -52,11 +52,11 @@ Art. 80 GG gilt nicht direkt für Satzungen, aber sinngemäß: Inhalt Zweck Ausm
 | Hochschule | Beschluss Senat plus Bekanntmachung in der amtlichen Bekanntmachung der Hochschule |
 | Krankenkasse | Beschluss Verwaltungsrat plus Genehmigung BVA / LSA |
 
-## Pruefstation 6 - Aufsichtsgenehmigung
+## Prüfstation 6 - Aufsichtsgenehmigung
 
 Manche Satzungen brauchen vor Bekanntmachung Genehmigung der Aufsichtsbehoerde (z.B. Friedhofssatzungen ggf. nach Landesrecht; Beitragssatzungen oft anzeigepflichtig).
 
-## Pruefstation 7 - Bekanntmachung
+## Prüfstation 7 - Bekanntmachung
 
 Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhafte Bekanntmachung kann zur Nichtigkeit führen.
 

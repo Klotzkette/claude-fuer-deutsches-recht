@@ -1,6 +1,6 @@
 ---
 name: preferences-547
-description: "Prueft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code."
+description: "Prüft preferential transfers, 90-day/insider period, antecedent debt, insolvency presumption and defenses im US Bankruptcy Code."
 ---
 
 # Preferences § 547

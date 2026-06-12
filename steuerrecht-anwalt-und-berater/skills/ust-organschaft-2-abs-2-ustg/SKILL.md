@@ -1,6 +1,6 @@
 ---
 name: ust-organschaft-2-abs-2-ustg
-description: "Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder vern..."
+description: "Prüfung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder vern..."
 ---
 
 # Umsatzsteuerliche Organschaft — § 2 Abs. 2 Nr. 2 UStG

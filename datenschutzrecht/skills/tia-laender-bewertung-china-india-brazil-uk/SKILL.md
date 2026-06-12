@@ -1,6 +1,6 @@
 ---
 name: tia-laender-bewertung-china-india-brazil-uk
-description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Pruefraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap."
+description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (Angemessenheit), China (PIPL, Sicherheitsgesetze), Indien (DPDPA), Brasilien (LGPD). Prüfraster für Drittlandsrecht Behördenzugriff Praxis und Empfehlung Transferinstrument für Schritt 3 der EDPB-Roadmap."
 ---
 
 # TIA-Länderbewertung: UK, China, Indien, Brasilien
@@ -9,7 +9,7 @@ description: "TIA-Länderbewertung jenseits der USA: Vereinigtes Koenigreich (An
 
 - Konzernweite TIA-Updates mit nicht-amerikanischen Tochtergesellschaften.
 - Outsourcing nach Indien (BPO, IT, Software-Entwicklung).
-- Geschaeftspartner in China (Mandanten, Joint Ventures, Lieferanten).
+- Geschäftspartner in China (Mandanten, Joint Ventures, Lieferanten).
 - Vertriebs- oder Hosting-Strukturen in Brasilien (LGPD-Region).
 - UK-bezogene Mandate nach Brexit; Prüfung des Angemessenheitsbeschlusses.
 

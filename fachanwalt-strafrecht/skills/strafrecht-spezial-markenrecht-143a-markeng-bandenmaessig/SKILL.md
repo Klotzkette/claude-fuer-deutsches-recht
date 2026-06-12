@@ -32,7 +32,7 @@ Voraussetzung: Die Tat des Paragraph 143 Abs 1 MarkenG ist erfuellt **und** sie 
 
 **Gewerbsmaessigkeit** nach staendiger BGH-Rspr.: Absicht, sich aus wiederholter Tatbegehung eine fortlaufende Einnahmequelle von einigem Umfang und einiger Dauer zu verschaffen. Bereits die erste Tat in Verfolgung dieser Absicht ist gewerbsmaessig.
 
-**Bande** nach staendiger BGH-Rspr.: Zusammenschluss von mindestens drei Personen, die sich mit dem Willen zusammengeschlossen haben, kuenftig für eine gewisse Dauer mehrere selbstaendige, im Einzelnen noch ungewisse Straftaten der genannten Art zu begehen. Bandenabrede muss nicht foermlich sein; konkludentes Zusammenwirken genuegt; Hierarchie ist nicht erforderlich.
+**Bande** nach staendiger BGH-Rspr.: Zusammenschluss von mindestens drei Personen, die sich mit dem Willen zusammengeschlossen haben, kuenftig für eine gewisse Dauer mehrere selbständige, im Einzelnen noch ungewisse Straftaten der genannten Art zu begehen. Bandenabrede muss nicht foermlich sein; konkludentes Zusammenwirken genuegt; Hierarchie ist nicht erforderlich.
 
 Praxiswichtig: BGH-Linie zur Mindestpersonenzahl drei wurde im Grundsatzbeschluss des Großen Senats für Strafsachen verbindlich. Eine zwei-Personen-Verbindung ist Bande nicht ausreichend; hier bleibt es ggf. bei Paragraph 143 MarkenG plus Paragraph 25 Abs 2 StGB (Mittaeterschaft).
 
@@ -63,7 +63,7 @@ Paragraph 153a StPO ist bei Paragraph 143a MarkenG (Verbrechen) **nicht** anwend
 ## Konkurrenzen
 
 - **Paragraph 143a MarkenG verdraengt** Paragraph 143 MarkenG (Spezialitaet).
-- **Paragraph 143a MarkenG und Paragraph 261 StGB Geldwaesche.** Bei systematischer Geldfluss-Verschleierung der Counterfeit-Erloese Tateinheit; Paragraph 261 als selbstaendige Tat möglich.
+- **Paragraph 143a MarkenG und Paragraph 261 StGB Geldwaesche.** Bei systematischer Geldfluss-Verschleierung der Counterfeit-Erloese Tateinheit; Paragraph 261 als selbständige Tat möglich.
 - **Paragraph 143a MarkenG und Paragraph 263 StGB.** Tateinheit mit Betrug bei Vortaeuschen einer Originalware gegenueber Kaeufern.
 - **Paragraph 143a MarkenG und Paragraphen 129, 129a StGB.** Bei strukturierten Vereinigungen prüfen, ob kriminelle Vereinigung im Sinne Paragraph 129 StGB vorliegt; mehrgliedrige Bande mit fortbestehender Struktur kann Vereinigungscharakter erreichen.
 - **Paragraph 143a MarkenG und Paragraph 108a UrhG.** Bei Doppelverletzung Marke und Urheberrecht (Bootleg mit Marke) Tateinheit; beide gewerblichen Qualifikationen können nebeneinander stehen.
@@ -75,11 +75,11 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 - **Einziehung des Tatobjekts** Paragraph 74 StGB iVm Paragraph 143 Abs 5 MarkenG: Container, Lagerbestaende, Pressformen, Druckmaschinen.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Bruttoprinzip; Gesamtumsatz der Bandentaten kann jedem Bandenmitglied gesamtschuldnerisch zugerechnet werden (BGH staendige Rspr. zur Gesamtschuldnerschaft bei Bandentaten).
 - **Berufsverbot** Paragraph 70 StGB hoch wahrscheinlich; Gewerbeuntersagung Paragraph 35 GewO regelmaessig.
-- **BZRG-Eintrag** bei Verbrechensverurteilung; Sperre als Geschaeftsfuehrer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG nicht direkt einschlaegig, aber Berufsverbot nach Verurteilung praxisrelevant.
+- **BZRG-Eintrag** bei Verbrechensverurteilung; Sperre als Geschäftsführer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG nicht direkt einschlaegig, aber Berufsverbot nach Verurteilung praxisrelevant.
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant hat als Lagerhelfer bei der Y GmbH gearbeitet. Eine Bandenmitgliedschaft im Sinne der BGH-Rspr. (Großer Senat für Strafsachen, Bandenabrede zwischen mindestens drei Personen mit Willen kuenftiger arbeitsteiliger Tatbegehung) wird bestritten. Mein Mandant hat lediglich auf Weisung des Geschaeftsfuehrers Verpackungstaetigkeiten ausgefuehrt; eine vorausgehende Absprache über die Begehung kuenftiger Markenverletzungen war nicht vorhanden. Hilfsweise wird Beihilfe nach Paragraph 27 StGB beantragt, mit Strafmilderung nach Paragraph 49 Abs 1 StGB."
+**Schutzschrift-Snippet:** "Mein Mandant hat als Lagerhelfer bei der Y GmbH gearbeitet. Eine Bandenmitgliedschaft im Sinne der BGH-Rspr. (Großer Senat für Strafsachen, Bandenabrede zwischen mindestens drei Personen mit Willen kuenftiger arbeitsteiliger Tatbegehung) wird bestritten. Mein Mandant hat lediglich auf Weisung des Geschäftsführers Verpackungstaetigkeiten ausgefuehrt; eine vorausgehende Absprache über die Begehung kuenftiger Markenverletzungen war nicht vorhanden. Hilfsweise wird Beihilfe nach Paragraph 27 StGB beantragt, mit Strafmilderung nach Paragraph 49 Abs 1 StGB."
 
 **Verstaendigungssnippet (Kronzeugenregelung):** "Mein Mandant ist bereit, gemäß Paragraph 46b StGB substantielle Aufklaerungshilfe zu leisten. Er kann die organisatorische Struktur der Bande sowie die Identitaet der Hauptverantwortlichen umfassend offenlegen. Im Gegenzug wird Strafmilderung beantragt."
 

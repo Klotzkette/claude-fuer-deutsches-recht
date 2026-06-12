@@ -61,11 +61,11 @@ Die konkreten Saetze sind aus der jeweils aktuellen DESTATIS-Tabelle und Leitfad
 | Anzahl Unternehmen | Statistisches Bundesamt — Unternehmensregister |
 | Anzahl Gesellschaften nach Rechtsform | Statistisches Bundesamt; Handelsregisterauszuege |
 | Anzahl Buerger einer Personengruppe | DESTATIS Bevoelkerungsstatistik; Mikrozensus |
-| Anzahl Antraege bei Behörden | Ressort-Statistiken, Geschaeftsstatistik |
-| Anzahl Beschaeftigte je Branche | DESTATIS Erwerbstaetigenrechnung |
+| Anzahl Antraege bei Behörden | Ressort-Statistiken, Geschäftsstatistik |
+| Anzahl Beschäftigte je Branche | DESTATIS Erwerbstaetigenrechnung |
 | Anzahl Verfahren bei Gerichten | Justizstatistik |
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Pflicht identifizieren** und Standardtaetigkeit zuordnen
 2. **Komplexitaetsstufe** bestimmen (einfach / mittel / komplex)

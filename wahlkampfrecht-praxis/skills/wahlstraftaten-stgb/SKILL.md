@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Wahlbehinderung, Wahlfaelschung, Wahlgeheimnis, Noetigung, Bestechung, Sachbeschaedigung und Urkundenfragen.
+Prüft Wahlbehinderung, Wahlfaelschung, Wahlgeheimnis, Noetigung, Bestechung, Sachbeschaedigung und Urkundenfragen.
 
 ## Rechts- und Praxislogik
 

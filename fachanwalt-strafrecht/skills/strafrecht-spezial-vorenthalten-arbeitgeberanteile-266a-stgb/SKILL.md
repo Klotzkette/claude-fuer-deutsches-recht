@@ -18,7 +18,7 @@ description: "Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermögen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
+**Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermögen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschäftsführers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
 
 ## Worum geht es konkret
 
@@ -65,7 +65,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - **Taetige Reue Paragraph 266a Abs 6 StGB.** Wenn der Mandant noch zahlen kann, sofort die rueckstaendigen Beitraege ueberweisen und die Einzugsstelle informieren. Strafbefreiung wirkt nur, wenn beides erfolgt.
 - **Liquiditaetsstatus am Faelligkeitstag rekonstruieren.** Wenn am drittletzten Bankarbeitstag tatsaechlich kein Geld da war, ist Vorsatz angreifbar. BGH-Linie: Bei evidenter Zahlungsunfaehigkeit erst ab Eintritt der Krise.
 - **Pflichtenkollision Paragraph 15b InsO.** Streit: Wenn GF in Krise war, durfte er ueberhaupt zahlen? BGH staendige Rspr.: Sozialabgaben gehen Paragraph 15b InsO vor; Zahlung ist pflichtgemaess.
-- **Faktische GF erfasst.** Wer faktisch die Geschaefte fuehrt (ohne Eintragung), ist Arbeitgeber iSd Paragraph 266a StGB. Verteidigung: Strohmann-Konstellation darlegen.
+- **Faktische GF erfasst.** Wer faktisch die Geschäfte fuehrt (ohne Eintragung), ist Arbeitgeber iSd Paragraph 266a StGB. Verteidigung: Strohmann-Konstellation darlegen.
 - **Verjährungsbeginn.** Jeder Monat ist eigene Tat. Verjährung beginnt mit Eintritt der Faelligkeit. 5 Jahre Verfolgungsverjaehrung (Paragraph 78 Abs 3 Nr 4 StGB).
 
 ## Trade-off-Matrix
@@ -86,7 +86,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 - Absatz 1, 2 vorsaetzlich: Freiheitsstrafe bis 5 Jahre oder Geldstrafe.
 - Absatz 4 (besonders schwerer Fall): Freiheitsstrafe 6 Monate bis 10 Jahre - Regelbeispiel "in grossem Ausmass" (BGH-Schwelle ca. EUR 50.000 nach staendiger Rspr.).
 - Versuch nicht strafbar.
-- **Einziehung Paragraph 73 StGB**: bei Paragraph 266a StGB schwierig, weil "erlangtes" Vermögen oft im Geschaeftsbetrieb steckt. Wertersatz nach Paragraph 73c StGB.
+- **Einziehung Paragraph 73 StGB**: bei Paragraph 266a StGB schwierig, weil "erlangtes" Vermögen oft im Geschäftsbetrieb steckt. Wertersatz nach Paragraph 73c StGB.
 - **Sperre Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG**: 5 Jahre als GF.
 - **Zivilrechtlich**: Persoenliche Haftung des GF gegenueber Einzugsstelle aus Paragraph 823 Abs 2 BGB iVm Paragraph 266a StGB als Schutzgesetz (BGH staendige Rspr.).
 - BZRG-Eintrag.
@@ -95,7 +95,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 **Schutzschrift-Snippet:** "Mein Mandant hat die Beitraege zur Sozialversicherung für Maerz 2026 (Faelligkeit DD.MM.JJJJ) nachgezahlt (Anlage SS 1) und der Einzugsstelle die Beitragsabrechnung zugesandt (Anlage SS 2). Die Voraussetzungen der taetigen Reue nach Paragraph 266a Abs 6 StGB sind erfuellt; Strafbefreiung tritt ein."
 
-**Einlassungs-Snippet:** "Am drittletzten Bankarbeitstag im Maerz 2026 betrug der Saldo auf dem Geschaeftskonto EUR 2.500. Ich hatte zu diesem Zeitpunkt offene Lieferantenrechnungen über insgesamt EUR 35.000 und sah keine Moeglichkeit, die Sozialabgaben in Höhe von EUR 18.000 abzufuehren. Ich habe sofort am DD.MM.JJJJ Insolvenzantrag gestellt."
+**Einlassungs-Snippet:** "Am drittletzten Bankarbeitstag im Maerz 2026 betrug der Saldo auf dem Geschäftskonto EUR 2.500. Ich hatte zu diesem Zeitpunkt offene Lieferantenrechnungen über insgesamt EUR 35.000 und sah keine Moeglichkeit, die Sozialabgaben in Höhe von EUR 18.000 abzufuehren. Ich habe sofort am DD.MM.JJJJ Insolvenzantrag gestellt."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der Kontoauszuege der Y-Bank für den Zeitraum DD.MM.JJJJ bis DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass am drittletzten Bankarbeitstag im Maerz 2026 keine ausreichenden Mittel zur Abfuehrung der Sozialabgaben vorhanden waren."
 

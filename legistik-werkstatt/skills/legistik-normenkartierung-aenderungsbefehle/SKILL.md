@@ -1,6 +1,6 @@
 ---
 name: legistik-normenkartierung-aenderungsbefehle
-description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech"
+description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Änderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrech"
 ---
 
 # Normenkartierung
@@ -57,11 +57,11 @@ Wenn das Vorhaben einen Begriff einführt: existiert dieser Begriff schon woande
 
 ## Schritt 6 - Verweisketten prüfen
 
-Wenn Norm A auf Norm B verweist und sich B aendert, muss Norm A prüfen, ob der Verweis noch passt. Verweisketten über mehrere Gesetze sind heimtueckisch.
+Wenn Norm A auf Norm B verweist und sich B ändert, muss Norm A prüfen, ob der Verweis noch passt. Verweisketten über mehrere Gesetze sind heimtueckisch.
 
 ## Schritt 7 - Paralleles Gesetzgebungsverfahren?
 
-Wird eine der zu aendernden Normen zur gleichen Zeit in einem anderen Gesetzgebungsverfahren geändert? Dann Abstimmung mit dem anderen Verfahren über Reihenfolge oder Änderungsbefehl.
+Wird eine der zu ändernden Normen zur gleichen Zeit in einem anderen Gesetzgebungsverfahren geändert? Dann Abstimmung mit dem anderen Verfahren über Reihenfolge oder Änderungsbefehl.
 
 ## Schritt 8 - EU-Normen, internationale Bezüge
 
@@ -77,7 +77,7 @@ Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlich
 
 ## Ausgabe
 
-Änderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu aendernden Normen.
+Änderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu ändernden Normen.
 
 ## Anschluss
 

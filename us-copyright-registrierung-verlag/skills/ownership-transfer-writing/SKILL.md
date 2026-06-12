@@ -1,6 +1,6 @@
 ---
 name: ownership-transfer-writing
-description: "Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag."
+description: "Prüft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title im Us Copyright Registrierung Verlag."
 ---
 
 # Ownership, Assignment und Writing Requirement

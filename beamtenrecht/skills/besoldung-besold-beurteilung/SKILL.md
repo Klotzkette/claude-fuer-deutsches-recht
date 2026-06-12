@@ -41,7 +41,7 @@ description: "Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung 
 - Widerspruch gegen Beurteilung.
 - Verpflichtungsklage VG auf Neuabfassung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Beurteilung?
 2. Plausibel?

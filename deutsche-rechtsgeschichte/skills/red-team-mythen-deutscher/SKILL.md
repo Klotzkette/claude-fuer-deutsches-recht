@@ -11,7 +11,7 @@ In der Rechtswissenschaft und im öffentlichen Diskurs existieren hartnäckige M
 
 ## Kernnormen / Kernquellen
 
-- **BGB §§ 611-630 (1900)**: Dienstvertragsrecht, Fuersorgepflicht des Arbeitgebers
+- **BGB §§ 611-630 (1900)**: Dienstvertragsrecht, Fürsorgepflicht des Arbeitgebers
 - **Ermächtigungsgesetz 1933 (RGBl. I 1933, 141)**: NS-Machtergreifung durch Formalrecht
 - **Radbruch-Formel** (1946, SJZ 1946, 105): Gesetzliches Unrecht und uebergesetzliches Recht
 - **DDR-ZGB 1975 (GBl. I DDR 1975, 465)**: Systematisches Zivilrecht im Sozialismus

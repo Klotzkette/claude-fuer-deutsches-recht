@@ -52,7 +52,7 @@ description: "Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie: Ski
 | Vorausleistung ohne Buergschaft | Hoch | guenstig (Rueckzahlung) |
 | Einseitige Preisanpassung | Mittel | guenstig (Festpreis) |
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist unwirksam?
 2. Wer profitiert vom Default-Recht?

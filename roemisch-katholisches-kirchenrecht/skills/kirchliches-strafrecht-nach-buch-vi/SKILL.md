@@ -89,11 +89,11 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - **can. 1397 CIC** Verbrechen gegen das Leben, Schwangerschaftsabbruch, Folter, Entfuehrung.
 - **can. 1399 CIC** Generalklausel.
 
-### Verhaeltnis zu staatlichem Strafrecht
+### Verhältnis zu staatlichem Strafrecht
 - Doppelbestrafung möglich; staatliches Strafverfahren unabhaengig.
 - Anzeigepflicht in DE: keine generelle, aber nach Vos Estis Lux Mundi kirchliche Pflicht zur Meldung an staatliche Stellen, soweit nach staatlichem Recht möglich.
 
-### Pruefraster
+### Prüfraster
 1. Tatzeit nach 08.12.2021? — Buch VI neu (Pascite Gregem Dei).
 2. Vorher? — Buch VI alt (1983) mit Sondernormen, insbesondere Sacramentorum Sanctitatis Tutela (Johannes Paul II., 30.04.2001, mehrfach revidiert).
 3. Sexualdelikte gegen Minderjaehrige: immer auch Dikasterium für die Glaubenslehre (DDF) einschalten.

@@ -17,7 +17,7 @@ description: "Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrig
 
 Die Rulemap-Skills bilden eine eigene Subkette; sie werden nach der Ressort- und Sachfeld-Klärung in das Werkstatt-eingehaengt. Die Quercheckskills (verfassungsmaessigkeit; europarechtskonformitaet) wirken weiter; die rmap-Skills liefern zusaetzlich die maschinenlesbare Fassung.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: ist die Werkstattkette vollstaendig durchlaufen? Sind Querprueferei und Rulemap-Erstellung sauber verzahnt? Liegt am Ende ein Aktenstand mit Text- und Logikfassung der Norm vor?
 

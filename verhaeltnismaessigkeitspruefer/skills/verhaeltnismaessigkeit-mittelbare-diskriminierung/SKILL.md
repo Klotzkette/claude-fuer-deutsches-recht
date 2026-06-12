@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-mittelbare-diskriminierung
-description: Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nur durch ein rechtmaessiges Ziel und angemessene erforderliche Mittel. Verhaeltnismaessigkeit ist hier die ausschlaggebende Pruefungsstufe. Behandelt typische Konstellationen wie Teilzeitbenachteiligung Beruflicher Aufstieg Sprachanforderungen und Auswahlkriterien.
+description: Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH-Linie seit Bilka. Erfasst neutrale Vorschriften oder Kriterien die Traegerinnen eines geschuetzten Merkmals in besonderer Weise benachteiligen koennen. Rechtfertigung nur durch ein rechtmaessiges Ziel und angemessene erforderliche Mittel. Verhältnismäßigkeit ist hier die ausschlaggebende Prüfungsstufe. Behandelt typische Konstellationen wie Teilzeitbenachteiligung Beruflicher Aufstieg Sprachanforderungen und Auswahlkriterien.
 ---
 
 # Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab
@@ -9,13 +9,13 @@ description: Mittelbare Diskriminierung nach Paragraph 3 Abs. 2 AGG und der EuGH
 
 Die mittelbare Diskriminierung ist die dogmatisch anspruchsvollste Form der Benachteiligung. Anders als bei der unmittelbaren Diskriminierung knuepft die Norm scheinbar neutral an aber wirkt sich typischerweise auf Traegerinnen eines geschuetzten Merkmals nachteilig aus. Verhältnismäßigkeit entscheidet hier über Rechtfertigung oder Unionsrechtswidrigkeit. Dieser Skill zeigt die Prüfung und die Leitlinien des EuGH.
 
-## Pruefungsschema nach Paragraph 3 Abs. 2 AGG
+## Prüfungsschema nach Paragraph 3 Abs. 2 AGG
 
 1. **Neutrale Vorschrift Kriterium oder Verfahren** — kein Bezug zu einem Merkmal aus Paragraph 1 AGG im Wortlaut.
 2. **Besondere Benachteiligungsmoeglichkeit** — Traegerinnen eines Merkmals werden typischerweise staerker belastet. Statistische Indizien oder Erfahrungssaetze.
 3. **Sachliche Rechtfertigung** — die Vorschrift ist durch ein **rechtmaessiges Ziel** sachlich gerechtfertigt und die Mittel zur Erreichung des Ziels sind **angemessen und erforderlich**.
 
-Die Rechtfertigung ist eine vollstaendige Verhaeltnismaessigkeitspruefung.
+Die Rechtfertigung ist eine vollstaendige Verhältnismäßigkeitspruefung.
 
 ## EuGH-Linie
 
@@ -25,7 +25,7 @@ Eine Regelung der Betrieblichen Altersversorgung schloss Teilzeitbeschaeftigte a
 
 ### Verfeinerung — Rs. C-127/92 Enderby Rs. C-167/97 Seymour-Smith
 
-Statistische Darlegungslast und Pruefungsdichte. Der Mitgliedstaat muss die Verhältnismäßigkeit der Regelung positiv belegen können.
+Statistische Darlegungslast und Prüfungsdichte. Der Mitgliedstaat muss die Verhältnismäßigkeit der Regelung positiv belegen können.
 
 ### Aktuelle Anwendung — Rs. C-415/10 Meister Rs. C-83/14 Chez
 

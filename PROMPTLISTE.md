@@ -15,9 +15,9 @@ Dieses Repository und damit auch diese Promptliste ist und bleibt ein **Experime
 - **Wenn Fehler entstehen, entstehen sie durch Fehlgebrauch oder durch eine danebenliegende KI** — nicht durch die hier abgelegten Vorlagen. Die Prompts sind reine Anregungen. Sie ersetzen keine anwaltliche Prüfung, keine eigene Recherche und keine eigene juristische Verantwortung.
 - **Keine Rechtsberatung.** Diese Prompts liefern weder ein Rechtsgutachten noch eine Rechtsauskunft im Einzelfall. Wer auf Basis eines Prompt-Outputs einen Schriftsatz, eine Klausel oder einen Bescheid erstellt, traegt die **vollstaendige Verantwortung** für Inhalt, Korrektheit und Rechtsstand.
 - **Mandatsgeheimnis, Berufsrecht, Datenschutz, KI-Governance** — §§ 203 und 204 StGB, § 43e BRAO, § 2 BORA, §§ 53 und 97 und 160a StPO, DSGVO und BDSG einschliesslich Drittlandtransfer, US-Cloud-Act und FISA, die KI-VO (VO EU 2024 zu 1689) und alle einschlaegigen berufsrechtlichen, datenschutzrechtlichen und regulatorischen Vorgaben muesst ihr **eigenstaendig** prüfen und einhalten. Diese Promptliste sagt dazu nichts.
-- **Testbetrieb dringend empfohlen.** Setzt die Prompts zunaechst ohne echte Mandatsgeheimnisse, ohne identifizierbare Personendaten und ohne sensible Akten ein. Validiert jeden Output gegen Gesetzestext, amtliche Materialien und ueberpruefbare Rechtsprechung.
+- **Testbetrieb dringend empfohlen.** Setzt die Prompts zunaechst ohne echte Mandatsgeheimnisse, ohne identifizierbare Personendaten und ohne sensible Akten ein. Validiert jeden Output gegen Gesetzestext, amtliche Materialien und überprüfbare Rechtsprechung.
 - **Veraltung.** Rechtsstaende altern. Was heute korrekt formuliert ist, kann morgen ueberholt sein. Prüfe immer die aktuelle Gesetzes- und Rechtsprechungslage.
-- **Aenderung ausdruecklich erwuenscht.** Diese Prompts sind Anregungen, keine Vorgaben. Kuerze, ergaenze, korrigiere, schaerfe — wie es deine Praxis erfordert.
+- **Änderung ausdruecklich erwuenscht.** Diese Prompts sind Anregungen, keine Vorgaben. Kuerze, ergaenze, korrigiere, schaerfe — wie es deine Praxis erfordert.
 
 Wer das nicht akzeptieren kann oder will, sollte diese Promptliste nicht nutzen.
 
@@ -56,7 +56,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 10 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 | [Franchise und Leasing](#franchise-und-leasing) | 2 |
 | [IT-Recht](#it-recht) | 17 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
-| [Medizinrecht](#medizinrecht) | 6 | [Rechtsgeschichte und Vermoegensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermoegensrecht-der-wiedervereinigung) | 2 |
+| [Medizinrecht](#medizinrecht) | 6 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermoegensrecht-der-wiedervereinigung) | 2 |
 | [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 4 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 16 |
 | [Migrationsrecht](#migrationsrecht) | 1 | [Sprache, Lehre und Hilfsskills](#sprache-lehre-und-hilfsskills) | 7 |
 | [Sozialrecht](#sozialrecht) | 3 |  |  |
@@ -80,7 +80,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[agb-recht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/agb-recht-pruefer)** — Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining…
 - **[bereicherungs-und-anfechtungsrecht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer)** — Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO
 - **[bgb-bt-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bgb-bt-pruefer)** — Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen…
-- **[nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich)** — Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Aenderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN
+- **[nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich)** — Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN
 - **[nda-verschwiegenheit-generator-checker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-verschwiegenheit-generator-checker)** — Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB…
 
 ## Agrarrecht
@@ -287,7 +287,7 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 - **[oeffentliches-wirtschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/oeffentliches-wirtschaftsrecht)** — Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung
 - **[parteienrecht-parteiorganisation](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/parteienrecht-parteiorganisation)** — Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage…
 - **[produktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht)** — Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates…
-- **[pruefungsrecht-hochschule](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/pruefungsrecht-hochschule)** — Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz
+- **[prüfungsrecht-hochschule](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/pruefungsrecht-hochschule)** — Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz
 - **[regulatorisches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht)** — Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest
 - **[schulrecht-laender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schulrecht-laender)** — Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz
 - **[strassenrecht-infrastruktur](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strassenrecht-infrastruktur)** — Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung
@@ -338,10 +338,10 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 
 - **[vereinsrecht-vereinsmanager](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vereinsrecht-vereinsmanager)** — Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle…
 
-## Rechtsgeschichte und Vermoegensrecht der Wiedervereinigung
+## Rechtsgeschichte und Vermögensrecht der Wiedervereinigung
 
 - **[deutsche-rechtsgeschichte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/deutsche-rechtsgeschichte)** — Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht…
-- **[einigungsvertrag-vermoegensrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einigungsvertrag-vermoegensrecht)** — Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution
+- **[einigungsvertrag-vermögensrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einigungsvertrag-vermoegensrecht)** — Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution
 
 ## Anwaltliches Berufsrecht und Kanzleimanagement
 
@@ -376,6 +376,6 @@ Wenn du Claude Code, Codex oder Perplexity Computer einsetzt, kannst du das jewe
 
 ## Hinweis für Skill-Autoren und KI-Assistenten
 
-Wenn du neue Skills erzeugst (Perplexity Computer, Claude Code oder Codex): pruefe, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Plugins tragen in diese Promptliste ein und werden nach Rechtsgebiet einsortiert.
+Wenn du neue Skills erzeugst (Perplexity Computer, Claude Code oder Codex): prüfe, ob der Skill sich als alleinstehender Mega-Prompt eignet — also nicht primaer ein Kaltstart-Skill, kein generischer Router und kein reiner Workflow-Anker ist, sondern ein eigenstaendig nutzbarer, inhaltlich substanzieller Prompt mit klarer Struktur. Solche Plugins tragen in diese Promptliste ein und werden nach Rechtsgebiet einsortiert.
 
 **Pflegehinweis:** Diese Datei wird bei jedem groesseren Versionsbump durchgesehen und an den aktuellen Plugin-Stand angepasst. Die vollstaendigen Pflegeregeln stehen in [`.github/PROMPTLISTE_REGEL.md`](./.github/PROMPTLISTE_REGEL.md).

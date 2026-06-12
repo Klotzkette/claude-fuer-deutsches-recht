@@ -1,6 +1,6 @@
 ---
 name: rentenversicherungspflicht-selbststaendige
-description: "Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Pruefer."
+description: "Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige im Sozialversicherungsstatus Prüfer."
 ---
 
 # Rentenversicherungspflicht Selbständiger

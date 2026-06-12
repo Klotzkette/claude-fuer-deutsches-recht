@@ -34,7 +34,7 @@ Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nac
 - **§ 5 Abs. 1 Nr. 2 BImSchG** — Vorsorge-Pflicht Emissionsminimierung
 - **§ 6 BImSchG** — Genehmigungsvoraussetzungen; gebundene Entscheidung
 - **§ 10 BImSchG i.V.m. 9. BImSchV** — Foermliches Verfahren mit Oeffentlichkeitsbeteiligung
-- **§ 16 BImSchG** — Wesentliche Aenderung genehmigungsbeduerftiger Anlagen
+- **§ 16 BImSchG** — Wesentliche Änderung genehmigungsbeduerftiger Anlagen
 - **§ 17 BImSchG** — Nachtraegliche Auflagen
 - **§ 19 BImSchG** — Vereinfachtes Verfahren ohne Oeffentlichkeitsbeteiligung
 - **§ 48 BImSchG i.V.m. TA Luft, TA Laerm** — Verwaltungsvorschriften als antizipierte Sachverstaendigen-Gutachten
@@ -138,7 +138,7 @@ Anlagen: Eigentumsnachweis, Schallgutachten-Gegengutachten, Lageplan
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

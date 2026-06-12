@@ -13,15 +13,15 @@ description: "Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass.
 
 ## Kernsachverhalt
 
-Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Pruefungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
+Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaetigt werden, soweit dies dem Mandanten zumutbar und im Prüfungsumfang erforderlich ist. Die Saldenabstimmung ist Pflichtbestandteil der Wirtschaftspruefung (§ 320 HGB) und gehoert auch zur sorgfaeltigen Jahresabschluss-Erstellung. Der Steuerberater versendet Abstimmungsschreiben, wertet Antworten aus und klaert Differenzen mit dem Mandanten und der Gegenseite.
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Stichtag — 31. Dezember oder abweichendes Wirtschaftsjahr?
-2. Welche Mandantengroesse (§ 267 HGB) — Pruefungspflichtig oder freiwillig?
+2. Welche Mandantengroesse (§ 267 HGB) — Prüfungspflichtig oder freiwillig?
 3. Welche Positionen sind abzustimmen — Forderungen LuL, Verbindlichkeiten LuL, Banken, Darlehen?
 4. Welcher Schwellenwert ist relevant (Forderungen über X EUR)?
-5. Wie viele Geschaeftspartner ungefaehr (Volumen Abstimmungsschreiben)?
+5. Wie viele Geschäftspartner ungefaehr (Volumen Abstimmungsschreiben)?
 6. Welche Form — positive Abstimmung (Antwortwerbung) oder negative (Schweigen = Zustimmung)?
 7. Welche Frist bis zum geplanten Bilanzstichtag-Reporting?
 8. Welche Sondersituation (Mandantenkonflikt, Liquiditaetsstockung)?
@@ -34,7 +34,7 @@ Zum Bilanzstichtag müssen die Forderungen und Verbindlichkeiten extern bestaeti
 
 **§ 252 Abs. 1 Nr. 4 HGB** — Vorsichtsprinzip.
 
-**§ 320 HGB** — Pruefungspflicht; Abstimmung Pflicht für WP.
+**§ 320 HGB** — Prüfungspflicht; Abstimmung Pflicht für WP.
 
 **§ 33 StBerG** — StB-Aufgabenkreis.
 
@@ -96,14 +96,14 @@ Mit freundlichen Gruessen
 
 - Eingehende Antworten in Excel-Tabelle erfassen.
 - Stimmig: keine weitere Aktion.
-- Differenz: Differenzklaerung mit Mandant und Geschaeftspartner.
+- Differenz: Differenzklaerung mit Mandant und Geschäftspartner.
 - Nichtantwort: Erinnerung nach 4 Wochen; ggf. zweite Form.
 
 ### Phase 5 — Differenzklaerung
 
 | Differenz-Typ | Mögliche Ursache | Klärung |
 |---|---|---|
-| Saldo niedriger als StB-Bestand | Zahlung des Geschaeftspartners im Cut-off | Mit Bankauszug abgleichen |
+| Saldo niedriger als StB-Bestand | Zahlung des Geschäftspartners im Cut-off | Mit Bankauszug abgleichen |
 | Saldo hoeher als StB-Bestand | Eingangs-/Ausgangsrechnung im Cut-off nicht erfasst | Buchung prüfen |
 | Saldo abweicht stark | Strittige Rechnung, Reklamation | Mit Mandant prüfen, ggf. Rueckstellung |
 
@@ -117,7 +117,7 @@ Mit freundlichen Gruessen
 ## Strategie und Praxis-Tipps
 
 - Saldenabstimmung ist Pflicht bei Wirtschaftspruefung (§ 320 HGB).
-- Bei Mittelstand ohne Pruefungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
+- Bei Mittelstand ohne Prüfungspflicht oft freiwillig für Bank-Reporting oder Mandantenwunsch.
 - Bei groesseren Mandanten Standardprozess mit DATEV-Saldenbestaetigung-Modul.
 - Antwortquote oft 50-70 Prozent — daher Nichtantworten dokumentiert hinnehmen.
 - StBVV: Saldenabstimmung als Zusatzauftrag Jahresabschluss oder Prüfung.

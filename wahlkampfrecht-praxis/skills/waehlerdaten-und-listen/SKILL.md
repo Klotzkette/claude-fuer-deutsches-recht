@@ -1,6 +1,6 @@
 ---
 name: waehlerdaten-und-listen
-description: "Wahlkampfrecht Praxis: Waehler-, Mitglieder-, Interessenten- und Volunteerlisten pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Waehler-, Mitglieder-, Interessenten- und Volunteerlisten prüfen im Wahlkampfrecht."
 ---
 
 # Waehlerdaten Und Listen

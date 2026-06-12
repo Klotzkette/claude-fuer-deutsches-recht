@@ -59,7 +59,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 197 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -238,10 +238,10 @@ Automatisch generierte Komplett-Liste aller 197 Skills in diesem Plugin. Beschre
 | `startup-ip-uebersetzung-verantwortung` | Patentanwälte: startup ip budget warnung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `syndikus-oder-inhouse` | Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Syndikus oder Inhouse im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handl... |
 | `treuhand-oder-fremdgeld` | Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Patentanwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste H... |
-| `uebersetzung-und-verantwortung-kaltstart-und-faktenmatrix` | Patentanwälte: uebersetzung und verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
-| `uebersetzung-und-verantwortung-kammerantwort` | Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
-| `uebersetzung-und-verantwortung-organisationspflicht` | Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
-| `uebersetzung-und-verantwortung-rechtsprechungscheck` | Patentanwälte: uebersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
+| `uebersetzung-und-verantwortung-kaltstart-und-faktenmatrix` | Patentanwälte: übersetzung und verantwortung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
+| `uebersetzung-und-verantwortung-kammerantwort` | Patentanwälte: übersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
+| `uebersetzung-und-verantwortung-organisationspflicht` | Patentanwälte: übersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
+| `uebersetzung-und-verantwortung-rechtsprechungscheck` | Patentanwälte: übersetzung und verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `vermerk-mustertext-sitzungs` | Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Patentanwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigu... |
 | `verschwiegenheit-f-e-projekten` | Patentanwälte: verschwiegenheit in f and e projekten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte. |
 | `verschwiegenheit-geheimnisschutz-werbung` | Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Patentanwälte; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kamme... |

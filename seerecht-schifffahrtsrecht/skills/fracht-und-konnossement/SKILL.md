@@ -1,13 +1,13 @@
 ---
 name: fracht-und-konnossement
-description: "Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnosse..."
+description: "Spediteur oder Befrachter prüft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Übergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnosse..."
 ---
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung
 
 ## Arbeitsbereich
 
-Spediteur oder Befrachter prüft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Spediteur oder Befrachter prüft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Übergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules für internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

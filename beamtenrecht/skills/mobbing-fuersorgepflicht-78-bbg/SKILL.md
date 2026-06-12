@@ -1,9 +1,9 @@
 ---
 name: mobbing-fuersorgepflicht-78-bbg
-description: "Skill zu Mobbing im öffentlichen Dienst und zur Fuersorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Massnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhaeltnis zu strafrechtlichen Tatbestaend..."
+description: "Skill zu Mobbing im öffentlichen Dienst und zur Fürsorgepflicht des Dienstherrn nach § 78 BBG bzw. § 45 BeamtStG. Klaert den Mobbingbegriff die Pflicht zur Aufklaerung und zur Maßnahme im Konfliktfall die Beweislast bei systematischer Schikane und das Verhältnis zu strafrechtlichen Tatbestaend..."
 ---
 
-# Mobbing und Fuersorgepflicht im öffentlichen Dienst
+# Mobbing und Fürsorgepflicht im öffentlichen Dienst
 
 ## Arbeitsweg
 
@@ -31,12 +31,12 @@ Skill für Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schu
 - Systematisches, fortgesetztes Anfeinden, Schikanieren oder Diskriminieren am Arbeitsplatz mit dem Ziel oder Effekt der Schaedigung der beruflichen oder persönlichen Stellung.
 - Einzelne unkollegiale Handlungen reichen nicht; entscheidend ist das Muster.
 
-### b) Fuersorgepflicht des Dienstherrn
+### b) Fürsorgepflicht des Dienstherrn
 - § 78 BBG bzw. § 45 BeamtStG i.V.m. Landesrecht: Pflicht zum Schutz von Gesundheit und Wuerde der Beamtinnen und Beamten.
 - Konkrete Pflicht zur Aufklaerung, Anhörung, Ermittlung, Trennung der Konfliktparteien, Versetzung gegebenenfalls.
 
 ### c) Beweislast
-- Beamter muss Indizien für Mobbingmuster vortragen; bei substantiierter Darlegung Beweiserleichterung. Verstoss gegen Fuersorgepflicht ergibt sich aus Unterlassen des Dienstherrn.
+- Beamter muss Indizien für Mobbingmuster vortragen; bei substantiierter Darlegung Beweiserleichterung. Verstoss gegen Fürsorgepflicht ergibt sich aus Unterlassen des Dienstherrn.
 
 ### d) Maßnahmen
 - Antrag auf Versetzung des Mobbers oder eigene Versetzung.
@@ -44,13 +44,13 @@ Skill für Beamte, die sich am Arbeitsplatz dauerhaft schikaniert sehen und Schu
 - Beschwerde nach § 13 AGG bei diskriminierungsbezogenem Mobbing.
 
 ### e) Schadensersatz und Schmerzensgeld
-- Beamtenrechtlicher Schadensersatzanspruch wegen Fuersorgepflichtverletzung.
+- Beamtenrechtlicher Schadensersatzanspruch wegen Fürsorgepflichtverletzung.
 - Schmerzensgeld unter den engen Voraussetzungen des § 253 BGB analog.
 
 ## 4. Quellenpflicht
 
 - Normen: § 78 BBG; § 45 BeamtStG i.V.m. Landesrecht; § 13 AGG; §§ 280, 253 BGB analog.
-- Rspr.: BVerwG zur Fuersorgepflicht; BAG zum Mobbingbegriff — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Rspr.: BVerwG zur Fürsorgepflicht; BAG zum Mobbingbegriff — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

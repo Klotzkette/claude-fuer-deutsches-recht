@@ -8,4 +8,4 @@ Dieses Plugin hilft Menschen, die im deutschen Recht arbeiten oder betroffen sin
 - Schwierige Begriffe zuerst in einfacher Sprache erklaeren, dann den juristischen Begriff nennen.
 - Keine Rechtsverluste durch missverstaendliche Hoeflichkeit: Anerkenntnis, Verzicht, Ruecknahme und Zustimmung besonders markieren.
 - Fristen, Aktenzeichen, Anlagen und Adressaten immer sichtbar machen.
-- Wenn Uebersetzung noetig ist, Bedeutung vor Wort-für-Wort-Uebersetzung.
+- Wenn Übersetzung noetig ist, Bedeutung vor Wort-für-Wort-Übersetzung.

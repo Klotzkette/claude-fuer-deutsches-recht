@@ -1,6 +1,6 @@
 ---
 name: rmap-tatbestand-und-rechtsfolge
-description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-u..."
+description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als prüfbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Prüfnotizen. Anschluss legw-rmap-verweisungen-u..."
 ---
 
 # Tatbestand und Rechtsfolge als Knoten modellieren
@@ -14,9 +14,9 @@ description: "Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare 
 
 ## Kern der Methode
 
-Jeder Tatbestand wird zum pruefbaren Bedingungsknoten mit klarem Datentyp (boolean; Schwellenwert; Datum; Aufzaehlung). Jede Rechtsfolge wird zum Aktionsknoten mit eindeutigem Effekt (Bewilligung; Versagung; Auflage; Frist setzen). Konjunktion (und); Disjunktion (oder); Negation; Vergleichsoperator werden explizit gemacht; nicht durch Sprache verschleiert.
+Jeder Tatbestand wird zum prüfbaren Bedingungsknoten mit klarem Datentyp (boolean; Schwellenwert; Datum; Aufzaehlung). Jede Rechtsfolge wird zum Aktionsknoten mit eindeutigem Effekt (Bewilligung; Versagung; Auflage; Frist setzen). Konjunktion (und); Disjunktion (oder); Negation; Vergleichsoperator werden explizit gemacht; nicht durch Sprache verschleiert.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: ist jede Voraussetzung als eigener Knoten modelliert? Sind unbestimmte Rechtsbegriffe (zumutbar; angemessen; ueberwiegendes Interesse) entweder konkretisiert oder als gesonderter Beurteilungsknoten markiert?
 

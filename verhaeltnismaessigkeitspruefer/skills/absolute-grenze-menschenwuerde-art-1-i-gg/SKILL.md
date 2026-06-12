@@ -1,16 +1,16 @@
 ---
 name: absolute-grenze-menschenwuerde-art-1-i-gg
-description: "Absolute Grenze der Verhaeltnismaessigkeit Art 1 I GG: Menschenwuerde ist abwaegungsfest und unverfuegbar. Mit Objektformel, Kernbereich, Bezug zu Wesensgehalt Art 19 II GG und zentralen BVerfG-Linien Luftsicherheitsgesetz, Lebenslange Freiheitsstrafe, Hartz IV."
+description: "Absolute Grenze der Verhältnismäßigkeit Art 1 I GG: Menschenwuerde ist abwaegungsfest und unverfuegbar. Mit Objektformel, Kernbereich, Bezug zu Wesensgehalt Art 19 II GG und zentralen BVerfG-Linien Luftsicherheitsgesetz, Lebenslange Freiheitsstrafe, Hartz IV."
 ---
 
 # Absolute Grenze: Menschenwuerde Art 1 I GG
 
-> Die Menschenwuerde ist die einzige Norm im Grundgesetz, die jeder Abwaegung entzogen ist. Wo sie verletzt ist, endet die Verhaeltnismaessigkeitspruefung – ohne Stufe 4.
+> Die Menschenwuerde ist die einzige Norm im Grundgesetz, die jeder Abwaegung entzogen ist. Wo sie verletzt ist, endet die Verhältnismäßigkeitspruefung – ohne Stufe 4.
 
 ## Dogmatik
 
 - Art 1 I 1 GG: "Die Wuerde des Menschen ist unantastbar."
-- Art 79 III GG: Aenderungsfest (Ewigkeitsklausel).
+- Art 79 III GG: Änderungsfest (Ewigkeitsklausel).
 - Wesensgehaltsgarantie Art 19 II GG **plus** absolute Stellung im Vorspann.
 - Doppelte Funktion: Abwehrrecht **und** Schutzpflicht.
 
@@ -47,7 +47,7 @@ Eine Verletzung liegt vor, wenn der Mensch zum **blossen Objekt** staatlichen Ha
 
 ## Verbindung
 
-Siehe `absolute-grenze-wesensgehalt-art-19-ii-gg` und `absolute-grenze-existenzminimum`. Diese drei Grenzen markieren die unverfuegbaren Punkte der Verhaeltnismaessigkeitspruefung.
+Siehe `absolute-grenze-wesensgehalt-art-19-ii-gg` und `absolute-grenze-existenzminimum`. Diese drei Grenzen markieren die unverfuegbaren Punkte der Verhältnismäßigkeitspruefung.
 
 ## Quellen mit Schlagwort
 

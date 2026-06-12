@@ -51,7 +51,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Anfechtungsklage gegen Verwaltungsakt | Klageschrift nach Pruefschema VwGO; Template unten |
+| Standard — Anfechtungsklage gegen Verwaltungsakt | Klageschrift nach Prüfschema VwGO; Template unten |
 | Variante A — Widerspruchsverfahren noch offen | Widerspruchsschrift zuerst; Klage nach Widerspruchsbescheid |
 | Variante B — VA rechtswidrig aber Mandant will schnelle Loesung | Vergleich mit Behörde anstreben; Klage als Druckmittel |
 | Variante C — VA nicht mehr vollziehbar Feststellungsinteresse prüfen | Fortsetzungsfeststellungsklage § 113 Abs. 1 S. 4 VwGO statt Anfechtung |
@@ -148,7 +148,7 @@ Anlagen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -161,7 +161,7 @@ Aktuelle Linien mit Bezug zu Anfechtungsverfahren:
 - BVerwG 6 C 1.25, Urteil vom 02.12.2025 — Überwachungsmaßnahmen bei terroristischen Straftaten und die vom BVerfG aufgestellten Anforderungen an die Eingriffsschwellen für Maßnahmen der Gefahrenabwehr — Verifikation [bverwg.de](https://www.bverwg.de/021225U6C1.25.0).
 - BVerfG, Beschluss vom 14.11.2024 — 1 BvL 3/22 (PolG NRW Observation) — Eingriffsschwellen-Anforderungen, Übergangsfortgeltung bis 31.12.2025 — relevant für Polizei-Anfechtungsklagen.
 
-## Uebergabe
+## Übergabe
 
 - Bei Sofortvollzug parallel Antrag § 80 Abs. 5 VwGO — Skill `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`.
 - Bei Verpflichtungsbegehren (Erlass eines beantragten VA) Verpflichtungsklage § 42 Abs. 1 Var. 2 VwGO — Antrag entsprechend formulieren.

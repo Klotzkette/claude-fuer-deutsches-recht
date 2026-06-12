@@ -41,7 +41,7 @@ description: "Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als A
 
 ### DDR-Verfassung → GG
 - BVerfG hat DDR-Recht nicht generell verworfen.
-- Spezifische Streitfragen über Bodenreform und Vermoegensrecht.
+- Spezifische Streitfragen über Bodenreform und Vermögensrecht.
 
 ## Methodenvorschlag für Argumentation
 

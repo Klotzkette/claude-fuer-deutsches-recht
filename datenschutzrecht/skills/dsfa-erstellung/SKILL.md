@@ -1,6 +1,6 @@
 ---
 name: dsfa-erstellung
-description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahm..."
+description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Maßnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahm..."
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO

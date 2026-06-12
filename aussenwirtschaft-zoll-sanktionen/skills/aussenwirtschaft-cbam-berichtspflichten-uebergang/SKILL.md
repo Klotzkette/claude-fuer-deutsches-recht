@@ -36,7 +36,7 @@ description: "CBAM-Berichtspflichten in der Uebergangsphase (2023-2025) nach VO 
 - **§ 11 ZollVG**: Informationspflichten gegenueber Zollbehoerden.
 - **VO (EU) 2023/956 Art. 3**: Definition eingebetteter Emissionen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle CBAM-pflichtigen Waren und KN-Codes identifiziert?
 - [ ] Emissionsdaten vom Lieferanten eingeholt oder EU-Standardwert verwendet?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

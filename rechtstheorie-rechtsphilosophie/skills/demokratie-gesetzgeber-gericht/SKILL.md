@@ -1,6 +1,6 @@
 ---
 name: demokratie-gesetzgeber-gericht
-description: "Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen."
+description: "Prüft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen."
 ---
 
 # Demokratie, Gesetzgeber und Gericht

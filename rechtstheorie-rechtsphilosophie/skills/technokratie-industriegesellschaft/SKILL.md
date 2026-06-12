@@ -1,6 +1,6 @@
 ---
 name: technokratie-industriegesellschaft
-description: "Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung."
+description: "Prüft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung."
 ---
 
 # Technokratie, Industriegesellschaft und Grundrechte

@@ -33,7 +33,7 @@ description: "Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Ski
 - Vereinheitlichung des Gerichtswesens.
 - Reichsgericht (RG) 1879.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Instanz?

@@ -1,6 +1,6 @@
 ---
 name: hinterbliebenenversorgung-witwen-waisen
-description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhaeltnis zur Witwerrente i..."
+description: "Skill zur Hinterbliebenenversorgung in der Beamtenversorgung Witwen- und Witwergeld Halbwaisengeld und Vollwaisengeld nach §§ 19 ff. BeamtVG. Klaert die Anspruchsvoraussetzungen Heiratsklauseln vor Eintritt in den Ruhestand und vor Vollendung des 65. Lebensjahres das Verhältnis zur Witwerrente i..."
 ---
 
 # Hinterbliebenenversorgung Witwen Witwer Waisen
@@ -47,14 +47,14 @@ Skill für Hinterbliebene eines verstorbenen Beamten oder Ruhestandsbeamten. Kla
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 19, 20, 23 BeamtVG; § 19 BeamtVG zur Anspruchsversagung bei Versorgungsehe; landesrechtliche Aequivalente.
+- Normen: §§ 19, 20, 23 BeamtVG; § 19 BeamtVG zur Anspruchsversagung bei Versorgungsehe; landesrechtliche Äquivalente.
 - Rspr.: BVerfG zur Gleichstellung eingetragener Lebenspartnerschaften; BVerwG zur Versorgungsehe — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
 - Antrag auf Hinterbliebenenversorgung mit Anlagen.
-- Pruefraster zu Heiratsklauseln und Versorgungsehe.
+- Prüfraster zu Heiratsklauseln und Versorgungsehe.
 
 ## 6. Verifizierte Quellenanker
 

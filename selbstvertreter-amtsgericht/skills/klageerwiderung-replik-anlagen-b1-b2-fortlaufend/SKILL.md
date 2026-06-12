@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-replik-anlagen-b1-b2-fortlaufend
-description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen: Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Num..."
+description: "Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen: Beklagter nutzt B1 B2 B3. Kläger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Num..."
 ---
 
 # Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen
@@ -39,9 +39,9 @@ Wenn Sie auf eine Klage antworten (= Klageerwiderung) oder selbst auf eine Klage
 ## Fachbegriffe (kurz erklaert)
 
 - **Klageerwiderung**: Der erste Schriftsatz des Beklagten, mit dem er auf die Klage antwortet.
-- **Replik**: Die Antwort des Klaegers auf die Klageerwiderung.
+- **Replik**: Die Antwort des Klägers auf die Klageerwiderung.
 - **Duplik**: Die Antwort des Beklagten auf die Replik.
-- **K-Anlagen**: Anlagen des Klaegers (K = Kläger).
+- **K-Anlagen**: Anlagen des Klägers (K = Kläger).
 - **B-Anlagen**: Anlagen des Beklagten (B = Beklagter).
 
 ## Schritt-für-Schritt — als Beklagter
@@ -52,7 +52,7 @@ Lesen Sie die Klageschrift. Notieren Sie: Welche K-Anlagen liegen bei? K1, K2, K
 
 ### Schritt 2 — Eigene B-Anlagen festlegen
 
-Wenn Sie eigene Beweisstuecke haben, fangen Sie mit **B1** an. Die K-Nummern des Klaegers werden NICHT verwendet. Kläger und Beklagter haben getrennte Nummerierungs-Stroenge.
+Wenn Sie eigene Beweisstuecke haben, fangen Sie mit **B1** an. Die K-Nummern des Klägers werden NICHT verwendet. Kläger und Beklagter haben getrennte Nummerierungs-Stroenge.
 
 ### Schritt 3 — Im Text verweisen
 
@@ -60,7 +60,7 @@ In der Klageerwiderung schreiben Sie:
 
 > "Der Kläger behauptet, der Vertrag sei am 12.03.2025 geschlossen worden. **Das wird bestritten.** Tatsaechlich gab es nur ein Vor-Gespraech. Der Vertrags-Entwurf wurde dem Beklagten erst am 25.03.2025 zugeleitet (**Anlage B1** — E-Mail mit Vertrags-Entwurf)."
 
-Und auf K-Anlagen des Klaegers verweisen Sie auch:
+Und auf K-Anlagen des Klägers verweisen Sie auch:
 
 > "Die vom Kläger vorgelegte Rechnung (**Anlage K2 der Klageschrift**) hat der Beklagte nicht erhalten."
 

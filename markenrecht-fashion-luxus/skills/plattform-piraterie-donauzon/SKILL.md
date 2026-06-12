@@ -135,7 +135,7 @@ Kontakt: RA'in [Name], [Email], [Tel.]
 ## Triage-Fragen bei Plattform-Piraterie
 
 Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
-1. Handelt es sich um Donauzon als Hosting-Provider (DSA Art. 16 — Notice-and-Action) oder als aktiven Mitverkäufer (DSA Art. 30 — Verhaeltnis-Haendler)?
+1. Handelt es sich um Donauzon als Hosting-Provider (DSA Art. 16 — Notice-and-Action) oder als aktiven Mitverkäufer (DSA Art. 30 — Verhältnis-Haendler)?
 2. Wurde Donauzon bereits mit einer wirksamen Notice informiert und hat es nicht gehandelt (Voraussetzung für Haftung als Plattform)?
 3. Ist der Verletzer auf der Plattform identifizierbar (WHOIS, Haendlerdaten nach DSA Art. 30)?
 4. Liegen ausreichende Beweise für die Verletzungshandlung vor (Screenshots, Testkauf)?

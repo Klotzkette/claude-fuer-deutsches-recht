@@ -27,8 +27,8 @@ description: "ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bed
 - Geistesgestoerte sind nicht strafbar.
 - Vorlaeufer § 20 StGB.
 
-### Wahnsinn als Geschaeftsunfaehigkeit
-- ALR I 4 — Geschaeftsunfaehigkeit bei Geisteskrankheit.
+### Wahnsinn als Geschäftsunfaehigkeit
+- ALR I 4 — Geschäftsunfaehigkeit bei Geisteskrankheit.
 
 ### Verschwendung ALR II 18
 - Verschwender können unter Kuratel gestellt werden.
@@ -37,7 +37,7 @@ description: "ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bed
 ### Detailvorgaben zu Lebenszeichen
 - Tatbestand der Geburt — Lebendgeburt erfordert Schrei (in der Praxis schwer feststellbar).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Kuriositaet?
-2. Heutige Aequivalente im StGB BGB?
+2. Heutige Äquivalente im StGB BGB?

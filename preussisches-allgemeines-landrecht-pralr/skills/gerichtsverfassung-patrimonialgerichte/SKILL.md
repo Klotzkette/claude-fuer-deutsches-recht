@@ -56,7 +56,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Vereinheitlichung des Gerichtswesens.
 - Reichsgericht (RG) 1879.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Instanz?

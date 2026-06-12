@@ -50,7 +50,7 @@ Fahrlaessige Trunkenheit; Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstra
 
 ## Praktikertipps Verteidigung
 
-- **Promille-Wert kritisch prüfen.** Atemalkohol-Voranzeige ist nicht beweiserheblich; Blutprobe ist ausschlaggebend. Messmethode (Headspace-Gaschromatographie + ADH-Methode) ueberpruefen. Doppelmessung erforderlich.
+- **Promille-Wert kritisch prüfen.** Atemalkohol-Voranzeige ist nicht beweiserheblich; Blutprobe ist ausschlaggebend. Messmethode (Headspace-Gaschromatographie + ADH-Methode) überprüfen. Doppelmessung erforderlich.
 - **Rueckrechnung auf Tatzeit.** BAK steigt nach Konsum noch an (Resorptionsphase bis 60 Minuten); Rueckrechnung vom Messzeitpunkt zur Tatzeit ist erforderlich. Faustregel: 0.1 Promille pro Stunde Abbau, dazu Sicherheitszuschlag.
 - **Nachtrunk-Einrede.** Mandant hat nach der Fahrt getrunken? Detailrekonstruktion mit Zeugen, Belegen, Trinkmenge.
 - **Begleitschuetzungen — Trinkende.** Der Aufnahmezeitpunkt vor und nach der Fahrt klären; falls Anhaltspunkte für "verfaelschende Begleiterscheinungen" (Mundalkohol-Restwert, Medikamenteneinnahme) bestehen.

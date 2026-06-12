@@ -14,7 +14,7 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X: Skill le
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
+**Fokus:** Anhörung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhörungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhörungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Prüfraster.
 
 ### Anhörung Im Sozialverwaltungsverfahren 24 Sgb X
 
@@ -28,7 +28,7 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X: Skill le
 
 ## Wann ist anzuhoeren
 
-§ 24 Abs. 1 SGB X: Vor Erlass eines belastenden Verwaltungsakts soll der Beteiligte angehoert werden. Belastend ist auch jede Aenderung zu Lasten — Aufhebung Rueckforderung Sanktion Leistungskuerzung.
+§ 24 Abs. 1 SGB X: Vor Erlass eines belastenden Verwaltungsakts soll der Beteiligte angehoert werden. Belastend ist auch jede Änderung zu Lasten — Aufhebung Rueckforderung Sanktion Leistungskuerzung.
 
 ## Ausnahmen § 24 Abs. 2 SGB X
 
@@ -58,7 +58,7 @@ description: "Anhörung im sozialverwaltungsverfahren nach § 24 SGB X: Skill le
 
 "In dem Verwaltungsverfahren zu Aktenzeichen [...] nehme ich zur Anhörung Stellung wie folgt: [...] Ich beantrage Akteneinsicht und behalte mir vor weitere Beweisangebote nachzureichen."
 
-## Pruefraster
+## Prüfraster
 
 1. Liegt belastender VA in Vorbereitung?
 2. Anhörung erfolgt?

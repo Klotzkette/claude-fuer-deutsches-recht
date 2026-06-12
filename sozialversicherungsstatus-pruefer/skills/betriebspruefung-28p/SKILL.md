@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-28p
-description: "Bereitet Arbeitgeber auf DRV-Betriebsprüfung zu Freelancern, Geschäftsführern und Drittpersonal vor im Sozialversicherungsstatus Pruefer."
+description: "Bereitet Arbeitgeber auf DRV-Betriebsprüfung zu Freelancern, Geschäftsführern und Drittpersonal vor im Sozialversicherungsstatus Prüfer."
 ---
 
 # Betriebsprüfung § 28p SGB IV

@@ -15,7 +15,7 @@ description: "DBA Deutschland Slowenien 2006. Anwendungsfall Mittelstand Automot
 
 ## Kernsachverhalt
 
-Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhaeltnis zum EU-Mitglied Slowenien. Praxisrelevant sind Mittelstandsbeziehungen, Automotive-Zulieferer, Tourismusbeteiligungen (Adria) und Holdings.
+Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhältnis zum EU-Mitglied Slowenien. Praxisrelevant sind Mittelstandsbeziehungen, Automotive-Zulieferer, Tourismusbeteiligungen (Adria) und Holdings.
 
 ## Kaltstart-Rueckfragen
 
@@ -60,7 +60,7 @@ Das DBA-Slowenien vom 03.05.2006 (BGBl. 2006 II S. 1091) regelt das Verhaeltnis 
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4).
 2. Sachliche Anwendbarkeit (Art. 2).

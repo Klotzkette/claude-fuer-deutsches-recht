@@ -1,6 +1,6 @@
 ---
 name: ai-output-authorship-title17
-description: "Prueft generative AI outputs nach USCO-Policy: human authorship, selection, arrangement, modification und excluded material."
+description: "Prüft generative AI outputs nach USCO-Policy: human authorship, selection, arrangement, modification und excluded material."
 ---
 
 # AI Output und Copyrightability

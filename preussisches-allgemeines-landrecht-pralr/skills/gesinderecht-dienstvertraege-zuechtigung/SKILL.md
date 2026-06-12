@@ -55,7 +55,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - 1854 Preussische Gesindeordnung — verstaerkte Schutzregeln.
 - 1918 Aufhebung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Tatbestand?
 2. Klagebefugnis des Gesindes?

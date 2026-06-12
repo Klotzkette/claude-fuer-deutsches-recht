@@ -204,7 +204,7 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 - `europarecht-vorlageverfahren-art-267` — Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht prüfen.
 - `europarecht-klagearten-eugh` — Klagemoeglichkeiten vor EuGH und EuG; Nichtigkeitsklage, Untaetigkeit, Schadensersatz.
 - `europarecht-vertragsverletzung-durchsetzung` — Vertragsverletzungsverfahren einordnen und Reaktion vorbereiten.
-- `europarecht-nationales-verfahren-effektivitaet` — Effektivitaets- und Aequivalenzgrundsatz im nationalen Verfahren.
+- `europarecht-nationales-verfahren-effektivitaet` — Effektivitaets- und Äquivalenzgrundsatz im nationalen Verfahren.
 - `europarecht-simulation-behoerde-gericht` — Argumentation vor EU-Behörde oder nationalem Gericht simulieren.
 
 **Gesetzgebung**

@@ -1,6 +1,6 @@
 ---
 name: impressum-pflicht-und-pruefung
-description: "Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., Anforderungen Print/Online/Newsletter/Social-Media-Profile, Mustertexte und Pruefcheckliste im Verlagsredaktion."
+description: "Impressumspflicht und Prüfung im Verlag: DDG § 5, MStV § 18 V. i. S. d. P., Anforderungen Print/Online/Newsletter/Social-Media-Profile, Mustertexte und Prüfcheckliste im Verlagsredaktion."
 ---
 
 # Impressums-Pflicht und Prüfung
@@ -15,7 +15,7 @@ description: "Impressumspflicht und Pruefung im Verlag: DDG § 5, MStV § 18 V. 
 
 ## Worum geht es konkret
 
-Jedes Verlagsprodukt mit eigener öffentlicher Wirkung braucht ein Impressum: Print-Heft, Buch, Online-Volltextangebot, Newsletter, Social-Media-Profil. Anforderungen verteilen sich auf DDG § 5 (Telemedien), MStV § 18 (journalistisch-redaktionelle Telemedien) und Landespressegesetze (Print). Der Skill bietet eine Pruefcheckliste und Mustertexte für alle Produkte des Verlags.
+Jedes Verlagsprodukt mit eigener öffentlicher Wirkung braucht ein Impressum: Print-Heft, Buch, Online-Volltextangebot, Newsletter, Social-Media-Profil. Anforderungen verteilen sich auf DDG § 5 (Telemedien), MStV § 18 (journalistisch-redaktionelle Telemedien) und Landespressegesetze (Print). Der Skill bietet eine Prüfcheckliste und Mustertexte für alle Produkte des Verlags.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -29,16 +29,16 @@ Jedes Verlagsprodukt mit eigener öffentlicher Wirkung braucht ein Impressum: Pr
 
 ## Rechtlicher und sachlicher Rahmen
 
-- DDG § 5 - Allgemeine Informationspflichten für geschaeftsmäßige Telemedien (Name, Anschrift, Vertretungsberechtigte, Kontakt, Register, USt-ID, ggf. Aufsichtsbehoerde, Berufsverband).
+- DDG § 5 - Allgemeine Informationspflichten für geschäftsmäßige Telemedien (Name, Anschrift, Vertretungsberechtigte, Kontakt, Register, USt-ID, ggf. Aufsichtsbehoerde, Berufsverband).
 - MStV § 18 - Journalistisch-redaktionelle Telemedien: zusaetzlich Verantwortlicher im Sinne des Presserechts (V. i. S. d. P.) mit Name und Anschrift.
 - Landespressegesetze - Print: Impressum mit Verlag, Druckerei, V. i. S. d. P., Erscheinungsweise.
 - TMG ausser Kraft seit DDG (2024); Bezugnahmen auf TMG sind veraltet.
 - DSGVO Art. 13, 14 - Informationspflichten beim Erheben personenbezogener Daten (separate Datenschutzerklaerung).
-- HGB §§ 37a, 80 - Pflichtangaben auf Geschaeftsbriefen (Firma, Rechtsform, Sitz, Registergericht, Registernummer); gilt analog für Newsletter.
+- HGB §§ 37a, 80 - Pflichtangaben auf Geschäftsbriefen (Firma, Rechtsform, Sitz, Registergericht, Registernummer); gilt analog für Newsletter.
 
 ## Praxisleitfaden / Schritt für Schritt
 
-1. **Produkttyp einordnen.** Print (LandesPresseG), Online-Geschaeftsmaessig (DDG § 5), Online-Journalistisch (DDG § 5 + MStV § 18), Newsletter (DDG § 5 + HGB), Social-Profil (DDG § 5).
+1. **Produkttyp einordnen.** Print (LandesPresseG), Online-Geschäftsmaessig (DDG § 5), Online-Journalistisch (DDG § 5 + MStV § 18), Newsletter (DDG § 5 + HGB), Social-Profil (DDG § 5).
 2. **V. i. S. d. P. festlegen** für journalistisch-redaktionelle Inhalte; eine natuerliche Person mit ladungsfaehiger Anschrift.
 3. **Pflichtangaben sammeln.**
  - Firma und Anschrift (kein Postfach).
@@ -144,7 +144,7 @@ Abmelden: [Direktlink]
 Datenschutz: [Link]
 ```
 
-**Impressum-Pruefcheckliste**
+**Impressum-Prüfcheckliste**
 
 ```
 [ ] Firma und Rechtsform vollstaendig; Anschrift mit Strasse (kein Postfach)
@@ -171,7 +171,7 @@ Datenschutz: [Link]
 - DDG § 5 - Allgemeine Informationspflichten Telemedien.
 - MStV § 18 - V. i. S. d. P. für journalistisch-redaktionelle Telemedien.
 - Landespressegesetze (jeweiliges Bundesland) - Print-Impressum.
-- HGB §§ 37a, 80 - Pflichtangaben auf Geschaeftsbriefen.
+- HGB §§ 37a, 80 - Pflichtangaben auf Geschäftsbriefen.
 - UStG § 27a - USt-ID-Angabe.
 - DSGVO Art. 13, 14 - Datenschutzhinweise (separat zum Impressum).
 - BGH-Rechtsprechung zu Impressumsanforderungen in sozialen Medien (Volltexte unter bundesgerichtshof.de).

@@ -1,6 +1,6 @@
 ---
 name: dba-rentner-pensionen-art-18
-description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder auslaendische Rente bei Wohnsitz Deutschland. Wohnsitzstaat vs Kassenstaat Sozialversicherung. Subject-to-Tax. Outp..."
+description: "Rentenbesteuerung nach Art. 18 OECD-MA und Sonderregelungen einzelner DBA. Anwendungsfall Rentner mit Wohnsitz im Ausland (Spanien Portugal Italien Tuerkei Schweiz Oesterreich) oder ausländische Rente bei Wohnsitz Deutschland. Wohnsitzstaat vs Kassenstaat Sozialversicherung. Subject-to-Tax. Outp..."
 ---
 
 # Rentner und Pensionen (Art. 18 OECD-MA)
@@ -20,12 +20,12 @@ Art. 18 OECD-MA gibt grundsätzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 ## Kaltstart-Rueckfragen
 
 1. Wohnsitz des Rentners?
-2. Rentenart: gesetzliche Rente (DRV), Beamtenpension, betriebliche Pension, private Pension, Rurup, Riester, auslaendische Pension?
+2. Rentenart: gesetzliche Rente (DRV), Beamtenpension, betriebliche Pension, private Pension, Rurup, Riester, ausländische Pension?
 3. Auszahlungsstaat?
 4. Höhe Rente?
 5. DBA mit Wohnsitzstaat?
 6. Bei Wohnsitz im Ausland: Subject-to-Tax-Klausel § 50d Abs. 9 EStG?
-7. Bei auslaendischer Pension Wohnsitz Deutschland: § 22 Nr. 1 EStG — steuerpflichtiger Anteil?
+7. Bei ausländischer Pension Wohnsitz Deutschland: § 22 Nr. 1 EStG — steuerpflichtiger Anteil?
 8. Anlage R-AUS oder Anlage AUS bereits erstellt?
 
 ## Rechtlicher Rahmen
@@ -94,12 +94,12 @@ Art. 18 OECD-MA gibt grundsätzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 
 ### Phase 4 — Steuerliche Behandlung in Deutschland
 1. Bei deutscher DRV-Rente an Wohnsitz Ausland: § 49 Abs. 1 Nr. 7 EStG — beschraenkte Steuerpflicht.
-2. Bei auslaendischer Pension an deutschen Wohnsitz: § 22 Nr. 1 EStG.
+2. Bei ausländischer Pension an deutschen Wohnsitz: § 22 Nr. 1 EStG.
 
 ### Phase 5 — Erklaerungswerk
-1. Anlage R-AUS (auslaendische Rente).
+1. Anlage R-AUS (ausländische Rente).
 2. Anlage AUS bei Anrechnung.
-3. Anrechnung auslaendischer Steuer § 34c EStG.
+3. Anrechnung ausländischer Steuer § 34c EStG.
 
 ## Strategie und Praxis-Tipps
 
@@ -138,7 +138,7 @@ Art. 18 OECD-MA gibt grundsätzlich dem **Wohnsitzstaat** das Besteuerungsrecht 
 - **Schwellenregelung Niederlande oder Tuerkei uebersehen** — Pension oberhalb Schwelle nicht im richtigen Quellenstaat erklaert.
 - **Nachgelagerte Besteuerung nicht berechnet**: Versorgungsanteil pro Jahr (vom Anwender mit aktueller Tabelle Alterseinkuenftegesetz zu verifizieren), Rentenfreibetrag.
 - **§ 49 Abs. 1 Nr. 7 EStG fehlt** in der Erklaerung — beschraenkte Steuerpflicht falsch.
-- **Anlage R-AUS und Anlage AUS verwechselt** — R-AUS für auslaendische Rente bei DE-Wohnsitz; AUS für Anrechnung auslaendischer Steuer.
+- **Anlage R-AUS und Anlage AUS verwechselt** — R-AUS für ausländische Rente bei DE-Wohnsitz; AUS für Anrechnung ausländischer Steuer.
 - **Sozialversicherungsrente vs. Beamtenpension nicht abgegrenzt** — unterschiedliche DBA-Behandlung.
 
 ## Konkretes Berechnungsbeispiel: Rentner mit Wohnsitz Spanien, DRV-Rente

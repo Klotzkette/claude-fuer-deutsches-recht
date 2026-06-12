@@ -1,6 +1,6 @@
 ---
 name: rentenauskunft-und-versicherungsverlauf-pruefen
-description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersre..."
+description: "Rentenauskunft und Versicherungsverlauf prüfen: Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersre..."
 ---
 
 # Rentenauskunft und Versicherungsverlauf prüfen
@@ -14,7 +14,7 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rentenauskunft und Versicherungsverlauf prüfen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
+**Fokus:** Rentenauskunft und Versicherungsverlauf prüfen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Prüfraster.
 
 ### Rentenauskunft Und Versicherungsverlauf Prüfen
 
@@ -37,12 +37,12 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wi
 - Online im DRV-Portal.
 - Schriftlich bei der DRV.
 
-## Pruefraster
+## Prüfraster
 
 ### 1. Vollstaendigkeit
 - Schule (Hochschule Ausbildung).
 - Wehr-/Zivildienst.
-- Beschaeftigungszeiten.
+- Beschäftigungszeiten.
 - Kindererziehung.
 - Pflegezeiten.
 - Arbeitslosigkeit.
@@ -69,7 +69,7 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen: Skill erklaert wi
 - Vor Rentenantrag Konto klären — Beitraege zaehlen!
 - Bei Witwenrente Verlauf des Verstorbenen prüfen.
 
-## Pruefraster
+## Prüfraster
 
 1. Aktuelle Rentenauskunft?
 2. Vollstaendigkeitscheck?

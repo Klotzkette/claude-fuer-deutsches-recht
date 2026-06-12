@@ -27,7 +27,7 @@ description: "Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill be
 - Reichsbeamtenhaftungsgesetz 1910 — eigene Haftung des Staates für Beamtenfehlverhalten.
 - Heute Art. 34 GG iVm § 839 BGB Amtshaftung.
 
-## Pruefraster
+## Prüfraster
 
 1. Eingriff rechtmaessig oder rechtswidrig?
 2. Aufopferung oder Amtshaftung?

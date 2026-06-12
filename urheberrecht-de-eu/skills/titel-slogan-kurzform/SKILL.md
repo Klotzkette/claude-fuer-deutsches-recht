@@ -1,6 +1,6 @@
 ---
 name: titel-slogan-kurzform
-description: "Prueft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut im Urheberrecht De Eu."
+description: "Prüft kurze Formulierungen zwischen Urheberrecht, Werktitelrecht, Marke, UWG und Gemeingut im Urheberrecht De Eu."
 ---
 
 # Titel, Slogan und Kurzform

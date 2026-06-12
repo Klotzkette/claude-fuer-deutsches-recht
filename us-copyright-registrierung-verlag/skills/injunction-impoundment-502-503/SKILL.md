@@ -1,6 +1,6 @@
 ---
 name: injunction-impoundment-502-503
-description: "Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen im Us Copyright Registrierung Verlag."
+description: "Prüft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen im Us Copyright Registrierung Verlag."
 ---
 
 # Injunction und Impoundment

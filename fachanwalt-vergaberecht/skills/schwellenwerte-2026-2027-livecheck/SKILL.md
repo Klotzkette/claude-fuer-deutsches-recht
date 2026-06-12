@@ -1,6 +1,6 @@
 ---
 name: schwellenwerte-2026-2027-livecheck
-description: "EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk: EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor,..."
+description: "EU-Schwellenwerte 2026/2027 sicher prüfen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk: EU-Schwellenwerte 2026/2027 sicher prüfen: Auftragsart, Auftraggebertyp, Sektor,..."
 ---
 
 # EU-Schwellenwerte 2026/2027 sicher prüfen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk.
@@ -54,7 +54,7 @@ Schwellenwerttabelle, Rechenweg, Los-/Zusammenrechnungspruefung, Rechtswegempfeh
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

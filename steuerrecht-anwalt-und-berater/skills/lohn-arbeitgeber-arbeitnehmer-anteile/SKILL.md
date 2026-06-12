@@ -100,7 +100,7 @@ Die SV-Beitraege werden grundsätzlich paritaetisch zwischen AG und AN aufgeteil
 
 - PV-Kinderlosenzuschlag und Sachsen-PV sind haeufige Fehlerquellen — sorgfaeltig konfigurieren.
 - KV-Zusatzbeitrag KK-individuell — bei KK-Wechsel des AN sofort anpassen.
-- BG-Mitgliedschaft regelmaessig aktualisieren (Gefahrtarif-Aenderungen).
+- BG-Mitgliedschaft regelmaessig aktualisieren (Gefahrtarif-Änderungen).
 - StBVV: Standardkonfiguration in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS automatische Beitragssatz-Aktualisierung zum Jahresbeginn.
 

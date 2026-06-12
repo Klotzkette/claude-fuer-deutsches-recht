@@ -14,7 +14,7 @@ description: "Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster.
+**Fokus:** Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Prüfraster.
 
 ### Bautraeger Elektronische Notarverkuendung 2023
 
@@ -38,7 +38,7 @@ description: "Elektronische notarielle Verkuendung beim Bautraegervertrag: Skill
 - Manche Belehrungen verlieren an Gewicht ohne persönlichen Kontakt.
 - Identifikation kann erschwert sein.
 
-## Pruefraster
+## Prüfraster
 
 1. Persoenliche oder elektronische Beurkundung?
 2. Welche Notarvorschriften?

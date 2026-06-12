@@ -1,6 +1,6 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance im Ki Vo Ai Act Pruefer."
+description: "KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance im Ki Vo Ai Act Prüfer."
 ---
 
 # Strafverfolgung: KI und Beweisbewertung

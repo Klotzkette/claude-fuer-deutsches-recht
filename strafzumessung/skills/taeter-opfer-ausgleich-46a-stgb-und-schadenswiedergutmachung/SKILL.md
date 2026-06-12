@@ -34,7 +34,7 @@ Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderu
 
 - **§ 46a StGB** — Voraussetzungen und Rechtsfolge (Milderung oder Absehen).
 - **§ 49 Abs. 1 StGB** — technische Anwendung der Milderung.
-- **§ 155a StPO** — Pruefungspflicht der Staatsanwaltschaft, ob TOA in Betracht kommt.
+- **§ 155a StPO** — Prüfungspflicht der Staatsanwaltschaft, ob TOA in Betracht kommt.
 - **§ 155b StPO** — Datenuebermittlung an Vermittlungsstellen.
 - **§ 153a StPO** — Einstellung gegen Auflage; oft mit TOA verbunden.
 
@@ -78,7 +78,7 @@ Erforderlich sind also:
 ## Bei Schadenswiedergutmachung (Nr. 2)
 
 - **Erheblicher Aufwand**: nicht jede pflichtgemaesse Zahlung reicht; es muss Verzicht / Anstrengung erkennbar sein.
-- Beleg für Höhe, Form und persönlicher Aufwand. Mietminderung, Vermoegensverkauf, Kredit für Wiedergutmachung.
+- Beleg für Höhe, Form und persönlicher Aufwand. Mietminderung, Vermögensverkauf, Kredit für Wiedergutmachung.
 - Zahlung an Versicherung reicht oft **nicht**, weil diese sich an den Taeter wendet (Verzicht-Rueckforderung); st. Rspr.; Aktenzeichen verifizieren.
 
 ## Sondersituationen
@@ -87,14 +87,14 @@ Erforderlich sind also:
 
 BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht generell ausgeschlossen, aber die Prüfung ist streng. Der kommunikative Prozess muss real stattgefunden haben und das Opfer darf nicht (re-)traumatisiert werden. Vorgehen mit Vermittler **zwingend**.
 
-### TOA bei Vermoegensdelikten
+### TOA bei Vermögensdelikten
 
 - Schadenswiedergutmachung im Vordergrund.
 - Kommunikatives Element: Anerkennung des Schadens, Entschuldigung.
 
 ### TOA bei juristischen Personen als Opfer
 
-- Statt kommunikativem Prozess steht die Wiedergutmachung mit Ansprechen des Vorstands / der Geschaeftsfuehrung im Mittelpunkt.
+- Statt kommunikativem Prozess steht die Wiedergutmachung mit Ansprechen des Vorstands / der Geschäftsführung im Mittelpunkt.
 
 ## Typische Fehler
 

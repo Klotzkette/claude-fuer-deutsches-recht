@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Sachverhalt, Kontext, Entschuldigung, Distanzierung, arbeits-/parteirechtliche Schritte und Fairness.
+Prüft Sachverhalt, Kontext, Entschuldigung, Distanzierung, arbeits-/parteirechtliche Schritte und Fairness.
 
 ## Rechts- und Praxislogik
 

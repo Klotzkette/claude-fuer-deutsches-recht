@@ -1,6 +1,6 @@
 ---
 name: franchise-warenbezugsbindung-vbe
-description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die kartellrechtliche Pruefung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindun..."
+description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die kartellrechtliche Prüfung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindun..."
 ---
 
 # Franchise: Warenbezugsbindung und VBE-Verordnung
@@ -14,7 +14,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Prüfung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Pruefraster.
+**Fokus:** Franchise: Warenbezugsbindung und VBE-Verordnung. Skill klaert die kartellrechtliche Prüfung von Warenbezugspflichten im Franchise Vertikal-Block-Exemption-VO (EU) 2022/720 Marktanteilsschwelle Quotenbindung sowie 'Single Branding'. Liefert Prüfraster.
 
 ### Franchise Warenbezugsbindung Vbe
 
@@ -23,7 +23,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 - Vertikal-Block-Exemption-Verordnung (EU) 2022/720 (in Kraft 01.06.2022).
 - Vertikal-Leitlinien 2022/C 248/01.
 
-## Pruefraster VBE
+## Prüfraster VBE
 
 ### Marktanteilsschwelle
 - Sowohl Anbieter als auch Abnehmer max. 30 Prozent Marktanteil.
@@ -48,7 +48,7 @@ description: "Franchise: Warenbezugsbindung und VBE-Verordnung: Skill klaert die
 ### Information Exchange
 - Austausch sensibler Daten zwischen Franchisegeber und Franchisenehmer kartellrechtlich kritisch.
 
-## Pruefraster
+## Prüfraster
 
 1. Marktanteilsschwelle?
 2. Wettbewerbsverbot 5 Jahre?

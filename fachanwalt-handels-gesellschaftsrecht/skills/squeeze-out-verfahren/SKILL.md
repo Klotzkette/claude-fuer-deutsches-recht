@@ -66,7 +66,7 @@ description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen
 ### Schritt 2 — Vorbereitung HV
 
 - Prüfer bestellt durch LG
-- Pruefbericht mit Bewertung
+- Prüfbericht mit Bewertung
 - Prüfer prüft Angemessenheit der Abfindung
 
 ### Schritt 3 — Hauptversammlung

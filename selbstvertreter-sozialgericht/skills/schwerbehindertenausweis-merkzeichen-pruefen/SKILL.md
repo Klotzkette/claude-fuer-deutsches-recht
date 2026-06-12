@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenausweis-merkzeichen-pruefen
-description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster."
+description: "Schwerbehindertenausweis und Merkzeichen prüfen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Prüfraster."
 ---
 
 # Schwerbehindertenausweis Merkzeichen Prüfen
@@ -51,7 +51,7 @@ description: "Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert d
 ### TBl — taubblind
 - Beide schwere Sinnesbehinderung.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Merkzeichen vorhanden?
 2. Welche zusaetzlichen Vorteile aktivieren?

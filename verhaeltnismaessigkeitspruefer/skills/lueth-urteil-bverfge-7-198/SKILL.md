@@ -33,9 +33,9 @@ Paragraf 138 BGB, Paragraf 242 BGB in das Privatrecht aus.
 Bei Konflikt zwischen Grundrecht und privatem Schutzgut ist **abzuwaegen**;
 Verhältnismäßigkeit als Methodik dringt ins Privatrecht ein.
 
-## Bedeutung für den Verhaeltnismaessigkeitspruefer
+## Bedeutung für den Verhältnismäßigkeitspruefer
 
-Lueth oeffnete die Verhaeltnismaessigkeitspruefung für das Zivilrecht.
+Lueth oeffnete die Verhältnismäßigkeitspruefung für das Zivilrecht.
 Heute ist die Abwaegung in nahezu jedem persoenlichkeitsrechtlichen
 Konflikt das zentrale Werkzeug, etwa bei:
 - Bildberichterstattung gegen Persoenlichkeitsrecht.

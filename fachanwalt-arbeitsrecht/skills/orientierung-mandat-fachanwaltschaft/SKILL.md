@@ -83,7 +83,7 @@ description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrech
 - **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang § 613a BGB und Insolvenz.
 
-## Aktuelle Rechtsprechung - Ueberblick wichtiger Leitentscheidungen (Stand Mai 2026)
+## Aktuelle Rechtsprechung - Überblick wichtiger Leitentscheidungen (Stand Mai 2026)
 
 Folgende Leitentscheidungen sind im aktuellen Plugin-Stand mit offener Quelle (dejure.org / bundesarbeitsgericht.de) belegt:
 

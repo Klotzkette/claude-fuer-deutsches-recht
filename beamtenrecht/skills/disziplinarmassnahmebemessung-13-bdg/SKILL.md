@@ -1,6 +1,6 @@
 ---
 name: disziplinarmassnahmebemessung-13-bdg
-description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Pruef die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertra..."
+description: "Skill zur Bemessung der Disziplinarmassnahme nach § 13 BDG und den Landesdisziplinargesetzen. Klaert die Stufen Verweis Geldbusse Kuerzung der Dienstbezuege Zuruecksstufung Entfernung aus dem Beamtenverhaeltnis. Prüf die Bemessungskriterien Schwere des Dienstvergehens Persoenlichkeitsbild Vertra..."
 ---
 
 # Disziplinarmassnahmebemessung § 13 BDG
@@ -21,14 +21,14 @@ Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Maßna
 
 - Wesentliche Ergebnisse der Ermittlungen
 - Strafurteil (falls einschlaegig)
-- Persoenliche Verhaeltnisse des Beamten (Familie, Krankheit, lange Dienstzeit)
+- Persoenliche Verhältnisse des Beamten (Familie, Krankheit, lange Dienstzeit)
 - Vorstrafen im Dienst
 - Persoenlichkeitsbild und Beurteilungen
 
 ## 3. Ablauf / Checkliste
 
 ### a) Stufenfolge der Disziplinarmassnahmen
-- § 5 BDG bzw. landesrechtliche Aequivalente: Verweis, Geldbusse, Kuerzung der Dienstbezuege, Zuruecksstufung, Entfernung aus dem Beamtenverhaeltnis. Bei Ruhestandsbeamten: Kuerzung des Ruhegehalts und Aberkennung des Ruhegehalts.
+- § 5 BDG bzw. landesrechtliche Äquivalente: Verweis, Geldbusse, Kuerzung der Dienstbezuege, Zuruecksstufung, Entfernung aus dem Beamtenverhaeltnis. Bei Ruhestandsbeamten: Kuerzung des Ruhegehalts und Aberkennung des Ruhegehalts.
 
 ### b) Bemessungsgrundsatz § 13 BDG
 - Schwere des Dienstvergehens als Ausgangspunkt.
@@ -42,7 +42,7 @@ Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Maßna
 - Milderung: lange Dienstzeit, Persoenlichkeitsschwaeche, eingeschraenkte Schuldfaehigkeit, Reue, freiwillige Schadenswiedergutmachung.
 - Verschaerfung: Vorbelastung, Vorbildfunktion, langfristige Vorbereitung, Wiederholungstaten.
 
-### e) Verhaeltnis zum Strafurteil
+### e) Verhältnis zum Strafurteil
 - Bindungswirkung des Strafurteils nach § 23 BDG — siehe Schwester-Skill `bindungswirkung-strafurteil-23-bdg`.
 
 ### f) Entfernung aus dem Beamtenverhaeltnis
@@ -50,8 +50,8 @@ Skill für die Verteidigung im Disziplinarverfahren bei der Frage, welche Maßna
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 5, 13, 23 BDG; landesrechtliche Aequivalente.
-- Rspr.: BVerwG zur Massnahmebemessung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Normen: §§ 5, 13, 23 BDG; landesrechtliche Äquivalente.
+- Rspr.: BVerwG zur Maßnahmebemessung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat

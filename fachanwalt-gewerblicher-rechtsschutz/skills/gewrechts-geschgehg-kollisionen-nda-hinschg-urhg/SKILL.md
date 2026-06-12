@@ -121,7 +121,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG prüfen | Vier-Stufen-Test und Kollisionsfelder unten |
 | Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
 | Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz prüfen |
-| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
+| Variante C — Softwarecode als Geschäftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -294,7 +294,7 @@ je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
 
 Bevor die Schutzstrategie entwickelt wird, klaere:
 1. Liegen "angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
-2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
+2. Ist die verletzte Information wirklich ein Geschäftsgeheimnis oder bereits bekannte Branchen-Praxis?
 3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
 4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
 

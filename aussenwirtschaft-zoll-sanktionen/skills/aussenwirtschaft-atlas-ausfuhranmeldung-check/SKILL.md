@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-ausfuhranmeldung-check
-description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Pruefung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATL..."
+description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Prüfung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATL..."
 ---
 
 # ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur
@@ -36,7 +36,7 @@ description: "Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen
 - **§ 11a ZollVG**: Auskunftspflichten bei ATLAS-Fehler.
 - **AWV § 77**: Statistikmeldepflicht (Intrastat) bei EU-internem Verbringen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle Pflichtfelder laut DA-Anhang B ausgefuellt?
 - [ ] KN-Code und Beschreibung konsistent?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

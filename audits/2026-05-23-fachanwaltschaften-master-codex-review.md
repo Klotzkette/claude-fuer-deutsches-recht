@@ -15,7 +15,7 @@ Schriftsatzentwurf.
 alle Fachanwaltschaften** mit der Bitte, **direkt im selben PR** konkrete
 Verbesserungen einzucommitten.
 
-## Pruefungsgegenstand
+## Prüfungsgegenstand
 
 Alle Verzeichnisse `fachanwalt-*` (24 Plugins). Eine vollstaendige
 Plugin- und Skill-Inventur findet sich in
@@ -48,7 +48,7 @@ Plugins (alphabetisch):
 23. fachanwalt-versicherungsrecht
 24. fachanwalt-verwaltungsrecht
 
-## Pruefdimensionen
+## Prüfdimensionen
 
 Bitte je Skill und je Plugin prüfen und **direkt Verbesserungen
 committen**, wo sinnvoll:
@@ -57,7 +57,7 @@ committen**, wo sinnvoll:
 
 - **Paragrafen-Verweise:** Sind die zitierten Normen aktuell, korrekt
   bezeichnet und beziehen sich auf die richtige Fassung? Beispiele:
-  - § 313 BGB statt § 242 BGB bei Stoerung der Geschaeftsgrundlage
+  - § 313 BGB statt § 242 BGB bei Stoerung der Geschäftsgrundlage
   - § 1626a BGB bei gemeinsamer Sorge unverheirateter Eltern
   - § 17 InsO Zahlungsunfaehigkeit vs § 19 InsO Ueberschuldung
   - Art. 6 / Art. 9 DSGVO statt § DSGVO (kein Paragraf!)
@@ -65,7 +65,7 @@ committen**, wo sinnvoll:
   prüfen. Gibt es neuere Leitentscheidungen, die zitiert werden
   sollten?
 - **Aktuelle Gesetzeslage:** Wurde z.B. das Hinweisgeberschutzgesetz,
-  MoPeG, KStG-Reformen, PflPostG, neue ZPO-Aenderungen,
+  MoPeG, KStG-Reformen, PflPostG, neue ZPO-Änderungen,
   Mietrechtsanpassungen, Cannabis-Gesetz beruecksichtigt, wo relevant?
 - **Fristen:** Sind die genannten Fristen korrekt (z.B. § 626 II BGB
   zwei Wochen, § 4 KSchG drei Wochen, § 45 WEG Beschlussanfechtungsfrist (ein Monat Klage, zwei Monate Begruendung), § 558b BGB)?
@@ -77,7 +77,7 @@ committen**, wo sinnvoll:
 - **Mandantengespraech-Checklisten:** Welche Fakten muss die Anwaeltin
   als erstes erfragen? Sind die Checklisten vollstaendig genug, um nach
   dem Erstgespraech tatsaechlich weiterarbeiten zu können?
-- **Anspruchsgrundlagen-Pruefschemata:** Sind die Pruefungsreihenfolgen
+- **Anspruchsgrundlagen-Prüfschemata:** Sind die Prüfungsreihenfolgen
   korrekt und vollstaendig? Beispiel Arbeitsrecht:
   Kuendigungsschutzklage muss § 4 KSchG-Frist, § 1 KSchG-Anwendbarkeit
   (Schwellenwerte, Wartezeit), Kuendigungsgruende, Sozialauswahl,
@@ -134,7 +134,7 @@ committen**, wo sinnvoll:
    Dimensionen.
 2. **Committe direkt** in diesen Branch konkrete Verbesserungen:
    - Korrekturen falscher Paragrafen-Verweise
-   - Erweiterungen von Pruefschemata
+   - Erweiterungen von Prüfschemata
    - Neue Skills, wo offensichtlich Luecken bestehen
    - Format-Fixes (Komma-Zahlen, DSGVO-Art)
 3. **Halte den Author-Standard ein:**
@@ -158,7 +158,7 @@ committen**, wo sinnvoll:
 - **P1 — juristisch falsch:** Verweis auf nicht existente Norm,
   falsches Fristenmaass, falsche Zustaendigkeit, falsches BGH-AZ,
   falsche Anspruchsgrundlage. **MUSS gefixt werden.**
-- **P2 — handwerklicher Mangel:** Unvollstaendiges Pruefschema,
+- **P2 — handwerklicher Mangel:** Unvollstaendiges Prüfschema,
   fehlender Standard-Anspruch, ungenauer Textbaustein. **SOLL gefixt
   werden.**
 - **P3 — Stil/Format:** Formulierung, Schreibweise, Komma-Zahlen,

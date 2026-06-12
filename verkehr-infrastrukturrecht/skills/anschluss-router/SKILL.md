@@ -183,7 +183,7 @@ Zielgruppe sind Verwaltungsjuristen, Kommunalrechtler, Anwaelte von Verkehrstrag
 
 - Planfeststellungsbeschluesse werden bestandskraeftig, wenn keine rechtzeitige Klage erhoben wird; Klagefrist beachten (§ 74 Abs. 1 VwVfG i.V.m. VwGO).
 - Einwendungsausschluss (§ 73 Abs. 4 VwVfG): Wer im Anhörungsverfahren keine Einwendungen erhebt, verliert Klagebefugnis für diese Punkte.
-- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behörden; spaetere Aenderungen am Vorhaben können Foerderausschluss ausloesen.
+- GVFG-Foerderantraege erfordern fruehzeitige Abstimmung mit Behörden; spaetere Änderungen am Vorhaben können Foerderausschluss ausloesen.
 - Vergaberechtliche Anforderungen gelten ab definierten Schwellenwerten (EU-Schwellenwerte nach VgV); Unterschwellenverfahren unterliegen den Landesvergabeordnungen.
 - Verkehrswende-Maßnahmen (Sperrungen, Geschwindigkeitsbeschraenkungen) müssen auf § 45 StVO gestuetzt sein; fehlerhafte Begruendung macht Anordnung angreifbar.
 

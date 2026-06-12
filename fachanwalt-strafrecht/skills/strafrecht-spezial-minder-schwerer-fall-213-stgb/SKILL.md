@@ -101,5 +101,5 @@ In der Praxis ist § 213 StGB der wichtigste Strafmilderungsschluessel im Toetun
 - § 212 StGB; § 11 Abs. 1 Nr. 1 StGB Angehoerige.
 - § 49 StGB Strafmilderung; § 56 StGB Strafaussetzung zur Bewaehrung.
 - BGH staendige Rspr. zur Affekttat und zur Eigenschuld an der Provokation.
-- BGH staendige Rspr. zum Verhaeltnis § 213 StGB / § 21 StGB (Doppelverwertungsverbot).
+- BGH staendige Rspr. zum Verhältnis § 213 StGB / § 21 StGB (Doppelverwertungsverbot).
 - Verifizierung in amtliche Quellen und BGH-Datenbank live empfohlen.

@@ -16,7 +16,7 @@ description: "Simulation und Verifikation der Rulemap: Faelle generieren; Pfadab
 
 Validierung über drei Achsen: Vollstaendigkeit (jeder Pfad erreichbar); Konsistenz (keine widerspruechlichen Pfade); Korrektheit (juristisch korrekte Ergebnisse). Im Builder werden Faelle simuliert und Entscheidungen automatisch verifiziert.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: ist jeder Pfad mindestens einmal gepruefte? Sind systematisch Grenz- und Ausnahmefaelle erfasst? Sind die juristischen Soll-Antworten autorisiert (durch Fachreferat oder externe Begutachtung)?
 

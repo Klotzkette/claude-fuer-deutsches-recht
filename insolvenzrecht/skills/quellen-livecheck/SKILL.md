@@ -15,15 +15,15 @@ Dieser Quellen-Livecheck für **Insolvenzrecht** trennt amtliche Normfassung, fr
 - `einstieg-schnelltriage-fallrouting` — Anschluss
 - `antragspflicht-15a-17-19` — Antragspflicht 15A 17 19
 - `antragspflicht-15a-inso` — Antragspflicht 15A Inso
-- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Auslaendischer Insolvenzverwalter Register und Grundbuch
-- `auslaendischer-office-holder-register-und-grundbuch` — Auslaendischer Office Holder Register und Grundbuch
+- `auslaendischer-insolvenzverwalter-register-und-grundbuch` — Ausländischer Insolvenzverwalter Register und Grundbuch
+- `auslaendischer-office-holder-register-und-grundbuch` — Ausländischer Office Holder Register und Grundbuch
 - `belegmatrix-formular-portal-und-einreichung` — Belegmatrix Formular Portal und Einreichung
 - `chronologie-internationaler-bezug-und-schnittstellen` — Chronologie Internationaler Bezug und Schnittstellen
 - `do-versicherung-manager-haftung` — DO Versicherung Manager Haftung
 - `einfuehrung-verhandlung-vergleich-und-eskalation` — Einfuehrung Verhandlung Vergleich und Eskalation
-- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Glaeubigerantrag Inso
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Glaeubiger 174 177 Inso
-- `glaeubigerantrag-glaeubigerausschuss` — Glaeubigerantrag Glaeubigerausschuss
+- `feststellung-sonderfall-glaeubigerantrag-inso` — Feststellung Sonderfall Gläubigerantrag Inso
+- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung Gläubiger 174 177 Inso
+- `glaeubigerantrag-glaeubigerausschuss` — Gläubigerantrag Gläubigerausschuss
 - `dokumente-intake` — Dokumente Intake
 - `einstieg-routing` — Einstieg Routing
 

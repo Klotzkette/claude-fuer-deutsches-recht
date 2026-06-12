@@ -96,7 +96,7 @@ Wer fahrlaessig die Gefahr verursacht, wird mit Freiheitsstrafe bis zu drei Jahr
 ## Quellen Stand 06/2026
 
 - Paragraph 315d StGB im Wortlaut (gesetze-im-internet.de; dejure.org).
-- Reform Sechsundfuenfzigstes Gesetz zur Aenderung des Strafgesetzbuches vom 30. September 2017.
+- Reform Sechsundfuenfzigstes Gesetz zur Änderung des Strafgesetzbuches vom 30. September 2017.
 - Paragraph 315f StGB Einziehung des Fahrzeugs.
 - Paragraph 69 StGB Entziehung Fahrerlaubnis; Paragraph 69a StGB Sperre.
 - Paragraph 29 StVO als Vorgaengerregelung im OWi-Recht.

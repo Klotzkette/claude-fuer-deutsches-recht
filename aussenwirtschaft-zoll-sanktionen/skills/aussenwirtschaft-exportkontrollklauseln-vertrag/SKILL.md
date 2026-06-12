@@ -36,7 +36,7 @@ description: "Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, 
 - **§ 280 BGB**: Schadensersatz bei Verletzung vertraglicher Exportkontrollpflichten.
 - **§ 119 BGB**: Anfechtung bei Irrtum über Genehmigungspflicht.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] No-Russia-Clause nach Art. 12g VO 833/2014 erforderlich und enthalten?
 - [ ] Endverwendungsklausel mit konkreten Verboten formuliert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

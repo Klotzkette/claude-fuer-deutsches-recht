@@ -3,7 +3,7 @@ name: datenschutz-beschaeftigteneinwilligung
 description: "Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, Alternative, Widerruf, Machtgefälle und Dokumentation. Geführter HR-mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt im Startup-HR Berlin."
 ---
 
-# Datenschutz Beschaeftigteneinwilligung
+# Datenschutz Beschäftigteneinwilligung
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Berliner Start-up-HR: Beschäftigteneinwilligung: Freiwilligkeit, 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Datenschutz Beschaeftigteneinwilligung
+## Fachkern: Datenschutz Beschäftigteneinwilligung
 - **Normen-/Quellenanker:** BGB, KSchG, TzBfG, NachwG, BetrVG, AGG, MuSchG/BEEG, SGB IX, ArbZG, MiLoG, DSGVO/BDSG und Lohn-/DATEV-Schnittstellen.
 - **Entscheidende Weiche:** Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt.
 

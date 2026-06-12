@@ -36,7 +36,7 @@ description: "Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das
 - Schwurgericht abgeschafft 1924.
 - Schoeffengericht heute.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welches Verfahrensprinzip?

@@ -1,6 +1,6 @@
 ---
 name: adressatenwuerde-und-rechtssteuerung
-description: "Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden."
+description: "Prüft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden."
 ---
 
 # Adressatenwürde und Rechtssteuerung

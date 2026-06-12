@@ -24,21 +24,21 @@ description: "Dokumentation der DSFA als Beleg der Rechenschaftspflicht nach Art
 - Bei Aufsichtsanfrage zur Vorlage der DSFA
 - Bei Audit durch DSB oder externen Prüfer
 - Bei Wechsel des DSB oder des Verantwortlichen — Aktenuebergabe
-- Bei wesentlicher Aenderung (Versionierung)
+- Bei wesentlicher Änderung (Versionierung)
 
 ## Rechtlicher Rahmen
 
 - Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — der Verantwortliche muss die Einhaltung der Grundsaetze nachweisen können.
 - Art. 24 DSGVO: Verantwortung des für die Verarbeitung Verantwortlichen.
 - Art. 30 DSGVO: Verzeichnis von Verarbeitungstaetigkeiten — DSFA-Verweis.
-- Art. 35 Abs. 11 DSGVO: Re-Pruefungspflicht.
+- Art. 35 Abs. 11 DSGVO: Re-Prüfungspflicht.
 - Art. 58 Abs. 1 lit. a DSGVO: Auskunftsbefugnis der Aufsicht.
 - § 257 HGB, § 147 AO für Aufbewahrungsfristen kaufmaennischer und steuerlicher Unterlagen — DSFA ist nicht kaufmaennisches Dokument, aber an die Verarbeitungstaetigkeit gekoppelt.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welcher Verarbeitungsvorgang? Eindeutige Akten-Identifikation (z. B. VV-Nummer, DSFA-Aktenzeichen).
-2. **Verhaeltnismaessigkeitspruefung.** Prüfung welche Dokumente in die DSFA-Akte gehoeren — Vollstaendigkeit ohne Ueberfrachtung.
+2. **Verhältnismäßigkeitspruefung.** Prüfung welche Dokumente in die DSFA-Akte gehoeren — Vollstaendigkeit ohne Ueberfrachtung.
 3. **Risikoanalyse.** Beweiswertrisiken prüfen — fehlende Unterschriften, fehlende Versionen, fehlende Datierungen, unklare Verantwortlichkeiten.
 4. **Maßnahmen.** Strukturierte Aktenfuehrung in standardisierter Form (digital signiert, mit Datum und Versionierung).
 5. **Restrisiko.** Beweiswertbeurteilung — wie sicher ist die DSFA bei Aufsichtsverfahren? Ergaenzungen oder Bekraeftigungen.
@@ -84,13 +84,13 @@ Zugriffskonzept
 - DSFA muss waehrend der gesamten Dauer der Verarbeitungstaetigkeit aufbewahrt werden.
 - Nach Ende der Verarbeitung mindestens für den Zeitraum etwaiger Anspruchsverjaehrungen (Art. 82 DSGVO; immaterieller Schaden) — Empfehlung: 5 Jahre nach Ende der Verarbeitung; bei öffentlichen Stellen oft 10 Jahre.
 - Alte Versionen nicht loeschen, sondern archivieren.
-- Bei Anbieterwechsel: Uebergabe der Akte einschliesslich aller Versionen.
+- Bei Anbieterwechsel: Übergabe der Akte einschliesslich aller Versionen.
 - Bei steuerlich relevanten Verarbeitungen ggf. § 147 AO 10 Jahre.
 
 ## Beweiswertkriterien
 
 - Datierung und Unterschrift jedes Dokuments
-- Versionierung und Aenderungshistorie
+- Versionierung und Änderungshistorie
 - Klare Autorenschaft (Wer hat dokumentiert, wer hat beschlossen?)
 - DSB-Anhörung dokumentiert mit Datum
 - Quellenverzeichnis (Aufsichtshinweise, Leitlinien, Rechtsprechung)

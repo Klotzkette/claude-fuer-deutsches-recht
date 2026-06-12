@@ -43,7 +43,7 @@ Fehler in der Luftdichtheitsebene sind nach Beplankung kaum noch korrigierbar un
 - DIN 68800-2 Holzschutz: Vorbeugende bauliche Maßnahmen, Schutzklassen GK 0 bis GK 3
 - GEG 2023 Gebaeude-Energie-Gesetz: Neubaustandard, KfW-Foerderprogramme und Nachweispflichten
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Holzfeuchte Einbau: Messung Greisinger GMH 800, Grenzwert 15 Prozent für Ausbauzustand, Messprotokoll
 2. Verbindungsmittel: Schrauben A4 Edelstahl oder Feuerverzinkung ue40 my für Aussenbereich

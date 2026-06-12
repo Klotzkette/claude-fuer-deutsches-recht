@@ -109,7 +109,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `common-law-begriffe-uebersetzung` | Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten.… |
+| `common-law-begriffe-uebersetzung` | Deutscher Anwalt übersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten.… |
 | `common-law-bilingual-contract-review` | Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse… |
 | `common-law-client-explainer` | Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit… |
 | `common-law-contract-formation-consideration` | Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster… |
@@ -145,7 +145,7 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 ## Fachbegriffe (kurz erklaert)
 
 - **Consideration** — Im Common Law Grundvoraussetzung für einen bindenden Vertrag; beide Seiten müssen etwas versprechen oder leisten.
-- **Deed** — Formvertrag im Common Law; erfordert Schriftform, Unterzeichnung und Uebergabe (delivery); benoetigt keine Consideration.
+- **Deed** — Formvertrag im Common Law; erfordert Schriftform, Unterzeichnung und Übergabe (delivery); benoetigt keine Consideration.
 - **Indemnity** — Erstattungsversprechen; eigenstaendige Zahlungspflicht unabhaengig davon, ob der Hauptschuldner zahlt; nahezu § 311 BGB-fremd.
 - **Guarantee** — Buergschaftsaehnlich akzessorisch; der Garant haftet nur wenn der Hauptschuldner nicht leistet.
 - **Warranty** — Garantieversprechen im Vertrag; Verletzung loest Schadensersatz aus, aber keine Anfechtung des Vertrags.
@@ -179,7 +179,7 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 **Sprachhilfen und False Friends**
 
 - `common-law-false-friends-scanner` — Scan eines Vertragstexts oder Memos auf missverstaendliche deutsch-englische Rechtsbegriffe.
-- `common-law-begriffe-uebersetzung` — Funktionale (nicht woertliche) Uebersetzung von Rechts- und Vertragsbegriffen ins Englische.
+- `common-law-begriffe-uebersetzung` — Funktionale (nicht woertliche) Übersetzung von Rechts- und Vertragsbegriffen ins Englische.
 - `common-law-us-vs-uk-drafting` — Unterscheidung British English/English Law und US-Drafting-Konventionen.
 
 **Vertragsrecht und Klauseln**
@@ -217,7 +217,7 @@ Das Plugin ersetzt keine anwaltliche Zulassung im UK oder US-Recht, gibt aber st
 
 ## Typische Fehler
 
-- Deutsche Anwaelte uebersetzen Begriffe woertlich und erzeugen False-Friend-Risiken (z.B. guarantee statt indemnity).
+- Deutsche Anwaelte übersetzen Begriffe woertlich und erzeugen False-Friend-Risiken (z.B. guarantee statt indemnity).
 - Drafting-Stil wird nicht jurisdiktionsspezifisch angepasst; UK und US haben unterschiedliche Konventionen.
 - Consideration-Element fehlt in selbst entworfenen Vertraegen; Vertrag wird im Streitfall als unverbindlich behandelt.
 - Governing Law und Jurisdiction werden im gleichen Satz vermengt; das sind zwei separate Klauseln.

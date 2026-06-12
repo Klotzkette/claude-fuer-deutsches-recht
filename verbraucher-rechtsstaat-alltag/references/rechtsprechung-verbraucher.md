@@ -1,6 +1,6 @@
 # Rechtsprechungsanker für Verbraucherfaelle
 
-Diese Liste ist kein Ersatz für Live-Recherche. Sie dient als Startset für frei pruefbare Entscheidungen, die in Verbraucher-Alltagsfaellen haeufig tragen. Vor produktiver Ausgabe immer Gericht, Datum, Aktenzeichen, Normfassung und Uebertragbarkeit auf den konkreten Sachverhalt prüfen.
+Diese Liste ist kein Ersatz für Live-Recherche. Sie dient als Startset für frei prüfbare Entscheidungen, die in Verbraucher-Alltagsfaellen haeufig tragen. Vor produktiver Ausgabe immer Gericht, Datum, Aktenzeichen, Normfassung und Uebertragbarkeit auf den konkreten Sachverhalt prüfen.
 
 ## Online-Bestellung und Button-Loesung
 

@@ -27,14 +27,14 @@ Sie sprechen kein gutes Deutsch. Oder Sie sind gehoerlos. Sie haben Recht auf ei
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Dolmetscher**: Person, die uebersetzt.
+- **Dolmetscher**: Person, die übersetzt.
 - **Gebaerdensprache**: Sprache für Gehoerlose.
 - **§ 185 GVG**: Recht auf Sprachmittler.
 
 ## Rechtsgrundlagen
 
 - **§ 185 GVG** — Sprachmittlung.
-- **§ 191a GVG** — Schriftliche Uebersetzung von Urteilen.
+- **§ 191a GVG** — Schriftliche Übersetzung von Urteilen.
 - **§ 110 SGG i.V.m. GVG** — Anwendbarkeit beim SG.
 
 ## Schritt-für-Schritt-Anleitung
@@ -67,8 +67,8 @@ Mit freundlichen Gruessen
 ### Schritt 3 — Im Termin
 
 - Dolmetscher sitzt neben Ihnen oder am Tisch.
-- Uebersetzt alles für Sie.
-- Sie sprechen in Ihrer Muttersprache, Dolmetscher uebersetzt für das Gericht.
+- Übersetzt alles für Sie.
+- Sie sprechen in Ihrer Muttersprache, Dolmetscher übersetzt für das Gericht.
 
 ### Schritt 4 — Kosten
 
@@ -76,7 +76,7 @@ Sie zahlen nichts. Staatskasse uebernimmt.
 
 ### Schritt 5 — Bei schriftlichen Unterlagen
 
-Schriftliche Uebersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das für Schwerhoerige / Gehoerlose vor.
+Schriftliche Übersetzung des Urteils oder anderer Schriftstuecke ist eingeschraenkter. Aber: § 191a GVG sieht das für Schwerhoerige / Gehoerlose vor.
 
 ### Schritt 6 — Selbst mitgebrachter Dolmetscher
 
@@ -101,7 +101,7 @@ Sagen Sie sofort: "Ich habe das nicht verstanden, bitte langsamer." Der Dolmetsc
 
 - Antrag zu spaet → kein Dolmetscher verfuegbar
 - Falsche Sprache angegeben (Dialekt) → Verstaendigungs-Probleme
-- "Bekannte kann uebersetzen" als Notloesung → bei wichtigen Punkten besser Profi
+- "Bekannte kann übersetzen" als Notloesung → bei wichtigen Punkten besser Profi
 
 ## Quellen und Aktualitaet
 

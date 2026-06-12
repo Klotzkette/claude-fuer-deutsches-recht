@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-ursprung
-description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollauß..."
+description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Prüfung Zollwert-Ursprung bei Zollauß..."
 ---
 
 # Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket
@@ -26,7 +26,7 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 3. Nachtraegliche Ursprungsnachweise: Erstattungsantrag stellen Fristen nach Art. 121 UZK.
 4. REX-System: Registrierter Exporteur prüfen; Erklaerungsinhalt auf Ursprungsvoraussetzungen.
 5. Kombinierten Nachweispaket für Zollaußenpruefung vorbereiten.
-6. Einheitliche Pruefmatrix erstellen: Zollwert Ursprung Praeferenz und Nachweis-Status.
+6. Einheitliche Prüfmatrix erstellen: Zollwert Ursprung Praeferenz und Nachweis-Status.
 
 ## Rechtsrahmen
 
@@ -36,14 +36,14 @@ description: "Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenz
 - **VO (EU) 1207/2001**: Ursprungsnachweisverfahren und REX.
 - **UZK-DA Art. 69-112**: Detailregeln für Ursprung und Nachweise.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle Ursprungsnachweise für relevante Einfuhren katalogisiert?
 - [ ] Zollwert und Ursprungszuordnung konsistent?
 - [ ] Nachtraegliche Ursprungsnachweise auf Erstattungspotenzial geprueft?
 - [ ] REX-Erklaerungen auf Ursprungsvoraussetzungen verifiziert?
 - [ ] Kombiniertes Nachweispaket für Prüfung bereit?
-- [ ] Pruefmatrix aktuell und vollstaendig?
+- [ ] Prüfmatrix aktuell und vollstaendig?
 
 ## Typische Fallstricke
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -36,7 +36,7 @@ Das Allgemeine Landrecht für die Preussischen Staaten (ALR) trat am 1. Juni 179
 
 ## Kernnormen / Kernquellen
 
-- **ALR I 1**: Recht und Rechtspflichten im Ueberblick
+- **ALR I 1**: Recht und Rechtspflichten im Überblick
 - **ALR I 5-6 (Vertragsrecht)**: Vertragsfreiheit mit sozialstaatlichen Einschraenkungen
 - **ALR I 8 (Eigentumsrecht)**: Eigentumsinhalt und Nutzungsrecht
 - **ALR II 1 (Eherecht)**: Ehe als buergerlicher Vertrag

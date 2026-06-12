@@ -28,11 +28,11 @@ Dieser Dokumenten-Intake für **Fachanwalt Insolvenz Sanierungsrecht** ordnet An
 - `absonderungsrecht-paragraf-50-inso` — Absonderungsrecht Paragraf 50 Inso
 - `anfechtung-vorsatz-paragraf-133-inso-bgh-ix-zr-65-16` — Anfechtung Vorsatz Paragraf 133 Inso BGH IX ZR 65 16
 - `eigenverwaltung-schutzschirm-paragraf-270b-inso` — Eigenverwaltung Schutzschirm Paragraf 270b Inso
-- `eroeffnung-behoerden-gericht-und-registerweg` — Eroeffnung Fachanwalt FAO Glaeubigerantrag
+- `eroeffnung-behoerden-gericht-und-registerweg` — Eroeffnung Fachanwalt FAO Gläubigerantrag
 - `fa-inso-sanierung-quellen-edge-case` — FA Inso Sanierung Quellen Edge Case
 - `fa-insolvenz-schuldschein-und-lma` — FA Schuldschein
-- `glaeubigerantrag` — Glaeubigerantrag Insolvenzanfechtung
-- `insolvenz-glaeubigerverhandlung-sanierung` — Glaeubigerverhandlung Sanierung IDW S6 Krypto
+- `glaeubigerantrag` — Gläubigerantrag Insolvenzanfechtung
+- `insolvenz-glaeubigerverhandlung-sanierung` — Gläubigerverhandlung Sanierung IDW S6 Krypto
 - `insanw-eigenverwaltung-schutzschirm-spezial` — Insanw Eigenverwaltung Konzerninsolvenz
 - `einstieg-schnelltriage-fallrouting` — Insanw Fortbestehensprognose
 - `insolvenz-tatbestand-beweis-und-belege` — Insolvenz Insolvenzanfechtung Insolvenzrecht

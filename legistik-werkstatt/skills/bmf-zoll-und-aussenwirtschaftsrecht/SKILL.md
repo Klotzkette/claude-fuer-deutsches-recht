@@ -1,11 +1,11 @@
 ---
 name: bmf-zoll-und-aussenwirtschaftsrecht
-description: "Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschaeftsbereich BMF: Normbestand (AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.); Akteure (Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.); EU-Bezug (Unionszollkodex; Dual-Use-VO; Sanktionsvero..."
+description: "Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschäftsbereich BMF: Normbestand (AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.); Akteure (Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.); EU-Bezug (Unionszollkodex; Dual-Use-VO; Sanktionsvero..."
 ---
 
 # Zollrecht und Aussenwirtschaftsrecht (BMF)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Zollrecht und Aussenwirtschaftsrecht im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Zollrecht und Aussenwirtschaftsrecht im Geschäftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschaeftsbere
 
 Kernbestand des Sachfelds: AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Listenmanagement; Endverbleibspruefung; Mehrfachzuständigkeiten; militaerische Gueter; Wechselbezug zu Ausfuhrkontrolle BMWE.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

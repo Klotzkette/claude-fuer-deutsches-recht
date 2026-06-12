@@ -29,7 +29,7 @@ Die Rechtsquellenhierarchie ist historisch kein unveraendertes System. Im gemein
 
 1. Galt das roemische Recht als ratio scripta oder nur als subsidiares Recht?
 2. Gewohnheitsrecht: Hat es noch Rang neben kodifiziertem Recht?
-3. Verhaeltnis EU-Recht / GG: Wer bestimmt den Vorrang?
+3. Verhältnis EU-Recht / GG: Wer bestimmt den Vorrang?
 4. Satzungsrecht von Koerperschaften: Wo in der Hierarchie?
 5. Richterrecht als Rechtsquelle: Deutschland vs. Common Law
 

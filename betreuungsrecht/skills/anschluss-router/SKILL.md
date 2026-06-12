@@ -142,7 +142,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Betreuungsrecht regelt die rechtliche Fuersorge für Erwachsene, die ihre Angelegenheiten ganz oder teilweise nicht selbst besorgen können. Seit der Reform zum 01.01.2023 gilt das Betreuungsorganisationsgesetz (BtOG) neben den materiellen Normen der §§ 1814 ff. BGB. Das Reformgesetz staerkt das Selbstbestimmungsrecht der betreuten Person, praezisiert die Pflichten des Betreuers und regelt erstmals umfassend die Registrierung und Vergütung beruflicher Betreuer.
+Das Betreuungsrecht regelt die rechtliche Fürsorge für Erwachsene, die ihre Angelegenheiten ganz oder teilweise nicht selbst besorgen können. Seit der Reform zum 01.01.2023 gilt das Betreuungsorganisationsgesetz (BtOG) neben den materiellen Normen der §§ 1814 ff. BGB. Das Reformgesetz staerkt das Selbstbestimmungsrecht der betreuten Person, praezisiert die Pflichten des Betreuers und regelt erstmals umfassend die Registrierung und Vergütung beruflicher Betreuer.
 
 Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, Vereins- und Behördenbetreuer sowie deren Rechtsbeistände bei der täglich anfallenden Schutz-, Organisations-, Dokumentations-, Berichts- und Genehmigungsarbeit gegenüber betreuter Person, Betreuungsgericht, Behörden, Banken, Heimen, Ärzten und Pflegekassen.
 
@@ -162,7 +162,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - **Aufgabenkreis** — der konkret durch das Gericht festgelegte Wirkungsbereich des Betreuers (z.B. Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung).
 - **Berufsbetreuer** — registrierter Betreuer nach §§ 23 ff. BtOG, der Betreuungen entgeltlich fuehrt und bestimmte Sachkundeanforderungen erfuellt.
 - **Genehmigungsvorbehalt** — Rechtsgeschaefte, die der Betreuer nur mit vorheriger Zustimmung des Betreuungsgerichts vornehmen darf (§§ 1848 ff. BGB).
-- **Vermögensverzeichnis** — Aufstellung aller Vermoegensgegenstaende und Verbindlichkeiten der betreuten Person bei Amtsuebernahme (§ 1835 BGB).
+- **Vermögensverzeichnis** — Aufstellung aller Vermögensgegenstaende und Verbindlichkeiten der betreuten Person bei Amtsuebernahme (§ 1835 BGB).
 - **Jahresbericht** — jährliche Berichtspflicht des Betreuers gegenüber dem Betreuungsgericht (§ 1863 Abs. 3 BGB).
 - **Betreuungsverein** — anerkannte Stelle, die ehrenamtliche Betreuer einführt, fortbildet, berät und unterstützen kann (§ 15 BtOG).
 - **VBVG** — Vergütung beruflicher Betreuer nach dem Vormünder- und Betreuervergütungsgesetz.
@@ -176,7 +176,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - § 1863 BGB — Anfangsbericht, Jahresbericht und Schlussbericht
 - §§ 15, 21, 22 BtOG — Unterstützung, Eignung und Anbindung ehrenamtlicher Betreuer
 - §§ 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschaefte
-- § 30 BtOG — Verbot des Erwerbs von Vermoegensvorteilen
+- § 30 BtOG — Verbot des Erwerbs von Vermögensvorteilen
 - §§ 23 ff. BtOG — Registrierung als Berufsbetreuer
 - VBVG — Vergütung beruflicher Betreuer
 
@@ -186,7 +186,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 2. Phase des Mandats bestimmen: Ersteinrichtung (Registrierung, Vermögensverzeichnis), laufende Betreuung (Jahresbericht, Genehmigungen) oder Krisenfall (Missbrauchsverdacht, Erbschaftsfragen)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
 4. Eilfristen prüfen: Genehmigungsantraege nach §§ 1848 ff. BGB sind vor der Maßnahme einzuholen; Jahresbericht hat gerichtliche Einreichungsfristen.
-5. Anschluss-Skill bestimmen: Nach Jahresbericht ggf. Vermoegensverzechnis-Prüfung; nach Missbrauchsverdacht ggf. Genehmigungspflicht-Prüfung.
+5. Anschluss-Skill bestimmen: Nach Jahresbericht ggf. Vermögensverzechnis-Prüfung; nach Missbrauchsverdacht ggf. Genehmigungspflicht-Prüfung.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -198,7 +198,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - `wunschermittlung-unterstuetzte-entscheidung` — dokumentiert Wünsche, Präferenzen und unterstützte Entscheidungen nach § 1821 BGB.
 - `betreuungsrecht-kaltstart-interview` — Ersteinrichtung des Plugins: Praxisprofil mit Betreuerrolle, Gericht und Aufgabenkreisen anlegen.
 - `betreuer-registrierung` — Erklaert Registrierungsweg, Sachkundeanforderungen und Berufshaftpflicht für Berufsbetreuer nach BtOG.
-- `genehmigungspflicht-pruefung` — Prueft, ob ein konkretes Rechtsgeschaeft der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB).
+- `genehmigungspflicht-pruefung` — Prüft, ob ein konkretes Rechtsgeschaeft der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB).
 - `jahresbericht-betreuungsgericht` — Erstellt den vollständigen Jahresbericht nach § 1863 BGB für das Betreuungsgericht.
 - `vermoegensverzeichnis-pruefung` — Erstellt und prüft das Vermögensverzeichnis nach § 1835 BGB bei Amtsuebernahme oder Kontrollpruefung.
 - `kontodaten-vertragsverdacht-pruefung` — Forensische Prüfung von Kontobewegungen und Vertraegen auf Missbrauch zum Nachteil der betreuten Person.
@@ -210,7 +210,7 @@ Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, 
 - **Subsidiaritaet**: Ein Berufsbetreuer darf nur bestellt werden, wenn geeignete ehrenamtliche oder Angehoerigenbetreuer nicht zur Verfuegung stehen (§ 1816 Abs. 5 BGB).
 - **Unterstützung vor Vertretung**: Erst die betreute Person zur eigenen Entscheidung befähigen; Vertretungsmacht nur nutzen, soweit erforderlich (§ 1821 Abs. 1 BGB).
 - **Trennung von Betreuervermoegen und eigenem Vermögen**: Einnahmen und Ausgaben der betreuten Person sind lückenlos zu dokumentieren; Vermischung mit eigenem Vermögen ist ein Haftungsrisiko (§ 1836 BGB).
-- **§ 30 BtOG-Verbot**: Berufsbetreuer dürfen sich von der betreuten Person keine Vermoegensvorteile versprechen oder gewähren lassen; Verstoss ist berufsrechtlich relevant.
+- **§ 30 BtOG-Verbot**: Berufsbetreuer dürfen sich von der betreuten Person keine Vermögensvorteile versprechen oder gewähren lassen; Verstoss ist berufsrechtlich relevant.
 
 ## Typische Fehler
 

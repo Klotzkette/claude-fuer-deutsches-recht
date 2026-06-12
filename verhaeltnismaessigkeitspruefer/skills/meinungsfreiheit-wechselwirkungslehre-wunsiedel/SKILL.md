@@ -1,6 +1,6 @@
 ---
 name: meinungsfreiheit-wechselwirkungslehre-wunsiedel
-description: "Art. 5 GG verhaeltnismaessig pruefen: Wechselwirkungslehre, allgemeine Gesetze, Sonderrecht, Wunsiedel-Ausnahme, Meinungskampf, Strafrecht und schonende Auslegung grundrechtsbeschraenkender Normen."
+description: "Art. 5 GG verhältnismäßig prüfen: Wechselwirkungslehre, allgemeine Gesetze, Sonderrecht, Wunsiedel-Ausnahme, Meinungskampf, Strafrecht und schonende Auslegung grundrechtsbeschraenkender Normen."
 ---
 
 # Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel
@@ -20,7 +20,7 @@ description: "Art. 5 GG verhaeltnismaessig pruefen: Wechselwirkungslehre, allgem
 - BVerfG, Urteil vom 15.01.1958, 1 BvR 400/51, BVerfGE 7, 198 (Lueth): allgemeine Gesetze sind im Lichte der Meinungsfreiheit auszulegen; Wechselwirkungslehre.
 - BVerfG, Beschluss vom 04.11.2009, 1 BvR 2150/08, BVerfGE 124, 300 (Wunsiedel): § 130 Abs. 4 StGB als eng begruendeter Sonderfall nicht allgemeiner Gesetze; keine Freikarte für beliebiges Sonderrecht gegen missliebige Meinung.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Wunsiedel, 04.11.2009, 1 BvR 2150/08: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rs20091104_1bvr215008.html`
 - Lueth in der amtlichen BVerfGE-Übersicht: `https://www.bundesverfassungsgericht.de/DE/Entscheidungen/EntscheidungenAusDerAmtlichenSammlung/_functions/akkordeon_band1-9.html`

@@ -14,7 +14,7 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Glaeubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur.
+**Fokus:** Schuldnerberatungsstelle: Strukturierung des Belegchaos. Skill liefert die Methodik wie Schuldnerberater die ungeordneten Belege Mahnungen Vollstreckungsbescheide Inkassobriefe und Bankauszuege des Schuldners in eine geordnete Gläubiger- und Forderungsliste ueberfuehren. Liefert Checkliste und Vorlagenstruktur.
 
 ### Verbraucherinsolvenz Belegchaos Strukturieren
 
@@ -27,7 +27,7 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 
 - Schuldner bringt Plastiktueten / Schuhkartons mit ungeordneten Unterlagen.
 - Belege oft jahrealt, teils nicht mehr lesbar.
-- Glaeubiger zum Teil unbekannt oder Mehrfacheintraege durch Inkasso-Kette.
+- Gläubiger zum Teil unbekannt oder Mehrfacheintraege durch Inkasso-Kette.
 
 ## Workflow
 
@@ -39,8 +39,8 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 - Einkommen (Gehaltsabrechnungen, Sozialleistungen).
 - Sonstiges (Schriftverkehr, Notizen).
 
-### Schritt 2: Glaeubigerliste anlegen
-- Pro Glaeubiger eine Zeile.
+### Schritt 2: Gläubigerliste anlegen
+- Pro Gläubiger eine Zeile.
 - Spalten: Name, Adresse, Hauptforderung, Zinsen, Kosten, Aktenzeichen, Datum letzter Vollstreckungsakt.
 - Inkasso-Ketten zusammenfuehren (Originalglaeubiger -> Inkasso 1 -> Inkasso 2).
 
@@ -48,7 +48,7 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 - Schufa-Selbstauskunft (kostenfrei).
 - Schuldnerverzeichnis bei Vollstreckungsgerichten.
 - Bankkonten-Abfrage.
-- Anfrage an bekannte Glaeubiger nach aktuellem Forderungsstand.
+- Anfrage an bekannte Gläubiger nach aktuellem Forderungsstand.
 
 ### Schritt 4: Forderungen prüfen
 - Verjährung (§§ 195, 199 BGB; vollstreckbare Titel 30 Jahre § 197 BGB).
@@ -62,22 +62,22 @@ description: "Schuldnerberatungsstelle: Strukturierung des Belegchaos: Skill lie
 
 ## Werkzeuge
 
-- Excel-Tabelle "Glaeubigerliste".
-- Excel-Tabelle "Vermoegensaufstellung".
+- Excel-Tabelle "Gläubigerliste".
+- Excel-Tabelle "Vermögensaufstellung".
 - Excel-Tabelle "Einkommensberechnung".
-- Standardformbriefe an Glaeubiger.
+- Standardformbriefe an Gläubiger.
 - Verschluesselte Datenablage.
 
 ## Aktenfuehrung
 
 - Eigene Mandatsakte mit Originalen / Kopien.
-- Versionierung der Vermoegens- und Schuldenliste.
+- Versionierung der Vermögens- und Schuldenliste.
 - Datenschutz: DSGVO Art. 30 Verzeichnis von Verarbeitungstaetigkeiten.
 
-## Pruefraster
+## Prüfraster
 
 1. Belege vollstaendig?
-2. Glaeubigerliste sauber?
+2. Gläubigerliste sauber?
 3. Verjährungspruefung erfolgt?
-4. Vermoegensaufstellung erstellt?
+4. Vermögensaufstellung erstellt?
 5. Einkommensberechnung erstellt?

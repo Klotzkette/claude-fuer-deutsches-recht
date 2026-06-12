@@ -44,7 +44,7 @@ Ordnungswidrig handelt, wer **vorsätzlich oder leichtfertig** für die Vermietu
 
 Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots** an vergleichbaren Räumen die üblichen Entgelte um **mehr als 20 Prozent** übersteigen. Maßstab sind die Entgelte in der Gemeinde oder vergleichbaren Gemeinden für Räume vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und Lage, die in den letzten sechs Jahren vereinbart oder, von Betriebskostenerhöhungen abgesehen, geändert wurden.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Übliche Entgelte / Vergleichsmiete.** Praktisch über § 558 BGB, amtlichen Mietspiegel, Sachverständigengutachten oder Vergleichsmieten zu ermitteln; § 5 WiStrG 1954 hat aber eine eigene Sechs-Jahres-Formulierung.
 - **Geringes Angebot.** Angespannter Wohnungsmarkt mit konkreter Mangellage. Indiz: behördliche Feststellung eines angespannten Wohnungsmarktes nach § 556d BGB (Mietpreisbremse), aber nicht identisch.

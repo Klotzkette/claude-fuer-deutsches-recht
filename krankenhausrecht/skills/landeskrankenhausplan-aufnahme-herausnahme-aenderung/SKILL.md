@@ -1,9 +1,9 @@
 ---
 name: landeskrankenhausplan-aufnahme-herausnahme-aenderung
-description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht."
+description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Änderung des Plankrankenhausstatus, Beteiligungs- und Anhörungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen im Krankenhausrecht."
 ---
 
-# Landeskrankenhausplan Aufnahme Herausnahme Aenderung
+# Landeskrankenhausplan Aufnahme Herausnahme Änderung
 
 ## Arbeitsweg
 
@@ -13,13 +13,13 @@ description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Pl
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Landeskrankenhausplan Aufnahme Herausnahme Aenderung
+## Fachkern: Landeskrankenhausplan Aufnahme Herausnahme Änderung
 - **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
 - **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Aenderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulässig.
+Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Änderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulässig.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welcher Verfahrensschritt steht an (Aufnahmeantrag, Herausnahme, Strukturaenderung)?
@@ -66,7 +66,7 @@ Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versor
 > Sehr geehrte Damen und Herren, in Ihrer Anhörung vom [Datum] beabsichtigen Sie die Herausnahme der Klinik aus dem Krankenhausplan. Wir nehmen wie folgt Stellung: 1. Versorgungsbedarf ist durch [Daten] belegt. 2. Strukturqualitaet erfuellt LG-Anforderungen. 3. Erreichbarkeitsanalyse Land zeigt … Wir beantragen, von der Herausnahme abzusehen.
 
 **Klage Verwaltungsgericht (Antrag):**
-> Klageantrag: Den Bescheid vom [Datum] aufzuheben und das beklagte Land zu verpflichten, die Klaegerin als Plankrankenhaus … fortzufuehren. Begruendung: 1. Sachverhaltsfeststellung fehlerhaft, 2. Ermessensfehler, 3. Verstoss gegen Verhältnismäßigkeit …
+> Klageantrag: Den Bescheid vom [Datum] aufzuheben und das beklagte Land zu verpflichten, die Klägerin als Plankrankenhaus … fortzufuehren. Begruendung: 1. Sachverhaltsfeststellung fehlerhaft, 2. Ermessensfehler, 3. Verstoss gegen Verhältnismäßigkeit …
 
 ## Typische Fehler
 - Anhörungsstellungnahme zu spaet oder unsubstanziell.

@@ -15,7 +15,7 @@ description: "Heranfuehrung Ressort BMLEH (Bundesministerium für Landwirtschaft
 - **Hausleitung Stand 2026:** Alois Rainer (CSU)
 - **Dienstsitz:** Rochusstr. 1; 53123 Bonn; Zweitsitz Wilhelmstr. 54; 10117 Berlin
 - **Schwerpunkt:** Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau.
-- **Kernnormen im Geschaeftsbereich:** GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG.
+- **Kernnormen im Geschäftsbereich:** GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG.
 
 ## Materie auf einer Seite
 
@@ -28,10 +28,10 @@ Vollzugspraxis greifen ineinander.
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMLEH)
-- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschäftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMLEH-Spiegel)
-- **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
+- **Verbaende** im Geschäftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
 ### Welche Normen muss man lesen können
@@ -60,12 +60,12 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmleh-forst-und-jagdrecht` - Forst- und Jagdrecht
 - `legw-bmleh-oekolandbau-und-pflanzenschutzrecht` - Oekolandbau und Pflanzenschutzrecht
 
-Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
+Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Prüfpfad und
 Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 
-1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
+1. **Geschäftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
  abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
  personell gedeckt; Erfuellungsaufwand falsch berechnet.

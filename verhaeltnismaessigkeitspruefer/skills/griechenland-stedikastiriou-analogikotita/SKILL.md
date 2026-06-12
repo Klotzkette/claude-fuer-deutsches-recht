@@ -1,6 +1,6 @@
 ---
 name: griechenland-stedikastiriou-analogikotita
-description: Griechische Verhaeltnismaessigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als Drei-Stufen-Test Katallilotita Anagkaiotita Stenh ennoia analogikotitas. Mit Symvoulio tis Epikrateias als Staatsrat und Areios Pagos als oberstem Zivil- und Strafgericht sowie Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die seit 2001 explizite Kodifizierung der Verhaeltnismaessigkeit in der Verfassung.
+description: Griechische Verhältnismäßigkeitsdogmatik nach Art 25 I 4 Verfassung 1975 idF 2001 mit der archi tis analogikotitas als Drei-Stufen-Test Katallilotita Anagkaiotita Stenh ennoia analogikotitas. Mit Symvoulio tis Epikrateias als Staatsrat und Areios Pagos als oberstem Zivil- und Strafgericht sowie Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die seit 2001 explizite Kodifizierung der Verhältnismäßigkeit in der Verfassung.
 ---
 
 # Griechenland Archi tis Analogikotitas
@@ -9,14 +9,14 @@ description: Griechische Verhaeltnismaessigkeitsdogmatik nach Art 25 I 4 Verfass
 
 Die Syntagma tis Ellados von 1975 (Verfassung) wurde 2001 reformiert.
 Seither enthaelt Art 25 I 4 Syntagma eine **ausdrueckliche
-Verhaeltnismaessigkeitsklausel**:
+Verhältnismäßigkeitsklausel**:
 
 > Hoi tetoiou eidous periorismoi tha prepei na problepontai eite
 > apefthelias apo to Syntagma eite apo ton nomo eite, ef oson hyparchei
 > epifylaxi yper autou, kai apo ton nomo na sebontai ten archi tes
 > analogikotetas.
 
-Damit hat der Verfassungsgeber das Verhaeltnismaessigkeitsprinzip
+Damit hat der Verfassungsgeber das Verhältnismäßigkeitsprinzip
 (**archi tis analogikotitas**) ausdruecklich verankert. Vor 2001 hatte
 es die Rechtsprechung des Symvoulio tis Epikrateias und des Areios
 Pagos aus dem Rechtsstaatsprinzip und der EMRK gewonnen.
@@ -33,7 +33,7 @@ drei Stufen:
    Mittel.
 3. **Stenh ennoia analogikotitas** (Verhältnismäßigkeit im engeren
    Sinn): die Nachteile für den Betroffenen sind nicht ausser
-   Verhaeltnis zum Zweck.
+   Verhältnis zum Zweck.
 
 Leading cases:
 
@@ -50,7 +50,7 @@ Das **AED** (Art 100 Syntagma) ist Sondergericht für Verfassungs- und
 Verfassungsmaessigkeitsfragen. Der **Areios Pagos** (oberstes Zivil- und
 Strafgericht) prüft die Verhältnismäßigkeit über EMRK und EU-Charta.
 Der StE (Staatsrat) ist faktisch die zentrale Instanz für
-Verfassungs-Verhaeltnismaessigkeitsfragen.
+Verfassungs-Verhältnismäßigkeitsfragen.
 
 ## Wesensgehalt
 
@@ -80,7 +80,7 @@ Bei griechischen Bezuegen:
   zitieren.
 - Bei Sparmassnahmen StE Olomeleia 668/2012 und 2192/2014 als
   methodische Standardzitate.
-- EMRK und EU-Charta als zusaetzlichen Massstab nutzen.
+- EMRK und EU-Charta als zusaetzlichen Maßstab nutzen.
 
 ## Live-Recherche-Disclaimer
 

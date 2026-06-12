@@ -1,6 +1,6 @@
 ---
 name: leistungsstoerungen-unmoeglichkeit-verzug
-description: "Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhaeltnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Pruefraster: prüft konkret die einschlägigen Tatbestand..."
+description: "Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhältnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Prüfraster: prüft konkret die einschlägigen Tatbestand..."
 ---
 
 # Pralr Leistungsstoerungen Unmoeglichkeit Verzug
@@ -37,7 +37,7 @@ description: "Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill be
 - §§ 280-281 BGB Pflichtverletzung.
 - §§ 286-288 BGB Verzug.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Stoerungstyp?
 2. Verschulden?

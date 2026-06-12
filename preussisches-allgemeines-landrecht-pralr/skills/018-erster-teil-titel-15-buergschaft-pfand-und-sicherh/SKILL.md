@@ -31,9 +31,9 @@ description: "PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten: pr
 
 ## Subsumtionsbeispiel: Ehefrau buergt 1850
 
-Ehefrau buergt für Geschaeftsschuld des Mannes.
+Ehefrau buergt für Geschäftsschuld des Mannes.
 - **ALR**: SC Velleianum-Linie (frueh); Frauenintercessio mit Schutz.
-- **BGB**: § 765 BGB; bei kraesser Vermoegensueberforderung Sittenwidrigkeit § 138 BGB (BGH XI ZR 56/93).
+- **BGB**: § 765 BGB; bei kraesser Vermögensueberforderung Sittenwidrigkeit § 138 BGB (BGH XI ZR 56/93).
 
 ## Heutige Fortwirkung
 
@@ -41,7 +41,7 @@ Ehefrau buergt für Geschaeftsschuld des Mannes.
 - §§ 1113-1190 BGB Hypothek.
 - §§ 1204-1259 BGB Pfandrecht.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Sicherheit?
 2. Akzessorisch?

@@ -1,6 +1,6 @@
 ---
 name: architectural-works-120
-description: "Prueft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen im Us Copyright Registrierung Verlag."
+description: "Prüft architectural works, building plans, photos, alterations, useful article limits und deutsche Architekturbüro-Schnittstellen im Us Copyright Registrierung Verlag."
 ---
 
 # Architectural Works § 120

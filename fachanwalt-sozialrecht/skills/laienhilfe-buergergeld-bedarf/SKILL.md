@@ -35,8 +35,8 @@ Dieser Skill erklaert **Buergergeld Bedarf** so, dass auch Menschen ohne juristi
 - Buergergeld: § 19 SGB II ff. – Regelbedarf nach § 20 SGB II (Regelbedarfsstufen); Mehrbedarf § 21 SGB II; Unterkunft und Heizung § 22 SGB II (angemessene Kosten der Unterkunft).
 - Anspruchsvoraussetzungen: § 7 SGB II – Erwerbsfaehigkeit, Hilfebeduerftigkeit, Aufenthalt in Deutschland, Vollendung 15. Lebensjahr.
 - Vorlaeufige Bewilligung: § 41a SGB II – wenn Anspruch besteht, aber Höhe noch nicht abschliessend feststeht (z.B. schwankendes Einkommen Selbststaendige).
-- Einkommen / Vermögen: §§ 11, 11a, 11b SGB II (Einkommen); § 12 SGB II Vermoegens­freibetrag (im Schonvermoegen).
-- Sanktionen / Leistungsminderung: § 31a SGB II – nach BVerfG-Entscheidung 2019 max. 30 Prozent; mit Aenderungen 2022/23 weiter eingeschraenkt.
+- Einkommen / Vermögen: §§ 11, 11a, 11b SGB II (Einkommen); § 12 SGB II Vermögens­freibetrag (im Schonvermoegen).
+- Sanktionen / Leistungsminderung: § 31a SGB II – nach BVerfG-Entscheidung 2019 max. 30 Prozent; mit Änderungen 2022/23 weiter eingeschraenkt.
 - Bildung und Teilhabe: § 28 SGB II für Kinder.
 - Praxis-Tipp: Bei abgelehntem Buergergeld sofort Widerspruch (§ 84 SGG ein Monat) + Antrag auf vorläufige Leistungen § 41a SGB II / Eilantrag § 86b Abs. 2 SGG. Bei Sanktion immer Anhörung und Wichtigen Grund nachweisen (Krankheit, Kinderbetreuung, etc.). KdU-Bescheid kritisch lesen – Angemessenheits­konzept der Kommune einsehen lassen.
 

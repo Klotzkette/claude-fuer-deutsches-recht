@@ -32,7 +32,7 @@ Fax war jahrzehntelang der Standard für kurzfristige Einreichungen im Justizall
 ### Schritt 1 — Fax-Nummer des Gerichts ermitteln
 
 - Website des Amtsgerichts (justiz.de).
-- Telefonisch erfragen über Geschaeftsstelle.
+- Telefonisch erfragen über Geschäftsstelle.
 - Bei Eilbeduerftigkeit unbedingt telefonisch bestaetigen, ob Fax aktiv und betriebsbereit.
 
 ### Schritt 2 — Schriftsatz vorbereiten
@@ -56,7 +56,7 @@ Aufbewahren! Im Fristen-Streit ist er Ihr Beweis.
 
 ### Schritt 5 — Empfangsbestaetigung anfordern
 
-Wenn Frist droht und Sie unsicher sind: am naechsten Werktag bei der Geschaeftsstelle anrufen und Empfang bestaetigen lassen.
+Wenn Frist droht und Sie unsicher sind: am naechsten Werktag bei der Geschäftsstelle anrufen und Empfang bestaetigen lassen.
 
 ### Schritt 6 — Fax ist eingegangen, wenn ...
 

@@ -106,7 +106,7 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 ### Phase 4 — Sondereffekte
 
 - Anlagenverkauf: Differenz Buchwert/Verkaufserloes als Sonderposten; Buchgewinn aus laufendem Cashflow herausrechnen.
-- Sondertilgung: in Finanzierungstaetigkeit, nicht in laufender Geschaeftstaetigkeit.
+- Sondertilgung: in Finanzierungstaetigkeit, nicht in laufender Geschäftstaetigkeit.
 - Kapitalerhoehung: in Finanzierungstaetigkeit, nicht Ergebnis.
 - Ausschuettungen: in Finanzierungstaetigkeit, kein Aufwand.
 
@@ -116,10 +116,10 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 - Vergleich Vorjahr: aussergewoehnliche Veraenderungen kenntlich machen.
 - Zusammenwirken mit Bewegungsbilanz prüfen.
 
-### Phase 6 — Erlaeuterung und Versand
+### Phase 6 — Erläuterung und Versand
 
-- Erlaeuterung wesentlicher Posten in Anhang (insb. Investitionstaetigkeit).
-- Bei Bank-/Investor-Reporting Praesentationsformat (eine Seite plus Erlaeuterung).
+- Erläuterung wesentlicher Posten in Anhang (insb. Investitionstaetigkeit).
+- Bei Bank-/Investor-Reporting Praesentationsformat (eine Seite plus Erläuterung).
 - Sanierungskonzept IDW S 6: integriert mit Plan-Cashflow 24 Monate.
 
 ## Strategie und Praxis-Tipps
@@ -127,7 +127,7 @@ IV. VERAENDERUNG FINANZMITTELFONDS [X]
 - Bei Mittelstand: Kapitalflussrechnung auf Wunsch des Bank-Partners als Standard.
 - Konzernabschluss: Pflicht nach DRS 21 — nicht verhandelbar.
 - Bei IFRS-orientierten Konzernen: parallel IAS 7 darstellen.
-- Praxis-Tipp: Cashflow aus laufender Geschaeftstaetigkeit ist Indikator für organische Ertragskraft; deutlich unter Jahresueberschuss = Working-Capital-Problem.
+- Praxis-Tipp: Cashflow aus laufender Geschäftstaetigkeit ist Indikator für organische Ertragskraft; deutlich unter Jahresueberschuss = Working-Capital-Problem.
 - StBVV: Kapitalflussrechnung als separater Auftrag (Anhang Jahresabschluss).
 - DATEV-Tipp: DATEV Konzernabschluss/Jahresabschluss-Modul mit Kapitalflussrechnung; bei Einzelabschluss manuelle Erstellung.
 

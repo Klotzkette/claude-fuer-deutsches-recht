@@ -7,20 +7,20 @@ description: "Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und A
 
 ## Worum geht es?
 
-Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschaeftsraeume), können Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift für Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
+Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besonderer Situation geschlossen wurde (Haustuergeschaeft, ausserhalb der Geschäftsraeume), können Sie am **eigenen Wohnsitz** klagen — und nur dort verklagt werden. Das ist eine Schutzvorschrift für Verbraucher. Praktisch sehr nuetzlich, wenn der Verkaeufer weit weg sitzt.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben an der Haustuer einen Vertrag unterschrieben und Streit deswegen.
-- Sie haben einen Vertrag ausserhalb der Geschaeftsraeume (Strasse, Messe, Restaurant) geschlossen.
+- Sie haben einen Vertrag ausserhalb der Geschäftsraeume (Strasse, Messe, Restaurant) geschlossen.
 - Sie haben Fernabsatzvertrag (Online, Versandhandel) und wollen wissen, wo Sie klagen können.
 - Sie wurden vom Verkaeufer an dessen Sitz verklagt und wollen prüfen, ob § 29c ZPO greift.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Verbraucher**: Natuerliche Person, die zu privaten Zwecken handelt (§ 13 BGB).
-- **Unternehmer**: Wer mit gewerblicher oder selbstaendiger Taetigkeit handelt (§ 14 BGB).
-- **Haustuergeschaeft / ausserhalb Geschaeftsraeume**: Verträge, die nicht in den Geschaeftsraeumen des Unternehmers geschlossen wurden (§ 312b BGB).
+- **Unternehmer**: Wer mit gewerblicher oder selbständiger Taetigkeit handelt (§ 14 BGB).
+- **Haustuergeschaeft / ausserhalb Geschäftsraeume**: Verträge, die nicht in den Geschäftsraeumen des Unternehmers geschlossen wurden (§ 312b BGB).
 - **Fernabsatzvertrag**: Vertrag, der über Fernkommunikationsmittel geschlossen wurde — Telefon, Email, Online-Shop (§ 312c BGB).
 
 ## Rechtsgrundlagen
@@ -28,7 +28,7 @@ Wenn Sie Verbraucher sind (= privat, nicht gewerblich) und ein Vertrag in besond
 - **§ 29c ZPO** — Ausschliesslicher Verbrauchergerichtsstand am Wohnsitz des Verbrauchers für Verträge nach § 312b BGB und § 312c BGB.
 - **§ 13 BGB** — Verbraucher-Definition.
 - **§ 14 BGB** — Unternehmer-Definition.
-- **§ 312b BGB** — Verträge ausserhalb der Geschaeftsraeume.
+- **§ 312b BGB** — Verträge ausserhalb der Geschäftsraeume.
 - **§ 312c BGB** — Fernabsatzvertraege.
 - **Art. 18 Brüssel-Ia-VO** — Internationaler Verbrauchergerichtsstand (bei EU-Sachverhalten).
 
@@ -72,7 +72,7 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zuständigkeit wird geruegt
 ## Typische Fehler
 
 - "AGB sagen Berlin als Gerichtsstand, also muss ich nach Berlin." → Bei Verbraucher i. d. R. unwirksam.
-- "Ich klage am Sitz des Online-Shops, dort gibt es einen Geschaeftsfuehrer." → Nein, § 29c ZPO greift; Sie klagen am eigenen Wohnsitz.
+- "Ich klage am Sitz des Online-Shops, dort gibt es einen Geschäftsführer." → Nein, § 29c ZPO greift; Sie klagen am eigenen Wohnsitz.
 - "Ich bin Freiberufler, kann das aber privat geltend machen." → Sie müssen sich entscheiden — wenn Sie als Privatperson gekauft haben, ja.
 
 ## Quellen und Aktualitaet

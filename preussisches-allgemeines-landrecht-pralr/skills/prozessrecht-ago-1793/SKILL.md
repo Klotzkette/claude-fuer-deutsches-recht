@@ -28,7 +28,7 @@ description: "Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Ski
 - CPO 1877.
 - ZPO heutige Fassung.
 
-## Pruefraster
+## Prüfraster
 
 1. AGO oder spaetere ZPO?
 2. Welches Verfahrensprinzip?

@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Uebersetzung, leichte Sprache, Untertitel, Diskriminierungsrisiko, Wahlrechtsinfos und Impressum.
+Prüft Übersetzung, leichte Sprache, Untertitel, Diskriminierungsrisiko, Wahlrechtsinfos und Impressum.
 
 ## Rechts- und Praxislogik
 

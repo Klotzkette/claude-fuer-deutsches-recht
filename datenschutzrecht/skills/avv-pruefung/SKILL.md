@@ -80,7 +80,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — AVV eines KI-Anbieters für Kanzlei prüfen | Pruefschema Art. 28 DSGVO; Template unten |
+| Standard — AVV eines KI-Anbieters für Kanzlei prüfen | Prüfschema Art. 28 DSGVO; Template unten |
 | Variante A — AVV des Anbieters nicht verhandelbar | Risikoanalyse dokumentieren; Mandantenhinweis erwaegen |
 | Variante B — eigene AVV als Auftragsverarbeiter erstellen | Umgekehrte Perspektive; eigene Pflichten aus Art. 28 Abs. 3 DSGVO |
 | Variante C — mehrstufige Subunternehmer-Kette | Subunternehmer-Klausel gesondert prüfen; Haftungskette sichern |

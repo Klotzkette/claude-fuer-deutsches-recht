@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-ki-art-kompetenz-automatisierte
-description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung im Ki Vo Ai Act Pruefer."
+description: "Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk für Kanzlei und Rechtsabteilung im Ki Vo Ai Act Prüfer."
 ---
 
 # Anwaltliche KI-Nutzung und Quellencheck

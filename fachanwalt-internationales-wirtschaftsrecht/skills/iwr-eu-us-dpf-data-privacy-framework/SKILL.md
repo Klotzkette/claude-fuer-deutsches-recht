@@ -101,7 +101,7 @@ Bevor losgelegt wird, klaere:
 4. Bestehen Standardvertragsklauseln (SCC) als Fallback?
 5. Risikoabschaetzung DSGVO Art. 35 DSFA erforderlich?
 
-### Output-Template DPF-Pruefvermerk
+### Output-Template DPF-Prüfvermerk
 **Adressat:** Mandant (Datenschutzbeauftragter) — Tonfall: verstaendlich-erklärend
 
 ```

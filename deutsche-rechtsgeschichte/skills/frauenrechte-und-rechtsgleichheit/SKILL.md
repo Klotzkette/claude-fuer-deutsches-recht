@@ -19,7 +19,7 @@ Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im 
 
 ## Worum es geht
 
-Das BGB 1900 sicherte Frauen keine Gleichberechtigung: Maennliches Entscheidungsrecht in der Ehe (§ 1354 BGB a.F.), eingeschraenkte Geschaeftsfaehigkeit verheirateter Frauen, keine eigene Berufswahl (§ 1356 BGB a.F. erlaubte dem Mann, Arbeitsverhaeltnis der Frau zu kuendigen). Die WRV 1919 Art. 109 Abs. 2 postulierte formale Gleichheit. Das GG 1949 Art. 3 Abs. 2 verbot Geschlechterdiskriminierung. BVerfGE 3, 225 (1953) zwang den Gesetzgeber zur Reform. Das Gleichberechtigungsgesetz 1957 schaffte die aeltesten Diskriminierungen ab. Das EheRG 1976 brachte das Zerruttungsprinzip. Das Gleichstellungsrecht entwickelte sich weiter bis zum AGG 2006.
+Das BGB 1900 sicherte Frauen keine Gleichberechtigung: Maennliches Entscheidungsrecht in der Ehe (§ 1354 BGB a.F.), eingeschraenkte Geschäftsfaehigkeit verheirateter Frauen, keine eigene Berufswahl (§ 1356 BGB a.F. erlaubte dem Mann, Arbeitsverhaeltnis der Frau zu kuendigen). Die WRV 1919 Art. 109 Abs. 2 postulierte formale Gleichheit. Das GG 1949 Art. 3 Abs. 2 verbot Geschlechterdiskriminierung. BVerfGE 3, 225 (1953) zwang den Gesetzgeber zur Reform. Das Gleichberechtigungsgesetz 1957 schaffte die aeltesten Diskriminierungen ab. Das EheRG 1976 brachte das Zerruttungsprinzip. Das Gleichstellungsrecht entwickelte sich weiter bis zum AGG 2006.
 
 ## Kernnormen / Kernquellen
 

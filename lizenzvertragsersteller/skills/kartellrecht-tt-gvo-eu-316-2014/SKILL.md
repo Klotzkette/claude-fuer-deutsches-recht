@@ -47,7 +47,7 @@ Diese Klauseln verlieren die Freistellung, **andere Vertragsteile bleiben** frei
 2. **Non-Challenge-Klausel** (Verbot Schutzrechtsangriff)
 3. Bei Vertraegen zwischen Nicht-Wettbewerbern: Beschraenkung der Lizenznehmer-Forschung in einem nicht-lizenzierten Field
 
-## Praktische Pruefroutine
+## Praktische Prüfroutine
 
 ```
 1. IP-Typ pruefen: TT-GVO oder Vertikal-GVO?

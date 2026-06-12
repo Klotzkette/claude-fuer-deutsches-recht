@@ -7,7 +7,7 @@ description: "Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. 
 
 ## Arbeitsbereich
 
-Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhaeltnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Pruefraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur Richteranklage nach Art. 98 Abs. 2 und Abs. 5 GG i.V.m. den landesrechtlichen Vorschriften. Klaert die Voraussetzungen für ein Verfahren beim Bundesverfassungsgericht gegen einen Bundesrichter den verfassungsrechtlichen Tatbestand der Amtsverletzung das Antragsverfahren auf Versetzung in den Ruhestand oder Entlassung und das Verhältnis zur disziplinarrechtlichen Sanktion. Behandelt die Konstellationen Verstoesse gegen die richterliche Unabhaengigkeit politische Aeusserungen und schwerwiegende Pflichtverstoesse. Liefert Prüfraster. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -55,7 +55,7 @@ Skill zur Prüfung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 
 ## 5. Ausgabeformat
 
-- Pruefraster Tatbestand und Verfahrensgang.
+- Prüfraster Tatbestand und Verfahrensgang.
 - Verteidigungs-Memo bei drohender Anklage.
 
 ## 6. Verifizierte Quellenanker
@@ -69,4 +69,4 @@ Skill zur Prüfung der Voraussetzungen einer Richteranklage. Anwendung sehr selt
 
 ## 7. Beispiel (Kurzfassung)
 
-Hypothetisch: Bundesrichter aeussert sich öffentlich gegen die Geltung des Grundgesetzes. Skill liefert Pruefraster der Voraussetzungen einer Richteranklage und der parallelen disziplinarrechtlichen Schritte.
+Hypothetisch: Bundesrichter aeussert sich öffentlich gegen die Geltung des Grundgesetzes. Skill liefert Prüfraster der Voraussetzungen einer Richteranklage und der parallelen disziplinarrechtlichen Schritte.

@@ -1,6 +1,6 @@
 ---
 name: datenbank-dataset-rechte
-description: "Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu."
+description: "Prüft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus im Urheberrecht De Eu."
 ---
 
 # Datenbanken, Datasets und Trainingskorpora

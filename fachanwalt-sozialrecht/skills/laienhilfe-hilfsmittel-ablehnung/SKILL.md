@@ -75,7 +75,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Genehmigungsfiktion § 13 IIIa SGB V:** 3 Wochen (mit MD 5 Wochen) - bei Fristueberschreitung gilt Antrag als bewilligt (BSG-Linie). Wichtig: ordnungsgemaesser Antrag, kein Hinweis Kasse auf Verzoegerung, Patient haelt Hilfsmittel für erforderlich.
 - **Standard-Ablehnungsgruende und Gegenargumente:**
  - "nicht im Hilfsmittelverzeichnis": **kein Ausschluss** - § 33 SGB V umfassend, BSG-Linie. Hilfsmittelverzeichnis ist nur Indiz.
- - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen prüfen, Preis-Leistung-Verhaeltnis dokumentieren.
+ - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen prüfen, Preis-Leistung-Verhältnis dokumentieren.
  - "Gebrauchsgegenstand des taeglichen Lebens" (BSG-Linie): Hilfsmittel ist abgrenzt, wenn ausschließlich von Behinderten/Kranken benutzt.
  - "Eigenanteil nicht zumutbar": Belastungsgrenze § 62 SGB V (2 % Brutto / 1 % chronisch krank).
 - **Widerspruch § 84 SGG 1 Monat:** mit medizinischer Begruendung; Stellungnahme Arzt mit konkreter Indikation; Anhang MD-Gutachten widerlegen.

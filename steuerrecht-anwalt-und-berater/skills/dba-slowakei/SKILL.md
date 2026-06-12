@@ -62,7 +62,7 @@ Das DBA Deutschland-CSSR vom 19.12.1980 (BGBl. 1982 II S. 1023) gilt nach Notenw
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4) — Tie-Breaker.
 2. Sachliche Anwendbarkeit (Art. 2) — alter DBA-CSSR-Katalog beruecksichtigen.
@@ -92,14 +92,14 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbes
 - **SK-KSt-Staffel 2025**: 10 Prozent (bis 100.000 EUR Gewinn), 21 Prozent (100.001 bis 5.000.000 EUR), 24 Prozent (über 5.000.000 EUR). Untere Staffel kann AStG-Niedrigsteuerschwelle 15 Prozent (§ 8 Abs. 5 AStG) ausloesen — CFC-Hinzurechnung prüfen.
 - **Sozialversicherungs-Doppelbesteuerung**: Slowakische Sozialversicherungspflicht bei in SK ansaessigem Arbeitnehmer; bei Entsendung A1-Bescheinigung nach EU-VO 883/2004 zwingend. DBA regelt Sozialversicherung NICHT.
 - **Automotive-Lieferketten**: Bei Werkvertraegen VW Bratislava, Kia Žilina, Stellantis Trnava und Jaguar-Land-Rover Nitra: Bau- oder Montage-Betriebsstaette prüfen — 12 Monate Schwelle.
-- **§ 50d Abs. 3 EStG**: SK-Holdings werden bei deutscher Quellensteuererstattung sehr genau geprueft — Substanz (Personal, Buero, Geschaeftsleitung) muss belegt sein, sonst keine Erstattung.
+- **§ 50d Abs. 3 EStG**: SK-Holdings werden bei deutscher Quellensteuererstattung sehr genau geprueft — Substanz (Personal, Buero, Geschäftsleitung) muss belegt sein, sonst keine Erstattung.
 - **Slowakei MLI ab 01.01.2025**: PPT-Klausel (Principal Purpose Test) auf das DBA-CSSR/Slowakei angewendet — Treaty-Shopping nicht möglich.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| SK-KSt 10 Prozent als Vorteil vs. CFC-Risiko | SK-Tochter mit Gewinn unter 100.000 EUR — 10 Prozent SK-KSt | DE-CFC nach § 7 ff. AStG bei passiven Einkuenften und 10 Prozent SK-KSt | bei passiv-tendierten Gesellschaften CFC obligatorisch prüfen; bei aktivem Geschaeftsbetrieb Aktivitaetskatalog § 8 Abs. 1 AStG durchpruefen |
+| SK-KSt 10 Prozent als Vorteil vs. CFC-Risiko | SK-Tochter mit Gewinn unter 100.000 EUR — 10 Prozent SK-KSt | DE-CFC nach § 7 ff. AStG bei passiven Einkuenften und 10 Prozent SK-KSt | bei passiv-tendierten Gesellschaften CFC obligatorisch prüfen; bei aktivem Geschäftsbetrieb Aktivitaetskatalog § 8 Abs. 1 AStG durchpruefen |
 | Werksvertrag vs. AUeG bei Automotive-Entsendung | Werksvertrag mit Sub aus SK — 12-Monatsfrist Bau-BS prüfen | AUeG-Modell mit slowakischen Leiharbeitnehmern: AUeG-Erlaubnis und Lohnsteuer DE | bei wiederkehrenden Werksauftraegen Sub-Werkvertrag steuerlich vorteilhafter — aber AUeG-Trennlinie strikt einhalten |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-CSSR: 5 Prozent ab 25 Prozent Beteiligung | EU-MTRL immer vorrangig (§ 43b EStG) — niedrigere Schwelle und 0-Prozent-Satz |
 

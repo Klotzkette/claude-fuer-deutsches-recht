@@ -42,7 +42,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Ländern 
 3. **Bauplanung prüfen:** Baugenehmigung, ggf. Planfeststellung (Bauordnungs-/Bauplanungsrecht).
 4. **Antrag stellen:** Landesformular, Anlagen (Kostenberechnung, Bedarfsplan, Wirtschaftlichkeitsuntersuchung).
 5. **Bescheid prüfen:** Nebenbestimmungen § 36 VwVfG, Auflagen, Befristungen.
-6. **Verwendungsnachweis fuehren:** Frist meist 6-12 Monate nach Massnahmenende.
+6. **Verwendungsnachweis fuehren:** Frist meist 6-12 Monate nach Maßnahmenende.
 7. **Rueckforderung abwehren** ( §§ 48, 49 VwVfG): Anhörung, Vertrauensschutz, Ermessen.
 
 ## Trade-off-Matrix

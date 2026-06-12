@@ -23,7 +23,7 @@ description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerk
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 133, 157 BGB — Auslegungsgrundsaetze als Massstab für Tatbestandsmerkmal-Definitionen
+- §§ 133, 157 BGB — Auslegungsgrundsaetze als Maßstab für Tatbestandsmerkmal-Definitionen
 - § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Musterbeispiel konkreter Gesetzesdefinition
 - § 242 StGB — Diebstahl: Modell-Tatbestand für objektivsubjektive Mehrstufigkeit
 - § 280 BGB — Schadensersatzanspruch: Modell-Tatbestand mit mehreren Voraussetzungen

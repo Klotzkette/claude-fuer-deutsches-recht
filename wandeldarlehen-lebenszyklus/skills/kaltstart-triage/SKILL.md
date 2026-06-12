@@ -164,7 +164,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 - **Wandeldarlehen** — Darlehen nach §§ 488 ff. BGB, das unter bestimmten Bedingungen (Trigger) in Gesellschaftsanteile umgewandelt wird.
 - **SAFE** — Simple Agreement for Future Equity; Y-Combinator-Vorlage; kein Darlehen im Rechtssinne, sondern Vereinbarung auf zukuenftige Kapitalbeteiligung.
-- **Wandlungspreis** — Preis je neu ausgegebenen Geschaeftsanteil; ergibt sich aus Bewertungs-Cap, Discount oder Finanzierungsrunde.
+- **Wandlungspreis** — Preis je neu ausgegebenen Geschäftsanteil; ergibt sich aus Bewertungs-Cap, Discount oder Finanzierungsrunde.
 - **Cap-Table** — Gesellschafterliste inkl. aller voll verwasserten Anteile (fully diluted); zeigt Beteiligungsstruktur vor und nach Wandlung.
 - **Qualified Financing** — Qualifiziertes Finanzierungsereignis; haeufigster Wandlungs-Trigger; meist definiert als neue Finanzierungsrunde ab einer Mindestbetrag-Schwelle.
 - **Rangrücktritt** — Nachrangabrede nach § 39 InsO; stellt Wandeldarlehen insolvenzrechtlich nachrangig, um Ueberschuldungsausweis zu verhindern.
@@ -175,8 +175,8 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 - §§ 488 491 BGB — Darlehensrecht
 - §§ 53 55 56 57 GmbHG — Satzungsaenderung, Kapitalerhoehung, Sacheinlage, Anmeldung
-- § 40 GmbHG — Gesellschafterliste; Anmeldepflicht nach Aenderung
-- § 15 GmbHG — Abtretung von Geschaeftsanteilen (Formpflicht)
+- § 40 GmbHG — Gesellschafterliste; Anmeldepflicht nach Änderung
+- § 15 GmbHG — Abtretung von Geschäftsanteilen (Formpflicht)
 - § 39 InsO — Nachrang; Rangruecktrittserklaerung
 - §§ 125 126 BGB — Form; Schriftform
 - GwG §§ 10 11 — KYC/AML-Pflichten bei Investoren

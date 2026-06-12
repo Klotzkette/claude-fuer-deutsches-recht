@@ -42,10 +42,10 @@ description: "Norm- und Dogmatik-Skill für Aufrechnung Zurückbehaltung 309: pr
 - BGH KZR 12/15 zur Erstreckung des AGB-Aufrechnungsverbots in B2B-Kontexten unter § 307 BGB.
 
 ### B2B
-- Im unternehmerischen Verkehr: § 309 BGB findet keine direkte Anwendung; § 307 BGB als Massstab. Die Wertung des § 309 Nr. 2, 3 BGB strahlt mittelbar aus.
+- Im unternehmerischen Verkehr: § 309 BGB findet keine direkte Anwendung; § 307 BGB als Maßstab. Die Wertung des § 309 Nr. 2, 3 BGB strahlt mittelbar aus.
 - Aufrechnungsverbot in B2B teils zulässig, wenn auf streitige Forderungen begrenzt.
 
-### Pruefraster
+### Prüfraster
 1. Klausel umfasst unbestrittene/rechtskraeftige Forderungen? — Unwirksam.
 2. Zurueckbehaltungsrecht aus demselben Vertragsverhaeltnis ausgeschlossen? — Unwirksam.
 3. B2B? — Indizwirkung § 309 BGB, Prüfung nach § 307 BGB.

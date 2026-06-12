@@ -1,11 +1,11 @@
 ---
 name: polizeirecht-eingriff-pruefen
-description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnismaessigkeit pruefen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
+description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhältnismäßigkeit prüfen mit Standardmuster Polizeiverfuegung. Mit Gefahrenprognose Stoererhaftung Anscheinsstoerer und Hinweisen zur Einschaetzungspraerogative der Polizeibehoerde.
 ---
 
 # Polizeirecht Eingriff Prüfen
 
-## Pruefungsaufbau Polizeiverfuegung
+## Prüfungsaufbau Polizeiverfuegung
 
 > Wenn die Maßnahme eine Versammlung betrifft, zuerst `versammlungsfreiheit-brokdorf-auflagen-verbot` zuschalten. Art. 8 GG veraendert die Gewichtung: Die Behoerde muss nicht nur Gefahren abwehren, sondern die Versammlung möglich machen, solange milde Auflagen reichen.
 
@@ -26,7 +26,7 @@ description: Polizeirechtlicher Eingriff durch die vier Stufen der Verhaeltnisma
 - BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): diffuse Bedrohungslage reicht für tiefen Streueingriff nicht.
 - BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): hohe Eingriffsschwellen und Verfahrenssicherungen bei heimlichen IT-Eingriffen.
 
-Vor der Verhaeltnismaessigkeitspruefung pruefe:
+Vor der Verhältnismäßigkeitspruefung prüfe:
 1. **Ermaechtigungsgrundlage** (Generalklausel, Standardmassnahme).
 2. **Formelle Rechtmaessigkeit** (Zustaendigkeit, Verfahren, Form).
 3. **Gefahrenprognose** (konkrete Gefahr, Anscheinsgefahr,
@@ -78,7 +78,7 @@ Verschuldensbeitraege zu beruecksichtigen.
 
 ## Output-Module
 
-- ASCII-Pruefraster mit Stoeretypologie und vier Stufen.
+- ASCII-Prüfraster mit Stoeretypologie und vier Stufen.
 - Padlet-Tafel mit Gefahrenprognose Stoererhaftung Eingriffsstufen.
 - Begruendungsentwurf für die Polizeiverfuegung.
 

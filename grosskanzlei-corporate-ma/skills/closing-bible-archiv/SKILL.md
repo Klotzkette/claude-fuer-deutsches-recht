@@ -62,7 +62,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -126,7 +126,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - § 15 Abs. 3 u. 4 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteils- und SPA-Uebertragungen
-- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschaeftsfuehrers
+- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschäftsführers
 - § 20 TranspRG i.V.m. § 19 Abs. 1 GwG — Transparenzregistermeldung nach Gesellschafterwechsel innerhalb von zwei Wochen
 - § 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
 - § 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
@@ -140,7 +140,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
 2. **Signaturketten prüfen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemäß Handelsregisterstand prüfen
 3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
-4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschaeftsfuehrerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
+4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschäftsführerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
 5. **Funds Flow und Closing Payments prüfen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
 6. **Closing Bible zusammenstellen:** Inhaltsverzeichnis mit Tab-Struktur, je Dokument: Bezeichnung, Parteien, Datum, Fassung, Datenraum-Referenz
 7. **Offene Punkte als Post-Closing Obligations:** Fristen, Owner, Eskalationsstufe
@@ -197,7 +197,7 @@ TAB D — POST-CLOSING OBLIGATIONS
 - Belegkette: Dokument, Datum, Version, Fundstelle
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Registerpunkte → `grosskanzlei-corporate-ma-gesellschaftsrecht-register`
 - Notartermin, Beurkundungsfragen → `grosskanzlei-corporate-ma-output-versand-signing`

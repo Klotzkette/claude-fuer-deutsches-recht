@@ -15,7 +15,7 @@ description: "Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und 
 
 ## Worum geht es konkret
 
-Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, über die in 4-12 Wochen alle reden werden. Der Themenscout-Skill systematisiert diese Frueherkennung: Welche BGH-Vorlagebeschluesse können Sprengkraft entwickeln? Welche EuGH-Schlussantraege deuten auf Rechtsprechungsaenderungen? Welches BMF-Schreiben aendert die Beraterpraxis?
+Eine Fachzeitschrift lebt davon, fruehzeitig die Themen zu sehen, über die in 4-12 Wochen alle reden werden. Der Themenscout-Skill systematisiert diese Frueherkennung: Welche BGH-Vorlagebeschluesse können Sprengkraft entwickeln? Welche EuGH-Schlussantraege deuten auf Rechtsprechungsaenderungen? Welches BMF-Schreiben ändert die Beraterpraxis?
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

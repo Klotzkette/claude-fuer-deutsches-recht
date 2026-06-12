@@ -78,5 +78,5 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - Verkehrshindernis ohne Verschulden.
  - Wirtschaftliche Existenzgefaehrdung durch zumutbare Arbeit (z. B. nicht kostendeckende Vergutung).
 - **Eilantrag § 86b II SGG:** bei Existenzgefaehrdung Sanktion durch hoehere als 30 % oder bei Aussetzung KdU - Anordnungsanspruch (rechtswidrige Sanktion) + Anordnungsgrund (Existenzgefaehrdung).
-- **Widerspruch § 84 SGG 1 Monat:** Anhörung prüfen, wichtigen Grund vortragen, Verhältnismäßigkeit prüfen (Atypischer Fall? Persoenliche Verhaeltnisse?).
+- **Widerspruch § 84 SGG 1 Monat:** Anhörung prüfen, wichtigen Grund vortragen, Verhältnismäßigkeit prüfen (Atypischer Fall? Persoenliche Verhältnisse?).
 - **Praxis-Tipp:** Bei wiederholten Sanktionen Aktivierungsplan in Frage stellen (Geeignetheit, Zumutbarkeit § 10 SGB II); bei psychischer Erkrankung Stellungnahme Hausarzt einholen.

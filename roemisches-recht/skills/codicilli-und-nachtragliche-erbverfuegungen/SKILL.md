@@ -40,9 +40,9 @@ description: "Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen 
 ## Vergleich zu modernem Recht
 
 - §§ 2253-2256 BGB Widerruf des Testaments.
-- § 2247 BGB nachtraegliche Aenderungen durch eigenhaendiges Testament.
+- § 2247 BGB nachtraegliche Änderungen durch eigenhaendiges Testament.
 
-## Pruefraster
+## Prüfraster
 
 1. Codicilli vorhanden?
 2. Bezug zum Testament?

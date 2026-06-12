@@ -56,7 +56,7 @@ Klaere bei jedem eGbR-Mandat zuerst:
 | 3 | GmbH-Anteilsbeteiligung? | § 40 GmbHG | Ja: eGbR-Eintragung Voraussetzung |
 | 4 | Handelsgeschaeft? | § 1 HGB | Ja: OHG statt eGbR (Handelsregister) |
 | 5 | Haftungsbeschraenkung gewuenscht? | § 721 BGB | eGbR bietet keine; GmbH/KG prüfen |
-| 6 | Vertrauensschutz für Geschaeftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
+| 6 | Vertrauensschutz für Geschäftspartner gewuenscht? | § 707a III BGB | Eintragung schafft Publizitaet |
 | 7 | Bestehendes Grundbuch auf alte GbR? | § 47 GBO | Umschreibung auf eGbR nach Eintragung |
 
 ## Schritt-für-Schritt-Workflow
@@ -123,7 +123,7 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-rechtsformwahl` — Vergleich zu anderen Formen (GmbH, KG, OHG)
 - `gesellschaftsgruender-handelsregister-anmeldung` — bei Umwandlung in OHG

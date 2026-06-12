@@ -104,7 +104,7 @@ Zum Arbeiten liegt die Akte unter `testakten/verkehrsowi-rotlicht-tempo`. Sie wi
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -157,9 +157,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `verkehrsowi-zeugen-polizei-strategie` | Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV... |
 | `verteidiger-beweislast-verkehrsowi` | Verteidiger: Beweislast, Darlegungslast und Substantiierung. |
 | `vowi-akteneinsicht-rohmessdaten-leitfaden` | Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren: Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprech... |
-| `vowi-bussgeldbescheid-verkehrsowi-quality` | Bauleiter Prüfung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Höhe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster für Verteidiger im Erstgespraech im Verkehrsowi Verteidiger. |
-| `vowi-handyverstoss-akteneinsicht-alkohol` | Spezialfall Handy- und Geraeteverstoss § 23 Abs. 1a StVO: erfasste Geraete, Halten, Nutzen, Abgrenzung Sprachsteuerung. Pruefraster für Verteidiger im Verkehrsowi Verteidiger. |
-| `vowi-tempomessverfahren-bussgeldbescheid` | Spezialfall Tempomessverfahren und Fehlerquellen: Poliscan, ES 3.0, ES 8.0, Riegl, Eichschein, Verkehrsfehlergrenzen. Pruefraster für Verteidiger und Sachverstaendiger im Verkehrsowi Verteidiger. |
+| `vowi-bussgeldbescheid-verkehrsowi-quality` | Bauleiter Prüfung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Höhe, Rechtsfolgen Punkte und Fahrverbot. Prüfraster für Verteidiger im Erstgespraech im Verkehrsowi Verteidiger. |
+| `vowi-handyverstoss-akteneinsicht-alkohol` | Spezialfall Handy- und Geraeteverstoss § 23 Abs. 1a StVO: erfasste Geraete, Halten, Nutzen, Abgrenzung Sprachsteuerung. Prüfraster für Verteidiger im Verkehrsowi Verteidiger. |
+| `vowi-tempomessverfahren-bussgeldbescheid` | Spezialfall Tempomessverfahren und Fehlerquellen: Poliscan, ES 3.0, ES 8.0, Riegl, Eichschein, Verkehrsfehlergrenzen. Prüfraster für Verteidiger und Sachverstaendiger im Verkehrsowi Verteidiger. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Verkehrsowi Verteidiger. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen im Verkehrsowi Verteidiger. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton im Verkehrsowi Verteidiger. |

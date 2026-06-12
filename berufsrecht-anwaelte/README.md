@@ -64,7 +64,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -256,10 +256,10 @@ Automatisch generierte Komplett-Liste aller 201 Skills in diesem Plugin. Beschre
 | `vergleich-mit-kammeraufsicht-kaltstart-und-faktenmatri` | Anwälte: vergleich mit kammeraufsicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `vergleich-mit-kammeraufsicht-organisationspflicht` | Anwälte: vergleich mit kammeraufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `vermerk-mustertext-sitzungs` | Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und... |
-| `vermoegensverfall-und-zulassungswiderruf-kaltstart` | Anwälte: vermoegensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
-| `vermoegensverfall-und-zulassungswiderruf-kammerantwort` | Anwälte: vermoegensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
-| `vermoegensverfall-und-zulassungswiderruf-organisations` | Anwälte: vermoegensverfall und zulassungswiderruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
-| `vermoegensverfall-und-zulassungswiderruf-rechtsprechun` | Anwälte: vermoegensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
+| `vermoegensverfall-und-zulassungswiderruf-kaltstart` | Anwälte: vermögensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
+| `vermoegensverfall-und-zulassungswiderruf-kammerantwort` | Anwälte: vermögensverfall und zulassungswiderruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
+| `vermoegensverfall-und-zulassungswiderruf-organisations` | Anwälte: vermögensverfall und zulassungswiderruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
+| `vermoegensverfall-und-zulassungswiderruf-rechtsprechun` | Anwälte: vermögensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `verschwiegenheit-cloud-outsourcing` | Anwälte: verschwiegenheit cloud outsourcing - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `verschwiegenheit-cloud-outsourcing-kaltstart-und-fakte` | Anwälte: verschwiegenheit cloud outsourcing - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |
 | `verschwiegenheit-cloud-outsourcing-organisationspflich` | Anwälte: verschwiegenheit cloud outsourcing - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Anwaelte. |

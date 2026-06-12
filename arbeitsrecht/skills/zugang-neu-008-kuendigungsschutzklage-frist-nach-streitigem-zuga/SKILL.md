@@ -55,7 +55,7 @@ description: "Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang 
 - BAG 2 AZR 224/18 zum Zugang.
 - BAG 6 AZR 687/09 Beweislast.
 
-## Pruefraster
+## Prüfraster
 
 1. Wann wurde Kuendigung erhalten?
 2. Wann hat Arbeitnehmer Kenntnis?

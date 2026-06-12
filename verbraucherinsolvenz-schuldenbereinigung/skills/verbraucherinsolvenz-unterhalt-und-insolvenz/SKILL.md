@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-unterhalt-und-insolvenz
-description: "Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung...."
+description: "Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behandelt das Verhältnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung...."
 ---
 
 # Verbraucherinsolvenz und eheliche Unterhaltspflicht
@@ -14,7 +14,7 @@ description: "Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behande
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhaeltnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz und eheliche Unterhaltspflicht. Skill behandelt das Verhältnis von laufender Unterhaltspflicht zum Insolvenzverfahren Pflichten in der Wohlverhaltensphase Anrechnung und Rangordnung. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Unterhalt Und Insolvenz
 
@@ -42,7 +42,7 @@ description: "Verbraucherinsolvenz und eheliche Unterhaltspflicht: Skill behande
 
 - Pflicht zur vollen Erwerbstaetigkeit auch zur Unterhaltsleistung.
 
-## Pruefraster
+## Prüfraster
 
 1. Laufender oder rueckstaendiger Unterhalt?
 2. Rangordnung?

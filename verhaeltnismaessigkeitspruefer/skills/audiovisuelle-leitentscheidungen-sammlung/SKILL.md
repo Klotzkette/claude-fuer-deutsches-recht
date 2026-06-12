@@ -1,6 +1,6 @@
 ---
 name: audiovisuelle-leitentscheidungen-sammlung
-description: Kuratierte Quellenkarte zu frei pruefbaren audiovisuellen und amtlichen Materialien zu Leitentscheidungen des Bundesverfassungsgerichts. Keine behaupteten Mitschnitte ohne Permalink; jede Fundstelle braucht Gericht, Datum, Aktenzeichen und stabile Quelle.
+description: Kuratierte Quellenkarte zu frei prüfbaren audiovisuellen und amtlichen Materialien zu Leitentscheidungen des Bundesverfassungsgerichts. Keine behaupteten Mitschnitte ohne Permalink; jede Fundstelle braucht Gericht, Datum, Aktenzeichen und stabile Quelle.
 ---
 
 # Audiovisuelle Leitentscheidungen Sammlung
@@ -17,7 +17,7 @@ description: Kuratierte Quellenkarte zu frei pruefbaren audiovisuellen und amtli
 
 - Verifizierte Quelle (BVerfG, OEffentlich-Rechtliche, Universitaet).
 - Dauerhaft abrufbar oder mit zitierfaehigem Permalink/Archiv-URL.
-- Inhaltlich auf eine konkrete Stufe des Pruefungsschemas zuordenbar.
+- Inhaltlich auf eine konkrete Stufe des Prüfungsschemas zuordenbar.
 - Kein urheberrechtlicher Schwebezustand (keine Boulevard-Mitschnitte, keine privaten Aufzeichnungen).
 
 ## Datensatz pro Eintrag
@@ -30,13 +30,13 @@ description: Kuratierte Quellenkarte zu frei pruefbaren audiovisuellen und amtli
 | Medium | Verkuendung, muendliche Verhandlung, Pressekonferenz, Vorlesung |
 | Quelle | Sender oder Institution mit Permalink |
 | Zeitstempel | hh:mm:ss von hh:mm:ss bis hh:mm:ss |
-| Zentrale Aussage | Sinngemaesse Kernaussage; woertliche Zitate nur kurz und nur aus frei pruefbarer Quelle |
+| Zentrale Aussage | Sinngemaesse Kernaussage; woertliche Zitate nur kurz und nur aus frei prüfbarer Quelle |
 | Stufenverortung | legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit, Schranken-Trias, Wesensgehalt, Bestimmtheit, Wesentlichkeitstheorie |
 | Folgewirkung | zwei Saetze zur dogmatischen Tragweite |
 
 ## Empfohlene Kernsammlung
 
-> **Permalink-Disziplin:** Behaupte kein Video, keinen Hoerfunkmitschnitt und keine Pressekonferenz, wenn kein stabiler frei pruefbarer Link vorliegt. Aeltere Leitentscheidungen werden als amtliche Entscheidung mit BVerfGE-Fundstelle gefuehrt; audiovisuelle Materialien nur als Zusatz, nie als tragender Beleg.
+> **Permalink-Disziplin:** Behaupte kein Video, keinen Hoerfunkmitschnitt und keine Pressekonferenz, wenn kein stabiler frei prüfbarer Link vorliegt. Aeltere Leitentscheidungen werden als amtliche Entscheidung mit BVerfGE-Fundstelle gefuehrt; audiovisuelle Materialien nur als Zusatz, nie als tragender Beleg.
 
 ### Apotheken-Urteil 1958 (BVerfGE 7, 377)
 Keine frei belegte audiovisuelle Quelle. Fuehre nur die amtliche Entscheidung: BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56, BVerfGE 7, 377. Stufe: Berufsfreiheit, Drei-Stufen-Lehre, Erforderlichkeit und Angemessenheit bei Berufszugang.
@@ -69,7 +69,7 @@ Amtliche Entscheidung und Pressemitteilung nutzen: BVerfG, Beschluss vom 19.11.2
 
 Jeder Eintrag erhaelt:
 - Sachverhalts-Briefing in maximal fuenfzig Worten.
-- Verortung im vierstufigen Pruefungsschema.
+- Verortung im vierstufigen Prüfungsschema.
 - Folgewirkung in zwei Saetzen.
 - Zitierfaehige Fundstelle nach Lokalitaetenformat (BVerfGE Band, Seite Schlagwort).
 

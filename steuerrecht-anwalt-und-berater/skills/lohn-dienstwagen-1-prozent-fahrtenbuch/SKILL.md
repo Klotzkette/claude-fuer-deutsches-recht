@@ -117,4 +117,4 @@ Stand: 05/2026.
 - BMF v. 18.11.2009 (Dienstwagen).
 - E-Auto-Listenpreisgrenze: bis 70.000 EUR (Anschaffung ab 01.01.2024); Plug-in-Hybrid: 80 km elektrische Mindestreichweite oder max. 50 g/km CO2 (Stand 2025; BMF-Schreiben E-Auto/Hybrid prüfen).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 bestaetigt (Wachstumschancengesetz BGBl. 2024 I Nr. 108, Grenzwerte eingesetzt), 3 ersetzt (Pruefhinweise ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 bestaetigt (Wachstumschancengesetz BGBl. 2024 I Nr. 108, Grenzwerte eingesetzt), 3 ersetzt (Prüfhinweise ohne Marker) -->

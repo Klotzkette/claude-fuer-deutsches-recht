@@ -11,7 +11,7 @@ description: "Output: zweisprachiger Lizenzvertrag mit Massgeb-Sprache. Side-by-
 |---|---|
 | Beide Parteien können je Muttersprache lesen | beide Parteien sprechen die Vertragssprache fliessend |
 | Kulturelle Brueckenfunktion gewuenscht | Schiedsverfahren in einer Sprache |
-| Risiko-Buffer bei Streit | Kostenfaktor (Uebersetzung teuer) |
+| Risiko-Buffer bei Streit | Kostenfaktor (Übersetzung teuer) |
 | Compliance mit US-Konzern und DE-Geschäft | reine Domestic-Lizenz |
 
 ## Strukturoptionen
@@ -89,7 +89,7 @@ PRAEAMBEL                                 | RECITALS
 (3) Die Parteien vereinbaren wie folgt:   | (C) The Parties agree as follows:
 ```
 
-## Pruefroutine vor Unterzeichnung
+## Prüfroutine vor Unterzeichnung
 
 1. Beide Fassungen vollstaendig?
 2. Massgeb-Klausel klar gesetzt?

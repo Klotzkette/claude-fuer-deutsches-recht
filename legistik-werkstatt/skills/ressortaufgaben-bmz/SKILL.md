@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmz
-description: "Ressortaufgaben BMZ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg..."
+description: "Ressortaufgaben BMZ: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg..."
 ---
 
 # Ressortaufgaben BMZ
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMZ: typische Legistik-Aufgaben im Geschaeftsberei
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMZ
 - Ressort-Kompass aus `legw-ressort-bmz`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

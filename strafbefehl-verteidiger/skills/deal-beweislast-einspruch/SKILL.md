@@ -43,7 +43,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung:
  - Mandant über alle moeglichen Konsequenzen unterrichten.
  - Bei Verstoss Beweisverwertungsverbot des Gestaendnisses.
-- **Geschaeftsgrundlage Verstaendigung:**
+- **Geschäftsgrundlage Verstaendigung:**
  - Gestaendnis Angeklagter (regelmaessig vollumfaenglich).
  - Beweisaufnahme aber nicht ersparbar - Prüfung Glaubhaftigkeit.
  - Wegfall der Bindung § 257c IV StPO bei neuen erheblichen Umstaenden oder unrichtigen Voraussetzungen.

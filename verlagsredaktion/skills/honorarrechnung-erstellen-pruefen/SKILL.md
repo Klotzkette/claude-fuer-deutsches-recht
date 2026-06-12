@@ -1,6 +1,6 @@
 ---
 name: honorarrechnung-erstellen-pruefen
-description: "Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion."
+description: "Honorarrechnung erstellen und prüfen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen für Aufsatz, Beitrag, Werk im Verlagsredaktion."
 ---
 
 # Honorarrechnung erstellen und prüfen
@@ -32,7 +32,7 @@ Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG § 14
 - UStG § 14 Abs. 2 Satz 2 - Gutschrift durch Leistungsempfaenger nur mit Einverstaendnis des Leistenden.
 - UStG § 12 Abs. 2 Nr. 7 lit. c und § 19 - ermaessigter Steuersatz 7 Prozent für Einraeumung urheberrechtlicher Nutzungsrechte; Kleinunternehmerregelung.
 - UStG § 13b - Reverse-Charge bei sonstigen Leistungen aus dem Ausland.
-- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags für Zahlungen an selbstaendige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 prüfen).
+- KSVG (Kuenstlersozialversicherungsgesetz) - Abgabepflicht des Verlags für Zahlungen an selbständige Publizisten; Abgabesatz wird jaehrlich angepasst (Stand 2026 prüfen).
 - EStG § 50a - Steuerabzug bei beschraenkt steuerpflichtigen Autoren (Drittland).
 - BGB § 366 - Tilgungsbestimmung bei mehreren offenen Forderungen.
 
@@ -52,9 +52,9 @@ Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG § 14
 | Aspekt | Gutschrift durch Verlag | Rechnung durch Autor |
 |---|---|---|
 | Aufwand für Autor | Niedrig | Hoeher |
-| Kontrolle Pflichtangaben | Beim Verlag | Beim Autor; Verlag pruefend |
+| Kontrolle Pflichtangaben | Beim Verlag | Beim Autor; Verlag prüfend |
 | Korrekturen | Verlag korrigiert eigene Gutschrift | Korrekturrechnung durch Autor |
-| Risiko Vorsteuerabzug | Verlag traegt Pflichtangabenrisiko | Verlag pruefend, Risiko geteilt |
+| Risiko Vorsteuerabzug | Verlag traegt Pflichtangabenrisiko | Verlag prüfend, Risiko geteilt |
 
 ## Praxistipps der alten Redaktion
 
@@ -100,7 +100,7 @@ Hinweis: Gemaess § 19 UStG wird keine Umsatzsteuer ausgewiesen
 (Kleinunternehmerregelung).
 ```
 
-**Pruefliste eingehende Autorenrechnung**
+**Prüfliste eingehende Autorenrechnung**
 
 ```
 [ ] Vollstaendiger Name und Anschrift Autor und Verlag

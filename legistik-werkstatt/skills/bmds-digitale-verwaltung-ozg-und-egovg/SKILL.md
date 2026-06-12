@@ -1,11 +1,11 @@
 ---
 name: bmds-digitale-verwaltung-ozg-und-egovg
-description: "Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschaeftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Länder; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Länder-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.); typische Legistik-Aufgaben..."
+description: "Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschäftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Länder; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Länder-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.); typische Legistik-Aufgaben..."
 ---
 
 # Digitale Verwaltung (OZG; EGovG) (BMDS)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Digitale Verwaltung (OZG; EGovG) im Geschaeftsbereich BMDS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Digitale Verwaltung (OZG; EGovG) im Geschäftsbereich BMDS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschaeftsbereich 
 
 Kernbestand des Sachfelds: OZG; OZG-AeG; EGovG; EGovG-Länder; eIDAS-DurchG; XOeV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Foederale Vollzugskette; Registerharmonisierung; Datenschutz; Akzeptanz.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

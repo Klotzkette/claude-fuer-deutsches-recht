@@ -36,7 +36,7 @@ description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertrae
 - **§ 242 BGB**: Treu und Glauben als Auslegungsmassstab für Exportkontrollklauseln.
 - **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot auch durch Dritte.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] No-Russia-Clause für relevante Gueterkategorien integriert?
 - [ ] Re-Export-Verbot in Kaufvertrag aufgenommen?
@@ -50,7 +50,7 @@ description: "Exportkontrollklauseln in Distributor- und Handelsvertretervertrae
 - Zu allgemeine Formulierungen ('comply with all applicable laws') genügen für Art. 12g VO 833/2014 nicht.
 - Fehlende Audit-Rechte verhindern effektive Ueberwachung.
 - Ohne Ruecktrittsrecht bei Sanktionsverstoessen bleibt Exporteur in der Haftung.
-- Englische Klauselsprache kann bei auslaendischem Gericht anders ausgelegt werden.
+- Englische Klauselsprache kann bei ausländischem Gericht anders ausgelegt werden.
 
 ## Schnittstellen zu anderen Skills
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

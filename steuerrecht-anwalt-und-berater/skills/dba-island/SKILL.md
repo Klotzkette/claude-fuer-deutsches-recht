@@ -31,7 +31,7 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Island vom 18.03.1971** (BGBl. 1973 II S. 209) mit Aenderungsprotokoll vom 20.06.1996. Aktuelle konsolidierte Fassung im BMF-DBA-Verzeichnis prüfen.
+- **DBA Deutschland-Island vom 18.03.1971** (BGBl. 1973 II S. 209) mit Änderungsprotokoll vom 20.06.1996. Aktuelle konsolidierte Fassung im BMF-DBA-Verzeichnis prüfen.
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **EWR-Abkommen**.
@@ -49,7 +49,7 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 - Bauausfuehrung **12 Monate**.
 
 ### Aktive Einkuenfte
-- Schifffahrt/Fischerei (Art. 8): tatsaechliche Geschaeftsleitung.
+- Schifffahrt/Fischerei (Art. 8): tatsaechliche Geschäftsleitung.
 
 ### Passive Einkuenfte
 - **Dividenden**: DBA-Quellensteuer-Hoechstsatz 15 Prozent (islaendische nationale Quellensteuer 22 Prozent; BZSt-Erstattung auf DBA-Satz 15 Prozent). Kein EU-MTRL (EWR).
@@ -82,7 +82,7 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren IS → DE-Mandant**: Antrag bei Skatturinn (Islaendische Steuerverwaltung); Online-Portal "skattur.is" (vom Anwender mit aktuellem Stand des islaendischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der Skatturinn als Anlage. Bearbeitungsdauer in der Praxis langwierig.
-- **Sprache des DBA**: Authentische Textfassungen Deutsch und Islaendisch. Englische Arbeitsfassungen kursieren — nicht authentisch. Schwierigkeit: Islaendisch ist juristisch hochspezialisiert; Uebersetzungen oft nicht eindeutig.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Islaendisch. Englische Arbeitsfassungen kursieren — nicht authentisch. Schwierigkeit: Islaendisch ist juristisch hochspezialisiert; Übersetzungen oft nicht eindeutig.
 - **Lokaler Berater**: Bei islaendischer ehf. (Einkahlutafélag, GmbH-Äquivalent) oder Geothermie-/Aluminium-Beteiligung zwingend lokalen islaendischen Berater hinzuziehen; IS hat sehr kleines Marktumfeld und spezifische Rechtskultur.
 - **Apostille**: nicht erforderlich zwischen EWR-Mitgliedstaaten für Standard-Steuerdokumente; bei Notarurkunden Apostille (Haager Uebereinkommen) erforderlich.
 
@@ -91,7 +91,7 @@ Das DBA-Island vom 18.03.1971 (BGBl. 1973 II S. 209) ist aelterer Generation, je
 - **DBA aelterer Generation 1971**: Begriffe sind nicht OECD-MA 2017 konform — bei strittiger Auslegung Verstaendigungsverfahren oder MAP.
 - **Aluminium-Industrie IS**: Rio Tinto, Alcoa, Century Aluminum betreiben Aluminium-Schmelzen in IS wegen guenstiger Geothermie-Energie; bei Beteiligungen Sonderfragen Veraeusserungsgewinne (Art. 13).
 - **Geothermie-/Energie-Projekte**: regelmaessig BS-Prüfung bei langfristigen Wartungs- und Projektgesellschaften.
-- **Fischerei-Trawler**: Schifffahrt Art. 8 — Geschaeftsleitung Reederei in IS oder DE? Bei deutsch-islaendischen Fischereigesellschaften IS-Sondersteuern ("kvótakerfi", Quotensystem).
+- **Fischerei-Trawler**: Schifffahrt Art. 8 — Geschäftsleitung Reederei in IS oder DE? Bei deutsch-islaendischen Fischereigesellschaften IS-Sondersteuern ("kvótakerfi", Quotensystem).
 - **Tourismus-Investitionen**: Hotels Reykjavik, Reisebueros, Bus-Touren — Belegenheitsbesteuerung Immobilien IS.
 - **MLI**: IS hat MLI unterzeichnet, Ratifizierungsstatus zum DBA-Island vom Anwender mit BMF-Verzeichnis zu verifizieren.
 

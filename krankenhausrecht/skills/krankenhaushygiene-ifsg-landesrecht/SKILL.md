@@ -42,7 +42,7 @@ Krankenhaushygiene wird in mehreren Ebenen geregelt: IfSG (Bund), KRINKO-/RKI-Em
 3. **Ausbruchsmanagement:** Frueherkennung, Meldung Gesundheitsamt § 6 IfSG, Maßnahmen (Isolation, Kohortenpflege, Sanierung).
 4. **Schulungsnachweise:** Personal, Reinigungsdienst, Pflichtschulungen.
 5. **Aufsichtsdialog:** Gesundheitsamt, Landesgesundheitsamt, MD bei Strukturpruefung.
-6. **Erfuellungsnachweis erstellen:** Bei Beanstandung Korrekturplan, Massnahmenliste, Termine.
+6. **Erfuellungsnachweis erstellen:** Bei Beanstandung Korrekturplan, Maßnahmenliste, Termine.
 
 ## Trade-off-Matrix
 

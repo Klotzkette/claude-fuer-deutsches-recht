@@ -1,6 +1,6 @@
 ---
 name: compliance-security-access
-description: "Prüft Pflichtschulungen, Compliance-Regeln, Security Policies, Zugangsbeschränkungen und Statusgewicht im Sozialversicherungsstatus Pruefer."
+description: "Prüft Pflichtschulungen, Compliance-Regeln, Security Policies, Zugangsbeschränkungen und Statusgewicht im Sozialversicherungsstatus Prüfer."
 ---
 
 # Compliance Security Access

@@ -34,7 +34,7 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 - **KHG § 17b, 17d** DRG- und PEPP-System.
 - **SGB V § 109** Versorgungsauftrag als Grundlage.
 - **PrEV/Pflegebudget-Vereinbarung** zu Pflegepersonalkosten.
-- **MD-Pruefungen** nach § 275c SGB V ergaenzen Abrechnung.
+- **MD-Prüfungen** nach § 275c SGB V ergaenzen Abrechnung.
 
 ## / Schritt für Schritt
 1. **Abgrenzung prüfen:** Welche Bereiche fallen unter DRG (somatisch), welche unter PEPP (Psychiatrie, Psychosomatik)?
@@ -68,7 +68,7 @@ Die jaehrliche Budgetverhandlung legt für jede Klinik den Erloesrahmen fest. **
 > An die Schiedsstelle nach § 18a KHG / § 13 KHEntgG. Wir beantragen Festsetzung des Erloesbudgets 2026 und der vereinbarungsfaehigen Entgelte. Strittig sind: 1. Veraenderungsrate, 2. Mehrleistungsabschlag, 3. Vorhalteanteil … Begruendung … Beweismittel: AEB, Protokolle, MD-Berichte.
 
 ## Typische Fehler
-- AEB ohne pruefbare Begruendung (Mehrleistungen ohne Casemix-Nachweis).
+- AEB ohne prüfbare Begruendung (Mehrleistungen ohne Casemix-Nachweis).
 - L-Datensatz nicht plausibilisiert mit eigenen 21er-Daten.
 - Vorhalteanteil falsch vom DRG-Anteil getrennt (Konvergenzphase).
 - Verhandlung mit falschen Kostentraegerverbaenden (Ersatzkassen vs. AOK getrennt).

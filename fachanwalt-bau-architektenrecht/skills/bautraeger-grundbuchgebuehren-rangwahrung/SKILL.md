@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchgebuehren-rangwahrung
-description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefras..."
+description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Prüfras..."
 ---
 
 # Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag
@@ -14,7 +14,7 @@ description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill l
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
+**Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebühren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Prüfraster.
 
 ### Bautraeger Grundbuchgebuehren Rangwahrung
 
@@ -23,7 +23,7 @@ description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill l
 ### Notarkosten
 - Beurkundung Bautraegervertrag.
 - Vollzugsmassnahmen Auflassung Vormerkung.
-- Höhe: nach GNotKG, Verhaeltnis zum Vertragswert (typisch 1.5 % der Vertragssumme insgesamt).
+- Höhe: nach GNotKG, Verhältnis zum Vertragswert (typisch 1.5 % der Vertragssumme insgesamt).
 
 ### Grundbuchgebuehren
 - Eintragung Vormerkung.
@@ -42,7 +42,7 @@ description: "Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag: Skill l
 - Standardklausel: Erwerber traegt Notar Grundbuch Grunderwerbsteuer.
 - Bautraeger traegt eigene Loeschungs- und Verwaltungskosten.
 
-## Pruefraster
+## Prüfraster
 
 1. Gebührenaufstellung im Vertrag?
 2. Aufteilung klar?

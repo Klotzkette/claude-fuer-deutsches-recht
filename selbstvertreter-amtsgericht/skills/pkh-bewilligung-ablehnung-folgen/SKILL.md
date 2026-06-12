@@ -110,7 +110,7 @@ Folge: Sie zahlen rueckwirkend.
 ## Worauf Sie besonders achten müssen
 
 - **Beschwerde-Frist 2 Wochen**: Pflicht.
-- **Aenderungs-Meldung § 120a**: Wenn sich Einkommen erheblich aendert.
+- **Änderungs-Meldung § 120a**: Wenn sich Einkommen erheblich ändert.
 - **PKH heilt nicht Gegnerkosten**: Bei Niederlage zahlen Sie diese trotzdem.
 
 ## Typische Fehler

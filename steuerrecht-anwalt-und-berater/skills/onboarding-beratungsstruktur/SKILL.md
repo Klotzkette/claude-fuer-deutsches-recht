@@ -1,9 +1,9 @@
 ---
 name: onboarding-beratungsstruktur
-description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatri..."
+description: "Methodisches Prüfungsschema für jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest für steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatri..."
 ---
 
-# Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung
+# Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Loesung
 
 ## Fachlicher Anker
 
@@ -37,13 +37,13 @@ description: "Methodisches Pruefungsschema für jedes steuerliche Mandat — vom
 
 §§ 38 ff. AO (Steueranspruch) · § 88 AO · § 90 AO · § 162 AO · § 4 AO · Art. 20 Abs. 3 GG (Gesetzmaessigkeit) · § 4 EStG / § 5 EStG (Gewinnermittlung als Beispielnorm)
 
-## Sechs-Schritt-Pruefraster
+## Sechs-Schritt-Prüfraster
 
 1. **Sachverhalt** vollstaendig und chronologisch (wer, wann, was, wieviel, warum).
 2. **Beweismittel** matrixfoermig (Urkunde, Zeuge, Augenschein, Sachverstaendiger, Buchfuehrung).
 3. **Tatbestandsmerkmale** der einschlaegigen Norm einzeln durchpruefen.
 4. **Rechtsfolge** quantifizieren (Steuermehr/Minder, Zinsen § 233a AO, Hinterziehungszinsen § 235 AO).
-5. **Alternativen** vergleichen (Einspruch vs. Aenderung § 173 AO vs. tatsaechliche Verstaendigung vs. Erlass § 227 AO).
+5. **Alternativen** vergleichen (Einspruch vs. Änderung § 173 AO vs. tatsaechliche Verstaendigung vs. Erlass § 227 AO).
 6. **Empfehlung** mit Risiko und Kostenaufstellung; schriftlich aktenkundig machen.
 
 ## Abgrenzung zu anderen Skills dieses Plugins

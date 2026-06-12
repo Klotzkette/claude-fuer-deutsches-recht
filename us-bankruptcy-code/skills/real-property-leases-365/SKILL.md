@@ -1,6 +1,6 @@
 ---
 name: real-property-leases-365
-description: "Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code."
+description: "Prüft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender im US Bankruptcy Code."
 ---
 
 # Real Property Leases § 365

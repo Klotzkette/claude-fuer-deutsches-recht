@@ -56,7 +56,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -121,7 +121,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Rechtsgrundlagen
 
 - § 43a Abs. 4 BRAO — anwaltliches Verbot der Vertretung widerstreitender Interessen; gilt auch bei verbundenen Unternehmen
-- §§ 10-17 GwG — Sorgfaltspflichten: Identifizierung, wirtschaftlich Berechtigter, Herkunft von Vermoegenswerten, kontinuierliche Ueberwachung
+- §§ 10-17 GwG — Sorgfaltspflichten: Identifizierung, wirtschaftlich Berechtigter, Herkunft von Vermögenswerten, kontinuierliche Ueberwachung
 - § 43 Abs. 1 GwG — Meldepflicht bei Geldwaescheverdacht an FIU; Schweigegebot § 47 GwG
 - Art. 7 EU-Verordnung 833/2014 (Russland-Sanktionen) sowie VO 269/2014, 765/2006 und weitere EU-Sanktionsregimes — Bereitstellungsverbot, Umgehungsverbot
 - §§ 17, 18 AWG i.V.m. AWV — Strafbarkeit bei vorsaetzlicher Sanktionsumgehung
@@ -149,7 +149,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - PEP-Status → verstaerkte Sorgfalt § 15 GwG; Genehmigung der Geschaftsfuehrung
 - Unklare Mittelherkunft → Nachfrage; keine Annahme vor Klärung; bei Verdacht FIU-Meldepflicht
 
-## Output-Template: Conflicts- und GwG-Pruefungsprotokoll
+## Output-Template: Conflicts- und GwG-Prüfungsprotokoll
 
 **Adressat:** Partner, Compliance — Tonfall sachlich-intern
 
@@ -195,7 +195,7 @@ Freigabe: [PARTNER] am [DATUM]
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe
 - Bei Treffer: sofortige Senior-Review und Partner-Freigabe
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Transparenzregister nach Closing → `mittelstand-corporate-ma-gesellschaftsrecht-register`
 - FDI/AWV-Screening → `mittelstand-corporate-ma-regulatory-fdi-merger-control`

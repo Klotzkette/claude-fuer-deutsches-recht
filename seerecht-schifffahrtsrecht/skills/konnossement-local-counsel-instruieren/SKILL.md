@@ -1,6 +1,6 @@
 ---
 name: konnossement-local-counsel-instruieren
-description: "Konnossement: Auslaendischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrt..."
+description: "Konnossement: Ausländischen Anwalt für Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste im Seerecht Schifffahrt..."
 ---
 
 # Konnossement – Local Counsel instruieren

@@ -51,7 +51,7 @@ Materialienarbeit bedeutet das direkte Arbeiten mit den Entstehungsquellen einer
 ## Typische Streitfragen / Forschungsfragen
 
 1. Darf man aus Mugdan-Motiven unmittelbar auf Gesetzgeberwillen schliessen?
-2. Zweite Kommission aenderte Ersten Entwurf: Welche Materialien haben Vorrang?
+2. Zweite Kommission änderte Ersten Entwurf: Welche Materialien haben Vorrang?
 3. Materialien und spatere Gesetzesaenderungen: Gelten die Ursprungsmaterialien noch?
 4. Kein Mugdan-Pendant: Was tun bei fehlendem Materialienbezug?
 5. Mugdan und EU-Recht: Können BGB-Materialien bei richtlinienkonformer Auslegung herangezogen werden?

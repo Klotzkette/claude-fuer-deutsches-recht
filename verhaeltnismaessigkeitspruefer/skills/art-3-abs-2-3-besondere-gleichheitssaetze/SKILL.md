@@ -1,6 +1,6 @@
 ---
 name: art-3-abs-2-3-besondere-gleichheitssaetze
-description: Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip mit positivem Foerderauftrag sowie absolute Diskriminierungsverbote wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben religioesen oder politischen Anschauungen und Behinderung. Erlaeutert wann strenge Pruefung greift wann Differenzierung trotz Anknuepfung an verbotenes Merkmal zulaessig bleibt und wie das Verhaeltnis zu Art. 3 Abs. 1 GG aussieht.
+description: Besondere Gleichheitssaetze nach Art. 3 Abs. 2 und Abs. 3 GG. Gleichberechtigung von Mann und Frau als Strukturprinzip mit positivem Foerderauftrag sowie absolute Diskriminierungsverbote wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben religioesen oder politischen Anschauungen und Behinderung. Erläutert wann strenge Prüfung greift wann Differenzierung trotz Anknuepfung an verbotenes Merkmal zulaessig bleibt und wie das Verhältnis zu Art. 3 Abs. 1 GG aussieht.
 ---
 
 # Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG
@@ -27,13 +27,13 @@ Niemand darf wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glaub
 Konsequenz:
 - Anknuepfung an diese Merkmale ist grundsätzlich unzulaessig.
 - Rechtfertigung nur durch kollidierendes Verfassungsrecht im Wege praktischer Konkordanz.
-- Verhaeltnismaessigkeitspruefung in strengster Auspraegung.
+- Verhältnismäßigkeitspruefung in strengster Auspraegung.
 
 ### Art. 3 Abs. 3 Satz 2 GG — Benachteiligungsverbot wegen Behinderung
 
 Eingefuegt 1994. Verbietet ausdruecklich nur die Benachteiligung nicht die Bevorzugung. Lesart: Foerderung Behinderter ist verfassungsrechtlich geboten und nicht verboten. Konsequenz für Inklusion Barrierefreiheit Nachteilsausgleich.
 
-## Pruefungsschema bei Art. 3 Abs. 3 GG
+## Prüfungsschema bei Art. 3 Abs. 3 GG
 
 1. **Anknuepfung an verbotenes Merkmal** — direkte Anknuepfung im Norminhalt oder verdeckte Anknuepfung über Hilfsmerkmale.
 2. **Benachteiligung oder Bevorzugung** — bei Satz 1 beide Richtungen erfasst bei Satz 2 nur Benachteiligung.
@@ -45,7 +45,7 @@ Eingefuegt 1994. Verbietet ausdruecklich nur die Benachteiligung nicht die Bevor
 
 Verdeckte oder mittelbare Anknuepfung an ein verbotenes Merkmal ist auch dann erfasst wenn die Norm scheinbar neutral formuliert ist die Wirkung aber typischerweise eine Gruppe trifft. Beispiel: Anforderungen die Frauen typischerweise schwerer erfuellen können ohne sachlichen Grund. Hier wird die Argumentation oft über das einfachrechtliche AGG gefuehrt aber die verfassungsrechtliche Basis bleibt Art. 3 Abs. 3 GG.
 
-## Verhaeltnis zu Art. 3 Abs. 1 GG
+## Verhältnis zu Art. 3 Abs. 1 GG
 
 Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheitssatz wird die Prüfung dort gefuehrt. Art. 3 Abs. 1 GG wirkt nur subsidiaer wenn das Differenzierungsmerkmal in Abs. 2 und Abs. 3 nicht erfasst ist oder nur eine Naehe zu den dort genannten Merkmalen besteht. In Naehekonstellationen verschaerft sich die Prüfung im Rahmen der Neuen Formel.
 
@@ -65,7 +65,7 @@ Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis. Greift ein besonderer Gleichheit
 - **Foerderauftrag verkennen** — Art. 3 Abs. 2 Satz 2 GG erlaubt Foerdermassnahmen aber nicht jede Form. Verhältnismäßigkeit der Foerdermassnahme bleibt erforderlich.
 - **Biologische Begruendungen ueberdehnen** — Ausnahmen nur bei zwingenden biologischen Unterschieden nicht bei tradierten Rollenbildern.
 - **Behinderung mit Art. 3 Abs. 3 Satz 1 GG verwechseln** — Satz 2 hat eigenen Charakter und verbietet nur Benachteiligung.
-- **Verhaeltnis zu AGG verkennen** — das AGG ist einfaches Recht im Anwendungsbereich des Unionsrechts. Es ergaenzt Art. 3 Abs. 3 GG zwischen Privaten ersetzt es aber nicht.
+- **Verhältnis zu AGG verkennen** — das AGG ist einfaches Recht im Anwendungsbereich des Unionsrechts. Es ergaenzt Art. 3 Abs. 3 GG zwischen Privaten ersetzt es aber nicht.
 
 ## Verwandte Skills
 

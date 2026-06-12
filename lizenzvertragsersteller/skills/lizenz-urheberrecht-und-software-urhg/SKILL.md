@@ -43,7 +43,7 @@ description: "Urheberrechts- und Software-Lizenzen nach UrhG: $ 31 ff. UrhG einf
 | $ 69d | Erlaubte Handlungen ohne Zustimmung (bestimmungsgemaesse Benutzung, Sicherheitskopie) |
 | $ 69e | Dekompilierung zur Interoperabilitaet |
 | $ 69f | Verletzungsfolgen |
-| $ 69g | Verhaeltnis zu sonstigen Vorschriften |
+| $ 69g | Verhältnis zu sonstigen Vorschriften |
 
 ## Source-Code vs. Object-Code
 

@@ -13,7 +13,7 @@ description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung 
 
 ## Kernsachverhalt
 
-Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag prüfen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
+Die Schwellenwerte für geringfuegige Beschäftigung (Minijob) und Uebergangsbereich (Midi-Job) sind seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: Minijob-Grenze = 130-faches des Mindestlohnstundenlohns (~10 Wochenstunden). Bei jeder MiLo-Anhebung steigt die Minijob-Grenze. Der Steuerberater muss zu jedem Stichtag prüfen, welcher Wert aktuell gilt — Dokumentation in der Mandantenakte ist Pflicht.
 
 ## Kaltstart-Rueckfragen
 
@@ -30,7 +30,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 
 ### Primaernormen
 
-**§ 8 SGB IV** — geringfuegige Beschaeftigung, dynamisch an MiLo.
+**§ 8 SGB IV** — geringfuegige Beschäftigung, dynamisch an MiLo.
 
 **§ 20 SGB IV** — Uebergangsbereich.
 
@@ -72,7 +72,7 @@ Die Schwellenwerte für geringfuegige Beschaeftigung (Minijob) und Uebergangsber
 
 - Untergrenze = Minijob-Grenze + 0,01 EUR.
 - Obergrenze: 2.000 EUR (Stand 01.01.2023).
-- Bei Reformen 2026 Obergrenze ueberpruefen — bisher unveraendert seit 2023.
+- Bei Reformen 2026 Obergrenze überprüfen — bisher unveraendert seit 2023.
 
 ### Phase 4 — Mandanten-Information
 
@@ -111,5 +111,5 @@ Stand: 05/2026.
 - Mindestlohnkommission.
 - Mindestlohn 2025: 12,82 EUR/h; Minijob-Grenze 2025: 556 EUR/Monat. **Mindestlohn 2026: 13,90 EUR/h; Minijob-Grenze 2026: 603 EUR/Monat (Jahresgrenze 7.236 EUR). Mindestlohn 2027: 14,60 EUR/h; Minijob-Grenze 2027 voraussichtlich 633 EUR/Monat.** Quelle: Fuenfte Mindestlohnanpassungsverordnung (MiLoV5) vom 05.11.2025, BGBl. 2025 I Nr. 268 (Berichtigung Nr. 312); Minijob-Zentrale Pressemitteilung Dezember 2025.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (MiLo 12,82 EUR/Minijob 556 EUR 2025 eingesetzt), 1 ersetzt (Rundungspraxis Prüfhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: MiLo 13,90 (2026) / 14,60 (2027); Minijob-Grenze 603 (2026) / voraussichtlich 633 (2027) ergaenzt -->

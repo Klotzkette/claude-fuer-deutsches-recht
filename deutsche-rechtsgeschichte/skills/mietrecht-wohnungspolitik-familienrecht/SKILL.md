@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrecht ohne Mieterschutz. Der Erste Weltkrieg aenderte dies: Die Mieterschutzverordnung von 1917 (RGBl. 1917, 659) einfror Mieten und schuetzte vor Kuendigung. In der Weimarer Republik blieb Mieterschutz als staatliche Wohnungspolitik. Im NS wurden Mieten staatlich kontrolliert (Mietenpreisgestaltungsverordnung 1936). In der BRD wurde der Mieterschutz stufenweise ausgebaut: Wohnraumkuendigungsschutzgesetz 1971, Miethoehegesetz 1974, und schliesslich die Mietrechtsreform 2001 (BGBl. I 2001, 1162), die Mieterschutz ins BGB integrierte.
+Das Mietrecht des BGB 1900 (§§ 535-597 a.F.) war ein reines Schuldvertragsrecht ohne Mieterschutz. Der Erste Weltkrieg änderte dies: Die Mieterschutzverordnung von 1917 (RGBl. 1917, 659) einfror Mieten und schuetzte vor Kuendigung. In der Weimarer Republik blieb Mieterschutz als staatliche Wohnungspolitik. Im NS wurden Mieten staatlich kontrolliert (Mietenpreisgestaltungsverordnung 1936). In der BRD wurde der Mieterschutz stufenweise ausgebaut: Wohnraumkuendigungsschutzgesetz 1971, Miethoehegesetz 1974, und schliesslich die Mietrechtsreform 2001 (BGBl. I 2001, 1162), die Mieterschutz ins BGB integrierte.
 
 ## Kernnormen / Kernquellen
 

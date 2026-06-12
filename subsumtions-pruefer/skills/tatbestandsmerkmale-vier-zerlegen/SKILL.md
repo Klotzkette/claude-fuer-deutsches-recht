@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-vier-zerlegen
-description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Subsumtions Pruefer."
+description: "Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Subsumtions Prüfer."
 ---
 
 # Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung

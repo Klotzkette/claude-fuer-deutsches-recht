@@ -15,7 +15,7 @@ description: "Heranfuehrung Ressort BMWSB (Bundesministerium für Wohnen; Stadte
 - **Hausleitung Stand 2026:** Verena Hubertz (SPD)
 - **Dienstsitz:** Krausenstr. 17-18; 10117 Berlin; Zweitsitz Deichmanns Aue 31-37; 53179 Bonn
 - **Schwerpunkt:** Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung.
-- **Kernnormen im Geschaeftsbereich:** BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
+- **Kernnormen im Geschäftsbereich:** BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG.
 
 ## Materie auf einer Seite
 
@@ -28,10 +28,10 @@ Vollzugspraxis greifen ineinander.
 ### Wer spielt mit
 
 - **Federfuehrendes Referat** (im BMWSB)
-- **Nachgeordnete Behörden und Aufsichten** des Geschaeftsbereichs
+- **Nachgeordnete Behörden und Aufsichten** des Geschäftsbereichs
 - **Bundesrat-Ausschuss** (bei zustimmungs- oder einspruchspflichtigen Vorhaben)
 - **Bundestags-Fachausschuss** (BMWSB-Spiegel)
-- **Verbaende** im Geschaeftsbereich (Beteiligung nach GGO Paragraf 47)
+- **Verbaende** im Geschäftsbereich (Beteiligung nach GGO Paragraf 47)
 - **EU-Ebene** (Generaldirektion und Ratsformation)
 
 ### Welche Normen muss man lesen können
@@ -60,12 +60,12 @@ gerichts-Linie und BVerwG-Linie.
 - `legw-bmwsb-bauproduktenrecht-und-technische-normen` - Bauproduktenrecht und technische Normen
 - `legw-bmwsb-energetische-sanierung-und-geg` - Energetische Sanierung (GEG)
 
-Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Pruefpfad und
+Diese fuenf Skills decken die typischen Sachfragen ab; jeder fuehrt durch Eingaben; Prüfpfad und
 Output. Wer als Legist nicht Sachgebietsexperte ist; arbeitet sich über genau diese Skills ein.
 
 ## Stolpersteine - die fuenf haeufigsten
 
-1. **Geschaeftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
+1. **Geschäftsverteilung uebersehen** - Mitzeichner nicht beachtet; Vorhaben kippt in der Ressort-
  abstimmung.
 2. **Vollzugsrealitaet unterschaetzt** - Norm ist sauber; Vollzug ist nicht finanziert oder nicht
  personell gedeckt; Erfuellungsaufwand falsch berechnet.

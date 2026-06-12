@@ -32,7 +32,7 @@ Skill für Beamte, die ihre Erfahrungsstufe der Besoldung anzweifeln. Anwendung 
 
 ### b) Anerkennung beruflicher Vorzeiten
 - § 28 BBesG (Bund): Beruecksichtigung beruflicher Erfahrungen, die für das Statusamt foerderlich waren.
-- Unionsrechtliche Vorgaben: Beruecksichtigung von Beschaeftigungszeiten in anderen Mitgliedstaaten nach EuGH-Rechtsprechung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Unionsrechtliche Vorgaben: Beruecksichtigung von Beschäftigungszeiten in anderen Mitgliedstaaten nach EuGH-Rechtsprechung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 
 ### c) Verzoegerungstatbestaende
 - Verzoegerung bei nicht foerderlicher Verwendung, langfristiger Beurlaubung ohne Bezuege.

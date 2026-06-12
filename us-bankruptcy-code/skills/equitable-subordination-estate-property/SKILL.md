@@ -1,6 +1,6 @@
 ---
 name: equitable-subordination-estate-property
-description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code."
+description: "Prüft contractual subordination, equitable subordination, insider misconduct and plan distribution effects im US Bankruptcy Code."
 ---
 
 # Subordination § 510

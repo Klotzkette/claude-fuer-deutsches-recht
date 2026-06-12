@@ -63,7 +63,7 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 | Lohnbuchungen verzoegert | Personalkosten zu niedrig | Lohnprogramm nicht synchron | Buchung aus Lohnprogramm uebernehmen |
 | Verrechnungskonto offen | Saldo nicht null im Verrechnungs-/Geldtransit-Konto (z. B. SKR 03 1590/1599) | Buchung nicht zugeordnet | Klärung mit Mandant; Kontonummer in DATEV-Kontenrahmen SKR 03/04 prüfen (DATEV-Kontenrahmen jaehrlich aktualisiert) |
 | USt-Voranmeldung uneinheitlich | USt-Konto-Saldo passt nicht | USt-Schlüssel falsch | Buchung prüfen |
-| Sonderzahlungen Personal | Monatsausschlag Lohn | Tantieme einmalig | Im Erlaeuterungstext erwaehnen |
+| Sonderzahlungen Personal | Monatsausschlag Lohn | Tantieme einmalig | Im Erläuterungstext erwaehnen |
 | Abschreibungen nicht aktualisiert | AfA monatlich konstant trotz Investition | Anlagenbuchhaltung nicht synchron | AfA aktualisieren |
 | Skonti-Buchung | Erloese zu hoch | Skonti nicht erloesschmaelernd gebucht | Erloesschmaelerung im richtigen Erloeskontenbereich (vgl. DATEV-Kontenrahmen aktuelle Fassung, SKR 03 typisch 8730er bzw. SKR 04 4730er-Bereich) |
 | Provisionserloese | DB falsch | Aufwand statt Erloesschmaelerung | Buchung umstellen |
@@ -86,9 +86,9 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 - Berufsgenossenschaft monatlich anteilig gebucht (Konto SKR 03 4140 bzw. SKR 04 6140 — Konkretisierung im aktuellen DATEV-Kontenrahmen prüfen).
 - Pauschalsteuer für Aushilfen über das jeweils passende Steueraufwandskonto buchen (z. B. SKR 03 4148 für Lohnsteuer 2 Prozent Pauschal — konkrete Kontonummer in der aktuellen DATEV-Kontenrahmen-Dokumentation nachschlagen).
 
-### Phase 5 — Spezial-Pruefungen
+### Phase 5 — Spezial-Prüfungen
 
-- Bei GmbH: Geschaeftsfuehrer-Gehalt vollstaendig erfasst? Verdeckte Gewinnausschuettung-Risiko?
+- Bei GmbH: Geschäftsführer-Gehalt vollstaendig erfasst? Verdeckte Gewinnausschuettung-Risiko?
 - Bei Holding: Erloese aus Beteiligung sauber erfasst (steuerfrei nach § 8b KStG)?
 - Bei Personenunternehmen: Privatentnahmen nicht in BWA, sondern in Kapitalkonto.
 - USt-konsistenz mit USt-Voranmeldung.
@@ -102,12 +102,12 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 
 ## Strategie und Praxis-Tipps
 
-- Standardisierte Pruefliste vor jedem BWA-Versand abarbeiten — auch bei Routine-Mandanten.
+- Standardisierte Prüfliste vor jedem BWA-Versand abarbeiten — auch bei Routine-Mandanten.
 - 4-Augen-Prinzip: Sachbearbeiter prüft selbst, Berufstraeger stichprobenartig.
 - Bei wiederholten Fehlern beim gleichen Sachbearbeiter: Schulung erforderlich.
 - DATEV-Tipp: Auswertung "Konten mit ungewoehnlichem Saldo" als monatliche Pflichtpruefung.
 - Honoraranknuepfung: Fehlerprotokoll als Teil der Qualitaetssicherung, kein Extra-Honorar.
-- Bei Buchungsfehlern aus Vorperiode: Vorperiode korrigieren oder Erlaeuterungstext mit Hinweis.
+- Bei Buchungsfehlern aus Vorperiode: Vorperiode korrigieren oder Erläuterungstext mit Hinweis.
 
 ## Quellen und Updates
 

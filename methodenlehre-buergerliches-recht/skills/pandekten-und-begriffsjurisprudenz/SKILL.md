@@ -1,6 +1,6 @@
 ---
 name: pandekten-und-begriffsjurisprudenz
-description: "Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck,..."
+description: "Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhältnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck,..."
 ---
 
 # Pandektenwissenschaft und Begriffsjurisprudenz
@@ -51,7 +51,7 @@ Die Pandektisten haben die Strukturen geschaffen, die das BGB (1900) bis heute p
 
 **Wo die Begriffsjurisprudenz heute noch traegt:**
 
-- **Allgemeiner Teil:** Rechtsfaehigkeit, Geschaeftsfaehigkeit, Willenserklaerung, Anfechtung. Streng begrifflich konstruiert.
+- **Allgemeiner Teil:** Rechtsfaehigkeit, Geschäftsfaehigkeit, Willenserklaerung, Anfechtung. Streng begrifflich konstruiert.
 - **Stellvertretungsrecht (§§ 164 ff. BGB):** Vertretungsmacht, Vollmacht, Insichgeschaeft. Die Begriffsketten sind dogmatisch praezise und nicht beliebig.
 - **Verfuegung und Verpflichtung:** Trennungs- und Abstraktionsprinzip sind tragende Begriffsstrukturen.
 - **Bedingung und Befristung (§§ 158 ff. BGB):** rein begrifflich-konstruktiv.

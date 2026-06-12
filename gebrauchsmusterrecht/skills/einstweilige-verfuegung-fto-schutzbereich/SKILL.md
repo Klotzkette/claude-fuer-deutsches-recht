@@ -33,7 +33,7 @@ Schnelles Vorgehen wird erwogen.
 - Verfuegungsgrund (Eilbeduerftigkeit, § 935 ZPO).
 
 ### Besonderheit Gebrauchsmuster
-- Anders als Patent: kein materieller Pruefungsfilter.
+- Anders als Patent: kein materieller Prüfungsfilter.
 - Gerichte stellen daher hoehere Anforderungen an die "**glaubhafte Aussicht auf Bestand**" als beim Patent.
 - BGH X ZR 173/02 — der Rechtsbestand muss bei Erstanmeldungen vom Kläger glaubhaft gemacht werden.
 

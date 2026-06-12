@@ -45,7 +45,7 @@ description: "Beamtenrecht: Dienstunfall Unfallausgleich Heilverfahren im Beamte
 - Anerkennung erschwert.
 - BVerwG-Linie: psychische Erkrankung kann Dienstunfall sein, wenn aeusseres Ereignis nachweisbar.
 
-## Pruefraster
+## Prüfraster
 
 1. Dienstunfallbegriff erfuellt?
 2. Antrag fristgerecht?

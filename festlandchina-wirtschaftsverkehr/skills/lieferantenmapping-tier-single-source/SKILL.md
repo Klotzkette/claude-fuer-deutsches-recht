@@ -43,7 +43,7 @@ Verbindliches Recht und anerkannte Soft-Law-Quellen für diesen Skill:
 
 - §§ 5-7 LkSG: Risikoanalyse, unmittelbare und mittelbare Zulieferer.
 - § 10 LkSG: Beschwerdeverfahren für Lieferkettenrisiken.
-- EU CSDDD (2024/1760) Art. 8: Sorgfaltspflichten für mittelbare Geschaeftsbeziehungen.
+- EU CSDDD (2024/1760) Art. 8: Sorgfaltspflichten für mittelbare Geschäftsbeziehungen.
 - XUAR-Bezug: Uyghur Forced Labor Prevention Act (USA) als Compliance-Referenz (kein DE-Recht).
 - BAFA-Merkblatt Dual-Use: Güter in Lieferkette auf AL-Listung prüfen.
 

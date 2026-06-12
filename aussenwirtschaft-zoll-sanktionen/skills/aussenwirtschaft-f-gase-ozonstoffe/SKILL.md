@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-f-gase-ozonstoffe
-description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmi..."
+description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Prüfbericht und Genehmi..."
 ---
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement
@@ -36,7 +36,7 @@ description: "Ein- und Ausfuhrkontrolle für fluorierte Treibhausgase (F-Gase) n
 - **UZK Art. 56**: Verbote und Beschraenkungen bei Einfuhr.
 - **§ 69 KrWG**: Bussgeldbewehrung bei Verstoss gegen Einfuhrverbote.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Stoff korrekt nach VO (EU) 517/2014 Anhang I oder VO (EG) 1005/2009 eingeordnet?
 - [ ] Quotenzuteilung für F-Gas-Importe vorhanden und ausreichend?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

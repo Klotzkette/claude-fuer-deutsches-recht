@@ -1,6 +1,6 @@
 ---
 name: quantenkommunikation-via-satellit
-description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..."
+description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schlüsselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/8..."
 ---
 
 # Quantenkommunikation via Satellit
@@ -16,7 +16,7 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 ## Sofortfragen
 
 1. Welche Rolle: Betreiber, Bodenstationsbetreiber, Forschungsinstitut, KRITIS-Sektor-Anwender oder Aufsichtsbehoerde?
-2. Welche Schluessellaenge und welcher Protokollstandard (BB84, B92, E91)?
+2. Welche Schlüssellaenge und welcher Protokollstandard (BB84, B92, E91)?
 3. Welche Frequenzbaender (Free-Space-Optical-Communication ueblich; Funklink für Klassisch-Channel)?
 4. Welcher Sicherheitsstufe (VS-NfD, VS-Vertraulich, GEHEIM)?
 5. Welche internationale Reichweite (CN/US-Export, EU-Konsortium)?
@@ -25,18 +25,18 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 
 - **BSI-Gesetz (BSIG)** insbesondere §§ 8a-8b (KRITIS-Pflichten) und § 8c (KRITIS-Dachgesetz) iVm KRITIS-DachG-Entwurf 2023. Quantum-Backbone als IT-Infrastruktur kritischer Versorgungssektoren ist regelmaessig KRITIS-pflichtig.
 - **NIS2-Richtlinie (EU) 2022/2555**: Umsetzung in DE durch NIS2-Umsetzungsgesetz (NIS2UmsuCG, in Kraft live verifizieren). Pflichten zur Risikomanagement, Vorfallmeldung 24/72 Stunden, Aufsicht durch BSI.
-- **Sicherheitsueberpruefungsgesetz (SUeG)** und **Geheimschutzhandbuch (GHB)**: bei Beschaeftigten mit VS-Berechtigung.
+- **Sicherheitsueberpruefungsgesetz (SUeG)** und **Geheimschutzhandbuch (GHB)**: bei Beschäftigten mit VS-Berechtigung.
 - **VS-NfD-Bestimmungen** für raumfahrtbezogene Verschluesselungstechnologie.
-- **Wassenaar Arrangement** und **EU Dual-Use-Verordnung (EU) 2021/821**: Quantum-Schluesselverteilungssysteme sind unter Position 5A002 (Information Security) und Position 5A004 (Quantum Computing) listenpflichtig.
+- **Wassenaar Arrangement** und **EU Dual-Use-Verordnung (EU) 2021/821**: Quantum-Schlüsselverteilungssysteme sind unter Position 5A002 (Information Security) und Position 5A004 (Quantum Computing) listenpflichtig.
 - **Telekommunikationsgesetz (TKG)** § 165 zur Sicherheit von Telekommunikationsnetzen.
 - **DSGVO** Art. 32 zur Sicherheit der Verarbeitung.
 - **ITU Radio Regulations**: Frequenzkoordinierung für Klassisch-Channel (Tracking, Telemetry, Command, Daten-Downlink).
 
 ## Architektur und Pflichtenmatrix
 
-- **Space Segment**: QKD-Payload (z. B. Polarisationskorrelation), Pointing-System, Klassisch-Funktion für Schluesselauthentifikation.
+- **Space Segment**: QKD-Payload (z. B. Polarisationskorrelation), Pointing-System, Klassisch-Funktion für Schlüsselauthentifikation.
 - **Ground Segment**: Optische Bodenstation, Wetterabhaengigkeit, Sichtbarkeitsfenster.
-- **Key Management System**: Schluesselverwertung in symmetrischer Krypto (AES-256 oder kuenftige PQC-Algorithmen).
+- **Key Management System**: Schlüsselverwertung in symmetrischer Krypto (AES-256 oder kuenftige PQC-Algorithmen).
 - **Trusted Node Architecture**: in EuroQCI mehrstufiges Vertrauensmodell.
 - **Sicherheitsanforderungen**: Common Criteria EAL 4+ als Minimum; bei GEHEIM-Stufe EAL 6+.
 
@@ -53,7 +53,7 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 - Cyber-Cover-Klauseln prüfen (oft Ausschluss bei staatlich gesponserten Angriffen).
 - Lloyd's LMA5403 als haufige Cyber-Ausschlussklausel.
 
-## Pruefraster
+## Prüfraster
 
 1. KRITIS-Pflicht ausgeloest? — § 8a BSIG.
 2. NIS2-Pflichten (Vorfallmeldung 24/72h, Risikomanagement)?
@@ -61,4 +61,4 @@ description: "Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Mi
 4. Sicherheitsueberpruefung der Mitarbeiter?
 5. Frequenzlizenz BNetzA?
 6. Versicherung deckt Cyber + kryptografischer Schaden?
-7. Schluesselmanagement nach BSI TR-02102?
+7. Schlüsselmanagement nach BSI TR-02102?

@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Krankenhausneubauten und Rein
 
 Krankenhausbauten erfordern besondere hygienische Anforderungen an Lueftungsanlagen, Oberflaechen und Medienversorgung.
 Die Bauueberwachung nach HOAI LPH 8 prüft Reinraum-Klassen nach DIN 1946-4, Hygiene-Estrich und OP-Lampen-Anschluesse.
-Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV mit spezifischen Pruefprotokollen.
+Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV mit spezifischen Prüfprotokollen.
 
 ## Bauwerk und Auftrag
 
@@ -43,7 +43,7 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 - DIN 13260 Medizinische Gasversorgung: Planung, Ausfuehrung und Prüfung
 - Strahlenschutzverordnung StrlSchV: Anforderungen an Strahlenraeume, Abschirmungsnachweis
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Lueftungsabnahmepruefung: Luftvolumenstrom, Ueberdruck-Messung, Filtercheck HEPA H14 laut DIN 1946-4
 2. Partikelzaehlung: Reinraumklasse nach ISO 14644-1 Klasse 5 oder 6, Messung nach DIN EN ISO 14644-3
@@ -56,16 +56,16 @@ Strahlenschutz-Raeume (Roentgen, MRT) erfordern Blei-Abschirmung nach StrlSchV m
 
 - BIM360 Coordination Krankenhaus: Clash-Detection Lueftung vs. Tragsystem vs. Medizingase
 - Dalux Field OP-Saal: Reinraum-Mangel mit Fotodokumentation, GPS-Pin im Grundriss, Verantwortlicher
-- Pruefprotokolle Reinraum: Partikelzaehlung nach ISO 14644-3, Luftkeimzahl, Druckdifferenz-Verlauf
+- Prüfprotokolle Reinraum: Partikelzaehlung nach ISO 14644-3, Luftkeimzahl, Druckdifferenz-Verlauf
 - Strahlenschutz-Gutachten: Roentgendosimetermessungen vor und nach Blei-Abschirmungseinbau
-- Medizingas-Pruefbericht: Druck, Durchfluss, Reinheit Sauerstoff, Zertifikat Pruefstelle
+- Medizingas-Prüfbericht: Druck, Durchfluss, Reinheit Sauerstoff, Zertifikat Prüfstelle
 
 ## Meldungserstellung im ERP / SAP
 
 - SAP PM EAM Krankenhaus: Equipment-Hierarchie OP-Saal/Lueftung/Medizingase, Wartungsplaene
 - SAP PM Meldung M1 DRINGEND: Ausfall Lueftungsanlage OP, Kostenstelle Medizintechnik, Eskalation
 - PlanRadar Hygiene-Abnahme: Mangel-Kategorien Lueftung/Oberflaeche/Medizingas, Status
-- BIM360 Docs: Strahlenschutz-Gutachten, Reinraum-Pruefzertifikate als Dokument angehaengt
+- BIM360 Docs: Strahlenschutz-Gutachten, Reinraum-Prüfzertifikate als Dokument angehaengt
 - Nevaris oder RIB iTWO: Schlusskostenfeststellung OP-Ausbau, Gewerke-Abrechnung Lueftung/Medizingas
 
 ## Typische Fallstricke

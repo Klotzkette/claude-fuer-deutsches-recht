@@ -1,6 +1,6 @@
 ---
 name: landlord-tenant-retail
-description: "Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code."
+description: "Prüft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims im US Bankruptcy Code."
 ---
 
 # Landlord Tenant and Retail Bankruptcy
@@ -12,7 +12,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 1 Abs. 1 KWG` — Bankgeschaefte.
 - `§ 32 Abs. 1 KWG` — Erlaubnispflicht.
 - `§ 25a Abs. 1 KWG` — ordnungsgemaesse Geschäftsorganisation.
-- `§ 44 Abs. 1 KWG` — Auskunfts- und Pruefungsrechte.
+- `§ 44 Abs. 1 KWG` — Auskunfts- und Prüfungsrechte.
 - `§ 1 Abs. 1 ZAG` — Zahlungsdienste.
 - `§ 10 Abs. 1 ZAG` — Erlaubnis Zahlungsinstitut.
 - `Art. 16 DORA` — vereinfachter IKT-Risikomanagementrahmen.

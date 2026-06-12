@@ -30,7 +30,7 @@ Bei Vorwuerfen eines Behandlungs- oder Aufklaerungsfehlers entscheidet die frueh
 
 ## Rechtlicher Rahmen
 - **BGB §§ 280, 630a-630h** Schadensersatz aus Behandlungsvertrag, Beweislast.
-- **BGB §§ 823, 831, 832** Delikt und Geschaeftsherrenhaftung.
+- **BGB §§ 823, 831, 832** Delikt und Geschäftsherrenhaftung.
 - **StGB §§ 223 ff., 211 ff.** Strafrechtliche Folgen.
 - **VVG, AHB** Haftpflichtversicherung.
 - **HeilberG der Länder** Aerztekammer-Schiedsstellen.

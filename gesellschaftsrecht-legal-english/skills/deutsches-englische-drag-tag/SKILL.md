@@ -1,6 +1,6 @@
 ---
 name: deutsches-englische-drag-tag
-description: "Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends im Gesellschaftsrecht Legal English."
+description: "Prüft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Übersetzungsregeln, Auslegung und False Friends im Gesellschaftsrecht Legal English."
 ---
 
 # Deutsches Recht, englische Vertragssprache

@@ -1,6 +1,6 @@
 ---
 name: lohn-pruefungen-drv-bp-haftung-stb
-description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Massnahmen im Steuerrecht Anwalt Und Berater."
+description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Maßnahmen im Steuerrecht Anwalt Und Berater."
 ---
 
 # DRV-Prüfung, Lohnsteuer-Aussenpruefung, StB-Haftung
@@ -23,18 +23,18 @@ description: "Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Ha
 
 ## Kernsachverhalt
 
-Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung des FA (anlassbezogen oder routinemaessig) sind die zentralen externen Pruefungen der Lohnbuchhaltung. Pruefthemen: SV-Status-Klassifikation, BBG-Einhaltung, Sachbezuege, Pauschalierungen, Aufzeichnungspflichten, Reisekosten. Der Steuerberater bereitet vor, begleitet die Prüfung und prüft Nachforderungen. Bei Pruefungsfehlern haftet der StB aus Mandantenvertrag (§ 280 BGB).
+Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung des FA (anlassbezogen oder routinemaessig) sind die zentralen externen Prüfungen der Lohnbuchhaltung. Prüfthemen: SV-Status-Klassifikation, BBG-Einhaltung, Sachbezuege, Pauschalierungen, Aufzeichnungspflichten, Reisekosten. Der Steuerberater bereitet vor, begleitet die Prüfung und prüft Nachforderungen. Bei Prüfungsfehlern haftet der StB aus Mandantenvertrag (§ 280 BGB).
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Prüfung wird angekuendigt — DRV, Lohnsteuer-Aussenpruefung, BG-Prüfung, Zoll?
-2. Welcher Pruefzeitraum (in der Regel 4 Jahre)?
-3. Welche Pruefthemen sind erkennbar?
+2. Welcher Prüfzeitraum (in der Regel 4 Jahre)?
+3. Welche Prüfthemen sind erkennbar?
 4. Liegen vorherige Prüfungs-Beanstandungen vor?
 5. Welche kritischen Lohn-Themen im Mandantenbetrieb (Werkvertrag, Sachbezug, GGF-Status)?
 6. Welche Unterlagen müssen vorgelegt werden?
 7. Welcher Prüfer ist zuständig?
-8. Welche Mandantenkommunikation zur Pruefungsbegleitung?
+8. Welche Mandantenkommunikation zur Prüfungsbegleitung?
 
 ## Rechtlicher Rahmen
 
@@ -44,13 +44,13 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 
 **§ 42f EStG** — Lohnsteuer-Aussenpruefung (Prüfung beim AG durch das FA).
 
-**§§ 193-203 AO** — Allgemeine Pruefungsbefugnis (subsidiaer; § 42f EStG ist lex specialis für LSt).
+**§§ 193-203 AO** — Allgemeine Prüfungsbefugnis (subsidiaer; § 42f EStG ist lex specialis für LSt).
 
 **§ 280 BGB** — Schadensersatz Pflichtverletzung (Anspruchsgrundlage Mandant gegen StB).
 
 **§ 67 StBerG** — StB-Berufshaftpflicht (Pflicht-Versicherung).
 
-**§ 33 StBVV** — Honorar Pruefungsbegleitung (Gegenstandswert Pruefungsergebnis).
+**§ 33 StBVV** — Honorar Prüfungsbegleitung (Gegenstandswert Prüfungsergebnis).
 
 ### Verwaltungsanweisungen
 
@@ -59,12 +59,12 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 
 ## Workflow
 
-### Phase 1 — Pruefungsankuendigung
+### Phase 1 — Prüfungsankuendigung
 
-- Schriftliche Ankuendigung mit Pruefzeitraum.
+- Schriftliche Ankuendigung mit Prüfzeitraum.
 - Prüfungs-Inhalt grob benannt.
 - Vorlage-Frist Unterlagen.
-- Pruefdauer (in der Regel 3-5 Tage vor Ort).
+- Prüfdauer (in der Regel 3-5 Tage vor Ort).
 
 ### Phase 2 — Vorbereitung
 
@@ -96,14 +96,14 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 
 - StB als Bevollmaechtigter vor Ort.
 - Auf Fragen sachlich-fachlich antworten.
-- Bei strittigen Punkten: nicht ueberhasten zustimmen; auf Pruefbericht warten.
-- Dokumentation aller Pruefgespraeche.
+- Bei strittigen Punkten: nicht ueberhasten zustimmen; auf Prüfbericht warten.
+- Dokumentation aller Prüfgespraeche.
 
-### Phase 5 — Pruefbericht und Schlussbesprechung
+### Phase 5 — Prüfbericht und Schlussbesprechung
 
-- Pruefbericht mit Beanstandungen und Nachforderungen.
+- Prüfbericht mit Beanstandungen und Nachforderungen.
 - Schlussbesprechung mit Prüfer und Mandant: strittige Punkte klären.
-- Bei Streitpunkten: Einspruch (§ 347 AO) im Pruefungsbescheid.
+- Bei Streitpunkten: Einspruch (§ 347 AO) im Prüfungsbescheid.
 
 ### Phase 6 — Reaktion und Haftungs-Prüfung
 
@@ -117,7 +117,7 @@ Die DRV-Sozialversicherungspruefung (alle 4 Jahre) und Lohnsteuer-Aussenpruefung
 - Bei Lohnsteuer-Aussenpruefung haeufig Anlass aus E-Bilanz-Auffaelligkeiten oder Prüfung beim Unterauftragnehmer.
 - StB-Haftungsrisiko hoch bei Sachbezugs-, GGF-Status-, Minijob-Fehlern — sorgfaeltige Dokumentation Standard.
 - Prüfer-Argumente nicht vorschnell akzeptieren — bei zweifelhaften Rechtsfragen Anwalt einschalten.
-- StBVV: Pruefungsbegleitung nach Gegenstandswert Pruefungsergebnis oder Zeithonorar.
+- StBVV: Prüfungsbegleitung nach Gegenstandswert Prüfungsergebnis oder Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Prüfer-Sicht-Modus mit Prüfer-Datenexport.
 
 ## Quellen und Updates

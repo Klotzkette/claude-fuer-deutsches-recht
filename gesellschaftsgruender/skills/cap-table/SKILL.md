@@ -35,12 +35,12 @@ Klaere vor Erstellung des Cap Table:
 
 ## Zentrale Normen
 
-- **§ 40 GmbHG** — Gesellschafterliste; Einreichungspflicht beim Handelsregister bei jeder Aenderung; Oeffentlichkeitswirkung
+- **§ 40 GmbHG** — Gesellschafterliste; Einreichungspflicht beim Handelsregister bei jeder Änderung; Oeffentlichkeitswirkung
 - **§ 16 GmbHG** — Legitimationswirkung der Gesellschafterliste; nur eingetragener Gesellschafter gilt als berechtigt
 - **§ 55 GmbHG** — Kapitalerhoehung; Beschluss der Gesellschafterversammlung (Mehrheit 3/4)
 - **§ 55a GmbHG** — Genehmigtes Kapital bei GmbH (Satzungsermaechtigung für GF)
-- **§ 34 GmbHG** — Einziehung von Geschaeftsanteilen; Grundlage für Bad-Leaver-Klauseln
-- **§ 15 GmbHG** — Abtretung von Geschaeftsanteilen; notarielle Beurkundung zwingend
+- **§ 34 GmbHG** — Einziehung von Geschäftsanteilen; Grundlage für Bad-Leaver-Klauseln
+- **§ 15 GmbHG** — Abtretung von Geschäftsanteilen; notarielle Beurkundung zwingend
 
 ## Aktuelle Rechtsprechung
 
@@ -126,7 +126,7 @@ Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-share-classes-a-b-c` — bei mehreren Klassen
 - `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — Verwässerung und neue Runde

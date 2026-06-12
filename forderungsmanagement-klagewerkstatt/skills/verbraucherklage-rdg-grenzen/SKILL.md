@@ -1,11 +1,11 @@
 ---
 name: verbraucherklage-rdg-grenzen
-description: "Pruefung was Inkassodienstleister und Rechtsanwaelte gegenueber Verbrauchern duerfen und was nicht. Trennt Inkassoerlaubnis von anwaltlicher Vertretung. Pinpoints RDG 2 RDG 10 RDG 11a Hinweispflicht BGB 312j AGB-Kontrolle 305 ff. Liefert Pruefraster Hinweistexte und Klagestrategie."
+description: "Prüfung was Inkassodienstleister und Rechtsanwaelte gegenueber Verbrauchern duerfen und was nicht. Trennt Inkassoerlaubnis von anwaltlicher Vertretung. Pinpoints RDG 2 RDG 10 RDG 11a Hinweispflicht BGB 312j AGB-Kontrolle 305 ff. Liefert Prüfraster Hinweistexte und Klagestrategie."
 ---
 
 # Verbraucherklage RDG-Grenzen
 
-Wenn Glaeubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenzen gegenueber Verbrauchern.
+Wenn Gläubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenzen gegenueber Verbrauchern.
 
 ## Was Inkasso darf RDG 10
 
@@ -26,7 +26,7 @@ Wenn Glaeubiger ein gewerblicher Inkassodienstleister ist gelten besondere Grenz
 
 ## Inkassokosten bei Verbrauchern
 
-RDG 13c hat die Höhe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwanzig Komma drei Euro. Bei groesseren Forderungen Schwellen nach Streitwert. Pauschale 40 Euro BGB 288 Abs. 5 gilt nicht im Verhaeltnis zu Verbrauchern.
+RDG 13c hat die Höhe gedeckelt. Bei Forderungen bis 50 Euro maximal vierundzwanzig Komma drei Euro. Bei groesseren Forderungen Schwellen nach Streitwert. Pauschale 40 Euro BGB 288 Abs. 5 gilt nicht im Verhältnis zu Verbrauchern.
 
 ## AGB-Kontrolle in Verbrauchervertraegen
 

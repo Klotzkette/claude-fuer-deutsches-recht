@@ -1,9 +1,9 @@
 ---
 name: aussenpruefung-anordnung-pruefung
-description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsg..."
+description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Prüfungsanordnung §§ 196 197 AO Prüfungserweiterung Schlussbesprechung § 201 AO Prüfungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Prüfungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsg..."
 ---
 
-# Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung
+# Aussenpruefung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung
 
 ## Fachlicher Anker
 
@@ -13,9 +13,9 @@ description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanor
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Ist die Pruefungsanordnung formell ordnungsgemaess (Adressat Pruefungsumfang Prüfer Termin)?
+1. Ist die Prüfungsanordnung formell ordnungsgemaess (Adressat Prüfungsumfang Prüfer Termin)?
 2. Welche Steuerarten und Veranlagungszeitraeume sind erfasst?
-3. Ist eine Pruefungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
+3. Ist eine Prüfungserweiterung erfolgt oder droht sie — Antrag auf Beschraenkung sinnvoll?
 4. Welche Daten müssen GoBD-konform bereitgestellt werden (Z1 Z2 Z3 Zugriff)?
 5. Wirkung der Prüfung auf Festsetzungsfrist § 171 Abs. 4 AO?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -23,11 +23,11 @@ description: "Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanor
 ## Rechtsgrundlagen
 
 - **§ 193 AO** — Zulaessigkeit der Aussenpruefung.
-- **§ 196 AO** — Pruefungsanordnung.
-- **§ 197 AO** — Bekanntgabe der Pruefungsanordnung.
+- **§ 196 AO** — Prüfungsanordnung.
+- **§ 197 AO** — Bekanntgabe der Prüfungsanordnung.
 - **§ 200 AO** — Mitwirkungspflicht.
 - **§ 201 AO** — Schlussbesprechung.
-- **§ 202 AO** — Pruefungsbericht.
+- **§ 202 AO** — Prüfungsbericht.
 - **§ 171 Abs. 4 AO** — Ablaufhemmung.
 - **GoBD** — Grundsaetze zur ordnungsmäßigen Fuehrung von Buechern.
 

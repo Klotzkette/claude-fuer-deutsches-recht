@@ -13,7 +13,7 @@ description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall On
 
 ## Kernsachverhalt
 
-Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prüft der Steuerberater die lohn- und sv-rechtlich relevanten Klauseln: Gehalt brutto/netto, Mehrarbeitsregelung, Sachbezuege, Dienstwagen, JobRad, bAV, Vermoegenswirksame Leistungen, Sonderzahlungen, Befristung. Fehlerhafte Verträge fuehren zu falscher Abrechnung oder steuerlichen Haftungsrisiken.
+Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prüft der Steuerberater die lohn- und sv-rechtlich relevanten Klauseln: Gehalt brutto/netto, Mehrarbeitsregelung, Sachbezuege, Dienstwagen, JobRad, bAV, Vermögenswirksame Leistungen, Sonderzahlungen, Befristung. Fehlerhafte Verträge fuehren zu falscher Abrechnung oder steuerlichen Haftungsrisiken.
 
 ## Kaltstart-Rueckfragen
 
@@ -56,14 +56,14 @@ Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prüft der Steu
 
 - Arbeitsvertrag im Original (PDF oder Papier).
 - Anlagen: Tarifvertrag, Betriebsvereinbarung.
-- Nachtraege (Aenderungen, Gehaltserhoehungen).
+- Nachtraege (Änderungen, Gehaltserhoehungen).
 
 ### Phase 2 — Pflichtklauseln § 2 NachweisG
 
 - Name und Anschrift Vertragsparteien.
 - Vertragsbeginn, Befristung.
 - Arbeitsort.
-- Beschaeftigung (Taetigkeitsbeschreibung).
+- Beschäftigung (Taetigkeitsbeschreibung).
 - Arbeitsentgelt mit Zusammensetzung.
 - Arbeitszeit, Pausen, Mehrarbeit.
 - Urlaubsanspruch.
@@ -93,12 +93,12 @@ Bevor ein Arbeitsvertrag in die Lohnabrechnung uebernommen wird, prüft der Steu
 
 ### Phase 5 — Sonderfaelle
 
-- Gesellschafter-Geschaeftsfuehrer: SV-Pflicht-Prüfung gesondert.
+- Gesellschafter-Geschäftsführer: SV-Pflicht-Prüfung gesondert.
 - Werkstudent: 20-Stunden-Woche-Grenze; SV-Sonderstatus.
 - Minijob: 538-EUR-Grenze (Stand 01.01.2024; bei MiLo-Anhebung dynamisch).
 - Aushilfskraft kurzfristig: max. 3 Monate oder 70 Arbeitstage pro Jahr.
 
-### Phase 6 — Pruefnotiz und Empfehlung
+### Phase 6 — Prüfnotiz und Empfehlung
 
 ```
 PRUEFNOTIZ ARBEITSVERTRAG

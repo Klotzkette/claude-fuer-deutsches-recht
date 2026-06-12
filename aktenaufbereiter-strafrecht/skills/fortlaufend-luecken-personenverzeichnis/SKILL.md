@@ -55,4 +55,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - Wurden Beweismittel über EEA / Rechtshilfe beschafft?
  - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
  - Internationale Vorermittlungen Europol / Eurojust?
-- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern über Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.
+- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern über Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Übersetzung beglaubigter Form.

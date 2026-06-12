@@ -24,7 +24,7 @@ Stand: 27.05.2026. Diese Referenz beschreibt die technische Kontrollschicht des 
 ## Was die API nicht leisten soll
 
 - keine Erstregistrierung im Namen einer Interessenvertreterin absenden
-- keine Aenderungsmeldung, Quartalsmeldung oder Stellungnahme im Portal einreichen
+- keine Änderungsmeldung, Quartalsmeldung oder Stellungnahme im Portal einreichen
 - keine Bestaetigungsdokumente oder Portal-Freigaben ersetzen
 - keine Aussage "XML-Einreichung möglich" treffen, solange die offizielle Dokumentation nur den lesenden Abruf oeffentlicher Inhalte belegt
 - keinen API-Key fest in Akten, Skripten oder Mandatsdaten speichern
@@ -51,7 +51,7 @@ Der Query-Parameter `apikey` ist dokumentiert, sollte aber nur für schnelle Tes
 | Zweck | Methode und Pfad | Typischer Einsatz |
 |---|---|---|
 | Einzelner Eintrag | `GET /registerentries/{registerNumber}?format=json` | veroeffentlichten Registereintrag nach Registernummer prüfen |
-| Versionierter Eintrag | `GET /registerentries/{registerNumber}/{version}?format=json` | Aenderungshistorie und Diff zwischen Versionen prüfen |
+| Versionierter Eintrag | `GET /registerentries/{registerNumber}/{version}?format=json` | Änderungshistorie und Diff zwischen Versionen prüfen |
 | Freitextsuche | `GET /registerentries?q={suchbegriff}&format=json` | Organisation, Branche, Vorhaben oder Gegenpartei suchen |
 | Statistik | `GET /statistics/registerentries?format=json` | Datenstand, Plausibilitaet und Monitoring-Kontext dokumentieren |
 
@@ -64,7 +64,7 @@ Bei Suchanfragen muss das Plugin die Cursor-Regel aus der YAML-Dokumentation bea
 1. erste Anfrage mit allen Suchparametern senden
 2. `cursor` der Antwort sichern
 3. Folgeanfrage mit denselben Suchparametern plus `cursor` senden
-4. wiederholen, bis sich der Cursor nicht mehr aendert
+4. wiederholen, bis sich der Cursor nicht mehr ändert
 5. jede Antwort mit `sourceDate`, Suchbegriff, Cursor und Hash in der Akte speichern
 
 ## Beispielabfragen

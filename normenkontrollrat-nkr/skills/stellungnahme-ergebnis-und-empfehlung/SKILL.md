@@ -29,12 +29,12 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 |---|---|---|
 | 1 — neutral | "Der NKR hat im Rahmen seines gesetzlichen Auftrags keine Einwaende gegen die Darstellung der Gesetzesfolgen." | unproblematisch |
 | 2 — Bemerkungen | "Der NKR macht im Hinblick auf den Erfuellungsaufwand folgende Bemerkungen ..." | konstruktive Hinweise |
-| 3 — Empfehlungen | "Der NKR empfiehlt ..." | konkretes Aenderungsvorschlag |
+| 3 — Empfehlungen | "Der NKR empfiehlt ..." | konkretes Änderungsvorschlag |
 | 4 — Einwaende | "Der NKR hat Einwaende gegen die Darstellung des Erfuellungsaufwands." | methodische Maengel |
 | 5 — Bedenken | "Der NKR hat erhebliche Bedenken im Hinblick auf [Aspekt]." | substantielle Kritik |
 | 6 — Mahnender Charakter | "Der NKR weist nachdruecklich darauf hin, dass ..." | hoechste Stufe |
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Empfehlungen formulieren** — nummeriert, konkret, ohne politische Wertung
 2. **Eskalationsstufe waehlen** — passend zum Befund
@@ -66,7 +66,7 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe — keine Einwaende, Bemer
 > 1. die Lebensbescheid-Pflicht von monatlich auf jaehrlich umzustellen, da der monatliche Turnus den Erfuellungsaufwand für die Wirtschaft mehrfach ohne entsprechenden Mehrnutzen erhoeht;
 > 2. eine zentrale Loesung über das Handelsregistergericht zu prüfen, die das Once-Only-Prinzip erfuellt;
 > 3. einen Schwellenwert zur Entlastung von Kleinst- und Kleinunternehmen aufzunehmen;
-> 4. eine Evaluierungsklausel mit Frist 3 Jahre vorzusehen, die insbesondere die tatsaechlichen Fallzahlen und Erfuellungsaufwand-Werte ueberprueft."
+> 4. eine Evaluierungsklausel mit Frist 3 Jahre vorzusehen, die insbesondere die tatsaechlichen Fallzahlen und Erfuellungsaufwand-Werte überprüft."
 
 ### Ergebnis-Formeln (drei Standardfaelle)
 

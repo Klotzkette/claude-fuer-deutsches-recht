@@ -1,9 +1,9 @@
 ---
 name: vertragsaenderung-132-gwb-change-control
-description: "Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation: Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentlic..."
+description: "Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation: Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentlic..."
 ---
 
-# Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
+# Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prue
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
+**Fokus:** Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
 
 ### Paragraph 132 GWB Vertragsaenderung
 
@@ -35,11 +35,11 @@ description: "Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prue
 
 ## Typische Outputs
 
-Aenderungsmatrix, Neuausschreibungsrisiko, Vermerk, Freigabeempfehlung.
+Änderungsmatrix, Neuausschreibungsrisiko, Vermerk, Freigabeempfehlung.
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

@@ -1,6 +1,6 @@
 ---
 name: handwerker-solo
-description: "Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Pruefer."
+description: "Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit im Sozialversicherungsstatus Prüfer."
 ---
 
 # Solo-Handwerker

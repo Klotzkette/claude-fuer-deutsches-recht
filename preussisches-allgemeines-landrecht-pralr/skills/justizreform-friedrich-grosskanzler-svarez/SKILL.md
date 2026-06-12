@@ -1,6 +1,6 @@
 ---
 name: justizreform-friedrich-grosskanzler-svarez
-description: "Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsme..."
+description: "Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhältnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix: prüft konkret die einschlägigen Tatbestandsme..."
 ---
 
 # Pralr Justizreform Friedrich Grosskanzler Svarez
@@ -57,7 +57,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - AGO bis 1879.
 - Carmer und Svarez als Architekten der modernen deutschen Rechtskultur.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Reform?
 2. Welche Quellen?

@@ -33,7 +33,7 @@ Art. 33 Abs. 1; Art. 33 Abs. 3 lit. a-d; Art. 33 Abs. 4; Art. 33 Abs. 5; Art. 55
 
 ## Berliner Struktur als Goldstandard
 
-Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Pruefliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
+Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informationsfreiheit deckt strukturell alle Pflichtangaben nach Art. 33 Abs. 3 DSGVO ab und wird als inhaltliche Prüfliste verwendet. Die Meldung gliedert sich in sechs Bloecke:
 
 **I. Wo ist die Datenpanne passiert?**
 - Verantwortliche Stelle (Unternehmen, Verein, Praxis, Behörde) — Name, Anschrift, Webseite, Branche.
@@ -45,7 +45,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 - Auftragsverarbeiter beteiligt — falls ja Name und Anschrift.
 - Beginn und Dauer der Datenpanne; ggf. fruehestmoeglichen Zeitpunkt.
 - Datum der Kenntnisnahme (loest 72-Stunden-Frist aus).
-- Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhaeltnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
+- Betroffene Datenarten — Namen; Adressen; E-Mail-Adressen; Standort; Geburtsdatum; Passwoerter; Personalausweisnummer; Pass; Steuernummer; Bankdaten; wirtschaftliche Verhältnisse; Straftaten; politische Meinungen; religioese Ueberzeugungen; Gewerkschaftszugehoerigkeit; Gesundheit; Sexualitaet; ethnische Herkunft; Biometrie; Identifikationsnummern; Fotos/Videos; unbekannt.
 - Art. 9 DSGVO-Daten ja/nein/nicht bekannt.
 - Kategorien betroffener Personen — Mitarbeitende; Nutzer; Kunden; Patienten; Politiker; Kinder/Minderjaehrige; Personen öffentlichen Lebens; andere.
 - Anzahl betroffener Personen (Obergrenze).
@@ -66,7 +66,7 @@ Die Meldeformular-Vorlage der Berliner Beauftragten für Datenschutz und Informa
 - Forensischer Untersuchungsbericht.
 - Auflistung der technischen und organisatorischen Maßnahmen.
 - Muster Benachrichtigungsschreiben Art. 34 DSGVO.
-- Schluesselmaterial (PGP).
+- Schlüsselmaterial (PGP).
 
 **VI. Abschluss**
 - Vorlaeufige Meldung ja/nein; bei vorläufiger Meldung Ergaenzung binnen 14 Tagen.

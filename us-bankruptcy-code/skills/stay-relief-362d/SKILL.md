@@ -1,6 +1,6 @@
 ---
 name: stay-relief-362d
-description: "Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code."
+description: "Prüft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization im US Bankruptcy Code."
 ---
 
 # Stay Relief § 362(d)

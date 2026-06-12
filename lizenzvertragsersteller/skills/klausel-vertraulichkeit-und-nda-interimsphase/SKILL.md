@@ -7,7 +7,7 @@ description: "Vertraulichkeitsklausel im Lizenzvertrag sowie NDA fuer Interimsph
 
 ## Zweck
 
-Bei Lizenzverhandlungen werden Geschaeftsgeheimnisse, Patentinformationen, Roadmaps offengelegt. Schutz erforderlich.
+Bei Lizenzverhandlungen werden Geschäftsgeheimnisse, Patentinformationen, Roadmaps offengelegt. Schutz erforderlich.
 
 ## Interim-NDA (vor Vertragsschluss)
 
@@ -29,7 +29,7 @@ Standardtext für die Verhandlungs-/DD-Phase:
 >
 > (1) Beide Parteien verpflichten sich, alle im Zusammenhang mit diesem Vertrag erhaltenen vertraulichen Informationen der jeweils anderen Partei geheim zu halten.
 >
-> (2) "Vertrauliche Information" bezeichnet alle technischen, kommerziellen, finanziellen, geschaeftlichen, personellen, wissenschaftlichen oder organisatorischen Informationen, die als vertraulich gekennzeichnet oder erkennbar geheimhaltungsbeduerftig sind. Dies umfasst insbesondere den Lizenzgegenstand, Anlage A, Royalty-Hoehen, Audit-Berichte, Sub-Lizenz-Konditionen, Roadmap-Informationen.
+> (2) "Vertrauliche Information" bezeichnet alle technischen, kommerziellen, finanziellen, geschäftlichen, personellen, wissenschaftlichen oder organisatorischen Informationen, die als vertraulich gekennzeichnet oder erkennbar geheimhaltungsbeduerftig sind. Dies umfasst insbesondere den Lizenzgegenstand, Anlage A, Royalty-Hoehen, Audit-Berichte, Sub-Lizenz-Konditionen, Roadmap-Informationen.
 >
 > (3) Ausnahmen: Eine Information ist nicht vertraulich, wenn sie
 >   a) öffentlich bekannt ist oder waehrend der Laufzeit dieses Vertrages ohne Verschulden der empfangenden Partei öffentlich wird;
@@ -43,5 +43,5 @@ Standardtext für die Verhandlungs-/DD-Phase:
 
 ## Anschluss
 
-- Geschaeftsgeheimnis-Lizenz: `lizenz-geschaeftsgeheimnis-knowhow-geschgehg`
+- Geschäftsgeheimnis-Lizenz: `lizenz-geschaeftsgeheimnis-knowhow-geschgehg`
 - Datenschutz: `datenschutz-dsgvo-im-lizenzvertrag`

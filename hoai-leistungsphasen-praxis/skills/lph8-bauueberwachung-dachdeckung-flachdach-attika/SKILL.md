@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Pruefung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flu..."
+description: "Bauueberwachung HOAI LPH 8 für Flachdach- und Attikakonstruktionen — Kontrolle Dachabdichtung nach DIN 18531 und Flachdach-Richtlinie ZVDH 2016, Dampfsperre-Verleguekontrolle, Waermedaemmung nach DIN 4108-2 WLG-Prüfung, Attikaabdeckung Blechanschluss nach DIN 18339, Notablaufkontrolle, Probe-Flu..."
 ---
 
 # Bauueberwachung Flachdach und Attika
@@ -41,7 +41,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 - DIN 4108-2:2013-02 Mindestwärmeschutz: Wärmedaemmung Dach, Mindestwiderstand für Taupunkt-Sicherheit
 - DIN 18339:2019-09 Klempnerarbeiten: Blechabdeckungen, Kehlen, Tropfkanten, Dehnungsfugen Attikaabdeckung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Gefaellekontrolle: Lasernivelliermessung Rasterpunkte 5 m x 5 m, Mindestgefaelle 2 Prozent nach ZVDH, Flachstellen und Pfuetzenbildung erkannt
 2. Nahtfestigkeitspruefung: Schraelschnitt-Nahtschraegschnitt-Test nach DIN EN 12316 je 100 qm, Biegeverformung ohne Abloesung 180 Grad
@@ -70,7 +70,7 @@ Flachdachkonstruktionen sind besonders fehleranfaellig: Mangelhafte Dampfsperren
 
 - Dampfsperre fehlerhaft an Attikainnenseite: Kondenswasser bildet sich im Dachaufbau, nach 5 Jahren Feuchteschaden Daemmung und Decke
 - Bitumenbahn kalt verlegt ohne Vorwaermung: Schlechte Haftung bei Temperaturen unter 5 degC, Abloesung bei erster Hitzeperiode
-- Notablauf unter Daemmung begraben: Bei Verstopfung Hauptablauf kein Notueberlauf, Ponding-Ueberlastung Dachhaut
+- Notablauf unter Daemmung begraben: Bei Verstopfung Hauptablauf kein Notueberlauf, Ponding-Überlastung Dachhaut
 - Kein Dehnungsprofil Attikaabdeckung: Waermedehnung Blech fuehrt zu Ausbeulung oder Abloesung Klemmleiste
 
 ## Hinweise zur Qualitaetssicherung

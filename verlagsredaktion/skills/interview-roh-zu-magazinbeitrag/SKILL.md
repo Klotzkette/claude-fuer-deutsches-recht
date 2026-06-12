@@ -40,8 +40,8 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 3. **Frageblock neu konstruieren.** Originalfragen umformulieren, neue Fragen einfuegen, wenn die Antwort thematisch logisch dazu gehoert. Reihenfolge oft umstellen.
 4. **Antworten glaetten.** "Aehs", Doppelungen, Selbstkorrekturen raus. Lange Saetze verkuerzen, ohne Bedeutung zu ändern.
 5. **Brisante Passagen markieren.** Wo eine Aussage später Kritik ausloesen koennte: Interviewter ausdruecklich auf diese Passage hinweisen vor Autorisierung.
-6. **Autorisierungsfassung.** Mit deutlichem Hinweis "Bitte autorisieren - Aenderungen bitte als Track-Changes" an Interviewte schicken.
-7. **Nach Autorisierung**: Aenderungen prüfen. Bei substantieller Aenderung ("ich habe das nie so gesagt") Originaltonbeleg prüfen, Ruecksprache.
+6. **Autorisierungsfassung.** Mit deutlichem Hinweis "Bitte autorisieren - Änderungen bitte als Track-Changes" an Interviewte schicken.
+7. **Nach Autorisierung**: Änderungen prüfen. Bei substantieller Änderung ("ich habe das nie so gesagt") Originaltonbeleg prüfen, Ruecksprache.
 8. **Bildmaterial einplanen.** Portrait (Rechte!), ggf. zwei kleine Statementkaesten.
 
 ## Trade-off-Matrix
@@ -50,7 +50,7 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 |------|----------------------------|--------------------------------------|------------|
 | Authentizitaet | hoch | mittel | A bei Wissenschafts-Interview |
 | Lesbarkeit | mittel | hoch | B bei Fachmagazin |
-| Autorisierungs-Aufwand | gering | hoch | B nur mit gutem Verhaeltnis zur Interviewten |
+| Autorisierungs-Aufwand | gering | hoch | B nur mit gutem Verhältnis zur Interviewten |
 
 ## Praxistipps der alten Redaktion
 
@@ -63,7 +63,7 @@ Sie brauchen ihn, wenn ein Interview-Transkript vorliegt und daraus ein Print- o
 
 **Autorisierungs-Anschreiben:**
 
-> Sehr geehrte Frau Vorsitzende Richterin, anbei die redaktionelle Druckfassung unseres Gespraechs vom 14.05.2026 (Aufnahmedauer 78 Minuten, verdichtet auf rund 12.000 Zeichen, sechs Fragen). Bitte autorisieren Sie das Interview oder bitten Sie um Aenderungen direkt im Dokument (Track Changes). Brisante Stellen (S. 2 zur Verfassungsbeschwerde, S. 4 zur Kollegialitaet im Senat) haben wir gelb markiert - bitte besonders auf diese Passagen achten. Wir benoetigen Ihre Rueckmeldung bis 26.06.2026, damit die Ausgabe 07/2026 noch erreicht wird.
+> Sehr geehrte Frau Vorsitzende Richterin, anbei die redaktionelle Druckfassung unseres Gespraechs vom 14.05.2026 (Aufnahmedauer 78 Minuten, verdichtet auf rund 12.000 Zeichen, sechs Fragen). Bitte autorisieren Sie das Interview oder bitten Sie um Änderungen direkt im Dokument (Track Changes). Brisante Stellen (S. 2 zur Verfassungsbeschwerde, S. 4 zur Kollegialitaet im Senat) haben wir gelb markiert - bitte besonders auf diese Passagen achten. Wir benoetigen Ihre Rueckmeldung bis 26.06.2026, damit die Ausgabe 07/2026 noch erreicht wird.
 
 **Interview-Standardelemente für Druck:**
 

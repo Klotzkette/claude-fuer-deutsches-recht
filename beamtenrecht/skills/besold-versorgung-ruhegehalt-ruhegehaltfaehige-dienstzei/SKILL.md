@@ -41,7 +41,7 @@ description: "Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit i
 - §§ 1587 ff. BGB.
 - Externes Versorgungssystem für Ex-Ehepartner.
 
-## Pruefraster
+## Prüfraster
 
 1. Wartezeit erfuellt?
 2. Welche Dienstzeit?

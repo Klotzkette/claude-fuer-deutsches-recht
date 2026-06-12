@@ -24,7 +24,7 @@ description: "PrALR: Erbrecht, Testierfreiheit, Familienbindung, Pflichtteile un
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 12 §§ 1-100**: Allgemeines Erbrecht; Anfall der Erbschaft mit dem Tod (delatio); Anspruch auf "ungetheilte Erbschaft".
 - **ALR I 12 §§ 200-300**: Testament; öffentlich (vor Gericht) oder privatschriftlich mit Zeugen.
 - **ALR I 12 §§ 380-440**: Pflichtteilsrecht — kasuistisch nach Verwandtschaftsgrad gestaffelt.

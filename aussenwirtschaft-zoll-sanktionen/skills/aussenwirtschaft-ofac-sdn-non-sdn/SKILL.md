@@ -36,7 +36,7 @@ description: "US-OFAC-Sanktionsregime für deutsche und EU-Unternehmen: SDN List
 - **AWG § 4 Abs. 1 Nr. 4**: Schutz wesentlicher Sicherheitsinteressen als Rechtsgrundlage.
 - **§ 18 AWG**: Strafbarkeit bei Sanktionsverstoss nach deutschem Recht.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] US-Nexus (USD, US-Person, US-Technologie) identifiziert?
 - [ ] SDN-Liste und SSI-Liste für alle Parteien geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

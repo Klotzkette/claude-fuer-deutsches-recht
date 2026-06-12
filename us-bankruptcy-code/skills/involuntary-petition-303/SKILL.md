@@ -1,6 +1,6 @@
 ---
 name: involuntary-petition-303
-description: "Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code."
+description: "Prüft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk im US Bankruptcy Code."
 ---
 
 # Involuntary Petition § 303

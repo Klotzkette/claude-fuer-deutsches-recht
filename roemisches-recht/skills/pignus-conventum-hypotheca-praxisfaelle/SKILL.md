@@ -16,14 +16,14 @@ description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemisch
 ## Pignus
 
 - Verpfaendung mit Besitzuebergabe.
-- Glaeubiger erhaelt Realbesitz.
+- Gläubiger erhaelt Realbesitz.
 - Bei Nichterfuellung Verkaufsbefugnis.
 
 ## Hypotheca
 
 - Verpfaendung ohne Besitzuebergabe.
 - Hauptschuldner behaelt Sache.
-- Glaeubiger erhielt actio Serviana, actio quasi-Serviana, actio hypothecaria.
+- Gläubiger erhielt actio Serviana, actio quasi-Serviana, actio hypothecaria.
 
 ## Sondertyp invecta et illata
 
@@ -42,7 +42,7 @@ description: "Pignus conventum und hypotheca: dingliche Sicherheiten im roemisch
 - § 562 BGB Vermieterpfandrecht (Pendant invecta et illata).
 - § 559 BGB Verpfaendung in der Mietsache.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Sicherungsform?
 2. Besitzuebergabe erfolgt?

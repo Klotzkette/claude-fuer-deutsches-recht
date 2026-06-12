@@ -1,6 +1,6 @@
 ---
 name: hochschule-ki-taeuschung-anscheinsbeweis
-description: "KI-Nutzung in Hochschulpruefungen: Taeschungsvorwurf, Anscheinsbeweis, Indizienbuendel, Beweislast der Hochschule, subjektives Element, Anhörung, Pruefungsrecht und DSGVO-Schnittstelle. Erzeugt Verteidigungs- oder Hochschulvermerk ohne blinde Detektor-Glaeubigkeit."
+description: "KI-Nutzung in Hochschulpruefungen: Taeschungsvorwurf, Anscheinsbeweis, Indizienbuendel, Beweislast der Hochschule, subjektives Element, Anhörung, Prüfungsrecht und DSGVO-Schnittstelle. Erzeugt Verteidigungs- oder Hochschulvermerk ohne blinde Detektor-Gläubigkeit."
 ---
 
 # Hochschule: KI-Täuschung und Anscheinsbeweis

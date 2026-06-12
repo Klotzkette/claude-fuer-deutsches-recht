@@ -37,7 +37,7 @@ description: "Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vert
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## LDD-Workstreams — Pruefungsmatrix
+## LDD-Workstreams — Prüfungsmatrix
 
 | Workstream | Kerndokumente | Hauptrisiken | Vertragsmechanismus |
 |---|---|---|---|

@@ -1,9 +1,9 @@
 ---
 name: vermoegensverfall-steuerberater-kammerantwort
-description: "Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
+description: "Steuerberater: vermögensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Steuerberater."
 ---
 
-# Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+# Steuerberater: vermögensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Normenanker
 
@@ -30,7 +30,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Steuerberater: vermoegensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+## Konkreter Berufsrechtskern: Steuerberater: vermögensverfall steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 - **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
 - **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.

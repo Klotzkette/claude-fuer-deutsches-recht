@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-ueberbau-akten
-description: "Pruefer: Fristennotiz und nächster Schritt."
+description: "Prüfer: Fristennotiz und nächster Schritt."
 ---
 
 # Prüfer: Fristennotiz und nächster Schritt

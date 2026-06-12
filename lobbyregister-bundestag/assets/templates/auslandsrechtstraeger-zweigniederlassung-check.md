@@ -1,8 +1,8 @@
 # Auslandsrechtstraeger und unselbststaendige Zweigniederlassung
 
-| Pruefpunkt | Befund | Beleg | Risiko | Naechste Handlung |
+| Prüfpunkt | Befund | Beleg | Risiko | Naechste Handlung |
 |---|---|---|---|---|
-| Auslaendischer Rechtstraeger existiert |  |  |  |  |
+| Ausländischer Rechtstraeger existiert |  |  |  |  |
 | Deutsche Zweigniederlassung ist unselbststaendig |  |  |  |  |
 | Handelsregistereintragung DE |  |  |  |  |
 | Bank-/Aufsichtserlaubnis oder Passporting |  |  |  |  |

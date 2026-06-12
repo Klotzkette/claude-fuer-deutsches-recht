@@ -31,7 +31,7 @@ description: "Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-F
 - Prüfer: Arbeitsrechtler
 - Materialität rot: unwirksame Ausschlussfrist unter 3 Monaten; Wettbewerbsverbot ohne Karenzentschädigung; Widerrufsvorbehalt für Hauptleistung
 
-### DSGVO-Beschaeftigtendatenschutz
+### DSGVO-Beschäftigtendatenschutz
 
 - Zusatzspalten: Einwilligungen zu Bild- und Datenverarbeitung / BDSG Paragraph 26 / Löschpflichten / Mitarbeiterüberwachungsklausel
 - Prüfer: Datenschutzbeauftragter
@@ -58,7 +58,7 @@ description: "Vorlagetabelle für Portfolio-Review von Arbeitsvertraegen im 3D-F
 - **ArbZG** — Arbeitszeit
 - **MuSchG / BEEG** — Mutterschutz Elternzeit
 - **BUrlG** — Urlaub
-- **BDSG** — Paragraph 26 Beschaeftigtendatenschutz
+- **BDSG** — Paragraph 26 Beschäftigtendatenschutz
 
 ## Ausgabe
 

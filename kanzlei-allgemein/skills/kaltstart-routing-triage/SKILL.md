@@ -171,7 +171,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 
 - Sie erhalten eine neue Mandatsanfrage und wollen Intake, GwG-Prüfung, Konfliktcheck und Aktenanlage in einem strukturierten Ablauf durchfuehren.
 - Eine Frist laeuft ab und Sie benoetigen schnellen Zugriff auf Fristenbuch, beA-Versand und Schriftsatzerstellung.
-- Der Monat endet und Sie wollen Zeiterfassung, Rechnungserstellung, UStVA-Vorbereitung und DATEV-Uebergabe koordinieren.
+- Der Monat endet und Sie wollen Zeiterfassung, Rechnungserstellung, UStVA-Vorbereitung und DATEV-Übergabe koordinieren.
 - Ein Mitarbeiter ist abwesend und Sie müssen Vertretungsregelungen für Postlauf, Fristen und beA sicherstellen.
 - Sie moechten Kanzlei-Routinen automatisieren oder im Simulationsmodus testen.
 
@@ -183,7 +183,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - **sUW** — Sicherer Uebermittlungsweg im Sinne des § 130a ZPO; beA-Versand zaehlt nur als sUW, wenn der Inhaber selbst versendet.
 - **XRechnung / ZUGFeRD** — Elektronische Rechnungsformate nach EN 16931; bei öffentlichen Auftraggebern Pflicht.
 - **RVG** — Rechtsanwaltsvergaetungsgesetz; regelt gesetzliche Gebühren nach Streitwert und Gebührentatbestaenden.
-- **DATEV** — Buchhaltungssoftware-System; Plugin bereitet DATEV-Uebergabepakete für Steuerberater vor.
+- **DATEV** — Buchhaltungssoftware-System; Plugin bereitet DATEV-Übergabepakete für Steuerberater vor.
 - **GoBD** — Grundsaetze zur ordnungsmäßigen Buchfuehrung; gelten für die gesamte digitale Aktenfuehrung der Kanzlei.
 
 ## Rechtsgrundlagen
@@ -205,7 +205,7 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 2. Kommandocenter: Tages-Routing aus einem Satz; automatisch bestimmen.
 3. Mandatsannahme und GwG-Prüfung bei neuem Mandat durchfuehren.
 4. Tagesoperationen: Postlauf, beA-Journal, Fristencheck, Schriftsatzerstellung, Zeiterfassung.
-5. Monatliche Abschlussarbeiten: Rechnung, UStVA-Vorbereitung, Payroll, DATEV-Uebergabe.
+5. Monatliche Abschlussarbeiten: Rechnung, UStVA-Vorbereitung, Payroll, DATEV-Übergabe.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -259,13 +259,13 @@ Das Plugin folgt einem nachtblauen Kanzleidesign mit silberner Grundstruktur und
 - `mahnwesen-honorar` — Mahnwesen für eigene Honorarforderungen: gestufte Mahnschreiben, Klageentwurf.
 
 **Buchhaltung und UStVA**
-- `kanzlei-allgemein-buchhaltung-konten` — Kanzlei-Buchhaltung: Geschaeftskonto, offene Posten, Debitoren, Bankmatching, DATEV-Export.
+- `kanzlei-allgemein-buchhaltung-konten` — Kanzlei-Buchhaltung: Geschäftskonto, offene Posten, Debitoren, Bankmatching, DATEV-Export.
 - `kanzlei-allgemein-ustva-buchhaltung` — UStVA-Unterlagen für ELSTER oder Steuerkanzlei zusammenstellen.
 - `kanzlei-allgemein-ustva-simulation` — UStVA-Simulation bei ELSTER-Stoerung oder fehlendem Fachsystem-Zugang.
 
 **HR und Abwesenheiten**
 - `kanzlei-allgemein-hr-personal` — Kanzlei-Personal: Stammdaten, Arbeitsvertraege, Onboarding, Offboarding.
-- `kanzlei-allgemein-lohn-sv` — Lohnabrechnung, Sozialversicherungsmeldungen und Payroll-Uebergabe vorbereiten.
+- `kanzlei-allgemein-lohn-sv` — Lohnabrechnung, Sozialversicherungsmeldungen und Payroll-Übergabe vorbereiten.
 - `kanzlei-allgemein-abwesenheiten-urlaub` — Abwesenheiten verwalten: Urlaub, Krankheit, Elternzeit, Vertretungsregelungen.
 
 **Qualitaetssicherung und Automationen**

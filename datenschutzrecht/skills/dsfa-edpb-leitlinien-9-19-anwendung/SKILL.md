@@ -1,6 +1,6 @@
 ---
 name: dsfa-edpb-leitlinien-9-19-anwendung
-description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert pruefen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis."
+description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die neun Kriterien für voraussichtlich hohes Risiko strukturiert prüfen. Output: Kriterien-Tabelle mit Subsumtion und Schwellwertergebnis."
 ---
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA
@@ -9,7 +9,7 @@ description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die ne
 
 - In der Schwellwertanalyse einer DSFA-Trigger-Prüfung, wenn weder Art. 35 Abs. 3 noch Abs. 4 DSGVO greift
 - Wenn die Aufsichtsbehoerde eine Begruendung der DSFA-Entscheidung verlangt
-- Zur Vorpruefung von KI-, Profiling- oder Beschaeftigtendaten-Verarbeitungen
+- Zur Vorpruefung von KI-, Profiling- oder Beschäftigtendaten-Verarbeitungen
 - Wenn die DSB-Stellungnahme eine EDSA-Konformitaet anfordert
 
 ## Rechtlicher Rahmen
@@ -27,14 +27,14 @@ description: "Anwendung der EDPB-/EDSA-Leitlinien WP 248 rev.01 zur DSFA: die ne
 4. Sensible Daten oder hoechstpersönliche Daten (Art. 9, Art. 10 DSGVO; auch Standortdaten, Finanzdaten, Kommunikationsinhalte)
 5. Verarbeitung in grossem Umfang (Anzahl Betroffene, Datenmenge, Dauer, geografische Reichweite)
 6. Abgleich oder Zusammenfuehrung von Datensaetzen aus unterschiedlichen Quellen
-7. Daten über schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte, Asylsuchende, aeltere Menschen)
+7. Daten über schutzbeduerftige Personen (Kinder, Patienten, Beschäftigte, Asylsuchende, aeltere Menschen)
 8. Innovative Nutzung oder Anwendung neuer technologischer oder organisatorischer Loesungen (KI, Biometrie, IoT)
 9. Wenn die Verarbeitung selbst die Betroffenen daran hindert, ein Recht auszuueben oder eine Dienstleistung in Anspruch zu nehmen
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Kurze, faktenfeste Beschreibung der Verarbeitung; ohne diese ist die WP-248-Prüfung Spekulation.
-2. **Verhaeltnismaessigkeitspruefung.** Erste Plausibilitaet: Reicht die Verarbeitung in eines der neun Felder hinein oder nicht?
+2. **Verhältnismäßigkeitspruefung.** Erste Plausibilitaet: Reicht die Verarbeitung in eines der neun Felder hinein oder nicht?
 3. **Risikoanalyse Kriterien.** Jedes der neun Kriterien einzeln prüfen und mit ja oder nein beantworten, jeweils mit kurzer Begruendung. Wo Grenzfaelle bestehen, das Pro und Contra dokumentieren.
 4. **Maßnahmen.** Prüfen ob bereits geplante Maßnahmen ein Kriterium so entkraeften, dass es nicht mehr greift (z. B. echte Anonymisierung statt Pseudonymisierung kann das Kriterium besondere Kategorien entfallen lassen).
 5. **Restrisiko / Schwellwert.** Zaehlung der erfuellten Kriterien:

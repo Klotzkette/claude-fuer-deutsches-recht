@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-einstieg
-description: Einstieg in den Verhaeltnismaessigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
+description: Einstieg in den Verhältnismäßigkeitspruefer mit Plugin-Karte, Methodik-UEberblick und Empfehlungen welcher Skill bei welchem Fall zu starten ist. Erklaert die vier Stufen kurz und verweist auf vertiefende Skills.
 ---
 
 # Verhältnismäßigkeit Einstieg
@@ -35,7 +35,7 @@ Wer in fuenf Minuten eine erste Prüfung braucht: `schnellpruefung-fuenfminuten-
 
 ## Visualisierung
 
-- `ascii-pruefungsschema` druckt ein nachvollziehbares Pruefraster.
+- `ascii-pruefungsschema` druckt ein nachvollziehbares Prüfraster.
 - `mermaid-flowchart-pruefung` rendert die Entscheidungslogik.
 - `padlet-vier-stufen-tafel` baut eine Padlet-Tafel mit den vier Spalten
   Zweck, Geeignet, Erforderlich, Angemessen.

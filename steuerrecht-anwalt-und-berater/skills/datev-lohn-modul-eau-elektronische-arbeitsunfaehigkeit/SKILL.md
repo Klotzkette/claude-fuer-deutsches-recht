@@ -59,7 +59,7 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 - Datenimport (Variabler Lohn, Krankheit, Sonderzahlungen).
 - ELStAM-Abruf.
 - Lohnabrechnung erstellen.
-- Pruefliste durchgehen.
+- Prüfliste durchgehen.
 - ELSTER-Anmeldung.
 - SV-Meldungen.
 - Buchungssatz an Hauptbuch.
@@ -70,7 +70,7 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 - ELSTER: Standard.
 - DAKOTA (sv.net Alternative): empfohlen.
 - BG-Schnittstelle.
-- DATEV-Banking: ueberweisung Loehne und SV.
+- DATEV-Banking: überweisung Loehne und SV.
 
 ### Phase 5 — Sondermodule
 
@@ -90,7 +90,7 @@ DATEV bietet zwei Lohnprogramme: LODAS (Lohnbuchhaltungs- und Datenerfassungs-Sy
 - LODAS ist Standard für StB-Kanzleien — multimandantenfaehig.
 - Lohn und Gehalt für Mandanten, die selbst Loehne abrechnen, aber StB-Schnittstelle wuenschen.
 - Schulungen DATEV-Akademie jaehrlich empfehlenswert.
-- Bei Aenderungen am ELStAM-Verfahren: Updates zwingend.
+- Bei Änderungen am ELStAM-Verfahren: Updates zwingend.
 
 ## Quellen und Updates
 

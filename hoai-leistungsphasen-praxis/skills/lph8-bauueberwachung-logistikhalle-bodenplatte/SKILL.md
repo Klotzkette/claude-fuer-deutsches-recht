@@ -32,7 +32,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 3. Prüfung Einstreuvorgang Hartstoffeinstreuung: Einstreurate nach Herstellervorgabe (z.B. Sika Mastertop 100)
 4. Fugenplan: Felder max. 6 x 6 m, Schwindfugen gesaegt, Fugen mit Polyurethankitt versiegelt
 5. Ebenheitsmessung: Messung nach DIN 18202 mit Messgeraet Trimble DiNi 0.3, Messprotokoll je Feld
-6. Druckfestigkeit: Bohrkernproben nach 28 Tagen, Guete C30/37 bestaetigend, Pruefprotokoll akkreditiertes Labor
+6. Druckfestigkeit: Bohrkernproben nach 28 Tagen, Guete C30/37 bestaetigend, Prüfprotokoll akkreditiertes Labor
 
 ## Normen und Rechtsrahmen
 
@@ -43,7 +43,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 - DIN 1045-2 Beton: Festigkeitsklassen, Dauerhaftigkeitsanforderungen XM2 für Logistikboeden
 - TR Industrieboden (Technische Regel Betonbauteile Industrieboeden): Faserbewehrung, Fugenplanung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Untergrundtragfaehigkeit: Lastplattenversuch EV2 min. 80 MN/m, Abnahmepruefung vor Betonage
 2. Betonguete je Abschnitt: Frischbetonproben Slump, w/z-Wert, Frischbetontemperatur max. 30 Grad C
@@ -62,7 +62,7 @@ Hochregal-Gabelstapler erfordern eine Ebenheit von max. 2 mm/2 m, die beim Beton
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Equipment Logistikflaeche: Pruefliste Fugenversiegelung alle 5 Jahre, Hartstoffboden-Inspektion
+- SAP PM Equipment Logistikflaeche: Prüfliste Fugenversiegelung alle 5 Jahre, Hartstoffboden-Inspektion
 - PlanRadar Bodenplatte: Fugenriss-Ticket mit Rissweite, Laenge, Foto, Faelligkeitsdatum Verpressung
 - SAP PS Projektsystem: Vorgang Bodenplattenherstellung, Meilenstein Ebenheitsabnahme vor Lagerregaleinbau
 - RIB iTWO: Aufmass Bodenplatten nach qm, Trennzone, Einstreuflaeche, Nachtragsprotokoll Mehrbeton

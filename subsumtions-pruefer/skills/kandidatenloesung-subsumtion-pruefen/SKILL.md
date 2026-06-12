@@ -1,6 +1,6 @@
 ---
 name: kandidatenloesung-subsumtion-pruefen
-description: "Prueft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage im Subsumtions Pruefer."
+description: "Prüft abgegebene Klausur- oder Probandenloesungen auf Obersatz, Definition, Untersatz, Beleg, Ergebnis und typische Scheinkausalitaet. Gibt Korrekturvermerk mit Punkteindikation und Musterpassage im Subsumtions Prüfer."
 ---
 
 # Kandidatenlösung auf Subsumtion prüfen

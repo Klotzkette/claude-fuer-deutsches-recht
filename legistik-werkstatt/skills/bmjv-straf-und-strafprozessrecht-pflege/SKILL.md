@@ -1,11 +1,11 @@
 ---
 name: bmjv-straf-und-strafprozessrecht-pflege
-description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Leg..."
+description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschäftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Leg..."
 ---
 
 # Straf- und Strafprozessrecht-Pflege (BMJV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Straf- und Strafprozessrecht-Pflege im Geschäftsbereich BMJV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsberei
 
 Kernbestand des Sachfelds: StGB; StPO; OWiG; JGG; GVG; EGStGB.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -34,7 +34,7 @@ Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Tatbestaende sauber fassen; Strafrahmen austarieren; Verfahrensrechte; Datenuebermittlung; Vermoegensabschoepfung.
+Tatbestaende sauber fassen; Strafrahmen austarieren; Verfahrensrechte; Datenuebermittlung; Vermögensabschoepfung.
 
 Schrittfolge für den Normgeber:
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
-Bestimmtheitsgrundsatz (Art. 103 GG); Verhaeltnis zu OWiG; EU-Mindeststandards; BVerfG-Linie.
+Bestimmtheitsgrundsatz (Art. 103 GG); Verhältnis zu OWiG; EU-Mindeststandards; BVerfG-Linie.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

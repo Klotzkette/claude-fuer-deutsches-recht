@@ -16,7 +16,7 @@ Diese Output-Weiche für **Fachanwalt Handels Gesellschaftsrecht** entscheidet, 
 - `anfechtungsklage-bgb-gesellschaft-bgh-ii-zr-66-20` — Anfechtungsklage BGB Gesellschaft BGH II ZR 66 20
 - `einstieg-schnelltriage-fallrouting` — FA Handels Gesellschaft Start Chronologie Fristen
 - `erstpruefung-und-mandatsziel` — Fachanwalt FAO Gesellschafterstreit
-- `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` — Geschaeftsfuehrerhaftung Holding
+- `geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` — Geschäftsführerhaftung Holding
 - `gesellschafterstreit` — Gesellschaftsrecht Gesellschafterstreit Eilrechtsschutz
 - `gesellschaftervertrag-abschlussprodukt-und-uebergabe` — Gesellschaftsrecht Gesellschaftervertrag Klauseln
 - `gmbh-beirat-vetorechte-und-organnaehe` — Gmbh Beirat Vergleichsverhandlung Strategie

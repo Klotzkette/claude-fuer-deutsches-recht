@@ -1,6 +1,6 @@
 ---
 name: dsfa-typische-fehler-bei-erstpruefung
-description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Pruefliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis."
+description: "Katalog typischer Fehler bei der DSFA-Erstpruefung und Gegenmassnahmen. Output: Fehlerkatalog mit Prüfliste für DSB und Verantwortliche samt Beispielen aus Aufsichtspraxis."
 ---
 
 # Typische Fehler bei der DSFA-Erstpruefung
@@ -52,7 +52,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ### 3. Verhältnismäßigkeit
 
-- Verhaeltnismaessigkeitspruefung wird auf Rechtsgrundlage reduziert. Gegenmassnahme: Datenminimierung, Zweckbindung und Speicherbegrenzung separat prüfen.
+- Verhältnismäßigkeitspruefung wird auf Rechtsgrundlage reduziert. Gegenmassnahme: Datenminimierung, Zweckbindung und Speicherbegrenzung separat prüfen.
 - Mildere Mittel nicht erwogen. Gegenmassnahme: Alternativ-Optionen explizit dokumentieren und verwerfen.
 - Betroffenenrechte nicht beschrieben. Gegenmassnahme: Pro Recht eine Zeile, wie es operativ umgesetzt wird.
 
@@ -60,7 +60,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Risiko nur für Vertraulichkeit untersucht. Gegenmassnahme: alle Schutzziele SDM durchgehen.
 - Wahrscheinlichkeit ohne Bedrohungsmodell. Gegenmassnahme: Bedrohungsannahmen explizit machen.
-- Schadenschwere aus Sicht des Verantwortlichen statt Betroffener. Gegenmassnahme: Erwaegungsgrund 75 DSGVO als Massstab.
+- Schadenschwere aus Sicht des Verantwortlichen statt Betroffener. Gegenmassnahme: Erwaegungsgrund 75 DSGVO als Maßstab.
 - Risikomatrix bleibt für Maßnahmen-Spalte leer. Gegenmassnahme: Pro Risiko mindestens eine Maßnahme zuordnen.
 
 ### 5. Maßnahmen
@@ -90,7 +90,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Aktenzeichen oder Aufbewahrungsfrist fehlt. Gegenmassnahme: Skill dsfa-dokumentation-und-rechenschaftspflicht-art-5-ii.
 - Verweis im Verarbeitungsverzeichnis Art. 30 fehlt. Gegenmassnahme: Doppelnachweis VV plus DSFA.
 
-## Pruefliste vor Freigabe
+## Prüfliste vor Freigabe
 
 ```
 DSFA-FREIGABE-PRUEFLISTE [DATUM]
@@ -149,6 +149,6 @@ Unterschrift Pruefer: ____________________
 
 - Art. 35, 36, 5 Abs. 2, 83 Abs. 4 lit. a DSGVO
 - EDSA-Leitlinien WP 248 rev.01
-- BfDI- und Landesbehoerden-Pruefberichte (live abzurufen)
+- BfDI- und Landesbehoerden-Prüfberichte (live abzurufen)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe verifizieren
 - Literatur: Kommentar- und Aufsatzfundstellen nur bei eigener Quelle

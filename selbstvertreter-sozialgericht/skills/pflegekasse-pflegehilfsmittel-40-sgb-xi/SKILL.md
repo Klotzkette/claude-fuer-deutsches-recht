@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-pflegehilfsmittel-40-sgb-xi
-description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage."
+description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Maßnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage."
 ---
 
 # Pflegekasse Pflegehilfsmittel 40 Sgb Xi
@@ -38,7 +38,7 @@ description: "Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung m
 - Bei der Pflegekasse.
 - Kostenvoranschlag, Notwendigkeitsnachweis.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Bedarf?
 2. Verbrauchs- oder technisches Hilfsmittel?

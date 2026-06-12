@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-sozialgericht
-description: "Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide im Sozialversicherungsstatus Pruefer."
+description: "Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide im Sozialversicherungsstatus Prüfer."
 ---
 
 # Widerspruch und Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: nationales-verfahren-vorlageverfahren-art
-description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prü..."
+description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Äquivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prü..."
 ---
 
 # Nationales Verfahren und Effektivität
@@ -42,7 +42,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 Bevor losgelegt wird, klaere:
 1. Macht der Mandant ein EU-Recht vor einem nationalen Gericht geltend?
 2. Haelt das nationale Verfahrensrecht die Durchsetzung dieses Rechts praktisch unmoeglich oder uebermäßig erschwert (Effektivitaetsgrundsatz)?
-3. Sind nationale Verfahrensregeln diskriminierend im Vergleich zu rein nationalen Anspruechen (Aequivalenzgrundsatz)?
+3. Sind nationale Verfahrensregeln diskriminierend im Vergleich zu rein nationalen Anspruechen (Äquivalenzgrundsatz)?
 4. Besteht ein Anspruch auf einstweiligen Rechtsschutz bis zur EuGH-Entscheidung (Zuckerfabrik-Doktrin)?
 
 ## Vertiefung: Rechtsprechung und Leitsaetze

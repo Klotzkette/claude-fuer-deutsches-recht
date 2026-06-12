@@ -1,6 +1,6 @@
 ---
 name: politisches-risiko-china-versicherung-und-investitionsgarantien
-description: "Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfo..."
+description: "Versicherung politischer Risiken im China-Geschäft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfo..."
 ---
 
 # Politisches Risiko China: Versicherung und Investitionsgarantien

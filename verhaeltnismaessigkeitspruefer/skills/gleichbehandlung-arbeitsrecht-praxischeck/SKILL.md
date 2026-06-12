@@ -1,17 +1,17 @@
 ---
 name: gleichbehandlung-arbeitsrecht-praxischeck
-description: Arbeitsrechtlicher Praxischeck zum AGG. Behandelt das Benachteiligungsverbot nach Paragraph 7 AGG den Entschaedigungs- und Schadensersatzanspruch nach Paragraph 15 AGG und die Beweislastregel nach Paragraph 22 AGG. Erlaeutert wie Bewerbungsverfahren Befoerderungsentscheidungen und Kuendigungen am Verhaeltnismaessigkeitsmassstab zu pruefen sind und wie BAG-Linien zu Auswahlentscheidungen zu lesen sind.
+description: Arbeitsrechtlicher Praxischeck zum AGG. Behandelt das Benachteiligungsverbot nach Paragraph 7 AGG den Entschaedigungs- und Schadensersatzanspruch nach Paragraph 15 AGG und die Beweislastregel nach Paragraph 22 AGG. Erläutert wie Bewerbungsverfahren Befoerderungsentscheidungen und Kuendigungen am Verhältnismäßigkeitsmassstab zu prüfen sind und wie BAG-Linien zu Auswahlentscheidungen zu lesen sind.
 ---
 
 # Gleichbehandlung im Arbeitsrecht — Praxischeck nach AGG
 
 ## Zweck dieses Skills
 
-Das AGG entfaltet seine praktische Wirkung vor allem im Arbeitsrecht. Dieser Skill fokussiert die zentralen Anspruchs- und Beweisnormen Paragraph 7 Paragraph 15 und Paragraph 22 AGG und zeigt wie typische arbeitsrechtliche Entscheidungen — Auswahl Befoerderung Kuendigung — am Verhaeltnismaessigkeitsmassstab gehen. Die materielle Rechtfertigung folgt aus dem Skill zur AGG-Systematik dieser Skill ergaenzt die prozessuale und entschaedigungsrechtliche Dimension.
+Das AGG entfaltet seine praktische Wirkung vor allem im Arbeitsrecht. Dieser Skill fokussiert die zentralen Anspruchs- und Beweisnormen Paragraph 7 Paragraph 15 und Paragraph 22 AGG und zeigt wie typische arbeitsrechtliche Entscheidungen — Auswahl Befoerderung Kuendigung — am Verhältnismäßigkeitsmassstab gehen. Die materielle Rechtfertigung folgt aus dem Skill zur AGG-Systematik dieser Skill ergaenzt die prozessuale und entschaedigungsrechtliche Dimension.
 
 ## Paragraph 7 AGG — Benachteiligungsverbot
 
-Beschaeftigte dürfen wegen eines Merkmals aus Paragraph 1 AGG **nicht benachteiligt** werden. Der Schutz erfasst Bewerberinnen Beschaeftigte und ausgeschiedene Personen und gilt für den gesamten Arbeitsverhaeltniszyklus.
+Beschäftigte dürfen wegen eines Merkmals aus Paragraph 1 AGG **nicht benachteiligt** werden. Der Schutz erfasst Bewerberinnen Beschäftigte und ausgeschiedene Personen und gilt für den gesamten Arbeitsverhaeltniszyklus.
 
 Konsequenz für den Arbeitgeber:
 - Verbot direkter und mittelbarer Benachteiligung.
@@ -22,11 +22,11 @@ Konsequenz für den Arbeitgeber:
 
 ### Schadensersatz nach Absatz 1
 
-Bei Vermoegensschaden voller Schadensersatz mit Verschuldenserfordernis das vermutet wird.
+Bei Vermögensschaden voller Schadensersatz mit Verschuldenserfordernis das vermutet wird.
 
 ### Entschaedigung nach Absatz 2
 
-Auch ohne Vermoegensschaden besteht Anspruch auf eine angemessene Entschaedigung in Geld. Pauschale Obergrenze von drei Monatsverdiensten bei Bewerberinnen sofern auch bei diskriminierungsfreier Auswahl keine Einstellung erfolgt waere.
+Auch ohne Vermögensschaden besteht Anspruch auf eine angemessene Entschaedigung in Geld. Pauschale Obergrenze von drei Monatsverdiensten bei Bewerberinnen sofern auch bei diskriminierungsfreier Auswahl keine Einstellung erfolgt waere.
 
 Höhe der Entschaedigung bestimmt sich nach:
 - Art und Schwere der Benachteiligung.
@@ -48,7 +48,7 @@ Typische Indizien:
 - Statistik der Belegschaft oder Bewerberauswahl.
 - Auffaellige Begruendungsmuster bei Ablehnung.
 
-## Pruefungsschema in der Praxis
+## Prüfungsschema in der Praxis
 
 ### Bewerbungsverfahren
 

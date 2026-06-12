@@ -1,13 +1,13 @@
 ---
 name: theorie-alexy-prinzipientheorie
-description: "Robert Alexys Prinzipientheorie als Theoriegrundlage der Verhaeltnismaessigkeitspruefung. Grundrechte als Optimierungsgebote, Abwaegungsgesetz, Gewichtsformel; Linie Rudolf Smend, Robert Alexy, Aharon Barak; Verhaeltnismaessigkeit als Strukturprinzip globaler Verfassungsgerichtsbarkeit."
+description: "Robert Alexys Prinzipientheorie als Theoriegrundlage der Verhältnismäßigkeitspruefung. Grundrechte als Optimierungsgebote, Abwaegungsgesetz, Gewichtsformel; Linie Rudolf Smend, Robert Alexy, Aharon Barak; Verhältnismäßigkeit als Strukturprinzip globaler Verfassungsgerichtsbarkeit."
 ---
 
 # Theorie der Grundrechte — Alexy und das Prinzip der Verhältnismäßigkeit
 
 ## Zweck dieses Skills
 
-Verhaeltnismaessigkeitspruefung ohne Theoriebasis bleibt blosses Schema. Dieser Skill liefert das theoretische Geruest, um die vier Stufen dogmatisch zu verteidigen — vor Gericht, in der Klausur, im wissenschaftlichen Aufsatz.
+Verhältnismäßigkeitspruefung ohne Theoriebasis bleibt blosses Schema. Dieser Skill liefert das theoretische Geruest, um die vier Stufen dogmatisch zu verteidigen — vor Gericht, in der Klausur, im wissenschaftlichen Aufsatz.
 
 ## Drei Theorielinien
 
@@ -15,7 +15,7 @@ Verhaeltnismaessigkeitspruefung ohne Theoriebasis bleibt blosses Schema. Dieser 
 
 Rudolf Smend, *Verfassung und Verfassungsrecht* (1928). Die Grundrechte sind nicht nur Abwehrrechte, sondern Werteordnung, in die der Staat hineinwaechst. Aus der Werteordnung folgt die wechselseitige Begrenzung — das ist der dogmatische Ahnherr der praktischen Konkordanz.
 
-Wirkungslinie: BVerfGE 7, 198 (Lueth, 1958) uebernimmt die Werteordnung; sie ist die Vorstufe der modernen Verhaeltnismaessigkeitspruefung.
+Wirkungslinie: BVerfGE 7, 198 (Lueth, 1958) uebernimmt die Werteordnung; sie ist die Vorstufe der modernen Verhältnismäßigkeitspruefung.
 
 ### 2. Alexy — Prinzipientheorie und Abwaegungsgesetz
 
@@ -45,7 +45,7 @@ Wenn ein Grundrecht ein Optimierungsgebot ist, muss jede staatliche Maßnahme:
 
 | Saetzname | Inhalt | Auswirkung auf Stufe |
 | --- | --- | --- |
-| **Mittel-Zweck-Verhaeltnis** | Mittel muss Zweck foerdern (Geeignetheit) und mildestes Mittel sein (Erforderlichkeit) | Stufen 2 + 3 |
+| **Mittel-Zweck-Verhältnis** | Mittel muss Zweck foerdern (Geeignetheit) und mildestes Mittel sein (Erforderlichkeit) | Stufen 2 + 3 |
 | **Abwaegungsgesetz** | Eingriffsintensitaet vs. Zweckgewicht | Stufe 4 |
 | **Pareto-Prinzip** | Wer einen Eingriff durch ein anderes Mittel mit gleicher Sicherheit ohne Mehrkosten ersetzen kann, muss das andere Mittel waehlen | Stufe 3 |
 

@@ -1,13 +1,13 @@
 ---
 name: vermoegensabschoepfung-paragraf-73-stgb
-description: "Vermoegensabschoepfung § 73 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Vermögensabschoepfung § 73 StGB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
 ---
 
-# Vermoegensabschoepfung § 73 StGB
+# Vermögensabschoepfung § 73 StGB
 
 ## Worum es geht
 
-Prüfe **Vermoegensabschoepfung § 73 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Vermögensabschoepfung § 73 StGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

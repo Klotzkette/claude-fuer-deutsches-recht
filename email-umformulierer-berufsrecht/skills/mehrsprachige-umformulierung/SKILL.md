@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-umformulierung
-description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonde..."
+description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Äquivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonde..."
 ---
 
 # Mehrsprachige Umformulierung
@@ -14,7 +14,7 @@ Dieser Skill stellt höfliche, sachliche Formulierungshilfen für internationale
 ## Triage zu Beginn
 1. In welcher Sprache soll die Korrespondenz verfasst werden: Englisch, Franzoesisch, Italienisch oder Spanisch?
 2. Welcher Berufsstand: Rechtsanwalt, Notar, Steuerberater oder allgemeines Unternehmen?
-3. Welche Jurisdiktion gilt: Deutschland mit auslaendischem Empfaenger, oder auslaendisches Recht anwendbar?
+3. Welche Jurisdiktion gilt: Deutschland mit ausländischem Empfaenger, oder ausländisches Recht anwendbar?
 4. Gibt es berufsrechtliche Besonderheiten der Zielsprach-Jurisdiktion zu beachten?
 
 ## Aktuelle Rechtsprechung

@@ -17,8 +17,8 @@ Dieses Anschluss-Routing für **Jveg Kostenpruefer** wählt nach dem ersten Erge
 - `belegfeste-formular-portal-und-einreichung` — Belegfeste Formular Portal und Einreichung
 - `beschwerde-dolmetscher-sonderfall` — Beschwerde Dolmetscher Sonderfall
 - `dolmetscher-sonderfall-und-edge-case` — Dolmetscher Sonderfall und Edge Case
-- `dolmetscher-uebersetzer` — Dolmetscher Uebersetzer
-- `dolmetscher-uebersetzer-fahrtkosten` — Dolmetscher Uebersetzer Fahrtkosten
+- `dolmetscher-uebersetzer` — Dolmetscher Übersetzer
+- `dolmetscher-uebersetzer-fahrtkosten` — Dolmetscher Übersetzer Fahrtkosten
 - `dolmetscherkosten-zahlen-schwellen-und-berechnung` — Dolmetscherkosten Zahlen Schwellen und Berechnung
 - `fahrtkosten` — Fahrtkosten
 - `fahrtkosten-festsetzung-interessen` — Fahrtkosten Festsetzung Interessen

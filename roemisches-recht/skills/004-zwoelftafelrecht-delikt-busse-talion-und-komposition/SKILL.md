@@ -40,7 +40,7 @@ A beleidigt B öffentlich.
 - Privatklage § 374 StPO (analog Privatstrafrecht).
 - §§ 823 ff. BGB Deliktsrecht.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Delikt?
 2. Talion oder Komposition?

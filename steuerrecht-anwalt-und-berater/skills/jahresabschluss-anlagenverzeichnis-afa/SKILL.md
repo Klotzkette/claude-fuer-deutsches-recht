@@ -13,7 +13,7 @@ description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall
 
 ## Kernsachverhalt
 
-Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlagevermoegens über das Geschaeftsjahr ab: Anfangsbestand, Zugaenge, Abgaenge, Abschreibungen, Zuschreibungen, Endbestand. Im Jahresabschluss ist er Pflicht-Bestandteil bei mittelgrossen und großen Kapitalgesellschaften (§ 268 Abs. 2 HGB).
+Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlagevermoegens über das Geschäftsjahr ab: Anfangsbestand, Zugaenge, Abgaenge, Abschreibungen, Zuschreibungen, Endbestand. Im Jahresabschluss ist er Pflicht-Bestandteil bei mittelgrossen und großen Kapitalgesellschaften (§ 268 Abs. 2 HGB).
 
 ## Kaltstart-Rueckfragen
 

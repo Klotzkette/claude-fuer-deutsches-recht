@@ -1,9 +1,9 @@
 ---
 name: uebergabe-fristennotiz-und-naechster-schritt
-description: "Uebergabe: Fristennotiz und nächster Schritt: Uebergabe: Fristennotiz und nächster Schritt."
+description: "Übergabe: Fristennotiz und nächster Schritt: Übergabe: Fristennotiz und nächster Schritt."
 ---
 
-# Uebergabe: Fristennotiz und nächster Schritt
+# Übergabe: Fristennotiz und nächster Schritt
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Uebergabe: Fristennotiz und nächster Schritt: Uebergabe: Fristenn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Landwirt, Bundesanstalt für Landwirtschaft und Ernährung (BLE), Landwirtschaftskammer, Genehmigungsbehörde nach GrdstVG, Landpächter/-verpächter, Amtsgericht Landwirtschaftsgericht.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Mehrfachantrag (Flächenförderung), Pachtvertrag, GrdstVG-Genehmigung, Düngeplan, Cross-Compliance-Nachweis, Hofübergabevertrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Uebergabe: Fristennotiz und nächster Schritt.
+**Fokus:** Übergabe: Fristennotiz und nächster Schritt.
 
-## Spezialwissen: Uebergabe: Fristennotiz und nächster Schritt
+## Spezialwissen: Übergabe: Fristennotiz und nächster Schritt
 - **Normen-/Quellenanker:** HöfeO, BGB, GAP, EU.
 
 ## Fallweichen
@@ -30,7 +30,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Uebergabe** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Übergabe** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

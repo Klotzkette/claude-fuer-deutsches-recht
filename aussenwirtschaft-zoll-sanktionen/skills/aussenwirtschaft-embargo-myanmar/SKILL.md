@@ -36,7 +36,7 @@ description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnu
 - **Art. 2 VO (EU) 401/2013**: Waffenembargo und militaerische Gueter.
 - **UZK Art. 56**: Zolltarifanwendung bei Embargogutern.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Partei auf EU-Sanktionsliste Myanmar geprueft?
 - [ ] Militaer-Eigentumsverbindung aufgeklaert?
@@ -47,7 +47,7 @@ description: "EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnu
 
 ## Typische Fallstricke
 
-- Myanmar-Sanktionen wurden nach Coup 2021 massiv ausgeweitet; aeltere Prueflisten veraltet.
+- Myanmar-Sanktionen wurden nach Coup 2021 massiv ausgeweitet; aeltere Prüflisten veraltet.
 - Militaer haelt Anteile an zahlreichen scheinbar zivilwirtschaftlichen Unternehmen.
 - Sektorale Verbote gelten auch für Handelsfinanzierung.
 
@@ -66,7 +66,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

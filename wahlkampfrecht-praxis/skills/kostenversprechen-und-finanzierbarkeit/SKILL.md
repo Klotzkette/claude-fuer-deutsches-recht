@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Haushaltsbezug, Zahlenherkunft, Steuer-/Abgabenbezug, Unsicherheiten und Gegnerangriffe.
+Prüft Haushaltsbezug, Zahlenherkunft, Steuer-/Abgabenbezug, Unsicherheiten und Gegnerangriffe.
 
 ## Rechts- und Praxislogik
 

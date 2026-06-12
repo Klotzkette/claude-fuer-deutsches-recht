@@ -1,6 +1,6 @@
 # Schwellenwert-Rechner 2026/2027
 
-| Pruefpunkt | Eingabe | Ergebnis/Notiz |
+| Prüfpunkt | Eingabe | Ergebnis/Notiz |
 |---|---|---|
 | Auftraggebertyp | zentral / subzentral / Sektor / Konzession / Verteidigung |  |
 | Auftragsart | Bau / Lieferleistung / Dienstleistung / soziale Dienste / Konzession |  |

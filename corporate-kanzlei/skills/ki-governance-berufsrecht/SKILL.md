@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -139,7 +139,7 @@ Kanzlei-Anwendungen (Dokumentenanalyse, Rechercheassistenz): meist minimales bis
 
 ## DSGVO-Compliance für KI-Werkzeuge
 
-| Pruefpunkt | Anforderung | Maßnahme |
+| Prüfpunkt | Anforderung | Maßnahme |
 |---|---|---|
 | Rechtsgrundlage | Art. 6 I DSGVO | Berechtigtes Interesse oder Einwilligung |
 | Auftragsverarbeitung | Art. 28 DSGVO | AVV mit KI-Anbieter abschliessen |
@@ -168,7 +168,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — KI-Tool-Einsatz in Kanzlei dokumentieren | Einsatz-Dokumentation nach Template unten |
 | Variante A — nur Research-Einsatz ohne Mandantendaten | Vereinfachte Dokumentation; DSGVO-Risiko gering |
 | Variante B — Mandantendaten werden verarbeitet | Volle Risikoanalyse; AVV und Mandantenhinweis noetig |
-| Variante C — KI generiert Schriftsaetze | Pruefpflicht des Anwalts hervorheben; Haftungsklausel erwaegen |
+| Variante C — KI generiert Schriftsaetze | Prüfpflicht des Anwalts hervorheben; Haftungsklausel erwaegen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

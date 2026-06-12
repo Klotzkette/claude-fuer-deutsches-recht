@@ -1,9 +1,9 @@
 ---
 name: rvg-steuerstreit
-description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgeb..."
+description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebühren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebührentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschäftsgeb..."
 ---
 
-# Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis
+# Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhältnis
 
 ## Fachlicher Anker
 
@@ -15,7 +15,7 @@ description: "Vergueterungsskill für steuerrechtliche Mandate — Abgrenzung RV
 
 1. Anwaltsmandat (RVG) oder Steuerberatermandat (StBVV) oder Mischmandat?
 2. Welcher Streitwert oder Gegenstandswert ist anzusetzen?
-3. Geschaefts- Verfahrens- oder Terminsgebuehr — welche Phase?
+3. Geschäfts- Verfahrens- oder Terminsgebuehr — welche Phase?
 4. Soll Pauschalhonorar oder Stundenhonorar nach § 4 RVG vereinbart werden?
 5. Ist Erfolgshonorar § 4a RVG ausnahmsweise zulässig?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)

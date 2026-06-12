@@ -1,6 +1,6 @@
 ---
 name: gesindeordnung-1810-folgereformen
-description: "Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix."
+description: "Gesindeordnung 1810 und Folgereformen. Skill überblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix."
 ---
 
 # Pralr Gesindeordnung 1810 Und Folgereformen
@@ -27,7 +27,7 @@ description: "Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Refor
 - BGB §§ 611 ff. Dienstvertrag als allgemeines Recht.
 - Tarifvertraege Mindestlohn.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Periode?
 2. Welche Quelle?

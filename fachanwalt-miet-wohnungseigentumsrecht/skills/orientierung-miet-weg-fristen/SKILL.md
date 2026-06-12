@@ -75,11 +75,11 @@ Belegt über bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn)
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (Untervermietung mit Gewinn nicht "berechtigtes Interesse")
 - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung / Prognose Endenergieeinsparung)
-- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren für Mieterhoehung)
+- BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbständiges Beweisverfahren für Mieterhoehung)
 
 **V. Zivilsenat — WEG-Recht:**
 - BGH, Urt. v. 14.02.2025 – V ZR 236/23 (Erstmalige Belastung mit Erhaltungskosten nur bei sachlichem Grund)
-- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Aenderung Verteilungsschluessel auch für Erhaltungsruecklage)
+- BGH, Urt. v. 14.02.2025 – V ZR 128/23 (Änderung Verteilungsschluessel auch für Erhaltungsruecklage)
 - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Waermepumpe; Vorbefassung und unzumutbarer Nachteil)
 - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Bauliche Veraenderung Klimaanlage; unbillige Benachteiligung)
 - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung der Anfechtungsklage)
@@ -88,7 +88,7 @@ Belegt über bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 - BVerfG, Beschl. v. 08.01.2026 – 1 BvR 183/25 (Verfassungsbeschwerde gegen Verlaengerung der Mietpreisbremse erfolglos): https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260108_1bvr018325.html
 
 **Gesetzgebung:**
-- Gesetz zur Aenderung der Regelungen über die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
+- Gesetz zur Änderung der Regelungen über die zulaessige Miethoehe bei Mietbeginn v. 17.07.2025 (BGBl. 2025 I Nr. 163, in Kraft 23.07.2025): Verlaengerung Mietpreisbremse bis 31.12.2029; https://www.recht.bund.de/bgbl/1/2025/163/VO.html
 
 ## Fristen-Sofort-Check
 

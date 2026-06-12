@@ -1,13 +1,13 @@
 ---
 name: minder-schwerer-fall-und-besonders-schwerer-fall
-description: "Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213..."
+description: "Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Prüfungsreihenfolge. Anwendungsfaelle § 213..."
 ---
 
 # Minder schwerer Fall und besonders schwerer Fall
 
 ## Arbeitsbereich
 
-Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Prüfungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -30,7 +30,7 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 
 - Sie wollen die Strafrahmen-Senkung "minder schwerer Fall" zugunsten des Mandanten erreichen.
 - Sie prüfen, ob ein Regelbeispiel erfuellt ist und ob die Indizwirkung entkraeftet werden kann.
-- Sie ordnen die Pruefungsreihenfolge bei mehreren Strafrahmen-Modifikationen.
+- Sie ordnen die Prüfungsreihenfolge bei mehreren Strafrahmen-Modifikationen.
 
 ## Rechtliche Grundlagen
 
@@ -63,7 +63,7 @@ Die Modifikation erfolgt durch **Gesamtwuerdigung** aller Umstaende.
 - Gegenindizien können die Indizwirkung **entkraeften** — Gesamtwuerdigung.
 - Bei "unbenannten besonders schweren Faellen" muss die Tat in Gewicht und Charakter den Regelbeispielen ungefaehr entsprechen.
 
-## Pruefungsreihenfolge
+## Prüfungsreihenfolge
 
 1. **Grundtatbestand** und **Qualifikationen** prüfen.
 2. **Regelbeispiele** (besonders schwerer Fall): Ist Tatbestand erfuellt? Indizwirkung. Gegenindizien?
@@ -106,7 +106,7 @@ In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenze
 - **Minder schwerer Fall pauschal** abgelehnt: ohne Gesamtwuerdigung; Revisionsangriff.
 - **Regelbeispiel automatisch** zu besonders schwerem Fall: Indizwirkung nicht widerlegt geprueft.
 - **Doppelte Anwendung**: Tatumstand begruendet minder schweren Fall **und** wird zusaetzlich strafmildernd in § 46 StGB beruecksichtigt — moegliche Verstoss gegen § 46 Abs. 3 StGB.
-- **§ 49 StGB** nicht im Verhaeltnis zum minder schweren Fall geprueft.
+- **§ 49 StGB** nicht im Verhältnis zum minder schweren Fall geprueft.
 
 ## Quellen und Stand 05/2026
 

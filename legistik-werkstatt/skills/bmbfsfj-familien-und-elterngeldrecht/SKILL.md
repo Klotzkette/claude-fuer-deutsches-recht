@@ -1,11 +1,11 @@
 ---
 name: bmbfsfj-familien-und-elterngeldrecht
-description: "Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgab..."
+description: "Sachbereich Familien- und Elterngeldrecht im Geschäftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Länder; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgab..."
 ---
 
 # Familien- und Elterngeldrecht (BMBFSFJ)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Familien- und Elterngeldrecht im Geschäftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMB
 
 Kernbestand des Sachfelds: BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Komplexitaet der Berechnungsregeln; Schnittstellen zu Sozialleistungen; Selbststaendige.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

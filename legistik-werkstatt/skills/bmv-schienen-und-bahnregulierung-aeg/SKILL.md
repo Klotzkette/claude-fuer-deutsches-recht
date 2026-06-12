@@ -1,11 +1,11 @@
 ---
 name: bmv-schienen-und-bahnregulierung-aeg
-description: "Sachbereich Schienen- und Bahnregulierung (AEG) im Geschaeftsbereich BMV: Normbestand (AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.); Akteure (EBA; BNetzA; DB-Konzern; Länder-Aufsicht; Schienenverkehrsbeirat.); EU-Bezug (4. Eisenbahnpaket; TSI; ERA.); typische Legistik-Aufgaben und Pruefpunkte...."
+description: "Sachbereich Schienen- und Bahnregulierung (AEG) im Geschäftsbereich BMV: Normbestand (AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.); Akteure (EBA; BNetzA; DB-Konzern; Länder-Aufsicht; Schienenverkehrsbeirat.); EU-Bezug (4. Eisenbahnpaket; TSI; ERA.); typische Legistik-Aufgaben und Prüfpunkte...."
 ---
 
 # Schienen- und Bahnregulierung (AEG) (BMV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Schienen- und Bahnregulierung (AEG) im Geschaeftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Schienen- und Bahnregulierung (AEG) im Geschäftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Schienen- und Bahnregulierung (AEG) im Geschaeftsberei
 
 Kernbestand des Sachfelds: AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Konzernstruktur DB; Wettbewerb auf der Schiene; Investitionsrueckstand.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

@@ -1,23 +1,23 @@
 ---
 name: duplik-nach-replik
-description: "Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht."
+description: "Duplik als Beklagten-Antwort auf die Kläger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Kläger-Replik. Wann ist Duplik noetig wann nicht."
 ---
 
 # Duplik: Antwort des Beklagten auf die Replik
 
 ## Worum geht es?
 
-Nach Replik des Klaegers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das ist Ihre letzte groß Reaktion vor dem Termin. Sie reagieren auf den ergaenzenden Kläger-Vortrag und ergaenzen Ihre eigenen Vortraege. Diese Skill zeigt das Vorgehen.
+Nach Replik des Klägers haben Sie als Beklagter Gelegenheit zur **Duplik**. Das ist Ihre letzte groß Reaktion vor dem Termin. Sie reagieren auf den ergaenzenden Kläger-Vortrag und ergaenzen Ihre eigenen Vortraege. Diese Skill zeigt das Vorgehen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie haben Replik des Klaegers erhalten.
+- Sie haben Replik des Klägers erhalten.
 - Sie sehen neuen Vortrag, dem Sie widersprechen wollen.
 - Sie wollen Ihre Verteidigung schaerfen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Duplik**: Antwort des Beklagten auf die Replik des Klaegers.
+- **Duplik**: Antwort des Beklagten auf die Replik des Klägers.
 - **Schriftsatznachlass**: Vom Gericht gewaehrte Reaktions-Frist.
 
 ## Rechtsgrundlagen
@@ -121,7 +121,7 @@ Gericht setzt Duplik-Frist. Verlaengerung möglich (Skill `fristverlaengerung-an
 
 - **Praeklusion § 296 ZPO**: Spaete Argumente können verworfen werden.
 - **Auf alle wesentlichen Kläger-Punkte reagieren**.
-- **Auf Beweisangebote des Klaegers reagieren** (ggf. Gegenbeweis).
+- **Auf Beweisangebote des Klägers reagieren** (ggf. Gegenbeweis).
 
 ## Typische Fehler
 

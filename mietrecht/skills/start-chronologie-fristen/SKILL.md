@@ -150,7 +150,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete für Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Massstab für Mieterhoehungen nach § 558 BGB.
+- **Ortsuebliche Vergleichsmiete** — Die uebliche Miete für Wohnungen vergleichbarer Art, Groesse, Ausstattung und Lage; Maßstab für Mieterhoehungen nach § 558 BGB.
 - **Kappungsgrenze** — Maximale prozentuale Erhoehung innerhalb von drei Jahren; regelmaessig 20 %, in Spannungsgebieten 15 %.
 - **Mietpreisbremse** — §§ 556d ff. BGB; Neuvermietungsmiete darf in Gebieten mit angespanntem Wohnungsmarkt die ortsuebliche Vergleichsmiete um nicht mehr als 10 % uebersteigen.
 - **Qualifizierter Mietspiegel** — Mietspiegel, der nach wissenschaftlichen Grundsaetzen erstellt und anerkannt wurde (§ 558d BGB); hat Vermutungswirkung.
@@ -188,7 +188,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 **Datenerhebung**
 
 - `lage-und-ausstattung-erheben` — Strukturierte Datenerhebung für Mietspiegel-Einordnung: Adresse, Baujahr, Wohnflaeche, Ausstattungsmerkmale.
-- `mietspiegel-quellen` — Prueft ortsuebliche Vergleichsmiete anhand amtlicher Mietspiegel-Quellen pro Bundesland und Stadttyp.
+- `mietspiegel-quellen` — Prüft ortsuebliche Vergleichsmiete anhand amtlicher Mietspiegel-Quellen pro Bundesland und Stadttyp.
 
 **Mieterhoehung (Vermieter)**
 
@@ -212,12 +212,12 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 
 **Kaution**
 
-- `mietkaution-rueckforderung` — Prueft Rückforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjährung.
+- `mietkaution-rueckforderung` — Prüft Rückforderungsanspruch: Hoechstgrenze, Anlagepflicht, Abrechnungsfrist, Einbehalt und Verjährung.
 
 **Kommunikation und WEG**
 
 - `mieteranfragen-beantworten` — Beantwortung von Mieteranfragen sachlich und rechtlich korrekt für Vermieter und Hausverwaltungen.
-- `weg-beschluss-anfechten` — Prueft Beschlussanfechtungs- und Nichtigkeitsklage nach §§ 44 ff. WEG 2020 mit Monatsfrist.
+- `weg-beschluss-anfechten` — Prüft Beschlussanfechtungs- und Nichtigkeitsklage nach §§ 44 ff. WEG 2020 mit Monatsfrist.
 
 **Klage**
 

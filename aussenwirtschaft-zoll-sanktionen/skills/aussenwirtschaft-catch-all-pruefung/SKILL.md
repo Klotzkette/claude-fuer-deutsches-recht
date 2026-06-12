@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-catch-all-pruefung
-description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meld..."
+description: "Catch-All-Prüfung nach Art. 4 VO (EU) 2021/821: Genehmigungspflicht für nicht-gelistete Dual-Use-Gueter bei Kenntnis militaerischer Endverwendung oder WMD-Proliferationsgefahr. Identifikation von Catch-All-Ausloesetatbestaenden (positive Kenntnis, Informationspflicht), Konsequenzen und BAFA-Meld..."
 ---
 
 # Catch-All-Prüfung: Genehmigungspflicht für nicht-gelistete Gueter
@@ -36,7 +36,7 @@ description: "Catch-All-Pruefung nach Art. 4 VO (EU) 2021/821: Genehmigungspflic
 - **§ 9 AWG**: Grundtatbestand des Genehmigungserfordernisses.
 - **Anhang I VO (EU) 2021/821**: Ausschuss-Regime und gelistete Gueter (Abgrenzung).
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Positive Kenntnis oder BAFA-Hinweis vorhanden?
 - [ ] Endverwender und Endverwendung vollstaendig ermittelt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

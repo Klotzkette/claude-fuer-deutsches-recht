@@ -38,11 +38,11 @@ Sie haben eine Anspruchsgrundlage gefunden (Skill `anspruchsgrundlage-finden-lai
 
 Beispiel § 280 I BGB:
 
-> "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Glaeubiger Ersatz des hierdurch entstehenden Schadens verlangen. Dies gilt nicht, wenn der Schuldner die Pflichtverletzung nicht zu vertreten hat."
+> "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Gläubiger Ersatz des hierdurch entstehenden Schadens verlangen. Dies gilt nicht, wenn der Schuldner die Pflichtverletzung nicht zu vertreten hat."
 
 ### Schritt 2 — Tatbestand isolieren
 
-Tatbestand = das was VOR "so kann der Glaeubiger ... verlangen" steht. Hier:
+Tatbestand = das was VOR "so kann der Gläubiger ... verlangen" steht. Hier:
 
 - Schuldverhaeltnis.
 - Pflichtverletzung des Schuldners.

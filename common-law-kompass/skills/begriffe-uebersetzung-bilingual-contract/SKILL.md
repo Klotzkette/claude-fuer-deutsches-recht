@@ -1,6 +1,6 @@
 ---
 name: begriffe-uebersetzung-bilingual-contract
-description: "Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Frien..."
+description: "Deutscher Anwalt übersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Äquivalent False-Frien..."
 ---
 
 # Begriffs- und Übersetzungswerkstatt
@@ -54,14 +54,14 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 
-## Vertiefung: Kernbegriffe und Uebersetzungsfallen
+## Vertiefung: Kernbegriffe und Übersetzungsfallen
 
-| Englischer Begriff | Falsche dt. Uebersetzung | Richtige Einordnung | Fundstelle |
+| Englischer Begriff | Falsche dt. Übersetzung | Richtige Einordnung | Fundstelle |
 |---|---|---|---|
 | Consideration | Gegenleistung | Verpflichtungselement; Bargain; kein Synallagma | Currie v Misa [1875] |
 | Warranty | Garantie | Zusicharung im Vertrag; Verletzung = Schadensersatz (kein Ruecktritt) | SGA 1979 s 61 |
 | Condition | Bedingung | Wesentliches Vertragselement; Verletzung = Kuendigung und Schadensersatz | Bunge v Tradax [1981] |
-| Indemnity | Buergschaft | Primaere selbstaendige Haftung (kein Ausfallerfordernis) | Moschi v Lep [1973] |
+| Indemnity | Buergschaft | Primaere selbständige Haftung (kein Ausfallerfordernis) | Moschi v Lep [1973] |
 | Guarantee | Garantie | Sekundaere Haftung; nur bei Ausfall des Hauptschuldners | Holme v Brunskill (1878) |
 | Estoppel | Bestandskraft / Verwirkung | Rechtshinderungseinwand; verschiedene Arten (promissory, proprietary, common law) | Central London Property v High Trees [1947] |
 | Tort | Delikt | Ausservertragliche Haftung; weiter als BGB-Deliktsrecht | Donoghue v Stevenson [1932] |
@@ -73,14 +73,14 @@ Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf l
 - **Central London Property Trust v High Trees House** [1947] KB 130 — Promissory estoppel: promisor bound by promise relied upon; no consideration required for variation if reliance present.
 - **Photo Production v Securicor Transport** [1980] AC 827 (HL) — Exclusion clauses and fundamental breach: no rule of law preventing exclusion of liability for fundamental breach; clear words suffice.
 
-## Triage vor Uebersetzung
+## Triage vor Übersetzung
 
 Bevor losgelegt wird, klaere:
 1. In welchem Kontext steht der Begriff — Vertragsklausel, Schriftsatz, Mandantenmemo?
 2. UK oder US Kontext — einige Begriffe divergieren erheblich.
 3. Ist ein Rechtsbegriff gemeint oder ein umgangssprachlicher Begriff?
 
-## Output-Template: Uebersetzungs-Matrix
+## Output-Template: Übersetzungs-Matrix
 
 ```
 UEBERSETZUNGSMATRIX COMMON LAW

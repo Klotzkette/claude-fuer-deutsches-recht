@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsprivatrecht-dogmatik
-description: "Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert."
+description: "Prüft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert."
 ---
 
 # Wirtschaftsprivatrecht und Dogmatik

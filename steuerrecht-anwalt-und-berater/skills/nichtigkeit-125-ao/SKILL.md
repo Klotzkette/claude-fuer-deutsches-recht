@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-125-ao
-description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertat..."
+description: "Prüfung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertat..."
 ---
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO
@@ -23,7 +23,7 @@ description: "Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids 
 ## Rechtsgrundlagen
 
 - **§ 125 AO** — Nichtigkeit eines Verwaltungsakts.
-- **§ 124 AO** — Wirksamkeit; Verhaeltnis zur Nichtigkeit.
+- **§ 124 AO** — Wirksamkeit; Verhältnis zur Nichtigkeit.
 - **§ 41 FGO** — Feststellungsklage auf Nichtigkeit.
 - **§ 218 AO** — Vollstreckungsabwehr.
 - **Art. 19 Abs. 4 GG** — Rechtsschutzgarantie.

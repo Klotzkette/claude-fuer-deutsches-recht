@@ -223,7 +223,7 @@ description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher p
 - **BVerwG 09.06.2010, 9 A 20.08** (Bahnstromleitung): Anforderungen an Planfeststellung; immissionsschutzrechtliche Massgaben. Quelle: bverwg.de.
 - **BGH (EnVR-Senat)**: Laufende Senatsrspr. zur ARegV, StromNEV-Anwendung; konkrete Aktenzeichen vor Ausgabe per bundesgerichtshof.de / OLG Duesseldorf (3. Kartellsenat) verifizieren.
 - **OLG Duesseldorf VI-3 Kart**: laufende Senatsrspr. zu BNetzA-Beschluessen; öffentliche Entscheidungsdatenbank olg-duesseldorf.nrw.de.
-- **EnWG-Reform 2023/2024** (BGBl. I 2023 S. 1565 — EnWG-Aenderung im Rahmen Solarpaket I; sowie BGBl. I 2024): Umsetzung der EU-Strommarkt-Reform 2024/1747.
+- **EnWG-Reform 2023/2024** (BGBl. I 2023 S. 1565 — EnWG-Änderung im Rahmen Solarpaket I; sowie BGBl. I 2024): Umsetzung der EU-Strommarkt-Reform 2024/1747.
 
 Konkrete Beschwerdeentscheidungen vor Ausgabe per olg-duesseldorf.nrw.de / bundesgerichtshof.de verifizieren.
 

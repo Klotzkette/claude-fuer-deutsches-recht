@@ -1,6 +1,6 @@
 ---
 name: acc3-local-counsel-briefen
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für ACC3-Mandat briefen: Designierungsverlust Sicherheitsauflage oder Carrier-Insolvenz. Skill erstellt englisches Briefing-Memo mit EU-Sicherheitsrecht und konkreten Fragen im Luftrecht Flughafenrecht."
+description: "Deutsches Kanzleiteam muss ausländischen Anwalt für ACC3-Mandat briefen: Designierungsverlust Sicherheitsauflage oder Carrier-Insolvenz. Skill erstellt englisches Briefing-Memo mit EU-Sicherheitsrecht und konkreten Fragen im Luftrecht Flughafenrecht."
 ---
 
 # ACC3 – Local Counsel briefen

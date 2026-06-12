@@ -54,7 +54,7 @@ description: "Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung 
 - §§ 476-905.
 - Reformiert durch Seehandelsreform 25.04.2013.
 
-## Verhaeltnis zum BGB
+## Verhältnis zum BGB
 
 - HGB ist Sondergesetz für Kaufleute.
 - BGB ist Grundlage.

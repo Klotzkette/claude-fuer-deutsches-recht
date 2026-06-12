@@ -1,6 +1,6 @@
 ---
 name: belegte-compliance-aktenvermerk
-description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Pruefraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu..."
+description: "Erstellt Compliance-Aktenvermerke bei Klage-Nichtaufnahme Mandantenfreigabe oder begruendetem Klage-Verzicht. Dokumentiert Sachverhalt Prüfraster Mandantenentscheid und Wiedervorlage. Pinpoints BORA 50 Aktenpflicht BRAO 43a Verschwiegenheit BGB 280 Beratungsfehlerhaftung. Liefert Aktenvermerk-Mu..."
 ---
 
 # Belegte Compliance Aktenvermerk
@@ -19,7 +19,7 @@ Wenn eine Forderung nicht weiterverfolgt wird braucht es einen sauberen Aktenver
 ## Pflicht-Inhalte
 
 1. Sachverhalt knapp
-2. Pruefraster mit Norm-Pinpoints
+2. Prüfraster mit Norm-Pinpoints
 3. Aussichtsbewertung mit Begruendung
 4. Mandantenhinweis und Belehrung
 5. Mandantenentscheidung mit Datum und Unterschrift

@@ -1,30 +1,30 @@
 ---
 name: negotiorum-gestio-im-alr
-description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill behandelt ALR I 13 §§ 207-251 zur GoA das Verhaeltnis zur roemischen actio negotiorum gestorum die Aufwendungsersatzlogik und die Fortwirkung in §§ 677-687 BGB. Liefert Quellenmatrix."
+description: "Geschäftsführung ohne Auftrag (negotiorum gestio) im ALR. Skill behandelt ALR I 13 §§ 207-251 zur GoA das Verhältnis zur roemischen actio negotiorum gestorum die Aufwendungsersatzlogik und die Fortwirkung in §§ 677-687 BGB. Liefert Quellenmatrix."
 ---
 
 # Pralr Negotiorum Gestio Im Alr
 
 ## Norm
 
-- ALR I 13 §§ 207 ff. — Geschaeftsfuehrung ohne Auftrag.
+- ALR I 13 §§ 207 ff. — Geschäftsführung ohne Auftrag.
 - ALR uebernimmt im wesentlichen die roemische Lehre der negotiorum gestio.
 
 ## Tatbestand
 
-- Geschaeftsfuehrer fuehrt fremdes Geschäft ohne Auftrag.
-- Im Interesse und mutmasslich Willen des Geschaeftsherrn.
-- Mit Geschaeftsfuehrungswillen.
+- Geschäftsführer fuehrt fremdes Geschäft ohne Auftrag.
+- Im Interesse und mutmasslich Willen des Geschäftsherrn.
+- Mit Geschäftsführungswillen.
 
 ## Rechtsfolgen
 
-- Aufwendungsersatz für den Geschaeftsfuehrer.
-- Bei pflichtwidriger Geschaeftsfuehrung Schadensersatz an Geschaeftsherrn.
+- Aufwendungsersatz für den Geschäftsführer.
+- Bei pflichtwidriger Geschäftsführung Schadensersatz an Geschäftsherrn.
 
 ## Sonderfaelle
 
 - Notgeschaeftsfuehrung (Rettung Hab und Gut bei Brand): ALR-Sondervorschriften.
-- Geschaeftsanmassung (eigener Vorteil aus fremdem Geschäft): Herausgabepflicht.
+- Geschäftsanmassung (eigener Vorteil aus fremdem Geschäft): Herausgabepflicht.
 
 ## Fortwirkung BGB
 
@@ -32,7 +32,7 @@ description: "Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill 
 - §§ 683, 670 BGB Aufwendungsersatz.
 - § 687 BGB unechte GoA.
 
-## Pruefraster
+## Prüfraster
 
 1. Fremdes Geschäft?
 2. Ohne Auftrag?

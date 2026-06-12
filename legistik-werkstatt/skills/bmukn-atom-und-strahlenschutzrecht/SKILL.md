@@ -1,11 +1,11 @@
 ---
 name: bmukn-atom-und-strahlenschutzrecht
-description: "Sachbereich Atom- und Strahlenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.); Akteure (BMUKN; BASE; BGE; BfS; Länder-Atomaufsichten; Reaktor-Sicherheitskommission.); EU-Bezug (Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.); ty..."
+description: "Sachbereich Atom- und Strahlenschutzrecht im Geschäftsbereich BMUKN: Normbestand (AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.); Akteure (BMUKN; BASE; BGE; BfS; Länder-Atomaufsichten; Reaktor-Sicherheitskommission.); EU-Bezug (Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.); ty..."
 ---
 
 # Atom- und Strahlenschutzrecht (BMUKN)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Atom- und Strahlenschutzrecht im Geschaeftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Atom- und Strahlenschutzrecht im Geschäftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Atom- und Strahlenschutzrecht im Geschaeftsbereich BMU
 
 Kernbestand des Sachfelds: AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Endlager-Standortauswahl; Klagen gegen Standortentscheidung; internationale Sicherheits-konventionen.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

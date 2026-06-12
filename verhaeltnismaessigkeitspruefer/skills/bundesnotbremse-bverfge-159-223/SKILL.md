@@ -1,13 +1,13 @@
 ---
 name: bundesnotbremse-bverfge-159-223
-description: Bundesnotbremse BVerfGE Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhaeltnismaessigkeitspruefung der Pandemie-Massnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissenslage und Pruefung Stufe fuer Stufe.
+description: Bundesnotbremse BVerfGE Band 159 Seite 223 vom 19.11.2021 als vollstaendige Verhältnismäßigkeitspruefung der Pandemie-Maßnahmen Ausgangsbeschraenkung und Kontaktbeschraenkung. Mit Einschaetzungspraerogative bei dynamischer Wissenslage und Prüfung Stufe fuer Stufe.
 ---
 
 # Bundesnotbremse BVerfGE 159 223
 
 ## Sachverhalt
 
-Vierte Aenderung des Infektionsschutzgesetzes vom 22.04.2021 sah
+Vierte Änderung des Infektionsschutzgesetzes vom 22.04.2021 sah
 naechtliche Ausgangsbeschraenkungen, Kontaktbeschraenkungen,
 Schulschliessungen vor, wenn Sieben-Tage-Inzidenz bestimmte Werte
 ueberschritt. Mehr als 7000 Verfassungsbeschwerden.
@@ -15,7 +15,7 @@ ueberschritt. Mehr als 7000 Verfassungsbeschwerden.
 ## Entscheidung
 
 Senat 1 BVerfG, Beschluss 19.11.2021, 1 BvR 781/21 ua, BVerfGE 159, 223 (Bundesnotbremse).
-Bundesnotbremse verfassungsgemaess. Verhaeltnismaessigkeitspruefung Stufe für Stufe.
+Bundesnotbremse verfassungsgemaess. Verhältnismäßigkeitspruefung Stufe für Stufe.
 
 ## Stufenweise Prüfung
 
@@ -43,13 +43,13 @@ Aussetzungsklausel**. Angemessen.
 
 - Erste vollstaendige BVerfG-Prüfung von Pandemie-Maßnahmen.
 - Bekraeftigung der Einschaetzungspraerogative bei dynamischen Krisen.
-- Befristung Ausnahmen Schwellenwerte als Verhaeltnismaessigkeitsstuetzen.
+- Befristung Ausnahmen Schwellenwerte als Verhältnismäßigkeitsstuetzen.
 - Recht auf Selbstgefaehrdung tritt zurueck bei Drittgefaehrdung.
 
 ## Implikation für den Prüfer
 
 Bei dynamischen Gefahrenlagen:
 - bestaetige Geeignetheit bei vertretbarer Prognose.
-- pruefe Erforderlichkeit konkret an verfuegbaren Alternativen.
-- pruefe Angemessenheit unter Beruecksichtigung von Befristung Ausnahmen
+- prüfe Erforderlichkeit konkret an verfuegbaren Alternativen.
+- prüfe Angemessenheit unter Beruecksichtigung von Befristung Ausnahmen
   und Folgenanpassung.

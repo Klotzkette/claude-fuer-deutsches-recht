@@ -88,7 +88,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 - Pflicht-Erwaehnung im Tatsachenvortrag.
@@ -101,7 +101,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -193,7 +193,7 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Internationales Wirtschafts- und Schiedsrecht ggf. spezifische ERV-Pflichten beachten.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Internationales Wirtschafts- und Schiedsrecht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
@@ -232,7 +232,7 @@ Vor Versand:
 - **Art. 7 Nr. 1 lit. b EuGVVO (VO 1215/2012)** — besonderer Gerichtsstand am Erfulllungsort
 - **Art. 4, 6 Rom-I-VO (VO 593/2008)** — anwendbares Vertragsrecht; Regelanknupfung und Rechtswahl
 - **§§ 1025–1066 ZPO** — Schiedsverfahrensrecht; §§ 1060–1061 ZPO Vollstreckbarerklarung
-- **§ 328 ZPO** — Anerkennungshindernisse auslaendischer Urteile; Art. 45 EuGVVO — Versagungsgruende EU
+- **§ 328 ZPO** — Anerkennungshindernisse ausländischer Urteile; Art. 45 EuGVVO — Versagungsgruende EU
 - **§ 296 ZPO** — Zurueckweisung verspateten Vortrags; § 139 ZPO — richterliche Hinweispflicht
 
 ### Quellenregel

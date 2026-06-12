@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendie..."
+description: "Skill zur vorläufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Prüfdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhältnis zur Suspendie..."
 ---
 
 # Vorlaeufige Dienstenthebung § 38 BDG
@@ -39,7 +39,7 @@ Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf.
 - Bis zur Haelfte der monatlichen Dienstbezuege; im Einzelfall bis zu Vollbetrag bei voraussichtlicher Entfernung.
 - Beruecksichtigung Unterhaltspflichten.
 
-### d) Verhaeltnis zum Strafverfahren
+### d) Verhältnis zum Strafverfahren
 - Vorlaeufige Dienstenthebung ist unabhaengig vom Strafverfahren möglich; Vorermittlungen und Beweisaufnahme im Strafverfahren beeinflussen aber die Prognose der Entfernung.
 
 ### e) Folgen für Bezuege und Beihilfe
@@ -48,7 +48,7 @@ Skill für Mandanten, deren Dienstherr eine vorläufige Dienstenthebung und ggf.
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 38, 63 BDG; landesrechtliche Aequivalente.
+- Normen: §§ 38, 63 BDG; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zur vorläufigen Dienstenthebung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 

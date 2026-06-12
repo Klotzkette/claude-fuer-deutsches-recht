@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Datenschutz, Hausrecht, Klingeln, Listenfuehrung, Sicherheit, Deeskalation und Gespraechsnotizen.
+Prüft Datenschutz, Hausrecht, Klingeln, Listenfuehrung, Sicherheit, Deeskalation und Gespraechsnotizen.
 
 ## Rechts- und Praxislogik
 

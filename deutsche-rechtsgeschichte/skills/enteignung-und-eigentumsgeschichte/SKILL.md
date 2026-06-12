@@ -15,14 +15,14 @@ description: "Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Soz
 
 ## Worum es geht
 
-Das Verhaeltnis von Eigentum und staatlichem Zugriff ist ein Kernthema der deutschen Rechtsgeschichte. Im Kaiserreich galt das Allgemeine Preussische Enteignungsgesetz 1874 (PrEG, PrGBl. 1874, 221) als Muster. Die WRV Art. 153 garantierte Eigentum mit Sozialbindung und Entschaedigungsgebot. Das NS-Regime enteignete politische Gegner und Juden ohne Entschaedigung (11. Verordnung zum RBG 1941). Das GG Art. 14 schuetzt Eigentum mit Sozialbindung und Entschaedigungsgebot (Abs. 3). Die DDR-Bodenreform-Enteignungen 1945-49 blieben nach Einigungsvertrag endgueltig (BVerfGE 84, 90).
+Das Verhältnis von Eigentum und staatlichem Zugriff ist ein Kernthema der deutschen Rechtsgeschichte. Im Kaiserreich galt das Allgemeine Preussische Enteignungsgesetz 1874 (PrEG, PrGBl. 1874, 221) als Muster. Die WRV Art. 153 garantierte Eigentum mit Sozialbindung und Entschaedigungsgebot. Das NS-Regime enteignete politische Gegner und Juden ohne Entschaedigung (11. Verordnung zum RBG 1941). Das GG Art. 14 schuetzt Eigentum mit Sozialbindung und Entschaedigungsgebot (Abs. 3). Die DDR-Bodenreform-Enteignungen 1945-49 blieben nach Einigungsvertrag endgueltig (BVerfGE 84, 90).
 
 ## Kernnormen / Kernquellen
 
 - **WRV Art. 153**: Eigentumsgarantie mit Entschaedigungspflicht
 - **GG Art. 14**: Eigentumsgarantie mit Sozialbindung und Enteignungsgebot
 - **PrEG 1874 (PrGBl. 1874, 221)**: Preussisches Enteignungsgesetz
-- **11. Verordnung zum RBG 1941 (RGBl. I 1941, 722)**: NS-Vermoegensenteignung von Juden
+- **11. Verordnung zum RBG 1941 (RGBl. I 1941, 722)**: NS-Vermögensenteignung von Juden
 - **BVerfGE 84, 90** (1991): DDR-Bodenreform-Enteignungen keine Grundrechtsverletzung
 
 ## Akteure und Institutionen

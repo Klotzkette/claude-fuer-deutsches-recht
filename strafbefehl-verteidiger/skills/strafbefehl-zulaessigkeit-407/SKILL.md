@@ -57,7 +57,7 @@ Zulässigkeit des Strafbefehls nach § 407 StPO. Nur Vergehen. Sanktionskatalog 
 - Verfassungsrechtliche Maßstaebe an die Bestimmtheit der Anklage nach Art. 103 Abs. 2 GG gelten auch für den Strafbefehl (§ 409 StPO); vgl. BVerfG-Linie 2 BvR. Aktualisierungen vor Ausgabe in dejure.org / bverfg.de prüfen.
 - Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Zulaessigkeit nach § 407 StPO ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 407 StPO Zulaessigkeit" durchführen.
 
-## Pruef-Checkliste Zulaessigkeit
+## Prüf-Checkliste Zulaessigkeit
 
 ```
 □ Delikt ist Vergehen (§ 12 Abs. 2 StGB), nicht Verbrechen?

@@ -1,6 +1,6 @@
 ---
 name: compliance-program-drittpersonal
-description: "Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister im Sozialversicherungsstatus Pruefer."
+description: "Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister im Sozialversicherungsstatus Prüfer."
 ---
 
 # Compliance-Programm Drittpersonal

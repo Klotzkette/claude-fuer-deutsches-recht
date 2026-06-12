@@ -15,12 +15,12 @@ description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-R
 
 ## Kernsachverhalt
 
-Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Glaeubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant für Software, Patente, Markenrechte, Franchise.
+Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubigers besteuert; viele deutsche DBA weichen jedoch ab und gewaehren dem Quellenstaat ein Restbesteuerungsrecht (0/5/10 Prozent Quellensteuer). § 50g EStG setzt die Zins-/Lizenz-Richtlinie um (0 Prozent bei verbundenen EU-Unternehmen). § 50a EStG begruendet Steuerabzugspflicht beim deutschen Vergueterschuldner; § 50c EStG regelt BZSt-Entlastung. Praxisrelevant für Software, Patente, Markenrechte, Franchise.
 
 ## Kaltstart-Rueckfragen
 
 1. Art der Lizenz: Software, Patent, Marke, Know-how, Film, Musik, Franchise?
-2. Vergueterschuldner: deutscher Lizenznehmer? Glaeubiger: auslaendischer Lizenzgeber?
+2. Vergueterschuldner: deutscher Lizenznehmer? Gläubiger: ausländischer Lizenzgeber?
 3. Verbundene Unternehmen iSd ZinsLizenzRL (25 Prozent Beteiligung)?
 4. EU/EWR-Beteiligung oder Drittland?
 5. Substanz der Lizenzgesellschaft (IP-Box, Briefkasten)?
@@ -115,7 +115,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Glaeubig
 - **Vertrag prüfen, ob Software-Lizenz oder Software-Kauf**: Prüfer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
 - **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags prüfen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste über OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
 - **EU-ZinsLizenzRL: 24-Monatsfrist beachten**: nach § 50g EStG mindestens 24 Monate Verbundenheit vor Zahlung. Bei jungen Konzernstrukturen oft nicht erfuellt — DBA-Hoechstsatz greift.
-- **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Glaeubiger.
+- **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Gläubiger.
 - **Bei Online-Antrag DAV-Verfahren** für institutionelle Lizenzgeber möglich — Massen-Erstattung effizienter als Einzelantrag.
 
 ## Trade-off-Tabelle
@@ -133,7 +133,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Glaeubig
 - **Software-Lizenz vs. Software-Verkauf falsch qualifiziert**: BMF-Schreiben zur Abgrenzung (live abrufen) verlangt Vertragsanalyse.
 - **§ 50a-Einbehalt unterlassen**: deutscher Vergueterschuldner zahlt brutto an Auslandsempfaenger, ohne Freistellungsbescheinigung — Haftung § 50a Abs. 5 EStG.
 - **§ 4j EStG-Lizenzschranke ignoriert**: Memo argumentiert Betriebsausgabenabzug der Lizenzgebuehr, ohne IP-Box-Prüfung.
-- **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschaeftstaetigkeit — Entlastung verweigert.
+- **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschäftstaetigkeit — Entlastung verweigert.
 - **ZinsLizenzRL-Voraussetzungen nicht geprueft**: Beteiligungshoehe (25 Prozent), Haltedauer (24 Monate), EU/EWR-Ansaessigkeit, Empfaengerrechtsform.
 - **Brexit-Wirkung uebersehen**: UK seit 2021 kein ZinsLizenzRL — Memo argumentiert noch mit RL-Vorteil.
 - **Russland uebersehen**: DBA-Suspendierung 30.12.2023; Erstattungs-Antraege für Zeitraeume nach Suspendierung scheitern.
@@ -148,7 +148,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Glaeubig
  - Ansaessigkeitsbescheinigung (Original oder beglaubigte Kopie).
  - Lizenzvertrag (vollstaendig).
  - Verguetungsabrechnungen.
- - Substanzdokumentation (Personal, Geschaeftsraeume).
+ - Substanzdokumentation (Personal, Geschäftsraeume).
  - Steuerbescheinigung des deutschen Vergueterschuldners (KapErtSt-Bescheinigung).
 6. **Einreichung digital über BOP**.
 7. **Bearbeitung 6-24 Monate**; Rueckfragen fristgerecht beantworten.

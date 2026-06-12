@@ -22,14 +22,14 @@ Die Treuhandanstalt (THA) wurde mit dem Treuhandgesetz vom 17. Juni 1990 (GBl. I
 - **Treuhandgesetz 1990 (GBl. I DDR 1990, 300)**: Gruendungsgesetz der THA
 - **Einigungsvertrag Art. 25**: Ueberleitung der THA in Bundesrecht
 - **D-Mark-Bilanz-Gesetz 1990 (BGBl. II 1990, 1460)**: Bewertung des DDR-Volksvermoegen
-- **THA-Geschaeftsbericht** (jaeehrlich): Privatisierungsstatistik
+- **THA-Geschäftsbericht** (jaeehrlich): Privatisierungsstatistik
 - **Bundesschuldenwesengesetz**: THA-Schulden als Bundeserbschaft
 
 ## Akteure und Institutionen
 
 - **Detlev Karsten Rohwedder** (1932-1991): THA-Chef bis zu seiner Ermordung
 - **Birgit Breuel** (*1937): THA-Chefin 1991-1994
-- **SED/PDS**: Auflosung des DDR-Staatsapparats und Vermoegensfragen
+- **SED/PDS**: Auflosung des DDR-Staatsapparats und Vermögensfragen
 - **Bundestag**: Beschraenkte parlamentarische Kontrolle der THA
 
 ## Typische Streitfragen / Forschungsfragen

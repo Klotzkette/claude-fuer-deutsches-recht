@@ -17,7 +17,7 @@ description: "Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betr
 
 1. **Oeffentliche oder private Ladeinfrastruktur?** — Öffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
 2. **Standort?** — Privatgrundstuck, öffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
-3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Aenderungen können LBO-pflichtig sein.
+3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Änderungen können LBO-pflichtig sein.
 4. **Netzanschlusspflicht des Netzbetreibers?** — § 8 EnWG: Anschlusspflicht des Netzbetreibers; Verweigerung nur aus tatsaechlichen oder rechtlichen Gruenden (Kapazitaet, Sicherheit).
 5. **Förderung möglich?** — BAFA-Förderung für Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
 

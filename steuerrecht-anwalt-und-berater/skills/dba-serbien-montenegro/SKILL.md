@@ -66,7 +66,7 @@ Das DBA Deutschland-Jugoslawien vom 26.03.1987 (BGBl. 1988 II S. 745) gilt nach 
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4) — bei Diaspora insbesondere Mittelpunkt Lebensinteressen.
 2. Sachliche Anwendbarkeit (Art. 2) — alter DBA-Jugoslawien-Katalog.

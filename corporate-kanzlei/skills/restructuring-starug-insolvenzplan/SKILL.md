@@ -125,7 +125,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — StaRUG-Anzeige oder Insolvenzplan vorbereiten | Schriftsatzbausteine unten nach Baustein 1-3 |
 | Variante A — Schuldner bevorzugt aussergerichtliche Loesung | StaRUG-Anzeige und stiller Restrukturierungsrahmen prüfen |
-| Variante B — Glaeubigerwiderstands hoch | Planbestaetigungsverfahren mit Cram-down § 26 StaRUG erwaegen |
+| Variante B — Gläubigerwiderstands hoch | Planbestaetigungsverfahren mit Cram-down § 26 StaRUG erwaegen |
 | Variante C — Insolvenz unvermeidbar | Direkter Weg in regulaere Insolvenz; StaRUG nicht mehr sinnvoll |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.

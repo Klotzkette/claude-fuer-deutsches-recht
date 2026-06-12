@@ -40,7 +40,7 @@ Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Ab
 - **UZK-IA Art. 49 ff.**: Verwaltung und Zuteilung von Zollkontingenten.
 - **UZK Art. 49**: Kritisches Kontingent und Sicherheitsleistung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] TARIC-Kontingente für Ware und Ursprungsland abgefragt?
 - [ ] Kontingentart und Verwaltungsstelle korrekt identifiziert?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

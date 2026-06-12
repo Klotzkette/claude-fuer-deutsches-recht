@@ -12,7 +12,7 @@ Dieser Einstieg routet **Vertragsrecht** vom ersten Sachverhalt zu Rollen, Frist
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
 - `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router

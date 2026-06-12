@@ -34,7 +34,7 @@ A verkauft B seine Forderung gegen C.
 - BGB § 90 BGB: nur koerperliche Gegenstaende sind Sachen.
 - §§ 398 ff. BGB: Forderung wird separat behandelt.
 
-## Pruefraster
+## Prüfraster
 
 1. Sache oder Recht?
 2. Beweglich oder unbeweglich?

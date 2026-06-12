@@ -1,6 +1,6 @@
 ---
 name: executory-contracts-exemptions-financial
-description: "Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment im US Bankruptcy Code."
+description: "Prüft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment im US Bankruptcy Code."
 ---
 
 # Executory Contracts § 365

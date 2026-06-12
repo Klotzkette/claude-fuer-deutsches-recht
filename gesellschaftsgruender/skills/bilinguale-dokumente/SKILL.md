@@ -144,9 +144,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Bilinguales Dokument erstellen Deutsch-Englisch | Bilinguale Vorlage nach Vorrang-Klausel-Schema; Template unten |
-| Variante A — Nur eine Sprache rechtlich bindend | Monolinguales Kerndokument mit Uebersetzung zur Information |
+| Variante A — Nur eine Sprache rechtlich bindend | Monolinguales Kerndokument mit Übersetzung zur Information |
 | Variante B — Fremdrechts-Bezug notwendig Governing Law noetig | Rechtswahl-Klausel und Gerichtsstand explizit regeln |
-| Variante C — Mandant will nur interne Verwendung kein Vollzug noetig | Vereinfachte Uebersetzung ohne juristische Bindefassung |
+| Variante C — Mandant will nur interne Verwendung kein Vollzug noetig | Vereinfachte Übersetzung ohne juristische Bindefassung |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -277,7 +277,7 @@ In case of discrepancies, the German version shall prevail.
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -424,7 +424,7 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 - Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (§ 5 BeurkG; OLG Frankfurt 2019)
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Ausschließlich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
-- Schiedsspruch auf Englisch ohne Uebersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
+- Schiedsspruch auf Englisch ohne Übersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
 
 ## Anschluss-Skills
 
@@ -438,8 +438,8 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 - § 184 GVG (Amtssprache Deutsch)
 - § 5 BeurkG (Beurkundungssprache; Dolmetscher-Pflicht)
 - §§ 133, 157 BGB (Auslegungsgrundsaetze)
-- § 1064 Abs. 3 ZPO (Vollstreckung auslaendischer Schiedsspruche; Uebersetzungspflicht)
-- § 1061 ZPO i.V.m. New York Convention (Anerkennung auslaendischer Schiedsspruche)
+- § 1064 Abs. 3 ZPO (Vollstreckung ausländischer Schiedsspruche; Übersetzungspflicht)
+- § 1061 ZPO i.V.m. New York Convention (Anerkennung ausländischer Schiedsspruche)
 - Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 <!-- AUDIT 27.05.2026

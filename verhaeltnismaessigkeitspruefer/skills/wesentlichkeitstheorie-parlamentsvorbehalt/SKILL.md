@@ -28,7 +28,7 @@ Je grundrechtsrelevanter eine Frage ist, desto eher muss der Gesetzgeber sie **s
 | Bundeswehr | BVerfGE 90, 286 | Somalia-Einsatz | Auslandseinsatz beduerfte konstitutiver Parlamentsbeteiligung |
 | Klima | BVerfGE 157, 30 | Klimaschutz-Beschluss | Wesentliche Belastungsverteilung in die Zukunft braucht parlamentarische Steuerung |
 
-## Pruefraster
+## Prüfraster
 
 1. **Grundrechtsrelevanz** der Regelung prüfen.
 2. **Schwere** des Eingriffs einschaetzen.

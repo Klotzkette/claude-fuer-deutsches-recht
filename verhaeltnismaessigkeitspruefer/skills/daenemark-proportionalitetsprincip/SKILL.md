@@ -1,6 +1,6 @@
 ---
 name: daenemark-proportionalitetsprincip
-description: Daenische Verhaeltnismaessigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkontrolltradition Inkorporationsgesetz EMRK von 1992 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und zur dominanten Rolle des EMRK-Massstabs in Eingriffsfaellen.
+description: Daenische Verhältnismäßigkeitsdogmatik mit Proportionalitetsprincip im Forvaltningsret und im Politilov 2004 als Eignung Noedvendighed Proportionalitet i snaever forstand. Mit Hoejesteret als Verfassungsgericht ohne formelle Normenkontrolltradition Inkorporationsgesetz EMRK von 1992 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und zur dominanten Rolle des EMRK-Maßstabs in Eingriffsfaellen.
 ---
 
 # Daenemark Proportionalitetsprincip
@@ -11,13 +11,13 @@ Die Danmarks Riges Grundlov von 1849 / 1953 (Grundloven) enthaelt einen
 historisch geschnittenen Grundrechtskatalog (Personenfreiheit Art 71,
 Hausrecht Art 72, Versammlung Art 79, Religion Art 67 ff). Eigenheiten:
 
-- Kein selbstaendiges Verfassungsgericht; verfassungsrechtliche Kontrolle
+- Kein selbständiges Verfassungsgericht; verfassungsrechtliche Kontrolle
   über die ordentliche Gerichtsbarkeit, letztinstanzlich Hoejesteret.
 - Hoejesteret hat in U 1999.841 H (Maastricht-Urteil) das Praerogativ
   inzidenter Verfassungspruefung bestaetigt; faktisch sehr
   zurueckhaltend.
 - EMRK wurde durch Inkorporationsgesetz Nr 285/1992 in daenisches
-  Recht uebernommen; Pruefungsmassstab für Eingriffe in Praxis
+  Recht uebernommen; Prüfungsmassstab für Eingriffe in Praxis
   ueberwiegend EMRK-foermig.
 
 ## Proportionalitetsprincip im Verwaltungsrecht
@@ -71,7 +71,7 @@ für Zwangsmittel.
 Bei daenischen Bezuegen:
 
 - Verhältnismäßigkeit primaer über Politilov, Retsplejelov und
-  Udlaendingelov stuetzen, EMRK als Massstab ergaenzen.
+  Udlaendingelov stuetzen, EMRK als Maßstab ergaenzen.
 - Hoejesteret-Zurueckhaltung in Verfassungsfragen einkalkulieren;
   Eingriffsargumente gehen schneller über EMRK durch.
 - Proportionalitetsprincip im daenischen Verwaltungsrecht als
@@ -83,4 +83,4 @@ Bei daenischen Bezuegen:
 
 Urteile vor Zitierung verifizieren über Karnov / UfR (Ugeskrift for
 Retsvaesen) und domstol dk. Gesetzestexte über retsinformation dk.
-EMRK-Inkorporationsgesetz Nr 285/1992 und Aenderungen prüfen.
+EMRK-Inkorporationsgesetz Nr 285/1992 und Änderungen prüfen.

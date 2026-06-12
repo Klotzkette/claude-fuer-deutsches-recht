@@ -1,6 +1,6 @@
 ---
 name: besitzdogmatik-historische-schule
-description: "Prueft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung."
+description: "Prüft Besitzdogmatik als Testfeld für historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung."
 ---
 
 # Besitzdogmatik, historische Schule und Systemdenken

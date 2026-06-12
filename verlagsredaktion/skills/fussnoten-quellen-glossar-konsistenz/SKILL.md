@@ -1,6 +1,6 @@
 ---
 name: fussnoten-quellen-glossar-konsistenz
-description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her im Verlagsredaktion."
+description: "Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prüft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her im Verlagsredaktion."
 ---
 
 # Fussnoten- und Quellen-Konsolidierung

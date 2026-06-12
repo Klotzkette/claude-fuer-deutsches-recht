@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand
-description: "Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB: Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hau..."
+description: "Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB: Voraussetzung der Vermögensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hau..."
 ---
 
 # Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB
@@ -18,25 +18,25 @@ description: "Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 St
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster für Mitarbeiter Treuhaender Verwalter.
+**Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermögensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Prüfraster für Mitarbeiter Treuhaender Verwalter.
 
-### Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermoegensbetreuungspflicht
+### Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermögensbetreuungspflicht
 
 ## Worum geht es konkret
 
-Der Treubruchstatbestand (zweite Alternative des Paragraph 266 Abs 1 StGB) ist die *Auffangnorm* der Untreue. Anders als der Missbrauchstatbestand (1. Alt.) setzt er keine im Aussenverhaeltnis wirksame rechtsgeschaeftliche Befugnis voraus. Es genuegt die *Treubindung* an fremde Vermoegensinteressen.
+Der Treubruchstatbestand (zweite Alternative des Paragraph 266 Abs 1 StGB) ist die *Auffangnorm* der Untreue. Anders als der Missbrauchstatbestand (1. Alt.) setzt er keine im Aussenverhaeltnis wirksame rechtsgeschaeftliche Befugnis voraus. Es genuegt die *Treubindung* an fremde Vermögensinteressen.
 
-Anwendungsfall: Treuhaender, der ein Konto für den Begueneten haelt; Vermoegensverwalter, der die Geldanlage selbst vornimmt; Stiftungsvorstand; Sachwalter im Schutzschirmverfahren; sogar der reine Buchhalter in Sonderfaellen.
+Anwendungsfall: Treuhaender, der ein Konto für den Begueneten haelt; Vermögensverwalter, der die Geldanlage selbst vornimmt; Stiftungsvorstand; Sachwalter im Schutzschirmverfahren; sogar der reine Buchhalter in Sonderfaellen.
 
-Die Schwelle ist die **Vermoegensbetreuungspflicht (VBP)**. Sie ist heute Hauptangriffspunkt jeder Verteidigung: Wer keine VBP hat, ist niemals Taeter der Untreue, selbst bei eindeutiger Schaedigung. Damit verlagert sich der Streit vom Schaden zur Pflicht.
+Die Schwelle ist die **Vermögensbetreuungspflicht (VBP)**. Sie ist heute Hauptangriffspunkt jeder Verteidigung: Wer keine VBP hat, ist niemals Taeter der Untreue, selbst bei eindeutiger Schaedigung. Damit verlagert sich der Streit vom Schaden zur Pflicht.
 
 ## Tatbestand im Detail
 
-### Voraussetzungen der Vermoegensbetreuungspflicht
+### Voraussetzungen der Vermögensbetreuungspflicht
 
 BGH-Linie verlangt für die VBP kumulativ:
 
-- **Fremdheit** der Vermoegensinteressen,
+- **Fremdheit** der Vermögensinteressen,
 - **Qualifizierte Pflicht** (mehr als allgemeine vertragliche Sorgfalt),
 - **Eigenstaendigkeit der Entscheidungsbefugnis** (kein blosser Weisungsempfaenger),
 - **Hauptsaechlichkeit** der Pflicht (= zentraler, nicht nur peripherer Inhalt des Rechtsverhaeltnisses; BGH staendige Rspr.).
@@ -45,7 +45,7 @@ BGH-Linie verlangt für die VBP kumulativ:
 
 - **Gesetz**: GF Paragraph 43 GmbHG; Vorstand Paragraph 93 AktG; Vormund Paragraph 1793 BGB; Insolvenzverwalter Paragraph 60 InsO.
 - **Behoerdlicher Auftrag**: gerichtlich bestellter Treuhaender, Pfleger, Betreuer.
-- **Rechtsgeschaeft**: Vermoegensverwaltungsvertrag, Treuhandvertrag, Geschaeftsbesorgungsvertrag mit Vermoegensbezug.
+- **Rechtsgeschaeft**: Vermögensverwaltungsvertrag, Treuhandvertrag, Geschäftsbesorgungsvertrag mit Vermögensbezug.
 - **Treueverhaeltnis** (sui generis): faktische Vertrauensstellung, z. B. langjaehriger Familienverwalter, der "wie selbstverstaendlich" das Vermögen verwaltet.
 
 ### Abgrenzung Missbrauch vs. Treubruch
@@ -60,22 +60,22 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 ## Praktikertipps der alten Hasen
 
 - **Mosaikpruefung der VBP.** Bei jedem Mandanten konkret prüfen: Was war seine Aufgabe? Eigenstaendiges Entscheiden über fremdes Vermögen oder nur Ausfuehren von Weisungen? Bei reinen Ausfuehrungstaetigkeiten (Kassierer, Buchhalter ohne Spielraum) regelmaessig keine VBP.
-- **Schwelle "hauptsaechlich" angreifen.** Wenn die Vermoegensbetreuung nur Nebenpflicht des Vertrags ist (z. B. Anwalt im Mandat: Vertretung ist Hauptpflicht, nicht Vermoegensverwaltung), faellt die VBP. BGH staendige Rspr.
+- **Schwelle "hauptsaechlich" angreifen.** Wenn die Vermögensbetreuung nur Nebenpflicht des Vertrags ist (z. B. Anwalt im Mandat: Vertretung ist Hauptpflicht, nicht Vermögensverwaltung), faellt die VBP. BGH staendige Rspr.
 - **Treueverhaeltnis "sui generis" ist Sondertatbestand.** Praxis selten. Wenn StA hier argumentiert, scharfe Erwiderung mit Beleg, dass kein faktisches Vertrauensverhaeltnis bestand.
 - **Pflichten verschmelzen mit Vertretungsmacht.** Bei eingetragenen GF und Vorstaenden ist VBP fast immer evident. Hier liegt der Schwerpunkt nicht im "ob", sondern im "ob konkret pflichtwidrig gehandelt".
-- **Compliance-Programme als Indikator.** Wenn das Unternehmen ein Compliance-System hat, das eindeutige Regeln zum Vermoegensschutz aufstellt, ist Pflichtwidrigkeit leichter beweisbar. Umgekehrt: bei fehlenden internen Regeln Verteidigung des Pflichtumfangs.
+- **Compliance-Programme als Indikator.** Wenn das Unternehmen ein Compliance-System hat, das eindeutige Regeln zum Vermögensschutz aufstellt, ist Pflichtwidrigkeit leichter beweisbar. Umgekehrt: bei fehlenden internen Regeln Verteidigung des Pflichtumfangs.
 
 ## Trade-off-Matrix
 
 | Pfad A VBP komplett bestreiten | Pfad B Pflicht ja, aber nicht hauptsaechlich | Empfehlung |
 | --- | --- | --- |
-| Bei Angestellten ohne Entscheidungsspielraum | Bei Beratern, Anwaelten, Steuerberatern, deren Beratung nur Teil der Leistung ist | Bei Geschaeftsfuehrern Pfad A regelmaessig aussichtslos; bei Beratern Pfad B oft tragfaehig. |
+| Bei Angestellten ohne Entscheidungsspielraum | Bei Beratern, Anwaelten, Steuerberatern, deren Beratung nur Teil der Leistung ist | Bei Geschäftsführern Pfad A regelmaessig aussichtslos; bei Beratern Pfad B oft tragfaehig. |
 
 ## Konkurrenzen
 
 - **Paragraph 266 Abs 1 Alt 2 StGB hinter Paragraph 266 Abs 1 Alt 1 StGB.** Wenn Missbrauch erfuellt ist, geht dieser als spezielleres Delikt vor. Treubruch wird nicht zusaetzlich verurteilt.
 - **Paragraph 266 StGB und Paragraph 246 Abs 2 StGB veruntreuende Unterschlagung.** Wenn der Treubruch in eigenhaendiger Zueignung besteht, kann Unterschlagung als spezielleres Delikt vorgehen; meist aber Konsumtion.
-- **Paragraph 266 StGB und Paragraph 283 StGB.** Bei Vermoegensentzug in der Krise Tateinheit.
+- **Paragraph 266 StGB und Paragraph 283 StGB.** Bei Vermögensentzug in der Krise Tateinheit.
 
 ## Strafzumessung und Folgen
 
@@ -87,9 +87,9 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermoegensverfuegungsbefugnis tätig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine für den Treubruchstatbestand erforderliche qualifizierte Vermoegensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Meine Mandantin war als Buchhalterin der Y GmbH ohne Prokura und ohne eigenstaendige Vermögensverfuegungsbefugnis tätig. Ihre Taetigkeit beschraenkte sich auf das Verbuchen vorliegender Belege nach Anweisung des GF. Eine für den Treubruchstatbestand erforderliche qualifizierte Vermögensbetreuungspflicht iSd staendigen BGH-Rspr. lag nicht vor; die Voraussetzungen der Hauptsaechlichkeit und Eigenstaendigkeit sind nicht erfuellt."
 
-**Einlassungs-Snippet:** "Meine Aufgabe war es, die Buchungen vorzunehmen, die mir der GF schriftlich oder muendlich angeordnet hat. Eigenstaendige Entscheidungen über Vermoegensverfuegungen habe ich nie getroffen. Die EUR 5.000-Ueberweisung an Lieferant Z am DD.MM.JJJJ hat der GF persoenlich angeordnet (E-Mail Anlage SS 1)."
+**Einlassungs-Snippet:** "Meine Aufgabe war es, die Buchungen vorzunehmen, die mir der GF schriftlich oder muendlich angeordnet hat. Eigenstaendige Entscheidungen über Vermögensverfuegungen habe ich nie getroffen. Die EUR 5.000-Überweisung an Lieferant Z am DD.MM.JJJJ hat der GF persoenlich angeordnet (E-Mail Anlage SS 1)."
 
 **Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Verlesung der internen Arbeitsanweisung der Y GmbH vom DD.MM.JJJJ zu erheben zum Beweis der Tatsache, dass meine Mandantin Buchungen nur nach schriftlicher Anweisung des GF vornehmen durfte."
 
@@ -97,7 +97,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 - Paragraph 266 Abs 1 Alt 2 StGB im Wortlaut (gesetze-im-internet.de).
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot bei Untreue).
-- BGH staendige Rspr. zur qualifizierten Vermoegensbetreuungspflicht (fremdnuetzig, hauptsaechlich, eigenstaendig).
+- BGH staendige Rspr. zur qualifizierten Vermögensbetreuungspflicht (fremdnuetzig, hauptsaechlich, eigenstaendig).
 - BGH staendige Rspr. zur Abgrenzung der Treubruchspflicht von blossen Vertragspflichten.
 - BGH staendige Rspr. zum faktischen Treueverhaeltnis.
 - Paragraph 43 GmbHG, Paragraph 93 AktG, Paragraph 1793 BGB, Paragraph 60 InsO als gesetzliche Pflichtquellen.

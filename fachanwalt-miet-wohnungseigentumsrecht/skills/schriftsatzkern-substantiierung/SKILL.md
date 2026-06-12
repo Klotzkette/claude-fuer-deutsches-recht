@@ -82,7 +82,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 - Pflicht-Erwaehnung im Tatsachenvortrag.
@@ -95,7 +95,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -187,7 +187,7 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Wohnraum-, Gewerberaum- und WEG-Recht ggf. spezifische ERV-Pflichten beachten.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Wohnraum-, Gewerberaum- und WEG-Recht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
@@ -221,7 +221,7 @@ Verifizierte Eckpunkte für Schriftsatzkern (Volltext jeweils über bundesgerich
 - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht): Begruendungsanforderungen Vermieter
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (§ 574 BGB Haerteklausel): vollstaendige Aufklaerung medizinischer Tatsachen
 - BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse zeitlich begrenzt auf Mietbeginn)
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (WEG-Kostenverteilung Aenderung; § 16 Abs. 2 Satz 2 WEG)
+- BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (WEG-Kostenverteilung Änderung; § 16 Abs. 2 Satz 2 WEG)
 - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit bei verspaeteter Zustellung von Anfechtungsklage)
 - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung: Prognose Endenergieeinsparung)
 

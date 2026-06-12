@@ -19,7 +19,7 @@ description: "Einstweiliger Rechtsschutz und Folgenabwaegung im Verfassungsrecht
 - Bundesverfassungsgericht, Verfahrensart "Einstweiliger Rechtsschutz": § 32 BVerfGG dient einer vorlaeufigen Regelung, damit die spaetere Entscheidung nicht leerlaeuft.
 - BVerfG, Beschluss vom 21.01.2025, 2 BvQ 2/25, und Beschluss vom 06.06.2025, 2 BvQ 39/25: aktuelle Kammerformel zu § 32 Abs. 1 BVerfGG mit Folgenabwaegung bei offenem Hauptsacheausgang.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - BVerfG-Verfahrensart einstweiliger Rechtsschutz: `https://www.bundesverfassungsgericht.de/DE/DasBundesverfassungsgericht/Verfahrensarten/EinstweiligerRechtsschutz/einstweiliger-rechtsschutz_node.html`
 - BVerfGG § 32: `https://www.gesetze-im-internet.de/bverfgg/__32.html`

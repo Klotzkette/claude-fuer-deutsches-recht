@@ -1,6 +1,6 @@
 ---
 name: aufopferung-fortwirkung-bgb-und-polizei
-description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster im Preußisches Allgemeines Landrecht..."
+description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Prüfraster im Preußisches Allgemeines Landrecht..."
 ---
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei
@@ -32,7 +32,7 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 ## Typische heutige Faelle
 
 - Verletzung eines Unbeteiligten beim polizeilichen Einsatz (Schussschaden Polizeischaden).
-- Vermoegensentzug durch hoheitliche Maßnahme.
+- Vermögensentzug durch hoheitliche Maßnahme.
 - Frueh-Impfungsfaelle vor sozialer Entschaedigung — heute SGB XIV.
 
 ## Abgrenzung Art. 14 III GG
@@ -45,7 +45,7 @@ description: "Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polize
 - Rechtswidriges Verhalten -> Amtshaftung.
 - Rechtmäßiges Verhalten -> Aufopferung.
 
-## Pruefraster
+## Prüfraster
 
 1. Hoheitlicher Eingriff?
 2. Rechtmaessig oder rechtswidrig?

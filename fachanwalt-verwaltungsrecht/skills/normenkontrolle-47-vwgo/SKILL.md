@@ -20,7 +20,7 @@ description: "Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsve
 
 ## 1) Anwendungs-Bereich
 
-### Pruefbare Normen § 47 I VwGO
+### Prüfbare Normen § 47 I VwGO
 
 - Bauleitpläne (Flächennutzungsplan, Bebauungsplan)
 - Rechtsverordnungen Land / Kreis / Gemeinde

@@ -60,7 +60,7 @@ Autorinnen und Autoren juristischer Werke erhalten typischerweise eine Beteiligu
 
 ## Praxistipps der alten Redaktion
 
-- Erlaeuternder Begleittext beugt Rueckfragen vor; pro Werk eine Zeile zum Vertrieb (z. B. "Auflage 8 ausverkauft Q3, Auflage 9 ausgeliefert Q4").
+- Erläuternder Begleittext beugt Rueckfragen vor; pro Werk eine Zeile zum Vertrieb (z. B. "Auflage 8 ausverkauft Q3, Auflage 9 ausgeliefert Q4").
 - Frei- und Werbeexemplare separat ausweisen, sonst Argwohn.
 - Bei E-Book/Datenbank: Nutzungseinheiten (Aufrufe, Volltextabrufe) vertraglich definieren; sonst Streit über Bezugsgroesse.
 - Bei Loseblatt: Abonnementbestand zum Stichtag, nicht reine Verkaufszahl.

@@ -56,7 +56,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -125,7 +125,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - § 10 GmbHG — Bekanntmachung im Handelsregister; Wirksamkeit nach Eintragung
 - § 15 Abs. 3 GmbHG — Abtretung von GmbH-Anteilen: notarielle Beurkundungspflicht; bei Verstoß Nichtigkeit
 - § 16 GmbHG — Legitimation des Gesellschafters: massgeblich ist Gesellschafterliste; gutglaeubiger Erwerb möglich
-- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung: Einreichung durch Notar oder Geschaeftsfuehrer binnen eines Monats
+- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung: Einreichung durch Notar oder Geschäftsführer binnen eines Monats
 - § 76 AktG — Vertretungsmacht des Vorstands; Prokura §§ 48-53 HGB
 - § 19 GwG i.V.m. § 20 TranspRG — Transparenzregisterpflicht; Meldung des wirtschaftlich Berechtigten
 - § 2 GmbHG — Beurkundungspflicht des Gesellschaftsvertrags
@@ -181,7 +181,7 @@ Deal: [DEALNAME] — Datum: [DATUM]
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe
 - Belegkette: Dokument, Datum, Version, Fundstelle
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Registerabruf → `mittelstand-corporate-ma-handelsregisterabruf`
 - Closing Deliverables → `mittelstand-corporate-ma-closing-bible-archiv`

@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -108,13 +108,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Welche Workstreams sind aktiv: Legal, Tax, Financial, Regulatory, Commercial?
 3. Wer ist das Core-Deal-Team: federf. Partner, Senior/Junior, Investmentbank, Steuerberater?
 4. Signing- und Closing-Zieldaten bekannt? Long Stop Date?
-5. Kartellrecht und FDI: Anmeldedaten und Pruefdauern bekannt?
+5. Kartellrecht und FDI: Anmeldedaten und Prüfdauern bekannt?
 6. Weekly-Meeting Turnus und Status-Report-Empfaenger?
 
 ## Zentrale Normen & Fristen
 
 - **§§ 35-43 GWB** — Fusionskontrolle; Phase I 4-6 Wochen; Phase II bis 5 Monate
-- **§ 56 AWV** — FDI-Prüfung; Anmeldefrist 2 Monate nach Vertragsschluss; Pruefdauer 4 Monate
+- **§ 56 AWV** — FDI-Prüfung; Anmeldefrist 2 Monate nach Vertragsschluss; Prüfdauer 4 Monate
 - **§§ 158, 162 BGB** — Closing Conditions; Fristen und Bedingungen; treuwidrige Verhinderung
 - **§ 41 GWB** — Vollzugsverbot; gun jumping; Bussgeld bis 10 % Weltumsatz
 - **Art. 7 FKVO** — EU-Vollzugsverbot

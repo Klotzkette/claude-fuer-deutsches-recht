@@ -14,7 +14,7 @@ description: "Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unterneh
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Pruefraster Anknuepfungstat Leitungsperson Vermoegensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung.
+**Fokus:** Verbandssanktionen Stand 06/2026: Anwendungsfall Beratung Unternehmen zur derzeit geltenden Verbandsgeldbusse § 30 OWiG und zu Aussichten des Verbandssanktionengesetzes VerSanG. Prüfraster Anknuepfungstat Leitungsperson Vermögensvorteil Verbandsgeldbusse bis 10 Mio EUR. Status VerSanG Entwurf 2020 vom BMJ zurueckgestellt 2021 Stand 06/2026 unklar bevorstehend. Trade-offs Compliance-Defence Kooperation Selbstanzeige. Output Memorandum für Compliance-Verantwortliche und Unternehmensleitung.
 
 ### Verbandssanktionen Stand 06/2026
 
@@ -28,7 +28,7 @@ Spezial-Mandat: Beratung Unternehmen oder Unternehmensvertretern bei drohender V
 
 - Anlassakte (Ermittlungsverfahren gegen Leitungsperson / Mitarbeiter).
 - Organigramm, Compliance-Strukturen, ISO 19600 / IDW PS 980 Zertifizierung.
-- Geldfluesse, ggf. Vermoegensvorteil.
+- Geldfluesse, ggf. Vermögensvorteil.
 - Branchen-Hintergrund (Bau, Pharma, Banken, IT).
 - Interne Untersuchung (Internal Investigation) — Status, Anwaltspaere, Sicherstellung.
 
@@ -36,7 +36,7 @@ Spezial-Mandat: Beratung Unternehmen oder Unternehmensvertretern bei drohender V
 
 ### § 30 OWiG Verbandsgeldbusse
 
-- **Anknuepfungstat:** Eine **Leitungsperson** (Vorstand, Geschaeftsfuehrer, leitender Beschaeftigter, Aufsichtsperson) hat eine Straftat oder Ordnungswidrigkeit begangen, **durch die Pflichten des Verbands verletzt worden sind oder der Verband bereichert worden ist**.
+- **Anknuepfungstat:** Eine **Leitungsperson** (Vorstand, Geschäftsführer, leitender Beschäftigter, Aufsichtsperson) hat eine Straftat oder Ordnungswidrigkeit begangen, **durch die Pflichten des Verbands verletzt worden sind oder der Verband bereichert worden ist**.
 - **Geldbusse:** Bei Straftaten bis **10 Mio. EUR** (vorsaetzlich) bzw. 5 Mio. EUR (fahrlaessig). Bei Ordnungswidrigkeiten Hoechstrahmen der bezuggenommenen Norm.
 - **Zusaetzlich Abschoepfung des wirtschaftlichen Vorteils** über § 17 Abs. 4 OWiG i.V.m. § 30 Abs. 3 OWiG über den Bussgeldrahmen hinaus.
 
@@ -103,7 +103,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 - **Abschoepfung wirtschaftlicher Vorteil** über Bussgeldrahmen hinaus möglich.
 - **Wettbewerbsregister § 124 GWB** Vergabeausschluss bis 5 Jahre.
 - **Berufsverbot Leitungsperson** § 70 StGB / Disqualifikation § 6 GmbHG / § 76 AktG.
-- **Reputation, Schadenersatz Glaeubiger / Gesellschafter** parallel zivilrechtlich.
+- **Reputation, Schadenersatz Gläubiger / Gesellschafter** parallel zivilrechtlich.
 - **D&O-Versicherung** Inanspruchnahme; oft Deckungsstreit.
 
 ## Mustertexte
@@ -114,7 +114,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 
 ### Antrag Reduktion Verbandsgeldbusse
 
-"Es wird Antrag gestellt, die zu erwartende Verbandsgeldbusse gemäß § 30 OWiG im Hinblick auf folgende Mitigationsfaktoren zu reduzieren: (1) Vollstaendige Selbstanzeige am [Datum] vor Erkenntnissen der Ermittlungsbehoerden, (2) Vollumfaengliche Kooperation einschliesslich Internal Investigation, (3) Beendigung struktureller Defizite einschliesslich Personalwechsel auf Vorstands- und Compliance-Ebene, (4) Vollstaendige Wiedergutmachung der erlangten Vermoegensvorteile in Höhe von [Betrag] EUR durch Rueckzahlung an die Geschaedigten."
+"Es wird Antrag gestellt, die zu erwartende Verbandsgeldbusse gemäß § 30 OWiG im Hinblick auf folgende Mitigationsfaktoren zu reduzieren: (1) Vollstaendige Selbstanzeige am [Datum] vor Erkenntnissen der Ermittlungsbehoerden, (2) Vollumfaengliche Kooperation einschliesslich Internal Investigation, (3) Beendigung struktureller Defizite einschliesslich Personalwechsel auf Vorstands- und Compliance-Ebene, (4) Vollstaendige Wiedergutmachung der erlangten Vermögensvorteile in Höhe von [Betrag] EUR durch Rueckzahlung an die Geschaedigten."
 
 ## Quellen Stand 06/2026
 

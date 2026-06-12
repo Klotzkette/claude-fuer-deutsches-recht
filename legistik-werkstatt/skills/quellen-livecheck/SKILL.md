@@ -20,8 +20,8 @@ Dieser Quellen-Livecheck für **Legistik Werkstatt** trennt amtliche Normfassung
 - `aa-sanktionsumsetzung-internationale` — AA Sanktionsumsetzung Internationale
 - `aa-sanktionsumsetzung-und-internationale-abkommen` — AA Sanktionsumsetzung und Internationale Abkommen
 - `aa-voelkerrecht-und-vertragsgesetzgebung` — AA Voelkerrecht und Vertragsgesetzgebung
-- `aenderungs-formular-portal-einreichungslogik` — Aenderungs Formular Portal Einreichungslogik
-- `aenderungs-formular-portal-und-einreichung` — Aenderungs Formular Portal und Einreichung
+- `aenderungs-formular-portal-einreichungslogik` — Änderungs Formular Portal Einreichungslogik
+- `aenderungs-formular-portal-und-einreichung` — Änderungs Formular Portal und Einreichung
 - `baut-quellenkarte` — Baut Quellenkarte
 - `begruendung-allgemein-und-besonders` — Begruendung Allgemein und Besonders
 - `anschluss-routing` — Anschluss Routing

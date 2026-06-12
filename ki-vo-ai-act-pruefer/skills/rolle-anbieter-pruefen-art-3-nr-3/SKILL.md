@@ -81,7 +81,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
 5. Ist die Maßnahme fristgerecht umgesetzt (KI-VO Stufenplan bis 02.08.2026)?
 
-## Output-Template — Pruefergebnis
+## Output-Template — Prüfergebnis
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — ROLLE ANBIETER PRUEFEN ART 3 NR 3

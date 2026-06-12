@@ -34,7 +34,7 @@ Paragraph 143 Abs 1 MarkenG knuepft an die zivilrechtlichen Verletzungstatbestae
 
 Tatobjekt ist die geschuetzte Marke: deutsche eingetragene Marke (Paragraph 4 Nr 1 MarkenG), Benutzungsmarke (Paragraph 4 Nr 2 MarkenG), notorisch bekannte Marke (Paragraph 4 Nr 3 MarkenG), Unionsmarke (Verordnung 2017/1001), international registrierte Marke mit Schutzerstreckung auf Deutschland (Madrider Protokoll).
 
-Tathandlungen Paragraph 14 Abs 3 MarkenG: Anbringen, Anbieten, Inverkehrbringen, Besitzen zu den genannten Zwecken, Einfuehren, Ausfuehren, Benutzen als Geschaeftspapier oder in der Werbung. Strafrechtlich relevant: Vertrieb der gefaelschten Ware, Anbieten über Online-Marktplaetze, Lagerung zur gewerblichen Veraeusserung, grenzueberschreitender Import.
+Tathandlungen Paragraph 14 Abs 3 MarkenG: Anbringen, Anbieten, Inverkehrbringen, Besitzen zu den genannten Zwecken, Einfuehren, Ausfuehren, Benutzen als Geschäftspapier oder in der Werbung. Strafrechtlich relevant: Vertrieb der gefaelschten Ware, Anbieten über Online-Marktplaetze, Lagerung zur gewerblichen Veraeusserung, grenzueberschreitender Import.
 
 Subjektiv Vorsatz, mindestens dolus eventualis. Fahrlaessigkeit ist nicht strafbar. Vorsatz muss die Identitaet oder Aehnlichkeit, Markeneintragung (zumindest Bekanntheit), Verwechslungsgefahr und das Fehlen der Berechtigung umfassen.
 

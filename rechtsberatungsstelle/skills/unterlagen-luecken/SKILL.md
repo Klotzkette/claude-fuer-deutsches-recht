@@ -13,7 +13,7 @@ Diese Unterlagenprüfung für **Rechtsberatungsstelle** benennt fehlende Dokumen
 
 - `anlaufstellen-beweislast-anleiter-bono` — Anlaufstellen Beweislast Anleiter Bono
 - `anleiter-formular-portal-und-einreichung` — Anleiter Formular Portal und Einreichung
-- `anleiter-pruefwarteschlange` — Anleiter Pruefwarteschlange
+- `anleiter-pruefwarteschlange` — Anleiter Prüfwarteschlange
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router
 - `bono-erstpruefung-und-mandatsziel` — Bono Erstpruefung und Mandatsziel

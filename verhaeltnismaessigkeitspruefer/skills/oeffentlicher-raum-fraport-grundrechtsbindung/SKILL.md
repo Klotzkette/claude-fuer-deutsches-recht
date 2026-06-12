@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-raum-fraport-grundrechtsbindung
-description: "Verhaeltnismaessigkeit in oeffentlich beherrschten Privatrechtsraeumen: Fraport-Linie, Grundrechtsbindung, Hausrecht, Flughafen, Bahnhof, Messe, kommunale GmbH und schonende Ausuebung von Art. 5 und Art. 8 GG."
+description: "Verhältnismäßigkeit in oeffentlich beherrschten Privatrechtsraeumen: Fraport-Linie, Grundrechtsbindung, Hausrecht, Flughafen, Bahnhof, Messe, kommunale GmbH und schonende Ausuebung von Art. 5 und Art. 8 GG."
 ---
 
 # Öffentlicher Raum: Fraport und Grundrechtsbindung
@@ -20,7 +20,7 @@ description: "Verhaeltnismaessigkeit in oeffentlich beherrschten Privatrechtsrae
 - BVerfG, Urteil vom 22.02.2011, 1 BvR 699/06, BVerfGE 128, 226 (Fraport): Von der oeffentlichen Hand beherrschte gemischtwirtschaftliche Unternehmen können grundrechtsgebunden sein; ein pauschales Hausverbot gegen Meinungskundgabe im Flughafen ist verhaeltnismaessig zu prüfen.
 - BVerfG, Beschluss vom 14.05.1985, 1 BvR 233/81, 1 BvR 341/81, BVerfGE 69, 315 (Brokdorf): Art. 8 GG schuetzt demokratische Kommunikation und verlangt versammlungsfreundliche Gefahrensteuerung.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Fraport, 22.02.2011, 1 BvR 699/06: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html`
 - Brokdorf in der amtlichen BVerfGE-Übersicht: `https://www.bundesverfassungsgericht.de/DE/Entscheidungen/EntscheidungenAusDerAmtlichenSammlung/_functions/akkordeon_band60-69.html`
@@ -30,7 +30,7 @@ description: "Verhaeltnismaessigkeit in oeffentlich beherrschten Privatrechtsrae
 
 Klaere zuerst, ob der Ort nur privat wirkt oder funktional ein oeffentlicher Kommunikationsraum ist. Danach wird das Hausrecht nicht ausgeschaltet, sondern verfassungsrechtlich eingerahmt: Sicherheit, Betrieb und Eigentum dürfen geschuetzt werden, aber pauschale Kommunikationsverbote brauchen eine tragfaehige, ortsbezogene Rechtfertigung.
 
-## Pruefmatrix
+## Prüfmatrix
 
 | Frage | Konsequenz |
 | --- | --- |

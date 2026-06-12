@@ -142,7 +142,7 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 
 ## Wann brauchen Sie diese Skill?
 
-- Richter hat neue Zivilakte und will Ueberblick gewinnen, Verfahrensstand klären und Anspruchsgrundlagen identifizieren.
+- Richter hat neue Zivilakte und will Überblick gewinnen, Verfahrensstand klären und Anspruchsgrundlagen identifizieren.
 - Referendar oder Assessorkandidat erstellt Relation oder Vollrelation für Examensvorbereitung.
 - Richter muss Beweiswuerdigung nach § 286 ZPO verschriftlichen und dafür gegliederten Abschnitt in den Entscheidungsgruenden erzeugen.
 - Gericht erstellt Beschluss (PKH, Streitwert, Hinweis nach § 139 ZPO) oder Versaumnisurteil.
@@ -176,15 +176,15 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 
 1. Aktenintake: Akte einlesen, Verfahrensstand und Sachverhalt strukturieren.
 2. Zulaessigkeit prüfen: Gerichtliche Zuständigkeit, Rechtsschutzinteresse, Prozessvoraussetzungen.
-3. Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen.
+3. Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen.
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
 5. Tenor, Tatbestand, Entscheidungsgruende, Kostenentscheidung und Rechtsmittelbelehrung nacheinander oder geblockt erstellen.
 
 ## Skill-Tour (was gibt es hier?)
 
-- `aktenintake-zivil` — Eingehende Zivilakte strukturieren und Ueberblick gewinnen.
+- `aktenintake-zivil` — Eingehende Zivilakte strukturieren und Überblick gewinnen.
 - `zulaessigkeit-pruefen` — Zulaessigkeit der Zivilklage systematisch prüfen: Zuständigkeit, Prozessfaehigkeit, Rechtsschutzinteresse.
-- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bei Anspruchskonkurrenz bestimmen.
+- `anspruchsgrundlagen-pruefen` — Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bei Anspruchskonkurrenz bestimmen.
 - `relation-zivil` — Zivilrechtliche Relation nach klassischer Relationstechnik erstellen (Kurz- oder Langfassung).
 - `vollrelation-langfassung` — Vollstaendige Relation im Schulstandard für Referendar- und Assessorpruefung.
 - `beweiswuerdigung-mit-richter-input` — Strukturierte Beweiswuerdigung nach § 286 ZPO mit Richter-Input ausformulieren.
@@ -213,7 +213,7 @@ Spezialisierte Teilmodule decken familiengerichtliche Besonderheiten (FamFG), in
 - Tenor muss vollstreckbar sein: Ein unklarer oder unbestimmter Tenor fuehrt zur Aufhebung in der Berufung.
 - Rechtsmittelbelehrung muss nach Urteilsart (Berufung, Revision, Beschwerde) differenzieren; Fehler fuehren zur Fristerstreckung.
 - Vollrelation im Schulstandard folgt strikter Gliederungsreihenfolge; Abweichungen werdenstark benotet.
-- IPR-Prüfung muss vor CISG und nationaler Anspruchspruefung erfolgen; falscher Pruefungsrahmen ist Revisionsfehler.
+- IPR-Prüfung muss vor CISG und nationaler Anspruchspruefung erfolgen; falscher Prüfungsrahmen ist Revisionsfehler.
 
 ## Typische Fehler
 

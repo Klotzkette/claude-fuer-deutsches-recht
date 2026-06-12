@@ -56,7 +56,7 @@ Hier verbindet sich Schadensrecht (ALR I 6) mit Vertragsrecht (ALR I 11), Gefahr
 - Gefahrtragung im Kaufrecht: § 446 BGB ist konzeptionell ALR-nah.
 - Aufopferungsanspruch lebt bis heute fort.
 
-### Pruefraster
+### Prüfraster
 1. Vertragstyp und Periculum (Verkaeufer / Kaeufer / Verwahrer).
 2. Verschuldensgrad nach ALR-Stufen (dolus bis casus).
 3. Heute BGB-§§ und ggf. UN-Kaufrecht.

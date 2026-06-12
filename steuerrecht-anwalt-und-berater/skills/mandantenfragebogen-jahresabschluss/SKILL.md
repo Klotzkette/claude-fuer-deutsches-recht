@@ -18,8 +18,8 @@ Zum Jahresabschluss muss der Mandant zahlreiche Informationen liefern, die nicht
 ## Kaltstart-Rueckfragen
 
 1. Wann ist der Bilanzstichtag?
-2. Welche Rechtsform und Groessenklasse (Pruefungspflicht)?
-3. Welche Sondervorgaenge im Geschaeftsjahr (Anlagenverkauf, Kapitalerhoehung, Wechsel Gesellschafter)?
+2. Welche Rechtsform und Groessenklasse (Prüfungspflicht)?
+3. Welche Sondervorgaenge im Geschäftsjahr (Anlagenverkauf, Kapitalerhoehung, Wechsel Gesellschafter)?
 4. Welche Forderungen sind strittig (Einzelwertberichtigung)?
 5. Welche Rueckstellungen (Garantie, Prozesskosten, Tantieme)?
 6. Inventur durchgefuehrt? Bestaende dokumentiert?

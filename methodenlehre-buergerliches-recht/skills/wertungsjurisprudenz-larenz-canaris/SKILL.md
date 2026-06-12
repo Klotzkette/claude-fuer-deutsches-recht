@@ -47,9 +47,9 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Beispiel § 242 BGB:** Treu und Glauben als wertende Generalklausel, konkretisiert durch Fallgruppen (rechtsmissbraeuchliches Verhalten, venire contra factum proprium, dolo agit, Schikaneverbot). Die Fallgruppen-Bildung ist wertungsjuristisches Verfahren.
 
-**Beispiel Vertrag mit Schutzwirkung zugunsten Dritter:** Richterliche Rechtsfortbildung, die nicht aus Begriffen abgeleitet, sondern aus Wertungen begruendet wird. Wertung: Vertraglicher Schutz darf nicht beim formellen Vertragspartner enden, wenn Dritte bestimmungsgemaess in den Vertrag hineinragen (z. B. Familienmitglieder bei Mietvertrag, Beschaeftigte des Werkbestellers).
+**Beispiel Vertrag mit Schutzwirkung zugunsten Dritter:** Richterliche Rechtsfortbildung, die nicht aus Begriffen abgeleitet, sondern aus Wertungen begruendet wird. Wertung: Vertraglicher Schutz darf nicht beim formellen Vertragspartner enden, wenn Dritte bestimmungsgemaess in den Vertrag hineinragen (z. B. Familienmitglieder bei Mietvertrag, Beschäftigte des Werkbestellers).
 
-**Beispiel Anspruchskonkurrenz:** Verhaeltnis von vertraglichen, deliktischen und bereicherungsrechtlichen Anspruechen wird wertungsjuristisch geordnet. Beispiel: § 437 BGB als spezialgesetzliche Maengelhaftung verdraengt nicht völlig die deliktische Haftung — der Aequivalenzschutz aus Vertrag ist anderes als der Integritaetsschutz aus Delikt.
+**Beispiel Anspruchskonkurrenz:** Verhältnis von vertraglichen, deliktischen und bereicherungsrechtlichen Anspruechen wird wertungsjuristisch geordnet. Beispiel: § 437 BGB als spezialgesetzliche Maengelhaftung verdraengt nicht völlig die deliktische Haftung — der Äquivalenzschutz aus Vertrag ist anderes als der Integritaetsschutz aus Delikt.
 
 **Beispiel AGB-Kontrolle (§§ 305 ff. BGB):** Die Generalklausel des § 307 BGB (unangemessene Benachteiligung) ist wertungsjuristisches Kernstueck — Konkretisierung erfolgt durch dispositives Recht als Leitbild, durch Äquivalenz-Gedanken und durch Grundrechte (insbesondere bei B2C im Lichte der Klausel-RL 93/13/EWG).
 

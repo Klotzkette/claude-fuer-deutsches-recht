@@ -34,9 +34,9 @@ description: "Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferan
 - **LkSG § 3 ff.**: Sorgfaltspflichten in Lieferketten inkl. aussenwirtschaftlicher Aspekte.
 - **VO (EU) 2021/821 Art. 4**: Catch-All bei Kenntnislage aus Lieferantenbeziehung.
 - **VO (EU) 952/2013 (UZK) Art. 62**: Praeferenzursprung und Lieferantenerklaerung.
-- **GwG § 10**: Sorgfaltspflichten bei Geschaeftsbeziehungen.
+- **GwG § 10**: Sorgfaltspflichten bei Geschäftsbeziehungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Lieferantenidentitaet und UBO vollstaendig verifiziert?
 - [ ] Sanktionslistenscreening Lieferant und verbundene Unternehmen?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

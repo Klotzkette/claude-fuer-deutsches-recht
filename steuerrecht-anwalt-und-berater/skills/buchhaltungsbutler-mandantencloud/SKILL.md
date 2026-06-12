@@ -33,7 +33,7 @@ BuchhaltungsButler (auch sevDesk, Lexware-Office, Billbee, Candis) sind Cloud-Bu
 | Tool | Geeignet für |
 |---|---|
 | BuchhaltungsButler | KMU mit hohem Belegaufkommen |
-| sevDesk | Solo-Selbstaendige, Kleinunternehmer |
+| sevDesk | Solo-Selbständige, Kleinunternehmer |
 | Lexware-Office | Kleinmandanten, Klein-GmbH |
 | Candis | Mittelstand mit Beleg-|
 | Datev DUO | StB-Mandanten (Standard) |

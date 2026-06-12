@@ -83,7 +83,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 "Es wird beantragt, ein weiteres kriminalprognostisches Sachverstaendigengutachten unter Anwendung des HCR-20 und FOTRES einzuholen. Das bisher vorgelegte Gutachten der Sachverstaendigen [Name] vom [Datum] genuegt den methodischen Anforderungen nicht. Konkret: [a] Es wird ausschließlich mit PCL-R gearbeitet; dynamische Risikofaktoren sind nicht erfasst. [b] Die positiven Behandlungsverlaeufe seit [Datum] werden nicht beruecksichtigt. [c] Die soziale Aufnahmesituation nach Entlassung wird nicht geprueft."
 
 **Mustersatz für Bewaehrung nach Strafvollzug:**
-"Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Maßnahme], Aufnahme bei [Bezugsperson], Beschaeftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
+"Die kriminalprognostische Beurteilung des Mandanten ist guenstig. Statische Faktoren (Vorstrafen) sind unveraenderlich, sie sind aber nicht das ganze Bild. Die dynamischen Faktoren — Therapiefortschritt in [Maßnahme], Aufnahme bei [Bezugsperson], Beschäftigungsperspektive bei [Arbeitgeber] — zeigen eine deutliche Risikoreduktion. Eine Aussetzung des Strafrestes nach § 57 StGB ist verantwortbar."
 
 ## Quellen Stand 06/2026
 

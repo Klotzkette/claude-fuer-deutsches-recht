@@ -3,7 +3,7 @@ name: transparenzgesetz-zustaendigkeit-pruef
 description: "Informationsfreiheit und Presseauskunft: Transparenzgesetz: Zuständigkeit prüfen im Informationsfreiheit/Presseauskunft: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Transparenzgesetz Zuständigkeit Pruef
+# Transparenzgesetz Zuständigkeit Prüf
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: cisg-pruefung
-description: "Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Internationales Wirtschaftsrecht Cisg Pruefung: ordnet Normen, Nutzerangaben,..."
+description: "Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung: Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Normen, Nutzerangaben,..."
 ---
 
 # Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

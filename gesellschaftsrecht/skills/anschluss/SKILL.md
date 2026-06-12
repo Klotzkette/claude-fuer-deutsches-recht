@@ -141,19 +141,19 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Anwaelte und Wirtschaftsjuristen bei laufenden gesellschaftsrechtlichen Mandaten: GmbH- und AG-Governance, Personengesellschaften, M&A-Due-Diligence ohne Discovery, Gesellschafterbeschluesse, Handelsregisteranmeldungen, Closing-Checklisten und Compliance-Fristen. Es deckt sowohl die laufende Gesellschaftsverwaltung als auch transaktionsbezogene Mandate ab.
 
-Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es enthaelt einen Kaltstart-für die Einrichtung des Praxisprofils sowie Mandats-Workspaces für Mehrfachmandatsbetrieb.
+Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es enthaelt einen Kaltstart-für die Einrichtung des Praxisprofils sowie Mandats-Workspaces für Mehrfachmandatsbetrieb.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie beraten eine GmbH bei Beschlussfassung, Geschaeftsfuehrer-Haftung oder Gesellschafterstreit.
+- Sie beraten eine GmbH bei Beschlussfassung, Geschäftsführer-Haftung oder Gesellschafterstreit.
 - Sie begleiten eine M&A-Transaktion auf der Rechtspruefungsseite (Due Diligence, Q&A, Datenraum, Closing Checklist).
-- Sie müssen Handelsregisteranmeldungen vorbereiten (Geschaeftsfuehrerwechsel, Prokura, Sitzverlegung, Kapitalmanahmen).
+- Sie müssen Handelsregisteranmeldungen vorbereiten (Geschäftsführerwechsel, Prokura, Sitzverlegung, Kapitalmanahmen).
 - Sie verwalten gesellschaftsrechtliche Compliance-Fristen (Jahresabschluss, Transparenzregister, Bilanzpublizitaet).
 - Ein Gesellschafterstreit droht oder eine Patt-Situation ist eingetreten und Sie benoetigen eine Konfliktstrategie.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Business Judgment Rule** — Haftungsprivileg für Geschaeftsfuehrer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
+- **Business Judgment Rule** — Haftungsprivileg für Geschäftsführer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
 - **Drag-Along** — Mitnahmerecht: Mehrheitsgesellschafter kann Minderheitsgesellschafter zum Verkauf zwingen.
 - **Tag-Along** — Mitveraeuserungsrecht: Minderheitsgesellschafter kann beim Verkauf mitziehen.
 - **Closing Checklist** — Checkliste aller bis zum Vollzug einer Transaktion zu erfuellenden Bedingungen und Handlungen.
@@ -163,7 +163,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Rechtsgrundlagen
 
-- §§ 35-43 GmbHG — Geschaeftsfuehrung und Haftung
+- §§ 35-43 GmbHG — Geschäftsführung und Haftung
 - §§ 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse
 - §§ 93 ff. AktG — Vorstandshaftung, Business Judgment Rule
 - §§ 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse)
@@ -199,7 +199,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 
 **Haftung und Konflikt**
 
-- `geschaeftsfuehrer-haftung-43-gmbhg` — Prueft persönliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
+- `geschaeftsfuehrer-haftung-43-gmbhg` — Prüft persönliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
 - `gesellschafterstreit-loesungsstrategie` — Konflikt- und Mediationsstrategie bei Gesellschafterstreit, Patt-Situation und Einziehungsverfahren.
 
 **Due Diligence und M&A**
@@ -208,7 +208,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - `dealteam-zusammenfassung` — Gestaffelte Deal-Briefings für GF, Deal-Lead und Arbeitsteam aus DD-Findings.
 - `vollzugs-checkliste` — Vollzugscheckliste für M&A-Transaktionen: kritischer Pfad, CPs, Tage bis Closing.
 - `wesentliche-vertraege-anlage` — Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus DD-Erkenntnissen.
-- `ki-werkzeug-uebergabe` — KI-Tool-Uebergabe für Massenvertragsprüfungen an Luminance oder Kira.
+- `ki-werkzeug-uebergabe` — KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira.
 - `tabellenpruefung` — Tabellarisches Vertragsreview als Prompt-Matrix pro Dokument und Datenpunkt.
 
 **Register und Compliance**
@@ -227,7 +227,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - **Insolvenzantragspflicht parallel prüfen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
 - **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence müssen alle wesentlichen Verträge auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
 - **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (§ 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.
-- **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Aenderung der Gesellschafterstruktur loest eine Meldepflicht aus (§ 20 GwG).
+- **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Änderung der Gesellschafterstruktur loest eine Meldepflicht aus (§ 20 GwG).
 
 ## Typische Fehler
 
@@ -235,7 +235,7 @@ Das Plugin ist auf eine pruefende und beratende Kanzleipraxis ausgerichtet. Es e
 - Protokolle von Gesellschafterversammlungen sind unvollstaendig; Abstimmungsergebnisse fehlen oder Stimmverbote werden nicht beachtet.
 - Closing-Checklist wird zu spaet aufgebaut; Regulatory-Fristen wurden verpasst.
 - Betriebsuebertragung nach § 613a BGB wird in Post-Merger-Integration nicht fristgemaess kommuniziert.
-- DD-Findings werden nicht in die SPA-Garantien und Disclosure Schedules uebersetzt.
+- DD-Findings werden nicht in die SPA-Garantien und Disclosure Schedules übersetzt.
 
 ## Quellen und Aktualitaet
 

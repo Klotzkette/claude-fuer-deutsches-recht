@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-schule
-description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede..."
+description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klären und durchsetzen: SGB IX Teil 2 §§ 90 ff. Eingliede..."
 ---
 
 # Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt müssen Anspruch klären und durchsetzen

@@ -7,7 +7,7 @@ description: "Weitere Folgen und Nachhaltigkeitsprüfung für Gesetzesentwurf er
 
 > Was bewirkt das Vorhaben jenseits des unmittelbaren Regelungsziels?
 
-## Pruefdimensionen
+## Prüfdimensionen
 
 ### A - Nachhaltigkeit nach UN-SDG
 

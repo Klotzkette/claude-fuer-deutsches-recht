@@ -107,8 +107,8 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Landpachtvertrag und Hoferbfolge gemeinsam prüfen | Beide Pruefschemas unten; Schriftsatzbausteine |
-| Variante A — nur Landpacht ohne Hoferbfolge | Teil 1 Pruefschema; Schriftsatzbaustein § 593 BGB |
+| Standard — Landpachtvertrag und Hoferbfolge gemeinsam prüfen | Beide Prüfschemas unten; Schriftsatzbausteine |
+| Variante A — nur Landpacht ohne Hoferbfolge | Teil 1 Prüfschema; Schriftsatzbaustein § 593 BGB |
 | Variante B — nur Hoferbfolge ohne laufenden Pachtvertrag | Teil 2 HoeFO-Prüfung; Abfindungsberechnung |
 | Variante C — Verpachter und Erblasser dieselbe Person | Verknuepfung Pachtverhaeltnis und Erbrecht beachten; Sonderkuendigungsrecht prüfen |
 

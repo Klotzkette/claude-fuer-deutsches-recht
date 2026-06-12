@@ -1,6 +1,6 @@
 ---
 name: marken-und-fremdlogos
-description: "Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: fremde Marken, Unternehmenslogos und Behördenanmutung prüfen im Wahlkampfrecht."
 ---
 
 # Marken Und Fremdlogos

@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-anzeige-eugh-junk-bag-6-azr-155-21
-description: "Massenentlassung Anzeigeverfahren Paragraf 17 KSchG mit EuGH Junk und BAG 6 AZR 155/21 als Pruefraster Anzeigezeitpunkt."
+description: "Massenentlassung Anzeigeverfahren Paragraf 17 KSchG mit EuGH Junk und BAG 6 AZR 155/21 als Prüfraster Anzeigezeitpunkt."
 ---
 
 # Massenentlassung Anzeige EuGH Junk BAG 6 Azr 155 21

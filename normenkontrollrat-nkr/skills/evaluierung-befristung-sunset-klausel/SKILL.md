@@ -35,7 +35,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 | Befristung | Gesetz laeuft aus, soweit nicht verlaengert | 5-10 Jahre |
 | Sunset | Gesetz tritt automatisch ausser Kraft, ohne Verlaengerung neu | 5 Jahre |
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Wann Evaluierungsklausel
 
@@ -82,7 +82,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 
 ## Mustertexte / Stellungnahme-Bausteine
 
-- "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten die tatsaechlichen Auswirkungen anhand der Indikatoren Fallzahl, Erfuellungsaufwand und Zielereichung ueberprueft."
+- "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten die tatsaechlichen Auswirkungen anhand der Indikatoren Fallzahl, Erfuellungsaufwand und Zielereichung überprüft."
 - "Der NKR weist darauf hin, dass das Vorhaben angesichts seiner Pilotnatur befristet werden sollte; eine Befristung auf [5 Jahre] mit Verlaengerungsoption nach Evaluierung erscheint angemessen."
 - "Der NKR begruesst die im Entwurf vorgesehene Evaluierungsklausel und die transparent benannten Indikatoren."
 

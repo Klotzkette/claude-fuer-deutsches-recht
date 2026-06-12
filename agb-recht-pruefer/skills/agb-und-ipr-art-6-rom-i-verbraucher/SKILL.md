@@ -1,6 +1,6 @@
 ---
 name: agb-und-ipr-art-6-rom-i-verbraucher
-description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Pruefung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswa"
+description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die IPR-rechtliche Prüfung der AGB bei Verbrauchervertraegen mit internationalem Bezug. Klaert die Voraussetzungen der ausgerichteten Taetigkeit nach Art. 6 Abs. 1 Buchst. b Rom-I-VO EuGH-Pammer Linie sowie Wechselwirkung mit Rechtswa"
 ---
 
 # Agb Und Ipr Art 6 Rom I Verbraucher
@@ -21,7 +21,7 @@ description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die 
 ## Voraussetzungen Art. 6 Rom-I
 
 - Verbrauchervertrag.
-- Geschaeftspartner uebt eine Taetigkeit aus oder richtet sie auf den Wohnsitzstaat des Verbrauchers aus.
+- Geschäftspartner uebt eine Taetigkeit aus oder richtet sie auf den Wohnsitzstaat des Verbrauchers aus.
 - Vertrag faellt in den Bereich dieser Taetigkeit.
 
 ## Kriterien der ausgerichteten Taetigkeit
@@ -34,7 +34,7 @@ description: "AGB und IPR Art. 6 Rom-I-VO Verbraucherschutz. Skill vertieft die 
 - Trotz Rechtswahl gelten die zwingenden Verbraucherschutznormen des Verbraucherwohnsitzstaats.
 - Deutsche AGB-Vorschriften §§ 305-310 BGB sind zwingend.
 
-## Pruefraster
+## Prüfraster
 
 1. Verbrauchervertrag?
 2. Ausgerichtete Taetigkeit auf Deutschland?

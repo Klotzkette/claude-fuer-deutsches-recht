@@ -36,7 +36,7 @@ description: "BAFA-Exportgenehmigungsverfahren für Dual-Use-Gueter und kontroll
 - **§ 24 VwVfG**: Untersuchungsgrundsatz im Verwaltungsverfahren.
 - **§ 68 VwGO**: Widerspruchsverfahren vor Verwaltungsgericht.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Antragsunterlagen vollstaendig und konsistent?
 - [ ] Bearbeitungsfristen des BAFA kalkuliert und Eskalationsplan vorhanden?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

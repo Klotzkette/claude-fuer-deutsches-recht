@@ -1,11 +1,11 @@
 ---
 name: bmas-sozialversicherungsrecht-sgb
-description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkomm..."
+description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschäftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Äquivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt für Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkomm..."
 ---
 
 # Sozialversicherungsrecht (SGB) (BMAS)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Sozialversicherungsrecht (SGB) im Geschäftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BM
 
 Kernbestand des Sachfelds: SGB I bis SGB XII; ASVG-Äquivalent; AsylbLG (mit BMI).
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Schnittstellen zwischen SGB-Buechern; EU-Koordinierung; Statusfeststellung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

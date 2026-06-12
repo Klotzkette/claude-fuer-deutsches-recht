@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-mahnender-charakter-grenzen
-description: "Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungs..."
+description: "Beschäftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungs..."
 ---
 
 # NKR-Stellungnahme — Mahnender Charakter und seine Grenzen
@@ -20,12 +20,12 @@ Rueckfrage nur wenn unklar: *"Welche Eskalationsstufe ist angemessen — Bemerku
 
 ## Rechtlicher und methodischer Rahmen
 
-- **NKRG** § 4, § 6 — Stellungnahme als Pruefergebnis
+- **NKRG** § 4, § 6 — Stellungnahme als Prüfergebnis
 - **NKRG** § 7 — Jahresbericht als Eskalationsweg
 - **GGO** §§ 45, 62 — Anlage zur Kabinettsvorlage
 - **NKR-Jahresbericht** — Mustertexte mahnender Bemerkungen
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Was darf mahnen
 

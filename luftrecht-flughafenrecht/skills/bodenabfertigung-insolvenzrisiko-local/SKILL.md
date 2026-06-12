@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-insolvenzrisiko-local
-description: "Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Auswirkungen auf Flughafenvertrag BADV-Zulassung und Airline-Vertretung und liefert Risikoampel für Flughafenbetreiber Glaeubiger und Airlines im Luftrecht Flughafenrecht."
+description: "Bodenabfertigungsunternehmen zeigt Insolvenzzeichen. Prüft InsO §§ 15a 17-19 Auswirkungen auf Flughafenvertrag BADV-Zulassung und Airline-Vertretung und liefert Risikoampel für Flughafenbetreiber Gläubiger und Airlines im Luftrecht Flughafenrecht."
 ---
 
 # Bodenabfertigung – Insolvenzrisiko markieren

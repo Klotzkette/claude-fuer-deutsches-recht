@@ -39,13 +39,13 @@ description: "Anonymisiertes Schulungszeugnis mit Schaufenster-Pattern für Trai
 
 **Arbeitszeugnis**
 
-Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschaeftsleitung unseres Unternehmens tätig.
+Herr Albert Beispiel, geboren am neunten Juni neunzehnhundertsiebzig, war vom ersten Januar zweitausendelf bis zum dreissigsten September zweitausenddreizehn als Baumeister im Bereich Geschäftsleitung unseres Unternehmens tätig.
 
 Herr Beispiel verfuegt auch in Randbereichen seines vielfaeltigen Aufgabenbereiches über aeusserst profundes Fachwissen.
 
 Herr Beispiel nahm in eigener Initiative regelmaessig erfolgreich an internen und externen Weiterbildungsseminaren teil.
 
-Hervorzuheben ist sein ausgeprägt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschaeftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
+Hervorzuheben ist sein ausgeprägt strategisches Denkvermoegen, das es ihm ermoeglichte, auch bei neuen geschäftlichen Entwicklungen stets in kuerzester Zeit optimale Loesungen zu entwickeln.
 
 Er zeigte sich auch bei der Bewaeltigung neuer Aufgabenbereiche flexibel und aufgeschlossen.
 

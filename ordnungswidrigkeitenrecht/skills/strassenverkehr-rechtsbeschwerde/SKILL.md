@@ -3,7 +3,7 @@ name: strassenverkehr-rechtsbeschwerde
 description: "Straßenverkehr: Rechtsbeschwerde prüfen im Ordnungswidrigkeitenrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Strassenverkehr Rechtsbeschwerde Pruef
+# Strassenverkehr Rechtsbeschwerde Prüf
 
 ## Arbeitsweg
 

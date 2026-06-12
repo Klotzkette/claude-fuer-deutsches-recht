@@ -53,7 +53,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -88,14 +88,14 @@ Automatisch generierte Komplett-Liste aller 99 Skills in diesem Plugin. Beschrei
 | `familiengesellschaft` | Gesellschaftsrechtliche Treuepflicht: Familiengesellschaft; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gbr-mopeg-treuepflicht` | Gesellschaftsrechtliche Treuepflicht: Gbr Mopeg Treuepflicht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gerichtstauglicher-antrag` | Gesellschaftsrechtliche Treuepflicht: Gerichtstauglicher Antrag; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
-| `gesellschafter-geschaeftsfuehrer` | Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschaeftsfuehrer; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
+| `gesellschafter-geschaeftsfuehrer` | Gesellschaftsrechtliche Treuepflicht: Gesellschafter Geschäftsführer; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gesellschafterdarlehen` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterdarlehen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gesellschafterversammlungsstrategie` | Gesellschaftsrechtliche Treuepflicht: Gesellschafterversammlungsstrategie; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gesellschaftsform-und-rollen` | Gesellschaftsrechtliche Treuepflicht: Gesellschaftsform Und Rollen; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-ausschluss-blockade-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Ausschluss; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-blockade` | Gesellschaftsrechtliche Treuepflicht: Gmbh Blockade; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-einziehung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Einziehung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
-| `gmbh-geschaeftsfuehrerverguetung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
+| `gmbh-geschaeftsfuehrerverguetung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Geschäftsführerverguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-gesellschafterliste-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-gewinnverwendung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |
 | `gmbh-informationsrechte` | Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht. |

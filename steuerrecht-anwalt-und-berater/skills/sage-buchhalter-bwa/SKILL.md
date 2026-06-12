@@ -70,7 +70,7 @@ Sage ist eine internationale ERP- und Buchhaltungsplattform, in Deutschland mit 
 
 ### Phase 6 — Updates
 
-- Jaehrliche Programm-Updates zum 1. Januar (LSt/SV-Tabellen, USt-Aenderungen, AfA-Tabellen).
+- Jaehrliche Programm-Updates zum 1. Januar (LSt/SV-Tabellen, USt-Änderungen, AfA-Tabellen).
 - Sage Cloud-Versionen: automatische Updates über den Cloud-Anbieter.
 - Update-Pflicht aus § 146 AO (Programm muss aktuelle Tabellen abbilden).
 

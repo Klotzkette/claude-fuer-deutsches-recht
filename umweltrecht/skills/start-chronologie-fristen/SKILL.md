@@ -198,10 +198,10 @@ Hinzu kommen neuere Rechtsgebiete: ESG-Berichtspflichten nach CSRD, Greenwashing
 
 ## Typische Fehler
 
-- BImSchG-Genehmigung nicht rechtzeitig geaendert: Wesentliche Aenderungen an genehmigten Anlagen beduerften gesonderter Genehmigung (§ 16 BImSchG); ungenehmigte Aenderung ist illegal.
+- BImSchG-Genehmigung nicht rechtzeitig geaendert: Wesentliche Änderungen an genehmigten Anlagen beduerften gesonderter Genehmigung (§ 16 BImSchG); ungenehmigte Änderung ist illegal.
 - Altlasten in M&A-Transaktionen unterschaetzt: Bodensanierungspflicht geht auf Kaeufer über; kein Haftungsausschluss ohne vollstaendige DD.
 - UmwRG-Klagebefugnis uebersehen: Nur anerkannte Umweltverbaende können nach § 3 UmwRG klagen; Private beduerften eigener Rechtsverletzung.
-- Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern pruefbare Belege für Umweltaussagen.
+- Greenwashing-Aussagen ohne Substanz: EU Green Claims-Richtlinie (Entwurf) und § 5 UWG erfordern prüfbare Belege für Umweltaussagen.
 - Verfristete LkSG-Risikoberichte: Jaehrliche Dokumentationspflicht mit gesetzlicher Frist; fehlendes Reporting loest BAFA-Maßnahmen aus.
 
 ## Quellen und Aktualitaet

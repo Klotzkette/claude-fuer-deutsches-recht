@@ -1,6 +1,6 @@
 ---
 name: bwa-sus-bilanz-pruefung
-description: "Prüfungslinie für stb bwa sus bilanz pruefung im Steuerrecht Anwalt Und Berater."
+description: "Prüfungslinie für stb bwa sus bilanz prüfung im Steuerrecht Anwalt Und Berater."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)
@@ -102,7 +102,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — BWA SuSa und Bilanz pruefend | Prüfung nach Schema; Schriftsatz unten |
+| Standard — BWA SuSa und Bilanz prüfend | Prüfung nach Schema; Schriftsatz unten |
 | Variante A — Nur BWA vorhanden keine Bilanz | BWA-Teilpruefung; Bilanzanforderung nachfragen |
 | Variante B — Krisensignale erkennbar Warnschreiben noetig | Warnschreiben-Skill parallel einsetzen |
 | Variante C — Prüfung nur zur Jahresabschlusspruefung | Teilpruefung; Jahresabschluss-Fokus setzen |
@@ -190,7 +190,7 @@ Mit freundlichen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

@@ -69,7 +69,7 @@ Privatklage Paragraph 374 StPO: Paragraph 106 UrhG ist Privatklagedelikt. Staats
 
 ## Strafzumessung
 
-Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldstrafe. Versuch ist strafbar (Paragraph 106 Abs 2 UrhG). Zumessungsgesichtspunkte Paragraph 46 StGB: Schadenshoehe, Anzahl verwerteter Werke, Dauer der Tat, Gewinnerwartung, Verhaeltnis zum Berechtigten, Reue, Schadensausgleich.
+Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldstrafe. Versuch ist strafbar (Paragraph 106 Abs 2 UrhG). Zumessungsgesichtspunkte Paragraph 46 StGB: Schadenshoehe, Anzahl verwerteter Werke, Dauer der Tat, Gewinnerwartung, Verhältnis zum Berechtigten, Reue, Schadensausgleich.
 
 - **Einziehung des Tatobjekts** Paragraph 74 StGB: Raubkopien, Datentraeger, Press- und Vervielfaeltigungsgeraete. Paragraph 110 UrhG ist Sondereinziehungsnorm für Werkstuecke und Vorrichtungen.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Wertersatz des erlangten Etwas. Bei kommerziellem Vertrieb von Raubkopien wird der erlangte Umsatz abgeschoepft (Bruttoprinzip BGH staendige Rspr.).

@@ -1,6 +1,6 @@
 ---
 name: urlaub-krankheit-fortzahlung
-description: "Prüft Urlaubs-, Krankheits-, Ausfall- und Vertretungsregeln als Statusindizien im Sozialversicherungsstatus Pruefer."
+description: "Prüft Urlaubs-, Krankheits-, Ausfall- und Vertretungsregeln als Statusindizien im Sozialversicherungsstatus Prüfer."
 ---
 
 # Urlaub Krankheit Fortzahlung

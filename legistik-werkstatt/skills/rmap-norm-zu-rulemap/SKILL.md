@@ -1,6 +1,6 @@
 ---
 name: rmap-norm-zu-rulemap
-description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkte..."
+description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (durchspielen); Verify (Entscheidungen prüfen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Prüfpunkte..."
 ---
 
 # Von der Norm zur Rulemap - Vorgehensmodell
@@ -17,7 +17,7 @@ description: "Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfass
 
 Sechs Schritte des Rulemap Builders nach dem Modell der Rulemapping-Group: Capture; Model; Simulate; Verify; Integrate; Improve. Jeder Schritt produziert ein eigenes Artefakt; alle Artefakte sind versionierbar und im Builder ohne Programmierung pflegbar.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: ist jede Entscheidungspfad-Variante abgedeckt? Sind Ausnahmen explizit modelliert und nicht implizit? Liegt die Verantwortung für die Logik beim Normgeber oder beim IT-Dienstleister?
 

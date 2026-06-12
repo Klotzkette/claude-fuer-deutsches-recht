@@ -14,12 +14,12 @@ description: "Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und au
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Pruefraster für Rechtswahl und gewoehnlicher Aufenthalt.
+**Fokus:** Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public. Prüfraster für Rechtswahl und gewoehnlicher Aufenthalt.
 
 ### IntWR: Rom I + II Leitfaden
 
 ## Aufgabe
-Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster für Rechtswahl und gewoehnlichen Aufenthalt.
+Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Prüfraster für Rechtswahl und gewoehnlichen Aufenthalt.
 
 ## Einstieg
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -30,7 +30,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Rom I (vertragliche Schuldverhaeltnisse)
+## Prüfraster Rom I (vertragliche Schuldverhaeltnisse)
 
 ### 1. Anwendungsbereich Art. 1 Rom I
 
@@ -40,7 +40,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 2. Rechtswahl Art. 3 Rom I
 
 - Ausdrueckliche oder konkludente Rechtswahl möglich, für Gesamtvertrag oder Teile (depecage Art. 3 I 3).
-- Aenderung der Rechtswahl Art. 3 II.
+- Änderung der Rechtswahl Art. 3 II.
 - Schutz vor reinen Binnensachverhalten Art. 3 III (zwingende Vorschriften des Sachstaats bleiben anwendbar).
 - Innergemeinschaftlicher Sachverhalt + Wahl drittstaatlichen Rechts: zwingendes Unionsrecht (Art. 3 IV).
 
@@ -65,9 +65,9 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 ### 6. Ordre public Art. 21 Rom I
 
-- Anwendung auslaendischen Rechts darf "offensichtlich" mit ordre public des Forumstaats unvereinbar nicht sein. Hohe Schwelle.
+- Anwendung ausländischen Rechts darf "offensichtlich" mit ordre public des Forumstaats unvereinbar nicht sein. Hohe Schwelle.
 
-## Pruefraster Rom II (ausservertragliche Schuldverhaeltnisse)
+## Prüfraster Rom II (ausservertragliche Schuldverhaeltnisse)
 
 ### 1. Anwendungsbereich Art. 1 Rom II
 
@@ -96,7 +96,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - Grundsätzlich nach Schadenseintritt; bei kommerzieller Taetigkeit auch vorher.
 - Verbraucher- und AN-Schutz bleiben.
 
-## Pruefraster für den Skill
+## Prüfraster für den Skill
 
 1. **Sachverhalt fixieren** — Wer, was, wo, welcher Auslandsbezug?
 2. **Anwendbarkeit Rom I/II** prüfen.
@@ -109,17 +109,17 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 - **Rom I gilt nicht** für Schiedsvereinbarungen (Art. 1 II lit. e Rom I); IPR der Schiedsvereinbarung folgt eigenen Regeln (NYÜ Art. V).
 - **Brexit**: UK seit 1.1.2021 nicht mehr an Rom I/II gebunden; UK hat aber Rom I/II in nationales Recht uebernommen (Retained EU Law).
-- **Vertragsstatut vs. Geschaeftsfaehigkeit**: Vertragsstatut nur für Vertragsinhalt; Geschaeftsfaehigkeit nach Personalstatut.
+- **Vertragsstatut vs. Geschäftsfaehigkeit**: Vertragsstatut nur für Vertragsinhalt; Geschäftsfaehigkeit nach Personalstatut.
 - **Form** Art. 11 Rom I: alternative Anknuepfung; Vertragsstatut oder Ortsrecht.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

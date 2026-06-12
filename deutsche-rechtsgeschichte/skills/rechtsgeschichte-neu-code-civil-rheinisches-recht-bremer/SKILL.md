@@ -49,7 +49,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Praxis-Bedeutung im 19. Jh.
 
 - Linksrheinische Anwaelte und Notare lernten franzoesisches Recht.
-- BGH-aequivalente Fragen (Treu und Glauben, Gefahrtragung) im rheinischen Recht oft anders gefasst als in ALR (Brandenburg).
+- BGH-äquivalente Fragen (Treu und Glauben, Gefahrtragung) im rheinischen Recht oft anders gefasst als in ALR (Brandenburg).
 - Gueterstand der Ehegatten: Errungenschaftsgemeinschaft (Code civil) vs. Verwaltungsgemeinschaft (ALR).
 
 ## Inkrafttreten BGB 01.01.1900
@@ -63,7 +63,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Manche Alteintraege im Grundbuch weiter unter rheinischem Recht.
 - Geschichtswissenschaft: Vergleich mit ALR und BGB als didaktischer Lehrstoff.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Geltungsraum war einschlaegig?
 2. Welches Jahr (vor/nach 1900)?

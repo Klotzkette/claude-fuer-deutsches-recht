@@ -1,6 +1,6 @@
 ---
 name: hochschullehrbeauftragte
-description: "Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Hochschullehrbeauftragte

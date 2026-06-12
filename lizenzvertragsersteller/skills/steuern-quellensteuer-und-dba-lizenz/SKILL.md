@@ -11,7 +11,7 @@ description: "Steuern und Quellensteuer im Lizenzvertrag: $ 49 EStG Quellensteue
 
 | Norm | Inhalt |
 |---|---|
-| $ 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Auslaender: Quellensteuer 15 % |
+| $ 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
 | $ 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
 | $ 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
 
@@ -39,7 +39,7 @@ Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in E
 
 - B2B Lizenz innerhalb EU: Reverse-Charge ($ 13b UStG)
 - B2C Lizenz: USt-Pflicht im Empfaengerland
-- Aussergewoehnliche Geschaeftsveraeusserung im Ganzen: $ 1 Ia UStG - bei IP-Voll-Uebertragung ggf. einschlaegig (siehe EuGH Zita Modes C-497/01)
+- Aussergewoehnliche Geschäftsveraeusserung im Ganzen: $ 1 Ia UStG - bei IP-Voll-Uebertragung ggf. einschlaegig (siehe EuGH Zita Modes C-497/01)
 
 ## Klausel-Bausteine
 
@@ -55,7 +55,7 @@ Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in E
 **C. Steuer-Erstattung:**
 > "(5) Wird die Quellensteuer rueckwirkend reduziert oder erstattet, fliesst der Erstattungsbetrag dem Lizenzgeber zu, soweit dieser den Groß-up bereits getragen hat."
 
-## Pruefroutine vor Vertragsschluss
+## Prüfroutine vor Vertragsschluss
 
 ```
 1. Ist der Lizenzgeber beschraenkt steuerpflichtig (Sitz im Ausland)?

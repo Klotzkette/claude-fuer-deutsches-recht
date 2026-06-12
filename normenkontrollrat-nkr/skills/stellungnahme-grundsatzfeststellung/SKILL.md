@@ -46,7 +46,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 > Das Vorhaben sieht [Kurz-Inhalt] vor. Der NKR hat Zweifel an der Erforderlichkeit in der vorliegenden Form, da [Sachgrund]. Auch die konkrete Ausgestaltung wirft erhebliche Bedenken auf, insbesondere [Hauptbedenken].
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Inhaltliche Charakterisierung des Vorhabens** in einem Satz
 2. **Erforderlichkeit** beurteilen — positiv / ambivalent / kritisch

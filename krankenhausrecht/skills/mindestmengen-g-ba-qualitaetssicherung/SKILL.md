@@ -1,6 +1,6 @@
 ---
 name: mindestmengen-g-ba-qualitaetssicherung
-description: "Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung im Krankenhausrecht."
+description: "Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Prüfung durch Land und Klage gegen Negativfeststellung im Krankenhausrecht."
 ---
 
 # Mindestmengen G-BA Qualitaetssicherung

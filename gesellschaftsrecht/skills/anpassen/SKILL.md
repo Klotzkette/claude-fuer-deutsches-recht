@@ -31,10 +31,10 @@ description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils —
 Vor der Profilanpassung klären:
 
 1. **Profil vorhanden?** Existiert eine CLAUDE.md mit abgeschlossenem Kaltstart-Interview? Falls nicht: `gesellschaftsrecht-kaltstart-interview` zuerst ausfuehren.
-2. **Was soll geaendert werden?** Ein Abschnitt (Wesentlichkeitsschwelle, Modul, Risikoprofil, Person) oder mehrere Abschnitte? — Pro Durchlauf nur eine Aenderung.
+2. **Was soll geaendert werden?** Ein Abschnitt (Wesentlichkeitsschwelle, Modul, Risikoprofil, Person) oder mehrere Abschnitte? — Pro Durchlauf nur eine Änderung.
 3. **Modul-Aktivierung?** Wird ein bisher inaktives Modul aktiviert (z.B. Kapitalmarkt)? Dann sind Folge-Einrichtungsfragen zu stellen.
-4. **Rechtsrelevante Aenderung?** Betrifft die Aenderung Normschwellen (z.B. Wesentlichkeitsschwelle M&A) oder Verfahrensregeln (z.B. Beschlussformat)? Dann rechtliche Downstream-Konsequenz erklaeren.
-5. **Downstream-Wirkung?** Welche anderen Skills werden von der Aenderung beeinflusst? (Tabelle der konfigurierbaren Bereiche zeigen)
+4. **Rechtsrelevante Änderung?** Betrifft die Änderung Normschwellen (z.B. Wesentlichkeitsschwelle M&A) oder Verfahrensregeln (z.B. Beschlussformat)? Dann rechtliche Downstream-Konsequenz erklaeren.
+5. **Downstream-Wirkung?** Welche anderen Skills werden von der Änderung beeinflusst? (Tabelle der konfigurierbaren Bereiche zeigen)
 
 ## Eingaben
 
@@ -132,7 +132,7 @@ Weitere Anpassungen: `/gesellschaftsrecht:gesellschaftsrecht-anpassen` erneut au
 - **Wesentlichkeitsschwelle M&A auf null oder sehr niedrig gesetzt** — alle Verträge werden als wesentlich geflaggt; DD-Tools werden unbrauchbar; Wert ueberdenken.
 - **Modul deaktiviert, obwohl aktive Mandate dieses Modul nutzen** — laufende Mandate können Skills nicht mehr laden; erst nach Abschluss aller Mandate in diesem Bereich deaktivieren.
 - **Schutzfunktionen (\"prüfen\"-Flags, Quellenhinweise) entfernt** — haftungsrechtliches Risiko; vor Entfernung Trade-off ausfuehrlich erklaeren.
-- **Mehrere Abschnitte in einem Durchlauf geaendert** — Downstream-Konflikte schwer nachverfolgbar; eine Aenderung pro Durchlauf.
+- **Mehrere Abschnitte in einem Durchlauf geaendert** — Downstream-Konflikte schwer nachverfolgbar; eine Änderung pro Durchlauf.
 
 ## Beispiel
 

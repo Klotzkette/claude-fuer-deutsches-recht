@@ -13,7 +13,7 @@ Führt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der P
 
 - In der DSFA-Trigger-Prüfung (Schwellwertanalyse)
 - Bei einer Aufsichtsanfrage zur Begruendung einer durchgefuehrten oder unterlassenen DSFA
-- Bei wesentlichen Aenderungen der Verarbeitung
+- Bei wesentlichen Änderungen der Verarbeitung
 - Wenn unklar ist, welche Landesdatenschutzbehoerde zuständig ist (Sitzland-Prüfung)
 
 ## Rechtlicher Rahmen
@@ -28,7 +28,7 @@ Führt einen sauberen Abgleich einer konkreten Verarbeitungstaetigkeit mit der P
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Verarbeitung soll abgeglichen werden? Konkrete Bezeichnung, Branche, eingesetzte Technologie, Datenkategorien.
-2. **Verhaeltnismaessigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) für öffentliche Stellen des Bundes, Telekommunikation und Postwesen; Länder für den nicht-öffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
+2. **Verhältnismäßigkeitspruefung.** Zustaendige Aufsichtsbehoerde ermitteln: Bund (BfDI) für öffentliche Stellen des Bundes, Telekommunikation und Postwesen; Länder für den nicht-öffentlichen Bereich, sortiert nach Sitzland des Verantwortlichen.
 3. **Risikoanalyse Listenabgleich.** Aktuelle Blacklist der zuständigen Behörde live abrufen (bfdi.bund.de bzw. Landesbehoerde). Treffer dokumentieren mit konkretem Listenpunkt und Datum des Abrufs.
 4. **Maßnahmen.** Prüfen ob die Verarbeitung exakt unter einen Listenpunkt faellt oder nur partiell. Bei partieller Deckung: Begruendung warum trotzdem oder warum nicht DSFA-pflichtig.
 5. **Restrisiko.** Falls Blacklist-Treffer: DSFA zwingend. Falls Whitelist-Treffer: DSFA entbehrlich, Dokumentation der Whitelist-Position. Falls weder noch: Prüfung nach Art. 35 Abs. 1 und Abs. 3 DSGVO erforderlich.

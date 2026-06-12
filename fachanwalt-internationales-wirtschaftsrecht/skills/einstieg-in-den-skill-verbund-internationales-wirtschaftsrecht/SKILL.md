@@ -37,7 +37,7 @@ description: "Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht: FA
 | Investitionsschutz | ICSID-Konvention; ICSID Rules 2022 (seit 01.07.2022); BIT-Netzwerk; Achmea (EuGH C-284/16); Komstroy (EuGH C-741/19) intra-EU-Beschraenkung |
 | Welthandel | WTO-Recht (GATT GATS TRIPS DSU); Status Appellate Body weiterhin blockiert; MPIA als Alternative |
 | EU-Aussenhandel | EU-Zollkodex (VO 952/2013); EU-Sanktionsverordnungen (VO 833/2014 zuletzt 16. Paket VO 2025/395 v. 24.02.2025 und 17. Paket 20.05.2025; VO 269/2014); Dual-Use-VO (EU) 2021/821; Anti-Coercion-Instrument VO (EU) 2023/2675 (anwendbar seit 27.12.2023) |
-| Lieferketten | LkSG (BGBl. I 2021, 2959; in Kraft 01.01.2023; aktueller Stand prüfen: BMWE/BAFA Vereinfachungs- und Aenderungsgesetz 09/2025, Berichtspflicht-Aussetzung BAFA-Hinweis vom 01.10.2025, Aenderungsgesetz voraussichtlich Anfang 2026) und EU CSDDD (Richtlinie (EU) 2024/1760; in Kraft 25.07.2024; Anwendung gestaffelt; nach Omnibus I-Anpassung Umsetzungsfrist 26.07.2028, Anwendung ab 26.07.2029): https://eur-lex.europa.eu/eli/dir/2024/1760 |
+| Lieferketten | LkSG (BGBl. I 2021, 2959; in Kraft 01.01.2023; aktueller Stand prüfen: BMWE/BAFA Vereinfachungs- und Änderungsgesetz 09/2025, Berichtspflicht-Aussetzung BAFA-Hinweis vom 01.10.2025, Änderungsgesetz voraussichtlich Anfang 2026) und EU CSDDD (Richtlinie (EU) 2024/1760; in Kraft 25.07.2024; Anwendung gestaffelt; nach Omnibus I-Anpassung Umsetzungsfrist 26.07.2028, Anwendung ab 26.07.2029): https://eur-lex.europa.eu/eli/dir/2024/1760 |
 | Wirtschaftliche Zwangsmassnahmen | Anti-Coercion Instrument (VO (EU) 2023/2675; in Kraft 27.12.2023): https://eur-lex.europa.eu/eli/reg/2023/2675 |
 | Internationale Vollstreckung | EuVTVO (VO (EG) 805/2004), EUKoVO (VO (EG) 1896/2006), Bruessel Ia: https://eur-lex.europa.eu/eli/reg/2012/1215 |
 
@@ -85,7 +85,7 @@ description: "Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht: FA
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Normen-Ueberblick IWR
+### Normen-Überblick IWR
 | Materie | Zentralnorm |
 |---|---|
 | Intl. Zuständigkeit (EU) | Bruessel Ia VO Art. 4, 7, 25 |
@@ -100,7 +100,7 @@ description: "Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht: FA
 ### Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen IWR Ueberblick
+### Fristen IWR Überblick
 | Frist | Norm |
 |---|---|
 | CISG Maengelruege | Art. 39 CISG: unverzueglich; spaetestens 2 Jahre Art. 39 Abs. 2 |

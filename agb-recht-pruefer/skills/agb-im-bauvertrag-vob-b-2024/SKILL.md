@@ -1,13 +1,13 @@
 ---
 name: agb-im-bauvertrag-vob-b-2024
-description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Aenderungen VOB-B 2024 und..."
+description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Änderungen VOB-B 2024 und..."
 ---
 
 # Agb Im Bauvertrag Vob B 2024
 
 ## Fachkern: Agb Im Bauvertrag Vob B 2024
 
-- **Klauselproblem (Agb Im Bauvertrag Vob B 2024):** AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Aenderungen VOB-B 2024 und Spannungsverhaeltnis zu §§ 650a ff. BGB Bauvertragsrecht.
+- **Klauselproblem (Agb Im Bauvertrag Vob B 2024):** AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter § 310 Abs. 1 BGB Erlass des § 308 und § 309 BGB bei vollstaendiger Einbeziehung. Aktuelle Änderungen VOB-B 2024 und Spannungsverhaeltnis zu §§ 650a ff. BGB Bauvertragsrecht.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -23,7 +23,7 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 - BGH VII ZR 162/13: bereits Streichung einer einzigen Klausel der VOB-B beendet das Privileg für die gesamte VOB-B.
 - Folge: alle VOB-B-Klauseln werden unter § 307 BGB einer Inhaltskontrolle unterzogen, was haeufig zu Teilunwirksamkeiten fuehrt.
 
-## Aktuelle Aenderungen VOB-B 2024
+## Aktuelle Änderungen VOB-B 2024
 
 - Anpassung an §§ 650a ff. BGB Bauvertragsrecht.
 - Praezisierung der Sicherheitsleistung (§ 17 VOB-B).
@@ -43,10 +43,10 @@ description: "AGB-Kontrolle der VOB-B im Bauvertrag. Skill klaert die BGH-Linie 
 - § 650l BGB (Verbraucherbauvertrag): zwingendes Recht.
 - VOB-B in B2C-Vertraegen praktisch nicht uebernehmbar.
 
-## Pruefraster
+## Prüfraster
 
 1. B2C oder B2B?
 2. VOB-B vollstaendig und unveraendert einbezogen?
 3. Welche Einzelklausel ist im Streit?
-4. Aenderungen 2024 anwendbar?
+4. Änderungen 2024 anwendbar?
 5. § 650a ff. BGB zwingend einschlaegig?

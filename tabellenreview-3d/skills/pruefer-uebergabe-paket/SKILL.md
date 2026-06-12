@@ -52,7 +52,7 @@ description: "Übergabepaket für Prüferwechsel im 3D-Review zusammenstellen: a
 
 ### 9. Begleitschreiben
 
-- `begleitschreiben.md` — eine Seite. Was wurde gemacht. Wie viele Dokumente. Wie viele Hotspots. Wie viele Prüfer-Flags. Erwartete Pruefdauer. Ablauf der Abnahme.
+- `begleitschreiben.md` — eine Seite. Was wurde gemacht. Wie viele Dokumente. Wie viele Hotspots. Wie viele Prüfer-Flags. Erwartete Prüfdauer. Ablauf der Abnahme.
 
 ## Zusammenstellung
 

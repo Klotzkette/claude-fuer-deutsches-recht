@@ -204,7 +204,7 @@ Schwerpunkte sind das Energiewirtschaftsgesetz (EnWG), das EEG, das KWKG, kartel
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
 - EEG 2023 in der zum Stand-Datum geltenden Fassung
-- GEG in der Fassung des Waermepumpen-Aenderungsgesetzes 2024
+- GEG in der Fassung des Waermepumpen-Änderungsgesetzes 2024
 
 ## Normen und Rechtsprechung
 

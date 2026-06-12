@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-bauleiter
-description: "Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Pruefliste für MB-Antrag und typische Stolpersteine."
+description: "Spezielles Mahnverfahren bei Werklohnanspruechen aus Bauvertraegen. Beruecksichtigt Faelligkeit nach Abnahme BGB 641 Maengelrechte BGB 634 Bauhandwerkersicherung BGB 650f. Pinpoints ZPO 688 ZPO 690 BGB 641 BGB 650f. Liefert Prüfliste für MB-Antrag und typische Stolpersteine."
 ---
 
 # Mahnverfahren bei Bauforderungen
@@ -9,18 +9,18 @@ Bau-Werklohnforderungen sind im Mahnverfahren machbar wenn Faelligkeit klar doku
 
 ## Faelligkeit Werklohn
 
-Werklohn ist faellig nach Abnahme BGB 641 Abs. 1. Bei BGB 650g Abs. 4 gilt Schlussrechnungsfaelligkeit dreissig Tage nach Zugang einer pruefbaren Schlussrechnung. Ohne Faelligkeit kein Mahnbescheid.
+Werklohn ist faellig nach Abnahme BGB 641 Abs. 1. Bei BGB 650g Abs. 4 gilt Schlussrechnungsfaelligkeit dreissig Tage nach Zugang einer prüfbaren Schlussrechnung. Ohne Faelligkeit kein Mahnbescheid.
 
 ## Bauhandwerkersicherung BGB 650f
 
 Bauunternehmerin kann Sicherheit verlangen. Wird Sicherheit nicht gestellt darf Unternehmerin Vertrag kuendigen. Erfolgt Kuendigung haben sich die Anspruchsgrundlagen veraendert.
 
-## Pruefliste MB-Antrag Bau
+## Prüfliste MB-Antrag Bau
 
 | Punkt | Prüfung |
 |---|---|
 | Abnahme erfolgt | foermlich oder konkludent BGB 640 |
-| Schlussrechnung pruefbar | Massenauszug Belege |
+| Schlussrechnung prüfbar | Massenauszug Belege |
 | Faelligkeit | nach Abnahme oder 30 Tage nach Schlussrechnung |
 | Maengelstreit zu erwarten | wenn ja Klage statt MB |
 | Bauhandwerkersicherung gefordert | dokumentieren |
@@ -29,7 +29,7 @@ Bauunternehmerin kann Sicherheit verlangen. Wird Sicherheit nicht gestellt darf 
 ## Typische Stolpersteine
 
 - Abnahme nicht dokumentiert dann keine Faelligkeit
-- Auftraggeber bestreitet pruefbare Schlussrechnung Mahnbescheid waere unhaltbar
+- Auftraggeber bestreitet prüfbare Schlussrechnung Mahnbescheid waere unhaltbar
 - Maengel und Abschlagsrechnungen vermischen sich Klage statt MB
 
 ## Norm-Pinpoints

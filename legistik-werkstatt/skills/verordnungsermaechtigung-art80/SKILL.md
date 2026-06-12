@@ -7,7 +7,7 @@ description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG prüfen bevor Rech
 
 > Eine Rechtsverordnung ohne Ermaechtigung ist nichtig. Eine Rechtsverordnung mit zu unbestimmter Ermaechtigung ist nichtig.
 
-## Pruefstation 1 - Existiert eine Ermaechtigungsnorm?
+## Prüfstation 1 - Existiert eine Ermaechtigungsnorm?
 
 Suche im Fachgesetz nach Paragrafen wie:
 
@@ -16,7 +16,7 @@ Suche im Fachgesetz nach Paragrafen wie:
 
 Wenn nichts vorhanden: keine VO möglich. Erst Gesetzgebungsverfahren, um Ermaechtigung zu schaffen.
 
-## Pruefstation 2 - Bestimmtheitstrias Art. 80 Abs. 1 Satz 2 GG
+## Prüfstation 2 - Bestimmtheitstrias Art. 80 Abs. 1 Satz 2 GG
 
 Die Ermaechtigung muss bestimmen:
 
@@ -28,19 +28,19 @@ Test: Kann der Bürger aus dem Gesetz vorhersehen, was die VO regeln darf?
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefstation 3 - Sub-Delegation
+## Prüfstation 3 - Sub-Delegation
 
 Art. 80 Abs. 1 Satz 4 GG: Wenn ein Gesetz die Befugnis weiter übertragbar macht, muss das im Gesetz steht ("Diese Befugnis kann durch Rechtsverordnung weiter übertragen werden"). Ohne diese Klausel keine Weiterübertragung.
 
-## Pruefstation 4 - Zustimmung Bundesrat
+## Prüfstation 4 - Zustimmung Bundesrat
 
 Manche Ermaechtigungen sehen Zustimmung des Bundesrates vor (Art. 80 Abs. 2 GG, wenn Bundesgesetz der Zustimmung des Bundesrates bedurfte, bedarf in der Regel auch die zugehoerige VO der Zustimmung).
 
-## Pruefstation 5 - Anhörung von Beteiligten
+## Prüfstation 5 - Anhörung von Beteiligten
 
 Manche Spezialgesetze verlangen Anhörung von Sachverständigen oder Verbänden vor Erlass der VO (z.B. BImSchG Paragraf 51).
 
-## Pruefstation 6 - Citatum-Pflicht Art. 80 Abs. 1 Satz 3 GG
+## Prüfstation 6 - Citatum-Pflicht Art. 80 Abs. 1 Satz 3 GG
 
 Die VO muss die Rechtsgrundlage angeben. Format: "Auf Grund des Paragraf X des Y-Gesetzes vom ZZ.ZZ.JJJJ verordnet die Bundesregierung ..."
 
@@ -48,9 +48,9 @@ Die VO muss die Rechtsgrundlage angeben. Format: "Auf Grund des Paragraf X des Y
 
 Auf Landesebene gilt regelmäßig Art. 80 GG analog über die Landesverfassungen (z.B. Bayerische Verfassung Art. 55 Nr. 2 Satz 3, NRW Art. 70). Die Bestimmtheitstrias gilt auch dort.
 
-## Pruefprotokoll
+## Prüfprotokoll
 
-| Pruefpunkt | Antwort | Quelle |
+| Prüfpunkt | Antwort | Quelle |
 |---|---|---|
 | Ermaechtigungsnorm vorhanden | Ja/Nein | Paragraf X |
 | Inhalt klar | Ja/Nein | Wortlaut |
@@ -70,7 +70,7 @@ Art. 80 Abs. 1 GG (Ermaechtigungs-Bestimmtheitstrias) — Art. 80 Abs. 1 Satz 4 
 
 ## Ausgabe
 
-Pruefprotokoll plus Empfehlung:
+Prüfprotokoll plus Empfehlung:
 
 1. VO kann auf bestehender Grundlage ergehen
 2. VO erfordert vorherige Schaerfung der Ermaechtigung im Stammgesetz

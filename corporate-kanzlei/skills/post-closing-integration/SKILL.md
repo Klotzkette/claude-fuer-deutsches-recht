@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -105,7 +105,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere nach Closing
 
-1. Welche Handelsregister-Aenderungen sind erforderlich (neuer GF, Firmenname, Sitzverlegung)?
+1. Welche Handelsregister-Änderungen sind erforderlich (neuer GF, Firmenname, Sitzverlegung)?
 2. Organschaft geplant? (Beherrschungs- und Gewinnabfuehrungsvertrag nach §§ 291 ff. AktG, steuerlich §§ 14 ff. KStG)
 3. § 613a BGB: Wurden Arbeitnehmer ordnungsgemaess informiert? Widerspruchsfristen beachtet?
 4. Change-of-Control-Verträge: Wurden alle Consents fristgemaess eingeholt?
@@ -115,12 +115,12 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Normen
 
-- **§§ 39-45 GmbHG** — Anmeldung von GF-Aenderungen; Satzungsaenderung; Sitzverlegung beim Handelsregister
+- **§§ 39-45 GmbHG** — Anmeldung von GF-Änderungen; Satzungsaenderung; Sitzverlegung beim Handelsregister
 - **§§ 291-310 AktG** — Beherrschungsvertrag; Gewinnabfuehrungsvertrag; Vertragskonzern; Minderheitsschutz
 - **§§ 14-19 KStG** — koerperschaftsteuerliche Organschaft; finanzielle Eingliederung; GAV-Voraussetzung
 - **§ 613a BGB** — Betriebsuebertragung; Informationspflicht; Widerspruchsrecht 1 Monat
 - **§ 106 I BetrVG** — Unterrichtung des Wirtschaftsausschusses bei Betriebsaenderung
-- **§ 111 AktG** — Aufsichtsrats-Informationsrechte bei wesentlichen Aenderungen post-Closing
+- **§ 111 AktG** — Aufsichtsrats-Informationsrechte bei wesentlichen Änderungen post-Closing
 - **§§ 14 ff., 20 ff. UmwStG** — Steuerneutrale Integration; Verschmelzung; Sperrfristen
 
 ## Aktuelle Rechtsprechung

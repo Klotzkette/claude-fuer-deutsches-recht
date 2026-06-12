@@ -24,7 +24,7 @@ description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungs
 ### 3. Dienstaufsichtsbeschwerde
 - An die uebergeordnete Stelle.
 - Bei Krankenkassen: Aufsichtsbehoerde des Landes.
-- Bei Jobcenter: Bundesagentur für Arbeit / Geschaeftsfuehrung.
+- Bei Jobcenter: Bundesagentur für Arbeit / Geschäftsführung.
 - Bei DRV: Bundesversicherungsamt.
 
 ### 4. Untaetigkeitsklage § 88 SGG
@@ -40,7 +40,7 @@ description: "Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungs
 
 "Trotz meiner Sachstandsanfrage vom [Datum] ist bisher keine Entscheidung ergangen. Ich setze hiermit Frist bis zum [Datum 14 Tage später]. Andernfalls werde ich Untaetigkeitsklage erheben."
 
-## Pruefraster
+## Prüfraster
 
 1. Wartezeit seit Antrag?
 2. Sachstandsanfrage erfolgt?

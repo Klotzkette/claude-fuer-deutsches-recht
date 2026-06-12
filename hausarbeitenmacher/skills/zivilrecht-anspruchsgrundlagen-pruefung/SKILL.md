@@ -28,7 +28,7 @@ description: "Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihe
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 433, 634, 611, 677 BGB — Vertragsrecht als erste Pruefungsstufe der V-C-G-D-D-B
+- §§ 433, 634, 611, 677 BGB — Vertragsrecht als erste Prüfungsstufe der V-C-G-D-D-B
 - § 311 Abs. 2 BGB — Culpa in contrahendo als vorvertragliche Haftung
 - §§ 823 ff. BGB — Deliktsrecht als vierte Stufe
 - §§ 812 ff. BGB — Bereicherungsrecht als letzte Auffangnorm

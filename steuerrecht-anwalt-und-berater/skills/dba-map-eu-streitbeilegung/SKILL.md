@@ -159,7 +159,7 @@ Anlagen:
 | Beleg | Verwendung |
 |---|---|
 | Steuerbescheid DE | Nachweis DE-Besteuerung |
-| Steuerbescheid Ausland (Original + Uebersetzung) | Nachweis Auslands-Besteuerung |
+| Steuerbescheid Ausland (Original + Übersetzung) | Nachweis Auslands-Besteuerung |
 | Zahlungsnachweise (DE + Ausland) | tatsaechliche Steuerlast |
 | Verträge (Arbeitsvertrag, Lizenzvertrag, VP-Vertrag) | wirtschaftliche Grundlage |
 | Transfer-Pricing-Dokumentation | bei VP-Faellen Pflicht |

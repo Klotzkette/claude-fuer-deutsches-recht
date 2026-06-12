@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-finanzamt-im-insolvenzverfahren
-description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschut..."
+description: "Finanzamt als Gläubiger im Insolvenzverfahren. Paragraph 251 AO Aussetzung der Vollziehung, Paragraph 35 InsO Massezugehoerigkeit, Steuerforderungen als Insolvenzforderungen oder Masseverbindlichkeiten. Tabellenanmeldung der FA-Forderungen Paragraphen 174 ff. InsO. Steuerlicher Aufrechnungsschut..."
 ---
 
 # Sanierungsgewinn — Finanzamt im Insolvenzverfahren
@@ -23,7 +23,7 @@ description: "Finanzamt als Glaeubiger im Insolvenzverfahren. Paragraph 251 AO A
 
 ## Worum geht es
 
-Das Finanzamt ist im Insolvenzverfahren ein Glaeubiger wie jeder andere — nicht mehr. Die Privilegierung des Fiskus aus frueheren Zeiten ist abgeschafft. Aber das Finanzamt ist ein Glaeubiger mit besonderen verfahrensrechtlichen Werkzeugen: Aufrechnung, Festsetzungsbescheid, Vollstreckungsanordnung. Im Sanierungs-Kontext kommt eine zusaetzliche Rolle hinzu: das FA entscheidet über die Anwendung Paragraph 3a EStG und Paragraph 7b GewStG.
+Das Finanzamt ist im Insolvenzverfahren ein Gläubiger wie jeder andere — nicht mehr. Die Privilegierung des Fiskus aus frueheren Zeiten ist abgeschafft. Aber das Finanzamt ist ein Gläubiger mit besonderen verfahrensrechtlichen Werkzeugen: Aufrechnung, Festsetzungsbescheid, Vollstreckungsanordnung. Im Sanierungs-Kontext kommt eine zusaetzliche Rolle hinzu: das FA entscheidet über die Anwendung Paragraph 3a EStG und Paragraph 7b GewStG.
 
 Dieser Skill arbeitet die FA-Schnittstelle im Verfahren durch. Adressat: IV, Sachwalter, StB, Plan-Anwalt.
 
@@ -63,7 +63,7 @@ Kaltstart-Fragen:
 3. **Vollstreckungsverbot Paragraph 89 InsO** beachten — auch FA darf nicht in die Masse vollstrecken.
 4. **Sanierungs-Antraege rechtzeitig stellen.** Vorabauskunft Paragraph 89 AO; mit Steuererklaerung Antrag Paragraph 3a EStG.
 5. **Verhandlungslinie mit FA aufbauen.** Erlassantrag Paragraph 227 AO, Stundungsantrag Paragraph 222 AO.
-6. **Im Plan**: FA als Glaeubiger der Insolvenzklasse oder eigene Klasse; Restbetraege nach Plan-Bestaetigung erlassen.
+6. **Im Plan**: FA als Gläubiger der Insolvenzklasse oder eigene Klasse; Restbetraege nach Plan-Bestaetigung erlassen.
 
 ## Steuerforderungen klassifizieren
 
@@ -71,8 +71,8 @@ Kaltstart-Fragen:
 |---|---|---|
 | KSt für Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Anmeldung zur Tabelle |
 | GewSt für Jahr vor Eroeffnung | Insolvenzforderung Paragraph 38 InsO | Gemeinde meldet an |
-| USt aus Geschaeftsbetrieb nach Eroeffnung | Masseverbindlichkeit Paragraph 55 Absatz 1 Nr. 1 InsO | Aus Masse zu zahlen |
-| LSt für fortgefuehrte Beschaeftigung | Masseverbindlichkeit Paragraph 55 InsO | Lohnzahlung loest LSt aus |
+| USt aus Geschäftsbetrieb nach Eroeffnung | Masseverbindlichkeit Paragraph 55 Absatz 1 Nr. 1 InsO | Aus Masse zu zahlen |
+| LSt für fortgefuehrte Beschäftigung | Masseverbindlichkeit Paragraph 55 InsO | Lohnzahlung loest LSt aus |
 | KSt/GewSt auf Sanierungsertrag (verbleibender Restbetrag) | Masseverbindlichkeit Paragraph 55 InsO | erst nach Plan-Vollzug entstanden |
 | GrESt auf Verwertung von Grundstuecken | Masseverbindlichkeit | aus Verwertung |
 | Nicht beitreibbar versteuerte alte Schulden | bleibt offen | nach Restschuldbefreiung erlischt |
@@ -81,7 +81,7 @@ Kaltstart-Fragen:
 
 | Option | Wann sinnvoll | Risiko |
 |---|---|---|
-| Paragraph 3a EStG-Antrag mit Steuererklaerung | Standard | FA pruefte Voraussetzungen genau |
+| Paragraph 3a EStG-Antrag mit Steuererklaerung | Standard | FA prüfte Voraussetzungen genau |
 | Vorabauskunft Paragraph 89 AO | bei hohem Volumen | Gebuehr, Zeitverzug |
 | Stundungsantrag Paragraph 222 AO | wenn Restbetrag verbleibt | nur Aufschub |
 | Erlassantrag Paragraph 227 AO | wenn Steuern unbillig | hohe Begruendungsanforderung |
@@ -93,7 +93,7 @@ Kaltstart-Fragen:
 1. **FA-Forderungen pflegen.** Schnell klassifizieren, Tabellenanmeldung prüfen, Bestreitungen erwaegen.
 2. **Aufrechnungsverbot Paragraph 96 InsO** hat enge Voraussetzungen — Prüfung im Einzelfall lohnt sich.
 3. **FA-Vorabauskunft schriftlich.** Muendliche Aussagen des Sachbearbeiters sind kein Bindung.
-4. **Plan-Klassenbildung prüfen.** FA kann als Glaeubiger in eigene Klasse, was die Mehrheits-Mathematik vereinfacht.
+4. **Plan-Klassenbildung prüfen.** FA kann als Gläubiger in eigene Klasse, was die Mehrheits-Mathematik vereinfacht.
 5. **Aktenzeichen-Disziplin.** Im FA-Bereich gibt es Steuernummer + Vorgangs-Az + ggf. Vollstreckungs-Az. Alle zitieren.
 6. **Nach Plan-Bestaetigung Schlussrechnung mit FA.** Restbetraege nach Plan-Quote können über Paragraph 227 AO erlassen werden.
 

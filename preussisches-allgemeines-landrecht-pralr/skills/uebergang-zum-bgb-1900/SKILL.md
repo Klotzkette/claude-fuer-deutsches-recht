@@ -39,7 +39,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselregelung
+### Schlüsselregelung
 - **EGBGB Art. 218** (frueher): ALR-Erbfaelle vor BGB-Inkrafttreten bleiben unter ALR.
 - **EGBGB Art. 184 ff.**: Sicherung der vor BGB begruendeten Sachenrechte (Dienstbarkeiten, Reallasten, Hutungsrechte).
 - **EGBGB Art. 4**: Allgemeine Uebergangsbestimmung.

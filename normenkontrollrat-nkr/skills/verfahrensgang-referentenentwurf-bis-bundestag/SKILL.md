@@ -21,20 +21,20 @@ Skill, der den vollstaendigen Lebenszyklus eines Bundesvorhabens entlang der NKR
 
 - Vorgang ist zeitlich unklar verortet ("Wann hat der NKR welche Frist?")
 - Frist für NKR-Befassung steht im Streit mit Ressort
-- Vorhaben kommt erst spaet aus dem parlamentarischen Verfahren zurueck (Aenderungsantrag)
+- Vorhaben kommt erst spaet aus dem parlamentarischen Verfahren zurueck (Änderungsantrag)
 
 Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 4 NKRG** — Pruefungspflicht
+- **§ 4 NKRG** — Prüfungspflicht
 - **§ 62 GGO** — NKR-Beteiligung vor Kabinettsbefassung
 - **§ 45 GGO** — Erfuellungsaufwand-Darstellung in der Begruendung
 - **§ 47 GGO** — Beteiligung der Länder, Verbaende, Fachkreise
 - **§ 70 GO BT, § 70a GO BT** — Bundestagsverfahren
 - **§ 26 GG, Art. 76, 77 GG** — Gesetzgebungsverfahren
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Phase 1 — Ressort-interne Vorbereitung
 
@@ -55,7 +55,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - BMJ-Rechtsfoermlichkeitspruefung
 - BMI-Prüfung Verwaltungstauglichkeit
 - BMF-Prüfung Haushaltsfolgen
-- NKR ueberprueft ggf. nachgereichte Daten
+- NKR überprüft ggf. nachgereichte Daten
 
 ### Phase 4 — Kabinettsbefassung
 
@@ -73,7 +73,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - Erste Lesung
 - Federfuehrender Ausschuss; Anhörung
 - **NKR kann zur Anhörung geladen werden** (Skill `nkr-stellungnahme-zum-bundestag-anhoerung`)
-- Aenderungsantraege: bei wesentlichen Aenderungen erneute NKR-Befassung?
+- Änderungsantraege: bei wesentlichen Änderungen erneute NKR-Befassung?
 - Zweite und dritte Lesung; Abstimmung
 
 ### Phase 7 — Bundesrat 2. Durchgang
@@ -90,7 +90,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 
 - Frist verkuerzt, ohne Notbegruendung
 - NKR-Stellungnahme nicht der Kabinettsvorlage beigefuegt
-- Wesentliche Aenderungen im parlamentarischen Verfahren ohne erneute Befassung
+- Wesentliche Änderungen im parlamentarischen Verfahren ohne erneute Befassung
 - Formulierungshilfe statt Referentenentwurf, um NKR zu umgehen
 
 ## Trade-off-Matrix
@@ -101,12 +101,12 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 | Ressortabstimmung | Nachfrage Daten | 1 Woche |
 | Vor Kabinett | Foermliche Stellungnahme | spaetestens 1 Woche vor Kabinett |
 | Bundestag | ggf. Anhörung | Ad hoc |
-| Wesentliche Aenderung | Nachpruefung | je nach Umfang |
+| Wesentliche Änderung | Nachpruefung | je nach Umfang |
 
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR ist am [Datum] mit dem Vorhaben befasst worden. Die Frist zur Stellungnahme betrug [X] Wochen."
-- "Aufgrund der erheblichen inhaltlichen Aenderungen im parlamentarischen Verfahren hat der NKR mit Schreiben vom [Datum] eine ergaenzende Stellungnahme abgegeben."
+- "Aufgrund der erheblichen inhaltlichen Änderungen im parlamentarischen Verfahren hat der NKR mit Schreiben vom [Datum] eine ergaenzende Stellungnahme abgegeben."
 - "Der NKR weist darauf hin, dass die Beteiligungsfrist von [X] Werktagen die methodische Vorpruefung nur eingeschraenkt erlaubt."
 
 ## Typische Fehler in Ressort-Entwuerfen
@@ -114,7 +114,7 @@ Rueckfrage nur wenn unklar: *"In welcher Phase steht das Vorhaben aktuell?"*
 - NKR-Befassung als blosse Pflichtuebung mit zu kurzer Frist
 - Datenlieferung erst nach Stellungnahme-Anforderung
 - "Formulierungshilfe" als Umgehung der NKR-Befassung
-- Aenderungen vor Kabinett, die der NKR nicht mehr sieht
+- Änderungen vor Kabinett, die der NKR nicht mehr sieht
 
 ## Quellen Stand 06/2026
 

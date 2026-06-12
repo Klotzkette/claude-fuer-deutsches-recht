@@ -1,6 +1,6 @@
 ---
 name: versicherung-p-i-hull
-description: "Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement...."
+description: "Mandant prüft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement...."
 ---
 
 # Versicherung P&I und Hull & Machinery – Deckungsanalyse

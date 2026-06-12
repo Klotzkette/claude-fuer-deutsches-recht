@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-subventionsbetrug-264-stgb
-description: "Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention: Pruefraster Subventionsbegrif..."
+description: "Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention: Prüfraster Subventionsbegrif..."
 ---
 
 # Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention
@@ -18,7 +18,7 @@ description: "Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
+**Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Prüfraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster für Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
 
 ### Subventionsbetrug § 264 StGB
 
@@ -42,7 +42,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 3. **Inanspruchnahme einer Subvention auf Grund einer durch unrichtige Belege erschlichenen Subventionsgenehmigung.**
 4. **Unterlassen** der Mitteilung bei nachtraeglichem Wegfall der Anspruchsvoraussetzungen.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Subvention § 264 Abs. 8 StGB.** Leistung aus öffentlichen Mitteln nach Bundes- oder Landesrecht oder nach EU-Recht an Betriebe oder Unternehmen, wenigstens zum Teil ohne marktmäßige Gegenleistung. Corona-Soforthilfen sind nach BGH 4.5.2022 — 6 StR 392/21 Subventionen (Az. vor Verwendung verifizieren).
 - **Subventionserheblichkeit § 264 Abs. 9 StGB.** Tatsache muss durch Gesetz oder durch den Subventionsgeber als subventionserheblich bezeichnet sein. Mehrstufige Prüfung.

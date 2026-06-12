@@ -1,6 +1,6 @@
 ---
 name: grammatik-konsistenzcheck
-description: "Prueft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Numerus Kasus Verweisbezug Zeitformwechsel und Hausstilkonsistenz quer durch den Text im Verlagsredaktion."
+description: "Prüft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Numerus Kasus Verweisbezug Zeitformwechsel und Hausstilkonsistenz quer durch den Text im Verlagsredaktion."
 ---
 
 # Grammatik- und Konsistenzcheck

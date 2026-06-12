@@ -22,7 +22,7 @@ Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwalt
 1. **Verfahrensstadium klären:** Ist der Strafbefehl bereits erlassen oder noch im Ermittlungsverfahren? Liegt die Akte noch bei der Staatsanwaltschaft oder schon beim Amtsgericht?
 2. **Deliktart:** Strassenverkehrsdelikt (§§ 316, 315c, 142 StGB), Betrug, Koerperverletung, Diebstahl — beeinflusst welche Bestandteile der Akte kritisch sind.
 3. **Liegt eine Vollmacht des Mandanten vor?** — Ohne Vollmacht keine Akteneinsicht (§ 147 Abs. 1 StPO: dem Verteidiger steht Akteneinsicht zu).
-4. **Digitale oder Papierakte?** — eAkte: elektronische Uebersendung nach § 32f StPO; Papierakte: physische Uebersendung oder Einsicht in der Geschaeftsstelle.
+4. **Digitale oder Papierakte?** — eAkte: elektronische Uebersendung nach § 32f StPO; Papierakte: physische Uebersendung oder Einsicht in der Geschäftsstelle.
 5. **Vollstaendigkeit prüfen:** Bussgeldheft, Messprotokoll, Schulungsnachweis, Befundbericht — bei Verkehrsdelikten besonders wichtig.
 
 ## Zentrale Normen

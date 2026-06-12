@@ -36,7 +36,7 @@ description: "Zollerlass und -erstattung für Rueckwaren nach UZK Art. 203 und V
 - **UZK-IA Art. 255**: Verfahren für Rueckwaren in ATLAS.
 - **VO (EU) 952/2013 Art. 33**: Abgrenzung Rueckwaren von Wiedereinfuhr nach Veredelung.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] EU-Ursprungsstatus der Ware bei urspruenglicher Ausfuhr bestanden?
 - [ ] Dreijahrsfrist eingehalten oder Ausnahme/Verlaengerung vorhanden?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

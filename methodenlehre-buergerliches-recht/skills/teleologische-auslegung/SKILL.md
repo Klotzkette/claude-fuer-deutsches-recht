@@ -1,6 +1,6 @@
 ---
 name: teleologische-auslegung
-description: "Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das s..."
+description: "Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhältnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das s..."
 ---
 
 # Teleologische Auslegung
@@ -32,7 +32,7 @@ Bei Savigny noch nicht als eigenstaendiges Element gefuehrt — Savigny rechnete
 **Weiterentwicklung:**
 
 - Philipp Heck, "Begriffsbildung und Interessenjurisprudenz", 1932: ratio legis = Ergebnis eines Interessenkonflikts (siehe Skill `interessenjurisprudenz-heck`).
-- Karl Larenz, "Methodenlehre der Rechtswissenschaft", 1960: objektive Wertungen als Massstab.
+- Karl Larenz, "Methodenlehre der Rechtswissenschaft", 1960: objektive Wertungen als Maßstab.
 - Claus-Wilhelm Canaris, "Systemdenken und Systembegriff in der Jurisprudenz", 1969: System als Realisierung tragender Wertentscheidungen.
 
 **Zwei Theorie-Pole zur Telos-Bestimmung:**
@@ -46,9 +46,9 @@ BGH-Linie: vermittelnd, gestuetzt auf den "objektivierten Willen des Gesetzgeber
 
 **Beispiel § 433 Abs. 1 S. 1 BGB:** Verschaffung von Eigentum und Besitz. Telos: Synallagma Ware gegen Geld; Erfuellungs- und Gewaehrleistungsfunktion. Schutzzweck primaer der Kaeufer (Erhalt der Kaufsache), sekundaer der Verkaeufer (Erhalt des Kaufpreises).
 
-**Beispiel § 437 BGB (Maengelrechte):** Telos: Schutz des Kaeufers vor mangelhaften Sachen, Erhaltung des aequivalenz-Verhaeltnisses bei Vertragsschluss. Die Rechte sind gestuft (Nacherfuellung als Vorrang, danach Ruecktritt, Minderung, Schadensersatz) — das ist eine teleologische Entscheidung des Gesetzgebers für Vertragsfortsetzung.
+**Beispiel § 437 BGB (Maengelrechte):** Telos: Schutz des Kaeufers vor mangelhaften Sachen, Erhaltung des äquivalenz-Verhältnisses bei Vertragsschluss. Die Rechte sind gestuft (Nacherfuellung als Vorrang, danach Ruecktritt, Minderung, Schadensersatz) — das ist eine teleologische Entscheidung des Gesetzgebers für Vertragsfortsetzung.
 
-**Beispiel § 823 Abs. 1 BGB (Schutzzweck):** Die Norm schuetzt absolute Rechtsgueter, nicht reine Vermoegensinteressen. Die Begrenzung auf absolute Rechte (Leben, Koerper, Gesundheit, Freiheit, Eigentum) ist eine teleologische Entscheidung: Reines Vermögen waere ueberbordend zu schuetzen.
+**Beispiel § 823 Abs. 1 BGB (Schutzzweck):** Die Norm schuetzt absolute Rechtsgueter, nicht reine Vermögensinteressen. Die Begrenzung auf absolute Rechte (Leben, Koerper, Gesundheit, Freiheit, Eigentum) ist eine teleologische Entscheidung: Reines Vermögen waere ueberbordend zu schuetzen.
 
 **Beispiel § 823 Abs. 2 BGB (Schutzgesetz):** Schutzgesetz ist nicht jede öffentlich-rechtliche Norm, sondern nur solche, deren Schutzzweck individualschuetzend ist. Beispiel: § 263 StGB (Betrug) ist Schutzgesetz für das Vermögen des Geschaedigten; § 21 StVG (Fahren ohne Fahrerlaubnis) ist nicht Schutzgesetz im klassischen Sinne für Dritte, weil der Schutzzweck primaer die öffentliche Ordnung erfasst.
 

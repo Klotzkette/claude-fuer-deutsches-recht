@@ -1,6 +1,6 @@
 ---
 name: claims-proof-claim-501
-description: "Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code."
+description: "Prüft claim filing, bar date, secured/unsecured/priority status, documentation and amendments im US Bankruptcy Code."
 ---
 
 # Proof of Claim § 501

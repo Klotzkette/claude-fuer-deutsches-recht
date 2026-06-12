@@ -36,7 +36,7 @@ description: "Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Bean
 - **UZK-IA Art. 256**: Abzugsmethode für Zollwert.
 - **UZK Art. 33**: Abgabenbefreiung für Rueckwaren (Abgrenzung).
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Bewilligung passive Veredelung vollstaendig und gueltig?
 - [ ] Warenidentitaet durch geeignete Maßnahmen sichergestellt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

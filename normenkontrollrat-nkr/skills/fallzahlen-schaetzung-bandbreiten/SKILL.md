@@ -24,7 +24,7 @@ Rueckfrage nur wenn unklar: *"Was ist Ihre beste Annaeherung — und in welcher 
 - **OECD-SKM-Toolkit** — Sensitivity Analysis
 - **EU Better Regulation Toolbox** Tool 25 Quantification
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Statistikrecherche** vollstaendig dokumentieren (auch wenn keine Treffer)
 2. **Hilfsdaten** identifizieren: vergleichbare Pflichten, Branchenkennzahlen, Erfahrungswerte

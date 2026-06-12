@@ -36,7 +36,7 @@ description: "US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export
 - **EAR Part 734.9**: Foreign-Direct-Product-Rule bei US-Technologieeinsatz.
 - **AWG § 1**: Abgrenzung des deutschen Rechts zu US-extraterritorialen Regelungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] US-Ursprungsanteil quantifiziert?
 - [ ] De-minimis-Schwelle berechnet und dokumentiert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

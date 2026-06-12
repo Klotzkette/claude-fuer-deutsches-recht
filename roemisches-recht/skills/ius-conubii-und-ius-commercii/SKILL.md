@@ -1,6 +1,6 @@
 ---
 name: ius-conubii-und-ius-commercii
-description: "Ius conubii und ius commercii: zentrale Privatrechtsrechte des roemischen Buergerrechts. Skill behandelt das Recht zur rechtsgueltigen Ehe (matrimonium) und das Recht zum Abschluss zivilrechtlicher Vertraege das Verhaeltnis zur usucapio und mancipatio. Liefert Quellenmatrix."
+description: "Ius conubii und ius commercii: zentrale Privatrechtsrechte des roemischen Buergerrechts. Skill behandelt das Recht zur rechtsgueltigen Ehe (matrimonium) und das Recht zum Abschluss zivilrechtlicher Vertraege das Verhältnis zur usucapio und mancipatio. Liefert Quellenmatrix."
 ---
 
 # Rom 154 Ius Conubii Und Ius Commercii

@@ -19,7 +19,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 309 Nr. 12 BGB (Beweislast) und § 308 Nr. 6 BGB (Zugangsfiktion):**
- - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden aendert, ist unwirksam. Hierunter fallen insbesondere:
+ - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden ändert, ist unwirksam. Hierunter fallen insbesondere:
  - **lit. a:** Klausel, die dem Kunden die Beweislast für Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
  - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
  - **Konkrete Beispiele unwirksamer Klauseln:**
@@ -30,7 +30,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
  - **B2B-Ausstrahlung:**
  - § 309 Nr. 12 BGB strahlt über § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
  - § 308 Nr. 6 BGB ist im B2B unter Wertung des § 307 BGB anwendbar; pauschale Zugangsfiktionen auch im B2B kritisch.
- - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschaeftszeiten: am naechsten Werktag.
+ - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschäftszeiten: am naechsten Werktag.
  - **Beweissicherung im Vertrag:** Statt Zugangsfiktion ist Lieferantragsdokumentation zu empfehlen (Einschreiben, Lesebestaetigung, qualifizierter elektronischer Zustelldienst).
 6. **Rechtsfolge:** Unwirksamkeit; gesetzliche Beweislastregeln und Zugangsregeln greifen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
@@ -42,7 +42,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 ## Aktuelle BGH-Linie zu Beweislast und Zugang
 
 ### Norm
-- § 309 Nr. 12 BGB Aenderung der Beweislast zum Nachteil des Vertragspartners ist unwirksam.
+- § 309 Nr. 12 BGB Änderung der Beweislast zum Nachteil des Vertragspartners ist unwirksam.
 - § 309 Nr. 13 BGB Strengere Form als die Textform für Anzeigen oder Erklaerungen.
 
 ### Schriftformklauseln
@@ -55,7 +55,7 @@ description: "Norm- und Dogmatik-Skill für Beweislast und Zugang 309: prüft di
 - § 308 Nr. 6 BGB zur Fiktion des Zugangs.
 - BGH XII ZR 71/19 zur Beweislastverteilung im E-Mail-Verkehr.
 
-### Pruefraster
+### Prüfraster
 1. Beweislastverteilung modifiziert? — § 309 Nr. 12 BGB.
 2. Strengere Form als gesetzlich? — § 309 Nr. 13 BGB.
 3. Zugang fiktiv geregelt? — § 308 Nr. 6 BGB.

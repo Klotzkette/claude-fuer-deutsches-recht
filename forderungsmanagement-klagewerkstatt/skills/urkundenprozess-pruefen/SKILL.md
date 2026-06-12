@@ -1,6 +1,6 @@
 ---
 name: urkundenprozess-pruefen
-description: "Urkundenprozess §§ 592-605 ZPO pruefen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung § 595 Abs. 2 ZPO. Vorbehaltsurteil § 599 ZPO mit Nachverfahren § 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckba..."
+description: "Urkundenprozess §§ 592-605 ZPO prüfen: Anspruch auf Zahlung auf Urkunden gestuetzt (Vertrag, Schuldschein, Wechsel, Scheck). Beschraenkung Beweismittel Urkunden + Parteivernehmung § 595 Abs. 2 ZPO. Vorbehaltsurteil § 599 ZPO mit Nachverfahren § 600 ZPO. Vorteil: schnelles vorlaeufig vollstreckba..."
 ---
 
 # Urkundenprozess
@@ -79,7 +79,7 @@ Wenn Kläger durchdringt, ergeht **Vorbehaltsurteil**:
 | Vorlaeufige Vollstreckung wichtig | Vergleichsfaehigkeit erwartet |
 | B2B-Geschäft mit unterschriebenem Vertrag | Verbrauchersache mit AGB-Streit |
 
-## Wahlrecht des Klaegers § 596 ZPO
+## Wahlrecht des Klägers § 596 ZPO
 
 Kläger kann **jederzeit** vom Urkundenprozess in Regelverfahren wechseln (Klagebezeichnung weglassen). Beklagter hat das Wahlrecht **nicht** (nur Nachverfahren beantragen).
 

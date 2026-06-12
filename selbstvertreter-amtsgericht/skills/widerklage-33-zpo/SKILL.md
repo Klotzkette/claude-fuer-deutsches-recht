@@ -19,12 +19,12 @@ Wenn Sie nicht nur die Klage abwehren wollen, sondern auch eigene Anspruechre ge
 
 - **Widerklage**: Klage des Beklagten gegen den Kläger im selben Verfahren.
 - **Konnexitaet**: Zusammenhang zwischen Klage und Widerklage.
-- **Aktivforderung**: Forderung des Klaegers.
+- **Aktivforderung**: Forderung des Klägers.
 - **Wider-Forderung**: Forderung des Beklagten als Widerklaeger.
 
 ## Rechtsgrundlagen
 
-- **§ 33 ZPO** — Voraussetzungen Widerklage: Konnexitaet oder Aufrechnungs-Verhaeltnis.
+- **§ 33 ZPO** — Voraussetzungen Widerklage: Konnexitaet oder Aufrechnungs-Verhältnis.
 - **§ 45 GKG** — Streitwert bei Widerklage.
 
 ## Schritt-für-Schritt-Anleitung
@@ -45,8 +45,8 @@ In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vert
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
 
-- **Aufrechnung**: Macht Klageforderung in der Höhe Ihrer Forderung kaputt. Sie bekommen aber kein eigenes Urteil über den Ueberhang.
-- **Widerklage**: Sie bekommen Urteil über Ihre Forderung. Wenn diese hoeher als Klageforderung, bekommen Sie den Ueberhang.
+- **Aufrechnung**: Macht Klageforderung in der Höhe Ihrer Forderung kaputt. Sie bekommen aber kein eigenes Urteil über den Überhang.
+- **Widerklage**: Sie bekommen Urteil über Ihre Forderung. Wenn diese hoeher als Klageforderung, bekommen Sie den Überhang.
 
 Beispiel: Klage über 1.000 EUR. Sie haben Gegenforderung 1.800 EUR.
 

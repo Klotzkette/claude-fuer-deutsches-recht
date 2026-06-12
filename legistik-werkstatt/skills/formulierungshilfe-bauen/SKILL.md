@@ -1,6 +1,6 @@
 ---
 name: formulierungshilfe-bauen
-description: "Formulierungshilfen, Aenderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion will einen laufenden Gesetzentwurf aendern, Oppositionsfrakt..."
+description: "Formulierungshilfen, Änderungsantraege, Gesetzentwuerfe aus der Mitte des Bundestages oder Landtages, Entschliessungsantraege und parlamentarische Antraege bauen. Anwendungsfall Bundesministerium liefert fachlich zu, Koalitionsfraktion will einen laufenden Gesetzentwurf ändern, Oppositionsfrakt..."
 ---
 
 # Formulierungshilfe und parlamentarische Vorlage bauen

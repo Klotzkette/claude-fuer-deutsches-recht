@@ -155,7 +155,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - **Streitwert** — der Geldwert des Streitgegenstands; bestimmt Gerichts- und Anwaltsgebuehren sowie die sachliche Zuständigkeit.
 - **Mahnbescheid** — gerichtliche Zahlungsaufforderung im schriftlichen Mahnverfahren (§§ 688 ff. ZPO); bei Widerspruch Uebergang zum streitigen Verfahren.
 - **Einstweilige Verfuegung** — vorläufige gerichtliche Maßnahme zur Sicherung eines Anspruchs (§§ 935 ff. ZPO); Verfuegungsanspruch und Verfuegungsgrund erforderlich.
-- **Beweissicherung** — selbstaendiges Beweisverfahren nach §§ 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
+- **Beweissicherung** — selbständiges Beweisverfahren nach §§ 485 ff. ZPO; sichert Gutachten oder Tatsachen vor Klageerhebung.
 - **Vollstreckbarer Titel** — Grundlage für Zwangsvollstreckung (§ 704 ZPO); benoetigt Vollstreckungsklausel und Zustellungsnachweis.
 - **Vorlageanordnung** — gerichtliche Anordnung zur Vorlage von Urkunden durch Gegner oder Dritte (§ 142 ZPO).
 
@@ -164,7 +164,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - §§ 253 ff. ZPO — Klageschrift und Klagezulaessigkeit
 - §§ 688 ff. ZPO — Mahnverfahren und Mahnbescheid
 - §§ 935 ff. ZPO — einstweilige Verfuegung
-- §§ 485 ff. ZPO — selbstaendiges Beweisverfahren
+- §§ 485 ff. ZPO — selbständiges Beweisverfahren
 - §§ 704 ff. ZPO — Zwangsvollstreckung
 - § 142 ZPO — Vorlageanordnung
 - §§ 3 ff. ZPO — Streitwertbemessung
@@ -198,7 +198,7 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 - `mahnschreiben-erhalten` — Auf erhaltenes Mahnschreiben reagieren: Widerspruch, Zahlungsplan, Verjaebrungsaufschub.
 - `mahnbescheid` — Mahnbescheid im gerichtlichen Mahnverfahren beantragen (§§ 688 ff. ZPO).
 - `einstweilige-verfuegung` — Antrag auf einstweilige Verfuegung zur Anspruchssicherung formulieren (§§ 935 ff. ZPO).
-- `beweissicherung` — Beweissicherungsantrag im selbstaendigen Beweisverfahren vorbereiten (§§ 485 ff. ZPO).
+- `beweissicherung` — Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten (§§ 485 ff. ZPO).
 - `vorlageanordnung` — Urkundenvorlageanordnung nach § 142 ZPO beantragen.
 - `schriftsatz-abschnitt` — Einzelne Abschnitte eines Schriftsatzes erstellen (Tatbestand, Begruendung, Beweisangebot).
 - `vollstreckung` — Zwangsvollstreckung einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung (§§ 704 ff. ZPO).

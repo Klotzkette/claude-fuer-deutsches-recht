@@ -9,7 +9,7 @@ description: "Anwendungsszenario gescheiterte Finanzierung mit Vorbereitung von 
 Gescheiterte Finanzierung mit Vorbereitung von Faelligstellung und Vollstreckung. Status-Navigator erfasst Darlehensvertraege, Kuendigungs- und Faelligstellungsschreiben, Zustellungsnachweise, Sicherheiten.
 
 ## Anwendungsbeispiel
-LausitzStorage hypothetische Spiegelung aus Glaeubigersicht (NordCap gegen LausitzStorage): Faelligstellungsgrund waere Drawstop-Folge, aber Drawstop ist einseitige Auszahlungsverweigerung — keine Faelligstellung. Echte Faelligstellung erst nach Reparaturvereinbarungs-Scheitern; dann Pfandverwertung an Anteilen und Grundschuldverwertung.
+LausitzStorage hypothetische Spiegelung aus Gläubigersicht (NordCap gegen LausitzStorage): Faelligstellungsgrund waere Drawstop-Folge, aber Drawstop ist einseitige Auszahlungsverweigerung — keine Faelligstellung. Echte Faelligstellung erst nach Reparaturvereinbarungs-Scheitern; dann Pfandverwertung an Anteilen und Grundschuldverwertung.
 
 ## Output-Module
 - Faelligstellungs-Checkliste im Workflow-Reiter

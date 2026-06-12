@@ -18,7 +18,7 @@ description: "Gewerbsmäßige unerlaubte Verwertung nach Paragraph 108a UrhG: Qu
 
 ## Worum geht es
 
-Paragraph 108a UrhG ist die Qualifikation der Grundtatbestaende Paragraph 106 und Paragraph 108 UrhG für gewerbsmäßiges Handeln. Anwendungsfaelle: Betreiber illegaler Streaming-Plattformen mit Werbeeinnahmen, gewerbliche Bootleg-Presser, organisierte Filesharing-Strukturen mit Mitgliedsbeitraegen, kommerziell gefuehrte Plattformen für Software-Cracks. Auch der "gewerbliche Anwender" einer Raubkopien-Datenbank im eigenen Geschaeftsbetrieb kommt in Betracht.
+Paragraph 108a UrhG ist die Qualifikation der Grundtatbestaende Paragraph 106 und Paragraph 108 UrhG für gewerbsmäßiges Handeln. Anwendungsfaelle: Betreiber illegaler Streaming-Plattformen mit Werbeeinnahmen, gewerbliche Bootleg-Presser, organisierte Filesharing-Strukturen mit Mitgliedsbeitraegen, kommerziell gefuehrte Plattformen für Software-Cracks. Auch der "gewerbliche Anwender" einer Raubkopien-Datenbank im eigenen Geschäftsbetrieb kommt in Betracht.
 
 Strafrahmen drei Monate bis fuenf Jahre Freiheitsstrafe; Geldstrafe nicht möglich (vgl. Wortlaut). Wesentlicher Unterschied zu Paragraph 106 UrhG: Es ist kein Antragsdelikt, sondern Offizialdelikt. Die Staatsanwaltschaft verfolgt von Amts wegen, sobald der Anfangsverdacht der Gewerbsmaessigkeit besteht. Damit entfaellt die Strafantragsfrist Paragraph 77b StGB.
 
@@ -73,7 +73,7 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 - **Einziehung des Tatobjekts** Paragraph 74 StGB iVm Paragraph 110 UrhG: Datentraeger, Pressformen, Server, Werbeerloese-Konten.
 - **Gewinnabschoepfung** Paragraph 73 StGB iVm Paragraph 73c StGB: Plattform-Umsatz nach Bruttoprinzip (BGH staendige Rspr.); bei Werbungseinnahmen sind die Brutto-Werbeerloese abzuschoepfen.
 - **Berufsverbot** Paragraph 70 StGB bei gewerblicher Verflechtung im IT-Sektor möglich, in der Praxis selten verhaengt.
-- **BZRG-Eintrag** bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen; Sperre als Geschaeftsfuehrer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG ist hier nicht direkt einschlaegig, aber bei Tateinheit mit Insolvenzdelikten zu beachten.
+- **BZRG-Eintrag** bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen; Sperre als Geschäftsführer Paragraph 6 Abs 2 Satz 2 Nr 3 GmbHG ist hier nicht direkt einschlaegig, aber bei Tateinheit mit Insolvenzdelikten zu beachten.
 
 ## Mustertexte
 

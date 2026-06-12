@@ -1,6 +1,6 @@
 ---
 name: containerschiff-klagepfad-waehlen
-description: "Containerschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Containerlinienfrachtschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
+description: "Containerschiff: Gläubiger oder Reeder waehlt Klagepfad bei Streit um Containerlinienfrachtschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose im Seerecht Schifffahrtsrecht."
 ---
 
 # Containerschiff – Klagepfad wählen
@@ -18,10 +18,10 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Containerlinienfrachtschif
 
 ## Erste Schritte
 1. Schiffswert des Containerlinienfrachtschiff ermitteln: aktuelles Schätzgutachten beschaffen.
-2. Glaeubigerrangfolge aufstellen: gesetzliche Vorrechte dann Hypotheken nach Rang.
+2. Gläubigerrangfolge aufstellen: gesetzliche Vorrechte dann Hypotheken nach Rang.
 3. ZPO §§ 864-871 Zwangsversteigerung: Zeitaufwand; Kosten; erwarteter Erloes.
 4. Einvernehmlichen Verkauf prüfen: schneller und guenstiger wenn Reeder kooperiert.
-5. Insolvenzantrag als taktisches Mittel: Arrests anderer Glaeubiger stoppen.
+5. Insolvenzantrag als taktisches Mittel: Arrests anderer Gläubiger stoppen.
 6. Schiedsklausel im Kreditvertrag prüfen: London Arbitration oder deutsches Gericht?
 
 ## Rechtsrahmen
@@ -31,13 +31,13 @@ Eine Bank will nach Kreditausfall aus der Hypothek am Containerlinienfrachtschif
 - Uebersteigt Schiffswert des Containerlinienfrachtschiff die Kreditvaluta?
 - Gibt es erstrangige Vorrechte die den Erloes aufzehren?
 - Ist einvernehmlicher Verkauf möglich?
-- Droht auslaendische Vollstreckung das deutsche Verfahren zu unterlaufen?
+- Droht ausländische Vollstreckung das deutsche Verfahren zu unterlaufen?
 - Ist Insolvenzantrag taktisch sinnvoll?
 
 ## Typische Fallstricke
 - Gesetzliche Schiffsglaeubigerrechte (Crew-Loehne/Hafen) fressen Erloes vor Hypotheken.
 - Zwangsversteigerung dauert; Schiffswert sinkt durch Stillstand im Hafen.
-- Auslaendische Arrests parallel zum deutschen Verfahren.
+- Ausländische Arrests parallel zum deutschen Verfahren.
 
 ## Vertiefung: Gerichtsstand und Schiedsklauseln im Seerecht
 Im deutschen Seerecht gilt für Schiffsarrest die ZPO § 919 (Gericht am Liegeplatz). Für streitige Klagen über Schiffshypotheken gilt ZPO § 29c (besonderer Gerichtsstand) oder der allgemeine Gerichtsstand. International ist London Arbitration (LMAA-Schiedsordnung) der Marktstandard für Charterparty-Streitigkeiten; Hamburg Arbitration (DIS-Regeln) ist eine deutsche Alternative.

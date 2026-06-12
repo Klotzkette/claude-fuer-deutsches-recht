@@ -54,7 +54,7 @@ Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 
 | Nr. VV | Tatbestand | Höhe |
 |---|---|---|
-| 2300 | Geschaeftsgebuehr aussergerichtlich | 0,5 - 2,5 (Schwellengebuehr 1,3) |
+| 2300 | Geschäftsgebuehr aussergerichtlich | 0,5 - 2,5 (Schwellengebuehr 1,3) |
 | 3100 | Verfahrensgebuehr Zivilprozess 1. Instanz | 1,3 |
 | 3104 | Terminsgebuehr | 1,2 |
 | 3201 | Verfahrensgebuehr Berufung | 1,6 |
@@ -63,7 +63,7 @@ Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 | 1003 | Einigungsgebuehr | 1,0 / 1,5 |
 | 1008 | Mehrvertretungsgebuehr | + 0,3 pro weiteren Auftraggeber |
 
-**Anrechnung Geschaeftsgebuehr auf Verfahrensgebuehr** (Vorbem. 3 Abs. 4 VV): 0,75 (max. 0,75), wenn für denselben Gegenstand zusaetzlich Klage betrieben wird.
+**Anrechnung Geschäftsgebuehr auf Verfahrensgebuehr** (Vorbem. 3 Abs. 4 VV): 0,75 (max. 0,75), wenn für denselben Gegenstand zusaetzlich Klage betrieben wird.
 
 ### Schritt 4: Auslagen
 
@@ -71,7 +71,7 @@ Gebührensaetze gestaffelt nach Gegenstandswert; 0,5 / 1,0 / 1,3 / 1,6 etc.
 |---|---|---|
 | 7000 | Schreib-/Druckkosten | 0,15 EUR pro Seite (max. 1500 Seiten) |
 | 7001 | Pauschale Post/Telekom | 20 % der Gebuehr, max. 20 EUR |
-| 7002 | Geschaeftsreise (Fahrtkosten) | 0,42 EUR/km |
+| 7002 | Geschäftsreise (Fahrtkosten) | 0,42 EUR/km |
 | 7003 | Tage-/Abwesenheitsgeld | 25-100 EUR |
 | 7008 | Umsatzsteuer | 19 % |
 
@@ -101,14 +101,14 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 3. **Berufung auf RVG-Gebuehr**: vor Klage Vergleichsangebot prüfen (Berufsethik).
 4. **Datenschutz**: nur erforderliche Mandatsdaten offenbaren (Verschwiegenheitspflicht § 43a BRAO).
 
-## Pruefraster Verteidigung Mandant
+## Prüfraster Verteidigung Mandant
 
 | Einwendung | Prüfung |
 |---|---|
 | Schlechtleistung | Beweislast Mandant; Schadensersatz § 280 BGB |
 | Schaetzung uebersteigt | § 49b Abs. 5 BRAO Belehrung erfolgt? |
 | Vereinbarung formunwirksam | § 3a RVG → nur gesetzliche Gebuehr |
-| Doppel-Geschaeftsgebuehr | Anrechnung Vorbem. 3 (4) VV |
+| Doppel-Geschäftsgebuehr | Anrechnung Vorbem. 3 (4) VV |
 | Verjährung | § 195 BGB 3 Jahre ab Schluss Mandat |
 
 ## Honorarklage – Streitwertbestimmung
@@ -124,7 +124,7 @@ Anwalt kann jederzeit Vorschuss verlangen. Mandant schuldet, sobald gesetzlich o
 - Vergueetungsvereinbarung ohne Hinweis auf Abweichung von gesetzlich → § 3a Abs. 3 RVG Rueckforderung.
 - Erfolgshonorar nicht in Schriftform mit Belehrung → unwirksam.
 - Vorschuss nicht abgegrenzt vom Endhonorar.
-- 1,3 Geschaeftsgebuehr ohne Begruendung der Schwellenueberschreitung als 1,8 oder hoeher.
+- 1,3 Geschäftsgebuehr ohne Begruendung der Schwellenueberschreitung als 1,8 oder hoeher.
 
 ## Quellen
 - RVG § 1 [gesetze-im-internet.de/rvg/__1.html](https://www.gesetze-im-internet.de/rvg/__1.html)

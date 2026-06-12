@@ -1,6 +1,6 @@
 ---
 name: setoff-recoupment-553
-description: "Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues im US Bankruptcy Code."
+description: "Prüft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues im US Bankruptcy Code."
 ---
 
 # Setoff and Recoupment § 553

@@ -27,10 +27,10 @@ description: "Vertragsauslegung und Treu und Glauben im ALR. Skill behandelt das
 - § 157 BGB Vertragsauslegung.
 - § 242 BGB Treu und Glauben.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragsauslegung erforderlich?
-2. Bona fides als Massstab?
+2. Bona fides als Maßstab?
 3. Heutige Äquivalenz?
 
 ## Powersprint-Vertiefung

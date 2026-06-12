@@ -4,4 +4,4 @@
 |---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |
 
-**Prueffrage:** Ist das Vorhaben konkret genug beschrieben, auch wenn noch kein amtlicher Entwurf existiert?
+**Prüffrage:** Ist das Vorhaben konkret genug beschrieben, auch wenn noch kein amtlicher Entwurf existiert?

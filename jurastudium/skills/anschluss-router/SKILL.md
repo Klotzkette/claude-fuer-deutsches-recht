@@ -115,7 +115,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `fall-zusammenfassung` | Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil,… |
 | `gliederungs-baukasten` | Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau.… |
 | `gutachten-uebung` | Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz… |
-| `jurastudium-anpassen` | Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2.… |
+| `jurastudium-anpassen` | Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, ändert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2.… |
 | `jurastudium-kaltstart-interview` | Jurastudium-Einstieg und Lernprofil-Aufnahme: Anwendungsfall Student startet erstmals Jurastudium-Skill und muss Lernprofil Semester Bundesland Prüfungsziel und Lernstil konfigurieren. 1. StEx und 2. StEx, JAG… |
 | `juristisches-schreiben` | Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil,… |
 | `karteikarten` | Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende,… |
@@ -136,14 +136,14 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Dieses Plugin unterstuetzt Jurastudenten und Referendare bei allen Phasen der juristischen Ausbildung: von der Einuebung des Gutachtenstils und der Subsumtion über die Methodenlehre in allen drei Hauptrechtsgebieten bis hin zur strukturierten Examensvorbereitung. Es orientiert sich an der AG-Tradition (Arbeitsgemeinschaft) und an den Anforderungen des Ersten und Zweiten Staatsexamens in deutschen Bundeslaendern.
 
-Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Lernassistent: interaktive Uebungen, Feedback zu Gutachten, Karteikarten, Lernplaene und Pruefungsgespraeche stehen im Vordergrund.
+Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Lernassistent: interaktive Uebungen, Feedback zu Gutachten, Karteikarten, Lernplaene und Prüfungsgespraeche stehen im Vordergrund.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie bereiten sich auf eine Klausur oder das Erste Staatsexamen vor und benoetigen strukturierte Uebungsaufgaben mit Feedback.
 - Sie wollen den Gutachtenstil, die Subsumtion oder die juristische Methodenlehre gezielt trainieren.
 - Sie müssen einen Lernplan für die Examensvorbereitung erstellen und nach Schwaechen gewichten.
-- Sie bereiten sich auf ein Pruefungsgespraeach oder eine AG-Diskussion vor und wollen moegliche Dozentenfragen antizipieren.
+- Sie bereiten sich auf ein Prüfungsgespraeach oder eine AG-Diskussion vor und wollen moegliche Dozentenfragen antizipieren.
 - Sie suchen Loesungsschemata für Zivilrecht, Strafrecht oder öffentliches Recht als Orientierungsrahmen für die Klausurbearbeitung.
 
 ## Fachbegriffe (kurz erklaert)
@@ -151,7 +151,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - **Gutachtenstil** — Der klassische juristische Schreibstil mit Obersatz, Definition, Subsumtion und Ergebnis je Tatbestandsmerkmal.
 - **Urteilsstil** — Umgekehrte Reihenfolge: Ergebnis zuerst, dann Begruendung; im Urteil und in bestimmten Klausurteilen.
 - **Subsumtion** — Einordnung des Sachverhalts unter die Definition eines Tatbestandsmerkmals.
-- **Loesungsschema** — Strukturierter Pruefungsaufbau für ein Rechtsgebiet (z.B. Anspruchspruefungsschema BGB, Verbrechensaufbau StGB).
+- **Loesungsschema** — Strukturierter Prüfungsaufbau für ein Rechtsgebiet (z.B. Anspruchspruefungsschema BGB, Verbrechensaufbau StGB).
 - **AG** — Arbeitsgemeinschaft; Kleingruppenveranstaltung im Jurastudium mit Sokrates-Methode und Fallbearbeitung.
 - **JPA** — Justizpruefungsamt; prüft das Erste Staatsexamen (Erste Juristische Prüfung).
 - **Repetitorium** — Kommerzielle Vorbereitungskurse für das Erste oder Zweite Staatsexamen (z.B. Alpmann, Hemmer, Kaiser).
@@ -169,7 +169,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klären: Welche Ausbildungsphase (Studium, Repetitorium, Referendariat, Zweites Staatsexamen), welches Bundesland, welche Schwerpunkte.
-2. Phase des Mandats bestimmen: Konfiguration, Lernplanung, Uebung, Klausurtraining oder Pruefungsgespraeach.
+2. Phase des Mandats bestimmen: Konfiguration, Lernplanung, Uebung, Klausurtraining oder Prüfungsgespraeach.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Lernprofil konfigurieren mit `jurastudium-kaltstart-interview` wenn Plugin erstmals genutzt wird.
 5. Anschluss-Skill bestimmen: nach Lernplan typischerweise Lernsitzung oder Gutachten-Uebung; nach Examens-Prognose gezieltes Thementraining.
@@ -178,13 +178,13 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 **Konfiguration**
 
-- `jurastudium-kaltstart-interview` — Ersteinrichtung: Lernprofil, Semester, Bundesland, Pruefungsziel und Lernstil aufnehmen.
+- `jurastudium-kaltstart-interview` — Ersteinrichtung: Lernprofil, Semester, Bundesland, Prüfungsziel und Lernstil aufnehmen.
 - `jurastudium-anpassen` — Lernprofil aktualisieren: Lernstil ändern, Schwerpunkte anpassen, Bundesland wechseln.
 
 **Lernplanung**
 
 - `lernplan` — Strukturierten Lernplan erstellen für Erstes Staatsexamen, Referendariat oder Zweites Staatsexamen; phasenbezogen und nach Schwaechen gewichtet.
-- `lernstrategien` — Effektive Lernmethoden entwickeln: Spaced-Repetition, aktives Erinnern, Priorisierung nach Pruefungsrelevanz.
+- `lernstrategien` — Effektive Lernmethoden entwickeln: Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz.
 - `examens-prognose` — Gewichtete Themenliste mit Lernprioritaet auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken.
 
 **Lernen und Ueben**
@@ -201,7 +201,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 - `gliederungs-baukasten` — Gliederung für Hausarbeiten und Seminararbeiten strukturiert aufbauen.
 - `examensvorbereitung-fragen` — Uebungsfragen für Erstes und Zweites Staatsexamen mit Musterloesungen und Schwachstellen-Hinweis.
 
-**Pruefungsgespraeach und AG**
+**Prüfungsgespraeach und AG**
 
 - `pruefungsgespraech-ag` — AG-Diskussion oder Dozentengespraeach simulieren und Argumentation mit Sokrates-Methode trainieren.
 - `ag-vorbereitung` — Cold-Call-Vorbereitung: Faelle für Seminar oder AG aufbereiten und Dozentenfragen antizipieren.
@@ -221,7 +221,7 @@ Das Plugin ist kein Rechtsgutachten-Generator für echte Mandate, sondern ein Le
 
 ## Worauf besonders achten
 
-- **Lernprofil zu Beginn konfigurieren.** Skill `jurastudium-kaltstart-interview` muss vor anderen Skills ausgefuehrt werden; ohne Bundesland und Pruefungsziel sind Empfehlungen unscharf.
+- **Lernprofil zu Beginn konfigurieren.** Skill `jurastudium-kaltstart-interview` muss vor anderen Skills ausgefuehrt werden; ohne Bundesland und Prüfungsziel sind Empfehlungen unscharf.
 - **Schemata sind keine Dogmatik.** Loesungsschemata können das Verstaendnis unterstuetzen, sind aber nie zwingend; Abweichungen und Kontroversen erkennen.
 - **Zeitmanagement in der Klausur.** Ein haeufiger Fehler ist Ueberschreiten der Zeit im Oberteil; Skill `gutachten-uebung` simuliert Zeitlimit.
 - **Bundesland-Varianten beachten.** JAG-Anforderungen und zugelassene Hilfsmittel variieren; Prognosen und Lernplaene immer bundesland-spezifisch konfigurieren.

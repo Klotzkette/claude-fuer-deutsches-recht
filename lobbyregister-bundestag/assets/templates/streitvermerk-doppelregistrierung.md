@@ -2,7 +2,7 @@
 
 ## Ausgangsfrage
 
-Muss oder darf eine auslaendische juristische Person mit unselbstständiger deutscher Zweigniederlassung im Lobbyregister einmal oder zweimal erscheinen?
+Muss oder darf eine ausländische juristische Person mit unselbstständiger deutscher Zweigniederlassung im Lobbyregister einmal oder zweimal erscheinen?
 
 ## Variante A: Eintragung nur des ausländischen Rechtstraegers
 

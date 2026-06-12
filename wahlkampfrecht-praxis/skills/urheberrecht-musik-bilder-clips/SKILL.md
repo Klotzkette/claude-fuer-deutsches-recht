@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-musik-bilder-clips
-description: "Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung prüfen im Wahlkampfrecht."
 ---
 
 # Urheberrecht Musik Bilder Clips

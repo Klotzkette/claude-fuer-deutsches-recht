@@ -104,7 +104,7 @@ Verjährung beginnt **erst** mit Rechnungsstellung (Faelligkeitsausloeser § 12 
 - Mandantenschutz § 203 StGB Schweigepflicht beachten.
 - Empfehlung: Diagnose pauschal "wegen GOAE-Leistungen erbrachte aerztliche Behandlung" und Rechnung mit Diagnose-Anlage K3.
 
-## Pruefraster Honorarklage
+## Prüfraster Honorarklage
 
 1. **Behandlungsvertrag** geschlossen (§ 630a BGB)?
 2. **Privatpatient** oder GKV-Patient? Bei GKV: Anspruch gegen KV, nicht Patient (Ausnahme IGeL).

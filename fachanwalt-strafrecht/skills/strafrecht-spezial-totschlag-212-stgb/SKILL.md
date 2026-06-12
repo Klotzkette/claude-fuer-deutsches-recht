@@ -32,7 +32,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 **Objektiver Tatbestand:** Toetung eines anderen Menschen. Tatobjekt ist ein lebender Mensch ab Geburt (vollstaendige Trennung vom Mutterleib) bis Hirntod. Schutzobjekt im Mutterleib ist der Embryo / Fetus nach §§ 218 ff. StGB.
 
-**Kausalitaet:** Aequivalenztheorie und objektive Zurechnung. Insbesondere bei Mehrfachursachen, retter- oder selbstgefaehrdetem Verhalten des Opfers Zurechnung im Einzelfall prüfen.
+**Kausalitaet:** Äquivalenztheorie und objektive Zurechnung. Insbesondere bei Mehrfachursachen, retter- oder selbstgefaehrdetem Verhalten des Opfers Zurechnung im Einzelfall prüfen.
 
 **Subjektiver Tatbestand:** Toetungsvorsatz. Vorsatzformen:
 
@@ -60,7 +60,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 - **Vorsatzverteidigung:** Bei Schlaegen, Tritten, Stuerzen die konkrete Risikobewertung des Taeters in den Mittelpunkt stellen. Hemmschwellentheorie der staendigen BGH-Rechtsprechung nutzen – dolus eventualis erfordert hohe objektive Indizien.
 - **§ 21 StGB:** Alkohol, Affekt, Persoenlichkeitsstoerung, BAK-Berechnung prüfen. Bei BAK über 2,0 Promille zur Tatzeit ist § 21 StGB regelmaessig zu prüfen, bei über 3,0 Promille § 20 StGB. Sachverstaendigengutachten zwingend.
-- **§ 213 StGB:** Bei Provokation durch das Opfer (schwere Beleidigung, koerperliche Misshandlung) Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Eigenstaendiger Pruefungspunkt.
+- **§ 213 StGB:** Bei Provokation durch das Opfer (schwere Beleidigung, koerperliche Misshandlung) Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Eigenstaendiger Prüfungspunkt.
 - **Notwehr (§ 32 StGB):** Bei Konfliktsituationen vollstaendige Notwehrlage und Notwehrhandlung prüfen. Notwehrexzess § 33 StGB als Auffanglinie.
 - **Affekttat:** Tiefgreifende Bewusstseinsstoerung nach § 20 / § 21 StGB; Sachverstaendigengutachten.
 - **Versuchsverteidigung:** Bei Ruecktrittsmoeglichkeit (§ 24 StGB) genau prüfen, ob unbeendeter oder beendeter Versuch vorlag und ob der Taeter die Tatausfuehrung freiwillig aufgegeben hat.

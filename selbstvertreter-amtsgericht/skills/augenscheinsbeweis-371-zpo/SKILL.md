@@ -86,7 +86,7 @@ Bei Wohnung, Grundstueck:
 
 Wenn die Sache sich ändern koennte (Reparatur, Bewuchs, Saison), prüfen Sie:
 
-- **Selbstaendiges Beweisverfahren** § 485 ZPO (auch vor Klageerhebung möglich).
+- **Selbständiges Beweisverfahren** § 485 ZPO (auch vor Klageerhebung möglich).
 - Fotos / Videos jetzt machen mit Beweis-Sicherung.
 
 Skill `beweismittel-vorab-sammeln-checkliste`.
@@ -97,7 +97,7 @@ Gericht wuerdigt frei (§ 286 ZPO). Direkter Augenschein ist hoch — der Richte
 
 ### Schritt 8 — Kosten
 
-Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten meist nicht hoch (im Verhaeltnis zu Sachverstaendigen-Gutachten).
+Vor-Ort-Termin: Reisekosten Gericht, ggf. Sachverstaendiger anwesend. Kosten meist nicht hoch (im Verhältnis zu Sachverstaendigen-Gutachten).
 
 ## Worauf Sie besonders achten müssen
 

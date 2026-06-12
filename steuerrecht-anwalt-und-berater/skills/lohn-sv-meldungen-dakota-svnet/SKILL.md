@@ -65,11 +65,11 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 |---|---|---|
 | Beitragsnachweis | Voraus-Beitrag laufender Monat | Bis drittletzter Bankarbeitstag |
 | Korrigierter Beitragsnachweis | Ist-Beitrag nach Abrechnung | Bis 15. Folgemonat |
-| DEUEV-Anmeldung | Beschaeftigungsbeginn AN | Mit naechster Lohnabrechnung |
-| DEUEV-Abmeldung | Beschaeftigungsende | Mit naechster Abrechnung |
+| DEUEV-Anmeldung | Beschäftigungsbeginn AN | Mit naechster Lohnabrechnung |
+| DEUEV-Abmeldung | Beschäftigungsende | Mit naechster Abrechnung |
 | Unterbrechungsmeldung | Krankheit > 6 Wochen | Bei Beginn Krankengeld |
 | Jahresmeldung | Jahreslohnsumme je AN | Bis 15. Februar Folgejahr |
-| Sofortmeldung | Beschaeftigungsbeginn in § 28a Abs 4-Branche | Vor Aufnahme |
+| Sofortmeldung | Beschäftigungsbeginn in § 28a Abs 4-Branche | Vor Aufnahme |
 | U1/U2-Erstattungsantrag | Krankheits-/Mutterschaftserstattung | Spaetestens 3 Monate nach Ereignis |
 
 ### Phase 4 — Sendung
@@ -93,7 +93,7 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 
 - Bei vielen Mandanten DATEV DAKOTA wirtschaftlich; bei wenigen sv.net ausreichend.
 - ITSG-Zertifikate rechtzeitig erneuern — bei Ablauf keine Uebermittlung mehr möglich.
-- Bei Sofortmeldungspflicht-Branchen sofort am Tag der Beschaeftigungsaufnahme.
+- Bei Sofortmeldungspflicht-Branchen sofort am Tag der Beschäftigungsaufnahme.
 - Wiederholte Fehlermeldungen (z.B. SV-Nummer nicht erkannt) deuten auf Stammdaten-Fehler hin.
 - StBVV: Standardmeldungen in Lohnpauschale.
 - DATEV-Tipp: DATEV LODAS automatische ITSG-Zertifikats-Erinnerung.
@@ -106,4 +106,4 @@ Stand: 05/2026.
 - DEUEV.
 - ITSG-Spezifikation.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (sv.net-Verfuegbarkeit Prüfhinweis ohne Marker) -->

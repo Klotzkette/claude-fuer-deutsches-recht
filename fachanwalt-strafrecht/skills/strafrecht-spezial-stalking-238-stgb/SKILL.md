@@ -3,7 +3,7 @@ name: strafrecht-spezial-stalking-238-stgb
 description: "§ 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle,..."
 ---
 
-# § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
+# § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhältnis zu § 240 und § 241 StGB.
 
 
 ## Arbeitsweg
@@ -14,7 +14,7 @@ description: "§ 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
+**Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps für die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte für Einlassung und Hilfsbeweisantrag, Verhältnis zu § 240 und § 241 StGB.
 
 ### § 238 StGB — Nachstellung (Stalking)
 
@@ -47,7 +47,7 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 - **Tatzeitraum sauber abgrenzen**: Vor der 2017er Reform war § 238 StGB als Erfolgsdelikt ausgestaltet (schwerwiegende Beeintraechtigung der Lebensgestaltung musste tatsaechlich eingetreten sein). Seit der Reform reicht die Eignung zur nicht unerheblichen Beeintraechtigung. Bei Alttatzeitraeumen vor Inkrafttreten der Reform ist das Bestreiten des konkreten Erfolgs ein Verteidigungsansatz.
 - **"Wiederholt" statt altem Eingangselement**: Für aktuelles Recht nach der Reform 2021 ist "wiederholt" das gesetzliche Eingangselement. Aeltere Rechtsprechung zum frueheren Merkmal kann nur noch für Altrecht und als historischer Auslegungs- und Abgrenzungshintergrund helfen, ersetzt aber nicht den aktuellen Gesetzeswortlaut. Verteidigung daher nicht auf ein weggefallenes Merkmal stuetzen, sondern Anzahl, Dichte, Zeitraum, Zusammenhang und Eignung der konkreten Handlungen prüfen.
-- **Eignung zur Beeintraechtigung**: objektiver Massstab, nicht das subjektive Empfinden des Opfers. Verteidigung kann hier mit Lebensumstaenden des Opfers (Selbststaendigkeit, Mobilitaet, soziale Einbindung) argumentieren.
+- **Eignung zur Beeintraechtigung**: objektiver Maßstab, nicht das subjektive Empfinden des Opfers. Verteidigung kann hier mit Lebensumstaenden des Opfers (Selbststaendigkeit, Mobilitaet, soziale Einbindung) argumentieren.
 - **Vorsatz**: bedingter Vorsatz genuegt. Bei einseitiger Liebe (Schwarmverliebtheit, Verfolgungswahn) Schuldfaehigkeit § 20 StGB prüfen.
 - **GewSchG-Schnittstelle**: zivilrechtliche Annaeherungsverbote (Familiengerichtsbeschluss § 1 GewSchG) und Strafverfahren laufen oft parallel. Verstoss gegen zivilen Beschluss = eigener Straftatbestand § 4 GewSchG.
 - **Pretrial-Maßnahmen**: Kontaktverbot, Wohnungsverweisung — Verteidigung kann antiveriablen Plan vorlegen (Therapie, freiwillige Abstinenz).

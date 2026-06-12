@@ -1,13 +1,13 @@
 ---
 name: verfassung-parteiverbot
-description: "Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG im Verfassungsrecht."
+description: "Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG im Verfassungsrecht."
 ---
 
 # Parteiverbot
 
 ## Arbeitsbereich
 
-Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -22,11 +22,11 @@ Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfah
 - **Entscheidende Weiche:** Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
 
 ## Aufgabe
-Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsausschluss Art. 21 III GG iVm § 13 Nr. 2a BVerfGG. Pruefraster, hohe Schwelle (Potentialitaet); Antragsbefugnis, Verfahren, Rechtsfolgen.
+Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsausschluss Art. 21 III GG iVm § 13 Nr. 2a BVerfGG. Prüfraster, hohe Schwelle (Potentialitaet); Antragsbefugnis, Verfahren, Rechtsfolgen.
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für `verfassungsrecht` zum Thema `verfassung-parteiverbot`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Pruefraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG.
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug für `verfassungsrecht` zum Thema `verfassung-parteiverbot`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzungen, NPD-Verfahren BVerfG 2 BvB 1/13. Prüfraster, hohe Schwelle (Potenzialitaet). Ausschluss von staatlicher Finanzierung Art. 21 Abs. 3 GG.
 
 Arbeite deshalb fallnah:
 
@@ -47,7 +47,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster Parteiverbot Art. 21 II GG
+## Prüfraster Parteiverbot Art. 21 II GG
 
 ### 1. Zulaessigkeit
 - **Zuständigkeit BVerfG** Art. 21 IV GG iVm § 13 Nr. 2, §§ 43 ff. BVerfGG.
@@ -83,7 +83,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 ### 6. Bindungswirkung § 31 BVerfGG
 - BVerfG-Entscheidung bindet Bundes- und Landesverfassungsorgane, Gerichte, Behörden.
 
-## Pruefraster Finanzierungsausschluss Art. 21 III GG iVm § 46a BVerfGG
+## Prüfraster Finanzierungsausschluss Art. 21 III GG iVm § 46a BVerfGG
 
 - Eingefuehrt 2017 nach NPD II als "Mildere-Variante" — kein Verbot, aber Ausschluss von staatlicher Finanzierung.
 - Voraussetzungen: wie Verbot, aber **ohne Potentialitaet** (Erfolgsaussicht fehlt).
@@ -107,10 +107,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

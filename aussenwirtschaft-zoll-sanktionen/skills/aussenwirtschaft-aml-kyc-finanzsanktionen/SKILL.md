@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-finanzsanktionen
-description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Pruefung von PEP-Status und Hochrisikoindikator..."
+description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Prüfung von PEP-Status und Hochrisikoindikator..."
 ---
 
 # AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening
@@ -21,7 +21,7 @@ description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasi
 
 ## Erste Schritte
 
-1. Identifizierungspflicht ausloesen: Ist Geschaeftsbeziehung gemäß §§ 10 GwG begruendet?
+1. Identifizierungspflicht ausloesen: Ist Geschäftsbeziehung gemäß §§ 10 GwG begruendet?
 2. UBO-Ermittlung nach § 3 GwG und Art. 3 Nr. 6 4. EU-GwRL (AMLD4): Eigentums- und Kontrollstrukturen bis zum natuerllichen Endbegünstigten aufloesen.
 3. Sanktionsscreening in konsolidierter EU-Finanzsanktionsliste (OFAC, UK-HMT optional ergaenzend).
 4. PEP-Status prüfen (§ 1 Abs. 12 GwG) und erweiterte Sorgfaltspflichten aktivieren.
@@ -36,7 +36,7 @@ description: "Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasi
 - **§ 43 GwG**: Verdachtsmeldepflicht an FIU.
 - **Zahlungsdiensteaufsichtsgesetz (ZAG)**: Erweiterter Anwendungsbereich für Zahlungsdienstleister.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] UBO vollstaendig und belegt ermittelt (25 %-Schwelle und Kontrollpruefung)?
 - [ ] Sanktionsscreening mit Trefferprotokoll durchgefuehrt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

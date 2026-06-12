@@ -1,6 +1,6 @@
 ---
 name: dsfa-art-35-dsgvo-trigger-anwendungsbereich
-description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich ist. Trigger-Pruefung Anwendungsbereich Schwellwert. Generalklausel Art. 35 Abs. 1 voraussichtlich hohes Risiko; Regelbeispiele Art. 35 Abs. 3; Pflichtlisten Art. 35 Abs. 4 BfDI. Output: Triage-Vermerk DSFA-pflichtig oder nicht."
+description: "Prüfung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich ist. Trigger-Prüfung Anwendungsbereich Schwellwert. Generalklausel Art. 35 Abs. 1 voraussichtlich hohes Risiko; Regelbeispiele Art. 35 Abs. 3; Pflichtlisten Art. 35 Abs. 4 BfDI. Output: Triage-Vermerk DSFA-pflichtig oder nicht."
 ---
 
 # DSFA Trigger und Anwendungsbereich nach Art. 35 DSGVO
@@ -8,7 +8,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 ## Wann dieses Modul hilft
 
 - Vor Einfuehrung einer neuen Verarbeitungstaetigkeit
-- Bei wesentlicher Aenderung einer bestehenden Verarbeitung (Art. 35 Abs. 11 DSGVO)
+- Bei wesentlicher Änderung einer bestehenden Verarbeitung (Art. 35 Abs. 11 DSGVO)
 - Bei Aufnahme eines neuen Auftragsverarbeiters, neuer Technologie oder neuer Datenkategorie
 - Wenn die interne Compliance, der DSB oder eine Aufsichtsbehoerde die Frage stellt
 - Vor Erstellung einer vollstaendigen DSFA (Vorab-Triage)
@@ -28,7 +28,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Kurzbeschreibung der Verarbeitung in maximal 10 Saetzen: Zweck, Datenarten, Betroffenenkreise, Technologie, Drittlandbezug, Aufbewahrung. Ohne diese Beschreibung ist die Trigger-Prüfung nicht möglich.
-2. **Verhaeltnismaessigkeitspruefung.** In dieser Stufe nur grobe Plausibilitaet: Liegt ein offensichtliches Missverhaeltnis von Zweck und Eingriff vor? Falls ja, ist die DSFA bereits aus diesem Grund angezeigt.
+2. **Verhältnismäßigkeitspruefung.** In dieser Stufe nur grobe Plausibilitaet: Liegt ein offensichtliches Missverhaeltnis von Zweck und Eingriff vor? Falls ja, ist die DSFA bereits aus diesem Grund angezeigt.
 3. **Risikoanalyse Trigger-Ebene.** Prüfen der 9 EDSA-Kriterien:
  - Bewertung oder Scoring
  - automatisierte Entscheidung mit Rechtswirkung
@@ -36,7 +36,7 @@ description: "Pruefung wann eine DSFA nach Art. 35 DSGVO ueberhaupt erforderlich
  - besondere Kategorien Art. 9 oder Art. 10
  - umfangreiche Verarbeitung
  - Zusammenfuehrung oder Abgleich von Datensaetzen
- - schutzbeduerftige Personen (Kinder, Patienten, Beschaeftigte)
+ - schutzbeduerftige Personen (Kinder, Patienten, Beschäftigte)
  - neue Technologien (KI, Biometrie, IoT)
  - Verhinderung der Ausübung von Betroffenenrechten
 4. **Maßnahmen.** Prüfen ob bereits getroffene risikomindernde Maßnahmen den Schwellwert unter hohes Risiko druecken (Pseudonymisierung, Anonymisierung, technische Beschraenkung). Ergebnis dokumentieren.
@@ -89,7 +89,7 @@ Unterschrift DSB: ____________________
 - Blacklist der eigenen Landesbehoerde uebersehen (siehe Skill dsfa-bfdi-und-laender-blacklist).
 - Negative Triage nicht dokumentiert — bei spaeterem Aufsichtsverfahren kein Nachweis.
 - DSB nicht beteiligt obwohl Art. 35 Abs. 2 ausdruecklich Anhörung verlangt.
-- Wesentliche Aenderung uebersehen — Re-Triage nach Art. 35 Abs. 11 notwendig.
+- Wesentliche Änderung uebersehen — Re-Triage nach Art. 35 Abs. 11 notwendig.
 
 ## Quellen Stand 06/2026
 

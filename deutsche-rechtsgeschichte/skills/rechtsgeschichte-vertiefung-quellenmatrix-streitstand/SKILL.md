@@ -51,7 +51,7 @@ Die Quellenmatrix ist ein strukturiertes Rechercheinstrument für die rechtshist
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Welchen Rang hat eine Quellenmatrix im Verhaeltnis zu einer Literaturfussnote?
+1. Welchen Rang hat eine Quellenmatrix im Verhältnis zu einer Literaturfussnote?
 2. Wie geht man vor, wenn Primaerquellen nicht digitalisiert sind?
 3. Quellenmatrix und Datenschutz: Archivquellen mit Personenbezug
 4. Digitale Quellenmatrix: Persistente URLs vs. verfluechtende Weblinks

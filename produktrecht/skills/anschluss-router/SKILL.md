@@ -137,7 +137,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 
 - **DDG** — Digitale-Dienste-Gesetz; nationales Ausfuehrungsgesetz; §§ 5 und 6 DDG regeln Anbieterkennzeichnungspflicht (Impressum).
 - **PAngV** — Preisangabenverordnung 2022; regelt Gesamtpreise, Grundpreise, Streichpreise und die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen.
-- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Massstab für irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschaeftspraktiken.
+- **UWG** — Gesetz gegen den unlauteren Wettbewerb; Maßstab für irrefuehrende Werbeaussagen, vergleichende Werbung und aggressive Geschäftspraktiken.
 - **ProdSG** — Produktsicherheitsgesetz; regelt Sicherheitsanforderungen und Marktueberaufsicht.
 - **CE-Kennzeichnung** — Konformitaetszeichen für Produkte, die EU-Harmonisierungsrecht entsprechen; Pflicht für viele Produktkategorien.
 - **Health Claims** — Naehrwert- und gesundheitsbezogene Angaben; geregelt in VO (EG) 1924/2006; strenge Zulassungspflicht.
@@ -149,7 +149,7 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - §§ 5 und 6 DDG — Impressumspflicht.
 - § 18 MStV — Impressumspflicht im Rundfunk- und Medienbereich.
 - PAngV 2022 — Preisangaben; insb. § 11 PAngV (Streichpreise), § 4 PAngV (Grundpreis).
-- UWG §§ 3 bis 7 — Irrefuehrende und aggressive Geschaeftspraktiken.
+- UWG §§ 3 bis 7 — Irrefuehrende und aggressive Geschäftspraktiken.
 - ProdSG, EU-Produktsicherheits-VO 2023/988 — Produktsicherheit und CE-Konformitaet.
 - VO (EG) 1924/2006 — Health Claims.
 - AI Act (EU) 2024/1689 — KI-VO; Risikoklassen für KI-Systeme (relevant für KI-Features).

@@ -108,7 +108,7 @@ Mit freundlichen Gruessen
 ### Normen-Kette
 
 - § 488 Abs. 3 BGB — ordentliche Kuendigung Unternehmerkredit (3 Monate)
-- § 490 Abs. 1 BGB — ausserordentliche Kuendigung wesentliche Vermoegensverschlechterung
+- § 490 Abs. 1 BGB — ausserordentliche Kuendigung wesentliche Vermögensverschlechterung
 - § 314 BGB — allgemeines ausserordentliches Kuendigungsrecht aus wichtigem Grund
 - § 498 BGB — qualifizierter Verzug Verbraucherdarlehen
 - § 502 BGB — Vorfaelligkeitsentschaedigung bei vorzeitiger Rueckzahlung

@@ -37,7 +37,7 @@ Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 - Bestimmte Einkommen wie Aufwandsentschaedigungen, ehrenamtliche Taetigkeiten und teilweise wissenschaftliche Lehrtaetigkeiten sind nicht anrechenbar.
 
 ### d) Verwendungseinkommen
-- Einkommen aus Beschaeftigung im öffentlichen Dienst wird in vollem Umfang angerechnet (§ 53 BeamtVG zusammen mit § 56).
+- Einkommen aus Beschäftigung im öffentlichen Dienst wird in vollem Umfang angerechnet (§ 53 BeamtVG zusammen mit § 56).
 
 ### e) Endgueltige Berechnung
 - Nach Erreichen der Regelaltersgrenze entfaellt die Anrechnung weitgehend (Ausnahmen prüfen).
@@ -45,7 +45,7 @@ Skill für Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 
 ## 4. Quellenpflicht
 
-- Normen: § 53 BeamtVG; § 56 BeamtVG; landesrechtliche Aequivalente.
+- Normen: § 53 BeamtVG; § 56 BeamtVG; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zur Ruhensregelung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 

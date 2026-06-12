@@ -1,6 +1,6 @@
 ---
 name: buergergeld-ueberbrueckungsgeld
-description: "Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster."
+description: "Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift für Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Prüfraster."
 ---
 
 # Buergergeld Ueberbrueckungsgeld
@@ -24,7 +24,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 - Antrag fruehzeitig stellen (mindestens 4-6 Wochen vor Entlassung).
 - Sozialdienst der JVA hilft.
-- Personalausweis prueffen.
+- Personalausweis prüffen.
 
 ## Sofortleistungen
 
@@ -38,7 +38,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 - Sozialamt bei Erwerbsunfaehigkeit.
 - Wenn Wohnsitz unklar: oertliche Zuständigkeit nach § 36 SGB II klären.
 
-## Pruefraster
+## Prüfraster
 
 1. Antrag fruehzeitig?
 2. JVA-Sozialdienst eingebunden?

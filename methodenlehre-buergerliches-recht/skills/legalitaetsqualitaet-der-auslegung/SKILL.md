@@ -1,6 +1,6 @@
 ---
 name: legalitaetsqualitaet-der-auslegung
-description: "Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent."
+description: "Prüft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent."
 ---
 
 # Legalitätsqualität der Auslegung

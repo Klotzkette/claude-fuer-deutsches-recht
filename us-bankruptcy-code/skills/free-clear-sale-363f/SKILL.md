@@ -1,6 +1,6 @@
 ---
 name: free-clear-sale-363f
-description: "Prueft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code."
+description: "Prüft sale free and clear of interests, liens attaching to proceeds, consent, bona fide dispute and statutory bases im US Bankruptcy Code."
 ---
 
 # Free and Clear Sale § 363(f)

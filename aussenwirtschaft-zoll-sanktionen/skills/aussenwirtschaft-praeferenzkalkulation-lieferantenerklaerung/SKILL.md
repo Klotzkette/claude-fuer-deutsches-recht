@@ -40,7 +40,7 @@ Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und
 - **VO (EU) 2015/2447 Art. 57-66**: Ursprungsnachweis und REX-System.
 - **UZK Art. 62**: Ursprungsnachweis für zollbefreiten Import.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Handelsabkommen und Ursprungsprotokoll für Bestimmungsland korrekt identifiziert?
 - [ ] Listenregel für HS-Code korrekt angewendet?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

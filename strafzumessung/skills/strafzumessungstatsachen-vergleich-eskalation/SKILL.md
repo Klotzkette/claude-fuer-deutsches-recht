@@ -37,7 +37,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Inhalt zulässig:** Strafrahmen-Korridor (Unter- und Obergrenze).
  - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
  - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
- - **Geschaeftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
+ - **Geschäftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
 - **TOA § 46a StGB:**
  - **Nr. 1:** Wiedergutmachung des Schadens ganz oder ueberwiegend.
  - **Nr. 2:** Ernsthafte Bemuehung um Aussoehnung mit Verletztem.
@@ -46,7 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schadenswiedergutmachung als Strafzumessungstatsache:**
  - Voll: erhebliche Strafmilderung.
  - Teilweise mit Tilgungsplan: dann moderate Milderung; Plan verbindlich machen.
- - Bei Vermoegensdelikten: Einziehung § 73 ff. StGB anrechnen.
+ - Bei Vermögensdelikten: Einziehung § 73 ff. StGB anrechnen.
 - **Verhandlungsspielraum mit StA / Gericht:**
  - Strafmass-Korridor sondieren (Vorgespraech ausserhalb Hauptverhandlung).
  - Einstellung §§ 153, 153a StPO als Alternative.

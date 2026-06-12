@@ -1,6 +1,6 @@
 ---
 name: avv-eu-us-data-privacy-framework-bezug
-description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Pruefung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und..."
+description: "Behandlung des EU-US Data Privacy Framework (DPF) im AVV. Angemessenheitsbeschluss EU-Kommission vom 10.07.2023 Beschluss (EU) 2023/1795. Anforderungen an Selbstzertifizierung Prüfung der Listung Fallback ueber SCC 2021/914 und Transfer Impact Assessment. Output: AVV-Klauselbausteine für DPF und..."
 ---
 
 # EU-US Data Privacy Framework (DPF) im AVV
@@ -44,7 +44,7 @@ Behandlung des EU-US Data Privacy Frameworks im AVV inklusive Selbstzertifizieru
  - Für Nicht-US-Drittland-Sub-AV: SCC oder anderer Transfermechanismus.
 
 4. **Monitoring.**
- - DPF-Listing periodisch (mindestens jaehrlich) ueberpruefen.
+ - DPF-Listing periodisch (mindestens jaehrlich) überprüfen.
  - Prüfung vor jedem Vertragsschluss und vor wesentlicher Vertragsverlaengerung.
 
 5. **Eskalation.**
@@ -59,7 +59,7 @@ DPF-und-Fallback-Klausel:
 >
 > (1) Soweit der Auftragsverarbeiter personenbezogene Daten in die Vereinigten Staaten uebermittelt oder dort verarbeitet, erfolgt die Uebermittlung primaer auf Grundlage des Durchfuehrungsbeschlusses (EU) 2023/1795 der Kommission vom 10.07.2023 (EU-US Data Privacy Framework). Der Auftragsverarbeiter sichert zu, dass er gemäß dem Data Privacy Framework wirksam selbstzertifiziert ist und die zertifizierten Datenkategorien die unter diesem Vertrag uebermittelten Daten umfassen.
 >
-> (2) Der Auftragsverarbeiter teilt dem Verantwortlichen jede Aenderung oder Suspendierung seiner DPF-Selbstzertifizierung unverzueglich, spaetestens innerhalb von zehn (10) Kalendertagen, schriftlich mit.
+> (2) Der Auftragsverarbeiter teilt dem Verantwortlichen jede Änderung oder Suspendierung seiner DPF-Selbstzertifizierung unverzueglich, spaetestens innerhalb von zehn (10) Kalendertagen, schriftlich mit.
 >
 > (3) Für den Fall, dass die DPF-Selbstzertifizierung des Auftragsverarbeiters endet, ausgesetzt wird oder der Angemessenheitsbeschluss (EU) 2023/1795 ganz oder teilweise unwirksam wird, gelten ab dem Zeitpunkt des Eintritts und ohne weitere Erklaerung der Parteien die EU-Standardvertragsklauseln gemäß Durchfuehrungsbeschluss (EU) 2021/914 der Kommission vom 04.06.2021, Modul 2 (Verantwortlicher an Auftragsverarbeiter), mit den in Anlage 6 dargestellten Auswahl- und Anhangsfestlegungen.
 >

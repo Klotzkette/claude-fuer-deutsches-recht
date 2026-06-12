@@ -41,7 +41,7 @@ Die systematische Videodokumentation der Tagesbaustelle ergaenzt die klassische 
 - ArbSchG § 15: Arbeitnehmer-Schutzpflicht, keine Ueberwachungskameras zur Verhaltenskontrolle nach BDSG § 26 Abs. 1
 - BGH-Urteil VII ZR 1/17: Lichtbild-Dokumentation als Beweis für Baufortschritt und Maengelursache im Werkvertragsrecht
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Kameraabdeckung Vollstaendigkeit: Montagecranes, kritische Einbauzonen und Zugaenge vollstaendig sichtbar, Sichtfeld-Ueberlappung 20 Prozent
 2. Bildqualitaet taeglich: Automatische Qualitaets-Check Helligkeit und Schaerfe, Alarm bei Kameraausfall, Backup-Kamera griffbereit

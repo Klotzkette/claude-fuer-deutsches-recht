@@ -1,6 +1,6 @@
 ---
 name: claim-objection-502
-description: "Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code."
+description: "Prüft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement im US Bankruptcy Code."
 ---
 
 # Claim Objection § 502

@@ -83,7 +83,7 @@ Keine Eintragungs-Barriere vorhanden?
 - [ ] Verjährung Ansprueche: 3 Jahre ab Kenntnis (§§ 195, 199 BGB)
 - [ ] Verjaerungs-Hemmung: Klage, Mahnbescheid, Verhandlung (§ 204 BGB)
 
-## Uebergabe
+## Übergabe
 
 - Bei urheberrechtlichen Vorfragen: Plugin `urheberrecht` / `fachanwalt-urheber-medienrecht`.
 - Bei kartellrechtlichen Bezuegen (Lizenzkartell, Marktmissbrauch): Plugin `kartellrecht-grundlagen`.

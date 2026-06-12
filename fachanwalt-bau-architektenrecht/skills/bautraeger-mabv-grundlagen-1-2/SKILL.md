@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-grundlagen-1-2
-description: "Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für E..."
+description: "Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhältnis zur Gewerbeordnung § 34c GewO. Liefert Prüfraster für E..."
 ---
 
 # Makler- und Bautraegerverordnung (MaBV) Grundlagen
@@ -14,7 +14,7 @@ description: "Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster für Erwerber.
+**Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhältnis zur Gewerbeordnung § 34c GewO. Liefert Prüfraster für Erwerber.
 
 ### Bautraeger Mabv Grundlagen 1 2
 
@@ -26,13 +26,13 @@ description: "Makler- und Bautraegerverordnung (MaBV) Grundlagen: Skill behandel
 
 Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben für fremde Rechnung durchfuehrt. Typisch: Erwerb des Grundstuecks im eigenen Namen, Bau, Verkauf von Wohnungs- oder Teileigentum an Endkunden.
 
-## Verhaeltnis Bautraeger vs. Generaluebernehmer
+## Verhältnis Bautraeger vs. Generaluebernehmer
 
 - Bautraeger: verkauft an Erwerber, der danach Eigentümer wird.
 - Generaluebernehmer: fuehrt Bauvorhaben für fremden Auftraggeber durch, der bereits Eigentümer ist.
 - Wichtig: nur für Bautraeger gilt § 3 MaBV — der zentrale Erwerberschutz.
 
-## Pruefraster für Erwerber
+## Prüfraster für Erwerber
 
 1. Ist der Vertragspartner ein Bautraeger im Sinne § 34c GewO?
 2. Hat er eine gueltige Erlaubnis?

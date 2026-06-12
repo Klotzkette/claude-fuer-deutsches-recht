@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Kernbotschaft, Belege, lokale Anschlussfaehigkeit, Gegenargumente und Tonalitaet.
+Prüft Kernbotschaft, Belege, lokale Anschlussfaehigkeit, Gegenargumente und Tonalitaet.
 
 ## Rechts- und Praxislogik
 

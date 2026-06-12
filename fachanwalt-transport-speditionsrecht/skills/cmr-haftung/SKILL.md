@@ -99,7 +99,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — CMR-Haftung prüfen und geltend machen | CMR-Schreiben; Template unten |
 | Variante A — Haftungshoechstbetrag bereits erreicht | Qualifiziertes Verschulden CMR Art. 29 prüfen; unbegrenzte Haftung |
 | Variante B — Mehrere Frachtfuehrer (Durchfrachtvertrag) | Regressweg CMR Art. 34 ff. bestimmen |
-| Variante C — Schaden nach Uebergabe an Empfaenger | Ablieferungszeitpunkt CMR Art. 17; Ruegefristen beachten |
+| Variante C — Schaden nach Übergabe an Empfaenger | Ablieferungszeitpunkt CMR Art. 17; Ruegefristen beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

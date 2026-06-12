@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-beratung-und-pruefung-kaltstart
-description: "Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: interessenkollision beratung und prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -25,7 +25,7 @@ description: "Senatsschelte und obiter dicta in Strafurteilen und Revisionsentsc
 3. Hat die Kritik prozessuale Folgen (Strafzumessung, Wertung Glaubhaftigkeit, Annahme von Verschleppungsabsicht)?
 4. Ist die Kritik in der Begruendung tragend?
 
-## Pruefraster
+## Prüfraster
 
 - **Tragend**: Kritik ist Bestandteil der Beweiswuerdigung oder der Strafzumessung. Beispiel: Gericht behandelt das Aussageverhalten des Beschuldigten als gewichtetes Indiz und begruendet das mit Verteidigerinstruktion.
 - **Obiter dictum**: beilaeufige Bemerkung über die Verteidigerfuehrung ohne Bezug zur tragenden Wuerdigung.

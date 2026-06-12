@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Behandelt Bedrohungen, Veranstaltungen, Wege, Online-Hass, Polizei, Meldewege und Fuersorge.
+Behandelt Bedrohungen, Veranstaltungen, Wege, Online-Hass, Polizei, Meldewege und Fürsorge.
 
 ## Rechts- und Praxislogik
 

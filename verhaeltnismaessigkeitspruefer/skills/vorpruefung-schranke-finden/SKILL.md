@@ -37,13 +37,13 @@ Die allgemeine Handlungsfreiheit darf eingeschraenkt werden durch:
 2. die Rechte anderer,
 3. das Sittengesetz.
 
-Praktisch reduziert auf "jedes formell und materiell verfassungsmaessige Gesetz". Das BVerfG verlangt also volle Verhaeltnismaessigkeitspruefung (vgl BVerfGE 6, 32 Elfes-Urteil).
+Praktisch reduziert auf "jedes formell und materiell verfassungsmaessige Gesetz". Das BVerfG verlangt also volle Verhältnismäßigkeitspruefung (vgl BVerfGE 6, 32 Elfes-Urteil).
 
 ## Schranken bei Drittwirkung
 
 Bei mittelbarer Drittwirkung (BVerfGE 7, 198 Lueth-Urteil) gibt der Gesetzgeber über die Generalklauseln des Privatrechts (Paragraf 138, 242, 826 BGB) eine Schranke vor, die im Lichte der Grundrechte ausgelegt wird.
 
-## Pruefraster
+## Prüfraster
 
 1. Lautet der Schrankenvorbehalt einfach oder qualifiziert?
 2. Bei qualifiziertem Vorbehalt: Welche Zwecke nennt er, und ist der vorgetragene Zweck darunter subsumierbar?

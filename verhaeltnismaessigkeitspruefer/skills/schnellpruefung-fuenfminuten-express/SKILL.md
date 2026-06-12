@@ -1,6 +1,6 @@
 ---
 name: schnellpruefung-fuenfminuten-express
-description: "Express-Verhaeltnismaessigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit Entscheidungsbaum, Express-Tabelle und Fallstrick-Liste."
+description: "Express-Verhältnismäßigkeitspruefung in fuenf Minuten: 12-Punkte-Checkliste mit Sofort-Ergebnis fuer Klausur, Schriftsatz oder Mandantenmeeting. Schnelltriage fuer Schutzbereich, Schranke, Zitiergebot, vier Stufen, Wesensgehalt; mit Entscheidungsbaum, Express-Tabelle und Fallstrick-Liste."
 ---
 
 # Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten

@@ -184,6 +184,6 @@ Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben un
 ## Triage — Dokumentations-Checkliste
 
 1. **Stichtag festlegen?** Datum und Uhrzeit der Erstellung dokumentieren.
-2. **Unterzeichnung?** Geschaeftsfuehrer unterschreibt Prognose (Beweisstueck bei spaeterer Haftungsfrage).
+2. **Unterzeichnung?** Geschäftsführer unterschreibt Prognose (Beweisstueck bei spaeterer Haftungsfrage).
 3. **Anlagen?** Alle Berechnungs-Spreadsheets, Auszuege, IDW S 11-Gutachten als Anlagen beifuegen.
-4. **Wiedervorlage?** Naechste Aktualisierung terminieren (spaetestens nach 3 Monaten oder bei wesentlichen Aenderungen).
+4. **Wiedervorlage?** Naechste Aktualisierung terminieren (spaetestens nach 3 Monaten oder bei wesentlichen Änderungen).

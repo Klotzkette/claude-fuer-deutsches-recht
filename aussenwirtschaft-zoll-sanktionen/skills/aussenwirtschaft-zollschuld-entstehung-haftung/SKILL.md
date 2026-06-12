@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-zollschuld-entstehung-haftung
-description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 f..."
+description: "Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 f..."
 ---
 
 # Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass
 
 ## Arbeitsbereich
 
-Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Überlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjährungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -40,7 +40,7 @@ Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung z
 - **UZK Art. 116-123**: Erlass und Erstattung von Zollschulden.
 - **§ 347 AO**: Einspruchsrecht gegen Zollbescheide.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Entstehungstatbestand korrekt eingeordnet (Art. 77 oder Art. 79)?
 - [ ] Schuldnerkreis vollstaendig bestimmt?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

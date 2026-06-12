@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-industrieanlage-medien
-description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unter..."
+description: "Bauueberwachung nach HOAI LPH 8 für Industrieanlagen mit komplexen Medieninfrastrukturen — Prüfung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unter..."
 ---
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)
@@ -27,7 +27,7 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 
 ## Erste Schritte auf der Baustelle
 
-1. Abgleich Medienplaene mit Abnahmeplanung: Druckleitungen, Gasleitungen, Ex-Bereiche, Pruefplaene
+1. Abgleich Medienplaene mit Abnahmeplanung: Druckleitungen, Gasleitungen, Ex-Bereiche, Prüfplaene
 2. Rohrleitungspruefung Druckluft: Druckpruefung 1.5-fach Betriebsdruck, Haltezeit 30 Minuten, Protokoll
 3. Ex-Schutz-Begehung ATEX: Zoneneinteilung Zonenplan, Betriebsmittel mit EX-Kennzeichnung, Potentialausgleich
 4. Druckbehaelterabnahme PED: CE-Kennzeichnung, Konformitaetserklaerung, Abnahmepruefung TUeV/DEKRA
@@ -43,11 +43,11 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 - DVGW W 400 Trinkwasserinstallation: Druckpruefung, Spuelung, Desinfektion
 - DIN EN 60079-14 Elektrische Anlagen in explosionsgefaehrdeten Bereichen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
-1. Druckleitungspruefung: Pruefprotokoll Druecke, Haltezeitendruck, Temperatur, Pruefmedium
+1. Druckleitungspruefung: Prüfprotokoll Druecke, Haltezeitendruck, Temperatur, Prüfmedium
 2. ATEX-Zoneneinteilung: Uebereinstimmung ATEX-Zonenplan mit Betriebsmittel-Kennzeichnung vor Ort
-3. Druckbehaelter: TUeV/DEKRA Abnahmeprotokoll, Pruefstempel, CE-Konformitaet
+3. Druckbehaelter: TUeV/DEKRA Abnahmeprotokoll, Prüfstempel, CE-Konformitaet
 4. Kanalisation: Kamera-Inspektion nach DIN EN 13508-2, Dichtheitspruefprotokoll, Gefaelle
 5. Erdung: Erdungswiderstand kleiner 10 Ohm, Potentialausgleich-Protokoll, Anschlussklemmen
 6. Inbetriebnahme: Anlaufprotokoll je Maschine, Einlaufphase, Wartungsintervalle in SAP PM
@@ -56,7 +56,7 @@ SAP PM Enterprise Asset Management (EAM) wird bei Industriebetreibern zur Anlage
 
 - PlanRadar ATEX-Zone: Betriebsmittel-Ticket mit EX-Kennzeichnung, Foto, Zonenplan-Pin, Verantwortlicher
 - Drohnenflug Industrieanlage: Dachflaechen, Abluftanlagen, Kuehlturm-Inspektion, Rohrleitungsverlegung
-- Pruefprotokolle Druckpruefung: Messgraph Druck vs. Zeit, Undichtheitsnachweis, Pruefgeraet-Kalibrierung
+- Prüfprotokolle Druckpruefung: Messgraph Druck vs. Zeit, Undichtheitsnachweis, Prüfgeraet-Kalibrierung
 - ATEX-Konformitaetsdokumentation: CE-Kennzeichnungen je Betriebsmittel fotografieren und archivieren
 - Werksbescheinigung 3.1 nach EN 10204: Rohrmaterial, Wanddicke, Werkstoffzertifikat Anlagenteile
 

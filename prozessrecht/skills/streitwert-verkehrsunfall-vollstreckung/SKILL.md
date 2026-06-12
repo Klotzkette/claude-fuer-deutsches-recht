@@ -57,9 +57,9 @@ Das Modell benötigt folgende Informationen:
 - **§ 104 ZPO** – Kostenfestsetzungsverfahren; Antrag beim Urkundsbeamten.
 - **§ 103 ZPO** – Kostenfestsetzungsantrag, Kostentitel Voraussetzung.
 
-### Aenderungen ab 01.01.2026
+### Änderungen ab 01.01.2026
 
-Mit dem Gesetz zur Aenderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) gelten ab 01.01.2026:
+Mit dem Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025) gelten ab 01.01.2026:
 
 - Sachliche Zuständigkeit Amtsgericht (§ 23 Nr. 1 GVG): bis 10.000 EUR (vorher 5.000 EUR).
 - Berufungssumme (§ 511 Abs. 2 Nr. 1 ZPO): 1.000 EUR (vorher 600 EUR).

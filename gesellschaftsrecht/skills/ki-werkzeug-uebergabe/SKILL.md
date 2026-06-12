@@ -34,7 +34,7 @@ Vor der Tool-Ubergabe klären:
 2. **Tool vorhanden?** Ist Luminance, Kira oder ein vergleichbares Tool bereits im Praxisprofil konfiguriert? Welches Vertrauensniveau ist eingestellt?
 3. **Kategorien:** Sind die Verträge bereits grob kategorisiert (Lieferanten, Kunden, IP, Miet-, Arbeitsverträge)?
 4. **AVV geklaert?** Liegt ein Auftragsverarbeitungsvertrag (Art. 28 DSGVO) mit dem Tool-Anbieter vor? Hat der Mandant der Weitergabe zugestimmt?
-5. **Rechtsordnung:** Werden auch Verträge nach auslaendischem Recht gepüft? (gesondertes Profil erforderlich)
+5. **Rechtsordnung:** Werden auch Verträge nach ausländischem Recht gepüft? (gesondertes Profil erforderlich)
 6. **QA-Ressourcen:** Wer fuehrt die Stichproben-QA durch? Wie viel Zeit steht zur Verfuegung?
 
 ## Zentrale Normen

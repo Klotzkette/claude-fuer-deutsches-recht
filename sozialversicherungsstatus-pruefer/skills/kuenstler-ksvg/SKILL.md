@@ -1,6 +1,6 @@
 ---
 name: kuenstler-ksvg
-description: "Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext im Sozialversicherungsstatus Pruefer."
+description: "Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext im Sozialversicherungsstatus Prüfer."
 ---
 
 # Künstler und KSVG

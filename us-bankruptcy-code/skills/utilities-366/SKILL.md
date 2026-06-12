@@ -1,6 +1,6 @@
 ---
 name: utilities-366
-description: "Prueft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code."
+description: "Prüft utility service, adequate assurance, deposits, objections and first-day relief im US Bankruptcy Code."
 ---
 
 # Utilities § 366

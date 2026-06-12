@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzun..."
+description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigkeit prüfen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Prüfraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Maßnahmen. Output: Drittlandstransfer-Prüfmemo TIA-Vorlage. Abgrenzun..."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
@@ -29,7 +29,7 @@ description: "Datentransfer in Drittlaender außerhalb EU und EWR auf Zulässigk
 ### Rechtsprechung und Leitlinien
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **EDSA, Empfehlungen 01/2020 zu Maßnahmen zur Ergänzung von Übermittlungsinstrumenten**, angenommen am 18.06.2021 (Version 2.0): Sechsstufige Pruefmethodik für Transfer Impact Assessment (TIA); massgeblich für die Schrems-II-Umsetzung in der Praxis
+- **EDSA, Empfehlungen 01/2020 zu Maßnahmen zur Ergänzung von Übermittlungsinstrumenten**, angenommen am 18.06.2021 (Version 2.0): Sechsstufige Prüfmethodik für Transfer Impact Assessment (TIA); massgeblich für die Schrems-II-Umsetzung in der Praxis
 - **EDSA, Leitlinien 05/2021 zum Zusammenwirken von Art. 3 und Kapitel V DSGVO**, angenommen am 18.11.2021: Klärung, wann der raeumliche Anwendungsbereich (Art. 3 DSGVO) und die Drittlandregeln (Kapitel V) kumulativ oder alternativ gelten
 - **DSK Orientierungshilfe Drittstaatentransfer**: Handlungsempfehlungen für verantwortliche Stellen bei Transfers in Drittlaender; abrufbar auf dskonferenz.de `[Modellwissen – aktuellen Stand pruefen]`
 
@@ -103,7 +103,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 1. **Schritt 1:** Alle Übermittlungen kartieren (Zweck, Datenart, Empfänger, Empfängerland)
 2. **Schritt 2:** Transfermechanismus identifizieren (SCC, BCR etc.)
 3. **Schritt 3:** Rechtslage im Empfängerland beurteilen: Massengesetze (FISA Section 702, USA CLOUD Act), Behördenzugriffsrechte, Rechtsschutzmöglichkeiten für Betroffene, Zugang zu unabhängigen Gerichten
-4. **Schritt 4:** Prüfen, ob Recht und Praxis die SCC-Schutzwirkung unterlaufen (Schrems-II-Kriterium: aequivalentes Schutzniveau)
+4. **Schritt 4:** Prüfen, ob Recht und Praxis die SCC-Schutzwirkung unterlaufen (Schrems-II-Kriterium: äquivalentes Schutzniveau)
 5. **Schritt 5:** Ergänzende Maßnahmen identifizieren und umsetzen (s. Abschnitt 5)
 6. **Schritt 6:** Formale Schritte (Vertrag schließen, ggf. Aufsichtsbehörde informieren, Dokumentation)
 
@@ -132,7 +132,7 @@ Bei unzureichendem Schutzniveau im Empfängerland können ergänzende Maßnahmen
 - AVV (Art. 28 Abs. 3 DSGVO): Sub-AV-Kette mit Drittlandsangaben; TIA als Anlage
 - TIA als internes Dokument archivieren und bei Anfragen der Aufsichtsbehörde vorlegen können
 
-## Pruefschema TIA (Checkliste)
+## Prüfschema TIA (Checkliste)
 
 - [ ] **Lokale Massengesetze:** Erlauben Gesetze des Empfängerlandes Massensammlung (z.B. FISA 702, EO 12333 für USA; Geheimdienstgesetze CN, RU)?
 - [ ] **Behördenzugriff auf Daten:** Können Behörden ohne richterliche Kontrolle auf Daten zugreifen? Wie haeufig werden solche Befugnisse genutzt (Transparenzberichte)?
@@ -235,9 +235,9 @@ Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
 
 ## Faktische Updates (Stand 05/2026)
 
-- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Ueberpruefung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
+- **EU-US Data Privacy Framework (DPF):** Der Angemessenheitsbeschluss vom 10.07.2023 (C(2023) 4745 final) ist weiterhin in Kraft. Erstmalige periodische Überprüfung durch die Kommission war für 07/2024 vorgesehen; weitere Reviews alle vier Jahre. **Achtung:** politische Risiken (Schrems-III-Vorlage, US-Executive-Order-Modifikationen) machen Monitoring zwingend. Quelle: eur-lex.europa.eu, commission.europa.eu/law/law-topic/data-protection.
 - **DPF-Listing:** Empfaenger-Status muss vor jeder Uebermittlung über dataprivacyframework.gov (offizielle US-Website) verifiziert werden; Selbst-Zertifizierungs-Status kann jederzeit verloren gehen.
-- **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Ueberpruefung live prüfen.
+- **UK-Angemessenheitsbeschluss (2021/1772):** Gilt nach urspruenglichen vier Jahren Befristung; Verlaengerung war erforderlich — aktuellen Status der Verlaengerung / Überprüfung live prüfen.
 - **EDSA-Guidelines:** Empfehlungen 01/2020 (Sechs-Stufen-TIA), Guidelines 05/2021 (Wechselwirkung Art. 3 und Kapitel V) sowie aktuelle EDSA-Stellungnahmen 2025 zu Drittlandtransfer-Risiken (insb. China PIPL, US-Executive-Orders) live über edpb.europa.eu prüfen.
 - **NIS-2 + Drittlandtransfer:** Auftraggeber wichtiger / besonders wichtiger Einrichtungen müssen Cyber-Risiken in der Lieferkette (Art. 21 NIS-2-RL i.V.m. § 30 BSIG n.F.) bei Drittland-Cloud-Diensten zusaetzlich beruecksichtigen; Schnittstelle zu TIA dokumentieren.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über curia.europa.eu (EuGH) verifizieren.

@@ -1,4 +1,4 @@
-# uebergaben/ — Übergabevermerke zum Semesterende
+# übergaben/ — Übergabevermerke zum Semesterende
 
 Semesterbezogener Ordner mit je einem Übergabevermerk pro aktivem Fall. Erstellt durch `/rechtsberatungsstelle:semester-uebergabe` am Semesterende. Zu lesen von den übernehmenden Studierenden im Rahmen von `/einarbeitung` für die ihnen zugewiesenen Fälle.
 

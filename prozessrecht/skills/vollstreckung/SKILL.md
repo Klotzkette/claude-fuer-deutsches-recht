@@ -67,8 +67,8 @@ Das Modell benötigt:
 
 ### Leitentscheidungen und Normfassungen
 
-- BGH VII. ZS Linie zur Klauselpruefung: Die Pruefungstiefe im Klauselerteilungsverfahren ist formal eng begrenzt; materielle Einwendungen sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766 ZPO) geltend zu machen. Aktuelle Aktenzeichen (z.B. BGH, Beschl. v. 30.01.2025 – Az. VII ZB 10/24) vor Verwendung über https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
-- BGH-Linie zu § 850k ZPO P-Konto-Schutz: Pfaendungsschutz wirkt automatisch gegenueber dem Glaeubiger; nachtraegliche Aufhebung erfordert gesonderten Antrag. Aktenzeichen vor Schriftsatzverwendung prüfen.
+- BGH VII. ZS Linie zur Klauselpruefung: Die Prüfungstiefe im Klauselerteilungsverfahren ist formal eng begrenzt; materielle Einwendungen sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766 ZPO) geltend zu machen. Aktuelle Aktenzeichen (z.B. BGH, Beschl. v. 30.01.2025 – Az. VII ZB 10/24) vor Verwendung über https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
+- BGH-Linie zu § 850k ZPO P-Konto-Schutz: Pfaendungsschutz wirkt automatisch gegenueber dem Gläubiger; nachtraegliche Aufhebung erfordert gesonderten Antrag. Aktenzeichen vor Schriftsatzverwendung prüfen.
 - Vollstreckungsvoraussetzung § 750 ZPO: Vollstreckungsmassnahmen ohne vorherige Zustellung sind rechtswidrig und auf Erinnerung hin aufzuheben (staendige Rechtsprechung).
 
 ### Rechtsstand 2025/2026

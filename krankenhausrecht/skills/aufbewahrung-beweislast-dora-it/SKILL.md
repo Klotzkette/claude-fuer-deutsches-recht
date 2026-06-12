@@ -34,7 +34,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 - **MBO-Aerzte § 10** Aufbewahrungspflicht 10 Jahre, ggf. laenger.
 - **RoeV § 28 Abs. 3 StrlSchG, § 85 StrlSchV** 30 Jahre Roentgen/Strahlentherapie.
 - **TFG (Transfusionsgesetz)** Aufbewahrung Blutprodukte-Dokumentation 30 Jahre (§ 14 Abs. 3 TFG).
-- **GoBD** elektronische Buchfuehrung (Patientenakte ist auch Geschaeftsunterlage).
+- **GoBD** elektronische Buchfuehrung (Patientenakte ist auch Geschäftsunterlage).
 - **DSGVO Art. 5, 17, 18** Datenschutz, Speicherbegrenzung, Loeschpflicht nach Ablauf.
 - **SGB X § 84** Aufbewahrung sozialrechtliche Unterlagen.
 
@@ -42,7 +42,7 @@ Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsg
 1. **Aktenklassen identifizieren:** Aerztlich, Pflege, Aufklaerung, Bildgebung, OP, Anaesthesie, Blut, Labor.
 2. **Aufbewahrungsfrist je Klasse:** Standard 10 Jahre, Roentgen/Strahlentherapie 30 Jahre, Blut 30 Jahre, Geburten 30 Jahre (haftungsrechtlich BGH).
 3. **Form prüfen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
-4. **Versionierung sichern:** Aenderungen § 630f Abs. 2 BGB nachvollziehbar.
+4. **Versionierung sichern:** Änderungen § 630f Abs. 2 BGB nachvollziehbar.
 5. **Loeschplan nach Frist:** DSGVO-konforme Vernichtung.
 6. **Beweislastpruefung bei Streit:** Lueche zur Pflichtdoku → § 630h Abs. 3 BGB Beweislastumkehr.
 

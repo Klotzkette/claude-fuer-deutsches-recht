@@ -1,6 +1,6 @@
 ---
 name: leitfaden-ermittlung-und-darstellung
-description: "Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Ch"
+description: "Strukturierter Überblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Ch"
 ---
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands
@@ -25,9 +25,9 @@ Keine Rueckfrage noetig.
 - **NKRG** § 4 — methodische Bezugnahme
 - **OECD-SKM** — internationale Grundlage
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
-### Standard-Kapitelstruktur des Leitfadens (Ueberblick)
+### Standard-Kapitelstruktur des Leitfadens (Überblick)
 
 1. **Einfuehrung und Begriffe** (Erfuellungsaufwand, Adressaten, Abgrenzung)
 2. **Methode** (Standardkostenmodell, Aufwand pro Fall × Fallzahl)

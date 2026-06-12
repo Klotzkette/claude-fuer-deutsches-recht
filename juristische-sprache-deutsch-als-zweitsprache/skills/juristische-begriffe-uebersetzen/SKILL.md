@@ -1,9 +1,9 @@
 ---
 name: juristische-begriffe-uebersetzen
-description: "Hilft bei Juristische Begriffe Uebersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Hilft bei Juristische Begriffe Übersetzen für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
 ---
 
-# Juristische Begriffe Uebersetzen
+# Juristische Begriffe Übersetzen
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ description: "Hilft bei Juristische Begriffe Uebersetzen für Menschen mit Deuts
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

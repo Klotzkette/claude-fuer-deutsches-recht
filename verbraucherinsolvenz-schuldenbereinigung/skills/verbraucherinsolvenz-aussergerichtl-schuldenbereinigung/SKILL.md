@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-aussergerichtl-schuldenbereinigung
-description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste ueber die Quotenberechnung..."
+description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermögens- und Schuldenliste ueber die Quotenberechnung..."
 ---
 
 # Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO
@@ -14,7 +14,7 @@ description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermoegens- und Schuldenliste über die Quotenberechnung bis zur formalen Vorlage an die Glaeubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Pruefraster.
+**Fokus:** Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO. Skill leitet durch die Erstellung des ersten Vergleichsvorschlags von der Vermögens- und Schuldenliste über die Quotenberechnung bis zur formalen Vorlage an die Gläubiger. Behandelt Pflicht zur Beilage Bescheinigung der geeigneten Stelle / des geeigneten Beraters. Liefert Vorlagenstruktur und Prüfraster.
 
 ### Verbraucherinsolvenz Aussergerichtl Schuldenbereinigung
 
@@ -35,15 +35,15 @@ description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: S
 
 ## Erstellung des Vergleichsvorschlags
 
-### Schritt 1: Vermoegens- und Schuldenliste
-- Gesamtschuldenstand mit Glaeubigern, Hauptforderung, Kosten, Zinsen.
+### Schritt 1: Vermögens- und Schuldenliste
+- Gesamtschuldenstand mit Gläubigern, Hauptforderung, Kosten, Zinsen.
 - Verfuegbares Einkommen unter Beruecksichtigung der Pfaendungsfreigrenzen (§ 850c ZPO i.V.m. Pfaendungstabelle).
 - Verfuegbare Aktiva (Bankkonten, Pkw, Hausrat, ggf. Wohnung).
 
 ### Schritt 2: Quotenberechnung
 - Realistisch erfuellbare Quote.
 - Typische Spanne 0-30 Prozent.
-- Sondervorschriften für einzelne Glaeubigertypen (z. B. Finanzamt nach AO).
+- Sondervorschriften für einzelne Gläubigertypen (z. B. Finanzamt nach AO).
 
 ### Schritt 3: Vergleichsvorschlag
 - Form: Schriftlich.
@@ -51,17 +51,17 @@ description: "Aussergerichtlicher Schuldenbereinigungsplan nach §§ 305 InsO: S
 
 ### Schritt 4: Beilagen
 - Bescheinigung der geeigneten Stelle (anerkannte Schuldnerberatungsstelle, Rechtsanwalt, Steuerberater).
-- Vermoegens- und Schuldenliste.
+- Vermögens- und Schuldenliste.
 - Einkommensnachweise.
 
-## Vorgehen bei Glaeubigerantworten
+## Vorgehen bei Gläubigerantworten
 
-- Annahme aller Glaeubiger: aussergerichtliche Einigung erfolgreich.
-- Ablehnung durch einzelnen Glaeubiger: gerichtliches Verfahren nach § 306 InsO.
+- Annahme aller Gläubiger: aussergerichtliche Einigung erfolgreich.
+- Ablehnung durch einzelnen Gläubiger: gerichtliches Verfahren nach § 306 InsO.
 
-## Pruefraster
+## Prüfraster
 
-1. Vermoegens- und Schuldenliste vollstaendig?
+1. Vermögens- und Schuldenliste vollstaendig?
 2. Quote realistisch?
 3. Bescheinigung vorhanden?
-4. Glaeubigerantworten dokumentiert?
+4. Gläubigerantworten dokumentiert?

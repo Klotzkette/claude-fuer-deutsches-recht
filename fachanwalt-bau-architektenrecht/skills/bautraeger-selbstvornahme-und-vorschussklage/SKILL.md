@@ -14,7 +14,7 @@ description: "Selbstvornahme und Vorschussklage gegen den Bautraeger: Skill klae
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster.
+**Fokus:** Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Prüfraster.
 
 ### Bautraeger Selbstvornahme Und Vorschussklage
 
@@ -45,7 +45,7 @@ description: "Selbstvornahme und Vorschussklage gegen den Bautraeger: Skill klae
 - Vorschussbetrag fordern.
 - Nach Beseitigung Abrechnung.
 
-## Pruefraster
+## Prüfraster
 
 1. Frist gesetzt?
 2. Kostenvoranschlag?

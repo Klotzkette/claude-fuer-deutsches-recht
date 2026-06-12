@@ -51,7 +51,7 @@ description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maeng
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
 | BGH | VII ZR 49/15 | 25.02.2016 | Bautraegervertrag: Abnahme-Klausel in AGB, die einen vom Bautraeger bestimmten Sachverstaendigen über die Abnahme entscheiden lässt, ist nach §§ 307, 309 Nr. 8 BGB unwirksam (Erwerberschutz) | dejure.org/2016,3146 / NJW 2016, 1572 |
-| BGH | VII ZR 25/13 | 30.04.2014 | Konkludente Abnahme: Ingebrauchnahme + Restzahlung + Ablauf angemessener Pruefzeit (regelmaessig 6 Monate) deuten auf Abnahme hin | dejure.org/2014,7990 |
+| BGH | VII ZR 25/13 | 30.04.2014 | Konkludente Abnahme: Ingebrauchnahme + Restzahlung + Ablauf angemessener Prüfzeit (regelmaessig 6 Monate) deuten auf Abnahme hin | dejure.org/2014,7990 |
 | BGH | VII ZR 46/17 | 22.02.2018 | Aufgabe der fiktiven Schadensberechnung nach Mangelbeseitigungskosten | dejure.org/2018,2890 |
 
 Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren.

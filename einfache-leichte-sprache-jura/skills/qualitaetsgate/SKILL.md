@@ -11,15 +11,15 @@ Dieses Fachmodul vor jeder Herausgabe.
 1. In welchem Modus wurde der Text erstellt: Einfache Sprache oder Leichte Sprache?
 2. Für welche Zielgruppe und welches Medium ist der Text bestimmt?
 3. Gibt es bekannte Risikostellen (Fristen, Wahlrechte, Ausnahmen), die besonders geprueft werden müssen?
-4. Liegt ein Pruefgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
+4. Liegt ein Prüfgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 11 BGG — Pruefpflicht der öffentlichen Hand für barrierefreie Kommunikation
+- § 11 BGG — Prüfpflicht der öffentlichen Hand für barrierefreie Kommunikation
 - § 58 VwGO — Fehlerhafte Rechtsbehelfsbelehrung fuehrt zur Fristverlaengerung
-- BITV 2.0 Anhang 1 — Pruefanforderungen für digitale Barrierefreiheit
+- BITV 2.0 Anhang 1 — Prüfanforderungen für digitale Barrierefreiheit
 - DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar für Verstaendlichkeitspruefungen)
 
 ## Normen & Rechtsprechung

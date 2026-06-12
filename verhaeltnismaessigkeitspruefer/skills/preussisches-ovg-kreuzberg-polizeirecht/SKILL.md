@@ -1,6 +1,6 @@
 ---
 name: preussisches-ovg-kreuzberg-polizeirecht
-description: "Preussisches OVG, Kreuzberg-Erkenntnis vom 14.06.1882, Rep. II B. 23/82, PrOVGE 9/353: dogmengeschichtlicher Vorlaeufer rechtsstaatlicher Eingriffskontrolle im Polizeirecht, ohne die heutige BVerfG-Verhaeltnismaessigkeitspruefung zu ersetzen."
+description: "Preussisches OVG, Kreuzberg-Erkenntnis vom 14.06.1882, Rep. II B. 23/82, PrOVGE 9/353: dogmengeschichtlicher Vorlaeufer rechtsstaatlicher Eingriffskontrolle im Polizeirecht, ohne die heutige BVerfG-Verhältnismäßigkeitspruefung zu ersetzen."
 ---
 
 # Preussisches OVG: Kreuzberg und Polizeigewalt
@@ -17,7 +17,7 @@ Nutze die Kreuzberg-Linie für polizeirechtliche, bauordnungsrechtliche und verw
 - Kerngedanke: Polizei darf über die allgemeine polizeiliche Befugnis nicht beliebige Ordnung, Schoenheit oder Wohlfahrtspflege erzwingen; sie braucht einen Bezug zur Abwehr von Gefahren für oeffentliche Sicherheit oder Ordnung.
 - Moderner Anschluss: BVerwG, Urteil vom 11.10.2007, 4 C 8.06, ordnet die Kreuzberg-Rechtsprechung als Hintergrund der Abgrenzung von Gefahrenabwehr und Baugestaltungsrecht ein.
 
-## Pruefpfad
+## Prüfpfad
 
 1. **Zweck offenlegen:** Was will die Behoerde wirklich verhindern oder erreichen?
 2. **Gefahrenbezug prüfen:** Gibt es eine konkrete, abstrakte oder typisierte Gefahr, oder nur eine politische/gestalterische Wunschordnung?

@@ -1,6 +1,6 @@
 ---
 name: warranty-catalogue-negotiation
-description: "Warranty Catalogue Negotiation: baut und prueft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts: Warranty Catalogue Negotiation: baut und prueft Garantiepakete für Corporate, Accounts, T..."
+description: "Warranty Catalogue Negotiation: baut und prüft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts: Warranty Catalogue Negotiation: baut und prüft Garantiepakete für Corporate, Accounts, T..."
 ---
 
 # Warranty Catalogue Negotiation: baut und prüft Garantiepakete für Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts.
@@ -36,7 +36,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 
 | Feld | Worum es geht |
 | --- | --- |
-| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Partei, Zielgesellschaft, DD-Findings, Garantiekatalog, Disclosure-Konzept, Haftungsregime. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |

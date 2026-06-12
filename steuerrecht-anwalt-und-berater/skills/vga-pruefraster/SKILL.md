@@ -1,9 +1,9 @@
 ---
 name: vga-pruefraster
-description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschaeftsfuehrervergueterung Verrechnungspreise oder Ges..."
+description: "Prüfraster zur verdeckten Gewinnausschuettung — Vermögensminderung oder verhinderte Vermögensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erkennt Geschäftsführervergueterung Verrechnungspreise oder Ges..."
 ---
 
-# Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Pruefraster
+# Verdeckte Gewinnausschuettung — § 8 Abs. 3 S. 2 KStG Prüfraster
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminde
 
 ## Triage — kläre vor der Bearbeitung
 
-1. Liegt eine Vermoegensminderung oder verhinderte Vermoegensmehrung bei der Kapitalgesellschaft vor?
+1. Liegt eine Vermögensminderung oder verhinderte Vermögensmehrung bei der Kapitalgesellschaft vor?
 2. Ist die Veranlassung im Gesellschaftsverhaeltnis zu suchen (Fremdvergleich)?
 3. Bei beherrschenden Gesellschaftern: war die Vereinbarung im Voraus klar und tatsaechlich durchgefuehrt?
 4. Auswirkungen auf das Einkommen — Hinzurechnung und auf Ebene des Gesellschafters § 20 Abs. 1 Nr. 1 S. 2 EStG?
@@ -25,7 +25,7 @@ description: "Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminde
 - **§ 8 Abs. 3 S. 2 KStG** — Definition vGA und Folge auf Ebene der KapGes.
 - **§ 20 Abs. 1 Nr. 1 S. 2 EStG** — Behandlung beim Gesellschafter.
 - **§ 43 ff. EStG** — Kapitalertragsteuerabzug.
-- **§ 4 Abs. 1 S. 1 EStG** — Vermoegensvergleich; Massstab.
+- **§ 4 Abs. 1 S. 1 EStG** — Vermögensvergleich; Maßstab.
 
 ## Aktuelle Rechtsprechung
 

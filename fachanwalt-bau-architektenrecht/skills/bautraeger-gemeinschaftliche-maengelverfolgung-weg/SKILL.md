@@ -14,7 +14,7 @@ description: "Gemeinschaftliche Maengelverfolgung in der WEG: Skill klaert wie d
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster.
+**Fokus:** Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Prüfraster.
 
 ### Bautraeger Gemeinschaftliche Maengelverfolgung Weg
 
@@ -38,7 +38,7 @@ description: "Gemeinschaftliche Maengelverfolgung in der WEG: Skill klaert wie d
 - Manche Maengel sind sowohl Sonder- als auch Gemeinschaftseigentum betroffen (z. B. Lecken in der Wand).
 - Sorgfaeltige Abgrenzung.
 
-## Pruefraster
+## Prüfraster
 
 1. Mangel am Sondereigentum oder Gemeinschaftseigentum?
 2. Bei Gemeinschaftseigentum: WEG-Beschluss eingeholt?

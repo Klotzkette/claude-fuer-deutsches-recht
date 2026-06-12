@@ -30,7 +30,7 @@ Dieser Skill zeigt die Mechanik und grenzt sie zum Forderungsverzicht ab. Adress
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan sieht statt Verzicht eine Rangruecktrittsvereinbarung vor.
-- Glaeubiger will nicht endgueltig verzichten, aber bilanziell Erleichterung verschaffen.
+- Gläubiger will nicht endgueltig verzichten, aber bilanziell Erleichterung verschaffen.
 - Steuerlich soll vermieden werden, dass ein Sanierungsertrag entsteht, falls Paragraph 3a EStG-Voraussetzungen unsicher sind.
 
 Kaltstart-Fragen:
@@ -56,7 +56,7 @@ Kaltstart-Fragen:
 2. **Qualifizierten Rangrücktritt formulieren** mit drei Elementen:
  - Nachrang hinter alle Insolvenzglaeubiger.
  - Tilgung nur aus kuenftigen Gewinnen, freien Liquiditaetsueberschuessen oder Liquidationsueberschuss.
- - Glaeubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
+ - Gläubiger verpflichtet sich, nicht in einer Weise Tilgung zu verlangen, die einen Insolvenzgrund ausloest.
 3. **Prüfen Paragraph 5 Absatz 2a EStG.** Wenn Tilgung **nur** aus kuenftigen Einnahmen / Liquidationsueberschuss zu erfolgen hat, ist Passivierung verboten. Wenn Tilgung "auch" aus laufenden Mitteln möglich ist, ist die Passivierungspflicht zu prüfen.
 4. **Plan-Klausel formulieren.**
 5. **Abgrenzung zum Verzicht: Bei Rangrücktritt bleibt die Forderung; bei Verzicht erlischt sie.** Steuerlich kann der Rangrücktritt im Ergebnis zu einem aehnlichen Effekt fuehren, ohne dass sofort ein Sanierungsertrag entsteht.
@@ -68,7 +68,7 @@ Kaltstart-Fragen:
 |---|---|---|
 | Qualifizierter Rangrücktritt mit Passivierungsverbot Paragraph 5 Absatz 2a EStG | bilanziell wie Verzicht, kein Sanierungsertrag | wenn Paragraph 3a EStG-Voraussetzungen unsicher |
 | Einfacher Nachrang (Paragraph 39 Absatz 2 InsO ohne Paragraph 5 Absatz 2a-Wirkung) | Verbindlichkeit bleibt passiviert | wenn nur Ueberschuldungsstatus-Wirkung gewuenscht |
-| Verzicht endgueltig | Sanierungsertrag, Paragraph 3a EStG erforderlich | wenn Paragraph 3a-Voraussetzungen sicher und Glaeubiger einverstanden |
+| Verzicht endgueltig | Sanierungsertrag, Paragraph 3a EStG erforderlich | wenn Paragraph 3a-Voraussetzungen sicher und Gläubiger einverstanden |
 | Verzicht mit Besserungsschein | Sanierungsertrag im Verzichtsjahr; Rueckbuchung bei Eintritt | wenn Hoffnungswert besteht |
 | Kombination Rangrücktritt + Teilverzicht | Mischung, Steuerung des Sanierungsertrags-Volumens | bei groesseren Volumen sinnvoll |
 
@@ -177,7 +177,7 @@ zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
 ### Rechtsprechung (verifiziert)
 
 - **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zur Anwendung des Paragraph 5 Absatz 2a EStG bei Rangrücktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgeblich für die Gestaltungspraxis.
-- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung. Begruendet die Pruefungstrias: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung. Begruendet die Prüfungstrias: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
 

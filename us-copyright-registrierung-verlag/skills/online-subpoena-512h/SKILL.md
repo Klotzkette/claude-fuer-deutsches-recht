@@ -1,6 +1,6 @@
 ---
 name: online-subpoena-512h
-description: "Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen im Us Copyright Registrierung Verlag."
+description: "Prüft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen im Us Copyright Registrierung Verlag."
 ---
 
 # DMCA Subpoena § 512h

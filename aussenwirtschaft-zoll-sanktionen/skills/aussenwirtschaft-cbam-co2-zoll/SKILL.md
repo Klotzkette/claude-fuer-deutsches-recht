@@ -36,7 +36,7 @@ description: "Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abga
 - **UZK Art. 56**: CBAM-Abgaben als Teil des Zolltarifs.
 - **Art. 9 VO (EU) 2023/956**: Befreiungen für Länder mit vergleichbarem CO2-Preis.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Alle CBAM-pflichtigen Waren und KN-Codes korrekt ermittelt?
 - [ ] Emissionsintensitaet vom Lieferanten dokumentiert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

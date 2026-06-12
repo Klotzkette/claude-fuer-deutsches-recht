@@ -5,7 +5,7 @@ description: "Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkei
 
 # Einschaetzungspraerogative und Kontrolldichte
 
-> Das BVerfG entscheidet nicht über jede Norm gleich genau. Welche Kontrolldichte gewaehlt wird, ist eine Vorentscheidung, die das gesamte Ergebnis der Verhaeltnismaessigkeitspruefung praegt.
+> Das BVerfG entscheidet nicht über jede Norm gleich genau. Welche Kontrolldichte gewaehlt wird, ist eine Vorentscheidung, die das gesamte Ergebnis der Verhältnismäßigkeitspruefung praegt.
 
 ## Drei Stufen der Kontrolldichte
 
@@ -23,13 +23,13 @@ description: "Drei Stufen der Kontrolldichte des BVerfG (Evidenz-, Vertretbarkei
 4. **Wissensstand** – bei dynamischer Lage (Pandemie) weiter Spielraum, bei verfestigter Sachlage enger.
 5. **Demokratische Funktionsbedingungen** – wo der Gesetzgeber seinen Kernauftrag erfuellt, eher Zurueckhaltung; wo er sich Aufgaben anderer Verfassungsorgane anmasst, enger.
 
-## Beispiele entlang der Pruefungsstufen
+## Beispiele entlang der Prüfungsstufen
 
 ### Geeignetheit
 Weiter Beurteilungsspielraum. BVerfGE 30, 292 (Erdoelbevorratung): "Geeignet ist eine Maßnahme schon dann, wenn mit ihrer Hilfe der gewuenschte Erfolg gefoerdert werden kann." Vgl auch BVerfGE 159, 223 (Bundesnotbremse) zur dynamischen Wissenslage.
 
 ### Erforderlichkeit
-Engerer Spielraum. Ob ein milderes Mittel gleich effektiv ist, kann meist plausibler ueberprueft werden. Vgl BVerfGE 53, 135 (Pelzwerbung) zum Effektivitaetsvergleich.
+Engerer Spielraum. Ob ein milderes Mittel gleich effektiv ist, kann meist plausibler überprüft werden. Vgl BVerfGE 53, 135 (Pelzwerbung) zum Effektivitaetsvergleich.
 
 ### Angemessenheit
 Verbleibt eine inhaltliche Abwaegung mit Wertungsfragen. Die Kontrolldichte richtet sich nach den oben genannten Faktoren.

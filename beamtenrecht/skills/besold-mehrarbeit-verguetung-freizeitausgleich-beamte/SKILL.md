@@ -41,7 +41,7 @@ description: "Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte im Be
 - Max. 48 Wochenstunden im Durchschnitt.
 - Bereitschaftsdienst als Arbeitszeit (EuGH SIMAP, Jaeger).
 
-## Pruefraster
+## Prüfraster
 
 1. Mehrarbeit angeordnet?
 2. Freizeitausgleich möglich?

@@ -1,11 +1,11 @@
 ---
 name: stufenbaum-ascii-art
-description: "ASCII-Stufenbaum der Verhaeltnismaessigkeitspruefung zum Ausdrucken und Mitschreiben. Visualisiert die Vorpruefung Schutzbereich-Eingriff-Schranke, die vier Stufen Zweck/Geeignet/Erforderlich/Angemessen und die absoluten Grenzen Wuerde, Wesensgehalt, Existenzminimum."
+description: "ASCII-Stufenbaum der Verhältnismäßigkeitspruefung zum Ausdrucken und Mitschreiben. Visualisiert die Vorpruefung Schutzbereich-Eingriff-Schranke, die vier Stufen Zweck/Geeignet/Erforderlich/Angemessen und die absoluten Grenzen Wuerde, Wesensgehalt, Existenzminimum."
 ---
 
 # Stufenbaum als ASCII-Visualisierung
 
-> Komprimierte Sichtbarmachung des gesamten Pruefungsaufbaus. Druckbar, in Schriftsaetze einklebbar, zur Tafelarbeit verwendbar.
+> Komprimierte Sichtbarmachung des gesamten Prüfungsaufbaus. Druckbar, in Schriftsaetze einklebbar, zur Tafelarbeit verwendbar.
 
 ## Vollbaum
 
@@ -115,8 +115,8 @@ description: "ASCII-Stufenbaum der Verhaeltnismaessigkeitspruefung zum Ausdrucke
 
 ## Verwendung
 
-- In Schriftsaetzen vor dem Pruefungsteil als Leitfaden einklappen.
-- In Klausuren als interne Gliederungshilfe (nicht in den Pruefungsteil kopieren).
+- In Schriftsaetzen vor dem Prüfungsteil als Leitfaden einklappen.
+- In Klausuren als interne Gliederungshilfe (nicht in den Prüfungsteil kopieren).
 - In Schulungen als Tafelbild mit ergaenzenden Fall-Notizen.
 
 ## Verwandt

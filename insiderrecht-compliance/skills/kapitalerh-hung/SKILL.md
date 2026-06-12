@@ -1,6 +1,6 @@
 ---
 name: kapitalerh-hung
-description: "Prueft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance."
+description: "Prüft Insiderrecht-Compliance bei Kapitalerhoehungen: Zeitpunkt der Insiderinformation, Market Sounding, Handelsverbot, Ad-hoc und Bezugsrecht im Insiderrecht Compliance."
 ---
 
 # Kapitalerhöhung – Insiderrechtliche Anforderungen

@@ -32,11 +32,11 @@ description: "Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach 
 
 - **UZK Art. 1 Nr. 19, DA Art. 1 Nr. 18**: Definition des Ausfuehrers.
 - **UZK Art. 18-19**: Direkte und indirekte Zollvertretung.
-- **AWG § 2**: Definition Auslaender, Inlaender und Exporteur.
+- **AWG § 2**: Definition Ausländer, Inlaender und Exporteur.
 - **§ 5 AWV**: Pflichten des Ausfuehrers bei Genehmigungen.
 - **§ 18 AWG**: Strafbarkeit des Ausfuehrers und Bevollmaechtigten.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Ausfuehrer nach UZK-Definition korrekt bestimmt?
 - [ ] Vollmacht für Zollanmelder (direkt/indirekt) schriftlich erteilt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -37,7 +37,7 @@ Grenzueberschreitende Forderungsdurchsetzung. Die Wahl des Instruments haengt vo
 **Vollstreckung in anderem MS** (Art. 36-44):
 - Anerkennung **automatisch** (kein Exequatur).
 - Bestaetigung Formblatt I (Anhang I VO).
-- Direktvollstreckung beim auslaendischen Vollstreckungsorgan.
+- Direktvollstreckung beim ausländischen Vollstreckungsorgan.
 - Versagungsgruende beschraenkt (Art. 45): ordre public, Saeumnis ohne ordn. Zustellung, unvereinbares Urteil.
 
 ## EuVTVO (EG 805/2004) – Europaeischer Vollstreckungstitel
@@ -119,7 +119,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 - Direkte Zustellung Justizbehoerde zu Justizbehoerde.
 - Postzustellung mit Einschreiben möglich (Art. 18).
 - Diplomatischer Weg (Konsulat) bei Bedarf.
-- Uebersetzung in Amtssprache des ZielMS.
+- Übersetzung in Amtssprache des ZielMS.
 
 ## Beweismittel im EU-Ausland
 
@@ -141,7 +141,7 @@ Parallel zu Bruessel Ia, aber alte Fassung mit Exequatur (Vollstreckbarerklaerun
 
 - Klage in DE gegen Bekl. mit Wohnsitz EU ohne Prüfung Bruessel Ia → ggf. unzuständig.
 - EuMVVO bei strittiger Forderung – Widerspruch fuehrt in nationale Klage des Bekl.-MS.
-- Uebersetzung vergessen → Zustellung schlaegt fehl.
+- Übersetzung vergessen → Zustellung schlaegt fehl.
 - Schiedsklausel ueberhaupt nicht gepruef → New York Convention besserer Pfad.
 - Lugano mit Bruessel verwechselt – Exequatur in CH noch noetig.
 

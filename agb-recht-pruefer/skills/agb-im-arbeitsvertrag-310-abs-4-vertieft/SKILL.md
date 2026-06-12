@@ -26,7 +26,7 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
 ### Rueckzahlungsklausel für Aus- und Fortbildung
 - Klassische BAG-Linie: nur wirksam, wenn:
  - der Mitarbeiter einen geldwerten Vorteil aus der Fortbildung zieht,
- - die Bindungsdauer in einem angemessenen Verhaeltnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
+ - die Bindungsdauer in einem angemessenen Verhältnis zur Fortbildung steht (Faustregel: bis 1 Monat — kein Bindung, 1-2 Monate — bis 6 Monate, 2-4 Monate — bis 1 Jahr, 6-12 Monate — bis 3 Jahre, > 24 Monate — bis 5 Jahre).
 - Klausel muss differenzieren nach Kuendigungsgrund (Eigenkuendigung des Arbeitnehmers schadet, betriebsbedingte Kuendigung des Arbeitgebers nicht).
 
 ### Vertragsstrafe im Arbeitsvertrag
@@ -37,7 +37,7 @@ description: "Arbeitsvertrags-AGB nach § 310 Abs. 4 BGB. Skill vertieft die AGB
 - Klausel "Mit der Vergütung sind etwaige Ueberstunden abgegolten" ist intransparent, wenn die Anzahl der erfassten Ueberstunden nicht klar genannt wird.
 - BAG 5 AZR 765/10: max. 25 Prozent Pauschalierung in Bezug zur Wochenarbeitszeit zulässig.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist in Rede?
 2. Spezialregelung im Arbeitsrecht oder allgemeines AGB-Recht?

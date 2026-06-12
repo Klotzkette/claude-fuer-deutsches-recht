@@ -23,7 +23,7 @@ description: "Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — 
 ## Rechtsgrundlagen
 
 - **§ 280 BGB** — Schadensersatz wegen Pflichtverletzung; Anwalts- und Steuerberaterhaftung.
-- **§ 675 BGB** — entgeltliche Geschaeftsbesorgung.
+- **§ 675 BGB** — entgeltliche Geschäftsbesorgung.
 - **§ 33 StBerG** — Berufsbild Steuerberater; eigenverantwortliche Vertretung.
 - **§ 43a Abs. 3 BRAO** — Sachlichkeitsgebot; Beratung sachlich und vollstaendig.
 - **§ 153 AO** — Berichtigungspflicht bei nachtraeglich erkannter Unrichtigkeit.

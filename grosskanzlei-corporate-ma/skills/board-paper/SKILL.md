@@ -20,8 +20,8 @@ description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheid
 
 Vor der Erstellung einer Entscheidungsvorlage klären:
 
-1. **Wer entscheidet?** Vorstand (AG, § 76 AktG), Geschaeftsfuehrer (GmbH, § 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, § 111 Abs. 4 AktG), Gesellschafterversammlung (§ 46 GmbHG / § 119 AktG)?
-2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (§ 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschaeftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
+1. **Wer entscheidet?** Vorstand (AG, § 76 AktG), Geschäftsführer (GmbH, § 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, § 111 Abs. 4 AktG), Gesellschafterversammlung (§ 46 GmbHG / § 119 AktG)?
+2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (§ 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschäftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
 3. **Informationsgrundlage vollstaendig?** Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG) setzt voraus, dass das Organmitglied auf Basis angemessener Informationen handelt. Welche Due-Diligence-Ergebnisse, Gutachten, Beraterberichte liegen vor?
 4. **Alternativen dokumentiert?** Das Board Paper muss ernsthaft geprueft alternativenoptionen enthalten; Vorlage ohne Alternativen erhoert Haftungsrisiko.
 5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Offenlegung und Enthaltung (§ 93 Abs. 1 Satz 3 AktG)?
@@ -29,13 +29,13 @@ Vor der Erstellung einer Entscheidungsvorlage klären:
 
 ## Zentrale Normen
 
-§ 93 Abs. 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — § 93 Abs. 1 Satz 3 AktG (Interessenkonflikt; Offenlegungspflicht) — § 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — § 111 Abs. 4 AktG (Zustimmungsvorbehalt des Aufsichtsrats) — § 179a AktG (HV-Beschluss bei Gesamtvermoegensveraeusserung) — § 43 GmbHG (Sorgfaltspflicht Geschaeftsfuehrer; Business-Judgment-Analogie) — § 46 GmbHG (Gesellschafterversammlung als Freigabeinstanz) — §§ 241, 243 AktG (Beschlussmangel; Anfechtbarkeit bei mangelhafter Informationsgrundlage)
+§ 93 Abs. 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — § 93 Abs. 1 Satz 3 AktG (Interessenkonflikt; Offenlegungspflicht) — § 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — § 111 Abs. 4 AktG (Zustimmungsvorbehalt des Aufsichtsrats) — § 179a AktG (HV-Beschluss bei Gesamtvermoegensveraeusserung) — § 43 GmbHG (Sorgfaltspflicht Geschäftsführer; Business-Judgment-Analogie) — § 46 GmbHG (Gesellschafterversammlung als Freigabeinstanz) — §§ 241, 243 AktG (Beschlussmangel; Anfechtbarkeit bei mangelhafter Informationsgrundlage)
 
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefschema Business Judgment Rule
+## Prüfschema Business Judgment Rule
 
 | Voraussetzung | Geprueft | Beleg |
 |---|---|---|
@@ -56,14 +56,14 @@ Vor der Erstellung einer Entscheidungsvorlage klären:
 4. **Alternativen darstellen:** Mindestens zwei echte Alternativen zur Entscheidung beschreiben und bewerten (inkl. "Keine Maßnahme").
 5. **Risiken und Restrisiken:** Welche Risiken verbleiben nach der Entscheidung? Quantifizierbar? Mitigationsmoeglichkeiten?
 6. **Interessenkonflikte prüfen:** Alle Organmitglieder auf Eigeninteresse prüfen; Enthaltung protokollieren (§ 93 Abs. 1 Satz 3 AktG).
-7. **BJR-Pruefkarte ausfuellen:** Voraussetzungen gemäß obiger Tabelle abarbeiten.
+7. **BJR-Prüfkarte ausfuellen:** Voraussetzungen gemäß obiger Tabelle abarbeiten.
 8. **Legalitaetspflicht prüfen:** Kartellrecht, FDI, MAR, Mitbestimmung, Insolvenzrecht — keine Entscheidung gegen zwingendes Recht.
 9. **Board Paper erstellen** und Entscheidungsvorlage zur Unterzeichnung vorlegen.
 10. **Protokollierung:** Beschluss im Sitzungsprotokoll (→ `gesellschaftsrecht:aufsichtsrat-protokoll`) dokumentieren.
 
 ## Output-Template
 
-**Adressat:** Vorstand / Geschaeftsfuehrung / Aufsichtsrat — Tonfall: sachlich-juristisch, entscheidungsorientiert
+**Adressat:** Vorstand / Geschäftsführung / Aufsichtsrat — Tonfall: sachlich-juristisch, entscheidungsorientiert
 
 ```
 ENTSCHEIDUNGSVORLAGE
@@ -136,17 +136,17 @@ Abstimmung: _________________________ Datum: _____________
 - Entscheidung, Alternativen, Informationsquellen und Beraterbeitraege darstellen.
 - Due-Diligence-Ergebnisse und Restrisiken knapp priorisieren.
 - Transparenz über Erstellungsmethode und Datenbasis sicherstellen.
-- Business-Judgment- und Legalitaetspflicht-Aspekte als Pruefkarte ausgeben.
+- Business-Judgment- und Legalitaetspflicht-Aspekte als Prüfkarte ausgeben.
 
 ## Standardausgabe
 
-- Entscheidungsvorlage mit BJR-Pruefkarte.
+- Entscheidungsvorlage mit BJR-Prüfkarte.
 - Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, naechster Aktion und Freigabegrad.
 - Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
 - Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
 - Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Komplexe Eingaenge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurueckspielen.
 - Beschlussprotokolle an `gesellschaftsrecht:aufsichtsrat-protokoll`.

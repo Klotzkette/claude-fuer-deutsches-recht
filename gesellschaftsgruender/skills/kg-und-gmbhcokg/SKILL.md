@@ -28,7 +28,7 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 1. **Steuerliche Transparenz gewuenscht?** Personengesellschaft: Gewinne direkt bei Gesellschaftern besteuert; GmbH: Koerperschaftsteuer.
 2. **Haftungsbeschraenkung gewuenscht?** Reine KG: Komplementaer haftet unbeschraenkt; GmbH & Co. KG: Komplementaer-GmbH begrenzt die Haftung.
 3. **Freiberuflertaetigkeit?** KG / GmbH & Co. KG erzielt Gewerbesteuer; für Freiberufler PartG mbB besser.
-4. **Nachfolge oder Familienstruktur?** GmbH & Co. KG optimal für Uebergaben (steuerliche Vorteile § 6 Abs. 3 EStG).
+4. **Nachfolge oder Familienstruktur?** GmbH & Co. KG optimal für Übergaben (steuerliche Vorteile § 6 Abs. 3 EStG).
 5. **Nur 1 Gründer?** Ein-Personen GmbH & Co. KG möglich; einfachere GmbH oft praktikabler.
 6. **Zeitplan?** GmbH & Co. KG erfordert zuerst GmbH-Gruendung (4-8 Wochen) + KG-Eintragung (weitere 2-4 Wochen).
 
@@ -62,10 +62,10 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 
 1. **Entscheidung GmbH & Co. KG:** Steuerberater konsultieren; Vergleich GmbH vs. GmbH & Co. KG.
 2. **Komplementaer-GmbH gruenden:** Standard-GmbH, Stammkapital 25.000 EUR; Gegenstand: Komplementaertaetigkeit.
-3. **KG-Vertrag entwerfen:** Firma, Sitz, Gegenstand, Hafteinlagen, Gewinnverteilung, Geschaeftsfuehrung.
+3. **KG-Vertrag entwerfen:** Firma, Sitz, Gegenstand, Hafteinlagen, Gewinnverteilung, Geschäftsführung.
 4. **KG-Anmeldung HR:** Alle Gesellschafter; notarielle Beglaubigung; Anmeldung an das HR-Gericht.
 5. **Steuerliche Anmeldungen:** Finanzamt (Fragebogen § 138 AO); ELSTER; ggf. Gewerbeamt.
-6. **Sonderbetriebsvermoegen prüfen:** Ueberlassung von Wirtschaftsgutern durch Kommanditisten dokumentieren.
+6. **Sonderbetriebsvermoegen prüfen:** Überlassung von Wirtschaftsgutern durch Kommanditisten dokumentieren.
 7. **Gesellschafterliste KG:** Nicht beim HR wie bei GmbH; KG-Vertrag ist massgeblich.
 
 ## Output-Template: KG-Vertrag (Kernauszug)
@@ -115,7 +115,7 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — Komplementaer-GmbH gruenden
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH

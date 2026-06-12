@@ -50,7 +50,7 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 - **ALR II 1 §§ 174 ff.** Pflichten der Ehegatten: Pflicht zur ehelichen Beiwohnung, Pflicht zur Befolgung des Mannes im Haus, Schutzpflicht des Mannes.
 - **ALR II 1 §§ 200 ff.** Gueterstand: Verwaltung des eingebrachten Frauengutes durch den Mann.
 - **ALR II 1 §§ 670 ff.** Scheidung — vor 1875 in Preussen ALR-rechtlich, danach Reichsgesetz vom 06.02.1875.
-- **ALR II 2 §§ 1 ff.** Verhaeltnis Eltern - Kinder.
+- **ALR II 2 §§ 1 ff.** Verhältnis Eltern - Kinder.
 - **ALR II 18 §§ 1 ff.** Vormundschaft.
 
 ### Heutige Fortwirkung
@@ -61,7 +61,7 @@ ALR II 1 / II 2 / II 3 / II 18 regelt Eherecht, eheliches Gueterrecht, Vormundsc
 ### Beruehmte Faelle / Personen
 - ALR-Eherecht wurde von Friedrich von Savigny und Anselm von Feuerbach kritisiert als 'zu kasuistisch'.
 
-### Pruefraster
+### Prüfraster
 1. Wann wurde die Ehe geschlossen? — vor 1900 ALR, ab 1900 BGB.
 2. Wann der Erbfall? — entsprechend.
 3. Heute lebende Frage? Direkt BGB.

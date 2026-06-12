@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-register-pruefen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS K..."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger prüft Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS K..."
 ---
 
 # Kreuzfahrtschiff – Registerprüfung
@@ -14,12 +14,12 @@ description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagier
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prüft den Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) vor Auszahlung eines Kredits für ein Kreuzfahrtschiff oder großes Fahrgastschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
+Eine finanzierende Bank prüft den Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) vor Auszahlung eines Kredits für ein Kreuzfahrtschiff oder großes Fahrgastschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Gläubigerliste für die Masse.
 
 ## Erste Schritte
-1. Aktuellen Registerauszug (Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta)) beim zuständigen Gericht beschaffen.
+1. Aktuellen Registerauszug (Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta)) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) prüfen; Verkaeufereigenschaft bestaetigen.
-3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
+3. Hypothekenabteilung (Abt. II): Betrag, Rang, Gläubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
 5. Arrest- und Pfaendungsvermerke sichten; Zeitpunkt der Eintragung beachten.
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.
@@ -36,7 +36,7 @@ Eine finanzierende Bank prüft den Seeschiffsregister; typisch auslaendische Fla
 
 ## Typische Fallstricke
 - Gesetzliche Vorrechte (Crew-Löhne, Hafengebühren) entstehen ohne Registereintragung.
-- Voreintragungspflicht: Veräußerer muss im Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) eingetragen sein.
+- Voreintragungspflicht: Veräußerer muss im Seeschiffsregister; typisch ausländische Flagge (Bahamas/Malta) eingetragen sein.
 - Bei Kreuzfahrtschiff oder großes Fahrgastschiff unter Auslandsflagge gilt Lex registri des Flaggenstaats.
 
 ## Vertiefung: Registerrechtliche Besonderheiten

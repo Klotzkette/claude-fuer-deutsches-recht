@@ -42,9 +42,9 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Kollidierende AGB prüfen nach battle-of-forms | Pruefungsergebnis nach Schema; Template unten |
+| Standard — Kollidierende AGB prüfen nach battle-of-forms | Prüfungsergebnis nach Schema; Template unten |
 | Variante A — Letzter Schuss der Gegenseite Guillotine-Klausel | Letzte Erklaerung gegnerische AGB massgeblich; Widerspruch sofort |
-| Variante B — Keine AGB beider Seiten Individualvertrag | Kein AGB-Kollisions-Problem; Individualvertrag direkt pruefend |
+| Variante B — Keine AGB beider Seiten Individualvertrag | Kein AGB-Kollisions-Problem; Individualvertrag direkt prüfend |
 | Variante C — Internationale AGB verschiedene Rechtsordnungen | IPR prüfen; CISG als Aufangrecht beachten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.

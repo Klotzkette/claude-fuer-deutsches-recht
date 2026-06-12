@@ -1,13 +1,13 @@
 ---
 name: agb-schiedsklausel-opt-out-deutsches-recht
-description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend..."
+description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Prüfraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend..."
 ---
 
 # Agb Schiedsklausel Opt Out Deutsches Recht
 
 ## Fachkern: Agb Schiedsklausel Opt Out Deutsches Recht
 
-- **Klauselproblem (Agb Schiedsklausel Opt Out Deutsches Recht):** BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen für den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell.
+- **Klauselproblem (Agb Schiedsklausel Opt Out Deutsches Recht):** BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Prüfraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen für den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -42,7 +42,7 @@ description: "Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie 
 - Schiedsklausel + Wahl fremden Sachrechts kann tatsaechlich AGB-Schutz umgehen, soweit nicht Verbraucher (Art. 6 Rom-I) oder ordre public.
 - Das ist nicht "Opt-out" im technischen Sinn, sondern eine kombinierte Rechtswahl + Forenwahl.
 
-## Pruefraster
+## Prüfraster
 
 1. B2C oder B2B? — bei B2C scheitert die Wahl in der Regel an Art. 6 Rom-I-VO.
 2. Schiedsabrede formgerecht (§ 1031 ZPO)?

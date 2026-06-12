@@ -1,6 +1,6 @@
 ---
 name: bankaufsichtliches-handeln
-description: "Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB im Insiderrecht Compliance."
+description: "Analysiert Insiderrecht bei bankaufsichtsrechtlichen Maßnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB im Insiderrecht Compliance."
 ---
 
 # Bankaufsichtliches Handeln – Insiderrecht und MAR

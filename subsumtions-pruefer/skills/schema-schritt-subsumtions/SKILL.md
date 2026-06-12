@@ -1,6 +1,6 @@
 ---
 name: schema-schritt-subsumtions
-description: "Schema: Verhandlung, Vergleich und Eskalation im Subsumtions Pruefer."
+description: "Schema: Verhandlung, Vergleich und Eskalation im Subsumtions Prüfer."
 ---
 
 # Schema: Verhandlung, Vergleich und Eskalation

@@ -32,7 +32,7 @@ Ein Honorarstreit, eine Vorschuss-Rueckforderung, ein Anpassungsverlangen nach U
 - BGB § 779 - Vergleich; nur wirksam, wenn beide Parteien wechselseitig nachgeben.
 - ZPO §§ 278, 794 Abs. 1 Nr. 1 - gerichtlicher Vergleich, Vollstreckungstitel; ausserhalb der Streitsache als reine Privatvereinbarung.
 - UrhG § 32, 32a - Vergütung und Anpassungsanspruch; nicht durch Vergleich vollstaendig abdingbar.
-- UrhG § 79b - bei Ueberlassung von Nutzungsrechten; pauschale Abgeltung mit Einschraenkungen.
+- UrhG § 79b - bei Überlassung von Nutzungsrechten; pauschale Abgeltung mit Einschraenkungen.
 - BGB §§ 145 ff. - Angebot und Annahme; Schweigen ist grundsätzlich keine Annahme.
 - BGB §§ 305 ff. - AGB-Kontrolle bei vorformulierten Vergleichsklauseln gegenueber Verbraucher-Autoren.
 - DSGVO Art. 6, 17 - bei Vergleich über Loeschung personenbezogener Daten.

@@ -57,7 +57,7 @@ Abzugrenzen ist § 31 BtMG von § 46b StGB (allgemeine Kronzeugenregelung). § 3
 ## Praktikertipps der Verteidigung
 
 - **Strategische Entscheidung vor Aussage:** Aufklaerungshilfe ist meist nicht reversibel. Vor der ersten Aussage Akteneinsicht abwarten, Beweislage einschaetzen, Mandant über Folgen aufklaeren.
-- **Wesentlichkeit dokumentieren:** Schriftliche Einlassung mit konkreten Namen, Daten, Mengen. Vage Hinweise reichen nicht. Lieber praezise und ueberpruefbar.
+- **Wesentlichkeit dokumentieren:** Schriftliche Einlassung mit konkreten Namen, Daten, Mengen. Vage Hinweise reichen nicht. Lieber praezise und überprüfbar.
 - **Freiwilligkeit:** Vor Ueberfuehrung offenbaren. Wer erst nach Beweismittellage spricht, kann Wesentlichkeit verlieren. Bei später Offenbarung dennoch zumindest § 46b StGB prüfen.
 - **Praeventionshilfe § 31 Nr. 2 BtMG:** Besonders attraktiv: Auch Strafen anderer Personen können verhindert werden. Voraussetzung: rechtzeitige Offenbarung, bevor Tat begangen ist.
 - **Zeugenschutz:** Bei organisierter Kriminalitaet § 110a ff. StPO (V-Personen), Zeugenschutzgesetz, § 68 StPO Anonymisierung. Bei realer Gefahr Zeugenschutzprogramm erwaegen.

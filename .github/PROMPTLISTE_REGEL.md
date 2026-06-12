@@ -2,13 +2,13 @@
 
 Diese Regel richtet sich an alle, die in diesem Repository **neue Skills** anlegen oder bestehende Skills veredeln — insbesondere an die hier eingesetzten KI-Assistenten **Claude Code, Codex und Perplexity Computer**.
 
-## Pruefroutine bei jedem neuen oder veredelten Skill
+## Prüfroutine bei jedem neuen oder veredelten Skill
 
 Prüfe nach Fertigstellung eines Skills, ob er sich als **eigenstaendiger Mega-Prompt** ausserhalb von Claude Code, Codex oder Perplexity Computer einsetzen lässt. Indizien dafuer:
 
 - Der Skill enthaelt einen **substanziellen, inhaltlich tragenden Prompt-Korpus** — also nicht nur Router-Logik, Kaltstart-Anweisungen oder Verweise auf andere Skills.
-- Der Skill ist **fachlich spezifisch** (z. B. konkrete Klauselpruefung, konkrete Pruefroutine, konkretes Verfahrensschema), nicht generisch.
-- Der Skill liefert ein **konkretes Output-Schema** (Memo, Pruefbericht, Klausel, Schriftsatzteil, Tabelle, Checkliste).
+- Der Skill ist **fachlich spezifisch** (z. B. konkrete Klauselpruefung, konkrete Prüfroutine, konkretes Verfahrensschema), nicht generisch.
+- Der Skill liefert ein **konkretes Output-Schema** (Memo, Prüfbericht, Klausel, Schriftsatzteil, Tabelle, Checkliste).
 - Der Skill bezieht sich auf **eine identifizierbare Fachanwaltschaft oder Praxisrichtung** im deutschen Recht.
 
 Wenn diese Indizien zutreffen, **traegst du den Skill in `PROMPTLISTE.md` ein** — und zwar in die passende Kategorie (Fachanwaltschaft oder Querschnittsrubrik).
@@ -54,4 +54,4 @@ Kurzbeschreibung (200 bis 250 Zeichen), die das fachliche Profil und den Praxisn
 
 ## Disclaimer
 
-Die Promptliste hat einen **eigenen, sehr ausfuehrlichen Disclaimer** in `PROMPTLISTE.md`. Aendere ihn nicht, kuerze ihn nicht und schiebe ihn nicht nach unten. Er gehoert an den Anfang der Datei und ist Teil des Praxis-Konzepts dieses Repositories.
+Die Promptliste hat einen **eigenen, sehr ausfuehrlichen Disclaimer** in `PROMPTLISTE.md`. Ändere ihn nicht, kuerze ihn nicht und schiebe ihn nicht nach unten. Er gehoert an den Anfang der Datei und ist Teil des Praxis-Konzepts dieses Repositories.

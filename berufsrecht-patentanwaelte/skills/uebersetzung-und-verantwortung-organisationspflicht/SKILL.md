@@ -1,9 +1,9 @@
 ---
 name: uebersetzung-und-verantwortung-organisationspflicht
-description: "Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Patentanwälte: übersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
-# Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+# Patentanwälte: übersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Patentanwälte: uebersetzung und verantwortung - Organisationspfli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Patentanwälte: uebersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+## Konkreter Berufsrechtskern: Patentanwälte: übersetzung und verantwortung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 - **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
 - **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
 - **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.

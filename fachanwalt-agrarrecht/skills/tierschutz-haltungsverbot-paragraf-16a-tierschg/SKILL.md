@@ -1,6 +1,6 @@
 ---
 name: tierschutz-haltungsverbot-paragraf-16a-tierschg
-description: "Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster fuer Tatsachenfundierung. Pruefraster Wiederholungsgefahr Verhaeltnismaessigkeit milderes Mittel."
+description: "Behoerdliches Haltungsverbot nach Paragraf 16a TierSchG mit BVerwG 3 B 17/18 als Fundierungsraster fuer Tatsachenfundierung. Prüfraster Wiederholungsgefahr Verhältnismäßigkeit milderes Mittel."
 ---
 
 # Tierschutz Haltungsverbot Paragraf 16a Tierschg

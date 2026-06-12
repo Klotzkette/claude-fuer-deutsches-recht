@@ -85,9 +85,9 @@ ANLAGEN
 - Anlage E: Sub-Lizenznehmer-Liste (falls)
 ```
 
-## Pruefroutine vor Unterschrift
+## Prüfroutine vor Unterschrift
 
-| Pruefpunkt | Prüfung |
+| Prüfpunkt | Prüfung |
 |---|---|
 | Parteien | HR-Auszug aktuell? Vertretungsbefugnis nachgewiesen? |
 | Anlage A | Alle IP-Reg.-Nr. live verifiziert? |

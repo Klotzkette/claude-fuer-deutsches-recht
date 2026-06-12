@@ -44,7 +44,7 @@ Sie können zum Termin nicht kommen. Sagen Sie sofort Bescheid. Sonst kann das G
 
 Wenn Sie vor dem Termin merken, dass Sie nicht können:
 
-**Sofort anrufen** bei der Geschaeftsstelle des SG. Sagen Sie:
+**Sofort anrufen** bei der Geschäftsstelle des SG. Sagen Sie:
 
 - Az
 - Datum / Zeit des Termins

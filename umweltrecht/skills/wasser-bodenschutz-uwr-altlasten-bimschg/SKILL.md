@@ -35,7 +35,7 @@ description: "Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortun
 - **§ 10 BBodSchG** — Sanierungsanordnung
 - **§ 13 BBodSchG** — Sanierungsplan-Pflicht bei Altlasten
 - **§ 24 BBodSchG** — Kostenerstattungsanspruch zwischen Pflichtigen (Gesamtschuldner-Ausgleich)
-- **§ 1 BodSchV** — Pruefw- und Massnahmenwerte Boden
+- **§ 1 BodSchV** — Prüfw- und Maßnahmenwerte Boden
 
 ## Leitentscheidungen
 
@@ -85,7 +85,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Stellungnahme gegen Sanierungsanordnung Wasser-Boden | Stellungnahme nach Schema; Template unten |
 | Variante A — Sanierungsanordnung teilweise berechtigt | Teilaner-kenntnis der Anordnung; Umfang und Kosten verhandeln |
 | Variante B — Kausalitaet unklar mehrere Verursacher | Kausalitaets-Einwand; Miturheberschaft anderer Verursacher prüfen |
-| Variante C — Sanierungskosten wirtschaftlich existenzbedrohend | Verhaeltnismaessigkeitspruefung; Teilsanierung als Kompromiss anbieten |
+| Variante C — Sanierungskosten wirtschaftlich existenzbedrohend | Verhältnismäßigkeitspruefung; Teilsanierung als Kompromiss anbieten |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -130,12 +130,12 @@ Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
-## Fristen-Ueberblick
+## Fristen-Überblick
 
 | Schritt | Frist | Grundlage |
 |---|---|---|

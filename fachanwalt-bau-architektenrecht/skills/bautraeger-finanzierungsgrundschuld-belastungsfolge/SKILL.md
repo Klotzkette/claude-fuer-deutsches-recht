@@ -1,6 +1,6 @@
 ---
 name: bautraeger-finanzierungsgrundschuld-belastungsfolge
-description: "Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefra..."
+description: "Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Prüfra..."
 ---
 
 # Bautraeger-Finanzierungsgrundschuld und Belastungsfolge
@@ -14,7 +14,7 @@ description: "Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill kla
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster.
+**Fokus:** Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Prüfraster.
 
 ### Bautraeger Finanzierungsgrundschuld Belastungsfolge
 
@@ -33,7 +33,7 @@ description: "Bautraeger-Finanzierungsgrundschuld und Belastungsfolge: Skill kla
 - Bank muss bei Vorliegen der Voraussetzungen die Pfandfreigabe erklaeren.
 - Bei Streit: BGB-Vertrag zwischen Bank und Bautraeger relevant; Erwerber hat oft Drittwirkung.
 
-## Pruefraster
+## Prüfraster
 
 1. Bestehende Globalgrundschuld?
 2. Pfandfreigabevereinbarung mit Bank?

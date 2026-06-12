@@ -19,7 +19,7 @@ description: "Patientenrechte und Behandlungsvertrag (§§ 630a-630h BGB): Aufkl
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhaeltnis Klinik/Arzt-Patient: Behandlungspflicht, Aufklaerung (§ 630e), Einwilligung (§ 630d), Dokumentation (§ 630f), Einsichtsrecht (§ 630g), Haftung (§ 630h mit Beweislastumkehr). Daneben PatientenrechteG und Patientenrechte aus DSGVO, SGB V, KrPflG.
+Der Behandlungsvertrag (§§ 630a-630h BGB) regelt das zivilrechtliche Verhältnis Klinik/Arzt-Patient: Behandlungspflicht, Aufklaerung (§ 630e), Einwilligung (§ 630d), Dokumentation (§ 630f), Einsichtsrecht (§ 630g), Haftung (§ 630h mit Beweislastumkehr). Daneben PatientenrechteG und Patientenrechte aus DSGVO, SGB V, KrPflG.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Behandlungsfehler-Vorwurf, Aufklaerungsfehler, Dokumentationsluecke?

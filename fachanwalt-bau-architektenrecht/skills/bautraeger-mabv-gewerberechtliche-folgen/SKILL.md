@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-gewerberechtliche-folgen
-description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhaeltnis zum zivilrechtlichen Schutz. Liefert Pruefraster."
+description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhältnis zum zivilrechtlichen Schutz. Liefert Prüfraster."
 ---
 
 # MaBV-Verstoss gewerberechtliche Folgen
@@ -14,7 +14,7 @@ description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerb
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV-Verstoss gewerberechtliche Folgen. Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhaeltnis zum zivilrechtlichen Schutz. Liefert Pruefraster.
+**Fokus:** MaBV-Verstoss gewerberechtliche Folgen. Skill behandelt die gewerberechtlichen Sanktionen bei Verstoessen Bussgeld Erlaubnisentzug und das Verhältnis zum zivilrechtlichen Schutz. Liefert Prüfraster.
 
 ### Bautraeger Mabv Gewerberechtliche Folgen
 
@@ -37,7 +37,7 @@ description: "MaBV-Verstoss gewerberechtliche Folgen: Skill behandelt die gewerb
  - Schadensersatz fordern.
  - Anzeige bei Gewerbeaufsicht erstatten.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher MaBV-Verstoss?
 2. Zivilrechtliche Konsequenzen?

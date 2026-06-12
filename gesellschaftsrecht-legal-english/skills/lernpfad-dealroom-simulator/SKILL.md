@@ -57,7 +57,7 @@ Welcher Fachmodul passt?
 
 Jede Uebung hat vier Stufen:
 
-1. **Erkennen:** "Markiere alle Begriffe, die nicht eins zu eins uebersetzbar sind."
+1. **Erkennen:** "Markiere alle Begriffe, die nicht eins zu eins übersetzbar sind."
 2. **Erklaeren:** "Sag es einer Mandantin ohne Jargon."
 3. **Anwenden:** "Schreibe den Markup-Kommentar oder die Rueckfrage."
 4. **Absichern:** "Welche Stelle muss Senior/Notar/Steuerberatung sehen?"

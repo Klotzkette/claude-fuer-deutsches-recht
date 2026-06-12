@@ -1,6 +1,6 @@
 ---
 name: abstimmung-lektorat-produktion-satz
-description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Pruefschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion."
+description: "Klaert Lektorats- und Redaktionsstandards: wer ist für welchen Prüfschritt zuständig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln im Verlagsredaktion."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klärung)
@@ -37,12 +37,12 @@ Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Ma
 1. **Schnittstelle festlegen.**
  - **Redaktion:** inhaltliche Beurteilung, Annahme/Ablehnung, Heftslot, Beitragsformat.
  - **Lektorat:** Sprache, Stil, Format, Zitiernorm, Konsistenz, ggf. Korrekturlauf.
-2. **Uebergabeprotokoll.** Jede Uebergabe mit Datum, Bearbeiter, Versionsstand, was gemacht wurde, was noch offen ist.
+2. **Übergabeprotokoll.** Jede Übergabe mit Datum, Bearbeiter, Versionsstand, was gemacht wurde, was noch offen ist.
 3. **Versionierungsregeln.** Dateiname `Autor-Titel_vN_status.docx` mit klarem Status (`eingang`, `lekt1`, `lekt2`, `red1`, `freigabe`, `druck`).
 4. **Track-Changes-Konvention.** Wer schaltet TC ein/aus? Wer kommentiert? Wer akzeptiert? Bei Word: jeweils Autorinnenname in den Einstellungen.
 5. **Inhaltliche Eingriffe.** Lektorat darf nicht inhaltlich umstellen ohne Ruecksprache Redaktion. Markierung "INH:" als Vorschlag.
 6. **Eskalation.** Wenn Redaktion und Lektorat verschiedene Meinungen haben, dokumentiert in Kommentaren, Entscheidung Schriftleitung.
-7. **Schluss-Uebergabe** mit Pruefliste (Format, Zitate, Stil, Konsistenz).
+7. **Schluss-Übergabe** mit Prüfliste (Format, Zitate, Stil, Konsistenz).
 
 ## Trade-off-Matrix
 
@@ -62,7 +62,7 @@ Sie brauchen ihn, wenn Lektorat und Redaktion neu aufgestellt sind, ein neues Ma
 
 ## Mustertexte / Vorlagen
 
-**Uebergabeprotokoll (Vorlage):**
+**Übergabeprotokoll (Vorlage):**
 
 ```
 Uebergabeprotokoll

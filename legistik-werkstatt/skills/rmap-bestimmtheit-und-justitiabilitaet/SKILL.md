@@ -1,6 +1,6 @@
 ---
 name: rmap-bestimmtheit-und-justitiabilitaet
-description: "Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsm..."
+description: "Verfassungsrechtliche Prüfung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsm..."
 ---
 
 # Bestimmtheit und Justitiabilitaet bei Rulemap-Normen
@@ -10,13 +10,13 @@ description: "Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die B
 ## Eingaben
 
 - Rulemap (Block 5 Schritte 1 bis 5)
-- Verfassungsrechtliche Pruefskizze aus verfassungsmaessigkeit-quercheck
+- Verfassungsrechtliche Prüfskizze aus verfassungsmaessigkeit-quercheck
 
 ## Kern der Methode
 
-Bestimmtheitsgebot (Art. 20 Abs. 3 GG und einschlaegige Spezialvorbehalte) verlangt klare Tatbestaende und vorhersehbare Rechtsfolgen. Eine Rulemap zwingt zur Explizitheit und erhoeht regelmaessig die Bestimmtheit; sie darf jedoch unbestimmte Rechtsbegriffe nicht durch verdeckte Schwellenwerte ersetzen. Justitiabilitaet: jede automatisierte Entscheidung muss begruendbar und ueberpruefbar sein.
+Bestimmtheitsgebot (Art. 20 Abs. 3 GG und einschlaegige Spezialvorbehalte) verlangt klare Tatbestaende und vorhersehbare Rechtsfolgen. Eine Rulemap zwingt zur Explizitheit und erhoeht regelmaessig die Bestimmtheit; sie darf jedoch unbestimmte Rechtsbegriffe nicht durch verdeckte Schwellenwerte ersetzen. Justitiabilitaet: jede automatisierte Entscheidung muss begruendbar und überprüfbar sein.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: bleibt der Beurteilungs- oder Ermessensspielraum der Verwaltung erhalten? Sind automatisierte Entscheidungen vor Gericht reproduzierbar? Greifen Datenschutz-Vorgaben (Art. 22 DSGVO; vollautomatisierte Entscheidung)?
 

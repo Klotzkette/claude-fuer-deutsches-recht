@@ -1,13 +1,13 @@
 ---
 name: dsfa-stakeholder-konsultation-art-35-9
-description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Pruefung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation."
+description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs. 9 DSGVO im Rahmen einer DSFA: Prüfung Erforderlichkeit Form Reichweite Dokumentation. Output: Konsultationsplan mit Begruendung Form und Dokumentation."
 ---
 
 # Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO
 
 ## Wann dieses Modul hilft
 
-- Bei DSFA mit Beschaeftigtendaten (Betriebsrat als Vertretung)
+- Bei DSFA mit Beschäftigtendaten (Betriebsrat als Vertretung)
 - Bei DSFA mit Patientendaten oder Kundendaten in grossem Umfang
 - Bei öffentlichen Konsultationen (z. B. Smart-City-Projekte)
 - Wenn die Aufsichtsbehoerde im Vorabkonsultationsverfahren Art. 36 Stakeholder-Beteiligung erwartet
@@ -16,14 +16,14 @@ description: "Konsultation der Betroffenen oder ihrer Vertreter nach Art. 35 Abs
 ## Rechtlicher Rahmen
 
 - Art. 35 Abs. 9 DSGVO: Der Verantwortliche holt gegebenenfalls den Standpunkt der betroffenen Personen oder ihrer Vertreter zu der beabsichtigten Verarbeitung ein, unbeschadet des Schutzes gewerblicher oder öffentlicher Interessen oder der Sicherheit der Verarbeitungsvorgaenge.
-- § 26 BDSG, BetrVG (§§ 87, 90, 94): Beteiligung des Betriebsrats bei Beschaeftigtendatenverarbeitungen mit Mitbestimmungsbezug.
+- § 26 BDSG, BetrVG (§§ 87, 90, 94): Beteiligung des Betriebsrats bei Beschäftigtendatenverarbeitungen mit Mitbestimmungsbezug.
 - EDSA-Leitlinien WP 248 rev.01 zur Konsultation.
 - EDSA-Stellungnahmen zur Konsultation in komplexen Verarbeitungen.
 
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Verarbeitung? Welche Betroffenenkreise? Gibt es etablierte Vertretungen (Betriebsrat, Patientenvertretung, Verbraucherverbaende)?
-2. **Verhaeltnismaessigkeitspruefung.** Ist eine Konsultation angemessen (Art. 35 Abs. 9 verlangt nur soweit angemessen)? Faktoren: Eingriffstiefe, Anzahl Betroffener, Erkennbarkeit der Verarbeitung, Existenz strukturierter Vertretung.
+2. **Verhältnismäßigkeitspruefung.** Ist eine Konsultation angemessen (Art. 35 Abs. 9 verlangt nur soweit angemessen)? Faktoren: Eingriffstiefe, Anzahl Betroffener, Erkennbarkeit der Verarbeitung, Existenz strukturierter Vertretung.
 3. **Risikoanalyse.** Risiken bei Konsultation: Geheimhaltungsinteressen, Wettbewerb, Sicherheitsrisiken. Risiken ohne Konsultation: Reputationsverlust, Aufsichtsanstoss, Akzeptanzproblem.
 4. **Maßnahmen / Form der Konsultation.**
  - Schriftliche Konsultation des Betriebsrats mit Beschreibung der Verarbeitung

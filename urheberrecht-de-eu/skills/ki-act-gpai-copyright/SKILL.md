@@ -1,6 +1,6 @@
 ---
 name: ki-act-gpai-copyright
-description: "Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation im Urheberrecht De Eu."
+description: "Prüft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation im Urheberrecht De Eu."
 ---
 
 # KI-VO GPAI und Urheberrechtspolitik

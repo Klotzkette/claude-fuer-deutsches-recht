@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-vs-freiheitsstrafe-47-stgb
-description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhaeltnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen ku..."
+description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB. Kurze Freiheitsstrafe unter 6 Monaten nur bei besonderen Umstaenden in der Tat oder in der Persoenlichkeit. Begruendungspflicht des Gerichts. Verhältnis Geldstrafe + Freiheitsstrafe (§ 41 StGB). Strategiewahl Verteidigung gegen ku..."
 ---
 
 # Geldstrafe vs. Freiheitsstrafe — § 47 StGB
@@ -15,7 +15,7 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 
 ## Worum geht es?
 
-§ 47 Abs. 1 StGB enthaelt eine gesetzgeberische Wertentscheidung **gegen** kurze Freiheitsstrafen. Eine Freiheitsstrafe unter sechs Monaten darf das Gericht nur verhaengen, wenn besondere Umstaende, die in der Tat oder der Persoenlichkeit des Taeters liegen, die Verhaengung der Freiheitsstrafe zur Einwirkung auf den Taeter oder zur Verteidigung der Rechtsordnung unerlaesslich machen. § 47 Abs. 2 StGB regelt das Verhaeltnis bei Tatbestaenden, die nur Freiheitsstrafe vorsehen.
+§ 47 Abs. 1 StGB enthaelt eine gesetzgeberische Wertentscheidung **gegen** kurze Freiheitsstrafen. Eine Freiheitsstrafe unter sechs Monaten darf das Gericht nur verhaengen, wenn besondere Umstaende, die in der Tat oder der Persoenlichkeit des Taeters liegen, die Verhaengung der Freiheitsstrafe zur Einwirkung auf den Taeter oder zur Verteidigung der Rechtsordnung unerlaesslich machen. § 47 Abs. 2 StGB regelt das Verhältnis bei Tatbestaenden, die nur Freiheitsstrafe vorsehen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -65,7 +65,7 @@ description: "Vorrang der Geldstrafe vor kurzer Freiheitsstrafe nach § 47 StGB.
 - Geldstrafe statt Freiheitsstrafe ist **kein** automatischer Strafzumessungsabschlag. Anzahl der Tagessaetze kann hoch sein, ohne dass das Strafmass unverhaeltnismaessig wird.
 - Faustregel der Praxis: 30 Tagessaetze entsprechen ungefaehr 1 Monat Freiheitsstrafe (orientierend).
 
-## Verhaeltnis zu § 56 StGB (Bewaehrung)
+## Verhältnis zu § 56 StGB (Bewaehrung)
 
 Wird trotzdem eine kurze Freiheitsstrafe (3 bis 6 Monate) verhaengt, ist Bewaehrung nach § 56 Abs. 1 StGB (Strafe bis 1 Jahr) Standard, sofern Sozialprognose positiv ist; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
 

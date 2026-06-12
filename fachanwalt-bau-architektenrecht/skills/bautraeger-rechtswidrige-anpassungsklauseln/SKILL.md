@@ -14,7 +14,7 @@ description: "Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill liste
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster.
+**Fokus:** Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Prüfraster.
 
 ### Bautraeger Rechtswidrige Anpassungsklauseln
 
@@ -30,8 +30,8 @@ description: "Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill liste
 - Bei zu weiten Verzugsfristen unwirksam.
 
 ### Standardaenderung
-- "Der Verkaeufer behaelt sich Aenderungen der Baubeschreibung vor."
-- Unwirksam, soweit wesentliche Aenderung.
+- "Der Verkaeufer behaelt sich Änderungen der Baubeschreibung vor."
+- Unwirksam, soweit wesentliche Änderung.
 
 ### Sonderwuensche-Ausschluss
 - "Sonderwuensche sind nicht möglich nach Vertragsschluss."
@@ -46,7 +46,7 @@ description: "Rechtswidrige Anpassungsklauseln im Bautraegervertrag: Skill liste
 - BGH staendige Rspr. zu einseitigen Anpassungsklauseln.
 - Aktuelle Az im Mandat live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel?
 2. Einseitig zu Lasten Erwerber?

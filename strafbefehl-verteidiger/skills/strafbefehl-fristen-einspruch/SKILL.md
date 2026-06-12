@@ -19,7 +19,7 @@ Sichert die Einspruchsfrist nach § 410 StPO (2 Wochen ab Zustellung) und erstel
 
 ## Triage zu Beginn — Sofort klären
 
-1. **Zugangsdatum Strafbefehl:** Wann wurde der Strafbefehl zugestellt? Postzustellung (§ 37 StPO i.V.m. §§ 177 ff. ZPO) oder persönliche Uebergabe?
+1. **Zugangsdatum Strafbefehl:** Wann wurde der Strafbefehl zugestellt? Postzustellung (§ 37 StPO i.V.m. §§ 177 ff. ZPO) oder persönliche Übergabe?
 2. **Zustellungsfiktion prüfen:** Bei Postzustellung gilt § 418 ZPO — Einwurf-Einschreiben drei Tage nach Aufgabe als zugestellt, es sei denn Mandant weist spaetere Kenntnisnahme nach.
 3. **Fristende berechnen:** Tag der Zustellung + 14 Tage (§ 410 Abs. 1 StPO), §§ 42, 43 StPO zur Berechnung; Fristende auf Samstag/Sonntag/Feiertag — naechster Werktag.
 4. **Reaktion des Mandanten bislang:** Hat der Mandant bereits reagiert, einen Pro-forma-Einspruch selbst eingelegt?

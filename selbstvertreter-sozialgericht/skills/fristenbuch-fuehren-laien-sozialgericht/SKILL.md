@@ -89,7 +89,7 @@ Sobald die Handlung erfolgt:
 - Im Fristenbuch "erledigt" mit Datum
 - Versandbeweis aufheben (Sendebericht, Quittung)
 
-### Schritt 6 — Ueberblick gewinnen
+### Schritt 6 — Überblick gewinnen
 
 Wer mehrere Sachen hat:
 

@@ -1,6 +1,6 @@
 ---
 name: open-source-persoenlichkeitsrecht-stimme
-description: "Prueft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität im Urheberrecht De Eu."
+description: "Prüft Open-Source-Pflichten, Copyleft, SaaS, interne Tools, KI-Codegeneratoren und Lizenzkompatibilität im Urheberrecht De Eu."
 ---
 
 # Open Source und Softwarelizenzen

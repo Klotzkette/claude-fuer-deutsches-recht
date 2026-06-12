@@ -1,9 +1,9 @@
 ---
 name: orientierung-fachanwaltschaft-mandat
-description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G..."
+description: "Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten: Orientierung AufenthG AsylG G..."
 ---
 
-# Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten
+# Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten
 
 
 ## Aktenstart statt Formularstart
@@ -28,7 +28,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg.
+**Fokus:** Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StAG Einbuergerung. Notfristen § 36 AsylG ein-Wochen-Frist bei ablehnenden BAMF-Bescheiden § 74 AsylG zwei-Wochen-Klagefrist. FAO-Voraussetzungen Normen typische Mandate verifizierbare Quellen. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Fachmodule. Abgrenzung: mandat-triage-migrationsrecht für konkreten Mandats-Einstieg.
 
 ### Fachanwalt für Migrationsrecht — Orientierung
 
@@ -46,7 +46,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 | Genfer Konvention | GFK 1951 Art. 1A (Fluechtlingsbegriff) Art. 33 Refoulementverbot |
 | EU-Recht | Dublin III VO (EU 604/2013) Qualifikations-RL 2011/95 Verfahrens-RL 2013/32 Aufnahme-RL 2013/33 Rückführungs-RL 2008/115 |
 | Staatsangehoerigkeit | StAG (Einbürgerung Anspruchseinbürgerung Ermessenseinbürgerung) |
-| Beschaeftigungsmigration | Beschaeftigungsverordnung BeschV Fachkraefteeinwanderungsgesetz |
+| Beschäftigungsmigration | Beschäftigungsverordnung BeschV Fachkraefteeinwanderungsgesetz |
 | Verfahrensrecht | VwGO (Klage gegen BAMF / Ausländerbehörde) AsylG (Sonderverfahren) |
 
 ## Typische Mandate
@@ -111,7 +111,7 @@ Rechtsprechung im Mandat live verifizieren. Aktuelle Linien zur Orientierung (St
 Bevor losgelegt wird, klaere:
 1. Akute Frist — §-36-AsylG-1-Woche-Frist bereits angelaufen? Wenn ja: Sofort-Eilantrag.
 2. Mandantenstatus exakt — Aufenthaltsgestattung, Duldung, bestehender Titel, EU-Buerger?
-3. Besteht bereits Bescheid — BAMF oder Auslaenderbehoerde?
+3. Besteht bereits Bescheid — BAMF oder Ausländerbehoerde?
 4. Familienangehoerige in Deutschland mit Titel — Relevant für Art. 6 GG / § 60a AufenthG?
 5. Gesundheitszustand Mandant — Attests-Bedarf für Reiseunfaehigkeit / psych. Erkrankung?
 

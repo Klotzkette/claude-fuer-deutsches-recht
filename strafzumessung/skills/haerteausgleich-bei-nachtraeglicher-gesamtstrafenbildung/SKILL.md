@@ -63,7 +63,7 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
 
 - **Kein** starres Berechnungsschema.
 - **Orientierung**: Was waere die Gesamtstrafe gewesen, wenn beide Taten in einem Verfahren abgeurteilt worden waeren?
-- **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Massstab dienen.
+- **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Maßstab dienen.
 - **Strafabschlag** wird auf die nunmehr zu verhaengende Strafe angerechnet — entweder durch Senkung der Einzelstrafe oder durch ausdruecklichen Abschlag in der Strafzumessungsbegruendung.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)
@@ -91,7 +91,7 @@ Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
  - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
 6. **Begruendungspflicht** im Urteil: Das Gericht muss den Haerteausgleich als bestimmenden Strafzumessungsgrund angeben (§ 267 Abs. 3 StPO).
 
-## Verhaeltnis zu § 55 StGB
+## Verhältnis zu § 55 StGB
 
 | Situation | Rechtsfolge |
 |---|---|

@@ -41,7 +41,7 @@ Gartenhaeuser und Carports gelten baurechtlich je nach Landesbauordnung als gene
 - DIN EN 1993-1-1 Stahlbau: Bemessung und Konstruktion von Stahlbauten für Stahl-Carports
 - Bayerische Bauordnung Art. 57 BayBO (Verfahrensfreiheit) bzw. LBO NRW § 65
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Fundamentsohle: Tiefe min. 80 cm unter Gelaende, Breite laut Statik, keine Aufweichung durch Sickerwasser
 2. Bewehrung Streifenfundament: Betondeckung min. 4 cm, Stababstand, Koppelung und Anker für Stuetzen nach Plan
@@ -64,7 +64,7 @@ Gartenhaeuser und Carports gelten baurechtlich je nach Landesbauordnung als gene
 - Dalux Field: Mangel-PIN auf Grundriss, Beschreibung und Foto, automatische E-Mail an Auftragnehmer
 - SAP PM Meldungsart M2 bei kommunalem Auftraggeber: Equipment-Nr. Aussenanlagen, Schadenscode 0012 Feuchte/Holzfaeule
 - Felder SAP PM: Kurzbeschreibung, Schadensort, Prioritaet 2-Normal oder 3-Hoch, Verantwortlicher Planer als Bearbeiter
-- Rueckmeldung Maengelbeseitigung: Status ERLD, Abschlussdatum, Pruefvermerk Bauueberwacher mit Handzeichen
+- Rueckmeldung Maengelbeseitigung: Status ERLD, Abschlussdatum, Prüfvermerk Bauueberwacher mit Handzeichen
 
 ## Typische Fallstricke
 

@@ -31,20 +31,20 @@ Jede Klage braucht eine **Anspruchsgrundlage** — eine Norm im BGB oder Spezial
 - **§ 281 BGB** — Schadensersatz statt Leistung.
 - **§ 311a BGB** — Schadensersatz bei anfaenglicher Unmoeglichkeit.
 - **§ 311 II BGB i. V. m. § 280 BGB** — Schadensersatz aus c.i.c.
-- **§ 677 ff. BGB** — Geschaeftsfuehrung ohne Auftrag (GoA).
+- **§ 677 ff. BGB** — Geschäftsführung ohne Auftrag (GoA).
 - **§ 985 BGB** — Eigentums-Herausgabeanspruch.
 - **§ 823 BGB** — Delikt (unerlaubte Handlung).
 - **§ 812 BGB** — Bereicherungsanspruch.
 
 ## Schritt-für-Schritt-Anleitung
 
-### Schritt 1 — Pruefungsreihenfolge merken
+### Schritt 1 — Prüfungsreihenfolge merken
 
 Nach der Methodik des deutschen Zivilrechts prüfen Sie:
 
 1. **Vertrag** (primaere und sekundaere Ansprueche)
 2. **c.i.c.** (Vertragsanbahnung)
-3. **GoA** (Geschaeftsfuehrung ohne Auftrag)
+3. **GoA** (Geschäftsführung ohne Auftrag)
 4. **Dingliche Ansprueche** (Eigentum, § 985)
 5. **Delikt** (§ 823 ff.)
 6. **Bereicherung** (§ 812 ff.)
@@ -83,7 +83,7 @@ Wenn jemand Sie **rechtswidrig und schuldhaft** verletzt hat (Sache, Koerper, Ei
 
 Wenn jemand etwas auf Ihre Kosten erlangt hat, ohne Rechtsgrund: § 812 BGB.
 
-- Versehentliche Ueberweisung.
+- Versehentliche Überweisung.
 - Doppelzahlung.
 - Bezahlte Leistung, die der Verkaeufer nicht erbringen kann.
 

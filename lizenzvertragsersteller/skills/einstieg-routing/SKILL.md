@@ -11,9 +11,9 @@ description: "Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage 
 
 | Punkt | Schnellpruefung | Standardquelle |
 | --- | --- | --- |
-| IP-Typ | Urheberrecht/Software · Patent · Marke · Design (GeschmacksmusterG) · Gebrauchsmuster · Geschaeftsgeheimnis/Know-how | Schutzrechtsregister (DPMA, EUIPO, EPA), Vertragsunterlagen |
+| IP-Typ | Urheberrecht/Software · Patent · Marke · Design (GeschmacksmusterG) · Gebrauchsmuster · Geschäftsgeheimnis/Know-how | Schutzrechtsregister (DPMA, EUIPO, EPA), Vertragsunterlagen |
 | Rolle Mandant | Lizenzgeber · Lizenznehmer · Sicherheitengeber · Sicherheitennehmer · Verwahrer (Escrow) · Beide (cross-license) | Mandatsmail, Vollmacht |
-| Lizenzumfang | Territorium · Zeit · Anwendungsfeld · exklusiv/non-exklusiv/sole | Geschaeftsmodell, Roadmap |
+| Lizenzumfang | Territorium · Zeit · Anwendungsfeld · exklusiv/non-exklusiv/sole | Geschäftsmodell, Roadmap |
 | Vertragssprache | DE · EN · Bilingual mit Massgebbung | Mandantenwunsch, Gegenseite |
 | Rechtswahl | Deutsches Recht · Schweiz · EN&W · NY · Rom-I-VO bei Mehrlaender | Standortverteilung, Vollstreckungsstrategie |
 | Vorbefassung | NDA, LOI, MOU schon unterschrieben? | Aktenlage |
@@ -43,7 +43,7 @@ description: "Anwalts-Dashboard fuer den Lizenzvertragsersteller: Sofort-Triage 
 - **PatG** §§ 9, 15 (Lizenz); § 24 (Zwangslizenz)
 - **MarkenG** §§ 30 (Lizenz), 27 (Uebertragung)
 - **DesignG** §§ 31 ff.; **GebrMG** §§ 22 ff.
-- **GeschGehG** §§ 1-12 (Schutz von Geschaeftsgeheimnissen; Lizenz nach § 3)
+- **GeschGehG** §§ 1-12 (Schutz von Geschäftsgeheimnissen; Lizenz nach § 3)
 - **InsO** § 103 (Wahlrecht des Verwalters bei gegenseitigen Vertraegen)
 - **VO (EU) Nr. 316/2014 (TT-GVO)** — Technologietransfer-Gruppenfreistellung
 - **Rom-I-VO** Art. 4 (Lizenzvertraege Statut)

@@ -23,7 +23,7 @@ description: "Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen:
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch für alle Bundeslaender)
+- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmaßstab (exemplarisch für alle Bundeslaender)
 - § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
 - § 1 Abs. 1 StGB — Bestimmtheitsgebot: Examens-Fundamentalsatz Strafrecht
 - § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard öffentliches Recht

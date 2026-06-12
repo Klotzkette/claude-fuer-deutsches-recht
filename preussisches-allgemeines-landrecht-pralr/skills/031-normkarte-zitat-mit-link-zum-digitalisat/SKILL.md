@@ -46,7 +46,7 @@ Bei Zitierung "ALR Einl. § 74" muss klar sein:
 - Wortlaut nachvollziehbar?
 - Heutige Anschlussfrage?
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Norm?
 2. Welcher Quellenanker?

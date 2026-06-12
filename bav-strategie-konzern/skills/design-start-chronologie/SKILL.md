@@ -121,7 +121,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `internationale-harmonisierung-konzern-bav` | Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen,… |
 | `japan-bav-und-corporate-pension-iorp` | Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen,… |
 | `kollektivrechtliche-loesungen-und-sozialplan` | Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output:… |
-| `mitbestimmung-betriebsrat-einigungsstelle-bav` | Betriebsratsbeteiligung bei bAV-Einführung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten,… |
+| `mitbestimmung-betriebsrat-einigungsstelle-bav` | Betriebsratsbeteiligung bei bAV-Einführung und -Änderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Prüfraster: Mitbestimmungstatbestaende, Informationspflichten,… |
 | `pension-buyout-strukturierung-und-de-risking` | Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung.… |
 | `pensionsmodelle-fuenf-durchfuehrungswege` | Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und… |
 | `psv-pensionssicherungsverein-und-haftungsketten` | PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output:… |
@@ -173,7 +173,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Konzernstruktur und bAV-Ist-Stand erfassen (Durchfuehrungswege, Länder, Beschaeftigtenzahl).
+1. Konzernstruktur und bAV-Ist-Stand erfassen (Durchfuehrungswege, Länder, Beschäftigtenzahl).
 2. Handlungsanlass bestimmen (Neueinfuehrung, Harmonisierung nach M-und-A, Eingriff in Anwartschaften, Buyout).
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
 4. Mitbestimmungsrechtliche Anforderungen prüfen (Betriebsrat, Einigungsstelle).
@@ -193,7 +193,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - `internationale-harmonisierung-konzern-bav` — Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance.
 - `japan-bav-und-corporate-pension-iorp` — Japanisches Pensionssystem und IORP-Vergleich für europaeische Konzerne analysieren.
 - `kollektivrechtliche-loesungen-und-sozialplan` — Kollektivrechtliche Loesungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle.
-- `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei bAV-Einfuehrung und -Aenderung rechtssicher sicherstellen.
+- `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei bAV-Einfuehrung und -Änderung rechtssicher sicherstellen.
 - `pension-buyout-strukturierung-und-de-risking` — Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung und Bilanzbereinigung.
 - `pensionsmodelle-fuenf-durchfuehrungswege` — Alle fuenf Durchfuehrungswege vergleichen und den passenden Weg empfehlen.
 - `psv-pensionssicherungsverein-und-haftungsketten` — PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren.
@@ -202,7 +202,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 ## Worauf besonders achten
 
 - **Drei-Stufen-Theorie strikt anwenden**: Eingriffe in bereits erdiente Anwartschaften scheitern regelmaessig an der BAG-Rechtsprechung, wenn keine sachlichen Gruende vorliegen.
-- **Mitbestimmung nicht vergessen**: Die Einfuehrung und wesentliche Aenderung von bAV-Systemen ist mitbestimmungspflichtig nach § 87 Abs. 1 Nr. 8 BetrVG.
+- **Mitbestimmung nicht vergessen**: Die Einfuehrung und wesentliche Änderung von bAV-Systemen ist mitbestimmungspflichtig nach § 87 Abs. 1 Nr. 8 BetrVG.
 - **IFRS und steuerliche Bilanzierung abstimmen**: IFRS IAS 19 und § 6a EStG folgen unterschiedlichen Bewertungslogiken; Discrepanzen können zu Ueberraschungen fuehren.
 - **Drittlandrisiko bei internationalen Datenflows**: bAV-Daten von Expatriates oder ausländischen Konzerngesellschaften fallen unter DSGVO Art. 44 ff.
 - **PSV-Pflicht nicht uebersehen**: Nicht alle Durchfuehrungswege sind PSV-pflichtig; Fehler bei der Einordnung fuehren zu Haftungsluecken.

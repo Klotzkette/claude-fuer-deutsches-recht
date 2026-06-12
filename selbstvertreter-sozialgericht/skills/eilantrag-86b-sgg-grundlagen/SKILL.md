@@ -126,7 +126,7 @@ Anlagen:
 
 Nicht beim Widerspruchsverfahren! Eilantrag geht direkt zum Sozialgericht.
 
-- Schriftlich, per Fax, oder zur Niederschrift auf der Geschaeftsstelle
+- Schriftlich, per Fax, oder zur Niederschrift auf der Geschäftsstelle
 - Auch per Mein Justizpostfach
 
 ### Schritt 6 — Entscheidung abwarten
@@ -149,4 +149,4 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 86b SGG aktuell. BVerfG hat Anforderungen an effektiven Eilrechtsschutz hochgehalten (Art. 19 Abs. 4 GG). Bei akuten Faellen Geschaeftsstelle anrufen.
+Stand: 05/2026. § 86b SGG aktuell. BVerfG hat Anforderungen an effektiven Eilrechtsschutz hochgehalten (Art. 19 Abs. 4 GG). Bei akuten Faellen Geschäftsstelle anrufen.

@@ -42,19 +42,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Hauptverhandlung:** Beweisantraege § 244 StPO; Pladoyer mit konkretem Strafantrag; Schlusswort.
  - **Rechtsmittel:** Berufung § 314 StPO + ggf. Begruendung; Revisionsbegruendung § 345 StPO (Sach- / Verfahrensruege).
  - **Vollstreckung:** Antrag nachtraegliche Gesamtstrafe § 460 StPO; Strafaussetzung § 57 StGB.
-- **Livecheck-Pflichten vor Uebergabe:**
- - **Normen aktuell?** (z. B. KCanG-Aenderungen, StGB-Reformen)?
+- **Livecheck-Pflichten vor Übergabe:**
+ - **Normen aktuell?** (z. B. KCanG-Änderungen, StGB-Reformen)?
  - **Rechtsprechung aktuell?** BGH / BVerfG / EuGH-Linien geprueft?
  - **Frist nochmals re-checken?**
  - **Vollmacht Mandant aktuell?**
  - **BZRG / Akte vollstaendig erhalten?**
  - **Vollstaendigkeitscheck Anlagen** (Beweismittel, Belege).
  - **Form-Check** (Schriftform, Unterschrift, beA-Konformitaet bei Zivilrecht; im Strafrecht § 32a StPO).
-- **Uebergabe an Folgeverteidiger / Kanzleikollegen:**
+- **Übergabe an Folgeverteidiger / Kanzleikollegen:**
  - **Mandantenakte komplett** (Anschreiben, Aktenstand, Belege).
  - **Aktenvorblatt** mit aktuellem Stand, Strategie, naechsten Schritten.
  - **Fristenuebersicht** mit Wiedervorlagen.
- - **Schluesselkontakte** (StA-Sachbearbeiter, Gericht, Geschaedigter, ggf. Pflichtverteidiger).
+ - **Schlüsselkontakte** (StA-Sachbearbeiter, Gericht, Geschaedigter, ggf. Pflichtverteidiger).
  - **Verguetungsstand RVG** (was bereits abgerechnet, welche Phase laeuft).
 - **Mandantenaufklaerung Abschluss:**
  - Verfahrensstand (laufend / abgeschlossen rechtskraeftig).

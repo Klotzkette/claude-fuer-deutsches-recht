@@ -36,7 +36,7 @@ description: "Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet na
 - **UZK Art. 79**: Zollschuldentstehung bei Nichtrueckfuehr.
 - **ATA-Convention Annex B.2 (Messe)**: Spezifische Regeln für Ausstellungsgueter.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Bestimmungsland ist ATA-Carnet-Partnerland?
 - [ ] Warenart unter ATA-Carnet-Anwendung?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

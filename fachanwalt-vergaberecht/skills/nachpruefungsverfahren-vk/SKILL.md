@@ -59,7 +59,7 @@ description: "Nachprüfungsverfahren bei der Vergabekammer durchführen: Laufend
 ### Aufhebung Suspensiveffekt § 169 II GWB
 
 - Antrag Vergabestelle bei VK
-- VK pruef: überwiegendes Interesse
+- VK prüf: überwiegendes Interesse
 
 ## 4) Verfahren
 

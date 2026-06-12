@@ -1,9 +1,9 @@
 ---
 name: gmbh-geschaeftsfuehrerverguetung
-description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrerverguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
+description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Geschäftsführerverguetung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Gesellschaftsrechtliche Treuepflicht."
 ---
 
-# Gmbh Geschaeftsfuehrerverguetung
+# Gmbh Geschäftsführerverguetung
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ description: "Gesellschaftsrechtliche Treuepflicht: Gmbh Geschaeftsfuehrervergue
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Fachkern: Gmbh Geschaeftsfuehrerverguetung
+## Fachkern: Gmbh Geschäftsführerverguetung
 - **Normen-/Quellenanker:** GmbHG, AktG, HGB, BGB, Satzung/Gesellschaftsvertrag, Treuepflicht, Stimmrechtsbindung, Minderheitenschutz, Organhaftung und Beschlussmängelrecht.
 - **Entscheidende Weiche:** Unterscheide harte Pflichtverletzung, legitime Interessenwahrnehmung, Machtmissbrauch, Informationsdefizit, Stimmverbot und Rechtsfolge.
 

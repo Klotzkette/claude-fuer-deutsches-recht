@@ -1,6 +1,6 @@
 ---
 name: bgb-entstehung-und-materialien
-description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schlüssel zur historischen Auslegung des BGB im Deutsche Rechtsgeschichte."
 ---
 
 # BGB Entstehung und Materialien (1874-1900)
@@ -51,7 +51,7 @@ Die Entstehung des BGB erstreckte sich über 26 Jahre (1874-1900). Die Erste Kom
 
 ## Typische Streitfragen / Forschungsfragen
 
-1. Erster vs. Zweiter Entwurf: Wie stark aenderte die Zweite Kommission das Sozial- und Familienprofil?
+1. Erster vs. Zweiter Entwurf: Wie stark änderte die Zweite Kommission das Sozial- und Familienprofil?
 2. Sozialkritik Menger 1890: Was wurde in den 2. Entwurf aufgenommen, was nicht?
 3. Mugdan-Materialien und historische Auslegung: Darf der Richter Motive als Beweis heranziehen?
 4. Pandektistik als Defizit: Hat das BGB soziale Fragen bewusst ausgeblendet?

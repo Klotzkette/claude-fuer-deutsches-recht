@@ -1,6 +1,6 @@
 ---
 name: wahlraum-propagandaverbot
-description: "Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude prüfen im Wahlkampfrecht."
 ---
 
 # Wahlraum Propagandaverbot

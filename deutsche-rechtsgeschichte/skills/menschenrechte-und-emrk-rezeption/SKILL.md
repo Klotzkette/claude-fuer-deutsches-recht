@@ -1,6 +1,6 @@
 ---
 name: menschenrechte-und-emrk-rezeption
-description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhältnis GG-Grundrechte zu EMRK im Deutsche Rechtsgeschichte."
 ---
 
 # Menschenrechte und EMRK-Rezeption
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. Dezember 1952 (BGBl. II 1952, 685). Seitdem ist die EMRK im Rang eines Bundesgesetzes (BVerfGE 74, 358: Rang unter GG). Das BVerfG entwickelte das Gebot der voelkerrechtsfreundlichen Auslegung: Deutsche Grundrechte sind im Lichte der EMRK und der EGMR-Rechtsprechung auszulegen. Schluesselfaelle: Caroline v. Monaco (EGMR 2004, Pressefreiheit vs. Persoenlichkeitsrecht), Goerguelue v. Germany (BVerfGE 111, 307, 2004, Pflicht zur Beruecksichtigung von EGMR-Urteilen). Die Rangfrage EMRK vs. GG ist noch nicht abschliessend geklart.
+Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. Dezember 1952 (BGBl. II 1952, 685). Seitdem ist die EMRK im Rang eines Bundesgesetzes (BVerfGE 74, 358: Rang unter GG). Das BVerfG entwickelte das Gebot der voelkerrechtsfreundlichen Auslegung: Deutsche Grundrechte sind im Lichte der EMRK und der EGMR-Rechtsprechung auszulegen. Schlüsselfaelle: Caroline v. Monaco (EGMR 2004, Pressefreiheit vs. Persoenlichkeitsrecht), Goerguelue v. Germany (BVerfGE 111, 307, 2004, Pflicht zur Beruecksichtigung von EGMR-Urteilen). Die Rangfrage EMRK vs. GG ist noch nicht abschliessend geklart.
 
 ## Kernnormen / Kernquellen
 
@@ -45,8 +45,8 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 ## Akteure und Institutionen
 
 - **EGMR Strassburg**: Beschwerdeinstanz nach Erschoepfung des Rechtswegs
-- **BVerfG**: Auslegung des Verhaeltnisses GG-EMRK
-- **Caroline von Hannover**: Klaegerin in EGMR-Pressefreiheitsfall 2004
+- **BVerfG**: Auslegung des Verhältnisses GG-EMRK
+- **Caroline von Hannover**: Klägerin in EGMR-Pressefreiheitsfall 2004
 - **Bundesregierung**: Voelkerrechtliche Verpflichtungen aus EMRK
 
 ## Typische Streitfragen / Forschungsfragen
@@ -55,7 +55,7 @@ Deutschland ratifizierte die Europaeische Menschenrechtskonvention (EMRK) am 5. 
 2. BVerfGE 111, 307: Muss jedes deutsche Gericht EGMR-Urteile beruecksichtigen?
 3. Caroline-Urteil EGMR: Hat der EGMR das deutsche Abwaegungsrecht zu Pressefreiheit korrigiert?
 4. EMRK und Asylrecht: Welche Bedeutung hatte die EMRK für Abschiebungsschutz?
-5. Verhaeltnis EGMR und EuGH: Zwei europaeische Menschenrechtsinstanzen?
+5. Verhältnis EGMR und EuGH: Zwei europaeische Menschenrechtsinstanzen?
 
 ## Methodik
 

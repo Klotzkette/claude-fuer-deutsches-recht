@@ -190,7 +190,7 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - **Schwellenwerte sind dynamisch** — Meldepflicht nach Art. 24 Abs. 3 DSA bei Erreichen der Nutzerschwelle; Kommission designiert unabhaengig von Meldestand.
 - **DSA verdraengt DSGVO nicht** — Art. 2 Abs. 4 DSA stellt klar, dass DSGVO vorgeht; DSA-Compliance schutzt nicht vor DSGVO-Bussgeld.
 - **§ 19a GWB als Luecken-Fuelung** — Unterhalb DMA-Schwellen greift das BKartA auf § 19a GWB zurueck; Unternehmen müssen beide Ebenen im Blick haben.
-- **Zustellung gegen auslaendische Plattformen** — EU-Vertreter-Pflicht nach Art. 13 DSA ist Voraussetzung für Zustellung; ohne Vertreter komplexes Auslandsverfahren.
+- **Zustellung gegen ausländische Plattformen** — EU-Vertreter-Pflicht nach Art. 13 DSA ist Voraussetzung für Zustellung; ohne Vertreter komplexes Auslandsverfahren.
 
 ## Typische Fehler
 

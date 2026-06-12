@@ -37,7 +37,7 @@ description: "Hilft bei Zivilprozess Warnwoerter für Menschen mit Deutsch als Z
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

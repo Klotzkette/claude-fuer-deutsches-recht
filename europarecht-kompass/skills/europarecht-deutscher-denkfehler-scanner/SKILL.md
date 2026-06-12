@@ -52,10 +52,10 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Welche konkrete Kategorie EU-Recht — Verordnung, Richtlinie, Charta, AEUV-Grundfreiheit?
-2. Handelt ein Privatmann oder der Staat — unterschiedliche Pruefmuster!
+2. Handelt ein Privatmann oder der Staat — unterschiedliche Prüfmuster!
 3. Rechtsfolge: Direktwirkung, Vorrang, Staatshaftung, Vorlage?
 
-## Output-Template: Denkfehler-Pruefliste
+## Output-Template: Denkfehler-Prüfliste
 
 ```
 EU-RECHT DENKFEHLER-SCAN

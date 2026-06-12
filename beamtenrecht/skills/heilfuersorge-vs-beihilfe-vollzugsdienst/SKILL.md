@@ -50,7 +50,7 @@ Skill für Beamte in der Heilfürsorge (Bundespolizei, Bundeswehr, Justizvollzug
 
 ## 5. Ausgabeformat
 
-- Pruefraster Heilfürsorge oder Beihilfe.
+- Prüfraster Heilfürsorge oder Beihilfe.
 - Antrag auf Erstattung Sondermassnahme.
 - Beratungsschreiben zu Ueberleitung in Ruhestand.
 
@@ -58,8 +58,8 @@ Skill für Beamte in der Heilfürsorge (Bundespolizei, Bundeswehr, Justizvollzug
 
 - Heilfürsorgevorschriften Bund (z. B. Bundespolizei, Bundeswehr, Justizvollzug des Bundes) und landesrechtliche Heilfürsorgeerlasse.
 - BBhV; landesrechtliche Beihilfeverordnungen für Uebergang in den Ruhestand.
-- § 70 BBG (Fuersorgepflicht); § 78 BBG; § 45 BeamtStG.
-- BVerwG zum Verhaeltnis Heilfürsorge und Beihilfe — Az vor Zitat live verifizieren.
+- § 70 BBG (Fürsorgepflicht); § 78 BBG; § 45 BeamtStG.
+- BVerwG zum Verhältnis Heilfürsorge und Beihilfe — Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)
 

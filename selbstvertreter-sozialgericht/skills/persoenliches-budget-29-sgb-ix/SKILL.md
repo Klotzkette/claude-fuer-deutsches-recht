@@ -47,7 +47,7 @@ description: "Persoenliches Budget nach § 29 SGB IX. Skill klaert die Vorausset
 - Familienunterstuetzende Dienste.
 - Mobilitaet (Fahrtkosten).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Leistung als Budget?
 2. Zielvereinbarung formuliert?

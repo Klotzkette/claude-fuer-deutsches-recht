@@ -1,6 +1,6 @@
 ---
 name: mitwirkungspflicht-60-bis-67-sgb-i
-description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster."
+description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Prüfraster."
 ---
 
 # Mitwirkungspflicht 60 Bis 67 Sgb I
@@ -15,7 +15,7 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 
 ### § 60 SGB I — Angabe
 - Tatsachen die für Leistung erheblich sind angeben.
-- Aenderungen mitteilen.
+- Änderungen mitteilen.
 - Beweismittel vorlegen.
 
 ### § 61 SGB I — Persoenliches Erscheinen
@@ -44,7 +44,7 @@ description: "Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. S
 
 - § 67 SGB I — Nachholung der Mitwirkung mit Wirkung für Zukunft.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Mitwirkungspflicht?
 2. Aufforderung mit Folgenhinweis ergangen?

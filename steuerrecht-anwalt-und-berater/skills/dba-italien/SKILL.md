@@ -82,7 +82,7 @@ Das DBA-Italien vom 18.10.1989 ist eines der wichtigsten Wirtschaftsabkommen Deu
 ## Strategie und Praxis-Tipps
 
 - Subject-to-Tax-Klausel DBA-Italien war Ausgangspunkt für § 50d Abs. 9 EStG-Entwicklung — bei jeder Freistellung sauber prüfen, ob italienische Besteuerung erfolgt ist.
-- Italienische Holding (S.p.A.): Substanz prüfen — Personal, Geschaeftsfuehrung, Investitionsentscheidungen.
+- Italienische Holding (S.p.A.): Substanz prüfen — Personal, Geschäftsführung, Investitionsentscheidungen.
 - Italienische Quellensteuer auf Dividenden: Erstattung via italienisches FA (nicht BZSt) bei italienischen Quellen; bei deutschen Quellen BZSt.
 - Suedtiroler ohne deutsche Staatsangehoerigkeit: Wohnsitz Italien, ggf. deutsche Auftraggeber — sorgfaeltige Tie-Breaker-Prüfung.
 - EU-MTRL geht DBA bei Schachtel-Dividenden in der Regel vor.

@@ -1,6 +1,6 @@
 ---
 name: bescheid-lesen-tenor-begruendung-belehrung
-description: "Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster."
+description: "Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Prüfraster."
 ---
 
 # Bescheid Lesen Tenor Begruendung Belehrung
@@ -53,7 +53,7 @@ description: "Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines
 6. Rechtsbehelfsbelehrung prüfen.
 7. Widerspruchsentwurf vorbereiten.
 
-## Pruefraster
+## Prüfraster
 
 1. Tenor klar?
 2. Begruendung nachvollziehbar?

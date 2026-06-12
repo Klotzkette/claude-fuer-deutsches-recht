@@ -49,7 +49,7 @@ Sie hatten einen Arbeitsunfall. Oder eine Berufskrankheit. Die Berufsgenossensch
 
 Vier Voraussetzungen:
 
-1. **Versicherte Person** (Beschaeftigte etc.)
+1. **Versicherte Person** (Beschäftigte etc.)
 2. **Im Zusammenhang mit der versicherten Taetigkeit**
 3. **Plotzlich von aussen**
 4. **Koerperschaden**

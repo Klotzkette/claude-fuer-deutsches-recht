@@ -1,6 +1,6 @@
 ---
 name: irland-supreme-court-proportionality
-description: Irische Verhaeltnismaessigkeitsdogmatik des Supreme Court of Ireland mit dem Heaney Test aus Heaney v Ireland 1994 IR 593 als Drei-Stufen-Test rational connection minimal impairment proportionate effect rezipiert aus R v Oakes Kanada. Mit Bezug auf unenumerated rights Art 40 III Constitution und ECHR Act 2003 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die juengste Reform durch Bunreacht na hEireann-Pruefungslinien.
+description: Irische Verhältnismäßigkeitsdogmatik des Supreme Court of Ireland mit dem Heaney Test aus Heaney v Ireland 1994 IR 593 als Drei-Stufen-Test rational connection minimal impairment proportionate effect rezipiert aus R v Oakes Kanada. Mit Bezug auf unenumerated rights Art 40 III Constitution und ECHR Act 2003 und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die juengste Reform durch Bunreacht na hEireann-Prüfungslinien.
 ---
 
 # Irland Supreme Court Proportionality

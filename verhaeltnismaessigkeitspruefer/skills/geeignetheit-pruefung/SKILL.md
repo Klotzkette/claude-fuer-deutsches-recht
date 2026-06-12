@@ -1,11 +1,11 @@
 ---
 name: geeignetheit-pruefung
-description: Stufe 2 der Verhaeltnismaessigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen.
+description: Stufe 2 der Verhältnismäßigkeit Geeignetheit als Foerderung des Zwecks ohne volle Zweckerreichung. Mit Hinweisen zur Einschaetzungspraerogative des Gesetzgebers und zur ex-ante Perspektive bei Prognosen.
 ---
 
 # Geeignetheit Prüfung
 
-## Massstab
+## Maßstab
 
 Das Mittel muss den Zweck **foerdern können**. Nicht erforderlich ist,
 dass es den Zweck **vollstaendig erreicht**.
@@ -13,7 +13,7 @@ dass es den Zweck **vollstaendig erreicht**.
 BVerfGE 30, 292 (Erdoelbevorratung) (Erdoelbevorratung): "Geeignet ist eine Maßnahme
 schon dann, wenn mit ihrer Hilfe der gewuenschte Erfolg gefoerdert werden kann."
 
-## Pruefungsperspektive
+## Prüfungsperspektive
 
 Massgeblich ist die **ex-ante Sicht des Gesetzgebers**. Spaetere
 Erkenntnisse, dass das Mittel doch nicht half, machen es nicht

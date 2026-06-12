@@ -48,7 +48,7 @@ description: "Franchise: Verguetungsmodelle initial und laufend. Skill klaert di
 - Skalierbarkeit mit Standortgroesse.
 - Datenschutz, Auftragsverarbeitung, Cybersecurity, POS-Datenzugriff, Exit-Datenexport und Preisänderungsklausel mitprüfen.
 
-## Pruefraster
+## Prüfraster
 
 1. Verguetungsstruktur klar?
 2. Marketing-Fund transparent verwendet?

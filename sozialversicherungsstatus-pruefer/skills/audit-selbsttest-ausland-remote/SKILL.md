@@ -1,6 +1,6 @@
 ---
 name: audit-selbsttest-ausland-remote
-description: "Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch im Sozialversicherungsstatus Pruefer."
+description: "Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch im Sozialversicherungsstatus Prüfer."
 ---
 
 # Audit-Selbsttest Unternehmen

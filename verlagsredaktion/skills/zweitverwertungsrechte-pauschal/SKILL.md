@@ -15,7 +15,7 @@ description: "Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizen
 
 ## Worum geht es konkret
 
-Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinstellung, Sonderdruck, Festschriftsuebernahme, Aufsatzbuendelung, Open Access nach Embargofrist, Bearbeitung für Lehrgaenge. Der Skill systematisiert diese Rechte, klaert das Verhaeltnis von Verlag und Autor, erlaeutert das gesetzliche Zweitverwertungsrecht nach UrhG § 38 und schlaegt eine pauschale Auskehr vor.
+Neben der Hauptverwertung (Print, E-Book) entstehen Nebenrechte: Datenbankeinstellung, Sonderdruck, Festschriftsuebernahme, Aufsatzbuendelung, Open Access nach Embargofrist, Bearbeitung für Lehrgaenge. Der Skill systematisiert diese Rechte, klaert das Verhältnis von Verlag und Autor, erläutert das gesetzliche Zweitverwertungsrecht nach UrhG § 38 und schlaegt eine pauschale Auskehr vor.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 

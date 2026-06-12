@@ -16,7 +16,7 @@ description: "Bruecke von der Rulemap in den Verwaltungsvollzug: Antragsverfahre
 
 Eine Rulemap wirkt erst im Verwaltungsverfahren. Die Vollzugstauglichkeit fragt: welche Behörde welche Stufe; welcher Bescheid; welche Begruendung; welche Rechtsmittelbelehrung; welcher Antrag; welche Schnittstellen zu Fachverfahren (BImSchG-Verfahren; Wind-Genehmigung; OZG-Service). Die SPRIND-Argumentation: Genehmigungsverfahren von Jahren auf Wochen verkuerzen; Parallelarbeit mehrerer Aemter.
 
-## Pruefpunkte
+## Prüfpunkte
 
 Prüfen: wo bleibt die Letztverantwortung beim Menschen (Art. 22 DSGVO)? Sind alle Beteiligungsrechte abgebildet (Drittbeteiligung; UVP)? Bleibt die Aktenfuehrung nachvollziehbar?
 

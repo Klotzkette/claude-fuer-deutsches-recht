@@ -1,6 +1,6 @@
 ---
 name: alternativen-keine-regelung-soft-law
-description: "Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem"
+description: "Systematische Prüfung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem"
 ---
 
 # NKR-Alternativen-Prüfung — Verzicht, Soft-Law, Vollzug
@@ -20,12 +20,12 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 44 Abs. 1 Nr. 4 GGO** — Pruefpflicht "Alternativen"
+- **§ 44 Abs. 1 Nr. 4 GGO** — Prüfpflicht "Alternativen"
 - **NKRG** § 4
 - **Leitfaden BMI / NKR** — Alternativenpruefung als Standardelement
 - **Better Regulation Guidelines** EU — Options Analysis
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 5-Stufen-Hierarchie (vom mildesten zum staerksten Eingriff)
 

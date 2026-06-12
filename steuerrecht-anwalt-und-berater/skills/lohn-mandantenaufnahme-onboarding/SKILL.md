@@ -13,7 +13,7 @@ description: "Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme
 
 ## Kernsachverhalt
 
-Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stammdaten zum Arbeitgeber und allen Arbeitnehmern, SV-Nummern, Steuer-IDs, ELStAM-Abruf, Berufsgenossenschaft, ggf. Versorgungswerk. Fehlende oder fehlerhafte Stammdaten fuehren zu später aufwendigen Korrekturen. Der Steuerberater nutzt eine Standard-Checkliste, die in DATEV LODAS, Lohn und Gehalt oder einem aequivalenten Programm zu hinterlegen ist.
+Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stammdaten zum Arbeitgeber und allen Arbeitnehmern, SV-Nummern, Steuer-IDs, ELStAM-Abruf, Berufsgenossenschaft, ggf. Versorgungswerk. Fehlende oder fehlerhafte Stammdaten fuehren zu später aufwendigen Korrekturen. Der Steuerberater nutzt eine Standard-Checkliste, die in DATEV LODAS, Lohn und Gehalt oder einem äquivalenten Programm zu hinterlegen ist.
 
 ## Kaltstart-Rueckfragen
 
@@ -36,7 +36,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 **§ 14 SGB IV** — Arbeitsentgelt-Definition.
 
-**§ 8 SGB IV** — geringfuegige Beschaeftigung.
+**§ 8 SGB IV** — geringfuegige Beschäftigung.
 
 **§ 1 LStDV** — Anwendungsbereich.
 
@@ -48,7 +48,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 ### Standards
 
-- DATEV-Stammdaten-Pruefliste.
+- DATEV-Stammdaten-Prüfliste.
 - DEUEV (Datenerfassungs- und -uebermittlungsverordnung).
 - Gemeinsame Rundschreiben Spitzenverbaende Krankenkassen.
 
@@ -78,7 +78,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 | Steuerklasse, Kinderfreibetrag | ELStAM-Abruf |
 | Konfession (KiSt-Pflicht) | ELStAM |
 | Adresse | Anmeldebescheinigung |
-| Beschaeftigungsbeginn / Eintrittsdatum | Arbeitsvertrag |
+| Beschäftigungsbeginn / Eintrittsdatum | Arbeitsvertrag |
 | Vereinbarte Arbeitszeit | Arbeitsvertrag |
 | Brutto-Gehalt | Arbeitsvertrag |
 | Sonderleistungen | Arbeitsvertrag, BV |
@@ -89,12 +89,12 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 - Voraussetzung: Steuer-Id (11-stellig) des AN.
 - Abrufschluessel: AG-Steuer-Nr (FA-Schlüssel + AG-Nr) und Geburtsdatum des AN.
 - Abruf-Zeitpunkt: vor der ersten Lohnabrechnung, in DATEV LODAS unter Mandant → Mitarbeiterverwaltung → ELStAM-Anmeldung; bei DATEV Lohn und Gehalt unter Stamm → ELStAM-Verfahren. Ruecklauf in der Regel binnen Sekunden.
-- Erst-Anmeldung mit Anlassgrund "Beginn der Beschaeftigung"; Folgemonatlich automatische Aktualisierung bei Aenderungen (Steuerklasse, KiFB, KKB).
+- Erst-Anmeldung mit Anlassgrund "Beginn der Beschäftigung"; Folgemonatlich automatische Aktualisierung bei Änderungen (Steuerklasse, KiFB, KKB).
 
 ### Phase 4 — SV-Anmeldung
 
 - Anmeldung des Arbeitnehmers bei der Krankenkasse (zugleich für RV und PV).
-- Meldung Beschaeftigungsbeginn binnen 6 Wochen (§ 28a SGB IV).
+- Meldung Beschäftigungsbeginn binnen 6 Wochen (§ 28a SGB IV).
 - Bei Minijob: Anmeldung bei Minijob-Zentrale (Knappschaft-Bahn-See).
 - Sofortmeldung in Sonderbranchen (§ 28a Abs. 4 SGB IV): Bau, Gaststaette, Fleischwirtschaft.
 
@@ -119,7 +119,7 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 - Bei Konzern-Mandanten: zentrale Konsistenz prüfen (gleiche Konto-Nummern, Kostenstellen).
 - Mandantenvereinbarung schriftlich — Lohnbuchfuehrung StBVV § 35 separater Auftrag.
 - Erstes Lohn-Jahr immer mit Stichproben prüfen (Sachbezuege, Pauschalsteuer, SV-Klassifikation).
-- DATEV-Tipp: DATEV LODAS Mandanten-Anlage mit Pruefliste; bei Datenuebernahme aus Vorprogramm (z.B. Lexware) erweiterte Prüfung.
+- DATEV-Tipp: DATEV LODAS Mandanten-Anlage mit Prüfliste; bei Datenuebernahme aus Vorprogramm (z.B. Lexware) erweiterte Prüfung.
 
 ## Quellen und Updates
 

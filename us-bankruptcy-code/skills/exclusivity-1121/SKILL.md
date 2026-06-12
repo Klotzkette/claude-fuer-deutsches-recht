@@ -1,6 +1,6 @@
 ---
 name: exclusivity-1121
-description: "Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code."
+description: "Prüft debtor exclusivity, extension, termination, competing plans and negotiation leverage im US Bankruptcy Code."
 ---
 
 # Exclusivity § 1121

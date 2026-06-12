@@ -21,7 +21,7 @@
 | Freitext Organisation |  | eigener oder fremder Eintrag auffinden |  |  |
 | Freitext Marke/Projekt |  | Varianten, Schreibweisen, Zweigniederlassungen finden |  |  |
 | Registernummer |  | amtlichen Eintrag ziehen |  |  |
-| Version |  | Aenderungshistorie prüfen |  |  |
+| Version |  | Änderungshistorie prüfen |  |  |
 | Statistik | `statistics/registerentries` | Datenstand der Abfrage dokumentieren |  |  |
 
 ## Abfragebefehle
@@ -65,5 +65,5 @@ curl -H "Authorization: ApiKey ${LOBBYREGISTER_API_KEY}" \
 - Ein Treffer:
 - Mehrere Treffer:
 - Dublette oder Zweigniederlassungsrisiko:
-- Aenderungsbedarf im Portal:
+- Änderungsbedarf im Portal:
 - Monitoring wiederholen am:

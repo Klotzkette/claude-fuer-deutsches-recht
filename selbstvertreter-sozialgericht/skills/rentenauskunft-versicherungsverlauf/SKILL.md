@@ -1,6 +1,6 @@
 ---
 name: rentenauskunft-versicherungsverlauf
-description: "Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Pruefraster."
+description: "Rentenauskunft und Versicherungsverlauf prüfen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken prüfen Korrekturantrag stellen. Wichtig für EM-Rente Altersrente Witwenrente. Liefert Prüfraster."
 ---
 
 # Rentenauskunft Und Versicherungsverlauf Prüfen
@@ -22,12 +22,12 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wi
 - Online im DRV-Portal.
 - Schriftlich bei der DRV.
 
-## Pruefraster
+## Prüfraster
 
 ### 1. Vollstaendigkeit
 - Schule (Hochschule Ausbildung).
 - Wehr-/Zivildienst.
-- Beschaeftigungszeiten.
+- Beschäftigungszeiten.
 - Kindererziehung.
 - Pflegezeiten.
 - Arbeitslosigkeit.
@@ -54,7 +54,7 @@ description: "Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wi
 - Vor Rentenantrag Konto klären — Beitraege zaehlen!
 - Bei Witwenrente Verlauf des Verstorbenen prüfen.
 
-## Pruefraster
+## Prüfraster
 
 1. Aktuelle Rentenauskunft?
 2. Vollstaendigkeitscheck?

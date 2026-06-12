@@ -24,7 +24,7 @@ Keine Rueckfrage noetig, wenn Zahlen vorliegen.
 - **§ 45 GGO** — Darstellung in der Begruendung
 - **One-in-one-out-Regel** der Bundesregierung 2015 (Stand zu prüfen)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Einmaliger Umstellungsaufwand
 

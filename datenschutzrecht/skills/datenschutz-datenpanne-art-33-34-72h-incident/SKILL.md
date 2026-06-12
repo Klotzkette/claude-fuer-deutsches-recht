@@ -40,8 +40,8 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 ## Mandantenfuehrung Schritt-für-Schritt
 
 1. **Sachverhalt klären — NICHT vorschnell handeln.** Erste 4-8 Stunden: Fakten sammeln, Zeitstrahl, Personenkreis. Noch nichts ausserhalb des Mandanten kommunizieren. Vermeiden Sie pauschale Selbstvorwuerfe in Mails (werden im Bussgeldverfahren zur Akte).
-2. **Risikobewertung dokumentieren.** Matrix: Eintrittswahrscheinlichkeit Risiko x Schwere. EDSA-Leitlinien 9/2022 als Massstab.
-3. **Mandantenfreigabe einholen.** Geschaeftsfuehrung, DSB nach Art. 37 DSGVO, ggf. IT-Sicherheitsbeauftragter, ggf. Betriebsrat.
+2. **Risikobewertung dokumentieren.** Matrix: Eintrittswahrscheinlichkeit Risiko x Schwere. EDSA-Leitlinien 9/2022 als Maßstab.
+3. **Mandantenfreigabe einholen.** Geschäftsführung, DSB nach Art. 37 DSGVO, ggf. IT-Sicherheitsbeauftragter, ggf. Betriebsrat.
 4. **Aufsicht melden — innerhalb 72 Stunden ab Kenntnis.** Stufenmeldung Art. 33 IV nutzen, wenn Fakten noch unklar. Lieber knapp und ehrlich als spekulativ ueberschwaenglich.
 5. **Betroffene benachrichtigen — nur bei hohem Risiko Art. 34 I.** Bei wirksamer Verschluesselung Ausnahme Art. 34 III a prüfen. Nicht voreilig benachrichtigen, wenn Risiko gering — sonst unnoetige Sorge und Reputationsschaden.
 6. **Maßnahmen einleiten.** Passworter zuruecksetzen, Zugaenge sperren, Backup aktivieren, Vorfall eindaemmen.
@@ -51,7 +51,7 @@ Sieben-Fragen-Diagnose mit Antwort-Pattern:
 
 | Variante | Vorteil | Nachteil |
 |---|---|---|
-| Sofortmeldung unter 24h | Kooperation signalisiert, Bussgeldmilderung Art. 83 II c | Unvollstaendige Fakten erhoehen spaeteren Aenderungsbedarf |
+| Sofortmeldung unter 24h | Kooperation signalisiert, Bussgeldmilderung Art. 83 II c | Unvollstaendige Fakten erhoehen spaeteren Änderungsbedarf |
 | Stufenmeldung Art. 33 IV | Frist gewahrt, Praezision steigt | Mehr Schreibarbeit, Aufsicht erwartet Update |
 | Verschluesselungs-Ausnahme Art. 34 III a | Spart Massenbenachrichtigung | Wirksamkeit muss dokumentiert sein (Schlüssel sicher, Algorithmus aktuell) |
 | Oeffentliche Bekanntmachung Art. 34 III c | Spart Einzelbenachrichtigung | Reputationsschaden, Anwaltsabmahnung |
@@ -107,7 +107,7 @@ Aktuelles Risiko: [niedrig / mittel / hoch]
 
 - Frist 72h aus Art. 33 I DSGVO ab Vorfall statt ab Kenntnis berechnen.
 - Selbstbelastung in interner Mail-Kommunikation ("wir hatten doch gesagt, das Backup macht keiner").
-- Verschluesselungs-Ausnahme Art. 34 III a behaupten, ohne Schluesselverwaltung und Algorithmus zu belegen.
+- Verschluesselungs-Ausnahme Art. 34 III a behaupten, ohne Schlüsselverwaltung und Algorithmus zu belegen.
 - Betroffene per Massen-E-Mail aus dem System informieren, das gerade kompromittiert wurde.
 - Stufenmeldung Art. 33 IV genannt, aber nie Update geliefert.
 

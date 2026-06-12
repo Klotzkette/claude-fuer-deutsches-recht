@@ -23,7 +23,7 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 - Sie streiten über die Reichweite eines neuen Tatbestandsmerkmals und brauchen die BT-Drucksache.
 - Sie argumentieren mit der ratio legis und wollen sie historisch absichern.
 - Sie streiten mit der Gegenseite darueber, ob ein bestimmter Fall vom Gesetzgeber bewusst nicht geregelt wurde.
-- Sie prüfen die Umsetzung einer EU-Richtlinie und wollen das Verhaeltnis Richtlinie / nationales Umsetzungsgesetz prüfen.
+- Sie prüfen die Umsetzung einer EU-Richtlinie und wollen das Verhältnis Richtlinie / nationales Umsetzungsgesetz prüfen.
 
 ## Methodische Grundlage
 
@@ -32,7 +32,7 @@ In der Praxis ist die Historie haeufig nachgeordnet, weil Materialien lueckenhaf
 **Zwei Theorie-Pole:**
 
 1. **Subjektive Theorie:** Massgeblich ist der Wille des historischen Gesetzgebers, wie er sich aus den Materialien ergibt. Vertreten u. a. von Ernst Forsthoff. Argumentiert demokratisch: Nur was die parlamentarische Mehrheit beschlossen hat, ist Gesetz.
-2. **Objektive Theorie:** Massgeblich ist der Wille, der dem Gesetz selbst objektiv zu entnehmen ist, unabhaengig von subjektiven Vorstellungen des historischen Gesetzgebers. Argumentiert mit Geltungsdauer: Gesetze bleiben in Geltung, auch wenn die Welt sich aendert.
+2. **Objektive Theorie:** Massgeblich ist der Wille, der dem Gesetz selbst objektiv zu entnehmen ist, unabhaengig von subjektiven Vorstellungen des historischen Gesetzgebers. Argumentiert mit Geltungsdauer: Gesetze bleiben in Geltung, auch wenn die Welt sich ändert.
 
 Die heutige BGH-Rechtsprechung folgt einer **vermittelnden Linie**: Massgeblich ist der "objektivierte Wille des Gesetzgebers", wie er aus Wortlaut, Sinnzusammenhang, fachliche Einordnung und Zweck folgt. Die Materialien werden als Auslegungshilfe genutzt, nicht als bindendes Auslegungssubstitut.
 

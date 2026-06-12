@@ -151,7 +151,7 @@ Anlage K2: MFM-Honorarempfehlungen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Werk klar identifiziert und Schutzmerkmal bejaht?
 2. Verletzungshandlung konkret nachgewiesen (Screenshot mit Datum)?

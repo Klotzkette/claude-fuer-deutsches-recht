@@ -87,7 +87,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 236 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -154,8 +154,8 @@ Automatisch generierte Komplett-Liste aller 236 Skills in diesem Plugin. Beschre
 | `laerm-geruch-stoerung` | Lärm/Geruch/Störung: Fachmodul im Miet- und Wohnungseigentumsrecht: macht Störungsprotokoll, Zeugen, Messung, Minderungs- und Unterlassungsstrategie; mit Normprüfung, Beweisen, Fristen, Ris... |
 | `makler-courtage-mietrecht` | Maklercourtage Mietrecht: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Bestellerprinzip, Nachweis, Vermittlung, Provisionsabrede; mit Normprüfung, Beweisen, Fristen, Risikoampe... |
 | `miet-betriebskostenabrechnung-checkliste` | Betriebskostenabrechnung im Fachanwaltsmandat schnell prüfen oder erstellen: Mietvertragsklausel, § 556 BGB, BetrKV, HeizkostenV, CO2KostAufG, formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, Einwendung... |
-| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung: Pruefraster typische Forderungen Vermieter... |
-| `miet-modernisierungsmieterhoehung-leitfaden` | Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze: Pruefraster Vermieter und M... |
+| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung: Prüfraster typische Forderungen Vermieter... |
+| `miet-modernisierungsmieterhoehung-leitfaden` | Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze: Prüfraster Vermieter und M... |
 | `miet-tatbestand-beweis-und-belege` | Miet: Tatbestandsmerkmale, Beweisfragen und Beleglage im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt... |
 | `miet-weg-mediation-mietverein-schlichtung` | Miet- und WEG-Streit Mediation: Mieterverein- und Vermieterverein-Schlichtung. WEG-Mediation § 44 WEG Beschluss-Streit. Eigentümerversammlungs-Konflikt. Mediator vermittelt Verwalter Eigentümer. Mietminderung-Vergleich Räumun... |
 | `miet-weg-waermepumpe-geg` | Beschlussfassung WEG zur Waermepumpen-Aufstellung gem: § 20 WEG nach GEG 2024. 65-Prozent-Pflicht erneuerbare Energien § 71 GEG. Privilegierte Beschlüsse § 20 Abs. 2 Nr. 2 WEG mit einfacher Mehrheit. A... |

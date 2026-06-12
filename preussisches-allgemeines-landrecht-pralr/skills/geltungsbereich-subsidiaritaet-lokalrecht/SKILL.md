@@ -32,7 +32,7 @@ description: "PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen,
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **Einl. § 1 ALR**: ALR gilt subsidiaer.
 - **Einl. § 2 ALR**: "Provinzialrechte, Statutarrechte und Gewohnheiten" der einzelnen Provinzen gelten vor dem ALR.
 - **Einl. §§ 3-7 ALR**: Sondervorschriften zur Anwendungsrangordnung.

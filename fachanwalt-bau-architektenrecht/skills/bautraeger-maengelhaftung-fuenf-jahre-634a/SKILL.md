@@ -18,7 +18,7 @@ description: "Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB: Skill klaert d
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
+**Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjährungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Prüfraster.
 
 ### Bautraeger Maengelhaftung Fuenf Jahre 634A
 
@@ -33,7 +33,7 @@ description: "Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB: Skill klaert d
 
 ## Hemmung
 
-- §§ 203, 204 BGB: Verhandlungen, Mahnverfahren, Klage, selbstaendiges Beweisverfahren.
+- §§ 203, 204 BGB: Verhandlungen, Mahnverfahren, Klage, selbständiges Beweisverfahren.
 
 ## Maengelarten
 
@@ -48,7 +48,7 @@ description: "Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB: Skill klaert d
 ### Arglistig verschwiegene Maengel
 - Verjährung in 10 Jahren (§ 634a Abs. 3 BGB iVm § 199 BGB).
 
-## Pruefraster
+## Prüfraster
 
 1. Wann wurde abgenommen?
 2. Wann wurde Mangel entdeckt?

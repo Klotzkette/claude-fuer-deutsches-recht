@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-pfaendung-planen
-description: "Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Rücknahme-Strategie im Luftrecht Flughafe..."
+description: "Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Gläubiger will in geleaste Flugzeuge vollstrecken. Prüft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Rücknahme-Strategie im Luftrecht Flughafe..."
 ---
 
 # Flugzeugleasing – Pfändung planen

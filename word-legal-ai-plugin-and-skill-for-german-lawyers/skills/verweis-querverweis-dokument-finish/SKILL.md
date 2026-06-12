@@ -139,7 +139,7 @@ zu beachten sind, vorbehaltlich der Sonderregelungen in den Anlagen
 zur Geheimhaltung.
 ```
 
-**Pruefbericht:**
+**Prüfbericht:**
 
 - "im Vorstehenden": ohne Bezug. Streichen.
 - "in den nachstehenden Bestimmungen": keine Klauselnummer. Konkretisieren.

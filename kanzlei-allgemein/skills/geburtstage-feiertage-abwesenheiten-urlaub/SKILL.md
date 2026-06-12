@@ -17,7 +17,7 @@ description: "Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler
 1. Liegt eine Einwilligung des Empfaengers vor, oder wird auf berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO) gestuetzt?
 2. Sollen postalische Karten, E-Mails oder digitale Nachrichten versandt werden?
 3. Gibt es einen Widerspruch (Art. 21 DSGVO) einzelner Empfaenger zu beruecksichtigen?
-4. Betrifft der Versand Verbraucher (strenger Datenschutz) oder Geschaeftskunden?
+4. Betrifft der Versand Verbraucher (strenger Datenschutz) oder Geschäftskunden?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

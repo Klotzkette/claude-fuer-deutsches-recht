@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-abgeschlossenheitsbescheinigung
-description: "WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag: Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster."
+description: "WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag: Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Prüfraster."
 ---
 
 # WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag
@@ -14,7 +14,7 @@ description: "WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag: Skill 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster.
+**Fokus:** WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Prüfraster.
 
 ### Bautraeger Weg Abgeschlossenheitsbescheinigung
 
@@ -38,7 +38,7 @@ description: "WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag: Skill 
 - Bei nicht-abgeschlossener Beschaffenheit (z. B. fehlende Tueren).
 - Wohnung "geht durch" eine andere Wohnung.
 
-## Pruefraster
+## Prüfraster
 
 1. Abgeschlossenheitsbescheinigung vorhanden?
 2. Datum der Ausstellung?

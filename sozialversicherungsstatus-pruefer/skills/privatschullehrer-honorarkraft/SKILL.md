@@ -1,6 +1,6 @@
 ---
 name: privatschullehrer-honorarkraft
-description: "Prüft Honorarkräfte an Privatschulen mit Lehrplan, Stundenplan, Klassenverband und Schulorganisation im Sozialversicherungsstatus Pruefer."
+description: "Prüft Honorarkräfte an Privatschulen mit Lehrplan, Stundenplan, Klassenverband und Schulorganisation im Sozialversicherungsstatus Prüfer."
 ---
 
 # Privatschullehrer Honorarkraft

@@ -1,6 +1,6 @@
 ---
 name: berufsstaendische-versorgung-anwaelte
-description: "Prüft Versorgungswerk, Rentenbefreiung und Statusfragen bei Anwälten, Syndizi und freien Mitarbeitern im Sozialversicherungsstatus Pruefer."
+description: "Prüft Versorgungswerk, Rentenbefreiung und Statusfragen bei Anwälten, Syndizi und freien Mitarbeitern im Sozialversicherungsstatus Prüfer."
 ---
 
 # Berufsständische Versorgung Anwälte

@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -116,7 +116,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§§ 311 II, 241 II BGB** — Q&A-Antworten binden vorvertraglich; falsche Antworten = c.i.c.-Haftung
 - **§ 444 BGB** — Arglist kann durch Q&A-Antworten nicht ausgeschlossen werden; vollstaendige Offenlegung noetig
 - **Art. 18 MAR** — bei borsennotierten Zielgesellschaften: Q&A können Insider-Infos enthalten; nur autorisierte Personen dürfen antworten
-- **§ 17 UWG** — Geschaeftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
+- **§ 17 UWG** — Geschäftsgeheimnis; manche Fragen zielen auf vertrauliche Informationen ab
 
 ## Aktuelle Rechtsprechung
 
@@ -127,7 +127,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 | Schritt | Inhalt | Owner | Frist |
 |---|---|---|---|
 | Frage eingeht | Bieter stellt schriftliche Frage im DR-System | Bieter | — |
-| Eingang bestaetigten | Quittung und Pruefdatum | Verkaefer-PMO | Sofort |
+| Eingang bestaetigten | Quittung und Prüfdatum | Verkaefer-PMO | Sofort |
 | Zustaendigen bestimmen | Wer beantwortet diese Frage: Legal, Tax, Management? | PMO | 24h |
 | Antwort entwerfen | Entwurf durch Zustaendigen | Workstream-Lead | 48-72h |
 | Review | Kanzlei oder Partner prüft Antwort; vollstaendig? Haftungsrisiko? | Partner | 24h |

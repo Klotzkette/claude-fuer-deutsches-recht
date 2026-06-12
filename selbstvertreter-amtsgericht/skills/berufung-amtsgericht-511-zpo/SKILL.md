@@ -49,7 +49,7 @@ Beschwer = Differenz zwischen Ihrem Antrag und der Entscheidung.
 - Sie klagten 1.500 EUR, 700 EUR zugesprochen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung (unter 1.000 EUR).
 - Sie klagten 800 EUR, voll abgewiesen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung.
 
-**Hinweis zur Reform**: Die Wertgrenze wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Für Altverfahren gilt **§ 47 EGZPO**: die alte Wertgrenze 600 EUR bleibt anwendbar, wenn (a) die anzufechtende Entscheidung bis einschliesslich 31.12.2025 verkuendet bzw. der Geschaeftsstelle uebergeben wurde, oder (b) die muendliche Verhandlung bis einschliesslich 31.12.2025 geschlossen war (bei schriftlichen Verfahren: bis dahin Schriftsatzfrist abgelaufen). Beispiel: AG-Urteil vom 18.11.2025, Beschwer 800 EUR → Berufung ist ohne Zulassung statthaft.
+**Hinweis zur Reform**: Die Wertgrenze wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Für Altverfahren gilt **§ 47 EGZPO**: die alte Wertgrenze 600 EUR bleibt anwendbar, wenn (a) die anzufechtende Entscheidung bis einschliesslich 31.12.2025 verkuendet bzw. der Geschäftsstelle uebergeben wurde, oder (b) die muendliche Verhandlung bis einschliesslich 31.12.2025 geschlossen war (bei schriftlichen Verfahren: bis dahin Schriftsatzfrist abgelaufen). Beispiel: AG-Urteil vom 18.11.2025, Beschwer 800 EUR → Berufung ist ohne Zulassung statthaft.
 
 ### Schritt 2 — Bei Beschwer bis 1.000 EUR: Zulassung im Urteil
 

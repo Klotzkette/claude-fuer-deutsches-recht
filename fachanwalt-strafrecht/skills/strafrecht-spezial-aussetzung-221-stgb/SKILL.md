@@ -92,7 +92,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 - **§ 225 StGB:** Bei Schutzbefohlenen Tateinheit möglich; § 225 StGB schuetzt umfassender (Quaelen, Misshandeln).
 - **§ 227 StGB:** Bei Todesfolge der Koerperverletzung – Tateinheit oder Spezialitaet streitig.
 - **§ 323c StGB:** Bei fehlender Garantenstellung – unterlassene Hilfeleistung als Auffangtatbestand.
-- **§ 171 StGB:** Verletzung Fuersorgepflicht – allgemein.
+- **§ 171 StGB:** Verletzung Fürsorgepflicht – allgemein.
 
 ## Strafzumessung
 

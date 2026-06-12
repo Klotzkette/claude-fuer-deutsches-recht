@@ -1,9 +1,9 @@
 ---
 name: dolmetscher-und-uebersetzung
-description: "Hilft bei Dolmetscher Und Uebersetzung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
+description: "Hilft bei Dolmetscher Und Übersetzung für Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch im Juristische Sprache Deutsch Als Zweitsprache."
 ---
 
-# Dolmetscher Und Uebersetzung
+# Dolmetscher Und Übersetzung
 
 ## Arbeitsweg
 
@@ -18,7 +18,7 @@ description: "Hilft bei Dolmetscher Und Uebersetzung für Menschen mit Deutsch a
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

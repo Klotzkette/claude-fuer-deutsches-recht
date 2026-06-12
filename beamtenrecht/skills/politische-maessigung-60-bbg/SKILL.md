@@ -1,6 +1,6 @@
 ---
 name: politische-maessigung-60-bbg
-description: "Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Klaert die Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich die Reichweite bei privater Aeusserung in sozialen Medien die Grenze zur Verfassungstreue und das Verhaeltnis zur Meinungs- und Wissenschaftsfreih..."
+description: "Skill zur politischen Maessigungspflicht nach § 60 BBG bzw. § 33 BeamtStG. Klaert die Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich die Reichweite bei privater Aeusserung in sozialen Medien die Grenze zur Verfassungstreue und das Verhältnis zur Meinungs- und Wissenschaftsfreih..."
 ---
 
 # Politische Maessigungspflicht § 60 BBG
@@ -39,7 +39,7 @@ Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 - Auch Privataccounts ohne dienstliche Kennzeichnung können erfasst werden, wenn der Bezug zur Amtsstellung erkennbar ist.
 
 ### e) Grenze zur Verfassungstreue
-- Aeusserungen, die die freiheitlich demokratische Grundordnung bekaempfen, werden unter dem strengeren Massstab des § 7 BBG / § 33 Abs. 1 BeamtStG bewertet — Skill `verfassungstreue-7-bbg-reichsbuerger`.
+- Aeusserungen, die die freiheitlich demokratische Grundordnung bekaempfen, werden unter dem strengeren Maßstab des § 7 BBG / § 33 Abs. 1 BeamtStG bewertet — Skill `verfassungstreue-7-bbg-reichsbuerger`.
 
 ## 4. Quellenpflicht
 
@@ -62,4 +62,4 @@ Skill für Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Pruefraster Statusbezug, Meinungsfreiheit und Verhältnismäßigkeit moeglicher Disziplinarmassnahmen.
+Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Prüfraster Statusbezug, Meinungsfreiheit und Verhältnismäßigkeit moeglicher Disziplinarmassnahmen.

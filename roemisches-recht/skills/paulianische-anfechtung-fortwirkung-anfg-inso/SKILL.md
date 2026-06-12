@@ -28,7 +28,7 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 
 ### Vorsatz vs. consilium
 - Roemisches Recht: Bewusstsein der Schaedigung.
-- Modernes Recht: Glaeubigerbenachteiligungsvorsatz.
+- Modernes Recht: Gläubigerbenachteiligungsvorsatz.
 
 ### Frist
 - annus utilis: ein "nutzbares" Jahr ab Kenntnis.
@@ -41,11 +41,11 @@ description: "Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill b
 ## Rezeption
 
 - Glossatoren des 12./13. Jh. (Bologna) bearbeiteten D. 42.8 systematisch.
-- Pandektisten (Savigny, Windscheid) entwickelten die actio Pauliana zur "allgemeinen Glaeubigeranfechtungsklage".
+- Pandektisten (Savigny, Windscheid) entwickelten die actio Pauliana zur "allgemeinen Gläubigeranfechtungsklage".
 - BGB-Gesetzgeber 1900 verzichtete auf Aufnahme ins BGB, weil AnfG (1879) bereits geregelt.
-- AnfG 1879 als selbstaendiges Gesetz; Reformen 1899, 1994 (im Zuge der Insolvenzrechtsreform).
+- AnfG 1879 als selbständiges Gesetz; Reformen 1899, 1994 (im Zuge der Insolvenzrechtsreform).
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Tatbestand?
 2. Welche Frist?

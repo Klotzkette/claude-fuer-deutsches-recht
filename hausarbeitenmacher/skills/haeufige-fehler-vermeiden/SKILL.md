@@ -23,7 +23,7 @@ description: "Student will typische Fehler in juristischen Hausarbeiten vermeide
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
+- § 195 BGB — Regelverjaehrung: haeufig vergessener Prüfungspunkt, fuehrt zu Fehler 19
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie für korrekte Sachverhaltserfassung
 - § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab für Definitionen und Subsumtion

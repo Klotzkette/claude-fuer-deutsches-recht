@@ -1,6 +1,6 @@
 ---
 name: public-performance-records-search-publication
-description: "Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag."
+description: "Prüft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions im Us Copyright Registrierung Verlag."
 ---
 
 # Public Performance, Display und § 110

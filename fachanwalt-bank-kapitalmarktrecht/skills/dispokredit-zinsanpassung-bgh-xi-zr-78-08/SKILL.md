@@ -37,5 +37,5 @@ Ohne Referenzzinsbindung Zinsanpassungsklausel unwirksam; Anspruch auf Differenz
 ## Belege und Aktenlücken
 
 - Kontoauszuege
-- Allgemeine Geschaeftsbedingungen
+- Allgemeine Geschäftsbedingungen
 - EZB-Referenzzins

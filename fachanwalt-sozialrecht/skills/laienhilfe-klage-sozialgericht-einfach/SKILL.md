@@ -35,7 +35,7 @@ Dieser Skill erklaert **Klage Sozialgericht Einfach** so, dass auch Menschen ohn
 - Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid; drei Monate bei fehlender/fehlerhafter Belehrung § 66 SGG.
 - Klagearten: Anfechtungsklage § 54 Abs. 1 SGG (gegen Verwaltungsakt), Verpflichtungsklage § 54 Abs. 1 (auf Erlass VA), Leistungsklage § 54 Abs. 5 (auf konkrete Leistung), Feststellungsklage § 55 SGG.
 - Sachliche Zuständigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zuständigkeit § 57 SGG (Wohnsitz Kläger).
-- Klage zu Protokoll: § 90 SGG – Klage auch zur Niederschrift der Geschaeftsstelle möglich (besondere Erleichterung Selbstvertreter).
+- Klage zu Protokoll: § 90 SGG – Klage auch zur Niederschrift der Geschäftsstelle möglich (besondere Erleichterung Selbstvertreter).
 - Postulationsfaehigkeit: § 73 SGG – vor SG kein Anwaltszwang (vor LSG/BSG anders, § 73 Abs. 4 SGG).
 - Gerichtskostenfreiheit: § 183 SGG – Versicherte, Leistungsempfaenger und Behinderte sind gerichtskostenfrei; nur Anwaltskosten.
 - Praxis-Tipp: Klage in einfacher Sprache möglich – mindestens: "Ich klage gegen den Bescheid vom XX.XX.XXXX, Az. XXX, in Gestalt des Widerspruchsbescheids vom XX.XX.XXXX. Ich beantrage [konkret], weil [Sachverhalt/Argumente]." Belege beifuegen. Bei Selbstvertretung Skill "selbstvertreter-sozialgericht" nutzen; bei Beweisbedarf Antrag nach § 109 SGG (Gutachter eigener Wahl) im Hinterkopf behalten.

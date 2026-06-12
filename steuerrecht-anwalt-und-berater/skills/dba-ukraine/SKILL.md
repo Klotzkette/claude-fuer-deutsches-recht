@@ -15,7 +15,7 @@ description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Hold
 
 ## Kernsachverhalt
 
-Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zur Ukraine. Praxisrelevant sind ukrainische IT-Branche (Outsourcing), Mittelstand, Pflege-Arbeitnehmer und Beteiligungen. **Seit Beginn der russischen Aggression Februar 2022** mit massiven Auswirkungen auf Mandate: Devisenkontrollen, eingeschraenkter Zahlungsverkehr, Sanktionen mit Bezug zu Russland, ukrainische Notgesetzgebung. EU-Beitrittskandidat seit 23.06.2022.
+Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhältnis zur Ukraine. Praxisrelevant sind ukrainische IT-Branche (Outsourcing), Mittelstand, Pflege-Arbeitnehmer und Beteiligungen. **Seit Beginn der russischen Aggression Februar 2022** mit massiven Auswirkungen auf Mandate: Devisenkontrollen, eingeschraenkter Zahlungsverkehr, Sanktionen mit Bezug zu Russland, ukrainische Notgesetzgebung. EU-Beitrittskandidat seit 23.06.2022.
 
 ## Kaltstart-Rueckfragen
 
@@ -87,7 +87,7 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren UA → DE-Mandant**: Antrag bei DPS (Derzhavna podatkova sluzhba Ukrainy, Staatliche Steuerverwaltung); Online-Portal "Elektronnyy kabinet platnyka" (vom Anwender mit aktuellem Stand des ukrainischen Online-Portals zu verifizieren — kriegsbedingte Einschraenkungen möglich). Ansaessigkeitsbescheinigung der DPS als Anlage. Bearbeitungsdauer durch Kriegsfolgen erheblich verlangsamt.
-- **Sprache des DBA**: Authentische Textfassungen Deutsch und Ukrainisch sowie Russisch (DBA von 1995 vor Aenderung der Amtssprachenpraxis). Konsolidierte Fassung beim BMF.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Ukrainisch sowie Russisch (DBA von 1995 vor Änderung der Amtssprachenpraxis). Konsolidierte Fassung beim BMF.
 - **Lokaler Berater**: Bei ukrainischen IT-/Outsourcing-Gesellschaften oder humanitaeren Mandaten Hinzuziehung eines ukrainischen Beraters; viele ukrainische Anwaltskanzleien arbeiten verlagert nach EU. Kommunikation oft verzoegert wegen Kriegslage.
 - **Apostille**: ZWINGEND bei Drittstaat Ukraine; Haager Uebereinkommen anwendbar, UA ist Vertragsstaat. Kriegsbedingt erschwert — Konsulararbeit teilweise eingeschraenkt.
 
@@ -118,7 +118,7 @@ Das DBA-Ukraine vom 03.07.1995 (BGBl. 1996 II S. 1170) regelt das Verhaeltnis zu
 
 Ukrainischer IT-Spezialist mit Wohnsitz Kyiv, FOP-Status, erbringt Software-Dienste an deutschen Auftraggeber 60.000 EUR jaehrlich:
 
-- DBA-Prüfung: Persoenliche Anwendbarkeit Art. 4 — Wohnsitz UA, Steueransaessigkeit UA. Einkunftsart: Unternehmensgewinne Art. 7 oder selbstaendige Arbeit Art. 14 (je nach Klassifikation).
+- DBA-Prüfung: Persoenliche Anwendbarkeit Art. 4 — Wohnsitz UA, Steueransaessigkeit UA. Einkunftsart: Unternehmensgewinne Art. 7 oder selbständige Arbeit Art. 14 (je nach Klassifikation).
 - BS-Prüfung: Bei reiner Remote-Taetigkeit aus UA: keine BS in DE — DE darf nicht besteuern.
 - DE-Quellensteuer: § 50a EStG-Steuerabzug nur bei Kuenstlern, Sportlern, Aufsichtsrat, Lizenzgebuehren etc. — IT-Dienstleistungen typischerweise nicht erfasst; keine DE-Quellensteuer.
 - UA-Besteuerung: FOP-Sondersteuer 5 Prozent vom Umsatz; auf 60.000 EUR = 3.000 EUR.

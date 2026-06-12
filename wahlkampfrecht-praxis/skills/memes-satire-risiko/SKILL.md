@@ -1,6 +1,6 @@
 ---
 name: memes-satire-risiko
-description: "Wahlkampfrecht Praxis: Memes, Satire und Bildmontagen pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Memes, Satire und Bildmontagen prüfen im Wahlkampfrecht."
 ---
 
 # Memes Satire Risiko

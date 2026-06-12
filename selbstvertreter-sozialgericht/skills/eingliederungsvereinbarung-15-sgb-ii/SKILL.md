@@ -1,6 +1,6 @@
 ---
 name: eingliederungsvereinbarung-15-sgb-ii
-description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster."
+description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Prüfraster."
 ---
 
 # Eingliederungsvereinbarung 15 Sgb Ii
@@ -40,7 +40,7 @@ description: "Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Ko
 - Sanktion setzt normalerweise konkrete Pflicht, Belehrung und Anhörung voraus; Kooperationsplan allein ersetzt das nicht.
 - Bei Krankheit/Überforderung sofort Nachweis und neuen Termin anbieten, nicht schweigen.
 
-## Pruefraster
+## Prüfraster
 
 1. Kooperationsplan vorgelegt?
 2. Inhaltliche Prüfung?

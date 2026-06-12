@@ -24,7 +24,7 @@ description: "PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Auf
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 11**: Religionsgesellschaften — Privilegium principis für evangelische, katholische und reformierte Religionsgesellschaften.
 - **ALR II 11 §§ 1-30**: Aufgeklaert-tolerantes Religionsrecht; "Privilegien" der ueblichen Religionsgemeinschaften, "geduldete" Religionsgemeinschaften (z. B. Mennoniten, Juden mit eingeschraenkten Rechten).
 - **ALR II 12**: Schule — allgemeine Volksschule; Schulpflicht; Schulaufsicht durch Geistlichkeit / Schulvisitator.

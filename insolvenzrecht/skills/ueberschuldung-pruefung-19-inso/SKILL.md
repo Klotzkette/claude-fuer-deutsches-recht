@@ -290,7 +290,7 @@ Bevor losgelegt wird, klaere:
 
 ## Output-Template Ueberschuldungs-Memo
 
-**Adressat:** Geschaeftsfuehrung / Insolvenzgericht — Tonfall: sachlich-betriebswirtschaftlich
+**Adressat:** Geschäftsführung / Insolvenzgericht — Tonfall: sachlich-betriebswirtschaftlich
 
 ```
 UEBERSCHULDUNGSSTATUS nach § 19 InsO

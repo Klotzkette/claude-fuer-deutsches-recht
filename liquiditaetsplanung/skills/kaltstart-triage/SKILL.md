@@ -106,13 +106,13 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Steuerberater, Rechtsanwaelte und Geschaeftsfuehrer bei der Erstellung und Prüfung von Liquiditaetsvorschauen nach deutschem Recht. Im Mittelpunkt stehen die kurzfristige Drei-Wochen-Vorschau nach § 17 InsO sowie rollierende Forecasts über 13, 26 und 52 Wochen. Das Plugin erzeugt Excel-Tabellen nach dem BGH-Passiva-II- und 10-Prozent-Schema und integriert eine Quote-Luecken-Ampel.
+Das Plugin unterstuetzt Steuerberater, Rechtsanwaelte und Geschäftsführer bei der Erstellung und Prüfung von Liquiditaetsvorschauen nach deutschem Recht. Im Mittelpunkt stehen die kurzfristige Drei-Wochen-Vorschau nach § 17 InsO sowie rollierende Forecasts über 13, 26 und 52 Wochen. Das Plugin erzeugt Excel-Tabellen nach dem BGH-Passiva-II- und 10-Prozent-Schema und integriert eine Quote-Luecken-Ampel.
 
 Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krisensituationen, insbesondere wenn Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit oder Ueberschuldung geprueft werden muss. Die Instrumente unterstuetzen auch die Fortbestehensprognose sowie die Bugwellenrechtsprechung des BGH.
 
 ## Wann brauchen Sie diese Skill?
 
-- Geschaeftsfuehrer oder Steuerberater benoetigt eine gerichtsfaehige Liquiditaetsvorschau zur Insolvenzantragspflicht-Prüfung nach § 15a InsO.
+- Geschäftsführer oder Steuerberater benoetigt eine gerichtsfaehige Liquiditaetsvorschau zur Insolvenzantragspflicht-Prüfung nach § 15a InsO.
 - Der Mandant prüft, ob Zahlungsunfaehigkeit nach § 17 InsO oder drohende Zahlungsunfaehigkeit nach § 18 InsO vorliegt.
 - Zur Vorbereitung eines StaRUG-Restrukturierungsverfahrens, Insolvenzplanverfahrens oder Sanierungskonzepts wird ein mehrstufiger Forecast mit GuV-/Bilanz-Brücke benoetigt.
 - Im Rahmen einer M&A-Transaktion oder einer Distressed-Situation ist eine nachvollziehbare Liquiditaetsplanung erforderlich.
@@ -159,7 +159,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - Das BGH-Passiva-II-Schema erfordert saubere Trennung zwischen faelligen und nicht faelligen Verbindlichkeiten; Fehler hier fuehren zu falschen Ergebnissen.
 - Excel-Exporte müssen reproduzierbar und nachvollziehbar sein, da sie im Insolvenzverfahren als Beweismittel vorgelegt werden können.
 - Die 10-Prozent-Schwelle ist eine Indizwirkung, kein automatischer Ausloeser; die Gesamtumstaende sind zu wuerdigen.
-- Keine Vermischung von Zahlungsunfaehigkeits- und Ueberschuldungspruefung — beide Insolvenzgruende haben eigene Pruefschemas.
+- Keine Vermischung von Zahlungsunfaehigkeits- und Ueberschuldungspruefung — beide Insolvenzgruende haben eigene Prüfschemas.
 
 ## Typische Fehler
 
@@ -168,7 +168,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 - Drei-Wochen-Vorschau wird mit rollierender Mehrmonatsplanung vermischt; beide dienen unterschiedlichen Zwecken.
 - Fortbestehensprognose wird ohne belastbares Sanierungskonzept positiv bewertet.
 - Eine 13-Wochen-Vorschau wird als Sanierungskonzept behandelt, obwohl GuV, Planbilanz, Maßnahmenwirkung und nachhaltige Sanierungsfähigkeit fehlen.
-- Haftungsrisiken des Geschaeftsfuehrers nach § 15b InsO werden nicht kommuniziert.
+- Haftungsrisiken des Geschäftsführers nach § 15b InsO werden nicht kommuniziert.
 
 ## Quellen und Aktualitaet
 

@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Sondernutzung, Gleichbehandlung, Lautsprecher, Pavillon, Flyer, Datenschutz und Stoerer.
+Prüft Sondernutzung, Gleichbehandlung, Lautsprecher, Pavillon, Flyer, Datenschutz und Stoerer.
 
 ## Rechts- und Praxislogik
 

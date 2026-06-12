@@ -18,7 +18,7 @@ description: "§ 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** § 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Pruefraster Bande, Waffenbegriff, minder schwerer Fall.
+**Fokus:** § 30 BtMG: bandenmäßiges, gewerbsmäßiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Prüfraster Bande, Waffenbegriff, minder schwerer Fall.
 
 ### § 30 BtMG: Qualifikationen Banden-, Gewerbs- und Waffenhandel
 
@@ -35,7 +35,7 @@ Strafrahmen § 30 Abs. 1: Freiheitsstrafe von zwei bis fuenfzehn Jahren (Verbrec
 
 ## Tatbestand und Stoffliche Erfassung
 
-**§ 30 Abs. 1 Nr. 4 — Banden-Handel:** Bande ist der Zusammenschluss von mindestens drei Personen mit dem Willen, kuenftig fortgesetzt mehrere selbstaendige Taten der im Gesetz genannten Art zu begehen (BGH GS, Beschluss vom 22.03.2001 — GSSt 1/00; BGH-Linie verifizieren).
+**§ 30 Abs. 1 Nr. 4 — Banden-Handel:** Bande ist der Zusammenschluss von mindestens drei Personen mit dem Willen, kuenftig fortgesetzt mehrere selbständige Taten der im Gesetz genannten Art zu begehen (BGH GS, Beschluss vom 22.03.2001 — GSSt 1/00; BGH-Linie verifizieren).
 
 **§ 30 Abs. 1 Nr. 3 — Leichtfertige Todesverursachung:** Erfolgsqualifikation. Tod muss auf der konkreten Abgabe beruhen. Leichtfertigkeit setzt grobe Fahrlaessigkeit voraus.
 
@@ -58,8 +58,8 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 
 ## Praktikertipps der Verteidigung
 
-- **Bandenbegriff angreifen:** Sind tatsaechlich drei Personen Mitglieder? Liegt eine Bandenabrede über kuenftige selbstaendige Taten vor — oder nur eine punktuelle Tatgemeinschaft? Mitverteidigung prüfen; Interessenkonflikt nach § 146 StPO.
-- **Gewerbsmaessigkeit angreifen:** Einmalige oder gelegentliche Geschaefte begruenden noch keine Gewerbsmaessigkeit. Massgeblich ist die Absicht dauerhafter Einnahmequelle.
+- **Bandenbegriff angreifen:** Sind tatsaechlich drei Personen Mitglieder? Liegt eine Bandenabrede über kuenftige selbständige Taten vor — oder nur eine punktuelle Tatgemeinschaft? Mitverteidigung prüfen; Interessenkonflikt nach § 146 StPO.
+- **Gewerbsmaessigkeit angreifen:** Einmalige oder gelegentliche Geschäfte begruenden noch keine Gewerbsmaessigkeit. Massgeblich ist die Absicht dauerhafter Einnahmequelle.
 - **Schusswaffe — Mitfuehren:** Bewusstes Bei-sich-Tragen erforderlich; die blosse Verfuegbarkeit im Auto reicht nicht ohne weiteres. Prüfen, ob die Waffe griffbereit war und ob Vorsatz hinsichtlich des Mitfuehrens vorlag.
 - **Leichtfertige Todesfolge:** Kausalitaet zwischen Abgabe und Tod muss feststehen. Mischkonsum oder Drittstoffe können Kausalkette unterbrechen.
 - **§ 31 BtMG Aufklaerungshilfe:** bei § 30 BtMG besonders wertvoll, da Strafrahmen sehr hoch.

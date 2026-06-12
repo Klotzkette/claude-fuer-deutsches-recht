@@ -75,7 +75,7 @@ Belegt über bundesgerichtshof.de und dejure.org:
 
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt für die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Kläger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Prüfung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://dejure.org/2025,9080
-- **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Änderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 
 Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zitierung Instanzgerichts-Urteile auf openjur.de / OLG-Datenbanken prüfen.
 
@@ -237,7 +237,7 @@ Hinweis auf Sonderkündigungsrecht § 555e BGB.
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / unbillige Benachteiligung): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=141426&pos=0
- - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+ - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Änderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - Weitere Rechtsprechung vor Verwendung live über dejure.org/openjur.de/bundesgerichtshof.de prüfen.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - BAFA-Förderrichtlinie BEG Einzelmaßnahmen 2024

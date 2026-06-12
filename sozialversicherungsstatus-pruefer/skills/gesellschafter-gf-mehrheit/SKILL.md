@@ -1,6 +1,6 @@
 ---
 name: gesellschafter-gf-mehrheit
-description: "Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen im Sozialversicherungsstatus Pruefer."
+description: "Prüft beherrschenden Gesellschafter-Geschäftsführer mit Kapitalmehrheit und Statusfolgen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Mehrheits-Gesellschafter-Geschäftsführer

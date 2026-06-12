@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmwsb
-description: "Ressortaufgaben BMWSB: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bunde..."
+description: "Ressortaufgaben BMWSB: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Wohnen; Stadtentwicklung und Bauwesen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bunde..."
 ---
 
 # Ressortaufgaben BMWSB
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMWSB: typische Legistik-Aufgaben im Geschaeftsber
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMWSB
 - Ressort-Kompass aus `legw-ressort-bmwsb`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

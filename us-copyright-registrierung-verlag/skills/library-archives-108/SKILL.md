@@ -1,6 +1,6 @@
 ---
 name: library-archives-108
-description: "Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung im Us Copyright Registrierung Verlag."
+description: "Prüft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung im Us Copyright Registrierung Verlag."
 ---
 
 # Libraries und Archives § 108

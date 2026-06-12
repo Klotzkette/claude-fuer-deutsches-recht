@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRada..."
+description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten für die Bauueberwachung. Umfasst Prüfrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten für Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRada..."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
@@ -15,20 +15,20 @@ description: "Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten f
 
 ## Spezialwissen
 
-VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsingenieurs: Jede VOB/C-Norm definiert Pruefpflichten, Aufmassregeln und Abnahmevoraussetzungen. Dieser Skill beschreibt die Erstellung gewerkeweiser digitaler Checklisten, die Werkzeuge Dalux Field und PlanRadar für die mobile Nutzung und die Integration in SAP PM für die lueckenlose Mangeldokumentation.
+VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsingenieurs: Jede VOB/C-Norm definiert Prüfpflichten, Aufmassregeln und Abnahmevoraussetzungen. Dieser Skill beschreibt die Erstellung gewerkeweiser digitaler Checklisten, die Werkzeuge Dalux Field und PlanRadar für die mobile Nutzung und die Integration in SAP PM für die lueckenlose Mangeldokumentation.
 
 ## Bauwerk und Auftrag
 
-- Krankenhaus Neubau Duesseldorf: 42 Gewerke mit je eigener VOB/C-Checkliste, 1.840 Pruefpunkte, digitale Dalux-Workflow, Bausumme 110 Mio. EUR
-- Logistikzentrum Hamburg: 8 Hauptgewerke, PlanRadar-Checklisten mit QR-Code je Pruefpunkt, 520 Punkte, Bausumme 32 Mio. EUR
+- Krankenhaus Neubau Duesseldorf: 42 Gewerke mit je eigener VOB/C-Checkliste, 1.840 Prüfpunkte, digitale Dalux-Workflow, Bausumme 110 Mio. EUR
+- Logistikzentrum Hamburg: 8 Hauptgewerke, PlanRadar-Checklisten mit QR-Code je Prüfpunkt, 520 Punkte, Bausumme 32 Mio. EUR
 - Wohnkomplex Berlin: Standardisierte Checklisten für 240 Wohneinheiten, Abnahme mit Mieter nach VOB/B § 12, Bausumme 45 Mio. EUR
 
 ## Erste Schritte Checklisten-Erstellung
 
 1. Gewerk-Analyse und Normen-Zuordnung: Je Leistungsposition LV die zugehoerige VOB/C-DIN bestimmen, DIN 18331 Beton, DIN 18330 Mauerwerk, DIN 18360 Metalltuer, DIN 18382 Elektro usw.
-2. Pruefpunkte ableiten: Aus Normentext Abschnitt Ausfuehrung und Abnahme Pruefanweisungen ableiten, 5-8 Pruefpunkte je Gewerk, Reihenfolge logisch nach Bauablauf
-3. Checklisten-Digital Dalux: Vorlage erstellen Dalux Field, Pruefpunkte mit Eingabetype Checkbox, Text, Foto-Pflicht, Messwert, Auswahlliste, QR-Code-Generierung je Punkt
-4. QR-Code-Planung auf Baustelle: Je Pruefpunkt oder Bauteil QR-Code-Aufkleber, Scan mit Mobilgeraet oeffnet Dalux-Formular automatisch
+2. Prüfpunkte ableiten: Aus Normentext Abschnitt Ausfuehrung und Abnahme Prüfanweisungen ableiten, 5-8 Prüfpunkte je Gewerk, Reihenfolge logisch nach Bauablauf
+3. Checklisten-Digital Dalux: Vorlage erstellen Dalux Field, Prüfpunkte mit Eingabetype Checkbox, Text, Foto-Pflicht, Messwert, Auswahlliste, QR-Code-Generierung je Punkt
+4. QR-Code-Planung auf Baustelle: Je Prüfpunkt oder Bauteil QR-Code-Aufkleber, Scan mit Mobilgeraet oeffnet Dalux-Formular automatisch
 5. Erstpruefung und Nachpruefung: Prüfung durch Bauueberwacher, Mangel-Pin bei Nicht-Bestehen, AN-Benachrichtigung, Maßnahme, Nachpruefung Bestehen oder Eskalation
 6. SAP PM Integration: Checklisten-Ergebnis automatisch SAP PM Meldung M3 Aktivitaetenmeldung bei abgeschlossener Prüfung, M2 bei Mangel
 
@@ -39,13 +39,13 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 - VOB/C DIN 18299 Allgemeine Regelungen: Alle Gewerke, Aufmassregeln, Nebenleistungen, Abrechnungseinheiten
 - VOB/C DIN 18331 bis DIN 18459: Spezifische Normen je Gewerk von Betonarbeiten bis Abbrucharbeiten
 - VOB/B § 12 Abnahme: Abnahmevoraussetzungen, Teilabnahme, Abnahmeprotokoll-Pflicht, Faelligkeitsbeginn Maengelansprueche
-- DIN EN ISO 9001:2015 Qualitaetsmanagementsysteme: Pruefpflichten, Nachweisdokumentation, Lieferantenbewertung als Rahmen für Checklistensystem
+- DIN EN ISO 9001:2015 Qualitaetsmanagementsysteme: Prüfpflichten, Nachweisdokumentation, Lieferantenbewertung als Rahmen für Checklistensystem
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
-1. VOB/C-Pruefpunkte vollstaendig: Alle Normen-Abschnitte Ausfuehrung und Abnahme abgedeckt, kein Punkt vergessen, Revision wenn Norm aktualisiert
-2. Foto-Pflicht-Punkte: Kritische Pruefpunkte mit Foto-Pflicht markiert, kein Bestehen ohne Foto, Zeitstempel und GPS automatisch
-3. Messwert-Eingaben: Quantitative Pruefpunkte mit numerischer Eingabe und Grenzwert-Ampel, z.B. Ebenheitsmass 5 mm Grenzwert
+1. VOB/C-Prüfpunkte vollstaendig: Alle Normen-Abschnitte Ausfuehrung und Abnahme abgedeckt, kein Punkt vergessen, Revision wenn Norm aktualisiert
+2. Foto-Pflicht-Punkte: Kritische Prüfpunkte mit Foto-Pflicht markiert, kein Bestehen ohne Foto, Zeitstempel und GPS automatisch
+3. Messwert-Eingaben: Quantitative Prüfpunkte mit numerischer Eingabe und Grenzwert-Ampel, z.B. Ebenheitsmass 5 mm Grenzwert
 4. Checklisten-Status-Auswertung: Bestehensquote je Gewerk, offene Maengel gefiltert, Faelligkeit ueberschrittene Punkte rot markiert
 5. Versionskontrolle Checklisten: Normenrevisionen fuehren zu Checklist-Update, Versionsnummer und Datum je Checkliste, Aeltere Versionen archiviert
 6. Unterschrift Abnahme: Qualifizierte eIDAS-Signatur Bauueberwacher und AN-Bauleiter bei Gesamtabnahme, einzeln je Gewerk bei Teilabnahme
@@ -53,15 +53,15 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 ## Foto-, Video- und Dokumentenanalyse
 
 - Dalux Field Management: Checklisten-Modul mit QR-Code, Offline-Faehigkeit, iOS und Android, PDF-Export, BIM360-Verknuepfung
-- PlanRadar Abnahmecheckliste: Grundrissplan als Hintergrund, Pruefpunkte auf Flaeche verortet, GPS-Tag, Zeitstempel, Foto-Pflicht
-- BIM360 Checklist-Modul: Pruefpunkte an IFC-Bauteile verknuepft, Status in 3D-Modell farblich, Exportpaket Abnahme-Dokumentation
+- PlanRadar Abnahmecheckliste: Grundrissplan als Hintergrund, Prüfpunkte auf Flaeche verortet, GPS-Tag, Zeitstempel, Foto-Pflicht
+- BIM360 Checklist-Modul: Prüfpunkte an IFC-Bauteile verknuepft, Status in 3D-Modell farblich, Exportpaket Abnahme-Dokumentation
 - Procore Quality Management: Abnahmechecklisten mit Punch-List-Funktion, Foto-Pflicht je Mangel, Kostenstellen-Zuordnung
-- SAP PM Pruefplan: Planmäßige Erstpruefung als Prueflos konfiguriert, Checklisten-Ergebnis als Messwert-Erfassung, Statistik-Auswertung
+- SAP PM Prüfplan: Planmäßige Erstpruefung als Prüflos konfiguriert, Checklisten-Ergebnis als Messwert-Erfassung, Statistik-Auswertung
 
 ## Meldungserstellung im ERP / SAP
 
-- SAP PM Meldungsart M3 Checkliste abgeschlossen: Equipment-Nr Gewerk-Bauteil, alle Pruefpunkte bestanden, Archivierung Datum Unterschrift
-- SAP PM Meldungsart M2 Checklisten-Mangel: Pruefpunkt nicht bestanden, Schadenscode aus Checklisten-Katalog, automatisch aus Dalux-Export
+- SAP PM Meldungsart M3 Checkliste abgeschlossen: Equipment-Nr Gewerk-Bauteil, alle Prüfpunkte bestanden, Archivierung Datum Unterschrift
+- SAP PM Meldungsart M2 Checklisten-Mangel: Prüfpunkt nicht bestanden, Schadenscode aus Checklisten-Katalog, automatisch aus Dalux-Export
 - SAP PS Abnahme-Meilenstein: Nach vollstaendiger Checklisten-Abnahme Gewerk Meilenstein gesetzt, Zahlungsfreigabe Abschlagsrechnung ausgeloest
 - Dalux-SAP-Schnittstelle: REST-API Export Checklisten-Ergebnis JSON, Import SAP PM Meldung M2 oder M3, Mapping Dalux-Code zu SAP-Schadenscode
 - Workflow: Checkliste durchgefuehrt, Mangel-Punkte automatisch PlanRadar Meldung, AN informiert, Nachpruefung, Abschlussmeldung, SAP PS Meilenstein
@@ -69,7 +69,7 @@ VOB/C-Abnahmechecklisten sind das systematische Werkzeug des Bauueberwachungsing
 ## Typische Fallstricke
 
 - Veraltete VOB/C-Version in Checkliste: Normen werden alle 2-4 Jahre aktualisiert, DIN 18331 Neufassung 2019 enthalt neue Anforderungen
-- Pruefpunkte zu allgemein: Wasser ist dicht Ja/Nein ohne Messwert und Methode hat kein Beweiswert vor Gericht
+- Prüfpunkte zu allgemein: Wasser ist dicht Ja/Nein ohne Messwert und Methode hat kein Beweiswert vor Gericht
 - Checkliste nicht gepfuegt: Bei Sonderbauteilen keine passende Checkliste vorhanden, Prüfung unvollstaendig
 - QR-Code-Aufkleber beschaedigt: Scan nicht möglich, manuelle Eingabe erforderlich, GPS-Genauigkeit schlechter
 

@@ -131,7 +131,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das JVEG-Kostenpruefer-Plugin prüft und berechnet Verguetungsansprueche nach dem Justizvergutungs- und -entschaedigungsgesetz (JVEG) für alle gerichtlich herangezogenen Personen: Sachverstaendige, Dolmetscher und Uebersetzer, Zeugen sowie sonstige Beteiligte. Es erstellt belegfeste Rechenprotokolle, prüft Kuerz­ungen durch das Gericht, bereitet Antraege und Beschwerden vor und bewertet die Korrektheit von Gerichtsschreiben zur Kostenfestsetzung.
+Das JVEG-Kostenpruefer-Plugin prüft und berechnet Verguetungsansprueche nach dem Justizvergutungs- und -entschaedigungsgesetz (JVEG) für alle gerichtlich herangezogenen Personen: Sachverstaendige, Dolmetscher und Übersetzer, Zeugen sowie sonstige Beteiligte. Es erstellt belegfeste Rechenprotokolle, prüft Kuerz­ungen durch das Gericht, bereitet Antraege und Beschwerden vor und bewertet die Korrektheit von Gerichtsschreiben zur Kostenfestsetzung.
 
 Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die ihre Rechnung optimieren wollen, als auch von Gerichten, Anwaelten oder Parteien, die eine Sachverstaendigenrechnung prüfen. Es ersetzt keine Rechtsberatung.
 
@@ -141,7 +141,7 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - Gericht hat eine Kostenfestsetzung erlassen und Sachverstaendiger oder Zeuge will widersprechen oder Beschwerde einlegen.
 - Anwalt prüft, ob die Sachverstaendigenrechnung der Gegenseite korrekt ist und Kuerzungsmoeglichkeiten bestehen.
 - Zeuge moechte nach einer Aussage vor Gericht seine Entschaedigung (Fahrtkosten, Zeitversaeumnis, Verdienstausfall) beantragen.
-- Dolmetscher oder Uebersetzer will seine Stundenverguetung und Nebenkosten nach JVEG abrechnen.
+- Dolmetscher oder Übersetzer will seine Stundenverguetung und Nebenkosten nach JVEG abrechnen.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -152,7 +152,7 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - **Barauslagen** — Erstattungsfaehige Aufwendungen nach § 7 JVEG (Porto, Kopieren, technische Geraete); Belegpflicht.
 - **§ 8a JVEG** — Kuerzung oder Wegfall der Vergütung bei verspaetem oder fehlerhaftem Gutachten; Verschuldens- und Kausalitaetserfordernis.
 - **Kostenfestsetzungsbeschluss** — Gerichtliche Entscheidung über die Höhe der JVEG-Vergütung; anfechtbar per Beschwerde nach § 4 Abs. 3 JVEG.
-- **KI-Deklaration** — Pflicht zur Offenlegung, ob und wie KI-Systeme bei der Gutachtenerstattung eingesetzt wurden; pruefungsrelevant für Gutachtenwert.
+- **KI-Deklaration** — Pflicht zur Offenlegung, ob und wie KI-Systeme bei der Gutachtenerstattung eingesetzt wurden; prüfungsrelevant für Gutachtenwert.
 
 ## Rechtsgrundlagen
 
@@ -164,13 +164,13 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - § 6 JVEG — Uebernachtungs- und Verpflegungskosten.
 - § 7 JVEG — Sonstige Aufwendungen.
 - § 8 JVEG — Vergütung Sachverstaendige; § 8a JVEG — Kuerzung und Wegfall.
-- § 9 JVEG, Anlage 1 JVEG — Dolmetscher und Uebersetzer.
+- § 9 JVEG, Anlage 1 JVEG — Dolmetscher und Übersetzer.
 - §§ 19 bis 22 JVEG — Zeugenentschaedigung, Verdienstausfall, Haushaltsfuehrung.
 - §§ 165 ff. SGB III (im Kontext) — Insolvenzgeld; nicht JVEG.
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Personenkategorie bestimmen: Sachverstaendiger, Dolmetscher, Uebersetzer oder Zeuge?
+1. Personenkategorie bestimmen: Sachverstaendiger, Dolmetscher, Übersetzer oder Zeuge?
 2. Verfahrensschritt bestimmen: Erstrechnung, Widerspruch gegen Kuerzung, Beschwerde, Vorschuss?
 3. Routing: Skill `jveg-kommandocenter` für die Weiterleitung zum passendes Fachmodul.
 4. Fristen prüfen: `jveg-fristen-erloeschen` — ist die Dreimonatsfrist noch offen?
@@ -192,9 +192,9 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - `jveg-kuerzung-wegfall-8a` — Kuerzung oder Wegfall der Vergütung nach § 8a JVEG bei Verspaetung oder Fehlern.
 - `pruefung-sachverstaendigengutachten-ki-deklaration` — KI-Deklaration in Sachverstaendigengutachten prüfen.
 
-**Verguetungsberechnung Dolmetscher und Uebersetzer**
+**Verguetungsberechnung Dolmetscher und Übersetzer**
 
-- `jveg-dolmetscher-uebersetzer` — Stundenverguetung, Mindestwartezeit, Anfahrt und schriftliche Uebersetzung je Seite.
+- `jveg-dolmetscher-uebersetzer` — Stundenverguetung, Mindestwartezeit, Anfahrt und schriftliche Übersetzung je Seite.
 
 **Zeugenentschaedigung**
 

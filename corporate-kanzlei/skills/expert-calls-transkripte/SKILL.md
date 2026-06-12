@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -115,7 +115,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Normen
 
 - **Art. 14, 15 MAR** — Insiderhandelsverbot; Marktmanipulation; Expert der Insiderinfos hat darf diese nicht weitergeben; Kaeufer darf keine Insiderinfos intentional bekommen
-- **§ 17 UWG** — Geschaeftsgeheimnis des Zielunternehmens; ehemaliger Mitarbeiter darf keine Geheimnisse offenbaren
+- **§ 17 UWG** — Geschäftsgeheimnis des Zielunternehmens; ehemaliger Mitarbeiter darf keine Geheimnisse offenbaren
 - **Art. 6 I DSGVO** — Rechtsgrundlage für Aufnahme und Verarbeitung von Expert-Call-Gespraechen
 - **§ 201 StGB** — Verletzung der Vertraulichkeit des Wortes; Aufnahme ohne Einwilligung verboten in Deutschland
 
@@ -182,7 +182,7 @@ INSIDER-COMPLIANCE-CHECK:
 
 - Insider-Information im Call erhalten und nicht gemeldet → Art. 14 MAR; Strafbarkeit
 - Aufnahme ohne Einwilligung → § 201 StGB; Verwertbarkeit fraglich
-- § 17 UWG: Geschaeftsgeheimnis der Zielgesellschaft weitergegeben → UWG-Klage; Schadensersatz
+- § 17 UWG: Geschäftsgeheimnis der Zielgesellschaft weitergegeben → UWG-Klage; Schadensersatz
 - Transkript in DD-Report ohne Anonymisierung → DSGVO-Risiko; Persoenlichkeitsrechtsverletzung
 
 ## Quellen

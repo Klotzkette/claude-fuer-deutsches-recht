@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -108,7 +108,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 4. Liquiditaetssituation: Wie viele Tage/Wochen hat der Prozess Zeit?
 5. Arbeitnehmer: § 613a BGB; Widerspruchsrecht; Betriebsrat; Sozialplan in der Insolvenz?
 6. Sicherheiten: Welche Sicherungseigentuemer, Pfandrechte, Grundschulden sind betroffen?
-7. Auslaendische Tochtergesellschaften im Konzern: separate Insolvenzen oder Konzernanmeldung?
+7. Ausländische Tochtergesellschaften im Konzern: separate Insolvenzen oder Konzernanmeldung?
 
 ## Zentrale Normen
 
@@ -142,7 +142,7 @@ Im Gegensatz zum normalen M&A ist im Distressed-Fall der Asset Deal Standard:
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 2. **Arbeitnehmer-Selektionsmoeglickeit** — kein automatischer Uebergang aller Arbeitnehmer, aber § 613a BGB beachten
 3. **Steuerliche Vergangenheit bleibt** bei Insolvenzschuldner — kein Steuerrisiko aus Vergangenheit
-4. **Freie Vermoegensauswahl** — Erwerber kann einzelne Assets, Verträge, IP herauspicken
+4. **Freie Vermögensauswahl** — Erwerber kann einzelne Assets, Verträge, IP herauspicken
 5. **Insolvenzanfechtungsrisiko gering** — fairer Marktwert-Prozess schuetzt vor § 133 InsO
 
 ## § 613a BGB im Insolvenzfall
@@ -161,7 +161,7 @@ In der Insolvenz gilt § 613a BGB grundsätzlich weiter. Allerdings:
 4. **APA-Entwurf** — Assets-Liste exakt definieren; Assumed Contracts; Excluded Liabilities; Personaluebernahme
 5. **Arbeitnehmer-Konzept** — Uebernahme-Liste; Widerspruchsrecht-Frist; Betriebsrat konsultieren
 6. **Anfechtungsrisiko prüfen** — war Preis marktgerecht? War Kaeufer in Kenntnis der Krise?
-7. **Signing/Closing** — meist zeitgleich; Kaufpreis in Insolvenzmasse; Schlüssel-Uebergabe
+7. **Signing/Closing** — meist zeitgleich; Kaufpreis in Insolvenzmasse; Schlüssel-Übergabe
 8. **Post-Closing Integration** — schnell; Kundeninfo; Lieferantenkuendigungen behandeln
 
 ## Output-Template APA Outline — Distressed
@@ -203,7 +203,7 @@ Datum: [DATUM]
 
 - § 133 InsO Anfechtungsrisiko: Kaeufer wusste von Zahlungsunfaehigkeit → Transaktion anfechtbar
 - § 613a BGB-Uebergang vergessen → ungewollte Haftung für Arbeitnehmerrueckstaende (§ 613a II)
-- Kein fairer Marktpreisprozess → Insolvenzverwalter-Haftung; Glaeubiger-Schadensersatz
+- Kein fairer Marktpreisprozess → Insolvenzverwalter-Haftung; Gläubiger-Schadensersatz
 - Assumed Contracts unvollstaendig — wichtige Kundenvertraege nicht uebertragen
 - Zeitdruck: Signing ohne abgeschlossene DD — Haftungsausschluss im APA muss maximal sein
 

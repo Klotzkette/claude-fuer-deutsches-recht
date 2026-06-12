@@ -23,7 +23,7 @@ description: "Sicherungslizenz und Pfandrecht an Immaterialguetern: Verpfaendung
 | Marke | Eintragung im Markenregister DPMA |
 | Urheberrecht | Verpfaendung formlos möglich; aber ohne Eintragung schwach |
 | Geschmacksmuster | Eintragung DPMA |
-| Geschaeftsgeheimnis | nicht eintragbar; Verpfaendung schwierig (Bekannmachung gefaehrdet Geheimnis) |
+| Geschäftsgeheimnis | nicht eintragbar; Verpfaendung schwierig (Bekannmachung gefaehrdet Geheimnis) |
 
 ### B. Sicherungsabtretung (uebertragender Sicherheit)
 
@@ -51,7 +51,7 @@ Bedingte Lizenz; tritt bei Eintritt des Sicherungsfalls automatisch in Kraft.
 
 Sicherungsabtretung an Patenten ist im DPMA-Patentregister eintragbar (deklaratorisch, aber wichtig für Sukzessionsschutz). Antrag durch beide Parteien; Kosten typischerweise Sicherheitennehmer.
 
-## Verhaeltnis zu Bestehender Lizenz
+## Verhältnis zu Bestehender Lizenz
 
 Verpfaendung/Sicherungsabtretung beruehrt **nicht** bestehende einfache Lizenzen Dritter, sofern diese mit Sukzessionsschutz eingetragen sind ($ 30 III MarkenG analog).
 

@@ -25,11 +25,11 @@ Genau bezeichnen welcher Streitgegenstand vorliegt. Bei Klagehaeufung jeden Antr
 
 ### Teil C Zulässigkeit
 
-Jeden Pruefpunkt mit eigenem Absatz. Beispielstruktur:
+Jeden Prüfpunkt mit eigenem Absatz. Beispielstruktur:
 
 > **Internationale Zuständigkeit.** Die internationale Zuständigkeit deutscher Gerichte ergibt sich aus Artikel 7 Nummer 1 b der Verordnung Nummer 1215 2012 (EuGVVO). Danach kann eine Person die ihren Wohnsitz im Hoheitsgebiet eines Mitgliedstaats hat in einem anderen Mitgliedstaat vor dem Gericht des Erfüllungsorts verklagt werden. Erfüllungsort ist nach Artikel 7 Nummer 1 b erster Spiegelstrich der Ort der vertraglichen Lieferung. Hier wurde die Brille nach Hamburg geliefert. Die internationale Zuständigkeit ist gegeben.
 
-Für jeden Pruefpunkt einen solchen Absatz schreiben. Bei nicht problematischen Punkten kurz halten (eine Zeile genuegt).
+Für jeden Prüfpunkt einen solchen Absatz schreiben. Bei nicht problematischen Punkten kurz halten (eine Zeile genuegt).
 
 ### Teil D Schlüssigkeit
 

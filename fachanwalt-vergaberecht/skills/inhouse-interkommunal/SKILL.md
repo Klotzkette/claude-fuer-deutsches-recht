@@ -1,6 +1,6 @@
 ---
 name: inhouse-interkommunal
-description: "Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben: Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich p..."
+description: "Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben: Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich p..."
 ---
 
 # Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben
@@ -14,7 +14,7 @@ description: "Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtli
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie über eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+**Fokus:** Inhouse-Geschäft und interkommunale Zusammenarbeit vergaberechtlich prüfen: öffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Prüfraster: Kontrolltest wie über eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit für Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Prüfvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 ### Inhouse und interkommunale Zusammenarbeit
 
@@ -25,7 +25,7 @@ description: "Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtli
 4. Wesentlichkeit: Mindestens 80 Prozent Taetigkeit für kontrollierende öffentliche Hand?
 5. Bei horizontaler Kooperation: gemeinsames Ziel im Gemeinwohlinteresse?
 
-## Pruefraster Inhouse § 108 Abs. 1-5 GWB
+## Prüfraster Inhouse § 108 Abs. 1-5 GWB
 ### 1. Kontrolltest
 Auftraggeber muss aehnliche Kontrolle wie über eigene Dienststelle ausueben (Teckal-Doktrin EuGH C-107/98).
 - Personelle Steuerung: Bestellung der Mehrheit der Leitungsorgane.
@@ -38,7 +38,7 @@ Mindestens 80 Prozent der Taetigkeit des kontrollierten Auftragnehmers für die 
 ### 3. Privatkapital
 Grundsätzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: bestimmte nicht-kontrollierende Beteiligungen aufgrund gesetzlicher Anordnung.
 
-## Pruefraster Horizontale Kooperation § 108 Abs. 6 GWB
+## Prüfraster Horizontale Kooperation § 108 Abs. 6 GWB
 1. Auftraggeber kooperieren auf vertraglicher Basis.
 2. Kooperation dient gemeinsamem Gemeinwohlziel.
 3. Kooperation wird von rein öffentlichen Erwaegungen geleitet.

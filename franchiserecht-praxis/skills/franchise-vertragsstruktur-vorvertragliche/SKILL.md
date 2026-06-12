@@ -40,7 +40,7 @@ description: "Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. 
 - Hoechstpreisbindung zulässig, Mindestpreisbindung unzulaessig.
 - Verbund von Wettbewerbsverboten muss VBE-konform sein (Marktanteilsschwelle 30 Prozent).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Struktur?
 2. Welches Recht je Ebene?

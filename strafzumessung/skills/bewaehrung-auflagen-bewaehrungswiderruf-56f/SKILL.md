@@ -44,7 +44,7 @@ Auflagen mit Schadenswiedergutmachungscharakter haben **Vorrang**.
 
 Beispiele:
 
-- Anordnungen zu Aufenthalt, Ausbildung, Arbeit, Freizeit, wirtschaftlichen Verhaeltnissen (Abs. 2 Nr. 1).
+- Anordnungen zu Aufenthalt, Ausbildung, Arbeit, Freizeit, wirtschaftlichen Verhältnissen (Abs. 2 Nr. 1).
 - Sich zu bestimmten Zeiten oder Anlaessen bei Gericht oder anderer Stelle zu melden (Nr. 2).
 - Mit bestimmten Personen oder Personengruppen keinen Verkehr zu pflegen, bei ihnen nicht zu wohnen und nicht zu uebernachten (Nr. 3).
 - Bestimmte Gegenstaende nicht zu besitzen oder verwahren zu lassen, die ihm Gelegenheit oder Anreiz zu weiteren Straftaten bieten koennten (Nr. 4).

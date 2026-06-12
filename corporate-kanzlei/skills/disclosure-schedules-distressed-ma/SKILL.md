@@ -63,7 +63,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -147,20 +147,20 @@ Beispiele:
 - Schedule 5.2 (Financial Statements): Jahresabschluss-Abweichungen, Rueckstellungsluecken
 - Schedule 5.5 (Material Contracts): vollstaendige Liste; CoC-Klauseln hervorgehoben
 - Schedule 5.7 (Litigation): laufende und drohende Verfahren mit Streitwertangabe
-- Schedule 5.9 (Employment): Schluesselarbeitnehmer; Change-of-Control-Klauseln; Pensionen
+- Schedule 5.9 (Employment): Schlüsselarbeitnehmer; Change-of-Control-Klauseln; Pensionen
 - Schedule 5.11 (Tax): offene Betriebspruefungen; Einsprueche; Selbstanzeigen
 
 ### General Disclosure
 Allgemeine Offenlegung aller Datenraum-Dokumente als Disclosure — nur wirksam wenn klar spezifiziert welches Dokument welche Warranty einschraenkt (OLG Frankfurt-Rspr.).
 
-## Pruefungsmatrix: Vollstaendigkeit des Disclosure Letter
+## Prüfungsmatrix: Vollstaendigkeit des Disclosure Letter
 
-| Kategorie | Pruefungspunkt | Risiko bei Luecke |
+| Kategorie | Prüfungspunkt | Risiko bei Luecke |
 |---|---|---|
 | Litigation | Alle Verfahren >50 TEUR offenbart | Warranty-Verletzung; Indemnity-Anspruch |
 | Material Contracts | Alle CoC-Klauseln und Kuendigungsrechte | Fehlende Consents post-Closing |
 | Tax | Betriebspruefungen, Einsprueche, Selbstanzeigen | Tax-Warranty-Breach; voller Schaden |
-| HR | Pensionszusagen, Gehaltserhohungen, Schluesselpersonen CoC | Unvorhergesehene Kosten post-Closing |
+| HR | Pensionszusagen, Gehaltserhohungen, Schlüsselpersonen CoC | Unvorhergesehene Kosten post-Closing |
 | Compliance | Laufende Ermittlungen, GwG/AML-Vorwuerfe, Sanktionen | Regulatory-Risiko; Closing-Blockade |
 | Real Estate | Altlasten, Baulasten, Sondernutzungsrechte | Umwelthaftung; Wertverlust |
 

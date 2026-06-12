@@ -1,11 +1,11 @@
 ---
 name: bmwsb-mietrecht-und-wohnungspolitik
-description: "Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben..."
+description: "Sachbereich Mietrecht und Wohnungspolitik im Geschäftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben..."
 ---
 
 # Mietrecht und Wohnungspolitik (BMWSB)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Mietrecht und Wohnungspolitik im Geschäftsbereich BMWSB. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMW
 
 Kernbestand des Sachfelds: BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 BVerfG-Linie zur Mietpreisbremse; Schnittstelle zu Energie- und Klimaschutz; Foederale Wohnungspolitik.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

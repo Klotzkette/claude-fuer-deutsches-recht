@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung-bestehender-vertraege-audit
-description: "Pruefung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan."
+description: "Prüfung bestehender AVV-Vertraege Vendor-Inventur AVV-Audit und Vertragsfolgemanagement. Behandelt die systematische Durchsicht eines AVV-Bestands die Identifikation veralteter Klauseln SCC-Altmuster fehlender DPF-Bezug und sub-AV-Listenpflege. Output: Audit-Bericht und Vertragsverbesserungsplan."
 ---
 
 # AVV-Audit – Prüfung bestehender Verträge
@@ -64,7 +64,7 @@ Systematische Inventur und Prüfung bestehender Auftragsverarbeitungsvertraege a
 
 8. **Audit-Bericht.**
  - Bewertungsmatrix pro Vendor (Ampel: rot / orange / gelb / gruen).
- - Massnahmenplan mit Fristen.
+ - Maßnahmenplan mit Fristen.
  - Eskalationsverfahren bei nicht behebbaren Maengeln.
 
 ## Mustertext / Template

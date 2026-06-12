@@ -39,7 +39,7 @@ description: "Salvatorische Klausel: Grenzen und Wirkung. Skill klaert die BGH-L
 - Wenn die Klausel durch Streichung eindeutig in einen wirksamen Restbestand zerfaellt, bleibt der Rest wirksam.
 - Beispiel: Klausel "Kuendigungsfrist 4 Wochen, jedoch nicht weniger als 14 Tage" — Streichung der Restriktion möglich.
 
-## Pruefraster
+## Prüfraster
 
 1. AGB-Klausel oder Individualabrede?
 2. Welche Bestimmung ist unwirksam?

@@ -55,7 +55,7 @@ description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbes
 - Eichschein-Original
 - Mess-Protokoll
 - Bedienungsanleitung
-- Pruefberichte / Fehlerbild
+- Prüfberichte / Fehlerbild
 
 ### Verdachts-Punkte
 
@@ -86,7 +86,7 @@ description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbes
 
 - Reflektionsobjekt (Hochhaus, Tunnel)
 - Falsche Mess-Position
-- Pruefintervall überschritten
+- Prüfintervall überschritten
 - Software-Update nicht durchgeführt
 
 ### Bedienfehler

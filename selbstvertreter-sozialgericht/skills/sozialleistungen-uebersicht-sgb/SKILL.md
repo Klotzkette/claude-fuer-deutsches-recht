@@ -13,17 +13,17 @@ description: "Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I b
 
 ## Worum geht es?
 
-Im deutschen Sozialrecht gibt es 14 Sozialgesetzbuecher (SGB I bis SGB XIV). Jedes deckt einen anderen Bereich ab. Wer den Ueberblick hat, findet das richtige Gesetz und die richtige Stelle. Diese Skill ist Ihre Landkarte.
+Im deutschen Sozialrecht gibt es 14 Sozialgesetzbuecher (SGB I bis SGB XIV). Jedes deckt einen anderen Bereich ab. Wer den Überblick hat, findet das richtige Gesetz und die richtige Stelle. Diese Skill ist Ihre Landkarte.
 
 ## In einfacher Sprache
 
-Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihnen den Ueberblick. So wissen Sie, wo Sie hingehoeren.
+Es gibt viele Sozialleistungen. Jede gehoert in ein anderes Buch. Wir geben Ihnen den Überblick. So wissen Sie, wo Sie hingehoeren.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie wissen nicht, welche Leistung Sie ueberhaupt bekommen können.
 - Sie haben einen Bescheid und kennen das Gesetz nicht.
-- Sie wollen sich vor dem Widerspruch einen Ueberblick verschaffen.
+- Sie wollen sich vor dem Widerspruch einen Überblick verschaffen.
 
 ## Fachbegriffe (kurz erklaert)
 

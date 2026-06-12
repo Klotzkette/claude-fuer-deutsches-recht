@@ -13,7 +13,7 @@ description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anw
 
 ## Kernsachverhalt
 
-KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auch die StB-Kanzlei: Textgenerierung, Recherche, Belegklassifizierung, Pruef-Assistenten. Berufsrechtliche Pflichten: Berufsverschwiegenheit nach § 57 Abs. 1 StBerG, strafrechtlich abgesichert durch § 203 Abs. 1 Nr. 3 StGB, ergaenzt durch die DSGVO. § 203 Abs. 3 S. 2 StGB erlaubt die Einbeziehung "mitwirkender Personen" (umfasst auch externe Dienstleister wie KI-Anbieter) nur unter strikten Voraussetzungen — insbesondere schriftliche Verpflichtung zur Verschwiegenheit. Zusaetzlich gilt seit 01.08.2024 die EU-KI-Verordnung (VO 2024/1689) mit gestaffelter Anwendung; allgemeine Pflichten und Verbote ab 02.02.2025, Vorschriften für General Purpose AI ab 02.08.2025, Vollanwendung für Hochrisiko-KI im Wesentlichen ab 02.08.2026.
+KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auch die StB-Kanzlei: Textgenerierung, Recherche, Belegklassifizierung, Prüf-Assistenten. Berufsrechtliche Pflichten: Berufsverschwiegenheit nach § 57 Abs. 1 StBerG, strafrechtlich abgesichert durch § 203 Abs. 1 Nr. 3 StGB, ergaenzt durch die DSGVO. § 203 Abs. 3 S. 2 StGB erlaubt die Einbeziehung "mitwirkender Personen" (umfasst auch externe Dienstleister wie KI-Anbieter) nur unter strikten Voraussetzungen — insbesondere schriftliche Verpflichtung zur Verschwiegenheit. Zusaetzlich gilt seit 01.08.2024 die EU-KI-Verordnung (VO 2024/1689) mit gestaffelter Anwendung; allgemeine Pflichten und Verbote ab 02.02.2025, Vorschriften für General Purpose AI ab 02.08.2025, Vollanwendung für Hochrisiko-KI im Wesentlichen ab 02.08.2026.
 
 ## Kaltstart-Rueckfragen
 
@@ -72,7 +72,7 @@ KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auc
 | Risiko | Anwendung (Beispiele) |
 |---|---|
 | Unzulaessig (Art. 5) | Social Scoring durch Behörden; biometrische Echtzeit-Fernidentifizierung im öffentlichen Raum (mit Ausnahmen) |
-| Hochrisiko (Anhang III) | KI in kritischer Infrastruktur, Bildung, Beschaeftigungs-Auswahl, kritische Rechtspflege-Anwendungen |
+| Hochrisiko (Anhang III) | KI in kritischer Infrastruktur, Bildung, Beschäftigungs-Auswahl, kritische Rechtspflege-Anwendungen |
 | Begrenztes Risiko | Chatbots, Deepfake-Generatoren — Transparenz-/Kennzeichnungspflichten Art. 50 |
 | Minimales Risiko | Standard-Office-KI, KI in Buchhaltungs-Klassifikation, Recherche-Assistenten |
 
@@ -99,7 +99,7 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 
 - KI ist Produktivitaetshebel für Routine-Texte, Recherche, Beleg-Klassifikation; sie ersetzt aber keine berufsrechtlich verantwortete Prüfung durch den Berufstraeger.
 - Mandantendaten gelangen nur in KI-Loesungen mit nachweisbarem AVV, dokumentiertem Hosting (EU-Praeferenz) und schriftlicher Verschwiegenheitsverpflichtung nach § 203 Abs. 4 StGB i.V.m. § 62 StBerG (z.B. DATEV-KI, Microsoft 365 Copilot Enterprise mit EU Data Boundary).
-- Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschaeftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand prüfen.
+- Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschäftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand prüfen.
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
 - KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Prüfung der eingesetzten KI auf Hochrisiko-Einstufung.
 - Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu prüfen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).

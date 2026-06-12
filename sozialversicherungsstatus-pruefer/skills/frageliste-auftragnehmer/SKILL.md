@@ -1,6 +1,6 @@
 ---
 name: frageliste-auftragnehmer
-description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung im Sozialversicherungsstatus Pruefer."
+description: "Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Frageliste Auftragnehmer

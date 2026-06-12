@@ -106,7 +106,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Bieter ruegt Vergaberechtsverstoß fristgerecht | Ruegeschriftsatz nach § 160 Abs. 3 GWB; Template unten |
-| Variante A — Mandant will Auftrag behalten nicht streiten | Informelles Klaerungsgespraech mit Vergabestelle vor formeller Ruege |
+| Variante A — Mandant will Auftrag behalten nicht streiten | Informelles Klärungsgespraech mit Vergabestelle vor formeller Ruege |
 | Variante B — Zuschlag bereits erteilt keine 15-Tage-Frist | Nachpruefungsantrag auf Feststellung Unwirksamkeit § 135 GWB direkt |
 | Variante C — Unterschwellenvergabe kein GWB-Nachpruefungsverfahren | Unterlassungsklage vor Zivilgericht § 1 UWG analog prüfen |
 
@@ -300,7 +300,7 @@ Mit freundlichen Grüßen
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

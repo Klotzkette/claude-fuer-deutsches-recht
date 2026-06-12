@@ -1,6 +1,6 @@
 ---
 name: recht-und-moral-minimum
-description: "Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch."
+description: "Prüft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch."
 ---
 
 # Recht und Moral

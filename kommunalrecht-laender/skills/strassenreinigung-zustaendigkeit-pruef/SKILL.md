@@ -3,7 +3,7 @@ name: strassenreinigung-zustaendigkeit-pruef
 description: "der Länder: Straßenreinigung: Zuständigkeit prüfen im Kommunalrecht: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung dieses Spezialthemas."
 ---
 
-# Strassenreinigung Zuständigkeit Pruef
+# Strassenreinigung Zuständigkeit Prüf
 
 ## Arbeitsweg
 

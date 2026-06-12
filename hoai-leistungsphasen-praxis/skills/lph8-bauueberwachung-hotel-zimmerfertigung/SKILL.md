@@ -43,7 +43,7 @@ Der Gast erwartet hohen Schallschutz (Rw min. 47 dB Zimmertrennung) und reibungs
 - DIN 18040-1 Barrierefreies Bauen: öffentlich zugaengliche Gebaeude
 - GEG 2023 Gebaeude-Energie-Gesetz: Hotelneubauten, Anforderungen Heizwaermebedarf
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Modulverbindungen: Nivellierschrauben, Lastverteilungsplatten, Horizontalverbinder nach Montagepluenen
 2. Schallschutz nach Einbau: stichprobenartige Messung Rw min. 47 dB je Zimmerpaar nach DIN ISO 16283
@@ -56,8 +56,8 @@ Der Gast erwartet hohen Schallschutz (Rw min. 47 dB Zimmertrennung) und reibungs
 
 - Dalux Field Hotel: Zimmernummer-Zuordnung je Mangel, Foto, Verantwortlicher, Faelligkeitsdatum
 - Drohnenflug Dach Hotel: Lueftungsaustritte, Aufzugsmaschinenraum, PV-Anlage, Kuehlturm
-- Schallschutzmessprotokoll nach DIN ISO 16283: Messergebnis Rw, Messbedingungen, Pruefstelle
-- Sprinkler-Pruefbericht: Druckprotokoll, Durchflussberechnung, TUeV/VdS-Abnahme
+- Schallschutzmessprotokoll nach DIN ISO 16283: Messergebnis Rw, Messbedingungen, Prüfstelle
+- Sprinkler-Prüfbericht: Druckprotokoll, Durchflussberechnung, TUeV/VdS-Abnahme
 - Fotodokumentation Modulverbindungen: Verbindungsbolzen, Nivellierschrauben, Lastplatten
 
 ## Meldungserstellung im ERP / SAP

@@ -1,6 +1,6 @@
 ---
 name: anrechnung-55-beamtvg-mehrere-renten
-description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhaeltnis zum Ho..."
+description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung nach § 55 BeamtVG. Klaert das Zusammenwirken der Beamtenversorgung mit gesetzlicher Rente Altersrente Erwerbsminderungsrente sowie Renten aus berufsstaendischer oder zwischenstaatlicher Versorgung. Behandelt das Verhältnis zum Ho..."
 ---
 
 # Anrechnung Renten nach § 55 BeamtVG
@@ -15,7 +15,7 @@ description: "Skill zur Anrechnungsregelung von Renten auf die Beamtenversorgung
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der gesetzlichen Rentenversicherung, einer berufsstaendischen Versorgungseinrichtung oder einer auslaendischen Versorgung beziehen.
+Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der gesetzlichen Rentenversicherung, einer berufsstaendischen Versorgungseinrichtung oder einer ausländischen Versorgung beziehen.
 
 ## 2. Eingaben
 
@@ -32,7 +32,7 @@ Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der
 ### b) Anrechenbare Renten
 - Gesetzliche Rente einschliesslich Anteile aus Kindererziehungszeiten.
 - Hinterbliebenenrenten ggf. anteilig.
-- Auslaendische Renten (EU-Mitgliedstaaten) sind nach EuGH-Rechtsprechung zu beruecksichtigen — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Ausländische Renten (EU-Mitgliedstaaten) sind nach EuGH-Rechtsprechung zu beruecksichtigen — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Berufsstaendische Versorgung (Aerztekammer, Rechtsanwaltskammer) grundsätzlich anrechenbar, soweit beamtengleicher Ursprung.
 
 ### c) Nicht anrechenbar
@@ -44,7 +44,7 @@ Skill für Versorgungsempfaenger, die neben der Beamtenversorgung Renten aus der
 
 ## 4. Quellenpflicht
 
-- Normen: § 55 BeamtVG; landesrechtliche Aequivalente; Verordnung EG 883/2004 (Soziale Sicherheit).
+- Normen: § 55 BeamtVG; landesrechtliche Äquivalente; Verordnung EG 883/2004 (Soziale Sicherheit).
 - Rspr.: BVerwG und EuGH zu § 55 BeamtVG — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
@@ -91,5 +91,5 @@ Pensionierter Studiendirektor erhaelt Altersrente aus zehn Jahren Lehrertaetigke
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodis
 
 ## Worum es geht
 
-Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnungen nebeneinander und ermoeglicht systematischen Vergleich. Klassische Synopsen in der deutschen Rechtsgeschichte: WRV Art. 48 vs. GG Art. 81, BGB § 123 (1900) vs. DDR-ZGB § 68, Reichsstrafgesetzbuch 1871 vs. StGB 1975. Methodische Grundsaetze: (1) Gleiche Textfassung waehlen, (2) Quelle der Textfassung angeben, (3) Sprachliche Unterschiede (Archaismen, Terminologiewechsel) explizit kommentieren, (4) Inhaltliche Aenderungen von sprachlichen trennen, (5) Interpretationsrahmen je Epoche angeben.
+Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnungen nebeneinander und ermoeglicht systematischen Vergleich. Klassische Synopsen in der deutschen Rechtsgeschichte: WRV Art. 48 vs. GG Art. 81, BGB § 123 (1900) vs. DDR-ZGB § 68, Reichsstrafgesetzbuch 1871 vs. StGB 1975. Methodische Grundsaetze: (1) Gleiche Textfassung waehlen, (2) Quelle der Textfassung angeben, (3) Sprachliche Unterschiede (Archaismen, Terminologiewechsel) explizit kommentieren, (4) Inhaltliche Änderungen von sprachlichen trennen, (5) Interpretationsrahmen je Epoche angeben.
 
 ## Kernnormen / Kernquellen
 
@@ -34,7 +34,7 @@ Eine historische Synopse stellt Normtexte verschiedener Epochen oder Rechtsordnu
 ## Typische Streitfragen / Forschungsfragen
 
 1. Synopse und Kontextausblendung: Verliert man den historischen Rahmen durch reine Textgegenueberstellung?
-2. Terminologische Aenderungen: Wann ist eine Aenderung inhaltlich, wann nur sprachlich?
+2. Terminologische Änderungen: Wann ist eine Änderung inhaltlich, wann nur sprachlich?
 3. Luecken in einer Synopse: Was tun wenn eine Epoche kein Pendant hat?
 4. Digitale Synopsen (gesetze-im-internet.de mit Fassungen): Verlaeesslich?
 5. Synopse als Beweis: Welchen Beweiswert hat eine Synopse vor Gericht?

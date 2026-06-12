@@ -14,7 +14,7 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
+**Fokus:** MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Prüfraster.
 
 ### Bautraeger Mabv Sicherheit 2 Buergschaft
 
@@ -45,7 +45,7 @@ description: "MaBV § 2: Sicherheit für Vorausleistungen durch Buergschaft: Ski
 - Konkret prüfen: Wer ist Versicherer / Bank? Bonitaet?
 - Inkraftsetzung der Buergschaft mit Vertragsunterzeichnung.
 
-## Pruefraster
+## Prüfraster
 
 1. Buergschaft vorhanden?
 2. Aussteller bonitaet?

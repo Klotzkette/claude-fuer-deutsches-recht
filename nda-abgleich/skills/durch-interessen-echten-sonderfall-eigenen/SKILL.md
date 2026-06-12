@@ -1,6 +1,6 @@
 ---
 name: durch-interessen-echten-sonderfall-eigenen
-description: Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich. Rollen, Ziele, Fristen und Beweismittel pro Beteiligtem ordnen, kritische Pfade aufzeigen und Sonderfallweichen pruefen.
+description: Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich. Rollen, Ziele, Fristen und Beweismittel pro Beteiligtem ordnen, kritische Pfade aufzeigen und Sonderfallweichen prüfen.
 ---
 
 # Mehrparteienkonflikt und Interessenmatrix (NDA)

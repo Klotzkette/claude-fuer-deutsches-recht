@@ -1,6 +1,6 @@
 ---
 name: glossar-konsistenz-pruefung
-description: "Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise im Verlagsredaktion."
+description: "Prüft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise im Verlagsredaktion."
 ---
 
 # Glossar- und Konsistenz-Prüfung

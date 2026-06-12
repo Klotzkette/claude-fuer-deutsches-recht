@@ -18,7 +18,7 @@ description: "Bautraeger-Haftungsausschluss und § 307 BGB: Skill klaert welche 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster.
+**Fokus:** Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Prüfraster.
 
 ### Bautraeger Haftungsausschluss 307 Bgb
 
@@ -53,7 +53,7 @@ description: "Bautraeger-Haftungsausschluss und § 307 BGB: Skill klaert welche 
 ### Begrenzung auf vertragstypische vorhersehbare Schaeden
 - Wirksam bei einfacher Fahrlaessigkeit.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel?
 2. § 307 / § 309 / § 634a BGB Verstoss?

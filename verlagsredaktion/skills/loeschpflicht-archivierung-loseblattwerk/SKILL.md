@@ -15,7 +15,7 @@ description: "Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: D
 
 ## Worum geht es konkret
 
-Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-Archiv, weil dort identifizierbare Daten stehen (Aktenzeichen, Name, Lebenslauf, Lichtbild). Der Skill schluesselt die Abwaegung Loeschpflicht vs. Archivinteresse vs. Pressefreiheit nach DSGVO Art. 17 und dem Medienprivileg (Art. 85 DSGVO, MStV) und liefert Mustertexte für Ablehnung, Anonymisierung und Loeschung.
+Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-Archiv, weil dort identifizierbare Daten stehen (Aktenzeichen, Name, Lebenslauf, Lichtbild). Der Skill schlüsselt die Abwaegung Loeschpflicht vs. Archivinteresse vs. Pressefreiheit nach DSGVO Art. 17 und dem Medienprivileg (Art. 85 DSGVO, MStV) und liefert Mustertexte für Ablehnung, Anonymisierung und Loeschung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -25,7 +25,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 4. Wann wurde der Beitrag erstveroeffentlicht (Aktualitaet sinkt mit Zeit)?
 5. Welcher Verfahrensstand (laufendes Verfahren vs. rechtskraeftig abgeschlossen)?
 6. Gibt es Sperrwirkung nach BVerfG (z. B. nach Resozialisierungsgrundsatz)?
-7. Pruefraster intern oder bereits Abmahnung / Klage?
+7. Prüfraster intern oder bereits Abmahnung / Klage?
 
 ## Rechtlicher und sachlicher Rahmen
 
@@ -40,7 +40,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
 ## Praxisleitfaden / Schritt für Schritt
 
 1. **Eingang.** Loeschungsbegehren protokollieren mit Datum und Frist (DSGVO: einen Monat zur Antwort, verlaengerbar).
-2. **Pruefraster anwenden.**
+2. **Prüfraster anwenden.**
  - Tatsachenbehauptung oder Werturteil?
  - Aktualitaet noch gegeben?
  - Informationsinteresse (öffentlich vs. privat)?
@@ -52,7 +52,7 @@ Eine Person verlangt die Loeschung oder Anonymisierung eines Beitrags im Online-
  - Anonymisierung (Initialen, generische Funktionsbeschreibung).
  - Korrektur einzelner Passagen mit Versionierung.
  - Ablehnung mit Begruendung; Hinweis auf Beschwerde und Klage.
-5. **Datenbankanbieter informieren** (juris, beck-online): Aenderung muss in der Datenbank nachvollzogen werden.
+5. **Datenbankanbieter informieren** (juris, beck-online): Änderung muss in der Datenbank nachvollzogen werden.
 6. **Backup-Pflichten.** Auch in internen Backups Anonymisierung sicherstellen, soweit zumutbar.
 7. **Folgen kommunizieren.** Bei kompletter Loeschung Hinweisseite mit Datum.
 8. **Archivierungsverpflichtungen** beruecksichtigen (Pflichtablieferung an Deutsche Nationalbibliothek; Loeschung dort nicht möglich).

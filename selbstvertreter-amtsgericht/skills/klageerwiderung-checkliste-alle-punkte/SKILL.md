@@ -83,7 +83,7 @@ Skill `einreden-aktiv-geltend-machen`.
 Tragen Sie auch Tatsachen vor, die für Sie sprechen:
 
 - "Tatsaechlich wurde am 19.3.2025 ein Maengel-Vorbehalt erklaert."
-- "Bereits am 1.4.2025 hat die Klaegerin eine Teilzahlung von 500 EUR akzeptiert."
+- "Bereits am 1.4.2025 hat die Klägerin eine Teilzahlung von 500 EUR akzeptiert."
 
 Mit Beweisangebot.
 

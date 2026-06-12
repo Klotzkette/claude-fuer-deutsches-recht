@@ -185,7 +185,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 ## Fachbegriffe (kurz erklaert)
 
 - **SPA** — Share Purchase Agreement; Anteilskaufvertrag bei Share Deals.
-- **APA** — Asset Purchase Agreement; Vermoegensuebertragungsvertrag bei Asset Deals.
+- **APA** — Asset Purchase Agreement; Vermögensuebertragungsvertrag bei Asset Deals.
 - **Due Diligence** — Sorgfaeltige Prüfung des Zielunternehmens in rechtlichen, steuerlichen und wirtschaftlichen Bereichen vor Transaktionsabschluss.
 - **W&I-Versicherung** — Warranty & Indemnity Insurance; Versicherung gegen Garantieverletzungen im SPA.
 - **CP** — Condition Precedent; aufschiebende Bedingung, die vor Closing erfuellt sein muss.
@@ -248,7 +248,7 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 - `corporate-kanzlei-automation-monitoring` — Monitore für Datenraum-Neuzugaenge, Q&A-Status, CP-Deadlines und Registerupdates entwerfen.
 - `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen erstellen.
 - `corporate-kanzlei-distressed-ma` — Unternehmenskaeufe aus Insolvenz oder Krise begleiten.
-- `corporate-kanzlei-umwandlungsrecht` — Verschmelzung, Spaltung, Formwechsel und Vermoegensuebertragung nach UmwG begleiten.
+- `corporate-kanzlei-umwandlungsrecht` — Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG begleiten.
 - `corporate-kanzlei-umwandlungssteuerrecht` — Umwandlungen auf Steuerneutralitaet, Buchwertfortfuehrung und Sperrfristen prüfen.
 - `corporate-kanzlei-gesellschaftsrecht-register` — Handelsregister-Anmeldungen und Satzungsaenderungen durchfuehren.
 - `corporate-kanzlei-handelsregisterabruf` — Handelsregister-Daten abrufen und Gesellschaftsstruktur analysieren.

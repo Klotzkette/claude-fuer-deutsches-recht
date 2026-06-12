@@ -131,8 +131,8 @@ Stand: 05/2026. StaRUG 1.1.2021. IDW S 6 / S 11. INSOL-Standards. Bei SanInsKG-V
 Bevor losgelegt wird, klaere:
 
 1. **Krisenstadium?** Drohende ZU (§ 18) → StaRUG; eingetretene ZU (§ 17) → Insolvenz; Ueberschuldung (§ 19) → InsO oder Schutzschirm.
-2. **Glaeubigerstruktur?** Bank (gesichert), Lieferanten (ungesichert), FA/Sozialkasse (Privilegierung § 39 InsO), PSV (Pensionen BetrAVG).
-3. **BATNA der Gegenseite?** Was passiert wenn Glaeubiger nicht einwilligen → Insolvenzeröffnung, Liquidation, Quote-Prognose.
+2. **Gläubigerstruktur?** Bank (gesichert), Lieferanten (ungesichert), FA/Sozialkasse (Privilegierung § 39 InsO), PSV (Pensionen BetrAVG).
+3. **BATNA der Gegenseite?** Was passiert wenn Gläubiger nicht einwilligen → Insolvenzeröffnung, Liquidation, Quote-Prognose.
 4. **Zeitfenster?** Stillhalte-Vereinbarung (Standstill, typisch 90 Tage) als Verhandlungs-Voraussetzung.
 5. **Handlungsunfaehigkeit der Schuldnerin?** § 15a InsO Antragspflicht — kein Verhandlungsexzess auf Kosten der Antragspflicht.
 
@@ -146,19 +146,19 @@ Bevor losgelegt wird, klaere:
  <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - Konkrete BGH-Linien zur Sanierungsmoderation (§§ 94 ff. StaRUG) und zum Sanierungsprivileg (§ 39 Abs. 4 InsO) vor Ausgabe über offene Quellen verifizieren.
 
-## Paragrafenkette Glaeubigerverhandlung
+## Paragrafenkette Gläubigerverhandlung
 
 § 18 InsO (drohende ZU) → § 31 StaRUG (Anzeige) → §§ 7-39 StaRUG (Plan) → § 25 StaRUG (Mehrheiten) → § 26 StaRUG (Cramdown) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 142 InsO (Bargeschaeft) → § 133 InsO (Vorsatzanfechtung) → § 165 SGB III (Insolvenzgeld)
 
-## — 5-Phasen-Glaeubigerverhandlung
+## — 5-Phasen-Gläubigerverhandlung
 
-1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schluesselglaeubiger mittragen sollen.
-2. **Glaeubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Glaeubiger errechnen.
-3. **Vorverhandlung Schlüssel-Glaeubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
+1. **Lageanalyse:** Liquiditaetsstatus 3-Wochen und 13-Wochen-Forecast; Fortbestehensprognose § 19 Abs. 2 InsO; Sanierungskonzept auf IDW-S-6-Niveau vorbereiten, wenn Banken, Warenkreditversicherer oder Schlüsselglaeubiger mittragen sollen.
+2. **Gläubigerstruktur:** Rangtabelle erstellen: gesichert (§§ 49-51 InsO) → Masseforderungen → unsecured → Nachrang § 39 InsO; BATNA je Gläubiger errechnen.
+3. **Vorverhandlung Schlüssel-Gläubiger:** Bank zuerst (groesstes Sicherheitenvolumen); Stillhalte-Vereinbarung 90 Tage; Term Sheet Vergleichsquoten.
 4. **Plan-Aufstellung:** StaRUG-Plan oder InsO-Plan; Klassenbildung; Vergleichsrechnung; Mehrheiten-Simulation.
 5. **Abstimmung und Bestaetigung:** Eroerungs- und Abstimmungstermin; § 25 StaRUG (75%) oder § 244 InsO (50% Kopf + Summe); Cramdown § 26 StaRUG / § 245 InsO.
 
-## Output-Template Verhandlungsnotiz Schlüssel-Glaeubiger
+## Output-Template Verhandlungsnotiz Schlüssel-Gläubiger
 
 **Adressat:** Intern (Handakte) — Tonfall: strukturiert-sachlich
 

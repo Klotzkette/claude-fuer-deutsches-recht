@@ -24,7 +24,7 @@ description: "Untreue im Aktienrecht: Paragraph 266 StGB iVm Paragraph 93 AktG S
 
 ## Worum geht es konkret
 
-Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermoegensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder für Fussballverein aus, ohne Bezug zur Geschaeftstaetigkeit. Vorstand entscheidet über Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
+Im Aktienrecht hat die Untreue ein eigenes Vorzeichen: Der Vorstand traegt eine **gesetzlich kodifizierte** Sorgfaltspflicht (Paragraph 93 AktG), die zugleich die Vermögensbetreuungspflicht iSd Paragraph 266 StGB konkretisiert. Anwendungsfall: Vorstand gibt grosszuegige Sponsoringgelder für Fussballverein aus, ohne Bezug zur Geschäftstaetigkeit. Vorstand entscheidet über Konzernumstrukturierung ohne hinreichende Information. Aufsichtsrat duldet pflichtwidrige Vorstandsentscheidung.
 
 Der entscheidende Unterschied zur GmbH-Untreue: Die **Business Judgment Rule** (Paragraph 93 Abs 1 Satz 2 AktG) gibt dem Vorstand einen rechtlich anerkannten Entscheidungsspielraum. Innerhalb dieses "safe harbor" ist Pflichtverletzung ausgeschlossen.
 
@@ -32,7 +32,7 @@ Der entscheidende Unterschied zur GmbH-Untreue: Die **Business Judgment Rule** (
 
 ### Paragraph 93 Abs 1 AktG Sorgfaltspflicht
 
-"Die Vorstandsmitglieder haben bei ihrer Geschaeftsfuehrung die Sorgfalt eines ordentlichen und gewissenhaften Geschaeftsleiters anzuwenden."
+"Die Vorstandsmitglieder haben bei ihrer Geschäftsführung die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden."
 
 Das ist Voraussetzung der **VBP** im Sinn von Paragraph 266 StGB. Vorstand hat hauptsaechlich und eigenstaendig fremdes (= Gesellschafts-) Vermögen zu wahren.
 
@@ -74,7 +74,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 ## Konkurrenzen
 
-- **Paragraph 266 StGB iVm Paragraph 93 AktG und Paragraph 399 ff. AktG.** Aktienrechtliche Strafnormen (unrichtige Darstellung der Verhaeltnisse der Gesellschaft Paragraph 400 AktG, Bilanzfaelschung); regelmaessig Tateinheit.
+- **Paragraph 266 StGB iVm Paragraph 93 AktG und Paragraph 399 ff. AktG.** Aktienrechtliche Strafnormen (unrichtige Darstellung der Verhältnisse der Gesellschaft Paragraph 400 AktG, Bilanzfaelschung); regelmaessig Tateinheit.
 - **Paragraph 266 StGB und Paragraph 263 StGB.** Bei Tauschung Dritter durch Vorstand Tateinheit möglich.
 - **Paragraph 266 StGB und Paragraph 283 StGB.** In AG-Krise oft Bankrott parallel; Tateinheit.
 - **Paragraph 266 StGB und Paragraph 826 BGB.** Zivilrechtlich sittenwidrige Schaedigung als parallele Anspruchsgrundlage.

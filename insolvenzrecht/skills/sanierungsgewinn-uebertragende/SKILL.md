@@ -23,14 +23,14 @@ description: "Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) 
 
 ## Worum geht es
 
-Bei der uebertragenden Sanierung wird der Geschaeftsbetrieb der Schuldnerin an eine Auffanggesellschaft verkauft. Das ist **kein** Forderungsverzicht und damit **kein** klassischer Sanierungsertrag im Sinne von Paragraph 3a Absatz 1 EStG. Stattdessen entstehen bei der Schuldnerin Veraeusserungsgewinne durch die Aufdeckung stiller Reserven, und bei der Auffanggesellschaft Anschaffungskosten und ein Step-up.
+Bei der uebertragenden Sanierung wird der Geschäftsbetrieb der Schuldnerin an eine Auffanggesellschaft verkauft. Das ist **kein** Forderungsverzicht und damit **kein** klassischer Sanierungsertrag im Sinne von Paragraph 3a Absatz 1 EStG. Stattdessen entstehen bei der Schuldnerin Veraeusserungsgewinne durch die Aufdeckung stiller Reserven, und bei der Auffanggesellschaft Anschaffungskosten und ein Step-up.
 
 Dieser Skill grenzt die Asset-Deal-Variante vom Plan-Verzicht ab und zeigt, wo das Sanierungsgewinn-Regime trotzdem indirekt mitspielen kann. Adressat: IV, Plan-Anwalt, StB, Investor-Anwalt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Plan oder Verfahren sieht eine uebertragende Sanierung vor.
-- Auffanggesellschaft soll Vermoegenswerte aus der Insolvenz kaufen.
+- Auffanggesellschaft soll Vermögenswerte aus der Insolvenz kaufen.
 - Steuerliche Schnittstelle zwischen Asset Deal und Sanierungsertrag muss geklaert werden.
 
 Kaltstart-Fragen:
@@ -39,12 +39,12 @@ Kaltstart-Fragen:
 2. Kaufpreis und stille Reserven der zu uebertragenden Aktiva?
 3. Wird der Kaufpreis für Forderungsbefriedigung verwendet oder zur Schuldentilgung?
 4. Welche Verbindlichkeiten bleiben bei der Schuldnerin (Restmasse)?
-5. Erwerber: Auffanggesellschaft, strategischer Investor, Schuldner-Geschaeftsleitung?
+5. Erwerber: Auffanggesellschaft, strategischer Investor, Schuldner-Geschäftsleitung?
 
 ## Rechtlicher Rahmen
 
 - Paragraphen 159 ff. InsO — Verwertung der Masse.
-- Paragraph 160 InsO — Zustimmung Glaeubigerausschuss.
+- Paragraph 160 InsO — Zustimmung Gläubigerausschuss.
 - Paragraph 162 InsO — Veraeusserung an besonders Interessierte.
 - Paragraph 613a BGB — Betriebsuebergang.
 - Paragraph 75 AO — Uebernehmerhaftung Steuern.
@@ -59,7 +59,7 @@ Kaltstart-Fragen:
 3. **Veraeusserungsgewinn berechnen** (Kaufpreis abzgl. Buchwert).
 4. **Verlustvortraege zur Verrechnung prüfen.** Paragraph 10d EStG / Paragraph 10a GewStG; **nicht** Paragraph 3a EStG.
 5. **Uebernehmerhaftung Paragraph 75 AO klären.** Erwerber haftet für Betriebssteuern eines Jahres vor und nach Uebergang; bei Insolvenzkauf modifiziert.
-6. **Insolvenzplan-Kombination prüfen.** Wenn das Asset-Deal-Erloes durch den Plan an Glaeubiger ausgekehrt wird und ein Restverzicht entsteht, kann doch ein klassischer Sanierungsertrag entstehen — für den verbleibenden Glaeubiger-Verzicht.
+6. **Insolvenzplan-Kombination prüfen.** Wenn das Asset-Deal-Erloes durch den Plan an Gläubiger ausgekehrt wird und ein Restverzicht entsteht, kann doch ein klassischer Sanierungsertrag entstehen — für den verbleibenden Gläubiger-Verzicht.
 
 ## Trade-off-Matrix
 
@@ -77,7 +77,7 @@ Kaltstart-Fragen:
 2. **Stille-Reserven-Erfassung wichtig.** Bei niedrigen Buchwerten und hohem Kaufpreis kann der Veraeusserungsgewinn die Verlustvortraege ueberschreiten und Steuern auf die Masse ausloesen.
 3. **Paragraph 75 AO modifiziert.** Im Insolvenzverfahren ist die Uebernehmerhaftung nach Paragraph 75 AO unterschiedlich zu beurteilen; prüfen, ob der Erwerb "aus der Insolvenzmasse" privilegiert ist.
 4. **Kombination mit Plan-Restverzicht.** Wenn der Asset-Deal-Erloes über den Plan ausgekehrt wird und Restquoten erlassen werden, entsteht doch ein Sanierungsertrag für den Verzichtsteil — Paragraph 3a EStG dann anwendbar.
-5. **Mehrwertsteuer** beim Asset Deal: Geschaeftsveraeusserung im Ganzen Paragraph 1 Absatz 1a UStG; Masseverbindlichkeit Paragraph 55 InsO bei Abweichung.
+5. **Mehrwertsteuer** beim Asset Deal: Geschäftsveraeusserung im Ganzen Paragraph 1 Absatz 1a UStG; Masseverbindlichkeit Paragraph 55 InsO bei Abweichung.
 
 ## Mustertexte / Berechnungsbeispiele
 

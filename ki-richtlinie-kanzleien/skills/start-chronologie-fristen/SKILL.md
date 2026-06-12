@@ -124,7 +124,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `kanzlei-kontext-analyse` | Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten… |
 | `kennzeichnungspflichten-veroeffentlichungen` | Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss… |
 | `ki-kompetenz-erwerb-plan` | KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht… |
-| `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO… |
+| `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erläutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO… |
 | `ki-vo-hochrisiko-personalwesen` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4… |
 | `literatur-und-quellen` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise… |
 | `musterklauseln-it-vertrag` | Musterklauseln für IT-Verträge mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e… |
@@ -199,14 +199,14 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - `kanzlei-kontext-analyse` — Kanzlei-Kontext für massgeschneiderte KI-Richtlinie erfassen und analysieren.
 - `kennzeichnungspflichten-veroeffentlichungen` — Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veroeffentlichungen prüfen.
 - `ki-kompetenz-erwerb-plan` — KI-Kompetenz-Schulungsplan nach Art. 4 KI-VO erstellen und dokumentieren.
-- `ki-vo-betreiber-pflichten` — KI-VO-Betreiber-Pflichten für Kanzleien erlaeutern und in Richtlinie umsetzen.
+- `ki-vo-betreiber-pflichten` — KI-VO-Betreiber-Pflichten für Kanzleien erläutern und in Richtlinie umsetzen.
 - `ki-vo-hochrisiko-personalwesen` — Hochrisiko-Anforderungen für KI im HR-Bereich ab August 2026 prüfen.
 - `literatur-und-quellen` — Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien.
 - `musterklauseln-it-vertrag` — Musterklauseln für IT-Verträge mit KI-Dienstleistern (Verschwiegenheit, Training-Opt-out).
 - `prompting-leitfaden` — Prompting-Leitfaden für juristische KI-Nutzung mit Vorlagen und Checkliste.
 - `rdg-pruefung-chatbot` — RDG-Prüfung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbringt.
 - `richtlinien-skelett-erzeugen` — Vollstaendiges KI-Richtlinien-Skelett mit allen Pflichtbausteinen und Platzhaltern erzeugen.
-- `richtlinien-update-zyklus` — KI-Nutzungsrichtlinie regelmaessig prüfen und aktualisieren mit Aenderungslog.
+- `richtlinien-update-zyklus` — KI-Nutzungsrichtlinie regelmaessig prüfen und aktualisieren mit Änderungslog.
 - `schatten-ki-aufdeckung` — Nicht autorisierte KI-Dienste erkennen und konstruktiv mit Mitarbeitenden umgehen.
 - `transparenz-mandanten` — Transparenz gegenueber Mandanten bei KI-Einsatz sicherstellen: Mandatsvertragsklauseln.
 - `urheberrecht-bausteine` — Urheberrechtliche Bausteine für KI-Richtlinien: Schutz und Upload-Verbote.

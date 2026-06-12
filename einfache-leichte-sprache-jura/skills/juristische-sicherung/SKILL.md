@@ -11,7 +11,7 @@ Dieses Fachmodul vor und nach jeder Übertragung.
 1. Welche Fristen kommen im Originaltext vor — Datum, Fristbeginn, Fristende, Folgen?
 2. Welche Pflichten (Muss-Handlungen) und welche Rechte (Kann-Optionen) sind enthalten?
 3. Gibt es Ausnahmen oder Vorbehalte, die praktisch wichtig sein können?
-4. Sind rechtliche Unsicherheiten oder offene Pruefungen im Originaltext erkennbar?
+4. Sind rechtliche Unsicherheiten oder offene Prüfungen im Originaltext erkennbar?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

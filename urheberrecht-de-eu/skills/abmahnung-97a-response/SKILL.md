@@ -1,6 +1,6 @@
 ---
 name: abmahnung-97a-response
-description: "Prueft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff im Urheberrecht De Eu."
+description: "Prüft urheberrechtliche Abmahnung, Unterlassungserklärung, Kosten, Aktivlegitimation, Belege, Modifikation und Gegenangriff im Urheberrecht De Eu."
 ---
 
 # Abmahnung nach § 97a UrhG beantworten

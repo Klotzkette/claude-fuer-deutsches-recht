@@ -3,7 +3,7 @@ name: richter-praesidium-und-geschaeftsverteilung
 description: "Präsidium, Geschäftsverteilungsplan, Abordnung und Besetzung mit Proberichtern im Beamtenrecht."
 ---
 
-# Richter Praesidium Und Geschaeftsverteilung
+# Richter Praesidium Und Geschäftsverteilung
 
 ## Arbeitsweg
 

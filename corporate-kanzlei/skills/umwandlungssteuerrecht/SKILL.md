@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -110,7 +110,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 3. Buchwertfortfuehrung gewuenscht (§§ 11, 20, 24 UmwStG)? Dann Antrag noetig.
 4. Auslandsbezug: EU/EWR oder Drittland → § 1 IV UmwStG-Beschraenkungen?
 5. Verlustvortraege bei der uebertragenden Gesellschaft? → § 12 III UmwStG; § 8c KStG Risiko?
-6. Grundstuecke im uebergehenden Vermögen? → GrESt-Befreiung pruefbar (§ 6a GrEStG)?
+6. Grundstuecke im uebergehenden Vermögen? → GrESt-Befreiung prüfbar (§ 6a GrEStG)?
 7. Umwandlung innerhalb Konzern oder mit Dritten?
 
 ## Zentrale Normen
@@ -164,7 +164,7 @@ Praxisproblem: Konzernumstrukturierungen können GrESt-Befreiung durch spaetere 
 5. **Entstrickungsrisiko ausschliessen** — deutsches Besteuerungsrecht bleibt erhalten?
 6. **Steuererklaerung für Uebertragungsjahr** — Antrag auf Buchwert bis Abgabe stellen
 7. **Sperrfrist-Kalender anlegen** — jaehrliche Meldepflichten eintragen
-8. **Post-Closing Monitoring** — Einhaltung Sperrfristen; GrESt-Nachbehaltefristen; aenderungen unverzueglich analysieren
+8. **Post-Closing Monitoring** — Einhaltung Sperrfristen; GrESt-Nachbehaltefristen; änderungen unverzueglich analysieren
 
 ## Output-Template Umwandlungssteuer-Checkbogen
 

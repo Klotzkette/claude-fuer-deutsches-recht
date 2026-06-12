@@ -12,7 +12,7 @@ Verbraucher (§ 13 BGB) geniessen erhebliche Schutzrechte. Die Verfolgung der Fo
 | Definition | Inhalt |
 |---|---|
 | Natuerliche Person | ja |
-| Zwecke nicht ueberwiegend gewerblich/selbstaendig | ja |
+| Zwecke nicht ueberwiegend gewerblich/selbständig | ja |
 | Doppelnutzung | Schwerpunkt-Prüfung; im Zweifel Verbraucher (BGH VIII ZR 7/02) |
 | Vereine | grds. Verbraucher, wenn nicht gewerblich |
 | Existenzgruender | nicht Verbraucher (BGH VIII ZR 219/00) |
@@ -37,12 +37,12 @@ Bei vorformulierten Vertragsbedingungen gegenueber Verbraucher gilt erhoehte Kon
 - Gerichtsstandsvereinbarung B2C im voraus (§ 38 Abs. 2 ZPO).
 - Schiedsklauseln ohne Schriftform und Aufklaerung (§ 1031 Abs. 5 ZPO).
 
-## Widerrufsrecht bei Fernabsatz und ausserhalb Geschaeftsraeumen
+## Widerrufsrecht bei Fernabsatz und ausserhalb Geschäftsraeumen
 
 | Vertragstyp | Norm | Widerrufsfrist |
 |---|---|---|
 | Fernabsatz (Online-/Telefonkauf) | §§ 312c, 312g BGB | 14 Tage § 355 BGB |
-| Ausserhalb Geschaeftsraeumen (Haustuer) | § 312b BGB | 14 Tage |
+| Ausserhalb Geschäftsraeumen (Haustuer) | § 312b BGB | 14 Tage |
 | Verbraucherdarlehen | § 495 BGB | 14 Tage |
 | Lebensversicherung | § 8 VVG | 30 Tage |
 | Versicherung Auslandsdarlehen | § 495 BGB i.V.m. RL | 30 Tage |
@@ -89,7 +89,7 @@ Verbraucher kann nach § 309 Nr. 3 BGB **nicht** durch AGB von Aufrechnungsrecht
 | Posten | Wirksamkeit |
 |---|---|
 | Mahnkosten Verbraucher | wie bei B2B, aber Pauschalen begrenzt (§ 309 Nr. 5 BGB) |
-| Inkassokosten | nach § 4 RDGEG max. RA-Geschaeftsgebuehr |
+| Inkassokosten | nach § 4 RDGEG max. RA-Geschäftsgebuehr |
 | Vorgerichtliche RA-Kosten | nur erforderlich UND verhaeltnismaessig (BGH IX ZR 119/04) |
 
 ## Verbraucherbauvertrag § 650i BGB

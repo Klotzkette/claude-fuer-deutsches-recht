@@ -15,15 +15,15 @@ description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Rege
 
 ## Kernsachverhalt
 
-Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschaeftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.
+Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-Anwendung. Konflikte entstehen typischerweise bei Mandanten mit Wohnsitz in zwei Staaten, bei Wegzug, bei Auslandsentsendung, bei Gesellschaften mit Sitz in einem Staat und Geschäftsleitung in einem anderen. Der Tie-Breaker-Mechanismus loest den Konflikt durch eine Kaskade objektiver Merkmale, die hier durchgeprueft wird.
 
 ## Kaltstart-Rueckfragen
 
 1. Hat der Mandant Wohnsitz, gewoehnlichen Aufenthalt oder unbeschraenkte Steuerpflicht in beiden Staaten?
 2. Bei natuerlicher Person: Liegen Aufenthaltsnachweise, Mietvertraege, Stromrechnungen, Schulbescheinigungen Kinder vor?
 3. Wo halten sich Ehepartner und Kinder auf — Indizien für Mittelpunkt der Lebensinteressen?
-4. Wo befinden sich wesentliche Vermoegensgegenstaende, Bankverbindungen, Versicherungen?
-5. Bei Gesellschaften: Wo finden Vorstands- und Geschaeftsfuehrungssitzungen statt, wo werden Entscheidungen getroffen?
+4. Wo befinden sich wesentliche Vermögensgegenstaende, Bankverbindungen, Versicherungen?
+5. Bei Gesellschaften: Wo finden Vorstands- und Geschäftsführungssitzungen statt, wo werden Entscheidungen getroffen?
 6. Ist das anwendbare DBA bereits durch MLI angepasst (Verstaendigungsverfahren statt Place of Effective Management)?
 7. Liegen Ansaessigkeitsbescheinigungen der Finanzbehoerden beider Staaten vor (BZSt-Formulare 01-3 ff.)?
 8. Liegt eine Wegzugskonstellation vor mit § 6 AStG (Wegzugsbesteuerung)?
@@ -34,10 +34,10 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-An
 
 - **Art. 4 OECD-MA** — Definition "ansaessige Person", Tie-Breaker für natuerliche Personen und Gesellschaften.
 - **§ 1 EStG** — unbeschraenkte Steuerpflicht bei Wohnsitz § 8 AO oder gewoehnlichem Aufenthalt § 9 AO.
-- **§ 1 KStG** — Kapitalgesellschaft mit Sitz oder Geschaeftsleitung im Inland.
+- **§ 1 KStG** — Kapitalgesellschaft mit Sitz oder Geschäftsleitung im Inland.
 - **§ 8 AO** — Wohnsitzbegriff.
 - **§ 9 AO** — gewoehnlicher Aufenthalt (6-Monatsregel mit Erweiterungen).
-- **§ 10 AO** — Geschaeftsleitung.
+- **§ 10 AO** — Geschäftsleitung.
 - **§ 11 AO** — Sitz juristischer Personen.
 - **§ 6 AStG** — Wegzugsbesteuerung bei wesentlicher Beteiligung.
 - **MLI Art. 4** — Tie-Breaker Gesellschaften kann durch MLI in Verstaendigungsverfahren umgestellt sein (vom OECD-MA 2017 vorgegeben).
@@ -52,7 +52,7 @@ Die Ansaessigkeit nach Art. 4 OECD-MA ist Gateway-Voraussetzung für jede DBA-An
 
 ### Tie-Breaker natuerliche Person (Art. 4 Abs. 2 MA)
 
-Pruefungskaskade in dieser Reihenfolge:
+Prüfungskaskade in dieser Reihenfolge:
 
 1. **Staendige Wohnstaette** in einem Staat? Wenn nur in einem: Ansaessigkeit dort.
 2. Wenn in beiden Staaten staendige Wohnstaette: **Mittelpunkt der Lebensinteressen** (engste persönliche und wirtschaftliche Beziehungen).
@@ -62,8 +62,8 @@ Pruefungskaskade in dieser Reihenfolge:
 
 ### Tie-Breaker Gesellschaften (Art. 4 Abs. 3 MA)
 
-- **Alte Fassung (OECD-MA 2014)**: Ort der tatsaechlichen Geschaeftsleitung (Place of Effective Management — POEM).
-- **Neue Fassung (OECD-MA 2017 / MLI Art. 4)**: Verstaendigungsverfahren der Behörden unter Beruecksichtigung der Geschaeftsleitung, Sitz, sonstiger Faktoren. Ohne Verstaendigung keine DBA-Verguenstigungen.
+- **Alte Fassung (OECD-MA 2014)**: Ort der tatsaechlichen Geschäftsleitung (Place of Effective Management — POEM).
+- **Neue Fassung (OECD-MA 2017 / MLI Art. 4)**: Verstaendigungsverfahren der Behörden unter Beruecksichtigung der Geschäftsleitung, Sitz, sonstiger Faktoren. Ohne Verstaendigung keine DBA-Verguenstigungen.
 - Praxis: in vielen aelteren deutschen DBA noch POEM-Regelung; konkrete Klausel im DBA-Text und MLI-Notification konsultieren.
 
 ### Staendige Wohnstaette
@@ -75,7 +75,7 @@ Pruefungskaskade in dieser Reihenfolge:
 ### Mittelpunkt der Lebensinteressen
 
 - Persoenliche Beziehungen: Ehegatte, Kinder, Freundeskreis, Vereinszugehoerigkeit.
-- Wirtschaftliche Beziehungen: Hauptbeschaeftigung, Quelle der Einkuenfte, Vermoegenslage, Bankkonten.
+- Wirtschaftliche Beziehungen: Hauptbeschaeftigung, Quelle der Einkuenfte, Vermögenslage, Bankkonten.
 - Gewichtung: BFH gewichtet persönliche Beziehungen in der Regel staerker, insbesondere bei Familie.
 
 ### Gewoehnlicher Aufenthalt
@@ -90,7 +90,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 1. Wohnsitz-Konstellation klären: Eigentum, Miete, Nutzungsumfang, Familienanbindung.
 2. Beruflicher Hintergrund: Entsendung, Auswanderung, Pendlerstatus.
-3. Vermoegenslage: Bankkonten, Immobilien, Beteiligungen pro Staat.
+3. Vermögenslage: Bankkonten, Immobilien, Beteiligungen pro Staat.
 4. Liegen Ansaessigkeitsbescheinigungen vor?
 
 ### Phase 2 — Prüfung nationale Ansaessigkeit
@@ -129,7 +129,7 @@ Pruefungskaskade in dieser Reihenfolge:
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen ändern sich). Bei auslaendischen FA: IRS Form 6166 (USA, Antrag über Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfür "certificado de residencia fiscal"; aktuelle Modellnummer über agenciatributaria.gob.es prüfen) — Bearbeitungszeit teils 4-12 Wochen.
+- **Ansaessigkeitsbescheinigung zuerst, dann alles andere**: Standard-Formular des Wohnsitz-FA in DE ist DE-1/CoR (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — die Bezeichnungen ändern sich). Bei ausländischen FA: IRS Form 6166 (USA, Antrag über Form 8802), HMRC Certificate of Residence (UK), CFR-1 (Polen), CRA Certificate (Kanada), spanisches Modelo 28 (in der Praxis hierfür "certificado de residencia fiscal"; aktuelle Modellnummer über agenciatributaria.gob.es prüfen) — Bearbeitungszeit teils 4-12 Wochen.
 - **Doppelte Ansaessigkeitsbescheinigung beantragen**: solange Tie-Breaker offen ist, beide FA um Bescheinigung bitten. Spaetere Korrektur einer Bescheinigung ist mit massivem Verwaltungsaufwand verbunden.
 - **Reisekalender als Excel mit Quellbeleg**: Prüfer fragen "wie sind die Tage gezaehlt?" — Excel-Spalten Datum, Land, Beleg (Flugticket, Hotelrechnung, EC-Kartenabhebung, Mobilfunk-Roaming-Abrechnung). Prüfer akzeptieren keine reinen Behauptungen.
 - **Drittland-Ansaessigkeit (z.B. VAE, Singapur)**: Apostille des Heimatstaats notwendig, in vielen Drittstaaten sogar Konsularbeglaubigung — Vorlaufzeit 6-10 Wochen einplanen.

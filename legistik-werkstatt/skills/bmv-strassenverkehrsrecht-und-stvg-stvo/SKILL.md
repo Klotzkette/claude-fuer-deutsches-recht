@@ -1,11 +1,11 @@
 ---
 name: bmv-strassenverkehrsrecht-und-stvg-stvo
-description: "Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschaeftsbereich BMV: Normbestand (StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.); Akteure (Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Länder und Kommunen.); EU-Bezug (Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspa..."
+description: "Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschäftsbereich BMV: Normbestand (StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.); Akteure (Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Länder und Kommunen.); EU-Bezug (Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspa..."
 ---
 
 # Strassenverkehrsrecht (StVG; StVO) (BMV)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Strassenverkehrsrecht (StVG; StVO) im Geschaeftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Strassenverkehrsrecht (StVG; StVO) im Geschäftsbereich BMV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschaeftsbereic
 
 Kernbestand des Sachfelds: StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Konflikt zwischen Bund und Kommunen bei Tempolimits; automatisiertes Fahren; Verkehrssicherheit.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

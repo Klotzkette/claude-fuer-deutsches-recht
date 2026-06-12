@@ -1,6 +1,6 @@
 ---
 name: begruendung-der-note
-description: "Prüft Begründungspflicht und Bewertungsfeedback im Pruefungsrecht Hochschule."
+description: "Prüft Begründungspflicht und Bewertungsfeedback im Prüfungsrecht Hochschule."
 ---
 
 # Begruendung Der Note

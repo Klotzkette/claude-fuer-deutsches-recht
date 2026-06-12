@@ -55,7 +55,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 ## Praktikertipps Verteidigung
 
 - **Wasserrechtliche Erlaubnis prüfen.** Ist der Mandant Erlaubnisinhaber? Sind die Grenzwerte eingehalten? Liegt die Einleitung im erlaubten Rahmen? Frueh Kopie der Erlaubnis besorgen.
-- **Mengen- und Stoff-Schwelle bestreiten.** "Nicht nur geringfuegig" — Sachverstaendiger zur Bewertung der Eintragsmenge im Verhaeltnis zur Gewaesserkapazitaet. Bei sehr kleinem Eintrag (z. B. wenige Liter Diesel im großen Fluss): Wertbarkeit der Verschlechterung prüfen.
+- **Mengen- und Stoff-Schwelle bestreiten.** "Nicht nur geringfuegig" — Sachverstaendiger zur Bewertung der Eintragsmenge im Verhältnis zur Gewaesserkapazitaet. Bei sehr kleinem Eintrag (z. B. wenige Liter Diesel im großen Fluss): Wertbarkeit der Verschlechterung prüfen.
 - **Kausalitaet bestreiten.** Wenn andere Einleiter vor- oder gleichzeitig tätig waren: alternative oder kumulative Kausalitaet. Vorsicht: Bei kumulativer Verunreinigung haftet jeder Beitragstaeter.
 - **Vorsatzausschluss bei Irrtum über Erlaubnis.** Wenn Mandant glaubte, die Erlaubnis decke das Verhalten ab: Tatbestandsirrtum nach Paragraph 16 StGB, mindestens Verbotsirrtum nach Paragraph 17 StGB.
 - **Sachverstaendige fruehzeitig einbinden.** Hydrogeologe oder Umweltchemiker für Gegenanalyse der Wasserproben.

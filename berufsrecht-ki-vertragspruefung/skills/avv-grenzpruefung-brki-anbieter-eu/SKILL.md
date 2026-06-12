@@ -120,7 +120,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — AVV-Grenzfall prüfen ob AV oder gemeinsame Verantwortlichkeit | Pruefschema unten; Template für Ergebnis-Memo |
+| Standard — AVV-Grenzfall prüfen ob AV oder gemeinsame Verantwortlichkeit | Prüfschema unten; Template für Ergebnis-Memo |
 | Variante A — AVV eindeutig erforderlich | Direkt zu AVV-Erstellung (skill avv-prüfung) wechseln |
 | Variante B — gemeinsame Verantwortlichkeit wahrscheinlich | Art. 26 DSGVO Vereinbarung statt AVV; Template anpassen |
 | Variante C — kein Auftragsverhaeltnis sondern eigenstaendige Verarbeitung | Keine AVV; separate Datenschutzvereinbarung prüfen |

@@ -16,7 +16,7 @@ Jeder Baustein hat:
 
 Variablen sind durch `[...]` markiert (z. B. `EUR [...]`, `[Frist]`, `[Vertragsbezeichnung]`).
 
-Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftungsbegrenzungen) erfordern laufende Pflege. Bei roten oder gelben Klauseln stets `agb-konforme-klauseln-305-310-bgb` konsultieren.
+Änderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftungsbegrenzungen) erfordern laufende Pflege. Bei roten oder gelben Klauseln stets `agb-konforme-klauseln-305-310-bgb` konsultieren.
 
 ---
 
@@ -36,7 +36,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 12. Geheimhaltung / NDA
 13. Datenschutz / Auftragsverarbeitung
 14. IP-Rechte und Lizenzen
-15. Aenderungs- und Anpassungsrechte
+15. Änderungs- und Anpassungsrechte
 16. Sprachklausel
 17. Schriftform und Textform
 18. Salvatorische Klausel
@@ -112,13 +112,13 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (2) Die Leistungsbeschreibung ist Bestandteil dieses Vertrages. Bei Widersprueche zwischen Vertrag und Anlage 1 hat der Vertrag Vorrang, soweit nicht im Vertrag ausdruecklich auf die Anlage verwiesen wird.
 >
-> (3) Aenderungen der Leistung beduerfen der Vereinbarung in Schriftform; das Change-Request-Verfahren ist in § Y geregelt.
+> (3) Änderungen der Leistung beduerfen der Vereinbarung in Schriftform; das Change-Request-Verfahren ist in § Y geregelt.
 
 ### 3.2 SaaS-Leistung mit Verfuegbarkeit (B2B, gelb in AGB)
 
 > ### § X SaaS-Verfuegbarkeit
 >
-> (1) Die Auftragnehmerin gewaehrleistet eine durchschnittliche Verfuegbarkeit der Plattform von 99,5 Prozent im Vertragsjahr, gemessen am Uebergabepunkt am Ausgang des Rechenzentrums.
+> (1) Die Auftragnehmerin gewaehrleistet eine durchschnittliche Verfuegbarkeit der Plattform von 99,5 Prozent im Vertragsjahr, gemessen am Übergabepunkt am Ausgang des Rechenzentrums.
 >
 > (2) Nicht in die Berechnung einbezogen sind Zeiten geplanter Wartung, die mit einer Vorlaufzeit von mindestens 48 Stunden angekuendigt wurden und die nicht laenger als vier Stunden pro Monat und ausserhalb der Hauptnutzungszeiten (Montag bis Freitag, 08:00 bis 18:00 Uhr deutscher Zeit) liegen.
 >
@@ -134,7 +134,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > (1) Für die Erbringung der Leistung schuldet die Auftraggeberin der Auftragnehmerin einen Pauschalbetrag in Höhe von EUR [...] zuzueglich der gesetzlichen Umsatzsteuer.
 >
-> (2) Die Vergütung ist faellig 30 Kalendertage nach Erhalt einer pruefbaren Rechnung.
+> (2) Die Vergütung ist faellig 30 Kalendertage nach Erhalt einer prüfbaren Rechnung.
 
 ### 4.2 Vergütung nach Aufwand mit Cap (B2B, gruen)
 
@@ -280,7 +280,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Vertragsstrafe
 >
-> (1) Bei schuldhafter Verletzung [konkrete Pflicht] verpflichtet sich die verletzende Partei zur Zahlung einer von der anderen Partei nach billigem Ermessen festzusetzenden und im Streitfall vom zustaendigen Gericht zu ueberpruefenden Vertragsstrafe (Hamburger Brauch).
+> (1) Bei schuldhafter Verletzung [konkrete Pflicht] verpflichtet sich die verletzende Partei zur Zahlung einer von der anderen Partei nach billigem Ermessen festzusetzenden und im Streitfall vom zustaendigen Gericht zu überprüfenden Vertragsstrafe (Hamburger Brauch).
 >
 > (2) Die Vertragsstrafe ist auf den Schadensersatzanspruch anzurechnen.
 
@@ -338,9 +338,9 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Vertrauliche Informationen
 >
-> (1) "Vertrauliche Informationen" sind alle Informationen, die einer Partei (die "Empfangende Partei") von der anderen Partei (die "Offenlegende Partei") im Rahmen der Vertragsverhandlungen oder der Vertragsdurchfuehrung in muendlicher, schriftlicher, elektronischer oder anderer Form zugaenglich gemacht werden, einschliesslich Geschaefts-, Betriebs- oder Berufsgeheimnissen im Sinne des § 2 GeschGehG.
+> (1) "Vertrauliche Informationen" sind alle Informationen, die einer Partei (die "Empfangende Partei") von der anderen Partei (die "Offenlegende Partei") im Rahmen der Vertragsverhandlungen oder der Vertragsdurchfuehrung in muendlicher, schriftlicher, elektronischer oder anderer Form zugaenglich gemacht werden, einschliesslich Geschäfts-, Betriebs- oder Berufsgeheimnissen im Sinne des § 2 GeschGehG.
 >
-> (2) Vertrauliche Informationen sind insbesondere: technische Informationen, Geschaeftsplaene, Finanzdaten, Kunden- und Lieferantenlisten, Personaldaten, Vertragsbedingungen, Quellcode und Algorithmen.
+> (2) Vertrauliche Informationen sind insbesondere: technische Informationen, Geschäftsplaene, Finanzdaten, Kunden- und Lieferantenlisten, Personaldaten, Vertragsbedingungen, Quellcode und Algorithmen.
 >
 > ### § X+1 Geheimhaltungspflicht
 >
@@ -359,7 +359,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 >
 > ### § X+3 Dauer
 >
-> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Für Geschaeftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
+> Die Geheimhaltungspflicht beginnt mit Unterzeichnung dieses Vertrages und besteht für eine Dauer von fuenf Jahren nach Beendigung des Hauptvertrages oder, falls kein Hauptvertrag geschlossen wird, fuenf Jahre ab Unterzeichnung dieses Vertrages. Für Geschäftsgeheimnisse im Sinne des § 2 GeschGehG gilt die Geheimhaltungspflicht zeitlich unbegrenzt fort, solange die gesetzlichen Voraussetzungen vorliegen.
 
 ---
 
@@ -387,7 +387,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Nutzungsrechte
 >
-> (1) Soweit im Rahmen der Leistungserbringung urheberrechtlich schutzfaehige Arbeitsergebnisse entstehen, raeumt die Auftragnehmerin der Auftraggeberin ein einfaches, raeumlich und zeitlich unbeschraenktes Nutzungsrecht ein, die Arbeitsergebnisse für ihre internen Geschaeftszwecke zu nutzen.
+> (1) Soweit im Rahmen der Leistungserbringung urheberrechtlich schutzfaehige Arbeitsergebnisse entstehen, raeumt die Auftragnehmerin der Auftraggeberin ein einfaches, raeumlich und zeitlich unbeschraenktes Nutzungsrecht ein, die Arbeitsergebnisse für ihre internen Geschäftszwecke zu nutzen.
 >
 > (2) Bestehende Rechte der Auftragnehmerin an vorbestehenden Arbeitsergebnissen, Methoden und Werkzeugen ("Background IP") bleiben unberuehrt.
 
@@ -403,31 +403,31 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 ---
 
-## 15. Aenderungs- und Anpassungsrechte
+## 15. Änderungs- und Anpassungsrechte
 
 ### 15.1 Change Request (B2B, gruen)
 
-> ### § X Aenderungen (Change Request)
+> ### § X Änderungen (Change Request)
 >
-> (1) Jede Partei kann jederzeit schriftlich Aenderungen der Leistung verlangen.
+> (1) Jede Partei kann jederzeit schriftlich Änderungen der Leistung verlangen.
 >
-> (2) Die Auftragnehmerin pruft den Aenderungsantrag und legt der Auftraggeberin innerhalb von zehn Werktagen ein Aenderungsangebot mit Angabe von Auswirkungen auf Vergütung, Termin und Leistungsumfang vor.
+> (2) Die Auftragnehmerin pruft den Änderungsantrag und legt der Auftraggeberin innerhalb von zehn Werktagen ein Änderungsangebot mit Angabe von Auswirkungen auf Vergütung, Termin und Leistungsumfang vor.
 >
-> (3) Das Aenderungsangebot wird durch beiderseitige schriftliche Unterzeichnung Vertragsbestandteil.
+> (3) Das Änderungsangebot wird durch beiderseitige schriftliche Unterzeichnung Vertragsbestandteil.
 
-### 15.2 Einseitiges Aenderungsrecht in AGB (B2B/B2C, rot)
+### 15.2 Einseitiges Änderungsrecht in AGB (B2B/B2C, rot)
 
-**Hinweis**: Einseitige Aenderungsrechte sind in AGB regelmaessig unwirksam (§ 308 Nr. 4 BGB). Stattdessen Change-Request-Verfahren oder Anpassungsvertrag mit Zustimmungsfiktion und Sonderkuendigungsrecht.
+**Hinweis**: Einseitige Änderungsrechte sind in AGB regelmaessig unwirksam (§ 308 Nr. 4 BGB). Stattdessen Change-Request-Verfahren oder Anpassungsvertrag mit Zustimmungsfiktion und Sonderkuendigungsrecht.
 
 ### 15.3 Anpassungsklausel mit Zustimmungsfiktion (B2C, gelb)
 
-> ### § X Aenderungen der AGB
+> ### § X Änderungen der AGB
 >
-> (1) Wir behalten uns vor, diese AGB anzupassen, wenn dies durch gesetzliche oder regulatorische Aenderungen, hoechstrichterliche Rechtsprechung oder zur Anpassung an wesentliche Veraenderungen des Leistungsangebots erforderlich ist.
+> (1) Wir behalten uns vor, diese AGB anzupassen, wenn dies durch gesetzliche oder regulatorische Änderungen, hoechstrichterliche Rechtsprechung oder zur Anpassung an wesentliche Veraenderungen des Leistungsangebots erforderlich ist.
 >
-> (2) Die geplanten Aenderungen werden Ihnen mindestens zwei Monate vor Wirksamwerden in Textform mitgeteilt. Sie können den Aenderungen innerhalb von sechs Wochen ab Zugang der Mitteilung widersprechen. Tun Sie dies nicht und nutzen den Dienst weiter, gelten die Aenderungen als angenommen. Auf diese Wirkung werden wir Sie in der Aenderungsmitteilung gesondert hinweisen.
+> (2) Die geplanten Änderungen werden Ihnen mindestens zwei Monate vor Wirksamwerden in Textform mitgeteilt. Sie können den Änderungen innerhalb von sechs Wochen ab Zugang der Mitteilung widersprechen. Tun Sie dies nicht und nutzen den Dienst weiter, gelten die Änderungen als angenommen. Auf diese Wirkung werden wir Sie in der Änderungsmitteilung gesondert hinweisen.
 >
-> (3) Bei Widerspruch endet der Vertrag zum Zeitpunkt des Wirksamwerdens der Aenderungen.
+> (3) Bei Widerspruch endet der Vertrag zum Zeitpunkt des Wirksamwerdens der Änderungen.
 
 ---
 
@@ -437,7 +437,7 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Sprache
 >
-> Vertragssprache ist Deutsch. Eine englische Uebersetzung dient ausschließlich Informationszwecken. Bei Widersprueche zwischen den Fassungen ist die deutsche Fassung massgeblich.
+> Vertragssprache ist Deutsch. Eine englische Übersetzung dient ausschließlich Informationszwecken. Bei Widersprueche zwischen den Fassungen ist die deutsche Fassung massgeblich.
 
 ---
 
@@ -445,9 +445,9 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 ### 17.1 Schriftformklausel mit doppelter Schriftformklausel (beides, gruen)
 
-> ### § X Aenderungen, Schriftform
+> ### § X Änderungen, Schriftform
 >
-> (1) Aenderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Aenderung dieser Schriftformklausel.
+> (1) Änderungen und Ergaenzungen dieses Vertrages beduerfen der Schriftform. Dies gilt auch für die Aufhebung oder Änderung dieser Schriftformklausel.
 >
 > (2) Die Schriftform ist gewahrt durch eine eigenhaendig oder mittels qualifizierter elektronischer Signatur unterzeichnete Vertragsurkunde, die in einem einheitlichen Dokument oder in mehreren gleichlautenden Ausfertigungen vorliegt.
 >
@@ -569,9 +569,9 @@ Aenderungen in der Rechtsprechung (z. B. zu AGB-Klauseln, Vertragsstrafen, Haftu
 
 > ### § X Audit-Recht
 >
-> (1) Die Auftraggeberin ist berechtigt, einmal jaehrlich nach vorheriger Ankuendigung mit einer Frist von mindestens vier Wochen waehrend der ueblichen Geschaeftszeiten ein Audit bei der Auftragnehmerin durchzufuehren, um die Einhaltung der vertraglichen Pflichten zu prüfen, insbesondere die Einhaltung von Datenschutz-, Compliance- und Sicherheitspflichten.
+> (1) Die Auftraggeberin ist berechtigt, einmal jaehrlich nach vorheriger Ankuendigung mit einer Frist von mindestens vier Wochen waehrend der ueblichen Geschäftszeiten ein Audit bei der Auftragnehmerin durchzufuehren, um die Einhaltung der vertraglichen Pflichten zu prüfen, insbesondere die Einhaltung von Datenschutz-, Compliance- und Sicherheitspflichten.
 >
-> (2) Das Audit darf den Geschaeftsbetrieb der Auftragnehmerin nicht unverhaeltnismaessig stoeren. Geschaefts- und Betriebsgeheimnisse Dritter sind zu wahren.
+> (2) Das Audit darf den Geschäftsbetrieb der Auftragnehmerin nicht unverhaeltnismaessig stoeren. Geschäfts- und Betriebsgeheimnisse Dritter sind zu wahren.
 >
 > (3) Die Kosten des Audits traegt die Auftraggeberin. Werden bei dem Audit wesentliche Verstoesse der Auftragnehmerin gegen vertragliche Pflichten festgestellt, traegt die Auftragnehmerin die Kosten.
 

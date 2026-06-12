@@ -37,7 +37,7 @@ description: "PrALR: Normkarte Polizeirecht ohne Anachronismus: prüft konkret d
 - Polizeirechtliche Generalklausel: § 1 PolG NRW, § 11 ASOG Berlin etc.
 - Kreuzberg-Urteil ist Hintergrund.
 
-## Pruefraster
+## Prüfraster
 
 1. ALR-Polizeibegriff oder modern?
 2. Welche Aufgabe?

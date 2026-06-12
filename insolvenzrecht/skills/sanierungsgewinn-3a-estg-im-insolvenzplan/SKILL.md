@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-im-insolvenzplan
-description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragrap..."
+description: "Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen prüfen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Gläubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragrap..."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG im Insolvenzplan
@@ -29,7 +29,7 @@ Dieser Skill arbeitet die Prüfung des Sanierungsertrags im Plan-Kontext durch: 
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Insolvenzplan wird ausgearbeitet, Forderungsverzicht der Glaeubiger ist Kerngegenstand.
+- Insolvenzplan wird ausgearbeitet, Forderungsverzicht der Gläubiger ist Kerngegenstand.
 - Plan ist eingereicht oder steht vor Einreichung — Steuerteil muss geschrieben werden.
 - StB soll den Erlassantrag oder die Steuererklaerung des Sanierungsjahres vorbereiten.
 
@@ -37,7 +37,7 @@ Kaltstart-Fragen:
 
 1. Schuldner: GmbH, AG, GmbH und Co. KG, Einzelunternehmer, eingetragener Kaufmann?
 2. Höhe des Forderungsverzichts im Plan?
-3. Plan-Quote (was bleibt den Glaeubigern)?
+3. Plan-Quote (was bleibt den Gläubigern)?
 4. Verlustvortraege bekannt (KSt, GewSt, ESt)?
 5. Liegt ein Sanierungskonzept nach IDW S 6 oder vergleichbarer Standard vor?
 
@@ -49,13 +49,13 @@ Kaltstart-Fragen:
 - Paragraph 3a Absatz 3 EStG — Verrechnungsreihenfolge; verdraengt Mindestbesteuerung.
 - Paragraph 7b GewStG — Gewerbesteuer-Parallel.
 - Paragraph 251 AO — Steuern im Insolvenzverfahren.
-- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermoegenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
+- BFH, Urteil vom 26.02.2003 — II R 19/01: Verbindlichkeiten bleiben zivilrechtlich über die Liquidation hinaus bestehen; blosse Vermögenslosigkeit begruendet keine Ausbuchung — zur Abgrenzung Sanierungsertrag vs. Ausbuchung mangels Schuldner.
 
 ## / Schritt für Schritt
 
 1. **Forderungsverzicht erfassen.** Welche Forderungen entfallen im Plan in welcher Höhe? Trennung Drittglaeubiger vs. Gesellschafter (Gesellschafter-Verzicht kann verdeckte Einlage sein).
 2. **Werthaltigkeit der Forderungen prüfen.** Nur werthaltige Forderungen erzeugen einen vollwertigen Sanierungsertrag; nicht werthaltige Forderungen erhoehen den Sanierungsertrag rechnerisch, fuehren aber zugleich zu einer abweichenden bilanziellen Behandlung.
-3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG abarbeiten** (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger).
+3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG abarbeiten** (Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Gläubiger).
 4. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG aufstellen.**
 5. **Restsanierungsertrag berechnen.**
 6. **Antrag stellen.** Mit der Steuererklaerung des Sanierungsjahres; ggf. zusaetzlich Vorabauskunft Paragraph 89 AO.
@@ -63,12 +63,12 @@ Kaltstart-Fragen:
 
 ## Vier Voraussetzungen Paragraph 3a Absatz 2 EStG
 
-| Voraussetzung | Pruefkriterium | Beleg |
+| Voraussetzung | Prüfkriterium | Beleg |
 |---|---|---|
 | Sanierungsbeduerftigkeit | Unternehmen ohne Verzicht nicht ueberlebensfaehig | Liquiditaetsplan, Fortbestehensprognose, Eroeffnungsantrag |
 | Sanierungsfaehigkeit | Unternehmen ist nach Sanierung lebensfaehig | IDW S 6-Gutachten oder gleichwertig |
 | Sanierungseignung | Forderungsverzicht ist geeignet, die Sanierung zu erreichen | Plan-Quote + Liquiditaets-Auswirkung |
-| Sanierungsabsicht der Glaeubiger | Glaeubiger verzichten, gerade weil die Sanierung sonst nicht funktioniert | Glaeubigerausschuss-Protokoll, Glaeubigerbriefe, Plan-Annahme-Beschluss |
+| Sanierungsabsicht der Gläubiger | Gläubiger verzichten, gerade weil die Sanierung sonst nicht funktioniert | Gläubigerausschuss-Protokoll, Gläubigerbriefe, Plan-Annahme-Beschluss |
 
 ## Trade-off-Matrix
 
@@ -83,7 +83,7 @@ Kaltstart-Fragen:
 ## Praxistipps der alten Hasen
 
 1. **Vier Voraussetzungen in den darstellenden Teil ausdruecklich aufnehmen.** Wer das im Plan dokumentiert, hat dem Finanzamt eine vorgefertigte Begruendung serviert.
-2. **Sanierungsabsicht ist plural.** Wenn nur ein Hauptglaeubiger verzichtet, hilft das nicht — der Verzicht muss von einem ausreichenden Glaeubigerkreis getragen sein, weil die Sanierung sonst nicht plausibel ist.
+2. **Sanierungsabsicht ist plural.** Wenn nur ein Hauptglaeubiger verzichtet, hilft das nicht — der Verzicht muss von einem ausreichenden Gläubigerkreis getragen sein, weil die Sanierung sonst nicht plausibel ist.
 3. **Besserungsschein steuerlich prüfen.** Forderungsverzicht mit Besserungsabrede entstehen den Sanierungsertrag erst, wenn der Besserungsfall **nicht** eintritt — bis dahin ist der Verzicht aufschiebend.
 4. **Stille Reserven nicht durch Buchungstechnik in den Sanierungsertrag mischen.** Aufdeckungen sind regulaer steuerpflichtige Gewinne.
 5. **Vorabauskunft Paragraph 89 AO** ist gebuehrenpflichtig, aber bei Volumen ab ca. 1 Mio EUR Sanierungsertrag in der Regel sinnvoll.

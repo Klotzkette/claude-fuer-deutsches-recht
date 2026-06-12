@@ -1,6 +1,6 @@
 ---
 name: slot-insolvenzrisiko-markieren
-description: "Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel für Glaeubiger und Investoren im Luftrecht Flughafenrecht."
+description: "Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prüft EuGH C-272/06 Slots keine Vermögenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel für Gläubiger und Investoren im Luftrecht Flughafenrecht."
 ---
 
 # Slot – Insolvenzrisiko markieren

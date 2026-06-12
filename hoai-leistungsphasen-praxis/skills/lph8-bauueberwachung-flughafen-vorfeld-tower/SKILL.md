@@ -41,7 +41,7 @@ Die Bauueberwachung auf Flughafenvorfeldern und bei Towerneubauten erfordert die
 - ICAO Annex 14 Volume I Aerodrome Design and Operations: Befeuerung, Hindernisfreiflaechenormen OLS
 - LuftVO § 18a und LuftVZO: Baubeschraenkungen im Bauschutzbereich, Genehmigungspflicht für Baukraene im Anflugsektor
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Betonguetepruefung: Druckfestigkeit nach DIN EN 12390-3 an Wuerfelproben 150 mm, mindestens 3 Proben je 50 m3, Protokollierung mit Chargen-Nr und Lieferschein-Nr
 2. Fugenkontrolle: Scheinfugen 6 mm Breite alle 5 m mal 5 m, Pressfugen mit Quell-Injektionsschlauch SIKA Injectoflex

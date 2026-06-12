@@ -15,15 +15,15 @@ Dieser Skill folgt der Kaltstart-Triage oder einem abgeschlossenen Bearbeitungss
 | Akte neu Schuldner privater Verbraucher Forderung dokumentiert | mahnung-aussergerichtlich-stufenmodell | mahnbescheid-online wenn Verjährung droht |
 | Mahnung verstrichen Schuldner schweigt | mahnbescheid-online | zahlungsklage-erstellen wenn Streit erwartbar |
 | Mahnbescheid eingelegt Widerspruch | zahlungsklage-erstellen | inkasso-risikoampel zur Aussichtspruefung |
-| Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-ueberblick |
-| Urteil rechtskraeftig | zwangsvollstreckung-ueberblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |
+| Vollstreckungsbescheid rechtskraeftig | vollstreckungsbescheid-folgen | zwangsvollstreckung-überblick |
+| Urteil rechtskraeftig | zwangsvollstreckung-überblick | forderung-im-ausland-vollstrecken bei Auslandsbezug |
 | Schuldner zahlungsunfaehig Insolvenzantrag bekannt | forderung-gegen-insolventen-schuldner | InsO-Anmeldung 174 |
 | Forderung aus Urkunde Vertrag oder Scheck | urkundenprozess-prüfen | zahlungsklage-erstellen |
 | Werkvertragsforderung Bau | forderung-werkvertrag-bau | mahnverfahren-bauleiter |
 | Anwaltshonorar Streit über RVG-Rechnung | forderung-anwaltshonorar-rvg | klagefreigabe-belegte-forderung |
 | Arzthonorar GOAE-Streit | forderung-arzthonorar-goae | klagefreigabe-belegte-forderung |
 | Mietrueckstand | forderung-mietrueckstand-zahlungsklage | mahnbescheid-online bei reinem Zahlungsanspruch |
-| Forderung gegen GmbH Geschaeftsfuehrer | forderung-gegen-gmbh-gesellschafter | zahlungsklage-erstellen |
+| Forderung gegen GmbH Geschäftsführer | forderung-gegen-gmbh-gesellschafter | zahlungsklage-erstellen |
 | Auslandsbezug Schuldner im EU-Ausland | forderung-im-ausland-vollstrecken | EuMVVO oder EuGFVO via forderung-internationaler-bezug |
 
 ## Stop-Bedingungen

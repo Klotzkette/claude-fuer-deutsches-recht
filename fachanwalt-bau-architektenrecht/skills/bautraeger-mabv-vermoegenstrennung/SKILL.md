@@ -1,9 +1,9 @@
 ---
 name: bautraeger-mabv-vermoegenstrennung
-description: "MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln: Skill klaert die Trennungspflicht das S..."
+description: "MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln: Skill klaert die Trennungspflicht das S..."
 ---
 
-# MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln
+# MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln
 
 
 ## Arbeitsweg
@@ -14,13 +14,13 @@ description: "MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerbe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
+**Fokus:** MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Prüfraster.
 
-### Bautraeger Mabv Vermoegenstrennung
+### Bautraeger Mabv Vermögenstrennung
 
-## Pflicht zur Vermoegenstrennung
+## Pflicht zur Vermögenstrennung
 
-§§ 3-8 MaBV: Bautraeger darf Erwerbergelder nur für das jeweilige Bauvorhaben verwenden. Trennung von eigenen Geldern ist Schutz vor Vermoegensvermischung.
+§§ 3-8 MaBV: Bautraeger darf Erwerbergelder nur für das jeweilige Bauvorhaben verwenden. Trennung von eigenen Geldern ist Schutz vor Vermögensvermischung.
 
 ## Sonderkonto
 
@@ -34,16 +34,16 @@ description: "MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerbe
 
 ## Praxis
 
-- Mit Sicherungsmodell § 7 MaBV (gestelle Buergschaft) ist Vermoegensvermischung weniger riskant.
-- Bei Ratenmodell § 3 MaBV ist Vermoegenstrennung kritisch.
+- Mit Sicherungsmodell § 7 MaBV (gestelle Buergschaft) ist Vermögensvermischung weniger riskant.
+- Bei Ratenmodell § 3 MaBV ist Vermögenstrennung kritisch.
 
 ## BGH-Linie
 
 - BGH: Verstoss gegen § 3 MaBV macht Vertragsklausel unwirksam.
 - Aktuelle Az im Mandat live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Modell (§ 3 vs § 7)?
 2. Trennung des Sonderkontos belegbar?
-3. Bei Insolvenz: Glaeubigeranfechtung?
+3. Bei Insolvenz: Gläubigeranfechtung?

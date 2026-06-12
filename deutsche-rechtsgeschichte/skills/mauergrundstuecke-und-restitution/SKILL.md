@@ -27,7 +27,7 @@ Der Berliner Mauer-Grenzstreifen entstand durch systematische Enteignungen priva
 
 ## Akteure und Institutionen
 
-- **Bundesamt zur Regelung offener Vermoegensfragen (BARoV)**: Zentralbehoerde
+- **Bundesamt zur Regelung offener Vermögensfragen (BARoV)**: Zentralbehoerde
 - **Berliner Landes- und Bundesbehoerden**: Verwaltung des Mauer-Grenzstreifens nach 1990
 - **BVerwG**: Leitentscheidungen zu Mauergrundstücken
 - **Fruehere Eigentümer**: Antragsteller nach VermG

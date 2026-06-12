@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rech
 
 ## Worum es geht
 
-Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssysteme. Die BRD baute auf dem GG 1949 und dem fortentwickelten BGB auf; die DDR schuf ein eigenes Rechtssystem auf sozialistischer Basis. Das DDR-ZGB 1975 (GBl. I DDR 1975, 465) ersetzte das BGB in der DDR; das DDR-StGB 1968 schuf ein eigenes Strafrecht. Die familienrechtlichen Systeme unterschieden sich erheblich: DDR-FGB 1965 kannte keine eheliche Schluesselgewalt (frueher als BRD). Das Vermoegensrecht, Eigentumsrecht und Strafrecht waren fundamental verschieden. Vergleichsgegenstande: Eigentumsrecht, Eherecht, Strafrecht, Verwaltungsrecht, Grundrechte.
+Zwischen 1949 und 1990 entwickelten sich in Deutschland zwei parallele Rechtssysteme. Die BRD baute auf dem GG 1949 und dem fortentwickelten BGB auf; die DDR schuf ein eigenes Rechtssystem auf sozialistischer Basis. Das DDR-ZGB 1975 (GBl. I DDR 1975, 465) ersetzte das BGB in der DDR; das DDR-StGB 1968 schuf ein eigenes Strafrecht. Die familienrechtlichen Systeme unterschieden sich erheblich: DDR-FGB 1965 kannte keine eheliche Schlüsselgewalt (frueher als BRD). Das Vermögensrecht, Eigentumsrecht und Strafrecht waren fundamental verschieden. Vergleichsgegenstande: Eigentumsrecht, Eherecht, Strafrecht, Verwaltungsrecht, Grundrechte.
 
 ## Kernnormen / Kernquellen
 

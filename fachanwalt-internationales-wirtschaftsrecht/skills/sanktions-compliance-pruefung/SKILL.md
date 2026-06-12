@@ -248,7 +248,7 @@ Compliance-Kosten (Prävention): Screening-Software 5.000–50.000 EUR/Jahr; Rec
 - **§ 43 GwG** — Verdachtsmeldung FIU; **§ 11 GwG** — Identifizierungspflicht UBO
 - **§ 134 BGB** — Nichtigkeit Rechtsgeschaeft bei Gesetzesverstoß
 
-## Output-Template: Sanktions-Compliance-Pruefungsbericht
+## Output-Template: Sanktions-Compliance-Prüfungsbericht
 
 **Adressat:** Geschaftsfuehrung und Legal / Compliance-Beauftragter
 **Tonfall:** Sachlich-analytisch, handlungsorientiert, vertraulich

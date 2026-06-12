@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-kriminologie-deliktphaenomenologie
-description: "Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung): Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Di..."
+description: "Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung): Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Di..."
 ---
 
-# Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung)
+# Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung)
 
 
 ## Arbeitsweg
@@ -14,24 +14,24 @@ description: "Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebsta
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation.
+**Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermögensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug für kontextsensitive Strafzumessungsargumentation.
 
 ### Deliktsphaenomenologie nach Tatkategorie
 
 ## Worum geht es
 
-Die Erscheinungsformen von Kriminalitaet variieren stark zwischen Deliktstypen. Vermoegensdelikte folgen anderen Mustern als Gewaltdelikte, und beides ist erneut anders als Sexualdelikte. Diese phaenomenologischen Unterschiede haben Konsequenzen für die Beweisanforderungen, die Strafzumessungserwartung, die Rueckfallraten und die Verteidigungsstrategie. Eine pauschale "Strafverteidigung" gibt es nicht — Spezialisierung lohnt sich.
+Die Erscheinungsformen von Kriminalitaet variieren stark zwischen Deliktstypen. Vermögensdelikte folgen anderen Mustern als Gewaltdelikte, und beides ist erneut anders als Sexualdelikte. Diese phaenomenologischen Unterschiede haben Konsequenzen für die Beweisanforderungen, die Strafzumessungserwartung, die Rueckfallraten und die Verteidigungsstrategie. Eine pauschale "Strafverteidigung" gibt es nicht — Spezialisierung lohnt sich.
 
 Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert eine kompakte Übersicht der wichtigsten Deliktsgruppen mit ihren kriminologischen Eigenarten und den taktischen Konsequenzen.
 
 ## Methodische Grundlagen
 
-**Vermoegensdelikte (§§ 242, 263, 266 StGB und Folgevorschriften).**
+**Vermögensdelikte (§§ 242, 263, 266 StGB und Folgevorschriften).**
 - Statistisch haeufigste Deliktsgruppe, hohes Dunkelfeld (Bagatelldelikte unangezeigt).
 - Aufklaerungsrate Diebstahl (ohne Wohnung) eher gering; Wohnungseinbruchsdiebstahl moderat.
 - Taeterprofil bei einfacher Form heterogen (jung, sozial belastet); bei gewerbsmäßigen Formen organisiertes Vorgehen.
 - Beweiskonstellation oft objektiv (Spurenlage, Ueberwachungsvideo, Inventar).
-- Rueckfallraten bei Eigentumsdelikten relativ hoch im Verhaeltnis.
+- Rueckfallraten bei Eigentumsdelikten relativ hoch im Verhältnis.
 - Strafzumessung mit Spielraum (Geldstrafe bis Freiheitsstrafe). Wiedergutmachung (§§ 46 Abs. 2, 46a StGB) oft mildernd.
 
 **Wirtschaftsstraftaten (Betrug, Untreue, Steuerhinterziehung).**
@@ -45,7 +45,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 - Im Hellfeld haeufig, Aufklaerungsrate bei Toetungsdelikten hoch.
 - Taeterprofil: in der Mehrheit maennlich, jung, Tatort haeufig öffentlich oder im Naehbereich.
 - Beweiskonstellation: oft Aussage-gegen-Aussage oder Tatortspuren.
-- Bei Toetungsdelikten Mordmerkmale (§ 211 StGB) zentraler Pruefpunkt.
+- Bei Toetungsdelikten Mordmerkmale (§ 211 StGB) zentraler Prüfpunkt.
 - Strafrahmen schwer: ab 5 Jahre bei Raub mit Waffen, lebenslang bei Mord.
 - Verteidigungsschwerpunkt oft: Abgrenzung Mord/Totschlag, Notwehr/Notstand, Affekt/Schuldminderung.
 
@@ -71,17 +71,17 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Praktikertipps Verteidigung
 
-- **Verteidigung kontextsensitiv aufstellen.** Bei Sexualdelikten ist Aussagepsychologie der zentrale Hebel; bei Vermoegensdelikten Spurenkette; bei Toetungsdelikten Tatdynamik und Mordmerkmale.
+- **Verteidigung kontextsensitiv aufstellen.** Bei Sexualdelikten ist Aussagepsychologie der zentrale Hebel; bei Vermögensdelikten Spurenkette; bei Toetungsdelikten Tatdynamik und Mordmerkmale.
 - **Phaenomenologische Kontextualisierung im Plaedoyer.** Hinweis auf typische Tatumstaende, die Strafzumessung beeinflussen (z. B. Beziehungstat hat anderes Risikoprofil als Fremdtat).
 - **Aufklaerungsraten als Argument nutzen.** Wenn der Mandant sich freiwillig stellt oder im Strafverfahren kooperiert: Kontext zu Aufklaerungsraten in seinem Delikt setzen.
-- **Rueckfallrisiken delikt-spezifisch bewerten.** Vermoegensdelikt mit Suchtkontext: Therapie kann Rueckfallrisiko deutlich reduzieren; Beziehungsgewalt: Paartherapie und Trennung relevant; Sexualdelikt: spezifische Therapie (sexualtherapeutisch, sexualstraftaeter-spezifisch).
-- **Statistische Daten verwenden, aber nicht ueberbewerten.** Statistik ist Trend, nicht Schicksal. Einzelfall bleibt Massstab.
+- **Rueckfallrisiken delikt-spezifisch bewerten.** Vermögensdelikt mit Suchtkontext: Therapie kann Rueckfallrisiko deutlich reduzieren; Beziehungsgewalt: Paartherapie und Trennung relevant; Sexualdelikt: spezifische Therapie (sexualtherapeutisch, sexualstraftaeter-spezifisch).
+- **Statistische Daten verwenden, aber nicht ueberbewerten.** Statistik ist Trend, nicht Schicksal. Einzelfall bleibt Maßstab.
 
 ## Trade-off-Matrix
 
 | Deliktsgruppe | Verteidigungsschwerpunkt | Risiko |
 |---|---|---|
-| Vermoegensdelikt | Wiedergutmachung, Bewaehrung | Wiederholungstaeter wird hart sanktioniert |
+| Vermögensdelikt | Wiedergutmachung, Bewaehrung | Wiederholungstaeter wird hart sanktioniert |
 | Wirtschaftsdelikt | Sachverstaendigenbegutachtung, Wiedergutmachung | Komplexe Aktenarbeit |
 | Gewaltdelikt | Affekt, Notwehr, Schuldminderung | Mordmerkmale, Strafrahmen sehr schwer |
 | Sexualdelikt | Aussagepsychologie | Mediale Vorverurteilung, hohe Verurteilungsneigung |
@@ -90,7 +90,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensdelikte des hier zur Last gelegten Typs (einfacher Diebstahl) Bagatellkriminalitaet, oft sozial bedingt. Rueckfallrisiko bei sozial integrierten Erstaetern wie meinem Mandanten ist nach kriminologischer Forschung gering. Eine Geldstrafe genuegt nach Art und Schwere der Tat und nach den persönlichen Verhaeltnissen des Mandanten. Eine Freiheitsstrafe waere für dieses Delikt und diesen Taeter unverhaeltnismaessig."
+Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermögensdelikte des hier zur Last gelegten Typs (einfacher Diebstahl) Bagatellkriminalitaet, oft sozial bedingt. Rueckfallrisiko bei sozial integrierten Erstaetern wie meinem Mandanten ist nach kriminologischer Forschung gering. Eine Geldstrafe genuegt nach Art und Schwere der Tat und nach den persönlichen Verhältnissen des Mandanten. Eine Freiheitsstrafe waere für dieses Delikt und diesen Taeter unverhaeltnismaessig."
 
 ## Mustertexte
 

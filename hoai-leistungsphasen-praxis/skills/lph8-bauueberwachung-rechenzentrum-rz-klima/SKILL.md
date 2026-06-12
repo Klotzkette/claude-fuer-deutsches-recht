@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rechenzentrum-rz-klima
-description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Pruefung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterst..."
+description: "Bauueberwachung nach HOAI LPH 8 für Rechenzentren — praeyzise Kontrolle Kuehlinfrastruktur nach ASHRAE TC 9.9, Doppelboden und Kabeltrassen nach EN 50173, USV-Anlagen und Notstromaggregat-Prüfung, Brandschutz-Gasloesch-System nach DIN EN 12094 und physische Sicherheit nach ISO IEC 27001. Unterst..."
 ---
 
 # Bauueberwachung Rechenzentrum RZ-Klima (LPH 8)
@@ -43,7 +43,7 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 - DIN EN 50173 Informationstechnik: Anwendungsunabhaengige Kabelanlagen
 - EN ISO IEC 27001 IT-Sicherheitsmanagement: Anforderungen physische und umgebungsbezogene Sicherheit
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Kuehlwassersystem: Druckpruefung 1.5-fach Betriebsdruck, keine Undichtheiten, Protokoll je Kreislauf
 2. Doppelboden Belastungstest: 4.5 kN Punktlast je Feld, Einfederung kleiner 3 mm, Messprotokoll
@@ -56,7 +56,7 @@ Messgroessen wie PUE (Power Usage Effectiveness) und DCIE werden durch korrekt i
 
 - BIM360 Coordination RZ: IFC-Modell mit Serverflaechen, Kuehlpfad, Kabeltrassen, Clash-Detection
 - Drohnenflug Dach RZ: Kuehlturm-Position, Kabelschraenke aussen, Notstromaggregat-Aufstellung
-- Pruefprotokolle Kuehlwasser: Druck vs. Zeit-Graph, Temperatur, Kuehlmittelzusammensetzung
+- Prüfprotokolle Kuehlwasser: Druck vs. Zeit-Graph, Temperatur, Kuehlmittelzusammensetzung
 - Foto Gasloesch-System: Duesen-Positionen, Raumversiegelung, Deckendurchdringungen abgedichtet
 - USV-Testprotokoll: Lastprofil, Spannungseinbruch, Batteriedauer, Umschaltzeit mit Zeitstempel
 

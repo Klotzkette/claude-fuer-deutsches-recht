@@ -7,7 +7,7 @@ description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwur
 
 > Kompetenz vor Inhalt. Ohne Kompetenz ist der ganze Entwurf umsonst.
 
-## Pruefstation 1 - Bund oder Land?
+## Prüfstation 1 - Bund oder Land?
 
 - Bestimmung der **Materie**: was wird geregelt? Materielles Recht, Verfahrensrecht, Organisation, oder Mischung?
 - Suche in **Art. 73 GG** (ausschließliche Bundeskompetenz, 14 Nummern): von Außenpolitik über Verteidigung, Staatsangehoerigkeit, Wahrungseinheit, Bundeseisenbahnen, Postwesen, Telekommunikation, Bundeskriminalpolizei, Zoelle bis zu Atomenergie.
@@ -15,7 +15,7 @@ description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG prüfen bevor Entwur
 
 Wenn nichts passt: Landeskompetenz Art. 70 Abs. 1 GG.
 
-## Pruefstation 2 - Erforderlichkeitsklausel Art. 72 Abs. 2 GG
+## Prüfstation 2 - Erforderlichkeitsklausel Art. 72 Abs. 2 GG
 
 Bei den in Art. 72 Abs. 2 GG aufgezaehlten Materien (z.B. Aufenthalt, öffentliche Fürsorge, Wirtschaft, Hochschulen, Straßenverkehr) braucht der Bund eine zusätzliche Erforderlichkeit:
 
@@ -23,19 +23,19 @@ Bei den in Art. 72 Abs. 2 GG aufgezaehlten Materien (z.B. Aufenthalt, öffentlic
 
 Erforderlichkeitsprüfung in die Begründung des Entwurfs (Abschnitt A I 4) aufnehmen.
 
-## Pruefstation 3 - Abweichungskompetenz Art. 72 Abs. 3 GG
+## Prüfstation 3 - Abweichungskompetenz Art. 72 Abs. 3 GG
 
 Bei sechs Materien (Jagdwesen, Naturschutz, Bodenverteilung, Raumordnung, Wasserhaushalt, Hochschulzulassung) dürfen Länder abweichende Regelungen treffen. Bundesgesetz muss damit rechnen und eine Anwendungsvorschrift gegen die Abweichung enthalten.
 
-## Pruefstation 4 - Annexkompetenz, Kompetenz kraft Sachzusammenhangs
+## Prüfstation 4 - Annexkompetenz, Kompetenz kraft Sachzusammenhangs
 
 BVerfGE 3 / 407 (Baurecht): Bund darf in einer Materie Bestimmungen treffen, die nicht ausdruecklich zu seinen Kompetenzen zaehlen, wenn das für den Vollzug der ihm zugewiesenen Materie erforderlich ist. Annexkompetenzen sind eng auszulegen.
 
-## Pruefstation 5 - Sperrwirkung
+## Prüfstation 5 - Sperrwirkung
 
 Hat der Bund von seiner konkurrierenden Kompetenz Gebrauch gemacht? Dann Sperrwirkung für Länder (Art. 72 Abs. 1 GG). Es sei denn: Bund hat ausdruecklich Lückenraum gelassen.
 
-## Pruefstation 6 - Landesverfassung
+## Prüfstation 6 - Landesverfassung
 
 Wenn Landesgesetz: Prüfung der Landesverfassung. Hat das Land Selbstverwaltung der Kommunen zu wahren (Art. 28 Abs. 2 GG analog Landesverfassungen)? Greift das Gesetz in ein landesverfassungsrechtliches Grundrecht ein (z.B. Bayerische Verfassung Art. 101 Wohnungswesen)?
 

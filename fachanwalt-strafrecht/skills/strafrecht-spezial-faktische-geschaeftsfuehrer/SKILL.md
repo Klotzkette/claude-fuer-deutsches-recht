@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-faktische-geschaeftsfuehrer
-description: "Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht: Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktisc..."
+description: "Faktische Geschäftsführer im Wirtschaftsstrafrecht: Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktisc..."
 ---
 
-# Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht
+# Faktische Geschäftsführer im Wirtschaftsstrafrecht
 
 
 ## Arbeitsweg
@@ -14,11 +14,11 @@ description: "Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht: Paragraph 14
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
+**Fokus:** Faktische Geschäftsführer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln für andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien für faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschäftsführung.
 
 ## Worum geht es konkret
 
-Paragraph 14 StGB ermoeglicht es, Personen strafrechtlich als Geschaeftsfuehrer zu erfassen, die formal nicht eingetragen sind, aber tatsaechlich die Geschaefte fuehren. Anwendungsfall: A wird als Strohmann eingetragener GF einer GmbH; tatsaechlich entscheidet B (Hintermann) alles. Bei Insolvenz: A und B sind beide nach Paragraph 283 StGB und Paragraph 15a InsO strafbar.
+Paragraph 14 StGB ermoeglicht es, Personen strafrechtlich als Geschäftsführer zu erfassen, die formal nicht eingetragen sind, aber tatsaechlich die Geschäfte fuehren. Anwendungsfall: A wird als Strohmann eingetragener GF einer GmbH; tatsaechlich entscheidet B (Hintermann) alles. Bei Insolvenz: A und B sind beide nach Paragraph 283 StGB und Paragraph 15a InsO strafbar.
 
 Bedeutung: Der faktische GF haftet wie der eingetragene GF strafrechtlich, zivilrechtlich (Paragraph 43 GmbHG, Paragraph 823 BGB) und sozialversicherungsrechtlich (Paragraph 266a StGB).
 
@@ -54,11 +54,11 @@ Faktischer GF muss wissen, dass er die Funktion ausuebt. Bei Strohmann-Konstella
 
 ### Mehrere faktische GF
 
-Bei Geschaeftsfuehrungsteam können *mehrere* Personen faktisch GF sein. Gesamtschuldnerische strafrechtliche Verantwortung.
+Bei Geschäftsführungsteam können *mehrere* Personen faktisch GF sein. Gesamtschuldnerische strafrechtliche Verantwortung.
 
 ## Praktikertipps der alten Hasen
 
-- **Tatsaechliche Geschaeftsfuehrungs-Indikatoren auflisten und entkraeften.** Bei jedem Mandanten konkret prüfen:
+- **Tatsaechliche Geschäftsführungs-Indikatoren auflisten und entkraeften.** Bei jedem Mandanten konkret prüfen:
  - Wer hat Konten eroeffnet?
  - Wer hat Bankvollmachten?
  - Wer hat Verträge unterschrieben?
@@ -74,7 +74,7 @@ Bei Geschaeftsfuehrungsteam können *mehrere* Personen faktisch GF sein. Gesamts
 
 | Pfad A Bestreiten der faktischen GF-Stellung | Pfad B Pflichten als faktischer GF erfuellt | Empfehlung |
 | --- | --- | --- |
-| Bei Beratern, Senior-Familie, Beauftragten | Bei klarer Geschaeftsfuehrung, Pflichten erfuellt | Pfad A primaer; Pfad B als Auffanglinie. |
+| Bei Beratern, Senior-Familie, Beauftragten | Bei klarer Geschäftsführung, Pflichten erfuellt | Pfad A primaer; Pfad B als Auffanglinie. |
 
 ## Konkurrenzen
 
@@ -91,11 +91,11 @@ Bei Geschaeftsfuehrungsteam können *mehrere* Personen faktisch GF sein. Gesamts
 
 ## Mustertexte
 
-**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschaeftsfuehrungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Verträge Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien für faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
+**Schutzschrift-Snippet:** "Mein Mandant X hat keine faktische Geschäftsführungsfunktion bei der Y GmbH ausgeuebt. Er hatte weder Bankvollmacht (Anlage SS 1) noch Vertragsabschlussvollmacht (Verträge Anlage SS 2 zeigen Unterschrift des eingetragenen GF Z). Seine Rolle beschraenkte sich auf beratende Hinweise; eigenstaendige Entscheidungen hat er nicht getroffen. Die BGH-Kriterien für faktische GF-Stellung (staendige Rspr.) sind nicht erfuellt."
 
-**Einlassungs-Snippet:** "Ich habe Herrn Z (eingetragenen GF) bei einzelnen Geschaeftsentscheidungen beraten, aber alle Entscheidungen wurden von Herrn Z getroffen und umgesetzt. Bankvollmachten hatte ich nicht; mit Lieferanten habe ich nicht verhandelt; die Mitarbeitervertraege haben Herr Z unterschrieben. Wenn ich beratend tätig war, dann immer im Auftrag der Gesellschaft, nicht als deren Vertreter."
+**Einlassungs-Snippet:** "Ich habe Herrn Z (eingetragenen GF) bei einzelnen Geschäftsentscheidungen beraten, aber alle Entscheidungen wurden von Herrn Z getroffen und umgesetzt. Bankvollmachten hatte ich nicht; mit Lieferanten habe ich nicht verhandelt; die Mitarbeitervertraege haben Herr Z unterschrieben. Wenn ich beratend tätig war, dann immer im Auftrag der Gesellschaft, nicht als deren Vertreter."
 
-**Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Z (eingetragener GF) zu erheben zum Beweis der Tatsache, dass mein Mandant ihn nur bei einzelnen Strategie-Fragen beraten hat, aber alle Geschaeftsentscheidungen und Aussenkommunikation von ihm selbst (Herrn Z) verantwortet wurden."
+**Hilfsbeweisantrag:** "Es wird beantragt, Beweis durch Vernehmung des Zeugen Z (eingetragener GF) zu erheben zum Beweis der Tatsache, dass mein Mandant ihn nur bei einzelnen Strategie-Fragen beraten hat, aber alle Geschäftsentscheidungen und Aussenkommunikation von ihm selbst (Herrn Z) verantwortet wurden."
 
 ## Quellen Stand 06/2026
 

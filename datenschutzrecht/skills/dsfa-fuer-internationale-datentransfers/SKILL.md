@@ -1,6 +1,6 @@
 ---
 name: dsfa-fuer-internationale-datentransfers
-description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Pruefung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug."
+description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Integration der Transfer Impact Assessment (TIA) in die DSFA, Prüfung Angemessenheit SCC BCR Ausnahmen Art. 49. Output: erweiterte DSFA-Sektion für Drittlandbezug."
 ---
 
 # DSFA bei internationalen Datentransfers
@@ -21,7 +21,7 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
 - Art. 46 DSGVO geeignete Garantien (SCC, BCR, Verhaltensregeln, Zertifizierungen).
 - Art. 47 DSGVO Binding Corporate Rules.
 - Art. 49 DSGVO Ausnahmen für besondere Faelle (Einwilligung, Vertragserfuellung, öffentliche Interessen).
-- Schrems II — EuGH Urt. v. 16.07.2020, C-311/18 — Transfer-Pruefungspflicht; TIA erforderlich. (Aktenzeichen verifiziert; sonstige Folgeentscheidungen verifizierungspflichtig.)
+- Schrems II — EuGH Urt. v. 16.07.2020, C-311/18 — Transfer-Prüfungspflicht; TIA erforderlich. (Aktenzeichen verifiziert; sonstige Folgeentscheidungen verifizierungspflichtig.)
 - EDSA Leitlinien 04/2022 zu personenbezogenen Datentransfers (Nutzer sollte Aktualitaet prüfen).
 - Angemessenheitsbeschluss EU-US Data Privacy Framework (DPF) 10.07.2023, Implementing Decision (EU) 2023/1795.
 - SCC Implementing Decision (EU) 2021/914 vom 04.06.2021 mit Modulen 1 bis 4.
@@ -29,14 +29,14 @@ description: "DSFA bei internationalen Datentransfers nach Kapitel V DSGVO: Inte
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welche Daten gehen wohin, an wen, in welcher Form, wie oft, in welchem Umfang?
-2. **Verhaeltnismaessigkeitspruefung.** Ist der Drittlandtransfer für den Zweck erforderlich, oder gaebe es EU-Alternativen?
+2. **Verhältnismäßigkeitspruefung.** Ist der Drittlandtransfer für den Zweck erforderlich, oder gaebe es EU-Alternativen?
 3. **Risikoanalyse.**
  - Drittlandrecht: Zugriffsbefugnisse von Behörden, Rechtsbehelfe Betroffener.
  - Anbieter-Risiko: Branche, Datentyp, Subunternehmer.
  - Daten-Risiko: Sensitivitaet, Aggregation, Identifizierbarkeit.
 4. **Maßnahmen.**
  - Rechtsgrundlage: Angemessenheitsbeschluss, SCC mit passendem Modul, BCR, Ausnahme Art. 49.
- - Ergaenzende Maßnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schluesselhoheit), vertraglich (Information über Behördenanfragen), organisatorisch (Audit, Schulung).
+ - Ergaenzende Maßnahmen nach EDSA Empfehlungen 01/2020 (verifizierungspflichtig): technisch (Verschluesselung, Schlüsselhoheit), vertraglich (Information über Behördenanfragen), organisatorisch (Audit, Schulung).
 5. **Restrisiko.** Prüfung ob die ergaenzenden Maßnahmen das Schutzniveau auf das EU-Niveau anheben oder ob das Restrisiko hoch bleibt.
 6. **Konsultation / Genehmigung.** DSB-Anhörung; bei verbleibendem hohem Restrisiko Art. 36 DSGVO Vorabkonsultation; bei US-Anbietern Prüfung DPF-Zertifizierung.
 

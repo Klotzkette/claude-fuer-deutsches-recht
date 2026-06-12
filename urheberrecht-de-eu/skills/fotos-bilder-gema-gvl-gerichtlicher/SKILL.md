@@ -1,6 +1,6 @@
 ---
 name: fotos-bilder-gema-gvl-gerichtlicher
-description: "Prueft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung im Urheberrecht De Eu."
+description: "Prüft Lichtbildwerk, Lichtbild, Design, Produktfoto, Screenshot, Stocklizenz, KI-Bild und Bildbearbeitung im Urheberrecht De Eu."
 ---
 
 # Fotos, Bilder und Design

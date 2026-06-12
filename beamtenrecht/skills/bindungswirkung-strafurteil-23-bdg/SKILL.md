@@ -32,7 +32,7 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 
 ### b) Loesungsbeschluss
 - Das Disziplinargericht kann sich von den Feststellungen loesen, wenn diese offensichtlich unrichtig sind oder wesentliche Verfahrensfehler vorliegen.
-- § 56 Abs. 1 Satz 2 BDG bzw. landesrechtliche Aequivalente.
+- § 56 Abs. 1 Satz 2 BDG bzw. landesrechtliche Äquivalente.
 
 ### c) Strafbefehl
 - Strafbefehl bindet im Disziplinarverfahren grundsätzlich nicht im selben Umfang wie ein Urteil; tatsaechliche Feststellungen können aber als Beweismittel verwertet werden.
@@ -54,7 +54,7 @@ Skill zur Frage, in welchem Umfang ein Strafurteil oder ein Strafbefehl in das D
 
 ## 5. Ausgabeformat
 
-- Pruefraster Bindung — Loesung — Beweisaufnahme.
+- Prüfraster Bindung — Loesung — Beweisaufnahme.
 - Schriftsatzbaustein Antrag auf Loesungsbeschluss.
 
 ## 6. Verifizierte Quellenanker

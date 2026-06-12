@@ -47,7 +47,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Board Paper, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite taktisch sinnvoll ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -136,7 +136,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welches Report-Format benoetigt der Mandant — Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary?
 2. Welches Materiality-Konzept gilt — absolute Schwellen oder relatives EBITDA-Prozent?
 3. Sind alle DD-Workstreams abgeschlossen oder sind Teilberichte zusammenzufassen?
-4. Ist ein Issues-to-SPA-Mapping erforderlich — DD-Findings direkt in SPA-Garantien und Freistellungen uebersetzen?
+4. Ist ein Issues-to-SPA-Mapping erforderlich — DD-Findings direkt in SPA-Garantien und Freistellungen übersetzen?
 
 ## Zentrale Rechtsgrundlagen
 

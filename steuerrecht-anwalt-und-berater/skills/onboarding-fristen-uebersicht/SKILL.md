@@ -1,9 +1,9 @@
 ---
 name: onboarding-fristen-uebersicht
-description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Fris..."
+description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjährung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klären welche Fris..."
 ---
 
-# Steuerrechtliche Fristen — der Ueberblick
+# Steuerrechtliche Fristen — der Überblick
 
 ## Fachlicher Anker
 
@@ -49,7 +49,7 @@ description: "Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen �
 | Nichtzulassungsbeschwerde | 1 Monat ab FG-Urteil | § 116 FGO | § 56 FGO |
 | AdV-Antrag beim FA | jederzeit waehrend Einspruch | § 361 AO | nicht erforderlich |
 | AdV-Antrag beim FG | jederzeit waehrend Klage | § 69 FGO | nicht erforderlich |
-| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Pruefungsanordnung | § 371 Abs. 2 AO | nicht möglich |
+| Selbstanzeige (Sperrwirkung) | bis Bekanntgabe Prüfungsanordnung | § 371 Abs. 2 AO | nicht möglich |
 | Festsetzungsfrist regulaer | 4 Jahre | § 169 Abs. 2 Nr. 2 AO | n.a. |
 | Festsetzungsfrist Hinterziehung | 10 Jahre | § 169 Abs. 2 S. 2 AO | n.a. |
 | Zahlungsverjaehrung | 5 Jahre | § 228 AO | n.a. |

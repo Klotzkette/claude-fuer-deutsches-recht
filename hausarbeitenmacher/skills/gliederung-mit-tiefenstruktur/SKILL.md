@@ -14,10 +14,10 @@ description: "Student erstellt Gliederung für juristische Hausarbeit mit korrek
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Gutachten-Hausarbeit, Sachverhalt, Lösungsskizze, Literaturverzeichnis, Plagiatsbericht, Korrekturanmerkungen, Notenbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Triage zu Beginn
-1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Pruefungspunkte sind zu erwarten?
+1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Prüfungspunkte sind zu erwarten?
 2. Wie ist die gewuenschte Tiefe der Gliederung (Anfaenger: A.I.1.a), Examen: tiefer)?
 3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein müssen?
-4. Sollen Hilfsweise-Pruefungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
+4. Sollen Hilfsweise-Prüfungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
 
 ## Aktuelle Rechtsprechung und Methodik
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

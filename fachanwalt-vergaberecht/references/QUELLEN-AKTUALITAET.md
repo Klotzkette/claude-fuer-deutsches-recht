@@ -6,7 +6,7 @@ Primaere Quellenpfade:
 
 - Gesetze im Internet: GWB, VgV, SektVO, KonzVgV, VSVgV, Haushaltsordnungen soweit einschlaegig.
 - EU-Kommission: Public procurement thresholds 2026/2027 und delegierte Verordnungen.
-- EUR-Lex: Richtlinien 2014/23/EU, 2014/24/EU, 2014/25/EU, 2009/81/EG und Aenderungsverordnungen.
+- EUR-Lex: Richtlinien 2014/23/EU, 2014/24/EU, 2014/25/EU, 2009/81/EG und Änderungsverordnungen.
 - Bundeskartellamt: Vergabekammern des Bundes, Rechtsgrundlagen und Checklisten zum Nachpruefungsverfahren.
 - TED/eForms: Bekanntmachungen, CPV, Berichtigungen und Fristen.
 - Wettbewerbsregister: Abfrage- und Registerhinweise.

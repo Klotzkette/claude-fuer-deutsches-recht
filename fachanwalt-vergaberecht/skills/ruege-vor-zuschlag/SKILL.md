@@ -116,7 +116,7 @@ Mit freundlichen Gruessen
 ### Ergaenzende Leitsaetze Ruege § 160 GWB (Stand 05/2026)
 
 - EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergabe nichtig nach § 135 GWB / Art. 2d RL 89/665 (curia.europa.eu)
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeitspruefung obligatorisch
+- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhältnismäßigkeitspruefung obligatorisch
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — schwerwiegende berufliche Verfehlung Art. 57 Abs. 4 RL
 - Aktuelle OLG-Vergabesenat-Rspr. zu Ruegeprueclusion (§ 160 Abs. 3 GWB) konkret per olg-duesseldorf.nrw.de / olg-karlsruhe / openjur.de verifizieren
 

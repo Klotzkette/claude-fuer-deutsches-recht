@@ -1,6 +1,6 @@
 ---
 name: wertungspreisqualitaet-matrix
-description: "Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation: Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkr..."
+description: "Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation: Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkr..."
 ---
 
 # Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder prüfen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation.
@@ -39,7 +39,7 @@ Wertungstabelle, Bewertungsleitfaden, Plausibilitaetscheck, Angriffslinien.
 
 ## Qualitaetsgates
 
-- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich pruefbarer Quelle absichern.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
 - Keine ungeprueften Schwellenwerte. Für 2026/2027 sind die offiziellen EU-/nationalen Quellen vor tragender Verwendung zu prüfen.
 - Keine pauschale Ruge. Jeder Vergabeverstoss braucht konkrete Tatsache, verletzte Regel, Kausalitaet/Chance und begehrte Abhilfe.
 - Auftraggeberseitig immer dokumentieren: Warum durfte genau diese Entscheidung zu genau diesem Zeitpunkt getroffen werden?

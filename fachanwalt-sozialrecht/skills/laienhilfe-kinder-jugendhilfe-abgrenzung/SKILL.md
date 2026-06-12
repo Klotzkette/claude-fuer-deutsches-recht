@@ -66,7 +66,7 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
 
 ## Kinder- und Jugendhilfe / Abgrenzung - Themenspezifika
-- **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Aenderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
+- **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Änderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
 - **Zuständigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
 - **Leistungsspektrum SGB VIII:**
  - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).

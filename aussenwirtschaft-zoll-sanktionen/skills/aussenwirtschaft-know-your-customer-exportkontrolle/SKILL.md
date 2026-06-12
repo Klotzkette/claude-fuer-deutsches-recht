@@ -36,7 +36,7 @@ description: "KYC-Prozess für Exportkontrollzwecke: Kundenidentifizierung, Endv
 - **§ 10 GwG**: KYC-Pflichten (gleichzeitig relevant für Sanktions-Compliance).
 - **VO (EU) 269/2014 Art. 2**: Bereitstellungsverbot für gelistete Personen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Kundenidentitaet vollstaendig und verifiziert?
 - [ ] UBO ermittelt und gegen Sanktionslisten geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

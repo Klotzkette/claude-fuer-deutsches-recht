@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-kaufvertrag-scopen
-description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisend..."
+description: "Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Kläger scopet Kaufvertrag für Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisend..."
 ---
 
 # Kreuzfahrtschiff – Kaufvertrag scopen
@@ -20,7 +20,7 @@ Ein Investor kauft ein Kreuzfahrtschiff oder großes Fahrgastschiff; Risiken aus
 1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Kreuzfahrtschiff oder großes Fahrgastschiff.
 2. Lastenuebergang prüfen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan prüfen.
-4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
+4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Übergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
 6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 

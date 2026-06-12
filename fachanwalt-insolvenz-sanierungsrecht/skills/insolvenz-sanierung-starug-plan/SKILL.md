@@ -201,9 +201,9 @@ Wenn ein Gate rot ist, kein StaRUG-Versprechen ausgeben, sondern zuerst `fachanw
 Bevor losgelegt wird, klaere:
 
 1. **Nur drohende ZU?** § 18 InsO Voraussetzung (StaRUG); bei eingetretener ZU § 17 InsO → sofort InsO-Pflicht § 15a InsO!
-2. **Welche Glaeubiger sollen einbezogen werden?** StaRUG erlaubt selektive Einbeziehung nur betroffener Glaeubiger (anders als InsO-Plan).
+2. **Welche Gläubiger sollen einbezogen werden?** StaRUG erlaubt selektive Einbeziehung nur betroffener Gläubiger (anders als InsO-Plan).
 3. **75%-Mehrheit je Klasse erreichbar?** § 25 StaRUG — realistischer Mehrheiten-Check vor Plan-Aufstellung.
-4. **Stabilisierungsanordnung nötig?** § 49 StaRUG — Vollstreckungsschutz bis 3 Monate wenn Glaeubiger bereits vollstrecken.
+4. **Stabilisierungsanordnung nötig?** § 49 StaRUG — Vollstreckungsschutz bis 3 Monate wenn Gläubiger bereits vollstrecken.
 5. **Restrukturierungsgericht anzeigen?** Anzeige nach § 31 StaRUG als konstitutiver Akt; ohne Anzeige kein Schutz.
 
 ## Aktuelle Leitentscheidungen StaRUG
@@ -219,11 +219,11 @@ Bevor losgelegt wird, klaere:
 ## — 7 Schritte StaRUG-Restrukturierungsplan
 
 1. **Krisenstadium verifizieren:** 24-Monats-Forecast § 29 Abs. 2 StaRUG; bei ZU § 17 InsO Notfallwechsel → InsO.
-2. **Plan-Scope bestimmen:** Welche Glaeubiger werden einbezogen (§ 9 StaRUG)? Finanzglaeubiger, Lieferanten, Pensionsansprueche, FA?
-3. **Klassenbildung § 10 StaRUG:** Glaeubiger mit gleichen Rechten und Interessen pro Klasse; mindestens: gesicherte Glaeubiger, Finanzglaeubiger, Handelsglaeubiger.
+2. **Plan-Scope bestimmen:** Welche Gläubiger werden einbezogen (§ 9 StaRUG)? Finanzglaeubiger, Lieferanten, Pensionsansprueche, FA?
+3. **Klassenbildung § 10 StaRUG:** Gläubiger mit gleichen Rechten und Interessen pro Klasse; mindestens: gesicherte Gläubiger, Finanzglaeubiger, Handelsglaeubiger.
 4. **Vergleichsrechnung erstellen:** Gegenueber Liquidationswert (Liquiditaetsszenario ohne Plan) — jede Klasse muss im Plan mindestens so viel erhalten wie ohne Plan.
 5. **Plan aufstellen:** Darstellender Teil (§ 8 StaRUG): Sachverhalt, Krisenursachen, Sanierungs-Maßnahmen; Gestaltender Teil (§ 9 StaRUG): konkrete Rechtsaenderungen (Stundung, Erlass, Debt-Equity-Swap).
-6. **Abstimmung:** Anzeige § 31 StaRUG → Ladung Glaeubiger → Abstimmungstermin; 75% Summe je Klasse § 25 StaRUG.
+6. **Abstimmung:** Anzeige § 31 StaRUG → Ladung Gläubiger → Abstimmungstermin; 75% Summe je Klasse § 25 StaRUG.
 7. **Gerichtsbestaetigung §§ 60-66 StaRUG:** Bestaetigung, Cramdown, Planwirkung § 67 StaRUG.
 
 ## Output-Template Plan-Anzeige

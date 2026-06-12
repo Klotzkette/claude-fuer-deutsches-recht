@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-versagungsgruende
-description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..."
+description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigu..."
 ---
 
 # Verbraucherinsolvenz: Versagungsgruende
@@ -14,7 +14,7 @@ description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 In
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermoegensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: Versagungsgruende. Skill behandelt § 290 InsO Versagung der Restschuldbefreiung Tatbestaende Strafurteile Vermögensverlagerung Verletzung Aufklaerungspflicht und Erwerbsobliegenheit. Verteidigungsstrategien. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz Versagungsgruende
 
@@ -36,7 +36,7 @@ description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 In
 - Verletzung Aufklaerungspflicht im Antrag.
 
 ### § 290 Abs. 1 Nr. 3 InsO
-- Vermoegensverschiebung in 10 Jahren vor Antrag.
+- Vermögensverschiebung in 10 Jahren vor Antrag.
 
 ### § 290 Abs. 1 Nr. 4 InsO
 - Letzte 10 Jahre eine Restschuldbefreiung erteilt.
@@ -45,16 +45,16 @@ description: "Verbraucherinsolvenz: Versagungsgruende: Skill behandelt § 290 In
 - Verletzung Erwerbsobliegenheit.
 
 ### § 290 Abs. 1 Nr. 6 InsO
-- Unrichtige oder unvollstaendige Vermoegensaufstellung.
+- Unrichtige oder unvollstaendige Vermögensaufstellung.
 
 ## Verteidigungsstrategien
 
 - Prüfen des Tatbestands.
 - Verschulden des Schuldners?
 - Geringfuegigkeit (Bagatellgrenze in einzelnen Faellen).
-- Glaeubiger-Stellungnahme einholen.
+- Gläubiger-Stellungnahme einholen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Tatbestand?
 2. Verschulden?

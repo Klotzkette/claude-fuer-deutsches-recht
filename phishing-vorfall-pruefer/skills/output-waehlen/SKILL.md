@@ -22,7 +22,7 @@ Diese Output-Weiche für **Phishing Vorfall Prüfer** entscheidet, ob Memo, Antr
 - `beweislast-mandantenkommunikation-entscheidungsvorlage` — Beweislast Mandantenkommunikation Entscheidungsvorlage
 - `bgb-schriftsatz-brief-und-memo-bausteine` — BGB Schriftsatz Brief und Memo Bausteine
 - `call-interessen-faelle-freistehender` — Call Interessen Faelle Freistehender
-- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Uebergabe
+- `faelle-abschlussprodukt-und-uebergabe` — Faelle Abschlussprodukt und Übergabe
 - `fahrlaessigkeit-fehlerkatalog` — Fahrlaessigkeit Fehlerkatalog
 - `anschluss-routing` — Anschluss Routing
 - `dokumente-intake` — Dokumente Intake

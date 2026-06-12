@@ -26,7 +26,7 @@ Sieben-Fragen-Diagnose:
 - **Art. 78 DSGVO** Wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehoerde — auch bei Untaetigkeit nach drei Monaten.
 - **Art. 80 I DSGVO** Vertretung durch Einrichtungen, Organisationen, Vereinigungen.
 - **Art. 56 DSGVO** federfuehrende Behörde bei grenzueberschreitender Verarbeitung.
-- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll ueberpruefbar; Aufsicht hat Ermessen, aber kein freies Belieben.
+- **EuGH C-26/22 SCHUFA** (Urteil 07.12.2023, in Verbindung mit C-634/21 und C-26/22): Entscheidungen über Beschwerden sind gerichtlich voll überprüfbar; Aufsicht hat Ermessen, aber kein freies Belieben.
 - **§ 13 BDSG** BfDI.
 - **§ 40 BDSG** Aufsichtsbehoerden der Länder.
 - **VwGO § 113 V** Verpflichtungsklage / Untaetigkeitsklage.
@@ -93,7 +93,7 @@ Sieben-Fragen-Diagnose:
 > 1. Verfahrensrechtliche Stellungnahme (Zuständigkeit, Akteneinsicht).
 > 2. Sachverhalt aus Sicht des Verantwortlichen (neutral).
 > 3. Rechtliche Bewertung mit DSGVO-Norm.
-> 4. Massnahmenlage Art. 30, 32, 35 (mit Belegen).
+> 4. Maßnahmenlage Art. 30, 32, 35 (mit Belegen).
 > 5. Verarbeitungsgrundlage Art. 6 DSGVO (konkret).
 > 6. Antrag: Einstellung des Verfahrens; hilfsweise schriftliche Verwarnung Art. 58 II b.
 

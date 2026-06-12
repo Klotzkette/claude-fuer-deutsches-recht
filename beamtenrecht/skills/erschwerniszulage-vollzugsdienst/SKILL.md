@@ -28,7 +28,7 @@ Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) un
 ## 3. Ablauf / Checkliste
 
 ### a) Anspruchsgrundlagen
-- Erschwerniszulagenverordnung (EZulV, Bund) bzw. landesrechtliche Aequivalente. Zulagen für Wechselschicht, Nachtdienst, Sonn- und Feiertagsdienst, Tauchdienst, Hoehenarbeit, Sprengstoff, Dienst zu ungewoehnlichen Zeiten.
+- Erschwerniszulagenverordnung (EZulV, Bund) bzw. landesrechtliche Äquivalente. Zulagen für Wechselschicht, Nachtdienst, Sonn- und Feiertagsdienst, Tauchdienst, Hoehenarbeit, Sprengstoff, Dienst zu ungewoehnlichen Zeiten.
 
 ### b) Definition Wechselschicht
 - Im Wechsel zwischen mindestens drei Schichten (Frueh, Spaet, Nacht). Faustregel: in einem Bemessungszeitraum nicht weniger als bestimmte Nachtdienststunden.
@@ -40,7 +40,7 @@ Skill für Beamte im Vollzugsdienst (Polizei, Justizvollzug, Feuerwehr, Zoll) un
 - Bei Krankheit und Urlaub Zulagen grundsätzlich weiterzuzahlen, soweit sie pauschal bemessen sind; bei stundengenauer Bemessung Ausgleich nach EuGH-Rechtsprechung zur Urlaubsverguetung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 
 ### e) Vergütung Mehrarbeit Sonderdienste
-- Verhaeltnis Erschwerniszulage zu Mehrarbeitsverguetung (§ 88 BBG) klären; siehe Schwester-Skill `mehrarbeitsverguetung-88-bbg`.
+- Verhältnis Erschwerniszulage zu Mehrarbeitsverguetung (§ 88 BBG) klären; siehe Schwester-Skill `mehrarbeitsverguetung-88-bbg`.
 
 ## 4. Quellenpflicht
 

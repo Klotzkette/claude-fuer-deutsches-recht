@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-arrest-vorbereiten
-description: "Kreuzfahrtschiff: Glaeubiger sichert Anspruch an Kreuzfahrtschiff oder grosses Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein un..."
+description: "Kreuzfahrtschiff: Gläubiger sichert Anspruch an Kreuzfahrtschiff oder grosses Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein un..."
 ---
 
 # Kreuzfahrtschiff – Arrest vorbereiten

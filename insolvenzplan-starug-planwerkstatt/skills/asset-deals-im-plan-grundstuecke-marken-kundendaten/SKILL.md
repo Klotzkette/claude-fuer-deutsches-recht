@@ -318,7 +318,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 ## Triage — Asset-Deal im Plan
 
 Bevor losgelegt wird, klaere:
-1. **Asset-Katalog?** Welche Vermoegenswerte werden uebertragen — Grundstuecke (Auflassung), Marken (DPMA-Umschreibung), Kundendaten (DSGVO)?
+1. **Asset-Katalog?** Welche Vermögenswerte werden uebertragen — Grundstuecke (Auflassung), Marken (DPMA-Umschreibung), Kundendaten (DSGVO)?
 2. **Rechte Dritter?** Pfandrechte, Sicherungsuebereignungen, Eigentumsvorbehalte an Assets?
 3. **DSGVO?** Kundendaten-Uebertragung: Art. 6 Abs. 1 lit. b DSGVO Vertragsuebernahme oder neue Einwilligung?
 4. **Grundbuch?** Grundstuecks-Auflassung nicht aufschiebbar auf Plan-Vollzug; Grundbuchamt einbinden.

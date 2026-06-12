@@ -1,6 +1,6 @@
 ---
 name: rahmenvertrag-einzelauftrag
-description: "Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Rahmenvertrag und Einzelauftrag

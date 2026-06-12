@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-register-auswerten
-description: "Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen im Luftrecht Flughafenrecht."
+description: "Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prüft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen im Luftrecht Flughafenrecht."
 ---
 
 # Registerpfandrecht – Register auswerten

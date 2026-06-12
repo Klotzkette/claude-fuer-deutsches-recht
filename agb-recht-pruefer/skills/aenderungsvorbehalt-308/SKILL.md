@@ -32,10 +32,10 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 
 > Der Anbieter ist berechtigt, die in Anlage [X] aufgeführten Leistungsmerkmale anzupassen, soweit dies aufgrund (a) gesetzlicher Vorgaben, (b) zwingender Anforderungen an die IT-Sicherheit oder (c) der Weiterentwicklung der zugrundeliegenden Software erforderlich ist und für den Kunden zumutbar ist. Über die geplante Anpassung wird der Anbieter den Kunden mindestens 6 Wochen vor Wirksamwerden in Textform informieren. Verändert die Anpassung den vertragstypischen Leistungsumfang erheblich, kann der Kunde den Vertrag bis zum Wirksamwerden außerordentlich kündigen.
 
-## Aktuelle BGH-Linie zu Aenderungsvorbehalten
+## Aktuelle BGH-Linie zu Änderungsvorbehalten
 
 ### Norm
-- § 308 Nr. 4 BGB Aenderungsvorbehalt der versprochenen Leistung; nur wirksam, wenn die Aenderung dem Verwender unter Beruecksichtigung der Interessen des Vertragspartners zumutbar ist.
+- § 308 Nr. 4 BGB Änderungsvorbehalt der versprochenen Leistung; nur wirksam, wenn die Änderung dem Verwender unter Beruecksichtigung der Interessen des Vertragspartners zumutbar ist.
 - § 307 BGB als Auffangkontrolle.
 
 ### Energiepreisanpassungs-Linie
@@ -50,11 +50,11 @@ description: "Norm- und Dogmatik-Skill für Änderungsvorbehalt 308: prüft die 
 ### Weitere relevante AGB-Klauseln § 308 BGB
 - Nr. 1: Annahmefrist und Leistungsfrist.
 - Nr. 1a: Zahlungsfrist.
-- Nr. 1b: Ueberpruefungs- und Aenderungsfrist.
+- Nr. 1b: Überprüfungs- und Änderungsfrist.
 - Nr. 5: Fiktive Erklaerungen.
 - Nr. 7: Aufwandsentschaedigung.
 
-### Pruefraster
+### Prüfraster
 1. Bezug zur Hauptleistung oder zur Modalitaet?
 2. Veraenderungsgrund konkret und beschraenkt definiert?
 3. Loesungsrecht oder Anpassungsrecht des Vertragspartners?

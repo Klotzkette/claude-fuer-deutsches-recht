@@ -1,6 +1,6 @@
 ---
 name: bafoeg-bescheide-widerspruch
-description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage."
+description: "BAfoeG-Bescheide und Widerspruch. Skill klaert die Förderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Änderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage."
 ---
 
 # Bafoeg Bescheide Widerspruch
@@ -32,7 +32,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 
 - Ausbildung an Ausbildungsstaette.
 - Foerderfaehiger Bildungsgang.
-- Einkommens-/Vermoegensgrenzen.
+- Einkommens-/Vermögensgrenzen.
 - Staatsangehörigkeit/Aufenthaltsstatus, Altersgrenze, Fachrichtungswechsel, Leistungsnachweise und Förderungsdauer nicht übergehen.
 
 ## Berechnung
@@ -47,9 +47,9 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 - Bafoeg-Hoechstsatz prüfen (aktuell verifizieren).
 - 50 Prozent Zuschuss / 50 Prozent zinsloses Darlehen.
 
-## Aenderungsantrag
+## Änderungsantrag
 
-- Bei Aenderung der Elterneinkommen.
+- Bei Änderung der Elterneinkommen.
 - Bei Wohnformwechsel.
 - Aktualisierungsantrag nicht mit Widerspruch verwechseln: Er korrigiert die Prognosegrundlage, ersetzt aber nicht automatisch jede Rechtsverteidigung gegen einen falschen Bescheid.
 
@@ -60,7 +60,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 - Wenn die Frist knapp ist: fristwahrend kurz einlegen, Akteneinsicht/Begründungsfrist verlangen, Berechnungstabellen nachreichen.
 - Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung längere Frist prüfen, nicht aus dem Bauch heraus behaupten.
 
-## Pruefraster
+## Prüfraster
 
 1. Foerderfaehiger Bildungsgang?
 2. Einkommen Eltern korrekt erfasst?

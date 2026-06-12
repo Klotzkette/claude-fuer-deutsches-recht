@@ -51,7 +51,7 @@ description: "Output- und Streit-Skill für Abmahnung Reagieren: macht aus der A
 - Vertragsstrafe nicht über Hamburger Brauch hinaus (Streitwerthoehe).
 - Bei drohender einstweiliger Verfuegung: Schutzschrift hinterlegen.
 
-### Pruefraster
+### Prüfraster
 1. Wer mahnt ab und mit welcher Befugnis?
 2. Welche AGB-Klausel ist beanstandet?
 3. Frist und Vertragsstrafe?

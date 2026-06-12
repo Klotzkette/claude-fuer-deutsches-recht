@@ -42,7 +42,7 @@ Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 - Bloss formelhaftes Ergebnis genuegt nicht.
 
 ### e) Akteneinsicht
-- Beamter hat Anspruch auf Akteneinsicht und Mitteilung des Gutachteninhalts (§ 110 BBG; landesrechtliche Aequivalente).
+- Beamter hat Anspruch auf Akteneinsicht und Mitteilung des Gutachteninhalts (§ 110 BBG; landesrechtliche Äquivalente).
 - Persoenlichkeitsrechte sind durch geeignete Aufbereitung zu wahren.
 
 ## 4. Quellenpflicht
@@ -62,8 +62,8 @@ Skill für Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 - Art. 2 Abs. 1, Art. 1 Abs. 1 GG (Persoenlichkeitsrecht) als Schranke der Untersuchungsanordnung.
 - Anforderung an Bestimmtheit der Untersuchungsaufforderung: konkreter Anlass, Untersuchungsstelle, Umfang, Folgen unterlassener Mitwirkung.
 - BVerwG zur Bestimmtheit der Untersuchungsaufforderung und zum Vorrang des amtsaerztlichen Gutachtens — Datum und Az vor Zitat live verifizieren.
-- Akteneinsicht und Kenntnisnahme des Gutachtens nach § 110 BBG sowie landesrechtlichen Aequivalenten.
+- Akteneinsicht und Kenntnisnahme des Gutachtens nach § 110 BBG sowie landesrechtlichen Äquivalenten.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant erhaelt pauschale Aufforderung zur Untersuchung "wegen wiederholter Erkrankung". Skill liefert Widerspruch gegen Aufforderung wegen mangelnder Bestimmtheit und Pruefraster.
+Mandant erhaelt pauschale Aufforderung zur Untersuchung "wegen wiederholter Erkrankung". Skill liefert Widerspruch gegen Aufforderung wegen mangelnder Bestimmtheit und Prüfraster.

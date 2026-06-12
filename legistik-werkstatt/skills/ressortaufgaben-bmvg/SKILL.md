@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmvg
-description: "Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeo..."
+description: "Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeo..."
 ---
 
 # Ressortaufgaben BMVg
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschaeftsbere
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMVg
 - Ressort-Kompass aus `legw-ressort-bmvg`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

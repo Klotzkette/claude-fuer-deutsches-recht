@@ -96,7 +96,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 - **Waffenrechtliche Folgen:** Widerruf der Erlaubnis nach Paragraph 45 WaffG; Sperre für Neuerteilung.
 - **Berufsverbot Paragraph 70 StGB** bei gewerbsmäßigem Waffenhandel.
 - BZRG-Eintrag bei Freiheitsstrafe oder Geldstrafe über 90 Tagessaetzen.
-- Bei Auslaender Ausweisungsrisiko Paragraph 53 AufenthG.
+- Bei Ausländer Ausweisungsrisiko Paragraph 53 AufenthG.
 
 ## Mustertexte
 

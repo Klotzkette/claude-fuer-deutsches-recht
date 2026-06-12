@@ -1,6 +1,6 @@
 ---
 name: vorstand-berater
-description: "Prueft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschaeftsordnungspflichten, AktG-Beziehung und Haftungsrisiken im Insiderrecht Compliance."
+description: "Prüft Insiderrecht-Pflichten von Vorstand und Aufsichtsrat: Wissenszurechnung, Geschäftsordnungspflichten, AktG-Beziehung und Haftungsrisiken im Insiderrecht Compliance."
 ---
 
 # Vorstand und Aufsichtsrat – Insiderrechtliche Pflichten

@@ -5,7 +5,7 @@ description: "Mandatsannahme fuer Lizenzvertragsersteller: Konfliktcheck (mehrse
 
 # Mandatsannahme und Konfliktpruefung
 
-## Pruefraster
+## Prüfraster
 
 | Punkt | Prüfung | Belege |
 | --- | --- | --- |

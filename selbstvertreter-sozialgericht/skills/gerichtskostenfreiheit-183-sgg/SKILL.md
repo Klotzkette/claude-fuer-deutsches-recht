@@ -83,7 +83,7 @@ Wenn Sie gewinnen, muss die unterliegende Behörde Ihnen die notwendigen ausserg
 
 - **§ 109-Gutachten ist die Ausnahme**: Wenn Sie ein eigenes medizinisches Gutachten beantragen, tragen Sie zunaechst die Kosten. Prüfen Sie das gut (siehe `sachverstaendigen-wahlrecht-109-sgg`).
 - **Mutwilligkeit § 192 SGG**: Bleiben Sie sachlich. Wer Klagen sinnlos haeuft, kann verurteilt werden, die Gerichtskosten zu zahlen.
-- **Arbeitgeber zahlen**: Wenn Sie selbstaendig sind und gegen die Krankenkasse klagen (z.B. wegen Pflichtversicherung), prüfen Sie, ob Sie als Arbeitgeber gelten.
+- **Arbeitgeber zahlen**: Wenn Sie selbständig sind und gegen die Krankenkasse klagen (z.B. wegen Pflichtversicherung), prüfen Sie, ob Sie als Arbeitgeber gelten.
 
 ## Typische Fehler
 

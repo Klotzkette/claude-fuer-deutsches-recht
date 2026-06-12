@@ -1,6 +1,6 @@
 ---
 name: urheberstrafrecht
-description: "Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu."
+description: "Prüft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen im Urheberrecht De Eu."
 ---
 
 # Urheberstrafrecht und Ermittlungen

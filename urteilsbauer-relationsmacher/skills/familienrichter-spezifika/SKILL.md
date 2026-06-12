@@ -71,7 +71,7 @@ binnen einer Frist von einem Monat nach Bekanntgabe beim [GERICHT] einzulegen.
 - **Verfahrensbeistand** Paragraf 158 FamFG (insbesondere in Kindersachen)
 - **Verfahrenskostenhilfe** Paragraf 76 ff FamFG (entspricht PKH der ZPO)
 
-## Massstab Kindeswohl
+## Maßstab Kindeswohl
 
 Paragraf 1697a BGB - Kindeswohl ist Leitlinie aller familiengerichtlichen Entscheidungen.
 

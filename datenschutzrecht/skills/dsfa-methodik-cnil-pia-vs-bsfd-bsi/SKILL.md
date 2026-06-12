@@ -36,10 +36,10 @@ description: "Vergleich der DSFA-Methoden: CNIL PIA Software (Frankreich) gegenu
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Was wird verarbeitet, wer ist Verantwortlicher, in welcher Jurisdiktion?
-2. **Verhaeltnismaessigkeitspruefung.** Welche Methodik passt zur Verarbeitung? Standortbezug DE: SDM bevorzugt; FR-Bezug: CNIL PIA; reine TOM-Fragen: BSI-Bausteine ergaenzend.
+2. **Verhältnismäßigkeitspruefung.** Welche Methodik passt zur Verarbeitung? Standortbezug DE: SDM bevorzugt; FR-Bezug: CNIL PIA; reine TOM-Fragen: BSI-Bausteine ergaenzend.
 3. **Risikoanalyse.** Methodisches Risikomodell waehlen: Schadensszenarien (CNIL), Schutzziele (SDM) oder Schutzbedarf (BSI).
-4. **Maßnahmen.** Methode steuert die Massnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
-5. **Restrisiko.** Methodenwahl beeinflusst Bewertungsmassstab; bei Hybridansatz beide Skalen dokumentieren.
+4. **Maßnahmen.** Methode steuert die Maßnahmenstruktur: CNIL fragt pro Szenario, SDM pro Schutzziel, BSI pro Baustein.
+5. **Restrisiko.** Methodenwahl beeinflusst Bewertungsmaßstab; bei Hybridansatz beide Skalen dokumentieren.
 6. **Konsultation / Genehmigung.** DSB-Anhörung; Methodenwahl in der DSFA explizit begruenden.
 
 ## Mustertext / Template (Methodenwahl-Memo)
@@ -82,7 +82,7 @@ Unterschrift DSB: ____________________
 ## Werkzeug-Hinweise zur Auswahl
 
 - CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
-- SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
+- SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Prüfkatalog.
 - BSI-Grundschutz: Fachüberblick mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
 - Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software für strukturierte Risikoszenarien, BSI für TOM nach Art. 32 DSGVO.
 
@@ -90,7 +90,7 @@ Unterschrift DSB: ____________________
 
 - KI-System mit Profiling: SDM bevorzugt, weil Schutzziele die KI-typischen Risiken (Transparenz, Nicht-Verkettung) sauber adressieren.
 - Cloud-Migration mit US-Anbieter: CNIL PIA Software für Risikoszenarien plus BSI-Bausteine für technische Schutzmassnahmen.
-- Beschaeftigtenverarbeitung mit Mitbestimmung: SDM mit ergaenzendem Stakeholder-Modul.
+- Beschäftigtenverarbeitung mit Mitbestimmung: SDM mit ergaenzendem Stakeholder-Modul.
 - Forschungsverarbeitung mit besonderen Kategorien: SDM und CNIL PIA kombinieren; Beweislast-Aspekt nach Art. 5 Abs. 2 DSGVO mitfuehren.
 
 ## Typische Fehler

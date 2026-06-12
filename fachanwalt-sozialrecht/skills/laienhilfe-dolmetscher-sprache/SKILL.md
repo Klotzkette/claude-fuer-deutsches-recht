@@ -67,15 +67,15 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## Dolmetscher / Sprache - Themenspezifika
 - **Rechtsgrundlage:** §§ 17, 19 SGB X (Anhörung in verstaendlicher Sprache; Recht auf Dolmetscher); § 185 GVG (gerichtliche Verhandlung in deutscher Sprache; Dolmetscher Pflicht bei Nichtdeutschen / Hoer-/Sprachbehinderten); § 187 GVG (Dolmetscherkostenuebernahme).
-- **Im Verwaltungsverfahren § 19 SGB X:** Behörde muss bei Sprachbarriere für Dolmetscher sorgen oder den Beteiligten in die Lage versetzen, sich verstaendlich zu aeussern; ggf. schriftliche Uebersetzung wesentlicher Schreiben.
+- **Im Verwaltungsverfahren § 19 SGB X:** Behörde muss bei Sprachbarriere für Dolmetscher sorgen oder den Beteiligten in die Lage versetzen, sich verstaendlich zu aeussern; ggf. schriftliche Übersetzung wesentlicher Schreiben.
 - **Im Sozialgerichtsverfahren §§ 61, 185 GVG / § 202 SGG i.V.m. §§ 185 ff. GVG:** Pflichtdolmetscher; kostenfrei für Beteiligte (§ 183 SGG Gerichtskostenfreiheit).
 - **JVEG-Vergütung Dolmetscher** §§ 8 ff. JVEG; Stundensatz zwischen 70 und 95 EUR je nach Sprachseltenheit; ohne Wartezeit / Anfahrt.
 - **EuGH Rsp. zu Recht auf Dolmetscher** (RL 2010/64/EU primaer für Strafverfahren, indirekte Wirkung).
-- **Recht auf Uebersetzung schriftlicher Bescheide:** Vorrang grundsätzlich deutsch; aber Behörde muss verstaendliche Kommunikation gewaehrleisten; ggf. Anhörungsfehler bei Missverstehen.
+- **Recht auf Übersetzung schriftlicher Bescheide:** Vorrang grundsätzlich deutsch; aber Behörde muss verstaendliche Kommunikation gewaehrleisten; ggf. Anhörungsfehler bei Missverstehen.
 - **Praxis-Tipp:**
  - Vor Termin: schriftliche Anfrage bei Sozialgericht / Behörde, dass Dolmetscher für Sprache X bestellt wird.
  - Bei eigenem Dolmetscher: ggf. Kostenuebernahme nach JVEG analog.
  - Dolmetscher sollte beeidigt / öffentlich bestellt sein (Landesgerichte gefuhrte Listen).
  - Behörden / Gerichte dürfen nicht auf Angehoerige als Dolmetscher verweisen (Befangenheit, Schweigepflicht-Konflikt).
 - **Begutachtungstermine MD / DRV** mit Dolmetscher: Recht aus § 19 SGB X; ggf. Beweisproblem bei Missverstaendnissen (Stellungnahme nach Termin möglich).
-- **Beratungsstellen bei Sprachbarrieren:** Migrationsberatung MBE (Diakonie, Caritas), Jugendmigrationsdienst, kommunale Auslaender-Beratungsstellen.
+- **Beratungsstellen bei Sprachbarrieren:** Migrationsberatung MBE (Diakonie, Caritas), Jugendmigrationsdienst, kommunale Ausländer-Beratungsstellen.

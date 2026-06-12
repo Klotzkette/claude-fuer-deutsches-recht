@@ -1,6 +1,6 @@
 ---
 name: due-diligence-urheberrechtliche
-description: "Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment im Urheberrecht De Eu."
+description: "Prüft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment im Urheberrecht De Eu."
 ---
 
 # Copyright Due Diligence

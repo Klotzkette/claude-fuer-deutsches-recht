@@ -1,6 +1,6 @@
 ---
 name: eigene-betriebsstaette
-description: "Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht im Sozialversicherungsstatus Pruefer."
+description: "Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht im Sozialversicherungsstatus Prüfer."
 ---
 
 # Eigene Betriebsstätte

@@ -26,7 +26,7 @@ description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verb
 3. Nullbescheid-Antrag an BAFA stellen (formloser Antrag mit vollstaendiger Sachverhaltsdarstellung).
 4. BAFA-Entscheidung (Bestaetigungs- oder Genehmigungspflichtigkeitsbescheid) abwarten.
 5. Positive Entscheidung (Nullbescheid) archivieren; für nachfolgende Ausfuhren als Beleg nutzen.
-6. Aenderungen in Warenbeschreibung oder Verwendungszweck können Nullbescheid ungueltig machen.
+6. Änderungen in Warenbeschreibung oder Verwendungszweck können Nullbescheid ungueltig machen.
 
 ## Rechtsrahmen
 
@@ -36,18 +36,18 @@ description: "Nullbescheid und Auskunfts-Zollanmeldung (AZG): Verfahren zur verb
 - **§ 9 AWV**: Genehmigungsfreiheitsmerkmale.
 - **Zollanmeldung ATLAS**: Genehmigungsfreiheitsvermerk im EXA-Datensatz.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Technische Parameter und Gueterlisten-Vergleich vollstaendig?
 - [ ] Catch-All-Indizien geprueft und ausgeschlossen?
 - [ ] Antrag mit vollstaendiger Sachverhaltsdarstellung gestellt?
 - [ ] Nullbescheid als offizielles Dokument archiviert?
-- [ ] Aenderungsmoeglichkeiten (neuer Endverwender, neues Zielland) kommuniziert?
+- [ ] Änderungsmoeglichkeiten (neuer Endverwender, neues Zielland) kommuniziert?
 - [ ] Fristen für Gueltigkeit des Nullbescheids bekannt?
 
 ## Typische Fallstricke
 
-- Nullbescheid gilt nur für exakten Sachverhalt; Aenderungen erfordern neuen Antrag.
+- Nullbescheid gilt nur für exakten Sachverhalt; Änderungen erfordern neuen Antrag.
 - Kein Schutz vor Strafverfolgung wenn Antragssteller wesentliche Tatsachen verschwiegen hat.
 - Praeprudizielle Wirkung des Nullbescheids nur für Antragssteller, nicht allgemein bindend.
 - Verwaltungsgericht kann BAFA-Wertung auf Ermessensfehler nachpruefen.
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

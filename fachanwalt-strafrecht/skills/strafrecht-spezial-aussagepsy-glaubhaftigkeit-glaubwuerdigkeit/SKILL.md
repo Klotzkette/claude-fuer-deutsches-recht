@@ -26,7 +26,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Methodische Grundlagen
 
-**Glaubhaftigkeit (Aussage).** Bezieht sich auf den Inhalt der Aussage. Pruefkriterien:
+**Glaubhaftigkeit (Aussage).** Bezieht sich auf den Inhalt der Aussage. Prüfkriterien:
 - Realkennzeichen (CBCA nach Steller/Koehnken).
 - Konstanz und Aussageentwicklung.
 - Aussageentstehung und Suggestionseinfluss.
@@ -35,13 +35,13 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 Glaubhaftigkeit ist methodisch operationalisierbar und Gegenstand eines aussagepsychologischen Gutachtens.
 
-**Glaubwuerdigkeit (Person).** Bezieht sich auf die Person des Zeugen. Pruefkriterien (alltagspsychologisch, nicht aussagepsychologisch):
+**Glaubwuerdigkeit (Person).** Bezieht sich auf die Person des Zeugen. Prüfkriterien (alltagspsychologisch, nicht aussagepsychologisch):
 - Vorstrafen, Falschaussagen in anderen Verfahren.
 - Persoenlichkeitsmerkmale, Auffaelligkeiten in Anamnese.
 - Aussagebereitschaft, Motivation.
 - Eindruck im persönlichen Auftreten.
 
-Glaubwuerdigkeit der Person ist nicht Gegenstand der aussagepsychologischen Methodik. Sie ist eher persoenlichkeitsdiagnostisch bzw. forensisch-psychiatrisch — und auch dort nur ein nachrangiges Pruefelement.
+Glaubwuerdigkeit der Person ist nicht Gegenstand der aussagepsychologischen Methodik. Sie ist eher persoenlichkeitsdiagnostisch bzw. forensisch-psychiatrisch — und auch dort nur ein nachrangiges Prüfelement.
 
 **Methodische Konsequenz.** Eine Aussage einer "glaubwuerdigen" Person kann unglaubhaft sein (z. B. weil suggestiv kontaminiert). Eine Aussage einer "unglaubwuerdigen" Person (z. B. mit Vorstrafen) kann glaubhaft sein. Der Schluss vom persönlichen Eindruck der Zeugin auf die Wahrheit der Aussage ist methodisch unzulaessig.
 
@@ -74,11 +74,11 @@ Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwische
 "Die Anklageschrift fuehrt aus, die Zeugin sei glaubwuerdig. Hierzu ist methodisch klarzustellen: Glaubwuerdigkeit ist eine Eigenschaft der Person und ersetzt nicht die Prüfung der Glaubhaftigkeit der Aussage. Glaubhaftigkeit wird nach aussagepsychologischer Methodik anhand der Aussageentstehung, der Aussagekonstanz und der Realkennzeichen geprueft (vgl. BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164)."
 
 **Mustersatz für Plaedoyer:**
-"Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu prüfen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
+"Wenn das Gericht den Eindruck haben sollte, die Zeugin sei eine glaubwuerdige Person, ist dies nachvollziehbar. Es ist jedoch methodisch nicht das Prüfkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, und diese ist nach der Hypothesen-gegen-Hypothesen-Methode des BGH zu prüfen. Die Methode verlangt, dass alle plausiblen Alternativen ausgeschlossen werden — Suggestion, Falscherinnerung, Motivation. Diese Alternativen sind hier nicht ausgeschlossen. Damit ist die Verurteilung nicht zu tragen."
 
 ## Quellen Stand 06/2026
 
-- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Glaubhaftigkeit der Aussage als methodisches Pruefkriterium, nicht Glaubwuerdigkeit der Person).
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Glaubhaftigkeit der Aussage als methodisches Prüfkriterium, nicht Glaubwuerdigkeit der Person).
 - BGH staendige Rechtsprechung zur Beweiswuerdigung in Aussage-gegen-Aussage-Konstellationen (Folge-Aktenzeichen mit aktueller BGH-Linie verifizieren).
 - Volbert, R., Steller, M., zur Begriffsdifferenzierung Glaubhaftigkeit vs. Glaubwuerdigkeit (Lehrbuch-Bezug, generisch).
 - Methodik siehe `references/methodik-buergerliches-recht.md` (entsprechend).

@@ -1,6 +1,6 @@
 ---
 name: agb-bei-iso-vertraegen-international
-description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Pruefung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung."
+description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-rechtliche Prüfung internationaler Vertragsmuster ICC FIDIC ISDA AIA und ihre Anpassung an deutsches Recht. Klaert die Wechselwirkung mit Rom-I und ordre public. Behandelt typische Klauseln zur Streitbeilegung Lieferung Zahlung."
 ---
 
 # Agb Bei Iso Vertraegen International
@@ -40,7 +40,7 @@ description: "AGB bei internationalen ISO-Vertraegen. Skill behandelt die AGB-re
 - Derivate-Standardvertrag mit Close-out-Netting.
 - BGH XI ZR 78/16 zur Wirksamkeit der ISDA-Klauseln nach deutschem Recht.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Standardmuster?
 2. Anwendbares Recht?

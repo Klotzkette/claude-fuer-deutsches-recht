@@ -1,6 +1,6 @@
 ---
 name: bescheid-analyse
-description: "Analysiert Status-, Betriebsprüfungs- und Beitragsbescheide auf Tenor, Begründung, Fristen und Fehler im Sozialversicherungsstatus Pruefer."
+description: "Analysiert Status-, Betriebsprüfungs- und Beitragsbescheide auf Tenor, Begründung, Fristen und Fehler im Sozialversicherungsstatus Prüfer."
 ---
 
 # Bescheidanalyse Status/Beiträge

@@ -28,7 +28,7 @@ description: "Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Fae
 - Reichsversorgungsgesetz und spaetere Reform.
 - Heute IfSG §§ 60 ff. für Impfschaeden.
 
-## Pruefraster
+## Prüfraster
 
 1. Hoheitliche Maßnahme im Allgemeininteresse?
 2. Sonderbelastung des Einzelnen?

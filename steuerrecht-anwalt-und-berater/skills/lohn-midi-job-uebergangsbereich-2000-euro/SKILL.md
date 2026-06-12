@@ -57,7 +57,7 @@ Der Uebergangsbereich (umgangssprachlich Midi-Job) liegt zwischen 538,01 EUR (St
 
 - § 20 Abs. 2 SGB IV i.V.m. § 163 Abs. 10 SGB VI: Reduzierung des SV-pflichtigen Entgelts bei Brutto im Uebergangsbereich.
 - Faktor F = (Gesamt-SV-Beitragssatz Minijob-Pauschal) / (Gesamt-SV-Beitragssatz regulaer). F wird jaehrlich vom Bundesministerium für Arbeit bekanntgemacht.
-- F wird im Lohn-Programm automatisch berechnet; jaehrliche Aktualisierung bei Aenderung der Beitragssaetze.
+- F wird im Lohn-Programm automatisch berechnet; jaehrliche Aktualisierung bei Änderung der Beitragssaetze.
 
 ### Phase 3 — Beitragsberechnung
 
@@ -82,12 +82,12 @@ Vereinfacht: AN-Anteil wird linear progressiv erhoeht von 0 (an Untergrenze) bis
 
 ## Strategie und Praxis-Tipps
 
-- Untergrenze des Uebergangsbereichs steigt automatisch mit Mindestlohn-Anhebung (§ 8 Abs. 1a SGB IV; Stand 2025: 556,01 EUR); bei Mindestlohn-Aenderung Untergrenze neu berechnen.
+- Untergrenze des Uebergangsbereichs steigt automatisch mit Mindestlohn-Anhebung (§ 8 Abs. 1a SGB IV; Stand 2025: 556,01 EUR); bei Mindestlohn-Änderung Untergrenze neu berechnen.
 - Bei voll-SV-Wahl: AN-Vorteil ist hoehere Rente, aber laufender Nettolohn niedriger.
 - AG-Vorteil im Midi-Job: voller AG-Anteil bleibt, Beitragsentlastung kommt voll dem AN zugute.
 - Bei Mehrfachbeschaeftigung Summe wesentlich — bei Ueberschreitung 2.000 EUR verlassen alle Stellen den Uebergangsbereich.
 - StBVV: in Lohnpauschale; komplexe Sonderzahlungen Zeithonorar.
-- DATEV-Tipp: DATEV LODAS prüft automatisch Midi-Job-Status; bei Bruttolohn-Aenderung Folgemonat anpassen.
+- DATEV-Tipp: DATEV LODAS prüft automatisch Midi-Job-Status; bei Bruttolohn-Änderung Folgemonat anpassen.
 
 ## Quellen und Updates
 
@@ -97,4 +97,4 @@ Stand: 05/2026.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 - Uebergangsbereich 2025: 556,01 EUR bis 2.000 EUR (§ 20 Abs. 2 SGB IV; Obergrenze seit 01.01.2023 stabil; Untergrenze dynamisch mit Mindestlohn; Sozialversicherungs-Rechengroessenverordnung 2026 prüfen).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (Grenzen 2025 eingesetzt), 1 ersetzt (Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (Grenzen 2025 eingesetzt), 1 ersetzt (Prüfhinweis ohne Marker) -->

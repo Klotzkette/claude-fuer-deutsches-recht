@@ -1,6 +1,6 @@
 ---
 name: klimaschutz-bverfge-157-30
-description: Klimaschutz-Beschluss BVerfGE Band 157 Seite 30 vom 24.03.2021 als intertemporale Freiheitssicherung und Schutzpflicht aus Art 20a GG fuer kuenftige Generationen. Mit Bedeutung fuer Verhaeltnismaessigkeit langfristiger Eingriffe und Schutzpflichtdimension der Grundrechte.
+description: Klimaschutz-Beschluss BVerfGE Band 157 Seite 30 vom 24.03.2021 als intertemporale Freiheitssicherung und Schutzpflicht aus Art 20a GG fuer kuenftige Generationen. Mit Bedeutung fuer Verhältnismäßigkeit langfristiger Eingriffe und Schutzpflichtdimension der Grundrechte.
 ---
 
 # Klimaschutz BVerfGE 157 30
@@ -44,7 +44,7 @@ auf Leben Gesundheit (Art 2 II GG) und allgemeine Handlungsfreiheit
 
 ## Klausurrelevanz
 
-Bei langfristigen Umwelt- Klimaschutz- oder Vorsorgemassnahmen pruefe:
+Bei langfristigen Umwelt- Klimaschutz- oder Vorsorgemassnahmen prüfe:
 1. Schutzpflicht des Staates aus Art 20a GG plus Grundrecht.
 2. Untermassverbot statt nur klassische Verhältnismäßigkeit.
 3. Intertemporale Komponente (Was wird in Zukunft zurueckgelassen?).

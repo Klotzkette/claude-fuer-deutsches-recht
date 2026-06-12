@@ -76,7 +76,7 @@ description: "Fachanwalt Bank Kapitalmarktrecht Schufa Loeschungsanspruch: ordne
 ### Schritt 2 — Widerspruch / Löschungsantrag
 
 - An SCHUFA: Antrag Art. 16 (Berichtigung), Art. 17 (Löschung), Art. 21 (Widerspruch)
-- An Datenübermittler (Bank, Inkasso, Telekom): Pruefantrag
+- An Datenübermittler (Bank, Inkasso, Telekom): Prüfantrag
 
 ### Schritt 3 — Bei Ablehnung Beschwerde
 

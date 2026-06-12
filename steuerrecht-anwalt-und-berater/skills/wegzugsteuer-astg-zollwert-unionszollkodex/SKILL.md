@@ -7,7 +7,7 @@ description: "Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteil
 
 ## Arbeitsbereich
 
-Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und Liquiditaetsfolge. Behandelt Tatbestaende § 6 AStG Stundungsregeln § 6 Abs. 4 AStG Rueckkehrregelung § 6 Abs. 3 AStG und Sicherheitsleistung. Output Pruefraster Vorab-Berechnung Wegzugsteuer und Stundungsantragsmuster. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland Ansaessige — Frage nach fingierten Veraeusserungsgewinnen und Liquiditaetsfolge. Behandelt Tatbestaende § 6 AStG Stundungsregeln § 6 Abs. 4 AStG Rueckkehrregelung § 6 Abs. 3 AStG und Sicherheitsleistung. Output Prüfraster Vorab-Berechnung Wegzugsteuer und Stundungsantragsmuster. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

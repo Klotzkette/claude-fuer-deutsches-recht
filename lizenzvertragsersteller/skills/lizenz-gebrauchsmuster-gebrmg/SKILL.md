@@ -1,6 +1,6 @@
 ---
 name: lizenz-gebrauchsmuster-gebrmg
-description: "Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents, ohne Pruefverfahren; Schutzdauer 10 Jahre; eintragungsbeduerftiges Recht; Erfindungshoehe geringer als Patent; Zweigutachten-Strategie (parallel zu Patent)."
+description: "Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents, ohne Prüfverfahren; Schutzdauer 10 Jahre; eintragungsbeduerftiges Recht; Erfindungshoehe geringer als Patent; Zweigutachten-Strategie (parallel zu Patent)."
 ---
 
 # Lizenz Gebrauchsmuster (GebrMG)
@@ -15,7 +15,7 @@ description: "Gebrauchsmusterlizenzen nach GebrMG: kleine Schwester des Patents,
 
 ## Spezifika
 
-- **Kein Pruefverfahren:** schneller eingetragen als Patent, aber rechtssicher erst nach Loeschungsklage geklaert.
+- **Kein Prüfverfahren:** schneller eingetragen als Patent, aber rechtssicher erst nach Loeschungsklage geklaert.
 - **Schutzdauer:** max 10 Jahre (Patent: 20 Jahre).
 - **Erfindungshoehe:** geringer als beim Patent; auch klein-erfinderische Loesungen schutzfaehig.
 - **Verfahren:** rein technisch; keine Schutzfaehigkeit für Computerprogramme / biotechnologische Verfahren ($ 1 Abs. 2 GebrMG).

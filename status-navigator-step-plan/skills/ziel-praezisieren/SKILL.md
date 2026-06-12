@@ -1,6 +1,6 @@
 ---
 name: ziel-praezisieren
-description: "Klaert mit dem Auftraggeber das konkrete Ziel des Status-Navigators: Faelligstellung und Vollstreckung, Vollzug einer Kapitalmassnahme, Bereinigung der Finanzierungsstruktur, Due-Diligence-Vorbereitung oder Mandatsuebernahme. Das Ziel bestimmt Reiterstruktur, Pruefschwerpunkte und Workflow."
+description: "Klaert mit dem Auftraggeber das konkrete Ziel des Status-Navigators: Faelligstellung und Vollstreckung, Vollzug einer Kapitalmassnahme, Bereinigung der Finanzierungsstruktur, Due-Diligence-Vorbereitung oder Mandatsuebernahme. Das Ziel bestimmt Reiterstruktur, Prüfschwerpunkte und Workflow."
 ---
 
 # Ziel praezisieren

@@ -69,7 +69,7 @@ Der Substantiierungs-Kern; pro Tatvorwurf bzw. Tatbestand eine eigene Tatsachen-
 
 ### D. Rechtliche Wuerdigung
 
-Strafrechtlicher Pruefungsaufbau:
+Strafrechtlicher Prüfungsaufbau:
 
 1. **Tatbestand** des StGB/Nebenstrafrechts (BtMG, AO §§ 369 ff., StVG, WaffG) nennen.
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal gegen den eigenen Tatsachenvortrag spiegeln (objektive und subjektive Seite; Vorsatz/Fahrlaessigkeit).
@@ -104,7 +104,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Beweisantrag zur falschen Tatsache** - Beweistatsache deckt nur Teilaussage ab; Gericht lehnt mit § 244 Abs. 3 StPO ab.
 - **Konkurrenzen** (Tateinheit/Tatmehrheit, §§ 52, 53 StGB) nicht ausgearbeitet.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung strafprozessual passend (Freispruch, Einstellung, Aufhebung, Zurueckverweisung)?
 2. Jede Tatbestandsmerkmals-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -144,13 +144,13 @@ Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
 - Taeuschung über Tatsachen: konkrete Aeusserung oder konkludentes Verhalten.
 - Irrtum: Vorstellung des Getaeuschten; Indizien.
-- Vermoegensverfuegung: konkrete Verfuegung mit Schadensrelevanz.
-- Vermoegensschaden: Saldo; bei Eingehungsbetrug auch Gefaehrdungsschaden (BVerfG-Konkretisierungsgebot).
+- Vermögensverfuegung: konkrete Verfuegung mit Schadensrelevanz.
+- Vermögensschaden: Saldo; bei Eingehungsbetrug auch Gefaehrdungsschaden (BVerfG-Konkretisierungsgebot).
 - Bereicherungsabsicht und Stoffgleichheit.
 
 ### Tatbestand 3: Untreue (§ 266 StGB)
 
-- Vermoegensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschaeftsfuehrer).
+- Vermögensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschäftsführer).
 - Pflichtverletzung: konkrete Handlung gegen das Innenverhaeltnis.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Vorsatz auch hinsichtlich Pflichtwidrigkeit.

@@ -1,6 +1,6 @@
 ---
 name: relation-zivil
-description: "Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/..."
+description: "Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Kläger-/Beklagten-/..."
 ---
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard
@@ -37,7 +37,7 @@ Chronologisch neutral ohne Wertung. Verben im Praesens (Die Klägerin behauptet 
 
 ### 3. Zulässigkeitsstation
 
-| Pruefpunkt | Norm |
+| Prüfpunkt | Norm |
 |---|---|
 | Rechtsweg | Paragraf 13 GVG |
 | Internationale Zuständigkeit | EuGVVO Artikel 4 ff oder Artikel 7 Nummer 1 b |

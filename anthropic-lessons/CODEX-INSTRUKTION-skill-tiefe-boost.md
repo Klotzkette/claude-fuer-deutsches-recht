@@ -20,7 +20,7 @@ https://github.com/anthropics/claude-for-legal
 Schau dir gerne selbst nochmal an, wie Anthropic seine Skills strukturiert -
 vor allem `litigation-discovery/skills/`, `transactional-ma/skills/`,
 `legal-research/skills/`, `cold-start-interview/`, `customize/`,
-`matter-workspace/` und `managed-agent-cookbooks/`. Das ist der Massstab.
+`matter-workspace/` und `managed-agent-cookbooks/`. Das ist der Maßstab.
 **Anthropic schreibt für US-Grosskanzleien und Inhouse-Counsel mit
 MCP-Anbindung an Westlaw, CourtListener, iManage, Slack und Mandanten, die
 ein Skill ein ganzes Mandantenleben begleitet** - daher die Laenge. Wir uebernehmen
@@ -72,7 +72,7 @@ abgelehnt.
    bewusst KEIN YAML-Frontmatter.
 
 8. **Bestehende Inhalte werden nicht geloescht.** Nur ergaenzt, vertieft,
-   strukturiert. Wenn ein Skill bereits einen Abschnitt "Pruefraster" hat,
+   strukturiert. Wenn ein Skill bereits einen Abschnitt "Prüfraster" hat,
    wird der **ausgebaut**, nicht ersetzt.
 
 9. **Validatoren MUESSEN gruen sein vor jedem Push:**
@@ -133,7 +133,7 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 - Konkrete Trigger-Saetze, die der User typisch sagt:
   > "Ich bekomme eine Klage von ..."
   > "Soll ich Einspruch einlegen gegen ..."
-  > "Wie pruefe ich ..."
+  > "Wie prüfe ich ..."
 - Auch Negativ: "Wenn der User stattdessen X fragt, gehoert das zu Skill Y."
 
 **`## Voraussetzungen und Kontext laden`** (400-800 Zeichen)
@@ -158,7 +158,7 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 - Obersatz / Definition / Subsumtion / Zwischenergebnis pro Tatbestandsmerkmal.
 - KEIN Anglo-Stil. Deutsches Gutachten.
 - Konkrete Normen mit Absatz, Satz, Nummer.
-- Konkrete Rechtsprechung mit Gericht, Datum, Aktenzeichen und pruefbarem
+- Konkrete Rechtsprechung mit Gericht, Datum, Aktenzeichen und prüfbarem
   Link auf dejure.org oder openjur.de.
 - Wo BGH/BVerfG/EuGH einschlaegig: zwingend zitieren.
 
@@ -172,7 +172,7 @@ Optional, wenn rechtsgebietsbedingt sinnvoll:
 - Jeweils stichpunktartig.
 
 **`## Quellen und Zitierregel`** (300-500 Zeichen)
-- Wiederholung der Repo-Regel: nur freie pruefbare Quellen, keine BeckRS-
+- Wiederholung der Repo-Regel: nur freie prüfbare Quellen, keine BeckRS-
   Allein, kein anwalt24.
 - Konkrete Datenbanken pro Rechtsgebiet:
   - Insolvenzrecht: bundesgerichtshof.de, openjur.de
@@ -308,7 +308,7 @@ Pro Rechtsgebiet ein Cheat-Sheet, was hineingehoert.
   - Fussnotenstil deutsche Jurahausarbeit
   - Pflichtfachstoff vs Schwerpunkt
   - Klausurzeitmanagement
-  - Pruefungsordnungen typischer Universitaeten
+  - Prüfungsordnungen typischer Universitaeten
 
 ### 2.12 Wenn das Rechtsgebiet thematisch nicht eindeutig ist
 
@@ -413,12 +413,12 @@ fuer plugin in batch:
 
 ### 3.3 Was Codex NICHT machen darf
 
-- **Keine Skill-Slug-Aenderungen.** Slug bleibt wie er ist.
+- **Keine Skill-Slug-Änderungen.** Slug bleibt wie er ist.
 - **Keine Plugin-Renames.**
 - **Keine neuen Skills anlegen** in diesem Boost-Vorgang. Nur bestehende
   vertiefen.
 - **Keine Loeschung bestehender Inhalte.**
-- **Keine Aenderung am Description-Text** ausser zur Behebung eines Validator-
+- **Keine Änderung am Description-Text** ausser zur Behebung eines Validator-
   Fehlers. Description ist Suchindex-relevant.
 - **Keine Erfindung von Aktenzeichen oder Fundstellen.** Wenn unsicher:
   generisch zitieren oder weglassen.
@@ -426,7 +426,7 @@ fuer plugin in batch:
   fehlt, Skill in UNCLEAR-SKILLS.md eintragen und ueberspringen.
 - **Keine Versionsbumps** in `plugin.json`. Das macht Tom am Ende manuell beim
   Release.
-- **Keine Aenderung an Testakten-Ordnern.**
+- **Keine Änderung an Testakten-Ordnern.**
 - **Keine Mass-Reformatierung** anderer Repo-Dateien (CLAUDE.md, README.md,
   SKILLS.md). Nur SKILL.md-Dateien anfassen.
 
@@ -795,7 +795,7 @@ Erst nach Freigabe: Merge.
 Wenn alle 25-30 Batches gemerged sind:
 
 - Version-Bump auf `v53.0.0` (Major, weil Inhaltscharakter sich
-  qualitativ aendert).
+  qualitativ ändert).
 - Release-Notes: "Skill-Tiefe-Boost auf Anthropic-Niveau, ~3670 Skills
   vertieft, Median-Laenge von ~4500 auf ~10000 Zeichen."
 - Index-Regen + Release-Workflow.

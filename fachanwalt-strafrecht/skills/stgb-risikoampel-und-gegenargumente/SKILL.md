@@ -36,8 +36,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## StGB-Risikoampel / Gegenargumente Bausteine
-- **Pruefungsstruktur jedes Tatbestands** (objektiver / subjektiver TB / Rechtswidrigkeit / Schuld):
- - **Objektiver Tatbestand:** Erfolg, Handlung, Kausalitaet (Aequivalenztheorie / objektive Zurechnung), Tatobjekt, ggf. Taeterqualifikation (Sonderdelikt).
+- **Prüfungsstruktur jedes Tatbestands** (objektiver / subjektiver TB / Rechtswidrigkeit / Schuld):
+ - **Objektiver Tatbestand:** Erfolg, Handlung, Kausalitaet (Äquivalenztheorie / objektive Zurechnung), Tatobjekt, ggf. Taeterqualifikation (Sonderdelikt).
  - **Subjektiver Tatbestand:** Vorsatz (§ 15 StGB - dolus directus 1./2./eventualis); Tatbestandsirrtum § 16 StGB; ggf. besondere Absichtsmerkmale.
  - **Rechtswidrigkeit:** Rechtfertigungsgruende - § 32 (Notwehr), § 34 (Notstand), § 228 BGB / § 229 BGB Selbsthilfe, mutmasse Einwilligung.
  - **Schuld:** Schuldfaehigkeit § 19/20 StGB; Verbotsirrtum § 17 StGB; entschuldigender Notstand § 35 StGB; Schulduebernahmehandlung.

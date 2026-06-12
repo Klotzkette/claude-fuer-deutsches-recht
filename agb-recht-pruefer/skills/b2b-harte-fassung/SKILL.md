@@ -25,7 +25,7 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 ## Aktuelle BGH-Linie zu B2B-AGB
 
 ### Norm
-- § 310 Abs. 1 BGB: § 305 Abs. 2, 3 BGB, § 308 BGB und § 309 BGB finden auf B2B-AGB keine Anwendung; § 307 BGB bleibt als Massstab.
+- § 310 Abs. 1 BGB: § 305 Abs. 2, 3 BGB, § 308 BGB und § 309 BGB finden auf B2B-AGB keine Anwendung; § 307 BGB bleibt als Maßstab.
 - Bei der Anwendung des § 307 BGB im unternehmerischen Verkehr ist auf die im Handelsverkehr geltenden Gewohnheiten und Gebraeuche angemessen Rücksicht zu nehmen.
 
 ### Indizwirkung der § 308/309-Wertungen
@@ -36,12 +36,12 @@ description: "Output- und Streit-Skill für B2B Harte Fassung: macht aus der AGB
 ### Wichtige Sonderbereiche
 - **Haftungsausschluss**: § 309 Nr. 7a, 7b BGB strahlen in den B2B-Bereich aus. Insbesondere Ausschluss der Haftung für Vorsatz und grobe Fahrlaessigkeit ist in B2B unwirksam.
 - **Gewaehrleistungsausschluss**: Vollausschluss für Mangelhaftung in B2B regelmaessig unwirksam.
-- **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Höhe nicht ausser Verhaeltnis steht.
+- **Vertragsstrafe**: Pauschalierter Schadensersatz in AGB nur wirksam, wenn die Höhe nicht ausser Verhältnis steht.
 
 ### Aushandeln im B2B
-- BGH zum Aushandeln in B2B: hohes Anforderungsniveau. Bloss "kommerzielle Reife" reicht nicht; tatsaechliches Verhandlungs- und Aenderungsangebot des Verwenders muss nachweisbar sein.
+- BGH zum Aushandeln in B2B: hohes Anforderungsniveau. Bloss "kommerzielle Reife" reicht nicht; tatsaechliches Verhandlungs- und Änderungsangebot des Verwenders muss nachweisbar sein.
 
-### Pruefraster
+### Prüfraster
 1. Klausel im B2B oder B2C?
 2. § 309 BGB-Wertung als Indiz? — Prüfen.
 3. § 307 BGB als Hauptmassstab.

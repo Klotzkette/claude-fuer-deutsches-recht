@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Material..."
+description: "Methodikskill HOAI LPH 8 — Strukturierter für Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Prüfung Lieferscheine und Material..."
 ---
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
@@ -25,7 +25,7 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 
 ## Erste Schritte zur Dokumentenanalyse
 
-1. Dokumentenregister aufstellen: Kategorien Lieferscheine, Pruefprotokolle, Abnahmeprotokolle, Planungen, Schriftwechsel je Gewerk und Bauteil, Ablagesystematik BIM360 oder SharePoint
+1. Dokumentenregister aufstellen: Kategorien Lieferscheine, Prüfprotokolle, Abnahmeprotokolle, Planungen, Schriftwechsel je Gewerk und Bauteil, Ablagesystematik BIM360 oder SharePoint
 2. Lieferschein-Eingang-Kontrolle: Tagesaktuell je Lieferung Scan in Padfon-App, Verknuepfung mit Bauteil-ID, Prüfung Chargen-Nr, Datum und Material-Konformitaet
 3. Aufmass-Vorbereitung: Leistungspositionen aus Leistungsverzeichnis extrahieren, Aufmassregel je Position nach VOB/C bestimmen, Aufmassblatt vorbereiten
 4. Feldaufmass Digital-Tachymeter: Leica TS16 mit Feldbuch-Software iCON field, Direktimport in RIB iTWO, Genauigkeit 3 mm auf 100 m
@@ -37,17 +37,17 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 - § 650p BGB, § 650q BGB: Architekten- und Ingenieurvertrag, Rechnungspruefungspflicht LPH 8
 - HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Prüfung und Genehmigung von Unterlagen, Rechnungspruefung
 - VOB/C DIN 18299 Aufmassregeln: Allgemeine Regelungen alle Gewerke, masgeblich für Mengen- und Abrechnung
-- DIN EN 10204:2005-01 Metallische Erzeugnisse Arten von Pruefbescheinigungen: Werksbescheinigung 3.1 und 3.2, Konformitaetsbescheinigung 2.1 und 2.2
-- VOB/B § 14 Abrechnung und § 16 Zahlung: Abschlagsrechnungen, Prueffristen 21 Tage, Einwendungen, Schlussrechnung
+- DIN EN 10204:2005-01 Metallische Erzeugnisse Arten von Prüfbescheinigungen: Werksbescheinigung 3.1 und 3.2, Konformitaetsbescheinigung 2.1 und 2.2
+- VOB/B § 14 Abrechnung und § 16 Zahlung: Abschlagsrechnungen, Prüffristen 21 Tage, Einwendungen, Schlussrechnung
 - ATV DIN 18331 Betonarbeiten Regelfall 4: Aufmassregeln Betonvolumen mit und ohne Einbauten
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Lieferschein-Vollstaendigkeit: Datum, Uhrzeit, Menge, Material-Bezeichnung, Chargen-Nr, Empfaenger Unterschrift, alle Felder ausgefuellt
 2. Werksbescheinigung 3.1 nach EN 10204: je Materialcharge vorhanden, chemische Analyse, mechanische Werte, Konformitaetserklaerung
 3. Aufmassblatt-Nachvollziehbarkeit: Aufmass-Skizze je Position, Einzelmasse und Summe, Verweis auf Plan-Revision, Datum und Unterschrift
 4. Mengenabgleich-Protokoll: Soll-Menge aus CAD, Ist-Menge Aufmass, Differenz in Prozent, Begruendung bei Abweichung groesser 3 Prozent
-5. Schlussrechnung-Pruefvermerk: LV-Position abgeglichen, Menge, EP und GP geprueft, Nachtraege-Ausweisung vollstaendig, Gesamtbetrag testiert
+5. Schlussrechnung-Prüfvermerk: LV-Position abgeglichen, Menge, EP und GP geprueft, Nachtraege-Ausweisung vollstaendig, Gesamtbetrag testiert
 6. Archivierungsprotokoll: Alle Dokumente im Dokumentenregister mit Datum, Status geprueft, Ablageort und Zugriffsrecht dokumentiert
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -63,13 +63,13 @@ Die Dokumentenanalyse ist das Rueckgrat des Nachweises ordnungsgemaesser Bau-aus
 - SAP PM Meldungsart M2 fehlende Werksbescheinigung: Equipment-Nr Bauteil, Schadenscode D020 Guetenachweis fehlt, Maßnahme Nachlieferung Zertifikat T+5
 - SAP PS Rechnungspruefung: Abschlagsrechnung-Modul, Mengen aus iTWO importiert, Preisabgleich LV, Freigabe Projektleiter digital
 - SAP FI Zahlung: Nach Freigabe SAP PS Rechnungspruefung automatisch Zahlungsvorschlag FI-AP, Zahlungsziel VOB/B § 16 Abs. 3 30 Tage
-- BIM360 Document Management: Alle Pruefprotokolle versioniert, Zugriffsmatrix Bauherr Planer AN, Pruefstatus nach Revisionsliste
+- BIM360 Document Management: Alle Prüfprotokolle versioniert, Zugriffsmatrix Bauherr Planer AN, Prüfstatus nach Revisionsliste
 - Workflow: Schlussrechnung eingehend, iTWO-Mengenabgleich, Differenzen AN mitgeteilt, Einigung oder VOB-Schiedsgericht, Freigabe Zahlung
 
 ## Typische Fallstricke
 
 - Fehlende Werksbescheinigung 3.1: Nachlieferung möglich aber zeitaufwaendig, bei Serienfehlern Rueckgabe Charge erforderlich
-- Aufmass nach veralteter Plan-Revision: Aenderungsplanung nicht beruecksichtigt, falsche Mengen in Abrechnung
+- Aufmass nach veralteter Plan-Revision: Änderungsplanung nicht beruecksichtigt, falsche Mengen in Abrechnung
 - Mengenabgleich zu spaet: Erst bei Schlussrechnung aufgefallen, kein Zugriff mehr auf Details, Streit über Mengen
 - Digitalisierungsfehler OCR: Chargen-Nr falsch erkannt, manuelle Kontrolle Pflicht besonders bei handschriftlichen Dokumenten
 

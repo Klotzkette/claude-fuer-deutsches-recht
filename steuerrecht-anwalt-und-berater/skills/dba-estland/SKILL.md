@@ -15,7 +15,7 @@ description: "DBA Deutschland Estland 1996. Anwendungsfall IT-Branche E-Residenc
 
 ## Kernsachverhalt
 
-Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum EU-Mitglied Estland (Beitritt 2004, Euro 2011). Praxisrelevant sind IT-Branche, E-Residency-Modelle (estnische Gesellschaftsgruendungen ohne physischen Sitz), Holdings. Besonderheit Estlands: Koerperschaftsteuer wird nur bei Ausschuettung erhoben (Distribution Tax statt klassische KSt).
+Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhältnis zum EU-Mitglied Estland (Beitritt 2004, Euro 2011). Praxisrelevant sind IT-Branche, E-Residency-Modelle (estnische Gesellschaftsgruendungen ohne physischen Sitz), Holdings. Besonderheit Estlands: Koerperschaftsteuer wird nur bei Ausschuettung erhoben (Distribution Tax statt klassische KSt).
 
 ## Kaltstart-Rueckfragen
 
@@ -31,11 +31,11 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Estland vom 29.11.1996**, in Kraft 30.12.1998 (BGBl. 1998 II S. 547; Inkrafttreten: BGBl. 1999 II S. 84). Aenderungsprotokoll vom 15.12.2020, in Kraft 29.06.2021 (BGBl. 2021 II S. 562); anwendbar ab 01.01.2022.
+- **DBA Deutschland-Estland vom 29.11.1996**, in Kraft 30.12.1998 (BGBl. 1998 II S. 547; Inkrafttreten: BGBl. 1999 II S. 84). Änderungsprotokoll vom 15.12.2020, in Kraft 29.06.2021 (BGBl. 2021 II S. 562); anwendbar ab 01.01.2022.
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
-- **MLI**: Deutschland und Estland haben das DBA-Estland 1996 aus dem Geltungsbereich des Multilateralen Instruments (MLI) ausgenommen; BEPS-Mindeststandard wurde bilateral durch das Aenderungsprotokoll 2020 umgesetzt.
+- **MLI**: Deutschland und Estland haben das DBA-Estland 1996 aus dem Geltungsbereich des Multilateralen Instruments (MLI) ausgenommen; BEPS-Mindeststandard wurde bilateral durch das Änderungsprotokoll 2020 umgesetzt.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Spezifische BFH-Entscheidungen zum DBA-Estland sind selten; bei Substanz-/Hinzurechnungsfragen einschlaegig sind die allgemeinen BFH-Entscheidungen zu § 50d Abs. 3 EStG und § 8 AStG (vgl. `stb-dba-quellensteuer-erstattung-bzst-50c-estg`).
@@ -55,7 +55,7 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 - Loehne 183-Tage-Regel.
 
 ### Passive Einkuenfte
-- **Dividenden** (Art. 10 n.F. nach Aenderungsprotokoll 2020): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft ist, die waehrend 365 Tagen unmittelbar über mindestens 25 Prozent des Kapitals verfuegt; 15 Prozent in allen anderen Faellen.
+- **Dividenden** (Art. 10 n.F. nach Änderungsprotokoll 2020): 5 Prozent des Bruttobetrags, wenn Nutzungsberechtigter eine Gesellschaft ist, die waehrend 365 Tagen unmittelbar über mindestens 25 Prozent des Kapitals verfuegt; 15 Prozent in allen anderen Faellen.
 - **Zinsen** (Art. 11), **Lizenzgebuehren** (Art. 12): konkrete Saetze aus dem konsolidierten DBA-Text entnehmen; EU-MTRL (§ 43b EStG) und ZinsLizenzRL (§ 50g EStG) gehen als EU-Recht dem DBA vor.
 
 ### Vermeidungs-Methode
@@ -67,7 +67,7 @@ Das DBA-Estland vom 29.11.1996 (BGBl. 1998 II S. 38) regelt das Verhaeltnis zum 
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4) — Ansaessigkeit Estland (POEM auch bei E-Residency!) vs. Deutschland; Tie-Breaker.
 2. Sachliche Anwendbarkeit (Art. 2).
@@ -90,36 +90,36 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Estnisch sowie Englisch (DBA-Estland 1996 als modernes DBA trilingual). Englische Fassung als Pivot in der Praxis oft am laengsten verfuegbar.
 - **Lokaler Berater**: Bei estnischer OÜ (Osauehing, GmbH-Äquivalent) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines estnischen "maksukonsultant" wegen der Sonderheit des Distribution-Tax-Systems und der E-Residency-Diskussion.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (EE seit 2004).
-- **e-Residency-Falle**: Estnische e-Residency erlaubt Online-Gesellschaftsgruendung ohne physische Praesenz — aber Steueransaessigkeit nach Art. 4 DBA setzt tatsaechliche Geschaeftsleitung (POEM) voraus, die bei reiner Online-Verwaltung oft im Wohnsitzstaat des Geschaeftsfuehrers liegt.
+- **e-Residency-Falle**: Estnische e-Residency erlaubt Online-Gesellschaftsgruendung ohne physische Praesenz — aber Steueransaessigkeit nach Art. 4 DBA setzt tatsaechliche Geschäftsleitung (POEM) voraus, die bei reiner Online-Verwaltung oft im Wohnsitzstaat des Geschäftsführers liegt.
 
 ## Edge Cases und Was-Prüfer-Triggert
 
 - **Distribution Tax (Estonian Tax Model)**: Estland besteuert nur bei Ausschuettung mit effektiv 20/80 (= 20 Prozent vom Bruttogewinn bzw. 25 Prozent vom Netto, je nach Berechnung; bei "regularer" Ausschuettung 14/86 reduziert auf 14 Prozent — vom Anwender mit aktuellem estnischem Steuerrecht zu verifizieren). Einbehaltene Gewinne bleiben ohne KSt. CFC-Hinzurechnung § 7 ff. AStG nach Distribution-Tax-Höhe (oft unter 15 Prozent effektiv).
 - **AStG-Niedrigsteuer-Schwelle 15 Prozent**: bei estnischer OÜ mit ueberwiegend einbehaltenen Gewinnen ist die effektive Steuerquote praktisch 0 Prozent — CFC obligatorisch prüfen.
 - **Pillar Two seit 2024**: EE musste umsetzen — Top-Up auf 15 Prozent für multinationale Konzerne über 750 Mio EUR Umsatz.
-- **MLI nicht anwendbar auf DBA-Estland 1996**: Bilaterale Umsetzung der BEPS-Mindeststandards durch Aenderungsprotokoll 2020 (BGBl. 2021 II S. 562).
+- **MLI nicht anwendbar auf DBA-Estland 1996**: Bilaterale Umsetzung der BEPS-Mindeststandards durch Änderungsprotokoll 2020 (BGBl. 2021 II S. 562).
 - **§ 50d Abs. 3 EStG bei E-Residency-Strukturen**: praktisch kein Treaty-Schutz für Briefkasten-Holdings.
 
 ## Trade-offs
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Estonian Tax Model nutzen vs. CFC-Risiko | Einbehaltung der Gewinne in OÜ ohne EE-KSt: Steueraufschub nahezu unbegrenzt | DE-CFC § 7 ff. AStG bei passiven Einkuenften: jaehrliche Hinzurechnung im Wohnsitzstaat | bei aktivem Geschaeftsbetrieb Aktivitaetskatalog § 8 AStG nutzen; bei passiv-tendierten Gewinnen CFC unvermeidlich; im Zweifel jaehrliche Ausschuettung mit Distribution Tax 14 oder 20 Prozent |
+| Estonian Tax Model nutzen vs. CFC-Risiko | Einbehaltung der Gewinne in OÜ ohne EE-KSt: Steueraufschub nahezu unbegrenzt | DE-CFC § 7 ff. AStG bei passiven Einkuenften: jaehrliche Hinzurechnung im Wohnsitzstaat | bei aktivem Geschäftsbetrieb Aktivitaetskatalog § 8 AStG nutzen; bei passiv-tendierten Gewinnen CFC unvermeidlich; im Zweifel jaehrliche Ausschuettung mit Distribution Tax 14 oder 20 Prozent |
 | E-Residency-OÜ ohne Substanz vs. echter Sitz in EE | E-Residency: schneller Start, keine Substanz — POEM-Risiko in DE | Echter Sitz in EE mit Mitarbeitern: Substanz, aber Aufwand | für reale Tochtergesellschaften echter Sitz erforderlich; reine Online-OÜ nur für Mikrobetriebe oder Test-Phasen |
-| EU-MTRL vs. DBA-Schachtel nach Aenderungsprotokoll 2020 | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-EE n.F.: 5 Prozent ab 25 Prozent Beteiligung mit 365-Tage-Haltedauer | EU-MTRL fast immer vorrangig |
+| EU-MTRL vs. DBA-Schachtel nach Änderungsprotokoll 2020 | EU-MTRL: 0 Prozent ab 10 Prozent Beteiligung | DBA-EE n.F.: 5 Prozent ab 25 Prozent Beteiligung mit 365-Tage-Haltedauer | EU-MTRL fast immer vorrangig |
 
 ## Berechnungsbeispiel
 
 Deutscher Mandant gruendet über estnische e-Residency eine OÜ; Gewinn 100.000 EUR jaehrlich aus IT-Dienstleistungen. POEM nach Prüfung in DE (Mandant verwaltet OÜ online aus Berlin).
 
 - Variante 1 (POEM DE): OÜ wird DE-steueransaessig (§ 1 KStG); voller DE-KSt-Satz 15 Prozent plus SolZ plus GewSt — wirtschaftlich keine EE-Vorteile.
-- Variante 2 (POEM EE, mit substanzieller Geschaeftsleitung in Tallinn — Mitarbeiter, Buero, Geschaeftsfuehrer mit Wohnsitz EE): Einbehaltung 100.000 EUR ohne EE-KSt. Bei Ausschuettung 100.000 EUR an DE-Anteilseigner: EE-Distribution-Tax 20/80 = 25.000 EUR EE-Steuer. DE-Anteilseigner als natuerliche Person: § 32d EStG-Abgeltungsteuer 25 Prozent zzgl. SolZ = 26,375 Prozent auf 75.000 EUR Brutto = 19.781 EUR.
+- Variante 2 (POEM EE, mit substanzieller Geschäftsleitung in Tallinn — Mitarbeiter, Buero, Geschäftsführer mit Wohnsitz EE): Einbehaltung 100.000 EUR ohne EE-KSt. Bei Ausschuettung 100.000 EUR an DE-Anteilseigner: EE-Distribution-Tax 20/80 = 25.000 EUR EE-Steuer. DE-Anteilseigner als natuerliche Person: § 32d EStG-Abgeltungsteuer 25 Prozent zzgl. SolZ = 26,375 Prozent auf 75.000 EUR Brutto = 19.781 EUR.
 - DE-Anrechnung EE-Distribution-Tax 25.000 EUR auf DE-Abgeltungsteuer 19.781 EUR: nur bis Höhe DE-Steuer 19.781 EUR anrechenbar — Anrechnungsueberhang 5.219 EUR verloren.
 - Praxis: bei Substanz und richtigem POEM ist Estland für IT-Dienstleister attraktiv, aber bei Ausschuettung kein Steuervorteil gegenueber DE; bei langjaehriger Einbehaltung Steueraufschub-Vorteil.
 
 ## Mandatsablauf in der Praxis
 
-1. **Aufnahme**: Konstellation (IT-Holding, OÜ-Geschaeftstaetigkeit, e-Residency-Modell, Beteiligung).
+1. **Aufnahme**: Konstellation (IT-Holding, OÜ-Geschäftstaetigkeit, e-Residency-Modell, Beteiligung).
 2. **Strukturierung**: POEM-Prüfung bei e-Residency; Distribution-Tax-System mit Aufschub-Strategie; CFC-Prüfung; bei Holding Substanz § 50d Abs. 3 EStG.
 3. **Antraege**: Ansaessigkeitsbescheinigung MTA über e-MTA-Portal; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: EE-Erklaerung jaehrlich (sehr digitalisiert); DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
@@ -131,7 +131,7 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 
 1. **Sachverhalt**: Wohnsitze, Konstellation (IT-Holding, OÜ, e-Residency), Zeitraum.
 2. **Frage(n)**: Besteuerungsrecht, Distribution Tax, e-Residency-Substanz, CFC.
-3. **Kurzantwort**: DBA-Estland 1996 (mit Aenderungsprotokoll 2020) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
+3. **Kurzantwort**: DBA-Estland 1996 (mit Änderungsprotokoll 2020) Art. X regelt das Besteuerungsrecht; Anrechnungsmethode ueberwiegend.
 4. **Rechtliche Bewertung**:
  - Persoenliche Anwendbarkeit (Art. 1, 4 DBA-EE; POEM bei e-Residency).
  - Sachliche Anwendbarkeit (Art. 2).
@@ -140,15 +140,15 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
  - § 7 ff. AStG-CFC bei Distribution-Tax-System; § 50d Abs. 3 EStG.
  - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
-6. **Risiken / offene Punkte**: e-Residency-POEM, CFC bei Estonian Tax Model, Pillar Two, Aenderungsprotokoll 2020 ab 01.01.2022, MLI bilaterale Umsetzung.
+6. **Risiken / offene Punkte**: e-Residency-POEM, CFC bei Estonian Tax Model, Pillar Two, Änderungsprotokoll 2020 ab 01.01.2022, MLI bilaterale Umsetzung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
 ## Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Estland 1996 mit Aenderungsprotokoll 2020 Fundstellen, BMF-Schreiben verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Estland 1996 mit Änderungsprotokoll 2020 Fundstellen, BMF-Schreiben verbindlich zitieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Estland 29.11.1996, BGBl. 1998 II S. 547, in Kraft 30.12.1998. Aenderungsprotokoll 15.12.2020, BGBl. 2021 II S. 562, in Kraft 29.06.2021, anwendbar ab 01.01.2022. DBA aus MLI-Geltungsbereich ausgenommen (bilaterale Umsetzung). Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent.
+Stand: 05/2026. DBA-Estland 29.11.1996, BGBl. 1998 II S. 547, in Kraft 30.12.1998. Änderungsprotokoll 15.12.2020, BGBl. 2021 II S. 562, in Kraft 29.06.2021, anwendbar ab 01.01.2022. DBA aus MLI-Geltungsbereich ausgenommen (bilaterale Umsetzung). Niedrigsteuer-Schwelle § 8 Abs. 5 AStG: 15 Prozent.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 547 und Inkrafttreten 30.12.1998 bestaetigt (gesetze-im-internet.de, BGBl, Bundestag BT-Drs 19/28117); Aenderungsprotokoll 2020 BGBl. 2021 II S. 562 bestaetigt (BMF); MLI-Ausnahme bestaetigt (BT-Drs 19/28117); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Art. 10 n.F. 5/15% bestaetigt (NWB, BMF); Art. 11/12 allgemein gefasst (kein belegter Satz für altes DBA verfuegbar) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 6 Marker aufgeloest: BGBl. 1998 II S. 547 und Inkrafttreten 30.12.1998 bestaetigt (gesetze-im-internet.de, BGBl, Bundestag BT-Drs 19/28117); Änderungsprotokoll 2020 BGBl. 2021 II S. 562 bestaetigt (BMF); MLI-Ausnahme bestaetigt (BT-Drs 19/28117); Niedrigsteuerschwelle 15% bestaetigt (ATADUmsG); Art. 10 n.F. 5/15% bestaetigt (NWB, BMF); Art. 11/12 allgemein gefasst (kein belegter Satz für altes DBA verfuegbar) -->

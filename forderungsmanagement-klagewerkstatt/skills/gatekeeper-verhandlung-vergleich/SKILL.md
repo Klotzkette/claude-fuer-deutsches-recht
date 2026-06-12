@@ -1,6 +1,6 @@
 ---
 name: gatekeeper-verhandlung-vergleich
-description: "Pruefraster vor Eintritt in Vergleichsverhandlungen. Erhebt Mandantenziel Untergrenzen Sicherheitsbedarf Vollstreckbarkeit. Pinpoints BGB 779 Vergleich ZPO 794 Abs. 1 Nr. 1 Prozessvergleich ZPO 796a anwaltlicher Vergleich. Liefert Verhandlungsmandat-Vorlage und Untergrenzen-Tabelle."
+description: "Prüfraster vor Eintritt in Vergleichsverhandlungen. Erhebt Mandantenziel Untergrenzen Sicherheitsbedarf Vollstreckbarkeit. Pinpoints BGB 779 Vergleich ZPO 794 Abs. 1 Nr. 1 Prozessvergleich ZPO 796a anwaltlicher Vergleich. Liefert Verhandlungsmandat-Vorlage und Untergrenzen-Tabelle."
 ---
 
 # Gatekeeper Verhandlung und Vergleich

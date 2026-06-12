@@ -1,6 +1,6 @@
 ---
 name: cl-prozesskostenrisiko-each-party-bears-own
-description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster für Mandanten-Risikoanalyse im Common Law Kompass."
+description: "Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Prüfraster für Mandanten-Risikoanalyse im Common Law Kompass."
 ---
 
 # Common Law: Each-party-bears-own
@@ -31,7 +31,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | **Deutschland** | § 91 ZPO Unterliegender traegt Kosten | Quotelung § 92 ZPO; Vergleich § 98 ZPO; RVG-/JVEG-Hoechstsaetze begrenzen Erstattung |
 | **Schiedsgerichtsbarkeit** | Schiedsspruch entscheidet über Kosten (Art. 38 ICC Rules, § 1057 ZPO) | Oft "costs follow the event" wie englisches Recht |
 
-## Pruefraster Mandanten-Risikoanalyse
+## Prüfraster Mandanten-Risikoanalyse
 
 1. **Forum bestimmen** — wo wird das Gericht zuständig sein? Welche Kostenregel gilt dort?
 2. **Streitwert / amount in controversy** — bei US-Gerichten Bundeszuständigkeit ab 75.000 USD diversity (28 U.S.C. § 1332).
@@ -52,10 +52,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

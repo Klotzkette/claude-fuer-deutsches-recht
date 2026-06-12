@@ -29,7 +29,7 @@ Bei natuerlichen Personen (Einzelunternehmer, Freiberufler, Gesellschafter einer
 - Die Restschuldbefreiung Paragraph 286 ff. InsO erlischt die Verbindlichkeit zivilrechtlich; sie ist aber **kein Sanierungsertrag** im Sinne von Paragraph 3a EStG, sondern eine eigene Konstellation.
 - Steuerlich kann gleichwohl ein Ertrag entstehen, der versteuert werden muss.
 
-Ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, Sachwalter, StB, Schuldnervertretung.
+Ordnet die Konstellationen und liefert Prüfraster. Adressat: IV, Sachwalter, StB, Schuldnervertretung.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -40,7 +40,7 @@ Ordnet die Konstellationen und liefert Pruefraster. Adressat: IV, Sachwalter, St
 Kaltstart-Fragen:
 
 1. Rechtsstellung: Einzelunternehmer, Freiberufler, Gesellschafter Personengesellschaft, Verbraucher?
-2. Welche Verbindlichkeiten (geschaeftlich, privat, gemischt)?
+2. Welche Verbindlichkeiten (geschäftlich, privat, gemischt)?
 3. Verfahrensphase (eroeffnet, Wohlverhaltensphase, vor Erteilung Restschuldbefreiung)?
 4. Liegt ein Sanierungsplan vor oder reine Restschuldbefreiung?
 5. Erwerbsteuerlich relevante Einkuenfte (Gewinnermittlung Paragraphen 4, 5 EStG)?
@@ -58,7 +58,7 @@ Kaltstart-Fragen:
 
 ## / Schritt für Schritt
 
-1. **Verbindlichkeiten klassifizieren:** geschaeftlich vs. privat. Nur geschaeftlich loest Sanierungsertrag aus.
+1. **Verbindlichkeiten klassifizieren:** geschäftlich vs. privat. Nur geschäftlich loest Sanierungsertrag aus.
 2. **Sanierungs-Modus:**
  - Plan-Sanierung (mit Forderungsverzicht): Sanierungsertrag möglich.
  - reine Restschuldbefreiung: zivilrechtliches Erloeschen der Verbindlichkeit; steuerlich aber bilanziell Ertrag, falls die Verbindlichkeit zuvor passiviert war.
@@ -83,8 +83,8 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 
 | Konstellation | steuerliche Folge |
 |---|---|
-| Verbindlichkeit war geschaeftlich, Sanierung unternehmensbezogen | Sanierungsertrag, Paragraph 3a EStG-Prüfung |
-| Verbindlichkeit war geschaeftlich, Sanierung unternehmerbezogen | Ertrag, kein Paragraph 3a EStG; Hilfslinie Paragraph 227 AO |
+| Verbindlichkeit war geschäftlich, Sanierung unternehmensbezogen | Sanierungsertrag, Paragraph 3a EStG-Prüfung |
+| Verbindlichkeit war geschäftlich, Sanierung unternehmerbezogen | Ertrag, kein Paragraph 3a EStG; Hilfslinie Paragraph 227 AO |
 | Verbindlichkeit war privat | kein steuerlicher Ertrag, weil keine Betriebsausgabe |
 | Verbindlichkeit war gemischt | Aufteilung |
 
@@ -100,7 +100,7 @@ Die Restschuldbefreiung erlischt die Verbindlichkeit (Paragraph 301 Absatz 1 Ins
 
 ## Praxistipps der alten Hasen
 
-1. **Verbindlichkeiten klassifizieren.** Eine Excel-Tabelle mit "geschaeftlich/privat/gemischt" pro Forderung ist die Basis.
+1. **Verbindlichkeiten klassifizieren.** Eine Excel-Tabelle mit "geschäftlich/privat/gemischt" pro Forderung ist die Basis.
 2. **Bei Einzelunternehmer immer prüfen, ob Plan oder Restschuldbefreiung das richtige Werkzeug ist.** Plan ist steuerlich tendenziell besser, weil Paragraph 3a EStG greifen kann.
 3. **Erlassantrag Paragraph 227 AO** für den unternehmerbezogenen Anteil vorbereiten.
 4. **Verbraucherinsolvenz-Mandat:** Steueranfall prüfen, aber selten relevant.

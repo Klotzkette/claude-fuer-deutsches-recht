@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmftr
-description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Forschung; Technologie und Raumfahrt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundes..."
+description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Forschung; Technologie und Raumfahrt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundes..."
 ---
 
 # Ressortaufgaben BMFTR
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschaeftsber
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMFTR
 - Ressort-Kompass aus `legw-ressort-bmftr`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Vorgehen
 
@@ -25,7 +25,7 @@ description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschaeftsber
 | Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
 | Kabinettsentwurf | Hausleitung legt vor | Staatssekretaersausschuss; Kabinettsvorlage |
 | Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
-| Aenderungsantrag aus der Mitte | Fraktion zusammen mit BMFTR | Bundestagsausschuss |
+| Änderungsantrag aus der Mitte | Fraktion zusammen mit BMFTR | Bundestagsausschuss |
 
 ### Schritt 2 - Begruendungspflichten klären
 
@@ -36,7 +36,7 @@ description: "Ressortaufgaben BMFTR: typische Legistik-Aufgaben im Geschaeftsber
 
 ### Schritt 3 - Verbaendeanhoerung nach GGO Paragraf 47
 
-Im Geschaeftsbereich BMFTR sind typische Beteiligte:
+Im Geschäftsbereich BMFTR sind typische Beteiligte:
 
 - Spitzenverbaende der Materie (siehe `legw-bmftr-hochschul-und-wissenschaftsrecht` und folgende)
 - Länder (Bundesrat-Spiegel; KOM-Vertreter)
@@ -73,7 +73,7 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
  `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMFTR-Spiegel).
 
-### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
+### Schritt 8 - Aufsicht und Vollzug im Geschäftsbereich
 
 Nachgeordnete Behörden des BMFTR im Vollzug einbinden. Vollzugsfolgen prüfen.
 

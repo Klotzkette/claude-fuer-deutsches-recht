@@ -27,7 +27,7 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 
 ## Pflichtinhalt nach § 409 Abs. 1 StPO (Nichtigkeit bei Fehlen)
 
-| Nr. | Inhaltsmerkmal | Pruefungsaspekt |
+| Nr. | Inhaltsmerkmal | Prüfungsaspekt |
 |-----|---------------|-----------------|
 | 1 | Name des Beschuldigten | Identifikation — Verwechslung möglich? |
 | 2 | Tat, Zeit und Ort | Ausreichende Individualisierung nach BGH |
@@ -51,7 +51,7 @@ Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und ide
 - **Art. 103 Abs. 2 GG** — Bestimmtheitsgrundsatz
 - **§ 40 StGB** — Tagessatz-System (Anzahl nach Schuld, Höhe nach Einkommen)
 
-## Pruef-Checkliste Strafbefehlsinhalt
+## Prüf-Checkliste Strafbefehlsinhalt
 
 ```
 □ Name und Personalien des Beschuldigten korrekt (Nr. 1)?

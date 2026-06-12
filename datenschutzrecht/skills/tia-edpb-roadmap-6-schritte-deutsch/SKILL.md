@@ -64,7 +64,7 @@ Prüfen:
 - Empfehlung 02/2020 – Europaeische Wesentliche Garantien (EEG):
  - Garantie A: klare, praezise und vorhersehbare Regelungen.
  - Garantie B: Notwendigkeit und Verhältnismäßigkeit.
- - Garantie C: unabhaengiger Pruefmechanismus.
+ - Garantie C: unabhaengiger Prüfmechanismus.
  - Garantie D: effektive Rechtsschutzmoeglichkeiten der betroffenen Person.
 - Sind die Garantien im Recht **und** in der Praxis erfuellt?
 
@@ -76,7 +76,7 @@ Falls Schritt 3 negativ: ergaenzende Schutzmassnahmen.
 
 Drei Kategorien:
 
-- **Technische Maßnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schluesseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
+- **Technische Maßnahmen** (oft entscheidend): starke Verschluesselung mit Key Management ausserhalb des Drittlands; Pseudonymisierung mit unkorrelierten Schlüsseln; Split Processing; ueberhaupt kein Klartext-Zugriff durch Importeur.
 - **Vertragliche Maßnahmen**: erweiterte Audit- und Transparenzrechte, Behördenanfragen-Berichtspflichten, Warrant Canary, sofortige Aussetzungspflichten.
 - **Organisatorische Maßnahmen**: Mitarbeiterschulung, klare Eskalationsprozesse, Lieferantenbewertung, dokumentierte Anfechtungspolitik.
 
@@ -94,12 +94,12 @@ Wenn ergaenzende Maßnahmen erforderlich:
 
 ### Schritt 6 – Re-evaluate
 
-Erneute Prüfung bei Aenderungen:
+Erneute Prüfung bei Änderungen:
 
-- Aenderungen im Drittlandsrecht (Gesetze, Urteile).
-- Aenderungen in der Behördenpraxis.
-- Aenderungen beim Importeur (Konzernstruktur, Subprozessoren, Dienste).
-- Aenderungen beim Exporteur (neue Datenarten, neue Zwecke).
+- Änderungen im Drittlandsrecht (Gesetze, Urteile).
+- Änderungen in der Behördenpraxis.
+- Änderungen beim Importeur (Konzernstruktur, Subprozessoren, Dienste).
+- Änderungen beim Exporteur (neue Datenarten, neue Zwecke).
 - Mindestens jaehrlich.
 
 ## Mustertext / Template

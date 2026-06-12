@@ -14,7 +14,7 @@ description: "Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Glaeubigern. Liefert Pruefraster.
+**Fokus:** Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung. Skill behandelt die seit 01.10.2020 geltende verkuerzte Frist auf drei Jahre Voraussetzungen Versagungsgruende Mitwirkungspflichten Verfahrensgang. Aktuelle Diskussion zur Folgen bei nachtraeglich auftauchenden Gläubigern. Liefert Prüfraster.
 
 ### Verbraucherinsolvenz 3 Jahres Restschuldbefreiung
 
@@ -51,18 +51,18 @@ description: "Verbraucherinsolvenz: 3-Jahres-Restschuldbefreiung: Skill behandel
 ## Versagungsgruende § 290 InsO
 
 - Verurteilung wegen § 283 ff. StGB Bankrottdelikte.
-- Schaedigende Vermoegensverlagerung.
+- Schaedigende Vermögensverlagerung.
 - Verletzung von Aufklaerungspflichten.
 - Verletzung der Erwerbsobliegenheit.
 
-## Nachtraeglich auftauchende Glaeubiger
+## Nachtraeglich auftauchende Gläubiger
 
-- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Glaeubiger.
+- § 301 InsO: Restschuldbefreiung wirkt auch für nicht angemeldete Gläubiger.
 - Ausnahme: arglistig verschwiegene Forderungen (§ 302 InsO).
 
-## Pruefraster
+## Prüfraster
 
 1. Verfahrensgang korrekt?
 2. Mitwirkungspflichten erfuellt?
 3. Versagungsgruende ausgeschlossen?
-4. Nachtraegliche Glaeubiger ueberraschen?
+4. Nachtraegliche Gläubiger ueberraschen?

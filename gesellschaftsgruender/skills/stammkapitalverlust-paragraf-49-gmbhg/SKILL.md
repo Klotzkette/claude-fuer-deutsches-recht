@@ -94,7 +94,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Einberufung Pflichtversammlung § 49 Abs. 3 GmbHG | Einladungsschreiben nach Pruefschema; Template unten |
+| Standard — Einberufung Pflichtversammlung § 49 Abs. 3 GmbHG | Einladungsschreiben nach Prüfschema; Template unten |
 | Variante A — Verlust behebbarer durch Kapitalerhoehung | Kapitalerhoehung vorbereiten; Versammlung als Beschlussgrundlage nutzen |
 | Variante B — Insolvenzreife parallel moegliche Antragspflicht | Insolvenz-Skill parallel prüfen; Antragspflicht § 15a InsO beachten |
 | Variante C — Gesellschafter wollen keine Versammlung Kosten | Umlaufbeschluss statt Praesenzversammlung wenn Satzung erlaubt |
@@ -149,7 +149,7 @@ Geschäftsführer [Firmenname] GmbH
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

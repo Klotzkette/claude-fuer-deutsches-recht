@@ -1,6 +1,6 @@
 ---
 name: eugh-cjeu-verhaeltnismaessigkeit
-description: Verhaeltnismaessigkeitspruefung des Gerichtshofs der Europaeischen Union nach Art 52 I GRCh und allgemeinem Grundsatz mit Stufen Gesetzesvorbehalt Wesensgehalt legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Mit Digital Rights Ireland Schrems II La Quadrature du Net Tele2 Sverige sowie Hinweisen zur Rezeption deutscher Methodik und zum Verhaeltnis Charta-Schranken zur EMRK.
+description: Verhältnismäßigkeitspruefung des Gerichtshofs der Europaeischen Union nach Art 52 I GRCh und allgemeinem Grundsatz mit Stufen Gesetzesvorbehalt Wesensgehalt legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Mit Digital Rights Ireland Schrems II La Quadrature du Net Tele2 Sverige sowie Hinweisen zur Rezeption deutscher Methodik und zum Verhältnis Charta-Schranken zur EMRK.
 ---
 
 # EuGH CJEU Verhältnismäßigkeit
@@ -18,7 +18,7 @@ anerkannten dem Gemeinwohl dienenden Zielsetzungen oder den
 Erfordernissen des Schutzes der Rechte und Freiheiten anderer
 tatsaechlich entsprechen.
 
-## Pruefraster nach Art 52 I GRCh
+## Prüfraster nach Art 52 I GRCh
 
 Der EuGH prüft Eingriffe in Charta-Rechte in folgenden Stufen:
 
@@ -34,9 +34,9 @@ Der EuGH prüft Eingriffe in Charta-Rechte in folgenden Stufen:
    beitragen.
 5. **Erforderlichkeit**: kein milderes, gleich effektives Mittel.
 6. **Angemessenheit im engeren Sinne**: Eingriff darf nicht ausser
-   Verhaeltnis zum Ziel stehen.
+   Verhältnis zum Ziel stehen.
 
-## Verhaeltnis zum allgemeinen Grundsatz der Verhältnismäßigkeit
+## Verhältnis zum allgemeinen Grundsatz der Verhältnismäßigkeit
 
 Der EuGH verwendet den Grundsatz der Verhältnismäßigkeit auch
 ausserhalb der Charta als allgemeinen Rechtsgrundsatz, insbesondere
@@ -47,7 +47,7 @@ Schraeder (EuGH 11/77).
 
 Bei Charta-Eingriffen tritt der Wesensgehaltstest hinzu.
 
-## Wesensgehalt als eigenstaendige Pruefstufe
+## Wesensgehalt als eigenstaendige Prüfstufe
 
 Anders als in der EMRK kennt die Charta einen ausdruecklichen
 Wesensgehalt. Der EuGH hat ihn in Schrems I unmittelbar angewandt:
@@ -98,7 +98,7 @@ kontrolliert ist.
 
 ## Rezeption deutscher Methodik
 
-Der EuGH hat die deutsche Verhaeltnismaessigkeitsdogmatik
+Der EuGH hat die deutsche Verhältnismäßigkeitsdogmatik
 fruehzeitig rezipiert (Schraeder, Internationale Handelsgesellschaft).
 Gemeinsamkeiten:
 
@@ -112,7 +112,7 @@ Unterschiede:
   GG; Prüfung erfolgt direkt am jeweiligen Charta-Recht.
 - Wesensgehaltstest oft als Vorabausschluss, nicht als nachgelagerte
   Schranke.
-- Bei Charta-Auslegung Verweis auf Erlaeuterungen zur Charta (Art 6
+- Bei Charta-Auslegung Verweis auf Erläuterungen zur Charta (Art 6
   Abs 1 EUV) und korrespondierende EMRK-Rechte (Art 52 Abs 3 GRCh).
 
 ## Strukturunterschiede
@@ -123,7 +123,7 @@ Unterschiede:
 | Wesensgehalt Art 19 II GG | Wesensgehalt Art 52 I S 1 GRCh, autonom unionsrechtlich |
 | Menschenwuerde Art 1 I GG | Art 1 GRCh Wuerde des Menschen, ebenfalls abwaegungsfest |
 | Praktische Konkordanz | Abwaegung im Rahmen des Art 52 I GRCh |
-| Schutzpflicht über Untermassverbot | Schutzpflichten über effet utile und Aequivalenzgebot |
+| Schutzpflicht über Untermassverbot | Schutzpflichten über effet utile und Äquivalenzgebot |
 | Solange-Vorbehalt BVerfG | Vorrang Unionsrecht und Konkretisierung durch EuGH-Rechtsprechung |
 
 ## Bedeutung für den Prüfer
@@ -137,7 +137,7 @@ Bei Anwendung im deutschen Schriftsatz:
   regelmaessig.
 - Bei Eingriffen mit Drittstaatsbezug Schrems II Prüfung anlegen:
   gleichwertiges Schutzniveau, effektiver Rechtsschutz.
-- Wesensgehaltstest als eigenstaendige Pruefstufe nicht uebersehen;
+- Wesensgehaltstest als eigenstaendige Prüfstufe nicht uebersehen;
   bei Verletzung keine Heilung durch Erforderlichkeit.
 
 ## Live-Recherche-Disclaimer

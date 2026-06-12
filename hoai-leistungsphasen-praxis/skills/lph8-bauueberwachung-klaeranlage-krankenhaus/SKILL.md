@@ -25,12 +25,12 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 
 ## Erste Schritte auf der Baustelle
 
-1. Betonmischungskonzept prüfen: WU-Beton WU-Richtlinie 2017, w/z-Wert kleiner 0.50, Zementgehalt mindestens 320 kg/m3, Dichtungskonzept Erlaeuterungsbericht vorhanden
+1. Betonmischungskonzept prüfen: WU-Beton WU-Richtlinie 2017, w/z-Wert kleiner 0.50, Zementgehalt mindestens 320 kg/m3, Dichtungskonzept Erläuterungsbericht vorhanden
 2. Schalung und Bewehrung Abnahme: Betondeckung 40 mm Innenseite, Fugenband-Lage Sohlplatte-Wand-Fuss kontrollieren, Fugenabstand max. 6 m
 3. Betonage Kontrollpruefung: Frischbetonproben je 50 m3, Konsistenz F2-F3, Kerntemperatur-Sensor bei Wanddicke groesser 400 mm
 4. Schalungsabnahme nach Ausschalen: Rissbreite Messlupe 0.2 mm, Protokollierung Ort und Breite je Riss
 5. Betonschutzanstrich Auftrag: Oberflaeche trocken mindestens 28 Tage, Schichtdicke Sikafloor 264, Gesamttrockenschichtdicke mindestens 600 Mikrometer
-6. Wasserdruckpruefung nach DIN EN 1610: Befuellung 24 h Vorquellung, Setzung Pruefdruck 3 h, Druckabfall kleiner 0.1 Prozent Pruefvolumen
+6. Wasserdruckpruefung nach DIN EN 1610: Befuellung 24 h Vorquellung, Setzung Prüfdruck 3 h, Druckabfall kleiner 0.1 Prozent Prüfvolumen
 
 ## Normen und Rechtsrahmen
 
@@ -41,7 +41,7 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 - DIN EN 1610:2015-12: Dichtheitspruefung Wasser- und Luftdruckverfahren Abwasserleitungen
 - DIN 1986-100 Entwasserungsanlagen für Gebaeude und Grundstuecke
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Fugenband-Einbaukontrolle: Fugenband-Typ Doppelkopf oder Quellprofil Sika Greenstreak 920, Stossstellen warmgasverschweisst, Lage in Schalungsmitte +-5 mm
 2. Betonguetepruefung Bohrkern: d = 100 mm je 200 qm Wand, Gefuegedichte und Porengehalt visuell, Druckfestigkeit Laborkontrolle
@@ -63,7 +63,7 @@ Klaerbecken zaehlen zu den am staerksten beanspruchten Stahlbetonbauwerken im ko
 - SAP PM Meldungsart M2 Leckage Dichtheitspruefung: Equipment-Nr Becken-ID z.B. VKB-003, Schadenscode A001 Undichtigkeit, Ursachencode U012 Riss WU-Beton
 - SAP PS Netzplan: BETON-010 Sohlplatte, BETON-020 Wandbetonage, ANSTRICH-030 Innenbeschichtung, PRUEFUNG-040 Dichtheitspruefung, ABNAHME-050
 - PlanRadar Becken-Grundriss Hintergrundkarte: Mangelverortung cm-genau, Foto-Pflicht, Zuordnung Gewerk, Faelligkeit T+5
-- Dalux Pruef-Checkliste Dichtigkeitspruefung: Eingabefeld Druckabfall, Status gruen/rot, QR-Code je Becken, Abnahmeprotokoll-Export
+- Dalux Prüf-Checkliste Dichtigkeitspruefung: Eingabefeld Druckabfall, Status gruen/rot, QR-Code je Becken, Abnahmeprotokoll-Export
 - Workflow: Leckageort markiert, Sanierungsart Injektion oder Reparatur, Ausfuehrung, Nachpruefung, Abnahmefreigabe
 
 ## Typische Fallstricke

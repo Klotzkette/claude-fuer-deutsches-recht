@@ -24,9 +24,9 @@ description: "PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historisc
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 11 §§ 1-86**: Kauf — emptio venditio; konsensual; Eigentumserwerb erst mit traditio.
-- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Uebergabe.
+- **ALR I 11 §§ 87-115**: Gefahrtragung — periculum est emptoris ab Übergabe.
 - **ALR I 11 §§ 116-180**: Aedilizische Aktionen — Sachmaengelhaftung, Wandlung, Minderung.
 - **ALR I 21 §§ 1-100**: Miete (locatio conductio rei); Dauer, Kuendigung.
 - **ALR I 21 §§ 100-200**: Pacht (locatio conductio operis); Bauleistung gegen Werklohn.
@@ -42,6 +42,6 @@ ALR-Loesung: ALR I 21 — anders als roemisches Recht ("emptio tollit locatum") 
 ### Heutige Fortwirkung
 - §§ 433-453 BGB Kauf.
 - §§ 535-580a BGB Miete.
-- § 446 BGB Gefahrtragung — periculum emptoris ab Uebergabe.
+- § 446 BGB Gefahrtragung — periculum emptoris ab Übergabe.
 - §§ 434, 437 BGB Sachmangel und Rechtsfolgen.
 - § 566 BGB Kauf bricht nicht Miete — wichtige Fortwirkung der ALR-Linie.

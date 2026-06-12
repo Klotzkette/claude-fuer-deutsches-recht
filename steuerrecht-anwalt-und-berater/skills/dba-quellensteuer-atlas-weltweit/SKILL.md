@@ -45,7 +45,7 @@ description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden
 | Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schneller Cashflow, 3-Jahres-Geltung | nach Einbehalt rueckwirkend — 4-Jahres-Frist | bei regelmäßigen Zahlungen Pfad A |
 | MTRL/ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei Verbundenheit | DBA-Hoechstsatz | EU-RL vorrangig, wenn Voraussetzungen erfuellt |
 | Erstattung jetzt vs. später | sofort Antrag, Bearbeitung 12-24 Monate | später Antrag, gleiche Bearbeitung — aber Frist droht | bei hohen Betraegen frueh stellen |
-| Substanz aufbauen vs. § 50d Abs. 3 EStG-Risiko hinnehmen | Substanz (Personal, Buero, Geschaeftstaetigkeit) | "Briefkasten" oder durchgereichte Holding | bei wesentlichen Erstattungs-Volumina Substanz aufbauen |
+| Substanz aufbauen vs. § 50d Abs. 3 EStG-Risiko hinnehmen | Substanz (Personal, Buero, Geschäftstaetigkeit) | "Briefkasten" oder durchgereichte Holding | bei wesentlichen Erstattungs-Volumina Substanz aufbauen |
 | Bei Drittstaat ohne DBA: Quellensteuer akzeptieren oder strukturieren | hinnehmen + Anrechnung § 34c EStG | EU-Tochter als Verbindungsstueck | bei reiner Steuergestaltung scheitert Pfad B oft an § 50d Abs. 3 EStG |
 | BZSt-Erstattung vs. MAP | unilaterale Erstattung beim BZSt | Verstaendigungsverfahren bei Doppelbesteuerung trotz DBA | bei klarem DBA-Anspruch Pfad A; bei strittiger Qualifikation Pfad B |
 
@@ -103,7 +103,7 @@ description: "Weltweiter DBA-Quellensteuer-Atlas aus deutscher Sicht: Dividenden
 
 | Test | Norm | Befund | Status |
 |---|---|---|---|
-| § 50d Abs. 3 EStG Substanz | EStG | [Personal/Buero/Geschaeftstaetigkeit] | [bestanden / scheitert] |
+| § 50d Abs. 3 EStG Substanz | EStG | [Personal/Buero/Geschäftstaetigkeit] | [bestanden / scheitert] |
 | § 50j EStG Cum-Cum | EStG | [45/91-Tage] | [erfuellt / nicht] |
 | Beneficial Ownership | DBA | [Wirtschaftlicher Eigentümer?] | [ja / nein] |
 | PPT (MLI) | DBA | [Hauptzweck Vorteil?] | [Vorteil zu versagen / nicht] |

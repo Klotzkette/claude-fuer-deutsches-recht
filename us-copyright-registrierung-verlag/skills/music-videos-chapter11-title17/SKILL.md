@@ -1,6 +1,6 @@
 ---
 name: music-videos-chapter11-title17
-description: "Prueft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung im Us Copyright Registrierung Verlag."
+description: "Prüft Sound Recordings and Music Videos im Title-17-Chapter-11-Kontext, insbesondere Clips, Video-Sync und Plattformnutzung im Us Copyright Registrierung Verlag."
 ---
 
 # Music Videos Chapter 11 Title 17

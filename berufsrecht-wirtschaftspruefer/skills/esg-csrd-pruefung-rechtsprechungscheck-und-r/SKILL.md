@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-rechtsprechungscheck-und-r
-description: "Wirtschaftsprüfer: esg csrd pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: esg csrd prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: esg csrd prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

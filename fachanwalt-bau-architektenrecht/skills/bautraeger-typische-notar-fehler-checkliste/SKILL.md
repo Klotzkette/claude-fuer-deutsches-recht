@@ -1,6 +1,6 @@
 ---
 name: bautraeger-typische-notar-fehler-checkliste
-description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Em..."
+description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung übersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Prüfraster und Em..."
 ---
 
 # Typische Notar-Fehler im Bautraegervertrag
@@ -14,21 +14,21 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen für Klärung.
+**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung übersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Prüfraster und Empfehlungen für Klärung.
 
 ### Bautraeger Typische Notar Fehler Checkliste
 
 ## Typische Notar-Fehler
 
 ### Ungenuegende Bonitaetsklaerung
-- Notar pruef im Voraus den Grundbuchstand, oft aber nicht die Bonitaet des Bautraegers.
+- Notar prüf im Voraus den Grundbuchstand, oft aber nicht die Bonitaet des Bautraegers.
 - Erwerber muss selbst prüfen.
 
 ### Vereinfachte Belehrung
 - Notar legt MaBV-Schutz nicht ausreichend dar.
 - Belehrung sollte konkret und schriftlich sein.
 
-### Uebersetzte Pauschalpreise
+### Übersetzte Pauschalpreise
 - Klauseln zu Sonderwuensche mit pauschalen Aufpreisen können unangemessen sein.
 
 ### Unklare Sonderwunschregelung
@@ -37,7 +37,7 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 
 ### Fehlende Festlegung der Anlagen
 - Baubeschreibung ist Anlage, aber Stand nicht klar.
-- Bei Aenderungen unsicher.
+- Bei Änderungen unsicher.
 
 ### § 17 BeurkG Belehrungspflicht
 - Notar muss "rechtlich erforderliche Belehrungen" vornehmen.
@@ -50,7 +50,7 @@ description: "Typische Notar-Fehler im Bautraegervertrag: Skill listet die haeuf
 3. Vertragsentwurf mindestens 2 Wochen vor Termin (§ 17 Abs. 2a BeurkG).
 4. Anwesenheit Anwalt beim Notartermin möglich.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragsentwurf rechtzeitig erhalten?
 2. Anwalt eingeschaltet?

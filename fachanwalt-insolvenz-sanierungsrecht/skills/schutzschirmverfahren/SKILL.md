@@ -218,8 +218,8 @@ Bevor losgelegt wird, klaere:
 1. **Krisen-Diagnose (Woche -4 bis -2 vor Antrag):** Liquiditaet 13 Wochen direct-method erstellen; Eröffnungsgrund §§ 17-19 InsO bestimmen; Fortbestehensprognose IDW S 11 beauftragen.
 2. **Bescheinigung (Woche -2 bis -1):** Sachverstaendigen mit Bescheinigung § 270d Abs. 1 InsO beauftragen; Sanierungskonzept auf IDW-S-6-Niveau als Grundlage vorbereiten und Red-Team-Lücken vorab schließen.
 3. **Antragsvorbereitung (Woche -1):** Sachwalter-Kandidaten identifizieren und Vorschlag vorbereiten; Antrag schreiben mit Glaubhaftmachungs-Unterlagen; Insolvenzgeld-Vorfinanzierungs-Vereinbarung mit Hausbank abschliessen.
-4. **Antragstellung (Tag 0):** Schriftlicher Antrag beim AG/Insolvenzgericht; Bescheinigung anlegen; Sachwalter-Vorschlag; Glaeubiger- und Vermoegensverzeichnis.
-5. **Schutzschirm-Phase (3 Monate):** Insolvenzplan aufstellen (§§ 217 ff. InsO); Glaeubigerklassen bilden (§ 222 InsO); Schlüssel-Glaeubiger verhandeln; Insolvenzgeld sichern (§ 165 SGB III).
+4. **Antragstellung (Tag 0):** Schriftlicher Antrag beim AG/Insolvenzgericht; Bescheinigung anlegen; Sachwalter-Vorschlag; Gläubiger- und Vermögensverzeichnis.
+5. **Schutzschirm-Phase (3 Monate):** Insolvenzplan aufstellen (§§ 217 ff. InsO); Gläubigerklassen bilden (§ 222 InsO); Schlüssel-Gläubiger verhandeln; Insolvenzgeld sichern (§ 165 SGB III).
 6. **Plan-Abstimmung und Bestaetigung:** Eroerungs- und Abstimmungstermin (§§ 235, 237 InsO); Mehrheiten je Gruppe (§ 244 InsO: 50% Kopf + 50% Summe); ggf. Obstruktionsverbot § 245 InsO; Gerichtsbestaetigung § 248 InsO.
 
 ## Entscheidungsbaum Pfadwahl

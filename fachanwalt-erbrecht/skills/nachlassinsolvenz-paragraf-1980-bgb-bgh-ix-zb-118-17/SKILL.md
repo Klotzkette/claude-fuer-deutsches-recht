@@ -7,7 +7,7 @@ description: "Nachlassinsolvenz Paragraf 1980 BGB BGH Ix Zb 118 17: fachanwaltli
 
 ## Einsatzlage
 
-Erbe verzoegert Nachlassinsolvenzantrag; Glaeubiger erleidet Schaden.
+Erbe verzoegert Nachlassinsolvenzantrag; Gläubiger erleidet Schaden.
 
 ## Normenanker
 
@@ -37,4 +37,4 @@ Erbe haftet bei Pflichtverletzung; Frist unverzueglich.
 ## Belege und Aktenlücken
 
 - Nachlassverzeichnis
-- Glaeubigerschreiben
+- Gläubigerschreiben

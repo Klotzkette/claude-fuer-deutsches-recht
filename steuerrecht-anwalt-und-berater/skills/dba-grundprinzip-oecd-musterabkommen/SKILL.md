@@ -15,7 +15,7 @@ description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassung
 
 ## Kernsachverhalt
 
-Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller deutschen Doppelbesteuerungsabkommen. Mit den BEPS-Anpassungen 2017 und dem Multilateralen Instrument (MLI) seit 2018 wurden zentrale Vorschriften modifiziert, ohne dass alle bilateralen Abkommen neu verhandelt werden mussten. Dieser Skill bildet das Pruefungsraster, das in jedem laenderspezifischen Skill vorausgesetzt wird, und ist Einstiegspunkt für jeden grenzueberschreitenden Steuerfall.
+Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller deutschen Doppelbesteuerungsabkommen. Mit den BEPS-Anpassungen 2017 und dem Multilateralen Instrument (MLI) seit 2018 wurden zentrale Vorschriften modifiziert, ohne dass alle bilateralen Abkommen neu verhandelt werden mussten. Dieser Skill bildet das Prüfungsraster, das in jedem laenderspezifischen Skill vorausgesetzt wird, und ist Einstiegspunkt für jeden grenzueberschreitenden Steuerfall.
 
 ## Kaltstart-Rueckfragen
 
@@ -36,7 +36,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 - **MLI** (Multilateral Convention to Implement Tax Treaty Related Measures, 24.11.2016). Ratifikation durch Deutschland Dezember 2020 (BGBl. 2020 II S. 946), in Kraft für Deutschland ab 01.04.2021; Wirksamkeit für einzelne DBA abhaengig von kongruenter Notification beider Vertragsstaaten — aktuellen Status im BMF-DBA-Verzeichnis prüfen.
 - **OECD-Kommentar** zum MA 2017 (statischer vs. dynamischer Auslegungsansatz; BMF folgt grundsätzlich dynamischer Auslegung).
 - **§ 2 AO** — Vorrang voelkerrechtlicher Vereinbarungen vor nationalem Recht, soweit unmittelbar anwendbar.
-- **§§ 34c, 34d EStG** — nationale Anrechnungsmethode und Definition auslaendischer Einkuenfte.
+- **§§ 34c, 34d EStG** — nationale Anrechnungsmethode und Definition ausländischer Einkuenfte.
 - **§§ 49, 50, 50a, 50c, 50d EStG** — beschraenkte Steuerpflicht, Quellensteuer, Erstattung, Treaty Override.
 - **§ 20 Abs. 2 AStG** — Switch-over-Klausel (Wechsel Freistellung zu Anrechnung).
 - **§ 50d Abs. 8, 9, 10 EStG** — Rueckfallklauseln (subject-to-tax bzw. switch-over national).
@@ -51,23 +51,23 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Aufbau eines typischen DBA
 
-| Kapitel | Inhalt | Pruefungsrelevanz |
+| Kapitel | Inhalt | Prüfungsrelevanz |
 |---|---|---|
 | Praeambel | Zweck (Vermeidung Doppelbesteuerung und Steuerverkuerzung) | seit BEPS auch Anti-Missbrauch |
 | Art. 1 | Persoenlicher Anwendungsbereich | Ansaessige Personen beider Staaten |
 | Art. 2 | Sachlicher Anwendungsbereich | Welche Steuern erfasst |
 | Art. 3 | Allgemeine Definitionen | Begriff "Person", "Gesellschaft", "Unternehmen" |
 | Art. 4 | Ansaessigkeit | Tie-Breaker bei doppelter Ansaessigkeit |
-| Art. 5 | Betriebsstaette | Feste Geschaeftseinrichtung, Vertreter, MLI-Anpassungen |
+| Art. 5 | Betriebsstaette | Feste Geschäftseinrichtung, Vertreter, MLI-Anpassungen |
 | Art. 6 | Einkuenfte aus unbewegl. Vermögen | Belegenheitsstaat |
 | Art. 7 | Unternehmensgewinne | Betriebsstaettenprinzip |
-| Art. 8 | Schifffahrt und Luftverkehr | tatsaechl. Geschaeftsleitung |
+| Art. 8 | Schifffahrt und Luftverkehr | tatsaechl. Geschäftsleitung |
 | Art. 9 | Verbundene Unternehmen | Verrechnungspreise, Korrespondenzanpassung |
 | Art. 10 | Dividenden | Quellenstaat-Hoechstsatz |
 | Art. 11 | Zinsen | Quellenstaat-Hoechstsatz |
 | Art. 12 | Lizenzgebuehren | MA-typisch Wohnsitzstaat, viele DBA abweichend |
 | Art. 13 | Veraeusserungsgewinne | Belegenheit oder Wohnsitz |
-| Art. 14 | (entfallen seit 2000, in alten DBA noch: selbstaendige Arbeit) | bei alten DBA gesondert prüfen |
+| Art. 14 | (entfallen seit 2000, in alten DBA noch: selbständige Arbeit) | bei alten DBA gesondert prüfen |
 | Art. 15 | Unselbstaendige Arbeit | 183-Tage-Regel, Grenzgaenger |
 | Art. 16 | Aufsichtsrats-/Verwaltungsratsverguetungen | regelmaessig Sitzstaat der Gesellschaft |
 | Art. 17 | Kuenstler und Sportler | Auftrittsstaat |
@@ -85,7 +85,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 | Art. 29 | Anti-Missbrauch / PPT | seit MLI / BEPS |
 | Art. 30+ | Inkrafttreten, Kuendigung | Prüfung Zeitlicher Anwendungsbereich |
 
-## Pruefungsschritte (Standard-Workflow)
+## Prüfungsschritte (Standard-Workflow)
 
 ### Phase 1 — Persoenlicher und sachlicher Anwendungsbereich
 
@@ -96,7 +96,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ### Phase 2 — Ansaessigkeit (Art. 4)
 
 1. Prüfung Ansaessigkeit nach nationalem Recht beider Staaten.
-2. Bei Doppelansaessigkeit: Tie-Breaker (staendige Wohnstaette, Mittelpunkt der Lebensinteressen, gewoehnlicher Aufenthalt, Staatsangehoerigkeit, Verstaendigung). Bei Gesellschaften: Ort der tatsaechlichen Geschaeftsleitung (alt) bzw. MAP (MLI-Standard).
+2. Bei Doppelansaessigkeit: Tie-Breaker (staendige Wohnstaette, Mittelpunkt der Lebensinteressen, gewoehnlicher Aufenthalt, Staatsangehoerigkeit, Verstaendigung). Bei Gesellschaften: Ort der tatsaechlichen Geschäftsleitung (alt) bzw. MAP (MLI-Standard).
 3. Verweis: `stb-dba-ansaessigkeit-tie-breaker-rules`.
 
 ### Phase 3 — Einkunftsart einordnen
@@ -134,9 +134,9 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 ## Strategie und Praxis-Tipps
 
 - Bei Mandantenfaellen mit MLI-Anpassung: stets prüfen, ob die spezifische Norm für den jeweiligen Staat angepasst wurde — die MLI-Reservationsregelungen beider Vertragsstaaten müssen kongruieren.
-- Bei Personengesellschaften: deutsche transparente Sicht kollidiert haeufig mit auslaendischer intransparenter Sicht — BMF-Schreiben 26.09.2014 ist Grundlage.
+- Bei Personengesellschaften: deutsche transparente Sicht kollidiert haeufig mit ausländischer intransparenter Sicht — BMF-Schreiben 26.09.2014 ist Grundlage.
 - Subject-to-Tax-Klauseln (§ 50d Abs. 9 EStG) gehen DBA-Freistellungen vor — Prüfung, ob das Welteinkommen tatsaechlich versteuert wurde.
-- Bei doppelter Ansaessigkeit bei Gesellschaften ist der Ort der tatsaechlichen Geschaeftsleitung in DBA mit alter Klausel zu prüfen; bei MLI-Anpassung gilt MAP.
+- Bei doppelter Ansaessigkeit bei Gesellschaften ist der Ort der tatsaechlichen Geschäftsleitung in DBA mit alter Klausel zu prüfen; bei MLI-Anpassung gilt MAP.
 - Verstaendigungsverfahren (MAP) und EU-Streitbeilegung sind keine Alternativen, sondern komplementaer.
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
@@ -144,7 +144,7 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 - **DBA-Fundstelle immer am Originaltext prüfen**: BMF-Schreiben listen das anwendbare BGBl-II-Aktenzeichen — vor jeder Memo-Endfassung über bundesfinanzministerium.de (Bereich Internationales Steuerrecht / Liste der DBA) abgleichen.
 - **MLI-Synopse vor Antragstellung**: OECD-MLI-Matching-Database (oecd.org) zeigt, ob beide Vertragsstaaten zur jeweiligen Norm kongruent reserviert/notifiziert haben. Ohne kongruente Notification keine MLI-Wirkung.
 - **Veranlagungszeitraum exakt fixieren**: MLI tritt nicht "ab Inkrafttreten" wirksam für Quellensteuern und Veranlagungssteuern ein, sondern oft mit Versatz (Q1/Q2 nachfolgendes Jahr) — Datum in jeder Memo nennen.
-- **Ansaessigkeitsbescheinigung des Wohnsitz-FA vorab beschaffen**: Standard-Formular des Wohnsitz-FA (auch auslaendischer Behörden, z.B. IRS Form 6166, HMRC, CFR-1) — Bearbeitung im Heimatstaat dauert oft Wochen; ohne Bescheinigung scheitert die BZSt-Bearbeitung im Erstchecksuche-Schritt.
+- **Ansaessigkeitsbescheinigung des Wohnsitz-FA vorab beschaffen**: Standard-Formular des Wohnsitz-FA (auch ausländischer Behörden, z.B. IRS Form 6166, HMRC, CFR-1) — Bearbeitung im Heimatstaat dauert oft Wochen; ohne Bescheinigung scheitert die BZSt-Bearbeitung im Erstchecksuche-Schritt.
 - **Q1-Antragsfenster nutzen**: Antraege beim BZSt im Q1 (Januar bis Maerz) erreichen erfahrungsgemaess kuerzere Bearbeitungszeiten als im Q4 — der Jahresendstau zieht bis Februar/Maerz nach.
 
 ## Trade-off-Tabelle
@@ -159,14 +159,14 @@ Das OECD-Musterabkommen (OECD-MA) in der Fassung 2017 ist Grundlage nahezu aller
 
 ## Was Reviewer/Prüfer triggert
 
-- **Falsche BGBl-Stelle** zum DBA: Reviewer findet im Original ein abweichendes Datum oder Protokoll. Auch das aktuelle Aenderungsprotokoll mitzitieren.
+- **Falsche BGBl-Stelle** zum DBA: Reviewer findet im Original ein abweichendes Datum oder Protokoll. Auch das aktuelle Änderungsprotokoll mitzitieren.
 - **MLI nicht erwaehnt**, obwohl Norm angepasst wurde: BFH und Prüfer kennen die MLI-Matching-Database. Wer für das DBA-USA argumentiert, ohne MLI-Status zu nennen, faellt auf — auch wenn USA MLI nicht ratifiziert haben (genau das ist im Memo festzuhalten).
 - **Subject-to-Tax-Prüfung uebersprungen**: bei Wohnsitzwechsel in Niedrigsteuerstaaten (Portugal NHR, Italien Impatriati, Spanien Beckham) faellt das Memo, wenn § 50d Abs. 9 EStG nicht durchgesprochen ist.
-- **Personengesellschafts-Qualifikationskonflikt**: deutsche transparente Sicht vs. auslaendische intransparente Sicht — BMF-Schreiben 26.09.2014 nicht erwaehnt.
+- **Personengesellschafts-Qualifikationskonflikt**: deutsche transparente Sicht vs. ausländische intransparente Sicht — BMF-Schreiben 26.09.2014 nicht erwaehnt.
 - **Aktivitaetsklausel uebersehen**: bei Holding-Strukturen wird Freistellung beantragt, obwohl die Aktivitaetsklausel im DBA passiver Verwaltungstaetigkeit die Anrechnung zuweist.
 - **Zeitlicher Anwendungsbereich**: Memo bezieht sich auf DBA-Fassung, die für den Veranlagungszeitraum noch nicht oder nicht mehr galt.
 
-## Konkretes DBA-Pruefraster (Mustertabelle)
+## Konkretes DBA-Prüfraster (Mustertabelle)
 
 | Phase | Norm / Fundstelle | Subsumtion | Ergebnis | Verifikationsquelle |
 |---|---|---|---|---|

@@ -82,7 +82,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 - Pflicht-Erwaehnung im Tatsachenvortrag.
@@ -95,7 +95,7 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 - **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
 - **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
@@ -187,7 +187,7 @@ Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegne
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Insolvenz- und Restrukturierungsrecht ggf. spezifische ERV-Pflichten beachten.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Insolvenz- und Restrukturierungsrecht ggf. spezifische ERV-Pflichten beachten.
 
 ## Schriftsatz-Stil
 
@@ -231,6 +231,6 @@ Vor Versand:
 ## Triage — Schriftsatz-Typ bestimmen
 
 1. **Anfechtungsklage Verwalter?** → Tatbestand § 130/131/133 InsO; ZU-Datum; Gegner-Kenntnis-Indizien; § 146 InsO Verjährung check.
-2. **Insolvenzantrag Glaeubigerseite?** → § 14 InsO; Forderungs-Glaubhaftmachung; ZU-Indizien.
+2. **Insolvenzantrag Gläubigerseite?** → § 14 InsO; Forderungs-Glaubhaftmachung; ZU-Indizien.
 3. **Forderungsanmeldung?** → § 174 InsO; Tabellen-Eintrag; Rang; Belege.
 4. **Tabellenklage nach Bestreiten?** → § 180 InsO; ZPO-Klage; Beweismittel.

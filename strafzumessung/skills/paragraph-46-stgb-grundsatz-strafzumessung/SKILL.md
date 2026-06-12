@@ -37,7 +37,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
  - Gesinnung, die aus der Tat spricht, und der bei der Tat aufgewendete Wille;
  - Mass der Pflichtwidrigkeit;
  - Art der Ausfuehrung und verschuldete Auswirkungen der Tat;
- - Vorleben des Taeters, seine persönlichen und wirtschaftlichen Verhaeltnisse;
+ - Vorleben des Taeters, seine persönlichen und wirtschaftlichen Verhältnisse;
  - Verhalten nach der Tat, namentlich Bemuehen, den Schaden wiedergutzumachen, und das Bemuehen des Taeters, einen Ausgleich mit dem Verletzten zu erreichen.
 - **§ 46 Abs. 3 StGB** — **Doppelverwertungsverbot**: Umstaende, die schon Merkmale des gesetzlichen Tatbestandes sind, dürfen nicht beruecksichtigt werden.
 
@@ -53,12 +53,12 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 1. **Schuld bestimmen**: Welche Tatbestaende verwirklicht? Welche Schuldform (Vorsatz, Fahrlaessigkeit)? Schuldminderungs- oder -ausschlussgruende (§§ 17, 20, 21 StGB)?
 2. **Strafrahmen bestimmen**: Grundtatbestand, Qualifikation, Privilegierung, Regelbeispiele, minder schwerer Fall, Strafmilderungs-/Schaerfungsgruende (§§ 49, 23 Abs. 2, 28 StGB).
 3. **Strafzumessungstatsachen sammeln** (§ 46 Abs. 2 StGB):
- - Vorleben: Vorstrafen (BZRG, Tilgung), Erziehung, soziale Verhaeltnisse;
+ - Vorleben: Vorstrafen (BZRG, Tilgung), Erziehung, soziale Verhältnisse;
  - Taterscheinung: Beweggrund, Ausfuehrung, Folgen, Pflichtwidrigkeit;
  - Nachtatverhalten: Reue, Gestaendnis, TOA (§ 46a StGB), Schadenswiedergutmachung.
 4. **Abwaegung**: Strafmildernde gegen strafschaerfende Faktoren; das Gewicht muss explizit werden.
 5. **Doppelverwertungsverbot prüfen**: Wenn etwa § 224 Abs. 1 Nr. 2 StGB (gefaehrliches Werkzeug) verwirklicht ist, darf die Tatsache "Messer verwendet" nicht noch einmal strafschaerfend angefuehrt werden.
-6. **Begruendung**: Im Urteil muss die Strafzumessung so dargelegt werden, dass das Revisionsgericht sie ueberpruefen kann (§ 267 Abs. 3 StPO).
+6. **Begruendung**: Im Urteil muss die Strafzumessung so dargelegt werden, dass das Revisionsgericht sie überprüfen kann (§ 267 Abs. 3 StPO).
 
 ## Strafmildernde Faktoren (Standardkatalog)
 
@@ -69,7 +69,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - Beruflicher und sozialer Status, intakte familiaere Bindungen
 - Keine Vorstrafen oder lange straffreie Zeit
 - Tatumstaende (Provokation des Opfers, Notlage)
-- Auslaender-/Auslieferungs-Folgen, falls einschlaegig
+- Ausländer-/Auslieferungs-Folgen, falls einschlaegig
 
 ## Strafschaerfende Faktoren (Standardkatalog)
 

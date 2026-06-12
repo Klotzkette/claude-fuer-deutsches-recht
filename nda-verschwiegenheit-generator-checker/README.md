@@ -54,7 +54,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -83,7 +83,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `einseitig-gegenseitig-entwerfen-router-eu` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Che... |
 | `entwerfen-oder-pruefen-router` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Prüfen Router; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `eu-trade-secrets-directive` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
-| `executive-summary-fuer-geschaeftsfuehrung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Für Geschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Genera... |
+| `executive-summary-fuer-geschaeftsfuehrung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Für Geschäftsführung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Genera... |
 | `familienunternehmen-nachfolge-forensik` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Chec... |
 | `forensik-und-logfiles` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `forschung-entwicklung-kooperation` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Chec... |
@@ -91,7 +91,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `freistellung-indemnity-geheimniskategorien` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Freistellung Und Indemnity; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `geheimniskategorien-crown-jewels` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geheimniskategorien Crown Jewels; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `gerichtsstand-schiedsgericht` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gerichtsstand Schiedsgericht; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
-| `geschaeftsgeheimnis-definition-2-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschaeftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Gener... |
+| `geschaeftsgeheimnis-definition-2-geschgehg` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Geschäftsgeheimnis Definition 2 Geschgehg; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Gener... |
 | `gesundheits-forschungsdaten-gesundheitswesen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheits Und Forschungsdaten; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `gesundheitswesen-klinik-pharma` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Gesundheitswesen Klinik Pharma; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker. |
 | `haftungsbegrenzung-und-carve-outs` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Haftungsbegrenzung Und Carve Outs; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Chec... |

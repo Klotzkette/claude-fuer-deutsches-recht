@@ -21,7 +21,7 @@ description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prü
 
 ## Eigentumserwerbsarten
 
-- **Traditio**: Uebergabe mit Eigentumsuebertragungsabsicht.
+- **Traditio**: Übergabe mit Eigentumsuebertragungsabsicht.
 - **Iustus titulus**: rechtlicher Grund.
 - **Eigentumsersitzung** (usucapio): 3 Jahre bewegl., 30 Jahre unbewegl.
 
@@ -33,14 +33,14 @@ description: "PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen: prü
 ## Subsumtionsbeispiel: Kauf eines Pferdes 1830
 
 A kauft Pferd von B.
-- **ALR I 8 / I 11**: Eigentumserwerb mit Uebergabe + wirksamem Kauf.
-- **BGB**: § 929 BGB Einigung + Uebergabe (abstrakt vom Kaufvertrag).
+- **ALR I 8 / I 11**: Eigentumserwerb mit Übergabe + wirksamem Kauf.
+- **BGB**: § 929 BGB Einigung + Übergabe (abstrakt vom Kaufvertrag).
 
 ## Heutige Fortwirkung
 
 - §§ 929-936 BGB Eigentumsuebertragung.
 
-## Pruefraster
+## Prüfraster
 
 1. Traditio erfolgt?
 2. Iustus titulus?

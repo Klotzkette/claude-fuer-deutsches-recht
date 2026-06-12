@@ -96,7 +96,7 @@ JAHRESERGEBNIS HANDELSBILANZ [X]
 
 ### Phase 6 — Mandantenkommunikation
 
-- Differenzen erlaeutern.
+- Differenzen erläutern.
 - Steueroptimierung diskutieren.
 - Bei wesentlichen Wahlrechten Mandantenwahl dokumentieren.
 

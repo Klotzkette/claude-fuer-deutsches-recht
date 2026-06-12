@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmds-bmf-bmftr-bmg-bmi
-description: "Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat"
+description: "Ressortaufgaben BMDS: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Digitales und Staatsmodernisierung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat"
 ---
 
 # Ressortaufgaben BMDS
@@ -39,8 +39,8 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMDS
 - Ressort-Kompass aus `legw-ressort-bmds`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Vorgehen
 
@@ -52,7 +52,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 | Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
 | Kabinettsentwurf | Hausleitung legt vor | Staatssekretaersausschuss; Kabinettsvorlage |
 | Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
-| Aenderungsantrag aus der Mitte | Fraktion zusammen mit BMDS | Bundestagsausschuss |
+| Änderungsantrag aus der Mitte | Fraktion zusammen mit BMDS | Bundestagsausschuss |
 
 ### Schritt 2 - Begruendungspflichten klären
 
@@ -63,7 +63,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ### Schritt 3 - Verbaendeanhoerung nach GGO Paragraf 47
 
-Im Geschaeftsbereich BMDS sind typische Beteiligte:
+Im Geschäftsbereich BMDS sind typische Beteiligte:
 
 - Spitzenverbaende der Materie (siehe `legw-bmds-digitale-verwaltung-ozg-und-egovg` und folgende)
 - Länder (Bundesrat-Spiegel; KOM-Vertreter)
@@ -100,7 +100,7 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
  `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (BMDS-Spiegel).
 
-### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
+### Schritt 8 - Aufsicht und Vollzug im Geschäftsbereich
 
 Nachgeordnete Behörden des BMDS im Vollzug einbinden. Vollzugsfolgen prüfen.
 

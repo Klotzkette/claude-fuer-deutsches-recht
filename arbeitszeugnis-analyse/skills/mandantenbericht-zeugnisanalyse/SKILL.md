@@ -45,7 +45,7 @@ Jede Option mit Kosten-, Zeit- und Erfolgseinschaetzung.
 
 Option A ist die Akzeptanz. Der Mandant nimmt das Zeugnis so wie es ist. Kostet nichts, dauert null, beendet die Angelegenheit. Sinnvoll, wenn die Note in der Sache stimmt und nur kosmetische Fragen verbleiben.
 
-Option B ist das aussergerichtliche Berichtigungsverlangen. Der Anwalt schreibt den Arbeitgeber an, listet die zu aendernden Stellen auf und setzt eine Frist. Kosten ueberschaubar (eine Geschaeftsgebuehr nach RVG), Dauer zwei bis sechs Wochen, Erfolgsquote bei sauber begruendetem Verlangen erfahrungsgemaess hoch. Sinnvoll bei klaren Geheimcodes, fehlender Bedauernsformel oder offensichtlicher Drift.
+Option B ist das aussergerichtliche Berichtigungsverlangen. Der Anwalt schreibt den Arbeitgeber an, listet die zu ändernden Stellen auf und setzt eine Frist. Kosten ueberschaubar (eine Geschäftsgebuehr nach RVG), Dauer zwei bis sechs Wochen, Erfolgsquote bei sauber begruendetem Verlangen erfahrungsgemaess hoch. Sinnvoll bei klaren Geheimcodes, fehlender Bedauernsformel oder offensichtlicher Drift.
 
 Option C ist die Klage vor dem Arbeitsgericht. Kosten hoeher (Verfahrensgebuehr plus Terminsgebuehr plus Gerichtskosten), Dauer drei bis neun Monate, Erfolgsquote abhaengig von Beweislage. Sinnvoll, wenn der Arbeitgeber das Berichtigungsverlangen ablehnt, der Notenstreit aber durchgreift oder ein Vorzeugnis vorliegt, das die bessere Note belegt.
 

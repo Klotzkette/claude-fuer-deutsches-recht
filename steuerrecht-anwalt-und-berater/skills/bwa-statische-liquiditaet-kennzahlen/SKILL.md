@@ -112,7 +112,7 @@ Die Schwellenwerte sind Branchenrichtwerte und vor dem Mandantengespraech mit ak
 ## Strategie und Praxis-Tipps
 
 - Statische Kennzahlen sind Schnappschuss — bei Krisensignalen IMMER dynamische Liquiditaetsplanung ergaenzen.
-- Bei Banken: Liquiditaet 1. Grades und Working Capital sind Standard-Pruefungsfelder.
+- Bei Banken: Liquiditaet 1. Grades und Working Capital sind Standard-Prüfungsfelder.
 - Kreditlinien-Ausnutzung mit dokumentieren — "verfuegbare Reserve" ist Steuerungsgroesse.
 - StBVV: Standardkennzahlen pauschaliert, dynamische Liquiditaetsplanung als Zusatzauftrag.
 - DATEV-Tipp: Kennzahlen-Modul mit Standard-Liquiditaetsformeln; bei individuellen Branchen-Schwellen Anpassung.

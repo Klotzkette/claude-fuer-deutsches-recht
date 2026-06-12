@@ -1,6 +1,6 @@
 ---
 name: ausland-remote-eu-a1
-description: "Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status im Sozialversicherungsstatus Pruefer."
+description: "Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status im Sozialversicherungsstatus Prüfer."
 ---
 
 # Ausland Remote EU A1

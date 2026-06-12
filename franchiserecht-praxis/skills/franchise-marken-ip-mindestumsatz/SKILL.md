@@ -1,6 +1,6 @@
 ---
 name: franchise-marken-ip-mindestumsatz
-description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster im Franchiserecht."
+description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Prüfraster im Franchiserecht."
 ---
 
 # Franchise Marken Ip Lizenzierung
@@ -40,7 +40,7 @@ description: "Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenr
 - Rueckgabe / Loeschung der Marke und Trade Dress.
 - Wettbewerbsverbot für Know-How-Nutzung.
 
-## Pruefraster
+## Prüfraster
 
 1. Markenrecht eingetragen?
 2. Lizenzumfang klar?

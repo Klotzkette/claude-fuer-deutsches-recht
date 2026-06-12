@@ -18,7 +18,7 @@ Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Ver
 ## Kaltstart-Rueckfragen
 
 1. Welche Verbindlichkeiten sind ungewiss zum Stichtag?
-2. Liegen drohende Verluste aus schwebenden Geschaeften vor?
+2. Liegen drohende Verluste aus schwebenden Geschäften vor?
 3. Welche Garantieverpflichtungen?
 4. Welche Tantieme/Sondervergueteungen sind zugesagt?
 5. Urlaubsanspruch der AN zum Stichtag (Urlaubsrueckstellung)?
@@ -51,11 +51,11 @@ Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Ver
 | Anlass | Standard-Bewertung |
 |---|---|
 | Garantieverpflichtungen | Erfahrungswerte (in Prozent vom Umsatz) |
-| Drohende Verluste schwebende Geschaefte | Höhe des erwarteten Verlustes |
+| Drohende Verluste schwebende Geschäfte | Höhe des erwarteten Verlustes |
 | Tantieme / Gratifikation | Vereinbarter Anteil |
 | Urlaubsrueckstellung | (Brutto-Lohn + SV-AG) x Urlaubsanteil |
 | Berufsgenossenschaft | Vorjahres-Beitrag + Anpassung |
-| Pruefungskosten | Honorar für JA und USt-VA-Prüfung |
+| Prüfungskosten | Honorar für JA und USt-VA-Prüfung |
 | Aufbewahrung GoBD | Pauschal 10-50 EUR pro AN |
 | Anhaengige Prozesse | Anwaltliche Einschaetzung |
 | Steuer-Rueckstellungen | KSt, GewSt nach Plan |
@@ -75,7 +75,7 @@ Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Ver
 
 ### Phase 4 — Diskontierung § 253 HGB
 
-- Rueckstellungen mit Restlaufzeit > 1 Jahr sind nach § 253 Abs. 2 S. 1 HGB mit dem durchschnittlichen Marktzinssatz der vergangenen sieben Geschaeftsjahre abzuzinsen (Standardfall).
+- Rueckstellungen mit Restlaufzeit > 1 Jahr sind nach § 253 Abs. 2 S. 1 HGB mit dem durchschnittlichen Marktzinssatz der vergangenen sieben Geschäftsjahre abzuzinsen (Standardfall).
 - **Altersversorgungsverpflichtungen und vergleichbare langfristige Verpflichtungen** sind nach § 253 Abs. 2 S. 2 HGB zwingend mit dem 10-Jahres-Durchschnittszinssatz abzuzinsen (kein 7-Jahres-Wahlrecht).
 - Pauschalannahme einer Restlaufzeit von 15 Jahren bei Altersversorgungsverpflichtungen ist nach § 253 Abs. 2 S. 2 HGB zulässig.
 - Die Zinssaetze werden monatlich von der Deutschen Bundesbank veroeffentlicht; den zum Bilanzstichtag aktuellen Wert pflegen.
@@ -90,14 +90,14 @@ Rueckstellungen sind Bilanzposten für ungewisse Verbindlichkeiten, drohende Ver
 
 - Rueckstellungs-Liste mit Anlass, Berechnung, Höhe.
 - Mandantenakte mit Bewertungsgrundlagen.
-- Bei Pruefungspflicht: WP-Prüfer-Vorbereitung.
+- Bei Prüfungspflicht: WP-Prüfer-Vorbereitung.
 
 ## Strategie und Praxis-Tipps
 
-- Rueckstellungen sind Vorsichtsprinzip-Werkzeug — bei Pruefungspflicht WP-erfasst.
+- Rueckstellungen sind Vorsichtsprinzip-Werkzeug — bei Prüfungspflicht WP-erfasst.
 - § 5 Abs. 4a EStG kann zur Differenz Handels-/Steuerbilanz fuehren — bei Massgeblichkeit beachten.
 - Urlaubsrueckstellung ist Standardbestandteil — auch bei kleinen Mandanten zu bilden.
-- Bei Pruefungspflicht WP-Erlaeuterung der Bewertungs-Grundlagen wichtig.
+- Bei Prüfungspflicht WP-Erläuterung der Bewertungs-Grundlagen wichtig.
 
 ## Quellen und Updates
 

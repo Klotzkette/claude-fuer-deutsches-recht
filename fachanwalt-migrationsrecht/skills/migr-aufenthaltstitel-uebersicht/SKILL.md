@@ -73,7 +73,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 - **Visumumgehung**: § 5 II AufenthG; Heilungsmoeglichkeit bei Anspruch auf Erteilung (§ 5 II 2 AufenthG).
 - **Bestandskraft Versagung**: Klagefrist § 74 VwGO ein Monat nach Bekanntgabe.
 - **Aufenthaltserlaubnis vs. Fiktionsbescheinigung** § 81 IV AufenthG: rechtzeitige Verlaengerung sichert Status; verspaeteter Antrag = Statusverlust.
-- **Aenderung Aufenthaltszweck** § 7 AufenthG: nicht immer möglich; manchmal Ausreise und Neueinreise mit Visum noetig.
+- **Änderung Aufenthaltszweck** § 7 AufenthG: nicht immer möglich; manchmal Ausreise und Neueinreise mit Visum noetig.
 - **EU-Buerger und Familienangehoerige** Freizuegigkeit § 2 FreizuegG/EU; nicht AufenthG.
 - **Tuerkische Arbeitnehmer** Sonderrechte aus ARB 1/80.
 
@@ -81,10 +81,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

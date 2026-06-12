@@ -1,6 +1,6 @@
 ---
 name: oesterreich-vfgh-verhaeltnismaessigkeit
-description: Oesterreichische Verhaeltnismaessigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforderlichkeit Adaequanz nach Art 7 B-VG Gleichheit und EMRK-Pendants. Mit Gesetzesvorbehalt nach EMRK und Charta Wesensgehalt-Funktionsschutz Pruefung von einfachen Bundesgesetzen und Landesgesetzen ueber Art 140 B-VG und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher Lehre.
+description: Oesterreichische Verhältnismäßigkeitsdogmatik des Verfassungsgerichtshofs mit dem Drei-Stufen-Test Geeignetheit Erforderlichkeit Adaequanz nach Art 7 B-VG Gleichheit und EMRK-Pendants. Mit Gesetzesvorbehalt nach EMRK und Charta Wesensgehalt-Funktionsschutz Prüfung von einfachen Bundesgesetzen und Landesgesetzen ueber Art 140 B-VG und Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher Lehre.
 ---
 
 # Oesterreich VfGH Verhältnismäßigkeit
@@ -29,12 +29,12 @@ Lehre sehr nahen Form:
    erreichen.
 2. **Erforderlichkeit**: kein gleich wirksames milderes Mittel.
 3. **Adaequanz / Verhältnismäßigkeit im engeren Sinn**: kein
-   ueberlastetes Verhaeltnis zwischen Eingriff und Zweck.
+   ueberlastetes Verhältnis zwischen Eingriff und Zweck.
 
 Leading cases:
 
 - VfSlg 11.853/1988 (Methodische Verankerung der
-  Verhaeltnismaessigkeitspruefung im Sachlichkeitsgebot),
+  Verhältnismäßigkeitspruefung im Sachlichkeitsgebot),
 - VfSlg 12.485/1990 (Tabakwerbung),
 - VfSlg 14.802/1997 (Sicherheitsbehoerdliche Maßnahmen),
 - VfSlg 15.394/1998 und 17.071/2003 (Datenschutz und
@@ -74,7 +74,7 @@ Art 1 ZP 1 EMRK) und Erwerbsfreiheit (Art 6 StGG) etabliert.
 Bei oesterreichischen Bezuegen:
 
 - Verhältnismäßigkeit als Drei-Stufen-Test mit ausdruecklicher
-  Begruendung formulieren; deutsche Vier-Stufen-Prüfung uebersetzbar.
+  Begruendung formulieren; deutsche Vier-Stufen-Prüfung übersetzbar.
 - EMRK direkt zitieren, nicht über den Goerguelue-Umweg.
 - Sachlichkeitsgebot Art 7 B-VG als zentrale Verankerung benennen.
 - Bei COVID-Beschluessen VfSlg 20.397/2020 ff als methodisches

@@ -1,6 +1,6 @@
 ---
 name: tutela-fiduciaria-und-pflegevormundschaft-vermoegen
-description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht."
+description: "Tutela fiduciaria und Pflegevormundschaft: Vermögensverwaltung für Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix im Römisches Recht."
 ---
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen
@@ -21,7 +21,7 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 ## Tutela mulierum
 
 - Vormundschaft für erwachsene Frauen (mulieres sui iuris).
-- Eingeschraenkt auf Vermoegensverfuegungen (auctoritas).
+- Eingeschraenkt auf Vermögensverfuegungen (auctoritas).
 - Praktisch bedeutungslos ab dem Prinzipat.
 
 ## Cura minorum
@@ -46,7 +46,7 @@ description: "Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung f�
 - § 1837 BGB Genehmigung durch Vormundschaftsgericht.
 - § 1908i BGB Betreuung.
 
-## Pruefraster
+## Prüfraster
 
 1. Tutela oder cura?
 2. Pflichtverletzung des Tutor?

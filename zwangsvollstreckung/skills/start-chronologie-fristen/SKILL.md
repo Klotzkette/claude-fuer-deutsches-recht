@@ -110,7 +110,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `zv-abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel… |
-| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
+| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
 | `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch… |
 | `zv-kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und… |
 | `zv-kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt… |
@@ -131,17 +131,17 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Glaeubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid über Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
+Das Plugin begleitet die Zwangsvollstreckung aus der Perspektive beider Seiten: Gläubiger, die einen vorhandenen Titel vollstrecken wollen, und Schuldner, die sich gegen Vollstreckungsmassnahmen wehren. Es deckt das gesamte Spektrum der §§ 704 ff. ZPO ab: vom Mahnbescheid und Vollstreckungsbescheid über Pfaendungs- und Uebertragungsbeschluesse (PfUeB) bei Bankkonten und Arbeitseinkommen bis zur Raeumungsvollstreckung und zum ZVG-Antrag bei Immobilien.
 
 Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schuldnerschutz nach § 765a ZPO sowie § 802l-Kontensuche. Zielgruppe sind Anwaelte, Inkassobetriebe und Rechtspfleger.
 
 ## Wann brauchen Sie diese Skill?
 
-- Glaeubiger hat rechtskraeftiges Urteil oder anderen vollstreckbaren Titel und muss entscheiden, welche Vollstreckungsart am sinnvollsten ist.
-- Glaeubiger kennt weder Konto noch Arbeitgeber des Schuldners und muss Vermoegensauskunft oder Drittauskunft beantragen.
+- Gläubiger hat rechtskraeftiges Urteil oder anderen vollstreckbaren Titel und muss entscheiden, welche Vollstreckungsart am sinnvollsten ist.
+- Gläubiger kennt weder Konto noch Arbeitgeber des Schuldners und muss Vermögensauskunft oder Drittauskunft beantragen.
 - Schuldner hat unrechtmäßigen PfUeB erhalten oder ist besonders schutzbeduerftig (Krankheit, Suizidrisiko) und will Vollstreckungsschutz.
 - Vermieter hat rechtskraeftiges Raeumungsurteil und muss Gerichtsvollzieher beauftragen.
-- Glaeubiger will Immobilie des Schuldners versteigern lassen (ZVG-Antrag).
+- Gläubiger will Immobilie des Schuldners versteigern lassen (ZVG-Antrag).
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -150,7 +150,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 - **PfUeB** — Pfaendungs- und Uebertragungsbeschluss; richterlicher Beschluss, der Forderung des Schuldners gegenueber Drittschuldner pfaendet.
 - **P-Konto** — Pfaendungsschutzkonto; schuetzt Existenzminimum des Schuldners bei Kontopfaendung (§ 850k ZPO).
 - **Pfaendungsfreigrenze (§ 850c ZPO)** — Betrag des Arbeitseinkommens, der pfaendungsfrei bleibt; Pfaendungstabelle wird regelmaessig angepasst.
-- **Vermoegensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermögen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
+- **Vermögensauskunft (§ 802c ZPO)** — Pflicht des Schuldners, vollstaendiges Vermögen zu offenbaren; frueherer Name: Eidesstattliche Versicherung.
 - **ZVG** — Zwangsversteigerungsgesetz; Grundlage für Immobilienvollstreckung durch Versteigerung.
 - **EuKtPVO** — EU-Kontenpfaendungsverordnung (VO 655/2014); ermoeglicht vorläufige Kontenpfaendung in EU-Mitgliedstaaten.
 
@@ -162,7 +162,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 - §§ 808 ff. ZPO — Sachpfaendung (Mobiliarpfaendung)
 - §§ 829 835 850 ff. ZPO — Forderungspfaendung, Lohn- und Kontopfaendung
 - § 850k ZPO — Pfaendungsschutzkonto
-- § 802c ff. ZPO — Vermoegensauskunft, § 802l Drittauskunft
+- § 802c ff. ZPO — Vermögensauskunft, § 802l Drittauskunft
 - § 765a ZPO — Vollstreckungsschutz in Haertefall
 - § 885 ZPO — Raeumungsvollstreckung
 - ZVG — Zwangsversteigerung und Zwangsverwaltung
@@ -171,7 +171,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klären: Glaeubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
+1. Mandantenkonstellation klären: Gläubiger-Seite (Vollstreckung einleiten) oder Schuldner-Seite (Vollstreckung abwehren)?
 2. Titelstatus prüfen: Liegt ein vollstreckbarer Titel mit Klausel und Zustellung vor (§§ 704, 724, 750 ZPO)?
 3. Zielobjekt bestimmen: Bankkonto, Arbeitseinkommen, Mobiliarsachen, Immobilie oder sonstige Forderung?
 4. Passenden Skill auswaehlen (siehe Skill-Tour).
@@ -179,7 +179,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 
 ## Skill-Tour (was gibt es hier?)
 
-- `zv-kommandocenter` — Routing: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten? Ueberblick und Weiterleitung.
+- `zv-kommandocenter` — Routing: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten? Überblick und Weiterleitung.
 - `zv-mahnbescheid-online` — Mahnbescheid online beantragen und Vollstreckungsbescheid erwaerken nach §§ 688 ff. ZPO.
 - `zv-vollstreckungsbescheid-folge` — Nach Mahnbescheid: Vollstreckungsbescheid beantragen oder auf Widerspruch reagieren.
 - `zv-titel-klausel-zustellung` — Formale Trias prüfen: vollstreckbarer Titel, Vollstreckungsklausel, Zustellung an Schuldner.
@@ -188,7 +188,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 - `zv-pfueb-mieter-finanzamt` — PfUeB für Mietforderung, Steuererstattung oder sonstige Drittschuldner-Forderung.
 - `zv-pfaendungstabelle-2025` — Pfaendungsfreien Betrag nach aktueller Pfaendungstabelle (Stand 2025) konkret berechnen.
 - `zv-kontensuche-drittschuldner` — § 802l-Kontensuche und Drittauskunft wenn Konto oder Arbeitgeber des Schuldners unbekannt sind.
-- `zv-vermoegensauskunft-gv` — Vermoegensauskunft nach § 802c ZPO durch Gerichtsvollzieher beantragen.
+- `zv-vermoegensauskunft-gv` — Vermögensauskunft nach § 802c ZPO durch Gerichtsvollzieher beantragen.
 - `zv-mobiliar-gv-auftrag` — Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beauftragen (§§ 808 ff. ZPO).
 - `zv-raeumung-885` — Raeumungsvollstreckung nach § 885 ZPO; Gerichtsvollzieher-Auftrag, Berliner Raeumung.
 - `zv-notarielle-urkunde-grundschuld` — Vollstreckung aus notarieller Grundschuld-Urkunde nach § 794 Abs. 1 Nr. 5 ZPO.
@@ -202,7 +202,7 @@ Einbezogen sind auch EU-grenzueberschreitende Maßnahmen (EuKtPVO) und der Schul
 ## Worauf besonders achten
 
 - Formale Trias ist zwingend: Titel, Klausel und Zustellung müssen vollstaendig vorliegen, bevor Vollstreckung beginnt (§ 750 ZPO).
-- P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Glaeubiger muss Freibetrag-Erhoehung separat anfechten.
+- P-Konto-Schutz gilt automatisch, wenn Schuldner P-Konto eingerichtet hat; Gläubiger muss Freibetrag-Erhoehung separat anfechten.
 - Pfaendungsfreigrenzen werden jaehrlich angepasst (§ 850c ZPO); immer aktuelle Tabelle verwenden.
 - EU-Kontenpfaendung nach EuKtPVO setzt Zuständigkeit eines deutschen Gerichts voraus; Antrag hat eigene Formalien.
 - Haertefall-Antrag nach § 765a ZPO hemmt Vollstreckung nur bei sofortiger Antragstellung vor dem Vollstreckungstermin.

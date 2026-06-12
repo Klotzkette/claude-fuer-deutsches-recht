@@ -14,7 +14,7 @@ description: "Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
+**Fokus:** Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhörungsvorbereitung Mandanten-Kommunikation Korrespondenz Ausländerbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhörungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behördenkorrespondenz-Muster Anhörungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst.
 
 ### BAMF-Anhörung / Ausländerbehörde-Kommunikation
 
@@ -146,7 +146,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — BAMF-Anhörung Strategie vorbereiten | Stellungnahme nach Anhörung; Template unten |
 | Variante A — Anhörung ohne Anwalt stattgefunden | Ruege der Verfahrensverletzung; Wiederholungsanhoerung beantragen |
-| Variante B — Dolmetscher-Problem | Ruege Uebersetzungsfehler; qualifizierter Dolmetscher |
+| Variante B — Dolmetscher-Problem | Ruege Übersetzungsfehler; qualifizierter Dolmetscher |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -205,6 +205,6 @@ Anlagen: K1 [Beschreibung], K2 [...]
 
 <!-- AUDIT 27.05.2026
 Normenreferenz (Art. 15 Qualifikations-RL 2011/95/EU = subsidiärer Schutz / erheblicher Schaden),
-kein halluziniertes Urteil. Kein Loeschungs- oder Aenderungsbedarf;
+kein halluziniertes Urteil. Kein Loeschungs- oder Änderungsbedarf;
 die Formulierung bleibt unveraendert.
 -->

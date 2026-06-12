@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-sicherheitsauflage-be
-description: "Bodenabfertigungsdienstleister erhaelt LuftSiG-Auflage oder Betreiber-Auflage des Flughafens. Skill prueft LuftSiG § 7 Zuverlässigkeitsüberprüfung EU-DVO 2015/1998 BADV und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht."
+description: "Bodenabfertigungsdienstleister erhaelt LuftSiG-Auflage oder Betreiber-Auflage des Flughafens. Skill prüft LuftSiG § 7 Zuverlässigkeitsüberprüfung EU-DVO 2015/1998 BADV und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # Bodenabfertigung – Sicherheitsauflage bewerten

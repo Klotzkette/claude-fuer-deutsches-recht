@@ -7,7 +7,7 @@ description: "Ueberschuldung Paragraf 19 InsO BGH Ii Zr 129 16: fachanwaltlicher
 
 ## Einsatzlage
 
-Geschaeftsfuehrer prüft Ueberschuldung 2025; Fortbestehensprognose positiv?
+Geschäftsführer prüft Ueberschuldung 2025; Fortbestehensprognose positiv?
 
 ## Normenanker
 

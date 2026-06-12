@@ -3,7 +3,7 @@ name: actio-pauliana-glaeubigeranfechtung
 description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 B..."
 ---
 
-# Rom 115 Actio Pauliana Glaeubigeranfechtung
+# Rom 115 Actio Pauliana Gläubigeranfechtung
 
 ## Rechtsquelle
 
@@ -14,22 +14,22 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 ## Tatbestand
 
 ### Eventus damni
-- Vermoegensminderung des Schuldners durch das angefochtene Geschäft.
+- Vermögensminderung des Schuldners durch das angefochtene Geschäft.
 - Schuldner ist insolvent oder wird durch das Geschäft insolvent.
 
 ### Consilium fraudis (subjektiv Schuldnerseite)
-- Schuldner handelte in Glaeubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Glaeubiger.
+- Schuldner handelte in Gläubigerschaedigungsabsicht oder zumindest mit positivem Wissen um seine Insolvenz und der Konsequenz für die Gläubiger.
 - Bewusstsein der Schaedigung genuegt; Absicht nicht erforderlich (Ulpian D. 42.8.1).
 
 ### Scientia oder conscientia fraudis (Drittseite)
-- Bei entgeltlichen Geschaeften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen können.
-- Bei unentgeltlichen Geschaeften (Schenkung) entfaellt das Erfordernis — der unentgeltliche Erwerber wird ohne Wissen erfasst.
+- Bei entgeltlichen Geschäften muss der Dritte das consilium fraudis des Schuldners kennen oder bei Sorgfalt erkennen können.
+- Bei unentgeltlichen Geschäften (Schenkung) entfaellt das Erfordernis — der unentgeltliche Erwerber wird ohne Wissen erfasst.
 
 ## Klagebefugte
 
 - Magister bonorum (im Konkursverfahren).
 - Curator bonorum.
-- Einzelne Glaeubiger nach Konkurseroeffnung.
+- Einzelne Gläubiger nach Konkurseroeffnung.
 
 ## Frist
 
@@ -51,14 +51,14 @@ description: "Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckg
 ### InsO (Insolvenzordnung)
 - § 129 InsO Anfechtbarkeit von Rechtshandlungen.
 - § 131 InsO inkongruente Deckung.
-- § 132 InsO unmittelbare Glaeubigerbenachteiligung.
+- § 132 InsO unmittelbare Gläubigerbenachteiligung.
 - § 133 InsO Vorsatzanfechtung (10-Jahres-Frist).
 - § 134 InsO unentgeltliche Leistung (4-Jahres-Frist).
 
 ### BGB
-- § 138 Abs. 1 BGB Sittenwidrigkeit (bei besonders krasser Glaeubigerschaedigung).
+- § 138 Abs. 1 BGB Sittenwidrigkeit (bei besonders krasser Gläubigerschaedigung).
 
-## Pruefraster
+## Prüfraster
 
 1. Eventus damni vorhanden?
 2. Consilium fraudis nachweisbar?

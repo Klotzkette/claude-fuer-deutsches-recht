@@ -117,7 +117,7 @@ SEITE 4: EMPFEHLUNGSBLOCK
 
 - Standardisierter Report ist Kanzlei-Differenzierungsmerkmal — viele Steuerberater versenden noch nackte BWA, der Report hebt sich ab.
 - Template-Library pflegen: 3-5 Varianten je nach Mandantentyp (Solo, KMU, Mittelstand).
-- Bei wesentlichen Aenderungen Mandant per Telefon kurz vorabinformieren.
+- Bei wesentlichen Änderungen Mandant per Telefon kurz vorabinformieren.
 - StBVV: Reportgestaltung Zusatzauftrag oder Pauschalvereinbarung; nicht in Standard-Buchfuehrungspauschale.
 - DATEV-Tipp: DATEV Praesentation-Modul mit Vorlagen; bei Vollindividualisierung Excel/PowerPoint.
 - Mandantenwunsch in Erstgespraech klären: Detailtiefe, Frequenz, Versandkanal.

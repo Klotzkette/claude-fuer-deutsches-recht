@@ -1,6 +1,6 @@
 ---
 name: allgemeingenehmigung-agg-antidumping
-description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Z..."
+description: "Allgemeine Genehmigungen nach AWV: Auffinden und Prüfen der passenden Allgemeingenehmigung (AGG) für kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Z..."
 ---
 
 # Allgemeine Genehmigungen: Finder und Nutzungsbedingungen für Exportkontrolle
@@ -36,7 +36,7 @@ description: "Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passe
 - **§§ 8 ff. AWV**: Nationale Allgemeingenehmigungen.
 - **BAFA-Merkblatt Allgemeine Genehmigungen**: Anwendungshinweise.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Gueterlistencode vollstaendig ermittelt?
 - [ ] Zielland-Ausschlusslisten jeder AGG einzeln geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -25,7 +25,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 - **Konzept zur Evaluierung neuer Regelungsvorhaben** der Bundesregierung
 - **Leitfaden BMI / NKR** — Evaluierungsmodul
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Frist** waehlen — 3, 5 oder 10 Jahre (siehe Skill `nkr-evaluierung-befristung-sunset-klausel`)
 2. **Adressat** bestimmen — meist Bundestag
@@ -67,7 +67,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 
 ### Empfehlung in der Stellungnahme
 
-> "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten dieses Gesetzes die tatsaechlichen Auswirkungen anhand der Indikatoren Fallzahl, Erfuellungsaufwand, Zielereichung und unbeabsichtigte Folgen ueberprueft. Der Bericht ist dem Bundestag vorzulegen."
+> "Der NKR empfiehlt, eine Evaluierungsklausel aufzunehmen, die [3 / 5] Jahre nach Inkrafttreten dieses Gesetzes die tatsaechlichen Auswirkungen anhand der Indikatoren Fallzahl, Erfuellungsaufwand, Zielereichung und unbeabsichtigte Folgen überprüft. Der Bericht ist dem Bundestag vorzulegen."
 
 ### Argumentationsbausteine
 

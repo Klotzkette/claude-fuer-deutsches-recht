@@ -1,6 +1,6 @@
 ---
 name: konnossement-arrest-vorbereiten
-description: "Konnossement: Glaeubiger sichert Anspruch an Konnossements-Transaktion (Bill of Lading) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Voll..."
+description: "Konnossement: Gläubiger sichert Anspruch an Konnossements-Transaktion (Bill of Lading) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Voll..."
 ---
 
 # Konnossement – Arrest vorbereiten

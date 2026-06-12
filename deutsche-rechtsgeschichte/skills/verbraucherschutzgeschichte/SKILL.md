@@ -36,7 +36,7 @@ Verbraucherschutzrecht ist ein Kind des 20. Jahrhunderts. Das BGB 1900 kannte ke
 
 ## Kernnormen / Kernquellen
 
-- **AGBG 1976 (BGBl. I 1976, 3317)**: Allgemeine Geschaeftsbedingungen-Gesetz
+- **AGBG 1976 (BGBl. I 1976, 3317)**: Allgemeine Geschäftsbedingungen-Gesetz
 - **HaustuerWG 1986 (BGBl. I 1986, 122)**: Widerrufsrecht bei Haustuergeschaeften
 - **VerbrKrG 1990 (BGBl. I 1990, 2840)**: Verbraucherkreditgesetz
 - **BGB §§ 305-310** (nach SchuRModG 2002): AGB-Kontrolle im BGB

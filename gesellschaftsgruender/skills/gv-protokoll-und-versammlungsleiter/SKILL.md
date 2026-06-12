@@ -47,7 +47,7 @@ Klaere vor Erstellung und Prüfung des Protokolls:
 
 ## Prüfschema: Protokoll-Rechtmaessigkeit
 
-| Schritt | Pruefpunkt | Norm | Ergebnis |
+| Schritt | Prüfpunkt | Norm | Ergebnis |
 |---|---|---|---|
 | 1 | Alle Gesellschafter eingeladen und anwesend/vertreten? | § 51 GmbHG | Fehlt: Nichtigkeit |
 | 2 | Versammlungsleiter gewaehlt und protokolliert? | Satzung | Fehlt: Anfechtungsrisiko |
@@ -125,7 +125,7 @@ Schriftfuehrer: ___________ [NAME]
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Einladung vorab
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit über Beschlüsse

@@ -19,8 +19,8 @@ description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeff
 
 ## Bauwerk und Auftrag
 
-- Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Pruefzertifikat nach KfW-Merkblatt, Foerderbetrag 1.2 Mio. EUR, Auftraggeber Landkreis Bayern
-- Klaeranlage EFRE-Förderung: EU-EFRE-Programm Foerderbedingungen, Abnahmeprotokoll auf Deutsch und Englisch, Pruefpfade Foerdermittelgeber, Bausumme 18 Mio. EUR
+- Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Prüfzertifikat nach KfW-Merkblatt, Foerderbetrag 1.2 Mio. EUR, Auftraggeber Landkreis Bayern
+- Klaeranlage EFRE-Förderung: EU-EFRE-Programm Foerderbedingungen, Abnahmeprotokoll auf Deutsch und Englisch, Prüfpfade Foerdermittelgeber, Bausumme 18 Mio. EUR
 - Windpark Neubau Bundesfoerderung: BNetzA-Abnahme und KfW-Foerdernachweis, SAP PS Projektstruktur für Foerdermittelcontrolling, Bausumme 22 Mio. EUR
 
 ## Erste Schritte Abnahmeprotokoll öffentlicher Bau
@@ -37,18 +37,18 @@ description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeff
 - § 650p BGB, § 650q BGB: Architektenvertrag, Koordinationspflicht Abnahme und Foerdermittelnachweis
 - HOAI 2021 § 34 Anlage 10 LPH 8: Abnahme als Grundleistung, Foerdermittelkoordination als Besondere Leistung
 - VOB/B § 12 Abnahme: Abnahmeprotokoll-Pflicht, Maengelvorbehalt, Faelligkeiten, Verjährungsbeginn Maengelansprueche
-- KfW-Merkblatt Energieeffizient Sanieren und Bauen: Abnahmevoraussetzungen, Energieberater-Bestaetigung, Pruefzertifikat
-- EFRE-Verordnung EU 2021/1060 Dachverordnung: Verwendungsnachweis, Pruefpfad, Unabhaengige Prüfung Verwendung Foerdermittel
+- KfW-Merkblatt Energieeffizient Sanieren und Bauen: Abnahmevoraussetzungen, Energieberater-Bestaetigung, Prüfzertifikat
+- EFRE-Verordnung EU 2021/1060 Dachverordnung: Verwendungsnachweis, Prüfpfad, Unabhaengige Prüfung Verwendung Foerdermittel
 - GoBD BMF-Schreiben 2019: Grundsaetze ordnungsgemaesser DV-gestuetzter Buchfuehrungssysteme, revisionssichere Archivierung Foerderbelege
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Abnahmeprotokoll-Vollstaendigkeit: Alle VOB/B § 12 Angaben, Datum Fertigstellung und Abnahme, Mangelliste vollstaendig, Fristen schriftlich, Unterschriften aller Parteien
 2. Foerderantrag-Konformitaet: Je Foerderposition Nachweis Ausfuehrung nach Foerderbedingungen, z.B. KfW Daemmstandard Protokoll Energieberater
 3. Verwendungsnachweis-Vollstaendigkeit: Alle Rechnungsbelege vorhanden, SAP PS Ist-Kosten je Foerderposition ausgewertet, Foerderhoechstbetrag nicht ueberschritten
 4. eIDAS-Signatur-Prüfung: Qualifiziertes Zertifikat Signatur Zeitstempel, Verifikation durch Vertrauensdiensteanbieter
 5. Foerderantrag-Frist-Kontrolle: Einreichungsfrist Verwendungsnachweis nach Foerderrichtlinie beachtet, typisch 6 Monate nach Abnahme
-6. SAP FI Buchung: Foerdermitteleingang als Sonderposten, korrekte Kontengruppe, Kostenstellen-Zuordnung, Pruefbericht Wirtschaftspruefer
+6. SAP FI Buchung: Foerdermitteleingang als Sonderposten, korrekte Kontengruppe, Kostenstellen-Zuordnung, Prüfbericht Wirtschaftspruefer
 
 ## Foto-, Video- und Dokumentenanalyse
 
@@ -61,7 +61,7 @@ description: "Methodikskill HOAI LPH 8 — Abnahmeprotokoll-Erstellung für oeff
 ## Meldungserstellung im ERP / SAP
 
 - SAP PS Abnahme-Meilenstein gesetzt: Transaktionscode CJ20N, Meilenstein ABNAHME-GESAMT mit Datum, automatische Zahlungsfreigabe Schlusszahlung ausgeloest
-- SAP FI Foerdermittel-Buchung: Sonderposten KfW-Zuschuss, Kontengruppe Foerdermittel, Kostenstellen-Zuweisung Projekt, Wirtschaftspruefer-Pruefpfad
+- SAP FI Foerdermittel-Buchung: Sonderposten KfW-Zuschuss, Kontengruppe Foerdermittel, Kostenstellen-Zuweisung Projekt, Wirtschaftspruefer-Prüfpfad
 - SAP PM Abschluss aller offenen Meldungen: Alle M2-Meldungen vor Abnahme geschlossen oder mit Vorbehalt, Abnahme-Datum als Verjährungsbeginn eingetragen
 - SAP PS Schlussrechnung-Freigabe: Endabrechnung nach Aufmass, Freigabe Projektleiter digital, Zahlungsvorschlag FI-AP, Zahlungstermin VOB/B § 16 Abs. 3
 - Workflow: Abnahme-Begehung, Protokoll Dalux, eIDAS-Signatur, PDF BIM360, SAP PS Meilenstein, SAP FI Buchung, Foerderantrag Upload, Foerdermittelgeber Bestätigung

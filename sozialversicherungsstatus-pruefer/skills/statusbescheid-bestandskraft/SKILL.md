@@ -1,6 +1,6 @@
 ---
 name: statusbescheid-bestandskraft
-description: "Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Pruefer."
+description: "Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz im Sozialversicherungsstatus Prüfer."
 ---
 
 # Statusbescheid und Bestandskraft

@@ -131,7 +131,7 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Pruefrahmen für Ihren Berufsstand.
+- Sie prufen erstmals einen Vertrag mit einem KI-Anbieter und benoetigen einen strukturierten Prüfrahmen für Ihren Berufsstand.
 - Ein KI-Dienstleister hat seinen Server in den USA und Sie wollen prüfen, ob der US CLOUD Act oder FISA ein Risiko darstellt.
 - Sie moechten einen Rueckfragebrief an den Anbieter schreiben, um fehlende Vertragsklauseln zu Verschwiegenheit, Subunternehmern und Datenloeschung nachzufordern.
 - Sie sollen ein zusammenfassendes Gutachten für die Kanzleifuehrung erstellen, bevor ein KI-Tool eingefuehrt wird.
@@ -145,7 +145,7 @@ Kernproblem ist das Spannungsfeld zwischen dem Wunsch nach KI-Effizienzgewinnen 
 - **No-Training-Klausel** — Vertragliche Zusage des Anbieters, Mandatsdaten nicht zum Trainieren von KI-Modellen zu verwenden.
 - **Zero-Retention** — Zusage, Daten nicht dauerhaft zu speichern; relevant für Loeschkonzept und Audit-Rechte.
 - **Cloud Act** — US-amerikanisches Gesetz, das US-Behörden Zugriff auf bei US-Unternehmen gespeicherte Daten ermoeglichen kann, auch wenn Server in der EU stehen.
-- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts für Sicherheit in der Informationstechnik; anerkannter Pruefstandard.
+- **BSI C5** — Cloud Computing Compliance Criteria Catalogue des Bundesamts für Sicherheit in der Informationstechnik; anerkannter Prüfstandard.
 - **Norm-Adapter** — Mechanismus im Plugin, der je nach Berufsstand (BRAO, StBerG, WPO, PAO, BNotO) die einschlaegige Dienstleisterregelung auswaehlt.
 
 ## Rechtsgrundlagen

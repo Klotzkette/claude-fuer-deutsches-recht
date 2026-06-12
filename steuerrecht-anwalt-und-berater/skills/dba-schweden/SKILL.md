@@ -32,7 +32,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 
 ### Primaernormen
 - **DBA Deutschland-Schweden vom 14.07.1992**, in Kraft 13.10.1994, anwendbar ab 01.01.1995 (BGBl. 1994 II S. 686; BStBl. 1994 I S. 422).
-- Aenderungsprotokoll (BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66).
+- Änderungsprotokoll (BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MTRL**, **ZinsLizenzRL**.
@@ -85,7 +85,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 ## Praktiker-Tipps der alten Hasen
 
 - **Erstattungsverfahren SE → DE-Mandant**: Antrag bei Skatteverket (Schwedische Steuerverwaltung); Online-Portal "Mina sidor" (vom Anwender mit aktuellem Stand des schwedischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung "Hemvistintyg" der Skatteverket als Anlage.
-- **Sprache des DBA**: Authentische Textfassungen Deutsch und Schwedisch. Konsolidierter Text mit Aenderungsprotokoll BGBl. 2023 II Nr. 307 / 2024 II Nr. 66.
+- **Sprache des DBA**: Authentische Textfassungen Deutsch und Schwedisch. Konsolidierter Text mit Änderungsprotokoll BGBl. 2023 II Nr. 307 / 2024 II Nr. 66.
 - **Lokaler Berater**: Bei schwedischer AB (Aktiebolag) mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines schwedischen "skattekonsult" (Steuerberater); SE hat sehr digitalisierte Verwaltung und ausgepraegtes Naerings­betingad-System.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (SE seit 1995).
 
@@ -94,7 +94,7 @@ Das DBA-Schweden vom 14.07.1992 (BGBl. 1994 II S. 686, in Kraft 13.10.1994, anwe
 - **Naeringsbetingad-Status (Beteiligungsgesellschaft) SE**: Schwedisches Sondersteuerregime für Beteiligungserloese — Veraeusserung von Anteilen schwedischer Gesellschaften steuerfrei bei naeringsbetingad-Qualifikation. Äquivalent zu § 8b KStG. Bei deutschen Investoren in SE-Holdings: doppelte Steuerbefreiung-Risiko, § 4k EStG-Prüfung.
 - **Pension ATP/Tjaenstepension/Allgemeine Rente**: SE-Pensionssystem dreischichtig — Garantirente (Grundrente), Inkomstpension (einkommensabhaengig) und Tjaenstepension (Arbeitsplatzrente). DBA Art. 18 differenziert nach Quelle.
 - **Wegzug DE → SE**: § 6 AStG, SE ist EU — Stundung erleichtert; SE-Eingangsbesteuerung prüfen ("expatriate"-Regelung).
-- **Aenderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu prüfen.
+- **Änderungsprotokoll 2023/2024**: Anpassungen zur Bekaempfung von Hybridgestaltungen — vom Anwender mit konsolidiertem Text zu prüfen.
 - **MLI ratifiziert**: PPT-Klausel anwendbar.
 
 ## Trade-offs
@@ -122,7 +122,7 @@ Bei Hauptanwendungsfall naeringsbetingad-Veraeusserung: SE-AB veraeussert Anteil
 2. **Strukturierung**: Bei Holding naeringsbetingad-Status und § 4k EStG-Prüfung; bei Pension Art. 18 Wohnsitzstaat vs. Kassenstaat.
 3. **Antraege**: Ansaessigkeitsbescheinigung Skatteverket; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: SE-Erklaerung digital sehr ausgereift; DE-Erklaerung mit Anrechnung passive bzw. Freistellung mit Progressionsvorbehalt aktive.
-5. **Audit-Vorbereitung**: SE-Prüfung digital effizient; DE-FA-Prüfung § 4k EStG bei naeringsbetingad und Aenderungsprotokoll 2023/2024.
+5. **Audit-Vorbereitung**: SE-Prüfung digital effizient; DE-FA-Prüfung § 4k EStG bei naeringsbetingad und Änderungsprotokoll 2023/2024.
 
 ## Ausgabeformat für Mandanten-Memo Schweden
 
@@ -139,15 +139,15 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
  - § 4k EStG bei Hybridmismatch.
  - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
-6. **Risiken / offene Punkte**: Aenderungsprotokoll 2023/2024, § 50d Abs. 3 EStG, MLI-Anwendung.
+6. **Risiken / offene Punkte**: Änderungsprotokoll 2023/2024, § 50d Abs. 3 EStG, MLI-Anwendung.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
 ## Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Schweden 1992 mit Aenderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Schweden 1992 mit Änderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Aenderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
+Stand: 05/2026. DBA-Schweden 14.07.1992, in Kraft 13.10.1994 (BGBl. 1994 II S. 686). Änderungsprotokoll: BGBl. 2023 II Nr. 307, in Kraft BGBl. 2024 II Nr. 66. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 3 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

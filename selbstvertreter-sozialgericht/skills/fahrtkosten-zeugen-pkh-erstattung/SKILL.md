@@ -55,7 +55,7 @@ JVEG-Saetze (aktuell prüfen):
 - Tagegeld bei langer Abwesenheit
 - Verdienstausfall (bis zu festgesetzte Höhe)
 
-Antrag direkt nach Termin bei der Geschaeftsstelle stellen. Formular vorhanden.
+Antrag direkt nach Termin bei der Geschäftsstelle stellen. Formular vorhanden.
 
 ### Schritt 3 — Eigene Fahrt-Kosten als Kläger
 
@@ -91,7 +91,7 @@ Anlagen: Tankquittung, Routenplaner
 [Unterschrift]
 ```
 
-Hinweis: Der km-Satz nach JVEG kann sich ändern; prüfen Sie den aktuellen Wert bei der Geschaeftsstelle des SG oder im JVEG.
+Hinweis: Der km-Satz nach JVEG kann sich ändern; prüfen Sie den aktuellen Wert bei der Geschäftsstelle des SG oder im JVEG.
 
 ### Schritt 6 — Bei langem Termin / weiter Anreise
 

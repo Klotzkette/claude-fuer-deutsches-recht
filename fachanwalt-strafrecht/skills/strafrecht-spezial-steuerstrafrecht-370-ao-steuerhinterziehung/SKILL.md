@@ -18,7 +18,7 @@ description: "Steuerhinterziehung nach Paragraph 370 AO: Vorsatztatbestand mit V
 
 ## Worum geht es
 
-Paragraph 370 AO ist das **zentrale Strafdelikt des deutschen Steuerstrafrechts**. Vorsaetzliches Verkuerzen oder Erlangen ungerechtfertigter Steuervorteile durch unrichtige Angaben, pflichtwidriges Verschweigen oder pflichtwidriges Unterlassen. Geschuetztes Rechtsgut: Steueraufkommen des Bundes, der Länder und der Gemeinden. Anders als bei Paragraph 263 StGB (Vermoegensschaden) genuegt die Verkuerzung; Bereicherungsabsicht ist nicht erforderlich.
+Paragraph 370 AO ist das **zentrale Strafdelikt des deutschen Steuerstrafrechts**. Vorsaetzliches Verkuerzen oder Erlangen ungerechtfertigter Steuervorteile durch unrichtige Angaben, pflichtwidriges Verschweigen oder pflichtwidriges Unterlassen. Geschuetztes Rechtsgut: Steueraufkommen des Bundes, der Länder und der Gemeinden. Anders als bei Paragraph 263 StGB (Vermögensschaden) genuegt die Verkuerzung; Bereicherungsabsicht ist nicht erforderlich.
 
 Anwendungsfaelle: Schwarzgeld auf Schweizer Konto, Erloese nicht erklaert; Umsatzsteuer-Karussell; Scheinrechnungen zur Gewinnminderung; Unterlassen der Steuererklaerung trotz Pflicht; Manipulation von Kassen­einnahmen in der Gastronomie. **Paragraph 378 AO leichtfertige Steuerverkuerzung ist OWi und kein Strafrecht — das ist die zentrale Abgrenzung.**
 
@@ -57,11 +57,11 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 ## Praktikertipps Verteidigung
 
 - **Vorsatz konsequent angreifen.** Bei komplexen Steuersachverhalten (z. B. internationale Strukturen, Umsatzsteuer-Karussell-Vorstrukturen) ist Vorsatz schwer zu beweisen. Steuerberatung dokumentieren — fuehrt regelmaessig zu Vorsatzausschluss oder Strafmilderung.
-- **Verkuerzungsbetrag bestreiten.** Selbstaendige Schaetzung der Finanzbehoerde nach Paragraph 162 AO ist nicht bindend für das Strafgericht. Substantiierte Gegenrechnung, ggf. mit Steuerberater. Bei Schwarzeinnahmen-Vorwuerfen: Gegenrechnungen zu Betriebsausgaben, USt-Vorsteuerabzug.
+- **Verkuerzungsbetrag bestreiten.** Selbständige Schaetzung der Finanzbehoerde nach Paragraph 162 AO ist nicht bindend für das Strafgericht. Substantiierte Gegenrechnung, ggf. mit Steuerberater. Bei Schwarzeinnahmen-Vorwuerfen: Gegenrechnungen zu Betriebsausgaben, USt-Vorsteuerabzug.
 - **Schwelle "großes Ausmass" 50.000 Euro je Tat.** Tat im prozessualen Sinn = ein Veranlagungszeitraum, eine Steuerart. Bei mehreren Veranlagungszeitraeumen Summierung nicht zulässig (BGH-Rspr.); Strafverfolgung muss je Tat schwelle prüfen.
 - **Selbstanzeige Paragraph 371 AO** als zentrale Verteidigungsstrategie — siehe Fachmodul. Strenge Voraussetzungen seit Reform 2015.
 - **Korrekturanzeige Paragraph 153 AO.** Nachtraegliche Berichtigung pflichtwidriger Angaben ist gesetzliche Pflicht; bei rechtzeitiger Korrektur tritt Vorsatzausschluss ein.
-- **Verbotsirrtum bei internationalen Strukturen.** Mandant glaubte, auslaendische Konstruktion sei legal; Beratung durch Steuerberater oder Anwalt entlastet.
+- **Verbotsirrtum bei internationalen Strukturen.** Mandant glaubte, ausländische Konstruktion sei legal; Beratung durch Steuerberater oder Anwalt entlastet.
 
 ## Trade-off-Matrix
 
@@ -85,7 +85,7 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 - **Einziehung Paragraph 73 StGB** der hinterzogenen Steuer; Wertersatz Paragraph 73c StGB.
 - **Steuerliche Nachforderung** plus Hinterziehungszinsen Paragraph 235 AO (6 Prozent jaehrlich); Solidaritaetszuschlag; ggf. Nebenleistung.
 - **Berufsverbot Paragraph 70 StGB** bei Steuerberatern.
-- **Sperre als Geschaeftsfuehrer Paragraph 6 Abs 2 GmbHG** bei Verurteilung wegen Steuerstraftat (Paragraph 6 GmbHG nur bei Insolvenzstraftaten direkt).
+- **Sperre als Geschäftsführer Paragraph 6 Abs 2 GmbHG** bei Verurteilung wegen Steuerstraftat (Paragraph 6 GmbHG nur bei Insolvenzstraftaten direkt).
 - BZRG-Eintrag bei Geldstrafe über 90 Tagessaetzen.
 
 ## Mustertexte

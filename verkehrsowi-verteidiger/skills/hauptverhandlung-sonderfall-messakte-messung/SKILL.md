@@ -47,10 +47,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Sonderfall 4: Mehrfachverstoss / Tatmehrheit § 19 OWiG:**
  - Mehrere OWi in einer Handlung -> Tateinheit, Strafmass einheitlich.
  - Mehrere getrennte Verstoesse -> Tatmehrheit, Strafe je Verstoss; ggf. Gesamtgeldbuesse.
-- **Sonderfall 5: Auslaendischer Betroffener:**
+- **Sonderfall 5: Ausländischer Betroffener:**
  - Halterauskunft über EU-Mitgliedstaat möglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
  - Dolmetscher § 185 GVG erforderlich.
- - Verkuendung schriftlich + Uebersetzung beruecksichtigen.
+ - Verkuendung schriftlich + Übersetzung beruecksichtigen.
 - **Sonderfall 6: Mehrere Betroffene (Halter + Fahrer):**
  - Halterauskunftspflicht § 31a StVZO; Fahrtenbuchauflage bei Nichtermittelbarkeit.
  - Interessenkollisionen Vertretung beider durch denselben Anwalt § 138 StGB / § 43a Abs. 4 BRAO.

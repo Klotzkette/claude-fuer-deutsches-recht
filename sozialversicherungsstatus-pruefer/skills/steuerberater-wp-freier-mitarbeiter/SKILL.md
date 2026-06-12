@@ -1,6 +1,6 @@
 ---
 name: steuerberater-wp-freier-mitarbeiter
-description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien im Sozialversicherungsstatus Pruefer."
+description: "Prüft freie Mitarbeit in Steuerberater- oder Wirtschaftsprüferkanzleien mit Berufsrecht und Statusindizien im Sozialversicherungsstatus Prüfer."
 ---
 
 # Freier Mitarbeiter Steuerberater/WP

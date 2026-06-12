@@ -1,6 +1,6 @@
 ---
 name: ueberkleben-sachbeschaedigung
-description: "Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate prüfen im Wahlkampfrecht."
 ---
 
 # Ueberkleben Sachbeschaedigung

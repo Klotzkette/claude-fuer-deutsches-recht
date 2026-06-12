@@ -43,14 +43,14 @@ Tiefgaragen erfordern zudem CO-Abzugsanlage nach VDI 2053 und Brandschutzabschni
 - DAfStb-Richtlinie Wasserundurchlaessige Bauwerke aus Beton WU: Anwendungsregeln
 - VDI 2053 Lueftungstechnische Anlagen für Garagen: Volumenstroeme, CO-Konzentrationen
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Betonguete Parkdeck: Frischbetonpruefung je Fahrmischer, Chloridgehalt kleiner 0.4 Prozent
 2. Betondeckung Bewehrung: min. 4 cm Aussenseite XD3, Messprotokoll Betondeckungsmesser
 3. Abdichtung Parkdeck: Schichtdicke (Dualscope), Haftzug min. 0.8 N/mm, Blasenfreiheit visuell
 4. Fugenkonstruktion: Montage-Klemmprofil, Vorspannmomente, Dichtheitspruefung Wasseraufspritz
-5. CO-Sensor: Kalibrierung Pruefprotokoll, Alarmwert 30 ppm, Abluftanlage Schaltung
-6. Weisse Wanne: Rissbreite-Messung Rissmass, max. 0.2 mm bei WU-Bauweise, Pruefkarte
+5. CO-Sensor: Kalibrierung Prüfprotokoll, Alarmwert 30 ppm, Abluftanlage Schaltung
+6. Weisse Wanne: Rissbreite-Messung Rissmass, max. 0.2 mm bei WU-Bauweise, Prüfkarte
 
 ## Foto-, Video- und Dokumentenanalyse
 

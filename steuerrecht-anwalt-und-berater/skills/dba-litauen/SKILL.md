@@ -15,7 +15,7 @@ description: "DBA Deutschland Litauen 1997. Anwendungsfall Mittelstand Logistik 
 
 ## Kernsachverhalt
 
-Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum EU-Mitglied Litauen (Beitritt 2004, Euro 2015). Praxisrelevant sind Logistikbranche (Hafen Klaipeda), Fintech (litauische E-Money-Lizenzen), Holding-Strukturen.
+Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhältnis zum EU-Mitglied Litauen (Beitritt 2004, Euro 2015). Praxisrelevant sind Logistikbranche (Hafen Klaipeda), Fintech (litauische E-Money-Lizenzen), Holding-Strukturen.
 
 ## Kaltstart-Rueckfragen
 
@@ -62,7 +62,7 @@ Das DBA-Litauen vom 22.07.1997 (BGBl. 1998 II S. 84) regelt das Verhaeltnis zum 
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4).
 2. Sachliche Anwendbarkeit (Art. 2).
@@ -88,7 +88,7 @@ BZSt-Verfahren: Freistellung/Erstattung § 50c EStG über BOP; Ansaessigkeitsbes
 
 ## Edge Cases und Was-Prüfer-Triggert
 
-- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit über 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschaeftsfuehrer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch für Treaty-Schutz § 50d Abs. 3 EStG.
+- **Fintech-Lizenzen LT (E-Money, Payment Institution)**: Litauen ist EU-Fintech-Hotspot mit über 200 lizenzierten Fintech-Unternehmen. Lizenz der Bank of Lithuania erfordert Substanz vor Ort (Geschäftsführer, Mitarbeiter, Compliance) — diese Substanz reicht regelmaessig auch für Treaty-Schutz § 50d Abs. 3 EStG.
 - **LT-KSt 15 Prozent (Stand 2025)**: knapp über AStG-Niedrigsteuerschwelle 15 Prozent — keine CFC-Probleme bei Standard-Kt. Kleine Gesellschaften (Mikrounternehmen) können reduzierte Saetze haben.
 - **Pillar Two seit 2024**: LT hat umgesetzt — Top-Up auf 15 Prozent für Konzerne über 750 Mio EUR Umsatz. Bei LT-Standard 15 Prozent regelmaessig kein Top-Up.
 - **Logistik Hafen Klaipeda**: bei langfristigen Logistik-/Speditionsaktivitaeten BS-Prüfung; insbesondere Lagerhaltung kann BS begruenden (Art. 5).

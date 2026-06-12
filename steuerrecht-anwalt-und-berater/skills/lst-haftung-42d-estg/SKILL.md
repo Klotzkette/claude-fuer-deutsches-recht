@@ -1,6 +1,6 @@
 ---
 name: lst-haftung-42d-estg
-description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproble..."
+description: "Detaillierte Prüfung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproble..."
 ---
 
 # Lohnsteuerhaftung des Arbeitgebers — § 42d EStG
@@ -25,7 +25,7 @@ description: "Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Ar
 - **§ 42d EStG** — Haftung des Arbeitgebers.
 - **§ 41a EStG** — Lohnsteuer-Anmeldung.
 - **§ 40 EStG** — Pauschalierung der Lohnsteuer.
-- **§ 40a EStG** — Pauschalierung bei Teilzeit und geringfuegig Beschaeftigten.
+- **§ 40a EStG** — Pauschalierung bei Teilzeit und geringfuegig Beschäftigten.
 - **§ 40b EStG** — Pauschalierung bei Direktversicherungen.
 - **§ 191 AO** — Verfahren Haftungsbescheid.
 

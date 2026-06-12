@@ -1,11 +1,11 @@
 ---
 name: bmukn-naturschutz-und-artenschutzrecht
-description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Natur..."
+description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschäftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Länder-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Natur..."
 ---
 
 # Naturschutz- und Artenschutzrecht (BMUKN)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Naturschutz- und Artenschutzrecht im Geschäftsbereich BMUKN. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich
 
 Kernbestand des Sachfelds: BNatSchG; NatschGesetze der Länder; CITES; BJagdG (Schnittstelle).
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Wiederherstellungs-VO; Konflikt Planung versus Naturschutz; FFH-Vertraegelichkeitspruefung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

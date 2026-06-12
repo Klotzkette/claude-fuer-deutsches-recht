@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmwe
-description: "Ressortaufgaben BMWE: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Wirtschaft und Energie. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung u..."
+description: "Ressortaufgaben BMWE: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Wirtschaft und Energie. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung u..."
 ---
 
 # Ressortaufgaben BMWE
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMWE: typische Legistik-Aufgaben im Geschaeftsbere
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMWE
 - Ressort-Kompass aus `legw-ressort-bmwe`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

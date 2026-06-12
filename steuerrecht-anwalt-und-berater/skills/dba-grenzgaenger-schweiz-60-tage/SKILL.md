@@ -15,7 +15,7 @@ description: "Grenzgaengerregelung DBA Schweiz Art. 15a mit 60-Tage-Schaedlichke
 
 ## Kernsachverhalt
 
-Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm für einen sehr großen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemäß Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.
+Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Änderungsprotokoll vom 12.03.2002) ist zentrale Anwendungsnorm für einen sehr großen Pendlerkreis aus Suedbaden, Baden-Wuerttemberg und Bayern, die in der Schweiz arbeiten (die in der Tagespresse haeufig zitierte Pendlerzahl ist nicht Bestandteil dieses Skills und gehoert nicht in Mandanten-Memos). Anders als bei Frankreich gibt es keine geographische 20-km-Zone, aber eine 60-Tage-Schaedlichkeit. Bei Erfuellung greift Wohnsitzstaat-Besteuerung mit gleichzeitiger Schweizer Quellensteuer (typischerweise 4,5 Prozent gemäß Art. 15a DBA-Schweiz — Satz aus DBA-Text und ggf. abweichender Konsultationsvereinbarung verifikationspflichtig), die in Deutschland nach § 34c EStG angerechnet wird.
 
 ## Kaltstart-Rueckfragen
 
@@ -31,7 +31,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Schweiz vom 11.08.1971** (BGBl. 1972 II S. 1021/1022), **Art. 15a** in der Fassung Aenderungsprotokoll vom 12.03.2002 (BGBl. 2003 II S. 68).
+- **DBA Deutschland-Schweiz vom 11.08.1971** (BGBl. 1972 II S. 1021/1022), **Art. 15a** in der Fassung Änderungsprotokoll vom 12.03.2002 (BGBl. 2003 II S. 68).
 - **§ 1 EStG, § 49 EStG**.
 - **§ 34c EStG** Anrechnung Schweizer Quellensteuer.
 - **Konsultationsvereinbarung Home-Office Deutschland-Schweiz** vom 11.06.2020 und Folgevereinbarungen — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
@@ -124,7 +124,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei strittigen 60-Tage-Verhaeltnissen mit substanziellen Reisetagen, bei Mischfaellen Home-Office/Drittlandsreise, bei zweiter/dritter Saeule-Auszahlung, bei Wegzug. Schweizer Treuhaender in Basel/Zuerich/Schaffhausen mit DE-Grenzgaenger-Mandantenschaft.
+- **Empfehlung**: bei strittigen 60-Tage-Verhältnissen mit substanziellen Reisetagen, bei Mischfaellen Home-Office/Drittlandsreise, bei zweiter/dritter Saeule-Auszahlung, bei Wegzug. Schweizer Treuhaender in Basel/Zuerich/Schaffhausen mit DE-Grenzgaenger-Mandantenschaft.
 
 ### Sprache
 
@@ -135,7 +135,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Grenzgaengerstatus halten (max. 60 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung DE mit CH-Quellensteuer 4,5 Prozent | Schaedlichkeitsverletzung — Art. 15 OECD-MA mit voller CH-Besteuerung und Anrechnung in DE | bei stabilen 60-Tage-Verhaeltnissen Status klar guenstiger (deutscher Tarif typischerweise niedriger als CH-kantonal+Bund) |
+| Grenzgaengerstatus halten (max. 60 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung DE mit CH-Quellensteuer 4,5 Prozent | Schaedlichkeitsverletzung — Art. 15 OECD-MA mit voller CH-Besteuerung und Anrechnung in DE | bei stabilen 60-Tage-Verhältnissen Status klar guenstiger (deutscher Tarif typischerweise niedriger als CH-kantonal+Bund) |
 | Wohnsitz DE + Arbeit CH (Grenzgaenger) vs. Wohnsitz CH (Wegzug) | DE-Besteuerung mit CH 4,5 Prozent QSt anrechenbar | CH-Wohnsitz mit kantonalen Saetzen (Zug niedrig, Genf hoch); aber § 6 AStG-Wegzugssteuer | bei stillen Reserven Wegzug teuer; bei Karriere CH-Wohnsitz bei Zug/Schwyz attraktiv |
 | Home-Office (in DE) vs. Buero (in CH) | Home-Office-Tage in DE — nach Konsultationsvereinbarung als Rueckkehrtag qualifizierbar | Buero in CH — schaedlich, wenn keine Heimkehr | Konsultationsvereinbarung prüfen; Heimkehr-Praxis aktualisieren |
 | Mehrtaegige Dienstreise (3 Tage in CH bei Konferenz) vs. tagsueber-Reise (Heimkehr abends) | 3 schaedliche Tage | 0 schaedliche Tage | bei Konferenzen mit Heimkehr-Option vorab planen |
@@ -155,7 +155,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 ## Berechnungsbeispiel — Grenzgaenger Loerrach-Basel
 
-> Mandant Wohnsitz Loerrach (DE), Arbeit in Basel (CH) bei CH-Bank. Bruttolohn 140.000 CHF p.a. = ca. 145.000 EUR. 35 Home-Office-Tage in Loerrach (gemäß Konsultationsvereinbarung als Heimkehrtage qualifizierbar), 25 Geschaeftsreisen-Tage in CH ausserhalb Basel (über Nacht), 20 Drittlands-Geschaeftsreisen (3 Tage durchschnittlich = 60 Nights — STOP).
+> Mandant Wohnsitz Loerrach (DE), Arbeit in Basel (CH) bei CH-Bank. Bruttolohn 140.000 CHF p.a. = ca. 145.000 EUR. 35 Home-Office-Tage in Loerrach (gemäß Konsultationsvereinbarung als Heimkehrtage qualifizierbar), 25 Geschäftsreisen-Tage in CH ausserhalb Basel (über Nacht), 20 Drittlands-Geschäftsreisen (3 Tage durchschnittlich = 60 Nights — STOP).
 >
 > Schritt 1: 60 Drittlandsreisenaechte ergaeben bereits 60 schaedliche Tage. Plus 25 CH-Reisenaechte = 85 schaedliche Tage. Schaedlichkeitsverletzung.
 >
@@ -167,7 +167,7 @@ Die Grenzgaengerregelung Art. 15a DBA-Schweiz (eingefuehrt durch Aenderungsproto
 
 ## Berechnungsbeispiel — saubere Grenzgaenger-Konstellation
 
-> Gleicher Mandant, aber nur 30 schaedliche Tage (15 Geschaeftsreisen CH ausserhalb Basel, 15 Drittlandsreisen, je 1 Nacht). 250 Bueroarbeitstage Basel mit taeglicher Heimkehr, 35 Home-Office Loerrach.
+> Gleicher Mandant, aber nur 30 schaedliche Tage (15 Geschäftsreisen CH ausserhalb Basel, 15 Drittlandsreisen, je 1 Nacht). 250 Bueroarbeitstage Basel mit taeglicher Heimkehr, 35 Home-Office Loerrach.
 >
 > Schritt 1: 30 schaedliche Tage unter 60-Tage-Schwelle. Grenzgaengerstatus erfuellt.
 >

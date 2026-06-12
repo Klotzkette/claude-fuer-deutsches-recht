@@ -28,14 +28,14 @@ description: "Norm- und Dogmatik-Skill für Gesetzliches Leitbild Abweichung 307
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus § 307 Abs. 2 Nr. 1 BGB (Abweichung vom gesetzlichen Leitbild):**
  - **Tatbestand:** Eine AGB-Klausel ist im Zweifel unangemessen, wenn sie mit wesentlichen Grundgedanken der gesetzlichen Regelung, von der abgewichen wird, nicht zu vereinbaren ist.
- - **Pruefschritte:**
+ - **Prüfschritte:**
  - **(a)** Welches gesetzliche Leitbild greift (dispositiv vs. dispositiv-zwingend)? Beispiel: § 433 BGB Pflichten beim Kauf, § 631 BGB Werkpflichten, § 280 BGB Schadenersatz nur bei Verschulden.
  - **(b)** Welche wesentlichen Grundgedanken ergeben sich aus dem Leitbild? Beispiel: Verschuldenshaftung statt Gefaehrdungshaftung; Äquivalenz zwischen Leistung und Gegenleistung.
  - **(c)** Wird von diesen Grundgedanken abgewichen? Reine Praezisierungen sind unkritisch; substantielle Verschiebungen sind kritisch.
- - **(d)** Liegt eine "unangemessene" Benachteiligung vor? Massstab: Treu und Glauben (§ 242 BGB).
+ - **(d)** Liegt eine "unangemessene" Benachteiligung vor? Maßstab: Treu und Glauben (§ 242 BGB).
  - **Indizwirkung:** § 307 Abs. 2 Nr. 1 BGB schafft eine Indizwirkung; widerlegbar bei substantieller Begruendung des Verwenders (z.B. besondere Risikoallokation, Massengeschaeft-Effizienz).
  - **Beispiele unwirksamer Leitbild-Abweichung:**
- - Verschuldensunabhaengige Haftung des Kunden bei verspaeteter Annahme (Abweichung von §§ 286, 304 BGB Aenderung der Risikotragung).
+ - Verschuldensunabhaengige Haftung des Kunden bei verspaeteter Annahme (Abweichung von §§ 286, 304 BGB Änderung der Risikotragung).
  - Vorab-Bezahlung ohne Reziprozitaet im Werkvertrag (Abweichung von § 641 BGB Vorleistungsregel).
  - Erfuellung erst nach vollstaendiger Bezahlung im Kaufvertrag (Abweichung vom Zug-um-Zug-Prinzip § 320 BGB).
  - **B2B-Ausstrahlung:** § 307 BGB gilt im B2B uneingeschraenkt; Wertungsmassstab ist die im Verkehrsbereich uebliche Risikoallokation und ggf. ergaenzend die §§ 308, 309 BGB.

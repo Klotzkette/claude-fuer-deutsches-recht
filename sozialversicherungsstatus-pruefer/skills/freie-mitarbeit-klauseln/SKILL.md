@@ -1,6 +1,6 @@
 ---
 name: freie-mitarbeit-klauseln
-description: "Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance im Sozialversicherungsstatus Pruefer."
+description: "Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance im Sozialversicherungsstatus Prüfer."
 ---
 
 # Freie-Mitarbeit-Klauseln

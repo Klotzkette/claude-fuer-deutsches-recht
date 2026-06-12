@@ -24,7 +24,7 @@ description: "Dokumentarchitektur juristischer Texte sauber bauen. Vertrag mit R
 
 - § 253 Abs. 2 ZPO: Pflichtbestandteile der Klageschrift.
 - § 130 ZPO: Allgemeiner Schriftsatz-Inhalt.
-- § 311b BGB: Beurkundungspflicht für bestimmte Verträge (Grundstueck, GmbH-Geschaeftsanteile).
+- § 311b BGB: Beurkundungspflicht für bestimmte Verträge (Grundstueck, GmbH-Geschäftsanteile).
 - § 126 BGB, § 126a BGB, § 126b BGB: Schriftform, elektronische Form, Textform.
 - § 305 Abs. 1 BGB: AGB-Begriff. Verträge mit AGB-Anteil brauchen zusaetzliche Strukturelemente.
 

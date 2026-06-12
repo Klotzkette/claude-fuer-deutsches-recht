@@ -1,6 +1,6 @@
 ---
 name: bwa-kennzahlen-rentabilitaet-kontenrahmen-skr03
-description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung..."
+description: "Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erläuterung..."
 ---
 
 # Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI
@@ -112,7 +112,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 - Bei nachhaltig fallender EK-Rendite: Krisenfrueherkennung.
 - Bei stark schwankender Rendite: Volatilitaets-Risiko.
 
-### Phase 6 — Erlaeuterung und Beratungsempfehlung
+### Phase 6 — Erläuterung und Beratungsempfehlung
 
 - Mandant in Branchenkontext einordnen.
 - Bei unterdurchschnittlicher EK-Rendite: Maßnahmen (Preisgestaltung, Kostenstruktur, Bilanzpolitik).

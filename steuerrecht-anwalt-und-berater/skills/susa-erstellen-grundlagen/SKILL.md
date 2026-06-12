@@ -91,7 +91,7 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 
 ### Phase 4 — Plausibilitaetspruefung
 
-- Summe Soll = Summe Haben (Pruefsumme; doppelte Buchfuehrung).
+- Summe Soll = Summe Haben (Prüfsumme; doppelte Buchfuehrung).
 - USt-Saldo plausibel mit USt-Voranmeldung.
 - Verrechnungskonten auf null.
 - Erfolgskonten-Saldo = Jahresergebnis-Roh (vor Periodenabgrenzung).
@@ -113,7 +113,7 @@ Konto Bezeichnung Soll-Summe Haben-Summe Saldo Soll Saldo Haben
 
 - SuSa ist NICHT direkt für den Mandanten — meist interne Auswertung; bei externem Bedarf BWA bevorzugen.
 - Externer Prüfer (Wirtschaftspruefer, Aussenprueferin Finanzamt) bekommt SuSa direkt.
-- Pruefsumme Soll = Haben ist Grundpruefung; Abweichung = Fehler im System (selten, aber kommt vor).
+- Prüfsumme Soll = Haben ist Grundpruefung; Abweichung = Fehler im System (selten, aber kommt vor).
 - Bei Mandanten mit grossem Belegvolumen: SuSa kann mehrere Hundert Konten umfassen — Filter und Sortierung wichtig.
 - StBVV: SuSa-Erstellung pauschaliert in der Buchfuehrungspauschale.
 - DATEV-Tipp: SuSa per "Sachkontenauswertung" mit Filter "nur saldierte Konten" anfordern.

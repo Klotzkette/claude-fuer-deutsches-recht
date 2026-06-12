@@ -1,6 +1,6 @@
 ---
 name: input-compliance-dokumentation-und-akte
-description: Compliance-Dokumentation und Akte im Urteilsbauer-Relationsmacher. Eingangsakte sauber anlegen, Beteiligte und Beweismittel listen, Fristen markieren und einen pruefbaren Aktenvermerk fuer das weitere Verfahren erzeugen.
+description: Compliance-Dokumentation und Akte im Urteilsbauer-Relationsmacher. Eingangsakte sauber anlegen, Beteiligte und Beweismittel listen, Fristen markieren und einen prüfbaren Aktenvermerk fuer das weitere Verfahren erzeugen.
 ---
 
 # Compliance-Dokumentation und Akte (Urteilsbauer-Eingang)

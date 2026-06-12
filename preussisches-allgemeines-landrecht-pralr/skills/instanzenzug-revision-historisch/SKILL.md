@@ -40,10 +40,10 @@ description: "Instanzenzug und Revision im preussischen Recht historisch. Skill 
 - BGH heutige Funktion.
 - BVerwG, BFH, BAG, BSG.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Instanz?
-2. Welche Pruefungsdichte?
+2. Welche Prüfungsdichte?
 3. Heutige Äquivalenz?
 
 ## Normenanker

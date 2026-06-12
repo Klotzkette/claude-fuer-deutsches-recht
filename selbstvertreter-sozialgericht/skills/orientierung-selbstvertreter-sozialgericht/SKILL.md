@@ -23,7 +23,7 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie können sich wehren. Das ge
 
 - Sie haben gerade einen Bescheid bekommen und wissen nicht, was zu tun ist.
 - Sie wollen wissen, welche Wege es gibt.
-- Sie suchen einen Ueberblick, bevor Sie tiefer einsteigen.
+- Sie suchen einen Überblick, bevor Sie tiefer einsteigen.
 - Sie wollen in einfacher Sprache geführt werden.
 - Sie wollen vor Abgabe prüfen, ob Widerspruch, Klage oder Eilantrag vollständig sind.
 
@@ -92,7 +92,7 @@ Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch,
 
 - **Die Frist!** Wenn Sie die Frist verpassen, ist Ihr Recht oft weg. Lesen Sie `wiedereinsetzung-frist-67-sgg`, falls die Frist schon abgelaufen ist.
 - **Der Bescheid muss eine Rechtsbehelfsbelehrung enthalten.** Fehlt sie, gilt eine Jahresfrist statt einem Monat (§ 66 Abs. 2 SGG).
-- **Schriftlich oder zur Niederschrift.** Ein Telefonat reicht nie. Schreiben Sie immer, oder gehen Sie auf die Geschaeftsstelle.
+- **Schriftlich oder zur Niederschrift.** Ein Telefonat reicht nie. Schreiben Sie immer, oder gehen Sie auf die Geschäftsstelle.
 
 ## Typische Fehler
 

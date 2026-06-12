@@ -14,7 +14,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 - Bei Einsatz von Hochrisiko-KI-Systemen nach Anhang III KI-VO (Verordnung EU 2024/1689)
 - Bei generativen KI-Diensten, die personenbezogene Daten verarbeiten
 - Bei Profiling-Systemen mit Rechtswirkung (Art. 22 DSGVO und Anhang III KI-VO)
-- Bei Biometrie, Beschaeftigtenscoring, Kreditscoring, Versicherungsrisikobewertung
+- Bei Biometrie, Beschäftigtenscoring, Kreditscoring, Versicherungsrisikobewertung
 - Vor Vertragsschluss mit KI-Anbietern (Anbieter- versus Betreiberrolle)
 
 ## Rechtlicher Rahmen
@@ -40,7 +40,7 @@ Koordination einer Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO mit den Anw
 ## Ablauf 6-Schritte-Methodik
 
 1. **Verarbeitungsbeschreibung.** Welches KI-System, welcher Zweck, welche Datenarten, welche Betroffenenkreise? Anbieter und Betreiber benennen, Anhang-III-Kategorie prüfen.
-2. **Verhaeltnismaessigkeitspruefung.** Notwendigkeit und Verhältnismäßigkeit der KI-gestuetzten Verarbeitung; Prüfung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
+2. **Verhältnismäßigkeitspruefung.** Notwendigkeit und Verhältnismäßigkeit der KI-gestuetzten Verarbeitung; Prüfung ob ein nicht-automatisiertes Verfahren ausreicht. Art. 5 Abs. 1 DSGVO und Erforderlichkeitspruefung.
 3. **Risikoanalyse.** Doppelblick:
  - DSGVO-Risiken: Profiling, automatisierte Entscheidung, Trainingsdatenleck, Halluzination über Personen.
  - KI-VO-Risiken: Diskriminierung durch Datenbias, fehlende menschliche Aufsicht, fehlende Robustheit.

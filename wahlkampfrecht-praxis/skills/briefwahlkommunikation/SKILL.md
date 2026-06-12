@@ -1,6 +1,6 @@
 ---
 name: briefwahlkommunikation
-description: "Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Kommunikation ueber Briefwahl ohne Irrefuehrung prüfen im Wahlkampfrecht."
 ---
 
 # Briefwahlkommunikation

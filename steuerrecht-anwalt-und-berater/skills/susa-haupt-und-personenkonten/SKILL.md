@@ -90,9 +90,9 @@ Differenzen müssen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 
 ### Phase 6 — Prüfer-Vorbereitung
 
-- Bei WP-Prüfung Abstimmungsprotokoll als Pruefungsunterlage.
+- Bei WP-Prüfung Abstimmungsprotokoll als Prüfungsunterlage.
 - Bei BP-Prüfung Hauptbuch und OPOS-Listen gemeinsam vorlegen.
-- Bei Mandantenwechsel Abstimmung als Uebergabeunterlage.
+- Bei Mandantenwechsel Abstimmung als Übergabeunterlage.
 
 ## Strategie und Praxis-Tipps
 

@@ -128,7 +128,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen… |
 | `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale… |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit.… |
-| `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit… |
+| `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Änderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Änderung Berufsrechtsbezug. Output: Tabelle mit… |
 
 ## Worum geht es?
 
@@ -169,7 +169,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 2. Eingangsanalyse durchfuehren: Tonalitaet, emotionale Trigger und Konfliktpotenzial bestimmen.
 3. Berufsrechtlichen Kontext festlegen: BRAO/BORA, BNotO oder StBerG; Sprache der Korrespondenz?
 4. Passenden Skill auswaehlen (siehe Skill-Tour) oder Gesamt-starten.
-5. Vorher-Nachher-Vergleich prüfen und Aenderungen erklaeren.
+5. Vorher-Nachher-Vergleich prüfen und Änderungen erklaeren.
 
 ## Skill-Tour (was gibt es hier?)
 
@@ -192,7 +192,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 - `notare-bnotk-modus` — Notar-Korrespondenz auf BNotO- und BNotK-Vorgaben anpassen.
 - `steuerberater-stberg-modus` — Steuerberater-Korrespondenz auf StBerG-Konformitaet anpassen.
 - `mehrsprachige-umformulierung` — Anwaltskorrespondenz in anderer Sprache berufsrechtskonform und sachgerecht umformulieren.
-- `vorher-nachher-tabelle` — Vorher-Nachher-Vergleich mit Erklaerungen der Aenderungen erstellen.
+- `vorher-nachher-tabelle` — Vorher-Nachher-Vergleich mit Erklaerungen der Änderungen erstellen.
 
 ## Worauf besonders achten
 
@@ -205,7 +205,7 @@ Zielgruppe sind Anwaelte, Kanzleipersonal, Notare und Steuerberater, die ihren S
 ## Typische Fehler
 
 - Entschaerfung macht Schreiben rechtlich unwirksam: Frist oder Forderung wird so weich formuliert, dass keine Rechtsfolge mehr erkennbar ist.
-- Nur oberflaeechliche Aenderungen: Emotionaler Kern bleibt im Text, nur Schluesselwoerter werden ausgetauscht.
+- Nur oberflaeechliche Änderungen: Emotionaler Kern bleibt im Text, nur Schlüsselwoerter werden ausgetauscht.
 - Sachverhalt wird beim Umformulieren verfaelscht: Neutrale Darstellung darf inhaltliche Aussage nicht ändern.
 - BORA-Prüfung ohne Kontext: Kollegialitaetsgebot gilt nur im Anwaltsverkehr; in Mandanten-Kommunikation gelten andere Masssstaebe.
 - Eigentor durch uebertriebene Hoeflichkeit: Zu konziliante Formulierung im Mahnschreiben kann als Zustimmung zur Verzoegerung ausgelegt werden.

@@ -28,7 +28,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 1. Bodentragfaehigkeitspruefung vor Rammarbeiten: Rammsondierung DPH nach DIN EN ISO 22476-2 alle 100 m rastermaessig, Eindringwiderstand je 10 cm in Rammprotokoll
 2. Einmesskontrolle Pfahlachsen mit Tachymeter: Absteckung Modultischreihen, Toleranz Pfahlachse +-25 mm in Laengs- und Querrichtung, Protokollierung jeder 10. Pfahlposition
 3. Rammprotokoll Einschlagtiefe: Minimale Einbindetiefe 1.6 m unter Gelaende, Stoppkriterium bei Eindringwiderstand groesser 50 Schlaege je 10 cm
-4. Schraubfundament-Prüfung: Drehmomentkontrolle Einschrauben je Anker nach DIN EN 14475, Pruefmoment und Einschraubtiefe protokolliert
+4. Schraubfundament-Prüfung: Drehmomentkontrolle Einschrauben je Anker nach DIN EN 14475, Prüfmoment und Einschraubtiefe protokolliert
 5. Modulklemmen-Anzugsmoment: Hersteller-Vorgabe z.B. 20 Nm bei Schlatter-Klemme, Stichprobenpruefung 5 Prozent der Klemmen je Tischreihe
 6. Erdungsanlage Sichtpruefung und Messung: Erdungsband 50 mm2 Kupfer flaechig verlegt, Erdungswiderstand nach DIN VDE 0100-410 kleiner 1 Ohm je Abschnitt
 
@@ -41,7 +41,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 - DIN VDE 0100-410 Schutz gegen elektrischen Schlag und DIN VDE 0185-305-1 Blitz- und Ueberspannungsschutz
 - DIN 1054:2021 und DIN EN 1997-1 EC7: Geotechnik, Nachweis Rammpfaehle und Schraubanker im gewachsenen Boden
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Rammprotokoll vollstaendig: Pfahlnummer, GPS-Koordinate, Einschraubtiefe, Drehmomentkurve oder Schlagzahl, Unterschrift Ausfuehrender
 2. Stahlkonstruktion-Sichtpruefung: Schweissnaehte a4 nach DIN EN ISO 5817 Qualitaetsklasse C, Korrosionsschutz-Grundierung DIN EN ISO 12944
@@ -63,7 +63,7 @@ Freiflaechen-Photovoltaik-Anlagen verbinden Tiefbauarbeiten, Stahlkonstruktion, 
 - SAP PM Meldungsart M2 bei Moduldefekten nach Thermografie: Equipment-Nr Modul-ID aus Asset-Datenbank, Schadenscode H007 Hotspot, Ursachencode U031 Zellfehler
 - SAP PS Projekt SP-XXX: Vorgaenge PFAHL-010 Rammarbeiten, STAHL-020 Modulmontage, ELEK-030 Kabelbau, TRAFO-040 Stationsaufbau, ABNAHME-050 BNetzA
 - BIM360 Field Reports tagesaktuell: Freihandzeichnung Lageplan, Foto-Pflicht, Gewerk-Tag, Faelligkeitsdatum
-- Dalux Abnahmecheckliste elektrische Anlagen: Pruefpunkt Erdungswiderstand mit Messwert-Eingabe, QR-Code je Pruefpunkt, Export PDF und Excel
+- Dalux Abnahmecheckliste elektrische Anlagen: Prüfpunkt Erdungswiderstand mit Messwert-Eingabe, QR-Code je Prüfpunkt, Export PDF und Excel
 - Workflow: Thermografie-Befund, PlanRadar-Meldung, Modulhersteller-Reklamation, Tausch-Auftrag, Nachtherme-Bestaetigungsmessung, Mangel geschlossen
 
 ## Typische Fallstricke

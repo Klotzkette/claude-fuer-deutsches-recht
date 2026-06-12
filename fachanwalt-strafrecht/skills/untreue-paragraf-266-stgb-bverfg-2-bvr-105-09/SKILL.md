@@ -32,7 +32,7 @@ Vorstand A trifft riskante Investition; Schaden bei Gesellschaft.
 
 ## Arbeitsergebnis
 
-Pflichtwidrigkeit; Vermoegensnachteil objektiv; Vorsatz.
+Pflichtwidrigkeit; Vermögensnachteil objektiv; Vorsatz.
 
 ## Belege und Aktenlücken
 

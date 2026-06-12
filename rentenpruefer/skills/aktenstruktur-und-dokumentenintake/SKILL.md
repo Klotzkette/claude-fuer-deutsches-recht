@@ -51,7 +51,7 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 149 SGB VI` — Versicherungsverlauf und Kontenklaerung.
 - `§ 197 SGB VI` — Nachzahlung von Beitraegen.
 - `§ 44 SGB X` — Rücknahme rechtswidriger nicht beguenstigender Verwaltungsakte.
-- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung auslaendischer Zeiten in EU-Koordination.
+- `Art. 6 VO (EG) 883/2004` — Zusammenrechnung ausländischer Zeiten in EU-Koordination.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 

@@ -49,7 +49,7 @@ Skill für Konstellationen, in denen das Anforderungsprofil der Stellenausschrei
 
 ## 5. Ausgabeformat
 
-- Pruefvermerk: Tabelle "Merkmal — konstitutiv ja oder nein — Begruendung — Sachzusammenhang — Rechtsfolge".
+- Prüfvermerk: Tabelle "Merkmal — konstitutiv ja oder nein — Begruendung — Sachzusammenhang — Rechtsfolge".
 - Eilantragsbaustein.
 
 ## 6. Verifizierte Quellenanker
@@ -90,5 +90,5 @@ Stelle Referatsleiterin im BMI A16. Konstitutiv gefordert: Promotion im öffentl
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

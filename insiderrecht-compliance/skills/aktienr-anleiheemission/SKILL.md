@@ -1,6 +1,6 @@
 ---
 name: aktienr-anleiheemission
-description: "Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten im Insiderrecht Compliance."
+description: "Prüft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten im Insiderrecht Compliance."
 ---
 
 # Aktienrückkaufprogramme – MAR Safe Harbour und Compliance

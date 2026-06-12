@@ -2,7 +2,7 @@
 
 ## Zweck
 
-Diese Vorlage uebersetzt interne Registerdaten in eine JSON-nahe Arbeitsstruktur. Sie dient der Qualitaetssicherung und dem spaeteren Abgleich mit der oeffentlichen API-Antwort. Sie ist keine technische Einreichung an das Lobbyregister.
+Diese Vorlage übersetzt interne Registerdaten in eine JSON-nahe Arbeitsstruktur. Sie dient der Qualitaetssicherung und dem spaeteren Abgleich mit der oeffentlichen API-Antwort. Sie ist keine technische Einreichung an das Lobbyregister.
 
 ## Quellen
 
@@ -16,7 +16,7 @@ Diese Vorlage uebersetzt interne Registerdaten in eine JSON-nahe Arbeitsstruktur
 | `registerNumber` |  | automatisch nach Veroeffentlichung |  |  |
 | `accountDetails.activeLobbyist` | Compliance-Entscheidung | Kontostatus |  |  |
 | `accountDetails.firstPublicationDate` | API/API-Export | Veroeffentlichung |  |  |
-| `accountDetails.lastUpdateDate` | Portalhistorie | Aenderungen |  |  |
+| `accountDetails.lastUpdateDate` | Portalhistorie | Änderungen |  |  |
 | `registerEntryDetails.version` | API/API-Export | Version |  |  |
 | `registerEntryDetails.legislation` | API/API-Export | Gesetzeslage |  |  |
 | `registerEntryDetails.detailsPageUrl` | API/API-Export | Oeffentliche Seite |  |  |
@@ -41,7 +41,7 @@ Diese Vorlage uebersetzt interne Registerdaten in eine JSON-nahe Arbeitsstruktur
 - Ein internes Feld hat keine belastbare Quelle.
 - Portaltext und JSON-nahe Arbeitsstruktur weichen inhaltlich voneinander ab.
 - Ein Zweigentwurf bildet dieselbe juristische Person ein zweites Mal ab.
-- Finanzdaten werden doppelt gezaehlt oder auf nicht vergleichbare Geschaeftsjahre verteilt.
+- Finanzdaten werden doppelt gezaehlt oder auf nicht vergleichbare Geschäftsjahre verteilt.
 - Das Plugin soll eine technische Einreichung behaupten, obwohl nur ein lesender API-Abruf belegt ist.
 
 ## Ergebnis

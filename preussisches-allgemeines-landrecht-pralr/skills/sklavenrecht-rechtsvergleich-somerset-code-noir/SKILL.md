@@ -84,7 +84,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - ALR steht in **eindeutig befreiender Tradition** zusammen mit England.
 - Frankreich-Modell (Edit 1716) mit Aufschub kennen die deutschen Staaten **nicht**.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Rechtsordnung?
 2. Wann hat der Status geendet?

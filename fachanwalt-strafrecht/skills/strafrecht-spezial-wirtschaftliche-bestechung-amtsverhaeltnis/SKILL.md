@@ -18,7 +18,7 @@ description: "Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsf
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
+**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen tätig wird. Prüfraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete öffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo für Vergabe Mischverwaltung Public-Private-Partnership.
 
 ### Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
 
@@ -26,7 +26,7 @@ description: "Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsf
 
 Spezial-Mandat: Komplexe Korruptionsanklage mit Sektorenwechsel oder Doppelfunktion. Klassische Konstellationen:
 
-- **Public-Private-Partnership (PPP):** Geschaeftsfuehrer einer kommunalen GmbH; teils Amtstraeger, teils privater Akteur.
+- **Public-Private-Partnership (PPP):** Geschäftsführer einer kommunalen GmbH; teils Amtstraeger, teils privater Akteur.
 - **Beauftragter im Sinne § 299 StGB** versus **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.**
 - **Wechsel zwischen Behörde und Privatsektor (Drehtuer)** und sich anschliessende Vergabe.
 - **Kommunale Mandatstraeger** (Buergermeister, Gemeinderaete, Kreistagsabgeordnete) — Sondertatbestand § 108e StGB Maßgaben.
@@ -52,11 +52,11 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
  - lit. c Person, die sonst dazu bestellt ist, bei einer Behörde oder bei einer sonstigen Stelle oder in deren Auftrag **Aufgaben der öffentlichen Verwaltung** wahrzunehmen.
 - **§ 11 Abs. 1 Nr. 4 StGB Soldat.**
 - **Beauftragter öffentlicher Aufgaben.** TUEV-Prüfer (Verkehrssicherheit), Bezirksschornsteinfeger; BGH staendige Rspr. — Aktenzeichen vor Verwendung verifizieren.
-- **GmbH-Geschaeftsfuehrer der öffentlichen Hand.** Pruefkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
+- **GmbH-Geschäftsführer der öffentlichen Hand.** Prüfkriterien BGH: Funktionsgehalt, kommunale Aufgabenerfuellung, Mitfinanzierung. Bei Daseinsvorsorge (Wasser, Stadtwerke, Abfall) eher Amtstraeger; bei rein wirtschaftlicher Taetigkeit eher nicht.
 
 ### Schritt 2: Privater Sektor § 299 StGB?
 
-- **Angestellter / Beauftragter eines Unternehmens** im geschaeftlichen Verkehr.
+- **Angestellter / Beauftragter eines Unternehmens** im geschäftlichen Verkehr.
 - Bei kommunalen GmbH oft sowohl § 11 als auch § 299 erfuellt; **wenn Amtstraegereigenschaft bejaht → §§ 331 bis 334 StGB vorrangig.**
 
 ### Schritt 3: Konnex Vorteil — Handlung
@@ -64,7 +64,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 - **§§ 332/334 StGB:** Konkrete pflichtwidrige Diensthandlung.
 - **§§ 331/333 StGB:** Bezug zur Dienstausuebung allgemein ("Klimapflege") ausreichend.
 - **§ 299 StGB Wettbewerbsmodell Nr. 1:** Unlautere Bevorzugung im Wettbewerb.
-- **§ 299 StGB Geschaeftsherrenmodell Nr. 2:** Pflichtverletzung gegenueber Unternehmen.
+- **§ 299 StGB Geschäftsherrenmodell Nr. 2:** Pflichtverletzung gegenueber Unternehmen.
 
 ### Schritt 4: Konkurrenzen
 
@@ -76,7 +76,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **Sektorzuordnung erkaempfen.** Bei Doppelfunktion ist die Zuordnung zur weniger sanktionierten Norm verteidigungsstrategisch zentral. § 299 StGB Strafrahmen (bis 3 Jahre) deutlich unter §§ 332/334 StGB (bis 5 Jahre, bei Richtern bis 10 Jahre).
 - **Beziehungs- vs. Tatleistung darstellen.** BGH-Linie zur Abgrenzung der Klimapflege (§ 331/333) gegen Pflichtwidrigkeitsgeschaeft (§ 332/334): bei reiner Beziehungspflege ohne konkrete Pflichtverletzung Rueckfall auf milderen Tatbestand.
-- **Amtstraegereigenschaft GmbH-Geschaeftsfuehrer angreifen.** Bei wirtschaftlich orientierten GmbH der öffentlichen Hand (z. B. Messegesellschaft, Wirtschaftsfoerderung) kann Amtstraegereigenschaft fehlen — Argumentation: Funktionsgehalt rein wirtschaftlich, keine hoheitliche Aufgabe.
+- **Amtstraegereigenschaft GmbH-Geschäftsführer angreifen.** Bei wirtschaftlich orientierten GmbH der öffentlichen Hand (z. B. Messegesellschaft, Wirtschaftsfoerderung) kann Amtstraegereigenschaft fehlen — Argumentation: Funktionsgehalt rein wirtschaftlich, keine hoheitliche Aufgabe.
 - **§ 108e StGB Mandatstraeger.** Bei kommunalen Mandatstraegern (Buergermeister, Gemeinderat, Kreistag) ist § 108e StGB Spezialnorm für Mandatstraegerbestechung — Strafrahmen bis fuenf Jahre.
 - **Compliance-Defence** insbesondere bei Geberunternehmen wichtig.
 - **Verstaendigung § 257c StPO** strategisch zur Sektorzuordnung verhandeln.
@@ -97,8 +97,8 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 - **§§ 332/334 StGB / § 299 StGB.** Bei Amtstraegereigenschaft Spezialitaet §§ 332/334.
 - **§§ 331/333 StGB / § 299 StGB.** Bei Amtstraegereigenschaft Spezialitaet §§ 331/333.
 - **§ 108e StGB** Spezialnorm für Mandatstraeger.
-- **§ 266 StGB Untreue.** Tateinheit bei Schaedigung Geschaeftsherr / Behörde.
-- **§ 263 StGB.** Bei Vermoegensschaedigung.
+- **§ 266 StGB Untreue.** Tateinheit bei Schaedigung Geschäftsherr / Behörde.
+- **§ 263 StGB.** Bei Vermögensschaedigung.
 - **§ 261 StGB Geldwaesche.** Nach Reform 2021.
 - **§ 30 OWiG.** Verbandsgeldbusse Geber-Unternehmen.
 
@@ -106,18 +106,18 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 - **Strafrahmen:** Je nach Sektor unterschiedlich (siehe einzelne Skills).
 - **§ 46 StGB** Höhe Vorteil, Schaden, Tatdauer, Compliance, Wiedergutmachung.
-- **Einziehung § 73 StGB** Vorteilsgegenstand plus durch Diensthandlung erlangter Vermoegensvorteil.
+- **Einziehung § 73 StGB** Vorteilsgegenstand plus durch Diensthandlung erlangter Vermögensvorteil.
 - **Berufsverbot § 70 StGB / Dienstentfernung § 13 BDG** bei Amtstraegern.
 - **Wettbewerbsregister § 124 GWB** Vergabeausschluss.
 - **§ 30 OWiG Verbandsgeldbusse** plus Abschoepfung.
-- **Disqualifikation § 6 GmbHG** Geschaeftsfuehrer (5 Jahre).
+- **Disqualifikation § 6 GmbHG** Geschäftsführer (5 Jahre).
 - **Beamtenrechtliche / kommunalrechtliche Folgen** parallel.
 
 ## Mustertexte
 
 ### Sektorzuordnung Verteidigung
 
-"Der Mandant war zur Tatzeit als Geschaeftsfuehrer der [Kommunale GmbH] tätig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der öffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
+"Der Mandant war zur Tatzeit als Geschäftsführer der [Kommunale GmbH] tätig. Eine Amtstraegereigenschaft im Sinne des § 11 Abs. 1 Nr. 2 lit. c StGB wird bestritten. Die GmbH erfuellte zur Tatzeit ueberwiegend wirtschaftliche Aufgaben (Messewesen, Standortmarketing), nicht jedoch Aufgaben der öffentlichen Verwaltung im engeren Sinne. Eine Behandlung nach §§ 332 / 334 StGB scheidet damit aus; allenfalls greift § 299 StGB."
 
 ### Beziehungs- versus Tatleistung
 
@@ -126,6 +126,6 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 ## Quellen Stand 06/2026
 
 - §§ 11, 108e, 299, 300, 331, 332, 333, 334, 335 StGB Stand 06/2026 https://www.gesetze-im-internet.de/stgb/.
-- BGH staendige Rspr. zum Amtstraegerbegriff (GmbH-Geschaeftsfuehrer) und zur Beziehungs- vs. Tatleistung; Aktenzeichen vor Verwendung verifizieren.
+- BGH staendige Rspr. zum Amtstraegerbegriff (GmbH-Geschäftsführer) und zur Beziehungs- vs. Tatleistung; Aktenzeichen vor Verwendung verifizieren.
 - § 30 OWiG; § 124 GWB; § 6 GmbHG; § 13 BDG.
 - references/zitierweise.md.

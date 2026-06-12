@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmg
-description: "Ressortaufgaben BMG: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Gesundheit. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordn..."
+description: "Ressortaufgaben BMG: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Gesundheit. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordn..."
 ---
 
 # Ressortaufgaben BMG
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMG: typische Legistik-Aufgaben im Geschaeftsberei
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMG
 - Ressort-Kompass aus `legw-ressort-bmg`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

@@ -56,7 +56,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -151,7 +151,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 187-193 BGB — Fristenberechnung: Beginn, Ende, Praevigorierungsregeln; Fristberechnung bei Monatsfristen und Wochenfristen
 - § 41 GWB / Art. 7 FKVO — Fusionskontrolle: Vollzugsverbot bis zur Freigabe; Phase I 25 Arbeitstage (EU) bzw. 1 Monat (GWB)
 - § 40 GmbHG — Gesellschafterliste: Einreichung innerhalb 1 Monat nach Anteilsuebertragung
-- § 20 TranspRG — Transparenzregister: Meldung wirtschaftlich Berechtigte innerhalb 2 Wochen nach Aenderung
+- § 20 TranspRG — Transparenzregister: Meldung wirtschaftlich Berechtigte innerhalb 2 Wochen nach Änderung
 
 ## Aktuelle Rechtsprechung
 

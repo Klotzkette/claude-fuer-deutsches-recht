@@ -21,7 +21,7 @@ Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwend
 1. Welcher Unternehmenstraeager soll eingetragen oder geprueft werden: GmbH, AG, GbR, Trust, Stiftung?
 2. Liegt eine Unstimmigkeit zwischen Registereintrag und KYC-Dokumenten vor?
 3. Soll eine Unstimmigkeitsmeldung nach § 23a GwG erstattet werden?
-4. Handelt es sich um eine initiale Eintragung, eine Aenderung oder eine Loeschung?
+4. Handelt es sich um eine initiale Eintragung, eine Änderung oder eine Loeschung?
 
 ## Aktuelle Rechtsprechung und Behördenpraxis
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

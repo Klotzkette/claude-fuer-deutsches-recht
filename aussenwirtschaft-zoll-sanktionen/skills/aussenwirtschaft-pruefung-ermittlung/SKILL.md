@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rec..."
+description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Prüfung, Auskunftspflicht vs. Schweigerecht, Umgang mit Prüfer-Fragen, Akteneinsicht, Einspruch gegen Prüfungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Prüfungsbegleit-Protokoll und Rec..."
 ---
 
 # BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung
@@ -21,10 +21,10 @@ description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebsp
 
 ## Erste Schritte
 
-1. Pruefungsankuendigung analysieren: Pruefungsgegenstand, Zeitraum, Pruefungsteam.
+1. Prüfungsankuendigung analysieren: Prüfungsgegenstand, Zeitraum, Prüfungsteam.
 2. Relevante Unterlagen zusammenstellen und Lueckenanalyse durchfuehren.
 3. Auskunftspflichtige Mitarbeiter identifizieren und briefen (keine Spontanaussagen).
-4. Rechtsanwalt für Pruefungsbegleitung einschalten.
+4. Rechtsanwalt für Prüfungsbegleitung einschalten.
 5. Prüfung protokollieren: alle Fragen, Antworten und ausgehaendigten Unterlagen dokumentieren.
 6. Bei Uebergang zu Ermittlung: sofort Schweigerecht belehren und Verteidiger beiziehen.
 
@@ -36,9 +36,9 @@ description: "Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebsp
 - **§ 148 AO**: Akteneinsicht und Gegendarstellung.
 - **StPO § 97**: Beschlagnahmefreiheit; Schutz anwaltlicher Unterlagen.**
 
-## Pruef-Raster
+## Prüf-Raster
 
-- [ ] Pruefungsgegenstand und -zeitraum verstanden?
+- [ ] Prüfungsgegenstand und -zeitraum verstanden?
 - [ ] Unterlagen vollstaendig und vorbereitet?
 - [ ] Mitarbeiter gebriefte: keine Spontanaussagen, Weiterleitung an Rechtsanwalt?
 - [ ] Alle Fragen und Antworten protokolliert?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

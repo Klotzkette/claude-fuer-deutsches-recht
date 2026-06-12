@@ -1,6 +1,6 @@
 ---
 name: presseleistungsschutz-snippets
-description: "Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung im Urheberrecht De Eu."
+description: "Prüft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung im Urheberrecht De Eu."
 ---
 
 # Presseleistungsschutz und Snippets

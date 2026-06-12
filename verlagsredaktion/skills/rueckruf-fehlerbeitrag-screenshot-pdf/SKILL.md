@@ -15,7 +15,7 @@ description: "Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung B
 
 ## Worum geht es konkret
 
-Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Angabe mit Rufschaden, unzutreffender Tatsachenbericht über einen Verfahrensbeteiligten, fehlerhafte Rechtsanwendung, die in der Praxis Schaden anrichtet. Der Skill schluesselt drei Ebenen auf: (1) tatsaechliche Rueckholaktion, (2) Richtigstellung und (3) Schadensbegrenzung; mit Eskalationsplan und Mustertexten.
+Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Angabe mit Rufschaden, unzutreffender Tatsachenbericht über einen Verfahrensbeteiligten, fehlerhafte Rechtsanwendung, die in der Praxis Schaden anrichtet. Der Skill schlüsselt drei Ebenen auf: (1) tatsaechliche Rueckholaktion, (2) Richtigstellung und (3) Schadensbegrenzung; mit Eskalationsplan und Mustertexten.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -31,7 +31,7 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 
 - BGB § 823 - Schadensersatz bei Persoenlichkeitsverletzung; BGB § 824 Kreditgefaehrdung durch unwahre Tatsachenbehauptung.
 - BGB § 1004 analog - Unterlassungs- und Beseitigungsanspruch.
-- UrhG § 14 - Recht des Urhebers auf Schutz vor Entstellung des Werks (bei eigenmaechtiger Aenderung).
+- UrhG § 14 - Recht des Urhebers auf Schutz vor Entstellung des Werks (bei eigenmaechtiger Änderung).
 - UrhG §§ 97, 97a - Schadensersatz, Abmahnung.
 - DDG § 7 Abs. 1 i.V.m. DSA Art. 4-8 (Mere Conduit, Caching, Hosting, freiwillige Untersuchungen, kein allgemeines Monitoring) - beschraenkte Verantwortlichkeit der Diensteanbieter; DDG § 7 Abs. 2 - Sondervorschrift für WLAN-Anbieter (keine behoerdliche Pflicht zu Registrierung oder Passwortabfrage).
 - DDG § 8 - Anspruch auf Sperrung bei Rechtsverletzung am geistigen Eigentum: Anspruch besteht nur gegen Diensteanbieter, die einen digitalen Dienst erbringen, der darin besteht, von einem Nutzer bereitgestellte Informationen in einem Kommunikationsnetz zu uebermitteln oder den Zugang zu einem Kommunikationsnetz zu vermitteln (§ 8 Abs. 1 DDG; reine Durchleitungs-/Zugangsdienste - nicht Hosting, Datenbankanbieter oder sonstige Diensteanbieter ausserhalb von Mere Conduit). Sperrung muss zumutbar und verhaeltnismaessig sein; Kostenerstattung nur bei vorsaetzlichem Zusammenwirken. Verpflichtungen zur Entfernung oder Sperrung nach allgemeinen Gesetzen auf Grund gerichtlicher oder behoerdlicher Anordnungen bleiben unberuehrt (§ 8 Abs. 4 DDG). Gegen Hosting- und Datenbankanbieter (juris, beck-online) richten sich Ansprueche stattdessen aus DSA Art. 6 i.V.m. den allgemeinen Gesetzen (Beseitigung, Unterlassung).
@@ -53,7 +53,7 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
  - Print: Versand stoppen, Buchhandel benachrichtigen, Remissionsangebot.
  - Loseblatt: Austauschblatt mit Hinweis für Abonnenten.
 4. **Kommunikation.** An Betroffene, an Autor, an Abonnenten, an Pressevertreter (wenn der Fehler bereits öffentlich ist).
-5. **Schadensabwehr.** Versicherung prüfen (Verlagshaftpflicht, Vermoegensschadenhaftpflicht); Justiziariat einbinden.
+5. **Schadensabwehr.** Versicherung prüfen (Verlagshaftpflicht, Vermögensschadenhaftpflicht); Justiziariat einbinden.
 6. **Dokumentation.** Chronologie, Beschlüsse, Mailverkehr, Pressemitteilungen archivieren.
 7. **Lernschleife.** Prüfen, ob Lektorat / Justiziariat den Fehler vor Erscheinen haette erkennen müssen.
 
@@ -72,7 +72,7 @@ Nach Erscheinen wird ein gravierender Fehler entdeckt: falsche Aktenzeichen-Anga
 - Bei Persoenlichkeitsverletzung sofort Justiziariat - nicht warten.
 - Beitrag online erst depublizieren, dann mit korrigierter Fassung ersetzen - sonst Lueckenseite.
 - Drittanbieter (juris, beck-online) brauchen 24-48 Stunden zur Loeschung; rechtzeitig anfordern.
-- Im Loseblatt Austauschblatt mit Erlaeuterung und Datum.
+- Im Loseblatt Austauschblatt mit Erläuterung und Datum.
 - Eine Pressemeldung kann eine Eskalation entschaerfen - aber nur mit Justiziariatsabstimmung.
 - Versicherungsfall innerhalb der Anzeigefrist melden, sonst Deckungsverlust.
 - Bei wiederholten Fehlern desselben Autors Konsequenz im Vertrag (Karenz, Honorarminderung).

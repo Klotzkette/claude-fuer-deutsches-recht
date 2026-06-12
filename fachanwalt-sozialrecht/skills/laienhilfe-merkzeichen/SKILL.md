@@ -78,7 +78,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Förderungen.
 - **Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2):** Mindestkriterien je Merkzeichen; behandelnder Arzt mit konkreten Funktionsbefunden untermauern.
 - **Antrag / Widerspruch:**
- - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
+ - **Antrag** beim Versorgungsamt; **Änderungsantrag** bei Verschlechterung.
  - **Widerspruch § 84 SGG:** 1 Monat; Klage SG 1 Monat.
  - **§ 109 SGG-Wahl-Sachverstaendiger** bei Klage.
 - **Praxis-Tipp:** Fokus auf Funktionsbeeintraechtigung im Alltag (Gehstrecke konkret in Metern; Hilfsmittelbedarf; Begleitnotwendigkeit). Bei aG-Verweigerung: BSG-Linie zur Gleichstellung (vergleichbare schwerwiegende Faelle); Stellungnahme Facharzt unverzichtbar.

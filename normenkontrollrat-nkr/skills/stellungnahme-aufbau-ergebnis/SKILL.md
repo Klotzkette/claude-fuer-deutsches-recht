@@ -47,7 +47,7 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 8. Hinweise / Vorbehalte / Auftragsbestaetigung
 ```
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Abschnitt 1 — Briefkopf
 
@@ -72,9 +72,9 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 - Plausibilitaet
 - Schwaechen / Empfehlungen
 
-### Abschnitt 4 — Pruefraster
+### Abschnitt 4 — Prüfraster
 
-- Strukturiert nach den NKR-Pruefkriterien
+- Strukturiert nach den NKR-Prüfkriterien
 - Jeweils kurze Bewertung mit Verweis auf Quelle
 
 ### Abschnitt 5 — Spezialthemen

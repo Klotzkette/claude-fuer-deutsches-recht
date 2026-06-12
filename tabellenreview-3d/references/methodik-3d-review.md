@@ -2,7 +2,7 @@
 
 ## Bild
 
-Stellen Sie sich eine Excel-Mappe vor. Auf jedem Tabellenblatt eine Tabelle: Zeilen sind Dokumente, Spalten sind Fragen, Zellen sind Antworten mit wörtlichem Zitat und Fundstelle. Bisher: eine Mappe pro Pruefdimension. Jetzt: eine Mappe mit mehreren Tabellenblättern übereinander, jedes Blatt ist eine andere Perspektive auf denselben Dokumentenstapel.
+Stellen Sie sich eine Excel-Mappe vor. Auf jedem Tabellenblatt eine Tabelle: Zeilen sind Dokumente, Spalten sind Fragen, Zellen sind Antworten mit wörtlichem Zitat und Fundstelle. Bisher: eine Mappe pro Prüfdimension. Jetzt: eine Mappe mit mehreren Tabellenblättern übereinander, jedes Blatt ist eine andere Perspektive auf denselben Dokumentenstapel.
 
 Das ist der Würfel.
 
@@ -18,7 +18,7 @@ Die einzelnen Dokumente plus deren optionale Sonderanweisungen (Zeilenprompts). 
 
 ### Achse 3: Arbeitsblätter (Perspektiven)
 
-Mehrere Pruefdimensionen über denselben Stapel. Beispiel: Recht / Steuer / Wirtschaft / Datenschutz übereinander. Jede Perspektive hat eine Auswahl gemeinsamer Spalten plus eigener Zusatzspalten plus eigener Prüfer-Rolle.
+Mehrere Prüfdimensionen über denselben Stapel. Beispiel: Recht / Steuer / Wirtschaft / Datenschutz übereinander. Jede Perspektive hat eine Auswahl gemeinsamer Spalten plus eigener Zusatzspalten plus eigener Prüfer-Rolle.
 
 ## Warum drei Achsen?
 

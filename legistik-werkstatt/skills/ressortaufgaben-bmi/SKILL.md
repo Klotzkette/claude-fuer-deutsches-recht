@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmi
-description: "Ressortaufgaben BMI: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium des Innern. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete..."
+description: "Ressortaufgaben BMI: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium des Innern. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete..."
 ---
 
 # Ressortaufgaben BMI
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMI: typische Legistik-Aufgaben im Geschaeftsberei
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMI
 - Ressort-Kompass aus `legw-ressort-bmi`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

@@ -1,6 +1,6 @@
 ---
 name: start-chronologie-fristen
-description: "Einstieg, Schnelltriage und Fallrouting im Subsumtions Pruefer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..."
+description: "Einstieg, Schnelltriage und Fallrouting im Subsumtions Prüfer-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständi..."
 ---
 
 # Subsumtions-Prüfer — Allgemein
@@ -142,7 +142,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin fuehrt Juristen, Referendare und rechtlich Interessierte durch den klassischen juristischen Pruefungsaufbau: Tatbestandsmerkmale werden systematisch zerlegt, jede Norm wird im Vier-Schritt (Obersatz — Definition — Untersatz — Ergebnis) durchlaufen, Einreden und Rechtsfolgen werden getrennt erarbeitet. Das Plugin deckt deutsches Recht (BGB, HGB, StGB, ZPO, VwGO, GG und zahlreiche Nebengesetze) sowie Europarecht (AEUV, EUV, GRCh, EU-Verordnungen, Richtlinien) ab.
+Dieses Plugin fuehrt Juristen, Referendare und rechtlich Interessierte durch den klassischen juristischen Prüfungsaufbau: Tatbestandsmerkmale werden systematisch zerlegt, jede Norm wird im Vier-Schritt (Obersatz — Definition — Untersatz — Ergebnis) durchlaufen, Einreden und Rechtsfolgen werden getrennt erarbeitet. Das Plugin deckt deutsches Recht (BGB, HGB, StGB, ZPO, VwGO, GG und zahlreiche Nebengesetze) sowie Europarecht (AEUV, EUV, GRCh, EU-Verordnungen, Richtlinien) ab.
 
 Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf freier Rechtsberatung. Alle Ausgaben enthalten einen Pflicht-Disclaimer, der auf die Grenzen automatisierter Prüfung hinweist.
 
@@ -159,7 +159,7 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - **Tatbestandsmerkmal (TBM)** — Einzelnes Element einer Rechtsnorm, das vorliegen muss, damit die Rechtsfolge eintritt.
 - **Subsumtion** — Der gedankliche Vorgang, bei dem der Sachverhalt unter die Definition des TBM eingeordnet wird.
 - **Obersatz** — Erster Schritt der Vier-Schritt-Subsumtion; nennt die Norm und die daran geknuepfte Rechtsfolge.
-- **Anspruchskonkurrenz** — Mehrere Normen begruenden nebeneinander denselben Anspruch; jede wird selbstaendig geprueft.
+- **Anspruchskonkurrenz** — Mehrere Normen begruenden nebeneinander denselben Anspruch; jede wird selbständig geprueft.
 - **Sekundaere Darlegungslast** — Erleichterung der Beweislast der beweispflichtigen Partei, wenn die andere Partei Tatsachen aus ihrem Bereich klären koennte.
 - **Anwendungsvorrang** — Europarecht geht im Kollisionsfall nationalem Recht vor; nationales Recht wird verdraengt, nicht nichtig.
 - **Vorabentscheidungsverfahren** — Verfahren nach Art. 267 AEUV: nationale Gerichte legen dem EuGH Auslegungsfragen des Unionsrechts vor.
@@ -196,16 +196,16 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `einschlaegige-normen-vorschlagen-de` — Schlaegt einschlaegige Normen des deutschen Rechts zu einem Lebenssachverhalt vor.
 - `einschlaegige-normen-vorschlagen-eu` — Schlaegt einschlaegige Normen des Unionsrechts vor mit EuGH-Judikatur und curia-Fundstellen.
 - `de-eu-recht-abgrenzung` — Klaert wann nationales Recht und wann Unionsrecht unmittelbar gilt oder richtlinienkonforme Auslegung greift.
-- `eu-vorabentscheidung-pruefen` — Prueft Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV.
-- `norm-historie-und-aenderungen` — Prueft Norm-Geltungsfassung, Uebergangsvorschriften und intertemporales Recht.
+- `eu-vorabentscheidung-pruefen` — Prüft Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV.
+- `norm-historie-und-aenderungen` — Prüft Norm-Geltungsfassung, Uebergangsvorschriften und intertemporales Recht.
 
 **Tatbestandsanalyse**
 
-- `norm-zerlegen-in-tatbestandsmerkmale` — Zerlegt eine Norm systematisch in TBM mit Definitionen und Pruefungsreihenfolge.
-- `unbestimmte-rechtsbegriffe-pruefen` — Prueft unbestimmte Rechtsbegriffe mit Auslegungsmasssstaeben und Fallgruppen aus Rechtsprechung.
+- `norm-zerlegen-in-tatbestandsmerkmale` — Zerlegt eine Norm systematisch in TBM mit Definitionen und Prüfungsreihenfolge.
+- `unbestimmte-rechtsbegriffe-pruefen` — Prüft unbestimmte Rechtsbegriffe mit Auslegungsmasssstaeben und Fallgruppen aus Rechtsprechung.
 - `ungeschriebene-merkmale-judikatur` — Identifiziert judicativ entwickelte ungeschriebene TBM, Verkehrspflichten und teleologische Reduktion.
-- `generalklauseln-pruefen` — Prueft Generalklauseln (§ 242 BGB, § 138 BGB) mit Indizien und Fallgruppen.
-- `grundrechte-pruefung-de-und-grch` — Prueft Grundrechte nach GG und GRCh im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung.
+- `generalklauseln-pruefen` — Prüft Generalklauseln (§ 242 BGB, § 138 BGB) mit Indizien und Fallgruppen.
+- `grundrechte-pruefung-de-und-grch` — Prüft Grundrechte nach GG und GRCh im Drei-Schritt: Schutzbereich, Eingriff, Rechtfertigung.
 - `falsche-wiese-warnung` — Warnt vor typischen Falschverortungen (Vertrag statt Delikt, Verwaltungsakt vs. Realakt usw.).
 
 **Subsumtion**
@@ -213,12 +213,12 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `subsumtion-obersatz-definition-untersatz-ergebnis` — Fuehrt den klassischen Vier-Schritt je TBM durch.
 - `beweisbedarf-und-belege-erfassen` — Erfasst pro TBM den Beweisbedarf mit Beweismittel-Katalog und Belegen.
 - `darlegungs-und-beweislast-verteilen` — Verteilt Darlegungs- und Beweislast nach Grundregel, Beweislastumkehr und Anscheinsbeweis.
-- `verjaehrung-fristen-pruefen` — Prueft Verjährungsfristen inklusive Hemmung, Neubeginn und EU-Verjährungsregeln.
+- `verjaehrung-fristen-pruefen` — Prüft Verjährungsfristen inklusive Hemmung, Neubeginn und EU-Verjährungsregeln.
 
 **Gegenrechte und Rechtsfolgen**
 
-- `gegen-tbm-und-einreden-pruefen` — Prueft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden.
-- `konkurrenzen-anspruchsgrundlagen` — Klaert Anspruchskonkurrenz, Spezialitaet, Subsidiaritaet und Verhaeltnis Vertrags- zu Deliktsrecht.
+- `gegen-tbm-und-einreden-pruefen` — Prüft rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden.
+- `konkurrenzen-anspruchsgrundlagen` — Klaert Anspruchskonkurrenz, Spezialitaet, Subsidiaritaet und Verhältnis Vertrags- zu Deliktsrecht.
 - `rechtsfolge-bestimmen` — Bestimmt Anspruchsinhalt, Höhe, Tenor und Nebenforderungen nach erfolgreicher Subsumtion.
 
 **Output und Recherche**
@@ -227,8 +227,8 @@ Der Schwerpunkt liegt auf mechanisch nachvollziehbarer Subsumtion — nicht auf 
 - `output-memo-und-mandantenbrief` — Erstellt Aktennotiz oder Mandantenbrief mit Pflicht-Haftungshinweis.
 - `output-alltagssprache-de` — Gibt Subsumtionsergebnis in verstaendlicher Alltagssprache ohne Fachbegriffe aus.
 - `output-antrag-beschwerde-klageschrift` — Erzeugt Tenor-Bausteine und Pflichtangaben für Klageschriften und Beschwerden.
-- `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Uebersetzung.
-- `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Pruefungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
+- `output-fremdsprachig-en-fr` — Ausgabe auf Englisch oder Franzoesisch mit Hinweis auf nicht-amtliche Übersetzung.
+- `output-pruefungsdokument-mit-warnhinweisen` — Vollstaendiges Prüfungsdokument mit Pflicht-Kopfhinweis und Disclaimern.
 - `rechtsprechung-recherche-strategie` — Strategie für die Rechtsprechungsrecherche mit Fundstellen-Hinweisen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 

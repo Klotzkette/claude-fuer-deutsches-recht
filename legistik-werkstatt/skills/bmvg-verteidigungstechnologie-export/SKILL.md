@@ -1,11 +1,11 @@
 ---
 name: bmvg-verteidigungstechnologie-export
-description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Au..."
+description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschäftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Au..."
 ---
 
 # Verteidigungstechnologie und Exportkontrolle (BMVg)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Verteidigungstechnologie und Exportkontrolle im Geschäftsbereich BMVg. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Verteidigungstechnologie und Exportkontrolle im Gescha
 
 Kernbestand des Sachfelds: KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Geheimhaltung versus Transparenz; politisch sensible Empfaenger; Mehrkomponenten-Lieferungen.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

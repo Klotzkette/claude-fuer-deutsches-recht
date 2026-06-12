@@ -1,13 +1,13 @@
 ---
 name: inhabilitaet-geschaeftsfuehrer-paragraf-6-gmbhg
-description: "Inhabilitaet Geschaeftsfuehrer § 6 GmbHG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
+description: "Inhabilitaet Geschäftsführer § 6 GmbHG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen."
 ---
 
-# Inhabilitaet Geschaeftsfuehrer § 6 GmbHG
+# Inhabilitaet Geschäftsführer § 6 GmbHG
 
 ## Worum es geht
 
-Prüfe **Inhabilitaet Geschaeftsfuehrer § 6 GmbHG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe **Inhabilitaet Geschäftsführer § 6 GmbHG** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
 
 ## Normenanker
 

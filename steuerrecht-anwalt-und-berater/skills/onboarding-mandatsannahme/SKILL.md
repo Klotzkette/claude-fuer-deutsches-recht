@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandatsannahme
-description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmacht..."
+description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Prüfungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klären. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmacht..."
 ---
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage
@@ -28,7 +28,7 @@ description: "Erstgespraech-Leitfaden für steuerrechtliche Mandate. Anwendungsf
 - **§§ 80 ff. AO** — Vollmachtswirkung im Besteuerungsverfahren.
 - **§ 62 FGO** — Prozessvollmacht vor dem Finanzgericht.
 - **§ 49b BRAO / § 64 StBerG / RVG / StBVV** — Honorarvereinbarungen, gesetzliche Gebühren.
-- **§ 393 AO** — Verhaeltnis Besteuerungs- zu Strafverfahren; nemo tenetur.
+- **§ 393 AO** — Verhältnis Besteuerungs- zu Strafverfahren; nemo tenetur.
 
 ## Aktuelle Rechtsprechung
 

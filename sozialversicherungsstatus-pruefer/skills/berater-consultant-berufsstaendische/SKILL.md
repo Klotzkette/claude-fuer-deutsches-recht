@@ -1,6 +1,6 @@
 ---
 name: berater-consultant-berufsstaendische
-description: "Prüft klassische Beratungsmandate, Projektarbeit, onsite Einsatz, feste Tage, Deliverables und mehrere Auftraggeber im Sozialversicherungsstatus Pruefer."
+description: "Prüft klassische Beratungsmandate, Projektarbeit, onsite Einsatz, feste Tage, Deliverables und mehrere Auftraggeber im Sozialversicherungsstatus Prüfer."
 ---
 
 # Berater und Consultant

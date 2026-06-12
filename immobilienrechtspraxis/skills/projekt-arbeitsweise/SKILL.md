@@ -109,7 +109,7 @@ Dateiname und Inhalt einem Unterordner zu. Auslöser-Regeln aus
  `03_Schriftsätze/`
 
 Pro eingehendem Dokument wird ein Eintrag in `audit.md` gesetzt:
-Zeitpunkt Quelle Empfänger angewandte Pruefskills Ergebnis.
+Zeitpunkt Quelle Empfänger angewandte Prüfskills Ergebnis.
 
 ## Integration mit anderen Skills
 

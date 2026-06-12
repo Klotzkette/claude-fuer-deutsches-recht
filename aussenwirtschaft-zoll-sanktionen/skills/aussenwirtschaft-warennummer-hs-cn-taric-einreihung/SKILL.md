@@ -25,18 +25,18 @@ description: "Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomen
 2. AV 1 anwenden: Einreihung nach Wortlaut der Positionen und Anmerkungen.
 3. AV 2 bis 6 schrittweise prüfen: unvollstaendige Waren Sets Gemische spezifischere Bestimmung.
 4. EZT-online (Elektronischer Zolltarif) und TARIC-Datenbank konsultieren.
-5. Erlaeuterungen zur KN (ErlBem) und Einreihungsverordnungen zum HS-Code prüfen.
+5. Erläuterungen zur KN (ErlBem) und Einreihungsverordnungen zum HS-Code prüfen.
 6. Einreihungsvermerk erstellen mit Normbegruendung und TARIC-Abfrage-Dokumentation.
 
 ## Rechtsrahmen
 
 - **VO (EWG) 2658/87 (KN-VO)**: Kombinierte Nomenklatur als EU-Zolltarif.
 - **Allgemeine Vorschriften (AV) 1-6 KN**: Einreihungsregeln.
-- **HS-Erlaeuterungen (WCO)**: Internationale Auslegungshilfen zum Harmonisierten System.
+- **HS-Erläuterungen (WCO)**: Internationale Auslegungshilfen zum Harmonisierten System.
 - **Einreihungsverordnungen EU**: Verbindliche Einreihungsentscheidungen der Kommission.
 - **UZK Art. 56**: Zolltarif und Einreihungspflicht des Anmelders.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Ware vollstaendig und technisch beschrieben?
 - [ ] AV 1 bis 6 schrittweise angewendet?
@@ -49,7 +49,7 @@ description: "Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomen
 
 - Sets und Garnituren werden oft faelschlicherweise aufgeteilt; AV 3 beachten.
 - Teile und Zubehoer haben eigene Positionen; Zuordnung zum Hauptprodukt nicht automatisch.
-- Software als integraler Bestandteil einer Maschine aendert Einreihung moeglicherweise.
+- Software als integraler Bestandteil einer Maschine ändert Einreihung moeglicherweise.
 - Beschriftung und Verpackung können Einreihung beeinflussen (AV 5).
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

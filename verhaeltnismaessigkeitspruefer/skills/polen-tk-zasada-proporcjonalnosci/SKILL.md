@@ -1,6 +1,6 @@
 ---
 name: polen-tk-zasada-proporcjonalnosci
-description: Polnische Verhaeltnismaessigkeitsdogmatik des Trybunal Konstytucyjny nach Art 31 III Verfassung 1997 als Drei-Stufen-Test Przydatnosc Konieczosc Proporcjonalnosc sensu stricto mit Wesensgehalt-Schutz Istota wolnosci i praw. Mit Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher und EGMR-Doktrin sowie die seit 2015 veraenderte Pruefungspraxis.
+description: Polnische Verhältnismäßigkeitsdogmatik des Trybunal Konstytucyjny nach Art 31 III Verfassung 1997 als Drei-Stufen-Test Przydatnosc Konieczosc Proporcjonalnosc sensu stricto mit Wesensgehalt-Schutz Istota wolnosci i praw. Mit Hinweisen auf Strukturunterschiede zur deutschen Schranken-Schranke und auf die starke Rezeption deutscher und EGMR-Doktrin sowie die seit 2015 veraenderte Prüfungspraxis.
 ---
 
 # Polen TK Zasada Proporcjonalnosci
@@ -63,7 +63,7 @@ Polen ist Mitglied der EMRK und EU. Der TK rezipiert:
 - EuGH-Linien zu Art 52 I GRCh (Digital Rights Ireland, Schrems II),
 - Charta-Wesensgehalt Art 52 I 1 GRCh.
 
-Seit 2015 ist die Pruefungspraxis politisch umstritten. Bei aelteren
+Seit 2015 ist die Prüfungspraxis politisch umstritten. Bei aelteren
 Entscheidungen (vor 2017) ist die Methodik etabliert und international
 anerkannt; bei juengeren ist Vorsicht und kritische Lektuere geboten.
 
@@ -84,11 +84,11 @@ Bei polnischen Bezuegen:
 
 - Art 31 III Konstytucji als zentrale Schranken-Schranke zitieren.
 - Drei Stufen ausdruecklich benennen.
-- Wesensgehaltsverletzung als eigenstaendige Pruefstufe formulieren.
+- Wesensgehaltsverletzung als eigenstaendige Prüfstufe formulieren.
 - Bei Entscheidungen ab 2017 die politische Situation des TK
   beruecksichtigen und auf aeltere etablierte Linien (vor 2015)
   zurueckgreifen.
-- EMRK und EU-Charta zusaetzlich als Pruefungsmassstab.
+- EMRK und EU-Charta zusaetzlich als Prüfungsmassstab.
 
 ## Live-Recherche-Disclaimer
 

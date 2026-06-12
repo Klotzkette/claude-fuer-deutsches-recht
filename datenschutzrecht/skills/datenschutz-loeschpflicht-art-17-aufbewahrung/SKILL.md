@@ -30,7 +30,7 @@ Sieben-Fragen-Diagnose:
 - **§ 147 AO** Aufbewahrung Buchungsbelege zehn Jahre (Stand 2026 nach Wachstumschancengesetz acht Jahre für bestimmte Belege), sonstige sechs Jahre.
 - **§ 17 GwG** Mindestaufbewahrung Sorgfaltspflicht-Dokumentation fuenf Jahre, bis zu zehn.
 - **§ 28 SGB IV** sozialversicherungsrechtliche Aufbewahrung.
-- **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Aenderung der Verarbeitungslage selbst Maßnahmen ergreifen.
+- **EuGH C-129/21 Proximus** (Urteil 27.10.2022): Verantwortlicher muss bei Änderung der Verarbeitungslage selbst Maßnahmen ergreifen.
 - **EuGH C-460/20 Google** (Urteil 08.12.2022): Recht auf Aushebung von Verlinkung bei Falschangaben.
 
 ## Mandantenfuehrung Schritt-für-Schritt

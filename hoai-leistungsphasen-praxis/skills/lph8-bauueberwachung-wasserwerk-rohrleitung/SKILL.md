@@ -41,7 +41,7 @@ Trinkwasserleitungsbaustellen unterliegen dem Wasserrecht und den DVGW-Regelwerk
 - DVGW W 291 Ausgabe 2000: Reinigung und Desinfektion Wasserverteilungsanlagen
 - DIN 4124:2012-01 Baugruben und Graeben: Boeschungen, Verbau, Arbeitsraumbreiten, Sicherheitsabstaende
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Verbaudokumentation: Foto Grabenwand-Verbau vor Rohreinbau, Verbautiefe mit Zollstock, Rettungsleiter-Abstand max. 12 m
 2. Schweissprotokoll PE-HD: DVS 2207-1 Angaben vollstaendig, Geraete-Kalibrierung aktuell, Witterungsschutz bei Wind groesser 3 m/s

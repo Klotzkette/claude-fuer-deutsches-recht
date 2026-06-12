@@ -19,11 +19,11 @@ Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 
 
 ## Worum geht es?
 
-Bei der Geldstrafe wird die **Schuld** über die **Anzahl der Tagessaetze** ausgedrueckt; die **Höhe** des einzelnen Tagessatzes spiegelt die wirtschaftlichen Verhaeltnisse wider (§ 40 Abs. 2 StGB; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`). Dieser Skill konzentriert sich auf die Zahl.
+Bei der Geldstrafe wird die **Schuld** über die **Anzahl der Tagessaetze** ausgedrueckt; die **Höhe** des einzelnen Tagessatzes spiegelt die wirtschaftlichen Verhältnisse wider (§ 40 Abs. 2 StGB; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`). Dieser Skill konzentriert sich auf die Zahl.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie prüfen einen Strafbefehl mit Tagessatzfestsetzung und wollen die Schuldkomponente ueberpruefen.
+- Sie prüfen einen Strafbefehl mit Tagessatzfestsetzung und wollen die Schuldkomponente überprüfen.
 - Sie bereiten den Strafantrag der Staatsanwaltschaft für ein Vergehen vor.
 - Sie schreiben die Strafzumessung im Urteil oder prüfen sie im Revisionsverfahren.
 - Sie bilden eine Gesamtgeldstrafe nach §§ 53, 54 StGB.
@@ -72,7 +72,7 @@ Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld
 
 ## Typische Fehler
 
-- **Tagessatzanzahl und -höhe vermengt**: Schwierige wirtschaftliche Verhaeltnisse mindern die Höhe, nicht die Anzahl.
+- **Tagessatzanzahl und -höhe vermengt**: Schwierige wirtschaftliche Verhältnisse mindern die Höhe, nicht die Anzahl.
 - **Doppelverwertung**: Tatbestandsmerkmal wird in die Anzahl eingerechnet.
 - **Strafrahmen ignoriert**: Bei Tatbestand mit Mindeststrafe Freiheitsstrafe ist Geldstrafe ausgeschlossen.
 - **§ 47 StGB uebersehen**: Wenn das Gericht statt Geldstrafe eine kurze Freiheitsstrafe verhaengt, muss es besondere Umstaende benennen.

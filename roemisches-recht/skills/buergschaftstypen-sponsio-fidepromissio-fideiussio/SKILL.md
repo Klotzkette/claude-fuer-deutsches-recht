@@ -17,7 +17,7 @@ description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und f
 
 - Aelteste Form, beschraenkt auf cives Romani.
 - Per stipulationem geschlossen.
-- Aktionierbar nur für Glaeubiger gegen Buergen (sponsor).
+- Aktionierbar nur für Gläubiger gegen Buergen (sponsor).
 - Konnte nicht vererbt werden.
 - Geltung erloschen mit dem Tod des Hauptschuldners.
 
@@ -52,7 +52,7 @@ description: "Buergschaftstypen im roemischen Recht: sponsio fidepromissio und f
 - § 766 BGB Schriftform.
 - § 768 BGB Einreden der Buergen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Buergschaftsform?
 2. Welcher Personenkreis?

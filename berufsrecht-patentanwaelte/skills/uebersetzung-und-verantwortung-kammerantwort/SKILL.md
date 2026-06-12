@@ -1,9 +1,9 @@
 ---
 name: uebersetzung-und-verantwortung-kammerantwort
-description: "Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
+description: "Patentanwälte: übersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Patentanwaelte."
 ---
 
-# Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+# Patentanwälte: übersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Patentanwälte: uebersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+## Konkreter Berufsrechtskern: Patentanwälte: übersetzung und verantwortung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 - **Normenanker:** PAO, BOPA, PatG, MarkenG/DesignG-Schnittstellen, EPÜ, UPC-Verfahrensbezug, Fristen- und Geheimnisschutz.
 - **Institutionen:** Patentanwaltskammer, DPMA, EPA, UPC-Schnittstellen und berufsgerichtliche Zuständigkeiten.
 - **Spezialspur:** Mandatsgeheimnis, Priorität, Offenbarung, Vertretungsbefugnis vor DPMA/EPA/UPC und Fristkette prüfen.

@@ -1,13 +1,13 @@
 ---
 name: agg-vs-9-bbg-auswahlverfahren
-description: "Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensr..."
+description: "Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensr..."
 ---
 
 # AGG und § 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
 
 ## Arbeitsbereich
 
-Skill zum Verhaeltnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Pruefraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach § 9 BBG bzw. § 9 BeamtStG. Klaert Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Art. 33 II GG. Behandelt typische Diskriminierungsmerkmale Alter Geschlecht Behinderung Religion ethnische Herkunft. Liefert Prüfraster und Schriftsatzbausteine. Verweist auf schwerbehinderte-bewerber-165-sgb-9. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -34,7 +34,7 @@ Skill für Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 - § 24 AGG erstreckt das AGG auf Beamtinnen und Beamte mit Modifikationen.
 - AGG findet auch auf Bewerbungsverfahren Anwendung (§ 6 Abs. 1 Satz 2 AGG).
 
-### b) Verhaeltnis zum bewerbungsverfahrensrechtlichen Anspruch
+### b) Verhältnis zum bewerbungsverfahrensrechtlichen Anspruch
 - AGG-Ansprueche stehen neben dem Anspruch aus Art. 33 Abs. 2 GG. Sie schliessen einander nicht aus.
 - AGG zielt auf Entschaedigung in Geld; bewerbungsverfahrensrechtlicher Anspruch zielt auf Neuauswahl und gegebenenfalls Schadensersatz.
 
@@ -47,7 +47,7 @@ Skill für Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 - Klagefrist drei Monate ab schriftlicher Geltendmachung (§ 61b ArbGG analog beziehungsweise § 74 VwGO im VerwR).
 
 ### e) Rechtsweg
-- Verwaltungsgerichte zuständig (§ 40 VwGO). Bei statusrechtlich Beschaeftigten unter AGG ist § 24 AGG zu beachten.
+- Verwaltungsgerichte zuständig (§ 40 VwGO). Bei statusrechtlich Beschäftigten unter AGG ist § 24 AGG zu beachten.
 
 ## 4. Quellenpflicht
 
@@ -59,7 +59,7 @@ Skill für Mandanten, die im beamtenrechtlichen Auswahlverfahren wegen eines Mer
 ## 5. Ausgabeformat
 
 - Entschaedigungsschreiben mit Indiziendarstellung.
-- Pruefraster Diskriminierungsmerkmale.
+- Prüfraster Diskriminierungsmerkmale.
 - Klageentwurf VG mit Antrag auf Entschaedigung und Neuauswahl.
 
 ## 6. Verifizierte Quellenanker
@@ -100,5 +100,5 @@ Bewerberin 54 Jahre, für Stelle "wuenschenswert junges Team" Konkurrenz mit 28-
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

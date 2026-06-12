@@ -36,7 +36,7 @@ description: "Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht akti
 - **UZK Art. 38-41**: AEO-Zulassung und Erleichterungen.
 - **UZK-IA Art. 13-17**: AEO-Verfahrensvereinfachungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Verwendungszweck klar und Verfahren optimal ausgewaehlt?
 - [ ] Wirtschaftliche Voraussetzungen nach Art. 211 Abs. 3 geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

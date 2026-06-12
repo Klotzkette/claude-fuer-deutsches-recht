@@ -1,6 +1,6 @@
 ---
 name: absolute-grenze-wesensgehalt-art-19-ii-gg
-description: "Wesensgehaltsgarantie Art 19 II GG als absolute Grenze der Verhaeltnismaessigkeit. Mit objektiv-relativem und subjektiv-absolutem Verstaendnis, Beispielen aus der BVerfG-Rspr und der dogmatischen Bruecke zum Uebermassverbot und zur Menschenwuerde."
+description: "Wesensgehaltsgarantie Art 19 II GG als absolute Grenze der Verhältnismäßigkeit. Mit objektiv-relativem und subjektiv-absolutem Verstaendnis, Beispielen aus der BVerfG-Rspr und der dogmatischen Bruecke zum Uebermassverbot und zur Menschenwuerde."
 ---
 
 # Absolute Grenze: Wesensgehalt Art 19 II GG
@@ -10,7 +10,7 @@ description: "Wesensgehaltsgarantie Art 19 II GG als absolute Grenze der Verhael
 ## Zwei Lesarten
 
 ### Objektiv-relative Lesart
-Wesensgehalt ist das, was nach umfassender Verhaeltnismaessigkeitspruefung **uebrig** bleibt. In dieser Lesart hat Art 19 II GG keinen eigenstaendigen Bedeutungsgewinn neben dem Uebermassverbot. Sie wird vom BVerfG nicht ausdruecklich vertreten, klingt aber in pragmatischen Linien an.
+Wesensgehalt ist das, was nach umfassender Verhältnismäßigkeitspruefung **uebrig** bleibt. In dieser Lesart hat Art 19 II GG keinen eigenstaendigen Bedeutungsgewinn neben dem Uebermassverbot. Sie wird vom BVerfG nicht ausdruecklich vertreten, klingt aber in pragmatischen Linien an.
 
 ### Subjektiv-absolute Lesart
 Wesensgehalt ist ein **harter Kernbereich** jedes Grundrechts, der jeder Abwaegung entzogen ist. So vom BVerfG vor allem in den Fallgruppen Wohnungsueberwachung, Telekommunikationsueberwachung, Lauschangriff und Online-Durchsuchung verwendet.
@@ -31,14 +31,14 @@ Wesensgehalt ist ein **harter Kernbereich** jedes Grundrechts, der jeder Abwaegu
 | Art 13 I GG | Hoechstpersoenliche Lebensgestaltung in der Wohnung (BVerfGE 109, 279) |
 | Art 14 I GG | Privatnuetzigkeit und Verfuegungsbefugnis (BVerfGE 100, 226 Denkmalschutz) |
 
-## Verhaeltnis zu Art 1 I GG
+## Verhältnis zu Art 1 I GG
 
 - Wesensgehalt ist nicht deckungsgleich mit Menschenwuerde. Art 1 I GG ist die letzte Grenze, Art 19 II GG die vorletzte.
 - Beide werden in Kombination geprueft (vgl BVerfGE 115, 118 Luftsicherheitsgesetz; BVerfGE 125, 175 Hartz IV).
 
 ## Methodische Folge
 
-Wenn der Wesensgehalt verletzt ist, scheitert die Maßnahme an dieser Stelle. Der Schritt liegt **vor** der Stufe 4 (Angemessenheit) als absoluter Massstab.
+Wenn der Wesensgehalt verletzt ist, scheitert die Maßnahme an dieser Stelle. Der Schritt liegt **vor** der Stufe 4 (Angemessenheit) als absoluter Maßstab.
 
 ## Quellen mit Schlagwort
 

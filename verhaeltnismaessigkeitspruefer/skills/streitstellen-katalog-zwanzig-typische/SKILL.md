@@ -1,6 +1,6 @@
 ---
 name: streitstellen-katalog-zwanzig-typische
-description: "Katalog der 20 typischen Streitstellen der Verhaeltnismaessigkeitspruefung. Wesensgehalt absolut vs. relativ, Drei- oder Vierstufenpruefung, modern vs. klassischer Eingriffsbegriff, Einschaetzungsspraerogative, Untermassverbot, praktische Konkordanz, Generationengerechtigkeit. Mit Pro/Contra-Argumenten und Folgerung."
+description: "Katalog der 20 typischen Streitstellen der Verhältnismäßigkeitspruefung. Wesensgehalt absolut vs. relativ, Drei- oder Vierstufenpruefung, modern vs. klassischer Eingriffsbegriff, Einschaetzungsspraerogative, Untermassverbot, praktische Konkordanz, Generationengerechtigkeit. Mit Pro/Contra-Argumenten und Folgerung."
 ---
 
 # Streitstellen — die 20 wichtigsten Kontroversen
@@ -14,7 +14,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | | Argument |
 |---|---|
 | **Absolut** | Art 19 II GG zieht eine unueberschreitbare Grenze; Wuerde-Bezug der Grundrechte |
-| **Relativ (Alexy)** | Wesensgehalt ist Ergebnis der Verhaeltnismaessigkeitspruefung; was die Prüfung haelt, wahrt auch den Wesensgehalt |
+| **Relativ (Alexy)** | Wesensgehalt ist Ergebnis der Verhältnismäßigkeitspruefung; was die Prüfung haelt, wahrt auch den Wesensgehalt |
 | **Folgerung** | BVerfG seit Luftsicherheitsgesetz (BVerfGE 115, 118) wieder absolut; klausurmaessig absolut prüfen |
 
 ## 2. Drei-Stufen-Lehre Art 12 GG — noch zeitgemaess?
@@ -97,7 +97,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | **Eng** | Bei intensiven Eingriffen Kontrolldichte verschaerft |
 | **Folgerung** | Kontrolldichte korreliert mit Eingriffsintensitaet — `einschaetzungspraerogative-kontrolldichte` |
 
-## 12. Praktische Konkordanz vs. Abwaegung — Verhaeltnis?
+## 12. Praktische Konkordanz vs. Abwaegung — Verhältnis?
 
 | | Argument |
 |---|---|
@@ -150,7 +150,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 | | Argument |
 |---|---|
 | **Verfahrenssicherungen sind Erforderlichkeitsfrage** | Eingriff mit Sicherungen ist milder; Online-Durchsuchungs-Linie |
-| **Separater Pruefpunkt** | Verfahrenssicherungen sind eigene Frage des effektiven Grundrechtsschutzes |
+| **Separater Prüfpunkt** | Verfahrenssicherungen sind eigene Frage des effektiven Grundrechtsschutzes |
 | **Folgerung** | BVerfG verarbeitet im Rahmen Erforderlichkeit + Bestimmtheit |
 
 ## 19. EuGH/EGMR-Schutzniveau — Mindeststandard?
@@ -159,7 +159,7 @@ In Klausur oder Schriftsatz die Streitstellen-Erkenntnis zeigen — nicht jede a
 |---|---|
 | **Ergaenzungsschicht** | Charta/EMRK als Mindest, deutsches GG kann mehr |
 | **Solange-Logik** | Identitaetsvorbehalt, BVerfGE 73, 339 (Solange II) |
-| **Folgerung** | Solange-II-Linie + Honeywell + BVerfGE 152, 152 (Recht auf Vergessen II); im Anwendungsbereich Unionsrecht: GRCh als unmittelbarer Massstab |
+| **Folgerung** | Solange-II-Linie + Honeywell + BVerfGE 152, 152 (Recht auf Vergessen II); im Anwendungsbereich Unionsrecht: GRCh als unmittelbarer Maßstab |
 
 ## 20. Verhältnismäßigkeit als globales Strukturprinzip
 

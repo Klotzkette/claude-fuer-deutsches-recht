@@ -23,10 +23,10 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Welche pflegesensitiven Bereiche fuehrt die Klinik?
-- Sind die Quoten (Patient:Pflege-Verhaeltnis) in Tag-/Nachtschicht erreicht?
+- Sind die Quoten (Patient:Pflege-Verhältnis) in Tag-/Nachtschicht erreicht?
 - Liegen Meldungen ans InEK rechtzeitig vor?
 - Drohen Verguetungsabschlaege, Strukturpruefung, Aufsichtsmassnahmen?
-- Gibt es Ausnahme- oder Uebergangsregelungen (Notfall, Ueberhang)?
+- Gibt es Ausnahme- oder Uebergangsregelungen (Notfall, Überhang)?
 
 ## Rechtlicher Rahmen
 - **SGB V § 137i** Rechtsgrundlage für PpUGV.
@@ -34,13 +34,13 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - **KHEntgG § 8 Abs. 4** Sanktionen bei Verstoss.
 - **InEK-Vorgaben** zur Datenmeldung (Quartalsmeldung).
 - **Pflegepersonalbemessung (PPR 2.0)** ergaenzt PpUGV, über § 137k SGB V derzeit in Konkretisierung.
-- **TVoeD/Tarifrecht** Personalplanung und Ueberlastungsanzeigen.
+- **TVoeD/Tarifrecht** Personalplanung und Überlastungsanzeigen.
 
 ## / Schritt für Schritt
 1. **Pflegesensitive Bereiche identifizieren:** PpUGV-Anlage, Stationsschluessel.
 2. **Quote berechnen:** Pflegekraefte (examiniert + Helfer mit Anrechnung) gegen Patienten je Schicht.
 3. **Meldungen prüfen:** Quartalsweise InEK-Meldung; Korrekturmoeglichkeiten beachten.
-4. **Sanktion vermeiden:** Bei Untergrenzverletzung Ueberlastungsanzeigen, Personalpoolnutzung, Verlegungen.
+4. **Sanktion vermeiden:** Bei Untergrenzverletzung Überlastungsanzeigen, Personalpoolnutzung, Verlegungen.
 5. **Strukturpruefung vorbereiten:** MD-Prüfung kann PpUGV-Daten heranziehen.
 6. **Ausnahmen prüfen:** Notfall (Bereitschaftsdienst, kurzfristige Erkrankung), Genehmigungstatbestaende.
 
@@ -57,7 +57,7 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 - PpUGV-Bereiche werden schrittweise erweitert; Live-Check g-ba.de und gkv-spitzenverband.de.
 - Pflegepool, Leiharbeit anrechnen nur, wenn examiniert und im Stationsplan.
 - PPR 2.0 (§ 137k SGB V) wird Pflegepersonalbemessung erweitern (Live-Check Konkretisierung).
-- Ueberlastungsanzeigen rechtssicher dokumentieren — Beweismittel bei MD-Prüfung.
+- Überlastungsanzeigen rechtssicher dokumentieren — Beweismittel bei MD-Prüfung.
 - Bei wiederholten Verstoessen droht Landesaufsicht (§§ … LKHG).
 
 ## Mustertexte
@@ -65,7 +65,7 @@ Die **Pflegepersonaluntergrenzen-Verordnung (PpUGV)** auf Grundlage § 137i SGB 
 > Pflegesensitive Bereiche der Klinik nach PpUGV: 1. Intensivstation (Erwachsene): Tagschicht Quote 1:2,5 ueberschritten (gefordert 1:2). 2. Geriatrie: 1:10 im Sollbereich. Maßnahmen: 1. … 2. … Meldung InEK [Datum].
 
 **Antwortschreiben auf MD-Strukturpruefung:**
-> Die PpUGV-Quote in der Periode [Quartal] ist nachweislich eingehalten, mit Ausnahme von Tagen … (Begruendung, Verlegungen, Ueberlastungsanzeigen). Anlagen: Dienstplanauszug, Personalmeldung InEK.
+> Die PpUGV-Quote in der Periode [Quartal] ist nachweislich eingehalten, mit Ausnahme von Tagen … (Begruendung, Verlegungen, Überlastungsanzeigen). Anlagen: Dienstplanauszug, Personalmeldung InEK.
 
 ## Typische Fehler
 - Pflegehelfer voll anrechnen statt mit Anrechnungsfaktor.

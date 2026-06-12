@@ -1,6 +1,6 @@
 ---
 name: subsumtionshelfer-faelle-pattern
-description: "Pattern-Sammlung typischer Klausur- und Schriftsatz-Konstellationen mit fertigen Subsumtionsbausteinen. 10 Faelle aus Polizeirecht, Versammlung, Datenschutz, Berufsfreiheit, Pandemie, Eigentum, Klimaschutz; pro Fall: Eingriffsbeschreibung, Schrankenfrage, Stufen-Pruefung, Ergebnis."
+description: "Pattern-Sammlung typischer Klausur- und Schriftsatz-Konstellationen mit fertigen Subsumtionsbausteinen. 10 Faelle aus Polizeirecht, Versammlung, Datenschutz, Berufsfreiheit, Pandemie, Eigentum, Klimaschutz; pro Fall: Eingriffsbeschreibung, Schrankenfrage, Stufen-Prüfung, Ergebnis."
 ---
 
 # Subsumtionshelfer — 10 Pattern-Faelle
@@ -92,7 +92,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Stufe | Subsumtion |
 |---|---|
 | Vorfrage | Abgrenzung Inhaltsbestimmung (Art 14 I 2 GG) vs. Enteignung (Art 14 III GG) |
-| Schutzbereich | Eigentum + ggf. erweitert auf vermoegenswerte Rechte |
+| Schutzbereich | Eigentum + ggf. erweitert auf vermögenswerte Rechte |
 | Schranke | Bei Inhaltsbestimmung: Gesetz; bei Enteignung: Gesetz + Entschaedigung |
 | Vier-Stufen | Erforderlichkeit oft Nadeloehr (Verhältnismäßigkeit der Lastenverteilung) |
 | Angemessen | Lastenausgleich, Uebergangsregelungen, Bestandsschutz |
@@ -134,7 +134,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 |---|---|
 | Anspruch | Auf staatliches Schutzhandeln aus Art 2 II, Art 6 I, Art 14 I, Art 20a GG |
 | Prüfung | Vier-Stufen, gespiegelt: legt staatliches Untaetigsein die Schutzpflicht offen? |
-| Massstab | Nicht "evident unwirksam" allein; konkrete Plausibilitaet gefordert (Klimaschutz-Linie) |
+| Maßstab | Nicht "evident unwirksam" allein; konkrete Plausibilitaet gefordert (Klimaschutz-Linie) |
 
 **Standardformel:** "Aus dem Untermassverbot ergibt sich eine Pflicht des Gesetzgebers, ein wirksames Schutzkonzept vorzuhalten; das BVerfG kontrolliert die Plausibilitaet und Wirksamkeit (`untermassverbot-schutzpflicht-dimension`)."
 
@@ -148,7 +148,7 @@ Statt jeden Fall von Null zu durchdenken: typische Konstellationen mit Subsumtio
 | Eingriff | Strafe |
 | Schranke | StGB |
 | Prüfung | Paragraf 46 StGB als verhaeltnismaessigkeitsfunktionale Norm |
-| Massstab | Tat- und Schuldangemessenheit; Vermeidung von ueberzogenen Strafhoehen |
+| Maßstab | Tat- und Schuldangemessenheit; Vermeidung von ueberzogenen Strafhoehen |
 
 **Standardformel:** "Die Strafzumessung ist die strafrechtliche Auspraegung der Verhältnismäßigkeit; sie konkretisiert Geeignetheit (Praevention), Erforderlichkeit (mildestes Strafmass) und Angemessenheit (Tat- und Schuldangemessenheit) (`strafrecht-strafzumessung-verhaeltnismaessigkeit`)."
 

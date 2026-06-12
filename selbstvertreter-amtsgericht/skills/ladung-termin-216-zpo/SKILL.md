@@ -7,7 +7,7 @@ description: "Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort
 
 ## Worum geht es?
 
-Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** nach § 216 ZPO. Diese enthaelt Datum, Uhrzeit, Sitzungssaal und wichtige Hinweise. Prüfen Sie die Ladung sorgfaeltig — bei Fehlern oder Unklarheiten Geschaeftsstelle anrufen.
+Wenn das Gericht muendliche Verhandlung anberaumt, erhalten Sie eine **Ladung** nach § 216 ZPO. Diese enthaelt Datum, Uhrzeit, Sitzungssaal und wichtige Hinweise. Prüfen Sie die Ladung sorgfaeltig — bei Fehlern oder Unklarheiten Geschäftsstelle anrufen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -85,7 +85,7 @@ Originale der Urkunden, die Sie als Anlagen eingereicht haben — bei Zweifel da
 
 ### Schritt 8 — Akten-Einsicht vorab
 
-Sie können vor dem Termin Akten einsehen. Antrag an die Geschaeftsstelle, Termin vereinbaren.
+Sie können vor dem Termin Akten einsehen. Antrag an die Geschäftsstelle, Termin vereinbaren.
 
 ## Worauf Sie besonders achten müssen
 

@@ -1,6 +1,6 @@
 ---
 name: gerechtigkeit-verteilung-effizienz
-description: "Prueft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen."
+description: "Prüft Verteilungs-, Korrektur- und Effizienzargumente, ohne wirtschaftliche Zweckmaessigkeit als Recht zu verkaufen."
 ---
 
 # Gerechtigkeit, Verteilung, Effizienz

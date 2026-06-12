@@ -16,7 +16,7 @@ description: "Handelsregisterabruf 체ber offizielle Quellen f체r Unternehmenspr�
 ## Triage zu Beginn
 1. Was ist der Zweck des Abrufs: Vertretungspruefung, KYC/GwG, Zustellungsanschrift, Vertragspartei-Identifikation?
 2. Ist der Eintrag beim Handelsregister aktuell (letzter Abruf-Zeitstempel noetig f체r Nachweis)?
-3. Gibt es Verdachtsmomente f체r Sitzverlegung, Geschaeftsfuehreraenderung oder Insolvenzen?
+3. Gibt es Verdachtsmomente f체r Sitzverlegung, Gesch채ftsf체hreraenderung oder Insolvenzen?
 4. Ist eine Gesellschafterliste (GmbH) oder Prokura-Eintragung relevant?
 
 ## Aktuelle Rechtsprechung

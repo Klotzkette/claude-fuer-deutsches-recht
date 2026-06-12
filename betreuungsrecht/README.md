@@ -103,7 +103,7 @@ Beim Einsatz von KI-Tools sind insbesondere zu beachten:
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -111,7 +111,7 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | --- | --- |
 | `anschluss-router` | Einstieg, Schnelltriage und Fallrouting im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der... |
 | `anschluss-routing` | Anschluss-Routing für Betreuungsrecht: wählt den nächsten Spezial-Skill nach Engpass (Beschwerde 1 Monat § 63 FamFG, Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), dokumentiert Router-Entscheidung mit Begründung. |
-| `aufgabenkreise-festlegen` | Aufgabenkreise einer Betreuung festlegen: Vermoegensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB). |
+| `aufgabenkreise-festlegen` | Aufgabenkreise einer Betreuung festlegen: Vermögensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB). |
 | `bericht-betreuer-betreuerpflichten` | Bericht: Mandantenkommunikation und Entscheidungsvorlage im Betreuungsrecht. |
 | `bericht-mandantenkommunikation` | Bericht: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sankt... |
 | `betreuer-als-erbe` | Prüfungslinie für betreuer als erbe im Betreuungsrecht. |
@@ -124,12 +124,12 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `betreuerpflichten-genehmigung-bericht` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `betreuerpflichten-genehmigung-betreuung` | Betreuerpflichten, Genehmigung und Berichtswesen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output im Betreuungsrecht. |
 | `betreuung-anwaltskosten-rvg` | Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten. |
-| `betreuung-bei-demenz` | Betreuung bei Demenz: Geschaeftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge. |
-| `betreuung-demenz-erbe-werden-erwachsene` | Betreuung bei Demenz: Geschaeftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge im Betreuungsrecht. |
-| `betreuung-erbe-werden` | Betreuer als Erbe oder Beschenkter: § 1825 BGB Verbot, Genehmigungspflicht, Anfechtbarkeit. Pruefraster für Notarpraxis und Konflikt-Anzeige beim Betreuungsgericht. |
+| `betreuung-bei-demenz` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge. |
+| `betreuung-demenz-erbe-werden-erwachsene` | Betreuung bei Demenz: Geschäftsfaehigkeit § 104 BGB, Lichte-Momente-Lehre, Einwilligung Aerztliche Behandlung, Pflegeentscheidungen. Vorgehen bei spaet diagnostizierter Demenz und Wirksamkeit frueherer Verträge im Betreuungsrecht. |
+| `betreuung-erbe-werden` | Betreuer als Erbe oder Beschenkter: § 1825 BGB Verbot, Genehmigungspflicht, Anfechtbarkeit. Prüfraster für Notarpraxis und Konflikt-Anzeige beim Betreuungsgericht. |
 | `betreuung-fuer-erwachsene-kinder` | Betreuung für erwachsene Kinder mit Behinderung: Uebergang Vormundschaft zu Betreuung mit 18. Geburtstag, Erfordernis fruehzeitiger Antrag. Vorlage Mandantenkommunikation Eltern. |
-| `betreuung-grenzueberschreitend` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene. |
-| `betreuung-grenzueberschreitend-betreuungsantrag` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster für im Ausland lebende Betroffene im Betreuungsrecht. |
+| `betreuung-grenzueberschreitend` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene. |
+| `betreuung-grenzueberschreitend-betreuungsantrag` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Prüfraster für im Ausland lebende Betroffene im Betreuungsrecht. |
 | `betreuung-im-strafverfahren` | Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. |
 | `betreuung-interessen` | Betreuung: Mehrparteienkonflikt und Interessenmatrix: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
 | `betreuung-mehrparteien-konflikt-und-interessen` | Betreuung: Mehrparteienkonflikt und Interessenmatrix im Betreuungsrecht. |
@@ -144,11 +144,11 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `bgb-btog-demenz` | BGB: Verhandlung, Vergleich und Eskalation im Betreuungsrecht. |
 | `btog-schriftsatz-brief-memo-bausteine` | Btog: Schriftsatz-, Brief- und Memo-Bausteine: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Ve... |
 | `btog-schriftsatz-brief-und-memo-bausteine` | Btog: Schriftsatz-, Brief- und Memo-Bausteine im Betreuungsrecht. |
-| `btr-aufgabenkreise-formulierung` | Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behörden, Postangelegenheiten. Pruefraster für Mass und Mindestmass nach Reform 2023. |
-| `btr-betreuer-gegen-vorsorgevollmacht` | Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Prüfung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Pruefraster und Beispielsfall. |
+| `btr-aufgabenkreise-formulierung` | Aufgabenkreise praezise formulieren: Vermögenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behörden, Postangelegenheiten. Prüfraster für Mass und Mindestmass nach Reform 2023. |
+| `btr-betreuer-gegen-vorsorgevollmacht` | Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Prüfung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Prüfraster und Beispielsfall. |
 | `btr-erstantrag-und-eilantrag` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. |
 | `btr-erstantrag-zwangsmedikation-genehmigung` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten im Betr... |
-| `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhörung Betroffener, Verfahrenspflegerbestellung. Pruefraster und Mustertexte. |
+| `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhörung Betroffener, Verfahrenspflegerbestellung. Prüfraster und Mustertexte. |
 | `chronologie-und-belegmatrix` | Chronologie und Belegmatrix: 1. Wer fragt in welcher Rolle? 2. Was ist das gewünschte Ergebnis? 3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen? 4. Welche Unterlagen, Daten oder Belege liegen bereits vor? |
 | `demenz-internationaler-bezug-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder... |
 | `demenz-internationaler-bezug-und-schnittstellen` | Demenz: Internationaler Bezug und Schnittstellen im Betreuungsrecht. |
@@ -212,11 +212,11 @@ Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Beschre
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Betreuungsrecht: trennt fehlende Tatsachen von fehlenden Belegen (Betreuungsbeschluss, Sachverständigengutachten, Vorsorgevollmacht), nennt pro Lücke Beweisthema, Beschaffungsweg (Betreuungsgericht (AG))... |
 | `verdachtsvertraege-behoerden-gericht-und-registerweg` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg im Betreuungsrecht. |
 | `verdachtsvertraege-pruefung` | Verdachtsvertraege: Behörden-, Gerichts- oder Registerweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sank... |
-| `vermoegensverzeichnis-kontodaten` | Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht. |
+| `vermoegensverzeichnis-kontodaten` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Betreuungsrecht. |
 | `vermoegensverzeichnis-pruefung` | Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berüc... |
-| `vermoegensverzeichnis-start` | Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlu... |
-| `vorsorgevollmacht-pruefen` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf. |
-| `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster für den Vergleich Vollmacht/Betreuungsbedarf im Be... |
+| `vermoegensverzeichnis-start` | Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlu... |
+| `vorsorgevollmacht-pruefen` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf. |
+| `vorsorgevollmacht-wunschermittlung` | Vorsorgevollmacht prüfen: § 1820 BGB, Reichweite, Form (Schriftform für Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Prüfraster für den Vergleich Vollmacht/Betreuungsbedarf im Be... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router: schlägt nach der ersten Prüfung die passenden Fachmodule aus demselben Plugin vor im Betreuungsrecht. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Betreuungsrecht. |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten im Betreuungsrecht. |

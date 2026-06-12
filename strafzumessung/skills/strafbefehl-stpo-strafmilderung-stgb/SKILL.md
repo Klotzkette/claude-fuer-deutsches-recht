@@ -44,7 +44,7 @@ Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die S
 Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenommen:
 
 - Die Tatumstaende ergeben sich allein aus der Akte.
-- Persoenliche und wirtschaftliche Verhaeltnisse werden oft geschaetzt (§ 40 Abs. 3 StGB).
+- Persoenliche und wirtschaftliche Verhältnisse werden oft geschaetzt (§ 40 Abs. 3 StGB).
 - Strafzumessungstatsachen nach § 46 Abs. 2 StGB werden gewuerdigt, aber ohne Anhörung des Beschuldigten.
 
 ## Schritt-für-Schritt-Anleitung (Verteidigung)

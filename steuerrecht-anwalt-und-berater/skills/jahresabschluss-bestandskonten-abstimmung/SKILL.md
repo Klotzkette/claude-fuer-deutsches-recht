@@ -97,7 +97,7 @@ Vor dem JA-Endlauf müssen alle Bestandskonten (Klasse 0-3 SKR 03 bzw. entsprech
 ## Strategie und Praxis-Tipps
 
 - Bestandskonten-Abstimmung ist Pflicht — nicht abgekuerzte Prüfung.
-- Bei Pruefungspflicht: WP fordert Abstimmung formell.
+- Bei Prüfungspflicht: WP fordert Abstimmung formell.
 - Bei groesseren Mandanten: Saldenabstimmung mit Lieferanten/Kunden Standard.
 - Werterhellung-Prüfung kann erhebliche Auswirkungen haben.
 

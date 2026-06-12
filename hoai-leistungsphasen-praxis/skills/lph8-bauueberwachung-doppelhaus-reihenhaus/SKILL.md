@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-doppelhaus-reihenhaus
-description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Baut..."
+description: "Bauueberwachung nach HOAI LPH 8 für Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schlüssel-fertige Baut..."
 ---
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
@@ -43,7 +43,7 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 - DIN EN 1996-1-1 Eurocode 6: Bemessung Trennwaende Mauerwerk
 - LBO des jeweiligen Bundeslandes: Gebaeudeziordnung GK 2 Reihenhaus, Abstandsflaechenregelung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Haustrennwand Feuerwiderstand: Wanddicke, vollstaendiger Moertelputz, keine Schlitze ohne Abschottung
 2. Schallschutz Trenndecke: Trittschalldaemmung-Dicke und WLG nach Gutachten, Randstreifen korrekt eingebaut
@@ -56,9 +56,9 @@ Jede Einheit wird separat abgenommen, da Kaeufermangelansprueche sich auf die je
 
 - PlanRadar einheitenbezogen: separate Projekte je Einheit oder getrennte Layer, eigene Maengelliste je Einheit
 - Drohnenflug DJI Mavic 3 nach Dachdeckung: Daemmung unter Ziegeln, Gratabschluss, Kehlwasserrinne dokumentiert
-- Lieferscheine Schallschutzelemente: Herstellerbescheinigung Trittschalldaemmplatten EN 13162, Pruefzeugnis Estrich
+- Lieferscheine Schallschutzelemente: Herstellerbescheinigung Trittschalldaemmplatten EN 13162, Prüfzeugnis Estrich
 - Videodokumentation Schlusskontrolle: 360-Grad-Kamera Ricoh Theta V je Einheit für Gewaehrleistungsansprueche
-- Fotodokumentation Haustrennwand vor Verputz: Bewehrung, Wanddicke, Anschluesse mit Massstab
+- Fotodokumentation Haustrennwand vor Verputz: Bewehrung, Wanddicke, Anschluesse mit Maßstab
 
 ## Meldungserstellung im ERP / SAP
 

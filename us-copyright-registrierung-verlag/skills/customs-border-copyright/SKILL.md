@@ -1,6 +1,6 @@
 ---
 name: customs-border-copyright
-description: "Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border im Us Copyright Registrierung Verlag."
+description: "Prüft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border im Us Copyright Registrierung Verlag."
 ---
 
 # Customs and Border Copyright

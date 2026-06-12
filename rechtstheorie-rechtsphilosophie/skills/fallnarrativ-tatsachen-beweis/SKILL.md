@@ -1,6 +1,6 @@
 ---
 name: fallnarrativ-tatsachen-beweis
-description: "Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben."
+description: "Prüft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben."
 ---
 
 # Fallnarrativ, Tatsachen, Beweis

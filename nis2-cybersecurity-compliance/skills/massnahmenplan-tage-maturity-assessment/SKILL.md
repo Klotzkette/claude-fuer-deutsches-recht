@@ -3,7 +3,7 @@ name: massnahmenplan-tage-maturity-assessment
 description: "Baut 100-Tage-Programm für Cyber-Compliance im Nis2 Cybersecurity Compliance."
 ---
 
-# Massnahmenplan 100 Tage
+# Maßnahmenplan 100 Tage
 
 ## Arbeitsweg
 

@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeitspruefung-warum-ueberhaupt-regeln
-description: "Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik"
+description: "Erforderlichkeitspruefung als erster Prüfschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Prüfraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen für die Stellungnahme und einer Heuristik"
 ---
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
@@ -19,7 +19,7 @@ Leitsatz des NKR: *"Wenn nicht noetig, dann nicht regeln."* Bevor methodische Au
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Erster Pruefschritt jeder Stellungnahme
+- Erster Prüfschritt jeder Stellungnahme
 - Ressort begruendet Vorhaben mit "politischem Wunsch" ohne Sachgrund
 - Vorhaben dupliziert bestehende Regelung
 - Vorhaben adressiert ein Marktversagen ohne dieses zu benennen
@@ -34,7 +34,7 @@ Rueckfrage nur wenn unklar: *"Welches konkrete Problem soll geloest werden, das 
 - **HdR** Teil A.III — Begruendungspflichten
 - **Subsidiaritaetsprinzip** Art. 5 EUV (bei EU-Bezug)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. Problemdefinition
 

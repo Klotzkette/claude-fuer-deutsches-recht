@@ -1,9 +1,9 @@
 ---
 name: ascii-pruefungsschema
-description: ASCII-Pruefungsschema fuer die vierstufige Verhaeltnismaessigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
+description: ASCII-Prüfungsschema fuer die vierstufige Verhältnismäßigkeitspruefung mit Box-Drawing fuer Sequenzen Abzweige und Ampelstatus. Mit Vorlage fuer Schriftsatzanlage Klausurausarbeitung und Mandatsmemo.
 ---
 
-# Ascii Pruefungsschema
+# Ascii Prüfungsschema
 
 ## Schema 1: Sequenz
 

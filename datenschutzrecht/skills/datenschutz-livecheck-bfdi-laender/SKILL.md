@@ -16,7 +16,7 @@ Sie brauchen den Skill **vor jeder** Mandantenkommunikation in einem datenschutz
 
 Sieben-Fragen-Diagnose:
 
-1. **Mandatsgebiet:** Auskunft, Datenpanne, Bussgeld, Schadensersatz, Drittlandstransfer, Beschaeftigtendatenschutz, KI-VO-Schnittstelle?
+1. **Mandatsgebiet:** Auskunft, Datenpanne, Bussgeld, Schadensersatz, Drittlandstransfer, Beschäftigtendatenschutz, KI-VO-Schnittstelle?
 2. **Zustaendige Aufsicht:** BfDI oder welches Bundesland? Federfuehrend nach Art. 56 DSGVO?
 3. **Rechtsbereich:** Privatwirtschaft, öffentlicher Bereich, Telekommunikation und Telemedien (TDDDG), Strafverfolgung?
 4. **Verarbeitungsart:** Marketing, HR, Gesundheit, Finanz, Cloud, KI?

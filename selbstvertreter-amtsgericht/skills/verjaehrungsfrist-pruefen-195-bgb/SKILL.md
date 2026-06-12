@@ -41,12 +41,12 @@ Eine Forderung "verjaehrt" — sie besteht zwar weiter, aber der Schuldner kann 
 ### Schritt 1 — Welche Frist gilt?
 
 - Regelfall: **3 Jahre** nach § 195 BGB.
-- Kauf-Maengelrechte: 2 Jahre nach Uebergabe (§ 438 I Nr. 3 BGB). 5 Jahre bei Bauwerken (§ 438 I Nr. 2).
+- Kauf-Maengelrechte: 2 Jahre nach Übergabe (§ 438 I Nr. 3 BGB). 5 Jahre bei Bauwerken (§ 438 I Nr. 2).
 - Werkmaengel: 2 oder 5 Jahre nach § 634a BGB.
 - Versicherungs-Anspruch: 3 Jahre nach § 195 BGB i. V. m. § 12 VVG.
 - Eigentums-Herausgabe: 30 Jahre § 197 I Nr. 1 BGB.
 - Mietruecksstand: 3 Jahre.
-- Reisemangel: 2 Jahre nach § 651j BGB (Achtung Aenderung 2018, ggf. aktuelle Fassung prüfen).
+- Reisemangel: 2 Jahre nach § 651j BGB (Achtung Änderung 2018, ggf. aktuelle Fassung prüfen).
 
 ### Schritt 2 — Wann beginnt die Frist?
 
@@ -57,7 +57,7 @@ Bei Regelfrist 3 Jahre:
 
 Bei Sonderfristen (§ 438 BGB):
 
-- Mit Uebergabe der Sache.
+- Mit Übergabe der Sache.
 
 ### Schritt 3 — Hemmung prüfen
 

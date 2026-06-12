@@ -122,7 +122,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Subunternehmer-Klausel im KI-Vertrag prüfen | Pruefschema Art. 28 Abs. 2 DSGVO; Template unten |
+| Standard — Subunternehmer-Klausel im KI-Vertrag prüfen | Prüfschema Art. 28 Abs. 2 DSGVO; Template unten |
 | Variante A — Subunternehmer-Einsatz untersagt | Verbot klar kommunizieren; Vertragsanpassung empfehlen |
 | Variante B — Genehmigung liegt vor aber Klausel unklar | Klarstellungsformulierung einfordern; Anlage mit Subunternehmer-Liste |
 | Variante C — Subunternehmer ausserhalb EU | Drittlandstransfer-Prüfung zusaetzlich noetig (Art. 46 DSGVO) |

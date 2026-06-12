@@ -58,19 +58,19 @@ Der Steuerberater rechnet sein Honorar nach der StBVV (Steuerberatervergutungsve
 |---|---|
 | StBVV-Standard | Klare Rahmenleistung (Jahresabschluss, Steuererklaerung) |
 | Pauschalvereinbarung | Laufende Buchfuehrung, Lohnbuchfuehrung, Mandantenpauschale |
-| Zeithonorar | Beratung, Sondertaetigkeiten, Pruefungsbegleitung |
+| Zeithonorar | Beratung, Sondertaetigkeiten, Prüfungsbegleitung |
 | Erfolgsabhaengig | Eingeschraenkt zulässig (§ 9a StBVV) |
 
 ### Phase 2 — Gegenstandswert ermitteln
 
 | Leistung | Gegenstandswert |
 |---|---|
-| Buchfuehrung | Jahresumsatz, alternativ Geschaeftsvorfaelle |
+| Buchfuehrung | Jahresumsatz, alternativ Geschäftsvorfaelle |
 | Jahresabschluss | Bilanzsumme + Lohnsumme + 50 Prozent Umsatz |
 | Steuererklaerung ESt | ZvE des Mandanten |
 | Steuererklaerung KSt | Bemessungsgrundlage |
 | USt-Voranmeldung | Brutto-Umsatz |
-| Pruefungsbegleitung | Pruefungsergebnis |
+| Prüfungsbegleitung | Prüfungsergebnis |
 
 ### Phase 3 — Gebührensatz waehlen
 
@@ -120,7 +120,7 @@ Bankverbindung: ...
 - Schriftliche Vereinbarung mit Mandant.
 - Pauschalbetrag pro Monat / Jahr.
 - Was ist enthalten / was Zusatzauftrag.
-- Anpassung jaehrlich oder bei wesentlicher Aenderung.
+- Anpassung jaehrlich oder bei wesentlicher Änderung.
 
 ### Phase 6 — Rechnungsausgabe und Mahnung
 

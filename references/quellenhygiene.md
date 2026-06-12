@@ -4,7 +4,7 @@ Diese Regeln gelten repo-weit für alle Skills, sobald Normen, Rechtsprechung, L
 
 - Keine halluzinierten Aktenzeichen, Fundstellen oder Randnummern.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarer Quelle ausgeben, sofern sie tragend ist.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben, sofern sie tragend ist.
 - Normenstand, Behoerdenhinweise, Formulare und Verfahrensrecht live oder anhand bereitgestellter Quellen prüfen, wenn das Ergebnis davon abhaengt.
 - Unsicherheiten, Annahmen und fehlende Unterlagen offen markieren.
 - Mandantengeheimnisse, Personalakten, Gesundheitsdaten, Strafakten und vertrauliche Unternehmensdaten nur in rechtskonformer Umgebung verarbeiten.

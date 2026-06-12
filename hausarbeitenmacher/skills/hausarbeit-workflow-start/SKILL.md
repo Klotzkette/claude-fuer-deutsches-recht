@@ -24,7 +24,7 @@ description: "Student beginnt Hausarbeit und braucht vollständige Begleitung vo
 
 ## Zentrale Normen
 - § 13 JAG NRW — Anforderungen an Hausarbeiten im Examen: völlig eigensatndige wissenschaftliche Leistung
-- § 1 PruefO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Pruefungsleistung
+- § 1 PrüfO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Prüfungsleistung
 - §§ 133, 157 BGB — Methodische Basis für korrekte Auslegung im Workflow
 - § 242 BGB — Treu und Glauben: umfasst auch sorgfaeltige wissenschaftliche Arbeit
 

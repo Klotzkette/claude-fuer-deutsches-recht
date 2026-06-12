@@ -1,6 +1,6 @@
 ---
 name: konzessionsvergabe-konzvgv
-description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession: Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht..."
+description: "Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession: Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht..."
 ---
 
 # Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession
@@ -14,7 +14,7 @@ description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzess
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
+**Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und prüfen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung für Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Prüfraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
 
 ### Konzessionsvergabe (KonzVgV)
 
@@ -25,7 +25,7 @@ description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzess
 4. Sektorenbezug (dann § 154 GWB + KonzVgV)?
 5. Mindestlaufzeit § 3 KonzVgV beachten?
 
-## Pruefraster
+## Prüfraster
 ### Konzessionsbegriff § 105 GWB
 - Vergabe der Verwertung eines Bauwerks/Dienstleistung an einen Wirtschaftsteilnehmer.
 - Gegenleistung: Nutzungsrecht + ggf. Zahlung.
@@ -39,7 +39,7 @@ description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzess
 ### Verfahrensgrundsaetze § 4 KonzVgV
 - Gleichbehandlung, Nichtdiskriminierung, Transparenz.
 - Verhandlungsfreiheit weitergehender als VgV.
-- Aenderungen Gegenstand/Bedingungen im Verfahren nur eingeschraenkt (kein Wechsel auf wesentlich anderen Konzessionsgegenstand).
+- Änderungen Gegenstand/Bedingungen im Verfahren nur eingeschraenkt (kein Wechsel auf wesentlich anderen Konzessionsgegenstand).
 
 ### Wertung § 16 KonzVgV
 - Wirtschaftlichstes Angebot über Gesamtbetrachtung (Preis, Qualitaet, Innovation, Umwelt, Soziales).
@@ -53,7 +53,7 @@ description: "Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzess
 | Verfuegbarkeit | [...] | [...] | i. d. R. Konzessionaer |
 | Refinanzierung | [...] | [...] | Konzessionaer, soweit kein Festpreismodell |
 | Hoehere Gewalt | [...] | [...] | ueblicherweise geteilt |
-| Aenderung Gesetze | [...] | [...] | meist Konzessionsgeber |
+| Änderung Gesetze | [...] | [...] | meist Konzessionsgeber |
 
 ## Typische Fehler
 - Konzessionsmodell ohne ausreichendes Betriebsrisiko -> es bleibt öffentlicher Auftrag, Anwendung VgV statt KonzVgV.

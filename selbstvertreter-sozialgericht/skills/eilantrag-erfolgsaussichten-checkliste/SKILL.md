@@ -103,7 +103,7 @@ Brauchen:
 
 Wenn die Checkliste positiv ist: Eilantrag stellen.
 
-Wenn unklar: Beratung bei Sozialverband oder Sozialgericht-Geschaeftsstelle.
+Wenn unklar: Beratung bei Sozialverband oder Sozialgericht-Geschäftsstelle.
 
 Wenn schwierig: Anwalt mit Beratungshilfe (siehe `beratungshilfe-vor-widerspruch-brh`).
 

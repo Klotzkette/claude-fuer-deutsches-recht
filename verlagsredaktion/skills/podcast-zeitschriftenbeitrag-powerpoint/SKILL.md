@@ -52,7 +52,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 ## Praxistipps der alten Redaktion
 
-- "Podcast-Aussagen veralten schnell. Wer einen Podcast zitiert, sollte auch das Datum so verstehen, wie eine Rspr.-Aenderung sie ueberholen kann."
+- "Podcast-Aussagen veralten schnell. Wer einen Podcast zitiert, sollte auch das Datum so verstehen, wie eine Rspr.-Änderung sie ueberholen kann."
 - Bei Fremdpodcasts den Anbieter / die Sprecherin informieren - das schafft Akzeptanz, ist aber rechtlich bei Zitat nach § 51 UrhG nicht zwingend.
 - Bei langen Podcasts (zwei Stunden +) im Beleg die Episodenkapitelmarke nutzen, nicht nur die Sekunde.
 - Bei juristischen Podcasts oft Diskrepanz zwischen ausgestrahlter Aussage und spaeterer Praezisierung des Sprechers - im Zweifel Ruecksprache.
@@ -63,7 +63,7 @@ Sie brauchen ihn, wenn ein Manuskript Podcast-Belege enthaelt oder ein Podcast a
 
 > Schmidt, "Diskussion zur 3-Saeulen-Regel", in: Podcast "Strafrecht aktuell", Folge 47, 12.05.2026, Min. 18:33, abrufbar unter [URL], zuletzt abgerufen am 02.06.2026.
 
-**Klaerungs-Email an Sprecher (bei Fremdpodcast):**
+**Klärungs-Email an Sprecher (bei Fremdpodcast):**
 
 > Sehr geehrte Frau Schmidt, wir wuerden Ihre Aussage aus Folge 47 Ihres Podcasts "Strafrecht aktuell" vom 12.05.2026 (Min. 18:33 ff.) als Zitatbeleg in einem Aufsatz für die NJW verwerten. Das Zitat lautet woertlich: "[Zitat]". Wir stuetzen uns auf § 51 UrhG. Eine kurze Bestaetigung Ihrerseits, dass Sinn und Aussage zutreffend wiedergegeben sind, waere uns hilfreich.
 

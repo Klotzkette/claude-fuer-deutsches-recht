@@ -1,6 +1,6 @@
 ---
 name: containerschiff-register-hypothek
-description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Las..."
+description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prüft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Las..."
 ---
 
 # Containerschiff – Registerprüfung
@@ -14,12 +14,12 @@ description: "Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasi
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Mandantenfall
-Eine finanzierende Bank prüft den Seeschiffsregister oder Auslandsregister unter Bare-Boat vor Auszahlung eines Kredits für ein Containerlinienfrachtschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Glaeubigerliste für die Masse.
+Eine finanzierende Bank prüft den Seeschiffsregister oder Auslandsregister unter Bare-Boat vor Auszahlung eines Kredits für ein Containerlinienfrachtschiff. Ein Investor will Eigentuemerstellung und Lastenfreiheit bestaetigt haben. Ein Insolvenzverwalter erstellt die Gläubigerliste für die Masse.
 
 ## Erste Schritte
 1. Aktuellen Registerauszug (Seeschiffsregister oder Auslandsregister unter Bare-Boat) beim zuständigen Gericht beschaffen.
 2. Eigentuemerstellung (Abt. I) prüfen; Verkaeufereigenschaft bestaetigen.
-3. Hypothekenabteilung (Abt. II): Betrag, Rang, Glaeubiger und Faelligkeit.
+3. Hypothekenabteilung (Abt. II): Betrag, Rang, Gläubiger und Faelligkeit.
 4. Gesetzliche Vorrechte identifizieren (HGB §§ 596-601 oder BinSchG §§ 102-116).
 5. Arrest- und Pfaendungsvermerke sichten; Zeitpunkt der Eintragung beachten.
 6. Registerpruefprotokoll erstellen; Rangkarte und Risikoampel ausgeben.

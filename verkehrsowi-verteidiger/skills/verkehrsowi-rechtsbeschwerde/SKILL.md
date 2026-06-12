@@ -38,7 +38,7 @@ Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil ge
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Pruefschema Rechtsbeschwerde-Zulaessigkeit
+## Prüfschema Rechtsbeschwerde-Zulaessigkeit
 
 ```
 § 79 Abs. 1 OWiG — Zulaessigkeit:

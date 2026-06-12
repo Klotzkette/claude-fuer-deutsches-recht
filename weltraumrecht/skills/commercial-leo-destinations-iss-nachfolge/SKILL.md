@@ -64,7 +64,7 @@ description: "Commercial LEO Destinations: rechtliche Architektur kommerzieller 
 - Liability gegenueber anderen Operatoren (Konjunktionsereignis).
 - Lloyd's LMA-Klauseln für Spacelegal-Risiken.
 
-## Pruefraster
+## Prüfraster
 
 1. Vertragsstuktur (NASA SAA, OCA, MHA, PHA)?
 2. Anwendbares Recht (US, ESA-Mitgliedstaat, gemischt)?

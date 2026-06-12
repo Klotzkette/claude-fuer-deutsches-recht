@@ -36,7 +36,7 @@ description: "Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZ
 - **VO (EU) 2021/2267**: Autonome Zollaussetzungen für bestimmte Industrieerzeugnisse.
 - **UZK Art. 56-58**: Zolltarif und Anwendung von Praeferenzregelungen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] TARIC-Abfrage durchgefuehrt und alle Praeferenzen erfasst?
 - [ ] APS-Berechtigung des Ursprungslandes geprueft?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

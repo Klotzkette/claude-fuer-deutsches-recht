@@ -1,6 +1,6 @@
 ---
 name: foreign-interference-foto-wahlraum
-description: "Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Anzeichen ausländischer Einflussnahme bewerten im Wahlkampfrecht."
 ---
 
 # Foreign Interference Lage
@@ -33,7 +33,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachkern: Foreign Interference Lage
 
-- **Wahlkampflage (Foreign Interference Lage):** Anzeichen auslaendischer Einflussnahme bewerten.
+- **Wahlkampflage (Foreign Interference Lage):** Anzeichen ausländischer Einflussnahme bewerten.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.
@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft koordinierte Accounts, Leaks, Timing, Sicherheitsbehoerdenkontakt, Plattformmeldung und Kommunikation.
+Prüft koordinierte Accounts, Leaks, Timing, Sicherheitsbehoerdenkontakt, Plattformmeldung und Kommunikation.
 
 ## Spezifischer Prüfpfad
 

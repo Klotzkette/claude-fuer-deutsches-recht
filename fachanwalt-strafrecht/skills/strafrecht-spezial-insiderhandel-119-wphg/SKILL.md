@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insiderhandel-119-wphg
-description: "Insiderhandel § 119 WpHG iVm Art: 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Ar..."
+description: "Insiderhandel § 119 WpHG iVm Art: 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Prüfraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Ar..."
 ---
 
 # Insiderhandel § 119 WpHG iVm Art
@@ -14,7 +14,7 @@ description: "Insiderhandel § 119 WpHG iVm Art: 14 MAR: Anwendungsfall Verteidi
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
+**Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Prüfraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo für Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
 
 ### Insiderhandel § 119 WpHG iVm Art. 14 MAR
 
@@ -93,8 +93,8 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 - **§ 119 WpHG / § 120 WpHG Marktmanipulation.** Bei Kombination (z. B. Insiderhandel und Kursmanipulation) Tateinheit möglich.
 - **§ 119 WpHG / § 264a StGB Kapitalanlagebetrug.** Bei Wertpapierprospekten Tateinheit möglich.
-- **§ 119 WpHG / § 263 StGB.** Bei Vermoegensschaedigung Dritter eher fern, da Marktdelikt.
-- **§ 119 WpHG / § 266 StGB Untreue.** Bei Verletzung Vermoegensbetreuungspflicht gegen Mandanten (Asset Manager, Investmentbank).
+- **§ 119 WpHG / § 263 StGB.** Bei Vermögensschaedigung Dritter eher fern, da Marktdelikt.
+- **§ 119 WpHG / § 266 StGB Untreue.** Bei Verletzung Vermögensbetreuungspflicht gegen Mandanten (Asset Manager, Investmentbank).
 - **§ 119 WpHG / § 261 StGB Geldwaesche.** Nach Reform 2021.
 - **§ 119 WpHG / Art. 30 MAR Verwaltungssanktion.** Parallel zur Strafverfolgung (Bussgeld bis 5 Mio. EUR oder 15 Prozent des Konzernumsatzes natuerlicher Person / juristischer Person).
 
@@ -106,14 +106,14 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 - **Einziehung § 73 StGB** Kursgewinn (Differenz zum hypothetischen Marktpreis).
 - **Berufsverbot § 70 StGB** insbes. bei Wertpapierdienstleistern und Vorstaenden.
 - **BaFin-Sanktionen Art. 30 MAR** Bussgeld bis 5 Mio. EUR natuerliche Person / 15 Mio. oder 15 Prozent juristische Person.
-- **Disqualifikation Vorstand / Geschaeftsfuehrer** § 6 GmbHG, § 76 AktG bei Verurteilung wegen § 119 WpHG (5 Jahre).
+- **Disqualifikation Vorstand / Geschäftsführer** § 6 GmbHG, § 76 AktG bei Verurteilung wegen § 119 WpHG (5 Jahre).
 - **Veroeffentlichung der Sanktion** Art. 34 MAR ("Naming and Shaming").
 
 ## Mustertexte
 
 ### Bestreiten Insiderqualitaet
 
-"Eine Insiderinformation im Sinne von Art. 7 MAR lag zum Zeitpunkt des streitgegenstaendlichen Geschaefts am [Datum] nicht vor. Die in der Anklage genannte Information über [...] war zum genannten Zeitpunkt nicht hinreichend praezise, da [...]. Hilfsweise wird die Kursrelevanz bestritten: Eine erhebliche Beeinflussung des Marktwertes durch Bekanntwerden der fraglichen Tatsache war nicht zu erwarten; der nach Adhoc-Veroeffentlichung am [Datum] eingetretene Kurseffekt von 0.4 Prozent unterhalb der Marktvolatilitaet der gleichen Periode."
+"Eine Insiderinformation im Sinne von Art. 7 MAR lag zum Zeitpunkt des streitgegenstaendlichen Geschäfts am [Datum] nicht vor. Die in der Anklage genannte Information über [...] war zum genannten Zeitpunkt nicht hinreichend praezise, da [...]. Hilfsweise wird die Kursrelevanz bestritten: Eine erhebliche Beeinflussung des Marktwertes durch Bekanntwerden der fraglichen Tatsache war nicht zu erwarten; der nach Adhoc-Veroeffentlichung am [Datum] eingetretene Kurseffekt von 0.4 Prozent unterhalb der Marktvolatilitaet der gleichen Periode."
 
 ### Safe Harbour Art. 9 MAR Trading-Plan
 

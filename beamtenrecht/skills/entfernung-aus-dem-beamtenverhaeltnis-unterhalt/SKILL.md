@@ -1,6 +1,6 @@
 ---
 name: entfernung-aus-dem-beamtenverhaeltnis-unterhalt
-description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhaeltnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Kra..."
+description: "Skill zur Entfernung aus dem Beamtenverhaeltnis als schaerfster Disziplinarmassnahme und zum Anspruch auf Unterhaltsbeitrag. Klaert das Verhältnis von Statusverlust und Versorgungsverlust den Anspruch auf Unterhaltsbeitrag nach § 10 BDG die Bemessung des Unterhaltsbeitrags und die Folgen für Kra..."
 ---
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag
@@ -38,7 +38,7 @@ Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder ve
 - Bei Entfernung erlischt regelmaessig die Beihilfeberechtigung. PKV-Versicherte müssen Tarif anpassen.
 - Anwartschaftsversicherung prüfen.
 
-### d) Verhaeltnis zur Ruhestandsversetzung
+### d) Verhältnis zur Ruhestandsversetzung
 - Bei laufender Erkrankung ist zu prüfen, ob alternativ Ruhestandsversetzung wegen Dienstunfaehigkeit möglich ist; die Disziplinarklage wuerde dann grundsätzlich zur Aberkennung des Ruhegehalts fuehren (anderer Tatbestand).
 
 ### e) Verfahren
@@ -47,7 +47,7 @@ Skill für Beamte, denen die Entfernung aus dem Beamtenverhaeltnis droht oder ve
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 10, 11 BDG; § 8 SGB VI; landesrechtliche Aequivalente.
+- Normen: §§ 10, 11 BDG; § 8 SGB VI; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zur Entfernung und zum Unterhaltsbeitrag — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 

@@ -54,8 +54,8 @@ Nach Einreichung schickt das Gericht eine **Kostenrechnung** an Sie. Darauf:
 
 Sehr wichtig: zahlen Sie **innerhalb von 2 Wochen** nach Aufforderung. Praxis-Tipp: am selben Tag, an dem Sie die Rechnung sehen.
 
-- Ueberweisung: Aktenzeichen im Verwendungszweck.
-- Bankueberweisung kann 1-2 Tage dauern — am besten Echtzeit-Ueberweisung.
+- Überweisung: Aktenzeichen im Verwendungszweck.
+- Bankueberweisung kann 1-2 Tage dauern — am besten Echtzeit-Überweisung.
 
 ### Schritt 4 — Bedeutung für § 167 ZPO
 
@@ -78,7 +78,7 @@ Sie zahlen dann erst nach PKH-Prüfung — oder gar nicht (bei PKH ohne Ratenzah
 
 ### Schritt 7 — Beleg aufbewahren
 
-- Ueberweisungs-Beleg.
+- Überweisungs-Beleg.
 - Später Kostenrechnung des Gerichts.
 
 Bei Erfolg in der Klage können Sie die Vorschuss-Auslagen kostenfestsetzen lassen.
@@ -97,7 +97,7 @@ Praxis: Online-Banking mit Aktenzeichen im Verwendungszweck. Dauer 1-2 Werktage.
 ## Typische Fehler
 
 - "Vorschuss kann ich später zahlen." → Verjährung kann eintreten.
-- "Kein Verwendungszweck bei Ueberweisung." → Bank-Zuordnung verzoegert sich.
+- "Kein Verwendungszweck bei Überweisung." → Bank-Zuordnung verzoegert sich.
 - "Ich warte auf zweite Mahnung." → Eingang vom Gericht dauert. Verfahren in Schwebe.
 
 ## Quellen und Aktualitaet

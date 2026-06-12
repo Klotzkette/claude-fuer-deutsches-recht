@@ -122,7 +122,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — GAP-Sammelantrag prüfen und unterstuetzen | Pruefschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
+| Standard — GAP-Sammelantrag prüfen und unterstuetzen | Prüfschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
 | Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
 | Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
 | Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhältnismäßigkeit prüfen |

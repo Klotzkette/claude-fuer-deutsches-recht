@@ -39,7 +39,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 
 - Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
 - Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
+- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschäftspartner)
 - Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
 - Vertraulichkeit (NDA im Vergleich)
 
@@ -143,7 +143,7 @@ Im Bereich Internationales Wirtschafts- und Schiedsrecht oft uebersehen:
 
 ## Mediation als Alternative
 
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
+- Wenn Beziehung erhalten bleiben soll (Familie, Geschäftspartner, Mieter und Vermieter).
 - Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
 - Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
 - Förderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
@@ -180,7 +180,7 @@ Klassische Stolperfalle in Internationales Wirtschafts- und Schiedsrecht:
 - **§ 796a ZPO** — Anwaltsvergleich mit Vollstreckungsklausel (inlaendischer Vollstreckungstitel)
 - **§ 794 Abs. 1 Nr. 1 ZPO** — Prozessvergleich als Vollstreckungstitel
 - **§§ 1054, 1060 ZPO** — Schiedsvergleich; Vollstreckbarerklarungsantrag
-- **Art. 3 New Yorker Ubereinkommen 1958 (NYC)** — Anerkennung und Vollstreckung auslaendischer Schiedsertrage
+- **Art. 3 New Yorker Ubereinkommen 1958 (NYC)** — Anerkennung und Vollstreckung ausländischer Schiedsertrage
 - **§ 123 BGB** — Anfechtung wegen arglistiger Tauschung im Vergleich
 - **§ 138 BGB** — Sittenwidrigkeit unangemessener Vergleichsklauseln
 

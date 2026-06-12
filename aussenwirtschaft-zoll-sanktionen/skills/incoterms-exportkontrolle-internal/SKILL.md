@@ -15,7 +15,7 @@ description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwort
 
 ## Mandantenfall
 
-- Verkauf EXW ab Werk: Auslaendischer Kaeufer holt Ware ab; Dual-Use-Exportkontrolle beim Verkaeufer oder Kaeufer?
+- Verkauf EXW ab Werk: Ausländischer Kaeufer holt Ware ab; Dual-Use-Exportkontrolle beim Verkaeufer oder Kaeufer?
 - DDP-Lieferung nach USA: deutsches Unternehmen als Importeur-of-Record; ITAR-Exponierung.
 - CFR-Lieferung nach Russland: Frachtfuehrer bucht Umweg über Tuerkei; Verantwortungsabgrenzung.
 
@@ -36,11 +36,11 @@ description: "Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwort
 - **US EAR 15 CFR Part 758.3**: US-Ausfuehrer-Definition (unabhaengig von Incoterms).
 - **VO (EU) 2021/821 Art. 2 Nr. 3**: Ausfuehrender im Sinne der Dual-Use-Verordnung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Incoterms-Klausel und Eigentuemeruebergang im Vertrag bestimmt?
 - [ ] Ausfuehrer nach UZK und AWV unabhaengig von Incoterms ermittelt?
-- [ ] EXW: Vereinbarung mit auslaendischem Kaeufer über Exportkontrollverantwortung?
+- [ ] EXW: Vereinbarung mit ausländischem Kaeufer über Exportkontrollverantwortung?
 - [ ] DDP: US-ITAR/EAR-Pflichten und Importeur-of-Record-Risiko geprueft?
 - [ ] Genehmigungsinhaber und Ausfuehrer konsistent?
 - [ ] Vertragsklausel an Exportkontrollverantwortung angepasst?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

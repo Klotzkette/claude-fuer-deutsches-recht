@@ -48,7 +48,7 @@ description: "Aufhebungsvertrag Sperrzeit Prognose: ordnet Normen, Nutzerangaben
 - "Wer das Beschäftigungs-Verhältnis durch Aufhebungsvertrag löst"
 - Auch beim Arbeitgeber-Initiierten Aufhebungsvertrag — wenn Arbeitnehmer mit-wirkt
 - BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: Der Abschluss eines Aufhebungsvertrags zur Abwendung einer rechtmäßigen, drohenden ordentlichen betriebsbedingten Kuendigung des Arbeitgebers kann einen wichtigen Grund i.S.d. § 144 SGB III a.F. (heute § 159 SGB III) darstellen, wenn dem Arbeitnehmer die Hinnahme der Kuendigung nicht zuzumuten ist und die Kuendigungsfrist eingehalten wird. Quelle: dejure.org, Vernetzung BSG 12.07.2006 - B 11a AL 47/05 R.
-- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Praezisierung zum Pruefumfang "objektiv rechtmäßige Kuendigung". Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
+- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Praezisierung zum Prüfumfang "objektiv rechtmäßige Kuendigung". Quelle: dejure.org, Vernetzung BSG 02.05.2012 - B 11 AL 6/11 R.
 - Massgeblich daneben: Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig).
 
 ### Folge Sperrzeit
@@ -104,9 +104,9 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ### BSG-Linie
 
 - BSG, B 11a AL 47/05 R (12.07.2006): kein "wichtiger Grund" bei sittenwidriger oder offensichtlich rechtswidriger Kuendigung als angebliche Alternative; "wichtiger Grund" bei objektiv rechtmäßiger, drohender Kuendigung und Einhaltung der Kuendigungsfrist.
-- BSG, B 11 AL 6/11 R (02.05.2012): Praezisierung zur Pruefdichte; "drohende Kuendigung" muss konkret und ernsthaft sein.
+- BSG, B 11 AL 6/11 R (02.05.2012): Praezisierung zur Prüfdichte; "drohende Kuendigung" muss konkret und ernsthaft sein.
 - Offene Quelle jeweils: dejure.org-Vernetzung.
-- "Vernunft" der Aufhebungsvereinbarung wenn Abfindungs-Vereinbarung im erwarteten Korridor (0,25 - 0,5 BruttoMG pro Beschaeftigungsjahr) und Kuendigungsfrist gewahrt.
+- "Vernunft" der Aufhebungsvereinbarung wenn Abfindungs-Vereinbarung im erwarteten Korridor (0,25 - 0,5 BruttoMG pro Beschäftigungsjahr) und Kuendigungsfrist gewahrt.
 
 ### Praktische Anwendung
 
@@ -355,6 +355,6 @@ und die Empfehlung verstanden habe."
 - KSchG §§ 9 10
 - EStG §§ 24 34
 - BSG, Urteil vom 12.07.2006 - B 11a AL 47/05 R: wichtiger Grund bei drohender betriebsbedingter Kuendigung (dejure.org-Vernetzung).
-- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Pruefdichte für rechtmäßige drohende Kuendigung (dejure.org-Vernetzung).
+- BSG, Urteil vom 02.05.2012 - B 11 AL 6/11 R: Prüfdichte für rechtmäßige drohende Kuendigung (dejure.org-Vernetzung).
 - Fachliche Weisungen der Bundesagentur für Arbeit zu § 159 SGB III (Stand 01.01.2024, fortlaufend gueltig; arbeitsagentur.de).
 - Quellenregel: Literatur (z.B. Krodel) nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

@@ -1,13 +1,13 @@
 ---
 name: drittwirkung-unionsgrundrechte-charta
-description: Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundrechte und der unionsrechtlichen Diskriminierungsverbote. Erlaeutert EuGH-Linie Mangold Kuecuekdeveci Egenberger Bauer und IR zur Drittwirkung im Anwendungsbereich des Unionsrechts. Wann eine Charta-Norm zwischen Privaten unmittelbar wirkt wann nur ueber richtlinienkonforme Auslegung und wie Verhaeltnismaessigkeit nach Art. 52 Abs. 1 GRCh in der horizontalen Konstellation greift.
+description: Horizontale Wirkung der Unionsgrundrechte aus der Charta der Grundrechte und der unionsrechtlichen Diskriminierungsverbote. Erläutert EuGH-Linie Mangold Kuecuekdeveci Egenberger Bauer und IR zur Drittwirkung im Anwendungsbereich des Unionsrechts. Wann eine Charta-Norm zwischen Privaten unmittelbar wirkt wann nur ueber richtlinienkonforme Auslegung und wie Verhältnismäßigkeit nach Art. 52 Abs. 1 GRCh in der horizontalen Konstellation greift.
 ---
 
 # Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie
 
 ## Zweck dieses Skills
 
-Im Unionsrecht ist die Drittwirkung der Grundrechte teilweise weiter ausgeprägt als im deutschen Verfassungsrecht. Der EuGH hat für bestimmte Charta-Normen eine **unmittelbare horizontale Wirkung** anerkannt. Verhältnismäßigkeit folgt der Schranke des Art. 52 Abs. 1 GRCh und wirkt auch im Verhaeltnis zwischen Privaten. Dieser Skill ordnet die Linie und zeigt wo Charta-Normen direkt zwischen Privaten greifen.
+Im Unionsrecht ist die Drittwirkung der Grundrechte teilweise weiter ausgeprägt als im deutschen Verfassungsrecht. Der EuGH hat für bestimmte Charta-Normen eine **unmittelbare horizontale Wirkung** anerkannt. Verhältnismäßigkeit folgt der Schranke des Art. 52 Abs. 1 GRCh und wirkt auch im Verhältnis zwischen Privaten. Dieser Skill ordnet die Linie und zeigt wo Charta-Normen direkt zwischen Privaten greifen.
 
 ## Charta der Grundrechte — Anwendungsbereich
 
@@ -23,13 +23,13 @@ Jede Einschraenkung eines Charta-Rechts muss
 - einem von der Union anerkannten Gemeinwohlziel oder dem Schutz von Rechten Dritter dienen
 - **verhaeltnismaessig** sein.
 
-Verhältnismäßigkeit ist hier ausdruecklich kodifizierter Pruefungsmassstab.
+Verhältnismäßigkeit ist hier ausdruecklich kodifizierter Prüfungsmassstab.
 
 ## Horizontale Wirkung — EuGH-Linie
 
 ### Mangold-Kuecuekdeveci-Linie
 
-In Rs. C-144/04 Mangold und Rs. C-555/07 Kuecuekdeveci hat der EuGH festgestellt dass das Verbot der Altersdiskriminierung **als allgemeiner Grundsatz des Unionsrechts** auch im Verhaeltnis zwischen Privaten anwendbar ist und mit der Folge der Nichtanwendung kollidierenden nationalen Rechts.
+In Rs. C-144/04 Mangold und Rs. C-555/07 Kuecuekdeveci hat der EuGH festgestellt dass das Verbot der Altersdiskriminierung **als allgemeiner Grundsatz des Unionsrechts** auch im Verhältnis zwischen Privaten anwendbar ist und mit der Folge der Nichtanwendung kollidierenden nationalen Rechts.
 
 ### Egenberger und IR
 
@@ -48,7 +48,7 @@ Die horizontale Wirkung erfordert
 
 ## Verhältnismäßigkeit nach Art. 52 Abs. 1 GRCh
 
-### Pruefungsschema horizontal
+### Prüfungsschema horizontal
 
 1. **Anwendungsbereich der Charta** bejaht.
 2. **Charta-Recht** mit horizontaler Wirkung identifiziert.
@@ -61,12 +61,12 @@ Die horizontale Wirkung erfordert
 
 ### Unterschied zur deutschen Drittwirkung
 
-Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** über Generalklauseln. Im Unionsrecht kann die Wirkung **unmittelbar** sein wenn die Charta-Norm hinreichend bestimmt ist. Die Verhaeltnismaessigkeitspruefung ist dadurch im Unionsrecht systemnaher angeordnet.
+Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** über Generalklauseln. Im Unionsrecht kann die Wirkung **unmittelbar** sein wenn die Charta-Norm hinreichend bestimmt ist. Die Verhältnismäßigkeitspruefung ist dadurch im Unionsrecht systemnaher angeordnet.
 
-## Verhaeltnis zur deutschen Grundrechtsordnung
+## Verhältnis zur deutschen Grundrechtsordnung
 
-- BVerfGE 152 152 Recht auf Vergessen II — soweit ein Sachverhalt vom Unionsrecht determiniert ist prüfen deutsche Gerichte am Massstab der Charta.
-- BVerfGE 152 216 Recht auf Vergessen I — soweit Spielraum verbleibt am Massstab des Grundgesetzes.
+- BVerfGE 152 152 Recht auf Vergessen II — soweit ein Sachverhalt vom Unionsrecht determiniert ist prüfen deutsche Gerichte am Maßstab der Charta.
+- BVerfGE 152 216 Recht auf Vergessen I — soweit Spielraum verbleibt am Maßstab des Grundgesetzes.
 - Trennlinie folgt Solange-II-Linie und Art. 23 Abs. 1 GG.
 
 ## Tragende Leitentscheidungen
@@ -83,9 +83,9 @@ Im deutschen Verfassungsrecht ist Drittwirkung **mittelbar** über Generalklause
 
 ## Fallstricke
 
-- **Charta-Anwendungsbereich vorschnell bejahen** — sie greift nur bei Durchfuehrung des Unionsrechts. Ohne unionsrechtlichen Bezug bleibt das Grundgesetz Massstab.
+- **Charta-Anwendungsbereich vorschnell bejahen** — sie greift nur bei Durchfuehrung des Unionsrechts. Ohne unionsrechtlichen Bezug bleibt das Grundgesetz Maßstab.
 - **Horizontale Wirkung pauschal annehmen** — nur bestimmte Charta-Normen sind hinreichend bestimmt für horizontale Wirkung. Andere wirken nur über Richtlinienauslegung.
-- **Verhältnismäßigkeit nach deutscher Dogmatik prüfen** — Art. 52 Abs. 1 GRCh hat eigene Pruefungsstruktur einschliesslich Wesensgehaltspruefung.
+- **Verhältnismäßigkeit nach deutscher Dogmatik prüfen** — Art. 52 Abs. 1 GRCh hat eigene Prüfungsstruktur einschliesslich Wesensgehaltspruefung.
 - **Trennlinie Recht auf Vergessen verwechseln** — die Aufteilung zwischen Charta und Grundgesetz folgt der Determinierung durch Unionsrecht nicht der prozessualen Anrufung.
 - **Richtlinienkonforme Auslegung uebersehen** — bevor die Charta-Norm horizontal angewendet wird ist der Versuch richtlinienkonformer Auslegung vorrangig.
 

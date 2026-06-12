@@ -113,7 +113,7 @@ Stand: 05/2026.
 - DiREG (in Kraft 01.08.2023; Online-Beurkundung Kapitalerhoehung/Satzungsaenderung bei einstimmigem Beschluss): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html
 - StaRUG (SanInsFoG, BGBl. I 2020, 3256; in Kraft 01.01.2021): https://www.gesetze-im-internet.de/starug/
 - § 15b InsO (rechtsformneutrales Zahlungsverbot): https://www.gesetze-im-internet.de/inso/__15b.html
-- Bei Aenderung GmbHG/UmwStG aktualisieren.
+- Bei Änderung GmbHG/UmwStG aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 

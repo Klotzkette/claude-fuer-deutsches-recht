@@ -1,6 +1,6 @@
 ---
 name: rechtsbegriff-und-geltung
-description: "Prueft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law."
+description: "Prüft, was in einer Argumentation als Recht gilt: Gesetz, Rechtsprechung, Dogmatik, Verwaltungspraxis, Gewohnheit, Vertrag, Satzung oder soft law."
 ---
 
 # Rechtsbegriff und Geltung

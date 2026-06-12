@@ -7,7 +7,7 @@ description: "Definiert den Grundbegriff Erfuellungsaufwand nach NKRG GGO § 44 
 
 ## Worum geht es konkret
 
-Erfuellungsaufwand ist der **zentrale Pruefgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Liefere die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
+Erfuellungsaufwand ist der **zentrale Prüfgegenstand des NKR**. Der Begriff ist gesetzlich verankert (NKRG, GGO) und methodisch im Leitfaden BMI/NKR konkretisiert. Liefere die Standarddefinition und die Abgrenzung zu anderen Kostenbegriffen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -20,7 +20,7 @@ Keine Rueckfrage noetig.
 
 ## Rechtlicher und methodischer Rahmen
 
-- **§ 4 NKRG** — Pruefungsgegenstand Erfuellungsaufwand
+- **§ 4 NKRG** — Prüfungsgegenstand Erfuellungsaufwand
 - **§ 44 GGO** — Gesetzesfolgenabschaetzung
 - **§ 45 GGO** — Darstellung in der Begruendung
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
@@ -37,7 +37,7 @@ Erfuellungsaufwand umfasst alle erforderlichen:
 - Dienstleistungen Dritter (Berater, Prüfer, Sachverstaendige)
 - internen Prozesse (Schulung, Dokumentation, IT-Anpassung)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Pflichtinhalt identifizieren** — welche konkrete Handlung wird angeordnet?
 2. **Adressaten bestimmen** — Buerger / Wirtschaft / Verwaltung

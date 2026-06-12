@@ -78,7 +78,7 @@ DesignG:
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
 
@@ -92,7 +92,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Schriftsatz im gewerblichen Rechtsschutz substantiieren | Output-Template Markenverletzung als Grundlage; Pruefkette unten |
+| Standard — Schriftsatz im gewerblichen Rechtsschutz substantiieren | Output-Template Markenverletzung als Grundlage; Prüfkette unten |
 | Variante A — Patentrecht statt Marken-/Urheberrecht | Technische Sachverhaltsbeschreibung verstaerken; Patentzeichnungen als Anlage |
 | Variante B — einstweilige Verfuegung | Kurze Substantiierung; Dringlichkeit und Verfuegungsanspruch im Vordergrund |
 | Variante C — Gegenseite hat starke Gegenrechte | Praeventivargumentation aufbauen; Defensivpositionen einbeziehen |
@@ -168,7 +168,7 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-## Pruefkette vor Versand
+## Prüfkette vor Versand
 
 1. Antrag tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?

@@ -27,15 +27,15 @@ Unabhängiges Beratungsgremium der Bundesregierung. Einrichtung durch NKRG (Gese
 
 Prüfung des Erfüllungsaufwands und der Folgekosten von Bundesgesetzen, Verordnungen und Allgemeinverwaltungsvorschriften.
 
-### Pruefberichte
+### Prüfberichte
 
-Der NKR erstellt einen Pruefbericht, der dem Kabinettsentwurf als Anlage beigefügt wird. Negative Berichte erschweren das parlamentarische Verfahren.
+Der NKR erstellt einen Prüfbericht, der dem Kabinettsentwurf als Anlage beigefügt wird. Negative Berichte erschweren das parlamentarische Verfahren.
 
 ## KMU-Test
 
 Mittelstandsrelevante Vorschriften müssen einen besonderen KMU-Check bestehen:
 
-- Welche Adressaten sind Unternehmen mit weniger als 250 Beschaeftigten?
+- Welche Adressaten sind Unternehmen mit weniger als 250 Beschäftigten?
 - Welche Umsetzungskosten?
 - Welche Alternativen sind milder?
 - Welche Ausnahmen / Schwellenwerte?

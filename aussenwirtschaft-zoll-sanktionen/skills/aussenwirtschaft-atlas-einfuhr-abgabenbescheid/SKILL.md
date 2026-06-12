@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-einfuhr-abgabenbescheid
-description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und U..."
+description: "Prüfen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und U..."
 ---
 
 # ATLAS-Einfuhr-Abgabenbescheid: Prüfen und Anfechten
@@ -36,7 +36,7 @@ description: "Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr:
 - **KN-Systematik/AEV**: Allgemeine Einreihungsvorschriften 1-6.
 - **FGO §§ 40-68**: Finanzgerichtliche Klage bei Zollbescheiden.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Zollwert-Methode korrekt angewendet (Transaktionswert primae facie)?
 - [ ] KN-Code stimmt mit Warenbeschreibung und AEV ueberein?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

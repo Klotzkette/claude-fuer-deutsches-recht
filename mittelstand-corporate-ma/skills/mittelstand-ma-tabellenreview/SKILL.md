@@ -105,10 +105,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Tabellen aus Mittelstand-Unterlagen reviewen | Tabellenreview nach Schema; Pruefbericht unten |
+| Standard — Tabellen aus Mittelstand-Unterlagen reviewen | Tabellenreview nach Schema; Prüfbericht unten |
 | Variante A — Excel-Tabellen mit Makros komplex | Makro-Dokumentation separat anfordern; Prüfung ohne Makros |
 | Variante B — Mandant will nur bestimmte KPIs prüfen | KPI-Subset prüfen; nicht alle Tabellenfelder |
-| Variante C — Tabellen aus Due-Diligence-Raum | NDA beachten; Pruefergebnis vertraulich behandeln |
+| Variante C — Tabellen aus Due-Diligence-Raum | NDA beachten; Prüfergebnis vertraulich behandeln |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -163,7 +163,7 @@ Bestehen Steuerrückstände oder laufende Betriebsprüfungen beim Finanzamt [Ort
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

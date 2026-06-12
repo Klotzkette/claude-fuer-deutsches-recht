@@ -139,7 +139,7 @@ description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Bele
  - Bio-basiert
  - Recycelt
 
-**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulässig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht über externen Link) erlaeutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
+**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulässig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht über externen Link) erläutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
 
 - **Mehrdeutige Aussage** "klimaneutral"
 - **Pflicht zur Substantiierung** im Werbe-Kontext
@@ -148,7 +148,7 @@ description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Bele
 
 **Parallel-Entscheidung BGH 27.06.2024, I ZR 142/23** (DM/Drogeriemarkt zu „umweltneutralen" Produkten): gleiche Substantiierungspflicht; Werbeaussage muss in sich klar sein. Quelle: bundesgerichtshof.de / dejure.org/2024,15821.
 
-- **EU-Greenwashing-Richtlinie (EU) 2024/825** vom 28.02.2024 (ABl. L 2024/825 vom 06.03.2024) zur Aenderung der UGP-RL und VRRL: Verbot generischer Umweltaussagen ohne Substantiierung; Umsetzungsfrist 27.03.2026. Quelle: eur-lex.europa.eu/eli/dir/2024/825/oj.
+- **EU-Greenwashing-Richtlinie (EU) 2024/825** vom 28.02.2024 (ABl. L 2024/825 vom 06.03.2024) zur Änderung der UGP-RL und VRRL: Verbot generischer Umweltaussagen ohne Substantiierung; Umsetzungsfrist 27.03.2026. Quelle: eur-lex.europa.eu/eli/dir/2024/825/oj.
 
 ### Bundeskartellamt-Verfahren
 

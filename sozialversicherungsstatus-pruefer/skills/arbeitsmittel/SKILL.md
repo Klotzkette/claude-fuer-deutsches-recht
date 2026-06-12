@@ -1,6 +1,6 @@
 ---
 name: arbeitsmittel
-description: "Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwarelizenzen, Räume und Spezialgeräte im Sozialversicherungsstatus Pruefer."
+description: "Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwarelizenzen, Räume und Spezialgeräte im Sozialversicherungsstatus Prüfer."
 ---
 
 # Arbeitsmittel und Equipment

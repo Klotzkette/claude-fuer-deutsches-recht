@@ -57,7 +57,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -68,7 +68,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `aufklaerung-nachforderung-56-vgv` | Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung: Aufklaerung, Nachforderung und Angebotsaufklaerung steuern:... |
 | `auftragswert-losbildung-rechner` | Auftragswert, Lose, Optionen, Verlaengerungen, Rahmenvereinbarungen und Umgehungsrisiken berechnen und dokumentieren: Auftragswert, Lose, Optionen, Verlaengerungen, Rahmenvereinbarungen und Umgehungsrisiken berechnen und dokumentieren. |
 | `ausschluss-bieter-paragraf-124-gwb` | Ausschluss Bieter § 124 GWB: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
-| `bieterfragen-antworten-management` | Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Aenderung der Unterlagen, Fristverlaengerung und Antwortlog: Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Trans... |
+| `bieterfragen-antworten-management` | Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Transparenz, Änderung der Unterlagen, Fristverlaengerung und Antwortlog: Bieterfragen, Antworten und Klarstellungen managen: Fristen, Gleichbehandlung, Trans... |
 | `bieterstrategie-go-no-go` | Bieterstrategie und Go/No-Go für Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen: Bieterstrategie und Go/No-Go für Ausschreibungen: Chancen, Aufwand, Rugepunkte, P... |
 | `de-facto-vergabe-135-gwb-fristen` | De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft prüfen: fehlende Bekanntmachung, unzulaessige Direktvergabe, 30-Tage/6-Monats-Fristen und Antraege: De-facto-Vergabe und Unwirksamkeit nach Paragraph 135 GWB vertieft pr... |
 | `de-facto-vergabe-klage` | De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat: Norme... |
@@ -106,7 +106,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `olg-sofortige-beschwerde` | Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Auftraggeber will VK-Beschluss angreifen oder verteidigen: Sofortige Beschwerde gegen VK-Entscheidung beim OLG-Vergabesenat erstellen: Bieter oder Au... |
 | `olg-vergabesenat-beschwerdebriefing` | OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten: OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefris... |
 | `orientierung-fehlerkatalog` | Orientierung Fehlerkatalog: Fehlerbremse; prüft Fristen, Zuständigkeit, Beweislast, Quellen und taktische Risiken vor Abgabe oder Versand. |
-| `orientierung-mandat-fachanwaltschaft` | Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken: Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren,... |
+| `orientierung-mandat-fachanwaltschaft` | Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur überblicken: Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren,... |
 | `output-waehlen` | Output-Wahl für Fachanwalt Vergaberecht: stimmt Adressat (Bieter, Öffentlicher Auftraggeber, Vergabekammer), Frist (§ 160 III GWB Rüge unverzüglich (10 Tage)) und Form auf den Zweck ab — typische Outputs: Rüge, Nachprüfungsantrag VK, Sof... |
 | `quellen-livecheck` | Quellen-Live-Check für Fachanwalt Vergaberecht: prüft Normen (GWB §§ 97 ff., VgV, VOB/A, VOL/A, UVgO) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Vergabekammer Bund/Länder und Quellenhygiene nach references/qu... |
 | `rahmenvereinbarung-abrufe-mini-wettbewerb` | Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern: Laufzeit, Hoechstmengen, Abrufmechanik, Rangfolge, Transparenz und Vertragsmanagement: Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern: Laufzeit, Hoechstmengen, Abrufme... |
@@ -127,9 +127,9 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `uvgo-fristen-form-und-zustaendigkeit` | Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg: Uvgo: Fristen, Form, Zuständigkeit und Rechtsweg. |
 | `uvgo-unterschwellenvergabe` | Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder Bieter will UVgO-Verstoss ruegen: Unterschwellenvergabe nach UVgO durchfuehren und angreifen: Auftraggeber unter EU-Schwellenwert oder B... |
 | `verfahrenswahl-kompass` | Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft, UVgO-Verfahren, VOB/A und Direktvergabe: Verfahrensart waehlen und begruenden: offen, nichtoffen, Verhandl... |
-| `verg-eignungspruefung-leitfaden` | Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit: Pruefraster für Bie... |
+| `verg-eignungspruefung-leitfaden` | Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit: Prüfraster für Bie... |
 | `verg-mehrparteien-konflikt-und-interessen` | Verg: Mehrparteienkonflikt und Interessenmatrix: Verg: Mehrparteienkonflikt und Interessenmatrix. |
-| `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff: GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster für Bieter und Vergabekammer. |
+| `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff: GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Prüfraster für Bieter und Vergabekammer. |
 | `verg-rahmenvereinbarung-konzession-spezial` | Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung: Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einse... |
 | `verg-vergabeverfahren-bauleiter` | Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft: Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog,... |
 | `vergabe-behoerden-gericht-und-registerweg` | Vergabe: Behörden-, Gerichts- oder Registerweg: Vergabe: Behörden-, Gerichts- oder Registerweg. |
@@ -145,7 +145,7 @@ Automatisch generierte Komplett-Liste aller 93 Skills in diesem Plugin. Beschrei
 | `vergabesperre-korruption-selbstreinigung` | Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will Sperre abwenden oder beenden: Vergabesperre und fakultative Ausschlussgruende mit Selbstreinigung nach § 125 GWB managen: Bieter will... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich):... |
 | `verhandlungsverfahren-dialog` | Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog strukturieren: Auftraggeber braucht flexibles Verfahren für komplexe Beschaffung: Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog struktu... |
-| `vertragsaenderung-132-gwb-change-control` | Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation: Vertragsaenderungen nach Paragraph 132 GWB und Change-Control... |
+| `vertragsaenderung-132-gwb-change-control` | Vertragsaenderungen nach Paragraph 132 GWB und Change-Control prüfen: wesentliche Änderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation: Vertragsaenderungen nach Paragraph 132 GWB und Change-Control... |
 | `vk-aufklaerung-vergleich` | VK-Aufklärungsverfahren und Vergleich im Vergabenachprüfungsverfahren: Laufendes VK-Verfahren bietet Vergleichsmöglichkeit: Normen: §... |
 | `vob-a-bauvergabe` | VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeber bei Bauleistungen oder Bieter im Bauvergabeverfahren: VOB-A-Bauvergabe (Abschnitte 1 und 2) strukturieren und angreifen: öffentlicher Auftraggeb... |
 | `vorinformation-134-gwb-stillhaltefrist` | Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist prüfen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen: Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist prüfen: Inhalt... |

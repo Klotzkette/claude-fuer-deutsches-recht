@@ -148,11 +148,11 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Gutachtenstil** — Pruefungsstil der juristischen Ausbildung: Obersatz, Definitionen, Subsumtion, Ergebnis (O-D-S-E).
+- **Gutachtenstil** — Prüfungsstil der juristischen Ausbildung: Obersatz, Definitionen, Subsumtion, Ergebnis (O-D-S-E).
 - **Urteilsstil** — Ergebnis zuerst, dann Begruendung; in der Hausarbeit nur bei eindeutigen Vorfragen zulässig.
 - **Subsumtion** — Unterordnung des Sachverhalts unter den Tatbestand einer Norm; zentrales Handwerk juristischer Arbeit.
 - **Anspruchsgrundlage** — Norm, die einen Anspruch gewaehrt; Ausgangspunkt jeder zivilrechtlichen Prüfung (z. B. § 433 Abs. 2 BGB).
-- **Pruefungsschema** — Vorgegebene Reihenfolge der zu pruefenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
+- **Prüfungsschema** — Vorgegebene Reihenfolge der zu prüfenden Tatbestandsmerkmale; z. B. Tatbestand-Rechtswidrigkeit-Schuld im Strafrecht.
 - **Meinungsstreit** — Kontroverse Rechtsfrage mit herrschender Meinung und Mindermeinungen; erfordert Argumentation und eigene Stellungnahme.
 - **Sokratischer Dialog** — Lernmethode durch gezielte Fragen statt vorgefertigter Antworten; Grundprinzip des Plugins.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -162,7 +162,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - §§ 241-853 BGB (Schuldrecht, Sachenrecht — Grundlage zivilrechtlicher Hausarbeiten)
 - §§ 1-37 StGB (Allgemeiner Teil Strafrecht — Tatbestand, Rechtswidrigkeit, Schuld)
 - §§ 40 ff. VwGO (Verwaltungsgerichtsordnung — Statthaftigkeit und Zulaessigkeit)
-- Art. 1-19 GG (Grundrechte — Grundlage verfassungsrechtlicher Pruefungen)
+- Art. 1-19 GG (Grundrechte — Grundlage verfassungsrechtlicher Prüfungen)
 - Art. 267 AEUV (Vorabentscheidungsverfahren EuGH — bei Europarecht-Bezug)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
@@ -183,7 +183,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - `gutachtenstil-vs-urteilsstil` — Klären, wann Gutachtenstil und wann Urteilsstil anzuwenden ist.
 - `subsumtion-schritt-für-schritt` — Subsumtion Schritt für Schritt ueben: Tatbestandsmerkmal, Definition, Sachverhalt, Ergebnis.
 - `meinungsstreit-darstellen` — Meinungsstreit mit herrschender Meinung, Mindermeinungen und eigenem Standpunkt darstellen.
-- `methodenlehre-auslegung` — Vier Auslegungsmethoden erlaeutern: grammatikalisch, systematisch, historisch, teleologisch.
+- `methodenlehre-auslegung` — Vier Auslegungsmethoden erläutern: grammatikalisch, systematisch, historisch, teleologisch.
 - `zivilrecht-anspruchsgrundlagen-pruefung` — Zivilrechtliche Ansprueche prüfen: V-C-G-D-D-B-Reihenfolge (Vertrag, culpa in contrahendo, GoA, Delikt, Bereicherung).
 - `strafrecht-tatbestand-rechtswidrigkeit-schuld` — Drei-Stufen-Schema Strafrecht: Tatbestand, Rechtswidrigkeit, Schuld.
 - `öffentliches-recht-statthaft-zulaessig-begruendet` — Verwaltungsrechtliche Klagen prüfen: Statthaftigkeit, Zulaessigkeit, Begruendetheit.
@@ -211,7 +211,7 @@ Der Dialogton ist behutsam-kritisch und wertschaetzend: Das Plugin erkennt, in w
 - Obersatz anticipiert das Ergebnis: Im Gutachtenstil verboten; korrekte Form ist hypothetisch.
 - Streitstand nicht aufgegriffen: Kontroverse Fragen werden als gesetzt behandelt statt eigenstaendig diskutiert.
 - Quellen ohne Seiten- oder Randnummern zitiert: Nachpruefbarkeit fehlt; im Jura-Zitierstandard Pflichtangabe.
-- Gliederung zu flach: Nur zwei Ebenen genügen nicht; tiefe Pruefungsschritte müssen strukturiert werden.
+- Gliederung zu flach: Nur zwei Ebenen genügen nicht; tiefe Prüfungsschritte müssen strukturiert werden.
 - Keine Selbstkontrolle vor Abgabe: Formfehler (Seitenanzahl, Deckblatt, eidesstattliche Erklaerung) kosten Punkte.
 
 ## Quellen und Aktualitaet

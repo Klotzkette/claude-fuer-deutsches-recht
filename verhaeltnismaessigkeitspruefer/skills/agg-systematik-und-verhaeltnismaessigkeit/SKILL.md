@@ -1,13 +1,13 @@
 ---
 name: agg-systematik-und-verhaeltnismaessigkeit
-description: Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zentralen Rechtfertigungsnormen Paragraph 8 und Paragraph 10 AGG im Arbeitsrecht und Paragraph 20 AGG im Zivilrecht. Verhaeltnismaessigkeit ist hier eingebauter Pruefungsmassstab innerhalb der Rechtfertigung.
+description: Allgemeines Gleichbehandlungsgesetz als einfachrechtliche Umsetzung der Unionsrichtlinien zum Diskriminierungsschutz. Erklaert Schutzbereich nach Paragraph 1 AGG Anwendungsbereich nach Paragraph 2 AGG Diskriminierungsformen nach Paragraph 3 AGG sowie die zentralen Rechtfertigungsnormen Paragraph 8 und Paragraph 10 AGG im Arbeitsrecht und Paragraph 20 AGG im Zivilrecht. Verhältnismäßigkeit ist hier eingebauter Prüfungsmassstab innerhalb der Rechtfertigung.
 ---
 
 # AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
 
 ## Zweck dieses Skills
 
-Das AGG ist die einfachrechtliche Brueckennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhältnismäßigkeit taucht im AGG nicht als selbstaendiger Pruefungsschritt auf sondern als integrierter Massstab in den Rechtfertigungstatbestaenden. Dieser Skill ordnet die Systematik und zeigt wo Verhältnismäßigkeit zu prüfen ist.
+Das AGG ist die einfachrechtliche Brueckennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Verhältnismäßigkeit taucht im AGG nicht als selbständiger Prüfungsschritt auf sondern als integrierter Maßstab in den Rechtfertigungstatbestaenden. Dieser Skill ordnet die Systematik und zeigt wo Verhältnismäßigkeit zu prüfen ist.
 
 ## Aufbau des AGG
 
@@ -17,7 +17,7 @@ Verbot der Benachteiligung wegen Rasse oder ethnischer Herkunft Geschlecht Relig
 
 ### Paragraph 2 AGG — Anwendungsbereich
 
-Sachlich: Zugang zu Beschaeftigung beruflicher Aufstieg Arbeitsbedingungen Mitgliedschaft in Berufsverbaenden Sozialschutz und Bildung. Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG für Massengeschaefte und privatrechtliche Versicherungen.
+Sachlich: Zugang zu Beschäftigung beruflicher Aufstieg Arbeitsbedingungen Mitgliedschaft in Berufsverbaenden Sozialschutz und Bildung. Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG für Massengeschaefte und privatrechtliche Versicherungen.
 
 ### Paragraph 3 AGG — Diskriminierungsformen
 
@@ -33,7 +33,7 @@ Sachlich: Zugang zu Beschaeftigung beruflicher Aufstieg Arbeitsbedingungen Mitgl
 
 Unterschiedliche Behandlung wegen eines Merkmals nach Paragraph 1 AGG ist zulässig wenn das Merkmal eine **wesentliche und entscheidende berufliche Anforderung** darstellt **der Zweck rechtmaessig** ist und die Anforderung **angemessen** ist.
 
-Pruefungsschritte:
+Prüfungsschritte:
 1. Berufliche Anforderung im konkreten Taetigkeitsbild benennen.
 2. Wesentlichkeit und Entscheidungserheblichkeit der Anforderung darlegen.
 3. Rechtmaessiger Zweck der Anforderung.
@@ -51,9 +51,9 @@ Hier sind alle vier Stufen der Verhältnismäßigkeit explizit benannt: legitime
 
 Im Anwendungsbereich der zivilrechtlichen Diskriminierungsverbote nach den Paragraphen 19 bis 21 AGG ist eine unterschiedliche Behandlung zulässig wenn für sie ein **sachlicher Grund** vorliegt. Absatz 1 zaehlt Regelbeispiele auf: Vermeidung von Gefahren Schutz der Intimsphaere Gewaehrung besonderer Vorteile bei fehlendem Gleichbehandlungsinteresse Religionsfreiheit.
 
-Pruefungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht aber Verhältnismäßigkeit wirkt als Korrektiv über das Angemessenheitselement.
+Prüfungsdichte: schwaecher als bei Paragraph 8 AGG. Sachlicher Grund reicht aber Verhältnismäßigkeit wirkt als Korrektiv über das Angemessenheitselement.
 
-## Verhaeltnis zu Verfassungsrecht und Unionsrecht
+## Verhältnis zu Verfassungsrecht und Unionsrecht
 
 - Das AGG setzt unter anderem die Richtlinien 2000/43/EG 2000/78/EG 2004/113/EG und 2006/54/EG um.
 - Im Anwendungsbereich des Unionsrechts gelten die Auslegungsmassstaebe des EuGH.

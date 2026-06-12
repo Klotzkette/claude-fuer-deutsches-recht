@@ -1,6 +1,6 @@
 ---
 name: section-36-vs-deutsche-schranken-schranke
-description: Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Pruefungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche Methodik staerkere Ergebnisse liefert.
+description: Direkter Vergleich Section 36 SA-Verfassung gegen deutsche Vier-Stufen-Schranken-Schranke. Mit Gegenueberstellung der Prüfungsschritte gemeinsamen Wurzeln Unterschieden bei Wesensgehalt Schutzpflichten und mit Empfehlungen wann welche Methodik staerkere Ergebnisse liefert.
 ---
 
 # Section 36 Vs Deutsche Schranken Schranke
@@ -49,7 +49,7 @@ Suedafrika: weniger ausgepraegte Schutzpflicht; Section 7 (3)
 verpflichtet zur Achtung, Erfuellung und Foerderung, ist aber
 methodisch weniger systematisiert.
 
-### Verhaeltnis zu praktischer Konkordanz
+### Verhältnis zu praktischer Konkordanz
 
 Deutschland: praktische Konkordanz als eigenstaendige Methodik bei
 Grundrechtskollision.

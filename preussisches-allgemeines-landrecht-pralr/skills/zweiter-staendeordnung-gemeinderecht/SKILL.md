@@ -61,6 +61,6 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 - Patrimonialgerichtsbarkeit bestand bis 1849 fort.
 - Beruehmte Patrimonialgerichts-Faelle in der Mark Brandenburg und Schlesien.
 
-### Pruefraster
+### Prüfraster
 1. Heute reine Rechtsgeschichte. Falls nicht: namensrechtliche Frage zum Adelspraedikat.
 2. Bei Patrimonialgerichtsbarkeit: Aktenbestaende heute in Landesarchiven; Vorsicht bei Erbe und Lehen.

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-sitzungspolizei-ordnungsmittel
-description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Massnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnu..."
+description: "Sitzungspolizei §§ 176 ff: GVG und Ordnungsmittel § 178 GVG souveraen navigieren. Verteidiger als Verfahrenssubjekt grundsaetzlich nicht Adressat zwangsweiser Maßnahmen § 177 GVG seit 1921. Wortentzug Sitzungsausschluss und Ordnu..."
 ---
 
 # Sitzungspolizei §§ 176 ff

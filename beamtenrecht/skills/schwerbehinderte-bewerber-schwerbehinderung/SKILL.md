@@ -1,6 +1,6 @@
 ---
 name: schwerbehinderte-bewerber-schwerbehinderung
-description: "Skill zur Pruefung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung de..."
+description: "Skill zur Prüfung der Pflichten öffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Prüfpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung de..."
 ---
 
 # Schwerbehinderte Bewerber im öffentlichen Dienst — § 165 SGB IX
@@ -33,7 +33,7 @@ Skill für schwerbehinderte oder gleichgestellte Bewerber im öffentlichen Diens
 - Bei Konzentrationsbewerbungen über zentrale Stellen sind die Pflichten nicht gemindert.
 
 ### b) Interne Besetzung
-- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur für Arbeit; interner Aufruf).
+- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Prüfpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur für Arbeit; interner Aufruf).
 
 ### c) Beteiligung Schwerbehindertenvertretung
 - § 178 Abs. 2 SGB IX: Unterrichtungs- und Anhörungsrecht in allen Angelegenheiten, die Schwerbehinderte betreffen, einschliesslich Bewerbungen.
@@ -56,7 +56,7 @@ Skill für schwerbehinderte oder gleichgestellte Bewerber im öffentlichen Diens
 
 ## 5. Ausgabeformat
 
-- Pruefraster Verfahrenspflichten öffentlicher Arbeitgeber.
+- Prüfraster Verfahrenspflichten öffentlicher Arbeitgeber.
 - AGG-Entschaedigungsschreiben.
 - Konkurrenteneilantrag.
 

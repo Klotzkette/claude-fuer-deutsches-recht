@@ -1,6 +1,6 @@
 ---
 name: betriebsausgaben-werbungskosten
-description: "Prüfungslinie für anw betriebsausgaben werbungskosten pruefraster im Steuerrecht Anwalt Und Berater."
+description: "Prüfungslinie für anw betriebsausgaben werbungskosten prüfraster im Steuerrecht Anwalt Und Berater."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

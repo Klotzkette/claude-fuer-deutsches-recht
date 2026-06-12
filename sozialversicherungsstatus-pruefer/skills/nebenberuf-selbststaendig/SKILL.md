@@ -1,6 +1,6 @@
 ---
 name: nebenberuf-selbststaendig
-description: "Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen im Sozialversicherungsstatus Pruefer."
+description: "Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Nebenberuflich selbständig

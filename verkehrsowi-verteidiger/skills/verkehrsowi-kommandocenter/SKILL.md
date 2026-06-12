@@ -56,7 +56,7 @@ description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt 
 | Mandantenkommunikation | `verkehrsowi-mandantenkommunikation` |
 | Quality Gate | `verkehrsowi-quality-gate` |
 
-## Zentrale OWi-Normen im Ueberblick
+## Zentrale OWi-Normen im Überblick
 
 - **§ 24 StVG** — Ordnungswidrigkeiten im Strassenverkehr allgemein
 - **§ 24a StVG** — Alkohol (0,5 Promille) und Drogen

@@ -1,9 +1,9 @@
 ---
 name: aussenwirtschaft-zollpruefung-aussenpruefung
-description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvo..."
+description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Prüfungsankuendigung Prüferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Prüfung. Typische Prüfungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Prüfungsvo..."
 ---
 
-# Zollaußenpruefung: Vorbereitung Prueferempfang und Risikobegrenzung
+# Zollaußenpruefung: Vorbereitung Prüferempfang und Risikobegrenzung
 
 ## Arbeitsweg
 
@@ -21,10 +21,10 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 
 ## Erste Schritte
 
-1. Pruefungsankuendigung analysieren: Pruefungszeitraum Pruefungsschwerpunkte zuständige Pruefstelle.
+1. Prüfungsankuendigung analysieren: Prüfungszeitraum Prüfungsschwerpunkte zuständige Prüfstelle.
 2. Dokumentenarchiv aufbauen: Zollanmeldungen Rechnungen Ursprungsdokumente Genehmigungen.
 3. Interne Vorabpruefung: Typische Schwachstellen (Zollwert Praeferenz KN-Einreihung) analysieren.
-4. Prueferempfang vorbereiten: Ansprechpartner bestimmen Auskunftspersonen schulen.
+4. Prüferempfang vorbereiten: Ansprechpartner bestimmen Auskunftspersonen schulen.
 5. Nacherhebungsrisiko kalkulieren und Rueckstellungen prüfen.
 6. Rechtsberatung einschalten für komplexe Sachverhalte und Einspruchsstrategie.
 
@@ -36,10 +36,10 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 - **UZK Art. 108**: Zollschuldnacherhebung nach Prüfung.
 - **§ 347 AO**: Einspruch gegen Steuerbescheide auch Zollbescheide.
 
-## Pruef-Raster
+## Prüf-Raster
 
-- [ ] Pruefungsankuendigung vollstaendig analysiert?
-- [ ] Dokumentenarchiv für Pruefungszeitraum vollstaendig?
+- [ ] Prüfungsankuendigung vollstaendig analysiert?
+- [ ] Dokumentenarchiv für Prüfungszeitraum vollstaendig?
 - [ ] Interne Vorabpruefung auf Schwachstellen abgeschlossen?
 - [ ] Ansprechpartner und Auskunftspersonen bestimmt und geschult?
 - [ ] Nacherhebungsrisiko quantifiziert und Rueckstellungen geprueft?
@@ -47,10 +47,10 @@ description: "Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereit
 
 ## Typische Fallstricke
 
-- Freiwillige Offenlegung von Fehlern vor Pruefungsbeginn wirkt strafmildernd; danach nicht mehr.
+- Freiwillige Offenlegung von Fehlern vor Prüfungsbeginn wirkt strafmildernd; danach nicht mehr.
 - Auskunftspersonen ohne Vorbereitung machen unbedachte Aussagen die Nacherhebungen auslosen.
 - Unvollstaendige Dokumentation wird als Verschulden gewertet.
-- Pruefungsschwerpunkte können sich auf weitere Jahre ausweiten.
+- Prüfungsschwerpunkte können sich auf weitere Jahre ausweiten.
 
 ## Schnittstellen zu anderen Skills
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

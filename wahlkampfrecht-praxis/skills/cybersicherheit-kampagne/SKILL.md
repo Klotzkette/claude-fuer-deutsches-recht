@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft MFA, Passwortmanager, Rollen, Geraete, Cloudfreigaben, Notfallkontakte und Phishing.
+Prüft MFA, Passwortmanager, Rollen, Geraete, Cloudfreigaben, Notfallkontakte und Phishing.
 
 ## Rechts- und Praxislogik
 

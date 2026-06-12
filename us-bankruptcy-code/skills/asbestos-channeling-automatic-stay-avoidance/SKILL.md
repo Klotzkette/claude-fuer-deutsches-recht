@@ -1,6 +1,6 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code."
+description: "Prüft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment im US Bankruptcy Code."
 ---
 
 # Asbestos Channeling Injunctions § 524(g)

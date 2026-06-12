@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungs..."
+description: "Prüfschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG bei Auswahlentscheidungen im öffentlichen Dienst. Liefert Bausteine für Konkurrentenwiderspruch und Konkurrentenklage. Klaert die drei Auswahlkriterien Eignung Befaehigung fachliche Leistung sowie Beurteilungsspielraum Beurteilungs..."
 ---
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
@@ -15,7 +15,7 @@ description: "Pruefschema zum Grundsatz der Bestenauslese aus Art. 33 Abs. 2 GG 
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Bewerber im öffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Pruefschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
+Skill für Bewerber im öffentlichen Dienst, die in einem Auswahlverfahren um Einstellung, Beförderung oder Übertragung eines höherwertigen Dienstpostens unterlegen sind oder unterliegen koennten. Liefert das materielle Prüfschema des Art. 33 Abs. 2 GG (Bestenauslese als grundrechtsgleiches Recht / bewerbungsverfahrensrechtlicher Anspruch).
 
 Anwendung typischerweise vor und neben den Skills `konkurrentenklage-einstweiliger-rechtsschutz`, `anlassbeurteilung-vs-regelbeurteilung`, `anforderungsprofil-konstitutiv-deklaratorisch`, `auswahlgespraech-dokumentationspflicht`, `plausibilisierung-gleicher-gesamtnoten`.
 

@@ -7,7 +7,7 @@ description: "AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenzi
 
 ## Fachkern: Agb Im Mietrecht Wohnraum Vs Gewerbe
 
-- **Klauselproblem (Agb Im Mietrecht Wohnraum Vs Gewerbe):** Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklauseln Schoenheitsreparaturen Quotenklauseln Endrenovierung Mieterhoehungsvereinbarungen Versetzungsklauseln Anpassungsklauseln. Behandelt die strenge BGH-Linie im Wohnraummietrecht und die weicheren Kontrollen im Gewerberaummietrecht. Liefert Klauselentwurf und Pruefraster.
+- **Klauselproblem (Agb Im Mietrecht Wohnraum Vs Gewerbe):** Wohnraum- und Gewerberaummiete. Skill differenziert die AGB-rechtliche Behandlung typischer Mietklauseln Schoenheitsreparaturen Quotenklauseln Endrenovierung Mieterhoehungsvereinbarungen Versetzungsklauseln Anpassungsklauseln. Behandelt die strenge BGH-Linie im Wohnraummietrecht und die weicheren Kontrollen im Gewerberaummietrecht. Liefert Klauselentwurf und Prüfraster.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -35,7 +35,7 @@ description: "AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenzi
 ## Gewerberaummietrecht
 
 - § 310 Abs. 1 BGB: § 308/309 BGB grundsätzlich nicht direkt anwendbar.
-- § 307 BGB als Massstab.
+- § 307 BGB als Maßstab.
 - Schoenheitsreparaturen in Gewerbe-AGB grundsätzlich uebertragbar — BGH XII ZR 168/15.
 - Indexierungsklauseln im Gewerbe zulässig, soweit angemessen.
 - Konkurrenzschutzklauseln zulässig.
@@ -45,7 +45,7 @@ description: "AGB im Mietrecht: Wohnraum- und Gewerberaummiete. Skill differenzi
 - Wohnraum: keine, nicht erforderlich.
 - Gewerbe: Filialmietvertraege bei Konzernen — Recht zur Verlagerung intern.
 
-## Pruefraster
+## Prüfraster
 
 1. Wohnraum oder Gewerbe?
 2. Welche Klausel konkret?

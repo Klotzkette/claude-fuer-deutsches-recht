@@ -104,7 +104,7 @@ Das DBA-Tuerkei vom 19.09.2011 (BGBl. 2012 II S. 526, in Kraft 01.08.2012, anwen
 
 - **Erstattungsverfahren TR → DE-Mandant**: Antrag bei GİB (Gelir İdaresi Başkanlığı, Praesidialamt für Einnahmen); Online-Portal "İnteraktif Vergi Dairesi" (vom Anwender mit aktuellem Stand des tuerkischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der GİB als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch und Tuerkisch sowie Englisch (DBA-Tuerkei 2011 als modernes DBA trilingual; englischer Text als Pivot in der Praxis nuetzlich).
-- **Lokaler Berater**: Bei tuerkischen A.S. (Anonim Şirketi, AG) oder Ltd. Ş. (Limited Şirketi, GmbH-Äquivalent) sowie Erbfaellen mit Tuerkei-Bezug zwingend lokalen tuerkischen "yeminli mali müşavir" (vereidigter Steuerberater) hinzuziehen — TR hat sehr formale Pruefungspraxis und stark wechselnde Steuergesetzgebung.
+- **Lokaler Berater**: Bei tuerkischen A.S. (Anonim Şirketi, AG) oder Ltd. Ş. (Limited Şirketi, GmbH-Äquivalent) sowie Erbfaellen mit Tuerkei-Bezug zwingend lokalen tuerkischen "yeminli mali müşavir" (vereidigter Steuerberater) hinzuziehen — TR hat sehr formale Prüfungspraxis und stark wechselnde Steuergesetzgebung.
 - **Apostille**: ZWINGEND bei Drittstaat Tuerkei; Haager Uebereinkommen anwendbar (TR ist Vertragsstaat). Bei Notarurkunden und Steuerbescheinigungen Apostille der tuerkischen Bezirksverwaltung (Kaymakamlık).
 
 ## Aktualitaetshinweise Wechselkurse und Steuerpolitik-Volatilitaet

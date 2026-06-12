@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-25-sgb-x
-description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage."
+description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschäftsgeheimnisse Schutz Dritter) und das Verhältnis zur DSGVO-Auskunft. Liefert Antragsvorlage."
 ---
 
 # Akteneinsicht 25 Sgb X
@@ -18,7 +18,7 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 ## Beschraenkung § 25 Abs. 3 SGB X
 
 - Akten zur Vorbereitung der Entscheidung (Entwurfsakten): teilweise gesperrt.
-- Persoenliche Verhaeltnisse Dritter.
+- Persoenliche Verhältnisse Dritter.
 - Geschäftsgeheimnisse Dritter.
 - Schwerwiegende Belange Dritter.
 
@@ -37,7 +37,7 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 - Behörde gewaehrt Einsicht in den Diensträumen.
 - Auf Antrag oft auch Kopie / Scan zugesandt — gegen Kostenpauschale.
 
-## Verhaeltnis zur DSGVO
+## Verhältnis zur DSGVO
 
 - DSGVO Art. 15 gibt zusaetzliches Auskunftsrecht.
 - DSGVO ist nicht durch § 25 SGB X verdraengt.
@@ -47,7 +47,7 @@ description: "Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wan
 
 "Hiermit beantrage ich nach § 25 SGB X Einsicht in die Sozialakte zum Aktenzeichen [...] sowie hilfsweise Auskunft nach Art. 15 DSGVO. Ich bitte um Mitteilung des Termins bzw. Uebersendung der Akte in Kopie oder als PDF."
 
-## Pruefraster
+## Prüfraster
 
 1. Rechtliches Interesse?
 2. Antrag formuliert?

@@ -1,6 +1,6 @@
 ---
 name: familien-gmbh-faktische-macht
-description: "Prüft Familiengesellschaften, faktische Rücksichtnahme und warum familiäre Macht allein regelmäßig nicht genügt im Sozialversicherungsstatus Pruefer."
+description: "Prüft Familiengesellschaften, faktische Rücksichtnahme und warum familiäre Macht allein regelmäßig nicht genügt im Sozialversicherungsstatus Prüfer."
 ---
 
 # Familien-GmbH und faktische Macht

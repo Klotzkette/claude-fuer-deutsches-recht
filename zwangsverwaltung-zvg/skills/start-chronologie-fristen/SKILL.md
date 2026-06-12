@@ -137,7 +137,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Plugin unterstuetzt Zwangsverwalter und Zwangsversteigerungsbeteiligte bei der rechtssicheren Durchfuehrung von Zwangsverwaltungen und Zwangsversteigerungen nach dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung (ZVG). Es deckt den vollstaendigen Lebenszyklus ab: von der Prüfung des Bestellungsbeschlusses und der Besitzerlangung über die laufende Mietverwaltung, Konten- und Kassenfuehrung sowie Berichterstattung bis zur Jahresrechnung, dem Verteilungsplan und der Schnittstelle zur Zwangsversteigerung.
 
-Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt sind, sowie Glaeubiger und Investoren, die an Zwangsversteigerungsterminen teilnehmen wollen.
+Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt sind, sowie Gläubiger und Investoren, die an Zwangsversteigerungsterminen teilnehmen wollen.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -150,12 +150,12 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 ## Fachbegriffe (kurz erklaert)
 
 - **Beschlagnahme** — Rechtliche Wirkung der Anordnung der Zwangsverwaltung: Der Schuldner verliert die Verfuegungsmacht über Fruechte und Nutzungen (§§ 146 148 ZVG).
-- **Zwangsverwalter** — Vom Vollstreckungsgericht bestellte Person, die das Objekt im Interesse der Glaeubiger verwaltet (§§ 150 ff. ZVG).
+- **Zwangsverwalter** — Vom Vollstreckungsgericht bestellte Person, die das Objekt im Interesse der Gläubiger verwaltet (§§ 150 ff. ZVG).
 - **Treuhandkonto** — Getrenntes Konto für Einnahmen und Ausgaben der Zwangsverwaltung; Zwangsverwalter fuehrt es treuhänderisch.
 - **Rechnungslegung** — Pflicht des Zwangsverwalters nach § 161 ZVG, dem Gericht jaehrlich Rechenschaft über Einnahmen und Ausgaben abzulegen.
-- **Verteilungsplan** — Verteilung der Einnahmen nach gesetzlicher Rangfolge des § 155 ZVG auf Kosten, Glaeubiger und sonstige Berechtigte.
-- **Geringstes Gebot** — Mindestgebot in der Zwangsversteigerung nach § 74a ZVG: Massstab für 7/10-Grenze und Zuschlagsversagung.
-- **Absonderungsrecht** — Recht eines Glaeubigers, Befriedigung aus einem bestimmten Gegenstand vorrangig zu verlangen (§ 49 InsO im Kontext der Insolvenzschnittstelle).
+- **Verteilungsplan** — Verteilung der Einnahmen nach gesetzlicher Rangfolge des § 155 ZVG auf Kosten, Gläubiger und sonstige Berechtigte.
+- **Geringstes Gebot** — Mindestgebot in der Zwangsversteigerung nach § 74a ZVG: Maßstab für 7/10-Grenze und Zuschlagsversagung.
+- **Absonderungsrecht** — Recht eines Gläubigers, Befriedigung aus einem bestimmten Gegenstand vorrangig zu verlangen (§ 49 InsO im Kontext der Insolvenzschnittstelle).
 - **Rangklassen** — Gesetzliche Rangfolge der Befriedigung im ZVG-Verfahren nach § 10 ZVG.
 
 ## Rechtsgrundlagen
@@ -176,18 +176,18 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 1. Bestellungsbeschluss prüfen und Objektcockpit anlegen (Aktenanlage, Beteiligtenregister, Mieterliste, Treuhandkonto).
 2. Besitzerlangung vor Ort protokollieren und Gericht informieren.
 3. Laufende Verwaltung: Mieteinzug, Betriebskosten, Instandhaltung, Versicherungen und Konten fuehren.
-4. Berichterstattung an Gericht und Glaeubiger; Qualitaetsgate vor Versand.
+4. Berichterstattung an Gericht und Gläubiger; Qualitaetsgate vor Versand.
 5. Rechnungslegung und Verteilungsplan am Ende der Periode oder bei Aufhebung erstellen.
 
 ## Skill-Tour (was gibt es hier?)
 
 - `zvg-aktenanlage-objektcockpit` — Aktenanlage und Objektcockpit aufbauen: Objektkarte, Beteiligtenregister, Mieterliste und Fristen.
 - `zvg-berichtswesen-gericht` — Besitzerlangungsbericht, Sachstandsbericht und Entscheidungsvorlagen für das Vollstreckungsgericht erstellen.
-- `zvg-besitzuebernahme` — Besitzerlangung am Objekt protokollieren: Vor-Ort-Termin, Objektbeschreibung, Schluesselliste und Gericht informieren.
+- `zvg-besitzuebernahme` — Besitzerlangung am Objekt protokollieren: Vor-Ort-Termin, Objektbeschreibung, Schlüsselliste und Gericht informieren.
 - `zvg-bestellung-beschlagnahme` — Bestellungsbeschluss und Beschlagnahme rechtlich prüfen: Vollstaendigkeitsvermerk und naechste Schritte.
 - `zvg-betriebskosten-hausgeld` — Betriebskosten, WEG-Hausgeld und laufende Objektkosten prüfen und abrechnen.
 - `zvg-bieterangebot-bewertung` — Zwangsversteigerungsobjekte aus Investorensicht bewerten: Bietlimit, geringstes Gebot und Risikoeinschaetzung.
-- `zvg-glaeubiger-schuldner-kommunikation` — Schriftwechsel mit Schuldner, Glaeubiger, Mieter, Gericht, Versicherern und Dienstleistern.
+- `zvg-glaeubiger-schuldner-kommunikation` — Schriftwechsel mit Schuldner, Gläubiger, Mieter, Gericht, Versicherern und Dienstleistern.
 - `zvg-insolvenz-schnittstelle` — Koordination mit Insolvenzverwalter bei Insolvenz des Schuldners waehrend laufender Zwangsverwaltung.
 - `zvg-instandhaltung-sicherung` — Instandhaltung, Sicherung und Gefahrenabwehr am Objekt; Verkehrssicherungspflichten.
 - `zvg-kommandocenter` — Triage und Routing zu allen ZVG-Skills; Statusampel und Tagesaufgaben.
@@ -210,7 +210,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - **Besitzerlangungsbericht zeitnah**: Das Gericht erwartet sofortige Meldung nach Besitzuebernahme; Verzoegerung kann zu Rueckfragen fuehren.
 - **Treuhandkonto strikt getrennt**: Verwaltungseinnahmen dürfen nicht mit Eigengeldern des Verwalters vermischt werden.
 - **WEG-Hausgeld als vorrangige Ausgabe**: § 10 ZVG stellt laufendes Hausgeld in eine besondere Rangklasse; Zahlungsverzug kann Schadensersatzpflicht ausloesen.
-- **Insolvenzschnittstelle fruehzeitig klären**: Bei Insolvenz des Schuldners aendert sich das Absonderungsrecht; Abstimmung mit Insolvenzverwalter ist unverzueglich erforderlich.
+- **Insolvenzschnittstelle fruehzeitig klären**: Bei Insolvenz des Schuldners ändert sich das Absonderungsrecht; Abstimmung mit Insolvenzverwalter ist unverzueglich erforderlich.
 - **Quality Gate vor jedem Gerichtsversand**: Bericht oder Rechnungslegung ohne vorherigen Gate-Lauf riskiert Rueckfragen und Gerichtsmaengel.
 
 ## Typische Fehler
@@ -218,7 +218,7 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - Vorausverfuegungen des Schuldners (Mietvorauszahlungen, Abtretungen) nicht geprueft; unbekannte Belastungen reduzieren auszahlbare Einnahmen.
 - Mietrueckstaende zu lange belassen ohne Mahnung und Klageeinleitung; Forderungspraeskription und Insolvenz des Mieters drohen.
 - Rechnungslegung ohne vollstaendige Belegpruefung; Gericht fordert Nachbesserungen.
-- Bei Aufhebung der Zwangsverwaltung kein Uebergabebericht für das Versteigerungsverfahren erstellt.
+- Bei Aufhebung der Zwangsverwaltung kein Übergabebericht für das Versteigerungsverfahren erstellt.
 - Versicherungsschutz erst nach Schadenfall geprueft; rueckwirkende Deckungsluecken sind unvermeidlich.
 
 ## Quellen und Aktualitaet

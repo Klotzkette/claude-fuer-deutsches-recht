@@ -1,6 +1,6 @@
 ---
 name: vertragswirklichkeit-gelebte-praxis
-description: "Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung im Sozialversicherungsstatus Pruefer."
+description: "Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Vertragswirklichkeit vs. gelebte Praxis

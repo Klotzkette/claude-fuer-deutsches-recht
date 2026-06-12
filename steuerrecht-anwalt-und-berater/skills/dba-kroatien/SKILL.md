@@ -15,7 +15,7 @@ description: "DBA Deutschland Kroatien 2006. Anwendungsfall Tourismus Mittelstan
 
 ## Kernsachverhalt
 
-Das DBA-Kroatien vom 06.02.2006 (BGBl. 2006 II S. 1112) regelt das Verhaeltnis zum EU-Mitglied Kroatien (Beitritt 01.07.2013, Euro-Mitglied seit 01.01.2023). Praxisrelevant sind Tourismusinvestitionen (Adria, Istrien), Mittelstandsbeziehungen, Pensionen kroatischer Pensionaere mit Wohnsitz Deutschland.
+Das DBA-Kroatien vom 06.02.2006 (BGBl. 2006 II S. 1112) regelt das Verhältnis zum EU-Mitglied Kroatien (Beitritt 01.07.2013, Euro-Mitglied seit 01.01.2023). Praxisrelevant sind Tourismusinvestitionen (Adria, Istrien), Mittelstandsbeziehungen, Pensionen kroatischer Pensionaere mit Wohnsitz Deutschland.
 
 ## Kaltstart-Rueckfragen
 
@@ -61,7 +61,7 @@ Das DBA-Kroatien vom 06.02.2006 (BGBl. 2006 II S. 1112) regelt das Verhaeltnis z
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4).
 2. Sachliche Anwendbarkeit (Art. 2).

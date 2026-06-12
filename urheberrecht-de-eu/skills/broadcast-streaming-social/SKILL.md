@@ -1,6 +1,6 @@
 ---
 name: broadcast-streaming-social
-description: "Prueft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu."
+description: "Prüft öffentliche Wiedergabe, Zugänglichmachung, Streaming, Livestream, Reels, Podcasts, Radio und Veranstaltungen im Urheberrecht De Eu."
 ---
 
 # Streaming, Broadcast und Social Media

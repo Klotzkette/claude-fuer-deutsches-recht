@@ -6,5 +6,5 @@
 | Betraute Person geaendert | unverzueglich |  |  |  |  |
 | Neues Regelungsvorhaben | vor Kontakt bzw. unverzueglich |  |  |  |  |
 | Stellungnahme/Gutachten versandt | Quartalsende |  |  |  |  |
-| Geschaeftsjahr beendet | Finanzdaten/Jahresupdate |  |  |  |  |
+| Geschäftsjahr beendet | Finanzdaten/Jahresupdate |  |  |  |  |
 | RfS-Aufforderung | Nachholfrist prüfen |  |  |  |  |

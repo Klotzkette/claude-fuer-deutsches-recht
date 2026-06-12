@@ -1,9 +1,9 @@
 ---
 name: intwr-cisg-pruefraster
-description: "Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflich..."
+description: "Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe: Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflich..."
 ---
 
-# Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe
+# Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe
 
 
 ## Arbeitsweg
@@ -14,9 +14,9 @@ description: "Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwe
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Pruefraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
+**Fokus:** Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe. Vergleich mit BGB-Kaufrecht.
 
-### IntWR: CISG-Pruefraster
+### IntWR: CISG-Prüfraster
 
 ## Einstieg
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -27,7 +27,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster CISG (Wiener UN-Kaufrechtsuebereinkommen)
+## Prüfraster CISG (Wiener UN-Kaufrechtsuebereinkommen)
 
 ### 1. Anwendungsbereich
 
@@ -43,7 +43,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 - Angebot Art. 14: bestimmt, an Empfaenger gerichtet, Bindungswille.
 - Annahme Art. 18: Erklaerung oder Handlung; Schweigen grds. nicht.
-- Battle of forms: Modifizierte Annahme Art. 19 — bei wesentlicher Aenderung kein Vertragsschluss; bei nicht wesentlicher Aenderung Zustimmung des Anbietenden fingiert.
+- Battle of forms: Modifizierte Annahme Art. 19 — bei wesentlicher Änderung kein Vertragsschluss; bei nicht wesentlicher Änderung Zustimmung des Anbietenden fingiert.
 
 ### 3. Pflichten der Parteien
 
@@ -65,7 +65,7 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | Anzeigeobliegenheit | Art. 38, 39: angemessene Frist nach Erkennen; 2-Jahres-Ausschlussfrist Art. 39 II | §§ 377, 378 HGB (im Handelskauf); BGB ohne Pflicht |
 | Ruecktritt | Art. 49: nur bei wesentlicher Vertragsverletzung | § 323 BGB: Fristsetzung |
 | Verjährung | UN-Verjährungsuebereinkommen 1974 (in DE nicht ratifiziert) -> Rueckgriff auf IPR | § 438 BGB: 2 Jahre |
-| Hardship / Frustration | Art. 79: Befreiung bei Hinderungsgrund ausserhalb Einflussbereichs | § 313 BGB (Stoerung der Geschaeftsgrundlage) |
+| Hardship / Frustration | Art. 79: Befreiung bei Hinderungsgrund ausserhalb Einflussbereichs | § 313 BGB (Stoerung der Geschäftsgrundlage) |
 
 ## Praxisfallen
 
@@ -78,10 +78,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

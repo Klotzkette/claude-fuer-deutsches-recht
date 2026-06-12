@@ -1,13 +1,13 @@
 ---
 name: buerokratiekosten-vs-erfuellungsaufwand
-description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen für Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung für..."
+description: "Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen für Prüfung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung für..."
 ---
 
 # NKR-Buerokratiekosten vs. Erfuellungsaufwand
 
 ## Worum geht es konkret
 
-Bis 2011 prueftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
+Bis 2011 prüftes der NKR nur **Buerokratiekosten** (eng: Informationspflichten). Mit Erweiterung der Aufgaben prüft er seit 2011 den umfassenderen **Erfuellungsaufwand**. Die Begriffe werden in der Praxis weiter durcheinandergeworfen.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -21,17 +21,17 @@ Keine Rueckfrage noetig.
 ## Rechtlicher und methodischer Rahmen
 
 - **NKRG 2006** — Urfassung beschraenkte den NKR auf Buerokratiekosten / Informationspflichten
-- **NKRG-Aenderung 2011** — Ausweitung auf den vollen Erfuellungsaufwand
+- **NKRG-Änderung 2011** — Ausweitung auf den vollen Erfuellungsaufwand
 - **Leitfaden BMI / NKR** — definiert beide Begriffe getrennt
 - **OECD-SKM** — Internationale Standardisierung
 - **EU Better Regulation** — Administrative Burdens
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Buerokratiekosten (enger Begriff)
 
 - **Inhalt**: nur Aufwand aus **Informationspflichten** (Mitteilung, Bericht, Anzeige, Statistik)
-- **Beispiele**: Berichtspflicht nach AWV, statistische Meldung, Steuererklaerung-Anhang, Geschaeftsbericht
+- **Beispiele**: Berichtspflicht nach AWV, statistische Meldung, Steuererklaerung-Anhang, Geschäftsbericht
 - **Bewertung**: über SKM
 - **Bedeutung historisch**: Ursprung der NKR-Methodik (2006), heute Teil-Konzept
 
@@ -40,7 +40,7 @@ Keine Rueckfrage noetig.
 - **Inhalt**: gesamter Aufwand zur Befolgung der Norm
 - **Beispiele**: Buerokratiekosten **plus** Anschaffungen, IT-Anpassungen, bauliche Pflichten, Schulungen, Compliance-Prozesse, Verwaltungsaufwand
 - **Bewertung**: über SKM (erweitert um Sachkosten und externe Dienstleistungen)
-- **Bedeutung heute**: Standard-Pruefgegenstand des NKR seit 2011
+- **Bedeutung heute**: Standard-Prüfgegenstand des NKR seit 2011
 
 ## Vergleichstabelle
 
@@ -83,7 +83,7 @@ Keine Rueckfrage noetig.
 
 ## Quellen Stand 06/2026
 
-- NKRG vom 14.08.2006 (BGBl. I S. 1866), Aenderungen 2011 ff.
+- NKRG vom 14.08.2006 (BGBl. I S. 1866), Änderungen 2011 ff.
 - Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR)
 - NKR-Jahresbericht (jeweils aktuelle Ausgabe)
 - EU Better Regulation Toolbox (jeweils aktuelle Ausgabe)

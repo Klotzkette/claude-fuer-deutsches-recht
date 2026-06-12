@@ -1,6 +1,6 @@
 ---
 name: inkasso-risikoampel
-description: "Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjährungslage und Vermoegenslage. Pinpoints ZPO 802c Vermoegensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Glaeubigerantrag. Liefert Ampel und Empfehlung."
+description: "Bewertung der Erfolgswahrscheinlichkeit einer Forderungseinziehung anhand Schuldnerprofil Belegstand Verjährungslage und Vermögenslage. Pinpoints ZPO 802c Vermögensauskunft ZPO 882b Schuldnerverzeichnis InsO 14 Gläubigerantrag. Liefert Ampel und Empfehlung."
 ---
 
 # Inkasso-Risikoampel
@@ -14,7 +14,7 @@ Vor Beauftragung von Klage und Vollstreckung lohnt ein Realitaetscheck.
 | Schuldnertyp | Gewerbetreibender im Handelsregister | 0 |
 | | Verbraucher mit festem Wohnsitz | 1 |
 | | Verbraucher mit unbekannter Anschrift | 3 |
-| Solvenz | Geschaeftsbetrieb laeuft | 0 |
+| Solvenz | Geschäftsbetrieb laeuft | 0 |
 | | Schuldnerverzeichnis Eintrag | 2 |
 | | Insolvenzantrag bekannt | 4 |
 | Belegstand | vollstaendig | 0 |
@@ -37,9 +37,9 @@ Vor Beauftragung von Klage und Vollstreckung lohnt ein Realitaetscheck.
 
 ## Schuldnerverzeichnis ZPO 882b
 
-Glaeubigerin kann beim Vollstreckungsgericht eine Auskunft aus dem Schuldnerverzeichnis verlangen. Eintragungen entstehen u a nach Vermoegensauskunft ZPO 802c oder Haftbefehl ZPO 802g.
+Gläubigerin kann beim Vollstreckungsgericht eine Auskunft aus dem Schuldnerverzeichnis verlangen. Eintragungen entstehen u a nach Vermögensauskunft ZPO 802c oder Haftbefehl ZPO 802g.
 
-## Insolvenzantrag durch Glaeubiger InsO 14
+## Insolvenzantrag durch Gläubiger InsO 14
 
 Voraussetzung sind glaubhafte Forderung und Insolvenzgrund. Gebraucht in Druckverhaeltnissen aber Vorsicht wegen Anfechtbarkeit der Zahlung im Vorfeld.
 

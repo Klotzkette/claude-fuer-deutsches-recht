@@ -14,13 +14,13 @@ description: "Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendung
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
+**Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Prüfraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo für Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
 
 ### Geldwaesche § 261 StGB Reform 2021 (All-Crimes-Approach)
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nach Cyberbetrug, Bargeldgeschaefte mit Drogengeld, Cum-Ex-Stripping, Krypto-Mixer und Tornado Cash, Immobilieninvestitionen mit nicht-versteuertem Vermögen, "Geschenke" aus Bandenbetrug, NFT- und Token-Geschaefte.
+Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nach Cyberbetrug, Bargeldgeschaefte mit Drogengeld, Cum-Ex-Stripping, Krypto-Mixer und Tornado Cash, Immobilieninvestitionen mit nicht-versteuertem Vermögen, "Geschenke" aus Bandenbetrug, NFT- und Token-Geschäfte.
 
 **Wichtig:** Seit Reform vom **9. Maerz 2021** (Geldwaeschebekaempfungsgesetz vom 09.03.2021, BGBl. I S. 327, in Kraft seit 18.03.2021) gilt der **All-Crimes-Approach**: **JEDE Straftat** taugt als Vortat, der bisherige Vortatkatalog ist entfallen. Strafrahmen Freiheitsstrafe drei Monate bis fuenf Jahre.
 
@@ -28,7 +28,7 @@ Spezial-Mandat: Anklage Geldwaesche. Klassische Konstellationen: Money Mules nac
 
 - Anklageschrift / Ermittlungsschrift.
 - Vortat-Anklage / -Verdacht (jede Straftat möglich).
-- Tathandlungen: Vermoegensbewegung, Empfaengerkonto, Wallet-Adressen.
+- Tathandlungen: Vermögensbewegung, Empfaengerkonto, Wallet-Adressen.
 - Wirtschaftliche Erklaerung der Mittelherkunft.
 - Geldwaesche-Bekanntmachung GwG-Pflichtige (Banken, Notare, Steuerberater, Rechtsanwaelte, Immobilienmakler, Krypto-Custodian).
 
@@ -43,9 +43,9 @@ Wer einen Gegenstand, der aus einer **rechtswidrigen Tat** herruehrt:
 3. **sich oder einem Dritten verschafft** oder
 4. **verwahrt oder für sich oder einen Dritten verwendet,** wenn er die Herkunft des Gegenstandes zu dem Zeitpunkt gekannt hat, in dem er ihn erlangt hat.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
-- **Gegenstand.** Jeder bewegliche oder unbewegliche Vermoegenswert, einschliesslich Forderungen, Buchgeld, Kryptowerte (seit Reform 2021 ausdruecklich Kryptowerte erfasst — vgl. § 1 Abs. 11 KWG, § 1 Abs. 11 Satz 4 KWG).
+- **Gegenstand.** Jeder bewegliche oder unbewegliche Vermögenswert, einschliesslich Forderungen, Buchgeld, Kryptowerte (seit Reform 2021 ausdruecklich Kryptowerte erfasst — vgl. § 1 Abs. 11 KWG, § 1 Abs. 11 Satz 4 KWG).
 - **Aus einer rechtswidrigen Tat herruehrt.** Seit Reform 2021: **jede** Straftat (auch Vergehen, einschliesslich § 263 StGB Betrug). Keine Vortatkatalogbeschraenkung mehr.
 - **Sukzessivkette.** Auch mittelbar herruehrende Werte sind erfasst, soweit Identifizierbarkeit gegeben ist.
 
@@ -107,11 +107,11 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 - **Strafrahmen** Grundtatbestand drei Monate bis fuenf Jahre.
 - **§ 261 Abs. 4 StGB** besonders schwere Faelle sechs Monate bis zehn Jahre.
 - **§ 261 Abs. 6 StGB** leichtfertige Geldwaesche bis zwei Jahre oder Geldstrafe.
-- **§ 46 StGB** Vermoegensumfang, Tatdauer, Anzahl Transaktionen, Compliance-Defizite.
+- **§ 46 StGB** Vermögensumfang, Tatdauer, Anzahl Transaktionen, Compliance-Defizite.
 - **Einziehung § 73 StGB** Tatertrag (gewaschener Wert). § 76a StGB selbststaendige Einziehung möglich.
 - **§ 73d StGB erweiterte Einziehung** bei Strukturen.
 - **Berufsverbot § 70 StGB** bei berufsbezogener Tat (Steuerberater, RA, Banker).
-- **Disqualifikation § 6 GmbHG** Geschaeftsfuehrer (5 Jahre).
+- **Disqualifikation § 6 GmbHG** Geschäftsführer (5 Jahre).
 - **BaFin-Sanktionen** bei GwG-Verpflichteten.
 
 ## Mustertexte
@@ -122,7 +122,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ### Antrag § 261 Abs. 9 StGB
 
-"Es wird Antrag auf Anerkennung der taetigen Reue gemäß § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermoegenswerte in Höhe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
+"Es wird Antrag auf Anerkennung der taetigen Reue gemäß § 261 Abs. 9 StGB gestellt. Der Mandant hat am [Datum] vor Bekanntwerden der Ermittlungen der zuständigen Staatsanwaltschaft [Ort] eine umfassende Selbstanzeige erstattet (Anlage K-1) und gleichzeitig die Sicherstellung der noch verfuegbaren Vermögenswerte in Höhe von [Betrag] EUR bewirkt (Anlage K-2). Die Tat war zu diesem Zeitpunkt nicht ganz oder zum Teil entdeckt; die Strafbarkeit entfaellt."
 
 ## Quellen Stand 06/2026
 

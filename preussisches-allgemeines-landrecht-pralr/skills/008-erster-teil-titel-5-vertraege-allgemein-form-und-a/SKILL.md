@@ -42,7 +42,7 @@ Schriftlicher Mietzettel zwischen Hausbesitzer und Magd.
 - §§ 145-157 BGB Vertragsschluss und Auslegung.
 - § 242 BGB Treu und Glauben (Erbe der bona fides).
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Vertrag?
 2. Form gewahrt?

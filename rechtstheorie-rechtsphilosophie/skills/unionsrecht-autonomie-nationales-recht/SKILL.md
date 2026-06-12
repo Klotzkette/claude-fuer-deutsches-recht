@@ -1,6 +1,6 @@
 ---
 name: unionsrecht-autonomie-nationales-recht
-description: "Prueft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit."
+description: "Prüft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit."
 ---
 
 # Unionsrecht und nationales Recht

@@ -1,6 +1,6 @@
 ---
 name: wohngeld-wohngeldverwaltung
-description: "Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster."
+description: "Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Prüfraster."
 ---
 
 # Wohngeld Wohngeldverwaltung
@@ -41,12 +41,12 @@ description: "Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzu
 - Bei der Wohngeldstelle (Stadt, Kreis).
 - Mietvertrag, Einkommensnachweise, Personalien.
 
-## Verhaeltnis zu Buergergeld
+## Verhältnis zu Buergergeld
 
 - Wohngeld vorrangig vor SGB II.
 - Wenn Bedarf nicht gedeckt: SGB II ergaenzend.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Zuschuss?
 2. Mietstufe und Hoechstgrenze?

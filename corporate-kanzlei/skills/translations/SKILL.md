@@ -3,7 +3,7 @@ name: translations
 description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Termi"
 ---
 
-# Multijurisdiktionale Uebersetzungen und Dokumente
+# Multijurisdiktionale Übersetzungen und Dokumente
 
 ## Fachlicher Anker
 
@@ -11,16 +11,16 @@ description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
-## Fachkern: Multijurisdiktionale Uebersetzungen und Dokumente
+## Fachkern: Multijurisdiktionale Übersetzungen und Dokumente
 
-- **Corporate-Aufgabe (Multijurisdiktionale Uebersetzungen und Dokumente):** Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen.
+- **Corporate-Aufgabe (Multijurisdiktionale Übersetzungen und Dokumente):** Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
-- "Ich habe hier Multijurisdiktionale Uebersetzungen und Dokumente und brauche einen belastbaren nächsten Schritt."
+- "Ich habe hier Multijurisdiktionale Übersetzungen und Dokumente und brauche einen belastbaren nächsten Schritt."
 - "Bitte prüfe das aus Sicht der Gesellschaft, Geschäftsführung, Gesellschafter oder Inhouse-Rechtsabteilung."
 - "Mach daraus eine Beschlussvorlage, Partnernotiz, Mandantenmail oder Organunterlage."
 - "Welche Register-, Beschluss-, Compliance- oder Fristpunkte fehlen noch?"
@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -101,15 +101,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-### Multijurisdiktionale Uebersetzungen und Dokumente
+### Multijurisdiktionale Übersetzungen und Dokumente
 
 ## Triage — klaere vor Erstellung
 
 1. Welche Sprachen: Deutsch, Englisch, oder weitere Jurisdiktionen (FR, NL, PL)?
 2. Governing Language: Welche Sprachfassung ist verbindlich bei Widerspruechen?
-3. Notarieller Beglaubigungsbedarf: Notarielle Uebersetzung erforderlich (z.B. für ausl. Handelsregister)?
+3. Notarieller Beglaubigungsbedarf: Notarielle Übersetzung erforderlich (z.B. für ausl. Handelsregister)?
 4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Äquivalent, oder neutrale Begriffe?
-5. Wer prüft Uebersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
+5. Wer prüft Übersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
 6. Wann müssen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
 
 ## Zentrale Normen
@@ -117,7 +117,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 184 GVG** — Gerichtssprache Deutsch; in deutschen Verfahren muss Schriftverkehr deutsch sein
 - **Art. 10 ff. EGBGB** — Internationales Privatrecht; Vertragsstatut; welche Rechtsordnung und Sprache gilt
 - **Art. 3 I Rom-I-VO (EG 593/2008)** — freie Rechtswahl; auch Sprachenwahl im internationalen Vertrag
-- **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Uebersetzung als Anlage
+- **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Übersetzung als Anlage
 - **§ 30 BeurkG** — notarielle Urkunden müssen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit möglich (§ 5 BeurkG)
 
 ## Aktuelle Rechtsprechung
@@ -130,7 +130,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 |---|---|---|
 | Gesellschaft mit beschraenkter Haftung (GmbH) | limited liability company (GmbH) | private limited company (Ltd.) [UK] |
 | Aktiengesellschaft (AG) | stock corporation (AG) | public limited company (plc) [UK] |
-| Geschaeftsfuehrer | managing director | managing director [UK]; CEO/president [US] |
+| Geschäftsführer | managing director | managing director [UK]; CEO/president [US] |
 | Hauptversammlung | general meeting | general meeting [UK]; shareholder meeting [US] |
 | Aufsichtsrat | supervisory board | board of directors (if one-tier) |
 | Gewinnabfuehrungsvertrag | profit and loss transfer agreement | (no direct equivalent) |
@@ -149,13 +149,13 @@ Gegenformulierung (Kaeufer bevorzugt English):
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Sprachanforderungen klären** — Governing Language, Uebersetzungsbedarf, Notarpflicht
-2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Uebersetzung
-3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich uebersetzen
+1. **Sprachanforderungen klären** — Governing Language, Übersetzungsbedarf, Notarpflicht
+2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Übersetzung
+3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich übersetzen
 4. **Vier-Augen-Prüfung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
 5. **Konsistenzcheck** — alle Definitionen in beiden Sprachfassungen identisch
 6. **Governing Language definieren** — explizite Klausel einfuegen
-7. **Beglaubigung prüfen** — wenn auslaendisches Register: vereidigter Dolmetscher erforderlich
+7. **Beglaubigung prüfen** — wenn ausländisches Register: vereidigter Dolmetscher erforderlich
 
 ## Output-Template Zweisprachige Vollmacht (Ausschnitt)
 
@@ -189,8 +189,8 @@ purposes only. In case of doubt, the German version shall prevail.
 
 - Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
 - Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
-- Eigene Kanzlei-Uebersetzung für ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
-- Zeitdruck: Uebersetzung ohne angemessene Prüfung → Fehler in bindenden Dokumenten
+- Eigene Kanzlei-Übersetzung für ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
+- Zeitdruck: Übersetzung ohne angemessene Prüfung → Fehler in bindenden Dokumenten
 
 ## Quellen
 

@@ -1,6 +1,6 @@
 ---
 name: praesidialrat-mitwirkung-richterernennung
-description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhaeltnis zum Richterwahlausschuss und zur Personalvert..."
+description: "Skill zur Mitwirkung des Praesidialrats bei Richterernennungen und Beförderungen nach §§ 54 ff. DRiG und den Landesrichtergesetzen. Klaert die Beteiligungspflichten die Inhalte der Stellungnahme die Folgen unterlassener Beteiligung und das Verhältnis zum Richterwahlausschuss und zur Personalvert..."
 ---
 
 # Praesidialrat — Mitwirkung bei Richterernennungen
@@ -37,7 +37,7 @@ Skill für richterliche Beförderungsverfahren, in denen die Beteiligung des Pra
 ### c) Folge unterlassener Beteiligung
 - Verfahrensfehler; die Ernennung ist anfechtbar (Konkurrenteneilantrag) bzw. die Aufstellung des Auswahlvermerks unzureichend.
 
-### d) Verhaeltnis zum Richterwahlausschuss
+### d) Verhältnis zum Richterwahlausschuss
 - Bei Wahl von Richtern für Bundesgerichte tritt der Richterwahlausschuss neben den Praesidialrat (Art. 95 Abs. 2 GG i.V.m. RiWG); Skill `richterwahlausschuss-bund-riwahlg` (sofern angelegt, hier nicht eigenstaendig vorhanden).
 
 ### e) Verfahren
@@ -52,7 +52,7 @@ Skill für richterliche Beförderungsverfahren, in denen die Beteiligung des Pra
 
 ## 5. Ausgabeformat
 
-- Pruefraster Beteiligungspflichten.
+- Prüfraster Beteiligungspflichten.
 - Schriftsatz Konkurrenteneilantrag mit Verfahrensfehler-Argumentation.
 
 ## 6. Verifizierte Quellenanker

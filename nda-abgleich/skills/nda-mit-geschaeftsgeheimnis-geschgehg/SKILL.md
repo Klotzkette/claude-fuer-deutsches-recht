@@ -1,6 +1,6 @@
 ---
 name: nda-mit-geschaeftsgeheimnis-geschgehg
-description: "NDA als angemessene Geheimhaltungsmassnahme i. S. § 2 Nr. 1 b GeschGehG: NDA allein reicht nicht, technisch-organisatorische Massnahmen erforderlich (Zugangsschutz, Klassifizierung, Logging). Pruefraster."
+description: "NDA als angemessene Geheimhaltungsmassnahme i. S. § 2 Nr. 1 b GeschGehG: NDA allein reicht nicht, technisch-organisatorische Maßnahmen erforderlich (Zugangsschutz, Klassifizierung, Logging). Prüfraster."
 ---
 
 # NDA + GeschGehG-Maßnahmen
@@ -17,18 +17,18 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Prüfraster
 
 Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
 1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
 3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
-## GeschGehG-Pruefraster: NDA als angemessene Geheimhaltungsmassnahme
+## GeschGehG-Prüfraster: NDA als angemessene Geheimhaltungsmassnahme
 
-### Definition Geschaeftsgeheimnis (§ 2 Nr. 1 GeschGehG)
+### Definition Geschäftsgeheimnis (§ 2 Nr. 1 GeschGehG)
 
 Drei kumulative Voraussetzungen:
 
@@ -42,7 +42,7 @@ Eine vertragliche Geheimhaltungsverpflichtung (NDA) ist eine **notwendige, aber 
 
 - **Technische Maßnahmen:** Zugangsschutz (Passwoerter, Verschluesselung, Zwei-Faktor-Authentifizierung), Datenraeume mit Wasserzeichen, Download-Sperren, Logging.
 - **Organisatorische Maßnahmen:** "Need-to-know"-Prinzip, dokumentierte Verteilerlisten, definierte Loeschprozesse, regelmäßige Schulungen.
-- **Klassifizierung:** Konkrete Kennzeichnung der Information als "vertraulich" oder "Geschaeftsgeheimnis"; nicht alles undifferenziert "vertraulich" deklarieren.
+- **Klassifizierung:** Konkrete Kennzeichnung der Information als "vertraulich" oder "Geschäftsgeheimnis"; nicht alles undifferenziert "vertraulich" deklarieren.
 - **Personelle Maßnahmen:** Vertraulichkeitsverpflichtung der Mitarbeiter (§ 79a BetrVG, ggf. § 17 UWG a.F. in Altfaellen).
 
 ### Angemessenheitsmassstab
@@ -54,7 +54,7 @@ Eine vertragliche Geheimhaltungsverpflichtung (NDA) ist eine **notwendige, aber 
 
 ### Rechtsfolgen fehlender Maßnahmen
 
-- **Verlust des Geschaeftsgeheimnis-Status:** Information wird nicht als Geschaeftsgeheimnis geschuetzt; Anspruechen aus §§ 6-9 GeschGehG entfallen.
+- **Verlust des Geschäftsgeheimnis-Status:** Information wird nicht als Geschäftsgeheimnis geschuetzt; Anspruechen aus §§ 6-9 GeschGehG entfallen.
 - **NDA bleibt vertraglich wirksam:** Der vertragliche Anspruch aus dem NDA bleibt (§§ 280, 339 BGB), aber Strafverschaerfungen aus dem GeschGehG (z.B. § 23 GeschGehG Strafvorschriften) entfallen.
 
 ### Checkliste für NDA + GeschGehG-Compliance
@@ -74,10 +74,10 @@ Eine vertragliche Geheimhaltungsverpflichtung (NDA) ist eine **notwendige, aber 
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

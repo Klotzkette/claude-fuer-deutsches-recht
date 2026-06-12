@@ -7,7 +7,7 @@ description: "Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren I
 
 ## Worum geht es?
 
-Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das passiert nicht automatisch. Sie müssen die Kosten **festsetzen** lassen — Antrag an die Geschaeftsstelle. Mit dem Festsetzungs-Beschluss können Sie vollstrecken.
+Wenn Sie gewonnen haben, traegt die Gegenseite die Kosten (§ 91 ZPO). Aber: Das passiert nicht automatisch. Sie müssen die Kosten **festsetzen** lassen — Antrag an die Geschäftsstelle. Mit dem Festsetzungs-Beschluss können Sie vollstrecken.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -52,7 +52,7 @@ Aus § 91 ZPO und Rechtsprechung:
 ### Schritt 3 — Was NICHT erstattungsfaehig (Selbstvertretung)?
 
 - Eigene Arbeitszeit.
-- Eigene "Anwaltsgebuehr-aequivalente" Beratung.
+- Eigene "Anwaltsgebuehr-äquivalente" Beratung.
 - Eigene Recherche-Auslagen (uebersichtlich).
 
 Selbstvertreter bekommen also weniger erstattet als bei Anwalts-Vertretung.
@@ -102,7 +102,7 @@ Pro Kostenposition:
 
 ### Schritt 6 — Verfahren
 
-Geschaeftsstelle prüft den Antrag. Gegnerseite bekommt Gelegenheit zur Stellungnahme. Dann **Kostenfestsetzungs-Beschluss**.
+Geschäftsstelle prüft den Antrag. Gegnerseite bekommt Gelegenheit zur Stellungnahme. Dann **Kostenfestsetzungs-Beschluss**.
 
 ### Schritt 7 — Vollstreckung des Beschlusses
 

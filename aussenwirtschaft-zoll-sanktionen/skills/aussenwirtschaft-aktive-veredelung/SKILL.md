@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aktive-veredelung
-description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzung..."
+description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Äquivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prüft wirtschaftliche Voraussetzung..."
 ---
 
 # Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung
@@ -25,7 +25,7 @@ description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240
 2. Beantragung der Bewilligung beim oertlich zuständigen Hauptzollamt (Muster: DEK/INT/AV).
 3. Buchfuehrungsanforderungen klaren: Lagerbuchhaltungssystem, Mengenueberwachung, Ausbeute-Koeffizienten.
 4. INF-Blatt-Verfahren für Mehrniederlassungsveredelung prüfen.
-5. Aequivalenzwaren-Option bewerten: Gleiche oder gleichartige Waren als Ersatz.
+5. Äquivalenzwaren-Option bewerten: Gleiche oder gleichartige Waren als Ersatz.
 6. Gesamtabrechnung mit Frist planen: Ausbeute-Ist vs. Soll, Fehlmengenbehandlung.
 
 ## Rechtsrahmen
@@ -36,7 +36,7 @@ description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240
 - **Art. 212-214 UZK**: Bewilligungsantrag und wirtschaftliche Voraussetzungen.
 - **§ 10 ZollVG**: Hauptzollamtliche Kontrolle.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Wirtschaftlicher Interessentest dokumentiert und bestanden?
 - [ ] Bewilligung aktuell gueltig und Standorte vollstaendig erfasst?
@@ -49,7 +49,7 @@ description: "Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240
 
 - Ausbeute-Koeffizient zu hoch angesetzt fuehrt zu Zollschuldrisiko bei Gesamtabrechnung.
 - Fristversaeumnis bei Erledigungsfrist loest Zollschuld für Gesamtmenge aus.
-- Aequivalenzwaren ohne spezifische Bewilligungsgrundlage unzulaessig.
+- Äquivalenzwaren ohne spezifische Bewilligungsgrundlage unzulaessig.
 - Buchfuehrungs-Luecken bei Unterauftragsvergabe (Lohnveredelung) oft nicht erkannt.
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

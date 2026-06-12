@@ -1,9 +1,9 @@
 ---
 name: amtsangemessene-alimentation-bverfg
-description: "Skill zur Pruefung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Pruefungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschl..."
+description: "Skill zur Prüfung der amtsangemessenen Alimentation der Beamten Richter und Soldaten nach Art. 33 Abs. 5 GG. Skill arbeitet das fuenfstufige Prüfungsschema des BVerfG ab mit den Indikatoren Tarifabstand Preisentwicklung Versorgungsempfaenger Vergleich zu anderen Besoldungsgruppen Familienzuschl..."
 ---
 
-# Amtsangemessene Alimentation — Pruefschema BVerfG
+# Amtsangemessene Alimentation — Prüfschema BVerfG
 
 ## Arbeitsweg
 
@@ -28,7 +28,7 @@ Skill zur Prüfung, ob die Besoldung eines Beamten oder Richters dem Grundsatz d
 
 ## 3. Ablauf / Checkliste
 
-### a) Erste Stufe — Pruefkriterien
+### a) Erste Stufe — Prüfkriterien
 - Das BVerfG hat in seiner staendigen Rechtsprechung mehrere Indikatoren etabliert, die im Zusammenwirken eine Vermutung der Unteralimentation begruenden können. Genannt werden u. a. Tarifentwicklung im öffentlichen Dienst, Verbraucherpreisindex, Vergleich zur Grundsicherung, Abstand zur naechstniedrigeren Besoldungsgruppe, Familienzuschlag für das dritte und jedes weitere Kind.
 
 ### b) Zweite Stufe — Gesamtbetrachtung
@@ -95,5 +95,5 @@ R1-Richterin in einem Bundesland mit alter Besoldungstabelle, drei Kinder. Skill
 ### Anwendung im Skill
 
 - Amtsangemessene Alimentation nach BVerfG 2 BvL 4/18 als verfassungsrechtlicher Mindeststandard.
-- Disziplinarmassnahme nach BDG/LDG am Verhaeltnismaessigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
+- Disziplinarmassnahme nach BDG/LDG am Verhältnismäßigkeitsgrundsatz messen; Entfernung erfordert schwere Verfehlung.
 - Konkurrentenstreitverfahren BVerwG 2 C 4.18: Bewerbungsverfahrensanspruch Art. 33 Abs. 2 GG sichern, vor Ernennung.

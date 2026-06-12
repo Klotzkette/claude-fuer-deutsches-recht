@@ -48,7 +48,7 @@ Strafrechtliche Konsequenzen hängen davon ab, wie die ursprüngliche Falschanga
 
 ### Neue Berichtigungspflicht § 153 Abs. 4 AO (ab 01.01.2025)
 
-Durch das DAC7-Umsetzungsgesetz (BGBl. 2022 I S. 2730) wurde § 153 Abs. 4 AO eingefuegt; Wirkung ab 01.01.2025. Werden Pruefungsfeststellungen einer Aussenpruefung in einem unanfechtbaren Aenderungsbescheid umgesetzt, besteht eine **gesetzliche Berichtigungspflicht** für **nicht gepruefte Steuerarten und Folgezeitraeume**, soweit die Pruefungsfeststellungen darauf Auswirkungen haben. Verstoss kann eigenstaendig § 370 AO verwirklichen. Folge für den Anwalt: nach Abschluss einer BP ist die Reichweite der Feststellungen auf andere Veranlagungszeitraeume und Steuerarten zu prüfen.
+Durch das DAC7-Umsetzungsgesetz (BGBl. 2022 I S. 2730) wurde § 153 Abs. 4 AO eingefuegt; Wirkung ab 01.01.2025. Werden Prüfungsfeststellungen einer Aussenpruefung in einem unanfechtbaren Änderungsbescheid umgesetzt, besteht eine **gesetzliche Berichtigungspflicht** für **nicht gepruefte Steuerarten und Folgezeitraeume**, soweit die Prüfungsfeststellungen darauf Auswirkungen haben. Verstoss kann eigenstaendig § 370 AO verwirklichen. Folge für den Anwalt: nach Abschluss einer BP ist die Reichweite der Feststellungen auf andere Veranlagungszeitraeume und Steuerarten zu prüfen.
 
 ### BMF-Anwendungserlass zu §§ 153, 371 AO
 

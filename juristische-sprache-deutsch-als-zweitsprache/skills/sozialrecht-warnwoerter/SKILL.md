@@ -18,12 +18,12 @@ description: "Hilft bei Sozialrecht Warnwoerter für Menschen mit Deutsch als Zw
 - **Sanktion / Leistungsminderung (§ 31a SGB II)**: bis 30 % des Regelbedarfs; nach Bundesverfassungsgericht-Urteil v. 05.11.2019 (1 BvL 7/16) gibt es Grenzen.
 - **Aufrechnung (§ 43 SGB I)**: Behörde verrechnet Forderung mit laufender Leistung.
 - **Erstattungsbescheid (§ 50 SGB X)**: Forderung der Behörde zurueck; oft mit Frist 1 Monat.
-- **Aufhebungsbescheid (§ 48 SGB X)**: Aenderung der Verhaeltnisse; Anhörungspflicht (§ 24 SGB X).
+- **Aufhebungsbescheid (§ 48 SGB X)**: Änderung der Verhältnisse; Anhörungspflicht (§ 24 SGB X).
 - **Widerspruch (§ 84 SGG)**: 1 Monat ab Bekanntgabe; bei Auslandszustellung 3 Monate.
 - **Klage (§ 87 SGG)**: 1 Monat nach Widerspruchsbescheid; kostenfrei (§ 183 SGG).
 - **Eilantrag § 86b SGG**: bei drohendem Leistungsentzug Antrag auf einstweiligen Rechtsschutz.
 - **Beitragsschulden Krankenkasse**: können zum Ruhen des Krankenversicherungsschutzes fuehren.
-- **Rentenbescheid Widerspruch**: 1 Monat; bei laenger zurueckliegenden Bescheiden Ueberpruefung nach § 44 SGB X möglich (4-Jahres-Frist).
+- **Rentenbescheid Widerspruch**: 1 Monat; bei laenger zurueckliegenden Bescheiden Überprüfung nach § 44 SGB X möglich (4-Jahres-Frist).
 - **Rentenbeginn / Anrechnungszeiten**: Auswirkungen auf Höhe und Wartezeit.
 
 ## Vor jeder Unterschrift / Erklaerung
@@ -36,7 +36,7 @@ description: "Hilft bei Sozialrecht Warnwoerter für Menschen mit Deutsch als Zw
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

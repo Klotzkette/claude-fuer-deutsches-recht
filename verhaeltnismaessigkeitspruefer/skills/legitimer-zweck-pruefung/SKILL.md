@@ -1,6 +1,6 @@
 ---
 name: legitimer-zweck-pruefung
-description: Stufe 1 der Verhaeltnismaessigkeit legitimer Zweck mit Pruefraster fuer einfachen qualifizierten und verfassungsimmanenten Vorbehalt. Mit Negativliste verbotener Zwecke und Beispielen wann ein Zweck vorgeschoben ist.
+description: Stufe 1 der Verhältnismäßigkeit legitimer Zweck mit Prüfraster fuer einfachen qualifizierten und verfassungsimmanenten Vorbehalt. Mit Negativliste verbotener Zwecke und Beispielen wann ein Zweck vorgeschoben ist.
 ---
 
 # Legitimer Zweck Prüfung

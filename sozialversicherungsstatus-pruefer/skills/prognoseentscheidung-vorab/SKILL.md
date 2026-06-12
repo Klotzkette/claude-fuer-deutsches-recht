@@ -1,6 +1,6 @@
 ---
 name: prognoseentscheidung-vorab
-description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität im Sozialversicherungsstatus Pruefer."
+description: "Prüft Vorab-Statusfeststellung und Prognose anhand geplanter Vertrags- und Einsatzrealität im Sozialversicherungsstatus Prüfer."
 ---
 
 # Prognoseentscheidung vor Einsatzbeginn

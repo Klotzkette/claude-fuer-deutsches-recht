@@ -33,7 +33,7 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 ### Reha-Entlassungsbericht
 - "Leistungsbild" am Ende.
 - Stunden taeglich Erwerbsfaehigkeit.
-- Letzte Aenderung Leistungsbild als zentrales Dokument.
+- Letzte Änderung Leistungsbild als zentrales Dokument.
 
 ### Privatgutachten
 - Optional bei Streit.
@@ -54,7 +54,7 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 4. **Schweigepflichtentbindung** an behandelnde Aerzte.
 5. **Selbstauskunft** strukturiert.
 
-## Pruefraster
+## Prüfraster
 
 1. Alle Behandler erfasst?
 2. Belege chronologisch?

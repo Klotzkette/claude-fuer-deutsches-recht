@@ -1,6 +1,6 @@
 ---
 name: defensive-drafting-deutscher-kanzleistil
-description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Re..."
+description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Änderungsvorbehalte, kurze Verjährungsverkuerzung, Nachhaftung der Geschäftsführung, Lock-in-Mechanismen Auto-Re..."
 ---
 
 # Defensive Drafting und Fallen-Erkennung
@@ -56,17 +56,17 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Verteidigung:** Wechselseitig: Kläger klagt am Sitz des Beklagten. Oder neutraler dritter Gerichtsstand (z. B. Frankfurt am Main).
 
-### Falle 4: Unfairer Aenderungsvorbehalt
+### Falle 4: Unfairer Änderungsvorbehalt
 
-**Rote-Flaggen-Wortliste:** "Der Anbieter behaelt sich vor, die Leistungen jederzeit anzupassen", "Preisaenderungen werden mit einer Frist von vier Wochen wirksam", "Aenderungen dieser AGB werden per E-Mail mitgeteilt und gelten als angenommen".
+**Rote-Flaggen-Wortliste:** "Der Anbieter behaelt sich vor, die Leistungen jederzeit anzupassen", "Preisaenderungen werden mit einer Frist von vier Wochen wirksam", "Änderungen dieser AGB werden per E-Mail mitgeteilt und gelten als angenommen".
 
 **Wirkung:** Vertragsumgestaltung waehrend der Laufzeit. AGB-Verstoss gegen § 308 Nr. 4, § 309 Nr. 1, § 307 BGB.
 
 **Verteidigung:**
-- Aenderungen nur mit beidseitiger Schriftform.
+- Änderungen nur mit beidseitiger Schriftform.
 - Preisanpassung an objektiven Index (z. B. Verbraucherpreisindex Statistisches Bundesamt) koppeln.
 - Schweigen ist keine Annahme: explizite Zustimmung.
-- Sonderkuendigungsrecht bei jeder einseitigen Aenderung.
+- Sonderkuendigungsrecht bei jeder einseitigen Änderung.
 
 ### Falle 5: Kurze Verjährungsverkuerzung
 
@@ -76,13 +76,13 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Verteidigung:** Verjährungsregelung auf gesetzliches Mass zurueckfuehren. Bei Software und IT-Werken auf zwei Jahre. Bei Bauwerken auf fuenf Jahre.
 
-### Falle 6: Nachhaftung der Geschaeftsfuehrung
+### Falle 6: Nachhaftung der Geschäftsführung
 
-**Rote-Flaggen-Wortliste:** "Die Geschaeftsfuehrer haften persoenlich gesamtschuldnerisch", "Die Geschaeftsfuehrung garantiert die Richtigkeit der Angaben", "buergt persoenlich".
+**Rote-Flaggen-Wortliste:** "Die Geschäftsführer haften persoenlich gesamtschuldnerisch", "Die Geschäftsführung garantiert die Richtigkeit der Angaben", "buergt persoenlich".
 
 **Wirkung:** Durchgriffshaftung der Organe. Wirksam, aber regelmaessig nicht gewollt. Steuerlich problematisch.
 
-**Verteidigung:** Geschaeftsfuehrerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur für Sachverhalte, nicht für Rechtsfolgen.
+**Verteidigung:** Geschäftsführerhaftung streichen oder durch D&O-Versicherung deckeln. Garantien nur für Sachverhalte, nicht für Rechtsfolgen.
 
 ### Falle 7: Lock-in durch Auto-Renewal
 
@@ -134,7 +134,7 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Rote-Flaggen-Wortliste:** "Der Anbieter ist berechtigt, die Nutzung der Software zu auditieren", "Die Lizenznehmerin gestattet der Lizenzgeberin Zutritt zu ihren Raeumen".
 
-**Wirkung:** Einseitige Pruefrechte. Bei Auftragsverarbeitung nach DSGVO eigene Kategorie (Art. 28 III lit. h).
+**Wirkung:** Einseitige Prüfrechte. Bei Auftragsverarbeitung nach DSGVO eigene Kategorie (Art. 28 III lit. h).
 
 **Verteidigung:**
 - Reziprozitaet: Auch der Auftraggeber darf den Auftragnehmer auditieren (vgl. DSGVO).
@@ -146,7 +146,7 @@ description: "Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwo
 
 **Rote-Flaggen-Wortliste:** "Vertragssprache ist Englisch, Gerichtsstand Frankfurt", "Im Streitfall gilt die englische Fassung", "Auslegungsfragen unterliegen dem Recht von New York".
 
-**Wirkung:** Deutscher Richter muss englisches Recht anwenden. Hohe Beweisanforderungen an auslaendisches Recht (§ 293 ZPO). Verlangsamung und Kostensteigerung.
+**Wirkung:** Deutscher Richter muss englisches Recht anwenden. Hohe Beweisanforderungen an ausländisches Recht (§ 293 ZPO). Verlangsamung und Kostensteigerung.
 
 **Verteidigung:**
 - Vertragssprache und Rechtswahl synchronisieren.

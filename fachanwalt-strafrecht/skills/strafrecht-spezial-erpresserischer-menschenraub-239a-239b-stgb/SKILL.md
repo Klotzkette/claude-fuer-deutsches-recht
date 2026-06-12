@@ -14,7 +14,7 @@ description: "Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren.
+**Fokus:** Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhältnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren.
 
 ### Erpresserischer Menschenraub und Geiselnahme §§ 239a, 239b StGB
 
@@ -22,7 +22,7 @@ description: "Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b 
 
 §§ 239a, 239b StGB schuetzen die persönliche Freiheit gegen besonders gefaehrliche Formen der Entfuehrung. Beide Normen haben eine **Dreiecksstruktur**: Taeter – Opfer – Erpresster bzw. Genoetigter.
 
-- **§ 239a StGB Erpresserischer Menschenraub:** Entfuehrung oder Bemaechtigung eines Menschen, um die Sorge des Opfers oder Dritter um sein Wohl zur Erpressung (§ 253 StGB) auszunutzen. **Vermoegensbezug.**
+- **§ 239a StGB Erpresserischer Menschenraub:** Entfuehrung oder Bemaechtigung eines Menschen, um die Sorge des Opfers oder Dritter um sein Wohl zur Erpressung (§ 253 StGB) auszunutzen. **Vermögensbezug.**
 - **§ 239b StGB Geiselnahme:** Entfuehrung oder Bemaechtigung eines Menschen, um diesen oder Dritte durch die Drohung mit dem Tod oder schwerer Koerperverletzung oder mit Freiheitsentziehung von einer Woche oder mehr zu noetigen. **Allgemeine Noetigungsbezug.**
 
 Strafrahmen:
@@ -44,7 +44,7 @@ Strafrahmen:
 - Vorsatz hinsichtlich Entfuehrung / Bemaechtigung.
 - **Erpressungs- bzw. Noetigungsabsicht** (Absichtsmerkmal, dolus directus 1. Grades).
 
-**Dreiecksstruktur – BGH-Restriktion bei Zwei-Personen-Verhaeltnis:** Die staendige BGH-Rechtsprechung hat das Tatbestandserfordernis entwickelt, dass bei klassischen Zwei-Personen-Verhaeltnissen (Taeter und Opfer sind identisch mit Erpressern und Genoetigtem) §§ 239a, 239b StGB **restriktiv** anzuwenden sind. Erforderlich ist, dass der Taeter die Bemaechtigungslage und die nachfolgende Erpressungs-/Noetigungslage gedanklich trennt und das Opfer über einen nicht nur unerheblichen Zeitraum in der Gewalt halten will. Bloss kurzes Festhalten zur sofortigen Noetigung erfuellt §§ 239a, 239b StGB nicht – dann nur § 240 StGB / § 253 StGB.
+**Dreiecksstruktur – BGH-Restriktion bei Zwei-Personen-Verhältnis:** Die staendige BGH-Rechtsprechung hat das Tatbestandserfordernis entwickelt, dass bei klassischen Zwei-Personen-Verhältnissen (Taeter und Opfer sind identisch mit Erpressern und Genoetigtem) §§ 239a, 239b StGB **restriktiv** anzuwenden sind. Erforderlich ist, dass der Taeter die Bemaechtigungslage und die nachfolgende Erpressungs-/Noetigungslage gedanklich trennt und das Opfer über einen nicht nur unerheblichen Zeitraum in der Gewalt halten will. Bloss kurzes Festhalten zur sofortigen Noetigung erfuellt §§ 239a, 239b StGB nicht – dann nur § 240 StGB / § 253 StGB.
 
 ## Tatbestandsmerkmale konkret
 
@@ -52,7 +52,7 @@ Strafrahmen:
 
 **Sich-Bemaechtigen:** Erlangung der physischen Herrschaft. Reicht aus, wenn das Opfer in der Wohnung des Taeters gefesselt wird; auch Gewaltausuebung in einem öffentlichen Raum kann ausreichen.
 
-**§ 239a StGB – Erpressungsabsicht:** Der Taeter muss die Lage zur Erpressung (§ 253 StGB) ausnutzen wollen. Vermoegensbezug erforderlich. Loesegeldforderung klassisch.
+**§ 239a StGB – Erpressungsabsicht:** Der Taeter muss die Lage zur Erpressung (§ 253 StGB) ausnutzen wollen. Vermögensbezug erforderlich. Loesegeldforderung klassisch.
 
 **§ 239b StGB – Noetigungsabsicht:** Drohung mit Tod, schwerer Koerperverletzung iSd § 226 StGB oder Freiheitsentziehung von einer Woche oder mehr. Klassisch: Geiselnahme bei Banketreuformen, Bedrohung von Familienangehoerigen.
 
@@ -96,7 +96,7 @@ Strafrahmen:
 ## Mustertexte
 
 **Einlassung (Auszug, Stabilisierungslage):**
-> Der Angeklagte raeumt ein, den Geschaedigten kurzzeitig festgehalten zu haben, um eine Forderung zu erlangen. Die Bemaechtigungslage dauerte etwa eine Minute. Eine darueber hinausgehende Stabilisierung der Lage war nicht beabsichtigt. Der Tatbestand des § 239a StGB ist nach staendiger BGH-Rechtsprechung bei klassischen Zwei-Personen-Verhaeltnissen ohne Stabilisierungsabsicht nicht erfuellt.
+> Der Angeklagte raeumt ein, den Geschaedigten kurzzeitig festgehalten zu haben, um eine Forderung zu erlangen. Die Bemaechtigungslage dauerte etwa eine Minute. Eine darueber hinausgehende Stabilisierung der Lage war nicht beabsichtigt. Der Tatbestand des § 239a StGB ist nach staendiger BGH-Rechtsprechung bei klassischen Zwei-Personen-Verhältnissen ohne Stabilisierungsabsicht nicht erfuellt.
 
 **Plaedoyer-Snippet:**
 > Die Beweisaufnahme hat ergeben, dass die Bemaechtigungslage nur sekundenkurz war und ausschließlich der unmittelbaren Erlangung des Geldbetrages diente. Eine Trennung zwischen Bemaechtigungslage und Erpressungslage iSd staendigen BGH-Rechtsprechung zur Zwei-Personen-Restriktion liegt nicht vor. Es bleibt der Schuldspruch wegen § 253 StGB in Tateinheit mit § 240 StGB.

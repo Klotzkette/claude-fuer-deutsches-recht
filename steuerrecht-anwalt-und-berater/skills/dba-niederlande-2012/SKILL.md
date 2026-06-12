@@ -33,8 +33,8 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 ### Primaernormen
 
 - **DBA Deutschland-Niederlande vom 12.04.2012** (BGBl. 2012 II S. 1414/1415), in Kraft 01.12.2015 (BGBl. 2015 II S. 1674), anwendbar ab 01.01.2016.
-- Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
-- **Drittes Aenderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze für Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle über recht.bund.de prüfen (Pruefhinweis).
+- Änderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 868); weiteres Aend.-Prot. 24.03.2021 (BGBl. 2021 II S. 736).
+- **Drittes Änderungsprotokoll vom 14.04.2025** (BMF-Pressemitteilung 14.04.2025): Bagatellgrenze für Home-Office von Grenzpendlern eingefuehrt — **bis 34 Arbeitstage pro Kalenderjahr** Home-Office im Wohnsitzstaat ohne Aufteilung des Besteuerungsrechts. In Kraft 31.12.2025; anwendbar ab 01.01.2026. BGBl.-Fundstelle über recht.bund.de prüfen (Prüfhinweis).
 - **OECD-MA 2010/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Niederlande sind Unterzeichnerstaaten — konkrete Notification-Listen beim OECD-MLI-Status-Portal prüfen.
@@ -112,7 +112,7 @@ Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. 
 ### Erstattungsverfahren niederlaendische Dividendensteuer
 
 - **Zuständigkeit**: Erstattung niederlaendischer Dividendensteuer durch **Belastingdienst/Kantoor Buitenland** (Heerlen). Aktuelle Zuständigkeit auf **belastingdienst.nl** prüfen.
-- **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer für Auslaender) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
+- **Antragsformulare**: niederlaendische Formulare **IB 92** (Antrag Rueckerstattung Dividendensteuer für Ausländer) und Schachteldividenden-Bescheinigung — Bezeichnungen vom Anwender mit aktuellem Stand auf belastingdienst.nl/buitenland zu verifizieren.
 - **Frist**: nach niederlaendischer Algemene Wet inzake Rijksbelastingen grundsätzlich **drei Jahre** ab Steuerentrichtung — knappere Frist als bei AT/IT.
 - **Bearbeitungsdauer Belastingdienst**: 6-18 Monate.
 - **Online-Portal**: niederlaendische Verwaltung auf **belastingdienst.nl/buitenland** mit englischer Sprachversion ("Tax matters from abroad") — barrierearm für deutsche Mandanten.

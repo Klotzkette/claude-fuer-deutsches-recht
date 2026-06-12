@@ -68,7 +68,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 
 ## Verwendung im Plaedoyer
 
-Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandant ist 28 Jahre alt, lebt seit zwei Jahren in fester Partnerschaft, arbeitet seit drei Jahren in einem unbefristeten Arbeitsverhaeltnis, hat keine Vorstrafen, lebt in geordneten finanziellen Verhaeltnissen. Empirisch ist das ein Profil sehr geringer Rueckfallwahrscheinlichkeit. Eine Inhaftierung wuerde diese Schutzfaktoren — Arbeit, Partnerschaft, Wohnung — zerstoeren, und damit die Wahrscheinlichkeit weiterer Taten erhoehen, nicht senken. Die Bewaehrungsstrafe ist hier nicht nur die mildere Sanktion, sondern auch die kriminologisch sinnvollere."
+Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandant ist 28 Jahre alt, lebt seit zwei Jahren in fester Partnerschaft, arbeitet seit drei Jahren in einem unbefristeten Arbeitsverhaeltnis, hat keine Vorstrafen, lebt in geordneten finanziellen Verhältnissen. Empirisch ist das ein Profil sehr geringer Rueckfallwahrscheinlichkeit. Eine Inhaftierung wuerde diese Schutzfaktoren — Arbeit, Partnerschaft, Wohnung — zerstoeren, und damit die Wahrscheinlichkeit weiterer Taten erhoehen, nicht senken. Die Bewaehrungsstrafe ist hier nicht nur die mildere Sanktion, sondern auch die kriminologisch sinnvollere."
 
 ## Mustertexte
 

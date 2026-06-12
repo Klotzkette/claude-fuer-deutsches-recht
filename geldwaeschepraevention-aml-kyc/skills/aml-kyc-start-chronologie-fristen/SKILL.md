@@ -110,12 +110,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `geldwaesche-audit-internal-revision` | Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6… |
-| `geldwaesche-behoerdenverfahren` | Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG… |
+| `geldwaesche-behoerdenverfahren` | Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG… |
 | `geldwaesche-bussgeld-reputation` | Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG… |
 | `geldwaesche-datenqualitaet-register` | Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20… |
 | `geldwaesche-gruppenweite-compliance` | Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9… |
 | `geldwaesche-immobilien-gueterhaendler` | AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse… |
-| `geldwaesche-kommandocenter` | Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow… |
+| `geldwaesche-kommandocenter` | Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behördenfaelle vom Intake bis zum Maßnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow… |
 | `geldwaesche-krypto-zahlungsdienstleister` | AML/KYC-Prüfung für Krypto-Assets Wallets Travel Rule und Zahlungsdienstleister. Anwendungsfall Krypto-Transaktion soll bewertet oder Krypto-Dienstleister muss KYC-Prozess aufsetzen. Normen § 2 Abs. 1 Nr. 10b GwG… |
 | `geldwaesche-kyc-onboarding` | KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10… |
 | `geldwaesche-pep-hochrisikoland` | Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen.… |
@@ -139,7 +139,7 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 
 ## Wann brauchen Sie diese Skill?
 
-- Eine Bank oder ein Zahlungsdienstleister nimmt einen neuen Geschaeftskunden auf und muss KYC-Pruefungen nach § 10 GwG durchfuehren.
+- Eine Bank oder ein Zahlungsdienstleister nimmt einen neuen Geschäftskunden auf und muss KYC-Prüfungen nach § 10 GwG durchfuehren.
 - Ein Compliance-Beauftragter entdeckt verdaechtige Transaktionen und prüft, ob eine Verdachtsmeldung nach § 43 GwG an die FIU eingereicht werden muss.
 - Ein Immobilienmakler fragt, ob er nach § 2 Abs. 1 Nr. 14 GwG verpflichtet ist und welche Sorgfaltspflichten gelten.
 - Ein Unternehmen will seine interne GwG-Risikoanalyse nach § 5 GwG aktualisieren.
@@ -177,8 +177,8 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 
 ## Skill-Tour (was gibt es hier?)
 
-- `geldwaesche-kommandocenter` — Zentrales Steuerungsmodul für alle AML/KYC-Faelle vom Intake bis zum Massnahmenplan.
-- `geldwaesche-verpflichteten-check` — Prueft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist.
+- `geldwaesche-kommandocenter` — Zentrales Steuerungsmodul für alle AML/KYC-Faelle vom Intake bis zum Maßnahmenplan.
+- `geldwaesche-verpflichteten-check` — Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist.
 - `geldwaesche-risikoanalyse-unternehmen` — Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG erstellen für Verpflichtete.
 - `geldwaesche-kyc-onboarding` — KYC-Onboarding neuer Kunden mit Identifizierung, Risikoklassifizierung und Freigabe nach GwG.
 - `geldwaesche-ubo-wirtschaftlich-berechtigte` — Wirtschaftlich Berechtigte, Kontrollketten und Trust-/Stiftungsstrukturen ermitteln nach GwG.
@@ -195,8 +195,8 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - `geldwaesche-datenqualitaet-register` — Datenqualitaet im KYC-System und Transparenzregister-Abgleich auf Dubletten und Fehler prüfen.
 - `geldwaesche-schulung-awareness` — Zielgruppengerechte AML/KYC-Schulungen und Awareness-Maßnahmen nach § 6 Abs. 2 Nr. 6 GwG.
 - `geldwaesche-simulation-testlauf` — Simulation eines Compliance-Arbeitstags mit Onboarding, Alerts, Verdachtspruefung und Behördenfragen.
-- `geldwaesche-behoerdenverfahren` — Begleitung von BaFin-Pruefungen, FIU-Nachfragen und Massnahmenbescheiden.
-- `geldwaesche-bussgeld-reputation` — Bussgeldriskien, Geschaeftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen strukturieren.
+- `geldwaesche-behoerdenverfahren` — Begleitung von BaFin-Prüfungen, FIU-Nachfragen und Maßnahmenbescheiden.
+- `geldwaesche-bussgeld-reputation` — Bussgeldriskien, Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen strukturieren.
 - `geldwaesche-audit-internal-revision` — Interne Revision und Audit der AML/KYC-Kontrollen nach GwG durch Compliance-Beauftragten oder externen Prüfer.
 
 ## Worauf besonders achten
@@ -205,7 +205,7 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 - Transaktionsstopp nach § 46 GwG greift vor dem Vollzug einer Transaktion — die Pflicht zur Nichtdurchfuehrung muss bekannt sein.
 - UBO-Ermittlung bei Kettenstrukturen (Holding-Pyramiden, Trusts) ist besonders komplex; einfaches Gesellschaftsregister reicht nicht.
 - Sanktionsscreening muss auch bei Bestandskunden bei neuen Sanktionsereignissen erneut durchgefuehrt werden.
-- Krypto-Assets sind seit MiCA und den GwG-Aenderungen 2023 vollumfaenglich verpflichtet — Travel Rule (Art. 14 ff. MiCA-VO) beachten.
+- Krypto-Assets sind seit MiCA und den GwG-Änderungen 2023 vollumfaenglich verpflichtet — Travel Rule (Art. 14 ff. MiCA-VO) beachten.
 
 ## Typische Fehler
 

@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-vorsteuerabzug-pruefen
-description: "Prüfungslinie für anw umsatzsteuer vorsteuerabzug pruefen im Steuerrecht Anwalt Und Berater."
+description: "Prüfungslinie für anw umsatzsteuer vorsteuerabzug prüfen im Steuerrecht Anwalt Und Berater."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen
@@ -58,7 +58,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
 - **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist. Massgebend:
  - **BMF-Schreiben vom 15.10.2024**, GZ III C 2 - S 7287-a/23/10001 :007 (Einfuehrungsschreiben eRechnung).
- - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Pruefpflichten des Empfaengers).
+ - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Prüfpflichten des Empfaengers).
 - **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
 
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG

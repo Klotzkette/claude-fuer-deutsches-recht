@@ -1,11 +1,11 @@
 ---
 name: bmf-geldwaesche-und-sanktionsrecht
-description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und..."
+description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschäftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und..."
 ---
 
 # Geldwaescherecht und Sanktionsrecht (BMF)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Geldwaescherecht und Sanktionsrecht im Geschäftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsberei
 
 Kernbestand des Sachfelds: GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Sanktionslisten in Echtzeit; PEP-Listen; effektive Sanktionierung; Bilanz zwischen Aufsicht und Verfolgung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

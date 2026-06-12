@@ -23,7 +23,7 @@ description: "Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare 
 ## Rechtlicher und methodischer Rahmen
 
 - BGB-Anspruchsgrundlagenpruefung als Vorbild. Tatbestand und Rechtsfolge sind die zwei Saeulen jeder Norm.
-- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Glaeubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
+- § 280 Abs. 1 BGB: "Verletzt der Schuldner eine Pflicht aus dem Schuldverhaeltnis, so kann der Gläubiger Ersatz des hierdurch entstehenden Schadens verlangen." Vorbild für Drafting.
 - § 281 BGB, § 286 BGB: Verzug und Schadensersatz statt der Leistung.
 - § 437 BGB, § 634 BGB: Rechte des Kaeufers und des Bestellers bei Mangel.
 - AGB-Recht: Klauselverbote § 308, § 309 BGB. Bei B2B § 307 BGB.

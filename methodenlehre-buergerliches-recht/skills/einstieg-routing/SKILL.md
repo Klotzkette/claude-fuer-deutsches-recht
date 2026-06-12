@@ -11,7 +11,7 @@ Dieser Einstieg routet **Methodenlehre Buergerliches Recht** vom ersten Sachverh
 
 ## Fachlandkarte dieses Plugins
 
-- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Übergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
 - `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl

@@ -59,7 +59,7 @@ Wenn Sie umgezogen sind, ist der neue Wohnort entscheidend, sofern Klage noch ni
 
 ### Schritt 4 — Klage abgeben
 
-- **Persoenlich** auf der Geschaeftsstelle (siehe `klage-zur-niederschrift-90-sgg`)
+- **Persoenlich** auf der Geschäftsstelle (siehe `klage-zur-niederschrift-90-sgg`)
 - **Per Post** mit Einschreiben (Zustellungsnachweis sicher)
 - **Per Mein Justizpostfach** (MJP, siehe `einreichung-mein-justizpostfach-mjp-sozialgericht`)
 - **Per Fax** (siehe `einreichung-fax-und-grenzen-sozialgericht`)

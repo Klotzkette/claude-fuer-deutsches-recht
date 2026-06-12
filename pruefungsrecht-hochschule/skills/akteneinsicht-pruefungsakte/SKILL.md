@@ -1,9 +1,9 @@
 ---
 name: akteneinsicht-pruefungsakte
-description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Pruefungsrecht Hochschule."
+description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im Prüfungsrecht Hochschule."
 ---
 
-# Akteneinsicht Pruefungsakte
+# Akteneinsicht Prüfungsakte
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen im 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Akteneinsicht Pruefungsakte
+## Fachkern: Akteneinsicht Prüfungsakte
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -27,7 +27,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 ## Spezialfokus
 
 - **Konkreter Auftrag:** Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen.
-- **Erste Trennlinie:** Ist das Problem wirklich Akteneinsicht Pruefungsakte, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Erste Trennlinie:** Ist das Problem wirklich Akteneinsicht Prüfungsakte, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.

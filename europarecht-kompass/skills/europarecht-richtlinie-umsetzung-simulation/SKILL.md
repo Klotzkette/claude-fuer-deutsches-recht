@@ -41,7 +41,7 @@ Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf 
 
 Bevor losgelegt wird, klaere:
 1. Welche Richtlinie — Umsetzungsfrist und Stand der nationalen Umsetzung bekannt?
-2. Ist die Frist abgelaufen — wenn ja: unmittelbare Wirkung oder Staatshaftung pruefbar?
+2. Ist die Frist abgelaufen — wenn ja: unmittelbare Wirkung oder Staatshaftung prüfbar?
 3. Hat der nationale Gesetzgeber den Umsetzungsspielraum ausgeschoepft oder ueberschossen (Gold-Plating)?
 4. Besteht eine Auslegungsfrage ob das nationale Recht richtlinienkonform interpretiert werden kann?
 

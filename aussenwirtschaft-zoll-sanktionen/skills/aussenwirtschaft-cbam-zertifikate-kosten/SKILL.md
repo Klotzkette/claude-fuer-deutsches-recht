@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-zertifikate-kosten
-description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Bes..."
+description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung ausländischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Bes..."
 ---
 
 # CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht
@@ -36,7 +36,7 @@ description: "Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung d
 - **Richtlinie 2003/87/EG ETS**: Bezugspreis für CBAM-Zertifikate.
 - **Art. 26 VO (EU) 2023/956**: Strafzahlungen bei nicht abgegebenen Zertifikaten.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Emissionsmenge für Planjahr kalkuliert?
 - [ ] Anrechenbare Drittland-CO2-Preise belegt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

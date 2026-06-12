@@ -1,6 +1,6 @@
 ---
 name: waehlen-rechtsprechung-recherche-europarecht
-description: "Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung im Subsumtions Pruefer."
+description: "Output wählen: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung im Subsumtions Prüfer."
 ---
 
 # Output wählen

@@ -89,12 +89,12 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 2. § 32d EStG Abgeltungsteuer bei natuerlicher Person, ggf. Teileinkuenfteverfahren.
 
 ### Phase 6 — Anrechnung
-1. § 34c EStG-Anrechnung auslaendischer Quellensteuer (bei DE-Empfaenger).
+1. § 34c EStG-Anrechnung ausländischer Quellensteuer (bei DE-Empfaenger).
 
 ## Strategie und Praxis-Tipps
 
 - MTRL (0 Prozent bei Schachtel innerhalb EU) ist regelmaessig guenstiger als DBA-Hoechstsatz — Empfaengergunst-Prüfung.
-- § 50d Abs. 3 EStG-Substanztest auch nach AbzStEntModG-Reform 2021 zentral — Personal, Geschaeftsraeume, Geschaeftstaetigkeit.
+- § 50d Abs. 3 EStG-Substanztest auch nach AbzStEntModG-Reform 2021 zentral — Personal, Geschäftsraeume, Geschäftstaetigkeit.
 - § 50j EStG-Anti-Cum-Cum-Haltefrist 45 Tage in 91-Tage-Zeitraum strikt einhalten.
 - BZSt-Bearbeitungsdauer hoch — Freistellungsbescheinigung vorab beantragen.
 - Bei US-DBA-Schachtel (80 Prozent Beteiligung): 0 Prozent Quellensteuer im Protokoll 2006 sehr attraktiv.
@@ -103,11 +103,11 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **BZSt-Antragsformular Dividenden-Erstattung**: das Formular für die Erstattung nach § 50c Abs. 3 EStG für auslaendische Dividendenempfaenger findet sich im BZSt-Online-Portal (BOP, bzst.de) im Bereich "Kapitalertragsteuer/Solidaritaetszuschlag — Erstattung" (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — Bezeichnungen ändern sich periodisch).
+- **BZSt-Antragsformular Dividenden-Erstattung**: das Formular für die Erstattung nach § 50c Abs. 3 EStG für ausländische Dividendenempfaenger findet sich im BZSt-Online-Portal (BOP, bzst.de) im Bereich "Kapitalertragsteuer/Solidaritaetszuschlag — Erstattung" (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — Bezeichnungen ändern sich periodisch).
 - **Freistellungsbescheinigung BZSt für Schachteldividenden** nach § 43b EStG / MTRL: vorab beantragen mit drei Jahren Geltungsdauer. Empfaengergesellschaft spart Cashflow-Vorfinanzierung.
 - **Ansaessigkeitsbescheinigung des Heimat-FA mitsenden**: IRS Form 6166 (USA, über Form 8802; Bearbeitung 6-8 Wochen), HMRC Certificate of Residence (UK; 4-6 Wochen), CFR-1 (Polen). Ohne Ansaessigkeitsbescheinigung wird BZSt-Antrag im Erstcheck zurueckgewiesen.
 - **45-Tage-Cum-Cum-Frist § 50j EStG**: in der Praxis Anteils-Stichtag minus 45 Tage und plus 45 Tage festlegen — Stichtagsbuch des Depotverwalters anfordern.
-- **Substanz-Dokumentation aufbauen**: bei Holding/Konzern: Stammbuch Geschaeftsfuehrungssitzungen, Personalliste, Mietvertrag, Telefonanlage, Bankvollmachten — § 50d Abs. 3 EStG-Prüfung.
+- **Substanz-Dokumentation aufbauen**: bei Holding/Konzern: Stammbuch Geschäftsführungssitzungen, Personalliste, Mietvertrag, Telefonanlage, Bankvollmachten — § 50d Abs. 3 EStG-Prüfung.
 - **Originalbelege vs. beglaubigte Kopien**: BZSt akzeptiert beglaubigte Kopien der Ansaessigkeitsbescheinigung; bei Drittstaaten teils Apostille notwendig (Spanien, Italien, USA-Konsularstempel). Originale Steuerbescheinigung der KSt im Original.
 - **Online-Antrag BZSt-Online-Portal (BOP)**: deutlich schneller als postalisch; Massen-Antraege für Institutionelle Anleger über DAV (Datenuebermittlungs-Verfahren).
 - **Q1-Antragsfenster (Januar bis Maerz)**: BZSt-Bearbeitung kuerzer als bei Antraegen im Q4. Mandanten-Daten sammeln, sobald die jeweilige Dividende beschlossen ist.
@@ -127,7 +127,7 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 
 - **DBA-Hoechstsatz falsch zitiert** (z.B. Schachtel- statt Streubesitzsatz oder umgekehrt).
 - **MTRL-Voraussetzungen nicht geprueft**: 10 Prozent Beteiligung, 12 Monate Mindesthaltedauer, EU-Ansaessigkeit, Empfaengergesellschaft Liste Anhang I.
-- **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei reiner Holding ohne Personal/Buero/Geschaeftstaetigkeit kein Anspruch auf Entlastung.
+- **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei reiner Holding ohne Personal/Buero/Geschäftstaetigkeit kein Anspruch auf Entlastung.
 - **Cum-Cum-Konstellation uebersehen** (§ 50j EStG): 45-Tage-Frist nicht in Antrag eingearbeitet.
 - **Ansaessigkeitsbescheinigung fehlt** — Antrag wird zurueckgewiesen.
 - **Schachteldividende auf falsche Beteiligungsschwelle gestuetzt**: DBA-Schachtel oft 10 oder 25 Prozent, MTRL 10 Prozent — Beteiligungsschwelle einzeln prüfen.

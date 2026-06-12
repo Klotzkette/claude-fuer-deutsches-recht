@@ -24,7 +24,7 @@ description: "Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet
 2. **Kognitive und kommunikative Faehigkeiten** (15 Prozent)
 3. **Verhaltensweisen und psychische Problemlagen** (15 Prozent)
 4. **Selbstversorgung** (40 Prozent)
-5. **Bewaeltigung von und selbstaendiger Umgang mit krankheits- oder therapiebedingten Anforderungen** (20 Prozent)
+5. **Bewaeltigung von und selbständiger Umgang mit krankheits- oder therapiebedingten Anforderungen** (20 Prozent)
 6. **Gestaltung des Alltagslebens und sozialer Kontakte** (15 Prozent)
 
 Modul 2 oder 3 — das schwerwiegendere zaehlt.
@@ -39,7 +39,7 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 
 ## Typische Streitpunkte
 
-- Selbststaendigkeit "ueberwiegend selbstaendig" vs. "ueberwiegend unselbstaendig".
+- Selbststaendigkeit "ueberwiegend selbständig" vs. "ueberwiegend unselbstaendig".
 - Beruecksichtigung von Hilfsmittel (Rollstuhl Rollator).
 - Demenz-Fragen Modul 2-3.
 
@@ -53,7 +53,7 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 
 "In dem Bescheid wurde Pflegegrad [X] festgestellt. Ich lege Widerspruch ein. Begruendung Modul 4 Selbstversorgung wurde mit [Punkte] bewertet. Tatsaechlich ist Selbststaendigkeit aber stark eingeschraenkt: Beleg Hausarztbericht / Pflegeprotokoll. Ich beantrage erneute Begutachtung."
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Module strittig?
 2. Selbststaendigkeitsbewertung pro Modul?

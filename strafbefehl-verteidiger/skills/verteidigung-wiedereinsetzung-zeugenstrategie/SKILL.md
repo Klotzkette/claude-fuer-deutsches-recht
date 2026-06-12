@@ -36,13 +36,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Verteidigung-Tatbestand-Beweisbausteine im Strafbefehl
-- **Strafbefehl-typische Tatvorwuerfe und Pruefkette:**
- - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermoegensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Prüfen: kausaler Irrtum? Vermoegensschaden vorliegend?
+- **Strafbefehl-typische Tatvorwuerfe und Prüfkette:**
+ - **§ 263 StGB Betrug:** Taeuschung + Irrtum + Vermögensverfuegung + Schaden + Stoffgleichheit + Vorsatz + Bereicherungsabsicht. Prüfen: kausaler Irrtum? Vermögensschaden vorliegend?
  - **§ 242 StGB Diebstahl:** Wegnahme + fremde bewegliche Sache + Bruch des Gewahrsams + Vorsatz + Zueignungsabsicht. Prüfen: tatsaechliche Wegnahme oder noch im Geltungsbereich Geschaedigter?
  - **§ 316 StGB Trunkenheit:** Fahren im Strassenverkehr + Fahruntuechtigkeit (absolut ab 1,1 Promille / relativ ab 0,3 Promille mit Ausfallerscheinungen) + Vorsatz / Fahrlaessigkeit. Prüfen: BAK-Wert / Atemalkoholwert plausibel, Methodik korrekt?
  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor angemessener Wartezeit + Vorsatz. Prüfen: Unfall im Rechtssinn (auch Bagatellschaden)? Wartezeit zumutbar gewesen?
  - **§ 240 StGB Noetigung:** Gewalt / Drohung mit empfindlichem Uebel + Erzwingen einer Handlung/Duldung/Unterlassung + Verwerflichkeit + Vorsatz.
- - **§ 263a StGB Computerbetrug:** EDV-Eingabe / -Verfahren + Vermoegensschaedigung + Bereicherungsabsicht.
+ - **§ 263a StGB Computerbetrug:** EDV-Eingabe / -Verfahren + Vermögensschaedigung + Bereicherungsabsicht.
 - **Beweis-Lueckenliste pro Tatvorwurf:**
  - Identitaet Taeter zweifelsfrei (Lichtbildvergleich, Zeugenaussage, DNA)?
  - Tatzeit / Tatort gesichert?

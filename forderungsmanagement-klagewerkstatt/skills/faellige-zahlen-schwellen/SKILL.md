@@ -13,7 +13,7 @@ Der Basiszinssatz wird halbjaehrlich von der Bundesbank festgesetzt. Aktueller S
 
 ## Verzugszinsen BGB 288
 
-| Verhaeltnis | Zinssatz |
+| Verhältnis | Zinssatz |
 |---|---|
 | B2C Verbraucher als Schuldner | fuenf Prozentpunkte über Basiszinssatz |
 | B2B Entgeltforderung kein Verbraucher beteiligt | neun Prozentpunkte über Basiszinssatz |

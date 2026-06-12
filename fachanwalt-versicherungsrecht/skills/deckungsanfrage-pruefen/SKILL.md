@@ -115,7 +115,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Deckungsanfrage an Versicherer stellen | Deckungsanfrageschreiben nach Checkliste; Template unten |
 | Variante A — Versicherer hat bereits abgelehnt | Direkt zu Deckungsklage-Skill wechseln |
-| Variante B — Deckung unklar mehrere Policen parallel | Alle Policen pruefend Anfragen koordiniert stellen |
+| Variante B — Deckung unklar mehrere Policen parallel | Alle Policen prüfend Anfragen koordiniert stellen |
 | Variante C — Mandant will schnelle Zahlung ohne Rechtsstreit | Verhandlungsstrategie vor Fristsetzung; Klage nur als letztes Mittel |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -234,7 +234,7 @@ auf maximal [X] % begrenzt, da [Schwere und Umstände].
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

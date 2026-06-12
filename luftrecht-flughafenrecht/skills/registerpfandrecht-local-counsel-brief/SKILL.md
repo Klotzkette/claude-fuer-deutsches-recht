@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-local-counsel-brief
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Pfandrechts-Vollstreckungs-Mandat briefen: Rang-Analyse AG-Braunschweig-Register Cape-Town-Eintrag IDERA-Status. Skill erstellt englisches Briefing-Memo mit deutschem Pfandrechtsrecht und konkreten Fragen an Local Counsel im Luftrecht Flughafen..."
+description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Pfandrechts-Vollstreckungs-Mandat briefen: Rang-Analyse AG-Braunschweig-Register Cape-Town-Eintrag IDERA-Status. Skill erstellt englisches Briefing-Memo mit deutschem Pfandrechtsrecht und konkreten Fragen an Local Counsel im Luftrecht Flughafen..."
 ---
 
 # Registerpfandrecht – Local Counsel briefen

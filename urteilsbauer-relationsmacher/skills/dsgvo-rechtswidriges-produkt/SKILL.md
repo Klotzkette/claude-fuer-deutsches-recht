@@ -5,7 +5,7 @@ description: "Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richte
 
 # DSGVO-rechtswidriges Produkt
 
-Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
+Prüfschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
 
 ## Triage zu Beginn
 
@@ -55,7 +55,7 @@ richtet sich an Personen in der EU].
 **Folge:** [Sachmangel § 434 BGB / Nichtigkeit § 134 BGB / Schadensersatz Art. 82 DSGVO].
 ```
 
-## Pruefstationen
+## Prüfstationen
 
 ### A - Anwendbarkeit der DSGVO
 

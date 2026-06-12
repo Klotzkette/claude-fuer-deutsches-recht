@@ -26,7 +26,7 @@ Dieser Dokumenten-Intake für **Vertragsrecht** ordnet Anlagen, Registerdaten, K
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
 - `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router

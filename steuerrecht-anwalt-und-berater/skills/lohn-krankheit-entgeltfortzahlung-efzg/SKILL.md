@@ -17,7 +17,7 @@ Bei Krankheit hat der AN nach § 3 EFZG für 6 Wochen Anspruch auf Entgeltfortza
 
 ## Kaltstart-Rueckfragen
 
-1. Hat der AN mind. 4 Wochen Beschaeftigung im Betrieb (Voraussetzung Entgeltfortzahlung)?
+1. Hat der AN mind. 4 Wochen Beschäftigung im Betrieb (Voraussetzung Entgeltfortzahlung)?
 2. Liegt eAU vor (Abruf bei Krankenkasse)?
 3. Welche Krankheitstage in der laufenden 12-Monats-Periode bereits angerechnet?
 4. Bei chronischer Krankheit mit wiederholten Krankheitsphasen: Prüfung "Fortsetzungskrankheit"?

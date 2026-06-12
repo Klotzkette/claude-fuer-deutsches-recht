@@ -1,6 +1,6 @@
 ---
 name: spendenannahme-sponsoring
-description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme prüfen im Wahlkampfrecht."
 ---
 
 # Spendenannahme Prüfung
@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Klaert Spender, Herkunft, Betrag, Stueckelung, auslaendische Bezuege, Unzulaessigkeit und Weiterleitungspflichten.
+Klaert Spender, Herkunft, Betrag, Stueckelung, ausländische Bezuege, Unzulaessigkeit und Weiterleitungspflichten.
 
 ## Spezifischer Prüfpfad
 

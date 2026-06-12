@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmerueberlassung-abgrenzung
-description: "Prüft Drittpersonaleinsatz zwischen Werk-/Dienstvertrag, selbständigem Einsatz und Arbeitnehmerüberlassung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Drittpersonaleinsatz zwischen Werk-/Dienstvertrag, selbständigem Einsatz und Arbeitnehmerüberlassung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Arbeitnehmerüberlassung Abgrenzung

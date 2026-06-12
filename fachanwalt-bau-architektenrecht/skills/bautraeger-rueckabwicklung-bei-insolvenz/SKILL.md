@@ -14,7 +14,7 @@ description: "Bautraeger-Rueckabwicklung bei Insolvenz: Skill klaert das Verfahr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster.
+**Fokus:** Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Prüfraster.
 
 ### Bautraeger Rueckabwicklung Bei Insolvenz
 
@@ -42,7 +42,7 @@ description: "Bautraeger-Rueckabwicklung bei Insolvenz: Skill klaert das Verfahr
 - Buergschaft greift typischerweise schnell.
 - Wenn keine Buergschaft: lange Insolvenzdauer.
 
-## Pruefraster
+## Prüfraster
 
 1. Buergschaft vorhanden?
 2. Forderung angemeldet?

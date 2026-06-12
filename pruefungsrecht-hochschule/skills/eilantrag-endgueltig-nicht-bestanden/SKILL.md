@@ -1,6 +1,6 @@
 ---
 name: eilantrag-endgueltig-nicht-bestanden
-description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Pruefungsrecht Hochschule."
+description: "Prüft Eilrechtsschutz bei endgültigem Nichtbestehen im Prüfungsrecht Hochschule."
 ---
 
 # Eilantrag Endgueltig Nicht Bestanden

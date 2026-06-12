@@ -41,7 +41,7 @@ Das Waermedaemm-Verbundsystem ist DAS Mauerwerk der Fassade: Fehler im Kleberauf
 - MBO Musterbauordnung § 28 Abs. 3 und LBO der Länder: Brandschutznachweise Fassade, Brandsperren, Baustoffe Aussenwaende
 - DIN 18516-1:2021-01 Bekleidungen der Aussenwaende: Luftschicht, Befestigung, Winddruck-Nachweis vorgehaengte Fassaden
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Kleberflaechenanteil-Kontrolle: Abzug Daemmplatte nach 1 h Haertezeit, Restkleber auf Untergrund und Platte, Verteilung bewerten, Foto je 100 qm
 2. Duebel-Anzahl und Lage: Stichprobe 10 qm je Geschoss, Anzahl zaehlen, Sitz-Tiefe mit Schiebelehere messen, Protokoll

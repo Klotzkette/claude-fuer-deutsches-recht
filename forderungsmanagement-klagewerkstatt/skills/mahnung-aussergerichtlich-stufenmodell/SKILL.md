@@ -62,7 +62,7 @@ In allen anderen Faellen: **Mahnung erforderlich**.
 | Gerichtsvollzieher § 132 BGB | hoechster | ca. 30 EUR |
 | E-Mail mit Empfangsbestaetigung | mittel | minimal |
 
-Bei B2B: § 132 BGB Zugang an Geschaeftsraeumen, Briefkasten ueblich.
+Bei B2B: § 132 BGB Zugang an Geschäftsraeumen, Briefkasten ueblich.
 
 ## Mahnkosten und Pauschalen
 
@@ -72,7 +72,7 @@ Bei B2B: § 132 BGB Zugang an Geschaeftsraeumen, Briefkasten ueblich.
 | Folgemahnungen (konkrete Aufwendungen) | ja | § 280 Abs. 1, 2, § 286 BGB |
 | Pauschale 2,50 EUR pro Mahnung | praktisch akzeptiert | LG Berlin 32 O 188/95 |
 | Pauschale 40 EUR (B2B) | ja, einmal pro Forderung | § 288 Abs. 5 BGB |
-| Inkassokosten | nur in Höhe 1,3 RVG-Geschaeftsgebuehr | § 4 RDGEG |
+| Inkassokosten | nur in Höhe 1,3 RVG-Geschäftsgebuehr | § 4 RDGEG |
 
 ## B2B-Besonderheit § 286 Abs. 3 BGB
 

@@ -21,14 +21,14 @@ Wenn über das Vermögen des Schuldners ein Insolvenzverfahren eroeffnet ist, ge
 
 [insolvenzbekanntmachungen.de](https://www.insolvenzbekanntmachungen.de) – kostenlose amtliche Insolvenzbekanntmachung, durchsuchbar nach Namen, Sitz, Aktenzeichen.
 
-Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 Wochen), Pruefungstermin festgelegt.
+Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 Wochen), Prüfungstermin festgelegt.
 
 ## Schritt 2: Forderungsanmeldung § 174 InsO
 
 **Inhalt** (§ 174 Abs. 2 InsO):
 | Pflichtangabe | Inhalt |
 |---|---|
-| Glaeubigeranschrift | mit Bankverbindung |
+| Gläubigeranschrift | mit Bankverbindung |
 | Forderungsgrund | Vertrag, Datum, Vertragstyp |
 | Forderungsbetrag | Hauptforderung in EUR |
 | Zinsen | bis Insolvenzeroeffnung |
@@ -37,7 +37,7 @@ Bei Eroeffnungsbeschluss: Verwalter benannt, Anmeldefrist gesetzt (typisch 6-8 W
 | Bei Vorzugsrecht | Anmeldung mit Hinweis Sicherungsrecht (§ 174 Abs. 3) |
 
 **Frist:** Anmeldefrist im Eroeffnungsbeschluss. Verspaetete Anmeldung möglich (§ 177 InsO), aber **erhebliche Nachteile**:
-- Später Pruefungstermin → Kosten § 187 InsO.
+- Später Prüfungstermin → Kosten § 187 InsO.
 - Schlussverteilung schon ausgekehrt → kein Anteil mehr.
 
 ## Anmeldungs-Formular Muster
@@ -105,7 +105,7 @@ Anspruch auf Herausgabe gehoert nicht zur Masse. Voraussetzung: **dingliches Rec
 | Sicherungseigentum, Sicherungsabtretung | § 51 Nr. 1 InsO |
 | Forderungspfaendung vor Eroeffnung | § 50 InsO i.V.m. § 804 ZPO |
 
-Folge: Verwalter verwertet, Glaeubiger bekommt Erloes (abzgl. Verwertungskostenpauschale § 170, § 171 InsO: 4 % + 5 %).
+Folge: Verwalter verwertet, Gläubiger bekommt Erloes (abzgl. Verwertungskostenpauschale § 170, § 171 InsO: 4 % + 5 %).
 
 ## Forderung gegen Verbraucher (Verbraucherinsolvenz)
 
@@ -123,14 +123,14 @@ Forderung wird Insolvenzforderung. Nach Restschuldbefreiung erlischt der Anspruc
 | Konstellation | Klage zulässig? |
 |---|---|
 | Vor Eroeffnung anhaengige Klage | unterbrochen § 240 ZPO, Aufnahme durch Verwalter |
-| Nach Anmeldung Forderung im Pruefungstermin bestritten | Klage auf Feststellung § 180 InsO |
+| Nach Anmeldung Forderung im Prüfungstermin bestritten | Klage auf Feststellung § 180 InsO |
 | Klage gegen Insolvenzverwalter persoenlich | nur Schadensersatz § 60 InsO |
 | Klage gegen Schuldner persoenlich nach Aufhebung | wieder zulässig |
 | Gegen Gesellschafter (parallel) | bleibt zulässig (siehe Skill GmbH-Gesellschafter) |
 
 ## Bestrittene Forderung – Feststellungsklage § 180 InsO
 
-Wenn Verwalter / anderer Glaeubiger im Pruefungstermin die Forderung bestreitet:
+Wenn Verwalter / anderer Gläubiger im Prüfungstermin die Forderung bestreitet:
 - Klage gegen den Bestreitenden auf Feststellung zur Tabelle.
 - Zuständigkeit: ordentliches Gericht (idR AG/LG am Insolvenzgericht).
 - Streitwert: bei zu erwartender Quote (haeufig nur Bruchteil der Forderung).

@@ -15,7 +15,7 @@ description: "Grenzgaengerregelung DBA Frankreich mit Schwerpunkt Elsass-Lothrin
 
 ## Kernsachverhalt
 
-Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsprotokoll und in der Verwaltungsvereinbarung vom 16.02.2006 geregelt und unterscheidet sich von OECD-Standard. Sie erfasst Arbeitnehmer mit Wohnsitz in der Grenzzone einer Vertragsseite (in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt) und Taetigkeitsort in der Grenzzone der anderen Vertragsseite, die arbeitstaeglich zurueckkehren. Folge ist die ausschliessliche Besteuerung im Wohnsitzstaat. Schaedlichkeit greift bei Ueberschreitung der zulaessigen Nicht-Rueckkehrtage (in der Literatur regelmaessig mit 45 Tagen pro Jahr referenziert — **Schwelle, Zaehlweise und Sonderregeln strikt aus Verwaltungsvereinbarung 16.02.2006 und einschlaegigem BMF-Schreiben uebernehmen, nicht aus diesem Skill**).
+Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Änderungsprotokoll und in der Verwaltungsvereinbarung vom 16.02.2006 geregelt und unterscheidet sich von OECD-Standard. Sie erfasst Arbeitnehmer mit Wohnsitz in der Grenzzone einer Vertragsseite (in der Praxis als 20-km-Zone bzw. nach Gemeindeverzeichnis bestimmt) und Taetigkeitsort in der Grenzzone der anderen Vertragsseite, die arbeitstaeglich zurueckkehren. Folge ist die ausschliessliche Besteuerung im Wohnsitzstaat. Schaedlichkeit greift bei Ueberschreitung der zulaessigen Nicht-Rueckkehrtage (in der Literatur regelmaessig mit 45 Tagen pro Jahr referenziert — **Schwelle, Zaehlweise und Sonderregeln strikt aus Verwaltungsvereinbarung 16.02.2006 und einschlaegigem BMF-Schreiben uebernehmen, nicht aus diesem Skill**).
 
 ## Kaltstart-Rueckfragen
 
@@ -32,7 +32,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ### Primaernormen
 - **DBA Deutschland-Frankreich vom 21.07.1959** (BGBl. 1961 II S. 397/398), Art. 13 Abs. 5 und ergaenzendes Protokoll.
-- **Aenderungsprotokoll vom 31.03.2015** (BGBl. 2015 II S. 1332/1335) — Anpassungen an Grenzgaengerregelung.
+- **Änderungsprotokoll vom 31.03.2015** (BGBl. 2015 II S. 1332/1335) — Anpassungen an Grenzgaengerregelung.
 - **Verwaltungsvereinbarung Grenzgaenger** Deutschland-Frankreich vom 16.02.2006.
 - **§ 1 EStG, § 49 EStG** (unbeschraenkte/beschraenkte Steuerpflicht).
 - **Konsultationsvereinbarung Home-Office** (Pandemie 2020/2021 und Folgevereinbarungen) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
@@ -120,12 +120,12 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei strittigen 45-Tage-Verhaeltnissen, bei Home-Office-Mischfaellen, bei Vermietung in der franzoesischen Grenzzone. Strassburger oder Saarbruecker Anwaelte/Steuerberater mit grenzueberschreitender Praxis.
+- **Empfehlung**: bei strittigen 45-Tage-Verhältnissen, bei Home-Office-Mischfaellen, bei Vermietung in der franzoesischen Grenzzone. Strassburger oder Saarbruecker Anwaelte/Steuerberater mit grenzueberschreitender Praxis.
 
 ### Sprachen-Falle
 
 - Verwaltungsvereinbarung Grenzgaenger 16.02.2006 zweisprachig DE/FR — bei Auslegungsstreit franzoesischen Originaltext heranziehen.
-- Bescheid des franzoesischen FA auf Franzoesisch; bei Bedarf vereidigte Uebersetzung für deutsches FA.
+- Bescheid des franzoesischen FA auf Franzoesisch; bei Bedarf vereidigte Übersetzung für deutsches FA.
 
 ### Online-Portale
 
@@ -139,14 +139,14 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 | Grenzgaengerstatus halten (Wohnsitz/Arbeit in 20-km-Zone, max. 45 Nicht-Rueckkehrtage) | Wohnsitzstaat-Besteuerung (DE) — meist guenstiger als FR-progressive Tarife | Status verlieren (z.B. durch Umzug, Tagungen): Art. 15 OECD-MA, regulaer | bei stabiler Konstellation Status halten |
 | Wohnsitz Kehl/Strassburg vs. Karlsruhe/Mannheim | Grenzgaengerstatus möglich (in Zone) | Karlsruhe/Mannheim NICHT in 20-km-Zone — Grenzgaenger ausgeschlossen | bei Job-Wahl Wohnsitzentscheidung mitdenken |
 | Home-Office-Tage in Grenzzone vs. ausserhalb | in Grenzzone Wohnsitz nicht schaedlich (regelmaessig zaehlend als Heimkehrtag) | ausserhalb der Grenzzone schaedlich | Wohnsitz mit Home-Office-Eignung waehlen |
-| Selbstaendiger Grenzgaenger vs. Arbeitnehmer | Grenzgaengerregelung Art. 13 Abs. 5 erfasst nur Arbeitnehmer; Selbstaendige nach Art. 12/14 DBA | bei Selbststaendigkeit andere Prüfung | Statuswechsel bewusst planen |
+| Selbständiger Grenzgaenger vs. Arbeitnehmer | Grenzgaengerregelung Art. 13 Abs. 5 erfasst nur Arbeitnehmer; Selbständige nach Art. 12/14 DBA | bei Selbststaendigkeit andere Prüfung | Statuswechsel bewusst planen |
 
 ## Edge Cases — was Prüfer triggert
 
 - **Wohnsitz Karlsruhe + Arbeit Strassburg**: klassischer "Beinahe-Grenzgaenger" — scheitert wegen Karlsruhe nicht in 20-km-Zone. Mandant glaubt oft, Grenzgaengerstatus zu haben.
 - **Dienstreisen nach Paris** (10 Tage), **Tagungen in Lyon** (5 Tage), **Schulung in Bordeaux** (3 Tage): jede Uebernachtung auswaerts zaehlt schaedlich — bei mehrtaegigen Reisen schnell über 45 Tage.
 - **Krankheits- und Urlaubstage**: NICHT schaedlich nach Verwaltungsvereinbarung — sauber abgrenzen (Krankenscheine, Urlaubsantraege).
-- **Drittstaat-Aufenthalte**: Geschaeftsreisen nach Schweiz/USA/UK zaehlen schaedlich, weil keine Rueckkehr zum deutschen Wohnsitz.
+- **Drittstaat-Aufenthalte**: Geschäftsreisen nach Schweiz/USA/UK zaehlen schaedlich, weil keine Rueckkehr zum deutschen Wohnsitz.
 - **Vorruhestand/Altersteilzeit**: Grenzgaengerstatus haengt an Arbeitsverhaeltnis — bei Aussetzung Status weg.
 - **Doppelhaushalt**: Mandant mit Familienwohnsitz Saarbruecken und Zweitwohnung Strassburg für Arbeit — Tie-Breaker Art. 4 entscheidet über Wohnsitzstaat; Grenzgaengerstatus nur bei einheitlichem Wohnsitz in Grenzzone.
 - **Lohnsteuer-Korrektur**: deutsches FA muss bei vorgelegter Grenzgaengerbescheinigung von der Lohnsteuer (bei FR-Arbeitgeber) entlasten, bzw. franzoesischer Arbeitgeber das Verfahren der "non-prelevement a la source" beachten — Aktualitaet prüfen.

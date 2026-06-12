@@ -44,7 +44,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ### Ansaessigkeit (Art. 4)
 - OECD-Tie-Breaker.
-- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer): Nach israelischem Steuerrecht geniessen Neueinwanderer nach Meldung bei der israelischen Steuerbehoerde für einen begrenzten Zeitraum eine weitgehende Steuerbefreiung auslaendischer Einkuenfte (in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht im Einzelfall prüfen). DBA-Berechtigung und Subject-to-Tax nach § 50d Abs. 9 EStG prüfen.
+- **Aliyah-Steuerstatus** (Olim Chadashim, Neueinwanderer): Nach israelischem Steuerrecht geniessen Neueinwanderer nach Meldung bei der israelischen Steuerbehoerde für einen begrenzten Zeitraum eine weitgehende Steuerbefreiung ausländischer Einkuenfte (in der Literatur regelmaessig mit 10 Jahren beschrieben; aktuelle Dauer und Anwendungsumfang nach israelischem Steuerrecht im Einzelfall prüfen). DBA-Berechtigung und Subject-to-Tax nach § 50d Abs. 9 EStG prüfen.
 
 ### Betriebsstaette (Art. 5)
 - Bauausfuehrung **12 Monate**.
@@ -63,7 +63,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ### Besonderheiten
 - **Software-Lizenzen**: nach OECD-MA-Kommentar Lizenzeinkuenfte; Israel hat IT-Schwerpunkt; Abgrenzung Software-Lizenz vs. Software-Standardware (Art. 7 vs. Art. 12) sorgfaeltig fuehren.
-- **Aliyah-Status (Olim Chadashim)**: Steuerbefreiung auslaendischer Einkuenfte für Neueinwanderer (Dauer und konkrete Beguenstigungstatbestaende nach aktuellem israelischem Steuerrecht prüfen; in der Literatur mit 10 Jahren referenziert). Folgen für DBA-Anwendung: DBA-Berechtigung (Ansaessigkeit i.S. Art. 4) und deutsches FA prüft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
+- **Aliyah-Status (Olim Chadashim)**: Steuerbefreiung ausländischer Einkuenfte für Neueinwanderer (Dauer und konkrete Beguenstigungstatbestaende nach aktuellem israelischem Steuerrecht prüfen; in der Literatur mit 10 Jahren referenziert). Folgen für DBA-Anwendung: DBA-Berechtigung (Ansaessigkeit i.S. Art. 4) und deutsches FA prüft § 50d Abs. 9 EStG Subject-to-Tax-Rueckfall bei Nichtbesteuerung in Israel.
 - **Pensionen** Art. 17: gesetzliche Renten Wohnsitzstaat; Beamtenpensionen Kassenstaat.
 - **Diplomaten und religioese Bedienstete**: Sonderregelungen.
 
@@ -89,7 +89,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ## Strategie und Praxis-Tipps
 
-- Aliyah-Status (Olim Chadashim): Israel besteuert in der Beguenstigungs-Periode auslaendische Einkuenfte regelmaessig nicht (Dauer nach aktuellem israelischen Steuerrecht prüfen; in der Literatur mit 10 Jahren referenziert); deutsches FA prüft § 50d Abs. 9 EStG-Rueckfallklausel.
+- Aliyah-Status (Olim Chadashim): Israel besteuert in der Beguenstigungs-Periode ausländische Einkuenfte regelmaessig nicht (Dauer nach aktuellem israelischen Steuerrecht prüfen; in der Literatur mit 10 Jahren referenziert); deutsches FA prüft § 50d Abs. 9 EStG-Rueckfallklausel.
 - Software-Lizenz an israelische Empfaenger: 0 Prozent DBA-Quellensteuer — BZSt-Freistellungsbescheinigung beantragen.
 - Pensionen Wohnsitz Israel: deutsche DRV bleibt steuerlich anbindbar — prüfen.
 - Bei Startups Israel: Beteiligungs- und Veraeusserungsgewinne aufschlussreich behandeln.
@@ -105,8 +105,8 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 ## Edge Cases und Was-Prüfer-Triggert
 
-- **§ 50a EStG Kuenstler/Sportler Israel-Verhaeltnis**: bei israelischen Kuenstlern/Sportlern in DE (z.B. Klezmer-Musiker, Tanzgruppen) Quellensteuerabzug § 50a EStG; ermaessigt nach Art. 17 DBA — 15 Prozent für Kuenstler/Sportler-Einkuenfte. Bei Hightech-Vortraegen / Konferenzen sorgfaeltige Abgrenzung von selbstaendiger Arbeit Art. 14.
-- **Aliyah-Status (Olim Chadashim)**: Israelische Sonderregelung — auslaendische Einkuenfte für 10 Jahre nach Aliyah steuerbefreit (Stand 05/2026 vom Anwender zu verifizieren). Subject-to-Tax § 50d Abs. 9 EStG: bei Nicht-Besteuerung in IL faellt DE-Besteuerung zurueck — typisches Prüfer-Triggert.
+- **§ 50a EStG Kuenstler/Sportler Israel-Verhältnis**: bei israelischen Kuenstlern/Sportlern in DE (z.B. Klezmer-Musiker, Tanzgruppen) Quellensteuerabzug § 50a EStG; ermaessigt nach Art. 17 DBA — 15 Prozent für Kuenstler/Sportler-Einkuenfte. Bei Hightech-Vortraegen / Konferenzen sorgfaeltige Abgrenzung von selbständiger Arbeit Art. 14.
+- **Aliyah-Status (Olim Chadashim)**: Israelische Sonderregelung — ausländische Einkuenfte für 10 Jahre nach Aliyah steuerbefreit (Stand 05/2026 vom Anwender zu verifizieren). Subject-to-Tax § 50d Abs. 9 EStG: bei Nicht-Besteuerung in IL faellt DE-Besteuerung zurueck — typisches Prüfer-Triggert.
 - **Software-Lizenz vs. Standardware**: BMF differenziert Software-Lizenz (Art. 12 DBA, 0 Prozent IL-QSt) und Standardware-Lieferung (Art. 7 DBA, Unternehmensgewinne). Bei Cloud-/SaaS-Modellen Prüfung der Vertragsstruktur — oft Mischformen.
 - **Hightech-Sondersteuerregime "Preferred Enterprise"**: israelische KSt-Sonderregelung für Hightech-Unternehmen mit Vorzugssatz (8 oder 12 Prozent — vom Anwender mit aktuellem IL-Steuerrecht zu verifizieren). AStG-Niedrigsteuer-Schwelle 15 Prozent — CFC prüfen bei deutschen Anteilseignern.
 - **Startups Israel**: viele israelische Startups werden von US-Investoren gehalten; bei DE-Anteilseignern Hybridstrukturen prüfen.
@@ -116,7 +116,7 @@ Das DBA-Israel vom 21.08.2014 (BGBl. 2015 II S. 1301/1302, in Kraft 09.05.2016, 
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Aliyah-Wegzug DE → IL mit Beteiligungen | Aliyah-Status nutzen: 10 Jahre auslaendische Einkuenfte steuerfrei in IL | DE-Steueransaessigkeit beibehalten | bei Aliyah Wegzugsbesteuerung § 6 AStG zu prüfen (IL Drittland); Aliyah-Status macht ohne § 50d Abs. 9 EStG-Rueckfall Sinn |
+| Aliyah-Wegzug DE → IL mit Beteiligungen | Aliyah-Status nutzen: 10 Jahre ausländische Einkuenfte steuerfrei in IL | DE-Steueransaessigkeit beibehalten | bei Aliyah Wegzugsbesteuerung § 6 AStG zu prüfen (IL Drittland); Aliyah-Status macht ohne § 50d Abs. 9 EStG-Rueckfall Sinn |
 | Software-Lizenzgeschaeft mit IL-Hightech | DBA Art. 12: 0 Prozent IL-QSt — direkt | Standardware-Lieferung Art. 7: Unternehmensgewinne, BS-Prüfung | Vertragsstruktur entscheidet — bei Lizenz klare Vorteile, aber Substanzanforderungen |
 | Beteiligung an israelischem Startup | direkt: DBA-Schachtel 5 Prozent ab 10 Prozent | via US- oder NL-Holding: andere Treaty-Anwendung | bei US-Startups oft US-Holding bereits etabliert; DE-Investor zukauft an US-Ebene |
 

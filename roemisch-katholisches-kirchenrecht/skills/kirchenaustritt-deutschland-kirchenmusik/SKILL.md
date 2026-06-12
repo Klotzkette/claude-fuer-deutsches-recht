@@ -75,7 +75,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Wiedereintritt
 - can. 1064 CIC i.V.m. den DBK-Vorschriften: pastoraler Vorbereitungsweg, Glaubensbekenntnis vor Pfarrer, eventuell Lossprechung von latae sententiae-Strafen.
 
-### Pruefraster
+### Prüfraster
 1. Datum des Austritts? — landesrechtliche Wirkung prüfen.
 2. Pastorale Konsequenzen (Begraebnis, Sakramente, Pateamt)? — Dekret 2012 und Diozesanrecht.
 3. Arbeitsrechtliche Konsequenzen? — Grundordnung 2022.

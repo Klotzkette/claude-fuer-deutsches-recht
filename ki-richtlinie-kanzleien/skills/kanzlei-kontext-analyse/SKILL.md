@@ -57,7 +57,7 @@ Die Kontextanalyse sollte bei wesentlichen Änderungen der Kanzleistruktur (Fusi
 - § 43e BRAO — IT-Dienstleister-Regelung
 - § 45 BRAO — Interessenkonflikt-Verbot
 - Art. 28 DSGVO — AVV-Pflicht für alle Kanzleigroessen
-- § 26 BDSG — Beschaeftigtendatenschutz (bei Mitarbeiter-KI)
+- § 26 BDSG — Beschäftigtendatenschutz (bei Mitarbeiter-KI)
 
 ## Triage zu Beginn
 1. Wie groß ist die Kanzlei — Einzelanwalt, Boutique (2-10 RA), Mittelgross (11-50), Groß (50+)?

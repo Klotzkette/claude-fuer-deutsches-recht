@@ -56,7 +56,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 1. **Anwendungsbereich**: bestimmte Zeitperiode (z.B. waehrend Pandemie-Anordnungen).
 2. **Fiktion**: Home-Office-Tage werden so behandelt, als waere der Arbeitnehmer am gewoehnlichen Arbeitsort tätig gewesen.
 3. **Folge**: Grenzgaengerstatus erhalten; Aufteilung Lohnsteuer unveraendert; 183-Tage-Prüfung unveraendert.
-4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Aenderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — **34 Arbeitstage** Bagatellgrenze für Home-Office in Deutschland; zuvor 19 Tage).
+4. **Schwellenregelung**: ggf. Begrenzung auf X Tage pro Jahr (Beispiel Luxemburg: ab Änderungsprotokoll 06.07.2023, BGBl. 2023 II Nr. 334, in Kraft 29.12.2023, anwendbar ab 01.01.2024 — **34 Arbeitstage** Bagatellgrenze für Home-Office in Deutschland; zuvor 19 Tage).
 
 ## Workflow
 
@@ -83,7 +83,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 ## Strategie und Praxis-Tipps
 
 - Konsultationsvereinbarungen sind nicht alle als Dauerregelungen bestehen geblieben — Stichtag für Anwendbarkeit beachten.
-- Luxemburg ist Sonderfall: durch das Aenderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334, in Kraft 29.12.2023) wurde eine strukturelle Anpassung der Home-Office-Toleranzschwelle verankert — massgebend ist das BMF-Konsultationsvereinbarungsschreiben in aktueller Fassung.
+- Luxemburg ist Sonderfall: durch das Änderungsprotokoll vom 06.07.2023 (BGBl. 2023 II Nr. 334, in Kraft 29.12.2023) wurde eine strukturelle Anpassung der Home-Office-Toleranzschwelle verankert — massgebend ist das BMF-Konsultationsvereinbarungsschreiben in aktueller Fassung.
 - Bei Schwellen-Ueberschreitung erfolgt regelmaessig Aufteilung der Lohnsteuer auf den Wohnsitz- und Taetigkeitsstaat — Doppelbesteuerungs-Risiko.
 - Bei strittiger Anwendung: Verstaendigungsverfahren Art. 25 MA.
 - Bei Mandanten mit hohem Home-Office-Anteil: planerische Beratung — Schwellen einhalten oder bewusst Statuswechsel.
@@ -104,7 +104,7 @@ Waehrend der Corona-Pandemie 2020/2021 schloss Deutschland mit zahlreichen Nachb
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Home-Office-Tage einhalten (Bagatellgrenze) vs. Statuswechsel | Tage zaehlen, Grenze einhalten | Grenze ueberschreiten und Aufteilung Lohnsteuer | bei Grenzgaengererhalt Pfad A — kuenstlich planen; bei hohem Home-Office-Anteil Pfad B |
-| Grenzgaenger-Status verteidigen vs. aufgeben | Grenzgaenger: Wohnsitzstaat besteuert voll | Verlust: Aufteilung Lohnsteuer Tagesproporz | bei niedrigerer Steuer Wohnsitzstaat Pfad A; bei aequivalenten Steuern egal |
+| Grenzgaenger-Status verteidigen vs. aufgeben | Grenzgaenger: Wohnsitzstaat besteuert voll | Verlust: Aufteilung Lohnsteuer Tagesproporz | bei niedrigerer Steuer Wohnsitzstaat Pfad A; bei äquivalenten Steuern egal |
 | Konsultationsvereinbarung anwenden vs. DBA-Grundregel | Vereinbarung: Home-Office-Tage zaehlen wie Arbeitsstaette | DBA: 183-Tage-Regel mit Aufenthaltspruefung | bei wirksamer Vereinbarung Pfad A — sonst Pfad B |
 | Arbeitgeber-Sitz BS auslagern vs. nicht | Home-Office als BS akzeptieren (Verfuegungsmacht aufbauen) | Home-Office bleibt BS-frei | regelmaessig Pfad B — Arbeitgeber bleibt ohne BS |
 | MAP bei Doppelbesteuerung vs. Anrechnung | bilateral klären | unilaterale Anrechnung | bei klarer DBA-Regel Anrechnung; bei strittiger Aufteilung MAP |
@@ -136,7 +136,7 @@ Sachverhalt: Grenzgaenger Wohnsitz DE, Arbeitsort Luxemburg, 200 Arbeitstage/Jah
 
 (**Werte sind Beispiel — DBA-LU 2012 in der Fassung des Aend.-Prot. 06.07.2023, BGBl. 2023 II Nr. 334, anwendbar ab 01.01.2024 konkret nachpruefen.**)
 
-## Pruefcheckliste Home-Office-DBA
+## Prüfcheckliste Home-Office-DBA
 
 | Schritt | Aktion | Status |
 |---|---|---|

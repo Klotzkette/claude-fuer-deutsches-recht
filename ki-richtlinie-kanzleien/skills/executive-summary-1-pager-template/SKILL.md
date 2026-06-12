@@ -43,7 +43,7 @@ description: "Ein-Seiten-Executive-Summary für KI-Nutzungsrichtlinien einer Kan
 2. Mustertext unten uebernehmen und Platzhalter in eckigen Klammern fuellen.
 3. Auf eine Seite kuerzen; pro Block max. 4 Stichpunkte.
 4. Logo und Datum einsetzen.
-5. Vom KI-Beauftragten und der Geschaeftsfuehrung gegenzeichnen lassen.
+5. Vom KI-Beauftragten und der Geschäftsführung gegenzeichnen lassen.
 6. Termin für naechste Revision in Kanzlei-Kalender setzen.
 
 ## Mustertext / Vorlage

@@ -1,11 +1,11 @@
 ---
 name: bmwe-energie-und-netzregulierung-enwg
-description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Länder-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typ..."
+description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschäftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Länder-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typ..."
 ---
 
 # Energierecht und Netzregulierung (EnWG) (BMWE)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Energierecht und Netzregulierung (EnWG) im Geschäftsbereich BMWE. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsb
 
 Kernbestand des Sachfelds: EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Investitionsanreize; Kostenwaelzung; Lastfluss-Engpaesse; Klagen vor OLG.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

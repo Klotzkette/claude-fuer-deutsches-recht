@@ -48,7 +48,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Arbeitsfokus
 
-Prueft Tatsachenbasis, Zitatfreigabe, Persoenlichkeitsrechte und Wahlkampfstrategie.
+Prüft Tatsachenbasis, Zitatfreigabe, Persoenlichkeitsrechte und Wahlkampfstrategie.
 
 ## Rechts- und Praxislogik
 

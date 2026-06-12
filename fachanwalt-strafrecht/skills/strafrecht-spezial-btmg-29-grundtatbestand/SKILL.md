@@ -18,7 +18,7 @@ description: "BtMG-Grundtatbestand § 29 Abs: 1 BtMG: Anbau, Herstellung, Handel
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster für Verteidigung und Strafzumessung.
+**Fokus:** BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Prüfraster für Verteidigung und Strafzumessung.
 
 ### § 29 BtMG Grundtatbestand: Anbau, Erwerb, Besitz, Handeltreiben
 
@@ -67,7 +67,7 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
 | Schweigen + Akteneinsicht | Wahrung Verteidigungsoptionen | Untersuchungshaft-Risiko bei nicht geringer Menge |
-| Eigenbedarfs-Einlassung | Eroeffnet § 31a, § 153a Weg | Festlegung; spaetere Aenderung gefaehrdet Glaubwuerdigkeit |
+| Eigenbedarfs-Einlassung | Eroeffnet § 31a, § 153a Weg | Festlegung; spaetere Änderung gefaehrdet Glaubwuerdigkeit |
 | § 31 BtMG Aufklaerungshilfe | Erhebliche Strafmilderung | Belastung Dritter, Bandengefahr, ggf. Zeugenschutz |
 | § 35 BtMG Therapie statt Strafe | Zurueckstellung der Vollstreckung | Voraussetzung Abhaengigkeit, Therapieplatz, max. zwei Jahre Reststrafe |
 

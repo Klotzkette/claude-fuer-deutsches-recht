@@ -16,7 +16,7 @@ description: "Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verd
 ## Triage zu Beginn
 1. Welche Simulationsszenarien sollen durchgespielt werden: Onboarding, Alert, Sanktionshit, Verdachtsmeldung oder Behördenanfrage?
 2. Soll mit simulierten oder geschwärzten echten Daten gearbeitet werden?
-3. Welche Rollen sind beteiligt: Frontoffice, Compliance, Revision oder Geschaeftsfuehrung?
+3. Welche Rollen sind beteiligt: Frontoffice, Compliance, Revision oder Geschäftsführung?
 4. Gibt es einen konkreten Schulungszweck oder einen Aufsichts-Testlauf?
 
 ## Aktuelle Rechtsprechung und Behördenpraxis

@@ -3,7 +3,7 @@ name: lohn-vermoegenswirksame-leistungen
 description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
 ---
 
-# Vermoegenswirksame Leistungen (VL) und AN-Sparzulage
+# Vermögenswirksame Leistungen (VL) und AN-Sparzulage
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendun
 
 ## Kernsachverhalt
 
-Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN auf ein VL-faehiges Sparkonto einzahlt. Höhe und Vertragsgestaltung sind tariflich oder einzelvertraglich vereinbart. Bei Einkommens-Schwellenwerten kommt die AN-Sparzulage als staatliche Förderung hinzu (5. VermBG). Die VL sind lohnsteuerpflichtig und SV-pflichtig — keine steuerliche Förderung der AG-Leistung selbst.
+Vermögenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN auf ein VL-faehiges Sparkonto einzahlt. Höhe und Vertragsgestaltung sind tariflich oder einzelvertraglich vereinbart. Bei Einkommens-Schwellenwerten kommt die AN-Sparzulage als staatliche Förderung hinzu (5. VermBG). Die VL sind lohnsteuerpflichtig und SV-pflichtig — keine steuerliche Förderung der AG-Leistung selbst.
 
 ## Kaltstart-Rueckfragen
 
@@ -30,7 +30,7 @@ Vermoegenswirksame Leistungen (VL) sind Sparleistungen, die der AG für den AN a
 
 ### Primaernormen
 
-**5. VermBG** — 5. Vermoegensbildungsgesetz.
+**5. VermBG** — 5. Vermögensbildungsgesetz.
 
 **§ 13 5. VermBG** — AN-Sparzulage (Anspruchsgrundlage; Saetze und Einkommensgrenzen in §§ 13, 14 5. VermBG; bei Gesetzesaenderung Norm-Bestand prüfen).
 
@@ -101,4 +101,4 @@ Stand: 05/2026.
 - BMF zur Sparzulage.
 - Sparzulage-Saetze 2025: Bausparen 9% (max. 43 EUR/Jahr, Grenze 17.900 EUR ledig), Aktien-Fonds 20% (max. 80 EUR/Jahr, Grenze 20.000 EUR ledig); 5. VermBG; BZSt prüfen.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (VermBG-Saetze 2025 eingesetzt), 1 ersetzt (Normbestand Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (VermBG-Saetze 2025 eingesetzt), 1 ersetzt (Normbestand Prüfhinweis ohne Marker) -->

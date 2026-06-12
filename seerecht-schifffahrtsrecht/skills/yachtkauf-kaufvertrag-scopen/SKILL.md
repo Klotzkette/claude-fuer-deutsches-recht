@@ -24,7 +24,7 @@ Ein Investor kauft ein Segel- oder Motorjacht; Risiken aus Altlasten und Zertifi
 1. Kaufvertrag sichten: Kaufpreis, Zahlungsplan, Lieferbedingungen für Segel- oder Motorjacht.
 2. Lastenuebergang prüfen: werden alle Hypotheken vor Eigentumsuebergang geloescht?
 3. SchRG § 2 Eigentumsuebergang: erst Einigung und Eintragung; Zeitplan prüfen.
-4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Uebergabe oder Neuausstellung?
+4. Zertifikatsstatus klären: Klasse; ISM; MLC; ISPS; Übergabe oder Neuausstellung?
 5. Gewaehrleistungsklauseln: BGB §§ 433-479 oder as-is-Ausschluss?
 6. Escrow-Mechanismus für simultane Zahlung und Eigentumsuebergang aufsetzen.
 

@@ -1,6 +1,6 @@
 ---
 name: fraudulent-transfers-548
-description: "Prueft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code."
+description: "Prüft actual and constructive fraudulent transfers, two-year lookback, value, insolvency and insider transactions im US Bankruptcy Code."
 ---
 
 # Fraudulent Transfers § 548

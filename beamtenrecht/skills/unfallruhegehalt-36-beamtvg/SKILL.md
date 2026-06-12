@@ -1,6 +1,6 @@
 ---
 name: unfallruhegehalt-36-beamtvg
-description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhaeltnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandel..."
+description: "Skill zum Unfallruhegehalt nach § 36 BeamtVG bei Dienstbeschaedigung. Klaert Anspruchsvoraussetzung qualifizierter Dienstunfall Bemessungsgrundlage und erhoehter Ruhegehaltssatz Verhältnis zum regulaeren Ruhegehalt sowie Sonderfaelle wie Einsatzunfaelle der Bundeswehr und Bundespolizei. Behandel..."
 ---
 
 # Unfallruhegehalt nach § 36 BeamtVG
@@ -35,7 +35,7 @@ Skill für Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhesta
 - Unfallruhegehalt mindestens 66 v. H. der ruhegehaltfaehigen Dienstbezuege; Sonderbestimmungen für qualifizierte Dienstunfaelle.
 - Erhoehte Versorgung für Einsatzunfaelle bei Auslandsverwendung und im polizeilichen Einsatz.
 
-### c) Verhaeltnis zum regulaeren Ruhegehalt
+### c) Verhältnis zum regulaeren Ruhegehalt
 - Hoehere Versorgung als die normale Berechnung; Versorgungsabschlag bei vorzeitigem Ruhestand entfaellt.
 
 ### d) Einmalige Unfallentschaedigung (§ 43 BeamtVG)
@@ -46,13 +46,13 @@ Skill für Beamte, die infolge eines Dienstunfalls dienstunfaehig in den Ruhesta
 
 ## 4. Quellenpflicht
 
-- Normen: §§ 30, 31, 36, 43 BeamtVG; Auslandsverwendungsgesetz; landesrechtliche Aequivalente.
+- Normen: §§ 30, 31, 36, 43 BeamtVG; Auslandsverwendungsgesetz; landesrechtliche Äquivalente.
 - Rspr.: BVerwG zum Unfallruhegehalt — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
-- Pruefraster Anspruchsvoraussetzungen.
+- Prüfraster Anspruchsvoraussetzungen.
 - Antrag auf Festsetzung des Unfallruhegehalts.
 
 ## 6. Verifizierte Quellenanker

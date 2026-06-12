@@ -52,7 +52,7 @@ Skill für Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehme
 ## 5. Ausgabeformat
 
 - Antrag auf Beihilfe mit Rechnungen und aerztlicher Begruendung.
-- Pruefraster Beihilfefaehigkeit im Ausland.
+- Prüfraster Beihilfefaehigkeit im Ausland.
 
 ## 6. Verifizierte Quellenanker
 

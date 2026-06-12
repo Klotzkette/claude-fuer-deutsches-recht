@@ -31,7 +31,7 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 
 - Marke garantiert konstante Qualitaet; ohne Qualitaetskontrolle Lizenz nichtig (Tachenbuch) oder Marke verfaellt.
 - Klausel: Lizenzgeber hat **Mitspracherecht** bei Produktqualitaet, Verpackung, Werbung, Vertriebskanaelen.
-- Pruefintervall: jaehrlich; Pruefberichts-Aufnahme.
+- Prüfintervall: jaehrlich; Prüfberichts-Aufnahme.
 
 ## Benutzungspflicht $ 26 MarkenG
 
@@ -49,7 +49,7 @@ Anders als Patent/Urheberrecht ist die **Qualitaetskontrolle** bei Markenlizenz 
 > "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Recht ein, die in **Anlage A** aufgefuehrte(n) Marke(n) ("Lizenzmarken") für die in **Anlage B** definierten Waren und Dienstleistungen im Sinne der Nizzaer Klassifikation in [Territorium] zu nutzen."
 
 **2. Qualitaetskontrolle:**
-> "Der Lizenznehmer verpflichtet sich, die Lizenzmarken nur in einer Qualitaet zu nutzen, die der vom Lizenzgeber vorgegebenen Markenfuehrungsrichtlinie ("Brand Guideline") entspricht. Der Lizenzgeber hat ein Pruefrecht hinsichtlich Produktqualitaet, Verpackung und Werbeauftritt."
+> "Der Lizenznehmer verpflichtet sich, die Lizenzmarken nur in einer Qualitaet zu nutzen, die der vom Lizenzgeber vorgegebenen Markenfuehrungsrichtlinie ("Brand Guideline") entspricht. Der Lizenzgeber hat ein Prüfrecht hinsichtlich Produktqualitaet, Verpackung und Werbeauftritt."
 
 **3. Benutzungspflicht:**
 > "Der Lizenznehmer wird die Lizenzmarken bestimmungsgemaess und in markenrechtlich erforderlicher Weise nutzen. Bei dauerhafter Nichtbenutzung von mehr als drei zusammenhaengenden Jahren ist der Lizenzgeber zur ausserordentlichen Kuendigung berechtigt."

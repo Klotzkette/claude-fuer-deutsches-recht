@@ -81,7 +81,7 @@ Sie können mehrere Zeugen benennen. Jeder mit klarem Beweisthema.
 - Vorsitzender Richter fragt den Zeugen zur Person.
 - Belehrt über Wahrheitspflicht.
 - Stellt Fragen zum Beweisthema.
-- Sie können erlaeutern, was Sie noch wissen wollen.
+- Sie können erläutern, was Sie noch wissen wollen.
 - Behörde kann fragen.
 - Protokoll wird angefertigt.
 

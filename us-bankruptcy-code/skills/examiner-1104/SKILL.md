@@ -1,6 +1,6 @@
 ---
 name: examiner-1104
-description: "Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code."
+description: "Prüft appointment of examiner, investigation scope, trustee alternative and litigation leverage im US Bankruptcy Code."
 ---
 
 # Examiner § 1104

@@ -135,47 +135,47 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Dieses Plugin deckt die insolvenzrechtlichen Grundfragen ab, die in der taeaglichen Beratungspraxis vor und waehrend eines Insolvenzverfahrens entstehen. Im Mittelpunkt stehen die Eroeffnungsgruende (Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung), die Insolvenzantragspflicht des Geschaeftsleiters nach § 15a InsO, das Zahlungsverbot nach § 15b InsO, Anfechtungsrechte des Insolvenzverwalters, Forderungsanmeldung durch Glaeubiger, D-and-O-Haftungsfragen und die Koordination von Konzerninsolvenzen.
+Dieses Plugin deckt die insolvenzrechtlichen Grundfragen ab, die in der taeaglichen Beratungspraxis vor und waehrend eines Insolvenzverfahrens entstehen. Im Mittelpunkt stehen die Eroeffnungsgruende (Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung), die Insolvenzantragspflicht des Geschäftsleiters nach § 15a InsO, das Zahlungsverbot nach § 15b InsO, Anfechtungsrechte des Insolvenzverwalters, Forderungsanmeldung durch Gläubiger, D-and-O-Haftungsfragen und die Koordination von Konzerninsolvenzen.
 
-Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsberater und Unternehmensberater. Es ist ein strukturiertes Pruefwerkzeug für insolvenzrechtliche Triage-Situationen. Für vertiefte Planwerkstatt-Arbeit (Insolvenzplan, StaRUG) steht das Plugin `insolvenzplan-starug-planwerkstatt` zur Verfuegung.
+Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsberater und Unternehmensberater. Es ist ein strukturiertes Prüfwerkzeug für insolvenzrechtliche Triage-Situationen. Für vertiefte Planwerkstatt-Arbeit (Insolvenzplan, StaRUG) steht das Plugin `insolvenzplan-starug-planwerkstatt` zur Verfuegung.
 
 ## Wann brauchen Sie diese Skill?
 
-- Geschaeftsfuehrer fragt, ob er einen Insolvenzantrag stellen muss und bis wann die Dreiwochenfrist laeuft.
-- Glaeubiger moechte wissen, ob er einen Insolvenzantrag stellen kann und was dabei zu beachten ist.
+- Geschäftsführer fragt, ob er einen Insolvenzantrag stellen muss und bis wann die Dreiwochenfrist laeuft.
+- Gläubiger moechte wissen, ob er einen Insolvenzantrag stellen kann und was dabei zu beachten ist.
 - Arbeitnehmer eines insolventen Unternehmens fragt nach Insolvenzgeld.
 - Insolvenzverwalter prüft Anfechtungsansprueche gegen Zahlungen vor Verfahrenseroffnung.
-- Mandant ist Mitglied des Glaeubigerausschusses und fragt nach Rechten, Pflichten und Haftung.
+- Mandant ist Mitglied des Gläubigerausschusses und fragt nach Rechten, Pflichten und Haftung.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Zahlungsunfaehigkeit** — Schuldner kann faellige Zahlungspflichten nicht mehr erfuellen; § 17 InsO; BGH-Schema: zehn Prozent Liquiditaetslucke für mindestens drei Wochen.
 - **Drohende Zahlungsunfaehigkeit** — Schuldner wird voraussichtlich faellige Zahlungspflichten nicht erfuellen können; § 18 InsO; Grundlage für freiwilligen Antrag und StaRUG.
 - **Ueberschuldung** — Vermögen des Schuldners deckt bestehende Verbindlichkeiten nicht, sofern keine positive Fortbestehensprognose (§ 19 InsO).
-- **Antragspflicht** — Geschaeftsfuehrer und Vorstand müssen bei Zahlungsunfaehigkeit oder Ueberschuldung ohne schuldhaftes Zoegern, spaetestens drei Wochen nach Eintreten, Antrag stellen (§ 15a InsO).
+- **Antragspflicht** — Geschäftsführer und Vorstand müssen bei Zahlungsunfaehigkeit oder Ueberschuldung ohne schuldhaftes Zoegern, spaetestens drei Wochen nach Eintreten, Antrag stellen (§ 15a InsO).
 - **Zahlungsverbot** — Nach Insolvenzreife sind Zahlungen nur noch zulasaig, die mit der Sorgfalt eines ordentlichen Kaufmanns vereinbar sind (§ 15b InsO).
 - **Insolvenzverschleppung** — Verspaetete Antragstellung; Haftung gegenueber Neuglaeubigeern und Altglaeubigern aus § 823 Abs. 2 BGB iVm § 15a InsO.
 - **Bargeschaeft** — Leistungsaustausch mit sofortiger Gegenleistung; schuetzt vor Insolvenzanfechtung nach § 142 InsO.
-- **Glaeubigerausschuss** — Kontrollorgan des Insolvenzverfahrens nach §§ 67 ff. InsO; prüft und beaufsichtigt den Insolvenzverwalter.
+- **Gläubigerausschuss** — Kontrollorgan des Insolvenzverfahrens nach §§ 67 ff. InsO; prüft und beaufsichtigt den Insolvenzverwalter.
 
 ## Rechtsgrundlagen
 
 - § 17 InsO — Zahlungsunfaehigkeit als Eroeffnungsgrund.
 - § 18 InsO — Drohende Zahlungsunfaehigkeit.
 - § 19 InsO — Ueberschuldung; zweistufige Prüfung.
-- § 14 InsO — Glaeubigerantrag.
-- § 15a InsO — Antragspflicht des Geschaeftsleiters; Dreiwochenfrist.
+- § 14 InsO — Gläubigerantrag.
+- § 15a InsO — Antragspflicht des Geschäftsleiters; Dreiwochenfrist.
 - § 15b InsO — Zahlungsverbot nach Insolvenzreife.
-- §§ 67 ff. InsO — Glaeubigerausschuss.
+- §§ 67 ff. InsO — Gläubigerausschuss.
 - §§ 129 ff. InsO — Insolvenzanfechtung (Grundtatbestand, Deckungsanfechtung, Vorsatzanfechtung).
 - § 142 InsO — Bargeschaeftsprivileg.
 - §§ 165 ff. SGB III — Insolvenzgeld für Arbeitnehmer.
-- §§ 174 bis 179 InsO — Forderungsanmeldung, Pruefungstermin, Tabelle.
+- §§ 174 bis 179 InsO — Forderungsanmeldung, Prüfungstermin, Tabelle.
 - §§ 269a bis 269i InsO — Konzerninsolvenz.
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
-1. Mandantenrolle klären: Geschaeftsfuehrer, Glaeubiger, Arbeitnehmer, Ausschussmitglied?
+1. Mandantenrolle klären: Geschäftsführer, Gläubiger, Arbeitnehmer, Ausschussmitglied?
 2. Triage-Interview durchfuehren: Skill `mandat-triage-insolvenzrecht`.
 3. Sofort-Fristen sichern: Dreiwochenfrist § 15a InsO oder Anmeldefrist § 165 SGB III?
 4. Eroeffnungsgruende prüfen: `zahlungsunfaehigkeit-pruefung-17-inso` und/oder `ueberschuldung-pruefung-19-inso`.
@@ -199,11 +199,11 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 - `antragspflicht-15a-inso` — Antragspflicht nach § 15a InsO; Dreiwochenfrist; Zahlungsverbot § 15b InsO; Insolvenzverschleppungshaftung.
 - `do-versicherung-manager-haftung` — D-and-O-Versicherungsdeckung bei Insolvenzhaftung; Claims-made-Prinzip; Ausschluesse.
 
-**Glaeubigerantrag und Glaeubigerrechte**
+**Gläubigerantrag und Gläubigerrechte**
 
-- `glaeubigerantrag-pruefung` — Zulaessigkeit und Begruendetheit des Glaeubigerantrags nach § 14 InsO.
-- `glaeubigerausschuss-mitwirkung` — Rechte, Pflichten und Haftung des Glaeubigerausschussmitglieds.
-- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung, Fristen, Form, Rang, Pruefungstermin.
+- `glaeubigerantrag-pruefung` — Zulaessigkeit und Begruendetheit des Gläubigerantrags nach § 14 InsO.
+- `glaeubigerausschuss-mitwirkung` — Rechte, Pflichten und Haftung des Gläubigerausschussmitglieds.
+- `forderungsanmeldung-glaeubiger-174-177-inso` — Forderungsanmeldung, Fristen, Form, Rang, Prüfungstermin.
 
 **Anfechtung**
 
@@ -212,7 +212,7 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 
 **Sanierung und Sondersituationen**
 
-- `uebertragende-sanierung-und-asset-deals` — Unternehmensverkauf aus der Insolvenz; Asset-Deal, Glaeubigerausschuss-Zustimmung.
+- `uebertragende-sanierung-und-asset-deals` — Unternehmensverkauf aus der Insolvenz; Asset-Deal, Gläubigerausschuss-Zustimmung.
 - `konzerninsolvenz-koordination` — Koordination mehrerer Konzerngesellschaften nach §§ 269a bis 269i InsO.
 
 **Arbeitnehmer**
@@ -221,16 +221,16 @@ Das Plugin richtet sich an Anwaelte, Insolvenzverwalter, Sachwalter, Sanierungsb
 
 ## Worauf besonders achten
 
-- **Dreiwochenfrist laeuft ab Eintritt des Eroeffnungsgrundes** — Nicht ab Kenntnis des Geschaeftsfuehrers; bei unklarem Eintrittszeitpunkt ist das Risiko groß.
+- **Dreiwochenfrist laeuft ab Eintritt des Eroeffnungsgrundes** — Nicht ab Kenntnis des Geschäftsführers; bei unklarem Eintrittszeitpunkt ist das Risiko groß.
 - **Zahlungsverbot schon vor Antragstellung** — § 15b InsO greift mit Eintritt der Insolvenzreife, nicht erst mit Eroffnung; Einzelzahlungen müssen ab diesem Zeitpunkt geprueft werden.
-- **Glaeubigerantrag: Glaubhaftmachung reicht nicht immer** — § 14 InsO verlangt Nachweis der Forderung und des Eroeffnungsgrundes; bloss drohende ZU genuegt dem Glaeubiger nicht.
+- **Gläubigerantrag: Glaubhaftmachung reicht nicht immer** — § 14 InsO verlangt Nachweis der Forderung und des Eroeffnungsgrundes; bloss drohende ZU genuegt dem Gläubiger nicht.
 - **Anfechtungsreform 2017 beachten** — § 133 InsO wurde durch das AnfRefG 2017 grundlegend geaendert; Fristen und Indizien unterscheiden sich für Sachverhalte vor und nach dem 5. April 2017.
 - **Insolvenzgeld: Zweimonatsfrist ab Insolvenz-Ereignis** — Arbeitnehmer verlieren den Anspruch, wenn Antrag zu spaet gestellt wird.
 
 ## Typische Fehler
 
-- Geschaeftsfuehrer errechnet Dreiwochenfrist ab dem Tag, an dem er Kenntnis erlangt, statt ab Eintritt der Insolvenzreife.
-- Glaeubiger stellt Antrag nach § 14 InsO ohne vollstreckbaren Titel und laeuft in Zulaessigkeitsproblem.
+- Geschäftsführer errechnet Dreiwochenfrist ab dem Tag, an dem er Kenntnis erlangt, statt ab Eintritt der Insolvenzreife.
+- Gläubiger stellt Antrag nach § 14 InsO ohne vollstreckbaren Titel und laeuft in Zulaessigkeitsproblem.
 - Forderungsanmeldung versaeumt, weil Anmeldefrist nicht im Blick war; nachtraegliche Anmeldung nach § 177 InsO noch möglich, aber mit Kostenrisiko.
 - D-and-O-Versicherung wird nicht informiert, bevor Insolvenzantrag gestellt wird; Claims-made-Risiko.
 - Koordinationsplan für Konzerninsolvenz wird nicht erwaogen, obwohl mehrere Schwestergesellschaften betroffen sind.

@@ -46,7 +46,7 @@ description: "Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den
 - Vertragsaufhebung mit Rueckabwicklung.
 - Differenzschaden (Verlust gegenueber alternativer Verwendung).
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Aufklaerung wurde gegeben?
 2. Welche Angaben fehlen?

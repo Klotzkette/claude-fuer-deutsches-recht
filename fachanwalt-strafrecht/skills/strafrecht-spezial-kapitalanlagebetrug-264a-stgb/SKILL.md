@@ -1,9 +1,9 @@
 ---
 name: strafrecht-spezial-kapitalanlagebetrug-264a-stgb
-description: "Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen: Kapitalanlagebetrug § 264a StGB: Anwendungsfa..."
+description: "Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermögensanlagen: Kapitalanlagebetrug § 264a StGB: Anwendungsfa..."
 ---
 
-# Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen
+# Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermögensanlagen
 
 
 ## Arbeitsweg
@@ -14,33 +14,33 @@ description: "Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds.
+**Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermögensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Prüfraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse für Crowdfunding, Token Offerings, geschlossene Fonds.
 
 ### Kapitalanlagebetrug § 264a StGB
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlossene Fonds, Schiffs- und Filmfonds, Crowdfunding-Plattformen, Token Offerings (ICO, STO), Genussrechte, Anleihen, nachrangige Darlehen, Mittelstandsanleihen. Strafrahmen Freiheitsstrafe bis drei Jahre oder Geldstrafe. Abstraktes Gefaehrdungsdelikt — Vermoegensschaden nicht erforderlich.
+Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlossene Fonds, Schiffs- und Filmfonds, Crowdfunding-Plattformen, Token Offerings (ICO, STO), Genussrechte, Anleihen, nachrangige Darlehen, Mittelstandsanleihen. Strafrahmen Freiheitsstrafe bis drei Jahre oder Geldstrafe. Abstraktes Gefaehrdungsdelikt — Vermögensschaden nicht erforderlich.
 
 ## Eingaben
 
-- Verkaufsprospekt, VIB (Vermoegensanlagen-Informationsblatt), Werbematerial.
+- Verkaufsprospekt, VIB (Vermögensanlagen-Informationsblatt), Werbematerial.
 - Liste der Anleger, Anlagesummen, Vertriebsschiene.
 - Buchhaltung Emittent, Mittelverwendung, Liquiditaetslage.
-- Rolle Mandant: Geschaeftsfuehrer Emittent, Prospektverantwortlicher, Vertrieb, Plattform.
+- Rolle Mandant: Geschäftsführer Emittent, Prospektverantwortlicher, Vertrieb, Plattform.
 - Parallele BaFin-Verfahren, Insolvenzanmeldung Emittent.
 
 ## Tatbestand und Auslegung
 
 ### Tatbestand § 264a Abs. 1 StGB
 
-- **In Prospekten oder in Darstellungen oder Uebersichten über den Vermoegensstand** im Zusammenhang mit dem Vertrieb von Wertpapieren, Bezugsrechten oder von Anteilen, die eine Beteiligung an dem Ergebnis eines Unternehmens gewaehren sollen, oder mit dem Angebot, die Einlage auf solche Anteile zu erhoehen.
+- **In Prospekten oder in Darstellungen oder Uebersichten über den Vermögensstand** im Zusammenhang mit dem Vertrieb von Wertpapieren, Bezugsrechten oder von Anteilen, die eine Beteiligung an dem Ergebnis eines Unternehmens gewaehren sollen, oder mit dem Angebot, die Einlage auf solche Anteile zu erhoehen.
 - **Unrichtige vorteilhafte Angaben** machen oder **nachteilige Tatsachen verschweigen**.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Prospekt.** Wertpapierprospektgesetz, VermAnlG, EU-Prospektverordnung (VO (EU) 2017/1129). Auch nicht prospektpflichtige Crowdfunding-Plattformen erfassbar (BGH zur Auslegung weit; Az. vor Verwendung verifizieren).
-- **Vermoegensanlagen** nach § 1 Abs. 2 VermAnlG (z. B. partiarische Darlehen, Genussrechte, Namensschuldverschreibungen).
+- **Vermögensanlagen** nach § 1 Abs. 2 VermAnlG (z. B. partiarische Darlehen, Genussrechte, Namensschuldverschreibungen).
 - **Wesentliche Angaben.** Solche, die für Anlageentscheidung erheblich sind. Hier Streit, wo Grenze.
 
 ### Subjektiver Tatbestand
@@ -57,7 +57,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 - **Prospekt-Begriff angreifen.** War das Vertriebsdokument tatsaechlich Prospekt im Sinne § 264a StGB? Bei reinen Marketingunterlagen ohne Prospekteigenschaft kann Tatbestand entfallen.
 - **Wesentlichkeit der Angabe.** Nicht jede falsche Angabe ist tatbestandsmaessig. War sie für durchschnittlichen Anleger entscheidungserheblich?
-- **Vorsatz.** Bei komplexen Finanzprodukten oft fehlend, wenn Geschaeftsfuehrer auf Wirtschaftspruefer und Rechtsanwaelte vertraut. § 17 StGB Verbotsirrtum prüfen.
+- **Vorsatz.** Bei komplexen Finanzprodukten oft fehlend, wenn Geschäftsführer auf Wirtschaftspruefer und Rechtsanwaelte vertraut. § 17 StGB Verbotsirrtum prüfen.
 - **Mittelabfluss.** Bei nicht erfolgter Kapitaleinwerbung greift Abs. 3 (taetige Reue).
 - **Zivilrechtliche Prospekthaftung** parallel — Verteidigungsstrategie abstimmen, da Schadenersatz im Strafverfahren als Adhaesion möglich.
 - **BaFin-Verfahren** können mit Strafverfahren kollidieren; Verwertung von Verwaltungsaussagen prüfen (Selbstbelastungsverbot).
@@ -66,7 +66,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Vorsatz bestreiten Berater-Vertrauen | Tatbestand entfaellt | Pruefkette WP / RA nachweisen |
+| Vorsatz bestreiten Berater-Vertrauen | Tatbestand entfaellt | Prüfkette WP / RA nachweisen |
 | Prospekt-Eigenschaft verneinen | Tatbestand entfaellt | Dogmatische Grenzen, BGH-Linie weit |
 | § 264a Abs. 3 StGB taetige Reue | Strafausschluss | Setzt voraus, dass Anleger Mittel zurueckerhalten |
 | Verstaendigung § 257c StPO mit Bewaehrung | Planbar | Bindungswirkung |
@@ -74,7 +74,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 ## Konkurrenzen
 
-- **§ 264a StGB / § 263 StGB.** Bei vollendetem Vermoegensschaden Idealkonkurrenz, da Abs. 1 abstraktes, § 263 konkretes Gefaehrdungsdelikt.
+- **§ 264a StGB / § 263 StGB.** Bei vollendetem Vermögensschaden Idealkonkurrenz, da Abs. 1 abstraktes, § 263 konkretes Gefaehrdungsdelikt.
 - **§ 264a StGB / § 32 KWG (unerlaubte Bankgeschaefte).** Bei nicht zugelassenen Anlagen.
 - **§ 264a StGB / § 119 WpHG Insiderhandel.** Bei boersengelisteten Produkten.
 - **§ 264a StGB / § 261 StGB Geldwaesche.** Nach Reform 2021.
@@ -85,7 +85,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe (Vergehen).
 - **§ 46 StGB** Schadens- und Anlegerzahl, Höhe eingeworbenes Kapital, Tatdauer, Mehrfachhandlungen.
 - **Einziehung § 73 StGB** Tatertrag (eingeworbene Mittel) — bei Kapitalanlagebetrug oft hoch.
-- **Berufsverbot § 70 StGB** insbes. bei Vermoegensanlagenvertrieb, Geschaeftsfuehrer Emittent.
+- **Berufsverbot § 70 StGB** insbes. bei Vermögensanlagenvertrieb, Geschäftsführer Emittent.
 - **§ 35 GewO** Gewerbeuntersagung wegen Unzuverlaessigkeit.
 - **BaFin-Aufsichtsmassnahmen** parallel: Erlaubnisentzug, Vertriebsverbot.
 

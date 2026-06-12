@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-wahltarife-und-sonderkuendigung
-description: "Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Pruefraster."
+description: "Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Prüfraster."
 ---
 
 # Krankenkassen Wahltarife Und Sonderkuendigung
@@ -38,7 +38,7 @@ description: "Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert 
 - 3 Jahre Mindestbindung bei vielen Wahltarifen.
 - Vorzeitige Kuendigung idR ausgeschlossen.
 
-## Pruefraster
+## Prüfraster
 
 1. Wechsel oder Sonderkuendigung?
 2. Bindungsfrist abgelaufen?

@@ -1,6 +1,6 @@
 ---
 name: sklaverei-aufhebung-und-edikte-1807-1857
-description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefe"
+description: "Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhältnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefe"
 ---
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857
@@ -27,7 +27,7 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 
 ## Oktoberedikt 09.10.1807
 
-- "Edikt den erleichterten Besitz und den freien Gebrauch des Grundeigenthums sowie die persönlichen Verhaeltnisse der Land-Bewohner betreffend" — bekannt als **Stein-Hardenbergsches Oktoberedikt**.
+- "Edikt den erleichterten Besitz und den freien Gebrauch des Grundeigenthums sowie die persönlichen Verhältnisse der Land-Bewohner betreffend" — bekannt als **Stein-Hardenbergsches Oktoberedikt**.
 - Inhalt: Aufhebung der Erbuntertaenigkeit der Bauern in Preussen mit Wirkung **St. Martini 1810**.
 - Wirkung: Bauern werden persoenlich frei; Berufswahl und Eheschliessung frei; Mobilitaet hergestellt.
 - Inhaltlich: Frondienste und Reallasten bleiben zunaechst, werden in Folge-Edikten abgeloest.
@@ -57,7 +57,7 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 - §§ 232-233a StGB Menschenhandel und Sklaverei.
 - UN-Slavery Convention 1926, ergaenzendes Uebereinkommen 1956.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Norm welcher Epoche?
 2. Sklaverei oder Erbuntertaenigkeit (begriffliche Trennung!)?

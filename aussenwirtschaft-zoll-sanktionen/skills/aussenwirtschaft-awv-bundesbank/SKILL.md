@@ -36,7 +36,7 @@ description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bu
 - **§ 24 AWV**: Aufbewahrungspflichten für Meldungsbelege.
 - **EU-Kapitalverkehrsfreiheit (Art. 63-66 AEUV)**: Rahmenbedingungen für Kapitalverkehr.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Transaktion >= 12.500 EUR und meldepflichtig?
 - [ ] Richtiges Z-Formular ausgewaehlt?
@@ -47,7 +47,7 @@ description: "Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bu
 
 ## Typische Fallstricke
 
-- Meldepflicht gilt auch bei Zahlungen über auslaendische Banken (wenn Inlaender zahlender Teil).
+- Meldepflicht gilt auch bei Zahlungen über ausländische Banken (wenn Inlaender zahlender Teil).
 - Formular-Auswahl abhaengig von Transaktionsart; falsches Formular fuehrt zu Nachbearbeitungsauflage.
 - Direktinvestitions-Transaktionen fallen unter eigene Z4/Z5-Meldepflicht; nicht vergessen.
 - Netting und Verrechnungskonten können Meldeschwelle kuenstlich unterschreiten; Aggregationsregel beachten.
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

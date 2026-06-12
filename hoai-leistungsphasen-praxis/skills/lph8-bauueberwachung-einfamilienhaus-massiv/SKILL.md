@@ -29,7 +29,7 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 
 1. Planpruefung vor Ort: Bewehrungsplan, Mauerwerksplan, Lagefeststellung Grundstueck mit Einmessprotokoll
 2. Aufmass Baugrube und Fundamentplatte: Tiefe, Gefaelle, Bodenklasse nach Baugrundgutachten, Frosttiefe eingehalten
-3. Betonguetepruefung Fundament: Frischbetonproben, 3 Wuerfelproben je Gueteklasse C25/30 XC2, Pruefprotokoll
+3. Betonguetepruefung Fundament: Frischbetonproben, 3 Wuerfelproben je Gueteklasse C25/30 XC2, Prüfprotokoll
 4. Abdichtungskontrolle vor Verfuellung: Bitumenschweissbahn zweilagig, Kehlanschluss Bodenplatte korrekt ausgefuehrt
 5. Mauerwerksqualitaetskontrolle: Lagerfugenstarka max. 12 mm, Stossfugen vermoertelt, Stuerze, Mauermoetel MG II
 6. Elektrische Rohinstallation vor Verputz: Dosenpositionen, Leitungsdurchmesser, Blitzschutz, Fotodokumentation
@@ -43,7 +43,7 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 - DIN 18533 Abdichtung von erdberuehrten Bauteilen bei Gebaeuden nach Wassereinwirkungsklassen
 - GEG 2023 Gebaeude-Energie-Gesetz: Anforderungen Neubau, Nachweispflichten, KfW-Förderung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Fundamentbewehrung vor Betonage: Betondeckung min. 4 cm (XC2), Mattenstahlstoss, Einbauteile Kanalanschluesse
 2. Betonguete: Lieferscheinpruefung je Fahrmischer, Guete, Konsistenz, Zementgehalt, Transportzeit max. 90 Minuten
@@ -57,7 +57,7 @@ KfW-Foerderbedingungen erfordern Nachweis der energetischen Qualitaet durch akkr
 - Fotodokumentation verdeckter Bauteile (Bewehrung, Abdichtung, Leitungstrassen) mit PlanRadar GPS und Zeitstempel
 - 360-Grad-Aufnahmen mit Ricoh Theta Z1 in jedem Geschoss vor Verputz: Nachweissicherung bei Gewaehrleistungsstreit
 - Lieferscheine Beton (Gueteklasse, w/z-Wert), Mauerstein (CE-Zeichen), Daemmstoff (Waermeleistungserklaerung)
-- Blower-Door-Pruefprotokoll nach DIN EN ISO 9972: n50-Wert, Leckageortung mit Thermokamera Flir E8 Pro
+- Blower-Door-Prüfprotokoll nach DIN EN ISO 9972: n50-Wert, Leckageortung mit Thermokamera Flir E8 Pro
 - Estrich-Trocknungsprotokoll: CM-Messung, Grenzwert je Estrichart, Messwerte und Datum dokumentieren
 
 ## Meldungserstellung im ERP / SAP

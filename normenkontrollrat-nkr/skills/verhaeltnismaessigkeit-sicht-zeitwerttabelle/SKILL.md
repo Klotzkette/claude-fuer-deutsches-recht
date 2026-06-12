@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
-description: "Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. M"
+description: "Verhältnismäßigkeit aus NKR-Sicht: keine grundrechtliche Prüfung sondern Kosten-Nutzen- und Eingriffstiefe-Prüfung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Prüfung liegt. M"
 ---
 
 # NKR-Verhältnismäßigkeit aus NKR-Sicht
@@ -22,24 +22,24 @@ Verhältnismäßigkeit im verfassungsrechtlichen Sinne prüft das BMJ und ggf. d
 - Vorhaben ist erforderlich, Ausgestaltung wirkt jedoch ueberzogen
 - Eingriffstiefe wirkt unverhaeltnismaessig
 - KMU besonders belastet
-- Vollzugsaufwand sehr hoch im Verhaeltnis zum erwarteten Nutzen
+- Vollzugsaufwand sehr hoch im Verhältnis zum erwarteten Nutzen
 
 Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — Eingriffstiefe, Frequenz, Sanktionshoehe oder Adressatenkreis?"*
 
 ## Rechtlicher und methodischer Rahmen
 
 - **Art. 20 Abs. 3 GG, Rechtsstaatsprinzip** — verfassungsrechtliche Verhältnismäßigkeit (BMJ / BVerfG)
-- **§ 44 GGO** — Gesetzesfolgenabschaetzung (auch Verhaeltnismaessigkeitsdimension)
+- **§ 44 GGO** — Gesetzesfolgenabschaetzung (auch Verhältnismäßigkeitsdimension)
 - **NKRG** § 4 — methodische Prüfung
-- **Leitfaden BMI / NKR** — Verhaeltnismaessigkeitsmodul (Eingriffstiefe vs. Aufwand)
+- **Leitfaden BMI / NKR** — Verhältnismäßigkeitsmodul (Eingriffstiefe vs. Aufwand)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### Drei klassische Stufen, NKR-Variante
 
 1. **Geeignetheit**: Erreicht die Regelung das Ziel ueberhaupt? (Wirksamkeitsannahme)
 2. **Erforderlichkeit**: Gibt es ein milderes Mittel mit gleicher Wirksamkeit? (Alternativen)
-3. **Angemessenheit**: Steht der Erfuellungsaufwand in einem angemessenen Verhaeltnis zum Nutzen?
+3. **Angemessenheit**: Steht der Erfuellungsaufwand in einem angemessenen Verhältnis zum Nutzen?
 
 ### NKR-spezifische Konkretisierungen
 
@@ -54,7 +54,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 - Pflicht trifft alle Adressaten gleich, obwohl KMU nicht relevant
 - Frequenz hoch ohne sachlichen Grund
-- Sanktion hoch ohne Verhaeltnismaessigkeitspruefung
+- Sanktion hoch ohne Verhältnismäßigkeitspruefung
 - Schwellenwerte fehlen
 - Keine Differenzierung nach Risiko / Groesse / Branche
 - Aufwand uebersteigt Nutzen (illustrativ)
@@ -73,7 +73,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 ## Mustertexte / Stellungnahme-Bausteine
 
 - "Der NKR haelt das Vorhaben dem Grunde nach für geeignet, das adressierte Problem zu loesen."
-- "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismäßigen Verhaeltnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
+- "Der NKR weist darauf hin, dass die vorgesehene Frequenz von [monatlich / quartalsweise] in einem unverhaeltnismäßigen Verhältnis zum erwarteten Nutzen steht. Eine jaehrliche [Verpflichtung] erscheint angemessen."
 - "Der NKR empfiehlt, einen Schwellenwert zur Entlastung von Kleinstunternehmen einzufuehren."
 - "Aus Sicht des NKR ist die Eingriffstiefe der Regelung angemessen; die methodische Bewertung der Verhältnismäßigkeit im verfassungsrechtlichen Sinne obliegt der zuständigen Ressortpruefung."
 - "Der NKR sieht die Sanktion in Höhe von [X EUR] in einem Spannungsverhaeltnis zur Verhältnismäßigkeit der Pflicht; er empfiehlt eine abgestufte Sanktionsregelung."

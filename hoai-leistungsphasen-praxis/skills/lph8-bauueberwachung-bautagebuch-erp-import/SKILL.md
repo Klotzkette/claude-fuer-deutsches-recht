@@ -41,7 +41,7 @@ Das Bautagebuch ist das wichtigste Dokument der Bauueberwachung: Es beweist Witt
 - eIDAS-Verordnung EU 910/2014: Elektronische Signatur, Qualifizierte Signatur für Rechtssicherheit digitales Bautagebuch
 - AHO Heft 9 Leistungen Projektmanagement: Bautagebuch als Informations- und Dokumentationspflicht PM
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Vollstaendigkeit Pflichtfelder: Datum, Wetter Temperatur Min/Max und Niederschlag, Personalstärke, Maschineneinsatz, Bautaetigkeit, Besonderheiten, Unterschrift
 2. Wetter-Daten-Abgleich: DWD-API Import mit Bautagebuch-Eintrag verglichen, Abweichung groeßer 3 Grad Celsius oder 10 mm Regen begruendet

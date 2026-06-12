@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-gewerbehalle-stahlbau
-description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mi..."
+description: "Bauueberwachung nach HOAI LPH 8 für Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Überprüfung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mi..."
 ---
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)
@@ -32,7 +32,7 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 3. Korrosionsschutzpruefung: Trockenschichtdickenmessung (Dualscope MP40), Haftzugpruefung Korrosionsschutzanstrich
 4. Kranbahnmontage: Parallelitaet der Schienen max. +/-3 mm/5 m nach DIN 15018, Wechsel-Schweissprotokoll
 5. Dacheindeckung Trapezblech: Dachneigung Gefaelle, Laengsnaht-Ueberlappung, Schraubenabstand nach Statik
-6. Brandschutz: Intumeszenz-Anstrich oder Brandschutzputz an tragenden Bauteilen, Schichtdicken-Pruefprotokoll
+6. Brandschutz: Intumeszenz-Anstrich oder Brandschutzputz an tragenden Bauteilen, Schichtdicken-Prüfprotokoll
 
 ## Normen und Rechtsrahmen
 
@@ -43,7 +43,7 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 - DIN EN ISO 12944 Korrosionsschutz: Beschichtungssysteme, Umgebungsklassen C2 bis C5
 - DIN 15018 Krane: Grundsaetze für Stahltragwerke, Berechnung und Ausfuehrung
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Schweissnahtguete: VT aller sichtbaren Naehte, UT an 10 Prozent der Stumpfnaehte als Stichprobe
 2. Schraubenverbindungen HR: Anzugsmoment-Protokoll je Verbindungsgruppe, Markierung geplruefter Schrauben
@@ -56,7 +56,7 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 
 - Dalux Field Stahlbau: Schweissnahtrisse als Foto mit GPS und Bauteilnummer, Verantwortlicher, Frist
 - Drohnenflug DJI Mavic 3 Enterprise: Dachflaecheninspektion Trapezblech, Lichtbaender, Kehlrinnen
-- Pruefberichte UT: Ultraschall-Pruefprotokoll nach DIN EN ISO 17640, Defektangaben, Prüfer-Qualifikation
+- Prüfberichte UT: Ultraschall-Prüfprotokoll nach DIN EN ISO 17640, Defektangaben, Prüfer-Qualifikation
 - Werkszeugnisse Stahl: EN 10025 Werksbescheinigung 3.1 je Stuetzen- und Traegercharge
 - Kran-Abnahmedokumentation: Belastungstest mit 125 Prozent Nennlast, Messprotokoll TUeV
 
@@ -66,11 +66,11 @@ Schweissnahtpruefung (VT, UT, MT) und Korrosionsschutz-Trockenschichtdickenmessu
 - SAP PM Plant Maintenance: Equipment Halle mit Teilanlagen Kranbahn, Toranlagen, Dachentwaesserung
 - SAP PM Meldung M2 Schadensmeldung: Korrosionsschaden, Schadenscode, Kostenstelle Instandhaltung
 - RIB iTWO: Aufmass Stahlbau nach Tonnen, Einheitspreisabrechnung, Nachtragsprotokoll Mehrmengen
-- Wartungsplan SAP PM: Pruefliste Kranbahnschienen alle 5 Jahre, Rostschutzanstrich alle 10 Jahre
+- Wartungsplan SAP PM: Prüfliste Kranbahnschienen alle 5 Jahre, Rostschutzanstrich alle 10 Jahre
 
 ## Typische Fallstricke
 
-- Schweissnahtfehler unentdeckt: VT vor Korrosionsschutzanstrich pflicht, nach Anstrich nicht mehr pruefbar
+- Schweissnahtfehler unentdeckt: VT vor Korrosionsschutzanstrich pflicht, nach Anstrich nicht mehr prüfbar
 - Korrosionsschutz zu duenn: Schichtdicke unter Mindestwert, Anstrich blattert in 2-3 Jahren
 - Kranbahn-Toleranz ueberschritten: Schienenabstand falsch, Kran lauft schief, Getriebeschaden
 - Brandschutzanforderung unterschaetzt: tragendes Bauteil ohne Feuerwiderstand F30 oder F60 je nach LBO

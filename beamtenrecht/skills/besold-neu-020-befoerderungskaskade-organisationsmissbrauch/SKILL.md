@@ -43,7 +43,7 @@ description: "Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Tea
 - BVerwG zur Missbrauchskontrolle bei Beförderungsketten.
 - Az im Mandat live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Beförderungssequenz auffaellig?
 2. Beurteilungen konsistent?

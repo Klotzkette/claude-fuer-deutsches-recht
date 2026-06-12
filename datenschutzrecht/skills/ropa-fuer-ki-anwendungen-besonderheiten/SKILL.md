@@ -44,7 +44,7 @@ Behandelt die zusaetzlichen Pflichtinhalte und Risiko-Markierungen, die das Verz
 1. **KI-Inventur:** Welche KI-Funktionen sind im Einsatz? Anbieter, Modell, Hostingort.
 2. **Datentyp-Mapping:** Sind personenbezogene Daten in Eingaben, Trainingsdaten, Embeddings, Logs oder Outputs?
 3. **Rolle prüfen:** Verantwortlicher für welche Daten? Auftragsverarbeiter? Joint Controllership mit KI-Anbieter?
-4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschaeftigten § 26 BDSG; bei Web-Scraping kritisch zu prüfen.
+4. **Rechtsgrundlage:** Art. 6 DSGVO; bei besonderen Datenkategorien Art. 9; bei Beschäftigten § 26 BDSG; bei Web-Scraping kritisch zu prüfen.
 5. **Drittlandtransfer:** Hosting in USA/UK? DPF-Listing, SCC, TIA.
 6. **Art. 22 DSGVO:** Trifft das System Entscheidungen mit rechtlicher Wirkung?
 7. **DSFA:** typischerweise Pflicht; in RoPA verlinken.

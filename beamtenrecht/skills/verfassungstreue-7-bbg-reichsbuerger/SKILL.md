@@ -53,7 +53,7 @@ Skill für Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder für 
 
 ## 5. Ausgabeformat
 
-- Pruefraster Mitgliedschaft — Aeusserung — Handlung — Bewertung.
+- Prüfraster Mitgliedschaft — Aeusserung — Handlung — Bewertung.
 - Verteidigungsbausteine im Disziplinarverfahren.
 
 ## 6. Verifizierte Quellenanker
@@ -67,4 +67,4 @@ Skill für Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder für 
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhörungsstrategie und Disziplinargewichtung.
+Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Prüfraster mit Indizienliste, Anhörungsstrategie und Disziplinargewichtung.

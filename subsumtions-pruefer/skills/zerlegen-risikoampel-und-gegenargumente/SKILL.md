@@ -1,6 +1,6 @@
 ---
 name: zerlegen-risikoampel-und-gegenargumente
-description: "Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Subsumtions Pruefer."
+description: "Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Subsumtions Prüfer."
 ---
 
 # Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien

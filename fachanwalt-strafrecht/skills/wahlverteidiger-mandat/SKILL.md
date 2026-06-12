@@ -1,6 +1,6 @@
 ---
 name: wahlverteidiger-mandat
-description: "Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klaeren: Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigte..."
+description: "Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klären: Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigte..."
 ---
 
 # Wahlverteidiger-Mandat im Strafrecht beginnen: Anwendungsfall Beschuldigter waehlt Strafverteidiger und Erstgespraeach muss Schweigerecht Akteneinsicht Honorar und Strategie klären

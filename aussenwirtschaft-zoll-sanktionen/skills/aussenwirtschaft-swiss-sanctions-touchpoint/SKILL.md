@@ -36,7 +36,7 @@ description: "Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat
 - **AWG § 1**: Territorialer Anwendungsbereich des deutschen Aussenwirtschaftsrechts.
 - **Art. 11 VO (EU) 833/2014**: Gerichtsbarkeitsregeln für konzerninterne Transaktionen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Schweizer Entitaet oder Bank in Transaktion beteiligt?
 - [ ] SECO-Liste aktuell abgerufen und abgeglichen?
@@ -66,7 +66,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

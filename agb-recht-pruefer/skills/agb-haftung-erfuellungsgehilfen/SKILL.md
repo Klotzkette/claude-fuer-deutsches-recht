@@ -33,7 +33,7 @@ description: "AGB-Haftung für Erfuellungsgehilfen. Skill klaert die AGB-rechtli
 - BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportvertraegen.
 - BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Klausel ist im Streit?
 2. Differenzierung Vorsatz / grobe Fahrlaessigkeit / einfache Fahrlaessigkeit?

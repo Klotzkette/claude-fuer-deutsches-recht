@@ -138,10 +138,10 @@ Der Hub ermoeglicht ausserdem die Erstellung kanzleieigener Playbooks aus vorhan
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Security-Review-Gate** — Strukturiertes Pruefverfahren, das vor der Freigabe eines Community-Skills Sicherheit, Normverankerung und Qualitaet bewertet.
+- **Security-Review-Gate** — Strukturiertes Prüfverfahren, das vor der Freigabe eines Community-Skills Sicherheit, Normverankerung und Qualitaet bewertet.
 - **Plugin** — Zusammenschluss mehrerer thematisch verwandter Skills zu einem Funktionspaket für ein Rechtsgebiet oder einen Workflow.
 - **Skill** — Einzelne spezialisierte Anleitung in einer SKILL.md-Datei, die einen definierten Arbeitsschritt abdeckt.
-- **Playbook** — Kanzleispezifischer Pruef- und Arbeitskatalog, der aus eigenen Musterdokumenten automatisch erstellt wird.
+- **Playbook** — Kanzleispezifischer Prüf- und Arbeitskatalog, der aus eigenen Musterdokumenten automatisch erstellt wird.
 - **Kaltstart-Interview** — Strukturiertes Erstgespraech zur Erfassung von Kanzleiprofil, Rechtsgebieten und Konfigurationsparametern.
 - **Fundstelle** — Normzitat oder Rechtsprechungsnachweis; der Hub prüft deren einheitliche Zitierweise.
 

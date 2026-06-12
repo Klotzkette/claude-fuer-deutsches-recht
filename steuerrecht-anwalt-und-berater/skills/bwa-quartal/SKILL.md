@@ -1,9 +1,9 @@
 ---
 name: bwa-quartal
-description: "Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Massnahmen-Liste."
+description: "Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Maßnahmen-Liste."
 ---
 
-# Quartalsgespraech — BWA-Uebergabe mit dem Mandanten
+# Quartalsgespraech — BWA-Übergabe mit dem Mandanten
 
 ## Fachlicher Anker
 
@@ -20,7 +20,7 @@ Das Quartalsgespraech ist Standard für mittelstaendische Mandanten: BWA-Besprec
 1. Welche Themen sind im aktuellen Quartal relevant?
 2. Welche BWA-Auffaelligkeiten?
 3. Welche Steuerthemen anstehend (Vorauszahlungen, USt-Sonderpruefung)?
-4. Welche Personalthemen (Eintritte, Austritte, Pruefungen)?
+4. Welche Personalthemen (Eintritte, Austritte, Prüfungen)?
 5. Welche Investitionsplaene des Mandanten?
 6. Welche Liquiditaet aktuell?
 7. Welche Eskalationsthemen (Krisensignale)?
@@ -77,9 +77,9 @@ Mit freundlichen Gruessen
 
 ### Phase 2 — Termin (1-2 Stunden)
 
-- Teilnehmer: Geschaeftsfuehrung, ggf. kaufmaennische Leitung; auf StB-Seite Sachbearbeiter und Berufstraeger.
+- Teilnehmer: Geschäftsführung, ggf. kaufmaennische Leitung; auf StB-Seite Sachbearbeiter und Berufstraeger.
 - Ort: bevorzugt beim Mandanten (Vor-Ort-Bezug staerkt die Beratungsbeziehung) oder StB-Buero.
-- Bei Bewirtung im StB-Buero auf ordnungsgemaessen Bewirtungsbeleg (§ 4 Abs. 5 S. 1 Nr. 2 EStG) achten — geschaeftlicher Anlass, Bewirteten, Höhe und Datum dokumentieren.
+- Bei Bewirtung im StB-Buero auf ordnungsgemaessen Bewirtungsbeleg (§ 4 Abs. 5 S. 1 Nr. 2 EStG) achten — geschäftlicher Anlass, Bewirteten, Höhe und Datum dokumentieren.
 - Agenda-Punkte abarbeiten und Zeitfenster pro Punkt einhalten.
 
 ### Phase 3 — Standard-Agenda

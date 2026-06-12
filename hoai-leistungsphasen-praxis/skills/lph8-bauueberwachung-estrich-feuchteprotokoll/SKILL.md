@@ -41,13 +41,13 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 - DIN 18560-2:2009-09 Estriche auf Daemmschichten: Schwimmende Estriche, Dicke, Bewehrung, Randdaemmstreifen
 - DIN EN 13813:2003-01 Estrichmörtel Estriche: Klassen CT CA und CA+, Druckfestigkeit C, Biegezugfestigkeit F
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Estrichdicke Stichmessung: Bohrung 10 mm Schlagbohrer, Tiefenmessung Schieblehre, Soll-Dicke nach DIN 18560-2 Tabelle 1, Mindestdicke
 2. Bewehrung Kontrolle: Stahlmatteneinlage bei Dickestrich oder Belastungsklasse nach DIN 18560-2, Lage in mittlerer Schicht, Betondeckung 10 mm
 3. Randdaemmstreifen Vollstaendigkeit: Umlaufend ohne Luecke, Höhe über Estrichoberkante mindestens 10 mm, Photo je Raum
 4. Ebenheitsmessung: 2-m-Latte nach DIN 18202 Tabelle 3, Toleranzklasse 3 kleiner 5 mm unter Latte, Messung Raster 2 m x 2 m
-5. CM-Messung Protokoll: Datum, Entnahmeort GPS oder Raum-Nr, CM-Ergebnis in Prozent, Unterschrift Pruefperson, Grenzwert eingehalten Ja/Nein
+5. CM-Messung Protokoll: Datum, Entnahmeort GPS oder Raum-Nr, CM-Ergebnis in Prozent, Unterschrift Prüfperson, Grenzwert eingehalten Ja/Nein
 6. Schallschutz-Messung: Trittschallminderung Prüfung nach DIN EN ISO 10140-3 als Stichprobe, Vergleich Anforderung DIN 4109
 
 ## Foto-, Video- und Dokumentenanalyse
@@ -63,7 +63,7 @@ Estrichschichten sind Voraussetzung für nahezu jeden Bodenbelag, und ein zu feu
 - SAP PM Meldungsart M2 Estrich-Feuchtemangel: Equipment-Nr Raum-ID z.B. ESTRICH-3OG-B204, Schadenscode E001 CM-Grenzwert ueberschritten, Maßnahme Nachtrocknung 2 Wochen
 - SAP PS Netzplan Ausbau: DAEMM-010 Daemmschicht, ESTRICH-020 Estricheinbau, TROCK-030 Trocknungsphase, CM-040 CM-Messung Freigabe, BELAG-050 Bodenbelagsverlegung
 - Nevaris Aufmass Estrich: Raumliste mit Flaeche qm je Raum, Dicke cm, Qualitaet CT oder CA, Mengenabgleich Lieferschein
-- Dalux Freigabe-Checkliste Bodenbelag: CM-Messwert Eingabe, Datum, Unterschrift Pruefperson, gruen bei Unterschreitung Grenzwert, automatische Freigabe-E-Mail
+- Dalux Freigabe-Checkliste Bodenbelag: CM-Messwert Eingabe, Datum, Unterschrift Prüfperson, gruen bei Unterschreitung Grenzwert, automatische Freigabe-E-Mail
 - Workflow: CM-Messung zu hoch, Nachtrocknung-Maßnahme (Bauwerkstrockner), Messung nach 1 Woche wiederholen, Freigabe erst bei Grenzwert
 
 ## Typische Fallstricke

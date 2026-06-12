@@ -38,7 +38,7 @@ Der Mueller-Arnold-Fall war der unmittelbare Anlass für die Justizreform unter 
 - Ironischerweise wurde Friedrich später rehabilitiert: der Karpfenteich entzog der Muehle tatsaechlich Wasser; die Richter hatten dies aber nicht im rechtlich relevanten Sinne festgestellt.
 - Heute Gegenstand von Hauptverhandlungen über Art. 97 GG (richterliche Unabhaengigkeit), Art. 101 GG (gesetzlicher Richter) und Art. 19 IV GG.
 
-### Pruefraster
+### Prüfraster
 1. Quellenarbeit: Akten in PrGS oder Akten des Geheimen Staatsarchivs Preussischer Kulturbesitz.
 2. Trennung von Historiographie und Dogmengeschichte: Fall ist primaer politisches Symbol, dogmatisch wenig ertragreich, aber als Lehrfall zur Richterunabhaengigkeit unschlagbar.
-3. Heute Bezug zu Richter-Disziplinarrecht (§ 26 DRiG) und Geschaeftsverteilung (§ 21e GVG).
+3. Heute Bezug zu Richter-Disziplinarrecht (§ 26 DRiG) und Geschäftsverteilung (§ 21e GVG).

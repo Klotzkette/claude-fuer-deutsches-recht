@@ -1,6 +1,6 @@
 ---
 name: drohne-sicherheitsauflage-bewerten
-description: "Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Drohnenvorfall oder Routineinspektion. Prueft EU-VO 2019/947 LuftVG § 21a Verhaeltnismaessigkeit der Auflage und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht."
+description: "Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Drohnenvorfall oder Routineinspektion. Prüft EU-VO 2019/947 LuftVG § 21a Verhältnismäßigkeit der Auflage und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Sicherheitsauflage bewerten

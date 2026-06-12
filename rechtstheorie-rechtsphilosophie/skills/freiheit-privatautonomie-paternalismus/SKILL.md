@@ -1,6 +1,6 @@
 ---
 name: freiheit-privatautonomie-paternalismus
-description: "Prueft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus."
+description: "Prüft freiheitliche Argumente: Privatautonomie, Eigentum, Vertragstreue, Schutzrecht, Machtgefälle und legitimer Paternalismus."
 ---
 
 # Freiheit und Paternalismus

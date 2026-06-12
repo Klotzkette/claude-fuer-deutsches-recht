@@ -1,6 +1,6 @@
 ---
 name: forderungsaufnahme
-description: "Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjährungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für..."
+description: "Forderung systematisch aufnehmen: Gläubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten § 280, § 286 BGB, Mahngebuehren), Faelligkeit § 271 BGB, Verjährungsbeginn § 199 BGB. Output: vollstaendige Forderungsbeschreibung als Basis für..."
 ---
 
 # Forderungsaufnahme
@@ -9,7 +9,7 @@ Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung. Zw
 
 ## Aufnahme-Schema
 
-### 1. Glaeubiger
+### 1. Gläubiger
 
 | Datenfeld | Erforderlich | Beleg |
 |---|---|---|
@@ -19,7 +19,7 @@ Erste systematische Erfassung einer Forderung vor jeder rechtlichen Handlung. Zw
 | Anschrift | ja | aktuelle Auskunft |
 | USt-ID / Kleinunternehmer § 19 UStG | ja | Steuerbescheid |
 | Bankverbindung | ja | Kontoinhabernachweis |
-| Verbraucher oder Unternehmer? | ja | Geschaeftszweck |
+| Verbraucher oder Unternehmer? | ja | Geschäftszweck |
 
 ### 2. Schuldner
 
@@ -67,7 +67,7 @@ Praezise Subsumtion welcher Anspruch auf welcher Norm beruht:
 | Mahnkosten | § 280, 286 BGB | Konkreter Aufwand ab 2. Mahnung |
 | Vorgerichtliche Anwaltskosten | § 280, 286 BGB | Erforderlich + verhaeltnismaessig |
 | Auskunftskosten (Meldeauskunft, HRB) | § 280, 286 BGB | Erforderlich |
-| Mahngebuehren Inkassobuero | § 4 RDGEG | begrenzt auf RA-Geschaeftsgebuehr |
+| Mahngebuehren Inkassobuero | § 4 RDGEG | begrenzt auf RA-Geschäftsgebuehr |
 
 ### 6. Faelligkeit § 271 BGB
 

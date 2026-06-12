@@ -39,9 +39,9 @@ A wird die Pferdekutsche gestohlen; gelangt zu B.
 ## Heutige Fortwirkung
 
 - §§ 854-872 BGB Besitz.
-- §§ 985-1003 BGB Eigentümer-Besitzer-Verhaeltnis.
+- §§ 985-1003 BGB Eigentümer-Besitzer-Verhältnis.
 
-## Pruefraster
+## Prüfraster
 
 1. Detentor oder Possessor?
 2. Possessorisch oder petitorisch?

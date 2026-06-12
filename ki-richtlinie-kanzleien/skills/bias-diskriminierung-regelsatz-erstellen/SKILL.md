@@ -53,7 +53,7 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 4. Wurde ein Bias-Test durchgefuehrt — und sind die Ergebnisse dokumentiert?
 5. Gibt es einen Widerspruchsmechanismus für Betroffene (Art. 22 Abs. 3 DSGVO)?
 
-## Output-Template — Bias-Pruefprotokoll
+## Output-Template — Bias-Prüfprotokoll
 **Adressat:** HR / Compliance — Tonfall: strukturiert, sachlich
 ```
 BIAS-PRUEFPROTOKOLL

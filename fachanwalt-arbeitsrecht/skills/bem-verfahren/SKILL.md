@@ -37,7 +37,7 @@ description: "Fachanwalt Arbeitsrecht Bem Verfahren: ordnet Normen, Nutzerangabe
 
 ## 2) Pflicht des Arbeitgebers § 167 II SGB IX
 
-> "Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
+> "Sind Beschäftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
 
 ## 3) Wirksamkeit der personenbedingten Kündigung
 
@@ -98,7 +98,7 @@ Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 ### Schritt 3 — Verhandlungs-Position
 
 - Bei fehlendem BEM: Vergleichs-Bereitschaft AG hoch
-- Abfindung typisch 0,75-1,5 Brutto-Monatsgehaelter pro Beschaeftigungsjahr
+- Abfindung typisch 0,75-1,5 Brutto-Monatsgehaelter pro Beschäftigungsjahr
 
 ## 7) AG-Strategie
 

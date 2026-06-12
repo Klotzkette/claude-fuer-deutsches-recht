@@ -1,6 +1,6 @@
 ---
 name: handels-vs-steuerbilanz
-description: "Pruefung der Massgeblichkeit der Handelsbilanz für die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und ma..."
+description: "Prüfung der Massgeblichkeit der Handelsbilanz für die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klären ob und wie die Steuerbilanz folgt. Behandelt formelle und ma..."
 ---
 
 # Massgeblichkeit Handelsbilanz zur Steuerbilanz — § 5 EStG und Abweichungen

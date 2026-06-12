@@ -19,7 +19,7 @@ description: "Routing-Skill für die Krankenhausreform 2024/2025 (KHVVG): ordnet
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie aendert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum passendes Fachmodul.
+Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz, in Kraft 01/2025) ist der groesste Umbau der stationaeren Versorgung seit Einfuehrung des DRG-Systems. Sie ändert KHG, KHEntgG und SGB V parallel. Der Skill ordnet jedes Mandat ein und routet zum passendes Fachmodul.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Geht es um Leistungsgruppen-Zuweisung, Vorhaltefinanzierung, Strukturqualitaet, Plankrankenhausstatus oder Reform-Uebergang?
@@ -29,7 +29,7 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - Liegt eine Frist (Antrag, Anhörung, Widerspruch, Klage)?
 
 ## Rechtlicher Rahmen
-- **KHVVG** vom 12.12.2024 — Artikelgesetz, das KHG, KHEntgG, SGB V aendert.
+- **KHVVG** vom 12.12.2024 — Artikelgesetz, das KHG, KHEntgG, SGB V ändert.
 - **KHG** §§ 6a, 9 KHG (Leistungsgruppen, Förderung), Bund-Länder-Abstimmung.
 - **KHEntgG** Vorhalteverguetung (ab 2027 vollwirksam), § 5 KHEntgG, Konvergenzphase.
 - **SGB V** §§ 135a, 136-137 (Qualitaet), § 39 (stationaere Versorgung), § 109 (Versorgungsauftrag).
@@ -37,7 +37,7 @@ Die Krankenhausreform durch das KHVVG (Krankenhausversorgungsverbesserungsgesetz
 - **G-BA-Beschlüsse** zu Strukturmerkmalen, Mindestmengen, Personalanforderungen.
 
 ## / Schritt für Schritt
-1. **Rolle und Akteur klären:** Geschaeftsfuehrung, Aerztlicher Direktor, Traeger, Land, Kasse, Patient?
+1. **Rolle und Akteur klären:** Geschäftsführung, Aerztlicher Direktor, Traeger, Land, Kasse, Patient?
 2. **Reform-Schicht identifizieren:**
  - **Plan-Ebene** (Land vergibt LG) → Skill `landeskrankenhausplan-aufnahme-herausnahme-aenderung`.
  - **Strukturqualitaet** (Personal, Geraete, Vorhaltung) → Skill `leistungsgruppen-und-qualitaetskriterien-reformlogik`.

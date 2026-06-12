@@ -1,6 +1,6 @@
 ---
 name: padlet-als-werkzeug
-description: "Erlaeutert, wann Padlet als visuelle Alternative zur Step-Plan-Excel sinnvoll ist und wann nicht. Beschreibt das Format Shelf mit vier Spalten als Mapping der vier Excel-Reiter, Datenschutz-Anforderungen, berufsrechtliche Grenzen sowie das Karten-Format pro Dokument."
+description: "Erläutert, wann Padlet als visuelle Alternative zur Step-Plan-Excel sinnvoll ist und wann nicht. Beschreibt das Format Shelf mit vier Spalten als Mapping der vier Excel-Reiter, Datenschutz-Anforderungen, berufsrechtliche Grenzen sowie das Karten-Format pro Dokument."
 ---
 
 # Padlet als Status-Navigator-Werkzeug
@@ -41,7 +41,7 @@ Jedes Dokument = eine Karte. Karten-Felder:
 - Beschreibung = Datum, Vertragspartei, Status
 - Farbe der Karte = Ampel (gruen, gelb, rot)
 - Anhang = Scan oder Link auf DATEV-Akte
-- Kommentar-Thread = Klaerungspunkte
+- Kommentar-Thread = Klärungspunkte
 
 ## Datenschutz und Berufsrecht
 Padlet ist ein US-Dienst. Vor Einsatz prüfen:

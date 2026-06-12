@@ -1,6 +1,6 @@
 ---
 name: migrations-und-staatsangehoerigkeitsrecht
-description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Ausländerrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip im Deutsche Rechtsgeschichte."
 ---
 
 # Migrations- und Staatsangehoerigkeitsrecht
@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsre
 
 ## Worum es geht
 
-Das Staatsangehoerigkeitsrecht ist ein zentrales Instrument staatlicher Identitaetspolitik. Das Reichs- und Staatsangehoerigkeitsgesetz 1913 (RuStAG, RGBl. 1913, 583) schuf ein reines Abstammungsprinzip (ius sanguinis): Nur wer von einem Deutschen abstammte, wurde Deutscher. Dieses Prinzip hielt sich bis 2000. Die NS-Nuernberger Gesetze 1935 eroeffneten eine rassistische Sonderstaatsangehoerigkeitsordnung. Nach 1945 ermoeglichten Aussiedlergesetze Spaetheimkehrern aus Osteuropa die deutsche Staatsangehoerigkeitl Das Staatsangehoerigkeitsgesetz 2000 (StAG, BGBl. I 2000, 1633) ergaenzte das Abstammungsprinzip durch das Geburtsortsprinzip (ius soli): In Deutschland geborene Kinder von Auslaendern können unter Bedingungen Deutsch werden.
+Das Staatsangehoerigkeitsrecht ist ein zentrales Instrument staatlicher Identitaetspolitik. Das Reichs- und Staatsangehoerigkeitsgesetz 1913 (RuStAG, RGBl. 1913, 583) schuf ein reines Abstammungsprinzip (ius sanguinis): Nur wer von einem Deutschen abstammte, wurde Deutscher. Dieses Prinzip hielt sich bis 2000. Die NS-Nuernberger Gesetze 1935 eroeffneten eine rassistische Sonderstaatsangehoerigkeitsordnung. Nach 1945 ermoeglichten Aussiedlergesetze Spaetheimkehrern aus Osteuropa die deutsche Staatsangehoerigkeitl Das Staatsangehoerigkeitsgesetz 2000 (StAG, BGBl. I 2000, 1633) ergaenzte das Abstammungsprinzip durch das Geburtsortsprinzip (ius soli): In Deutschland geborene Kinder von Ausländern können unter Bedingungen Deutsch werden.
 
 ## Kernnormen / Kernquellen
 

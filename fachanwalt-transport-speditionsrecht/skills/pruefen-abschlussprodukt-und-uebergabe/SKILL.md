@@ -1,6 +1,6 @@
 ---
 name: pruefen-abschlussprodukt-und-uebergabe
-description: "Pruefen: Abschlussprodukt und Übergabe: Pruefen: Abschlussprodukt und Übergabe."
+description: "Prüfen: Abschlussprodukt und Übergabe: Prüfen: Abschlussprodukt und Übergabe."
 ---
 
 # Prüfen: Abschlussprodukt und Übergabe

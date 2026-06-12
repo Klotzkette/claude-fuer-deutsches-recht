@@ -1,9 +1,9 @@
 ---
 name: bautraeger-weg-instandhaltungsruecklage-uebergabe
-description: "WEG-Instandhaltungsruecklage zur Uebergabe: Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefras..."
+description: "WEG-Instandhaltungsruecklage zur Übergabe: Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Prüfras..."
 ---
 
-# WEG-Instandhaltungsruecklage zur Uebergabe
+# WEG-Instandhaltungsruecklage zur Übergabe
 
 
 ## Arbeitsweg
@@ -14,15 +14,15 @@ description: "WEG-Instandhaltungsruecklage zur Uebergabe: Skill klaert wie die I
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster.
+**Fokus:** WEG-Instandhaltungsruecklage zur Übergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Prüfraster.
 
-### Bautraeger Weg Instandhaltungsruecklage Uebergabe
+### Bautraeger Weg Instandhaltungsruecklage Übergabe
 
 ## Norm
 
 § 19 WEG: Erhaltungsruecklage (frueher Instandhaltungsruecklage) als Vermögen der WEG.
 
-## Dotierung bei Uebergabe
+## Dotierung bei Übergabe
 
 - Bei den meisten Bautraegervertraegen leistet der Erste Erwerber eine Eroeffnungsdotierung.
 - Höhe variabel (oft 0.5 bis 1 Prozent des Vertragspreises).
@@ -43,7 +43,7 @@ description: "WEG-Instandhaltungsruecklage zur Uebergabe: Skill klaert wie die I
 - Wer leistet?
 - Wie schnell waechst sie?
 
-## Pruefraster
+## Prüfraster
 
 1. Eroeffnungsruecklage vorgesehen?
 2. Wer leistet?

@@ -13,7 +13,7 @@ description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. A
 
 ## Kernsachverhalt
 
-DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Wareneinkauf 3000er, Aufwand 4000er, Erloese 8000er). SKR 04 ist abschlussorientiert (Aktiva 0xxx-2xxx, Passiva 3xxx, Ertrag 4xxx, Aufwand 5xxx-7xxx). Die Wahl beeinflusst die BWA-Struktur, die Schnittstellen zur E-Bilanz und die Mandantenkommunikation. Bei Neuaufnahme eines Mandanten muss der Steuerberater bewusst waehlen; ein Wechsel des Kontenrahmens im laufenden Geschaeftsjahr ist nur ausnahmsweise sinnvoll.
+DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Wareneinkauf 3000er, Aufwand 4000er, Erloese 8000er). SKR 04 ist abschlussorientiert (Aktiva 0xxx-2xxx, Passiva 3xxx, Ertrag 4xxx, Aufwand 5xxx-7xxx). Die Wahl beeinflusst die BWA-Struktur, die Schnittstellen zur E-Bilanz und die Mandantenkommunikation. Bei Neuaufnahme eines Mandanten muss der Steuerberater bewusst waehlen; ein Wechsel des Kontenrahmens im laufenden Geschäftsjahr ist nur ausnahmsweise sinnvoll.
 
 ## Kaltstart-Rueckfragen
 
@@ -49,7 +49,7 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 ### Phase 1 — Bestandsaufnahme
 
 - Aktuelle Buchhaltung des Mandanten sichten — welcher Kontenrahmen wird derzeit genutzt? Bei Mandantenwechsel: Vorberaterkontenrahmen prüfen.
-- Branche und Geschaeftsmodell erfassen; bei produzierendem Gewerbe SKR 03 ueblich, bei dienstleistenden GmbH zunehmend SKR 04.
+- Branche und Geschäftsmodell erfassen; bei produzierendem Gewerbe SKR 03 ueblich, bei dienstleistenden GmbH zunehmend SKR 04.
 - Anforderungen externer Stakeholder prüfen (Banken, Konzern-Mutter, Wirtschaftspruefer).
 
 ### Phase 2 — Entscheidung treffen

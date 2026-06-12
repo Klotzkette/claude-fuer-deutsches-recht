@@ -7,7 +7,7 @@ description: "Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pr�
 
 > EU-Recht läuft im Hintergrund mit. Wer es übersieht, riskiert EuGH-Vertragsverletzungsverfahren.
 
-## Pruefstation 1 - EU-Anwendungsbereich
+## Prüfstation 1 - EU-Anwendungsbereich
 
 Beruehrt das Vorhaben einen unionsrechtlich harmonisierten oder mitgeregelten Bereich? Beispiele:
 
@@ -19,28 +19,28 @@ Beruehrt das Vorhaben einen unionsrechtlich harmonisierten oder mitgeregelten Be
 - VO 1215/2012 (Brussel Ia) - Gerichtsstand
 - VO 1393/2007 (Zustellungs-VO)
 
-## Pruefstation 2 - Primärrecht
+## Prüfstation 2 - Primärrecht
 
 - Grundfreiheiten Warenverkehr, Personenverkehr, Niederlassung, Dienstleistung, Kapitalverkehr (Art. 28 ff., 45 ff., 49 ff., 56 ff., 63 ff. AEUV)
 - Diskriminierungsverbot Art. 18 AEUV
 - Grundrechte-Charta (insbesondere Art. 7 und Art. 8 - Privatleben und Datenschutz; Art. 11 - Freiheit der Meinungsaeusserung; Art. 16 - unternehmerische Freiheit; Art. 47 - effektiver Rechtsschutz)
 
-## Pruefstation 3 - Sekundärrecht
+## Prüfstation 3 - Sekundärrecht
 
 - Welche Richtlinien und Verordnungen sind einschlaegig?
 - Bei Richtlinien: Hat die nationale Umsetzungsfrist abgelaufen? Erfüllt das deutsche Recht bereits die RL?
 - Bei VO: Direkt anwendbar - keine Umsetzung erforderlich, aber Ausführungsbestimmungen möglich.
 
-## Pruefstation 4 - Verhältnismaessigkeit nach EU-Massstab
+## Prüfstation 4 - Verhältnismaessigkeit nach EU-Maßstab
 
 - legitimer Zweck
 - geeignet
 - erforderlich (mildestes Mittel)
 - angemessen
 
-EuGH ist im Massstab oft strenger als BVerfG.
+EuGH ist im Maßstab oft strenger als BVerfG.
 
-## Pruefstation 5 - Notifizierungspflicht 2015/1535
+## Prüfstation 5 - Notifizierungspflicht 2015/1535
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -50,11 +50,11 @@ Prüfen: Faellt das Vorhaben unter:
 
 Bei elektronischen Postfaechern, technischen Datenformaten, IT-Schnittstellen: in der Regel notifizierungspflichtig.
 
-## Pruefstation 6 - Subsidiaritaet Art. 5 EUV
+## Prüfstation 6 - Subsidiaritaet Art. 5 EUV
 
 Auch wenn die EU zuständig waere - hat sie tatsächlich Recht gesetzt? Wenn nicht, kann der Mitgliedstaat regeln, soweit keine Sperrwirkung.
 
-## Pruefstation 7 - Vorlagepflicht Art. 267 AEUV
+## Prüfstation 7 - Vorlagepflicht Art. 267 AEUV
 
 Anwendung im Vollzug: Wenn das nationale Gesetz zu EU-Recht Auslegungszweifel weckt, wird das Tatgericht ggf. den EuGH anrufen müssen.
 
@@ -68,7 +68,7 @@ Art. 288 AEUV (Rechtsakte, Verordnung, Richtlinie) — Art. 5 EUV (Subsidiaritae
 
 ## Ausgabe
 
-Pruefgutachten ein bis drei Seiten:
+Prüfgutachten ein bis drei Seiten:
 
 1. EU-Bezug ja / nein / unsicher
 2. Einschlaegiges Primärrecht

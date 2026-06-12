@@ -1,6 +1,6 @@
 ---
 name: aufwendungsersatz-im-vertrag
-description: "Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhaeltnis zur GoA. Liefert Pruefraster."
+description: "Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhältnis zur GoA. Liefert Prüfraster."
 ---
 
 # Pralr Aufwendungsersatz Im Vertrag
@@ -43,7 +43,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - § 670 BGB Aufwendungsersatz.
 - § 683 BGB GoA.
 
-## Pruefraster
+## Prüfraster
 
 1. Welcher Vertragstyp?
 2. Aufwendung "für den anderen"?

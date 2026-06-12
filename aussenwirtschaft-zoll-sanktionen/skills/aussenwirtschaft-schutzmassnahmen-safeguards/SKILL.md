@@ -7,7 +7,7 @@ description: "EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und
 
 ## Arbeitsbereich
 
-EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoellen. Output: Safeguard-Pruefvermerk und Reaktionsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoellen. Output: Safeguard-Prüfvermerk und Reaktionsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -25,7 +25,7 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 
 ## Erste Schritte
 
-1. Massnahmenart feststellen: Safeguard-Zoll oder Mengen-Kontingent (Tariff Rate Quota)?
+1. Maßnahmenart feststellen: Safeguard-Zoll oder Mengen-Kontingent (Tariff Rate Quota)?
 2. Betroffenen HS-Code und Ursprungsland in TARIC auf Safeguard-Eintrag prüfen.
 3. Kontingents-Zuteilung prüfen: Traditioneller Importeur oder neuer Lieferant?
 4. Antrag auf Kontingentszuteilung bei Kommission oder Hauptzollamt fristgerecht stellen.
@@ -40,7 +40,7 @@ EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/
 - **VO (EU) 2019/159**: Stahlschutzmasnahmen-Verordnung (aktuell in Kraft).
 - **UZK Art. 56**: Anwendung von Safeguard-Zolls aetzen in der Zollanmeldung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] HS-Code und Ursprungsland auf Safeguard-Maßnahme in TARIC geprueft?
 - [ ] Kontingents-Zuteilungssystem verstanden (TRQ-Verfahren)?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

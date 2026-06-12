@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-kampagnenteam
-description: "Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Beschäftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen im Wahlkampfrecht."
 ---
 
 # Arbeitsrecht Kampagnenteam
@@ -33,7 +33,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachkern: Arbeitsrecht Kampagnenteam
 
-- **Wahlkampflage (Arbeitsrecht Kampagnenteam):** Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen.
+- **Wahlkampflage (Arbeitsrecht Kampagnenteam):** Beschäftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf prüfen.
 - **Norm-/Praxisanker:** Wahlgesetze des betroffenen Bundes/Landes, PartG, DSGVO/BDSG, Verordnung (EU) 2024/900, Versammlungs-, Straßen-, Kommunal-, Presse-, Urheber-, Straf- und Ordnungswidrigkeitenrecht je nach Einsatzfeld.
 - **Entscheidende Weiche:** Amtliche Wahlorganisation, Partei, Fraktion, Kandidatenteam, Agentur, Ehrenamt und Dritte strikt trennen; Strategie nie mit rechtlicher Zulässigkeit verwechseln.
 - **Arbeitsprodukt:** Freigabevermerk, Risikoampel, Behördenmail, Sprechzettel oder Eskalationsnotiz mit Belegarchiv und klarer Verantwortlichkeit.

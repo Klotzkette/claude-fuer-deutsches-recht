@@ -39,7 +39,7 @@ Sie sind alt oder dauerhaft krank und haben wenig Rente. Dann hilft das Sozialam
 - **§ 27 SGB XII** — Hilfe zum Lebensunterhalt.
 - **§ 27a SGB XII** — Regelbedarfsstufen.
 - **§ 19 SGB XII** — Voraussetzungen.
-- **§ 90 SGB XII** — Vermoegens-Schongrenzen.
+- **§ 90 SGB XII** — Vermögens-Schongrenzen.
 
 ## Schritt-für-Schritt-Anleitung
 

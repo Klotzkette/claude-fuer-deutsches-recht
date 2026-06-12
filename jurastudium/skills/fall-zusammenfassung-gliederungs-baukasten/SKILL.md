@@ -25,7 +25,7 @@ description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall
 ## Zentrale Normen
 - §§ 433-453 BGB — Kaufrecht: Standardkomplex für Zivilrecht-Gutachten
 - §§ 241-304 BGB — Leistungsstoerungsrecht: Kern-Anspruchsgrundlagen
-- §§ 823-853 BGB — Deliktsrecht: zweite Pruefungssaule
+- §§ 823-853 BGB — Deliktsrecht: zweite Prüfungssaule
 - §§ 242, 263 StGB — Strafrecht-Standardtatbestaende für Klausur
 
 ## Eingaben

@@ -159,7 +159,7 @@ Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klausel
 
 ## Triage — Forderungsverzicht Check
 
-1. **Glaeubiger und Betrag?** Wer verzichtet auf wie viel?
+1. **Gläubiger und Betrag?** Wer verzichtet auf wie viel?
 2. **Steuerliche Folge?** Sanierungsgewinn § 3a EStG: Nachweise Sanierungsplan, Sanierungsabsicht, Sanierungseignung vorbereiten.
 3. **Besserungsschein-Formulierung?** Bedingung klar definiert (Wiederherstellung ZF anhand konkreter Liquiditaets-Schwelle).
 4. **Anfechtungsschutz?** Verzicht muss Teil eines Gesamtsanierungskonzepts sein (IDW S 6 Qualitaet) um Vorsatzanfechtung § 133 InsO auszuschliessen.

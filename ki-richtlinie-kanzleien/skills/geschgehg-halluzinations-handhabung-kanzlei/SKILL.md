@@ -53,13 +53,13 @@ Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 201
 
 ## Zentrale Normen (Paragrafenkette)
 - § 1 GeschGehG — Anwendungsbereich
-- § 2 Nr. 1 GeschGehG — Definition Geschaeftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
+- § 2 Nr. 1 GeschGehG — Definition Geschäftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
 - § 4 GeschGehG — Handlungsverbote (unbefugte Nutzung)
 - § 43a Abs. 2 BRAO — Verschwiegenheit als berufsrechtlicher Schutzmechanismus
 - § 203 StGB — Berufsgeheimnis
 
 ## Triage zu Beginn
-1. Welche Mandats- oder Unternehmensdaten sind als Geschaeftsgeheimnis einzustufen?
+1. Welche Mandats- oder Unternehmensdaten sind als Geschäftsgeheimnis einzustufen?
 2. Wurden angemessene Geheimhaltungsmassnahmen nach § 2 Nr. 1 GeschGehG ergriffen?
 3. Erlaubt der KI-Anbieter Training auf Eingabedaten — droht Verlust des Geheimnisschutzes?
 4. Gibt es einen Geheimhaltungsvertrag mit dem KI-Anbieter (NDA / AVV mit Vertraulichkeitsklausel)?

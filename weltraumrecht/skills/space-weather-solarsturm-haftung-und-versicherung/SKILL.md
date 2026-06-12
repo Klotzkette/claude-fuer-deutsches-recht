@@ -1,6 +1,6 @@
 ---
 name: space-weather-solarsturm-haftung-und-versicherung
-description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zu..."
+description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhältnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zu..."
 ---
 
 # Space Weather: Solarsturm-Haftung und Versicherung
@@ -48,7 +48,7 @@ description: "Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche
 - **EUROCONTROL Space Weather Service**: Echtzeit-Warnungen.
 - **Polare Routen**: Umleitungspflicht bei hoher Strahlenexposition (R3-R5).
 
-## Pruefraster
+## Prüfraster
 
 1. Ereignisklassifikation (G/R-Skala, F10.7)?
 2. Welche Vorwarnung hat NOAA SWPC / ESA SSA gegeben? Vorlauf?

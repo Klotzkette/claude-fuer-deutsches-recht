@@ -125,7 +125,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Landpachtkonflikt verhandeln | Fuenfstufiger Pfad-Ueberblick; Schriftsatzbausteine unten |
+| Standard — Landpachtkonflikt verhandeln | Fuenfstufiger Pfad-Überblick; Schriftsatzbausteine unten |
 | Variante A — beide Seiten einigungsbereit | Direkter Pfad 1 (Schlichtungsstelle) ohne Gericht |
 | Variante B — Pachtverhaeltnis sehr festgefahren | Gerichtlicher Weg § 23 LwVG vorbereiten |
 | Variante C — Hofuebergabe involviert | Pfad 4 Mediation Hofuebergabe; familienrechtliche Aspekte beachten |

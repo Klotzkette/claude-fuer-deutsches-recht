@@ -24,7 +24,7 @@ description: "PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Ve
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 17 § 10**: "Die noethigen Anstalten zur Erhaltung der öffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey." — DIE polizeirechtliche Generalklausel.
 - **ALR II 17 §§ 1-50**: Polizeyrecht im aufgeklaerten Absolutismus — wohltaetige Polizei.
 

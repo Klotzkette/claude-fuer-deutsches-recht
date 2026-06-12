@@ -1,6 +1,6 @@
 ---
 name: bwa-soll-ist-vergleich
-description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-manda..."
+description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erläuterungstext für Mandant Querverweis stb-bwa-manda..."
 ---
 
 # Soll-Ist-Vergleich in der BWA
@@ -30,7 +30,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 ### Primaernormen
 
-**§ 1 StaRUG** — Krisenfrueherkennung der Geschaeftsleitung; Planung ist Pflichtbestandteil.
+**§ 1 StaRUG** — Krisenfrueherkennung der Geschäftsleitung; Planung ist Pflichtbestandteil.
 
 **§ 91 Abs. 2 AktG / analog GmbH** — Ueberwachungs- und Risikomanagementsystem.
 
@@ -83,7 +83,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 ### Phase 6 — Reporting an externe Stakeholder
 
-- Bei Banken-Reporting: Plan-Ist-Bericht mit Erlaeuterung und Gegenmassnahmen.
+- Bei Banken-Reporting: Plan-Ist-Bericht mit Erläuterung und Gegenmassnahmen.
 - Bei Konzernreporting: Konzern-Reporting-Form (oft UKV-Format, internationale Lesart).
 - Sanierungsmandate: Plan-Ist als Teil des IDW-S-6-Reports.
 

@@ -42,7 +42,7 @@ description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungs
 Strafrechtsspezifische Interessen-Cluster:
 
 - Strafmass und Bewaehrung (Eintrag im Bundeszentralregister, BZRG-Tilgung, BAFOEG, Beamtenstatus, Approbation).
-- Vermoegensabschoepfung und Einziehung (§§ 73 ff. StGB) - Verhaeltnis zur Strafe.
+- Vermögensabschoepfung und Einziehung (§§ 73 ff. StGB) - Verhältnis zur Strafe.
 - Berufliche Folgen (Berufsverbot, gewerberechtliche Folgen, Approbationsentzug, Anwaltszulassung).
 - Verfahrensdauer (Haftgrund, U-Haft-Vollzug, Beschleunigungsgebot).
 - Adhaesionsverfahren (zivilrechtliche Anspruche des Verletzten im Strafprozess).
@@ -137,7 +137,7 @@ Strafrechtsspezifische Interessen-Cluster:
 - Keine Verstaendigung über Schuldspruch (§ 257c Abs. 2 S. 3 StPO).
 - Keine Punktstrafe (§ 257c Abs. 3 StPO - nur Strafrahmen).
 - Kein Rechtsmittelverzicht durch Verstaendigung (§ 302 Abs. 1 S. 2 StPO).
-- Wegfall der Bindung bei Aenderung der Sach- oder Rechtslage (§ 257c Abs. 4 StPO).
+- Wegfall der Bindung bei Änderung der Sach- oder Rechtslage (§ 257c Abs. 4 StPO).
 - Verstaendigung ausgeschlossen bei Schwurgerichtssachen mit lebenslanger Freiheitsstrafe in der Praxis problematisch.
 - Mitteilungs- und Protokollierungspflichten (§§ 243 Abs. 4, 273 Abs. 1a StPO) - Verstoss begruendet absoluten Revisionsgrund.
 
@@ -149,7 +149,7 @@ Strafrechtsspezifische Interessen-Cluster:
 4. **Adhaesions-Memo** falls Nebenklage / Verletzte/r Anspruch geltend macht.
 5. **Auflagen-Erfuellungsplan** bei § 153a-Einstellung.
 
-## Pruefkette vor dem Vorgespraech
+## Prüfkette vor dem Vorgespraech
 
 - [ ] Akteneinsicht abgeschlossen
 - [ ] Beweismittel der Anklage durchgearbeitet

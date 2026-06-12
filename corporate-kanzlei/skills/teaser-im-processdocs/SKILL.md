@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -189,10 +189,10 @@ ANLAGEN (Phase II)
 2. **Datenerhebung** — Jahresabschluesse, Management-Interviews, Marktdaten
 3. **Teaser erstellen** — anonym; EBITDA-Range; Branche; USP; 2-3 Seiten
 4. **IM erstellen** — nach NDA; vollstaendig, korrekt; Disclaimer einbauen; Forward-Looking-Warnings
-5. **Interne Freigabe** — Geschaeftsfuehrung / Vorstand zeichnet ab; ggf. AR-Kenntnis
+5. **Interne Freigabe** — Geschäftsführung / Vorstand zeichnet ab; ggf. AR-Kenntnis
 6. **Disclaimer und Haftungsklausel** — Standardformulierung; Empfaenger-Beschraenkung
 7. **Verteilung** — nur nach unterzeichnetem NDA; Empfaengerliste protokollieren
-8. **Update-Management** — bei wesentlichen Aenderungen: neue Version; alle Empfaenger informieren
+8. **Update-Management** — bei wesentlichen Änderungen: neue Version; alle Empfaenger informieren
 
 ## Rote Schwellen
 

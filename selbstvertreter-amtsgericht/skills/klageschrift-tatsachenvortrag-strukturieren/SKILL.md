@@ -123,7 +123,7 @@ Pro Tatbestandsmerkmal:
 Beispiel-Checkliste für Kaufpreis-Forderung:
 
 - [x] Kaufvertrag — Datum, Parteien, Sache, Preis.
-- [x] Uebergabe / Lieferung.
+- [x] Übergabe / Lieferung.
 - [x] Faelligkeit (oder Mahnung).
 - [x] Nicht-Zahlung.
 - [x] Beweismittel pro Punkt.

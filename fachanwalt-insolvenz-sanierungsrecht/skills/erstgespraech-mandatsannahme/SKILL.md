@@ -38,7 +38,7 @@ description: "Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restruk
 
 Standard-Fragenraster für Insolvenz- und Restrukturierungsrecht:
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
+- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
 - Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
 - Konkrete fachliche Stossrichtung: Eigenverwaltung, Insolvenzantrag, StaRUG, Anfechtung, Sanierungsplanung
 - Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
@@ -170,7 +170,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Pruefroutinen.
+- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 ## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat (Stand Mai 2026)
 
@@ -187,7 +187,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Triage — Erstgespraech Insolvenzmandat
 
-1. **Welche Partei?** Geschaeftsfuehrung/Schuldner → Antragspflicht, Haftungsberatung. Glaeubiger → Antragsrecht, Forderungssicherung. Insolvenzverwalter → Beauftragung prüfen.
+1. **Welche Partei?** Geschäftsführung/Schuldner → Antragspflicht, Haftungsberatung. Gläubiger → Antragsrecht, Forderungssicherung. Insolvenzverwalter → Beauftragung prüfen.
 2. **Fristen?** Antragspflicht § 15a InsO: ab heute bis zu welchem Datum? Sofort-Frist-Alarm!
 3. **GwG-Risiko?** Insolvenzmandate oft Hochrisiko-Kategorie (Geldflueisse, Verschleierungsrisiko) → gruendliche Risiobewertung.
-4. **Interessenkonflikt?** Kanzlei hat Glaeubiger und Schuldner im selben Verfahren → § 43a Abs. 4 BRAO Verbot.
+4. **Interessenkonflikt?** Kanzlei hat Gläubiger und Schuldner im selben Verfahren → § 43a Abs. 4 BRAO Verbot.

@@ -98,7 +98,7 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 
 ## Strategie und Praxis-Tipps
 
-- Erfolgskonten-Schliessung ist der Schluss-Stempel des Jahres. Spaetere Aenderungen müssen über Vorperioden-Korrekturen laufen.
+- Erfolgskonten-Schliessung ist der Schluss-Stempel des Jahres. Spaetere Änderungen müssen über Vorperioden-Korrekturen laufen.
 - Bei wesentlichen Nachtraegen in der Prüfung: ggf. erneut schliessen.
 - Bilanzgewinn-Verwendung erst nach Gesellschafterbeschluss buchen.
 - Bei Personenunternehmen: Privatentnahmen und -einlagen über das Jahr separat — werden in Kapitalkonto verrechnet.

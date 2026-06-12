@@ -12,7 +12,7 @@ Diese Output-Weiche für **Vertragsrecht** entscheidet, ob Memo, Antrag, Schrift
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
 - `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router

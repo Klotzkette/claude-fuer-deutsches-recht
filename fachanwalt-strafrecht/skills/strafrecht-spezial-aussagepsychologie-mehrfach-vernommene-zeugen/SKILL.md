@@ -59,7 +59,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 |---|---|---|
 | Aussagechronologie als Schriftsatzanlage | Strukturell, ueberzeugend | Aufwand, muss vollstaendig sein |
 | SV-Gutachten zur Aussagegenese | Methodisch fundiert | Aufwand, Zeitverzug |
-| Erstaussage als Massstab im Plaedoyer | Konkret | Setzt vollstaendige Aktenkenntnis voraus |
+| Erstaussage als Maßstab im Plaedoyer | Konkret | Setzt vollstaendige Aktenkenntnis voraus |
 | Therapeutenakte beiziehen | Direkter Beleg | Schweigepflichtsentbindung erforderlich |
 
 ## Verwendung im Plaedoyer

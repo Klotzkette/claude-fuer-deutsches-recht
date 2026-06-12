@@ -53,7 +53,7 @@ Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsak
 - Art. 26 KI-VO — Betreiberpflichten bei Hochrisiko-KI Personalwesen
 - § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmungsrecht des Betriebsrats
 - § 1 AGG — Diskriminierungsverbot bei Einstellungsentscheidungen
-- § 26 BDSG — Beschaeftigtendatenschutz
+- § 26 BDSG — Beschäftigtendatenschutz
 
 ## Triage zu Beginn
 1. Welche Personalentscheidung soll KI unterstuetzen — Bewerbungsscreening, Leistungsbewertung, Kuendigung?

@@ -34,9 +34,9 @@ Praktisch heisst das: Bei Einkommensteuer-Hinterziehung muss die Anzeige alle hi
 
 Die Selbstanzeige ist unwirksam, wenn vor ihrer Abgabe einer der folgenden Sperrgruende vorliegt:
 
-- **Nummer 1 a** Pruefungsanordnung der Finanzbehoerde bekanntgegeben (Aussenpruefung).
+- **Nummer 1 a** Prüfungsanordnung der Finanzbehoerde bekanntgegeben (Aussenpruefung).
 - **Nummer 1 b** Bekanntgabe der Einleitung des Strafverfahrens oder Bussgeldverfahrens.
-- **Nummer 1 c** Erscheinen eines Pruefers zur Aussenpruefung.
+- **Nummer 1 c** Erscheinen eines Prüfers zur Aussenpruefung.
 - **Nummer 1 d** Erscheinen eines Beamten der Finanzbehoerde zur Steuerfahndung.
 - **Nummer 1 e** Erscheinen zur Umsatzsteuer-Nachschau, Lohnsteuer-Nachschau oder ein vergleichbarer Anlass.
 - **Nummer 2 Tatentdeckung** — eine der Steuerstraftaten ist ganz oder zum Teil entdeckt, und der Taeter weiss das oder muss damit rechnen.
@@ -92,14 +92,14 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 **Selbstanzeige-Muster:** "An das Finanzamt X, Steuernummer Y. Hiermit erstatte ich nach Paragraph 371 AO vollstaendige Selbstanzeige für die Einkommensteuer der Jahre 2015 bis 2024. Ich erklaere folgende, bisher nicht erklaerte Einkuenfte: [Liste]. In der Anlage finden Sie die berichtigten Erklaerungen. Die berechnete Mehrsteuer betraegt EUR X (siehe Berechnung Anlage SA 1). Ich beantrage die Erstreckung der Selbstanzeige auf alle eventuell weiter betroffenen Veranlagungszeitraeume. Die Mehrsteuer einschliesslich Hinterziehungszinsen werde ich binnen 30 Tagen nach Mitteilung des Finanzamts ueberweisen."
 
-**Schriftsatz-Snippet (Unwirksamkeit als Strafmilderung):** "Auch wenn die Selbstanzeige meines Mandanten infolge der Pruefungsanordnung als unwirksam zu betrachten ist, ist die freiwillige Mitwirkung als Strafmilderungsgrund nach Paragraph 46 Abs 2 StGB strafmildernd zu beruecksichtigen. BGH staendige Rspr. wertet die Selbstanzeige auch im Sperrfall regelmaessig erheblich strafmildernd."
+**Schriftsatz-Snippet (Unwirksamkeit als Strafmilderung):** "Auch wenn die Selbstanzeige meines Mandanten infolge der Prüfungsanordnung als unwirksam zu betrachten ist, ist die freiwillige Mitwirkung als Strafmilderungsgrund nach Paragraph 46 Abs 2 StGB strafmildernd zu beruecksichtigen. BGH staendige Rspr. wertet die Selbstanzeige auch im Sperrfall regelmaessig erheblich strafmildernd."
 
 **Antrag auf Verfahrenseinstellung Paragraph 170 Abs 2 StPO:** "Es wird beantragt, das Strafverfahren nach Paragraph 170 Abs 2 StPO einzustellen, da die Selbstanzeige meines Mandanten nach Paragraph 371 AO wirksam ist und alle Voraussetzungen erfuellt sind. Insbesondere wurden alle hinterzogenen Steuern einschliesslich Zinsen und Zuschlag fristgerecht gezahlt."
 
 ## Quellen Stand 06/2026
 
 - Paragraph 371 AO im Wortlaut (gesetze-im-internet.de; dejure.org).
-- Reform der Selbstanzeige durch Schwarzgeldbekaempfungsgesetz 2011; Reform 2015 (Gesetz zur Aenderung der Abgabenordnung).
+- Reform der Selbstanzeige durch Schwarzgeldbekaempfungsgesetz 2011; Reform 2015 (Gesetz zur Änderung der Abgabenordnung).
 - Paragraph 153 AO Berichtigungspflicht; Abgrenzung zu Paragraph 371 AO.
 - Paragraph 235 AO Hinterziehungszinsen (6 Prozent jaehrlich).
 - Paragraph 376 AO Steuerstrafverjaehrung (15 Jahre besonderer Fall; sonst 5 Jahre).

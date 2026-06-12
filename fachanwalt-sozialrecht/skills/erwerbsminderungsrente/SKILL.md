@@ -113,7 +113,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Erwerbsminderungsrente Widerspruch | Widerspruchsschriftsatz; Template unten |
 | Variante A — Volle statt teilweise EM-Rente angestrebt | Gutachterliche Stellungnahme zur Leistungsfaehigkeit kleiner als 3h |
-| Variante B — Rentenanpassung statt Neuantrag | § 48 SGB X Wesentliche Aenderung; guenstigerer Weg |
+| Variante B — Rentenanpassung statt Neuantrag | § 48 SGB X Wesentliche Änderung; guenstigerer Weg |
 | Variante C — Berufsunfaehigkeit Privatversicherung parallel | BU-Versicherungs-Leistungsklage koordinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.

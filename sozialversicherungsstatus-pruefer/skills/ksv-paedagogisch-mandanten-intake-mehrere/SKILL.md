@@ -1,6 +1,6 @@
 ---
 name: ksv-paedagogisch-mandanten-intake-mehrere
-description: "Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus im Sozialversicherungsstatus Pruefer."
+description: "Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus im Sozialversicherungsstatus Prüfer."
 ---
 
 # KSV pädagogisch-künstlerisch

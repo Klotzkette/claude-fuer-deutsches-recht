@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eigenverwaltung-und-cra
-description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter..."
+description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschäftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung für Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter..."
 ---
 
 # Sanierungsgewinn — Eigenverwaltung und CRO
@@ -23,17 +23,17 @@ description: "Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum 
 
 ## Worum geht es
 
-Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschaeftsleitung der Schuldnerin im Amt; ein Sachwalter ueberwacht. Die Verantwortung für den Steuerteil bleibt also bei der Schuldnergesellschaft selbst — sie muss die Modellrechnung Paragraph 3a Absatz 3 EStG aufstellen, die vier Voraussetzungen dokumentieren und die Antraege stellen. Der Sachwalter ist nicht "Steuerberater der Masse", sondern Aufsicht.
+Bei der Eigenverwaltung (Paragraph 270 ff. InsO) bleibt die Geschäftsleitung der Schuldnerin im Amt; ein Sachwalter ueberwacht. Die Verantwortung für den Steuerteil bleibt also bei der Schuldnergesellschaft selbst — sie muss die Modellrechnung Paragraph 3a Absatz 3 EStG aufstellen, die vier Voraussetzungen dokumentieren und die Antraege stellen. Der Sachwalter ist nicht "Steuerberater der Masse", sondern Aufsicht.
 
-In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet über den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschaeftsfuehrer, manchmal nur Berater.
+In groesseren Verfahren wird oft ein CRO (Chief Restructuring Officer) bestellt. Der CRO ist faktisch die operative Spitze für die Sanierung und entscheidet über den Steuerteil mit. Sein Haftungsstatus haengt von der vertraglichen Konstruktion ab — meist Vorstand/Geschäftsführer, manchmal nur Berater.
 
-Ordnet die Rollen und gibt Praxistipps. Adressat: Geschaeftsfuehrer in Eigenverwaltung, CRO, Sachwalter, StB.
+Ordnet die Rollen und gibt Praxistipps. Adressat: Geschäftsführer in Eigenverwaltung, CRO, Sachwalter, StB.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
 - Eigenverwaltung ist angeordnet (Paragraph 270 InsO).
 - CRO ist bestellt oder soll bestellt werden.
-- Geschaeftsleitung weiss nicht, wer in der Sanierungssteuer den Hut auf hat.
+- Geschäftsleitung weiss nicht, wer in der Sanierungssteuer den Hut auf hat.
 
 Kaltstart-Fragen:
 
@@ -51,7 +51,7 @@ Kaltstart-Fragen:
 - Paragraph 270d InsO — Schutzschirm.
 - Paragraphen 274 ff. InsO — Sachwalter.
 - Paragraphen 277, 280 InsO — Aufsicht und Haftung Sachwalter.
-- Paragraph 35 GmbHG, Paragraph 76 AktG — Geschaeftsleitung.
+- Paragraph 35 GmbHG, Paragraph 76 AktG — Geschäftsleitung.
 - Paragraph 3a EStG — Sanierungsertrag.
 - Paragraph 69 AO — Haftung Vertreter für Steuern.
 
@@ -59,12 +59,12 @@ Kaltstart-Fragen:
 
 | Rolle | Verantwortung Steuerteil | Haftung |
 |---|---|---|
-| Geschaeftsleitung (GF, Vorstand) | volle Verantwortung; Plan-Vorbereitung im Steuerteil | Paragraph 43 GmbHG, Paragraph 93 AktG; Paragraph 69 AO |
-| CRO als Vorstand/GF | wie Geschaeftsleitung | wie Geschaeftsleitung |
+| Geschäftsleitung (GF, Vorstand) | volle Verantwortung; Plan-Vorbereitung im Steuerteil | Paragraph 43 GmbHG, Paragraph 93 AktG; Paragraph 69 AO |
+| CRO als Vorstand/GF | wie Geschäftsleitung | wie Geschäftsleitung |
 | CRO als Berater | Beratungspflichten; keine Vertretungsmacht | Berater-Haftung, ggf. Paragraph 826 BGB |
 | Sachwalter | Aufsicht; keine eigene Steuerantragspflicht | Paragraph 280 InsO bei Aufsichtsversaeumnissen |
 | StB Schuldner | klassisches Mandat zur Steuererklaerung und Beratung | Paragraph 280 BGB Beratungshaftung; ggf. Paragraph 69 AO |
-| Glaeubigerausschuss | Aufsicht und Mitsprache bei Plan | Paragraph 71 InsO |
+| Gläubigerausschuss | Aufsicht und Mitsprache bei Plan | Paragraph 71 InsO |
 
 ## / Schritt für Schritt
 
@@ -73,7 +73,7 @@ Kaltstart-Fragen:
 3. **Steuerteil delegieren.** StB des Schuldners aktiv halten; CRO/GF in der Verantwortung.
 4. **Pflichten gegenueber Sachwalter.** Sachwalter regelmaessig informieren — er muss die Aufsicht ausuebbar haben.
 5. **Plan-Entwurf abstimmen.** Steuerteil mit StB durchgehen; Voraussetzungs-Belege bereitstellen.
-6. **Glaeubigerausschuss einbeziehen** — bei Plan-Steuerteil Zustimmung holen.
+6. **Gläubigerausschuss einbeziehen** — bei Plan-Steuerteil Zustimmung holen.
 7. **Antraege rechtzeitig stellen** (siehe Schwester-Skills).
 
 ## Trade-off-Matrix Eigenverwaltung vs. Regelverfahren (steuerlich)
@@ -82,7 +82,7 @@ Kaltstart-Fragen:
 |---|---|---|
 | Verantwortung Steuerteil | Schuldnergesellschaft selbst | Insolvenzverwalter |
 | StB-Mandat | Schuldner haelt das Mandat | IV kann StB beauftragen |
-| Sanierungsabsicht der Glaeubiger | im Plan / Klassen-Voting belegbar | im Glaeubigerausschuss-Protokoll |
+| Sanierungsabsicht der Gläubiger | im Plan / Klassen-Voting belegbar | im Gläubigerausschuss-Protokoll |
 | CRO als Hebel | typisch | seltener |
 | Haftungssphaere | GF, ggf. CRO, Sachwalter (Aufsicht) | IV (Paragraph 60 InsO) |
 | Vorabauskunft Paragraph 89 AO | direkt durch Schuldnergesellschaft | durch IV |
@@ -150,9 +150,9 @@ einbezogen; Versicherungsumfang und -summe siehe Police vom [Datum].
 ## Typische Fehler
 
 1. Annahme, Sachwalter sei für Steuerteil zuständig — falsch, er ist nur Aufsicht.
-2. CRO nur als Berater bestellt, aber als Geschaeftsfuehrer behandelt — Vertretungsmacht fehlt.
+2. CRO nur als Berater bestellt, aber als Geschäftsführer behandelt — Vertretungsmacht fehlt.
 3. StB des Schuldners nicht in die Sanierungs-Diskussion einbezogen.
-4. Glaeubigerausschuss nicht zum Steuerteil angehoert.
+4. Gläubigerausschuss nicht zum Steuerteil angehoert.
 5. D-und-O-Versicherung erst nach Schaden informiert.
 6. Annahme, Eigenverwaltung schliesse Paragraph 3a EStG aus — falsch, Paragraph 3a EStG ist Eigenverwaltungs- und Plan-Variante neutral.
 

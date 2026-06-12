@@ -1,6 +1,6 @@
 ---
 name: losbildung-mittelstandsfoerderung
-description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden: Bieter..."
+description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden: Bieter..."
 ---
 
 # Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden
@@ -14,7 +14,7 @@ description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren prüfen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Prüfraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende für Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Prüfvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 ### Losbildung und Mittelstandsfoerderung
 
@@ -25,7 +25,7 @@ description: "Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen 
 4. Wirtschaftliche oder technische Gruende für Gesamtvergabe vorliegend?
 5. Fachlose nach Gewerken (Bau, IT, Beratung) sinnvoll?
 
-## Pruefraster Losbildung
+## Prüfraster Losbildung
 ### Grundsatz § 97 Abs. 4 GWB
 Mittelstaendische Interessen sind durch Teilung in Fach- und Teillose zu beruecksichtigen.
 

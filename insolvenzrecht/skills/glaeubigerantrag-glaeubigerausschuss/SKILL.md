@@ -179,10 +179,10 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Glaeubiger-Insolvenzantrag pruefend und Kurzgutachten erstellen | Kurzgutachten nach Pruefschema; Template unten |
+| Standard — Gläubiger-Insolvenzantrag prüfend und Kurzgutachten erstellen | Kurzgutachten nach Prüfschema; Template unten |
 | Variante A — Forderung noch nicht tituliert Antrag riskant | Titulierung zuerst; Insolvenzantrag nach Urteil oder Vollstreckungstitel |
 | Variante B — Schuldner bietet Zahlung an wenn Antrag zurueckgenommen | Rücknahme-Verhandlung prüfen; wirtschaftliches Ergebnis beachten |
-| Variante C — Mehrere Glaeubiger koordinierter Antrag möglich | Koordinierter Sammelantrag prüfen; Hauptglaeubiger bestimmen |
+| Variante C — Mehrere Gläubiger koordinierter Antrag möglich | Koordinierter Sammelantrag prüfen; Hauptglaeubiger bestimmen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -287,20 +287,20 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
 
-## Triage — Glaeubigerantrag
+## Triage — Gläubigerantrag
 
 Bevor losgelegt wird, klaere:
 
 1. **Forderung vollstreckbar?** Titel oder Glaubhaftmachung § 14 Abs. 1 InsO; eidesstattliche Versicherung ausreichend.
 2. **Eröffnungsgrund glaubhaft?** Mindestens 2-3 Indizien für Zahlungsunfähigkeit iSd § 17 Abs. 2 S. 2 InsO oder Überschuldungsstatus iSd § 19 InsO.
 3. **Rechtliches Interesse aktuell?** Kein missbräuchlicher Druckantrag; echtes Eröffnungsinteresse zum Zeitpunkt der gerichtlichen Entscheidung erforderlich.
-4. **Sicherungsantrag § 21 InsO?** Sofort-Maßnahmen bei Vermoegensgefaehrdung beantragen?
-5. **Kostenvorschuss § 26 InsO?** Glaeubigerinteresse an Verfahren trotz Massearmut?
+4. **Sicherungsantrag § 21 InsO?** Sofort-Maßnahmen bei Vermögensgefaehrdung beantragen?
+5. **Kostenvorschuss § 26 InsO?** Gläubigerinteresse an Verfahren trotz Massearmut?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Output-Template Kurzgutachten Glaeubigerantrag
+## Output-Template Kurzgutachten Gläubigerantrag
 
-**Adressat:** Mandant (Glaeubiger) — Tonfall: sachlich-empfehlend
+**Adressat:** Mandant (Gläubiger) — Tonfall: sachlich-empfehlend
 
 ```
 INTERNES GUTACHTEN — GLAEUBIGERANTRAG § 14 InsO
@@ -324,7 +324,7 @@ NAECHSTER SCHRITT: [Antrag einreichen bis DATUM]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

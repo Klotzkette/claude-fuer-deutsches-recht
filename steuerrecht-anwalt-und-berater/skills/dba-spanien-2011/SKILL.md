@@ -31,7 +31,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 ## Rechtlicher Rahmen
 
 ### Primaernormen
-- **DBA Deutschland-Spanien vom 03.02.2011**, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18; BStBl. 2013 I S. 349; synthetisierter Text mit MLI-Aenderungen: BGBl. 2025 II Nr. 5).
+- **DBA Deutschland-Spanien vom 03.02.2011**, in Kraft 18.10.2012, anwendbar ab 01.01.2013 (BGBl. 2012 II S. 18; BStBl. 2013 I S. 349; synthetisierter Text mit MLI-Änderungen: BGBl. 2025 II Nr. 5).
 - **OECD-MA 2010**.
 - **§§ 34c, 32b, 50d EStG**, § 6, § 20 AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
@@ -60,12 +60,12 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 - **Lizenzgebuehren** (Art. 12): 0 Prozent.
 
 ### Vermeidungs-Methode (Art. 22)
-- **Anrechnungsmethode** ist im DBA-Spanien 2011 verbreitet (Aenderung gegenueber 1966-DBA, das Freistellung vorsah).
+- **Anrechnungsmethode** ist im DBA-Spanien 2011 verbreitet (Änderung gegenueber 1966-DBA, das Freistellung vorsah).
 - Folge: deutsche Eigentümer spanischer Immobilien — Anrechnung statt Freistellung — auswirken auf Welteinkommen.
 
 ### Besonderheiten
 - **Immobilien (Art. 6)**: Belegenheitsstaat (Spanien).
-- **Mietvermietung mit Verlust** in Spanien: nach 2011-DBA Anrechnungsmethode — frueher (DBA 1966) Freistellung mit Progression. Aenderung wirkt sich praxisrelevant aus.
+- **Mietvermietung mit Verlust** in Spanien: nach 2011-DBA Anrechnungsmethode — frueher (DBA 1966) Freistellung mit Progression. Änderung wirkt sich praxisrelevant aus.
 - **Pensionen Art. 17**: gesetzliche Renten Wohnsitzstaat-Prinzip — Spanien besteuert deutsche Renten bei Wohnsitz Spanien. Sonderfall: Beamtenpensionen Kassenstaat.
 - **Wegzugsbesteuerung § 6 AStG** bei Wegzug Spanien als EU-Mitglied — Stundungsregeln nach ATAD 2022.
 - **ETVE-Holding**: spanische Beteiligungsgesellschaft mit Sondersteuersystem — DBA-Berechtigung prüfen.
@@ -91,7 +91,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 
 ## Strategie und Praxis-Tipps
 
-- Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1966 → DBA 2011 ist die zentrale Aenderung — deutsche Mietverluste in Spanien wirken sich anders aus.
+- Wechsel von Freistellung zu Anrechnung beim Uebergang DBA 1966 → DBA 2011 ist die zentrale Änderung — deutsche Mietverluste in Spanien wirken sich anders aus.
 - Spanische Beckham-Regelung kann Ansaessigkeit in Frage stellen — DBA-Schutz nicht garantiert.
 - DRV-Renten bei Wohnsitz Spanien: Spanien hat (zumindest bis 2014) Renten nicht systematisch besteuert; durch Informationsaustausch zunehmende Versteuerung; Verstaendigungsverfahren bei Doppelbesteuerung.
 - Mallorca-Wohnsitz wird oft nur als Briefkasten gewaehlt — Mittelpunkt Lebensinteressen prüfen.
@@ -105,7 +105,7 @@ Das aktuelle DBA-Spanien vom 03.02.2011 (in Kraft 18.10.2012, anwendbar ab 01.01
 - **Zuständigkeit**: spanische Erstattung durch **Agencia Estatal de Administracion Tributaria (AEAT)**, Oficina Nacional de Gestion Tributaria. Aktuelle Zuständigkeit auf **agenciatributaria.gob.es** prüfen.
 - **Antragsformulare**: spanische Modelos zur Quellensteuer-Erstattung; in der Praxis verbreitete Bezeichnungen "Modelo 210" (Steuer auf Einkuenfte Nichtansaessiger) sowie spezifische Erstattungsformulare — **konkrete Modelo-Nummern und Verfahren vom Anwender mit aktuellem Stand auf agenciatributaria.gob.es zu verifizieren**.
 - **Frist**: nach spanischem LGT (Ley General Tributaria) regelmaessig **vier Jahre** ab Steuerentrichtung.
-- **Bearbeitungsdauer AEAT**: 12-36 Monate; nach den Aenderungen seit 2020 fortgesetzt langwierig.
+- **Bearbeitungsdauer AEAT**: 12-36 Monate; nach den Änderungen seit 2020 fortgesetzt langwierig.
 - **Online-Portal**: **agenciatributaria.gob.es** mit Sede Electronica und Cl@ve-Identifikation oder Berater-Vollmacht.
 - **Sprache**: ES vorrangig; einige Formulare auf EN — bei groesseren Erstattungen spanischen Berater (gestor/asesor fiscal) einbinden.
 

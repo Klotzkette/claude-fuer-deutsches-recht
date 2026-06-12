@@ -1,6 +1,6 @@
 ---
 name: bautraeger-insolvenz-konsequenzen-erwerber
-description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert..."
+description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermögenstrennung Forderungsanmeldung. Liefert..."
 ---
 
 # Bautraeger-Insolvenz Konsequenzen für den Erwerber
@@ -14,7 +14,7 @@ description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
+**Fokus:** Bautraeger-Insolvenz Konsequenzen für den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermögenstrennung Forderungsanmeldung. Liefert Prüfraster.
 
 ### Bautraeger Insolvenz Konsequenzen Erwerber
 
@@ -41,7 +41,7 @@ description: "Bautraeger-Insolvenz Konsequenzen für den Erwerber: Skill klaert 
 3. Forderungsanmeldung im Insolvenzverfahren binnen Frist.
 4. Klage gegen Insolvenzverwalter auf Vollzug.
 
-## Pruefraster
+## Prüfraster
 
 1. Bau-Stand?
 2. Vormerkung gesichert?

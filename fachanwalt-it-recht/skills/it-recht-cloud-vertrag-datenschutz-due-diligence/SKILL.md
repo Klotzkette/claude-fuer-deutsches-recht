@@ -1,6 +1,6 @@
 ---
 name: it-recht-cloud-vertrag-datenschutz-due-diligence
-description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art..."
+description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art..."
 ---
 
 # Datenschutz-Due-Diligence für Cloud-Verträge
@@ -14,7 +14,7 @@ description: "Datenschutz-Due-Diligence für Cloud-Vertraege: Sieben-Fragen-Diag
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Datenschutz-Due-Diligence für Cloud-Verträge. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Prüfung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutz-Due-Diligence für Cloud-Verträge. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Prüfraster für Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-für-Schritt für Pre-Contract-Prüfung und laufende Compliance. Mustertexte für Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
 ### IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
 
@@ -27,7 +27,7 @@ Sieben-Fragen-Diagnose:
 1. **Cloud-Typ:** IaaS (Infrastructure), PaaS (Platform), SaaS (Software as a Service)? Bestimmt die Verteilung der TOM-Verantwortung.
 2. **Anbietersitz:** EU/EWR, USA, andere Drittlaender? Konzernverflechtung?
 3. **Datenstandort:** Wo werden Daten konkret verarbeitet? Welche Regions waehlt der Mandant?
-4. **Schluesselverwaltung:** Bring Your Own Key, Customer Managed Key, Service Managed Key, Hold Your Own Key?
+4. **Schlüsselverwaltung:** Bring Your Own Key, Customer Managed Key, Service Managed Key, Hold Your Own Key?
 5. **Subprozessoren:** Welche, wo, mit welchen Vertraegen?
 6. **Zertifizierung:** ISO 27001, ISO 27017, ISO 27018, SOC 2, BSI C5, EU Cloud Code of Conduct?
 7. **Vertragslaufzeit und Exit:** Datenrueckgabe, Loeschnachweis, Notfall-Wechsel?

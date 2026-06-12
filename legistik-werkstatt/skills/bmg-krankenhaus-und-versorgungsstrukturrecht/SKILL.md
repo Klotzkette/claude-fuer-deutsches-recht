@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenhaus-und-versorgungsstrukturrecht
-description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Prue"
+description: "Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschäftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Länder (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Prue"
 ---
 
 # Krankenhaus- und Versorgungsstrukturrecht (BMG)
@@ -32,7 +32,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Spezialwissen
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Krankenhaus- und Versorgungsstrukturrecht im Geschäftsbereich BMG. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -45,7 +45,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Kernbestand des Sachfelds: KHG; KHEntgG; BPflV; KHGes der Länder; KHVVG (Krankenhausreform).
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -73,11 +73,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Kompetenzgrenzen Bund-Land; Notfallreform; Personalvorgaben.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Anschluss an die Legistik-Kette
 

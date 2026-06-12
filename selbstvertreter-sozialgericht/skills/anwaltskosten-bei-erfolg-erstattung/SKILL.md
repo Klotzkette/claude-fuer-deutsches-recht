@@ -28,7 +28,7 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 
 - **RVG**: Rechtsanwaltsverguetungsgesetz.
 - **Streitwert**: Wertfestsetzung; Grundlage der Gebühren.
-- **Geschaeftsgebuehr**: Anwaltsgebuehr für aussergerichtliche Taetigkeit.
+- **Geschäftsgebuehr**: Anwaltsgebuehr für aussergerichtliche Taetigkeit.
 - **Verfahrensgebuehr**: Gebuehr für das Verfahren.
 - **Terminsgebuehr**: Gebuehr für Termin.
 
@@ -51,7 +51,7 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 
 Bei einem SG-Verfahren typisch:
 
-- Geschaeftsgebuehr ca. 300 bis 700 EUR (aussergerichtlich)
+- Geschäftsgebuehr ca. 300 bis 700 EUR (aussergerichtlich)
 - Verfahrensgebuehr ca. 350 EUR
 - Terminsgebuehr ca. 300 EUR
 - Auslagenpauschale 20 EUR

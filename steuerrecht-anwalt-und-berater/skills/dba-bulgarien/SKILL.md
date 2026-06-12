@@ -15,7 +15,7 @@ description: "DBA Deutschland Bulgarien 2010. Anwendungsfall Outsourcing IT Pfle
 
 ## Kernsachverhalt
 
-Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 1987 und folgt OECD-MA 2008. Ein Aenderungsprotokoll vom 21.07.2022 ist am 13.12.2023 in Kraft getreten (BGBl. 2023 II Nr. 213). Praxisrelevant sind IT-Outsourcing (niedrige Lohnstuffe), Holding-Strukturen (bulgarische KSt 10 Prozent), Pflege-Arbeitnehmer. Bulgarien ist EU-Mitglied (Beitritt 01.01.2007).
+Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 1987 und folgt OECD-MA 2008. Ein Änderungsprotokoll vom 21.07.2022 ist am 13.12.2023 in Kraft getreten (BGBl. 2023 II Nr. 213). Praxisrelevant sind IT-Outsourcing (niedrige Lohnstuffe), Holding-Strukturen (bulgarische KSt 10 Prozent), Pflege-Arbeitnehmer. Bulgarien ist EU-Mitglied (Beitritt 01.01.2007).
 
 ## Kaltstart-Rueckfragen
 
@@ -32,7 +32,7 @@ Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 19
 
 ### Primaernormen
 - **DBA Deutschland-Bulgarien vom 25.01.2010**, in Kraft 21.12.2010, anwendbar ab 01.01.2011 (BGBl. 2010 II S. 1286; Bekanntmachung BGBl. 2011 II S. 584).
-- **Aenderungsprotokoll vom 21.07.2022**, in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213; Bekanntmachung BGBl. 2024 II Nr. 139).
+- **Änderungsprotokoll vom 21.07.2022**, in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213; Bekanntmachung BGBl. 2024 II Nr. 139).
 - **OECD-MA**.
 - **§§ 34c, 32b, 50d EStG**, § 7 ff. AStG.
 - **MTRL** (§ 43b EStG), **ZinsLizenzRL** (§ 50g EStG).
@@ -67,7 +67,7 @@ Das DBA-Bulgarien vom 25.01.2010 (BGBl. 2010 II S. 1286) ersetzte das DBA von 19
 
 ## Workflow
 
-Standard-Pruefungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
+Standard-Prüfungsraster (siehe `stb-dba-grundprinzip-oecd-musterabkommen`):
 
 1. Persoenliche Anwendbarkeit (Art. 1, 4) — Ansaessigkeit nach BG-Recht und DE-Recht; Tie-Breaker.
 2. Sachliche Anwendbarkeit (Art. 2) — erfasste Steuern.
@@ -89,14 +89,14 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 
 - **Erstattungsverfahren BG → DE-Mandant**: Antrag bei der NRA (Natsionalna agentsiya za prihodite, Nationale Steueragentur); Online-Portal der NRA (vom Anwender mit aktuellem Stand des bulgarischen Online-Portals zu verifizieren). Ansaessigkeitsbescheinigung der NRA als Anlage.
 - **Sprache des DBA**: Authentische Textfassungen Deutsch, Bulgarisch und Englisch (DBA-Bulgarien 2010 als modernes DBA trilingual; bei strittiger Auslegung Englisch als praktische Pivot-Sprache).
-- **Lokaler Berater**: Bei bulgarischer EOOD (GmbH-Äquivalent) oder OOD mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines bulgarischen "danachen konsultant" wegen niedriger KSt 10 Prozent und einfacherer Pruefungspraxis; aber: Substanznachweis für DE-Erstattung wird streng geprueft.
+- **Lokaler Berater**: Bei bulgarischer EOOD (GmbH-Äquivalent) oder OOD mit deutschem Anteilseigner empfiehlt sich Hinzuziehung eines bulgarischen "danachen konsultant" wegen niedriger KSt 10 Prozent und einfacherer Prüfungspraxis; aber: Substanznachweis für DE-Erstattung wird streng geprueft.
 - **Apostille**: nicht erforderlich zwischen EU-Mitgliedstaaten (BG seit 2007 EU).
 
 ## Edge Cases und Was-Prüfer-Triggert
 
 - **BG-KSt 10 Prozent — niedrigste EU-Rate**: zwingend unter AStG-Niedrigsteuerschwelle 15 Prozent — CFC-Hinzurechnung bei passiven Einkuenften.
 - **Pillar Two Top-Up**: BG hat EU-Pillar-Two-RL umgesetzt; multinational über 750 Mio EUR Umsatz unterliegen Top-Up auf 15 Prozent — für KMU bleibt 10-Prozent-Vorteil.
-- **Aenderungsprotokoll 2022/2023**: zum 13.12.2023 in Kraft getreten — Neuerungen prüfen, insbesondere Anti-Missbrauch und Schiedsverfahren.
+- **Änderungsprotokoll 2022/2023**: zum 13.12.2023 in Kraft getreten — Neuerungen prüfen, insbesondere Anti-Missbrauch und Schiedsverfahren.
 - **Pflege-Arbeitnehmer aus Bulgarien in DE**: oft Konstruktion über bulgarische Service-Gesellschaft mit Entsendung nach DE; Lohnsteuer-Prüfung nach 183-Tage-Regel; A1-Bescheinigung nach EU-VO 883/2004.
 - **IT-Outsourcing-Substanz**: Prüfer hinterfragt bei reinen Off-the-Shelf-Holdings ohne Personal in BG.
 - **Bulgarische Sondersteuern**: zusaetzlich zur 10-Prozent-KSt erhebt BG diverse lokale Abgaben (Gewerbeflaechensteuer, Tourismussteuer), die durch DBA NICHT erfasst sind.
@@ -107,7 +107,7 @@ BZSt-Verfahren: Freistellungsbescheinigung § 50c Abs. 2 EStG vorab; Erstattung 
 |---|---|---|---|
 | BG-Holding 10 Prozent vs. CFC-Hinzurechnung | BG-Tochter operativ aktiv: 10 Prozent KSt-Vorteil | DE-CFC bei passiven Einkuenften: Hinzurechnung mit DE-Steuersatz | bei aktivem Geschäft Aktivitaetskatalog § 8 AStG prüfen; bei passiver Holding fast immer CFC |
 | EU-MTRL vs. DBA-Schachtel | EU-MTRL: 0 Prozent ab 10 Prozent | DBA-BG: 5 Prozent ab 10 Prozent | EU-MTRL vorrangig (§ 43b EStG) |
-| Pflege-Service mit BG-Gesellschaft vs. direkte AUe | BG-Werkvertrag-Service nach DE: keine deutsche Lohnsteuer bei korrekter Werksvertragsgestaltung | direkte Arbeitnehmerueberlassung nach AUeG mit Erlaubnis | bei korrektem Service-Vertrag (Werkvertrag, Selbstaendigkeit der BG-Gesellschaft) Steuerprivileg; aber Vorsicht: BAG-Rechtsprechung qualifiziert oft AUe — Beratungsbedarf |
+| Pflege-Service mit BG-Gesellschaft vs. direkte AUe | BG-Werkvertrag-Service nach DE: keine deutsche Lohnsteuer bei korrekter Werksvertragsgestaltung | direkte Arbeitnehmerueberlassung nach AUeG mit Erlaubnis | bei korrektem Service-Vertrag (Werkvertrag, Selbständigkeit der BG-Gesellschaft) Steuerprivileg; aber Vorsicht: BAG-Rechtsprechung qualifiziert oft AUe — Beratungsbedarf |
 
 ## Berechnungsbeispiel
 
@@ -125,7 +125,7 @@ DE-Mutter haelt 100 Prozent an bulgarischer EOOD; BG-Gewinn 150.000 EUR, BG-KSt 
 2. **Strukturierung**: BG-KSt 10 Prozent — CFC-Prüfung obligatorisch; Pillar Two bei Konzern über 750 Mio EUR; bei Holding Substanz § 50d Abs. 3 EStG.
 3. **Antraege**: Ansaessigkeitsbescheinigung NRA; EU-MTRL/EU-ZinsLizenzRL-Freistellung BZSt.
 4. **Laufende Compliance**: BG-Erklaerung jaehrlich; DE-Erklaerung mit Anrechnung und ggf. CFC-Hinzurechnung.
-5. **Audit-Vorbereitung**: BG-Prüfer formal; DE-FA-Prüfung CFC und Substanz; ab Aenderungsprotokoll 2022/2023 weitere Anti-Missbrauch.
+5. **Audit-Vorbereitung**: BG-Prüfer formal; DE-FA-Prüfung CFC und Substanz; ab Änderungsprotokoll 2022/2023 weitere Anti-Missbrauch.
 
 ## Ausgabeformat für Mandanten-Memo Bulgarien
 
@@ -142,15 +142,15 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
  - § 7 ff. AStG-CFC; Pillar Two bei Konzern über 750 Mio EUR.
  - Innerstaatliche Umsetzung (§§ 32b, 34c, 50d EStG; § 43b EStG).
 5. **Gesamtergebnis** mit Berechnungsbeispiel.
-6. **Risiken / offene Punkte**: Aenderungsprotokoll 2022/2023, § 50d Abs. 3 EStG, Pillar Two, MLI-Status.
+6. **Risiken / offene Punkte**: Änderungsprotokoll 2022/2023, § 50d Abs. 3 EStG, Pillar Two, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
 ## Quellenpflicht
 
-Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Bulgarien 2010 mit Aenderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
+Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Bulgarien 2010 mit Änderungsprotokoll Fundstellen, BMF-Schreiben verbindlich zitieren.
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Bulgarien 25.01.2010, in Kraft 21.12.2010 (BGBl. 2010 II S. 1286). Aenderungsprotokoll 21.07.2022 in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
+Stand: 05/2026. DBA-Bulgarien 25.01.2010, in Kraft 21.12.2010 (BGBl. 2010 II S. 1286). Änderungsprotokoll 21.07.2022 in Kraft 13.12.2023 (BGBl. 2023 II Nr. 213). MLI-Status: nicht als Covered Tax Agreement im deutschen BEPS-MLI-Anwendungsgesetz gelistet (Stand 01.01.2026). Dividenden 5/15 Prozent, Zinsen 5 Prozent, Lizenzen 5 Prozent. Aktuellen Stand im BMF-DBA-Verzeichnis prüfen.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2010 II S. 1286; Aenderungsprotokoll 2022 ergaenzt; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben neu formuliert), 0 gestrichen -->
+<!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 7 geprueft und bestaetigt (BGBl-Fundstelle korrigiert 2010 II S. 1286; Änderungsprotokoll 2022 ergaenzt; MLI-Status geklaert; Quellensteuer-Saetze bestaetigt; BMF-Schreiben neu formuliert), 0 gestrichen -->

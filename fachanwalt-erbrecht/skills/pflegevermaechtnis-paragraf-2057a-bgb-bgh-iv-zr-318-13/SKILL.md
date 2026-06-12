@@ -32,7 +32,7 @@ Tochter pflegte Mutter 6 Jahre; Geschwister wollen gleichen Erbanteil.
 
 ## Arbeitsergebnis
 
-Ausgleich bei besonderem Beitrag zur Erhaltung des Vermoegens; Berechnung nach Stunden.
+Ausgleich bei besonderem Beitrag zur Erhaltung des Vermögens; Berechnung nach Stunden.
 
 ## Belege und Aktenlücken
 

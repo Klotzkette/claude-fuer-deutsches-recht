@@ -1,9 +1,9 @@
 ---
 name: vermoegensanlage-quellenkarte
-description: "Vermoegensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
+description: "Vermögensanlage Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert."
 ---
 
-# Vermoegensanlage Quellenkarte
+# Vermögensanlage Quellenkarte
 
 ## Zweck
 

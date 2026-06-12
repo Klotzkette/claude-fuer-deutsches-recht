@@ -25,7 +25,7 @@ description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren 
 3. **Aktivlegitimation** gemäß § 8 Abs. 3 UWG: Mitbewerber, qualifizierter Wirtschaftsverband, Kammer?
 4. **Abmahnung versandt?** Ohne Abmahnung: Kostenrisiko bei sofortigem Verfuegungsantrag (§ 13 Abs. 3 UWG).
 5. **Schutzschrift hinterlegt** (Verteidigung)? Wenn ja: muendliche Verhandlung wahrscheinlich.
-6. **Missbrauch pruefe** (§ 8c UWG): Serienabmahner-Check vor jedem Antrag.
+6. **Missbrauch prüfe** (§ 8c UWG): Serienabmahner-Check vor jedem Antrag.
 
 ## Zentrale Normen und Paragrafenkette
 

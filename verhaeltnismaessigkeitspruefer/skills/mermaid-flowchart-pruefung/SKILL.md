@@ -1,6 +1,6 @@
 ---
 name: mermaid-flowchart-pruefung
-description: Mermaid-Flowchart fuer die Verhaeltnismaessigkeitspruefung mit Stufen Entscheidungsknoten und Pfaden bei Scheitern auf Stufe 1 bis 4. Mit Codebeispielen Anwendungshinweisen und Tipps zur Einbettung in Markdown.
+description: Mermaid-Flowchart fuer die Verhältnismäßigkeitspruefung mit Stufen Entscheidungsknoten und Pfaden bei Scheitern auf Stufe 1 bis 4. Mit Codebeispielen Anwendungshinweisen und Tipps zur Einbettung in Markdown.
 ---
 
 # Mermaid Flowchart Prüfung
@@ -49,5 +49,5 @@ flowchart TD
 - In Markdown-Datei zwischen drei Backticks mit mermaid einbetten.
 - GitHub rendert Mermaid automatisch in Wiki und in normalen Repos.
 - Bei Klausur als Skizze auf Papier reproduzierbar.
-- Knoten mit Fallnummern beschriften für den jeweils zu pruefenden
+- Knoten mit Fallnummern beschriften für den jeweils zu prüfenden
   Sachverhalt.

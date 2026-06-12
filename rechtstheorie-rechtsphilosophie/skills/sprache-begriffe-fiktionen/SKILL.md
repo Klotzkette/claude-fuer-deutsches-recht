@@ -1,6 +1,6 @@
 ---
 name: sprache-begriffe-fiktionen
-description: "Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung."
+description: "Prüft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung."
 ---
 
 # Sprache, Begriffe und Fiktionen

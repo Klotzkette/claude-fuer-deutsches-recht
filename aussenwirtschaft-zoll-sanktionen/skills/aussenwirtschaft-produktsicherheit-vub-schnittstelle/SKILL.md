@@ -16,7 +16,7 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 ## Mandantenfall
 
 - Importeur bringt Elektrogeraete aus China ein; RAPEX-Warnung für aehnliches Modell im System.
-- Zollamt haelt Sendung auf; CE-Kennzeichnung nicht erkennbar echt; Pruefpflicht.
+- Zollamt haelt Sendung auf; CE-Kennzeichnung nicht erkennbar echt; Prüfpflicht.
 - Spielzeug-Einfuhr aus Drittland; Zollstelle fordert Konformitaetserklarung und technische Dokumentation.
 
 ## Erste Schritte
@@ -24,7 +24,7 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 1. Produktkategorie identifizieren und anwendbare EU-Richtlinien/Verordnungen bestimmen (LVD, EMV, SpielzeugRL).
 2. CE-Kennzeichnungspflicht prüfen und Konformitaetserklarung vollstaendig?
 3. RAPEX-Datenbank auf Warnmeldungen für Produkt und Modell prüfen.
-4. Technische Dokumentation und Pruefberichte vorbereiten.
+4. Technische Dokumentation und Prüfberichte vorbereiten.
 5. Zollstellen-VuB-Codes in TARIC für Produktkategorie prüfen.
 6. Bei Aufhaltung: Rechtsmittel und Schnellpruefverfahren koordinieren.
 
@@ -36,7 +36,7 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 - **RL 2014/53/EU (RED)**: Funkanlagen.
 - **§ 6 ProdSG**: Bereitstellungsverbote bei unsicheren Produkten im nationalen Recht.**
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Anwendbare EU-Richtlinien und CE-Pflicht für Produktkategorie geprueft?
 - [ ] CE-Kennzeichnung und Konformitaetserklarung vollstaendig?
@@ -49,7 +49,7 @@ description: "Schnittstelle zwischen Produktsicherheitsanforderungen und Verbote
 
 - CE-Faelschungen aus Drittlaendern; Zollamt und Marktueberwaechungsbehoerde prüfen auf Echtheit.
 - RAPEX-Meldung loest automatische verstaerkte Kontrolle aus; Importeur nicht immer informiert.
-- Technische Dokumentation nur auf Chinesisch; Zollstelle verlangt deutsche Uebersetzung.
+- Technische Dokumentation nur auf Chinesisch; Zollstelle verlangt deutsche Übersetzung.
 - Spielzeug-Einzel-Spezifikationen wurden seit Produktionsstart geaendert; Konformitaetserklarung nicht aktualisiert.
 
 ## Schnittstellen zu anderen Skills
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

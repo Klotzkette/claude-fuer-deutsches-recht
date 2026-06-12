@@ -12,7 +12,7 @@ Einfache Sprache oder Leichte Sprache.
 1. Einfache Sprache oder Leichte Sprache — Zielgruppe bekannt?
 2. Welches Format: Brief, Bescheid, Formular, Website, Flyer, Gerichtsinformation?
 3. Darf der Text inhaltlich gekuerzt werden oder muss alles erhalten bleiben?
-4. Gibt es einen institutionellen Hausstil oder Pruefgruppen für Leichte Sprache?
+4. Gibt es einen institutionellen Hausstil oder Prüfgruppen für Leichte Sprache?
 
 ## Aktuelle Rechtsprechung
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -43,7 +43,7 @@ Konkret zu prüfen:
 | Format | Brief / Bescheid / Website / Formular |
 | Vollstaendigkeit | vollstaendig / Zusammenfassung OK |
 | Hausstil vorhanden | ja/nein |
-| Pruefgruppe vorhanden | ja/nein |
+| Prüfgruppe vorhanden | ja/nein |
 
 **Naechster Schritt:** Lade `elsj-einfache-sprache` oder `elsj-leichte-sprache` + immer `elsj-juristische-sicherung`.
 

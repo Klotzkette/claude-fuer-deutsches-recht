@@ -36,7 +36,7 @@ description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ue
 - **Art. 9 VO (EU) 2021/821**: ICP-Voraussetzungen als Antragsbestandteil.
 - **§ 18 AWG**: Strafbarkeit bei unerlaubter Ausfuhr ohne Genehmigung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Gueterlisten-Code eindeutig und korrekt?
 - [ ] EUC vollstaendig, unterschrieben und authentisch?
@@ -50,7 +50,7 @@ description: "Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ue
 - Unvollstaendige EUC ist haeufigster Rueckweisungsgrund; Authentizitaet des Unterschreibers prüfen.
 - Technische Parameter nicht auf Listeneintrag abgestimmt; keine pauschale Beschreibung.
 - Sammelgenehmigungsantrag erfordert abweichende Formularwahl von Einzelantrag.
-- Lieferplan muss realistisch sein; spaetere Aenderungen erfordern Nachtrag.
+- Lieferplan muss realistisch sein; spaetere Änderungen erfordern Nachtrag.
 
 ## Schnittstellen zu anderen Skills
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

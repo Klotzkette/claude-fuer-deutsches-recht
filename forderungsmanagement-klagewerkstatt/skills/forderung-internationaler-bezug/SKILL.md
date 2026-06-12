@@ -5,7 +5,7 @@ description: "Forderungssache mit Auslandsbezug Schuldner im EU-Ausland oder aus
 
 # Forderung mit internationalem Bezug
 
-Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
+Auslandsbezug ändert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 
 ## Routing nach Schuldnerstandort
 
@@ -34,7 +34,7 @@ Auslandsbezug aendert Zuständigkeit anwendbares Recht und Vollstreckungspfad.
 
 ## Verbrauchergerichtsstand
 
-Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 18 Brüssel Ia. Glaeubiger muss dort klagen.
+Bei Verbrauchersachen kann Verbraucher nur im Wohnsitzstaat verklagt werden Art 18 Brüssel Ia. Gläubiger muss dort klagen.
 
 ## Vollstreckung in Drittstaaten
 

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-fertigstellungsfrist-und-verzug
-description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhaeltnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Pruefraster."
+description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhältnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Prüfraster."
 ---
 
 # Bautraeger Fertigstellungsfrist und Verzug
@@ -14,7 +14,7 @@ description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Verei
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger Fertigstellungsfrist und Verzug. Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhaeltnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Pruefraster.
+**Fokus:** Bautraeger Fertigstellungsfrist und Verzug. Skill klaert die Vereinbarung der Bauzeit Verzugsfolgen Vertragsstrafe und das Verhältnis zur MaBV. BGH-Linie zu zu weiten Verzugsfristen. Liefert Prüfraster.
 
 ### Bautraeger Fertigstellungsfrist Und Verzug
 
@@ -38,7 +38,7 @@ description: "Bautraeger Fertigstellungsfrist und Verzug: Skill klaert die Verei
 - Keine Platzhalter-Rechtsprechung verwenden. Fertigstellungsklauseln über § 307 Abs. 1 Satz 2 BGB (Transparenz), § 308 Nr. 1 BGB (unangemessen lange Leistungsfrist), §§ 280 Abs. 1 und 2, 286 BGB (Verzug), §§ 323, 346 BGB (Rücktritt) und den MaBV-Zahlungsplan prüfen.
 - Erwerberrechte hängen nicht an einer starren "6-Monats-Grenze", sondern an konkreter Bauzeitvereinbarung, Zumutbarkeit, Verzögerungsgrund, Mahnung/Entbehrlichkeit und Nachfriststrategie. BGH-Rechtsprechung nur mit konkretem Aktenzeichen aus BGH-/dejure-/openJur-Check zitieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Fertigstellungsfrist konkret?
 2. Vertragsstrafe vereinbart?

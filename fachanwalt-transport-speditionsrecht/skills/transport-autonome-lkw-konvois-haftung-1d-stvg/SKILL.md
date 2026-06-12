@@ -95,7 +95,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — Haftung autonome LKW-Konvois prüfen | Haftungsgutachten; Template unten |
 | Variante A — Versicherungsfall klar | Direktklage gegen Versicherer § 115 VVG |
 | Variante B — Herstellerdefekt des Fahrsystems | Produkthaftung § 1 ProdHaftG parallel zur StVG-Haftung |
-| Variante C — Grenzueberschreitender Unfall EU | CMR-Haftung prüfen; auslaendisches Unfallort-Recht |
+| Variante C — Grenzueberschreitender Unfall EU | CMR-Haftung prüfen; ausländisches Unfallort-Recht |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 

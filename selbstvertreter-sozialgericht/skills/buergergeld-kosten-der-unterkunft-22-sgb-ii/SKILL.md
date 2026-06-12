@@ -1,6 +1,6 @@
 ---
 name: buergergeld-kosten-der-unterkunft-22-sgb-ii
-description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster."
+description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Prüfraster."
 ---
 
 # Buergergeld Kosten Der Unterkunft 22 Sgb Ii
@@ -35,7 +35,7 @@ description: "Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill k
 
 - Tatsaechliche Höhe, soweit nicht uebermäßiger Verbrauch.
 
-## Pruefraster
+## Prüfraster
 
 1. KdU in tatsaechlicher Höhe?
 2. Angemessenheit gepruef?

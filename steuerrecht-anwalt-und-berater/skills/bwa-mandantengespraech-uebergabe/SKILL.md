@@ -1,9 +1,9 @@
 ---
 name: bwa-mandantengespraech-uebergabe
-description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechs..."
+description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klärung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechs..."
 ---
 
-# BWA-Uebergabegespraech mit dem Mandanten
+# BWA-Übergabegespraech mit dem Mandanten
 
 ## Fachlicher Anker
 
@@ -13,7 +13,7 @@ description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persönli
 
 ## Kernsachverhalt
 
-Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem Mandanten das andere. Bei wesentlichen Abweichungen, bei Krisensignalen und bei strategischen Entscheidungen ist das persönliche oder zumindest telefonische Gespraech der Standard. Der Steuerberater bereitet sich vor, fuehrt das Gespraech strukturiert, dokumentiert die Ergebnisse und vereinbart Folgemassnahmen. Das Gespraech ist auch Haftungsschutz: was muendlich besprochen wurde, ist in der Gespraechsnotiz festzuhalten.
+Die schriftliche BWA mit Erläuterungstext ist das eine; das Gespraech mit dem Mandanten das andere. Bei wesentlichen Abweichungen, bei Krisensignalen und bei strategischen Entscheidungen ist das persönliche oder zumindest telefonische Gespraech der Standard. Der Steuerberater bereitet sich vor, fuehrt das Gespraech strukturiert, dokumentiert die Ergebnisse und vereinbart Folgemassnahmen. Das Gespraech ist auch Haftungsschutz: was muendlich besprochen wurde, ist in der Gespraechsnotiz festzuhalten.
 
 ## Kaltstart-Rueckfragen
 
@@ -36,7 +36,7 @@ Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem M
 
 **§ 102 StaRUG** — Hinweispflicht bei Krisensignalen; im Gespraech persoenlich auszusprechen.
 
-**§ 31 StBerG** — Selbstaendigkeit; eigenverantwortliche Beurteilung.
+**§ 31 StBerG** — Selbständigkeit; eigenverantwortliche Beurteilung.
 
 **§ 5 RDG** — Abgrenzung Rechtsberatung; bei rechtlichen Themen Verweis auf Anwalt.
 
@@ -50,7 +50,7 @@ Die schriftliche BWA mit Erlaeuterungstext ist das eine; das Gespraech mit dem M
 
 ### Phase 1 — Vorbereitung
 
-- BWA und Erlaeuterungstext durchsehen, wesentliche Abweichungen markieren.
+- BWA und Erläuterungstext durchsehen, wesentliche Abweichungen markieren.
 - SuSa und OPOS-Liste vorbereiten.
 - Bei groesseren Mandanten: Liquiditaetsplan (3-Wochen oder 3-6-12 Monate).
 - Krisensignale identifizieren (Eigenkapital, SV-Rueckstaende, Liquiditaetsluecke).

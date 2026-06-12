@@ -1,6 +1,6 @@
 ---
 name: uebergang-beitragsschuld
-description: "Prüft, wer Beiträge schuldet, wann Ansprüche entstehen und wie Umstellung operativ gelingt im Sozialversicherungsstatus Pruefer."
+description: "Prüft, wer Beiträge schuldet, wann Ansprüche entstehen und wie Umstellung operativ gelingt im Sozialversicherungsstatus Prüfer."
 ---
 
 # Übergang und Beitragsschuld

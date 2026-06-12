@@ -114,7 +114,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Standard — KI-Einsatz bei Gutachtenerstellung auf Mandantsseite | KI-Einsatz nach Schema; Checkliste unten |
 | Variante A — Mandant lehnt KI-Einsatz ab | Manuelle Bearbeitung ohne KI; Dokumentation anpassen |
 | Variante B — Gutachten geht an Gericht KI-Kennzeichnung noetig | Kennzeichnungspflichten-Skill parallel verwenden |
-| Variante C — KI-Output enthalt Halluzinationen | Halluzinations-Handhabung-Skill einschalten; Pruefprotokoll erstellen |
+| Variante C — KI-Output enthalt Halluzinationen | Halluzinations-Handhabung-Skill einschalten; Prüfprotokoll erstellen |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
@@ -222,7 +222,7 @@ DRAFT — Procedural Order No. [X] — AI Disclosure
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
@@ -260,4 +260,4 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 <!-- AUDIT 27.05.2026: 3 halluzinierte Entscheidungen entfernt.
 - BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
-Pruefmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->
+Prüfmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->

@@ -29,7 +29,7 @@ Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert
 **Argument-Replik-Schemata.**
 
 **StA: "Die Zeugin wirkt glaubwuerdig."**
-Replik: Glaubwuerdigkeit der Person ist ein subjektiver Eindruck und nicht das aussagepsychologisch operationalisierte Pruefkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, geprueft anhand der Realkennzeichen, der Konstanz und der Aussagegenese (BGH, 1 StR 618/98, BGHSt 45, 164).
+Replik: Glaubwuerdigkeit der Person ist ein subjektiver Eindruck und nicht das aussagepsychologisch operationalisierte Prüfkriterium. Massgeblich ist die Glaubhaftigkeit der Aussage, geprueft anhand der Realkennzeichen, der Konstanz und der Aussagegenese (BGH, 1 StR 618/98, BGHSt 45, 164).
 
 **StA: "Die Aussage ist detailreich, also wahr."**
 Replik: Detailreichtum ist eines von 19 CBCA-Kriterien nach Steller/Koehnken und allein nicht ausschlaggebend. Detailreichtum kann auch durch Imagination, Wiederholung, Therapie oder erlernte Falschaussage entstehen. Massgeblich ist das gesamte Realkennzeichen-Profil und die Aussagegenese.
@@ -83,14 +83,14 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 ## Mustertexte
 
 **Mustersatz für Plaedoyer-Einleitung:**
-"Die Anklageschrift fuehrt aus, die Zeugin habe glaubwuerdig ausgesagt, ihre Aussage sei detailreich, konstant und traumatypisch. Bitte verzeihen Sie, dass ich an dieser Stelle methodisch eingreife: Glaubwuerdigkeit der Person ist nicht das aussagepsychologische Pruefkriterium. Detailreichtum allein ist nicht hinreichend. Konstanz kann auch Skripteffekt sein. Und Trauma-Symptome beweisen den Stressor nicht, sondern nur die Reaktion. Massgeblich ist nach der staendigen Rechtsprechung des BGH (1 StR 618/98) die methodische Prüfung der Aussage nach der Hypothesen-gegen-Hypothesen-Methode."
+"Die Anklageschrift fuehrt aus, die Zeugin habe glaubwuerdig ausgesagt, ihre Aussage sei detailreich, konstant und traumatypisch. Bitte verzeihen Sie, dass ich an dieser Stelle methodisch eingreife: Glaubwuerdigkeit der Person ist nicht das aussagepsychologische Prüfkriterium. Detailreichtum allein ist nicht hinreichend. Konstanz kann auch Skripteffekt sein. Und Trauma-Symptome beweisen den Stressor nicht, sondern nur die Reaktion. Massgeblich ist nach der staendigen Rechtsprechung des BGH (1 StR 618/98) die methodische Prüfung der Aussage nach der Hypothesen-gegen-Hypothesen-Methode."
 
 **Mustersatz für Plaedoyer-Schluss:**
 "Die methodische Prüfung der Aussage nach der Rechtsprechung des BGH ergibt: Die Wahrhypothese ist nicht mit hinreichender Sicherheit gestuetzt. Die Suggestionshypothese — aufgrund der dokumentierten Mehrfachvernehmungen, der therapeutischen Aufdeckung, der sozialen Kontextualisierung — bleibt eine ernstzunehmende Alternative. Die Null-Hypothese ist nicht widerlegt. Damit greift in dubio pro reo. Mein Mandant ist freizusprechen."
 
 ## Quellen Stand 06/2026
 
-- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, methodische Pruefpflicht).
+- BGH, Urteil vom 30.07.1999, 1 StR 618/98, BGHSt 45, 164 (Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, methodische Prüfpflicht).
 - BGH staendige Rechtsprechung zur Beweiswuerdigung in Aussage-gegen-Aussage-Konstellationen (Aktenzeichen mit aktueller BGH-Linie verifizieren).
 - Steller, M., Koehnken, G., CBCA und Realkennzeichen-Methodik (Lehrbuch-Bezug, generisch).
 - Volbert, R., zur Aussagepsychologie in Strafverfahren (Lehrbuch-Bezug, generisch).

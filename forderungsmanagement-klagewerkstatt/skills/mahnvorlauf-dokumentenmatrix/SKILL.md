@@ -27,7 +27,7 @@ Der Mahnvorlauf entscheidet über Verzugsbeginn und über Erstattung der Inkasso
 | Versandart | Zugang |
 |---|---|
 | Einfacher Brief | nur mit weiterem Beweis |
-| Einschreiben Uebergabe | Empfangsbestaetigung Postdienstleister |
+| Einschreiben Übergabe | Empfangsbestaetigung Postdienstleister |
 | Einschreiben Rueckschein | unterzeichneter Rueckschein |
 | Einwurf-Einschreiben | Auslieferungsbeleg plus Sendungsverlauf |
 | E-Mail | Eingangs- und Lesebestaetigung erforderlich |

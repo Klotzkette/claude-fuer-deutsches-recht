@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-dual-use-forschung-hochschule
-description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken..."
+description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prüfung für akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen für Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken..."
 ---
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle
@@ -23,7 +23,7 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 
 1. Forschungsgegenstand und Technologie auf Dual-Use-Listeneintrag prüfen (Anhang I VO 2021/821).
 2. Ausnahme für Grundlagenforschung (Art. 2 Nr. 9 VO 2021/821) und öffentlich zugaengliche Info prüfen.
-3. Wissenstransfer an auslaendische Beteiligte als 'Verbringung' oder 'Ausfuhr' einordnen.
+3. Wissenstransfer an ausländische Beteiligte als 'Verbringung' oder 'Ausfuhr' einordnen.
 4. Endverwender-Prüfung für Auslandsstudierende und Kooperationspartner.
 5. Genehmigung bei BAFA beantragen falls kein Ausnahmetatbestand greift.
 6. Hochschulleitung und Forschungsfoerderer über Compliance-Anforderungen informieren.
@@ -36,12 +36,12 @@ description: "Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Prue
 - **§ 9 AWV**: Genehmigungsfreie Ausfuhren (Grenzen im akademischen Bereich).
 - **VO (EU) 2021/821 Anhang I Kategorie 5**: Telekommunikation/Informationssicherheit.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Technologie im Dual-Use-Anhang I gelistet?
 - [ ] Grundlagenforschungs-Ausnahme sachlich anwendbar?
 - [ ] Publikation nicht bereits vor Genehmigung öffentlich zugaenglich?
-- [ ] Endverwender auslaendischer Partner geprueft?
+- [ ] Endverwender ausländischer Partner geprueft?
 - [ ] Catch-All für nicht-gelistete sensitive Technologien geprueft?
 - [ ] Hochschulleitung und Compliance-Stelle informiert?
 
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

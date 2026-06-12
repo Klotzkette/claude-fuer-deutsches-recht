@@ -41,7 +41,7 @@ Sie können die Klage auch per Fax schicken. Das geht schnell. Sie haben einen B
 ### Schritt 1 — Aktuelle Faxnummer prüfen
 
 - Auf www.sozialgerichtsbarkeit.de
-- Oder bei der Geschaeftsstelle anrufen.
+- Oder bei der Geschäftsstelle anrufen.
 
 Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Prüfen Sie immer aktuell.
 

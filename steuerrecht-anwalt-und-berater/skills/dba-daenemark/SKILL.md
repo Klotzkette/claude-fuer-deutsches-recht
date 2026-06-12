@@ -19,7 +19,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 ## Kaltstart-Rueckfragen
 
-1. Welche Konstellation: Arbeitnehmer, Selbstaendiger, Beteiligungsempfaenger?
+1. Welche Konstellation: Arbeitnehmer, Selbständiger, Beteiligungsempfaenger?
 2. Pendler? Taegliche Rueckkehr? Es gibt keine "klassische" Grenzgaengerregelung wie F/CH/AT.
 3. Bei Pension: gesetzliche Folkepension, ATP, betriebliche?
 4. Bei Beteiligung: Schachtel oder Streubesitz?
@@ -33,7 +33,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 ### Primaernormen
 
 - **DBA Deutschland-Daenemark vom 22.11.1995**, in Kraft 25.12.1996, anwendbar ab 01.01.1997 (BGBl. 1996 II S. 2565; BStBl. 1996 I S. 1219).
-- Aenderungsprotokoll, in Kraft 23.12.2021, anwendbar ab 01.01.2022 (BGBl. 2021 II S. 483).
+- Änderungsprotokoll, in Kraft 23.12.2021, anwendbar ab 01.01.2022 (BGBl. 2021 II S. 483).
 - **OECD-MA 1992/2017**.
 - **§§ 34c, 32b, 50d EStG**, § 20 AStG.
 - **MLI**: Deutschland und Daenemark haben das MLI unterzeichnet und ratifiziert; DBA-DE-DK gilt MLI-modifiziert. Aktuellen Synthesetext im BMF-Verzeichnis prüfen.
@@ -54,7 +54,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 ### Aktive Einkuenfte
 - Unternehmensgewinne Art. 7.
 - Loehne Art. 15: 183-Tage-Regel, **keine** klassische Grenzgaengerregelung.
-- Schifffahrt/Luftverkehr (Art. 8): tatsaechliche Geschaeftsleitung der Reederei.
+- Schifffahrt/Luftverkehr (Art. 8): tatsaechliche Geschäftsleitung der Reederei.
 
 ### Passive Einkuenfte
 - **Dividenden** (Art. 10): 5 Prozent (Schachtel ab 10 Prozent Beteiligung), 15 Prozent (Streubesitz). EU-MTRL 0 Prozent vorrangig.
@@ -79,7 +79,7 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 ### Phase 4 — Verteilungs- und Methodenartikel
 ### Phase 5 — Erstattung / Erklaerung
 
-(Allgemeines DBA-Pruefungsraster siehe `stb-dba-grundprinzip-oecd-musterabkommen`.)
+(Allgemeines DBA-Prüfungsraster siehe `stb-dba-grundprinzip-oecd-musterabkommen`.)
 
 ## Strategie und Praxis-Tipps
 
@@ -98,11 +98,11 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 - **Frist**: nach daenischem Steuerrecht regelmaessig **drei Jahre** ab Faelligkeit — knappe Frist.
 - **Bearbeitungsdauer SKAT**: nach den Cum-Ex-Skandalen oft **24-60 Monate** und langwierige Plausibilitaetspruefungen. Bei substanziellen Erstattungsbetraegen daenischen Berater einbinden.
 - **Online-Portal**: **skat.dk** zentral; "TastSelv" Steuer-Konto. Englische Sprachversion verfuegbar.
-- **Sprache**: DA/EN/DE möglich; offizielle Bescheide in DA — bei strittigen Faellen Uebersetzung prüfen.
+- **Sprache**: DA/EN/DE möglich; offizielle Bescheide in DA — bei strittigen Faellen Übersetzung prüfen.
 
 ### Lokaler Steuerberater-Kontakt
 
-- **Empfehlung**: bei jeder Holding-Dividenden-Konstellation mit DK-Quellensteuer (wegen Cum-Ex-Pruefungsschaerfe); bei Schiffsoffizieren mit daenischer Flagge; bei Folkepension/ATP-Aufteilung. Kopenhagener Kanzleien.
+- **Empfehlung**: bei jeder Holding-Dividenden-Konstellation mit DK-Quellensteuer (wegen Cum-Ex-Prüfungsschaerfe); bei Schiffsoffizieren mit daenischer Flagge; bei Folkepension/ATP-Aufteilung. Kopenhagener Kanzleien.
 
 ### Online-Portale
 
@@ -114,14 +114,14 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Schachteldividende DK-A/S an DE-Mutter über DBA Art. 10 (5 Prozent) vs. EU-MTRL (0 Prozent) | 5 Prozent QSt einbehalten, Erstattung via SKAT | 0 Prozent via Freistellung vor Ausschuettung | § 43b EStG vorzugswuerdig — Antragsweg an daenische Quelle vor Ausschuettung |
-| Schiffsoffizier daenische Flagge Heimathafen DE-Wohnsitz | Schifffahrt Art. 8: tatsaechliche Geschaeftsleitung Reederei (DK) — DK-Besteuerung | bei Wohnsitz DE Versuch der DE-Besteuerung nach Art. 15 | DBA-Text Art. 8/15 strikt prüfen; haeufig DK-Besteuerung durchsetzbar |
+| Schiffsoffizier daenische Flagge Heimathafen DE-Wohnsitz | Schifffahrt Art. 8: tatsaechliche Geschäftsleitung Reederei (DK) — DK-Besteuerung | bei Wohnsitz DE Versuch der DE-Besteuerung nach Art. 15 | DBA-Text Art. 8/15 strikt prüfen; haeufig DK-Besteuerung durchsetzbar |
 | Pendler Schleswig-Holstein nach DK | keine Grenzgaengerregelung — 183-Tage-Regel | bei laengerem DK-Aufenthalt: DK-Steueranspruch | klassische 183-Tage-Doku |
 
 ## Edge Cases — was Prüfer triggert
 
 - **Folkepension Klassifikation**: daenische gesetzliche Grundrente — DBA enthaelt **Spezialklausel**, die nicht standardmaessig dem Wohnsitzstaat zuweist. Genaue Klausel im DBA-Text Art. 18 prüfen.
 - **ATP-Rente**: separate Arbeitsmarkt-Tillaegspension — eigene Klassifikation neben Folkepension und betrieblicher Pension.
-- **Cum-Ex-Pruefungsschaerfe**: SKAT prüft bei daenischen Dividenden-Erstattungen sehr genau. Bei substanziellen Antraegen vollstaendige Dokumentation, Original-Aktienurkunden, Verwahrkette zwingend.
+- **Cum-Ex-Prüfungsschaerfe**: SKAT prüft bei daenischen Dividenden-Erstattungen sehr genau. Bei substanziellen Antraegen vollstaendige Dokumentation, Original-Aktienurkunden, Verwahrkette zwingend.
 - **Schiff unter daenischer Flagge mit deutschem Heimathafen**: Sondersystem **DIS (Dansk Internationalt Skibsregister)** — Schiffsoffiziere oft volle DK-Steuerbefreiung; DBA-Prüfung kompliziert.
 - **EU-Cross-Border-Pendler** Flensburg-Padborg: keine klassische Grenzgaengerregelung — 183-Tage-Regel und Methodenartikel anwenden.
 
@@ -149,6 +149,6 @@ Das DBA-Daenemark vom 22.11.1995 (BGBl. 1996 II S. 2565, in Kraft 25.12.1996) re
 
 ## Quellen und Updates
 
-Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Aenderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
+Stand: 05/2026. DBA-Daenemark 22.11.1995, in Kraft 25.12.1996 (BGBl. 1996 II S. 2565). Änderungsprotokoll: BGBl. 2021 II S. 483, in Kraft 23.12.2021, anwendbar ab 01.01.2022. MLI-modifiziert; Synthesetext im BMF-Verzeichnis prüfen.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 9 Marker aufgeloest: 4 geprueft (Fundstelle/Datum bestaetigt), 5 ersetzt (Az/Datum nicht belegbar, Satz neu formuliert) -->

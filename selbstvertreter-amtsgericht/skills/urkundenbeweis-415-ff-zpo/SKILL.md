@@ -28,7 +28,7 @@ Urkunden sind das **staerkste** Beweismittel im Zivilprozess. Eine schriftliche 
 - **§ 415 ZPO** — Oeffentliche Urkunde, voller Beweis.
 - **§ 416 ZPO** — Private Urkunde, voller Beweis für Erklaerung des Ausstellers.
 - **§ 418 ZPO** — Oeffentliche Urkunden über sonstige Vorgaenge.
-- **§ 419 ZPO** — Aenderungen, Durchstreichungen.
+- **§ 419 ZPO** — Änderungen, Durchstreichungen.
 - **§ 421 ZPO** — Antrag auf Urkundenvorlage.
 - **§ 142 ZPO** — Anordnung der Urkundenvorlage.
 - **§ 371a ZPO** — Elektronische Dokumente.

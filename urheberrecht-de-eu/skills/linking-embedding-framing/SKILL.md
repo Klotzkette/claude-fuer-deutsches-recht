@@ -1,6 +1,6 @@
 ---
 name: linking-embedding-framing
-description: "Prueft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen im Urheberrecht De Eu."
+description: "Prüft Links, Embeds, Framing, Zugangsbeschränkungen, neue Öffentlichkeit und technische Schutzmaßnahmen im Urheberrecht De Eu."
 ---
 
 # Linking, Embedding und Framing

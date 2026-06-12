@@ -14,7 +14,7 @@ description: "Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit: Skill behande
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster.
+**Fokus:** Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Prüfraster.
 
 ### Bautraeger Abnahmefiktion Clause Unwirksam
 
@@ -43,7 +43,7 @@ oder
 - Verjährungsfrist startet nicht.
 - Vergütung nicht faellig.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Abnahmefiktionsklausel?
 2. BGH-Standard erfuellt?

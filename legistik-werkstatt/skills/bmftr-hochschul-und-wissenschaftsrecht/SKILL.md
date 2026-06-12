@@ -1,11 +1,11 @@
 ---
 name: bmftr-hochschul-und-wissenschaftsrecht
-description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische L..."
+description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschäftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Länderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische L..."
 ---
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Hochschulrecht und Wissenschaftsrecht im Geschäftsbereich BMFTR. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsber
 
 Kernbestand des Sachfelds: HRG; WissZeitVG; LHGs der Länder; WHG (Wissenschaft); ProfBesG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Foederale Kompetenzfrage; Tarifrecht; Befristungsketten; Wissenschaftsfreiheit-Konflikt.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

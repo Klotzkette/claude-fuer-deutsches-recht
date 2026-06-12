@@ -40,7 +40,7 @@ Exportkontrolle für Technologietransfer durch Cloud-Dienste und Downloads: Gene
 - **AWG § 2 Abs. 3**: Verbringungsbegriff umfasst auch elektronische Uebertragungen.
 - **Art. 4 VO (EU) 2021/821**: Catch-All bei Kenntnis von militaerischer Endverwendung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Technologie klassifiziert und Dual-Use-Code geprueft?
 - [ ] Empfaenger-Länder auf Embargo und Sanktionen geprueft?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -118,7 +118,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `form-checker-für-vertrag-oder-willenserklaerung` | Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie… |
 | `formerfordernisse-im-bgb-ueberblick` | Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und… |
 | `gewerberaummiete-paragraph-550-bgb-langzeitform` | Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster:… |
-| `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte… |
+| `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Änderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte… |
 | `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `mandantenkorrespondenz-form-und-zugang-templates` | Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht löschen Mieter-Hinweis auf E-Mail/WhatsApp-Kündigung prüfen… |
@@ -144,7 +144,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - Eine Kuendigung (Miet-, Arbeits- oder Dauerschuldverhaltnis) soll per E-Mail, WhatsApp oder qES-Dokument versandt werden und Sie wollen sicher sein, dass Form und Zugang wirksam sind.
 - Ein Gewerberaummietvertrag laeuft laenger als ein Jahr und die Schriftform-Konformitaet soll geprueft werden (§ 550 BGB).
 - Eine Befristungsabrede im Arbeitsvertrag soll elektronisch unterzeichnet werden und Sie wollen das Schriftformrisiko einschaetzen (§ 14 Abs. 4 TzBfG).
-- Vertragsklauseln zu Form- und Aenderungsvorbehalten sollen AGB-rechtlich sicher formuliert werden.
+- Vertragsklauseln zu Form- und Änderungsvorbehalten sollen AGB-rechtlich sicher formuliert werden.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -153,7 +153,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - **qES** — qualifizierte elektronische Signatur nach Art. 3 Nr. 12 eIDAS-VO; ersetzt die Schriftform nach § 126a BGB, wenn nicht gesetzlich ausgeschlossen.
 - **Nichtigkeit** — Rechtsfolge bei Verstoss gegen gesetzliches Formerfordernis (§ 125 BGB); Gegenleistung kann aber nach § 812 BGB zurueckgefordert werden.
 - **Zugang** — Voraussetzung für die Wirksamkeit empfangsbeduerftiger Willenserklaerungen (§ 130 BGB); Erklaerung muss so in den Machtbereich gelangen, dass der Empfaenger sie zur Kenntnis nehmen kann.
-- **Doppelte Schriftformklausel** — Klausel, die auch ihre eigene Aenderung der Schriftform unterwirft; BGH-konform nur bei sorgfaeltiger Formulierung.
+- **Doppelte Schriftformklausel** — Klausel, die auch ihre eigene Änderung der Schriftform unterwirft; BGH-konform nur bei sorgfaeltiger Formulierung.
 
 ## Rechtsgrundlagen
 
@@ -215,7 +215,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 ## Typische Fehler
 
 - Kuendigung per WhatsApp in der Annahme, Textform sei immer ausreichend: Bei Wohnraum-Kuendigung ist Schriftform (§ 568 BGB) erforderlich; WhatsApp genuegt nicht.
-- qES-Dokument wird als Attachment versandt und der Empfang als Zugang gewertet: Zugang ist erst mit Pruefmoeglichkeit der Signatur gegeben.
+- qES-Dokument wird als Attachment versandt und der Empfang als Zugang gewertet: Zugang ist erst mit Prüfmoeglichkeit der Signatur gegeben.
 - Schriftformklausel ohne BGH-Konformitaetspruefung in AGB aufgenommen: § 305b BGB macht Individualabrede wirksam auch gegen Klausel.
 - Formmangel erst in der Klage entdeckt: Nachtraegliche Heilung ist bei den meisten Formarten nicht möglich; praevention hat Vorrang.
 - Beurkundungspflicht bei GmbH-Anteilsuebertragung uebersehen: Formverstoss fuehrt zu Nichtigkeit des Vertrages (§ 15 Abs. 3 GmbHG).
@@ -224,7 +224,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Stand: 05/2026
 - BGB §§ 125-130 in geltender Fassung
-- TzBfG § 14 Abs. 4 in geltender Fassung. Aenderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsätzlich Textform für Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
+- TzBfG § 14 Abs. 4 in geltender Fassung. Änderung durch das Vierte Buerokratieentlastungsgesetz (BGBl. 2024 I Nr. 323 vom 29.10.2024): seit 01.01.2025 grundsätzlich Textform für Befristungsabrede, soweit kein Tarifvertrag entgegensteht.
 - § 130e ZPO (eingefuehrt 17.07.2024) und § 46h ArbGG in geltender Fassung.
 - VO (EU) Nr. 910/2014 (eIDAS-VO).
 - Leitlinien Rechtsprechung 2024/2025:

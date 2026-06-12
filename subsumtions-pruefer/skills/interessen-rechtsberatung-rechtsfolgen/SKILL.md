@@ -1,6 +1,6 @@
 ---
 name: interessen-rechtsberatung-rechtsfolgen
-description: "Pruefen: Mehrparteienkonflikt und Interessenmatrix im Subsumtions Pruefer."
+description: "Prüfen: Mehrparteienkonflikt und Interessenmatrix im Subsumtions Prüfer."
 ---
 
 # Mehrparteienkonflikt und Interessenmatrix

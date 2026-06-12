@@ -1,6 +1,6 @@
 ---
 name: pruefen-formular-portal-und-einreichung
-description: "Pruefen: Formular, Portal und Einreichungslogik: Pruefen: Formular, Portal und Einreichungslogik."
+description: "Prüfen: Formular, Portal und Einreichungslogik: Prüfen: Formular, Portal und Einreichungslogik."
 ---
 
 # Prüfen: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: strafzumessungs-tatsachen-46-ii-stgb
-description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmach..."
+description: "Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persönliche und wirtschaftliche Verhältnisse, Nachtatverhalten und Wiedergutmach..."
 ---
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
@@ -65,10 +65,10 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - **Schweigen über das Vorleben** darf nicht schaerfend gewertet werden.
 - Erziehung, soziale Sozialisation, Lebensbruch (Drogen, Krankheit).
 
-### 6. Persoenliche und wirtschaftliche Verhaeltnisse
+### 6. Persoenliche und wirtschaftliche Verhältnisse
 
 - Familie, Beruf, Verschuldung, Suchtkrankheit, psychische Erkrankung.
-- Auslaenderrechtliche Folgen (Ausweisung, § 53 ff. AufenthG): von der st. Rspr. nur insoweit beachtlich, als sie über das gesetzlich Vorgesehene hinausgehen.
+- Ausländerrechtliche Folgen (Ausweisung, § 53 ff. AufenthG): von der st. Rspr. nur insoweit beachtlich, als sie über das gesetzlich Vorgesehene hinausgehen.
 - Berufsverbot, Approbationsentzug, beamtenrechtliche Disziplinarfolgen.
 
 ### 7. Nachtatverhalten
@@ -107,7 +107,7 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 - Schweigen schaerfend gewertet. Verstoss gegen § 261 StPO i.V.m. Selbstbelastungsfreiheit.
 - Vorstrafen ohne Prüfung der **Tilgungsreife** verwertet. Verstoss gegen § 51 BZRG.
 - Lange Verfahrensdauer nicht kompensiert. Verstoss gegen Art. 6 EMRK.
-- Auslaenderrechtliche Standard-Folgen schaerfend bei Auslaender verwertet (faktischer Sondervorwurf). Verstoss gegen Gleichheitsgrundsatz.
+- Ausländerrechtliche Standard-Folgen schaerfend bei Ausländer verwertet (faktischer Sondervorwurf). Verstoss gegen Gleichheitsgrundsatz.
 - Verschulden des Verteidigers / Anwalts dem Mandanten zugerechnet.
 - Doppelverwertung von Tatbestandsmerkmalen (§ 46 Abs. 3 StGB).
 

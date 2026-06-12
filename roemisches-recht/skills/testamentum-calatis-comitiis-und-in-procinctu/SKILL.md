@@ -43,7 +43,7 @@ description: "Testamentum calatis comitiis und in procinctu: aelteste Formen des
 - Eigenhaendiges Testament § 2247 BGB.
 - Nottestament § 2249 BGB.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Form?
 2. Personenkreis (cives, Soldat)?

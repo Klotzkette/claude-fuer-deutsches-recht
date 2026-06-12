@@ -36,7 +36,7 @@ description: "REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei 
 - **CLP-VO (EG) 1272/2008**: Einstufung, Kennzeichnung, Verpackung.
 - **§ 6 ChemVerbotsV**: Nationale Chemikalienverbote.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Stoff in ECHA-REACH-Datenbank registriert?
 - [ ] PIC-Anhang I oder V-Listencheck durchgefuehrt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

@@ -67,7 +67,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## EM-Rente / Gutachten - Themenspezifika
 - **Rechtsgrundlage:** §§ 43, 44 SGB VI (Rente wegen verminderter Erwerbsfaehigkeit), § 240 SGB VI (Berufsunfaehigkeit Jg. bis 1960).
-- **Schwellen § 43 SGB VI:** unter 3 h/Tag = volle EM (§ 43 II), 3-6 h/Tag = halbe EM (§ 43 I); Massstab: allgemeiner Arbeitsmarkt.
+- **Schwellen § 43 SGB VI:** unter 3 h/Tag = volle EM (§ 43 II), 3-6 h/Tag = halbe EM (§ 43 I); Maßstab: allgemeiner Arbeitsmarkt.
 - **Pflichtversicherungszeit:** 5 Jahre allgemeine Wartezeit + 3 Jahre Beitragszeit in den letzten 5 Jahren vor Eintritt der EM (§ 43 I Nr. 2 SGB VI).
 - **Gutachten kritisch lesen:** Befundtatsachen vs. Schlussfolgerung trennen; Diagnose ist nicht gleich Leistungseinschraenkung; Plausibilitaetscheck Schmerzaussage vs. taegliches Aktivitaetsniveau; Berucksichtigung psychischer Komorbiditaeten; "Konsensus zur sozialmedizinischen Beurteilung" der DRV verwenden.
 - **Eigene Beweismittel:** Behandelnde Aerzte mit Schweigepflichtentbindung kontaktieren; Befundberichte Hausarzt/Facharzt/Klinik anfordern; ggf. Reha-Entlassungsbericht beilegen.

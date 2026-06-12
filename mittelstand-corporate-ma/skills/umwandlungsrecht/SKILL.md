@@ -56,7 +56,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 9. **Hand-off vorbereiten.** Überführe Findings in Datenraum-Q&A, SPA-Markup, CP-Tracker, Mandantenmail, Notarcheckliste oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Deal-Schritt rechtlich tragfähig, praktisch vollziehbar und für die gewählte Mandatsseite wirtschaftlich sinnvoll steuerbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -116,7 +116,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. Welche Rechtsformen sind beteiligt — GmbH, AG, KGaA, GmbH & Co. KG, SE, Genossenschaft?
 3. Sind steuerliche Rueckwirkungszeitraeume einzuhalten (§§ 2 Abs. 1, 20 Abs. 5 UmwStG: maximal 12 Monate Rueckwirkung)?
 4. Gibt es eine Vorwegausgliederung als Deal-Preparation — ist der Carve-out-Zeitplan mit der Signing-Deadline vereinbar?
-5. Welche Glaeubigerschutzmaßnahmen sind erforderlich — § 22 UmwG Sicherheitsleistung bei Verschmelzung?
+5. Welche Gläubigerschutzmaßnahmen sind erforderlich — § 22 UmwG Sicherheitsleistung bei Verschmelzung?
 6. Welche Arbeitnehmer- und Betriebsratsrechte sind zu beachten — § 324 UmwG i.V.m. § 613a BGB?
 
 ## Zentrale Rechtsgrundlagen
@@ -124,8 +124,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - §§ 2-38 UmwG — Verschmelzung: Vertrag, Bericht, Prüfung, Beschluss, Anmeldung; Gesamtrechtsnachfolge
 - §§ 123-137 UmwG — Spaltung (Aufspaltung, Abspaltung, Ausgliederung): Spaltungsplan, Beschluss
 - §§ 311-312 UmwG — Ausgliederung zur Neugründung: erleichterte Form für Carve-out
-- §§ 190-213 UmwG — Formwechsel: keine Vermoegensuebertragung; Identitaetswahrung des Rechtsträgers
-- § 22 UmwG — Glaeubigerschutz: auf Verlangen Sicherheitsleistung für ungesicherte Glaeubiger
+- §§ 190-213 UmwG — Formwechsel: keine Vermögensuebertragung; Identitaetswahrung des Rechtsträgers
+- § 22 UmwG — Gläubigerschutz: auf Verlangen Sicherheitsleistung für ungesicherte Gläubiger
 - § 325 UmwG — Spruchverfahren: Barabfindung und Abfindungsangebot bei Formwechsel und Ausgliederung
 - § 324 UmwG i.V.m. § 613a BGB — Arbeitnehmeruebergang kraft Gesetzes bei Ausgliederung; Unterrichtungspflicht
 - §§ 2 Abs. 1, 20 Abs. 5 UmwStG — steuerliche Rueckwirkung bei Verschmelzung und Einbringung: maximal 12 Monate
@@ -139,8 +139,8 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. **Umwandlungstyp bestimmen:** Verschmelzung, Abspaltung, Ausgliederung, Formwechsel — massgeblich für Form und Gremien
 2. **Zeitplan aufstellen:** Notartermin, Beschlussfassung, Registereintragung (i.d.R. 2-4 Monate ab Beschluss); Steuerliche Rueckwirkungsfrist einhalten (§§ 2 Abs. 1, 20 Abs. 5 UmwStG)
 3. **Beschlüsse vorbereiten:** Gesellschafterversammlung/Hauptversammlung mit notarieller Beurkundung; Mehrheitserfordernisse prüfen (§ 50 UmwG: 75 % bei GmbH)
-4. **Bericht erstellen:** Geschaeftsfuehrung/Vorstand muss Umwandlungsbericht erstellen (§§ 8, 127 UmwG); bei Pruefungspflicht: externer Prüfer
-5. **Glaeubigerschutz sicherstellen:** § 22 UmwG — Glaeubiger können Sicherheitsleistung verlangen; Ankuendigung und Frist beachten
+4. **Bericht erstellen:** Geschäftsführung/Vorstand muss Umwandlungsbericht erstellen (§§ 8, 127 UmwG); bei Prüfungspflicht: externer Prüfer
+5. **Gläubigerschutz sicherstellen:** § 22 UmwG — Gläubiger können Sicherheitsleistung verlangen; Ankuendigung und Frist beachten
 6. **Arbeitnehmerinformation:** § 324 UmwG i.V.m. § 613a BGB — schriftliche Unterrichtung der uebernommenen Arbeitnehmer; Betriebsrat informieren
 7. **Anmeldung zum HR:** notariell beglaubigte Anmeldung zum Handelsregister; Eintragung konstitutiv
 8. **Steuerliche Rueckwirkung sichern:** Massgeblichkeitsstichtag für steuerliche Bilanz festlegen; Frist maximal 12 Monate rueckwirkend ab Abschlussstichtag
@@ -148,7 +148,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Entscheidungsbaum
 
 - Verschmelzung → Gesamtrechtsnachfolge → alle Verträge gehen über → Change-of-Control-Klauseln prüfen
-- Ausgliederung → Einzelrechtsnachfolge je uebertragener Position → Zustimmung Glaeubiger bei Schulduebertragung?
+- Ausgliederung → Einzelrechtsnachfolge je uebertragener Position → Zustimmung Gläubiger bei Schulduebertragung?
 - Formwechsel → Identitaetswahrung → kein Betriebsuebergang, aber Abfindungsangebot nach § 207 UmwG
 - Steuerrueckwirkung → mehr als 12 Monate? → kein Buchwertansatz; stille Reserven aufzudecken
 
@@ -185,7 +185,7 @@ Steuerl. Schlusspunkt UmwStG | Steuer [NAME] | [DATUM] | [ ]
 - Offene Punkte als `TODO` mit Eskalationsstufe
 - Belegkette: Normen, Beschlüsse, Registerschritte
 
-## Uebergabe an andere Skills
+## Übergabe an andere Skills
 
 - Steuer → `mittelstand-corporate-ma-umwandlungssteuerrecht`
 - Gesellschaftsrecht/Register → `mittelstand-corporate-ma-gesellschaftsrecht-register`

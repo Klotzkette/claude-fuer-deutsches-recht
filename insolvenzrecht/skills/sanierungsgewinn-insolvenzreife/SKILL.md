@@ -30,7 +30,7 @@ Wenn der Insolvenzplan Forderungsverzichte vorsieht und der bestaetigte Plan rec
 - die Behandlung stiller Reserven,
 - die Haftung des Verwalters für die korrekte Buchung (Paragraph 60 InsO).
 
-Dieser Skill arbeitet die Buchung Schritt für Schritt und liefert Pruefvermerke. Adressat: StB des Schuldners, IV/Sachwalter und ggf. Wirtschaftspruefer.
+Dieser Skill arbeitet die Buchung Schritt für Schritt und liefert Prüfvermerke. Adressat: StB des Schuldners, IV/Sachwalter und ggf. Wirtschaftspruefer.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -40,7 +40,7 @@ Dieser Skill arbeitet die Buchung Schritt für Schritt und liefert Pruefvermerke
 
 Kaltstart-Fragen:
 
-1. Welche Forderungen wurden im Plan verzichtet (Liste, Höhe, Glaeubiger)?
+1. Welche Forderungen wurden im Plan verzichtet (Liste, Höhe, Gläubiger)?
 2. Welche werthaltigen Forderungen wurden umgewandelt (DES)?
 3. Wie hoch sind die stillen Reserven der Schuldnerin?
 4. Wurde Buchwertfortfuehrung oder Bewertungsanpassung beschlossen?
@@ -61,8 +61,8 @@ Kaltstart-Fragen:
 2. **Buchungssystematik festlegen** je Verzichtsart (siehe `insol-sanierungsgewinn-verzicht-bilanz-im-plan`).
 3. **Stille Reserven**: separat dokumentieren; keine Vermengung mit Sanierungsertrag.
 4. **Latente Steuern**: prüfen, ob durch den Verzicht und die Nutzung der Verlustvortraege ein latenter Steuereffekt entsteht.
-5. **Belege für Massehaftungsbefreiung sammeln.** Plan, Bestaetigungsbeschluss, Werthaltigkeitsgutachten, StB-Schreiben, Glaeubigerausschuss-Beschluss.
-6. **Bilanz-Pruefvermerk** mit ausweisbarem Sanierungsertrag.
+5. **Belege für Massehaftungsbefreiung sammeln.** Plan, Bestaetigungsbeschluss, Werthaltigkeitsgutachten, StB-Schreiben, Gläubigerausschuss-Beschluss.
+6. **Bilanz-Prüfvermerk** mit ausweisbarem Sanierungsertrag.
 7. **Steuererklaerung** mit Paragraph 3a EStG-Antrag und Paragraph 7b GewStG-Antrag.
 
 ## Trade-off-Matrix Bilanz-Optionen
@@ -82,7 +82,7 @@ Kaltstart-Fragen:
 2. **Latente Steuern bei Verlustvortrag-Verbrauch.** Werden Verlustvortraege durch Sanierungsertrag aufgezehrt (Paragraph 3a Absatz 3 EStG), entfallen aktive latente Steuern, die ggf. zuvor bilanziert waren — als Aufwand zu erfassen.
 3. **Werthaltigkeitsgutachten pro Gesellschafterforderung** dokumentieren. Pauschale Annahmen halten der FA-Prüfung nicht stand.
 4. **Stille Reserven listen.** Eine Tabelle stille Reserven (Aktiva-Position, Buchwert, gemeiner Wert, Differenz) gehoert in jede Sanierungsakte.
-5. **Wirtschaftspruefer fruehzeitig einbinden.** Bei pruefungspflichtigen Unternehmen ist eine "Aha"-Reaktion des WP im Pruefungstermin der falsche Zeitpunkt.
+5. **Wirtschaftspruefer fruehzeitig einbinden.** Bei pruefungspflichtigen Unternehmen ist eine "Aha"-Reaktion des WP im Prüfungstermin der falsche Zeitpunkt.
 6. **HGB versus Steuerbilanz dokumentieren.** Ueberleitungsrechnung Paragraph 5b EStG sauber halten.
 
 ## Mustertexte / Berechnungsbeispiele
@@ -107,7 +107,7 @@ Beleg Anlagen: Bestaetigungsbeschluss, Plan, Werthaltigkeits-
 gutachten WP [Name].
 ```
 
-**Pruefvermerk Bilanz (Geruest):**
+**Prüfvermerk Bilanz (Geruest):**
 
 ```
 PRUEFVERMERK BILANZ ZUM [Stichtag]

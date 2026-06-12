@@ -69,7 +69,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## Aktualisierte Norm- und Reformlage
 
-### Schluesselcanones CIC 1983
+### Schlüsselcanones CIC 1983
 - **can. 751 CIC**: Definitionen — Haeresie (hartnackige Leugnung einer mit goettlichem und katholischem Glauben zu glaubenden Wahrheit), Apostasie (vollstaendige Aufgabe des christlichen Glaubens), Schisma (Verweigerung der Unterordnung unter den Papst oder Gemeinschaft mit den ihm unterstehenden Gliedern der Kirche).
 - **can. 1364 § 1 CIC** (Fassung Pascite Gregem Dei 2021): Latae sententiae-Exkommunikation für Apostat, Haeretiker, Schismatiker.
 - **can. 1314 CIC**: Strafen sind grundsätzlich ferendae sententiae; latae sententiae ist die Ausnahme und in den Kanones ausdruecklich genannt.
@@ -89,7 +89,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Bischofskongregation 2006 hielt fest: der Austritt sei nicht zwangslaeufig als actus formalis defectionis ab Ecclesia catholica zu werten.
 - Aktuelle Diskussion zu c. 1064 CIC (Pastoral der Wiedereingliederung).
 
-### Pruefraster
+### Prüfraster
 1. Klare Tat (Apostasie / Haeresie / Schisma)? — Definitionen c. 751 CIC streng anwenden.
 2. Latae sententiae oder ferendae sententiae? — c. 1314 CIC.
 3. Strafausschliessungsgrund (Unwissenheit, Furcht, Notstand)? — cc. 1323-1326 CIC.

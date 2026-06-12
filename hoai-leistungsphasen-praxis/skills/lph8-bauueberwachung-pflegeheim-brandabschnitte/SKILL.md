@@ -43,12 +43,12 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingesc
 - DIN 14675 Brandmeldeanlagen: Planung, Einbau, Betrieb und Instandhaltung
 - DIN 4109-1 Schallschutz im Hochbau: Anforderungen Pflegeheime Schallschutzklasse II
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Brandschutztuer: Selbstschliessend, Rauchschutzprofil, Feststellanlage mit automatischer Ausloesung
 2. Flurbreite: Massbandkontrolle lichtes Mass 2.0 m, keine Einbauten oder Moebel versperrend
 3. Barrierefreie Sanitaeranlage: Bewegungsflaeche, Haltegriffe nach DIN 18040-2, Bodenablauf 72 mm
-4. Brandmeldeanlage: Melderquote je Raum nach DIN 14675, Aufschaltung auf Feuerwehr, Pruefliste
+4. Brandmeldeanlage: Melderquote je Raum nach DIN 14675, Aufschaltung auf Feuerwehr, Prüfliste
 5. Schallschutz Pflegezimmer: Trennwaende Rw min. 47 dB, Trittschall LE max. 46 dB nach DIN 4109
 6. Aufzug Liegebett: Kabinenmasse, Spiegel, Bedienfeld Höhe, Tuerbreite 1.10 m laut DIN EN 81-70
 
@@ -58,7 +58,7 @@ Besonderen Schwerpunkt bilden Flucht- und Rettungswege für Menschen mit eingesc
 - Drohnenflug Aussenanlagen: Rampen, Wege, Stellplaetze, Beleuchtung für barrierefreies Konzept
 - Brandmeldeanlage Abnahmedokumentation: Melderlistenprotokoll, Funktionspruefung je Raum und Zone
 - Fotos Brandschutztuer Feststellanlage: Ausloeser, Rauchschutzprofil, Zulassung Z-6.20 am Bauteil
-- Barrierefreiheit-Messung: Schwellenhoehe, Bewegungsflaeche mit Massstab, Haltegriff-Fotodokumentation
+- Barrierefreiheit-Messung: Schwellenhoehe, Bewegungsflaeche mit Maßstab, Haltegriff-Fotodokumentation
 
 ## Meldungserstellung im ERP / SAP
 

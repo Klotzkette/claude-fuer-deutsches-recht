@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -118,7 +118,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - **§ 160 BGB** — Pflicht zur Erhaltung des Bedingungseintritts; Nichterfuellung schadet
 - **§ 162 BGB** — treuwidrige Herbeiführung oder Verhinderung des Bedingungseintritts
 - **§ 41 GWB** — fusionskontrollrechtliches Vollzugsverbot; gun jumping
-- **§ 56 AWV** — AWW-Investitionspruefung; Meldefrist und Pruefdauer
+- **§ 56 AWV** — AWW-Investitionspruefung; Meldefrist und Prüfdauer
 - **§§ 154, 155 BGB** — offener Einigungsmangel; Formpflicht beim Vertragsschluss
 
 ## Aktuelle Rechtsprechung
@@ -142,10 +142,10 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ### Verkaefer-Deliverables
 - [ ] Signed und datiertes SPA (Execution Version)
 - [ ] Anteilsuebertragungsvertrag (GmbH: notariell; AG: Abtretungserklaerung)
-- [ ] Resignationsschreiben Geschaeftsfuehrer/Vorstand (falls vereinbart)
+- [ ] Resignationsschreiben Geschäftsführer/Vorstand (falls vereinbart)
 - [ ] Bring-Down Certificate (Reps weiterhin richtig)
 - [ ] No-MAC-Certificate
-- [ ] Consents (CoC, Banken, Schluesselkunden)
+- [ ] Consents (CoC, Banken, Schlüsselkunden)
 - [ ] Gesellschafterliste aktualisiert (GmbH: beim Notar)
 - [ ] Handelsregister-Vollmacht
 - [ ] Datenraumzugang dauerhaft sichergestellt oder CD-Archiv
@@ -164,7 +164,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 2. **CP-Tracker aufbauen** — Spreadsheet mit Status, Owner, Frist, Fruehindikatoren, Eskalationsstufe
 3. **Behoerdliche Anmeldungen** — Kartellrecht, FDI sofort nach Signing einleiten; Deadlines im Kalender
 4. **Dritte Zustimmungen besorgen** — Consents bei CoC-Klauseln; Bankenkonsortium informieren
-5. **Interim Covenants monitoren** — Verkaefer darf keine wesentlichen Aenderungen ohne Zustimmung vornehmen
+5. **Interim Covenants monitoren** — Verkaefer darf keine wesentlichen Änderungen ohne Zustimmung vornehmen
 6. **Closing-Datum vorschlagen** — sobald alle CPs absehbar erfuellt; Notartermin (GmbH) reservieren
 7. **Pre-Closing-Meeting** — alle Deliverables gegenchecken; Protokoll vorab zirkulieren
 8. **Closing-Call/Meeting** — gleichzeitiger Austausch Deliverables und Kaufpreiszahlung
@@ -215,7 +215,7 @@ VORAUSSICHTLICHES CLOSING: [DATUM]
 - Long Stop Date verstrichen ohne Verlaengerungsvereinbarung → automatischer Ruecktritt
 - Bring-Down-Verletzung ignoriert → Closing ohne valide Grundlage; Ruecktrittsanspruch Kaeufer
 - Dritte Consent vergessen → CoC-Kuendigung wesentlicher Verträge post-Closing
-- Interim Covenants verletzt (z.B. Verkaefer verkauft Schluesselasset vor Closing) → Schadensersatz; ggf. Ruecktritt
+- Interim Covenants verletzt (z.B. Verkaefer verkauft Schlüsselasset vor Closing) → Schadensersatz; ggf. Ruecktritt
 
 ## Quellen
 

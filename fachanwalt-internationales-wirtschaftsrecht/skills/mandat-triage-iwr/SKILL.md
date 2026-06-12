@@ -179,7 +179,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-### Normen-Ueberblick IWR-Triage
+### Normen-Überblick IWR-Triage
 - Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand
 - Rom I VO Art. 3, 4 — Anwendbares Recht Vertrag
 - CISG Art. 1-5 — Anwendungsbereich

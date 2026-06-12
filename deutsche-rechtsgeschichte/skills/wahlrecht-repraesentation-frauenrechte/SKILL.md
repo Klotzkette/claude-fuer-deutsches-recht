@@ -1,6 +1,6 @@
 ---
 name: wahlrecht-repraesentation-frauenrechte
-description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz im Deutsche Rechtsgeschichte."
+description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhältniswahlrecht, GG Art. 38 und Bundeswahlgesetz im Deutsche Rechtsgeschichte."
 ---
 
 # Wahlrecht und Repraesentation
@@ -15,7 +15,7 @@ description: "Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemei
 
 ## Worum es geht
 
-Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsverfassung 1871 (Art. 20) gab allen deutschen Maennern über 25 das gleiche, direkte und geheime Wahlrecht zum Reichstag (ohne Frauenwahlrecht). Die WRV 1919 fuegte das Frauenwahlrecht (Art. 22) hinzu und schuf ein reines Verhaeltniswahlrecht, was zur Parteienzersplitterung beitrug. Das GG 1949 Art. 38 garantiert allgemeines, gleiches, freies, geheimes und unmittelbares Wahlrecht. Das Bundeswahlgesetz (BWahlG, BGBl. I 1956, 383 n.F.) regelt das Bundestagswahlrecht mit personalisierten Verhaeltniswahlrecht. Das BVerfG korrigierte das Wahlrecht mehrfach (BVerfGE 121, 266 zum negativen Stimmgewicht).
+Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsverfassung 1871 (Art. 20) gab allen deutschen Maennern über 25 das gleiche, direkte und geheime Wahlrecht zum Reichstag (ohne Frauenwahlrecht). Die WRV 1919 fuegte das Frauenwahlrecht (Art. 22) hinzu und schuf ein reines Verhältniswahlrecht, was zur Parteienzersplitterung beitrug. Das GG 1949 Art. 38 garantiert allgemeines, gleiches, freies, geheimes und unmittelbares Wahlrecht. Das Bundeswahlgesetz (BWahlG, BGBl. I 1956, 383 n.F.) regelt das Bundestagswahlrecht mit personalisierten Verhältniswahlrecht. Das BVerfG korrigierte das Wahlrecht mehrfach (BVerfGE 121, 266 zum negativen Stimmgewicht).
 
 ## Kernnormen / Kernquellen
 
@@ -35,10 +35,10 @@ Das Wahlrecht in Deutschland hat tiefgreifende Wandlungen erfahren. Die Reichsve
 ## Typische Streitfragen / Forschungsfragen
 
 1. Frauenwahlrecht 1918: Revolution oder logische Konsequenz der WRV-Demokratie?
-2. WRV-Verhaeltniswahlrecht: Trug es zur Instabilitaet der Weimarer Demokratie bei?
+2. WRV-Verhältniswahlrecht: Trug es zur Instabilitaet der Weimarer Demokratie bei?
 3. 5-Prozent-Huerde im BWahlG: Verfassungsmaessig? (BVerfGE 1, 208; 95, 408)
 4. Negatives Stimmgewicht: Wie kann ein Wahlsystem das erzeugen?
-5. Wahlrechtsreform 2023: Streichung von Ueberhangmandaten und Konsequenzen
+5. Wahlrechtsreform 2023: Streichung von Überhangmandaten und Konsequenzen
 
 ## Methodik
 

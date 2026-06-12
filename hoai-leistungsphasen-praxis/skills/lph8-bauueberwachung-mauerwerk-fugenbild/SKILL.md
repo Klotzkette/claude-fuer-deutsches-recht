@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-mauerwerk-fugenbild
-description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Pruefung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestung..."
+description: "Bauueberwachung HOAI LPH 8 für Mauerwerksbauten mit Fokus auf Fugenbildkontrolle — Prüfung Lagerfugenstärke und Stossflachenvermoelung nach DIN 1053-1 und DIN EN 1996-2, Steinformat- und Druckfestigkeitsklassen nach DIN EN 771-1, Wandscheiben-Stosstoleranzen, Abdichtung Fensterbank und Bruestung..."
 ---
 
 # Bauueberwachung Mauerwerk und Fugenbild
@@ -41,7 +41,7 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 - DIN EN 771-1 Mauerziegel: Druckfestigkeit, Masstoleranzen, CE-Kennzeichnung für Ziegelsteine
 - DIN 20000-412 Mauermoertel: Klassen LM 21 LM 36 NM 5 NM 10, Verwendungsregeln im Hochbau
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Fugenstärke-Protokoll: Messung je 5. Schicht, GPS-Koordinate oder Wandachse-Bezeichnung, Ergebnis in Abnahme-Checkliste PlanRadar
 2. Wandlot: Wasserwaage und Lotschnur, Wandneigung kleiner 5 mm auf 2 m Latte, Protokolliert an Wandachse
@@ -53,7 +53,7 @@ Mauerwerk ist trotz hohem Fertigstellungsgrad auf der Baustelle fehleranfaellig:
 ## Foto-, Video- und Dokumentenanalyse
 
 - Fotodokumentation je Geschossebene: Foto Wandansicht je 10 m Laenge, Detailfotos Fensterbruestung, Sturzauflager, Wandstoss, GPS-Tag
-- Matterport 360-Grad-Scan Rohbau Mauerwerk: Bestandsdokumentation vor Verputz, Massstabsgerechte Messung Oeffnungen im Viewer
+- Matterport 360-Grad-Scan Rohbau Mauerwerk: Bestandsdokumentation vor Verputz, Maßstabsgerechte Messung Oeffnungen im Viewer
 - Lieferscheinarchiv: Scan je Liefercharge Mauerziegel und Moertel, Verknuepfung zu Bauabschnitt und Geschoss
 - PlanRadar Lageplan-Grundriss: Mael-Pin für Fugenbildmangel, Foto-Pflicht, Wandachse-Bezeichnung
 - Zeitraffervideo Mauerwerksaufbau: GoPro HERO11 stationaer alle 10 Minuten, Fugenbildverlauf und Mauerungstempo sichtbar

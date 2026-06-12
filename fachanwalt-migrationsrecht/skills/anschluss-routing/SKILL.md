@@ -20,7 +20,7 @@ Dieses Anschluss-Routing für **Fachanwalt Migrationsrecht** wählt nach dem ers
 - `workflow-aufenthaltstitel-router` — Aufenthaltstitel Ausweisung Start
 - `aufenthaltstitel-pruefung` — Aufenthaltstitel Erstgespraech Mandatsannahme
 - `ausweisung-paragrafe-53-55-aufenthg` — Ausweisung Paragrafe 53 55 Aufenthg
-- `ba-zustimmung-beschaeftigung` — BA Zustimmung Beschaeftigungsduldung
+- `ba-zustimmung-beschaeftigung` — BA Zustimmung Beschäftigungsduldung
 - `blaue-karte-eu-mobilitaet` — Blaue Karte Bleiberecht 25A Chancenaufenthalt
 - `workflow-botschaft-visumtermin` — Botschaft Visumtermin Dokumentenstapel
 - `datenschutz-sicherheit-migration` — Datenschutz Sicherheit Daueraufenthalt EU

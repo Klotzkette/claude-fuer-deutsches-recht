@@ -1,6 +1,6 @@
 ---
 name: drohne-pfandrecht-pfaendung-planen
-description: "Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht."
+description: "Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prüft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Pfandrecht vorbereiten

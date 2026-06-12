@@ -1,6 +1,6 @@
 ---
 name: anhoerung-erwiderung-anwalt-freier
-description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid im Sozialversicherungsstatus Pruefer."
+description: "Reagiert auf Anhörungsschreiben vor belastendem Status- oder Beitragsbescheid im Sozialversicherungsstatus Prüfer."
 ---
 
 # Anhörung und Erwiderung

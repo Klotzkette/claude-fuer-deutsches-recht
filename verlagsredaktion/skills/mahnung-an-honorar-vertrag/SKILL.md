@@ -24,7 +24,7 @@ Der Verlag muss Geld vom Autor zurueckfordern: ueberzahlte Tantiemen (z. B. nach
 3. Hat der Autor schon reagiert (gar nicht, Ablehnung, Teilzahlung, Vergleichsangebot)?
 4. Verjährungslage (Frist nach BGB § 195 grundsätzlich 3 Jahre)?
 5. Ist der Autor Verbraucher oder Unternehmer (BGB § 13/14)?
-6. Eilbedarf (Zahlungsunfaehigkeitsgefahr, Vermoegensverfall)?
+6. Eilbedarf (Zahlungsunfaehigkeitsgefahr, Vermögensverfall)?
 7. Mahnung allein oder Eskalation an Inkasso / Justiziariat?
 
 ## Rechtlicher und sachlicher Rahmen

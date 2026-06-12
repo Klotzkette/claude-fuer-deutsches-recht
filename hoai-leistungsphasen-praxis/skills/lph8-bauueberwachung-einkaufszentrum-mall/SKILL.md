@@ -17,7 +17,7 @@ description: "Bauueberwachung nach HOAI LPH 8 für Einkaufszentren und Malls —
 
 Einkaufszentren sind Sonderbauten nach LBO mit besonderen Anforderungen an Brandschutz, Rauchabzug und Publikumsverkehr.
 Die Bauueberwachung nach HOAI LPH 8 koordiniert Kerngebaeude, Mieterausbau und technische Gebaeudeausruestung.
-Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit eigenem Protokoll.
+Mieteinheiten-bezogene Abnahmepruefung sichert die Übergabe an jeden Mieter mit eigenem Protokoll.
 
 ## Bauwerk und Auftrag
 
@@ -43,7 +43,7 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 - DIN 18040-1 Barrierefreies Bauen: öffentlich zugaengliche Gebaeude
 - VOB/C DIN 18351 Fassadenarbeiten: Innenwandverkleidungen Mieteinheiten-Ausbau
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Tragsystem Prüfung: Bewehrungsabnahme je Deckenfeld, Vorspannkrafts-Protokoll bei Spannbeton
 2. Sprinkler: Druckpruefung je Zone 10 bar, Abstande von Einbauten nach CEA 4001
@@ -56,9 +56,9 @@ Mieteinheiten-bezogene Abnahmepruefung sichert die Uebergabe an jeden Mieter mit
 
 - BIM360 Coordination: Clash-Detection Sprinkler vs. Deckenkonstruktion, Mieteinheiten-Layouts
 - Drohnenflug Dach: Lichtkuppeln, RWA-Klappen, Dachentwaesserung, Photovoltaik-Felder
-- Sprinkler-Pruefbericht VdS: Zonenpruefprotokoll, Druckkurve je Zone, TUeV/VdS-Abnahme
-- Fotodokumentation Mieteinheiten: Uebergabezustand, Estrich, Elektroverteilung, Zaehlerstand
-- RWA-Pruefprotokoll: Klappen-Oeffnungszeit, Steuerung-Rauchmelder-Verknuepfung, Simulationstest
+- Sprinkler-Prüfbericht VdS: Zonenpruefprotokoll, Druckkurve je Zone, TUeV/VdS-Abnahme
+- Fotodokumentation Mieteinheiten: Übergabezustand, Estrich, Elektroverteilung, Zaehlerstand
+- RWA-Prüfprotokoll: Klappen-Oeffnungszeit, Steuerung-Rauchmelder-Verknuepfung, Simulationstest
 
 ## Meldungserstellung im ERP / SAP
 

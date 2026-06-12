@@ -1,9 +1,9 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-organisationspflicht
-description: "Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
-# Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+# Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Or
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
+## Konkreter Berufsrechtskern: Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.

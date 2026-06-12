@@ -11,7 +11,7 @@ Diese Output-Weiche für **Methodenlehre Buergerliches Recht** entscheidet, ob M
 
 ## Fachlandkarte dieses Plugins
 
-- `abschlussprodukt-uebergabe` — Abschlussprodukt Uebergabe
+- `abschlussprodukt-uebergabe` — Abschlussprodukt Übergabe
 - `abwaegung-gewichtung-intensitaet` — Abwaegung Gewichtung Intensitaet
 - `abwaegung-material-auswahl` — Abwaegung Material Abwaegungslast NON
 - `abwaegung-material-auswahl` — Abwaegung Material Auswahl

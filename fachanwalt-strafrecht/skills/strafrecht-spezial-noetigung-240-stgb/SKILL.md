@@ -75,7 +75,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 ## Konkurrenzen
 
 - **§ 249 StGB:** Wenn zur Wegnahme – vorrangig.
-- **§ 253 StGB:** Bei Vermoegensverfuegung – vorrangig.
+- **§ 253 StGB:** Bei Vermögensverfuegung – vorrangig.
 - **§ 177 StGB:** Bei sexueller Handlung – vorrangig (§ 177 Abs. 5 StGB als spezielle Noetigung).
 - **§ 238 StGB Nachstellung:** Tateinheit möglich.
 - **§ 241 StGB Bedrohung:** Tateinheit möglich.
@@ -98,7 +98,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 > Der Angeklagte hat dem Geschaedigten gegenueber geaeussert, er werde Strafanzeige wegen des Diebstahls erstatten, wenn dieser nicht das entwendete Geld zurueckzahle. Es handelt sich um die rechtmäßige Ankuendigung einer Strafanzeige zur Durchsetzung einer berechtigten zivilrechtlichen Forderung. Die Mittel-Zweck-Relation ist nicht verwerflich iSd § 240 Abs. 2 StGB.
 
 **Plaedoyer-Snippet (Sitzblockade):**
-> Nach der staendigen Rechtsprechung des BVerfG (Sitzblockaden-Entscheidung 1995) ist das blosse Sitzen auf der Strasse ohne koerperliche Einwirkung auf den ersten Fahrer keine Gewalt iSd § 240 StGB. Die Anklage trifft den Angeklagten nur im Verhaeltnis zu den nachfolgenden Fahrzeugen, die durch das vor ihnen stehende erste Fahrzeug physisch blockiert wurden. Im Verhaeltnis zum ersten Fahrer scheidet § 240 StGB aus.
+> Nach der staendigen Rechtsprechung des BVerfG (Sitzblockaden-Entscheidung 1995) ist das blosse Sitzen auf der Strasse ohne koerperliche Einwirkung auf den ersten Fahrer keine Gewalt iSd § 240 StGB. Die Anklage trifft den Angeklagten nur im Verhältnis zu den nachfolgenden Fahrzeugen, die durch das vor ihnen stehende erste Fahrzeug physisch blockiert wurden. Im Verhältnis zum ersten Fahrer scheidet § 240 StGB aus.
 
 **Antrag § 153a StPO:**
 > Es wird beantragt, das Verfahren gemäß § 153a Abs. 1 StPO einzustellen. Der Angeklagte ist nicht vorbestraft, die Tat ist von geringer Schwere und der Angeklagte ist zur Zahlung einer Geldauflage in Höhe von ... EUR an die Staatskasse / die genannte gemeinnuetzige Einrichtung bereit.

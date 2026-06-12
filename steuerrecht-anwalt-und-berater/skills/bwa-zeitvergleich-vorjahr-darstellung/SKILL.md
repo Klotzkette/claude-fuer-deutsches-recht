@@ -80,9 +80,9 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Für das Mandantengespraec
 - Jeder Balken: Material/Personal/Sonstige/Abschreibung gestapelt.
 - Vorjahresvergleich darunter.
 
-### Phase 4 — Erlaeuterungstext zur Grafik
+### Phase 4 — Erläuterungstext zur Grafik
 
-- Jede Grafik mit 2-3 Saetzen erlaeutern.
+- Jede Grafik mit 2-3 Saetzen erläutern.
 - Auf wesentliche Auffaelligkeiten hinweisen.
 - Klar formulieren: "Im Marz Berichtsjahr lag der Umsatz rund 15 Prozent über Vorjahresmonat, im April rund 8 Prozent unter Vorjahresmonat."
 

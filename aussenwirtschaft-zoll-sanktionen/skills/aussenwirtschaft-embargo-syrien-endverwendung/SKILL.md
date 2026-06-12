@@ -36,7 +36,7 @@ description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergae
 - **AWG § 18**: Strafbarkeit bei Embargo-Verstoss.
 - **UZK Art. 56**: Embargogueter in Zollanmeldung.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] VO 36/2012 in aktueller Fassung geprueft?
 - [ ] Personensanktionsliste aktuell gescreent?
@@ -47,7 +47,7 @@ description: "EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergae
 
 ## Typische Fallstricke
 
-- Regime-Wechsel Ende 2024 fuehrt zu laufenden Lockerungen; keine statische Pruefliste verwenden.
+- Regime-Wechsel Ende 2024 fuehrt zu laufenden Lockerungen; keine statische Prüfliste verwenden.
 - Assad-nahe Entitaeten bleiben trotz Regime-Sturz auf Sanktionsliste; weiter screenen.
 - Waffenembargo gilt unabhaengig vom Regime.
 - Humanitaere Ausnahmen sind eng und erfordern Genehmigung.
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

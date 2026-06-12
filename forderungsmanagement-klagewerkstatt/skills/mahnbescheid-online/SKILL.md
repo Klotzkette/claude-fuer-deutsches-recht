@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online
-description: "Mahnbescheid (§§ 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspruchsfrist 2 Wochen § 692 ZPO, Vollstreckungsbescheid § 699 ZPO. Vorteile gegenueber Klage: niedrigere Kosten, schnellere Titulierung. Output: Pruefung ob MB sinnvoll + Antragsdaten."
+description: "Mahnbescheid (§§ 688-703d ZPO) online beantragen: zentrales Mahngericht je Bundesland, online-mahnbescheid.de, Widerspruchsfrist 2 Wochen § 692 ZPO, Vollstreckungsbescheid § 699 ZPO. Vorteile gegenueber Klage: niedrigere Kosten, schnellere Titulierung. Output: Prüfung ob MB sinnvoll + Antragsdaten."
 ---
 
 # Mahnbescheid online
@@ -34,7 +34,7 @@ Ausgeschlossen § 688 Abs. 2 ZPO:
 
 ## Zuständigkeit § 689 ZPO
 
-**Ausschließlich** das zentrale Mahngericht des Landes, in dem der Glaeubiger seinen allgemeinen Gerichtsstand hat:
+**Ausschließlich** das zentrale Mahngericht des Landes, in dem der Gläubiger seinen allgemeinen Gerichtsstand hat:
 
 | Bundesland | Zentrales Mahngericht |
 |---|---|
@@ -48,7 +48,7 @@ Ausgeschlossen § 688 Abs. 2 ZPO:
 | Sachsen, Sachsen-Anhalt, Thueringen | AG Aschersleben |
 | Saarland, Rheinland-Pfalz | AG Mayen |
 
-Bei Glaeubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Glaeubiger gegen Bekl. mit Wohnsitz in DE.
+Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (§ 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Gläubiger gegen Bekl. mit Wohnsitz in DE.
 
 ## Online-Antragstellung
 
@@ -71,7 +71,7 @@ Achtung: § 690 Abs. 1 Nr. 5 ZPO – Belehrung an Verbraucher uneingeschraenkte 
 ## Kosten
 
 - Gerichtsgebuehr: 0,5 (mindestens 36 EUR) nach KV 1100 GKG.
-- Anwaltsgebuehr: 1,0 Geschaeftsgebuehr VV 3305 RVG (etwa Streitwert 5.000 EUR = 303 EUR).
+- Anwaltsgebuehr: 1,0 Geschäftsgebuehr VV 3305 RVG (etwa Streitwert 5.000 EUR = 303 EUR).
 - Erheblich guenstiger als Klage (3,0 Verfahrensgebuehr + 1,2 Terminsgebuehr).
 
 ## Verfahrensablauf

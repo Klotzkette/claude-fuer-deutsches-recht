@@ -1,6 +1,6 @@
 ---
 name: cash-collateral-363
-description: "Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders im US Bankruptcy Code."
+description: "Prüft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders im US Bankruptcy Code."
 ---
 
 # Cash Collateral § 363

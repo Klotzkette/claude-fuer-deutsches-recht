@@ -19,7 +19,7 @@ Ein Gericht ist eine Behörde mit eigenen Konventionen. Sie müssen nicht jurist
 
 - **Aktenzeichen**: Eindeutige Nummer eines Verfahrens, z. B. "5 C 234/25".
 - **Schriftsatz**: Jedes schriftliche Eingabe ans Gericht.
-- **Geschaeftsstelle**: Buero des Gerichts, das Schriftsaetze entgegennimmt.
+- **Geschäftsstelle**: Buero des Gerichts, das Schriftsaetze entgegennimmt.
 
 ## Rechtsgrundlagen
 

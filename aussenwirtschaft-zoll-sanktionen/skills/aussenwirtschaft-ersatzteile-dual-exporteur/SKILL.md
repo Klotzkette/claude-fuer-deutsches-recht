@@ -36,7 +36,7 @@ description: "Exportkontrollpruefung für Ersatzteile und Komponenten mit Dual-U
 - **§ 18 AWG**: Strafbarkeit unerlaubter Ausfuhr.
 - **AWV § 8 ff.**: Genehmigungsverfahren und Ausnahmen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Technische Parameter des Ersatzteils vollstaendig bekannt?
 - [ ] Abgleich mit allen relevanten Kategorien des Anhangs I VO (EU) 2021/821 erfolgt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

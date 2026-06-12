@@ -30,7 +30,7 @@ description: "Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie 
 - § 288 BGB: Verzugszinsen über dem Basiszinssatz.
 - AGB-Klauseln, die Verzugszinsen unterhalb dieser Schwelle festlegen, sind unwirksam.
 
-## Pruefraster
+## Prüfraster
 
 1. Mahnpauschale angemessen?
 2. Zinsanpassung mit Indexkopplung?

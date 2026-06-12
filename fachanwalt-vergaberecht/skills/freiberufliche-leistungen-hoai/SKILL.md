@@ -14,7 +14,7 @@ description: "Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Recht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Prüfraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 ### Freiberufliche Leistungen (§ 50 VgV)
 
@@ -37,7 +37,7 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 
 ## HOAI 2021 und EuGH/BGH-Linie
 - EuGH C-377/17 Kommission/Deutschland (04.07.2019): Mindest- und Hoechstsaetze HOAI alte Fassung unionsrechtswidrig.
-- BGH VII ZR 174/19 (02.06.2022): HOAI-Saetze im Bestand-Inland-Verhaeltnis nicht zwingend.
+- BGH VII ZR 174/19 (02.06.2022): HOAI-Saetze im Bestand-Inland-Verhältnis nicht zwingend.
 - HOAI 2021: Orientierungshilfe, kein zwingender Mindestpreis; freie Honorarvereinbarung möglich.
 - Vergabepraxis: Honorar als Wertungskriterium zulässig und ueblich.
 

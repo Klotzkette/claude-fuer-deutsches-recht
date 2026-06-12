@@ -1,6 +1,6 @@
 ---
 name: forderung-werkvertrag-bau
-description: "Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen § 632a BGB, Sicherheit § 650f BGB. Mangelhaftigkeit § 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Pruefung Faelligkeit..."
+description: "Werklohnforderung § 631, § 641 BGB: Faelligkeit nach Abnahme, Schlussrechnung. Bauvertrag §§ 650a ff. BGB (seit 2018), VOB/B als AGB. Abschlagszahlungen § 632a BGB, Sicherheit § 650f BGB. Mangelhaftigkeit § 640 Abs. 2 BGB Abnahmeverweigerung. Output: Klageschrift Werklohn mit Prüfung Faelligkeit..."
 ---
 
 # Werklohnforderung – BGB und Bau
@@ -43,11 +43,11 @@ Abnahmevarianten:
 
 | Voraussetzung | Folge |
 |---|---|
-| Pruefbare Schlussrechnung | Faelligkeit Werklohn |
-| Pruefungsfrist Auftraggeber | Regel 30 Tage |
+| Prüfbare Schlussrechnung | Faelligkeit Werklohn |
+| Prüfungsfrist Auftraggeber | Regel 30 Tage |
 | Keine Schlussrechnung | Klage nur eingeschraenkt zulässig |
 
-§ 14 VOB/B (bei vereinbarter VOB/B): pruefbare Schlussrechnung mit Pruefungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber.
+§ 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber.
 
 ## Klageantrag-Muster
 
@@ -65,7 +65,7 @@ Klagegrund-Schlüssel:
 - Vertragsdatum, Vertragstyp (Werk-/Bauvertrag).
 - Leistungspflichten (Gewerk, Aufmass).
 - Erfuellung Kläger (Abnahmeprotokoll als K2).
-- Schlussrechnung (Datum, Pruefbarkeit).
+- Schlussrechnung (Datum, Prüfbarkeit).
 - Faelligkeit.
 
 ## Sicherungsmittel
@@ -107,7 +107,7 @@ Wesentliche VOB/B-Klauseln:
 ## Typische Fehler
 
 - Klage vor Abnahme = unzulaessig wegen fehlender Faelligkeit.
-- Schlussrechnung nicht pruefbar → keine Faelligkeit.
+- Schlussrechnung nicht prüfbar → keine Faelligkeit.
 - VOB/B als AGB beim Verbraucher verwendet → unwirksam.
 - Vorgerichtliche Anwaltskosten ohne Verzugseintritt geltend gemacht.
 - Sicherungshypothek § 650e BGB nicht beantragt (verschenkt Sicherheit).

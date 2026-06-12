@@ -142,7 +142,7 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 
 ## Fachbegriffe (kurz erklaert)
 
-- **AGB** — Allgemeine Geschaeftsbedingungen; vorformulierte Vertragsbedingungen unterliegen der Inhaltskontrolle nach §§ 307-309 BGB.
+- **AGB** — Allgemeine Geschäftsbedingungen; vorformulierte Vertragsbedingungen unterliegen der Inhaltskontrolle nach §§ 307-309 BGB.
 - **NDA** — Non-Disclosure Agreement (Nichtoffenbarungsvereinbarung); verpflichtet Parteien zur Geheimhaltung vertraulicher Informationen.
 - **MSA** — Master Service Agreement; Rahmenvertrag für wiederkehrende Leistungsbeziehungen, ergaenzt durch spezifische Leistungsbeschreibungen.
 - **Playbook** — Internes Regelwerk der Rechtsabteilung mit Mindestanforderungen und Roten Linien für Vertragsverhandlungen.
@@ -153,11 +153,11 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 ## Rechtsgrundlagen
 
 - §§ 305-310 BGB (AGB-Kontrolle)
-- §§ 311-313 BGB (Schuldverhaeltnisse, culpa in contrahendo, Stoerung der Geschaeftsgrundlage)
+- §§ 311-313 BGB (Schuldverhaeltnisse, culpa in contrahendo, Stoerung der Geschäftsgrundlage)
 - §§ 631 ff. BGB (Werkvertrag), §§ 611 ff. BGB (Dienstvertrag)
 - §§ 312g, 355 BGB (Widerrufsrecht im Fernabsatz)
 - § 13 UWG (Abmahnung im Wettbewerbsrecht)
-- §§ 17-18 GeschGehG (Geschaeftsgeheimnisschutz, relevant für NDA)
+- §§ 17-18 GeschGehG (Geschäftsgeheimnisschutz, relevant für NDA)
 - § 307 BGB (Generalklausel Inhaltskontrolle)
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
@@ -176,13 +176,13 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 - `vertragspruefung` — Vertrag gegen das Kanzlei-Playbook nach deutschem Recht prüfen und Risikokategorien ausweisen.
 - `lieferantenvertrag-pruefung` — Eingehenden Lieferanten- oder Dienstleistervertrag gegen das Playbook prüfen (Werk-/Dienstvertrag, Haftungscaps).
 - `nda-pruefung` — Schnelle Triage eingehender NDA in Gruen/Gelb/Rot; nur auffaellige Vereinbarungen eskalieren.
-- `nda-durchsetzer` — NDA der Gegenseite konservativ im Aenderungsmodus ueberarbeiten ohne Struktur zu veraendern.
+- `nda-durchsetzer` — NDA der Gegenseite konservativ im Änderungsmodus ueberarbeiten ohne Struktur zu veraendern.
 - `agb-pruefung` — AGB auf Einbeziehung, Inhaltskontrolle nach §§ 305-310 BGB und unwirksame Klauseln prüfen.
 - `saas-msa-pruefung` — SaaS-Abonnement- und Rahmenvertraege prüfen (AGB-Kontrolle, automatische Verlaengerung, Datenschutzklauseln).
 - `abmahnung-uwg` — UWG-Abmahnung verfassen oder prüfen sowie modifizierte Unterlassungserklaerung entwerfen.
 - `widerruf-fernabsatz` — Widerrufsrecht im Fernabsatz nach §§ 312g und 355 BGB prüfen; Belehrungspflichten und Fristberechnungen.
 - `eskalations-marker` — Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix zuordnen und Genehmigungsanfrage erstellen.
-- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung für Geschaeftsfuehrung oder Einkauf uebersetzen.
+- `stakeholder-zusammenfassung` — Vertragspruefungsmemo in eine Zusammenfassung für Geschäftsführung oder Einkauf übersetzen.
 - `aenderungs-historie` — Veraenderungen eines Vertrags über Basisvertrag und Nachtraege hinweg nachvollziehen.
 - `vertragsverlaengerungs-monitor` — Verträge mit ablaufenden Kuendigungsfristen anzeigen und rechtzeitig warnen.
 - `pruefungsvorschlaege` — Ausstehende Playbook-Aktualisierungsvorschlaege prüfen und genehmigen oder ablehnen.
@@ -201,7 +201,7 @@ Das Plugin arbeitet mit einem Kanzlei-Playbook-Konzept: Einmal definierte Standa
 - NDA mit unklarem Schutzgegenstand: Was als vertraulich gilt, ist nicht hinreichend definiert — im Streitfall beweisbar schwach.
 - SaaS-Verträge ohne Datenrueckgabeklausel: Mandant verliert Zugang zu Daten nach Vertragsende.
 - Verlaengerungsklausel uebersehen: Vertrag verlaengert sich automatisch um ein Jahr, weil Kuendigungsfenster verpasst wurde.
-- Playbook nicht auf aktuellen Gesetzesstand gebracht: AGB-Aenderungen durch EuGH-Rechtsprechung oder BGH-Urteile werden nicht eingepflegt.
+- Playbook nicht auf aktuellen Gesetzesstand gebracht: AGB-Änderungen durch EuGH-Rechtsprechung oder BGH-Urteile werden nicht eingepflegt.
 
 ## Quellen und Aktualitaet
 

@@ -40,7 +40,7 @@ Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 
 - **§ 370 AO**: Steuerhinterziehung bei Falschdeklaration im Zollrecht.
 - **§ 22 ZollVG**: Nacherhebung und Selbstkorrektur-Verfahren.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Strafbarkeit nach § 18 AWG oder Ordnungswidrigkeit nach § 19 AWG eingeordnet?
 - [ ] Selbstkorrektur-Option geprueft und Fristen beachtet?
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

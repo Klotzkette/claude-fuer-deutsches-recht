@@ -74,7 +74,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
  - **Teilhabe Arbeitsleben § 111 SGB IX** (WfbM, BBE, Andere Anbieter, Budget für Arbeit § 61 SGB IX).
  - **Medizinische Reha** wenn kein vorrangiger Traeger (§ 109 SGB IX).
 - **Persoenliches Budget § 29 SGB IX:** Wahlrecht; Kostenobergrenze gleich Sachleistung; Zielvereinbarung verpflichtend.
-- **Einkommens- und Vermoegensanrechnung § 135 ff. SGB IX:** seit BTHG erheblich entschaerft - Arbeitseinkommen Werkstattbeschaeftigter frei; Vermögen bis 65.880 EUR (Stand 2024, jaehrlich Anpassung) geschuetzt; ggf. Beitrag aus Einkommen oberhalb Grenzen.
+- **Einkommens- und Vermögensanrechnung § 135 ff. SGB IX:** seit BTHG erheblich entschaerft - Arbeitseinkommen Werkstattbeschaeftigter frei; Vermögen bis 65.880 EUR (Stand 2024, jaehrlich Anpassung) geschuetzt; ggf. Beitrag aus Einkommen oberhalb Grenzen.
 - **Gesamtplanverfahren § 117 SGB IX:** Bedarfsermittlung mit ICF; Beteiligung des Leistungsberechtigten verpflichtend; Verfahrensfehler ist Bescheidmangel.
 - **Eil-Rechtsschutz** bei Versorgungsluecke z. B. Assistenz, drohendem Heimwechsel; § 86b II SGG.
 - **Praxis-Tipp:** Genau dokumentierter Bedarf in den Lebensbereichen (ADL-Beobachtungen, Pflegetagebuch, Aussagen Bezugspersonen); ggf. Antrag auf Persoenliches Budget zur Steigerung Selbstbestimmung.

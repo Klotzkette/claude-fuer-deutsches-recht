@@ -1,6 +1,6 @@
 ---
 name: teammeetings-agile
-description: "Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien im Sozialversicherungsstatus Pruefer."
+description: "Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien im Sozialversicherungsstatus Prüfer."
 ---
 
 # Teammeetings und agile Steuerung

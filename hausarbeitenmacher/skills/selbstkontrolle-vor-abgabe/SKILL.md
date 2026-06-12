@@ -23,10 +23,10 @@ description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale V
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Zentrale Normen
-- § 276 BGB — Verschulden: Massstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
+- § 276 BGB — Verschulden: Maßstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
 - § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
 - §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prüft Konsistenz der Auslegungsergebnisse
-- § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Pruefungsleistungen
+- § 17 JAG NRW analog — Qualitaetsstandards für schriftliche Prüfungsleistungen
 
 ## Durchgang 1 — Inhaltlich
 

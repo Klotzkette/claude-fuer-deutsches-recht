@@ -32,7 +32,7 @@
 | neue Stellungnahme fehlt im Register | Orange | Quartalsupload prüfen | naechster Arbeitstag |
 | Auftraggeber/Unterauftrag weicht ab | Orange | Vertragsregister abgleichen | naechster Arbeitstag |
 | Zweigniederlassung als zweiter Treffer | Orange/Rot | Doppelregistrierungsvermerk | naechster Arbeitstag |
-| Kodexverstoss markiert | Rot | Compliance und Geschaeftsleitung informieren | sofort |
+| Kodexverstoss markiert | Rot | Compliance und Geschäftsleitung informieren | sofort |
 | Gegenpartei neu registriert | Gruen/Orange | Due-Diligence-Akte aktualisieren | naechster Lauf |
 
 ## Ergebnisformat

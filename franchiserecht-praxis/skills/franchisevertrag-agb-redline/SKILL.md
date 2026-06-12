@@ -23,7 +23,7 @@ Ein Franchisevertrag soll vor Unterzeichnung geprüft oder nach Streitentstehung
 2. AGB-Eigenschaft prüfen: Hat der Franchisegeber die Klauseln einseitig vorformuliert und für mehrere Verträge verwendet?
 3. Einbeziehungskontrolle nach § 305 Abs. 2 BGB: Ausdrücklicher Hinweis und Möglichkeit der Kenntnisnahme bei Vertragsschluss?
 4. Überraschende Klauseln nach § 305c BGB identifizieren: Besonders weitreichende Systemhandbuchvorbehalte, einseitige Änderungsrechte.
-5. Inhaltskontrolle nach §§ 307 ff. BGB für jede Klausel: Unangemessene Benachteiligung prüfen; bei Unternehmern strengerer Massstab als bei Verbrauchern.
+5. Inhaltskontrolle nach §§ 307 ff. BGB für jede Klausel: Unangemessene Benachteiligung prüfen; bei Unternehmern strengerer Maßstab als bei Verbrauchern.
 6. Kartellrechtlichen Rahmen der Bezugsbindungs- und Exklusivklauseln nach Art. 3 Vertikal-GVO EU 2022/720 und § 1 GWB prüfen.
 
 ## Rechtsrahmen

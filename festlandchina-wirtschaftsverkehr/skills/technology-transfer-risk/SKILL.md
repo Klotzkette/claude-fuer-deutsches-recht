@@ -1,6 +1,6 @@
 ---
 name: technology-transfer-risk
-description: "Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output:..."
+description: "Technologietransfer-Risiken im China-Geschäft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output:..."
 ---
 
 # Technologietransfer China: Risiken und Schutzmaßnahmen

@@ -1,13 +1,13 @@
 ---
 name: aussenwirtschaft-audit-trail-freigaben
-description: "Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Pruefun..."
+description: "Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Prüfun..."
 ---
 
 # Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel
 
 ## Arbeitsbereich
 
-Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation für Prüfungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -40,7 +40,7 @@ Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: 
 - **§ 14 AWG**: Auskunftspflichten und Kontrollbefugnisse der Behörden.
 - **GoBD (BMF-Schreiben 2019)**: Grundsaetze ordnungsmäßiger Buchfuehrung für digitale Unterlagen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Aufbewahrungspflicht je Dokument-Kategorie bekannt und umgesetzt?
 - [ ] Zeitstempel und Versionierung für alle elektronischen Dokumente sichergestellt?
@@ -51,7 +51,7 @@ Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: 
 
 ## Typische Fallstricke
 
-- Papier-Dokumente ungeschuetzt archiviert; im Pruefungsfall nicht auffindbar.
+- Papier-Dokumente ungeschuetzt archiviert; im Prüfungsfall nicht auffindbar.
 - Screening-Logs ohne Datum oder Quellangabe sind als Nachweis wertlos.
 - Zugriffsberechtigungen nicht protokolliert; Manipulationsrisiko im Audit.
 - Aufbewahrungsfristen je Dokumenttyp verschieden; pauschale 5-Jahres-Regel reicht nicht.
@@ -71,7 +71,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

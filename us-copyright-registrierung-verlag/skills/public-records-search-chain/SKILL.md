@@ -1,6 +1,6 @@
 ---
 name: public-records-search-chain
-description: "Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations im Us Copyright Registrierung Verlag."
+description: "Prüft USCO public records, catalog, recorded documents, gaps, name variants and old registrations im Us Copyright Registrierung Verlag."
 ---
 
 # Public Records Search and Chain

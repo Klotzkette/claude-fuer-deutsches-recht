@@ -32,7 +32,7 @@ description: "PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffu
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 20 §§ 1-80**: Allgemeiner Teil — Schuld, Versuch, Teilnahme, Strafarten.
 - **ALR II 20 §§ 19-22**: Schlafwandler, Trunkenheit, Wahnsinn — Vorlaeufer der modernen Schuldfaehigkeitsregel § 20 StGB.
 - **ALR II 20 §§ 80-150**: Staatsverbrechen — Hochverrat, Majestaetsbeleidigung.

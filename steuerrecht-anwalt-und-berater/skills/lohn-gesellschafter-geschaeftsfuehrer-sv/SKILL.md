@@ -1,9 +1,9 @@
 ---
 name: lohn-gesellschafter-geschaeftsfuehrer-sv
-description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandan..."
+description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschäftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandan..."
 ---
 
-# Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung
+# Gesellschafter-Geschäftsführer — SV-Pflicht oder Befreiung
 
 ## Fachlicher Anker
 
@@ -13,24 +13,24 @@ description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung.
 
 ## Kernsachverhalt
 
-Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufig strittig: abhaengig beschaeftigt (= SV-pflichtig) oder selbstaendig (= nicht SV-pflichtig). Die DRV-Statusfeststellung (§ 7a SGB IV) gibt Rechtssicherheit. Wesentliche Kriterien: Beteiligungshoehe, Weisungsgebundenheit, unternehmerisches Risiko, Sperrminoritaet. BSG-Rechtsprechung sehr detailliert; Fehlklassifikation fuehrt zu Nachforderung über 4 Jahre + Saeumniszuschlag.
+Bei Gesellschafter-Geschäftsführern (GGF) einer GmbH ist die SV-Pflicht haeufig strittig: abhaengig beschäftigt (= SV-pflichtig) oder selbständig (= nicht SV-pflichtig). Die DRV-Statusfeststellung (§ 7a SGB IV) gibt Rechtssicherheit. Wesentliche Kriterien: Beteiligungshoehe, Weisungsgebundenheit, unternehmerisches Risiko, Sperrminoritaet. BSG-Rechtsprechung sehr detailliert; Fehlklassifikation fuehrt zu Nachforderung über 4 Jahre + Saeumniszuschlag.
 
 ## Kaltstart-Rueckfragen
 
 1. Welche Beteiligungshoehe hat der GGF (Prozentsatz Kapital)?
 2. Liegt Stimmrechtsvertrag mit Sperrminoritaet vor?
-3. Welche Anstellung — Geschaeftsfuehrer-Vertrag mit festem Gehalt? Erfolgsbezogen?
+3. Welche Anstellung — Geschäftsführer-Vertrag mit festem Gehalt? Erfolgsbezogen?
 4. Welche Weisungsgebundenheit (Gesellschafterversammlung Weisungen)?
 5. Andere Gesellschafter (Familie, externe)?
 6. Wurde Statusfeststellung beantragt? Liegt Bescheid vor?
 7. Liegt aktuelle BSG-Rechtsprechung dazu vor (z.B. Familien-GmbH)?
-8. Bei abhaengiger Beschaeftigung: SV-Pflicht alle Zweige?
+8. Bei abhaengiger Beschäftigung: SV-Pflicht alle Zweige?
 
 ## Rechtlicher Rahmen
 
 ### Primaernormen
 
-**§ 7 SGB IV** — Beschaeftigungs-Definition (abhaengig vs. selbstaendig).
+**§ 7 SGB IV** — Beschäftigungs-Definition (abhaengig vs. selbständig).
 
 **§ 7a SGB IV** — Statusfeststellungsverfahren bei DRV.
 
@@ -38,7 +38,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 **§ 28p SGB IV** — Prüfung Sozialversicherungsbeitraege.
 
-**GmbHG §§ 37, 47** — Geschaeftsfuehrer-Stellung und Stimmrechte.
+**GmbHG §§ 37, 47** — Geschäftsführer-Stellung und Stimmrechte.
 
 ### Leitentscheidungen BSG
 
@@ -52,7 +52,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 ### Phase 1 — Kriterien-Prüfung
 
-| Kriterium | Spricht für selbstaendig | Spricht für abhaengig |
+| Kriterium | Spricht für selbständig | Spricht für abhaengig |
 |---|---|---|
 | Kapitalbeteiligung | Mehrheit | Minderheit |
 | Stimmrechte | Mehrheit oder Sperrminoritaet | Minderheit ohne Sperre |
@@ -70,7 +70,7 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 - Bearbeitungszeit ca. 3-6 Monate.
 - Bescheid bindet auch für Krankenkasse und FA.
 
-### Phase 3 — Wirkung bei selbstaendig
+### Phase 3 — Wirkung bei selbständig
 
 - Keine SV-Pflicht.
 - AG zahlt keine SV-Beitraege.
@@ -87,10 +87,10 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 ### Phase 5 — Sonderfaelle
 
-- Fremd-Geschaeftsfuehrer (keine Kapitalbeteiligung): in der Regel abhaengig.
+- Fremd-Geschäftsführer (keine Kapitalbeteiligung): in der Regel abhaengig.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Geschaeftsfuehrer mit echter Sperrminoritaet über satzungsmäßige Beschlüsse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbstaendig.
-- 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbstaendig (kein Beschluss gegen ihn möglich).
+- Geschäftsführer mit echter Sperrminoritaet über satzungsmäßige Beschlüsse (typisch >25 Prozent bei Mehrheitsklauseln; einzelfallabhaengig): selbständig.
+- 50/50-GGF mit zwei Gesellschaftern und Vetoposition: selbständig (kein Beschluss gegen ihn möglich).
 - Wichtig: Stimmrechtsvereinbarungen ausserhalb der Satzung (Pool-Vertrag) werden vom BSG seit ca. 2015 nicht mehr als Sperrminoritaet anerkannt.
 
 ### Phase 6 — Risiko bei Fehlklassifikation
@@ -104,10 +104,10 @@ Bei Gesellschafter-Geschaeftsfuehrern (GGF) einer GmbH ist die SV-Pflicht haeufi
 
 - Statusfeststellung bei jedem GGF zwingend empfehlen — Rechtssicherheit.
 - Bei Familien-GmbH besonders sorgfaeltig — BSG hat hier mehrfach gewechselt.
-- Satzungsmäßige Sperrminoritaet (Höhe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbstaendigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
-- Bei spaeterer Aenderung (Verkauf Anteile, neue Gesellschaftervereinbarung): Statusfeststellung wiederholen.
+- Satzungsmäßige Sperrminoritaet (Höhe je nach Gesellschaftsvertrag, typisch >25 Prozent) ist nach BSG-Linie die sichere Trennlinie zu Selbständigkeit; Stimmrechtsvereinbarungen ausserhalb der Satzung reichen nicht.
+- Bei spaeterer Änderung (Verkauf Anteile, neue Gesellschaftervereinbarung): Statusfeststellung wiederholen.
 - StBVV: Statusfeststellung als Zusatzauftrag mit Zeithonorar (komplex).
-- DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schlüssel; bei "selbstaendig" Lohnabrechnung manuell konfigurieren.
+- DATEV-Tipp: DATEV LODAS bei GGF separate Personengruppen-Schlüssel; bei "selbständig" Lohnabrechnung manuell konfigurieren.
 
 ## Quellen und Updates
 
@@ -119,4 +119,4 @@ Stand: 05/2026.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 3 Marker aufgeloest: 2 bestaetigt (BSG-Az recherchiert), 1 ersetzt (Prüfhinweis ohne Marker) -->

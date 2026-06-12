@@ -1,6 +1,6 @@
 ---
 name: avv-cloud-und-subverarbeitung-art-28-iv
-description: "Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Pruefraster für Sub-AV-Listen."
+description: "Auftragsverarbeitung bei Cloud-Diensten und Sub-Verarbeitung nach Art. 28 Abs. 2 und Abs. 4 DSGVO. Behandelt die Sub-AV-Kette das Genehmigungsverfahren die Informationspflicht beim Wechsel sowie die Haftungsdurchleitung. Output: Sub-AV-Klauselbaukasten und Prüfraster für Sub-AV-Listen."
 ---
 
 # Cloud und Sub-Auftragsverarbeitung Art. 28 Abs. 2 und Abs. 4 DSGVO
@@ -19,7 +19,7 @@ Behandlung von Sub-Auftragsverarbeitern in Cloud-Konstellationen mit typischerwe
 ## Rechtlicher Rahmen
 
 - Art. 28 Abs. 2 Satz 1 DSGVO: Auftragsverarbeiter nimmt keinen weiteren Auftragsverarbeiter ohne vorherige gesonderte oder allgemeine schriftliche Genehmigung des Verantwortlichen in Anspruch.
-- Art. 28 Abs. 2 Satz 2 DSGVO: Bei allgemeiner Genehmigung Information über jede beabsichtigte Aenderung; Verantwortlicher hat Recht zum Einspruch.
+- Art. 28 Abs. 2 Satz 2 DSGVO: Bei allgemeiner Genehmigung Information über jede beabsichtigte Änderung; Verantwortlicher hat Recht zum Einspruch.
 - Art. 28 Abs. 4 DSGVO: Sub-Auftragsverarbeiter unterliegt durch Vertrag oder anderes Rechtsinstrument den gleichen Datenschutzpflichten wie der Auftragsverarbeiter. Wenn er diese nicht erfuellt, haftet der primaere Auftragsverarbeiter weiter gegenueber dem Verantwortlichen.
 - Beschluss (EU) 2021/914 Klausel 9: Sub-AV-Mechanik im SCC-Kontext.
 
@@ -60,9 +60,9 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 
 > "(1) Der Verantwortliche erteilt dem Auftragsverarbeiter die allgemeine Genehmigung im Sinne des Art. 28 Abs. 2 DSGVO, weitere Auftragsverarbeiter ('Sub-Auftragsverarbeiter') gemäß der als Anlage 3 beigefuegten Liste mit der Verarbeitung personenbezogener Daten zu beauftragen.
 >
-> (2) Der Auftragsverarbeiter informiert den Verantwortlichen mindestens dreissig (30) Kalendertage vor Wirksamwerden über jede beabsichtigte Aenderung in Bezug auf die Hinzuziehung oder die Ersetzung von Sub-Auftragsverarbeitern.
+> (2) Der Auftragsverarbeiter informiert den Verantwortlichen mindestens dreissig (30) Kalendertage vor Wirksamwerden über jede beabsichtigte Änderung in Bezug auf die Hinzuziehung oder die Ersetzung von Sub-Auftragsverarbeitern.
 >
-> (3) Der Verantwortliche kann der Aenderung innerhalb von dreissig (30) Kalendertagen nach Zugang der Information aus berechtigten Gruenden schriftlich widersprechen. Berechtigte Gruende liegen insbesondere vor bei Drittlandverarbeitung ohne ausreichende Schutzmassnahmen, bei unzureichenden technischen und organisatorischen Maßnahmen oder bei einem Sub-Auftragsverarbeiter, der ein direkter Wettbewerber des Verantwortlichen ist.
+> (3) Der Verantwortliche kann der Änderung innerhalb von dreissig (30) Kalendertagen nach Zugang der Information aus berechtigten Gruenden schriftlich widersprechen. Berechtigte Gruende liegen insbesondere vor bei Drittlandverarbeitung ohne ausreichende Schutzmassnahmen, bei unzureichenden technischen und organisatorischen Maßnahmen oder bei einem Sub-Auftragsverarbeiter, der ein direkter Wettbewerber des Verantwortlichen ist.
 >
 > (4) Im Fall eines berechtigten Widerspruchs, den der Auftragsverarbeiter nicht durch zumutbare technische oder organisatorische Maßnahmen ausraeumen kann, ist der Verantwortliche zur ausserordentlichen Kuendigung des Hauptvertrags und dieses Auftragsverarbeitungsvertrags berechtigt.
 >
@@ -73,7 +73,7 @@ Sub-AV-Klausel mit allgemeiner Genehmigung und Listenmechanik:
 ## Typische Drafting-Fehler
 
 - Allgemeine Genehmigung "für alle gegenwaertigen und zukuenftigen Sub-AV ohne Information" – nicht Art. 28 Abs. 2 DSGVO-konform.
-- Liste der Sub-AV nicht aktuell, kein Aenderungsverfahren definiert.
+- Liste der Sub-AV nicht aktuell, kein Änderungsverfahren definiert.
 - Frist zu kurz (z. B. 7 Tage) – Einspruchsrecht faktisch ausgehoehlt.
 - Back-to-Back-Vertrag nicht abgeschlossen oder nicht nachweisbar.
 - Drittland-Sub-AV ohne SCC oder ohne TIA.

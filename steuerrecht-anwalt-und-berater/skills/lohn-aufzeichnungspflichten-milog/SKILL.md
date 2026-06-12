@@ -1,6 +1,6 @@
 ---
 name: lohn-aufzeichnungspflichten-milog
-description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz."
+description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschäftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz."
 ---
 
 # Aufzeichnungspflichten nach MiLoG § 17
@@ -13,7 +13,7 @@ description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante
 
 ## Kernsachverhalt
 
-Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft Arbeitgeber in bestimmten Branchen (§ 17 MiLoG i.V.m. SchwarzArbG) sowie alle Minijob-Verhaeltnisse. Form: schriftlich, papierfest oder digital, spaetestens am 7. Folgetag. Aufbewahrungsfrist: 2 Jahre. Verstoesse: Bussgeld bis 30.000 EUR. Sonderfall: BAG zur EuGH-Rechtsprechung verlangt allgemeine Arbeitszeit-Erfassung.
+Die Aufzeichnungspflicht der taeglichen Arbeitszeit (Beginn, Ende, Dauer) trifft Arbeitgeber in bestimmten Branchen (§ 17 MiLoG i.V.m. SchwarzArbG) sowie alle Minijob-Verhältnisse. Form: schriftlich, papierfest oder digital, spaetestens am 7. Folgetag. Aufbewahrungsfrist: 2 Jahre. Verstoesse: Bussgeld bis 30.000 EUR. Sonderfall: BAG zur EuGH-Rechtsprechung verlangt allgemeine Arbeitszeit-Erfassung.
 
 ## Kaltstart-Rueckfragen
 
@@ -91,8 +91,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Sondersituation Außendienst, Home-Office: Aufzeichnung am Ort der Taetigkeit.
-- Bei Prüfung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Uebersetzung.
-- Bei Minijob: Aufzeichnung ist zentrale Pruefungsstelle der Prüfer.
+- Bei Prüfung durch Zoll: Vorlage in Deutsch in Originalform oder beglaubigter Übersetzung.
+- Bei Minijob: Aufzeichnung ist zentrale Prüfungsstelle der Prüfer.
 - StBVV: Beratung Aufzeichnungspflichten Zusatzauftrag.
 - DATEV-Tipp: DATEV-Zeitwirtschaft als Modul; Schnittstelle zu LODAS.
 
@@ -105,4 +105,4 @@ Stand: 05/2026.
 - ArbZG § 16.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Pruefungshinweis neu formuliert ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 1 Marker aufgeloest: 1 ersetzt (Prüfungshinweis neu formuliert ohne Marker) -->

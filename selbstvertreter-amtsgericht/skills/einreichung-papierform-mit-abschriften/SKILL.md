@@ -13,7 +13,7 @@ Buerger dürfen weiterhin in Papierform einreichen. Es gibt kein § 130d-ZPO-Pfl
 
 - Sie wollen klassisch per Post einreichen.
 - Sie haben kein MJP-Konto und keine Zeit, eines einzurichten.
-- Sie wollen persoenlich an der Geschaeftsstelle abgeben.
+- Sie wollen persoenlich an der Geschäftsstelle abgeben.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -62,11 +62,11 @@ Optionen:
 - **Einschreiben mit Rueckschein**: Best — Beweis für Zugang.
 - **Einschreiben Einwurf**: Etwas guenstiger, Beweis ist Sendungs-Verlaufsmeldung.
 - **Normaler Brief**: Riskant; kein Zugangs-Beweis. Vermeiden, wenn Frist laeuft.
-- **Persoenlich an der Geschaeftsstelle**: Sicherster Weg. Sie bekommen Eingangsstempel.
+- **Persoenlich an der Geschäftsstelle**: Sicherster Weg. Sie bekommen Eingangsstempel.
 
 ### Schritt 6 — Persoenliche Abgabe
 
-- Gehen Sie zur Geschaeftsstelle des Amtsgerichts (Oeffnungszeiten beachten).
+- Gehen Sie zur Geschäftsstelle des Amtsgerichts (Oeffnungszeiten beachten).
 - Bringen Sie Ihre **eigene Kopie** als Stempelbeleg-Vorlage mit.
 - Mitarbeiter stempelt auf Ihrer Kopie das Eingangsdatum.
 - Wichtig: Stempel ist Ihr Beweis. Aufbewahren!

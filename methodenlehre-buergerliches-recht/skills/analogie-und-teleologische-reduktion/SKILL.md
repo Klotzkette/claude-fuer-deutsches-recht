@@ -30,7 +30,7 @@ Rechtsfortbildung ist im deutschen Zivilrecht ein vom BGH stetig genutztes Werkz
 
 ## Methodische Grundlage
 
-**Klassiker:** Karl Larenz, "Methodenlehre der Rechtswissenschaft" 1960 — entwickelt das Verhaeltnis von Auslegung, Analogie und teleologischer Reduktion als Stufenmodell der Rechtsfortbildung.
+**Klassiker:** Karl Larenz, "Methodenlehre der Rechtswissenschaft" 1960 — entwickelt das Verhältnis von Auslegung, Analogie und teleologischer Reduktion als Stufenmodell der Rechtsfortbildung.
 
 **Voraussetzungen der Analogie:**
 

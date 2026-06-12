@@ -1,6 +1,6 @@
 ---
 name: aufschubentscheidung-market
-description: "Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance."
+description: "Prüft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht im Insiderrecht Compliance."
 ---
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR

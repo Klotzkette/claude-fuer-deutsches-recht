@@ -54,7 +54,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **EGVP:** elektronisches Gerichts- und Verwaltungspostfach.
 - **Anwaltliche Formulare:**
  - Vollmacht (sicher mit Vertretungsbefugnis im Strafverfahren § 411 II StPO).
- - PKH-Antrag § 117 ZPO mit Vermoegensverhaeltnissen.
+ - PKH-Antrag § 117 ZPO mit Vermögensverhaeltnissen.
  - Akteneinsichtsantrag mit Aktenzeichen.
 - **Klage gegen KH-Versicherer:**
  - Direktklage § 115 VVG.

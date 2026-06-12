@@ -1,6 +1,6 @@
 ---
 name: gruppenfeststellung-gleichartige-auftraege
-description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen im Sozialversicherungsstatus Pruefer."
+description: "Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Gruppenfeststellung gleichartige Aufträge

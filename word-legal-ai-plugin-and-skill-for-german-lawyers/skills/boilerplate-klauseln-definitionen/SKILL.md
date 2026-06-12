@@ -59,7 +59,7 @@ Entsprechendes gilt für den Fall, dass dieser Vertrag eine Luecke enthaelt.
 
 ### Klausel 2: Schriftformklausel (§ 126 BGB)
 
-**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsätzlich wirksam (Aenderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
+**Voraussetzung:** Gewillkuerte Schriftform nach § 127 BGB. Vorsicht: doppelte Schriftformklausel im B2B grundsätzlich wirksam (Änderung dieser Klausel selbst nur in Schriftform), im B2C nach AGB-Recht angreifbar.
 
 **Mustertext (Doppelte Schriftform, B2B):**
 
@@ -69,7 +69,7 @@ Dies gilt auch für die Aufhebung dieser Schriftformklausel selbst.
 Muendliche Nebenabreden bestehen nicht.
 ```
 
-**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Aenderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. prüfen.
+**Hinweis:** Der BGH hat in mehreren Entscheidungen klargestellt, dass eine doppelte Schriftformklausel in AGB die mittels Individualabrede vorgenommene Änderung nicht ausschliessen kann. Vor Verwendung im B2C aktuelle BGH-Rspr. prüfen.
 
 ### Klausel 3: Gerichtsstandsvereinbarung (§ 38 ZPO)
 
@@ -134,10 +134,10 @@ Faellt unter Klausel 1 (Salvatorische).
 ## Typische Drafting-Fehler
 
 - **Salvatorische Klausel als Allzweckwaffe.** Sie heilt nicht jede Klausellucke und kehrt nicht die Darlegungslast um.
-- **Doppelte Schriftform im B2C.** Vorsicht. Im AGB-Verhaeltnis schwer wirksam zu halten.
+- **Doppelte Schriftform im B2C.** Vorsicht. Im AGB-Verhältnis schwer wirksam zu halten.
 - **Gerichtsstand mit Verbraucher.** Unzulaessig nach § 38 Abs. 2, Abs. 3 ZPO.
 - **Rechtswahl ohne CISG-Ausschluss.** Bei internationalem Warenkauf gilt CISG automatisch, falls nicht ausgeschlossen.
-- **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung pruefbar.
+- **Mitteilungsklausel ohne Empfangsadresse.** Macht keine Zustellung prüfbar.
 - **Abtretungsverbot ohne § 354a HGB.** Bei Geldforderungen aus Handelsgeschaeft unwirksam.
 
 ## Beispiel

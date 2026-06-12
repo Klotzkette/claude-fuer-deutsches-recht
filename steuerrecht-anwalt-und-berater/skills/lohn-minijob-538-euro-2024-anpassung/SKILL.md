@@ -1,6 +1,6 @@
 ---
 name: lohn-minijob-538-euro-2024-anpassung
-description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Kna..."
+description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschäftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Kna..."
 ---
 
 # Minijob — 538-EUR-Grenze und Anpassungen
@@ -13,7 +13,7 @@ description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.1
 
 ## Kernsachverhalt
 
-Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: 10 Wochenstunden bei 12 EUR Mindestlohn = 480 EUR; bei 12,41 EUR (Stand 01.01.2024) ergab das 538 EUR. Bei MiLo-Anhebungen steigt die Grenze entsprechend. Pauschalabgaben des AG: 30 Prozent (15 RV + 13 KV + 2 LSt) bzw. 12 Prozent bei Privathaushalt. AN ist SV-frei (Ausnahme: RV-Pflicht mit Opt-out).
+Die geringfuegige Beschäftigung ("Minijob") ist seit 01.10.2022 dynamisch an den Mindestlohn gekoppelt: 10 Wochenstunden bei 12 EUR Mindestlohn = 480 EUR; bei 12,41 EUR (Stand 01.01.2024) ergab das 538 EUR. Bei MiLo-Anhebungen steigt die Grenze entsprechend. Pauschalabgaben des AG: 30 Prozent (15 RV + 13 KV + 2 LSt) bzw. 12 Prozent bei Privathaushalt. AN ist SV-frei (Ausnahme: RV-Pflicht mit Opt-out).
 
 ## Kaltstart-Rueckfragen
 
@@ -30,7 +30,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 
 ### Primaernormen
 
-**§ 8 SGB IV** — geringfuegige Beschaeftigung; aktuelle Grenze dynamisch an MiLo gekoppelt (538 EUR Stand 01.01.2024; bei MiLo-Anhebung dynamisch).
+**§ 8 SGB IV** — geringfuegige Beschäftigung; aktuelle Grenze dynamisch an MiLo gekoppelt (538 EUR Stand 01.01.2024; bei MiLo-Anhebung dynamisch).
 
 **§ 8a SGB IV** — Privathaushalts-Minijob.
 
@@ -86,7 +86,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 ### Phase 4 — Anmeldung Minijob-Zentrale
 
 - Knappschaft Bahn-See als zentrale Stelle.
-- Anmeldung bei Beginn (Sofort wie SV-pflichtige Beschaeftigung).
+- Anmeldung bei Beginn (Sofort wie SV-pflichtige Beschäftigung).
 - Beitragsnachweis spaetestens drittletzter Bankarbeitstag.
 
 ### Phase 5 — Aufzeichnungspflicht MiLoG
@@ -99,7 +99,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 ### Phase 6 — Schwellen-Risiko
 
 - Aushilfen mit jahresweise variierendem Lohn: Jahresdurchschnitt prüfen.
-- Bei voraussichtlicher Grenzueberschreitung: rechtzeitig SV-pflichtige Beschaeftigung statt Minijob.
+- Bei voraussichtlicher Grenzueberschreitung: rechtzeitig SV-pflichtige Beschäftigung statt Minijob.
 - Bei Grenzueberschreitung rueckwirkend: Nachforderung SV-Beitraege (AG- und AN-Anteil), § 28e SGB IV.
 
 ## Strategie und Praxis-Tipps
@@ -107,7 +107,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - 538 EUR (Stand 01.01.2024) ist nicht statisch — bei MiLo-Erhoehung neue Grenze; jeweils zum Stichtag prüfen.
 - Bei wesentlichen Sonderzahlungen Auslegung als regelmaessig im Jahresdurchschnitt — sonst Grenzverletzung.
 - Opt-out RV nur bei verstanden vom AN — Nachteil: keine Anrechnung auf RV-Anwartschaft.
-- Mehrfache Minijobs: AG haftet nur für eigenen Minijob; AN-Pruefpflicht aber.
+- Mehrfache Minijobs: AG haftet nur für eigenen Minijob; AN-Prüfpflicht aber.
 - StBVV: Minijob in Lohnpauschale; komplexe Sonderfaelle (Sonderzahlungen) Zeithonorar.
 - DATEV-Tipp: DATEV LODAS Minijob-Konfiguration prüft automatisch Grenze; bei MiLo-Update jaehrlich anpassen.
 
@@ -122,5 +122,5 @@ Stand: 05/2026.
 - Gemeinsame Rundschreiben Spitzenverbaende KK.
 - Minijob-Grenze 2025: 556 EUR/Monat (MiLo 12,82 EUR). Minijob-Grenze 2026: 603 EUR/Monat (MiLo 13,90 EUR, MiLoV5 v. 05.11.2025, BGBl. 2025 I Nr. 268; Berichtigung Nr. 312). 2027 voraussichtlich 633 EUR/Monat (MiLo 14,60 EUR, MiLoV5).
 
-<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Pruefhinweis ohne Marker) -->
+<!-- AUDIT 27.05.2026 | welle 6 | 5 Marker aufgeloest: 4 bestaetigt (Grenze 556 EUR 2025 eingesetzt), 1 ersetzt (Umlage-Prüfhinweis ohne Marker) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: Minijob-Grenze 603 EUR (2026) / voraussichtlich 633 EUR (2027) ergaenzt -->

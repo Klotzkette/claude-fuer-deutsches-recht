@@ -139,7 +139,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 - **Dienstbarkeit** — Beschraenkung des Eigentuemers zugunsten Dritter (z. B. Wegerecht, Niesbrauch) nach §§ 1018 ff. BGB.
 - **GrEStG** — Grunderwerbsteuergesetz; regelt Steuertatbestand beim Eigentumsubergang.
 - **Notarerfordernis** — Formpflicht: Kaufvertraege über Grundstuecke beduerften nach § 311b BGB notarieller Beurkundung.
-- **Playbook** — Standardisierter Pruefkatalog der Rechtsabteilung mit Risikoklauseln und Ampelbewertung.
+- **Playbook** — Standardisierter Prüfkatalog der Rechtsabteilung mit Risikoklauseln und Ampelbewertung.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; relevant beim KI-Einsatz in der Mandatsbearbeitung.
 
 ## Rechtsgrundlagen
@@ -164,7 +164,7 @@ Zielgruppe sind Unternehmensjuristen und Rechtsanwaelte, die Immobilienprojekte 
 
 ## Skill-Tour (was gibt es hier?)
 
-- `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Ueberblick.
+- `case-management` — Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen und Dokumente im Überblick.
 - `grundbuchanalyse` — Grundbuchauszug analysieren: Eigentümer, Belastungen, Grundschulden, Dienstbarkeiten und Rangverhaeltnisse.
 - `mieteranfragen-bearbeitung` — Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung.
 - `projekt-arbeitsweise` — Projektmethodik für Immobilienrechtsprojekte mit mehreren Beteiligten, Meilensteinen und Dokumentenstruktur.

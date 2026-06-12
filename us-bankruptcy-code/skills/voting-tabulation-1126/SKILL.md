@@ -1,6 +1,6 @@
 ---
 name: voting-tabulation-1126
-description: "Prueft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code."
+description: "Prüft acceptance, impaired classes, ballots, designation, numerosity/amount tests and solicitation problems im US Bankruptcy Code."
 ---
 
 # Voting and Tabulation § 1126

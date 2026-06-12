@@ -34,13 +34,13 @@ Insolvenzverwalter ficht Zahlung 4 Jahre vor Eroeffnung an.
 
 ## Arbeitsergebnis
 
-Vorsatz benachteiligen; Kenntnis des Glaeubigers; Indizien.
+Vorsatz benachteiligen; Kenntnis des Gläubigers; Indizien.
 
 ## Belege und Aktenlücken
 
 - Zahlungsverkehr
 - Mahnungen
-- Vermoegensauskunft
+- Vermögensauskunft
 
 ## Normen und Rechtsprechung
 

@@ -1,6 +1,6 @@
 ---
 name: elterngeld-elterngeldstellen-beeg
-description: "Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Pruefraster."
+description: "Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften für Selbststaendige und Mehrkindersituationen. Liefert Prüfraster."
 ---
 
 # Elterngeld Elterngeldstellen Beeg
@@ -43,7 +43,7 @@ description: "Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (
 - Geschwisterbonus bei mehreren Kindern unter 3 Jahre (10 Prozent, mindestens 75 Euro).
 - Mehrlingszuschlag.
 
-## Pruefraster
+## Prüfraster
 
 1. Antrag rechtzeitig?
 2. Hoehenberechnung richtig?

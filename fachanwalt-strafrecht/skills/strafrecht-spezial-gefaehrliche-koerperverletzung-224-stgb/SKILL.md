@@ -39,7 +39,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 **Nr. 2 – Waffe oder anderes gefaehrliches Werkzeug:**
 
 - **Waffe** ist ein Gegenstand, der nach seiner objektiven Beschaffenheit dazu bestimmt ist, erhebliche Verletzungen herbeizufuehren (Schusswaffe, Stichwaffe, Hieb- und Stosswaffe).
-- **Gefaehrliches Werkzeug** ist ein Gegenstand, der nach seiner objektiven Beschaffenheit und Art seiner konkreten Verwendung im Einzelfall geeignet ist, erhebliche Koerperverletzungen herbeizufuehren. Beispiele: Glasflasche (beim Schlag), schwerer Stiefel (beim Tritt), Schluesselbund, PKW. **Streitig:** Koerperteile (Faust, Fuss); nach staendiger BGH-Rechtsprechung **kein** gefaehrliches Werkzeug.
+- **Gefaehrliches Werkzeug** ist ein Gegenstand, der nach seiner objektiven Beschaffenheit und Art seiner konkreten Verwendung im Einzelfall geeignet ist, erhebliche Koerperverletzungen herbeizufuehren. Beispiele: Glasflasche (beim Schlag), schwerer Stiefel (beim Tritt), Schlüsselbund, PKW. **Streitig:** Koerperteile (Faust, Fuss); nach staendiger BGH-Rechtsprechung **kein** gefaehrliches Werkzeug.
 
 **Nr. 3 – Hinterlistiger Ueberfall:** Ueberraschender Angriff unter planmäßiger Verbergung der Angriffsabsicht. Vorbedachte Verbergung der Absicht. Reines Plueckichkeitsmoment reicht nicht; erforderlich ist eine besondere Tueckigkeit (Lauerstellung, Maske, falsche Identitaet).
 

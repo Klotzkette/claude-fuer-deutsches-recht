@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-status
-description: "Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage im Sozialversicherungsstatus Pruefer."
+description: "Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage im Sozialversicherungsstatus Prüfer."
 ---
 
 # Dokumentenmatrix Statusakte

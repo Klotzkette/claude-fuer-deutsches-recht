@@ -116,9 +116,9 @@ MITTELVERWENDUNG:
 - Gegencheck: Veraenderung Bank-Konten in SuSa muss matchen.
 - Differenz zeigt Fehler in der Aufstellung — prüfen.
 
-### Phase 6 — Erlaeuterung und Versand
+### Phase 6 — Erläuterung und Versand
 
-- Erlaeuterungstext für wesentliche Bewegungen.
+- Erläuterungstext für wesentliche Bewegungen.
 - Bei Bank-/Investor-Reporting: zusammen mit Bilanz und BWA.
 - Mandantenakte dokumentieren.
 

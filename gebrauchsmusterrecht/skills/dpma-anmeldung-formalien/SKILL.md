@@ -32,7 +32,7 @@ Ein Gebrauchsmuster soll angemeldet werden.
 
 ### Form
 - Schriftlich oder elektronisch (DPMAdirektPro).
-- Sprache: Deutsch (oder mit Uebersetzung binnen 3 Monaten).
+- Sprache: Deutsch (oder mit Übersetzung binnen 3 Monaten).
 
 ### Gebühren (DPMA-Gebührentarif live verifizieren)
 - Anmeldegebuehr.
@@ -47,7 +47,7 @@ Ein Gebrauchsmuster soll angemeldet werden.
 - Wesentlich für Prioritaet und Neuheit.
 - § 5 GebrMG: Anmeldetag = Eingang aller Unterlagen.
 
-### Pruefraster
+### Prüfraster
 1. Vollstaendige Unterlagen?
 2. Gebührenzahlung fristgerecht?
 3. Ggf. Inanspruchnahme der Prioritaet (innere oder aussere)?

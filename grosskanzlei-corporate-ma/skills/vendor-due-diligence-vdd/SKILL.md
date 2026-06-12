@@ -1,6 +1,6 @@
 ---
 name: vendor-due-diligence-vdd
-description: "Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation: Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact..."
+description: "Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Prüfung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation: Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Prüfung, Datenraumreife, Legal Fact..."
 ---
 
 # Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Prüfung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation.
@@ -36,7 +36,7 @@ Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahie
 
 | Feld | Worum es geht |
 | --- | --- |
-| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschaeftsfuehrung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
 | Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
 | Material | Unternehmensstruktur, Datenraumstand, bekannte Risiken, Deal-Timing, Bieterkreis, Berichtstiefe. |
 | Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |

@@ -153,7 +153,7 @@ ERGEBNIS:
 1. **Ablehnende Klasse identifiziert?** Welche Klasse/Gruppe wird ablehnen?
 2. **Best-Interest-Test berechnet?** Liquidationsquote als untere Grenze für ablehnende Klasse.
 3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
-4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
+4. **Gleichbehandlung?** Kein Gläubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
 
 ## Normen und Rechtsprechung
 

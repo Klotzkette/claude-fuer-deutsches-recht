@@ -96,7 +96,7 @@ Mandantenbrief mit Standardanliegen | 1 Tag | 5 Tage
 
 - Klare Service-Standards reduzieren Mandanten-Stress und Sachbearbeiter-Stress.
 - Eskalations-Wege transparent — bei wesentlichen Anfragen Mandant zu Berufstraeger.
-- Bei kontinuierlicher Ueberlastung: Recruiting oder Mandantenstamm-Anpassung.
+- Bei kontinuierlicher Überlastung: Recruiting oder Mandantenstamm-Anpassung.
 - StBVV: Standardanfragen oft in Pauschal; komplexe Beratung Zeithonorar.
 - DATEV-Tipp: DATEV Mandantenanfragen-Modul mit Termin-Tracking.
 

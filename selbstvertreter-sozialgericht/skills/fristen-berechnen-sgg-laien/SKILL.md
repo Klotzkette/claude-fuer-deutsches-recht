@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-sgg-laien
-description: "Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt."
+description: "Alle wichtigen Fristen im SG-Verfahren überblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt."
 ---
 
 # Die wichtigsten Fristen im SG-Verfahren
@@ -13,7 +13,7 @@ description: "Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch K
 
 ## Worum geht es?
 
-Im Sozialgerichtsverfahren gibt es viele Fristen. Wer eine verpasst, verliert oft sein Recht. Diese Skill ist Ihre Ueberblicks-Tabelle.
+Im Sozialgerichtsverfahren gibt es viele Fristen. Wer eine verpasst, verliert oft sein Recht. Diese Skill ist Ihre Überblicks-Tabelle.
 
 ## In einfacher Sprache
 
@@ -104,7 +104,7 @@ NACHFASSEN:
 
 ### Schritt 7 — Bei Unsicherheit fragen
 
-Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
+Sozialgericht Geschäftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 
 ## Worauf Sie besonders achten müssen
 

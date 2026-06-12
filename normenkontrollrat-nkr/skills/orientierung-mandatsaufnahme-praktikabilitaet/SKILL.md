@@ -1,6 +1,6 @@
 ---
 name: orientierung-mandatsaufnahme-praktikabilitaet
-description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pr"
+description: "Einstiegs-Skill für NKR-Prüfauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Prüfweg liegt. Liefert sofort einen Pr"
 ---
 
 # NKR-Orientierung und Mandatsaufnahme
@@ -15,7 +15,7 @@ description: "Einstiegs-Skill für NKR-Pruefauftraege. Klaert in einer einzigen 
 
 ## Worum geht es konkret
 
-Allgemein-Skill als Einstieg in jedes NKR-Pruefmandat. Er nimmt einen unvorbereiteten Posteingang (Referentenentwurf, Formulierungshilfe, AVV-Entwurf, Verordnungsentwurf, parlamentarische Aenderung) und ordnet ihn in den Pruefzyklus des Nationalen Normenkontrollrats ein.
+Allgemein-Skill als Einstieg in jedes NKR-Prüfmandat. Er nimmt einen unvorbereiteten Posteingang (Referentenentwurf, Formulierungshilfe, AVV-Entwurf, Verordnungsentwurf, parlamentarische Änderung) und ordnet ihn in den Prüfzyklus des Nationalen Normenkontrollrats ein.
 
 Ziel: in zwei Minuten wissen, welche der 36 anderen Skills.
 
@@ -25,9 +25,9 @@ Anwendungsfall: Sekretariat hat einen Vorgang weitergeleitet, der NKR-Prüfung e
 
 Eine einzige Rueckfrage:
 
-> **Bitte nennen Sie kurz: (1) Vorhabenstitel und federfuehrendes Ressort, (2) Art des Vorhabens (Referentenentwurf / Formulierungshilfe / Kabinettsentwurf / Verordnung / parlamentarische Aenderung), (3) Frist, bis zu der die Stellungnahme vorliegen muss.**
+> **Bitte nennen Sie kurz: (1) Vorhabenstitel und federfuehrendes Ressort, (2) Art des Vorhabens (Referentenentwurf / Formulierungshilfe / Kabinettsentwurf / Verordnung / parlamentarische Änderung), (3) Frist, bis zu der die Stellungnahme vorliegen muss.**
 
-Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
+Sind die drei Angaben vorhanden, sofort die Prüfskizze (siehe Ausgabeformat).
 
 ## Rechtlicher und methodischer Rahmen
 
@@ -36,19 +36,19 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 - **Handbuch der Rechtsfoermlichkeit (HdR)** als Drafting-Grundlage
 - **Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands** (BMI / NKR)
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 1. **Eingang triagieren**: Welcher Vorhabenstyp? Was ist die NKR-Befassungspflicht (§ 4 NKRG)?
 2. **Federfuehrendes Ressort identifizieren**: BMJ / BMI / BMF / BMWK etc.
-3. **Pruefumfang bestimmen** (Skill `nkr-pruefumfang-was-prueft-der-nkr-nicht`):
+3. **Prüfumfang bestimmen** (Skill `nkr-pruefumfang-was-prueft-der-nkr-nicht`):
  - Prüfen: Methodik und Vollstaendigkeit der Erfuellungsaufwand-Darstellung, Nachvollziehbarkeit, Praktikabilitaet, Digitaltauglichkeit
  - **Nicht** prüfen: politische Zweckmaessigkeit oder Zielwahl
 4. **Phase im Verfahrensgang** (Skill `nkr-verfahrensgang-referentenentwurf-bis-bundestag`):
- - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Aenderung
+ - Referentenentwurf vor Ressortabstimmung / vor Kabinett / Formulierungshilfe / parlamentarische Änderung
 5. **Frist klären**: Standardfrist nach NKRG / GGO; bei Eilbeduerftigkeit gekuerzte Frist
 6. **Cluster waehlen**:
  - Erfuellungsaufwand-Berechnung -> Cluster B
- - Pruefraster anwenden -> Cluster C
+ - Prüfraster anwenden -> Cluster C
  - Stellungnahme entwerfen -> Cluster D
  - Spezialthema (Digital, EU, KMU) -> Cluster E
 
@@ -76,7 +76,7 @@ Sind die drei Angaben vorhanden, sofort die Pruefskizze (siehe Ausgabeformat).
 
 Erst-Antwort an Sekretariat (intern):
 
-> "Vorhaben **[Titel]** des **[Ressort]** vom **[Datum]**, Frist **[TT.MM.JJJJ]**. Pruefpfad: Eingangstriage -> Erfuellungsaufwand-Berechnung -> Pruefraster -> Stellungnahme. Spezialthemen: [Digital / EU / KMU / Vollzug]. Federfuehrung in der Prüfung: [Referent/in]. Erster Stellungnahme-Entwurf bis [Datum]."
+> "Vorhaben **[Titel]** des **[Ressort]** vom **[Datum]**, Frist **[TT.MM.JJJJ]**. Prüfpfad: Eingangstriage -> Erfuellungsaufwand-Berechnung -> Prüfraster -> Stellungnahme. Spezialthemen: [Digital / EU / KMU / Vollzug]. Federfuehrung in der Prüfung: [Referent/in]. Erster Stellungnahme-Entwurf bis [Datum]."
 
 ## Typische Fehler in Ressort-Entwuerfen
 

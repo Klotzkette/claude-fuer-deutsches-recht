@@ -1,13 +1,13 @@
 ---
 name: rechtswahl-schweizer-risikoklassifizierung
-description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Pruefung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw"
+description: "Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verw"
 ---
 
 # Agb Rechtswahl Schweizer Recht Rom I
 
 ## Arbeitsbereich
 
-Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Prüfraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkomm
 
 ## Fachkern: Agb Rechtswahl Schweizer Recht Rom I
 
-- **Klauselproblem (Agb Rechtswahl Schweizer Recht Rom I):** Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Pruefraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm.
+- **Klauselproblem (Agb Rechtswahl Schweizer Recht Rom I):** Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkommen. Skill klaert Rom-I-VO Art. 3 freie Rechtswahl Art. 6 zwingender Verbraucherschutz Art. 9 Eingriffsnormen sowie die Prüfung ob §§ 305-310 BGB international zwingend sind. Behandelt die Konstellation deutscher Verwender mit Schweizer Tochter Schweizer Verwender mit deutschen Kunden und gemischte Faelle. Liefert Prüfraster und Klauselentwurf für rechtssichere Rechtswahlklauseln in Schweiz-Deutschland-Mandaten. Verweist auf agb-und-242-bgb-eingriffsnorm.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
@@ -39,7 +39,7 @@ Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkomm
 - Auch Schweizer Recht (Drittstaat) ist waehlbar; Art. 2 Rom-I.
 
 ### Art. 6 Rom-I — Verbraucherschutz
-- Bei Verbrauchervertrag mit Geschaeftspartner, der Taetigkeit auf den Wohnsitzstaat des Verbrauchers ausrichtet ("ausgerichtete Taetigkeit"): trotz Rechtswahl gelten zwingende Verbraucherschutznormen des Heimatrechts.
+- Bei Verbrauchervertrag mit Geschäftspartner, der Taetigkeit auf den Wohnsitzstaat des Verbrauchers ausrichtet ("ausgerichtete Taetigkeit"): trotz Rechtswahl gelten zwingende Verbraucherschutznormen des Heimatrechts.
 - §§ 305-310 BGB sind solche zwingenden Verbraucherschutznormen.
 - BGH-Linie: deutsches AGB-Recht greift bei deutschem Verbraucher und ausgerichteter Schweizer Taetigkeit durch.
 
@@ -63,9 +63,9 @@ Rechtswahl Schweizer Recht in AGB als Versuch dem deutschen AGB-Recht zu entkomm
 
 - Bei B2C: Schweizer Recht als Rechtswahl ist effektiv nur Wahl der Auslegungsbasis, nicht der zwingenden Vorschriften.
 - Bei B2B: rechtssicher; Schiedsabrede im Schweizer Recht plus Schweizer Schiedsort ist effiziente Kombination.
-- Achtung: Schweizer OR Art. 8 (Allgemeine Geschaeftsbedingungen) ist deutlich grobschnittiger als BGB §§ 305-310 — was den Aufwand reduziert, aber bei deutschem Gegenueber zu Akzeptanzproblemen fuehren kann.
+- Achtung: Schweizer OR Art. 8 (Allgemeine Geschäftsbedingungen) ist deutlich grobschnittiger als BGB §§ 305-310 — was den Aufwand reduziert, aber bei deutschem Gegenueber zu Akzeptanzproblemen fuehren kann.
 
-## Pruefraster
+## Prüfraster
 
 1. B2C oder B2B?
 2. Ausgerichtete Taetigkeit im Sinne Art. 6 Abs. 1 Buchst. b Rom-I?

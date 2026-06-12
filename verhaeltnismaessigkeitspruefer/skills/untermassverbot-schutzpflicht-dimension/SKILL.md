@@ -25,7 +25,7 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 | BVerfGE 77, 170 | C-Waffen-Lagerung | Sicherheitsabstand, Schutzpflicht des Staates |
 | BVerfGE 157, 30 | Klimaschutz-Beschluss | Intertemporale Schutzpflicht aus Art 20a GG für kuenftige Freiheitsraeume |
 
-## Pruefraster Untermassverbot
+## Prüfraster Untermassverbot
 
 1. Liegt eine Schutzgut-Bedrohung durch Dritte oder Naturgefahren vor?
 2. Hat der Staat ueberhaupt gehandelt?
@@ -41,7 +41,7 @@ description: "Untermassverbot als Spiegelbild des Uebermassverbots. Grundrechte 
 
 ## Verbindung
 
-Siehe `angemessenheit-abwaegung` für den klassischen Uebermass-Spiegel. Untermassverbot und Uebermassverbot bilden zusammen den vollstaendigen Pruefungsrahmen.
+Siehe `angemessenheit-abwaegung` für den klassischen Uebermass-Spiegel. Untermassverbot und Uebermassverbot bilden zusammen den vollstaendigen Prüfungsrahmen.
 
 ## Quellen mit Schlagwort
 

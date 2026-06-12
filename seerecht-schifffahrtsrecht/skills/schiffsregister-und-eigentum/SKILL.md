@@ -1,6 +1,6 @@
 ---
 name: schiffsregister-und-eigentum
-description: "Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Verm..."
+description: "Mandant kauft Schiff und klaert Eigentumslage: Prüfung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Verm..."
 ---
 
 # Schiffsregister und Eigentum – Due-Diligence-Prüfung

@@ -12,7 +12,7 @@ Dieser Quellen-Livecheck für **Vertragsrecht** trennt amtliche Normfassung, fre
 ## Fachlandkarte dieses Plugins
 
 - `abmahnung-uwg` — Abmahnung UWG
-- `aenderungs-historie-agb-eskalations-marker` — Aenderungs Historie AGB Eskalations Marker
+- `aenderungs-historie-agb-eskalations-marker` — Änderungs Historie AGB Eskalations Marker
 - `agb-pruefung` — AGB Prüfung
 - `anpassen` — Anpassen
 - `anschluss-router` — Anschluss Router

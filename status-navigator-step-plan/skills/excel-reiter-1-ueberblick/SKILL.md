@@ -1,9 +1,9 @@
 ---
 name: excel-reiter-1-ueberblick
-description: "Baut Reiter 1 der Step-Plan-Excel: Ueberblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von (Partei und Funktion), Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) und Zweck. Mit Ampelfaerbung und Sorti..."
+description: "Baut Reiter 1 der Step-Plan-Excel: Überblick aller fuer die Durchsetzung erforderlichen Dokumente. Spalten Dokument, Datum, Verfuegbarkeit, Unterschriftsstatus, Unterzeichnet von (Partei und Funktion), Rechtsgrundlage (Klausel im zugrunde liegenden Vertrag) und Zweck. Mit Ampelfaerbung und Sorti..."
 ---
 
-# Reiter 1 Ueberblick Statuslage
+# Reiter 1 Überblick Statuslage
 
 ## Rolle und Fokus
 Reiter 1 ist die Gesamtsituation auf einen Blick. Alle für die Durchsetzung erforderlichen Dokumente in einer Zeile mit den wichtigsten Statusfeldern.

@@ -5,6 +5,6 @@
 | Bedarf | Beschaffungsentscheidung, Budget, Markterkundung |  |  |  |  |
 | Verfahren | Schwellenwert, Verfahrenswahl, Bekanntmachung |  |  |  |  |
 | Unterlagen | Leistungsbeschreibung, Eignung, Zuschlag, Vertragsentwurf |  |  |  |  |
-| Kommunikation | Bieterfragen, Antworten, Aenderungen |  |  |  |  |
+| Kommunikation | Bieterfragen, Antworten, Änderungen |  |  |  |  |
 | Wertung | Prüfung, Aufklaerung, Matrix, Entscheidung |  |  |  |  |
 | Abschluss | Paragraph 134 GWB, Zuschlag, Bekanntmachung, Vertrag |  |  |  |  |

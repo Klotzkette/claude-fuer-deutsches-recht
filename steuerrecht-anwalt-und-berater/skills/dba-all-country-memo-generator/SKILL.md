@@ -69,7 +69,7 @@ Baue bei Bedarf Varianten:
 
 ## Mustertabelle DBA-Memo (jedes Land)
 
-| Pruefphase | Norm / Fundstelle | Befund Mandant | Ergebnis | Verifikationsquelle |
+| Prüfphase | Norm / Fundstelle | Befund Mandant | Ergebnis | Verifikationsquelle |
 |---|---|---|---|---|
 | Anwendungsbereich | Art. 1, 2 DBA-[Land] (BGBl. II [Jahr] S. [...]) | [Mandant erfasst?] | [erfasst / nicht erfasst] | bundesfinanzministerium.de |
 | Ansaessigkeit | Art. 4 DBA + §§ 8, 9 AO | Tie-Breaker | [Wohnsitzstaat] | Ansaessigkeitsbescheinigung |
@@ -81,13 +81,13 @@ Baue bei Bedarf Varianten:
 
 ## Beispiel-Varianten und Live-Marker
 
-- **Arbeitnehmer 47 Home-Office-Tage + Bonus Vorjahr**: pruefe Konsultationsvereinbarung Home-Office; pruefe 183-Tage-Regel mit Aufenthaltskalender; Bonus aufteilen nach Vesting-Zeitraum.
-- **GmbH-Softwarelizenz an auslaendische Schwester**: pruefe § 50a EStG-Einbehalt; Freistellungsbescheinigung BZSt; § 4j EStG-Lizenzschranke.
-- **Deutsche KG mit auslaendischer BS und Verlusten**: pruefe Freistellung-Aktivitaetsklausel; § 2a EStG-Verlustberuecksichtigung.
-- **Verkauf Immobilien-Holding**: pruefe Art. 13 DBA (grundstuecksreiche Gesellschaft); Belegenheitsstaat.
-- **Pensionaer mit DRV + Betriebsrente Wegzug Portugal**: pruefe Art. 18 DBA-PT; NHR; § 50d Abs. 9 EStG.
-- **US-LLC mit DE-Gesellschaftern**: pruefe Qualifikationskonflikt (LLC transparent vs. intransparent); BMF 26.09.2014; Subject-to-Tax.
-- **Grenzgaenger mit Dienstreisen Drittstaaten**: pruefe Grenzgaenger-Status (CH/FR/AT); 183-Tage-Regel im Drittstaat.
+- **Arbeitnehmer 47 Home-Office-Tage + Bonus Vorjahr**: prüfe Konsultationsvereinbarung Home-Office; prüfe 183-Tage-Regel mit Aufenthaltskalender; Bonus aufteilen nach Vesting-Zeitraum.
+- **GmbH-Softwarelizenz an ausländische Schwester**: prüfe § 50a EStG-Einbehalt; Freistellungsbescheinigung BZSt; § 4j EStG-Lizenzschranke.
+- **Deutsche KG mit ausländischer BS und Verlusten**: prüfe Freistellung-Aktivitaetsklausel; § 2a EStG-Verlustberuecksichtigung.
+- **Verkauf Immobilien-Holding**: prüfe Art. 13 DBA (grundstuecksreiche Gesellschaft); Belegenheitsstaat.
+- **Pensionaer mit DRV + Betriebsrente Wegzug Portugal**: prüfe Art. 18 DBA-PT; NHR; § 50d Abs. 9 EStG.
+- **US-LLC mit DE-Gesellschaftern**: prüfe Qualifikationskonflikt (LLC transparent vs. intransparent); BMF 26.09.2014; Subject-to-Tax.
+- **Grenzgaenger mit Dienstreisen Drittstaaten**: prüfe Grenzgaenger-Status (CH/FR/AT); 183-Tage-Regel im Drittstaat.
 
 ## Konkrete Subsumtionsschema-Vorlage
 

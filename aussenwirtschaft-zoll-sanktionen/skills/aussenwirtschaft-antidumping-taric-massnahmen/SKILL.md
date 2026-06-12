@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-taric-massnahmen
-description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Ou..."
+description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Maßnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte für relevante Waren. Ou..."
 ---
 
 # TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung
@@ -36,7 +36,7 @@ description: "Identifizierung und Anwendung handelspolitischer Schutzmassnahmen 
 - **VO (EU) 2015/478**: Gemeinsame Einfuhrregelung und Safeguards.
 - **Durchfuehrungsverordnungen**: Einzelne ADD- und CVD-Maßnahmen per Durchfuehrungs-VO.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] KN-Code und Ursprungsland korrekt für TARIC-Abfrage?
 - [ ] Alle aktiven Maßnahmen (ADD, CVD, Safeguard) aufgelistet?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

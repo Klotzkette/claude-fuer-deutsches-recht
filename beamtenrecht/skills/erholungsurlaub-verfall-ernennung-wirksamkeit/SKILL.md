@@ -46,14 +46,14 @@ Skill für Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 
 ## 4. Quellenpflicht
 
-- Normen: Richtlinie 2003/88/EG; § 89 BBG; Erholungsurlaubsverordnung; landesrechtliche Aequivalente; § 208 SGB IX (Schwerbehindertenzusatzurlaub).
+- Normen: Richtlinie 2003/88/EG; § 89 BBG; Erholungsurlaubsverordnung; landesrechtliche Äquivalente; § 208 SGB IX (Schwerbehindertenzusatzurlaub).
 - Rspr.: EuGH Schultz-Hoff (Sache C-350/06), Max-Planck (C-684/16), Stadt Wuppertal (C-518/20) — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle; BVerwG zur Mitwirkungsobliegenheit — ständige Rechtsprechung, konkret vor Zitat frei prüfen
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
 - Antrag auf Urlaubsabgeltung.
-- Pruefraster Mitwirkungsobliegenheit und Uebertragungszeitraum.
+- Prüfraster Mitwirkungsobliegenheit und Uebertragungszeitraum.
 
 ## 6. Verifizierte Quellenanker
 
@@ -62,7 +62,7 @@ Skill für Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 - EuGH, 22.11.2011 - C-214/10 (KHS / Schulte): 15-Monats-Frist nach Ende des Urlaubsjahres als zulaessige Uebertragungsgrenze.
 - EuGH, 06.11.2018 - C-684/16 (Max-Planck-Gesellschaft / Shimizu) und C-619/16 (Kreuziger): Mitwirkungsobliegenheit des Dienstherrn als Verfallsvoraussetzung.
 - EuGH, 22.09.2022 - C-518/20 und C-727/20 (XP und AR / Fraport und Stadt Wuppertal): Bestaetigung Mitwirkungsobliegenheit bei langfristiger Erkrankung.
-- Normen Beamtenrecht: § 89 BBG; § 208 SGB IX (Schwerbehindertenzusatzurlaub); Erholungsurlaubsverordnung und landesrechtliche Aequivalente.
+- Normen Beamtenrecht: § 89 BBG; § 208 SGB IX (Schwerbehindertenzusatzurlaub); Erholungsurlaubsverordnung und landesrechtliche Äquivalente.
 - BVerwG zur Uebertragung der EuGH-Linie in das Beamtenrecht — Datum und Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)

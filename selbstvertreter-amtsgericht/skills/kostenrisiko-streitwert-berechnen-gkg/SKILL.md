@@ -49,7 +49,7 @@ Gerichtsgebuehren = Verfahrensgebuehr 3,0 (im Klageverfahren). Bei Anwendung der
 - Streitwert bis 3.000 EUR: 1,0 ca. 108 EUR → 3,0 ca. 324 EUR.
 - Streitwert bis 5.000 EUR: 1,0 ca. 161 EUR → 3,0 ca. 483 EUR.
 
-**Werte aktualisieren** — die letzte GKG-Aenderung verifizieren in amtliche/freie Quellen oder lizenzierte Datenbanken oder über das Justizportal.
+**Werte aktualisieren** — die letzte GKG-Änderung verifizieren in amtliche/freie Quellen oder lizenzierte Datenbanken oder über das Justizportal.
 
 Bei Vergleich: Verfahrensgebuehr reduziert sich auf 1,0 (statt 3,0). Erheblicher Anreiz, sich zu vergleichen.
 
@@ -87,7 +87,7 @@ Beispiel: Sie klagen über 3.000 EUR.
 - Bei Sachverstaendigen-Bedarf: +1.000 EUR Vorschuss.
 - Bei Niederlage: + Anwaltskosten Gegner ca. 750 EUR.
 
-= Risiko ca. 2.000 EUR. Bei Streitwert 3.000 EUR ein erhebliches Verhaeltnis.
+= Risiko ca. 2.000 EUR. Bei Streitwert 3.000 EUR ein erhebliches Verhältnis.
 
 ### Schritt 7 — Vergleichsanreiz
 

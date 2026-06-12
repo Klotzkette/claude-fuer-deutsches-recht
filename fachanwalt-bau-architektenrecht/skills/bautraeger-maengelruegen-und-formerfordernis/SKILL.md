@@ -37,7 +37,7 @@ description: "Bautraeger-Maengelruegen und Formerfordernis: Skill klaert wie ein
 - Nach Ablauf der Frist: Selbstvornahme nach § 637 BGB.
 - Vorschusspflicht des Bautraegers (§ 637 Abs. 3 BGB).
 
-## Pruefraster
+## Prüfraster
 
 1. Mangel konkret bezeichnet?
 2. Frist gesetzt?

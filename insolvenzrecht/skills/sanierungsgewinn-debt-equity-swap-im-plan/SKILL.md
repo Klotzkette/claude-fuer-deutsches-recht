@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-debt-equity-swap-im-plan
-description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zu..."
+description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schlüsselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zu..."
 ---
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan
@@ -23,7 +23,7 @@ description: "Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderung
 
 ## Worum geht es
 
-Beim Debt-Equity-Swap (DES) tauscht ein Glaeubiger seine Forderung gegen Anteile an der Schuldnerin. Wirtschaftlich ist das ein Forderungsverzicht plus Kapitaleinlage. Steuerlich aber ist die Situation eigenstaendig, weil die Werthaltigkeit der eingebrachten Forderung entscheidet, ob ein Sanierungsertrag entsteht oder eine Einlage zu Anschaffungskosten.
+Beim Debt-Equity-Swap (DES) tauscht ein Gläubiger seine Forderung gegen Anteile an der Schuldnerin. Wirtschaftlich ist das ein Forderungsverzicht plus Kapitaleinlage. Steuerlich aber ist die Situation eigenstaendig, weil die Werthaltigkeit der eingebrachten Forderung entscheidet, ob ein Sanierungsertrag entsteht oder eine Einlage zu Anschaffungskosten.
 
 Dieser Skill arbeitet die KStG-, EStG- und GewStG-Folgen heraus. Adressat ist Plan-Anwalt, IV/Sachwalter und der StB des Schuldners.
 
@@ -59,14 +59,14 @@ Kaltstart-Fragen:
 2. **Werthaltigkeit der Forderung am Stichtag prüfen.**
 3. **Zwei steuerliche Sphaeren trennen:**
  - **Ebene Schuldnerin:** Verbindlichkeit faellt weg; Sanierungsertrag in Höhe des nicht werthaltigen Teils der Forderung.
- - **Ebene Glaeubiger/Investor:** Anschaffungskosten der Beteiligung in Höhe des werthaltigen Teils; Verzichts-Aufwand in Höhe des nicht werthaltigen Teils.
+ - **Ebene Gläubiger/Investor:** Anschaffungskosten der Beteiligung in Höhe des werthaltigen Teils; Verzichts-Aufwand in Höhe des nicht werthaltigen Teils.
 4. **Paragraph 3a EStG-Prüfung** für den Sanierungsertrag auf Schuldnerebene.
 5. **Plan-Klausel formulieren** (Paragraph 225a InsO bzw. StaRUG).
 6. **Anteils-Bewertung** (insbesondere bei AG: Sacheinlagepruefung Paragraph 27 AktG).
 
 ## DES-Variante in zwei Schritten
 
-| Schritt | Wirkung Schuldnerin | Wirkung Glaeubiger/Investor |
+| Schritt | Wirkung Schuldnerin | Wirkung Gläubiger/Investor |
 |---|---|---|
 | 1. Verzicht auf Forderung (in voller Höhe) | Verbindlichkeit weg | Aufwand für den nicht werthaltigen Teil |
 | 2. Bareinlage / Sacheinlage in Höhe der neuen Anteile | Eigenkapital steigt | Anschaffungskosten der Beteiligung |
@@ -75,13 +75,13 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 
 ## Trade-off-Matrix
 
-| Konstellation | Wirkung Schuldnerin | Wirkung Glaeubiger |
+| Konstellation | Wirkung Schuldnerin | Wirkung Gläubiger |
 |---|---|---|
 | Forderung voll werthaltig | kein Sanierungsertrag | Anschaffungskosten = Nennwert Forderung |
 | Forderung teilweise werthaltig | Sanierungsertrag in Höhe des nicht werthaltigen Teils | Anschaffungskosten = werthaltiger Teil; Aufwand = nicht werthaltiger Teil |
 | Forderung nicht werthaltig | voller Sanierungsertrag | Anschaffungskosten ueberschaubar; voller Aufwand |
-| Glaeubiger ist GmbH/AG | Paragraph 8b KStG für kuenftige Beteiligungsertraege | 5% Pauschalbesteuerung Paragraph 8b Absatz 5 KStG |
-| Glaeubiger ist natuerliche Person | Paragraph 17 EStG / Paragraph 3 Nr. 40 EStG bei Veraeusserung | Teileinkuenfteverfahren |
+| Gläubiger ist GmbH/AG | Paragraph 8b KStG für kuenftige Beteiligungsertraege | 5% Pauschalbesteuerung Paragraph 8b Absatz 5 KStG |
+| Gläubiger ist natuerliche Person | Paragraph 17 EStG / Paragraph 3 Nr. 40 EStG bei Veraeusserung | Teileinkuenfteverfahren |
 | Cramdown auf Anteilseigner (Paragraph 225a Absatz 3 InsO) | bestehende Anteilseigner werden verdraengt | rechtssichere Anteilsuebernahme |
 
 ## Praxistipps der alten Hasen
@@ -90,7 +90,7 @@ In der Praxis erfolgt der Vorgang oft als kombinierte Einlage: die Forderung wir
 2. **Paragraph 27 AktG-Sacheinlagepruefung nicht unterschaetzen** bei AG.
 3. **Plan-Klausel Paragraph 225a InsO** liefert die rechtssichere Umgehung der Zustimmung der Altgesellschafter — Cramdown auf Anteilseigner.
 4. **StaRUG-Variante Paragraph 7 StaRUG**: dort ebenfalls Kapitalmassnahmen möglich, aber strenger an Klassenbildung der Anteilseigner gebunden.
-5. **Steuerliche Bonitaetspruefung der einzubringenden Forderung** sollte vom unabhaengigen WP/StB kommen, nicht vom Glaeubiger selbst.
+5. **Steuerliche Bonitaetspruefung der einzubringenden Forderung** sollte vom unabhaengigen WP/StB kommen, nicht vom Gläubiger selbst.
 6. **Reservoir-Wirkung der Verlustvortraege** auch beim DES: der Sanierungsertrag, der durch den nicht werthaltigen Teil entsteht, durchlaeuft die Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG.
 
 ## Mustertexte / Berechnungsbeispiele

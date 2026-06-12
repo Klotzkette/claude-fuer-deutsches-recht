@@ -91,7 +91,7 @@ Rechnungsabgrenzungsposten (RAP) sind die bilanzielle Zuordnung von Aufwand und 
 - Standard-RAP (Versicherung, Miete, Kfz-Steuer) sind wiederkehrend — Routine.
 - Bei Mehrjahresvertraegen (z.B. 5-Jahres-Wartung): RAP gestaffelt.
 - Bei kleinen RAP-Betraegen unter Wesentlichkeitsschwelle: ggf. nicht abgrenzen (vgl. BMF zu RAP-Bagatelle).
-- Bei Pruefungspflicht: WP prüft RAP detailliert.
+- Bei Prüfungspflicht: WP prüft RAP detailliert.
 - DATEV-Tipp: DATEV-AfA-Modul kann RAP-Aufloesung monatlich automatisch.
 
 ## Quellen und Updates

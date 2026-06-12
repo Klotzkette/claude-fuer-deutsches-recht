@@ -1,6 +1,6 @@
 ---
 name: datentransfer-mandant-cloud-dsgvo
-description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument."
+description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Maßnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument."
 ---
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte
@@ -81,13 +81,13 @@ Beim Datentransfer zwischen Mandant, StB und Cloud-Dienstleistern muss DSGVO-Kon
 | Verfuegbarkeit | Backup, Redundanz |
 | Belastbarkeit | Disaster Recovery |
 | Wiederherstellbarkeit | Backup-Restore |
-| Pruefverfahren | Regelmäßige Audits |
+| Prüfverfahren | Regelmäßige Audits |
 | Pseudonymisierung | wo möglich |
 
 ### Phase 5 — Mandantenkommunikation
 
 - Datenschutzhinweise gem. Art. 13 DSGVO bei Mandatsaufnahme.
-- Information bei wesentlichen Aenderungen.
+- Information bei wesentlichen Änderungen.
 - Mandantenanfragen Art. 15 DSGVO beantworten.
 
 ### Phase 6 — Datenschutz-Folgenabschaetzung (DSFA)

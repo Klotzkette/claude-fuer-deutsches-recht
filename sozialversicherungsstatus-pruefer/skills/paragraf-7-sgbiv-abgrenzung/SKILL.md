@@ -1,6 +1,6 @@
 ---
 name: paragraf-7-sgbiv-abgrenzung
-description: "Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung im Sozialversicherungsstatus Prüfer."
 ---
 
 # § 7 SGB IV Grundabgrenzung

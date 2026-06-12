@@ -31,7 +31,7 @@ description: "Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge im
 - BVerfG 2 BvL 4/10 vom 14.02.2012 ("W2-Hessen-Urteil"): W2-Grundgehalt zu niedrig.
 - Reform W-Besoldung in mehreren Ländern.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Stufe (W 1 / W 2 / W 3)?
 2. Welche Leistungsbezuege?

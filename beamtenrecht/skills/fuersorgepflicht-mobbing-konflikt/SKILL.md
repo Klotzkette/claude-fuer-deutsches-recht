@@ -3,7 +3,7 @@ name: fuersorgepflicht-mobbing-konflikt
 description: "Fürsorgepflicht, Mobbing, Konflikte, Überlastung und Schutzpflichten des Dienstherrn im Beamtenrecht."
 ---
 
-# Fuersorgepflicht Mobbing Konflikt
+# Fürsorgepflicht Mobbing Konflikt
 
 ## Arbeitsweg
 

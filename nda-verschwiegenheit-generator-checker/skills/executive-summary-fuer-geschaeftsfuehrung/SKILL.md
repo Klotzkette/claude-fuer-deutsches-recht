@@ -1,9 +1,9 @@
 ---
 name: executive-summary-fuer-geschaeftsfuehrung
-description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
+description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschäftsführung; konkretisierter Spezialmodul mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output im Nda Verschwiegenheit Generator Checker."
 ---
 
-# Executive Summary Für Geschaeftsfuehrung
+# Executive Summary Für Geschäftsführung
 
 ## Arbeitsweg
 
@@ -13,7 +13,7 @@ description: "NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executiv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Executive Summary Für Geschaeftsfuehrung
+## Fachkern: Executive Summary Für Geschäftsführung
 - **Normen-/Quellenanker:** BGB/AGB-Recht, GeschGehG, DSGVO, HinSchG, ArbR, Kartellrecht, Exportkontrolle, IP-Rechte und prozessuale Herausgabepflichten.
 - **Entscheidende Weiche:** Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme.
 

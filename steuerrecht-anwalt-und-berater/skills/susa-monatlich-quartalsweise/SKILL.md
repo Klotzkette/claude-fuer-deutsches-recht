@@ -85,7 +85,7 @@ Tag 30: BWA Quartal versandt
 
 - Bei Saisonbetrieb: zusaetzliche SuSa nach Saisonende.
 - Bei Sanierungsmandat: 14-taegig wenn von Bank verlangt.
-- Bei Aussenpruefung: SuSa des Pruefzeitraums zusammenstellen.
+- Bei Aussenpruefung: SuSa des Prüfzeitraums zusammenstellen.
 
 ### Phase 6 — Dokumentation
 

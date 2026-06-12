@@ -34,7 +34,7 @@ description: "Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit im 
 - Richterliche Unabhaengigkeit Art. 97 GG verlangt finanzielle Unabhaengigkeit.
 - Besoldung muss "Statusangemessenheit" gewaehrleisten.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Bundesland?
 2. R-Stufe?

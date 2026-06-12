@@ -25,7 +25,7 @@ description: "EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Be
 2. Erforderliche Belege zusammenstellen: Handelsregisterauszug, Steuernummer, Adresse.
 3. Antrag online einreichen (zoll.de Antragsformular oder Zoll-Portal).
 4. EORI-Nummer in alle relevanten Systeme (ATLAS, Zollagent, Bankinstrument) eintragen.
-5. Stamdaten-Update-Pflicht nach UZK Art. 9 Abs. 3 bei Aenderungen von Anschrift, Rechtsform oder GF.
+5. Stamdaten-Update-Pflicht nach UZK Art. 9 Abs. 3 bei Änderungen von Anschrift, Rechtsform oder GF.
 6. UK-Tochtergesellschaft: Separate UK-EORI bei HMRC beantragen (kein EU-EORI nach Brexit).
 
 ## Rechtsrahmen
@@ -36,10 +36,10 @@ description: "EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Be
 - **§ 10 ZollVG**: Nationale Erweiterung für EORI-Verfahren.
 - **UZK Art. 5 Nr. 27**: Definition des Wirtschaftsbeteiligten mit EORI-Pflicht.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] EORI-Registrierung vollstaendig und aktuell?
-- [ ] Stammdaten nach jeder relevanten Aenderung aktualisiert?
+- [ ] Stammdaten nach jeder relevanten Änderung aktualisiert?
 - [ ] EORI in ATLAS und Zollsystemen korrekt hinterlegt?
 - [ ] UK-Tochtergesellschaft separat mit UK-EORI ausgestattet?
 - [ ] Vertretungsbefugnis für EORI-Nutzung durch Bevollmaechtigte geregelt?
@@ -67,7 +67,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

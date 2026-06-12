@@ -104,7 +104,7 @@ Das Plugin trifft keine unüberprüfte Vollstreckungsentscheidung und ersetzt ke
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Ueberblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
@@ -118,7 +118,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `bank-haertefall-inso` | Bank: Behörden-, Gerichts- oder Registerweg im Zwangsvollstreckung. |
 | `dokumente-intake` | Dokumentenintake für Zwangsvollstreckung: sortiert Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll, prüft Datum, Absender, Frist und Beweiswert (Titel mit Klausel, Zustellungsnachweis); mark... |
 | `einstieg-routing` | Einstieg, Triage und Routing für Zwangsvollstreckung: ordnet Rolle (Gläubiger, Schuldner, Drittschuldner (Arbeitgeber, Bank)), markiert Frist (Erinnerung § 766 ZPO 2 Wochen), wählt Norm (ZPO §§ 704-945 (Vollstreckung), GVGA, InsO) und Zu... |
-| `elektronische-zustellung-eu` | Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlung... |
+| `elektronische-zustellung-eu` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlung... |
 | `eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsl... |
 | `haertefall-mandantenkommunikation-entscheidungsvorlage` | Haertefall: Mandantenkommunikation und Entscheidungsvorlage im Zwangsvollstreckung. |
 | `inso-internationaler-bezug-und-schnittstellen` | InsO: Internationaler Bezug und Schnittstellen im Zwangsvollstreckung. |
@@ -149,7 +149,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Ins... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Zwangsvollstreckung: trennt fehlende Tatsachen von fehlenden Belegen (Vollstreckungstitel, Pfändungs- und Überweisungsbeschluss (PfÜB), Gerichtsvollzieher-Protokoll), nennt pro Lücke Beweisthema, Beschaf... |
 | `vermoegensauskunft-gv` | Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g... |
-| `vermoegensauskunft-vollstreckungsbescheid` | Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwangsvollstreckung. |
+| `vermoegensauskunft-vollstreckungsbescheid` | Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung im Zwangsvollstreckung. |
 | `vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste` | Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung im Zwangsvollstreckung. |
 | `vollstreckungsbescheid-zv` | Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Ti... |
 | `vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaell... |
@@ -160,9 +160,9 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `zpo-zwangsvollstreckung-zv-abwehr` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Zwangsvollstreckung. |
 | `zvg-antrag-glaeubiger` | Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorher... |
 | `zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Zwangsvollstreckung. |
-| `zwv-pfaendung-konto-vollstreckungsschutz` | Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Pruefraster für Glaeubiger und Schuldner im Zwangsvollstreckung. |
-| `zwv-vollstreckungsschutz-billigkeit-spezial` | Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Pruefraster für Schuldner und Sozialberatung im Zwangsvollstreckung. |
-| `zwv-vollstreckungstitel-bauleiter` | Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Pruefraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung. |
-| `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag: Pruefraster für Gla... |
+| `zwv-pfaendung-konto-vollstreckungsschutz` | Leitfaden Pfaendung Konto und Arbeitseinkommen §§ 850 ff. ZPO: P-Konto, pfaendungsfreier Betrag, Drittschuldnererklaerung. Prüfraster für Gläubiger und Schuldner im Zwangsvollstreckung. |
+| `zwv-vollstreckungsschutz-billigkeit-spezial` | Spezialfall Vollstreckungsschutz § 765a ZPO Haerteklausel: Voraussetzungen, BVerfG-Rechtsprechung, sittenwidrige Haerte. Prüfraster für Schuldner und Sozialberatung im Zwangsvollstreckung. |
+| `zwv-vollstreckungstitel-bauleiter` | Bauleiter Vollstreckungstitel §§ 704 sowie 794 ZPO: Urteil, Vergleich, notarielle Urkunde, Vollstreckungsbescheid. Prüfraster für Vollstreckungs- und Klauselerteilung im Zwangsvollstreckung. |
+| `zwv-zwangsversteigerung-grundstueck-spezial` | Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag: Prüfraster für Gla... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -27,7 +27,7 @@ g) wenn möglich, allgemeine Beschreibung der TOMs gemäß Art. 32 Abs. 1 DSGVO.
 ## Ablauf / Checkliste
 
 1. Deckblatt mit Verantwortlicher-Stammdaten anlegen.
-2. Pro Geschaeftsprozess eine Zeile.
+2. Pro Geschäftsprozess eine Zeile.
 3. Spalten gemäß Vorlage befuellen.
 4. Bei Drittlandtransfer Transferinstrument (SCC, DPF, BCR) eintragen.
 5. Loeschfristen konkret, nicht "nach gesetzlichen Vorgaben".
@@ -54,7 +54,7 @@ Version: [v1.0]
 
 | Nr. | Verarbeitungstaetigkeit | Zweck | Rechtsgrundlage | Kategorien Betroffene | Datenkategorien | Empfaengerkategorien | Drittland / Garantie | Loeschfrist | TOM-Verweis |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Personalverwaltung Beschaeftigte | Begruendung, Durchfuehrung und Beendigung des Arbeitsverhaeltnisses | Art. 6 Abs. 1 lit. b DSGVO, § 26 BDSG | Beschaeftigte, Bewerber | Stammdaten, Vertragsdaten, Lohndaten, Krankheitszeiten | Sozialversicherungstraeger, Finanzamt, Lohnbuchhaltungsdienstleister | nein | 10 Jahre nach Ausscheiden (§ 257 HGB, § 147 AO); Bewerberdaten 6 Monate | TOM-Anhang Ziff. 1, 3, 5 |
+| 1 | Personalverwaltung Beschäftigte | Begruendung, Durchfuehrung und Beendigung des Arbeitsverhaeltnisses | Art. 6 Abs. 1 lit. b DSGVO, § 26 BDSG | Beschäftigte, Bewerber | Stammdaten, Vertragsdaten, Lohndaten, Krankheitszeiten | Sozialversicherungstraeger, Finanzamt, Lohnbuchhaltungsdienstleister | nein | 10 Jahre nach Ausscheiden (§ 257 HGB, § 147 AO); Bewerberdaten 6 Monate | TOM-Anhang Ziff. 1, 3, 5 |
 | 2 | Mandantenakte (Rechtsdienstleistung) | Anbahnung, Durchfuehrung und Abrechnung von Mandaten | Art. 6 Abs. 1 lit. b und f DSGVO; § 50 BRAO | Mandanten, Gegner, Zeugen | Stammdaten, Korrespondenz, Schriftsaetze, Honorardaten | Gerichte, Behörden, Gegenanwaelte, Versicherer | nein | 6 Jahre nach Mandatsende (§ 50 Abs. 1 BRAO); steuerlich relevante Belege 10 Jahre | TOM-Anhang Ziff. 1, 2, 4, 6 |
 | 3 | Kontaktformular Website | Beantwortung von Anfragen | Art. 6 Abs. 1 lit. b oder f DSGVO | Interessenten, Mandanten | Name, E-Mail, Telefon, Anfrageinhalt | Hosting-Dienstleister (AVV) | nein | 6 Monate nach Erledigung | TOM-Anhang Ziff. 1, 5 |
 | 4 | CRM Vertrieb | Kundenpflege, Akquise | Art. 6 Abs. 1 lit. b und f DSGVO | Bestandskunden, Interessenten | Stammdaten, Kontakthistorie, Umsatzdaten | CRM-SaaS-Anbieter (USA) | USA – EU-US DPF (Aktiv-Listing dokumentiert in Anhang DPF-Liste) | 3 Jahre nach letztem Kontakt | TOM-Anhang Ziff. 1, 2, 5 |
@@ -78,7 +78,7 @@ Version 1.1 – [Aenderung] – [Datum, Bearbeiter]
 ## Quellen Stand 06/2026
 
 - VO (EU) 2016/679 (DSGVO), Art. 30 Abs. 1.
-- BDSG, § 26 (Beschaeftigtendaten), § 38 (DSB-Pflicht).
+- BDSG, § 26 (Beschäftigtendaten), § 38 (DSB-Pflicht).
 - BRAO § 50 (Aktenaufbewahrung).
 - HGB § 257, AO § 147 (handels-/steuerrechtliche Aufbewahrung).
 - DSK-Kurzpapier Nr. 1 "Verzeichnis von Verarbeitungstaetigkeiten" (Stand 17.12.2018).

@@ -1,6 +1,6 @@
 ---
 name: unabhaengigkeit-bei-pie-pruefung-rechtsprech
-description: "Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
+description: "Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt im Berufsrecht Wirtschaftspruefer."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -69,7 +69,7 @@ Before proceeding, clarify:
 
 ## Key Issues in German-English Contracts
 
-- German "Allgemeine Geschaeftsbedingungen" (AGB) provisions (§§ 305-310 BGB) do not apply under English law — "terms and conditions" not subject to AGB-Kontrolle.
+- German "Allgemeine Geschäftsbedingungen" (AGB) provisions (§§ 305-310 BGB) do not apply under English law — "terms and conditions" not subject to AGB-Kontrolle.
 - English "entire agreement clause" does not incorporate Nebenabreden-Einschaenkungen of German law.
 - German Treu und Glauben (§ 242 BGB) has no equivalent under English law — good faith obligation not implied in commercial contracts (Walford v Miles [1992] 2 AC 128 HL).
 

@@ -1,6 +1,6 @@
 ---
 name: drohne-local-dashboard-bauen
-description: "Deutsches Kanzleiteam muss auslaendischen Anwalt für Drohnen-Mandat briefen: Registrierungsrecht Haftung Unfall oder grenzüberschreitender Betrieb. Skill erstellt englisches Briefing-Memo mit deutschem Drohnenrecht EU-VO 2019/947 und konkreten Fragen im Luftrecht Flughafenrecht."
+description: "Deutsches Kanzleiteam muss ausländischen Anwalt für Drohnen-Mandat briefen: Registrierungsrecht Haftung Unfall oder grenzüberschreitender Betrieb. Skill erstellt englisches Briefing-Memo mit deutschem Drohnenrecht EU-VO 2019/947 und konkreten Fragen im Luftrecht Flughafenrecht."
 ---
 
 # Drohne – Local Counsel briefen

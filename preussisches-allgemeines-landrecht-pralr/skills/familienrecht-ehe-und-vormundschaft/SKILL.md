@@ -24,17 +24,17 @@ description: "PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit u
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 1 §§ 1 ff.**: Allgemeine Wirkung der Ehe; Eheschliessung nur vor Pfarrer (vor reichseinheitlicher Zivilehe 1875).
 - **ALR II 1 §§ 174-200**: Pflichten der Ehegatten; Pflicht zur ehelichen Beiwohnung; Pflicht der Frau zur Befolgung im Haushalt; Schutzpflicht des Mannes.
 - **ALR II 1 §§ 205-300**: Gueterrechtlich — Verwaltungsgemeinschaft, Mann als Verwalter des Frauenvermoegens.
 - **ALR II 1 §§ 670-750**: Scheidung; Scheidungsgruende kasuistisch (Ehebruch, boeswilliges Verlassen, Krankheit).
-- **ALR II 2 §§ 1 ff.**: Eltern-Kind-Verhaeltnis; vaeterliche Gewalt.
+- **ALR II 2 §§ 1 ff.**: Eltern-Kind-Verhältnis; vaeterliche Gewalt.
 - **ALR II 18 §§ 1 ff.**: Vormundschaft für Unmuendige und Verschwender.
 
 ### Subsumtionsbeispiel: Ehescheidung wegen Ehebruchs (1850)
 Sachverhalt: Ehemann betrueben mit Magd, Ehebruch nachgewiesen.
-ALR-Loesung: ALR II 1 §§ 670-680 — Scheidung gewaehrt; schuldiger Mann verliert Anspruch auf gemeinsame Wohnung; Frau erhaelt Unterhalt nach ihrem Stand. Vermoegenstrennung nach ALR II 1 §§ 205 ff. Kinder bleiben in vaeterlicher Gewalt nur wenn unschuldig.
+ALR-Loesung: ALR II 1 §§ 670-680 — Scheidung gewaehrt; schuldiger Mann verliert Anspruch auf gemeinsame Wohnung; Frau erhaelt Unterhalt nach ihrem Stand. Vermögenstrennung nach ALR II 1 §§ 205 ff. Kinder bleiben in vaeterlicher Gewalt nur wenn unschuldig.
 
 ### Subsumtionsbeispiel: Vormundschaft für Minderjaehrigen mit Vermögen
 Sachverhalt: Waisen 12 Jahre mit Erbschaft 10000 Taler.

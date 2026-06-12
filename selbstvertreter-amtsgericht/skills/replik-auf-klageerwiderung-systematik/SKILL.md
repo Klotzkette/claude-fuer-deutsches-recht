@@ -1,6 +1,6 @@
 ---
 name: replik-auf-klageerwiderung-systematik
-description: "Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen."
+description: "Replik als Kläger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen."
 ---
 
 # Replik: Wie Sie als Kläger auf die Klageerwiderung antworten
@@ -17,7 +17,7 @@ Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moegl
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Replik**: Antwort des Klaegers auf Klageerwiderung.
+- **Replik**: Antwort des Klägers auf Klageerwiderung.
 - **Duplik**: Antwort des Beklagten auf Replik.
 - **Schriftsatznachlass**: Vom Gericht gewaehrte Frist, um auf neuen Vortrag zu antworten.
 
@@ -41,7 +41,7 @@ Lesen Sie Wort für Wort:
 
 ### Schritt 2 — Pro Beklagten-Punkt: Reaktion
 
-Wenn Beklagter Tatsache des Klaegers bestreitet — müssen Sie Beweis nochmal staerken oder Tatsache substantiieren.
+Wenn Beklagter Tatsache des Klägers bestreitet — müssen Sie Beweis nochmal staerken oder Tatsache substantiieren.
 
 Wenn Beklagter neue Tatsachen vortraegt — Sie müssen darauf reagieren:
 

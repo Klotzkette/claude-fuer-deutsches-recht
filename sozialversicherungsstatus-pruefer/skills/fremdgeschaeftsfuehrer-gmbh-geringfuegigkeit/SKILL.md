@@ -1,6 +1,6 @@
 ---
 name: fremdgeschaeftsfuehrer-gmbh-geringfuegigkeit
-description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung im Sozialversicherungsstatus Pruefer."
+description: "Prüft Sozialversicherungsstatus eines GmbH-Fremdgeschäftsführers ohne Kapitalbeteiligung im Sozialversicherungsstatus Prüfer."
 ---
 
 # Fremdgeschäftsführer GmbH

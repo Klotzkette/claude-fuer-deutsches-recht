@@ -44,7 +44,7 @@ Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshisto
 
 1. Periodenabgrenzung: Wann endet die Rezeptionsepoche und beginnt die Kodifikationsepoche?
 2. Kontinuitaet oder Bruch 1945: Nachwirkung von NS-Richtern und NS-Juristen im Nachkriegsdeutschland
-3. Verhaeltnis DDR-Recht zum gesamtdeutschen Rechtsbestand nach 1990
+3. Verhältnis DDR-Recht zum gesamtdeutschen Rechtsbestand nach 1990
 4. Europarechtsueberformung als neue Epoche oder Fortsetzung der BRD-Epoche?
 5. Methodentransfer: Darf man GG-Begriffe in Weimarer Verfassungstexte hineinlesen?
 

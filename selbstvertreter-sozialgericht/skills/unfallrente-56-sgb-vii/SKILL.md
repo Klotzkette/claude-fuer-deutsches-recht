@@ -1,6 +1,6 @@
 ---
 name: unfallrente-56-sgb-vii
-description: "Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster."
+description: "Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhältnis zur EM-Rente. Liefert Prüfraster."
 ---
 
 # Unfallrente 56 Sgb Vii
@@ -36,7 +36,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 - Mehrere Arbeitsunfaelle mit MdE unter 20 Prozent können zusammen Anspruch begruenden.
 
-## Verhaeltnis zur EM-Rente
+## Verhältnis zur EM-Rente
 
 - Beide Rentensystem können nebeneinander bestehen.
 - Anrechnung im jeweiligen Systen.
@@ -46,7 +46,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 - Vorlaeufige Unfallrente für 3 Jahre.
 - Danach Dauerunfallrente.
 
-## Pruefraster
+## Prüfraster
 
 1. MdE-Wert?
 2. JAV richtig?

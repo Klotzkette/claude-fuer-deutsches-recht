@@ -1,6 +1,6 @@
 ---
 name: eigentum-art-14-inhalts-schranken-enteignung
-description: "Art. 14 GG verhaeltnismaessig pruefen: Inhalts- und Schrankenbestimmung, Enteignung, Ausgleichspflichten, Eigentumsbindung, Atomausstieg-Linie und Abgrenzung zu Berufsfreiheit und Gleichheit."
+description: "Art. 14 GG verhältnismäßig prüfen: Inhalts- und Schrankenbestimmung, Enteignung, Ausgleichspflichten, Eigentumsbindung, Atomausstieg-Linie und Abgrenzung zu Berufsfreiheit und Gleichheit."
 ---
 
 # Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich
@@ -20,7 +20,7 @@ description: "Art. 14 GG verhaeltnismaessig pruefen: Inhalts- und Schrankenbesti
 - BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11, 1 BvR 321/12, 1 BvR 1456/12, BVerfGE 143, 246 (Atomausstieg): Inhalts- und Schrankenbestimmung kann weit reichen, muss aber Belastungen verhaeltnismaessig verteilen und gegebenenfalls Ausgleich vorsehen.
 - BVerfG, Beschluss vom 09.07.2020, 1 BvR 2067/17: Verwendungsverbote können Inhalts- und Schrankenbestimmungen sein; Abgrenzung zur Enteignung nicht nur nach wirtschaftlicher Schwere.
 
-## Frei pruefbare Quellen
+## Frei prüfbare Quellen
 
 - Atomausstieg, 06.12.2016, 1 BvR 2821/11 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html`
 - BVerfG, 09.07.2020, 1 BvR 2067/17: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/07/rk20200709_1bvr206717.html`
@@ -45,7 +45,7 @@ Beginne nicht mit "Enteignung", sondern mit der Eigentumsstruktur:
 | Erforderlichkeit | Gibt es mildere Regulierung, laengere Uebergangsfrist, Genehmigungsvorbehalt, Ausgleich statt Verbot? |
 | Angemessenheit | Wie schwer ist der Substanz-, Nutzungs- oder Investitionsverlust; wie vorhersehbar war die Regulierung; wie breit ist die Last verteilt? |
 
-## Ausgleich als Verhaeltnismaessigkeitsventil
+## Ausgleich als Verhältnismäßigkeitsventil
 
 Prüfe Ausgleich nicht erst am Ende. Bei schweren, ungleich verteilten Inhalts- und Schrankenbestimmungen kann ein finanzieller oder uebergangsrechtlicher Ausgleich die Verhältnismäßigkeit retten. Fehlt er, ist die Maßnahme nicht automatisch Enteignung, aber moeglicherweise unverhaeltnismaessig.
 

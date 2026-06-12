@@ -1,6 +1,6 @@
 ---
 name: pluralismus-mehrebenenordnung
-description: "Prueft rechtlichen Pluralismus in EU, Bund, Land, Satzung, Soft Law, Verbandsrecht, Plattformregeln und privaten Ordnungen."
+description: "Prüft rechtlichen Pluralismus in EU, Bund, Land, Satzung, Soft Law, Verbandsrecht, Plattformregeln und privaten Ordnungen."
 ---
 
 # Pluralismus und Mehrebenenordnung

@@ -159,7 +159,7 @@ Liebe Gruesse
 [Name]
 ```
 
-## Pruefregeln
+## Prüfregeln
 
 Bevor du den Brief abgibst, prüfe:
 

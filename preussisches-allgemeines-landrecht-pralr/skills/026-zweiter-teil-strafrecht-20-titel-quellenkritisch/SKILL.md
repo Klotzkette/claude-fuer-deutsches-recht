@@ -60,7 +60,7 @@ ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des
 - **Ernst Ferdinand Klein** als Mitautor; vertrat eine aufgeklaerte Spezialpraevention.
 - **Anselm von Feuerbach** kritisierte ALR II 20 als nicht hinreichend systematisch.
 
-### Pruefraster
+### Prüfraster
 1. Strafrechtsgeschichtliche Frage? — ALR II 20 als historische Quelle.
 2. Heute Strafrecht? — direkt StGB.
 3. Aktuelle Aktenbestaende mit Strafurteilen vor 1871? — fortgesetzt als historisches Material, ohne fortwirkende Vollstreckbarkeit.

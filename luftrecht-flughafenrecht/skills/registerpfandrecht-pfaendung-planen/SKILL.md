@@ -1,13 +1,13 @@
 ---
 name: registerpfandrecht-pfaendung-planen
-description: "Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prueft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan im Luftrecht Flughafenrecht."
+description: "Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prüft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan im Luftrecht Flughafenrecht."
 ---
 
 # Registerpfandrecht – Pfändung planen
 
 ## Arbeitsbereich
 
-Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prueft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prüft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 

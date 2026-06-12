@@ -1,13 +1,13 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beis..."
+description: "Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als prüfbare Anforderungen umsetzen. Mit Anti-Beis..."
 ---
 
 # Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision
 
 ## Arbeitsbereich
 
-Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion möglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion möglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als prüfbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -21,7 +21,7 @@ Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Ad
 
 Drei Werte tragen jedes juristische Dokument: Klarheit, Bestimmtheit und Praezision. Sie sind keine Stilvorlieben, sondern Wirksamkeitsfaktoren. Eine unklare Vertragsklausel ist nach § 305c Abs. 2 BGB im Zweifel gegen den Verwender auszulegen. Ein unbestimmter Klageantrag ist nach § 253 Abs. 2 Nr. 2 ZPO unzulaessig. Eine intransparente AGB-Klausel ist nach § 307 Abs. 1 Satz 2 BGB unwirksam.
 
-Dieser Skill operationalisiert die drei Werte als pruefbare Anforderungen. Sie liefern keine philosophische Begruendung, sondern eine Checkliste pro Satz, pro Klausel, pro Antrag. Er verweist auf die Fachmodule, sobald die Prüfung Schwerpunkte ergibt.
+Dieser Skill operationalisiert die drei Werte als prüfbare Anforderungen. Sie liefern keine philosophische Begruendung, sondern eine Checkliste pro Satz, pro Klausel, pro Antrag. Er verweist auf die Fachmodule, sobald die Prüfung Schwerpunkte ergibt.
 
 ## Eingaben
 

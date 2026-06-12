@@ -1,11 +1,11 @@
 ---
 name: bmf-haushalts-und-zuwendungsrecht
-description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO;..."
+description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschäftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO;..."
 ---
 
 # Haushaltsrecht und Zuwendungen (BMF)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Haushaltsrecht und Zuwendungen im Geschäftsbereich BMF. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BM
 
 Kernbestand des Sachfelds: BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -34,7 +34,7 @@ Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Haushaltstitel waehlen; Zuwendungszweck und Foerdervoraussetzungen formulieren; ANBest einbinden; Subventionserheblichkeit kennzeichnen; Pruefrechte sichern; Befristung.
+Haushaltstitel waehlen; Zuwendungszweck und Foerdervoraussetzungen formulieren; ANBest einbinden; Subventionserheblichkeit kennzeichnen; Prüfrechte sichern; Befristung.
 
 Schrittfolge für den Normgeber:
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Verfehlte Notifizierung; AGVO-Schwellen ueberschritten; doppelte Förderung; Subventionsbetrug; fehlende Wirkungskontrolle; Vermischung von Förderung und Beschaffung.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

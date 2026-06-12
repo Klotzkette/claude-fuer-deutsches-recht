@@ -1,6 +1,6 @@
 ---
 name: beitragsnachforderung-haftung
-description: "Prüft Nachforderungen, Säumniszuschläge, Verjährung, Arbeitgeberhaftung und interne Regressfragen im Sozialversicherungsstatus Pruefer."
+description: "Prüft Nachforderungen, Säumniszuschläge, Verjährung, Arbeitgeberhaftung und interne Regressfragen im Sozialversicherungsstatus Prüfer."
 ---
 
 # Beitragsnachforderung und Haftung

@@ -1,6 +1,6 @@
 ---
 name: verkehrsplanung-verkehrswende
-description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster:..."
+description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Maßnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster:..."
 ---
 
 # Verkehrsplanung und Projektstrategie
@@ -46,9 +46,9 @@ Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder R
 1. **Projekttyp bestimmen:** informelle Planung, Bauleitplanung (FNP/B-Plan) oder Planfeststellung (§ 74 VwVfG)
 2. **UVP-Screening:** Anlage 1 UVPG prüfen; ggf. allgemeine Vorpruefung (§ 7 UVPG) veranlassen
 3. **Raumordnungsverfahren:** § 15 ROG — ist Vorhaben raumbedeutsam? ROV-Pflicht abklaeren
-4. **Bauleitplanung wenn noetig:** FNP-Aenderung, B-Plan-Aufstellung; Beteiligung nach §§ 3, 4 BauGB
+4. **Bauleitplanung wenn noetig:** FNP-Änderung, B-Plan-Aufstellung; Beteiligung nach §§ 3, 4 BauGB
 5. **Betroffenheitsanalyse:** Eigentumsrechte (Art. 14 GG), Laerm (16. BImSchV), Naturschutz (BNatSchG)
-6. **Unterlagen zusammenstellen:** Erlaeuterungsbericht, Lageplan, Querschnitte, Laermprognose, UVP-Bericht
+6. **Unterlagen zusammenstellen:** Erläuterungsbericht, Lageplan, Querschnitte, Laermprognose, UVP-Bericht
 7. **Beteiligungsverfahren durchfuehren:** Auslegung nach § 73 VwVfG (4 Wochen); Einwendungen erfassen
 8. **Einwendungen aufbereiten:** sortieren, rechtlich bewerten, Erwidernde formulieren
 9. **Planfeststellungsbeschluss prüfen:** Abwaegungsfehler, Nebenbestimmungen, Auflagen

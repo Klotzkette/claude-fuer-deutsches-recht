@@ -31,7 +31,7 @@ Bankmitarbeiter erstellt Steuerbescheinigungen ohne wirtschaftlichen Hintergrund
 
 ## Arbeitsergebnis
 
-Cum-Ex strafbar als Betrug Steuerhinterziehung gewerbsmaessig; Vermoegensabschoepfung.
+Cum-Ex strafbar als Betrug Steuerhinterziehung gewerbsmaessig; Vermögensabschoepfung.
 
 ## Belege und Aktenlücken
 

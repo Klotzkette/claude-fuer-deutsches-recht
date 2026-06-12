@@ -1,19 +1,19 @@
 ---
 name: pkh-ratenzahlung-bewilligung
-description: "Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten."
+description: "Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Änderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten."
 ---
 
 # PKH mit Ratenzahlung
 
 ## Worum geht es?
 
-Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun können, wenn sich die Einkommens-Lage aendert.
+Wer ein einsetzbares Einkommen hat, das aber nicht hoch genug für Selbstzahlung ist, bekommt PKH mit Ratenzahlung. Das Gericht setzt eine monatliche Rate fest, die Sie an die Gerichtskasse zahlen. Bis maximal 48 Monate. Diese Skill zeigt, wie die Rate berechnet wird und was Sie tun können, wenn sich die Einkommens-Lage ändert.
 
 ## Wann brauchen Sie diese Skill?
 
 - Sie haben PKH mit Raten bewilligt bekommen.
 - Sie wollen vorhersagen, was die Raten kosten koennten.
-- Sie haben Einkommens-Aenderung.
+- Sie haben Einkommens-Änderung.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -59,14 +59,14 @@ Wenn Verfahrenskosten frueher abgedeckt: Raten enden frueher.
 - IBAN und Aktenzeichen wie ueblich.
 - Daueraufrag empfehlenswert (vergessens-Risiko).
 
-### Schritt 5 — Aenderung der Einkommens-Lage
+### Schritt 5 — Änderung der Einkommens-Lage
 
-§ 120a ZPO: Wenn sich Ihre Einkommens-/Vermoegens-Lage **erheblich** aendert, müssen Sie das melden.
+§ 120a ZPO: Wenn sich Ihre Einkommens-/Vermögens-Lage **erheblich** ändert, müssen Sie das melden.
 
 - Einkommens-**Verbesserung**: Rate wird ggf. erhoeht.
 - Einkommens-**Verschlechterung**: Auf Antrag Rate verringert oder ausgesetzt.
 
-Aenderungs-Schwelle: BGH-Rechtsprechung 100 EUR pro Monat.
+Änderungs-Schwelle: BGH-Rechtsprechung 100 EUR pro Monat.
 
 ### Schritt 6 — Bei Niederlage
 
@@ -82,7 +82,7 @@ Sie können die Raten vorzeitig komplett zahlen — entlastet Sie laufend.
 
 ## Worauf Sie besonders achten müssen
 
-- **Meldepflicht**: Wenn Sie Einkommens-Aenderung nicht melden, kann PKH rueckwirkend aufgehoben werden (§ 124 ZPO).
+- **Meldepflicht**: Wenn Sie Einkommens-Änderung nicht melden, kann PKH rueckwirkend aufgehoben werden (§ 124 ZPO).
 - **Tabelle aktualisieren**: Verifizieren Sie die aktuelle PKH-Tabelle.
 - **Vorlage-Pflicht**: Vier-jaehrliche Nachpruefung kann Belege anfordern.
 

@@ -1,6 +1,6 @@
 ---
 name: plattformverhaeltnis
-description: "Prüft digitale Plattformen als Auftraggeber, Vermittler oder Algorithmus-Steuerer im Sozialversicherungsstatus Pruefer."
+description: "Prüft digitale Plattformen als Auftraggeber, Vermittler oder Algorithmus-Steuerer im Sozialversicherungsstatus Prüfer."
 ---
 
 # Plattformverhältnis

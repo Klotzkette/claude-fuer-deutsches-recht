@@ -63,7 +63,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -120,11 +120,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage — klaere vor Beginn
 
 1. Umsatzschwellen erreicht? → Bundeskartellamt (§§ 35 ff. GWB) oder EU-Kommission (Art. 1 FKVO)?
-2. Auslaendischer Erwerber aus Nicht-EU-Land? → AWG/AWV-Investitionspruefung prüfen
-3. Branche: Ruestung, Verteidigung, Kritische Infrastruktur, Medien, Gesundheit, Cloud? → SektSchV oder besondere Pruefpflichten
+2. Ausländischer Erwerber aus Nicht-EU-Land? → AWG/AWV-Investitionspruefung prüfen
+3. Branche: Ruestung, Verteidigung, Kritische Infrastruktur, Medien, Gesundheit, Cloud? → SektSchV oder besondere Prüfpflichten
 4. Timeline: Vollzugsverbot (Standstill Obligation) bis Freigabe; Gunst-Jumping-Risiko?
 5. Mehrere Jurisdiktionen (USA HSR Act, UK NSI Act, China SAMR)? → Multijurisdiktioneller Koordinationsbedarf
-6. FDI-Screening: Meldepflicht oder nur Pruefmoeglichkeit des BMWK?
+6. FDI-Screening: Meldepflicht oder nur Prüfmoeglichkeit des BMWK?
 
 ## Zentrale Normen
 
@@ -154,7 +154,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Tier 2: Weltumsatz > 2.5 Mrd. EUR + EU-Umsatz > 100 Mio. EUR in mind. drei Mitgliedstaaten
 
 ### Vollzugsverbot (§ 41 GWB / Art. 7 FKVO)
-Kein Vollzug bis zur Freigabe oder Ablauf der Pruefdauer. Ausnahme: vorherige Genehmigung (Dispensantrag).
+Kein Vollzug bis zur Freigabe oder Ablauf der Prüfdauer. Ausnahme: vorherige Genehmigung (Dispensantrag).
 
 ## FDI-Screening (AWG/AWV): Sektoren und Schwellen
 
@@ -167,13 +167,13 @@ Kein Vollzug bis zur Freigabe oder Ablauf der Pruefdauer. Ausnahme: vorherige Ge
 | KI / autonome Fahrzeuge / Robotik | 10 % | § 56 Ia AWV |
 | Sonstige Unternehmen | 25 % | § 55 AWV |
 
-Meldefrist: 2 Monate nach Vertragsschluss. Pruefdauer: 4 Monate (verlaengerbar).
+Meldefrist: 2 Monate nach Vertragsschluss. Prüfdauer: 4 Monate (verlaengerbar).
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Schwellentest** — Umsatzzahlen beider Parteien errechnen; GWB/FKVO/Drittlaender-Schwellen prüfen
 2. **FDI-Check** — Nationalitaet des Erwerbers; Sektor der Zielgesellschaft; AWV-Schwellen
-3. **Timeline festlegen** — Anmeldezeitpunkt (post-Signing); Pruefdauer Phase I (4 Wochen GWB; 25 Werktage FKVO)
+3. **Timeline festlegen** — Anmeldezeitpunkt (post-Signing); Prüfdauer Phase I (4 Wochen GWB; 25 Werktage FKVO)
 4. **Gun-Jumping-Protokoll** — Informationsaustausch beschraenken bis Freigabe; Clean Team wenn noetig
 5. **Anmeldungsformulare** — Bundeskartellamt: Formular A/B; EU-Kommission: Form CO/Short Form
 6. **Pre-notification Contacts** — informelle Voranfrage bei Behörde; Zeitplan abklaeren

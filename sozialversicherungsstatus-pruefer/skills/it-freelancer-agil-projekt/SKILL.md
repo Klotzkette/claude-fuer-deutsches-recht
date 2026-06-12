@@ -1,6 +1,6 @@
 ---
 name: it-freelancer-agil-projekt
-description: "Prüft IT-Freelancer in Scrum/Agile-Projekten mit Teammeetings, Tickets, Product Owner, Tools und Unternehmerrisiko im Sozialversicherungsstatus Pruefer."
+description: "Prüft IT-Freelancer in Scrum/Agile-Projekten mit Teammeetings, Tickets, Product Owner, Tools und Unternehmerrisiko im Sozialversicherungsstatus Prüfer."
 ---
 
 # IT-Freelancer im agilen Projekt

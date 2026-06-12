@@ -18,7 +18,7 @@ description: "Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: An
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo für Hochschulen Behörden kommunale Mandatstraeger.
+**Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils für die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Prüfraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo für Hochschulen Behörden kommunale Mandatstraeger.
 
 ### Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB
 
@@ -34,7 +34,7 @@ Abgrenzung von §§ 332 / 334 StGB (Bestechlichkeit / Bestechung — Spezialnorm
 - Dienstposten / Funktion Amtstraeger.
 - Vorteilsgegenstand und Wert (Sachzuwendung, Einladung, Reise, Honorar).
 - Dienstgenehmigung, Behörden-Richtlinien (z. B. Verwaltungsvorschriften, Anti-Korruptions-Erlass).
-- Geschaeftliche Beziehung Geber / Behörde.
+- Geschäftliche Beziehung Geber / Behörde.
 
 ## Tatbestand und Auslegung
 
@@ -46,9 +46,9 @@ Wer als **Amtstraeger, Europaeischer Amtstraeger oder für den öffentlichen Die
 
 Wer einem **Amtstraeger, Europaeischen Amtstraeger oder für den öffentlichen Dienst besonders Verpflichteten** oder einem **Soldaten der Bundeswehr** **für die Dienstausuebung** einen Vorteil **anbietet, verspricht oder gewaehrt**.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
-- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem öffentlich-rechtlichem Amtsverhaeltnis, Beschaeftigte in öffentlicher Verwaltung.
+- **Amtstraeger § 11 Abs. 1 Nr. 2 StGB.** Beamte, Richter, Personen in sonstigem öffentlich-rechtlichem Amtsverhaeltnis, Beschäftigte in öffentlicher Verwaltung.
 - **Vorteil.** Jede Zuwendung mit objektivem Wert. Auch immaterielle Vorteile (Lobpreisungen) nur eingeschraenkt.
 - **"Für die Dienstausuebung".** Lockerer Bezug als bei §§ 332 / 334 StGB. Keine konkrete Diensthandlung erforderlich. Hinwendung zum allgemeinen Wohlwollen genuegt (sog. **"Klimapflege"**).
 - **Sozialadaequanz.** Geringfuegige Aufmerksamkeiten (Kugelschreiber, Kaffee, kleine Werbeartikel). Schwelle ueblich bis ca. 25 bis 50 EUR Wert, je nach Behörde.

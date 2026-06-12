@@ -32,14 +32,14 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | **Limitation of Liability** | Haftungsobergrenze für Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss für Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
 | **Suretyship vs. Guarantee** | UK: "guarantee" = sekundaere Verpflichtung; "indemnity" = primaere | § 765 BGB Buergschaft vs. § 311 BGB Garantievertrag; § 766 BGB Schriftform | "On first demand guarantee" = abstrakte Buergschaft auf erstes Anfordern; bei deutschem Recht streng AGB-rechtlich kontrolliert |
 | **Entire Agreement / Merger Clause** | Vertrag enthaelt vollstaendige Einigung; vorvertragliche Erklaerungen unbeachtlich | §§ 133, 157 BGB Auslegung; Andeutungstheorie; Klausel ist im deutschen Recht **wirkungsbeschraenkt**, schliesst Auslegung nicht vollstaendig aus | BGH XI ZR 39/04: Merger Clauses können § 305c II BGB nicht ueberwinden; AGB-Kontrolle |
-| **No Oral Modification (NOM)** | Aenderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
+| **No Oral Modification (NOM)** | Änderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
 | **Severability / Salvatorische Klausel** | Bei Unwirksamkeit eines Teils bleibt Rest wirksam | § 139 BGB (Auslegungsregel); Klausel modifiziert nur Auslegung | BGH-Linie: rein deklaratorische Klauseln im AGB unproblematisch; substanziellere Ersetzungsklauseln AGB-rechtlich prüfen |
 | **Governing Law** | Anwendbares materielles Recht | Art. 3 Rom I-VO (Verträge), Art. 14 Rom II-VO (ausservertraglich) | Internationale Verbraucher Art. 6 Rom I-VO, AN Art. 8 Rom I-VO; ordre public Art. 21 Rom I-VO |
 | **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zuständigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Prüfung des AVAG bei Drittstaaten |
 | **Arbitration Clause** | Schiedsgerichtsbarkeit (ICC, LCIA, DIS, SIAC, AAA/ICDR) | §§ 1029 ff. ZPO; UNCITRAL Model Law; New York Convention 1958 | Schriftform/Form § 1031 ZPO; Verbraucher § 1031 V ZPO (notarielle Form) |
 | **Boilerplate** | Sammelbegriff für Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln prüfen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
 
-## Pruefraster für den Skill
+## Prüfraster für den Skill
 
 1. **Sachverhalt fixieren** — Welche Klauseln, welcher Vertragstyp, welches Recht?
 2. **Klauselfunktion identifizieren** über die Tabelle.
@@ -58,10 +58,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
 ## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
 - Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht
 - Kein Ersatz für eine vollstaendige Mandantenberatung.

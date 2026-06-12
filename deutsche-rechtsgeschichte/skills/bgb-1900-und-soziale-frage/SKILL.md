@@ -20,7 +20,7 @@ Das BGB 1900 war auf formaler Gleichheit und Vertragsfreiheit aufgebaut, ohne di
 ## Kernnormen / Kernquellen
 
 - **BGB § 242**: Treu und Glauben, sozialrechtliches Korrektivinstrument
-- **BGB § 618**: Fuersorgepflicht des Arbeitgebers (1900 bereits im BGB)
+- **BGB § 618**: Fürsorgepflicht des Arbeitgebers (1900 bereits im BGB)
 - **Gewerbegerichtsgesetz 1890 (RGBl. 1890, 141)**: Arbeitsgerichtliche Vorlaeufernorm
 - **Mieterschutzverordnung 1917**: Erster staatlicher Mietschutz im Weltkrieg
 - **KSchG 1951 (BGBl. I 1951, 499)**: Kuendigungsschutzgesetz als BGB-Ergaenzung

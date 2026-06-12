@@ -32,7 +32,7 @@ description: "PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR I 23 §§ 1-30**: Allgemeine Nachbarrechte; Grenzbaeume, Grenzhecken (Grenzbaum gehoert beiden Nachbarn anteilig).
 - **ALR I 23 §§ 35-50**: Immissionen — Rauch, Geruch, Gewerbedaempfe; Untersagung nur, wenn "uebermäßige Beeintraechtigung".
 - **ALR I 23 §§ 80 ff.**: Notweg über Nachbarsgrundstueck bei eingeschlossener Lage; Entschaedigung.
@@ -52,7 +52,7 @@ ALR-Loesung: ALR I 23 §§ 35-50 — Beurteilung nach Ortsueblichkeit; bei "uebe
 
 ### Heutige Fortwirkung
 - § 906 BGB Immissionen.
-- § 910 BGB Ueberhang.
+- § 910 BGB Überhang.
 - § 912 BGB Ueberbau.
 - § 917 BGB Notweg.
 - Landesnachbarrechtsgesetze (NachbG NRW, Bdb, MV, ST).

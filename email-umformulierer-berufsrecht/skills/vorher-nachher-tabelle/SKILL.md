@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger..."
+description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Änderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Änderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger..."
 ---
 
 # Vorher-Nachher-Tabelle
@@ -24,7 +24,7 @@ Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umform
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Tabellenformat belegt Normkonformitaet
 - § 50 BRAO — Aktenaufbewahrungspflicht: Dokumentation der Kommunikationsueberarbeitung als Teil der Akte
-- § 138 ZPO — Wahrheitspflicht: Transparenz der Aenderungen sichert Authentizitaet
+- § 138 ZPO — Wahrheitspflicht: Transparenz der Änderungen sichert Authentizitaet
 - § 45 BRAO — Interessenkonflikt-Check: Tabellenformat hilft, Risiken zu identifizieren
 
 ## Zweck des Standardformats

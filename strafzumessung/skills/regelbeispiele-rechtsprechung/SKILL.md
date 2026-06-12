@@ -1,13 +1,13 @@
 ---
 name: regelbeispiele-rechtsprechung
-description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4..."
+description: "Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermögensverlust, Anschlag auf das Vermoegen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4..."
 ---
 
 # Regelbeispiele in der Strafzumessung
 
 ## Arbeitsbereich
 
-Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermögen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermögensverlust, Anschlag auf das Vermögen, Wirtschaftsleben). § 267 Abs. 3 StGB Urkundenfaelschung. § 240 Abs. 4 StGB Noetigung. Indizwirkung, Entkraeftung, Gesamtwuerdigung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -33,7 +33,7 @@ Regelbeispiele sind gesetzlich aufgezaehlte Tatumstaende, deren Vorliegen einen 
 
 Abs. 1 Satz 2:
 
-- **Nr. 1**: Einbruch in Wohnraum, Geschaeftsraum, umfriedetes Besitztum; Einsteigen; falscher Schlüssel; Anwendung anderer nicht zur ordnungsgemaessen Oeffnung bestimmter Werkzeuge; Verbergen in den Raeumen.
+- **Nr. 1**: Einbruch in Wohnraum, Geschäftsraum, umfriedetes Besitztum; Einsteigen; falscher Schlüssel; Anwendung anderer nicht zur ordnungsgemaessen Oeffnung bestimmter Werkzeuge; Verbergen in den Raeumen.
 - **Nr. 2**: Sache, die durch verschlossenes Behaeltnis gesichert war.
 - **Nr. 3**: Gewerbsmaessigkeit.
 - **Nr. 4**: Diebstahl aus Kirche oder anderem Gebaeude, das gottesdienstlichen Zwecken dient.
@@ -46,7 +46,7 @@ Strafrahmen: 3 Monate bis 10 Jahre.
 ### § 263 Abs. 3 StGB — Betrug
 
 - **Nr. 1**: Gewerbsmaessigkeit oder Bande.
-- **Nr. 2**: Vermoegensverlust großen Ausmasses oder Vermoegensverlust einer großen Zahl von Menschen.
+- **Nr. 2**: Vermögensverlust großen Ausmasses oder Vermögensverlust einer großen Zahl von Menschen.
 - **Nr. 3**: Wirtschaftliche Not eines anderen.
 - **Nr. 4**: Missbrauch der Stellung als Amtstraeger oder Europaeischer Amtstraeger.
 - **Nr. 5**: Vortaeuschung eines Versicherungsfalls.
@@ -56,7 +56,7 @@ Strafrahmen: 6 Monate bis 10 Jahre.
 ### § 267 Abs. 3 StGB — Urkundenfaelschung
 
 - **Nr. 1**: Gewerbsmaessigkeit oder Bande.
-- **Nr. 2**: Vermoegensverlust großen Ausmasses.
+- **Nr. 2**: Vermögensverlust großen Ausmasses.
 - **Nr. 3**: Erhebliche Gefaehrdung der Sicherheit des Rechtsverkehrs durch große Zahl unechter Urkunden.
 - **Nr. 4**: Missbrauch der Stellung als Amtstraeger.
 
@@ -92,7 +92,7 @@ Regelbeispiele bei besonders schwerem Fall der Noetigung.
 - Mindestens drei Personen mit gemeinsamem Willen, in der Zukunft Straftaten zu begehen.
 - St. Rspr.; Aktenzeichen verifizieren.
 
-### Vermoegensverlust großen Ausmasses
+### Vermögensverlust großen Ausmasses
 
 - Schwellenwert nach st. Rspr. bei **50 000 EUR** (BGH; Aktenzeichen verifizieren). Bei niedrigen Schwellenwerten von Spezialdelikten gelten Sondergrenzen.
 
@@ -136,5 +136,5 @@ Regelbeispiele bei besonders schwerem Fall der Noetigung.
 ## Quellen und Stand 05/2026
 
 - §§ 243, 263, 267, 218, 253, 264, 266, 271, 335 StGB in der geltenden Fassung.
-- BGH-Linie zu Gewerbsmaessigkeit, Bande, Vermoegensverlust großen Ausmasses — Aktenzeichen in dejure.org/openjur.de verifizieren.
+- BGH-Linie zu Gewerbsmaessigkeit, Bande, Vermögensverlust großen Ausmasses — Aktenzeichen in dejure.org/openjur.de verifizieren.
 - Quellenregel: vgl. `references/zitierweise.md`.

@@ -51,7 +51,7 @@ Die Kreditoren-Saldenliste zeigt alle Verbindlichkeiten gegenueber Lieferanten. 
 
 - OP-Liste aus DATEV/Addison/Sage.
 - Lieferantenstammdaten mit Zahlungskonditionen.
-- Bankvalutadaten (offene Ueberweisungen, geplante Zahlungen).
+- Bankvalutadaten (offene Überweisungen, geplante Zahlungen).
 - Liquiditaetsplan (3-Wochen-Sicht).
 
 ### Phase 2 — Aufbau OVA

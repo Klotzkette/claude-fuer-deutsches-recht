@@ -39,7 +39,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Meat on the Bone — Konkreter ALR-Stoff
 
-### Schluesselparagraphen
+### Schlüsselparagraphen
 - **ALR II 8**: Buergerstaedte; Innungen; Zunftordnungen.
 - **ALR II 8 §§ 1-50**: Staedtisches Buergerrecht; Beitritt zur Buergerschaft; Pflichten.
 - **ALR II 7**: Bauerndoerfer; Gutsbezirk; Gemeinheiten und Allmenden.

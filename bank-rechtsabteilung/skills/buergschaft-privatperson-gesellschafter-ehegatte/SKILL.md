@@ -27,7 +27,7 @@ description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Ba
 
 ### Ehegatten-Buergschaft
 - Ehegatte buergt für Kredit des anderen Ehegatten oder seines Unternehmens.
-- **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermoegensueberforderung".
+- **BGH XI ZR 56/93** (19.01.1999) zur Sittenwidrigkeit bei "krasser Vermögensueberforderung".
 - Voraussetzungen:
  - Buergin/Buerge hat kein nennenswertes Einkommen / Vermögen.
  - Buergschaft uebersteigt Pfaendungsmoeglichkeit drastisch.
@@ -41,9 +41,9 @@ description: "Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Ba
 - BGH-Linie: ca. 1 Prozent monatliche Tilgungsfaehigkeit als Schwelle.
 - Bei Unterschreitung: vermutung Sittenwidrigkeit.
 
-## Pruefraster
+## Prüfraster
 
-1. Verhaeltnis Buerge - Hauptschuldner?
+1. Verhältnis Buerge - Hauptschuldner?
 2. Eigeninteresse?
 3. Tilgungsfaehigkeit?
 4. Sittenwidrigkeit?

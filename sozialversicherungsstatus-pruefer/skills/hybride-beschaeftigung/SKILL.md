@@ -1,6 +1,6 @@
 ---
 name: hybride-beschaeftigung
-description: "Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter im Sozialversicherungsstatus Pruefer."
+description: "Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter im Sozialversicherungsstatus Prüfer."
 ---
 
 # Hybride Beschäftigung und Selbständigkeit

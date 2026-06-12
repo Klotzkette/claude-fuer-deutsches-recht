@@ -57,7 +57,7 @@ description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfe
 Belegt über bundesgerichtshof.de und dejure.org:
 
 - **BGH, Beschl. v. 07.11.2024 – V ZB 6/24** — Anfechtungsklaeger hat Erkundigungsobliegenheit bei Zustellungsverzoegerung des Gerichts; im Regelfall innerhalb eines Jahres nach Ablauf der Monatsfrist § 45 Satz 1 WEG.
-- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz für Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+- **BGH, Urt. v. 14.02.2025 – V ZR 236/23** und **V ZR 128/23** — Beschlusskompetenz für Änderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG; erstmalige Belastung mit Kosten nur bei sachlichem Grund; Beschlusskompetenz erfasst auch Erhaltungsruecklage. PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG; Vorbefassung erfordert nur Beschlussantrag in der Versammlung, keine Pflicht zur Vorlage weiterer Informationen/Gutachten.
 - **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Klimaanlage als bauliche Veraenderung; Prüfung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand unmittelbarer Auswirkungen.
 
@@ -246,7 +246,7 @@ nichtig festzustellen.
 - GKG § 49
 - Verifizierte BGH-Rechtsprechung (Stand 05/2026):
  - BGH, Beschl. v. 07.11.2024 – V ZB 6/24 (Erkundigungsobliegenheit)
- - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Aenderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
+ - BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23 (Änderung Kostenverteilung): https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
  - BGH, Urt. v. 14.02.2025 – V ZR 86/24 (Beschlussersetzungsklage Vorbefassung)
  - BGH, Urt. v. 28.03.2025 – V ZR 105/24 (Klimaanlage / bauliche Veraenderung)
 - Weitere Rechtsprechung vor Verwendung live über dejure.org/openjur.de/bundesgerichtshof.de prüfen.

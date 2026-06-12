@@ -40,7 +40,7 @@ description: "Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnun
 - Bayern, Berlin, NRW, Hessen, Bremen, Hamburg etc. haben reagiert.
 - Konkrete Datum live verifizieren.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Besoldungsgruppe?
 2. Wie viele Kinder?

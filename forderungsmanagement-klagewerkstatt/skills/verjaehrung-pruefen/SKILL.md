@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-pruefen
-description: "Verjährung pruefen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB..."
+description: "Verjährung prüfen: Regelverjaehrung § 195 BGB drei Jahre, Beginn § 199 BGB Schluss des Jahres mit Kenntnis. Hoechstfristen § 199 Abs. 2-4 BGB (10/30 Jahre). Hemmung § 203 BGB (Verhandlungen), § 204 BGB (Rechtsverfolgung). Neubeginn § 212 BGB (Anerkenntnis, Vollstreckung). Sonderfristen § 196 BGB..."
 ---
 
 # Verjährung prüfen
@@ -25,7 +25,7 @@ Prüfung, ob eine Forderung noch durchsetzbar ist oder verjaehrt ist. Verjährun
 
 Regelverjaehrung beginnt mit **Schluss des Jahres**, in dem
 1. der Anspruch entstanden ist UND
-2. der Glaeubiger Kenntnis der anspruchsbegruendenden Umstaende und der Person des Schuldners hat oder ohne grobe Fahrlaessigkeit haette haben müssen.
+2. der Gläubiger Kenntnis der anspruchsbegruendenden Umstaende und der Person des Schuldners hat oder ohne grobe Fahrlaessigkeit haette haben müssen.
 
 **Hoechstfristen** (kenntnisunabhaengig):
 - § 199 Abs. 2 BGB: 30 Jahre bei Leben/Koerper/Gesundheit/Freiheit
@@ -63,7 +63,7 @@ Die Verjährung beginnt **erneut**, wenn
 
 **Achtung:** Anerkenntnis nach Verjährungseintritt fuehrt nicht zum Neubeginn, sondern allenfalls zum Verzicht auf die Einrede (§ 214 Abs. 2 BGB analog).
 
-## Pruefraster Schritt-für-Schritt
+## Prüfraster Schritt-für-Schritt
 
 1. **Anspruch bestimmen** (Kaufpreis, Werklohn, Schadensersatz, Bereicherung).
 2. **Frist ermitteln** (Tabelle oben).
@@ -74,7 +74,7 @@ Die Verjährung beginnt **erneut**, wenn
 
 ## Beispielrechnung
 
-Rechnung 15.04.2023, faellig sofort, Kenntnis bei Glaeubiger 15.04.2023.
+Rechnung 15.04.2023, faellig sofort, Kenntnis bei Gläubiger 15.04.2023.
 - Verjährungsbeginn: 31.12.2023
 - Regelverjaehrung 3 J: Ablauf 31.12.2026
 - Mahnbescheid am 15.10.2026 zugestellt → Hemmung

@@ -1,6 +1,6 @@
 ---
 name: grest-asset-deal-kaufvertrag
-description: "Grunderwerbsteuer beim Asset Deal pruefen: Grundstückskauf, Gegenleistung, Kaufpreisbestandteile, einheitlicher Erwerbsgegenstand, Bauerrichtung, Inventar, Umsatzsteueroption, Bundesland-Steuersatz, Notar- und Anzeigeablauf."
+description: "Grunderwerbsteuer beim Asset Deal prüfen: Grundstückskauf, Gegenleistung, Kaufpreisbestandteile, einheitlicher Erwerbsgegenstand, Bauerrichtung, Inventar, Umsatzsteueroption, Bundesland-Steuersatz, Notar- und Anzeigeablauf."
 ---
 
 # GrESt: Asset Deal und Kaufvertrag

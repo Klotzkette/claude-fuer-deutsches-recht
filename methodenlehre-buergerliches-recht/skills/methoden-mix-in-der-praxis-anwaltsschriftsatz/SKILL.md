@@ -50,7 +50,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 - Wenn der Wortlaut mehrdeutig ist und Nachbarnormen Klarheit bringen.
 - Bei Spezial- vs. Generalnorm.
 - Bei Verweisungen ("entsprechend gelten").
-- Bei Verhaeltnis BGB / HGB / Sondergesetze.
+- Bei Verhältnis BGB / HGB / Sondergesetze.
 
 **Historie traegt:**
 
@@ -129,7 +129,7 @@ Diese Skill ist keine eigenstaendige Theorie, sondern fasst die anderen Methoden
 
 **Wortlaut:** "Der Wortlaut der Norm spricht von '…'. Dieser Begriff ist im allgemeinen Sprachgebrauch …, im juristischen Fachsprachgebrauch …."
 
-**Systematik:** "Systematisch ist § … einzuordnen in Buch …, Abschnitt …, Titel …. Im Verhaeltnis zu § … …."
+**Systematik:** "Systematisch ist § … einzuordnen in Buch …, Abschnitt …, Titel …. Im Verhältnis zu § … …."
 
 **Historie:** "Aus den Materialien zur Reform … (BT-Drs. …) ergibt sich, dass der Gesetzgeber …."
 

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-toetung-auf-verlangen-216-stgb
-description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung d..."
+description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschäftsmäßige Förderung d..."
 ---
 
 # Toetung auf Verlangen nach § 216 StGB
@@ -18,7 +18,7 @@ description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
+**Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschäftsmäßige Förderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
 
 ### Toetung auf Verlangen § 216 StGB
 
@@ -26,7 +26,7 @@ description: "Toetung auf Verlangen nach § 216 StGB: Privilegierter Tatbestand 
 
 § 216 StGB ist die zentrale **Privilegierung** der vorsaetzlichen Toetung: Wenn der Taeter durch ein **ausdrueckliches und ernstliches Verlangen des Getoeteten** zur Toetung bestimmt worden ist, gilt ein Strafrahmen von sechs Monaten bis zu fuenf Jahren Freiheitsstrafe; in minder schweren Faellen sogar weniger.
 
-Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschaeftsmäßige Förderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 für nichtig erklaert; die Suizidassistenz ist seit 2020 grundsätzlich straflos. Eine Neuregelung steht bislang aus.
+Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der Mitleidstoetung. Die Abgrenzung zur straflosen **Beihilfe zum Suizid** ist die zentrale Auslegungsfrage. § 217 StGB (geschäftsmäßige Förderung der Selbsttoetung) wurde durch das BVerfG mit Urteil vom 26.02.2020 für nichtig erklaert; die Suizidassistenz ist seit 2020 grundsätzlich straflos. Eine Neuregelung steht bislang aus.
 
 ## Tatbestand und Auslegung
 
@@ -80,7 +80,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 - **§ 212 StGB:** Wird durch § 216 StGB verdraengt (Privilegierungswirkung).
 - **§ 211 StGB:** § 216 StGB schliesst § 211 StGB nach staendiger BGH-Rechtsprechung aus – die Toetung auf ernstliches Verlangen ist auch dann § 216 StGB, wenn objektiv ein Mordmerkmal vorliegen koennte.
-- **§ 217 StGB a.F.:** Geschaeftsmäßige Förderung der Selbsttoetung – durch BVerfG 26.02.2020 für nichtig erklaert; Neuregelung steht aus.
+- **§ 217 StGB a.F.:** Geschäftsmäßige Förderung der Selbsttoetung – durch BVerfG 26.02.2020 für nichtig erklaert; Neuregelung steht aus.
 - **Beihilfe zum Suizid (§§ 26, 27 StGB):** Mangels rechtswidriger Haupttat straflos (Akzessorietaet).
 - **§ 323c StGB:** Unterlassene Hilfeleistung – Achtung bei nicht eingreifenden Aerzten; staendige BGH-Rechtsprechung mit restriktiver Linie nach BVerfG-Urteil 2020.
 

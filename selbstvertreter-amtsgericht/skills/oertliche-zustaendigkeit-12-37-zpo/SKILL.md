@@ -56,7 +56,7 @@ Wenn nicht ausschließlich: Wohnsitz/Sitz des Beklagten ist Standard.
 
 **Erfuellungsort § 29 ZPO**: Ort, an dem die geschuldete Leistung zu erbringen war.
 
-- Geldschulden: Wohnsitz des Glaeubigers (= bei Schickschuld § 270 BGB — die genaue Anwendung ist streitig; im Zweifel BGH-Rechtsprechung prüfen).
+- Geldschulden: Wohnsitz des Gläubigers (= bei Schickschuld § 270 BGB — die genaue Anwendung ist streitig; im Zweifel BGH-Rechtsprechung prüfen).
 - Werkleistung: Ort der Werkerbringung.
 - Lieferung: Lieferort.
 
@@ -66,7 +66,7 @@ Wenn nicht ausschließlich: Wohnsitz/Sitz des Beklagten ist Standard.
 - Persoenlichkeitsverletzung: Ort der Verletzung oder Erscheinen.
 - Online-Delikte: Ort, an dem die Webseite abrufbar ist (mit BGH-Einschraenkungen).
 
-**Niederlassung § 21 ZPO**: Wenn der Beklagte (z. B. Unternehmen) eine Niederlassung hat und der Streit aus deren Geschaeften stammt.
+**Niederlassung § 21 ZPO**: Wenn der Beklagte (z. B. Unternehmen) eine Niederlassung hat und der Streit aus deren Geschäften stammt.
 
 **Verbraucher § 29c ZPO**: Bei Haustuergeschaeften am Wohnsitz des Verbrauchers. Skill `verbrauchergerichtsstand-29c-zpo`.
 

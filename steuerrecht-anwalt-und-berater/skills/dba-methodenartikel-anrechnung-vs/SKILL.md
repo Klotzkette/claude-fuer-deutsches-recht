@@ -1,6 +1,6 @@
 ---
 name: dba-methodenartikel-anrechnung-vs
-description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG für auslaendische Einkuenfte. Subject-to-T..."
+description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG für ausländische Einkuenfte. Subject-to-T..."
 ---
 
 # Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, § 34c EStG)
@@ -34,9 +34,9 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 - **Art. 23A OECD-MA** — Freistellungsmethode mit Progressionsvorbehalt.
 - **Art. 23B OECD-MA** — Anrechnungsmethode.
-- **§ 32b EStG** — Progressionsvorbehalt für freigestellte auslaendische Einkuenfte.
-- **§ 34c EStG** — Anrechnung auslaendischer Steuern, alternativ Abzug, Pauschalierung.
-- **§ 34d EStG** — Definition auslaendische Einkuenfte.
+- **§ 32b EStG** — Progressionsvorbehalt für freigestellte ausländische Einkuenfte.
+- **§ 34c EStG** — Anrechnung ausländischer Steuern, alternativ Abzug, Pauschalierung.
+- **§ 34d EStG** — Definition ausländische Einkuenfte.
 - **§ 50d Abs. 8 EStG** — Subject-to-Tax bei Arbeitseinkuenften.
 - **§ 50d Abs. 9 EStG** — generelle Subject-to-Tax-Klausel mit Wechsel zur Anrechnung.
 - **§ 50d Abs. 10 EStG** — Klarstellung Sondervergaben Personengesellschafter.
@@ -56,7 +56,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Freistellungsmethode mit Progressionsvorbehalt
 
-- Auslaendische Einkunft wird in Deutschland von der Steuerbemessungsgrundlage ausgenommen.
+- Ausländische Einkunft wird in Deutschland von der Steuerbemessungsgrundlage ausgenommen.
 - Aufgrund § 32b EStG erhoeht sie aber den durchschnittlichen Steuersatz auf das verbleibende inlaendische Einkommen.
 - Wirkt sich nur aus, wenn andere inlaendische Einkuenfte existieren.
 - Voraussetzung haeufig: Aktivitaetsklausel (echtes Geschäft im Ausland).
@@ -64,8 +64,8 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Anrechnungsmethode
 
-- Auslaendische Einkunft wird in das deutsche Welteinkommen einbezogen.
-- Auslaendische Steuer wird auf deutsche Steuer angerechnet.
+- Ausländische Einkunft wird in das deutsche Welteinkommen einbezogen.
+- Ausländische Steuer wird auf deutsche Steuer angerechnet.
 - Begrenzung durch **Per-Country-Limitation** § 34c Abs. 1 Satz 2 EStG.
 - Alternativ Abzug (§ 34c Abs. 2 EStG) bei Gestaltungsbedarf.
 - Pauschalierung § 34c Abs. 5 EStG nur bei bestimmten Konstellationen.
@@ -73,7 +73,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 ### Aktivitaetsklauseln
 
 - Viele aeltere DBA setzen für Freistellung Aktivitaeten voraus (z.B. produzierendes Gewerbe, Handel, Bank-/Versicherungsgeschaeft).
-- Reine Verwaltungstaetigkeiten (Holding, Vermoegensverwaltung) fallen in die Anrechnung.
+- Reine Verwaltungstaetigkeiten (Holding, Vermögensverwaltung) fallen in die Anrechnung.
 - Klauseltexte variieren stark — DBA-Text und Protokoll im Einzelfall konkret prüfen.
 
 ### Subject-to-Tax-Klauseln
@@ -111,8 +111,8 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 ### Phase 4 — Berechnung
 
 1. Bei Freistellung: Progressionsvorbehalt § 32b EStG berechnen (Hinzurechnung zur Bemessungsgrundlage, dann Durchschnittssteuersatz für inlaendisches Einkommen).
-2. Bei Anrechnung: Per-Country-Limitation prüfen — auslaendische Steuer nur bis zur deutschen Steuer auf diese Einkuenfte anrechenbar.
-3. Anlage AUS (private und betriebliche auslaendische Einkuenfte) bzw. N-AUS (Arbeitnehmer) ausfuellen.
+2. Bei Anrechnung: Per-Country-Limitation prüfen — ausländische Steuer nur bis zur deutschen Steuer auf diese Einkuenfte anrechenbar.
+3. Anlage AUS (private und betriebliche ausländische Einkuenfte) bzw. N-AUS (Arbeitnehmer) ausfuellen.
 
 ### Phase 5 — Dokumentation
 
@@ -130,7 +130,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
-- **Auslaendische Steuerbescheinigung vor Erklaerungsabgabe einsammeln**: ohne offiziellen Steuerbescheid des Quellenstaats wird die Anrechnung verweigert. Bei laenderlangen Bearbeitungszeiten (Italien, Spanien, Lateinamerika): Erklaerungsfrist § 109 AO verlaengern, bis Bescheid vorliegt.
+- **Ausländische Steuerbescheinigung vor Erklaerungsabgabe einsammeln**: ohne offiziellen Steuerbescheid des Quellenstaats wird die Anrechnung verweigert. Bei laenderlangen Bearbeitungszeiten (Italien, Spanien, Lateinamerika): Erklaerungsfrist § 109 AO verlaengern, bis Bescheid vorliegt.
 - **Umrechnungskurs Tag der Steuerentstehung**: Anlage AUS verlangt EZB-Referenzkurs am Tag der Steuerentstehung — Beleg aus dem EZB-Archiv mitliefern (statistical data warehouse, sdw.ecb.europa.eu).
 - **Anlage AUS und Anlage N-AUS NICHT verwechseln**: AUS für Kapitaleinkuenfte und gewerbliche/Betriebs-Auslandseinkuenfte; N-AUS für Lohneinkuenfte. Falsches Formular fuehrt zur Komplett-Ablehnung der Anrechnung im Erstprueflauf.
 - **Per-Country-Limitation getrennt pro Staat berechnen**: nicht aggregiert. Bei drei Quellenstaaten drei Berechnungen. FA gibt Bescheid sonst mit Nachfrageauftrag zurueck.
@@ -141,7 +141,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
 | Freistellung mit Progression vs. Anrechnung | Auslandseinkuenfte unter Progressionsvorbehalt, deutsche Steuer auf Inland | Auslandseinkuenfte ins Welteinkommen, dann Anrechnung | bei aktiven Auslandseinkuenften und hoher dortiger Besteuerung Freistellung; bei niedriger dortiger Besteuerung oft Anrechnung gleich oder besser |
-| Anrechnung § 34c Abs. 1 vs. Abzug § 34c Abs. 2 EStG | Anrechnung — direkte Verrechnung mit deutscher Steuer | Abzug — auslaendische Steuer als Betriebsausgabe/Werbungskosten | Abzug nur, wenn deutsche Steuer auf Auslandseinkuenfte 0 oder gering — sonst immer Anrechnung |
+| Anrechnung § 34c Abs. 1 vs. Abzug § 34c Abs. 2 EStG | Anrechnung — direkte Verrechnung mit deutscher Steuer | Abzug — ausländische Steuer als Betriebsausgabe/Werbungskosten | Abzug nur, wenn deutsche Steuer auf Auslandseinkuenfte 0 oder gering — sonst immer Anrechnung |
 | Pauschalierung § 34c Abs. 5 EStG vs. Einzelfallanrechnung | 25-Prozent-Pauschale auf bestimmte Auslandseinkuenfte | konkrete Anrechnung nach Bescheid | Pauschale nur in BMF-Liste; konkrete Anrechnung regelmaessig vorteilhaft |
 | § 50d Abs. 9 EStG akzeptieren vs. anfechten | Switch zu Anrechnung hinnehmen | Klage gegen Wechsel, Verstaendigungsverfahren | bei strittiger Qualifikationsfrage anfechten — BFH hat Subject-to-Tax-Klauseln mehrfach restriktiv ausgelegt (laufende Rspr. live prüfen) |
 | Per-Country-Limitation umgehen via Holding | Mehrere Quellenstaaten über EU-Holding buendeln | direkter Bezug, individuelle Per-Country-Limitation | bei reiner Optimierung scheitert Pfad A an § 50d Abs. 3 EStG-Substanzpruefung |
@@ -149,7 +149,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 ## Was Reviewer/Prüfer triggert
 
 - **Freistellung beantragt, obwohl DBA Anrechnung vorschreibt**: bei USA-DBA, Schweiz-DBA grundsaetzliche Anrechnungsmethode — Memo, das Freistellung argumentiert, faellt im Erstcheck.
-- **Aktivitaetsklausel ignoriert**: Holding/Vermoegensverwaltung als "Unternehmensgewinn" deklariert, ohne dass die Aktivitaetsklausel des DBA erfuellt ist — Freistellung wird verweigert, Switch zur Anrechnung.
+- **Aktivitaetsklausel ignoriert**: Holding/Vermögensverwaltung als "Unternehmensgewinn" deklariert, ohne dass die Aktivitaetsklausel des DBA erfuellt ist — Freistellung wird verweigert, Switch zur Anrechnung.
 - **§ 50d Abs. 8 EStG-Besteuerungsnachweis fehlt**: bei Arbeitnehmer-Freistellung Pflicht zur Nachweisvorlage; ohne Nachweis Rueckfall.
 - **§ 50d Abs. 9 EStG pauschal zitiert ohne Subsumtion**: welches Tatbestandsmerkmal (Nr. 1 Qualifikationskonflikt; Nr. 2 Subject-to-Tax)?
 - **Per-Country-Limitation aggregiert**: alle Auslandseinkuenfte zusammen gerechnet — falsche Methodik.
@@ -158,7 +158,7 @@ Nach DBA-Prüfung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ## Mustertabelle: Subsumtion Methodenwahl
 
-| Pruefpunkt | Norm | Befund | Folge |
+| Prüfpunkt | Norm | Befund | Folge |
 |---|---|---|---|
 | 1. DBA-Methode (DBA-Artikel 23A/B) | DBA-Text | [Freistellung/Anrechnung] | Grundregel |
 | 2. Aktivitaetsklausel | DBA-Protokoll | [erfuellt/nicht erfuellt] | wenn nicht erfuellt: Anrechnung statt Freistellung |
@@ -175,9 +175,9 @@ Sachverhalt: Mandant in DE (unbeschraenkt steuerpflichtig), bezieht aus Land X (
 
 | Position | Betrag |
 |---|---|
-| Auslaendische Dividenden brutto | 100.000 EUR |
+| Ausländische Dividenden brutto | 100.000 EUR |
 | Quellensteuer Land X (15 Prozent) | 15.000 EUR |
-| Auslaendische Dividenden netto | 85.000 EUR |
+| Ausländische Dividenden netto | 85.000 EUR |
 | Weiteres deutsches Einkommen | 80.000 EUR |
 | Welteinkommen DE | 180.000 EUR |
 | Deutsche Tarifsteuer auf 180.000 (Annahme 30 Prozent Durchschnitt) | 54.000 EUR |
@@ -195,7 +195,7 @@ Bei Land Y mit Freistellungsmethode:
 
 | Position | Betrag |
 |---|---|
-| Auslaendische Einkuenfte (freigestellt) | 100.000 EUR |
+| Ausländische Einkuenfte (freigestellt) | 100.000 EUR |
 | Weiteres deutsches Einkommen | 80.000 EUR |
 | Bemessungsgrundlage DE | 80.000 EUR |
 | Welteinkommen für Progressionsvorbehalt | 180.000 EUR |

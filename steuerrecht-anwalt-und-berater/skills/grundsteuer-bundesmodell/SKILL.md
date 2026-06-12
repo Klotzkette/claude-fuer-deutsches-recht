@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-bundesmodell
-description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder feh..."
+description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Ländermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar übersetztem Bodenrichtwert oder feh..."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle
@@ -26,7 +26,7 @@ description: "Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem refor
 - **§§ 218 ff. BewG** — Bewertungsverfahren.
 - **§§ 13 ff. GrStG** — Steuermessbetrag.
 - **§§ 25 ff. GrStG** — Hebesatz.
-- **Art. 3 GG** — Gleichheitsgrundsatz; Massstab BVerfG.
+- **Art. 3 GG** — Gleichheitsgrundsatz; Maßstab BVerfG.
 
 ## Aktuelle Rechtsprechung
 

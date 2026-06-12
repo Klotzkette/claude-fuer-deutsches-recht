@@ -1,9 +1,9 @@
 ---
 name: onboarding-korrekturnormen
-description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder..."
+description: "Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Änderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Änderungstatbestand oder..."
 ---
 
-# Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick
+# Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Überblick
 
 ## Fachlicher Anker
 
@@ -15,8 +15,8 @@ description: "Systematischer Vergleich der Korrekturnormen — wann ist welche V
 
 1. Liegt eine offenbare Unrichtigkeit vor — Schreib- oder Rechenfehler § 129 AO?
 2. Steht der Bescheid unter Vorbehalt § 164 AO oder ist er vorlaeufig § 165 AO?
-3. Soll eine schlichte Aenderung § 172 Abs. 1 Nr. 2a AO innerhalb der Einspruchsfrist gestellt werden?
-4. Sind neue Tatsachen oder Beweismittel iSd § 173 AO entstanden — und wessen Verschulden steht der Aenderung entgegen?
+3. Soll eine schlichte Änderung § 172 Abs. 1 Nr. 2a AO innerhalb der Einspruchsfrist gestellt werden?
+4. Sind neue Tatsachen oder Beweismittel iSd § 173 AO entstanden — und wessen Verschulden steht der Änderung entgegen?
 5. Liegt eine widerstreitende Festsetzung § 174 AO oder ein Grundlagenbescheid § 175 AO vor?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -25,11 +25,11 @@ description: "Systematischer Vergleich der Korrekturnormen — wann ist welche V
 - **§ 129 AO** — offenbare Unrichtigkeit.
 - **§ 164 AO** — Vorbehalt der Nachpruefung.
 - **§ 165 AO** — vorläufige Festsetzung.
-- **§ 172 AO** — Aenderung von Steuerbescheiden allgemein.
+- **§ 172 AO** — Änderung von Steuerbescheiden allgemein.
 - **§ 173 AO** — neue Tatsachen und Beweismittel.
 - **§ 173a AO** — Schreib- und Rechenfehler bei Erklaerung.
 - **§ 174 AO** — widerstreitende Steuerfestsetzungen.
-- **§ 175 AO** — Aenderung wegen Grundlagenbescheid oder rueckwirkendem Ereignis.
+- **§ 175 AO** — Änderung wegen Grundlagenbescheid oder rueckwirkendem Ereignis.
 
 ## Aktuelle Rechtsprechung
 

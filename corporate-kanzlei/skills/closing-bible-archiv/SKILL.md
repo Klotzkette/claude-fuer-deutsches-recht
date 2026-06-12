@@ -49,7 +49,7 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
 10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
 
-## Pruefraster im Gutachtenstil
+## Prüfraster im Gutachtenstil
 **Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
 
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
@@ -114,7 +114,7 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Zentrale Normen & Anforderungen
 
 - **§ 199 BGB** — Verjährungsbeginn 31.12.; bei Warranty-Verletzung oft 18-24 Monate ab Closing oder Kenntnis
-- **§§ 257 f. HGB** — Aufbewahrungspflicht Handelsbuecher 10 Jahre; Geschaeftsbriefe 6 Jahre
+- **§§ 257 f. HGB** — Aufbewahrungspflicht Handelsbuecher 10 Jahre; Geschäftsbriefe 6 Jahre
 - **§ 147 AO** — steuerliche Aufbewahrungspflicht bis zu 10 Jahre
 - **§ 15 IV GmbHG** — notariell beurkundete Anteilsuebertragung; Original beim Notar; Ausfertigung an Kanzlei
 - **GoB / GoBD** — ordnungsgemaesse Buchfuehrung; elektronische Archivierung muss unveraenderbar sein (revisionssichere Aufbewahrung)

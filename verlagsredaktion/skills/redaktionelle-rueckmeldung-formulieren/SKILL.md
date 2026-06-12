@@ -19,16 +19,16 @@ Eine Rueckmeldung an eine Autorin entscheidet über die naechste Manuskriptquali
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klären Sie:
+Sie brauchen ihn immer dann, wenn Sie nach Prüfungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klären Sie:
 
-1. Verhaeltnis zur Autorin (langjaehrig, neu, schwierig)?
+1. Verhältnis zur Autorin (langjaehrig, neu, schwierig)?
 2. Frist für die Ueberarbeitung?
 3. Anzahl der Befunde (10? 50? 100?)?
 4. Welche Befunde sind Stops, welche Wuensche?
 
 ## Material- bzw. Sachrahmen
 
-- Befundtabellen aus den vorgelagerten Pruefungen.
+- Befundtabellen aus den vorgelagerten Prüfungen.
 - Manuskript-Versionsstand.
 - Heftplanung mit Endabgabefrist.
 
@@ -54,7 +54,7 @@ Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil,
 |------|---------------------------------------|----------------------------------------|------------|
 | Übersicht | hoch | mittel | A bei vielen Befunden |
 | Lesbarkeit Mail | hoch | gering | A im Regelfall |
-| Aufwand | mittel | gering | A bei substanziellen Pruefungen |
+| Aufwand | mittel | gering | A bei substanziellen Prüfungen |
 
 ## Praxistipps der alten Redaktion
 

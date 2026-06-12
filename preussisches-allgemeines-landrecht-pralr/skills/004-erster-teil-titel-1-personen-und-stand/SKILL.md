@@ -43,7 +43,7 @@ description: "PrALR: Erster Teil Titel 1 Personen und Stand: prüft konkret die 
 ## Konkreter ALR-Stoff: Erster Teil Titel 1 - Von Personen
 
 ### Aufbau
-ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschaeftsfaehigkeit, Anfang und Ende der Person, Stand und Verwandtschaft.
+ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschäftsfaehigkeit, Anfang und Ende der Person, Stand und Verwandtschaft.
 
 ### Wichtige Paragraphen
 - **ALR I 1 § 1** "Der Mensch wird, in so fern er gewisse Rechte in der buergerlichen Gesellschaft geniesst, eine Person genannt."
@@ -61,7 +61,7 @@ ALR I 1 normiert die natuerliche und juristische Person, Rechts- und Geschaeftsf
 - Streit um die "Adelsfuehrung" der ehemaligen Mediatisierten — bis in BVerfG-Entscheidungen zur Namensfuehrung (Az im Digitalisat verifizieren).
 - ALR-Personenrecht als Vorbild für ABGB (1811) und BGB (1900).
 
-### Pruefraster
+### Prüfraster
 1. Geht es um eine standesrechtliche Frage des historischen ALR oder um heutige Namensrechtsfragen? Trennung scharf.
 2. Wenn lebende Rechtsfrage: weiter zu BGB / NamensG, ALR nur als rechtsgeschichtlicher Hintergrund.
 3. Bei Adelsstreit immer Trennung Reichsadel / Briefadel / Mediatisiertenadel und Bezug zur WRV / GG-Lage.

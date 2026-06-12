@@ -19,7 +19,7 @@ description: "Entlassmanagement nach § 39 Abs. 1a SGB V: Rahmenvertrag Entlassm
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
-Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis für Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Uebergabe an Vertragsarzt.
+Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussversorgung sichern — § 39 Abs. 1a SGB V. Kernelemente: schriftliche Patienteneinwilligung, Entlassmanagementplan, befristete Verordnungsbefugnis für Arzneimittel, Heil-/Hilfsmittel, Soziotherapie, AU-Bescheinigung; Übergabe an Vertragsarzt.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 - Liegt schriftliche Patienteneinwilligung vor (Modul der Aufnahme oder gesondert)?
@@ -32,7 +32,7 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 - **SGB V § 39 Abs. 1a** Entlassmanagement, Verordnungsbefugnis Krankenhaus.
 - **Rahmenvertrag Entlassmanagement** zwischen GKV-SV, KBV, DKG.
 - **SGB V §§ 73, 73a** Hausaerztliche Versorgung und Schnittstelle.
-- **SGB V § 87** Bewertungsmassstab, ggf. Vergütung Entlassgespraech.
+- **SGB V § 87** Bewertungsmaßstab, ggf. Vergütung Entlassgespraech.
 - **SGB XI** Pflegeueberleitung.
 - **PatientenrechteG / BGB §§ 630a ff.** Behandlungsvertrag, Aufklaerung.
 
@@ -41,7 +41,7 @@ Das Krankenhaus muss Patienten geordnet entlassen und die naehtlose Anschlussver
 2. **Bedarfsabschaetzung:** Pflegeeinstufung, Reha-Bedarf, Soziotherapie, Hilfsmittel, Heilmittel, Arzneimittel.
 3. **Entlassplan erstellen:** Konkrete Maßnahmen, Ansprechpartner, Termine.
 4. **Verordnungen ausstellen:** Befristet (max. 7 Tage) Arzneimittel, Heil-/Hilfsmittel, AU; mit Verordnungsausweis.
-5. **Uebergabe an Vertragsarzt/Pflegedienst:** Schriftlich, mit Kurzarztbrief, Medikationsplan, Begleitdokumenten.
+5. **Übergabe an Vertragsarzt/Pflegedienst:** Schriftlich, mit Kurzarztbrief, Medikationsplan, Begleitdokumenten.
 6. **Dokumentation:** Einwilligung, Entlassgespraech, Plan, Verordnungen — Aufbewahrung mind. 10 Jahre.
 
 ## Trade-off-Matrix

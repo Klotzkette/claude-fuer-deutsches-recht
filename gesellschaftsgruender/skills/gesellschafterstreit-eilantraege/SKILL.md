@@ -149,7 +149,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Eilantrag im Gesellschafterstreit beantragen | Einstweilige Verfuegung nach Pruefschema; Template unten |
+| Standard — Eilantrag im Gesellschafterstreit beantragen | Einstweilige Verfuegung nach Prüfschema; Template unten |
 | Variante A — Gesellschafterstreit durch Mediator loesbar | Mediation oder Schiedsverfahren zuerst; Eilantrag nur bei Dringlichkeit |
 | Variante B — Mehrheitsbeschluss wirksam aber schadlich | Anfechtungsklage statt Eilantrag; Eilantrag nur bei unmittelbarem Schaden |
 | Variante C — GmbH droht Insolvenz durch Streit | Insolvenzrecht prüfen; parallele Handlungsoptionen koordinieren |
@@ -339,7 +339,7 @@ Beweismittel:
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
 Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.

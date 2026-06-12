@@ -17,11 +17,11 @@ description: "Hilft bei Familienrecht Warnwoerter für Menschen mit Deutsch als 
 - **Scheidungsantrag**: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (§ 1565 BGB), Ausnahme Haertescheidung (§ 1565 Abs. 2 BGB).
 - **Trennungsjahr**: § 1567 BGB; nicht "Probetrennung" mit Versoehnung verwechseln, sonst beginnt das Trennungsjahr von vorn.
 - **Versorgungsausgleich**: § 1587 BGB; bei kurzer Ehe (< 3 Jahre) nicht automatisch.
-- **Zugewinnausgleich**: § 1378 BGB; Vermoegensbilanz Anfang/Ende der Ehe; Auskunftspflicht § 1379 BGB.
+- **Zugewinnausgleich**: § 1378 BGB; Vermögensbilanz Anfang/Ende der Ehe; Auskunftspflicht § 1379 BGB.
 - **Sorgeerklaerung** (§ 1626a BGB) bei nichtehelich Geborenen: Achtung -- Sorgerecht teilen, unwiderruflich.
 - **Verzicht auf Trennungsunterhalt / nachehelichen Unterhalt**: oft im Ehevertrag; nicht unterschreiben ohne Beratung.
 - **Anerkenntnis Vaterschaft** (§ 1594 BGB): in der Folge Unterhaltspflicht.
-- **Aufhebungsantrag Ehe** (§ 1313 BGB): seltener Spezialfall (Doppelehe, Geschaeftsunfaehigkeit).
+- **Aufhebungsantrag Ehe** (§ 1313 BGB): seltener Spezialfall (Doppelehe, Geschäftsunfaehigkeit).
 - **Sorgerechtsentzug / Aufenthaltsbestimmungsrecht**: ernste Folge für Eltern; Anhörung Jugendamt und Kind (§ 159 FamFG).
 - **Anhörung beim Familiengericht**: oft entscheidungserheblich, Vorbereitung mit Anwalt sinnvoll.
 - **"Einvernehmliche Scheidung"**: bedeutet nicht: ohne Anwalt; Antragsteller braucht Anwalt (§ 114 FamFG).
@@ -36,7 +36,7 @@ description: "Hilft bei Familienrecht Warnwoerter für Menschen mit Deutsch als 
 - Welches Dokument oder welche Situation liegt vor?
 - Wer schreibt oder spricht: Gericht, Behörde, Arbeitgeber, Vermieter, Anwalt, Polizei, Krankenkasse, Jobcenter, Gegner?
 - Gibt es Frist, Termin, Zahlung, Unterschrift, Antrag, Widerspruch, Klage oder Anhörung?
-- Soll die Antwort einfach erklaeren, formal formulieren, uebersetzen, kontrollieren oder auf Risiken hinweisen?
+- Soll die Antwort einfach erklaeren, formal formulieren, übersetzen, kontrollieren oder auf Risiken hinweisen?
 
 ## Ausgabe
 

@@ -1,13 +1,13 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster..."
+description: "Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster..."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren
 
 ## Arbeitsbereich
 
-Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bußgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Prüfraster Auskunftsersuchen Vor-Ort-Prüfung BaFin-Nachfragen FIU-Anfragen Maßnahmenbescheid Widerspruchsfrist. Output Behördenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegründung und Remediation-Nachweis. Abgrenzung zu geldwäsche-audit-internal-revision und geldwäsche-bußgeld-reputation. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,7 +19,7 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmen
 
 ## Triage zu Beginn
 1. Welche Behörde hat sich gemeldet: BaFin, FIU, Staatsanwaltschaft, Landesaufsicht oder Zoll?
-2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Prüfung, Massnahmenbescheid oder Strafverfahren?
+2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Prüfung, Maßnahmenbescheid oder Strafverfahren?
 3. Gibt es bereits gesetzte Fristen und welches ist die naechste Handlungsfrist?
 4. Welche internen Dokumente müssen für die Behördenantwort gesichert werden?
 
@@ -30,7 +30,7 @@ Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Massnahmen
 - § 51 GwG — Maßnahmen der Aufsichtsbehoerden (BaFin und Länderbehoerden)
 - § 44 GwG — Kooperationspflicht mit FIU; Auskunftspflichten
 - § 56 GwG — Bußgeldtatbestaende
-- §§ 68, 69 VwGO — Widerspruchsverfahren und Anfechtungsklage bei Massnahmenbescheiden
+- §§ 68, 69 VwGO — Widerspruchsverfahren und Anfechtungsklage bei Maßnahmenbescheiden
 
 ## Wann verwenden
 

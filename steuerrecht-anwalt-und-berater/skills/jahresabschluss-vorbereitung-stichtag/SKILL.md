@@ -13,15 +13,15 @@ description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematisch
 
 ## Kernsachverhalt
 
-Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag und eine geordnete Abwicklung in den ersten vier Monaten danach. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel und Mandantenfragebogen müssen aufeinander abgestimmt sein. Die folgende Standardroutine setzt den Bilanzstichtag (i.d.R. 31.12.) als Anker; die Phasen können bei abweichendem Geschaeftsjahr entsprechend verschoben werden.
+Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag und eine geordnete Abwicklung in den ersten vier Monaten danach. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel und Mandantenfragebogen müssen aufeinander abgestimmt sein. Die folgende Standardroutine setzt den Bilanzstichtag (i.d.R. 31.12.) als Anker; die Phasen können bei abweichendem Geschäftsjahr entsprechend verschoben werden.
 
 ## Kaltstart-Rueckfragen
 
 1. Welcher Bilanzstichtag?
 2. Welche Rechtsform und Groessenklasse?
-3. Liegt Pruefungspflicht vor (§ 316 HGB)?
+3. Liegt Prüfungspflicht vor (§ 316 HGB)?
 4. Welche besonderen Vorgaenge im Jahr (Anlagenkauf/-verkauf, Gesellschafterwechsel, Kapitalmassnahmen, Umstrukturierung)?
-5. Welche Sondersachverhalte mit Erlaeuterungsbedarf (vGA, schwebende Geschaefte, Werterhellung)?
+5. Welche Sondersachverhalte mit Erläuterungsbedarf (vGA, schwebende Geschäfte, Werterhellung)?
 6. Welche externen Fristen (Offenlegung Unternehmensregister 12 Monate, Steuererklaerungen, Bankreporting)?
 7. Welche Mandantenkommunikations-Routine?
 8. Welche StBVV-Honorarvereinbarung?
@@ -36,7 +36,7 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 
 **§ 325 HGB** — Veroeffentlichung Bundesanzeiger 12 Monate.
 
-**§ 316 HGB** — Pruefungspflicht groessere Kapitalgesellschaften.
+**§ 316 HGB** — Prüfungspflicht groessere Kapitalgesellschaften.
 
 **§ 240 HGB** — Inventarpflicht.
 
@@ -50,13 +50,13 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 
 - Mandantenfragebogen (siehe `stb-mandantenfragebogen-jahresabschluss`) versenden mit Rueckfrist 4 Wochen.
 - Inventur-Termin und -Anweisung mit Mandant schriftlich abstimmen (insbesondere bei Stichtagsinventur am 31.12.).
-- Bei Pruefungspflicht (§ 316 HGB): Vor-Prüfungs-Vorbereitung mit dem Wirtschaftspruefer; Pruefungsplanung abstimmen.
+- Bei Prüfungspflicht (§ 316 HGB): Vor-Prüfungs-Vorbereitung mit dem Wirtschaftspruefer; Prüfungsplanung abstimmen.
 - Hinweis an Mandant zu Investitionen, IAB § 7g EStG, Sonder-AfA-Optionen vor Stichtag.
 
 ### Phase 2 — Stichtag und Inventur (Bilanzstichtag)
 
 - Inventur vor Ort begleiten oder Beobachterrolle bei groesseren Mandanten; bei kleineren Mandanten Stichprobenbegleitung.
-- Inventurprotokolle aufnehmen (Mengen, Bewertungshinweise, Pruefdatum, Bearbeiter).
+- Inventurprotokolle aufnehmen (Mengen, Bewertungshinweise, Prüfdatum, Bearbeiter).
 - Bestandsabweichungen unmittelbar klären (Cut-off-Listen Lieferungen / Wareneingang).
 
 ### Phase 3 — 1. Quartal nach Stichtag (Wochen 1-4): Bestandskonten abstimmen
@@ -87,7 +87,7 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 ## Strategie und Praxis-Tipps
 
 - 8-12 Wochen Vorlauf sind Standard.
-- Bei Pruefungspflicht: zusaetzliche 4-6 Wochen für WP.
+- Bei Prüfungspflicht: zusaetzliche 4-6 Wochen für WP.
 - Inventur-Beobachtung beim Mandanten ist wertvoll für Bewertung.
 - Mandantenfragebogen ist Effizienz-Hebel.
 - StBVV § 35: Honorar nach Gegenstandswert; ggf. Pauschal mit Mandant.

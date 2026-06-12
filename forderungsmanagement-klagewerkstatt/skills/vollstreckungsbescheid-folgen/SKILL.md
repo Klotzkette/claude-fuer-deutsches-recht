@@ -15,7 +15,7 @@ Der Vollstreckungsbescheid (VB) ist das Endprodukt des gerichtlichen Mahnverfahr
 | Kein Widerspruch | innerhalb 2 Wochen nach Zustellung (§ 692 Abs. 1 Nr. 3 ZPO) |
 | Antrag | beim Mahngericht, formgebunden |
 | Antragsfrist | binnen 6 Monaten nach Mahnbescheid-Zustellung (§ 701 ZPO) |
-| Anschluss-Kosten | Glaeubiger zahlt zusaetzliche Gerichtsgebuehr 0,5 |
+| Anschluss-Kosten | Gläubiger zahlt zusaetzliche Gerichtsgebuehr 0,5 |
 
 **Ablauf der 6-Monats-Frist:** Mahnbescheid verliert Wirkung; neuer Mahnbescheid möglich (mit erneuter Verjährungshemmung § 204 BGB).
 
@@ -34,7 +34,7 @@ Der Vollstreckungsbescheid (VB) ist das Endprodukt des gerichtlichen Mahnverfahr
 | Aspekt | Inhalt |
 |---|---|
 | Frist | 2 Wochen ab Zustellung VB |
-| Form | schriftlich oder zu Protokoll Geschaeftsstelle |
+| Form | schriftlich oder zu Protokoll Geschäftsstelle |
 | Inhalt | Bezeichnung VB, Erklaerung Einspruch, **keine Begruendung erforderlich** |
 | Folge | Verfahren wird wie nach Widerspruch ans Prozessgericht abgegeben |
 | Saeumnis Anspruchsbegruendung | Saeumnisurteil § 697 ZPO |
@@ -49,7 +49,7 @@ Verspaeteter Einspruch → unzulaessig (§ 700 Abs. 2 ZPO).
 | Forderungspfaendung (Konto, Lohn) | §§ 828 ff. ZPO |
 | Immobiliarvollstreckung Zwangshypothek | § 866 ZPO |
 | Zwangsversteigerung Immobilie | ZVG |
-| Abgabe Vermoegensauskunft | § 802c ZPO |
+| Abgabe Vermögensauskunft | § 802c ZPO |
 | Eintragung Schuldnerverzeichnis | § 882b ZPO |
 
 **Vollstreckungsklausel** erforderlich (§ 724 ZPO): Antrag beim Mahngericht, einfache oder qualifizierte Klausel.
@@ -69,7 +69,7 @@ Vor Erlass: nochmalige Belehrung (§ 692 Abs. 1 Nr. 5 ZPO bei MB, gilt fort).
 ## Strategische Hinweise
 
 - Antrag VB **nicht** zu spaet stellen – sonst neue Hemmung erforderlich.
-- VB sofort vollstrecken (insbesondere Konto-/Lohnpfaendung), Vermoegensauskunft beantragen.
+- VB sofort vollstrecken (insbesondere Konto-/Lohnpfaendung), Vermögensauskunft beantragen.
 - Bei verspaetetem Einspruch: VB wirksam.
 - VB ist **keine Sachentscheidung** – bei spaeterem Streit über Anspruch nur Vollstreckungsabwehrklage § 767 ZPO.
 
@@ -88,10 +88,10 @@ Schuldner kann Einwendungen geltend machen, die **nach Schluss der muendlichen V
 
 ## Schuldnerverzeichnis Eintrag § 882b ZPO
 
-Bei erfolgloser Vermoegensauskunft Eintrag im zentralen Schuldnerverzeichnis (online bei [vollstreckungsportal.de](https://www.vollstreckungsportal.de)):
+Bei erfolgloser Vermögensauskunft Eintrag im zentralen Schuldnerverzeichnis (online bei [vollstreckungsportal.de](https://www.vollstreckungsportal.de)):
 - 3 Jahre Aufbewahrung.
 - Bonitaetsrelevant.
-- Vermerk für Glaeubiger einsehbar.
+- Vermerk für Gläubiger einsehbar.
 
 ## Typische Fehler
 

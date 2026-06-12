@@ -7,7 +7,7 @@ description: "Querschnittsprüfung Verfassungsmäßigkeit eines Gesetzesentwurfs
 
 > Nicht jeder Entwurf ist verfassungsgemäß, weil er gut gemeint ist.
 
-## Pruefstation 1 - Welche Grundrechte sind betroffen?
+## Prüfstation 1 - Welche Grundrechte sind betroffen?
 
 Prüfen pro Adressat:
 
@@ -26,7 +26,7 @@ Prüfen pro Adressat:
 - Art. 16 GG Auslieferung
 - Art. 17 GG Petitionsrecht
 
-## Pruefstation 2 - Prüfraster pro Grundrecht
+## Prüfstation 2 - Prüfraster pro Grundrecht
 
 1. Schutzbereich (persönlich und sachlich)
 2. Eingriff
@@ -38,42 +38,42 @@ Prüfen pro Adressat:
  - erforderlich (mildestes Mittel)
  - angemessen
 
-## Pruefstation 3 - Art. 3 GG Gleichbehandlung
+## Prüfstation 3 - Art. 3 GG Gleichbehandlung
 
 Bei Ungleichbehandlung: ist sie sachlich gerechtfertigt? Wenn personenbezogen: strenge Prüfung (neue Formel BVerfG E 88 / 87).
 
-## Pruefstation 4 - Art. 12 GG Berufsfreiheit
+## Prüfstation 4 - Art. 12 GG Berufsfreiheit
 
 Drei-Stufen-Theorie (BVerfGE 7 / 377 Apotheker):
 - Berufsausübung: leichter zu rechtfertigen
 - Subjektive Zulassung: sachliche Gründe, Verhältnismaessigkeit
 - Objektive Zulassung: überwiegende Interessen der Allgemeinheit
 
-## Pruefstation 5 - Art. 14 GG Eigentum
+## Prüfstation 5 - Art. 14 GG Eigentum
 
 - Inhalts- und Schrankenbestimmung (regelmäßiger Eingriff)
 - Enteignung (zugriff auf Eigentum gegen Entschädigung)
 - ausgleichspflichtige Inhaltsbestimmung (BVerfG)
 
-## Pruefstation 6 - Art. 20 Abs. 3 GG Rechtsstaat
+## Prüfstation 6 - Art. 20 Abs. 3 GG Rechtsstaat
 
 - Vorrang des Gesetzes
 - Vorbehalt des Gesetzes
 - Bestimmtheitsgebot (besonders streng bei Eingriffsverwaltung)
 
-## Pruefstation 7 - Art. 103 Abs. 2 GG bei Strafnormen
+## Prüfstation 7 - Art. 103 Abs. 2 GG bei Strafnormen
 
 Bestimmtheitsgebot bei Strafnormen. Der Bürger muss erkennen, was strafbar ist.
 
-## Pruefstation 8 - Wesentlichkeitstheorie
+## Prüfstation 8 - Wesentlichkeitstheorie
 
 Wesentliche Entscheidungen muss der Gesetzgeber selbst treffen, nicht der Verordnungsgeber.
 
-## Pruefstation 9 - Art. 28 Abs. 2 GG Selbstverwaltungsgarantie
+## Prüfstation 9 - Art. 28 Abs. 2 GG Selbstverwaltungsgarantie
 
 Wenn der Entwurf in kommunale Angelegenheiten eingreift: Eingriff in Selbstverwaltungsgarantie? Erforderlich? Verhältnismaessig?
 
-## Pruefstation 10 - Demokratieprinzip Art. 20 Abs. 2 GG
+## Prüfstation 10 - Demokratieprinzip Art. 20 Abs. 2 GG
 
 Bei dynamischen Verweisungen auf EU-Recht oder andere externe Stellen: ist die demokratische Legitimation gewahrt?
 

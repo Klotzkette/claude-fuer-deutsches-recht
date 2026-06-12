@@ -41,7 +41,7 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 - DIN EN 1997-1 EC7 und DIN 4084:2009-01: Standsicherheitsnachweis Deich Gelaeande- und Boeeschungsbruch
 - WHG §§ 67-76 und laendliche Wassergesetze: Planfeststellung, Betriebsvorschriften Hochwasserschutzanlage
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Proctordichte-Kontrolle: Verdichtungsgrad D groesser 95 Prozent Proctor-Normal, mindestens 1 Prüfung je 1.000 m3, GPS-Entnahmestelle protokolliert
 2. Setzungsmessung: Setzungsmarken je 200 m Deichachse, Nivellement nach jeder Schuettlage, Restsetzung kleiner 3 cm/Monat vor Abnahme
@@ -54,14 +54,14 @@ Deichbauvorhaben verbinden Wasserbau, Geotechnik und Tiefbau unter dem besondere
 
 - Drohnenbefliegung DJI Matrice 300 RTK nach jeder Schuettlage: Laengsschnitt-Hoehenprofil 3D-Modell, Volumenberechnung Schuettmasse, 2 cm/px
 - Zeitraffervideo Deichschuettung: Kamera auf Stativ 5-Minuten-Intervall, Schuettsequenz und Verdichtungsmaschinen dokumentiert
-- Bodenprobenahme-Protokoll: Foto je Entnahme, DIN 18196 Bodenansprache, GPS, Tiefe, Labor-ID, Kettennachweis Probe zu Pruefergebnis
+- Bodenprobenahme-Protokoll: Foto je Entnahme, DIN 18196 Bodenansprache, GPS, Tiefe, Labor-ID, Kettennachweis Probe zu Prüfergebnis
 - Lieferscheine Steinschuettung: Guetezeugnis DIN EN 13383, Kornverteilung Siebanalyse, Frostbestaendigkeit LA-Koeffizient
 - Piezometer-Datenlogger Levelogger 5 Solinst: Druckhoehenkurven je Hochwasserereignis, Vergleich mit Berechnungsmodell
 
 ## Meldungserstellung im ERP / SAP
 
 - SAP PM Meldungsart M2 bei Qualmwasseraustritt: Equipment-Nr Deichabschnitt z.B. D-ELBE-KM123.4, Schadenscode D010 Qualmwasser, Sofortmassnahme Sandsackverbau
-- SAP PS Projekt DH-XXX: BODEN-010 Erdaushub, SCHUETT-020 Dammschuettung, VERDICHT-030 Pruefungen, DECKWERK-040 Steinschuettung, ABNAHME-050
+- SAP PS Projekt DH-XXX: BODEN-010 Erdaushub, SCHUETT-020 Dammschuettung, VERDICHT-030 Prüfungen, DECKWERK-040 Steinschuettung, ABNAHME-050
 - PlanRadar Deich-km als horizontale Achse: Mangel-Pin nach km und Seite Wasser/Land, Filter nach Gewerk und Status
 - Wasserbehoerden-Monatsbericht: Verdichtungsprotokolle-Zusammenfassung, Setzungsdiagramme, Abweichungsliste, Freigabe Planfeststellungsbehoerde
 - Workflow: Qualmwasser gemeldet, sofortige Begehung mit Geotechniker, Sanierungskonzept, Ausfuehrung, Prüfung, Meldung Wasserbehoerde

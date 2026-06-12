@@ -1,6 +1,6 @@
 ---
 name: infringement-remedies-501-505
-description: "Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure im Us Copyright Registrierung Verlag."
+description: "Prüft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure im Us Copyright Registrierung Verlag."
 ---
 
 # Infringement und Remedies §§ 501-505

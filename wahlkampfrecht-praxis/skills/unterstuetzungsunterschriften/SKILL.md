@@ -1,6 +1,6 @@
 ---
 name: unterstuetzungsunterschriften
-description: "Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften prüfen im Wahlkampfrecht."
 ---
 
 # Unterstuetzungsunterschriften

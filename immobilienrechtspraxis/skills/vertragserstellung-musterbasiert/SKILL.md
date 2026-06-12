@@ -61,7 +61,7 @@ und gibt das Dokument unverändert zurück mit Hinweis.
  welche Konflikte
 7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
-## Typische manuelle Pruefpunkte bei Immobilienverträgen
+## Typische manuelle Prüfpunkte bei Immobilienverträgen
 
 - Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
 - Genehmigung nach § 1365 BGB bei Verfügung über das Vermögen im Ganzen

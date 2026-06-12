@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-im-starug-plan
-description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung...."
+description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Gläubiger im StaRUG-Kontext belegen. Antragsmechanik für den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung...."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan
@@ -25,7 +25,7 @@ description: "Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 
 
 Das Unternehmensstabilisierungs- und -restrukturierungsgesetz (StaRUG) ermoeglicht seit 2021 die vorinsolvenzliche Restrukturierung mit Mehrheitszwang. Auch im StaRUG-Plan kommt es regelmaessig zu Forderungsverzichten — und damit zu Sanierungsertraegen. Paragraph 3a EStG ist hier ebenso anwendbar wie im Insolvenzplan, weil das Gesetz nicht von einem Insolvenzverfahren abhaengt, sondern von der **unternehmensbezogenen Sanierung**.
 
-Dieser Skill arbeitet die Besonderheiten der StaRUG-Variante heraus: keine Masseverwaltung, kein gerichtlich bestellter Verwalter, statt dessen Restrukturierungsbeauftragter und ggf. Sanierungsmoderator; engere zeitliche Fenster; schwierigere Dokumentation der Sanierungsabsicht der Glaeubiger.
+Dieser Skill arbeitet die Besonderheiten der StaRUG-Variante heraus: keine Masseverwaltung, kein gerichtlich bestellter Verwalter, statt dessen Restrukturierungsbeauftragter und ggf. Sanierungsmoderator; engere zeitliche Fenster; schwierigere Dokumentation der Sanierungsabsicht der Gläubiger.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -37,7 +37,7 @@ Kaltstart-Fragen:
 
 1. StaRUG-Variante (mit gerichtlicher Bestaetigung, mit Stabilisierungsanordnung, ohne)?
 2. Höhe des Forderungsverzichts?
-3. Planbetroffene Glaeubiger — wer wird wie verzichten?
+3. Planbetroffene Gläubiger — wer wird wie verzichten?
 4. Welcher Insolvenzgrund liegt zugrunde (drohende Zahlungsunfaehigkeit als Voraussetzung Paragraph 29 StaRUG)?
 5. Verlustvortraege bekannt?
 
@@ -54,7 +54,7 @@ Kaltstart-Fragen:
 ## / Schritt für Schritt
 
 1. **StaRUG-Variante einordnen.** Die Steuerwirkung haengt nicht von der Variante ab, aber die Dokumentation der Sanierungsabsicht ist unterschiedlich schwer.
-2. **Planbetroffene erfassen.** Nur die im StaRUG-Plan benannten Glaeubiger sind betroffen; andere bleiben unverzichtbar.
+2. **Planbetroffene erfassen.** Nur die im StaRUG-Plan benannten Gläubiger sind betroffen; andere bleiben unverzichtbar.
 3. **Vier Voraussetzungen Paragraph 3a Absatz 2 EStG prüfen.**
 4. **Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG aufstellen.**
 5. **Restsanierungsertrag berechnen.**
@@ -66,10 +66,10 @@ Kaltstart-Fragen:
 | Punkt | Insolvenzplan | StaRUG-Plan |
 |---|---|---|
 | Verfahrenseroeffnung | erforderlich | nicht erforderlich; nur Anzeige der Restrukturierungssache |
-| Schuldner-Vertretung | meist IV oder Sachwalter | Geschaeftsleitung bleibt im Amt; Restrukturierungsbeauftragter ggf. zur Seite |
+| Schuldner-Vertretung | meist IV oder Sachwalter | Geschäftsleitung bleibt im Amt; Restrukturierungsbeauftragter ggf. zur Seite |
 | Insolvenzgrund | Paragraphen 17, 19 InsO | drohende Zahlungsunfaehigkeit Paragraph 29 StaRUG |
-| Wirkung auf alle Glaeubiger | ja | nur auf Planbetroffene |
-| Dokumentation Sanierungsabsicht | aus Glaeubigerausschuss-Protokoll | aus Planbetroffenen-Voten + Verhandlungsdokumentation |
+| Wirkung auf alle Gläubiger | ja | nur auf Planbetroffene |
+| Dokumentation Sanierungsabsicht | aus Gläubigerausschuss-Protokoll | aus Planbetroffenen-Voten + Verhandlungsdokumentation |
 | Reichweite des Plans | umfassend | enger; nicht alle Forderungsklassen erfasst |
 | Sanierungsbeduerftigkeit | meist evident | muss aktiv begruendet werden |
 | Steuerlich Paragraph 3a EStG anwendbar | ja | ja, unter denselben Voraussetzungen |
@@ -78,8 +78,8 @@ Kaltstart-Fragen:
 
 | Entscheidung | wann StaRUG | wann Insolvenzplan |
 |---|---|---|
-| Forderungsverzicht erfasst alle Glaeubiger | nicht möglich (Bindung nur Planbetroffene) | ja, im bestaetigten Plan |
-| Geschaeftsleitung bleibt im Amt | typisch | nur in Eigenverwaltung |
+| Forderungsverzicht erfasst alle Gläubiger | nicht möglich (Bindung nur Planbetroffene) | ja, im bestaetigten Plan |
+| Geschäftsleitung bleibt im Amt | typisch | nur in Eigenverwaltung |
 | Plan-Quote hoch | typisch | typisch wenn Sanierungschance |
 | Plan-Quote sehr niedrig | meist nicht durchsetzbar | ggf. über Cramdown |
 | Sanierungserleichterung Paragraph 3a EStG | ja, falls Voraussetzungen | ja |
@@ -88,7 +88,7 @@ Kaltstart-Fragen:
 
 ## Praxistipps der alten Hasen
 
-1. **Sanierungsabsicht aus Plan-Voten ableiten.** Im StaRUG existiert keine "Glaeubigerversammlung" wie in der InsO; die Mehrheitsentscheidungen erfolgen in Klassen. Das Klassen-Voting ist der wichtigste Beleg für die Sanierungsabsicht.
+1. **Sanierungsabsicht aus Plan-Voten ableiten.** Im StaRUG existiert keine "Gläubigerversammlung" wie in der InsO; die Mehrheitsentscheidungen erfolgen in Klassen. Das Klassen-Voting ist der wichtigste Beleg für die Sanierungsabsicht.
 2. **Drohende Zahlungsunfaehigkeit ist nicht Sanierungsbeduerftigkeit.** Paragraph 29 StaRUG verlangt drohende Zahlungsunfaehigkeit, Paragraph 3a Absatz 2 EStG verlangt Sanierungsbeduerftigkeit — die Belege ueberlappen sich, sind aber nicht identisch. Beide getrennt dokumentieren.
 3. **Restrukturierungsbeauftragter ist nicht IV.** Er hat keine Massehaftung, aber Beratungspflichten. Wenn er den Sanierungsertrag uebersieht, kann die Schuldnerin trotzdem in der Steuerklemme landen.
 4. **Vorabauskunft Paragraph 89 AO** ist im StaRUG oft besonders wertvoll, weil dem Finanzamt der vorinsolvenzliche Plan-Hintergrund seltener vertraut ist.

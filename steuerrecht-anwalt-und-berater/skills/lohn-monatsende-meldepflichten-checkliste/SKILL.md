@@ -83,9 +83,9 @@ Mandant: [Firma]
 
 ### Phase 4 — DEUEV-Meldungen
 
-- Anmeldungen, Abmeldungen, Aenderungen.
+- Anmeldungen, Abmeldungen, Änderungen.
 - Im Standard mit naechster Lohnabrechnung; spaetestens 6 Wochen.
-- Sofortmeldungspflicht-Branchen vor Beschaeftigungsbeginn.
+- Sofortmeldungspflicht-Branchen vor Beschäftigungsbeginn.
 
 ### Phase 5 — Pauschalsteuer
 

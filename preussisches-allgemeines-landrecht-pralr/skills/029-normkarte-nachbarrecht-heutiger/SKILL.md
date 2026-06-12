@@ -15,7 +15,7 @@ description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft k
 
 ## ALR-Bestimmungen
 
-- ALR I 23: Grenzbaeume, Grenzhecken, Traufrecht, Ueberhang, Wegerecht.
+- ALR I 23: Grenzbaeume, Grenzhecken, Traufrecht, Überhang, Wegerecht.
 - ALR I 21: Dienstbarkeiten (Wegerecht, Wasserlauf, Hutung, Mast, Trift).
 
 ## Heutige Landesnachbarrechtsgesetze
@@ -29,7 +29,7 @@ description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft k
 ## BGB-Anker
 
 - § 906 BGB Immissionen.
-- § 910 BGB Ueberhang.
+- § 910 BGB Überhang.
 - § 912 BGB Ueberbau.
 - § 917 BGB Notweg.
 - § 923 BGB Grenzbaum.
@@ -39,7 +39,7 @@ description: "PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck: prüft k
 - ALR ist nur Hintergrund — für aktuelle Faelle gilt BGB und Landesnachbarrecht.
 - Bei Alteintraegen im Grundbuch (Dienstbarkeit) kann ALR mittelbar greifen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Bundesland?
 2. Welche Nachbarrechtsregelung?

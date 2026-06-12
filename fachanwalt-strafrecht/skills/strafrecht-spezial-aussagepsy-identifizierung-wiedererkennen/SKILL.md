@@ -74,7 +74,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin 
 "Hilfsweise wird beantragt, ein aussagepsychologisches Sachverstaendigengutachten zur Qualitaet der Wiedererkennens-Aussage der Zeugin [Name] einzuholen. Konkrete Anhaltspunkte für eingeschraenkte Aussagezuverlaessigkeit: Beobachtungsdauer maximal [Sekunden]; Nacht und schlechte Beleuchtung (Tatortlichtmessung Bl. [X]); Distanz von [Meter] zwischen Zeugin und Taeter (Akten-Skizze Bl. [Y]); bewaffneter Taeter (weapon focus); Cross-race-Konstellation; Latenz von [Zeitraum] zwischen Tat und Wahllichtbildvorlage."
 
 **Mustersatz für Plaedoyer:**
-"Eine sichere, ueberzeugt vorgetragene Wiedererkennens-Aussage ist nicht gleichbedeutend mit einer richtigen Identifizierung. Die psychologische Forschung ist hier seit Jahrzehnten eindeutig: Subjektive Sicherheit und objektive Richtigkeit korrelieren nur schwach. Die Zeugin moege subjektiv sicher sein — das aendert nichts daran, dass die objektiven Bedingungen ihrer Wahrnehmung [Nacht, Distanz, Stress, weapon focus] der korrekten Identifizierung methodisch entgegenstehen. Damit kann das Gericht nicht von der noetigen Sicherheit ausgehen."
+"Eine sichere, ueberzeugt vorgetragene Wiedererkennens-Aussage ist nicht gleichbedeutend mit einer richtigen Identifizierung. Die psychologische Forschung ist hier seit Jahrzehnten eindeutig: Subjektive Sicherheit und objektive Richtigkeit korrelieren nur schwach. Die Zeugin moege subjektiv sicher sein — das ändert nichts daran, dass die objektiven Bedingungen ihrer Wahrnehmung [Nacht, Distanz, Stress, weapon focus] der korrekten Identifizierung methodisch entgegenstehen. Damit kann das Gericht nicht von der noetigen Sicherheit ausgehen."
 
 ## Quellen Stand 06/2026
 

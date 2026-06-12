@@ -1,6 +1,6 @@
 ---
 name: insiderinformation-zwischenschritte
-description: "Prueft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance."
+description: "Prüft alle vier Tatbestandsmerkmale der Insiderinformation nach Art. 7 MAR: Praezision, Nichtoeffentlichkeit, Emittenten-/Instrumentenbezug, Kursrelevanz im Insiderrecht Compliance."
 ---
 
 # Insiderinformation nach Art. 7 MAR

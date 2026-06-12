@@ -25,7 +25,7 @@ Viele behoerdliche Entscheidungen liegen nicht in der gebundenen Anwendung der N
 
 ## Rechtlicher Rahmen
 - **VwVfG § 40** Ermessen, "entsprechend dem Zweck der Ermaechtigung, in den gesetzlichen Grenzen".
-- **VwGO § 114** gerichtliche Ueberpruefung nur eingeschraenkt.
+- **VwGO § 114** gerichtliche Überprüfung nur eingeschraenkt.
 - **VwVfG § 39** Begruendungspflicht; § 39 Abs. 1 S. 3 Ermessensgruende.
 - **GG Art. 3 Abs. 1** Gleichbehandlung — Selbstbindung der Verwaltung durch Verwaltungspraxis.
 - **VwGO § 114 S. 2** Nachholung der Ermessensbegruendung im verwaltungsgerichtlichen Verfahren.

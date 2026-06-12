@@ -1,11 +1,11 @@
 ---
 name: bmbfsfj-schul-und-berufsbildungsrecht
-description: "Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.); Akteure (BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-A..."
+description: "Sachbereich Schul- und Berufsbildungsrecht im Geschäftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.); Akteure (BMBFSFJ; Länder-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-A..."
 ---
 
 # Schul- und Berufsbildungsrecht (BMBFSFJ)
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte für dieses eine Sachfeld.
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Schul- und Berufsbildungsrecht im Geschäftsbereich BMBFSFJ. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
 
 ## Eingaben
 
@@ -18,7 +18,7 @@ description: "Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BM
 
 Kernbestand des Sachfelds: BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Länder; AufstFoeG.
 
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
 
 ## Akteure und Aufsicht
 
@@ -34,7 +34,7 @@ Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierun
 
 ## Typische Legistik-Aufgaben
 
-Bundeskompetenz beachten (Schul- vs. Berufsbildung); BAfoeG-Saetze; duale Ausbildung; Anerkennung auslaendischer Abschluesse.
+Bundeskompetenz beachten (Schul- vs. Berufsbildung); BAfoeG-Saetze; duale Ausbildung; Anerkennung ausländischer Abschluesse.
 
 Schrittfolge für den Normgeber:
 
@@ -46,11 +46,11 @@ Schrittfolge für den Normgeber:
 6. Vollzugs- und Aufsichtsstruktur kontrollieren
 7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
 
-## Stolpersteine und Pruefpunkte
+## Stolpersteine und Prüfpunkte
 
 Foederalismus (Kulturhoheit); KMK-Konsens; Finanzierung; Inklusion.
 
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
 
 ## Normenanker
 

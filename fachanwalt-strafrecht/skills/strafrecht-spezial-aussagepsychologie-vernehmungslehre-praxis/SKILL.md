@@ -22,7 +22,7 @@ description: "Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, C
 
 Die Qualitaet einer Aussage haengt massgeblich von der Qualitaet der Vernehmung ab. Eine methodisch saubere Vernehmung erzeugt mehr Information, weniger Verzerrung und besser dokumentierte Aussagen. Eine suggestive, geschlossen-fragende, anklage-orientierte Vernehmung erzeugt unzuverlaessige Aussagen, Falschgestaendnisse und kontaminierte Belastungsaussagen.
 
-Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Kenntnis der etablierten Vernehmungsmodelle, das Pruefraster für Vernehmungsprotokolle und die Replik-Werkzeuge gegen methodisch fehlerhafte Vernehmungen — sowohl bei Belastungs- als auch bei Beschuldigtenvernehmungen.
+Der Skill richtet sich an Strafverteidigerinnen und Strafverteidiger. Er liefert die Kenntnis der etablierten Vernehmungsmodelle, das Prüfraster für Vernehmungsprotokolle und die Replik-Werkzeuge gegen methodisch fehlerhafte Vernehmungen — sowohl bei Belastungs- als auch bei Beschuldigtenvernehmungen.
 
 ## Methodische Grundlagen
 

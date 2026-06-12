@@ -17,13 +17,13 @@ Wer kann sich auf das Grundrecht berufen?
 | Deutschen-Grundrechte | nur Deutsche iSv Art 116 I GG | Art 8, Art 9 I, Art 11, Art 12 GG |
 | Juristische Personen | nur soweit das Grundrecht wesensmaessig anwendbar ist | Art 19 III GG |
 | EU-juristische Personen | wie inlaendische juristische Personen, soweit Anwendungsbereich der Unionsfreiheiten | BVerfGE 129, 78 (Cassina) |
-| Auslaendische juristische Personen ausserhalb EU | grundsätzlich kein Grundrechtsschutz, nur über Art 2 I GG und Justizgrundrechte | BVerfGE 21, 207 |
+| Ausländische juristische Personen ausserhalb EU | grundsätzlich kein Grundrechtsschutz, nur über Art 2 I GG und Justizgrundrechte | BVerfGE 21, 207 |
 
 ## Sachliche Schutzbereichsdimension
 
 Was schuetzt das Grundrecht inhaltlich?
 
-### Drei Pruefschritte
+### Drei Prüfschritte
 
 1. **Schutzgut benennen.** Welche konkrete Verhaltensweise oder Rechtsposition soll geschuetzt sein? Beispiel Art 12 I GG: Berufswahl und Berufsausuebung.
 2. **Schutzbereichszuschnitt klären.** Eng oder weit? Bei Art 5 I GG zum Beispiel: alles, was geaeussert wird, oder nur Werturteile?
@@ -51,7 +51,7 @@ Wenn der Schutzbereich nicht eroeffnet ist, gibt es weder Eingriff noch Rechtfer
 
 - BVerfGE 7, 198 (Lueth-Urteil, Drittwirkung der Grundrechte)
 - BVerfGE 7, 377 (Apotheken-Urteil, Drei-Stufen-Lehre)
-- BVerfGE 21, 207 (Auslaender-Grundrechtsschutz)
+- BVerfGE 21, 207 (Ausländer-Grundrechtsschutz)
 - BVerfGE 65, 1 (Volkszaehlung, informationelle Selbstbestimmung)
 - BVerfGE 90, 241 (Auschwitzluege, Meinungsfreiheit)
 - BVerfGE 105, 252 (Glykol-Warnung, faktischer Eingriff)

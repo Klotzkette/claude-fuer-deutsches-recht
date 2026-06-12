@@ -26,7 +26,7 @@ Rueckfrage nur wenn unklar: *"Liegt eine Formulierungshilfe der Bundesregierung 
 - **Praxis** — faktische NKR-Beteiligung bei Formulierungshilfen
 - **NKR-Jahresbericht** — wiederholte Mahnungen zur Umgehungsproblematik
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. Identifikation
 

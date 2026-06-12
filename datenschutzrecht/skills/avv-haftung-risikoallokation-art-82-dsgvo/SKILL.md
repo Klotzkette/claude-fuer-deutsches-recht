@@ -60,7 +60,7 @@ Haftungsklausel:
 >
 > (1) Die Parteien haften gegenueber Betroffenen nach Massgabe des Art. 82 DSGVO. Diese gesetzliche Haftung wird durch die nachstehenden vertraglichen Regelungen zur Innenhaftung nicht beruehrt.
 >
-> (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhaeltnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Höhe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
+> (2) Im Innenverhaeltnis tragen Verantwortlicher und Auftragsverarbeiter den Schaden im Verhältnis ihres jeweiligen Verschuldensanteils. Hat ein Auftragsverarbeiter den vollen Schadenersatz an einen Betroffenen geleistet, steht ihm gegen den Verantwortlichen ein Regressanspruch in Höhe des Verschuldensanteils des Verantwortlichen zu (Art. 82 Abs. 5 DSGVO).
 >
 > (3) Die Haftung des Auftragsverarbeiters gegenueber dem Verantwortlichen aus oder im Zusammenhang mit diesem Vertrag, einschliesslich Regressansprueche nach Absatz (2), ist auf einen Betrag von [BETRAG] EUR pro Schadensfall und insgesamt auf [BETRAG] EUR pro Kalenderjahr begrenzt. Die Begrenzung gilt nicht bei Vorsatz und grober Fahrlaessigkeit sowie nicht für Schaeden aus der Verletzung des Lebens, des Koerpers oder der Gesundheit.
 >

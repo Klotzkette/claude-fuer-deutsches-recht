@@ -42,7 +42,7 @@ description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen 
 ## Empfehlung
 
 - **Original-Brief mit eigenhaendiger Unterschrift** ist der einzig sichere Weg.
-- Zustellung per Bote oder persönliche Uebergabe.
+- Zustellung per Bote oder persönliche Übergabe.
 - Wenn elektronisch, dann nur als Vorab-Information; Original folgt.
 
 ## BAG-Linie
@@ -51,7 +51,7 @@ description: "Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen 
 - BAG 6 AZR 687/09: keine E-Mail-Kuendigung.
 - BAG 2 AZR 224/18: Zugangsfragen.
 
-## Pruefraster
+## Prüfraster
 
 1. Welches Medium?
 2. Schriftform eingehalten?

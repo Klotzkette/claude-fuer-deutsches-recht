@@ -15,7 +15,7 @@ description: "Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerr
 
 1. Liegt eine fehlerhafte Bilanz vor (Bilanzberichtigung § 4 Abs. 2 S. 1 EStG)?
 2. Soll ein Wahlrecht in der Bilanz nachtraeglich anders ausgeuebt werden (Bilanzaenderung § 4 Abs. 2 S. 2 EStG)?
-3. Auf welche Auswirkung bezieht sich die Aenderung — Gewinn ausgleichend?
+3. Auf welche Auswirkung bezieht sich die Änderung — Gewinn ausgleichend?
 4. Greift Bilanzzusammenhang — wirkt Korrektur in Vorjahren bestandskraeftig?
 5. Welche Verfahrensaenderung kommt im Steuerbescheid in Betracht (§ 164 § 173 AO)?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)

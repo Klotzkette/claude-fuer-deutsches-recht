@@ -17,8 +17,8 @@ Dieses Anschluss-Routing für **Berufsrecht Ki Vertragspruefung** wählt nach de
 - `art-50-ki-vo-schriftsatz-marketing-chatbot` — ART 50 KI VO Schriftsatz Marketing Chatbot
 - `avv-grenzpruefung-brki-anbieter-eu` — AVV Grenzpruefung Brki Anbieter EU
 - `avv-grenzpruefung-datenschutz` — AVV Grenzpruefung Datenschutz
-- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Uebergabe
-- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Uebergabe
+- `belehrung-abschlussprodukt-uebergabe` — Belehrung Abschlussprodukt Übergabe
+- `belehrung-abschlussprodukt-und-uebergabe` — Belehrung Abschlussprodukt und Übergabe
 - `berufsrecht-sonderfall-edge-case` — Berufsrecht Sonderfall Edge Case
 - `berufsrecht-sonderfall-und-edge-case` — Berufsrecht Sonderfall und Edge Case
 - `berufsrechtliche-bnoto-interessen-brao` — Berufsrechtliche Bnoto Interessen BRAO

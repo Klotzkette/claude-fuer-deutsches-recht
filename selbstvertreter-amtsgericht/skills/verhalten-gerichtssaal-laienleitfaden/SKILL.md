@@ -20,7 +20,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 - **Sitzungssaal**: Verhandlungsraum.
 - **Vorsitzender**: Der Richter, der die Verhandlung leitet (am AG meist Einzelrichter).
 - **Anrede "Hoher Herr Vorsitzender" / "Hohe Frau Vorsitzende"**: Foermliche Anrede.
-- **Erkundigungs-Termine**: Voranfrage bei Geschaeftsstelle vor Termin.
+- **Erkundigungs-Termine**: Voranfrage bei Geschäftsstelle vor Termin.
 
 ## Rechtsgrundlagen
 
@@ -71,7 +71,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 ### Schritt 6 — Anrede Gegenseite
 
-- "Die Klaegerin / Der Beklagte / Die Gegenseite".
+- "Die Klägerin / Der Beklagte / Die Gegenseite".
 - Nicht beim Vornamen, nicht "Du".
 
 ### Schritt 7 — Worterteilung

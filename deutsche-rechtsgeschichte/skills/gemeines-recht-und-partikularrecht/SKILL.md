@@ -32,12 +32,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Worum es geht
 
-Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) und territorialem Partikularrecht (Stadtrechte, Landrechte, Feudalrechte) praegt die Rechtswirklichkeit des fruehneuzeitlichen Deutschlands. Das gemeine Recht galt subsidiaar: Es trat zurueck, wenn Partikularrecht vorhanden war. In der Praxis war die Trennung fliessend: Gerichte wandten das gelehrte Recht an, auch wo Partikularrecht bestand. Das ALR 1794 versuchte, in Preussen das Nebeneinander zu beenden. Erst das BGB 1900 schuf endgueltig einen einheitlichen zivilrechtlichen Rechtsraum für das gesamte Deutsche Reich.
+Das Verhältnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) und territorialem Partikularrecht (Stadtrechte, Landrechte, Feudalrechte) praegt die Rechtswirklichkeit des fruehneuzeitlichen Deutschlands. Das gemeine Recht galt subsidiaar: Es trat zurueck, wenn Partikularrecht vorhanden war. In der Praxis war die Trennung fliessend: Gerichte wandten das gelehrte Recht an, auch wo Partikularrecht bestand. Das ALR 1794 versuchte, in Preussen das Nebeneinander zu beenden. Erst das BGB 1900 schuf endgueltig einen einheitlichen zivilrechtlichen Rechtsraum für das gesamte Deutsche Reich.
 
 ## Kernnormen / Kernquellen
 
 - **Digestentitel D. 1.1 und D. 1.3**: Ius commune-Grundlagen
-- **ALR 1794 Einleitung §§ 1-23**: Preussisches Verhaeltnis zum gemeinen Recht
+- **ALR 1794 Einleitung §§ 1-23**: Preussisches Verhältnis zum gemeinen Recht
 - **EGBGB Art. 2 (1900)**: Aufhebung des gemeinen Rechts mit BGB-Inkrafttreten
 - **Corpus Iuris Civilis** als subsidiaeres Gemeines Recht bis 1900
 
@@ -59,6 +59,6 @@ Das Verhaeltnis von gemeinrechtlicher Doktrin (ius commune, roemisch-kanonisch) 
 ## Methodik
 
 - ALR: historische Druckausgaben und ALEX/OeNB
-- Gemeines Recht: Dernburg Pandekten (6. Aufl. 1884-1887) als Schluessellehrbuch
+- Gemeines Recht: Dernburg Pandekten (6. Aufl. 1884-1887) als Schlüssellehrbuch
 - EGBGB: gesetze-im-internet.de für aktuell geltende Uebergangsvorschriften
 - Coing Handbuch (1973-88): Europaeische Kontextualisierung des gemeinen Rechts

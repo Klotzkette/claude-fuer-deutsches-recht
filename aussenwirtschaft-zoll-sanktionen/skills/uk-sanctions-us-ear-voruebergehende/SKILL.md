@@ -36,7 +36,7 @@ description: "UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA
 - **VO (EU) 833/2014**: EU-Referenz für Divergenzanalyse.
 - **AWG § 1**: Territorialer Anwendungsbereich des deutschen Rechts bei UK-Transaktionen.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] UK-Entitaet oder UK-Bank in Transaktion involviert?
 - [ ] UK-Konsolidierte-Sanktionsliste aktuell abgerufen und abgeglichen?
@@ -66,7 +66,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

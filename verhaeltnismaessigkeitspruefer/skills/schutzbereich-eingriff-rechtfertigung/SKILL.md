@@ -1,19 +1,19 @@
 ---
 name: schutzbereich-eingriff-rechtfertigung
-description: Dreischritt Schutzbereich Eingriff Rechtfertigung als Pruefungsaufbau vor der eigentlichen Verhaeltnismaessigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt.
+description: Dreischritt Schutzbereich Eingriff Rechtfertigung als Prüfungsaufbau vor der eigentlichen Verhältnismäßigkeitspruefung. Erklaert wie sich klassischer und moderner Eingriffsbegriff unterscheiden und wo die Schranken-Schranke ansetzt.
 ---
 
 # Schutzbereich Eingriff Rechtfertigung
 
-## Pruefungsaufbau
+## Prüfungsaufbau
 
-Bevor du verhaeltnismaessig pruefst, klaere drei Vorfragen.
+Bevor du verhaeltnismaessig prüfst, klaere drei Vorfragen.
 
 ### 1. Schutzbereich
 Ist das beeintraechtigte Verhalten persoenlicher und sachlicher Schutzbereich
 des Grundrechts?
 - Persoenlich: Wer ist Traeger (Deutschen-Grundrecht versus Jedermann-Grundrecht;
-  juristische Personen Art 19 III GG; auslaendische juristische Personen seit
+  juristische Personen Art 19 III GG; ausländische juristische Personen seit
   BVerfGE 129, 78 (EU-Gesellschaften) für EU-Gesellschaften)?
 - Sachlich: Welche konkrete Verhaltensweise schuetzt das Grundrecht?
 
@@ -47,10 +47,10 @@ die Prüfung ab.
 
 ## Hinweis: Detailtiefe in den Vor-Trias-Skills
 
-Diese kompakte Gesamtschau bleibt der Sammelpunkt für das Grundschema. Für die einzelnen Pruefungspunkte mit ausfuehrlicher Dogmatik, Beispielen und Pruefschemata auf die spezialisierten Skills wechseln:
+Diese kompakte Gesamtschau bleibt der Sammelpunkt für das Grundschema. Für die einzelnen Prüfungspunkte mit ausfuehrlicher Dogmatik, Beispielen und Prüfschemata auf die spezialisierten Skills wechseln:
 
 - `vorpruefung-schutzbereich-eroeffnet` — Schutzbereich, sachlich und persoenlich.
 - `vorpruefung-eingriff-klassisch-modern` — klassischer und moderner Eingriffsbegriff inklusive faktischer Beeintraechtigung.
 - `vorpruefung-schranke-finden` — Schrankenkatalog, einfacher und qualifizierter Vorbehalt, verfassungsimmanente Schranken.
 
-Wer das Pruefungsschema unterrichten oder eine Klausurloesung gliedern moechte, nutzt zuerst die drei Vor-Trias-Skills und greift für die Gesamtschau auf diesen Skill zurueck.
+Wer das Prüfungsschema unterrichten oder eine Klausurloesung gliedern moechte, nutzt zuerst die drei Vor-Trias-Skills und greift für die Gesamtschau auf diesen Skill zurueck.

@@ -1,6 +1,6 @@
 ---
 name: schritt-schriftsatz-brief-und-memo-bausteine
-description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Subsumtions Pruefer."
+description: "Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Subsumtions Prüfer."
 ---
 
 # Schriftsatz-, Brief- und Memo-Bausteine

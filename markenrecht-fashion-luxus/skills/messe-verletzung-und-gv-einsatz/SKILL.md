@@ -158,7 +158,7 @@ Bevor der Eilantrag gestellt wird, klaere:
 2. Ist das Gericht des Messeorts zuständig (LG Berlin/Frankfurt/Duesseldorf/Muenchen I)?
 3. Wann endet die Messe — genuegt die Zeit für Antrag und Erlass noch am Messtag?
 4. Hat der Verletzer moglicherweise bereits eine Schutzschrift im ZSSR hinterlegt?
-5. Handelt es sich um Produktpiraterie (direkte einstweilige Verfuegung) oder Zeichenaehnlichkeit (zuerst Abmahnung pruefe)?
+5. Handelt es sich um Produktpiraterie (direkte einstweilige Verfuegung) oder Zeichenaehnlichkeit (zuerst Abmahnung prüfe)?
 
 ## Aktuelle Rechtsprechung
 

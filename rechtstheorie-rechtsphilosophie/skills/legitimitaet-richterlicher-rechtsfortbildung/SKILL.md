@@ -1,6 +1,6 @@
 ---
 name: legitimitaet-richterlicher-rechtsfortbildung
-description: "Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen."
+description: "Prüft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen."
 ---
 
 # Legitimität richterlicher Rechtsfortbildung

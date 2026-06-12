@@ -20,7 +20,7 @@ Selbstvertretung vor dem AG ist möglich und oft sinnvoll. Aber nicht immer. Bei
 - **Selbstvertretung**: Sie vertreten sich selbst, ohne Anwalt.
 - **Mandatierung**: Beauftragung eines Anwalts.
 - **Erfolgsaussichten**: Wahrscheinlichkeit, im Verfahren zu obsiegen.
-- **Kosten-Nutzen**: Verhaeltnis zwischen Anwalts-Kosten und ersparten Risiken.
+- **Kosten-Nutzen**: Verhältnis zwischen Anwalts-Kosten und ersparten Risiken.
 
 ## Rechtsgrundlagen
 
@@ -32,7 +32,7 @@ Selbstvertretung vor dem AG ist möglich und oft sinnvoll. Aber nicht immer. Bei
 
 ### Schritt 1 — Roter Faden: Wann immer Anwalt?
 
-#### Ueberblick:
+#### Überblick:
 
 - **Familienverfahren (Ehesachen)** § 114 FamFG: Anwaltszwang.
 - **Streitwert hoch, ab LG-Zuständigkeit**: Anwaltszwang § 78 ZPO.

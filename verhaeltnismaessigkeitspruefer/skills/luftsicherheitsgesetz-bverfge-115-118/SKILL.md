@@ -1,6 +1,6 @@
 ---
 name: luftsicherheitsgesetz-bverfge-115-118
-description: Luftsicherheitsgesetz-Urteil BVerfGE Band 115 Seite 118 vom 15.02.2006 als Lehrstueck fuer absolute Grenzen der Verhaeltnismaessigkeit Menschenwuerde unverfuegbar. Mit Sachverhalt Abschuss-Ermaechtigung und der Aussage dass Menschenleben gegen Menschenleben nicht abgewaegt werden darf.
+description: Luftsicherheitsgesetz-Urteil BVerfGE Band 115 Seite 118 vom 15.02.2006 als Lehrstueck fuer absolute Grenzen der Verhältnismäßigkeit Menschenwuerde unverfuegbar. Mit Sachverhalt Abschuss-Ermaechtigung und der Aussage dass Menschenleben gegen Menschenleben nicht abgewaegt werden darf.
 ---
 
 # Luftsicherheitsgesetz BVerfGE 115 118
@@ -42,7 +42,7 @@ anderer Menschen ... zu erlauben."
 
 ## Bedeutung für den Prüfer
 
-Vor jeder vierten Stufe der Verhältnismäßigkeit pruefe absolute
+Vor jeder vierten Stufe der Verhältnismäßigkeit prüfe absolute
 Grenzen:
 - Menschenwuerde Art 1 I GG
 - Wesensgehalt Art 19 II GG

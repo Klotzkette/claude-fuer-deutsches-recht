@@ -34,7 +34,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 | Konstellation | Empfohlener Weg |
 |---|---|
 | Standard — Mahnschreiben hoeflich aber klar formulieren | Dreistufige Mahnformulare nach Template unten |
-| Variante A — erste Erinnerung; Geschaeftsbeziehung erhalten | Stufe 1 (freundlich); kein Druck-Ton |
+| Variante A — erste Erinnerung; Geschäftsbeziehung erhalten | Stufe 1 (freundlich); kein Druck-Ton |
 | Variante B — hartnaekkiges Nichtreagieren; laufende Frist | Stufe 2 oder 3; klar auf Rechtsfolgen hinweisen |
 | Variante C — Gegenseite anwaltlich vertreten | Foermlichere Ansprache; Sachverhalt komprimierter darstellen |
 

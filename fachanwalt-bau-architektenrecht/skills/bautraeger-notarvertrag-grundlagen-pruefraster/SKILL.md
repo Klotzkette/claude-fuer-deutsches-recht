@@ -1,9 +1,9 @@
 ---
 name: bautraeger-notarvertrag-grundlagen-pruefraster
-description: "Bautraegervertrag notarieller Pruefraster Grundlagen: Skill bietet das systematische Pruefraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherhei..."
+description: "Bautraegervertrag notarieller Prüfraster Grundlagen: Skill bietet das systematische Prüfraster für den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherhei..."
 ---
 
-# Bautraegervertrag notarieller Pruefraster Grundlagen
+# Bautraegervertrag notarieller Prüfraster Grundlagen
 
 
 ## Arbeitsweg
@@ -14,11 +14,11 @@ description: "Bautraegervertrag notarieller Pruefraster Grundlagen: Skill bietet
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Bautraegervertrag notarieller Pruefraster Grundlagen. Skill bietet das systematische Pruefraster für den notariellen Bautraegervertrag von Praeambel über Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste.
+**Fokus:** Bautraegervertrag notarieller Prüfraster Grundlagen. Skill bietet das systematische Prüfraster für den notariellen Bautraegervertrag von Praeambel über Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste.
 
-### Bautraeger Notarvertrag Grundlagen Pruefraster
+### Bautraeger Notarvertrag Grundlagen Prüfraster
 
-## Pruefraster
+## Prüfraster
 
 ### 1. Praeambel
 - Identitaet der Parteien.

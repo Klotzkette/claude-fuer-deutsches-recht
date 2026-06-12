@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-aa
-description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereich Auswaertiges Amt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Out..."
+description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschäftsbereich Auswaertiges Amt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behörden. Out..."
 ---
 
 # Ressortaufgaben AA
@@ -12,8 +12,8 @@ description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereic
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag AA
 - Ressort-Kompass aus `legw-ressort-aa`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Vorgehen
 
@@ -25,7 +25,7 @@ description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereic
 | Referentenentwurf | Fachreferat fuehrt; Hauspruefung (Z; ZA; ZB) | Verbaendeanhoerung; Ressortabstimmung |
 | Kabinettsentwurf | Hausleitung legt vor | Staatssekretaersausschuss; Kabinettsvorlage |
 | Rechtsverordnung | Fachreferat plus ggf. Bundesrat-Zustimmung | RV-Vorlage; ggf. Bundesrat |
-| Aenderungsantrag aus der Mitte | Fraktion zusammen mit AA | Bundestagsausschuss |
+| Änderungsantrag aus der Mitte | Fraktion zusammen mit AA | Bundestagsausschuss |
 
 ### Schritt 2 - Begruendungspflichten klären
 
@@ -36,7 +36,7 @@ description: "Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereic
 
 ### Schritt 3 - Verbaendeanhoerung nach GGO Paragraf 47
 
-Im Geschaeftsbereich AA sind typische Beteiligte:
+Im Geschäftsbereich AA sind typische Beteiligte:
 
 - Spitzenverbaende der Materie (siehe `legw-aa-voelkerrecht-und-vertragsgesetzgebung` und folgende)
 - Länder (Bundesrat-Spiegel; KOM-Vertreter)
@@ -73,7 +73,7 @@ Anhörungsfrist regelmaessig vier Wochen; verkuerzte Frist nur mit Begruendung.
  `spezial-bundestag-fristen-form-und-zuständigkeit` und `gesetzgebungskompetenz-pruefen`.
 - **Fachausschuss im Bundestag** (AA-Spiegel).
 
-### Schritt 8 - Aufsicht und Vollzug im Geschaeftsbereich
+### Schritt 8 - Aufsicht und Vollzug im Geschäftsbereich
 
 Nachgeordnete Behörden des AA im Vollzug einbinden. Vollzugsfolgen prüfen.
 

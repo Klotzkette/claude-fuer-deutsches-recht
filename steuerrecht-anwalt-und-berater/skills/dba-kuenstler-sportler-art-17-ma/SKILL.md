@@ -67,7 +67,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 ### Phase 1 — Konstellation klären
 ### Phase 2 — Auftrittsstaat-Quellensteuer
 1. Steuerabzug § 50a EStG bei Auftritten in DE.
-2. Auslaendische Quellensteuer bei Auftritten dort.
+2. Ausländische Quellensteuer bei Auftritten dort.
 
 ### Phase 3 — Star-Company prüfen
 1. Wenn Gesellschaft zwischengeschaltet: Art. 17 Abs. 2 anwenden.
@@ -78,7 +78,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 3. Ansaessigkeitsbescheinigung.
 
 ### Phase 5 — Anrechnung im Wohnsitzstaat
-1. § 34c EStG-Anrechnung auslaendischer Quellensteuer.
+1. § 34c EStG-Anrechnung ausländischer Quellensteuer.
 
 ### Phase 6 — Werbungskosten / Betriebsausgaben
 1. Pauschalverfahren oder Nettobesteuerung mit Beleg.
@@ -100,7 +100,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 - **Ansaessigkeitsbescheinigung des Heimatstaats**: IRS Form 6166 (US-Kuenstler), HMRC (UK-Bands), franzoesische Attestation de Residence Fiscale — Bearbeitung 4-8 Wochen, oft auch waehrend Tournee parallel.
 - **Werbungskosten / Betriebsausgaben sammeln**: Nettoabzug § 50a Abs. 3 EStG nur, wenn vorab nachgewiesen — Sammlung Hotel, Reise, Gage Crew, Equipment-Miete, Booking-Agency-Provision. Pauschalisierungs-Trick scheitert in Praxis.
 - **Bagatellklauseln im konkreten DBA prüfen**: viele DBA enthalten Befreiungen bei Kulturaustausch (öffentliche Förderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).
-- **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschaeftstaetigkeit dokumentieren — Prüfer praesumieren ohne Substanz Durchgriff auf Kuenstler.
+- **Star-Company-Substanzdokumentation**: bei zwischengeschalteter Production Company stets Personal, Buero, Geschäftstaetigkeit dokumentieren — Prüfer praesumieren ohne Substanz Durchgriff auf Kuenstler.
 - **Q1-Antragsfenster** beim BZSt für Erstattungen — kuerzere Bearbeitung.
 
 ## Trade-off-Tabelle
@@ -142,11 +142,11 @@ Sachverhalt: US-Band tritt in DE bei drei Konzerten auf. Gage 300.000 EUR brutto
 
 ## Star-Company-Prüfung (Mustertabelle)
 
-| Pruefpunkt | Befund Mandant | Status |
+| Prüfpunkt | Befund Mandant | Status |
 |---|---|---|
 | Personal Star-Company | [Anzahl] | [substantiell/Briefkasten] |
-| Geschaeftsraeume | [Mietvertrag/Anschrift] | [eigen/fremd] |
-| Geschaeftstaetigkeit | [Vermarktung/Booking/Management] | [eigenstaendig/durchgereicht] |
+| Geschäftsraeume | [Mietvertrag/Anschrift] | [eigen/fremd] |
+| Geschäftstaetigkeit | [Vermarktung/Booking/Management] | [eigenstaendig/durchgereicht] |
 | Wirtschaftliche Vernuenftigkeit | [Konzerngeschichte/Vor-DBA-Status] | [plausibel/Steuergrund] |
 | Empfaenger der Vergütung | [Star-Company/Kuenstler-Person] | [identisch wirtschaftlich?] |
 | § 50d Abs. 3 EStG-Test | [Substanz nachgewiesen?] | [bestanden/scheitert] |

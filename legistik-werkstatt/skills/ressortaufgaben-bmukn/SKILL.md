@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmukn
-description: "Ressortaufgaben BMUKN: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium für Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und B..."
+description: "Ressortaufgaben BMUKN: typische Legistik-Aufgaben im Geschäftsbereich Bundesministerium für Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und B..."
 ---
 
 # Ressortaufgaben BMUKN
@@ -12,8 +12,8 @@ description: "Ressortaufgaben BMUKN: typische Legistik-Aufgaben im Geschaeftsber
 
 - Auftragsblatt aus `legistik-auftragsaufnahme` mit Ressort-Eintrag BMUKN
 - Ressort-Kompass aus `legw-ressort-bmukn`
-- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Aenderungsantrag; Vorlage)
-- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Pruefauftrag)
+- Geplante Vorhabenart (Gesetz; Rechtsverordnung; Eckpunktepapier; Änderungsantrag; Vorlage)
+- Politische Zielvorgabe (Koalitionsvertrag; Kabinettsbeschluss; Prüfauftrag)
 
 ## Normenanker
 

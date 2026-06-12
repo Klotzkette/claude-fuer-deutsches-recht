@@ -22,10 +22,10 @@ description: "Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstr
 
 ## Rechtsgrundlagen
 
-- **§ 393 AO** — Verhaeltnis Steuer- zu Strafverfahren.
+- **§ 393 AO** — Verhältnis Steuer- zu Strafverfahren.
 - **§ 397 AO** — Einleitung des Strafverfahrens.
 - **§ 30 AO** — Steuergeheimnis.
-- **§ 200 AO** — Mitwirkung im Pruefungsverfahren.
+- **§ 200 AO** — Mitwirkung im Prüfungsverfahren.
 - **Art. 6 EMRK** — fair trial; nemo tenetur.
 
 ## Aktuelle Rechtsprechung

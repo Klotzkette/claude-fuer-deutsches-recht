@@ -74,7 +74,7 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 - § 3 Nr. 11c EStG: Bis 3.000 EUR Inflationsausgleichspraemie LSt- und SV-frei, gueltig vom 26.10.2022 bis 31.12.2024.
 - Voraussetzung: zusaetzlich zum Lohn; nicht auf bestehende Vergütung umgestellt.
-- Bei laufenden Abrechnungen 2026 nicht mehr nutzbar; nur für rueckblickende DRV- oder Lohnsteuer-Aussenpruefungen Pruefzeitraum 2022-2024 relevant.
+- Bei laufenden Abrechnungen 2026 nicht mehr nutzbar; nur für rueckblickende DRV- oder Lohnsteuer-Aussenpruefungen Prüfzeitraum 2022-2024 relevant.
 
 ### Phase 4 — Pauschalierung § 37b EStG
 

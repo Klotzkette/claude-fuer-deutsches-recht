@@ -14,36 +14,36 @@ description: "Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unricht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
+**Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Prüfraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhältnisse, Bilanzen, Vermögensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo für Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
 
 ### Kreditbetrug § 265b StGB
 
 ## Worum geht es
 
-Spezial-Mandat: Anklage Kreditbetrug. Praxistypisch: KMU-Kredite mit unzutreffenden Bilanzen, KfW-Mittelstandskredite, Factoring-Linien, Leasingvertraege mit Bonitaetsangaben, Konsortialfinanzierungen, Sicherungsuebereignung mit ueberhoehter Wertangabe. Strafrahmen Freiheitsstrafe bis drei Jahre oder Geldstrafe. Abstraktes Gefaehrdungsdelikt — Vermoegensschaden bei der Bank nicht erforderlich.
+Spezial-Mandat: Anklage Kreditbetrug. Praxistypisch: KMU-Kredite mit unzutreffenden Bilanzen, KfW-Mittelstandskredite, Factoring-Linien, Leasingvertraege mit Bonitaetsangaben, Konsortialfinanzierungen, Sicherungsuebereignung mit ueberhoehter Wertangabe. Strafrahmen Freiheitsstrafe bis drei Jahre oder Geldstrafe. Abstraktes Gefaehrdungsdelikt — Vermögensschaden bei der Bank nicht erforderlich.
 
 ## Eingaben
 
-- Kreditantrag, Geschaeftsbericht, BWA, Bilanzen letzter Jahre.
+- Kreditantrag, Geschäftsbericht, BWA, Bilanzen letzter Jahre.
 - Bonitaetsauskunft, Sicherheitenbestellung, Buergschaften.
 - Korrespondenz mit Bank, Bonitaetsbewertung der Bank.
 - Mittelverwendung nach Auszahlung.
-- Rolle Mandant: Geschaeftsfuehrer, Gesellschafter, Berater, Steuerberater.
+- Rolle Mandant: Geschäftsführer, Gesellschafter, Berater, Steuerberater.
 
 ## Tatbestand und Auslegung
 
 ### Tatbestand § 265b Abs. 1 StGB
 
-Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehrung, Belassung oder Veraenderung der Bedingungen eines Kredits über wirtschaftliche Verhaeltnisse:
+Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehrung, Belassung oder Veraenderung der Bedingungen eines Kredits über wirtschaftliche Verhältnisse:
 
 1. unrichtige oder unvollstaendige Angaben in **Bilanzen, Gewinn- und Verlustrechnungen, Vermögensübersichten oder Gutachten** macht, die guenstig erscheinen, oder
 2. **schriftlich unrichtige oder unvollstaendige Angaben** über subventionserhebliche Tatsachen macht, die ihm vorteilhaft sind, oder
-3. solche Verschlechterungen der wirtschaftlichen Verhaeltnisse, die für die Entscheidung über einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
+3. solche Verschlechterungen der wirtschaftlichen Verhältnisse, die für die Entscheidung über einen Antrag erheblich sind, dem Kreditgeber nicht mitteilt.
 
-### Schluesselbegriffe
+### Schlüsselbegriffe
 
 - **Kredit § 265b Abs. 3 Nr. 2 StGB.** Geldkredite aller Art, Akzeptkredite, entgeltliche Stundung von Geldforderungen, Diskontierung von Wechseln und Schecks, Buergschaften, Garantien und sonstige Gewaehrleistungen.
-- **Wirtschaftliche Verhaeltnisse.** Vermoegens-, Liquiditaets-, Ertragslage.
+- **Wirtschaftliche Verhältnisse.** Vermögens-, Liquiditaets-, Ertragslage.
 - **Wesentlichkeit.** Tatsache muss für Kreditentscheidung erheblich sein.
 
 ### Subjektiver Tatbestand
@@ -68,7 +68,7 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 | Strategie | Vorteil | Nachteil |
 |---|---|---|
-| Vorsatz bestreiten Steuerberater-Vertrauen | Tatbestand entfaellt | Pruefkette belegen |
+| Vorsatz bestreiten Steuerberater-Vertrauen | Tatbestand entfaellt | Prüfkette belegen |
 | Wesentlichkeit verneinen | Tatbestand entfaellt | Bankinterner Rating-Beleg |
 | § 265b Abs. 2 StGB taetige Reue | Strafausschluss | Tilgung erforderlich |
 | Schadenswiedergutmachung § 46a StGB | Strafmilderung | Voraussetzungen |
@@ -76,8 +76,8 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 ## Konkurrenzen
 
-- **§ 265b StGB / § 263 StGB.** Bei vollendetem Vermoegensschaden Idealkonkurrenz; § 263 nicht subsidiaer.
-- **§ 265b StGB / § 283 StGB Bankrott.** Bei spaeterer Krise und Mittelverwendung gegen Glaeubigerinteressen Tateinheit.
+- **§ 265b StGB / § 263 StGB.** Bei vollendetem Vermögensschaden Idealkonkurrenz; § 263 nicht subsidiaer.
+- **§ 265b StGB / § 283 StGB Bankrott.** Bei spaeterer Krise und Mittelverwendung gegen Gläubigerinteressen Tateinheit.
 - **§ 265b StGB / § 331 HGB Falsche Darstellung.** Bei Bilanzdelikten Tateinheit.
 - **§ 265b StGB / § 370 AO.** Bei zusaetzlicher Steuerhinterziehung durch Bilanzmanipulation.
 - **§ 265b StGB / § 264 StGB.** Bei öffentlich verbuergten oder gefoerderten Krediten (z. B. KfW) Spezialkonkurrenz prüfen — typischerweise § 264 als Spezialnorm.
@@ -87,9 +87,9 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 - **Strafrahmen** Freiheitsstrafe bis drei Jahre oder Geldstrafe (Vergehen).
 - **§ 46 StGB** Kredithoehe, Tatdauer, Mehrfachtaten, Wiedergutmachung.
 - **Einziehung § 73 StGB** Tatertrag (gewaehrter Kredit oder Zinsvorteil) — Streit, da Kredit kein "Erlangtes" im klassischen Sinne; Praxis: Wertersatz nach § 73c StGB bei Liquiditaetsvorteil.
-- **Berufsverbot § 70 StGB** bei Geschaeftsfuehrer.
+- **Berufsverbot § 70 StGB** bei Geschäftsführer.
 - **§ 35 GewO** Gewerbeuntersagung.
-- **Disqualifikation Geschaeftsfuehrer § 6 GmbHG** bei Verurteilung wegen Insolvenzdelikten oder § 263 StGB (5 Jahre).
+- **Disqualifikation Geschäftsführer § 6 GmbHG** bei Verurteilung wegen Insolvenzdelikten oder § 263 StGB (5 Jahre).
 - **Folge der Aufsicht durch BaFin** bei Kreditgeber.
 
 ## Mustertexte

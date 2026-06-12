@@ -34,7 +34,7 @@ description: "Wahlverteidigerausschluss nach § 138a StPO abwehren: Antrag muss 
 
 - Substanz der Tatsachenlage prüfen. Mutmassungen tragen Ausschluss nicht.
 - Verhältnismäßigkeit ist Querschnittsmassstab. Alternative Mittel haben Vorrang.
-- § 137 Abs. 1 StPO als Massstab heranziehen. Ausschluss ist ultima ratio.
+- § 137 Abs. 1 StPO als Maßstab heranziehen. Ausschluss ist ultima ratio.
 - Hinweis auf das Beistandsrecht und auf das Recht des Mandanten auf eigene Wahl.
 
 ## Praktisches Vorgehen

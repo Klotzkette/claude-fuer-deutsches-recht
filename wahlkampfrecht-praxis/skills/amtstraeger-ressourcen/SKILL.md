@@ -1,6 +1,6 @@
 ---
 name: amtstraeger-ressourcen
-description: "Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen im Wahlkampfrecht."
+description: "Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten prüfen im Wahlkampfrecht."
 ---
 
 # Amtstraeger Ressourcen

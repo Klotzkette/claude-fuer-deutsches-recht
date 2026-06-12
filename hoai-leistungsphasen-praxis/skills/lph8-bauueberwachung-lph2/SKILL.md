@@ -29,7 +29,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 2. Baugrubensicherung-Nachweis: Verbau-Plan nach EAB nach EC7, Steifen oder Anker nach Verbaustatik, Verformungsmonitoring Inklinometer
 3. Aushubprotokoll: Maschinengeraet und Schichtdicke je Aushublage, Foto Bodenklasse-Uebergang, Dokumentation Lage kontaminierter Boeden nach BBodSchV
 4. Planumsherstellung-Kontrolle: Hoehenlage +-5 cm nach Abformung, Ebenheitstoleranz 3 m Latte kleiner 20 mm, Proctordichte-Nachweis 97 Prozent unter Planum
-5. Verdichtungspruefung je Einbaulage: Ev2 nach DIN 18134 mindestens alle 500 qm, Ev2/Ev1-Verhaeltnis kleiner 2.2 als Sattheit-Indikator
+5. Verdichtungspruefung je Einbaulage: Ev2 nach DIN 18134 mindestens alle 500 qm, Ev2/Ev1-Verhältnis kleiner 2.2 als Sattheit-Indikator
 6. Bodenaustausch Dokumentation: Bodenlieferscheine und Herkunftsnachweis deponierter Aushub, Freistellungszeugnis Entsorgungsfachbetrieb
 
 ## Normen und Rechtsrahmen
@@ -41,10 +41,10 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - DIN 18127:2012-09 Proctor-Versuch: Optimaler Wassergehalt, Maximale Trockendichte für Beurteilung Verdichtungsgrad
 - EAB Empfehlungen des Arbeitskreises Baugruben 6. Auflage: Sicherheitsklassen, Verbautypen, Gebrauchstauglichkeit
 
-## Prueferaster und Kontrollpunkte
+## Prüferaster und Kontrollpunkte
 
 1. Bodenklassen-Abgleich: Soll-Klasse aus Baugrundgutachten, Ist-Klasse Aushubprotokoll, bei Abweichung sofort Baugrundgutachter einschalten
-2. Ev2-Prüfung vollstaendig: Plattenposition GPS, Datum, Pruefgeraet-Kalibrierungsnachweis, Ev2 Mindest-Grenzwert nach Planvorgabe
+2. Ev2-Prüfung vollstaendig: Plattenposition GPS, Datum, Prüfgeraet-Kalibrierungsnachweis, Ev2 Mindest-Grenzwert nach Planvorgabe
 3. Inklinometer-Auswertung: Messung woeachentlich oder nach jedem Meter Aushub, Grenzwert 15 mm horizontale Verformung vor Alarm
 4. Entwasserung Baugrube: Offene oder geschlossene Wasserhaltung, Pumpenprotokoll, Filterbrunnenabsenkung kontrolliert
 5. Bodenaustausch Qualitaet: Recycling-Boden RCM oder ZM-Boden nur mit Guetenachweis und Positivliste LAGA M 20
@@ -55,7 +55,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - Drohnenbefliegung DJI Matrice 300 nach jeder Aushublage: Gelaende-Punktwolke für Massenberechnung Orthofoto 2 cm/px, Volumenvergleich Soll-Ist
 - Bodenprobenahme-Fotos: Stichprobenahme je 2.000 m3 mit GPS und Tiefenangabe, Labor-ID verknuepft, Fotoprotokoll Bodenansprache
 - Laborprotokolle: Proctorkurve, Koernungslinie, Atterberg-Grenzen je Bodencharge, Akkreditierungsnachweis Labor nach DIN EN ISO/IEC 17025
-- Ev2-Messprotokoll: Kurvendiagramm Ev1 und Ev2 je Pruefpunkt, GPS-Koordinate, Geraete-ID, Datum, Unterschrift Pruefingenieur
+- Ev2-Messprotokoll: Kurvendiagramm Ev1 und Ev2 je Prüfpunkt, GPS-Koordinate, Geraete-ID, Datum, Unterschrift Prüfingenieur
 - PlanRadar Lageplan Ev2-Messpunkte: Farbcodierung Bestehen/Nicht-Bestehen, Exportliste für Aufmasskontrolle
 
 ## Meldungserstellung im ERP / SAP
@@ -64,7 +64,7 @@ Erdbauarbeiten bilden die Grundlage jedes Hoch- und Tiefbauprojektes: von der Ba
 - SAP PS Netzplan: AUSHUB-010 Erdaushub Baugrube, PLANUM-020 Planumsherstellung, VERDICHT-030 Verdichtungspruefungen, FROSTSCH-040 Frostschutzschicht, ABNAHME-050
 - RIB iTWO Mengenabgleich: Aushubmassen Soll aus Drohnen-Volumenmodell, Ist aus Wiegekarten Deponietransporte, Abweichungsanalyse je Bauabschnitt
 - Nevaris Bautagebuch: Maschineneinsatz-Liste, Schichtdauer, Bodenmasse, Witterung, digitale Unterschrift Polier
-- Workflow: Ev2-Mangel, Bodenwassergehalt nachmessen, Abtrocknen oder Materialwechsel, Nachpruefung, Freigabe durch Pruefingenieur
+- Workflow: Ev2-Mangel, Bodenwassergehalt nachmessen, Abtrocknen oder Materialwechsel, Nachpruefung, Freigabe durch Prüfingenieur
 
 ## Typische Fallstricke
 

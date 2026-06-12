@@ -1,6 +1,6 @@
 ---
 name: mittelstandsfreundlichkeit-kmu-test
-description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefcheckli..."
+description: "KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Prüfrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Prüfcheckli..."
 ---
 
 # NKR-Mittelstandsfreundlichkeit / KMU-Test
@@ -28,7 +28,7 @@ Rueckfrage nur wenn unklar: *"Welche Groessenklasse ist primaer betroffen?"*
 
 ## KMU-Definition (EU-Empfehlung 2003/361/EG)
 
-| Kategorie | Beschaeftigte | Umsatz | oder Bilanzsumme |
+| Kategorie | Beschäftigte | Umsatz | oder Bilanzsumme |
 |---|---|---|---|
 | Kleinstunternehmen | < 10 | <= 2 Mio EUR | <= 2 Mio EUR |
 | Kleinunternehmen | < 50 | <= 10 Mio EUR | <= 10 Mio EUR |
@@ -36,7 +36,7 @@ Rueckfrage nur wenn unklar: *"Welche Groessenklasse ist primaer betroffen?"*
 
 Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 
-## Pruefraster / Schritt für Schritt
+## Prüfraster / Schritt für Schritt
 
 ### 1. KMU-Betroffenheit
 
@@ -60,7 +60,7 @@ Hinweis: Definition ist EU-rechtlich vorgegeben; nationale Abweichungen nur eng.
 
 ### 4. Verhältnismäßigkeit
 
-- Steht der Aufwand für KMU in einem angemessenen Verhaeltnis zum erwarteten Nutzen ihrer Befolgung?
+- Steht der Aufwand für KMU in einem angemessenen Verhältnis zum erwarteten Nutzen ihrer Befolgung?
 
 ### 5. Begruendung
 

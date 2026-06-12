@@ -24,7 +24,7 @@ description: "Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerv
 
 - **§ 370 AO** — Steuerhinterziehung.
 - **§ 376 AO** — Verfolgungsverjaehrung.
-- **§ 393 AO** — Verhaeltnis Steuer- zu Strafverfahren.
+- **§ 393 AO** — Verhältnis Steuer- zu Strafverfahren.
 - **§ 261 StGB** — Geldwaesche aus Steuerhinterziehung.
 - **§ 153a StPO** — Einstellung gegen Auflage.
 - **§ 47 StGB** — kurze Freiheitsstrafe.

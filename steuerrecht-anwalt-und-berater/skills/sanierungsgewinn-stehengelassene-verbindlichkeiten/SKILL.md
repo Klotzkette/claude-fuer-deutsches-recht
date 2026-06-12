@@ -25,7 +25,7 @@ description: "Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-P
 
 Behandelt die in der Beratungspraxis hochkonfliktraechtige Frage:
 
-> **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Glaeubigerin sie weder einklagt noch erlaesst, sondern „stehen lässt"?**
+> **Wie sind Verbindlichkeiten — insbesondere nachrangige Gesellschafterdarlehen — in der Liquidationsbilanz einer GmbH steuerlich zu behandeln, wenn die Gläubigerin sie weder einklagt noch erlaesst, sondern „stehen lässt"?**
 
 Die Frage entscheidet darueber, ob in der Liquidationsphase (und vor allem zum Loeschungszeitpunkt) ein steuerpflichtiger Sanierungsertrag entsteht — und damit über den Erfolg einer Liquidation, in der die GmbH wenig Verlustvortrag, aber hohe Gesellschafterdarlehen hat.
 
@@ -33,7 +33,7 @@ Adressat: Steuerberater und Sanierungsanwaelte, die eine solvente GmbH-Liquidati
 
 ## 2. Eingaben (Kaltstart-Fragen)
 
-1. **Verbindlichkeit:** Wer ist Glaeubiger (Drittglaeubiger, Gesellschafterin, verbundenes Unternehmen)? Nominalbetrag, Faelligkeit, Zinslast?
+1. **Verbindlichkeit:** Wer ist Gläubiger (Drittglaeubiger, Gesellschafterin, verbundenes Unternehmen)? Nominalbetrag, Faelligkeit, Zinslast?
 2. **Vertragliche Lage:** Liegt ein einfacher oder qualifizierter Rangrücktritt vor? Wie ist der Tilgungsvorbehalt formuliert (a) nur aus kuenftigen Gewinnen / Liquidationsueberschuss, b) auch aus sonstigem freien Vermögen)?
 3. **Liquidationsstand:** Wann wurde die Aufloesung beschlossen? Wann beginnt das Sperrjahr? Wann ist Loeschung im Handelsregister geplant?
 4. **Erfuellungswahrscheinlichkeit:** Wird die Forderung mit an Sicherheit grenzender Wahrscheinlichkeit nicht erfuellt — oder ist eine teilweise Erfuellung aus Liquidationsueberschuss noch denkbar?
@@ -66,7 +66,7 @@ Die Gestaltungsleitlinie der Beratungspraxis lautet daher: **„Tilgungsvorbehal
 
 #### 3.3 Liquidationsbeschluss allein kein Verzicht
 
-- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und Vorgaengerverfuegung **OFD Frankfurt a. M. vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**: Der blosse Liquidationsbeschluss ist **kein konkludenter Forderungsverzicht** der Gesellschafter-Glaeubigerin.
+- **OFD Frankfurt a. M., Rundverfuegung vom 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und Vorgaengerverfuegung **OFD Frankfurt a. M. vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**: Der blosse Liquidationsbeschluss ist **kein konkludenter Forderungsverzicht** der Gesellschafter-Gläubigerin.
 - Eine vorzeitige gewinnwirksame Ausbuchung der Verbindlichkeit allein aufgrund des Aufloesungsbeschlusses ist daher unzulaessig.
 
 #### 3.4 Zwischenergebnis Phase 1
@@ -123,8 +123,8 @@ Die zentrale Streitfrage in der Literatur und vor den Finanzgerichten lautet: **
 
 #### 3.8 Vollbeendigung der GmbH
 
-- Mit Ablauf des Sperrjahres (§ 73 Abs. 1 GmbHG), Glaeubigerbefriedigung und Anmeldung der Liquidation beim Registergericht erfolgt die **Loeschung im Handelsregister** (§ 74 GmbHG).
-- Mit Loeschung **erlischt** die GmbH als juristische Person; sie endet als Steuersubjekt nach § 1 KStG (Lehre vom Doppeltatbestand — Vermoegenslosigkeit und Loeschung).
+- Mit Ablauf des Sperrjahres (§ 73 Abs. 1 GmbHG), Gläubigerbefriedigung und Anmeldung der Liquidation beim Registergericht erfolgt die **Loeschung im Handelsregister** (§ 74 GmbHG).
+- Mit Loeschung **erlischt** die GmbH als juristische Person; sie endet als Steuersubjekt nach § 1 KStG (Lehre vom Doppeltatbestand — Vermögenslosigkeit und Loeschung).
 
 #### 3.9 Erloeschen der Verbindlichkeit und der Verlustvortraege
 
@@ -139,7 +139,7 @@ Die Kernaussage der FG-Koeln-Linie:
 
 **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977**, Os. 7 (woertlich).
 
-Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn die Verbindlichkeit bis zur Loeschung passiviert bleibt und erst mit Loeschung entfaellt, gibt es zum Zeitpunkt des Wegfalls kein Steuersubjekt mehr, dem der Ertrag zugerechnet werden koennte.
+Dies ist die **Schlüsselargumentationsfigur** für die Liquidationspraxis: Wenn die Verbindlichkeit bis zur Loeschung passiviert bleibt und erst mit Loeschung entfaellt, gibt es zum Zeitpunkt des Wegfalls kein Steuersubjekt mehr, dem der Ertrag zugerechnet werden koennte.
 
 #### 3.11 Zivilrechtliche Untermauerung
 
@@ -157,7 +157,7 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 ### 4.1 Loeschung im Handelsregister — Voraussetzungen
 
 - **§ 74 GmbHG**: Anmeldung Abschluss der Liquidation, Loeschung der GmbH.
-- **Lehre vom Doppeltatbestand**: Eintragung im HR und tatsaechliche Vermoegenslosigkeit.
+- **Lehre vom Doppeltatbestand**: Eintragung im HR und tatsaechliche Vermögenslosigkeit.
 - Literaturlinie: **Baumbach/Hueck-Haas**, GmbHG, 22. Aufl. 2019, § 74 Rz. 2; **MK-H.-F. Mueller**, GmbHG, 3. Aufl. 2018, § 74 Rz. 3; **Henssler/Strohn-Bueteroewe**, Gesellschaftsrecht, 4. Aufl. 2019, § 74 GmbHG Rz. 3; **BeckOK GmbHG — Lorscheider** (Stand 01.05.2020), § 74 Rz. 3; **Wicke**, GmbHG, 4. Aufl. 2020, § 74 Rz. 2; **von Rintelen**, RNotZ 2017, 185 f.; **Freier**, NZG 2020, 812.
 
 ### 4.2 Steuererklaerung als Vollzugshindernis
@@ -170,8 +170,8 @@ Dies ist die **Schluesselargumentationsfigur** für die Liquidationspraxis: Wenn
 
 ### 4.3 Wann ist die Loeschung trotzdem möglich?
 
-- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**: Vollzugsreife bei eingestelltem Geschaeftsbetrieb trotz offener Steuernachforderungen.
-- **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermoegenslosigkeit nicht durch theoretische Festsetzungsfrist-Aenderung gehindert.
+- **OLG Duesseldorf, Beschl. v. 25.08.2020 — 3 Wx 117/20**: Vollzugsreife bei eingestelltem Geschäftsbetrieb trotz offener Steuernachforderungen.
+- **BGH, Beschl. v. 09.11.2021 — II ZB 1/21, DStR 2022, 162**: Vermögenslosigkeit nicht durch theoretische Festsetzungsfrist-Änderung gehindert.
 
 **Praxisleitlinie:** Vor Anmeldung Loeschung mit FA klären, ob offene Steuererklaerungen oder Erstattungsaussichten bestehen. Bei reinen Nachforderungen ohne Erstattungsaussicht in der Regel Eintragung möglich.
 
@@ -205,7 +205,7 @@ Falls die Verbindlichkeit doch vor Loeschung gewinnwirksam ausgebucht wird (etwa
 
 ### 6.3 Verschmelzung mit Konfusion
 
-- **Up-stream, down-stream, side-stream**: Bei Verschmelzung mit der Gesellschafter-Glaeubigerin entstehen Forderung und Schuld bei einer Person — Konfusion.
+- **Up-stream, down-stream, side-stream**: Bei Verschmelzung mit der Gesellschafter-Gläubigerin entstehen Forderung und Schuld bei einer Person — Konfusion.
 - **Verlustvortrag des uebertragenden Rechtstraegers geht NICHT über** (§ 12 Abs. 3 Hs. 2 i.V.m. § 4 Abs. 2 Satz 2 UmwStG).
 - **§ 8c KStG-Risiko**, ggf. § 8c Abs. 4 / § 8d KStG-Klauseln prüfen.
 - **§ 42 AO**: kein Gestaltungsmissbrauch bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (alte Rechtslage Streitjahr 2008): **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580.** Für Umwandlungen ab 06.06.2013 gilt aber **§ 2 Abs. 4 Saetze 3 ff. UmwStG**.

@@ -36,7 +36,7 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 - Art. 28 II GG.
 - Gemeindeordnungen der Länder.
 
-## Pruefraster
+## Prüfraster
 
 1. Welche Gemeinde?
 2. Welche Verfuegung?

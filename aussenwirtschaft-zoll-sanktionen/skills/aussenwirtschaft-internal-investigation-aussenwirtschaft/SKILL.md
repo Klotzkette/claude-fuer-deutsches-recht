@@ -22,7 +22,7 @@ description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll-
 ## Erste Schritte
 
 1. Legal Hold sofort einrichten: E-Mails, ATLAS-Daten, ERP-Exportdaten, interne Kommunikation sichern.
-2. Untersuchungsauftrag und Untersuchungsrahmen durch Geschaeftsfuehrung oder Aufsichtsrat freigeben.
+2. Untersuchungsauftrag und Untersuchungsrahmen durch Geschäftsführung oder Aufsichtsrat freigeben.
 3. Untersuchungsteam zusammenstellen: externer Rechtsanwalt, interner Compliance, IT-Forensik.
 4. Sachverhaltserstellung durch strukturierte Befragungen und Dokumentenanalyse.
 5. Schadensquantifizierung: Anzahl Verstoesse, Zeitraum, beteiligte Personen, betroffene Gueter und Werte.
@@ -36,7 +36,7 @@ description: "Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll-
 - **§ 14 AWG**: Auskunftspflichten gegenueber Behörden.
 - **DSGVO Art. 6**: Rechtsgrundlage für Mitarbeiterdatenzugriff bei Investigation.
 
-## Pruef-Raster
+## Prüf-Raster
 
 - [ ] Legal Hold umfasst alle relevanten Datenkategorien?
 - [ ] Untersuchungsauftrag schriftlich erteilt und Rahmen definiert?
@@ -68,7 +68,7 @@ Dieser Skill kann mit thematisch benachbarten Skills kombiniert werden, insbeson
 - Quellenstand datiert: Sanktionslisten, TARIC, Gueltigkeitsdaten dokumentiert?
 - Sofortmassnahmen klar: Stop-Ship, Hold, Eskalation explizit benannt wenn Risiko rot?
 - Audit-Trail vollstaendig: Entscheidung, Begruendung, Verantwortlicher, Frist?
-- Output mandantentauglich: Kein Fachwort ohne Erlaeuterung für Compliance und Business?
+- Output mandantentauglich: Kein Fachwort ohne Erläuterung für Compliance und Business?
 - Vertraulichkeit: Mandatsgeheimnisse nicht in ungesicherte externe Systeme eingeben.
 
 ## Quellen

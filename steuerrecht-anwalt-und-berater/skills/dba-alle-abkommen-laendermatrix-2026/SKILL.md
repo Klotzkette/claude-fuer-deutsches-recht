@@ -38,7 +38,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **Matrix als Ausgangspunkt, DBA-Text als Endpunkt**: nie eine Mandantenanfrage allein auf Basis der Matrix beantworten — DBA-Text in der BGBl-II-Fundstelle ist verbindlich. Im Memo immer BGBl-Stelle nennen.
-- **Schnellnavigation auf bundesfinanzministerium.de**: "Internationales Steuerrecht > Doppelbesteuerung > Liste der Staaten mit DBA" — pro Land PDF zum Originaltext + Aenderungsprotokolle + Konsultationsvereinbarungen.
+- **Schnellnavigation auf bundesfinanzministerium.de**: "Internationales Steuerrecht > Doppelbesteuerung > Liste der Staaten mit DBA" — pro Land PDF zum Originaltext + Änderungsprotokolle + Konsultationsvereinbarungen.
 - **MLI-Status getrennt zum DBA prüfen**: OECD-MLI-Matching-Database (oecd.org/tax/treaties/mli-matching-database.htm) zeigt, welche Klauseln des MLI bei einem konkreten DBA durchschlagen. Wirksamkeitsdatum pro Norm separat.
 - **Russland-Suspendierung 30.12.2023**: bis auf weiteres keine BZSt-Entlastung; Memo entsprechend kennzeichnen (siehe `stb-dba-russland-suspendierung-2024`).
 - **VAE und Saudi-Arabien**: kein umfassendes DBA (kuendigung VAE 31.12.2021; Saudi-Arabien nicht im Einkommensteuer-DBA-Netz). Nur Spezialabkommen prüfen.
@@ -79,7 +79,7 @@ Keine Quellensteuersätze, Grenzgängergrenzen, Pensionsschwellen oder MLI-Wirku
 
 - **DBA-Routingblatt**: Staat, Zeitraum, Abkommensart, BGBl-Stelle, MLI-Status, Fortwirkung.
 - **Liste der anzuwendenden Artikel** mit Verweis auf Originaltext.
-- **Noch live zu pruefende Punkte**: BMF-Schreiben, MLI-Notifications, Konsultationsvereinbarungen.
+- **Noch live zu prüfende Punkte**: BMF-Schreiben, MLI-Notifications, Konsultationsvereinbarungen.
 - **Empfohlene Folgeskills** (Hauptpfad + Querskill).
 - **Warnhinweis** bei Sanktionsrechts-Bezug, Suspendierung, Fortgeltung.
 
