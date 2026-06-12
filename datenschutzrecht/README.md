@@ -2,30 +2,6 @@
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Megaprompt (alle Kern-Skills in einer Datei)
-
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
-
-- **Direkt-Download**: [`datenschutzrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/datenschutzrecht.md) (65 KB)
-- Im Repo: [`testakten/megaprompts/datenschutzrecht.md`](../testakten/megaprompts/datenschutzrecht.md)
-
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-### Formatvorlagen (Markdown + ODT)
-
-Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
-
-| Vorlage | Markdown | ODT |
-| --- | --- | --- |
-| Datenschutz Folgenabschaetzung Art 35 Dsgvo | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/datenschutzrecht/datenschutz-folgenabschaetzung-art-35-dsgvo.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/datenschutzrecht/datenschutz-folgenabschaetzung-art-35-dsgvo.odt) |
-
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -617,3 +593,27 @@ Automatisch generierte Komplett-Liste aller 362 Skills in diesem Plugin. Beschre
 | `zeitleiste` | Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO;... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`datenschutzrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/datenschutzrecht.md) (65 KB)
+- Im Repo: [`testakten/megaprompts/datenschutzrecht.md`](../testakten/megaprompts/datenschutzrecht.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+### Formatvorlagen (Markdown + ODT)
+
+Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
+
+| Vorlage | Markdown | ODT |
+| --- | --- | --- |
+| Datenschutz Folgenabschaetzung Art 35 Dsgvo | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/datenschutzrecht/datenschutz-folgenabschaetzung-art-35-dsgvo.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/datenschutzrecht/datenschutz-folgenabschaetzung-art-35-dsgvo.odt) |
+
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

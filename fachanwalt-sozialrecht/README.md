@@ -2,30 +2,6 @@
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Megaprompt (alle Kern-Skills in einer Datei)
-
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
-
-- **Direkt-Download**: [`fachanwalt-sozialrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-sozialrecht.md) (75 KB)
-- Im Repo: [`testakten/megaprompts/fachanwalt-sozialrecht.md`](../testakten/megaprompts/fachanwalt-sozialrecht.md)
-
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-### Formatvorlagen (Markdown + ODT)
-
-Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
-
-| Vorlage | Markdown | ODT |
-| --- | --- | --- |
-| Widerspruch Sozialleistungsbescheid Paragraf 78 Sgg | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-sozialrecht/widerspruch-sozialleistungsbescheid-paragraf-78-sgg.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-sozialrecht/widerspruch-sozialleistungsbescheid-paragraf-78-sgg.odt) |
-
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -219,3 +195,27 @@ Automatisch generierte Komplett-Liste aller 104 Skills in diesem Plugin. Beschre
 | `wohngeld-paragraf-7-wogg` | Wohngeld § 7 WoGG: fachanwaltlicher Spezial-Skill mit Normenanker, Tatsachenmatrix, Beweislast, Fristen, Gegenargumenten und belastbarem Arbeitsprodukt; ohne ungeprüfte Aktenzeichen. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`fachanwalt-sozialrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/fachanwalt-sozialrecht.md) (75 KB)
+- Im Repo: [`testakten/megaprompts/fachanwalt-sozialrecht.md`](../testakten/megaprompts/fachanwalt-sozialrecht.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+### Formatvorlagen (Markdown + ODT)
+
+Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
+
+| Vorlage | Markdown | ODT |
+| --- | --- | --- |
+| Widerspruch Sozialleistungsbescheid Paragraf 78 Sgg | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-sozialrecht/widerspruch-sozialleistungsbescheid-paragraf-78-sgg.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/fachanwalt-sozialrecht/widerspruch-sozialleistungsbescheid-paragraf-78-sgg.odt) |
+
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

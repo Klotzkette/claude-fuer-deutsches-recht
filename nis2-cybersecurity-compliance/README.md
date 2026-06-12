@@ -2,20 +2,6 @@
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Megaprompt (alle Kern-Skills in einer Datei)
-
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
-
-- **Direkt-Download**: [`nis2-cybersecurity-compliance.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/nis2-cybersecurity-compliance.md) (33 KB)
-- Im Repo: [`testakten/megaprompts/nis2-cybersecurity-compliance.md`](../testakten/megaprompts/nis2-cybersecurity-compliance.md)
-
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -175,3 +161,17 @@ Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Beschre
 | `wifi-gaestenetz` | Prüft WLAN, Gästezugang und Segmentierung: Prüft WLAN, Gästezugang und Segmentierung. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`nis2-cybersecurity-compliance.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/nis2-cybersecurity-compliance.md) (33 KB)
+- Im Repo: [`testakten/megaprompts/nis2-cybersecurity-compliance.md`](../testakten/megaprompts/nis2-cybersecurity-compliance.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

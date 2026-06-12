@@ -2,20 +2,6 @@
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Megaprompt (alle Kern-Skills in einer Datei)
-
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
-
-- **Direkt-Download**: [`bundeswehrrecht-wehrrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bundeswehrrecht-wehrrecht.md) (92 KB)
-- Im Repo: [`testakten/megaprompts/bundeswehrrecht-wehrrecht.md`](../testakten/megaprompts/bundeswehrrecht-wehrrecht.md)
-
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -162,3 +148,17 @@ Automatisch generierte Komplett-Liste aller 82 Skills in diesem Plugin. Beschrei
 | `widerruf-ernennung-arglistige-taeuschung` | Widerruf Ernennung arglistige Täuschung: prüft SG §§ 43–44, Widerrufstatbestand, Folgen und Rechtsbehelfe. Norm-/Quellenanker: §§ 43–44 SG, VwVfG § 48 im Bundeswehrrecht Wehrrecht. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`bundeswehrrecht-wehrrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/bundeswehrrecht-wehrrecht.md) (92 KB)
+- Im Repo: [`testakten/megaprompts/bundeswehrrecht-wehrrecht.md`](../testakten/megaprompts/bundeswehrrecht-wehrrecht.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->

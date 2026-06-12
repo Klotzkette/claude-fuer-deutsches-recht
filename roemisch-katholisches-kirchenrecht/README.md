@@ -2,30 +2,6 @@
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Experimentell: dieses Plugin auch ohne Claude Code
-
-### Megaprompt (alle Kern-Skills in einer Datei)
-
-Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
-
-- **Direkt-Download**: [`roemisch-katholisches-kirchenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/roemisch-katholisches-kirchenrecht.md) (65 KB)
-- Im Repo: [`testakten/megaprompts/roemisch-katholisches-kirchenrecht.md`](../testakten/megaprompts/roemisch-katholisches-kirchenrecht.md)
-
-*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
-
-### Formatvorlagen (Markdown + ODT)
-
-Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
-
-| Vorlage | Markdown | ODT |
-| --- | --- | --- |
-| Supplicatio De Dispensatione Can 401 Cic | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.odt) |
-
-*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
@@ -200,3 +176,27 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `zustandigkeit-pfarrei-bistum-offizialat-dikasterium` | Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe: Zuständigkeit: Pfarrei, Bistum, Offizialat, Dikasterium: Fachmodul f... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Experimentell: dieses Plugin auch ohne Claude Code
+
+### Megaprompt (alle Kern-Skills in einer Datei)
+
+Das Plugin gibt es zusaetzlich als **single-file Megaprompt** — ein experimentelles Markdown, das die wichtigsten Skills in einer einzigen Datei buendelt. Drop das in einen Chat ohne Claude-Code-Integration; der Agent erhaelt damit die gebuendelten Skill-Anweisungen.
+
+- **Direkt-Download**: [`roemisch-katholisches-kirchenrecht.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/megaprompts/roemisch-katholisches-kirchenrecht.md) (65 KB)
+- Im Repo: [`testakten/megaprompts/roemisch-katholisches-kirchenrecht.md`](../testakten/megaprompts/roemisch-katholisches-kirchenrecht.md)
+
+*Keine Haftung, keine Gewaehr — Megaprompts sind eine Best-Effort-Kompression, kein vollwertiger Plugin-Ersatz.*
+
+### Formatvorlagen (Markdown + ODT)
+
+Sofort verwendbare Vorlagen (Times Roman 11pt, A4, mit Disclaimer und Feldern in [Klammern]). Markdown zum Lesen / Anpassen, ODT zum Bearbeiten in LibreOffice/Word.
+
+| Vorlage | Markdown | ODT |
+| --- | --- | --- |
+| Supplicatio De Dispensatione Can 401 Cic | [`.md`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.md) | [`.odt`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/testakten/formatvorlagen-paradebeispiele/roemisch-katholisches-kirchenrecht/supplicatio-de-dispensatione-can-401-cic.odt) |
+
+*Experimentelle KI-Vorlagen — keine Haftung. Vor Verwendung im Mandat anwaltlich prüfen und an konkreten Fall anpassen.*
+
+<!-- END megaprompt-und-vorlagen (autogen) -->
