@@ -1,7 +1,20 @@
 {
   "name": "verlagsrecht-buchpreisbindung",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance.",
+  "keywords": [
+    "verlagsrecht",
+    "buchpreisbindung",
+    "verlagsgesetz",
+    "autoren",
+    "herausgebervertraege",
+    "titelschutz",
+    "vertrieb",
+    "e-book",
+    "hoerbuch",
+    "verlagsnahe",
+    "compliance"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

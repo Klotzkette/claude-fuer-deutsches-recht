@@ -1,7 +1,19 @@
 {
   "name": "ki-governance",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
+  "keywords": [
+    "governance",
+    "eu-ki-vo",
+    "dsgvo",
+    "use-case-triage",
+    "ki-inventar",
+    "aia",
+    "dpia",
+    "vendor-review",
+    "drift-monitoring",
+    "ki-richtlinie"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

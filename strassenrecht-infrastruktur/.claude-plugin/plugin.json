@@ -1,7 +1,20 @@
 {
   "name": "strassenrecht-infrastruktur",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung.",
+  "keywords": [
+    "strassenrecht",
+    "infrastruktur",
+    "strassenrecht-plugin",
+    "bundesfernstrassen",
+    "landesstrassen",
+    "gemeindestrassen",
+    "widmung",
+    "planfeststellung",
+    "sondernutzung",
+    "baulast",
+    "erhaltung"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

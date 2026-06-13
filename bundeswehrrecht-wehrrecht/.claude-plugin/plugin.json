@@ -1,7 +1,19 @@
 {
   "name": "bundeswehrrecht-wehrrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung.",
+  "keywords": [
+    "bundeswehrrecht",
+    "wehrrecht",
+    "super-plugin",
+    "soldatenrecht",
+    "wehrbeschwerde",
+    "disziplinarrecht",
+    "wehrpflicht",
+    "reservisten",
+    "versorgung",
+    "bundeswehrverwaltung"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

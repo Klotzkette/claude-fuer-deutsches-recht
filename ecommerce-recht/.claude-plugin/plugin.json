@@ -1,7 +1,16 @@
 {
   "name": "ecommerce-recht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.",
+  "keywords": [
+    "ecommerce",
+    "super-plugin",
+    "online-shops",
+    "plattformen",
+    "marktplaetze",
+    "digitale",
+    "verbraucherprozesse"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

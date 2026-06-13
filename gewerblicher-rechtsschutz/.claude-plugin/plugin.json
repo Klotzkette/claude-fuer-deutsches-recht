@@ -1,7 +1,21 @@
 {
   "name": "gewerblicher-rechtsschutz",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.",
+  "keywords": [
+    "gewerblicher",
+    "rechtsschutz",
+    "dpma",
+    "euipo-markenrecherche",
+    "anmeldung",
+    "freedom-to-operate",
+    "patentscreening",
+    "uwg",
+    "urheberrechts-abmahnung",
+    "versand",
+    "reaktion",
+    "open-source-compliance"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

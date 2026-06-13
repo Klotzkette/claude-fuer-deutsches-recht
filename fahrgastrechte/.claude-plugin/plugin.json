@@ -1,6 +1,6 @@
 {
   "name": "fahrgastrechte",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgruende.",
   "license": "Apache-2.0 OR MIT",
   "author": {

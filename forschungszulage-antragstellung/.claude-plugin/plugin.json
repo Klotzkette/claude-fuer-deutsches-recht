@@ -1,6 +1,6 @@
 {
   "name": "forschungszulage-antragstellung",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.",
   "license": "Apache-2.0 OR MIT",
   "author": {

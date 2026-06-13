@@ -1,7 +1,17 @@
 {
   "name": "factoring-recht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen.",
+  "keywords": [
+    "factoring",
+    "super-plugin",
+    "forderungskauf",
+    "aufsichtsrecht",
+    "vertragsgestaltung",
+    "debitorenkommunikation",
+    "insolvenz",
+    "sanierungsfragen"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

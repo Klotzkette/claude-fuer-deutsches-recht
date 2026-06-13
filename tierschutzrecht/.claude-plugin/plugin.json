@@ -1,7 +1,21 @@
 {
   "name": "tierschutzrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle.",
+  "keywords": [
+    "tierschutzrecht",
+    "tierschutzrecht-plugin",
+    "tierschg",
+    "bgb",
+    "90a",
+    "haltung",
+    "zucht",
+    "transport",
+    "tierversuche",
+    "behoerdenverfahren",
+    "strafrecht",
+    "bussgeld"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

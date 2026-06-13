@@ -1,7 +1,21 @@
 {
   "name": "venture-capital-geber",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik.",
+  "keywords": [
+    "venture",
+    "capital",
+    "geber",
+    "vc-geber-plugin",
+    "venture-capital-investoren",
+    "family",
+    "offices",
+    "angels",
+    "junge",
+    "vcs",
+    "sourcing",
+    "deal-tracking"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

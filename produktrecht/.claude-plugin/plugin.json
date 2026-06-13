@@ -1,8 +1,22 @@
 {
   "name": "produktrecht",
   "displayName": "Produkthaftung und Produktrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.",
+  "keywords": [
+    "produktrecht",
+    "produkthaftung",
+    "produktsicherheit",
+    "gpsr",
+    "prodhaftg",
+    "deliktische",
+    "produzentenhaftung",
+    "right",
+    "repair",
+    "software",
+    "ota-updates",
+    "digitale"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

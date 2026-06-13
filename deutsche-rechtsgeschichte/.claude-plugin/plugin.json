@@ -1,7 +1,21 @@
 {
   "name": "deutsche-rechtsgeschichte",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation.",
+  "keywords": [
+    "rechtsgeschichte",
+    "mega-plugin",
+    "zur",
+    "epochen",
+    "quellenkritik",
+    "rezeption",
+    "reichsrecht",
+    "bgb",
+    "weimar",
+    "ns-unrecht",
+    "ddr",
+    "brd"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

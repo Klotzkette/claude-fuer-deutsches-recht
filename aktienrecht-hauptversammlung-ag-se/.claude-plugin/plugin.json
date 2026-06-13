@@ -1,7 +1,21 @@
 {
   "name": "aktienrecht-hauptversammlung-ag-se",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV.",
+  "keywords": [
+    "aktienrecht",
+    "hauptversammlung",
+    "hauptversammlungs-vorbereiter",
+    "leitfaden-ersteller",
+    "durchfuehrungsplugin",
+    "kleine",
+    "normale",
+    "boersennotierte",
+    "einberufung",
+    "tagesordnung",
+    "virtuelle",
+    "abstimmung"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

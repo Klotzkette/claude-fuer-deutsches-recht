@@ -1,7 +1,21 @@
 {
   "name": "startup-hr-personalabteilung-berlin",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.",
+  "keywords": [
+    "startup",
+    "personalabteilung",
+    "berlin",
+    "personalabteilungs",
+    "hr-operations-plugin",
+    "berliner",
+    "start-up",
+    "beschaeftigten",
+    "arbeitsvertraege",
+    "payroll",
+    "datev-schnittstelle",
+    "personalakten"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

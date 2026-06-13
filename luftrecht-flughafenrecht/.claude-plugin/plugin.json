@@ -1,7 +1,21 @@
 {
   "name": "luftrecht-flughafenrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance.",
+  "keywords": [
+    "luftrecht",
+    "flughafenrecht",
+    "luftrecht-plugin",
+    "luftvg",
+    "luftsig",
+    "lba",
+    "flughaefen",
+    "airlines",
+    "slots",
+    "flugzeugpfandrechte",
+    "beschlagnahme",
+    "insolvenz"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

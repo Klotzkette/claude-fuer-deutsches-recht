@@ -1,7 +1,21 @@
 {
   "name": "roemisches-recht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption.",
+  "keywords": [
+    "roemisches",
+    "mega-plugin",
+    "zum",
+    "roemischen",
+    "zwoelftafelgesetz",
+    "institutionensystem",
+    "sachenrecht",
+    "obligationen",
+    "aktionenrecht",
+    "erbrecht",
+    "juristenrecht",
+    "justinian"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

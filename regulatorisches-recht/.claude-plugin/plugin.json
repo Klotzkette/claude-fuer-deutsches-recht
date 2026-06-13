@@ -1,7 +1,21 @@
 {
   "name": "regulatorisches-recht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.",
+  "keywords": [
+    "regulatorisches",
+    "aufsichtsrecht",
+    "kwg",
+    "zag",
+    "wphg",
+    "gwg",
+    "enwg",
+    "tkg",
+    "heilmwerbg",
+    "umsatzsteuer-voranmeldung",
+    "inkasso",
+    "rdg"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,7 +1,21 @@
 {
   "name": "fashion-law-moderecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen.",
+  "keywords": [
+    "fashion",
+    "law",
+    "moderecht",
+    "praxisplugin",
+    "modeunternehmen",
+    "designer",
+    "haendler",
+    "kanzleien",
+    "designs",
+    "marken",
+    "textilkennzeichnung",
+    "produktsicherheit"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

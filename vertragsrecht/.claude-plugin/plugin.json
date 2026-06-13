@@ -1,7 +1,20 @@
 {
   "name": "vertragsrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.",
+  "keywords": [
+    "vertragsrecht",
+    "lieferanten",
+    "vertriebsvertraege",
+    "agb",
+    "bgb",
+    "nda",
+    "saas",
+    "msa-review",
+    "renewal-tracking",
+    "eskalations-routing",
+    "business-zusammenfassungen"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,7 +1,21 @@
 {
   "name": "seerecht-schifffahrtsrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS.",
+  "keywords": [
+    "seerecht",
+    "schifffahrtsrecht",
+    "see",
+    "schifffahrtsrecht-plugin",
+    "schiffskauf",
+    "schiffbau",
+    "werften",
+    "schiffshypothek",
+    "schiffsregister",
+    "arrest",
+    "wrack",
+    "bergung"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

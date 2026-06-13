@@ -1,7 +1,21 @@
 {
   "name": "informationsfreiheit-presseauskunft",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking.",
+  "keywords": [
+    "informationsfreiheit",
+    "presseauskunft",
+    "ifg",
+    "transparenz",
+    "uig",
+    "vig",
+    "presseauskunfts-plugin",
+    "bund",
+    "laender",
+    "behoerden",
+    "antrag",
+    "kosten"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

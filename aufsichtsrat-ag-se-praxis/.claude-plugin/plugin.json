@@ -1,7 +1,21 @@
 {
   "name": "aufsichtsrat-ag-se-praxis",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.",
+  "keywords": [
+    "aufsichtsrat",
+    "praxis",
+    "praxisplugin",
+    "aufsichtsraete",
+    "ueberwachung",
+    "informationsrechte",
+    "vorstand",
+    "bestellen",
+    "abberufen",
+    "verguetung",
+    "ausschuesse",
+    "protokoll"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

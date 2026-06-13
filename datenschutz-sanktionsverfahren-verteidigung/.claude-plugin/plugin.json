@@ -1,7 +1,21 @@
 {
   "name": "datenschutz-sanktionsverfahren-verteidigung",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie.",
+  "keywords": [
+    "datenschutz",
+    "sanktionsverfahren",
+    "verteidigung",
+    "spezialplugin",
+    "vertretung",
+    "datenschutzrechtlichen",
+    "dsgvo-bussgeld",
+    "owig",
+    "stpo",
+    "art",
+    "58-anordnung",
+    "verwaltungsgericht"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

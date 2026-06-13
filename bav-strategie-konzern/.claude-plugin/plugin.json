@@ -1,8 +1,22 @@
 {
   "name": "bav-strategie-konzern",
   "displayName": "Betriebliche Altersversorgung Strategie Konzern",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer Boutique-Stil.",
+  "keywords": [
+    "bav",
+    "strategie",
+    "konzern",
+    "strategische",
+    "beratung",
+    "zur",
+    "betrieblichen",
+    "altersversorgung",
+    "konzernen",
+    "pensionsmodelle",
+    "alle",
+    "fuenf"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,7 +1,20 @@
 {
   "name": "oeffentliches-wirtschaftsrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung.",
+  "keywords": [
+    "oeffentliches",
+    "wirtschaftsrecht",
+    "oeffentliches-wirtschaftsrecht-plugin",
+    "scheinprivatisierung",
+    "oepp",
+    "projektfinanzierung",
+    "kommunale",
+    "unternehmen",
+    "beihilfen",
+    "vergabe",
+    "regulierung"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

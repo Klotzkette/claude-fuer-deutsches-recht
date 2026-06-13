@@ -1,7 +1,21 @@
 {
   "name": "haushaltsrecht-bho-bund-laender",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard.",
+  "keywords": [
+    "haushaltsrecht",
+    "bho",
+    "bund",
+    "laender",
+    "grosses",
+    "haushaltsrecht-plugin",
+    "hgrg",
+    "bundeshaushalt",
+    "laenderhaushalte",
+    "titelanalyse",
+    "umschichtung",
+    "sondervermoegen"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

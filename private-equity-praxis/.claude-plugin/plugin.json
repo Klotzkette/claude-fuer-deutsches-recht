@@ -1,7 +1,21 @@
 {
   "name": "private-equity-praxis",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed.",
+  "keywords": [
+    "private",
+    "equity",
+    "praxis",
+    "private-equity-praxis-plugin",
+    "kanzleien",
+    "investoren",
+    "fonds",
+    "family",
+    "offices",
+    "unternehmen",
+    "fund",
+    "formation"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,7 +1,21 @@
 {
   "name": "arbeitsrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Arbeitsrechtliche Workflows fuer Kuendigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
+  "keywords": [
+    "arbeitsrecht",
+    "arbeitsrechtliche",
+    "workflows",
+    "kuendigung",
+    "befristung",
+    "urlaub",
+    "agg",
+    "aufhebungsvertrag",
+    "betriebsrat",
+    "arbeitszeit",
+    "lohn",
+    "expansion"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

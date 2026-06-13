@@ -1,6 +1,6 @@
 {
   "name": "barrierefreiheit-web-checker",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.",
   "license": "Apache-2.0 OR MIT",
   "author": {

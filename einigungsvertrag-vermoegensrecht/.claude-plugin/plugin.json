@@ -1,7 +1,21 @@
 {
   "name": "einigungsvertrag-vermoegensrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution.",
+  "keywords": [
+    "einigungsvertrag",
+    "vermoegensrecht",
+    "einigungsvertrag-plugin",
+    "ddr",
+    "brd-uebergangsrecht",
+    "volksvermoegen",
+    "parteivermoegen",
+    "treuhand",
+    "bodenreform",
+    "mauergrundstuecke",
+    "vermg",
+    "restitution"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -1,7 +1,7 @@
 # Testbericht — Klotzkette German Legal Skills
 
-**Erstellt:** 2026-06-12
-**Arbeitsstand:** v311.0.0 / Pflege-Release über v310 — Validator-Fix (Release-Workflow), Megaprompt-Cleanup (Disclaimer raus, README-Block ans Ende), Konsistenzkorrekturen Testakten-Zahl. Keine inhaltlichen Skill-Änderungen. 213 Plugins, 20.908 Skills, 204 Testakten.
+**Erstellt:** 2026-06-14
+**Arbeitsstand:** v315.0.0 / Veredelungs-Release über v314 (Welle 4) — fehlende `keywords` in 72 Plugin-Manifests automatisch ergänzt (Umlaut-safe), `validate-yaml-frontmatter.py` parallelisiert (rund 47 % schneller), neue `CODEX.md` mit verbindlichen Schutzhinweisen für automatisierte Aufräumarbeiten. Keine Skill-Inhalte geändert. 213 Plugins, 20.908 Skills, 204 Testakten.
 **Plugins gesamt:** 213
 **Skills gesamt:** 20908
 **Testakten gesamt:** 204 (zzgl. 2 Hilfsmaterial-Verzeichnisse: `formatvorlagen-paradebeispiele`, `megaprompts`)

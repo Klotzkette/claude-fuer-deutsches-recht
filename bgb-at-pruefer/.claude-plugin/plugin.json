@@ -1,8 +1,22 @@
 {
   "name": "bgb-at-pruefer",
   "displayName": "BGB AT Prüfer",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.",
+  "keywords": [
+    "bgb",
+    "pruefer",
+    "grosses",
+    "pruefplugin",
+    "zum",
+    "allgemeiner",
+    "teil",
+    "vertragsschluss",
+    "willenserklaerung",
+    "zugang",
+    "geschaeftsfaehigkeit",
+    "form"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

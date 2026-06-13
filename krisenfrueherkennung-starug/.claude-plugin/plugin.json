@@ -1,8 +1,22 @@
 {
   "name": "krisenfrueherkennung-starug",
   "displayName": "Krisenfrüherkennung und StaRUG-Management",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.",
+  "keywords": [
+    "krisenfrueherkennung",
+    "starug",
+    "krisenmanagement",
+    "nach",
+    "pflicht",
+    "zum",
+    "24-monats-fruehwarnsystem",
+    "warnpflicht",
+    "berater",
+    "geschaeftsfuehrerhaftung",
+    "drohende",
+    "zahlungsunfaehigkeit"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

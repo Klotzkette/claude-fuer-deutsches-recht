@@ -1,7 +1,21 @@
 {
   "name": "datenschutzrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.",
+  "keywords": [
+    "datenschutzrecht",
+    "dsgvo",
+    "bdsg",
+    "tdddg",
+    "pia",
+    "dpia",
+    "avv-review",
+    "auskunft",
+    "art",
+    "datenpanne",
+    "drittlandstransfer",
+    "inkl"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

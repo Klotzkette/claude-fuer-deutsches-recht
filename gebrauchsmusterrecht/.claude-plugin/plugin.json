@@ -1,7 +1,21 @@
 {
   "name": "gebrauchsmusterrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.",
+  "keywords": [
+    "gebrauchsmusterrecht",
+    "eigenstaendiges",
+    "gebrmg",
+    "dpma-anmeldung",
+    "recherche",
+    "nach",
+    "abzweigung",
+    "neuheitsschonfrist",
+    "verletzung",
+    "loeschung",
+    "bpatg-beschwerde",
+    "lizenz"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

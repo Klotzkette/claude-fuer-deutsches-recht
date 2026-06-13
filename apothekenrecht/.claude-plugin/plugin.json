@@ -1,7 +1,19 @@
 {
   "name": "apothekenrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance.",
+  "keywords": [
+    "apothekenrecht",
+    "super-plugin",
+    "betriebserlaubnis",
+    "apbetro",
+    "versand",
+    "e-rezept",
+    "btm",
+    "retaxation",
+    "aufsicht",
+    "compliance"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

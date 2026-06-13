@@ -1,7 +1,21 @@
 {
   "name": "datenbankrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, Scraping, API, KI-Training, Vertrags- und Plattformkonflikte.",
+  "keywords": [
+    "datenbankrecht",
+    "grosses",
+    "zum",
+    "europaeischen",
+    "urhg",
+    "87a",
+    "datenbankrichtlinie",
+    "investitionsschutz",
+    "scraping",
+    "api",
+    "ki-training",
+    "vertrags"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

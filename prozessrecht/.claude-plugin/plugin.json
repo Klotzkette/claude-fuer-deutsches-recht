@@ -1,7 +1,17 @@
 {
   "name": "prozessrecht",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.",
+  "keywords": [
+    "prozessrecht",
+    "prozessrechtliche",
+    "mandate",
+    "fristen",
+    "mahnbescheid",
+    "eilverfahren",
+    "vollstreckung",
+    "schriftsaetze"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

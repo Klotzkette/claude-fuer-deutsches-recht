@@ -1,3 +1,41 @@
+# v315.0.0 — Veredelung: Plugin-Keywords vervollständigt, Validator beschleunigt, Codex-Schutzhinweise
+
+Veredelungs-Release über v314 (Welle 4). Keine Skill-Inhalte geändert, keine Plugin-Strukturen umgebaut.
+
+## Plugin-Manifests: fehlende `keywords` aufgefüllt
+
+- 72 von 213 `plugin.json`-Dateien hatten kein `keywords`-Feld. Sie sind jetzt mit jeweils 6 bis 12 Keywords ausgestattet, abgeleitet aus Plugin-Slug und Description.
+- Neuer idempotenter Generator `scripts/fill-missing-plugin-keywords.py` mit Umlaut-sicherem Tokenizer (äöüß → ae/oe/ue/ss), damit keine Wortstümpfe wie `hrung` oder `rsennotierte` entstehen.
+- Plugins mit bereits vorhandenen `keywords` (141 Stück) bleiben unverändert.
+
+## Validator-Performance
+
+- `scripts/validate-yaml-frontmatter.py` wurde auf `multiprocessing.Pool` umgestellt. Bei 20.908 Skill-Dateien: rund 47 % schneller (5,5 s → 2,9 s auf Standardhardware). Workflow-CI profitiert direkt.
+- Logik unverändert; alle bisherigen Fehler- und Warn-Fälle weiterhin abgedeckt. `ALLOWED_FIELDS`, `FORBIDDEN_FIELDS`, `NAME_RE`, `XML_TAG_RE`, `COMMA_NUMBER_RE` jetzt sauber als Modul-Konstanten.
+
+## Neue Datei `CODEX.md` — Schutzhinweise für automatisierte Läufe
+
+- Top-Level-Hinweis-Datei für Codex, Claude Code und vergleichbare automatisierte Agenten.
+- Listet explizit, was nicht gelöscht oder geleert werden darf: Hilfsmaterial unter `testakten/formatvorlagen-paradebeispiele/` und `testakten/megaprompts/`, Index-Dokumente, Wartungs-Scripts, Plugin-Hilfsdateien wie `0_setup-cowork3p-eu-gateway/`.
+- Verbindliche Regeln für Commits (Author-Identität Klotzkette, keine AI/Codex/Claude-Tags), Validator-Pflichtlauf vor Push, Versions-Bump-Konsistenz, Tag-Workflow.
+
+## Kennzahlen
+
+| Kennzahl | Wert |
+|---|---:|
+| Plugins | 213 |
+| Skills (SKILL.md) | 20.908 |
+| Testakten (mit gesamt-pdf) | 204 |
+| Plugins mit `keywords` | 213 (vorher 141) |
+
+## Validatoren
+
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen (jetzt parallel)
+- `validate-plugin-structure.mjs`: OK
+- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+
+---
+
 # v314.0.0 — Welle 4: Megaprompts für alle Plugins + Link-Hygiene
 
 ## Megaprompts jetzt für alle 213 Plugins

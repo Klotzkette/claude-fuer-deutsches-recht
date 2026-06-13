@@ -1,7 +1,21 @@
 {
   "name": "kommunalrecht-laender",
-  "version": "314.0.0",
+  "version": "315.0.0",
   "description": "Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht.",
+  "keywords": [
+    "kommunalrecht",
+    "laender",
+    "grosses",
+    "kommunalrecht-plugin",
+    "gemeinden",
+    "staedte",
+    "landkreise",
+    "satzungen",
+    "raete",
+    "buergerbegehren",
+    "kommunalfinanzen",
+    "aufsicht"
+  ],
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
