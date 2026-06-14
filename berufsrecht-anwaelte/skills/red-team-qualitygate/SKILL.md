@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Anwälte; prüft prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
+description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Anwälte; prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Anwaelte."
 ---
 
 # Red-Team-Qualitygate

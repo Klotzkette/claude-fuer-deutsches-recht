@@ -1,6 +1,6 @@
 ---
 name: red-team-qualitygate
-description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Steuerberater; prüft prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
+description: "Red-Team-Qualitygate: vertiefter Berufsrechts-Skill für Steuerberater; prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung im Berufsrecht Steuerberater."
 ---
 
 # Red-Team-Qualitygate

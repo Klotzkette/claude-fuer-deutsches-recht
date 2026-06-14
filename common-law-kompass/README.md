@@ -140,7 +140,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Beschrei
 | `suretyship-schriftsatz-brief-und-memo-bausteine` | Suretyship: Schriftsatz-, Brief- und Memo-Bausteine. |
 | `ucc-sales-goods` | Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warran... |
 | `unterlagen-luecken` | Lücken- und Beschaffungsliste für Common Law Kompass: trennt fehlende Tatsachen von fehlenden Belegen (Pleadings, Discovery requests, Affidavits), nennt pro Lücke Beweisthema, Beschaffungsweg (UK Supreme Court, US Supreme Court), Frist u... |
-| `us-vs-uk-drafting` | Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Kon... |
+| `us-vs-uk-drafting` | Anwalt muss zwischen British English, English Law, US contract style, Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-... |
 | `vertragsbegriffe-risikoampel-und-gegenargumente` | Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien. |
 | `wirtschaftsjuristen-tatbestand-beweis-und-belege` | Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen im Common Law Kompass. |

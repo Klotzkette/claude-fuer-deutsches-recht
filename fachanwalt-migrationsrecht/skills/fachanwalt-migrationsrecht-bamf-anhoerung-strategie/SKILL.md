@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-bamf-anhoerung-strategie
-description: "Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG AufenthG Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst."
+description: "Anwalt bereitet Behoerdenkommunikation BAMF-Anhoerung oder Visumverfahren vor und braucht Strategierahmen. Prüfraster BAMF-Anhoerungsvorbereitung Mandanten-Kommunikation Korrespondenz Auslaenderbehoerde § 25 AufenthG Botschaftsanfragen Familiennachzug. Normen § 25 AsylG Anhoerungsrecht § 25 AufenthG, Visumverfahren. Output Kommunikations-Strategie-Memo Behoerdenkorrespondenz-Muster Anhoerungsvorbereitungs-Checkliste. Abgrenzung: asyl-anhoerung-vorbereiten für Mandanten-Vorbereitung selbst."
 ---
 
 # BAMF-Anhörung / Ausländerbehörde-Kommunikation
