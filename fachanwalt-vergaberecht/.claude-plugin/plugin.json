@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-vergaberecht",
-  "version": "326.0.0",
+  "version": "327.0.0",
   "description": "Plugin Fachanwalt für Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und Foerdermittel.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "staatsanwaltschaft-praxis-einstieg",
-  "version": "326.0.0",
+  "version": "327.0.0",
   "description": "Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
   "license": "Apache-2.0 OR MIT",
   "author": {

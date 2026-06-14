@@ -1,6 +1,6 @@
 {
   "name": "bank-rechtsabteilung",
-  "version": "326.0.0",
+  "version": "327.0.0",
   "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

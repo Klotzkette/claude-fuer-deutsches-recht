@@ -1,7 +1,7 @@
 {
   "name": "bgb-bt-pruefer",
   "displayName": "BGB BT Prüfer",
-  "version": "326.0.0",
+  "version": "327.0.0",
   "description": "Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

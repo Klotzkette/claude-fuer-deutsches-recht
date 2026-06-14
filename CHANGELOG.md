@@ -1,3 +1,33 @@
+# v327.0.0 — Sanity: doppelte Wörter in SKILL-Descriptions
+
+Reines Hygiene-Release nach v326. Keine Skill-Inhalte oder Funktionalität geändert. Versions-Bump für eine saubere Release-Reihe.
+
+## Was
+
+Elf echte Wortdoppelungen in `description`-Frontmattern korrigiert. Die Doppelungen waren in den Marketplace-Listings, README-Tabellen und Skill-Index-Seiten direkt sichtbar.
+
+- 6x `prüft prüft` → `prüft` in `berufsrecht-*/red-team-qualitygate` (anwaelte, notare, patentanwaelte, steuerberater, wirtschaftspruefer, berufsgerichtliche-verfahren-freie-berufe)
+- 2x `Streik Streik` → `Streik, Streik` in `fluggastrechte/airline-standardausreden-*`
+- 1x `Anträge Anträge` → `Anträge` in `selbstvertreter-amtsgericht/terminvorbereitung-checkliste`
+- 1x `AufenthG AufenthG` → `AufenthG` in `fachanwalt-migrationsrecht/bamf-anhoerung-strategie`
+- 1x `English English` → `English, English` in `common-law-kompass/us-vs-uk-drafting`
+
+READMEs und `skills-index/` über `scripts/generate-skills-overview.py` und `scripts/generate-skills-md.py` regeneriert.
+
+## Validatoren
+
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-plugin-structure.mjs`: OK
+- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+
+## Kennzahlen
+
+- Plugins: 213
+- Skills: 25.639
+- Testakten: 206 (zzgl. 2 Hilfsmaterial-Verzeichnisse)
+
+---
+
 # v326.0.0 — Schlussgang: ASCII-Umlaute in plugin.json- und marketplace.json-Descriptions
 
 Im Anschluss an die Codex-Releases v320 bis v325 (Worktree-Salvage, Skill-Qualitätssanierung, Megaprompt-Sanity, Listings-Härtung) hat dieser Schlussgang einen verbleibenden Umlaut-Hygienemangel adressiert.
