@@ -1,3 +1,28 @@
+# v328.0.0 — Manifest-Top-Level-Version synchronisiert
+
+Fix nach v327: Beim v327-Bump war zwar in `.claude-plugin/marketplace.json` jede Plugin-Eintrag-Version auf 327.0.0 hochgezogen, die **Top-Level-`version`** des Manifests selbst blieb aber auf `326.0.0`. Da `scripts/generate-skills-md.py` und `scripts/generate-skills-overview.py` ihre Stand-Angabe aus genau diesem Top-Level-Feld lesen, zeigten `SKILLS.md` und alle 213 Seiten unter `skills-index/` weiterhin v326, während `README.md` und `skills-index/README.md` schon v327 nannten.
+
+## Was
+
+- `.claude-plugin/marketplace.json`: Top-Level `version` auf `328.0.0` und alle 213 Plugin-Einträge auf `328.0.0`.
+- 213 `plugin.json`: auf `328.0.0`.
+- `README.md`, `skills-index/README.md`, `testakten/README.md`: Stand-Angabe auf `v328.0.0`.
+- `SKILLS.md` und alle 213 `skills-index/*.md` Detailseiten neu generiert (`generate-skills-md.py`, `generate-skills-overview.py`) — jetzt mit korrekt synchronisierter Versionsangabe aus dem Manifest.
+
+## Validatoren
+
+- `validate-yaml-frontmatter.py`: 0 Fehler, 0 Warnungen
+- `validate-plugin-structure.mjs`: OK
+- `validate-testakten-gesamt-pdf.py`: OK (204 Testakten)
+
+## Kennzahlen
+
+- Plugins: 213
+- Skills: 25.639
+- Testakten: 206 (zzgl. 2 Hilfsmaterial-Verzeichnisse)
+
+---
+
 # v327.0.0 — Sanity: doppelte Wörter in SKILL-Descriptions
 
 Reines Hygiene-Release nach v326. Keine Skill-Inhalte oder Funktionalität geändert. Versions-Bump für eine saubere Release-Reihe.

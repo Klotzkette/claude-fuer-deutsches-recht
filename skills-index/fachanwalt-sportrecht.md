@@ -1,6 +1,6 @@
 # fachanwalt-sportrecht
 
-**77 Skills** · Stand `v326.0.0`
+**77 Skills** · Stand `v328.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-sportrecht/README.md)

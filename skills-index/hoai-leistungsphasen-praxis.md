@@ -1,6 +1,6 @@
 # hoai-leistungsphasen-praxis
 
-**388 Skills** · Stand `v326.0.0`
+**388 Skills** · Stand `v328.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/README.md)

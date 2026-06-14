@@ -1,6 +1,6 @@
 {
   "name": "vereinsrecht-vereinsmanager",
-  "version": "327.0.0",
+  "version": "328.0.0",
   "description": "Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine.",
   "license": "Apache-2.0 OR MIT",
   "author": {

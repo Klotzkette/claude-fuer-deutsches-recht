@@ -1,6 +1,6 @@
 {
   "name": "normenkontrollrat-nkr",
-  "version": "327.0.0",
+  "version": "328.0.0",
   "description": "Plugin für den Nationalen Normenkontrollrat (NKR): Prüfung von Referentenentwuerfen Formulierungshilfen und Gesetzentwuerfen auf Erfuellungsaufwand Erforderlichkeit Verhältnismäßigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilitaet im Vollzug.",
   "license": "Apache-2.0 OR MIT",
   "author": {

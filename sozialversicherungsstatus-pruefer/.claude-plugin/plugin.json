@@ -1,6 +1,6 @@
 {
   "name": "sozialversicherungsstatus-pruefer",
-  "version": "327.0.0",
+  "version": "328.0.0",
   "description": "Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit.",
   "license": "Apache-2.0 OR MIT",
   "author": {

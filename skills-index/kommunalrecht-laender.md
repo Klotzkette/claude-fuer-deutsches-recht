@@ -1,6 +1,6 @@
 # kommunalrecht-laender
 
-**176 Skills** · Stand `v326.0.0`
+**176 Skills** · Stand `v328.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kommunalrecht-laender/README.md)
