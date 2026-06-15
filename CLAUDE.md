@@ -88,10 +88,12 @@ Diese Regel gilt **ausnahmslos und für alle Zeiten** für jede Vorlage, jeden V
 - Pull Requests in diesem Repo werden **nicht als Draft** erstellt, sondern direkt als „ready" und nach Push **sofort auf `main` gemerged** — es sei denn, der Nutzer fordert ausdrücklich einen Draft oder eine Review-Pause.
 - Merges erfolgen per Merge-Commit (kein Squash, kein Rebase), damit die Entwicklungs-History pro Branch erhalten bleibt.
 - Force-Push auf `main` oder gemeinsame Branches ist verboten.
-- **Codex-Review verbindlich anstoßen — nicht blockierend.** Der Workflow je PR ist exakt:
+- **Codex-Review verbindlich anstoßen — nicht blockierend.** Der Standard-Workflow je PR (greift **nur**, wenn der Nutzer nicht ausdrücklich einen Draft oder eine Review-Pause angefordert hat — siehe vorstehende Regel) ist exakt:
   1. PR erzeugen (`mcp__github__create_pull_request`, `draft: false`).
   2. Direkt im Anschluss einen Kommentar mit dem Inhalt `@codex review` posten (`mcp__github__add_issue_comment`).
   3. **Sofort** mergen (`mcp__github__merge_pull_request`, `merge_method: merge`) — **nicht** auf Codex' Antwort warten.
+
+  Bei einem vom Nutzer angeforderten Draft- oder Review-Pause-PR: PR mit `draft: true` erzeugen, **nicht** automatisch mergen, und auf das Go des Nutzers warten. Der `@codex review`-Kommentar darf trotzdem gepostet werden, sobald der PR ready wird.
 
   Codex läuft im Hintergrund weiter und kommentiert später. Etwaige Findings werden — falls überhaupt nötig — in einem Folge-PR adressiert. Ziel ist eine durchgehende Audit-Spur ohne dass der Workflow blockiert wird. Diese Regel gilt **ausnahmslos für jeden PR**, unabhängig vom erzeugenden Werkzeug (Claude, Perplexity, Codex oder andere).
 
