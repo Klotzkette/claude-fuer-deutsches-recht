@@ -224,6 +224,10 @@ Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
 - **Belege:** Mindestens zwei einschlägige BGH-Entscheidungen mit Randnummer
  aus offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de), IDW S 11.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiel
 
 **Sachverhalt:** Geschäftsführer Müller der Müller Handels-GmbH erkennt am

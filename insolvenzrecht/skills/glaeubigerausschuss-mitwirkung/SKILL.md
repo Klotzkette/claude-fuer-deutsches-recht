@@ -218,6 +218,10 @@ Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewä
 - Frist im Fristenbuch (Sitzungs-Termine)
 - Bei Konflikt: Strategie-Memo
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - InsO §§ 22a 59 67–73 156 160 175 270 270d

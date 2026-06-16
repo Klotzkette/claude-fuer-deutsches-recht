@@ -49,6 +49,10 @@ Grundsaetzlich keine private Beteiligung. Ausnahme § 108 Abs. 1 Nr. 3 GWB: best
 - Vertragsmodul Inhouse oder horizontale Kooperation.
 - Monitoring-Konzept (Marktanteil, Kontrollstruktur).
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 EuGH-Linie (Teckal, Carbotermo, Hamburg-Stadtreinigung, Datenlotsen) und neuere BGH/OLG-Entscheidungen vor Ausgabe ueber curia.europa.eu und dejure.org verifizieren.
 

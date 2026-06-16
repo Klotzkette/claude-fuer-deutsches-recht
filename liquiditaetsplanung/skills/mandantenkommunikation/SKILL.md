@@ -20,3 +20,8 @@ Formuliere eine klare, entscheidungsfähige Kommunikation zur Liquiditätslage. 
 ## Ausgabe
 
 Erzeuge eine kurze Mail oder Entscheidungsvorlage: Datenstand, Liquiditätslücke, 13-Wochen-Sicht, rote Zahlungen, Annahmen, offene Unterlagen, Entscheidung bis Datum, Haftungswarnung in sachlichem Ton.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

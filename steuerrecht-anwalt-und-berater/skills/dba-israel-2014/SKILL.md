@@ -151,6 +151,10 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 6. **Risiken / offene Punkte**: Aliyah-Status 10 Jahre, Preferred Enterprise-Sondersteuer, MLI-Status.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenpflicht
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Israel 2014 Fundstellen, BMF-Schreiben verbindlich zitieren.

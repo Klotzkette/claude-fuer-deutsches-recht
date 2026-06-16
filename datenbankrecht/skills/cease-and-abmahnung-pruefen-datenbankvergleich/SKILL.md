@@ -63,6 +63,10 @@ description: "Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht nach § 97a 
 - Abmahnung-Prüfcheckliste für Empfänger (Berechtigung, Vollständigkeit, Fristen)
 - Antwortschreiben auf Abmahnung (Unterzeichnung / Widerspruch / modifizierte Erklärung)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - [§ 97a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/97a.html)

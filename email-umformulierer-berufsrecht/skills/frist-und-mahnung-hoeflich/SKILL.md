@@ -71,6 +71,10 @@ Mit freundlichen Gruessen
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Die drei Mahnstufen
 
 **Erste Erinnerung:** Freundlicher Hinweis, dass eine Leistung oder Rückmeldung noch aussteht. Kein Vorwurf, keine Mahnung im Rechtssinne. Beispiel: "Ich möchte Sie freundlich daran erinnern, dass die Übersendung der Unterlagen nach unserer Vereinbarung bis zum TT.MM.JJJJ vorgesehen war. Falls Verzögerungen eingetreten sind, bitte ich um kurze Nachricht."

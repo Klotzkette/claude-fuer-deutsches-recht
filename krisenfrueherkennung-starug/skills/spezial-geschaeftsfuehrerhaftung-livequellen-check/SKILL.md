@@ -41,6 +41,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Haftungstatbestände Geschäftsführer in Krise und Insolvenz
 - **§ 43 GmbHG / § 93 AktG:** Sorgfaltspflichtverletzung, Innenhaftung; in der Krise: Verletzung der Krisenfrüherkennungspflicht aus § 1 StaRUG (Stand prüfen).
 - **§ 15a InsO:** Antragspflicht binnen Höchstfrist drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung; vorsätzliche Verletzung strafbar nach § 15a Abs. 4 InsO, fahrlässige nach § 15a Abs. 5 InsO.

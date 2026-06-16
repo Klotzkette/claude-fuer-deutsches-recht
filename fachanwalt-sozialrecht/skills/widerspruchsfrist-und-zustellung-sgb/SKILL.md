@@ -178,6 +178,10 @@ description: "Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob u
 - Eilantrag-Vorbereitung wenn existenzbedrohlich
 - Frist im Fristenbuch (Klage-Frist nach Widerspruchsbescheid)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - SGB X §§ 37 65

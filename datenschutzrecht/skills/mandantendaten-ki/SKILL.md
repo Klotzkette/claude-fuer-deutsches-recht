@@ -84,6 +84,10 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - **TIA-Grundgerüst**: Länderspezifische Risikoeinschätzung für Drittlandtransfers.
 - **Geheimhaltungsverpflichtung** (Vorlage): Vertragsmuster für mitwirkende Personen nach § 203 Abs. 3 Satz 2 StGB.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiel
 
 **Sachverhalt**: Rechtsanwalt R möchte einen US-amerikanischen KI-Dienst (Serverstandort: Virginia, USA) für die Analyse von Vertragsunterlagen aus einem laufenden M&A-Mandat nutzen. Der Anbieter schließt in seinen AGB "Training mit Nutzerdaten nicht aus".

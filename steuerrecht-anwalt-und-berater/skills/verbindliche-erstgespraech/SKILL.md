@@ -165,6 +165,10 @@ Präzise Fragen z. B.:
 - Anlagenkonvolut
 - Eintrag im Postausgang
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Versand
 
 Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.

@@ -67,6 +67,10 @@ Steuert den **Erstkontakt** mit einem Krankenversicherungsproblem. Er stellt sic
 | Laienerklärung | Versicherter versteht Bescheid nicht |
 | Checkliste nächste Schritte | Erstberatung, Prioritäten noch unklar |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen und Normen
 
 - [§ 31 SGB X – Verwaltungsakt](https://www.gesetze-im-internet.de/sgb_10/__31.html)

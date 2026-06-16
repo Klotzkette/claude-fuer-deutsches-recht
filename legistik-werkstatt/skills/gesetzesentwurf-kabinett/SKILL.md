@@ -86,6 +86,10 @@ Art. 65 GG (Ressortprinzip) — Art. 76 GG (Einbringung Bundesgesetze) — §§ 
 
 Vollständige Mappe mit allen 14 Bestandteilen als getrennte Dateien plus Inhaltsverzeichnis.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Anschluss
 
 Nach Kabinettsbeschluss: Einbringung in den Bundestag oder Bundesrat (Bundesregierung wählt erste Lesung - Bundestag oder Bundesrat).

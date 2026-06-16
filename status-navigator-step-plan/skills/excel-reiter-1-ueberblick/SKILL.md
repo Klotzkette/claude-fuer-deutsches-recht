@@ -15,3 +15,8 @@ LausitzStorage Reiter 1: 28 Zeilen über 4 Cluster, davon 4 rot (NordCap-Drawsto
 - Reiter 1 als Master-Index mit Querverweis in jede Detailpruefung
 - Cluster-Gesamtstatuszeile je Vertragsebene
 - Spalte Querverweis zu Reiter 2/3/4
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

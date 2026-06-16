@@ -74,6 +74,10 @@ Dokumentation: Selbstreinigungs-Memo mit Belegen zu allen drei Pflichten. Wirkun
 - Sperraufhebungs-Antragsentwurf an Auftraggeber.
 - Compliance-Massnahmenkatalog.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 EuGH-Linie zu Selbstreinigung (z. B. C-41/18 Meca, C-267/18 Delta Antrepriza) vor Ausgabe ueber curia.europa.eu verifizieren.
 

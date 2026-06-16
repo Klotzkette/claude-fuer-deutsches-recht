@@ -158,6 +158,10 @@ Pro Verbesserungsvorschlag ein Patch-Block mit:
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Verhandlungsschwere (1–3)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiel (Auszug Memo)
 
 > **Mandat:** Prüfung des Master Services Agreement zwischen X-Bank AG (CRR-Institut, BaFin-Aufsicht) und CloudCo Inc. (SaaS, Kernbanken-Modul). Funktionsklassifikation: **kritisch oder wichtig** i. S. v. Art. 28 II DORA.

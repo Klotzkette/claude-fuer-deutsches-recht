@@ -42,5 +42,9 @@ Dieser Arbeitsgang macht **Output wählen** im Bereich **datenschutzrecht** sofo
 - **Datenschutzhinweise** nach Art. 13/14 DSGVO mit allen Pflichtangaben.
 - **Drittlandstransfer-Doku**: SCC-Modul-Auswahl + TIA + ggf. supplementary measures.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Praxis-Tipp
 Bei einer Datenpannenmeldung nach Art. 33 stets das Online-Meldeformular der zuständigen Behörde (z. B. BfDI-Meldeportal, LDI NRW-Formular) verwenden und parallel intern eine Aktennotiz mit Zeitlinie führen — die 72-Stunden-Frist verläuft schnell, eine spätere Rekonstruktion ist mühsam.

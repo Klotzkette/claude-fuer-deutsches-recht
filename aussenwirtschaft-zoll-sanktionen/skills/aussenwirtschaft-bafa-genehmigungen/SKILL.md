@@ -41,6 +41,10 @@ Dieser Skill übersetzt Prüfungsergebnisse in behördenfähige Anträge und Anl
 - behörden- oder mandantenfähiger Entwurf
 - Review-Liste für Berufsträger, Compliance, Zoll, Steuer und Geschäftsleitung
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Typische Fehler vermeiden
 
 - Keine Sanktionsentscheidung ohne aktuelle Quellenprüfung und Trefferlog.

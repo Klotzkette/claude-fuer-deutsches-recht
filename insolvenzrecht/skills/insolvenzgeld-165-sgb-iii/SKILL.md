@@ -328,6 +328,10 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 - Vor-Finanzierungs-Beratung
 - Frist im Fristenbuch (zwei Monate Antrag, ein Monat Widerspruch, ein Monat Klage)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - SGB III §§ 165 167 169 170 173 324

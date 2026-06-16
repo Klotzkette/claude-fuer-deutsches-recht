@@ -113,6 +113,10 @@ Drei Artefakte:
 | Redline-Vorschlag | Einfügung von "erkennbar oder" sowie Halbsatz "einschließlich mündlich, visuell oder in sonstiger Form offengelegter Informationen" |
 | Verhandlungsargument | Marktstandard nach GeschGehG-Inkrafttreten 2019; auch im Eigeninteresse der Gegenseite, da sie bei eigener Offenlegung gleichermaßen geschützt ist (bilateral). |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiel-Ablauf
 
 **Sachverhalt:** Die Maschinenbau Müller GmbH erhält von der Roboterhersteller AG aus München ein NDA zur Vorbereitung eines möglichen Komponentenlieferantenmandats. Die Maschinenbau Müller GmbH soll Konstruktionspläne ihrer Mehrachsen-Steuerung vorab zur technischen Eignungsprüfung übermitteln.

@@ -63,3 +63,8 @@ Verbindlichkeit: [allgemein / adressatenbezogen / keine]
 Unmittelbare Anwendung: [JA / nein — Umsetzung bis DATUM]
 Anfechtbarkeit Art. 263: [JA — faktische Rechtswirkung / NEIN]
 ```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

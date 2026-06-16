@@ -96,6 +96,10 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 - `/sozialrecht-kanzlei:bescheidanalyse` — wenn Bescheid auf dem Tisch liegt
 - `/sozialrecht-kanzlei:fristenbuch-sozialrecht` — Fristen-Check
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Rechtlicher Rahmen
 
 - **SGG** Sozialgerichtsgesetz: § 78 Vorverfahren / § 84 Widerspruchsfrist / § 87 Klagefrist / § 86b Eilrechtsschutz

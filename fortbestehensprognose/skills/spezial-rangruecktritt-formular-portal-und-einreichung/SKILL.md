@@ -41,6 +41,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Rangrücktritt — Pflichtbausteine nach § 19 Abs. 2 Satz 2 InsO
 - **Qualifizierter Rangrücktritt:** Vereinbarung muss Tilgung und Zinsen bis zur Beseitigung der Krise ausschließen, vorinsolvenzlichen und insolvenzlichen Rang nach § 39 Abs. 1 Nr. 5 InsO unterordnen und durchsetzbar sein (BGH ständige Rspr.).
 - **Mindestformulierung:** "Die Forderung tritt im Rang hinter sämtliche gegenwärtigen und zukünftigen Forderungen anderer Gläubiger im Sinne des § 39 Abs. 1 Nr. 1–5 InsO zurück. Befriedigung darf nur aus künftigen Gewinnen, einem Liquidationsüberschuss oder freiem Vermögen erfolgen, soweit dies nicht zur Zahlungsunfähigkeit der Gesellschaft führt."

@@ -95,3 +95,8 @@ No. | Term Found | Location | Risk | Recommended Change
 2 | [good faith] | Clause 8 | HIGH — unenforceable English law | Remove or replace with specific obligations
 3 | [condition] | Clause 3 | MEDIUM — correct usage but confirm | Confirm classification intended
 ```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

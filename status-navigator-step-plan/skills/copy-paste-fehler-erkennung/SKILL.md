@@ -15,3 +15,8 @@ Wandeldarlehen NordCap vom 14.03.2026: § 4 verweist auf 'Gesellschafterbeschlus
 - Auffaelligkeitsliste mit Fundstelle, Verdacht, Verweisziel
 - Querliste an Skill `unterschriftspruefung` (Beschluss als Wirksamkeitsbedingung)
 - Reparatur-Vorschlag für Nachtragsvereinbarung
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

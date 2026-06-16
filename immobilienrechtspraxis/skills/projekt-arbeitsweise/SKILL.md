@@ -145,6 +145,10 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - `audit.md` mit Eintrag Setup
 - Optional Vorlage-Dateien aus `00_Projekt-Setup/` befüllt
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispielformulierungen
 
 - "Lege ein Projekt für das Bürogebäude Friedrichstraße 100

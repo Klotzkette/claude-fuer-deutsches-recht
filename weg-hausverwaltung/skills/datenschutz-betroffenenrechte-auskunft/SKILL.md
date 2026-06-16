@@ -51,6 +51,10 @@ Frist: 1 Monat ab Eingang (Art. 12 Abs. 3 DSGVO). Verlängerung um bis zu 2 Mona
 - Lösch-Protokoll mit Verweis auf Aufbewahrungsnorm und Löschdatum
 - Eskalationspfad: Beschwerde bei Datenschutzaufsichtsbehörde (zuständig nach Sitz des Verwalters, z. B. LDI NRW, BayLDA, BlnBDI)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Cross-Refs
 
 - VVT, TOM, AVV → `datenschutz-vvt-tom-avv-hausverwaltung`

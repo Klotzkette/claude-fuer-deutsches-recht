@@ -232,3 +232,8 @@ Problem : BGH VI ZR 174/20 (NJW 2022, 300) – NOT_FOUND; dejure.org bestätigt:
 Maßnahme: Ersetzt durch BGH III ZR 283/18, 17.09.2020, NJW 2020, 3451 (Interessenkollision/§ 43a BRAO, verifiziert auf dejure.org).
 Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.09.2020&Aktenzeichen=III+ZR+283%2F18
 -->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

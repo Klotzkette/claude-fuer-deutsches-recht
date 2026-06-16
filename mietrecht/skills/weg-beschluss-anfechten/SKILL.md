@@ -191,6 +191,10 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 - Bei mehreren Beschlüssen: Tabelle Beschluss-für-Beschluss
 - Mandatsvereinbarung
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - WEG §§ 5 9a 14 16 19 20 24 25 26 28 29 43 44 45

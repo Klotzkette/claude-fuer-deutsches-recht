@@ -101,3 +101,8 @@ description: "Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragskl
 - **Datenschutzinformation Fahrer**: Art. 13 DSGVO für Flottenleasing
 - **AVV-Telematik**: Muster für LN mit Telematik-Dienstleister
 - **Telematik-KPI-Dashboard**: Excel-Vorlage mit Flottenauswertung
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

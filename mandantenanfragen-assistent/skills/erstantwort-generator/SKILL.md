@@ -163,6 +163,10 @@ Der Skill gibt die fertige E-Mail als formatierten Text aus, bereit zum Kopieren
 - Interne Zusammenfassung der getroffenen Entscheidungen (welche Heuristiken, welche Abschnitte eingefügt/weggelassen)
 - Hinweis auf ausstehende manuelle Prüfungen (z. B. wenn Name nicht ermittelbar war)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Verweise auf andere Skills
 
 - `anfrage-eingang-parser` — Datengrundlage

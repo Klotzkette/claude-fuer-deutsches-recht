@@ -97,6 +97,10 @@ Die aussergerichtliche Mahnung **hemmt die Verjährung nicht** (§ 203 BGB nur b
 - Prüfung ob 30-Tage-Regel greift.
 - Empfehlung Zustellweg.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 - BGB § 286 [gesetze-im-internet.de/bgb/__286.html](https://www.gesetze-im-internet.de/bgb/__286.html)
 - BGB § 280 [gesetze-im-internet.de/bgb/__280.html](https://www.gesetze-im-internet.de/bgb/__280.html)

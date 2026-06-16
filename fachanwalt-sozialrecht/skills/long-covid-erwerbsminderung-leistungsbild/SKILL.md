@@ -35,3 +35,8 @@ SGB VI § 43; SGG §§ 103, 106; AWMF S1 Long/Post-COVID; sozialmedizinische Lei
 ## Ausgabe
 
 Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen Widerspruchsbaustein, eine Klagebegründung oder eine laienverständliche Unterlagenliste.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

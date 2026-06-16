@@ -41,6 +41,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## vbuH-Forderungen — Vorsätzlich begangene unerlaubte Handlung
 - **Bedeutung:** Forderungen aus vorsätzlich begangener unerlaubter Handlung (§§ 823, 826 BGB) sind nach § 302 Nr. 1 InsO von der Restschuldbefreiung des Schuldners ausgenommen — sie überleben das Verfahren.
 - **Anmeldung § 174 Abs. 2 InsO:** Bei der Anmeldung muss der Tatbestand der vorsätzlich begangenen unerlaubten Handlung ausdrücklich behauptet und tatsächlich substantiiert dargelegt werden — sonst nimmt die Tabelleneintragung diese Qualifikation nicht auf.

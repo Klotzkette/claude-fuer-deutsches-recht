@@ -99,6 +99,10 @@ description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflege
 - Bei Ablehnung: Widerspruchsentwurf über Skill `widerspruch-formulieren` mit fachlichen Bausteinen.
 - Bei Untätigkeit: Frist im Fristenbuch für Genehmigungsfiktion / Untätigkeitsklage § 88 SGG.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Triage — kläre vor Antragsstellung oder Widerspruch
 
 1. Welcher Träger ist primär zuständig — Krankenkasse (§ 33 SGB V), Pflegekasse (§ 40 SGB XI), Eingliederungshilfeträger (§§ 102 ff. SGB IX) oder Sozialhilfe (§§ 53 ff. SGB XII)?

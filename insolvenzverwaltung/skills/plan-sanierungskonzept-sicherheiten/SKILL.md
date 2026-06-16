@@ -48,6 +48,10 @@ description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan
 - Datenanforderung
 - Red-Team-Fragen für Gericht, Gläubigerausschuss, Banken und opponierende Gläubiger
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Gliederung für das Konzept
 
 1. Auftrag, Stichtag, Rolle und Verwendungszweck.

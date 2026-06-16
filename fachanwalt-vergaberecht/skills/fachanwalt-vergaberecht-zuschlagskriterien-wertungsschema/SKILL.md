@@ -60,6 +60,10 @@ Tabelle: Kriterium | Gewicht (%) | Unterkriterien | Bewertungsmassstab | Maximal
 4. Auswirkung auf Wertungsergebnis
 5. Antrag im VK-Verfahren
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle ausgeben (dejure.org, openjur.de). EuGH-Entscheidungen ueber curia.europa.eu verifizieren.
 

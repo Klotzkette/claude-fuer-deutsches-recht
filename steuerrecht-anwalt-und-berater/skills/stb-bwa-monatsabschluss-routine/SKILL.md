@@ -94,6 +94,10 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 - OPOS-Listen aktualisiert.
 - Mandantenakte mit Monatsabschluss-Eintrag dokumentiert.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Strategie und Praxis-Tipps
 
 - 30-Tage-Zyklus mit klaren Deadlines (Tag 5 Belegannahme, Tag 15 Buchungsende, Tag 25 BWA fertig) durchhalten.

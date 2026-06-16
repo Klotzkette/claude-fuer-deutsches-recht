@@ -232,3 +232,8 @@ Geprueft: 3 halluzinierte Aktenzeichen in Abschnitt "Aktuelle Rechtsprechung (v1
 - VII ZR 167/09 (BGH): NOT_FOUND auf dejure.org; NJW 2011, 594 gehoert zu BGH VII ZR 172/09 (Verjährung/Beweisverfahren, falsches Thema). Eintrag ersatzlos geloescht.
 Quelle: dejure.org-Recherche. Kein Commit. Frontmatter unveraendert.
 -->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

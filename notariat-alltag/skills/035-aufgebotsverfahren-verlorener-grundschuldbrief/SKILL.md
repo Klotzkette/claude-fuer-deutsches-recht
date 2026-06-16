@@ -80,6 +80,10 @@ Das Aufgebotsverfahren dauert i.d.R. 6–12 Monate. Wird in der Zwischenzeit ein
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Kostenhinweise
 
 Aufgebotsverfahren-Kosten: Gerichtskosten nach FamGKG, i.d.R. 0,5 Gebühr des Grundschuldbetrags. Notar: Antragstellung KV Nr. 22200 GNotKG (0,5 Gebühr). Bekanntmachungskosten trägt Antragsteller. Alternativlösung über § 67 GBO (eidesstattliche Versicherung beim Grundbuchamt): günstiger, schneller, abhängig von Behördenpraxis.

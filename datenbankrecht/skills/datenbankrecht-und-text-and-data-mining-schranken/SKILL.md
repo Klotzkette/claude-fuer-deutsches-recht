@@ -67,6 +67,10 @@ Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schr
 - TDM-Schranken-Abgrenzungsmatrix für Datenbankbetreiber
 - Löschpflicht-für wissenschaftliche TDM-Nutzer (§ 60d Abs. 1 S. 2 UrhG)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - [§ 44b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/44b.html)

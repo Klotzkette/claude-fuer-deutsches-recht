@@ -233,3 +233,8 @@ Geprüft: BGH VI ZR 7/21 (WRONG_TOPIC: dejure.org zeigt Kfz-Unfall/fiktive Schad
 Ersatz: BGH VI ZR 97/22, ZIP 2023, 2472 (verifiziert auf dejure.org — Vorlage EuGH zu Art. 82 DSGVO immateriellem Schaden)
 Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
 -->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

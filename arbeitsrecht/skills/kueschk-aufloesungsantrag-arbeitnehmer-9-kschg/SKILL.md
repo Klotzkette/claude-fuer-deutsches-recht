@@ -106,6 +106,10 @@ Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung fest
 **Abfindungsantrag:**
 > Der Beklagte wird verpflichtet, dem Kläger eine Abfindung nach §§ 9, 10 KSchG in Höhe von [BETRAG] EUR brutto zu zahlen.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Abgrenzung zu § 12 KSchG
 
 | | § 9 KSchG | § 12 KSchG |

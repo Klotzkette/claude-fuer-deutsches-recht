@@ -85,6 +85,10 @@ Ist der Notar der Fremdsprache hinreichend mächtig, kann er die Urkunde zweispr
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Kostenhinweise
 
 Der Dolmetscher ist keine notarielle Leistung; die Kosten trägt der Beteiligte direkt. Bei zweisprachiger Niederschrift durch den Notar selbst: erhöhte Komplexität rechtfertigt Ermessenserhöhung der Gebühr (§ 127 GNotKG). Keine gesonderte GNotKG-Gebühr für Sprachvermerk.

@@ -35,6 +35,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Versicherungen:** Haftpflicht und Sach idR jährlich; bei Krise prüfen, ob Auszahlung bei Insolvenzfall in Masse oder beim Versicherungsnehmer landet.
 - **Priorisierung in Krise (vor § 15a InsO-Antragspflicht):** SV-Beiträge AN-Anteil > Steuerschulden (Lohnsteuer) > Lohn > Lieferanten kritischer Lieferant > sonstige. Reine Liquiditätsschonung kann § 266a StGB-Strafbarkeit und § 15b InsO-Haftung auslösen.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Normen und Rechtsprechung
 
 ### Kuratierte Normen-Bibliothek

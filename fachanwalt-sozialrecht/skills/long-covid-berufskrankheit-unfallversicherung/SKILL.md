@@ -35,3 +35,8 @@ SGB VII §§ 7, 8, 9, 56; BKV Nr. 3101; SGG Amtsermittlung. Medizinisch ist der 
 ## Ausgabe
 
 Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen Widerspruchsbaustein, eine Klagebegründung oder eine laienverständliche Unterlagenliste.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

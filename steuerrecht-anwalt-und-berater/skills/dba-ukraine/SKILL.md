@@ -144,6 +144,10 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 6. **Risiken / offene Punkte**: Kriegsfolgen, Devisenkontrolle, EU-Beitrittskandidat 2022, MLI-Status, Neuverhandlungen DBA.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenpflicht
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Ukraine 1995 Fundstellen, BMF-Schreiben zur Ukraine, EU-Sanktionsverordnungen verbindlich zitieren.

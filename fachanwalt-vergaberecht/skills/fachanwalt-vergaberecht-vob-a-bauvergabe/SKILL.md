@@ -64,6 +64,10 @@ Bauvergaben nach VOB-A (Abschnitt 1 Unterschwelle, Abschnitt 2 Oberschwelle) str
 - Leistungsbeschreibungs-Checkliste (detailliert vs. funktional).
 - Vergabevermerk-Vorlage § 20 VOB-A.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 BGH-Linien zur LB-Verantwortung und zur Wertung Nebenangebote vor Ausgabe ueber bundesgerichtshof.de / dejure.org verifizieren; VOB-A aktuelle Fassung pruefen.
 

@@ -129,6 +129,10 @@ Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patenti
 - **Glaubhaftmachungs-Checkliste:** Schutzrecht, Verletzung, Dringlichkeit, Beweismittel.
 - **Tenor-Formulierungs-Beispiele:** Marke, Patent, UWG mit Mustertexten.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 
 - [§ 935 ZPO – dejure.org](https://dejure.org/gesetze/ZPO/935.html)

@@ -113,6 +113,10 @@ Pflichtinhalt einer Schutzschrift:
 - **Entscheidungsbaum:** Schutzschrift / Unterlassungserklärung / Keine Reaktion.
 - **Fristverlängerungsschreiben an Abmahner:** Entwurf mit Bitte um Verhandlungszeit.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 
 - [§ 945a ZPO – dejure.org](https://dejure.org/gesetze/ZPO/945a.html)

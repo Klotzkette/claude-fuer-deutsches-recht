@@ -92,6 +92,10 @@ Mandantenbrief mit Standardanliegen | 1 Tag | 5 Tage
 - KPI-Reporting Mandantenkommunikation.
 - Eskalations-Routinen.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Strategie und Praxis-Tipps
 
 - Klare Service-Standards reduzieren Mandanten-Stress und Sachbearbeiter-Stress.

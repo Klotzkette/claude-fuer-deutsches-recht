@@ -39,6 +39,10 @@ Dieser Skill regelt die korrekte Wahl von Anrede und Schlussformel in berufliche
 
 **Begruendung:** [Verweis auf Norm oder Konvention]
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Hierarchie der Anreden
 
 Die förmlichste Anrede "Sehr geehrte Damen und Herren" wird verwendet, wenn der Name des Empfängers nicht bekannt ist oder wenn ein offizielles Schreiben an eine Institution gerichtet wird. "Sehr geehrte Frau Dr. Muster" ist die Standardform für namentlich bekannte Einzelpersonen mit Doktortitel; akademische Grade (Dr., Prof. Dr.) werden grundsätzlich ausgeschrieben.

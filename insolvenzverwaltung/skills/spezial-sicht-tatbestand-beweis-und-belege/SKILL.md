@@ -41,6 +41,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Verwalter-Sicht — Standard-Tatbestände im Anfechtungs- und Haftungsstreit
 - **§ 130 InsO Kongruente Deckung:** Letzte 3 Monate vor Antrag; Anfechtbar bei Zahlungsunfähigkeit zum Zeitpunkt der Handlung + Kenntnis oder Kenntnis der Umstände, aus denen die Zahlungsunfähigkeit folgt.
 - **§ 131 InsO Inkongruente Deckung:** Letzter Monat ohne weitere Voraussetzungen; 2.–3. Monat nur bei Zahlungsunfähigkeit oder Kenntnis benachteiligter Gläubiger.

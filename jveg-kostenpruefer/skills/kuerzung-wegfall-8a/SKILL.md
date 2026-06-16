@@ -55,6 +55,10 @@ Gutachten liegt vor und Kostenbeamter oder Gericht erwägt Kürzung nach § 8a J
 | Befangenheit | § 8a JVEG | [Befund] | [Gering/Mittel/Hoch] | 00,00 |
 | **Gesamtkürzung** | | | | **00,00** |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Ausgabe
 Risikoübersicht mit Kürzungsbeträgen, Normbezug und Begründungsentwurf.
 

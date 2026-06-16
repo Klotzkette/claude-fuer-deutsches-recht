@@ -81,6 +81,10 @@ Beschwerde hat keine aufschiebende Wirkung. Das Grundbuchamt oder Registergerich
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Kosten der Beschwerde
 
 Beschwerde bei LG (Grundbuchsache): Gerichtskosten nach GNotKG/GKG (Auffangwert 5.000 € wenn kein Gegenstandswert festgestellt). OLG (HR-Sache): GKG-Tabelle. Anwaltsvertretung: nicht Pflicht, aber empfohlen. Notar kann die Beschwerde im eigenen Namen einlegen, wenn er Antragsteller war; ansonsten im Namen der Beteiligten.

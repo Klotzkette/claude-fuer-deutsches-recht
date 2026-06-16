@@ -38,6 +38,10 @@ Beispiele:
 - Verantwortlichkeiten-Liste pro Person
 - Eingangsstapel für optionale Reiter (Fristen, Beteiligte)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Grenzen
 - **Workflow ist Vorschlag, kein Anwaltsplan.** Anwaeltliche Prüfung der
   Rechtsgrundlagen-Spalte erforderlich.

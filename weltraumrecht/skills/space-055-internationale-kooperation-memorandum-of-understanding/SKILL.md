@@ -46,6 +46,10 @@ Dieser Skill bearbeitet **Internationale Kooperation Memorandum of Understanding
 - Behördenbrief
 - Board-Dashboard
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Space-Law-Vertiefung
 
 Bei **Internationale Kooperation Memorandum of Understanding** werden fünf Ebenen getrennt: völkerrechtliche Verantwortung des Staates, nationale Betreiberpflicht, technische Missionssicherheit, Frequenz-/Datenregime und zivilrechtliche Risikoverteilung. Der Skill muss Startstaat, Registerstaat, Betreiber, Eigentümer, Nutzlastkunde, Versicherer und Behörde als eigene Rollen ausweisen.

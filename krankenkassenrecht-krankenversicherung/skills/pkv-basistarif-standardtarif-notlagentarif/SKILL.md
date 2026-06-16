@@ -83,6 +83,10 @@ Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basista
 - Sozialamt-Übernahmeantrag (PKV-Beiträge)
 - Rückkehr Normaltarif – Antrag
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - [§ 152 VAG – Basistarif](https://www.gesetze-im-internet.de/vag_2016/__152.html)

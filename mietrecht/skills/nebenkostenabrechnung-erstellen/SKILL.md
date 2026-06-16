@@ -64,6 +64,10 @@ Der nachstehende Workflow ist eine Arbeitsgrundlage. Vor Versand einer Abrechnun
 
 Mustergliederung der Abrechnung als Markdown plus Checkliste vor Versand. Vor der finalen Freigabe Disclaimer wiederholen.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
 - BGH 09.04.2008, VIII ZR 84/07 — Mindestanforderungen Betriebskostenabrechnung (dejure.org/2008,5921; BGHZ 176, 191)

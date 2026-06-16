@@ -43,6 +43,10 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 - Mehrsprachiger Briefentwurf mit Quellen-/Prüfnotiz.
 - Spezialskill-Empfehlung für den nächsten Schritt.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Qualitäts- und Quellenregel
 
 - CIC-Canones, Katechismusnummern und Partikularrecht nie aus bloßem Gedächtnis als endgültig ausgeben, wenn sie entscheidungstragend sind; Normstand live prüfen.

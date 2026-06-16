@@ -307,6 +307,10 @@ description: "Esg Greenwashing Csrd: ordnet Normen, Nutzerangaben, Fristen, Bele
 - Nachhaltigkeits-Bericht-Skelett
 - Frist im Fristenbuch (Berichts-Frist Jahresfrist)
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellen
 
 - CSRD-RL (EU) 2022/2464 (ABl. L 322 vom 16.12.2022)

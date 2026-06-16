@@ -62,6 +62,10 @@ description: "Spaltenprompts für die drei Prüfperspektiven des 3D-Tabellenrevi
 - `spaltenprompts.yaml` — fertige Spaltenprompts mit allen Pflichtfeldern
 - Optional: `spaltenprompt-bibliothek.yaml` als wiederverwendbare Bibliothek
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Grenzen
 
 Spaltenprompts ersetzen nicht das Lesen des Dokuments. Sie machen das Lesen reproduzierbar und vergleichbar.

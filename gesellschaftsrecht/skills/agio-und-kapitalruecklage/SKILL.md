@@ -202,6 +202,10 @@ Häufige Übersetzungsfehler:
 - Steuerliche Stellungnahme zum Einlagekonto und zur Buchwertfortführung.
 - Mandantengerechte Erläuterung der wirtschaftlichen Funktion des Agios.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Senior-Review-Gate
 
 Kein Agio-Konstrukt geht an den Notar bevor der Senior es abgezeichnet hat. Insbesondere bei Holding-Strukturierung und qualifiziertem Anteilstausch ist ein gemeinsamer Termin mit Steuerberater Notar und Investor Counsel obligatorisch — die Schnittstellen zwischen Gesellschaftsrecht Steuerrecht Bilanzrecht und Notariat sind hier eng und fehleranfällig.

@@ -53,6 +53,10 @@ Loesungsorientierte Vergabe ohne klassisches Leistungsverzeichnis; Eignung und K
 - Honorar-Wertungsmodul (Formel, Gewichtung, Pruefung niedriger Honorare).
 - RPW-Wettbewerbs-Auslobungs-Geruest.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.de verifizieren; HOAI 2021 i. d. F. der aktuellen Verordnung pruefen.
 

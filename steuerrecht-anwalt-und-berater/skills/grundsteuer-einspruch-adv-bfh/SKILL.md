@@ -64,6 +64,10 @@ Zusätzlich:
 
 Nur wenn FA ablehnt oder nicht rechtzeitig entscheidet. Dann Ablehnung, Einspruch, Bescheide und Belege als Anlagenliste aufbereiten.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Abschluss
 
 Gib immer eine "nächste 7 Tage"-Liste: Frist, Beleg, Antrag, Zahlung, Rückfrage an Gemeinde/Finanzamt.

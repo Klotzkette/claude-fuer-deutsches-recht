@@ -106,6 +106,10 @@ MANDANTENINFORMATION
 - Pflichtinfo: [Frist X laeuft am Y ab]
 ```
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Anwendungsbeispiel — Familie Tannenberg
 
 In der Testakte `sozialrecht-rollstuhl-tannenberg` liegen vier Fälle in einer Familie. Wende die Routing-Karte je Fall einmal an. Du wirst sehen: vier sehr unterschiedliche Pfade trotz einem Plugin.

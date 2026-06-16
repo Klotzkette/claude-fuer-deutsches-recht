@@ -220,3 +220,8 @@ Befund:
 Ersatz: BGH VII ZR 48/12 (21.11.2013, NJW 2014, 394, BauR 2014, 578) eingefuegt. Verifiziert auf dejure.org/2013,35506. Echtes Thema: Prozessvergleich im Werkvertrag, Unwirksamkeit, Verfahrensfortsetzung, verzichtbare prozessuale Ruege.
 Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
 -->
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+

@@ -67,6 +67,10 @@ Form: Beim OLG-Vergabesenat, beim Gericht der Vergabekammer; Beschwerdeschrift m
 - Fristenkalender (Zustellung, Beschwerde, Suspensiv-Antrag, Begruendung, Erwiderung).
 - Pruefvermerk Erfolgsaussichten.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenregel
 BGH X ZB 14/17 (Suspensiveffekt) und OLG-Linien nur mit Datum, Aktenzeichen und frei pruefbarer Quelle ueber dejure.org oder openjur.de zitieren.
 

@@ -172,6 +172,10 @@ Ort, Datum [Unterschrift Betreuer/in]
 Bei der jährlichen Rechnungslegung zusätzlich tabellarische
 Einnahmen-Ausgaben-Rechnung mit Belegnummern.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiel
 
 **Sachverhalt:** Herr Werner P., 78 Jahre, lebt nach Schlaganfall im

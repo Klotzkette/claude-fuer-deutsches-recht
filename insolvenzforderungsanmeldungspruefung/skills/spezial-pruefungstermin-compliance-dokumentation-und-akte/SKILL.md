@@ -41,6 +41,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Prüfungstermin §§ 175–178 InsO — Ablauf und Dokumentation
 - **§ 176 InsO Prüfungstermin:** Vom Gericht bestimmt; Verwalter und Schuldnerin sind zu laden; angemeldete Gläubiger können teilnehmen.
 - **§ 175 InsO Aufgabe Verwalter:** Bearbeitung der angemeldeten Forderungen; Eintragung in die Tabelle mit Stellungnahme (anerkannt / bestritten / vorbehalten).

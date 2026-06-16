@@ -117,6 +117,10 @@ ALARM: [BESCHREIBUNG] — Eskalation an: [PERSON] — Frist: [DATUM]
 2. [AKTION] — Owner: [PERSON] — Frist: [DATUM]
 ```
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Rote Schwellen
 
 - **CP-Frist Fusionskontrolle < 7 Tage, kein Freigabestatus** — Vollzugsverbot § 41 GWB; Deal-Coordinator sofort informieren; Pre-Filing-Gespraeche initiieren.

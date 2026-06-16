@@ -140,6 +140,10 @@ Empfohlene Struktur für das Mandanten-Memo nach Gutachtenstil (vgl. CLAUDE.md):
 6. **Risiken / offene Punkte**: Kroatische Pauschalsteuer Vermietung, MLI ab 01.01.2025 (PPT-Klausel), Euro-Umstellung 01.01.2023.
 7. **Quellenverzeichnis** (gem. references/zitierweise.md).
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig. Diese Regel folgt der zentralen Vorgabe in der `CLAUDE.md` des Repos und gilt ausnahmslos.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Quellenpflicht
 
 Vgl. [`references/zitierweise.md`](../../../references/zitierweise.md). DBA-Kroatien 2006 Fundstellen, BMF-Schreiben, MLI-Synthesetext verbindlich zitieren.
