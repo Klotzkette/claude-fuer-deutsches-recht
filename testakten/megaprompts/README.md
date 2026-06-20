@@ -1,5 +1,20 @@
 # Mega-Prompt-Dateien
 
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+## Akte komplett herunterladen
+
+Diese Arbeitsakte gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+
+| Was | Format | Quelle |
+| --- | --- | --- |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-megaprompts.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-megaprompts.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-megaprompts-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-megaprompts-einzelpdfs.zip) |
+
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version.
+
+<!-- END gesamt-pdf-section (autogen) -->
+
 Alphabetischer Index der einzeln nutzbaren Mega-Prompt-Markdowns. Jede Datei bündelt die tragenden Skills eines Plugins als kopierbaren Prompt-Baustein für Claude, ChatGPT, Codex, Perplexity oder andere Systeme.
 
 | Mega-Prompt | Datei |

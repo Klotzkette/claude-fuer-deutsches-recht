@@ -2,12 +2,14 @@
 
 Dieser Ordner enthält **Mandatsakten**, mit denen sich die Skills sofort ausprobieren lassen. Jede Akte ist bewusst so unstrukturiert wie ein echter Datenraum: PDFs mit handgemachten Briefköpfen, Excel-Tabellen, Word-Entwürfen, schiefen Dateinamen, Bildbeschreibungen, Chattranskripten und Fehlblättern, Mandantennotizen mit Tippfehlern. **Die Akten sind kein Bestandteil der Plugins und werden nicht mitinstalliert.** Wer die Skills produktiv einsetzt, lädt sich die Akten bei Bedarf separat als ZIP herunter.
 
-**Stand v330.0.0:** 206 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV, EML) und je Akte zusätzlich ein durchsuchbares **Gesamt-PDF** unter `gesamt-pdf/<aktenname>_gesamt.pdf`. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten reichen typischerweise von einigen hundert KB bis zu mehreren MB.
+**Stand v331.0.0:** 206 Testakten. Auf GitHub liest man jede Datei direkt als Markdown (`*.md`-Vorschauen für DOCX und XLSX werden automatisch generiert). Im ZIP-Download bekommt man die **Originalformate** (DOCX, XLSX, PDF, JPEG, CSV, EML) und je Akte zusätzlich ein durchsuchbares **Gesamt-PDF** unter `gesamt-pdf/<aktenname>_gesamt.pdf`. Zusätzlich gibt es je Akte ein **Einzel-PDF-ZIP** (`testakte-<name>-einzelpdfs.zip`), in dem jede Unterlage als eigene, sauber gerenderte PDF im Originalordnerlayout vorliegt — praktisch, wenn nur einzelne Aktenstücke gebraucht werden. Schriftsätze sind 800-3000 Wörter, Verträge enthalten alle Paragrafen, Mandantennotizen sind realistisch detailliert. Akten reichen typischerweise von einigen hundert KB bis zu mehreren MB.
 
 Der verbindliche Aktenstandard steht in [`QUALITAETSSTANDARD.md`](./QUALITAETSSTANDARD.md): Jede Akte bleibt als unordentlicher Datenraum mit Originalformaten erhalten und hat parallel ein sauber lesbares Gesamt-PDF.
 
 <p>
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip"><strong>Alle Testakten als ZIP herunterladen</strong></a>
+  <br>
+  <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip"><strong>Alle Testakten als Einzel-PDF-ZIP herunterladen</strong></a>
   <br>
   <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip"><strong>Alles komplett als ZIP herunterladen</strong></a>
 </p>

@@ -1,6 +1,6 @@
 {
   "name": "gebrauchsmusterrecht",
-  "version": "330.0.0",
+  "version": "331.0.0",
   "description": "Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.",
   "keywords": [
     "gebrauchsmusterrecht",

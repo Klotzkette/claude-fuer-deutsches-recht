@@ -81,18 +81,21 @@ Interne Teilung des AKNS-Anteils (Theo erhält ca. 1.071 EUR/Monat späteren Ren
 ## 5. Zeitachse und Best/Worst-Case
 
 ### Best-Case (Einigung Ende 2025 / Anfang 2026)
+
 - Notarieller Scheidungsfolgenvertrag bis Dezember 2025.
 - Scheidungsantrag Anfang 2026, nur Scheidung + Versorgungsausgleich als Pflichtfachsache.
 - Scheidung rechtskräftig Sommer 2026.
 - Gesamtkosten für Vera (Anwalt, Notar, Gutachter): ca. 35.000–55.000 EUR.
 
 ### Mittlerer Fall (Scheidung Herbst 2026)
+
 - Scheidungsantrag Januar 2026 mit Verbundverfahren.
 - Einigung in der mündlichen Verhandlung oder kurz davor.
 - Scheidung rechtskräftig Herbst 2026.
 - Gesamtkosten ca. 60.000–90.000 EUR.
 
 ### Worst-Case (Eskalation, Vollverfahren)
+
 - Kindschaftssache vor Scheidung, Sachverständigengutachten Kinder.
 - Zugewinnstreit mit zwei Gegengutachten.
 - Versorgungsausgleich durch Gericht, externe Teilung AKNS strittig.

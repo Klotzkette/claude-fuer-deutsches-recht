@@ -3,14 +3,15 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei, 617 KB) | PDF | [`gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf`](gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim-einzelpdfs.zip) |
 
-Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

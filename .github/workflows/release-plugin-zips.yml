@@ -69,6 +69,20 @@ jobs:
       - name: Testakten-Release-ZIPs validieren
         run: python3 scripts/validate-testakten-release-zips.py dist
 
+      - name: Python-Abhaengigkeiten fuer den PDF-Bau installieren
+        run: python3 -m pip install --quiet reportlab pypdf python-docx openpyxl odfpy
+
+      - name: Einzel-PDF-ZIPs der Testakten bauen (jede Unterlage als eigene PDF)
+        run: |
+          # Pro Testakte ein ZIP, in dem jede Unterlage als separate PDF vorliegt
+          # (im Gegensatz zum Gesamt-PDF, das alle Stücke in ein Dokument fasst).
+          python3 scripts/build-testakten-einzelpdf-zips.py dist
+          ls -la dist/testakte-*-einzelpdfs.zip | head
+          ls -lh dist/alle-testakten-einzelpdfs.zip
+
+      - name: Einzel-PDF-ZIPs validieren
+        run: python3 scripts/validate-testakten-einzelpdf-zips.py dist
+
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |
           # Pro Plugin ein ZIP mit allen SKILL.md + Megaprompts + Plugin-README,
@@ -119,6 +133,7 @@ jobs:
           cp dist/marketplace.json dist/komplettpaket/marketplace.json
           cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
           cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
+          cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
             cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
@@ -148,9 +163,10 @@ jobs:
 
           test -s dist/alle-plugins-megazip.zip
           test -s dist/alle-testakten.zip
+          test -s dist/alle-testakten-einzelpdfs.zip
           test -s dist/alle-skills-markdown.zip
           test -s dist/alles-komplettpaket.zip
-          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-skills-markdown.zip dist/alles-komplettpaket.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip dist/alle-testakten-einzelpdfs.zip dist/alle-skills-markdown.zip dist/alles-komplettpaket.zip
 
       - name: Checksums erzeugen
         run: |

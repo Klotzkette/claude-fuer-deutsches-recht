@@ -17,12 +17,15 @@ Theo wohnt seit 14.11.2024 in einer Mietwohnung in der Burgweg 38, Hannover-Both
 ## 2. Schulische Situation der Kinder
 
 ### Mara (15, Klasse 10)
+
 Gymnasium Linden, Goetheschule, Lavesallee 12, 30169 Hannover. Mara ist nach Veras Angaben schulisch gut (Zeugnis zuletzt: Durchschnitt 2,3), sozial engagiert, in einer Theater-AG aktiv. Sie fährt mit dem Fahrrad zur Schule (ca. 15 Minuten). Besondere Situation: Mara hat im Sommer 2024 gegenüber Vera ihre Geschlechtsidentität thematisiert; Näheres in Aktenstück 10.
 
 ### Jonas (12, Klasse 6)
+
 IGS Linden-Süd, Deisterstraße 44, 30449 Hannover. Jonas hat einen regulären Schulweg (Bus, ca. 20 Minuten). Mitglied im Fußballverein TSV Linden-West. Training dienstags und donnerstags 16:30 Uhr, Spiele samstags. Vera bringt und holt, soweit Theo nicht an dem Wochenende zuständig ist.
 
 ### Lina (9, Klasse 4)
+
 Grundschule Limmerstraße, Limmerstraße 34, 30449 Hannover. Lina geht zu Fuß (ca. 10 Minuten). Ballettunterricht montags 16:30 Uhr, Schwimmkurs donnerstags 15:30 Uhr (Hallenbad Linden). Beides organisiert und begleitet ausschließlich von Vera; Theo war in der Vergangenheit hierbei selten eingebunden.
 
 ---

@@ -1,3 +1,27 @@
+# v331.0.0 — Einzel-PDF-ZIPs je Testakte + Familienrecht-Korrekturen + Sanity-Fixes
+
+Jede Testakte gibt es jetzt zusätzlich als **Einzel-PDF-ZIP**: ein ZIP pro Akte, in dem jede Unterlage als eigene, sauber gerenderte PDF im Originalordnerlayout vorliegt — neben dem bisherigen Gesamt-PDF (alles in einer Datei) und dem Akten-ZIP (Originalformate). Dazu eine fachliche Durchsicht der Familien-/Unterhaltsrechtsakten und kleinere Konsistenz-Fixes.
+
+## Einzel-PDF-ZIPs der Testakten
+
+- Neues Werkzeug `scripts/build-testakten-einzelpdf-zips.py` baut pro Testakte `testakte-<name>-einzelpdfs.zip` sowie das Sammelarchiv `alle-testakten-einzelpdfs.zip`. Original-PDFs werden unverändert übernommen, alle anderen Unterlagen (MD/TXT/EML/CSV/XLSX/DOCX/ODT und Bilder) in jeweils eine eigene PDF gerendert. Die Ordnerstruktur der Akte bleibt erhalten.
+- Gemeinsames Auswahl-/Benennungsmodul `scripts/testakte_einzelpdf_common.py` (kollisionsfreie PDF-Namen: gleichnamige Stücke wie `.odt`/`.docx`/`.md` behalten ihre Originalendung im PDF-Namen).
+- Neuer Validator `scripts/validate-testakten-einzelpdf-zips.py` (jede Akte mit renderbaren Unterlagen bekommt ein ZIP mit ausschließlich nicht-leeren PDF-Einträgen, deckungsgleich zur erwarteten Liste; Sammel-ZIP geprüft). Voller Lauf: 206 ZIPs, 5563 PDFs.
+- In die Release-Pipeline (`.github/workflows/release-plugin-zips.yml`) eingehängt: Bau, Validierung, Aufnahme ins Komplettpaket und Upload als Release-Assets mit stabilen URLs.
+- Jede `testakten/<name>/README.md` weist die Einzel-PDF-ZIP-Download-Zeile aus (über `scripts/inject-gesamt-pdf-section.py`, nur für Akten mit renderbaren Unterlagen). Zentrale Übersichten (`README.md`, `testakten/README.md`, `ASSET_INDEX.md`) ergänzt.
+
+## Familien-/Unterhaltsrecht — Aktendurchsicht
+
+- `scheidung-trennungsdrama-wagenknecht-luetzelberg`: README-Unterhaltszeile korrigiert — Kindesunterhalt wird **von** Theo (barunterhaltspflichtig) geschuldet, Trennungsunterhalt läuft von der wirtschaftlich stärkeren Vera an Theo (§ 1361 BGB) im Korridor 700–1.800 EUR/Monat (vorher widersprüchliche „ca. 900 EUR" und falsche Richtung).
+- Gliederungsregel durchgesetzt: fehlende Leerzeilen zwischen `###`-Überschrift und Inhalt in `04_haushaltsstruktur_und_betreuungsanteile.md` und `21_strategie_und_vergleichskorridor.md` ergänzt; Gesamt-PDF der Akte neu gebaut.
+
+## Sanity-Fixes
+
+- `scripts/build-testakte-gesamt-pdf.py`: fehlenden `HRFlowable`-Import ergänzt (latenter Fehler bei sehr breiten/langen Tabellen).
+- Versionsstempel vereinheitlicht: `ASSET_INDEX.md` stand fälschlich auf v326.
+
+---
+
 # v330.0.0 — Inject-Fence-Bug-Fix + Vergaberecht-Megaprompt mit Codex-Korrekturen
 
 Zwei Themen zusammen ausgeliefert: ein scharfer Bug-Fix am Ausformulierungspflicht-Sweep (v329 PR #291), der in 32 Endprodukt-Skills den Autogen-Marker mitten in einen offenen fenced code block geschoben hatte — und der erste anwaltliche 30-Seiten-Megaprompt fuer Vergaberecht inklusive drei Codex-Befunden, die direkt eingearbeitet wurden.

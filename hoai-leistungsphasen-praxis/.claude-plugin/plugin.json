@@ -1,6 +1,6 @@
 {
   "name": "hoai-leistungsphasen-praxis",
-  "version": "330.0.0",
+  "version": "331.0.0",
   "description": "Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "strafanzeige-vorbereiter",
-  "version": "330.0.0",
+  "version": "331.0.0",
   "description": "Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige.",
   "license": "Apache-2.0 OR MIT",
   "author": {

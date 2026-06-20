@@ -1,5 +1,5 @@
 # Release-Asset-Index
-**Stand:** v326.0.0 — automatisch aktualisierte Asset-Übersicht
+**Stand:** v331.0.0 — automatisch aktualisierte Asset-Übersicht
 
 ## Sammel-Assets
 | Asset | Verwendung |
@@ -7,6 +7,7 @@
 | [`marketplace.json`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Manifest für alle Plugins. |
 | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json`. |
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Alle Testaktenordner in Originalstruktur. |
+| [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Alle Testakten mit jeder Unterlage als separater PDF (pro Akte zusätzlich `testakte-<name>-einzelpdfs.zip`). |
 | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Plugins, Testakten, Marketplace und Übersichten. |
 
 ## Plugin-Assets (213 Stück)

@@ -8,5 +8,8 @@ outputs/
 __pycache__/
 *.pyc
 /dist/
+.venv/
+.venv-*/
+venv/
 
 testakten/**/*.zip

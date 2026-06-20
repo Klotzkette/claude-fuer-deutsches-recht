@@ -1,7 +1,7 @@
 {
   "name": "handelsrecht-hgb",
   "displayName": "Handelsrecht HGB",
-  "version": "330.0.0",
+  "version": "331.0.0",
   "description": "Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.",
   "license": "Apache-2.0 OR MIT",
   "author": {

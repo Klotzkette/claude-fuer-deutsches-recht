@@ -34,6 +34,7 @@ from reportlab.platypus import (
     PageBreak,
     Table,
     TableStyle,
+    HRFlowable,
 )
 from reportlab.lib.utils import ImageReader
 from reportlab.lib.enums import TA_LEFT

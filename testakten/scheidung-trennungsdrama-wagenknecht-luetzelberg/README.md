@@ -3,14 +3,15 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
+Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei, 2227 KB) | PDF | [`gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf`](gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg-einzelpdfs.zip) |
 
-Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
+Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -27,7 +28,7 @@ Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP is
 - Kindeswohlaspekt: Alkohol-Vorfall 22.02.2025 in Theos Haushalt; Mara meldete den Vorfall einer Lehrerin, Jugendamt eingeschaltet; § 1666 BGB-Eilantrag in Prüfung.
 - SBGG-Personenstandswechsel Mara (15): Antrag Juli 2025, Wartefrist läuft; Theo verweigert Zustimmung; Antrag auf gerichtliche Ersatzzustimmung vorzubereiten.
 - Zugewinnausgleich: Architekturbüro PartGmbB (Wert 1,42 Mio. EUR lt. Gutachten), Holzwerkstätten e.K. Theo (rd. 410 TEUR vorläufig); gemeinsames Haus (920 TEUR); Vera wahrscheinlich ausgleichspflichtig ca. 217 TEUR.
-- Unterhalt: Vera (ca. 8.400 EUR/Monat) vs. Theo (ca. 3.100 EUR): Kindesunterhalt an Theo (drei Kinder, Mangelfall möglich); Trennungsunterhalt Theo an Vera: ca. 900 EUR/Monat im Kompromissbereich.
+- Unterhalt: Vera (ca. 8.400 EUR/Monat) vs. Theo (ca. 3.100 EUR): Kindesunterhalt von Theo als barunterhaltspflichtigem Elternteil geschuldet (drei Kinder, Mangelfall möglich); Trennungsunterhalt Theos gegen Vera nach § 1361 BGB (Vera ist die wirtschaftlich stärkere Partei) voraussichtlich im Korridor 700–1.800 EUR/Monat.
 - Versorgungsausgleich: AKNS-Versorgungswerk Vera bedeutsam (Ehezeitanteil 2.143 EUR/Mon.); interne Teilung Regelfall.
 - Immobilie: Vera will Haus übernehmen (Auskauf Theos Anteil rd. 319 TEUR), um den Kindern Stabilität zu geben.
 

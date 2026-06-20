@@ -1,6 +1,6 @@
 {
   "name": "patentrecht",
-  "version": "330.0.0",
+  "version": "331.0.0",
   "description": "Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

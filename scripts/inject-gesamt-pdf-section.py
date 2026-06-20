@@ -15,6 +15,8 @@ import re
 import sys
 from pathlib import Path
 
+from testakte_einzelpdf_common import expected_arcnames
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
 
@@ -29,23 +31,40 @@ RELEASE_BASE = (
 )
 
 
-def section_block(slug: str, pdf_rel: str | None, size_kb: int | None) -> str:
+def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einzelpdf: bool = False) -> str:
     zip_url = f"{RELEASE_BASE}/testakte-{slug}.zip"
+    einzel_url = f"{RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip"
+    einzel_row = (
+        f"\n| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-{slug}-einzelpdfs.zip]({einzel_url}) |"
+        if has_einzelpdf
+        else ""
+    )
+    einzel_intro = (
+        " Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden."
+        if has_einzelpdf
+        else ""
+    )
     if pdf_rel is not None and size_kb is not None:
         rows = (
             f"| Gesamt-PDF (alles in einer Datei, {size_kb} KB) | PDF | [`{pdf_rel}`]({pdf_rel}) |\n"
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
+            f"{einzel_row}"
         )
         intro = (
-            "Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            "Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            + einzel_intro
         )
-        trailer = "Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
+        trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
     else:
-        rows = f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
+        rows = (
+            f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
+            f"{einzel_row}"
+        )
         intro = (
             "Diese Arbeitsakte gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            + einzel_intro
         )
-        trailer = "Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version."
+        trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version."
     return f"""{MARKER_BEGIN}
 ## Akte komplett herunterladen
 
@@ -72,7 +91,8 @@ def inject(readme: Path, slug: str) -> str:
     else:
         size_kb = None
         pdf_rel = None
-    new_section = section_block(slug, pdf_rel, size_kb)
+    has_einzelpdf = bool(expected_arcnames(readme.parent))
+    new_section = section_block(slug, pdf_rel, size_kb, has_einzelpdf)
     text = readme.read_text(encoding="utf-8")
 
     # Falls bereits eingefuegt: ersetzen
