@@ -149,7 +149,23 @@ Falls deine Cowork- oder Claude-Desktop-Version einen eigenen Gateway-/Third-Par
 
 Wenn der Dialog in deiner Oberfläche nicht vorhanden ist oder anders heißt, nicht raten: dann Weg A nutzen oder die aktuelle Dokumentation der App/des Anbieters prüfen. Menübezeichnungen ändern sich schneller als dieses README.
 
+### Pre-Flight: Wohin gehen meine Anfragen  gerade?
+Bevor echtes Mandatsmaterial in einen Skill geht, lohnt ein Blick auf den **eigenen Ist-Zustand**: Eine vergessene oder veraltete `ANTHROPIC_BASE_URL` aus einem früheren Test kann Anfragen still an einen Ort leiten, den man nicht mehr im Kopf hat. Darum zuerst sichtbar machen, wohin die eigene Konfiguration aktuell zeigt:
+
+```bash
+# Wohin zeigt meine Claude-Konfiguration gerade?
+echo "BASE_URL   : ${ANTHROPIC_BASE_URL:-<leer = direkt zu Anthropic>}"
+echo "AUTH_TOKEN : $([ -n "$ANTHROPIC_AUTH_TOKEN" ] && echo gesetzt || echo '<leer>')"
+echo "API_KEY    : $([ -n "$ANTHROPIC_API_KEY" ] && echo gesetzt || echo '<leer>')"
+
+# macOS: launchctl setenv wirkt in der GUI-Sitzung, nicht in der Shell, daher zusätzlich:
+launchctl getenv ANTHROPIC_BASE_URL
+```
+- **Leer** → Anfragen gehen direkt zu Anthropic (Default).
+- **Eine URL** → Anfragen gehen an genau diesen Anbieter. Erst prüfen, ob das die *bewusst gewählte* Adresse ist, dann weiter mit der Kontrollliste unten.
+
 ### Kontrollliste vor echtem Mandatsmaterial
+
 
 - Vertragliche Grundlage: AVV, TOMs, Verschwiegenheit, Unterauftragsverarbeiter, Audit-/Löschrechte.
 - Datenfluss: Region, Protokollierung, Trainings-/Retention-Regeln, Support-Zugriffe.
