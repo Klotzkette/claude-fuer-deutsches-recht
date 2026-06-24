@@ -149,7 +149,7 @@ Aktivieren Sie das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` in
 
 ## Lizenz
 
-Apache-2.0 OR MIT. Siehe `LICENSE-APACHE` und `LICENSE-MIT` im Repository-Wurzelverzeichnis.
+Apache-2.0 OR MIT. Siehe `LICENSE` und `LICENSE-MIT` im Repository-Wurzelverzeichnis.
 
 ## Hinweis zur Versionierung
 

@@ -131,7 +131,7 @@ Berufsrechtliche Grundlagen: §§ 43 ff. BRAO, §§ 1 ff. BORA, RVG, DSGVO.
 
 ## Lizenz
 
-Apache-2.0 OR MIT — siehe [LICENSE](../LICENSE), [LICENSE-APACHE](../LICENSE-APACHE), [LICENSE-MIT](../LICENSE-MIT)
+Apache-2.0 OR MIT — siehe [LICENSE](../LICENSE) und [LICENSE-MIT](../LICENSE-MIT)
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

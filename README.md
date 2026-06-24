@@ -690,7 +690,7 @@ Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, wa
 
 ## Lizenz
 
-Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [`LICENSE`](./LICENSE), [`LICENSE-APACHE`](./LICENSE-APACHE), [`LICENSE-MIT`](./LICENSE-MIT) und [`NOTICE`](./NOTICE).
+Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [`LICENSE`](./LICENSE), [`LICENSE-MIT`](./LICENSE-MIT) und [`NOTICE`](./NOTICE).
 
 Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-Lizenz; diese Adaption erweitert, ersetzt und ergänzt die ursprünglichen Inhalte und wird unter dem oben genannten Doppellizenz-Modell veröffentlicht.
 
