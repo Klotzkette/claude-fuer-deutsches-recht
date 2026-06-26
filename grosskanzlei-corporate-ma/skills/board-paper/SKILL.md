@@ -1,39 +1,39 @@
 ---
 name: board-paper
-description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, §..."
+description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. Paragraf 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, Paragraf 179a AktG Hauptversammlungsvorbehalt, Paragraf..."
 ---
 
 # Board Paper und Business Judgment (Corporate M&A)
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Board Paper und Business Judgment (Corporate M&A)
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Triage zu Beginn
 
 Vor der Erstellung einer Entscheidungsvorlage klären:
 
-1. **Wer entscheidet?** Vorstand (AG, § 76 AktG), Geschäftsführer (GmbH, § 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, § 111 Abs. 4 AktG), Gesellschafterversammlung (§ 46 GmbHG / § 119 AktG)?
-2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (§ 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschäftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
-3. **Informationsgrundlage vollstaendig?** Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG) setzt voraus, dass das Organmitglied auf Basis angemessener Informationen handelt. Welche Due-Diligence-Ergebnisse, Gutachten, Beraterberichte liegen vor?
+1. **Wer entscheidet?** Vorstand (AG, Paragraf 76 AktG), Geschäftsführer (GmbH, Paragraf 35 GmbHG), Aufsichtsrat (Zustimmungsvorbehalt, Paragraf 111 Abs. 4 AktG), Gesellschafterversammlung (Paragraf 46 GmbHG / Paragraf 119 AktG)?
+2. **Freigabevorbehalt geprueft?** Kapitalmarkt-relevante Maßnahme erfordert HV-Beschluss (Paragraf 179a AktG); wesentliche Verträge erfordern AR-Zustimmung (Geschäftsordnung / Satzung); grenzueberschreitende Transaktionen ggf. FDI-Screening.
+3. **Informationsgrundlage vollstaendig?** Business Judgment Rule (Paragraf 93 Abs. 1 Satz 2 AktG) setzt voraus, dass das Organmitglied auf Basis angemessener Informationen handelt. Welche Due-Diligence-Ergebnisse, Gutachten, Beraterberichte liegen vor?
 4. **Alternativen dokumentiert?** Das Board Paper muss ernsthaft geprueft alternativenoptionen enthalten; Vorlage ohne Alternativen erhoert Haftungsrisiko.
-5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Offenlegung und Enthaltung (§ 93 Abs. 1 Satz 3 AktG)?
+5. **Interessenkonflikte?** Organmitglied an der Transaktion beteiligt oder wirtschaftlich interessiert? Offenlegung und Enthaltung (Paragraf 93 Abs. 1 Satz 3 AktG)?
 6. **KI-Nutzung transparent?** Wurde der Board-Paper-Entwurf mit Hilfe eines Analyse-Tools erstellt? Plausibilisierungspflicht und Kennzeichnungspflicht gegenueber dem Organ beachten.
 
 ## Zentrale Normen
 
-§ 93 Abs. 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — § 93 Abs. 1 Satz 3 AktG (Interessenkonflikt; Offenlegungspflicht) — § 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — § 111 Abs. 4 AktG (Zustimmungsvorbehalt des Aufsichtsrats) — § 179a AktG (HV-Beschluss bei Gesamtvermoegensveraeusserung) — § 43 GmbHG (Sorgfaltspflicht Geschäftsführer; Business-Judgment-Analogie) — § 46 GmbHG (Gesellschafterversammlung als Freigabeinstanz) — §§ 241, 243 AktG (Beschlussmangel; Anfechtbarkeit bei mangelhafter Informationsgrundlage)
+Paragraf 93 Abs. 1 Satz 2 AktG (Business Judgment Rule; angemessene Informationsgrundlage; Wohl der Gesellschaft) — Paragraf 93 Abs. 1 Satz 3 AktG (Interessenkonflikt; Offenlegungspflicht) — Paragraf 76 AktG (Leitungsaufgabe des Vorstands; Eigenverantwortlichkeit) — Paragraf 111 Abs. 4 AktG (Zustimmungsvorbehalt des Aufsichtsrats) — Paragraf 179a AktG (HV-Beschluss bei Gesamtvermoegensveraeusserung) — Paragraf 43 GmbHG (Sorgfaltspflicht Geschäftsführer; Business-Judgment-Analogie) — Paragraf 46 GmbHG (Gesellschafterversammlung als Freigabeinstanz) — Paragraf 241, 243 AktG (Beschlussmangel; Anfechtbarkeit bei mangelhafter Informationsgrundlage)
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema Business Judgment Rule
 
@@ -51,11 +51,11 @@ Vor der Erstellung einer Entscheidungsvorlage klären:
 ## Schritt-für-Schritt-Workflow
 
 1. **Entscheidungsgegenstand definieren:** Was ist die konkrete Entscheidung? (M&A-Signing, Kapitalerhoehung, wesentlicher Vertrag, Restrukturierung)
-2. **Zuständigkeitspruefung:** Wer entscheidet? Freigabevorbehalt AR, HV, GV? (§ 111 Abs. 4 AktG, § 179a AktG, § 46 GmbHG)
+2. **Zuständigkeitspruefung:** Wer entscheidet? Freigabevorbehalt AR, HV, GV? (Paragraf 111 Abs. 4 AktG, Paragraf 179a AktG, Paragraf 46 GmbHG)
 3. **Informationsgrundlage zusammenstellen:** DD-Ergebnisse, Fairness Opinion (falls vorhanden), externe Gutachten, Bankbewertung, Branchenreports.
 4. **Alternativen darstellen:** Mindestens zwei echte Alternativen zur Entscheidung beschreiben und bewerten (inkl. "Keine Maßnahme").
 5. **Risiken und Restrisiken:** Welche Risiken verbleiben nach der Entscheidung? Quantifizierbar? Mitigationsmoeglichkeiten?
-6. **Interessenkonflikte prüfen:** Alle Organmitglieder auf Eigeninteresse prüfen; Enthaltung protokollieren (§ 93 Abs. 1 Satz 3 AktG).
+6. **Interessenkonflikte prüfen:** Alle Organmitglieder auf Eigeninteresse prüfen; Enthaltung protokollieren (Paragraf 93 Abs. 1 Satz 3 AktG).
 7. **BJR-Prüfkarte ausfuellen:** Voraussetzungen gemäß obiger Tabelle abarbeiten.
 8. **Legalitaetspflicht prüfen:** Kartellrecht, FDI, MAR, Mitbestimmung, Insolvenzrecht — keine Entscheidung gegen zwingendes Recht.
 9. **Board Paper erstellen** und Entscheidungsvorlage zur Unterzeichnung vorlegen.
@@ -73,7 +73,7 @@ Organ: [VORSTAND / AUFSICHTSRAT / GESCHAEFTSFUEHRUNG / GV]
 Vorlage-Nr.: [JJJJ/NN]
 Erstellt von: [NAME], [KANZLEI]
 
-> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+> Vertraulich — Mandatsgeheimnis Paragraf 43a Abs. 2 BRAO.
 > KI-unterstuetzt erstellter Entwurf: Alle Fakten und Rechtspositionen wurden
 > durch [NAME] plausibilisiert und verifiziert. Verantwortung liegt beim Organ.
 
@@ -81,8 +81,8 @@ Erstellt von: [NAME], [KANZLEI]
 [PRAEZISE BESCHREIBUNG DER ENTSCHEIDUNG — ein bis zwei Saetze]
 
 --- FREIGABEVORBEHALT ---
-Zustimmung erforderlich von: [AUFSICHTSRAT (§ 111 Abs. 4 AktG) / HV (§ 179a AktG) / GV / ENTFAELLT]
-Rechtsgrundlage: [§ NORM]
+Zustimmung erforderlich von: [AUFSICHTSRAT (Paragraf 111 Abs. 4 AktG) / HV (Paragraf 179a AktG) / GV / ENTFAELLT]
+Rechtsgrundlage: [Paragraf NORM]
 Status: [ZUSTIMMUNG LIEGT VOR / EINZUHOLEN / ENTFAELLT]
 
 --- INFORMATIONSGRUNDLAGE (Business Judgment Rule) ---
@@ -125,10 +125,10 @@ Abstimmung: _________________________ Datum: _____________
 
 ## Rote Schwellen
 
-- **Entscheidungsvorlage ohne Informationsgrundlage** — BJR-Schutz entfaellt; Organmitglied haftet persoenlich nach § 93 AktG / § 43 GmbHG; Vorlage zurueckhalten bis Gutachten vorliegen.
-- **Interessenkonflikt nicht offen gelegt** — § 93 Abs. 1 Satz 3 AktG: Verletzung der Offenlegungspflicht ist eigenstaendige Pflichtverletzung; betroffenes Mitglied muss sich enthalten.
-- **Freigabevorbehalt uebersehen** — Entscheidung ohne AR-Zustimmung (§ 111 Abs. 4 AktG) oder HV-Beschluss (§ 179a AktG) ist schwebend unwirksam; Gegenseite kann Ruecktritt erklaeren.
-- **Keine echten Alternativen** — Board Paper ohne ernsthaften Alternativenvergleich ist nach h.M. nicht BJR-geschuetzt (vgl. Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff.); mindestens Option "Status quo" und eine echte Alternative stets darlegen.
+- **Entscheidungsvorlage ohne Informationsgrundlage** — BJR-Schutz entfaellt; Organmitglied haftet persoenlich nach Paragraf 93 AktG / Paragraf 43 GmbHG; Vorlage zurueckhalten bis Gutachten vorliegen.
+- **Interessenkonflikt nicht offen gelegt** — Paragraf 93 Abs. 1 Satz 3 AktG: Verletzung der Offenlegungspflicht ist eigenstaendige Pflichtverletzung; betroffenes Mitglied muss sich enthalten.
+- **Freigabevorbehalt uebersehen** — Entscheidung ohne AR-Zustimmung (Paragraf 111 Abs. 4 AktG) oder HV-Beschluss (Paragraf 179a AktG) ist schwebend unwirksam; Gegenseite kann Ruecktritt erklaeren.
+- **Keine echten Alternativen** — Board Paper ohne ernsthaften Alternativenvergleich ist nach h.M. nicht BJR-geschuetzt (vgl. Hueffer/Koch, AktG, 16. Aufl. 2024, Paragraf 93 Rn. 30 ff.); mindestens Option "Status quo" und eine echte Alternative stets darlegen.
 - **KI-Analyse ohne Plausibilisierung** — Organmitglied kann sich nicht auf automatisierte Ausgabe berufen ohne eigene Verifizierung; Plausibilisierungspflicht ist Teil der Informationspflicht.
 
 ## Arbeitsmodus
@@ -160,12 +160,12 @@ Abstimmung: _________________________ Datum: _____________
 
 ## Quellen und Vertiefung
 
-- § 93 Abs. 1 Satz 2 AktG (Business Judgment Rule)
-- § 111 Abs. 4 AktG (Zustimmungsvorbehalt Aufsichtsrat)
-- § 179a AktG (HV-Beschluss Gesamtvermoegensveraeusserung)
-- § 43 GmbHG (GF-Sorgfalt; BJR-Analogie)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff.
+- Paragraf 93 Abs. 1 Satz 2 AktG (Business Judgment Rule)
+- Paragraf 111 Abs. 4 AktG (Zustimmungsvorbehalt Aufsichtsrat)
+- Paragraf 179a AktG (HV-Beschluss Gesamtvermoegensveraeusserung)
+- Paragraf 43 GmbHG (GF-Sorgfalt; BJR-Analogie)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Hueffer/Koch, AktG, 16. Aufl. 2024, Paragraf 93 Rn. 30 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 

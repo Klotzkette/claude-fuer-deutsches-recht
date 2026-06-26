@@ -1,13 +1,13 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: Erzeugt die finale entscheidung als volltext (abschlussverfuegung staatsanwaltschaft) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+description: Erzeugt Anklageschrift, Strafbefehlsantrag, Einstellungs- oder Abschlussverfügung als zeichnungsreifen staatsanwaltschaftlichen Volltext mit Tatvorwurf, Beweisstand, Verfügungssatz und Rechtsbehelfshinweis.
 ---
 
 # Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft)
 
 ## Zweck
 
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Die Entscheidung wird zur Unterschrift fertig gebaut: mit Rubrum, vollständigem Tenor, Tatbestand oder Sachverhalt, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung.
+Dieser Skill erzeugt die staatsanwaltschaftliche Abschlussentscheidung nicht als bloßen Vorschlag, sondern als zeichnungsreifen Volltext. Er baut Anklageschrift, Strafbefehlsantrag, Einstellungsverfügung oder Abschlussverfügung mit Verfahrensdaten, Tatvorwurf, Beweisstand, rechtlicher Würdigung, Verfügungssatz, Nebenverfügungen und Rechtsbehelfshinweis.
 
 Gegenstand: Abschlussverfügung im Ermittlungsverfahren (Anklage, Strafbefehl oder Einstellung).
 
@@ -19,70 +19,81 @@ Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO 
 
 Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Insbesondere müssen vorliegen:
 
-- Rubrum mit allen Parteien, Vertretern und Aktenzeichen;
-- vollständig erfasster Sachverhalt und Streitstand;
-- geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion;
-- gewürdigte Beweise oder Akten;
-- Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
+- Aktenzeichen, Beschuldigter, Tatzeit, Tatort und zuständiges Gericht;
+- konkretisierter Tatvorwurf mit gesetzlichem Tatbestand;
+- Beweismittelübersicht mit belastenden und entlastenden Punkten;
+- geprüfte Verwertungs-, Belehrungs-, Zuständigkeits- und Eingriffsfragen;
+- Entscheidungsspur: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sonderverfahren.
 
 Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
 
 ## Aufbau des Volltextes
 
-### 1. Briefkopf und Rubrum
+### 1. Kopf und Verfahrensdaten
 
-Gerichtsbezeichnung in der ersten Zeile (zum Beispiel „Amtsgericht München"), Aktenzeichen, Verkündungsdatum, vollständiges Rubrum mit Parteien, Prozessbevollmächtigten, Streitgegenstand und Spruchkörper.
+Staatsanwaltschaft, Aktenzeichen, Datum, Dezernat, Beschuldigter, Verteidiger, Tatvorwurf, Tatzeit, Tatort, zuständiges Gericht und aktueller Verfahrensstand.
 
-### 2. Tenor (Entscheidungsformel)
+### 2. Verfügungssatz oder Anklageformel
 
-Der Tenor wird vollständig ausformuliert. Er ist die rechtskraftfähige Anordnung. Beispiel für diesen Spruchkörper:
+Die Entscheidung wird als staatsanwaltschaftliche Handlung formuliert: Anklageerhebung, Strafbefehlsantrag, Einstellung, Teileinstellung, Nachermittlung, Abgabe oder Vorlage. Beispiel für eine Einstellungsverfügung:
 
-Verfügung: Das Verfahren gegen [Name] wegen [Tatvorwurf] wird gemaess Paragraf 170 Absatz 2 StPO eingestellt, weil ein hinreichender Tatverdacht nicht besteht. Der Beschuldigte ist hiervon zu unterrichten. Der Anzeigeerstatter ist gemaess Paragraf 171 StPO zu bescheiden mit Hinweis auf das Beschwerderecht nach Paragraf 172 StPO.
+Verfügung: Das Verfahren gegen [Name] wegen [Tatvorwurf] wird gemäß Paragraf 170 Absatz 2 StPO eingestellt, weil ein hinreichender Tatverdacht nicht besteht. Der Beschuldigte ist hiervon zu unterrichten. Der Anzeigeerstatter ist gemäß Paragraf 171 StPO zu bescheiden mit Hinweis auf das Beschwerderecht nach Paragraf 172 StPO.
 
-Der Tenor enthält zwingend: Hauptausspruch zur Sache, Kostenentscheidung, ggf. Aussprache zur vorläufigen Vollstreckbarkeit, ggf. Streitwertfestsetzung.
+Der Verfügungssatz enthält zwingend: Entscheidung, Tatvorwurf, Beweismittelbezug, zuständiges Gericht oder Adressat und nächste Verfügung.
 
-### 3. Tatbestand oder Sachverhalt
+### 3. Tatvorwurf und Sachverhalt
 
-Knappe, sachlich-distanzierte Darstellung des unstreitigen Sachverhalts und des streitigen Parteivortrags. Bei Beschlüssen entsprechend „Gründe I."; bei Strafurteilen die Feststellungen zum Tatgeschehen. Verwende den Imperfekt für Geschehensschilderung, das Präsens für Antrag und Verfahrensstand.
+Knappe, beweisnahe Darstellung des konkreten Tatgeschehens. Keine Lücken füllen, keine bloßen Wertungen. Zeit, Ort, Handlung, Erfolg, subjektive Seite und Beteiligungsform werden getrennt dargestellt.
 
-### 4. Entscheidungsgründe
+### 4. Beweisstand und rechtliche Würdigung
 
-Strenge Subsumtionsstruktur: Anspruchsgrundlage oder Tatbestandsmerkmal, Tatbestandsvoraussetzungen, Subsumtion mit Belegen aus den Akten, Ergebnis. Einreden und Einwendungen am Ende der jeweiligen Prüfungsebene. Bei Strafurteilen Beweiswürdigung und Strafzumessung getrennt darstellen.
+Belastende und entlastende Beweismittel werden getrennt gewürdigt. Danach folgen Tatbestandsprüfung, Konkurrenzen, Verwertungsfragen, Zuständigkeit und Abschlussreife. Bei Strafbefehl oder Anklage muss der hinreichende Tatverdacht tragfähig begründet sein.
 
-### 5. Nebenentscheidungen
+### 5. Nebenverfügungen
 
-Kosten, vorläufige Vollstreckbarkeit, Streitwertfestsetzung. Bei Familien- und Sozialsachen die jeweils einschlägigen Kostenregeln.
+Wiedervorlage, Ladungen, Zustellungen, Mitteilungen an Verletzte, Einziehungs- oder Arrestfragen, Asservate, Registermitteilungen, Bewährungs- oder Vollstreckungshinweise und statistische Erledigung werden gesondert verfügt.
 
-### 6. Rechtsmittelbelehrung
+### 6. Rechtsbehelf, Beschwerde und Belehrung
 
-Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat. Niemals weglassen, niemals abkuerzen.
+Bei Einstellungs- und Beschwerdeentscheidungen werden Rechtsbehelf, Frist, Form und Adressat vollständig benannt. Bei Anklage und Strafbefehl wird die gerichtliche Anschlusslogik genannt.
 
-### 7. Unterschriftenzeile
+### 7. Zeichnung
 
-Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
+Ort, Datum, Dezernent, Amtsbezeichnung und gegebenenfalls Sichtvermerk oder Vorlagevermerk an Abteilungsleitung.
+
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Verfügung wird zwingend geprüft:
+
+1. Anfangsverdacht, hinreichender Tatverdacht oder Opportunitätsentscheidung sind sauber getrennt.
+2. Eingriffe wie Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft oder Vermögensarrest haben Norm, Tatsachenbasis, Verhältnismäßigkeit und Richtervorbehalt.
+3. Entlastende Umstände sind sichtbar verarbeitet; die Verfügung denkt nicht nur belastend.
+4. Beweisverwertungsfragen, Belehrungen, Rechtshilfe, digitale Spuren und Zufallsfunde sind als eigene Zeile geprüft.
+5. Abschlussentscheidung passt zum Beweisstand: Nachermittlung, Einstellung, Strafbefehl, Anklage, Beschleunigtes Verfahren oder Rechtsmittel.
+6. Rechtsprechungsanker: BVerfG, 20.02.2001 - 2 BvR 1444/00 für Durchsuchung und Gefahr im Verzug; BVerfG, 19.03.2013 - 2 BvR 2628/10 für Verständigung und Dokumentation; EuGH, 30.04.2024 - C-670/22 für importierte Kommunikationsdaten.
 
 ## Format und Stil
 
-- Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).
+- Echte Umlaute in der Prosa; Umschrift nur in Slugs und technischen Dateinamen.
 - Sachlich, knapp, in deutscher Gerichtssprache.
 - Generisches Maskulinum.
 - Paragrafenzeichen ausgeschrieben als „Paragraf".
 - Aktenzeichen Punkt- oder Schrägstrich-Stil, niemals Komma.
-- Keine Doppelsterne für Fettschrift im Fliesstext.
+- Keine Doppelsterne für Fettschrift im Fließtext.
 
 ## Ergebnis
 
-Ein vollständiger, versandfertiger Entscheidungstext, der von Rubrum bis Unterschrift alles enthält. Der Spruchkörper kann ihn unterschreiben — oder vor der Unterschrift redaktionell pruefen. Bei offenen Lückenpunkten bleibt der Volltext stehen, die Lücken werden in eckigen Klammern markiert und am Ende in einer Lücken-Liste zusammengefasst.
+Ein vollständiger, zeichnungsreifer staatsanwaltschaftlicher Volltext, der von Verfahrensdaten bis Zeichnung alles enthält. Der Dezernent kann ihn verwenden oder vor Zeichnung redaktionell prüfen. Offene Lücken werden nicht überspielt, sondern in eckigen Klammern markiert und am Ende in einer Lückenliste zusammengefasst.
 
 ## Eigenkontrolle
 
-Bevor der Volltext freigegeben wird, durchlaeuft der Skill eine Eigenkontrolle:
+Bevor der Volltext freigegeben wird, durchläuft der Skill eine Eigenkontrolle:
 
-1. Stimmt der Tenor mit den Entscheidungsgründen überein?
-2. Ist die Kostenentscheidung folgerichtig?
-3. Ist die Rechtsmittelbelehrung vollständig und richtig?
-4. Sind alle Parteibezeichnungen einheitlich?
-5. Sind alle Daten, Aktenzeichen und Betraege widerspruchsfrei?
+1. Passt die Abschlussentscheidung zum Beweisstand?
+2. Sind belastende und entlastende Umstände sichtbar verarbeitet?
+3. Sind Zuständigkeit, Verwertbarkeit, Belehrung und Eingriffsgrundlagen geprüft?
+4. Sind Tatzeit, Tatort, Tatvorwurf, Normen und Beweismittel widerspruchsfrei?
+5. Sind Rechtsbehelf, Anschlussverfügung und Wiedervorlage vollständig?
 6. Sind alle Lückenpunkte explizit markiert?
 
-Erst nach bestandener Eigenkontrolle wird der Volltext als final ausgegeben.
+Erst nach bestandener Eigenkontrolle wird der Volltext als zeichnungsreif ausgegeben.

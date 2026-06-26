@@ -1,7 +1,7 @@
 {
   "name": "staatsanwaltschaft-praxis-einstieg",
   "version": "398.0.0",
-  "description": "Praxisplugin für neue Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
+  "description": "Praxisplugin fuer neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

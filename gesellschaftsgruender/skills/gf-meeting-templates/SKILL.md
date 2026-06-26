@@ -1,6 +1,6 @@
 ---
 name: gf-meeting-templates
-description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlun..."
+description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: Paragraf 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlun..."
 ---
 
 # GF-Meeting-Templates
@@ -9,21 +9,21 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `GF-Meeting-Templates` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor jedem Meeting
 
-1. Ist ein Beschluss zu fassen — dann BJR-konforme Dokumentation der Informationsgrundlage erforderlich (§ 43 GmbHG)?
+1. Ist ein Beschluss zu fassen — dann BJR-konforme Dokumentation der Informationsgrundlage erforderlich (Paragraf 43 GmbHG)?
 2. Handelt es sich um ein reguläres Manage-Meeting oder einen außerordentlichen Anlass (Krise, Investor-Eintritt, Gesellschafterstreit)?
 3. Sind externe Berater anwesend — dann Verschwiegenheitspflichten und Clean-Room-Anforderungen beachten.
 4. Gibt es insiderinformationsrelevante Tagesordnungspunkte — dann Teilnehmerkreis einschränken.
@@ -31,14 +31,14 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 
 ## Zentrale Normen
 
-- **§ 43 GmbHG** — Sorgfaltspflicht GF: Entscheidungen müssen auf angemessener Informationsgrundlage beruhen; Protokoll als Haftungsschutz.
-- **§ 48 GmbHG** — Gesellschafterversammlung und Umlaufbeschluss: schriftliche Abstimmung bei Einvernehmen aller.
-- **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF.
-- **§ 51 GmbHG** — Form und Frist der GV-Einberufung: mindestens 1 Woche Vorlauf (abkürzbar durch Satzung).
+- **Paragraf 43 GmbHG** — Sorgfaltspflicht GF: Entscheidungen müssen auf angemessener Informationsgrundlage beruhen; Protokoll als Haftungsschutz.
+- **Paragraf 48 GmbHG** — Gesellschafterversammlung und Umlaufbeschluss: schriftliche Abstimmung bei Einvernehmen aller.
+- **Paragraf 35 GmbHG** — Vertretung der Gesellschaft durch GF.
+- **Paragraf 51 GmbHG** — Form und Frist der GV-Einberufung: mindestens 1 Woche Vorlauf (abkürzbar durch Satzung).
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Meeting-Typen und Rhythmus
 
@@ -48,7 +48,7 @@ description: "Vorlagen für Geschäftsführersitzungen und Protokolle erstellen:
 | Monatlicher Abschluss-Review | Monatlich | GF + Steuerberater | Finanzen, Liquidität, Steuern |
 | Quartals-Review mit Beirat | Quartalsweise | GF + Beirat | Strategie, Performance, Risiken |
 | Außerordentliches GF-Meeting | Bei Anlass | GF (ggf. Berater) | Krise, Investor, Gesellschafterstreit |
-| Gesellschafterversammlung | Mindestens jährlich | Gesellschafter | Jahresabschluss, Beschlüsse (§ 46 GmbHG) |
+| Gesellschafterversammlung | Mindestens jährlich | Gesellschafter | Jahresabschluss, Beschlüsse (Paragraf 46 GmbHG) |
 
 ## Template 1 — GF-Jour-Fixe Einladung (DE/EN)
 
@@ -148,7 +148,7 @@ Protokoll genehmigt: [ ] Ja am [Datum] / [ ] Nein (Einwände: [Einwand])
 Unterschriften: [GF 1] ______________ [GF 2] ______________
 ```
 
-## Template 3 — Umlaufbeschluss (§ 48 Abs. 2 GmbHG)
+## Template 3 — Umlaufbeschluss (Paragraf 48 Abs. 2 GmbHG)
 
 ```
 UMLAUFBESCHLUSS DER GESCHÄFTSFÜHRER
@@ -158,7 +158,7 @@ Datum: [Datum]
 Beschlussgegenstand: [Thema]
 
 Hiermit fassen die Geschäftsführer [Name 1] und [Name 2] folgenden Beschluss
-im schriftlichen Verfahren gemäß § 48 Abs. 2 GmbHG:
+im schriftlichen Verfahren gemäß Paragraf 48 Abs. 2 GmbHG:
 
 BESCHLUSS:
 [Wortlaut]
@@ -169,7 +169,7 @@ ABSTIMMUNG
 Geschäftsführer [Name 1]: [ ] Zustimmung [ ] Ablehnung [ ] Enthaltung
 Geschäftsführer [Name 2]: [ ] Zustimmung [ ] Ablehnung [ ] Enthaltung
 
-Annahme erfordert Einstimmigkeit bei § 48 Abs. 2 GmbHG.
+Annahme erfordert Einstimmigkeit bei Paragraf 48 Abs. 2 GmbHG.
 
 Datum, Ort: __________ Unterschriften: __________
 ```
@@ -186,16 +186,16 @@ Datum, Ort: __________ Unterschriften: __________
 
 ## Rote Schwellen
 
-- Protokoll fehlt bei wichtigem GF-Beschluss → kein Haftungsschutz BJR; GF trägt Beweislast (§ 43 Abs. 2 S. 2 GmbHG).
-- Umlaufbeschluss ohne Einvernehmen aller GF → unwirksam (§ 48 Abs. 2 GmbHG).
+- Protokoll fehlt bei wichtigem GF-Beschluss → kein Haftungsschutz BJR; GF trägt Beweislast (Paragraf 43 Abs. 2 S. 2 GmbHG).
+- Umlaufbeschluss ohne Einvernehmen aller GF → unwirksam (Paragraf 48 Abs. 2 GmbHG).
 - Informationsgrundlage nicht dokumentiert → BJR-Schutz entfällt.
 - Protokoll nachträglich geändert ohne Genehmigungsvermerk → Beweiswert zweifelhaft.
 
 ## Quellen und Vertiefung
 
-- §§ 35, 43, 48, 51 GmbHG (GF-Pflichten, Beschlussfähigkeit, Einberufung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Crezelius, GmbHG, § 43 Rn. 10-25
+- Paragraf 35, 43, 48, 51 GmbHG (GF-Pflichten, Beschlussfähigkeit, Einberufung)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Crezelius, GmbHG, Paragraf 43 Rn. 10-25
 
 ## Übergabe an andere Skills
 

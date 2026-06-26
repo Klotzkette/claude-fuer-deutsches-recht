@@ -1,22 +1,21 @@
 ---
 name: 06-schluessigkeit-pruefen
-description: "Schluessigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien"
+description: "Schlüssigkeitsprüfung in der Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsachenvortrag, Rechtsfolge, Nebenforderung und Hinweisbedarf sauber trennen."
 ---
 
 # 06 Schlüssigkeit Prüfen
 
 ## Zweck
 
-Schlüssigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien
+Die Klägerstation beantwortet nur eine Frage: Ergibt der als wahr unterstellte Klägervortrag die begehrte Rechtsfolge? Bestreiten, Beweisbarkeit, Einreden und Erheblichkeit des Beklagtenvortrags bleiben draußen; fehlender Vortrag wird als Hinweis- oder Abweisungsproblem markiert.
 
 ## Rolle
 
-
-Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
+Arbeitsmodus für die Relation im Zivilprozess. Der Skill baut einen richterlich brauchbaren Baustein für die Klägerstation und hält die Entscheidungslinie so sauber, dass daraus Hinweis, Beweisbeschluss, Vergleichsvorschlag oder Urteil ohne Stationsbruch folgen können.
 
 ## Rechtsrahmen
 
-ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
+ZPO, BGB, HGB, Methodenlehre des Bürgerlichen Rechts
 
 ## Pflichtschritte
 
@@ -47,6 +46,23 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 3. Schlüssigkeit nur nach dem Klägervortrag prüfen: jedes Tatbestandsmerkmal mit Tatsachenvortrag, Anlage und Beweisangebot verbinden.
 4. Fehlende Tatsachen als Hinweisproblem kennzeichnen; keine Beweisaufnahme für unschlüssigen Vortrag anstoßen.
 5. Klägerstation mit Kurzvotum abschließen: vollständig schlüssig, teilweise schlüssig, unschlüssig mit Hinweis oder entscheidungsreif abweisungsreif.
+
+## Schlüssigkeits-Kniffe
+
+| Prüfpunkt | Leitfrage | Prozessualer Kniff | Ausgabe |
+| --- | --- | --- | --- |
+| Antrag | Was will der Kläger genau? | Unklaren Antrag nach Rechtsschutzziel auslegen, aber keine andere Klage erfinden. | Streitgegenstand und Tenorziel in einem Satz. |
+| Anspruchsgrundlage | Welche Norm trägt die Rechtsfolge zuerst? | Vertragliche Ansprüche vor deliktischen und bereicherungsrechtlichen prüfen, wenn sie denselben Lebenssachverhalt ordnen. | Anspruchsbaum mit Haupt- und Hilfsschiene. |
+| Tatbestandsmerkmal | Welche Tatsache füllt welches Merkmal? | Jedes Merkmal erhält eine Fundstelle; Wertungen ohne Tatsachenkern werden als Lücke markiert. | Merkmal-Tatsache-Fundstelle-Tabelle. |
+| Nebenforderung | Zinsen, Kosten, Verzug, Freistellung? | Nebenforderungen nie mitschleifen; gesondert auf Fälligkeit, Mahnung, Verzug und Höhe prüfen. | Eigener Nebenforderungssatz. |
+| Hinweis | Kann die Lücke heilbar sein? | Paragraf 139 ZPO vor Abweisung prüfen, wenn Vortrag erkennbar ergänzungsfähig ist. | Formulierter richterlicher Hinweis. |
+
+## Sperren in der Klägerstation
+
+- Kein Beklagtenvortrag: Einwendungen und Einreden gehören in die Beklagtenstation.
+- Keine Beweisaufnahme: Beweisangebote werden notiert, aber erst nach Schlüssigkeit und Erheblichkeit ausgewertet.
+- Keine verdeckte Klageänderung: Lebenssachverhalt, Antrag und Rechtsfolge werden getrennt, bevor Paragraf 263 oder Paragraf 264 ZPO berührt wird.
+- Keine Überraschungsentscheidung: Wenn ein rechtlicher Gesichtspunkt tragend werden soll, wird der Hinweisbedarf nach Paragraf 139 ZPO und Artikel 103 Absatz 1 GG ausdrücklich markiert.
 
 ## Typische Fallstricke
 

@@ -23,15 +23,15 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 
 ## Rechtlicher Rahmen
 
-- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag, vier Tatbestandsmerkmale.
-- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **§ 14 ff. KStG** – körperschaftsteuerliche Organschaft.
-- **§ 7b GewStG** – Gewerbesteuer.
-- **§ 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
+- **Paragraf 3a EStG** – Steuerbefreiung Sanierungsertrag, vier Tatbestandsmerkmale.
+- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **Paragraf 14 ff. KStG** – körperschaftsteuerliche Organschaft.
+- **Paragraf 7b GewStG** – Gewerbesteuer.
+- **Paragraf 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
 - **Außensteuergesetz (AStG)** – Hinzurechnungsbesteuerung.
 - **ATAD-Richtlinie (EU) 2016/1164** – Anti-Tax-Avoidance, Zinsschranke, GAAR.
-- **§ 4h EStG** – Zinsschranke.
-- **§ 42 AO** – Missbrauch von Gestaltungen.
+- **Paragraf 4h EStG** – Zinsschranke.
+- **Paragraf 42 AO** – Missbrauch von Gestaltungen.
 - **EuInsVO – VO (EU) 2015/848** – europäische Insolvenzverordnung.
 - **EU-Beihilferecht Art. 107 AEUV** – relevant bei Sanierungsklausel.
 
@@ -42,10 +42,10 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 3. **Sanierungsbedürftigkeit pro Gesellschaft prüfen.** Sanierungsbedürftigkeit ist gesellschaftsbezogen; die Mutter ist nicht automatisch sanierungsbedürftig, nur weil eine Tochter es ist.
 4. **Sanierungsabsicht bei nahestehenden Personen.** Die Finanzverwaltung prüft die Sanierungsabsicht der Konzernmutter restriktiv. Sanierungsabsicht muss aus dem konkreten Verzichtsvertrag und der Sanierungsabrede hervorgehen.
 5. **Organschaft prüfen.** Bei laufender Organschaft erfolgt die Verlustverrechnung über die Organträgerin. Mehrgenerationen-Organschaft beachten.
-6. **Ausländische Verlustvorträge.** Verlustvorträge ausländischer Tochtergesellschaften sind nationalrechtlich nicht für § 3a Abs. 3 EStG relevant; aber bei Wegzug, Umwandlung oder Verschmelzung können sie zum Inlandsthema werden.
-7. **Hinzurechnungsbesteuerung.** Wenn Sanierungsertrag bei einer Zwischengesellschaft im Niedrigsteuerland anfällt, kann § 7 AStG greifen.
-8. **ATAD-Wirkungen.** Zinsschranke nach § 4h EStG; GAAR-Klausel; Hybride Gestaltungen § 4k EStG.
-9. **EU-Beihilfe.** Sanierungsklausel § 8c Abs. 1a KStG ist beihilferechtlich umstritten; in grenzüberschreitenden Fällen Notifizierung prüfen. Vergleiche `gk-sanierungsgewinn-eu-beihilfe-und-altmark`.
+6. **Ausländische Verlustvorträge.** Verlustvorträge ausländischer Tochtergesellschaften sind nationalrechtlich nicht für Paragraf 3a Abs. 3 EStG relevant; aber bei Wegzug, Umwandlung oder Verschmelzung können sie zum Inlandsthema werden.
+7. **Hinzurechnungsbesteuerung.** Wenn Sanierungsertrag bei einer Zwischengesellschaft im Niedrigsteuerland anfällt, kann Paragraf 7 AStG greifen.
+8. **ATAD-Wirkungen.** Zinsschranke nach Paragraf 4h EStG; GAAR-Klausel; Hybride Gestaltungen Paragraf 4k EStG.
+9. **EU-Beihilfe.** Sanierungsklausel Paragraf 8c Abs. 1a KStG ist beihilferechtlich umstritten; in grenzüberschreitenden Fällen Notifizierung prüfen. Vergleiche `gk-sanierungsgewinn-eu-beihilfe-und-altmark`.
 10. **EuInsVO.** Hauptverfahren in Mitgliedstaat des COMI; Sekundärinsolvenz möglich; steuerliche Behandlung folgt Sitzland der Schuldnerin.
 11. **Cross-Border-Tax Steps.** Step Plan in jeder Jurisdiktion; lokale Spezialisten einbinden; Reihenfolge der Wirksamkeiten koordinieren.
 
@@ -63,23 +63,23 @@ Nicht dieser Skill, sondern die nationalen Sanierungsskills sind primär, wenn n
 
 Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 
-- **„Sanierungsabsicht zwischen Konzerngesellschaften muss geschrieben sein."** Die Finanzverwaltung sieht in konzerninternen Verzichten zunächst eine verdeckte Einlage (§ 8 Abs. 3 Satz 2 KStG), nicht eine Sanierungsmaßnahme. Wer die Sanierungsabsicht nicht ausdrücklich in den Verzichtsvertrag schreibt und mit IDW-S6-Gutachten unterfüttert, riskiert die Versagung von § 3a EStG.
-- **„Organschaft kann den Sanierungserfolg verstecken."** In einer Organschaft fließt der Sanierungsertrag der Organgesellschaft an den Organträger. Das ist nicht zwingend ein Vorteil; der Organträger hat ggf. keine Verlustvorträge, die durch § 3a Abs. 3 EStG verbraucht werden könnten. Die Organschaft kann den Sanierungsmechanismus also auch verschlechtern; eine Vorab-Prüfung mit dem Steuerteam ist Pflicht.
-- **„Cross-Border-Restrukturierung braucht Local Counsel."** Sanierungsmechanismen sind national; § 3a EStG gilt nur für deutsche Steuerpflichtige. Wer einen Cross-Border-Plan ohne lokalen Tax Counsel umsetzt, importiert in den Plan einen Kostenfaktor, der größer ist als die anwaltlichen Honorare.
+- **„Sanierungsabsicht zwischen Konzerngesellschaften muss geschrieben sein."** Die Finanzverwaltung sieht in konzerninternen Verzichten zunächst eine verdeckte Einlage (Paragraf 8 Abs. 3 Satz 2 KStG), nicht eine Sanierungsmaßnahme. Wer die Sanierungsabsicht nicht ausdrücklich in den Verzichtsvertrag schreibt und mit IDW-S6-Gutachten unterfüttert, riskiert die Versagung von Paragraf 3a EStG.
+- **„Organschaft kann den Sanierungserfolg verstecken."** In einer Organschaft fließt der Sanierungsertrag der Organgesellschaft an den Organträger. Das ist nicht zwingend ein Vorteil; der Organträger hat ggf. keine Verlustvorträge, die durch Paragraf 3a Abs. 3 EStG verbraucht werden könnten. Die Organschaft kann den Sanierungsmechanismus also auch verschlechtern; eine Vorab-Prüfung mit dem Steuerteam ist Pflicht.
+- **„Cross-Border-Restrukturierung braucht Local Counsel."** Sanierungsmechanismen sind national; Paragraf 3a EStG gilt nur für deutsche Steuerpflichtige. Wer einen Cross-Border-Plan ohne lokalen Tax Counsel umsetzt, importiert in den Plan einen Kostenfaktor, der größer ist als die anwaltlichen Honorare.
 
 ## SPA-/Plan-Klausel Mustertexte
 
 **Konzerninterner Forderungsverzicht mit Sanierungsabsicht:**
 
-> Konzerninterner Forderungsverzicht: Die Gläubigerin verzichtet hiermit auf die in Anlage A bezeichneten konzerninternen Forderungen gegen die Schuldnerin in Höhe von [Betrag]. Der Verzicht erfolgt ausschließlich zum Zweck der Sanierung der Schuldnerin im Sinne von § 3a Abs. 2 EStG und stellt unter Würdigung der wirtschaftlichen Gesamtsituation einen substantiellen Sanierungsbeitrag dar. Die Sanierungsabsicht der Gläubigerin ist in dem dieser Vereinbarung als Anlage B beigefügten Sanierungskonzept gemäß IDW S 6 dokumentiert.
+> Konzerninterner Forderungsverzicht: Die Gläubigerin verzichtet hiermit auf die in Anlage A bezeichneten konzerninternen Forderungen gegen die Schuldnerin in Höhe von [Betrag]. Der Verzicht erfolgt ausschließlich zum Zweck der Sanierung der Schuldnerin im Sinne von Paragraf 3a Abs. 2 EStG und stellt unter Würdigung der wirtschaftlichen Gesamtsituation einen substantiellen Sanierungsbeitrag dar. Die Sanierungsabsicht der Gläubigerin ist in dem dieser Vereinbarung als Anlage B beigefügten Sanierungskonzept gemäß IDW S 6 dokumentiert.
 
 **Cross-Border Tax Coordination Memo:**
 
-> Cross-Border Tax Coordination: Die Parteien vereinbaren, dass die in den verschiedenen Jurisdiktionen erforderlichen Anträge auf Steuerbefreiung des Sanierungsertrags koordiniert eingereicht werden. Für die deutsche Steuerseite ist Antragstellung nach § 3a Abs. 4 EStG vorgesehen; für [Jurisdiktion 2] gelten die entsprechenden lokalen Antragsregelungen. Eine Liste der erforderlichen Anträge mit Fristen findet sich in Anlage C (Cross-Border Tax Steps).
+> Cross-Border Tax Coordination: Die Parteien vereinbaren, dass die in den verschiedenen Jurisdiktionen erforderlichen Anträge auf Steuerbefreiung des Sanierungsertrags koordiniert eingereicht werden. Für die deutsche Steuerseite ist Antragstellung nach Paragraf 3a Abs. 4 EStG vorgesehen; für [Jurisdiktion 2] gelten die entsprechenden lokalen Antragsregelungen. Eine Liste der erforderlichen Anträge mit Fristen findet sich in Anlage C (Cross-Border Tax Steps).
 
 ## Typische Fehler in komplexer Transaktion
 
-- Sanierungsabsicht der Konzernmutter wird nicht dokumentiert; Verzicht wird als verdeckte Einlage gewertet, § 3a EStG entfällt.
+- Sanierungsabsicht der Konzernmutter wird nicht dokumentiert; Verzicht wird als verdeckte Einlage gewertet, Paragraf 3a EStG entfällt.
 - Organschaftliche Wirkungen werden nicht vorab modelliert; Sanierungsertrag fließt an Organträger ohne Verlustvortrag.
 - Verlustvorträge ausländischer Töchter werden in die Sanierungs-Brücke einbezogen; rechtlich nicht haltbar.
 - Hinzurechnungsbesteuerung nach AStG bei Zwischengesellschaft im Niedrigsteuerland wird übersehen.
@@ -98,7 +98,7 @@ Drei Beobachtungen aus der internationalen Restrukturierungspraxis:
 
 ## Quellen Stand 06/2026
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8b KStG; § 14 ff. KStG; § 4h EStG; § 4k EStG; § 8c KStG; § 8d KStG; § 42 AO – gesetze-im-internet.de.
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8b KStG; Paragraf 14 ff. KStG; Paragraf 4h EStG; Paragraf 4k EStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 42 AO – gesetze-im-internet.de.
 - AStG – gesetze-im-internet.de.
 - ATAD-Richtlinie (EU) 2016/1164 – EUR-Lex.
 - EuInsVO VO (EU) 2015/848 – EUR-Lex.

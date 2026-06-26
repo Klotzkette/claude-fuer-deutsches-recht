@@ -9,14 +9,14 @@ description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeig
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kommandocenter Gesellschaftsgründung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,17 +32,17 @@ description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeig
 
 ## Zentrale Normen
 
-- **§§ 2, 5, 7 GmbHG** — Beurkundung, Stammkapital, Anmeldevoraussetzungen.
-- **§ 5a GmbHG** — UG-Sondervariante; Thesaurierungspflicht 25 %.
-- **§§ 15 ff. HGB / § 8 HGB** — Handelsregisterpflicht und Wirkung der Eintragung.
-- **§ 19 GwG** — Transparenzregistermeldepflicht; wirtschaftlich Berechtigte.
-- **§§ 14-15 GewO** — Gewerbeanmeldungspflicht; sofort nach Geschäftsaufnahme.
-- **§ 138 AO** — Steuerliche Erfassung beim Finanzamt innerhalb eines Monats.
-- **§ 15a InsO** — Insolvenzantragspflicht ab Gründung; GF-Pflicht kennen.
+- **Paragraf 2, 5, 7 GmbHG** — Beurkundung, Stammkapital, Anmeldevoraussetzungen.
+- **Paragraf 5a GmbHG** — UG-Sondervariante; Thesaurierungspflicht 25 %.
+- **Paragraf 15 ff. HGB / Paragraf 8 HGB** — Handelsregisterpflicht und Wirkung der Eintragung.
+- **Paragraf 19 GwG** — Transparenzregistermeldepflicht; wirtschaftlich Berechtigte.
+- **Paragraf 14-15 GewO** — Gewerbeanmeldungspflicht; sofort nach Geschäftsaufnahme.
+- **Paragraf 138 AO** — Steuerliche Erfassung beim Finanzamt innerhalb eines Monats.
+- **Paragraf 15a InsO** — Insolvenzantragspflicht ab Gründung; GF-Pflicht kennen.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Gründungsphasen-Übersicht
 
@@ -59,12 +59,12 @@ description: "Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeig
 
 | Pflicht | Frist | Konsequenz bei Versäumnis | Norm |
 |---|---|---|---|
-| Gewerbeanmeldung | unverzüglich nach Geschäftsaufnahme | Bußgeld bis 1.000 EUR | § 14 GewO |
-| Steuerliche Erfassung (FA) | innerhalb 1 Monat | Schätzung; Säumniszuschläge | § 138 AO |
-| Berufsgenossenschaft | binnen 1 Woche | Bußgeld | § 192 SGB VII |
-| Transparenzregister | unverzüglich (sobald wirtschaftlich Berechtigter feststeht) | bis 150.000 EUR | § 56 GwG |
-| Insolvenzantragspflicht GF | 6 Wochen (Überschuldung) / 3 Wochen (ZU) | persönliche Haftung § 15b InsO | § 15a InsO |
-| Erste Umsatzsteuervoranmeldung | bis Ende des Folgemonats | Säumnis | § 18 UStG |
+| Gewerbeanmeldung | unverzüglich nach Geschäftsaufnahme | Bußgeld bis 1.000 EUR | Paragraf 14 GewO |
+| Steuerliche Erfassung (FA) | innerhalb 1 Monat | Schätzung; Säumniszuschläge | Paragraf 138 AO |
+| Berufsgenossenschaft | binnen 1 Woche | Bußgeld | Paragraf 192 SGB VII |
+| Transparenzregister | unverzüglich (sobald wirtschaftlich Berechtigter feststeht) | bis 150.000 EUR | Paragraf 56 GwG |
+| Insolvenzantragspflicht GF | 6 Wochen (Überschuldung) / 3 Wochen (ZU) | persönliche Haftung Paragraf 15b InsO | Paragraf 15a InsO |
+| Erste Umsatzsteuervoranmeldung | bis Ende des Folgemonats | Säumnis | Paragraf 18 UStG |
 
 ## Kostentabelle nach Rechtsform
 
@@ -130,21 +130,21 @@ Geschäftsführer: [Namen]
 
 ## Rote Schwellen
 
-- Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (§ 9 GmbHG).
-- Geschäfte vor HR-Eintragung ohne Gesellschafter-Genehmigung → GF-Handelndenhaftung (§ 11 GmbHG).
+- Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (Paragraf 9 GmbHG).
+- Geschäfte vor HR-Eintragung ohne Gesellschafter-Genehmigung → GF-Handelndenhaftung (Paragraf 11 GmbHG).
 - Genehmigungspflichtiger Gegenstand ohne Genehmigung → Eintragung gesperrt.
-- Insolvenzantragspflicht (§ 15a InsO) schon in Gründungsphase ausgelöst (z.B. Überschuldung durch Vorbelastung) → sofortige anwaltliche Beratung.
-- Transparenzregister-Meldung vergessen → Bußgeld bis 150.000 EUR (§ 56 GwG).
+- Insolvenzantragspflicht (Paragraf 15a InsO) schon in Gründungsphase ausgelöst (z.B. Überschuldung durch Vorbelastung) → sofortige anwaltliche Beratung.
+- Transparenzregister-Meldung vergessen → Bußgeld bis 150.000 EUR (Paragraf 56 GwG).
 
 ## Quellen und Vertiefung
 
-- §§ 2, 5, 7, 9, 11 GmbHG (Gründung, Vorgesellschaft, Anmeldung)
-- §§ 14-15 GewO (Gewerbeanmeldung)
-- § 138 AO (Steuerliche Erfassung)
-- §§ 19, 56 GwG (Transparenzregister)
-- § 15a InsO (Insolvenzantragspflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Emmerich, GmbHG, § 11 Rn. 1-40
+- Paragraf 2, 5, 7, 9, 11 GmbHG (Gründung, Vorgesellschaft, Anmeldung)
+- Paragraf 14-15 GewO (Gewerbeanmeldung)
+- Paragraf 138 AO (Steuerliche Erfassung)
+- Paragraf 19, 56 GwG (Transparenzregister)
+- Paragraf 15a InsO (Insolvenzantragspflicht)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Emmerich, GmbHG, Paragraf 11 Rn. 1-40
 
 ## Übergabe an andere Skills
 

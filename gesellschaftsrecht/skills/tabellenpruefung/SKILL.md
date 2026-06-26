@@ -9,11 +9,11 @@ Dieser Skill verwandelt gesellschaftsrechtliche Unterlagen in eine belastbare Pr
 
 ## Normenanker
 
-- §§ 13, 15, 16, 35, 40 GmbHG fuer GmbH-Status, Anteilsuebertragung und Gesellschafterliste.
-- §§ 53, 54 GmbHG fuer Satzungsaenderung und Kapitalmassnahmen.
-- §§ 705 ff. BGB fuer Personengesellschaftsbezug nach MoPeG.
-- §§ 15, 161 HGB fuer Registerpublizitaet und KG-Strukturen.
-- §§ 311 ff., 241 Abs. 2, 280 BGB fuer vorvertragliche und vertragliche Pflichten in Transaktionsunterlagen.
+- Paragraf 13, 15, 16, 35, 40 GmbHG fuer GmbH-Status, Anteilsuebertragung und Gesellschafterliste.
+- Paragraf 53, 54 GmbHG fuer Satzungsaenderung und Kapitalmassnahmen.
+- Paragraf 705 ff. BGB fuer Personengesellschaftsbezug nach MoPeG.
+- Paragraf 15, 161 HGB fuer Registerpublizitaet und KG-Strukturen.
+- Paragraf 311 ff., 241 Abs. 2, 280 BGB fuer vorvertragliche und vertragliche Pflichten in Transaktionsunterlagen.
 
 ## Arbeitsgang
 

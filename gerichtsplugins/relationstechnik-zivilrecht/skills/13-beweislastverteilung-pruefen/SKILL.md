@@ -1,22 +1,21 @@
 ---
 name: 13-beweislastverteilung-pruefen
-description: "Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen (Paragraf 280 Abs. 1 S. 2 BGB, Paragraf 286 ZPO, Paragrafen 363 und 477 BGB), Beweisvereitelung, sekundaere Darlegungslast"
+description: "Beweislastverteilung in der Beweisstation: anspruchsbegründende, rechtshindernde, rechtsvernichtende und rechtshemmende Tatsachen samt Sonderregeln trennen."
 ---
 
 # 13 Beweislastverteilung Prüfen
 
 ## Zweck
 
-Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen (Paragraf 280 Abs. 1 S. 2 BGB, Paragraf 286 ZPO, Paragrafen 363 und 477 BGB), Beweisvereitelung, sekundaere Darlegungslast
+Der Skill ordnet jede streitige und erhebliche Tatsache einer beweisbelasteten Partei zu. Er trennt Darlegungslast, Beweislast, Beweiserleichterung, sekundäre Darlegungslast, Anscheinsbeweis, Schadensschätzung, Beweisvereitelung und non liquet, bevor ein Beweisbeschluss formuliert wird.
 
 ## Rolle
 
-
-Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
+Arbeitsmodus für die richterliche Beweisstation. Der Skill verhindert, dass die Beweisaufnahme zur Ausforschung wird, und zeigt für jeden Streitpunkt, wer bei offenbleibender Tatsache verliert.
 
 ## Rechtsrahmen
 
-ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
+ZPO, BGB, HGB, Methodenlehre des Bürgerlichen Rechts
 
 ## Pflichtschritte
 
@@ -55,6 +54,23 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
 5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
+
+## Beweislast-Matrix
+
+| Tatsache | Regel | Typische Partei | Prüfhinweis |
+| --- | --- | --- | --- |
+| Anspruchsbegründend | Wer die günstige Rechtsfolge will, trägt die Tatsachen. | Kläger | Anspruchsmerkmal erst aus Klägerstation übernehmen, wenn es schlüssig und erheblich ist. |
+| Rechtshindernd | Tatsachen, die das Entstehen verhindern. | Beklagter | Geschäftsunfähigkeit, Formmangel, Gesetzesverbot oder fehlende Genehmigung gesondert prüfen. |
+| Rechtsvernichtend | Tatsachen, die einen entstandenen Anspruch beseitigen. | Beklagter | Erfüllung, Aufrechnung, Erlass, Rücktritt oder Anfechtung mit Zugang und Zeitpunkt versehen. |
+| Rechtshemmend | Einreden gegen Durchsetzbarkeit. | Beklagter | Verjährung, Zurückbehaltung und Stundung nur auf Einrede oder prozessual wirksamen Vortrag. |
+| Höhe und Schaden | Paragraf 287 ZPO kann die Überzeugungsanforderung senken. | Meist Kläger | Schätzung braucht Anknüpfungstatsachen; reine Spekulation reicht nicht. |
+| Beweisnähe | Sekundäre Darlegungslast kann Vortragspflichten verschieben. | Sachnähere Partei | Verschiebt nicht automatisch die Beweislast; non liquet bleibt gesondert zuordnen. |
+
+## Non-liquet-Satz
+
+```text
+Bleibt nach Ausschöpfung der angebotenen und gebotenen Beweise offen, ob [Tatsache] vorliegt, wirkt dies zulasten von [Partei], weil diese für [Tatbestandsmerkmal/Einwendung/Einrede] beweisbelastet ist.
+```
 
 ## Typische Fallstricke
 

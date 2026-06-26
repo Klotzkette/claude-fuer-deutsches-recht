@@ -1,14 +1,11 @@
 {
   "name": "relationstechnik-zivilrecht",
   "version": "398.0.0",
-  "description": "Relationstechnik Zivilrecht: vollständige große Relation Klägerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt für Richter Referendare und Anwaelte",
+  "description": "Relationstechnik Zivilrecht: Klaegerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schluessigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum.",
   "keywords": [
     "experimental-justiz",
     "gericht",
     "richter",
-    "ki-vo",
-    "art-22-dsgvo",
-    "aktengeheimnis",
     "revisionssicher",
     "relationstechnik"
   ],

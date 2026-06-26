@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-pflichten-startphase
-description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abg..."
+description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: Paragraf 35 43 64 GmbHG, Paragraf 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abg..."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten
@@ -9,14 +9,14 @@ description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphas
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erste 100 Tage Geschäftsführer-Pflichten` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -26,41 +26,41 @@ description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphas
 1. Ist der GF Gesellschafter-GF mit Mehrheit oder Fremd-GF? (Unterschied: BJR, Weisungsrecht, SV-Status)
 2. Gibt es bereits Mitarbeiter — dann Lohnsteuer-Anmeldung und SV-Beiträge sofort.
 3. Welches Geschäftsjahr — Kalenderjahr oder abweichendes Wirtschaftsjahr?
-4. Ist das Unternehmen umsatzsteuerpflichtig oder kommt Kleinunternehmer-Regelung (§ 19 UStG) in Betracht?
+4. Ist das Unternehmen umsatzsteuerpflichtig oder kommt Kleinunternehmer-Regelung (Paragraf 19 UStG) in Betracht?
 5. Gibt es bereits Gläubiger / Schulden — Liquiditätsstatus sofort prüfen; keine masseschmälernden Zahlungen bei Insolvenzreife.
 6. Besteht eine D&O-Versicherung oder soll eine abgeschlossen werden?
 
 ## Zentrale Normen
 
-- **§ 43 GmbHG** — Sorgfaltspflicht des GF: Sorgfalt eines ordentlichen Geschäftsmannes; Haftung gegenüber Gesellschaft.
-- **§ 15a InsO** — Insolvenzantragspflicht: 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
-- **§ 15b InsO** — Zahlungsverbot nach Insolvenzreife; persönliche Haftung des GF.
-- **§ 238 HGB** — Buchführungspflicht; doppelte Buchführung für GmbH zwingend.
-- **§§ 264, 325 HGB** — Jahresabschluss aufstellen (3 Monate) und offenlegen (12 Monate).
-- **§§ 18 UStG, 41a EStG, 19 KStG** — Steuervoranmeldungen und Vorauszahlungspflichten.
-- **§ 19 GwG** — Transparenzregister-Meldepflicht; unverzüglich nach Gründung.
+- **Paragraf 43 GmbHG** — Sorgfaltspflicht des GF: Sorgfalt eines ordentlichen Geschäftsmannes; Haftung gegenüber Gesellschaft.
+- **Paragraf 15a InsO** — Insolvenzantragspflicht: 6 Wochen (Überschuldung) / 3 Wochen (Zahlungsunfähigkeit).
+- **Paragraf 15b InsO** — Zahlungsverbot nach Insolvenzreife; persönliche Haftung des GF.
+- **Paragraf 238 HGB** — Buchführungspflicht; doppelte Buchführung für GmbH zwingend.
+- **Paragraf 264, 325 HGB** — Jahresabschluss aufstellen (3 Monate) und offenlegen (12 Monate).
+- **Paragraf 18 UStG, 41a EStG, 19 KStG** — Steuervoranmeldungen und Vorauszahlungspflichten.
+- **Paragraf 19 GwG** — Transparenzregister-Meldepflicht; unverzüglich nach Gründung.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## 100-Tage-Pflichten-Matrix
 
 | Pflicht | Frist | Norm | Konsequenz bei Versäumnis |
 |---|---|---|---|
-| Buchführung einrichten | sofort | § 238 HGB | Schätzung, Bußgeld, Haftung |
-| Gewerbe anmelden | unverzüglich nach Aufnahme | § 14 GewO | Bußgeld bis 1.000 EUR |
-| Steuerliche Erfassung FA | innerhalb 1 Monat | § 138 AO | Schätzung, Säumnis |
-| USt-Voranmeldung einrichten | 10. des Folgemonats | § 18 UStG | Säumniszuschlag |
-| Lohnsteuer-Anmeldung (bei MA) | 10. des Folgemonats | § 41a EStG | Haftung GF §§ 34, 69 AO |
-| SV-Anmeldung Mitarbeiter | vor Beschäftigungsbeginn | § 28a SGB IV | Bußgeld bis 25.000 EUR |
-| Transparenzregister | unverzüglich nach HR | § 19 GwG | Bußgeld bis 150.000 EUR |
-| Jahresabschluss aufstellen | 3 Monate nach GJ-Ende | § 264 HGB | Ordnungsgeld bis 25.000 EUR |
-| Bundesanzeiger-Offenlegung | 12 Monate nach GJ-Ende | § 325 HGB | Ordnungsgeld |
-| Insolvenzlage überwachen | laufend | § 15a InsO | persönliche Haftung, Strafbarkeit |
+| Buchführung einrichten | sofort | Paragraf 238 HGB | Schätzung, Bußgeld, Haftung |
+| Gewerbe anmelden | unverzüglich nach Aufnahme | Paragraf 14 GewO | Bußgeld bis 1.000 EUR |
+| Steuerliche Erfassung FA | innerhalb 1 Monat | Paragraf 138 AO | Schätzung, Säumnis |
+| USt-Voranmeldung einrichten | 10. des Folgemonats | Paragraf 18 UStG | Säumniszuschlag |
+| Lohnsteuer-Anmeldung (bei MA) | 10. des Folgemonats | Paragraf 41a EStG | Haftung GF Paragraf 34, 69 AO |
+| SV-Anmeldung Mitarbeiter | vor Beschäftigungsbeginn | Paragraf 28a SGB IV | Bußgeld bis 25.000 EUR |
+| Transparenzregister | unverzüglich nach HR | Paragraf 19 GwG | Bußgeld bis 150.000 EUR |
+| Jahresabschluss aufstellen | 3 Monate nach GJ-Ende | Paragraf 264 HGB | Ordnungsgeld bis 25.000 EUR |
+| Bundesanzeiger-Offenlegung | 12 Monate nach GJ-Ende | Paragraf 325 HGB | Ordnungsgeld |
+| Insolvenzlage überwachen | laufend | Paragraf 15a InsO | persönliche Haftung, Strafbarkeit |
 | Datenschutz (DSGVO) | vor erstem Datenabruf | DSGVO Art. 24 | Bußgeld bis 20 Mio. EUR |
-| Berufsgenossenschaft | binnen 1 Woche nach Aufnahme | § 192 SGB VII | Bußgeld |
-| IHK-Mitgliedschaft | automatisch mit Gewerbe | § 2 IHKG | — |
+| Berufsgenossenschaft | binnen 1 Woche nach Aufnahme | Paragraf 192 SGB VII | Bußgeld |
+| IHK-Mitgliedschaft | automatisch mit Gewerbe | Paragraf 2 IHKG | — |
 
 ## Schritt-für-Schritt-Workflow
 
@@ -71,7 +71,7 @@ description: "Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphas
 5. **Sozialversicherung** — bei Mitarbeitern: SV-Anmeldung Krankenkasse; Lohnbuchhaltung starten.
 6. **Transparenzregister** — wirtschaftlich Berechtigte melden.
 7. **D&O-Versicherung** — Versicherungsschutz vor erstem Außenauftritt prüfen.
-8. **Liquiditätsmonitoring einrichten** — monatlicher Liquiditätsstatus; Krisenampel (§§ 17-19 InsO).
+8. **Liquiditätsmonitoring einrichten** — monatlicher Liquiditätsstatus; Krisenampel (Paragraf 17-19 InsO).
 9. **Erstes GF-Meeting / Protokoll** — Board-Beschlüsse dokumentieren; Haftungsschutz durch Business Judgment Rule.
 10. **Jahresabschluss planen** — Steuerberater beauftragen; Frist im Kalender eintragen.
 
@@ -113,9 +113,9 @@ JAHRESENDE
 [ ] Insolvenzlage prüfen: EK > Hälfte Stammkapital?
 
 ESKALATIONSSCHWELLEN
-[ ] EK sinkt unter Hälfte des Stammkapitals → § 49 Abs. 3 GmbHG Pflichtversammlung
-[ ] Zahlungsunfähigkeit erkennbar → § 15a InsO, Frist 3 Wochen
-[ ] Überschuldung erkennbar → § 15a InsO, Frist 6 Wochen
+[ ] EK sinkt unter Hälfte des Stammkapitals → Paragraf 49 Abs. 3 GmbHG Pflichtversammlung
+[ ] Zahlungsunfähigkeit erkennbar → Paragraf 15a InsO, Frist 3 Wochen
+[ ] Überschuldung erkennbar → Paragraf 15a InsO, Frist 6 Wochen
 ```
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
@@ -128,20 +128,20 @@ ESKALATIONSSCHWELLEN
 
 ## Rote Schwellen
 
-- Masseschmälernde Zahlungen nach Insolvenzreife → sofortige persönliche GF-Haftung (§ 15b InsO); Zahlung stoppen.
-- Lohnsteuer nicht abgeführt → GF persönlich haftbar nach §§ 34, 69 AO.
+- Masseschmälernde Zahlungen nach Insolvenzreife → sofortige persönliche GF-Haftung (Paragraf 15b InsO); Zahlung stoppen.
+- Lohnsteuer nicht abgeführt → GF persönlich haftbar nach Paragraf 34, 69 AO.
 - Jahresabschluss nicht offengelegt → Ordnungsgeldverfahren durch Bundesamt für Justiz.
 - Datenschutz-Verstöße → DSGVO-Bußgeld; persönliche GF-Verantwortung.
 - Berufsgenossenschaft nicht angemeldet → unversicherter Betrieb; Haftungsrisiko bei Arbeitsunfall.
 
 ## Quellen und Vertiefung
 
-- §§ 43, 49 GmbHG (GF-Pflichten, Sorgfalt, Pflichtversammlung)
-- §§ 238, 264, 325 HGB (Buchführung, Jahresabschluss, Offenlegung)
-- §§ 15a, 15b InsO (Insolvenzantragspflicht, Zahlungsverbot)
-- § 19 GwG (Transparenzregister)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Crezelius, GmbHG, § 43 Rn. 1-60
+- Paragraf 43, 49 GmbHG (GF-Pflichten, Sorgfalt, Pflichtversammlung)
+- Paragraf 238, 264, 325 HGB (Buchführung, Jahresabschluss, Offenlegung)
+- Paragraf 15a, 15b InsO (Insolvenzantragspflicht, Zahlungsverbot)
+- Paragraf 19 GwG (Transparenzregister)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Crezelius, GmbHG, Paragraf 43 Rn. 1-60
 
 ## Übergabe an andere Skills
 

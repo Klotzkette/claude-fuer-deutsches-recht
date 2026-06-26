@@ -33,7 +33,7 @@ Diese Unterlagenprüfung für **Gesellschaftsgruender** benennt fehlende Dokumen
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
 - Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
 - Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
-- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. Paragraf 29 VwVfG, Paragraf 147 StPO, Paragraf 25 SGB X) prüfen und nutzen.
 
 ## Qualitätsanker
 

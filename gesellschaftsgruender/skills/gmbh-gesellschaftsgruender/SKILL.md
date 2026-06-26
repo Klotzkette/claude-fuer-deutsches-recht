@@ -19,7 +19,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **gesellschafts
 
 ## Fachliche Anker
 
-- BGB §§ 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
+- BGB Paragraf 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
 - Organ, Vertretung, Beschluss, Ladung, Mehrheit, Registervollzug, Treuepflicht und Haftung getrennt prüfen.
 - Cap Table, Gesellschafterliste, Satzung, Protokoll, Registerstand und Nebenabreden nie vermischen.
 

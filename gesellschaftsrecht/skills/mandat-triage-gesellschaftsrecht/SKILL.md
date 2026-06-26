@@ -21,7 +21,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Arbeitsbereich
 
-Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht Paragraf 15a InsO drei Wochen Anfechtungsklage Paragraf 246 AktG ein Monat. Normen Paragraf 2 GmbHG Gründung Paragraf 48 GmbHG Gesellschafterversammlung Paragraf 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -33,8 +33,8 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Gesellschaftsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -48,27 +48,27 @@ Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach Gmb
 
 Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bis 4 bestimmen das Routing, Fragen 5 bis 8 die Mandatsstrategie:
 
-1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht § 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist § 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
+1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht Paragraf 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist Paragraf 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
 2. **Mandantenrolle:** Wer ist der Mandant? (Gesellschafter / Geschäftsführer / Aufsichtsrat / Investor / Kaeufer / Verkaeufer / Zielgesellschaft / Gläubiger)
 3. **Rechtsform der betroffenen Gesellschaft:** GmbH / UG / AG / SE / GmbH & Co. KG / OHG / GbR / Stiftung / Verein
 4. **Vorgang:** Was soll rechtlich geschehen oder was ist passiert?
 5. **Stand des Verfahrens:** Beratung im Vorfeld / Vertrag in Verhandlung / Streit / Klage
 6. **Wirtschaftliche Verhältnisse:** Gesellschaftsgroesse (Umsatz, Mitarbeiter, Bilanz)
-7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjährung Geschäftsführer-Haftung 5 Jahre (§ 43 Abs. 4 GmbHG)
+7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjährung Geschäftsführer-Haftung 5 Jahre (Paragraf 43 Abs. 4 GmbHG)
 8. **Interessenkonflikt-Check:** Vertritt die Kanzlei bereits eine andere Partei derselben Transaktion?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
-§ 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — § 43 GmbHG (Geschäftsführer-Haftung; Verjährung 5 Jahre) — § 93 AktG (Vorstandshaftung) — § 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — § 14 UmwG (Klagefrist Umwandlung; 1 Monat) — §§ 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — § 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — §§ 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
+Paragraf 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — Paragraf 43 GmbHG (Geschäftsführer-Haftung; Verjährung 5 Jahre) — Paragraf 93 AktG (Vorstandshaftung) — Paragraf 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — Paragraf 14 UmwG (Klagefrist Umwandlung; 1 Monat) — Paragraf 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — Paragraf 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — Paragraf 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Ablauf — acht Fragen
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 ### Frage 1 — Mandantenrolle?
 
@@ -122,7 +122,7 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 
 ### Frage 4 — Akute Eilbedürftigkeit?
 
-- **Insolvenzantragspflicht** § 15a InsO drei Wochen
+- **Insolvenzantragspflicht** Paragraf 15a InsO drei Wochen
 - **Geschäftsführer-Abberufung** Versammlung morgen
 - **Closing-Termin** binnen Tagen
 - **Beschluss-Anfechtung** Frist
@@ -152,11 +152,11 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 
 ### Frage 7 — Frist?
 
-- **§ 15a InsO** drei Wochen Antragspflicht
-- **§ 246 AktG** ein Monat Anfechtungsklage AG
-- **§ 47 EGAktG / § 14 UmwG** Frist Umwandlung
+- **Paragraf 15a InsO** drei Wochen Antragspflicht
+- **Paragraf 246 AktG** ein Monat Anfechtungsklage AG
+- **Paragraf 47 EGAktG / Paragraf 14 UmwG** Frist Umwandlung
 - **GWB-Anmeldung** Kartellrecht — vor Vollzug
-- **Verjährung Geschäftsführer-Haftung** fünf Jahre § 43 GmbHG / § 93 AktG
+- **Verjährung Geschäftsführer-Haftung** fünf Jahre Paragraf 43 GmbHG / Paragraf 93 AktG
 - **Closing-Vertrags-Fristen**
 
 ### Frage 8 — Konflikt?
@@ -207,8 +207,8 @@ Diese acht Fragen sind in der angegebenen Reihenfolge zu klären — Fragen 1 bi
 3. **Routing-Matrix anwenden:** Folge-Skill aus der Matrix auswaehlen und direkt starten.
 4. **Fristenbuch befuellen:** Alle identifizierten Fristen sofort im Kanzlei-Fristenbuch mit Wiedervorlage eintragen.
 5. **Mandatsanlage:** Mandat-Slug generieren, `mandat.md` anlegen (→ `gesellschaftsrecht-mandat-arbeitsbereich`).
-6. **GwG-Identifizierung:** Bei neuem Mandanten Identifizierungspflicht (§§ 10 ff. GwG) vor Beratungsbeginn abarbeiten.
-7. **Interessenkonflikt-Check:** Kanzlei-internes System prüfen; bei Zweifeln Mandat ablehnen oder aufteilen (§ 43a Abs. 4 BRAO).
+6. **GwG-Identifizierung:** Bei neuem Mandanten Identifizierungspflicht (Paragraf 10 ff. GwG) vor Beratungsbeginn abarbeiten.
+7. **Interessenkonflikt-Check:** Kanzlei-internes System prüfen; bei Zweifeln Mandat ablehnen oder aufteilen (Paragraf 43a Abs. 4 BRAO).
 8. **Ausgabe erzeugen:** Triage-Protokoll + Folge-Skill-Empfehlung.
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -246,12 +246,12 @@ Gesellschaft: [FIRMA, HRB, REGISTERGERICHT]
 
 --- VORGANG ---
 [BESCHREIBUNG DES VORGANGS — ein bis zwei Saetze]
-Rechtliche Einordnung: [§§ NORMEN]
+Rechtliche Einordnung: [Paragraf NORMEN]
 
 --- FRISTEN (KRITISCHE PFADE) ---
 | Frist | Norm | Ablauf | Wiedervorlage | Im Fristenbuch |
 |---|---|---|---|---|
-| [FRISTBEZEICHNUNG] | [§ NORM] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [JA / NEIN] |
+| [FRISTBEZEICHNUNG] | [Paragraf NORM] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [JA / NEIN] |
 
 --- FOLGE-SKILL ---
 Empfehlung: [SKILL-NAME]
@@ -288,23 +288,23 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Rote Schwellen
 
-- **Insolvenzantragspflicht § 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschäftsführer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
-- **Beschluss-Anfechtungsfrist § 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschlüsse.
-- **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; § 43a Abs. 4 BRAO.
+- **Insolvenzantragspflicht Paragraf 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschäftsführer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
+- **Beschluss-Anfechtungsfrist Paragraf 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschlüsse.
+- **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; Paragraf 43a Abs. 4 BRAO.
 - **GwG-Identifizierung nicht abgeschlossen** — keine Beratungsleistung vor Identifizierung; Bussgeldhaftung bei Verstoss.
 
 ## Ausgabe
 
 - `triage-protokoll-gesellschaftsrecht.md`
 - Aktenanlage
-- Frist im Fristenbuch (§ 15a InsO Anfechtungsfrist Closing)
+- Frist im Fristenbuch (Paragraf 15a InsO Anfechtungsfrist Closing)
 - Mandatsvereinbarung
 - Empfehlung Folge-Skill
 
 ## Quellen
 
 - GmbHG AktG HGB UmwG GenG VereinsG
-- InsO § 15a
+- InsO Paragraf 15a
 - BGB
 - BGH II. Zivilsenat
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.

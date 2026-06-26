@@ -1,20 +1,20 @@
 ---
 name: post-closing
-description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflicht..."
+description: "Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan übersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. Paragraf 613a BGB Betriebsuebergang, Paragraf 321 ff. HGB Completion-Accounts-Pflicht..."
 ---
 
 # Post-Closing Integration
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Post-Closing Integration
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -95,7 +95,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -105,30 +105,30 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 1. Welche Post-Closing Obligations sind im SPA vereinbart — Completion Accounts, Earn-Out-Berechnungspflichten, Purchase Price Adjustments?
 2. Sind Garantiefristen aus dem SPA zu beachten — wann laufen die wichtigsten Business Warranty-Fristen ab?
-3. Gibt es offene § 613a BGB-Pflichten — wurden alle Arbeitnehmer informiert, laufen noch Widerspruchsfristen?
-4. Sind Registeranmeldungen nach Closing noch offen — Gesellschafterliste § 40 GmbHG, Transparenzregister?
+3. Gibt es offene Paragraf 613a BGB-Pflichten — wurden alle Arbeitnehmer informiert, laufen noch Widerspruchsfristen?
+4. Sind Registeranmeldungen nach Closing noch offen — Gesellschafterliste Paragraf 40 GmbHG, Transparenzregister?
 5. Welche Synergieannahmen müssen operativ umgesetzt werden — Integrationsplaene, Restrukturierungen, IT-Systeme?
 
 ## Zentrale Rechtsgrundlagen
 
-- § 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes über; Widerspruchsrecht 1 Monat nach Information; Klärung von Ueberleitungsfragen nach Closing
-- § 40 GmbHG — Einreichung der Gesellschafterliste: Notar oder Geschäftsführer innerhalb eines Monats nach Anteilsuebertragung
-- § 20 TranspRG — Transparenzregistermeldung: wirtschaftlich Berechtigte nach Gesellschafterwechsel; Frist 2 Wochen nach Closing
-- §§ 195, 199 BGB — Verjährungsfristen für Post-Closing-Ansprueche: regelmäßige Verjährung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
-- § 254 BGB — Mitverschulden bei unterlassener Untersuchung nach Closing
-- §§ 346 ff. BGB — Rueckabwicklung: bei MAC-Einritt und Ruecktritt; Nutzungsersatz; Wertminderung
+- Paragraf 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes über; Widerspruchsrecht 1 Monat nach Information; Klärung von Ueberleitungsfragen nach Closing
+- Paragraf 40 GmbHG — Einreichung der Gesellschafterliste: Notar oder Geschäftsführer innerhalb eines Monats nach Anteilsuebertragung
+- Paragraf 20 TranspRG — Transparenzregistermeldung: wirtschaftlich Berechtigte nach Gesellschafterwechsel; Frist 2 Wochen nach Closing
+- Paragraf 195, 199 BGB — Verjährungsfristen für Post-Closing-Ansprueche: regelmäßige Verjährung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
+- Paragraf 254 BGB — Mitverschulden bei unterlassener Untersuchung nach Closing
+- Paragraf 346 ff. BGB — Rueckabwicklung: bei MAC-Einritt und Ruecktritt; Nutzungsersatz; Wertminderung
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Post-Closing-Obligations-Register:** alle SPA-Verpflichtungen nach Closing erfassen (Owner, Faelligkeit, Nachweis)
 2. **Completion Accounts / Purchase Price Adjustment:** Frist prüfen (haeufig 60-90 Tage nach Closing); Anpassungsberechnung erstellen und abstimmen
 3. **Earn-Out-Monitoring:** Earn-Out-Formel dokumentieren; Monitoring-Recht des Verkaeuf ers einhalten; keine schaedlichen Maßnahmen
-4. **§ 613a BGB-Nachbearbeitung:** Widerspruchsfrist (mindestens 1 Monat) ueberwachen; neue Arbeitgeber-Pflichten; BAV-Ueberleitung
-5. **Registeranmeldungen abarbeiten:** Gesellschafterliste (§ 40 GmbHG), HR-Anmeldungen, Transparenzregister (§ 20 TranspRG)
+4. **Paragraf 613a BGB-Nachbearbeitung:** Widerspruchsfrist (mindestens 1 Monat) ueberwachen; neue Arbeitgeber-Pflichten; BAV-Ueberleitung
+5. **Registeranmeldungen abarbeiten:** Gesellschafterliste (Paragraf 40 GmbHG), HR-Anmeldungen, Transparenzregister (Paragraf 20 TranspRG)
 6. **Garantiefristen-Kalender:** alle SPA-Fristen in Wiedervorlage; Notification bei Garantieverletzung fristgerecht
 7. **PMI-Meilensteine setzen:** IT-Integration, HR-Harmonisierung, Lieferantenkonsolidierung; Synergie-Tracking
 
@@ -143,9 +143,9 @@ Deal: [DEALNAME] — Closing: [DATUM]
 POST-CLOSING OBLIGATIONS
 [ ] Completion Accounts Einreichung bis [DATUM] — Owner: [NAME]
 [ ] Earn-Out Baseline-Dokum. bis [DATUM] — Owner: [NAME]
-[ ] Gesellschafterliste § 40 GmbHG bis [DATUM] — Notar: [NAME]
-[ ] Transparenzregister § 20 TranspRG bis [DATUM] — Owner: [NAME]
-[ ] § 613a Information Arbeitnehmer bis [DATUM] — HR: [NAME]
+[ ] Gesellschafterliste Paragraf 40 GmbHG bis [DATUM] — Notar: [NAME]
+[ ] Transparenzregister Paragraf 20 TranspRG bis [DATUM] — Owner: [NAME]
+[ ] Paragraf 613a Information Arbeitnehmer bis [DATUM] — HR: [NAME]
 
 GARANTIEFRISTEN
  Business Warranties: enden am [DATUM]
@@ -162,7 +162,7 @@ PMI-MEILENSTEINE
 
 - Completion Accounts-Frist versaeumt: Kaufpreisanpassung verwirkt
 - Earn-Out-schaedliche Maßnahmen: Schadensersatz Verkaeufer (BGH Earn-Out-Leitlinie)
-- Gesellschafterliste nicht eingereicht (§ 40 GmbHG): Stimmrechte fraglich
+- Gesellschafterliste nicht eingereicht (Paragraf 40 GmbHG): Stimmrechte fraglich
 - Garantiefrist-Notification versaeumt: Anspruch erloschen
 
 ## Standardausgabe

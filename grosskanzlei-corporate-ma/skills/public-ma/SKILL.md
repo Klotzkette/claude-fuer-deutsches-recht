@@ -1,20 +1,20 @@
 ---
 name: public-ma
-description: "Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüf..."
+description: "Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out Paragraf 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüf..."
 ---
 
 # Public M&A, Kapitalmarkt und MAR
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Public M&A, Kapitalmarkt und MAR
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -95,7 +95,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -104,33 +104,33 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 ## Triage
 
 1. Ist die Zielgesellschaft boersennotiert — Deutschland (Xetra/Prime Standard) oder anderen Boersen?
-2. Uebernahme oder Pflichtangebot — liegt ein Angebotsschwellenwert von 30 % der Stimmrechte vor (§ 35 WpUEG)?
+2. Uebernahme oder Pflichtangebot — liegt ein Angebotsschwellenwert von 30 % der Stimmrechte vor (Paragraf 35 WpUEG)?
 3. Liegt bereits eine Insiderinformation vor — kuerzlich abgeschlossene Vorverhandlungen, Term Sheet, Absichtserklaerung?
 4. Ist Ad-hoc-Meldung bereits ausgeloest worden oder wird sie beabsichtigt — wann? Begründung für Aufschub (Art. 17 Abs. 4 MAR)?
-5. Welche weiteren kapitalmarktrechtlichen Pflichten sind zu beachten — Stimmrechtsmitteilungen §§ 33 ff. WpHG, Directors' Dealings Art. 19 MAR?
+5. Welche weiteren kapitalmarktrechtlichen Pflichten sind zu beachten — Stimmrechtsmitteilungen Paragraf 33 ff. WpHG, Directors' Dealings Art. 19 MAR?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 29-39 WpUEG — Pflichtangebot: ab Erwerb von 30 % der Stimmrechte; Angebotspreis mindestens Durchschnittskurs der letzten 3 Monate
-- §§ 10-14 WpUEG — Angebotsunterlagen: Pflichtinhalt, BaFin-Gestattung, Fristen; Stellungnahme des Vorstands
+- Paragraf 29-39 WpUEG — Pflichtangebot: ab Erwerb von 30 % der Stimmrechte; Angebotspreis mindestens Durchschnittskurs der letzten 3 Monate
+- Paragraf 10-14 WpUEG — Angebotsunterlagen: Pflichtinhalt, BaFin-Gestattung, Fristen; Stellungnahme des Vorstands
 - Art. 7, 17 MAR — Insiderinformation und Ad-hoc-Mitteilung: Definition Insiderinformation; Aufschub bis zu Klärung unter engen Bedingungen (Art. 17 Abs. 4 MAR); Insiderliste (Art. 18 MAR)
-- §§ 33-47 WpHG — Stimmrechtsmitteilungen: Meldeschwellen 3 %, 5 %, 10 %, 15 %, 20 %, 25 %, 30 %, 50 %, 75 %
-- §§ 327a-327f AktG — Squeeze-out: ab 95 % Anteil; Abfindungspflicht; Spruchverfahren
+- Paragraf 33-47 WpHG — Stimmrechtsmitteilungen: Meldeschwellen 3 %, 5 %, 10 %, 15 %, 20 %, 25 %, 30 %, 50 %, 75 %
+- Paragraf 327a-327f AktG — Squeeze-out: ab 95 % Anteil; Abfindungspflicht; Spruchverfahren
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
 ## Schritt-für-Schritt-Workflow
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 1. **Insiderinformations-Check:** existiert eine Insiderinformation? (Art. 7 MAR) — M&A-Verhandlungen sind typischerweise Insiderinformationen ab dem Zeitpunkt konkreter Vereinbarungen
 2. **Ad-hoc-Meldung planen:** Zeitpunkt bestimmen; Aufschub nach Art. 17 Abs. 4 MAR dokumentieren; BaFin-Notifikation bei Aufschub
 3. **Insiderliste fuehren:** alle Personen mit Kenntnis der Insiderinformation (Art. 18 MAR); DSGVO-konforme Aufbewahrung; BaFin-Anfrage vorbereiten
-4. **Stimmrechtsmitteilungen prüfen:** §§ 33 ff. WpHG-Schwellen; bei Schwellenuebergang: Meldepflicht innerhalb von 4 Handelstagen
+4. **Stimmrechtsmitteilungen prüfen:** Paragraf 33 ff. WpHG-Schwellen; bei Schwellenuebergang: Meldepflicht innerhalb von 4 Handelstagen
 5. **WpUEG-Pflichten:** Pflichtangebot ab 30 % Stimmrechte; Angebotsunterlage BaFin-Gestattung; Stellungnahme Vorstand und AR
 6. **Marktgerueicht-Protokoll:** bei Marktgerueicht: sofortige Ad-hoc-Prüfung; ggf. Bestaetigung oder Dementi; Kommunikationsprotokoll
 
@@ -180,9 +180,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Rote Schwellen
 
-- Ad-hoc-Pflicht verletzte: Bussgeldhaftung bis 2,5 Mio. EUR; Schadensersatz nach § 97 WpHG
+- Ad-hoc-Pflicht verletzte: Bussgeldhaftung bis 2,5 Mio. EUR; Schadensersatz nach Paragraf 97 WpHG
 - Insiderliste unvollstaendig: Aufsichtsrisiko; keine Meldung auf BaFin-Anfrage
-- Pflichtangebot versaeumt: BaFin kann Transaktionsverbot verhaengen (§ 60 WpUEG)
+- Pflichtangebot versaeumt: BaFin kann Transaktionsverbot verhaengen (Paragraf 60 WpUEG)
 
 ## Standardausgabe
 

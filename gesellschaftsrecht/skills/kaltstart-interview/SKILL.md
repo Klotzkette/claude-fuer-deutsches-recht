@@ -21,8 +21,8 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Ersteinrichtungs-Interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -53,13 +53,13 @@ Vor dem Kaltstart-Interview klären:
 
 Die nachfolgenden Vorschriften bilden den rechtlichen Rahmen der unterstützten Tätigkeitsbereiche:
 
-**Gesellschaftsrecht allgemein:** §§ 1 ff. GmbHG; §§ 1 ff. AktG; §§ 105 ff. HGB (OHG), §§ 161 ff. HGB (KG); §§ 705 ff. BGB n.F. (GbR seit 01.01.2024, MoPeG); §§ 1 ff. UmwG (Verschmelzung, Spaltung, Formwechsel).
+**Gesellschaftsrecht allgemein:** Paragraf 1 ff. GmbHG; Paragraf 1 ff. AktG; Paragraf 105 ff. HGB (OHG), Paragraf 161 ff. HGB (KG); Paragraf 705 ff. BGB n.F. (GbR seit 01.01.2024, MoPeG); Paragraf 1 ff. UmwG (Verschmelzung, Spaltung, Formwechsel).
 
-**M&A / Unternehmenskauf:** § 311 AktG (faktischer Konzern); § 15 GmbHG (Abtretung von Geschäftsanteilen, notarielle Form); § 17 GmbHG (Kaduzierung); §§ 29 ff. GmbHG (Jahresabschluss, Gewinnverwendung). Für Beteiligungserwerb an AGs: WpÜG (Pflichtangebot ab 30 % Stimmrechte, § 29 WpÜG); §§ 327a ff. AktG (Squeeze-out).
+**M&A / Unternehmenskauf:** Paragraf 311 AktG (faktischer Konzern); Paragraf 15 GmbHG (Abtretung von Geschäftsanteilen, notarielle Form); Paragraf 17 GmbHG (Kaduzierung); Paragraf 29 ff. GmbHG (Jahresabschluss, Gewinnverwendung). Für Beteiligungserwerb an AGs: WpÜG (Pflichtangebot ab 30 % Stimmrechte, Paragraf 29 WpÜG); Paragraf 327a ff. AktG (Squeeze-out).
 
-**Beschlussfassung / Governance:** § 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung ohne Versammlung); § 49 GmbHG (Einberufung); §§ 118 ff. AktG (Hauptversammlung; § 130 AktG: Niederschrift durch Notar bei AG); §§ 95 ff. AktG (Aufsichtsrat); § 23 Abs. 5 AktG (Satzungsstrenge).
+**Beschlussfassung / Governance:** Paragraf 48 GmbHG (Gesellschafterversammlung; Abs. 2: schriftliche Abstimmung ohne Versammlung); Paragraf 49 GmbHG (Einberufung); Paragraf 118 ff. AktG (Hauptversammlung; Paragraf 130 AktG: Niederschrift durch Notar bei AG); Paragraf 95 ff. AktG (Aufsichtsrat); Paragraf 23 Abs. 5 AktG (Satzungsstrenge).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
@@ -121,17 +121,17 @@ Aus Seed-Dokumenten extrahieren: Kategorienstruktur, Schwellenwerte, Hausformat 
 
 - Funktion: Geschäftsführer, Prokurist, Syndikusrechtsanwalt, externer Berater?
 - Größe und Zusammensetzung des Aufsichtsrats / Beirats (falls vorhanden)
-- Welche Form von Beschlüssen überwiegt: Gesellschafterbeschlüsse (§ 48 GmbHG), Aufsichtsratsbeschlüsse, Vorstandsbeschlüsse?
-- Routinemäßige Nutzung des schriftlichen Verfahrens (§ 48 Abs. 2 GmbHG)? Bei welchen Gegenständen?
+- Welche Form von Beschlüssen überwiegt: Gesellschafterbeschlüsse (Paragraf 48 GmbHG), Aufsichtsratsbeschlüsse, Vorstandsbeschlüsse?
+- Routinemäßige Nutzung des schriftlichen Verfahrens (Paragraf 48 Abs. 2 GmbHG)? Bei welchen Gegenständen?
 - Muster-Protokolle und Musterbeschlüsse hochladen (abgeschlossene Verfahren)
 
-Bei AG zusätzlich: Hauptversammlung (Präsenz, virtuelle HV nach § 118a AktG, hybride HV); Notarielle Niederschrift (§ 130 AktG) — wer beauftragt den Notar?
+Bei AG zusätzlich: Hauptversammlung (Präsenz, virtuelle HV nach Paragraf 118a AktG, hybride HV); Notarielle Niederschrift (Paragraf 130 AktG) — wer beauftragt den Notar?
 
 ### Schritt 2K: Kapitalmarkt-Modul (3–4 Min., falls aktiv)
 
 - Börsenplatz (XETRA/Frankfurt, m:access, SDAX/MDAX/DAX, Drittbörse)?
 - Geschäftsjahresende und Berichtspflichten (HGB oder IFRS)?
-- BaFin-Meldepflichten: Stimmrechtsmitteilungen (§§ 33 ff. WpHG), Insiderverzeichnis (Art. 18 MAR)?
+- BaFin-Meldepflichten: Stimmrechtsmitteilungen (Paragraf 33 ff. WpHG), Insiderverzeichnis (Art. 18 MAR)?
 - Offenlegungsausschuss: Zusammensetzung, Turnus?
 - Zuständigkeit für Ad-hoc-Publizität (Art. 17 MAR) — Rechtsabteilung, IR, Vorstand?
 
@@ -139,9 +139,9 @@ Bei AG zusätzlich: Hauptversammlung (Präsenz, virtuelle HV nach § 118a AktG, 
 
 - Anzahl aktiv verwalteter Gesellschaften
 - Wesentliche Sitzstaaten (Deutschland, EU, Drittstaaten)
-- Registerführung: Elektronische Gesellschafterliste (§ 40 GmbHG), automatische Handelsregisterüberwachung?
+- Registerführung: Elektronische Gesellschafterliste (Paragraf 40 GmbHG), automatische Handelsregisterüberwachung?
 - Nutzung eines Entity-Management-Systems oder Tabellenkalkulation?
-- Jahresabschluss-Pflichten (§§ 242 ff. HGB; Offenlegung §§ 325 ff. HGB)?
+- Jahresabschluss-Pflichten (Paragraf 242 ff. HGB; Offenlegung Paragraf 325 ff. HGB)?
 
 ### Nach dem Interview
 
@@ -216,7 +216,7 @@ Vollstaendige Neueinrichtung per `/gesellschaftsrecht:gesellschaftsrecht-kaltsta
 
 **Szenario:** Syndikusrechtsanwalt einer GmbH mit 200 Mitarbeitern, aktive Module M&A und Governance.
 
-Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil "BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach § 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
+Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR für Vertragsreview, Hausstil "BESCHLOSSEN:" für schriftliche Gesellschafterbeschlüsse nach Paragraf 48 Abs. 2 GmbHG, Eskalation zu externem M&A-Berater ab Transaktionsvolumen > 5 Mio. EUR. Kapitalmarkt- und Gesellschaftsverwaltungsmodul: nicht aktiviert.
 
 ## Risiken und typische Fehler
 
@@ -229,8 +229,8 @@ Nach dem Interview: Praxisprofil enthält Wesentlichkeitsschwelle 100.000 EUR f�
 ## Quellenpflicht
 
 Jeder Verweis auf Vorschriften in CLAUDE.md und in Skill-Ausgaben muss zitieren:
-- Gesetze mit Paragraphenzeichen: `§ 48 Abs. 2 GmbHG`, `§ 130 AktG`
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Gesetze mit Paragraphenzeichen: `Paragraf 48 Abs. 2 GmbHG`, `Paragraf 130 AktG`
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine bloßen Gesetzesnummern ohne Paragraphenzeichen
 

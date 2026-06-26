@@ -23,14 +23,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Intake Decision Tree` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -56,26 +56,26 @@ Dieser Skill stellt den grafischen Decision Tree für den Gründer-Intake-bereit
 
 ### Normtexte und Kernnormen
 
-**§ 7a SGB IV — Statusfeststellungsverfahren**
+**Paragraf 7a SGB IV — Statusfeststellungsverfahren**
 > Die Einzugsstelle hat auf Antrag des Arbeitgebers oder der Arbeitnehmerin oder des Arbeitnehmers eine Entscheidung zu treffen, ob eine Beschäftigung vorliegt.
 
-Das Statusfeststellungsverfahren bei der DRV Bund (Clearingstelle) ist das primäre Instrument zur verbindlichen Klärung des SV-Status eines Gesellschafter-GF. Es soll nach der BSG-Rechtsprechung frühzeitig — spätestens mit Aufnahme der GF-Tätigkeit — eingeleitet werden. Eine rückwirkende Beitragspflicht kann bis zu 4 Jahre zurückreichen (§ 25 SGB IV, Regelverjährung) oder bei vorsätzlicher Nichtanmeldung bis zu 30 Jahre (§ 25 Abs. 1 S. 2 SGB IV).
+Das Statusfeststellungsverfahren bei der DRV Bund (Clearingstelle) ist das primäre Instrument zur verbindlichen Klärung des SV-Status eines Gesellschafter-GF. Es soll nach der BSG-Rechtsprechung frühzeitig — spätestens mit Aufnahme der GF-Tätigkeit — eingeleitet werden. Eine rückwirkende Beitragspflicht kann bis zu 4 Jahre zurückreichen (Paragraf 25 SGB IV, Regelverjährung) oder bei vorsätzlicher Nichtanmeldung bis zu 30 Jahre (Paragraf 25 Abs. 1 S. 2 SGB IV).
 
-**§ 20 GwG — Transparenzregister (TraFinG)**
+**Paragraf 20 GwG — Transparenzregister (TraFinG)**
 > Vereinigungen sind verpflichtet, die wirtschaftlich Berechtigten zu ermitteln, aktuell zu halten und an das Transparenzregister zu melden.
 
-Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unverzüglich bei jeder Änderung der Beteiligungsverhältnisse (2 Wochen). Bußgeld bei Verstoss: bis 1.000.000 EUR (§ 56 GwG).
+Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unverzüglich bei jeder Änderung der Beteiligungsverhältnisse (2 Wochen). Bußgeld bei Verstoss: bis 1.000.000 EUR (Paragraf 56 GwG).
 
-**§ 192 SGB VII — Berufsgenossenschaft**
+**Paragraf 192 SGB VII — Berufsgenossenschaft**
 > Bei Aufnahme der unternehmerischen Tätigkeit muss die Anmeldung bei der zuständigen Berufsgenossenschaft innerhalb von 1 Woche erfolgen.
 
-**§ 138 AO — Steuerliche Anzeigepflicht**
+**Paragraf 138 AO — Steuerliche Anzeigepflicht**
 > Steuerpflichtige, die eine gewerbliche oder berufliche Tätigkeit aufnehmen, haben dies dem Finanzamt mitzuteilen (ELSTER-Fragebogen).
 
-**§ 1365 BGB — Verfügungsbeschränkung bei Güterstand**
-> Wenn der Gründer im gesetzlichen Güterstand (Zugewinngemeinschaft) lebt, bedarf die Verfügung über das gesamte Vermögen der Zustimmung des Ehegatten. Bei Einbringung des gesamten Vermögens in eine Gesellschaft: Prüfung des § 1365 BGB.
+**Paragraf 1365 BGB — Verfügungsbeschränkung bei Güterstand**
+> Wenn der Gründer im gesetzlichen Güterstand (Zugewinngemeinschaft) lebt, bedarf die Verfügung über das gesamte Vermögen der Zustimmung des Ehegatten. Bei Einbringung des gesamten Vermögens in eine Gesellschaft: Prüfung des Paragraf 1365 BGB.
 
-**§§ 1643, 1822 BGB — Genehmigung des Familiengerichts bei Minderjährigen**
+**Paragraf 1643, 1822 BGB — Genehmigung des Familiengerichts bei Minderjährigen**
 > Bei Beteiligung minderjähriger Gesellschafter: Familiengericht muss der Eingehung der gesellschaftsrechtlichen Verbindlichkeiten zustimmen.
 
 ### Leitentscheidungen
@@ -88,15 +88,15 @@ Frist: unverzüglich nach Eintragung der Gesellschaft im Handelsregister und unv
 
 | Schritt | Knotenpunkt | Prüfinhalt | Trigger / Output |
 |---|---|---|---|
-| 1 | Stammdaten-Knoten | Anzahl Gründer; Identität (Name, Geburtsdatum, Ausweis-Nummer); Familienstand (§ 1365 BGB); Minderjährigkeit (§§ 1643, 1822 BGB) | Validierung; Trigger: Familiengericht-Genehmigung bei Minderjährigen |
+| 1 | Stammdaten-Knoten | Anzahl Gründer; Identität (Name, Geburtsdatum, Ausweis-Nummer); Familienstand (Paragraf 1365 BGB); Minderjährigkeit (Paragraf 1643, 1822 BGB) | Validierung; Trigger: Familiengericht-Genehmigung bei Minderjährigen |
 | 2 | Rechtsformwahl-Knoten | Kapital verfügbar, Investoren geplant, Haftungsrisiko, Freiberuf? | Trigger: gesellschaftsgruender-rechtsformwahl |
-| 3 | Kapital-Knoten | < 25.000 EUR → UG; 25.000 EUR → GmbH; Sacheinlage → Differenzhaftungsprüfung (§ 9 GmbHG) | Validierung Stammkapital; Sachgründungsbericht |
+| 3 | Kapital-Knoten | < 25.000 EUR → UG; 25.000 EUR → GmbH; Sacheinlage → Differenzhaftungsprüfung (Paragraf 9 GmbHG) | Validierung Stammkapital; Sachgründungsbericht |
 | 4 | Class-Shares-Knoten | Investor in 12 Monaten? → Class-Shares sofort; Nein → später oder Genehmigtes Kapital vorsehen | Trigger: SHA-Modul / Satzungs-Modul |
 | 5 | SHA-Modul | Vesting für Gründer? Stimmbindung? Liquidation Preference? | Trigger: gesellschaftsgruender-klauselkatalog-bilingual |
-| 6 | SV-Status-Knoten | GF ist Gesellschafter < 50 %? Echte Sperrminorität in Satzung? | Trigger: Statusfeststellungsverfahren § 7a SGB IV; Warnung bei SHA-only-Stimmbindung |
+| 6 | SV-Status-Knoten | GF ist Gesellschafter < 50 %? Echte Sperrminorität in Satzung? | Trigger: Statusfeststellungsverfahren Paragraf 7a SGB IV; Warnung bei SHA-only-Stimmbindung |
 | 7 | Notar-Knoten | DiRUG online oder physisch? Termin gebucht? Unterlagen vollständig? | Trigger: Notar-Paket-Generierung |
 | 8 | Behörden-Knoten | Gewerbe, Finanzamt (ELSTER), IHK, BG, TraFinG | Trigger: Fristen-Engine; automatischer Behörden-Kalender |
-| 9 | Compliance-Knoten | Erste-100-Tage-GF-Pflichten: § 315 HGB, § 325 HGB (erste Offenlegung), § 40 GmbHG (Gesellschafterliste), § 20 GwG (TraFinG) | Trigger: gesellschafts-compliance |
+| 9 | Compliance-Knoten | Erste-100-Tage-GF-Pflichten: Paragraf 315 HGB, Paragraf 325 HGB (erste Offenlegung), Paragraf 40 GmbHG (Gesellschafterliste), Paragraf 20 GwG (TraFinG) | Trigger: gesellschafts-compliance |
 | 10 | Streit-Eskalations-Knoten | Streit zwischen Gründern? Beschluss angefochten? | Trigger: gesellschaftsgruender-gesellschafterstreit-eilantraege |
 
 ## Gesamt(Mermaid)
@@ -257,13 +257,13 @@ flowchart TD
 **Pflichtfelder:**
 - Anzahl Gründer
 - Identität: Name, Geburtsdatum, Anschrift, Personalausweis-Nummer (GwG-Identifizierung)
-- Familienstand (§ 1365 BGB-Prüfung: Zustimmung des Ehegatten bei Verfügung über Gesamtvermögen)
-- Minderjährigkeit (§§ 1643, 1822 BGB: Familiengericht-Genehmigung erforderlich)
+- Familienstand (Paragraf 1365 BGB-Prüfung: Zustimmung des Ehegatten bei Verfügung über Gesamtvermögen)
+- Minderjährigkeit (Paragraf 1643, 1822 BGB: Familiengericht-Genehmigung erforderlich)
 
 **Validierung:**
 - Personalausweis-Nummer syntaktisch korrekt
 - Bei Minderjährigkeit: Trigger Familiengericht-Genehmigung
-- GwG-Pflicht: Identifizierungsunterlagen (§ 10 GwG) vorhanden?
+- GwG-Pflicht: Identifizierungsunterlagen (Paragraf 10 GwG) vorhanden?
 
 ### Knoten 2 — Anteilsverteilung
 
@@ -302,7 +302,7 @@ flowchart TD
 
 **Trigger:**
 - SV-Status-Prüfung (Diagramm 3)
-- Statusfeststellungsverfahren § 7a SGB IV
+- Statusfeststellungsverfahren Paragraf 7a SGB IV
 - GF-Anstellungsvertrag-Generierung
 
 ### Knoten 5 — SHA und Vesting
@@ -336,26 +336,26 @@ flowchart TD
 ### Knoten 8 — Behörden-Pflichten nach HR-Eintragung
 
 **Trigger automatisch:**
-- Gewerbeanmeldung: unverzüglich (§ 14 GewO)
-- ELSTER-Fragebogen: innerhalb 4 Wochen (§ 138 AO)
+- Gewerbeanmeldung: unverzüglich (Paragraf 14 GewO)
+- ELSTER-Fragebogen: innerhalb 4 Wochen (Paragraf 138 AO)
 - IHK-Anmeldung
-- Berufsgenossenschaft: 1 Woche (§ 192 SGB VII)
-- TraFinG-Meldung (§ 20 GwG): unverzüglich nach HR-Eintragung
+- Berufsgenossenschaft: 1 Woche (Paragraf 192 SGB VII)
+- TraFinG-Meldung (Paragraf 20 GwG): unverzüglich nach HR-Eintragung
 
 ## Trigger-Events für Fristen-Engine
 
 | Event | Frist | Aktion | Norm |
 |---|---|---|---|
-| HR-Eintragung | + sofort | TraFinG-Meldung | § 20 GwG |
-| HR-Eintragung | + 1 Woche | BG-Anmeldung | § 192 SGB VII |
-| HR-Eintragung | + 4 Wochen | ELSTER-Fragebogen | § 138 AO |
-| GF-Aufnahme Tätigkeit | + sofort | Statusfeststellungsverfahren § 7a SGB IV | § 7a SGB IV |
-| Geschäftsjahresende | + 3 Monate | Jahresabschluss aufstellen (§ 264 Abs. 1 HGB) | § 264 HGB |
-| Jahresabschluss aufgestellt | + 9 Monate | Bundesanzeiger-Offenlegung (GmbH) | § 325 HGB |
-| GV-Beschluss | + 1 Monat | Anfechtungsfrist | § 246 AktG analog |
-| Krisenfrüherkennung-Trigger (§ 102 StaRUG) | + sofort | StaRUG-Prüfung oder § 49 Abs. 3 GmbHG-Gesellschafterversammlung | §§ 102, 49 StaRUG; § 49 Abs. 3 GmbHG |
-| Insolvenzreife (§§ 17, 19 InsO) | + 3 Wochen | § 15a InsO-Antragspflicht | § 15a InsO |
-| Gesellschafterwechsel | + sofort (HR) / + 2 Wochen (TraFinG) | Gesellschafterliste § 40 GmbHG + TraFinG-Meldung § 20 GwG | §§ 40 GmbHG, 20 GwG |
+| HR-Eintragung | + sofort | TraFinG-Meldung | Paragraf 20 GwG |
+| HR-Eintragung | + 1 Woche | BG-Anmeldung | Paragraf 192 SGB VII |
+| HR-Eintragung | + 4 Wochen | ELSTER-Fragebogen | Paragraf 138 AO |
+| GF-Aufnahme Tätigkeit | + sofort | Statusfeststellungsverfahren Paragraf 7a SGB IV | Paragraf 7a SGB IV |
+| Geschäftsjahresende | + 3 Monate | Jahresabschluss aufstellen (Paragraf 264 Abs. 1 HGB) | Paragraf 264 HGB |
+| Jahresabschluss aufgestellt | + 9 Monate | Bundesanzeiger-Offenlegung (GmbH) | Paragraf 325 HGB |
+| GV-Beschluss | + 1 Monat | Anfechtungsfrist | Paragraf 246 AktG analog |
+| Krisenfrüherkennung-Trigger (Paragraf 102 StaRUG) | + sofort | StaRUG-Prüfung oder Paragraf 49 Abs. 3 GmbHG-Gesellschafterversammlung | Paragraf 102, 49 StaRUG; Paragraf 49 Abs. 3 GmbHG |
+| Insolvenzreife (Paragraf 17, 19 InsO) | + 3 Wochen | Paragraf 15a InsO-Antragspflicht | Paragraf 15a InsO |
+| Gesellschafterwechsel | + sofort (HR) / + 2 Wochen (TraFinG) | Gesellschafterliste Paragraf 40 GmbHG + TraFinG-Meldung Paragraf 20 GwG | Paragraf 40 GmbHG, 20 GwG |
 
 ## Validierungsregeln
 
@@ -363,11 +363,11 @@ flowchart TD
 
 | Validierung | Norm | Fehler |
 |---|---|---|
-| Stammkapital < Mindesthöhe (UG: 1 EUR; GmbH: 25.000 EUR) | § 5 Abs. 1, § 5a Abs. 1 GmbHG | Block: Gründung nicht möglich |
-| Anteilssumme ≠ 100 % | § 5 GmbHG | Block: Kapitalstruktur inkonsistent |
-| Pflichtfeld fehlt (Name, Geburtsdatum, Anschrift) | § 10 GwG; § 7 GmbHG | Block: HR-Anmeldung nicht möglich |
-| Sacheinlage ohne Werthaltigkeitsnachweis | § 9 GmbHG | Block: Sachgründungsbericht erforderlich |
-| Minderjähriger ohne Familiengericht-Genehmigung | §§ 1643, 1822 BGB | Block: Beurkundung unzulässig |
+| Stammkapital < Mindesthöhe (UG: 1 EUR; GmbH: 25.000 EUR) | Paragraf 5 Abs. 1, Paragraf 5a Abs. 1 GmbHG | Block: Gründung nicht möglich |
+| Anteilssumme ≠ 100 % | Paragraf 5 GmbHG | Block: Kapitalstruktur inkonsistent |
+| Pflichtfeld fehlt (Name, Geburtsdatum, Anschrift) | Paragraf 10 GwG; Paragraf 7 GmbHG | Block: HR-Anmeldung nicht möglich |
+| Sacheinlage ohne Werthaltigkeitsnachweis | Paragraf 9 GmbHG | Block: Sachgründungsbericht erforderlich |
+| Minderjähriger ohne Familiengericht-Genehmigung | Paragraf 1643, 1822 BGB | Block: Beurkundung unzulässig |
 
 ### Weiches Validierungswarnung (Warning-State)
 
@@ -377,7 +377,7 @@ flowchart TD
 | Vesting fehlt bei Multi-Gründer | Bad-Leaver ohne Schutz: Gründer kann sofort aussteigen und Anteile behalten | Vesting-Klausel SHA dringend |
 | Bezugsrechtsausschluss ohne sachliche Begründung | Anfechtungsrisiko (BGH Kali+Salz) | Sachliche Begründung dokumentieren |
 | Minderheits-GF ohne Sperrminorität in Satzung | SV-Pflicht nach BSG-Linie | Sperrminorität in Satzung verankern; SHA-Stimmbindung allein reicht nicht |
-| Wettbewerbsverbot ohne Karenzentschädigung | § 74c HGB analog; sittenwidrig wenn > 0 EUR ohne Karenz | Karenzentschädigung 50 % der Vergütung vereinbaren |
+| Wettbewerbsverbot ohne Karenzentschädigung | Paragraf 74c HGB analog; sittenwidrig wenn > 0 EUR ohne Karenz | Karenzentschädigung 50 % der Vergütung vereinbaren |
 | Marken-Kollision erkannt | DPMA-Suche positiv | Alternativname vorschlagen; Abmahnungsrisiko |
 
 ## Workflow-Engine-Implementierung
@@ -522,22 +522,22 @@ Jede Eingabe und jede Entscheidung wird protokolliert mit:
 
 ## Quellen und Zitierweise
 
-- § 7a SGB IV (Statusfeststellungsverfahren)
-- § 25 SGB IV (Verjährung SV-Beiträge: 4 Jahre / 30 Jahre)
-- § 20 GwG (Transparenzregister; Meldefrist 2 Wochen)
-- § 192 SGB VII (BG-Anmeldung 1 Woche)
-- § 138 AO (Steuerliche Anzeige)
-- §§ 1365, 1643, 1822 BGB (Ehegattenzustimmung; Minderjährige)
-- § 15a InsO (Insolvenzantragspflicht 3 Wochen)
+- Paragraf 7a SGB IV (Statusfeststellungsverfahren)
+- Paragraf 25 SGB IV (Verjährung SV-Beiträge: 4 Jahre / 30 Jahre)
+- Paragraf 20 GwG (Transparenzregister; Meldefrist 2 Wochen)
+- Paragraf 192 SGB VII (BG-Anmeldung 1 Woche)
+- Paragraf 138 AO (Steuerliche Anzeige)
+- Paragraf 1365, 1643, 1822 BGB (Ehegattenzustimmung; Minderjährige)
+- Paragraf 15a InsO (Insolvenzantragspflicht 3 Wochen)
 
 Zitierweise nach `../../references/zitierweise.md`.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Aktuelle Rechtsprechung (Ergaenzung)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Output-Template: Intake-Ergebnis-Zusammenfassung
 
@@ -563,7 +563,7 @@ NAECHSTE SCHRITTE:
  [ ] Stammkapital einzahlen (mind. 12.500 EUR)
  [ ] Transparenzregister-Anmeldung (nach HR-Eintragung)
  [ ] Berufsgenossenschaft (1 Woche nach Geschaeftsbeginn)
- [ ] Finanzamt (ELSTER-Fragebogen; § 138 AO)
+ [ ] Finanzamt (ELSTER-Fragebogen; Paragraf 138 AO)
  [ ] SV-Statusfeststellung beantragen (DRV Bund)
 
 FRISTEN-EXPORT: [iCal / Outlook generiert: JA / NEIN]

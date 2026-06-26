@@ -1,24 +1,24 @@
 ---
 name: spa-apa-entwurf
-description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. §§ 433 ff. BGB Kaufrecht, § 15 GmbHG Abtretung, § 179 AktG Einbringung, MAC Material Adverse Chan..."
+description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entwerfen: Anwendungsfall Anwalt erstellt Kaufvertrag für Share Deal oder Asset Deal aus Term Sheet DD-Findings und Transaktionsstruktur. Paragraf 433 ff. BGB Kaufrecht, Paragraf 15 GmbHG Abtretung, Paragraf 179 AktG Einbringung, MAC Material Adverse Chan..."
 ---
 
 # SPA/APA-Entwurf
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: SPA/APA-Entwurf
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Triage — klaere vor Entwurfsbeginn
 
-1. Share Deal (GmbH-Anteile nach § 15 GmbHG; AG-Aktien) oder Asset Deal (§§ 433 ff. BGB mit spezifischen Abtretungsvereinbarungen)?
+1. Share Deal (GmbH-Anteile nach Paragraf 15 GmbHG; AG-Aktien) oder Asset Deal (Paragraf 433 ff. BGB mit spezifischen Abtretungsvereinbarungen)?
 2. Welches Recht gilt — deutsches Recht, englisches Recht, oder Mischstatut?
 3. Was ist die Kaufpreisstruktur — Locked Box, Completion Accounts, Earn-Out, Vendor Loan, Roll-over?
 4. Welche wesentlichen DD-Findings müssen als SPA-Risiken adressiert werden — Red Flags, Material Adverse Issues?
@@ -28,22 +28,22 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 
 ## Zentrale Rechtsgrundlagen
 
-- § 433 BGB — Kaufvertrag als Grundlage; Gewaehrleistungsrecht nach §§ 437 ff. BGB ist abdingbar (bei B2B vollstaendige Abbedingung möglich)
-- § 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
-- § 311b BGB — notarielle Beurkundung bei Grundstueckseinschluss im Asset Deal
-- § 613a BGB — Betriebsuebergang beim Asset Deal: zwingend; Information der Arbeitnehmer
-- § 443 BGB — Selbständige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
-- § 254 BGB — Mitverschulden: Kaeuferwissen schraenkt Garantieansprueche ein; Aufdeckung in DD mindert Schaden
-- §§ 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
-- §§ 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln müssen hervorgehoben werden
+- Paragraf 433 BGB — Kaufvertrag als Grundlage; Gewaehrleistungsrecht nach Paragraf 437 ff. BGB ist abdingbar (bei B2B vollstaendige Abbedingung möglich)
+- Paragraf 15 Abs. 3 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteilsuebertragung; Formverstoß fuehrt zur Nichtigkeit
+- Paragraf 311b BGB — notarielle Beurkundung bei Grundstueckseinschluss im Asset Deal
+- Paragraf 613a BGB — Betriebsuebergang beim Asset Deal: zwingend; Information der Arbeitnehmer
+- Paragraf 443 BGB — Selbständige Garantie: verschuldensunabhaengige Einstandspflicht; Haftung auf das Erfuellungsinteresse
+- Paragraf 254 BGB — Mitverschulden: Kaeuferwissen schraenkt Garantieansprueche ein; Aufdeckung in DD mindert Schaden
+- Paragraf 195, 199 BGB — Verjährung: regelmaessig 3 Jahre; vertragliche Verkuerzung auf 18 oder 24 Monate ueblich; Steuergarantien: Steuerveranlagungszeitraum plus 3 Monate
+- Paragraf 305-310 BGB — AGB-Kontrolle bei Verwendung von Standardvertraegen: gilt auch im B2B-Bereich; ungewoehnliche Klauseln müssen hervorgehoben werden
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 1. **Term Sheet auswearten:** Kernparameter extrahieren — Kaufpreis, Struktur, Garantien, CPs, Rechtsordnung
 2. **DD-Findings in SPA uebertragen:** Material Issues → spezifische Garantieausnahmen oder Freistellungen; Red Flags → MAC-Trigger oder Haftungsausschluss
@@ -52,12 +52,12 @@ description: "SPA Share Purchase Agreement und APA Asset Purchase Agreement entw
 5. **MAC-Klausel formulieren:** Definition Material Adverse Change; Carve-outs (Marktentwicklungen, Gesetzesaenderungen); Zeitraum und Referenzpunkt
 6. **Conditions Precedent auflisten:** Behörden-, Kartellfreigaben; Gesellschafterbeschluesse; W&I-Bindungszusage
 7. **Haftungsrahmen strukturieren:** Cap (ueblich: 100 % oder 30 % des Kaufpreises), Basket (Tipping oder Deductible), Time Limits, Disclosure Letter-Integration
-8. **Notarielle Beurkundung planen:** bei GmbH-Anteilen § 15 Abs. 3 GmbHG zwingend; Notarauftrag, Beurkundungstermin, Vollmachten
+8. **Notarielle Beurkundung planen:** bei GmbH-Anteilen Paragraf 15 Abs. 3 GmbHG zwingend; Notarauftrag, Beurkundungstermin, Vollmachten
 
 ## Entscheidungsbaum
 
-- Share Deal GmbH → § 15 Abs. 3 GmbHG → Notar zwingend → ohne Notar: Nichtigkeit
-- Asset Deal → § 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen über
+- Share Deal GmbH → Paragraf 15 Abs. 3 GmbHG → Notar zwingend → ohne Notar: Nichtigkeit
+- Asset Deal → Paragraf 613a BGB → Betriebsuebergang → Arbeitnehmerinfo zwingend → bei Unterlassung: alle gehen über
 - W&I vorgesehen → Sell-Side Disclosure Letter → Materiality Auslesen → Synthetic Warranties Kataolog
 - MAC ausgeloest → Prüfen ob bilateraler Einzelrisiko oder Marktentwicklung → Carve-out greift?
 
@@ -132,7 +132,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 ## Rote Schwellen
 
 - Steuerliche Annahme ungeprüft vor Kaufpreisfixierung: Steuerteam zwingend
-- Notarpflicht (§ 15 Abs. 3 GmbHG) uebersehen: Nichtigkeit der Anteilsuebertragung
+- Notarpflicht (Paragraf 15 Abs. 3 GmbHG) uebersehen: Nichtigkeit der Anteilsuebertragung
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Disclosure Letter-Integration fehlt: Verkaeuferhaftung nicht begrenzt
 

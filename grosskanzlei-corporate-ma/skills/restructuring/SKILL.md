@@ -1,20 +1,20 @@
 ---
 name: restructuring
-description: "StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. §§ 1-93 StaRUG, §§ 217-269 InsO Insolvenzplan, § 18 InsO..."
+description: "StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. Paragraf 1-93 StaRUG, Paragraf 217-269 InsO Insolvenzplan, Paragraf 18 InsO..."
 ---
 
 # StaRUG und Insolvenzplan
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: StaRUG und Insolvenzplan
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- InsO §§ 15a, 17, 18, 19, 129 ff., 270 ff. für Insolvenzreife, Antragspflicht und Anfechtung.
-- StaRUG §§ 1, 9 ff. und 49 ff. für Früherkennung, Plan und Stabilisierung.
-- BGB §§ 134, 138, 280, 311 Abs. 2 und 826 für Haftungs- und Sittenwidrigkeitsfragen.
-- UmwStG §§ 20 bis 24 und § 8c KStG nur mit Steuerteam verifizieren.
+- InsO Paragraf 15a, 17, 18, 19, 129 ff., 270 ff. für Insolvenzreife, Antragspflicht und Anfechtung.
+- StaRUG Paragraf 1, 9 ff. und 49 ff. für Früherkennung, Plan und Stabilisierung.
+- BGB Paragraf 134, 138, 280, 311 Abs. 2 und 826 für Haftungs- und Sittenwidrigkeitsfragen.
+- UmwStG Paragraf 20 bis 24 und Paragraf 8c KStG nur mit Steuerteam verifizieren.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -92,7 +92,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -100,44 +100,44 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere vor Strukturentscheidung
 
-1. Welcher Insolvenztatbestand liegt vor — drohende Zahlungsunfaehigkeit (§ 18 InsO, Voraussetzung für StaRUG) oder bereits Zahlungsunfaehigkeit/Ueberschuldung (§§ 17, 19 InsO, Antragspflicht)?
+1. Welcher Insolvenztatbestand liegt vor — drohende Zahlungsunfaehigkeit (Paragraf 18 InsO, Voraussetzung für StaRUG) oder bereits Zahlungsunfaehigkeit/Ueberschuldung (Paragraf 17, 19 InsO, Antragspflicht)?
 2. Sind die wesentlichen Gläubiger (Finanzglaeubiger, Lieferanten, Anleiheglaeubieger) identifiziert und kategorisiert?
 3. Gibt es Plan-Optionen — StaRUG-Restrukturierungsplan, Insolvenzplan, uebertragende Sanierung oder Sale-and-Leaseback?
 4. Liegt ein aktueller Liquiditaetsplan (13-Wochen-Cash-Flow) vor? Ist der Runway bis zur Planbestaetig ung ausreichend?
 5. Hat die Geschäftsleitung ein Sanierungskonzept (IDW S 6)? Liegt eine Fortbestehensprognose vor?
-6. Ist ein Restrukturierungsbeauftragter bestellt oder soll ein solcher bestellt werden (§ 73 StaRUG)?
+6. Ist ein Restrukturierungsbeauftragter bestellt oder soll ein solcher bestellt werden (Paragraf 73 StaRUG)?
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: Voraussetzung drohende Zahlungsunfaehigkeit (§ 18 InsO); kein öffentliches Insolvenzverfahren; Planabstimmung mit Gläubigern
-- §§ 217-269 InsO — Insolvenzplan: Sanierungs- oder Liquidationsplan; Gläubigerzustimmung nach Klassen; Debt-Equity-Swap möglich
-- §§ 304-337 InsO — Insolvenzverwalter-gesteuerte Planvorbereitung; Abstimmung im Berichts- und Prüfungstermin
-- § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung; Verletzung: Strafbarkeit
-- § 15b InsO — Haftung für Zahlungen nach Insolvenzreife; Direktanspruch des Insolvenzverwalters
-- §§ 225a Abs. 2, 3 InsO — Debt-Equity-Swap: Umwandlung von Gläubigerforderungen in Eigenkapital; Zustimmung Anteilseigner nicht erforderlich bei Ueberschuldung
-- § 8c KStG — steuerlicher Verlustuntergang bei schaedlichem Anteilserwerb; Ausnahme: Sanierungsklausel § 8c Abs. 1a KStG
+- Paragraf 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: Voraussetzung drohende Zahlungsunfaehigkeit (Paragraf 18 InsO); kein öffentliches Insolvenzverfahren; Planabstimmung mit Gläubigern
+- Paragraf 217-269 InsO — Insolvenzplan: Sanierungs- oder Liquidationsplan; Gläubigerzustimmung nach Klassen; Debt-Equity-Swap möglich
+- Paragraf 304-337 InsO — Insolvenzverwalter-gesteuerte Planvorbereitung; Abstimmung im Berichts- und Prüfungstermin
+- Paragraf 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit, 6 Wochen bei Ueberschuldung; Verletzung: Strafbarkeit
+- Paragraf 15b InsO — Haftung für Zahlungen nach Insolvenzreife; Direktanspruch des Insolvenzverwalters
+- Paragraf 225a Abs. 2, 3 InsO — Debt-Equity-Swap: Umwandlung von Gläubigerforderungen in Eigenkapital; Zustimmung Anteilseigner nicht erforderlich bei Ueberschuldung
+- Paragraf 8c KStG — steuerlicher Verlustuntergang bei schaedlichem Anteilserwerb; Ausnahme: Sanierungsklausel Paragraf 8c Abs. 1a KStG
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Insolvenztatbestand feststellen:** §§ 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
-2. **Verfahrenswahl:** StaRUG (nur bei drohender Zahlungsunfaehigkeit, § 18 InsO) vs. Insolvenzplan (bei Zahlungsunfaehigkeit oder auf Antrag) vs. uebertragende Sanierung
-3. **Gläubiger-Kategorisierung:** gesicherte Gläubiger, ungesicherte Gläubiger, nachrangige Gläubiger, Anteilseigner — Klassen nach §§ 222-225 InsO bilden
-4. **Plan-Entwurf:** darstellender und gestaltender Teil (§ 219 InsO); Besserstellungsvergleich: Plan vs. Liquidation; Debt-Equity-Swap-Option prüfen
-5. **Abstimmungsmanagement:** Gläubigerzustimmung nach Klassen; ueberwindung dissenting minority (cramdown, § 245 InsO); Betriebsrat-Information
-6. **Insolvenzgericht-Interface:** Vorlage Plan beim Insolvenzgericht; Prüfungs- und Abstimmungstermin; Bestaetigung durch Gericht (§§ 248-253 InsO)
-7. **Steuer-Check:** § 8c KStG Verlustuntergang prüfen; Sanierungsklausel § 8c Abs. 1a KStG anwenden; Restrukturierungsertrag (§ 3a EStG)
+1. **Insolvenztatbestand feststellen:** Paragraf 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
+2. **Verfahrenswahl:** StaRUG (nur bei drohender Zahlungsunfaehigkeit, Paragraf 18 InsO) vs. Insolvenzplan (bei Zahlungsunfaehigkeit oder auf Antrag) vs. uebertragende Sanierung
+3. **Gläubiger-Kategorisierung:** gesicherte Gläubiger, ungesicherte Gläubiger, nachrangige Gläubiger, Anteilseigner — Klassen nach Paragraf 222-225 InsO bilden
+4. **Plan-Entwurf:** darstellender und gestaltender Teil (Paragraf 219 InsO); Besserstellungsvergleich: Plan vs. Liquidation; Debt-Equity-Swap-Option prüfen
+5. **Abstimmungsmanagement:** Gläubigerzustimmung nach Klassen; ueberwindung dissenting minority (cramdown, Paragraf 245 InsO); Betriebsrat-Information
+6. **Insolvenzgericht-Interface:** Vorlage Plan beim Insolvenzgericht; Prüfungs- und Abstimmungstermin; Bestaetigung durch Gericht (Paragraf 248-253 InsO)
+7. **Steuer-Check:** Paragraf 8c KStG Verlustuntergang prüfen; Sanierungsklausel Paragraf 8c Abs. 1a KStG anwenden; Restrukturierungsertrag (Paragraf 3a EStG)
 8. **Post-Plan-Umsetzung:** Eigentumsuebergang, Neufinanzierung, Betriebsfortfuehrung dokumentieren
 
 ## Entscheidungsbaum
 
 - Nur drohende Zahlungsunfaehigkeit → StaRUG möglich → kein öffentliches Verfahren; Vertraulichkeit
-- Zahlungsunfaehigkeit bereits eingetreten → Antragspflicht § 15a InsO → Insolvenzantrag; ggf. InsO-Plan
-- Mehrheit der Gläubiger zustimmt, einzelne blockieren → cramdown § 245 InsO → Gericht kann zustimmung ersetzen
-- Debt-Equity-Swap → § 225a InsO → Anteilseigner-Zustimmung nicht erforderlich bei Ueberschuldung
+- Zahlungsunfaehigkeit bereits eingetreten → Antragspflicht Paragraf 15a InsO → Insolvenzantrag; ggf. InsO-Plan
+- Mehrheit der Gläubiger zustimmt, einzelne blockieren → cramdown Paragraf 245 InsO → Gericht kann zustimmung ersetzen
+- Debt-Equity-Swap → Paragraf 225a InsO → Anteilseigner-Zustimmung nicht erforderlich bei Ueberschuldung
 
 ## Output-Template: Restrukturierungsplan-Struktur
 
@@ -150,7 +150,7 @@ Datum: [DATUM] — Berater: [KANZLEI]
 
 DARSTELLENDER TEIL
 1. Ausgangssituation und Krisenursachen
-2. Insolvenztatbestand (§ 18 InsO: drohende ZU)
+2. Insolvenztatbestand (Paragraf 18 InsO: drohende ZU)
 3. Sanierungskonzept (IDW S 6 Grundsaetze)
 4. Glaeubiger und Forderungsklassen:
  Klasse 1: Gesicherte Glaeubiger (Banken) — Summe: [BETRAG]
@@ -167,7 +167,7 @@ GESTALTENDER TEIL
 
 ## Rote Schwellen
 
-- Antragspflicht § 15a InsO abgelaufen: Geschäftsführer haftet strafrechtlich und zivilrechtlich
+- Antragspflicht Paragraf 15a InsO abgelaufen: Geschäftsführer haftet strafrechtlich und zivilrechtlich
 - Fortbestehensprognose negativ: StaRUG-Weg nicht mehr zulassig; Insolvenzantrag zwingend
 - Liquiditaetslücke waehrend Plan-Verfahren: Planverfahren scheitert; ggf. Masseschmaelung
 

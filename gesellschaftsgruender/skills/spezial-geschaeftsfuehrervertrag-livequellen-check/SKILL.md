@@ -39,17 +39,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 | Klausel | Norm/Praxis | Falle |
 | --- | --- | --- |
-| Dienstvertrag, kein Arbeitsvertrag | § 611a BGB; GmbH-GF ist regelmäßig Dienstnehmer, kein Arbeitnehmer | KSchG, BUrlG, MuSchG, EFZG NICHT direkt anwendbar (BGH ständige Rechtsprechung); aber Treuhand-/Fremdgeschäftsführer kann Arbeitnehmer-ähnlich sein |
-| Vergütung | fest + variabel (Tantieme, Bonus, Sachbezüge) | bei Gesellschafter-GF Angemessenheitsprüfung wegen verdeckter Gewinnausschüttung § 8 Abs. 3 Satz 2 KStG (BFH ständige Rechtsprechung) |
-| Versorgung (Pensionszusage) | § 6a EStG steuerlich; § 16 BetrAVG Anpassung | hohe technische Anforderungen für Anerkennung |
-| Urlaub | meist 30 Tage; § 1 BUrlG nicht direkt anwendbar, aber Default | gesonderte Regelung empfohlen |
-| Krankheit | Lohnfortzahlung 6 Wochen § 3 EFZG nicht zwingend; gesondert vereinbaren | Lücke schließen |
+| Dienstvertrag, kein Arbeitsvertrag | Paragraf 611a BGB; GmbH-GF ist regelmäßig Dienstnehmer, kein Arbeitnehmer | KSchG, BUrlG, MuSchG, EFZG NICHT direkt anwendbar (BGH ständige Rechtsprechung); aber Treuhand-/Fremdgeschäftsführer kann Arbeitnehmer-ähnlich sein |
+| Vergütung | fest + variabel (Tantieme, Bonus, Sachbezüge) | bei Gesellschafter-GF Angemessenheitsprüfung wegen verdeckter Gewinnausschüttung Paragraf 8 Abs. 3 Satz 2 KStG (BFH ständige Rechtsprechung) |
+| Versorgung (Pensionszusage) | Paragraf 6a EStG steuerlich; Paragraf 16 BetrAVG Anpassung | hohe technische Anforderungen für Anerkennung |
+| Urlaub | meist 30 Tage; Paragraf 1 BUrlG nicht direkt anwendbar, aber Default | gesonderte Regelung empfohlen |
+| Krankheit | Lohnfortzahlung 6 Wochen Paragraf 3 EFZG nicht zwingend; gesondert vereinbaren | Lücke schließen |
 | Dienstwagen | regelmäßig privat nutzbar; 1 %-Regelung steuerlich | bei Beendigung Rückgabe sofort? |
-| D&O-Versicherung | Innenverhältnis Gesellschaft als Versicherungsnehmer; selbstbeteiligungspflicht § 93 Abs. 2 Satz 3 AktG (für AG, GmbH lehnt sich an) | Deckungssumme angemessen |
-| Wettbewerbsverbot während Anstellung | Treuepflicht und § 88 AktG analog (GmbH) | Karenzentschädigung NUR bei nachvertraglichem Verbot, in Anlehnung an §§ 74 ff. HGB |
-| Nachvertragliches Wettbewerbsverbot | Höchstdauer 2 Jahre; Karenzentschädigung mindestens 50 % der zuletzt bezogenen Bezüge (§ 74 Abs. 2 HGB analog für Organmitglieder) | bei Fehlen Karenzentschädigung Wettbewerbsverbot unverbindlich |
-| Kündigung | ordentlich nach §§ 621, 622 BGB; außerordentlich § 626 BGB | Schriftform § 623 BGB beachten; § 38 GmbHG Abberufung jederzeit möglich (separat zur Vertragsbeendigung) |
-| Abberufung versus Anstellungsvertrag | trennen! § 38 GmbHG (Abberufung) erlischt nicht automatisch Vertrag | "Koppelungsklausel" verbreitet |
+| D&O-Versicherung | Innenverhältnis Gesellschaft als Versicherungsnehmer; selbstbeteiligungspflicht Paragraf 93 Abs. 2 Satz 3 AktG (für AG, GmbH lehnt sich an) | Deckungssumme angemessen |
+| Wettbewerbsverbot während Anstellung | Treuepflicht und Paragraf 88 AktG analog (GmbH) | Karenzentschädigung NUR bei nachvertraglichem Verbot, in Anlehnung an Paragraf 74 ff. HGB |
+| Nachvertragliches Wettbewerbsverbot | Höchstdauer 2 Jahre; Karenzentschädigung mindestens 50 % der zuletzt bezogenen Bezüge (Paragraf 74 Abs. 2 HGB analog für Organmitglieder) | bei Fehlen Karenzentschädigung Wettbewerbsverbot unverbindlich |
+| Kündigung | ordentlich nach Paragraf 621, 622 BGB; außerordentlich Paragraf 626 BGB | Schriftform Paragraf 623 BGB beachten; Paragraf 38 GmbHG Abberufung jederzeit möglich (separat zur Vertragsbeendigung) |
+| Abberufung versus Anstellungsvertrag | trennen! Paragraf 38 GmbHG (Abberufung) erlischt nicht automatisch Vertrag | "Koppelungsklausel" verbreitet |
 | Mitteilung Sozialversicherung | Statusfeststellungsverfahren DRV bei Gesellschafter-GF unter 50 % | bei selbständigem GF Befreiung möglich |
 | Steuern | Lohnsteuer LStR, sozialversicherungsrechtliche Statusprüfung | "Mini-Job"-Falle bei Tantieme über Schwelle |
 | Geheimhaltung und Datenschutz | DSGVO-Art. 28, Treuepflicht | nach Vertragsende fortwirkend |
@@ -58,7 +58,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Trade-off und Praktiker-Tipp
 
 - **Fremd-GF versus Gesellschafter-GF:** Fremd-GF braucht stärkeren Schutz im Anstellungsvertrag (Abfindung bei Abberufung, Severance Package); Gesellschafter-GF mit über 50 % ist sozialversicherungsfrei.
-- **Pensionszusage:** wertvoll, aber für die Gesellschaft Bilanzbelastung (§ 6a EStG). Alternativen: Unterstützungskasse, Direktversicherung.
+- **Pensionszusage:** wertvoll, aber für die Gesellschaft Bilanzbelastung (Paragraf 6a EStG). Alternativen: Unterstützungskasse, Direktversicherung.
 - **Live-Quellen für Aktualität:** Vor Abschluss aktuelle BFH-Rechtsprechung zur verdeckten Gewinnausschüttung prüfen; aktuelle SV-Beitragsbemessungsgrenzen; aktuelle Steuersätze.
 
 ## Output-Standard

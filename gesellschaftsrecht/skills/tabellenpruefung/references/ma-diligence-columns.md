@@ -126,7 +126,7 @@ schema:
 
 ## Häufige Ergänzungen nach Transaktionstyp
 
-- **Tech- / IP-schwerpunktmäßige Ziele:** Quellcode-Hinterlegung (§ 69a ff. UrhG), Open-Source-Beschränkungen, Datenrechte, Trainingsrechte für Modelle, API-Zugang
+- **Tech- / IP-schwerpunktmäßige Ziele:** Quellcode-Hinterlegung (Paragraf 69a ff. UrhG), Open-Source-Beschränkungen, Datenrechte, Trainingsrechte für Modelle, API-Zugang
 - **Healthcare / Life Sciences:** AVV-Vorhandensein (Art. 28 DSGVO), Meldepflichten gegenüber Behörden, Behördenkorrespondenz (BfArM/PEI), klinische Studienpflichten
 - **Öffentliche Auftraggeber:** Zustimmungserfordernisse zur Vertragsübernahme, Weitergabeklauseln, Sicherheitsüberprüfung, Verweise auf VOB/A, VgV
 - **Immobilien:** Verlängerungsoptionen, Mietanpassungsklauseln, Nebenkostenregelungen, Vorrangs- und Bestätigungserfordernisse

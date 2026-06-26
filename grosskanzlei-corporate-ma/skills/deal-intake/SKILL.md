@@ -1,13 +1,13 @@
 ---
 name: deal-intake
-description: "Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgese..."
+description: "Nimmt ein neues M&A-Mandat strukturiert auf: Rolle, Deal-Typ, Parteien, Zielgesellschaft, Timing, Konflikte, Workstreams, Freigaben und erstes Partner-Memo."
 ---
 
 # Deal-Intake
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Deal Intake** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Grosskanzlei Corporate Ma** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zum Deal Intake bereits Unterlagen, ein Ordner, ein PDF-Bündel, E-Mails, Screenshots, Tabellen oder Entwürfe vorliegen, lies diese zuerst aus. Bilde eine Arbeitshypothese zu Beteiligten, Mandantenrolle, Transaktionsstruktur, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und nächstem sinnvollen Output. Frage nicht routinemäßig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -21,14 +21,16 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Mandatsaufnahme und Konflikt:** Paragraf 43a BRAO, Paragraf 3 BORA, Paragraf 3a RVG, GwG-Sorgfaltspflichten und Vertraulichkeitsrahmen.
+- **Corporate Authority:** Paragraf 15, 16, 40, 46 GmbHG; Paragraf 76, 93, 111 AktG; Registerlage, Vollmachtskette und Organbeschlüsse.
+- **Regulatorische Dealbreaker:** Paragraf 35 bis 41 GWB, AWG/AWV, sektorspezifische Freigaben, MAR-Bezug bei kapitalmarktnahen Vorgängen.
+- **Leitentscheidungen:** BGH, 21.04.1997 - II ZR 175/95 für entscheidungsreife Organunterlagen; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Deal-Intake
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Entscheidende Weiche:** Buy-side, Sell-side, Target, Management, Lender oder neutraler Koordinator; Phase vor IOI, NBO, BO, Signing, Closing oder Post-Closing.
+- **Deal-Landkarte:** Parteien, Beteiligungskette, Zielgesellschaft, Transaktionsgegenstand, Preislogik, Freigaben, Datenraum, Signing-/Closing-Taktung, Spezialistenbedarf.
+- **Arbeitsprodukt:** Liefere eine `Thema / Tatsache / Beleg / Risiko / Owner / nächster Schritt`-Matrix und auf Wunsch ein erstes Partner- oder Mandantenmemo.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -67,18 +69,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- GmbHG §§ 15, 16, 40 und 46 für Anteilsübertragung, Gesellschafterliste und Beschlüsse.
-- AktG §§ 76, 93, 111, 179a und 186 für Leitung, Business Judgment und Strukturmaßnahmen.
-- HGB §§ 8 ff., 15 und §§ 161 ff. für Registerpublizität und Personengesellschaften.
-- UmwG §§ 2, 123, 190 ff. für Verschmelzung, Spaltung und Formwechsel.
+- GmbHG Paragraf 15, 16, 40 und 46 für Anteilsübertragung, Gesellschafterliste und Beschlüsse.
+- AktG Paragraf 76, 93, 111, 179a und 186 für Leitung, Business Judgment und Strukturmaßnahmen.
+- HGB Paragraf 8 ff., 15 und Paragraf 161 ff. für Registerpublizität und Personengesellschaften.
+- UmwG Paragraf 2, 123, 190 ff. für Verschmelzung, Spaltung und Formwechsel.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -117,7 +119,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -164,28 +166,28 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- § 43a Abs. 4 BRAO — Interessenkonfliktpruefung vor Mandatsannahme; Pflicht zur Conflicts-Prüfung
-- §§ 10, 11 GwG — Sorgfaltspflichten bei Mandatsannahme; Identifizierung aller Parteien und wirtschaftlich Berechtigter
+- Paragraf 43a Abs. 4 BRAO — Interessenkonfliktpruefung vor Mandatsannahme; Pflicht zur Conflicts-Prüfung
+- Paragraf 10, 11 GwG — Sorgfaltspflichten bei Mandatsannahme; Identifizierung aller Parteien und wirtschaftlich Berechtigter
 - Art. 7, 17 MAR — bei boersennotierter Zielgesellschaft: Insiderinformation und Ad-hoc-Pflicht sofort beachten
-- §§ 17-18 GeschGehG — Vertraulichkeitspflicht; NDA muss vor Informationsaustausch vorliegen
-- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten auch Erfolgshonorar nach RVG möglich; schriftliche Vereinbarung empfohlen
+- Paragraf 17-18 GeschGehG — Vertraulichkeitspflicht; NDA muss vor Informationsaustausch vorliegen
+- Paragraf 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten auch Erfolgshonorar nach RVG möglich; schriftliche Vereinbarung empfohlen
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Parteien extrahieren:** Verkaeufer, Kaeufer, Zielgesellschaft, Intermediar, Finanzier — volle Bezeichnung, Sitz, HR-Nummer
-2. **Conflicts-Check ausfuehren:** § 43a BRAO; GwG-Screening (Sanktionen, PEP)
+2. **Conflicts-Check ausfuehren:** Paragraf 43a BRAO; GwG-Screening (Sanktionen, PEP)
 3. **Mandatsinformation erfassen:** Deal-Typ, Wert, Zeitplan, Vertraulichkeitsstufe, Partner-Zuordnung
 4. **NDA-Status prüfen:** NDA unterzeichnet? Falls nicht: Einleitung vor weiterem Informationsaustausch
 5. **Insiderinformations-Check:** boersennotiert → MAR-Insiderliste einleiten; Ad-hoc-Prüfung
 6. **Deal-Karte erstellen:** Phase, Rolle, Owner, Frist, Risiko, naechste Aktion, Freigabegrad
-7. **Aktenanlage und Mandatsvereinbarung:** Aktenzeichen vergeben; Honorarvereinbarung (§ 49b BRAO)
+7. **Aktenanlage und Mandatsvereinbarung:** Aktenzeichen vergeben; Honorarvereinbarung (Paragraf 49b BRAO)
 
 ## Rote Schwellen
 
-- Keine Conflicts-Prüfung vor Mandatsannahme: § 43a BRAO, Haftung
+- Keine Conflicts-Prüfung vor Mandatsannahme: Paragraf 43a BRAO, Haftung
 - GwG-Sorgfaltspflichten verletzt: Bussgeld
 - Insiderinformation ohne MAR-Protokoll: aufsichtsrechtliche Konsequenzen

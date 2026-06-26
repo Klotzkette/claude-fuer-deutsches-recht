@@ -27,15 +27,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 | Stichwort | Anschluss-Skill | Erste Norm |
 | --- | --- | --- |
 | "Welche Rechtsform?" | `spezial-gruendungsassistent-erstpruefung-und-mandatsziel` + `spezial-rechtsformwahl-behoerden-gericht-und-registerweg` | Haftung, Kapital, Notar |
-| "GmbH gründen" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | § 5 GmbHG 25.000 EUR, § 2 GmbHG notariell |
-| "UG (haftungsbeschränkt)" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | § 5a GmbHG 1 EUR, 25 % Thesaurierung |
-| "GmbH&Co.KG" | `gesellschaftsgruender-kg-und-gmbhcokg` | §§ 161 ff. HGB i.V.m. § 19 GmbHG |
-| "PartG mbB" | `spezial-partg-dokumentenmatrix-und-lueckenliste` | § 8 Abs. 4 PartGG, Berufshaftpflicht |
-| "Geschäftsführervertrag" | `spezial-geschaeftsfuehrervertrag-livequellen-check` | § 35 GmbHG i.V.m. Dienstvertrag |
-| "gGmbH gemeinnützig" | `spezial-ggmbh-risikoampel-und-gegenargumente` | §§ 51 ff. AO, Mustersatzung |
-| "Transparenzregister" | `gesellschaftsgruender-transparenzregister` | §§ 19 ff. GwG |
-| "Online-Gründung DiRUG" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | § 2 Abs. 3 GmbHG, Sacheinlagen ausgeschlossen |
-| "GbR / eGbR MoPeG" | `spezial-partg-dokumentenmatrix-und-lueckenliste` + `gesellschaftsgruender-kg-und-gmbhcokg` | §§ 705 ff., 707 ff. BGB n.F. seit 1.1.2024 |
+| "GmbH gründen" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 5 GmbHG 25.000 EUR, Paragraf 2 GmbHG notariell |
+| "UG (haftungsbeschränkt)" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 5a GmbHG 1 EUR, 25 % Thesaurierung |
+| "GmbH&Co.KG" | `gesellschaftsgruender-kg-und-gmbhcokg` | Paragraf 161 ff. HGB i.V.m. Paragraf 19 GmbHG |
+| "PartG mbB" | `spezial-partg-dokumentenmatrix-und-lueckenliste` | Paragraf 8 Abs. 4 PartGG, Berufshaftpflicht |
+| "Geschäftsführervertrag" | `spezial-geschaeftsfuehrervertrag-livequellen-check` | Paragraf 35 GmbHG i.V.m. Dienstvertrag |
+| "gGmbH gemeinnützig" | `spezial-ggmbh-risikoampel-und-gegenargumente` | Paragraf 51 ff. AO, Mustersatzung |
+| "Transparenzregister" | `gesellschaftsgruender-transparenzregister` | Paragraf 19 ff. GwG |
+| "Online-Gründung DiRUG" | `spezial-gmbh-fristen-form-und-zustaendigkeit` | Paragraf 2 Abs. 3 GmbHG, Sacheinlagen ausgeschlossen |
+| "GbR / eGbR MoPeG" | `spezial-partg-dokumentenmatrix-und-lueckenliste` + `gesellschaftsgruender-kg-und-gmbhcokg` | Paragraf 705 ff., 707 ff. BGB n.F. seit 1.1.2024 |
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

@@ -1,36 +1,36 @@
 ---
 name: gk-sanierungsgewinn-bmf-ankoppelung-und-strategie
-description: "BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026."
+description: "BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu Paragraf 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026."
 ---
 
 # Sanierungsgewinn – BMF-Ankoppelung und Strategie
 
 ## Worum geht es
 
-Die Sanierungsgewinn-Vorschriften des § 3a EStG und § 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
+Die Sanierungsgewinn-Vorschriften des Paragraf 3a EStG und Paragraf 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
 
 Leite die Strategie zur Ankoppelung an die Verwaltungsauffassung aus BMF-Linie, BFH-Risiko, Antragspfad und Dokumentationspaket ab.
 
 ## Wann brauchen Sie diesen Skill
 
-- Vor Antrag § 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
-- Vor Antrag § 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
+- Vor Antrag Paragraf 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
+- Vor Antrag Paragraf 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
 - Bei Streit mit dem Finanzamt; Argumentationslinie an Verwaltungsauffassung oder gegen sie.
 - Bei Gesetzgebungsänderungen, etwa durch das Wachstumschancengesetz oder Folgegesetze.
-- Bei der Verteidigung gegen § 42 AO-Vorwürfe.
+- Bei der Verteidigung gegen Paragraf 42 AO-Vorwürfe.
 
 Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer verbindlichen Auskunft fixiert ist; dann gilt die Auskunft.
 
 ## Rechtlicher Rahmen
 
-- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag.
-- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **§ 7b GewStG i. V. m. § 36 Abs. 2c GewStG** – Gewerbesteuer.
-- **§ 8c KStG / § 8d KStG** – Verlustvortrag.
+- **Paragraf 3a EStG** – Steuerbefreiung Sanierungsertrag.
+- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG** – Gewerbesteuer.
+- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag.
 - **BMF-Schreiben vom 27.04.2017** – Umsetzung des Großen-Senats-Beschlusses; Erlassweg-Sanierungserlass; bis zur gesetzlichen Regelung weiter angewendet.
-- **Folge-BMF-Schreiben** – nachfolgende Klarstellungen zu § 3a EStG; Stand jeweils im Bundessteuerblatt prüfen.
+- **Folge-BMF-Schreiben** – nachfolgende Klarstellungen zu Paragraf 3a EStG; Stand jeweils im Bundessteuerblatt prüfen.
 - **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
-- **AO-Anwendungserlass** zu § 42 AO und § 89 AO.
+- **AO-Anwendungserlass** zu Paragraf 42 AO und Paragraf 89 AO.
 
 ## Workflow / Schritt für Schritt
 
@@ -61,7 +61,7 @@ Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer 
 **Phase 5 – Klärung problematischer Sonderfragen:**
 
 13. **Liquidation und konkludenter Verzicht:** Nach Verlautbarung der OFD Frankfurt a. M. ist ein Liquidationsbeschluss kein konkludenter Forderungsverzicht; Verbindlichkeiten bleiben zivilrechtlich auch nach Vermögenslosigkeit erhalten. Diese Auffassung wird in BFH, Urteil vom 26.02.2003 – II R 19/01 bestätigt.
-14. **Mindestbesteuerung § 10d EStG und § 3a EStG:** Verwaltungsauffassung Stand 06/2026 prüfen.
+14. **Mindestbesteuerung Paragraf 10d EStG und Paragraf 3a EStG:** Verwaltungsauffassung Stand 06/2026 prüfen.
 15. **Sanierungsabsicht naher Gläubiger:** strenge Linie der Verwaltung; eigene Dokumentationspflicht.
 
 ## Trade-off-Matrix
@@ -71,7 +71,7 @@ Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer 
 | Vollkoppelung BMF | Niedrig | Hohe Closing-Sicherheit | Standard |
 | Teilkoppelung | Mittel | Argumentationsspielraum | Sonderfragen |
 | Gegenkurs | Hoch | Maximale Steuerentlastung | Höchstrichterlicher Rückenwind |
-| § 89 AO ohne Mandat-Sicherheit | Sehr hoch | Schnelligkeit | Vermeiden |
+| Paragraf 89 AO ohne Mandat-Sicherheit | Sehr hoch | Schnelligkeit | Vermeiden |
 
 ## Praxistipps der alten Hasen
 
@@ -89,7 +89,7 @@ Drei Beobachtungen zur strategischen BMF-Ankoppelung:
 
 **Plan-Klausel zur Verwaltungspraxis:**
 
-> Steuerliche Würdigung: Die Parteien gehen unter Bezugnahme auf das BMF-Schreiben vom 27.04.2017 sowie die nachfolgenden Verlautbarungen davon aus, dass der durch den Forderungsverzicht entstehende Ertrag die Voraussetzungen des § 3a EStG erfüllt. Diese Annahme wird durch die mit Antrag vom [Datum] beantragte verbindliche Auskunft gemäß § 89 AO bestätigt werden.
+> Steuerliche Würdigung: Die Parteien gehen unter Bezugnahme auf das BMF-Schreiben vom 27.04.2017 sowie die nachfolgenden Verlautbarungen davon aus, dass der durch den Forderungsverzicht entstehende Ertrag die Voraussetzungen des Paragraf 3a EStG erfüllt. Diese Annahme wird durch die mit Antrag vom [Datum] beantragte verbindliche Auskunft gemäß Paragraf 89 AO bestätigt werden.
 
 **Mandantenmemo-Auszug zur Strategiewahl:**
 
@@ -115,7 +115,7 @@ Drei Beobachtungen zur strategischen BMF-Ankoppelung:
 
 ## Quellen Stand 06/2026
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG; § 42 AO; § 89 AO; § 10d EStG – gesetze-im-internet.de.
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 42 AO; Paragraf 89 AO; Paragraf 10d EStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026; nachfolgende Verlautbarungen in der Aktualfassung prüfen.
 - OFD Frankfurt a. M., Verlautbarung zur Behandlung von Liquidation und Verzicht – Verlautbarung mit konkretem Datum und Aktenzeichen vom Anwender zu zitieren.
 - BFH, Urteil vom 26.02.2003 – II R 19/01 – prüfbar über bundesfinanzhof.de.

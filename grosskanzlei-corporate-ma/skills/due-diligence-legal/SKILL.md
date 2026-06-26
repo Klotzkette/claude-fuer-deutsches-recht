@@ -1,20 +1,23 @@
 ---
 name: due-diligence-legal
-description: "Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängi..."
+description: "Prüft Legal Due Diligence im M&A-Prozess mit Corporate-Status, Verträgen, Litigation, Regulatory, HR, IP, Datenraumlücken und SPA-Folgen."
 ---
 
 # Legal Due Diligence
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Corporate und Register:** Paragraf 15, 16, 40, 46 GmbHG; Paragraf 8, 15 HGB; Gesellschafterliste, Satzung, Vollmachten und Beschlüsse.
+- **Vertrags- und Aufklärungslage:** Paragraf 241 Absatz 2, 280, 311 Absatz 2, 433, 453 BGB; Gewährleistung, Garantie, Disclosure und vorvertragliche Information.
+- **Datenraum und Vertraulichkeit:** GeschGehG, NDA, Clean-Room-Regeln, MAR Art. 7, 17, 18 bei Public-M&A-Bezug.
+- **Regulatory:** Paragraf 35 bis 41 GWB, FKVO, AWG/AWV, Sanktionen und sektorale Genehmigungen als Closing- oder Pricing-Thema.
+- **Leitentscheidungen:** BGH, 21.04.1997 - II ZR 175/95 für organpflichtige Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für GmbH-Listenlogik.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Legal Due Diligence
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Entscheidende Weiche:** DD-Finding, Datenraumlücke, Q&A-Frage, SPA-Garantie, Disclosure-Punkt, CP, Indemnity oder Preisargument strikt trennen.
+- **Workstream-Struktur:** Corporate, Commercial, Finance, Regulatory, Litigation, HR, IP/IT, Real Estate, Compliance und Tax-Schnittstellen mit Owner und Beleg führen.
+- **Arbeitsprodukt:** Liefere eine `Finding / Quelle / Rechtspunkt / Deal-Folge / SPA-Folge / Aktion`-Matrix mit klarer Ampel.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +56,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
-- GeschGehG §§ 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
-- GWB §§ 35 ff. und § 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
+- BGB Paragraf 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
+- GeschGehG Paragraf 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
+- GWB Paragraf 35 ff. und Paragraf 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
 - MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -94,7 +97,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -111,16 +114,16 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- § 438 Abs. 3 BGB — kenntnisspezifische Verjährung: Kaeufer, der Mangel kannte, kann keine Gewaehrleistungsansprueche geltend machen; DD-Ergebnis kann Kenntniszurechnung ausloesen
-- § 254 BGB — Mitverschulden: bei ungenugender DD-Prüfung trotz Anlass können Ansprueche des Kaeufers gemindert werden
-- §§ 311, 241 Abs. 2 BGB — vorvertragliche Sorgfaltspflichten; Informationspflichten des Verkaeuf ers
-- § 453 BGB — Rechtskauf: Gewaehrleistung bei Anteilskauf; Fehler des Unternehmens können als Fehler des Kaufobjekts eingestuft werden
-- § 15 Abs. 3 GmbHG — Anteilsuebertragung; Gesellschafterliste; materielle Konsequenz falscher Kapitalisierungsangaben
-- § 823 Abs. 2 BGB i.V.m. § 399 AktG — Falscheintrag im HR durch Vorstand als unerlaubte Handlung; Haftung
+- Paragraf 438 Abs. 3 BGB — kenntnisspezifische Verjährung: Kaeufer, der Mangel kannte, kann keine Gewaehrleistungsansprueche geltend machen; DD-Ergebnis kann Kenntniszurechnung ausloesen
+- Paragraf 254 BGB — Mitverschulden: bei ungenugender DD-Prüfung trotz Anlass können Ansprueche des Kaeufers gemindert werden
+- Paragraf 311, 241 Abs. 2 BGB — vorvertragliche Sorgfaltspflichten; Informationspflichten des Verkaeuf ers
+- Paragraf 453 BGB — Rechtskauf: Gewaehrleistung bei Anteilskauf; Fehler des Unternehmens können als Fehler des Kaufobjekts eingestuft werden
+- Paragraf 15 Abs. 3 GmbHG — Anteilsuebertragung; Gesellschafterliste; materielle Konsequenz falscher Kapitalisierungsangaben
+- Paragraf 823 Abs. 2 BGB i.V.m. Paragraf 399 AktG — Falscheintrag im HR durch Vorstand als unerlaubte Handlung; Haftung
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 

@@ -15,8 +15,8 @@ description: "Einstieg, Schnelltriage und Fallrouting im Gesellschaftsrecht-Plug
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -117,22 +117,22 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `aufsichtsrat-protokoll` | Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt… |
+| `aufsichtsrat-protokoll` | Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, Paragraf 107 AktG) und Gesellschafterversammlungen (GmbH, Paragraf 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt… |
 | `dd-findings-extraktion` | Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskategorien und Wesentlichkeitsschwellen im Findings-Report-Format. Laden wenn der Nutzer Datenraum prüfen, DD-Issues extrahieren aus [Ordner],… |
 | `dealteam-zusammenfassung` | Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update,… |
-| `geschaeftsfuehrer-haftung-43-gmbhg` | Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG.… |
+| `geschaeftsfuehrer-haftung-43-gmbhg` | Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster Paragraf 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog Paragraf 93 Abs. 1 Satz 2 AktG.… |
 | `gesellschafterbeschluss` | Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG… |
-| `gesellschafterstreit-loesungsstrategie` | Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38… |
+| `gesellschafterstreit-loesungsstrategie` | Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage Paragraf 246 AktG analog Abberufung Geschäftsführer Paragraf 38… |
 | `gesellschafts-compliance` | Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach… |
 | `gesellschaftsrecht-anpassen` | Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A /… |
 | `gesellschaftsrecht-kaltstart-interview` | Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxisprofil — erfasst Tätigkeitsbereiche (M&A, Gesellschafterversammlung/Aufsichtsrat, Kapitalmarkt, Gesellschaftsverwaltung), Wesentlichkeitsschwellen,… |
 | `gesellschaftsrecht-mandat-arbeitsbereich` | Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen… |
-| `gmbh-gruendung` | Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei… |
-| `handelsregisteranmeldung` | Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen;… |
+| `gmbh-gruendung` | Begleitung der GmbH-Gründung von der Satzungserstellung (Paragraf 2 GmbHG) bis zur Eintragung ins Handelsregister (Paragraf 7 GmbHG) einschließlich UG-Variante (Paragraf 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei… |
+| `handelsregisteranmeldung` | Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach Paragraf 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (Paragraf 39 GmbHG), Prokura (Paragraf 53 HGB), Sitzverlegung und Kapitalmaßnahmen;… |
 | `integrations-management` | Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste.… |
 | `ki-werkzeug-uebergabe` | KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance\", "Kira\", "KI-Prüfung\", "automatische Extraktion\" oder "Massenprüfung\" erwähnt oder der Datenraum mehr als ~50… |
 | `mandat-triage-gesellschaftsrecht` | Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert… |
-| `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a… |
+| `schriftliche-beschlussfassung` | Entwirft Beschlüsse im schriftlichen Verfahren (Paragraf 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (Paragraf 118a… |
 | `tabellenpruefung` | Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ein Extraktionsprompt (was wird gefragt), pro Zeile ein dokumentspezifischer Prompt (wie wird dieses Dokument behandelt). Eine Zeile pro Dokument, eine… |
 | `vollzugs-checkliste` | Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung… |
 | `wesentliche-vertraege-anlage` | Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln… |
@@ -153,33 +153,33 @@ Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Business Judgment Rule** — Haftungsprivileg für Geschäftsführer und Vorstande bei unternehmerischen Entscheidungen (analog § 93 Abs. 1 S. 2 AktG, § 43 GmbHG).
+- **Business Judgment Rule** — Haftungsprivileg für Geschäftsführer und Vorstande bei unternehmerischen Entscheidungen (analog Paragraf 93 Abs. 1 S. 2 AktG, Paragraf 43 GmbHG).
 - **Drag-Along** — Mitnahmerecht: Mehrheitsgesellschafter kann Minderheitsgesellschafter zum Verkauf zwingen.
 - **Tag-Along** — Mitveraeuserungsrecht: Minderheitsgesellschafter kann beim Verkauf mitziehen.
 - **Closing Checklist** — Checkliste aller bis zum Vollzug einer Transaktion zu erfuellenden Bedingungen und Handlungen.
-- **Umlaufbeschluss** — Gesellschafterbeschluss ohne Versammlung; bei GmbH nach § 48 Abs. 2 GmbHG zulässig mit Zustimmung aller Gesellschafter.
-- **Prokura** — Umfassende Handlungsvollmacht nach §§ 48 ff. HGB; bedarf der Handelsregistereintragung.
+- **Umlaufbeschluss** — Gesellschafterbeschluss ohne Versammlung; bei GmbH nach Paragraf 48 Abs. 2 GmbHG zulässig mit Zustimmung aller Gesellschafter.
+- **Prokura** — Umfassende Handlungsvollmacht nach Paragraf 48 ff. HGB; bedarf der Handelsregistereintragung.
 - **Change of Control** — Klausel in Vertraegen, die bei Wechsel der Gesellschafterstruktur besondere Rechte (z.B. Kuendigung) ausloest.
 
 ## Rechtsgrundlagen
 
-- §§ 35-43 GmbHG — Geschäftsführung und Haftung
-- §§ 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse
-- §§ 93 ff. AktG — Vorstandshaftung, Business Judgment Rule
-- §§ 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse)
-- §§ 241, 246 AktG — Nichtigkeits- und Anfechtungsklage (analog GmbH)
-- §§ 12 ff. HGB — Handelsregister und Registeranmeldung
-- §§ 48 ff. HGB — Prokura
-- §§ 15 HGB — Wirkung der Handelsregistereintragung
-- § 613a BGB — Betriebsuebergang bei Post-Merger-Integration
-- §§ 18 ff. GwG — Transparenzregister
+- Paragraf 35-43 GmbHG — Geschäftsführung und Haftung
+- Paragraf 46-49 GmbHG — Gesellschafterversammlung und Beschlüsse
+- Paragraf 93 ff. AktG — Vorstandshaftung, Business Judgment Rule
+- Paragraf 107 ff. AktG — Aufsichtsrat (Protokoll, Beschlüsse)
+- Paragraf 241, 246 AktG — Nichtigkeits- und Anfechtungsklage (analog GmbH)
+- Paragraf 12 ff. HGB — Handelsregister und Registeranmeldung
+- Paragraf 48 ff. HGB — Prokura
+- Paragraf 15 HGB — Wirkung der Handelsregistereintragung
+- Paragraf 613a BGB — Betriebsuebergang bei Post-Merger-Integration
+- Paragraf 18 ff. GwG — Transparenzregister
 
 ## Schritt-für-Schritt: Einstieg ins Plugin
 
 1. Mandantenkonstellation klären: Gesellschaftsform, Mandantenrolle (Gesellschafter, GF, Aufsichtsrat, Kaeufer, Investor), Sachgebiet.
 2. Phase des Mandats bestimmen: Governance, Transaktion (DD, Closing), Streit oder Compliance.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: Insolvenzantragspflicht § 15a InsO, Anfechtungsklagefrist § 246 AktG analog (ein Monat), WEG-Klagefrist.
+4. Eilfristen prüfen: Insolvenzantragspflicht Paragraf 15a InsO, Anfechtungsklagefrist Paragraf 246 AktG analog (ein Monat), WEG-Klagefrist.
 5. Anschluss-Skill bestimmen: nach Due-Diligence-Extraktion folgt Deal-Team-Briefing und Closing Checklist.
 
 ## Skill-Tour (was gibt es hier?)
@@ -199,7 +199,7 @@ Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es e
 
 **Haftung und Konflikt**
 
-- `geschaeftsfuehrer-haftung-43-gmbhg` — Prüft persönliche Haftung des GF nach § 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
+- `geschaeftsfuehrer-haftung-43-gmbhg` — Prüft persönliche Haftung des GF nach Paragraf 43 GmbHG mit Business Judgment Rule und D&O-Versicherung.
 - `gesellschafterstreit-loesungsstrategie` — Konflikt- und Mediationsstrategie bei Gesellschafterstreit, Patt-Situation und Einziehungsverfahren.
 
 **Due Diligence und M&A**
@@ -213,28 +213,28 @@ Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es e
 
 **Register und Compliance**
 
-- `handelsregisteranmeldung` — Vorbereitung von HRB/HRA/GnR/PartGR-Anmeldungen mit Pflichtanmeldungen und Wirkung nach § 15 HGB.
+- `handelsregisteranmeldung` — Vorbereitung von HRB/HRA/GnR/PartGR-Anmeldungen mit Pflichtanmeldungen und Wirkung nach Paragraf 15 HGB.
 - `gmbh-gruendung` — GmbH-Gruendung von der Satzung bis zur Handelsregistereintragung mit UG-Variante.
 - `gesellschafts-compliance` — Compliance-Tracker für Einreichungsfristen, Bilanzpublizitaet und Transparenzregister.
 
 **Post-Merger-Integration**
 
-- `integrations-management` — PMI-Tracker: Phasenplan, Zustimmungsverfolgung, § 613a BGB und BetrVG-Mitbestimmung.
+- `integrations-management` — PMI-Tracker: Phasenplan, Zustimmungsverfolgung, Paragraf 613a BGB und BetrVG-Mitbestimmung.
 
 ## Worauf besonders achten
 
-- **Anfechtungsfrist beachten.** Die Analogie zu § 246 AktG für GmbH-Beschlüsse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
-- **Insolvenzantragspflicht parallel prüfen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach § 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
+- **Anfechtungsfrist beachten.** Die Analogie zu Paragraf 246 AktG für GmbH-Beschlüsse setzt typischerweise eine einmonatige Klagefrist; nach laengerer Zeit droht Verwirkung.
+- **Insolvenzantragspflicht parallel prüfen.** Sobald der GF Insolvenzanzeichen erkennt, laeuft die Antragspflicht nach Paragraf 15a InsO; sofort an `fortbestehensprognose`-Plugin verweisen.
 - **Change-of-Control-Klauseln in DD.** Bei M&A-Due-Diligence müssen alle wesentlichen Verträge auf Change-of-Control-Klauseln durchleuchtet werden; Closing kann sonst scheitern.
-- **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (§ 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.
-- **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Änderung der Gesellschafterstruktur loest eine Meldepflicht aus (§ 20 GwG).
+- **Umlaufbeschluss erfordert Einstimmigkeit.** Bei GmbH muss jeder Gesellschafter zustimmen (Paragraf 48 Abs. 2 GmbHG); fehlende Stimmen machen Beschluss unwirksam.
+- **Transparenzregister und Gesellschafterliste aktuell halten.** Jede Änderung der Gesellschafterstruktur loest eine Meldepflicht aus (Paragraf 20 GwG).
 
 ## Typische Fehler
 
-- GF-Haftung wird nur nach § 43 GmbHG geprueft ohne § 15b InsO Zahlungsverbot bei Insolvenzreife.
+- GF-Haftung wird nur nach Paragraf 43 GmbHG geprueft ohne Paragraf 15b InsO Zahlungsverbot bei Insolvenzreife.
 - Protokolle von Gesellschafterversammlungen sind unvollstaendig; Abstimmungsergebnisse fehlen oder Stimmverbote werden nicht beachtet.
 - Closing-Checklist wird zu spaet aufgebaut; Regulatory-Fristen wurden verpasst.
-- Betriebsuebertragung nach § 613a BGB wird in Post-Merger-Integration nicht fristgemaess kommuniziert.
+- Betriebsuebertragung nach Paragraf 613a BGB wird in Post-Merger-Integration nicht fristgemaess kommuniziert.
 - DD-Findings werden nicht in die SPA-Garantien und Disclosure Schedules übersetzt.
 
 ## Quellen und Aktualitaet
@@ -246,18 +246,18 @@ Das Plugin ist auf eine prüfende und beratende Kanzleipraxis ausgerichtet. Es e
 
 ### Kuratierte Normen-Bibliothek
 
-- § 48 GmbHG
-- § 40 GmbHG
-- § 246 AktG
-- § 43 GmbHG
-- § 47 GmbHG
-- § 108 AktG
-- § 20 GwG
-- § 53 GmbHG
-- § 15 GmbHG
-- § 130 AktG
-- § 5 GmbHG
-- § 107 AktG
+- Paragraf 48 GmbHG
+- Paragraf 40 GmbHG
+- Paragraf 246 AktG
+- Paragraf 43 GmbHG
+- Paragraf 47 GmbHG
+- Paragraf 108 AktG
+- Paragraf 20 GwG
+- Paragraf 53 GmbHG
+- Paragraf 15 GmbHG
+- Paragraf 130 AktG
+- Paragraf 5 GmbHG
+- Paragraf 107 AktG
 
 ### Leitentscheidungen
 

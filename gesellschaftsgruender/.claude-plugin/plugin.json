@@ -1,7 +1,7 @@
 {
   "name": "gesellschaftsgruender",
   "version": "398.0.0",
-  "description": "Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage und Streitprävention.",
+  "description": "Gruendungsassistent fuer deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Vertraege, Budget und Streitpraevention.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

@@ -63,6 +63,16 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Kindeswohl, Elternrechte, Beteiligtenrechte und Verfahrensziel sind getrennt gewichtet.
+2. Anhörungen, Verfahrensbeistand, Jugendamt und Sachverständige sind in der Begründung richtig verortet.
+3. Eilentscheidungen benennen Regelungsbedürfnis, Verhältnismäßigkeit, Dauer und mildere Mittel.
+4. Umgangs-, Sorge- und Schutzanordnungen sind konkret genug für Befolgung und Vollstreckung.
+5. Artikel 103 Absatz 1 GG ist gewahrt; bei kindbezogenen Entscheidungen wird das rechtliche Gehör nicht durch bloße Beschleunigung ersetzt.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

@@ -1,6 +1,6 @@
 ---
 name: online-gruendung-dirug
-description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individ..."
+description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: Paragraf 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individ..."
 ---
 
 # Online-Gründung nach DiRUG
@@ -9,21 +9,21 @@ description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermi
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Online-Gründung nach DiRUG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Triage — kläre vor der Online-Gründung
 
-1. Ist es eine Bargründung — keine Sacheinlage? (Online-Gründung setzt Bareinlage voraus, § 2 Abs. 3 GmbHG.)
+1. Ist es eine Bargründung — keine Sacheinlage? (Online-Gründung setzt Bareinlage voraus, Paragraf 2 Abs. 3 GmbHG.)
 2. Sind alle Gesellschafter und GF mit Personalausweis (aktiviertes eID) oder kompatiblem Reisepass identifizierbar?
 3. Handelt es sich um eine GmbH oder UG — keine AG?
 4. Haben alle Teilnehmer stabile Internetverbindung, Kamera und Mikrofon?
@@ -32,15 +32,15 @@ description: "Online-Gründung der GmbH nach DiRUG ohne persönlichen Notartermi
 
 ## Zentrale Normen
 
-- **§ 2 Abs. 3 GmbHG** — Online-Beurkundung: zulässig für GmbH- und UG-Gründungen; nur Bargründung.
-- **§§ 16a-d BeurkG** — Online-Beurkundungsverfahren: technische Standards, qualifizierte elektronische Signatur, Identifikationsanforderungen.
-- **§ 17 BeurkG** — Belehrungspflicht des Notars: gilt auch bei Online-Beurkundung; Notar muss Urkunde vorlesen und erläutern.
-- **§ 40 BeurkG** — Online-Beglaubigungen: HR-Anmeldungen, Anteilsübertragungen auch online möglich.
-- **§ 7 GmbHG** — Einzahlungspflicht: Stammkapital vollständig eingezahlt vor HR-Anmeldung.
+- **Paragraf 2 Abs. 3 GmbHG** — Online-Beurkundung: zulässig für GmbH- und UG-Gründungen; nur Bargründung.
+- **Paragraf 16a-d BeurkG** — Online-Beurkundungsverfahren: technische Standards, qualifizierte elektronische Signatur, Identifikationsanforderungen.
+- **Paragraf 17 BeurkG** — Belehrungspflicht des Notars: gilt auch bei Online-Beurkundung; Notar muss Urkunde vorlesen und erläutern.
+- **Paragraf 40 BeurkG** — Online-Beglaubigungen: HR-Anmeldungen, Anteilsübertragungen auch online möglich.
+- **Paragraf 7 GmbHG** — Einzahlungspflicht: Stammkapital vollständig eingezahlt vor HR-Anmeldung.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Online vs. Präsenz — Entscheidungsmatrix
 
@@ -129,11 +129,11 @@ NACH BEURKUNDUNG
 
 ## Quellen und Vertiefung
 
-- §§ 2 Abs. 3, 7 GmbHG (Online-Beurkundung, Bareinzahlungspflicht)
-- §§ 16a-d, 17, 40 BeurkG (Online-Beurkundungsverfahren, qeS)
+- Paragraf 2 Abs. 3, 7 GmbHG (Online-Beurkundung, Bareinzahlungspflicht)
+- Paragraf 16a-d, 17, 40 BeurkG (Online-Beurkundungsverfahren, qeS)
 - DiRUG vom 05.07.2021 (BGBl. I S. 3338)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Emmerich, GmbHG, § 2 Rn. 25-40
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Emmerich, GmbHG, Paragraf 2 Rn. 25-40
 
 ## Übergabe an andere Skills
 

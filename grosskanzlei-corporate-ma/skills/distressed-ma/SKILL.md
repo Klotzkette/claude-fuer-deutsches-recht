@@ -1,20 +1,20 @@
 ---
 name: distressed-ma
-description: "Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. §§ 17-19 InsO Insolvenztatbestaende, § 1 StaRUG Sanierung, §§ 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antr..."
+description: "Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. Paragraf 17-19 InsO Insolvenztatbestaende, Paragraf 1 StaRUG Sanierung, Paragraf 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antr..."
 ---
 
 # Distressed M&A
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Distressed M&A
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -95,7 +95,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -103,45 +103,45 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere vor Strukturentscheidung
 
-1. Welcher Krisenstatus besteht — drohende Zahlungsunfaehigkeit (§ 18 InsO), Zahlungsunfaehigkeit (§ 17 InsO) oder Ueberschuldung (§ 19 InsO)?
+1. Welcher Krisenstatus besteht — drohende Zahlungsunfaehigkeit (Paragraf 18 InsO), Zahlungsunfaehigkeit (Paragraf 17 InsO) oder Ueberschuldung (Paragraf 19 InsO)?
 2. Wurde bereits ein Insolvenzantrag gestellt? Gibt es einen vorläufigen Insolvenzverwalter?
 3. Laeuft ein StaRUG-Verfahren — Restrukturierungsplan, Restrukturierungsbeauftragter, Moratorium?
 4. Welche Erwerbsstruktur ist geplant — Asset Deal aus der Insolvenz, uebertragende Sanierung, Share Deal mit Sanierungsplan, Insolvenzplan mit Debt-Equity-Swap?
 5. Gibt es wesentliche Sicherheiten (Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte), die in den Erwerb einbezogen werden müssen?
-6. Besteht Betriebsuebergang nach § 613a BGB — welche Arbeitnehmer sollen uebernommen werden?
+6. Besteht Betriebsuebergang nach Paragraf 613a BGB — welche Arbeitnehmer sollen uebernommen werden?
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 17-19 InsO — Insolvenztatbestaende: Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung
-- § 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit; 6 Wochen bei Ueberschuldung
-- § 15b InsO — Haftung für masseschmaeIernde Zahlungen nach Insolvenzreife
-- §§ 129-147 InsO — Insolvenzanfechtung: Nachteilsbewusstsein, Vorsatzanfechtung (§ 133 InsO), Sicherungsanfechtung (§ 135 InsO); Frist bis zu 10 Jahre
-- §§ 163, 233 InsO — Uebertragender Sanierung: Veraeusserung des Unternehmens durch Insolvenzverwalter
-- §§ 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Gläubigerzustimmung
-- §§ 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
-- § 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
+- Paragraf 17-19 InsO — Insolvenztatbestaende: Zahlungsunfaehigkeit, drohende Zahlungsunfaehigkeit, Ueberschuldung
+- Paragraf 15a InsO — Antragspflicht: 3 Wochen bei Zahlungsunfaehigkeit; 6 Wochen bei Ueberschuldung
+- Paragraf 15b InsO — Haftung für masseschmaeIernde Zahlungen nach Insolvenzreife
+- Paragraf 129-147 InsO — Insolvenzanfechtung: Nachteilsbewusstsein, Vorsatzanfechtung (Paragraf 133 InsO), Sicherungsanfechtung (Paragraf 135 InsO); Frist bis zu 10 Jahre
+- Paragraf 163, 233 InsO — Uebertragender Sanierung: Veraeusserung des Unternehmens durch Insolvenzverwalter
+- Paragraf 217-269 InsO — Insolvenzplan: Sanierungsplan mit Debt-Equity-Swap; Gläubigerzustimmung
+- Paragraf 1-93 StaRUG — vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfaehigkeit voraus; kein öffentliches Verfahren noetig
+- Paragraf 613a BGB — Betriebsuebergang bei Asset Deal: Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes; Widerspruchsrecht
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Krisencheck:** Insolvenztatbestand (§§ 17-19 InsO) bestimmen; Antragspflicht (§ 15a InsO) und Fristen prüfen; Liquiditaetsvorschau anfordern
+1. **Krisencheck:** Insolvenztatbestand (Paragraf 17-19 InsO) bestimmen; Antragspflicht (Paragraf 15a InsO) und Fristen prüfen; Liquiditaetsvorschau anfordern
 2. **Strukturwahl:** Asset Deal / uebertragende Sanierung vs. Share Deal aus der Insolvenz vs. StaRUG-Plan vs. Insolvenzplan
-3. **Anfechtungsrisiko-Analyse:** § 133 InsO (Vorsatz), § 135 InsO (Sicherheiten, Gesellschafterdarlehen), § 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
+3. **Anfechtungsrisiko-Analyse:** Paragraf 133 InsO (Vorsatz), Paragraf 135 InsO (Sicherheiten, Gesellschafterdarlehen), Paragraf 131 InsO (kongruente/inkongruente Deckung) — kritischer Zeitraum 4 Jahre rueckwirkend
 4. **Sicherheitenlage kartieren:** Pfandrechte, Sicherungsuebereignungen, Grundpfandrechte, Eigentumsvorbehalt — welche Sicherheiten werden mit erworben?
-5. **§ 613a BGB-Prüfung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
+5. **Paragraf 613a BGB-Prüfung:** welche Arbeitnehmer uebernommen? Informationspflicht, Widerspruchsrecht (Frist: mind. 1 Monat); bei Nicht-Information: Schadensersatz
 6. **Insolvenzverwalter-Interface:** öffentliche Bekanntmachung, Angebot, Gläubigerzustimmung, Insolvenzgericht; due diligence im eingeschraenkten Datenraum
 7. **W&I und Closing-Risiko:** W&I bei Distressed meist ausgeschlossen; stattdessen: Disclosure-basierter Haftungsausschluss, MAC-Trigger im SPA
 8. **Liquiditaetsampel und CP-Kalender:** Mindestliquiditaet bis Closing sichern; CPs prüfen (Insolvenzgericht-Genehmigung, Gläubigerzustimmung)
 
 ## Entscheidungsbaum
 
-- Antrag noch nicht gestellt → Zahlungsunfaehigkeit vorhanden → Antragspflicht § 15a InsO → sofort Insolvenzverwaltung informieren
+- Antrag noch nicht gestellt → Zahlungsunfaehigkeit vorhanden → Antragspflicht Paragraf 15a InsO → sofort Insolvenzverwaltung informieren
 - Vorlaeufige Insolvenz → Zustimmungsvorbehalt des vorl. IV → Asset Deal nur mit dessen Zustimmung wirksam
 - StaRUG laufend → kein öffentliches Verfahren → Restrukturierungsplan muss Wertpruefung bestehen
-- Asset Deal → § 613a BGB → Informationspflicht → Arbeitnehmer Widerspruchsrecht 1 Monat
+- Asset Deal → Paragraf 613a BGB → Informationspflicht → Arbeitnehmer Widerspruchsrecht 1 Monat
 
 ## Output-Template: Distressed-M&A-Timeline
 
@@ -153,31 +153,31 @@ Deal: [DEALNAME] — Status: [Krisenphase]
 
 PHASE 1: Krisencheck und Strukturentscheidung bis [DATUM]
  - Liquiditaetsvorschau 13 Wochen
- - Insolvenzreife-Pruefung: §§ 17-19 InsO
+ - Insolvenzreife-Pruefung: Paragraf 17-19 InsO
  - Strukturentscheidung: Asset Deal / StaRUG / Insolvenzplan
 
 PHASE 2: Due Diligence und SPA-Verhandlung bis [DATUM]
  - Datenraum: eingeschraenkt
- - Anfechtungsrisiko-Analyse §§ 129-147 InsO
- - § 613a BGB — Arbeitnehmer-Mapping
+ - Anfechtungsrisiko-Analyse Paragraf 129-147 InsO
+ - Paragraf 613a BGB — Arbeitnehmer-Mapping
 
 PHASE 3: Signing und Genehmigungen bis [DATUM]
- - Insolvenzgericht-Genehmigung (§§ 160, 163 InsO)
- - Glaeubigerzustimmung (§§ 157, 244 InsO)
+ - Insolvenzgericht-Genehmigung (Paragraf 160, 163 InsO)
+ - Glaeubigerzustimmung (Paragraf 157, 244 InsO)
 
 PHASE 4: Closing bis [DATUM]
  - Funds Flow, Freigabe Sicherheiten
  - Anmeldung HR, Transparenzregister
- - § 613a BGB Information Arbeitnehmer
+ - Paragraf 613a BGB Information Arbeitnehmer
 
 OFFENE PUNKTE: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 ```
 
 ## Rote Schwellen
 
-- Insolvenzrechtlicher Status unklar: Antragspflicht § 15a InsO laeuft; Haftung Geschäftsführer § 15b InsO
+- Insolvenzrechtlicher Status unklar: Antragspflicht Paragraf 15a InsO laeuft; Haftung Geschäftsführer Paragraf 15b InsO
 - Anfechtungsrisiko nicht geprueft: Asset Deal anfechtbar; Sicherheiten fallen zurueck zur Masse
-- § 613a BGB-Information unterlassen: Schadensersatz; alle Arbeitsverhaeltnisse gehen über
+- Paragraf 613a BGB-Information unterlassen: Schadensersatz; alle Arbeitsverhaeltnisse gehen über
 - Liquiditaetslücke vor Closing: MAC-Trigger im SPA; Closing-Versagung
 
 ## Standardausgabe

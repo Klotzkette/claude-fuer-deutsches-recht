@@ -1,6 +1,6 @@
 ---
 name: gesellschaftervereinbarung
-description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellscha..."
+description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: Paragraf 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellscha..."
 ---
 
 # Gesellschaftervereinbarung (Shareholder Agreement)
@@ -9,14 +9,14 @@ description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag en
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftervereinbarung (Shareholder Agreement)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -24,42 +24,42 @@ description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag en
 ## Triage — kläre vor der SHA
 
 1. Handelt es sich um eine Gründer-interne SHA (ohne Investor) oder eine Investor-SHA nach Term Sheet?
-2. Sind Vesting/Leaver-Klauseln für Gründer geplant — dann: Einziehungsmechanismus muss mit Satzung harmonieren (§ 34 GmbHG).
+2. Sind Vesting/Leaver-Klauseln für Gründer geplant — dann: Einziehungsmechanismus muss mit Satzung harmonieren (Paragraf 34 GmbHG).
 3. Existiert bereits eine Satzung — und stimmt die SHA mit ihr überein (Vinkulierung, Vorkaufsrechte)?
 4. Sind bilinguale Klauseln erforderlich (internationaler Investor)?
 5. Soll die SHA durch Schiedsklausel (DIS) oder vor staatlichem Gericht beigelegt werden?
 
 ## Zentrale Normen
 
-- **§ 47 GmbHG** — Stimmrecht; Stimmbindungsvertrag wirkt nur schuldrechtlich, kein dinglicher Effekt auf GV-Beschlüsse.
-- **§§ 34, 15 GmbHG** — Einziehung von Geschäftsanteilen; Grundlage für Vesting-/Leaver-Mechanismus.
-- **§ 15 Abs. 5 GmbHG** — Vinkulierung: Anteilsübertragung nur mit Zustimmung; muss in Satzung geregelt sein.
-- **§ 138 BGB** — Sittenwidrigkeit: Vesting- und Bad-Leaver-Klauseln können bei übermäßiger Härte nichtig sein.
-- **§§ 74, 74a HGB** — Nachvertragliches Wettbewerbsverbot; § 74 Abs. 2 HGB: Karenzentschädigung 50 %.
-- **§§ 1029 ff. ZPO** — Schiedsvereinbarung; DIS-SchO 2021 als Standard-Schiedsordnung.
+- **Paragraf 47 GmbHG** — Stimmrecht; Stimmbindungsvertrag wirkt nur schuldrechtlich, kein dinglicher Effekt auf GV-Beschlüsse.
+- **Paragraf 34, 15 GmbHG** — Einziehung von Geschäftsanteilen; Grundlage für Vesting-/Leaver-Mechanismus.
+- **Paragraf 15 Abs. 5 GmbHG** — Vinkulierung: Anteilsübertragung nur mit Zustimmung; muss in Satzung geregelt sein.
+- **Paragraf 138 BGB** — Sittenwidrigkeit: Vesting- und Bad-Leaver-Klauseln können bei übermäßiger Härte nichtig sein.
+- **Paragraf 74, 74a HGB** — Nachvertragliches Wettbewerbsverbot; Paragraf 74 Abs. 2 HGB: Karenzentschädigung 50 %.
+- **Paragraf 1029 ff. ZPO** — Schiedsvereinbarung; DIS-SchO 2021 als Standard-Schiedsordnung.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## SHA-Baustein-Übersicht
 
 | Klausel | Zweck | Satzungspflicht | BGH-Referenz |
 |---|---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Vorkaufsrecht | Bestehende Gesellschafter haben Vorrang | Empfohlen in Satzung (§ 15 Abs. 5) | — |
+| Vorkaufsrecht | Bestehende Gesellschafter haben Vorrang | Empfohlen in Satzung (Paragraf 15 Abs. 5) | — |
 | Drag-Along | Mehrheit zwingt Minderheit zum Mitverkauf | Satzung empfohlen | OLG Frankfurt |
 | Tag-Along | Minderheit darf beim Mehrheitsverkauf mitfahren | Schuldrechtlich ausreichend | — |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Informationsrechte Investor | Quortalsbericht, Jahresabschluss | Schuldrechtlich ausreichend | — |
-| Schiedsklausel DIS | Streitigkeiten vor Schiedsgericht | Formell: §§ 1029 ff. ZPO | — |
+| Schiedsklausel DIS | Streitigkeiten vor Schiedsgericht | Formell: Paragraf 1029 ff. ZPO | — |
 
 ## Muster-Klauseln
 
 ### Vesting / Cliff
 
 ```
-§ [X] Vesting und Leaver-Regelungen
+Paragraf [X] Vesting und Leaver-Regelungen
 
 (1) Die Anteile der Gründer ([Name 1], [Name 2]) unterliegen folgendem Vesting:
  - Cliff-Periode: 12 Monate ab Unterzeichnung
@@ -73,13 +73,13 @@ description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag en
  b) Bad-Leaver-Situation: [Aufzählung Bad-Leaver-Gruende]
  Non-vested Anteile werden zum Nominalwert eingezogen.
 
-(3) Die Einziehung erfolgt gemäß § [Y] des Gesellschaftsvertrages (§ 34 GmbHG).
+(3) Die Einziehung erfolgt gemäß Paragraf [Y] des Gesellschaftsvertrages (Paragraf 34 GmbHG).
 ```
 
 ### Drag-Along
 
 ```
-§ [X] Mitziehverpflichtung (Drag-Along)
+Paragraf [X] Mitziehverpflichtung (Drag-Along)
 
 (1) Sofern Gesellschafter, die zusammen mehr als 75 % der Stimmrechte halten
  (Dragging Shareholders), einen Verkauf sämtlicher Anteile an einen Dritten
@@ -99,11 +99,11 @@ description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag en
 1. **Triage** — 5 Triage-Fragen beantworten; Gründer-SHA oder Investor-SHA?
 2. **Bausteine auswählen** — relevante Klauseln aus Übersichtstabelle ankreuzen.
 3. **Vesting-Parameter** — Cliff-Dauer; Vesting-Periode; Good-/Bad-Leaver-Definitionen.
-4. **Satzungs-Abgleich** — Einziehungsmechanismus (§ 34 GmbHG) und Vinkulierung (§ 15 Abs. 5 GmbHG) in Satzung einbauen.
+4. **Satzungs-Abgleich** — Einziehungsmechanismus (Paragraf 34 GmbHG) und Vinkulierung (Paragraf 15 Abs. 5 GmbHG) in Satzung einbauen.
 5. **Schiedsklausel** — DIS-SchO 2021 empfehlen; schneller und diskreter als staatliches Gericht.
 6. **Wettbewerbsverbot** — Dauer max. 2 Jahre; Karenzentschädigung min. 50 % letztes Gehalt.
 7. **SHA finalisieren** — Entwurf mit allen Gründern abstimmen; ggf. bilingual.
-8. **Unterzeichnung** — Schriftform (§ 126 BGB) oder elektronische Form; notarielle Beurkundung nicht zwingend, aber bei größeren Deals sinnvoll.
+8. **Unterzeichnung** — Schriftform (Paragraf 126 BGB) oder elektronische Form; notarielle Beurkundung nicht zwingend, aber bei größeren Deals sinnvoll.
 
 ## Output-Template SHA-Eckdaten
 
@@ -151,22 +151,22 @@ SPRACHE: [Deutsch / Englisch / Bilingual]
 
 ## Rote Schwellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Stimmbindung ohne Einziehungsmechanismus in Satzung → kein dinglicher Effekt; nur Schadensersatz bei Verletzung.
-- Wettbewerbsverbot ohne Karenzentschädigung → § 138 BGB Sittenwidrigkeitsrisiko; Schadensersatz statt Unterlassung.
+- Wettbewerbsverbot ohne Karenzentschädigung → Paragraf 138 BGB Sittenwidrigkeitsrisiko; Schadensersatz statt Unterlassung.
 - Drag-Along mit Schlechterstellung der Minderheit → treuwidrig (OLG Frankfurt); anfechtbar.
 - SHA ohne Schiedsklausel → Streit vor staatlichem Gericht (öffentlich); DIS empfehlenswert.
 
 ## Quellen und Vertiefung
 
-- §§ 15, 34, 47 GmbHG (Anteilsübertragung, Einziehung, Stimmrecht)
-- §§ 74, 74a HGB (nachvertragliches Wettbewerbsverbot)
-- §§ 1029 ff. ZPO / DIS-SchO 2021 (Schiedsverfahren)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Paragraf 15, 34, 47 GmbHG (Anteilsübertragung, Einziehung, Stimmrecht)
+- Paragraf 74, 74a HGB (nachvertragliches Wettbewerbsverbot)
+- Paragraf 1029 ff. ZPO / DIS-SchO 2021 (Schiedsverfahren)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Übergabe an andere Skills
 
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Abgleich SHA mit Satzung
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Einziehungsklausel § 34 GmbHG einbetten
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Einziehungsklausel Paragraf 34 GmbHG einbetten
 - `gesellschaftsgruender-klauselkatalog-bilingual` — bilinguale SHA-Klauseln
 - `gesellschaftsgruender-share-classes-a-b-c` — Klassensystem im SHA

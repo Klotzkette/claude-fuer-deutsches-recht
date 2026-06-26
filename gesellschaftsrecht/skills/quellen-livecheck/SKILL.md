@@ -1,6 +1,6 @@
 ---
 name: quellen-livecheck
-description: "Quellen-Live-Check für Gesellschaftsrecht: prüft Normen (GmbHG, AktG, HGB, BGB §§ 705 ff., UmwG, MitbestG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Handelsregister und Quellenhygiene nach references/quellenhygiene.md."
+description: "Quellen-Live-Check für Gesellschaftsrecht: prüft Normen (GmbHG, AktG, HGB, BGB Paragraf 705 ff., UmwG, MitbestG) gegen amtliche Datenbank, Rechtsprechung mit Gericht-Datum-Az-Rn; nutzt Handelsregister und Quellenhygiene nach references/quellenhygiene.md."
 ---
 
 # Rechtsquellen-Livecheck

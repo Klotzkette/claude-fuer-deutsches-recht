@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-registerstreit-legitimationswirkung
-description: "Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren im Gesellschaftsrecht."
+description: "Prüft Paragraf 16 und Paragraf 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren im Gesellschaftsrecht."
 ---
 
 # GmbH-Gesellschafterliste: Registerstreit, Legitimationswirkung und einstweiliger Rechtsschutz
@@ -14,10 +14,10 @@ description: "Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtre
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Rechtskern
-- § 16 Abs. 1 GmbHG knüpft die Gesellschafterstellung im Verhältnis zur Gesellschaft an die Liste.
-- § 40 GmbHG regelt Erstellung und Einreichung; Registergericht prüft die Liste nur begrenzt und muss zügige Aufnahme in den Registerordner beachten.
+- Paragraf 16 Abs. 1 GmbHG knüpft die Gesellschafterstellung im Verhältnis zur Gesellschaft an die Liste.
+- Paragraf 40 GmbHG regelt Erstellung und Einreichung; Registergericht prüft die Liste nur begrenzt und muss zügige Aufnahme in den Registerordner beachten.
 - BGH, Urteil vom 08.11.2022 - II ZR 91/21: Anspruch auf zutreffende Aufnahme in die Liste kann aus der Mitgliedschaft/Treuepflicht folgen.
-- BGH, Beschluss vom 18.03.2025 - II ZB 11/24: Registerordner und Prüfungsumfang bei Gesellschafterlisten nicht mit materieller Richtigkeitsprüfung verwechseln.
+- Rechtsprechung zu Registerordnern und Prüfungsumfang nur nach Quellenprüfung als tragenden Anker verwenden; Listenlage und materielle Berechtigung immer getrennt darstellen.
 
 ## Workflow
 1. Auslöser: Anteilskauf, Einziehung, Kapitalmaßnahme, Erbfall, Treuhand, Streitlisteneinreichung.

@@ -62,6 +62,16 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Eintragung, Zwischenverfügung und Zurückweisung sind sauber getrennt.
+2. Das Hindernis ist konkret, behebbar oder unbehebbar eingeordnet und mit Frist versehen.
+3. Anhörung und rechtliches Gehör sind gewahrt.
+4. Der Prüfungsumfang ersetzt keine streitige Zivilentscheidung.
+5. Beschwerde und Abhilfe werden mit tragender Begründung behandelt.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

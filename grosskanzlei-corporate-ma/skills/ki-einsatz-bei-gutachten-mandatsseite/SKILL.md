@@ -1,33 +1,33 @@
 ---
 name: ki-einsatz-bei-gutachten-mandatsseite
-description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstuf..."
+description: "Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach Paragraf 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen Paragraf 8a Abs. 2, Eskalationsstuf..."
 ---
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Kernsachverhalt
 
-Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die Pflicht des Sachverständigen zur höchstpersönlichen Erstellung (§ 407a Abs. 1 ZPO). KI-Werkzeuge, die substantielle Teile des Gutachtens generieren, können diese Pflicht unterlaufen. Die Mandatsseite steht vor der Aufgabe, KI-Verdacht taktisch sauber und ohne überschießende Pauschalvorwürfe zu verarbeiten. Ein voreilig eskalierter KI-Vorwurf, der sich nicht bestätigt, kann auf den Mandanten zurückfallen. Ein nicht geltend gemachter Mangel kann in der Rechtsmittelinstanz präkludiert sein. Die Strategie erfordert daher eine sorgfältige Trennung zwischen Indizien für KI-Einsatz einerseits und inhaltlichen Gutachtenmängeln andererseits — nur letztere sind prozessrechtlich primär relevant.
+Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die Pflicht des Sachverständigen zur höchstpersönlichen Erstellung (Paragraf 407a Abs. 1 ZPO). KI-Werkzeuge, die substantielle Teile des Gutachtens generieren, können diese Pflicht unterlaufen. Die Mandatsseite steht vor der Aufgabe, KI-Verdacht taktisch sauber und ohne überschießende Pauschalvorwürfe zu verarbeiten. Ein voreilig eskalierter KI-Vorwurf, der sich nicht bestätigt, kann auf den Mandanten zurückfallen. Ein nicht geltend gemachter Mangel kann in der Rechtsmittelinstanz präkludiert sein. Die Strategie erfordert daher eine sorgfältige Trennung zwischen Indizien für KI-Einsatz einerseits und inhaltlichen Gutachtenmängeln andererseits — nur letztere sind prozessrechtlich primär relevant.
 
 ## Kaltstart-Rückfragen
 
 1. In welchem Verfahren wurde das Gutachten erstattet — ZPO-Verfahren, Schiedsverfahren (DIS, ICC, SCC), Verwaltungsverfahren, Strafverfahren?
 2. Welche konkreten Auffälligkeiten im Gutachten begründen den KI-Verdacht (Stilbrüche, generische Passagen, wiederholte Formulierungsmuster, fehlende Würdigung von Anknüpfungstatsachen)?
 3. Liegt der Verdacht bei inhaltlichen Mängeln oder nur bei formalen Auffälligkeiten ohne sachliche Auswirkung?
-4. Wurde dem Sachverständigen bereits Gelegenheit zur Erläuterung gegeben (Anhörung nach § 411 Abs. 3 ZPO)?
+4. Wurde dem Sachverständigen bereits Gelegenheit zur Erläuterung gegeben (Anhörung nach Paragraf 411 Abs. 3 ZPO)?
 5. Handelt es sich um ein gerichtliches oder ein von der Gegenseite beauftragtes Privatgutachten?
-6. Welche Fristen sind zu beachten — insbesondere Befangenheitsfrist (§ 406 Abs. 2 ZPO: 2 Wochen ab Kenntnis)?
+6. Welche Fristen sind zu beachten — insbesondere Befangenheitsfrist (Paragraf 406 Abs. 2 ZPO: 2 Wochen ab Kenntnis)?
 7. Ist Schiedsordnung mit AI-Disclosure-Pflichten vorhanden oder geplant?
 8. Hat der Mandant selbst KI-Werkzeuge in der Mandatsbearbeitung eingesetzt, die im Kontext der Verhandlung relevant sein könnten?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -38,15 +38,15 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 | Norm | Regelungsinhalt (Auszug) |
 |---|---|
-| § 407a Abs. 1 ZPO | Sachverständiger hat das Gutachten persönlich zu erstatten; er darf Hilfskräfte nur zur Unterstützung heranziehen, wenn er deren Tätigkeit persönlich überwacht und für das Ergebnis die Verantwortung übernimmt |
-| § 407a Abs. 3 ZPO | Sachverständiger hat Mitarbeiter, die bei der Erstellung des Gutachtens mitgewirkt haben, zu benennen; daraus folgt: erst-recht-Schluss für KI-Werkzeuge |
-| § 407a Abs. 5 ZPO | Sachverständiger hat auf Verlangen die für das Gutachten benutzten Unterlagen herauszugeben |
-| § 411 Abs. 3 ZPO | Auf Antrag einer Partei oder von Amts wegen kann das Gericht den Sachverständigen zur mündlichen Erläuterung seines Gutachtens laden |
-| § 412 ZPO | Das Gericht kann ein neues Gutachten anordnen, wenn das bisherige Gutachten ungenügend ist |
-| § 406 ZPO | Ablehnung des Sachverständigen wegen Besorgnis der Befangenheit; Frist: 2 Wochen ab Kenntnis des Ablehnungsgrundes |
-| § 4 Abs. 1 S. 1 JVEG | Vergütung nur für notwendige Leistungen |
-| § 8a Abs. 2 S. 1 Nr. 1, 2 JVEG | Vergütung auf null festsetzen, wenn Sachverständiger die Pflicht zur höchstpersönlichen Erstellung verletzt hat oder das Gutachten grob mangelhaft ist |
-| § 1059 ZPO | Aufhebungsantrag bei Schiedsspruch: schwerwiegende Verfahrensfehler, ordre public |
+| Paragraf 407a Abs. 1 ZPO | Sachverständiger hat das Gutachten persönlich zu erstatten; er darf Hilfskräfte nur zur Unterstützung heranziehen, wenn er deren Tätigkeit persönlich überwacht und für das Ergebnis die Verantwortung übernimmt |
+| Paragraf 407a Abs. 3 ZPO | Sachverständiger hat Mitarbeiter, die bei der Erstellung des Gutachtens mitgewirkt haben, zu benennen; daraus folgt: erst-recht-Schluss für KI-Werkzeuge |
+| Paragraf 407a Abs. 5 ZPO | Sachverständiger hat auf Verlangen die für das Gutachten benutzten Unterlagen herauszugeben |
+| Paragraf 411 Abs. 3 ZPO | Auf Antrag einer Partei oder von Amts wegen kann das Gericht den Sachverständigen zur mündlichen Erläuterung seines Gutachtens laden |
+| Paragraf 412 ZPO | Das Gericht kann ein neues Gutachten anordnen, wenn das bisherige Gutachten ungenügend ist |
+| Paragraf 406 ZPO | Ablehnung des Sachverständigen wegen Besorgnis der Befangenheit; Frist: 2 Wochen ab Kenntnis des Ablehnungsgrundes |
+| Paragraf 4 Abs. 1 S. 1 JVEG | Vergütung nur für notwendige Leistungen |
+| Paragraf 8a Abs. 2 S. 1 Nr. 1, 2 JVEG | Vergütung auf null festsetzen, wenn Sachverständiger die Pflicht zur höchstpersönlichen Erstellung verletzt hat oder das Gutachten grob mangelhaft ist |
+| Paragraf 1059 ZPO | Aufhebungsantrag bei Schiedsspruch: schwerwiegende Verfahrensfehler, ordre public |
 
 ### Leitentscheidungen
 
@@ -56,54 +56,54 @@ Im Zivilprozess, in Schiedsverfahren und bei behördlichen Gutachten besteht die
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Verfahrensart und anwendbares Recht | ZPO, Schiedsordnung, Verwaltungsverfahren; Rechtsgrundlage der Sachverständigenbestellung | Rechtsrahmen klar |
 | 2 | Auffälligkeiten sichten und dokumentieren | Seitenreferenzen; Stilbrüche, generische Formeln, fehlende Einzelfallwürdigung; internes Memo anlegen | Indizien-Liste erstellt |
 | 3 | Inhaltliche Mängel getrennt herausarbeiten | Methodische Fehler, falsche Anknüpfungstatsachen, fehlende Begründung — unabhängig vom KI-Verdacht | Inhaltliche Mängelliste |
-| 4 | Befangenheitsfrist prüfen | § 406 Abs. 2 ZPO: 2 Wochen ab Kenntnis des konkreten Ablehnungsgrundes | Frist notiert |
+| 4 | Befangenheitsfrist prüfen | Paragraf 406 Abs. 2 ZPO: 2 Wochen ab Kenntnis des konkreten Ablehnungsgrundes | Frist notiert |
 | 5 | Eskalationsstufe wählen | Beobachten / Anhörung / Privatgutachten / Vergütungssperre / Befangenheitsantrag / Rechtsmittel | Eskalationsstufe festgelegt |
-| 6 | Anhörungsantrag nach § 411 Abs. 3 ZPO | Konkrete Fragen an Sachverständigen formulieren: Welche Schritte persönlich durchgeführt? Welche Hilfsmittel eingesetzt? | Antragsentwurf liegt vor |
-| 7 | Aktenherausgabeantrag nach § 407a Abs. 5 ZPO | Herauszugebende Unterlagen konkret bezeichnen: Korrespondenz, Entwürfe, Protokoll der Erstellungsschritte | Antrag formuliert |
+| 6 | Anhörungsantrag nach Paragraf 411 Abs. 3 ZPO | Konkrete Fragen an Sachverständigen formulieren: Welche Schritte persönlich durchgeführt? Welche Hilfsmittel eingesetzt? | Antragsentwurf liegt vor |
+| 7 | Aktenherausgabeantrag nach Paragraf 407a Abs. 5 ZPO | Herauszugebende Unterlagen konkret bezeichnen: Korrespondenz, Entwürfe, Protokoll der Erstellungsschritte | Antrag formuliert |
 | 8 | Privatgutachten beauftragen (falls nötig) | Gutachter mit klarer Eigenständigkeitsanforderung beauftragen; KI-Nutzung vorab klären und dokumentieren | Privatgutachten beauftragt |
-| 9 | JVEG-Vergütungsanregung | § 8a Abs. 2 JVEG: konkreten Pflichtenverstoß darlegen; separater Schriftsatz an das Gericht | Vergütungsanregung formuliert |
-| 10 | Befangenheitsantrag vorbereiten | § 406 ZPO: Ablehnungsgrund konkret und seitengenau; Fristwahrung sicherstellen | Antrag vorbereitet |
-| 11 | Neues Gutachten beantragen (§ 412 ZPO) | Bei festgestellter Unverwertbarkeit; Begründung: Gutachten ungenügend, kein Heilungsrecht | Antrag nach § 412 ZPO |
+| 9 | JVEG-Vergütungsanregung | Paragraf 8a Abs. 2 JVEG: konkreten Pflichtenverstoß darlegen; separater Schriftsatz an das Gericht | Vergütungsanregung formuliert |
+| 10 | Befangenheitsantrag vorbereiten | Paragraf 406 ZPO: Ablehnungsgrund konkret und seitengenau; Fristwahrung sicherstellen | Antrag vorbereitet |
+| 11 | Neues Gutachten beantragen (Paragraf 412 ZPO) | Bei festgestellter Unverwertbarkeit; Begründung: Gutachten ungenügend, kein Heilungsrecht | Antrag nach Paragraf 412 ZPO |
 | 12 | Schiedsverfahren: AI-Disclosure-Klausel | Procedural Order, Terms of Reference um AI-Disclosure-Pflicht ergänzen; Standard nach DIS/ICC/IBA-Regeln | Schiedsklausel entworfen |
 | 13 | Reputations- und Kostenabwägung | Erfolgswahrscheinlichkeit, Privatgutachten-Kosten, Backfire-Risiko, Zeitverlust gegenüber Mandanten transparent machen | Kosten-Nutzen klar |
-| 14 | Rechtsmittel planen | Sofortige Beschwerde gegen Vergütungsfestsetzung (§ 4 Abs. 3 JVEG); Berufungsrügen vorbereiten | Rechtsmittelfahrplan |
+| 14 | Rechtsmittel planen | Sofortige Beschwerde gegen Vergütungsfestsetzung (Paragraf 4 Abs. 3 JVEG); Berufungsrügen vorbereiten | Rechtsmittelfahrplan |
 | 15 | Dokumentation und Mandanteninformation | Memo für Mandant mit Handlungsempfehlung, Kosten, Risiken und nächsten Schritten | Abgeschlossen |
 
 ## Beweislast
 
 | Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
-| Verletzung § 407a Abs. 1 ZPO (fehlende Höchstpersönlichkeit) | Antragstellende Partei | Sachverständigenanhörung, Drittprüfungs-Gutachten, Protokolle |
+| Verletzung Paragraf 407a Abs. 1 ZPO (fehlende Höchstpersönlichkeit) | Antragstellende Partei | Sachverständigenanhörung, Drittprüfungs-Gutachten, Protokolle |
 | Inhaltliche Mängel des Gutachtens | Partei, die Mängel rügt | Privatgutachten, Fachliteratur, Gegenbeweis durch eigene Sachverständige |
-| Befangenheitsgrund (§ 406 ZPO) | Antragstellende Partei | Sachverständigenaussage, Korrespondenz, Widersprüche im Gutachten |
-| Verletzung JVEG § 8a (grob mangelhaft) | Gericht von Amts wegen; Anregung der Partei | Gutachten selbst, Anhörungsprotokoll, Privatgutachten |
+| Befangenheitsgrund (Paragraf 406 ZPO) | Antragstellende Partei | Sachverständigenaussage, Korrespondenz, Widersprüche im Gutachten |
+| Verletzung JVEG Paragraf 8a (grob mangelhaft) | Gericht von Amts wegen; Anregung der Partei | Gutachten selbst, Anhörungsprotokoll, Privatgutachten |
 
 ## Fristen und Verjährung
 
 | Fristtyp | Dauer / Beginn | Norm | Hinweis |
 |---|---|---|---|
-| Befangenheitsantrag | 2 Wochen ab Kenntnis des Ablehnungsgrundes | § 406 Abs. 2 ZPO | Nicht verlängerbar; Versäumnis = Präklusion |
-| Stellungnahme zum Gutachten | Vom Gericht gesetzte Frist (typisch 4–6 Wochen) | § 411 Abs. 4 ZPO | Fristverlängerungsantrag begründen |
-| JVEG-Einspruch gegen Vergütungsfestsetzung | Sofortige Beschwerde binnen 2 Wochen | § 4 Abs. 3 JVEG | Beschluss des Kostenrichters angreifen |
-| Berufungsrüge (Verfahrensfehler) | Mit der Berufungsbegründung | § 520 Abs. 3 ZPO | Spätere Rüge präkludiert |
-| § 1059 ZPO (Schiedsspruch-Aufhebung) | 3 Monate ab Empfang des Schiedsspruchs | § 1059 Abs. 3 ZPO | Strikte Ausschlussfrist |
+| Befangenheitsantrag | 2 Wochen ab Kenntnis des Ablehnungsgrundes | Paragraf 406 Abs. 2 ZPO | Nicht verlängerbar; Versäumnis = Präklusion |
+| Stellungnahme zum Gutachten | Vom Gericht gesetzte Frist (typisch 4–6 Wochen) | Paragraf 411 Abs. 4 ZPO | Fristverlängerungsantrag begründen |
+| JVEG-Einspruch gegen Vergütungsfestsetzung | Sofortige Beschwerde binnen 2 Wochen | Paragraf 4 Abs. 3 JVEG | Beschluss des Kostenrichters angreifen |
+| Berufungsrüge (Verfahrensfehler) | Mit der Berufungsbegründung | Paragraf 520 Abs. 3 ZPO | Spätere Rüge präkludiert |
+| Paragraf 1059 ZPO (Schiedsspruch-Aufhebung) | 3 Monate ab Empfang des Schiedsspruchs | Paragraf 1059 Abs. 3 ZPO | Strikte Ausschlussfrist |
 
 ## Typische Gegenargumente
 
 | Argument (Gegenseite / Gericht) | Erwiderung (Mandatsseite) |
 |---|---|
-| KI-Nutzung ist nicht verboten | Höchstpersönliche Erstellungspflicht aus § 407a Abs. 1 ZPO schränkt Werkzeug-Nutzung ein, wenn wesentliche Inhalte nicht eigenständig vom Sachverständigen stammen |
-| Stilbrüche beweisen keinen KI-Einsatz | Indizien sind nur Anlass zur Anhörung, kein Beweis; Anhörung nach § 411 Abs. 3 ZPO ist aufzuklären |
+| KI-Nutzung ist nicht verboten | Höchstpersönliche Erstellungspflicht aus Paragraf 407a Abs. 1 ZPO schränkt Werkzeug-Nutzung ein, wenn wesentliche Inhalte nicht eigenständig vom Sachverständigen stammen |
+| Stilbrüche beweisen keinen KI-Einsatz | Indizien sind nur Anlass zur Anhörung, kein Beweis; Anhörung nach Paragraf 411 Abs. 3 ZPO ist aufzuklären |
 | Gutachten ist inhaltlich korrekt | Methodisch korrekte KI-Ausgabe ändert nichts an der Pflicht zur höchstpersönlichen Verantwortung; Verwertbarkeit bleibt zweifelhaft |
-| Vergütungssperre setzt grobe Pflichtverletzung voraus | § 8a Abs. 2 JVEG: Bei festgestellter Verletzung § 407a ZPO ist Vergütung auf null festzusetzen — kein Ermessen |
-| Privatgutachten als Parteiergebnis wertlos | Parteigutachten trägt geringeren Beweiswert, aber bleibt zulässiges Beweismittel; Gericht kann gemäß § 412 ZPO neues Gutachten anordnen |
+| Vergütungssperre setzt grobe Pflichtverletzung voraus | Paragraf 8a Abs. 2 JVEG: Bei festgestellter Verletzung Paragraf 407a ZPO ist Vergütung auf null festzusetzen — kein Ermessen |
+| Privatgutachten als Parteiergebnis wertlos | Parteigutachten trägt geringeren Beweiswert, aber bleibt zulässiges Beweismittel; Gericht kann gemäß Paragraf 412 ZPO neues Gutachten anordnen |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -152,7 +152,7 @@ aufweist, die Anlass zur Nachfrage geben:
  auf unterschiedliche Erstellungsstränge hindeuten kann.
 
 Die [Partei] erhebt keinen pauschalen Vorwurf des KI-Einsatzes. Sie beantragt
-jedoch gemäß § 411 Abs. 3 ZPO die mündliche Anhörung des Sachverständigen und
+jedoch gemäß Paragraf 411 Abs. 3 ZPO die mündliche Anhörung des Sachverständigen und
 insbesondere Aufklärung über folgende Punkte:
 
 (a) Welche Erstellungsschritte hat der Sachverständige persönlich durchgeführt?
@@ -163,14 +163,14 @@ insbesondere Aufklärung über folgende Punkte:
 [Kanzlei, Datum, Unterschrift]
 ```
 
-### Baustein 2 — Vergütungsanregung nach § 8a Abs. 2 JVEG
+### Baustein 2 — Vergütungsanregung nach Paragraf 8a Abs. 2 JVEG
 
 ```
 In der Sache [Kläger] ./. [Beklagter], Az. [X]
 — Betreffend Vergütungsfestsetzung Sachverständiger [Name] —
 
 Die [Partei] regt an, die Vergütung des Sachverständigen [Name] für das Gutachten
-vom [Datum] gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG auf null festzusetzen.
+vom [Datum] gemäß Paragraf 8a Abs. 2 S. 1 Nr. 1 JVEG auf null festzusetzen.
 
 Begründung:
 
@@ -180,15 +180,15 @@ Begründung:
  inhaltliche Prüfung der Ausgaben vorgenommen hat.
 
 2. Damit liegt eine Verletzung der höchstpersönlichen Erstellungspflicht nach
- § 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
+ Paragraf 407a Abs. 1 ZPO vor. Diese Pflicht ist nicht disponibel und gilt für alle
  wesentlichen Teile des Gutachtens.
 
-3. Gemäß § 8a Abs. 2 S. 1 Nr. 1 JVEG ist die Vergütung auf null festzusetzen,
- wenn der Sachverständige grob gegen die Pflicht aus § 407a Abs. 1 ZPO verstoßen
+3. Gemäß Paragraf 8a Abs. 2 S. 1 Nr. 1 JVEG ist die Vergütung auf null festzusetzen,
+ wenn der Sachverständige grob gegen die Pflicht aus Paragraf 407a Abs. 1 ZPO verstoßen
  hat. Die von der höchstrichterlichen Rechtsprechung geforderten Voraussetzungen
  sind im vorliegenden Fall erfüllt.
 
-Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß § 412 ZPO.
+Die [Partei] beantragt ferner die Einholung eines neuen Gutachtens gemäß Paragraf 412 ZPO.
 
 [Kanzlei, Datum, Unterschrift]
 ```
@@ -253,11 +253,11 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- §§ 406, 407a, 411, 412, 1059 ZPO; §§ 4, 8a JVEG
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Paragraf 406, 407a, 411, 412, 1059 ZPO; Paragraf 4, 8a JVEG
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
 <!-- AUDIT 27.05.2026: 3 halluzinierte Entscheidungen entfernt.
-- BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, § 826 BGB); kein Bezug zu § 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
+- BGH VI ZR 480/19 (23.11.2021): AZ existiert, aber Datum falsch (korrekt: 27.07.2021) und Thema falsch (tatsaechlich: Dieselfall VW EA189, Paragraf 826 BGB); kein Bezug zu Paragraf 407a ZPO; NJW 2022, 302 nicht belegt. Ersatzlos geloescht.
 Prüfmethode: dejure.org-Direktabfrage je AZ. Keine Ersatzentscheidungen ergaenzt mangels verifizierbarer themenkonformer Alternativen. -->

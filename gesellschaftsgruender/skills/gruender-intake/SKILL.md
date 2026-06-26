@@ -23,14 +23,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gründer-Intake` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -45,15 +45,15 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 ## Zentrale Normen
 
-- **§§ 2, 5 GmbHG** — Beurkundungspflicht; Stammkapital; Mindestanteil 1 EUR.
-- **§ 8b Abs. 2 KStG** — Steuerfreier Exit über Holding-GmbH (95 % Steuerfreiheit); Holding vor operativer GmbH gründen.
-- **§ 47 GmbHG** — Stimmrecht: Stimmbindungsvereinbarungen möglich (SHA), aber nur schuldrechtliche Wirkung.
-- **§§ 34, 15 GmbHG** — Einziehung von Geschäftsanteilen (Vesting / Bad-Leaver).
-- **§ 19 GwG** — Transparenzregister: wirtschaftlich Berechtigte melden.
+- **Paragraf 2, 5 GmbHG** — Beurkundungspflicht; Stammkapital; Mindestanteil 1 EUR.
+- **Paragraf 8b Abs. 2 KStG** — Steuerfreier Exit über Holding-GmbH (95 % Steuerfreiheit); Holding vor operativer GmbH gründen.
+- **Paragraf 47 GmbHG** — Stimmrecht: Stimmbindungsvereinbarungen möglich (SHA), aber nur schuldrechtliche Wirkung.
+- **Paragraf 34, 15 GmbHG** — Einziehung von Geschäftsanteilen (Vesting / Bad-Leaver).
+- **Paragraf 19 GwG** — Transparenzregister: wirtschaftlich Berechtigte melden.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Frageleitfaden (9 Blöcke)
 
@@ -63,7 +63,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Pro Gründer: Vollständiger Name, Geburtsdatum, Anschrift, Staatsangehörigkeit.
 - Funktion in der Gesellschaft (CEO, CTO, COO, nur Investor)?
 - Persönliches Halten oder über Holding-GmbH?
- - Holding bereits gegründet? Falls nein: vor operativer GmbH gründen (§ 8b KStG-Vorteil).
+ - Holding bereits gegründet? Falls nein: vor operativer GmbH gründen (Paragraf 8b KStG-Vorteil).
 - Ausländische Gesellschafter → Sanktionsrecht prüfen, GwG-Identifikation.
 
 ### Block 2 — Anteilsverteilung
@@ -78,7 +78,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Pre-Money-Bewertung geplant?
 - Finanzierungsrunden: Seed, Series A, ...?
 - Bestehendes Term Sheet?
-- Genehmigtes Kapital (§ 55a GmbHG) vorsehen?
+- Genehmigtes Kapital (Paragraf 55a GmbHG) vorsehen?
 - Vesting für Gründer: Cliff 12 Monate Standard, Vesting 4 Jahre?
 
 ### Block 4 — Geschäftsmodell
@@ -98,7 +98,7 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Anzahl GF; Gesellschafter-GF oder Fremd-GF?
 - Einzel- oder Gesamtvertretung?
-- § 181 BGB Befreiung gewünscht?
+- Paragraf 181 BGB Befreiung gewünscht?
 - SV-Status klären → `gesellschaftsgruender-gf-sozialversicherungs-status`.
 - Anstellungsvertrag: Gehalt, Wettbewerbsverbot, Karenz?
 
@@ -151,7 +151,7 @@ GESELLSCHAFTER
 | 1 | [Name] | [Adr.] | [EUR] | [%] | Persönlich / Holding | Bar |
 
 GESCHÄFTSFÜHRUNG
-| GF | Gesellschafter? | Vertretung | § 181 befreit | SV-Status |
+| GF | Gesellschafter? | Vertretung | Paragraf 181 befreit | SV-Status |
 |----|----------------|-----------|--------------|----------|
 | [Name] | Ja/Nein | Einzel/Gesamt | Ja/Nein | Prüfung ausstehend |
 
@@ -159,7 +159,7 @@ INVESTOR-ROADMAP
 Erste Finanzierungsrunde: [Seed / Series A / noch offen]
 Pre-Money-Bewertung geplant: [EUR oder "offen"]
 Term Sheet vorhanden: [Ja / Nein]
-Genehmigtes Kapital (§ 55a GmbHG): [vorsehen / nicht erforderlich]
+Genehmigtes Kapital (Paragraf 55a GmbHG): [vorsehen / nicht erforderlich]
 
 ROUTENLISTE (nächste Skills)
 [ ] `gesellschaftsgruender-firmenname-pruefung` — Firmencheck
@@ -177,19 +177,19 @@ OFFENE PUNKTE / STOPPSCHILDER
 
 ## Rote Schwellen
 
-- Holding-GmbH nicht vor operativer GmbH gegründet → § 8b KStG-Vorteil geht verloren; teurer Fehler.
+- Holding-GmbH nicht vor operativer GmbH gegründet → Paragraf 8b KStG-Vorteil geht verloren; teurer Fehler.
 - 50/50-Gesellschafterstruktur ohne Dead-Lock-Regelung → Pattrisiko; dringend SHA mit Stichentscheid oder Mediationsklausel.
 - Ausländischer Gesellschafter aus Sanktionsland → GwG-Prüfung; FDI-Prüfung ggf. erforderlich.
 - Genehmigungspflichtiger Gegenstand nicht identifiziert → Eintragung scheitert; Haftungsrisiko.
-- Sacheinlage ohne Werthaltigkeitsprüfung → Differenzhaftung (§ 9 GmbHG).
+- Sacheinlage ohne Werthaltigkeitsprüfung → Differenzhaftung (Paragraf 9 GmbHG).
 
 ## Quellen und Vertiefung
 
-- §§ 2, 5, 15, 34, 47 GmbHG (Grundlagen Gründung und Anteilsstruktur)
-- § 8b KStG (steuerlicher Holding-Vorteil)
-- § 19 GwG (Transparenzregister)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Winter, GmbHG, § 15 Rn. 1-30
+- Paragraf 2, 5, 15, 34, 47 GmbHG (Grundlagen Gründung und Anteilsstruktur)
+- Paragraf 8b KStG (steuerlicher Holding-Vorteil)
+- Paragraf 19 GwG (Transparenzregister)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Winter, GmbHG, Paragraf 15 Rn. 1-30
 
 ## Übergabe an andere Skills
 

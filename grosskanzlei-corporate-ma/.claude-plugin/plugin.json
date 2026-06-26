@@ -1,7 +1,7 @@
 {
   "name": "grosskanzlei-corporate-ma",
   "version": "398.0.0",
-  "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 125 Spezial-Skills.",
+  "description": "Corporate/M&A-Plugin fuer Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

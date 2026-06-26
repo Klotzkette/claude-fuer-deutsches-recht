@@ -1,24 +1,24 @@
 ---
 name: grosskanzlei-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG dro..."
+description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. Paragraf 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, Paragraf 1 StaRUG dro..."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Freistehender Insolvenzreife- und StaRUG-Schwellencheck
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Kernsachverhalt
 
-Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Einerseits als Due-Diligence-Instrument des Käufers, der sicherstellen muss, dass das Zielunternehmen bei Signing nicht bereits insolvenznah ist (andernfalls drohen MAC-Trigger, W&I-Ausschlüsse, Closing-Versagungen). Andererseits als Pflichtinstrument der Geschäftsleitung, die bei Eintritt von Insolvenzreife Antragspflichten hat und für masseschmälernde Zahlungen nach § 15b InsO haftet. Die drei Insolvenztatbestände — Zahlungsunfähigkeit (§ 17), drohende Zahlungsunfähigkeit (§ 18) und Überschuldung (§ 19 InsO) — sind scharf zu trennen: Nur § 17 und § 19 begründen Antragspflichten, § 18 ist Voraussetzung für das StaRUG-Verfahren.
+Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Einerseits als Due-Diligence-Instrument des Käufers, der sicherstellen muss, dass das Zielunternehmen bei Signing nicht bereits insolvenznah ist (andernfalls drohen MAC-Trigger, W&I-Ausschlüsse, Closing-Versagungen). Andererseits als Pflichtinstrument der Geschäftsleitung, die bei Eintritt von Insolvenzreife Antragspflichten hat und für masseschmälernde Zahlungen nach Paragraf 15b InsO haftet. Die drei Insolvenztatbestände — Zahlungsunfähigkeit (Paragraf 17), drohende Zahlungsunfähigkeit (Paragraf 18) und Überschuldung (Paragraf 19 InsO) — sind scharf zu trennen: Nur Paragraf 17 und Paragraf 19 begründen Antragspflichten, Paragraf 18 ist Voraussetzung für das StaRUG-Verfahren.
 
 ## Kaltstart-Rückfragen
 
@@ -38,14 +38,14 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Norm | Regelungsinhalt (Auszug) |
 |---|---|
-| § 17 InsO | Zahlungsunfähigkeit: Schuldner nicht in der Lage, fällige Zahlungspflichten zu erfüllen; > 10 % Liquiditätslücke über 3 Wochen in der Regel anzunehmen |
-| § 18 InsO | Drohende Zahlungsunfähigkeit: voraussichtlich nicht in der Lage, Verbindlichkeiten bei Fälligkeit zu erfüllen; Prognosezeitraum für StaRUG: 24 Monate |
-| § 19 InsO | Überschuldung: Vermögen deckt Verbindlichkeiten nicht, außer bei positiver Fortbestehensprognose (zweistufige Prüfung) |
-| § 15a InsO | Antragspflicht: 3 Wochen bei Zahlungsunfähigkeit; 6 Wochen bei Überschuldung; Pflicht des Geschäftsführers / Vorstands |
-| § 15b InsO | Zahlungsverbote nach Insolvenzreife; Haftung des Geschäftsführers / Vorstands; Direktanspruch des Insolvenzverwalters |
-| §§ 1–93 StaRUG | Vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfähigkeit (§ 18 InsO) voraus |
-| § 321a HGB | Berichtspflicht des Abschlussprüfers über bestandsgefährdende Risiken; Frühwarnpflicht |
-| §§ 91 Abs. 2 AktG; 43 GmbHG | Pflicht zur Einrichtung eines Überwachungssystems für bestandsgefährdende Risiken |
+| Paragraf 17 InsO | Zahlungsunfähigkeit: Schuldner nicht in der Lage, fällige Zahlungspflichten zu erfüllen; > 10 % Liquiditätslücke über 3 Wochen in der Regel anzunehmen |
+| Paragraf 18 InsO | Drohende Zahlungsunfähigkeit: voraussichtlich nicht in der Lage, Verbindlichkeiten bei Fälligkeit zu erfüllen; Prognosezeitraum für StaRUG: 24 Monate |
+| Paragraf 19 InsO | Überschuldung: Vermögen deckt Verbindlichkeiten nicht, außer bei positiver Fortbestehensprognose (zweistufige Prüfung) |
+| Paragraf 15a InsO | Antragspflicht: 3 Wochen bei Zahlungsunfähigkeit; 6 Wochen bei Überschuldung; Pflicht des Geschäftsführers / Vorstands |
+| Paragraf 15b InsO | Zahlungsverbote nach Insolvenzreife; Haftung des Geschäftsführers / Vorstands; Direktanspruch des Insolvenzverwalters |
+| Paragraf 1–93 StaRUG | Vorinsolvenzlicher Restrukturierungsrahmen: setzt drohende Zahlungsunfähigkeit (Paragraf 18 InsO) voraus |
+| Paragraf 321a HGB | Berichtspflicht des Abschlussprüfers über bestandsgefährdende Risiken; Frühwarnpflicht |
+| Paragraf 91 Abs. 2 AktG; 43 GmbHG | Pflicht zur Einrichtung eines Überwachungssystems für bestandsgefährdende Risiken |
 
 ### Leitentscheidungen
 
@@ -56,20 +56,20 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Datenqualität prüfen | Bankstände, OPOS, Forecast, Bilanz, stille Lasten, Finanzierungslinien, Patronate, Rangrücktritte vorhanden und aktuell? | Datenlücken-Liste |
 | 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; Deckungslücke berechnen | EUR [X] Deckungslücke |
-| 3 | 3-Wochen-Vorschau (§ 17 InsO) | Liegt Deckungslücke > 10 % der fälligen Verbindlichkeiten vor? → Ampel rot = Zahlungsunfähigkeit | § 17-Status: [ZU / nicht ZU] |
+| 3 | 3-Wochen-Vorschau (Paragraf 17 InsO) | Liegt Deckungslücke > 10 % der fälligen Verbindlichkeiten vor? → Ampel rot = Zahlungsunfähigkeit | Paragraf 17-Status: [ZU / nicht ZU] |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 5 | Überschuldungsstatus (§ 19 InsO) | Bilanz-Passiva > Aktiva zu Fortführungswerten? Stille Lasten, Rückstellungen aufdecken | Überschuldung: [Ja / Nein] |
-| 6 | Fortbestehensprognose (§ 19 InsO) | Überwiegende Wahrscheinlichkeit des Fortbestehens über 12 Monate? Finanzierungszusagen, Auftragsbestand, Geschäftsplan | Prognose: [positiv / negativ] |
-| 7 | Drohende Zahlungsunfähigkeit (§ 18 InsO) | Prognose 24 Monate: werden Verbindlichkeiten voraussichtlich nicht erfüllt werden können? StaRUG-Schwelle? | § 18-Status: [DZU / nicht DZU] |
-| 8 | Antragspflicht bewerten (§ 15a InsO) | Zahlungsunfähigkeit oder Überschuldung ohne positive Prognose? → Frist läuft; Geschäftsleitung informieren | Fristbeginn: [Datum] |
-| 9 | Zahlungsverbot (§ 15b InsO) | Welche Zahlungen wurden seit Insolvenzreife geleistet? Rückforderungsrisiko des Insolvenzverwalters? | Zahlungsprotokoll |
-| 10 | StaRUG-Eignung prüfen | § 18 InsO liegt vor; Hauptverwaltung in Deutschland (COMI); Planbetroffene identifizierbar? | StaRUG: [geeignet / nicht geeignet] |
+| 5 | Überschuldungsstatus (Paragraf 19 InsO) | Bilanz-Passiva > Aktiva zu Fortführungswerten? Stille Lasten, Rückstellungen aufdecken | Überschuldung: [Ja / Nein] |
+| 6 | Fortbestehensprognose (Paragraf 19 InsO) | Überwiegende Wahrscheinlichkeit des Fortbestehens über 12 Monate? Finanzierungszusagen, Auftragsbestand, Geschäftsplan | Prognose: [positiv / negativ] |
+| 7 | Drohende Zahlungsunfähigkeit (Paragraf 18 InsO) | Prognose 24 Monate: werden Verbindlichkeiten voraussichtlich nicht erfüllt werden können? StaRUG-Schwelle? | Paragraf 18-Status: [DZU / nicht DZU] |
+| 8 | Antragspflicht bewerten (Paragraf 15a InsO) | Zahlungsunfähigkeit oder Überschuldung ohne positive Prognose? → Frist läuft; Geschäftsleitung informieren | Fristbeginn: [Datum] |
+| 9 | Zahlungsverbot (Paragraf 15b InsO) | Welche Zahlungen wurden seit Insolvenzreife geleistet? Rückforderungsrisiko des Insolvenzverwalters? | Zahlungsprotokoll |
+| 10 | StaRUG-Eignung prüfen | Paragraf 18 InsO liegt vor; Hauptverwaltung in Deutschland (COMI); Planbetroffene identifizierbar? | StaRUG: [geeignet / nicht geeignet] |
 | 11 | Deal-Auswirkungen bewerten | MAC-Trigger; Ordinary-Course-Covenant-Verletzung; Closing-Condition-Gefährdung; W&I-Ausschluss | Deal Impact Memo |
 | 12 | W&I-Versicherung prüfen | Enthält W&I-Police Ausschlüsse für Insolvenzreife, MAC oder Zahlungsunfähigkeit? | W&I-Status |
 | 13 | Fragenliste an Stakeholder | Geschäftsleitung, CFO, Steuerberater, Hausbank, Insolvenzrechtsteam: konkrete Fragen mit Frist | Fragenliste |
@@ -80,11 +80,11 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Prüfung | Kriterium | Status | Kommentar |
 |---|---|---|---|
-| § 17 InsO — Zahlungsunfähigkeit | Deckungslücke > 10 % über 3 Wochen | Grün / Gelb / Rot | [Kommentar] |
-| § 18 InsO — Drohende ZU | Voraussichtliche Nichterfüllung 24 Monate | Grün / Gelb / Rot | [Kommentar] |
-| § 19 InsO — Überschuldung | Passiva > Aktiva; Fortbestehensprognose | Grün / Gelb / Rot | [Kommentar] |
-| § 15a InsO — Antragspflicht | Frist läuft? | Ja / Nein | [Datum] |
-| StaRUG-Eignung | § 18 InsO + COMI + Planbetroffene | Geeignet / Nicht geeignet | [Kommentar] |
+| Paragraf 17 InsO — Zahlungsunfähigkeit | Deckungslücke > 10 % über 3 Wochen | Grün / Gelb / Rot | [Kommentar] |
+| Paragraf 18 InsO — Drohende ZU | Voraussichtliche Nichterfüllung 24 Monate | Grün / Gelb / Rot | [Kommentar] |
+| Paragraf 19 InsO — Überschuldung | Passiva > Aktiva; Fortbestehensprognose | Grün / Gelb / Rot | [Kommentar] |
+| Paragraf 15a InsO — Antragspflicht | Frist läuft? | Ja / Nein | [Datum] |
+| StaRUG-Eignung | Paragraf 18 InsO + COMI + Planbetroffene | Geeignet / Nicht geeignet | [Kommentar] |
 | MAC-Trigger | Vertragsdefinition MAC erfüllt? | Ja / Nein / Unklar | [Kommentar] |
 | W&I-Ausschluss | Insolvenzreife in Police ausgeschlossen? | Ja / Nein | [Kommentar] |
 
@@ -93,20 +93,20 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | Beweisthema | Beweislastträger | Beweismittel |
 |---|---|---|
 | Zahlungsunfähigkeit bei Antragspflicht-Verletzung | Insolvenzverwalter | Bankkontoauszüge, OPOS, Zahlungsrückstände |
-| Positive Fortbestehensprognose (§ 19 InsO) | Geschäftsleitung | Finanzplan, Auftragsbestand, Finanzierungszusagen (schriftlich) |
+| Positive Fortbestehensprognose (Paragraf 19 InsO) | Geschäftsleitung | Finanzplan, Auftragsbestand, Finanzierungszusagen (schriftlich) |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Masseschmälernde Zahlung (§ 15b InsO) | Insolvenzverwalter | Buchungsbelege, Zeitpunkt der Insolvenzreife, Vergleich ordentlicher Kaufmann |
+| Masseschmälernde Zahlung (Paragraf 15b InsO) | Insolvenzverwalter | Buchungsbelege, Zeitpunkt der Insolvenzreife, Vergleich ordentlicher Kaufmann |
 | MAC-Eintritt | Partei, die Vollzugsverweigerung geltend macht | Finanzberichte, Gutachten, Marktdaten |
 
 ## Fristen und Verjährung
 
 | Fristtyp | Dauer | Norm | Hinweis |
 |---|---|---|---|
-| Antragspflicht — Zahlungsunfähigkeit | 3 Wochen | § 15a Abs. 1 InsO | Absolute Frist; Strafbarkeit nach § 15a Abs. 4 InsO |
-| Antragspflicht — Überschuldung | 6 Wochen | § 15a Abs. 1 InsO | Bei positiver Fortbestehensprognose keine Pflicht |
-| § 15b-Haftung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB | Insolvenzverwalter geltend machen |
-| StaRUG-Rahmen | 12–24 Monate | §§ 31, 33 StaRUG | Bei § 17 InsO kein StaRUG-Zugang mehr |
-| Insolvenzanfechtung | 1–10 Jahre je nach Tatbestand | §§ 130–134 InsO | Relevanz für pre-Closing-Zahlungen |
+| Antragspflicht — Zahlungsunfähigkeit | 3 Wochen | Paragraf 15a Abs. 1 InsO | Absolute Frist; Strafbarkeit nach Paragraf 15a Abs. 4 InsO |
+| Antragspflicht — Überschuldung | 6 Wochen | Paragraf 15a Abs. 1 InsO | Bei positiver Fortbestehensprognose keine Pflicht |
+| Paragraf 15b-Haftung | 3 Jahre ab Kenntnis | Paragraf 195, 199 BGB | Insolvenzverwalter geltend machen |
+| StaRUG-Rahmen | 12–24 Monate | Paragraf 31, 33 StaRUG | Bei Paragraf 17 InsO kein StaRUG-Zugang mehr |
+| Insolvenzanfechtung | 1–10 Jahre je nach Tatbestand | Paragraf 130–134 InsO | Relevanz für pre-Closing-Zahlungen |
 
 ## Typische Gegenargumente
 
@@ -147,12 +147,12 @@ OPOS Kreditoren [Datum], Bilanz [Stichtag]) eine erste Insolvenzreife-Prüfung
 durchgeführt.
 
 ERGEBNIS:
-§ 17 InsO (Zahlungsunfähigkeit): AMPEL ROT
+Paragraf 17 InsO (Zahlungsunfähigkeit): AMPEL ROT
 Zum Stichtag [Datum] besteht eine Deckungslücke von EUR [X] (entspricht [Y] %
 der fälligen Verbindlichkeiten von EUR [Z]). Dies überschreitet die BGH-Schwelle
-von 10 %. Die Antragspflicht nach § 15a InsO könnte ausgelöst sein.
+von 10 %. Die Antragspflicht nach Paragraf 15a InsO könnte ausgelöst sein.
 
-§ 19 InsO (Überschuldung): AMPEL GELB
+Paragraf 19 InsO (Überschuldung): AMPEL GELB
 Bilanzielles Eigenkapital: EUR [X] (positiv). Stille Lasten (Pensionen EUR [Y])
 nicht vollständig bewertet. Fortbestehensprognose: Finanzierungszusage Bank [Name]
 noch nicht bestätigt.
@@ -175,7 +175,7 @@ DEAL IMPACT MEMO — Insolvenzreife — Projekt [Deal-Code]
 Erstellt: [Datum]
 Autor: [Name]
 
-Insolvenzreife-Status: § 17 InsO — Zahlungsunfähigkeit MÖGLICH
+Insolvenzreife-Status: Paragraf 17 InsO — Zahlungsunfähigkeit MÖGLICH
 
 DEAL-AUSWIRKUNGEN:
 
@@ -196,7 +196,7 @@ DEAL-AUSWIRKUNGEN:
 
 4. Ordinary-Course-Covenant:
  Geschäftsleitung darf ohne Käufer-Zustimmung keine außerordentlichen Zahlungen
- > EUR [X] leisten. § 15b InsO-Risiko ist unabhängig davon zu beachten.
+ > EUR [X] leisten. Paragraf 15b InsO-Risiko ist unabhängig davon zu beachten.
 ```
 
 --- vor Versand klären ---
@@ -214,8 +214,8 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Schadensfall | Ansatz | Norm |
 |---|---|---|
-| § 15b-Haftung | Summe masseschmälernder Zahlungen | § 15b InsO; direkter Anspruch gegen Geschäftsführer |
-| Closing-Verweigerung wegen Insolvenzreife | Schadensersatz des Käufers bei unbegründeter Verweigerung | SPA-Freistellungsklausel; § 280 BGB |
+| Paragraf 15b-Haftung | Summe masseschmälernder Zahlungen | Paragraf 15b InsO; direkter Anspruch gegen Geschäftsführer |
+| Closing-Verweigerung wegen Insolvenzreife | Schadensersatz des Käufers bei unbegründeter Verweigerung | SPA-Freistellungsklausel; Paragraf 280 BGB |
 | MAC-Streit | Streitwert = Kaufpreis; international meist Schiedsverfahren | SPA-Schiedsklausel |
 | StaRUG-Beratungskosten | EUR 100.000–1 Mio. je nach Komplexität | Budgetplanung Geschäftsleitung |
 
@@ -236,12 +236,12 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- § 15a InsO (Insolvenzantragspflicht; Hoechstfrist 3 Wochen ZU / 6 Wochen UE seit SanInsFoG): https://www.gesetze-im-internet.de/inso/__15a.html
-- § 15b InsO (rechtsformneutrales Zahlungsverbot bei Insolvenzreife seit 01.01.2021): https://www.gesetze-im-internet.de/inso/__15b.html
-- §§ 17, 18, 19 InsO: https://www.gesetze-im-internet.de/inso/__17.html
+- Paragraf 15a InsO (Insolvenzantragspflicht; Hoechstfrist 3 Wochen ZU / 6 Wochen UE seit SanInsFoG): https://www.gesetze-im-internet.de/inso/__15a.html
+- Paragraf 15b InsO (rechtsformneutrales Zahlungsverbot bei Insolvenzreife seit 01.01.2021): https://www.gesetze-im-internet.de/inso/__15b.html
+- Paragraf 17, 18, 19 InsO: https://www.gesetze-im-internet.de/inso/__17.html
 - StaRUG (in Kraft seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256): https://www.gesetze-im-internet.de/starug/
-- § 91 II AktG (Vorstandspflicht Frueherkennungssystem): https://www.gesetze-im-internet.de/aktg/__91.html
-- § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
-- § 1 StaRUG (Pflicht zur Krisenfrueherkennung seit 01.01.2021): https://www.gesetze-im-internet.de/starug/__1.html
+- Paragraf 91 II AktG (Vorstandspflicht Frueherkennungssystem): https://www.gesetze-im-internet.de/aktg/__91.html
+- Paragraf 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
+- Paragraf 1 StaRUG (Pflicht zur Krisenfrueherkennung seit 01.01.2021): https://www.gesetze-im-internet.de/starug/__1.html
 - IDW S 11 (Beurteilung Insolvenzeroeffnungsgruende): https://www.idw.de/idw/idw-verlautbarungen
 - Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

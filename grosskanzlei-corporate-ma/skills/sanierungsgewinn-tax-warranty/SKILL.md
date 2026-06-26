@@ -1,24 +1,24 @@
 ---
 name: sanierungsgewinn-tax-warranty
-description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach § 3a Abs...."
+description: "Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach Paragraf 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach Paragraf 3a Abs...."
 ---
 
 # Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Worum geht es
 
-In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektur unzureichend. Drei Risikofelder treten zusätzlich auf: erstens die **Versagung der Steuerbefreiung nach § 3a EStG**; zweitens der **zwangsweise Verbrauch der Verlustvorträge** nach § 3a Abs. 3 EStG mit Wirkung auf zukünftige Steuerperioden; drittens das **Nichtergehen einer verbindlichen Auskunft** vor Closing. Wer hier nur eine Standard-Tax-Indemnity formuliert, lässt Risiko in Millionenhöhe ungeregelt.
+In Transaktionen mit Sanierungsbezug ist die klassische Tax-Indemnity-Architektur unzureichend. Drei Risikofelder treten zusätzlich auf: erstens die **Versagung der Steuerbefreiung nach Paragraf 3a EStG**; zweitens der **zwangsweise Verbrauch der Verlustvorträge** nach Paragraf 3a Abs. 3 EStG mit Wirkung auf zukünftige Steuerperioden; drittens das **Nichtergehen einer verbindlichen Auskunft** vor Closing. Wer hier nur eine Standard-Tax-Indemnity formuliert, lässt Risiko in Millionenhöhe ungeregelt.
 
 Liefert die Architektur, mit der diese drei Risikofelder im SPA korrekt geregelt werden.
 
@@ -33,21 +33,21 @@ Nicht dieser Skill ist primär, wenn die Sanierung bereits abgeschlossen ist und
 
 ## Rechtlicher Rahmen
 
-- **§ 3a EStG** – Voraussetzungen der Steuerbefreiung, vier Tatbestandsmerkmale.
-- **§ 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge; Verlustvorträge werden verbraucht, bevor die Steuerbefreiung wirkt.
-- **§ 7b GewStG i. V. m. § 36 Abs. 2c GewStG** – Gewerbesteuer.
-- **§ 8c KStG / § 8d KStG** – Verlustvortrag bei Anteilseignerwechsel.
-- **§ 89 AO** – verbindliche Auskunft.
-- **§ 233a AO** – Verzinsung.
-- **§§ 280, 311 Abs. 2 BGB** – Allgemeines Schuldrecht für Garantie- und Freistellungsansprüche.
-- **§§ 444, 461 BGB** – arglistige Verschweigung und vertragliche Beschaffenheitsangaben.
+- **Paragraf 3a EStG** – Voraussetzungen der Steuerbefreiung, vier Tatbestandsmerkmale.
+- **Paragraf 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge; Verlustvorträge werden verbraucht, bevor die Steuerbefreiung wirkt.
+- **Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG** – Gewerbesteuer.
+- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag bei Anteilseignerwechsel.
+- **Paragraf 89 AO** – verbindliche Auskunft.
+- **Paragraf 233a AO** – Verzinsung.
+- **Paragraf 280, 311 Abs. 2 BGB** – Allgemeines Schuldrecht für Garantie- und Freistellungsansprüche.
+- **Paragraf 444, 461 BGB** – arglistige Verschweigung und vertragliche Beschaffenheitsangaben.
 
 ## / Schritt für Schritt
 
-1. **Risikolandkarte erstellen.** Welche steuerlichen Risikofelder sind in diesem Deal aktiv: Versagung Steuerbefreiung, Verbrauch Verlustvortrag, Versagung verbindliche Auskunft, § 8c KStG-Trigger, Mindestbesteuerung?
+1. **Risikolandkarte erstellen.** Welche steuerlichen Risikofelder sind in diesem Deal aktiv: Versagung Steuerbefreiung, Verbrauch Verlustvortrag, Versagung verbindliche Auskunft, Paragraf 8c KStG-Trigger, Mindestbesteuerung?
 2. **Locked Box vs. Closing Accounts.** Bei Sanierungs-Deals häufig Locked Box mit Effective Date vor Wirksamwerden der Sanierungsmaßnahme. Steuerliche Risiken aus der Sanierungsmaßnahme bleiben dann beim Verkäufer.
 3. **Tax-Definition justieren.** Definition von „Tax" und „Tax Liability" auf die Sanierungsthematik anpassen; nicht nur tatsächlich gezahlte Steuer, sondern auch Verlustvortragsverbrauch einbeziehen, soweit wirtschaftlich relevant.
-4. **Trennung Warranty vs. Indemnity.** Warranties als Beschaffenheitsangabe (etwa: „Die festgestellten Verlustvorträge bestehen"); Indemnity als unbedingter Freistellungsanspruch (etwa: „Versagung der Steuerbefreiung nach § 3a EStG").
+4. **Trennung Warranty vs. Indemnity.** Warranties als Beschaffenheitsangabe (etwa: „Die festgestellten Verlustvorträge bestehen"); Indemnity als unbedingter Freistellungsanspruch (etwa: „Versagung der Steuerbefreiung nach Paragraf 3a EStG").
 5. **Haftungsregime.** De-Minimis, Basket, Cap, Sub-Cap für Tax. Standard ist 100 %-Cap für Tax-Indemnity, deutlich höher als die General-Warranty-Cap.
 6. **Verjährung.** Verjährung der Tax-Indemnity klassisch sechs Monate nach Festsetzungsverjährung; bei Sanierungsthematik gegebenenfalls länger, weil Außenprüfungen oft erst Jahre später beginnen.
 7. **Mitwirkungspflichten.** Verkäufer muss Außenprüfungen begleiten dürfen; Käufer muss vor Anerkenntnis Steuernachforderung den Verkäufer informieren (Tax Conduct).
@@ -57,11 +57,11 @@ Nicht dieser Skill ist primär, wenn die Sanierung bereits abgeschlossen ist und
 
 | Risiko | Warranty | Indemnity | Closing Condition |
 |---|---|---|---|
-| Versagung § 3a EStG | – (zu allgemein) | empfohlen | denkbar bei verb. Auskunft |
-| Verbrauch Verlustvortrag durch § 3a Abs. 3 EStG | nur als Beschaffenheit der Vortragshöhe | für späteren Verbrauch | – |
-| § 8c KStG-Trigger durch Erwerb | – | empfohlen, aber strittig | – |
+| Versagung Paragraf 3a EStG | – (zu allgemein) | empfohlen | denkbar bei verb. Auskunft |
+| Verbrauch Verlustvortrag durch Paragraf 3a Abs. 3 EStG | nur als Beschaffenheit der Vortragshöhe | für späteren Verbrauch | – |
+| Paragraf 8c KStG-Trigger durch Erwerb | – | empfohlen, aber strittig | – |
 | Verbindliche Auskunft nicht erteilt | – | denkbar | empfohlen |
-| Mindestbesteuerung § 10d EStG | – | empfohlen, weil streitig | – |
+| Mindestbesteuerung Paragraf 10d EStG | – | empfohlen, weil streitig | – |
 
 ## Praxistipps der alten Hasen
 
@@ -77,15 +77,15 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 
 **Vendor Warranty re Tax Position Sanierungsgewinn:**
 
-> Verkäufergarantie Steuern Sanierungsgewinn: Der Verkäufer garantiert, dass nach bestem Wissen am Stichtag (i) keine Tatsachen bekannt sind, die der Anwendung von § 3a EStG auf den im Rahmen der Sanierungsmaßnahme entstehenden Ertrag entgegenstehen, (ii) der durch die Sanierungsmaßnahme entstehende Ertrag in dem in Anlage X aufgeführten Tax-Modell zutreffend prognostiziert ist und (iii) keine Außenprüfung läuft, die den festgestellten Verlustvortrag in Frage stellt.
+> Verkäufergarantie Steuern Sanierungsgewinn: Der Verkäufer garantiert, dass nach bestem Wissen am Stichtag (i) keine Tatsachen bekannt sind, die der Anwendung von Paragraf 3a EStG auf den im Rahmen der Sanierungsmaßnahme entstehenden Ertrag entgegenstehen, (ii) der durch die Sanierungsmaßnahme entstehende Ertrag in dem in Anlage X aufgeführten Tax-Modell zutreffend prognostiziert ist und (iii) keine Außenprüfung läuft, die den festgestellten Verlustvortrag in Frage stellt.
 
-**Indemnity for § 3a EStG Antragsversagen:**
+**Indemnity for Paragraf 3a EStG Antragsversagen:**
 
-> Steuerfreistellung Sanierungsertrag: Der Verkäufer stellt den Käufer frei von sämtlichen Steuern, Nebenleistungen, Zinsen nach § 233a AO und angemessenen Beratungskosten, die der Zielgesellschaft oder einer ihrer Tochtergesellschaften daraus entstehen, dass (i) die Finanzbehörde die Anwendung des § 3a EStG auf den durch die Sanierungsmaßnahme entstehenden Ertrag ganz oder teilweise versagt oder (ii) die mit Antrag vom [Datum] beantragte verbindliche Auskunft nach § 89 AO mit einem für den Käufer nachteiligen Inhalt erteilt oder versagt wird, jeweils ohne Rücksicht auf ein Verschulden des Verkäufers.
+> Steuerfreistellung Sanierungsertrag: Der Verkäufer stellt den Käufer frei von sämtlichen Steuern, Nebenleistungen, Zinsen nach Paragraf 233a AO und angemessenen Beratungskosten, die der Zielgesellschaft oder einer ihrer Tochtergesellschaften daraus entstehen, dass (i) die Finanzbehörde die Anwendung des Paragraf 3a EStG auf den durch die Sanierungsmaßnahme entstehenden Ertrag ganz oder teilweise versagt oder (ii) die mit Antrag vom [Datum] beantragte verbindliche Auskunft nach Paragraf 89 AO mit einem für den Käufer nachteiligen Inhalt erteilt oder versagt wird, jeweils ohne Rücksicht auf ein Verschulden des Verkäufers.
 
 **Closing Condition Tax:**
 
-> Closing Condition Tax: Wirksame Erteilung einer verbindlichen Auskunft der zuständigen Finanzbehörde gemäß § 89 AO mit dem Inhalt, dass der durch die Sanierungsmaßnahme entstehende Ertrag die Voraussetzungen des § 3a EStG erfüllt; Long-Stop-Date ist der [Datum].
+> Closing Condition Tax: Wirksame Erteilung einer verbindlichen Auskunft der zuständigen Finanzbehörde gemäß Paragraf 89 AO mit dem Inhalt, dass der durch die Sanierungsmaßnahme entstehende Ertrag die Voraussetzungen des Paragraf 3a EStG erfüllt; Long-Stop-Date ist der [Datum].
 
 **Tax Conduct:**
 
@@ -101,7 +101,7 @@ Auf Käuferseite gilt umgekehrt: Closing Condition ist die saubere Lösung, aber
 
 ## Quellen Stand 06/2026
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG i. V. m. § 36 Abs. 2c GewStG; § 8c KStG; § 8d KStG; § 89 AO; § 233a AO – prüfbar über gesetze-im-internet.de.
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 89 AO; Paragraf 233a AO – prüfbar über gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.

@@ -1,13 +1,13 @@
 ---
 name: gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg
-description: "Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026."
+description: "Konkurrenz und Wechselwirkung von Forderungsverzicht (Paragraf 3a EStG) und schädlichem Beteiligungserwerb (Paragraf 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und Paragraf 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026."
 ---
 
-# Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
+# Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf Paragraf 8c KStG
 
 ## Worum geht es
 
-Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination aus **Forderungsverzicht** und **Anteilseignerwechsel** im selben Restrukturierungsschritt. Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt § 8c Abs. 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen. Wenn dann der Forderungsverzicht den Sanierungsertrag erzeugt, gibt es keinen Verlustvortrag mehr, der ihn nach § 3a Abs. 3 EStG aufzehrt; der Sanierungsertrag bleibt zwar steuerfrei nach § 3a Abs. 1 EStG, aber andere mögliche Verlustnutzungen sind weg. Im umgekehrten Fall – Verzicht vor Anteilseignerwechsel – ist der Verlustvortrag bereits durch den Sanierungsertrag verbraucht; der spätere § 8c KStG-Effekt findet keinen Verlustvortrag mehr vor.
+Die wahrscheinlich häufigste Sanierungs-Falle in der Praxis ist die Kombination aus **Forderungsverzicht** und **Anteilseignerwechsel** im selben Restrukturierungsschritt. Geschieht der Anteilseignerwechsel über 50 % vor dem Wirksamwerden des Verzichts, schlägt Paragraf 8c Abs. 1 Satz 1 KStG zu: der Verlustvortrag ist im Grundsatz untergegangen. Wenn dann der Forderungsverzicht den Sanierungsertrag erzeugt, gibt es keinen Verlustvortrag mehr, der ihn nach Paragraf 3a Abs. 3 EStG aufzehrt; der Sanierungsertrag bleibt zwar steuerfrei nach Paragraf 3a Abs. 1 EStG, aber andere mögliche Verlustnutzungen sind weg. Im umgekehrten Fall – Verzicht vor Anteilseignerwechsel – ist der Verlustvortrag bereits durch den Sanierungsertrag verbraucht; der spätere Paragraf 8c KStG-Effekt findet keinen Verlustvortrag mehr vor.
 
 Dieser Skill löst das Konkurrenzverhältnis Schritt für Schritt auf.
 
@@ -22,14 +22,14 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-m
 
 ## Rechtlicher Rahmen
 
-- **§ 8c Abs. 1 Satz 1 KStG** – Anteilseignerwechsel über 50 % zerstört Verlustvortrag vollständig.
-- **§ 8c Abs. 1 Satz 1 KStG (zwischen 25 % und 50 %)** – Verlustvortrag in der Bundesverfassungsgericht-Entscheidung 2017 für verfassungswidrig erklärt; seither nicht mehr anzuwenden, gesetzlich nachvollzogen.
-- **§ 8c Abs. 1a KStG** – Sanierungsklausel; eingeschränkt anwendbar nach EU-Beihilfeverfahren.
-- **§ 8c Abs. 4 KStG** – Stille-Reserven-Klausel; Schutz in Höhe der stillen Reserven.
-- **§ 8d KStG** – fortführungsgebundener Verlustvortrag; Antrag erforderlich; Fortführungsbindung.
-- **§ 3a EStG** – Steuerbefreiung Sanierungsertrag.
-- **§ 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
-- **§ 7b GewStG** – Gewerbesteuer-Parallele.
+- **Paragraf 8c Abs. 1 Satz 1 KStG** – Anteilseignerwechsel über 50 % zerstört Verlustvortrag vollständig.
+- **Paragraf 8c Abs. 1 Satz 1 KStG (zwischen 25 % und 50 %)** – Verlustvortrag in der Bundesverfassungsgericht-Entscheidung 2017 für verfassungswidrig erklärt; seither nicht mehr anzuwenden, gesetzlich nachvollzogen.
+- **Paragraf 8c Abs. 1a KStG** – Sanierungsklausel; eingeschränkt anwendbar nach EU-Beihilfeverfahren.
+- **Paragraf 8c Abs. 4 KStG** – Stille-Reserven-Klausel; Schutz in Höhe der stillen Reserven.
+- **Paragraf 8d KStG** – fortführungsgebundener Verlustvortrag; Antrag erforderlich; Fortführungsbindung.
+- **Paragraf 3a EStG** – Steuerbefreiung Sanierungsertrag.
+- **Paragraf 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
+- **Paragraf 7b GewStG** – Gewerbesteuer-Parallele.
 - **EU-Beihilferecht** – Sanierungsklausel als unionsrechtliches Streitthema.
 
 ## Workflow / Schritt für Schritt
@@ -41,14 +41,14 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-m
 3. Wie hoch ist die Beteiligungsänderung in Prozent? Über 50 %?
 4. Wie hoch ist der voraussichtliche Anteilseignerwechsel zeitlich – vor, mit oder nach Forderungsverzicht?
 
-**Phase 2 – Sanierungsklausel § 8c Abs. 1a KStG:**
+**Phase 2 – Sanierungsklausel Paragraf 8c Abs. 1a KStG:**
 
 5. Erwerb erfolgt zum Zweck der Sanierung?
 6. Erhalt der wesentlichen Betriebsstruktur über fünf Jahre?
 7. Sanierungsbedürftigkeit zum Erwerbszeitpunkt?
 8. EU-beihilferechtliche Notifizierung erforderlich oder nicht? Vergleiche `gk-sanierungsgewinn-eu-beihilfe-und-altmark`.
 
-**Phase 3 – § 8d KStG-Antrag prüfen:**
+**Phase 3 – Paragraf 8d KStG-Antrag prüfen:**
 
 9. Gleiche Geschäftstätigkeit über die letzten drei Jahre vor schädlichem Beteiligungserwerb?
 10. Keine Aufnahme zusätzlicher Geschäftstätigkeit nach Erwerb (sehr strenger Maßstab).
@@ -57,42 +57,42 @@ Nicht dieser Skill, sondern `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-m
 
 **Phase 4 – Reihenfolge optimieren:**
 
-13. Forderungsverzicht **vor** Anteilseignerwechsel: Sanierungsertrag verbraucht Verlustvortrag nach § 3a Abs. 3 EStG; der danach eintretende § 8c KStG-Effekt findet kaum noch Verlustvortrag.
-14. § 8d KStG-Antrag als Schutznetz, falls Reihenfolge nicht optimal umsetzbar.
+13. Forderungsverzicht **vor** Anteilseignerwechsel: Sanierungsertrag verbraucht Verlustvortrag nach Paragraf 3a Abs. 3 EStG; der danach eintretende Paragraf 8c KStG-Effekt findet kaum noch Verlustvortrag.
+14. Paragraf 8d KStG-Antrag als Schutznetz, falls Reihenfolge nicht optimal umsetzbar.
 
 **Phase 5 – Verbindliche Auskunft:**
 
-15. § 89 AO-Antrag zu beiden Themen: Sanierungseignung nach § 3a EStG und Anwendbarkeit § 8d KStG.
+15. Paragraf 89 AO-Antrag zu beiden Themen: Sanierungseignung nach Paragraf 3a EStG und Anwendbarkeit Paragraf 8d KStG.
 
 **Phase 6 – SPA-Schutz:**
 
-16. Tax Indemnity zu § 8c KStG-Versagung.
-17. Tax Indemnity zu § 8d KStG-Versagung.
+16. Tax Indemnity zu Paragraf 8c KStG-Versagung.
+17. Tax Indemnity zu Paragraf 8d KStG-Versagung.
 18. Closing Condition zu verbindlicher Auskunft.
 
 ## Trade-off-Matrix
 
 | Konstellation | Verlustvortrag-Schicksal | Sanierungsertrag-Behandlung | Empfehlung |
 |---|---|---|---|
-| Anteilseignerwechsel > 50 %, kein § 8d-Antrag, kein § 8c (1a) | Weg | nach § 3a EStG steuerfrei | Vermeiden; Steuern auf Sanierungsertrag möglich |
-| Verzicht vor Anteilseignerwechsel | durch § 3a Abs. 3 EStG verbraucht | steuerfrei | Standard |
-| § 8d KStG-Antrag erfolgreich | Erhalten (fortführungsgebunden) | steuerfrei | Stärkster Schutz |
-| § 8c Abs. 4 KStG (stille Reserven) | Anteilig erhalten | steuerfrei | Nur Sicherungsnetz |
-| § 8c Abs. 1a KStG (Sanierungsklausel) | Erhalten | steuerfrei | Voraussetzungen prüfen |
+| Anteilseignerwechsel > 50 %, kein Paragraf 8d-Antrag, kein Paragraf 8c (1a) | Weg | nach Paragraf 3a EStG steuerfrei | Vermeiden; Steuern auf Sanierungsertrag möglich |
+| Verzicht vor Anteilseignerwechsel | durch Paragraf 3a Abs. 3 EStG verbraucht | steuerfrei | Standard |
+| Paragraf 8d KStG-Antrag erfolgreich | Erhalten (fortführungsgebunden) | steuerfrei | Stärkster Schutz |
+| Paragraf 8c Abs. 4 KStG (stille Reserven) | Anteilig erhalten | steuerfrei | Nur Sicherungsnetz |
+| Paragraf 8c Abs. 1a KStG (Sanierungsklausel) | Erhalten | steuerfrei | Voraussetzungen prüfen |
 
 ## Praxistipps der alten Hasen
 
 Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
-- **„§ 8c KStG ist der häufigste Steuerschaden in der Sanierung."** Banken und PE-Investoren übersehen den Effekt häufig, weil sie das Closing als Wertstichtag begreifen und nicht die Verlustvortrags-Mechanik. Das Mandant-Aktennotat sollte daher in der ersten Zeile auf § 8c KStG hinweisen.
-- **„§ 8d KStG ist mehr Versprechen als Schutz."** Die Fortführungsbindung ist streng; Aufnahme neuer Geschäftstätigkeit, weiterer Beteiligungen oder Verkauf von Geschäftsbereichen heilt nicht. Wer § 8d KStG nutzt, bindet sich für fünf Jahre. Der Mandant muss das verstehen.
-- **„Sanierungsklausel § 8c Abs. 1a KStG hat EU-rechtliche Vorgeschichte."** Die Sanierungsklausel war Gegenstand des Beihilfeverfahrens der EU-Kommission und in mehreren Verfahren vor dem EuGH. Die genaue Anwendbarkeit ist mandatsspezifisch zu prüfen; Verifizierung über CURIA und EUR-Lex.
+- **„Paragraf 8c KStG ist der häufigste Steuerschaden in der Sanierung."** Banken und PE-Investoren übersehen den Effekt häufig, weil sie das Closing als Wertstichtag begreifen und nicht die Verlustvortrags-Mechanik. Das Mandant-Aktennotat sollte daher in der ersten Zeile auf Paragraf 8c KStG hinweisen.
+- **„Paragraf 8d KStG ist mehr Versprechen als Schutz."** Die Fortführungsbindung ist streng; Aufnahme neuer Geschäftstätigkeit, weiterer Beteiligungen oder Verkauf von Geschäftsbereichen heilt nicht. Wer Paragraf 8d KStG nutzt, bindet sich für fünf Jahre. Der Mandant muss das verstehen.
+- **„Sanierungsklausel Paragraf 8c Abs. 1a KStG hat EU-rechtliche Vorgeschichte."** Die Sanierungsklausel war Gegenstand des Beihilfeverfahrens der EU-Kommission und in mehreren Verfahren vor dem EuGH. Die genaue Anwendbarkeit ist mandatsspezifisch zu prüfen; Verifizierung über CURIA und EUR-Lex.
 
 ## SPA-/Plan-Klausel Mustertexte
 
-**Tax Indemnity § 8c KStG / § 8d KStG:**
+**Tax Indemnity Paragraf 8c KStG / Paragraf 8d KStG:**
 
-> Tax Indemnity Verlustvortrag: Der Verkäufer stellt den Käufer und die Zielgesellschaft frei von steuerlichen Mehrbelastungen und entgangenen Verlustnutzungen, die daraus entstehen, dass (i) der körperschaftsteuerliche oder gewerbesteuerliche Verlustvortrag der Zielgesellschaft durch den nach diesem Vertrag erfolgenden Anteilseignerwechsel ganz oder teilweise nach § 8c KStG bzw. § 10a GewStG untergeht und (ii) die Finanzbehörde die Anwendung des § 8d KStG bzw. die Sanierungsklausel des § 8c Abs. 1a KStG ganz oder teilweise versagt.
+> Tax Indemnity Verlustvortrag: Der Verkäufer stellt den Käufer und die Zielgesellschaft frei von steuerlichen Mehrbelastungen und entgangenen Verlustnutzungen, die daraus entstehen, dass (i) der körperschaftsteuerliche oder gewerbesteuerliche Verlustvortrag der Zielgesellschaft durch den nach diesem Vertrag erfolgenden Anteilseignerwechsel ganz oder teilweise nach Paragraf 8c KStG bzw. Paragraf 10a GewStG untergeht und (ii) die Finanzbehörde die Anwendung des Paragraf 8d KStG bzw. die Sanierungsklausel des Paragraf 8c Abs. 1a KStG ganz oder teilweise versagt.
 
 **Operative Reihenfolge-Klausel:**
 
@@ -100,15 +100,15 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
 ## Typische Fehler in komplexer Transaktion
 
-- Anteilseignerwechsel erfolgt zeitgleich mit Forderungsverzicht; Reihenfolge ist unklar; § 8c KStG schlägt ggf. zuerst zu.
-- § 8d KStG-Antrag wird übersehen oder verspätet gestellt.
-- Sanierungsklausel § 8c Abs. 1a KStG wird aufgerufen, ohne die unionsrechtliche Notifizierung zu prüfen.
+- Anteilseignerwechsel erfolgt zeitgleich mit Forderungsverzicht; Reihenfolge ist unklar; Paragraf 8c KStG schlägt ggf. zuerst zu.
+- Paragraf 8d KStG-Antrag wird übersehen oder verspätet gestellt.
+- Sanierungsklausel Paragraf 8c Abs. 1a KStG wird aufgerufen, ohne die unionsrechtliche Notifizierung zu prüfen.
 - Mittelbare Anteilseignerwechsel auf Konzernebene (z. B. Wechsel am obersten Gesellschafter) werden übersehen.
 - Stimmrechte und nahestehende Personen werden in der 50 %-Berechnung nicht zusammengerechnet.
 
 ## Querverweise
 
-- Plugin `steuerrecht-anwalt-und-berater`: § 8c KStG, § 8d KStG im Detail.
+- Plugin `steuerrecht-anwalt-und-berater`: Paragraf 8c KStG, Paragraf 8d KStG im Detail.
 - Plugin `insolvenzrecht`: Anteilseignerwechsel im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
   - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
@@ -120,19 +120,19 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
 ### Normen
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8c Abs. 1a KStG; § 8c Abs. 4 KStG; § 8d KStG; § 10a GewStG; § 5 Abs. 2a EStG; § 11 KStG – gesetze-im-internet.de.
-- § 2 Abs. 4 UmwStG (Rueckwirkungszeitraum); § 12 Abs. 3 i.V.m. § 4 Abs. 2 Satz 2 UmwStG (Verlustvortrag).
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8c Abs. 1a KStG; Paragraf 8c Abs. 4 KStG; Paragraf 8d KStG; Paragraf 10a GewStG; Paragraf 5 Abs. 2a EStG; Paragraf 11 KStG – gesetze-im-internet.de.
+- Paragraf 2 Abs. 4 UmwStG (Rueckwirkungszeitraum); Paragraf 12 Abs. 3 i.V.m. Paragraf 4 Abs. 2 Satz 2 UmwStG (Verlustvortrag).
 
 ### Rechtsprechung (verifiziert)
 
-- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraf 5 Abs. 2a EStG bei Rangruecktritt.
 - **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
-- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (Streitjahr 2008; fuer Umwandlungen ab 06.06.2013 § 2 Abs. 4 Satz 3 ff. UmwStG).
-- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 K,G,F** — Gestaltungsmissbrauch § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; frei pruefbar ueber Justiz NRW/dejure, Revision BFH I R 11/22 nur nach aktuellem Live-Check als anhaengig oder erledigt ausgeben.
+- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein Paragraf 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (Streitjahr 2008; fuer Umwandlungen ab 06.06.2013 Paragraf 2 Abs. 4 Satz 3 ff. UmwStG).
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 K,G,F** — Gestaltungsmissbrauch Paragraf 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; frei pruefbar ueber Justiz NRW/dejure, Revision BFH I R 11/22 nur nach aktuellem Live-Check als anhaengig oder erledigt ausgeben.
 - **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend BFH I R 34/12) — Liquidationsausstieg bei stehen gelassenen Verbindlichkeiten.
 - **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
-- **BVerfG, Beschl. v. 29.03.2017 – 2 BvL 6/11** (Verfassungswidrigkeit § 8c Satz 1 KStG a. F.).
-- **FG Koeln, Urt. v. 04.11.2025 – 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG.
+- **BVerfG, Beschl. v. 29.03.2017 – 2 BvL 6/11** (Verfassungswidrigkeit Paragraf 8c Satz 1 KStG a. F.).
+- **FG Koeln, Urt. v. 04.11.2025 – 12 K 1413/25** — Antragsfristen Paragraf 3a Abs. 4 EStG.
 
 ### Verwaltungsauffassung
 

@@ -870,7 +870,7 @@
     {
       "name": "gesellschaftsgruender",
       "source": "./gesellschaftsgruender",
-      "description": "Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden, Steuerstart, IP, Datenschutz, erste 100 Tage und Streitprävention.",
+      "description": "Gruendungsassistent fuer deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Vertraege, Budget und Streitpraevention.",
       "version": "398.0.0",
       "author": {
         "name": "Klotzkette",
@@ -880,7 +880,7 @@
     {
       "name": "gesellschaftsrecht",
       "source": "./gesellschaftsrecht",
-      "description": "Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.",
+      "description": "Gesellschaftsrecht fuer GmbH, AG und Personengesellschaften: Beschluesse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen.",
       "version": "398.0.0",
       "author": {
         "name": "Klotzkette",
@@ -930,7 +930,7 @@
     {
       "name": "grosskanzlei-corporate-ma",
       "source": "./grosskanzlei-corporate-ma",
-      "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 125 Spezial-Skills.",
+      "description": "Corporate/M&A-Plugin fuer Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows.",
       "version": "398.0.0",
       "author": {
         "name": "Klotzkette",
@@ -1631,7 +1631,7 @@
       "name": "relationstechnik-zivilrecht",
       "source": "./gerichtsplugins/relationstechnik-zivilrecht",
       "version": "398.0.0",
-      "description": "Relationstechnik Zivilrecht: vollständige große Relation Klägerstation Beklagtenstation Beweisstation Urteilsstation 20 Skills schrittweise mit Megaprompt und Miniprompt für Richter Referendare und Anwaelte",
+      "description": "Relationstechnik Zivilrecht: Klaegerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schluessigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum.",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1891,7 +1891,7 @@
       "name": "staatsanwaltschaft-amtsanwaltschaft",
       "source": "./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft",
       "version": "398.0.0",
-      "description": "Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsfuehrung Ermittlungsanweisung Durchsuchung Haftbefehl Einstellung Strafbefehl Anklageschrift beschleunigtes Verfahren Einziehung Plaedoyer Rechtsmittel Vollstreckung mit Antragsvorschlag",
+      "description": "Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsfuehrung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plaedoyer, Rechtsmittel und Vollstreckung.",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1900,7 +1900,7 @@
     {
       "name": "staatsanwaltschaft-praxis-einstieg",
       "source": "./gerichtsplugins/staatsanwaltschaft-praxis-einstieg",
-      "description": "Praxisplugin für neue Staatsanwälte und Sitzungsdienst: Ermittlungen, RiStBV, Anklage, Strafbefehl, Hauptverhandlung, Rechtsmittel und OWiG-Bußgeldverfahren.",
+      "description": "Praxisplugin fuer neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.",
       "version": "398.0.0",
       "author": {
         "name": "Klotzkette",

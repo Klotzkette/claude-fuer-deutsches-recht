@@ -7,14 +7,14 @@ description: "Transaktionsstruktur für M&A entwickeln und Varianten bewerten: A
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Transaktionsstrukturierung
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -103,7 +103,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -120,36 +120,36 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante für Carve-outs
-- §§ 2-38 UmwG — Verschmelzung; §§ 123-137 UmwG — Spaltung; §§ 190-213 UmwG — Formwechsel
-- § 15 Abs. 3 GmbHG — notarielle Beurkundung des Share Deal (GmbH-Anteile)
-- §§ 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift für bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss § 311b BGB)
-- § 613a BGB — Betriebsuebergang bei Asset Deal; Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes
-- §§ 1-11 UmwStG — steuerliche Behandlung von Umwandlungen; §§ 20-24 UmwStG — Einbringung und Anteilstausch
-- § 8c KStG — Verlustuntergang bei schaedlichem Anteilserwerb (mehr als 50 % innerhalb von fuenf Jahren)
-- §§ 17, 23 EStG — private Veraeusserungsgewinne bei Anteils- und Betriebsveraeu0erung
+- Paragraf 311-312 UmwG — Ausgliederung zur Neugründung; erleichterte Variante für Carve-outs
+- Paragraf 2-38 UmwG — Verschmelzung; Paragraf 123-137 UmwG — Spaltung; Paragraf 190-213 UmwG — Formwechsel
+- Paragraf 15 Abs. 3 GmbHG — notarielle Beurkundung des Share Deal (GmbH-Anteile)
+- Paragraf 433 ff. BGB — kaufrechtliche Grundlage des Asset Deal; keine Formvorschrift für bewegliche Sachen (aber notarielle Beurkundung bei Grundstueckseinschluss Paragraf 311b BGB)
+- Paragraf 613a BGB — Betriebsuebergang bei Asset Deal; Uebergang aller Arbeitsverhaeltnisse kraft Gesetzes
+- Paragraf 1-11 UmwStG — steuerliche Behandlung von Umwandlungen; Paragraf 20-24 UmwStG — Einbringung und Anteilstausch
+- Paragraf 8c KStG — Verlustuntergang bei schaedlichem Anteilserwerb (mehr als 50 % innerhalb von fuenf Jahren)
+- Paragraf 17, 23 EStG — private Veraeusserungsgewinne bei Anteils- und Betriebsveraeu0erung
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielobjekt klaren:** Wirtschaftsguetern, Anteile, Teilbetrieb, Holding-Beteiligung — massgeblich für Strukturentscheidung
 2. **Strukturmatrix erstellen:** Share Deal vs. Asset Deal vs. Umwandlung — je: Steuer, Haftung, Form, Genehmigungen, Timing, Kosten
-3. **Carve-out prüfen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (§§ 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
+3. **Carve-out prüfen:** Ist Zielgesellschaft bereits separat? Muss Ausgliederung (Paragraf 311 UmwG) oder internes Reorganisationsschritt vorgelagert werden?
 4. **Change-of-Control-Klauseln kartieren:** SPA-Garantien, Material Adverse Change-Klausel, Lender-Consent, Lizenzvertraege — bei Asset Deal: Einzeluebertragungszustimmungen
-5. **§ 613a BGB-Analyse:** Asset Deal immer: Arbeitnehmeruebergang, Informationspflicht, Widerspruchsfrist (1 Monat)
-6. **Steuerstruktur mit Steuerteam abstimmen:** Verlustvortraege (§ 8c KStG), Einbringung (§§ 20-24 UmwStG), Grunderwerbsteuer-Ergaenzungstatbestand (§ 1 Abs. 2a, 2b GrEStG)
-7. **Regulatorische Freigaben:** Fusionskontrolle (GWB, FKVO), FDI-Screening (§ 55 ff. AWV), Sektorgenehmigungen; Zeitplan einbauen
+5. **Paragraf 613a BGB-Analyse:** Asset Deal immer: Arbeitnehmeruebergang, Informationspflicht, Widerspruchsfrist (1 Monat)
+6. **Steuerstruktur mit Steuerteam abstimmen:** Verlustvortraege (Paragraf 8c KStG), Einbringung (Paragraf 20-24 UmwStG), Grunderwerbsteuer-Ergaenzungstatbestand (Paragraf 1 Abs. 2a, 2b GrEStG)
+7. **Regulatorische Freigaben:** Fusionskontrolle (GWB, FKVO), FDI-Screening (Paragraf 55 ff. AWV), Sektorgenehmigungen; Zeitplan einbauen
 8. **Strukturskizze erstellen:** grafische Darstellung Vor-Signing, Post-Signing, Post-Closing-Schritte mit Zeitschiene
 
 ## Entscheidungsbaum
 
-- Zielgesellschaft ist GmbH → Share Deal → § 15 Abs. 3 GmbHG Notarpflicht → ohne Notar: nichtig
-- Asset Deal → § 613a BGB → Betriebsuebergang Arbeitnehmer? → Informationspflicht zwingend
-- Verlustvortraege vorhanden → § 8c KStG-Risiko bei mehr als 50 % Erwerb prüfen → Gestaltung durch mehrere Tranchen oder Earn-out?
-- Carve-out erforderlich → Ausgliederung §§ 311 UmwG → notarielle Beurkundung und HR-Anmeldung → Mindest-Vorlaufzeit: 3-6 Monate
+- Zielgesellschaft ist GmbH → Share Deal → Paragraf 15 Abs. 3 GmbHG Notarpflicht → ohne Notar: nichtig
+- Asset Deal → Paragraf 613a BGB → Betriebsuebergang Arbeitnehmer? → Informationspflicht zwingend
+- Verlustvortraege vorhanden → Paragraf 8c KStG-Risiko bei mehr als 50 % Erwerb prüfen → Gestaltung durch mehrere Tranchen oder Earn-out?
+- Carve-out erforderlich → Ausgliederung Paragraf 311 UmwG → notarielle Beurkundung und HR-Anmeldung → Mindest-Vorlaufzeit: 3-6 Monate
 
 ## Output-Template: Strukturmatrix
 
@@ -161,9 +161,9 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 | Kriterium | Share Deal | Asset Deal | Verschmelzung/Ausgliederung |
 |-----------|-----------|------------|---------------------------|
-| Form | Notariell (§ 15 GmbHG) | Schriftlich / Notariell (§ 311b BGB) | Notariell (UmwG) |
+| Form | Notariell (Paragraf 15 GmbHG) | Schriftlich / Notariell (Paragraf 311b BGB) | Notariell (UmwG) |
 | Haftung | Anteilskaeufer haftet nicht | Einzelhaftung pro Asset | Gesamtrechtsnachfolge |
-| § 613a BGB | Nein (kein Betriebsuebergang) | Ja (Betriebsuebergang) | Abhaengig vom Umwandlungstyp |
+| Paragraf 613a BGB | Nein (kein Betriebsuebergang) | Ja (Betriebsuebergang) | Abhaengig vom Umwandlungstyp |
 | Steuer | Beteiligungsertraege steuerbefreit | Aufdeckung stiller Reserven | UmwStG-Gestaltung moeglich |
 | Timing | 6-12 Wochen | 4-8 Wochen | 3-6 Monate |
 | Genehmigungen | Ggf. Fusionskontrolle, FDI | Zustimmungen je Asset | HR-Anmeldung, ggf. FKE |
@@ -200,16 +200,16 @@ Offene Punkte: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 
 ### Kuratierte Normen-Bibliothek
 
-- §§ 705 ff. BGB (GbR)
-- §§ 105 ff. HGB (OHG)
-- §§ 161 ff. HGB (KG)
-- §§ 13, 15 GmbHG (Anteilsübertragung)
-- § 53 GmbHG (Satzungsänderung)
-- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
-- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
-- §§ 25, 28 HGB (Firmenfortführung, Haftung)
-- §§ 2-4 UmwG (Verschmelzung)
-- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
+- Paragraf 705 ff. BGB (GbR)
+- Paragraf 105 ff. HGB (OHG)
+- Paragraf 161 ff. HGB (KG)
+- Paragraf 13, 15 GmbHG (Anteilsübertragung)
+- Paragraf 53 GmbHG (Satzungsänderung)
+- Paragraf 33 GWB, FKVO 139/2004 (Fusionskontrolle)
+- Paragraf 311 BGB i.V.m. Paragraf 433, 453 BGB (Unternehmenskauf, share/asset deal)
+- Paragraf 25, 28 HGB (Firmenfortführung, Haftung)
+- Paragraf 2-4 UmwG (Verschmelzung)
+- Paragraf 1 InvKG, AWG/AWV Paragraf 55-62 (Investitionsprüfung)
 
 ### Leitentscheidungen
 
@@ -223,4 +223,4 @@ Offene Punkte: [konkreter Punkt] — Verantwortlich: [Name] — Frist: [Datum]
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle Paragraf 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst Paragraf 41 GWB-Vollzugsverbot.
