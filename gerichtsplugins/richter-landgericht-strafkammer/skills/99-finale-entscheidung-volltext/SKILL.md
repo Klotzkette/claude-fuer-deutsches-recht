@@ -63,6 +63,17 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Die Beweisaufnahme ist nach Paragraf 244 StPO vollständig geführt oder prozessordnungsgemäß begrenzt.
+2. Die Überzeugungsbildung stützt sich nur auf den Inbegriff der Hauptverhandlung nach Paragraf 261 StPO.
+3. Hinweise nach Paragraf 265 StPO sind erteilt, dokumentiert und mit Verteidigungsmöglichkeit verbunden.
+4. Verständigung, Gespräche und Zusagen sind nach Paragraf 257c StPO transparent und protokolliert; BVerfG, 19.03.2013 - 2 BvR 2628/10 bleibt Prüfanker.
+5. Feststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung und Nebenentscheidungen tragen einander.
+6. Kein bestimmender Strafzumessungsgrund, keine Einziehungsfrage und kein Rechtsmittelhinweis bleibt offen.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

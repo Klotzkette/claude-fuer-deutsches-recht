@@ -1,6 +1,6 @@
 ---
 name: bilinguale-dokumente
-description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Prüfraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englis..."
+description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: Paragraf 2 3 GmbHG, HGB. Prüfraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englis..."
 ---
 
 # Bilinguale Dokumente
@@ -9,14 +9,14 @@ description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstelle
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bilinguale Dokumente` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,7 +32,7 @@ Unterstützt bei der Erstellung, Qualitätssicherung und Konsistenzprüfung bili
 1. **Welche Dokumente?** Satzung, SHA, GF-Anstellungsvertrag, Beiratsordnung, Term Sheet, CLA oder andere?
 2. **Welche Sprachen?** Standard: Deutsch/Englisch. Andere Sprachen möglich (Französisch, Mandarin)?
 3. **Ausländische Beteiligte?** Wer sind die ausländischen Gesellschafter/Investoren und ihre Muttersprache?
-4. **Notarielle Beurkundung erforderlich?** Satzungsänderung, Anteilsabtretung, Kapitalerhöhung: Deutsch zwingend (§ 5 BeurkG).
+4. **Notarielle Beurkundung erforderlich?** Satzungsänderung, Anteilsabtretung, Kapitalerhöhung: Deutsch zwingend (Paragraf 5 BeurkG).
 5. **Bestehende Dokumente?** Liegt die deutsche Masterfassung bereits vor oder wird sie parallel erstellt?
 6. **Standard-Glossar vorhanden?** Gibt es ein Kanzlei-Glossar für Standardbegriffe (Class A, Liquidation Preference, Vesting)?
 7. **Schiedssprache?** Bei DIS-Schiedsklausel: Schiedsverfahrenssprache festlegen (Deutsch oder Englisch).
@@ -43,24 +43,24 @@ Unterstützt bei der Erstellung, Qualitätssicherung und Konsistenzprüfung bili
 
 ### Normtexte
 
-**§ 184 GVG — Amtssprache**
+**Paragraf 184 GVG — Amtssprache**
 > "Die Gerichtssprache ist deutsch."
 
-Alle gerichtlichen Verfahren in Deutschland werden in deutscher Sprache geführt. Eingaben in anderen Sprachen sind zu übersetzen. Für die Vollstreckung aus einem englischsprachigen Schiedsspruch in Deutschland ist eine beglaubigte Übersetzung erforderlich (§ 1064 Abs. 3 ZPO).
+Alle gerichtlichen Verfahren in Deutschland werden in deutscher Sprache geführt. Eingaben in anderen Sprachen sind zu übersetzen. Für die Vollstreckung aus einem englischsprachigen Schiedsspruch in Deutschland ist eine beglaubigte Übersetzung erforderlich (Paragraf 1064 Abs. 3 ZPO).
 
-**§ 5 BeurkG — Sprache der Beurkundung**
+**Paragraf 5 BeurkG — Sprache der Beurkundung**
 > "Die Verhandlung soll in deutscher Sprache geführt werden. Beteiligte, die der deutschen Sprache nicht mächtig sind, müssen einen Dolmetscher hinzuziehen."
 
 Bei Beurkundungsverfahren mit ausländischen Beteiligten: Beurkundung auf Deutsch; Dolmetscher bestellen; Beteiligte erhalten Übersetzung der Urkunde. Die englische Fassung des Satzungstextes ist keine Beurkundungsgrundlage.
 
-**§ 1064 Abs. 3 ZPO — Vollstreckung von Schiedssprüchen**
+**Paragraf 1064 Abs. 3 ZPO — Vollstreckung von Schiedssprüchen**
 > Bei der Vollstreckung eines ausländischen Schiedsspruchs ist eine beglaubigte Übersetzung des Schiedsspruchs in die deutsche Sprache beizufügen.
 
-**§§ 133, 157 BGB — Auslegungsgrundsätze**
-> § 133 BGB: Bei der Auslegung einer Willenserklärung ist der wirkliche Wille zu erforschen und nicht an dem buchstäblichen Sinne des Ausdrucks zu haften.
-> § 157 BGB: Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.
+**Paragraf 133, 157 BGB — Auslegungsgrundsätze**
+> Paragraf 133 BGB: Bei der Auslegung einer Willenserklärung ist der wirkliche Wille zu erforschen und nicht an dem buchstäblichen Sinne des Ausdrucks zu haften.
+> Paragraf 157 BGB: Verträge sind so auszulegen, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.
 
-Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 133, 157 BGB ausgelegt — mit erheblicher Unsicherheit. Daher: Vorrang-Klausel zwingend.
+Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach Paragraf 133, 157 BGB ausgelegt — mit erheblicher Unsicherheit. Daher: Vorrang-Klausel zwingend.
 
 ### Leitentscheidungen
 
@@ -70,7 +70,7 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 
 ## Prüfschema: Bilinguale Dokumente
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
@@ -78,21 +78,21 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 | 2 | Deutsche Masterfassung vollständig? | Deutsche Fassung ist vollständig und rechtsanwaltlich geprüft bevor Übersetzung beginnt | Übersetzung von unvollständiger Fassung = Doppelaufwand |
 | 3 | Juristischer Übersetzer? | Übersetzung durch Translator mit deutschem Recht-Background — nicht maschinelle Übersetzung allein | Maschinelle Übersetzung bei Rechtsbegriffen systematisch unzuverlässig |
 | 4 | Glossar-Konsistenz | Sind Fachbegriffe über alle Dokumente einheitlich übersetzt? | Satzung und SHA müssen exakt gleiche Begriffe verwenden (z.B. "Class B" nicht in einem Dokument "Series B") |
-| 5 | Notarielle Anforderungen geprüft? | Dolmetscher bei Beurkundung mit Ausländern (§ 5 BeurkG)? | Fehlender Dolmetscher → Unwirksamkeit der Beurkundung |
+| 5 | Notarielle Anforderungen geprüft? | Dolmetscher bei Beurkundung mit Ausländern (Paragraf 5 BeurkG)? | Fehlender Dolmetscher → Unwirksamkeit der Beurkundung |
 | 6 | Fachbegriffe dual bezeichnet? | Englische Fachbegriffe die im Deutschen keine exakten Äquivalente haben (Liquidation Preference, Drag-Along) als Doppelbezeichnung? | Z.B. "Liquidation Preference (Liquidationsvorrang)" |
 | 7 | Rechtsbegriffe korrekt übertragen? | GmbH ≠ "Limited Liability Company"; GF ≠ "CEO"; HV ≠ "Stockholders Meeting" | Falsche Übersetzung kann Rechtsfolgen verändern |
 | 8 | Cross-Reading durchgeführt? | Anwalt liest beide Fassungen parallel und prüft Konsistenz? | Schritt-für-Schritt-Abgleich, Abschnitt für Abschnitt |
 | 9 | Schiedsklausel-Sprache festgelegt? | DIS-Klausel: Schiedsverfahrenssprache explizit genannt? | Fehlen der Schiedssprache → Streit über Verfahrenssprache |
 | 10 | Behördliche Einreichung auf Deutsch? | Handelsregister, Finanzamt, Transparenzregister: Einreichung ausschließlich auf Deutsch | Englische Fassung wird nicht angenommen |
-| 11 | Vollstreckungsübersetzung geplant? | Bei englischsprachigem Schiedsspruch: beglaubigte DE-Übersetzung für Vollstreckung vorbereitet? | § 1064 Abs. 3 ZPO: Pflicht bei Vollstreckungsantrag in Deutschland |
+| 11 | Vollstreckungsübersetzung geplant? | Bei englischsprachigem Schiedsspruch: beglaubigte DE-Übersetzung für Vollstreckung vorbereitet? | Paragraf 1064 Abs. 3 ZPO: Pflicht bei Vollstreckungsantrag in Deutschland |
 | 12 | Standard-Glossar gepflegt? | Mandatsbezogenes Glossar mit allen Fachbegriffen und ihren EN-Äquivalenten angelegt? | Konsistenz über alle Dokumente; bei Anpassungen einfaches Update |
 
 ## Beweislast
 
 | Frage | Beweislast | Erläuterung |
 |---|---|---|
-| Welche Sprachfassung gilt bei Widerspruch? | Vertragspartei, die sich auf eine bestimmte Fassung beruft | Ohne Vorrang-Klausel: Auslegung nach §§ 133, 157 BGB; mit Vorrang-Klausel: deutsche Fassung gilt |
-| Ordnungsgemäße Dolmetscher-Bestellung bei Beurkundung | Notar (Protokollpflicht nach § 36 BeurkG) | Nachweis durch Beurkundungsprotokoll |
+| Welche Sprachfassung gilt bei Widerspruch? | Vertragspartei, die sich auf eine bestimmte Fassung beruft | Ohne Vorrang-Klausel: Auslegung nach Paragraf 133, 157 BGB; mit Vorrang-Klausel: deutsche Fassung gilt |
+| Ordnungsgemäße Dolmetscher-Bestellung bei Beurkundung | Notar (Protokollpflicht nach Paragraf 36 BeurkG) | Nachweis durch Beurkundungsprotokoll |
 | Übersetzungsfehler liegt vor | Derjenige, der sich auf den Übersetzungsfehler beruft | Vergleich beider Sprachfassungen; ggf. Sachverständigengutachten |
 | Anwaltshaftung wegen Auslegungsrisiko | Mandant (Nachweis des Schadens) | Beratungsfehler: kein Hinweis auf fehlende Vorrang-Klausel; Kausalität für Schaden |
 
@@ -102,8 +102,8 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 |---|---|---|---|
 | Beurkundung nach Entwurfsfertigstellung | Keine gesetzliche Frist; Notartermin-Vorlauf | Praxis: 2–4 Wochen Vorlauf für Notartermin; bei Ausländern länger (Dolmetscher, Übersetzung) | Terminversäumnis verzögert Closing |
 | Übersetzung (juristisch) | Keine gesetzliche Frist | Fachübersetzung 20–50 Seiten: 3–10 Werktage bei qualifiziertem Translator | Engpass bei Zeitdruck |
-| Anwaltshaftung für Beratungsfehler | §§ 195, 199 BGB | 3 Jahre ab Kenntnis des Mandanten vom Schaden | Verjährung des Haftungsanspruchs wegen fehlendem Vorrang-Klausel-Hinweis |
-| Schiedsspruch-Vollstreckung | § 1064 ZPO i.V.m. § 1061 ZPO (New York Convention) | Antrag auf Vollstreckbarerklärung; beglaubigte Übersetzung beizufügen | Ohne Übersetzung: Antrag unzulässig |
+| Anwaltshaftung für Beratungsfehler | Paragraf 195, 199 BGB | 3 Jahre ab Kenntnis des Mandanten vom Schaden | Verjährung des Haftungsanspruchs wegen fehlendem Vorrang-Klausel-Hinweis |
+| Schiedsspruch-Vollstreckung | Paragraf 1064 ZPO i.V.m. Paragraf 1061 ZPO (New York Convention) | Antrag auf Vollstreckbarerklärung; beglaubigte Übersetzung beizufügen | Ohne Übersetzung: Antrag unzulässig |
 
 ## Typische Übersetzungsfallen
 
@@ -116,7 +116,7 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 | Gesellschafterversammlung | Shareholders' Meeting oder General Meeting | "Stockholders Meeting" — US-Terminologie |
 | Stammkapital | Share capital | "Stock capital" — ungebräuchlich im englischen GmbH-Kontext |
 | Satzung | Articles of Association | "Articles of Incorporation" — US-Terminologie; "Statute" mehrdeutig |
-| Einziehung von Anteilen | Redemption of shares | "Cancellation" — Nuance: Einziehung nach § 34 GmbHG ist Sonderfall |
+| Einziehung von Anteilen | Redemption of shares | "Cancellation" — Nuance: Einziehung nach Paragraf 34 GmbHG ist Sonderfall |
 | Gesellschaftervereinbarung | Shareholders' Agreement (SHA) | "Partnership Agreement" — falsch; GmbH ist keine Partnership |
 | Handelsregistereintragung | Commercial Register registration | "Corporate filing" — zu unspezifisch |
 | Jahresabschluss | Annual financial statements | "Annual report" — zu weit; Annual report umfasst mehr als Jahresabschluss |
@@ -155,24 +155,24 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Baustein 1: Sprachvorrang-Klausel (vollständig, für alle Dokumenttypen)
 
 ```
-§ [X] Sprache / Language
+Paragraf [X] Sprache / Language
 
 (1) Diese [Vereinbarung / Satzung / der vorliegende Vertrag] ist in deutscher und
 englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln zwischen
 den beiden Sprachfassungen geht der deutsche Text vor. Soweit eine notarielle
-Beurkundung nach § 2 GmbHG oder § 15 GmbHG erforderlich ist, ist allein die deutsche
+Beurkundung nach Paragraf 2 GmbHG oder Paragraf 15 GmbHG erforderlich ist, ist allein die deutsche
 Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als
 "Convenience Translation".
 
 (2) This [Agreement / Articles of Association / Agreement] is executed in German and
 English language. In case of any discrepancies or doubts of interpretation between
 the two language versions, the German version shall prevail. Where notarial recording
-pursuant to § 2 GmbHG or § 15 GmbHG is required, only the German version shall
+pursuant to Paragraf 2 GmbHG or Paragraf 15 GmbHG is required, only the German version shall
 constitute the basis of the notarial deed; the English version serves as a
 convenience translation only.
 
-Grundlage: § 184 GVG (Amtssprache Deutsch); § 5 BeurkG (Beurkundungssprache);
-§ 1064 Abs. 3 ZPO (Vollstreckung).
+Grundlage: Paragraf 184 GVG (Amtssprache Deutsch); Paragraf 5 BeurkG (Beurkundungssprache);
+Paragraf 1064 Abs. 3 ZPO (Vollstreckung).
 ```
 
 ### Baustein 2: Term Sheet bilingual (strukturiertes Muster)
@@ -234,7 +234,7 @@ In case of inconsistencies: German version prevails.
 ### Baustein 3: Draaft-Along-Klausel bilingual (vollständiges Muster)
 
 ```
-§ [Y] Mitziehverpflichtung (Drag-Along) / Drag-Along Obligation
+Paragraf [Y] Mitziehverpflichtung (Drag-Along) / Drag-Along Obligation
 
 DEUTSCH:
 (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Stimmrechte an der
@@ -332,11 +332,11 @@ Anwalt liest beide Fassungen parallel; Abgleich Abschnitt für Abschnitt. Bei In
 
 ### Schritt 4: Vorrang-Klausel einfügen
 
-Standardklausel (Baustein 1) in alle Dokumente einfügen. Platzierung: § 1 oder letzter Abschnitt vor Unterschriften.
+Standardklausel (Baustein 1) in alle Dokumente einfügen. Platzierung: Paragraf 1 oder letzter Abschnitt vor Unterschriften.
 
 ### Schritt 5: Notarielle Beurkundung (soweit erforderlich)
 
-Beurkundung auf Deutsch (§ 5 BeurkG). Bei ausländischen Beteiligten: Dolmetscher beauftragen. Beide Fassungen werden unterzeichnet; deutsche bleibt verbindlich.
+Beurkundung auf Deutsch (Paragraf 5 BeurkG). Bei ausländischen Beteiligten: Dolmetscher beauftragen. Beide Fassungen werden unterzeichnet; deutsche bleibt verbindlich.
 
 ### Schritt 6: Glossar-Pflege
 
@@ -350,7 +350,7 @@ Handelsregister, Finanzamt, Gewerbeamt, Transparenzregister: **ausschließlich a
 
 ### Schiedsverfahren (DIS)
 
-Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Standard: Deutsch. Bei Englisch als Schiedssprache: Vollstreckungsübersetzung für Deutschland vorbereiten (§ 1064 Abs. 3 ZPO). DIS-Notschiedsverfahren bei Eilbedarf möglich.
+Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Standard: Deutsch. Bei Englisch als Schiedssprache: Vollstreckungsübersetzung für Deutschland vorbereiten (Paragraf 1064 Abs. 3 ZPO). DIS-Notschiedsverfahren bei Eilbedarf möglich.
 
 ## Streitwert und Kosten
 
@@ -359,7 +359,7 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 | Juristische Übersetzung Satzung (15–20 Seiten) | 500–1.500 EUR | Abhängig von Stundensatz des Übersetzers (120–200 EUR/Std.) |
 | Juristische Übersetzung SHA (30–60 Seiten) | 1.000–4.000 EUR | Komplexe Klauseln (Liquidation Preference, Anti-Dilution) erhöhen Aufwand |
 | Dolmetscher bei Notarbeurkundung | 300–800 EUR (halber Tag) | Vereidigter Dolmetscher; Notargebühren zzgl. |
-| Beglaubigte Übersetzung Schiedsspruch | 200–800 EUR | Je nach Seitenumfang; für § 1064 Abs. 3 ZPO erforderlich |
+| Beglaubigte Übersetzung Schiedsspruch | 200–800 EUR | Je nach Seitenumfang; für Paragraf 1064 Abs. 3 ZPO erforderlich |
 | Anwaltliche Qualitätskontrolle (Cross-Reading) | 500–2.000 EUR | 2–4 Stunden bei 200–400 EUR/Std. |
 
 ## Strategische Empfehlung
@@ -368,32 +368,32 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 |---|---|
 | US-amerikanischer Investor besteht auf englischsprachigem Dokument | Bilinguale Fassung mit strikter Vorrang-Klausel (DE über EN); US-Investor bekommt Comfort durch englische Fassung, Rechtsicherheit bleibt beim deutschen Text |
 | Term Sheet-Verhandlung mit ausländischem VC | Term Sheet bilingual; non-binding, außer explizit markierten Punkten; keine Signing-Kosten durch Notar in diesem Stadium |
-| Schiedsverfahren auf Englisch gewünscht | DIS bietet englisches Verfahren an; aber: für Vollstreckung in Deutschland DE-Übersetzung des Schiedsspruchs zwingend (§ 1064 Abs. 3 ZPO) |
+| Schiedsverfahren auf Englisch gewünscht | DIS bietet englisches Verfahren an; aber: für Vollstreckung in Deutschland DE-Übersetzung des Schiedsspruchs zwingend (Paragraf 1064 Abs. 3 ZPO) |
 | Mandant nutzt Online-Übersetzungstool | DeepL / ChatGPT als Rohfassung akzeptabel; aber zwingend juristische Qualitätskontrolle vor Verwendung; maschinelle Fachterm-Übersetzung bei GmbH-Recht fehlerhaft |
 | Konsistenz über mehrere Dokumente hinweg | Standard-Glossar anlegen und für alle Folgedokumente verbindlich machen; Abweichungen dokumentieren |
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Output-Template: Vorrang-Klausel (einzusetzen in alle Dokumente)
 
 **Adressat:** Vertrag oder Satzung mit ausländischen Beteiligten — Tonfall praezise-juristisch
 
 ```
-§ [X] Sprache / Language
+Paragraf [X] Sprache / Language
 
 (1) Diese [Vereinbarung / Satzung / der vorliegende Vertrag] ist in
 deutscher und englischer Sprache abgefasst. Bei Widerspruechen oder
 Auslegungszweifeln zwischen den Sprachfassungen geht der deutsche
-Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG oder
-§ 15 GmbHG erforderlich ist, ist allein die deutsche Fassung
+Text vor. Soweit eine notarielle Beurkundung nach Paragraf 2 GmbHG oder
+Paragraf 15 GmbHG erforderlich ist, ist allein die deutsche Fassung
 Beurkundungsgrundlage; die englische Fassung dient als
 "Convenience Translation".
 
 (2) This [Agreement / Articles of Association] is executed in German
 and English. In case of discrepancies, the German version prevails.
-Where notarial recording pursuant to § 2 GmbHG or § 15 GmbHG is
+Where notarial recording pursuant to Paragraf 2 GmbHG or Paragraf 15 GmbHG is
 required, only the German version constitutes the basis of the
 notarial deed; the English version serves as a convenience
 translation only.
@@ -420,19 +420,19 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 [ ] Uebersetzung durch juristisch versierten Uebersetzer
 [ ] Cross-Reading (beide Fassungen parallel gelesen)
 [ ] Glossar-Konsistenz geprueft (alle Dokumente einheitlich)
-[ ] Notarielle Anforderungen: Dolmetscher bei Auslaendern (§ 5 BeurkG)?
+[ ] Notarielle Anforderungen: Dolmetscher bei Auslaendern (Paragraf 5 BeurkG)?
 [ ] Behörden-Einreichungen nur auf Deutsch
 [ ] Schiedssprache explizit vereinbart (falls DIS-Klausel)
-[ ] Vollstreckungsuebersetzung vorgeplant (§ 1064 Abs. 3 ZPO)?
+[ ] Vollstreckungsuebersetzung vorgeplant (Paragraf 1064 Abs. 3 ZPO)?
 [ ] Mandatsglossar aktualisiert
 ```
 
 ## Rote Schwellen
 
-- Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (§ 5 BeurkG; OLG Frankfurt 2019)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Kein Dolmetscher bei Beurkundung mit sprachunkundigen Auslaedern: Nichtigkeit (Paragraf 5 BeurkG; OLG Frankfurt 2019)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Ausschließlich englischsprachige Einreichung beim Handelsregister, Finanzamt: wird nicht angenommen
-- Schiedsspruch auf Englisch ohne Übersetzung: Vollstreckungsantrag in Deutschland unzulaessig (§ 1064 Abs. 3 ZPO)
+- Schiedsspruch auf Englisch ohne Übersetzung: Vollstreckungsantrag in Deutschland unzulaessig (Paragraf 1064 Abs. 3 ZPO)
 
 ## Anschluss-Skills
 
@@ -443,15 +443,15 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 
 ## Quellen und Vertiefung
 
-- § 184 GVG (Amtssprache Deutsch)
-- § 5 BeurkG (Beurkundungssprache; Dolmetscher-Pflicht)
-- §§ 133, 157 BGB (Auslegungsgrundsaetze)
-- § 1064 Abs. 3 ZPO (Vollstreckung ausländischer Schiedsspruche; Übersetzungspflicht)
-- § 1061 ZPO i.V.m. New York Convention (Anerkennung ausländischer Schiedsspruche)
+- Paragraf 184 GVG (Amtssprache Deutsch)
+- Paragraf 5 BeurkG (Beurkundungssprache; Dolmetscher-Pflicht)
+- Paragraf 133, 157 BGB (Auslegungsgrundsaetze)
+- Paragraf 1064 Abs. 3 ZPO (Vollstreckung ausländischer Schiedsspruche; Übersetzungspflicht)
+- Paragraf 1061 ZPO i.V.m. New York Convention (Anerkennung ausländischer Schiedsspruche)
 - Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 <!-- AUDIT 27.05.2026
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 Aktion: Beide Einträge (Leitentscheidungen-Tabelle und Aktuelle Rechtsprechung) gelöscht.
 -->
 
@@ -459,18 +459,18 @@ Aktion: Beide Einträge (Leitentscheidungen-Tabelle und Aktuelle Rechtsprechung)
 
 ### Kuratierte Normen-Bibliothek
 
-- § 49 GmbHG
-- § 5a GmbHG
-- § 2 GmbHG
-- § 47 GmbHG
-- § 15 GmbHG
-- § 7 GmbHG
-- § 40 GmbHG
-- § 5 GmbHG
-- § 9 GmbHG
-- § 34 GmbHG
-- § 43 GmbHG
-- § 55a GmbHG
+- Paragraf 49 GmbHG
+- Paragraf 5a GmbHG
+- Paragraf 2 GmbHG
+- Paragraf 47 GmbHG
+- Paragraf 15 GmbHG
+- Paragraf 7 GmbHG
+- Paragraf 40 GmbHG
+- Paragraf 5 GmbHG
+- Paragraf 9 GmbHG
+- Paragraf 34 GmbHG
+- Paragraf 43 GmbHG
+- Paragraf 55a GmbHG
 
 ### Leitentscheidungen
 

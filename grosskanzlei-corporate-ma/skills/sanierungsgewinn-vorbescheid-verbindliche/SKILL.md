@@ -1,61 +1,61 @@
 ---
 name: sanierungsgewinn-vorbescheid-verbindliche
-description: "Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adres..."
+description: "Verbindliche Auskunft nach Paragraf 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adres..."
 ---
 
 # Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Worum geht es
 
-Die verbindliche Auskunft nach § 89 Abs. 2 AO ist im Sanierungskontext das zentrale Instrument zur **Rechtssicherheit vor Wirksamwerden der Sanierungsmaßnahme**. Sie bindet die Finanzverwaltung an die ihr vorgelegte Sachverhalts- und Rechtsfrage und schützt die Mandantin und ihre Vertragspartner vor späteren Überraschungen. Die Praxis verlangt einen sehr sorgfältig formulierten Antrag, ein vollständiges Sachverhalts-Dossier und realistische Zeitplanung.
+Die verbindliche Auskunft nach Paragraf 89 Abs. 2 AO ist im Sanierungskontext das zentrale Instrument zur **Rechtssicherheit vor Wirksamwerden der Sanierungsmaßnahme**. Sie bindet die Finanzverwaltung an die ihr vorgelegte Sachverhalts- und Rechtsfrage und schützt die Mandantin und ihre Vertragspartner vor späteren Überraschungen. Die Praxis verlangt einen sehr sorgfältig formulierten Antrag, ein vollständiges Sachverhalts-Dossier und realistische Zeitplanung.
 
 Liefert die Anleitung für den verbindlichen Auskunftsantrag im Sanierungskontext.
 
 ## Wann dieses Modul hilft
 
-- Vor jeder Sanierungsmaßnahme, die § 3a EStG nutzen soll.
+- Vor jeder Sanierungsmaßnahme, die Paragraf 3a EStG nutzen soll.
 - Vor einem Debt-Equity-Swap mit Sanierungs- und Anteilseignerwechsel-Wirkung.
-- Vor § 8d KStG-Antrag zur Bestätigung der Fortführungsbindung.
-- Vor § 8c Abs. 4 KStG-Inanspruchnahme zur Bestätigung der stillen Reserven.
+- Vor Paragraf 8d KStG-Antrag zur Bestätigung der Fortführungsbindung.
+- Vor Paragraf 8c Abs. 4 KStG-Inanspruchnahme zur Bestätigung der stillen Reserven.
 - Bei grenzüberschreitenden Sanierungsmaßnahmen zur Klärung der Steueranknüpfung.
 
 Nicht dieser Skill, sondern eine spezifische Steuerberatung ist primär, wenn die Auskunftsanforderung außerhalb der Sanierungsthematik liegt.
 
 ## Rechtlicher Rahmen
 
-- **§ 89 Abs. 2 AO** – verbindliche Auskunft; Anspruch auf Erteilung im Rahmen pflichtgemäßen Ermessens.
-- **§ 89 Abs. 3 AO** – Gebühr für die Auskunft; Berechnung nach Gegenstandswert.
-- **§ 1 Steuer-Auskunftsverordnung (StAuskV)** – Inhaltliche Anforderungen an den Antrag.
-- **§ 2 StAuskV** – Bindungswirkung; Reichweite.
-- **§ 3a EStG** – Sanierungsertrag.
-- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **§ 7b GewStG** – Gewerbesteuer.
-- **§ 8c KStG / § 8d KStG** – Verlustvortrag.
-- **AO-Anwendungserlass** zu § 89 AO.
+- **Paragraf 89 Abs. 2 AO** – verbindliche Auskunft; Anspruch auf Erteilung im Rahmen pflichtgemäßen Ermessens.
+- **Paragraf 89 Abs. 3 AO** – Gebühr für die Auskunft; Berechnung nach Gegenstandswert.
+- **Paragraf 1 Steuer-Auskunftsverordnung (StAuskV)** – Inhaltliche Anforderungen an den Antrag.
+- **Paragraf 2 StAuskV** – Bindungswirkung; Reichweite.
+- **Paragraf 3a EStG** – Sanierungsertrag.
+- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **Paragraf 7b GewStG** – Gewerbesteuer.
+- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag.
+- **AO-Anwendungserlass** zu Paragraf 89 AO.
 
 ## / Schritt für Schritt
 
 **Phase 1 – Vorbereitung:**
 
-1. **Zuständigkeit klären.** Bei Sanierungsmaßnahmen mit Bezug auf § 3a EStG ist regelmäßig das für die Schuldnerin örtlich zuständige Finanzamt zuständig. Bei mehreren beteiligten Gesellschaften ggf. Antrag bei mehreren Finanzämtern.
+1. **Zuständigkeit klären.** Bei Sanierungsmaßnahmen mit Bezug auf Paragraf 3a EStG ist regelmäßig das für die Schuldnerin örtlich zuständige Finanzamt zuständig. Bei mehreren beteiligten Gesellschaften ggf. Antrag bei mehreren Finanzämtern.
 2. **Sachverhalts-Dossier zusammenstellen.** Sanierungskonzept (IDW S 6 oder gleichwertig); Plan-Dokumentation; Forderungsverzichtsverträge; Werthaltigkeitsgutachten; Bilanzen; Konzernstruktur.
 3. **Rechtsfragen präzise formulieren.** Trennscharfe Formulierung; keine pauschalen Anfragen. Mehrere Rechtsfragen können in einem Antrag gebearbeitet werden.
 
 **Phase 2 – Antrag stellen:**
 
 4. **Antrag schriftlich beim zuständigen Finanzamt.** Sachverhalt vollständig und in sich abgeschlossen darstellen. Rechtsfragen mit eigener Rechtsauffassung der Antragstellerin formulieren.
-5. **Gebührenrahmen** nach § 89 Abs. 3 AO beachten. Gegenstandswert ermitteln; Gebühr kann erheblich sein (z. B. mehrere zehntausend Euro).
+5. **Gebührenrahmen** nach Paragraf 89 Abs. 3 AO beachten. Gegenstandswert ermitteln; Gebühr kann erheblich sein (z. B. mehrere zehntausend Euro).
 6. **Annotation der Antragsbeilagen.** Jeder Beleg muss zugeordnet sein.
 
 **Phase 3 – Verhandlung mit dem Finanzamt:**
@@ -80,7 +80,7 @@ Nicht dieser Skill, sondern eine spezifische Steuerberatung ist primär, wenn di
 |---|---|---|
 | Rechtssicherheit | Hoch | Niedrig |
 | Closing-Verzögerung | 3-9 Monate | Keine |
-| Gebühren | Hoch (§ 89 Abs. 3 AO) | Keine |
+| Gebühren | Hoch (Paragraf 89 Abs. 3 AO) | Keine |
 | Tax-Indemnity-Last beim Verkäufer | Reduziert | Hoch |
 | W&I-Versicherbarkeit | Verbessert | Sanierungsgewinn meist ausgeschlossen |
 | Mandant-Komfort | Hoch | Niedrig |
@@ -102,14 +102,14 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 **Antrag-Rechtsfragen (Auszug):**
 
 > Rechtsfragen: Die Antragstellerin bittet um verbindliche Auskunft zu folgenden Rechtsfragen:
-> 1. Erfüllt der vorgesehene Forderungsverzicht die Voraussetzungen des § 3a Abs. 2 EStG (unternehmensbezogener Schulderlass)?
+> 1. Erfüllt der vorgesehene Forderungsverzicht die Voraussetzungen des Paragraf 3a Abs. 2 EStG (unternehmensbezogener Schulderlass)?
 > 2. Sind die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) zum Stichtag des Wirksamwerdens des Verzichts erfüllt?
-> 3. Welche Reihenfolge der Verlustverrechnung nach § 3a Abs. 3 EStG ergibt sich aus der hier vorliegenden Konstellation?
-> 4. Findet § 8d KStG auf die Antragstellerin nach Maßgabe des unter Ziffer X dargestellten Sachverhalts Anwendung?
+> 3. Welche Reihenfolge der Verlustverrechnung nach Paragraf 3a Abs. 3 EStG ergibt sich aus der hier vorliegenden Konstellation?
+> 4. Findet Paragraf 8d KStG auf die Antragstellerin nach Maßgabe des unter Ziffer X dargestellten Sachverhalts Anwendung?
 
 **Closing Condition mit Auskunftsbezug:**
 
-> Closing Condition Verbindliche Auskunft: Vollzug der in diesem Vertrag vorgesehenen Sanierungsmaßnahme steht unter der aufschiebenden Bedingung, dass die zuständige Finanzbehörde gemäß Antrag vom [Datum] eine verbindliche Auskunft nach § 89 AO mit dem Inhalt erteilt, dass die im Antrag dargestellte Sanierungsmaßnahme die Voraussetzungen des § 3a EStG erfüllt. Long-Stop-Date für die Erteilung der verbindlichen Auskunft ist der [Datum].
+> Closing Condition Verbindliche Auskunft: Vollzug der in diesem Vertrag vorgesehenen Sanierungsmaßnahme steht unter der aufschiebenden Bedingung, dass die zuständige Finanzbehörde gemäß Antrag vom [Datum] eine verbindliche Auskunft nach Paragraf 89 AO mit dem Inhalt erteilt, dass die im Antrag dargestellte Sanierungsmaßnahme die Voraussetzungen des Paragraf 3a EStG erfüllt. Long-Stop-Date für die Erteilung der verbindlichen Auskunft ist der [Datum].
 
 ## Typische Fehler in komplexer Transaktion
 
@@ -118,13 +118,13 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 - Antragsformulierung in Frageform statt mit eigener Rechtsauffassung der Antragstellerin.
 - Antrag zu spät gestellt; das Closing scheitert am Long-Stop-Date.
 - Sachverhalt zwischen Antrag und Realisierung verändert; Bindungswirkung entfällt.
-- Gebühren nach § 89 Abs. 3 AO werden unterschätzt; budgetiert sind oft zu niedrige Beträge.
+- Gebühren nach Paragraf 89 Abs. 3 AO werden unterschätzt; budgetiert sind oft zu niedrige Beträge.
 
 ## Quellen Stand 06/2026
 
-- § 89 AO; Steuer-Auskunftsverordnung (StAuskV) – gesetze-im-internet.de.
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG – gesetze-im-internet.de.
+- Paragraf 89 AO; Steuer-Auskunftsverordnung (StAuskV) – gesetze-im-internet.de.
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
-- AO-Anwendungserlass zu § 89 AO – Bundessteuerblatt.
+- AO-Anwendungserlass zu Paragraf 89 AO – Bundessteuerblatt.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
 - BFH zur verbindlichen Auskunft – ständige Rspr.; bundesfinanzhof.de.

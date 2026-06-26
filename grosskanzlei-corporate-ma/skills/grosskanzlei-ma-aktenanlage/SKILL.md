@@ -1,20 +1,20 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfrast..."
+description: "Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. Paragraf 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfrast..."
 ---
 
 # Freistehende M&A-Aktenanlage
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Freistehende M&A-Aktenanlage
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Kernsachverhalt
 
@@ -36,11 +36,11 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 | Norm / Regel | Regelungsinhalt |
 |---|---|
-| § 50 BRAO | Pflicht zur Führung einer geordneten Handaktenführung; Aufbewahrungspflicht 5 Jahre nach Abschluss des Mandats |
-| § 1 Abs. 2 BORA | Anwaltliche Schweigepflicht; Vertraulichkeitsgrundsatz; Dokumentation der Mandatsvereinbarung |
-| §§ 5, 6 GwG | Sorgfaltspflichten bei der Mandatsannahme; Know-Your-Client (KYC); Identifizierung des wirtschaftlich Berechtigten |
-| §§ 10, 11 GwG | Verstärkte Sorgfaltspflichten bei politisch exponierten Personen (PEP) und Drittländern mit hohem Risiko |
-| § 43a Abs. 4 BRAO | Verbot der Vertretung widerstreitender Interessen |
+| Paragraf 50 BRAO | Pflicht zur Führung einer geordneten Handaktenführung; Aufbewahrungspflicht 5 Jahre nach Abschluss des Mandats |
+| Paragraf 1 Abs. 2 BORA | Anwaltliche Schweigepflicht; Vertraulichkeitsgrundsatz; Dokumentation der Mandatsvereinbarung |
+| Paragraf 5, 6 GwG | Sorgfaltspflichten bei der Mandatsannahme; Know-Your-Client (KYC); Identifizierung des wirtschaftlich Berechtigten |
+| Paragraf 10, 11 GwG | Verstärkte Sorgfaltspflichten bei politisch exponierten Personen (PEP) und Drittländern mit hohem Risiko |
+| Paragraf 43a Abs. 4 BRAO | Verbot der Vertretung widerstreitender Interessen |
 | MAR Art. 7, 8 | Insiderinformation; Handels- und Weitergabeverbot; Deal-Team-Firewalls erforderlich |
 | DSGVO Art. 5, 25 | Grundsätze der Datenminimierung und Privacy by Design; personenbezogene Daten im Datenraum |
 
@@ -52,11 +52,11 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 ## Prüfschema / Anlage-Checkliste
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
-| 1 | KYC / Mandatsannahme | GwG-Identifikation (§§ 5, 6 GwG): Gesellschaftsunterlagen, wirtschaftlich Berechtigter, PEP-Screening; Interessenkonfliktprüfung | offen / geprüft |
+| 1 | KYC / Mandatsannahme | GwG-Identifikation (Paragraf 5, 6 GwG): Gesellschaftsunterlagen, wirtschaftlich Berechtigter, PEP-Screening; Interessenkonfliktprüfung | offen / geprüft |
 | 2 | Matter Opening Card erstellen | Deal-Code, Aktenzeichen, Mandant, Gegenseite, Parteienrollen, Vertraulichkeit, Long-Stop-Date | Angelegt |
 | 3 | Aktenzeichen-Matrix | Intern: [Kanzlei-AZ] + [Deal-Code]; extern: HRB/HRA, LEI, ISIN, Steuer-ID, Notar, Registergerichte | Matrix fertig |
 | 4 | Ordnerstruktur anlegen | 00_Admin bis 90_Archive; je Ordner: Zweck, Owner, Vertraulichkeit, Namensschema | Struktur angelegt |
@@ -70,7 +70,7 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 | 12 | Vertraulichkeitsregeln | Clean-Room-Protokoll für wettbewerbssensible Informationen; Firewalls bei Interessenkonflikten | Regeln dokumentiert |
 | 13 | Signing-Protokoll vorbereiten | Unterzeichner, Vollmachten, Notar-Termine, Registrierungsfristen, Mitteilungspflichten | Protokoll-Entwurf |
 | 14 | Closing-Checkliste | CPs: Behördengenehmigungen, MAC-Freiheit, Garantiekonformität, Kaufpreiszahlung, Register-Vollzug | Checkliste fertig |
-| 15 | Archivierung und Aufbewahrung | § 50 BRAO: 5 Jahre nach Abschluss; digitale Archivierung; Vernichtungsprotokoll | Archivplan erstellt |
+| 15 | Archivierung und Aufbewahrung | Paragraf 50 BRAO: 5 Jahre nach Abschluss; digitale Archivierung; Vernichtungsprotokoll | Archivplan erstellt |
 
 ## Ordnerstruktur (Standard)
 
@@ -92,8 +92,8 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 | Anforderung | Norm | Konsequenz bei Verstoß |
 |---|---|---|
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| GwG-Identifikation | §§ 5, 6 GwG | Bußgeld, Meldepflicht, ggf. strafrechtliche Haftung |
-| Fristenüberwachung | § 43 BRAO, BORA § 26 | Organisationsverschulden; Haftung für Fristversäumnis |
+| GwG-Identifikation | Paragraf 5, 6 GwG | Bußgeld, Meldepflicht, ggf. strafrechtliche Haftung |
+| Fristenüberwachung | Paragraf 43 BRAO, BORA Paragraf 26 | Organisationsverschulden; Haftung für Fristversäumnis |
 | Vertraulichkeit NDA | Vertragsrecht | Schadensersatz bei unberechtigter Weitergabe |
 | Datenschutz Datenraum | DSGVO Art. 5, 25 | DSGVO-Bußgeld; Informationspflicht bei Datenpanne |
 
@@ -101,9 +101,9 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 
 | Fristtyp | Dauer | Norm | Hinweis |
 |---|---|---|---|
-| Handaktenaufbewahrung | 5 Jahre nach Mandatsabschluss | § 50 Abs. 2 BRAO | Fristbeginn: Beendigung des Mandats |
-| GwG-Aufbewahrung | 5 Jahre nach Ende der Geschäftsbeziehung | § 8 GwG | Personenbezogene Daten: DSGVO-Löschpflicht beachten |
-| Unternehmensrechtliche Aufbewahrung (HGB) | 10 Jahre (Handelsbücher), 6 Jahre (sonstige Unterlagen) | §§ 257, 147 AO | Gilt für das Unternehmen selbst |
+| Handaktenaufbewahrung | 5 Jahre nach Mandatsabschluss | Paragraf 50 Abs. 2 BRAO | Fristbeginn: Beendigung des Mandats |
+| GwG-Aufbewahrung | 5 Jahre nach Ende der Geschäftsbeziehung | Paragraf 8 GwG | Personenbezogene Daten: DSGVO-Löschpflicht beachten |
+| Unternehmensrechtliche Aufbewahrung (HGB) | 10 Jahre (Handelsbücher), 6 Jahre (sonstige Unterlagen) | Paragraf 257, 147 AO | Gilt für das Unternehmen selbst |
 | VDR-Zugangssperrung nach Scheitern | Laut NDA; typisch 12–24 Monate vertraulich | NDA-Klausel | Heruntergeladene Dokumente weiterhin vertraulich |
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -200,9 +200,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Schadensfall | Ansatz | Norm |
 |---|---|---|
-| Fristversäumnis wegen fehlender Aktenorganisation | Schadensersatz = entgangener Anspruch oder Mehrkostenpauschale | § 280 BGB; § 43 BRAO |
-| NDA-Vertraulichkeitsbruch durch fehlende Datentrennung | Vertragsstrafe lt. NDA; Schadensersatz | NDA-Klausel; § 823 Abs. 2 BGB i.V.m. GeschGehG |
-| GwG-Bußgeld | Bis EUR 100.000 (§ 56 GwG); bei Vorsatz höher | § 56 GwG |
+| Fristversäumnis wegen fehlender Aktenorganisation | Schadensersatz = entgangener Anspruch oder Mehrkostenpauschale | Paragraf 280 BGB; Paragraf 43 BRAO |
+| NDA-Vertraulichkeitsbruch durch fehlende Datentrennung | Vertragsstrafe lt. NDA; Schadensersatz | NDA-Klausel; Paragraf 823 Abs. 2 BGB i.V.m. GeschGehG |
+| GwG-Bußgeld | Bis EUR 100.000 (Paragraf 56 GwG); bei Vorsatz höher | Paragraf 56 GwG |
 
 ## Strategische Empfehlung
 
@@ -222,13 +222,13 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- § 50 BRAO; §§ 5, 6, 8 GwG; Art. 5, 25 DSGVO; §§ 257 HGB, 147 AO; MAR Art. 7, 8
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Paragraf 50 BRAO; Paragraf 5, 6, 8 GwG; Art. 5, 25 DSGVO; Paragraf 257 HGB, 147 AO; MAR Art. 7, 8
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 <!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 -->

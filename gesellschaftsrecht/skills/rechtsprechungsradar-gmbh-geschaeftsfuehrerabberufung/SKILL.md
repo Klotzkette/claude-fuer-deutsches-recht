@@ -11,10 +11,10 @@ Nutze diesen Skill, wenn Geschäftsführer abberufen oder verteidigt werden soll
 
 ## Normenanker
 
-- GmbHG §§ 6, 35, 37, 38, 46 Nr. 5, 47, 48, 49, 53, 54.
-- BGB §§ 134, 138, 157, 241 Abs. 2, 242, 275, 280, 311.
-- HGB § 15 und FamFG/Registerrecht für Anmeldung, Publizität und Registervollzug.
-- AktG §§ 76, 84, 111 nur als Vergleichsfolie, wenn die Satzung GmbH-Organe aktienrechtlich nachbildet.
+- GmbHG Paragraf 6, 35, 37, 38, 46 Nr. 5, 47, 48, 49, 53, 54.
+- BGB Paragraf 134, 138, 157, 241 Abs. 2, 242, 275, 280, 311.
+- HGB Paragraf 15 und FamFG/Registerrecht für Anmeldung, Publizität und Registervollzug.
+- AktG Paragraf 76, 84, 111 nur als Vergleichsfolie, wenn die Satzung GmbH-Organe aktienrechtlich nachbildet.
 - ArbGG/ZPO nur prüfen, wenn Dienstvertrag, Organstellung und einstweiliger Rechtsschutz auseinanderfallen.
 
 ## Verifizierter Entscheidungsanker
@@ -23,7 +23,7 @@ Nutze diesen Skill, wenn Geschäftsführer abberufen oder verteidigt werden soll
 
 ## Prüfprogramm
 
-1. **Trenne Organstellung und Dienstvertrag:** Abberufung nach GmbHG § 38 und Kündigung/Abwicklung des Dienstvertrags nicht vermischen.
+1. **Trenne Organstellung und Dienstvertrag:** Abberufung nach GmbHG Paragraf 38 und Kündigung/Abwicklung des Dienstvertrags nicht vermischen.
 2. **Wer darf entscheiden?** Gesellschafterversammlung, Beirat, Aufsichtsrat, Verein, Holding, Treuhänder, Pool oder Sonderrecht getrennt prüfen.
 3. **Innenverstoß isolieren:** Satzungsverstoß, Stimmbindung, Weisungsbruch oder Treuepflichtverstoß kann Rechtsfolge im Innenverhältnis haben, ohne automatisch die Organmaßnahme zu vernichten.
 4. **Register- und Außenwirkung sichern:** Anmeldung, Vertretungsnachweis, Gesellschafterliste, Handelsregistermitteilung und Kommunikationslinie vorbereiten.
@@ -35,8 +35,8 @@ Erstelle eine Vier-Spalten-Matrix:
 
 | Ebene | Frage | Norm/Anker | Ergebnis |
 | --- | --- | --- | --- |
-| Organ | Ist die Abberufung gesellschaftsrechtlich wirksam? | GmbHG §§ 38, 46 Nr. 5 | ja/nein/offen |
-| Innenverhältnis | Wurde gegen Satzung/Stimmbindung/Treuepflicht verstoßen? | BGB §§ 241 Abs. 2, 242; Satzung | Rechtsfolge |
+| Organ | Ist die Abberufung gesellschaftsrechtlich wirksam? | GmbHG Paragraf 38, 46 Nr. 5 | ja/nein/offen |
+| Innenverhältnis | Wurde gegen Satzung/Stimmbindung/Treuepflicht verstoßen? | BGB Paragraf 241 Abs. 2, 242; Satzung | Rechtsfolge |
 | Dienstvertrag | Vergütung, Kündigung, Freistellung, D&O | BGB/Dienstvertrag | Zahlungs-/Freistellungsrisiko |
 | Vollzug | Register, Kommunikation, Bank, Vertragspartner | HGB/FamFG | To-do |
 

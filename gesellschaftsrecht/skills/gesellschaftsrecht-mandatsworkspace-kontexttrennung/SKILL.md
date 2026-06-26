@@ -8,7 +8,7 @@ description: 'Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, sch
 
 ## Kernsachverhalt
 
-Rechtsanwälte führen parallel mehrere Mandate. Jedes Mandat hat seinen eigenen Mandanten, seine eigene Gegenpartei, seine eigene Transaktionsphase, seine eigenen vertraulichen Unterlagen und seine eigene Handlungslogik. Die Vermischung von Mandatsinhalten — auch unbeabsichtigt — verletzt die anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO, § 203 Abs. 1 Nr. 3 StGB) und kann Interessenkonflikte begründen (§ 43a Abs. 4 BRAO).
+Rechtsanwälte führen parallel mehrere Mandate. Jedes Mandat hat seinen eigenen Mandanten, seine eigene Gegenpartei, seine eigene Transaktionsphase, seine eigenen vertraulichen Unterlagen und seine eigene Handlungslogik. Die Vermischung von Mandatsinhalten — auch unbeabsichtigt — verletzt die anwaltliche Verschwiegenheitspflicht (Paragraf 43a Abs. 2 BRAO, Paragraf 203 Abs. 1 Nr. 3 StGB) und kann Interessenkonflikte begründen (Paragraf 43a Abs. 4 BRAO).
 
 Dieser Skill verwaltet Mandats-Workspaces: Er legt sie an, listet sie auf, wechselt zwischen ihnen, schließt sie und archiviert sie. Alle inhaltlichen Skills im Gesellschaftsrecht-Paket lesen den aktiven Mandats-Workspace, bevor sie arbeiten, und beziehen sich ausschließlich auf dessen Kontext.
 
@@ -32,24 +32,24 @@ Vor Anlage eines neuen Mandats-Workspace sind folgende Angaben erforderlich:
 
 ### Normtexte mit Auszügen
 
-**§ 43a Abs. 2 BRAO — Verschwiegenheitspflicht**
+**Paragraf 43a Abs. 2 BRAO — Verschwiegenheitspflicht**
 > "Der Rechtsanwalt ist zur Verschwiegenheit verpflichtet. Diese Pflicht bezieht sich auf alles, was ihm in Ausübung seines Berufes bekanntgeworden ist."
 
-Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigung. Sie gilt für alle Mitarbeiter der Kanzlei (§ 43a Abs. 2 S. 3 BRAO) und für alle Informationsträger — physisch und digital.
+Die Verschwiegenheitspflicht gilt unbegrenzt zeitlich, auch nach Mandatsbeendigung. Sie gilt für alle Mitarbeiter der Kanzlei (Paragraf 43a Abs. 2 S. 3 BRAO) und für alle Informationsträger — physisch und digital.
 
-**§ 203 Abs. 1 Nr. 3 StGB — Verletzung von Privatgeheimnissen**
+**Paragraf 203 Abs. 1 Nr. 3 StGB — Verletzung von Privatgeheimnissen**
 > "Wer unbefugt ein fremdes Geheimnis, namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis, offenbart, das ihm als Rechtsanwalt [...] anvertraut worden ist oder sonst bekanntgeworden ist, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft."
 
-**§ 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
+**Paragraf 43a Abs. 4 BRAO — Verbot der Wahrnehmung widerstreitender Interessen**
 > "Der Rechtsanwalt darf keine widerstreitenden Interessen vertreten."
 
 Dieser Skill führt **keine** Interessenkonfliktprüfung durch. Die Konfliktprüfung obliegt dem Anwalt vor jeder Mandatsannahme. Der Skill stellt lediglich sicher, dass Mandatsinhalte technisch getrennt bleiben.
 
-**§ 53 StPO — Zeugnisverweigerungsrecht des Rechtsanwalts**
+**Paragraf 53 StPO — Zeugnisverweigerungsrecht des Rechtsanwalts**
 > Dem Rechtsanwalt steht ein Zeugnisverweigerungsrecht zu über das zu, was ihm in dieser Eigenschaft anvertraut oder bekanntgeworden ist.
 
-**§§ 1 ff. GwG — Geldwäscheprävention / Mandantenidentifizierung**
-Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpflichteter i.S.d. § 2 Abs. 1 Nr. 10 GwG. Pflichten: Identifizierung des Mandanten (§ 10 GwG), Feststellung wirtschaftlich Berechtigter (§ 11 GwG), Dokumentation (§ 8 GwG).
+**Paragraf 1 ff. GwG — Geldwäscheprävention / Mandantenidentifizierung**
+Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpflichteter i.S.d. Paragraf 2 Abs. 1 Nr. 10 GwG. Pflichten: Identifizierung des Mandanten (Paragraf 10 GwG), Feststellung wirtschaftlich Berechtigter (Paragraf 11 GwG), Dokumentation (Paragraf 8 GwG).
 
 ### Leitentscheidungen
 
@@ -68,7 +68,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 | 2 | Unterbefehl identifizieren | Ersten Token auswerten: neu / liste / wechseln / schließen / keine? | Routing zu Schritt 3–7 |
 | 3 | Slug-Eindeutigkeit | Slug bereits in `mandate/<slug>/` oder `mandate/_archiv/<slug>` vorhanden? | Bei Duplikat: anderen Slug vorschlagen (Mandant + Typ + Jahr) |
 | 4 | Interessenkonfliktprüfung | Durch Anwalt: Gegenpartei gleichzeitig Mandant in anderem Mandat? | Skill führt keine Prüfung durch; Hinweis und Bestätigungsabfrage |
-| 5 | GwG-Identifizierung | Bei M&A-Mandat: Mandantenidentifizierung (§ 10 GwG) dokumentiert? | Hinweis auf GwG-Pflichten bei Mandatsanlage |
+| 5 | GwG-Identifizierung | Bei M&A-Mandat: Mandantenidentifizierung (Paragraf 10 GwG) dokumentiert? | Hinweis auf GwG-Pflichten bei Mandatsanlage |
 | 6 | Aufnahme-Interview | Alle Pflichtfelder erfasst (Mandant, Gegenpartei, Typ, Phase, Vertraulichkeit, Fakten, Abweichungen)? | Vollständige mandat.md generierbar |
 | 7 | Dateierstellung | mandat.md + verlauf.md + notizen.md angelegt? Pfad korrekt? | Workspace operationsbereit |
 | 8 | Aktives-Mandat-Zuweisung | Soll nach Anlage direkt gewechselt werden? | Nur auf ausdrückliche Anfrage; niemals automatisch |
@@ -81,28 +81,28 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 
 | Frage | Beweislast | Erläuterung |
 |---|---|---|
-| Verschwiegenheitspflichtverletzung durch RA | Mandant als Kläger (§ 280 Abs. 1 BGB) | Nachweis: Was wurde offenbart, wann, an wen, welcher Schaden? |
-| Kein Interessenkonflikt | Rechtsanwalt (§ 43a Abs. 4 BRAO) | RA muss belegen, dass keine widerstreitenden Interessen bestanden |
-| GwG-Identifizierungspflicht erfüllt | Rechtsanwalt (§ 8 GwG: Dokumentationspflicht) | Kopien der Identifizierungsunterlagen und Dokumentation im Mandat |
+| Verschwiegenheitspflichtverletzung durch RA | Mandant als Kläger (Paragraf 280 Abs. 1 BGB) | Nachweis: Was wurde offenbart, wann, an wen, welcher Schaden? |
+| Kein Interessenkonflikt | Rechtsanwalt (Paragraf 43a Abs. 4 BRAO) | RA muss belegen, dass keine widerstreitenden Interessen bestanden |
+| GwG-Identifizierungspflicht erfüllt | Rechtsanwalt (Paragraf 8 GwG: Dokumentationspflicht) | Kopien der Identifizierungsunterlagen und Dokumentation im Mandat |
 | Mandatsbeendigung | Derjenige, der sich auf die Beendigung beruft | Schriftliche Kündigung oder Mandatsbeendigungs-Protokoll |
-| Interessenkonflikt-Kündigung rechtmäßig | Rechtsanwalt | Nachweis der Kollisionslage; Hinweis an Mandant nach § 627 BGB |
+| Interessenkonflikt-Kündigung rechtmäßig | Rechtsanwalt | Nachweis der Kollisionslage; Hinweis an Mandant nach Paragraf 627 BGB |
 
 ## Fristen und Verjährung
 
 | Frist / Aufbewahrung | Norm | Inhalt | Folge bei Versäumnis |
 |---|---|---|---|
-| Aufbewahrung Handakten | § 50 BRAO | Mind. 6 Jahre nach Mandatsbeendigung | Disziplinarrechtliche Konsequenzen; Beweisschwierigkeiten |
-| Verjährung anwaltliche Pflichtverletzung | §§ 195, 199 BGB | 3 Jahre ab Kenntnis; max. 10 Jahre ab Entstehung | Mandant verliert Schadensersatzanspruch |
-| GwG-Dokumentation | § 8 Abs. 4 GwG | 5 Jahre nach Ende der Geschäftsbeziehung | Bußgeld §§ 56 f. GwG |
-| Mandatskündigung (fristlos wegen Interessenkonflikt) | §§ 626 f. BGB | Unverzüglich nach Kenntnis der Kollisionslage | Schadensersatzpflicht wenn Frist versäumt |
-| Herausgabe Handakten nach Mandatsende | § 50 Abs. 2 BRAO | Auf Verlangen des Mandanten; angemessene Frist | Schadensersatz; Disziplinarverfahren |
+| Aufbewahrung Handakten | Paragraf 50 BRAO | Mind. 6 Jahre nach Mandatsbeendigung | Disziplinarrechtliche Konsequenzen; Beweisschwierigkeiten |
+| Verjährung anwaltliche Pflichtverletzung | Paragraf 195, 199 BGB | 3 Jahre ab Kenntnis; max. 10 Jahre ab Entstehung | Mandant verliert Schadensersatzanspruch |
+| GwG-Dokumentation | Paragraf 8 Abs. 4 GwG | 5 Jahre nach Ende der Geschäftsbeziehung | Bußgeld Paragraf 56 f. GwG |
+| Mandatskündigung (fristlos wegen Interessenkonflikt) | Paragraf 626 f. BGB | Unverzüglich nach Kenntnis der Kollisionslage | Schadensersatzpflicht wenn Frist versäumt |
+| Herausgabe Handakten nach Mandatsende | Paragraf 50 Abs. 2 BRAO | Auf Verlangen des Mandanten; angemessene Frist | Schadensersatz; Disziplinarverfahren |
 
 ## Typische Gegenargumente
 
 | Einwand | Begründung Gegenseite | Erwiderung |
 |---|---|---|
 | Mandatsworkspace für In-house-Juristen unnötig | In-house-Jurist arbeitet nur für einen Mandanten (das eigene Unternehmen) | Richtig — Skill bei In-house-Standard deaktiviert; nur bei tatsächlichem Mehrfachmandatsverhältnis aktivieren |
-| Mandatsinformationen können zusammengefasst werden | Effizienzgewinn bei mandatsübergreifendem Vergleich | § 43a Abs. 2 BRAO gilt für jedes einzelne Mandat; mandatsübergreifende Auswertung nur mit ausdrücklicher Erlaubnis jedes Mandanten |
+| Mandatsinformationen können zusammengefasst werden | Effizienzgewinn bei mandatsübergreifendem Vergleich | Paragraf 43a Abs. 2 BRAO gilt für jedes einzelne Mandat; mandatsübergreifende Auswertung nur mit ausdrücklicher Erlaubnis jedes Mandanten |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Digitale Trennung nicht ausreichend | Mandatsinhalte sind ohnehin in unterschiedlichen Softwaresystemen gespeichert | Verschwiegenheitspflicht gilt auch für KI-gestütztes Drafting und Kontextverarbeitung; mandatsübergreifender Kontext-Schalter muss bewusst gesetzt werden |
 | Slug-System zu komplex | Einfachere Identifikation reicht | Slug-Eindeutigkeit ist zentral für fehlerfreies Routing; klares Muster (Mandant-Typ-Jahr) verhindert Verwechslungen |
@@ -136,7 +136,7 @@ Sehr geehrte/r [Name],
 
 wir haben in der oben bezeichneten Angelegenheit Ihre Interessen vertreten. Im Verlauf
 unserer Mandatsbearbeitung haben wir festgestellt, dass eine Pflichtenkollision im
-Sinne des § 43a Abs. 4 BRAO vorliegt, die es uns nicht gestattet, das Mandat weiter zu
+Sinne des Paragraf 43a Abs. 4 BRAO vorliegt, die es uns nicht gestattet, das Mandat weiter zu
 führen.
 
 Wir legen das Mandat hiermit mit sofortiger Wirkung nieder. Diese Entscheidung basiert
@@ -145,10 +145,10 @@ ausschließlich auf unserer berufsrechtlichen Verpflichtung und stellt kein Wert
 
 Wir empfehlen Ihnen dringend, unverzüglich eine andere Kanzlei zu beauftragen.
 Zur Sicherung Ihrer Rechte weisen wir auf folgende laufende Fristen hin:
-- [Frist 1: z.B. Anfechtungsfrist § 246 AktG: [Datum]]
+- [Frist 1: z.B. Anfechtungsfrist Paragraf 246 AktG: [Datum]]
 - [Frist 2: ...]
 
-Ihre Handakten werden wir Ihnen auf Anforderung gemäß § 50 Abs. 2 BRAO unverzüglich
+Ihre Handakten werden wir Ihnen auf Anforderung gemäß Paragraf 50 Abs. 2 BRAO unverzüglich
 herausgeben.
 
 Mit freundlichen Grüßen
@@ -205,11 +205,11 @@ Was macht dieses Mandat vom Standardprofil abweichend?]
 - [z.B. "Ton: beziehungspflegend — Gegenpartei ist strategischer Partner."]
 - [z.B. "Anwendbares Recht: Deutsches Recht zwingend, kein englisches Recht."]
 
-## GwG-Compliance (§§ 1 ff. GwG)
+## GwG-Compliance (Paragraf 1 ff. GwG)
 
-- [ ] Mandantenidentifizierung durchgeführt (§ 10 GwG)
-- [ ] Wirtschaftlich Berechtigte ermittelt (§ 11 GwG)
-- [ ] Dokumentation angelegt (§ 8 GwG; Aufbewahrung 5 Jahre nach Ende der Geschäftsbeziehung)
+- [ ] Mandantenidentifizierung durchgeführt (Paragraf 10 GwG)
+- [ ] Wirtschaftlich Berechtigte ermittelt (Paragraf 11 GwG)
+- [ ] Dokumentation angelegt (Paragraf 8 GwG; Aufbewahrung 5 Jahre nach Ende der Geschäftsbeziehung)
 
 ## Verbundene Mandate
 
@@ -367,10 +367,10 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 
 ## Rote Schwellen
 
-- **GwG-Identifizierung fehlt** — strafrechtliches Risiko fuer Rechtsanwalt (§§ 10 ff. GwG); vor Weiterarbeit nachholen.
-- **Interessenkonflikt nicht geprueft** — Verstoß gegen § 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
-- **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — § 43a Abs. 2 BRAO, § 203 StGB; sofort entfernen; Fehler dokumentieren.
-- **Handakten-Aufbewahrungsfrist § 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.
+- **GwG-Identifizierung fehlt** — strafrechtliches Risiko fuer Rechtsanwalt (Paragraf 10 ff. GwG); vor Weiterarbeit nachholen.
+- **Interessenkonflikt nicht geprueft** — Verstoß gegen Paragraf 43a Abs. 4 BRAO; Mandat unverzueglich auf Konflikt pruefen.
+- **Anwaltliche Verschwiegenheit: Dateien aus anderem Mandat im Workspace** — Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB; sofort entfernen; Fehler dokumentieren.
+- **Handakten-Aufbewahrungsfrist Paragraf 50 BRAO** — mind. 5 Jahre nach Mandat-Abschluss; Loeschung erst nach Ablauf.
 - **Frist im Mandat ohne Wiedervorlage** — Haftungsrisiko; jede Frist sofort im Kalender mit Vorlauf-WV verankern.
 
 ## Anschluss-Skills
@@ -382,19 +382,19 @@ Abgeschlossen: [NEIN / JA — TT.MM.JJJJ; archiviert]
 
 ## Quellen und Zitierweise
 
-- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht)
-- § 43a Abs. 4 BRAO (Verbot widerstreitender Interessen)
-- § 203 Abs. 1 Nr. 3 StGB (Verletzung von Privatgeheimnissen)
-- § 50 BRAO (Handakten; Aufbewahrungspflicht)
-- §§ 1 ff. GwG (Geldwäscheprävention; Mandantenidentifizierung)
-- §§ 195, 199 BGB (Verjährung)
+- Paragraf 43a Abs. 2 BRAO (Verschwiegenheitspflicht)
+- Paragraf 43a Abs. 4 BRAO (Verbot widerstreitender Interessen)
+- Paragraf 203 Abs. 1 Nr. 3 StGB (Verletzung von Privatgeheimnissen)
+- Paragraf 50 BRAO (Handakten; Aufbewahrungspflicht)
+- Paragraf 1 ff. GwG (Geldwäscheprävention; Mandantenidentifizierung)
+- Paragraf 195, 199 BGB (Verjährung)
 
 Zitierweise nach `../../references/zitierweise.md`.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
 

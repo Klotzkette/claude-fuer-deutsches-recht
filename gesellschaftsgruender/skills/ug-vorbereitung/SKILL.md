@@ -1,6 +1,6 @@
 ---
 name: ug-vorbereitung
-description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterp..."
+description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: Paragraf 5a GmbHG, Paragraf 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterp..."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
@@ -9,14 +9,14 @@ description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -25,31 +25,31 @@ description: "UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1
 
 1. Verfügbares Startkapital: Unter 5.000 EUR → UG sinnvoll. Über 10.000 EUR → GmbH prüfen.
 2. Ist Investoren-Aufnahme in den nächsten 24 Monaten wahrscheinlich? Manche Investoren und Förderprogramme verlangen GmbH als Voraussetzung.
-3. Soll eine Sacheinlage eingebracht werden? Bei UG ausgeschlossen (§ 5a Abs. 2 S. 1 GmbHG).
+3. Soll eine Sacheinlage eingebracht werden? Bei UG ausgeschlossen (Paragraf 5a Abs. 2 S. 1 GmbHG).
 4. Ist die Gesellschaft B2B-Auftritte gegenüber Großunternehmen oder Banken geplant? UG hat oft Kreditnachteile und Reputationsrisiken.
 5. Wieviele Gesellschafter und Geschäftsführer? Bis zu 3 Gesellschafter + 1 GF: Musterprotokoll möglich.
 6. Ist Thesaurierungspflicht (25 % Jahresgewinn) finanziell tragbar bis zum Erreichen von 25.000 EUR Stammkapital?
 
 ## Zentrale Normen
 
-- **§ 5a GmbHG** — UG als GmbH-Sondervariante; Mindestkapital 1 EUR; Bareinlage zwingend; Sacheinlage ausgeschlossen.
-- **§ 5a Abs. 3 GmbHG** — Thesaurierungspflicht: 25 % des Jahresergebnisses in gesetzliche Rücklage bis 25.000 EUR Stammkapital.
-- **§ 5a Abs. 5 GmbHG** — Umfirmierung zur GmbH nach Erreichen von 25.000 EUR.
-- **§ 7 GmbHG** — Einzahlungspflicht vor Anmeldung: vollständige Bareinlage.
-- **§ 7a SGB IV** — Statusfeststellungsverfahren für GF (Sozialversicherungspflicht).
-- **§§ 2, 2a GmbHG** — Musterprotokoll bei Standardgründung.
+- **Paragraf 5a GmbHG** — UG als GmbH-Sondervariante; Mindestkapital 1 EUR; Bareinlage zwingend; Sacheinlage ausgeschlossen.
+- **Paragraf 5a Abs. 3 GmbHG** — Thesaurierungspflicht: 25 % des Jahresergebnisses in gesetzliche Rücklage bis 25.000 EUR Stammkapital.
+- **Paragraf 5a Abs. 5 GmbHG** — Umfirmierung zur GmbH nach Erreichen von 25.000 EUR.
+- **Paragraf 7 GmbHG** — Einzahlungspflicht vor Anmeldung: vollständige Bareinlage.
+- **Paragraf 7a SGB IV** — Statusfeststellungsverfahren für GF (Sozialversicherungspflicht).
+- **Paragraf 2, 2a GmbHG** — Musterprotokoll bei Standardgründung.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## UG vs. GmbH Vergleichsmatrix
 
 | Merkmal | UG (haftungsbeschränkt) | GmbH |
 |---|---|---|
 | Mindestkapital | 1 EUR | 25.000 EUR |
-| Mindesteinzahlung vor Anmeldung | Vollständig (§ 7 GmbHG) | 12.500 EUR (§ 7 Abs. 2 GmbHG) |
-| Sacheinlage | Ausgeschlossen (§ 5a Abs. 2) | Möglich (mit Sachgründungsbericht) |
+| Mindesteinzahlung vor Anmeldung | Vollständig (Paragraf 7 GmbHG) | 12.500 EUR (Paragraf 7 Abs. 2 GmbHG) |
+| Sacheinlage | Ausgeschlossen (Paragraf 5a Abs. 2) | Möglich (mit Sachgründungsbericht) |
 | Thesaurierungspflicht | 25 % Jahresgewinn bis 25.000 EUR | Keine |
 | Firmenzusatz | "UG (haftungsbeschränkt)" zwingend | "GmbH" |
 | Notarkosten (Musterprotokoll) | ca. 250-450 EUR | ca. 400-600 EUR |
@@ -124,7 +124,7 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 
 ## Rote Schwellen
 
-- Sacheinlage bei UG geplant → nicht zulässig (§ 5a Abs. 2 GmbHG); Bargründung zwingend.
+- Sacheinlage bei UG geplant → nicht zulässig (Paragraf 5a Abs. 2 GmbHG); Bargründung zwingend.
 - Stammkapital von 1 EUR — Gründungskosten überschreiten sofort das Kapital → Überschuldung ab Beurkundung; Mindestens 300-500 EUR einplanen.
 - Firmenzusatz "GmbH" vor Umfirmierung verwendet → irreführend; unzulässig; ggf. abmahnungsfähig.
 - Einzahlung nicht vollständig vor Anmeldung → Anmeldevoraussetzung nicht erfüllt; persönliche GF-Haftung.
@@ -132,10 +132,10 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 
 ## Quellen und Vertiefung
 
-- §§ 5a, 7, 53 GmbHG (UG-Sondervorschriften)
-- § 7a SGB IV (Statusfeststellungsverfahren)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Emmerich, GmbHG, § 5a Rn. 1-40
+- Paragraf 5a, 7, 53 GmbHG (UG-Sondervorschriften)
+- Paragraf 7a SGB IV (Statusfeststellungsverfahren)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Emmerich, GmbHG, Paragraf 5a Rn. 1-40
 
 ## Übergabe an andere Skills
 

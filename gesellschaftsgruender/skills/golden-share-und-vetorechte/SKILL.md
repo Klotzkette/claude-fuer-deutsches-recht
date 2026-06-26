@@ -1,6 +1,6 @@
 ---
 name: golden-share-und-vetorechte
-description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzu..."
+description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: Paragraf 35 45 GmbHG, Paragraf 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzu..."
 ---
 
 # Golden Share und Sondervetorechte
@@ -9,14 +9,14 @@ description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absic
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Golden Share und Sondervetorechte` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -28,42 +28,42 @@ Klaere vor Gestaltung von Vetorechten:
 1. **Wessen Schutz?** Gründer gegen Investoren, Investor gegen Gründer, Familie gegen Nachfolger-Generation?
 2. **Umfang des Vetorechts?** Voller Block (alle Beschlüsse) oder selektive Themen (Restrukturierung, Satzungsaenderung, Verkauf)?
 3. **Personenbezogen oder anteilsbezogen?** Personenbezogenes Vetorecht erlischt bei Anteilsabtretung; anteilsbezogenes geht mit dem Anteil über.
-4. **Insolvenzantragspflicht bekannt?** § 15a InsO: Pflicht des GF antragzustellen unabhaengig von Golden Share — Vetorecht entbindet GF NICHT.
+4. **Insolvenzantragspflicht bekannt?** Paragraf 15a InsO: Pflicht des GF antragzustellen unabhaengig von Golden Share — Vetorecht entbindet GF NICHT.
 5. **Sitzverteilung im Beirat?** Gründer-Schutz kann auch über Beirats-Veto statt Golden Share strukturiert werden.
 6. **Handelsregister-Publikation?** Satzungsklausel wird mit Satzung beim HR hinterlegt; öffentlich.
 
 ## Zentrale Normen
 
-- **§ 3 II GmbHG** — Satzungsautonomie; Sonderrechte und Vorzugsklassen zulässig
-- **§ 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung möglich
-- **§ 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch für Vetorechts-Inhaber
-- **§ 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
-- **§ 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
-- **§§ 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
-- **§ 138 BGB** — Sittenwidrigkeit: Veto über alle Beschlüsse kann nichtig sein
+- **Paragraf 3 II GmbHG** — Satzungsautonomie; Sonderrechte und Vorzugsklassen zulässig
+- **Paragraf 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung möglich
+- **Paragraf 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch für Vetorechts-Inhaber
+- **Paragraf 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
+- **Paragraf 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
+- **Paragraf 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
+- **Paragraf 138 BGB** — Sittenwidrigkeit: Veto über alle Beschlüsse kann nichtig sein
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema: Golden Share-Gestaltung
 
 | Schritt | Frage | Norm | Ergebnis |
 |---|---|---|---|
-| 1 | Personenbezogen oder anteilsbezogen? | § 15 GmbHG | Bei Anteilsabtretung: erlischt oder geht über? |
-| 2 | Umfang sachlich begrenzt? | § 138 BGB | Kein Pauschal-Veto; selektive Themen |
-| 3 | Stimmverbot bei Eigeninteresse beachtet? | § 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
-| 4 | Insolvenzantragspflicht gecheckt? | § 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
-| 5 | StaRUG-Veto sinnvoll? | § 31 StaRUG | Freiwilliges Verfahren; Veto hier wirksam |
+| 1 | Personenbezogen oder anteilsbezogen? | Paragraf 15 GmbHG | Bei Anteilsabtretung: erlischt oder geht über? |
+| 2 | Umfang sachlich begrenzt? | Paragraf 138 BGB | Kein Pauschal-Veto; selektive Themen |
+| 3 | Stimmverbot bei Eigeninteresse beachtet? | Paragraf 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
+| 4 | Insolvenzantragspflicht gecheckt? | Paragraf 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
+| 5 | StaRUG-Veto sinnvoll? | Paragraf 31 StaRUG | Freiwilliges Verfahren; Veto hier wirksam |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| 7 | SHA-Stimmverpflichtung ergaenzend? | § 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
+| 7 | SHA-Stimmverpflichtung ergaenzend? | Paragraf 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Schutzinteresse definieren:** Wen schuetzen wir (Gründer, Investor, Familie) und wovor?
 2. **Katalog der Veto-Themen festlegen:** Selektiv; maximal 5-8 klar definierte Anlaesse.
 3. **Satzungs-Klausel entwerfen:** Personenbezogen vs. anteilsbezogen; Erloesch-Klausel formulieren.
-4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erläuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
+4. **Paragraf 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erläuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
 5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: für Faelle, die satzungsmaessig nicht erfasst sind.
 6. **Notar-Beurkundung** der Satzungsaenderung (bei Verankerung in Satzung).
 7. **Monitoring:** Jaehrliche Prüfung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
@@ -73,7 +73,7 @@ Klaere vor Gestaltung von Vetorechten:
 **Adressat:** Gesellschaftsvertrag / Satzungsaenderung — Tonfall praezise
 
 ```
-§ [X] Sondervetorecht (Golden Share)
+Paragraf [X] Sondervetorecht (Golden Share)
 
 (1) Die Inhaberin / Der Inhaber des Anteils Nr. [N]
 ([NAME], geb. [DATUM]) hat zusaetzlich zu den
@@ -86,12 +86,12 @@ b) Wesentliche Aenderung des Unternehmensgegenstands;
 c) Veraeusserung von mehr als 20 % des
  Bilanzvermoegens;
 d) Stellung eines Antrags auf Restrukturierungs-
- verfahren nach § 31 StaRUG;
+ verfahren nach Paragraf 31 StaRUG;
 e) Aufloesung der Gesellschaft;
 f) Aufnahme neuer Gesellschafter mit Sonderrechten.
 
 (2) Die Insolvenzantragspflicht der Geschaeftsfuehrung
-nach § 15a InsO bleibt von Abs. 1 lit. d) unberuehrt.
+nach Paragraf 15a InsO bleibt von Abs. 1 lit. d) unberuehrt.
 Das Sondervetorecht entbindet die Geschaeftsfuehrung
 nicht von der gesetzlichen Antragspflicht.
 
@@ -106,15 +106,15 @@ erheben.
 
 ## Rote Schwellen
 
-- Veto in der Insolvenzsituation: GF MUSS nach § 15a InsO stellen; Veto schuetzt GF nicht vor Strafbarkeit
-- Pauschal-Veto über alle Beschlüsse: Nichtigkeit nach § 138 BGB möglich (OLG Frankfurt 2021)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Veto in der Insolvenzsituation: GF MUSS nach Paragraf 15a InsO stellen; Veto schuetzt GF nicht vor Strafbarkeit
+- Pauschal-Veto über alle Beschlüsse: Nichtigkeit nach Paragraf 138 BGB möglich (OLG Frankfurt 2021)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Personenbezogenes Veto bei Erbfall: prüfen ob Erben das Vetorecht erben sollen oder es erloeschen soll
 
 ## Quellen und Vertiefung
 
-- §§ 3, 47, 47 IV GmbHG; §§ 138, 242 BGB; § 15a InsO; § 31 StaRUG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Paragraf 3, 47, 47 IV GmbHG; Paragraf 138, 242 BGB; Paragraf 15a InsO; Paragraf 31 StaRUG
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills

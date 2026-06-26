@@ -24,13 +24,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Routing-Heuristik Gesellschaftsrecht
 - Gründung GmbH → GmbHG; Mindestkapital 25.000 EUR, Hälfte einzubringen; UG (haftungsbeschränkt) mit 1 EUR.
-- AG → AktG; Mindestkapital 50.000 EUR; Satzungsstrenge § 23 Abs. 5.
+- AG → AktG; Mindestkapital 50.000 EUR; Satzungsstrenge Paragraf 23 Abs. 5.
 - Personengesellschaften → Seit 1.1.2024 MoPeG; eGbR mit Eintragung, OHG, KG.
-- Anteilsabtretung GmbH → § 15 Abs. 3 GmbHG notarielle Form; AG-Aktien grds. formfrei.
-- Gesellschafterversammlung → §§ 47 ff. GmbHG, §§ 118 ff. AktG; Ladungsfrist, Tagesordnung, Beschlussfähigkeit.
-- Verschmelzung/Spaltung → UmwG; Verschmelzungsbericht §§ 8 ff. UmwG.
-- Konzernrecht → §§ 15-22 AktG, GmbH-Konzernrecht richterrechtlich; Vertragskonzern §§ 291 ff. AktG.
-- Geschäftsführer-Haftung → §§ 43 GmbHG, 93 AktG; D&O-Versicherung mit Selbstbehalt.
+- Anteilsabtretung GmbH → Paragraf 15 Abs. 3 GmbHG notarielle Form; AG-Aktien grds. formfrei.
+- Gesellschafterversammlung → Paragraf 47 ff. GmbHG, Paragraf 118 ff. AktG; Ladungsfrist, Tagesordnung, Beschlussfähigkeit.
+- Verschmelzung/Spaltung → UmwG; Verschmelzungsbericht Paragraf 8 ff. UmwG.
+- Konzernrecht → Paragraf 15-22 AktG, GmbH-Konzernrecht richterrechtlich; Vertragskonzern Paragraf 291 ff. AktG.
+- Geschäftsführer-Haftung → Paragraf 43 GmbHG, 93 AktG; D&O-Versicherung mit Selbstbehalt.
 
 ## Praxis-Hinweis
 - MoPeG (1.1.2024): GbR kann eingetragen werden (eGbR); für Grundbuch- und Registereintrag der GbR-Gesellschafter Eintragung wesentlich.

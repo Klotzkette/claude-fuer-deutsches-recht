@@ -64,6 +64,16 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Antrag, Eröffnungsgrund, Zuständigkeit, Gläubigerinteresse und Massekostendeckung sind getrennt.
+2. Sicherungsmaßnahmen nach Paragraf 21 InsO sind erforderlich, geeignet, verhältnismäßig und befristet.
+3. Gutachtenauftrag, Anhörung und vorläufige Verwaltung sind aktenkundig begründet.
+4. Eigenverwaltung, Schutzschirm, Plan oder Restrukturierungspfad werden nicht vermischt.
+5. Beschlusswirkungen, Bekanntmachung, Rechtsmittel und Vollzug sind eindeutig.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

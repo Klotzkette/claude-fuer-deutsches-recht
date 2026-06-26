@@ -19,7 +19,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **gesellschafts
 
 ## Fachliche Anker
 
-- BGB §§ 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
+- BGB Paragraf 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
 - Organ, Vertretung, Beschluss, Ladung, Mehrheit, Registervollzug, Treuepflicht und Haftung getrennt prüfen.
 - Cap Table, Gesellschafterliste, Satzung, Protokoll, Registerstand und Nebenabreden nie vermischen.
 
@@ -34,15 +34,15 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **gesellschafts
 ## Ergänzende Hinweise
 
 ## Schlüsselfristen Gesellschaftsrecht
-- Anfechtungsklage AG-Hauptversammlungsbeschluss: ein Monat ab Beschluss (§ 246 Abs. 1 AktG).
-- Nichtigkeitsklage AG-Hauptversammlungsbeschluss: drei Jahre ab Eintragung (§ 242 AktG).
-- GmbH-Gesellschafterbeschluss-Anfechtung: nach hM analog § 246 AktG ein Monat (BGH ständige Rspr.); im Gesellschaftsvertrag abweichend regelbar.
-- Eintragungspflichten Handelsregister: unverzüglich (§ 12 HGB); Ordnungsgeld bei Verstoß (§§ 14, 79 HGB).
-- Bilanzpublizität: bei großen/mittleren KapG binnen zwölf Monaten (§ 325 HGB); Ordnungsgeldverfahren bei Verstoß.
-- Insolvenzantragspflicht §§ 15a Abs. 1 InsO: drei Wochen Zahlungsunfähigkeit, sechs Wochen Überschuldung (Lebenswirklichkeit MoPeG geändert).
-- Transparenzregister: Mitteilungspflichten unverzüglich (§ 19 GwG).
+- Anfechtungsklage AG-Hauptversammlungsbeschluss: ein Monat ab Beschluss (Paragraf 246 Abs. 1 AktG).
+- Nichtigkeitsklage AG-Hauptversammlungsbeschluss: drei Jahre ab Eintragung (Paragraf 242 AktG).
+- GmbH-Gesellschafterbeschluss-Anfechtung: nach hM analog Paragraf 246 AktG ein Monat (BGH ständige Rspr.); im Gesellschaftsvertrag abweichend regelbar.
+- Eintragungspflichten Handelsregister: unverzüglich (Paragraf 12 HGB); Ordnungsgeld bei Verstoß (Paragraf 14, 79 HGB).
+- Bilanzpublizität: bei großen/mittleren KapG binnen zwölf Monaten (Paragraf 325 HGB); Ordnungsgeldverfahren bei Verstoß.
+- Insolvenzantragspflicht Paragraf 15a Abs. 1 InsO: drei Wochen Zahlungsunfähigkeit, sechs Wochen Überschuldung (Lebenswirklichkeit MoPeG geändert).
+- Transparenzregister: Mitteilungspflichten unverzüglich (Paragraf 19 GwG).
 - MoPeG (1.1.2024): eGbR-Eintragung freiwillig, aber Voraussetzung für bestimmte Geschäfte (Grundbuch, Registereintragung).
 
 ## Trade-off
-- Verschmelzung (§§ 2 ff. UmwG) vs. Asset-Deal: Verschmelzung Gesamtrechtsnachfolge ohne Einzelübertragung, aber komplex und SteuerEinbringung; Asset-Deal selektiv aber Einzelübertragung erforderlich.
-- AG (§ 23 AktG Satzungsstrenge, hohes Mindestkapital, Mitbestimmung ab 500 AN) vs. GmbH (flexibler, kein zwingender AR bei <500 AN).
+- Verschmelzung (Paragraf 2 ff. UmwG) vs. Asset-Deal: Verschmelzung Gesamtrechtsnachfolge ohne Einzelübertragung, aber komplex und SteuerEinbringung; Asset-Deal selektiv aber Einzelübertragung erforderlich.
+- AG (Paragraf 23 AktG Satzungsstrenge, hohes Mindestkapital, Mitbestimmung ab 500 AN) vs. GmbH (flexibler, kein zwingender AR bei <500 AN).

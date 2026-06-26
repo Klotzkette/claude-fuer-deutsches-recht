@@ -11,7 +11,7 @@ Diese Quellenkarte sichert für **Gesellschaftsrecht** jede tragende Aussage ab:
 
 ## Tragende Normen (live prüfen)
 
-- **GmbHG, AktG, HGB, BGB §§ 705 ff.** — amtlichen Stand vor tragender Aussage prüfen
+- **GmbHG, AktG, HGB, BGB Paragraf 705 ff.** — amtlichen Stand vor tragender Aussage prüfen
 - **UmwG** — amtlichen Stand vor tragender Aussage prüfen
 - **MitbestG** — amtlichen Stand vor tragender Aussage prüfen
 
@@ -29,8 +29,8 @@ Diese Quellenkarte sichert für **Gesellschaftsrecht** jede tragende Aussage ab:
 
 ## Fristen mit Quellenrelevanz
 
-- Anfechtungsklage 1 Monat § 246 AktG
-- Bilanzpublizität § 325 HGB
+- Anfechtungsklage 1 Monat Paragraf 246 AktG
+- Bilanzpublizität Paragraf 325 HGB
 
 ## Prüfroute
 

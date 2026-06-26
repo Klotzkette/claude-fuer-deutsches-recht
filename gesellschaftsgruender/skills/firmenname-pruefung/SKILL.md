@@ -1,6 +1,6 @@
 ---
 name: firmenname-pruefung
-description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlu..."
+description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: Paragraf 17 18 HGB, Paragraf 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlu..."
 ---
 
 # Firmenname-Prüfung
@@ -9,14 +9,14 @@ description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Diff
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Firmenname-Prüfung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -27,24 +27,24 @@ Klaere mindestens 2 Wochen vor Notar-Termin:
 
 1. **3-5 Wunsch-Firmen bereit?** Immer Alternativen vorbereiten; Plan A kann beanstandet werden.
 2. **Branchenbezeichnung im Namen?** Prüfen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
-3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung prüfen (§ 12 BGB).
+3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung prüfen (Paragraf 12 BGB).
 4. **Marken-Relevanz?** Bei Startup oder Brand mit Aussenauftritt: DPMA/EUIPO-Recherche vor Eintragung.
 5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten prüfen; schwer aussprechbare Namen vermeiden.
 6. **Domain bereits gesichert?** Domain VOR Notar-Termin sichern; nachtraeglich oft nicht mehr verfuegbar.
 
 ## Zentrale Normen
 
-- **§ 17 HGB** — Firma ist der Name, unter dem Kaufmann im Handelsverkehr auftritt
-- **§ 18 I HGB** — Kennzeichnungsgeeignetheit der Firma
-- **§ 18 II HGB** — Irreführungsverbot; keine Firma, die zur Taeuschung geeignet ist
-- **§ 19 HGB** — Pflicht-Rechtsform-Zusatz (GmbH, AG, OHG, KG usw.)
-- **§ 30 HGB** — Verwechslungsgefahr; am Ort Pflicht zur Unterscheidbarkeit von bestehenden Firmen
-- **§ 12 BGB** — Namensrecht; Schutz des Namensrechts bei Verwendung fremder Namen
-- **§ 14 MarkenG** — Verletzung einer eingetragenen Marke durch Firmenname; Unterlassungsanspruch
+- **Paragraf 17 HGB** — Firma ist der Name, unter dem Kaufmann im Handelsverkehr auftritt
+- **Paragraf 18 I HGB** — Kennzeichnungsgeeignetheit der Firma
+- **Paragraf 18 II HGB** — Irreführungsverbot; keine Firma, die zur Taeuschung geeignet ist
+- **Paragraf 19 HGB** — Pflicht-Rechtsform-Zusatz (GmbH, AG, OHG, KG usw.)
+- **Paragraf 30 HGB** — Verwechslungsgefahr; am Ort Pflicht zur Unterscheidbarkeit von bestehenden Firmen
+- **Paragraf 12 BGB** — Namensrecht; Schutz des Namensrechts bei Verwendung fremder Namen
+- **Paragraf 14 MarkenG** — Verletzung einer eingetragenen Marke durch Firmenname; Unterlassungsanspruch
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema: Firmennamen-Check
 
@@ -111,14 +111,14 @@ Naechste Schritte:
 ## Rote Schwellen
 
 - Branchenbezeichnung "Bank", "Versicherung", "Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
-- Verwechslungsgefahr mit bestehender Firma im Registerbereich: Beanstandung HR-Gericht (§ 30 HGB)
-- Fremder Name ohne Berechtigung: Namensklage nach § 12 BGB; Unterlassung und Schadenersatz
+- Verwechslungsgefahr mit bestehender Firma im Registerbereich: Beanstandung HR-Gericht (Paragraf 30 HGB)
+- Fremder Name ohne Berechtigung: Namensklage nach Paragraf 12 BGB; Unterlassung und Schadenersatz
 - Marken-Verletzung durch Firmennamen: Unterlassungsklage; Umfirmierungspflicht; erhebliche Kosten
 
 ## Quellen und Vertiefung
 
-- §§ 17-30 HGB (Firmenrecht), § 12 BGB, § 14 MarkenG
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Paragraf 17-30 HGB (Firmenrecht), Paragraf 12 BGB, Paragraf 14 MarkenG
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 ## Übergabe an andere Skills

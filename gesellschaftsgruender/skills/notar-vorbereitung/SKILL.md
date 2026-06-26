@@ -1,6 +1,6 @@
 ---
 name: notar-vorbereitung
-description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmel..."
+description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: Paragraf 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmel..."
 ---
 
 # Notar-Vorbereitung
@@ -9,14 +9,14 @@ description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Voll
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Notar-Vorbereitung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -32,16 +32,16 @@ description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Voll
 
 ## Zentrale Normen
 
-- **§ 2 GmbHG** — Beurkundungspflicht: GmbH-Gründung muss notariell beurkundet werden; Musterprotokoll möglich (§ 2a GmbHG).
-- **§ 17 BeurkG** — Belehrungspflicht des Notars: Notar muss Inhalt vollständig vorlesen und erläutern; Beteiligten Zeit zu Rückfragen geben.
-- **§§ 16a-d BeurkG** — Online-Beurkundung nach DiRUG: Videokonferenz-Verfahren; nur Bargründung.
-- **§ 5 Abs. 4 GmbHG** — Sachgründungsbericht: bei Sacheinlage Werthaltigkeit dokumentieren.
-- **§ 9 GmbHG** — Differenzhaftung: Gesellschafter haftet für Wertunterschied wenn Sacheinlage unter angemeldeten Wert fällt.
-- **§ 23 AktG** — AG-Satzung: notarielle Beurkundung; höhere Anforderungen als GmbH.
+- **Paragraf 2 GmbHG** — Beurkundungspflicht: GmbH-Gründung muss notariell beurkundet werden; Musterprotokoll möglich (Paragraf 2a GmbHG).
+- **Paragraf 17 BeurkG** — Belehrungspflicht des Notars: Notar muss Inhalt vollständig vorlesen und erläutern; Beteiligten Zeit zu Rückfragen geben.
+- **Paragraf 16a-d BeurkG** — Online-Beurkundung nach DiRUG: Videokonferenz-Verfahren; nur Bargründung.
+- **Paragraf 5 Abs. 4 GmbHG** — Sachgründungsbericht: bei Sacheinlage Werthaltigkeit dokumentieren.
+- **Paragraf 9 GmbHG** — Differenzhaftung: Gesellschafter haftet für Wertunterschied wenn Sacheinlage unter angemeldeten Wert fällt.
+- **Paragraf 23 AktG** — AG-Satzung: notarielle Beurkundung; höhere Anforderungen als GmbH.
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Kosten-Überblick (GNotKG 2026)
 
@@ -56,7 +56,7 @@ description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Voll
 
 ## Musterprotokoll vs. Individuelle Satzung
 
-| Kriterium | Musterprotokoll (§ 2a GmbHG) | Individuelle Satzung |
+| Kriterium | Musterprotokoll (Paragraf 2a GmbHG) | Individuelle Satzung |
 |---|---|---|
 | Gesellschafter | Max. 3 | Unbegrenzt |
 | Geschäftsführer | Max. 1 | Mehrere |
@@ -132,10 +132,10 @@ T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 
 ## Quellen und Vertiefung
 
-- §§ 2, 2a, 5, 7, 9 GmbHG (Beurkundung, Musterprotokoll, Sachgründung)
-- §§ 16a-d, 17, 40 BeurkG (Online-Beurkundung, Belehrungspflicht)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/Emmerich, GmbHG, § 2 Rn. 1-30
+- Paragraf 2, 2a, 5, 7, 9 GmbHG (Beurkundung, Musterprotokoll, Sachgründung)
+- Paragraf 16a-d, 17, 40 BeurkG (Online-Beurkundung, Belehrungspflicht)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/Emmerich, GmbHG, Paragraf 2 Rn. 1-30
 
 ## Übergabe an andere Skills
 

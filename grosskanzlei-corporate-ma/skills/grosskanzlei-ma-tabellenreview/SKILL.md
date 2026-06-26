@@ -7,14 +7,14 @@ description: "Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpun
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Freistehender Tabellenreview
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Kernsachverhalt
 
@@ -38,12 +38,12 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 
 | Norm / Standard | Regelungsinhalt |
 |---|---|
-| §§ 242 ff. HGB | Grundsätze ordnungsmäßiger Buchführung (GoB); Vollständigkeitsgebot, Wahrheitsgebot, Klarheitsgebot |
+| Paragraf 242 ff. HGB | Grundsätze ordnungsmäßiger Buchführung (GoB); Vollständigkeitsgebot, Wahrheitsgebot, Klarheitsgebot |
 | IDW S 1 | Grundsätze zur Durchführung von Unternehmensbewertungen; Plausibilisierungsanforderungen an Finanzmodelle |
-| § 264 HGB | Jahresabschluss muss ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermitteln |
-| § 256a HGB | Wechselkursumrechnung bei Fremdwährungsposten; Stichtagskurs |
+| Paragraf 264 HGB | Jahresabschluss muss ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage vermitteln |
+| Paragraf 256a HGB | Wechselkursumrechnung bei Fremdwährungsposten; Stichtagskurs |
 | SPA-Kaufpreisklauseln | Completion Accounts, Locked Box, Leakage, Net Debt-Definition; Zahlengrundlage für Kaufpreisanpassung |
-| §§ 249, 252 HGB | Rückstellungspflicht und Stetigkeitsgrundsatz; Bilanzierungswahlrechte |
+| Paragraf 249, 252 HGB | Rückstellungspflicht und Stetigkeitsgrundsatz; Bilanzierungswahlrechte |
 
 ### Leitentscheidungen
 
@@ -53,7 +53,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 
 ## Prüfschema / Review-Würfel
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Das folgende Prüfschema ist eine Standardlinie. Wenn die Mandantenlage abweicht, werden die Schritte gekürzt, umgestellt oder an einen Spezialskill übergeben. Maßgeblich ist ein belastbares Ergebnis, nicht das Abarbeiten einer Tabelle.
 
 | Schritt | Prüfungspunkt | Inhalt | Status |
 |---|---|---|---|
@@ -63,7 +63,7 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 | 4 | Blattdefinition (Workstreams) | Legal, Tax, Finance, Commercial, ESG/Compliance, Employment, IP/IT, Regulatory, PMI | Blätter definiert |
 | 5 | Zellenstatus vergeben | `leer`, `belegt`, `widersprüchlich`, `prüfen`, `nicht anwendbar` | Grid-Status |
 | 6 | Formeln und Rechenlogik prüfen | Summen nachrechnen; SVERWEIS/XVERWEIS auf Quellen prüfen; Prozentsätze mit Nenner und Stichtag verifizieren | Formelprüfung |
-| 7 | Währung und Stichtag prüfen | Konsistente Währung (EUR, USD); einheitlicher Stichtag (Abschluss-Stichtag, Signing-Stichtag); § 256a HGB | Stichtag klar |
+| 7 | Währung und Stichtag prüfen | Konsistente Währung (EUR, USD); einheitlicher Stichtag (Abschluss-Stichtag, Signing-Stichtag); Paragraf 256a HGB | Stichtag klar |
 | 8 | Kreuzblatt-Widersprüche | Umsatz Finance vs. Commercial; Headcount HR vs. Lohnliste; IP-Portfolio Legal vs. Patentregister | Widersprüche markiert |
 | 9 | Material-Schwellen-Filter | Alle Posten über Materiality-Schwelle (EUR [X]) hervorheben; Cluster-Analyse für kumulative Werte | Material Items Liste |
 | 10 | Change-of-Control-Screening | Alle Verträge mit CoC-Klausel identifizieren; Zustimmungspflicht, Kündigungsrecht, Kaufrecht | CoC-Liste |
@@ -78,8 +78,8 @@ Tabellen, Datenräume und Dokumentenmatrizen in M&A-Transaktionen sind fehleranf
 | Anforderung | Norm / Standard | Konsequenz bei Fehler |
 |---|---|---|
 | Vollständigkeit der Datengrundlage | IDW S 1; SPA (Rep & Warranties) | Garantieverletzung; Kaufpreisminderung |
-| Korrekte Formellogik | GoB (§§ 242 ff. HGB) | Haftung für fehlerhafte Entscheidungen |
-| Konsistente Stichtage | § 256a HGB; SPA-Closing Accounts | Kaufpreisanpassungsanspruch |
+| Korrekte Formellogik | GoB (Paragraf 242 ff. HGB) | Haftung für fehlerhafte Entscheidungen |
+| Konsistente Stichtage | Paragraf 256a HGB; SPA-Closing Accounts | Kaufpreisanpassungsanspruch |
 | Vollständige Vertragsanlage | Disclosure Obligation (SPA) | Garantieverletzung, Schadensersatz |
 
 ## Fristen und zeitliche Aspekte
@@ -192,7 +192,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 | Schadensfall | Ansatz | Hinweis |
 |---|---|---|
-| Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+| Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 | Garantieverletzung wegen fehlender Unterlagen | Differenz tatsächlicher vs. garantierter Wert | SPA Rep & Warranties |
 | Schadensersatz wegen CoC-Verletzung | Vertragsstrafrisiko + Neuverhandlungskosten | Wichtigste CoC-Verträge priorisieren |
 
@@ -213,5 +213,5 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- §§ 242, 249, 252, 256a, 264 HGB; IDW S 1
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Paragraf 242, 249, 252, 256a, 264 HGB; IDW S 1

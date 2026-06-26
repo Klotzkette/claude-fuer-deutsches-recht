@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, Aufsichtsrat), markiert Frist (Anfechtungsklage 1 Monat § 246 AktG), wählt Norm (GmbHG, AktG, HGB, BGB §§ 705 ff., UmwG, MitbestG) und Zuständigkeit (Handelsregister), leitet zu..."
+description: "Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle (Gesellschafter/Aktionäre, Geschäftsführung/Vorstand, Aufsichtsrat), markiert Frist (Anfechtungsklage 1 Monat Paragraf 246 AktG), wählt Norm (GmbHG, AktG, HGB, BGB Paragraf 705 ff., UmwG, MitbestG) und Zuständigkeit (Handelsregister), leitet zu..."
 ---
 
 # Einstieg und Routing

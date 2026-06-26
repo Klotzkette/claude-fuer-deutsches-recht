@@ -1,18 +1,17 @@
 ---
 name: 01-akte-erstdurchsicht-und-anfangsverdacht
-description: "Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO"
+description: "Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, Anfangsverdacht, Beschuldigtenstatus, Verjährung, Zuständigkeit und erste Ermittlungsrichtung nach StPO."
 ---
 
 # 01 Akte-Erstdurchsicht und Anfangsverdacht
 
 ## Zweck
 
-Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO
+Der Skill macht aus einem neuen Vorgang eine belastbare erste Dezernatsentscheidung. Er trennt Anzeige, Tatsachenkern, bloße Bewertung, Beschuldigtenstatus, Zuständigkeit, Verjährung, Beweisziel und nächste Verfügung, damit die Akte nicht mit einem unklaren Ermittlungsauftrag startet.
 
 ## Rolle
 
-
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
+Arbeitsmodus für den Amtsanwalt bei der Staatsanwaltschaft. Die Prüfung denkt aus Legalitätsprinzip, Objektivitätspflicht und Sachleitungsrolle: belastende und entlastende Umstände werden gleich früh gesehen, Eingriffe werden nur aus einem konkreten Beweisziel heraus veranlasst.
 
 ## Rechtsrahmen
 
@@ -20,16 +19,17 @@ StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
-4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+1. Aktenkopf erfassen: Eingangsdatum, Anzeigeerstatter, betroffene Person, möglicher Beschuldigter, Tatzeit, Tatort, Deliktsskizze, Strafantrag und Fristen.
+2. Tatsachenkern vom Werturteil trennen: Welche wahrnehmbaren Tatsachen tragen den Verdacht, welche Behauptungen sind nur Schlussfolgerung?
+3. Anfangsverdacht prüfen: zureichende tatsächliche Anhaltspunkte nach Paragraf 152 Absatz 2 StPO ausdrücklich bejahen, verneinen oder als nachfragebedürftig markieren.
+4. Verfahrenshindernisse vorziehen: Verjährung, Strafantrag, Immunität, Tod, anderweitige Rechtshängigkeit, Spezialzuständigkeit, Jugendbezug und Privatklagedelikt.
+5. Ermittlungsziel festlegen: genau benennen, welche Tatsache durch welches Beweismittel geklärt werden soll.
+6. Eingriffsschwellen prüfen: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, Vermögensarrest und Vorführung nur mit Beweisziel, Zuständigkeit und Verhältnismäßigkeit.
+7. Abschlussoption als Arbeitshypothese festhalten: Einstellung, Opportunität, Strafbefehl, Anklage, Abgabe, Verbindung, Trennung oder Wiedervorlage.
 
 ## Output
 
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+Strukturierter Erstdurchsichtsvermerk mit Verdachtssatz, Zuständigkeitsvermerk, Verfahrenshindernissen, Beweisziel, entlastenden Umständen, Eingriffsprüfung, konkreter Verfügung und Wiedervorlageziel.
 
 ## Normen & Rechtsprechung
 
@@ -43,15 +43,25 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 1. Akte-Erstdurchsicht und Anfangsverdacht: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
 2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
 3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
-4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und dienstliche Verschwiegenheit sichtbar absichern.
 5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
+
+## Anfängerfehler-Bremse
+
+| Fehlerquelle | Korrektur im Vermerk | Praktischer Satz |
+| --- | --- | --- |
+| Verdacht zu dünn | Tatsachenbasis vor Maßnahme klären | Der Anfangsverdacht beruht derzeit auf [Tatsache]; offen ist [Lücke]. |
+| Tatvorwurf zu breit | Delikt und Tatkern begrenzen | Gegenstand der Prüfung ist zunächst nur [konkrete Tat], nicht [Randgeschehen]. |
+| Entlastung übersehen | Paragraf 160 Absatz 2 StPO als eigene Zeile | Entlastend ist zu berücksichtigen: [Umstand]; hierzu ist [Beweismittel] beizuziehen. |
+| Eingriff zu früh | Richtervorbehalt und Verhältnismäßigkeit vorziehen | Die Maßnahme ist erforderlich, weil mildere Mittel [nicht ausreichen / noch zu prüfen sind]. |
+| Abschluss unklar | Wiedervorlage mit Entscheidungsspur | Wiedervorlage nach Eingang von [Beweis] zur Entscheidung über [Einstellung / Strafbefehl / Anklage]. |
 
 ## Typische Fallstricke
 
-- Verdachtsgrad wird überschaetzt: blosse Moeglichkeit wird als zureichender Anhaltspunkt behandelt.
-- Verjaehrung oder fehlender Strafantrag werden erst spät erkannt, nachdem Ermittlungsaufwand entstanden ist.
-- Entlastende Umstaende werden in der Erstdurchsicht ausgeblendet, obwohl Paragraf 160 Abs. 2 StPO sie verlangt.
-- Akteninhalte gelangen wegen Paragraf 353b StGB und Paragraf 37 BeamtStG nicht in nicht freigegebene Werkzeuge.
+- Verdachtsgrad wird überschätzt: bloße Möglichkeit wird als zureichender Anhaltspunkt behandelt.
+- Verjährung oder fehlender Strafantrag werden erst spät erkannt, nachdem Ermittlungsaufwand entstanden ist.
+- Entlastende Umstände werden in der Erstdurchsicht ausgeblendet, obwohl Paragraf 160 Abs. 2 StPO sie verlangt.
+- Akteninhalte gelangen wegen Paragraf 353b StGB und Paragraf 37 BeamtStG nicht in nicht freigegebene Kommunikationswege oder Ablagen.
 
 ## Antrags- bzw. Verfügungs-Bausteine
 
@@ -78,7 +88,7 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 - Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
 - Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
 - Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
-- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
+- Stop-Kriterium: Bei Geheimschutz, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

@@ -63,6 +63,17 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Rechtsschutzart, Antrag und Tenor passen zusammen.
+2. Amtsermittlung, Beteiligtenvortrag und Beweiswürdigung sind getrennt dargestellt.
+3. Notwendige Beiladung, Vorverfahren, Klagefrist, Statthaftigkeit und Rechtsschutzbedürfnis sind sichtbar erledigt.
+4. Eilrechtsschutz trennt Anspruch, Grund, Folgenabwägung und Reichweite der Anordnung.
+5. Ermessensfehler werden als Ausfall, Fehlgebrauch, Überschreitung oder Reduktion auf Null benannt.
+6. Artikel 103 Absatz 1 GG und das Verbot der Überraschungsentscheidung sind geprüft; BVerfG, 19.05.1992 - 1 BvR 986/91 dient als Anker.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

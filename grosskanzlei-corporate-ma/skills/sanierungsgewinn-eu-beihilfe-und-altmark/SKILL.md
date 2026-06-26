@@ -1,31 +1,31 @@
 ---
 name: sanierungsgewinn-eu-beihilfe-und-altmark
-description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-M..."
+description: "EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel Paragraf 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-M..."
 ---
 
 # Sanierungsgewinn – EU-Beihilfe und Altmark
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Sanierungsgewinn – EU-Beihilfe und Altmark
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Worum geht es
 
-Sanierungsmaßnahmen können EU-beihilferechtlich relevant werden, wenn sie aus staatlichen Mitteln finanziert werden, einer bestimmten Gesellschaft einen wirtschaftlichen Vorteil verschaffen, den Wettbewerb verfälschen und den Handel zwischen Mitgliedstaaten beeinträchtigen (Art. 107 Abs. 1 AEUV). Der Sanierungsgewinn-Komplex ist mehrfach Gegenstand beihilferechtlicher Auseinandersetzungen gewesen, insbesondere die **Sanierungsklausel § 8c Abs. 1a KStG**. Daneben spielen die **Altmark-Trans-Kriterien** für Ausgleichsleistungen im Bereich öffentlicher Dienstleistungen eine Rolle.
+Sanierungsmaßnahmen können EU-beihilferechtlich relevant werden, wenn sie aus staatlichen Mitteln finanziert werden, einer bestimmten Gesellschaft einen wirtschaftlichen Vorteil verschaffen, den Wettbewerb verfälschen und den Handel zwischen Mitgliedstaaten beeinträchtigen (Art. 107 Abs. 1 AEUV). Der Sanierungsgewinn-Komplex ist mehrfach Gegenstand beihilferechtlicher Auseinandersetzungen gewesen, insbesondere die **Sanierungsklausel Paragraf 8c Abs. 1a KStG**. Daneben spielen die **Altmark-Trans-Kriterien** für Ausgleichsleistungen im Bereich öffentlicher Dienstleistungen eine Rolle.
 
 Liefert die Prüfanleitung für die EU-beihilferechtliche Würdigung im Sanierungsmandat.
 
 ## Wann dieses Modul hilft
 
 - Sanierung einer Gesellschaft mit staatlicher Beteiligung (Bund, Land, Kommune) als Gläubiger oder Gesellschafter.
-- Anwendung der Sanierungsklausel § 8c Abs. 1a KStG.
+- Anwendung der Sanierungsklausel Paragraf 8c Abs. 1a KStG.
 - Sanierung im Energie- oder Daseinsvorsorgesektor mit öffentlich-rechtlicher Dimension.
 - Bürgschaft, Garantie oder Kredit der öffentlichen Hand im Sanierungspaket.
 - Grenzüberschreitende Sanierung mit Beihilfe-Komponenten in mehreren Mitgliedstaaten.
@@ -42,7 +42,7 @@ Nicht dieser Skill, sondern die rein nationalen Sanierungsskills sind primär, w
 - **VO (EU) 1407/2013 (De-minimis-VO)** – Schwelle 300.000 EUR über drei Jahre.
 - **Leitlinien für staatliche Beihilfen zur Rettung und Umstrukturierung nicht finanzieller Unternehmen in Schwierigkeiten** – Kommissionsmitteilung 2014/C 249/01 (in der Aktualfassung Stand 06/2026 prüfen).
 - **EuGH, Urteil vom 24.07.2003 – Altmark Trans, Rs. C-280/00** – die vier Altmark-Kriterien für Ausgleichsleistungen.
-- **§ 8c Abs. 1a KStG** – Sanierungsklausel; Gegenstand der EU-Beihilfeauseinandersetzung.
+- **Paragraf 8c Abs. 1a KStG** – Sanierungsklausel; Gegenstand der EU-Beihilfeauseinandersetzung.
 
 ## / Schritt für Schritt
 
@@ -66,10 +66,10 @@ Nicht dieser Skill, sondern die rein nationalen Sanierungsskills sind primär, w
 10. **Keine Überkompensation.** Ausgleich nicht höher als notwendige Kosten plus angemessener Gewinn.
 11. **Effizienzkriterien.** Vergabe im Wettbewerb oder Vergleich mit effizientem Unternehmen.
 
-**Phase 4 – Sanierungsklausel § 8c Abs. 1a KStG:**
+**Phase 4 – Sanierungsklausel Paragraf 8c Abs. 1a KStG:**
 
 12. Historie: Sanierungsklausel war Gegenstand eines Beihilfeverfahrens der Kommission (Beschluss 2011); EuG-Verfahren; teilweise Annullierung; nationaler Anpassungsprozess.
-13. **Aktuelle Anwendbarkeit Stand 06/2026 prüfen.** Voraussetzungen § 8c Abs. 1a KStG mit aktueller Gesetzesfassung abgleichen; Notifizierungserfordernis im Einzelfall.
+13. **Aktuelle Anwendbarkeit Stand 06/2026 prüfen.** Voraussetzungen Paragraf 8c Abs. 1a KStG mit aktueller Gesetzesfassung abgleichen; Notifizierungserfordernis im Einzelfall.
 
 **Phase 5 – Notifizierung und Verfahren:**
 
@@ -83,7 +83,7 @@ Nicht dieser Skill, sondern die rein nationalen Sanierungsskills sind primär, w
 |---|---|---|
 | Privater Forderungsverzicht | Keine Beihilfe | Standard |
 | Öffentlich-rechtlicher Verzicht (Finanzamt, Bund) | Beihilfe denkbar | Prüfen |
-| § 8c Abs. 1a KStG Sanierungsklausel | Beihilfe diskutiert | Notifizierung prüfen |
+| Paragraf 8c Abs. 1a KStG Sanierungsklausel | Beihilfe diskutiert | Notifizierung prüfen |
 | KfW-Kredit zu Sonderkonditionen | Beihilfe | AGVO oder De-minimis |
 | Bürgschaft Bund/Land | Beihilfe | Notifizierung |
 | Ausgleichszahlung Daseinsvorsorge | Altmark | 4 Kriterien prüfen |
@@ -94,7 +94,7 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 
 - **„Beihilferecht ist immer dann relevant, wenn ein öffentlicher Gläubiger am Tisch sitzt."** Der Bund als Steuergläubiger, das Land als Subventionsgeber, die Kommune als Grundsteuerempfänger – jeder dieser Gläubiger kann durch einen Verzicht Beihilfe gewähren. Das wird in Sanierungs-Lockup-Runden häufig übersehen.
 - **„Notifizierungsverfahren dauert Monate, wenn nicht Jahre."** Die Stillhaltepflicht macht das Notifizierungsverfahren zu einem zeitlichen Risikofaktor. Wer das Closing in vier Monaten plant, kann keine notifizierungspflichtige Beihilfe vorab abrufen. In der Praxis ist die De-minimis-Schwelle der Rettungsanker für kleine Beihilfekomponenten.
-- **„Sanierungsklausel und Beihilferecht – ein Dauerthema."** § 8c Abs. 1a KStG war Gegenstand der Kommissionsentscheidung 2011; das EuG und EuGH-Verfahren haben Teile bestätigt, Teile annulliert; der Gesetzgeber hat reagiert. Wer in 2026 mit der Sanierungsklausel arbeitet, muss die aktuelle Anwendbarkeit prüfen.
+- **„Sanierungsklausel und Beihilferecht – ein Dauerthema."** Paragraf 8c Abs. 1a KStG war Gegenstand der Kommissionsentscheidung 2011; das EuG und EuGH-Verfahren haben Teile bestätigt, Teile annulliert; der Gesetzgeber hat reagiert. Wer in 2026 mit der Sanierungsklausel arbeitet, muss die aktuelle Anwendbarkeit prüfen.
 
 ## SPA-/Plan-Klausel Mustertexte
 
@@ -114,7 +114,7 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 
 - Öffentlich-rechtlicher Verzicht (Steuerverzicht, Subventionsverzicht) wird wie ein privatrechtlicher Verzicht behandelt; Beihilfeprüfung übersehen.
 - De-minimis-Schwelle bei kumulierter Betrachtung überschritten; Notifizierungspflicht.
-- Sanierungsklausel § 8c Abs. 1a KStG ohne aktuelle Anwendbarkeitsprüfung herangezogen.
+- Sanierungsklausel Paragraf 8c Abs. 1a KStG ohne aktuelle Anwendbarkeitsprüfung herangezogen.
 - Stillhaltepflicht nach Art. 108 AEUV nicht beachtet; Sanierung wird vor Notifizierung umgesetzt.
 - Altmark-Kriterien bei Ausgleichsleistungen Daseinsvorsorge nicht geprüft; Notifizierungspflicht.
 
@@ -126,7 +126,7 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 - VO (EU) 1407/2013 (De-minimis-VO) – EUR-Lex.
 - Leitlinien Rettungs- und Umstrukturierungsbeihilfen 2014/C 249/01 – EUR-Lex.
 - EuGH, Urteil vom 24.07.2003 – Altmark Trans, Rs. C-280/00 – prüfbar über curia.europa.eu.
-- Kommissionsentscheidung 2011 zur Sanierungsklausel § 8c Abs. 1a KStG – Verifizierung über eur-lex.europa.eu; EuG- und EuGH-Verfahren; jeweilige Anwendbarkeit Stand 06/2026.
-- § 8c Abs. 1a KStG; § 3a EStG; § 7b GewStG – gesetze-im-internet.de.
+- Kommissionsentscheidung 2011 zur Sanierungsklausel Paragraf 8c Abs. 1a KStG – Verifizierung über eur-lex.europa.eu; EuG- und EuGH-Verfahren; jeweilige Anwendbarkeit Stand 06/2026.
+- Paragraf 8c Abs. 1a KStG; Paragraf 3a EStG; Paragraf 7b GewStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.

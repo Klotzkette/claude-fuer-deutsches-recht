@@ -1,20 +1,20 @@
 ---
 name: umwandlungssteuerrecht-buchwertantrag
-description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungs..."
+description: "Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. Paragraf 20-24 UmwStG Einbringung, Paragraf 8c KStG Verlustuntergang, Paragraf 6a GrEStG Grunderwerbsteuer-Ergaenzungs..."
 ---
 
 # Umwandlungssteuerrecht
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Umwandlungssteuerrecht
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- InsO §§ 15a, 17, 18, 19, 129 ff., 270 ff. für Insolvenzreife, Antragspflicht und Anfechtung.
-- StaRUG §§ 1, 9 ff. und 49 ff. für Früherkennung, Plan und Stabilisierung.
-- BGB §§ 134, 138, 280, 311 Abs. 2 und 826 für Haftungs- und Sittenwidrigkeitsfragen.
-- UmwStG §§ 20 bis 24 und § 8c KStG nur mit Steuerteam verifizieren.
+- InsO Paragraf 15a, 17, 18, 19, 129 ff., 270 ff. für Insolvenzreife, Antragspflicht und Anfechtung.
+- StaRUG Paragraf 1, 9 ff. und 49 ff. für Früherkennung, Plan und Stabilisierung.
+- BGB Paragraf 134, 138, 280, 311 Abs. 2 und 826 für Haftungs- und Sittenwidrigkeitsfragen.
+- UmwStG Paragraf 20 bis 24 und Paragraf 8c KStG nur mit Steuerteam verifizieren.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -101,7 +101,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -109,43 +109,43 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Triage — klaere mit Steuerteam vor Strukturentscheidung
 
-1. Soll die Umwandlung zu Buchwerten erfolgen — §§ 11, 13 UmwStG (Verschmelzung), §§ 15, 20 UmwStG (Spaltung/Einbringung)? Antrag erforderlich?
-2. Ist die steuerliche Rueckwirkungsfrist einzuhalten — § 2 Abs. 1 UmwStG: maximal 12 Monate vor Anmeldung beim HR?
-3. Gibt es steuerliche Verlustvortraege — § 8c KStG Verlustuntergang bei mehr als 50 % Anteilserwerb in 5 Jahren; Sanierungsklausel § 8c Abs. 1a KStG anwendbar?
-4. Ist der Grunderwerbsteuer-Ergaenzungstatbestand ausgeloct — § 1 Abs. 2a, 2b GrEStG: 90 % Anteilsuebergang an grundbesitzender Gesellschaft = GrESt-Pflicht?
-5. Welche Sperrfristen sind zu beachten — § 22 UmwStG: 7 Jahre nach Einbringung kein schaedlicher Anteilsverkauf (sonst rueckwirkende Entstrickung)?
-6. Gibt es Organschaft (§§ 14-19 KStG) — koennte Umwandlung Organschaft beenden?
+1. Soll die Umwandlung zu Buchwerten erfolgen — Paragraf 11, 13 UmwStG (Verschmelzung), Paragraf 15, 20 UmwStG (Spaltung/Einbringung)? Antrag erforderlich?
+2. Ist die steuerliche Rueckwirkungsfrist einzuhalten — Paragraf 2 Abs. 1 UmwStG: maximal 12 Monate vor Anmeldung beim HR?
+3. Gibt es steuerliche Verlustvortraege — Paragraf 8c KStG Verlustuntergang bei mehr als 50 % Anteilserwerb in 5 Jahren; Sanierungsklausel Paragraf 8c Abs. 1a KStG anwendbar?
+4. Ist der Grunderwerbsteuer-Ergaenzungstatbestand ausgeloct — Paragraf 1 Abs. 2a, 2b GrEStG: 90 % Anteilsuebergang an grundbesitzender Gesellschaft = GrESt-Pflicht?
+5. Welche Sperrfristen sind zu beachten — Paragraf 22 UmwStG: 7 Jahre nach Einbringung kein schaedlicher Anteilsverkauf (sonst rueckwirkende Entstrickung)?
+6. Gibt es Organschaft (Paragraf 14-19 KStG) — koennte Umwandlung Organschaft beenden?
 
 ## Zentrale Rechtsgrundlagen
 
-- §§ 11-13 UmwStG — Verschmelzung: Ansatz Buchwert/Zwischenwert/gemeiner Wert; Antrag für Buchwert beim Finanzamt; spaetestens mit Einreichung Steuererklarung
-- §§ 15, 16 UmwStG — Spaltung: Teilbetriebsvoraussetzung für Buchwertansatz; Ausschlussfrist
-- §§ 20-24 UmwStG — Einbringung: Einzeluebertragung oder Ausgliederung gegen Anteile; Buchwert nur wenn qualifizierter Teilbetrieb; Sperrfrist 7 Jahre
-- § 22 UmwStG — Sperrfrist-Verletzung: rueckwirkende Entstrickung; Einbringungsgewinn I/II
-- § 8c KStG — Verlustuntergang: mehr als 50 % Anteilsuebergang (schaedlicher Beteiligungserwerb) in 5 Jahren fuehrt zum vollstaendigen Verlustuntergang; Ausnahmen: Konzernklausel, stille-Reserven-Klausel, Sanierungsklausel
-- §§ 1 Abs. 2a, 2b GrEStG — Grunderwerbsteuer-Ergaenzungstatbestand: 90 % Anteilsuebergang an grundbesitzender Gesellschaft loest GrESt aus; Steuersatz je nach Bundesland 3,5-6,5 %
-- § 3a EStG — steuerfreier Sanierungsertrag bei Forderungsverzicht im Sanierungsplan; Voraussetzungen: Sanierungsabsicht, Sanierungseignung, Sanierungsbeitraege aller Gläubiger
+- Paragraf 11-13 UmwStG — Verschmelzung: Ansatz Buchwert/Zwischenwert/gemeiner Wert; Antrag für Buchwert beim Finanzamt; spaetestens mit Einreichung Steuererklarung
+- Paragraf 15, 16 UmwStG — Spaltung: Teilbetriebsvoraussetzung für Buchwertansatz; Ausschlussfrist
+- Paragraf 20-24 UmwStG — Einbringung: Einzeluebertragung oder Ausgliederung gegen Anteile; Buchwert nur wenn qualifizierter Teilbetrieb; Sperrfrist 7 Jahre
+- Paragraf 22 UmwStG — Sperrfrist-Verletzung: rueckwirkende Entstrickung; Einbringungsgewinn I/II
+- Paragraf 8c KStG — Verlustuntergang: mehr als 50 % Anteilsuebergang (schaedlicher Beteiligungserwerb) in 5 Jahren fuehrt zum vollstaendigen Verlustuntergang; Ausnahmen: Konzernklausel, stille-Reserven-Klausel, Sanierungsklausel
+- Paragraf 1 Abs. 2a, 2b GrEStG — Grunderwerbsteuer-Ergaenzungstatbestand: 90 % Anteilsuebergang an grundbesitzender Gesellschaft loest GrESt aus; Steuersatz je nach Bundesland 3,5-6,5 %
+- Paragraf 3a EStG — steuerfreier Sanierungsertrag bei Forderungsverzicht im Sanierungsplan; Voraussetzungen: Sanierungsabsicht, Sanierungseignung, Sanierungsbeitraege aller Gläubiger
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Zielstruktur mit Corporate-Team abstimmen:** welche Umwandlungsform (Verschmelzung, Ausgliederung, Formwechsel) ist beabsichtigt?
-2. **Verlustvortraege kartieren:** § 8c KStG-Prüfung — bisherige Anteilsuebertragungen der letzten 5 Jahre; Schwellenwerte berechnen; Sanierungsklausel prüfen
-3. **Buchwert-Antrag planen:** Antrag beim zuständigen Finanzamt; Frist (§§ 11 Abs. 1, 20 Abs. 2 UmwStG); ohne Antrag: gemeiner Wert = stille Reserven werden aufgedeckt
-4. **Rueckwirkungsfristen einhalten:** steuerlicher Abschlussstichtag bestimmen; maximal 12 Monate rueckwirkend (§ 2 Abs. 1 UmwStG); HR-Anmeldung als Fristbeginn
-5. **Grunderwerbsteuer prüfen:** grundbesitzende Gesellschaft? § 1 Abs. 2a, 2b GrEStG Schwelle 90 %? Steuersatz; Steuerbefreiung Konzernklausel § 6a GrEStG?
-6. **Sperrfrist-Management:** nach Einbringung nach § 20 UmwStG keine schaedliche Veraeusserung für 7 Jahre; § 22 UmwStG Monitoring einrichten
+2. **Verlustvortraege kartieren:** Paragraf 8c KStG-Prüfung — bisherige Anteilsuebertragungen der letzten 5 Jahre; Schwellenwerte berechnen; Sanierungsklausel prüfen
+3. **Buchwert-Antrag planen:** Antrag beim zuständigen Finanzamt; Frist (Paragraf 11 Abs. 1, 20 Abs. 2 UmwStG); ohne Antrag: gemeiner Wert = stille Reserven werden aufgedeckt
+4. **Rueckwirkungsfristen einhalten:** steuerlicher Abschlussstichtag bestimmen; maximal 12 Monate rueckwirkend (Paragraf 2 Abs. 1 UmwStG); HR-Anmeldung als Fristbeginn
+5. **Grunderwerbsteuer prüfen:** grundbesitzende Gesellschaft? Paragraf 1 Abs. 2a, 2b GrEStG Schwelle 90 %? Steuersatz; Steuerbefreiung Konzernklausel Paragraf 6a GrEStG?
+6. **Sperrfrist-Management:** nach Einbringung nach Paragraf 20 UmwStG keine schaedliche Veraeusserung für 7 Jahre; Paragraf 22 UmwStG Monitoring einrichten
 7. **Organschaft-Auswirkungen:** Umwandlung koennte Organschaft beenden; Verlustausgleich und Ergebnisabfuehrungsvertrag prüfen
 8. **Steuer-Rueckstellung und Haftungsrisiken im SPA adressieren:** Tax Warranties, Tax Indemnity, Steuer-Freistellungsklausel
 
 ## Entscheidungsbaum
 
-- Verlustvortraege vorhanden + mehr als 50 % Anteilserwerb → § 8c KStG → Verlustuntergang → Sanierungsklausel prufen?
-- Einbringung ohne Teilbetrieb → § 20 UmwStG Buchwert nicht möglich → stille Reserven aufzudecken → Steuerbelastung
-- GrEStG § 1 Abs. 2a/2b → 90 % Schwelle → GrESt-Pflicht → Konzernklausel § 6a GrEStG greifen?
+- Verlustvortraege vorhanden + mehr als 50 % Anteilserwerb → Paragraf 8c KStG → Verlustuntergang → Sanierungsklausel prufen?
+- Einbringung ohne Teilbetrieb → Paragraf 20 UmwStG Buchwert nicht möglich → stille Reserven aufzudecken → Steuerbelastung
+- GrEStG Paragraf 1 Abs. 2a/2b → 90 % Schwelle → GrESt-Pflicht → Konzernklausel Paragraf 6a GrEStG greifen?
 - Sperrfrist-Verletzung → Einbringungsgewinn I oder II → rueckwirkende Steuer bis zu 7 Jahre
 
 ## Output-Template: Steuerliche Strukturmatrix
@@ -158,10 +158,10 @@ Deal: [DEALNAME] — Datum: [DATUM]
 
 | Aspekt | Analyse | Risiko | Massnahme |
 |--------|---------|--------|-----------|
-| § 8c KStG Verlustuntergang | [Anteil X % in Y Jahren] | [Hoch/Mittel/Gering] | [Antrag/Gestaltung] |
+| Paragraf 8c KStG Verlustuntergang | [Anteil X % in Y Jahren] | [Hoch/Mittel/Gering] | [Antrag/Gestaltung] |
 | Buchwertansatz UmwStG | [Antrag moeglich/nicht moeglich] | [Entstrickung] | [Antragstellung bis DATUM] |
 | GrESt-Ergaenzungstatbestand | [90 % Schwelle erreicht/nicht] | [GrESt X EUR] | [Konzernklausel] |
-| Sperrfrist § 22 UmwStG | [7-Jahres-Frist bis DATUM] | [Einbringungsgewinn] | [Monitoring] |
+| Sperrfrist Paragraf 22 UmwStG | [7-Jahres-Frist bis DATUM] | [Einbringungsgewinn] | [Monitoring] |
 | Organschaft | [Besteht/Endet durch Umwandlung] | [EAV-Kündigung] | [...] |
 
 Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Frist: [Datum]
@@ -171,7 +171,7 @@ Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Fri
 
 - Steuerliche Annahme ungeprüft: sofortiger Abstimmungsbedarf mit Steuerteam vor Signing
 - Buchwertantrag vergessen: stille Reserven werden aufgedeckt; Steuerlast kann Transaktion gefaehrden
-- § 8c KStG Verlustuntergang nicht erkannt: erhebliche steuerliche Belastung des Kaeufers
+- Paragraf 8c KStG Verlustuntergang nicht erkannt: erhebliche steuerliche Belastung des Kaeufers
 - Sperrfrist-Verletzung: Einbringungsgewinn I/II; rueckwirkende Entstrickungssteuer
 
 ## Standardausgabe
@@ -195,16 +195,16 @@ Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Fri
 
 ### Kuratierte Normen-Bibliothek
 
-- §§ 705 ff. BGB (GbR)
-- §§ 105 ff. HGB (OHG)
-- §§ 161 ff. HGB (KG)
-- §§ 13, 15 GmbHG (Anteilsübertragung)
-- § 53 GmbHG (Satzungsänderung)
-- § 33 GWB, FKVO 139/2004 (Fusionskontrolle)
-- § 311 BGB i.V.m. §§ 433, 453 BGB (Unternehmenskauf, share/asset deal)
-- §§ 25, 28 HGB (Firmenfortführung, Haftung)
-- §§ 2-4 UmwG (Verschmelzung)
-- § 1 InvKG, AWG/AWV §§ 55-62 (Investitionsprüfung)
+- Paragraf 705 ff. BGB (GbR)
+- Paragraf 105 ff. HGB (OHG)
+- Paragraf 161 ff. HGB (KG)
+- Paragraf 13, 15 GmbHG (Anteilsübertragung)
+- Paragraf 53 GmbHG (Satzungsänderung)
+- Paragraf 33 GWB, FKVO 139/2004 (Fusionskontrolle)
+- Paragraf 311 BGB i.V.m. Paragraf 433, 453 BGB (Unternehmenskauf, share/asset deal)
+- Paragraf 25, 28 HGB (Firmenfortführung, Haftung)
+- Paragraf 2-4 UmwG (Verschmelzung)
+- Paragraf 1 InvKG, AWG/AWV Paragraf 55-62 (Investitionsprüfung)
 
 ### Leitentscheidungen
 
@@ -218,4 +218,4 @@ Offene Fragen an Steuerteam: [konkrete Frage] — Verantwortlich: [Name] — Fri
 
 - Share Deal vs. Asset Deal Wahl an Steuer-, Haftungs- und Genehmigungsfolgen, nicht am LMA-Standard ausrichten.
 - W&I-Versicherung nach BGH II ZR 109/13 ergaenzt, ersetzt aber keine Garantien.
-- Fusionskontrolle § 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst § 41 GWB-Vollzugsverbot.
+- Fusionskontrolle Paragraf 39 GWB und FKVO 139/2004: Anmeldepflicht vor Closing prüfen, sonst Paragraf 41 GWB-Vollzugsverbot.

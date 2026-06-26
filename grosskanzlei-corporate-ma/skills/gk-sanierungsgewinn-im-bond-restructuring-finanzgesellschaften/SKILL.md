@@ -10,7 +10,7 @@ description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellsc
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO Paragraf 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -20,20 +20,20 @@ description: "Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellsc
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Fachkern: Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Worum geht es
 
-Bond-Restrukturierungen unterscheiden sich strukturell von klassischen Bankschuldverhältnis-Restrukturierungen: Es gibt eine **anonyme Gläubigerstruktur**, die nur über Mehrheitsentscheidung der Anleihegläubigerversammlung nach Schuldverschreibungsgesetz (SchVG) oder über ein Scheme of Arrangement (englisches Recht) handlungsfähig wird. Die Sanierungsabsicht der Gläubiger im Sinne von § 3a EStG ist hier nicht individuell zu dokumentieren, sondern kollektiv zu beweisen.
+Bond-Restrukturierungen unterscheiden sich strukturell von klassischen Bankschuldverhältnis-Restrukturierungen: Es gibt eine **anonyme Gläubigerstruktur**, die nur über Mehrheitsentscheidung der Anleihegläubigerversammlung nach Schuldverschreibungsgesetz (SchVG) oder über ein Scheme of Arrangement (englisches Recht) handlungsfähig wird. Die Sanierungsabsicht der Gläubiger im Sinne von Paragraf 3a EStG ist hier nicht individuell zu dokumentieren, sondern kollektiv zu beweisen.
 
 Modul für die Bond-Restrukturierung mit Sanierungsgewinn-Wirkung.
 
@@ -49,15 +49,15 @@ Nicht dieser Skill ist primär, wenn nur klassisches Bank-Debt restrukturiert wi
 
 ## Rechtlicher Rahmen
 
-- **§ 3a EStG** – Sanierungsertrag und Tatbestandsmerkmale.
-- **§ 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **§ 7b GewStG** – Gewerbesteuer.
+- **Paragraf 3a EStG** – Sanierungsertrag und Tatbestandsmerkmale.
+- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **Paragraf 7b GewStG** – Gewerbesteuer.
 - **Schuldverschreibungsgesetz (SchVG)** – Anleihegläubigerversammlung, Mehrheitsentscheidung, gemeinsamer Vertreter.
-- **§ 5 SchVG** – Mehrheitsbeschluss; qualifizierte Mehrheit bei wesentlicher Änderung der Anleihebedingungen.
-- **§ 19a SchVG** – Anleihegläubigerversammlung im Insolvenzverfahren.
-- **§ 1 ff. StaRUG** – Restrukturierungsplan mit Bondgläubiger.
-- **§§ 217 ff. InsO** – Insolvenzplan.
-- **§ 5 ff. WpHG / MAR** – Insiderrecht; relevant bei Restrukturierungs-Verhandlung.
+- **Paragraf 5 SchVG** – Mehrheitsbeschluss; qualifizierte Mehrheit bei wesentlicher Änderung der Anleihebedingungen.
+- **Paragraf 19a SchVG** – Anleihegläubigerversammlung im Insolvenzverfahren.
+- **Paragraf 1 ff. StaRUG** – Restrukturierungsplan mit Bondgläubiger.
+- **Paragraf 217 ff. InsO** – Insolvenzplan.
+- **Paragraf 5 ff. WpHG / MAR** – Insiderrecht; relevant bei Restrukturierungs-Verhandlung.
 - **Scheme of Arrangement (UK Companies Act 2006, Part 26 / Part 26A)** – relevant bei deutscher Emittentin mit englischem Anleiherecht.
 - **EuInsVO** – grenzüberschreitendes Insolvenzverfahren.
 
@@ -97,7 +97,7 @@ Nicht dieser Skill ist primär, wenn nur klassisches Bank-Debt restrukturiert wi
 
 **Phase 6 – Verbindliche Auskunft:**
 
-18. § 89 AO-Antrag mit Bezug auf die Bond-Restrukturierungsstruktur.
+18. Paragraf 89 AO-Antrag mit Bezug auf die Bond-Restrukturierungsstruktur.
 19. Antragsformulierung berücksichtigt die kollektive Sanierungsabsicht der Anleihegläubigerversammlung.
 
 ## Trade-off-Matrix
@@ -113,15 +113,15 @@ Nicht dieser Skill ist primär, wenn nur klassisches Bank-Debt restrukturiert wi
 
 Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 
-- **„Lock-up früh, transparent, mit klarer Sanierungsabsicht."** Das Lock-up Agreement der ad-hoc-Gruppe ist das zentrale Dokument. Es muss die Sanierungsabsicht des Anleihegläubigers klar formulieren; es darf nicht als Verkaufsoption getarnt sein. Andernfalls liefert der Mandant der Finanzverwaltung das Argument, dass die Sanierungsabsicht im Sinne von § 3a EStG fehle.
+- **„Lock-up früh, transparent, mit klarer Sanierungsabsicht."** Das Lock-up Agreement der ad-hoc-Gruppe ist das zentrale Dokument. Es muss die Sanierungsabsicht des Anleihegläubigers klar formulieren; es darf nicht als Verkaufsoption getarnt sein. Andernfalls liefert der Mandant der Finanzverwaltung das Argument, dass die Sanierungsabsicht im Sinne von Paragraf 3a EStG fehle.
 - **„SchVG-Mehrheit nicht überschätzen."** Eine qualifizierte Mehrheit von 75 % der vertretenen Stimmen reicht für die wesentliche Änderung der Anleihebedingungen. Aber: die Versammlung ist nur beschlussfähig, wenn mindestens 50 % der ausstehenden Anleihen vertreten sind. In Distressed-Situationen mit verstreuten Kleinhaltern kann die Erreichung dieses Quorums anspruchsvoll werden.
-- **„Scheme of Arrangement ist die Premium-Option."** Wer Cross-Border restrukturiert, sollte das Scheme of Arrangement ernsthaft prüfen. Es bindet auch Holdouts; ist international anerkannt; und löst die § 3a EStG-Frage über das deutsche Steuerrecht der Emittentin sauber.
+- **„Scheme of Arrangement ist die Premium-Option."** Wer Cross-Border restrukturiert, sollte das Scheme of Arrangement ernsthaft prüfen. Es bindet auch Holdouts; ist international anerkannt; und löst die Paragraf 3a EStG-Frage über das deutsche Steuerrecht der Emittentin sauber.
 
 ## SPA-/Plan-Klausel Mustertexte
 
 **Lock-up Agreement Bondgläubiger (Auszug):**
 
-> Lock-up Agreement Anleihegläubiger: Der Anleihegläubiger verpflichtet sich, in der gemäß § 9 SchVG einzuberufenden Anleihegläubigerversammlung für die in Anlage A beigefügten Restrukturierungs-Vorschläge zu stimmen. Der Anleihegläubiger bestätigt, dass die Restrukturierung ausschließlich der Sanierung der Emittentin im Sinne von § 3a Abs. 2 EStG dient. Die Anleihegläubiger wirken in dem dieser Vereinbarung beigefügten Sanierungskonzept (Anlage B) zusammen.
+> Lock-up Agreement Anleihegläubiger: Der Anleihegläubiger verpflichtet sich, in der gemäß Paragraf 9 SchVG einzuberufenden Anleihegläubigerversammlung für die in Anlage A beigefügten Restrukturierungs-Vorschläge zu stimmen. Der Anleihegläubiger bestätigt, dass die Restrukturierung ausschließlich der Sanierung der Emittentin im Sinne von Paragraf 3a Abs. 2 EStG dient. Die Anleihegläubiger wirken in dem dieser Vereinbarung beigefügten Sanierungskonzept (Anlage B) zusammen.
 
 **Anleihegläubigerversammlungsbeschluss (Auszug):**
 
@@ -129,7 +129,7 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 
 **Tauschangebot-Klausel mit Sanierungsbezug:**
 
-> Exchange Offer: Die Emittentin bietet den Anleihegläubigern an, die ausstehende Anleihe [ISIN] zum Nennwert in eine neue Anleihe [neue ISIN] mit reduziertem Nominalbetrag in Höhe von [Prozent] des Ausgangswerts und neuen Konditionen zu tauschen. Der durch den nominalbetragsreduzierten Tausch entstehende Sanierungsertrag bei der Emittentin steht – vorbehaltlich der Voraussetzungen des § 3a EStG – unter Anwendung der Verrechnungsreihenfolge des § 3a Abs. 3 EStG.
+> Exchange Offer: Die Emittentin bietet den Anleihegläubigern an, die ausstehende Anleihe [ISIN] zum Nennwert in eine neue Anleihe [neue ISIN] mit reduziertem Nominalbetrag in Höhe von [Prozent] des Ausgangswerts und neuen Konditionen zu tauschen. Der durch den nominalbetragsreduzierten Tausch entstehende Sanierungsertrag bei der Emittentin steht – vorbehaltlich der Voraussetzungen des Paragraf 3a EStG – unter Anwendung der Verrechnungsreihenfolge des Paragraf 3a Abs. 3 EStG.
 
 ## Typische Fehler in komplexer Transaktion
 
@@ -138,13 +138,13 @@ Drei Beobachtungen aus der Bond-Restrukturierungs-Praxis:
 - MAR Art. 17-Pflicht zur Ad-hoc-Mitteilung nicht beachtet; Insiderverstöße.
 - Scheme of Arrangement ohne ausreichende UK-Connection; englische Gerichte verweigern die Bestätigung.
 - DES mit Bondforderungen ohne Werthaltigkeitsgutachten; Differenzhaftung.
-- § 8c KStG bei DES wird nicht modelliert.
+- Paragraf 8c KStG bei DES wird nicht modelliert.
 
 ## Quellen Stand 06/2026
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8d KStG – gesetze-im-internet.de.
-- SchVG; § 5 SchVG; § 19a SchVG – gesetze-im-internet.de.
-- StaRUG; §§ 217 ff. InsO – gesetze-im-internet.de.
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG – gesetze-im-internet.de.
+- SchVG; Paragraf 5 SchVG; Paragraf 19a SchVG – gesetze-im-internet.de.
+- StaRUG; Paragraf 217 ff. InsO – gesetze-im-internet.de.
 - MAR (EU) 596/2014, Art. 17 – EUR-Lex.
 - UK Companies Act 2006, Part 26, 26A – legislation.gov.uk.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.

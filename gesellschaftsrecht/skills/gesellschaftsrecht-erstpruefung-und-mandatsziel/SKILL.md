@@ -1,13 +1,13 @@
 ---
 name: gesellschaftsrecht-erstpruefung-und-mandatsziel
-description: "Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt im Gesellschaftsrecht."
+description: "Klären von Rechtsform, Rolle, Ziel, Registerlage, Frist, Beschlussweg und Arbeitsprodukt als erste belastbare Mandatslandkarte im Gesellschaftsrecht."
 ---
 
 # Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Aktenstart statt Formularstart
 
-Wenn zu **Gesellschaftsrecht Erstpruefung Und Mandatsziel** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Gesellschaftsrecht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Wenn zur gesellschaftsrechtlichen Erstprüfung bereits Unterlagen, ein Ordner, ein PDF-Bündel, E-Mails, Screenshots, Tabellen oder Entwürfe vorliegen, lies diese zuerst aus. Bilde eine Arbeitshypothese zu Rechtsform, Beteiligten, Registerlage, Organstellung, Beschlussweg, Fristen, Belegen und nächstem sinnvollen Output. Frage nicht routinemäßig nach Angaben, die sich aus der Akte ergeben.
 
 Starte dann mit einer knappen Rueckmeldung:
 
@@ -28,15 +28,21 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Problemfokus dieses Skills:** Nicht mit einem Normenfeuerwerk beginnen. Zuerst klären: Wer darf was von wem bis wann verlangen, verhindern, beschließen oder vollziehen?
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Verlässliche Anker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflicht und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Bedeutung der Gesellschafterliste; weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Organvorlage, Closing-CP-Liste, Treuepflicht-Gegenprüfung, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** AG, HRB, HRA.
+## Mandatslandkarte
+
+| Weiche | Leitfrage | Sofortbeleg | typischer Anschluss |
+| --- | --- | --- | --- |
+| Rechtsform | GmbH, AG, KG, GbR oder Mischform? | Registerauszug, Satzung | Zuständigkeit und Normenradar |
+| Rolle | Gesellschaft, Organ, Gesellschafter, Erwerber, Gläubiger? | Mandat, Vollmacht | Interessenkonflikt und Ziel |
+| Handlung | Beschluss, Vertrag, Liste, Register, Klage, Eilmaßnahme? | Protokoll, Entwurf | Frist und Form |
+| Risiko | Nichtigkeit, Anfechtung, Haftung, Vollzugssperre? | Akte, Fristenblatt | Memo oder Entwurf |
 
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

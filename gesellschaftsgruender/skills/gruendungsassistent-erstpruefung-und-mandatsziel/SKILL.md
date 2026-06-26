@@ -23,14 +23,14 @@ Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widersp
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GmbHG §§ 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB §§ 705 ff. n.F., HGB §§ 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen verifizieren: GmbHG Paragraf 2, 3, 5, 7-11, 13, 15, 16, 35, 40, 46, 47, 48, 51a, 53, 55, 64, BGB Paragraf 705 ff. n.F., HGB Paragraf 105 ff., AktG/UmwG nur bei einschlägiger Strukturmaßnahme sowie Handelsregister-/Notarformvorgaben live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -58,19 +58,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 | Form | Mindestkapital | Gründungskosten | Haftung | Notar | Geeignet für |
 | --- | --- | --- | --- | --- | --- |
-| GbR (§§ 705 ff. BGB, MoPeG-novelliert) | kein | gering | unbeschränkt persönlich §§ 721 BGB | nicht zwingend; Gesellschaftsregister § 707 BGB optional (eGbR) | nicht-kaufmännische Personenzusammenschlüsse |
-| OHG (§§ 105 ff. HGB) | kein | gering | unbeschränkt persönlich § 128 HGB | HR-Anmeldung notariell | Kaufleute, Kleinbetriebe |
-| KG (§§ 161 ff. HGB) | kein, Haftsumme frei wählbar | gering | Komplementär unbeschränkt; Kommanditist auf Haftsumme § 171 HGB | notarielle HR-Anmeldung | Investoren-Beteiligung |
+| GbR (Paragraf 705 ff. BGB, MoPeG-novelliert) | kein | gering | unbeschränkt persönlich Paragraf 721 BGB | nicht zwingend; Gesellschaftsregister Paragraf 707 BGB optional (eGbR) | nicht-kaufmännische Personenzusammenschlüsse |
+| OHG (Paragraf 105 ff. HGB) | kein | gering | unbeschränkt persönlich Paragraf 128 HGB | HR-Anmeldung notariell | Kaufleute, Kleinbetriebe |
+| KG (Paragraf 161 ff. HGB) | kein, Haftsumme frei wählbar | gering | Komplementär unbeschränkt; Kommanditist auf Haftsumme Paragraf 171 HGB | notarielle HR-Anmeldung | Investoren-Beteiligung |
 | GmbH & Co. KG | GmbH 25.000 EUR | mittel | Komplementär-GmbH | notariell | Mittelstand, Steueroptimierung |
-| UG (haftungsbeschränkt) § 5a GmbHG | 1 EUR Stammkapital, Aufstockungspflicht § 5a Abs. 3 GmbHG (25 % Gewinn) | gering, Musterprotokoll § 2 Abs. 1a GmbHG | begrenzt | notariell, vereinfachte Online-Gründung möglich (DiRUG) | Bootstrap-Startup |
-| GmbH | 25.000 EUR, hälftige Einzahlung § 7 GmbHG (12.500 EUR) | mittel | begrenzt § 13 Abs. 2 GmbHG | notariell, Online-Gründung § 2 Abs. 3 GmbHG (DiRUG seit 01.08.2022) | Mittelstand-Standard |
-| AG | 50.000 EUR § 7 AktG | hoch | begrenzt | notariell | kapitalmarktreife Strukturen |
-| PartG mbB | kein | mittel | nur Berufsausübungs-Haftpflicht (§ 8 Abs. 4 PartGG) | nicht zwingend, Partnerschaftsregister | Freiberufler, Sozietäten |
-| gGmbH | 25.000 EUR | mittel | begrenzt | notariell + Finanzamt Gemeinnützigkeit § 52 AO | gemeinnützige Zwecke |
+| UG (haftungsbeschränkt) Paragraf 5a GmbHG | 1 EUR Stammkapital, Aufstockungspflicht Paragraf 5a Abs. 3 GmbHG (25 % Gewinn) | gering, Musterprotokoll Paragraf 2 Abs. 1a GmbHG | begrenzt | notariell, vereinfachte Online-Gründung möglich (DiRUG) | Bootstrap-Startup |
+| GmbH | 25.000 EUR, hälftige Einzahlung Paragraf 7 GmbHG (12.500 EUR) | mittel | begrenzt Paragraf 13 Abs. 2 GmbHG | notariell, Online-Gründung Paragraf 2 Abs. 3 GmbHG (DiRUG seit 01.08.2022) | Mittelstand-Standard |
+| AG | 50.000 EUR Paragraf 7 AktG | hoch | begrenzt | notariell | kapitalmarktreife Strukturen |
+| PartG mbB | kein | mittel | nur Berufsausübungs-Haftpflicht (Paragraf 8 Abs. 4 PartGG) | nicht zwingend, Partnerschaftsregister | Freiberufler, Sozietäten |
+| gGmbH | 25.000 EUR | mittel | begrenzt | notariell + Finanzamt Gemeinnützigkeit Paragraf 52 AO | gemeinnützige Zwecke |
 
 ## Trade-off-Hinweis für Mandantengespräch
 
 - **UG vs. GmbH:** UG spart Stammkapital, kostet aber 25 %-Gewinnthesaurierung und schlechteres Image bei Banken/Lieferanten.
 - **GmbH vs. GmbH & Co. KG:** KG ermöglicht steuerliche Verlustverrechnung beim Kommanditisten, aber komplexere Struktur und höhere laufende Kosten (zwei Jahresabschlüsse).
-- **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (§ 8 Abs. 4 PartGG i.V.m. § 51a BRAO bei Anwälten).
-- **DiRUG-Online-Gründung:** seit 01.08.2022 § 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.
+- **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (Paragraf 8 Abs. 4 PartGG i.V.m. Paragraf 51a BRAO bei Anwälten).
+- **DiRUG-Online-Gründung:** seit 01.08.2022 Paragraf 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.

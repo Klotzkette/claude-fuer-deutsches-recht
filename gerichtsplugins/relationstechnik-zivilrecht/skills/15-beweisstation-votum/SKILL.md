@@ -1,22 +1,21 @@
 ---
 name: 15-beweisstation-votum
-description: "Schriftliches Votum der Beweisstation: Beweisaufnahmebedarf, Beweisbeschluss-Entwurf Paragraf 358a ZPO, antizipierte Beweiswürdigung, Ergebnis offen lassen oder Prognose dokumentieren"
+description: "Schriftliches Votum der Beweisstation: Streitpunkt, Erheblichkeit, Beweislast, Beweismittel, Beweisbeschluss, Würdigung und non-liquet-Folge."
 ---
 
 # 15 Beweisstation Votum
 
 ## Zweck
 
-Schriftliches Votum der Beweisstation: Beweisaufnahmebedarf, Beweisbeschluss-Entwurf Paragraf 358a ZPO, antizipierte Beweiswürdigung, Ergebnis offen lassen oder Prognose dokumentieren
+Der Skill erstellt ein Beweisstationsvotum, das unmittelbar für Terminvorbereitung, Hinweisbeschluss, Beweisbeschluss oder Urteil weiterverwendet werden kann. Es wird nur über Tatsachen Beweis erhoben, die streitig, erheblich, beweisbedürftig und mit einem zulässigen Beweismittel unterlegt sind.
 
 ## Rolle
 
-
-Methodischer Werkstatt-Assistent für die deutsche Relationstechnik im Zivilprozess (Klägerstation, Beklagtenstation, Beweisstation, Urteilsstation). Gerichtsbarkeitsneutral einsetzbar an Amts- und Landgerichten. Du bist kein Richter und entscheidest nicht.
+Arbeitsmodus für die Beweisstation im zivilgerichtlichen Votum. Der Skill führt vom Streitpunkt zur beweisrechtlich sauberen Anschlussentscheidung und schützt vor Ausforschungsbeweis, verfrühter Würdigung und unklarer Beweisthemenfassung.
 
 ## Rechtsrahmen
 
-ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
+ZPO, BGB, HGB, Methodenlehre des Bürgerlichen Rechts
 
 ## Pflichtschritte
 
@@ -55,6 +54,24 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 3. Beweismittel nach Urkunde, Zeuge, Sachverständiger, Augenschein und Parteivernehmung ordnen; Ausforschungsbeweis aussortieren.
 4. Beweisbeschluss mit Beweisthema, Beweismittel, Kostenvorschuss und Fristen gerichtsfest formulieren.
 5. Nach Beweisaufnahme die Würdigung nach Paragraf 286 ZPO nicht mit Beweislastentscheidung verwechseln.
+
+## Beweisstations-Fahrplan
+
+| Schritt | Leitfrage | Fehlerbremse |
+| --- | --- | --- |
+| Streitpunkt | Welche konkrete Tatsache ist nach Kläger- und Beklagtenstation offen? | Rechtsfragen und Wertungen nicht als Beweisthema formulieren. |
+| Erheblichkeit | Würde die Tatsache bei Beweis oder Gegenbeweis die Entscheidung ändern? | Unerhebliche Tatsachen nicht in den Beschluss aufnehmen. |
+| Beweisbedürftigkeit | Ist die Tatsache streitig, bestritten und nicht offenkundig? | Unstreitiges wird festgestellt, nicht bewiesen. |
+| Beweislast | Wer trägt das Risiko des Offenbleibens? | Beweislast vor Beweismittelprüfung festlegen. |
+| Beweismittel | Ist das Mittel zulässig, erreichbar und geeignet? | Ausforschungsbeweis, Zeuge vom Hörensagen und unbestimmte Urkunden sauber kennzeichnen. |
+| Beschluss | Ist das Beweisthema knapp, tatsachenbezogen und vollstreckbar? | Keine Sammelthemen, keine Rechtsbegriffe ohne Tatsachenkern. |
+| Würdigung | Was ist nach Paragraf 286 oder Paragraf 287 ZPO zu bewerten? | Glaubhaftigkeit, Glaubwürdigkeit, Plausibilität, Widersprüche und Aktenfundstellen getrennt würdigen. |
+
+## Muster für den Beweisbeschluss
+
+```text
+Es soll Beweis erhoben werden über die Behauptung der [Partei], [konkrete Tatsache], durch [Beweismittel]. Die Tatsache ist entscheidungserheblich, weil [Auswirkung auf Anspruch/Einwendung/Einrede]. Beweisbelastet ist [Partei].
+```
 
 ## Typische Fallstricke
 

@@ -15,8 +15,8 @@ description: "Liest Datenraum-Dokumente und extrahiert Issues nach den Hauskateg
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `DD-Issue-Extraktion (Findings-Report)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,17 +39,17 @@ Vor dem Start des DD-Reviews folgende Fragen klären:
 
 ## Zentrale Normen
 
-§§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten) — § 442 BGB (Kenntnis des Käufers) — § 443 BGB (Garantien) — § 15 GmbHG (Abtretung GmbH-Anteile) — § 40 GmbHG (Gesellschafterliste) — § 613a BGB (Betriebsübergang) — §§ 35 ff. GWB (Fusionskontrolle) — Art. 28 DSGVO (Auftragsverarbeitung) — §§ 142, 144 ZPO (Urkundenvorlegung)
+Paragraf 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten) — Paragraf 442 BGB (Kenntnis des Käufers) — Paragraf 443 BGB (Garantien) — Paragraf 15 GmbHG (Abtretung GmbH-Anteile) — Paragraf 40 GmbHG (Gesellschafterliste) — Paragraf 613a BGB (Betriebsübergang) — Paragraf 35 ff. GWB (Fusionskontrolle) — Art. 28 DSGVO (Auftragsverarbeitung) — Paragraf 142, 144 ZPO (Urkundenvorlegung)
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Zweck
 
 Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für den Deal entscheidend sind. Dieser Skill liest Dokumente gegen die DD-Kategorien und Wesentlichkeitsschwellen aus dem Praxisprofil, extrahiert Issues und schreibt sie im Hausformat.
 
-**Vorprozessuale Beweiserhebung im deutschen Recht.** Die Due Diligence (Sorgfaltsprüfung) in deutschen M&A-Transaktionen läuft ausschließlich über den virtuellen Datenraum (VDR – Virtual Data Room), den Frage-Antwort-Prozess (Q&A) und den Disclosure Letter (Offenlegungserklärung). Was nicht offengelegt wurde, ist weder bekannt noch garantiert – das im SPA (Share Purchase Agreement, Unternehmenskaufvertrag) verankerte Garantieregime modifiziert insoweit den allgemeinen Grundsatz, dass der Käufer das Risiko nicht offenbarter Mängel trägt. Gesetzliche Auskunftsansprüche im Streitfall: §§ 142, 144 ZPO; § 810 BGB; §§ 242, 259, 666 BGB; Art. 15 DSGVO; § 254 ZPO (Stufenklage).
+**Vorprozessuale Beweiserhebung im deutschen Recht.** Die Due Diligence (Sorgfaltsprüfung) in deutschen M&A-Transaktionen läuft ausschließlich über den virtuellen Datenraum (VDR – Virtual Data Room), den Frage-Antwort-Prozess (Q&A) und den Disclosure Letter (Offenlegungserklärung). Was nicht offengelegt wurde, ist weder bekannt noch garantiert – das im SPA (Share Purchase Agreement, Unternehmenskaufvertrag) verankerte Garantieregime modifiziert insoweit den allgemeinen Grundsatz, dass der Käufer das Risiko nicht offenbarter Mängel trägt. Gesetzliche Auskunftsansprüche im Streitfall: Paragraf 142, 144 ZPO; Paragraf 810 BGB; Paragraf 242, 259, 666 BGB; Art. 15 DSGVO; Paragraf 254 ZPO (Stufenklage).
 
 ## Eingaben
 
@@ -91,29 +91,29 @@ Je gelesenes Dokument gegen den Standardkatalog für seine Kategorie prüfen:
 
 **Gesellschaftsrecht / Verfassung:**
 - Gesellschaftsvertrag / Satzung vollständig und aktuell?
-- Kapitalaufbringung nachgewiesen (§§ 7, 19 GmbHG; §§ 36, 54 AktG)?
-- Gesellschafterstruktur und Gesellschafterliste (§ 40 GmbHG) korrekt?
+- Kapitalaufbringung nachgewiesen (Paragraf 7, 19 GmbHG; Paragraf 36, 54 AktG)?
+- Gesellschafterstruktur und Gesellschafterliste (Paragraf 40 GmbHG) korrekt?
 - Vinkulierungsklauseln, Vorkaufsrechte, Mitziehrechte?
 - Beirat oder Gesellschafterausschuss mit eingeschränkten Rechten?
-- Nachschuss-/Einziehungsklauseln (§§ 26, 34 GmbHG)?
+- Nachschuss-/Einziehungsklauseln (Paragraf 26, 34 GmbHG)?
 
 **Wesentliche Verträge:**
 - Change-of-Control-Klausel (ausgelöst durch diesen Deal? Zustimmung erforderlich?)
 - Abtretungsbeschränkung (kann der Vertrag auf Käufer übergehen?)
 - Exklusivität / Wettbewerbsverbot
 - Kündigungsrechte wegen des Deals
-- Ungewöhnliche Haftungsregelungen; AGB-Kontrolle §§ 305 ff. BGB
+- Ungewöhnliche Haftungsregelungen; AGB-Kontrolle Paragraf 305 ff. BGB
 
 **IP / Technologie:**
-- Eigentumsnachweis (Abtretungen von Gründern/Arbeitnehmern vorhanden? § 69b UrhG; § 4 ArbNErfG)
+- Eigentumsnachweis (Abtretungen von Gründern/Arbeitnehmern vorhanden? Paragraf 69b UrhG; Paragraf 4 ArbNErfG)
 - Open Source im Produkt (Copyleft-Risiko? GPL/LGPL/AGPL)
 - Datenschutz (Verarbeitungsverzeichnis Art. 30 DSGVO; technisch-organisatorische Maßnahmen Art. 32 DSGVO)
 
 **Arbeitnehmer:**
 - Change-of-Control-Abfindungsansprüche
-- Risiko Betriebsübergang § 613a BGB (Unterrichtungspflicht; Widerspruchsrecht 1 Monat)
-- Betriebsrat (§ 102 BetrVG Kündigung; § 111 BetrVG Betriebsänderung)
-- Scheinselbstständigkeit (§ 611a BGB; Nachzahlungsrisiko Sozialversicherung)
+- Risiko Betriebsübergang Paragraf 613a BGB (Unterrichtungspflicht; Widerspruchsrecht 1 Monat)
+- Betriebsrat (Paragraf 102 BetrVG Kündigung; Paragraf 111 BetrVG Betriebsänderung)
+- Scheinselbstständigkeit (Paragraf 611a BGB; Nachzahlungsrisiko Sozialversicherung)
 
 **Rechtsstreitigkeiten / Behörden:**
 - Anhängige Verfahren und Rückstellungen
@@ -205,9 +205,9 @@ Dokument: [VDR-PFAD/DOKUMENTENNAME]
 
 - Change-of-Control bei wesentlichen Verträgen (Umsatzanteil >10 %) → sofortige Eskalation an Deal-Lead
 - IP-Eigentumsluecke bei Kerntechnologie → blockierendes Finding; Abtretungs-Chain prüfen
-- Betriebsübergang § 613a BGB ohne Unterrichtungsplan → Vollzugsverzögerung droht
-- Fehlende aktuelle Gesellschafterliste (§ 40 GmbHG) → gutgläubiger Erwerb Dritter möglich
-- BKartA-Verfahren oder FDI-Prüfung offen → Vollzugsverbot beachten (§ 41 GWB)
+- Betriebsübergang Paragraf 613a BGB ohne Unterrichtungsplan → Vollzugsverzögerung droht
+- Fehlende aktuelle Gesellschafterliste (Paragraf 40 GmbHG) → gutgläubiger Erwerb Dritter möglich
+- BKartA-Verfahren oder FDI-Prüfung offen → Vollzugsverbot beachten (Paragraf 41 GWB)
 
 ## Übergaben
 
@@ -223,7 +223,7 @@ Zitierweise nach `../../references/zitierweise.md`.
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Was dieser Skill nicht tut
 

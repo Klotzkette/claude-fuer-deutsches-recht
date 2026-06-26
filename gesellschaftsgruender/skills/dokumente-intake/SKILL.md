@@ -1,6 +1,6 @@
 ---
 name: dokumente-intake
-description: "Dokumentenintake für Gesellschaftsgründung: sortiert Gesellschaftsvertrag, Notarurkunde, Liste Gesellschafter, prüft Datum, Absender, Frist und Beweiswert (Stammeinlage-Bestätigung, Geschäftsanschrift-Nachweis); markiert Lücken; berücksichtigt Mandatsgeheimnis § 43a BRAO."
+description: "Dokumentenintake für Gesellschaftsgründung: sortiert Gesellschaftsvertrag, Notarurkunde, Liste Gesellschafter, prüft Datum, Absender, Frist und Beweiswert (Stammeinlage-Bestätigung, Geschäftsanschrift-Nachweis); markiert Lücken; berücksichtigt Mandatsgeheimnis Paragraf 43a BRAO."
 ---
 
 # Dokumentenintake

@@ -1,20 +1,22 @@
 ---
 name: closing-bible
-description: "Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierun..."
+description: "Erstellt Closing Bible und Deal-Archiv mit executed Agreements, Signaturseiten, Registerbelegen, CP-Nachweisen, Payments und Post-Closing-Pflichten."
 ---
 
 # Closing Bible und Archiv
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Vollzug und Nachweis:** Paragraf 158, 362, 433, 453 BGB; Closing Conditions, Zahlungen, Deliverables und Erfüllungsnachweise.
+- **GmbH-Share-Deal:** Paragraf 15, 16, 40 GmbHG für Abtretung, Gesellschafterliste und Legitimationsfolge.
+- **Archiv und Belege:** Paragraf 257 HGB, Registerunterlagen, Notarbestätigungen, Board- und Shareholder-Approvals.
+- **Leitentscheidungen:** BGH, 20.11.2018 - II ZR 12/17 für Bedeutung der Gesellschafterliste; BGH, 21.04.1997 - II ZR 175/95 für dokumentierte Organentscheidung.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Closing Bible und Archiv
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Entscheidende Weiche:** Executed Version, Signing Evidence, CP Evidence, Closing Deliverable, Payment Evidence, Register Evidence und Post-Closing Covenant getrennt ablegen.
+- **Archivlogik:** Jede Datei braucht Dokumenttyp, Datum, Parteien, Version, Unterschriftenstatus, Quelle, Vertraulichkeit und offenen Restpunkt.
+- **Arbeitsprodukt:** Liefere eine Closing-Bible-Struktur mit Missing-Documents-Liste und Post-Closing-Hand-off.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +55,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
-- GmbHG §§ 15 und 16 für Anteilsübertragung und Gesellschafterliste.
-- AktG §§ 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
-- BGB § 158 für Closing Conditions und Bedingungseintritt.
+- BGB Paragraf 133, 157, 241 Abs. 2, 280, 311 Abs. 2, 433 und 453 für Kaufvertrag und Auslegung.
+- GmbHG Paragraf 15 und 16 für Anteilsübertragung und Gesellschafterliste.
+- AktG Paragraf 76, 93, 111 und 179a für Leitungs-/Kontrollpflichten und Strukturmaßnahmen.
+- BGB Paragraf 158 für Closing Conditions und Bedingungseintritt.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -102,7 +104,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -113,37 +115,37 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Welche Dokumente sind als "final executed" markiert — SPA, aller Anhange, Disclosure Schedules?
 2. Liegen alle Signaturseiten im Original oder als beglaubigte Kopie vor?
 3. Welche Registeranmeldungen sind erforderlich — GmbH-Anteilsuebertragung, Handelsregistereintrag, Transparenzregister-Update?
-4. Sind Notarkosten und Vollzugspflichten aus dem beurkundeten SPA bereits abgearbeitet (§ 15 Abs. 3 GmbHG, § 2 GmbHG)?
+4. Sind Notarkosten und Vollzugspflichten aus dem beurkundeten SPA bereits abgearbeitet (Paragraf 15 Abs. 3 GmbHG, Paragraf 2 GmbHG)?
 5. Welche Closing-Deliverables sind noch offen — Resolutions, Closing Certificates, Funds Flow, Bankfreigaben?
 
 ## Zentrale Rechtsgrundlagen
 
-- § 15 Abs. 3 u. 4 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteils- und SPA-Uebertragungen
-- § 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschäftsführers
-- § 20 TranspRG i.V.m. § 19 Abs. 1 GwG — Transparenzregistermeldung nach Gesellschafterwechsel innerhalb von zwei Wochen
-- § 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
-- § 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
+- Paragraf 15 Abs. 3 u. 4 GmbHG — notarielle Beurkundungspflicht für GmbH-Anteils- und SPA-Uebertragungen
+- Paragraf 40 GmbHG — Gesellschafterliste nach Anteilsuebertragung innerhalb eines Monats; Pflicht des Notars oder Geschäftsführers
+- Paragraf 20 TranspRG i.V.m. Paragraf 19 Abs. 1 GwG — Transparenzregistermeldung nach Gesellschafterwechsel innerhalb von zwei Wochen
+- Paragraf 41 GmbHG — Pflicht zur Buchfuehrung nach Registereintragung
+- Paragraf 179 AktG — Satzungsaenderung erfordert notarielle Beurkundung und HR-Anmeldung
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
 1. **Closing-Deliverables-Register anlegen:** alle SPA-Deliverables aus Schedule/Annex extrahieren, Owner und Faelligkeitsdatum zuordnen
 2. **Signaturketten prüfen:** für jeden signierten Vertrag: Originalunterschriften, Vollmachten, Vertretungsmacht gemäß Handelsregisterstand prüfen
-3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß § 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
-4. **Registeranmeldungen:** Gesellschafterliste gemäß § 40 GmbHG, HR-Anmeldung Geschäftsführerwechsel/Satzungsaenderung, Transparenzregister gemäß § 20 TranspRG
+3. **Notarpflichten abarbeiten:** SPA-Beurkundung, Anteilsuebertragung gemäß Paragraf 15 Abs. 3 GmbHG, Anlagen mitbeurkundet?
+4. **Registeranmeldungen:** Gesellschafterliste gemäß Paragraf 40 GmbHG, HR-Anmeldung Geschäftsführerwechsel/Satzungsaenderung, Transparenzregister gemäß Paragraf 20 TranspRG
 5. **Funds Flow und Closing Payments prüfen:** Kaufpreistransfernachweise, Bankbestaetigung, Freistellung von Sicherheiten
 6. **Closing Bible zusammenstellen:** Inhaltsverzeichnis mit Tab-Struktur, je Dokument: Bezeichnung, Parteien, Datum, Fassung, Datenraum-Referenz
 7. **Offene Punkte als Post-Closing Obligations:** Fristen, Owner, Eskalationsstufe
-8. **Archivierung:** Deal-Archiv anlegen mit Zugriffskonzept, Vertraulichkeitsstufen, Retention Policy (§ 257 HGB: 10 Jahre)
+8. **Archivierung:** Deal-Archiv anlegen mit Zugriffskonzept, Vertraulichkeitsstufen, Retention Policy (Paragraf 257 HGB: 10 Jahre)
 
 ## Entscheidungsbaum
 
-- GmbH-Anteilsuebertragung → § 15 Abs. 3 GmbHG → notarielle Beurkundung erforderlich → ohne Beurkundung: Nichtigkeit
+- GmbH-Anteilsuebertragung → Paragraf 15 Abs. 3 GmbHG → notarielle Beurkundung erforderlich → ohne Beurkundung: Nichtigkeit
 - AG-Aktien vinkuliert → Zustimmung Hauptversammlung/AR-Beschluss prüfen → Eintrag Aktienbuch
-- Transparenzregisterpflicht → § 19 GwG Wirtschaftlich Berechtigte neu? → Frist 2 Wochen ab Closing
+- Transparenzregisterpflicht → Paragraf 19 GwG Wirtschaftlich Berechtigte neu? → Frist 2 Wochen ab Closing
 - Registeranmeldung Namenswechsel/Satzungsaenderung → notarielle Form → Registergericht
 
 ## Output-Template: Closing Bible Index
@@ -167,7 +169,7 @@ TAB B — CORPORATE APPROVALS
  B-3 Board Resolution Erwerber
 
 TAB C — CLOSING DELIVERABLES
- C-1 Gesellschafterliste neu (§ 40 GmbHG), eingereicht [DATUM]
+ C-1 Gesellschafterliste neu (Paragraf 40 GmbHG), eingereicht [DATUM]
  C-2 Transparenzregister-Meldung [DATUM]
  C-3 Funds Flow Confirmation [DATUM]
  C-4 Freigabe Bankpfandrecht [DATUM]
@@ -179,8 +181,8 @@ TAB D — POST-CLOSING OBLIGATIONS
 ## Rote Schwellen
 
 - Signaturseite ohne Original-Vollmacht: Human-in-the-loop verlangen, vor Archivabschluss Senior Review
-- Gesellschafterliste nicht eingereicht (§ 40 GmbHG): Frist laeuft; Stimmrecht des Erwerbers gefaehrdet (§ 16 Abs. 1 GmbHG)
-- Transparenzregistermeldung unterlassen: Bussgeld bis 100.000 EUR (§ 56 GwG)
+- Gesellschafterliste nicht eingereicht (Paragraf 40 GmbHG): Frist laeuft; Stimmrecht des Erwerbers gefaehrdet (Paragraf 16 Abs. 1 GmbHG)
+- Transparenzregistermeldung unterlassen: Bussgeld bis 100.000 EUR (Paragraf 56 GwG)
 - Funds Flow nicht belegt: Zahlungsnachweis zwingend vor Closing-Bible-Freigabe
 
 ## Standardausgabe

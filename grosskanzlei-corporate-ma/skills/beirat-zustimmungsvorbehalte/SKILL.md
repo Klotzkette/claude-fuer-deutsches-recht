@@ -1,20 +1,22 @@
 ---
 name: beirat-zustimmungsvorbehalte
-description: "Beirat Zustimmungsvorbehalte im Corporate/M&A (Großkanzlei-Praxis) im Corporate/M&A: prüft konkret die einschlägigen Tatbestandsmerkmale, Fristen, Belege und Rechtsprechung."
+description: "Prüft und entwirft Zustimmungsvorbehalte für Beirat, Gesellschafterkreis oder Aufsichtsgremium mit Schwellen, Eilkompetenz und Deadlock-Folge."
 ---
 
 # Beirat Zustimmungsvorbehalte
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **GmbH-Kompetenzordnung:** Paragraf 37, 43, 46, 47, 48, 52, 53 GmbHG; Satzung, Geschäftsordnung und Gesellschafterbeschluss.
+- **Aktienrechtlicher Vergleichsanker:** Paragraf 76, 93, 111 AktG für Leitung, Sorgfalt und Überwachungslogik, ohne die GmbH-Satzung zu überspielen.
+- **Auslegung und Missbrauchskontrolle:** Paragraf 133, 157, 242 BGB bei unklaren Schwellen, Vetos und Deadlock-Lagen.
+- **Leitentscheidung:** BGH, 21.04.1997 - II ZR 175/95 als Maßstab für dokumentierte Organentscheidung und Anspruchsverfolgung.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Beirat Zustimmungsvorbehalte
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Entscheidende Weiche:** Zustimmungsvorbehalt ist kein Ersatzgeschäftsführer. Prüfe Schwelle, Ausnahme, Eilkompetenz, Informationsrecht, Frist und Rechtsfolge bei unterlassener Zustimmung getrennt.
+- **Verteilungslogik:** Nicht jede Governance-Frage gehört in den Beirat. Satzung, Geschäftsordnung, Gesellschafterbeschluss und Gesellschaftervereinbarung müssen funktional verteilt werden.
+- **Arbeitsprodukt:** Liefere eine `Maßnahme / Schwelle / Gremium / Frist / Ausnahme / Rechtsfolge / Formulierung`-Matrix.
 
 ## Kaltstart-Fragen
 
@@ -42,6 +44,6 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 
 ## Quellenhygiene
 
-Arbeite primär mit: GmbHG §§ 37, 43, 46, 47, 48, 52, 53; BGB §§ 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG/DSGVO bei Vertraulichkeit und Datenzugriff.
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Absatz 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG bei Vertraulichkeit und Datenzugriff.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.

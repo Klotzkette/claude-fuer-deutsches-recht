@@ -64,6 +64,18 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Antrag, Rechtsschutzziel und Tenor sind deckungsgleich und vollstreckbar.
+2. Schlüssigkeit, Erheblichkeit, Beweisbedürftigkeit und Beweislast wurden nicht vermischt.
+3. Hinweise nach Paragraf 139 ZPO sind bei überraschenden oder übersehenen Punkten früh, konkret und aktenkundig erteilt.
+4. Artikel 103 Absatz 1 GG ist sichtbar gewahrt: entscheidungserheblicher Vortrag ist zur Kenntnis genommen und erwogen.
+5. Beweiswürdigung nach Paragraf 286 ZPO und gegebenenfalls Schätzung nach Paragraf 287 ZPO sind nachvollziehbar begründet.
+6. Nebenentscheidungen zu Kosten, Vollstreckbarkeit, Streitwert und Rechtsmittelbelehrung passen zum Tenor.
+7. Rechtsprechungsanker: BVerfG, 19.05.1992 - 1 BvR 986/91 für das Verbot der Überraschungsentscheidung; BVerfG, 03.05.2021 - 2 BvR 1176/20 für Gehör, Kenntnisnahme und Erwägung.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

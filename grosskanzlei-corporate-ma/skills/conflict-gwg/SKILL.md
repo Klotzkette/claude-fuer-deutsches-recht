@@ -1,20 +1,20 @@
 ---
 name: conflict-gwg
-description: "Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen..."
+description: "Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach Paragraf 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach Paragraf 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen..."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck
 
 ## Fachlicher Anker
 
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten; BGH, 20.11.2018 - II ZR 12/17 für Gesellschafterlisten. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Fachkern: Konflikt-, GwG- und Sanktionscheck
-- **Normen-/Quellenanker:** GmbHG, AktG, HGB, UmwG, WpHG/MAR, GWB/FKVO, AWG/AWV, LMA-Finanzierung, Beirats-/Organregeln, SPA/SHA/Term-Sheet-Praxis.
-- **Entscheidende Weiche:** Dealphase, Mandantenrolle, CP/Consent, Haftung, Disclosure, Signing/Closing, Notar/Register, Beirat/Organ und Verhandlungstaktik trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
@@ -53,18 +53,18 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 **1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird. Maßgeblich sind Mandatsvereinbarung, Konfliktprüfung und Vertraulichkeitsrahmen. Ist die Rolle unklar, darf kein parteilicher Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
 
 **2. Wirksamkeit und Corporate Authority.** Bei Anteils- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Form und Registerlage zu prüfen. Relevanter Kern:
-- BGB §§ 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
-- GeschGehG §§ 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
-- GWB §§ 35 ff. und § 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
+- BGB Paragraf 311 Abs. 2, 241 Abs. 2 und 280 für vorvertragliche Aufklärungspflichten.
+- GeschGehG Paragraf 2, 4, 6 und 17 für Geschäftsgeheimnisse im Datenraum.
+- GWB Paragraf 35 ff. und Paragraf 41 sowie Art. 7 FKVO für Gun-Jumping und Clean-Room-Fragen.
 - MAR Art. 7, 17 und 18 für Insiderinformationen, Ad-hoc-Prüfung und Insiderlisten.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
-**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist § 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
+**4. Register- und Gesellschafterlistenlogik.** Bei GmbH-Anteilen, Einziehung, Vollmachtskette oder Closing-Fähigkeit ist Paragraf 16 GmbHG gesondert zu prüfen. Zur Legitimationswirkung der Gesellschafterliste: BGH, 20.11.2018 - II ZR 12/17, abrufbar über BGH-Datenbank und dejure: https://dejure.org/2018,47817 `[BGH-Datenbank/dejure.org]`.
 
 **5. Regulatory und Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen oder branchenspezifische Genehmigungen berührt sind, lautet der Zwischensatz nicht nur „Risiko“, sondern: Anmeldung erforderlich? Vollzugsverbot? Closing Condition? Long-Stop-Date gefährdet? Bußgeld- oder Nichtigkeitsfolge?
 
-**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah: Jede rechtliche Annahme bekommt eine Tatsachenquelle. Beispiel: `Paragraf 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `Paragraf 41 GWB Vollzug gesperrt?` nur bejahen, wenn Zusammenschluss, Schwellen und fehlende Freigabe geprüft sind.
 
 **Zwischenergebnis:** Das Ergebnis ist als Ampel zu formulieren: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet in M&A regelmäßig: nicht signen, nicht closen, nicht offenlegen oder nicht extern versenden, bevor Partner/Spezialist freigegeben hat.
 
@@ -103,7 +103,7 @@ Nach diesem Skill weiter mit:
 - Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
 
 ## Berufsrechtliche Hinweise
-Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3 BORA, Verschwiegenheit nach Paragraf 43a Abs. 2 BRAO, Vergütungsrahmen nach Paragraf 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
@@ -114,39 +114,39 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 1. Sind alle Parteien (Kaeufer, Verkaeufer, Zielgesellschaft, Garantiegeber, Finanziers) und ihre wirtschaftlich Berechtigten identifiziert?
 2. Besteht ein bestehender oder frueherer Mandatsbezug zu einer der Gegenparteien oder zur Zielgesellschaft?
 3. Stehen Parteien oder wirtschaftlich Berechtigte auf Sanktionslisten (EU-Sanktionsregister, OFAC SDN, UK OFSI)?
-4. Liegt PEP-Status vor (politisch exponierte Person, § 1 Abs. 12 GwG)?
+4. Liegt PEP-Status vor (politisch exponierte Person, Paragraf 1 Abs. 12 GwG)?
 5. Ist die Herkunft der Transaktionsmittel nachvollziehbar (Equity, Kredit, Fonds, Family Office)?
 6. Sind Sektoren oder Ziellaender betroffen, die erhoehtem Risiko unterliegen (Dual Use, Verteidigung, kritische Infrastruktur, FDI-Screening)?
 
 ## Zentrale Rechtsgrundlagen
 
-- § 43a Abs. 4 BRAO — anwaltliches Verbot der Vertretung widerstreitender Interessen; gilt auch bei verbundenen Unternehmen
-- §§ 10-17 GwG — Sorgfaltspflichten: Identifizierung, wirtschaftlich Berechtigter, Herkunft von Vermögenswerten, kontinuierliche Ueberwachung
-- § 43 Abs. 1 GwG — Meldepflicht bei Geldwaescheverdacht an FIU; Schweigegebot § 47 GwG
+- Paragraf 43a Abs. 4 BRAO — anwaltliches Verbot der Vertretung widerstreitender Interessen; gilt auch bei verbundenen Unternehmen
+- Paragraf 10-17 GwG — Sorgfaltspflichten: Identifizierung, wirtschaftlich Berechtigter, Herkunft von Vermögenswerten, kontinuierliche Ueberwachung
+- Paragraf 43 Abs. 1 GwG — Meldepflicht bei Geldwaescheverdacht an FIU; Schweigegebot Paragraf 47 GwG
 - Art. 7 EU-Verordnung 833/2014 (Russland-Sanktionen) sowie VO 269/2014, 765/2006 und weitere EU-Sanktionsregimes — Bereitstellungsverbot, Umgehungsverbot
-- §§ 17, 18 AWG i.V.m. AWV — Strafbarkeit bei vorsaetzlicher Sanktionsumgehung
-- § 4 Abs. 6 GwG — Pflicht zur Risikoklassifizierung; verstaerkte Sorgfaltspflichten bei hohem Risiko
-- § 2 Abs. 1 Nr. 10 GwG — Rechtsanwaelte als Verpflichtete bei bestimmten Transaktionsberatungen
+- Paragraf 17, 18 AWG i.V.m. AWV — Strafbarkeit bei vorsaetzlicher Sanktionsumgehung
+- Paragraf 4 Abs. 6 GwG — Pflicht zur Risikoklassifizierung; verstaerkte Sorgfaltspflichten bei hohem Risiko
+- Paragraf 2 Abs. 1 Nr. 10 GwG — Rechtsanwaelte als Verpflichtete bei bestimmten Transaktionsberatungen
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, § 3 GwG) identifizieren und in internem Conflicts-System abgleichen
+1. **Parteien-Screening:** alle Parteien inkl. wirtschaftlich Berechtigter (mind. 25 % Beteiligungsschwelle, Paragraf 3 GwG) identifizieren und in internem Conflicts-System abgleichen
 2. **Sanktions-Screening:** EU-Sanktionsdatenbank, OFAC SDN, UK OFSI, UN-Liste prüfen; Treffer → sofortige Eskalation an Partner/Compliance
 3. **Interessenkonflikt-Prüfung:** laufende und frueheres Mandate prüfen; bei positivem Treffer: Screening-Protokoll, ggf. Waiver-Einholung oder Mandatsablehnung
-4. **PEP-Prüfung:** § 1 Abs. 12 GwG — bei Treffer: verstaerkte Sorgfalt (§ 15 GwG), Geschaftsfuehrungsebene einschalten
+4. **PEP-Prüfung:** Paragraf 1 Abs. 12 GwG — bei Treffer: verstaerkte Sorgfalt (Paragraf 15 GwG), Geschaftsfuehrungsebene einschalten
 5. **Mittelherkunfts-Prüfung:** Funds Flow Confirmation, Bankauszuege, Fondsstruktur dokumentieren; bei Verdacht → FIU-Meldepflicht prüfen
-6. **Sektoren-/FDI-Check:** § 55 ff. AWV, Art. 4 EU-FDI-Screening-VO — betrifft kritische Infrastruktur, Verteidigung, Energie, Telekommunikation
+6. **Sektoren-/FDI-Check:** Paragraf 55 ff. AWV, Art. 4 EU-FDI-Screening-VO — betrifft kritische Infrastruktur, Verteidigung, Energie, Telekommunikation
 7. **Dokumentation:** Akte mit Screening-Protokoll, Entscheidungsgrunden, Datum und verantwortlichem Partner abschliessen
 
 ## Entscheidungsbaum
 
 - Sanktionstreffer → JA: Mandatsannahme verboten; sofort an Compliance; NEIN: weiter
 - Interessenkonflikt → JA ohne Waiver-Moeglichkeit: ablehnen; JA mit Waiver: dokumentieren; NEIN: weiter
-- PEP-Status → verstaerkte Sorgfalt § 15 GwG; Genehmigung der Geschaftsfuehrung
+- PEP-Status → verstaerkte Sorgfalt Paragraf 15 GwG; Genehmigung der Geschaftsfuehrung
 - Unklare Mittelherkunft → Nachfrage; keine Annahme vor Klärung; bei Verdacht FIU-Meldepflicht
 
 ## Output-Template: Conflicts- und GwG-Prüfungsprotokoll
@@ -172,7 +172,7 @@ CONFLICTS-CHECK
  Fruehere Mandate: [LISTE]
 
 PEP-STATUS
- [ ] Nein [ ] Ja → verstaerkte Sorgfalt (§ 15 GwG)
+ [ ] Nein [ ] Ja → verstaerkte Sorgfalt (Paragraf 15 GwG)
 
 MITTELHERKUNFT
  [ ] Dokumentiert — Quelle: [BANK/FONDS]
@@ -185,9 +185,9 @@ Freigabe: [PARTNER] am [DATUM]
 ## Rote Schwellen
 
 - Sanktionstreffer ohne Eskalation: unmittelbarer Verstoß gegen Bereitstellungsverbot (Strafbarkeit AWG)
-- Interessenkonflikt ohne Waiver: § 43a Abs. 4 BRAO; Haftung der Sozietaet
-- Fehlende GwG-Dokumentation: Bussgeld bis 1 Mio. EUR (§ 56 Abs. 1 GwG)
-- FIU-Meldepflicht verletzt: § 43 GwG; Strafbarkeit
+- Interessenkonflikt ohne Waiver: Paragraf 43a Abs. 4 BRAO; Haftung der Sozietaet
+- Fehlende GwG-Dokumentation: Bussgeld bis 1 Mio. EUR (Paragraf 56 Abs. 1 GwG)
+- FIU-Meldepflicht verletzt: Paragraf 43 GwG; Strafbarkeit
 
 ## Standardausgabe
 

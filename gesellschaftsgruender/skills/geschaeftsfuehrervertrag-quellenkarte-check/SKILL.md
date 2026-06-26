@@ -12,7 +12,7 @@ Diese Quellenkarte sichert für **Gesellschaftsgründung** jede tragende Aussage
 ## Tragende Normen (live prüfen)
 
 - **GmbHG, AktG, HGB** — amtlichen Stand vor tragender Aussage prüfen
-- **§ 5a GmbHG UG** — amtlichen Stand vor tragender Aussage prüfen
+- **Paragraf 5a GmbHG UG** — amtlichen Stand vor tragender Aussage prüfen
 - **GenG** — amtlichen Stand vor tragender Aussage prüfen
 
 ## Zuständige Spruchkörper und Behörden

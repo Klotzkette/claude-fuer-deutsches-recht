@@ -63,6 +63,16 @@ Vollstaendige Belehrung über statthaftes Rechtsmittel, Frist, Form und Adressat
 
 Ort, Datum, Name(n) der entscheidenden Berufs- und Laienrichter mit Funktionsbezeichnung. Bei Verhinderung Vertretungsvermerk.
 
+## Prozessuale Glanzkontrolle
+
+Vor der finalen Entscheidung wird zwingend geprüft:
+
+1. Zulässigkeit, Annahmefähigkeit und Begründetheit sind getrennt.
+2. Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Frist sind vollständig abgearbeitet.
+3. Die spezifische Verfassungsverletzung ist herausgearbeitet; bloßes Fachrecht wird nicht als Verfassungsrecht ausgegeben.
+4. Bei Eilanträgen nach Paragraf 32 BVerfGG ist die Folgenabwägung eigenständig und nicht als verkürzte Hauptsache formuliert.
+5. Tenor, Bindungswirkung, Zurückverweisung und Kosten sind eindeutig.
+
 ## Format und Stil
 
 - Echte Umlaute (ae, oe, ue, ss als ae-Umschrift nur in Slugs; im Volltext durchgehend echte ae, oe, ue, ss).

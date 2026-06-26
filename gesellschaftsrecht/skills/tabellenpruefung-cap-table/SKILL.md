@@ -7,8 +7,8 @@ description: "'Tabellarisches Vertragsreview als Prompt-Matrix — pro Spalte ei
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Tabellarisches Vertragsreview als Prompt-Matrix` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -42,35 +42,35 @@ Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 2
 ## Rechtlicher Rahmen
 
 **M&A Due Diligence:**
-- §§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten)
-- §§ 443, 444 BGB (Garantien, Haftungsausschluss)
-- § 442 BGB (Kenntnis des Käufers, Ausschluss der Gewährleistung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Paragraf 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten)
+- Paragraf 443, 444 BGB (Garantien, Haftungsausschluss)
+- Paragraf 442 BGB (Kenntnis des Käufers, Ausschluss der Gewährleistung)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 **Change-of-Control:**
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 **Abtretungsverbote:**
-- § 399 BGB (Abtretungsausschluss durch Parteivereinbarung)
-- § 354a HGB (Unwirksamkeit im kaufmännischen Verkehr)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Paragraf 399 BGB (Abtretungsausschluss durch Parteivereinbarung)
+- Paragraf 354a HGB (Unwirksamkeit im kaufmännischen Verkehr)
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 **MAC-Klauseln:**
-- §§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund
+- Paragraf 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund
 
 **Konzernrecht:**
-- §§ 15 ff. AktG (verbundene Unternehmen)
-- § 311 AktG (nachteilige Maßnahmen)
-- § 308 AktG (Weisungsrecht im Vertragskonzern)
-- §§ 291, 292 AktG (Unternehmensverträge)
+- Paragraf 15 ff. AktG (verbundene Unternehmen)
+- Paragraf 311 AktG (nachteilige Maßnahmen)
+- Paragraf 308 AktG (Weisungsrecht im Vertragskonzern)
+- Paragraf 291, 292 AktG (Unternehmensverträge)
 
 **Datenschutz:**
 - Art. 28 Abs. 4 DSGVO (Sub-Auftragsverarbeitung bei SaaS-Verträgen)
 - Art. 46 DSGVO (Drittlandübermittlung)
 
 **AGB-Recht:**
-- §§ 305 ff. BGB (Inhaltskontrolle; überraschende Klauseln; unangemessene Benachteiligung)
-- § 307 Abs. 1 BGB (Generalklausel AGB-Kontrolle)
+- Paragraf 305 ff. BGB (Inhaltskontrolle; überraschende Klauseln; unangemessene Benachteiligung)
+- Paragraf 307 Abs. 1 BGB (Generalklausel AGB-Kontrolle)
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
@@ -134,7 +134,7 @@ spalten:
  - sonstige
  prompt: >
  Hat die Gegenpartei ein Sonderrecht bei Kontrollwechsel beim Mandanten?
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
  Zitat der einschlägigen Klausel als Begleitfeld.
 
  - id: abtretung
@@ -148,7 +148,7 @@ spalten:
  - keine_regelung
  prompt: >
  Welche Regelung zur Abtretung? Bei absolutem Verbot zwischen Kaufleuten
- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
  - id: haftungsobergrenze
  label: Haftungsobergrenze
@@ -212,7 +212,7 @@ Spaltenprompts sind generisch. Bei Stapel-Reviews gibt es aber oft Dokumente, di
 
 Drei typische Quellen für Zeilenprompts:
 
-1. **Dokumenttyp-spezifisch.** Konzernvertrag → § 311 AktG zusätzlich prüfen; Mietvertrag → Mietpreisbremse (§ 556d BGB) prüfen; Rahmenvertrag → auf Einzelverträge verweisen; AGB → §§ 305 ff. BGB.
+1. **Dokumenttyp-spezifisch.** Konzernvertrag → Paragraf 311 AktG zusätzlich prüfen; Mietvertrag → Mietpreisbremse (Paragraf 556d BGB) prüfen; Rahmenvertrag → auf Einzelverträge verweisen; AGB → Paragraf 305 ff. BGB.
 2. **Mandanten-/Mandatsspezifisch.** "Vertrag X ist der Hauptliefervertrag — bei jeder unklaren Klausel zur Hauptverhandlung mit dem Lead-Counsel eskalieren."
 3. **Dokument-spezifisch.** "Anlage 7 liegt nur in geänderter Fassung vor — bei Streitstand zur Originalfassung kommentieren." "Dieser Vertrag ist auf Englisch geschrieben — bei Mehrdeutigkeit auf den englischen Urtext zurückgreifen."
 
@@ -223,16 +223,16 @@ zeilen:
  - dokument: "Lieferanten-MSA — Alpha GmbH.pdf"
  typ: rahmenvertrag
  prompt: >
- Hauptliefervertrag, Konzernvertrag im Sinne der §§ 15 ff. AktG.
- Zusätzlich prüfen: § 311 AktG (Beherrschungsvertrag), § 308 AktG
+ Hauptliefervertrag, Konzernvertrag im Sinne der Paragraf 15 ff. AktG.
+ Zusätzlich prüfen: Paragraf 311 AktG (Beherrschungsvertrag), Paragraf 308 AktG
  (Weisungsrecht). Bei unklarer CoC-Klausel zum Lead-Counsel
  eskalieren.
 
  - dokument: "Mietvertrag Hauptniederlassung Berlin.pdf"
  typ: gewerberaummietvertrag
  prompt: >
- Gewerberaum, kein Wohnraum (§ 535 ff. BGB allgemein, nicht §§ 549 ff.).
- Indexmietklausel auf Einhaltung § 557b BGB prüfen.
+ Gewerberaum, kein Wohnraum (Paragraf 535 ff. BGB allgemein, nicht Paragraf 549 ff.).
+ Indexmietklausel auf Einhaltung Paragraf 557b BGB prüfen.
  Konkurrenzschutzklausel separat erfassen, falls vorhanden.
 
  - dokument: "Vendor Agreement Beta Ltd (EN).pdf"
@@ -313,7 +313,7 @@ Jeder Unteragent gibt eine strukturierte Zeile zurück: für jede Spalte `{wert,
 
 **Zusätzliche Felder bei aktivem Zeilenprompt:**
 - `zeilenprompt_befolgt` — Bool: hat der Unteragent die Zeilen-Sonderanweisung beachtet?
-- `zeilenprompt_notiz` — was wurde aufgrund des Zeilenprompts zusätzlich erfasst (z. B. "§ 311 AktG geprüft, keine relevante Klausel")
+- `zeilenprompt_notiz` — was wurde aufgrund des Zeilenprompts zusätzlich erfasst (z. B. "Paragraf 311 AktG geprüft, keine relevante Klausel")
 
 ### Schritt 6 — Normalisierung
 
@@ -330,7 +330,7 @@ Spaltenweise gesamte Tabelle prüfen:
 | Dokument | Zeilenprompt | Gegenpartei | Wirksamkeit | CoC | Abtretung | Haftungsobergrenze | ⚠️ Flags |
 |---|---|---|---|---|---|---|---|
 | Lieferanten-MSA Alpha | rahmenvertrag | Alpha GmbH | 2023-04-01 | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | — |
-| Mietvertrag Berlin | gewerberaummietvertrag | Vermieter XY GbR | 2020-11-15 | keine_regelung | absolut (§ 354a HGB-Vorbehalt) | unbegrenzt | ⚠️ Indexmiete prüfen |
+| Mietvertrag Berlin | gewerberaummietvertrag | Vermieter XY GbR | 2020-11-15 | keine_regelung | absolut (Paragraf 354a HGB-Vorbehalt) | unbegrenzt | ⚠️ Indexmiete prüfen |
 | Vendor Agreement Beta | internationaler_vertrag | Beta Ltd | 2024-01-12 | kündigungsrecht_bei_coc | frei_übertragbar | 5 Mio EUR | ⚠️ englisches Recht |
 | Anlage K7 Nachtrag | anlage_nachtrag | (s. K6) | 2024-09-20 | (s. K6) | (s. K6) | (s. K6) | — |
 ```
@@ -346,7 +346,7 @@ Spaltenweise gesamte Tabelle prüfen:
 
 Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 
-> Dieses Review basiert auf Quelldokumenten, die privilegiert, vertraulich oder beides sein können. Es teilt den Schutzstatus der Quellen — Verteilung über den Vertraulichkeitskreis hinaus kann das Mandatsgeheimnis (§ 43a Abs. 2 BRAO) beeinträchtigen.
+> Dieses Review basiert auf Quelldokumenten, die privilegiert, vertraulich oder beides sein können. Es teilt den Schutzstatus der Quellen — Verteilung über den Vertraulichkeitskreis hinaus kann das Mandatsgeheimnis (Paragraf 43a Abs. 2 BRAO) beeinträchtigen.
 
 ### Schritt 8 — Zusammenfassung
 
@@ -368,19 +368,19 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 | Gegenpartei | wörtlich | "Wer ist die Gegenpartei? Genaue Firmierung mit Rechtsform aus dem Rubrum." |
 | Wirksamkeitsdatum | datum | "Wann tritt der Vertrag in Kraft? Bei verschiedenen Unterschriftsdaten: das spätere." |
 | Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Abtretung | klassifizieren | "Welche Abtretungsregelung? Bei Verbot zwischen Kaufleuten § 354a HGB prüfen." |
+| Abtretung | klassifizieren | "Welche Abtretungsregelung? Bei Verbot zwischen Kaufleuten Paragraf 354a HGB prüfen." |
 | Haftungsobergrenze | betrag | "Betragsmäßige Haftungsobergrenze in EUR. Mehrere Limits separat." |
 
 **Zeilenprompts** (dokumentspezifisch, ergänzt zu Spaltenprompts):
 
 | Zeile (Dokument) | Zeilenprompt |
 |---|---|
-| Lieferanten-MSA — Alpha GmbH | "Hauptliefervertrag, Konzernvertrag — zusätzlich § 311 AktG (Beherrschung) prüfen. Bei unklarer CoC zum Lead-Counsel eskalieren." |
-| Mietvertrag Hauptniederlassung Berlin | "Gewerberaum (§ 535 BGB, nicht §§ 549 ff.). Indexmietklausel auf § 557b BGB prüfen. Konkurrenzschutzklausel separat." |
+| Lieferanten-MSA — Alpha GmbH | "Hauptliefervertrag, Konzernvertrag — zusätzlich Paragraf 311 AktG (Beherrschung) prüfen. Bei unklarer CoC zum Lead-Counsel eskalieren." |
+| Mietvertrag Hauptniederlassung Berlin | "Gewerberaum (Paragraf 535 BGB, nicht Paragraf 549 ff.). Indexmietklausel auf Paragraf 557b BGB prüfen. Konkurrenzschutzklausel separat." |
 | Vendor Agreement Beta Ltd (EN) | "Englischsprachiger Vertrag. Rechtswahl und Gerichtsstand klären. Englische Zitate belassen, deutsche Notiz." |
 | Anlage K7 Nachtrag | "Nur Nachtrag — Hauptvertrag (Anlage K6) mitlesen. CoC steht im Hauptvertrag." |
 | Lizenzvertrag — Gamma SaaS | "SaaS-Vertrag — zusätzlich auf Sub-Auftragsverarbeitung (Art. 28 IV DSGVO) prüfen, da personenbezogene Daten verarbeitet werden." |
-| Vertriebsvertrag — Delta GmbH | "Handelsvertreter (§§ 84 ff. HGB) oder Vertragshändler? Klassifikation in Notizen." |
+| Vertriebsvertrag — Delta GmbH | "Handelsvertreter (Paragraf 84 ff. HGB) oder Vertragshändler? Klassifikation in Notizen." |
 | Joint-Venture-Vertrag — Epsilon AG | "Gleichberechtigte Beteiligung 50:50 — Patt-Regelungen und Deadlock-Klausel separat erfassen, falls vorhanden." |
 | Wildcard (alle anderen) | "Standardvertrag, keine Sonderbehandlung. Spaltenprompts wörtlich." |
 
@@ -388,8 +388,8 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 
 | Dokument | Zeilenprompttyp | Gegenpartei | CoC | Abtretung | Haftungsobergrenze | Zeilenprompt-Notiz |
 |---|---|---|---|---|---|---|
-| Alpha-MSA | rahmenvertrag | Alpha GmbH | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | § 311 AktG geprüft — keine Beherrschungsklausel; CoC eindeutig |
-| Berlin-Miete | gewerberaummietvertrag | Vermieter XY GbR | keine_regelung | absolut (§ 354a HGB-Vorbehalt) | unbegrenzt | Indexmiete § 5(2): Klausel ⚠️ § 557b BGB-konform? prüfen |
+| Alpha-MSA | rahmenvertrag | Alpha GmbH | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | Paragraf 311 AktG geprüft — keine Beherrschungsklausel; CoC eindeutig |
+| Berlin-Miete | gewerberaummietvertrag | Vermieter XY GbR | keine_regelung | absolut (Paragraf 354a HGB-Vorbehalt) | unbegrenzt | Indexmiete Paragraf 5(2): Klausel ⚠️ Paragraf 557b BGB-konform? prüfen |
 | Beta-Vendor | internationaler_vertrag | Beta Ltd | kündigungsrecht_bei_coc | frei_übertragbar | 5 Mio EUR | English law, LCIA-Schiedsverfahren — Zuständigkeitsfrage geklärt |
 | K7-Nachtrag | anlage_nachtrag | (s. K6) | (s. K6) | (s. K6) | (s. K6) | Verweis auf K6 — separat zu lesen |
 | Gamma-SaaS | (eigener) | Gamma GmbH | zustimmungserforderlich | zustimmungserforderlich | 100% Jahresvergütung | Art. 28 IV DSGVO: Sub-AV-Erlaubnis ohne Vorabzustimmung ⚠️ |
@@ -417,9 +417,9 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 
 | Spalte | Typ | Prompt |
 |---|---|---|
-| Wettbewerbsverbot | klassifizieren | Hat der Arbeitnehmer / die Schlüsselperson ein nachvertragliches Wettbewerbsverbot? § 74 HGB: Karenzentschädigung erforderlich; Dauer max. 2 Jahre. |
+| Wettbewerbsverbot | klassifizieren | Hat der Arbeitnehmer / die Schlüsselperson ein nachvertragliches Wettbewerbsverbot? Paragraf 74 HGB: Karenzentschädigung erforderlich; Dauer max. 2 Jahre. |
 | Change-of-Control-Recht | klassifizieren | Hat der Mitarbeiter ein Sonderkündigungsrecht oder Abfindungsanspruch bei Kontrollwechsel? |
-| Geheimnisschutz | wörtlich | Enthält der Vertrag eine Geheimhaltungsklausel? § 1 GeschGehG: Legaldefinition prüfen. |
+| Geheimnisschutz | wörtlich | Enthält der Vertrag eine Geheimhaltungsklausel? Paragraf 1 GeschGehG: Legaldefinition prüfen. |
 
 ### IP / Technologie
 
@@ -442,16 +442,16 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 | Spalte | Typ | Prompt |
 |---|---|---|
 | Mietfläche | betrag | Gemietete Fläche in m². Wörtliches Zitat aus Mietvertrag. |
-| Untervermietungsrecht | klassifizieren | Darf der Mieter untervermieten? Zustimmungserfordernis des Vermieters? § 540 BGB. |
+| Untervermietungsrecht | klassifizieren | Darf der Mieter untervermieten? Zustimmungserfordernis des Vermieters? Paragraf 540 BGB. |
 | Konkurrenzschutz | klassifizieren | Enthält der Mietvertrag eine Konkurrenzschutzklausel zugunsten des Mieters? |
 
 ## Beweislast und Haftungsrisiken
 
 | Risiko | Norm | Konsequenz |
 |---|---|---|
-| Unvollständiger Review führt zu übersehener CoC-Klausel | §§ 280, 634 BGB (Anwaltsvertrag); § 43 BRAO | Anwaltshaftung; Schadensersatz |
+| Unvollständiger Review führt zu übersehener CoC-Klausel | Paragraf 280, 634 BGB (Anwaltsvertrag); Paragraf 43 BRAO | Anwaltshaftung; Schadensersatz |
 | Paraphrase als Zitat ausgegeben | BGH-Grundsätze zur Beweiskraft | Befund ohne Beweiswert; Garantieverletzung nicht nachweisbar |
-| § 354a HGB nicht beachtet | § 354a HGB; § 399 BGB | Unwirksamkeit des Abtretungsverbots übersehen; Closing-Problem |
+| Paragraf 354a HGB nicht beachtet | Paragraf 354a HGB; Paragraf 399 BGB | Unwirksamkeit des Abtretungsverbots übersehen; Closing-Problem |
 | DSGVO Sub-AV übersehen | Art. 28 Abs. 4 DSGVO | Bußgeldrisiko; Haftung des Auftraggebers |
 
 ## Risiken und typische Fehler
@@ -461,7 +461,7 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 - **Zeilenprompt überschreibt Spaltenprompt.** Standard: Zeilenprompt **ergänzt**. Wenn der Spaltenprompt fragt "Was ist die Kündigungsfrist?", darf der Zeilenprompt nicht implizieren "Bei diesem Vertrag schauen wir keine Kündigungsfrist an". Bei Konflikt rückfragen.
 - **Schema nicht probetesten.** Vollständigkeitsdurchlauf mit fehlerhaftem Schema = verworfene Arbeit. Immer 3–5 Dokumente zuerst.
 - **Konfidenzwerte erfinden.** Kein numerischer Konfidenzwert. Stattdessen: `unklar` / `prüfung_erforderlich`-Zustände + verbatim Zitate als Konfidenz-Signal.
-- **§ 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten ggf. unwirksam — in Schema-Notizen vermerken.
+- **Paragraf 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten ggf. unwirksam — in Schema-Notizen vermerken.
 - **Zeilenprompt aus Erinnerung statt aus Fakten.** Wenn der Reviewer behauptet "dieser Vertrag ist ein Konzernvertrag" — Faktenlage muss aus dem Dokument belegt sein, nicht aus Vermutung.
 - **Fremde Rechtsordnung ohne Hinweis.** Englischsprachige Verträge sind nicht automatisch nach englischem Recht; Rechtswahlklausel lesen und dokumentieren.
 - **Nachträge ohne Hauptvertrag.** Nachtrag ohne Hauptvertrag ergibt unvollständige Datenlage; immer Hauptvertrag referenzieren und als Pflichtlektüre markieren.
@@ -478,16 +478,16 @@ Arbeitsergebnis-Kopfzeile aus CLAUDE.md voranstellen plus:
 ## Quellenpflicht
 
 Jede rechtliche Beurteilung im Schema-Aufbau und in der Normalisierung mit Norm belegen:
-- Abtretungsverbote: `§ 399 BGB`, `§ 354a HGB`
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Konzernrecht bei Zeilenprompt: `§§ 15 ff., 308, 311 AktG`
+- Abtretungsverbote: `Paragraf 399 BGB`, `Paragraf 354a HGB`
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Konzernrecht bei Zeilenprompt: `Paragraf 15 ff., 308, 311 AktG`
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Indexmietklausel: `§ 557b BGB`
-- AGB-Kontrolle bei Stapel: `§§ 305 ff. BGB`
+- Indexmietklausel: `Paragraf 557b BGB`
+- AGB-Kontrolle bei Stapel: `Paragraf 305 ff. BGB`
 - Sub-AV: `Art. 28 Abs. 4 DSGVO`
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Wettbewerbsverbot: `§ 74 HGB`
-- GeschGehG: `§ 1 GeschGehG`
+- Wettbewerbsverbot: `Paragraf 74 HGB`
+- GeschGehG: `Paragraf 1 GeschGehG`
 - Open-Source: Copyleft-Systematik GPL, AGPL
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Jede Zelle der Matrix ist ein Hinweis, der vor Verwendung in einer Garantie, einem Anhang oder einem Memo zu verifizieren ist.
@@ -513,13 +513,13 @@ Eindeutig bewertete Zellen: [N] ([%])
 --- ERGEBNISMATRIX ---
 | Nr. | Dokument | [SPALTE 1] | [SPALTE 2] | [SPALTE 3] | Auffaelligkeiten |
 |---|---|---|---|---|---|
-| 1 | [DATEINAME] | [WERT / "ZITAT"] | [WERT] | unklar | § [NORM] — prüfung_erforderlich |
+| 1 | [DATEINAME] | [WERT / "ZITAT"] | [WERT] | unklar | Paragraf [NORM] — prüfung_erforderlich |
 | 2 | [DATEINAME] | [WERT] | [WERT] | [WERT] | — |
 
 --- AUFFAELLIGKEITEN (prüfung_erforderlich) ---
 1. Dokument [N], Spalte [SPALTENNAME]:
  Befund: [BESCHREIBUNG]
- Relevante Norm: [§ NORM]
+ Relevante Norm: [Paragraf NORM]
  Zitat: "[WORTLAUT AUS DOKUMENT]"
  Empfehlung: [HANDLUNGSHINWEIS]
 
@@ -547,6 +547,6 @@ Eindeutig bewertete Zellen: [N] ([%])
 ## Rote Schwellen
 
 - **Mehr als 20 % der Zellen als `prüfung_erforderlich`** — Schema ueberarbeiten; Zeilenprompts praezisieren; oder Stichprobengroesse erhoehen bevor Vollstaendigkeitsdurchlauf.
-- **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
+- **Abtretungsverbot uebersehen (Paragraf 399 BGB / Paragraf 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
 - **Rechtswahlklausel ausländisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst prüfen.
 - **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.

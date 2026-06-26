@@ -1,13 +1,13 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 Gmb..."
+description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage Paragraf 246 AktG analog Abberufung Geschäftsführer Paragraf 38 GmbHG. Normen Paragraf 34 GmbHG Einziehung Paragraf 140 HGB analog Ausschluss-Klage Paragraf 48 Gmb..."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie
 
 ## Arbeitsbereich
 
-Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Prüfraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss für Beschlussfassung mandat-triage für Erst-Abfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage Paragraf 246 AktG analog Abberufung Geschäftsführer Paragraf 38 GmbHG. Normen Paragraf 34 GmbHG Einziehung Paragraf 140 HGB analog Ausschluss-Klage Paragraf 48 GmbHG Gesellschafterversammlung. Prüfraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss für Beschlussfassung mandat-triage für Erst-Abfrage. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,8 +19,8 @@ Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter dro
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterstreit — Lösungsstrategie` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** GmbHG §§ 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG §§ 76, 93, 111, 119, 130, 243 ff.; HGB §§ 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
-- **Verifizierte Anker:** BGH, Urteil vom 08.11.2022 - II ZR 91/21 (zutreffende Gesellschafterliste/Listenstreit); BGH, Beschluss vom 18.03.2025 - II ZB 11/24 (Registerordner/Gesellschafterliste, Prüfungsumfang); BGH, Urteil vom 11.12.2006 - II ZR 166/05 und Urteil vom 12.04.2016 - II ZR 275/14 (Treuepflicht, Zustimmungspflichten); BGH, Urteil vom 30.09.2025 - II ZR 154/23 (Drittvergleich/verdeckte Vermögenszuwendung, Organ-/Beschlusskontrolle).
+- **Normenradar:** GmbHG Paragraf 3, 5, 13, 15, 16, 30, 34, 35, 40, 43, 46, 47, 49 ff.; AktG Paragraf 76, 93, 111, 119, 130, 243 ff.; HGB Paragraf 105 ff., 161 ff.; MoPeG/GesRÄndG-Folgen; UmwG; FamFG/Registerrecht; GWB/Fusionskontrolle bei Transaktionen.
+- **Rechtsprechungsanker:** BGH, 21.04.1997 - II ZR 175/95 für Organpflichten und Informationsgrundlage; BGH, 20.11.2018 - II ZR 12/17 für Listen- und Legitimationsfragen. Weitere Entscheidungen nur mit frei prüfbarer Quelle.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -39,16 +39,16 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 3. **Eskalationsstufe:** Frühphase (persönlich, lösbar) oder fortgeschrittene Eskalation (Klage droht/läuft)?
 4. **Existenzgefahr:** Ist die Gesellschaft durch den Streit in ihrer Existenz bedroht?
 5. **Schiedsklausel:** Gibt es eine wirksame Schiedsklausel in der Satzung? (Ordentlicher Rechtsweg ggf. gesperrt)
-6. **Anfechtungsfrist:** Falls Beschlussfehler relevant — läuft die 1-Monat-Frist analog § 246 AktG?
+6. **Anfechtungsfrist:** Falls Beschlussfehler relevant — läuft die 1-Monat-Frist analog Paragraf 246 AktG?
 7. **Abfindungsrelevanz:** Gibt es bereits konkrete Wertvorstellungen oder Satzungsklauseln zur Abfindung?
 
 ## Zentrale Normen
 
-§ 38 GmbHG (Abberufung GF; jederzeit möglich) — § 34 GmbHG (Einziehung von Geschäftsanteilen; Satzungserfordernis) — § 47 GmbHG (Abstimmung; Stimmrechtsausschluss) — § 46 Nr. 8 GmbHG (Gesellschafterbeschluss über Klage gegen GF) — § 140 HGB analog (Ausschlusskiage; auf GmbH analog angewendet) — § 626 BGB (außerordentliche Kündigung; auch GF-Anstellungsvertrag) — §§ 241, 243, 246 AktG analog für GmbH (Beschlussmängelrecht) — §§ 935, 940 ZPO (einstweilige Verfügung) — § 1029 ZPO (Schiedsvereinbarung) — § 313 BGB (Störung der Geschäftsgrundlage)
+Paragraf 38 GmbHG (Abberufung GF; jederzeit möglich) — Paragraf 34 GmbHG (Einziehung von Geschäftsanteilen; Satzungserfordernis) — Paragraf 47 GmbHG (Abstimmung; Stimmrechtsausschluss) — Paragraf 46 Nr. 8 GmbHG (Gesellschafterbeschluss über Klage gegen GF) — Paragraf 140 HGB analog (Ausschlusskiage; auf GmbH analog angewendet) — Paragraf 626 BGB (außerordentliche Kündigung; auch GF-Anstellungsvertrag) — Paragraf 241, 243, 246 AktG analog für GmbH (Beschlussmängelrecht) — Paragraf 935, 940 ZPO (einstweilige Verfügung) — Paragraf 1029 ZPO (Schiedsvereinbarung) — Paragraf 313 BGB (Störung der Geschäftsgrundlage)
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
 
 ## Prüfschema: Gesellschafterstreit-Strategie
 
@@ -56,14 +56,14 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 |---|---|---|---|
 | 1 | Konflikt-Diagnose | Konflikttypus und Eskalationsstufe bestimmen | Strategierahmen festgelegt |
 | 2 | Schiedsklausel | Satzungs-Schiedsklausel vorhanden und wirksam? | Ordentlicher Rechtsweg gesperrt → Schiedsgericht |
-| 3 | Fristenlage | Beschluss-Anfechtungsfrist (1 Monat analog § 246 AktG); Abberufungsfrist | Sofortige Fristnotiz |
+| 3 | Fristenlage | Beschluss-Anfechtungsfrist (1 Monat analog Paragraf 246 AktG); Abberufungsfrist | Sofortige Fristnotiz |
 | 4 | Mediation | Mittlere Eskalation oder Unternehmensexistenz bedroht → Mediation prüfen | Mediationsvorrang oder sofortige Eskalation |
-| 5 | Beschluss-Anfechtung | Formfehler? Stimmrechtsausschluss verletzt? Treuepflicht-Verstoß? | Anfechtungsklage analog § 246 AktG |
-| 6 | GF-Abberufung | § 38 GmbHG: jederzeit möglich; wichtiger Grund bei § 38 Abs. 2 GmbHG; Anstellungsvertrag separat kündigen | Beschluss GV + Kündigung |
-| 7 | Einziehung § 34 GmbHG | Satzungsklausel vorhanden? Einziehungsgrund? Beschluss der GV; Abfindung Verkehrswert | Einziehungsklage vorbereiten |
-| 8 | Ausschlussklage | § 140 HGB analog: wichtiger Grund unzumutbar; Klage der Gesellschaft; Abfindung | Klageentwurf |
+| 5 | Beschluss-Anfechtung | Formfehler? Stimmrechtsausschluss verletzt? Treuepflicht-Verstoß? | Anfechtungsklage analog Paragraf 246 AktG |
+| 6 | GF-Abberufung | Paragraf 38 GmbHG: jederzeit möglich; wichtiger Grund bei Paragraf 38 Abs. 2 GmbHG; Anstellungsvertrag separat kündigen | Beschluss GV + Kündigung |
+| 7 | Einziehung Paragraf 34 GmbHG | Satzungsklausel vorhanden? Einziehungsgrund? Beschluss der GV; Abfindung Verkehrswert | Einziehungsklage vorbereiten |
+| 8 | Ausschlussklage | Paragraf 140 HGB analog: wichtiger Grund unzumutbar; Klage der Gesellschaft; Abfindung | Klageentwurf |
 | 9 | Abfindungsberechnung | Verkehrswert (IDW S 1 Ertragswert) vs. Buchwert-Klausel; Satzungsklausel prüfen auf Sittenwidrigkeit | Wertgutachten beauftragen |
-| 10 | Einstweiliger Rechtsschutz | § 935 ZPO: Verfügungsanspruch (Beschlussfehler) und Verfügungsgrund (Eilbedürftigkeit) | Einstweilige Verfügung vorbereiten |
+| 10 | Einstweiliger Rechtsschutz | Paragraf 935 ZPO: Verfügungsanspruch (Beschlussfehler) und Verfügungsgrund (Eilbedürftigkeit) | Einstweilige Verfügung vorbereiten |
 | 11 | BATNA / ZOPA | BATNA beider Seiten; ZOPA ermitteln; wirtschaftliche Folgen ohne Einigung | Verhandlungsrahmen abstecken |
 | 12 | Buy-Sell-Klauseln | Russian Roulette / Texas Shootout vorhanden? Aktivierung sinnvoll? | Klausel analysieren und Ablauf simulieren |
 
@@ -71,7 +71,7 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 
 1. **Sachverhalt aufnehmen:** Satzung, Gesellschafterliste, Beschlussprotokoll, Anstellungsvertrag GF, Wirtschaftsstatus.
 2. **Schiedsklausel prüfen:** DIS/ICC/Ad-hoc; bei wirksamer Klausel Schiedsgericht statt ordentliches Gericht.
-3. **Fristen sichern:** Anfechtungsfrist 1 Monat analog § 246 AktG sofort kalendarisch sichern.
+3. **Fristen sichern:** Anfechtungsfrist 1 Monat analog Paragraf 246 AktG sofort kalendarisch sichern.
 4. **Mandantenrolle analysieren:** Welche Instrumente stehen dem Mandanten zur Verfügung?
 5. **Mediation erwägen:** Bei mittlerer Eskalation und Unternehmensinteresse immer als Erstweg anbieten.
 6. **Optionen-Matrix erstellen:** Alle rechtlichen Instrumente mit Vor-/Nachteilen, Zeitrahmen, Kosten gegenüberstellen.
@@ -111,10 +111,10 @@ Weitere Fristen: [AUFLISTUNG]
 | Option | Instrument | Zeitrahmen | Kosten | Risiko |
 |---|---|---|---|---|
 | Mediation | Neutral | 4-8 Wochen | mittel | Ergebnisoffen |
-| Beschluss-Anfechtung | § 246 AktG analog | 6-18 Monate | mittel-hoch | Kausalität |
-| GF-Abberufung | § 38 GmbHG + § 626 BGB | 2-4 Wochen | mittel | Anstellungsvertrag |
-| Einziehung | § 34 GmbHG | 3-6 Monate | hoch | Abfindungsstreit |
-| Ausschlussklage | § 140 HGB analog | 12-24 Monate | hoch | Beweislast |
+| Beschluss-Anfechtung | Paragraf 246 AktG analog | 6-18 Monate | mittel-hoch | Kausalität |
+| GF-Abberufung | Paragraf 38 GmbHG + Paragraf 626 BGB | 2-4 Wochen | mittel | Anstellungsvertrag |
+| Einziehung | Paragraf 34 GmbHG | 3-6 Monate | hoch | Abfindungsstreit |
+| Ausschlussklage | Paragraf 140 HGB analog | 12-24 Monate | hoch | Beweislast |
 | Buy-Sell | Satzungsklausel | 30-90 Tage | abhängig | Liquidität |
 
 ## Empfohlene Strategie
@@ -132,20 +132,20 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 
 ## Rote Schwellen
 
-- Anfechtungsfrist 1 Monat analog § 246 AktG läuft → sofortige Klage oder bewusstes Abstehen dokumentieren
-- Gesellschaft zahlungsunfähig während des Konflikts → § 15a InsO; sofort Insolvenzrecht einbeziehen
-- Existenzgefährdung durch Pattsituation → einstweilige Verfügung § 935 ZPO prüfen
-- Abfindungsklausel Buchwert und Differenz zum Verkehrswert mehr als 50 % → Sittenwidrigkeit § 138 BGB prüfen
+- Anfechtungsfrist 1 Monat analog Paragraf 246 AktG läuft → sofortige Klage oder bewusstes Abstehen dokumentieren
+- Gesellschaft zahlungsunfähig während des Konflikts → Paragraf 15a InsO; sofort Insolvenzrecht einbeziehen
+- Existenzgefährdung durch Pattsituation → einstweilige Verfügung Paragraf 935 ZPO prüfen
+- Abfindungsklausel Buchwert und Differenz zum Verkehrswert mehr als 50 % → Sittenwidrigkeit Paragraf 138 BGB prüfen
 
 ## Quellen und Vertiefung
 
-- GmbHG §§ 34, 38, 39, 46, 47
-- HGB § 140
-- BGB §§ 138, 626, 738
-- AktG §§ 241, 246
-- ZPO §§ 935, 1029
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
+- GmbHG Paragraf 34, 38, 39, 46, 47
+- HGB Paragraf 140
+- BGB Paragraf 138, 626, 738
+- AktG Paragraf 241, 246
+- ZPO Paragraf 935, 1029
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, Paragraf 34 Rn. 1 ff.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ## Übergabe an andere Skills
@@ -160,5 +160,5 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 ## Audit-Hinweis (27.05.2026)
 
 Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Status: WRONG_TOPIC — das Urteil betrifft die Zulaessigkeit von Hinauskuendigungsklauseln in Form einer Vesting-Regelung (Managermodell, BGHZ 164, 98), nicht den Ausschluss analog § 140 HGB. Die Fundstelle NJW 2005, 3569 ist nicht korrekt.
-Maßnahme: Beide Nennungen entfernt. Kein Ersatz eingefuegt; der Ausschlussklagen-Stoff ist über BGH II ZR 25/82 (Abfindung/Sittenwidrigkeit) und den Normenhinweis § 140 HGB analog teilweise abgedeckt.
+Status: WRONG_TOPIC — das Urteil betrifft die Zulaessigkeit von Hinauskuendigungsklauseln in Form einer Vesting-Regelung (Managermodell, BGHZ 164, 98), nicht den Ausschluss analog Paragraf 140 HGB. Die Fundstelle NJW 2005, 3569 ist nicht korrekt.
+Maßnahme: Beide Nennungen entfernt. Kein Ersatz eingefuegt; der Ausschlussklagen-Stoff ist über BGH II ZR 25/82 (Abfindung/Sittenwidrigkeit) und den Normenhinweis Paragraf 140 HGB analog teilweise abgedeckt.
