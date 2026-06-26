@@ -35,7 +35,9 @@ Nutze diesen Skill, wenn eine Gesellschaft umstrukturiert werden soll und Formwe
 ## Rechtsprechungs- und Normanker
 
 - Umwandlungsgesetz: Verschmelzung, Spaltung, Vermögensübertragung und Formwechsel.
-- Paragraf 13 und 16 UmwG: Beschluss und Registerwirkung als zentrale Arbeitsschritte.
+- Paragraf 13 und Paragraf 16 UmwG: Beschluss und Anmeldung der Verschmelzung als getrennte Arbeitsschritte.
+- Paragraf 20 UmwG: Wirkungen der Eintragung der Verschmelzung, insbesondere Vollzug, Vermögensübergang und Erlöschen des übertragenden Rechtsträgers.
+- Paragraf 131 UmwG: Wirkungen der Eintragung bei Spaltungen und Ausgliederungen.
 - Paragraf 22 UmwG: Gläubigerschutz.
 - Paragraf 613a BGB: Betriebsübergang prüfen, wenn Arbeitnehmer betroffen sind.
 

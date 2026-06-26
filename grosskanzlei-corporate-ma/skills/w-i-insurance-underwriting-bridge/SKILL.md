@@ -33,7 +33,7 @@ Nutze diesen Skill, wenn eine W&I-Versicherung in den Deal einbezogen wird und d
 
 ## Rechtsprechungs- und Normanker
 
-- Paragraf 43 VVG: Zurechnung und Vertreterwissen bei Versicherungsverträgen als Prüfhinweis.
+- Paragraf 69 und Paragraf 70 VVG: gesetzliche Vollmacht und Kenntnis des Versicherungsvertreters; bei Broker-, Makler- und Deal-Team-Wissen zusätzlich Vertreterstellung, Knowledge-Definition und Disclosure Letter getrennt prüfen.
 - Paragraf 19 VVG: vorvertragliche Anzeigeobliegenheit als Leitplanke für saubere Underwriting-Antworten.
 - Paragraf 133 und 157 BGB: Auslegung von SPA- und Police-Begriffen im Zusammenspiel.
 - BGH, 21.04.1997 - II ZR 175/95: dokumentierte Informationsgrundlage für Deal-Entscheidungen.
