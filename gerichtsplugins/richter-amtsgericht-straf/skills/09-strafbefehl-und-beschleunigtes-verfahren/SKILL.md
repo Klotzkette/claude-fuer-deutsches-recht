@@ -20,12 +20,12 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Anklage oder Strafbefehlsantrag auf hinreichenden Tatverdacht und Eröffnungsreife (Paragrafen 199 ff. StPO) prüfen.
-2. Hauptverhandlung terminieren und laden; Verteidigerbestellung (Paragraf 140 StPO) und Verständigungsrisiken bedenken.
-3. Beweisaufnahme nach Paragrafen 244 ff. StPO führen; Beweisanträge mit tragfähigem Grund bescheiden.
-4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung; In-dubio-pro-reo beachten.
-5. Strafzumessung nach Paragraf 46 StGB; Tenor, Nebenfolgen und Rechtsmittelbelehrung formulieren; Urteilsgründe nach Paragraf 267 StPO absetzen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+1. Statthaftigkeit des Strafbefehls prüfen: Vergehen, Strafrichter oder Schöffengericht zuständig (Paragraf 407 Absatz 1 StPO), hinreichender Tatverdacht gegeben, Hauptverhandlung nach Aktenlage entbehrlich.
+2. Zulässigen Rechtsfolgenkatalog nach Paragraf 407 Absatz 2 StPO einhalten; Freiheitsstrafe nur bis zu einem Jahr, zur Bewährung ausgesetzt, und nur bei verteidigtem Angeschuldigten.
+3. Notwendigen Inhalt des Strafbefehls nach Paragraf 409 StPO vollständig erfassen: Tat, angewendete Vorschriften, Beweismittel, Rechtsfolge, Belehrung über Einspruch und Rechtskraftwirkung.
+4. Einspruchslogik beachten (Paragraf 410 StPO): zweiwöchige Frist, mögliche Beschränkung, Übergang in die Hauptverhandlung; bei Ausbleiben Verwerfung nach Paragraf 412 StPO bedenken.
+5. Beim beschleunigten Verfahren (Paragrafen 417 bis 420 StPO) Eignung der Sache, einfachen Sachverhalt oder klare Beweislage und die Rechtsfolgengrenze prüfen; Aufklärungspflicht nicht verkürzen.
+6. Strafbefehl nicht wie ein Urteil begründen; die abweichende Form- und Einspruchslogik einhalten. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output

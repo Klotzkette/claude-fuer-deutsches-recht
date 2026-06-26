@@ -108,3 +108,11 @@ Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Be
 ## v392 Schlüssigkeitsregel
 
 In der Klägerstation wird der Klägervortrag als wahr unterstellt. Bestreiten, Einreden und Beweisfragen bleiben draußen. Entscheidend ist allein, ob jedes Tatbestandsmerkmal durch konkreten Tatsachenvortrag getragen wird und ob daraus die begehrte Rechtsfolge folgt. Fehlender Vortrag wird als Hinweis nach Paragraf 139 ZPO formuliert.
+
+## Doktrinäre Schärfung der Klägerstation
+
+Schlüssigkeit und Substantiierung sind zwei Stufen. Schlüssig ist der Vortrag, wenn die unterstellt wahren Tatsachen jedes Tatbestandsmerkmal ausfüllen und die Rechtsfolge tragen. Substantiiert ist er erst, wenn er so konkret ist, dass sich der Gegner einlassen und das Gericht Beweis erheben kann; die Substantiierungsanforderung steigt erst mit qualifiziertem Bestreiten der Gegenseite (Paragraf 138 Absatz 2 ZPO), nicht mit pauschalem Bestreiten. Überspanne die Anforderung nicht, sonst wird schlüssiger Vortrag prozessordnungswidrig abgeschnitten.
+
+Stützt der einheitliche Antrag sich auf mehrere Anspruchsgrundlagen, prüfe sie in der Reihenfolge Vertrag, culpa in contrahendo, Geschäftsführung ohne Auftrag, dinglicher Anspruch, Delikt, Bereicherung. Für den Klageerfolg genügt eine schlüssig tragende Grundlage; die übrigen werden nur geprüft, soweit sie zu einem weitergehenden Ergebnis (höhere Forderung, andere Verjährung, andere Beweislast) führen können. Eine echte Eventual- oder Hilfsbegründung wird nur unter der Bedingung des Misserfolgs der vorrangigen Grundlage geprüft; das ist im Votum offenzulegen. Doppelrelevante Tatsachen werden für die Zulässigkeit als wahr unterstellt und erst in der Begründetheit voll geprüft.
+
+Votum-Schema je Anspruchsgrundlage: vollständig schlüssig — teilweise schlüssig mit benannter Lücke — unschlüssig, aber durch Hinweis nach Paragraf 139 ZPO reparabel — unschlüssig und abweisungsreif. Tragendes oder fehlendes Tatbestandsmerkmal und Anschlussschritt stets benennen.

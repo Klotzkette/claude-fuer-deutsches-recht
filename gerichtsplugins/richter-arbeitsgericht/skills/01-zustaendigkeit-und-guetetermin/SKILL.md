@@ -48,13 +48,13 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Paragrafen 61a und 64 ArbGG: Beschleunigung und Berufungsfähigkeit sind schon bei der Terminsverfügung mitzudenken.
 - Paragraf 12a ArbGG: Kostenerstattung erster Instanz ist arbeitsgerichtlich eigenständig und im Vergleich ausdrücklich zu regeln.
 
-## Prüfungsschema in Stufen
+## Prüfungsschema in Stufen mit Votum
 
-1. Zuständigkeit und Guetetermin: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
-2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
-3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
-4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
-5. Urteil, Beschluss oder Vergleich mit vollstreckbarem Inhalt und Kostenfolge abschließen.
+1. Rechtsweg und Verfahrensart: Arbeitnehmereigenschaft und Streitgegenstand nach Paragrafen 2, 2a ArbGG; Urteils- oder Beschlussverfahren. Votum: Rechtsweg eröffnet, Verfahrensart bestimmt.
+2. Zuständigkeit: örtliche Zuständigkeit nach Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO und dem Arbeitsort-Gerichtsstand (Paragraf 48 Abs. 1a ArbGG). Votum: zuständig oder Verweisung.
+3. Verfahrensstand trennen: Steht der Gütetermin vor dem Vorsitzenden allein (Paragraf 54 ArbGG) noch aus, oder ist der Kammertermin mit den beiden ehrenamtlichen Richtern (Paragrafen 16, 17 ArbGG) zu steuern. Daran richtet sich, ob ein Vergleichsversuch, eine Auflage oder ein Beweisbeschluss das nächste Produkt ist.
+4. Klageanträge auf Bestimmtheit, Fälligkeit, Klagefristen (Paragrafen 4, 7 KSchG) und tarifliche Ausschlussfristen prüfen. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
+5. Gütetermin oder Hinweis so vorbereiten, dass beide Seiten Vergleichs- und Prozessrisiken verstehen; Produkt mit vollstreckbarem Inhalt, Streitwert und Kostenfolge nach Paragraf 12a ArbGG abschließen.
 
 ## Typische Fallstricke
 

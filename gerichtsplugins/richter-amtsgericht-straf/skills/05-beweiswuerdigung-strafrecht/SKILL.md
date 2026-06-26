@@ -20,17 +20,17 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Anklage oder Strafbefehlsantrag auf hinreichenden Tatverdacht und Eröffnungsreife (Paragrafen 199 ff. StPO) prüfen.
-2. Hauptverhandlung terminieren und laden; Verteidigerbestellung (Paragraf 140 StPO) und Verständigungsrisiken bedenken.
-3. Beweisaufnahme nach Paragrafen 244 ff. StPO führen; Beweisanträge mit tragfähigem Grund bescheiden.
-4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung; In-dubio-pro-reo beachten.
-5. Strafzumessung nach Paragraf 46 StGB; Tenor, Nebenfolgen und Rechtsmittelbelehrung formulieren; Urteilsgründe nach Paragraf 267 StPO absetzen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+1. Die Würdigung allein aus dem Inbegriff der Hauptverhandlung (Paragraf 261 StPO) bilden; Aktenstoff, der nicht eingeführt wurde, bleibt außer Betracht.
+2. Je entscheidungserhebliches Tatbestandsmerkmal das tragende Beweismittel benennen und Beweisthema, Beweisart und bisheriges Ergebnis zuordnen.
+3. Indizienketten, Aussage-gegen-Aussage-Konstellationen und Sachverständigengutachten getrennt würdigen; bei Aussage gegen Aussage Aussageentstehung, Aussagekonstanz und Belastungsmotive auswerten.
+4. Lücken, Widersprüche und naheliegende Alternativgeschehen offenlegen und auflösen; Sachverständigengutachten kritisch nachvollziehen statt nur zu übernehmen.
+5. Den Zweifelssatz in dubio pro reo als Entscheidungsregel bei verbleibenden Zweifeln anwenden, nicht als Beweisregel und nicht als Ersatz für die Würdigung.
+6. Überzeugung je Merkmal als erwiesen oder nicht erwiesen festhalten und die Folge benennen (Schuldspruch, Teilfreispruch, Freispruch); Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum); Anker-Rechtsprechung vor produktiver Zitierung verifizieren.
 
 ## Output
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Klares Votum je Tatbestandsmerkmal: zur Überzeugung des Gerichts erwiesen oder nicht, mit tragender Erwägung und der prozessualen Folge (Schuldspruch, Teilfreispruch, Freispruch). Die Beweiswürdigung wird in vollständig ausformulierten, rational nachprüfbaren Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Times New Roman 11 pt und dezimale Gliederung.
 
 ## Anker-Rechtsprechung
 

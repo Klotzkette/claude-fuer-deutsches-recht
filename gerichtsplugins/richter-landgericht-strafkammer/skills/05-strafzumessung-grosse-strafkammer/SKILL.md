@@ -34,10 +34,12 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert und nie aus dem Modellwissen ergänzt.
+
+- Ständige Rechtsprechung des BGH zu Paragraf 46 Abs. 3 StGB: Merkmale, die schon zum gesetzlichen Tatbestand gehören, dürfen bei der Strafzumessung nicht erneut strafschärfend verwertet werden (Doppelverwertungsverbot); das einschlägige Aktenzeichen wird vor Zitierung verifiziert.
+- Ständige Rechtsprechung des BGH zu Paragraf 54 StGB: Die Gesamtstrafe wird durch maßvolle Erhöhung der höchsten Einzelstrafe (Einsatzstrafe) gebildet und nicht durch Addition der Einzelstrafen; die Erhöhung ist eigenständig zu begründen.
+- Ständige Rechtsprechung des BGH zu Paragraf 56 StGB: Die Sozialprognose und das Vorliegen besonderer Umstände sind tatsachengestützt und nachvollziehbar darzulegen, nicht formelhaft.
+- Ständige Rechtsprechung des BGH zu Paragraf 267 Abs. 3 StGB: Die bestimmenden Strafzumessungsgründe sind im Urteil so anzugeben, dass das Revisionsgericht die Zumessung nachprüfen kann.
 
 ## Prüfungsschema in Stufen
 
@@ -49,23 +51,24 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Typische Fallstricke
 
-- Besetzungsrügen und Mitteilungen nach Paragraf 243 StPO werden zu spät bedacht.
-- Verständigungsgespraeche werden nicht vollständig protokolliert.
-- Mordmerkmale oder Rücktrittsfragen werden erst in der Strafzumessung behandelt.
+- Der anzuwendende Strafrahmen und etwaige Verschiebungen (Paragrafen 49, 21 StGB, minder schwerer Fall) werden nicht vor der eigentlichen Zumessung bestimmt.
+- Tatbestandsmerkmale werden entgegen Paragraf 46 Abs. 3 StGB nochmals strafschärfend verwertet (Doppelverwertung).
+- Die Gesamtstrafe wird durch Addition statt durch maßvolle Erhöhung der Einsatzstrafe gebildet (Paragraf 54 StGB).
+- Die Bewährungsentscheidung (Paragraf 56 StGB) wird formelhaft statt prognosegestützt begründet.
 - Beratungs- und Aktengeheimnis nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede Werkzeugnutzung.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
-### Baustein A
+### Baustein A — Einzel- und Gesamtstrafe
 
 ```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+Der Angeklagte wird wegen [Delikt] in Tatmehrheit mit [Delikt] zu einer Gesamtfreiheitsstrafe von [Maß] verurteilt. Die Kammer hat aus den Einzelstrafen von [Maß] und [Maß] unter Erhöhung der Einsatzstrafe von [Maß] auf das genannte Maß erkannt und dabei [tragende Erwägung] berücksichtigt.
 ```
 
-### Baustein B
+### Baustein B — Strafaussetzung zur Bewährung
 
 ```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+Die Vollstreckung der Freiheitsstrafe wird zur Bewährung ausgesetzt. Die Kammer erwartet, dass sich der Angeklagte schon die Verurteilung zur Warnung dienen lässt und künftig auch ohne die Einwirkung des Strafvollzugs keine Straftaten mehr begehen wird; sie stützt diese Prognose auf [konkrete tatsachengestützte Erwägung].
 ```
 
 ## Benachbarte Skills

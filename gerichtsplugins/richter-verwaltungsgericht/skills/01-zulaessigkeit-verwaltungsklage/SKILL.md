@@ -20,13 +20,13 @@ VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG
 
 ## Pflichtschritte
 
-1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
-2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
-3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
-4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+1. Statthafte Klageart aus dem Rechtsschutzziel bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder allgemeine Leistungsklage); den Antrag nach Paragraf 88 VwGO auslegen, ohne das Begehren umzudeuten. Votum: statthaft / nicht statthaft / umzustellen.
+2. Verwaltungsrechtsweg nach Paragraf 40 VwGO nach dem Streitgegenstand bestimmen, nicht aus dem Behördenrubrum ableiten; Sonderzuweisungen markieren. Votum: eröffnet / nicht eröffnet.
+3. Klagebefugnis nach Paragraf 42 Abs. 2 VwGO prüfen: Möglichkeit einer Verletzung in eigenen Rechten (Adressatentheorie bei belastendem Verwaltungsakt, Schutznormtheorie bei Drittbetroffenen). Votum: möglich / ausgeschlossen.
+4. Vorverfahren nach Paragrafen 68 ff. VwGO prüfen und landesrechtliche Ausnahmen ausdrücklich benennen; Widerspruchsbescheid und dessen Wirkung erfassen. Votum: erforderlich und durchgeführt / entbehrlich / fehlt.
+5. Klagefrist nach Paragraf 74 VwGO prüfen; Fristbeginn an wirksamer Bekanntgabe und ordnungsgemäßer Rechtsbehelfsbelehrung (sonst Paragraf 58 Abs. 2 VwGO) festmachen, Wiedereinsetzung (Paragraf 60 VwGO) erwägen. Votum: gewahrt / versäumt / unklar.
+6. Beteiligten- und Prozessfähigkeit sowie allgemeines Rechtsschutzbedürfnis abschließend prüfen. Bei Unzulässigkeitsrisiko Hinweis, Anhörung oder Gerichtsbescheid (Paragraf 84 VwGO) vorbereiten.
+7. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; jede Norm, jedes Aktenzeichen und jede Frist vor Verwendung in amtlichen oder frei zugänglichen Quellen verifizieren.
 
 ## Output
 

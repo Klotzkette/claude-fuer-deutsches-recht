@@ -20,13 +20,14 @@ ArbGG, BGB, KSchG, BetrVG, TzBfG, AGG, EFZG, BUrlG, GVG, ZPO
 
 ## Pflichtschritte
 
-1. Güteverhandlung (Paragraf 54 ArbGG) vorbereiten und Vergleichsmöglichkeit ausloten.
-2. Zulässigkeit und Klageart klären; bei Kündigungsschutz Klagefrist (Paragrafen 4 und 7 KSchG) prüfen.
-3. Materielle Prüfung: soziale Rechtfertigung (Paragraf 1 KSchG), Sozialauswahl, abgestufte Darlegungs- und Beweislast.
-4. Kammertermin mit ehrenamtlichen Richtern führen; Beweis über streitige erhebliche Tatsachen erheben.
-5. Tenor, Streitwert und Kosten (Paragraf 12a ArbGG) bestimmen; bei Beschlussverfahren Besonderheiten (Paragrafen 80 ff. ArbGG) beachten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+1. Klagefrist nach Paragrafen 4 und 7 KSchG zuerst kalendarisch prüfen: Zugang der schriftlichen Kündigung, drei Wochen, Wirksamkeitsfiktion bei Versäumnis, nachträgliche Zulassung nach Paragraf 5 KSchG. Votum: Klage fristwahrend ja oder nein.
+2. Anwendbarkeit des allgemeinen Kündigungsschutzes klären: Wartezeit von sechs Monaten nach Paragraf 1 Abs. 1 KSchG und Kleinbetriebsschwelle nach Paragraf 23 Abs. 1 KSchG. Votum: KSchG anwendbar oder nur Mindestschutz aus Paragraf 242 BGB und Treu und Glauben.
+3. Kündigungsgrund nach Paragraf 1 Abs. 2 KSchG getrennt prüfen: personenbedingt, verhaltensbedingt (mit Abmahnungserfordernis und Verhältnismäßigkeit) oder betriebsbedingt (Wegfall des Beschäftigungsbedarfs, Weiterbeschäftigungsmöglichkeit, Sozialauswahl). Darlegungs- und Beweislast für die tragenden Tatsachen liegt nach Paragraf 1 Abs. 2 S. 4 KSchG beim Arbeitgeber. Votum je Grund.
+4. Soziale Auswahl nach Paragraf 1 Abs. 3 KSchG prüfen: Vergleichbarkeit der Arbeitnehmer, Gewichtung von Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten und Schwerbehinderung. Ein Punkteschema darf die Auswahl nur strukturieren und entbindet nicht von der individuellen Schlussabwägung.
+5. Betriebsratsanhörung nach Paragraf 102 BetrVG sowie Sonderkündigungsschutz, Schwerbehinderung und Massenentlassung (Paragraf 17 KSchG) als eigene Wirksamkeitsbausteine vor der Begründetheit kontrollieren.
+6. Güteverhandlung (Paragraf 54 ArbGG) auf Vergleich vorbereiten: Beendigung gegen Abfindung, Beendigungsdatum, Freistellung, Annahmeverzug, Zeugnis und Abrechnung. Für den Kammertermin Beweis über streitige erhebliche Tatsachen erheben.
+7. Bei unzumutbarer Fortsetzung Auflösungsantrag nach Paragrafen 9, 10 KSchG prüfen und Abfindungsrahmen bestimmen; den allgemeinen Weiterbeschäftigungsanspruch nach obsiegendem Urteil mitdenken.
+8. Tenor, Streitwert (regelmäßig bis zu drei Bruttomonatsverdienste bei der Kündigung) und Kosten nach Paragraf 12a ArbGG bestimmen. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der menschliche Spruchkörper. Normen, Aktenzeichen, Daten, Schwellenwerte und Fristen vor Verwendung live verifizieren.
 
 ## Output
 
@@ -48,13 +49,14 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Paragraf 102 BetrVG: Betriebsratsanhörung ist eigener Wirksamkeitsbaustein und nicht bloße Prozessformalie.
 - Ständige Rechtsprechung zur abgestuften Darlegungslast im Kündigungsschutzprozess: Arbeitgebervortrag, Bestreiten und Beweisangebot sind stufenweise zu ordnen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
-## Prüfungsschema in Stufen
+## Prüfungsschema in Stufen mit Votum
 
-1. Kündigungsschutzklage Prüfen: Klagefrist, Zugang der Kündigung, Betriebsgröße, Wartezeit und Kündigungsart zuerst feststellen.
-2. Personen-, verhaltens- oder betriebsbedingte Gründe getrennt prüfen; Abmahnung, Interessenabwägung und Sozialauswahl nicht vermengen.
-3. Betriebsrat, Schwerbehindertenvertretung, Sonderkündigungsschutz und Massenentlassung vor der Begründetheit kontrollieren.
-4. Gütetermin auf Weiterbeschäftigung, Annahmeverzug, Abfindungsvergleich und Zeugnisfolge vorbereiten.
-5. Urteil oder Vergleich mit Beendigungsdatum, Abrechnung, Freistellung und Kosten sauber fassen.
+1. Zulässigkeit: Klagefrist (Paragrafen 4, 7 KSchG), Zugang der schriftlichen Kündigung, Klageart und Bestimmtheit des Feststellungsantrags. Votum: zulässig oder verfristet beziehungsweise unbestimmt.
+2. Eingangsfilter: Wartezeit (Paragraf 1 Abs. 1 KSchG) und Kleinbetrieb (Paragraf 23 Abs. 1 KSchG). Votum: allgemeiner Kündigungsschutz anwendbar oder nur Treu-und-Glauben-Kontrolle.
+3. Kündigungsgrund (Paragraf 1 Abs. 2 KSchG) getrennt nach personen-, verhaltens- und betriebsbedingt; Abmahnung, Verhältnismäßigkeit und Interessenabwägung nicht mit der Sozialauswahl vermengen. Darlegungslast nach Paragraf 1 Abs. 2 S. 4 KSchG beim Arbeitgeber. Votum je Grund: sozial gerechtfertigt oder nicht.
+4. Soziale Auswahl (Paragraf 1 Abs. 3 KSchG): Vergleichsgruppe, Gewichtung der Sozialdaten, etwaiges Punkteschema und Schlussabwägung. Votum: Auswahl tragfähig oder fehlerhaft.
+5. Sonstige Wirksamkeitsbausteine: Betriebsrat (Paragraf 102 BetrVG), Sonderkündigungsschutz, Schwerbehinderung, Massenentlassung. Votum je Baustein.
+6. Rechtsfolge und Produkt: Gütevergleich, Auflösungsantrag (Paragrafen 9, 10 KSchG), Weiterbeschäftigung, Urteil oder Vergleich mit Beendigungsdatum, Abrechnung, Freistellung, Streitwert und Kosten sauber fassen.
 
 ## Typische Fallstricke
 
@@ -75,6 +77,18 @@ Im Gütetermin wird mit den Parteien erörtert, ob eine Beendigung gegen Zahlung
 
 ```text
 Das Gericht weist darauf hin, dass es für [Kündigungsgrund/Zahlungsanspruch/Betriebsratsanhörung] auf [konkrete Tatsache] ankommen dürfte. Ergänzender Vortrag kann binnen [Frist] erfolgen.
+```
+
+### Baustein C (Auflösungsurteil, Paragrafen 9, 10 KSchG)
+
+```text
+Auf den Auflösungsantrag der [Partei] wird das Arbeitsverhältnis der Parteien gegen Zahlung einer Abfindung in Höhe von [Betrag in EUR] zum [Datum TT.MM.JJJJ] aufgelöst, weil eine den Betriebszwecken dienliche Zusammenarbeit nicht mehr zu erwarten ist.
+```
+
+### Baustein D (Feststellung und Weiterbeschäftigung)
+
+```text
+Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum TT.MM.JJJJ] nicht aufgelöst worden ist. Die Beklagte wird verurteilt, die Klägerin bis zum rechtskräftigen Abschluss des Rechtsstreits zu unveränderten Bedingungen als [Tätigkeit] weiterzubeschäftigen.
 ```
 
 ## Benachbarte Skills

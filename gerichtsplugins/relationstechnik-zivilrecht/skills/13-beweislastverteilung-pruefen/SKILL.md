@@ -116,3 +116,18 @@ Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Be
 ## v392 Beweislastregel
 
 Die Beweisstation enthält nur erhebliche und streitige Tatsachen. Ordne zuerst die Tatsache ein: anspruchsbegründend, rechtshindernd, rechtsvernichtend oder rechtshemmend. Danach prüfe Sonderregeln, sekundäre Darlegungslast, Anscheinsbeweis, Beweisvereitelung und Beweisnähe. Jede Beweisfrage wird als konkrete Tatsachenfrage formuliert.
+
+## Doktrinäre Schärfung der Beweislastverteilung
+
+Grundregel nach der Rosenberg-Formel: Jede Partei trägt die Beweislast für die tatsächlichen Voraussetzungen der ihr günstigen Norm. Der Anspruchsteller beweist die anspruchsbegründenden Tatsachen, der Gegner die rechtshindernden, rechtsvernichtenden und rechtshemmenden. Diese Grundregel wird nie mechanisch stehen gelassen, sondern auf Durchbrechungen geprüft:
+
+1. Gesetzliche Umkehr: Vertretenmüssen wird nach Paragraf 280 Absatz 1 Satz 2 BGB vermutet; weitere Sonderregeln sind Paragraf 477 BGB für den Verbrauchsgüterkauf und Paragraf 363 BGB nach Annahme als Erfüllung.
+2. Anscheinsbeweis: Bei typischem Geschehensablauf wird von einem feststehenden Sachverhalt auf Ursache oder Verschulden geschlossen; der Gegner erschüttert ihn durch ernsthaft mögliche atypische Verläufe. Er kehrt nicht die Beweislast um, sondern wirkt in der Beweiswürdigung.
+3. Gefahr- und Verantwortungsbereich: Liegt die Ursache im beherrschbaren Gefahren- oder Organisationsbereich einer Partei, kann ihr die Beweislast für Sorgfalt oder Verschulden zugewiesen sein.
+4. Beweisvereitelung und Beweisnähe: Schuldhafte Vereitelung der gegnerischen Beweisführung kann Beweiserleichterungen bis zur Umkehr auslösen.
+
+Trenne das Beweismaß: Paragraf 286 ZPO (volle Überzeugung mit praktisch brauchbarem Gewissheitsgrad) für Haftungsgrund und anspruchsbegründende Tatsachen, Paragraf 287 ZPO (Schätzung auf gesicherter Grundlage) für Schadenshöhe und haftungsausfüllende Kausalität. Bleibt eine erhebliche, streitige Tatsache unaufgeklärt (non liquet), entscheidet die Beweislast zu Lasten der beweisbelasteten Partei; das ist von der Beweiswürdigung nach Paragraf 286 ZPO zu unterscheiden.
+
+Leitentscheidungen als Anker nur mit Verifikationshinweis verwenden; keine Aktenzeichen oder Fundstellen aus dem Gedächtnis bilden.
+
+Votum-Schema je Beweisthema: Tatsachentyp und beweisbelastete Partei — anwendbare Durchbrechung mit ihrer Wirkung (echte Umkehr oder bloße Erleichterung) — Beweismaß nach Paragraf 286 oder Paragraf 287 ZPO — Folge bei non liquet.

@@ -104,3 +104,11 @@ Entscheidungsstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig,
 ## Beitrag zum Streitstoff in diesem Verfahren
 
 Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.
+
+## Doktrinäre Schärfung der Entscheidungsgründe
+
+Baue die Gründe in der zwingenden Folge Zulässigkeit, dann Begründetheit. In der Begründetheit wird die tragende Anspruchsgrundlage voll durchgeprüft; weitere Grundlagen werden nur erörtert, soweit sie zu einem weitergehenden Ergebnis führen können, erfolglose nur knapp abgeschichtet. Innerhalb der Anspruchsprüfung folgt die Reihenfolge der Beweislast: zuerst die anspruchsbegründenden Tatsachen (Kläger), dann rechtshindernde, rechtsvernichtende und rechtshemmende Einwendungen und Einreden (Beklagter). Doppelrelevante Tatsachen werden in der Zulässigkeit nur unterstellt und erst in der Begründetheit gewürdigt.
+
+Die Beweiswürdigung nach Paragraf 286 ZPO erklärt, warum das Gericht eine streitige Tatsache für wahr oder nicht wahr hält; sie ist von der Beweislastentscheidung zu trennen, die erst bei non liquet zu Lasten der beweisbelasteten Partei greift. Verwechsle das strenge Beweismaß des Paragraf 286 ZPO (Grund) nicht mit der Schätzung nach Paragraf 287 ZPO (Höhe). Wahre das rechtliche Gehör zu allen tragenden Punkten und vermeide Überraschungsentscheidungen; war ein Hinweis nach Paragraf 139 ZPO geboten, ist die Sache erst nach seiner Erteilung entscheidungsreif.
+
+Votum-Schema: entscheidungsreif und stattgebend — entscheidungsreif und abweisend — teilweise entscheidungsreif (Teil- oder Grundurteil) — nicht entscheidungsreif (Hinweis- oder Beweisbeschluss). Tenor, tragende Anspruchsgrundlage und Gründe müssen dieselbe Linie tragen; Nebenforderungen, Kosten und vorläufige Vollstreckbarkeit folgen dem Ergebnis.

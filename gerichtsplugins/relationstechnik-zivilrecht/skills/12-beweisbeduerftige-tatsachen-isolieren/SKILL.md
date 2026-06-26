@@ -104,3 +104,11 @@ Beweisstation: Nach dem derzeitigen Aktenstand ist [Tatsache] unstreitig, weil [
 ## Beitrag zum Streitstoff in diesem Verfahren
 
 Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Beklagtenstation, Beweisstation und Entscheidungsstation bleiben getrennt. Er benennt zu jedem Streitpunkt die tragende Tatsache, den Vortrag der Gegenseite, das Beweisangebot, die Beweislast und die Rechtsfolge. Fehlt eine Station, wird nicht frei ergänzt, sondern als Lücke mit Anschlussverfügung ausgewiesen.
+
+## Doktrinäre Schärfung der Tatsachenisolierung
+
+Beweisbedürftig ist eine Tatsache nur, wenn sie zugleich drei Bedingungen erfüllt: erheblich, streitig und nicht ohnehin feststehend. Erheblich ist sie, wenn ihr Vorliegen oder Nichtvorliegen den Anspruch oder eine erhebliche Einwendung oder Einrede beeinflusst. Streitig ist sie nur, wenn sie wirksam bestritten ist; nicht oder unsubstantiiert Bestrittenes gilt nach Paragraf 138 Absatz 3 ZPO als zugestanden, ein gerichtliches Geständnis nach Paragraf 288 ZPO und offenkundige Tatsachen nach Paragraf 291 ZPO sind dem Beweis entzogen.
+
+Trenne Tatsachenfrage und Rechtsfrage scharf: Beweisthema ist stets eine konkrete Tatsachenbehauptung, nie die Frage, ob der Anspruch besteht. Rechtsfragen, Wertungen und Subsumtionen gehören in die Entscheidungsgründe. Sortiere Ausforschungsbeweis aus, also Beweisanträge ohne greifbaren Tatsachenkern, die erst die Behauptung gewinnen sollen. Innere Tatsachen (Vorsatz, Kenntnis, Wille) sind über Indiztatsachen zugänglich, die ihrerseits beweisbedürftig sein können.
+
+Votum-Schema je Tatsache: unstreitig (kein Beweis) — streitig, aber unerheblich (kein Beweis) — streitig, erheblich und beweisbedürftig (in das Beweisprogramm mit Angabe von Beweislast und Beweismittel) — beweisbedürftig, aber nur über Indizien zugänglich (Indiztatsachen benennen).

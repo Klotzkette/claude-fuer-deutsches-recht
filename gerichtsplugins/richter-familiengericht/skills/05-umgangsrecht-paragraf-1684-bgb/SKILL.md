@@ -34,6 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
+Die folgenden Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de oder bundesverfassungsgericht.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
+
 - BGH, Beschluss vom 01.02.2017 - XII ZB 601/15: Auch ein paritätisches Wechselmodell kann Umgangsregelung sein, wenn Kindeswohl und praktische Durchführbarkeit es tragen.
 - BVerfG, Beschluss vom 29.01.2015 - 1 BvR 351/13: Umgangsbeschränkungen brauchen eine am Kindeswohl ausgerichtete Tatsachengrundlage und dürfen Elternrechte nicht schematisch verkürzen.
 - Paragrafen 1684, 1685, 1686, 1696 BGB sowie Paragrafen 155, 156, 158, 159, 89 FamFG bilden den Pflichtstamm: Umgangsrecht, Bindungspersonen, Auskunft, Abänderung, Beschleunigung, Anhörung, Verfahrensbeistand und Ordnungsmittel.
@@ -50,6 +52,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
    - Begleiteter Umgang, Ausschluss, Ordnungsmittel oder Umgangspflegschaft nur auf Tatsachen und Verhältnismäßigkeit stützen.
 5. Vollstreckbarkeit sichern.
    - Uhrzeiten, Orte, Ferienhälften, Ersatztermine und Ordnungsmittelhinweis ausformulieren.
+6. Votum formulieren.
+   - In einem vollständigen Satz festhalten, ob, in welchem Umfang und unter welchen Bedingungen Umgang dem Kindeswohl nach Paragraf 1684 BGB entspricht, ob die Kindesanhörung nach Paragraf 159 FamFG und die Jugendamtsbeteiligung nach Paragraf 162 FamFG durchgeführt sind und ob ein vollstreckbarer Tenor, eine einstweilige Anordnung oder zunächst ein Hinweis ergeht.
 
 ## Typische Fallstricke
 

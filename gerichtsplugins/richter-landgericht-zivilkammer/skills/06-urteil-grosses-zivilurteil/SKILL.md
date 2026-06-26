@@ -20,11 +20,11 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 ## Pflichtschritte
 
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+1. Entscheidungsreife und Entscheidungsart bestimmen: End-, Teil-, Grund- oder Versäumnisurteil; bei Teilurteil Widerspruchsfreiheit zum Schlussurteil sichern.
+2. Tenor absetzen und in Hauptsache, Zinsen, Nebenforderungen, Kosten und vorläufige Vollstreckbarkeit zerlegen; jeden Ausspruch konkret beziffern.
+3. Tatbestand nach Paragraf 313 Absatz 2 ZPO knapp und gegliedert fassen: unstreitiger Sachverhalt, streitiges Klägervorbringen, streitiges Beklagtenvorbringen, Anträge.
+4. Entscheidungsgründe aus der Relation entwickeln (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung nach Paragrafen 286, 287 ZPO); kein neuer Streitstoff ohne rechtliches Gehör.
+5. Nebenentscheidungen begründen: Kosten nach Paragrafen 91 bis 101 ZPO (auch bei Teilunterliegen, Erledigung oder Klagerücknahme), vorläufige Vollstreckbarkeit nach Paragrafen 708 bis 711 ZPO, Streitwert; Revisionszulassung (Paragraf 543 ZPO) und Beschwer kontrollieren.
 6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
@@ -62,18 +62,26 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
 - Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
+## Tenor-Bausteine
 
-### Baustein A
+### Baustein A (Hauptsache mit Zinsen, Kosten, Vollstreckbarkeit)
 
 ```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+1. Die Beklagte wird verurteilt, an die Klägerin [Betrag in EUR] nebst Zinsen in Höhe von [Satz] Prozentpunkten über dem Basiszinssatz seit dem [Datum TT.MM.JJJJ] zu zahlen.
+
+2. Im Übrigen wird die Klage abgewiesen.
+
+3. Von den Kosten des Rechtsstreits tragen die Klägerin [Quote] und die Beklagte [Quote].
+
+4. Das Urteil ist gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.
 ```
 
-### Baustein B
+### Baustein B (Streitwert und Revisionszulassung)
 
 ```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+Der Streitwert wird auf [Betrag in EUR] festgesetzt.
+
+Die Revision wird [nicht] zugelassen, weil [Begründung nach Paragraf 543 Absatz 2 ZPO oder Hinweis auf Fehlen der Zulassungsgründe].
 ```
 
 ## Benachbarte Skills

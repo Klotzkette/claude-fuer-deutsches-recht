@@ -42,10 +42,12 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
+Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert und nie aus dem Modellwissen ergänzt.
+
+- Ständige Rechtsprechung des BGH zu Paragraf 203 StPO: Hinreichender Tatverdacht setzt die nach vorläufiger Tatbewertung wahrscheinliche Verurteilung voraus und liegt damit über dem Anfangsverdacht; er ist tatbestandsmerkmalsbezogen festzustellen.
+- Ständige Rechtsprechung des BGH zum Eröffnungsbeschluss: Ein fehlender oder unwirksamer Eröffnungsbeschluss ist ein von Amts wegen in jeder Verfahrenslage zu beachtendes Verfahrenshindernis; das einschlägige Aktenzeichen wird vor Zitierung verifiziert.
+- Ständige Rechtsprechung des BGH zu Paragraf 207 Abs. 2 StPO: Eine vom Eröffnungsbeschluss abweichende rechtliche Würdigung oder Beschränkung des Verfahrensstoffs ist im Beschluss kenntlich zu machen und wahrt das rechtliche Gehör.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
 
 ## Prüfungsschema in Stufen
 
@@ -64,16 +66,16 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine
 
-### Baustein A
+### Baustein A — Eröffnungsbeschluss
 
 ```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+Die Anklage der Staatsanwaltschaft [Ort] vom [Datum TT.MM.JJJJ], Aktenzeichen [Az.], wird zur Hauptverhandlung vor der [große Strafkammer / das Schwurgericht] des Landgerichts [Ort] zugelassen und das Hauptverfahren eröffnet. Die Kammer entscheidet in der Hauptverhandlung in der Besetzung mit [zwei / drei] Berufsrichtern und zwei Schöffen.
 ```
 
-### Baustein B
+### Baustein B — Nichteröffnung bzw. Hinweis auf abweichende Würdigung
 
 ```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+Die Eröffnung des Hauptverfahrens wird abgelehnt, weil der hinreichende Tatverdacht hinsichtlich [Tatvorwurf] nicht besteht; tragend ist, dass [konkrete tatsächliche oder rechtliche Erwägung]. [Alternativ: Es wird darauf hingewiesen, dass abweichend von der Anklage auch eine Verurteilung wegen [Delikt] nach Paragraf [Norm] in Betracht kommt.]
 ```
 
 ## Benachbarte Skills

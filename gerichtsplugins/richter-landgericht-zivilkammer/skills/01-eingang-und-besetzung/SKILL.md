@@ -20,12 +20,12 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 ## Pflichtschritte
 
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+1. Rechtsweg und sachliche Zuständigkeit prüfen: Landgericht erstinstanzlich bei Streitwert über zehntausend Euro (Paragraf 71 Absatz 1 GVG); Sonderzuweisungen wie Paragraf 23 Nummer 2a GVG (Wohnraummietsachen ausschließlich Amtsgericht) und Spezialzuständigkeiten der Paragrafen 71 bis 74 GVG beachten.
+2. Örtliche und funktionelle Zuständigkeit klären; in der Berufung Paragraf 119 GVG; Anwaltszwang nach Paragraf 78 ZPO durchgängig beachten.
+3. Besetzung festlegen: Kammer, originärer Einzelrichter (Paragraf 348 ZPO) oder obligatorische Übertragung mangels besonderer Schwierigkeit und grundsätzlicher Bedeutung (Paragraf 348a ZPO); Geschäftsverteilungsplan heranziehen.
+4. Klage nach Paragraf 253 ZPO auf bestimmten Antrag, Parteien, Lebenssachverhalt, Bezifferung und Zustellfähigkeit kontrollieren.
+5. Verfahrensart wählen: früher erster Termin oder schriftliches Vorverfahren (Paragraf 272 ZPO); Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen.
+6. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck als Vorschlag zur richterlichen Prüfung absetzen; die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output

@@ -20,13 +20,13 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 ## Pflichtschritte
 
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+1. Statthaftigkeit und Zulässigkeit der Berufung prüfen: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 Absatz 2 ZPO), funktionelle Zuständigkeit des Landgerichts gegen amtsgerichtliche Urteile (Paragraf 119 GVG).
+2. Fristen kontrollieren: Berufungsfrist von einem Monat (Paragraf 517 ZPO) und Begründungsfrist von zwei Monaten (Paragraf 520 Absatz 2 ZPO), jeweils ab Zustellung des Urteils.
+3. Berufungsbegründung auf die Anforderungen des Paragraf 520 Absatz 3 ZPO prüfen: bestimmte Berufungsanträge sowie Rechtsfehler oder konkrete Anhaltspunkte für Zweifel an den Feststellungen.
+4. Prüfungsumfang nach den Paragrafen 513 und 529 ZPO bestimmen; Bindung an die erstinstanzlichen Feststellungen und Präklusion neuen Vorbringens nach Paragraf 531 Absatz 2 ZPO beachten.
+5. Entscheidungsform wählen: Zurückweisungsbeschluss bei offensichtlicher Aussichtslosigkeit nach vorherigem Hinweis (Paragraf 522 Absatz 2 ZPO) oder Berufungsurteil (Paragraf 540 ZPO); Tenor, Kosten, vorläufige Vollstreckbarkeit und Revisionszulassung (Paragraf 543 ZPO) absetzen.
 6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Fristen sowie Schwellenwerte vor Verwendung verifizieren.
 
 ## Output
 
@@ -41,17 +41,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüfungsschema in Stufen
 
-1. Berufungsverfahren Paragraf 511 Ff: Rechtsweg, sachliche Zuständigkeit, örtlichen Gerichtsstand und funktionelle Zuständigkeit zuerst prüfen.
-2. Klage nach Paragraf 253 ZPO auf Antrag, Parteien, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren.
-3. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Paragraf 495a ZPO oder Sonderzuständigkeit.
-4. Fristen und Kostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen können.
-5. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen.
+1. Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG.
+2. Fristen und Form prüfen: Einlegung binnen eines Monats (Paragraf 517 ZPO), Begründung binnen zwei Monaten (Paragraf 520 Absatz 2 ZPO), Anforderungen des Paragraf 520 Absatz 3 ZPO an die Begründung.
+3. Prüfungsumfang bestimmen (Paragrafen 513, 529 ZPO): Bindung an die erstinstanzlichen Feststellungen, soweit keine konkreten Anhaltspunkte für Zweifel bestehen; neues Vorbringen nur im Rahmen des Paragraf 531 Absatz 2 ZPO.
+4. Entscheidungsweg wählen: bei offensichtlicher Aussichtslosigkeit Zurückweisungsbeschluss nach vorherigem Hinweis (Paragraf 522 Absatz 2 ZPO), sonst Berufungsurteil (Paragraf 540 ZPO).
+5. Tenor, Kosten, vorläufige Vollstreckbarkeit, Beschwer und Revisionszulassung so absetzen, dass die Geschäftsstelle korrekt belehren kann.
 
 ## Typische Fallstricke
 
-- Der Gerichtsstand wird aus der Parteianschrift statt aus dem Streitgegenstand abgeleitet.
-- Zustellung wird verfügt, obwohl Kostenvorschuss, ladungsfähige Anschrift oder Antrag noch fehlen.
-- Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen.
+- Der Zurückweisungsbeschluss nach Paragraf 522 Absatz 2 ZPO wird ohne den zwingend vorherigen Hinweis erlassen.
+- Die Bindung an die erstinstanzlichen Feststellungen (Paragraf 529 ZPO) wird übergangen und der Streit wie in erster Instanz neu aufgerollt.
+- Verspätetes neues Vorbringen wird zugelassen, obwohl die Voraussetzungen des Paragraf 531 Absatz 2 ZPO fehlen.
+- Die Beschwer und die Voraussetzungen der Revisionszulassung (Paragraf 543 ZPO) werden nicht eigenständig geprüft.
 - Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
 ## Tenor-Bausteine bzw. Beschluss-Bausteine

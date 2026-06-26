@@ -20,12 +20,12 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Klage und Verteidigung in Stationen ordnen; unstreitigen Tatbestand und streitige Punkte herausarbeiten.
-2. Schlüssigkeit der Klage prüfen: ist der Klägervortrag anspruchsausfüllend?
-3. Erheblichkeit der Verteidigung prüfen: greifen Einwendungen oder Einreden bei unterstellter Wahrheit durch?
-4. Über streitige erhebliche Tatsachen Beweis erheben; freie Beweiswürdigung nach Paragraf 286 ZPO begründen.
-5. Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+1. Entscheidungsart und Entscheidungsreife bestimmen (streitiges Urteil, Versäumnis-, Anerkenntnis- oder Verzichtsurteil), bevor der Tenor formuliert wird; Tenor stets aus dem Ergebnis der Relation ableiten.
+2. Hauptsachetenor bestimmt und vollstreckungsfähig fassen (volle, teilweise oder Abweisung); Antrag und ausgeurteilter Betrag müssen sich decken.
+3. Nebenforderungen tenorieren: Zinsen nach Grund, Satz und Beginn (Paragrafen 286, 288, 291 BGB), weitere Nebenforderungen gesondert.
+4. Kostenentscheidung nach Obsiegen und Unterliegen begründen: Paragraf 91 ZPO bei vollem Obsiegen, Paragraf 92 ZPO bei Teilunterliegen mit Quote, Paragraf 93 ZPO bei sofortigem Anerkenntnis, Paragraf 269 Absatz 3 ZPO bei Rücknahme.
+5. Vorläufige Vollstreckbarkeit nach Paragrafen 708 bis 711 ZPO anordnen; insbesondere Paragraf 708 Nummer 11, Paragraf 711 und die Abwendungsbefugnis sowie bei Versäumnis Paragraf 709 prüfen.
+6. Streitwert nach Paragraf 3 ZPO festsetzen und Beschwer sowie Berufungssumme nach Paragraf 511 Absatz 2 ZPO kontrollieren, damit die Geschäftsstelle korrekt belehren kann; als Vorschlag zur richterlichen Prüfung markieren.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output

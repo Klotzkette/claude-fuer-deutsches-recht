@@ -42,10 +42,12 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
+Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert und nie aus dem Modellwissen ergänzt.
+
 - BGH, Urteil vom 30.07.1999 - 1 StR 618/98, BGHSt 45, 164: Aussage-gegen-Aussage-Fälle verlangen eine besonders sorgfältige Gesamtwürdigung von Aussageentstehung, Aussagekonstanz und Belastungsmotiven.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+- Ständige Rechtsprechung des BGH zu Paragraf 261 StPO: Die Beweiswürdigung muss sich auf den Inbegriff der Hauptverhandlung stützen, darf keine wesentlichen Umstände unerörtert lassen und muss frei von Lücken, Widersprüchen und Verstößen gegen Denk- und Erfahrungssätze sein.
+- Ständige Rechtsprechung des BGH zum Zweifelssatz: In dubio pro reo ist eine Entscheidungsregel für die abschließende Würdigung und keine Beweisregel für einzelne Indizien; das einschlägige Aktenzeichen wird vor Zitierung verifiziert.
+- Ständige Rechtsprechung des BGH zur Indizienbeweisführung: Die Indizien sind in einer geschlossenen Gesamtschau zu würdigen; eine isolierte Einzelbewertung trägt den Schuldspruch nicht.
 
 ## Prüfungsschema in Stufen
 
@@ -62,18 +64,18 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Ein Ablehnungsgrund wird formelhaft genannt, ohne das konkrete Beweisthema zu subsumieren.
 - Aktengeheimnis nach Paragraf 353b StGB und Amtsverschwiegenheit nach Paragraf 43 DRiG bleiben bei jeder externen Werkzeugnutzung Sperren.
 
-## Tenor-Bausteine bzw. Beschluss-Bausteine
+## Beweiswürdigungs-Bausteine
 
-### Baustein A
+### Baustein A — Aussage gegen Aussage
 
 ```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+Die Überzeugung der Kammer beruht auf der Aussage der Zeugin [Name]. Da der Aussage des einzigen Belastungszeugen keine weiteren belastenden Beweismittel zur Seite stehen, hat die Kammer die Entstehung, die Konstanz und die Belastungsmotive der Aussage einer besonders sorgfältigen Gesamtwürdigung unterzogen; sie hält die Aussage aus folgenden Gründen für glaubhaft: [konkrete Erwägung].
 ```
 
-### Baustein B
+### Baustein B — Zweifel zugunsten des Angeklagten
 
 ```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+Die Kammer hat sich nach Ausschöpfung aller Beweismittel nicht mit der für eine Verurteilung erforderlichen Sicherheit davon überzeugen können, dass [Tatsache] vorliegt. Verbleibende Zweifel gehen nach dem Grundsatz in dubio pro reo zugunsten des Angeklagten; sie wirken sich [auf den Schuldspruch / auf die Strafzumessung] wie folgt aus: [konkrete Folge].
 ```
 
 ## Benachbarte Skills

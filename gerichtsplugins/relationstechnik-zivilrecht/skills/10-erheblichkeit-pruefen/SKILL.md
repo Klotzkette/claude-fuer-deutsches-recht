@@ -116,3 +116,11 @@ Dieser Skill ist in die Vier-Stationen-Relation einzuhängen: Klägerstation, Be
 ## v392 Erheblichkeitsregel
 
 In der Beklagtenstation wird der Beklagtenvortrag als wahr unterstellt. Erheblich ist nur, was den Anspruch rechtlich hindert, vernichtet, hemmt oder ein anspruchsbegründendes Merkmal wirksam bestreitet. Bloße Rechtsmeinungen, pauschales Bestreiten und nicht entscheidungserhebliche Nebenpunkte werden ausgeschieden.
+
+## Doktrinäre Schärfung der Erheblichkeitsprüfung
+
+Erheblichkeit ist die Schwelle vor der Beweisstation: Nur was bei Wahrunterstellung die schlüssige Klage ganz oder teilweise zu Fall bringt, ist erheblich und kann beweisbedürftig werden. Ordne jedes erhebliche Verteidigungsmittel zuerst einem der drei Typen zu, weil daran die Beweislast hängt: rechtshindernd (verhindert das Entstehen, etwa Formmangel nach Paragraf 125 BGB), rechtsvernichtend (lässt erlöschen, etwa Erfüllung nach Paragraf 362 BGB) oder rechtshemmend (Leistungsverweigerungsrecht, etwa Verjährung nach Paragraf 214 BGB). Einreden sind nur erheblich, wenn sie erhoben sind; Einwendungen werden von Amts wegen beachtet.
+
+Trenne Erheblichkeit von Beweisbarkeit. Ein unerhebliches, aber substantiiert bestrittenes Vorbringen wandert nicht in die Beweisstation. Umgekehrt wird ein erhebliches, aber nicht substantiiert bestrittenes anspruchsbegründendes Merkmal nach Paragraf 138 Absatz 3 ZPO unstreitig und damit nicht beweisbedürftig. Pauschales Bestreiten genügt nicht, wo eine sekundäre Darlegungslast besteht.
+
+Votum-Schema je Mittel: erheblich und streitig (geht in die Beweisstation, mit Typzuordnung und Beweislast) — erheblich und unstreitig (entscheidungsreif zu Lasten des Klägers) — unerheblich (ausgeschieden mit kurzer Begründung) — hinweisbedürftig nach Paragraf 139 ZPO.

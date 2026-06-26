@@ -20,17 +20,17 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Pflichtschritte
 
-1. Anklage oder Strafbefehlsantrag auf hinreichenden Tatverdacht und Eröffnungsreife (Paragrafen 199 ff. StPO) prüfen.
-2. Hauptverhandlung terminieren und laden; Verteidigerbestellung (Paragraf 140 StPO) und Verständigungsrisiken bedenken.
-3. Beweisaufnahme nach Paragrafen 244 ff. StPO führen; Beweisanträge mit tragfähigem Grund bescheiden.
-4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung; In-dubio-pro-reo beachten.
-5. Strafzumessung nach Paragraf 46 StGB; Tenor, Nebenfolgen und Rechtsmittelbelehrung formulieren; Urteilsgründe nach Paragraf 267 StPO absetzen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+1. Sachliche Zuständigkeit bestimmen: Strafrichter (Paragraf 25 GVG) bei Straferwartung bis zwei Jahren oder Privatklage, Schöffengericht (Paragraf 28 GVG) im Übrigen bis vier Jahre. Prüfen, ob die beantragte Verfahrensart zur Straferwartung passt.
+2. Anklage auf ordnungsgemäßen Anklagesatz und wesentliches Ergebnis der Ermittlungen (Paragraf 200 StPO) prüfen; ist die Tat hinreichend umgrenzt?
+3. Hinreichenden Tatverdacht (Paragraf 203 StPO) je Tatbestandsmerkmal aus Aktenstoff, Beweismitteln und Einlassung ableiten: Verurteilung muss wahrscheinlicher sein als Freispruch; bloßer Anfangsverdacht genügt nicht.
+4. Verfahrenshindernisse vor der Eröffnung prüfen: Verjährung, Strafklageverbrauch, fehlender oder verfristeter Strafantrag, ordnungsgemäße Zustellung.
+5. Alternativen erwägen: abweichende rechtliche Würdigung mit Hinweis (Paragrafen 207, 265 StPO), Einstellung (Paragrafen 153, 153a StPO) oder Strafbefehl (Paragraf 408 StPO).
+6. Bei Eröffnung Besetzung, Ladungen, notwendige Verteidigung (Paragraf 140 StPO) und Verständigungstransparenz festhalten; bei Nichteröffnung (Paragraf 204 StPO) rechtliches Gehör sichern.
+7. Votum formulieren und als Vorschlag zur richterlichen Prüfung markieren; Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+Klares Votum: Eröffnung (Paragraf 203 StPO), Nichteröffnung (Paragraf 204 StPO), abweichende Würdigung mit Hinweis, Einstellung oder Strafbefehl — jeweils mit tragender Norm, Begründung in einem Satz und konkreter Anschlussverfügung. Strafbefehlsentwürfe, Eröffnungs- und Nichteröffnungsbeschlüsse werden in vollständig ausformulierten Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Times New Roman 11 pt und dezimale Gliederung.
 
 ## Anker-Rechtsprechung
 

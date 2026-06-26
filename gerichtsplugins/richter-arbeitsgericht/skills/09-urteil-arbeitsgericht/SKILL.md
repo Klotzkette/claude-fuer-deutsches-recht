@@ -48,13 +48,13 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Ständige Rechtsprechung zu Paragraf 286 ZPO: Beweiswürdigung verlangt eine nachvollziehbare Überzeugungsbildung aus dem gesamten Inhalt der Verhandlung; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 - Paragraf 64 ArbGG: Berufungsfähigkeit und Zulassung sind im Tenor beziehungsweise in den Gründen präzise zu prüfen.
 
-## Prüfungsschema in Stufen
+## Prüfungsschema in Stufen mit Votum
 
-1. Urteil Arbeitsgericht: Rechtsweg, örtliche Zuständigkeit, Verfahrensart und Güteverhandlung zuerst steuern.
-2. Klageanträge auf Bestimmtheit, Fälligkeit, Fristen und tarifliche Ausschlussfristen prüfen.
-3. Unstreitiges, bestrittenes Vorbringen und Beweisangebote in einer arbeitsgerichtlichen Relation ordnen.
-4. Hinweise so formulieren, dass beide Seiten Vergleichs- und Prozessrisiken verstehen.
-5. Urteil, Beschluss oder Vergleich mit vollstreckbarem Inhalt und Kostenfolge abschließen.
+1. Tenor zuerst: Feststellungs-, Leistungs- und etwaiger Weiterbeschäftigungsausspruch klar und vollstreckbar fassen; bei Zahlung brutto und netto trennen. Votum: stattgebend, abweisend oder teilweise.
+2. Tatbestand nach Paragraf 313 ZPO: unstreitiges Vorbringen, streitiges Vorbringen beider Seiten und Anträge knapp und nachvollziehbar absetzen.
+3. Entscheidungsgründe: Zulässigkeit, dann Begründetheit nach Tatbestandsmerkmalen; bei Beweisaufnahme nachvollziehbare Beweiswürdigung nach Paragraf 286 ZPO. Bei Kündigungsschutz die Stationen Frist, Wartezeit, Grund (Paragraf 1 Abs. 2 KSchG), Sozialauswahl (Paragraf 1 Abs. 3 KSchG) und Betriebsratsanhörung (Paragraf 102 BetrVG) abarbeiten.
+4. Streitwert (regelmäßig bis zu drei Bruttomonatsverdienste bei der Kündigung), Kosten nach Paragraf 12a ArbGG und Berufungszulassung nach Paragrafen 61, 64 ArbGG behandeln.
+5. Rechtsmittelbelehrung (Berufung an das LAG nach Paragraf 64 ArbGG, Revision an das BAG nach Paragraf 72 ArbGG) und Zustellung sicherstellen; Ergebnis als Entwurf zur richterlichen Prüfung markieren.
 
 ## Typische Fallstricke
 

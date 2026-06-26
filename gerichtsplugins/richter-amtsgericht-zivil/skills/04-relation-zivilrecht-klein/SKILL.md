@@ -20,12 +20,12 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Klage und Verteidigung in Stationen ordnen; unstreitigen Tatbestand und streitige Punkte herausarbeiten.
-2. Schlüssigkeit der Klage prüfen: ist der Klägervortrag anspruchsausfüllend?
-3. Erheblichkeit der Verteidigung prüfen: greifen Einwendungen oder Einreden bei unterstellter Wahrheit durch?
-4. Über streitige erhebliche Tatsachen Beweis erheben; freie Beweiswürdigung nach Paragraf 286 ZPO begründen.
-5. Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+1. Zulässigkeit vor Begründetheit: Zuständigkeit (Paragraf 23 GVG, Paragrafen 12 ff. ZPO) und Klage nach Paragraf 253 ZPO klären, bevor die Relation aufgebaut wird; bei Mängeln zunächst Hinweis nach Paragraf 139 ZPO statt Sachentscheidung.
+2. Streitgegenstand und Anträge fixieren; unstreitigen Sachverhalt (Paragraf 138 Absatz 3 ZPO) von bestrittenem Vortrag trennen.
+3. Klägerstation: Schlüssigkeit prüfen, also ob der Klägervortrag bei unterstellter Wahrheit die Anspruchsgrundlage ausfüllt (Reihenfolge Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung). Votum: schlüssig, unschlüssig oder hinweisbedürftig.
+4. Beklagtenstation: Erheblichkeit von Einwendungen, Einreden, Aufrechnung und Widerklage prüfen, also ob sie bei unterstellter Wahrheit den Anspruch erschüttern. Votum: erheblich oder unerheblich.
+5. Beweisstation: nur streitige und entscheidungserhebliche Tatsachen aufnehmen, Beweislast zuordnen und Beweismaß bestimmen (Vollbeweis Paragraf 286 ZPO, Schadenshöhe Paragraf 287 ZPO). Votum: Beweisbeschluss, Hinweis oder Entscheidungsreife.
+6. Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen; als Vorschlag zur richterlichen Prüfung markieren, die Letztentscheidung trifft der Mensch.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output

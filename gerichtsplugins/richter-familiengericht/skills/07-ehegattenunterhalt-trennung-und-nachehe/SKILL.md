@@ -34,6 +34,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
+Aktenzeichen und Daten sind Sucheinstiege und vor Übernahme in ein Arbeitsprodukt über bundesgerichtshof.de zu verifizieren; keine ungeprüfte Verwendung. Eine Präjudizienbindung besteht nicht (Ausnahme Paragraf 31 BVerfGG).
+
 - BGH, Urteil vom 20.12.2023 - XII ZR 181/22: Ehegattenunterhalt verlangt eine konkrete Bedarfs- und Einkommensprüfung; ehebedingte Nachteile, Erwerbsobliegenheit und Begrenzung dürfen nicht schematisch abgearbeitet werden.
 - Ständige Rechtsprechung des BGH (XII. Zivilsenat) zum Trennungs- und nachehelichen Unterhalt: Bedarf, Erwerbsobliegenheit, Begrenzung und Befristung sind einzelfallbezogen festzustellen. Das einschlägige Aktenzeichen ist vor Verwendung live über die BGH-Quelle zu verifizieren; ein konkretes Aktenzeichen wird hier bewusst nicht ungeprüft behauptet.
 - Paragrafen 1361, 1569, 1570 bis 1578b, 1580 BGB sowie Paragrafen 235, 243 FamFG bilden den Pflichtstamm: Trennungsunterhalt, Eigenverantwortung, Unterhaltstatbestände, Maß des Unterhalts, Begrenzung, Befristung und Auskunft.
@@ -48,8 +50,10 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
    - Halbteilungsgrundsatz, Erwerbstätigenbonus, Vorsorgeunterhalt, trennungsbedingter Mehrbedarf und konkrete Bedarfspositionen offenlegen.
 4. Bedürftigkeit und Leistungsfähigkeit prüfen.
    - Selbstbehalt, Erwerbsobliegenheit, fiktives Einkommen, Kindesbetreuung, Krankheit und Vermögenseinsatz gesondert begründen.
-5. Begrenzung und Befristung prüfen.
-   - Ehebedingte Nachteile, Dauer der Ehe, Rollenverteilung, Kindesbetreuung und Vertrauenstatbestand einzelfallbezogen würdigen.
+5. Begrenzung und Befristung nach Paragraf 1578b BGB prüfen.
+   - Ehebedingte Nachteile, Dauer der Ehe, Rollenverteilung, Kindesbetreuung und Vertrauenstatbestand einzelfallbezogen würdigen; Herabsetzung des Maßes und zeitliche Befristung getrennt prüfen und je gesondert begründen. Trennungsunterhalt nach Paragraf 1361 BGB wird nicht nach Paragraf 1578b BGB befristet.
+6. Votum festhalten.
+   - In einem vollständigen Satz ausweisen, welche Unterhaltsart einschlägig ist, ob und in welcher Höhe Unterhalt geschuldet ist, ob nach Paragraf 1578b BGB herabzusetzen oder zu befristen ist und ob ein Endbeschluss, eine einstweilige Anordnung oder zunächst eine Auskunfts- und Hinweisverfügung ergeht.
 
 ## Typische Fallstricke
 

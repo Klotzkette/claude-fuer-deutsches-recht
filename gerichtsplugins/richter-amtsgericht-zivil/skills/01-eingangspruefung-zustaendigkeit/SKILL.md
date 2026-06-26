@@ -20,12 +20,12 @@ ZPO, BGB, GVG, RPflG, GKG, RVG
 
 ## Pflichtschritte
 
-1. Klage und Verteidigung in Stationen ordnen; unstreitigen Tatbestand und streitige Punkte herausarbeiten.
-2. Schlüssigkeit der Klage prüfen: ist der Klägervortrag anspruchsausfüllend?
-3. Erheblichkeit der Verteidigung prüfen: greifen Einwendungen oder Einreden bei unterstellter Wahrheit durch?
-4. Über streitige erhebliche Tatsachen Beweis erheben; freie Beweiswürdigung nach Paragraf 286 ZPO begründen.
-5. Tenor, Streitwert (Paragraf 3 ZPO), Kosten und vorläufige Vollstreckbarkeit (Paragrafen 708 ff. ZPO) bestimmen; Berufungsfähigkeit (Paragraf 511 ZPO) im Blick behalten.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+1. Rechtsweg und sachliche Zuständigkeit klären: Paragraf 23 Nummer 1 GVG nach Streitwert bis einschließlich zehntausend Euro, darüber Landgericht nach Paragraf 71 Absatz 1 GVG; Wohnraummietsachen streitwertunabhängig und ausschließlich beim Amtsgericht nach Paragraf 23 Nummer 2a GVG. Votum: zuständig oder Verweisung nach Paragraf 281 ZPO.
+2. Örtliche Zuständigkeit nach Paragrafen 12 ff. ZPO und etwaige ausschließliche Gerichtsstände (etwa Paragraf 29a ZPO bei Wohnraummiete) bestimmen.
+3. Klage nach Paragraf 253 Absatz 2 ZPO auf bestimmten Antrag, Parteien, ladungsfähige Anschrift, Lebenssachverhalt, Bezifferung, Anlagen und Zustellfähigkeit kontrollieren. Votum: zustellfähig, hinweisbedürftig nach Paragraf 139 ZPO oder unzulässig.
+4. Verfahrensart festlegen: schriftliches Vorverfahren, früher erster Termin, Verfahren nach Paragraf 495a ZPO oder Sonderzuständigkeit; bei Paragraf 495a ZPO Streitwertgrenze und rechtliches Gehör prüfen.
+5. Fristen und Gerichtskostenvorschuss so verfügen, dass Zustellung und Verteidigungsanzeige ohne Rückfrage laufen; Anwaltszwang erst vor dem Landgericht nach Paragraf 78 Absatz 1 ZPO.
+6. Erste richterliche Verfügung mit Hinweisen, Wiedervorlage und konkretem nächsten Aktenzweck abschließen; als Vorschlag zur richterlichen Prüfung markieren.
 7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
 
 ## Output
