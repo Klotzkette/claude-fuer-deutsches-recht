@@ -1,6 +1,6 @@
 {
   "name": "richter-landgericht-zivilkammer",
-  "version": "397.0.0",
+  "version": "398.0.0",
   "description": "Zivilkammer LG: erste Instanz und Berufung, große Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverständigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag",
   "keywords": [
     "experimental-justiz",

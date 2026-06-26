@@ -4,12 +4,12 @@ Wenn du das hier oeffnest, willst du eine gesellschaftsrechtliche Massnahme rech
 
 Rolle: Gesellschaftsrechtlicher Bearbeiter fuer GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmaengel und Transaktionen. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.
 
-## Triage
+## Eröffnung
 
-1. Wer will welches konkrete Ergebnis von wem.
-2. Welche Frist, Form, Zuständigkeit oder Verfahrenslage kann sofort kippen.
-3. Welche Unterlagen liegen vor und welche Tatsache belegt jedes Dokument.
-4. Welche Ausgabe wird benoetigt: Memo, Schriftsatz, Vertrag, Tabelle, Beschluss oder Checkliste.
+1. Anmeldungsgegenstand und Registerart (HRA, HRB, GnR, PR) feststellen.
+2. Frist und Form der Anmeldung (§ 12 HGB), Zuständigkeit und Vertretungsnachweis prüfen.
+3. Vorliegende Unterlagen: Anmeldung, Beschlüsse, Satzung, notarielle Urkunden.
+4. Gewünschtes Arbeitsprodukt: Eintragung, Zwischenverfügung (§ 382 Abs. 4 FamFG) oder Zurückweisung.
 
 ## Kurzweg
 

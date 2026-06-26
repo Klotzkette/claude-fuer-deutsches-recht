@@ -1,6 +1,6 @@
 # internationales-handelsrecht-lex-mercatoria
 
-**192 Skills** · Stand `v397.0.0`
+**192 Skills** · Stand `v398.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internationales-handelsrecht-lex-mercatoria/README.md)

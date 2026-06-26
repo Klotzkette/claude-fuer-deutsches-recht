@@ -214,35 +214,10 @@ Ist der Klägervortrag schlüssig, der Beklagtenvortrag unerheblich und keine Be
 
 Kurzgutachten: Vier Stationen, je maximal fünf Sätze, mit Schlussvorschlag. Große Relation: Streitstofftabelle, Stationen, Beweisstation, Entscheidungsentwurf. Richterliches Votum: knappe Entscheidungsrichtung, Hinweis- oder Beweisbedarf, Tenorvorschlag. Mandantenmemo: Prozessrisiko, Beweisbedarf, Vergleichskorridor, nächster Schritt.
 
-## 20. Ausführliches Relationsschema für Anspruchsprüfung
-
-Prüfe jede Anspruchsgrundlage in derselben Reihenfolge. Zuerst wird der Streitgegenstand festgelegt, damit nicht mehrere Lebenssachverhalte unbemerkt vermischt werden. Danach wird die Anspruchsgrundlage mit Rechtsfolge genannt. Für jedes Tatbestandsmerkmal wird der Klägervortrag eingetragen. Fehlt ein Merkmal, endet die Klägerstation mit nicht schlüssig und einem konkreten Hinweis. Ist die Klägerstation schlüssig, folgt erst dann die Beklagtenstation.
-
-Beispielstruktur:
-
-1. Anspruch aus Vertrag: Vertragsschluss, Leistung, Fälligkeit, keine Erfüllung.
-2. Einwendung Erfüllung: Zahlung, Leistung an Erfüllungs statt, Erlass.
-3. Einrede Verjährung: Anspruch entstanden, Regelverjährung, Beginn, Hemmung, Neubeginn.
-4. Ergebnis: entscheidungsreif, Hinweisbedarf oder Beweisaufnahme.
-
-Die Relation muss bei jeder Anspruchsgrundlage erklären, warum sie weiter geprüft oder ausgeschieden wird. Schweigen ist keine Begründung.
-
-## 21. Beweislast nach Anspruchsrichtung
-
-Die Grundregel und ihre Durchbrechungen sind in Abschnitt 8.1 entfaltet. Prüfe ergänzend die typischen Sonderlagen je nach Anspruch: Gefahrübergang, Abnahme, Verbrauchsgüterkauf, Vertretenmüssen bei Pflichtverletzung, Aufklärungspflichten, Verkehrssicherung, sekundäre Darlegungslast und Beweisnähe.
-
-Wenn die Beweislast ungeklärt ist, wird kein endgültiger Entscheidungsvorschlag abgegeben. Stattdessen wird der Streitstand mit beiden Folgen formuliert: Bei Beweislast Kläger wäre die Klage abzuweisen; bei Beweislast Beklagter wäre der Einwand unerheblich oder unbelegt.
-
-## 22. Beweiswürdigung und Entscheidungsreife
-
-Nach Paragraf 286 ZPO genügt nicht, Beweismittel aufzuzählen. Die Würdigung muss erklären, warum das Gericht eine Tatsache für wahr oder nicht wahr hält. Maßgeblich sind Wahrnehmungsnähe, Detailgrad, Widerspruchsfreiheit, Eigeninteresse, Urkundenlage, zeitliche Nähe und Plausibilität im Gesamtbild. Bei Sachverständigen ist zusätzlich zu prüfen: Beweisfrage, Anknüpfungstatsachen, Fachkunde, Nachvollziehbarkeit, Ergänzungsbedarf.
-
-Vor der Beweisaufnahme wird nur prognostiziert. Nach der Beweisaufnahme wird gewürdigt. Diese Grenze darf die Relation nicht verwischen.
-
-## 23. Vergleichsfenster
+## 20. Vergleichsfenster
 
 Ein Vergleichsvorschlag setzt Relation voraus. Der Vergleichskorridor orientiert sich an Schlüssigkeit, Erheblichkeit, Beweislast, Beweisstärke, Kostenrisiko, Vollstreckbarkeit und Zeitwert. Gib keine pauschale Halbierung aus. Formuliere stattdessen: Nach derzeitigem Beweisrisiko liegt ein sachlicher Vergleichskorridor zwischen [Betrag] und [Betrag], weil [Tatsache] beim Kläger liegt, [Einwendung] beweisbelastet beim Beklagten liegt und die Beweisaufnahme [Risiko] offen lässt.
 
-## 24. Schlussprodukt prüfen
+## 21. Schlussprodukt prüfen
 
 Ein Urteilsentwurf ist erst fertig, wenn Tenor und Gründe dieselbe Anspruchsgrundlage tragen, Nebenforderungen begründet sind, Kosten und vorläufige Vollstreckbarkeit stimmen und der Tatbestand den Streitstoff nicht verschiebt. Ein Hinweisbeschluss ist erst fertig, wenn der Empfänger erkennt, welchen Vortrag oder Beleg er nachreichen muss. Ein Beweisbeschluss ist erst fertig, wenn Beweisthema, Beweislast und Beweismittel passen.

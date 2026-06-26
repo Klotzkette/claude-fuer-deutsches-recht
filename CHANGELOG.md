@@ -1,3 +1,13 @@
+# v398.0.0 — Gerichtsplugins-Workflows veredelt, Relationstechnik geschärft, Staatsanwaltschaft-Anfängerausbau
+
+- Werkstatt- und Schnellstart-Workflows aller 15 Gerichtsplugins beschleunigt und vertieft: scharfe agentische Eröffnung für den schnellen Einstieg ins Arbeitsprodukt, generische Boilerplate-Stationen durch spruchkörperspezifische Prüfraster mit klarem Votum je Station ersetzt, präzise Normzitate, Verifikationshinweise vor Leitentscheidungen ohne erfundene Aktenzeichen.
+- Relationstechnik Zivilrecht doktrinär geschärft: Schlüssigkeit gegen Substantiierungslast, Staffelung mehrerer Anspruchsgrundlagen und Eventualbegründung, doppelrelevante Tatsachen, Trennung rechtshindernd, rechtsvernichtend und rechtshemmend, primäre und sekundäre Darlegungslast, Rosenberg-Grundregel mit Durchbrechungen, Beweismaß Paragraf 286 gegen Paragraf 287 ZPO und non liquet.
+- Staatsanwaltschaft Praxiseinstieg für Anfänger ausgebaut: neuer Onboarding-Skill erste-woche-staatsanwaltschaft mit Dezernatsübernahme, Fristen- und Haftsachenkontrolle, Entscheidungsbäumen für Einstellung, Anklage und Strafbefehl sowie typischen Anfängerfehlern; Werkstatt- und Schnellstart-Prompt auf den objektiven staatsanwaltschaftlichen Blick nach Paragraf 160 Absatz 2 StPO umgestellt.
+- Zwei zu groß gewordene Werkstatt-Prompts wieder in den Größenkorridor getrimmt; Marketplace-Import-, Plugin-Struktur- und YAML-Frontmatter-Validatoren laufen grün.
+- Repo-weiter Versions-Bump auf v398.0.0.
+
+---
+
 # v394.0.0 — Cowork-Kompatibilität verifiziert, Schönheitsreparaturen und Release-Bump
 
 - Vollständiger Cowork-Kompatibilitäts-Scan über alle 232 Plugins und 26051 Skills: Jeder Skill liegt unter `<plugin>/skills/<name>/SKILL.md` mit gültigem Frontmatter (genau `name` und `description`, `name` gleich Ordnername, ASCII und höchstens 64 Zeichen, `description` höchstens 1024 Zeichen ohne Komma-Ziffern), jedes Plugin hat ein valides `.claude-plugin/plugin.json`, Werkstatt- und Schnellstart-Prompts werden nicht als Skills geladen, keine verwaisten internen Links und keine als Skills getarnten Hilfsdateien.

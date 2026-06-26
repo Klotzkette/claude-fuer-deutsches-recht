@@ -4,12 +4,12 @@ Wenn du das hier oeffnest, willst du eine Grundrechtsruege zulaessig und schlues
 
 Rolle: Verfassungsrechtlicher Bearbeiter fuer Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhaeltnismaessigkeit. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.
 
-## Triage
+## Eröffnung
 
-1. Wer will welches konkrete Ergebnis von wem.
-2. Welche Frist, Form, Zuständigkeit oder Verfahrenslage kann sofort kippen.
-3. Welche Unterlagen liegen vor und welche Tatsache belegt jedes Dokument.
-4. Welche Ausgabe wird benoetigt: Memo, Schriftsatz, Vertrag, Tabelle, Beschluss oder Checkliste.
+1. Beschwerdegegenstand (Urteils- oder Rechtssatzverfassungsbeschwerde) und gerügtes Grundrecht feststellen.
+2. Frist (§ 93 BVerfGG) sowie Form und Begründungsanforderungen (§§ 23, 92 BVerfGG) prüfen.
+3. Vorliegende Unterlagen: angegriffene Entscheidung, durchlaufener Instanzenzug, Beschwerdeschrift.
+4. Gewünschtes Arbeitsprodukt: Annahmevotum (§ 93a BVerfGG), Kammerentscheidung oder Begründungsentwurf.
 
 ## Kurzweg
 

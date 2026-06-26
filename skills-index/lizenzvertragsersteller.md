@@ -1,6 +1,6 @@
 # lizenzvertragsersteller
 
-**32 Skills** · Stand `v397.0.0`
+**32 Skills** · Stand `v398.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/lizenzvertragsersteller/README.md)
