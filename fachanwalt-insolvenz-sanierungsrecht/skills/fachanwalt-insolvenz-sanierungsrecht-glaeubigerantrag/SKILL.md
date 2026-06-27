@@ -36,6 +36,7 @@ description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigera
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
 | BGH | IX ZR 229/22 | 23.01.2025 | Vorläufig vollstreckbare fällige Forderung bei eingeleiteter Vollstreckung nominal in die Liquiditätsbilanz; keine Prozessrisikoquote |
+| BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss gegenüber außenstehenden Dritten einzelpostenfähig belegt sein; pauschale Summen können einfach bestritten werden |
 | BGH | II ZR 139/23 | 11.03.2025 | Bestand und Fälligkeit der Forderung richten sich nach materieller Rechtslage |
 | BGH | IX ZB 38/24 | 22.05.2025 | Vorläufige Einstellung der Vollstreckung kann die Belegwirkung eines Titels für den Insolvenzantrag entkräften |
 
@@ -49,11 +50,12 @@ description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigera
 | 2 | Glaubhaftmachung Forderung: Titel, Urkunden, eidesstattliche Versicherung | § 14 Abs. 1, § 294 ZPO | Ohne Glaubhaftmachung → Antrag unzulässig |
 | 3 | Glaubhaftmachung Eröffnungsgrund | §§ 17, 19 InsO | ZU oder Überschuldung (nur jur. Person); drohende ZU nicht ausreichend für Gläubigerantrag |
 | 4 | Titel- und Streitforderungscheck | Paragraf 14, 17 InsO | Titel, Fälligkeit, Vollstreckungsstand, Einstellungsbeschluss und materielle Einwendungen getrennt darstellen |
-| 5 | Überschuldung Paragraf 19: nur jur. Person; negatives Reinvermögen + fehlende Fortführungsprognose | Paragraf 19 InsO | Beide Voraussetzungen kumulativ |
-| 6 | Anhörung der Schuldnerin Paragraf 14 Absatz 2 | Paragraf 14 Absatz 2 InsO | Pflicht des Gerichts; keine Voraussetzung des Gläubigers |
-| 7 | Sicherungsmaßnahmen Paragraf 21 InsO beantragen | Paragraf 21 InsO | Sofortschutz: ZV-Einstellung, vorläufiger IV, Zustimmungsvorbehalt |
-| 8 | Massekostenprüfung Paragraf 26 InsO | Paragraf 26 InsO | Masseunzulänglichkeit → Abweisung; Kostenvorschuss durch Gläubiger möglich |
-| 9 | Eröffnungsbeschluss Paragraf 27 InsO | Paragraf 27 InsO | Verwalterbestellung, Insolvenzbeschlag Paragraf 80 InsO |
+| 5 | Liquiditätsstatus substantiieren | Paragraf 14, 17 InsO | Keine Summenbehauptung: Einzelposten, Fälligkeit, Rechtsgrund und Beleg mit Anlagenlog |
+| 6 | Überschuldung Paragraf 19: nur jur. Person; negatives Reinvermögen + fehlende Fortführungsprognose | Paragraf 19 InsO | Beide Voraussetzungen kumulativ |
+| 7 | Anhörung der Schuldnerin Paragraf 14 Absatz 2 | Paragraf 14 Absatz 2 InsO | Pflicht des Gerichts; keine Voraussetzung des Gläubigers |
+| 8 | Sicherungsmaßnahmen Paragraf 21 InsO beantragen | Paragraf 21 InsO | Sofortschutz: ZV-Einstellung, vorläufiger IV, Zustimmungsvorbehalt |
+| 9 | Massekostenprüfung Paragraf 26 InsO | Paragraf 26 InsO | Masseunzulänglichkeit → Abweisung; Kostenvorschuss durch Gläubiger möglich |
+| 10 | Eröffnungsbeschluss Paragraf 27 InsO | Paragraf 27 InsO | Verwalterbestellung, Insolvenzbeschlag Paragraf 80 InsO |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

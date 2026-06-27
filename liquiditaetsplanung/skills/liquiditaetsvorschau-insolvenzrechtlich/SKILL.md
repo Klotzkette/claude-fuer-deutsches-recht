@@ -17,7 +17,7 @@ Anwendungsfälle:
 
 - Geschäftsführerhaftung nach § 15b InsO; Insolvenzanfechtung nach §§ 129 ff. InsO.
 - Gläubigerantrag § 14 InsO (Substantiierung der Forderung und Zahlungsunfähigkeit).
-- Insolvenzverwaltermandat (insb. nach BGH IX ZR 129/22 vom 18.04.2024 zur konkreten Darlegung der Liquiditätsunterdeckung im Anfechtungsprozess).
+- Insolvenzverwaltermandat, Anfechtungsabwehr und Gläubigerantrag, insbesondere nach BGH IX ZR 129/22 vom 18.04.2024 zur konkreten Darlegung von Liquiditätsstatus, Einzelposten und Belegen.
 - Berater im Sanierungs- oder StaRUG-Kontext (Fortbestehensprognose § 19 InsO).
 - Sanierungskonzept-Vorarbeit, wenn aus der kurzfristigen Liquiditätsbilanz eine integrierte Sanierungsplanung werden soll.
 
@@ -31,7 +31,7 @@ Der Skill fragt strukturiert die folgenden Felder ab. Was fehlt, wird im Worst C
 - **Passiva I**: alle am Stichtag fälligen und ernsthaft eingeforderten Verbindlichkeiten; Stundungen nur, wenn echt vereinbart und dokumentiert.
 - **Passiva II**: binnen drei Wochen fällig werdende Verbindlichkeiten, einzeln aufgeführt nach Gläubiger und Fälligkeitsdatum.
 - **Echte Stundung** (mit beiderseitigem Einvernehmen und Fälligkeitsverschiebung) beseitigt Passiva I; faktische Duldung des Zahlungsverzugs nicht. Konkrete BGH-Linie über offene Quellen verifizieren.
-- **Streitige oder titulierte Forderungen**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsbeginn, Einstellung der Vollstreckung und Beleg getrennt erfassen; keine Prozentquote nach Prozessrisiko.
+- **Streitige oder titulierte Forderungen**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsbeginn, Einstellung der Vollstreckung und Beleg getrennt erfassen; keine Prozentquote nach Prozessrisiko. Summen-OPOS ohne Einzelposten, Rechtsgrund und Beleg wird als Darlegungslücke markiert.
 - **Indizien** nach § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge anderer Gläubiger, Wechselproteste).
 
 ## Bezugsquellen der Eingabedaten
@@ -65,7 +65,7 @@ Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
 
 Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
 
-Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist.
+Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist. Für die gerichtliche Darlegung wird jeder Posten einzeln mit Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreitensstand und Vollstreckungsstand geführt; pauschale Summenlisten sind nach BGH IX ZR 129/22 angreifbar.
 
 **Schritt 4 — Subsumtion nach BGH-Schema**
 
@@ -110,7 +110,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 1. **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert in den Liquiditätsstatus; keine anteilige Bewertung nach Prozessrisiko.
 2. **BGH II ZR 139/23 vom 11.03.2025** — Verbindlichkeit zählt nach materiellem Bestand; Zahlungsunfähigkeit ist objektiv zu bestimmen.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
-4. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung: bei objektiv festgestellter Zahlungsunfähigkeit kein Automatik-Schluss auf Vorsatz; konkrete Bedrohungslage darzulegen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22
+4. **BGH IX ZR 129/22 vom 18.04.2024** — Liquiditätsstatus gegenüber außenstehenden Dritten konkret darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten genügen. Außerdem in der Vorsatzanfechtung konkrete Bedrohungslage darlegen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22
 5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23
 6. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers nach Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 15a InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22
 7. Grundlegende ältere BGH-Linie zum 10-%-/3-Wochen-Schema und zur Zahlungseinstellung: konkrete Az. zur Liquiditätsbilanz, zu Stundungen, zu titulierten Forderungen und zur Erkennbarkeit der Insolvenzreife vor Ausgabe in offener Quelle prüfen.
@@ -139,6 +139,7 @@ Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manu
 - **Faktische Duldung als Stundung behandeln**: nur echte schriftliche Stundungsvereinbarung mit Fälligkeitsverschiebung beseitigt Passiva I. Konkrete BGH-Linie über offene Quellen verifizieren.
 - **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
 - **Titulierte Forderung nur anteilig nach Prozessrisiko ansetzen**: bei eingeleiteter Vollstreckung aus vorläufig vollstreckbarem Titel Nennwert, nicht Wahrscheinlichkeitswert.
+- **Liquiditätsstatus nur als Summenblock übernehmen**: nach BGH IX ZR 129/22 braucht die beweissichere Fassung Einzelposten, Fälligkeit, Rechtsgrund und Beleg; sonst kann ein außenstehender Gegner einfach bestreiten.
 - **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
 - **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
 - **Stichtag im Haftungskontext zu spät ansetzen**: tatsächlicher Eintritt maßgeblich.

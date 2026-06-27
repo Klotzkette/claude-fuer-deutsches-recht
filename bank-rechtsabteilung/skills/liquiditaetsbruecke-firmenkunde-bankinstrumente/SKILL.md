@@ -40,9 +40,10 @@ description: "Bankinstrumente als Liquiditätsbrücke für Firmenkunden struktur
 | Besteht nur drohende Zahlungsunfähigkeit? | StaRUG, Standstill und Waiver können geeignete Route sein |
 | Gibt es streitige oder titulierte Forderungen? | Materieller Bestand, Fälligkeit, Vollstreckung und Einstellungsbeschluss gesondert prüfen |
 | Liegt ein vorläufig vollstreckbarer Titel mit laufender Vollstreckung vor? | Nennwert in die Drei-Wochen-Liquiditätsbilanz einstellen, keine Prozessrisikoquote |
+| Ist der Liquiditätsstatus nur eine OPOS-Summe? | Einzelposten, Belege, Fälligkeit und Titelstand nachfordern; sonst keine bankfeste Entscheidungsgrundlage |
 | Soll die Bank weiterfinanzieren? | Sanierungskonzept, Fortbestehensprognose, Sicherheiten, Anfechtung und Organrisiko dokumentieren |
 
-Rechtsprechungsanker für die Kreditakte: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025 zur Passivierung streitiger oder titulierter Forderungen in der Liquiditätsprüfung; BGH IX ZR 133/14 und BGH IX ZR 143/17 zur Rangrücktrittslogik; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
+Rechtsprechungsanker für die Kreditakte: BGH IX ZR 129/22 vom 18.04.2024 zur Beleg- und Einzelpostenpflicht beim Liquiditätsstatus gegenüber außenstehenden Dritten; BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025 zur Passivierung streitiger oder titulierter Forderungen in der Liquiditätsprüfung; BGH IX ZR 133/14 und BGH IX ZR 143/17 zur Rangrücktrittslogik; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
 
 ## Prüfworkflow
 

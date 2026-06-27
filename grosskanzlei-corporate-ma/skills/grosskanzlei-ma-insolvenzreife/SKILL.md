@@ -53,6 +53,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
 | BGH | IX ZR 229/22 | 23.01.2025 | Eine vorläufig vollstreckbare titulierte Forderung ist im Liquiditätsstatus nominal zu berücksichtigen, wenn sie fällig ist, Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt |
+| BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss mit Einzelposten und Belegen prüfbar sein; sonst droht einfaches Bestreiten durch außenstehende Gegner |
 | BGH | II ZR 139/23 | 11.03.2025 | Ob eine Verbindlichkeit in die Zahlungsfähigkeitsprüfung einzustellen ist, richtet sich nach der materiellen Rechtslage |
 | BGH | IX ZB 38/24 | 22.05.2025 | Die Belegwirkung eines Titels kann für einen Insolvenzantrag entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
 | BGH | IX ZR 133/14 | 05.03.2015 | Qualifizierter Rangrücktritt wirkt als schuldrechtliche Rang- und Durchsetzungssperre zugunsten der Gläubigergesamtheit |
@@ -66,7 +67,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Datenqualität prüfen | Bankstände, OPOS, Forecast, Bilanz, stille Lasten, Finanzierungslinien, Patronate, Rangrücktritte vorhanden und aktuell? | Datenlücken-Liste |
-| 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; streitige Forderungen nach Bestand, Fälligkeit, Titel und Vollstreckungsstand; Deckungslücke berechnen | EUR [X] Deckungslücke |
+| 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; streitige Forderungen nach Bestand, Fälligkeit, Titel und Vollstreckungsstand; jede Sammelposition mit Beleg auf Einzelposten herunterbrechen | EUR [X] Deckungslücke |
 | 3 | 3-Wochen-Vorschau (Paragraf 17 InsO) | Liegt Deckungslücke > 10 % der fälligen Verbindlichkeiten vor? → Ampel rot = Zahlungsunfähigkeit | Paragraf 17-Status: [ZU / nicht ZU] |
 | 4 | Streitforderungen und Titel | Keine Prozessrisikoquote; materiell bestehende fällige Forderung nominal, nicht bestehende oder nicht fällige Forderung nicht einstellen; vollstreckter Titel nominal | Passiva-Entscheidung dokumentiert |
 | 5 | Überschuldungsstatus (Paragraf 19 InsO) | Bilanz-Passiva > Aktiva zu Fortführungswerten? Stille Lasten, Rückstellungen aufdecken | Überschuldung: [Ja / Nein] |
@@ -119,6 +120,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 |---|---|
 | Forderung bestritten | Bestreiten allein genügt nicht; materiell bestehende und fällige Forderungen gehören in die Liquiditätsbilanz |
 | Prozessverlust nur wahrscheinlich | Keine prozentuale Prozessrisikoquote in der 3-Wochen-Bilanz; entweder fällige Verbindlichkeit, vollstreckungswirksamer Titel oder kein Passivum |
+| Liquiditätsstatus ist nur Management Summary | Für Haftung, DD und Streitfall nicht ausreichend; Einzelposten, Beleg und Fälligkeit nachfordern |
 | Rangrücktritt schriftlich vereinbart | Prüfen, ob die Durchsetzung vor und nach Insolvenzreife gesperrt ist, Zahlung nur aus freiem Vermögen oder freiem Liquiditätsüberschuss erfolgen darf und die Klausel zugunsten der Gläubigergesamtheit wirkt |
 | MAC-Klausel zu unbestimmt | Gerichtliche Auslegung der MAC-Definition; Verweis auf EBITDA-Schwellenwerte schärft Klausel |
 

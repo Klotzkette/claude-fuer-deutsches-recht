@@ -49,8 +49,9 @@ StaRUG beginnt nicht mit der Wunschroute, sondern mit dem Ausschluss der bereits
 | Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert als kurzfristigen Abfluss einplanen |
 | Titel, aber Vollstreckung vorläufig eingestellt | Titelwirkung gesondert würdigen, nicht mechanisch als Abfluss |
 | Bloßes Prozessrisiko | Keine prozentuale Prozessrisikoquote |
+| Liquiditätsstatus nur als Summenliste | Einzelposten, Beleg, Fälligkeit und Rechtsgrund nachfordern |
 
-Leitanker: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025. Wenn der Paragraf-17-Test rot ist, ist der StaRUG-Zugang nicht der Hauptweg; dann Antragspflicht, Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen.
+Leitanker: BGH IX ZR 129/22 vom 18.04.2024 zur Darlegungstiefe des Liquiditätsstatus, BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025. Wenn der Paragraf-17-Test rot ist, ist der StaRUG-Zugang nicht der Hauptweg; dann Antragspflicht, Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen.
 
 ## Liquiditätsplan 24 Monate — Methodik
 

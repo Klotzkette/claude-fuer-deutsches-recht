@@ -21,7 +21,7 @@ Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüf
 
 § 18 InsO ist das Tor zum StaRUG. Nur wer drohende Zahlungsunfähigkeit nachweist — nicht mehr, nicht weniger — erhält Zugang zu den modernen Sanierungswerkzeugen des Stabilisierungs- und Restrukturierungsrahmens. Wer zu früh kommt (noch keine drohende ZU), kann keinen Antrag stellen. Wer zu spät kommt (eingetretene ZU oder Überschuldung), hat die InsO-Pflicht ausgelöst. Das Timing ist alles — und das Timing hängt von einer validen 24-Monats-Liquiditätsplanung ab.
 
-Vor jeder StaRUG-Strategie steht deshalb ein harter Ausschluss-Test zu Paragraf 17 InsO: am Stichtag und für die nächsten drei Wochen darf keine eingetretene Zahlungsunfähigkeit vorliegen. Streitige oder titulierte Forderungen werden dabei nicht weichgerechnet. Besteht eine fällige Verbindlichkeit materiell, wird sie mit Nennwert berücksichtigt; besteht sie materiell nicht oder ist sie nicht fällig, bleibt sie außen vor. Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist der Nennwert als Liquiditätsabfluss zu planen. Eine bloße Prozessrisikoquote ist kein tragfähiger StaRUG-Zugangsnachweis.
+Vor jeder StaRUG-Strategie steht deshalb ein harter Ausschluss-Test zu Paragraf 17 InsO: am Stichtag und für die nächsten drei Wochen darf keine eingetretene Zahlungsunfähigkeit vorliegen. Streitige oder titulierte Forderungen werden dabei nicht weichgerechnet. Besteht eine fällige Verbindlichkeit materiell, wird sie mit Nennwert berücksichtigt; besteht sie materiell nicht oder ist sie nicht fällig, bleibt sie außen vor. Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist der Nennwert als Liquiditätsabfluss zu planen. Eine bloße Prozessrisikoquote ist kein tragfähiger StaRUG-Zugangsnachweis. Der Liquiditätsstatus muss belegbar bleiben: OPOS-Summen ohne Einzelposten, Fälligkeit, Rechtsgrund und Beleg tragen den Paragraf-17-Ausschluss nicht sicher.
 
 ---
 
@@ -90,6 +90,7 @@ Ein Unternehmen kann bilanziell überschuldet und gleichzeitig noch zahlungsfäh
 ## Rechtsprechungs- und Praxisanker 2025/2026
 
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: vorläufig vollstreckbar titulierte streitige Forderungen bei eingeleiteter Vollstreckung mit Nennwert in die Liquiditätsprüfung; keine Prozessrisikoquote.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber außenstehenden Dritten konkret mit Einzelposten und Belegen darlegen; pauschale Summen bleiben angreifbar.
 - BGH, Beschluss vom 11.03.2025 - II ZR 139/23: materieller Bestand der Verbindlichkeit entscheidet, Zahlungsunfähigkeit bleibt objektiv.
 - BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: bestätigt im VARTA-Kontext die verfassungsrechtliche Belastbarkeit des präventiven Restrukturierungsrahmens und erhöht die Anforderungen an saubere Dokumentation der Zugangsschwelle.
 - Arbeitsregel: StaRUG-Memo immer mit zwei Tabellen beginnen, nämlich `Heute Paragraf 17 nein` und `24 Monate Paragraf 18 ja`. Alles andere ist Sanierungsstory ohne Eintrittskarte.

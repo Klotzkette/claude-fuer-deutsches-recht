@@ -60,6 +60,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | **Aktiva I (verfügbare Mittel)** | **= A** | |
 | Fällige Verbindlichkeiten zum Stichtag | + | OPOS-Liste mit Fälligkeit |
 | Innerhalb 3 Wochen fällig | + | Lohn, Steuer, SV, Lieferanten |
+| Streitige oder titulierte Forderungen | + / - | Bestand, Fälligkeit, Titel, Vollstreckung und Einwendung einzeln entscheiden |
 | **Passiva I (fällige Verbindlichkeiten)** | **= P** | |
 | **Liquiditätslücke = P − A** | | Quote = (P − A) / P |
 
@@ -69,7 +70,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Beweisfragen und Belegbedarf
 
 - **Schuldner / Geschäftsführer (haftungsabschirmend):** Liquiditätsstatus zum konkreten Stichtag mit Datum, Annahmen, Berechnung.
-- **Insolvenzverwalter / Gläubiger (zur Antragstellung):** Belege für Zahlungseinstellung — Mahnungen, Vollstreckungsbescheide, Wechselproteste, Eidesstattliche Versicherung des Schuldners.
+- **Insolvenzverwalter / Gläubiger (zur Antragstellung):** Belege für Zahlungseinstellung — Mahnungen, Vollstreckungsbescheide, Wechselproteste, eidesstattliche Versicherung des Schuldners; bei Liquiditätsstatus zusätzlich Einzelposten, Fälligkeiten, Kontoauszüge, Rechnungen und Titelstand.
+- **Außenstehender Gegner:** Nach BGH IX ZR 129/22 vom 18.04.2024 kann einfaches Bestreiten genügen, wenn der vorgelegte Liquiditätsstatus keine überprüfbaren Einzelheiten und Belege enthält.
 - **Indizien für Zahlungseinstellung:**
  - Stundungsverhandlungen mit mehreren Gläubigern.
  - Nichtabführen Sozialversicherungsbeiträge (§ 266a StGB!).

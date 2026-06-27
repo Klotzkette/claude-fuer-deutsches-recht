@@ -39,3 +39,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Pflichtmatrix Liquiditätsstatus
+
+| Beweisthema | Darlegungspflicht | Bestreitensrisiko | Leitanker |
+| --- | --- | --- | --- |
+| Zahlungsunfähigkeit aus Liquiditätsstatus | Stichtag, Aktiva I und II, Passiva I und II, Einzelposten, Fälligkeit, Belege | Außenstehender Dritter kann bei fehlender Detailtiefe einfach bestreiten | BGH IX ZR 129/22 vom 18.04.2024 |
+| Streitige Forderung passivisch | materieller Bestand, Fälligkeit, Titel- oder Anspruchsgrund, Vollstreckung | bloßes Bestreiten reicht nicht, wenn Forderung materiell besteht; bloße Behauptung reicht aber auch nicht | BGH IX ZR 229/22 vom 23.01.2025 und BGH II ZR 139/23 vom 11.03.2025 |
+| Vorläufig vollstreckbarer Titel | Titel, Klausel, Zustellung, Vollstreckungsbeginn, Einstellung | Nennwert nur bei Vollstreckungsdruck tragfähig | BGH IX ZB 38/24 vom 22.05.2025 |

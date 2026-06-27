@@ -41,6 +41,19 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
+## Belegpflicht bei Liquiditätsstatus
+
+Jede Zahl wird auf die Einzelpostenebene heruntergebrochen. Für Passiva sind Gläubiger, Rechtsgrund, Betrag, Fälligkeit, Mahn- oder Vollstreckungsstand, Titel, Einwendung und Beleg zu führen. Für Aktiva sind Bankverfügbarkeit, Zahlungszusage, Zahlungshistorie und Realisierbarkeit im Drei-Wochen-Fenster zu belegen. BGH IX ZR 129/22 vom 18.04.2024 wird als Warnanker genutzt: Eine bloße Summenliste ohne Rechnungen, Kontoauszüge oder sonstige Unterlagen ist gegenüber außenstehenden Dritten angreifbar.
+
+## Ausgabe
+
+Erstelle eine Quellenmatrix:
+
+| Position | Betrag | Rechtsgrund | Fälligkeit | Beleg | Bestreitensrisiko | Entscheidung |
+| --- | --- | --- | --- | --- | --- | --- |
+
+Wenn eine Position nicht belegbar ist, steht im Ergebnis nicht "geschätzt", sondern "nicht belastbar; Beleg nachfordern oder Szenario trennen".
+
 ## 2. `spezial-live-mandantenkommunikation-entscheidungsvorlage`
 
 **Fokus:** Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung.

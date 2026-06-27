@@ -53,7 +53,13 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Liquiditätsplanung** vor A
 - **Diagnose:** Aktenzeichen oder Fundstelle nicht live verifiziert — Risiko halluzinierter Zitate
 - **Heilung:** Jede Entscheidung mit Gericht, Datum, Az und frei prüfbarer Quelle gegenchecken; sonst als Prüfpunkt markieren
 
-### 8. Mandantengeheimnis bei Tool-Einsatz verletzt
+### 8. Liquiditätsstatus nur als Summenblock
+
+- **Symptom:** Passiva werden als OPOS-Gesamtsumme, "streitige Forderungen" oder "sonstige Verbindlichkeiten" ohne Einzelposten übernommen
+- **Diagnose:** Nach BGH IX ZR 129/22 vom 18.04.2024 ist der Liquiditätsstatus gegenüber außenstehenden Dritten angreifbar, wenn Einzelheiten und Belege fehlen
+- **Heilung:** Gläubiger, Rechtsgrund, Fälligkeit, Betrag, Titelstand, Vollstreckungsstand, Einwendung und Beleg je Position nachtragen; unbelegte Posten als Lücke ausweisen
+
+### 9. Mandantengeheimnis bei Tool-Einsatz verletzt
 
 - **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
 - **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag

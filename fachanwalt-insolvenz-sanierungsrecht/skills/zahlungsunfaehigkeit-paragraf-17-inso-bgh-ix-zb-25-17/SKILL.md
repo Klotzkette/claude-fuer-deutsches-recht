@@ -21,6 +21,7 @@ Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag
 ## Rechtsprechungsanker und Quellenhygiene
 
 - BGH, Urteil vom 23.01.2025 - IX ZR 229/22: vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert passivieren; keine Prozessrisikoquote.
+- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Liquiditätsstatus gegenüber einem außenstehenden Dritten einzelpostenfähig darlegen; fehlen Einzelheiten und Belege, kann einfaches Bestreiten ausreichen.
 - BGH, Beschluss vom 11.03.2025 - II ZR 139/23: für die Zahlungsunfähigkeit zählt der materielle Bestand der Verbindlichkeit.
 - BGH, Beschluss vom 22.05.2025 - IX ZB 38/24: bei allein titelgestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung eingestellt ist.
 - BGH, Urteil vom 28.06.2022 - II ZR 112/21: Zahlungsunfähigkeit kann auch durch mehrere aussagekräftige tagesgenaue Liquiditätsstatus dargelegt werden.
@@ -35,8 +36,9 @@ Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag
 4. Passiva I erfassen: fällige, ernsthaft eingeforderte und nicht wirksam gestundete Verbindlichkeiten.
 5. Passiva II erfassen: innerhalb von drei Wochen fällig werdende Verbindlichkeiten, auch wenn sie die Lücke nur fortschreiben.
 6. Streitige Forderungen entscheiden: materiell nicht bestehend oder nicht fällig gleich raus; materiell bestehend und fällig gleich Nennwert rein; vorläufig vollstreckbar tituliert und Vollstreckung eingeleitet gleich Nennwert rein; Vollstreckung eingestellt gleich gesonderte Beweiswürdigungszeile.
-7. Indizien der Zahlungseinstellung prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen, Insolvenzanträge, Vollstreckungsdruck.
-8. Ergebnis mit Organpflichten verbinden: Antragspflicht, Zahlungsverbot, Dokumentationspflicht, Sanierungsfenster und nächste Maßnahme.
+7. Darlegungstiefe prüfen: keine OPOS-Summe übernehmen, bevor Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreiten, Titel und Vollstreckungsstand als Einzelposten sichtbar sind.
+8. Indizien der Zahlungseinstellung prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen, Insolvenzanträge, Vollstreckungsdruck.
+9. Ergebnis mit Organpflichten verbinden: Antragspflicht, Zahlungsverbot, Dokumentationspflicht, Sanierungsfenster und nächste Maßnahme.
 
 ## Ausgabematrix
 
@@ -46,6 +48,7 @@ Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag
 | Aktiva I und II | Betrag | Bank, Zusage, Debitor | Scheinliquidität | Zuflussbeleg nachfordern |
 | Passiva I und II | Betrag | OPOS, Mahnung, Titel | unterschätzte Lücke | Fälligkeit prüfen |
 | Streitige Forderung | rein oder raus | Vertrag, Urteil, Vollstreckung | Prozessrisikoquote | Nennwertentscheidung dokumentieren |
+| Darlegung Liquiditätsstatus | einzelpostenfähig | OPOS-Auszug, Rechnung, Kontoauszug | einfaches Bestreiten | Belegpaket nachfordern |
 | Indizien | ja oder nein | Akte | Zahlungseinstellung | Antragspflicht prüfen |
 
 ## Belege und Aktenlücken

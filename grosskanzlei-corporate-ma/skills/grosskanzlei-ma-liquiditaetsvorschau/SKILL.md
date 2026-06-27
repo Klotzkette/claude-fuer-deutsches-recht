@@ -52,6 +52,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
 | BGH | IX ZR 229/22 | 23.01.2025 | Vorläufig vollstreckbar titulierte und fällige Forderung ist im Liquiditätsstatus mit dem Nennwert anzusetzen, wenn die Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt; kein Abschlag nach Prozessrisiko |
+| BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss für außenstehende Dritte einzelpostenfähig und belegbar sein; pauschale Summen sind im Streit angreifbar |
 | BGH | II ZR 139/23 | 11.03.2025 | Für die Zahlungsfähigkeitsprüfung kommt es auf die materielle Rechtslage an; bestehende und fällige Verbindlichkeiten werden nicht wegen Bestreitens ausgeblendet |
 | BGH | IX ZB 38/24 | 22.05.2025 | Stützt sich ein Insolvenzantrag allein auf einen titulierten Anspruch, kann die Belegwirkung entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
 | IDW S 11 | — | 2022 | IDW-Standard zur Beurteilung des Vorliegens von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus und Fortbestehensprognose |
@@ -65,6 +66,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | Vorläufig vollstreckbarer Titel, Gläubiger vollstreckt | Passivum zum Nennwert | Vollstreckungsdruck ist kurzfristig liquiditätswirksam |
 | Titel vorhanden, Vollstreckung vorläufig eingestellt | Separat markieren, keine automatische Nennwertpassivierung | Vollstreckungsdruck fehlt; materielle Lage prüfen |
 | Nur Prozessrisiko ohne fällige Verbindlichkeit | Kein pauschaler Prozentabschlag | Keine 30- oder 50-Prozent-Quote in der Liquiditätsbilanz |
+| OPOS nur als Summenblock | Nicht diligencefest | Einzelposten, Rechnung, Kontoauszug und Titelstand nachfordern |
 
 ## Prüfschema Liquiditätsvorschau
 

@@ -41,3 +41,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Liquiditätsstatus: Darlegung und Bestreiten
+
+BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquiditätsstatus gegenüber einem außenstehenden Dritten verwendet wird. Die Erklärungslast der Gegenseite steigt nur mit der eigenen Darlegungstiefe. Fehlen Einzelposten, Rechnungen, Kontoauszüge oder sonstige Unterlagen, kann einfaches Bestreiten genügen.
+
+| Darlegung | Risiko | Korrektur |
+| --- | --- | --- |
+| OPOS-Summe ohne Einzelposten | einfaches Bestreiten möglich | Einzelpostenliste mit Gläubiger, Fälligkeit und Beleg |
+| Titel genannt, Vollstreckung unklar | Nennwertansatz angreifbar | Klausel, Zustellung, Vollstreckungsauftrag und Einstellungsbeschluss prüfen |
+| Forderung nur bestritten | falsches Herausnehmen aus Passiva | materiellen Bestand und Fälligkeit entscheiden |
+| Aktiva II ohne Zuflussbeleg | Scheinliquidität | Zahlungsavis, Bankbestätigung oder Vollstreckungsrealisierung verlangen |

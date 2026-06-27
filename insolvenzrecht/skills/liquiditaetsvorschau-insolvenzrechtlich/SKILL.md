@@ -16,7 +16,7 @@ description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als str
 ## Powerplugin-Hinweis
 
 Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinstellung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren. Aktuelle Linie:
-- **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat.
+- **BGH IX ZR 129/22 vom 18.04.2024** — Liquiditätsstatus und Liquiditätsbilanz müssen gegenüber außenstehenden Dritten einzelpostenfähig belegt werden; fehlen Einzelheiten, Rechnungen, Kontoauszüge oder sonstige Unterlagen, kann einfaches Bestreiten genügen.
 - **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung mit dem Nennwert in die Liquiditätsbilanz einzustellen; keine Kürzung nach Prozessrisiko.
 - **BGH II ZR 139/23 vom 11.03.2025** — für die Passivseite zählt die materielle Rechtslage: bestehende und fällige Verbindlichkeiten gehören hinein, nicht bestehende oder nicht fällige Forderungen nicht.
 - **BGH IX ZB 38/24 vom 22.05.2025** — die Belegwirkung eines Titels für einen Insolvenzantrag kann entfallen, wenn die Vollstreckung vorläufig eingestellt ist.
@@ -86,7 +86,7 @@ Stundungsvereinbarung — keine bloße Duldung — vorliegt, sind aus der Passiv
 3-Wochen-Liquiditätsbilanz herauszunehmen. Bloßes Stillhalten oder Nichtgeltendmachen genügt
 nicht; erforderlich ist eine klare, zumindest konkludente Stundungsabrede. Konkrete BGH-Linie über offene Quellen verifizieren.
 
-Streitige oder titulierte Forderungen: Entscheidend ist kein pauschales Prozessrisiko, sondern Bestand, Fälligkeit und kurzfristiger Vollstreckungsdruck. Eine materiell bestehende und fällige Forderung ist im Nennwert einzustellen, auch wenn der Schuldner sie bestreitet. Eine materiell nicht bestehende oder nicht fällige Forderung bleibt draußen, auch wenn sie behauptet wird. Liegt ein vorläufig vollstreckbarer Titel vor und hat der Gläubiger die Vollstreckung eingeleitet, ist die Forderung grundsätzlich zum Nennwert passivisch zu erfassen. Wird die Vollstreckung vorläufig eingestellt, ist der Titel nicht mechanisch als Liquiditätsabfluss zu behandeln; dann sind materielle Lage und Vollstreckungssperre getrennt zu würdigen.
+Streitige oder titulierte Forderungen: Entscheidend ist kein pauschales Prozessrisiko, sondern Bestand, Fälligkeit und kurzfristiger Vollstreckungsdruck. Eine materiell bestehende und fällige Forderung ist im Nennwert einzustellen, auch wenn der Schuldner sie bestreitet. Eine materiell nicht bestehende oder nicht fällige Forderung bleibt draußen, auch wenn sie behauptet wird. Liegt ein vorläufig vollstreckbarer Titel vor und hat der Gläubiger die Vollstreckung eingeleitet, ist die Forderung grundsätzlich zum Nennwert passivisch zu erfassen. Wird die Vollstreckung vorläufig eingestellt, ist der Titel nicht mechanisch als Liquiditätsabfluss zu behandeln; dann sind materielle Lage und Vollstreckungssperre getrennt zu würdigen. Zusätzlich ist die Darlegungstiefe zu prüfen: Ein Liquiditätsstatus mit bloßen Summenwerten ohne Gläubiger, Fälligkeit, Rechtsgrund und Beleg ist kein gerichtsfestes Beweismittel.
 
 | Fallgruppe | Liquiditätsbilanz | Prüfhinweis |
 |---|---|---|
@@ -95,6 +95,7 @@ Streitige oder titulierte Forderungen: Entscheidend ist kein pauschales Prozessr
 | Vorläufig vollstreckbarer Titel und Vollstreckung läuft | Nennwert passivieren | Vollstreckungsdruck binnen 3 Wochen abbilden |
 | Titel, aber Vollstreckung eingestellt | Gesondert markieren | Belegwirkung und materielle Forderung neu prüfen |
 | Nur Prozessrisiko ohne fällige Verbindlichkeit | Keine Prozentquote | Keine 30- oder 50-Prozent-Anrechnung nach Prozessrisiko |
+| Liquiditätsstatus ohne Einzelposten | Nicht als beweissicher behandeln | Nach BGH IX ZR 129/22 Belege und Positionen nachfordern |
 
 ### § 19 Abs. 2 InsO — Fortbestehensprognose (Überschuldung)
 
@@ -344,7 +345,7 @@ zwingend zu zitieren und zu berücksichtigen:
 
 - Grundlegende BGH-Entscheidung zum 10-%-/3-Wochen-Schema (Abgrenzung Zahlungsunfähigkeit/Zahlungsstockung).
 - Grundlegende BGH-Entscheidung zum Indizienkatalog der Zahlungseinstellung iSd § 17 Abs. 2 S. 2 InsO.
-- **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter im Anfechtungsprozess konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 129/22 vom 18.04.2024** — Liquiditätsstatus gegenüber außenstehenden Dritten konkret darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten ausreichen. Für die Vorsatzanfechtung außerdem konkrete Erwartung dauerhafter Nichtbefriedigung darlegen. https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22
 - **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit Bargeschäft (Relevanz für Stundungs- und Ratenvergleiche in der Krise). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
