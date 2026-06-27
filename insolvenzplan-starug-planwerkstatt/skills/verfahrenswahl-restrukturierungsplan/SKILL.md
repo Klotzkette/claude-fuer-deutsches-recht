@@ -35,6 +35,19 @@ description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwa
 3. Gerichtsbedarf prüfen: Vorprüfung, Abstimmung, Stabilisierung, Planbestätigung oder Insolvenzverfahren.
 4. No-go-Schwellen markieren, insbesondere Arbeitnehmerforderungen im StaRUG, Massefähigkeit, Insolvenzantragspflichten und ungesicherte Datenlage.
 
+## Stopper-Matrix vor der Verfahrenswahl
+
+| Befund | Route | Begründung |
+|---|---|---|
+| Paragraf 17 InsO eingetreten | Kein StaRUG als Hauptweg; Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen | Vorinsolvenzlicher Rahmen setzt voraus, dass Zahlungsunfähigkeit noch nicht eingetreten ist |
+| Paragraf 19 InsO ohne positive Fortbestehensprognose | Antragspflicht und Insolvenzroute prüfen | Überschuldung löst Antragspflicht aus |
+| Paragraf 18 InsO, aber Paragraf 17 negativ | StaRUG, außergerichtlicher Standstill oder Schutzschirm-Option offen | Drohende Zahlungsunfähigkeit ist der Zugangspunkt |
+| Streitige Forderung ohne Fälligkeit oder Bestand | Nicht als Paragraf-17-Stopper behandeln | Materielle Rechtslage entscheidet |
+| Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert in Drei-Wochen-Liquiditätsstatus einstellen | Vollstreckungsdruck kann Paragraf 17 auslösen |
+| Vollstreckung aus Titel vorläufig eingestellt | Gesondert würdigen | Belegwirkung kann entfallen |
+
+Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025, BGH IX ZB 38/24 vom 22.05.2025. Keine prozentuale Kürzung streitiger Passiva nach Prozessrisiko.
+
 ## Ausgabe
 
 - Routenmatrix
@@ -60,6 +73,9 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 ## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
 
 - Eröffnungsgründe: § 17 InsO (ZU; Antragspflicht), § 18 InsO (drohende ZU; StaRUG-Zugang; Prognose 24 Monate), § 19 InsO (Überschuldung; Antragspflicht; Prognose 12 Monate seit 01.01.2024).
+- **BGH IX ZR 229/22 vom 23.01.2025** — titulierte und vollstreckte fällige Forderung mit Nennwert im Liquiditätsstatus; keine Prozessrisikoquote.
+- **BGH II ZR 139/23 vom 11.03.2025** — materieller Bestand und Fälligkeit der Forderung bestimmen die Passivierung.
+- **BGH IX ZB 38/24 vom 22.05.2025** — vorläufige Einstellung der Vollstreckung kann die Belegwirkung des Titels für den Insolvenzantrag entfallen lassen.
 - **BVerfG 1 BvR 418/25 vom 28.02.2025** (VARTA AG) — StaRUG verfassungsrechtlich tragfähig; relevant für Verfahrenswahl bei börsennotierten AGs. <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers; bei Verfahrenswahl Haftungsrisiken sorgfältig dokumentieren. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 

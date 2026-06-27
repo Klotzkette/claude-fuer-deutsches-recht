@@ -65,9 +65,14 @@ sofern die Unterdeckung mehr als 3 Wochen andauert. Konkretes Az. der grundlegen
 
 **Stundungen in der Liquiditätsbilanz:** In die Passiva I sind nur Verbindlichkeiten aufzunehmen, die tatsächlich fällig und nicht wirksam gestundet sind. Echter Stundung (beiderseitig gewollt, glaubhaft dokumentiert) ist Folge zu geben; sie beseitigt die Fälligkeit. Erzwungene oder faktische Stundungen — d.h. bloßes Dulden des Zahlungsverzugs durch den Gläubiger ohne Einigung — beseitigen die Fälligkeit nicht. Im Anfechtungsprozess trifft den Schuldner die Darlegungs- und Beweislast für das Vorliegen einer echten Stundungsvereinbarung.
 
+**Streitige und titulierte Forderungen:** Ausgangspunkt ist die objektive Rechtslage. Eine Forderung kommt nur in die Passiva, wenn sie materiell besteht, fällig ist und der Gläubiger Erfüllung verlangt oder die Gläubigerhandlung aus den Umständen folgt. Eine materiell nicht bestehende oder rechtlich nicht fällige Forderung begründet keine Zahlungsunfähigkeit, auch wenn sie behauptet wird. Besteht die Forderung materiell und ist sie fällig, wird sie mit dem Nennwert passiviert; ein prozentualer Abschlag nach Prozessrisiko findet nicht statt. Liegt ein vorläufig vollstreckbarer Titel über eine streitige Forderung vor, ist der Nennwert spätestens dann zu berücksichtigen, wenn die Voraussetzungen der Vollstreckung vorliegen und der Titelgläubiger die Vollstreckung eingeleitet hat. Hat der Schuldner eine einstweilige Einstellung der Zwangsvollstreckung erreicht, ist die Beweiswirkung des Titels gesondert zu prüfen und die Liquiditätsbilanz mit einer klaren Annahmenspalte zu dokumentieren.
+
 **Verschulden bei Antragspflichtverletzung:** Kenntnis der Zahlungsunfähigkeit ist zu bejahen, wenn dem Schuldner die die Zahlungsunfähigkeit begründenden Tatsachen bekannt waren oder bekannt sein mussten. Berufung auf Unkenntnis schützt nicht.
 
-**Aktuelle Entwicklungen (Stand Mai 2026):**
+**Aktuelle Entwicklungen (Stand Juni 2026):**
+- **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert in den Liquiditätsstatus; keine anteilige Bewertung nach Prozessrisiko.
+- **BGH II ZR 139/23 vom 11.03.2025** — für die Berücksichtigung einer Verbindlichkeit bei Zahlungsunfähigkeit kommt es auf den materiellen Bestand der Verbindlichkeit an; Zahlungsunfähigkeit bleibt objektiv zu bestimmen.
+- **BGH IX ZB 38/24 vom 22.05.2025** — stützt ein Gläubiger seinen Insolvenzantrag allein auf ein vollstreckbares Endurteil, kann dessen Beweiswirkung entfallen, wenn der Schuldner auf dem Prozessweg die Einstellung der Zwangsvollstreckung erreicht.
 - **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter im Vorsatzanfechtungs-Prozess konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
 - **BGH II ZR 206/22 vom 23.07.2024** — fortwirkende Haftung des ausgeschiedenen Geschäftsführers. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung.
@@ -100,6 +105,12 @@ Einzubeziehen sind: Lieferantenverbindlichkeiten, Darlehensverbindlichkeiten (in
 oder fälliger Teile), Lohn- und Gehaltsrückstände, Sozialversicherungsbeiträge (SV-Beiträge),
 Steuerschulden mit abgelaufener Zahlungsfrist, sonstige fällige Forderungen. Stundungen sind auf
 ihre Echtheit zu prüfen (BGH-Linie zur echten Stundung; konkrete Az. vor Ausgabe verifizieren).
+Streitige Forderungen werden nicht nach Klagerisiko quotiert. Die Prüfentscheidung lautet:
+materiell nicht bestehend oder nicht fällig gleich nicht passivieren; materiell bestehend und fällig
+gleich mit Nennwert passivieren; vorläufig vollstreckbar tituliert und Vollstreckung eingeleitet
+gleich mit Nennwert passivieren; Vollstreckung eingestellt gleich Beweiswirkung und Liquiditätsabfluss
+neu begründen. Jede streitige Forderung erhält in der Tabelle die Spalten `Bestand`, `Fälligkeit`,
+`Titel`, `Vollstreckungsstand`, `Passivierung` und `Beleg`.
 
 > **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) ist keine Stundung.** AdV-Verfügungen
 > hemmen nur die Vollziehung, lassen die Fälligkeit der Steuerforderung aber unberührt. Im
@@ -114,6 +125,10 @@ ihre Echtheit zu prüfen (BGH-Linie zur echten Stundung; konkrete Az. vor Ausgab
 - *Aktiva II. Stufe* (innerhalb 3 Wochen zugehend): konkret erwartete Zahlungseingänge aus
  bestehenden Forderungen (nach vorsichtiger Einschätzung der Ausfallwahrscheinlichkeit),
  freie Kreditlinien, erwartete Darlehensauszahlungen mit schriftlicher Zusage
+Aktivseitig zählt nicht der bloße rechtliche Anspruch, sondern der innerhalb von drei Wochen
+realistisch verfügbare Zufluss. Bestrittene eigene Forderungen dürfen nur angesetzt werden,
+wenn Zahlungseingang, Vollstreckbarkeit, Zahlungszusage oder gesicherte Verwertung im
+Prognosefenster belastbar belegt sind.
 
 **Schritt 4 – Aufstellung des Liquiditätsstatus**
 Gegenüberstellung in tabellarischer Form:
@@ -177,7 +192,7 @@ Das Gutachten wird im Gutachtenstil formuliert:
 Die Muster GmbH (Schuldnerin) weist zum Stichtag 31.03.2025 folgende Situation auf:
 
 **Variante A** (Zahlungsstockung):
-- Liquide Mittel (Aktiva I): 25.000 EUR (Bankguthaben)
+- Liquide Mittel (Aktiva I): 295.000 EUR (Bankguthaben und freie Linie)
 - Zuflüsse innerhalb 3 Wochen (Aktiva II): 0 EUR (keine gesicherten Eingänge)
 - Fällige Verbindlichkeiten (Passiva I): 320.000 EUR
 
@@ -194,19 +209,19 @@ Die Muster GmbH (Schuldnerin) weist zum Stichtag 31.03.2025 folgende Situation a
 **Liquiditätsstatus:**
 
 ```
-Aktiva I 25.000 EUR
+Aktiva I 295.000 EUR
 + Aktiva II 0 EUR
-= Summe liquide Mittel 25.000 EUR
+= Summe liquide Mittel 295.000 EUR
 ./. Passiva I 320.000 EUR
-= Unterdeckung 295.000 EUR
+= Unterdeckung 25.000 EUR
 ```
 
-**Quote:** 25.000 / 320.000 × 100 = **7,8 %**
+**Quote:** rund **92 Prozent**
 
-Die Unterdeckung beträgt 92,2 % und übersteigt damit nicht die 10-%-Schwelle im Sinne der ständigen BGH-Linie (konkrete Az. vor Ausgabe verifizieren).
+Die Unterdeckung beträgt rund 8 Prozent und liegt damit unter der 10-Prozent-Schwelle im Sinne der ständigen BGH-Linie (konkrete Az. vor Ausgabe verifizieren).
 
 **Zwischenergebnis:** Die Unterdeckung liegt unter 10 %. Es ist zu prüfen, ob die Lücke von
-295.000 EUR innerhalb von 3 Wochen zu schließen ist. Fehlen konkrete Zuflüsse, liegt nach Ablauf
+25.000 EUR innerhalb von 3 Wochen zu schließen ist. Fehlen konkrete Zuflüsse, liegt nach Ablauf
 der 3-Wochen-Frist Zahlungsunfähigkeit vor. Bestehen hinreichend konkrete Zuflusserwartungen
 (Aktiva II), ist lediglich Zahlungsstockung anzunehmen; die Prüfung ist in 3 Wochen zu wiederholen.
 

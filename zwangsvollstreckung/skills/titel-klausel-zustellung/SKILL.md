@@ -56,6 +56,19 @@ Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn d
 5. **Wartefrist beachten**: bei qualifizierter Klausel 2 Wochen ab Zustellung § 750 Abs. 2 ZPO.
 6. **Ampel setzen**: Säulen grün → weiter; Säulen gelb/rot → fehlende Säule beschaffen, dann erneut prüfen.
 
+## Anschluss an digitale PfÜB-Anträge
+
+Ab dem 1.10.2026 ist bei Pfändungs- und Überweisungsbeschlüssen die elektronische Antragsroute nach Paragraf 829a ZPO n.F. mitzudenken. Für den Drei-Säulen-Check heißt das:
+
+| Dokument | Prüfung | Bedeutung für PfÜB |
+| --- | --- | --- |
+| Titel | Art, Datum, Aussteller, Vollstreckbarkeit | Elektronische Kopie nur verwenden, wenn Identität und Forderungsfortbestand sauber versichert werden können |
+| Klausel | einfache, qualifizierte oder umgeschriebene Klausel | Bedingungs- und Rechtsnachfolgenachweise müssen mit in die elektronische Anlage |
+| Zustellung | Zustellungsdatum, Zustellungsadressat, Wartefrist | Ohne belastbaren Zustellungsnachweis keine wirksame Kontopfändung |
+| Forderungsstand | Hauptforderung, Zinsen, Kosten, Teilzahlungen | Ab 1.1.2027 müssen PDF-Antrag und XML-Datensatz betragsgleich sein |
+
+Bei Bankpfändungen ab dem 1.6.2027 zusätzlich prüfen, ob die Zustellung an das Kreditinstitut über dessen sicheren Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. erfolgen soll. Zustellnachweis und Drittschuldnererklärung nach Paragraf 840 ZPO gehören dann in dieselbe Kontrollliste.
+
 ## Typische Fehlerquellen
 
 - **Klausel fehlt** – Anwalt versucht zu vollstrecken aus einfacher Urteilsabschrift. Klausel binnen 1-2 Werktagen beim ausgangs Gericht zu holen.

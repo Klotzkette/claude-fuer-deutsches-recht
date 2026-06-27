@@ -27,9 +27,10 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 3. Existiert ein Management Forecast? Wie plausibel ist er angesichts der Bankdaten und OPOS?
 4. Gibt es Cash Pools, Treuhandkonten, Intercompany-Forderungen oder gebundene Konten, die nicht frei verfügbar sind?
 5. Bestehen Zahlungsstockungen, Rücklastschriften, Covenants-Verletzungen oder Kreditkündigungen?
-6. Handelt es sich um eine Krisenprüfung (Paragraf 17–19 InsO) oder um eine normale Buy/Sell-Side-DD?
-7. Welche Szenarien sollen modelliert werden — Base Case, Downside, No-Funding-Case, Closing Delay?
-8. Wer empfängt die Vorschau — internes Board Paper, externe Banken, Insolvenzgericht, DD-Bericht?
+6. Gibt es streitige, titulierte oder vorläufig vollstreckbare Forderungen gegen das Unternehmen, und wurde daraus bereits vollstreckt?
+7. Handelt es sich um eine Krisenprüfung (Paragraf 17–19 InsO) oder um eine normale Buy/Sell-Side-DD?
+8. Welche Szenarien sollen modelliert werden — Base Case, Downside, No-Funding-Case, Closing Delay?
+9. Wer empfängt die Vorschau — internes Board Paper, externe Banken, Insolvenzgericht, DD-Bericht?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
@@ -50,9 +51,20 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BGH | IX ZR 229/22 | 23.01.2025 | Vorläufig vollstreckbar titulierte und fällige Forderung ist im Liquiditätsstatus mit dem Nennwert anzusetzen, wenn die Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt; kein Abschlag nach Prozessrisiko |
+| BGH | II ZR 139/23 | 11.03.2025 | Für die Zahlungsfähigkeitsprüfung kommt es auf die materielle Rechtslage an; bestehende und fällige Verbindlichkeiten werden nicht wegen Bestreitens ausgeblendet |
+| BGH | IX ZB 38/24 | 22.05.2025 | Stützt sich ein Insolvenzantrag allein auf einen titulierten Anspruch, kann die Belegwirkung entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
 | IDW S 11 | — | 2022 | IDW-Standard zur Beurteilung des Vorliegens von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus und Fortbestehensprognose |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+
+## Streitige Forderungen in der Liquiditätsbilanz
+
+| Lage | Ansatz in der 3-Wochen-Prüfung | Begründungsbaustein |
+|---|---|---|
+| Forderung besteht materiell und ist fällig | Passivum zum Nennwert | Bestreiten ändert die Zahlungsfälligkeit nicht |
+| Forderung besteht materiell nicht oder ist nicht fällig | Nicht einstellen | Zahlungsunfähigkeit entsteht nicht durch eine rechtlich nicht geschuldete Zahlung |
+| Vorläufig vollstreckbarer Titel, Gläubiger vollstreckt | Passivum zum Nennwert | Vollstreckungsdruck ist kurzfristig liquiditätswirksam |
+| Titel vorhanden, Vollstreckung vorläufig eingestellt | Separat markieren, keine automatische Nennwertpassivierung | Vollstreckungsdruck fehlt; materielle Lage prüfen |
+| Nur Prozessrisiko ohne fällige Verbindlichkeit | Kein pauschaler Prozentabschlag | Keine 30- oder 50-Prozent-Quote in der Liquiditätsbilanz |
 
 ## Prüfschema Liquiditätsvorschau
 
@@ -61,7 +73,7 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Startliquidität bestimmen | Bankkontoauszüge (Stichtag); Cash Pools (nur freier Anteil); Treuhandkonten separat; Intercompany: Rückforderungsrisiko prüfen | Startliquidität EUR [X] |
-| 2 | Fällige Verbindlichkeiten (OPOS Kreditoren) | Fälligkeitsliste aus OPOS: Lieferanten, Mieten, Löhne, Steuern, Sozialversicherung, Debt Service, Litigation-Rückstellungen | Auszahlungsplan erstellt |
+| 2 | Fällige Verbindlichkeiten (OPOS Kreditoren) | Fälligkeitsliste aus OPOS: Lieferanten, Mieten, Löhne, Steuern, Sozialversicherung, Debt Service, titulierte und streitige Forderungen nach Bestand, Fälligkeit und Vollstreckungsstand | Auszahlungsplan erstellt |
 | 3 | Erwartete Einzahlungen (OPOS Debitoren) | Forderungsbestand, Fälligkeit, Ausfallwahrscheinlichkeit, Zahlungsverhalten der Top-5-Kunden | Einzahlungsplan erstellt |
 | 4 | 3-Wochen-Vorschau | Woche 1–3: Anfangsbestand, Einzahlungen, Auszahlungen, Endbestand, Deckungslücke, Ampel | Ampel: grün / gelb / rot |
 | 5 | 13-Wochen-Cash-Bridge | Wochen 1–13: Detailplanung je Woche; Brückenfinanzierungsbedarf identifizieren | Bridge-Bedarf EUR [X] |
@@ -98,10 +110,10 @@ Die Liquiditätsvorschau ist das zentrale Instrument zur Beurteilung der kurzfri
 
 | Argument | Erwiderung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+| Die Forderung wird bestritten, also bleibt sie draußen | Falsch, wenn die Forderung materiell besteht und fällig ist; sie ist dann im Nennwert zu passivieren |
+| Die titulierte Forderung ist nur mit Prozessrisikoquote anzusetzen | Falsch; bei Vollstreckungsdruck aus vorläufig vollstreckbarem Titel kein Prozentabschlag |
+| Der Titel ist alles entscheidend | Zu grob; bei offenkundig nicht bestehender oder nicht fälliger Forderung bleibt die materielle Lage maßgeblich |
 | Forecast zeigt Erholung in 6 Monaten | Für Paragraf 17 InsO zählt nur aktuelle Fälligkeit; Erholung in der Zukunft ändert nichts an gegenwärtiger Zahlungsunfähigkeit |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 
 ## Strategische Optionen (vor dem Template entscheiden)
 

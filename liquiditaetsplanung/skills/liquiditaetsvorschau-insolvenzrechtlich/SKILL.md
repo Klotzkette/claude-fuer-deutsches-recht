@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description: "Prüfungslinie für liquiditaetsvorschau insolvenzrechtlich im Liquiditaetsplanung."
+description: "Prüft insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau mit Passiva-Logik, streitigen Forderungen, Titeln, Stundungen und Sanierungsübergabe."
 ---
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
@@ -31,6 +31,7 @@ Der Skill fragt strukturiert die folgenden Felder ab. Was fehlt, wird im Worst C
 - **Passiva I**: alle am Stichtag fälligen und ernsthaft eingeforderten Verbindlichkeiten; Stundungen nur, wenn echt vereinbart und dokumentiert.
 - **Passiva II**: binnen drei Wochen fällig werdende Verbindlichkeiten, einzeln aufgeführt nach Gläubiger und Fälligkeitsdatum.
 - **Echte Stundung** (mit beiderseitigem Einvernehmen und Fälligkeitsverschiebung) beseitigt Passiva I; faktische Duldung des Zahlungsverzugs nicht. Konkrete BGH-Linie über offene Quellen verifizieren.
+- **Streitige oder titulierte Forderungen**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsbeginn, Einstellung der Vollstreckung und Beleg getrennt erfassen; keine Prozentquote nach Prozessrisiko.
 - **Indizien** nach § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge anderer Gläubiger, Wechselproteste).
 
 ## Bezugsquellen der Eingabedaten
@@ -64,6 +65,8 @@ Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
 
 Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
 
+Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist.
+
 **Schritt 4 — Subsumtion nach BGH-Schema**
 
 - **Liquiditätsquote < 10 % und Lücke binnen drei Wochen schließbar**: nur Zahlungsstockung.
@@ -76,7 +79,13 @@ Indizienkatalog für die Zahlungseinstellung umfasst insb. verspätete Lohnzahlu
 
 **Schritt 6 — Titulierte Forderungen**
 
-Titulierte Forderungen sind regelmäßig fällig und in Passiva I aufzunehmen; ausnahmsweise kann eine streitige Titulierung im Anfechtungsprozess Indizwirkung mindern. Konkrete BGH-Entscheidung vor Ausgabe verifizieren.
+Bei titulierten Forderungen nicht bei "streitig" stehen bleiben. Das Prüfraster lautet:
+
+1. Besteht die Forderung materiell und ist sie fällig? Dann mit Nennwert passivieren, auch wenn sie bestritten wird.
+2. Besteht die Forderung materiell nicht oder ist sie aus Rechtsgründen nicht fällig? Dann nicht passivieren, auch wenn sie behauptet wird.
+3. Gibt es einen vorläufig vollstreckbaren Titel, liegen die Vollstreckungsvoraussetzungen vor und hat der Gläubiger Vollstreckung eingeleitet? Dann Nennwert passivieren; kein Abschlag nach Prozessrisiko.
+4. Ist die Zwangsvollstreckung aus dem Titel einstweilen eingestellt? Dann Beweiswirkung für den Gläubigerantrag und Liquiditätsabfluss gesondert würdigen.
+5. Ist der Titel nur ein Indiz in einer breiteren Liquiditätslage? Dann den titulierten Betrag und die sonstigen fälligen Verbindlichkeiten getrennt ausweisen.
 
 **Schritt 7 — Objektivität**
 
@@ -96,14 +105,15 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 
 § 17 InsO, § 15a InsO, § 18 InsO, § 19 InsO, § 102 StaRUG.
 
-### Leitentscheidungen (Stand Mai 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
+### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
 
-1. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung: bei objektiv festgestellter Zahlungsunfähigkeit kein Automatik-Schluss auf Vorsatz; konkrete Bedrohungslage darzulegen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
-2. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft (§ 142 Abs. 1 Hs. 2 InsO). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-3. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers (§ 823 II BGB iVm § 15a InsO). <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-4. **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Wissentlichkeitsausschluss; positive Kenntnis pro Pflichtverletzung erforderlich.
-5. **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
-6. Grundlegende ältere BGH-Linie zum 10-%-/3-Wochen-Schema und zur Zahlungseinstellung: konkrete Az. (insb. zur Liquiditätsbilanz, zu Stundungen, zu titulierten Forderungen, zur Erkennbarkeit der Insolvenzreife) vor Ausgabe in offener Quelle prüfen.
+1. **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert in den Liquiditätsstatus; keine anteilige Bewertung nach Prozessrisiko.
+2. **BGH II ZR 139/23 vom 11.03.2025** — Verbindlichkeit zählt nach materiellem Bestand; Zahlungsunfähigkeit ist objektiv zu bestimmen.
+3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
+4. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung: bei objektiv festgestellter Zahlungsunfähigkeit kein Automatik-Schluss auf Vorsatz; konkrete Bedrohungslage darzulegen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22
+5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23
+6. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers nach Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 15a InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22
+7. Grundlegende ältere BGH-Linie zum 10-%-/3-Wochen-Schema und zur Zahlungseinstellung: konkrete Az. zur Liquiditätsbilanz, zu Stundungen, zu titulierten Forderungen und zur Erkennbarkeit der Insolvenzreife vor Ausgabe in offener Quelle prüfen.
 
 ### Quellenregel
 
@@ -128,6 +138,7 @@ Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manu
 
 - **Faktische Duldung als Stundung behandeln**: nur echte schriftliche Stundungsvereinbarung mit Fälligkeitsverschiebung beseitigt Passiva I. Konkrete BGH-Linie über offene Quellen verifizieren.
 - **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
+- **Titulierte Forderung nur anteilig nach Prozessrisiko ansetzen**: bei eingeleiteter Vollstreckung aus vorläufig vollstreckbarem Titel Nennwert, nicht Wahrscheinlichkeitswert.
 - **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
 - **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
 - **Stichtag im Haftungskontext zu spät ansetzen**: tatsächlicher Eintritt maßgeblich.

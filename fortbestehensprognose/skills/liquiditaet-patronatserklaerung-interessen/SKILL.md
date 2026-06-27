@@ -40,3 +40,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **13-Wochen-Planung (rollierend):** Operativer Standard für Sanierungsfälle; Anfangsbestand + Einzahlungen − Auszahlungen = Endbestand je Woche, Salden ≥ 0.
 - **Stresstest-Vorgaben:** Mindestens Base und Stress (z. B. −20 % Umsatz, −10 Tage Forderungslaufzeit, −10 % Zahlungsmoral); zusätzlich Worst Case bei abhängigen Großkunden.
 - **Trade-off:** Reine Stichtagsbetrachtung übersieht zeitliche Lücken; reine Rollplanung übersieht stille Reserven und Mobilisierungspotential — daher beide nebeneinander.
+
+## Sanierungsbausteine in der Liquiditätsplanung
+
+| Baustein | Wirkung auf Zahlungsfähigkeit | Wirkung auf Überschuldung | Beleganforderung |
+| --- | --- | --- | --- |
+| Harte interne Patronatserklärung | Aktiva nur, wenn bezifferter Anspruch rechtzeitig abrufbar und Patron bonitätsstark ist | kann Fortbestehensprognose tragen | unterschriebene Zusage, Bonitätsbeleg, Zahlungsfrist |
+| Externe harte Patronatserklärung | schützt den Gläubiger, bringt der Gesellschaft nicht automatisch Cash | nur mit zusätzlicher Finanzierungsbrücke | Wortlaut, Adressat, Abrufmechanik |
+| Weicher Comfort Letter | keine harte Liquidität | nur ausnahmsweise Prognoseindiz | BGH II ZR 84/20 beachten |
+| Qualifizierter Rangrücktritt | keine neue Liquidität; verhindert nur Zahlung an Nachranggläubiger | kann Passivierung im Überschuldungsstatus entfallen lassen | freie Überschüsse, vorinsolvenzliche Sperre, Drittschutz |
+| Stundung | verschiebt Fälligkeit und kann Passiva I senken | nur mittelbar | echte Vereinbarung mit neuem Fälligkeitsdatum |
+| Zuschuss oder Darlehen | echte Liquidität bei Valutierung oder sicherer Abrufbarkeit | je nach Rang und Kondition | Valuta, Auszahlungsbedingungen, Rang |
+
+Arbeitsregel: In die Drei-Wochen-Liquiditätsbilanz kommen nur harte, rechtzeitig verfügbare Zuflüsse. In die Fortbestehensprognose kommen nur Maßnahmen, deren Eintritt überwiegend wahrscheinlich und anhand konkreter Unterlagen dokumentiert ist.

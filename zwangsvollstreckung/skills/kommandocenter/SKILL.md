@@ -72,13 +72,14 @@ Wenn auch nur eine Säule fehlt: **STOPP**. Der Skill bricht die Vollstreckung a
 
 ## Reform-Stand 2026/2027 (ZVollstrDigitG)
 
-Das Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung (BT-Drs. 21/4815) bringt für die Praxis drei zentrale Änderungen, die der Skill bei jeder Beratung mitberücksichtigt:
+Das Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung (BGBl. 2026 I Nr. 152; BT-Drs. 21/4816) bringt für die Praxis vier zentrale Änderungen, die der Skill bei jeder Beratung mitberücksichtigt:
 
-1. **Inkrafttreten Hauptteile**: 1.10.2026 – neue Pfändungsformulare, XML-Antrag nach § 829 Abs. 5 ZPO n.F. möglich (PDF + XML; XML ist führend).
-2. **Pflicht für Kreditinstitute**: ab 1.10.2027 müssen Banken einen sicheren elektronischen Übermittlungsweg eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.) – eBO oder andere Wege nach § 130a Abs. 4 ZPO. Vorher freiwillig.
-3. **§ 840 ZPO Drittschuldnererklärung**: Postzustellung zusätzlich zur GV-Zustellung und elektronischen Zustellung.
+1. **Elektronischer PfÜB-Antrag**: ab 1.10.2026 nach Paragraf 829a ZPO n.F. mit elektronischen Kopien von Titel, Klausel und Zustellungsnachweis.
+2. **Strukturierter Datensatz**: ab 1.1.2027 XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. möglich; bei Widerspruch zwischen PDF und XML ist XML maßgeblich.
+3. **Pflicht für Kreditinstitute**: ab 1.6.2027 müssen Banken einen sicheren elektronischen Übermittlungsweg eröffnen nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F.; vorher freiwillig.
+4. **Paragraf 840 ZPO Drittschuldnererklärung**: Postzustellung zusätzlich zur Gerichtsvollzieherzustellung und elektronischen Zustellung.
 
-Stand 25.5.2026: Gesetz im Bundestag beschlossen am 19.3.2026, Bundesrat nicht zustimmungspflichtig, Verkündung im BGBl stand bei letzter Recherche noch aus – `zv-elektronische-zustellung-2027` enthält die operative Umsetzung und prüft, ob das Datum zwischenzeitlich angepasst werden muss.
+Stand 27.6.2026: Das Gesetz ist im BGBl. 2026 I Nr. 152 verkündet. Für operative Details `zv-elektronische-zustellung-2027` und `zv-pfueb-bank` nutzen.
 
 ## Qualitätsgates
 

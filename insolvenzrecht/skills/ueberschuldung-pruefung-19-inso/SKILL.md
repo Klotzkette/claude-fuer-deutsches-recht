@@ -73,7 +73,9 @@ zwölf Monaten. Zum Stichtag 18.05.2026 beträgt der Prognosezeitraum zwölf Mon
 
 **Abgrenzung handelsbilanzieller vs. insolvenzrechtlicher Überschuldung:** Negative Handelsbilanz indiziert mögliche insolvenzrechtliche Überschuldung, begründet sie aber nicht zwingend. Positives HGB-Eigenkapital schließt umgekehrt eine insolvenzrechtliche Überschuldung nicht aus, wenn Vermögensgegenstände zu Fortführungswerten überhöht aktiviert sind.
 
-**Qualifizierter Rangrücktritt:** Nur ein qualifizierter Rangrücktritt (Erfüllung beschränkt auf das freie, die sonstigen Verbindlichkeiten übersteigende Vermögen) bewirkt das Ausscheiden aus dem Überschuldungsstatus iSd § 19 Abs. 2 S. 2 InsO. Einfacher Rangrücktritt genügt nicht.
+**Qualifizierter Rangrücktritt:** Ein Rangrücktritt entfernt die Forderung aus dem Überschuldungsstatus nur, wenn er mehr leistet als einen bloßen Nachrang. Er muss die Durchsetzung vor und nach Insolvenzreife so sperren, dass durch Zahlung weder Zahlungsunfähigkeit noch Überschuldung ausgelöst oder vertieft wird. Zahlung darf nur aus freiem Vermögen, aus einem künftigen Bilanzgewinn, aus Liquidationsüberschuss oder aus sonstigem freien Liquiditätsüberschuss erfolgen. Die Rechtsprechung behandelt den qualifizierten Rangrücktritt als schuldrechtliche Vereinbarung mit Wirkung zugunsten der Gläubigergesamtheit; nach Insolvenzreife kann er nicht beliebig durch Schuldner und Rangrücktrittsgläubiger zu Lasten der übrigen Gläubiger beseitigt werden. Leitanker: BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018, BGH IX ZR 250/20 vom 24.02.2022.
+
+**Patronat und Comfort Letter:** Eine harte Patronatserklärung kann für Fortbestehensprognose und Liquiditätsplanung nur tragen, wenn Anspruchsinhaber, Leistungspflicht, Betrag, Zeitraum, Abrufmechanik und Bonität des Patrons konkret belegt sind. Eine weiche Patronatserklärung oder bloße Unterstützungserwartung beseitigt rechnerische Überschuldung nicht und trägt die Fortbestehensprognose nur ausnahmsweise, wenn eine belastbare tatsächliche Finanzierungswahrscheinlichkeit nachgewiesen ist. Leitanker: BGH II ZR 84/20 vom 13.07.2021; bei externer harter Patronatserklärung zusätzlich BGH IX ZR 95/16 vom 12.01.2017 für Haftungsfolgen bei späterer Anfechtung.
 
 Hinweis: Aktenzeichen und Randnummern der einschlägigen BGH-Entscheidungen (zur Fortbestehensprognose, Liquidationswerten, Rangrücktritt) vor Ausgabe in offener Quelle (dejure.org, openjur.de, bundesgerichtshof.de) prüfen.
 
@@ -141,8 +143,20 @@ erfassen — nicht zu HGB-Buchwerten oder Fortführungswerten. Typische Abweichu
 - Pensionsrückstellungen: versicherungsmathematisch ermittelt, nicht HGB-Abzinsung
 - Latente Steuerschulden aus stillen Reserven
 - **Ausnahme § 19 Abs. 2 Satz 2 InsO**: Verbindlichkeiten mit qualifiziertem Rangrücktritt
- (Erfüllung ausdrücklich nur aus freiem, die übrigen Verbindlichkeiten übersteigendem
- Vermögen zugesagt) sind aus der Passivseite herauszulassen.
+ sind aus der Passivseite herauszulassen, wenn die Klausel eine insolvenzvermeidende
+ Durchsetzungssperre enthält und Zahlungen nur aus freiem Vermögen, künftigen Gewinnen,
+ Liquidationsüberschuss oder freiem Liquiditätsüberschuss zulässt. Eine bloße
+ Rangreihenfolge oder ein einfacher Nachrang genügt nicht.
+
+**2.2a Sanierungsbausteine auf Passivseite prüfen**
+
+| Baustein | Passivierungswirkung | Prüffrage |
+|---|---|---|
+| Qualifizierter Rangrücktritt | Forderung kann aus dem Überschuldungsstatus ausscheiden | Sperrt die Klausel Zahlungen auch vor Insolvenzreife, soweit sie Eröffnungsgründe auslösen würden? |
+| Einfacher Rangrücktritt | Forderung bleibt grundsätzlich Passivum | Wird nur die Rangfolge geregelt oder auch die Durchsetzung gesperrt? |
+| Harte interne Patronatserklärung | Kann Aktiv-/Liquiditätsseite stärken | Hat die Gesellschaft einen durchsetzbaren Anspruch gegen den Patron? |
+| Harte externe Patronatserklärung | Stärkt eher Gläubigerposition | Fließt rechtzeitig Liquidität an die Schuldnerin oder nur Zahlung an Dritte? |
+| Weicher Comfort Letter | Keine automatische Entlastung | Ist mehr belegt als eine Unterstützungsabsicht? |
 
 **2.3 Saldierung und Ergebnis**
 Übersteigen die Passiva die Aktiva (Liquidationswerte), liegt rechnerische Überschuldung vor.
@@ -231,6 +245,8 @@ Ein Gesellschafterdarlehen mit einfachem Rangrücktritt bleibt Passivposten im
 Überschuldungsstatus. Nur der qualifizierte Rangrücktritt (Erfüllung ausschließlich
 aus freiem, die übrigen Verbindlichkeiten übersteigendem Vermögen) führt gem.
 § 19 Abs. 2 S. 2 InsO zum Ausscheiden aus dem Status (st. BGH-Linie; konkretes Az. vor Ausgabe verifizieren).
+
+Prüfe zusätzlich, ob die Klausel steuerlich als Rückzahlung nur aus künftigem Bilanzgewinn, Liquidationsüberschuss oder sonstigem freien Vermögen ausgestaltet ist. Wenn die Rückzahlung aus sonstigem freien Vermögen möglich bleibt, kann eine Passivierung nach Paragraf 5 Absatz 2a EStG weiterhin geboten sein; BFH I R 25/15 vom 10.08.2016 und BFH XI R 32/18 vom 19.08.2020 als Steueranker heranziehen.
 
 **Fehler 3 — Mangelhafte Fortbestehensprognose ohne Plausibilisierung**
 Eine Fortbestehensprognose, die sich auf pauschale Hoffnungen oder ungesicherte
@@ -322,4 +338,3 @@ ERGEBNIS:
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-

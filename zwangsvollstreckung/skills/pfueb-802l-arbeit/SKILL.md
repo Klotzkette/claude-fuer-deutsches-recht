@@ -47,8 +47,8 @@ Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Dr
  - § 850b ZPO: Sterbegeld, Schmerzensgeld – nur eingeschränkt pfändbar
  - § 54 SGB I: Kindergeld nur für Unterhalt des Kindes pfändbar
 5. **Vollstreckungsgericht**: Wohnsitz Schuldner (§ 828 Abs. 2 ZPO).
-6. **Antrag** auf ZVFV-Formular, ab 1.10.2026 XML-Antrag.
-7. **Zustellung** an Drittschuldner durch GV oder ab 1.10.2027 elektronisch (sofern Behörde/Unternehmen Postfach eröffnet).
+6. **Antrag** auf ZVFV-Formular; ab 1.10.2026 elektronische Antragstellung nach Paragraf 829a ZPO n.F. prüfen und ab 1.1.2027 PDF-/XML-Gleichlauf nach Paragraf 829 Absatz 5 ZPO n.F. sicherstellen.
+7. **Zustellung** an Drittschuldner durch Gerichtsvollzieher; bei Kreditinstituten ab 1.6.2027 sicheren elektronischen Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. einplanen.
 8. **Drittschuldnererklärung § 840 ZPO** abwarten.
 9. **Bei Finanzamt-Pfändung**: parallele Abtretungsanzeige nach § 46 AO ist verfahrensmäßig oft schneller, aber rechtlich anders zu bewerten – Mandanten beraten.
 
@@ -85,7 +85,7 @@ Forderung Schuldner: EUR Haupt + EUR Zinsen + EUR Kosten
 Drittschuldner: [Mieter / Finanzamt / Versicherung / Geschäftspartner]
 Gepfändete Forderung: [genaue Bezeichnung mit Rechtsgrund und Zeitraum]
 Pfändungsverbote: [§ 851 / § 850b / § 54 SGB I geprüft]
-Zustellungsweg: GV Papier / eBO / ab 1.10.2027 ggf. elektronisch
+Zustellungsweg: GV Papier / eBO / Bank ab 1.6.2027 regelmäßig elektronisch
 
 NÄCHSTER SCHRITT: Drittschuldnererklärung
 WIEDERVORLAGE: DD.MM.JJJJ

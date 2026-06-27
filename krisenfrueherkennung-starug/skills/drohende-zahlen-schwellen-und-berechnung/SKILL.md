@@ -38,6 +38,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Maßstab:** „**überwiegend wahrscheinlich**" — Quote tendenziell > 50 Prozent.
 - **Schwelle zur Antragsmöglichkeit:** Schuldner darf antragen (§ 18 Abs. 1 InsO), muss aber nicht; bei eingetretener ZU (§ 17) oder Überschuldung (§ 19) muss er.
 
+## Vorprüfung Paragraf 17 InsO
+
+StaRUG beginnt nicht mit der Wunschroute, sondern mit dem Ausschluss der bereits eingetretenen Zahlungsunfähigkeit. Vor jeder 24-Monats-Prognose ist deshalb ein Drei-Wochen-Liquiditätsstatus zu erstellen.
+
+| Posten | StaRUG-taugliche Behandlung |
+|---|---|
+| Fällige Forderung besteht materiell | Mit Nennwert in Passiva aufnehmen |
+| Forderung besteht nicht oder ist nicht fällig | Nicht in Passiva aufnehmen |
+| Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert als kurzfristigen Abfluss einplanen |
+| Titel, aber Vollstreckung vorläufig eingestellt | Titelwirkung gesondert würdigen, nicht mechanisch als Abfluss |
+| Bloßes Prozessrisiko | Keine prozentuale Prozessrisikoquote |
+
+Leitanker: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025. Wenn der Paragraf-17-Test rot ist, ist der StaRUG-Zugang nicht der Hauptweg; dann Antragspflicht, Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen.
+
 ## Liquiditätsplan 24 Monate — Methodik
 
 - Monatliche Granularität, integriert mit GuV und Bilanz.
@@ -45,6 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Cash-Outflows: Personalkosten, Steuern, SV-Abgaben, Miete, Tilgung/Zinsen, Investitionen, sonstige Betriebsausgaben.
 - Finanzierung: Kreditlinien, Kovenanten (Inanspruchnahme realistisch; Kündigungsrisiko in Sensitivität).
 - Sensitivität: Best / Base / Worst.
+- Streit- und Titelregister: alle relevanten Forderungen mit Bestand, Fälligkeit, Titelstand, Vollstreckung, Stundung, Aufrechnung und Beleg erfassen.
 
 ## Schwellenwerte und Ampel
 
@@ -67,6 +82,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Patronatserklärung** (harte Erklärung) des Gesellschafters.
 - **Kapitalmaßnahmen** (Kapitalerhöhung, Gesellschafterzuschuss).
 - **Bankenstandstill** mit verbindlichem Term Sheet.
+
+Rangrücktritt, Patronat und Stundung zählen nur, wenn sie rechtlich bindend, zeitlich passend und liquiditätswirksam sind. Ein bloß geplanter Rangrücktritt, eine weiche Patronatserklärung oder ein unverbindliches Stillhalten reicht nicht, um Paragraf 17 InsO auszuschließen.
 
 ## Anti-Halluzinations-Hinweis
 - **24 Monate** für § 18 InsO drohende ZU — nicht zu verwechseln mit 12 Monaten für § 19 InsO Überschuldungs-Fortbestehensprognose.

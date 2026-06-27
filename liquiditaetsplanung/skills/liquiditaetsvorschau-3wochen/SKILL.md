@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: "Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Prüfung."
+description: "Drei-Wochen-Liquiditätsvorschau nach Paragraf 17 InsO mit Wochenraster, Excel-Export, Quote, Lücken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Prüfung."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
@@ -20,6 +20,7 @@ Der Skill fragt diese Felder strukturiert ab. Fehlt etwas, wird der Worst Case a
 - **Passiva I (zum Stichtag)**: alle am Stichtag fälligen, eingeforderten und nicht echt gestundeten Verbindlichkeiten.
 - **Passiva II (KW *t* bis *t+2*)**: binnen drei Wochen fällig werdende Verbindlichkeiten je Woche, sortiert nach Buckets (Lohn/SV/Lohnsteuer/USt-VZ/Miete/Lieferanten kritisch/Zins+Tilgung/Sonstiges).
 - **Offene Forderungen gesamt** (Nominal, davon binnen 3 Wochen erwartet, davon tituliert, davon zweifelhaft).
+- **Streitige Passiva**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsstand und etwaige Einstellung der Zwangsvollstreckung getrennt erfassen. Keine pauschale Prozessrisikoquote.
 - **Indizien** § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge, Wechselproteste).
 
 ## Bezugsquellen der Eingabedaten
@@ -59,6 +60,7 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 - Σ Liquide = Aktiva I + Aktiva II.
 - Σ Fällig = Passiva I + Passiva II.
 - **Liquiditätslücke (absolut) = max(0, Σ Fällig − Σ Liquide)**.
+- Streitig heißt nicht automatisch ausklammern. Besteht die Verbindlichkeit materiell und ist sie fällig, wird sie mit dem Nennwert angesetzt. Besteht sie materiell nicht oder ist sie rechtlich nicht fällig, wird sie nicht passiviert. Liegt ein vorläufig vollstreckbarer Titel vor und hat der Gläubiger die Vollstreckung eingeleitet, ist der Nennwert in die Passiva aufzunehmen. Ein Abschlag nach Prozessrisiko ist kein zulässiger Rechenschritt.
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 **Schritt 5 — Ampel und 3-Wochen-Schließbarkeit**
@@ -67,7 +69,9 @@ Banking-Frage nach Abschnitt *Bezugsquellen der Eingabedaten* stellen. Erst dana
 - 🔴 **Rot**: Liquiditätsquote ≥ 10 % **und** Liquidität am Ende von *t+2* negativ (nicht binnen drei Wochen schließbar) **oder** zwei und mehr Indizien gesetzt — Zahlungsunfähigkeit § 17 InsO indiziert.
 
 **Schritt 6 — Verhältnis zu offenen Forderungen**
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Aktivseitig dürfen offene Forderungen nur angesetzt werden, wenn ein Zahlungseingang innerhalb des Drei-Wochen-Fensters belastbar zu erwarten ist. Maßgeblich sind nicht Wunsch, Nominalwert oder bloße Fälligkeit, sondern Realisierbarkeit: Zahlungsavis, bestätigte Skonto-Zahlung, belastbare Bankzusage, bereits eingeleitete und aussichtsreiche Vollstreckung oder ein anderer harter Beleg. Bestrittene eigene Forderungen bleiben aus Aktiva II heraus, wenn der Schuldner der Forderung die Zahlung ernsthaft verweigert und kein vollstreckbarer Zugriff im Prognosefenster realistisch ist.
+
+Passivseitig gilt die umgekehrte Kontrollfrage: Muss die Gesellschaft zahlen, wenn die Rechtslage zutrifft oder der Titel vollstreckt wird? Dann ist der Nennwert einzustellen. Nur wenn die Forderung materiell nicht besteht, nicht fällig ist, wirksam gestundet wurde oder die Vollstreckungsbeweiswirkung durch gerichtliche Einstellung erschüttert ist, darf sie herausgenommen oder als gesondertes Stress-Szenario geführt werden. Jede Abweichung vom Nennwert braucht eine Belegzeile.
 
 **Schritt 7 — Ergebnis ausliefern**
 - **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditätsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
@@ -99,11 +103,12 @@ Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` u
 
 1. **BGH II ZR 139/23 vom 11.03.2025** — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; auf den materiellen Bestand der Verbindlichkeit kommt es an. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`; online über die BGH-Rechtsprechungsdatenbank (Aktenzeichensuche II ZR 139/23) verifizieren.
 2. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
-3. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.
-4. **BGH IX ZR 48/21 vom 28.04.2022** (ZIP 2022 S. 1341; GmbHR 2022 S. 908) — Bestätigung der 10-%-Schwelle; geordnete Gegenüberstellung erforderlich (Liquiditätsbilanz oder Finanzplan). Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf`.
-5. **BGH II ZR 88/16 vom 19.12.2017** (BGHZ 217 S. 129; ZIP 2018 S. 283; NJW 2018 S. 1089) — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrie- und Gläubigerschutzargument; Substantiierung beim Bestreiten durch den Geschäftsführer. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf`.
-6. **BGH II ZR 296/05 vom 24.05.2005** — Klassisches Prüfraster für Liquiditätsstockung versus Zahlungsunfähigkeit; Drei-Wochen-Schließbarkeit der Lücke. Vor Übernahme über die BGH-Datenbank verifizieren (Aktenzeichensuche II ZR 296/05).
-7. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung: bei objektiv festgestellter Zahlungsunfähigkeit kein Automatik-Schluss auf den Vorsatz; konkrete Bedrohungslage darzulegen. Vor Übernahme über die BGH-Datenbank oder dejure.org verifizieren.
+3. **BGH IX ZB 38/24 vom 22.05.2025** — Beweiswirkung eines vollstreckbaren Endurteils für einen Gläubigerantrag entfällt, wenn der Schuldner die Einstellung der Zwangsvollstreckung erreicht und die Voraussetzungen erfüllt.
+4. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.
+5. **BGH IX ZR 48/21 vom 28.04.2022** (ZIP 2022 S. 1341; GmbHR 2022 S. 908) — Bestätigung der 10-%-Schwelle; geordnete Gegenüberstellung erforderlich (Liquiditätsbilanz oder Finanzplan). Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_48-21_vom_2022-04-28.pdf`.
+6. **BGH II ZR 88/16 vom 19.12.2017** (BGHZ 217 S. 129; ZIP 2018 S. 283; NJW 2018 S. 1089) — Passiva II zwingend einzubeziehen; Absage an die Bugwellentheorie; Symmetrie- und Gläubigerschutzargument; Substantiierung beim Bestreiten durch den Geschäftsführer. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_88-16_vom_2017-12-19.pdf`.
+7. **BGH II ZR 296/05 vom 24.05.2005** — Klassisches Prüfraster für Liquiditätsstockung versus Zahlungsunfähigkeit; Drei-Wochen-Schließbarkeit der Lücke. Vor Übernahme über die BGH-Datenbank verifizieren (Aktenzeichensuche II ZR 296/05).
+8. **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung der Vorsatzanfechtung: bei objektiv festgestellter Zahlungsunfähigkeit kein Automatik-Schluss auf den Vorsatz; konkrete Bedrohungslage darzulegen. Vor Übernahme über die BGH-Datenbank oder dejure.org verifizieren.
 
 Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), keine US-stare-decisis-Logik, keine pretrial discovery.
 

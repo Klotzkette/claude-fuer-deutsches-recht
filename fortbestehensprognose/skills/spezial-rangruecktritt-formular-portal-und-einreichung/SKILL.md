@@ -50,12 +50,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 <!-- END ausformulierungspflicht (autogen) -->
 
 ## Rangrücktritt — Pflichtbausteine nach § 19 Abs. 2 Satz 2 InsO
-- **Qualifizierter Rangrücktritt:** Vereinbarung muss Tilgung und Zinsen bis zur Beseitigung der Krise ausschließen, vorinsolvenzlichen und insolvenzlichen Rang nach § 39 Abs. 1 Nr. 5 InsO unterordnen und durchsetzbar sein (BGH ständige Rspr.).
-- **Mindestformulierung:** "Die Forderung tritt im Rang hinter sämtliche gegenwärtigen und zukünftigen Forderungen anderer Gläubiger im Sinne des § 39 Abs. 1 Nr. 1–5 InsO zurück. Befriedigung darf nur aus künftigen Gewinnen, einem Liquidationsüberschuss oder freiem Vermögen erfolgen, soweit dies nicht zur Zahlungsunfähigkeit der Gesellschaft führt."
-- **Folgen:** Passivierung in Überschuldungsbilanz nach § 19 Abs. 2 Satz 2 InsO entfällt; bilanzielle Passivierung nach HGB bleibt grds. bestehen — handelsbilanziell zwingend zwischen den beiden zu unterscheiden.
-- **Anfechtungsrisiko:** Rangrücktritt selbst löst keine Anfechtung aus, aber Zahlungen vor Rangrücktritt sind potenziell anfechtbar (§ 135 InsO Gesellschafterdarlehen, einjährige Frist).
-- **Trade-off vs. Forderungsverzicht:** Verzicht ist endgültig und löst u. U. Sanierungsertrag mit Steuerfolgen aus (§ 3a EStG-Sanierungsertragsteuerbefreiung — Voraussetzungen prüfen); Rangrücktritt ist reversibel, aber bilanziell schwächer.
-- **Praxis:** Stets schriftlich, datiert vor dem Bilanzstichtag/Prognosestichtag; Beweissicherung durch Zustellung per Bote oder Anwaltspost.
+- **Qualifizierter Rangrücktritt:** Vereinbarung muss Tilgung, Zinsen und Nebenforderungen vorinsolvenzlich und insolvenzlich sperren, soweit die Zahlung eine Zahlungsunfähigkeit oder Überschuldung herbeiführen oder vertiefen würde.
+- **Freier Überschuss statt Wunschformel:** Befriedigung nur aus freiem Vermögen oder freien Liquiditätsüberschüssen, nach vollständiger Bedienbarkeit vorrangiger fälliger Verbindlichkeiten im Drei-Wochen-Fenster. Keine Zahlung aus Liquidität, die für andere Gläubiger benötigt wird.
+- **Vertrag zugunsten Dritter:** Nach BGH IX ZR 133/14 wirkt der qualifizierte Rangrücktritt zugunsten der Gläubigergesamtheit; ab Insolvenzreife keine Aufhebung allein durch Schuldner und Rangrücktrittsgläubiger.
+- **AGB- und Durchsetzungssperre:** Nach BGH IX ZR 143/17 muss die vorinsolvenzliche Sperre die Insolvenzgründe sauber erfassen; unklare Klauseln nicht als Statusheilung verwenden.
+- **Steuerweiche:** Rückzahlung nur aus künftigen Gewinnen oder Liquidationsüberschuss kann Paragraf 5 Absatz 2a EStG auslösen. Rückzahlung auch aus sonstigem freien Vermögen oder freien Liquiditätsüberschüssen mit Steuerberater und Abschlussprüfer abstimmen.
+- **Trade-off vs. Forderungsverzicht:** Verzicht ist endgültig und kann Sanierungsertrag auslösen; Rangrücktritt erhält die Forderung, trägt aber keine akute Liquiditätslücke. Bei Zahlungsunfähigkeit braucht es zusätzlich Stundung, Zuschuss, Kredit oder harte Patronatszahlung.
+- **Praxis:** Schriftlich, datiert, Forderung samt Zinsen/Nebenforderungen präzise bezeichnet, Rang und Zahlungsquelle klar, Gesellschafterbeschluss und steuerliche Einschätzung zur Akte.
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.

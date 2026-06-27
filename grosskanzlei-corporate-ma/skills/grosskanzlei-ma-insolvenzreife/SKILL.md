@@ -28,8 +28,9 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 4. Wurden bereits Zahlungsstockungen, Rücklastschriften, Vollstreckungsankündigungen oder Kreditkündigungen beobachtet?
 5. Hat die Geschäftsleitung eine aktuelle Fortbestehensprognose? Auf welchen Annahmen beruht sie?
 6. Sind stille Lasten (Pensionsverpflichtungen, Prozessrisiken, Gewährleistungsrückstellungen) in der Bilanz enthalten?
-7. Welche Deal-Auswirkungen sind zu prüfen — MAC-Klausel, Ordinary-Course-Covenant, Closing Condition, W&I-Versicherung?
-8. Welcher Zeithorizont gilt für die Prüfung — Stichtagsbetrachtung oder Prognose 24 Monate?
+7. Gibt es streitige oder titulierte Forderungen, vorläufig vollstreckbare Urteile, Vollstreckungsmaßnahmen oder vorläufige Vollstreckungseinstellungen?
+8. Welche Deal-Auswirkungen sind zu prüfen — MAC-Klausel, Ordinary-Course-Covenant, Closing Condition, W&I-Versicherung?
+9. Welcher Zeithorizont gilt für die Prüfung — Stichtagsbetrachtung oder Prognose 24 Monate?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
@@ -51,7 +52,11 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | - | keine Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
+| BGH | IX ZR 229/22 | 23.01.2025 | Eine vorläufig vollstreckbare titulierte Forderung ist im Liquiditätsstatus nominal zu berücksichtigen, wenn sie fällig ist, Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt |
+| BGH | II ZR 139/23 | 11.03.2025 | Ob eine Verbindlichkeit in die Zahlungsfähigkeitsprüfung einzustellen ist, richtet sich nach der materiellen Rechtslage |
+| BGH | IX ZB 38/24 | 22.05.2025 | Die Belegwirkung eines Titels kann für einen Insolvenzantrag entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
+| BGH | IX ZR 133/14 | 05.03.2015 | Qualifizierter Rangrücktritt wirkt als schuldrechtliche Rang- und Durchsetzungssperre zugunsten der Gläubigergesamtheit |
+| BGH | IX ZR 143/17 | 06.12.2018 | Vorinsolvenzliche Durchsetzungssperre muss Eröffnungsgründe klar verhindern; unklare Klauseln lösen Passivierungs- und Anfechtungsrisiken aus |
 | IDW S 11 | — | 2022 | Standard zur Beurteilung von Insolvenzeröffnungsgründen; Methodik Liquiditätsstatus, Überschuldungsstatus, Fortbestehensprognose |
 
 ## Prüfschema
@@ -61,9 +66,9 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | Schritt | Prüfungspunkt | Inhalt | Ergebnis |
 |---|---|---|---|
 | 1 | Datenqualität prüfen | Bankstände, OPOS, Forecast, Bilanz, stille Lasten, Finanzierungslinien, Patronate, Rangrücktritte vorhanden und aktuell? | Datenlücken-Liste |
-| 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; Deckungslücke berechnen | EUR [X] Deckungslücke |
+| 2 | Liquiditätsstatus erstellen | Aktuelle Liquidität aus Bankdaten; fällige Verbindlichkeiten aus OPOS; streitige Forderungen nach Bestand, Fälligkeit, Titel und Vollstreckungsstand; Deckungslücke berechnen | EUR [X] Deckungslücke |
 | 3 | 3-Wochen-Vorschau (Paragraf 17 InsO) | Liegt Deckungslücke > 10 % der fälligen Verbindlichkeiten vor? → Ampel rot = Zahlungsunfähigkeit | Paragraf 17-Status: [ZU / nicht ZU] |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| 4 | Streitforderungen und Titel | Keine Prozessrisikoquote; materiell bestehende fällige Forderung nominal, nicht bestehende oder nicht fällige Forderung nicht einstellen; vollstreckter Titel nominal | Passiva-Entscheidung dokumentiert |
 | 5 | Überschuldungsstatus (Paragraf 19 InsO) | Bilanz-Passiva > Aktiva zu Fortführungswerten? Stille Lasten, Rückstellungen aufdecken | Überschuldung: [Ja / Nein] |
 | 6 | Fortbestehensprognose (Paragraf 19 InsO) | Überwiegende Wahrscheinlichkeit des Fortbestehens über 12 Monate? Finanzierungszusagen, Auftragsbestand, Geschäftsplan | Prognose: [positiv / negativ] |
 | 7 | Drohende Zahlungsunfähigkeit (Paragraf 18 InsO) | Prognose 24 Monate: werden Verbindlichkeiten voraussichtlich nicht erfüllt werden können? StaRUG-Schwelle? | Paragraf 18-Status: [DZU / nicht DZU] |
@@ -94,7 +99,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 |---|---|---|
 | Zahlungsunfähigkeit bei Antragspflicht-Verletzung | Insolvenzverwalter | Bankkontoauszüge, OPOS, Zahlungsrückstände |
 | Positive Fortbestehensprognose (Paragraf 19 InsO) | Geschäftsleitung | Finanzplan, Auftragsbestand, Finanzierungszusagen (schriftlich) |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
+| Bestehen und Fälligkeit streitiger Forderungen | Wer sich auf die Liquiditätswirkung beruft | Titel, Klageschrift, Einwendungen, Vollstreckungsnachweise, Stundung, Vergleich, Einstellungsbeschluss |
 | Masseschmälernde Zahlung (Paragraf 15b InsO) | Insolvenzverwalter | Buchungsbelege, Zeitpunkt der Insolvenzreife, Vergleich ordentlicher Kaufmann |
 | MAC-Eintritt | Partei, die Vollzugsverweigerung geltend macht | Finanzberichte, Gutachten, Marktdaten |
 
@@ -112,8 +117,9 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Argument | Erwiderung |
 |---|---|
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
-| Rangrücktritt schriftlich vereinbart | Prüfen ob formwirksam; Zweckbindung; Vereinbarung muss alle Verbindlichkeiten mit Rang erfassen |
+| Forderung bestritten | Bestreiten allein genügt nicht; materiell bestehende und fällige Forderungen gehören in die Liquiditätsbilanz |
+| Prozessverlust nur wahrscheinlich | Keine prozentuale Prozessrisikoquote in der 3-Wochen-Bilanz; entweder fällige Verbindlichkeit, vollstreckungswirksamer Titel oder kein Passivum |
+| Rangrücktritt schriftlich vereinbart | Prüfen, ob die Durchsetzung vor und nach Insolvenzreife gesperrt ist, Zahlung nur aus freiem Vermögen oder freiem Liquiditätsüberschuss erfolgen darf und die Klausel zugunsten der Gläubigergesamtheit wirkt |
 | MAC-Klausel zu unbestimmt | Gerichtliche Auslegung der MAC-Definition; Verweis auf EBITDA-Schwellenwerte schärft Klausel |
 
 ## Strategische Optionen (vor dem Template entscheiden)

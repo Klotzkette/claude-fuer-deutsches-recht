@@ -42,6 +42,19 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 - Beirat darf nicht als Verzögerungsinstanz für notwendige Geschäftsleiterentscheidungen wirken.
 - Bank-/Investor-Beiräte auf Insiderwissen, Verschwiegenheit und Interessenkollision prüfen.
 
+## Insolvenznahe Beiratsentscheidung
+
+| Prüffeld | Beiratsauftrag | Fehlerbremse |
+| --- | --- | --- |
+| Paragraf 17 InsO | Aktuellen Liquiditätsstatus und Drei-Wochen-Vorschau verlangen | Keine Beschlussfassung auf Monats-BWA ohne Fälligkeitsliste |
+| Streitige Passiva | Bestand, Fälligkeit, Titel, Vollstreckungsstand und Einstellungsbeschluss erfassen | Keine prozentuale Prozessrisikoquote statt Nennwertprüfung |
+| Paragraf 19 InsO | Fortbestehensprognose, Überschuldungsstatus und Sanierungsbausteine trennen | Weiche Patronatserklärung nicht als harte Liquidität behandeln |
+| Rangrücktritt | Qualifizierte Durchsetzungssperre, Zahlung aus freiem Überschuss und Wirkung zugunsten der Gläubigergesamtheit prüfen | Einfacher Nachrang bleibt riskant |
+| Geschäftsleiterpflichten | Antragspflicht, Zahlungsverbot und Dokumentationsschutz in die Agenda nehmen | Beirat darf Geschäftsleitung nicht in Fristversäumnis drängen |
+| Interessenkonflikt | Bank-, Investor- oder Gesellschaftervertreter offenlegen lassen | Sonderwissen nicht zum Nachteil der Gesellschaft nutzen |
+
+Leitanker: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025, BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
+
 ## Arbeitsmodus
 
 1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.

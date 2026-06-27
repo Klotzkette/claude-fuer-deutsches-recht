@@ -1,39 +1,58 @@
 ---
 name: zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17
-description: "Zahlungsunfaehigkeit Paragraf 17 InsO BGH Ix Zb 25 17: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt."
+description: "Prüft Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich mit Stichtag, Liquiditätsbilanz, streitigen Forderungen, Titeln, Indizien und Organpflichten."
 ---
 
-# Zahlungsunfaehigkeit Paragraf 17 InsO BGH Ix Zb 25 17
+# Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich prüfen
 
 ## Einsatzlage
 
-Liquiditaetsluecke 11 Prozent für 3 Wochen; Zahlungsunfaehigkeit?
+Nutze diesen Skill, wenn im Mandat eine Liquiditätslücke, ein Gläubigerantrag, eine Geschäftsführerhaftung, eine Anfechtungslage oder ein Sanierungsfenster auf Zahlungsunfähigkeit geprüft werden muss. Ziel ist ein gerichtsfestes Kurzmemorandum mit Stichtag, Zahlenwerk, Belegen, Rechtsprechungsankern und einer klaren Handlungsentscheidung.
 
 ## Normenanker
 
-- § 17 InsO
-- § 15a InsO
-- § 19 InsO
-- §§ 129 ff. InsO
-- §§ 217 ff. InsO
+- Paragraf 17 InsO: Zahlungsunfähigkeit und Zahlungseinstellung.
+- Paragraf 15a InsO und Paragraf 15b InsO: Antragspflicht und Zahlungsverbot.
+- Paragraf 18 InsO: drohende Zahlungsunfähigkeit als StaRUG-Schwelle.
+- Paragraf 19 InsO: Überschuldung und Fortbestehensprognose.
+- Paragraf 129 ff. InsO: Anfechtung, insbesondere Liquiditätslage als Vorsatz- und Kenntnisanker.
+- Paragraf 14 InsO: Gläubigerantrag, Forderungsnachweis und Eröffnungsgrund.
 
 ## Rechtsprechungsanker und Quellenhygiene
 
-- BGH 24.05.2005 IX ZR 123/04 — nur verwenden, wenn die Fundstelle über ein amtliches oder frei zugängliches Portal gegengeprüft ist.
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert passivieren; keine Prozessrisikoquote.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23: für die Zahlungsunfähigkeit zählt der materielle Bestand der Verbindlichkeit.
+- BGH, Beschluss vom 22.05.2025 - IX ZB 38/24: bei allein titelgestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung eingestellt ist.
+- BGH, Urteil vom 28.06.2022 - II ZR 112/21: Zahlungsunfähigkeit kann auch durch mehrere aussagekräftige tagesgenaue Liquiditätsstatus dargelegt werden.
+- BGH, Urteil vom 19.12.2017 - II ZR 88/16: Passiva II im Drei-Wochen-Fenster einbeziehen; keine Bugwelle stehen lassen.
+- BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Grundlinie Zahlungsstockung, 10-Prozent-Schwelle und Drei-Wochen-Zeitraum.
 
 ## Prüfprogramm
 
-1. Sachverhalt auf die tatbestandlichen Kernelemente des Skilltitels reduzieren: Beteiligte, Zeitpunkt, Frist, Zuständigkeit, Antrag oder Anspruch, Beweislast.
-2. Normenanker live gegen Gesetzestext prüfen und abweichende Spezialnormen der Akte ergänzen.
-3. Rechtsprechungsanker nur verwerten, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate.
-4. Gegenargumente der anderen Seite mitdenken: Zulässigkeit, Frist, Zuständigkeit, Darlegungslast, Beweisverwertbarkeit, Ermessens- oder Verhältnismäßigkeitsfehler.
-5. Ergebnis als Ampel, To-do-Liste und Textbaustein ausgeben.
+1. Stichtag festlegen: Eintrittsdatum, Antragstag, Zahlungstag oder Anfechtungsstichtag nicht vermischen.
+2. Aktiva I erfassen: freie Bankguthaben, Kasse, ziehungsfähiger Kreditrahmen, sofort verwertbare Liquidität.
+3. Aktiva II erfassen: nur binnen drei Wochen realistisch zufließende Beträge; bestrittene eigene Forderungen nur mit hartem Realisierungsbeleg.
+4. Passiva I erfassen: fällige, ernsthaft eingeforderte und nicht wirksam gestundete Verbindlichkeiten.
+5. Passiva II erfassen: innerhalb von drei Wochen fällig werdende Verbindlichkeiten, auch wenn sie die Lücke nur fortschreiben.
+6. Streitige Forderungen entscheiden: materiell nicht bestehend oder nicht fällig gleich raus; materiell bestehend und fällig gleich Nennwert rein; vorläufig vollstreckbar tituliert und Vollstreckung eingeleitet gleich Nennwert rein; Vollstreckung eingestellt gleich gesonderte Beweiswürdigungszeile.
+7. Indizien der Zahlungseinstellung prüfen: Lohn, Steuern, Sozialversicherung, Rücklastschriften, geplatzte Raten, Pfändungen, Insolvenzanträge, Vollstreckungsdruck.
+8. Ergebnis mit Organpflichten verbinden: Antragspflicht, Zahlungsverbot, Dokumentationspflicht, Sanierungsfenster und nächste Maßnahme.
 
-## Arbeitsergebnis
+## Ausgabematrix
 
-10 Prozent Schwelle; 3 Wochen Toleranz.
+| Prüffeld | Ergebnis | Beleg | Risiko | Nächster Schritt |
+| --- | --- | --- | --- | --- |
+| Stichtag | Datum | Buchhaltung, Kontoauszug, OPOS | falsch angesetzter Fristbeginn | Stichtag begründen |
+| Aktiva I und II | Betrag | Bank, Zusage, Debitor | Scheinliquidität | Zuflussbeleg nachfordern |
+| Passiva I und II | Betrag | OPOS, Mahnung, Titel | unterschätzte Lücke | Fälligkeit prüfen |
+| Streitige Forderung | rein oder raus | Vertrag, Urteil, Vollstreckung | Prozessrisikoquote | Nennwertentscheidung dokumentieren |
+| Indizien | ja oder nein | Akte | Zahlungseinstellung | Antragspflicht prüfen |
 
 ## Belege und Aktenlücken
 
-- Liquiditaetsstatus
-- Faelligkeitenliste
+- Liquiditätsstatus zum Stichtag und innerhalb des Drei-Wochen-Fensters.
+- OPOS Kreditoren und Debitoren mit Fälligkeit und Mahnstand.
+- Kontoauszüge aller Konten, Kreditlinien, Kündigungen und Sperren.
+- Steuer- und Sozialversicherungsrückstände mit Bescheiden, Fälligkeiten und Stundungsentscheidungen.
+- Titel, Klauseln, Zustellungsnachweise, Vollstreckungsaufträge und Einstellungsentscheidungen.
+- Geschäftsleitervermerke, Zahlungspriorisierung, Sanierungsbeschlüsse und Beraterhinweise.

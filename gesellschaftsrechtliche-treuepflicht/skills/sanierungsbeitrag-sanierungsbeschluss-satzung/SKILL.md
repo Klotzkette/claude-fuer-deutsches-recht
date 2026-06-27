@@ -41,6 +41,19 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 - Gesellschafterdarlehen, Rangrücktritt, Verwässerung und NPL-Verkauf als Machtwechsel analysieren.
 - Zeitachse mit Zahlungsfähigkeit, Überschuldung und Beschlussfristen synchronisieren.
 
+## Sanierungsbeiträge richtig einordnen
+
+| Beitrag | Gesellschaftsrechtliche Prüfung | Insolvenzrechtliche Rückbindung |
+| --- | --- | --- |
+| Kapitalerhöhung | Mehrheit, Bezugsrechtsausschluss, Verwässerung, Treuepflicht | Nur tragfähig, wenn Einzahlung rechtzeitig und verbindlich gesichert ist |
+| Gesellschafterdarlehen | Konditionen, Drittvergleich, Sicherheiten, Nachrang | Frisches Cash hilft Liquidität; Passivseite bleibt ohne qualifizierten Rangrücktritt belastet |
+| Qualifizierter Rangrücktritt | Zustimmung, Interessenlage, Dokumentation, Steuerfolge | Zahlung nur aus freiem Vermögen oder freiem Liquiditätsüberschuss; Wirkung zugunsten der Gläubigergesamtheit |
+| Forderungsverzicht mit Besserungsschein | Gleichbehandlung, Sondervorteil, Beschlusskompetenz | Sanierungsgewinn und Steuerfolge gesondert prüfen |
+| Harte Patronatserklärung | Anspruchsinhaber, Betrag, Laufzeit, Bonität, Abrufmechanik | Nur harte und durchsetzbare Zusage kann Liquiditäts- oder Prognosewirkung haben |
+| Weicher Comfort Letter | Informations- und Erwartungswert | Keine automatische Beseitigung von Überschuldung oder Zahlungsunfähigkeit |
+
+Leitanker: BGH IX ZR 133/14 und BGH IX ZR 143/17 zum Rangrücktritt; BGH II ZR 84/20 zum weichen Comfort Letter; BGH IX ZR 95/16 zur Haftung aus harter Patronatserklärung; BFH I R 25/15 und BFH XI R 32/18 zur steuerlichen Rückzahlungsquelle.
+
 ## Arbeitsmodus
 
 1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.

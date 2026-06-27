@@ -42,6 +42,19 @@ Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
 - Beirat darf nicht als Verzögerungsinstanz für notwendige Geschäftsleiterentscheidungen wirken.
 - Bank-/Investor-Beiräte auf Insiderwissen, Verschwiegenheit und Interessenkollision prüfen.
 
+## Sanierungsmatrix für Beirat und Bank
+
+| Thema | Beiratsfrage | Rote Linie |
+| --- | --- | --- |
+| Liquiditätsstatus | Liegt ein Drei-Wochen-Status mit OPOS, Bankständen, Steuern, Sozialversicherung und Titelregister vor? | Keine Zustimmung zu Sanierungsbeschlüssen auf bloßer CFO-Zusammenfassung |
+| Streitige Forderungen | Sind Bestand, Fälligkeit, Titel und Vollstreckung getrennt dokumentiert? | Keine Prozessrisikoquote für fällige oder vollstreckte Passiva |
+| Rangrücktritt | Sperrt die Klausel Zahlungen vor und nach Insolvenzreife und erlaubt Zahlung nur aus freiem Vermögen oder freiem Liquiditätsüberschuss? | Einfacher Nachrang genügt nicht für Überschuldungsstatus |
+| Harte Patronatserklärung | Wer hat den Anspruch, welcher Betrag, welche Laufzeit, welche Abrufmechanik, welche Bonität? | Weiche Unterstützungserklärung ersetzt keine Finanzierungszusage |
+| Bankbeitrag | Stundung, Waiver, neues Geld oder Stillhalteabrede? | Beirat muss Anfechtung, Organhaftung und Covenants mitprüfen lassen |
+| StaRUG | Liegt nur drohende Zahlungsunfähigkeit vor? | Bei eingetretener Zahlungsunfähigkeit keine Verzögerung durch Beiratsrunde |
+
+Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 und BGH II ZR 139/23 vom 11.03.2025 zur Liquiditätsbilanz; BGH IX ZR 133/14 und BGH IX ZR 143/17 zum qualifizierten Rangrücktritt; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
+
 ## Arbeitsmodus
 
 1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.

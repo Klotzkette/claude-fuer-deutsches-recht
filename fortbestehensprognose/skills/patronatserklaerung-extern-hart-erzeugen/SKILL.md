@@ -3,7 +3,7 @@ name: patronatserklaerung-extern-hart-erzeugen
 description: "Patronatserklaerung Extern Hart Erzeugen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung im Fortbestehensprognose."
 ---
 
-# Externe harte Patronatserklärung
+# Harte Patronatserklärung prüfen und erzeugen
 
 ## Arbeitsweg
 
@@ -126,11 +126,19 @@ ___________________________
 für die Gesellschaft
 ```
 
+## Harte, externe und interne Patronatslogik
+
+1. Interne harte Patronatserklärung: Patron verpflichtet sich gegenüber der Gesellschaft, sie so auszustatten, dass sie ihre fälligen Verpflichtungen erfüllen kann. Nur diese Variante kann als eigener Anspruch der Gesellschaft in Liquiditätsplanung und Fortbestehensprognose tragen, wenn Betrag, Laufzeit, Abrufmechanik und Bonität hart belegt sind.
+2. Externe harte Patronatserklärung: Patron verpflichtet sich gegenüber einem bestimmten Gläubiger, für die Leistungsfähigkeit der Gesellschaft einzustehen. Sie verbessert die Gläubigerposition, ist aber nicht automatisch Liquidität der Gesellschaft. Für die Fortbestehensprognose braucht es zusätzlich einen internen Zahlungs- oder Ausstattungsanspruch oder eine verlässliche Finanzierungswirkung.
+3. Weicher Comfort Letter: bloße Absichts-, Wohlwollens- oder Konzernunterstützungserklärung. Er kann Vertrauen schaffen, ersetzt aber keine harte Liquiditätsquelle.
+4. Bonität des Patrons ist Tatbestandsfrage, nicht Formalie: Vermögensstatus, Bankbestätigung, Konzernabschluss, freie Linie, Covenants und Fremdwährungs-/Transferbeschränkungen prüfen.
+5. Abrufbarkeit muss zum Liquiditätsloch passen: Fälligkeit auf erstes schriftliches Anfordern, kurze Zahlungsfrist, keine Gremien- oder Finanzierungsvorbehalte, keine Kündigung innerhalb des Prognosezeitraums.
+
 ## Wichtige Hinweise
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Rechtsprechung: BGH, Urteil vom 13.07.2021 - II ZR 84/20 zur weichen Patronatserklärung und Fortbestehensprognose; BGH, Beschluss vom 12.01.2017 - IX ZR 95/16 zur harten Patronatserklärung und Anfechtungsfolge beim Gläubiger. Vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-Eine harte externe Patronatserklärung wirkt als **eigene Verpflichtung** des Patrons gegenüber der Gesellschaft oder ggue Gläubigern. Sie ist im Status der Gesellschaft als **Aktivposten** (Forderung gegen den Patron) zu berücksichtigen.
+Eine harte Patronatserklärung wirkt nur so weit, wie ihr Wortlaut einen einklagbaren Anspruch trägt. Im Status der Gesellschaft ist sie nur dann als Aktivposten oder tragende Liquiditätsquelle zu berücksichtigen, wenn die Gesellschaft selbst den Anspruch hat oder die externe Erklärung sicher zu einem rechtzeitigen Mittelzufluss führt.
 
 ### Insolvenzanfechtung
 
@@ -140,9 +148,9 @@ Wenn der Patron später selbst in Insolvenz gerät kann die Patronatserklärung 
 
 Die Patronatszahlung an die Gesellschaft ist beim Patron regelmäßig **nicht abzugsfähig** als Einkommensteuer-Aufwand — sondern oft als verdeckte Einlage zu betrachten (verlangt Bewertung prüfen mit Steuerberater).
 
-### Comfortletter NICHT ausreichend
+### Comfortletter nicht ausreichend
 
-Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) genügt **nicht** für die Berücksichtigung im Status. Sie wirkt nur reputationell.
+Eine weiche Patronatserklärung oder ein Comfort Letter genügt für die Berücksichtigung im Status regelmäßig nicht. Nach BGH II ZR 84/20 kann sie eine positive Fortbestehensprognose in der Krise allenfalls ausnahmsweise stützen, wenn mit der Unterstützung überwiegend wahrscheinlich gerechnet werden kann und die Planung das konkret belegt.
 
 ## Ausgabe
 
@@ -153,7 +161,9 @@ Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) ge
 
 ## Aktuelle Leitentscheidungen — Patronatserklaerung
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BGH, Urteil vom 13.07.2021 - II ZR 84/20: weicher Comfort Letter verhindert rechnerische Überschuldung nicht; Fortbestehensprognose nur bei belastbarer Unterstützungserwartung.
+- BGH, Beschluss vom 12.01.2017 - IX ZR 95/16: harte Patronatserklärung kann Schadensersatzpflicht des Patrons auslösen, wenn der gesicherte Gläubiger infolge Insolvenzanfechtung die erhaltene Zahlung verliert.
+- Praxisanker: interne harte Patronatserklärung für Liquidität der Gesellschaft, externe harte Patronatserklärung für Gläubigersicherung; beide dürfen nicht vermischt werden.
 
 ## Paragrafenkette Patronatserklaerung
 
@@ -161,7 +171,8 @@ Eine **weiche** Patronatserklärung (Comfortletter, "Best Effort"-Erklärung) ge
 
 ## Triage — Patronatserklaerung-Prüfung
 
-1. **Hard oder soft?** Harte externe Patronatserklaerung = klagbarer Anspruch; weiche = kein Status-Effekt.
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. **Unwiderruflich?** Widerrufliche Erklaerung reicht nicht für Ueberschuldungsstatus.
-4. **Patron bonitaer?** Aktuelle Bonitats-Prüfung des Patrons erforderlich.
+1. **Hart oder weich?** Harte Erklärung gleich klagbarer Anspruch; weiche Erklärung gleich kein Status-Effekt ohne zusätzliche belastbare Unterstützungswahrscheinlichkeit.
+2. **Intern oder extern?** Interne Erklärung trägt Liquiditätsplanung der Gesellschaft; externe Erklärung schützt den Gläubiger und braucht gesonderte Brücke zur Gesellschaftsliquidität.
+3. **Unwiderruflich?** Widerrufliche Erklärung reicht nicht für den Prognosezeitraum.
+4. **Patron bonitätsstark?** Aktuelle Bonitätsprüfung des Patrons erforderlich.
+5. **Abrufmechanik klar?** Betrag, Frist, Konto, Nachweise und keine Gremienvorbehalte.

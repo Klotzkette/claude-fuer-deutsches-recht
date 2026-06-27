@@ -17,6 +17,9 @@ description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als str
 
 Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinstellung über dejure.org / openjur.de / bundesgerichtshof.de mit Datum, Aktenzeichen und Randnummer verifizieren. Aktuelle Linie:
 - **BGH IX ZR 129/22 vom 18.04.2024** — bei objektiv festgestellter Zahlungsunfähigkeit muss der Verwalter konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat.
+- **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung mit dem Nennwert in die Liquiditätsbilanz einzustellen; keine Kürzung nach Prozessrisiko.
+- **BGH II ZR 139/23 vom 11.03.2025** — für die Passivseite zählt die materielle Rechtslage: bestehende und fällige Verbindlichkeiten gehören hinein, nicht bestehende oder nicht fällige Forderungen nicht.
+- **BGH IX ZB 38/24 vom 22.05.2025** — die Belegwirkung eines Titels für einen Insolvenzantrag kann entfallen, wenn die Vollstreckung vorläufig eingestellt ist.
 - Grundlegende Linie zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
 
 ## Zweck
@@ -53,6 +56,7 @@ einen **normativen Tatbestand** belegt oder widerlegt.
 | SV-Bescheide / Finanzamt | Rückstände Sozialversicherung (Einzugsstellen), Umsatzsteuer-Vorauszahlungen, Lohnsteuer |
 | Auftragsbestand / Verträge | Bestehende Dauerschuldverhältnisse, Auftragsrückstand, Abrechnungsmodalitäten (relevant für 24-Monate-Vorschau) |
 | Planungsprämissen | Dokumentierte Annahmen zu Umsatzverlauf, Kostenbasis, geplanter Kapitalmaßnahmen (für Fortbestehensprognose) |
+| Streit- und Titelregister | Streitige Forderungen, Urteile, Vollstreckungsbescheide, vorläufig vollstreckbare Titel, Sicherheitsleistungen, Einstellungsbeschlüsse und Vollstreckungsprotokolle |
 
 ## Rechtlicher Rahmen
 
@@ -81,6 +85,16 @@ Stundungen: Forderungen, die der Gläubiger nachweislich gestundet hat oder für
 Stundungsvereinbarung — keine bloße Duldung — vorliegt, sind aus der Passivseite der
 3-Wochen-Liquiditätsbilanz herauszunehmen. Bloßes Stillhalten oder Nichtgeltendmachen genügt
 nicht; erforderlich ist eine klare, zumindest konkludente Stundungsabrede. Konkrete BGH-Linie über offene Quellen verifizieren.
+
+Streitige oder titulierte Forderungen: Entscheidend ist kein pauschales Prozessrisiko, sondern Bestand, Fälligkeit und kurzfristiger Vollstreckungsdruck. Eine materiell bestehende und fällige Forderung ist im Nennwert einzustellen, auch wenn der Schuldner sie bestreitet. Eine materiell nicht bestehende oder nicht fällige Forderung bleibt draußen, auch wenn sie behauptet wird. Liegt ein vorläufig vollstreckbarer Titel vor und hat der Gläubiger die Vollstreckung eingeleitet, ist die Forderung grundsätzlich zum Nennwert passivisch zu erfassen. Wird die Vollstreckung vorläufig eingestellt, ist der Titel nicht mechanisch als Liquiditätsabfluss zu behandeln; dann sind materielle Lage und Vollstreckungssperre getrennt zu würdigen.
+
+| Fallgruppe | Liquiditätsbilanz | Prüfhinweis |
+|---|---|---|
+| Fällige Forderung besteht materiell | Nennwert passivieren | Bestreiten ändert den Liquiditätsstatus nicht |
+| Forderung besteht nicht oder ist nicht fällig | Nicht passivieren | Keine Insolvenzreife durch rechtlich nicht geschuldete Zahlung |
+| Vorläufig vollstreckbarer Titel und Vollstreckung läuft | Nennwert passivieren | Vollstreckungsdruck binnen 3 Wochen abbilden |
+| Titel, aber Vollstreckung eingestellt | Gesondert markieren | Belegwirkung und materielle Forderung neu prüfen |
+| Nur Prozessrisiko ohne fällige Verbindlichkeit | Keine Prozentquote | Keine 30- oder 50-Prozent-Anrechnung nach Prozessrisiko |
 
 ### § 19 Abs. 2 InsO — Fortbestehensprognose (Überschuldung)
 
@@ -200,7 +214,7 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
 3. **13-Wochen-Liquiditätsbilanz** — Tabelle mit Wochen-Spalten, Einzelpositionen
  (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
-5. **Stundungsabzüge** — Einzelauflistung aller herausgerechneten Verbindlichkeiten mit
+5. **Stundungsabzüge und Streitforderungen** — Einzelauflistung aller herausgerechneten Verbindlichkeiten, aller streitigen Passiva und aller Titel mit Bestand, Fälligkeit, Vollstreckungsstand und Begründung
  Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
  Cashflow, Prämissenblatt, Szenarioanalyse

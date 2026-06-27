@@ -27,3 +27,14 @@ description: "Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgsch
 3. **Tatbestand:** Die relevanten Merkmale einzeln mit Belegen füllen. Unklare Tatsachen als Rückfrage oder Beweispunkt markieren, nicht glattbügeln.
 4. **Rechtsfolge:** Anspruch, Ermessen, Verbot, Pflicht, Gebührenfolge, Nebenfolge, Haftung, Vollzug oder Rechtsschutz getrennt ausgeben.
 5. **Taktik:** Schnellster sinnvoller Weg, sauberster Weg und Eskalationsweg nebeneinander stellen; bei Laien zusätzlich eine kurze Erklärung in Alltagssprache.
+
+## Bürgschaft, Patronat und Sanierungsnähe
+
+| Instrument | Rechtscharakter | Krisenprüfung |
+| --- | --- | --- |
+| Bürgschaft | Akzessorische Einstandspflicht | Haushaltsrecht, Beihilfe, Beschlusskompetenz, Höchstbetrag, Laufzeit |
+| Harte Patronatserklärung | Eigene Ausstattungspflicht oder Einstandspflicht je nach Fassung | Anspruchsinhaber, Bonität, Abrufmechanik und Liquiditätswirkung konkret belegen |
+| Weiche Patronatserklärung | Regelmäßig Absichts- oder Wohlverhaltenserklärung | Keine sichere Liquiditätsquelle und keine automatische Entlastung in der Fortbestehensprognose |
+| Rangrücktritt im Konzern | Durchsetzungssperre für Forderung | Nur qualifiziert wirksam, wenn Zahlung aus freiem Vermögen oder freiem Liquiditätsüberschuss vorgesehen ist |
+
+Bei kommunalen oder öffentlichen Patronaten zusätzlich prüfen: Beschlusszuständigkeit, Haushaltsgenehmigung, EU-beihilferechtlicher Vorteil, Marktüblichkeit, Transparenz und Dokumentation im Beteiligungsmanagement. Leitanker aus dem Zivil- und Insolvenzrecht: BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen, BGH IX ZR 95/16 zur Haftung aus harter Patronatserklärung, BGH IX ZR 133/14 und BGH IX ZR 143/17 zum qualifizierten Rangrücktritt.

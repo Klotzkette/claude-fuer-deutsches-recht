@@ -32,13 +32,25 @@ description: "Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insol
 - Antrag und Anlagen
 - BWA, SuSa, OPOS, Bankdaten, Lohn- und Steuerstände
 - Vermögensverzeichnis und Sicherheiten
+- Streitige Forderungen, vorläufig vollstreckbare Titel, Vollstreckungsprotokolle, Einstellungsbeschlüsse, Stundungen und Aufrechnungen
 
 ## Workflow
 
 1. **Sachverhalt sichern** - Antrag, Gesellschaft, Geschäftsbetrieb und Unterlagenstand darstellen.
 2. **Eröffnungsgründe prüfen** - § 17, § 18 und § 19 InsO anhand konkreter Zahlen trennen.
-3. **Masse prüfen** - freie Masse, Kosten, Verwertung, Vorschuss und Massearmut abgleichen.
-4. **Empfehlung bauen** - Eröffnung, Abweisung, Sicherungsmaßnahmen oder weitere Aufklärung begründen.
+3. **Streit- und Titelpassiva entscheiden** - Bestand, Fälligkeit, Titel, Vollstreckungsstand und Einstellungsbeschlüsse tabellarisch erfassen.
+4. **Masse prüfen** - freie Masse, Kosten, Verwertung, Vorschuss und Massearmut abgleichen.
+5. **Empfehlung bauen** - Eröffnung, Abweisung, Sicherungsmaßnahmen oder weitere Aufklärung begründen.
+
+## Streitige Forderungen im Eröffnungsgutachten
+
+| Befund | Gutachterliche Behandlung | Beleg |
+|---|---|---|
+| Forderung materiell bestehend und fällig | In Liquiditätsstatus zum Nennwert einstellen | Vertrag, Rechnung, Anerkenntnis, Urteil, fehlende wirksame Einwendung |
+| Forderung materiell nicht bestehend oder nicht fällig | Nicht in die Passivseite aufnehmen | Stundung, Aufrechnung, Mangelbeleg, Abweisung, Vergleich |
+| Vorläufig vollstreckbarer Titel und Vollstreckung läuft | Nennwert als kurzfristigen Liquiditätsdruck erfassen | Titel, Klausel, Zustellung, Vollstreckungsauftrag oder Pfändungsprotokoll |
+| Titel, aber Vollstreckung vorläufig eingestellt | Titelwirkung im Antrag relativieren und weitere Tatsachen verlangen | Einstellungsbeschluss, Sicherheitsleistung, Prozessstand |
+| Bloßes Prozessrisiko | Nicht quoteln | Keine pauschale Prozentbewertung nach Prozessrisiko |
 
 ## Ausgabe
 
@@ -79,6 +91,9 @@ description: "Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insol
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
 - **BGH IX ZR 129/22 vom 18.04.2024** — Bei Liquiditätsstatus im Eröffnungsgutachten: Verwalter muss konkret darlegen, dass der Schuldner mit dauerhafter Nichtbefriedigung anderer Gläubiger gerechnet hat. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 229/22 vom 23.01.2025** — Vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung zum Nennwert in den Liquiditätsstatus einzustellen; keine Kürzung nach Prozessrisiko.
+- **BGH II ZR 139/23 vom 11.03.2025** — Für die Passivseite zählt die materielle Rechtslage; bestehende fällige Forderungen werden nicht wegen Bestreitens ausgeblendet.
+- **BGH IX ZB 38/24 vom 22.05.2025** — Bei vorläufig eingestellter Vollstreckung kann der Titel seine Belegwirkung für den Insolvenzantrag verlieren.
 - **BGH II ZR 206/22 vom 23.07.2024** — Bei Sachverhaltsaufnahme mit Wechsel der Geschäftsleitung: fortwirkende Haftung des ausgeschiedenen GF in Anfechtungs- und Haftungsprüfungen berücksichtigen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - IDW S 11 als Methodik-Standard für Liquiditätsstatus und Fortbestehensprognose (Prognosezeitraum 12 Monate seit 01.01.2024).
 

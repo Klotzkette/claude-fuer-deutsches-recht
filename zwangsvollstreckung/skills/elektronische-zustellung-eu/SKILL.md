@@ -1,13 +1,13 @@
 ---
 name: elektronische-zustellung-eu
-description: "Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.202..."
+description: "Digitalisierung der Zwangsvollstreckung nach BGBl. 2026 I Nr. 152: elektronischer PfÜB-Antrag, XML-Datensatz ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute ab 1.6.2027 und Drittschuldnerzustellung."
 ---
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
 
 ## Arbeitsbereich
 
-Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das im Bundesgesetzblatt 2026 I Nr. 152 verkündete Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (klassisch).
 
 ## Arbeitsweg
 
@@ -19,9 +19,9 @@ Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung
 
 ## Triage zu Beginn
 
-1. Ist das ZVollstrDigitG bereits im BGBl verkündet und in Kraft getreten (Stand: aktuelles Datum prüfen)?
-2. Soll die Zustellung vor oder nach dem 1.10.2027 erfolgen (Bank-Pflicht eBO)?
-3. Hat die Kanzlei-Software die XML-Unterstützung (§ 829 Abs. 5 ZPO n.F.) bereits implementiert?
+1. Welches Datum ist für Antrag, Erlass und Zustellung maßgeblich: vor 1.10.2026, ab 1.10.2026, ab 1.1.2027 oder ab 1.6.2027?
+2. Soll eine Bank als Drittschuldner ab 1.6.2027 über einen sicheren Übermittlungsweg zugestellt bekommen?
+3. Hat die Kanzlei-Software die XML-Unterstützung nach Paragraf 829 Absatz 5 ZPO n.F. bereits implementiert?
 4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
 
 ## Aktuelle Rechtsprechung
@@ -30,67 +30,68 @@ Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung
 
 ## Zentrale Normen
 
-- § 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
-- § 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
-- § 173 ZPO n.F. (ZVollstrDigitG) — elektronische Zustellung an Drittschuldner
-- § 829 Abs. 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
-- § 840 ZPO — Drittschuldnererklärung
-- § 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
+- Paragraf 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
+- Paragraf 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
+- Paragraf 173 ZPO n.F. — elektronische Zustellung an Drittschuldner
+- Paragraf 829 Absatz 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
+- Paragraf 840 ZPO — Drittschuldnererklärung
+- Paragraf 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
 
-## Reform-Eckdaten (Stand 25.5.2026)
+## Reform-Eckdaten (Stand 27.6.2026)
 
 | Datum | Inhalt |
 | --- | --- |
-| 19.3.2026 | Bundestag beschließt das Gesetz (BT-Drs. 21/4815) |
-| April 2026 | Bundesrat – nicht zustimmungspflichtig |
-| Verkündung im BGBl | bei Skill-Erstellung noch offen – Skill prüft aktuelles Datum |
-| 1.10.2026 | Inkrafttreten Hauptteile: neue ZVFV-Formulare, XML-Antrag § 829 Abs. 5 ZPO n.F. |
-| 1.10.2027 | Kreditinstitute MÜSSEN sicheren elektronischen Übermittlungsweg eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.) |
+| 19.3.2026 | Bundestag beschließt das Gesetz; konsolidierter Nachweis über BT-Drs. 21/4816 |
+| 13.5.2026 | Verkündung im BGBl. 2026 I Nr. 152 |
+| 1.10.2026 | Inkrafttreten wesentlicher Hauptteile, darunter der elektronische PfÜB-Antrag nach Paragraf 829a ZPO n.F. |
+| 1.1.2027 | Strukturierter XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. kann zusammen mit dem PDF-Antrag genutzt werden; bei Widerspruch ist der XML-Datensatz maßgeblich |
+| 1.6.2027 | Kreditinstitute müssen einen sicheren elektronischen Übermittlungsweg eröffnen nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. |
 
-Bei jeder neuen Beratung **erst prüfen**, ob die Verkündung erfolgt ist und ob das Inkrafttreten verschoben wurde. Quellen:
+Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-, ZVFV- oder ERV-Anpassungen veröffentlicht wurden. Quellen:
 
-- BT-Drs. 21/4815 (PDF auf dserver.bundestag.de)
-- Bundestag Textarchiv 12/2026
+- BGBl. 2026 I Nr. 152
+- BT-Drs. 21/4816
 - BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
 - DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
 
 ## Rechtsgrundlagen
 
-- § 130a ZPO – elektronischer Rechtsverkehr Schriftsätze
-- § 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
-- § 173 ZPO n.F. (ZVollstrDigitG) – elektronische Zustellung an Drittschuldner
-- § 829 Abs. 5 ZPO n.F. – XML-Antrag PfÜB
-- § 840 ZPO – Drittschuldnererklärung (zusätzlich Postzustellung möglich)
-- § 802a Abs. 2 ZPO – Gerichtsvollzieher-Aufträge
+- Paragraf 130a ZPO – elektronischer Rechtsverkehr Schriftsätze
+- Paragraf 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
+- Paragraf 173 ZPO n.F. – elektronische Zustellung an Drittschuldner
+- Paragraf 829 Absatz 5 ZPO n.F. – XML-Antrag PfÜB
+- Paragraf 840 ZPO – Drittschuldnererklärung (zusätzlich Postzustellung möglich)
+- Paragraf 802a Absatz 2 ZPO – Gerichtsvollzieher-Aufträge
 - ERV-Verordnungen ERVV und ERVB
 
 ## Die drei Stoßrichtungen der Reform
 
-### 1. XML-Antrag § 829 Abs. 5 ZPO n.F.
+### 1. Elektronischer Antrag und XML-Datensatz
 
-Ab 1.10.2026 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur enthalten. Bei Diskrepanz **gilt das XML** – also XML führt PDF (BT-Drs. 21/4815). Wer Software einsetzt: schon vor 1.10.2026 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
+Ab 1.10.2026 ist die erleichterte elektronische Antragstellung nach Paragraf 829a ZPO n.F. zu prüfen. Ab 1.1.2027 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur nach Paragraf 829 Absatz 5 ZPO n.F. enthalten. Bei Diskrepanz gilt der XML-Datensatz. Wer Software einsetzt, sollte vor dem 1.1.2027 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
 
 ### 2. Pflicht der Kreditinstitute zum sicheren Übermittlungsweg
 
-Ab 1.10.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Übermittlungsweg im Sinne des § 130a Abs. 4 ZPO zu eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.). In Frage kommen:
+Ab 1.6.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Übermittlungsweg im Sinne des Paragraf 130a Absatz 4 ZPO zu eröffnen (Paragraf 173 Absatz 2 Nummer 1 ZPO n.F.). In Frage kommen:
 
 - **eBO** (elektronisches Bürger- und Organisationenpostfach) – die Bank registriert sich beim Bundesnotarvereinszentral / SAFE-Verzeichnis.
 - **De-Mail** mit Absenderbestätigung
-- weitere Übermittlungswege nach § 130a Abs. 4 ZPO und ERVV
+- weitere Übermittlungswege nach Paragraf 130a Absatz 4 ZPO und ERVV
 
-Folge: Der Gerichtsvollzieher stellt PfÜB an Banken nicht mehr per Papier zu, sondern elektronisch. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.10.2027 dürfen Banken freiwillig elektronisch annehmen – viele Kreditinstitute tun das bereits.
+Folge: Der Gerichtsvollzieher kann PfÜB an Banken regelmäßig elektronisch zustellen. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.6.2027 dürfen Banken freiwillig elektronisch annehmen; die konkrete Empfangsbereitschaft bleibt im Übergang zu prüfen.
 
 ### 3. § 840 ZPO Drittschuldnererklärung – Postzustellung erlaubt
 
 Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per Post übermittelt werden. Erleichterung vor allem für Banken, die parallel den eBO-Empfang aufbauen müssen.
 
-## für die Praxis bis 1.10.2027
+## Für die Praxis bis 1.6.2027
 
-1. **Soft Start ab 1.10.2026**: Wer XML-Antrag schreibt, sollte die ZVFV-Schemata kennen. Pilotphase nutzen.
-2. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
-3. **Bestandsaufnahme Banken**: viele Großbanken haben eBO bereits eröffnet. Liste der Drittschuldner mit eBO-Adressen pflegen.
-4. **Schulung der GV** in Berücksichtigung – die örtlich zuständigen Gerichtsvollzieher werden ab 1.10.2027 elektronisch zustellen.
-5. **Doppelte Wege vermeiden**: nicht parallel Papier UND eBO – Zustellungszeitpunkt ist sonst streitbefangen.
+1. **Soft Start ab 1.10.2026**: Elektronische Antragstellung nach Paragraf 829a ZPO n.F. vorbereiten.
+2. **XML ab 1.1.2027**: ZVFV-Schemata testen und PDF-/XML-Gleichlauf organisatorisch absichern.
+3. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
+4. **Bestandsaufnahme Banken**: Liste der Drittschuldner mit sicheren Übermittlungswegen pflegen.
+5. **Gerichtsvollzieherroute abstimmen**: Zustellungsweg und Zustellnachweis vor Fristmandaten konkret klären.
+6. **Doppelte Wege vermeiden**: nicht parallel Papier UND eBO – Zustellungszeitpunkt ist sonst streitbefangen.
 
 ## Was bleibt analog
 
@@ -103,12 +104,12 @@ Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per P
 - Antrag in Papier eingereicht, obwohl § 130d ZPO aktive Nutzungspflicht der Anwaltschaft greift – Form fehlt, Antrag unzulässig.
 - XML und PDF widersprechen sich – Skill warnt: XML führt. Datenpflege im DMS einrichten.
 - Zustellung per beA statt eBO an Drittschuldner – Bank hat ggf. nur eBO eröffnet.
-- Übergangsphase: nicht jede Bank ist vor 1.10.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
+- Übergangsphase: nicht jede Bank ist vor 1.6.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
 
 ## Qualitätsgates
 
-- Datum der Verkündung im BGBl bei jeder Beratung neu verifizieren.
+- BGBl.-Fassung und spätere Formular-/Verordnungsänderungen bei jeder Beratung neu verifizieren.
 - Niemals parallel Papier und elektronisch – Zustellungszeitpunkt eindeutig halten.
 - XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
-- Niemals annehmen, jede Bank sei vor 1.10.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
+- Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.

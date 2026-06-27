@@ -29,14 +29,29 @@ description: "Bankinstrumente als Liquiditätsbrücke für Firmenkunden struktur
 | Akkreditiv | Lieferant erhält Sicherheit | Dokumentenstrenge, Sanktionen |
 | Stundung/Waiver | Abfluss wird verschoben | Forbearance, NPE, Anfechtung |
 | Lieferantenfinanzierung | Working Capital wird entlastet | Rollen, ZAG/KWG, Transparenz |
+| Harte Patronatserklärung | Zusätzliche Zahlungsquelle | Anspruchsinhaber, Bonität, Abruf, Laufzeit |
+| Qualifizierter Rangrücktritt | Entlastet Überschuldungsstatus, nicht automatisch Cash | Durchsetzungssperre, freier Liquiditätsüberschuss, Steuerfolge |
+
+## Insolvenzreife-Gate vor Instrumentenwahl
+
+| Frage | Rote Linie |
+| --- | --- |
+| Ist Paragraf 17 InsO bereits eingetreten? | Keine reine Liquiditätsbrücke ohne Antragspflicht- und Zahlungsverbot-Check |
+| Besteht nur drohende Zahlungsunfähigkeit? | StaRUG, Standstill und Waiver können geeignete Route sein |
+| Gibt es streitige oder titulierte Forderungen? | Materieller Bestand, Fälligkeit, Vollstreckung und Einstellungsbeschluss gesondert prüfen |
+| Liegt ein vorläufig vollstreckbarer Titel mit laufender Vollstreckung vor? | Nennwert in die Drei-Wochen-Liquiditätsbilanz einstellen, keine Prozessrisikoquote |
+| Soll die Bank weiterfinanzieren? | Sanierungskonzept, Fortbestehensprognose, Sicherheiten, Anfechtung und Organrisiko dokumentieren |
+
+Rechtsprechungsanker für die Kreditakte: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025 und BGH IX ZB 38/24 vom 22.05.2025 zur Passivierung streitiger oder titulierter Forderungen in der Liquiditätsprüfung; BGH IX ZR 133/14 und BGH IX ZR 143/17 zur Rangrücktrittslogik; BGH II ZR 84/20 zur begrenzten Wirkung weicher Patronatserklärungen.
 
 ## Prüfworkflow
 
 1. **Liquiditätslücke:** Betrag, Zeitpunkt, Ursache, einmalig oder strukturell.
-2. **Instrument passend wählen:** Welches Instrument löst die Lücke mit geringstem Rechts-/Aufsichtsrisiko?
-3. **Kreditakte:** Rating, Limit, Sicherheiten, Covenants, Forbearance, Beschlusskompetenz.
-4. **Rechtsrisiken:** AGB, Abtretungsverbote, Insolvenzanfechtung, ZAG/KWG, Datenschutz, Sanktionen.
-5. **Dokumentation:** Warum ist die Entscheidung bankmäßig vertretbar?
+2. **Insolvenzreife-Gate:** Drei-Wochen-Liquiditätsstatus und 13-Wochen-Brücke mit Streit- und Titelregister prüfen.
+3. **Instrument passend wählen:** Welches Instrument löst die Lücke mit geringstem Rechts-/Aufsichtsrisiko?
+4. **Kreditakte:** Rating, Limit, Sicherheiten, Covenants, Forbearance, Beschlusskompetenz.
+5. **Rechtsrisiken:** AGB, Abtretungsverbote, Insolvenzanfechtung, ZAG/KWG, Datenschutz, Sanktionen.
+6. **Dokumentation:** Warum ist die Entscheidung bankmäßig vertretbar?
 
 ## Ergebnis
 

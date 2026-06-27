@@ -1,6 +1,6 @@
 ---
 name: pfueb-bank
-description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fe..."
+description: "Gläubiger pfändet Bankkonto per PfÜB: Titel, Antrag, Drittschuldnerbank, P-Konto, Drittschuldnererklärung und digitale Zustellung an Kreditinstitute ab 2027."
 ---
 
 # PfÜB Bankkonto
@@ -21,13 +21,15 @@ description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829
 
 ## Rechtsgrundlagen
 
-- § 829 ZPO – Pfändung einer Geldforderung
+- Paragraf 829 ZPO – Pfändung einer Geldforderung
 - § 835 ZPO – Überweisung an Zahlungs statt oder zur Einziehung
 - § 833a ZPO – Pfändung eines Kontoguthabens, Moratorium von vier Wochen
 - § 850k ZPO – Pfändungsschutzkonto (P-Konto)
 - § 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen (mittelbar bei Lohnüberweisung)
 - § 840 ZPO – Drittschuldnererklärung
-- § 173 ZPO n.F. (ZVollstrDigitG) – elektronische Zustellung an Kreditinstitute
+- Paragraf 829a ZPO n.F. – elektronischer Antrag mit elektronisierten Titelunterlagen
+- Paragraf 829 Absatz 5 ZPO n.F. – strukturierter XML-Datensatz für PfÜB-Anträge ab 1.1.2027
+- Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. – sichere Übermittlungswege der Kreditinstitute ab 1.6.2027
 - Pfändungsfreigrenzenbekanntmachung 2025
 
 ## Workflow
@@ -39,28 +41,29 @@ description: "Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829
  - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
  - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
  - Auskunftsersuchen § 840 ZPO
-4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 neue Muster (vereinheitlicht, XML-Anhang).
-5. **Einreichen** beim Vollstreckungsgericht: derzeit Papier oder elektronisch über beA/eBO. Ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F. möglich (PDF + maschinenlesbare XML, XML führend).
+4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 die reformierten elektronischen Antragswege und Titelunterlagen nach Paragraf 829a ZPO n.F. beachten.
+5. **Einreichen** beim Vollstreckungsgericht: Papier oder elektronisch über beA/eBO; ab 1.1.2027 kann der Antrag nach Paragraf 829 Abs. 5 ZPO n.F. als strukturierter maschinenlesbarer XML-Datensatz übermittelt werden. Wenn PDF und XML parallel eingereicht werden, ist der XML-Datensatz für die gerichtliche Prüfung führend.
 6. **Zustellung an Drittschuldner** und Schuldner:
- - bis 30.9.2027: per Gerichtsvollzieher (Papier) oder freiwillig elektronisch
- - ab 1.10.2027: Kreditinstitute MÜSSEN sicheren Übermittlungsweg eröffnen – Pfändungen werden in der Regel elektronisch über eBO oder § 130a Abs. 4 ZPO zugestellt
+ - bis 31.5.2027: per Gerichtsvollzieher papierförmig, postalisch oder freiwillig elektronisch, je nach sicherem Übermittlungsweg und Auftrag
+ - ab 1.6.2027: Kreditinstitute müssen einen sicheren Übermittlungsweg nach Paragraf 173 Abs. 2 Nr. 1 ZPO n.F. eröffnen; Gerichtsvollzieher können Pfändungsbeschlüsse an Banken regelmäßig elektronisch zustellen
+ - die Aufforderung zur Drittschuldnererklärung nach Paragraf 840 ZPO muss zusammen mit dem Pfändungsbeschluss übermittelt werden
 7. **Drittschuldnererklärung § 840 ZPO** abwarten (zwei Wochen). Reaktion auswerten: gepfändet, gesperrt, P-Konto, andere Pfändung vorrangig.
 8. **P-Konto-Schutz prüfen**: Schuldner kann binnen vier Wochen nach Zustellung Umwandlung zum P-Konto verlangen, dann Sockelbetrag § 850k ZPO frei. Erhöhungsbeträge nach § 850k Abs. 2 ZPO.
 9. **Auszahlung** ggf. nach Ablauf des Moratoriums § 833a ZPO (vier Wochen) – Verbraucher kann in dieser Zeit Vollstreckungsschutz beantragen.
 
-## Reform-Stand ZVollstrDigitG (Stand 25.5.2026)
+## Reform-Stand Digitalisierung der Zwangsvollstreckung (BGBl. 2026 I Nr. 152)
 
 | Datum | Was ändert sich |
 | --- | --- |
-| 1.10.2026 | Neue ZVFV-Formulare, § 829 Abs. 5 ZPO n.F. XML-Antrag (PDF + XML, XML führend). Banken dürfen schon jetzt freiwillig elektronisch annehmen. |
-| 1.10.2027 | Kreditinstitute MÜSSEN sicheren Übermittlungsweg nach § 130a Abs. 4 ZPO eröffnen (§ 173 Abs. 2 Nr. 1 ZPO n.F.). Gerichtsvollzieher stellen PfÜB elektronisch zu (eBO). |
-| dauerhaft | § 840 ZPO Drittschuldnererklärung kann zusätzlich per Post erfolgen (Erleichterung für Banken). |
+| 1.10.2026 | Grundreform tritt in Kraft; elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. mit elektronisierten Titel-, Klausel- und Nachweisunterlagen. |
+| 1.1.2027 | PfÜB-Formulare können bei elektronischer Einreichung als strukturierter XML-Datensatz nach Paragraf 829 Abs. 5 ZPO n.F. übermittelt werden; XML ist bei Doppeleinreichung führend. |
+| 1.6.2027 | Kreditinstitute werden in Paragraf 173 Abs. 2 Nr. 1 ZPO n.F. einbezogen und müssen einen sicheren Übermittlungsweg eröffnen; elektronische Zustellung durch den Gerichtsvollzieher an Banken wird der Regelfall. |
+| dauerhaft | Drittschuldnererklärung binnen zwei Wochen ab Zustellung; Aufforderung nach Paragraf 840 ZPO zusammen mit dem Pfändungsbeschluss übermitteln. |
 
-Rechtsquellen: BT-Drs. 21/4815, Bundestagsbeschluss 19.3.2026, Verkündung im BGBl bei Skill-Erstellung noch offen – `zv-elektronische-zustellung-2027` aktualisiert das Datum bei späterer Recherche.
+Rechtsquellen: Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung, BGBl. 2026 I Nr. 152; BT-Drs. 21/3737 und 21/4816.
 
 ## Leitentscheidungen
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -73,8 +76,8 @@ Titel: [Art, Datum, Aussteller]
 Forderung: EUR Haupt + EUR Zinsen + EUR Kosten = EUR gesamt
 Drittschuldner: [Bank], BIC [...]
 Gepfändet: gesamtes Guthaben + künftige Eingänge / nur Habensaldo / ...
-Antragsweg: Papier / beA / ab 1.10.2026 XML nach § 829 Abs. 5 ZPO n.F.
-Zustellung Drittsch.: GV Papier / eBO / ab 1.10.2027 Pflicht elektronisch
+Antragsweg: Papier / beA / ab 1.1.2027 XML-Datensatz nach Paragraf 829 Abs. 5 ZPO n.F.
+Zustellung Drittsch.: GV Papier / Post / freiwillig elektronisch / ab 1.6.2027 regelmäßig elektronisch an Kreditinstitut
 P-Konto-Hinweis: [ja / nein – Schuldner kann § 850k beantragen]
 Moratorium § 833a: [4 Wochen – Auszahlung frühestens am DD.MM.JJJJ]
 
@@ -96,4 +99,4 @@ WIEDERVORLAGE: DD.MM.JJJJ
 - Niemals den Sockelbetrag P-Konto unter den aktuellen Wert legen.
 - Niemals vor Ablauf des Moratoriums § 833a ZPO Auszahlung verlangen.
 - Bei Pfändungsversuch trotz bekannter Insolvenz: STOPP § 89 InsO.
-- Ab 1.10.2027 elektronische Zustellung dokumentieren – Papier nur noch als Ausnahme.
+- Ab 1.6.2027 bei Kreditinstituten sicheren Übermittlungsweg prüfen und elektronische Zustellung dokumentieren; Papier oder Post nur begründen.

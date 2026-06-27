@@ -110,7 +110,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | Skill | Wann vorschlagen? |
 |---|---|
 | `zv-abwehr-schuldner` | Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel… |
-| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht… |
+| `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt nach Digitalisierung der Zwangsvollstreckung nach BGBl. 2026 I Nr. 152: elektronischer PfÜB-Antrag ab 1.10.2026, XML-Datensatz ab 1.1.2027 und sicherer Übermittlungsweg für Banken ab 1.6.2027. |
 | `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch… |
 | `zv-kommandocenter` | Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und… |
 | `zv-kontensuche-drittschuldner` | Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt… |
