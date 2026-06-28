@@ -47,7 +47,7 @@ description: "Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insol
 | Befund | Gutachterliche Behandlung | Beleg |
 |---|---|---|
 | Forderung materiell bestehend und fällig | In Liquiditätsstatus zum Nennwert einstellen | Vertrag, Rechnung, Anerkenntnis, Urteil, fehlende wirksame Einwendung |
-| Forderung materiell nicht bestehend oder nicht fällig | Nicht in die Passivseite aufnehmen | Stundung, Aufrechnung, Mangelbeleg, Abweisung, Vergleich |
+| Forderung materiell nicht bestehend oder nicht fällig | Nicht in die Passivseite aufnehmen | Stundung, Aufrechnung, Mangelbeleg, Abweisung, Vergleich; bei Geschäftsleiterhaftung Gegenbeweis und Gutachtenstand dokumentieren |
 | Vorläufig vollstreckbarer Titel und Vollstreckung läuft | Nennwert als kurzfristigen Liquiditätsdruck erfassen | Titel, Klausel, Zustellung, Vollstreckungsauftrag oder Pfändungsprotokoll |
 | Titel, aber Vollstreckung vorläufig eingestellt | Titelwirkung im Antrag relativieren und weitere Tatsachen verlangen | Einstellungsbeschluss, Sicherheitsleistung, Prozessstand |
 | Bloßes Prozessrisiko | Nicht quoteln | Keine pauschale Prozentbewertung nach Prozessrisiko |
@@ -92,7 +92,7 @@ description: "Eroeffnungsgutachten als Sachverständiger oder vorläufiger Insol
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
 
 - **BGH IX ZR 129/22 vom 18.04.2024** — Bei Liquiditätsstatus und Liquiditätsbilanz: Einzelposten, Rechtsgrund, Fälligkeit und Belege offenlegen; gegenüber außenstehenden Dritten kann sonst einfaches Bestreiten ausreichen. In der Vorsatzanfechtung zusätzlich konkrete Erwartung dauerhafter Nichtbefriedigung darlegen. https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22
-- **BGH IX ZR 229/22 vom 23.01.2025** — Vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung zum Nennwert in den Liquiditätsstatus einzustellen; keine Kürzung nach Prozessrisiko.
+- **BGH IX ZR 229/22 vom 23.01.2025** — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage; vorläufig vollstreckbar titulierte fällige Forderungen sind bei eingeleiteter Vollstreckung zum Nennwert in den Liquiditätsstatus einzustellen; keine Kürzung nach Prozessrisiko. Irrtum nur eng bei ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
 - **BGH II ZR 139/23 vom 11.03.2025** — Für die Passivseite zählt die materielle Rechtslage; bestehende fällige Forderungen werden nicht wegen Bestreitens ausgeblendet.
 - **BGH IX ZB 38/24 vom 22.05.2025** — Bei vorläufig eingestellter Vollstreckung kann der Titel seine Belegwirkung für den Insolvenzantrag verlieren.
 - **BGH II ZR 206/22 vom 23.07.2024** — Bei Sachverhaltsaufnahme mit Wechsel der Geschäftsleitung: fortwirkende Haftung des ausgeschiedenen GF in Anfechtungs- und Haftungsprüfungen berücksichtigen. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>

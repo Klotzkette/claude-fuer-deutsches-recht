@@ -65,7 +65,7 @@ Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
 
 Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
 
-Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist. Für die gerichtliche Darlegung wird jeder Posten einzeln mit Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreitensstand und Vollstreckungsstand geführt; pauschale Summenlisten sind nach BGH IX ZR 129/22 angreifbar.
+Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Bei nicht titulierten streitigen Verbindlichkeiten entscheidet allein die objektive Rechtslage, nicht die Prozessrisikowahrscheinlichkeit. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist. Für die gerichtliche Darlegung wird jeder Posten einzeln mit Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreitensstand und Vollstreckungsstand geführt; pauschale Summenlisten sind nach BGH IX ZR 129/22 angreifbar.
 
 **Schritt 4 — Subsumtion nach BGH-Schema**
 
@@ -87,6 +87,18 @@ Bei titulierten Forderungen nicht bei "streitig" stehen bleiben. Das Prüfraster
 4. Ist die Zwangsvollstreckung aus dem Titel einstweilen eingestellt? Dann Beweiswirkung für den Gläubigerantrag und Liquiditätsabfluss gesondert würdigen.
 5. Ist der Titel nur ein Indiz in einer breiteren Liquiditätslage? Dann den titulierten Betrag und die sonstigen fälligen Verbindlichkeiten getrennt ausweisen.
 
+**Schritt 6a — Herausgenommene Forderungen verteidigen**
+
+Jede nicht berücksichtigte streitige Verbindlichkeit erhält einen Haftungsvermerk:
+
+| Feld | Inhalt |
+| --- | --- |
+| Rechtsgrund des Herausnehmens | Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung, Durchsetzungssperre oder Vollstreckungseinstellung |
+| Gegenbeweis | Vertrag, Schriftwechsel, Gutachten, Beschluss, Vergleich, Titelstand |
+| Prozesslage | Kann ein Verwalter aus Aktenlage schlüssig zum Bestand vortragen? |
+| Geschäftsleiterstandpunkt | finales Gutachten vorhanden, Annahmen vollständig, Aktualisierungspflicht notiert |
+| Restrisiko | Übertragung der engen Irrtumsrechtsprechung aus dem Anfechtungsrecht auf Haftungsprozess offen |
+
 **Schritt 7 — Objektivität**
 
 Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners ist nur für die Verschuldensfrage relevant (§ 15a InsO). Konkrete BGH-Linie zur "Erkennbarkeit der Insolvenzreife" vor Ausgabe über offene Quellen prüfen.
@@ -107,7 +119,7 @@ Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners i
 
 ### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
 
-1. **BGH IX ZR 229/22 vom 23.01.2025** — vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert in den Liquiditätsstatus; keine anteilige Bewertung nach Prozessrisiko.
+1. **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert; keine anteilige Bewertung nach Prozessrisiko. Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
 2. **BGH II ZR 139/23 vom 11.03.2025** — Verbindlichkeit zählt nach materiellem Bestand; Zahlungsunfähigkeit ist objektiv zu bestimmen.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
 4. **BGH IX ZR 129/22 vom 18.04.2024** — Liquiditätsstatus gegenüber außenstehenden Dritten konkret darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten genügen. Außerdem in der Vorsatzanfechtung konkrete Bedrohungslage darlegen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22

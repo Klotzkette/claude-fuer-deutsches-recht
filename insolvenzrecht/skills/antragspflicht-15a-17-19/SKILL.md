@@ -44,10 +44,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Adressat:** Geschäftsleiter haftungsbeschränkter Gesellschaften (§ 15a Abs. 1 Satz 1 InsO); bei führungsloser Gesellschaft jeder Gesellschafter (§ 15a Abs. 3 InsO).
 - **Eröffnungsgrund:** § 17 InsO Zahlungsunfähigkeit (Höchstfrist 3 Wochen) und § 19 InsO Überschuldung (Höchstfrist 6 Wochen, Stand prüfen). § 18 InsO drohende Zahlungsunfähigkeit löst KEINE Antragspflicht aus, sondern eröffnet das StaRUG-Verfahren.
 - **Belege Zahlungsunfähigkeit:** Liquiditätsstatus, OPOS-Listen, Bankauszüge, fällige Verbindlichkeiten (insb. Lohn, Steuern, SV), Mahnung Bank, gekündigte Linien.
+- **Streitige Passiva:** Nicht titulierte, bestrittene Forderungen nicht nach Prozessrisiko quoteln. Maßgeblich ist die objektive Rechtslage: besteht und ist die Forderung fällig, gehört sie in den Liquiditätsstatus; besteht sie objektiv nicht oder ist sie nicht fällig, darf sie nicht künstlich eine Zahlungsunfähigkeit erzeugen. Wer sie als Geschäftsleiter herausnimmt, braucht Gegenbeweis, Aktennotiz und möglichst ein finales Gutachten.
+- **Titel und Vollstreckung:** Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist die Forderung mit dem Nennwert zu berücksichtigen; nicht nur der erwartete kurzfristige Abfluss zählt.
 - **Belege Überschuldung:** Bilanz zu Liquidationswerten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (positiv: keine Überschuldung), Sanierungsbausteine (Rangrücktritt § 19 Abs. 2 Satz 2 InsO, Patronatserklärung).
 - **Lückenliste typisch:** Sozialversicherungsrückstände (§ 266a StGB!), Steuerrückstände (§§ 34, 69 AO), letzte Bilanz, BWA aktuell, Liquiditätsplan 13 Wochen, Verträge mit Kovenantenbruch.
 - **Trade-off:** Frühe Antragstellung schützt vor § 15a Abs. 4/5 InsO und § 15b InsO Zahlungsverbot, opfert aber Eigenverwaltungsoptionen, die nur freiwillig eröffnet werden.
 - **Praxis:** Bei Unklarheit erst Liquiditätsstatus erstellen, dann Fortbestehensprognose; § 15a Abs. 4 InsO Strafbarkeit beginnt mit positiver Kenntnis des Eröffnungsgrunds.
+
+## Geschäftsleiterstandpunkt bei streitigen Forderungen
+
+Ein Rechtsirrtum schützt nur eng. Nach BGH IX ZR 229/22 vom 23.01.2025 kann ein Irrtum über den Bestand einer Forderung nur dann Gewicht haben, wenn es um eine seit langem umstrittene, ungeklärte Rechtsfrage mit divergierenden Auffassungen geht. Reine Vertragsauslegung, an der die Schuldnerseite selbst mitgewirkt hat, trägt diese Entlastung regelmäßig nicht. Ein finales Gutachten kann den vertretbaren ex-ante-Standpunkt dokumentieren, ersetzt aber nicht die objektive Prüfung von Bestand und Fälligkeit.
 
 ## Normen und Rechtsprechung
 
@@ -68,6 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ### Leitentscheidungen
 
+- BGH IX ZR 229/22
 - BGH IX ZR 122/23
 - BGH IX ZR 129/22
 - BFH II R 19/01

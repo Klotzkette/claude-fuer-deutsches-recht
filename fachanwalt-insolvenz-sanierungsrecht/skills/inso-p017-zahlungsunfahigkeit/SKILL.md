@@ -41,6 +41,9 @@ description: "§ 17 InsO (Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Ta
 - Zulässigkeit und Begründetheit des Insolvenzantrags trennen
 - Insolvenzgrund, Antragsrecht und Glaubhaftmachung aktenfest machen
 - Sicherungsmaßnahmen und Haftungsfolgen sofort mitdenken
+- Zahlungsunfähigkeit als objektiven Zustand prüfen: kurzfristig nicht zu behebender Zahlungsmittelmangel gegenüber tatsächlich bestehenden und fälligen Verbindlichkeiten.
+- Nicht titulierte streitige Verbindlichkeiten nach objektiver Rechtslage einordnen, nicht nach bloßem Bestreiten und nicht nach prozentualem Prozessrisiko.
+- Vorläufig vollstreckbare Titel mit eingeleiteter Vollstreckung in Höhe des Nennwerts berücksichtigen.
 
 ## Paragraphenspezifische Leitfragen
 - Wer stellt den Antrag und mit welchem rechtlichen Interesse?
@@ -48,6 +51,11 @@ description: "§ 17 InsO (Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Ta
 - Welche Sicherungsanordnung ist verhältnismäßig und eilbedürftig?
 - Den Begriff „Zahlungsunfähigkeit“ nicht isoliert auslegen, sondern in Ablauf, Beteiligtenrolle und wirtschaftliche Insolvenzfolge übersetzen.
 - Bei streitiger Auslegung zuerst den aktuellen Gesetzeswortlaut und frei zugängliche Rechtsprechung prüfen; keine Fundstelle aus Erinnerung erfinden.
+- Wenn die Geschäftsleitung eine Forderung herausnimmt, verlange Aktennotiz, Gegenbeweis, Gutachtenstand und klare Zuordnung, wer im Haftungsprozess das Nichtbestehen belegen kann.
+
+## Leitanker streitige Forderungen
+
+BGH IX ZR 229/22 vom 23.01.2025: Für nicht titulierte streitige Forderungen kommt es auf die objektive Rechtslage an. Besteht und ist die Forderung fällig, ist sie einzustellen; besteht sie objektiv nicht oder ist sie nicht fällig, kann sie keine Zahlungsunfähigkeit begründen. Ein Rechtsirrtum über die Forderung trägt nur eng, vor allem bei lang umstrittener und höchstrichterlich ungeklärter Rechtsfrage; bloße Vertragsauslegung der eigenen Vereinbarung genügt regelmäßig nicht.
 
 ## Akten- und Belegarbeit
 Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die § 17 InsO tragen oder widerlegen können:

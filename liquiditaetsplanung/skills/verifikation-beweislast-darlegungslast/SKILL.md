@@ -50,5 +50,6 @@ BGH IX ZR 129/22 vom 18.04.2024 ist als Pflichtanker zu prüfen, wenn ein Liquid
 | --- | --- | --- |
 | OPOS-Summe ohne Einzelposten | einfaches Bestreiten möglich | Einzelpostenliste mit Gläubiger, Fälligkeit und Beleg |
 | Titel genannt, Vollstreckung unklar | Nennwertansatz angreifbar | Klausel, Zustellung, Vollstreckungsauftrag und Einstellungsbeschluss prüfen |
-| Forderung nur bestritten | falsches Herausnehmen aus Passiva | materiellen Bestand und Fälligkeit entscheiden |
+| Forderung nur bestritten | falsches Herausnehmen aus Passiva | materiellen Bestand und Fälligkeit entscheiden; bei Herausnahme Gegenbeweis und Gutachtenstand dokumentieren |
+| Rechtsirrtum der Geschäftsleitung | Entlastung überschätzt | nur bei ungeklärter Rechtsfrage als stark markieren; eigene Vertragsauslegung bleibt rot |
 | Aktiva II ohne Zuflussbeleg | Scheinliquidität | Zahlungsavis, Bankbestätigung oder Vollstreckungsrealisierung verlangen |

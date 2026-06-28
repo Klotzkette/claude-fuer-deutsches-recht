@@ -41,6 +41,9 @@ description: "§ 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung
 - Zulässigkeit und Begründetheit des Insolvenzantrags trennen
 - Insolvenzgrund, Antragsrecht und Glaubhaftmachung aktenfest machen
 - Sicherungsmaßnahmen und Haftungsfolgen sofort mitdenken
+- Insolvenzreifedatum nicht aus Bauchgefühl bestimmen: Liquiditätsstatus, objektiv bestehende und fällige Passiva, Titel- und Vollstreckungsstand sowie herausgenommene streitige Forderungen getrennt belegen.
+- Keine prozentuale Kürzung streitiger Forderungen nach Prozessrisiko vornehmen; entweder materiell bestehend und fällig oder materiell nicht zu passivieren.
+- Für die Verteidigung des Geschäftsleiters Gutachten, Beschlüsse und ex-ante-Unterlagen separat auswerten, ohne die objektive Insolvenzreife zu verwischen.
 
 ## Paragraphenspezifische Leitfragen
 - Wer stellt den Antrag und mit welchem rechtlichen Interesse?
@@ -48,6 +51,10 @@ description: "§ 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung
 - Welche Sicherungsanordnung ist verhältnismäßig und eilbedürftig?
 - Den Begriff „Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung“ nicht isoliert auslegen, sondern in Ablauf, Beteiligtenrolle und wirtschaftliche Insolvenzfolge übersetzen.
 - Bei streitiger Auslegung zuerst den aktuellen Gesetzeswortlaut und frei zugängliche Rechtsprechung prüfen; keine Fundstelle aus Erinnerung erfinden.
+
+## Leitanker Zahlungsklage
+
+BGH IX ZR 229/22 vom 23.01.2025 ist für die Stichtagsarbeit mitzulesen: Die Zahlungsunfähigkeit setzt tatsächlich bestehende und fällige Verbindlichkeiten voraus; bei titulierten und vollstreckten Forderungen wirkt der Titel auf die Beweisführung und führt zum Ansatz des Nennwerts. Für den Geschäftsleiter ist der Rechtsirrtum nur eng entlastend.
 
 ## Akten- und Belegarbeit
 Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die § 15b InsO tragen oder widerlegen können:

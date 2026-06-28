@@ -75,6 +75,8 @@ Passivseitig gilt die umgekehrte Kontrollfrage: Muss die Gesellschaft zahlen, we
 
 Darlegungstiefe: Der Drei-Wochen-Plan ist erst gerichtsfähig, wenn die Passivseite nicht nur als Gesamtsumme erscheint. Für jede streitige oder titulierte Verbindlichkeit werden Gläubiger, Rechtsgrund, Fälligkeit, Titelstand, Vollstreckungsstand, Einwendung und Beleg in einer eigenen Zeile geführt. Fehlt diese Einzelpostenebene, wird vor Ergebnisbildung eine Belegnachforderung ausgegeben.
 
+Herausnahmeentscheidung: Bei nicht titulierten streitigen Verbindlichkeiten zählt nach BGH IX ZR 229/22 die objektive Rechtslage. Wird eine Forderung nicht passiviert, wird nicht mit "bestritten" begründet, sondern mit einem konkreten Gegenbeleg. Liegt nur ein internes Bauchgefühl vor, bleibt die Position im Risikoblock; liegt ein finales Rechtsgutachten vor, wird der Geschäftsleiterstandpunkt dokumentiert, aber als unsicherer Verteidigungsbaustein markiert.
+
 **Schritt 7 — Ergebnis ausliefern**
 - **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` aus der Vorlage befüllen. Sheet `Liquiditätsplan` (Werte und Wochenraster) und Sheet `BGH-Schema` (Erläuterungs-Sheet) unverändert lassen.
 - **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten, in `localStorage` werden die Eingaben gespeichert und die Datei kann offline genutzt werden.
@@ -104,7 +106,7 @@ Bei 🔴: ausdrücklich auf die Skills `zahlungsunfaehigkeit-pruefung-17-inso` u
 ### Leitentscheidungen (Volltexte im Plugin: `references/rechtsprechung/`)
 
 1. **BGH II ZR 139/23 vom 11.03.2025** — Beurteilung der Zahlungsunfähigkeit allein anhand objektiver Umstände; auf den materiellen Bestand der Verbindlichkeit kommt es an. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_139-23_vom_2025-03-11.pdf`; online über die BGH-Rechtsprechungsdatenbank (Aktenzeichensuche II ZR 139/23) verifizieren.
-2. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
+2. **BGH IX ZR 229/22 vom 23.01.2025** (DB 2025, 381) — Objektive Zahlungsunfähigkeit; objektive Rechtslage bei nicht titulierten streitigen Verbindlichkeiten; titulierte streitige Forderung in Höhe des Nennwerts in der Liquiditätsbilanz, wenn Vollstreckung eingeleitet wurde. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_229-22_vom_2025-01-23.pdf`.
 3. **BGH IX ZB 38/24 vom 22.05.2025** — Beweiswirkung eines vollstreckbaren Endurteils für einen Gläubigerantrag entfällt, wenn der Schuldner die Einstellung der Zwangsvollstreckung erreicht und die Voraussetzungen erfüllt.
 4. **BGH IX ZR 129/22 vom 18.04.2024** (ZIP 2024 S. 1407) — Liquiditätsstatus gegenüber außenstehenden Dritten einzelpostenfähig darlegen; ohne Einzelheiten und Belege kann einfaches Bestreiten genügen. Volltext lokal als PDF in `references/rechtsprechung/BGH_IX_ZR_129-22_vom_2024-04-18.pdf`.
 5. **BGH II ZR 112/21 vom 28.06.2022** (ZIP 2022 S. 1606; NZI 2022 S. 787; GmbHR 2022 S. 1036) — Darlegung auch durch Aneinanderreihung tagesgenauer Liquiditätsstatus (Bugwellenrechtsprechung); Liquiditätsbilanz nicht zwingend. Volltext lokal als PDF in `references/rechtsprechung/BGH_II_ZR_112-21_vom_2022-06-28.pdf`.

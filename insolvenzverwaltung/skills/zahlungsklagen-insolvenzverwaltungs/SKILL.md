@@ -39,10 +39,16 @@ Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlunge
 
 ## Workflow
 
-1. **Insolvenzreife datieren** - § 17 und § 19 InsO getrennt, stichtagsbezogen und belegbasiert prüfen.
+1. **Insolvenzreife datieren** - Paragraf 17 und Paragraf 19 InsO getrennt, stichtagsbezogen und belegbasiert prüfen.
 2. **Zahlungen filtern** - Zahlungen nach Stichtag mit Empfänger, Zweck, Konto und Beleg erfassen.
 3. **Ausnahmen prüfen** - ordnungsgemäßer Geschäftsgang, Antragstellung, Steuerprivileg und Masseinteresse prüfen.
 4. **Klage bauen** - Anspruch, Schaden, Verjährung, D&O und Beweisangebot strukturieren.
+
+### Streitige Passiva im Stichtagsvortrag
+
+Bei der Datierung der Zahlungsunfähigkeit jede streitige Forderung als eigene Beweiszeile führen. Nicht titulierte Forderungen werden nach objektiver Rechtslage bewertet: Bestand und Fälligkeit führen zum Ansatz, Nichtbestehen oder fehlende Fälligkeit schließen den Ansatz aus. Keine prozentuale Kürzung nach Prozessrisiko. Liegt ein vorläufig vollstreckbarer Titel vor und ist die Vollstreckung eingeleitet, ist der Nennwert in die Liquiditätsbilanz einzustellen.
+
+Für die Klage gegen den Geschäftsleiter zusätzlich prüfen: Hat er die Forderung herausgenommen, welches finale Gutachten lag vor, welche Unterlagen tragen den Gegenbeweis, und warum war ein etwaiger Rechtsirrtum mehr als bloße Vertragsauslegung? Leitanker: BGH IX ZR 229/22 vom 23.01.2025.
 
 ## Ausgabe
 
@@ -63,6 +69,7 @@ Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlunge
 - Insolvenzreife nicht geschätzt, sondern begründet
 - Zahlungslisten bankseitig belegbar
 - Ausnahmen transparent geprüft
+- Streitig herausgenommene Passiva mit Gegenbeweis, Titelstatus und Gutachtenstand belegt
 
 ## Rote Schwellen
 

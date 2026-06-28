@@ -33,6 +33,7 @@ Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Ins
 - § 64 GmbHG a.F. / § 15b InsO n.F. (Masseerhaltungspflicht)
 - **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden, solange die durch ihn geschaffene Gefährdungslage fortwirkt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
 - **BGH 5 StR 287/24 vom 27.02.2025** — Faktische Geschäftsführung / Firmenbestattung: auch Hintermänner ohne Außenauftritt können als faktische Geschäftsführer haften. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
+- **BGH IX ZR 229/22 vom 23.01.2025** — Zahlungsunfähigkeit als objektiver Zustand; streitige nicht titulierte Verbindlichkeiten nach objektiver Rechtslage, vorläufig vollstreckbarer Titel bei eingeleiteter Vollstreckung mit Nennwert.
 - **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar.
 
 ---
@@ -47,6 +48,12 @@ Die Antragspflicht wird ausgelöst, wenn:
 - Fällige Verbindlichkeiten können nicht mehr bezahlt werden
 - Zahlungsrückstand übersteigt 10 % der Gesamtverbindlichkeiten (BGH-Wesentlichkeitsschwelle)
 - Das Unvermögen ist nicht nur vorübergehend
+
+### Streitige Forderungen im Antragspflicht-Check
+
+Bei nicht titulierten, streitigen Verbindlichkeiten entscheidet nicht die bloße Behauptung des Gläubigers und auch nicht eine prozentuale Prozessrisikoquote. Maßgeblich ist die objektive Rechtslage: besteht und ist die Forderung fällig, gehört sie in die Liquiditätsprüfung; besteht sie objektiv nicht oder ist sie nicht fällig, darf sie nicht als Passivum angesetzt werden. Für die Geschäftsleitung ist das gefährlich, weil sie im späteren Haftungsprozess die Herausnahme belegen muss, während ein Insolvenzverwalter aus Verträgen, OPOS, Rechnungen und Buchhaltung regelmäßig schlüssig vortragen kann.
+
+Liegt ein vorläufig vollstreckbarer Titel vor und ist die Vollstreckung eingeleitet, ist die titulierte Forderung mit dem Nennwert anzusetzen. Ein finales Gutachten zur Nichtberechtigung der Forderung kann den vertretbaren Kenntnisstand der Geschäftsführung stützen; ob das ex post genügt, bleibt gesondert zu prüfen. Rechtsirrtümer helfen nach BGH IX ZR 229/22 vom 23.01.2025 nur eng: ungeklärte, seit langem umstrittene Rechtsfrage ja; eigene Vertragsauslegung regelmäßig nein.
 
 **Tatbestandsalternative 2 — Überschuldung § 19 InsO:**
 - Aktiva < Passiva auf Liquidationsbasis (rechnerische Überschuldung)

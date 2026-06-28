@@ -59,7 +59,13 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Liquiditätsplanung** vor A
 - **Diagnose:** Nach BGH IX ZR 129/22 vom 18.04.2024 ist der Liquiditätsstatus gegenüber außenstehenden Dritten angreifbar, wenn Einzelheiten und Belege fehlen
 - **Heilung:** Gläubiger, Rechtsgrund, Fälligkeit, Betrag, Titelstand, Vollstreckungsstand, Einwendung und Beleg je Position nachtragen; unbelegte Posten als Lücke ausweisen
 
-### 9. Mandantengeheimnis bei Tool-Einsatz verletzt
+### 9. Streitig gleich draußen
+
+- **Symptom:** Eine Forderung wird aus Passiva entfernt, weil sie bestritten oder rechtlich unbequem ist
+- **Diagnose:** Nach BGH IX ZR 229/22 vom 23.01.2025 zählt die objektive Rechtslage; Prozessrisikoquote und bloßes Bestreiten tragen die Herausnahme nicht
+- **Heilung:** Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegen; Rechtsgutachten und Restrisiko für die Geschäftsleitung dokumentieren
+
+### 10. Mandantengeheimnis bei Tool-Einsatz verletzt
 
 - **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
 - **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag

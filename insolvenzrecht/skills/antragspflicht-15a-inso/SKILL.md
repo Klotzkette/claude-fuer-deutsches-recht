@@ -168,6 +168,8 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
  Sechswochenfrist bei Überschuldung (seit 01.01.2021, SanInsFoG).
  Konkrete BGH-Entscheidungen zur Erkennbarkeit der Insolvenzreife vor Ausgabe verifizieren (dejure.org, openjur.de).
 
+ Bei streitigen Forderungen gilt: Der objektive Eintritt hängt nicht vom subjektiven Bestreiten ab. Wird eine Forderung aus dem Liquiditätsstatus herausgenommen, muss die Geschäftsleitung den Gegenstand, die Einwendung, die Belege und ein etwaiges finales Rechtsgutachten dokumentieren. Ein Irrtum entlastet nur ausnahmsweise; nach BGH IX ZR 229/22, Randnummer 27, ist die Schwelle bei ungeklärten Rechtsfragen eng und bei eigener Vertragsauslegung regelmäßig nicht erreicht.
+
 3. **Sanierungsversuche dokumentieren**
  Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
  Verschulden und können im Einzelfall belegen, dass keine Pflicht­verletzung
@@ -188,7 +190,9 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
  Bilanzen, Liquiditätspläne, Beratungsmandate (Steuerberater, Sanierungsberater),
  Gesellschafter­beschlüsse, Korrespondenz mit Gläubigern und Kreditinstituten.
  Bei Beauftragung eines Insolvenzberaters: Mandat, Stellungnahme und zeitlicher
- Ablauf festhalten. Bestehende D&O-Versicherungspolice prüfen (Coverage,
+ Ablauf festhalten. Bei finalem Rechtsgutachten zu bestrittenen Forderungen:
+ Auftrag, geprüfte Unterlagen, Annahmen, Aktualisierungsstand und ausdrücklichen
+ Restrisikovermerk zur späteren Haftungsprüfung aufnehmen. Bestehende D&O-Versicherungspolice prüfen (Coverage,
  Selbstbehalt, Ausschlussklauseln für wissentliche Pflichtverletzungen).
 
 ## Strategische Optionen (vor dem Template entscheiden)
@@ -326,6 +330,7 @@ Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben (off
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
 - BGH IV ZR 66/25 vom 19.11.2025 (D&O-Versicherung; wissentliche Pflichtverletzung erfordert positive Kenntnis pro Pflichtverletzung)
  Bundesgerichtshof Pressemitteilung 2025 (Verifikation über bundesgerichtshof.de / dejure.org)
+- BGH IX ZR 229/22 vom 23.01.2025 (objektive Zahlungsunfähigkeit, objektive Rechtslage bei streitigen Forderungen, enger Irrtumstatbestand bei ungeklärter Rechtsfrage)
 - Altere BGH-Linie zur Antragspflichthaftung (Schutzgesetz, Vertrauensschaden Neugläubiger, Quotenschaden Altgläubiger) und zur Feststellung der Zahlungsunfähigkeit (Liquiditätsbilanz, Aktiva II / Passiva II): vor Ausgabe Gericht, Datum, Aktenzeichen, Randnummer in offener Quelle prüfen.
 - IDW S 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen), Tz. 7 ff.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.

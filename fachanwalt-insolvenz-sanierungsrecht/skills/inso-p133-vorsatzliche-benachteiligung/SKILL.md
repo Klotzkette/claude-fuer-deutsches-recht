@@ -41,6 +41,8 @@ description: "§ 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Nor
 - Rechtshandlung, Benachteiligung, Zeitfenster und subjektive Merkmale getrennt prüfen
 - Verwalterperspektive und Verteidigung des Anfechtungsgegners spiegeln
 - Beweiszeichen nur als Indizien behandeln und nicht mechanisch überdehnen
+- Bei Kenntnis der eigenen Zahlungsunfähigkeit streitige Verbindlichkeiten sauber trennen: objektiver Bestand und Fälligkeit für die Insolvenzlage, subjektiver Rechtsirrtum nur als enges Verteidigungsargument.
+- Prüfen, ob die Schuldnerseite den Streit durch eigene Vertragsauslegung erklären will; das trägt nach BGH IX ZR 229/22 regelmäßig deutlich weniger als eine lange ungeklärte Rechtsfrage.
 
 ## Paragraphenspezifische Leitfragen
 - Welche konkrete Rechtshandlung wird angegriffen und wann wurde sie wirksam?
@@ -48,6 +50,10 @@ description: "§ 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Nor
 - Welche Kenntnis-/Vorsatzindizien sind belastbar und welche Gegenindizien gibt es?
 - Den Begriff „Vorsätzliche Benachteiligung“ nicht isoliert auslegen, sondern in Ablauf, Beteiligtenrolle und wirtschaftliche Insolvenzfolge übersetzen.
 - Bei streitiger Auslegung zuerst den aktuellen Gesetzeswortlaut und frei zugängliche Rechtsprechung prüfen; keine Fundstelle aus Erinnerung erfinden.
+
+## Leitanker Rechtsirrtum
+
+BGH IX ZR 229/22 vom 23.01.2025: Für die subjektive Seite ist ein Irrtum über den Bestand einer Forderung nicht schon deshalb plausibel, weil die Forderung bestritten wird. Tragfähig kann er nur bei einer seit langem umstrittenen, höchstrichterlich ungeklärten Rechtsfrage sein; Fragen der Vertragsauslegung, an denen die Schuldnerseite selbst mitgewirkt hat, sind kritisch.
 
 ## Akten- und Belegarbeit
 Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die § 133 InsO tragen oder widerlegen können:

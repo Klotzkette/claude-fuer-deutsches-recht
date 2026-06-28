@@ -45,6 +45,7 @@ Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-
 
 Benötigte Unterlagen:
 - 13-Wochen-Liquiditätsplanung, Insolvenzreife-Check und Fortbestehensprognose.
+- OPOS, streitige Forderungen, Titel- und Vollstreckungsstand sowie Legal Opinions zur Herausnahme von Passiva.
 - Asset-/Share-Deal-Struktur, Insolvenzverwalter- oder Eigenverwaltungsrolle.
 - Anfechtungs-, Haftungs-, Steuer- und Closing-Sicherungsfragen.
 
@@ -72,6 +73,7 @@ Arbeite mit diesen Variablen: `deal_name`, `rolle`, `deal_phase`, `target`, `geg
 - StaRUG Paragraf 1, 9 ff. und 49 ff. für Früherkennung, Plan und Stabilisierung.
 - BGB Paragraf 134, 138, 280, 311 Abs. 2 und 826 für Haftungs- und Sittenwidrigkeitsfragen.
 - UmwStG Paragraf 20 bis 24 und Paragraf 8c KStG nur mit Steuerteam verifizieren.
+- Bei Paragraf 17 InsO streitige nicht titulierte Passiva objektiv prüfen: Bestand und Fälligkeit zählen, bloßes Bestreiten und Prozessrisikoquote nicht. Vorläufig vollstreckbare Titel bei eingeleiteter Vollstreckung mit Nennwert erfassen. Leitanker: BGH IX ZR 229/22 vom 23.01.2025.
 
 **3. Organpflichten und Business Judgment.** Bei Geschäftsleitungs- oder Aufsichtsratsentscheidungen ist zu fragen, ob die Entscheidung auf angemessener Informationsgrundlage, ohne sachfremde Interessen und zum Wohl der Gesellschaft vorbereitet ist. Für die Pflicht zur eigenverantwortlichen Prüfung von Ansprüchen und Organverantwortung ist BGH, 21.04.1997 - II ZR 175/95, ARAG/Garmenbeck, als Leitentscheidung zu markieren: https://dejure.org/1997,161 `[dejure.org]`.
 
@@ -135,10 +137,11 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 ## Aktuelle Rechtsprechung
 
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle verwenden.
+- BGH IX ZR 229/22 vom 23.01.2025: Zahlungsunfähigkeit als objektiver Zustand; nicht titulierte streitige Verbindlichkeiten nach objektiver Rechtslage, vorläufig vollstreckbarer Titel bei eingeleiteter Vollstreckung mit Nennwert, Rechtsirrtum nur in engem Ausnahmebereich.
 
 ## Schritt-für-Schritt-Workflow
 
-1. **Insolvenztatbestand feststellen:** Paragraf 17-19 InsO prufen; 13-Wochen-Liquiditaetsplan erstellen; Antragspflicht-Frist notieren
+1. **Insolvenztatbestand feststellen:** Paragraf 17-19 InsO prüfen; 13-Wochen-Liquiditätsplan erstellen; Antragspflicht-Frist notieren; streitige Passiva mit Gegenbeweis, Titelstatus und Gutachtenstand erfassen
 2. **Verfahrenswahl:** StaRUG (nur bei drohender Zahlungsunfaehigkeit, Paragraf 18 InsO) vs. Insolvenzplan (bei Zahlungsunfaehigkeit oder auf Antrag) vs. uebertragende Sanierung
 3. **Gläubiger-Kategorisierung:** gesicherte Gläubiger, ungesicherte Gläubiger, nachrangige Gläubiger, Anteilseigner — Klassen nach Paragraf 222-225 InsO bilden
 4. **Plan-Entwurf:** darstellender und gestaltender Teil (Paragraf 219 InsO); Besserstellungsvergleich: Plan vs. Liquidation; Debt-Equity-Swap-Option prüfen

@@ -72,15 +72,15 @@ Prüfe je nach Fall insbesondere:
 
 | Thema | Prüfregel für die Kreditakte |
 | --- | --- |
-| Zahlungsunfähigkeit | Drei-Wochen-Liquiditätsstatus mit OPOS, Bankdaten, fälligen Steuern, Sozialversicherung und titulierten Forderungen verlangen |
-| Streitige Forderungen | Kein Prozentabschlag nach Prozessrisiko; materieller Bestand, Fälligkeit und Vollstreckungsstand entscheiden |
+| Zahlungsunfähigkeit | Drei-Wochen-Liquiditätsstatus mit OPOS, Bankdaten, fälligen Steuern, Sozialversicherung, streitigen Passiva und titulierten Forderungen verlangen |
+| Nicht titulierte streitige Forderungen | Objektive Rechtslage prüfen: besteht und fällig gleich einstellen; besteht nicht oder nicht fällig gleich herausnehmen; Herausnahme nur mit Gegenbeweis und Legal-Opinion-Spur akzeptieren |
 | Vorläufig vollstreckbarer Titel | Bei laufender Vollstreckung Nennwert als kurzfristigen Liquiditätsabfluss erfassen |
 | Eingestellte Vollstreckung | Titelwirkung nicht überschätzen; weitere Tatsachen zum Eröffnungsgrund verlangen |
 | Rangrücktritt | Nur qualifizierte Durchsetzungssperre mit Zahlung aus freiem Vermögen oder freiem Liquiditätsüberschuss akzeptieren |
 | Patronat | Harte Erklärung mit durchsetzbarem Anspruch und Bonitätsbeleg anders behandeln als weichen Comfort Letter |
 | Bankbeitrag | Stundung, Waiver oder frisches Geld nur mit Sanierungskonzept, Organfreigabe, Sicherheiten- und Anfechtungscheck |
 
-Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025, BGH II ZR 139/23 vom 11.03.2025, BGH IX ZB 38/24 vom 22.05.2025, BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
+Rechtsprechungsanker: BGH IX ZR 229/22 vom 23.01.2025 für streitige Forderungen, objektive Zahlungsunfähigkeit, Nennwert bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung sowie den engen Rechtsirrtumskorridor; BGH II ZR 139/23 vom 11.03.2025, BGH IX ZB 38/24 vom 22.05.2025, BGH IX ZR 133/14 vom 05.03.2015, BGH IX ZR 143/17 vom 06.12.2018 und BGH II ZR 84/20 vom 13.07.2021.
 
 ### 3. Beleg- und Lückenmatrix
 

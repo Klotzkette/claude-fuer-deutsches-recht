@@ -35,7 +35,7 @@ description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigera
 
 | Gericht | AZ | Datum | Kernaussage |
 |---------|----|-------|-------------|
-| BGH | IX ZR 229/22 | 23.01.2025 | Vorläufig vollstreckbare fällige Forderung bei eingeleiteter Vollstreckung nominal in die Liquiditätsbilanz; keine Prozessrisikoquote |
+| BGH | IX ZR 229/22 | 23.01.2025 | Zahlungsunfähigkeit objektiv; streitige nicht titulierte Forderung nach objektiver Rechtslage; vorläufig vollstreckbare fällige Forderung bei eingeleiteter Vollstreckung nominal in die Liquiditätsbilanz; keine Prozessrisikoquote |
 | BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss gegenüber außenstehenden Dritten einzelpostenfähig belegt sein; pauschale Summen können einfach bestritten werden |
 | BGH | II ZR 139/23 | 11.03.2025 | Bestand und Fälligkeit der Forderung richten sich nach materieller Rechtslage |
 | BGH | IX ZB 38/24 | 22.05.2025 | Vorläufige Einstellung der Vollstreckung kann die Belegwirkung eines Titels für den Insolvenzantrag entkräften |
@@ -51,6 +51,7 @@ description: "Workflow-Skill zu fachanwalt insolvenz sanierungsrecht glaeubigera
 | 3 | Glaubhaftmachung Eröffnungsgrund | §§ 17, 19 InsO | ZU oder Überschuldung (nur jur. Person); drohende ZU nicht ausreichend für Gläubigerantrag |
 | 4 | Titel- und Streitforderungscheck | Paragraf 14, 17 InsO | Titel, Fälligkeit, Vollstreckungsstand, Einstellungsbeschluss und materielle Einwendungen getrennt darstellen |
 | 5 | Liquiditätsstatus substantiieren | Paragraf 14, 17 InsO | Keine Summenbehauptung: Einzelposten, Fälligkeit, Rechtsgrund und Beleg mit Anlagenlog |
+| 5a | Streitige Forderung angreifen oder verteidigen | Paragraf 14, 17 InsO | Objektive Rechtslage, Beweislast und Gegenbeleg prüfen; bloßes Bestreiten genügt nicht gegen substantiierten Forderungsvortrag |
 | 6 | Überschuldung Paragraf 19: nur jur. Person; negatives Reinvermögen + fehlende Fortführungsprognose | Paragraf 19 InsO | Beide Voraussetzungen kumulativ |
 | 7 | Anhörung der Schuldnerin Paragraf 14 Absatz 2 | Paragraf 14 Absatz 2 InsO | Pflicht des Gerichts; keine Voraussetzung des Gläubigers |
 | 8 | Sicherungsmaßnahmen Paragraf 21 InsO beantragen | Paragraf 21 InsO | Sofortschutz: ZV-Einstellung, vorläufiger IV, Zustimmungsvorbehalt |

@@ -41,6 +41,9 @@ description: "§ 15a InsO (Antragspflicht bei juristischen Personen und rechtsf�
 - Zulässigkeit und Begründetheit des Insolvenzantrags trennen
 - Insolvenzgrund, Antragsrecht und Glaubhaftmachung aktenfest machen
 - Sicherungsmaßnahmen und Haftungsfolgen sofort mitdenken
+- Bei Zahlungsunfähigkeit die Passivseite objektiv prüfen: nicht titulierte streitige Forderungen nur herausnehmen, wenn Bestand oder Fälligkeit tragfähig widerlegt sind.
+- Herausgenommene Forderungen in einer Geschäftsleiterakte dokumentieren: Vertrag, Rechnung, Einwand, Gegenbeweis, Gutachtenstand, Beschluss und Restrisiko.
+- Vorläufig vollstreckbare Titel bei eingeleiteter Vollstreckung mit Nennwert in die Frist- und Antragspflichtrechnung aufnehmen.
 
 ## Paragraphenspezifische Leitfragen
 - Wer stellt den Antrag und mit welchem rechtlichen Interesse?
@@ -48,6 +51,10 @@ description: "§ 15a InsO (Antragspflicht bei juristischen Personen und rechtsf�
 - Welche Sicherungsanordnung ist verhältnismäßig und eilbedürftig?
 - Antragsrecht, Form, Glaubhaftmachung, Anlagen und Eilbedürftigkeit als Zulässigkeitsblock prüfen.
 - Bei streitiger Auslegung zuerst den aktuellen Gesetzeswortlaut und frei zugängliche Rechtsprechung prüfen; keine Fundstelle aus Erinnerung erfinden.
+
+## Leitanker Geschäftsleiterhaftung
+
+BGH IX ZR 229/22 vom 23.01.2025 verschärft die Dokumentationsarbeit: Zahlungsunfähigkeit bleibt objektiv; die Geschäftsleitung kann sich nicht darauf verlassen, dass ein bloßes Bestreiten die Forderung aus dem Liquiditätsstatus entfernt. Ein finales Gutachten kann den vertretbaren Kenntnisstand stützen, muss aber mit dem materiellen Gegenbeweis verzahnt werden.
 
 ## Akten- und Belegarbeit
 Fordere nicht pauschal „alle Unterlagen“ an, sondern genau die Stücke, die § 15a InsO tragen oder widerlegen können:

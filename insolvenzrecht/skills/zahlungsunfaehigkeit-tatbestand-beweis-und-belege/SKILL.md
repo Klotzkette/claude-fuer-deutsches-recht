@@ -72,6 +72,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Schuldner / Geschäftsführer (haftungsabschirmend):** Liquiditätsstatus zum konkreten Stichtag mit Datum, Annahmen, Berechnung.
 - **Insolvenzverwalter / Gläubiger (zur Antragstellung):** Belege für Zahlungseinstellung — Mahnungen, Vollstreckungsbescheide, Wechselproteste, eidesstattliche Versicherung des Schuldners; bei Liquiditätsstatus zusätzlich Einzelposten, Fälligkeiten, Kontoauszüge, Rechnungen und Titelstand.
 - **Außenstehender Gegner:** Nach BGH IX ZR 129/22 vom 18.04.2024 kann einfaches Bestreiten genügen, wenn der vorgelegte Liquiditätsstatus keine überprüfbaren Einzelheiten und Belege enthält.
+- **Herausnahme streitiger Passiva:** Nach BGH IX ZR 229/22 vom 23.01.2025 zählt die objektive Rechtslage. Wer als Geschäftsleitung eine Forderung wegen Nichtbestehens oder Nichtfälligkeit nicht berücksichtigt, dokumentiert Gegenbeweis, Rechtsgutachten, Annahmen und Restrisiko.
+- **Rechtsirrtum:** Nur bei seit langem umstrittener, höchstrichterlich ungeklärter Rechtsfrage tragfähig; nicht bei Vertragsauslegung, an der der Schuldner selbst mitgewirkt hat.
 - **Indizien für Zahlungseinstellung:**
  - Stundungsverhandlungen mit mehreren Gläubigern.
  - Nichtabführen Sozialversicherungsbeiträge (§ 266a StGB!).

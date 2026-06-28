@@ -50,6 +50,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Im Anfechtungsprozess (§§ 129 ff. InsO):** Insolvenzverwalter trägt für jeden Anfechtungstatbestand die Beweislast — Indizien-Rechtsprechung des BGH erleichtert dies für § 133 InsO.
 - **Bei Haftung § 15a Abs. 4 InsO Strafverfahren:** Strafverfolgungsbehörde trägt Beweislast — aber **Indizwirkung** der dokumentierten oder fehlenden Frühwarnung.
 
+### Streitige Forderungen in der Ampel
+
+| Lage | Ampel | Darlegungsprogramm |
+| --- | --- | --- |
+| Nicht titulierte Forderung nur bestritten | Gelb bis Rot | Objektive Rechtslage klären; Bestand, Fälligkeit und Einwendungen belegen; keine pauschale Prozessrisikoquote |
+| Forderung besteht objektiv nicht oder ist nicht fällig | Grün nur mit Beleg | Herausnahme dokumentieren, Gegenbeweis ablegen, finales Gutachten und Geschäftsleitervermerk speichern |
+| Forderung besteht objektiv und ist fällig | Rot, wenn Liquidität nicht reicht | Nennwert in Liquiditätsstatus einstellen; Frist und Antragspflicht neu rechnen |
+| Vorläufig vollstreckbarer Titel plus eingeleitete Vollstreckung | Rot | Nennwert berücksichtigen; Vollstreckungsstand und kurzfristige Mitteldeckung belegen |
+| Rechtsirrtum der Geschäftsleitung | Gelb | Nur tragfähig bei ungeklärter, seit langem umstrittener Rechtsfrage; eigene Vertragsauslegung reicht regelmäßig nicht |
+
 ## Substantiierungspflicht des Geschäftsführers
 - Datierte Liquiditätspläne, Sensitivitäten, Maßnahmenprotokolle.
 - Beschlussfassung Gesellschafter / Aufsichtsrat zu Sanierungsmaßnahmen.
@@ -78,6 +88,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ### Leitentscheidungen
 
+- BGH IX ZR 229/22
 - BGH IX ZR 285/14
 - BGH IX ZR 56/22
 - BGH II ZR 206/22

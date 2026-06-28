@@ -45,5 +45,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | Beweisthema | Darlegungspflicht | Bestreitensrisiko | Leitanker |
 | --- | --- | --- | --- |
 | Zahlungsunfähigkeit aus Liquiditätsstatus | Stichtag, Aktiva I und II, Passiva I und II, Einzelposten, Fälligkeit, Belege | Außenstehender Dritter kann bei fehlender Detailtiefe einfach bestreiten | BGH IX ZR 129/22 vom 18.04.2024 |
-| Streitige Forderung passivisch | materieller Bestand, Fälligkeit, Titel- oder Anspruchsgrund, Vollstreckung | bloßes Bestreiten reicht nicht, wenn Forderung materiell besteht; bloße Behauptung reicht aber auch nicht | BGH IX ZR 229/22 vom 23.01.2025 und BGH II ZR 139/23 vom 11.03.2025 |
+| Nicht titulierte streitige Forderung passivisch | objektiver materieller Bestand, Fälligkeit, Gläubigerhandlung und Gegenbeweis | Wer sie herausnimmt, muss Nichtbestehen oder fehlende Fälligkeit später belastbar belegen können | BGH IX ZR 229/22 vom 23.01.2025, Randnummer 34 und 35 |
 | Vorläufig vollstreckbarer Titel | Titel, Klausel, Zustellung, Vollstreckungsbeginn, Einstellung | Nennwert nur bei Vollstreckungsdruck tragfähig | BGH IX ZB 38/24 vom 22.05.2025 |
+| Irrtum der Geschäftsleitung | finales Gutachten, ungeklärte Rechtsfrage, Annahmen, Aktualisierung | bei eigener Vertragsauslegung regelmäßig schwach; Übertragung auf Haftungsprozess offen | BGH IX ZR 229/22 vom 23.01.2025, Randnummer 27 |

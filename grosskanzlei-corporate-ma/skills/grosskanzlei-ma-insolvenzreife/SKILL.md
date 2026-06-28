@@ -52,7 +52,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IX ZR 229/22 | 23.01.2025 | Eine vorläufig vollstreckbare titulierte Forderung ist im Liquiditätsstatus nominal zu berücksichtigen, wenn sie fällig ist, Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt |
+| BGH | IX ZR 229/22 | 23.01.2025 | Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbare titulierte Forderung nominal, wenn fällig, Vollstreckungsvoraussetzungen vorliegen und der Gläubiger vollstreckt |
 | BGH | IX ZR 129/22 | 18.04.2024 | Liquiditätsstatus muss mit Einzelposten und Belegen prüfbar sein; sonst droht einfaches Bestreiten durch außenstehende Gegner |
 | BGH | II ZR 139/23 | 11.03.2025 | Ob eine Verbindlichkeit in die Zahlungsfähigkeitsprüfung einzustellen ist, richtet sich nach der materiellen Rechtslage |
 | BGH | IX ZB 38/24 | 22.05.2025 | Die Belegwirkung eines Titels kann für einen Insolvenzantrag entfallen, wenn die Vollstreckung vorläufig eingestellt ist |
@@ -100,7 +100,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 |---|---|---|
 | Zahlungsunfähigkeit bei Antragspflicht-Verletzung | Insolvenzverwalter | Bankkontoauszüge, OPOS, Zahlungsrückstände |
 | Positive Fortbestehensprognose (Paragraf 19 InsO) | Geschäftsleitung | Finanzplan, Auftragsbestand, Finanzierungszusagen (schriftlich) |
-| Bestehen und Fälligkeit streitiger Forderungen | Wer sich auf die Liquiditätswirkung beruft | Titel, Klageschrift, Einwendungen, Vollstreckungsnachweise, Stundung, Vergleich, Einstellungsbeschluss |
+| Bestehen und Fälligkeit streitiger Forderungen | Wer sich auf die Liquiditätswirkung beruft; bei Herausnahme aus GF-Sicht zusätzlich Geschäftsleitung | Titel, Klageschrift, Einwendungen, Vollstreckungsnachweise, Stundung, Vergleich, Einstellungsbeschluss, finales Rechtsgutachten |
 | Masseschmälernde Zahlung (Paragraf 15b InsO) | Insolvenzverwalter | Buchungsbelege, Zeitpunkt der Insolvenzreife, Vergleich ordentlicher Kaufmann |
 | MAC-Eintritt | Partei, die Vollzugsverweigerung geltend macht | Finanzberichte, Gutachten, Marktdaten |
 
@@ -121,6 +121,7 @@ Im M&A-Kontext ist die Insolvenzreife-Prüfung in zwei Richtungen relevant: Eine
 | Forderung bestritten | Bestreiten allein genügt nicht; materiell bestehende und fällige Forderungen gehören in die Liquiditätsbilanz |
 | Prozessverlust nur wahrscheinlich | Keine prozentuale Prozessrisikoquote in der 3-Wochen-Bilanz; entweder fällige Verbindlichkeit, vollstreckungswirksamer Titel oder kein Passivum |
 | Liquiditätsstatus ist nur Management Summary | Für Haftung, DD und Streitfall nicht ausreichend; Einzelposten, Beleg und Fälligkeit nachfordern |
+| Legal Opinion sagt Forderung besteht nicht | Als Verteidigungsbaustein dokumentieren, aber objektive Rechtslage und spätere Beweislast gesondert bewerten |
 | Rangrücktritt schriftlich vereinbart | Prüfen, ob die Durchsetzung vor und nach Insolvenzreife gesperrt ist, Zahlung nur aus freiem Vermögen oder freiem Liquiditätsüberschuss erfolgen darf und die Klausel zugunsten der Gläubigergesamtheit wirkt |
 | MAC-Klausel zu unbestimmt | Gerichtliche Auslegung der MAC-Definition; Verweis auf EBITDA-Schwellenwerte schärft Klausel |
 

@@ -36,3 +36,9 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Insolvenzreife, Antragspflicht und Haftung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Streitige Forderungen und Geschäftsleiterakte
+
+Bei Zahlungsunfähigkeit nicht mit einem pauschalen Streitwertabschlag arbeiten. Nicht titulierte streitige Verbindlichkeiten werden nach der objektiven Rechtslage behandelt: Bestehen und Fälligkeit führen zur Passivierung, Nichtbestehen oder fehlende Fälligkeit zur Herausnahme. Ein vorläufig vollstreckbarer Titel mit eingeleiteter Vollstreckung gehört mit Nennwert in die Betrachtung.
+
+Für die Haftungsperspektive ist entscheidend, wer die Herausnahme später beweisen kann. Lege deshalb eine Kurzmatrix an: Forderung, Anspruchsgrund, Fälligkeit, Einwand, Gegenbeweis, Gutachtenstand, Geschäftsleiterbeschluss, Restrisiko. BGH IX ZR 229/22 vom 23.01.2025 ist als Leitanker aufzunehmen; ein Rechtsirrtum trägt nur eng und regelmäßig nicht bei der Auslegung eigener Vertragsunterlagen.

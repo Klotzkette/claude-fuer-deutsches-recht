@@ -82,6 +82,7 @@ Seit der Grundsatzentscheidung **BGH IX ZR 72/20 vom 06.05.2021** verfolgt der I
 
 - **BGH IX ZR 129/22 vom 18.04.2024**: Aus der bloßen objektiv festgestellten Zahlungsunfähigkeit darf nicht ohne weiteres auf einen Gläubigerbenachteiligungsvorsatz geschlossen werden. Maßgeblich ist, ob der Schuldner wusste oder zumindest billigend in Kauf nahm, dass er andere Gläubiger zu späterer Zeit nicht vollständig befriedigen kann. Bei Liquiditätsbehauptungen des Verwalters kann ein einfaches Bestreiten des außenstehenden Anfechtungsgegners genügen.
  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 229/22 vom 23.01.2025**: Subjektiver Irrtum über Bestand oder Fälligkeit einer Forderung entlastet nur eng, wenn eine seit langem umstrittene und höchstrichterlich ungeklärte Rechtsfrage betroffen ist; nicht bei Vertragsauslegung, an der der Schuldner selbst mitgewirkt hat.
 - **BGH IX ZR 239/22 vom 18.04.2024** (Schwesterentscheidung zu § 135 InsO Gesellschafterdarlehen): Verschärfung der Anforderungen an die Anfechtung wegen gesellschafterähnlicher Stellung.
  Quelle: <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 
@@ -116,6 +117,7 @@ Kenntnis nach BGH-Linie (vor Ausgabe konkretes Az. prüfen):
 
 - Bei drohender Zahlungs-Unfähigkeit indiziert die Kenntnis des Gläubigers den Vorsatz
 - Nach **BGH IX ZR 129/22 vom 18.04.2024** reicht bloße Kenntnis der Liquiditätsunterdeckung nicht ohne konkrete Indizien für die Erwartung dauerhafter Unterdeckung
+- Nach **BGH IX ZR 229/22 vom 23.01.2025** ist ein Rechtsirrtum über Fälligkeit oder Durchsetzbarkeit nicht schon deshalb plausibel, weil die Forderung bestritten wird; bei eigener Vertragsauslegung ist die Entlastung besonders kritisch.
 
 ## Schritt 4 — Bargeschäfts-Privileg § 142 InsO
 
@@ -381,6 +383,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
 - **BGH IX ZR 129/22 vom 18.04.2024** — Neuausrichtung Vorsatzanfechtung § 133 InsO
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+129/22>
+- **BGH IX ZR 229/22 vom 23.01.2025** — objektive Zahlungsunfähigkeit und enger Irrtumstatbestand bei Forderungsbestand/Fälligkeit.
 - **BGH IX ZR 239/22 vom 18.04.2024** — Anfechtung wegen gesellschafterähnlicher Stellung
  <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=18.04.2024&Aktenzeichen=IX+ZR+239/22>
 - Ältere Linie (BGH IX ZR 72/20 vom 06.05.2021 — Grundsatzentscheidung Neuausrichtung) und § 138-Konstellationen vor Ausgabe über dejure.org/openjur.de verifizieren.

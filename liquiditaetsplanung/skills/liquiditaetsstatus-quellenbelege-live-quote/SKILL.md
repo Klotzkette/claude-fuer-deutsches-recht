@@ -45,6 +45,8 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 Jede Zahl wird auf die Einzelpostenebene heruntergebrochen. Für Passiva sind Gläubiger, Rechtsgrund, Betrag, Fälligkeit, Mahn- oder Vollstreckungsstand, Titel, Einwendung und Beleg zu führen. Für Aktiva sind Bankverfügbarkeit, Zahlungszusage, Zahlungshistorie und Realisierbarkeit im Drei-Wochen-Fenster zu belegen. BGH IX ZR 129/22 vom 18.04.2024 wird als Warnanker genutzt: Eine bloße Summenliste ohne Rechnungen, Kontoauszüge oder sonstige Unterlagen ist gegenüber außenstehenden Dritten angreifbar.
 
+Bei nicht titulierten streitigen Verbindlichkeiten gilt nach BGH IX ZR 229/22 vom 23.01.2025 die objektive Rechtslage. Eine Position wird nur herausgenommen, wenn Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegbar sind. Ein finales Rechtsgutachten wird als Beleg zum Kenntnisstand geführt, aber mit Restrisiko markiert.
+
 ## Ausgabe
 
 Erstelle eine Quellenmatrix:
