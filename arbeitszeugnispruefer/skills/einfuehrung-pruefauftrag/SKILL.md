@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 Dieser Skill beschreibt den Ausgangspunkt jeder Zeugnispruefung: Was liegt vor, was wird geprueft und welcher Rechtsrahmen gilt. Der Pruefer stellt zuerst fest, ob ein einfaches Zeugnis (nur Art und Dauer der Taetigkeit) oder ein qualifiziertes Zeugnis (zusaetzlich Leistung und Verhalten) zur Analyse eingereicht wurde. Zwischenzeugnisse und Ausbildungszeugnisse nach Paragraf 16 BBiG gelten als eigene Arten mit denselben Pruefstandards.
 
 Rechtsgrundlage jeder Pruefung ist Paragraf 109 Gewerbeordnung. Absatz 1 normiert den Anspruch auf einfaches oder qualifiziertes Zeugnis; Absatz 2 verlangt Klarheit, Verstaendlichkeit und verbietet Geheimzeichen oder Formulierungen, die etwas anderes besagen als ihr Wortlaut. Elektronische Form ist seit 1.1.2025 mit qualifizierter elektronischer Signatur zulaessig (Viertes Buerokratieentlastungsgesetz). Davor war sie ausgeschlossen.

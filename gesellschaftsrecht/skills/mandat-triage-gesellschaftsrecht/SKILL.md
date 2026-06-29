@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Arbeitsbereich
 
 Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht Paragraf 15a InsO drei Wochen Anfechtungsklage Paragraf 246 AktG ein Monat. Normen Paragraf 2 GmbHG Gründung Paragraf 48 GmbHG Gesellschafterversammlung Paragraf 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.

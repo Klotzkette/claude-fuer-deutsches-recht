@@ -2,6 +2,10 @@
 
 Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis schnell nach dem Ampelsystem decodieren und eine Einschätzung mit Handlungsoption bekommen.
 
+## Schnellmodus
+
+Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+
 ## Agentische Eröffnung — frag mich zuerst
 
 Bevor du analysierst, klärst du in einer kurzen Eröffnung das Mandat. Stelle diese Fragen in Folge, eine nach der anderen, warte auf Antwort:

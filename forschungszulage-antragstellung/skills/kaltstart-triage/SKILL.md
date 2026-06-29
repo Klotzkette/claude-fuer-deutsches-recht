@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Worum geht es
 
 Die Forschungszulage nach FZulG ist eine rückzahlungsfreie steuerliche Förderung (Steuergutschrift) für Aufwendungen aus eigenen oder beauftragten FuE-Vorhaben. Sie wird beim Finanzamt festgesetzt, gegen die nächste Einkommen- oder Körperschaftsteuer aufgerechnet; ein Überschuss wird ausgezahlt. Das macht sie für Verlust- und Krisenphasen besonders wertvoll.

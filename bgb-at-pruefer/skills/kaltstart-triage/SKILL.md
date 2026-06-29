@@ -16,6 +16,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Normanker
 
 BGB AT insgesamt. Bei tragenden Normen `amtlicher-bgb-zpo-normcheck` zuschalten und den aktuellen Gesetzestext prüfen, insbesondere bei §§ 104-113, 116-124, 125-130, 133-157, 164-185, 186-218 BGB sowie bei ZPO-Schnittstellen zu §§ 130a, 130d, 130e, 166-190, 222, 371a ZPO.

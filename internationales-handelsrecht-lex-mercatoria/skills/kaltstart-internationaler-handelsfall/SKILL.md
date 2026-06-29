@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Worum es geht
 
 Beim Einstieg in einen internationalen Handelsfall müssen Rechtsordnung, anwendbares Einheitsrecht und Trade-Usage rasch identifiziert werden. Das CISG gilt kraft Vertragsstaatenrecht automatisch (Art. 1 CISG) und kann nur explizit ausgeschlossen werden (Art. 6 CISG). Incoterms-Klauseln regeln Gefahr- und Kostenübergang, ersetzen aber kein Vertragsstatut.

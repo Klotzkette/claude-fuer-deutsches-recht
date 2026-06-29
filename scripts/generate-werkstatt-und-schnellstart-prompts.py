@@ -21,6 +21,57 @@ from themen_profile import profile_for, ThemenProfil
 
 REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7500
+WERKSTATT_TEMPO_BLOCK = [
+    "## Arbeitsmodus: schnell und belastbar",
+    "",
+    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
+    "",
+    "Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
+    "",
+]
+SCHNELLSTART_TEMPO_BLOCK = [
+    "## Schnellmodus",
+    "",
+    "Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.",
+    "",
+]
+WERKSTATT_ERGONOMY_TEXT = """## Ausgabeformate für schnelle Lieferung
+
+| Bedarf | Sofortausgabe | Qualitätsgriff |
+| --- | --- | --- |
+| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
+| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
+| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
+| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
+| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
+| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
+
+## Rückfragenbremse
+
+1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
+2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
+3. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
+4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
+5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+
+## Mini-Gerüste
+
+- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
+- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
+- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
+- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
+- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
+"""
+WERKSTATT_FINAL_CHECK_TEXT = """## Schlusskontrolle für Tempo
+
+- Erstes Ergebnis steht oben, nicht am Ende versteckt.
+- Jede offene Tatsache ist als Nachforderung formuliert.
+- Jede Rechtsfrage hat mindestens einen Normanker.
+- Das nächste Dokument oder die nächste Handlung ist benannt.
+- Der Ton passt zum Empfänger: Mandant, Gericht, Behörde, Gegner oder intern.
+- Wenn zwei Wege vertretbar sind, steht die empfohlene Variante mit Grund vor der Alternative.
+- Keine Nebenspur bleibt offen: erledigen, zurückstellen oder nachfordern.
+"""
 
 # Plugins, deren Werkstatt- und Schnellstart-Markdown von Hand gepflegt werden.
 # Der Generator ueberschreibt sie nicht; er meldet sie als uebersprungen.
@@ -219,6 +270,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         "Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisbare Punkte von Behauptungen, prueft die einschlaegigen Normen, formuliert den naechsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
         "",
+    ] + WERKSTATT_TEMPO_BLOCK + [
         "## 2. Stop-Kriterien",
         "",
     ]
@@ -236,11 +288,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         lines += [
             f"### 3.{idx}. {clean(station, 140)}",
             "",
-            f"Eingang: Erfasse fuer diese Station alle Dokumente, Daten, Namen, Fristen, Betraege und Belege, die den Punkt {idx} tragen. Ordne jedes Dokument einer Tatsache und jeder Tatsache einem moeglichen Tatbestandsmerkmal zu.",
-            "",
-            f"Pruefung: Arbeite die einschlaegigen Tatbestandsmerkmale in der Reihenfolge Norm, Tatsache, Beleg, Gegenargument, Rechtsfolge ab. Vermeide abstrakte Belehrungen; jeder Satz muss den konkreten Arbeitsgegenstand dieser Station voranbringen.",
-            "",
-            f"Arbeitsprodukt: Liefere am Ende dieser Station einen ausformulierten Baustein fuer Memo, Schriftsatz, Vertrag, Beschluss, Tabelle oder Entscheidungsvermerk. Der Baustein benennt Ergebnis, Risiko und Anschlussarbeit.",
+            "Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.",
             "",
         ]
 
@@ -318,18 +366,24 @@ def build_werkstatt(plugin_dir: Path) -> str:
     # Make narrow prompts less skeletal by adding issue catalog derived from skills.
     if skill_material:
         lines += ["", "## 11. Materienbezogene Arbeitsfelder", ""]
-        field_limit = min(65, max(22, len(skill_material)))
+        field_limit = min(36, max(18, len(skill_material)))
         for idx, item in enumerate(skill_material[:field_limit], 1):
             desc = clean(item["desc"] or item["body"], 260)
             if desc:
                 lines.append(f"### 11.{idx}. {desc}")
                 lines.append("")
-                lines.append(f"Pruefe dieses Arbeitsfeld anhand der konkreten Unterlagen. Lege fest, welcher Tatsachenkern, welche Norm, welche Frist, welche Form und welches Beweismittel den Punkt tragen.")
-                lines.append("")
-                lines.append(f"Arbeitsprodukt: ein kurzer ausformulierter Ergebnisbaustein mit Risiko, Gegenargument und naechstem Handlungsschritt.")
+                lines.append("Arbeitsfeld knapp prüfen: Tatsachenkern, Norm, Frist, Form, Beweis und Gegenargument. Output: Ergebnisbaustein mit Risiko und nächstem Schritt.")
                 lines.append("")
 
     text = "\n".join(lines).strip() + "\n"
+    if len(text.encode("utf-8")) < 12 * 1024 and "## Ausgabeformate für schnelle Lieferung" not in text:
+        text = text.replace(
+            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip(),
+            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip() + "\n\n" + WERKSTATT_ERGONOMY_TEXT.rstrip(),
+            1,
+        )
+    if len(text.encode("utf-8")) < 12 * 1024 and "## Schlusskontrolle für Tempo" not in text:
+        text = text.rstrip() + "\n\n" + WERKSTATT_FINAL_CHECK_TEXT.rstrip() + "\n"
     if profile.oeffnungssatz:
         text = profile.oeffnungssatz + "\n\n" + text
     return sanitize(text)
@@ -348,6 +402,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
         "",
         f"Rolle: {profile.rolle} Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.",
         "",
+    ] + SCHNELLSTART_TEMPO_BLOCK + [
         "## Triage",
         "",
         "1. Wer will welches konkrete Ergebnis von wem.",
@@ -375,7 +430,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
         "",
         "## Stop",
         "",
-        "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lueckenliste aus. Fuer Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
+        "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")

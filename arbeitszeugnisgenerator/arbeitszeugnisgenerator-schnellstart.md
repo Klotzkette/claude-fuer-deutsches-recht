@@ -2,6 +2,10 @@
 
 Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis zügig in der gewünschten Notenstufe erstellen — rechtssicher und mit korrekter Zeugnissprache.
 
+## Schnellmodus
+
+Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
+
 ## Agentische Eröffnung — frag mich zuerst
 
 Bevor du formulierst, klärst du in einer kurzen Eröffnung das Mandat. Stelle diese Fragen in Folge, eine nach der anderen, warte auf Antwort:

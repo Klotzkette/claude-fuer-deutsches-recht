@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Worum es geht
 
 Die Epochenkarte ist das zentrale Orientierungsinstrument für jeden rechtshistorischen Einstieg. Sie gliedert die deutsche Rechtsgeschichte in distinkte Perioden: germanisches Stammesrecht (bis ca. 900), mittelalterliches Recht mit Sachsenspiegel (ca. 1220-1500), Rezeptionsepoche (ca. 1450-1650), Naturrechts- und Vernunftrechtsbewegung (17./18. Jh.), Kodifikationsepoche (ALR 1794, Code Civil 1804, BGB 1900), Kaiserreich (1871-1918), Weimarer Republik (1919-1933), NS-Unrechtsregime (1933-1945), DDR-Parallelsystem (1949-1990) und Bundesrepublik mit EU-Ueberformung.

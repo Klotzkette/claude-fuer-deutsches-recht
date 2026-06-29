@@ -18,6 +18,8 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
 ## Mandantenfall
 Eine Hamburger Reederei ruft an: ihr Bulkcarrier wurde in Rotterdam mit Arrest belegt; der Kapitän sitzt im Schiff; keine Unterlagen vorhanden. Ein Schiffsmakler legt eine Kaufvertragsanfrage über einen gebrauchten Tanker unter Marshallinseln-Flagge vor; Finanzierung ungeklärt. Ein P&I-Korrespondent bittet um Kurzgutachten zum deutschen Gerichtsstand nach Konnossementsklage in Hamburg.
 
