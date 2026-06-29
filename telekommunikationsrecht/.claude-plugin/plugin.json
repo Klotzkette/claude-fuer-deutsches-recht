@@ -1,6 +1,6 @@
 {
   "name": "telekommunikationsrecht",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

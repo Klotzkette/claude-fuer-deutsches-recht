@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-medizinrecht",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Plugin Fachanwalt für Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin fachanwalt-sozialrecht und kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

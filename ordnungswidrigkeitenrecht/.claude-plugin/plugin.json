@@ -1,6 +1,6 @@
 {
   "name": "ordnungswidrigkeitenrecht",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, Behörde, Akteneinsicht, Gericht, Verjährung, Einziehung und Nebenfolgen.",
   "keywords": [
     "ordnungswidrigkeitenrecht",

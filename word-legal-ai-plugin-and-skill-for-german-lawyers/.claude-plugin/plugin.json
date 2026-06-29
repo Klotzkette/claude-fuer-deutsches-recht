@@ -1,6 +1,6 @@
 {
   "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

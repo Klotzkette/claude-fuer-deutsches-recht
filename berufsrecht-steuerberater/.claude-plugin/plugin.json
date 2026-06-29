@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-steuerberater",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -134,6 +134,7 @@ jobs:
           cp dist/testakten-einzelpdfs/alle-testakten-einzelpdfs.zip dist/alle-testakten-einzelpdfs.zip
           cp dist/testakten-einzelpdfs/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip dist/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip
           cp dist/testakten-einzelpdfs/testakte-megaprompts-einzelpdfs.zip dist/testakte-megaprompts-einzelpdfs.zip
+          cp dist/testakten-einzelpdfs/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip dist/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip
           ls -la dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip | head
           ls -lh dist/alle-testakten-einzelpdfs.zip
 

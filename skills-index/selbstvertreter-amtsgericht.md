@@ -1,6 +1,6 @@
 # selbstvertreter-amtsgericht
 
-**89 Skills** · Stand `v400.0.0`
+**89 Skills** · Stand `v400.1.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/selbstvertreter-amtsgericht/README.md)

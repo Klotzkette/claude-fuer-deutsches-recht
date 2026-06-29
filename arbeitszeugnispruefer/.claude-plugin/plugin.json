@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Prueft bestehende deutsche Arbeitszeugnisse Schritt fuer Schritt: Notenstufen, Zufriedenheits- und Verhaltensformeln, Geheimcodes, Auslassungen, Steigerungsadverbien, Schlussformel. Liefert Ampel-Einschaetzung pro Satz, Gesamtnote, Aufforderungsschreiben oder Klagestrategie zur Berichtigung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

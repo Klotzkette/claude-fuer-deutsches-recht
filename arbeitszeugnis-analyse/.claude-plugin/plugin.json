@@ -1,7 +1,7 @@
 {
   "name": "arbeitszeugnis-analyse",
   "displayName": "Arbeitszeugnis-Analyse (Ampelsystem)",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie.",
   "author": {
     "name": "Klotzkette",

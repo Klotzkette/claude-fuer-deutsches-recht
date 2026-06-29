@@ -1,6 +1,6 @@
 {
   "name": "pruefungsrecht-hochschule",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "strassenverkehrsrecht-stvo",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis.",
   "keywords": [
     "strassenverkehrsrecht",

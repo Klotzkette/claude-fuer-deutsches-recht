@@ -1,7 +1,7 @@
 {
   "name": "rechtstheorie-rechtsphilosophie",
   "displayName": "Rechtstheorie und Rechtsphilosophie",
-  "version": "400.0.0",
+  "version": "400.1.0",
   "description": "Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

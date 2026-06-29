@@ -1,6 +1,6 @@
 # aktenaufbereiter-strafrecht
 
-**59 Skills** · Stand `v400.0.0`
+**59 Skills** · Stand `v400.1.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktenaufbereiter-strafrecht/README.md)

@@ -1,3 +1,11 @@
+# v400.1.0 — Einzel-PDF-Download der Elektrorollstuhlakte
+
+- Release-Workflow so ergänzt, dass `testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip` als eigenes Release-Asset veröffentlicht wird.
+- Damit sind für die neue Sozialrechtsakte alle drei Wege direkt verfügbar: Gesamt-PDF im Aktenordner, Akten-ZIP mit Originaldateien und Einzel-PDF-ZIP mit jeder Unterlage als eigener PDF.
+- Marketplace, Plugin-Manifeste, Skill-Index und Asset-Index auf v400.1.0 gezogen.
+
+---
+
 # v400.0.0 — Sozialrechtsakte Elektrorollstuhl und Release-Zählwerte
 
 - Neue zentrale Arbeitsakte `sozialrecht-elektrorollstuhl-koerner-oldenburg` angelegt: Hilfsmittelstreit um einen kompakten Elektrorollstuhl nach Paragraf 33 SGB V mit ärztlicher Überweisung, Hilfsmittelverordnung, Facharztbericht, Eigenschilderung, Wohnumfeldprüfung, Kostenvoranschlag, MD-Stellungnahme, Ablehnungsbescheid, privatem Reha-Gutachten, einfachem Eigenwiderspruch, Widerspruchsbescheid, separatem Klageentwurf, Kassen-Klageerwiderung, gerichtlichem Hinweis, Urteilsvarianten, Fristen-CSV und Hilfsmittelvergleich.

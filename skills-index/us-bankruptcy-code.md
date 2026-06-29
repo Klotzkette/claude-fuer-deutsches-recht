@@ -1,6 +1,6 @@
 # us-bankruptcy-code
 
-**100 Skills** · Stand `v400.0.0`
+**100 Skills** · Stand `v400.1.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/README.md)
