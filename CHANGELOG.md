@@ -1,3 +1,12 @@
+# v400.0.0 — Sozialrechtsakte Elektrorollstuhl und Release-Zählwerte
+
+- Neue zentrale Arbeitsakte `sozialrecht-elektrorollstuhl-koerner-oldenburg` angelegt: Hilfsmittelstreit um einen kompakten Elektrorollstuhl nach Paragraf 33 SGB V mit ärztlicher Überweisung, Hilfsmittelverordnung, Facharztbericht, Eigenschilderung, Wohnumfeldprüfung, Kostenvoranschlag, MD-Stellungnahme, Ablehnungsbescheid, privatem Reha-Gutachten, einfachem Eigenwiderspruch, Widerspruchsbescheid, separatem Klageentwurf, Kassen-Klageerwiderung, gerichtlichem Hinweis, Urteilsvarianten, Fristen-CSV und Hilfsmittelvergleich.
+- Gesamt-PDF für die neue Akte gebaut und in `gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf` eingecheckt.
+- Akten-ZIP und Einzel-PDF-ZIP lokal probeweise gebaut; die Release-Skripte erzeugen `testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip` und `testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip`.
+- Zentrale Testaktenübersicht, Skill-Index, Asset-Index, Marketplace und Plugin-Manifeste auf v400.0.0 gezogen; Repo-Zählwerte stehen jetzt bei 232 Plugins, 26114 Skills und 229 Testakten.
+
+---
+
 # v399.0.0 — Qualitätssweep, Rechtsanker und Startlogik geschärft
 
 - Mindestens 25 Prüfschleifen über Struktur, Importfähigkeit, Prompt-Gliederung, Links, Download-Tags, Testakten, Metadaten, Rechtsanker, Kohärenz und Release-Readiness abgeschlossen.

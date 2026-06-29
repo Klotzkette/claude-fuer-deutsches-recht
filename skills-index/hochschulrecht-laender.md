@@ -1,6 +1,6 @@
 # hochschulrecht-laender
 
-**100 Skills** · Stand `v399.0.0`
+**100 Skills** · Stand `v400.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hochschulrecht-laender/README.md)

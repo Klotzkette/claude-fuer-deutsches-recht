@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-bank-kapitalmarktrecht",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Bürgschaft Aval Bankgarantie Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

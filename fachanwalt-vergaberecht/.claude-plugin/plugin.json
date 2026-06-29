@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-vergaberecht",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Fachanwalt Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte, Vergabeakte, Rüge, vorgerichtliche Abhilfe, Nachprüfungsantrag, Vergabekammer-Sachverhalt, § 168-GWB-Abstellungsanträge, TED/eForms und Wettbewerbsregister.",
   "license": "Apache-2.0 OR MIT",
   "author": {

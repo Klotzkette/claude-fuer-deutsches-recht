@@ -1,6 +1,6 @@
 {
   "name": "berichtspflichten-erlediger",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Berichtspflichten-Erlediger für mittelständische Unternehmen: amtliche Statistik, Portale, Umwelt-, Produkt-, Steuer-, Sozial-, Lieferketten-, Datenschutz- und Aufsichtsmeldungen mit Fristenboard, Datenquellen, Plausibilitätscheck und Behördenkommunikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {

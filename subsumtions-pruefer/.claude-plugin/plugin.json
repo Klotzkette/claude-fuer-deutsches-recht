@@ -1,6 +1,6 @@
 {
   "name": "subsumtions-pruefer",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.",
   "keywords": [
     "subsumtions",

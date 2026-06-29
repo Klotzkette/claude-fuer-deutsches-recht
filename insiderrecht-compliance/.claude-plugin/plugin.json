@@ -1,7 +1,7 @@
 {
   "name": "insiderrecht-compliance",
   "displayName": "Insiderrecht Compliance",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

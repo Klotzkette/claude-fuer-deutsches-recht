@@ -1,6 +1,6 @@
 {
   "name": "datenschutz-sanktionsverfahren-verteidigung",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Spezialplugin für Vertretung und Verteidigung in datenschutzrechtlichen Sanktionsverfahren: DSGVO-Bußgeld, OWiG/StPO, Art.-58-Anordnung, Verwaltungsgericht, Aufsichtsbehördenkommunikation, EuGH/EDPB und Behördenstrategie.",
   "keywords": [
     "datenschutz",

@@ -1,6 +1,6 @@
 # nachbarschaftsstreit-pruefer
 
-**59 Skills** · Stand `v399.0.0`
+**59 Skills** · Stand `v400.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nachbarschaftsstreit-pruefer/README.md)

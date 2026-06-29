@@ -1,6 +1,6 @@
 {
   "name": "krankenkassenrecht-krankenversicherung",
-  "version": "399.0.0",
+  "version": "400.0.0",
   "description": "Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung.",
   "keywords": [
     "krankenkassenrecht",
