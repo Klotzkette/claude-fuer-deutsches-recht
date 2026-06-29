@@ -3,19 +3,18 @@ name: kaltstart-triage
 description: "Einstieg, Schnelltriage und Fallrouting im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quellenlage und Wunsch-Output ab, schlägt passende Fachmodule aus"
 ---
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kaltstart Triage** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde fuer **Zitierweise Deutsches Recht** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Regelungs- und Quellenanker
 
@@ -69,7 +68,7 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 
 ### 1. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|

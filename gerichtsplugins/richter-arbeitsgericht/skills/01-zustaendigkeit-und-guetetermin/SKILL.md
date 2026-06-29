@@ -5,6 +5,19 @@ description: "Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkei
 
 # 01 Zuständigkeit und Guetetermin
 
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
 ## Zweck
 
 Sachliche Zuständigkeit Paragraf 2 ArbGG, örtliche Zuständigkeit Paragraf 48 ArbGG i.V.m. Paragrafen 12 ff. ZPO, Klagezustellung, Anberaumung Guetetermin Paragraf 54 ArbGG

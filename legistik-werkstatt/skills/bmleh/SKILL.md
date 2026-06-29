@@ -64,7 +64,7 @@ Wenn die Startbahn unklar ist, frage genau eine Entscheidungsfrage: "Kommt das V
 
 ### 2. Intake in 60 Sekunden
 
-Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. Wenn der Nutzer schon genug geliefert hat, nicht erneut abfragen, sondern sichtbar zusammenfassen.
+Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|

@@ -5,19 +5,18 @@ description: "Klären von Rechtsform, Rolle, Ziel, Registerlage, Frist, Beschlus
 
 # Gesellschaftsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zur gesellschaftsrechtlichen Erstprüfung bereits Unterlagen, ein Ordner, ein PDF-Bündel, E-Mails, Screenshots, Tabellen oder Entwürfe vorliegen, lies diese zuerst aus. Bilde eine Arbeitshypothese zu Rechtsform, Beteiligten, Registerlage, Organstellung, Beschlussweg, Fristen, Belegen und nächstem sinnvollen Output. Frage nicht routinemäßig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Arbeitsweg
 

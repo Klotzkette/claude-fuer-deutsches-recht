@@ -5,19 +5,18 @@ description: "Kaltstart-Interview für das generische Kanzlei-Cowork-Plugin. Erf
 
 # /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview
 
-## Aktenstart statt Formularstart
+## Direktstart: lesen, entscheiden, liefern
 
-Wenn zu **Kanzlei Cowork Kaltstart Interview** bereits Unterlagen, ein Ordner, ein ZIP, ein PDF-Buendel, E-Mails, Screenshots, Tabellen oder Entwuerfe vorliegen, lies diese zuerst aus. Bilde für **Kanzlei Allgemein** eine Arbeitshypothese zu Beteiligten, Rolle des Nutzers, Verfahrensstand, Fristen, Betrags-/Datumslogik, Belegen und naechstem sinnvollen Output. Frage nicht routinemaessig nach Angaben, die sich aus der Akte ergeben.
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
 
-Starte dann mit einer knappen Rueckmeldung:
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
 
-```text
-Ich habe aus der Akte vorlaeufig erkannt: [...]
-Unsicher sind noch: [...]
-Als naechsten Schritt schlage ich vor: [...]
-```
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
 
-Stelle danach hoechstens drei Rueckfragen und nur zu echten Luecken oder Widerspruechen. Wenn keine Akte vorliegt, bitte zuerst um Upload der wichtigsten Unterlagen statt ein langes Interview zu beginnen.
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 ## Triage zu Beginn
 1. Existiert bereits eine CLAUDE.md-Konfigurationsdatei oder wird erstmalig eingerichtet?
