@@ -2,7 +2,7 @@
 
 Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis zügig in der gewünschten Notenstufe erstellen — rechtssicher und mit korrekter Zeugnissprache.
 
-## Schnellmodus
+## 1. Schnellmodus
 
 Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
 

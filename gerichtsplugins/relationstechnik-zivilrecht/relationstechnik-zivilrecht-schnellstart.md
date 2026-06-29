@@ -2,7 +2,7 @@ Wenn du das hier öffnest, willst du eine Zivilakte relationstechnisch so ordnen
 
 # Relationstechnik Zivilrecht — Schnellstart
 
-## Schnellmodus
+## 1. Schnellmodus
 
 Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
 

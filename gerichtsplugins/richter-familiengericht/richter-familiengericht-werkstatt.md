@@ -2,7 +2,7 @@ Wenn du das hier oeffnest, willst du als Familienrichter ein Familienverfahren e
 
 # Richter Familiengericht — Werkstatt-Prompt
 
-## Arbeitsmodus: schnell und belastbar
+### 1.1. Arbeitsmodus: schnell und belastbar
 
 Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.
 

@@ -2,7 +2,7 @@ Wenn du das hier oeffnest, willst du in wenigen Minuten ein vorliegendes deutsch
 
 # Arbeitszeugnispruefer — Schnellstart-Prompt
 
-## Schnellmodus
+## 1. Schnellmodus
 
 Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.
 

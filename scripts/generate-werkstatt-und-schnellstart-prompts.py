@@ -22,7 +22,7 @@ from themen_profile import profile_for, ThemenProfil
 REPO = Path(__file__).resolve().parent.parent
 MAX_FAST = 7500
 WERKSTATT_TEMPO_BLOCK = [
-    "## Arbeitsmodus: schnell und belastbar",
+    "### 1.1. Arbeitsmodus: schnell und belastbar",
     "",
     "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
     "",
@@ -30,12 +30,12 @@ WERKSTATT_TEMPO_BLOCK = [
     "",
 ]
 SCHNELLSTART_TEMPO_BLOCK = [
-    "## Schnellmodus",
+    "## 1. Schnellmodus",
     "",
     "Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.",
     "",
 ]
-WERKSTATT_ERGONOMY_TEXT = """## Ausgabeformate für schnelle Lieferung
+WERKSTATT_ERGONOMY_TEXT = """### 1.2. Ausgabeformate für schnelle Lieferung
 
 | Bedarf | Sofortausgabe | Qualitätsgriff |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ WERKSTATT_ERGONOMY_TEXT = """## Ausgabeformate für schnelle Lieferung
 | Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
 | Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
 
-## Rückfragenbremse
+### 1.3. Rückfragenbremse
 
 1. Wenn ein Dokument vorliegt, zuerst lesen und verwerten, nicht nacherzählen lassen.
 2. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
@@ -54,7 +54,7 @@ WERKSTATT_ERGONOMY_TEXT = """## Ausgabeformate für schnelle Lieferung
 4. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
 5. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
 
-## Mini-Gerüste
+### 1.4. Mini-Gerüste
 
 - Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
 - Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
@@ -62,9 +62,7 @@ WERKSTATT_ERGONOMY_TEXT = """## Ausgabeformate für schnelle Lieferung
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 """
-WERKSTATT_FINAL_CHECK_TEXT = """## Schlusskontrolle für Tempo
-
-- Erstes Ergebnis steht oben, nicht am Ende versteckt.
+WERKSTATT_FINAL_CHECK_LINES = """- Erstes Ergebnis steht oben, nicht am Ende versteckt.
 - Jede offene Tatsache ist als Nachforderung formuliert.
 - Jede Rechtsfrage hat mindestens einen Normanker.
 - Das nächste Dokument oder die nächste Handlung ist benannt.
@@ -137,6 +135,20 @@ def plugin_dirs() -> list[Path]:
     for plugin_json in (REPO / "gerichtsplugins").glob("*/.claude-plugin/plugin.json"):
         dirs.append(plugin_json.parent.parent)
     return sorted(set(dirs), key=lambda p: p.as_posix())
+
+
+def next_top_level_number(text: str) -> int:
+    numbers = []
+    for line in text.splitlines():
+        match = re.match(r"##\s+(\d+)\.\s+", line)
+        if match:
+            numbers.append(int(match.group(1)))
+    return max(numbers, default=0) + 1
+
+
+def werkstatt_final_check_block(text: str) -> str:
+    number = next_top_level_number(text)
+    return f"## {number}. Schlusskontrolle für Tempo\n\n{WERKSTATT_FINAL_CHECK_LINES.rstrip()}\n"
 
 
 def frontmatter_description(text: str) -> str:
@@ -376,14 +388,14 @@ def build_werkstatt(plugin_dir: Path) -> str:
                 lines.append("")
 
     text = "\n".join(lines).strip() + "\n"
-    if len(text.encode("utf-8")) < 12 * 1024 and "## Ausgabeformate für schnelle Lieferung" not in text:
+    if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
         text = text.replace(
             "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip(),
             "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip() + "\n\n" + WERKSTATT_ERGONOMY_TEXT.rstrip(),
             1,
         )
-    if len(text.encode("utf-8")) < 12 * 1024 and "## Schlusskontrolle für Tempo" not in text:
-        text = text.rstrip() + "\n\n" + WERKSTATT_FINAL_CHECK_TEXT.rstrip() + "\n"
+    if len(text.encode("utf-8")) < 12 * 1024 and "Schlusskontrolle für Tempo" not in text:
+        text = text.rstrip() + "\n\n" + werkstatt_final_check_block(text).rstrip() + "\n"
     if profile.oeffnungssatz:
         text = profile.oeffnungssatz + "\n\n" + text
     return sanitize(text)
@@ -403,32 +415,32 @@ def build_schnellstart(plugin_dir: Path) -> str:
         f"Rolle: {profile.rolle} Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.",
         "",
     ] + SCHNELLSTART_TEMPO_BLOCK + [
-        "## Triage",
+        "## 2. Triage",
         "",
         "1. Wer will welches konkrete Ergebnis von wem.",
         "2. Welche Frist, Form, Zuständigkeit oder Verfahrenslage kann sofort kippen.",
         "3. Welche Unterlagen liegen vor und welche Tatsache belegt jedes Dokument.",
         "4. Welche Ausgabe wird benoetigt: Memo, Schriftsatz, Vertrag, Tabelle, Beschluss oder Checkliste.",
         "",
-        "## Kurzweg",
+        "## 3. Kurzweg",
         "",
     ]
     if profile.oeffnungssatz:
         lines = [profile.oeffnungssatz, ""] + lines
     for idx, station in enumerate(stations, 1):
         lines.append(f"{idx}. {clean(station, 180)}")
-    lines += ["", "## Anker", ""]
+    lines += ["", "## 4. Anker", ""]
     for item in profile.normen[:5]:
         lines.append(f"- {item}")
     for item in profile.entscheidungen[:3]:
         lines.append(f"- {item}")
     lines += [
         "",
-        "## Antwortform",
+        "## 5. Antwortform",
         "",
         "Lagebild: drei bis sieben Saetze. Pruefung: Tatbestandsmerkmale mit Belegen. Ergebnis: klare Empfehlung. Anschluss: Frist, fehlender Beleg, naechstes Dokument. Quellen: nur tragende Normen und Entscheidungen.",
         "",
-        "## Stop",
+        "## 6. Stop",
         "",
         "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
@@ -437,12 +449,12 @@ def build_schnellstart(plugin_dir: Path) -> str:
     if len(text) <= MAX_FAST:
         return text
     # Hard compact if needed.
-    parts = text.split("\n## Anker\n")
+    parts = re.split(r"\n## (?:4\.\s+)?Anker\n", text, maxsplit=1)
     if len(parts) == 2:
         head, rest = parts
-        anchor, tail = rest.split("\n## Antwortform\n", 1)
+        anchor, tail = re.split(r"\n## (?:5\.\s+)?Antwortform\n", rest, maxsplit=1)
         anchor_lines = [l for l in anchor.splitlines() if l.strip()][:5]
-        text = head.rstrip() + "\n\n## Anker\n\n" + "\n".join(anchor_lines) + "\n\n## Antwortform\n" + tail
+        text = head.rstrip() + "\n\n## 4. Anker\n\n" + "\n".join(anchor_lines) + "\n\n## 5. Antwortform\n" + tail
     if len(text) > MAX_FAST:
         text = text[: MAX_FAST - 2].rstrip() + "\n"
     return text
