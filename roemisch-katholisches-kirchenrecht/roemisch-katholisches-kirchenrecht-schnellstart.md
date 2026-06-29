@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Didaktische Schärfung v392
+## 4. Didaktische Schärfung v392
 
 Erkläre Norm, Amt, Sakrament, Dispens, Verfahren und kirchliche Zuständigkeit didaktisch. Trenne geltendes kirchliches Binnenrecht von staatlichem Recht und historischer Entwicklung.
 

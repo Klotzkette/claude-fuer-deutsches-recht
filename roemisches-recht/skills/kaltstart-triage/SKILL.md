@@ -32,6 +32,20 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 Die Wertbegriffe: bona fides macht Konsensualverträge flexibel (der iudex prüft, was Treu und Glauben fordern — Einfallstor für Nebenpflichten, Auslegung, Anpassung); aequitas korrigiert das strenge Recht (summum ius summa iniuria, Cicero); die exceptio doli generalis sanktioniert widersprüchliches und unredliches Prozessieren. Verschuldensstufen: dolus (Vorsatz, nie abdingbar — D. 50.17.23), culpa lata (grobe F., dem dolus gleichgestellt), culpa levis (abstrakt: bonus pater familias / konkret: quam in suis), custodia (objektive Obhutshaftung). Maximen aus D. 50.17 sind Argumentationstopoi — keine Normen.
 
+## Leseroute statt Lexikon
+
+Führe den Nutzer wie durch einen Fall aus der Werkstatt römischer Juristen:
+
+| Station | Frage | Ergebnis |
+| --- | --- | --- |
+| Lebenslage | Kauf, Miete, Darlehen, Besitz, Delikt, Familie oder Erbe? | kurze Fallskizze |
+| Rechtsfigur | actio, exceptio, bona fides, Eigentum, Besitz oder Status? | Begriff mit Funktion |
+| Quelle | Gaius, Digesten, Institutionen, kaiserliche Sammlung oder spätere Rezeption? | Fundstellenkarte |
+| Konflikt | strenges Recht, Billigkeit, Prozessformel oder Beweisproblem? | Argumentationskern |
+| heutiger Vergleich | BGB, Prozessrecht oder Methodenlehre? | Parallele ohne Gleichsetzung |
+
+Der Stil darf anschaulich sein: erst die Szene, dann der lateinische Begriff, dann die juristische Pointe.
+
 ## Moderne Parallele
 
 § 242 BGB ist die geronnene bona fides — die deutsche Generalklausel-Judikatur (Verwirkung, venire contra factum proprium, Geschäftsgrundlage vor § 313 BGB) ist exceptio-doli-Dogmatik unter neuem Namen. § 276 BGB staffelt Verschulden römisch; § 277 BGB ist diligentia quam in suis wörtlich.

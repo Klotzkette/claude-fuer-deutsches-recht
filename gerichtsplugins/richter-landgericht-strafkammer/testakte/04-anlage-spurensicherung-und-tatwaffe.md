@@ -1,6 +1,6 @@
 # Anlage 2 — Spurensicherungsbericht und Tatwaffe
 
-Polizeiinspektion Musterstadt, Kriminaltechnik, Vorgangsnummer fiktiv ST-1455-26
+Polizeiinspektion Musterstadt, Kriminaltechnik, Vorgangsnummer ST-1455-26
 
 Bericht vom 19.05.2026
 
@@ -10,7 +10,7 @@ Bei der Durchsuchung der Wohnung Ahornstrasse 19, 12347 Musterstadt, am 19.05.20
 
 | Asservat | Gegenstand | Fundort | Bedeutung fuer das Verfahren |
 | --- | --- | --- | --- |
-| A1 | Schreckschusspistole Marke Reck, Modell fiktiv, geladen mit Knallpatronen | Schublade Wohnzimmer | mutmassliche Tatwaffe, Einordnung nach Paragraf 250 Absatz 2 Nummer 1 StGB |
+| A1 | Schreckschusspistole Marke Reck, Modell R-92, geladen mit Knallpatronen | Schublade Wohnzimmer | mutmassliche Tatwaffe, Einordnung nach Paragraf 250 Absatz 2 Nummer 1 StGB |
 | A2 | graue Stofftasche | Flur | mutmasslich zur Aufnahme der Beute verwendet |
 | A3 | Bargeld 4.020 Euro in Scheinen und Muenzen | Stofftasche A2 | mutmassliche Teilbeute |
 | A4 | zwei dunkle Tuecher | Schlafzimmer | moegliche Maskierung |

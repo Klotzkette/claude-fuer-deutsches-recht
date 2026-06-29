@@ -60,7 +60,7 @@ Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-
 - Paragraf 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
 - Paragraf 173 ZPO n.F. – elektronische Zustellung an Drittschuldner
 - Paragraf 829 Absatz 5 ZPO n.F. – XML-Antrag PfÜB
-- Paragraf 840 ZPO – Drittschuldnererklärung (zusätzlich Postzustellung möglich)
+- Paragraf 840 ZPO – Aufforderung zur Drittschuldnererklärung und Rücklaufkontrolle
 - Paragraf 802a Absatz 2 ZPO – Gerichtsvollzieher-Aufträge
 - ERV-Verordnungen ERVV und ERVB
 
@@ -80,9 +80,9 @@ Ab 1.6.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Üb
 
 Folge: Der Gerichtsvollzieher kann PfÜB an Banken regelmäßig elektronisch zustellen. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.6.2027 dürfen Banken freiwillig elektronisch annehmen; die konkrete Empfangsbereitschaft bleibt im Übergang zu prüfen.
 
-### 3. § 840 ZPO Drittschuldnererklärung – Postzustellung erlaubt
+### 3. Drittschuldnererklärung nach Paragraf 840 ZPO – Aufforderung und Rücklauf
 
-Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per Post übermittelt werden. Erleichterung vor allem für Banken, die parallel den eBO-Empfang aufbauen müssen.
+Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbeschluss übermittelt. Für die Praxis zählt nicht nur der elektronische Eingang beim Kreditinstitut, sondern auch ein eindeutiger Zustellungsnachweis, weil daran Frist, Moratorium, Auskehrung und Wiedervorlage hängen. Bis zur stabilen elektronischen Routine bleibt zu dokumentieren, ob Rücklauf elektronisch, postalisch oder über ein bankinternes Portal erfolgt.
 
 ## Für die Praxis bis 1.6.2027
 
@@ -91,7 +91,7 @@ Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per P
 3. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
 4. **Bestandsaufnahme Banken**: Liste der Drittschuldner mit sicheren Übermittlungswegen pflegen.
 5. **Gerichtsvollzieherroute abstimmen**: Zustellungsweg und Zustellnachweis vor Fristmandaten konkret klären.
-6. **Doppelte Wege vermeiden**: nicht parallel Papier UND eBO – Zustellungszeitpunkt ist sonst streitbefangen.
+6. **Doppelte Wege vermeiden**: nicht ohne Grund parallel Papier und eBO nutzen; wenn ein Parallelweg ausnahmsweise nötig ist, den führenden Zustellungsweg und den maßgeblichen Zustellungsnachweis ausdrücklich festlegen.
 
 ## Was bleibt analog
 
@@ -109,7 +109,7 @@ Die Drittschuldnererklärung darf zusätzlich zur elektronischen Form auch per P
 ## Qualitätsgates
 
 - BGBl.-Fassung und spätere Formular-/Verordnungsänderungen bei jeder Beratung neu verifizieren.
-- Niemals parallel Papier und elektronisch – Zustellungszeitpunkt eindeutig halten.
+- Niemals unklar parallel Papier und elektronisch zustellen lassen – Zustellungszeitpunkt eindeutig halten.
 - XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
 - Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.

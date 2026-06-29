@@ -5,7 +5,7 @@ Auto Riffel GmbH, Industriestrasse 7, 12345 Musterstadt
 Rechnung Nummer R-2026-0488 vom 24.03.2026
 
 Kundin: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt
-Fahrzeug: VW Golf, amtliches Kennzeichen MU-SA 412, Fahrgestellnummer fiktiv WVW0000000000000
+Fahrzeug: VW Golf, amtliches Kennzeichen MU-SA 412, Fahrgestellnummer WVWZZZ1KZ6W412389
 
 | Position | Leistung | Betrag in Euro |
 | --- | --- | --- |

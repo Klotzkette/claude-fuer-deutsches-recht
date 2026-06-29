@@ -152,10 +152,10 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt] nachvollziehbar, transparent und angemessen zurechenbar ist.
 - Heilungsvermerk: Der Fehler kann nur über ein ergänzendes Verfahren repariert werden, wenn die Gemeinde das fehlende Abwägungsmaterial ermittelt, bewertet und erneut beschließt.
 
-## Kompakte Arbeitsfeldübersicht
+## 11. Kompakte Arbeitsfeldübersicht
 
 Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
 
-## Schlusskontrolle
+## 12. Schlusskontrolle
 
 Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.

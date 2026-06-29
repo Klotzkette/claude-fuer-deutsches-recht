@@ -16,6 +16,10 @@ description: "Spezialfall Stabilisierungsanordnung §§ 49 ff. StaRUG: Verwertun
 ## Spezialwissen: KFE: Stabilisierungsanordnung
 - **Normen-/Quellenanker:** StaRUG, KFE, BGH, BVerfG.
 
+## Praxisziel
+
+Die Stabilisierungsanordnung ist kein allgemeiner Moratoriumswunsch. Sie muss zeigen, welche Verwertung, Vollstreckung oder Vertragsreaktion für welchen Gläubiger oder welche Gläubigergruppe vorübergehend gesperrt werden soll und warum diese Sperre für einen tragfähigen Restrukturierungsplan erforderlich, geeignet und verhältnismäßig ist.
+
 ## Fallweichen
 Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
@@ -33,6 +37,27 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
 3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Stabilisierungs-Matrix
+
+| Feld | Antragsteller muss liefern | Gegenprüfung betroffener Gläubiger |
+| --- | --- | --- |
+| Krisenstadium | drohende Zahlungsunfähigkeit und Restrukturierungsfähigkeit | schon zahlungsunfähig oder offensichtlich aussichtslos |
+| Planbezug | Planentwurf, Planreichweite, Gruppen, Abstimmungsweg | Sperre ohne belastbaren Planfortschritt |
+| Sperrenumfang | konkret betroffene Vollstreckung, Verwertung, Sicherheiten oder Leistungsschutzrechte | Überdehnung auf nicht planbetroffene Forderungen |
+| Erforderlichkeit | Warum mildere Mittel, Stundung oder bilaterale Standstill-Vereinbarung nicht reichen | selektiver Druck auf einzelne Gläubiger |
+| Finanzierung | Liquiditätsvorschau während der Sperre, Neuverbindlichkeiten, Fortführungsbudget | Sperre verschiebt nur die Antragspflicht |
+| Gläubigerschutz | Ausnahmen, Sicherheitsleistung, Berichtspflichten, Laufzeit und Verlängerung | unverhältnismäßige Belastung, Wertverlust, Sicherheitenverschlechterung |
+
+## Output-Zwang
+
+Erzeuge am Ende entweder:
+
+1. einen Antragsskelett-Abschnitt mit Tenorvorschlag, betroffenen Gläubigern, Sperreninhalt, Begründung und Anlagenliste,
+2. eine Gegenstellungnahme mit Aufhebungs- oder Beschränkungsargumenten,
+3. oder eine Verhandlungsliste für Standstill, Stundung, Sicherheitenstillhalten und Planfahrplan.
+
+Wenn Zahlungsunfähigkeit nicht sicher ausgeschlossen ist, wird vor jeder Stabilisierungsstrategie eine rote Antragspflicht-Zeile eingefügt: Liquiditätsstatus, Drei-Wochen-Fenster, Organbeschluss und Beratervermerk.
 
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.

@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Fachliche Schärfung v392
+## 4. Fachliche Schärfung v392
 
 Arbeite im Datenschutzrecht in vier Spuren: Betroffenenrechte, Auftragsverarbeitung, Datenpanne und Aufsichtsverfahren. Verwende die Begriffe Datenschutz-Grundverordnung und Bundesdatenschutzgesetz ausgeschrieben. Vermeide Querbezüge zu anderen Regulierungsmaterien innerhalb dieses Plugins.
 

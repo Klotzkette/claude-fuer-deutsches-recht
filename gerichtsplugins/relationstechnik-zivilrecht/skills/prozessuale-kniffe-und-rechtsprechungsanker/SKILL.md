@@ -25,6 +25,19 @@ Nutze diesen Skill, wenn die Relation nicht nur examensmäßig, sondern gerichts
 | Beweisstation | welche Tatsache ist beweisbedürftig und wer trägt die Last? | Beweisfrage im Obersatz zuschneiden | Ausforschung |
 | Entscheidungsstation | ist Urteil, Hinweis, Beweisbeschluss oder Vergleichstermin dran? | Tenor aus Ergebnis ableiten | Tenor trägt Gründe nicht |
 
+## Entscheidungsreife-Kontrolle
+
+Arbeite jede Relation mit einer Vier-Felder-Ausgabe ab:
+
+| Feld | Frage | Ergebnisform |
+| --- | --- | --- |
+| Sofort entscheidbar | Ist der entscheidende Vortrag unstreitig oder rechtlich unerheblich? | Tenor- oder Beschlussvorschlag |
+| Hinweisbedürftig | Fehlt reparabler Vortrag oder droht Überraschung? | konkreter Paragraf-139-Hinweis mit Frist |
+| Beweisbedürftig | Ist eine erhebliche Tatsache streitig und beweiszugänglich? | Beweisbeschluss mit Beweisthema und Beweislast |
+| Vergleichsgeeignet | Liegt das Risiko weniger im Recht als im Beweis oder in Kosten/Nebenfolgen? | Vergleichskorridor mit Mindestinhalt |
+
+Non liquet wird nicht versteckt: Wenn eine erhebliche Tatsache nach Beweisaufnahme offen bleibt, entscheidet die Beweislast. Der Relationsbaustein nennt dann ausdrücklich, welches Tatbestandsmerkmal offen geblieben ist, wer die Last trägt und welche Rechtsfolge daraus folgt.
+
 ## Arbeitsmodus
 
 1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.

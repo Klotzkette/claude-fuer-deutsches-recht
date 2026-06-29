@@ -1,6 +1,6 @@
 # Anlage 4 — Auswertung der Tankstellenkamera (Beschreibung)
 
-Polizeiinspektion Musterstadt, Kriminaltechnik, Vorgangsnummer fiktiv ST-1455-26
+Polizeiinspektion Musterstadt, Kriminaltechnik, Vorgangsnummer ST-1455-26
 
 Die Aufzeichnung liegt als Videodatei im Original vor; hier die textliche Auswertung fuer die Akte. Aufnahmezeitraum 18.05.2026, 21.38 Uhr bis 21.43 Uhr.
 

@@ -1,6 +1,6 @@
 # Stellungnahme der Landesregierung
 
-Justizministerium des Landes, Verfassungsprozessuale Angelegenheiten, Aktenzeichen fiktiv JM-VB-0042-26
+Justizministerium des Landes, Verfassungsprozessuale Angelegenheiten, Aktenzeichen JM-VB-0042-26
 
 An das Bundesverfassungsgericht, Erster Senat, 3. Kammer, zum Verfahren 1 BvR 2317/26
 

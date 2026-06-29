@@ -4,7 +4,7 @@ Finanzamt Musterstadt, Steueramtsstrasse 1, 12345 Musterstadt
 
 Bescheid fuer 2023 ueber Einkommensteuer und Solidaritaetszuschlag vom 14.11.2025
 
-Steuerpflichtige: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt, Steuernummer fiktiv 12/345/67890.
+Steuerpflichtige: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt, Steuernummer 12/345/67890.
 
 Der Bescheid aendert den vorangegangenen Bescheid vom 30.06.2024 nach Paragraf 164 Absatz 2 AO; der Vorbehalt der Nachpruefung wird aufgehoben.
 

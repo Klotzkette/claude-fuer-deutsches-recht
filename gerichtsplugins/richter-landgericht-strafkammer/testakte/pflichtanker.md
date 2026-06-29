@@ -22,4 +22,4 @@ Materielles Recht:
 
 ## Live-Verifikationspflicht
 
-Saemtliche Aktenzeichen und Kernsaetze sind vor produktiver Verwendung an amtlicher oder frei zugaenglicher Quelle (Rechtsprechung im Internet des Bundes, openJur, dejure) im Wortlaut zu pruefen. Wo oben staendige Rechtsprechung genannt ist, ist eine konkrete, einzeln belegte Entscheidung zu ergaenzen. Die in dieser Akte verwendeten Aktenzeichen, Namen und Anschriften sind fiktiv.
+Saemtliche Aktenzeichen und Kernsaetze sind vor produktiver Verwendung an amtlicher oder frei zugaenglicher Quelle (Rechtsprechung im Internet des Bundes, openJur, dejure) im Wortlaut zu pruefen. Wo oben staendige Rechtsprechung genannt ist, ist eine konkrete, einzeln belegte Entscheidung zu ergaenzen. Diese Arbeitsakte enthaelt die zur Bearbeitung erforderlichen Rollen, Anschriften und Aktenzeichen.

@@ -33,8 +33,9 @@ Nutze diesen Skill, wenn eine W&I-Versicherung in den Deal einbezogen wird und d
 
 ## Rechtsprechungs- und Normanker
 
-- Paragraf 69 und Paragraf 70 VVG: gesetzliche Vollmacht und Kenntnis des Versicherungsvertreters; bei Broker-, Makler- und Deal-Team-Wissen zusätzlich Vertreterstellung, Knowledge-Definition und Disclosure Letter getrennt prüfen.
-- Paragraf 19 VVG: vorvertragliche Anzeigeobliegenheit als Leitplanke für saubere Underwriting-Antworten.
+- Paragraf 166 BGB: Wissenszurechnung über Vertreterstellung als Kernanker für Deal-Team-, Organ- und Beraterwissen; Knowledge-Definition im SPA, Disclosure Letter und Policy-Exclusions immer getrennt auswerten.
+- Paragraf 69 und Paragraf 70 VVG nur prüfen, wenn es wirklich um einen Versicherungsvertreter geht. Broker-, Makler- und Underwriter-Kommunikation nicht ohne saubere Rollenprüfung darunter ziehen.
+- Paragraf 19 VVG: vorvertragliche Anzeigeobliegenheit als Leitplanke für vollständige, aber nicht unnötig risikovergrößernde Underwriting-Antworten.
 - Paragraf 133 und 157 BGB: Auslegung von SPA- und Police-Begriffen im Zusammenspiel.
 - BGH, 21.04.1997 - II ZR 175/95: dokumentierte Informationsgrundlage für Deal-Entscheidungen.
 

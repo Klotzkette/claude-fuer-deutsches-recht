@@ -1,6 +1,6 @@
 # Anlage K 2 — Unfallmeldung der Polizei
 
-Polizeiinspektion Musterstadt, Vorgangsnummer fiktiv ST-0815-26
+Polizeiinspektion Musterstadt, Vorgangsnummer ST-0815-26
 
 Unfallaufnahme vom 15.03.2026, 8.35 Uhr
 

@@ -30,6 +30,19 @@ Im Gegensatz zur **internen** und zur **weichen** Patronatserklärung ist sie:
 - **Bonität** des Patrons (er muss leistungsfähig sein — Bonitätsnachweis erforderlich).
 - **Insolvenzfeste Klausel**: der Patron verzichtet darauf seine Forderung gegen die Gesellschaft im Insolvenzfall geltend zu machen.
 - **Unwiderruflichkeit** während der Laufzeit der Prognose.
+- **Abrufmechanik**: Zahlungsfrist, Konto, Zeichnungsberechtigung, Form des Abrufs und Verzicht auf Gremien-, Finanzierungs- oder Due-Diligence-Vorbehalte sind konkret geregelt.
+
+## Statusfähigkeit in der Krise
+
+Eine Patronatserklärung wird nicht deshalb statusfähig, weil sie hart klingt. Für die Liquiditätsplanung der Gesellschaft zählt nur, ob die Gesellschaft selbst einen rechtzeitig fälligen und durchsetzbaren Anspruch auf Mittelzufluss hat oder ob eine externe Erklärung den Mittelzufluss sonst verlässlich absichert. Prüfe deshalb immer:
+
+| Prüfpunkt | Statusfähig | Nicht statusfähig |
+| --- | --- | --- |
+| Anspruchsinhaber | Gesellschaft selbst oder klarer Drittbegünstigter mit Durchgriff | nur allgemeine Konzernunterstützung |
+| Betrag | Höchstbetrag oder Berechnungsformel deckt Liquiditätslücke | "ausreichende Mittel" ohne Budget |
+| Abruf | auf erstes schriftliches Anfordern, kurze Zahlungsfrist | Gremienvorbehalt, Finanzierungsvorbehalt, freie Entscheidung des Patrons |
+| Bonität | aktueller Nachweis, freie Linie, keine Covenant-Sperre | Patron selbst krisenbefangen oder Transfer nicht gesichert |
+| Laufzeit | mindestens Prognosezeitraum plus Sicherheitsrand | Kündigung vor kritischer Fälligkeit möglich |
 
 ## Mustervorlage
 
@@ -54,7 +67,7 @@ und
 1. Praeambel
 
 Die Gesellschaft befindet sich in einer wirtschaftlich angespannten Lage.
-Die Geschäftsführung hat eine Fortbestehensprognose nach § 19 Abs. 2 InsO
+Die Geschäftsführung hat eine Fortbestehensprognose nach Paragraf 19 Absatz 2 InsO
 erstellt aus der sich ergibt dass die Gesellschaft für die nächsten zwölf
 Monate eine überwiegende Wahrscheinlichkeit zur Fortfuehrung nur unter
 Inanspruchnahme dieser Patronatserklärung aufweist.
@@ -73,8 +86,8 @@ sind soweit diese aus eigenen Mitteln nicht aufgebracht werden können.
  [Betrag in EUR] EUR (in Worten ___________________)
 
 2.3 Die Verpflichtung gilt für den Zeitraum vom [Beginn] bis zum [Ende].
-Die Mindestlaufzeit betraegt zwölf Monate ab Unterzeichnung; sie verlängert
-sich automatisch um jeweils sechs Monate sofern nicht spaetestens drei Monate
+Die Mindestlaufzeit beträgt zwölf Monate ab Unterzeichnung; sie verlängert
+sich automatisch um jeweils sechs Monate sofern nicht spätestens drei Monate
 vor Ablauf schriftlich gekündigt wird.
 
 3. Insolvenzfestigkeit
@@ -84,15 +97,15 @@ aus der Erfüllung dieser Patronatserklärung zustehen sollten im Fall einer
 Insolvenz der Gesellschaft als Insolvenzforderung anzumelden.
 
 3.2 Der Patron erklärt hilfsweise dass solche Forderungen — sollten sie
-entstehen — den Forderungen aller anderen Gläubiger der Gesellschaft im
-Range nachgehen (qualifizierter Rangrücktritt im Sinne von § 19 Abs. 2 S. 2
+entstehen — im Rang hinter die Forderungen aller anderen Gläubiger der Gesellschaft
+zurücktreten (qualifizierter Rangrücktritt im Sinne von Paragraf 19 Absatz 2 Satz 2
 InsO).
 
 3.3 Diese Verzichtserklärung ist unwiderruflich.
 
 4. Bonitätsnachweis
 
-Der Patron weist seine Leistungsfähigkeit durch folgende beigefuegte
+Der Patron weist seine Leistungsfähigkeit durch folgende beigefügte
 Unterlagen nach:
 
  - Aktueller Vermögensstatus zum [Datum]
@@ -167,7 +180,7 @@ Eine weiche Patronatserklärung oder ein Comfort Letter genügt für die Berück
 
 ## Paragrafenkette Patronatserklaerung
 
-§ 19 Abs. 2 InsO (Fortbestehensprognose — externe Unternehmenssiherung) → § 311 BGB (Schuldrechtlicher Vertrag Patronatserklaerung) → § 241 Abs. 2 BGB (Schutzpflichten) → § 765 BGB analog (Buergschaft-Aspekte)
+Paragraf 19 Absatz 2 InsO (Fortbestehensprognose — externe Unternehmenssicherung) -> Paragraf 311 BGB (schuldrechtlicher Vertrag Patronatserklaerung) -> Paragraf 241 Absatz 2 BGB (Schutzpflichten) -> Paragraf 765 BGB analog (buergschaftsnahe Aspekte)
 
 ## Triage — Patronatserklaerung-Prüfung
 

@@ -1,6 +1,6 @@
 # Anlage A 1 — Vernehmungsprotokoll des Zeugen Gerold Pohl
 
-Polizeiinspektion Musterstadt, Vorgangsnummer fiktiv ST-1142-26
+Polizeiinspektion Musterstadt, Vorgangsnummer ST-1142-26
 
 Zeugenvernehmung vom 13.04.2026, 9.15 Uhr, vernehmende Beamtin Kriminalkommissarin Frauke Doll
 

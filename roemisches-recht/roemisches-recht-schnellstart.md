@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Didaktische Schärfung v392
+## 4. Didaktische Schärfung v392
 
 Erkläre Institute wie actio, exceptio, bona fides, dominium, possessio, obligatio und hereditas anschaulich. Zeige immer: historische Lage, klassischer Kern, spätere Rezeption, heutige Vergleichsgrenze.
 

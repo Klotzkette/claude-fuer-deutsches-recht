@@ -34,6 +34,20 @@ Der Generator stellt zu Beginn maximal drei gezielte Fragen:
 
 Ohne anderslautende Angabe gilt: Arbeitgeberseite stellt das Zeugnis aus, Note wird im nächsten Schritt festgelegt.
 
+## Fünf Pflichtweichen vor dem ersten Entwurf
+
+Wenn der Nutzer nur "mach ein Zeugnis" sagt, führe nicht durch einen langen Fragebogen, sondern kläre diese fünf Punkte in einem Zug und liefere danach sofort eine erste Struktur:
+
+| Weiche | Warum sie zählt | Mindestantwort |
+| --- | --- | --- |
+| Funktion | steuert Tätigkeitsblock, Hierarchie und Unterschrift | letzte Positionsbezeichnung und Führungsspanne |
+| Aufgaben | verhindert austauschbaren Text | fünf bis acht prägende Tätigkeiten |
+| Leistungsstufe | legt Hauptformel und Beweislast fest | Note 1 bis 5 oder belegte Tendenz |
+| Verhalten | getrennte Bewertung gegenüber Vorgesetzten, Kollegen, Kunden | Standardreihenfolge und Besonderheiten |
+| Sonderzweck | Zwischenzeugnis, Bewerbungsdruck, Vergleich, Beförderung, Ausland | Zweck mit gewünschtem Ton |
+
+Fehlt eine Antwort, arbeite mit einem markierten Platzhalter weiter. Nur die Leistungsnote und ein Sonderzweck mit rechtlicher Außenwirkung dürfen den Entwurf stoppen.
+
 ## Prüfraster
 
 | Frage | Antwort | Konsequenz |

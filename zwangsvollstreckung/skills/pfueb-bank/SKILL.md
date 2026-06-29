@@ -17,16 +17,16 @@ description: "Gläubiger pfändet Bankkonto per PfÜB: Titel, Antrag, Drittschul
 
 - Vollstreckbarer Titel liegt vor (Drei-Säulen-Prüfung grün – sonst zurück an `zv-titel-klausel-zustellung`).
 - Bankverbindung des Schuldners bekannt **oder** zu ermitteln (dann erst `zv-kontensuche-drittschuldner`).
-- Schuldner nicht in Insolvenz (§ 89 InsO – sonst Stop).
+- Schuldner nicht in Insolvenz (Paragraf 89 InsO – sonst Stop).
 
 ## Rechtsgrundlagen
 
 - Paragraf 829 ZPO – Pfändung einer Geldforderung
-- § 835 ZPO – Überweisung an Zahlungs statt oder zur Einziehung
-- § 833a ZPO – Pfändung eines Kontoguthabens, Moratorium von vier Wochen
-- § 850k ZPO – Pfändungsschutzkonto (P-Konto)
-- § 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen (mittelbar bei Lohnüberweisung)
-- § 840 ZPO – Drittschuldnererklärung
+- Paragraf 835 ZPO – Überweisung an Zahlungs statt oder zur Einziehung
+- Paragraf 833a ZPO – Pfändung eines Kontoguthabens, Moratorium von vier Wochen
+- Paragraf 850k ZPO – Pfändungsschutzkonto (P-Konto)
+- Paragraf 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen (mittelbar bei Lohnüberweisung)
+- Paragraf 840 ZPO – Drittschuldnererklärung
 - Paragraf 829a ZPO n.F. – elektronischer Antrag mit elektronisierten Titelunterlagen
 - Paragraf 829 Absatz 5 ZPO n.F. – strukturierter XML-Datensatz für PfÜB-Anträge ab 1.1.2027
 - Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. – sichere Übermittlungswege der Kreditinstitute ab 1.6.2027
@@ -36,20 +36,21 @@ description: "Gläubiger pfändet Bankkonto per PfÜB: Titel, Antrag, Drittschul
 
 1. **Titel + Klausel + Zustellung** prüfen lassen.
 2. **Drittschuldner** identifizieren: Bank, IBAN reicht nicht – Bank ist der Drittschuldner, IBAN nur Bezeichnung des Anspruchs.
-3. **Antrag bauen** an das Vollstreckungsgericht am Wohnsitz des Schuldners (§ 828 Abs. 2 ZPO). Pflichtangaben:
+3. **Antrag bauen** an das Vollstreckungsgericht am Wohnsitz des Schuldners (Paragraf 828 Absatz 2 ZPO). Pflichtangaben:
  - Gläubiger, Schuldner, Drittschuldner-Bank
  - Forderungsaufstellung (Hauptforderung, Zinsen, Kosten, Verzugskosten)
  - genaue Bezeichnung der gepfändeten Forderung ("gesamtes Guthaben sowie alle künftigen Eingänge auf jedem Konto, das der Schuldner bei der Drittschuldnerin unterhält")
- - Auskunftsersuchen § 840 ZPO
+ - Auskunftsersuchen nach Paragraf 840 ZPO
 4. **Formular** verwenden – Pflichtformular der ZVFV. Ab 1.10.2026 die reformierten elektronischen Antragswege und Titelunterlagen nach Paragraf 829a ZPO n.F. beachten.
 5. **Einreichen** beim Vollstreckungsgericht: Papier oder elektronisch über beA/eBO; ab 1.1.2027 kann der Antrag nach Paragraf 829 Abs. 5 ZPO n.F. als strukturierter maschinenlesbarer XML-Datensatz übermittelt werden. Wenn PDF und XML parallel eingereicht werden, ist der XML-Datensatz für die gerichtliche Prüfung führend.
 6. **Zustellung an Drittschuldner** und Schuldner:
  - bis 31.5.2027: per Gerichtsvollzieher papierförmig, postalisch oder freiwillig elektronisch, je nach sicherem Übermittlungsweg und Auftrag
  - ab 1.6.2027: Kreditinstitute müssen einen sicheren Übermittlungsweg nach Paragraf 173 Abs. 2 Nr. 1 ZPO n.F. eröffnen; Gerichtsvollzieher können Pfändungsbeschlüsse an Banken regelmäßig elektronisch zustellen
  - die Aufforderung zur Drittschuldnererklärung nach Paragraf 840 ZPO muss zusammen mit dem Pfändungsbeschluss übermittelt werden
-7. **Drittschuldnererklärung § 840 ZPO** abwarten (zwei Wochen). Reaktion auswerten: gepfändet, gesperrt, P-Konto, andere Pfändung vorrangig.
-8. **P-Konto-Schutz prüfen**: Schuldner kann binnen vier Wochen nach Zustellung Umwandlung zum P-Konto verlangen, dann Sockelbetrag § 850k ZPO frei. Erhöhungsbeträge nach § 850k Abs. 2 ZPO.
-9. **Auszahlung** ggf. nach Ablauf des Moratoriums § 833a ZPO (vier Wochen) – Verbraucher kann in dieser Zeit Vollstreckungsschutz beantragen.
+ - der Zustellungsauftrag nennt den gewünschten elektronischen Weg, den Drittschuldner, den Zustellungsnachweis und den Rücklauf der Drittschuldnererklärung ausdrücklich; ohne eindeutigen Zustellungsnachweis wird keine Auskehrfrist berechnet
+7. **Drittschuldnererklärung nach Paragraf 840 ZPO** abwarten (zwei Wochen). Reaktion auswerten: gepfändet, gesperrt, P-Konto, andere Pfändung vorrangig, Kontobeziehung beendet oder keine Geschäftsverbindung.
+8. **P-Konto-Schutz prüfen**: Schuldner kann binnen vier Wochen nach Zustellung Umwandlung zum P-Konto verlangen, dann bleibt der Sockelbetrag nach Paragraf 850k ZPO frei. Erhöhungsbeträge nach Paragraf 850k Absatz 2 ZPO.
+9. **Auszahlung** ggf. nach Ablauf des Moratoriums nach Paragraf 833a ZPO (vier Wochen) veranlassen; Verbraucher kann in dieser Zeit Vollstreckungsschutz beantragen.
 
 ## Reform-Stand Digitalisierung der Zwangsvollstreckung (BGBl. 2026 I Nr. 152)
 
@@ -65,7 +66,6 @@ Rechtsquellen: Gesetz zur weiteren Digitalisierung der Zwangsvollstreckung, BGBl
 ## Leitentscheidungen
 
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
 ## Ausgabeformat
 
@@ -78,8 +78,8 @@ Drittschuldner: [Bank], BIC [...]
 Gepfändet: gesamtes Guthaben + künftige Eingänge / nur Habensaldo / ...
 Antragsweg: Papier / beA / ab 1.1.2027 XML-Datensatz nach Paragraf 829 Abs. 5 ZPO n.F.
 Zustellung Drittsch.: GV Papier / Post / freiwillig elektronisch / ab 1.6.2027 regelmäßig elektronisch an Kreditinstitut
-P-Konto-Hinweis: [ja / nein – Schuldner kann § 850k beantragen]
-Moratorium § 833a: [4 Wochen – Auszahlung frühestens am DD.MM.JJJJ]
+P-Konto-Hinweis: [ja / nein – Schuldner kann Schutz nach Paragraf 850k ZPO beantragen]
+Moratorium Paragraf 833a ZPO: [4 Wochen – Auszahlung frühestens am DD.MM.JJJJ]
 
 NÄCHSTER SCHRITT: Drittschuldnererklärung in 2 Wochen abwarten
 WIEDERVORLAGE: DD.MM.JJJJ
@@ -97,6 +97,6 @@ WIEDERVORLAGE: DD.MM.JJJJ
 
 - Niemals Pfändung der IBAN als Forderung – Drittschuldner ist die Bank.
 - Niemals den Sockelbetrag P-Konto unter den aktuellen Wert legen.
-- Niemals vor Ablauf des Moratoriums § 833a ZPO Auszahlung verlangen.
-- Bei Pfändungsversuch trotz bekannter Insolvenz: STOPP § 89 InsO.
+- Niemals vor Ablauf des Moratoriums nach Paragraf 833a ZPO Auszahlung verlangen.
+- Bei Pfändungsversuch trotz bekannter Insolvenz: STOPP nach Paragraf 89 InsO.
 - Ab 1.6.2027 bei Kreditinstituten sicheren Übermittlungsweg prüfen und elektronische Zustellung dokumentieren; Papier oder Post nur begründen.

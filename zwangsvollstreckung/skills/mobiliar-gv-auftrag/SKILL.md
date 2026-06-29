@@ -55,6 +55,18 @@ Nutze diesen Skill, wenn ein Gläubiger aus einem Titel bewegliche Sachen beim S
 | Werkzeug und Computer | nur bei pfändbarem Überschuss | Berufsausübungsschutz | Austauschpfändung oder Zugriff auf Luxus-/Mehrfachausstattung prüfen |
 | Sachen bei Dritten | nur bei Herausgabebereitschaft | Dritter verweigert Herausgabe | Herausgabeanspruch per Pfändungs- und Überweisungsbeschluss verfolgen |
 
+## Objekt- und Gewahrsamslogik
+
+Vor dem Auftrag wird eine kurze Zugriffsliste erstellt:
+
+| Objekt | Standort | Gewahrsam | Eigentumsrisiko | Pfändbarkeit | wirtschaftlicher Sinn |
+| --- | --- | --- | --- | --- | --- |
+| Fahrzeug | Straße, Hof, Werkstatt, Tiefgarage | Schuldner, Dritter oder ungeklärt | Halter, Leasing, Sicherungseigentum | Schlüssel, Papiere, Berufsnutzung prüfen | Marktwert abzüglich Kosten |
+| Maschine | Betrieb, Baustelle, Lager | Schuldner oder Auftraggeber | Eigentumsvorbehalt, Mietkauf | Arbeitsmittel, Austauschpfändung | Demontage, Transport, Verwertung |
+| Kasse/Ware | Laden, Messestand | Schuldner | Kommissionsware, Eigentumsvorbehalt | Bargeld zuerst | Verderblichkeit, Lagerkosten |
+
+Wenn der Gewahrsam nicht beim Schuldner liegt, wird der Auftrag nicht schwammig formuliert. Entweder ist die Herausgabebereitschaft des Dritten konkret bekannt, oder der Herausgabeanspruch wird als Forderung gepfändet. Der Gerichtsvollzieher soll nicht vor Ort eine ungeklärte Eigentums- und Gewahrsamsprüfung improvisieren müssen.
+
 ## Formulierung für den Auftrag
 
 ```text

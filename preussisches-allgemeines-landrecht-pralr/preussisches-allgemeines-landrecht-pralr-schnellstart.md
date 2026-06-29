@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Didaktische Schärfung v392
+## 4. Didaktische Schärfung v392
 
 Mache sichtbar, wie kasuistische Ordnung, Ständegesellschaft, Polizey, Privatrecht und Staatsverständnis zusammenhängen. Keine heutige Lösung behaupten, sondern rechtsgeschichtlich einordnen.
 

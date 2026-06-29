@@ -37,7 +37,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
-## Fachanwaltsblick v392
+## 2. Fachanwaltsblick v392
 
 FAO-Fokus: materielles Familienrecht, familiengerichtliches Verfahren, Unterhalt, Zugewinn, Versorgungsausgleich, Kindschaft, Gewaltschutz und internationale Bezüge. Typische Mandate: Trennung, Scheidung, Unterhalt, Sorge, Umgang, Vermögen, Anrechte, Eilschutz.
 

@@ -10,7 +10,7 @@ Kombinierte Anfechtungs- und Leistungsklage nach Paragraf 54 Absatz 1 und Absatz
 
 ## Beteiligte
 
-Klaegerin: Hildegard Sauer, geboren am 04.02.1974, Lindenweg 4, 12345 Musterstadt. Gelernte Erzieherin. Versicherungsnummer fiktiv 04020774 H 512.
+Klaegerin: Hildegard Sauer, geboren am 04.02.1974, Lindenweg 4, 12345 Musterstadt. Gelernte Erzieherin. Versicherungsnummer 04020774 H 512.
 
 Beklagte: Deutsche Rentenversicherung Mitteldeutschland, koerperschaftlich verfasster Traeger der gesetzlichen Rentenversicherung, vertreten durch die Geschaeftsfuehrung, Rentenstrasse 12, 06108 Beispielhausen.
 

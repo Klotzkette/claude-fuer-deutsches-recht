@@ -1,6 +1,6 @@
 # oeffentliches-wirtschaftsrecht
 
-**119 Skills** · Stand `v398.0.0`
+**119 Skills** · Stand `v399.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/oeffentliches-wirtschaftsrecht/README.md)

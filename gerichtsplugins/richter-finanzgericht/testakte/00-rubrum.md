@@ -12,7 +12,7 @@ Anfechtungsklage gegen einen Einkommensteuerbescheid (Paragraf 40 Absatz 1 FGO).
 
 Klaegerin: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt. Einzelunternehmerin, Betrieb des Speiselokals Sauer Gaststaette, Bahnhofstrasse 12, 12345 Musterstadt. Einkuenfte aus Gewerbebetrieb nach Paragraf 15 EStG.
 
-Beklagter: Finanzamt Musterstadt, Steueramtsstrasse 1, 12345 Musterstadt, vertreten durch den Vorsteher. Steuernummer der Klaegerin fiktiv 12/345/67890.
+Beklagter: Finanzamt Musterstadt, Steueramtsstrasse 1, 12345 Musterstadt, vertreten durch den Vorsteher. Steuernummer der Klaegerin 12/345/67890.
 
 ## Verfahrensbevollmaechtigte
 

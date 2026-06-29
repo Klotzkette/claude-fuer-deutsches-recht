@@ -65,11 +65,23 @@ Dieser Fehlerkatalog prüft Arbeitsergebnisse für **Liquiditätsplanung** vor A
 - **Diagnose:** Nach BGH IX ZR 229/22 vom 23.01.2025 zählt die objektive Rechtslage; Prozessrisikoquote und bloßes Bestreiten tragen die Herausnahme nicht
 - **Heilung:** Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegen; Rechtsgutachten und Restrisiko für die Geschäftsleitung dokumentieren
 
-### 10. Mandantengeheimnis bei Tool-Einsatz verletzt
+### 10. Titel nicht mit Vollstreckungsstand gekoppelt
+
+- **Symptom:** Eine titulierte Forderung wird nur als "streitig" geführt oder ein Urteil wird pauschal als voller Liquiditätsabfluss angesetzt
+- **Diagnose:** Bei vorläufig vollstreckbarem Titel, Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung ist der Nennwert zu passivieren; bei eingestellter Vollstreckung ist die Beweiswirkung gesondert zu würdigen
+- **Heilung:** Titelart, Klausel, Zustellung, Sicherheitsleistung, Vollstreckungsauftrag, Einstellungsbeschluss und materiell-rechtliche Einwendung in einer Zeile ausweisen
+
+### 11. Herausnahme ohne Haftungsvermerk
+
+- **Symptom:** Geschäftsleitung lässt eine nicht titulierte streitige Forderung weg, ohne zu dokumentieren, warum sie objektiv nicht besteht oder nicht fällig ist
+- **Diagnose:** Im späteren Haftungsprozess kann der Verwalter aus Vertrag, Rechnung, OPOS und Korrespondenz schlüssig zum Bestand vortragen; die Geschäftsleitung braucht dann Gegenbeweis
+- **Heilung:** Für jede Herausnahme die Felder Rechtsgrund, Gegenbeweis, finales Gutachten, Organbeschluss, Aktualisierungspflicht und Restrisiko eintragen
+
+### 12. Mandantengeheimnis bei Tool-Einsatz verletzt
 
 - **Symptom:** Mandantengeheimnis bei Tool-Einsatz verletzt
 - **Diagnose:** Klartext-Mandantendaten in Werkzeug ohne Auftragsverarbeitungsvertrag
-- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen (§ 43a Abs. 2 BRAO, § 203 StGB)
+- **Heilung:** Vor Upload anonymisieren oder AVV-gedeckte Umgebung nutzen; Paragraf 43a Absatz 2 BRAO und Paragraf 203 StGB gesondert prüfen
 
 ## Ausgabe
 

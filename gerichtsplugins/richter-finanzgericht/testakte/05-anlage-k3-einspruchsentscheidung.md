@@ -4,7 +4,7 @@ Finanzamt Musterstadt, Rechtsbehelfsstelle
 
 Einspruchsentscheidung vom 06.03.2026, zugestellt am 09.03.2026
 
-Einspruchsfuehrerin: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt, Steuernummer fiktiv 12/345/67890.
+Einspruchsfuehrerin: Hildegard Sauer, Lindenweg 4, 12345 Musterstadt, Steuernummer 12/345/67890.
 
 Betreff: Einspruch vom 02.12.2025 gegen den Einkommensteuerbescheid 2023 vom 14.11.2025.
 

@@ -1,6 +1,6 @@
 # Anlage K 2 — Bericht ueber die Aussenpruefung
 
-Finanzamt Musterstadt, Betriebspruefungsstelle, Pruefungsanordnung fiktiv BP-2025-0815
+Finanzamt Musterstadt, Betriebspruefungsstelle, Pruefungsanordnung BP-2025-0815
 
 Bericht ueber die Aussenpruefung vom 28.10.2025
 

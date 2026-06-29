@@ -1,6 +1,6 @@
 # Anlage 1 — Vernehmungsprotokoll der Zeugin mit Lichtbildvorlage
 
-Polizeiinspektion Musterstadt, Vorgangsnummer fiktiv ST-1455-26
+Polizeiinspektion Musterstadt, Vorgangsnummer ST-1455-26
 
 Vernehmung der Zeugin am 20.05.2026, 10.00 Uhr bis 11.20 Uhr
 

@@ -1,6 +1,6 @@
 {
   "name": "aktenauszug-gerichtsverfahren",
-  "version": "398.0.0",
+  "version": "399.0.0",
   "description": "Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten.",
   "license": "Apache-2.0 OR MIT",
   "author": {

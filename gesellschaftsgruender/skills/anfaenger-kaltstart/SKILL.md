@@ -35,6 +35,21 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad.
 4. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor.
 
+## Anfängerroute ohne Fachsprachenfalle
+
+Wenn der Nutzer noch nicht weiß, was er braucht, starte mit einer Mini-Roadmap und nicht mit abstrakten Rechtsformvergleichen:
+
+| Entscheidung | Praktische Frage | Output |
+| --- | --- | --- |
+| Rechtsform | Wer haftet, wer entscheidet, wer finanziert? | GmbH/UG/eGbR/KG-Kurzvergleich |
+| Name und Sitz | Ist der Name register-, marken- und domainnah sauber? | Namens- und Sitz-Checkliste |
+| Stammkapital und Bank | Ist Einzahlung, Sacheinlage oder KYC blockierend? | Bank- und Kapitalfahrplan |
+| Notar und Register | Was muss vor dem Notartermin fertig sein? | Notarbriefing mit Anlagenliste |
+| Steuer- und Betriebsstart | Ab wann Rechnung, Umsatzsteuer, Payroll, Gewerbe? | 30-Tage-Startplan |
+| Gründerkonflikt | Was passiert bei Ausstieg, Streit, Vesting, IP? | Gründervertrag-Risikoampel |
+
+Erkläre Fachbegriffe beim ersten Auftauchen in einem Halbsatz. Danach arbeite normal weiter und liefere eine verwendbare Liste für Notar, Bank oder Steuerberater.
+
 ## Rechts- und Quellenanker
 
 Je nach Rechtsform live prüfen: GmbHG, HGB, BGB-Gesellschaftsrecht nach MoPeG, PartGG, GenG, AktG, GwG, GewO, AO/UStG/EStG sowie Register- und Notarvorgaben.

@@ -10,8 +10,8 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 
 - Paragraf 103 SGG, Paragraf 86b SGG und Paragraf 128 SGG: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst.
 - Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
-- Paragraf 65 VwGO, Paragraf 60 FGO oder Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen.
-- Paragraf 86 Absatz 3 VwGO als Leitbild: richterliche Hinweise verhindern Überraschungen und klären Anträge.
+- Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen.
+- Paragraf 106 SGG: richterliche Aufklärung, Hinweise und Beweisanordnung früh steuern.
 - BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
 
 ## Verfahrenskniffe
@@ -23,6 +23,7 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 | schwieriger Sachverhalt | Beweisthema und Amtsermittlung planen | keine pauschale Aktenübernahme |
 | Drittbetroffenheit | Beiladung früh prüfen | keine unvollständige Rechtskraft |
 | Ermessen | Ausfall, Fehlgebrauch, Überschreitung und Reduktion trennen | keine eigene Zweckmäßigkeit einsetzen |
+| medizinischer Streit | Befund, Diagnose, Leistungsvermögen und Kausalität trennen | Sachverständigenfrage nicht als Rechtsfrage formulieren |
 
 ## Arbeitsmodus
 
@@ -44,3 +45,12 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 ## Tenoranker
 
 Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten und Vollstreckung eindeutig erfassen. Bei Eilentscheidungen werden Reichweite, Dauer und Vollzugsfolge gesondert formuliert.
+
+## Sozialgerichtliche Spezialweichen
+
+| Lage | Prüfkern | Fehlerbremse |
+| --- | --- | --- |
+| Paragraf 86b SGG | Anordnungsanspruch, Anordnungsgrund, existenzsichernder Bedarf | Folgenabwägung nicht ohne Tatsachengrundlage |
+| Erwerbsminderung | Versicherungsrecht, Leistungsfall, medizinisches Leistungsvermögen | Gutachtenfrage auf Funktion, Zeitumfang und Arbeitsmarkt beziehen |
+| Krankenversicherung | Anspruchsgrundlage, Genehmigungsfiktion, Wirtschaftlichkeit, Systemversagen | Eilbedarf und Hauptsachechancen trennen |
+| Schwerbehinderung | Funktionsbeeinträchtigung, Einzel-GdB, Gesamt-GdB | keine Addition einzelner Werte |

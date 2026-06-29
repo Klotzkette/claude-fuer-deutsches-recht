@@ -2,7 +2,7 @@
 
 Finanzamt Musterstadt, Steinweg 4, 12681 Musterstadt
 
-Ratenzahlungsvereinbarung vom 22.04.2026, Aktenzeichen Stundung fiktiv ST-2026-0091
+Ratenzahlungsvereinbarung vom 22.04.2026, Aktenzeichen Stundung ST-2026-0091
 
 Steuerpflichtige: Edelholz Berlin GmbH, gesetzlich vertreten durch den Geschaeftsfuehrer Bernd Tasche, Sägewerkstrasse 12, 12683 Musterstadt
 

@@ -6,8 +6,8 @@ Bundesamt fuer Justiz, unbeschraenkter Auszug nach Paragraf 41 BZRG, abgerufen a
 
 | Lfd. | Entscheidung | Tat | Rechtsfolge | Rechtskraft |
 | --- | --- | --- | --- | --- |
-| 1 | Amtsgericht Musterstadt, fiktives Aktenzeichen 12 Ds 88/23 | Diebstahl | Geldstrafe 90 Tagessaetze zu je 15 Euro | 14.11.2023 |
-| 2 | Amtsgericht Musterstadt, fiktives Aktenzeichen 12 Ls 210/24 | raeuberischer Diebstahl | Freiheitsstrafe ein Jahr, Bewaehrung drei Jahre | 09.07.2024 |
+| 1 | Amtsgericht Musterstadt, Aktenzeichen 12 Ds 88/23 | Diebstahl | Geldstrafe 90 Tagessaetze zu je 15 Euro | 14.11.2023 |
+| 2 | Amtsgericht Musterstadt, Aktenzeichen 12 Ls 210/24 | raeuberischer Diebstahl | Freiheitsstrafe ein Jahr, Bewaehrung drei Jahre | 09.07.2024 |
 
 Die Bewaehrungszeit aus der Eintragung Nummer 2 lief im Tatzeitpunkt noch. Der Angeschuldigte ist damit einschlaegig vorbestraft.
 

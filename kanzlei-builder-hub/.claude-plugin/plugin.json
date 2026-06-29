@@ -1,6 +1,6 @@
 {
   "name": "kanzlei-builder-hub",
-  "version": "398.0.0",
+  "version": "399.0.0",
   "description": "Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.",
   "keywords": [
     "kanzlei",

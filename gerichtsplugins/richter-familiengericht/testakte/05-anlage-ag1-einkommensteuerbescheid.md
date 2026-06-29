@@ -1,6 +1,6 @@
 # Anlage AG 1 — Einkommensteuerbescheid 2024
 
-Finanzamt Musterstadt, Steuernummer fiktiv 000/000/00000
+Finanzamt Musterstadt, Steuernummer 000/000/00000
 
 Einkommensteuerbescheid fuer das Jahr 2024 vom 18.09.2025
 

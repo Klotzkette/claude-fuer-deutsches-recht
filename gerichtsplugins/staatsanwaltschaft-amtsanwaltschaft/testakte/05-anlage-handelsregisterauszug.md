@@ -1,6 +1,6 @@
 # Anlage zu 05 — Handelsregisterauszug der Edelholz Berlin GmbH
 
-Auszug aus dem Handelsregister des Amtsgerichts Musterstadt, Abteilung B, fiktiv. Abrufdatum 15.05.2026.
+Auszug aus dem Handelsregister des Amtsgerichts Musterstadt, Abteilung B. Abrufdatum 15.05.2026.
 
 ## Eintragung
 

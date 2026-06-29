@@ -1,6 +1,6 @@
 {
   "name": "bautraegervertrag-pruefer",
-  "version": "398.0.0",
+  "version": "399.0.0",
   "description": "Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, §§ 650u/650v BGB, § 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.",
   "license": "Apache-2.0 OR MIT",
   "author": {

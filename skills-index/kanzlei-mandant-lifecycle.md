@@ -1,6 +1,6 @@
 # kanzlei-mandant-lifecycle
 
-**115 Skills** · Stand `v398.0.0`
+**115 Skills** · Stand `v399.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kanzlei-mandant-lifecycle/README.md)

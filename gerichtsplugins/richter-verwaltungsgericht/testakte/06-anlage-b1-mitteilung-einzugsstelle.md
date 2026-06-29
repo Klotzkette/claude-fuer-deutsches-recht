@@ -4,7 +4,7 @@ Einzugsstelle Musterstadt, Geschaeftsstelle Beitragseinzug, Hafenweg 3, 12683 Mu
 
 Mitteilung vom 30.04.2026 an das Bezirksamt Musterstadt, Ordnungsamt
 
-Betrifft: Edelholz Berlin GmbH, Sägewerkstrasse 12, 12683 Musterstadt, Betriebsnummer fiktiv 00000000
+Betrifft: Edelholz Berlin GmbH, Sägewerkstrasse 12, 12683 Musterstadt, Betriebsnummer 00000000
 
 ## Mitteilung
 

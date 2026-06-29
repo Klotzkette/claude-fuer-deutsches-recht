@@ -124,15 +124,15 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfaehig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begruendet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## Kompakte Arbeitsfeldübersicht
+## 11. Kompakte Arbeitsfeldübersicht
 
 Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
 
-## Schlusskontrolle
+## 12. Schlusskontrolle
 
 Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.
 
-## Ergänzendes Praxisraster
+## 13. Ergänzendes Praxisraster
 
 Dieses Raster konkretisiert den Werkstattmodus und gilt für jedes Rechtsgebiet mit den jeweils einschlägigen Spezialnormen.
 
@@ -144,14 +144,14 @@ Dieses Raster konkretisiert den Werkstattmodus und gilt für jedes Rechtsgebiet 
 6. Produktform: Wähle das richtige Format. Mandantenmail erklärt verständlich. Schriftsatz arbeitet mit Antrag, Tatsachenvortrag, Beweisangebot und rechtlicher Würdigung. Vertrag oder Klausel formuliert unmittelbar verwendbaren Text. Memo trennt Lage, Prüfung, Ergebnis und Anschluss.
 7. Schlusskontrolle: Prüfe Zuständigkeit, Frist, Form, Vollmacht, richtige Norm, vollständige Tatsachen, Beweislast, Nebenforderungen, Kostenrisiko und Vollstreckbarkeit. Offene Punkte werden als Lückenliste ausgegeben.
 
-## Muster für eine belastbare Kurzprüfung
+## 14. Muster für eine belastbare Kurzprüfung
 
 Nach derzeitiger Aktenlage spricht mehr für [Ergebnis], weil [Norm] die Rechtsfolge an [Tatbestandsmerkmal] knüpft und [Beleg] diesen Punkt trägt. Kritisch bleibt [offener Punkt]. Die Gegenseite wird voraussichtlich einwenden, dass [Gegenargument]. Dagegen spricht [Entgegnung]. Für ein gerichtsfestes Ergebnis fehlen noch [Beleg] und [Fristprüfung].
 
-## Muster für eine Unterlagenanforderung
+## 15. Muster für eine Unterlagenanforderung
 
 Bitte reichen Sie [Dokument] bis [Datum] nach. Benötigt wird das Dokument, weil es [Tatbestandsmerkmal oder Frist] belegt. Ohne diesen Beleg kann [Rechtsfolge] nicht tragfähig geprüft oder formuliert werden. Falls das Dokument nicht vorliegt, teilen Sie bitte mit, wer den Vorgang wahrgenommen hat und welche Ersatzbelege vorhanden sind.
 
-## Qualitätsmaßstab
+## 16. Qualitätsmaßstab
 
 Das Endprodukt muss ohne interne Vorarbeiten verständlich sein. Es nennt Ergebnis, tragende Tatsachen, Normen, Belege, Gegenargumente und nächsten Schritt. Es erfindet keine Aktenzeichen, keine Tatsachen und keine Fristen. Wenn ein Punkt nicht verifiziert ist, wird er als offen markiert und nicht in eine sichere Aussage umgedeutet.

@@ -41,11 +41,11 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Prüf- und Arbeitslogik
 
-1. Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: Dringenden Tatverdacht, Haftgrund, Verhältnismäßigkeit und mildere Mittel zuerst prüfen.
-2. Flucht, Fluchtgefahr, Verdunkelungsgefahr, Wiederholungsgefahr und Außervollzugsetzung getrennt begründen.
-3. Bei Rechtshilfe oder Europäischem Haftbefehl Ausschreibung, Spezialität, Verhältnismäßigkeit und Übersetzungen kontrollieren.
-4. Vorführung, Fristen, Verteidigerbestellung und Haftprüfung in der Verfügung festhalten.
-5. Antrag mit konkreter Tatsachengrundlage, Beweismitteln und Vollzugshinweisen formulieren.
+1. Tatort, Erfolgsort, Beschuldigtenanschrift, Ergreifungsort und Schwerpunkt der Ermittlungen erfassen; mehrere Gerichtsstände nicht vorschnell wegkürzen.
+2. Amtsanwaltliche Bearbeitung nur annehmen, wenn Delikt, Strafrahmen, Jugendsache, besondere Sachnähe, politische Bedeutung, Todesfolge, Sexual- oder Wirtschaftsbezug und etwaige Spezialzuständigkeit dagegen nicht sprechen.
+3. Sachliche Gerichtszuständigkeit mitdenken: Strafrichter, Schöffengericht, erweiterte Schöffengerichtszuständigkeit, Landgericht oder Sonderkammer. Die spätere Anklageadresse steuert die Dezernatsroute.
+4. Verbindung, Trennung, Abgabe oder Übernahme aktenkundig begründen: gemeinsamer Tatkomplex, gleiche Beschuldigte, Beweisüberschneidung, Verjährungsnähe, Haftsache, beschleunigtes Verfahren oder Opportunitätsentscheidung.
+5. Verfügung mit klarem Ergebnis formulieren: zuständig bleiben, Vorlage an Staatsanwalt, Abgabe an andere Staatsanwaltschaft, Abgabe an Bußgeldbehörde, Verbindungsvorschlag oder Rückfrage an Geschäftsstelle/Abteilungsleitung.
 
 ## Typische Fallstricke
 
@@ -53,6 +53,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 - Oertliche Zuständigkeit wird nicht geprueft, obwohl mehrere Gerichtsstaende in Betracht kommen.
 - Abgaben werden ohne klaren Vermerk vorgenommen, sodass die Aktenhistorie unklar bleibt.
 - Verbindungsentscheidungen werden getroffen, ohne die spätere gerichtliche Zuständigkeit zu bedenken.
+- Jugendlicher, Heranwachsender, Amtsträger, Berufsgeheimnisträger, Pressebezug oder Vermögensabschöpfung werden erst nach dem ersten Ermittlungsauftrag erkannt.
 
 ## Antrags- bzw. Verfügungs-Bausteine
 

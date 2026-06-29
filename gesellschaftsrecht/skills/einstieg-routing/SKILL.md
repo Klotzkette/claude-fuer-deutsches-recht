@@ -9,6 +9,21 @@ description: "Einstieg, Triage und Routing für Gesellschaftsrecht: ordnet Rolle
 
 Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, Fristen, zuständiger Stelle, passendem Spezialpfad und nächstem Arbeitsprodukt.
 
+## Kernrouten zuerst
+
+Die erste Weiche ist nicht die längste Skillliste, sondern der gesellschaftsrechtliche Arbeitskern. Ordne den Fall zuerst in eine dieser Routen ein und nenne danach nur den passenden Spezial-Skill:
+
+| Route | Typische Frage | Sofortprodukt |
+| --- | --- | --- |
+| Gründung und Register | Satzung, Liste, Anmeldung, Zwischenverfügung | Register-To-do mit Form- und Fristpunkten |
+| Organ und Vertretung | Geschäftsführer, Vorstand, Aufsichtsrat, Vollmacht | Beschluss- und Vertretungsmatrix |
+| Beschlussmängel und Streit | Einladung, Mehrheit, Treuepflicht, Anfechtung | Fristenblatt und Angriff-/Verteidigungsskizze |
+| Kapital und Gesellschafterliste | Einlage, Rückgewähr, Einziehung, Legitimationswirkung | Risikoampel mit Belegkette |
+| Umwandlung und Transaktion | Verschmelzung, Spaltung, Formwechsel, Closing | Vollzugsplan mit Registerwirkung |
+| Krise, Haftung und Compliance | Paragraf 43 GmbHG, Zahlungsverbot, Ressort, Business Judgment | Haftungsmemo mit Entlastungsbelegen |
+
+Beiratsfragen sind eine Spezialspur. Nutze sie erst, wenn Satzungsgrundlage, Entscheidungsbefugnis, Haftung oder Vetorecht tatsächlich streitentscheidend sind.
+
 ## Fachlandkarte dieses Plugins
 
 - `agio-und-kapitalruecklage` — Agio und Kapitalruecklage
@@ -17,13 +32,14 @@ Dieser Einstieg routet **Gesellschaftsrecht** vom ersten Sachverhalt zu Rollen, 
 - `einstieg-schnelltriage-fallrouting` — Anschluss
 - `arbeitsbereich-mandantenentscheidung` — Arbeitsbereich Mandantenentscheidung
 - `aufsichtsrat-protokoll` — Aufsichtsrat Protokoll
-- `beirat-abgrenzung-aufsichtsrat` — Beirat Abgrenzung Aufsichtsrat
-- `beirat-amtszeit-und-rotation` — Beirat Amtszeit und Rotation
-- `beirat-bank-und-sanierung` — Beirat Bank und Sanierung
-- `beirat-beratungsfunktion-beschlussfassung` — Beirat Beratungsfunktion Beschlussfassung
-- `beirat-beschlussfassung` — Beirat Beschlussfassung
-- `beirat-beschlussmaengel` — Beirat Beschlussmaengel
-- `beirat-bestellung-und-abberufung` — Beirat Bestellung und Abberufung
+- `gesellschafterbeschluss` — Beschlussweg, Mehrheit, Form und Dokumentation
+- `gesellschafterliste-legitimation-und-widerspruch` — Listenlage, Widerspruch und Legitimationswirkung
+- `gesellschafterstreit-einstweiliger-rechtsschutz` — Eilantrag, Verfügungsgrund und Sicherungsziel
+- `geschaeftsfuehrer-haftung-43-gmbhg` — Organpflicht, Beweislast, Entlastung und Schaden
+- `kapitalerhaltung-verdeckte-ausschuettung` — Kapitalbindung, Rückgewähr und Zahlungsstopp
+- `umwandlung-formwechsel-verschmelzung-spaltung` — Maßnahme, Beschluss, Registerwirkung und Vollzug
+- `liquidation-loeschung-und-nachtragsliquidation` — Abwicklung, Sperrjahr, Nachtragsliquidation
+- `beirat-abgrenzung-aufsichtsrat` — nur bei echter Beirats- oder Aufsichtsratsweiche
 - `dokumente-intake` — Dokumente Intake
 - `quellen-livecheck` — Quellen Livecheck
 

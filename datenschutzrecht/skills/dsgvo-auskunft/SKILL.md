@@ -30,9 +30,10 @@ Das Modell benötigt folgende Informationen:
 
 ### Leitentscheidungen
 
-1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+1. EuGH, Urteil vom 12.01.2023 - C-154/21: Empfänger personenbezogener Daten sind auf Verlangen grundsätzlich konkret zu benennen; bloße Empfängerkategorien genügen nur, wenn eine konkrete Benennung unmöglich oder unverhältnismäßig ist.
+2. EuGH, Urteil vom 04.05.2023 - C-487/21: Die Datenkopie bezieht sich auf personenbezogene Daten, nicht automatisch auf vollständige Dokumente; Dokumentauszüge oder ganze Dokumente sind zu geben, wenn das zur wirksamen Rechteausübung erforderlich ist.
+3. EuGH, Urteil vom 26.10.2023 - C-307/22: Die erste Kopie ist grundsätzlich unentgeltlich; der Antragsteller muss den Zweck der Auskunft nicht begründen.
+4. EuGH, Urteil vom 04.05.2023 - C-300/21 und BGH, Urteil vom 18.11.2024 - VI ZR 10/24: Für Datenschutz-Schadensersatz braucht es Verstoß, Schaden und Kausalität; eine Erheblichkeitsschwelle gibt es nicht, Kontrollverlust kann ein immaterieller Schaden sein.
 
 ### Quellenregel
 
@@ -73,7 +74,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 *Frist*: Die einmonatige Frist des Art. 12 Abs. 3 Satz 1 DSGVO läuft bis zum 03.03.2025. Eine Verlängerung setzt voraus, dass U spätestens bis 03.03.2025 unter Angabe der Gründe Mitteilung macht (Art. 12 Abs. 3 Satz 3 DSGVO).
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+*Empfänger*: Verlangt M konkrete Empfänger, darf U nicht pauschal auf Kategorien ausweichen. Konkrete Empfänger werden benannt, soweit dies möglich und verhältnismäßig ist.
 
 *Ausnahmen*: Soweit E-Mails Geschäftsgeheimnisse Dritter enthalten, sind diese nach Art. 15 Abs. 4 DSGVO i.V.m. ErwGr. 63 DSGVO zu schwärzen. § 34 BDSG greift hier nicht, da keine der dort genannten Konstellationen vorliegt.
 
@@ -81,13 +82,13 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## Risiken und typische Fehler
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Unvollständige Datenermittlung**: Fehlende Protokolldateien, Backup-Daten oder Cloud-Systeme begründen Pflichtverletzung; Beweislast beim Verantwortlichen (Art. 5 Abs. 2 DSGVO).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - **Identifizierung übertrieben**: Unverhältnismäßige Ausweispflicht abwehren; Art. 12 Abs. 6 DSGVO erlaubt zusätzliche Informationen nur bei begründetem Zweifel.
 - **§ 34 BDSG-Ausnahme zu weit**: Ausnahmen sind restriktiv auszulegen; pauschale Berufung auf "unverhältnismäßigen Aufwand" ohne konkrete Begründung genügt nicht.
 - **Berufsrecht**: Bei anwaltlicher Beratung des Verantwortlichen: Keine unzulässige Auskunftsverzögerung; § 43a Abs. 2 BRAO (Gewissenhaftigkeit) gebietet korrekte Beratung zur Frist.
 - **Mehrfachanträge**: Erst bei offenkundig exzessivem Verhalten darf Gebühr erhoben werden (Art. 12 Abs. 5 DSGVO); Dokumentationspflicht der Exzessivität.
+- **Empfänger nur abstrakt genannt**: Wenn konkrete Empfänger verlangt sind, Kategorien nur verwenden, wenn konkrete Benennung unmöglich oder unverhältnismäßig ist.
+- **Datenkopie mit Akteneinsicht verwechselt**: Nicht jedes Dokument ist geschuldet; geschuldet sind die personenbezogenen Daten, vollständige Dokumente nur bei Erforderlichkeit für wirksame Rechteausübung.
 
 ## Quellenpflicht
 

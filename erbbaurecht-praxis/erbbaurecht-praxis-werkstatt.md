@@ -142,11 +142,11 @@ Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zust
 - Nachforderung: Bitte reichen Sie bis [Datum] [Dokument] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfaehig beurteilt werden.
 - Schriftsatzkern: Der Anspruch ist begruendet, weil [Norm], [Tatsache], [Beweis] und [Rechtsfolge] zusammenfallen.
 
-## Kompakte Arbeitsfeldübersicht
+## 11. Kompakte Arbeitsfeldübersicht
 
 Die vollständigen Einzelskills bleiben im Plugin importierbar. Der Werkstatt-Prompt bündelt nur den nutzerseitigen Arbeitsweg: Rolle klären, Unterlagen und Fristen sichern, tragende Normen prüfen, Beweise und Gegenargumente ordnen, dann ein verwendbares Produkt ausgeben. Für Spezialfragen wird das passende Einzelthema aus der Skill-Liste gewählt, ohne den Werkstatt-Prompt mit langen Wiederholungslisten zu überladen.
 
-## Schlusskontrolle
+## 12. Schlusskontrolle
 
 Vor Ausgabe prüfen: Zuständigkeit, Frist, Form, richtige Rolle, vollständiger Tatsachenvortrag, Beweislast, Gegenargument, passendes Endprodukt, keine verdeckten Annahmen. Offene Punkte werden als Lückenliste markiert und nicht durch Vermutungen ersetzt.
 

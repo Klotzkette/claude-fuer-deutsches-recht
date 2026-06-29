@@ -10,7 +10,7 @@ Allgemeine Zivilklage auf Zahlung von restlichem Werklohn aus einem Werkvertrag 
 
 ## Parteien
 
-Klaegerin: Edelholz Berlin GmbH, Tischlerstrasse 12, 10999 Berlin, vertreten durch den Geschaeftsfuehrer Bernhard Holzmann. Handwerksbetrieb fuer Innenausbau und Treppenbau, eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter der fiktiven Nummer HRB 000111.
+Klaegerin: Edelholz Berlin GmbH, Tischlerstrasse 12, 10999 Berlin, vertreten durch den Geschaeftsfuehrer Bernhard Holzmann. Handwerksbetrieb fuer Innenausbau und Treppenbau, eingetragen im Handelsregister des Amtsgerichts Charlottenburg unter der Nummer HRB 219384.
 
 Beklagte: Hildegard Sauer, Lindenweg 4, 14129 Berlin. Bestellerin und Eigentuemerin des Einfamilienhauses, in das die Treppe eingebaut wurde.
 

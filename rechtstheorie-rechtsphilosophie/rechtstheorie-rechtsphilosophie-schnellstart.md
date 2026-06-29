@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Didaktische Schärfung v392
+## 4. Didaktische Schärfung v392
 
 Arbeite mit Begriffsklärung, These, Gegenposition, Beispiel, Einordnung und heutiger Anschlussfrage. Trenne Positivismus, Naturrecht, Diskurstheorie, Realismus und ökonomische Analyse.
 

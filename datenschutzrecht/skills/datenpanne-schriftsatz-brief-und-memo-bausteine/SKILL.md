@@ -28,6 +28,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
+## Erste 30 Minuten
+
+Führe den Vorfall wie eine Einsatzakte. Liefere zuerst eine Tabelle mit sechs Zeilen:
+
+| Punkt | Entscheidung |
+| --- | --- |
+| Kenntniszeitpunkt | wann die für den Verantwortlichen maßgebliche Stelle genug Tatsachen hatte |
+| Eindämmung | welche Systeme, Zugänge, Empfänger oder Datenflüsse sofort gestoppt wurden |
+| Datenkategorien | normale Daten, besondere Kategorien, Kinder, Bankdaten, Gesundheitsdaten, Zugangsdaten |
+| Risiko | kein Risiko, Risiko, hohes Risiko; jeweils mit konkreter Schadenshypothese |
+| Meldeweg | zuständige Aufsicht, vorläufige Meldung, Nachmeldung oder begründete Nichtmeldung |
+| Betroffene | individuelle Benachrichtigung, öffentliche Bekanntmachung oder dokumentierte Ausnahme |
+
+Keine endgültige Entwarnung, solange Logfiles, Empfängerlisten, Schlüsselstatus, Auftragsverarbeiter-Rückmeldung oder forensische Erstbewertung fehlen.
+
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Datenpanne** prüfen.

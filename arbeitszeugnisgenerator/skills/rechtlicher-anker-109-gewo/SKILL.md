@@ -25,7 +25,7 @@ Den Generator auf ein korrektes Rechtsfundament stellen. Alle generierten Zeugni
 
 ## Paragraf 241 Abs. 2 BGB und Paragraf 280 Abs. 1 BGB
 
-Nebenpflicht des Arbeitgebers, ein leistungsgerechtes Zeugnis zu erteilen. Verletzt er diese Pflicht (z.B. durch ein vorsätzlich zu schlechtes Zeugnis), kann der Arbeitnehmer Schadensersatz verlangen.
+Nebenpflicht des Arbeitgebers, ein leistungsgerechtes, wahres und klares Zeugnis zu erteilen. Verletzt er diese Pflicht schuldhaft, etwa durch ein bewusst oder fahrlässig entwertendes Zeugnis, verspätete Erteilung trotz konkreten Schadens oder unvertretbare Negativcodes, kann der Arbeitnehmer Schadensersatz verlangen. Der Generator kennzeichnet deshalb jede risikoträchtige Abwertung mit Belegbedarf und Arbeitgeber-Beweislast.
 
 ## Weitere relevante Normen
 
@@ -42,6 +42,20 @@ Nebenpflicht des Arbeitgebers, ein leistungsgerechtes Zeugnis zu erteilen. Verle
 - Note 3 (befriedigend / zur vollen Zufriedenheit) ist der Ausgangspunkt.
 - Besser als Note 3 möchte: Arbeitnehmer trägt Darlegungs- und Beweislast (BAG, Urteil v. 14.10.2003 – 9 AZR 12/03).
 - Schlechter als Note 3 bescheinigen: Arbeitgeber trägt Darlegungs- und Beweislast (BAG, Urteil v. 18.11.2014 – 9 AZR 584/13).
+
+## Schlussformel und Maßregelung
+
+Dank, Bedauern und Zukunftswünsche sind starke Signale, aber nach der BAG-Linie grundsätzlich nicht als bestimmte Wunschformel erzwingbar. Der sichere Anspruch ist das klare, wahre Zeugnis; taktisch kann eine warme Schlussformel verhandelt werden. Wird eine bereits erteilte Schlussformel nach einem berechtigten Berichtigungsverlangen gestrichen, ist Paragraf 612a BGB als Maßregelungsverbot gesondert zu prüfen.
+
+## Sofortprüfung vor Ausgabe
+
+Vor jedem fertigen Zeugnis prüft der Generator:
+
+1. Stimmen Zeugnisart, Tätigkeitsdauer, Funktion und Unterschrift?
+2. Tragen Aufgabenblock, Leistungsformel, Verhalten und Schlussformel dieselbe Notenlogik?
+3. Gibt es eine verdeckte Abwertung, Auslassung oder ungewöhnliche Reihenfolge?
+4. Ist jede Bewertung schlechter als Note 3 durch Tatsachen belegbar?
+5. Wird ein Sonderzweck wie Zwischenzeugnis, Vergleich, Ausland oder Beförderung sauber sichtbar?
 
 ## Verifizierungspflicht
 

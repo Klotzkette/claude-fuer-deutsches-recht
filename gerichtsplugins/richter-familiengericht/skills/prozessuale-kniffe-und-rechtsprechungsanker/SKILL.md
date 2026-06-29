@@ -43,3 +43,13 @@ Nutze diesen Skill, wenn ein familiengerichtlicher Fall zugleich schnell, kindes
 ## Tenoranker
 
 Jeder Tenor muss konkret genug sein, dass Beteiligte und Vollstreckungsorgan wissen, wer wann was zu tun oder zu unterlassen hat.
+
+## Kindeswohl- und Anhörungskontrolle
+
+| Lage | Mindestprüfung | Ergebnisform |
+| --- | --- | --- |
+| Sorge oder Umgang | Kindeswille, Bindungen, Förderung, Kontinuität und Schutzrisiko trennen | Regelung mit Ort, Zeit, Übergabe und Ausfallmechanik |
+| Eilentscheidung | Gefährdung, Eilbedürftigkeit, mildere Mittel und Anhörungslage | befristete Anordnung mit Hauptsacheanschluss |
+| Verfahrensbeistand | Bestellung, Aufgabenbereich und Beteiligung prüfen | klarer Beteiligten- und Anhörungsvermerk |
+| Jugendamt | Bericht, Terminbeteiligung und Schutzauftrag einordnen | konkrete Aufklärungsliste |
+| Vergleich | Kindeswohlkontrolle vor Protokollierung | vollstreckbare und kindgerechte Regelung |

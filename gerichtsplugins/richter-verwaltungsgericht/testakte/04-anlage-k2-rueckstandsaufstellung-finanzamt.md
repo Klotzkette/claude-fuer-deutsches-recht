@@ -2,7 +2,7 @@
 
 Finanzamt Musterstadt, Steinweg 4, 12681 Musterstadt
 
-Rueckstandsaufstellung zum Stand 28.04.2026, Steuernummer fiktiv 00/000/00000
+Rueckstandsaufstellung zum Stand 28.04.2026, Steuernummer 00/000/00000
 
 Steuerpflichtige: Edelholz Berlin GmbH, Sägewerkstrasse 12, 12683 Musterstadt
 

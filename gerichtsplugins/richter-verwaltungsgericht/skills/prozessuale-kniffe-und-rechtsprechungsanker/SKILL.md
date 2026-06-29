@@ -44,3 +44,12 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 ## Tenoranker
 
 Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten und Vollstreckung eindeutig erfassen. Bei Eilentscheidungen werden Reichweite, Dauer und Vollzugsfolge gesondert formuliert.
+
+## Eilrechtsschutz-Weiche
+
+| Verfahren | Prüfkern | Tenorfolge |
+| --- | --- | --- |
+| Paragraf 80 Absatz 5 VwGO | Statthaftigkeit, Suspensiveffekt, Interessenabwägung, Erfolgsaussichten | Anordnung oder Wiederherstellung der aufschiebenden Wirkung |
+| Paragraf 123 VwGO | Anordnungsanspruch, Anordnungsgrund, Vorwegnahme der Hauptsache | konkrete Regelungsanordnung mit Dauer |
+| Drittanfechtung | Beiladung, Vollzugsinteresse, Nachbar- oder Konkurrentenschutz | Reichweite gegen Behörde und Begünstigten |
+| Ermessensentscheidung | Ausfall, Fehlgebrauch, Überschreitung, Reduktion auf Null | Neubescheidung oder Verpflichtung sauber trennen |

@@ -24,6 +24,16 @@ Rechtsprechung vor Ausgabe über offizielle oder frei zugängliche Quelle prüfe
 5. Die Vereinbarung wirkt als Vertrag zugunsten der Gläubigergesamtheit. Ab Eintritt der Insolvenzreife kann sie nicht durch eine bloße Abrede zwischen Schuldner und Rangrücktrittsgläubiger zulasten der übrigen Gläubiger aufgehoben werden.
 6. Steuerlich ist die Rückzahlungsquelle zu formulieren: reine Tilgung nur aus künftigem Bilanzgewinn oder Liquidationsüberschuss kann Paragraf 5 Absatz 2a EStG auslösen; Tilgung auch aus sonstigem freien Vermögen oder freiem Liquiditätsüberschuss hält die Passivierung eher offen. Steuerberater einschalten.
 
+## Schnellprüfung vor Verwendung
+
+| Frage | Muss-Antwort | Risiko bei Nein |
+| --- | --- | --- |
+| Erfasst die Sperre Vorinsolvenz und Verfahren? | Ja, ausdrücklich | Forderung bleibt im Überschuldungsstatus |
+| Darf nur aus freiem Vermögen oder freiem Liquiditätsüberschuss gezahlt werden? | Ja, ohne Gefährdung vorrangiger Gläubiger | Zahlung kann Insolvenzreife auslösen oder vertiefen |
+| Gilt der Nachrang für Zinsen, Kosten und Nebenforderungen? | Ja | Teilpassivierung bleibt offen |
+| Ist die Gläubigergesamtheit begünstigt? | Ja, als Schutzwirkung/Drittwirkung sichtbar | spätere Aufhebung zu leicht |
+| Ist die Steuerwirkung mit Abschlussprüfer oder Steuerberater abgestimmt? | Ja, dokumentiert | unerwartete Ausbuchung oder Sanierungsertrag |
+
 Leitentscheidungen: BGH, Urteil vom 05.03.2015 - IX ZR 133/14; BGH, Urteil vom 06.12.2018 - IX ZR 143/17; BGH, Urteil vom 24.02.2022 - IX ZR 250/20; BFH, Urteil vom 10.08.2016 - I R 25/15; BFH, Urteil vom 19.08.2020 - XI R 32/18.
 
 ## Mustervorlage
@@ -90,7 +100,7 @@ eine Insolvenzreife herbeiführen oder vertiefen würde.
 
 Die Parteien sind sich einig, dass aufgrund des Rangrücktritts die Forderung
 des Gläubigers im insolvenzrechtlichen Überschuldungsstatus der Schuldnerin
-nach § 19 Abs. 2 S. 2 InsO nicht zu passivieren ist.
+nach Paragraf 19 Absatz 2 Satz 2 InsO nicht zu passivieren ist.
 
 4. Steuerrechtliche Hinweise
 
@@ -126,11 +136,11 @@ Nicht zwingend aber **empfohlen** bei hohen Forderungen — Beweis- und Anfechtu
 
 ### Anfechtungsrisiko
 
-Bei nachfolgender Insolvenz prüfbar nach § 135 Abs. 1 InsO (Gesellschafterdarlehen — Insolvenzanfechtung). Der Rangrücktritt selbst ist nicht anfechtbar — er konkretisiert die ohnehin nach § 39 Abs. 1 Nr. 5 InsO bestehende Nachrangigkeit.
+Bei nachfolgender Insolvenz prüfbar nach Paragraf 135 Absatz 1 InsO (Gesellschafterdarlehen — Insolvenzanfechtung). Der Rangrücktritt selbst ist nicht anfechtbar — er konkretisiert die ohnehin nach Paragraf 39 Absatz 1 Nummer 5 InsO bestehende Nachrangigkeit.
 
 ### Verzicht auf bereits geleistete Zahlungen?
 
-Nicht im Rangrücktritt. Wenn der Gesellschafter Rückzahlungen erhalten hat: prüfen ob diese nach § 135 InsO anfechtbar sind.
+Nicht im Rangrücktritt. Wenn der Gesellschafter Rückzahlungen erhalten hat: prüfen ob diese nach Paragraf 135 InsO anfechtbar sind.
 
 ### Steuerrechtliche Folge — Buchungsfrage
 
@@ -156,11 +166,11 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 
 ## Paragrafenkette Gesellschafterdarlehen
 
-§ 19 Abs. 2 S. 2 InsO (qualifizierter Rangrücktritt — Nicht-Passivierung) → § 135 InsO (Anfechtung Gesellschafterdarlehen 1 Jahr) → § 39 Abs. 4 InsO (Sanierungsprivileg) → § 39 Abs. 1 Nr. 5 InsO (Nachrang Gesellschafterdarlehen) → §§ 488 ff. BGB (Darlehensvertrag)
+Paragraf 19 Absatz 2 Satz 2 InsO (qualifizierter Rangrücktritt — Nicht-Passivierung) -> Paragraf 135 InsO (Anfechtung Gesellschafterdarlehen 1 Jahr) -> Paragraf 39 Absatz 4 InsO (Sanierungsprivileg) -> Paragraf 39 Absatz 1 Nummer 5 InsO (Nachrang Gesellschafterdarlehen) -> Paragrafen 488 ff. BGB (Darlehensvertrag)
 
 ## Triage — Gesellschafterdarlehen Check
 
 1. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-2. **Darlehens-Restlaufzeit?** Innerhalb 1 Jahr → Tilgung anfechtungsgefaehrdet § 135 InsO.
-3. **Sanierungskonzept vorhanden?** Ohne IDW S 6 kein Sanierungsprivileg § 39 Abs. 4 InsO.
+2. **Darlehens-Restlaufzeit?** Innerhalb 1 Jahr -> Tilgung anfechtungsgefaehrdet nach Paragraf 135 InsO.
+3. **Sanierungskonzept vorhanden?** Ohne IDW S 6 kein Sanierungsprivileg nach Paragraf 39 Absatz 4 InsO.
 4. **Zinsen laufen?** Nachrangige Zinsen sollten ebenfalls durch Rangrücktritt erfasst sein.

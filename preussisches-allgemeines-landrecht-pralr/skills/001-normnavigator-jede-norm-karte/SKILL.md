@@ -13,6 +13,21 @@ description: "PrALR: Normnavigator jede PrALR-Norm als Karte erschließen: histo
 - Pruefe die Funktion der Norm im ALR-System: Privatrecht, Polizei-/Staatsrecht, Standesrecht, Kirchen-/Schulrecht oder Strafrecht koennen in derselben Kodifikation nah beieinanderstehen.
 - Liefere ein Arbeitsprodukt, das mit der Quelle arbeiten laesst: Normkarte, Begriffsglossar, heutige Vergleichslinie, Fallskizze, Zitierhinweis, Quellenrisiko oder didaktischer Kurzkommentar.
 
+## Normkarte mit Leseführung
+
+Jede ALR-Stelle wird als kleine Karte erschlossen:
+
+| Feld | Inhalt |
+| --- | --- |
+| Fundstelle | Teil, Titel, Abschnitt, Paragraphenbereich, Edition oder Digitalisat |
+| Wortlaut | kurze Transkription mit unsicheren Stellen markiert |
+| Alltagsbild | welche Lebenslage die Norm regeln wollte |
+| Systemstelle | Privatrecht, Policey, Stand, Familie, Kirche, Schule oder Strafrecht |
+| heutige Nähe | moderne Vergleichsnorm nur als Orientierung, nicht als Gleichsetzung |
+| Pointe | was an dieser Norm für heutige Dogmatik, Geschichte oder Unterricht lehrreich ist |
+
+Wenn der Nutzer nur eine moderne Frage stellt, beginne trotzdem mit dem historischen Alltagsbild. Das macht die Norm verständlich, ohne sie in heutige Begriffe zu pressen.
+
 ## Quellen- und Methodenhinweise
 
 - Keine Scheingenauigkeit: Paragraphen, alte Schreibweisen und Blatt-/Seitenangaben nur uebernehmen, wenn sie am Digitalisat oder an einer verlaesslichen Edition geprueft sind.

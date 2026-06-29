@@ -17,7 +17,7 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-## Fachanwaltsblick v392
+## 4. Fachanwaltsblick v392
 
 FAO-Fokus: Individualarbeitsrecht, kollektives Arbeitsrecht, Verfahrensrecht, Tarif- und Betriebsverfassungsbezüge. Typische Mandate: Kündigung, Befristung, Vergütung, Urlaub, Zeugnis, Betriebsrat, Massenentlassung, Vergleich.
 

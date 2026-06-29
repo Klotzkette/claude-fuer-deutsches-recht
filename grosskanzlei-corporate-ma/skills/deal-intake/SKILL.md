@@ -33,6 +33,20 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **Deal-Landkarte:** Parteien, Beteiligungskette, Zielgesellschaft, Transaktionsgegenstand, Preislogik, Freigaben, Datenraum, Signing-/Closing-Taktung, Spezialistenbedarf.
 - **Arbeitsprodukt:** Liefere eine `Thema / Tatsache / Beleg / Risiko / Owner / nächster Schritt`-Matrix und auf Wunsch ein erstes Partner- oder Mandantenmemo.
 
+## Zehn-Minuten-Partner-Output
+
+Wenn der Auftrag offen formuliert ist, liefere zuerst eine kompakte Partnernotiz mit genau diesen Feldern:
+
+| Feld | Inhalt |
+| --- | --- |
+| Rolle | Buy-side, Sell-side, Target, Management oder Lender; Interessenkonflikt sichtbar markieren |
+| Deal-Stand | Erstkontakt, NDA, LOI, DD, SPA-Markup, Signing, Closing oder Post-Closing |
+| Sofortrisiko | Vollzugsverbot, Frist, Insiderinformation, Sanktion, fehlende Vollmacht oder Registerbruch |
+| Belegkette | Dokument, Datum, Datenraum-ID, Registerquelle oder Mandantenangabe |
+| Arbeitsauftrag | genau ein nächster Output: IRL, Issue List, SPA-Kommentar, CP-Tracker, Board Paper oder Mandantenmail |
+
+Schließe mit einer kurzen Entscheidungsempfehlung: `sofort bearbeiten`, `Spezialist einschalten`, `Partnerfreigabe vor Außenkontakt` oder `weitere Unterlagen anfordern`.
+
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
 - "Ich habe hier Deal-Intake und brauche einen belastbaren nächsten Schritt."

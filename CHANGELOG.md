@@ -1,10 +1,15 @@
-# v398.0.0 — Gerichtsplugins-Workflows veredelt, Relationstechnik geschärft, Staatsanwaltschaft-Anfängerausbau
+# v399.0.0 — Qualitätssweep, Rechtsanker und Startlogik geschärft
 
-- Werkstatt- und Schnellstart-Workflows aller 15 Gerichtsplugins beschleunigt und vertieft: scharfe agentische Eröffnung für den schnellen Einstieg ins Arbeitsprodukt, generische Boilerplate-Stationen durch spruchkörperspezifische Prüfraster mit klarem Votum je Station ersetzt, präzise Normzitate, Verifikationshinweise vor Leitentscheidungen ohne erfundene Aktenzeichen.
-- Relationstechnik Zivilrecht doktrinär geschärft: Schlüssigkeit gegen Substantiierungslast, Staffelung mehrerer Anspruchsgrundlagen und Eventualbegründung, doppelrelevante Tatsachen, Trennung rechtshindernd, rechtsvernichtend und rechtshemmend, primäre und sekundäre Darlegungslast, Rosenberg-Grundregel mit Durchbrechungen, Beweismaß Paragraf 286 gegen Paragraf 287 ZPO und non liquet.
-- Staatsanwaltschaft Praxiseinstieg für Anfänger ausgebaut: neuer Onboarding-Skill erste-woche-staatsanwaltschaft mit Dezernatsübernahme, Fristen- und Haftsachenkontrolle, Entscheidungsbäumen für Einstellung, Anklage und Strafbefehl sowie typischen Anfängerfehlern; Werkstatt- und Schnellstart-Prompt auf den objektiven staatsanwaltschaftlichen Blick nach Paragraf 160 Absatz 2 StPO umgestellt.
-- Zwei zu groß gewordene Werkstatt-Prompts wieder in den Größenkorridor getrimmt; Marketplace-Import-, Plugin-Struktur- und YAML-Frontmatter-Validatoren laufen grün.
-- Repo-weiter Versions-Bump auf v398.0.0.
+- Mindestens 25 Prüfschleifen über Struktur, Importfähigkeit, Prompt-Gliederung, Links, Download-Tags, Testakten, Metadaten, Rechtsanker, Kohärenz und Release-Readiness abgeschlossen.
+- Werkstatt- und Schnellstart-Prompts repo-weit auf dezimale Abschnittsnummerierung gebracht; echte Plugin-Prompts bleiben im Größenkorridor und starten weiter als Markdown-Download, nicht als Skill.
+- Insolvenzrecht, Liquiditätsplanung und Krisenfrüherkennung nachgeschärft: objektive Zahlungsunfähigkeit, streitige und titulierte Forderungen, Beweislast der Geschäftsleitung, BGH IX ZR 229/22, Rangrücktritt, Patronatserklärung und Comfort Letter präziser eingearbeitet.
+- Zwangsvollstreckung verbessert: Mobiliarpfändung, Gewahrsam, Herausgabeansprüche, Bank-Pfändungs- und Überweisungsbeschluss, Zustellungsnachweis und kommende elektronische Zustellungswege klarer geführt.
+- Gerichtliche Plugins, Relationstechnik und Staatsanwaltschaft ergänzt: Entscheidungsreife, Beweislast, Prozesskniffe, Eilrechtsschutz, Spezialweichen der Arbeits-, Familien-, Verwaltungs-, Finanz- und Sozialgerichtsbarkeit sowie Zuständigkeitsprüfung der Amtsanwaltschaft praxisnäher gefasst.
+- Gesellschaftsrecht, Gründer-Plugin und Corporate-MA-Einstiege neu ausbalanciert: Beiratslastigkeit im Routing reduziert, Kernrouten für Beschluss, Register, Kapital, Umwandlung, Organhaftung, Deal-Intake und Gründerfahrplan hervorgehoben; W&I-Wissenszurechnung korrigiert.
+- Arbeitszeugnis, Datenschutzrecht und Konzept-Plugins veredelt: fünf Pflichtweichen vor dem Zeugnisentwurf, klarerer Rechtsanker zu Schlussformel und Schadensersatz, Datenschutz-Kernrouten zu Auskunft, Löschung, Aufsicht, Auftragsverarbeitung und Datenpanne sowie anschaulichere Einstiege für römisches Recht, Kirchenrecht, Preußisches Allgemeines Landrecht und Rechtstheorie.
+- Testakten der Gerichtsplugins von verdächtigen Markern und Duplikaten bereinigt; Marketplace-Beschreibung für Arbeitszeugnis-Analyse gekürzt und mit plugin.json synchron gehalten.
+- Strukturvalidator, Frontmattervalidator, Marketplace-Import und Release-Readiness laufen grün.
+- Repo-weiter Versions-Bump auf v399.0.0.
 
 ---
 

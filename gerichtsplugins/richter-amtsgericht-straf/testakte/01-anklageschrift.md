@@ -12,7 +12,7 @@ In dem Ermittlungsverfahren gegen Bruno Achterberg, geboren am 03.09.1997 in Mus
 
 Der Angeschuldigte wird angeklagt, am 12.04.2026 in Musterstadt eine fremde bewegliche Sache einem anderen in der Absicht weggenommen zu haben, die Sache sich rechtswidrig zuzueignen.
 
-Ihm wird zur Last gelegt, gegen 22.40 Uhr die Tiefgarage des Anwesens Erlenweg 9 in Musterstadt betreten und das auf dem Stellplatz 14 abgestellte, gegen Diebstahl mit einem Rahmenschloss gesicherte Pedelec der Marke fiktiv Heimwind im Wert von 3.200 Euro, das im Eigentum der Geschaedigten Margarete Vossberg steht, an sich genommen und aus der Tiefgarage geschoben zu haben, um es fuer sich zu behalten.
+Ihm wird zur Last gelegt, gegen 22.40 Uhr die Tiefgarage des Anwesens Erlenweg 9 in Musterstadt betreten und das auf dem Stellplatz 14 abgestellte, gegen Diebstahl mit einem Rahmenschloss gesicherte Pedelec der Marke Heimwind im Wert von 3.200 Euro, das im Eigentum der Geschaedigten Margarete Vossberg steht, an sich genommen und aus der Tiefgarage geschoben zu haben, um es fuer sich zu behalten.
 
 Vergehen, strafbar nach Paragraf 242 Absatz 1 StGB.
 

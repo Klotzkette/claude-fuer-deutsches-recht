@@ -4,7 +4,7 @@ Deutsche Rentenversicherung Mitteldeutschland, Rentenstrasse 12, 06108 Beispielh
 
 ## Bescheid vom 18.11.2025
 
-Versicherte: Hildegard Sauer, Versicherungsnummer fiktiv 04020774 H 512
+Versicherte: Hildegard Sauer, Versicherungsnummer 04020774 H 512
 
 Ihr Antrag vom 20.03.2025 auf Rente wegen Erwerbsminderung wird abgelehnt.
 

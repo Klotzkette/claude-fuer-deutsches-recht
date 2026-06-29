@@ -10,8 +10,8 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 
 - Paragraf 76 FGO, Paragraf 69 FGO und Paragraf 96 FGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst.
 - Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
-- Paragraf 65 VwGO, Paragraf 60 FGO oder Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen.
-- Paragraf 86 Absatz 3 VwGO als Leitbild: richterliche Hinweise verhindern Überraschungen und klären Anträge.
+- Paragraf 60 FGO: notwendige Beiladung als frühes Stoppschild prüfen.
+- Paragraf 76 Absatz 2 FGO: richterliche Hinweise verhindern Überraschungen und klären Anträge.
 - BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
 
 ## Verfahrenskniffe
@@ -23,6 +23,7 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 | schwieriger Sachverhalt | Beweisthema und Amtsermittlung planen | keine pauschale Aktenübernahme |
 | Drittbetroffenheit | Beiladung früh prüfen | keine unvollständige Rechtskraft |
 | Ermessen | Ausfall, Fehlgebrauch, Überschreitung und Reduktion trennen | keine eigene Zweckmäßigkeit einsetzen |
+| AdV | Vollziehung, Fälligkeit und Stundung trennen | Aussetzung nicht als Stundung behandeln |
 
 ## Arbeitsmodus
 
@@ -44,3 +45,12 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 ## Tenoranker
 
 Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten und Vollstreckung eindeutig erfassen. Bei Eilentscheidungen werden Reichweite, Dauer und Vollzugsfolge gesondert formuliert.
+
+## Finanzgerichtliche Spezialweichen
+
+| Lage | Prüfkern | Fehlerbremse |
+| --- | --- | --- |
+| Aussetzung der Vollziehung | ernstliche Zweifel oder unbillige Härte, Sicherheitsleistung, Vollziehungsstand | AdV hemmt Vollziehung, ersetzt aber keine steuerliche Stundung |
+| Schätzung | Schätzungsbefugnis, Methode, Plausibilität und Sicherheitszuschlag | Schätzung darf nicht Strafcharakter bekommen |
+| Einspruchsentscheidung | Beschwer, Klagefrist, Änderungsnorm, Verböserung | Streitgegenstand nicht überdehnen |
+| Beweislast | objektive Feststellungslast und Mitwirkungspflichten | Auslandssachverhalt und Beweisnähe gesondert |

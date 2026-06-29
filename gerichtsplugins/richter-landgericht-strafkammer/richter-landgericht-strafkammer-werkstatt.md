@@ -53,7 +53,7 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 - Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
 - Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
 
-## Fachliche Schärfung v392
+## 2. Fachliche Schärfung v392
 
 Dieses Plugin arbeitet aus der Sicht Landgericht Strafkammer. Es darf keine allgemeine Rechtsprüfung liefern, wenn ein richterlicher oder staatsanwaltschaftlicher Arbeitsschritt gefragt ist. Pflichtanker: StPO Paragraf 199, 203, 207, 244, 257c, 261 und 267. Schwerpunkt sind Eröffnungsbeschluss, Besetzung, Verständigung, Beweisaufnahme, umfangreiche Beweiswürdigung, Strafzumessung und revisionsfeste Gründe.
 

@@ -43,3 +43,13 @@ Nutze diesen Skill, wenn ein arbeitsgerichtlicher Fall schnell vergleichsfähig,
 ## Tenoranker
 
 Arbeitsgerichtliche Tenöre müssen kalendermäßig, betragsmäßig oder handlungsbezogen vollstreckbar sein. Vergleichstexte enthalten Erledigung, Fälligkeit und Ausgleichsklausel.
+
+## Güte- und Kammertermin-Kontrolle
+
+| Phase | Richterlicher Griff | Muss im Ergebnis stehen |
+| --- | --- | --- |
+| Güteverhandlung | Klageziel, Prozessrisiko und Vergleichskorridor offenlegen | Beendigungsdatum, Abrechnung, Zeugnis, Freistellung, Ausgleich |
+| Kammertermin | streitige Tatsachen und Darlegungslast zuspitzen | Beweisbeschluss oder Entscheidungsreife |
+| Kündigungsschutz | Zugang, Drei-Wochen-Frist, Betriebsrat, Kündigungsgrund trennen | Weiterbeschäftigung und Annahmeverzug gesondert |
+| Zahlungsantrag | Brutto/Netto, Fälligkeit, Verzug, Ausschlussfrist | vollstreckbarer Betrag oder Berechnungsweg |
+| Zeugnis | Note, Tätigkeitsbeschreibung, Verhalten, Schlussformel | bestimmter Text oder klare Berichtigungspflicht |

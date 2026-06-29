@@ -1,6 +1,6 @@
 {
   "name": "goae-gebuehrenordnung-aerzte",
-  "version": "398.0.0",
+  "version": "399.0.0",
   "description": "Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten.",
   "keywords": [
     "goae",

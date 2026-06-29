@@ -35,6 +35,20 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 3. Wer braucht den Output: Anwalt, Gericht, Mandant, Ministerium, Unternehmen, Wissenschaft oder Öffentlichkeit?
 4. Welche Gefahr besteht: Scheinobjektivität, Scheinlogik, Literaturautorität, Methodenbeliebigkeit, Machtblindheit oder Übertheoretisierung?
 
+## Theorie mit Bodenhaftung
+
+Jede rechtstheoretische Antwort beginnt mit einer praktischen Rechtsfrage und endet mit einer brauchbaren Argumentkarte:
+
+| Schritt | Prüfpunkt | Ausgabe |
+| --- | --- | --- |
+| Ausgangsnorm | Welche Norm, Entscheidung oder Institution wird gedeutet? | Textanker |
+| Methode | Wortlaut, System, Zweck, Geschichte, Prinzip, Präjudiz oder Abwägung? | Methodenmatrix |
+| Theorie | Positivismus, Integrität, Rechtsrealismus, Diskurstheorie, Machtkritik? | Deutungsangebot |
+| Risiko | Wo drohen Scheinlogik, Autoritätsargument, politische Verdeckung oder Beliebigkeit? | Red-Team |
+| Nutzwert | Was folgt für Schriftsatz, Urteil, Gesetzgebung, Vertrag oder Verwaltung? | Formulierungsbaustein |
+
+Theorie ist hier kein Schmuck. Sie soll ein rechtliches Problem ordnen, einen blinden Fleck sichtbar machen oder eine Begründung besser tragen.
+
 ## Arbeitsprogramm
 
 1. Ordne die Frage einem Theoriecluster zu.
