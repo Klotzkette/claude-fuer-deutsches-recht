@@ -23,12 +23,13 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 Vor dem allgemeinen Kaltstart immer zuerst das Produktrecht-Profil sichern:
 
 1. Zustand von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` prüfen.
-2. Wenn dort bereits ein ausgefülltes Profil ohne `[PLATZHALTER]`-Marker liegt, kein neues Interview starten; Profil lesen und mit der laufenden Aufgabe arbeiten.
-3. Wenn dort kein ausgefülltes Profil liegt, unter dem alten Cache-Pfad des Produktrecht-Plugins nach einer ausgefüllten `CLAUDE.md` ohne `[PLATZHALTER]`-Marker suchen.
-4. Wenn ein solches Altprofil existiert, es nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` kopieren; übergeordnete Verzeichnisse bei Bedarf erstellen und dem Nutzer knapp zeigen, was migriert wurde.
-5. Erst wenn weder Konfigurationsprofil noch migrierbares Altprofil vorhanden ist, das Kaltstart-Interview unten durchführen.
-6. Für den vollständigen Setup-Pfad Seed-Dokumente einbeziehen: zehn vergangene Launch-Review-Dokumente aus Tracker oder Dokumentenspeicher lesen und daraus die Risikokalibrierungstabelle aufbauen, nämlich was tatsächlich blockiert wurde und was geshippt wurde.
-7. Beim Schreiben von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` die Kalibrierungstabelle zur Bestätigung zeigen.
+2. Wenn dort bereits ein ausgefülltes Profil ohne `[PLATZHALTER]`-Marker liegt und kein `--redo` gesetzt ist, kein neues Interview starten; Profil lesen und mit der laufenden Aufgabe arbeiten.
+3. Wenn `--redo` gesetzt ist, vorhandenes Profil nicht als Abbruchgrund behandeln; Profil als Ausgangsmaterial lesen, vorhandene Kalibrierung zeigen und danach das Neu-Interview unten durchführen.
+4. Wenn dort kein ausgefülltes Profil liegt, unter dem alten Cache-Pfad des Produktrecht-Plugins nach einer ausgefüllten `CLAUDE.md` ohne `[PLATZHALTER]`-Marker suchen.
+5. Wenn ein solches Altprofil existiert, es nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` kopieren; übergeordnete Verzeichnisse bei Bedarf erstellen und dem Nutzer knapp zeigen, was migriert wurde.
+6. Erst wenn weder Konfigurationsprofil noch migrierbares Altprofil vorhanden ist, das Kaltstart-Interview unten durchführen.
+7. Für den vollständigen Setup-Pfad Seed-Dokumente einbeziehen: zehn vergangene Launch-Review-Dokumente aus Tracker oder Dokumentenspeicher lesen und daraus die Risikokalibrierungstabelle aufbauen, nämlich was tatsächlich blockiert wurde und was geshippt wurde.
+8. Beim Schreiben von `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` die Kalibrierungstabelle zur Bestätigung zeigen.
 
 ## `--check-integrations`
 
