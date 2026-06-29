@@ -1,6 +1,6 @@
 {
   "name": "aktienrecht-hauptversammlung-ag-se",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV.",
   "keywords": [
     "aktienrecht",

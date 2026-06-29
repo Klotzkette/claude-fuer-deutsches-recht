@@ -1,6 +1,6 @@
 {
   "name": "kanzlei-mandant-lifecycle",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance.",
   "license": "Apache-2.0 OR MIT",
   "author": {

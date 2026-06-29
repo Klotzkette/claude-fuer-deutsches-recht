@@ -129,11 +129,11 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
-| `01-akte-erstdurchsicht-und-anfangsverdacht` | Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, zureichende tatsaechliche Anhaltspunkte (Paragraf 152 Abs. 2 StPO), Beschuldigtenstatus, Verjaehrung, erste Ermittlungsrichtung nach Paragraf 160 StPO |
+| `01-akte-erstdurchsicht-und-anfangsverdacht` | Strukturierte Erstdurchsicht des Ermittlungsvorgangs: Anzeige, Tatvorwurf, Anfangsverdacht, Beschuldigtenstatus, Verjährung, Zuständigkeit und erste Ermittlungsrichtung nach StPO. |
 | `02-zustaendigkeit-sta-und-amtsanwaltschaft` | Sachliche und oertliche Zustaendigkeit (Paragrafen 142 und 143 GVG), Abgrenzung Staatsanwalt und Amtsanwalt nach OrgStA, Dezernatszustaendigkeit, Abgabe und Uebernahme, Zustaendigkeit beim Amtsgericht und Landgericht |
 | `03-ermittlungsfuehrung-und-ermittlungsanweisung` | Führt Ermittlungen staatsanwaltschaftlich: Anfangsverdacht, Beweisthema, belastende und entlastende Umstände, konkrete Ermittlungsaufträge, Fristen, Verwertbarkeit und nächste Abschlussentscheidung. |
 | `04-durchsuchung-und-beschlagnahme-antrag` | Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt |
@@ -161,7 +161,8 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Beschrei
 | `26-opferschutz-nebenklage-und-verletztenrechte` | Opferschutzpflichten der Staatsanwaltschaft (Paragrafen 406d bis 406l StPO), Anschluss als Nebenklaeger (Paragrafen 395 bis 402 StPO), opferschutzrechtliche Belehrung, psychosoziale Prozessbegleitung (Paragraf 406g StPO), Akteneinsicht d... |
 | `27-wiederaufnahme-zuungunsten-paragraf-362` | Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Pruefungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367... |
 | `28-internationale-rechtshilfe-und-eu-haftbefehl` | Internationale Rechtshilfe in Strafsachen: Europaeischer Haftbefehl (Paragrafen 78 bis 83i IRG), Rechtshilfeersuchen (Paragrafen 59 ff. IRG), Europaeische Ermittlungsanordnung (Paragrafen 91a ff. IRG); Pruefschema fuer Ausstellung und Be... |
-| `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (anklageschrift, strafbefehlsantrag oder einstellungsverfuegung) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `99-finale-entscheidung-volltext` | Erzeugt Anklageschrift, Strafbefehlsantrag, Einstellungs- oder Abschlussverfügung als zeichnungsreifen staatsanwaltschaftlichen Volltext mit Tatvorwurf, Beweisstand, Verfügungssatz und Rechtsbehelfshinweis. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Stellt staatsanwaltschaftliche Verfahrenskniffe, Rechtsprechungsanker, Eingriffsgrenzen, Abschlussoptionen und Sitzungsdienst-Strategie in eine sofort nutzbare Matrix. |
 | `v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft` | Praxisraster für Staatsanwaltschaft und Amtsanwaltschaft: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

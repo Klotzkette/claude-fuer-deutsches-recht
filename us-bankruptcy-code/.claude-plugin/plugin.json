@@ -1,6 +1,6 @@
 {
   "name": "us-bankruptcy-code",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border.",
   "license": "Apache-2.0 OR MIT",
   "author": {

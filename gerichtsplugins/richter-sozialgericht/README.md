@@ -16,7 +16,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`richter-sozialgericht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht.zip) |
 | Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-werkstatt.md" download><code>richter-sozialgericht-werkstatt.md</code></a> |
 | Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-schnellstart.md" download><code>richter-sozialgericht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`richter-sozialgericht-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-testakte.zip) |
+| Testakte(n) als ZIP | ZIP | [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) (Hilfsmittelstreit Elektrorollstuhl Heinz Körner gegen Weser-Ems Gesundheitskasse) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,6 +120,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-urteil-sozialgericht` | Urteil Paragrafen 132 ff. SGG: Tenor (Aufhebung, Verurteilung zur Leistung, Bescheidung), Tatbestand, Entscheidungsgründe, Nebenentscheidungen Paragrafen 193 ff. SGG (Kosten), Berufung an LSG, Revision an BSG |
 | `10-entscheidungsvorschlag-sozialgericht` | Strukturierter Entscheidungsvorschlag: Tenor-Skizze, sozialrechtliche Anspruchsprüfung, medizinische Beweiswürdigung, soziale Faktoren, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil sozialgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
 | `v392-praxisraster-richter-sozialgericht` | Praxisraster für Sozialgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

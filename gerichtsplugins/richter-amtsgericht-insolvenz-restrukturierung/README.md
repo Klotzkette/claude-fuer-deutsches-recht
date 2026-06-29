@@ -103,7 +103,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -118,5 +118,6 @@ Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschrei
 | `09-starug-stabilisierungsanordnung` | Stabilisierungsanordnung Paragrafen 49 ff. StaRUG (Vollstreckungs- und Verwertungssperre), Voraussetzungen, Dauer (drei Monate, Verlaengerung), Schutzbereich, Folgenanordnung |
 | `10-starug-planbestaetigung-und-folgen` | Planabstimmung Paragrafen 17 ff. StaRUG, gruppeninternes Mehrheitserfordernis, gruppenübergreifender Cramdown Paragraf 26 StaRUG, gerichtliche Planbestätigung Paragrafen 60 ff., Wirkungen Paragraf 67 |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beschluss insolvenz oder restrukturierung) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt insolvenzgerichtliche Prozesskniffe zu Eröffnungsprüfung, Sicherungsmaßnahmen, Gutachten, Eigenverwaltung, Plan, Gläubigerschutz und Beschluss. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

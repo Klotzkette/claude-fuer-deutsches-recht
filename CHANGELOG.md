@@ -1,3 +1,12 @@
+# v401.0.0 — Coherence-Sweep: README-Skillübersichten resynchronisiert, Ease-of-Use-Block ausgerollt
+
+- Bug-Hunt und Coherence-Sweep: drei Plugin-READMEs nannten in der automatisch generierten Skillübersicht eine veraltete Skillzahl (gesellschaftsgruender, gesellschaftsrecht, grosskanzlei-corporate-ma); insgesamt 22 Skillübersichten auf den tatsächlichen Skillbestand mit aktuellen Beschreibungen gebracht.
+- Ease of Use vereinheitlicht: Der Direkt-loslegen-Block mit kompaktem „Schneller Weg"-Hinweis wurde über die Plugins mit Werkstatt- und Schnellstart-Prompt konsistent ausgerollt.
+- Sämtliche Änderungen ausschließlich über die idempotenten Repo-Generatoren erzeugt und nur an READMEs; Marketplace-Import-, Plugin-Struktur- und YAML-Frontmatter-Validatoren laufen grün (232 Plugins, 26114 Skills), keine kaputten internen Links.
+- Repo-weiter Versions-Bump auf v401.0.0.
+
+---
+
 # v400.1.0 — Einzel-PDF-Download der Elektrorollstuhlakte
 
 - Release-Workflow so ergänzt, dass `testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip` als eigenes Release-Asset veröffentlicht wird.

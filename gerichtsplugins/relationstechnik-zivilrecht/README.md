@@ -114,7 +114,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -123,21 +123,22 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 | `03-streitstand-erfassen` | Streitiger und unstreitiger Sachverhalt heraussortieren, Geltung von Paragraf 138 Abs. 3 ZPO (Gestaendnisfiktion), Beweisbeduerftigkeit der streitigen Tatsachen |
 | `04-klage-antrag-auslegen` | Klageantrag auslegen Paragraf 133 BGB analog, Bestimmtheit Paragraf 253 Abs. 2 Nr. 2 ZPO, Haupt- und Hilfsantraege, Stufenklage Paragraf 254 |
 | `05-anspruchsgrundlagen-identifizieren` | Anspruchsgrundlagen aufstellen: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich; Anspruchssystem nach Larenz/Wolf |
-| `06-schluessigkeit-pruefen` | Schluessigkeitsprüfung (Klägerstation): liegen die Voraussetzungen der Anspruchsgrundlage nach dem Klägervortrag vor? Subsumtion, Auslegung, Hilfstatsachen, Indizien |
+| `06-schluessigkeit-pruefen` | Schlüssigkeitsprüfung in der Klägerstation: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsachenvortrag, Rechtsfolge, Nebenforderung und Hinweisbedarf sauber trennen. |
 | `07-klaegerstation-votum` | Schriftliches Votum der Klägerstation: Anspruchsgrundlage, geprüfte Tatbestandsmerkmale, schluessige Rechtsfolge oder nicht schluessig, Hinweise nach Paragraf 139 ZPO |
 | `08-beklagtenvortrag-strukturieren` | Beklagtenvortrag ordnen: Bestreiten der Anspruchsvoraussetzungen, Einwendungen (rechtshindernd, rechtsvernichtend), Einreden (rechtshemmend wie Verjaehrung) |
 | `09-einwendungen-einreden-pruefen` | Prüfung der Einwendungen und Einreden: Verjaehrung Paragrafen 194 ff. BGB, Erfuellung Paragrafen 362 ff., Aufrechnung Paragrafen 387 ff., Anfechtung Paragrafen 142 ff., Stundung, Verzicht |
 | `10-erheblichkeit-pruefen` | Erheblichkeitsprüfung (Beklagtenstation): sind Einwendungen und Einreden rechtlich erheblich? Schluessigkeit + Erheblichkeit = Erfolgsaussicht der Klage bei unstreitigem Sachverhalt |
 | `11-beklagtenstation-votum` | Schriftliches Votum der Beklagtenstation: erhebliche Einwendungen und Einreden, unerhebliche Verteidigungsmittel, Beweisbeduerftigkeit erheblicher streitiger Tatsachen |
 | `12-beweisbeduerftige-tatsachen-isolieren` | Beweisbedürftige Tatsachen isolieren: erhebliche und streitige Tatsachen, Trennung von Rechtsfragen und Tatsachenfragen, Behauptungslast und Beweislast |
-| `13-beweislastverteilung-pruefen` | Beweislastverteilung nach allgemeinen Regeln (Rosenberg-Formel) und Sondernormen (Paragraf 280 Abs. 1 S. 2 BGB, Paragraf 286 ZPO, Paragrafen 363 und 477 BGB), Beweisvereitelung, sekundaere Darlegungslast |
+| `13-beweislastverteilung-pruefen` | Beweislastverteilung in der Beweisstation: anspruchsbegründende, rechtshindernde, rechtsvernichtende und rechtshemmende Tatsachen samt Sonderregeln trennen. |
 | `14-beweismittel-wuerdigen` | Beweismittel und ihre Würdigung: Augenschein Paragrafen 371 ff. ZPO, Zeuge Paragrafen 373 ff., Sachverständiger Paragrafen 402 ff., Urkunde Paragrafen 415 ff., Parteivernehmung Paragrafen 445 ff. |
-| `15-beweisstation-votum` | Schriftliches Votum der Beweisstation: Beweisaufnahmebedarf, Beweisbeschluss-Entwurf Paragraf 358a ZPO, antizipierte Beweiswürdigung, Ergebnis offen lassen oder Prognose dokumentieren |
+| `15-beweisstation-votum` | Schriftliches Votum der Beweisstation: Streitpunkt, Erheblichkeit, Beweislast, Beweismittel, Beweisbeschluss, Würdigung und non-liquet-Folge. |
 | `16-tenor-formulieren` | Tenor formulieren: Hauptsache (Verurteilung zur Zahlung, Herausgabe, Unterlassung, Feststellung), Nebenforderungen (Zinsen Paragraf 288 BGB), Kostenentscheidung, vorläufige Vollstreckbarkeit |
 | `17-tatbestand-schreiben` | Tatbestand Paragraf 313 Abs. 1 Nr. 5 ZPO: gestraffter unstreitiger Sachverhalt, streitiger Klägervortrag, streitiger Beklagtenvortrag, Antraege, prozessgeschichtliche Notizen; klare, einfache Sprache |
 | `18-entscheidungsgruende-aufbauen` | Entscheidungsgründe aufbauen: Zulässigkeit, Begründetheit (Anspruchsprüfung Schritt für Schritt), Beweiswürdigung, Nebenanspruchsprüfung, Behandlung erfolgloser Anspruchsgrundlagen kurz |
 | `19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit` | Nebenentscheidungen: Kosten Paragrafen 91 ff. ZPO, Baumbach'sche Formel bei subjektiver Klagehaeufung, vorläufige Vollstreckbarkeit Paragrafen 708-711 ZPO mit Vollstreckungsschutz Paragraf 712, Streitwert |
 | `20-urteilsentwurf-finalisieren` | Urteilsentwurf finalisieren: Rubrum, Tenor, Tatbestand, Entscheidungsgründe, Nebenentscheidungen, Rechtsmittelbelehrung; Schlussredaktion (Konsistenz Aktenzeichen Beteiligte Zitierweise), zur richterlichen Endprüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil oder beschluss zivil) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Verdichtet Relationstechnik zu Klägerstation, Beklagtenstation, Beweisstation, Entscheidungsstation, Hinweismanagement und urteilsfester Endkontrolle. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

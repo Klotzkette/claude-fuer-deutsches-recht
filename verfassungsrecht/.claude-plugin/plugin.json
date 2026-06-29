@@ -1,6 +1,6 @@
 {
   "name": "verfassungsrecht",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "bautraegervertragspruefer",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Prueft deutsche Bautraegervertraege: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklaerung. Liefert Mandantengutachten und Aufforderungsschreiben an Bautraeger und Notar.",
   "license": "Apache-2.0 OR MIT",
   "author": {

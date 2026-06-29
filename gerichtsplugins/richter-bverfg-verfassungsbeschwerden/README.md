@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,5 +120,6 @@ Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschrei
 | `09-nichtannahmebeschluss-entwurf` | Nichtannahmebeschluss Paragraf 93d Abs. 1 BVerfGG: ohne Begründung, mit Kurzbegründung, mit ausfuehrlicher Begründung; Wirkung Paragraf 93d Abs. 1 S. 2 (kein Rechtsmittel) |
 | `10-entscheidungsvorschlag-kammer-bverfg` | Strukturierter Entscheidungsvorschlag für die Kammer: Annahme oder Nichtannahme, ggf. Vorlage an den Senat, ggf. einstweilige Anordnung Paragraf 32 BVerfGG, Risikohinweise, ausdrücklich zur kammerinternen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beschluss oder urteil bverfg) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Prüft verfassungsgerichtliche Prozesskniffe zu Zulässigkeit, Subsidiarität, Gehör, Annahme, Folgenabwägung und tenorierter Abhilfe. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

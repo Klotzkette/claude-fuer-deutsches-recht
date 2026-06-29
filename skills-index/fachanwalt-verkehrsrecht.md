@@ -1,6 +1,6 @@
 # fachanwalt-verkehrsrecht
 
-**77 Skills** · Stand `v400.1.0`
+**77 Skills** · Stand `v401.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-verkehrsrecht/README.md)

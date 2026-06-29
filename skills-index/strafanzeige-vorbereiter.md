@@ -1,6 +1,6 @@
 # strafanzeige-vorbereiter
 
-**56 Skills** · Stand `v400.1.0`
+**56 Skills** · Stand `v401.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafanzeige-vorbereiter/README.md)

@@ -1,6 +1,6 @@
 # staatsanwaltschaft-amtsanwaltschaft
 
-**31 Skills** · Stand `v400.1.0`
+**31 Skills** · Stand `v401.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/README.md)

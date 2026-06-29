@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,6 +120,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-beschluss-familiensache-paragraf-38-famfg` | Erstellt richterliche Beschlüsse in Familiensachen nach Paragraf 38 FamFG mit Rubrum, Tenor, Gründen, Kosten, Vollstreckbarkeit, Rechtsmittelbelehrung und sauberer Nummerierung. |
 | `10-entscheidungsvorschlag-familienrichter` | Strukturierter Entscheidungsvorschlag für den Familienrichter: Tenor-Skizze (Scheidungsausspruch, Folgesachen, Sorge/Umgang/Unterhalt), Kindeswohlerwaegungen, Risikohinweise (insbesondere bei Eilanordnungen), ausdrücklich zur richterlich... |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beschluss familiengericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Ordnet familiengerichtliche Prozesskniffe zu Amtsermittlung, Kindeswohl, Anhörung, Umgang, Eilschutz, Vergleich, Tenor und Beschwerdefestigkeit. |
 | `v392-praxisraster-richter-familiengericht` | Praxisraster für Familiengericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

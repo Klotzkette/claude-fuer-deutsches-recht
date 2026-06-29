@@ -1,6 +1,6 @@
 {
   "name": "bereicherungs-und-anfechtungsrecht-pruefer",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.",
   "keywords": [
     "bereicherungs",

@@ -102,7 +102,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -117,6 +117,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-urteil-finanzgericht-und-revision` | Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde |
 | `10-entscheidungsvorschlag-finanzgericht` | Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, materielle Prüfung der Steuerart, Beweiswürdigung, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil finanzgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
 | `v392-praxisraster-richter-finanzgericht` | Praxisraster für Finanzgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

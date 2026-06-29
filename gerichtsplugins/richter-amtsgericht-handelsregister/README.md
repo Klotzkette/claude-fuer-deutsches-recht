@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,5 +120,6 @@ Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Beschrei
 | `09-vereins-und-genossenschaftsregister` | Vereinsregister Paragrafen 55-79 BGB: Anmeldung Paragraf 59, Eintragung, Vorstandsbestellung, Wahrnehmung wirtschaftlicher Geschaefte (BGH Wertungen); Genossenschaftsregister Paragrafen 156 ff. GenG |
 | `10-entscheidungsvorschlag-register` | Strukturierter Entscheidungsvorschlag für den Registerrichter oder Rechtspfleger: Eintragungsentwurf, Hinweise zur Eintragungsfähigkeit, ggf. Zwischenverfuegungsentwurf, ausdrücklich zur Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (beschluss handelsregister) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Verdichtet registergerichtliche Prozesskniffe zu Zwischenverfügung, Anhörung, Prüfungsumfang, Eintragung, Zurückweisung und Beschwerde. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

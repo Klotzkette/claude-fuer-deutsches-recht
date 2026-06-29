@@ -104,7 +104,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -119,6 +119,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-rechtsmittelbelehrung-strafkammer` | Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO |
 | `10-entscheidungsvorschlag-strafkammer` | Strukturierter Entscheidungsvorschlag für die Kammerberatung: Schuldspruch-Skizze, Strafzumessungs-Skizze, Bewaehrungsentscheidung, Maßnahmenkonzept, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil strafkammer) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt strafgerichtliche Prozesskniffe zu Beweisaufnahme, Hinweisen, Verständigung, Beweiswürdigung, Strafzumessung, Einziehung und revisionsfestem Urteil. |
 | `v392-praxisraster-richter-landgericht-strafkammer` | Praxisraster für Landgericht Strafkammer: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

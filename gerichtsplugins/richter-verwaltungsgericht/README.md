@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,6 +120,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-rechtsmittel-vwgo` | Berufung Paragrafen 124 ff. VwGO (Zulassung durch OVG/VGH), Revision Paragraf 132 VwGO (Zulassung durch BVerwG), Nichtzulassungsbeschwerde, Beschwerde Paragraf 146 VwGO |
 | `10-entscheidungsvorschlag-verwaltungsgericht` | Strukturierter Entscheidungsvorschlag: Tenor, Prüfungsschema Zulässigkeit Begründetheit, Argumentation der Behoerde gegenübergestellt dem Klägervortrag, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil verwaltungsgericht) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Führt öffentlich-rechtliche Verfahrenskniffe zu Amtsermittlung, Gehör, Eilrechtsschutz, Beiladung, Präklusion, Tenor und Begründung zusammen. |
 | `v392-praxisraster-richter-verwaltungsgericht` | Praxisraster für Verwaltungsgericht: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -591,6 +591,6 @@ Automatisch generierte Komplett-Liste aller 505 Skills in diesem Plugin. Beschre
 | `workflow-mandantenkommunikation` | Mandantenkommunikation: Mandantenkommunikation: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate: Red-Team Qualitygate: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `workflow-unterlagen-lueckenliste` | Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen. |
-| `zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17` | Zahlungsunfaehigkeit Paragraf 17 InsO BGH Ix Zb 25 17: fachanwaltlicher Spezialskill mit Normenanker, Fristen-/Zustaendigkeitscheck, Beweisfragen, Rechtsprechungshygiene und direkt nutzbarem Arbeitsprodukt. |
+| `zahlungsunfaehigkeit-paragraf-17-inso-bgh-ix-zb-25-17` | Prüft Zahlungsunfähigkeit nach Paragraf 17 InsO fachanwaltlich mit Stichtag, Liquiditätsbilanz, streitigen Forderungen, Titeln, Indizien und Organpflichten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

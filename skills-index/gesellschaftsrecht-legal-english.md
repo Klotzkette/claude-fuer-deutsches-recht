@@ -1,6 +1,6 @@
 # gesellschaftsrecht-legal-english
 
-**53 Skills** · Stand `v400.1.0`
+**53 Skills** · Stand `v401.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gesellschaftsrecht-legal-english/README.md)

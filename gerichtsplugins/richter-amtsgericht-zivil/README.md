@@ -105,7 +105,7 @@ Dual-lizenziert MIT und Apache-2.0.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -120,6 +120,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Beschrei
 | `09-vergleich-und-erledigung` | Prozessvergleich Paragraf 794 Abs. 1 Nr. 1 ZPO, Vergleich im Termin, schriftlicher Vergleich Paragraf 278 Abs. 6 ZPO, Erledigung in der Hauptsache, einseitige Erledigungserklaerung |
 | `10-entscheidungsvorschlag-zur-richterlichen-pruefung` | Strukturierter Entscheidungsvorschlag für den Richter: Tenor-Vorschlag, tragende Gründe in Stichpunkten, Risikohinweise (Beweisrisiko, Verjaehrung, Streitwert), ausdrücklich als Vorschlag zur richterlichen Prüfung markiert |
 | `99-finale-entscheidung-volltext` | Erzeugt die finale entscheidung als volltext (urteil amtsgericht zivil) als versandfertigen Volltext mit Rubrum, Tenor, Tatbestand, Entscheidungsgründen, Nebenentscheidungen und Rechtsmittelbelehrung. |
+| `prozessuale-kniffe-und-rechtsprechungsanker` | Bündelt zivilgerichtliche Prozesskniffe zu Hinweisen, Schlüssigkeit, Erheblichkeit, Beweislast, Präklusion, Vergleich, Tenor und Berufungsfestigkeit. |
 | `v392-praxisraster-richter-amtsgericht-zivil` | Praxisraster für Amtsgericht Zivil: Zuständigkeit, Verfahrensstand, Pflichtnormen, Beweisbedarf und passendes Endprodukt werden in der richtigen gerichtlichen oder staatsanwaltschaftlichen Rolle abgearbeitet. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

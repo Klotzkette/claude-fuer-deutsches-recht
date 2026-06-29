@@ -1,6 +1,6 @@
 {
   "name": "verkehrsowi-verteidiger",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

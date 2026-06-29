@@ -1,6 +1,6 @@
 {
   "name": "ki-vo-ai-act-pruefer",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis.",
   "keywords": [
     "act",

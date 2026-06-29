@@ -1,6 +1,6 @@
 {
   "name": "memorandums-ersteller",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher.",
   "license": "Apache-2.0 OR MIT",
   "author": {

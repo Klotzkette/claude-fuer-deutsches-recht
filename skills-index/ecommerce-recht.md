@@ -1,6 +1,6 @@
 # ecommerce-recht
 
-**72 Skills** · Stand `v400.1.0`
+**72 Skills** · Stand `v401.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/README.md)

@@ -141,8 +141,8 @@ Automatisch generierte Komplett-Liste aller 73 Skills in diesem Plugin. Beschrei
 | `liquiditaetsstatus-quellenbelege` | Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `liquiditaetsstatus-quellenbelege-live-quote` | Liquiditaetsstatus Quellenbelege Live Quote: prüft konkret Liquiditätsstatus nur aus belastbaren Quellenbelegen, Live, Quote. |
 | `liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditaetsvorschau für 3/6/12 Monate mit Fortfuehrungsprognose, Wochenraster, Excel-Export und Quellenhygiene. Rechtsprechung nur nach Live-Prüfung. |
-| `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Prüfung. |
-| `liquiditaetsvorschau-insolvenzrechtlich` | Prüfungslinie für liquiditaetsvorschau insolvenzrechtlich im Liquiditaetsplanung. |
+| `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditätsvorschau nach Paragraf 17 InsO mit Wochenraster, Excel-Export, Quote, Lücken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Prüfung. |
+| `liquiditaetsvorschau-insolvenzrechtlich` | Prüft insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau mit Passiva-Logik, streitigen Forderungen, Titeln, Stundungen und Sanierungsübergabe. |
 | `live-mandantenkommunikation` | Live: Mandantenkommunikation und Entscheidungsvorlage: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion... |
 | `luecken-quellenkarte` | Luecken Quellenkarte: Quellenprüfung; Normenstand, Rechtsprechung, Behördenpraxis und Zitierfähigkeit werden vor einer tragenden Aussage verifiziert. |
 | `mahnstufen-debitoren` | Debitorenseite optimieren: DSO-Kennzahl, Mahnstufen, Skontostrategie, Factoring-Optionen, Forderungsausfallversicherung. Empfehlung: 3-Wochen-Forecast getrennt nach Kategorie 'sicher / wahrscheinlich / fraglich'. |

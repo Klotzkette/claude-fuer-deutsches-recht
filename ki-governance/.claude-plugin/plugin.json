@@ -1,6 +1,6 @@
 {
   "name": "ki-governance",
-  "version": "400.1.0",
+  "version": "401.0.0",
   "description": "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
   "keywords": [
     "governance",
