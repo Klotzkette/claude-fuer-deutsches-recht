@@ -1,6 +1,6 @@
 {
   "name": "startup-hr-personalabteilung-berlin",
-  "version": "402.0.0",
+  "version": "403.0.0",
   "description": "Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.",
   "keywords": [
     "startup",

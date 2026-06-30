@@ -1,6 +1,6 @@
 {
   "name": "commercial-courts-deutschland",
-  "version": "402.0.0",
+  "version": "403.0.0",
   "description": "Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow.",
   "license": "Apache-2.0 OR MIT",
   "author": {

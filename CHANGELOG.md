@@ -1,3 +1,12 @@
+# v403.0.0 — Tempo-Sweep und Prompt-Start geschärft
+
+- Werkstatt-Prompts aller 232 Plugins starten jetzt mit einem ausdrücklich verwertbaren Sofortbild: Sobald der Zwischenstand trägt, wird er ausgegeben und die anschließende Vertiefung markiert.
+- Schnellstart-Prompts aller 232 Plugins liefern bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie und vertiefen danach, statt vorab Material abzuklappern.
+- Generator und Tempo-Refiner auf dieselbe Startlogik gehärtet, damit künftige Prompt-Läufe die schnellere Arbeitsweise nicht wieder verlieren.
+- Marketplace, alle Plugin-Manifeste, Skill-Index, Asset-Index und Coverage-Dokumentation auf v403.0.0 synchronisiert.
+
+---
+
 # v402.0.0 — Testakten-Dreiklang, Familienrechtsakte und Release-Export gehärtet
 
 - Neue zentrale Familienrechtsakte `familienrecht-unterhalt-zugewinn-bad-nauheim` angelegt: Unterhalts- und Zugewinnvorgang Neumann mit Mandatsnotiz, Trennungs- und Betreuungschronik, Kinderdaten, Mehrbedarf, beiderseitigen Einkommensunterlagen, Nebengewerbe, Wohnwert, Darlehenslasten, Anfangs- und Endvermögen, Kontoauffälligkeiten, Auskunftskorrespondenz, Fristsachen, CSV, EML, DOCX, XLSX und Gesamt-PDF. Die Akte liefert Sachverhalt und Unterlagen, aber keine fertige Lösung.

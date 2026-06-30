@@ -1,6 +1,6 @@
 # grosskanzlei-corporate-ma
 
-**281 Skills** · Stand `v402.0.0`
+**281 Skills** · Stand `v403.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/grosskanzlei-corporate-ma/README.md)

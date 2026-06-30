@@ -24,7 +24,7 @@ MAX_FAST = 7500
 WERKSTATT_TEMPO_BLOCK = [
     "### 1.1. Arbeitsmodus: schnell und belastbar",
     "",
-    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt.",
+    "Beginne mit einem Sofortbild in höchstens fünf Sätzen: Ziel, Frist, Engpass, stärkster Anker, nächster Output. Lies Material zuerst; frage nur nach, wenn Frist, Zuständigkeit, Beweis oder Rechtsfolge sonst kippt. Wenn der Zwischenstand trägt, gib ihn sofort aus und markiere die Vertiefung.",
     "",
     "Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine Vorrede, keine Materialinventur; jeder Abschnitt endet mit Satz, Tabelle, Antrag, Klausel oder Nachforderung.",
     "",
@@ -32,7 +32,7 @@ WERKSTATT_TEMPO_BLOCK = [
 SCHNELLSTART_TEMPO_BLOCK = [
     "## 1. Schnellmodus",
     "",
-    "Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.",
+    "Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und nächsten Schritt. Bei umfangreichen Unterlagen zuerst eine belastbare Kurzfassung mit Fundstellenlinie liefern, danach vertiefen. Frage höchstens zwei Punkte nach, wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge oder Varianten.",
     "",
 ]
 WERKSTATT_ERGONOMY_TEXT = """### 1.2. Ausgabeformate für schnelle Lieferung

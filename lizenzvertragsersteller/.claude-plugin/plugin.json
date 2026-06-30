@@ -1,6 +1,6 @@
 {
   "name": "lizenzvertragsersteller",
-  "version": "402.0.0",
+  "version": "403.0.0",
   "description": "Baukastensystem für IP-Lizenzvertraege deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschaeftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.",
   "license": "Apache-2.0 OR MIT",
   "author": {

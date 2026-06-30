@@ -1,6 +1,6 @@
 {
   "name": "nda-abgleich",
-  "version": "402.0.0",
+  "version": "403.0.0",
   "description": "Gleicht NDA-Entwurf der Gegenseite gegen eigenen Standard ab und setzt Haltelinien chirurgisch im Word-Änderungsmodus durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Tracked Changes. Keine Absatzlöschungen, keine Klausel-Neufassungen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

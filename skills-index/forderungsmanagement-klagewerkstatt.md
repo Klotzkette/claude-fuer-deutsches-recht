@@ -1,6 +1,6 @@
 # forderungsmanagement-klagewerkstatt
 
-**84 Skills** · Stand `v402.0.0`
+**84 Skills** · Stand `v403.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/forderungsmanagement-klagewerkstatt/README.md)

@@ -1,6 +1,6 @@
 {
   "name": "parteienrecht-parteiorganisation",
-  "version": "402.0.0",
+  "version": "403.0.0",
   "description": "Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation.",
   "license": "Apache-2.0 OR MIT",
   "author": {
