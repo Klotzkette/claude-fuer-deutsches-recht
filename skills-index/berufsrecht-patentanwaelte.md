@@ -1,6 +1,6 @@
 # berufsrecht-patentanwaelte
 
-**204 Skills** · Stand `v401.0.0`
+**204 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-patentanwaelte/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-patentanwaelte-werkstatt.md" download><code>berufsrecht-patentanwaelte-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-patentanwaelte-schnellstart.md" download><code>berufsrecht-patentanwaelte-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-werkstatt.md" download><code>berufsrecht-patentanwaelte-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-patentanwaelte/berufsrecht-patentanwaelte-schnellstart.md" download><code>berufsrecht-patentanwaelte-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [berufsrecht-patentanwaelte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-patentanwaelte.zip) |
 

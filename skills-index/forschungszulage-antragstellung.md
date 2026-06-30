@@ -1,6 +1,6 @@
 # forschungszulage-antragstellung
 
-**84 Skills** · Stand `v401.0.0`
+**84 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/forschungszulage-antragstellung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forschungszulage-antragstellung-werkstatt.md" download><code>forschungszulage-antragstellung-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forschungszulage-antragstellung-schnellstart.md" download><code>forschungszulage-antragstellung-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md" download><code>forschungszulage-antragstellung-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md" download><code>forschungszulage-antragstellung-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [forschungszulage-antragstellung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forschungszulage-antragstellung.zip) |
 

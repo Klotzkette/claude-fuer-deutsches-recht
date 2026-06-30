@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`common-law-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-werkstatt.md" download><code>common-law-kompass-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass-schnellstart.md" download><code>common-law-kompass-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) (Akte Common-Law-Kompass: Crossborder Supply & License Agreement) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/common-law-kompass/common-law-kompass-werkstatt.md" download><code>common-law-kompass-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/common-law-kompass/common-law-kompass-schnellstart.md" download><code>common-law-kompass-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Akte Common-Law-Kompass: Crossborder Supply & License Agreement: [Gesamt-PDF](../testakten/common-law-kompass-crossborder-contract/gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf), [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip), [`testakte-common-law-kompass-crossborder-contract-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

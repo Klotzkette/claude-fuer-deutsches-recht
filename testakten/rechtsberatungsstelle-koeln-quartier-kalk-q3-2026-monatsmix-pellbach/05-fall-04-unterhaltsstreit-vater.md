@@ -22,7 +22,7 @@ Kindesunterhalt nach Düsseldorfer Tabelle 2026:
 **Unterhaltsanspruch (§§ 1601 ff. BGB):**
 - Kinder gegen Elternteil: §§ 1601, 1602, 1603 BGB.
 - Leistungsunfähigkeit: § 1603 Abs. 2 BGB (gesteigerte Unterhaltspflicht gegenüber minderjährigen Kindern); Notwendiger Eigenbedarf 1.450 EUR (Düsseldorfer Tabelle 2026).
-- Fiktives Einkommen: Bei Schwarzarbeit wird fiktives Einkommen zugrunde gelegt, wenn der Unterhaltspflichtige seine Leistungsfähigkeit willentlich verringert (§ 1603 BGB analog, BGH XII ZR 227/09).
+- Zugerechnetes Einkommen: Bei Schwarzarbeit wird ein zurechenbares Einkommen zugrunde gelegt, wenn der Unterhaltspflichtige seine Leistungsfähigkeit willentlich verringert (Paragraf 1603 BGB analog, BGH XII ZR 227/09).
 
 **Prozesskostenhilfe (ZPO § 114 ff.):**
 - Frau Sobieski-Lau hat Einkommen 1.250 EUR netto (Teilzeit Einzelhandel); unter PKH-Einkommensgrenze.
@@ -45,4 +45,4 @@ Kindesunterhalt nach Düsseldorfer Tabelle 2026:
 - BGB §§ 1601, 1602, 1603, 1610
 - ZPO §§ 114–127 (Prozesskostenhilfe)
 - Düsseldorfer Tabelle 2026 (OLG Düsseldorf, Stand 01.01.2026)
-- dejure.org: BGH XII ZR 227/09 (fiktives Einkommen Schwarzarbeit)
+- dejure.org: BGH XII ZR 227/09 (zugerechnetes Einkommen bei Schwarzarbeit)

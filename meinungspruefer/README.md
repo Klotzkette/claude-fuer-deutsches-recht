@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`meinungspruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-werkstatt.md" download><code>meinungspruefer-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/meinungspruefer-schnellstart.md" download><code>meinungspruefer-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-meinungspruefer-grenzfaelle-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip) (Meinungsprüfer - Grenzfälle im Alltag) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/meinungspruefer/meinungspruefer-werkstatt.md" download><code>meinungspruefer-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/meinungspruefer/meinungspruefer-schnellstart.md" download><code>meinungspruefer-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Meinungsprüfer - Grenzfälle im Alltag: [Gesamt-PDF](../testakten/meinungspruefer-grenzfaelle-alltag/gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf), [`testakte-meinungspruefer-grenzfaelle-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip), [`testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

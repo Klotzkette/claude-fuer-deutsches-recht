@@ -9,7 +9,7 @@ Status: Musterbrief abgesandt; Antwort Airline ausstehend
 
 Klient: Dmitrij Schwarz-Palenko (38), wohnhaft Kalker Hauptstr. 201, 51103 Köln. Beschäftigt als IT-Techniker.
 
-Herr Schwarz-Palenko buchte bei EasyFly Airlines (fiktiv) einen Flug Köln/Bonn (CGN) — Istanbul (IST) für den 15.08.2026, Abflug 07:20 Uhr. Buchung als Economy-Flug (Ticket 187 EUR). Am 14.08.2026, 22:47 Uhr, erhielt er eine SMS-Benachrichtigung: Flug gecancelt wegen technischer Probleme. Ersatzangebote: Umleitung via Frankfurt am nächsten Tag (15 Stunden Verspätung) oder volle Erstattung.
+Herr Schwarz-Palenko buchte bei EasyFly Airlines einen Flug Köln/Bonn (CGN) — Istanbul (IST) für den 15.08.2026, Abflug 07:20 Uhr. Buchung als Economy-Flug (Ticket 187 EUR). Am 14.08.2026, 22:47 Uhr, erhielt er eine SMS-Benachrichtigung: Flug gecancelt wegen technischer Probleme. Ersatzangebote: Umleitung via Frankfurt am nächsten Tag (15 Stunden Verspätung) oder volle Erstattung.
 
 Er wählte die Erstattung. EasyFly zahlte den Ticketpreis zurück, verweigerte aber die Ausgleichszahlung nach EU-VO 261/2004.
 

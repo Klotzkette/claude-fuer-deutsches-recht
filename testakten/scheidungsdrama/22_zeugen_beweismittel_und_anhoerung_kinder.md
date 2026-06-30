@@ -13,7 +13,7 @@ Das Verfahren hat mehrere parallele Beweisfelder:
 |---|---|---|
 | Umgang / Kindeswohl | Alkohol-Vorfall, Kinder-Wohlbefinden, Franz' Kooperationsverhalten | Maras Aussage, Schulpsychologin, JA-Protokoll, Jugendamt-Stellungnahme |
 | Zugewinn | Wert Architekturbüro, Wert Holzwerkstätten | Parteigutachten WP Dreschler, ggf. Gerichtsgutachten |
-| Unterhalt | Einkommen Franz tatsächlich und fiktiv | Jahresabschlüsse, Steuerbescheide, Bankkontoauszüge |
+| Unterhalt | Einkommen Franz tatsächlich und zurechenbar | Jahresabschlüsse, Steuerbescheide, Bankkontoauszüge |
 | Versorgungsausgleich | Anwartschaften beider Parteien | Auskünfte Versorgungsträger (§ 5 VersAusglG) |
 | Immobilie | Verkehrswert | SV-Gutachten Klausberg |
 | SBGG / Mara | Kindeswille, psychische Stabilität, Ernsthaftigkeit | Beratungsschein Kompass, Aussage Mara ggf. vor Gericht |

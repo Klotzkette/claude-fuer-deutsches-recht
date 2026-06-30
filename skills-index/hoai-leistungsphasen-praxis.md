@@ -1,6 +1,6 @@
 # hoai-leistungsphasen-praxis
 
-**388 Skills** · Stand `v401.0.0`
+**388 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/hoai-leistungsphasen-praxis/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis-werkstatt.md" download><code>hoai-leistungsphasen-praxis-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis-schnellstart.md" download><code>hoai-leistungsphasen-praxis-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md" download><code>hoai-leistungsphasen-praxis-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md" download><code>hoai-leistungsphasen-praxis-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [hoai-leistungsphasen-praxis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis.zip) |
 

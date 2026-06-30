@@ -1,6 +1,6 @@
 # sozialversicherungsstatus-pruefer
 
-**101 Skills** · Stand `v401.0.0`
+**101 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/sozialversicherungsstatus-pruefer/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-werkstatt.md" download><code>sozialversicherungsstatus-pruefer-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer-schnellstart.md" download><code>sozialversicherungsstatus-pruefer-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-werkstatt.md" download><code>sozialversicherungsstatus-pruefer-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/sozialversicherungsstatus-pruefer/sozialversicherungsstatus-pruefer-schnellstart.md" download><code>sozialversicherungsstatus-pruefer-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [sozialversicherungsstatus-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
 

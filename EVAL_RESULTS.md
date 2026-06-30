@@ -27,7 +27,7 @@ Stand: 2026-06-18T19:01:51Z
 | `beamtenrecht-schulleitung-hannover-konkurrentenstreit` | PASS | 3 | 0 | 1 |
 | `bebauungsplan-augsburg-bahnhofsareal` | PASS | 5 | 0 | 1 |
 | `befristungskontrollklage-vogt-stadtwerke` | PASS | 3 | 0 | 1 |
-| `beispielakte-edelholz-berlin` | PASS | 3 | 0 | 1 |
+| `edelholz-manufaktur-berlin-liquiditaet` | PASS | 3 | 0 | 1 |
 | `bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn` | PASS | 3 | 0 | 1 |
 | `berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch` | PASS | 3 | 0 | 1 |
 | `betaeubungsmittelrecht-apotheke-substitution-festival` | PASS | 3 | 0 | 1 |

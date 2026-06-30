@@ -1,6 +1,6 @@
 # aktienrecht-hauptversammlung-ag-se
 
-**100 Skills** · Stand `v401.0.0`
+**100 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktienrecht-hauptversammlung-ag-se/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se-werkstatt.md" download><code>aktienrecht-hauptversammlung-ag-se-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se-schnellstart.md" download><code>aktienrecht-hauptversammlung-ag-se-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md" download><code>aktienrecht-hauptversammlung-ag-se-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md" download><code>aktienrecht-hauptversammlung-ag-se-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [aktienrecht-hauptversammlung-ag-se.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se.zip) |
 

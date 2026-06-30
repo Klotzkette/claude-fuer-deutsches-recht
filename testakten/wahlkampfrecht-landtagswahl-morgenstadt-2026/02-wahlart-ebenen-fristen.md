@@ -2,7 +2,7 @@
 
 ## Arbeitshypothese
 
-Landtagswahl in einem fiktiven Bundesland. Das Landeswahlgesetz und die Landeswahlordnung sind live zu prüfen. Für allgemeine Kampagnenregeln bleiben Grundgesetz, Parteiengesetz, Datenschutzrecht, Strafrecht, Medienrecht, Straßen-/Sondernutzungsrecht und kommunale Plakatierungsregeln relevant.
+Landtagswahl im Land Morgenau. Das Landeswahlgesetz und die Landeswahlordnung sind anhand der amtlichen Fassungen zu prüfen. Für allgemeine Kampagnenregeln bleiben Grundgesetz, Parteiengesetz, Datenschutzrecht, Strafrecht, Medienrecht, Straßen- und Sondernutzungsrecht sowie kommunale Plakatierungsregeln relevant.
 
 ## Noch offen
 

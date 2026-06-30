@@ -1,6 +1,6 @@
 # aussenwirtschaft-zoll-sanktionen
 
-**124 Skills** · Stand `v401.0.0`
+**124 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aussenwirtschaft-zoll-sanktionen/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen-werkstatt.md" download><code>aussenwirtschaft-zoll-sanktionen-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen-schnellstart.md" download><code>aussenwirtschaft-zoll-sanktionen-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md" download><code>aussenwirtschaft-zoll-sanktionen-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md" download><code>aussenwirtschaft-zoll-sanktionen-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip) |
 

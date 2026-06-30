@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`notariat-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-werkstatt.md" download><code>notariat-alltag-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/notariat-alltag-schnellstart.md" download><code>notariat-alltag-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip) (Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/notariat-alltag/notariat-alltag-werkstatt.md" download><code>notariat-alltag-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/notariat-alltag/notariat-alltag-schnellstart.md" download><code>notariat-alltag-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Akte Waldwinkel: GmbH-Anteile, Hofgrundstück, Erbfolge und drei Registerrückfragen: [Gesamt-PDF](../testakten/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall/gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf), [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall.zip), [`testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-notariat-alltag-waldwinkel-gmbh-immobilien-erbfall-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

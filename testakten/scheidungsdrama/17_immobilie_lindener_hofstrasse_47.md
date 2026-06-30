@@ -8,7 +8,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss / RAin Helmstedt
 ## 1. Objektbeschreibung
 
 **Objekt:** Einfamilienhaus, freistehendes Gebäude, Baujahr ca. 1964, Kernsanierung 2014–2015.
-**Adresse:** Lindener Hofstraße 47, 30449 Hannover-Linden (fiktive Straße im realen Stadtteil).
+**Adresse:** Lindener Hofstraße 47, 30449 Hannover-Linden.
 **Grundstück:** lt. Grundbuchauszug 384 qm.
 **Wohnfläche:** ca. 168 qm (5 Zimmer, 2 Bäder, Küche, Diele, kleiner Garten, Garage).
 **Eigentümer:** Hanna Trüffelberch und Franz Trüffelberch je 1/2 als Bruchteilsgemeinschaft.
@@ -18,7 +18,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss / RAin Helmstedt
 
 ## 2. Wertgutachten
 
-**Gutachter:** Dipl.-Ing. Carsten Klausberg, öffentlich bestellter und vereidigter Sachverständiger für Grundstücksbewertung, Hannover (Büro: Vahrenwalder Straße 12, 30165 Hannover — fiktiv). Mitglied IHK Hannover.
+**Gutachter:** Dipl.-Ing. Carsten Klausberg, öffentlich bestellter und vereidigter Sachverständiger für Grundstücksbewertung, Hannover (Büro: Vahrenwalder Straße 12, 30165 Hannover). Mitglied IHK Hannover.
 **Auftrag:** erteilt durch RAin Helmstedt im Namen Hannas, August 2025.
 **Gutachten-Datum:** 10.09.2025.
 **Verkehrswert:** 920.000 EUR.

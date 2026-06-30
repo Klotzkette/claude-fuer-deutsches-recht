@@ -1,3 +1,16 @@
+# v402.0.0 — Testakten-Dreiklang, Familienrechtsakte und Release-Export gehärtet
+
+- Neue zentrale Familienrechtsakte `familienrecht-unterhalt-zugewinn-bad-nauheim` angelegt: Unterhalts- und Zugewinnvorgang Neumann mit Mandatsnotiz, Trennungs- und Betreuungschronik, Kinderdaten, Mehrbedarf, beiderseitigen Einkommensunterlagen, Nebengewerbe, Wohnwert, Darlehenslasten, Anfangs- und Endvermögen, Kontoauffälligkeiten, Auskunftskorrespondenz, Fristsachen, CSV, EML, DOCX, XLSX und Gesamt-PDF. Die Akte liefert Sachverhalt und Unterlagen, aber keine fertige Lösung.
+- Testakten-Export gehärtet: zentrale Akten, pluginlokale Akten und Materialordner werden lokal als Daten-ZIP, Gesamt-PDF und Einzel-PDF-ZIP gebaut; Release-Workflow und Validatoren prüfen diese Asset-Familien getrennt.
+- Pluginlokale Testakten der Gerichts-, Staatsanwaltschafts- und Arbeitszeugnis-Plugins erhalten Gesamt-PDFs und eigene Einzel-PDF-ZIPs. Die Downloadblöcke zeigen zentrale und pluginlokale Akten gemeinsam, wenn beides vorhanden ist.
+- Exportfilter verschärft: Lösungspfade, Pflichtanker, Streitstofflisten, Erwartungshorizonte und ähnliche interne Hilfsdateien werden nicht in Akten-ZIPs übernommen.
+- Ältere sichtbare Demo-, Beispiel- und Fiktionsmarker in Aktenstücken und Übersichten bereinigt; `beispielakte-edelholz-berlin` in `edelholz-manufaktur-berlin-liquiditaet` umbenannt und alle Downloadverweise nachgezogen.
+- Werkstatt- und Schnellstart-Einzeldateien bleiben Markdown-Direktdownloads über raw.githubusercontent; Release-Assets bleiben unter der Asset-Grenze und enthalten weiterhin die Sammel-ZIPs.
+- Validiert: Plugin-Struktur, YAML-Frontmatter, Marketplace-Import, Release-Readiness, zentrale Gesamt-PDFs, Daten-ZIPs, Einzel-PDF-ZIPs und pluginlokale Testakten-Assets.
+- Repo-weiter Versions-Bump auf v402.0.0.
+
+---
+
 # v401.0.0 — Coherence-Sweep: README-Skillübersichten resynchronisiert, Ease-of-Use-Block ausgerollt
 
 - Bug-Hunt und Coherence-Sweep: drei Plugin-READMEs nannten in der automatisch generierten Skillübersicht eine veraltete Skillzahl (gesellschaftsgruender, gesellschaftsrecht, grosskanzlei-corporate-ma); insgesamt 22 Skillübersichten auf den tatsächlichen Skillbestand mit aktuellen Beschreibungen gebracht.
@@ -3093,7 +3106,7 @@ Vertiefende Erweiterung des `fachanwalt-vergaberecht`-Plugins um 12 neue Spezial
 
 - **IDW S 6 Stadienlehre**: Die fünf/sechs Krisenstadien (Stakeholder-, Strategie-, Produkt-/Absatz-, Erfolgs-, Liquiditätskrise, Insolvenzreife) korrekt als IDW-S-6-eigene Stadienlehre (in Anlehnung an Müller 1986) zugeordnet, nicht mehr als "Hauschka-Krisenmodell" bezeichnet.
   - `steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/references/idw-s6-kernelemente.md`
-  - `testakten/beispielakte-edelholz-berlin/liquiditaetsplan_edelholz.md`
+  - `testakten/edelholz-manufaktur-berlin-liquiditaet/liquiditaetsplan_edelholz.md`
 
 ## Zahlen
 

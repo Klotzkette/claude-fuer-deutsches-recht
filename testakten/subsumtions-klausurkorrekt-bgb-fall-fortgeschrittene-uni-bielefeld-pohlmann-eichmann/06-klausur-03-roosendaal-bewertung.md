@@ -10,7 +10,7 @@
 | Feld | Wert |
 |---|---|
 | Klausurant | Andreas Roosendaal |
-| Matrikelnummer | 2211092 (fiktiv) |
+| Matrikelnummer | 2211092 |
 | Gesamtpunkte | 7 von 25 |
 | Note | 5,0 |
 | Bestanden | Nein |

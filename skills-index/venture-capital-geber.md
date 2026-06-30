@@ -1,6 +1,6 @@
 # venture-capital-geber
 
-**105 Skills** · Stand `v401.0.0`
+**105 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/venture-capital-geber/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-werkstatt.md" download><code>venture-capital-geber-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber-schnellstart.md" download><code>venture-capital-geber-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/venture-capital-geber/venture-capital-geber-werkstatt.md" download><code>venture-capital-geber-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/venture-capital-geber/venture-capital-geber-schnellstart.md" download><code>venture-capital-geber-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [venture-capital-geber.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/venture-capital-geber.zip) |
 

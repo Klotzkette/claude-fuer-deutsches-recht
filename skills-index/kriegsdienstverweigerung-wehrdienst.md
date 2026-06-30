@@ -1,6 +1,6 @@
 # kriegsdienstverweigerung-wehrdienst
 
-**136 Skills** · Stand `v401.0.0`
+**136 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kriegsdienstverweigerung-wehrdienst/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kriegsdienstverweigerung-wehrdienst-werkstatt.md" download><code>kriegsdienstverweigerung-wehrdienst-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kriegsdienstverweigerung-wehrdienst-schnellstart.md" download><code>kriegsdienstverweigerung-wehrdienst-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md" download><code>kriegsdienstverweigerung-wehrdienst-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md" download><code>kriegsdienstverweigerung-wehrdienst-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [kriegsdienstverweigerung-wehrdienst.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kriegsdienstverweigerung-wehrdienst.zip) |
 

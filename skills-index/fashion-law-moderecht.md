@@ -1,6 +1,6 @@
 # fashion-law-moderecht
 
-**50 Skills** · Stand `v401.0.0`
+**50 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fashion-law-moderecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-werkstatt.md" download><code>fashion-law-moderecht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht-schnellstart.md" download><code>fashion-law-moderecht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fashion-law-moderecht/fashion-law-moderecht-werkstatt.md" download><code>fashion-law-moderecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fashion-law-moderecht/fashion-law-moderecht-schnellstart.md" download><code>fashion-law-moderecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fashion-law-moderecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fashion-law-moderecht.zip) |
 

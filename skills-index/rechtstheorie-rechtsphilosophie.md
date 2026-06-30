@@ -1,6 +1,6 @@
 # rechtstheorie-rechtsphilosophie
 
-**65 Skills** · Stand `v401.0.0`
+**65 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/rechtstheorie-rechtsphilosophie/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie-werkstatt.md" download><code>rechtstheorie-rechtsphilosophie-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie-schnellstart.md" download><code>rechtstheorie-rechtsphilosophie-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-werkstatt.md" download><code>rechtstheorie-rechtsphilosophie-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/rechtstheorie-rechtsphilosophie/rechtstheorie-rechtsphilosophie-schnellstart.md" download><code>rechtstheorie-rechtsphilosophie-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [rechtstheorie-rechtsphilosophie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
 

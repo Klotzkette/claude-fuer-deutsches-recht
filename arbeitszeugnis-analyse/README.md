@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitszeugnis-analyse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse-werkstatt.md" download><code>arbeitszeugnis-analyse-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse-schnellstart.md" download><code>arbeitszeugnis-analyse-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-arbeitszeugnis-analyse-bluehendes-leben.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) (Arbeitszeugnis-Analyse — aus dem blühenden Leben) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md" download><code>arbeitszeugnis-analyse-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md" download><code>arbeitszeugnis-analyse-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Arbeitszeugnis-Analyse — aus dem blühenden Leben: [Gesamt-PDF](../testakten/arbeitszeugnis-analyse-bluehendes-leben/gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf), [`testakte-arbeitszeugnis-analyse-bluehendes-leben.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip), [`testakte-arbeitszeugnis-analyse-bluehendes-leben-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

@@ -43,7 +43,7 @@ Die Klinik hat behauptet, die Akte sei vollständig übersandt worden (AS 09). D
 
 Der handschriftliche Eintrag „pH 7,28 — im Normbereich" von Dr. Voth um 02:30 Uhr ist in keinem Labor-Protokoll belegt. Auf Anfrage an die Klinik (AS 09) wurde kein Labor-EDV-Ausdruck übermittelt. Der MD-Auskunft des Schlichtungsverfahrens zufolge ist auch dort kein Laborwert für diesen Zeitpunkt auffindbar.
 
-Zulässige Schlussfolgerung: Entweder wurde keine MBU durchgeführt (und der Eintrag ist fiktiv oder fehlerhaft), oder die Messung wurde nicht korrekt im Labor verarbeitet. Beides geht zu Lasten der Klinik.
+Zulässige Schlussfolgerung: Entweder wurde keine MBU durchgeführt und der Eintrag wurde ohne tatsächliche Messung erzeugt oder fehlerhaft übernommen, oder die Messung wurde nicht korrekt im Labor verarbeitet. Beides geht zu Lasten der Klinik.
 
 ### D-05 — Übergabeprotokoll
 

@@ -7,7 +7,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 
 ## 1. Hintergrund
 
-Mara Trüffelberch, geboren 2009 (15 Jahre), hat gegenüber Hanna seit ca. Sommer 2023 geäußert, sich nicht als Mädchen zu fühlen. Hanna hat das ernst genommen und sucht für Mara passende Unterstützung (Beratungsstelle für Kinder und Jugendliche zur Geschlechtsidentität, Hannover; Kontakt: Fachberatungsstelle „Kompass", Limmerstraße 40, 30449 Hannover — fiktive Adresse). Mara hat keinen Wunsch nach medizinischen Maßnahmen geäußert; es geht zunächst ausschließlich um die rechtliche Änderung der Geschlechtsangabe und des Vornamens.
+Mara Trüffelberch, geboren 2009 (15 Jahre), hat gegenüber Hanna seit ca. Sommer 2023 geäußert, sich nicht als Mädchen zu fühlen. Hanna hat das ernst genommen und sucht für Mara passende Unterstützung (Beratungsstelle für Kinder und Jugendliche zur Geschlechtsidentität, Hannover; Kontakt: Fachberatungsstelle „Kompass", Limmerstraße 40, 30449 Hannover). Mara hat keinen Wunsch nach medizinischen Maßnahmen geäußert; es geht zunächst ausschließlich um die rechtliche Änderung der Geschlechtsangabe und des Vornamens.
 
 Im Juli 2025 hat Mara beim Standesamt Hannover-Mitte einen Antrag auf Änderung der Geschlechtsangabe (von „weiblich" zu „männlich") und des Vornamens nach dem Selbstbestimmungsgesetz (SBGG, in Kraft seit 01.11.2024) gestellt.
 

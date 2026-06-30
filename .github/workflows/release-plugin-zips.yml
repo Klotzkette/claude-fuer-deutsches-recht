@@ -58,6 +58,12 @@ jobs:
       - name: Release-Asset-Index neu erzeugen
         run: python3 scripts/generate-asset-index.py
 
+      - name: Python-Abhaengigkeiten fuer den PDF-Bau installieren
+        run: python3 -m pip install --quiet reportlab pypdf python-docx openpyxl odfpy
+
+      - name: Pluginlokale Gesamt-PDFs der Testakten bauen
+        run: python3 scripts/build-plugin-testakte-gesamt-pdfs.py
+
       - name: Liste aller Plugins aus marketplace.json lesen
         id: plugins
         run: |
@@ -107,8 +113,6 @@ jobs:
           python3 scripts/build-werkstatt-schnellstart-sammelzips.py dist
           test -s dist/alle-werkstatt-prompts.zip
           test -s dist/alle-schnellstart-prompts.zip
-          ls dist/*-werkstatt.md | wc -l
-          ls dist/*-schnellstart.md | wc -l
           ls -lh dist/alle-werkstatt-prompts.zip dist/alle-schnellstart-prompts.zip
 
       - name: Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)
@@ -122,9 +126,6 @@ jobs:
       - name: Testakten-Release-ZIPs validieren
         run: python3 scripts/validate-testakten-release-zips.py dist
 
-      - name: Python-Abhaengigkeiten fuer den PDF-Bau installieren
-        run: python3 -m pip install --quiet reportlab pypdf python-docx openpyxl odfpy
-
       - name: Einzel-PDF-ZIPs der Testakten bauen (jede Unterlage als eigene PDF)
         run: |
           # Pro Testakte ein ZIP, in dem jede Unterlage als separate PDF vorliegt
@@ -132,9 +133,7 @@ jobs:
           mkdir -p dist/testakten-einzelpdfs
           python3 scripts/build-testakten-einzelpdf-zips.py dist/testakten-einzelpdfs
           cp dist/testakten-einzelpdfs/alle-testakten-einzelpdfs.zip dist/alle-testakten-einzelpdfs.zip
-          cp dist/testakten-einzelpdfs/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip dist/testakte-formatvorlagen-paradebeispiele-einzelpdfs.zip
-          cp dist/testakten-einzelpdfs/testakte-megaprompts-einzelpdfs.zip dist/testakte-megaprompts-einzelpdfs.zip
-          cp dist/testakten-einzelpdfs/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip dist/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg-einzelpdfs.zip
+          cp dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip dist/
           ls -la dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip | head
           ls -lh dist/alle-testakten-einzelpdfs.zip
 
@@ -159,6 +158,8 @@ jobs:
           # Demonstrationsakte direkt unter <plugin>/testakte. Diese Akten
           # bekommen eigene Release-Assets fuer echte Direkt-Downloads.
           python3 scripts/build-plugin-testakte-bundles.py dist
+          python3 scripts/build-plugin-testakte-einzelpdf-zips.py dist
+          python3 scripts/validate-plugin-testakte-assets.py dist
           ls dist/*-testakte.zip | wc -l
           ls -lh dist/alle-pluginlokalen-testakten.zip
 
@@ -188,6 +189,7 @@ jobs:
           cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
           cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
           cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
+          cp dist/alle-pluginlokalen-testakten-einzelpdfs.zip dist/komplettpaket/alle-pluginlokalen-testakten-einzelpdfs.zip
           cp dist/alle-werkstatt-prompts.zip dist/komplettpaket/alle-werkstatt-prompts.zip
           cp dist/alle-schnellstart-prompts.zip dist/komplettpaket/alle-schnellstart-prompts.zip
           for plugin in ${{ steps.plugins.outputs.names }}; do
@@ -219,6 +221,15 @@ jobs:
             esac
             cp "$z" "dist/komplettpaket/testakten/$base"
           done
+          for z in dist/*-testakte-einzelpdfs.zip; do
+            [ -e "$z" ] || continue
+            base="$(basename "$z")"
+            case "$base" in
+              testakte-*) continue ;;
+              alle-*) continue ;;
+            esac
+            cp "$z" "dist/komplettpaket/testakten/$base"
+          done
           cp README.md SKILLS.md ASSET_INDEX.md CHANGELOG.md dist/komplettpaket/uebersichten/
           # skills-index/ enthaelt die pro-Plugin-Detailseiten, auf die SKILLS.md
           # mit relativen Links zeigt. Ohne diesen Ordner waeren die Links im
@@ -234,6 +245,7 @@ jobs:
           test -s dist/alle-testakten-einzelpdfs.zip
           test -s dist/alle-skills-markdown.zip
           test -s dist/alle-pluginlokalen-testakten.zip
+          test -s dist/alle-pluginlokalen-testakten-einzelpdfs.zip
           test -s dist/alle-werkstatt-prompts.zip
           test -s dist/alle-schnellstart-prompts.zip
           test -s dist/alles-komplettpaket.zip
@@ -330,7 +342,7 @@ jobs:
             else
               sleep 2
             fi
-          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name '*-werkstatt.md' -o -name '*-schnellstart.md' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
+          done < <(find dist -maxdepth 1 -type f \( -name '*.zip' -o -name 'marketplace.json' -o -name 'checksums-sha256.txt' \) | sort)
 
       - name: Release-Assets remote verifizieren
         if: steps.tagref.outputs.tag != ''

@@ -1,6 +1,6 @@
 # telekommunikationsrecht
 
-**57 Skills** · Stand `v401.0.0`
+**57 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/telekommunikationsrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/telekommunikationsrecht-werkstatt.md" download><code>telekommunikationsrecht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/telekommunikationsrecht-schnellstart.md" download><code>telekommunikationsrecht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/telekommunikationsrecht/telekommunikationsrecht-werkstatt.md" download><code>telekommunikationsrecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/telekommunikationsrecht/telekommunikationsrecht-schnellstart.md" download><code>telekommunikationsrecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [telekommunikationsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/telekommunikationsrecht.zip) |
 

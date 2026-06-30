@@ -1,6 +1,6 @@
 # staatsanwaltschaft-amtsanwaltschaft
 
-**31 Skills** · Stand `v401.0.0`
+**31 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md" download><code>staatsanwaltschaft-amtsanwaltschaft-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md" download><code>staatsanwaltschaft-amtsanwaltschaft-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md" download><code>staatsanwaltschaft-amtsanwaltschaft-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md" download><code>staatsanwaltschaft-amtsanwaltschaft-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [staatsanwaltschaft-amtsanwaltschaft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-amtsanwaltschaft.zip) |
 

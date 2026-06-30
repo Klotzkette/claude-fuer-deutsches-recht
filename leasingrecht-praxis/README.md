@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`leasingrecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-werkstatt.md" download><code>leasingrecht-praxis-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis-schnellstart.md" download><code>leasingrecht-praxis-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) (Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/leasingrecht-praxis/leasingrecht-praxis-werkstatt.md" download><code>leasingrecht-praxis-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/leasingrecht-praxis/leasingrecht-praxis-schnellstart.md" download><code>leasingrecht-praxis-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht: [Gesamt-PDF](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf), [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip), [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

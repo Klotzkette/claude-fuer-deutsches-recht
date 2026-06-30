@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`seerecht-schifffahrtsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/seerecht-schifffahrtsrecht.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/seerecht-schifffahrtsrecht-werkstatt.md" download><code>seerecht-schifffahrtsrecht-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/seerecht-schifffahrtsrecht-schnellstart.md" download><code>seerecht-schifffahrtsrecht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip) (Schifffahrtsakte) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-werkstatt.md" download><code>seerecht-schifffahrtsrecht-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/seerecht-schifffahrtsrecht/seerecht-schifffahrtsrecht-schnellstart.md" download><code>seerecht-schifffahrtsrecht-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Schifffahrtsakte: [Gesamt-PDF](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf), [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip), [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

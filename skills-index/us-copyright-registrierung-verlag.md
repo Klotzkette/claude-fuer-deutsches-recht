@@ -1,6 +1,6 @@
 # us-copyright-registrierung-verlag
 
-**100 Skills** · Stand `v401.0.0`
+**100 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-copyright-registrierung-verlag/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-werkstatt.md" download><code>us-copyright-registrierung-verlag-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag-schnellstart.md" download><code>us-copyright-registrierung-verlag-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-werkstatt.md" download><code>us-copyright-registrierung-verlag-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-copyright-registrierung-verlag/us-copyright-registrierung-verlag-schnellstart.md" download><code>us-copyright-registrierung-verlag-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [us-copyright-registrierung-verlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-copyright-registrierung-verlag.zip) |
 

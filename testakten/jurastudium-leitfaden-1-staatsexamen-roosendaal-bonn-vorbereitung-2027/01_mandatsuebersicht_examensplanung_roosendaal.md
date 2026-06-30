@@ -1,7 +1,7 @@
 # 01 — Mandatsübersicht: Examensplanung Roosendaal-Tinnefeld
 
 **Studentin:** Annika Roosendaal-Tinnefeld
-**Matrikelnummer:** 2271084 (fiktiv)
+**Matrikelnummer:** 2271084
 **Universität:** Rheinische Friedrich-Wilhelms-Universität Bonn
 **Fachsemester:** 9 (Stand Oktober 2025)
 **Ziel:** 1. Juristische Prüfung, JPA beim OLG Köln, Frühjahr 2027

@@ -1,6 +1,6 @@
 # solo-selbststaendige-praxis
 
-**201 Skills** · Stand `v401.0.0`
+**201 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/solo-selbststaendige-praxis/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-werkstatt.md" download><code>solo-selbststaendige-praxis-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis-schnellstart.md" download><code>solo-selbststaendige-praxis-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md" download><code>solo-selbststaendige-praxis-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/solo-selbststaendige-praxis/solo-selbststaendige-praxis-schnellstart.md" download><code>solo-selbststaendige-praxis-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [solo-selbststaendige-praxis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
 

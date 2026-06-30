@@ -1,6 +1,6 @@
 # richter-sozialgericht
 
-**13 Skills** · Stand `v401.0.0`
+**13 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-sozialgericht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-werkstatt.md" download><code>richter-sozialgericht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht-schnellstart.md" download><code>richter-sozialgericht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-sozialgericht/richter-sozialgericht-werkstatt.md" download><code>richter-sozialgericht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-sozialgericht/richter-sozialgericht-schnellstart.md" download><code>richter-sozialgericht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [richter-sozialgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-sozialgericht.zip) |
 

@@ -1,6 +1,6 @@
 # geldwaeschepraevention-aml-kyc
 
-**57 Skills** · Stand `v401.0.0`
+**57 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/geldwaeschepraevention-aml-kyc/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc-werkstatt.md" download><code>geldwaeschepraevention-aml-kyc-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc-schnellstart.md" download><code>geldwaeschepraevention-aml-kyc-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md" download><code>geldwaeschepraevention-aml-kyc-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md" download><code>geldwaeschepraevention-aml-kyc-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [geldwaeschepraevention-aml-kyc.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc.zip) |
 

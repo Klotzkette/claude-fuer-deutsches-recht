@@ -4,7 +4,7 @@ Gutachter- und Schlichtungsstelle für ärztliche Behandlungen
 bei der Ärztekammer Niedersachsen
 Hannover, 05. Mai 2025
 
-Aktenzeichen: GS-2024-3817-NI (fiktiv)
+Aktenzeichen: GS-2024-3817-NI
 
 Antragstellerin: Lina Meinhardt, vertr. durch RAin Christina Wachhorst
 Beschwerdegegner zu 1): Evangelisches Klinikum Bad Salzdetfurth gGmbH

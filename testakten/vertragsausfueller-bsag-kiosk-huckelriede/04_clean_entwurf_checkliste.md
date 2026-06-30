@@ -18,7 +18,7 @@ Vorzulegen vor jedem Versand eines Clean-Entwurfs an Mieter oder Vermieter. Erst
 
 ## Form-Prüfungen
 
-- [ ] Alle Platzhalter `<< ... >>` ersetzt - mit `grep` über das DOCX prüfen.
+- [ ] Alle Klammerstellen `<< ... >>` ersetzt - mit `grep` über das DOCX prüfen.
 - [ ] Schriftbild durchgängig (Calibri 11, Überschriften Calibri 12 bold, einheitliche Absatzformatierung).
 - [ ] Seitenzahlen, Fusszeile mit Aktenzeichen VAF-2026-BSAG-007.
 - [ ] Unterschriftenblock für beide Seiten mit Ort, Datum, Name, Funktion.

@@ -1,6 +1,6 @@
 # bautraegervertragspruefer
 
-**30 Skills** · Stand `v401.0.0`
+**30 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bautraegervertragspruefer/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertragspruefer-werkstatt.md" download><code>bautraegervertragspruefer-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertragspruefer-schnellstart.md" download><code>bautraegervertragspruefer-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md" download><code>bautraegervertragspruefer-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md" download><code>bautraegervertragspruefer-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [bautraegervertragspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bautraegervertragspruefer.zip) |
 

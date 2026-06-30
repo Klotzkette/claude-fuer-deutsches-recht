@@ -49,7 +49,7 @@ Alle drei Verbliebenen erben je **1/3**.
 
 Der Pflichtteilsergänzungsanspruch dient dazu, lebzeitige Schenkungen des Erblassers in die Pflichtteilsbasis einzubeziehen. Für jeden Pflichtteilsberechtigten, dessen Pflichtteil durch Schenkungen gemindert wurde, besteht ein Ergänzungsanspruch.
 
-### 3.1 Ergänzungsnachlass (fiktiver Nachlass)
+### 3.1 Ergänzungsnachlass (rechnerischer Nachlass)
 
 Ausgangspunkt: Reinnachlass (§ 2311 BGB) zuzüglich der ergänzungspflichtigen Schenkungen.
 

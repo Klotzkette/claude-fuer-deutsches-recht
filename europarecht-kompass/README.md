@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`europarecht-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-werkstatt.md" download><code>europarecht-kompass-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass-schnellstart.md" download><code>europarecht-kompass-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) (Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-werkstatt.md" download><code>europarecht-kompass-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/europarecht-kompass/europarecht-kompass-schnellstart.md" download><code>europarecht-kompass-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage: [Gesamt-PDF](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf), [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip), [`testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

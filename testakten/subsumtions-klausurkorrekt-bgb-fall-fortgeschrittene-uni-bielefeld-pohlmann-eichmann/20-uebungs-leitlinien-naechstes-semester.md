@@ -49,7 +49,7 @@ Die Durchfallquote von 32 Prozent (Prüfungsamt PA-2026-S-1188) liegt über dem 
 
 ## Änderung der Fallgestaltung
 
-Der Fall 14 (Radarwarner) wird im WS 2026/27 durch Fall 15 (Gebrauchtwagen, § 444 BGB) ersetzt. Der Wechsel stellt sicher, dass die Klausuranten keine konkreten Musterlösungen aus dem SS 2026 verwenden können, und testet dieselben methodischen Kompetenzen in neuem Kontext.
+Der Fall 14 (Radarwarner) wird im WS 2026/27 durch Fall 15 (Gebrauchtwagen, Paragraf 444 BGB) ersetzt. Der Wechsel stellt sicher, dass die Klausuranten keine konkreten Korrekturleitlinien aus dem SS 2026 verwenden können, und testet dieselben methodischen Kompetenzen in neuem Kontext.
 
 ---
 

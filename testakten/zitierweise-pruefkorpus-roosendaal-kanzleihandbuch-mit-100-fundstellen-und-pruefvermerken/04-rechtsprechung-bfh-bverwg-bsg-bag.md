@@ -17,7 +17,7 @@
 **Langzitat:**
 BFH, Urt. v. 17.09.2024, Az. IX R 14/24, DStRE 2024, 1456, abrufbar unter: https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202410XXXXX/ (abgerufen am 01.10.2025).
 
-> **[Lehrbeispiel]** Az. IX R 14/24 wird als realer Ausgangspunkt verwendet; die genaue Fundstelle und URL sind für Pruefkorpus-Zwecke vereinfacht dargestellt. Die BFHE-Aufnahme ist nachzutragen.
+> **[Prüfvermerk]** Az. IX R 14/24 wird als Ausgangspunkt verwendet; genaue Fundstelle und URL sind vor externer Verwendung nachzutragen. Die BFHE-Aufnahme ist nachzutragen.
 
 **Prüfvermerk:** Kein Prüfvermerk für Format. Hinweis: BFHE-Fundstelle nachzutragen, sobald Druckausgabe vorliegt.
 
@@ -35,7 +35,7 @@ BFHE 278, 100 (103).
 
 **Prüfvermerk:** Kein Prüfvermerk. Mehrfach-Fundstelle: BFHE vor BStBl. — Rangfolge korrekt.
 
-### Fundstelle 41 — BFH BeckRS-Sperre (Lehrbeispiel)
+### Fundstelle 41 — BFH BeckRS-Sperre
 
 **Fehlerhaftes Zitat:**
 BFH, Beschl. v. 14.02.2024, Az. IV B 112/23, BeckRS 2024, 8901.
@@ -60,9 +60,9 @@ BFHE 265, 1 (8).
 
 ## B. Bundesverwaltungsgericht (BVerwG)
 
-### Fundstelle 43 — BVerwG 4 CN 188.25 (Lehrbeispiel)
+### Fundstelle 43 — BVerwG 4 CN 188.25
 
-**Hinweis:** Az. BVerwG 4 CN 188.25 ist als Lehrbeispiel für die Aktenzeichenschreibweise beim BVerwG (Punkt statt Schrägstrich) aufgenommen. Die genaue Entscheidung ist fiktiv.
+**Hinweis:** Az. BVerwG 4 CN 188.25 ist wegen der Punkt-Schreibweise beim BVerwG gesondert markiert. Entscheidung, Datum und Fundstelle sind vor externer Verwendung nachzuverifizieren.
 
 **Langzitat (Muster):**
 BVerwG, Urt. v. TT.MM.2025, Az. 4 CN 188.25, NVwZ 2025, XXX, abrufbar unter: https://www.bverwg.de/entscheidungen/... (abgerufen am TT.MM.2025).
@@ -135,7 +135,7 @@ BSG, Urt. v. 16.05.2019, Az. B 2 U 1/18 R, SozR 4-2700 § 8 Nr. 70, abrufbar unt
 **Langzitat:**
 BAG, Urt. v. 20.03.2024, Az. 2 AZR 184/23, NZA 2024, 893 (897), abrufbar unter: https://www.bundesarbeitsgericht.de/entscheidung/az-2-azr-184-23/ (abgerufen am 01.10.2025).
 
-> **[Lehrbeispiel]** Az. 2 AZR 184/23 dient als Prüffall für neues BAGE-Zitat ohne Bandaufnahme.
+> **[Prüfvermerk]** Az. 2 AZR 184/23 ist für ein neues BAGE-Zitat ohne Bandaufnahme markiert.
 
 **Prüfvermerk:** Kein Prüfvermerk für Format. BAGE-Fundstelle nachzutragen.
 

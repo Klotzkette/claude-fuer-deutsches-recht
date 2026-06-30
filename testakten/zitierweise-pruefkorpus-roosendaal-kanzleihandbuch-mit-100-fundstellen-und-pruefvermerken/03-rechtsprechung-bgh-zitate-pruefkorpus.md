@@ -12,9 +12,9 @@ Dieser Abschnitt enthält 20 BGH-Fundstellen des Pruefkorpus (Nr. 19–38). Quel
 
 ---
 
-## Fundstelle 19 — BGHZ 51, 91 — Hueneklump-Schlachthof (Lehrbeispiel)
+## Fundstelle 19 — BGHZ 51, 91 — Hueneklump-Schlachthof
 
-**Hinweis:** Diese Entscheidung ist ein Lehrbeispiel für Pruefkorpus-Zwecke. BGHZ 51, 91 ist eine reale Fundstelle in der amtlichen Sammlung; der Zusatz "Hueneklump-Schlachthof" dient der internen Kenntlichmachung als Prüffall.
+**Hinweis:** BGHZ 51, 91 ist eine reale Fundstelle in der amtlichen Sammlung; der Zusatz "Hueneklump-Schlachthof" stammt aus der internen Altregistratur und ist vor externer Verwendung zu entfernen.
 
 **Entscheidung:** BGH, Urt. v. 27.01.1969, Az. II ZR 64/67
 **Amtliche Sammlung:** BGHZ 51, 91
@@ -46,7 +46,7 @@ BGHZ 232, 133 (Rn. 18).
 
 ---
 
-## Fundstelle 21 — BGH BeckRS-Sperre (Lehrbeispiel)
+## Fundstelle 21 — BGH BeckRS-Sperre
 
 **Fehlerhaftes Zitat (Entwurf Mitarbeiter):**
 BGH, Beschl. v. 08.03.2022, Az. XIII ZB 34/21, BeckRS 2022, 6789.

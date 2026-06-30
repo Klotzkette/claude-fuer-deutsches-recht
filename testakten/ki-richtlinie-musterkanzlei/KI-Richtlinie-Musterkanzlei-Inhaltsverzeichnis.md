@@ -67,7 +67,7 @@
 
 ## Anpassungspflichten vor Produktiveinsatz
 
-1. Alle `[Platzhalter]` durch tatsächliche Namen und Daten ersetzen
+1. Alle offenen Klammerstellen durch tatsächliche Namen und Daten ersetzen
 2. AVV mit eingesetzten KI-Diensten abschließen (§ 43e BRAO)
 3. Kanzlei-spezifische Rechtsgebiete und Mandantenstruktur anpassen
 4. Schulung aller Mitarbeitern gemäß Art. 4 KI-VO dokumentieren

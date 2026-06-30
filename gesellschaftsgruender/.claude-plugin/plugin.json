@@ -1,6 +1,6 @@
 {
   "name": "gesellschaftsgruender",
-  "version": "401.0.0",
+  "version": "402.0.0",
   "description": "Gruendungsassistent fuer deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Vertraege, Budget und Streitpraevention.",
   "license": "Apache-2.0 OR MIT",
   "author": {

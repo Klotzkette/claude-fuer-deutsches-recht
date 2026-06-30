@@ -1,6 +1,6 @@
 # richter-arbeitsgericht
 
-**13 Skills** · Stand `v401.0.0`
+**13 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-arbeitsgericht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-arbeitsgericht-werkstatt.md" download><code>richter-arbeitsgericht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-arbeitsgericht-schnellstart.md" download><code>richter-arbeitsgericht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-werkstatt.md" download><code>richter-arbeitsgericht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-arbeitsgericht/richter-arbeitsgericht-schnellstart.md" download><code>richter-arbeitsgericht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [richter-arbeitsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-arbeitsgericht.zip) |
 

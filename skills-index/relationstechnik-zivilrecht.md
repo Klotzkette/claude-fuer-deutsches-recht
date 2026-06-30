@@ -1,6 +1,6 @@
 # relationstechnik-zivilrecht
 
-**22 Skills** · Stand `v401.0.0`
+**22 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/relationstechnik-zivilrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-werkstatt.md" download><code>relationstechnik-zivilrecht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht-schnellstart.md" download><code>relationstechnik-zivilrecht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md" download><code>relationstechnik-zivilrecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md" download><code>relationstechnik-zivilrecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [relationstechnik-zivilrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/relationstechnik-zivilrecht.zip) |
 

@@ -11,7 +11,7 @@
 | Feld | Wert |
 |---|---|
 | Klausurant | Konrad Birkenhain |
-| Matrikelnummer | 2208719 (fiktiv) |
+| Matrikelnummer | 2208719 |
 | Gesamtpunkte | 4 von 25 |
 | Note | 5,0 |
 | Bestanden | Nein |

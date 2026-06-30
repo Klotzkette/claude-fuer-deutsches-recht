@@ -1,6 +1,6 @@
 # richter-verwaltungsgericht
 
-**13 Skills** · Stand `v401.0.0`
+**13 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-verwaltungsgericht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-werkstatt.md" download><code>richter-verwaltungsgericht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht-schnellstart.md" download><code>richter-verwaltungsgericht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md" download><code>richter-verwaltungsgericht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md" download><code>richter-verwaltungsgericht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [richter-verwaltungsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht.zip) |
 

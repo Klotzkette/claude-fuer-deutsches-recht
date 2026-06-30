@@ -10,7 +10,7 @@
 - Lehrstuhlinhaber für Bürgerliches Recht, Schuldrecht und Zivilprozessrecht, Universität Leipzig
 - Forschungsschwerpunkte: Schuldrechtsmodernisierung, Verbraucherschutzrecht, Zivilprozessrecht
 - Bekannt für hohe formale Anforderungen an Zitierweise und Gutachtenstil
-- Frühere Veröffentlichungen (fiktiv): „Aufrechnung und Abtretung im modernen Schuldrecht", AcP 218 (2018), 450–489; „Verbrauchsgüterkauf nach der Warenkauf-Richtlinie", ZGS 2022, 1–18.
+- Frühere Veröffentlichungen: „Aufrechnung und Abtretung im modernen Schuldrecht", AcP 218 (2018), 450–489; „Verbrauchsgüterkauf nach der Warenkauf-Richtlinie", ZGS 2022, 1–18.
 
 ---
 

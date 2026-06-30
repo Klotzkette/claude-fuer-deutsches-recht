@@ -42,7 +42,7 @@ Der Kläger hatte ursprünglich keinen Anlass zu einem Befangenheitsantrag. Erst
 
    f) die Mangelbeseitigungskosten ohne Bezugnahme auf das vorhandene Privatgutachten (Wallner und Partner vom 18.05.2024) pauschal mit "ca. 40.000 bis 60.000 EUR" geschätzt zu haben — auf Nachfrage in der Anhörung konnte er die Schätzung nicht aufschlüsseln.
 
-4. Der nicht ersetzte Platzhalter "[DATUM EINFÜGEN]" auf S. 28 des Gutachtens ist ein offenkundiger Reviewmangel, den der Sachverständige in der Anhörung als "bedauerliches Versehen" eingeräumt hat.
+4. Die nicht ersetzte Datumsmarke "[DATUM EINFÜGEN]" auf S. 28 des Gutachtens ist ein offenkundiger Reviewmangel, den der Sachverständige in der Anhörung als "bedauerliches Versehen" eingeräumt hat.
 
 5. Auf konkrete Nachfrage in der Anhörung, ob er die Stellen, an denen der Schreibassistent unterstützend tätig war, benennen könne, gab der Sachverständige an: "Das lässt sich heute nicht mehr nachvollziehen. Es waren punktuelle Glättungen, ich kann nicht mehr sagen, wo genau."
 
@@ -58,7 +58,7 @@ Die im vorliegenden Fall festgestellten Umstände begründen bei objektiver Wür
 
 3. **Konkrete Falschzitierung einer Norm.** Die Verwendung der "VDE-AR-N 4105" anstelle der einschlägigen VDE 0126-1-1 ist nicht eine spitzfindige Fachdiskussion, sondern ein Reviewfehler, der gerade durch den eingestandenen Einsatz eines Schreibassistenten — der keine Norminhalte selbst prüfen kann — entstanden sein dürfte.
 
-4. **Vorlagenfragmente im Text.** Der nicht ersetzte Platzhalter "[DATUM EINFÜGEN]" zeigt, dass der Sachverständige die Endkontrolle des Gutachtens nicht im erforderlichen Umfang vorgenommen hat. Dies ist mit der Sorgfalt eines öffentlich bestellten und vereidigten Sachverständigen, der die Letztverantwortung für den Inhalt trägt, nicht vereinbar.
+4. **Vorlagenfragmente im Text.** Die nicht ersetzte Datumsmarke "[DATUM EINFÜGEN]" zeigt, dass der Sachverständige die Endkontrolle des Gutachtens nicht im erforderlichen Umfang vorgenommen hat. Dies ist mit der Sorgfalt eines öffentlich bestellten und vereidigten Sachverständigen, der die Letztverantwortung für den Inhalt trägt, nicht vereinbar.
 
 5. **Kumulative Wirkung.** Einzelne dieser Beanstandungen könnten für sich genommen nicht zur Befangenheit führen. In ihrer Kumulation begründen sie jedoch ein nachvollziehbares Misstrauen der Klaegerpartei, dass der Sachverständige seinem Beweisthema nicht die erforderliche eigene Sorgfalt und Aufmerksamkeit hat zukommen lassen.
 

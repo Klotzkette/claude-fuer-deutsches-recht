@@ -18,7 +18,7 @@ Die Klägerin wählt **primär die Lizenzanalogie** und behält sich vor, nach A
 
 ## 2. Methodik der Lizenzanalogie
 
-Bei der Lizenzanalogie ist derjenige Lizenzsatz zu ermitteln, den vernünftige Parteien bei einem fiktiven Vertragsschluss vereinbart hätten. Der BGH hat hierzu in ständiger Rechtsprechung (vgl. BGH GRUR 2009, 856 — Tripp-Trapp-Stuhl; BGH GRUR 2012, 716 — Desmopressin) ausgeführt:
+Bei der Lizenzanalogie ist derjenige Lizenzsatz zu ermitteln, den vernünftige Parteien bei einem gedachten Lizenzvertrag vereinbart hätten. Der BGH hat hierzu in ständiger Rechtsprechung (vgl. BGH GRUR 2009, 856 — Tripp-Trapp-Stuhl; BGH GRUR 2012, 716 — Desmopressin) ausgeführt:
 
 > „Die angemessene Lizenzgebühr ist die Vergütung, die ein vernünftiger Lizenznehmer für die Benutzung des Schutzrechts zu zahlen bereit wäre, wenn er es nicht einseitig in Anspruch nehmen, sondern eine Lizenz erwerben wollte."
 

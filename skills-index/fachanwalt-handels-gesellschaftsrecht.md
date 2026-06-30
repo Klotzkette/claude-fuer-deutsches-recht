@@ -1,6 +1,6 @@
 # fachanwalt-handels-gesellschaftsrecht
 
-**94 Skills** · Stand `v401.0.0`
+**94 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-handels-gesellschaftsrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht-werkstatt.md" download><code>fachanwalt-handels-gesellschaftsrecht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht-schnellstart.md" download><code>fachanwalt-handels-gesellschaftsrecht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md" download><code>fachanwalt-handels-gesellschaftsrecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md" download><code>fachanwalt-handels-gesellschaftsrecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-handels-gesellschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht.zip) |
 

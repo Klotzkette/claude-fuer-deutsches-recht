@@ -55,7 +55,7 @@ RAin Ganzhorn hat laut Jugendamt ein Schreiben übermittelt, in dem Franz den Al
 Das Cochemer Modell ist kein Rechtskonzept, sondern ein interdisziplinärer Kooperationsansatz zwischen Jugendamt, Familiengericht, Beratungsstellen und Anwaltschaft mit dem Ziel, elterliche Konflikte zu deeskalieren, bevor das Gericht eingreift. Das Jugendamt Hannover hat das Modell für dieses Mandat empfohlen.
 
 **Termin 1 — April 2025 (abgehalten)**
-Ort: Beratungsstelle der Diakonie Hannover-Linden, Birkenweg 7 (fiktiv), 30449 Hannover.
+Ort: Beratungsstelle der Diakonie Hannover-Linden, Birkenweg 7, 30449 Hannover.
 Koordinatorin: Frau Brandt, Diplom-Psychologin.
 Anwesend: Hanna, Franz, Frau Brandt, Frau Kowalczyk (JA, kurz).
 Ergebnis: Erster Kontakt hergestellt. Beide Elternteile wurden nach ihren Vorstellungen befragt. Franz formulierte erneut seinen Wunsch nach Wechselmodell 50/50. Hanna erläuterte ihre Bedenken sachlich. Vereinbarung: zweiter Termin Ende Mai 2025.

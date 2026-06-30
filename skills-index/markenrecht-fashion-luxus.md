@@ -1,6 +1,6 @@
 # markenrecht-fashion-luxus
 
-**82 Skills** · Stand `v401.0.0`
+**82 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/markenrecht-fashion-luxus/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-werkstatt.md" download><code>markenrecht-fashion-luxus-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus-schnellstart.md" download><code>markenrecht-fashion-luxus-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md" download><code>markenrecht-fashion-luxus-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/markenrecht-fashion-luxus/markenrecht-fashion-luxus-schnellstart.md" download><code>markenrecht-fashion-luxus-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [markenrecht-fashion-luxus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/markenrecht-fashion-luxus.zip) |
 

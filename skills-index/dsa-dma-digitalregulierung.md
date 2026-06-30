@@ -1,6 +1,6 @@
 # dsa-dma-digitalregulierung
 
-**58 Skills** · Stand `v401.0.0`
+**58 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/dsa-dma-digitalregulierung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung-werkstatt.md" download><code>dsa-dma-digitalregulierung-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung-schnellstart.md" download><code>dsa-dma-digitalregulierung-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md" download><code>dsa-dma-digitalregulierung-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md" download><code>dsa-dma-digitalregulierung-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
 

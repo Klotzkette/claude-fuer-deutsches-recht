@@ -41,6 +41,18 @@ META_NAME_PARTS = (
     "qualitätsstandard",
     "direkt-download",
     "download",
+    "loesungspfad",
+    "lösungspfad",
+    "pflichtanker",
+    "streitstoff-liste",
+    "streitstoffliste",
+    "musterloesung",
+    "musterlösung",
+    "loesungsskizze",
+    "lösungsskizze",
+    "erwartungshorizont",
+    "pruefervermerk",
+    "prüfervermerk",
 )
 
 CONTENT_MARKER_NAME_PARTS = META_NAME_PARTS + (
@@ -111,6 +123,10 @@ def include_in_working_dump(path: Path, testakte_dir: Path, *, include_gesamt_pd
     if any(part.startswith(".") for part in rel.parts):
         return False
     if "__pycache__" in rel.parts or path.name == ".DS_Store":
+        return False
+    if path.name.lower() == "rubric.yaml":
+        return False
+    if path.suffix.lower() == ".py" and path.stem.lower().startswith("build_"):
         return False
     if "gesamt-pdf" in rel.parts:
         return include_gesamt_pdf and path.name == f"{testakte_dir.name}_gesamt.pdf"

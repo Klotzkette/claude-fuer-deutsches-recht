@@ -34,7 +34,7 @@ Die Rüge v. 28.03.2026 ist fristgerecht und enthält eine hinreichende Sachverh
 
 Weiter: § 1 Abs. 6 Nr. 7h BauGB enthält keinen Rechtssatz des Inhalts, dass jede Klimafunktionsfläche erhalten werden muss. Der Gesetzgeber hat den Gemeinden einen weiten Planungsermessen eingeräumt; eine Verletzung liegt nur bei offensichtlichem Abwägungsausfall vor, der hier nicht gegeben ist.
 
-**Antragsgegner verweist auf**: BVerwG, Beschl. v. 14.03.2019 — 4 BN 30.18 (Dachbegrünung als ausreichende Klimamaßnahme in vergleichbarer Konstellation; Leitsatz: „Die Aufnahme von Festsetzungen zur Dachbegrünung genügt grundsätzlich dem Gebot der Klimaanpassung nach § 1 Abs. 6 Nr. 7h BauGB, wenn keine weitergehenden normativen Anforderungen bestehen.") — [Anm. Kanzlei BT: Dieses Urteil ist fiktiv; inhaltlich nicht belastbar für die Erwiderung].
+**Antragsgegner verweist auf**: die Rechtsprechung des BVerwG zur planerischen Gestaltungsfreiheit und zur eingeschränkten gerichtlichen Abwägungskontrolle. Für die Erwiderung soll der Schwerpunkt auf den tatsächlichen Klimaanpassungsmaßnahmen aus Umweltbericht, Begründung und Grünordnungsplan liegen; ein zusätzliches Rechtsprechungszitat wird erst nach Fundstellenprüfung eingefügt.
 
 ### 2. Artenschutz Zauneidechse
 

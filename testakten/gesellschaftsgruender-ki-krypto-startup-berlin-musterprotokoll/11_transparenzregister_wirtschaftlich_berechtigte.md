@@ -12,7 +12,7 @@ Wirtschaftlich Berechtigter ist nach Paragraph 3 GwG jede natürliche Person, di
 - mehr als 25 Prozent der Stimmrechte kontrolliert
 - auf vergleichbare Weise Kontrolle ausübt (z.B. über Stimmbindungsverträge)
 
-Lässt sich kein wirtschaftlich Berechtigter feststellen, gelten die gesetzlichen Vertreter, also bei der GmbH die Geschäftsführer, als **fiktive wirtschaftlich Berechtigte**.
+Lässt sich kein wirtschaftlich Berechtigter feststellen, gelten die gesetzlichen Vertreter, also bei der GmbH die Geschäftsführer, als **wirtschaftlich Berechtigte nach Auffangregel**.
 
 ## 3. Wirtschaftlich Berechtigte der NeuroChain Labs GmbH
 
@@ -85,7 +85,7 @@ Frühere uneingeschränkte Einsehbarkeit war europarechtswidrig.
 Änderungen sind ohne schuldhaftes Zögern, spätestens binnen vier Wochen, mitzuteilen. Folgende Ereignisse lösen Aktualisierungspflichten aus:
 
 - Anteilsänderungen
-- Wechsel der Geschäftsführung (für fiktive wirtschaftlich Berechtigte)
+- Wechsel der Geschäftsführung (für wirtschaftlich Berechtigte nach Auffangregel)
 - Namens- oder Wohnortwechsel
 - Kapitalerhöhungen, die die Beteiligungsverhältnisse verändern
 

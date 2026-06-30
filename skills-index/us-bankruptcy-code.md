@@ -1,6 +1,6 @@
 # us-bankruptcy-code
 
-**100 Skills** · Stand `v401.0.0`
+**100 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/us-bankruptcy-code/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-werkstatt.md" download><code>us-bankruptcy-code-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code-schnellstart.md" download><code>us-bankruptcy-code-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-werkstatt.md" download><code>us-bankruptcy-code-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/us-bankruptcy-code/us-bankruptcy-code-schnellstart.md" download><code>us-bankruptcy-code-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [us-bankruptcy-code.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
 

@@ -165,9 +165,10 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
         "| --- | ---: | --- | --- | --- | --- |",
     ]
     for name, skills in plugins:
+        source_rel = _source_rel_for(name)
         zip_url = f"{GH_RELEASE}/{name}.zip"
-        werkstatt_url = f"{GH_RELEASE}/{name}-werkstatt.md"
-        schnellstart_url = f"{GH_RELEASE}/{name}-schnellstart.md"
+        werkstatt_url = f"{GH_RAW}/{source_rel}/{name}-werkstatt.md"
+        schnellstart_url = f"{GH_RAW}/{source_rel}/{name}-schnellstart.md"
         detail = f"skills-index/{name}.md"
         lines.append(
             f"| **{name}** | {len(skills)} | [Skills ansehen]({detail}) | <a href=\"{werkstatt_url}\" download><code>Werkstatt</code></a> | <a href=\"{schnellstart_url}\" download><code>Schnellstart</code></a> | [Plugin]({zip_url}) |"
@@ -189,8 +190,8 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     _source_rel = _source_rel_for(name)
     skills_dir = REPO_ROOT / _source_rel / "skills"
     plugin_zip = f"{GH_RELEASE}/{name}.zip"
-    werkstatt_md = f"{GH_RELEASE}/{name}-werkstatt.md"
-    schnellstart_md = f"{GH_RELEASE}/{name}-schnellstart.md"
+    werkstatt_md = f"{GH_RAW}/{_source_rel}/{name}-werkstatt.md"
+    schnellstart_md = f"{GH_RAW}/{_source_rel}/{name}-schnellstart.md"
     md_zip = f"{GH_RELEASE}/alle-skills-markdown.zip"
     plugin_readme = f"{GH_BLOB}/{_source_rel}/README.md"
     lines = [

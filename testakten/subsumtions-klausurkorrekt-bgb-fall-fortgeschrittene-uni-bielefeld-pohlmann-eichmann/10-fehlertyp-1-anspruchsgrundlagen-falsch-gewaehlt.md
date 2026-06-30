@@ -19,7 +19,7 @@ Fehlertyp 1 liegt vor, wenn eine Klausur:
 
 **Fehler:** Tannenfels prüft §§ 946/947 BGB (Verbindung und Vermischung) statt § 929 BGB (rechtsgeschäftlicher Eigentumsübergang). Er übersieht, dass das Radarwarngerät kein wesentlicher Bestandteil des Fahrzeugs ist und daher gesondert übereignet werden kann. §§ 946/947 BGB sind Sondertatbestände für gesetzlichen Eigentumserwerb bei wesentlichen Bestandteilen.
 
-**Musterlösung-Ansatz:** Erst § 93 BGB prüfen (wesentlicher Bestandteil?), verneinen, dann § 929 BGB als Rechtsgrundlage für den rechtsgeschäftlichen Erwerb heranziehen.
+**Korrekturleitlinie:** Erst Paragraf 93 BGB prüfen (wesentlicher Bestandteil?), verneinen, dann Paragraf 929 BGB als Rechtsgrundlage für den rechtsgeschäftlichen Erwerb heranziehen.
 
 **Einfluss auf Punkte:** -4 Punkte (Frage 4 fast vollständig verfehlt).
 

@@ -19,11 +19,11 @@ SPA Draft 1 wurde durch Roosendaal Birkenhainer Partners mbB erstellt und am 18.
 | Artikel | Titel | Status |
 |---|---|---|
 | Art. 1 | Definitionen | Weitgehend fertig; 12 Definitionen zur Klärung |
-| Art. 2 | Kaufgegenstand und Kaufpreis | Locked-Box-Mechanismus eingebaut; Earn-Out-Klausel Platzhalter |
+| Art. 2 | Kaufgegenstand und Kaufpreis | Locked-Box-Mechanismus eingebaut; Earn-Out-Klausel noch offen |
 | Art. 3 | Signing und Closing | Closing Conditions vorbehaltlich BKartA-Freigabe |
 | Art. 4 | Representations and Warranties Verkäufer | 47 Warranties; Knowledge Qualifier noch offen |
 | Art. 5 | Representations and Warranties Käufer | 8 Warranties; Standard |
-| Art. 6 | Indemnification | Cap und Basket: Platzhalter |
+| Art. 6 | Indemnification | Cap und Basket: offene Eintragung |
 | Art. 7 | MAC-Klausel | Entwurf vorhanden; Carve-outs unvollständig |
 | Art. 8 | Earn-Out | EBITDA-Definition fehlt noch |
 | Art. 9 | Covenants (Pre-Closing) | Vollständig |
@@ -43,7 +43,7 @@ SPA Draft 1 wurde durch Roosendaal Birkenhainer Partners mbB erstellt und am 18.
 
 ### Issue 2 — Earn-Out (Art. 8)
 
-**Offener Punkt:** EBITDA-Definition fehlt vollständig (Platzhalter "[●]"). Käufer wird eigene Definition vorschlagen.
+**Offener Punkt:** EBITDA-Definition fehlt vollständig; die Klammerstelle "[●]" ist nicht befüllt. Käufer wird eigene Definition vorschlagen.
 
 **Problem:** Divergenz zu erwarten bzgl. Bereinigung ausserordentlicher Aufwendungen, Behandlung Erbbaurechtsrente, Abschreibungen auf Solarmodule.
 
@@ -59,7 +59,7 @@ SPA Draft 1 wurde durch Roosendaal Birkenhainer Partners mbB erstellt und am 18.
 
 ### Issue 4 — Indemnification Cap/Basket (Art. 6)
 
-**Offener Punkt:** Cap und Deductible Basket sind als Platzhalter "[●]% des Kaufpreises" eingetragen.
+**Offener Punkt:** Cap und Deductible Basket sind als offene Eintragungen "[●]% des Kaufpreises" eingetragen.
 
 **Problem:** Marktstandard variiert je nach Transaktionsgroesse und Risikoprofil. Bei 38 Mio. EUR EV: Cap typischerweise 15-25% (EUR 5,7 bis 9,5 Mio.), de minimis EUR 50.000, Basket EUR 500.000 (Deductible, kein Tipping Basket).
 
@@ -67,7 +67,7 @@ SPA Draft 1 wurde durch Roosendaal Birkenhainer Partners mbB erstellt und am 18.
 
 ### Issue 5 — GrESt Erbbaurecht (Art. 2 / Anlage)
 
-**Offener Punkt:** Steuerliche Implikation ungeklärt. § 1 Abs. 3 GrEStG könnte bei 100%-Share-Deal der GmbH, die ein Erbbaurecht hält, eine Grunderwerbsteuer auslösen (fiktive Grundstücksübertragung).
+**Offener Punkt:** Steuerliche Implikation ungeklärt. Paragraf 1 Absatz 3 GrEStG könnte bei 100%-Share-Deal der GmbH, die ein Erbbaurecht hält, eine Grunderwerbsteuer auslösen (steuerlich fingierte Grundstücksübertragung).
 
 **Problem:** Steuerbelastung potenziell ca. 6% von 18 ha x Grundstückswert = erheblicher Betrag. Pivot zu Asset-Deal könnte GrESt vermeiden, löst aber andere Probleme aus (HGB § 25, Genehmigungen).
 

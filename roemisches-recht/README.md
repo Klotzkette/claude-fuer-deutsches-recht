@@ -14,9 +14,9 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`roemisches-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht.zip) |
-| Großer Prompt (Werkstatt) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-werkstatt.md" download><code>roemisches-recht-werkstatt.md</code></a> |
-| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht-schnellstart.md" download><code>roemisches-recht-schnellstart.md</code></a> |
-| Testakte(n) als ZIP | ZIP | [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip) (Römischrechtliche Fallakte Aventinus) |
+| Großer Prompt (Werkstatt) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisches-recht/roemisches-recht-werkstatt.md" download><code>roemisches-recht-werkstatt.md</code></a> |
+| Kleiner Prompt (Schnellstart) | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/roemisches-recht/roemisches-recht-schnellstart.md" download><code>roemisches-recht-schnellstart.md</code></a> |
+| Testakte(n) als ZIP | ZIP | Römischrechtliche Fallakte Aventinus: [Gesamt-PDF](../testakten/roemisches-recht-kauf-besitz-erbschaft-pergamentfall/gesamt-pdf/roemisches-recht-kauf-besitz-erbschaft-pergamentfall_gesamt.pdf), [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall.zip), [`testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-roemisches-recht-kauf-besitz-erbschaft-pergamentfall-einzelpdfs.zip) |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->

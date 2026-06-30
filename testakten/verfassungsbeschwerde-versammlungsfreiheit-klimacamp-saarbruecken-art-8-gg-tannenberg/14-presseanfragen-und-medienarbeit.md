@@ -45,7 +45,7 @@ Dr. Tannenberg-Roosendaal ist der offizielle Sprecher der Initiative. Alle Press
 >
 > Dr. Friedrich Tannenberg-Roosendaal, Vorsitzender Klimacamp Initiative Saarbruecken e.V.
 
-### PM 2 — Nach BVerfG-Entscheidung (Platzhalter — vgl. Aktenstück 21)
+### PM 2 — Nach BVerfG-Entscheidung (Entwurf nach Aktenstück 21)
 
 *Folgt nach Entscheidung.*
 

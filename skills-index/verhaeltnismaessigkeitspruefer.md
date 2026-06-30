@@ -1,6 +1,6 @@
 # verhaeltnismaessigkeitspruefer
 
-**85 Skills** · Stand `v401.0.0`
+**85 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verhaeltnismaessigkeitspruefer/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-werkstatt.md" download><code>verhaeltnismaessigkeitspruefer-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer-schnellstart.md" download><code>verhaeltnismaessigkeitspruefer-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md" download><code>verhaeltnismaessigkeitspruefer-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md" download><code>verhaeltnismaessigkeitspruefer-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [verhaeltnismaessigkeitspruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verhaeltnismaessigkeitspruefer.zip) |
 

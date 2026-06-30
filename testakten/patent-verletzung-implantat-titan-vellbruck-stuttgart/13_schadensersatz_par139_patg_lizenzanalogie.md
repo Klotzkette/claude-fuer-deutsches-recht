@@ -13,7 +13,7 @@ Der Patentinhaber kann gem. § 139 Abs. 2 PatG (dejure.org) Schadensersatz für 
 
 1. **Entgangener Gewinn** (§ 252 BGB): Der Gewinn, den die Klägerin ohne die Verletzung erzielt hätte.
 2. **Herausgabe des Verletzergewinns**: Der Gewinn, den der Verletzer durch die Verletzung erzielt hat.
-3. **Lizenzanalogie**: Eine fiktive angemessene Lizenzgebühr, die vernünftige Parteien bei Kenntnis der Sachlage vereinbart hätten.
+3. **Lizenzanalogie**: Eine angemessene Lizenzgebühr, die vernünftige Parteien bei Kenntnis der Sachlage in einem gedachten Lizenzvertrag vereinbart hätten.
 
 Die Mandantin wird im Betragsverfahren die Methode wählen, die den höchsten Betrag ergibt. Für die Klageschrift wird zunächst die Lizenzanalogie verwendet, da sie am einfachsten zu berechnen ist und in der Regel als Mindestschaden gilt.
 

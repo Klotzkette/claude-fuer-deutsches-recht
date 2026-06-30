@@ -1,6 +1,6 @@
 # forderungsmanagement-klagewerkstatt
 
-**84 Skills** · Stand `v401.0.0`
+**84 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/forderungsmanagement-klagewerkstatt/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-werkstatt.md" download><code>forderungsmanagement-klagewerkstatt-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt-schnellstart.md" download><code>forderungsmanagement-klagewerkstatt-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md" download><code>forderungsmanagement-klagewerkstatt-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md" download><code>forderungsmanagement-klagewerkstatt-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [forderungsmanagement-klagewerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/forderungsmanagement-klagewerkstatt.zip) |
 

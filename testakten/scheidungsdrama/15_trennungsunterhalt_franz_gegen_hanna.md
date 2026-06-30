@@ -63,7 +63,7 @@ Franz ist seit 2018 selbstständig. Es stellt sich die Frage, ob seine Einnahmen
 
 **Erwerbsobliegenheit:** Auch gegenüber dem Ehegatten gilt während der Trennungszeit eine Erwerbsobliegenheit (§ 1361 Abs. 2 BGB): Franz muss die nach seinen Verhältnissen zumutbare Erwerbstätigkeit ausüben und sein Einkommen nicht künstlich kleinhalten.
 
-Wenn Franz als Unternehmer die Entnahmen absichtlich niedrig hält (z.B. durch erhöhte Rücklagen, hohe Abschreibungen oder verschobene Rechnungsstellung), kann das Gericht ein fiktives Einkommen zurechnen. Das erfordert jedoch eine detaillierte Analyse der Jahresabschlüsse.
+Wenn Franz als Unternehmer die Entnahmen absichtlich niedrig hält (z.B. durch erhöhte Rücklagen, hohe Abschreibungen oder verschobene Rechnungsstellung), kann das Gericht ein zurechenbares Einkommen ansetzen. Das erfordert jedoch eine detaillierte Analyse der Jahresabschlüsse.
 
 Die Kanzlei hat Franz über RAin Ganzhorn aufgefordert, Jahresabschlüsse 2022–2024 vorzulegen. Diese sind noch nicht vollständig eingegangen.
 
@@ -95,6 +95,6 @@ Hanna ist finanziell in der stärkeren Position. Ein Trennungsunterhaltsanspruch
 
 Hanna sollte dies frühzeitig in ihre Liquiditätsplanung einkalkulieren. Eine einvernehmliche Regelung (monatlicher Zahlungsbetrag ohne langwieriges Verfahren) ist sinnvoller als eine streitige Durchsetzung, die Anwalts- und Verfahrenskosten produziert.
 
-Umgekehrt hat Hanna Interesse daran, den genauen Unterhaltsrahmen zu begrenzen: Vollständige Offenlegung von Franz' Einkommen, kritische Prüfung der Unternehmensbilanzen, Nachweis fiktiver Einkünfte. Der Wirtschaftsgutachter (WP Dreschler) sollte auch zu Franz' Entnahmeverhalten befragt werden.
+Umgekehrt hat Hanna Interesse daran, den genauen Unterhaltsrahmen zu begrenzen: Vollständige Offenlegung von Franz' Einkommen, kritische Prüfung der Unternehmensbilanzen, Nachweis zurechenbarer Mehrerträge. Der Wirtschaftsgutachter (WP Dreschler) sollte auch zu Franz' Entnahmeverhalten befragt werden.
 
 Detaillierte Berechnung: XLSX Aktenstück 14.

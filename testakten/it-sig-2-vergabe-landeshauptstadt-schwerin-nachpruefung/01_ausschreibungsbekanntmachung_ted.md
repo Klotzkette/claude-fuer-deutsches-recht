@@ -163,4 +163,4 @@ Vergabekammer des Bundes (s.o.)
 
 ---
 
-*Quelle (fiktiv, für Testzwecke): TED 2026/S 042-XXXXXX, Supplement zum Amtsblatt der EU. Bezugsdokument: Vollständige Ausschreibungsunterlagen unter https://vergabe.mecklenburg-vorpommern.de (fiktiv).*
+*Quelle laut Vergabeakte: TED 2026/S 042-188441, Supplement zum Amtsblatt der EU. Bezugsdokument: Vollständige Ausschreibungsunterlagen unter https://vergabe.mecklenburg-vorpommern.de.*

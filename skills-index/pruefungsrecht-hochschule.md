@@ -1,6 +1,6 @@
 # pruefungsrecht-hochschule
 
-**108 Skills** · Stand `v401.0.0`
+**108 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/pruefungsrecht-hochschule/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule-werkstatt.md" download><code>pruefungsrecht-hochschule-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule-schnellstart.md" download><code>pruefungsrecht-hochschule-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/pruefungsrecht-hochschule/pruefungsrecht-hochschule-werkstatt.md" download><code>pruefungsrecht-hochschule-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/pruefungsrecht-hochschule/pruefungsrecht-hochschule-schnellstart.md" download><code>pruefungsrecht-hochschule-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [pruefungsrecht-hochschule.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pruefungsrecht-hochschule.zip) |
 

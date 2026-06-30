@@ -1,6 +1,6 @@
 # nda-verschwiegenheit-generator-checker
 
-**101 Skills** · Stand `v401.0.0`
+**101 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nda-verschwiegenheit-generator-checker/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-verschwiegenheit-generator-checker-werkstatt.md" download><code>nda-verschwiegenheit-generator-checker-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-verschwiegenheit-generator-checker-schnellstart.md" download><code>nda-verschwiegenheit-generator-checker-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md" download><code>nda-verschwiegenheit-generator-checker-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-schnellstart.md" download><code>nda-verschwiegenheit-generator-checker-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [nda-verschwiegenheit-generator-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nda-verschwiegenheit-generator-checker.zip) |
 

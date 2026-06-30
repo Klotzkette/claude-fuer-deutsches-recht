@@ -46,9 +46,9 @@ Das Beratungs-Team übernimmt folgende Aufgaben:
 
 ---
 
-## Besondere Hinweise zur Plugin-Demonstration
+## Besondere Bearbeitungshinweise
 
-Diese Akte demonstriert den koordinierten Einsatz von Steueranwalt und Steuerberater in einem komplexen Betriebsprüfungsverfahren mit steuerstrafrechtlicher Dimension. Das Plugin `steuerrecht-anwalt-und-berater` eignet sich für:
+Diese Akte verlangt den koordinierten Einsatz von Steueranwalt und Steuerberater in einem komplexen Betriebsprüfungsverfahren mit steuerstrafrechtlicher Dimension. Für die weitere Bearbeitung sind insbesondere folgende Arbeitsstränge offen:
 
 - Sachverhaltsanalyse und Rechtsqualifikation aller 6 Feststellungstypen
 - Entwurf von Einsprüchen, AdV-Anträgen und Klageschriften
@@ -62,7 +62,7 @@ Diese Akte demonstriert den koordinierten Einsatz von Steueranwalt und Steuerber
 
 ## Schluss
 
-*Dieses Mandat ist ein Paradebeispiel für die Notwendigkeit der engen Zusammenarbeit von Steuerberater (Zahlen, Bilanzen, Steuererklärungen) und Steueranwalt (Verfahrensrecht, Strafrecht, Gerichtsverfahren). Ohne koordinierten Ansatz wäre das Risiko für den Mandanten deutlich höher.*
+*Dieses Mandat erfordert eine enge Zusammenarbeit von Steuerberater (Zahlen, Bilanzen, Steuererklärungen) und Steueranwalt (Verfahrensrecht, Strafrecht, Gerichtsverfahren). Ohne koordinierten Ansatz wäre das Risiko für den Mandanten deutlich höher.*
 
 *Dr. Cornelia Vellbruck-Steinheim, RA/StB*
 *Falk Roosendaal, StB Dipl.-Kfm.*

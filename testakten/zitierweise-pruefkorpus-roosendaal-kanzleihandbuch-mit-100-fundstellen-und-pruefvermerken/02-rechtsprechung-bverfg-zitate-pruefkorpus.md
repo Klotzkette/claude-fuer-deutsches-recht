@@ -67,7 +67,7 @@ BVerfGE 93, 1 (16 f.).
 
 ---
 
-## Fundstelle 4 — BVerfG mit BeckRS-Sperre (Lehrbeispiel)
+## Fundstelle 4 — BVerfG mit BeckRS-Sperre
 
 **Situation:** Mitarbeiter recherchiert BVerfG-Beschluss, findet nur BeckRS-Eintrag.
 
@@ -128,7 +128,7 @@ abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidunge
 **Langzitat:**
 BVerfG, Beschl. v. 19.09.2024, Az. 2 BvR 1234/24, Rn. 35, abrufbar unter: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/09/rk20240919_2bvr123424.html (abgerufen am 01.10.2025).
 
-**[Lehrbeispiel — Entscheidung fiktiv; dient der Demonstration des Randnummer-Zitats ohne Bandaufnahme]**
+**[Prüfvermerk: Entscheidung und URL vor Verwendung am Bundesverfassungsgericht nachverifizieren; bis dahin nur als Formatbeleg intern verwenden.]**
 
 **Prüfvermerk:** Kein Prüfvermerk für das Format erforderlich. Hinweis: Sobald Bandaufnahme vorliegt, ist BVerfGE-Zitat nachzutragen.
 
@@ -149,7 +149,7 @@ BVerfGE 107, 275 (280 f.).
 
 ---
 
-## Fundstelle 9 — Rangfolge-Fehler-Lehrbeispiel
+## Fundstelle 9 — Rangfolge-Fehler
 
 **Fehlerhaftes Zitat (Entwurf):**
 BVerfG, Urt. v. 11.03.2003, Az. 1 BvR 426/02, NJW 2003, 1303 — (BVerfGE 107, 275).

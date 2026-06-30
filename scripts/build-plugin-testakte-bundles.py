@@ -13,6 +13,8 @@ import sys
 import zipfile
 from pathlib import Path
 
+from testakte_file_filter import include_in_working_dump
+
 
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
@@ -31,9 +33,7 @@ def list_plugins() -> list[dict]:
 
 def add_dir(zf: zipfile.ZipFile, base: Path, arc_prefix: str) -> None:
     for path in sorted(base.rglob("*")):
-        if path.is_dir():
-            continue
-        if path.name == ".DS_Store" or "__pycache__" in path.parts:
+        if not include_in_working_dump(path, base, include_gesamt_pdf=True):
             continue
         zf.write(path, arcname=f"{arc_prefix}/{path.relative_to(base).as_posix()}")
 

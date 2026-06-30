@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import json
 import re
+from os.path import relpath
 from pathlib import Path
 
 
@@ -24,6 +25,7 @@ OLD_MEGA_END = "<!-- END megaprompt-und-vorlagen (autogen) -->"
 OLD_SOFORT_BEGIN = "<!-- BEGIN plugin-sofort-download-section (autogen) -->"
 OLD_SOFORT_END = "<!-- END plugin-sofort-download-section (autogen) -->"
 RELEASE_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
+RAW_BASE = "https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main"
 PROSE_REPLACEMENTS = {
     "Abwaegung": "Abwägung",
     "Aerzte": "Ärzte",
@@ -191,15 +193,35 @@ def get_akte_title(akte_slug: str) -> str:
 
 
 def testakte_download_cell(plugin_name: str, directory: Path, akten_slugs: list[str]) -> str:
+    pluginlocal_parts = []
+    if (directory / "testakte").is_dir():
+        pdf = directory / "testakte" / "gesamt-pdf" / "testakte_gesamt.pdf"
+        if pdf.is_file():
+            pluginlocal_parts.append("[Gesamt-PDF](testakte/gesamt-pdf/testakte_gesamt.pdf)")
+        pluginlocal_parts.append(f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip)")
+        pluginlocal_parts.append(f"[`{plugin_name}-testakte-einzelpdfs.zip`]({RELEASE_BASE}/{plugin_name}-testakte-einzelpdfs.zip)")
     if akten_slugs:
         parts = []
         for slug in akten_slugs:
             title = get_akte_title(slug).replace("|", "-")
-            parts.append(f"[`testakte-{slug}.zip`]({RELEASE_BASE}/testakte-{slug}.zip) ({title})")
+            pdf_rel = Path(
+                relpath(TESTAKTEN_DIR / slug / "gesamt-pdf" / f"{slug}_gesamt.pdf", start=directory)
+            ).as_posix()
+            parts.append(
+                f"{title}: "
+                f"[Gesamt-PDF]({pdf_rel}), "
+                f"[`testakte-{slug}.zip`]({RELEASE_BASE}/testakte-{slug}.zip), "
+                f"[`testakte-{slug}-einzelpdfs.zip`]({RELEASE_BASE}/testakte-{slug}-einzelpdfs.zip)"
+            )
+        if pluginlocal_parts:
+            parts.append("Pluginlokale Akte: " + ", ".join(pluginlocal_parts))
         return "; ".join(parts)
-    if (directory / "testakte").is_dir():
-        return f"[`{plugin_name}-testakte.zip`]({RELEASE_BASE}/{plugin_name}-testakte.zip)"
-    return f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip) (zentrale Sammlung)"
+    if pluginlocal_parts:
+        return ", ".join(pluginlocal_parts)
+    return (
+        f"[`alle-testakten.zip`]({RELEASE_BASE}/alle-testakten.zip) "
+        f"und [`alle-testakten-einzelpdfs.zip`]({RELEASE_BASE}/alle-testakten-einzelpdfs.zip) (zentrale Sammlung)"
+    )
 
 
 def markdown_text(value: str) -> str:
@@ -214,8 +236,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str]) -> str:
     stem = prompt_stem(plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
     schnellstart_file = f"{stem}-schnellstart.md"
-    werkstatt_url = f"{RELEASE_BASE}/{werkstatt_file}"
-    schnellstart_url = f"{RELEASE_BASE}/{schnellstart_file}"
+    raw_dir = f"{RAW_BASE}/{directory.relative_to(REPO).as_posix()}"
+    werkstatt_url = f"{raw_dir}/{werkstatt_file}"
+    schnellstart_url = f"{raw_dir}/{schnellstart_file}"
     testakte_cell = testakte_download_cell(plugin_name, directory, akten_slugs)
     description = markdown_text(plugin.get("description") or readme_title(directory, plugin_name))
     return f"""{BEGIN}

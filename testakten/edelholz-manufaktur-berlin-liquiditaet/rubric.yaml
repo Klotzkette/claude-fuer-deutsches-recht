@@ -2,7 +2,7 @@
 # Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
 # Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
 
-name: "Arbeitsakte Edelholz Berlin"
+name: "Edelholz Manufaktur Berlin Liquiditätsakte"
 plugin: "tbd"
 
 checks:
@@ -14,7 +14,7 @@ checks:
   - id: r02-gesamt-pdf-vorhanden
     check_type: file_exists
     description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf"
+    path: "gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf"
 
   - id: r03-mindestens-3-aktenstuecke
     check_type: file_count

@@ -37,7 +37,7 @@ CTO Krishnamurthy hat am 10.04.2026 einen Entwurf der EU-Konformitätserklärung
 | Nr. 5 — NB-Name und -Kennung | Fehlt | Konsequenz aus Nr. 4 |
 | Nr. 6 — Verweis harmonisierte Normen | Lückenhaft | Nur ISO 9001; ISO 62304, ISO 14971 fehlen |
 | Nr. 7 — Weitere Normen/Spezifikationen | Lückenhaft | ENISA-Leitlinien nicht erwähnt |
-| Nr. 8 — Ort, Datum, Unterschrift | Leer (Platzhalter) | Noch nicht unterzeichnet |
+| Nr. 8 — Ort, Datum, Unterschrift | Noch leer | Noch nicht unterzeichnet |
 
 **Bewertung:** Der Entwurf ist nicht fertigstellungsreif. Er kann erst nach Abschluss des Konformitätsbewertungsverfahrens (Art. 43) und NB-Zertifizierung finalisiert werden.
 

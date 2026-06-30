@@ -1,6 +1,6 @@
 # urheberrecht-de-eu
 
-**64 Skills** · Stand `v401.0.0`
+**64 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/urheberrecht-de-eu/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-werkstatt.md" download><code>urheberrecht-de-eu-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu-schnellstart.md" download><code>urheberrecht-de-eu-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md" download><code>urheberrecht-de-eu-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md" download><code>urheberrecht-de-eu-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [urheberrecht-de-eu.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu.zip) |
 

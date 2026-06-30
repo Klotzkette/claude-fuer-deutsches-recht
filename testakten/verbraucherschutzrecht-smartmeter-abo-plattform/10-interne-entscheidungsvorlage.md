@@ -18,4 +18,4 @@ Was wäre, wenn die Behörde oder Gegenseite formal zuständig ist, aber den Sac
 
 ## Ergebnis
 
-Die Akte ist für eine gute Plugin-Demonstration geeignet, weil sie nicht durch eine einfache Musterlösung erledigt werden kann. Sie verlangt Dokumentenordnung, Normzuordnung, Beweisdisziplin, Fristenkontrolle und taktische Kommunikation.
+Die Akte verlangt eine geordnete Auswertung von Dokumentenstand, Normzuordnung, Beweisdisziplin, Fristenkontrolle und taktischer Kommunikation. Eine belastbare Entscheidungsvorlage darf die offenen Punkte nicht glätten, sondern muss sie nach Verfahrensrisiko, Beweiszugang und Eilbedürftigkeit trennen.

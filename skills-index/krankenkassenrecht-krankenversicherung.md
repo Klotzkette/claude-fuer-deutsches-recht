@@ -1,6 +1,6 @@
 # krankenkassenrecht-krankenversicherung
 
-**160 Skills** · Stand `v401.0.0`
+**160 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/krankenkassenrecht-krankenversicherung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-werkstatt.md" download><code>krankenkassenrecht-krankenversicherung-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung-schnellstart.md" download><code>krankenkassenrecht-krankenversicherung-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-werkstatt.md" download><code>krankenkassenrecht-krankenversicherung-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/krankenkassenrecht-krankenversicherung/krankenkassenrecht-krankenversicherung-schnellstart.md" download><code>krankenkassenrecht-krankenversicherung-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [krankenkassenrecht-krankenversicherung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
 

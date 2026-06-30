@@ -1,6 +1,6 @@
 # staatsanwaltschaft-praxis-einstieg
 
-**145 Skills** · Stand `v401.0.0`
+**145 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-werkstatt.md" download><code>staatsanwaltschaft-praxis-einstieg-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg-schnellstart.md" download><code>staatsanwaltschaft-praxis-einstieg-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md" download><code>staatsanwaltschaft-praxis-einstieg-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md" download><code>staatsanwaltschaft-praxis-einstieg-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [staatsanwaltschaft-praxis-einstieg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 

@@ -139,7 +139,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 
 | Testakte                                                   | Passt zu Plugin                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| `testakte-beispielakte-edelholz-berlin.zip`                | `liquiditaetsplanung` + `insolvenzrecht` + `steuerrecht-anwalt-und-berater` |
+| `testakte-edelholz-manufaktur-berlin-liquiditaet.zip`                | `liquiditaetsplanung` + `insolvenzrecht` + `steuerrecht-anwalt-und-berater` |
 | `testakte-fluggastrechte-familie-braeutigam.zip`           | `fluggastrechte`                                             |
 | `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`   | `betreuungsrecht`                                            |

@@ -1,6 +1,6 @@
 # vereinsrecht-vereinsmanager
 
-**58 Skills** · Stand `v401.0.0`
+**58 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vereinsrecht-vereinsmanager/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-werkstatt.md" download><code>vereinsrecht-vereinsmanager-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager-schnellstart.md" download><code>vereinsrecht-vereinsmanager-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-werkstatt.md" download><code>vereinsrecht-vereinsmanager-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vereinsrecht-vereinsmanager/vereinsrecht-vereinsmanager-schnellstart.md" download><code>vereinsrecht-vereinsmanager-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [vereinsrecht-vereinsmanager.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vereinsrecht-vereinsmanager.zip) |
 

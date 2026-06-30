@@ -86,7 +86,7 @@ Beim Verbrauchsgüterkauf (A = Unternehmer, B = Verbraucher) gilt:
 
 **Berechnung (Beispiel):**
 
-Basiszinssatz (Stand April 2026 — fiktiv): ca. 3,62 % (Annahme auf Basis EZB-Trend)
+Basiszinssatz (Arbeitsstand April 2026): ca. 3,62 % (vorläufige Annahme auf Basis EZB-Trend)
 Verzugszinssatz: 3,62 % + 5 % = 8,62 % p. a.
 Hauptforderung nach Aufrechnung: 2.600 Euro
 Verzugsbeginn: 02.04.2026

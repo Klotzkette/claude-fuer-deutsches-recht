@@ -3,11 +3,11 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 649 KB) | PDF | [`gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf`](gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 653 KB) | PDF | [`gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf`](gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg-einzelpdfs.zip) |
 

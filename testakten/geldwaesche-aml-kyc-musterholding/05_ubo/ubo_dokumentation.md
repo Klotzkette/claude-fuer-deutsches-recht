@@ -85,9 +85,9 @@ Mit Schreiben vom 08.05.2026 wurde Danube Trade Solutions SRL erneut aufgeforder
 
 ---
 
-## 4. Fiktiver wirtschaftlich Berechtigter (§ 3 Abs. 2 GwG)
+## 4. Wirtschaftlich Berechtigter nach Auffangregel
 
-Da keine natürliche Person als wirtschaftlich Berechtigter ermittelt werden konnte, greift § 3 Abs. 2 S. 2 GwG: Als wirtschaftlich Berechtigter gilt in diesem Fall der gesetzliche Vertreter, also Andrei Moldovan als GF der Danube Trade Solutions SRL.
+Da keine natürliche Person als wirtschaftlich Berechtigter ermittelt werden konnte, greift Paragraf 3 Absatz 2 Satz 2 GwG: Als wirtschaftlich Berechtigter gilt in diesem Fall der gesetzliche Vertreter, also Andrei Moldovan als GF der Danube Trade Solutions SRL.
 
 
 ---

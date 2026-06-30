@@ -170,8 +170,9 @@ for (const entry of marketplace.plugins || []) {
   } else {
     readmeCount += 1;
     const text = readText(readme);
-    const werkstattRaw = `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/${entry.name}-werkstatt.md`;
-    const schnellstartRaw = `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/${entry.name}-schnellstart.md`;
+    const sourceRel = String(entry.source || `./${entry.name}`).replace(/^\.\//, '');
+    const werkstattRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-werkstatt.md`;
+    const schnellstartRaw = `https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/${sourceRel}/${entry.name}-schnellstart.md`;
     if (!text.includes(werkstattRaw) || !new RegExp(`<a href="${werkstattRaw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}" download>`).test(text)) {
       errors.push(`${rel(readme)}: Werkstatt-Direktdownload fehlt oder ist nicht als download markiert`);
     }

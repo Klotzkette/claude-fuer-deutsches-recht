@@ -55,7 +55,7 @@ Zitate, die sich auf das BGB vor 2002 beziehen (z.B. Palandt 61. Aufl. 2002), m√
 
 ---
 
-## E. Lehrbeispiele Altzitat-Migration
+## E. Altzitat-Migration
 
 ### E.1 Migration ohne Inhaltaenderung
 

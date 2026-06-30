@@ -1,6 +1,6 @@
 # fachanwalt-gewerblicher-rechtsschutz
 
-**107 Skills** · Stand `v401.0.0`
+**107 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md" download><code>fachanwalt-gewerblicher-rechtsschutz-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md" download><code>fachanwalt-gewerblicher-rechtsschutz-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md" download><code>fachanwalt-gewerblicher-rechtsschutz-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md" download><code>fachanwalt-gewerblicher-rechtsschutz-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [fachanwalt-gewerblicher-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
 

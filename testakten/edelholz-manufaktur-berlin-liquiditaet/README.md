@@ -4,13 +4,13 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 165 KB) | PDF | [`gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf`](gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-beispielakte-edelholz-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin-einzelpdfs.zip) |
+| Gesamt-PDF (alles in einer Datei, 251 KB) | PDF | [`gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf`](gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-edelholz-manufaktur-berlin-liquiditaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-edelholz-manufaktur-berlin-liquiditaet-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet-einzelpdfs.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
@@ -20,7 +20,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-beispielakte-edelholz-berlin` (Akte) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| `testakte-edelholz-manufaktur-berlin-liquiditaet` (Akte) | [testakte-edelholz-manufaktur-berlin-liquiditaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

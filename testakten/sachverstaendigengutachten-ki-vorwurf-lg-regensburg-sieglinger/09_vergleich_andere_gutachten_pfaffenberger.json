@@ -30,11 +30,11 @@
       "auftrag": "Aufdach-PV-Anlage, Streit Modulhalter",
       "rolle_pfaffenberger": "gerichtlich bestellter Sachverstaendiger",
       "auffaelligkeiten": [
-        "Platzhalter '[KUNDE]' im Tabellenkopf nicht ersetzt",
+        "offene Klammerstelle '[KUNDE]' im Tabellenkopf nicht ersetzt",
         "Doppelzitat Norm DIN EN 61730 mit Schreibfehler 'DIM EN 61730'"
       ],
       "_hinweis": "Anonymisierte Veroeffentlichung BeckOnline? - bewusst nicht zitiert, weil Quellenangabe nicht ueberpruefbar",
-      "ausgang": "Klagestattgabe nach muendlicher Anhoerung; SV hatte Platzhalter eingeraeumt",
+      "ausgang": "Klagestattgabe nach muendlicher Anhoerung; SV hatte offene Klammerstelle eingeraeumt",
       "akten_zugriff": "kollegial bestaetigt durch RA Krall (Regensburg)"
     },
     {

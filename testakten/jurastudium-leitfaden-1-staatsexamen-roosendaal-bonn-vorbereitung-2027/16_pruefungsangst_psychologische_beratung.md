@@ -19,7 +19,7 @@ Begleitende Belastungsfaktoren zu diesem Zeitpunkt:
 ## Psychologische Studienberatung Uni Bonn
 
 **Erste Sitzung:** 03.02.2026
-**Beraterin:** Dipl.-Psych. Katharina Mews, Psychologische Studienberatung Universität Bonn, Poppelsdorfer Allee 15 (fiktiv)
+**Beraterin:** Dipl.-Psych. Katharina Mews, Psychologische Studienberatung Universität Bonn, Poppelsdorfer Allee 15
 **Sitzungsfrequenz:** zunächst wöchentlich; ab April 2026 zweiwöchentlich
 
 ### Diagnose und Einschätzung (Zusammenfassung)
@@ -73,6 +73,6 @@ Empfehlung: Beratungsgespräch Oktober 2026 und Januar 2027 (je 1 × vor kritisc
 
 ## Quellen
 
-- Psychologische Studienberatung Universität Bonn: [www.uni-bonn.de/studium/beratung](https://www.uni-bonn.de/studium/beratung) (fiktiv)
+- Psychologische Studienberatung Universität Bonn: [www.uni-bonn.de/studium/beratung](https://www.uni-bonn.de/studium/beratung)
 - Aktenstück 20: Motivationsstrategien
 - Aktenstück 09: Klausurenentwicklung

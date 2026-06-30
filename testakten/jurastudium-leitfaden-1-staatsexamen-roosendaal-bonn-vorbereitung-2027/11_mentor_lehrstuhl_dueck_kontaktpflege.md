@@ -42,9 +42,9 @@
 
 ## Kontaktpflege
 
-Dr. Dueck steht für individuelle Rückfragen per E-Mail (dueck@jura.uni-bonn.de, fiktiv) zur Verfügung. Annika hat folgende Regeln vereinbart:
+Dr. Dueck steht für individuelle Rückfragen per E-Mail (dueck@jura.uni-bonn.de) zur Verfügung. Annika hat folgende Regeln vereinbart:
 - Höchstens eine E-Mail pro Woche mit konkreten fachlichen Fragen.
-- Monatliches persönliches Gespräch (30 Minuten, Juridicum Bonn, Zimmer 2.18, fiktiv).
+- Monatliches persönliches Gespräch (30 Minuten, Juridicum Bonn, Zimmer 2.18).
 - Kein Kontakt zu Prof. Dr. Witzleben direkt — dieser ist über Dr. Dueck erreichbar und hat angeboten, im November 2026 ein Prüfungsgespräch zu simulieren.
 
 ---
@@ -61,4 +61,4 @@ Die mündliche Prüfung im Schwerpunktbereich findet vor einer Kommission der Un
 ## Quellen
 
 - Gespräche mit Dr. Dueck, Protokoll intern (Oktober 2025 – Juni 2026)
-- [Lehrstuhl IPR Uni Bonn, Informationen](https://www.jura.uni-bonn.de) (fiktiv)
+- [Lehrstuhl IPR Uni Bonn, Informationen](https://www.jura.uni-bonn.de)

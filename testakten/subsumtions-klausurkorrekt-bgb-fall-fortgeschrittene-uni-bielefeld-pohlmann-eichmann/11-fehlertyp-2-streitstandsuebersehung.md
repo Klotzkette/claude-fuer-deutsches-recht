@@ -57,7 +57,7 @@ Streitstandübersehung ist in vier von fünf Klausuren vertreten. Dies deutet au
 
 ---
 
-## Musterlösung Streitstandtechnik
+## Korrekturleitlinie Streitstandtechnik
 
 **Muster Obersatz Streitstand:**
 "Ob der Werkvertrag über den Einbau eines Radarwarngeräts nach § 134 BGB nichtig ist, ist umstritten."

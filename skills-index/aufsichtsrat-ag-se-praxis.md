@@ -1,6 +1,6 @@
 # aufsichtsrat-ag-se-praxis
 
-**100 Skills** · Stand `v401.0.0`
+**100 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aufsichtsrat-ag-se-praxis/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aufsichtsrat-ag-se-praxis-werkstatt.md" download><code>aufsichtsrat-ag-se-praxis-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aufsichtsrat-ag-se-praxis-schnellstart.md" download><code>aufsichtsrat-ag-se-praxis-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md" download><code>aufsichtsrat-ag-se-praxis-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-schnellstart.md" download><code>aufsichtsrat-ag-se-praxis-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [aufsichtsrat-ag-se-praxis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aufsichtsrat-ag-se-praxis.zip) |
 

@@ -1,6 +1,6 @@
 # schoeffen-handelsrichter-praxis
 
-**81 Skills** · Stand `v401.0.0`
+**81 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/schoeffen-handelsrichter-praxis/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis-werkstatt.md" download><code>schoeffen-handelsrichter-praxis-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis-schnellstart.md" download><code>schoeffen-handelsrichter-praxis-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-werkstatt.md" download><code>schoeffen-handelsrichter-praxis-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/schoeffen-handelsrichter-praxis/schoeffen-handelsrichter-praxis-schnellstart.md" download><code>schoeffen-handelsrichter-praxis-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [schoeffen-handelsrichter-praxis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis.zip) |
 

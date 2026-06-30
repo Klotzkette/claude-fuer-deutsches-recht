@@ -4,7 +4,7 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 | 07 | [`07_bisheriger_unterhaltstitel_vergleich.md`](07_bisheriger_unterhaltstitel_vergleich.md) | Bisheriger Titel, Wortlaut und Auslegung des Vergleichs 2021 |
 | 08 | [`08_abaenderung_und_befristungsbegehren.md`](08_abaenderung_und_befristungsbegehren.md) | Verfahrensrahmen Paragraf 239 FamFG, Herabsetzung und Befristung |
 | 09 | [`09_bedarf_eheliche_lebensverhaeltnisse.md`](09_bedarf_eheliche_lebensverhaeltnisse.md) | Bedarf nach den ehelichen Lebensverhältnissen, Differenzmethode |
-| 10 | [`10_beduerftigkeit_fiktives_einkommen.md`](10_beduerftigkeit_fiktives_einkommen.md) | Bedürftigkeit, Aufstockungsobliegenheit, fiktives Einkommen |
+| 10 | [`10_beduerftigkeit_zugerechnetes_einkommen.md`](10_beduerftigkeit_zugerechnetes_einkommen.md) | Bedürftigkeit, Aufstockungsobliegenheit, zugerechnetes Einkommen |
 | 11 | [`11_leistungsfaehigkeit_selbstbehalt.md`](11_leistungsfaehigkeit_selbstbehalt.md) | Leistungsfähigkeit, Selbstbehalt, Halbteilung |
 | 12 | [`12_strategie_und_vergleichskorridor.md`](12_strategie_und_vergleichskorridor.md) | Paragraf 1578b- und Paragraf 1579-Bewertung, Strategie, Vergleichskorridor, Antrag |
 

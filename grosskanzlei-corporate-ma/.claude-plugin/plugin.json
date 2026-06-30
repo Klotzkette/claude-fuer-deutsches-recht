@@ -1,6 +1,6 @@
 {
   "name": "grosskanzlei-corporate-ma",
-  "version": "401.0.0",
+  "version": "402.0.0",
   "description": "Corporate/M&A-Plugin fuer Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows.",
   "license": "Apache-2.0 OR MIT",
   "author": {

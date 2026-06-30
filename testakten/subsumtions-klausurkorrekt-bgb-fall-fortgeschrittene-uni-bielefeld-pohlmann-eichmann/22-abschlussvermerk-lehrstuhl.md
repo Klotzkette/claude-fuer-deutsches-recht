@@ -42,7 +42,7 @@ Birkenhain wurde über den Bescheid informiert. Die Widerspruchsfrist (1 Monat) 
 |---|---|
 | Klausuren (25 Stück) | Prüfungsamt, Archiv SS 2026 |
 | Bewertungsbögen | Lehrstuhlarchiv, Ordner ÜBG-SS2026 |
-| Musterlösung | Lehrstuhlarchiv + digitale Akte |
+| Korrekturleitlinie | Lehrstuhlarchiv + digitale Akte |
 | Birkenhain-Akte (Anfechtung) | Prüfungsamt, Az. PA-2026-S-1188 |
 | Musterklausur Wittfeldt (anon.) | Lehrarchiv, für WS 2026/27 |
 

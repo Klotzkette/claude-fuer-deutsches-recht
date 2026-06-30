@@ -1,6 +1,6 @@
 # internationales-handelsrecht-lex-mercatoria
 
-**192 Skills** · Stand `v401.0.0`
+**192 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/internationales-handelsrecht-lex-mercatoria/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-werkstatt.md" download><code>internationales-handelsrecht-lex-mercatoria-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria-schnellstart.md" download><code>internationales-handelsrecht-lex-mercatoria-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md" download><code>internationales-handelsrecht-lex-mercatoria-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md" download><code>internationales-handelsrecht-lex-mercatoria-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [internationales-handelsrecht-lex-mercatoria.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/internationales-handelsrecht-lex-mercatoria.zip) |
 

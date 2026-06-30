@@ -54,7 +54,7 @@ Die Verwechslungsgefahr ist **erheblich**. Ein Widerspruchsverfahren der EFS Kan
 | Angabe | Details |
 |---|---|
 | Anmeldetag | 25. März 2026 |
-| Aktenzeichen DPMA | 30 2026 123 456 (fiktiv) |
+| Aktenzeichen DPMA | 30 2026 123 456 |
 | Zeichen | EFS RECHT (Wort) |
 | Klassen | 45 (Rechtsberatung, Rechtsdienstleistungen), 41 (Fortbildung) |
 | Anmelder | Eckermann Friedrich Sandhof Rechtsanwaltsgesellschaft mbH |

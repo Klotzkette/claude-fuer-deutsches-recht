@@ -56,7 +56,7 @@ def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einze
             f"{einzel_row}"
         )
         intro = (
-            "Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            "Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
             + einzel_intro
         )
         trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
@@ -66,7 +66,7 @@ def section_block(slug: str, pdf_rel: str | None, size_kb: int | None, has_einze
             f"{einzel_row}"
         )
         intro = (
-            "Diese Arbeitsakte gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+            "Dieses Aktenpaket gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
             + einzel_intro
         )
         trailer = "Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version."

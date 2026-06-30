@@ -1,6 +1,6 @@
 {
   "name": "handelsregister-praxis",
-  "version": "401.0.0",
+  "version": "402.0.0",
   "description": "Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise.",
   "license": "Apache-2.0 OR MIT",
   "author": {

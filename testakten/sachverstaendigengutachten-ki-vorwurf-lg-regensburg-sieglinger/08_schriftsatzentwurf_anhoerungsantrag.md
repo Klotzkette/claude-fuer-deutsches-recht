@@ -24,7 +24,7 @@ a) Drei- und mehrfach gleichförmige Satzeinleitungen ("Zusammenfassend ist fest
 
 b) Auf S. 19 findet sich eine Anrede an den Sachverständigen selbst, die im Stil von der übrigen Darstellung abweicht;
 
-c) Auf S. 28 ist ein offensichtlicher Vorlagen-Platzhalter "[DATUM EINFÜGEN]" nicht ersetzt worden;
+c) Auf S. 28 ist eine offensichtliche offene Datumsmarke "[DATUM EINFÜGEN]" nicht ersetzt worden;
 
 d) Die zitierte Norm "VDE-AR-N 4105" passt sachlich nicht zu dem Prüfgegenstand (Wechselrichter-Installation) — sie betrifft Niederspannungsnetz-Anschlüsse;
 

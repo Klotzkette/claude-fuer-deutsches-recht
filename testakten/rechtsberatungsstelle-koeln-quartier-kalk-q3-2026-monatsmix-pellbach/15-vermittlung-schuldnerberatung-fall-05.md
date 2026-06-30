@@ -13,8 +13,8 @@ Herr Thomas Kreutzberg-Möller (Fall 05) hat Gesamtschulden von ca. 6.800 EUR un
 
 **An:** Diakonie Köln und Region, Schuldnerberatung Kalk
 Abteilungsleiter: Werner Scheer-Pflüger
-Emil-Hoffmann-Str. 47, 50996 Köln (fiktive Adresse für Testzwecke)
-Tel.: 0221 9987-300 (fiktiv)
+Emil-Hoffmann-Str. 47, 50996 Köln
+Tel.: 0221 9987-300
 
 **Betreff:** Terminvermittlung für Herrn Thomas Kreutzberg-Möller — Schuldnerberatung
 

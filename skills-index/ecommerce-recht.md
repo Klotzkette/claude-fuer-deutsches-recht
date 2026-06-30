@@ -1,6 +1,6 @@
 # ecommerce-recht
 
-**72 Skills** · Stand `v401.0.0`
+**72 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ecommerce-recht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht-werkstatt.md" download><code>ecommerce-recht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht-schnellstart.md" download><code>ecommerce-recht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-werkstatt.md" download><code>ecommerce-recht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/ecommerce-recht/ecommerce-recht-schnellstart.md" download><code>ecommerce-recht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [ecommerce-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) |
 

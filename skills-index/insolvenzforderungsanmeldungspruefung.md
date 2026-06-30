@@ -1,6 +1,6 @@
 # insolvenzforderungsanmeldungspruefung
 
-**60 Skills** · Stand `v401.0.0`
+**60 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung-werkstatt.md" download><code>insolvenzforderungsanmeldungspruefung-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung-schnellstart.md" download><code>insolvenzforderungsanmeldungspruefung-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md" download><code>insolvenzforderungsanmeldungspruefung-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-schnellstart.md" download><code>insolvenzforderungsanmeldungspruefung-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [insolvenzforderungsanmeldungspruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip) |
 

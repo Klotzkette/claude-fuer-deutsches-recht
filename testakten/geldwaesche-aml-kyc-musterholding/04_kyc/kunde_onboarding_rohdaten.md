@@ -66,7 +66,7 @@ Laut Selbstauskunft vom 16.04.2026:
 
 - Zypern-Handelsregister-Abfrage (electronic Companies Registrar): **Blue Harbor Holdings Ltd.** eingetragen als Private Company (Reg. Nr. HE 387421); Gesellschafter-Offenlegung laut zyprischem Register: Anonym (Inhaberaktien bis 2018 möglich; Nachfolgelösung nur Nomineestruktur sichtbar).
 - **Kein UBO identifiziert**, der mehr als 25 % Stimmrechte oder wirtschaftliches Eigentum nachweisbar hält.
-- Laut § 3 Abs. 2 GwG ist in diesem Fall der gesetzliche Vertreter (Andrei Moldovan) als fiktiver wirtschaftlich Berechtigter zu behandeln, was das Risiko NICHT senkt.
+- Laut Paragraf 3 Absatz 2 GwG ist in diesem Fall der gesetzliche Vertreter (Andrei Moldovan) als wirtschaftlich Berechtigter nach Auffangregel zu behandeln, was das Risiko NICHT senkt.
 
 ### 3.3 Bewertung
 

@@ -8,7 +8,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 ## 1. Das Unternehmen
 
 **Firma:** Trüffelberch & Ürgelheim Architekturpartnerschaft PartGmbB
-**Handelsregister:** Partnerschaftsregister Hannover, PR 212 (fiktiv)
+**Handelsregister:** Partnerschaftsregister Hannover, PR 212
 **Gegründet:** 12.08.2008 (gleichzeitig mit Eheschließung)
 **Gesellschafter:**
 - Hanna Trüffelberch, 50 % — voll haftende Partnerin, Geschäftsführerin
@@ -23,7 +23,7 @@ Bearbeiterin: RAin Dr. Friederike Pohl-Krauss
 
 ## 2. Wirtschaftsgutachten WP Dreschler
 
-**Gutachter:** Dr. Johannes Dreschler, Wirtschaftsprüfer und Steuerberater, Hannover (Büro: Marktstraße 88, 30159 Hannover — fiktiv).
+**Gutachter:** Dr. Johannes Dreschler, Wirtschaftsprüfer und Steuerberater, Hannover (Büro: Marktstraße 88, 30159 Hannover).
 **Auftrag:** August 2025, durch RAin Helmstedt im Namen Hannas.
 **Ergebnis:** Gesamtunternehmenswert 1.420.000 EUR (Methode: modifiziertes Ertragswertverfahren nach IDW S 1).
 

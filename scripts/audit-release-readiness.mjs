@@ -105,10 +105,12 @@ for (const entry of marketplace.plugins) {
     for (const phrase of oldReadmePhrases) {
       assert(!text.includes(phrase), `${rel(readme)}: alter Direkt-loslegen-Text gefunden`);
     }
-    const base = 'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download';
-    const pluginZip = `${base}/${entry.name}.zip`;
-    const werkstattUrl = `${base}/${entry.name}-werkstatt.md`;
-    const schnellstartUrl = `${base}/${entry.name}-schnellstart.md`;
+    const releaseBase = 'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download';
+    const rawBase = 'https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main';
+    const relSource = entry.source.replace(/^\.\//, '');
+    const pluginZip = `${releaseBase}/${entry.name}.zip`;
+    const werkstattUrl = `${rawBase}/${relSource}/${entry.name}-werkstatt.md`;
+    const schnellstartUrl = `${rawBase}/${relSource}/${entry.name}-schnellstart.md`;
     assert(text.includes(pluginZip), `${rel(readme)}: Plugin-ZIP-Link fehlt`);
     assert(new RegExp(`<a href="${regexpEscape(werkstattUrl)}" download><code>${regexpEscape(entry.name)}-werkstatt\\.md</code></a>`).test(text), `${rel(readme)}: Werkstatt-Download-Tag fehlt`);
     assert(new RegExp(`<a href="${regexpEscape(schnellstartUrl)}" download><code>${regexpEscape(entry.name)}-schnellstart\\.md</code></a>`).test(text), `${rel(readme)}: Schnellstart-Download-Tag fehlt`);
@@ -144,8 +146,7 @@ for (const needle of [
   'build-werkstatt-schnellstart-sammelzips.py',
   'alle-werkstatt-prompts.zip',
   'alle-schnellstart-prompts.zip',
-  '*-werkstatt.md',
-  '*-schnellstart.md',
+  'testakte-*-einzelpdfs.zip',
 ]) {
   assert(workflow.includes(needle), `.github/workflows/release-plugin-zips.yml: ${needle} fehlt`);
 }

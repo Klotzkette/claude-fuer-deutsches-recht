@@ -508,7 +508,7 @@ def header_footer_factory(testakte_name: str):
         canv.saveState()
         canv.setFont(FONT_REG, 8)
         canv.setFillColor(MUTED)
-        canv.drawString(2 * cm, 1.2 * cm, f"Arbeitsakte: {testakte_name}")
+        canv.drawString(2 * cm, 1.2 * cm, f"Akte: {testakte_name}")
         canv.drawRightString(19 * cm, 1.2 * cm, f"Seite {doc.page}")
         canv.setStrokeColor(BORDER)
         canv.setLineWidth(0.3)
@@ -602,7 +602,7 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
         pagesize=A4,
         leftMargin=2 * cm, rightMargin=2 * cm,
         topMargin=2 * cm, bottomMargin=2 * cm,
-        title=f"Arbeitsakte {testakte_dir.name}",
+        title=f"Akte {testakte_dir.name}",
         author="Kanzleiakte",
     )
     flow = list(cover)
@@ -725,7 +725,7 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
 
     writer.add_metadata(
         {
-            "/Title": f"Arbeitsakte {name}",
+            "/Title": f"Akte {name}",
             "/Author": "Kanzleiakte",
             "/Subject": "Gesamtakte",
         }

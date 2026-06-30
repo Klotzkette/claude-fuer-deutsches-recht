@@ -100,7 +100,7 @@ Hierzu nehme ich wie folgt Stellung:
 
 Ich habe im Verlauf der Gutachtenerstellung einen "Schreibassistenten" der Firma "TextPlus AI GmbH" (Berlin) probeweise verwendet, der mir von einem Kollegen empfohlen worden war. Der Schreibassistent unterstützt bei Formulierung, Grammatikkontrolle und Strukturierung von Texten. Ich habe ihn nicht für inhaltliche Bewertungen, jedoch für die sprachliche Glättung einzelner Passagen, insbesondere der Zusammenfassungen, eingesetzt.
 
-Eine Auflistung der Passagen, in denen der Schreibassistent verwendet wurde, kann ich rückwirkend nur unvollständig vornehmen, da das Werkzeug keine vollständige Versionsverfolgung anbietet. Die Schlussfolgerungen des Gutachtens entstammen ausnahmslos meiner fachlichen Bewertung. Der nicht ersetzte Platzhalter "[DATUM EINFÜGEN]" auf S. 28 beruht auf einem Fehler des Schreibassistenten bei der Übernahme einer von mir erstellten Vorlagedatei; ich bedaure dies.
+Eine Auflistung der Passagen, in denen der Schreibassistent verwendet wurde, kann ich rückwirkend nur unvollständig vornehmen, da das Werkzeug keine vollständige Versionsverfolgung anbietet. Die Schlussfolgerungen des Gutachtens entstammen ausnahmslos meiner fachlichen Bewertung. Die nicht ersetzte Datumsmarke "[DATUM EINFÜGEN]" auf S. 28 beruht auf einem Fehler des Schreibassistenten bei der Übernahme einer von mir erstellten Vorlagedatei; ich bedaure dies.
 
 Eine pauschale "KI-Erstellung" des Gutachtens hat nicht stattgefunden. Eine partielle Mitwirkung des Schreibassistenten bei Formulierungen sehe ich als zulässigen Einsatz eines technischen Hilfsmittels im Sinne des § 407a Abs. 3 ZPO an; auf die Frage einer ausdrücklichen Deklaration werde ich in der mündlichen Anhörung gerne eingehen.
 
@@ -117,7 +117,7 @@ Wesentliche Erkenntnisse aus der Stellungnahme:
 2. **VDE-AR-N 4105:** SV räumt Fehler ein (falsche Version). Das stützt unseren Methodikangriff.
 3. **Keine eigenen Messungen:** Bestätigt die Vor-Ort-Lage des Mandanten. Konstellation passt zu § 8a Abs. 2 S. 1 Nr. 2 JVEG.
 4. **Mitarbeiterin Aufhauser**: Schreibarbeiten, aber keine bewertende Beteiligung — das ist im Termin zu prüfen.
-5. **Eingeräumter Platzhalter [DATUM EINFÜGEN]:** explizit als Schreibassistent-Fehler eingeordnet; die Reviewer-Pflicht des SV verbleibt.
+5. **Eingeräumte Datumsmarke [DATUM EINFÜGEN]:** explizit als Schreibassistent-Fehler eingeordnet; die Reviewer-Pflicht des SV verbleibt.
 
 Bewertung für Befangenheitsantrag (§ 406 ZPO):
 

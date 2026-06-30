@@ -6,7 +6,7 @@ Erstellt am 18.05.2026, 14:20 Uhr, durch RA-Fachangestellte Mara Klein nach Ausw
 
 ## Direkt mappbare Felder
 
-Die folgenden Platzhalter können 1:1 aus dem Term Sheet übernommen werden:
+Die folgenden Klammerstellen können 1:1 aus dem Term Sheet übernommen werden:
 
 - `<<MIETER>>` -> "Scherflein GmbH"
 - `<<MIETER_ANSCHRIFT>>` -> "Buntentorsteinweg 144, 28201 Bremen"

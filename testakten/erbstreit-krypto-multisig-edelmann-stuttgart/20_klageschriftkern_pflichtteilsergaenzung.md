@@ -75,12 +75,12 @@ c) **Streitiger Gesamtkomplex Krypto-Wallet:** Der Beklagte behauptet ferner, da
 
 **3. Pflichtteilsergänzungsanspruch der Klägerin**
 
-Die Klägerin ist nach § 2303 Abs. 1 BGB pflichtteilsberechtigt; ihr gesetzlicher Erbteil beträgt 1/6, ihr Pflichtteil 1/12.
+Die Klägerin ist nach Paragraf 2303 Absatz 1 BGB pflichtteilsberechtigt; ihr gesetzlicher Erbteil beträgt 1/6, ihr Pflichtteil 1/12.
 
-Der fiktive Nachlass unter Einbeziehung der Schenkungen an den Beklagten (§ 2325 Abs. 1 BGB) beträgt nach vorläufiger Berechnung mindestens 4.500.000 EUR (Reinnachlass 4.082.000 EUR + Schenkungen Constantin nach Abschmelzung ca. 290.000 EUR).
+Der rechnerische Nachlass unter Einbeziehung der Schenkungen an den Beklagten nach Paragraf 2325 Absatz 1 BGB beträgt nach vorläufiger Berechnung mindestens 4.500.000 EUR (Reinnachlass 4.082.000 EUR + Schenkungen Constantin nach Abschmelzung ca. 290.000 EUR).
 
 Der Pflichtteilsergänzungsanspruch der Klägerin errechnet sich wie folgt:
-- Fiktiver Nachlass: 4.500.000 EUR
+- Rechnerischer Nachlass: 4.500.000 EUR
 - Ordentlicher Pflichtteil: 1/12 × 4.082.000 EUR = 340.167 EUR
 - Ergänzungspflichtteil: 1/12 × 4.500.000 EUR = 375.000 EUR
 - Differenz (Ergänzungsanspruch): **34.833 EUR** (Minimalansatz ohne Krypto-Schenkungen)

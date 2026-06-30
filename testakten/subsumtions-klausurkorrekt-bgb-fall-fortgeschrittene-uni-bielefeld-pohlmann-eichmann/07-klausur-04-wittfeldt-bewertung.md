@@ -10,7 +10,7 @@
 | Feld | Wert |
 |---|---|
 | Klausurantin | Heike Wittfeldt |
-| Matrikelnummer | 2195561 (fiktiv) |
+| Matrikelnummer | 2195561 |
 | Gesamtpunkte | 22 von 25 |
 | Note | 1,3 |
 | Bestanden | Ja (Musterklausur) |

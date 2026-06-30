@@ -18,7 +18,7 @@
 | Wittmann Family Holding KG | Kommanditistin | 300.000 EUR | 30 % | CFO Dr. Helmut Werthebach |
 | **Gesamt Kommanditkapital** | | **740.000 EUR** | **100 %** | |
 
-**Hinweis:** Das Stimmrecht richtet sich nach § 7 des Gesellschaftsvertrages und entspricht den Kapitalanteilen der Kommanditisten zuzüglich einer fiktiven Kapitalzuweisung für die Komplementär-GmbH in Höhe von 260.000 EUR (somit Gesamtgrundlage 1.000.000 EUR = 100 %).
+**Hinweis:** Das Stimmrecht richtet sich nach Paragraf 7 des Gesellschaftsvertrages und entspricht den Kapitalanteilen der Kommanditisten zuzüglich einer rechnerischen Kapitalzuweisung für die Komplementär-GmbH in Höhe von 260.000 EUR (somit Gesamtgrundlage 1.000.000 EUR = 100 %).
 
 ### 1.2 Komplementär-GmbH (Küchenkönig Verwaltungs-GmbH)
 

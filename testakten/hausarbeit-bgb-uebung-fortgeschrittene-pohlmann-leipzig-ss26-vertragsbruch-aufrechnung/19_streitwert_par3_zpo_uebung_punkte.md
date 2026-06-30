@@ -26,7 +26,7 @@ Streitwert der Klage: **4.800 Euro** (Klageforderung).
 
 ### Gerichtskosten (GKG)
 
-Streitwert bis 5.000 Euro: Gerichtsgebühr (3-facher Satz) = 3 × 138 Euro = 414 Euro (nach GKG-Tabelle Stand 2026, fiktiv geschätzt).
+Streitwert bis 5.000 Euro: Gerichtsgebühr (3-facher Satz) = 3 × 138 Euro = 414 Euro (nach GKG-Tabelle Stand 2026, vorläufig geschätzt).
 
 Anwaltsgebühren (RVG): Nach Streitwert 4.800 Euro entsteht eine 1,3-fache Verfahrensgebühr (Nr. 3100 VV RVG). Netto ca. 434,20 Euro je Partei (Schätzung).
 

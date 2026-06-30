@@ -10,7 +10,7 @@ BtM-Akte: Apotheke, Substitution, Festivalfund, nicht geringe Menge, BtM-Rezept,
 
 ## Problemkern
 
-Die Akte enthält absichtlich mehrere Ebenen: Hauptanspruch, Verfahrensfrage, Kosten-/Fristenproblem, Beweisproblem und Kommunikationsrisiko. Sie ist nicht als gelöster Examensfall gebaut, sondern als Arbeitsakte für das Plugin.
+Der Vorgang weist mehrere Ebenen auf: Hauptanspruch, Verfahrensfrage, Kosten- und Fristenproblem, Beweisproblem sowie Kommunikationsrisiko. Die Unterlagen enthalten bewusst offene Punkte und Widersprüche; eine abschließende rechtliche Einordnung ist nicht vorweggenommen.
 
 ## Offene Punkte
 

@@ -34,9 +34,9 @@ Wenn durch den Erwerb von Solaris Industries AG indirekt die Kontrolle über ein
 
 ---
 
-## 3. Public M&A als Vergleichsworkflow
+## 3. Public-M&A-Abgrenzung
 
-Obwohl WpÜG im vorliegenden Fall nicht anwendbar ist, illustriert die Akte das Verfahrensmodell für einen analogen Public-M&A-Fall. Folgende Vergleiche sind für Testzwecke dokumentiert:
+Obwohl das WpÜG im vorliegenden Fall nicht anwendbar ist, soll die Abgrenzung in der Transaktionsakte dokumentiert werden. Für den internen Closing-Check werden folgende Unterschiede festgehalten:
 
 | Public M&A (börsennotiertes Target) | Private M&A (vorliegend) |
 |---|---|

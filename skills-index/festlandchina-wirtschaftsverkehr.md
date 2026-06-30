@@ -1,6 +1,6 @@
 # festlandchina-wirtschaftsverkehr
 
-**198 Skills** · Stand `v401.0.0`
+**198 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/festlandchina-wirtschaftsverkehr/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-werkstatt.md" download><code>festlandchina-wirtschaftsverkehr-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr-schnellstart.md" download><code>festlandchina-wirtschaftsverkehr-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-werkstatt.md" download><code>festlandchina-wirtschaftsverkehr-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-schnellstart.md" download><code>festlandchina-wirtschaftsverkehr-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [festlandchina-wirtschaftsverkehr.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/festlandchina-wirtschaftsverkehr.zip) |
 

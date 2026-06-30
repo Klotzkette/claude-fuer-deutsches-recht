@@ -12,7 +12,7 @@ Gültig bis: 31.03.2026
 | Merkmal | Wert |
 |---|---|
 | Gerätetyp | Speedcheck-XR Average Speed Control System |
-| Hersteller | Jenoptik Traffic Solutions GmbH (fiktiv) |
+| Hersteller | Jenoptik Traffic Solutions GmbH |
 | Systemversion | 7.1.2 |
 | PTB-Zulassung | SC-XR-PTB-2024-007, gültig ab 01.07.2024 |
 | Abschnittslänge (kalibriert) | 1.200 m |

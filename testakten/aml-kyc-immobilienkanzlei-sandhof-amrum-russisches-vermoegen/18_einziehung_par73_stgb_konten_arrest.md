@@ -39,7 +39,7 @@ Nach Aktenlage hat die Kanzlei folgende Honorare aus den vier Transaktionen erha
 | Norddorf 02/2025 | ca. 8.500 EUR |
 | **Gesamt** | **ca. 44.000 EUR** |
 
-Die genauen Honorarzahlen sind noch nicht geprüft; die Originalrechnungen wurden angefordert. Im Einziehungsverfahren kann das Gericht nur die tatsächlich erzielten Honorare einziehen, nicht fiktive Beträge.
+Die genauen Honorarzahlen sind noch nicht geprüft; die Originalrechnungen wurden angefordert. Im Einziehungsverfahren kann das Gericht nur die tatsächlich erzielten Honorare einziehen, nicht rechnerisch unterstellte Beträge.
 
 Präventiver Vermögensarrest (§ 111e StPO): Zur Sicherung der Einziehung kann die StA bereits im Ermittlungsverfahren einen dinglichen Arrest in das Vermögen der Kanzlei (oder Sandhofs persönlich) beantragen. Dies ist derzeit noch nicht erfolgt, erscheint aber möglich, wenn die StA den Tatverdacht weiter erhärtet.
 

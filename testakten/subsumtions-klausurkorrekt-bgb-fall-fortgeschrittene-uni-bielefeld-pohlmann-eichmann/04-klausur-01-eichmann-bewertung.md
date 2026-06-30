@@ -11,7 +11,7 @@
 | Feld | Wert |
 |---|---|
 | Klausurantin | Klara Eichmann |
-| Matrikelnummer | 2203847 (fiktiv) |
+| Matrikelnummer | 2203847 |
 | Gesamtpunkte | 16 von 25 |
 | Note | 2,7 |
 | Bestanden | Ja |

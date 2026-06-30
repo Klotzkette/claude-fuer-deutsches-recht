@@ -1,6 +1,6 @@
 # berufsrecht-notare
 
-**204 Skills** · Stand `v401.0.0`
+**204 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-notare/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare-werkstatt.md" download><code>berufsrecht-notare-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare-schnellstart.md" download><code>berufsrecht-notare-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-notare/berufsrecht-notare-werkstatt.md" download><code>berufsrecht-notare-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/berufsrecht-notare/berufsrecht-notare-schnellstart.md" download><code>berufsrecht-notare-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [berufsrecht-notare.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare.zip) |
 

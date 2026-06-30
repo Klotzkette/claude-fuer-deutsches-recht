@@ -1,6 +1,6 @@
 # bereicherungs-und-anfechtungsrecht-pruefer
 
-**138 Skills** · Stand `v401.0.0`
+**138 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bereicherungs-und-anfechtungsrecht-pruefer/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md" download><code>bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md" download><code>bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md" download><code>bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md" download><code>bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [bereicherungs-und-anfechtungsrecht-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
 

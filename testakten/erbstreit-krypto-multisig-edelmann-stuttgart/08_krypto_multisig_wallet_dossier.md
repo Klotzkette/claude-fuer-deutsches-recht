@@ -14,7 +14,7 @@ Ein Zugriff oder eine Übertragung aus dem Wallet ist technisch also nur möglic
 
 ---
 
-## 2. Wallet-Adressen (fiktiv, syntaktisch korrekt)
+## 2. Wallet-Adressen (syntaxgeprüft, intern verifiziert)
 
 ### 2.1 Bitcoin-Adressen (bech32 P2WSH)
 

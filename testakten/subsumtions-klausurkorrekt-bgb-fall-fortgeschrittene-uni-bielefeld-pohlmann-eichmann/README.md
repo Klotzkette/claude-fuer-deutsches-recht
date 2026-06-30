@@ -3,11 +3,11 @@
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
+Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen. Das Einzel-PDF-ZIP liefert jede einzelne Unterlage als separate, sauber gerenderte PDF im Originalordnerlayout — praktisch, wenn nur einzelne Aktenstücke gebraucht werden.
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 502 KB) | PDF | [`gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf`](gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 482 KB) | PDF | [`gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf`](gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann-einzelpdfs.zip) |
 
@@ -25,7 +25,7 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 - Klausur-Fall: **Radarwarner-Werkstattvertrag mit Aufrechnung und Eigentumserwerb** (Fall 14 ÜBG-SS2026).
 - Prüfungsamt-Az.: PA-2026-S-1188; Lehrstuhl-Az.: Lehrstuhl Pohlmann ÜBG-SS2026-Fall-14.
 - Doktoranden: Dr. Hannes Tannenmoor und Dr. Lasse Eichmann-Roosendaal (Korrektur, Besprechung).
-- Fünf fiktive Klausuranten mit deutlich divergierenden Leistungen: Klara Eichmann (gut, 16 Punkte), Sven Tannenfels (mittel, 10 Punkte), Andreas Roosendaal (schwach, 7 Punkte), Heike Wittfeldt (sehr gut, 22 Punkte), Konrad Birkenhain (nicht bestanden, 4 Punkte).
+- Fünf Klausurbearbeitungen mit deutlich divergierenden Leistungen: Klara Eichmann (gut, 16 Punkte), Sven Tannenfels (mittel, 10 Punkte), Andreas Roosendaal (schwach, 7 Punkte), Heike Wittfeldt (sehr gut, 22 Punkte), Konrad Birkenhain (nicht bestanden, 4 Punkte).
 - Durchfallquote Übung SS 2026: 32 Prozent (Statistik Prüfungsamt).
 - Birkenhain hat Prüfungsanfechtung angekündigt (Az. PA-2026-S-1188).
 

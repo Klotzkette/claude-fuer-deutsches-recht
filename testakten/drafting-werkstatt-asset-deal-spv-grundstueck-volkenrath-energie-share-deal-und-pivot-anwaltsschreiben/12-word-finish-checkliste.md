@@ -37,7 +37,7 @@ Vor jeder formalen Übermittlung eines SPA-Entwurfs an die Gegenseite, an den No
 | Jeder Defined Term nur einmal definiert (kein Doppelten) | [ ] | |
 | Querverweise auf Artikel/Klauseln korrekt (z.B. "gemäß Art. 6.2(b)") | [ ] | |
 | Cross-References in Word aktualisieren: Strg+A, dann F9 | [ ] | |
-| Platzhalter "[●]" vollständig befüllt | [ ] | |
+| Offene Klammerstellen "[●]" vollständig befüllt | [ ] | |
 | Datumsangaben korrekt und konsistent (TT.MM.JJJJ) | [ ] | |
 
 ---

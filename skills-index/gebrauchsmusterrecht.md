@@ -1,6 +1,6 @@
 # gebrauchsmusterrecht
 
-**50 Skills** · Stand `v401.0.0`
+**50 Skills** · Stand `v402.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gebrauchsmusterrecht/README.md)
@@ -9,8 +9,8 @@
 
 | Paket | Format | Link |
 | --- | --- | --- |
-| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gebrauchsmusterrecht-werkstatt.md" download><code>gebrauchsmusterrecht-werkstatt.md</code></a> |
-| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gebrauchsmusterrecht-schnellstart.md" download><code>gebrauchsmusterrecht-schnellstart.md</code></a> |
+| **Großer Prompt (Werkstatt)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md" download><code>gebrauchsmusterrecht-werkstatt.md</code></a> |
+| **Kleiner Prompt (Schnellstart)** | Markdown | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md" download><code>gebrauchsmusterrecht-schnellstart.md</code></a> |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
 | **Plugin (installierbar)** | ZIP | [gebrauchsmusterrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gebrauchsmusterrecht.zip) |
 

@@ -108,4 +108,4 @@ Der Auftragnehmer stellt einen qualifizierten ISB (mind. BSI-Grundschutz-Praktik
 
 ---
 
-*Dokument-Ende Teil A Leistungsbeschreibung (Auszug für Testzwecke)*
+*Dokument-Ende Teil A Leistungsbeschreibung*

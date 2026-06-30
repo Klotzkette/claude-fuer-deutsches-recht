@@ -1,0 +1,17 @@
+person;monat;grundlohn_netto;bonus_netto;nebentaetigkeit_netto;bemerkung
+Elena;2025-10;4218.10;0;0;MVZ-Gehalt
+Elena;2025-11;4194.80;0;600;Honorar Zeitschrift
+Elena;2025-12;4388.20;0;0;Bereitschaftsdienst
+Elena;2026-01;4132.40;0;0;MVZ-Gehalt
+Elena;2026-02;4219.70;0;0;MVZ-Gehalt
+Elena;2026-03;4861.90;640;300;Nachzahlung Bereitschaftsdienst
+Elena;2026-04;4167.20;0;0;MVZ-Gehalt
+Elena;2026-05;4111.80;0;600;Honorar Zeitschrift
+Martin;2025-10;5140.00;0;0;Gehaltsabrechnung fehlt im Original
+Martin;2025-11;5140.00;0;0;Schätzung Elena
+Martin;2025-12;5168.00;0;0;Screenshot Steuerordner
+Martin;2026-01;5122.60;0;0;Gehaltsabrechnung
+Martin;2026-02;5122.60;0;0;Gehaltsabrechnung
+Martin;2026-03;5122.60;0;0;Gehaltsabrechnung
+Martin;2026-04;unbekannt;unbekannt;0;Screenshot unvollständig
+Martin;2026-05;unbekannt;unbekannt;4500;Rechnung MN-2026-016 behauptet bezahlt

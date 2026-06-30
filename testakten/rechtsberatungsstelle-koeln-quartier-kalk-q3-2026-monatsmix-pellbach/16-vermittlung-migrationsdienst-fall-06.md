@@ -13,8 +13,8 @@ Herr Samer Al-Khatib (Fall 06) benötigt spezialisierten Rechtsbeistand im Ausl�
 
 **An:** RA Bülent Cakmak
 Fachanwalt für Ausländerrecht
-Siegfriedstr. 18, 50679 Köln (fiktiv)
-Tel.: 0221 4455-010 (fiktiv)
+Siegfriedstr. 18, 50679 Köln
+Tel.: 0221 4455-010
 
 **Betreff:** Mandatsvermittlung Herr Samer Al-Khatib — Aufenthaltsrecht, BerH-bewilligt
 

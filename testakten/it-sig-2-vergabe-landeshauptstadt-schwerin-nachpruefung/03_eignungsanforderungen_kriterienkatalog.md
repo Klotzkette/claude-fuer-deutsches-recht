@@ -95,4 +95,4 @@ Punkte = 40 × (Niedrigstsangebot / Angebotspreis)
 
 ---
 
-*Dokument-Ende Teil B (Auszug für Testzwecke)*
+*Dokument-Ende Teil B*

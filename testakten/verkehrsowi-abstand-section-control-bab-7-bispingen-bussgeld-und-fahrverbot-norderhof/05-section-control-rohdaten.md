@@ -1,7 +1,7 @@
 # Section Control Speedcheck-XR — Rohdaten und Auswertung
 
 Anlage: Section Control BAB 7 Bispingen, Abschnitt km 186,9 bis km 188,1 (1.200 m)
-Hersteller: Jenoptik Traffic Solutions GmbH (fiktive Bezeichnung: Speedcheck-XR)
+Hersteller: Jenoptik Traffic Solutions GmbH (Gerätebezeichnung laut Messakte: Speedcheck-XR)
 Betreiber: Land Niedersachsen, Nds. Ministerium für Inneres und Sport
 Mess-ID: SC-BAB7-BW-2026-0204-1422
 

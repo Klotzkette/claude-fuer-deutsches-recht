@@ -40,7 +40,7 @@ Kanzlei DWSP hat für die Geisen-Seite und die Komplementär-GmbH folgende Erwid
 
 ### 3.1 Zur Mehrheitsfrage
 
-§ 214 Abs. 1 UmwG verlangt 75 % der Stimmen ohne Ausnahme. Selbst wenn man die Stimmen der Komplementär-GmbH subtrahiere (was rechtlich unzulässig ist), käme man auf 30 % (Wittmann) + 20 % (Stefan Geisen) = 50 % von 74 % (restliche Kommanditanteile) = eine fiktive Mehrheit von 67,5 % — immer noch unter der gesetzlichen Anforderung von 75 %.
+Paragraf 214 Absatz 1 UmwG verlangt 75 % der Stimmen ohne Ausnahme. Selbst wenn man die Stimmen der Komplementär-GmbH subtrahiere (was rechtlich unzulässig ist), käme man auf 30 % (Wittmann) + 20 % (Stefan Geisen) = 50 % von 74 % (restliche Kommanditanteile) = eine rechnerisch gebildete Mehrheit von 67,5 % — immer noch unter der gesetzlichen Anforderung von 75 %.
 
 ### 3.2 Zur Zustimmungspflicht der Komplementärin
 

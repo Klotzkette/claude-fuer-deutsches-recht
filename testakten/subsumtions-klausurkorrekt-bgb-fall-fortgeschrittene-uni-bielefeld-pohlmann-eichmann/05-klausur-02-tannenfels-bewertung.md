@@ -10,7 +10,7 @@
 | Feld | Wert |
 |---|---|
 | Klausurant | Sven Tannenfels |
-| Matrikelnummer | 2198034 (fiktiv) |
+| Matrikelnummer | 2198034 |
 | Gesamtpunkte | 10 von 25 |
 | Note | 4,0 |
 | Bestanden | Ja (knapp) |

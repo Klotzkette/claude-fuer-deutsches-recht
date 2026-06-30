@@ -43,7 +43,7 @@ Mögliche Ausgleichsmaßnahmen nach § 9 JAG NRW:
 2. Recht auf eine 15-minütige Erholungspause je Klausur (ohne Verlängerung der Schreibzeit).
 
 **Beigefügte Unterlagen:**
-- Ärztliches Attest UKB Bonn vom 25.03.2026 (Dr. med. Christoph Rainer, Infektiologie, fiktiv)
+- Ärztliches Attest UKB Bonn vom 25.03.2026 (Dr. med. Christoph Rainer, Infektiologie)
 - Diagnosebescheinigung mit ICD-10-Code B27.0
 - Krankschreibungen 17.03.2026 – 28.04.2026
 - Kurzbegründung (2 Seiten): Darlegung des Zusammenhangs zwischen Erkrankung und Prüfungsbeeinträchtigung (kognitive Erschöpfbarkeit, Post-Infekt-Fatigue)

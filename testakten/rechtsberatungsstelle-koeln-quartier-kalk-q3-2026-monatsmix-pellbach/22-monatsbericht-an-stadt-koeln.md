@@ -57,4 +57,4 @@ Mit freundlichen Grüßen
 
 Dr. Annegret Pellbach-Tannenfels
 Leiterin BSBZ Kalk
-Tel.: 0221 9921-4400 (fiktiv)
+Tel.: 0221 9921-4400

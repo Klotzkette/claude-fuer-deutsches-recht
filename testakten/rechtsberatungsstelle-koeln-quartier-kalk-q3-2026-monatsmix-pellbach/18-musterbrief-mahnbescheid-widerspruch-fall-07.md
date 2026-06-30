@@ -15,7 +15,7 @@ Eingang Widersprüche
 Heinitzstr. 42
 58097 Hagen
 
-**Per Einschreiben und Fax 02331-986-1234 (fiktiv)**
+**Per Einschreiben und Fax 02331-986-1234**
 
 Köln, 22. August 2026
 
