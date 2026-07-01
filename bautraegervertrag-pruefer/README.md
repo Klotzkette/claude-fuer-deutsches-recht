@@ -21,10 +21,12 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 232 Plugins. Wer alle Plugins auf einmal will, nimmt `alle-plugins-megazip.zip`. Wer nur einzelne Werkstatt- oder Schnellstart-Prompts will, nimmt die Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du Werklohn, Mängel und Abnahme am Bauvorhaben durchsetzen oder abwehren.
+Wenn du das hier öffnest, willst du einen Bauträgervertrag aus Verbrauchersicht prüfen und ein direkt verwendbares Drei-Dokumente-Paket für Mandant, Bauträger und Notar erhalten.
 Eigenes Plugin für die verbraucherseitige Prüfung deutscher Bauträgerverträge über Wohnungen, Häuser, Tiefgaragenstellplätze und Sondernutzungsrechte. Das Plugin arbeitet aus Sicht der Käuferin oder des Käufers: Es soll einen Notarentwurf, eine beurkundete Urkunde oder eine chaotische Mandatsakte so auswerten, dass MaBV-Zahlungen, Sicherheiten, AGB-Klauseln, Baubeschreibung, Abnahme, Teilungserklärung, Eigentumssicherung und Verhandlungsstrategie nicht nebeneinander liegen bleiben, sondern in ein belastbares Mandatsprodukt münden.
 
 Der Kern ist aus dem langen Bauträgervertrag-Prüfer-Skill übernommen und fachlich verdichtet. Der ursprüngliche One-Shot-Gedanke bleibt erhalten: Wenn ein Vertrag oder Aktenordner vorliegt, startet die Prüfung aus dem Dokument heraus, bildet zuerst einen Fall-Fingerabdruck und stellt nur solche Rückfragen, ohne die die Bewertung objektiv falsch würde. Daneben sind die Arbeitsabschnitte als eigene Skills vorhanden, damit Plugin-Umgebung/Cowork gezielt den passenden Teil laden kann.
+
+**Schwester-Plugin:** [`bautraegervertragspruefer`](../bautraegervertragspruefer) deckt dasselbe Mandat mit eigenem Megaprompt-Original und zwei Testakten ab; dieses Plugin hier bietet die feinere Aufteilung in 31 Spezial-Skills samt references-Workflow. Für ein Mandat genügt eines von beiden.
 
 ## Wofür dieses Plugin gedacht ist
 
