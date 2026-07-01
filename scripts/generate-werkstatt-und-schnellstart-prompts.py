@@ -138,9 +138,28 @@ def clean(text: str, limit: int | None = None) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     if limit and len(text) > limit:
         cut = text[: limit - 1]
-        # Nie mitten im Wort schneiden: auf die letzte Wortgrenze zurueckgehen.
-        if " " in cut:
-            cut = cut[: cut.rfind(" ")]
+        # Nur zurueckschneiden, wenn der Schnitt mitten in einem Wort endet.
+        # Endet der Schnitt genau auf einer Wortgrenze (letztes Zeichen oder
+        # naechstes Zeichen im Originaltext ist ein Leerzeichen), bleibt das
+        # vollstaendige Grenzwort erhalten.
+        if cut and not cut[-1].isspace() and not text[len(cut)].isspace():
+            if " " in cut:
+                cut = cut[: cut.rfind(" ")]
+        # Kein haengendes Funktionswort am Satzende ("Risiken und." o. ae.):
+        # nachklappernde Konjunktionen, Praepositionen und Artikel abwerfen,
+        # damit der gekuerzte Satz auf einem Inhaltswort endet.
+        dangling = {
+            "und", "oder", "sowie", "mit", "ohne", "zum", "zur", "zu",
+            "der", "die", "das", "des", "dem", "den",
+            "ein", "eine", "einer", "eines", "einem", "einen",
+            "bei", "nach", "fuer", "für", "auf", "als", "im", "in", "an",
+            "am", "von", "vom", "aus", "ueber", "über", "unter", "gegen",
+            "je", "pro", "statt", "ist", "sind", "wird", "werden",
+        }
+        words = cut.split(" ")
+        while len(words) > 1 and words[-1].lower().strip(" ,.;:") in dangling:
+            words.pop()
+        cut = " ".join(words)
         return cut.rstrip(" ,.;:") + "."
     return text
 
