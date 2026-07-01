@@ -23,7 +23,7 @@ Schneller Weg: Für eine erste Ergebnisrichtung den Schnellstart laden, für ein
 
 Wenn du das hier öffnest, willst du einen deutschen Bauträgervertrag verbraucherseitig prüfen: Ratenplan, Sicherheiten, Baubeschreibung, Abnahme, Bauzeit, Preisanpassung, Teilungserklaerung — und am Ende ein Gutachten plus ein Aufforderungsschreiben an Bauträger und Notar in der Hand haben.
 
-**Schwester-Plugin:** [`bautraegervertrag-pruefer`](../bautraegervertrag-pruefer) (mit Bindestrich) deckt dasselbe Mandat mit einer feineren Aufteilung in 31 Spezial-Skills samt references-Workflow ab; dieses Plugin hier bietet Megaprompt-Original und zwei Testakten. Für ein Mandat genügt eines von beiden.
+**Schwester-Plugin:** [`bautraegervertrag-pruefer`](../bautraegervertrag-pruefer) (mit Bindestrich) deckt dasselbe Mandat mit einzeln ladbaren Spezial-Skills samt references-Workflow ab; dieses Plugin hier bietet Megaprompt-Original und zwei Testakten. Für ein Mandat genügt eines von beiden.
 
 ## Wenn du das brauchst
 
