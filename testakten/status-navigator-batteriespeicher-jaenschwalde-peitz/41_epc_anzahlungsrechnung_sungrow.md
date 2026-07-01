@@ -10,7 +10,7 @@
 
 ## Bezugnahme
 
-Rechnung zur Anzahlung gemäß Anlage 7 zum EPC-Vertrag „Battery Energy Storage System Jänschwalde-Peitz, 200 MW / 800 MWh" (EPC-Vertrag-Aktenzeichen SDE-LSS-EPC-2025-001 vom 30.07.2025; im Vertragsregister Pohlmann & Pohlmann als Akte AltExterneVorgangsnummer EPC-Sungrow-1 geführt; nicht eigenständig im Akten-Index dieser Testakte).
+Rechnung zur Anzahlung gemäß Anlage 7 zum EPC-Vertrag „Battery Energy Storage System Jänschwalde-Peitz, 200 MW / 800 MWh" (EPC-Vertrag-Aktenzeichen SDE-LSS-EPC-2025-001 vom 30.07.2025; im Vertragsregister Pohlmann & Pohlmann als Akte AltExterneVorgangsnummer EPC-Sungrow-1 geführt; nicht eigenständig im Akten-Index dieser Akte).
 
 ## Rechnungspositionen
 

@@ -137,7 +137,11 @@ def clean(text: str, limit: int | None = None) -> str:
     text = sanitize(text)
     text = re.sub(r"\s+", " ", text).strip()
     if limit and len(text) > limit:
-        return text[: limit - 1].rstrip(" ,.;:") + "."
+        cut = text[: limit - 1]
+        # Nie mitten im Wort schneiden: auf die letzte Wortgrenze zurueckgehen.
+        if " " in cut:
+            cut = cut[: cut.rfind(" ")]
+        return cut.rstrip(" ,.;:") + "."
     return text
 
 

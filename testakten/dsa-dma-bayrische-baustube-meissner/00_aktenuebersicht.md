@@ -1,20 +1,5 @@
 # Aktenübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.
 
-
-<!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
-
-Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
-
-| Was | Format | Quelle |
-| --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf`](gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-
-Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
-
-<!-- END gesamt-pdf-section (autogen) -->
-
 **Az. der Kanzlei:** 2026/0418 — DSA/DMA-Komplex Meißnerlein
 
 **Sachbearbeiter:** RA Dr. Cunibert Hagenroth, Fachanwalt für IT-Recht

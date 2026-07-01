@@ -1,3 +1,13 @@
+# v410.0.0 — Truncation-Bug behoben, Testakten-Audit, Aufräumarbeiten
+
+- Generik- und Bug-Hunt über alle Ein-Datei-Prompts: 42 mitten im Wort abgeschnittene Beschreibungszeilen („mit Prüfpunkten, Risiken und näch. Output:") in 21 Werkstatt- und Schnellstart-Prompts vervollständigt. Wurzelursache im Prompt-Generator behoben: scripts/generate-werkstatt-und-schnellstart-prompts.py schneidet Beschreibungen jetzt an der Wortgrenze statt hart nach Zeichenzahl, damit der Fehler bei künftigen Generatorläufen nicht zurückkehrt.
+- Testakten-Audit gegen testakten/QUALITAETSSTANDARD.md über alle 219 Ordner: Gesamt-PDFs vollständig, mechanischer Platzhalter- und Selbstmarkierungs-Scan weitgehend sauber (XXXX-Schwärzungen und Vorlagen-Platzhalter sind beabsichtigt). Zwei echte Funde behoben: Selbstmarkierung „dieser Testakte" in einem Aktenstück der Batteriespeicher-Akte neutralisiert und ein stehen gebliebener Download-Block (Autogen-Relikt) aus der Aktenübersicht der DSA/DMA-Akte entfernt; beide Gesamt-PDFs neu gebaut, Validator grün.
+- Neue README für testakten/formatvorlagen-paradebeispiele: erklärt die Vorlagensammlung, warum eckige Platzhalter dort beabsichtigt sind und dass Pflege über den Generator erfolgt — verhindert künftige Fehlalarme in Audits.
+- Finaler Kohärenz-Sweep grün: Marketplace-Import (232 Plugins, 26134 Skills), Plugin-Struktur, YAML-Frontmatter, Skillzahlen ohne Abweichung, 1485 interne Links ohne Bruch.
+- Repo-weiter Versions-Bump auf v410.0.0.
+
+---
+
 # v409.0.0 — Testakten für Rente, Sozialrecht und Erbrecht erweitert
 
 - Neun neue zentrale Arbeitsakten ergänzt: drei Rentenrechtsfälle, drei Sozialrechtsfälle und drei Erbrechtsfälle, jeweils mit ausformulierten Aktenstücken, Berechnungstabellen, Rubrics und Gesamt-PDF.
