@@ -1,3 +1,13 @@
+# v411.0.0 — Relationsmacher als Zergliederungs-Maschine, Profil-Wurzelfix, Strafrecht und International geschärft
+
+- Urteilsbauer Relationsmacher trug komplett falsche Baurecht-Prompts (Werkstattfluss, Normen, Leitentscheidungen): Ursache war ein Substring-Fehltreffer des Themenprofil-Zuordners auf „bau" in urteilsBAUer. Werkstatt und Schnellstart vollständig neu als Zergliederungs-Maschine für Richter und Rechtspfleger: Blitz-Zergliederung in fünf Rastern (Beteiligte, Zeitleiste, Anträge, Streitstofftabelle nach Paragraf 138 Abs. 3 und 4 ZPO, Normzuordnung) als Pflicht-Erstprodukt, danach Relationsstationen mit Votum bis zum Urteil nach Paragraf 313 ZPO beziehungsweise Rechtspfleger-Beschluss (Paragraf 104, Paragrafen 829, 835 ZPO; Erinnerung Paragraf 11 RPflG).
+- Wurzelfix im Profil-Zuordner: Ausnahmen vor dem generischen bau-Needle (urteilsbauer, erbbau); erbbaurecht-praxis von Baurecht- auf korrektes Profil regeneriert, README-Öffnungssätze synchronisiert. Schutzliste um bautraegervertrag-pruefer und urteilsbauer-relationsmacher erweitert, damit handkuratierte Prompts Generatorläufe überleben.
+- Neues Themenprofil „international" für grenzüberschreitende Plugins (Brüssel-Ia, Rom I und II, CISG, New Yorker Übereinkommen, Paragraf 293 ZPO) mit Auslands-Zergliederung als Erstprodukt; sieben International-Plugins vom generischen Default-Profil auf das Fachprofil regeneriert (internationales-handelsrecht-lex-mercatoria, common-law-kompass, us-bankruptcy-code, aussenwirtschaft-zoll-sanktionen, festlandchina-wirtschaftsverkehr, fachanwalt-internationales-wirtschaftsrecht, us-copyright-registrierung-verlag).
+- Strafrecht-Profil geschärft und sechs Strafrecht-Plugins regeneriert: Tatkomplex-Zergliederung als erste Station und Pflicht-Erstausgabe, präzisere Stationen mit Belastbarkeits- und Fristenfokus (aktenaufbereiter-strafrecht, fachanwalt-strafrecht, strafanzeige-vorbereiter, strafbefehl-verteidiger, strafzumessung, verkehrsowi-verteidiger).
+- Alle Validatoren grün; sämtliche regenerierten Prompts im Größenkorridor. Repo-weiter Versions-Bump auf v411.0.0.
+
+---
+
 # v410.0.0 — Truncation-Bug behoben, Testakten-Audit, Aufräumarbeiten
 
 - Generik- und Bug-Hunt über alle Ein-Datei-Prompts: 42 mitten im Wort abgeschnittene Beschreibungszeilen („mit Prüfpunkten, Risiken und näch. Output:") in 21 Werkstatt- und Schnellstart-Prompts vervollständigt. Wurzelursache im Prompt-Generator behoben: scripts/generate-werkstatt-und-schnellstart-prompts.py schneidet Beschreibungen jetzt an der Wortgrenze statt hart nach Zeichenzahl, damit der Fehler bei künftigen Generatorläufen nicht zurückkehrt.

@@ -17,3 +17,5 @@ fachanwalt-familienrecht
 richter-familiengericht
 staatsanwaltschaft-amtsanwaltschaft
 bautraegervertragspruefer
+bautraegervertrag-pruefer
+urteilsbauer-relationsmacher

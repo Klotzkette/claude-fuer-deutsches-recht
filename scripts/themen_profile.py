@@ -157,7 +157,7 @@ PROFILE: tuple[ThemenProfil, ...] = (
         key="straf",
         oeffnungssatz="Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigung und Strafzumessung durchdringen und einen verwertbaren Schriftsatz bauen.",
         label="Strafrecht und Strafverfahren",
-        rolle="Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift.",
+        rolle="Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewuenschte Arbeitsprodukt.",
         normen=(
             "StPO Paragraf 152 Absatz 2: Legalitaetsprinzip und Anfangsverdacht.",
             "StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstaende.",
@@ -174,11 +174,11 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "BGH, Beschluss vom 28.11.2018 - 5 StR 566/18: Strafzumessung muss schuldangemessen begruendet werden.",
         ),
         stationen=(
-            "Tatkomplex und Verfahrensstand: Anzeige, Beschuldigtenstatus, Anklage, Strafbefehl oder Urteil erfassen.",
-            "Beweise und Einlassung: Zeugen, Urkunden, Sachverstaendige, digitale Spuren und Schweigerechte trennen.",
-            "Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung pruefen.",
-            "Prozessuales: Zuständigkeit, Verwertbarkeit, Fristen, Pflichtverteidigung und Antraege vorbereiten.",
-            "Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewaehrung und Einstellungschancen ausarbeiten.",
+            "Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.",
+            "Beweise und Einlassung: Zeugen, Urkunden, Sachverstaendige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.",
+            "Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung pruefen; je Merkmal die tragende Tatsache benennen.",
+            "Prozessuales: Zustaendigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Antraege vorbereiten; den naechsten fristwahrenden Schritt zuerst.",
+            "Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewaehrung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.",
         ),
         pruefraster=(
             "Welcher Tatvorwurf wird mit welcher Norm verbunden.",
@@ -871,10 +871,53 @@ PROFILE: tuple[ThemenProfil, ...] = (
             "Strafrechtliche, insolvenzrechtliche oder berufsrechtliche Nebenrisiken sind erkennbar.",
         ),
     ),
+    ThemenProfil(
+        key="international",
+        oeffnungssatz="Wenn du das hier oeffnest, willst du einen grenzueberschreitenden Fall sortieren: anwendbares Recht, Zustaendigkeit und Durchsetzung klaeren und ein verwertbares Arbeitsprodukt bauen.",
+        label="Internationales Wirtschaftsrecht und grenzueberschreitende Faelle",
+        rolle="Bearbeiter fuer grenzueberschreitende Mandate: Kollisionsrecht, internationale Zustaendigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknuepfungsmomente, Fristen), danach folgt das gewuenschte Arbeitsprodukt.",
+        normen=(
+            "Bruessel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.",
+            "Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknuepfung vertraglicher Schuldverhaeltnisse; Artikel 9: Eingriffsnormen.",
+            "Rom-II-VO Artikel 4: Erfolgsortanknuepfung ausservertraglicher Schuldverhaeltnisse.",
+            "CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Ruegepflicht; Artikel 74: Schadensersatz.",
+            "New Yorker Uebereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgruende.",
+            "ZPO Paragraf 293: Ermittlung auslaendischen Rechts durch das Gericht.",
+        ),
+        entscheidungen=(
+            "Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugaenglicher Quelle zitieren; nicht verifizierte Aktenzeichen weglassen statt verwenden.",
+        ),
+        stationen=(
+            "Auslands-Zergliederung: Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknuepfungsmomente und Fristen als Raster erfassen.",
+            "Forum: internationale Zustaendigkeit pruefen (Bruessel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen.",
+            "Anwendbares Recht: Rechtswahl und objektive Anknuepfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert pruefen.",
+            "Materielle Pruefung nach dem berufenen Recht: bei auslaendischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden.",
+            "Durchsetzung: Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Uebereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt.",
+        ),
+        pruefraster=(
+            "Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.",
+            "Welches Gericht oder Schiedsgericht ist zustaendig, und wo droht ein Parallelverfahren.",
+            "Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.",
+            "Wie wird der Inhalt auslaendischen Rechts belastbar ermittelt.",
+            "Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshuerde steht davor.",
+        ),
+        stop=(
+            "Ein Sanktions- oder Exportkontrolltreffer steht im Raum; dann zuerst Compliance-Pruefung, kein Vollzugsschritt.",
+            "Fristen nach auslaendischem Recht oder Zustellungswege sind ungeklaert; dann zuerst Fristsicherung im sichersten Forum.",
+            "Der Inhalt des berufenen auslaendischen Rechts ist unbekannt; dann Ermittlungsweg vorschlagen statt Inhalte zu unterstellen.",
+        ),
+    ),
 )
 
 
 KEYWORDS: tuple[tuple[str, str], ...] = (
+    ("internationales-", "international"),
+    ("lex-mercatoria", "international"),
+    ("common-law", "international"),
+    ("aussenwirtschaft", "international"),
+    ("festlandchina", "international"),
+    ("us-bankruptcy", "international"),
+    ("us-copyright", "international"),
     ("normenkontrolle-bauleitplanung", "bauplanung"),
     ("bauleit", "bauplanung"),
     ("bebauungsplan", "bauplanung"),
@@ -923,6 +966,11 @@ KEYWORDS: tuple[tuple[str, str], ...] = (
     ("it-recht", "it"),
     ("software", "it"),
     ("cloud", "it"),
+    # Ausnahmen VOR dem generischen "bau"-Needle: Substring-Fehltreffer
+    # (urteilsBAUer = Gerichtswerkstatt, erbBAUrecht = Grundstuecksrecht)
+    # duerfen nicht das Baurecht-Profil erhalten.
+    ("urteilsbauer", "default"),
+    ("erbbau", "default"),
     ("bau", "bau"),
     ("architekt", "bau"),
 )

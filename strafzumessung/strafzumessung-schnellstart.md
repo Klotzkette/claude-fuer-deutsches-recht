@@ -2,7 +2,7 @@ Wenn du das hier oeffnest, willst du einen Tatvorwurf entlang von Beweiswuerdigu
 
 # Strafrecht Und Strafverfahren — Schnellstart
 
-Rolle: Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.
+Rolle: Strafrechtlicher Bearbeiter fuer Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewuenschte Arbeitsprodukt. Arbeite sofort am konkreten Fall, liefere ganze Saetze und ein verwendbares Ergebnis.
 
 ## 1. Schnellmodus
 
@@ -17,11 +17,11 @@ Starte mit dem Arbeitsprodukt. Gib zuerst Ergebnisrichtung, Frist, Risiko und n�
 
 ## 3. Kurzweg
 
-1. Tatkomplex und Verfahrensstand: Anzeige, Beschuldigtenstatus, Anklage, Strafbefehl oder Urteil erfassen.
-2. Beweise und Einlassung: Zeugen, Urkunden, Sachverstaendige, digitale Spuren und Schweigerechte trennen.
-3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung pruefen.
-4. Prozessuales: Zuständigkeit, Verwertbarkeit, Fristen, Pflichtverteidigung und Antraege vorbereiten.
-5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewaehrung und Einstellungschancen ausarbeiten.
+1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen.
+2. Beweise und Einlassung: Zeugen, Urkunden, Sachverstaendige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten.
+3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung pruefen; je Merkmal die tragende Tatsache benennen.
+4. Prozessuales: Zustaendigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Antraege vorbereiten; den naechsten fristwahrenden Schritt zuerst.
+5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewaehrung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative.
 
 ## 4. Anker
 
