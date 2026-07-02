@@ -1,0 +1,10 @@
+name: insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin
+description: Insolvenzanfechtung aus Verwaltersicht gegen einen Gesellschafter-Berater eines Berliner Startups mit Darlehensrueckzahlung in der Jahresfrist, bezahlter echter Beratungsleistung, vertragslosem Vorschuss, Eroeffnungsunterlagen und Gutachten zu Zahlungsunfaehigkeit und Ueberschuldung.
+checks:
+  - Die drei Zahlungen sauber trennen und je Anfechtungsnorm zuordnen (Paragraf 135 Abs. 1 Nr. 2, Paragraf 130, Paragraf 131 Abs. 1 Nr. 1, Paragraf 133 InsO).
+  - Fristen aus dem richtigen Bezugspunkt rechnen (Eroeffnungsantrag 14.11.2025, nicht Eroeffnung 01.03.2026).
+  - Erkennen, dass es bei Paragraf 135 InsO auf Kenntnis nicht ankommt und das Kleinbeteiligtenprivileg des Paragraf 39 Abs. 5 InsO bei 20 Prozent nicht greift.
+  - Die Kenntnisfrage bei Paragraf 130 und Paragraf 133 InsO anhand der ambivalenten Beweismittel (Wochenreports, LOI, Gruender-Chat, Protokoll) beweiswuerdigend diskutieren statt einseitig aufzuloesen.
+  - Das Naeheverhaeltnis nach Paragraf 138 Abs. 2 InsO und seine Beweislastfolgen pruefen.
+  - Den Bargeschaefts-Einwand nach Paragraf 142 InsO fuer das verdiente Honorar von dem vertragslosen Vorschuss unterscheiden.
+  - Die Stichtage des Verwaltergutachtens (Ueberschuldung 30.06.2025, Zahlungsunfaehigkeit 01.09.2025) als Beweismittel in die Klage einarbeiten und Zinsen nach Paragraf 143 Abs. 1 InsO ansetzen.

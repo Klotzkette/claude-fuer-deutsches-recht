@@ -1,3 +1,12 @@
+# v413.0.0 — Neue Testakte Insolvenzanfechtung Kiezflitzer (Berlin)
+
+- Neue zentrale Arbeitsakte insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin: Insolvenzanfechtung aus Verwaltersicht gegen den Gesellschafter-Berater eines Berliner Lastenrad-Startups. Drei angreifbare Zahlungen mit unterschiedlicher Normlage — Rückzahlung des Gesellschafterdarlehens über 150.000 EUR in der Jahresfrist vor dem Eröffnungsantrag (Paragraf 135 Abs. 1 Nr. 2 InsO), bezahltes Beraterhonorar über 20.230 EUR für nachweislich geleistete Arbeit zwei Monate vor Antrag (Paragrafen 130, 133, 142 InsO mit offener Kenntnisfrage) und ein vertraglich nicht vorgesehener Vorschuss über 15.000 EUR im letzten Monat (Paragraf 131 Abs. 1 Nr. 1 InsO).
+- Vollständige Verfahrensunterlagen als Beweismittel: Eigenantrag, Beschluss über die vorläufige Verwaltung, Sachverständigengutachten aus dem Eröffnungsverfahren, Eröffnungsbeschluss sowie die Verwalter-Untersuchung zu den Eintrittszeitpunkten von Zahlungsunfähigkeit (01.09.2025) und Überschuldung (30.06.2025) mit Liquiditätsstatus je Stichtag und Überschuldungsstatus.
+- Ambivalente Kenntnis-Beweismittel für die spätere Anfechtungsklage: Cash-Report-Mails an den Berater, Gründer-WhatsApp-Chat, Gesellschafterprotokoll, unverbindlicher Investoren-LOI samt Absage, vorgerichtliche Korrespondenz von Verwalterin und Gegnervertreter. Gesamt-PDF gebaut, Validator grün (227 Testakten), zentrale Testaktenübersicht ergänzt.
+- Repo-weiter Versions-Bump auf v413.0.0.
+
+---
+
 # v412.0.0 — Renten-, Sozial- und Erbrechtsakten realistischer ausgearbeitet
 
 - Neun bestehende Arbeitsakten zu Rentenrecht, Sozialrecht und Erbrecht deutlich vertieft: jede Akte enthält jetzt zusätzliche Unterlagen aus Behörden-, Klinik-, Bank-, Notariats-, Arbeitgeber-, Schul-, Pflege- oder Familienkommunikation.

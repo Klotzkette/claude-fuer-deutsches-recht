@@ -1,0 +1,12 @@
+Buchungstag;Konto;Betrag_EUR;Empfaenger_Absender;Verwendungszweck
+20.12.2024;Geschaeftskonto Sparkasse;-150000.00;Dr. Valentin Brosekamp;Rueckfuehrung Gesellschafterdarlehen gem. Kuendigung 25.09.2024
+30.12.2024;Geschaeftskonto Sparkasse;-9000.00;Dr. Valentin Brosekamp;Zinsen Gesellschafterdarlehen 2023-2024
+15.07.2025;Geschaeftskonto Sparkasse;+180000.00;Kiezflitzer Kundenkonto Stripe;Sammelgutschrift Abos Juni
+28.08.2025;Geschaeftskonto Sparkasse;-42350.00;Radwerk Logistik GmbH;Teilzahlung Flottenwartung RG 2025-118 (Mahnstufe 2)
+02.09.2025;Geschaeftskonto Sparkasse;+8200.00;Rueckbuchung;Lastschrift Leasing Cargofleet zurueckgegeben - Deckung
+12.09.2025;Geschaeftskonto Sparkasse;-20230.00;Dr. Valentin Brosekamp;RG 2025-002 Beratung Juli/August
+26.09.2025;Geschaeftskonto Sparkasse;-31000.00;Finanzamt Neukoelln;USt Q2 Teilzahlung n. Stundung
+10.10.2025;Geschaeftskonto Sparkasse;+95000.00;Kiezflitzer Kundenkonto Stripe;Sammelgutschrift Abos September (Ruecklaeufer steigen)
+24.10.2025;Geschaeftskonto Sparkasse;-15000.00;Dr. Valentin Brosekamp;Vorschuss Honorare Okt/Nov gem. Mail 20.10.
+04.11.2025;Geschaeftskonto Sparkasse;-12800.00;TK Krankenkasse;SV-Beitraege September (Rueckstand)
+13.11.2025;Geschaeftskonto Sparkasse;Saldo;;Tagessaldo 6.412,33 EUR bei faelligen Verbindlichkeiten lt. OPOS 391.400 EUR
