@@ -33,10 +33,10 @@ Die Familie Tannenberg in Kiel wickelt zur gleichen Zeit **vier sozialrechtliche
 sozialrecht-rollstuhl-tannenberg/
 ├── README.md                                          <- diese Übersicht
 ├── rubric.yaml                                        <- Prüfkriterien für die Bearbeitung
-├── Fallkonferenz_Tannenberg_Workflow.md               <- Fallkonferenz, Triage und Prüfmatrix über alle vier Verfahren
-├── Familien-Stammbaum.md                              <- Verwandtschaft, Haushalte, Versicherungen, PKH-Lage
+├── Fallkonferenz_Tannenberg_Workflow.docx               <- Fallkonferenz, Triage und Prüfmatrix über alle vier Verfahren
+├── Familien-Stammbaum.docx                              <- Verwandtschaft, Haushalte, Versicherungen, PKH-Lage
 ├── Fristen_Familie_Tannenberg.xlsx                    <- Fristenübersicht als Tabelle mit Verfahrensverlauf
-├── Fristen_Familie_Tannenberg.md                      <- Markdown-Vorschau der Fristen-XLSX
+├── Fristen_Familie_Tannenberg.docx                      <- Markdown-Vorschau der Fristen-XLSX
 ├── 01-olaf-rollstuhl/                                 <- Hilfsmittelstreit Aktivrollstuhl (SGB V)
 │   ├── Notiz_Kanzlei_Erstgespraech.txt                <- Erstgespräch und Auftragsklärung
 │   ├── Verordnung_Muster16_09-02-2026.pdf             <- Ärztliche Verordnung des Aktivrollstuhls
@@ -84,7 +84,7 @@ sozialrecht-rollstuhl-tannenberg/
 5. **Mandantenbrief** - in einfacher Sprache
 6. **Strategie** - PKH, Eilrechtsschutz, Untätigkeitsklage
 
-Details: `Fallkonferenz_Tannenberg_Workflow.md`.
+Details: `Fallkonferenz_Tannenberg_Workflow.docx`.
 
 ## Stand der Verfahren (Datum 22.05.2026)
 
@@ -95,7 +95,7 @@ Details: `Fallkonferenz_Tannenberg_Workflow.md`.
 
 ## Empfohlener Einstieg
 
-1. `Fallkonferenz_Tannenberg_Workflow.md` lesen, um den Aufbau zu verstehen
+1. `Fallkonferenz_Tannenberg_Workflow.docx` lesen, um den Aufbau zu verstehen
 2. Im Plugin `fachanwalt-sozialrecht` mit Skill `sozialrecht-fallaufnahme-routing` starten
 3. Bei jedem Fall den Bescheid lesen, dann das Gutachten, dann den Widerspruchsentwurf
 4. Fristen-XLSX dazulegen, um die Termin-Logik zu verstehen

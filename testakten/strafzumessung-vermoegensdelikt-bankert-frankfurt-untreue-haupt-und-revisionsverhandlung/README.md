@@ -69,7 +69,7 @@ Arbeitsakte zum Plugin `strafzumessung`.
 | 09 | [09-tatumstaende-vorsatz-und-motivation.docx](09-tatumstaende-vorsatz-und-motivation.docx) | Vorsatzform, Motivation, Verschulden |
 | 10 | [10-tat-und-taterpersoenlichkeit.docx](10-tat-und-taterpersoenlichkeit.docx) | Täterpersönlichkeit, Lebensführung, berufliche Karriere |
 | 11 | [11-lebenslauf-und-vorstrafenfreiheit.docx](11-lebenslauf-und-vorstrafenfreiheit.docx) | Lebenslauf Bankert, Vorstrafenfreiheit, soziale Einbettung |
-| 12 | [12-folgen-für-taeter-und-familie.md](12-folgen-fuer-taeter-und-familie.docx) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
+| 12 | [12-folgen-für-taeter-und-familie.docx](12-folgen-fuer-taeter-und-familie.docx) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
 | 13 | [13-schadenswiedergutmachung-46a-stgb.docx](13-schadenswiedergutmachung-46a-stgb.docx) | § 46a StGB, Rückzahlung 4,2 Mio. EUR, Familienopfer |
 | 14 | [14-tateinheitliche-und-tatmehrheitliche-bewertung.docx](14-tateinheitliche-und-tatmehrheitliche-bewertung.docx) | Konkurrenzen, §§ 52–54 StGB, Gesamtstrafenbildung |
 | 15 | [15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.docx](15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.docx) | BGHSt 1, 50; BGH 1 StR Untreue-Urteile |

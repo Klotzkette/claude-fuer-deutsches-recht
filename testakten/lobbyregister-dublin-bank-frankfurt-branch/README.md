@@ -64,7 +64,7 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [18_telefonnotiz_rfs_vorfrage.docx](18_telefonnotiz_rfs_vorfrage.docx) | Telefonnotiz zur unverbindlichen RfS-Vorfrage |
 | [19_meeting_notes_bmf_terminvorbereitung.docx](19_meeting_notes_bmf_terminvorbereitung.docx) | BMF-Terminvorbereitung mit Offenlegungsproblem |
 | [20_offenlegungssaetze_varianten.docx](20_offenlegungssaetze_varianten.docx) | Gute und schlechte Offenlegungssaetze |
-| [21_interne_risikoampel.xlsx.md](21_interne_risikoampel.xlsx.docx) | MD-Vorschau einer Risikoampel |
+| [21_interne_risikoampel.xlsx.docx](21_interne_risikoampel.xlsx.docx) | MD-Vorschau einer Risikoampel |
 | [21_interne_risikoampel.csv](21_interne_risikoampel.csv) | Rohdaten Risikoampel als CSV |
 | [22_kalendereinladung_bundestag.ics](22_kalendereinladung_bundestag.ics) | Kalendereinladung für Bundestagstermin |
 | [23_datenschutz_personenfreigabe.docx](23_datenschutz_personenfreigabe.docx) | Freigaben betrauter Personen für Registerdaten |

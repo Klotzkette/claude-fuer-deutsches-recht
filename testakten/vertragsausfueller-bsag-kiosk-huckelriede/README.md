@@ -54,8 +54,8 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rück
 
 | Datei | Beschreibung |
 |---|---|
-| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.md](BSAG-Mietvertrag-Vorlage.docx) | Generische Vermietungsvorlage der BSAG mit Platzhaltern für alle Mieterdaten, Preise und Sonderbedingungen |
-| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.md](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
+| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.docx](BSAG-Mietvertrag-Vorlage.docx) | Generische Vermietungsvorlage der BSAG mit Platzhaltern für alle Mieterdaten, Preise und Sonderbedingungen |
+| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
 | [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Platzhalter, Typ, Bemerkung) |
 | [02_mapping_notiz.docx](02_mapping_notiz.docx) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
 | [03_rueckfragen_bsag.docx](03_rueckfragen_bsag.docx) | Offene Rückfragen an die BSAG vor Erstellung des Clean-Entwurfs |

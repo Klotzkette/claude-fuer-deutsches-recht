@@ -109,18 +109,18 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 |---|---|
 | [README.md](README.md) | Diese Übersicht |
 | [01_intake/email_kommune.txt](01_intake/email_kommune.txt) | Erstanfrage der Stadtverwaltung zur Projektstruktur |
-| [02_planung/ratsbeschluss_entwurf.md](02_planung/ratsbeschluss_entwurf.docx) | Entwurf Ratsbeschluss mit Tenor und Begründung |
+| [02_planung/ratsbeschluss_entwurf.docx](02_planung/ratsbeschluss_entwurf.docx) | Entwurf Ratsbeschluss mit Tenor und Begründung |
 | [02_planung/ratsbeschluss_entwurf.docx](02_planung/ratsbeschluss_entwurf.docx) | DOCX-Fassung des Ratsbeschlussentwurfs |
-| [03_strassenbahn/linienfuehrung_betroffene.md](03_strassenbahn/linienfuehrung_betroffene.docx) | Stellungnahme VBF zu Linienführung und Betroffenen |
-| [03_strassenbahn/planfeststellungsbeschluss_auszug.md](03_strassenbahn/planfeststellungsbeschluss_auszug.docx) | Auszug Planfeststellungsbeschluss (Tenor, Nebenbestimmungen) |
+| [03_strassenbahn/linienfuehrung_betroffene.docx](03_strassenbahn/linienfuehrung_betroffene.docx) | Stellungnahme VBF zu Linienführung und Betroffenen |
+| [03_strassenbahn/planfeststellungsbeschluss_auszug.docx](03_strassenbahn/planfeststellungsbeschluss_auszug.docx) | Auszug Planfeststellungsbeschluss (Tenor, Nebenbestimmungen) |
 | [03_strassenbahn/planfeststellungsbeschluss_auszug.docx](03_strassenbahn/planfeststellungsbeschluss_auszug.docx) | DOCX-Fassung des Planfeststellungsbeschluss-Auszugs |
-| [04_ladeinfrastruktur/ladepunkte_netzanschluss.md](04_ladeinfrastruktur/ladepunkte_netzanschluss.docx) | Aktenvermerk Planungsamt: Ladeinfrastruktur und Sondernutzung |
+| [04_ladeinfrastruktur/ladepunkte_netzanschluss.docx](04_ladeinfrastruktur/ladepunkte_netzanschluss.docx) | Aktenvermerk Planungsamt: Ladeinfrastruktur und Sondernutzung |
 | [05_parkraum_wirtschaftsverkehr/lieferzonen_konzept.csv](05_parkraum_wirtschaftsverkehr/lieferzonen_konzept.csv) | Konzeptübersicht Ladezonen (Tabelle) |
-| [05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.md](05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.docx) | E-Mail Bürgerinitiative zu Ladezonen |
-| [06_schulwegsicherheit/gefahrenstellen.md](06_schulwegsicherheit/gefahrenstellen.docx) | Aktenvermerk Planungsamt: Schulwegsicherheit Tempo 30 |
-| [07_verfahren/widerspruch_anwohner.md](07_verfahren/widerspruch_anwohner.docx) | Widerspruchsschreiben Anwohner Gartenstraße |
+| [05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.docx](05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.docx) | E-Mail Bürgerinitiative zu Ladezonen |
+| [06_schulwegsicherheit/gefahrenstellen.docx](06_schulwegsicherheit/gefahrenstellen.docx) | Aktenvermerk Planungsamt: Schulwegsicherheit Tempo 30 |
+| [07_verfahren/widerspruch_anwohner.docx](07_verfahren/widerspruch_anwohner.docx) | Widerspruchsschreiben Anwohner Gartenstraße |
 | [07_verfahren/widerspruch_anwohner.docx](07_verfahren/widerspruch_anwohner.docx) | DOCX-Fassung des Widerspruchsschreibens |
-| [08_foerderung_vergabe/foerdermittel_vergabe.md](08_foerderung_vergabe/foerdermittel_vergabe.docx) | Förderbescheid GVFG + Vergabeunterlagen |
+| [08_foerderung_vergabe/foerdermittel_vergabe.docx](08_foerderung_vergabe/foerdermittel_vergabe.docx) | Förderbescheid GVFG + Vergabeunterlagen |
 | [08_foerderung_vergabe/foerdermittel_vergabe.docx](08_foerderung_vergabe/foerdermittel_vergabe.docx) | DOCX-Fassung Förderbescheid |
 
 ---

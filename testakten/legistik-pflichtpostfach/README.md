@@ -39,7 +39,7 @@ Aus dieser politischen Vorgabe ist ein **Stammgesetz "Pflichtpostfachgesetz - Pf
 - Bezüge zu DSA, eIDAS 2.0, GoBD herstellt und
 - über das Notifizierungsverfahren 2015/1535 europarechtlich abgesichert wird.
 
-Ein vollständiger Verfahrensdurchlauf durch die 25 Skills des Plugins `legistik-werkstatt` ist im Methodikvermerk beschrieben (`methodik_verfahrensdurchlauf.md`).
+Ein vollständiger Verfahrensdurchlauf durch die 25 Skills des Plugins `legistik-werkstatt` ist im Methodikvermerk beschrieben (`methodik_verfahrensdurchlauf.docx`).
 
 ## Akteninterne Reibungspunkte
 
@@ -55,7 +55,7 @@ Ein vollständiger Verfahrensdurchlauf durch die 25 Skills des Plugins `legistik
 ```
 testakten/legistik-pflichtpostfach/
   README.md                # diese Datei
-  methodik_verfahrensdurchlauf.md       # Methodikvermerk und Verfahrensdurchlauf
+  methodik_verfahrensdurchlauf.docx       # Methodikvermerk und Verfahrensdurchlauf
   eingang/
     auftragsblatt.md       # Auftrag des federführenden Ressorts
     metadaten.yaml         # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand
@@ -78,7 +78,7 @@ testakten/legistik-pflichtpostfach/
 
 ## So läuft die Bearbeitung
 
-1. Auftrag aus `eingang/auftragsblatt.md` lesen
+1. Auftrag aus `eingang/auftragsblatt.docx` lesen
 2. Skill `legistik-auftragsaufnahme` durchlaufen
 3. Skill `normhierarchie-routing` -> Ergebnis: Bundesstammgesetz
 4. Skills `gesetzgebungskompetenz-pruefen`, `verfassungsmaessigkeit-quercheck`, `europarechtskonformitaet`

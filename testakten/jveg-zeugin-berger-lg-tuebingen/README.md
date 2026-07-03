@@ -80,17 +80,17 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 | [06_antwortbaustein.docx](06_antwortbaustein.docx) | Argumentationshilfe und Musterformulierungen zur Reaktion auf Vorschussablehnung |
 | [07_rechner_output_berger.json](07_rechner_output_berger.json) | Berechnungsergebnis des JVEG-Rechners inkl. Warnhinweisen |
 | [berechnung_zeugenentschaedigung_berger.xlsx](berechnung_zeugenentschaedigung_berger.xlsx) | Detailliertes Excel-Rechenblatt: Fahrtkosten, Übernachtung, Verdienstausfall, Zeitversäumnis |
-| [berechnung_zeugenentschaedigung_berger.md](berechnung_zeugenentschaedigung_berger.docx) | Markdown-Vorschau des Rechenblatts |
+| [berechnung_zeugenentschaedigung_berger.docx](berechnung_zeugenentschaedigung_berger.docx) | Markdown-Vorschau des Rechenblatts |
 | [ladungsschreiben_lg_tuebingen.docx](ladungsschreiben_lg_tuebingen.docx) | Originalladung des LG Tübingen an Dr. Berger (05.01.2026) |
-| [ladungsschreiben_lg_tuebingen.md](ladungsschreiben_lg_tuebingen.docx) | Markdown-Vorschau der Ladung |
+| [ladungsschreiben_lg_tuebingen.docx](ladungsschreiben_lg_tuebingen.docx) | Markdown-Vorschau der Ladung |
 | [schreiben_lg_tuebingen.docx](schreiben_lg_tuebingen.docx) | Ablehnungsschreiben LG Tübingen (27.01.2026): Vorschuss abgelehnt |
-| [schreiben_lg_tuebingen.md](schreiben_lg_tuebingen.docx) | Markdown-Vorschau des Ablehnungsschreibens |
+| [schreiben_lg_tuebingen.docx](schreiben_lg_tuebingen.docx) | Markdown-Vorschau des Ablehnungsschreibens |
 | [festsetzungsantrag_jveg.docx](festsetzungsantrag_jveg.docx) | Antrag RA Klotzkette auf Festsetzung der Zeugenentschädigung nach §§ 19–21 JVEG |
-| [festsetzungsantrag_jveg.md](festsetzungsantrag_jveg.docx) | Markdown-Vorschau des Festsetzungsantrags |
+| [festsetzungsantrag_jveg.docx](festsetzungsantrag_jveg.docx) | Markdown-Vorschau des Festsetzungsantrags |
 | [festsetzungsbeschluss_rechtspfleger.docx](festsetzungsbeschluss_rechtspfleger.docx) | Beschluss des Rechtspflegers vom 02.03.2026 (1.035,00 EUR, VE abgelehnt) |
-| [festsetzungsbeschluss_rechtspfleger.md](festsetzungsbeschluss_rechtspfleger.docx) | Markdown-Vorschau des Festsetzungsbeschlusses |
+| [festsetzungsbeschluss_rechtspfleger.docx](festsetzungsbeschluss_rechtspfleger.docx) | Markdown-Vorschau des Festsetzungsbeschlusses |
 | [erinnerung_jveg_paragraph4.docx](erinnerung_jveg_paragraph4.docx) | Erinnerung nach § 4 JVEG gegen den Festsetzungsbeschluss (Verdienstausfall 528,00 EUR) |
-| [erinnerung_jveg_paragraph4.md](erinnerung_jveg_paragraph4.docx) | Markdown-Vorschau der Erinnerung |
+| [erinnerung_jveg_paragraph4.docx](erinnerung_jveg_paragraph4.docx) | Markdown-Vorschau der Erinnerung |
 | [antrag_zeugin_berger_erste_version.pdf](antrag_zeugin_berger_erste_version.pdf) | Originalunterlage: Vorschussantrag der Zeugin (erste Version) |
 | [antrag_zeugin_berger.pdf](antrag_zeugin_berger.pdf) | Originalunterlage: Vorschussantrag (überarbeitete Fassung) |
 | [gerichtsschreiben_lg_tuebingen.pdf](gerichtsschreiben_lg_tuebingen.pdf) | Gescanntes Originalschreiben des LG Tübingen |

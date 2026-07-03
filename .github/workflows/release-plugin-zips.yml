@@ -40,6 +40,9 @@ jobs:
       - name: Gesamt-PDFs der Testakten validieren
         run: python3 scripts/validate-testakten-gesamt-pdf.py
 
+      - name: Keine Markdown-Aktenstücke in Testakten validieren
+        run: python3 scripts/validate-testakten-keine-markdown-aktenstuecke.py
+
       - name: Downloadhinweise der Testakten validieren
         run: python3 scripts/validate-testakten-readme-downloads.py
 

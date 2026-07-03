@@ -128,7 +128,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | `Memo_Anwalt_an_Mandant_Risiko-Einschaetzung.pdf` | PDF | Internes Anwaltsmemo Dr. Hagelbrand an Mandanten, 14.03.2026 | Verfahrensstand, Rechtsprechungsprüfung und nächste Schritte |
 | `Aufstellung_Provisionsstreitwert.xlsx` | Excel | Streitwertaufstellung, Zeithonorare, RVG-Vergleich, Zinsberechnung | 2 Tabellenblätter; Formeln, Summenzeilen, bedingte Formatierung |
 | `Notiz_Erstgespraech_Haspelbeck.txt` | Text | Rohe Anwaltsnotiz vom Erstgespräch 15.08.2023 | Chaotisch, mit Mandanten-O-Tönen, internen Einschätzungen |
-| `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.md` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; "Waaaas?!" |
+| `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.docx` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; "Waaaas?!" |
 
 ---
 

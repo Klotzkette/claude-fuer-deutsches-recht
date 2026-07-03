@@ -73,26 +73,26 @@ Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fe
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
-| [arbeitsvertrag_weber_2018.md](arbeitsvertrag_weber_2018.docx) | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
+| [arbeitsvertrag_weber_2018.docx](arbeitsvertrag_weber_2018.docx) | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
 | [arbeitsvertrag_weber_2018.docx](arbeitsvertrag_weber_2018.docx) | DOCX-Original des Arbeitsvertrags |
-| [kuendigungsschreiben_techlogix_30-04-2026.md](kuendigungsschreiben_techlogix_30-04-2026.docx) | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
+| [kuendigungsschreiben_techlogix_30-04-2026.docx](kuendigungsschreiben_techlogix_30-04-2026.docx) | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
 | [kuendigungsschreiben_techlogix_30-04-2026.docx](kuendigungsschreiben_techlogix_30-04-2026.docx) | DOCX-Original Kündigungsschreiben |
-| [betriebsrat_anhoerung_entwurf_roh.md](betriebsrat_anhoerung_entwurf_roh.docx) | BR-Anhörungsschreiben (unvollständig, Formfehler dokumentiert) |
+| [betriebsrat_anhoerung_entwurf_roh.docx](betriebsrat_anhoerung_entwurf_roh.docx) | BR-Anhörungsschreiben (unvollständig, Formfehler dokumentiert) |
 | [betriebsrat_anhoerung_entwurf_roh.docx](betriebsrat_anhoerung_entwurf_roh.docx) | DOCX-Fassung des BR-Anhörungsschreibens |
-| [mandantennotiz_erstgespraech_06-05-2026.md](mandantennotiz_erstgespraech_06-05-2026.docx) | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
-| [notiz_weber_gespraech_maerz_2026.md](notiz_weber_gespraech_maerz_2026.docx) | Handnotiz des Mandanten zum Gespräch vom 25.03.2026 |
-| [vollmacht_weber.md](vollmacht_weber.docx) | Prozessvollmacht Weber an RA Steinhauer |
+| [mandantennotiz_erstgespraech_06-05-2026.docx](mandantennotiz_erstgespraech_06-05-2026.docx) | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
+| [notiz_weber_gespraech_maerz_2026.docx](notiz_weber_gespraech_maerz_2026.docx) | Handnotiz des Mandanten zum Gespräch vom 25.03.2026 |
+| [vollmacht_weber.docx](vollmacht_weber.docx) | Prozessvollmacht Weber an RA Steinhauer |
 | [vollmacht_weber.docx](vollmacht_weber.docx) | DOCX-Original Vollmacht |
-| [sozialauswahl_vergleichstabelle_roh.md](sozialauswahl_vergleichstabelle_roh.docx) | Sozialauswahl-Tabelle Weber/Grunewald/Sonnleitner mit Punkteschema |
-| [kuendigungsschutzklage_weber_14-05-2026.md](kuendigungsschutzklage_weber_14-05-2026.docx) | Klageschrift ArbG Berlin (Rubrum, Anträge, Begründung, Beweise) |
+| [sozialauswahl_vergleichstabelle_roh.docx](sozialauswahl_vergleichstabelle_roh.docx) | Sozialauswahl-Tabelle Weber/Grunewald/Sonnleitner mit Punkteschema |
+| [kuendigungsschutzklage_weber_14-05-2026.docx](kuendigungsschutzklage_weber_14-05-2026.docx) | Klageschrift ArbG Berlin (Rubrum, Anträge, Begründung, Beweise) |
 | [kuendigungsschutzklage_weber_14-05-2026.docx](kuendigungsschutzklage_weber_14-05-2026.docx) | DOCX-Original Klageschrift |
-| [klageerwiderung_techlogix_28-05-2026.md](klageerwiderung_techlogix_28-05-2026.docx) | Klageerwiderung der Beklagten (Rubrum, Anträge, Verteidigung) |
+| [klageerwiderung_techlogix_28-05-2026.docx](klageerwiderung_techlogix_28-05-2026.docx) | Klageerwiderung der Beklagten (Rubrum, Anträge, Verteidigung) |
 | [klageerwiderung_techlogix_28-05-2026.docx](klageerwiderung_techlogix_28-05-2026.docx) | DOCX-Original Klageerwiderung |
-| [annahmeverzug_berechnung.md](annahmeverzug_berechnung.docx) | Berechnung Annahmeverzugslohn und Abfindungsalternativen |
+| [annahmeverzug_berechnung.docx](annahmeverzug_berechnung.docx) | Berechnung Annahmeverzugslohn und Abfindungsalternativen |
 | [annahmeverzug_berechnung.xlsx](annahmeverzug_berechnung.xlsx) | XLSX-Tabelle Annahmeverzug und Abfindungsvergleich |
-| [vergleichsprotokoll_18-06-2026.md](vergleichsprotokoll_18-06-2026.docx) | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
+| [vergleichsprotokoll_18-06-2026.docx](vergleichsprotokoll_18-06-2026.docx) | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
 | [vergleichsprotokoll_18-06-2026.docx](vergleichsprotokoll_18-06-2026.docx) | DOCX-Original Vergleichsprotokoll |
-| [zwischenzeugnis_weber_31-08-2026.md](zwischenzeugnis_weber_31-08-2026.docx) | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
+| [zwischenzeugnis_weber_31-08-2026.docx](zwischenzeugnis_weber_31-08-2026.docx) | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
 | [zwischenzeugnis_weber_31-08-2026.docx](zwischenzeugnis_weber_31-08-2026.docx) | DOCX-Original Zeugnis |
 
 ---

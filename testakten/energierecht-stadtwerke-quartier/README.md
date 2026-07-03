@@ -116,27 +116,27 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 |---|---|
 | [README.md](README.md) | Gesamtüberblick, Sachverhalt, Eckdaten, Zeitleiste, Dateiverzeichnis |
 | [01_intake/email_mandant_stadtwerke.txt](01_intake/email_mandant_stadtwerke.txt) | Erste E-Mail des Mandanten mit Projektanfrage |
-| [01_intake/mandatsnotiz_erstgespraech.md](01_intake/mandatsnotiz_erstgespraech.docx) | Interner Aktenvermerk zum Erstgespräch vom 15.03.2024 |
-| [02_projekt/quartier_wärme_strom_konzept.md](02_projekt/quartier_waerme_strom_konzept.docx) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
-| [03_netzanschluss/netzanschluss_sonderkonstellation.md](03_netzanschluss/netzanschluss_sonderkonstellation.docx) | Rechtlicher Vermerk: Netzanschluss, Kundenanlage vs. GVN, Messkonzept |
-| [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.md](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | Netzanschlussbegehren vom 14.11.2024 (Schreiben SWKK an Netzbetreiber) |
+| [01_intake/mandatsnotiz_erstgespraech.docx](01_intake/mandatsnotiz_erstgespraech.docx) | Interner Aktenvermerk zum Erstgespräch vom 15.03.2024 |
+| [02_projekt/quartier_wärme_strom_konzept.docx](02_projekt/quartier_waerme_strom_konzept.docx) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
+| [03_netzanschluss/netzanschluss_sonderkonstellation.docx](03_netzanschluss/netzanschluss_sonderkonstellation.docx) | Rechtlicher Vermerk: Netzanschluss, Kundenanlage vs. GVN, Messkonzept |
+| [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | Netzanschlussbegehren vom 14.11.2024 (Schreiben SWKK an Netzbetreiber) |
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | DOCX-Version des Netzanschlussbegehrens |
-| [03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.md](03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.docx) | Antwortschreiben Netzgesellschaft Westfalen GmbH vom 07.01.2025 |
-| [04_vertraege/waermeliefervertrag_preisanpassung.md](04_vertraege/waermeliefervertrag_preisanpassung.docx) | Vollständiger Wärmeliefervertrag mit Preisanpassungsklausel |
+| [03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.docx](03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.docx) | Antwortschreiben Netzgesellschaft Westfalen GmbH vom 07.01.2025 |
+| [04_vertraege/waermeliefervertrag_preisanpassung.docx](04_vertraege/waermeliefervertrag_preisanpassung.docx) | Vollständiger Wärmeliefervertrag mit Preisanpassungsklausel |
 | [04_vertraege/waermeliefervertrag_hafenbogen.docx](04_vertraege/waermeliefervertrag_hafenbogen.docx) | DOCX-Version des Wärmeliefervertrags |
-| [04_vertraege/mieterstromvertrag_muster.md](04_vertraege/mieterstromvertrag_muster.docx) | Mieterstromvertrag-Muster (vollständig, >1500 Wörter) |
+| [04_vertraege/mieterstromvertrag_muster.docx](04_vertraege/mieterstromvertrag_muster.docx) | Mieterstromvertrag-Muster (vollständig, >1500 Wörter) |
 | [04_vertraege/mieterstromvertrag_muster.docx](04_vertraege/mieterstromvertrag_muster.docx) | DOCX-Version des Mieterstromvertrags |
 | [05_industrie/umlagen_sondernetzentgelt_rohdaten.csv](05_industrie/umlagen_sondernetzentgelt_rohdaten.csv) | Rohdaten Netzentnahme und Stromkosten Industriekunde (CSV) |
-| [05_industrie/industrie_sondervertrag_kuehlhaus.md](05_industrie/industrie_sondervertrag_kuehlhaus.docx) | Sonderliefervertrag Strom/Wärme Hafenbogen Logistik GmbH (Skizze → vollst.) |
+| [05_industrie/industrie_sondervertrag_kuehlhaus.docx](05_industrie/industrie_sondervertrag_kuehlhaus.docx) | Sonderliefervertrag Strom/Wärme Hafenbogen Logistik GmbH (Skizze → vollst.) |
 | [05_industrie/industrie_sondervertrag_kuehlhaus.docx](05_industrie/industrie_sondervertrag_kuehlhaus.docx) | DOCX-Version des Industriekundenvertrags |
-| [06_transaktion/energie_dd_findings_roh.md](06_transaktion/energie_dd_findings_roh.docx) | Due-Diligence-Rohfindings (Energierechtliche Prüfung) |
-| [06_transaktion/term_sheet_investor_hafenbogen.md](06_transaktion/term_sheet_investor_hafenbogen.docx) | Term Sheet Anteilsverkauf an Stadtwerke-Beteiligungsgesellschaft Bayern mbH |
-| [07_verfahren/behoerdenbescheid_fristsache.md](07_verfahren/behoerdenbescheid_fristsache.docx) | BNetzA-Bescheid + interner Fristenkalender |
-| [07_verfahren/bnetza_stellungnahme_waermeleitung.md](07_verfahren/bnetza_stellungnahme_waermeleitung.docx) | Stellungnahme SWKK / Kanzlei an BNetzA (Antwort auf Bescheid) |
-| [08_finanzierung/ppa_projektfinanzierung_check.md](08_finanzierung/ppa_projektfinanzierung_check.docx) | Bankability-Checkliste + PPA-Prüfung |
-| [08_finanzierung/foerderantrag_kfw_442.md](08_finanzierung/foerderantrag_kfw_442.docx) | Förderantrag KfW-Programm 442 (Klimafreundlicher Neubau – Kommunen) |
-| [08_finanzierung/foerderbewilligung_kfw_442.md](08_finanzierung/foerderbewilligung_kfw_442.docx) | Bewilligungsbescheid KfW-Programm 442 |
-| [09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.md](09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.docx) | Wirtschaftlichkeitsrechnung (Übersicht, Annahmen, Ergebnis) |
+| [06_transaktion/energie_dd_findings_roh.docx](06_transaktion/energie_dd_findings_roh.docx) | Due-Diligence-Rohfindings (Energierechtliche Prüfung) |
+| [06_transaktion/term_sheet_investor_hafenbogen.docx](06_transaktion/term_sheet_investor_hafenbogen.docx) | Term Sheet Anteilsverkauf an Stadtwerke-Beteiligungsgesellschaft Bayern mbH |
+| [07_verfahren/behoerdenbescheid_fristsache.docx](07_verfahren/behoerdenbescheid_fristsache.docx) | BNetzA-Bescheid + interner Fristenkalender |
+| [07_verfahren/bnetza_stellungnahme_waermeleitung.docx](07_verfahren/bnetza_stellungnahme_waermeleitung.docx) | Stellungnahme SWKK / Kanzlei an BNetzA (Antwort auf Bescheid) |
+| [08_finanzierung/ppa_projektfinanzierung_check.docx](08_finanzierung/ppa_projektfinanzierung_check.docx) | Bankability-Checkliste + PPA-Prüfung |
+| [08_finanzierung/foerderantrag_kfw_442.docx](08_finanzierung/foerderantrag_kfw_442.docx) | Förderantrag KfW-Programm 442 (Klimafreundlicher Neubau – Kommunen) |
+| [08_finanzierung/foerderbewilligung_kfw_442.docx](08_finanzierung/foerderbewilligung_kfw_442.docx) | Bewilligungsbescheid KfW-Programm 442 |
+| [09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.docx](09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.docx) | Wirtschaftlichkeitsrechnung (Übersicht, Annahmen, Ergebnis) |
 | [09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.xlsx](09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.xlsx) | XLSX-Wirtschaftlichkeitsmodell (Investition, Erlöse, Kosten, NPV, IRR) |
 
 ---

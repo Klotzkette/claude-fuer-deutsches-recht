@@ -89,7 +89,7 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 | [10_quality_gate.docx](10_quality_gate.docx) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
 | [11_geringstes_gebot_berechnung.docx](11_geringstes_gebot_berechnung.docx) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
 | [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
-| [12_verkehrswertgutachten_vollständig.md](12_verkehrswertgutachten_vollstaendig.docx) | MD | Markdown-Vorschau des Gutachtens |
+| [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | MD | Markdown-Vorschau des Gutachtens |
 | [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | DOCX | Terminprotokoll: Anwesende, Versteigerungsbedingungen, 15 Gebote, Zuschlag |
 | [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | MD | Markdown-Vorschau des Terminprotokolls |
 | [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | DOCX | Zuschlagsbeschluss mit Rubrum, Tenor, Gründen und Rechtsbehelfsbelehrung |

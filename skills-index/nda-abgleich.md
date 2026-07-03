@@ -1,6 +1,6 @@
 # nda-abgleich
 
-**91 Skills** · Stand `v418.0.0`
+**91 Skills** · Stand `v419.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/nda-abgleich/README.md)

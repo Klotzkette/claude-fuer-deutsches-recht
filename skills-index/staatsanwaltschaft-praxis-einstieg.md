@@ -1,6 +1,6 @@
 # staatsanwaltschaft-praxis-einstieg
 
-**145 Skills** · Stand `v418.0.0`
+**145 Skills** · Stand `v419.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/staatsanwaltschaft-praxis-einstieg/README.md)

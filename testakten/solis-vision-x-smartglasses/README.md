@@ -78,4 +78,4 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 8. Phase 8 (1 Stunde): Berufungsfest prüfen (Skill `berufungsfest-pruefen`).
 9. Phase 9 (30 Minuten): DOCX-Rendering (Skill `dokumente-rendern-urteil-docx`).
 
-Workflow-Vermerk: siehe `referenzen/workflow_relation_und_pruefpunkte.md`.
+Workflow-Vermerk: siehe `referenzen/workflow_relation_und_pruefpunkte.docx`.

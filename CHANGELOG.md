@@ -1,3 +1,12 @@
+# v419.0.0 — Codex-Findings zu v418 behoben: Abhängigkeiten dokumentiert, Markdown-Validator im CI, README-Linktexte korrigiert
+
+- `requirements.txt` um die tatsächlich benötigten Abhängigkeiten der Testakten-Werkzeuge ergänzt: `python-docx` (DOCX-Konverter und Gesamt-PDF-Builder), `reportlab` und `pypdf` (Gesamt-PDF-Builder). Damit funktioniert der im Qualitätsstandard beschriebene Workflow (Markdown-Entwurf konvertieren, Gesamt-PDF neu bauen) in einem frischen Checkout ohne undokumentierte Installationen.
+- Der neue Validator `validate-testakten-keine-markdown-aktenstuecke.py` läuft jetzt als eigener Schritt im Release-Workflow (`release-plugin-zips.yml`) vor dem ZIP-Bau. Ein künftiges Markdown-Aktenstück bricht das Release-CI ab, statt unbemerkt durchzurutschen.
+- 167 sichtbare Linktexte in Akten-READMEs zeigten nach der Konvertierung noch `.md`, obwohl das Linkziel bereits auf die `.docx` zeigte (vor allem bei Aktenstücken in Unterordnern); dazu 19 Klartext-Erwähnungen mit Unterordner-Pfaden. Alle auf die tatsächlichen Dateinamen umgestellt.
+- Repo-weiter Versions-Bump auf v419.0.0; alle Validatoren grün.
+
+---
+
 # v418.0.0 — Format-Grundregel für Testakten, native Aktenformate repo-weit, erste BGH-Entscheidung zum StaRUG (IX ZB 18/25)
 
 - Neue verbindliche Format-Grundregel für alle Testakten im Qualitätsstandard verankert (Abschnitt „Dateiformate im Akten-ZIP"): Akten-ZIPs enthalten keine Markdown-Aktenstücke mehr, sondern einen lebensechten Formatmix aus formatierten Word-Dokumenten mit Briefkopf (Times New Roman 11 pt), PDFs, Excel- und CSV-Tabellen, E-Mail-Dateien (EML), Screenshots und Chat-Exporten — inhaltsgleich mit dem Gesamt-PDF. Markdown bleibt nur für README, rubric.yaml und Meta-Dateien zulässig, die der Exportfilter ohnehin ausschließt. Die Regel gilt ausdrücklich auch für künftig mit Coding-Agents erzeugte Testakten; die zentrale Testakten-README verweist darauf.

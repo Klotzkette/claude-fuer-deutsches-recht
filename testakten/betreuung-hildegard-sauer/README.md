@@ -103,7 +103,7 @@ Berufsbetreuers eingereicht.
 | 10 | `10_Patientenverfuegung_2019.pdf` | PDF | Patientenverfügung Hildegard Sauer, März 2019, handunterschrieben | § 1827 BGB |
 | 11 | `11_Notiz_Betreuer_Hausbesuch_28-04-2026.txt` | Text | Aktennotiz Hausbesuch Betreuer im Heim, 28.04.2026 | § 1863 BGB |
 | 12 | `12_Mietvertrag_Wohnung_alt.pdf` | PDF | ⚠️ Historischer Mietvertrag 1968 – **irrtümlich abgeheftet**, nicht relevant | – |
-| 13 | `Fehlblatt_13_Foto_Wohnung_aussen.md` | Fehlblatt | Angekündigtes Foto der Wohnung – **fehlt in der Akte** | – |
+| 13 | `Fehlblatt_13_Foto_Wohnung_aussen.docx` | Fehlblatt | Angekündigtes Foto der Wohnung – **fehlt in der Akte** | – |
 
 ---
 

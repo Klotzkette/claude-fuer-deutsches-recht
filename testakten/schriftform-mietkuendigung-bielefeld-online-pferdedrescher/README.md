@@ -123,7 +123,7 @@ Der BGH bestätigte dieses Argument 2024 als Leitsatz c).
 |---|---|---|---|
 | `Mietvertrag_Eberhart_2017.pdf` | PDF | Wohnraummietvertrag vom 03.04.2017 | § 7 Schriftformklausel hervorgehoben; enthält ausdrücklichen Hinweis auf qES-Erfordernis bei elektronischer Kündigung |
 | `Mahnungshistorie_2019-2022.pdf` | PDF | Tabellarische Rückstandsentwicklung März 2019 – Feb. 2022 | Farbliche Hervorhebung: Höchststand Dez. 2020, Kündigungszeitpunkt Feb. 2022; Anlage K-MIET-2 |
-| `Chatverlauf_Kuendigung_Vermieter_2022-02-10.md` | Chatbeschreibung | Beschreibung des WhatsApp-Screenshots (Kündigung per Sprachnachricht + PDF) | Belegt formunwirksamen Kündigungsversuch; Anlage K-MIET-3 |
+| `Chatverlauf_Kuendigung_Vermieter_2022-02-10.docx` | Chatbeschreibung | Beschreibung des WhatsApp-Screenshots (Kündigung per Sprachnachricht + PDF) | Belegt formunwirksamen Kündigungsversuch; Anlage K-MIET-3 |
 | `Email_Kuendigung_ohne_qES_10-02-2022.pdf` | PDF | E-Mail-Verlauf 10./11. Feb. 2022 (Kündigung + Antwort Mieter) | Enthält sowohl die E-Mail mit PDF-Anhang ohne qES als auch die schlagende Antwort des Mieters |
 | `Anlage_Kuendigungsschreiben_Feb2022_ohne_qES.pdf` | PDF | Das PDF-Anhang-Kündigungsschreiben selbst | Eingescannte Handunterschrift — ausdrücklicher Hinweis: KEINE qES |
 | `Mahnung_Einschreiben_Dezember2020.pdf` | PDF | 8. Mahnung per Einschreiben mit Rückschein, 02.12.2020 | Einzige Mahnung auf Anraten des Anwalts postalisch; Vorläufer der Kündigung |
@@ -134,7 +134,7 @@ Der BGH bestätigte dieses Argument 2024 als Leitsatz c).
 | `BGH_VIII_ZR_159-23_Auszug.pdf` | PDF | Tenor, Leitsätze und Entscheidungsgründe (Auszug) BGH VIII ZR 159/23 | Leit-Dokument für das Plugin; Leitsätze a)–c) vollständig |
 | `Aufstellung_Kosten_und_Schaeden.xlsx` | Excel | Streitwertberechnung, Verfahrenskosten nach Instanzen, Gesamtschaden Klägerin | Formeln; Gesamtschaden ca. EUR 28.415,90; 4 Abschnitte inkl. Mahnungshistorie-Zeitpunkte |
 | `Mandantengespraech_Eberhart_Notiz.txt` | Text | Roh-Gesprächsnotiz RA Hassenstein-Heepen vom 19.04.2022 | Authentisch chaotisch; zeigt Mandantenperspektive; handschriftlicher Nachtrag von Dez. 2024 |
-| `Chatverlauf_Mieter_Anwalt_2022-04.md` | Chatbeschreibung | WhatsApp-Chat: Mieter sendet Fotos der Klageschrift an Anwältin (April 2022) | Zeigt Handnotizen des Mieters auf dem Transfervermerk; Beweis für Mandatsanbahnung |
+| `Chatverlauf_Mieter_Anwalt_2022-04.docx` | Chatbeschreibung | WhatsApp-Chat: Mieter sendet Fotos der Klageschrift an Anwältin (April 2022) | Zeigt Handnotizen des Mieters auf dem Transfervermerk; Beweis für Mandatsanbahnung |
 
 ---
 

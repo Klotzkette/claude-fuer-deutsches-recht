@@ -148,8 +148,8 @@ Koordination: P. Forsythe-Vanderhof
 | `LG_Protokoll_Verhandlung_11-06-2026.pdf` | PDF | Protokoll der öffentlichen Sitzung LG Frankfurt 11.06.2026 (VRiLG Dr. Wendt-Pasterczyk): Erörterung Soundmarken-Problematik, DSA-Compliance, Schriftsatz-Nachlass bis 25.06. | Brezelmann ohne Anwalt erschienen; Urteilsverkündung 27.07.2026 |
 | `Kostennote_Steinacker_Lichtenberg_26-Q1-014.xlsx` | Excel | Zwischenkostennote Q1/2026 mit 12 Positionen (RVG-Gebühren + Auslagen + Sachverständige) inkl. Formeln; Blatt 2: Zeitaufwandsübersicht 14 Tätigkeiten | IBAN für Überweisung; Gesamtbetrag ca. EUR 94.676,27 brutto (inkl. 19 % USt.) |
 | `Notiz_Comtesse_handschriftlich.txt` | Text | Abschrift der handschriftlichen Fax-Notiz der Comtesse aus Capri (14.03.2026, 23:47 MEZ): emotional, mehrsprachig, strategische Anweisungen | Tinte verschmiert (wahrsch. Rotwein); Rechtschreibfehler; P.P.S. über persönliche Begegnung mit Brezelmann |
-| `Chatverlauf_Comtesse_Anwaeltin_2026-03-14.md` | Beschreibung | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
-| `Bildbeschreibung_Messeauftritt_Brezelmann_Pitti_2026-03-10.md` | Beschreibung | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
+| `Chatverlauf_Comtesse_Anwaeltin_2026-03-14.docx` | Beschreibung | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
+| `Bildbeschreibung_Messeauftritt_Brezelmann_Pitti_2026-03-10.docx` | Beschreibung | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
 
 ---
 

@@ -131,8 +131,8 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 
 | Datei | Inhalt |
 |---|---|
-| [`bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md`](bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.docx) | Sicherstellung Privatschreibtisch Pellbach |
-| [`bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md`](bilder/beweismittel_002_lagerhalle_bottrop_metadaten.docx) | Lagerhalle Bottrop, Inventar-Diskrepanz, Edelweiss-Schild |
+| [`bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.docx`](bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.docx) | Sicherstellung Privatschreibtisch Pellbach |
+| [`bilder/beweismittel_002_lagerhalle_bottrop_metadaten.docx`](bilder/beweismittel_002_lagerhalle_bottrop_metadaten.docx) | Lagerhalle Bottrop, Inventar-Diskrepanz, Edelweiss-Schild |
 
 ---
 

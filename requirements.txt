@@ -1,11 +1,19 @@
 # Runtime-Abhängigkeiten für die Python-Werkzeuge im Repo.
 # Installation: pip install -r requirements.txt
 #
-# openpyxl  — alle build_*.py-Skripte, die Excel-Dateien (.xlsx) erzeugen
-#             (liquiditaetsplanung, steuerberater-werkzeuge, fortbestehensprognose)
-# PyYAML    — scripts/sync-references.py und das Parsen von YAML-Eingaben
-#             in den Liquiditäts-Werkzeugen
+# openpyxl    — alle build_*.py-Skripte, die Excel-Dateien (.xlsx) erzeugen
+#               (liquiditaetsplanung, steuerberater-werkzeuge, fortbestehensprognose)
+# PyYAML      — scripts/sync-references.py und das Parsen von YAML-Eingaben
+#               in den Liquiditäts-Werkzeugen
+# python-docx — scripts/convert-testakte-aktenstuecke-nativ.py (Markdown-Entwürfe
+#               in formatierte DOCX-Aktenstücke konvertieren) und
+#               scripts/build-testakte-gesamt-pdf.py (DOCX-Aktenstücke einlesen)
+# reportlab   — scripts/build-testakte-gesamt-pdf.py (Gesamt-PDF rendern)
+# pypdf       — scripts/build-testakte-gesamt-pdf.py (PDF-Aktenstücke anhängen)
 
 openpyxl>=3.1
 PyYAML>=6.0
 jsonschema>=4.0
+python-docx>=1.1
+reportlab>=4.0
+pypdf>=4.0

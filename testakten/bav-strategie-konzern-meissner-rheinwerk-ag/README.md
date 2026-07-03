@@ -144,7 +144,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 | `Honorarvereinbarung_Treuenfels_Yamamoto.pdf` | PDF | Detaillierte Honorarvereinbarung mit Stundensatztabelle und Kappungsklausel | EUR 980 Partner / EUR 720 Counsel / EUR 520 Sr. Associate |
 | `Bilanzielle_Auswirkungen_HGB_IFRS.xlsx` | Excel | Pensionsrückstellungen HGB/IFRS/§ 6a EStG; Sensitivitätsanalyse; Meilensteine | 5 Tabs: Rollforward IAS 19; HGB; § 6a; Sensitivität; Meilensteine |
 | `Notiz_Mandantengespraech_Vorstand.txt` | Text | Chaotische handschriftliche Mitschrift Kick-off 14.01.2026 | Nicht autorisiert; enthält Hintergrundinfos COO, BR-Lage, Kyoto-Video |
-| `Aktenvermerk_WhatsApp_CFO_an_Partner_2026-04-08.md` | Beschreibung | WhatsApp CFO → Sompeh-Ostermann (08.04.2026, 21:37 Uhr) | Original aus Datenschutzgründen nicht in Akte; Inhalt sinngemäß dokumentiert |
+| `Aktenvermerk_WhatsApp_CFO_an_Partner_2026-04-08.docx` | Beschreibung | WhatsApp CFO → Sompeh-Ostermann (08.04.2026, 21:37 Uhr) | Original aus Datenschutzgründen nicht in Akte; Inhalt sinngemäß dokumentiert |
 
 ---
 

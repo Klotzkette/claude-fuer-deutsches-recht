@@ -56,7 +56,7 @@ Jeder Vorgangsordner enthält in der Regel:
 ```
 testakten/bvg-widerspruchsstelle-abschleppen-mobg/
   README.md                                      <- dies hier
-  Fristen_Widerspruchsverfahren.md               <- alle Fristen auf einen Blick
+  Fristen_Widerspruchsverfahren.docx               <- alle Fristen auf einen Blick
   01-klar-haltestelle-kantstrasse/
     Gebuehrenbescheid_BVG_2026-05-04.pdf
     Umsetzungsprotokoll_2026-05-02.pdf

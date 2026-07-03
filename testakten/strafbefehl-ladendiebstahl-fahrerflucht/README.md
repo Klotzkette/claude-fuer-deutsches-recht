@@ -115,9 +115,9 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 | [09_bzr_fahreignung_nebenfolgen.docx](09_bzr_fahreignung_nebenfolgen.docx) | BZR-Auszug, Fahreignung, MPU-Prüfung, berufliche Folgen |
 | [10_akteneinsichtsantrag.docx](10_akteneinsichtsantrag.docx) | Vollständiger Akteneinsichtsantrag § 147 StPO |
 | [10_akteneinsichtsantrag.docx](10_akteneinsichtsantrag.docx) | DOCX-Version Akteneinsichtsantrag |
-| [11_einspruch_entwurf_unbeschränkt.md](11_einspruch_entwurf_unbeschraenkt.docx) | Unbeschränkter Einspruch mit vorläufiger Begründung |
+| [11_einspruch_entwurf_unbeschränkt.docx](11_einspruch_entwurf_unbeschraenkt.docx) | Unbeschränkter Einspruch mit vorläufiger Begründung |
 | [11_einspruch_entwurf_unbeschränkt.docx](11_einspruch_entwurf_unbeschraenkt.docx) | DOCX-Version Einspruch unbeschränkt |
-| [12_einspruch_beschränkt_rechtsfolgen.md](12_einspruch_beschraenkt_rechtsfolgen.docx) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
+| [12_einspruch_beschränkt_rechtsfolgen.docx](12_einspruch_beschraenkt_rechtsfolgen.docx) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
 | [12_einspruch_beschränkt_rechtsfolgen.docx](12_einspruch_beschraenkt_rechtsfolgen.docx) | DOCX-Version Einspruch beschränkt |
 | [13_hauptverhandlung_plan.docx](13_hauptverhandlung_plan.docx) | Strukturierter Verhandlungsplan, Phaseneinteilung |
 | [14_zeugenbefragung_fragenkatalog.docx](14_zeugenbefragung_fragenkatalog.docx) | 43 Fragen für 3 Zeugen, taktisch geordnet |
