@@ -1,8 +1,17 @@
 # Angebot Metallbau und Tiefbau
 
-Firma: Metallbau Teschner GmbH, Perleberg  
-Datum: 14.05.2026  
+Metallbau Teschner GmbH
+Wittenberger Chaussee 8, 19348 Perleberg
+Telefon 03876 61 22 84, info@metallbau-teschner.example
+
+Angebot Nr. 2026-0341
+Perleberg, den 14.05.2026
+
+Frau Beate Willer (für Frau Irmgard Pahl)
+Lindenstraße 7, 19322 Wittenberge
+
 Objekt: Am Krähenberg 12, 19322 Wittenberge
+Angebot gültig bis: 14.09.2026
 
 ## Leistungsbeschreibung
 

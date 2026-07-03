@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 27 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip) |
 
@@ -24,13 +24,34 @@ Marlies Thormählen, 59, ist seit dem 14.04.2026 verwitwet. Ihr Ehemann Hinnerk 
 
 Die Akte enthält Rentenbescheid, Einkommensunterlagen, Betriebsrentenmitteilung, Krankenkassenmitteilung, Arbeitgeberbescheinigung, Lohnabrechnungswerte, Kontoauszug, eine eigene Berechnung und einen Widerspruchsentwurf. Der Fall zwingt zur Trennung von Sterbevierteljahr, großer Witwenrente, Einkommensanrechnung, pauschaler Nettoermittlung, KVdR-Abzügen und Kontenklärung.
 
+## Aktenstruktur
+
+```
+rentenrecht-witwenrente-einkommensanrechnung-luebeck/
+├── 01_mandatsnotiz_fristsache.md              # Erstgespräch, Frist, Beteiligte, Beratungsziel
+├── 02_drv_bescheid_witwenrente.md             # DRV-Bewilligungsbescheid mit Berechnung und Rechtsbehelfsbelehrung
+├── 03_einkommen_und_betriebsrente.md          # Vermerk zur Einkommenslage: Lohn, Betriebsrente, Sofortrente
+├── 04_kvdr_und_beitragsabzug.md               # Krankenkassenmitteilung zur KVdR und Beitragsdifferenz
+├── 05_widerspruch_entwurf.md                  # Ausformulierter Widerspruch gegen Anrechnung und Kontenlücke
+├── 06_berechnungsmatrix_witwenrente.csv       # Monatswerte, Anrechnungsbetrag, Zahlbetrag, Prüfvermerke
+├── 07_daenemark_kontenklaerung.md             # Dänische Nachweise und Antrag auf zwischenstaatliche Kontenklärung
+├── 08_arbeitgeberbescheinigung_und_lohnabrechnung.md  # Entgeltbescheinigung mit Zulagen und Juni-Lohnabrechnung
+├── 09_email_betriebsrente_nachfrage.eml       # HansePort-Antwort zur Witwenversorgung des Verstorbenen
+├── 10_kontoauszug_und_fragenliste.txt         # Kontoumsätze und offene Mandantenfragen
+├── 11_hzvk_betriebsrentenmitteilung.md        # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
+├── 12_hl_leben_leistungsmitteilung.md         # Versichererbestätigung der privaten Sofortrente
+├── README.md                                  # Kurzbild, Struktur und Bearbeitungsziel
+├── gesamt-pdf/                                # Konsolidierte Lesefassung der Akte
+└── rubric.yaml                                # Prüfkriterien für die Bearbeitung
+```
+
 ## Aktenstücke
 
 | Datei | Inhalt |
 | --- | --- |
 | `01_mandatsnotiz_fristsache.md` | Erstgespräch, Frist, Beteiligte, Beratungsziel |
 | `02_drv_bescheid_witwenrente.md` | Bewilligungsbescheid mit Rentenbeginn, Zahlbetrag und Berechnung |
-| `03_einkommen_und_betriebsrente.md` | Lohn, Betriebsrente, private Sofortrente, Pauschalnetto |
+| `03_einkommen_und_betriebsrente.md` | Vermerk zu Lohn, Betriebsrente, privater Sofortrente, Pauschalnetto |
 | `04_kvdr_und_beitragsabzug.md` | Krankenkasse, Kranken- und Pflegeversicherungsbeiträge |
 | `05_widerspruch_entwurf.md` | Widerspruch gegen Einkommensanrechnung und Kontenlücken |
 | `06_berechnungsmatrix_witwenrente.csv` | Monatswerte, Freibetrag, Anrechnungsbetrag, Zahlbetrag |
@@ -38,6 +59,8 @@ Die Akte enthält Rentenbescheid, Einkommensunterlagen, Betriebsrentenmitteilung
 | `08_arbeitgeberbescheinigung_und_lohnabrechnung.md` | Arbeitgeberbescheinigung, Schichtzulagen und Lohnabrechnungswerte |
 | `09_email_betriebsrente_nachfrage.eml` | Nachfrage zur Zusatzversorgung und zum Zahlbeginn |
 | `10_kontoauszug_und_fragenliste.txt` | Kontoauszugsausschnitt und Mandantenfragen |
+| `11_hzvk_betriebsrentenmitteilung.md` | Betriebsrentenmitteilung der Zusatzversorgungskasse |
+| `12_hl_leben_leistungsmitteilung.md` | Leistungsmitteilung des privaten Versicherers |
 
 ## Bearbeitungsziel
 

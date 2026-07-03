@@ -1,8 +1,21 @@
 # Antrag der Universitätsklinik Münster
 
-Klinik für Hämatologie und Onkologie  
-Prof. Dr. Mira Ebbinghaus, Oberärztin Sarkomzentrum  
-Datum: 04.06.2026
+Universitätsklinikum Münster
+Klinik für Hämatologie und Onkologie, Sarkomzentrum
+Albert-Schweitzer-Campus 1, 48149 Münster
+Telefon 0251 83-4 77 51
+
+Prof. Dr. med. Mira Ebbinghaus, Oberärztin Sarkomzentrum
+
+Münster, den 04.06.2026
+
+An die
+Vitalis BKK
+Leistungszentrum Arzneimittel
+Rheinlanddamm 199
+44139 Dortmund
+
+**Antrag auf Kostenübernahme für Lunazimerab; Versicherter Gregor Lütke, geboren am 22.11.1979, Versichertennummer V-338-529-114**
 
 ## Antrag auf Kostenübernahme
 
@@ -25,5 +38,10 @@ Aus onkologischer Sicht besteht eine lebensbedrohliche Erkrankung mit kurzfristi
 
 Die vorliegenden Daten zu Lunazimerab zeigen bei einer Teilgruppe der Patienten mit vergleichbarer molekularer Signatur relevante Remissionen und eine Verlängerung des progressionsfreien Überlebens. Beim Patienten liegt die Zielstruktur LZ-4 nach immunhistochemischer Untersuchung hoch exprimiert vor.
 
-Wir bitten wegen des geplanten Therapiebeginns am 11.07.2026 um Entscheidung bis 05.07.2026.
+Wir bitten wegen des geplanten Therapiebeginns am 11.07.2026 um Entscheidung bis zum 05.07.2026; der Hersteller reserviert die erste Dosis nur bis zu diesem Tag. Den Kostenvoranschlag unserer Klinikapotheke reichen wir nach, sobald er vorliegt.
+
+Mit freundlichen Grüßen
+
+Prof. Dr. med. Mira Ebbinghaus
+Oberärztin Sarkomzentrum
 

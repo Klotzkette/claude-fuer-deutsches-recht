@@ -2,7 +2,9 @@ name: familienrecht-unterhalt-zugewinn-bad-nauheim
 description: Akte Neumann zu Kindesunterhalt, Trennungsunterhalt, Wohnwert, Auskunft und Zugewinn mit gemischten Unterlagen.
 checks:
   - erkennt fehlende Einkommens- und Vermögensbelege ohne Ergebnis zu erfinden
-  - trennt Kindesunterhalt, Mehrbedarf, Trennungsunterhalt und Zugewinn sauber
+  - trennt Kindesunterhalt, Mehrbedarf, Sonderbedarf, Trennungsunterhalt und Zugewinn sauber
   - ordnet Betreuungstatsachen, Hauslasten und Wohnwert nachvollziehbar ein
-  - behandelt Nebengewerbe, Bonus, Depotbewegung und behauptetes Elterndarlehen als Aufklärungspunkte
-  - formuliert nächste Schritte als Auskunfts- und Belegfahrplan
+  - behandelt Nebengewerbe, Bonusmitteilung, Depotverkauf vom 06.06.2026 und behauptetes Elterndarlehen als Aufklärungspunkte
+  - erkennt die Diskrepanz zwischen Fünf-Monats-Durchschnitt (Stück 04) und Einzelabrechnung Mai (Stück 14) und bildet einen belastbaren Durchschnitt statt eines Einzelmonats
+  - nutzt das Auskunftsverlangen vom 27.05.2026 (Stück 13) und die unvollständige Antwort vom 10.06.2026 für Verzugs- und Verfahrensüberlegungen
+  - formuliert nächste Schritte als Auskunfts- und Belegfahrplan vor den Sommerferien

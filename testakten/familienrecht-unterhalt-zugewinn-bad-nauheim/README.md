@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 42 KB) | PDF | [`gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf`](gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 48 KB) | PDF | [`gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf`](gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-familienrecht-unterhalt-zugewinn-bad-nauheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-unterhalt-zugewinn-bad-nauheim-einzelpdfs.zip) |
 
@@ -38,6 +38,8 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 | 10 | `10_bankbewegungen_und_barabhebungen.md` | auffällige Bewegungen, Umbuchungen, Barabhebungen |
 | 11 | `11_korrespondenz_gegenseite_auskunft.md` | Auskunftsverlangen, Reaktionen, fehlende Belege |
 | 12 | `12_fristsachen_und_unterlagenliste.md` | Fristenblatt, fehlende Dokumente, nächste Schritte |
+| 13 | `13_auskunftsverlangen_anwaltsschreiben_27-05-2026.md` | Auskunftsverlangen der früheren Anwältin Feldmann mit Belegliste und Frist |
+| 14 | `14_verdienstabrechnung_elena_mai_2026.md` | Entgeltabrechnung des MVZ Wetterau für Mai 2026 als Abdruck |
 
 ## Datenanhänge
 
@@ -48,6 +50,45 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 | `csv/vermoegenswerte_stichtage.csv` | Vermögenspositionen Anfangs- und Endstichtag |
 | `emails/2026-06-02_elena_an_kanzlei_unterlagen.eml` | Mandantin übersendet Unterlagen und Schilderung |
 | `emails/2026-06-10_gegenseite_auskunft_unvollstaendig.eml` | Gegenseite reagiert lückenhaft auf Auskunft |
+| `docx/auskunfts_und_beleganforderung_neumann_entwurf.docx` | Entwurf der neuen Beleganforderung an die Gegenseite |
+| `docx/mandantenbrief_unterlagenstand_neumann.docx` | Mandantenbrief zum Unterlagenstand |
+| `xlsx/rohdaten_unterhalt_zugewinn_neumann.xlsx` | Rohdaten zu Einkommen, Kindern und Stichtagswerten |
+
+## Aktenstruktur
+
+```text
+familienrecht-unterhalt-zugewinn-bad-nauheim/
+├── 01_mandatsnotiz_erstgespraech.md            Erstgespräch: Trennung, Ziele, Fristlage
+├── 02_trennungs_und_betreuungschronik.md       Betreuungsalltag und Ereignisliste seit Februar 2026
+├── 03_kinderdaten_mehrbedarf_sonderbedarf.md   Kinder, laufende Kosten, Einmalpositionen
+├── 04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.md   Gehalt, Pauschalen, Nebentätigkeit Elena
+├── 05_einkommen_martin_gehalt_bonus_nebenerwerb.md         Gehalt, Bonusstreit, Firmenwagen Martin
+├── 06_selbststaendigkeit_martin_konten_und_rechnungen.md   Ingenieurbüro MN: Rechnungen, offene Belege
+├── 07_wohnwert_familienhaus_lasten_instandhaltung.md       Haus Hainerweg 18: Darlehen, Lasten, Nutzung
+├── 08_vermoegen_anfangsvermoegen_und_zuwendungen.md        Anfangsvermögen, Tantengeld, Elterndarlehen
+├── 09_vermoegen_endvermoegen_depot_lebensversicherung.md   Endvermögensrohdaten beider Seiten
+├── 10_bankbewegungen_und_barabhebungen.md      Aufzuklärende Kontobewegungen März bis Juni 2026
+├── 11_korrespondenz_gegenseite_auskunft.md     Auskunftsverlangen und lückenhafte Antwort
+├── 12_fristsachen_und_unterlagenliste.md       Fristenblatt und fehlende Unterlagen je Seite
+├── 13_auskunftsverlangen_anwaltsschreiben_27-05-2026.md    Schreiben RAin Feldmann vom 27.05.2026
+├── 14_verdienstabrechnung_elena_mai_2026.md    Entgeltabrechnung MVZ Wetterau Mai 2026
+├── csv/
+│   ├── einkommen_2025_2026.csv                 Monatswerte Gehalt, Bonus, Nebentätigkeiten
+│   ├── kinder_mehrbedarf_2026.csv              Kinderkosten und offene Belege
+│   └── vermoegenswerte_stichtage.csv           Vermögenspositionen zu den Stichtagen
+├── docx/
+│   ├── auskunfts_und_beleganforderung_neumann_entwurf.docx  Entwurf Beleganforderung
+│   └── mandantenbrief_unterlagenstand_neumann.docx          Mandantenbrief Unterlagenstand
+├── emails/
+│   ├── 2026-06-02_elena_an_kanzlei_unterlagen.eml           Mandantin an Kanzlei
+│   └── 2026-06-10_gegenseite_auskunft_unvollstaendig.eml    RA Graubach an RAin Feldmann
+├── xlsx/
+│   └── rohdaten_unterhalt_zugewinn_neumann.xlsx             Rohdatentabelle
+├── README.md                                   Diese Übersicht
+├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
+└── gesamt-pdf/
+    └── familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf  Lesefassung der Gesamtakte
+```
 
 ## Zuordnung
 

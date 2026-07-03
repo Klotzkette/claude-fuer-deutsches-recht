@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf`](gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe-einzelpdfs.zip) |
 
@@ -33,9 +33,37 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `05_erbscheinantrag_fiona.md` | Antrag und Gegenargumente |
 | `06_stammbaum_matrix.csv` | Personen, Verwandtschaft, erbrechtliche Rolle |
 | `07_pruefvermerk_erbreihenfolge.md` | Chronologische Lösung der beiden Erbfälle |
-| `08_standesamt_registerauszuege.md` | Standesamtsauszüge zu Ehen, Scheidungen, Abstammung und Namenswechseln |
-| `09_email_nachlassgericht_rueckfrage.eml` | Nachlassgerichtliche Rückfrage zu Personenstand und Antragsfassung |
+| `08_standesamt_registerauszuege.md` | Standesamtliche Registerauskunft zu Ehen, Scheidungen, Abstammung und Namensführung |
+| `09_email_nachlassgericht_rueckfrage.eml` | Nachlassgerichtliche Rückfrage zu Personenstand und Antragsfassung (4 VI 312/26) |
 | `10_familienchat_auszug.txt` | Familiennachrichten mit tatsächlichen Hinweisen zu Beziehungen und Nachlassbesitz |
+| `11_testament_armin_beate_1994_abschrift.md` | Gemeinschaftliches Testament 1994 mit Schlusserbenklausel und Eröffnungsvermerk |
+| `12_testament_armin_2014_abschrift.md` | Testament Armins von 2014 mit Zuwendungen an Dana und Fiona |
+| `13_testament_clemens_2018_abschrift.md` | Testament Clemens' von 2018: Fiona Alleinerbin, Ausschluss Danas |
+| `14_sterbeurkunden_abschriften.md` | Sterbeurkunden beider Erblasser mit urkundlicher Reihenfolge der Erbfälle |
+
+## Aktenstruktur
+
+```text
+erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe/
+├── 01_familienstammbaum_und_zeitstrahl.md      Personen, Ehen, Scheidungen, Todesfälle im Zeitstrahl
+├── 02_testamente_und_scheidungen.md            Überblick über alle Verfügungen und Scheidungsfolgen
+├── 03_nachlass_armin.md                        Vermögen Armins, Erbscheinlage, Ehe mit Fiona
+├── 04_nachlass_clemens.md                      Vermögen Clemens', Tochter Fiona, frühere Ehe mit Dana
+├── 05_erbscheinantrag_fiona.md                 Antrag Fionas, Gegenargumente von Beate und Dana
+├── 06_stammbaum_matrix.csv                     Statusmatrix: Person, Verwandtschaft, mögliche Rolle
+├── 07_pruefvermerk_erbreihenfolge.md           Kanzleivermerk zur chronologischen Lösung beider Erbfälle
+├── 08_standesamt_registerauszuege.md           Registerauskunft des Standesamts Karlsruhe an das Nachlassgericht
+├── 09_email_nachlassgericht_rueckfrage.eml     Rückfrage des AG Karlsruhe zum Erbscheinantrag
+├── 10_familienchat_auszug.txt                  Messenger-Export: Unterlagenbesitz und Positionen der Beteiligten
+├── 11_testament_armin_beate_1994_abschrift.md  Gemeinschaftliches Testament 1994 (Abschrift, eröffnet)
+├── 12_testament_armin_2014_abschrift.md        Testament 2014 (Abschrift, eröffnet, Auslegungsfragen)
+├── 13_testament_clemens_2018_abschrift.md      Testament 2018 aus amtlicher Verwahrung (Abschrift)
+├── 14_sterbeurkunden_abschriften.md            Sterbeurkunden Armin (14.05.2026) und Clemens (02.06.2026)
+├── README.md                                   Diese Übersicht
+├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
+└── gesamt-pdf/
+    └── erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf  Lesefassung der Gesamtakte
+```
 
 ## Bearbeitungsziel
 

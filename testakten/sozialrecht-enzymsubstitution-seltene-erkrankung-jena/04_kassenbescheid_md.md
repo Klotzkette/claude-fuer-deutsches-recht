@@ -1,22 +1,54 @@
 # MD-Stellungnahme und Kassenbescheid
 
-## Medizinischer Dienst
+## Gutachtliche Stellungnahme des Medizinischen Dienstes
 
-Gutachten nach Aktenlage vom 13.06.2026.
+Medizinischer Dienst Thüringen
+Standort Jena, Richard-Wagner-Straße 2a, 07743 Jena
+Gutachten nach Aktenlage vom 13.06.2026
+Gutachter: Dr. med. Holger Zeuner, Facharzt für Innere Medizin, Sozialmedizin
+Vorgangsnummer: MDT-J-2026-31842
 
-Die Erkrankung ist selten und schwerwiegend. Die beantragte Enzymsubstitution ist jedoch für die konkrete genetische Unterform nicht zugelassen. Die vorgelegte Fallserie umfasst nur fünf Jugendliche und erlaubt keine sichere Aussage zur Wirksamkeit. Die Datenlage ist unzureichend. Eine lebensbedrohliche Akutsituation liegt nicht vor. Die Weiterführung symptomatischer Therapie ist möglich.
+Auftrag der SaalePlus Krankenkasse vom 05.06.2026: Prüfung der beantragten Kostenübernahme einer Enzymsubstitution mit Velaglucase-Nord bei der Versicherten Samira Wehner, geboren am 19.08.2008.
 
-Empfehlung: Ablehnung.
+Die Erkrankung ist selten und schwerwiegend; das wird nicht in Zweifel gezogen. Die beantragte Enzymsubstitution ist jedoch für die konkrete genetische Unterform nicht zugelassen. Die vorgelegte Fallserie VELO-Teen umfasst lediglich fünf Jugendliche und erlaubt keine hinreichend sichere Aussage zur Wirksamkeit bei der hier vorliegenden Variante. Die Datenlage ist damit unzureichend im Sinne des allgemein anerkannten Standes der medizinischen Erkenntnisse. Eine lebensbedrohliche oder regelmäßig tödlich verlaufende Akutsituation liegt nach den Unterlagen nicht vor. Die Weiterführung der symptomatischen Therapie einschließlich Physiotherapie, Ergotherapie und Schmerztherapie ist möglich und zumutbar.
+
+Empfehlung: Ablehnung der Kostenübernahme. Bei wesentlicher Befundänderung wird eine erneute Vorlage angeregt.
+
+gez. Dr. Zeuner
 
 ## Bescheid der SaalePlus Krankenkasse
 
-Datum: 19.06.2026.
+SaalePlus Krankenkasse
+Leistungsbereich Arznei- und Hilfsmittel
+Spitzweidenweg 29, 07743 Jena
+Servicetelefon 03641 88 44-0
 
-Die Kostenübernahme für Velaglucase-Nord wird abgelehnt. Die beantragte Anwendung liegt außerhalb des zugelassenen Anwendungsgebiets. Ein Anspruch auf Arzneimittelversorgung besteht nur, wenn Qualität und Wirksamkeit dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechen. Dies ist nach der MD-Stellungnahme nicht belegt.
+Aktenzeichen: AM-2026-044519
+Versichertennummer: T582419307
 
-Die Krankenkasse verweist außerdem auf die hohen Kosten von etwa 486.000 EUR jährlich. Eine sechsmonatige Erprobung könne nicht zulasten der Solidargemeinschaft erfolgen, solange der Nutzen ungesichert sei.
+Jena, den 19.06.2026
 
-## Schwachpunkte für die Bearbeitung
+Frau und Herrn
+Katrin und Robert Wehner
+als gesetzliche Vertreter der Samira Wehner
+Ziegesarstraße 24
+07747 Jena
 
-Die Ablehnung setzt sich nicht damit auseinander, ob die neurologische Verschlechterung irreversibel sein kann. Sie prüft nicht, ob eine befristete Bewilligung mit Verlaufsparametern ein milderes Mittel gegenüber vollständiger Ablehnung wäre. Die persönliche Situation einer Minderjährigen in Ausbildung und Schule wird nur am Rand erwähnt.
+**Ihr Antrag auf Kostenübernahme des Arzneimittels Velaglucase-Nord vom 03.06.2026**
 
+Sehr geehrte Frau Wehner, sehr geehrter Herr Wehner,
+
+die Kostenübernahme für das Arzneimittel Velaglucase-Nord lehnen wir ab.
+
+Die beantragte Anwendung liegt außerhalb des zugelassenen Anwendungsgebiets. Ein Anspruch auf Arzneimittelversorgung besteht nur, wenn Qualität und Wirksamkeit dem allgemein anerkannten Stand der medizinischen Erkenntnisse entsprechen. Dies ist nach der Stellungnahme des Medizinischen Dienstes vom 13.06.2026, die wir Ihnen in Kopie beifügen, nicht belegt. Die vorgelegte Fallserie mit fünf Jugendlichen genügt hierfür nicht.
+
+Wir weisen ergänzend darauf hin, dass die beantragte Behandlung Kosten von etwa 486.000 EUR jährlich verursachen würde. Eine sechsmonatige Erprobung kann nicht zulasten der Solidargemeinschaft erfolgen, solange der Nutzen nicht gesichert ist. Die vertragsärztliche Versorgung Ihrer Tochter, insbesondere die symptomatische Therapie, bleibt selbstverständlich gewährleistet.
+
+## Rechtsbehelfsbelehrung
+
+Gegen diesen Bescheid können Sie innerhalb eines Monats nach Bekanntgabe Widerspruch erheben. Der Widerspruch ist schriftlich oder zur Niederschrift bei der SaalePlus Krankenkasse, Spitzweidenweg 29, 07743 Jena, einzulegen.
+
+Mit freundlichen Grüßen
+
+SaalePlus Krankenkasse
+Leistungsbereich Arznei- und Hilfsmittel

@@ -1,9 +1,12 @@
 # Kostenvoranschlag der Krankenhausapotheke
 
-Universitätsklinikum Münster  
-Apotheke und Arzneimittelherstellung  
-Vorgang: Gregor Lütke, Geburtsdatum 03.02.1980  
-Erstellt am: 21.06.2026
+Universitätsklinikum Münster
+Apotheke und Arzneimittelherstellung
+Albert-Schweitzer-Campus 1, Gebäude A12, 48149 Münster
+Telefon 0251 83-4 80 20
+
+Vorgang: Gregor Lütke, geboren am 22.11.1979, Fallnummer UKM-2026-448 517
+Erstellt am: 21.06.2026, auf Anforderung des Sarkomzentrums (Prof. Dr. Ebbinghaus)
 
 ## Arzneimittel
 
@@ -19,7 +22,7 @@ Lunazimerab 500 mg Infusionskonzentrat, Sonderbeschaffung über Herstellerprogra
 | Begleitmedikation und Notfallset | 1 Gabe | 1.265,00 EUR | 1.265,00 EUR |
 | Summe erste Gabe |  |  | 511.665,00 EUR |
 
-Für den beantragten Behandlungszyklus sind drei Gaben im Abstand von jeweils 28 Tagen vorgesehen. Die Klinik kalkuliert für drei Gaben einschließlich Logistik und Aufbereitung 1.534.995,00 EUR.
+Für den beantragten Behandlungszyklus sind drei Gaben im Abstand von jeweils sechs Wochen vorgesehen (geplant 11.07.2026, 22.08.2026 und 03.10.2026). Die Apotheke kalkuliert für drei Gaben einschließlich Logistik und Aufbereitung 1.534.995,00 EUR.
 
 ## Liefer- und Verfallsrisiko
 

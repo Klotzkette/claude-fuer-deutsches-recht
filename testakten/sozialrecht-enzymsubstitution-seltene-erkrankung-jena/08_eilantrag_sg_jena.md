@@ -1,24 +1,54 @@
 # Eilantrag Sozialgericht Jena
 
-## Antrag
+Kanzlei Reinbold & Casparius Rechtsanwälte
+Löbdergraben 11a, 07743 Jena
+Rechtsanwältin Dr. Friederike Reinbold, Fachanwältin für Sozialrecht
 
-Die Antragsgegnerin wird im Wege der einstweiligen Anordnung verpflichtet, der Antragstellerin Samira Wehner vorläufig für sechs Monate die Versorgung mit Velaglucase-Nord nach ärztlicher Verordnung des Universitätsklinikums Jena zu gewähren.
+An das
+Sozialgericht Jena
 
-Hilfsweise wird beantragt, die Antragsgegnerin zu verpflichten, binnen sieben Tagen eine persönliche Begutachtung durch eine fachärztlich ausgewiesene Stoffwechselmedizin zu veranlassen und bis zur Entscheidung eine vorläufige Zusage für den Therapiebeginn zu erteilen.
+Entwurf vom 02.07.2026, Az. 2026-118-WE/re — Einreichung per beA nach Freigabe
 
-## Anordnungsanspruch
+**Antrag auf Erlass einer einstweiligen Anordnung nach § 86b Abs. 2 SGG**
 
-Die Antragstellerin leidet an einer seltenen, fortschreitenden Erkrankung mit neurologischer Beteiligung. Die fachbehandelnde Klinik beschreibt eine drohende irreversible Verschlechterung. Der Antrag ist auf eine befristete, kontrollierte Therapie gerichtet, nicht auf eine unkontrollierte Dauerleistung.
+der minderjährigen Samira Wehner, geboren am 19.08.2008, Ziegesarstraße 24, 07747 Jena, gesetzlich vertreten durch ihre Eltern Katrin und Robert Wehner, ebenda,
 
-## Anordnungsgrund
+— Antragstellerin —
 
-Die Verschlechterung zeigt sich aktuell im Schulbesuch, Gangbild, Feinmotorik und Schmerzverlauf. Eine Entscheidung in der Hauptsache käme zu spät, wenn sich die neurologischen Schäden bis dahin verfestigen. Die Eltern können die Arzneimittelkosten nicht vorfinanzieren.
+Verfahrensbevollmächtigte: Rechtsanwältin Dr. Friederike Reinbold, Löbdergraben 11a, 07743 Jena
 
-## Anlagen
+gegen
 
-1. Klinikbericht Prof. Merten.
-2. Genetischer Befund.
-3. Symptomtagebuch.
-4. Stellungnahme der Schule.
-5. MD-Gutachten und Ablehnungsbescheid.
+die SaalePlus Krankenkasse, Spitzweidenweg 29, 07743 Jena,
 
+— Antragsgegnerin —
+
+wegen Versorgung mit dem Arzneimittel Velaglucase-Nord.
+
+## 1 Anträge
+
+1.1 Die Antragsgegnerin wird im Wege der einstweiligen Anordnung verpflichtet, die Antragstellerin vorläufig für sechs Monate mit dem Arzneimittel Velaglucase-Nord nach ärztlicher Verordnung des Universitätsklinikums Jena zu versorgen.
+
+1.2 Hilfsweise wird beantragt, die Antragsgegnerin zu verpflichten, binnen sieben Tagen eine persönliche Begutachtung durch eine fachärztlich für Stoffwechselerkrankungen des Kindes- und Jugendalters ausgewiesene Person zu veranlassen und bis zur Entscheidung eine vorläufige Kostenzusage für den Therapiebeginn zu erteilen.
+
+## 2 Anordnungsanspruch
+
+Die Antragstellerin leidet an einer genetisch gesicherten, seltenen, fortschreitenden lysosomalen Speichererkrankung mit neurologischer Beteiligung. Die fachbehandelnde Universitätsklinik beschreibt eine drohende irreversible Verschlechterung von Feinmotorik, Kognition und Gangbild; die Messwerte der Neuropädiatrie belegen die Progression seit Oktober 2025. Für die exakte genetische Unterform besteht keine zugelassene Therapie; das beantragte Arzneimittel ist für eine eng verwandte Unterform zugelassen, die biochemische Zielstruktur ist vergleichbar, und die Fallserie VELO-Teen dokumentiert eine Stabilisierung bei fünf Jugendlichen über zwölf Monate. Der Antrag ist auf eine befristete, anhand objektiver Verlaufsparameter kontrollierte Therapie gerichtet, nicht auf eine unkontrollierte Dauerleistung.
+
+## 3 Anordnungsgrund
+
+Die Verschlechterung zeigt sich aktuell und fortlaufend in Schulbesuch, Gangbild, Feinmotorik und Schmerzverlauf; auf das Symptomtagebuch und die Stellungnahme der Schule wird Bezug genommen. Die Klinik empfiehlt den Therapiebeginn Anfang August 2026. Eine Entscheidung in der Hauptsache käme zu spät, wenn sich die neurologischen Schäden bis dahin verfestigen. Die Eltern — eine Medizinische Fachangestellte und ein Busfahrer — können Arzneimittelkosten von 40.500 EUR je Behandlungsmonat offensichtlich nicht vorfinanzieren.
+
+## 4 Glaubhaftmachung und Anlagen
+
+1. Antrag und Klinikbericht Prof. Dr. Merten vom 03.06.2026.
+2. Molekulargenetischer Befund vom 14.04.2026.
+3. Neuropädiatrischer Verlaufsbefund vom 22.05.2026.
+4. Symptomtagebuch der Eltern.
+5. Stellungnahme des Saaletal-Gymnasiums vom 18.06.2026.
+6. MD-Stellungnahme vom 13.06.2026 und Bescheid vom 19.06.2026.
+7. Dosis- und Kostenplan der Spezialambulanz vom 26.06.2026.
+8. Versicherung an Eides statt der Eltern zur Einkommenssituation.
+
+Dr. Friederike Reinbold
+Rechtsanwältin

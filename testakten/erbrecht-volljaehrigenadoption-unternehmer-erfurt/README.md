@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf`](gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt-einzelpdfs.zip) |
 
@@ -33,9 +33,37 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Prokur
 | `05_erbschein_streit.md` | Erbscheinanträge und Gegenposition |
 | `06_quoten_und_vermoegen.csv` | Vermögen, Quotenvarianten, Bewertungsrisiko |
 | `07_vergleichsvorschlag_pflichtteil.md` | Vergleich zu Auskunft, Abschlag und Unternehmensfortführung |
-| `08_familiengericht_adoptionsakte_auszug.md` | Auszug aus der Adoptionsakte mit Anhörung und Beziehungsdarstellung |
-| `09_email_steuerberater_gesellschaft.eml` | Steuerberatermail zu GmbH-Anteilen, Ausschüttungen und Nachfolgedruck |
+| `08_familiengericht_adoptionsakte_auszug.md` | Auszug aus der Adoptionsakte des AG Erfurt (36 F 1874/24) mit Anhörungen und Beschlussformel |
+| `09_email_steuerberater_gesellschaft.eml` | Steuerberatermail zu GmbH-Anteilen, Ausschüttung 2025 und Bewertungsspanne |
 | `10_bank_und_beteiligungsuebersicht.txt` | Bank- und Beteiligungsübersicht mit Bewertungs- und Liquiditätsfragen |
+| `11_eroeffnungsniederschrift_nachlassgericht.md` | Testamentseröffnung beim AG Erfurt (4 VI 388/26) und Hinweis auf den Erbscheinantrag |
+| `12_sterbeurkunde_abschrift.md` | Beglaubigte Abschrift der Sterbeurkunde des Standesamts Erfurt |
+| `13_kanzleischreiben_auskunft_wertermittlung.md` | Anwaltsschreiben: notarielles Nachlassverzeichnis und Unternehmensbewertung bis 31.07.2026 |
+| `14_gesellschaftsvertrag_auszug.md` | Auszug aus dem Gesellschaftsvertrag: Vinkulierung, Einziehung, Buchwertabfindung |
+
+## Aktenstruktur
+
+```text
+erbrecht-volljaehrigenadoption-unternehmer-erfurt/
+├── 01_mandatsnotiz_leibliche_tochter.md        Erstgespräch: Beteiligte, Konflikt, Mandatsziel
+├── 02_adoptionsbeschluss_und_beziehung.md      Volljährigenadoption 2024 und Beziehungsdarstellung
+├── 03_testament_und_gesellschaft.md            Testament 2025, GmbH-Anteile, Unternehmenszahlen
+├── 04_pflichtteil_und_auskunft.md              Briefwechsel Nele/Jonas und vorläufiger Nachlass
+├── 05_erbschein_streit.md                      Erbscheinantrag, Einwendungen, gerichtlicher Hinweis
+├── 06_quoten_und_vermoegen.csv                 Quotenvarianten mit und ohne Adoptionswirkung
+├── 07_vergleichsvorschlag_pflichtteil.md       Vergleichslinie: Auskunft, Gutachter, Abschlag
+├── 08_familiengericht_adoptionsakte_auszug.md  Akteneinsicht in die Adoptionsakte 36 F 1874/24
+├── 09_email_steuerberater_gesellschaft.eml     Steuerberater Hesse zu Anteilen, Ausschüttung, Wert
+├── 10_bank_und_beteiligungsuebersicht.txt      Konten, Depot, Beteiligung, Immobilien, offene Fragen
+├── 11_eroeffnungsniederschrift_nachlassgericht.md  Testamentseröffnung 4 VI 388/26
+├── 12_sterbeurkunde_abschrift.md               Sterbeurkunde S 897/2026 des Standesamts Erfurt
+├── 13_kanzleischreiben_auskunft_wertermittlung.md  Auskunftsverlangen der Kanzlei Dr. Weigand
+├── 14_gesellschaftsvertrag_auszug.md           Vinkulierung, Einziehung im Erbfall, Buchwertklausel
+├── README.md                                   Diese Übersicht
+├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
+└── gesamt-pdf/
+    └── erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf  Lesefassung der Gesamtakte
+```
 
 ## Bearbeitungsziel
 

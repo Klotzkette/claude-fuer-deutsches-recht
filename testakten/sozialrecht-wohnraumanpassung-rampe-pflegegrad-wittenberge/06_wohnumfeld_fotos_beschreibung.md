@@ -1,5 +1,7 @@
 # Wohnumfeldbeschreibung
 
+Vermerk der Kanzlei (Az. 2026-77-PA/ah) nach den Angaben und Fotos der Tochter, Stand 03.07.2026. Die Originalfotos liegen in der Handakte.
+
 ## Hauseingang
 
 Das Reihenhaus liegt an einer schmalen Nebenstraße. Der Gehweg ist uneben, aber kommunal befestigt. Vom Gartentor bis zur Haustür sind es 8,40 m. Direkt vor der Haustür befinden sich drei Betonstufen, je 16 cm hoch. Die Haustürschwelle ist zusätzlich 5 cm hoch. Links neben der Treppe ist ein schmaler Vorgartenstreifen, rechts die Hauswand.

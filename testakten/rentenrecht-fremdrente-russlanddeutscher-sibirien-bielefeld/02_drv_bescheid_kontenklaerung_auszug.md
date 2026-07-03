@@ -1,22 +1,53 @@
-# DRV Bescheid zur Kontenklärung, Auszug
+# Bescheid der Deutschen Rentenversicherung Westfalen zur Kontenklärung
 
-## 1. Bescheiddaten
+```
+Deutsche Rentenversicherung Westfalen
+Gartenstraße 194, 48147 Münster
+Telefon: 0251 238-0
 
-Deutsche Rentenversicherung Westfalen, Versicherungsnummer 59 140259 K 045. Bescheid vom 12.06.2026, Zeichen 3120-KL-58/2026. Betreff: Feststellung von Versicherungszeiten nach Kontenklärung und Vormerkung von Zeiten nach dem Fremdrentengesetz.
+Versicherungsnummer: 59 140259 K 045
+Zeichen: 3120-KL-58/2026
+Datum: 12.06.2026
 
-## 2. Vormerkung Herkunftsgebiet
+Herrn
+Eduard Klassen
+Am Pfarracker 23
+33611 Bielefeld
+```
 
-| Zeitraum | Tätigkeit laut Unterlagen | Entscheidung der DRV | Begründung im Bescheid |
+**Feststellung von Versicherungszeiten nach Kontenklärung; Vormerkung von Zeiten nach dem Fremdrentengesetz**
+
+Sehr geehrter Herr Klassen,
+
+auf Ihren Antrag auf Kontenklärung vom 03.11.2025 stellen wir die in Ihrem Versicherungskonto gespeicherten Zeiten bis zum 31.12.2019 verbindlich fest, soweit sie nicht nachfolgend als offen bezeichnet sind. Für die Zeiten im Herkunftsgebiet treffen wir folgende Entscheidungen:
+
+| Zeitraum | Tätigkeit laut Unterlagen | Entscheidung | Begründung |
 | --- | --- | --- | --- |
-| 01.09.1976 bis 30.06.1981 | Studium und Laborassistenz | keine Beitragszeit, teilweise Anrechnungszeit offen | Hochschulbescheinigung nicht vollständig übersetzt |
-| 01.07.1981 bis 31.12.1986 | Ingenieur im Kombinat SibChladProekt | Beitragszeit anerkannt | Arbeitsbuch und Archivbescheinigung deckungsgleich |
-| 01.01.1987 bis 31.08.1992 | Projektgruppe Kälteanlagen Sibirien | nur glaubhaft gemacht | Archivnummer und Tätigkeitsbezeichnung weichen ab |
+| 01.09.1976 bis 30.06.1981 | Studium und Laborassistenz, Technisches Institut Nowosibirsk | keine Beitragszeit; Anrechnungszeit bleibt offen | Hochschulbescheinigung nicht vollständig übersetzt |
+| 01.07.1981 bis 31.12.1986 | Ingenieur im Kombinat SibChladProekt | Beitragszeit nach dem FRG anerkannt (nachgewiesen) | Arbeitsbuch und Archivbescheinigung deckungsgleich |
+| 01.01.1987 bis 31.08.1992 | Projektgruppe Kälteanlagen Sibirien | Beitragszeit nur glaubhaft gemacht | Archivnummer und Tätigkeitsbezeichnung weichen voneinander ab |
 | 01.09.1992 bis 31.12.1994 | Eingliederung, Sprachkurs, Arbeitssuche | keine Beitragszeit | deutsche Nachweise fehlen |
 
-## 3. Streitige Bewertung
+Die Zeiten ab dem 01.12.1995 sind nach den Meldungen der deutschen Arbeitgeber vollständig gespeichert und nicht streitig.
 
-Die DRV ordnet die sowjetische Tätigkeit ab 1981 der Qualifikationsgruppe 3 und dem Wirtschaftsbereich allgemeine Industrie zu. Eine Einordnung als technische Fachkraft mit höherer Bewertungsgruppe werde nicht vorgenommen, weil die deutsche Anerkennung als Ingenieur nicht nachgewiesen sei. Der Mandant hält dem entgegen, dass die Tätigkeit tatsächlich ingenieurmäßig war und die Nichtanerkennung des Abschlusses in Deutschland nicht rückwirkend die Tätigkeit im Herkunftsgebiet entwerten dürfe.
+## Bewertung der Herkunftszeiten
 
-## 4. Hinweise der Behörde
+Die anerkannten und glaubhaft gemachten Beschäftigungszeiten ab dem 01.07.1981 werden der Qualifikationsgruppe 3 und dem Wirtschaftsbereich der allgemeinen Industrie zugeordnet. Eine Einordnung in eine höhere Qualifikationsgruppe als technische Fachkraft mit Hochschulabschluss nehmen wir nicht vor, weil die deutsche Anerkennung Ihres Abschlusses als Ingenieur nicht nachgewiesen ist. Für glaubhaft gemachte Zeiten werden die ermittelten Entgeltpunkte nur zu fünf Sechsteln angerechnet. Auf die Begrenzung der Entgeltpunkte für Berechtigte, die nach dem 6. Mai 1996 zugezogen sind beziehungsweise auf die für Ihre Zuzugsgruppe geltenden Begrenzungsregelungen der 1990er Jahre wird hingewiesen; die konkrete Auswirkung ergibt sich erst aus einer späteren Rentenberechnung.
 
-Der Bescheid verweist auf die Bewertung nach Tabellenwerten, die Kürzung glaubhaft gemachter Zeiten und die Begrenzung von Entgeltpunkten für bestimmte Zuzugsgruppen nach den Änderungen der 1990er Jahre. Die Behörde fordert bis 17.07.2026 eine geordnete Übersetzung des Arbeitsbuchs, eine Erläuterung der Archivsignaturen und eine Erklärung, ob in Russland oder Kasachstan Renten oder Erstattungen bezogen wurden.
+## Mitwirkung
+
+Wir bitten bis zum 17.07.2026 um Vorlage einer geordneten, beglaubigten Übersetzung des vollständigen Arbeitsbuchs, um eine Erläuterung der voneinander abweichenden Archivsignaturen sowie um Ihre Erklärung, ob Sie in der Russischen Föderation oder in Kasachstan Renten, Rentenanwartschaften oder Beitragserstattungen bezogen oder beantragt haben.
+
+## Rechtsbehelfsbelehrung
+
+Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden. Der Widerspruch ist schriftlich, in elektronischer Form mit qualifizierter elektronischer Signatur oder zur Niederschrift bei der Deutschen Rentenversicherung Westfalen, Gartenstraße 194, 48147 Münster, einzulegen.
+
+Mit freundlichen Grüßen
+
+Im Auftrag
+
+Brinkschulte
+
+Dieser Bescheid wurde maschinell erstellt und ist ohne Unterschrift gültig.
+
+Anlage: Versicherungsverlauf (Stand 12.06.2026)

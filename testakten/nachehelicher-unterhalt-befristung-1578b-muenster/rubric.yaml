@@ -48,3 +48,18 @@ checks:
     check_type: human_review
     description: "Ehebedingte Nachteile und Befristung sind fachlich tragfähig zu würdigen"
     note: "Fortwirkende ehebedingte Nachteile gegen freie Entscheidungen abgrenzen; Befristungszeitpunkt begründen"
+
+  - id: r08-vergleichsprotokoll-vorhanden
+    check_type: file_exists
+    description: "Protokollabschrift des Vergleichs vom 09.03.2021 liegt als eigenes Aktenstück vor"
+    path: "13_vergleichsprotokoll_2021_abschrift.md"
+
+  - id: r09-verdienstbescheinigung-vorhanden
+    check_type: file_exists
+    description: "Verdienstbescheinigung des Arbeitgebers liegt als eigenes Aktenstück vor"
+    path: "14_verdienstbescheinigung_vosskamp_2026.md"
+
+  - id: r10-titelauslegung
+    check_type: human_review
+    description: "Auslegung des Vergleichs anhand des Protokolls (Stück 13) statt bloßer Vermutung"
+    note: "Die protokollierte Erklärung zur nicht sicher absehbaren beruflichen Entwicklung der Berechtigten muss in die Auslegung (Varianten in Stück 07) einbezogen werden, ohne das Ergebnis vorwegzunehmen"

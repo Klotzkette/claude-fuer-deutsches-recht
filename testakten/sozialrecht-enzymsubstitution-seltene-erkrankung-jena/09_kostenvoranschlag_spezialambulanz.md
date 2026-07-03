@@ -1,36 +1,42 @@
 # Dosisplan und Kostenvermerk der Spezialambulanz
 
-Universitätsklinikum Jena  
-Zentrum für seltene Stoffwechselerkrankungen  
-Patient: Leonhard R., geboren 18.09.2016  
-Datum: 20.06.2026
+Universitätsklinikum Jena
+Zentrum für seltene Stoffwechselerkrankungen — Spezialambulanz
+Am Klinikum 1, 07747 Jena
+in Abstimmung mit der Klinikapotheke
 
-## Diagnose und Therapieziel
+Patientin: Samira Wehner, geboren am 19.08.2008
+Körpergewicht am 20.06.2026: 54 kg
+Erstellt am: 26.06.2026 auf Anforderung der Familie zur Vorlage bei Krankenkasse und Gericht
 
-Bei Leonhard liegt eine genetisch bestätigte lysosomale Speichererkrankung mit progredienter Muskel- und Atembeteiligung vor. Die Spezialambulanz beantragt eine Enzymsubstitution mit Virexidase alfa. Ziel ist nicht Heilung, sondern Stabilisierung der Atemmuskulatur, Erhalt des Schulbesuchs und Vermeidung weiterer stationärer Krisen.
+## Therapieziel
+
+Bei Samira liegt eine genetisch bestätigte lysosomale Speichererkrankung mit progredienter neurologischer Beteiligung vor (homozygote Variante c.884G>A im Gen LSN2). Beantragt ist eine Enzymsubstitution mit Velaglucase-Nord. Ziel ist nicht Heilung, sondern die Verlangsamung der neurologischen Progression, der Erhalt des Schulbesuchs und der Feinmotorik sowie die Vermeidung dauerhafter Pflegebedürftigkeit.
 
 ## Behandlungsplan
 
 | Woche | Maßnahme | Ort | Bemerkung |
 | --- | --- | --- | --- |
-| 27/2026 | Aufklärung, Labor, Antikörperstatus | Jena | vor erster Gabe |
-| 28/2026 | erste Infusion, 6 Stunden Monitoring | Tagesklinik | Notfallbereitschaft |
-| 29 bis 39/2026 | wöchentliche Infusion | Tagesklinik | Dosis nach Gewicht |
-| ab Woche 40/2026 | Heimtherapie prüfen | häuslich oder Tagesklinik | nur bei stabiler Verträglichkeit |
+| 32/2026 | Aufklärung, Labor, Antikörperstatus, Baseline-Testung (Gangtest, Nine-Hole-Peg-Test) | Spezialambulanz | vor erster Gabe |
+| 33/2026 | erste Infusion, vier Stunden Monitoring | Tagesklinik | Notfallbereitschaft |
+| ab 35/2026 | Infusion alle 14 Tage | Tagesklinik | Dosis gewichtsadaptiert |
+| 41/2026 | erste Zwischenauswertung | Spezialambulanz | Verlaufsparameter |
+| 06/2027 | Gesamtauswertung nach sechs Monaten | Spezialambulanz | Fortsetzung nur bei Stabilisierung |
 
 ## Kosten
 
 | Position | Intervall | Betrag |
 | --- | --- | ---: |
-| Virexidase alfa, gewichtsadaptierte Wochendosis | wöchentlich | 18.740,00 EUR |
-| Infusionsmaterial und Überwachung | wöchentlich | 690,00 EUR |
-| Labor und Antikörperkontrolle | monatlich | 820,00 EUR |
-| Atemphysiologische Verlaufskontrolle | quartalsweise | 410,00 EUR |
+| Velaglucase-Nord, gewichtsadaptierte Dosis | je Infusion (alle 14 Tage) | 39.610,00 EUR |
+| Infusionsmaterial, Aufbereitung und Überwachung | je Infusion | 890,00 EUR |
+| Labor, Antikörperkontrolle, Verlaufstestung | monatlich anteilig | umgerechnet je Infusion 250,00 EUR früher fällig |
 
-Die Jahrestherapiekosten werden auf 1.031.000,00 EUR geschätzt. Bei Gewichtszunahme kann der Betrag steigen.
+Je Infusionstermin ergeben sich 40.750,00 EUR; bei zwei Terminen im Monat kalkulieren wir gerundet 81.000,00 EUR monatlich und für den beantragten sechsmonatigen Therapieversuch 486.000,00 EUR. Bei Gewichtszunahme kann der Betrag steigen.
 
-## Klinische Begründung
+## Abbruch- und Fortsetzungskriterien
 
-Seit Januar 2026 verschlechterte sich die Belastbarkeit messbar. Der Sechs-Minuten-Gehtest fiel von 284 Metern auf 197 Meter. Die nächtliche Sättigung zeigte wiederholt Abfälle unter 90 Prozent. Ohne Therapieversuch drohen nach Einschätzung der Ambulanz weitere Atemwegsinfekte, mehr Schulfehlzeiten und eine frühere nichtinvasive Beatmung.
+Die Ambulanz schlägt vor, die Fortsetzung nach sechs Monaten von folgenden Parametern abhängig zu machen: Gangtest, Nine-Hole-Peg-Test, Schultage pro Woche, dokumentierte Schmerzepisoden, MRT-Verlauf. Bei Verschlechterung trotz Therapie in zwei aufeinanderfolgenden Auswertungen wird der Abbruch empfohlen.
 
-Die Ambulanz weist darauf hin, dass eine spätere Genehmigung den bis dahin eintretenden Funktionsverlust nicht sicher aufholt.
+## Hinweis der Ambulanz
+
+Seit März 2026 verschlechtern sich Feinmotorik und Gangsicherheit messbar (Nine-Hole-Peg-Test rechts von 26,1 auf 34,8 Sekunden). Die Ambulanz weist darauf hin, dass eine spätere Genehmigung den bis dahin eingetretenen Funktionsverlust nach aller Erfahrung nicht sicher aufholt. Der Hersteller bestätigt eine Lieferzeit von zehn Werktagen ab Bestellung; für einen Therapiebeginn Anfang August 2026 muss die Kostenfrage bis Mitte Juli geklärt sein.

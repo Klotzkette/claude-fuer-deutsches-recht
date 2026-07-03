@@ -1,6 +1,7 @@
 # Brief an Familie Tannenberg - Schulbegleitung für Lena
 
-**Rechtsanwalt Helge Holm - Sozialrecht - Forstweg 11, 24105 Kiel**
+**Kanzlei Holm · Petersen · Sönnichsen Rechtsanwälte mbB**
+**RA Lasse Holm · Fachanwalt für Sozialrecht · Holstenstraße 124 · 24103 Kiel**
 **Datum: 02. April 2026 - Az.: 2026/H-307**
 
 Sehr geehrte Frau Tannenberg, sehr geehrter Herr Tannenberg,
@@ -48,4 +49,4 @@ Wenn Sie Fragen haben, rufen Sie mich an. Ich melde mich, sobald die Versicherun
 
 Mit freundlichen Gruessen
 
-Helge Holm - Rechtsanwalt
+Lasse Holm - Rechtsanwalt, Fachanwalt für Sozialrecht

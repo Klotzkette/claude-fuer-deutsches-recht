@@ -9,10 +9,38 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 8 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig-einzelpdfs.zip) |
 
 Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
+
+Arbeitsakte zum Plugin `rentenpruefer`.
+
+## Kurzbild
+
+Jens Malchow, 54, Schichtleiter Wareneingang, ist seit Januar 2024 arbeitsunfähig: chronisches LWS-Syndrom nach Bandscheibenoperation, gesicherte Polyneuropathie mit Sturzereignissen, mittelgradige Depression. Die Reha attestiert sechs Stunden Leistungsvermögen für leichte sitzende Tätigkeiten, dokumentiert aber vier Therapieabbrüche wegen Schwindels, ohne sie in der Beurteilung zu verarbeiten, und beschreibt die Wegefähigkeit nur mit Klinikflur und Treppenhaus. Die DRV lehnt ab, der Widerspruchsbescheid behauptet eine Würdigung, die im Bericht nicht stattfindet. Die Klagefrist läuft bis zum 15.07.2026.
+
+## Aktenstruktur
+
+```
+rentenrecht-erwerbsminderung-reha-ablehnung-leipzig/
+├── README.md                              ← diese Datei
+├── 01_mandatsaufnahme.md                  ← Kanzleivermerk: Verlauf, Verfahrensstand, Klagefrist, Strategie
+├── 02_hausarzt_attest_widerspruch.md      ← kurzes Attest vom 30.04.2026 als Anlage zum Widerspruch
+├── 03_hausarzt_befundbericht.md           ← ausführlicher Befundbericht vom 11.06.2026 mit Medikation
+├── 04_neurologischer_befundbericht.md     ← NLG-Messung, Polyneuropathie, Sturzgefahr
+├── 05_reha_entlassungsbericht_auszug.md   ← Leistungsbild, dokumentierte Therapieabbrüche, Flur-Wegefähigkeit
+├── 06_drv_ablehnungsbescheid.md           ← Ablehnung vom 17.04.2026 mit Rechtsbehelfsbelehrung
+├── 07_widerspruch_mandant.md              ← selbst verfasster Widerspruch vom 04.05.2026
+├── 08_widerspruchsbescheid.md             ← Zurückweisung vom 12.06.2026, Zugangsvermerk 15.06.2026
+├── 09_arbeitgeberbescheinigung_taetigkeit.md ← Tätigkeitsprofil, gescheitertes BEM, kein leidensgerechter Platz
+├── 10_au_krankengeld_verlauf.csv          ← AU-, Krankengeld- und Verfahrenschronologie seit Januar 2024
+└── 11_klageentwurf.md                     ← Klageentwurf zum SG Leipzig mit Beweisanregungen
+```
+
+## Bearbeitungsziel
+
+Die Akte soll eine fristgerechte, substantiierte Klage hervorbringen, die die Beweislücken des Entlassungsberichts (unverarbeitete Therapieabbrüche, fehlende arbeitsmarktbezogene Wegefähigkeitsprüfung, fehlende Gesamtwürdigung) präzise benennt, die Diskrepanz zwischen Widerspruchsbescheid und Berichtsinhalt herausarbeitet und die gerichtliche Beweisaufnahme auf die quantitative Leistungsfähigkeit lenkt — ohne die hausärztliche Parteinähe zu überspielen.

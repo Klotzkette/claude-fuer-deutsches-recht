@@ -28,26 +28,35 @@ Die Krankenkasse lehnt den Antrag ab, weist auch den einfachen Widerspruch des V
 
 Aktenstand ist der 29.06.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 26.06.2026 zugestellt. Die Klagefrist läuft bis Montag, den 27.07.2026. Eine Klageschrift ist nur als separater Entwurf enthalten; sie ist noch nicht eingereicht.
 
-## Aktenstücke
+## Aktenstruktur
 
-| Nr. | Datei | Inhalt |
-| --- | --- | --- |
-| 01 | `01_mandatsnotiz_und_fristsache.md` | Erstgespräch, Fristen, Beteiligte, Anspruchsziel |
-| 02 | `02_ueberweisung_und_hilfsmittelverordnung.md` | Hausärztliche Überweisung, Verordnung, medizinischer Kern |
-| 03 | `03_facharztbericht_mobilitaet.md` | Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko |
-| 04 | `04_eigenschilderung_alltag_und_wege.md` | Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe |
-| 05 | `05_wohnungsumfeld_barrierefreiheit.md` | Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen |
-| 06 | `06_kostenvoranschlag_sanitaetshaus.md` | Technische Versorgung, Zubehör, Kosten, Alternativen |
-| 07 | `07_md_stellungnahme_ablehnungsempfehlung.md` | Medizinischer Dienst, Aktenlage, ablehnende Bewertung |
-| 08 | `08_bescheid_krankenkasse_ablehnung.md` | Ausgangsbescheid der Krankenkasse |
-| 09 | `09_privates_reha_gutachten.md` | Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest |
-| 10 | `10_widerspruch_versicherter_ohne_anwalt.md` | Einfacher, unscharfer Widerspruch des Versicherten |
-| 11 | `11_widerspruchsbescheid_krankenkasse.md` | Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist |
-| 12 | `12_klageschrift_entwurf_separat.md` | Nicht eingereichter Klageentwurf für das Sozialgericht |
-| 13 | `13_klageerwiderung_krankenkasse_entwurf.md` | Verteidigung der Krankenkasse im Klageverfahren |
-| 14 | `14_gerichtlicher_hinweis_und_beweisfragen.md` | Gerichtliche Hinweise, Beweisfragen, Vergleichsfenster |
-| 15 | `15_urteilsentwurf_zwei_varianten.md` | Stattgabe- und Abweisungsvariante mit Entscheidungsweichen |
-| 16 | `16_fristsachen_anlagen_und_pruefmatrix.md` | Anlagenverzeichnis, Fristenblatt, Arbeitsmatrix |
+```
+sozialrecht-elektrorollstuhl-koerner-oldenburg/
+├── README.md                                    <- diese Übersicht
+├── rubric.yaml                                  <- Prüfkriterien für die Bearbeitung
+├── 01_mandatsnotiz_und_fristsache.md            <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
+├── 02_ueberweisung_und_hilfsmittelverordnung.md <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
+├── 03_facharztbericht_mobilitaet.md             <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
+├── 04_eigenschilderung_alltag_und_wege.md       <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
+├── 05_wohnungsumfeld_barrierefreiheit.md        <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
+├── 06_kostenvoranschlag_sanitaetshaus.md        <- Technische Versorgung, Zubehör, Kosten, Alternativen
+├── 07_md_stellungnahme_ablehnungsempfehlung.md  <- Medizinischer Dienst, Aktenlage, ablehnende Bewertung
+├── 08_bescheid_krankenkasse_ablehnung.md        <- Ausgangsbescheid mit Rechtsbehelfsbelehrung
+├── 09_privates_reha_gutachten.md                <- Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest
+├── 10_widerspruch_versicherter_ohne_anwalt.md   <- Einfacher, unscharfer Widerspruch des Versicherten
+├── 11_widerspruchsbescheid_krankenkasse.md      <- Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist
+├── 12_klageschrift_entwurf_separat.md           <- Nicht eingereichter Klageentwurf für das Sozialgericht
+├── 13_klageerwiderung_krankenkasse_entwurf.md   <- Verteidigung der Krankenkasse im Klageverfahren
+├── 14_gerichtlicher_hinweis_und_beweisfragen.md <- Gerichtliche Hinweise, Beweisfragen, Vergleichsfenster
+├── 15_urteilsentwurf_zwei_varianten.md          <- Stattgabe- und Abweisungsvariante mit Entscheidungsweichen
+├── 16_fristsachen_anlagen_und_pruefmatrix.md    <- Anlagenverzeichnis, Fristenblatt, Arbeitsmatrix
+├── csv/
+│   ├── fristen_koerner.csv                      <- Fristen und Verfahrensstatus als Tabelle
+│   └── hilfsmittelvergleich.csv                 <- Funktionaler Vergleich der Hilfsmitteloptionen
+├── emails/
+│   └── 2026-06-27_tochter_an_kanzlei.eml        <- Tochter übersendet Unterlagen und schildert den Alltag
+└── gesamt-pdf/                                  <- konsolidierte Lesefassung als PDF
+```
 
 ## Bearbeitungsziel
 

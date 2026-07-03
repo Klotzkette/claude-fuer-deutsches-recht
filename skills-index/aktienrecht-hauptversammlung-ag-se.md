@@ -1,6 +1,6 @@
 # aktienrecht-hauptversammlung-ag-se
 
-**100 Skills** · Stand `v416.0.0`
+**100 Skills** · Stand `v417.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/aktienrecht-hauptversammlung-ag-se/README.md)

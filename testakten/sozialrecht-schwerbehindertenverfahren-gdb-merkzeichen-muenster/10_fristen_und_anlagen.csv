@@ -1,10 +1,16 @@
 Ereignis,Datum,Notiz
-Erhöhungsantrag,2026-03-04,GdB und Merkzeichen G
-Bescheid,2026-06-21,GdB 30 Merkzeichen abgelehnt
-Zugang,2026-06-25,Briefkasten
-Widerspruchsfrist,2026-07-25,ein Monat
+Erhöhungsantrag,2026-03-04,GdB-Erhöhung und Merkzeichen G beantragt
+Versorgungsärztliche Stellungnahme,2026-06-12,laut Akteneinsicht; nach Aktenlage
+Bescheid,2026-06-21,GdB bleibt 30; Merkzeichen G abgelehnt
+Zugang Bescheid,2026-06-25,Briefkasten; Umschlag in Handakte
+Mandatserteilung,2026-07-01,Erstgespräch und Vollmacht
+Widerspruch eingelegt,2026-07-03,vorab per Telefax; mit Akteneinsichtsantrag
+Widerspruchsfrist rechnerisch,2026-07-25,Samstag; Fristende daher 2026-07-27
+Widerspruchsfrist notiert,2026-07-27,Montag; Vorfrist 2026-07-13
 Hausarztbericht,2026-06-28,liegt vor
-Neurologie,2026-06-10,liegt vor
-Pneumologie,2026-05-18,liegt vor
+Neurologiebericht,2026-06-10,liegt vor
+Pneumologiebericht,2026-05-18,liegt vor
 Arbeitsplatznotiz,2026-06-27,liegt vor
-Akteneinsicht beantragen,2026-07-05,offen
+Orthopädiebericht,2026-07-08,liegt vor; nachgereicht am 2026-07-10
+Akteneinsicht gewährt,2026-07-14,Kopie versorgungsärztliche Stellungnahme erhalten
+Ergänzende Widerspruchsbegründung,2026-07-31,Wiedervorlage; nach Auswertung Akteneinsicht

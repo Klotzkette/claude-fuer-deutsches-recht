@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 24 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip) |
 
@@ -20,25 +20,27 @@ Arbeitsakte zu den Plugins `fachanwalt-sozialrecht`, `krankenkassenrecht-kranken
 
 ## Kurzbild
 
-Gregor Lütke, 46, hat ein metastasiertes alveoläres Weichteilsarkom. Die behandelnde Universitätsklinik Münster beantragt eine hochpreisige Antikörpertherapie mit dem Orphan Drug Lunazimerab. Die Kasse lehnt die Kostenübernahme ab: Jahrestherapiekosten etwa 1.500.000 EUR bei drei geplanten Dosen zu je 500.000 EUR, keine abschließende G-BA-Bewertung, nur Phase-II-Daten, Wirtschaftlichkeitsbedenken. Tumorboard und Behandler sehen eine realistische Verlängerung des progressionsfreien Überlebens um etwa zwei Jahre.
+Gregor Lütke, 46, hat ein metastasiertes alveoläres Weichteilsarkom. Die Universitätsklinik Münster beantragt eine hochpreisige Antikörpertherapie mit dem Orphan Drug Lunazimerab: drei Dosen zu je 500.000 EUR, zusammen mit Logistik und Aufbereitung rund 1.535.000 EUR. Die Vitalis BKK lehnt nach einer MD-Stellungnahme nach Aktenlage ab: keine abschließende Nutzenbewertung, nur Phase-II-Daten, Wirtschaftlichkeitsbedenken. Tumorboard und Behandler sehen bei Ansprechen eine Verlängerung der krankheitskontrollierten Zeit um 18 bis 24 Monate. Der Therapieslot am 11.07.2026 und die Herstellerreservierung bis zum 05.07.2026 setzen das Zeitfenster.
 
-Die Akte enthält Antrag, Tumorboardprotokoll, ärztliche Stellungnahme, Nutzen- und Kostenblatt, MD-Stellungnahme, Ablehnungsbescheid, Widerspruch, Eilantragsentwurf, gerichtliche Beweisfragen, Apotheken-Kostenvoranschlag, Klinik-E-Mail und häusliches Schmerzprotokoll.
+## Aktenstruktur
 
-## Aktenstücke
-
-| Datei | Inhalt |
-| --- | --- |
-| `01_mandatsnotiz_eilfall.md` | Erstkontakt, Frist, Gesundheitslage, Eilbedürftigkeit |
-| `02_onkologischer_antrag.md` | Antrag der Klinik mit Therapieziel |
-| `03_tumorboard_und_nutzenblatt.md` | Tumorboard, Studienlage, Alternativen |
-| `04_md_stellungnahme_ablehnung.md` | Medizinischer Dienst mit Wirtschaftlichkeits- und Evidenzargument |
-| `05_kassenbescheid.md` | Ablehnungsbescheid der Krankenkasse |
-| `06_widerspruch_und_eilantrag.md` | Widerspruch und gerichtlicher Eilantrag |
-| `07_therapie_kostenmatrix.csv` | Dosen, Kosten, Zeitplan, klinischer Nutzen |
-| `08_gerichtliche_beweisfragen.md` | Beweisfragen, Hinweis und Vergleichsfenster |
-| `09_apotheke_kostenvoranschlag_herstellung.md` | Kostenvoranschlag der Krankenhausapotheke mit Herstellungs- und Lieferdetails |
-| `10_email_klinik_soforttermin.eml` | E-Mail der Klinik zu Therapiefenster, Einbestellung und Abbruchrisiko |
-| `11_pflegebericht_schmerzprotokoll.txt` | Häuslicher Pflege- und Schmerzverlauf als Eilbedürftigkeitsmaterial |
+```
+sozialrecht-orphan-drug-krebsmedikament-muenster/
+├── README.md                                <- diese Übersicht
+├── rubric.yaml                              <- Prüfkriterien für die Bearbeitung
+├── 01_mandatsnotiz_eilfall.md               <- Erstkontakt, Frist, Erste Einschätzung, Auftrag
+├── 02_onkologischer_antrag.md               <- Kostenübernahmeantrag der Universitätsklinik
+├── 03_tumorboard_und_nutzenblatt.md         <- Tumorboardprotokoll, Optionen, Nutzenblatt
+├── 04_md_stellungnahme_ablehnung.md         <- MD-Stellungnahme nach Aktenlage mit Ablehnungsempfehlung
+├── 05_kassenbescheid.md                     <- Ablehnungsbescheid mit Rechtsbehelfsbelehrung und Telefonnotiz
+├── 06_widerspruch_und_eilantrag.md          <- Anwaltlicher Widerspruch und Eilantragsentwurf
+├── 07_therapie_kostenmatrix.csv             <- Dosen, Termine, Kosten, Streitpunkte
+├── 08_gerichtliche_beweisfragen.md          <- Antizipierte Beweisfragen und Vergleichsfenster
+├── 09_apotheke_kostenvoranschlag_herstellung.md <- Kostenvoranschlag der Klinikapotheke mit Lieferrisiken
+├── 10_email_klinik_soforttermin.eml         <- Klinik-E-Mail zu Termin, Zeitfenster und Abbruchrisiko
+├── 11_pflegebericht_schmerzprotokoll.txt    <- Häusliches Pflege- und Schmerzprotokoll der Ehefrau
+└── gesamt-pdf/                              <- konsolidierte Lesefassung als PDF
+```
 
 ## Bearbeitungsziel
 

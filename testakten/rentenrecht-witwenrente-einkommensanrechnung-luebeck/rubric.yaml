@@ -3,7 +3,9 @@ description: Witwenrente mit Sterbevierteljahr, großer Witwenrente, Einkommensa
 checks:
   - Sterbevierteljahr von der Zeit ab August 2026 trennen.
   - Große Witwenrente und Einkommensanrechnung nach Einkommensarten aufarbeiten.
-  - Bescheidbetrag nicht übernehmen, sondern Zwischenschritte nachfordern.
-  - Private Sofortrente nicht ohne Prüfung wie Arbeitsentgelt behandeln.
-  - Kontenklärung der dänischen Beschäftigungszeiten als eigenen Antrag erkennen.
-
+  - Bescheidbetrag nicht übernehmen, sondern Zwischenschritte und Freibetrag nachfordern.
+  - Private Sofortrente nicht ohne Prüfung wie Arbeitsentgelt behandeln; Herkunft aus Einmalzahlung würdigen.
+  - Eigene HZVK-Betriebsrente der Witwe von der HansePort-Witwenversorgung des Verstorbenen abgrenzen.
+  - Differenz zwischen Beitragsabzug im Bescheid und Krankenkassenmitteilung erkennen und klären.
+  - Kontenklärung der dänischen Beschäftigungszeiten als eigenen Antrag erkennen; widersprüchliche Arbeitgeberangaben (Nordbaltic Kolding, NordSø Esbjerg) aufklären statt glätten.
+  - Behandlung von Einmalzahlungen (Urlaubsgeld, Jahressonderzahlung) bei der Anrechnung hinterfragen.

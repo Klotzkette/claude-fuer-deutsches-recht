@@ -1,3 +1,13 @@
+# v417.0.0 — Veredelung der Sozialrecht-, Rentenrecht-, Erbrecht- und Familienrecht-Testakten
+
+- Alle 22 Testakten der vier Rechtsgebiete veredelt, ohne neue Fälle zu ergänzen: realistische Briefköpfe auf Behörden-, Kassen-, Träger- und Kanzleischreiben (Absenderblock, Versicherungsnummern und Aktenzeichen, Empfänger, Betreff), Rechtsbehelfsbelehrungen dort, wo sie hingehören, und durchgehend ausformulierte Volltexte statt Stichwort-Stummeln.
+- Bisher nur angedeutete oder zusammengefasste Dokumente als separate, voll ausformulierte Aktenstücke angelegt — unter anderem Testamente und notarielle Übergabeverträge als Abschriften, Sterbeurkunden, Nachlassgerichts-Eröffnungsniederschriften, Grundbuchauszug, der Scheidungsvergleich als Protokollabschrift, Versicherungsverläufe, Renten- und Trägerauskünfte, ärztliche Befund- und Reha-Berichte, Medikationsplan, MRT-Befund, Arbeitgeber- und Kammerbescheinigungen, Lohnabrechnungen, Kontoauszüge und Behörden-Zwischennachrichten. Rund 155 geänderte oder neue Aktenstücke.
+- Dabei einen systematischen Altbestandsfehler gefunden und behoben: In fünf Akten steckten die Stücke 08 bis 10 in fremden Personen-Tableaus (falsche Namen, Daten und Beträge) und wurden auf die jeweilige Fallfamilie harmonisiert; zusätzlich eine falsche Regelaltersgrenze und eine Datierungs-Unstimmigkeit korrigiert. Gewollte Widersprüche der Fälle blieben unangetastet.
+- Jede README erhielt einen Abschnitt „Aktenstruktur" mit Verzeichnisbaum und Ein-Zeilen-Beschreibung je Aktenstück; fehlende rubric.yaml-Dateien ergänzt beziehungsweise geschärft. Alle 22 Gesamt-PDFs neu gebaut; Testakten-Validator grün (242 Akten), Marketplace-Validator grün.
+- Repo-weiter Versions-Bump auf v417.0.0.
+
+---
+
 # v416.0.0 — Rentenberaterliche Spezialakten erweitert
 
 - Neun neue zentrale Arbeitsakten ergänzt: Fremdrenten-/Spätaussiedlerakte Bielefeld, zwei Statusfeststellungsverfahren zu Familienbetrieb und GmbH-Geschäftsführer, Arbeitsunfall Trier, Berufskrankheit Asbest Bremen, drei Schwerbehindertenverfahren und ein Off-Label-Use-Eilverfahren Mainz.

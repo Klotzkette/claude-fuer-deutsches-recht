@@ -5,7 +5,7 @@
 ## Sheet: Fristen-Familie-Tannenberg
 
 ### Fristenuebersicht Familie Tannenberg - alle 4 Verfahren
-_Kanzlei RA Helge Holm, Forstweg 11, 24105 Kiel - Stand 22. Mai 2026_
+_Kanzlei Holm · Petersen · Sönnichsen Rechtsanwälte mbB, RA Lasse Holm, Holstenstraße 124, 24103 Kiel - Stand 22. Mai 2026_
 
 | Mandant | Sache | Behörde / Gericht | Bescheid vom | Zugang | Fristende | Fristart | Status |
 |---|---|---|---|---|---|---|---|

@@ -1,9 +1,11 @@
 name: erbrecht-volljaehrigenadoption-unternehmer-erfurt
 description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder, GmbH-Bewertung und Erbscheinstaktik.
 checks:
-  - Rechtskräftige Volljährigenadoption nicht vorschnell ignorieren.
-  - Erbschein, Pflichtteil und Unternehmensbewertung trennen.
-  - Pflichtteilsquote mit und ohne Adoptionswirkung als Streitvariante darstellen.
-  - Auskunfts- und Wertermittlungsansprüche priorisieren.
+  - Rechtskräftige Volljährigenadoption nicht vorschnell ignorieren; Bestandskraft, Rechtsbehelfe und erbrechtliche Wirkung trennen.
+  - Erbschein, Pflichtteil und Unternehmensbewertung als getrennte Ebenen behandeln.
+  - Pflichtteilsquote mit und ohne Mitzählen des Angenommenen als Streitvariante darstellen (Stück 06).
+  - Auskunfts- und Wertermittlungsansprüche priorisieren; das Verlangen nach einem notariellen Nachlassverzeichnis erkennen.
   - Testierfähigkeit nur bei konkreten Tatsachen problematisieren.
-
+  - Spannungsfeld zwischen buchwertnaher Abfindungsklausel (Stück 14) und Ertragswertspanne des Steuerberaters (Stück 09) für die Pflichtteilsbemessung herausarbeiten.
+  - Fehlen der Ferienwohnung Zinnowitz in der Nachlassaufstellung der Gegenseite als Aufklärungspunkt benennen.
+  - Zuordnung der beschlossenen, nicht ausgezahlten Ausschüttung 2025 und der Kaufpreisrestforderung gegen den Erben als offene Fragen behandeln.

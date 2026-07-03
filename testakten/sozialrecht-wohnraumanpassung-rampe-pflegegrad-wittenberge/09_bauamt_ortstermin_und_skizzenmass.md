@@ -1,27 +1,31 @@
 # Ortstermin Bauamt und Skizzenmaß
 
-Stadt Wittenberge, Fachbereich Bauen und Ordnung  
-Ortstermin am: 19.06.2026  
-Adresse: Bahnstraße 17, Erdgeschoss links  
-Beteiligte: Herr Neumann, Tochter Katrin Neumann, Pflegeberaterin, Sachbearbeiter Bauordnung
+Stadt Wittenberge, Fachbereich Bauen und Ordnung
+August-Bebel-Straße 10, 19322 Wittenberge
+
+Protokollvermerk zum Ortstermin am 30.06.2026, 10:00 Uhr
+Objekt: Am Krähenberg 12, 19322 Wittenberge
+Beteiligte: Frau Irmgard Pahl (Eigentümerin), Frau Beate Willer (Tochter, bevollmächtigt), Frau Hartkopf (Pflegestützpunkt Prignitz), Herr Sacher (Sachbearbeiter Bauordnung), Herr Teschner (Metallbau Teschner GmbH, telefonisch zugeschaltet)
 
 ## Bestand
 
-Das Wohnhaus stammt aus dem Jahr 1911. Der Eingang liegt 62 cm über Gehwegniveau. Vor der Haustür befinden sich drei Sandsteinstufen mit 21 cm, 20 cm und 21 cm Steigung. Der Gehweg ist 1,86 m breit. Rechts neben dem Eingang liegt ein Vorgartenstreifen von 1,12 m Breite bis zur Grundstücksgrenze. Links beginnt unmittelbar die Zufahrt des Nachbarhauses.
+Das Reihenhaus stammt aus dem Jahr 1968 und liegt an einer schmalen Nebenstraße. Vom Gartentor bis zur Haustür sind es 8,40 m über einen gepflasterten Weg im Vorgarten. Unmittelbar vor der Haustür befinden sich drei Betonstufen mit je 16 cm Steigung; die Haustürschwelle ist zusätzlich 5 cm hoch, zu überwindende Gesamthöhe damit 53 cm. Links neben der Treppe liegt ein Vorgartenstreifen von 1,60 m Breite, rechts die Hauswand. Der Gehweg vor dem Grundstück ist kommunal befestigt, aber uneben.
 
-Herr Neumann nutzt innerhalb der Wohnung einen Gehstock und für längere Wege einen Rollator. Der Rollator steht derzeit im Hausflur, weil er die Stufen nicht sicher allein überwinden kann. Die Tochter trägt Einkäufe hoch; Herr Neumann verlässt die Wohnung nur mit Begleitung.
+Frau Pahl geht innerhalb der Wohnung mit Gehstock. Beim Termin wurde beobachtet, dass sie die Stufen nur rückwärtsgewandt und mit beiden Händen am Türrahmen beziehungsweise am Arm der Tochter bewältigt.
 
-## Rampenvarianten
+## Geprüfte Varianten
 
 | Variante | Länge | Breite | Eingriff | Einschätzung |
 | --- | ---: | ---: | --- | --- |
-| Gerade Rampe vom Gehweg zur Tür | 7,40 m | 1,20 m | ragt in Gehweg | bauordnungsrechtlich kaum vertretbar |
-| L-förmige Rampe über Vorgarten | 9,80 m | 1,10 m | Geländer, Podest, Pflasterarbeiten | technisch möglich |
-| Mobile Schienen | 2,30 m | 0,28 m je Schiene | keine feste Anlage | für Rollator und Gehstock unsicher |
-| Treppenlift außen | 3 Stufen | Sitzlift | Wetterschutz erforderlich | Bedienung bei Eis problematisch |
+| Feste Rampe diagonal durch den Vorgarten (Angebot Teschner) | 6,20 m | 1,20 m | Fundament, Pflasteranpassung, Entwässerungsrinne, Versetzen des Briefkastens um 40 cm | technisch gut umsetzbar, Steigung 5,8 Prozent ohne Zwischenpodest |
+| Gerade Rampe vom Gehweg zur Tür | 7,60 m | 1,20 m | würde in den öffentlichen Gehweg ragen | bauordnungsrechtlich nicht vertretbar |
+| Mobile Teleskopschienen | 2,90 m | 0,28 m je Schiene | keine feste Anlage | von der Nutzerin nicht selbst anzulegen; bei Nässe und Schnee eingeschränkt |
+| Treppensitzlift außen | 3 Stufen | Sitzlift | Wetterschutz erforderlich | Bedienung bei Eis problematisch, löst Schwelle nicht |
 
 ## Hinweise des Bauamts
 
-Eine L-förmige Rampe im Vorgarten könnte verfahrensfrei sein, wenn keine öffentliche Fläche dauerhaft beansprucht wird. Wegen des historischen Straßenbildes soll das Geländer schlicht und dunkel ausgeführt werden. Eine Sondernutzung des Gehwegs wird nicht empfohlen.
+Die feste Rampe liegt vollständig auf dem Grundstück und ist nach Einschätzung des Sachbearbeiters verfahrensfrei; eine formlose Bauanzeige wird gleichwohl empfohlen und kann zusammen mit der Werkplanung eingereicht werden. Nachbarrechte sind nicht berührt; der Grenzabstand zum Nachbargrundstück (Familie Buschkow, Am Krähenberg 10) wird eingehalten. Die vorhandenen Betonstufen können seitlich erhalten bleiben.
 
-Der Sachbearbeiter weist darauf hin, dass die technische Möglichkeit nicht klärt, welcher Kostenträger zuständig ist. Das Bauamt kann nur bestätigen, dass eine feste Rampe baulich realistischer ist als mobile Schienen.
+Der Sachbearbeiter weist ausdrücklich darauf hin, dass die bauliche Machbarkeit nichts darüber aussagt, welcher Kostenträger die Maßnahme finanziert. Das Bauamt bestätigt lediglich, dass die feste Rampe baulich realistisch und die einzige Variante ist, die den Hauseingang ohne fremde Hilfe nutzbar macht.
+
+gez. Sacher, Fachbereich Bauen und Ordnung

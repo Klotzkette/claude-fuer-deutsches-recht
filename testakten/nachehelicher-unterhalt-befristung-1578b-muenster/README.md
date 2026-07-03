@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 39 KB) | PDF | [`gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf`](gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 45 KB) | PDF | [`gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf`](gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nachehelicher-unterhalt-befristung-1578b-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster-einzelpdfs.zip) |
 
@@ -44,8 +44,39 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 | 10 | [`10_beduerftigkeit_zugerechnetes_einkommen.md`](10_beduerftigkeit_zugerechnetes_einkommen.md) | Bedürftigkeit, Aufstockungsobliegenheit, zugerechnetes Einkommen |
 | 11 | [`11_leistungsfaehigkeit_selbstbehalt.md`](11_leistungsfaehigkeit_selbstbehalt.md) | Leistungsfähigkeit, Selbstbehalt, Halbteilung |
 | 12 | [`12_strategie_und_vergleichskorridor.md`](12_strategie_und_vergleichskorridor.md) | Paragraf 1578b- und Paragraf 1579-Bewertung, Strategie, Vergleichskorridor, Antrag |
+| 13 | [`13_vergleichsprotokoll_2021_abschrift.md`](13_vergleichsprotokoll_2021_abschrift.md) | Protokoll des Unterhaltsvergleichs vom 09.03.2021 (44 F 2189/19) als Abschrift |
+| 14 | [`14_verdienstbescheinigung_vosskamp_2026.md`](14_verdienstbescheinigung_vosskamp_2026.md) | Verdienstbescheinigung des Marienhospitals mit Monatsbezügen Januar bis Mai 2026 |
 
 ## Anlagen
 
 - `emails/` — Mandantenkorrespondenz und Auskunftsaufforderung nach Paragraf 1605 BGB.
 - `csv/` — Einkommens- und Zahlungsübersicht (Arbeitswerte).
+
+## Aktenstruktur
+
+```text
+nachehelicher-unterhalt-befristung-1578b-muenster/
+├── 01_mandatsnotiz_erstgespraech.md            Erstberatung: Beteiligte, Ziel, offene Punkte
+├── 02_ehe_und_familienchronik.md               Eckdaten der Ehe, Umzüge, Rollenverteilung
+├── 03_einkommen_pflichtiger.md                 Einkommen und Abzugsposten Dr. Voßkamp (Arbeitswerte)
+├── 04_einkommen_berechtigte.md                 Einkommen und Erwerbsobliegenheit Carola Voßkamp
+├── 05_erwerbsbiografie_ehebedingte_nachteile.md  Berufsstationen und Nachteilsprüfung
+├── 06_kinderbetreuung_damals_heute.md          Betreuungsverlauf und heutige Betreuungsfreiheit
+├── 07_bisheriger_unterhaltstitel_vergleich.md  Titelanalyse mit drei Auslegungsvarianten
+├── 08_abaenderung_und_befristungsbegehren.md   Verfahrensrahmen Paragraf 239 FamFG, Begehren
+├── 09_bedarf_eheliche_lebensverhaeltnisse.md   Bedarfsrechnung nach Halbteilung (Arbeitswerte)
+├── 10_beduerftigkeit_zugerechnetes_einkommen.md  Bedürftigkeit und fiktives Vollzeiteinkommen
+├── 11_leistungsfaehigkeit_selbstbehalt.md      Leistungsfähigkeit, Rang, Selbstbehalt
+├── 12_strategie_und_vergleichskorridor.md      Bewertung, Korridor, Antragseckpunkte
+├── 13_vergleichsprotokoll_2021_abschrift.md    Protokollabschrift des Vergleichs vom 09.03.2021
+├── 14_verdienstbescheinigung_vosskamp_2026.md  Arbeitgeberbescheinigung mit Monatsbezügen 2026
+├── csv/
+│   └── einkommens_und_zahlungsuebersicht.csv   Einkommens- und Zahlungsübersicht (Arbeitswerte)
+├── emails/
+│   ├── 2026-06-11_vosskamp_an_kanzlei_unterlagen.eml        Mandant übersendet Unterlagen
+│   └── 2026-06-15_kanzlei_an_carola_auskunftsaufforderung_1605.eml  Auskunftsaufforderung
+├── README.md                                   Diese Übersicht
+├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
+└── gesamt-pdf/
+    └── nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf  Lesefassung der Gesamtakte
+```

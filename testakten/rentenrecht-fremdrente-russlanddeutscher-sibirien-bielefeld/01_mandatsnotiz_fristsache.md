@@ -8,7 +8,7 @@ Eduard Klassen war in der ehemaligen Sowjetunion Ingenieur für Kältetechnik im
 
 ## 2. Aktueller Anlass
 
-Die DRV Westfalen hat mit Bescheid vom 12.06.2026 die Kontenklärung teilweise abgeschlossen. Anerkannt wurden nur Beschäftigungszeiten 01.09.1976 bis 31.07.1981 als ungelernt-nahe Tätigkeit und 01.08.1981 bis 31.12.1986 als technische Angestelltenzeit. Die Zeiten 1987 bis 1992 wurden wegen unklarer Archivlage, fehlender Beitragsbestätigung und widersprüchlicher Übersetzung nur als glaubhaft gemacht geführt. Für Zeiten nach dem Zuzug ist alles unstreitig.
+Die DRV Westfalen hat mit Bescheid vom 12.06.2026 die Kontenklärung teilweise abgeschlossen. Als nachgewiesene Beitragszeit anerkannt wurde nur die Beschäftigung vom 01.07.1981 bis 31.12.1986, allerdings lediglich in Qualifikationsgruppe 3 statt als Ingenieurtätigkeit. Die Studienzeit 1976 bis 1981 blieb als Anrechnungszeit offen. Die Zeiten 1987 bis 1992 wurden wegen unklarer Archivlage, fehlender Beitragsbestätigung und widersprüchlicher Übersetzung nur als glaubhaft gemacht geführt. Für Zeiten nach dem Zuzug ist ab Dezember 1995 alles unstreitig; die Eingliederungsphase 1992 bis 1994 wurde nicht berücksichtigt.
 
 Zugang des Bescheids: 17.06.2026. Widerspruchsfrist läuft bis 17.07.2026. Der Mandant brachte am 27.06.2026 neue Übersetzungen, Fotos des Arbeitsbuchs und eine E-Mail seiner Cousine aus Nowosibirsk mit.
 

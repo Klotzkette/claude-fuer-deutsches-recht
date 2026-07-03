@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 22 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 28 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
 
@@ -20,24 +20,28 @@ Arbeitsakte zu den Plugins `fachanwalt-sozialrecht`, `selbstvertreter-sozialgeri
 
 ## Kurzbild
 
-Irmgard Pahl, 84, Pflegegrad 3, lebt in einem kleinen Reihenhaus in Wittenberge. Sie kann mit Gehstock noch kurze Strecken gehen, kommt aber wegen drei Außenstufen und einer steilen Eingangsschwelle nicht mehr sicher aus dem Haus. Die Pflegekasse bewilligt nur einen Teilbetrag und verweist auf ein mobiles Rampensystem; die Tochter beantragt eine fest montierte, wintertaugliche Rampe mit Handlauf. Streit besteht über Notwendigkeit, Wirtschaftlichkeit, bauliche Eignung, Zuschusshöhe und mögliche Beteiligung des Sozialhilfeträgers.
+Irmgard Pahl, 84, Pflegegrad 3, lebt in einem Reihenhaus in Wittenberge. Sie geht mit Gehstock, kommt aber wegen drei Außenstufen und einer hohen Türschwelle nicht mehr sicher aus dem Haus; seit Januar 2026 gab es Stürze auf der Eingangstreppe. Die PrignitzCare Pflegekasse bewilligt nur 1.180 EUR für ein mobiles Schienensystem; die Tochter will die fest montierte, wintertaugliche Rampe mit Handlauf für 7.920 EUR durchsetzen. Streit besteht über Notwendigkeit, Wirtschaftlichkeit, bauliche Eignung, Zuschusshöhe und die mögliche Beteiligung des Sozialhilfeträgers.
 
-## Aktenstücke
+## Aktenstruktur
 
-| Datei | Inhalt |
-| --- | --- |
-| `01_erstgespraech_tochter.md` | Erstkontakt, Wohnsituation, Frist |
-| `02_pflegegrad_und_md_gutachten.md` | Pflegegrad 3, Mobilitätsmodul, Sturzrisiko |
-| `03_bauangebot_rampe.md` | Kostenvoranschlag mit Maßen, Handlauf, Entwässerung |
-| `04_pflegekasse_bescheid.md` | Teilbewilligung und Ablehnung der festen Rampe |
-| `05_widerspruch_und_sozialhilfe.md` | Widerspruch, Mehrkostenträger, Darlehensfrage |
-| `06_wohnumfeld_fotos_beschreibung.md` | Eingang, Gehweg, Schwelle, Winterrisiko |
-| `07_kosten_traeger_matrix.csv` | Kostenteilung, Zuschuss, Eigenanteil |
-| `08_eilrechtsschutz_und_ortstermin.md` | Ortstermin, Beweisfragen und Vergleich |
-| `09_bauamt_ortstermin_und_skizzenmass.md` | Ortstermin, Baugrenzen, Rampenmaße und Denkmalschutzhinweis |
-| `10_email_nachbarin_zugang.eml` | Nachbarin schildert Zugang, Stürze und Winterdienstproblem |
-| `11_pflegetagebuch_sturzliste.txt` | Pflegetagebuch mit Sturzliste und Alltagswegen |
+```
+sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
+├── README.md                              <- diese Übersicht
+├── rubric.yaml                            <- Prüfkriterien für die Bearbeitung
+├── 01_erstgespraech_tochter.md            <- Erstberatung, Wohnsituation, Frist, Ziel
+├── 02_pflegegrad_und_md_gutachten.md      <- Pflegegrad 3, Mobilitätsmodul, Hausarzt-Nachtrag
+├── 03_bauangebot_rampe.md                 <- Angebot der Fachfirma mit Maßen und Alternativen
+├── 04_pflegekasse_bescheid.md             <- Teilbewilligung mit Rechtsbehelfsbelehrung und Telefonnotiz
+├── 05_widerspruch_und_sozialhilfe.md      <- Anwaltlicher Widerspruch, Prüfvermerk, Finanzlage
+├── 06_wohnumfeld_fotos_beschreibung.md    <- Eingang, Maße, Fotobeschreibungen, Winterrisiko
+├── 07_kosten_traeger_matrix.csv           <- Kostenpositionen, Träger, Finanzierungslücke
+├── 08_eilrechtsschutz_und_ortstermin.md   <- Vermerk zu Eilbedürftigkeit, Beweisfragen, Vergleich
+├── 09_bauamt_ortstermin_und_skizzenmass.md <- Protokoll des Ortstermins mit dem Bauamt
+├── 10_email_nachbarin_zugang.eml          <- Nachbarin zu Stürzen, Winter und Rampenakzeptanz
+├── 11_pflegetagebuch_sturzliste.txt       <- Sturzliste und Pflegetagebuch der Tochter
+└── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
+```
 
 ## Bearbeitungsziel
 
-Die Akte eignet sich für Pflegekassenverfahren und Sozialgerichtsarbeit: Pflegegrad, wohnumfeldverbessernde Maßnahme, Erleichterung häuslicher Pflege, selbstständige Lebensführung, Zumutbarkeit mobiler Alternativen, Mehrkosten und Eilbedürftigkeit müssen konkret abgearbeitet werden.
+Die Akte eignet sich für Pflegekassenverfahren und Sozialgerichtsarbeit: Pflegegrad, wohnumfeldverbessernde Maßnahme, Erleichterung der häuslichen Pflege, selbstständige Lebensführung, Zumutbarkeit mobiler Alternativen, Zuschussgrenze, Mehrkostenträger und Eilbedürftigkeit müssen konkret abgearbeitet werden. Die Angaben zur Zahl der Stürze sind in den Unterlagen nicht völlig deckungsgleich; das gehört zur Beweiswürdigung.

@@ -1,8 +1,8 @@
 # Urteilsentwurf mit zwei Varianten
 
 Sozialgericht Oldenburg
-Az. S 13 KR 412/26
-Entwurfsstand: 18.09.2026
+Kammer für Krankenversicherungssachen
+Votum der Berichterstatterin, Entwurfsstand: 18.09.2026
 
 ## Variante A: Stattgabe
 

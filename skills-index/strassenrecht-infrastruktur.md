@@ -1,6 +1,6 @@
 # strassenrecht-infrastruktur
 
-**126 Skills** · Stand `v416.0.0`
+**126 Skills** · Stand `v417.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strassenrecht-infrastruktur/README.md)

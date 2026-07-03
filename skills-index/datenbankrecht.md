@@ -1,6 +1,6 @@
 # datenbankrecht
 
-**129 Skills** · Stand `v416.0.0`
+**129 Skills** · Stand `v417.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/datenbankrecht/README.md)

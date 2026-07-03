@@ -4,38 +4,30 @@
 ## Übersicht
 
 ```
-                          Heinz Tannenberg                Inge Petersen geb. Olausen
-                          *1939 +2019                      *1942
-                                |                          |
-                                +--- verheiratet -----+    |
-                                                      |    |
-                          Margarete Tannenberg geb. Stoltenberg
-                          *04.07.1941
-                          PG 3 - Verfahren Pflegekasse AOK NW
-                                |
-                                |
-                +---------------+
-                |
-        Olaf Tannenberg                  Karin Petersen
-        *17.02.1964                      *1959 (Schwester von Bodo)
-        Schiffbau-Ing. a.D.              |
-        MS seit 1998, PG 2 seit 2023     |
-        Verfahren Aktivrollator BKK      |
-                |                        Bodo Petersen
-                |                        *11.05.1964
-                | verheiratet seit       Ex-Maurer, BS-Vorfall + Depression
-                | 1998                   Verfahren EM-Rente DRV
-                |                        Lebenspartnerin Karin Lorenzen
-        Bertha Tannenberg geb. Wienholz
-        *14.06.1972
-        Heilerziehungspflegerin TZ
-        pflegt Schwiegermutter zuhause
-                |
-                |
-        Lena Tannenberg
-        *03.09.2009
-        Asperger-Syndrom F84.5
-        Verfahren Schulbegleitung Jugendamt
+   Heinz Tannenberg ⚭ Margarete Tannenberg geb. Stoltenberg
+   *1939 +2019          *04.07.1941, PG 3
+                        Verfahren Pflegekasse AOK NW
+          |
+          +--------------------------+
+          |                          |
+   Olaf Tannenberg            Jörn Tannenberg
+   *17.02.1964                *1961 +2014
+   Schiffbau-Ing. a.D.        war verheiratet mit
+   MS seit 1998, PG 2         Karin Petersen *1959
+   Verfahren Rollstuhl BKK           |
+          |                          | (Schwester von)
+          | ⚭ seit 1998              |
+          |                   Bodo Petersen
+   Bertha Tannenberg          *11.05.1964
+   geb. Wienholz              Ex-Maurer, BS-Vorfall + Depression
+   *14.06.1972                Verfahren EM-Rente DRV
+   Heilerziehungspflegerin TZ Lebenspartnerin: Karin Lorenzen *1967
+   pflegt Schwiegermutter     Mutter: Inge Petersen geb. Olausen *1942
+          |
+   Lena Tannenberg
+   *03.09.2009
+   Asperger-Syndrom F84.5
+   Verfahren Schulbegleitung Jugendamt
 ```
 
 ## Lebensverhältnisse
@@ -51,27 +43,25 @@
 **Haushalt 2 - Knooper Weg 184, 24118 Kiel**
 - Bodo Petersen (62) + Lebenspartnerin Karin Lorenzen (59)
 - Zwei-Personen-Haushalt
-- Karin arbeitet als Pflegekraft Vollzeit Diakoniezentrum
+- Karin Lorenzen arbeitet als Pflegekraft Vollzeit Diakoniezentrum
 - Bodo bezieht aufstockendes Bürgergeld, ggf. ab 06/2026 anteilige EM-Rente
 
 ## Verbindungen zwischen den Verfahren
 
-- **Bodo** ist Olafs **Schwager** (Bruder von Olafs Ehefrau Bertha).
-- **Karin Petersen** ist Bodos Schwester und gleichzeitig mit Olaf verheiratet (= Bertha Tannenberg).
-
-> Achtung: Hier ist im obigen ASCII-Baum eine Vereinfachung. In Wirklichkeit ist die Genealogie so:
-> - Bodo Petersen und Bertha Tannenberg geb. Wienholz - keine direkten Geschwister, sondern Schwager und Schwägerin über eine andere Linie (Olafs verstorbener Bruder war mit Bodos Schwester verheiratet).
-> Für die Schulung reicht aber: Bodo ist Olafs Schwager und kommt deshalb in die selbe Kanzlei.
+- Bodo Petersen wird in der Familie als Olafs **Schwager** bezeichnet. Genau genommen läuft die Verbindung über eine andere Linie: Olafs verstorbener Bruder Jörn war mit Bodos Schwester Karin Petersen verheiratet.
+- Zwei Frauen namens Karin: **Karin Petersen** (Bodos Schwester, Witwe von Jörn) und **Karin Lorenzen** (Bodos Lebenspartnerin). In Telefonnotizen der Kanzlei wird deshalb stets der Nachname mitgeführt.
+- Für die Fallbearbeitung genügt: Bodo gehört familiär dazu und kam über Olaf in dieselbe Kanzlei.
 
 ## Mandatsverhaeltnis Kanzlei Holm
 
-- **Rechtsanwalt Helge Holm**, Forstweg 11, 24105 Kiel
+- **Rechtsanwalt Lasse Holm**, Fachanwalt für Sozialrecht, Kanzlei Holm · Petersen · Sönnichsen Rechtsanwälte mbB, Holstenstraße 124, 24103 Kiel
+- Der Namenspartner Petersen der Kanzlei ist mit dem Mandanten Bodo Petersen weder verwandt noch verschwägert; der gleiche Nachname ist Zufall und wird in der Akte bewusst vermerkt, um Verwechslungen zu vermeiden.
 - Kontakt zur Familie über Olaf Tannenberg (Mandant seit 2022)
 - Mandat für Lena erteilt durch beide Eltern (Bertha + Olaf)
 - Mandat für Margarete erteilt durch Bertha als Bevollmächtigte (Vorsorgevollmacht 2023)
 - Mandat für Bodo erteilt durch Bodo selbst (Vermittlung durch Olaf)
 
-## Drei verschiedene Versicherungsstände
+## Vier verschiedene Versicherungsstände
 
 | Mandant | Krankenkasse | Pflegekasse | Rentenversicherer |
 |---|---|---|---|
@@ -81,8 +71,6 @@
 | Margarete | AOK NW | AOK NW Pflegekasse | DRV Nord (Witwenrente) |
 | Bodo | AOK NW (Bürgergeld) | - | DRV Nord |
 
-Diese Mischung ist realistisch und absichtlich gewählt, damit die Schulung verschiedene Kassen abdeckt.
-
 ## Vermögens- und Einkommenssituation (für PKH-Pruefung)
 
 | Mandant | Monatseinkommen netto | Verfügbar für PKH | PKH-Indikation |
@@ -90,4 +78,4 @@ Diese Mischung ist realistisch und absichtlich gewählt, damit die Schulung vers
 | Olaf (Familie) | EM-Rente 1.420 + Bertha 850 = 2.270 EUR + KG Lena 250 | Familieneinkommen relativ hoch | wahrscheinlich keine PKH |
 | Lena (Eltern) | s. Olaf | s. Olaf | wahrscheinlich Rechtsschutz - PKH nur hilfsweise |
 | Margarete | Witwenrente 980 + Pflegegeld 545 PG 3 | knapp | grenzwertig |
-| Bodo (Haushalt) | Karin 1.650 + ALG-Aufstockung Bodo 200 | sehr eng | PKH klar indiziert |
+| Bodo (Haushalt) | Karin Lorenzen 1.650 + ALG-Aufstockung Bodo 200 | sehr eng | PKH klar indiziert |

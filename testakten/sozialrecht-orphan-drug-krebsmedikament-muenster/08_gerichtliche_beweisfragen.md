@@ -1,6 +1,8 @@
 # Gerichtliche Beweisfragen und Vergleichsfenster
 
-## Entwurf richterlicher Hinweis
+Arbeitspapier der Kanzlei, Az. 2026-233-LÜ/mö, Stand 30.06.2026: Antizipation des zu erwartenden gerichtlichen Vorgehens im Eilverfahren, zur Vorbereitung der Klinik-Stellungnahme und einer Vergleichslinie.
+
+## Zu erwartender richterlicher Hinweis
 
 Das Gericht beabsichtigt, kurzfristig eine ergänzende Stellungnahme der Universitätsklinik Münster einzuholen. Die Beteiligten werden darauf hingewiesen, dass im Verfahren des einstweiligen Rechtsschutzes nicht die vollständige Hauptsache vorweggenommen werden soll, jedoch der drohende Verlust einer realistischen Behandlungschance zu berücksichtigen sein kann.
 

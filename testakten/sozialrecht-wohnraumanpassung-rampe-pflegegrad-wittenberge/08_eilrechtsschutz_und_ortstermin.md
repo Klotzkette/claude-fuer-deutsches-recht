@@ -1,5 +1,7 @@
 # Eilrechtsschutz und Ortstermin
 
+Interner Vermerk, Az. 2026-77-PA/ah, Rechtsanwältin Ahrend, 06.07.2026
+
 ## Vermerk zur Eilbedürftigkeit
 
 Ein klassischer Eilantrag ist nicht automatisch angezeigt, weil es nicht um eine sofort lebensbedrohliche Behandlung geht. Gleichwohl kann Eilbedürftigkeit entstehen, wenn Frau Pahl ohne Rampe ihre Wohnung faktisch nicht verlassen kann, Arzttermine ausfallen und weitere Stürze drohen. Der nächste orthopädische Termin ist am 19.07.2026, der Hausarzttermin am 24.07.2026.

@@ -1,6 +1,10 @@
 # Erstgespräch mit Tochter
 
-Mandantin: Irmgard Pahl, geboren am 04.01.1942, verwitwet, wohnhaft in Wittenberge, Pflegegrad 3 seit 2024. Kontaktaufnahme durch Tochter Beate Willer, wohnhaft zwei Straßen entfernt. Beratung am 03.07.2026.
+Rechtsanwältin Gesine Ahrend, Fachanwältin für Sozialrecht
+Perleberger Straße 21, 19322 Wittenberge, Telefon 03877 56 41 20
+Aktenzeichen intern: 2026-77-PA/ah
+
+Mandantin: Irmgard Pahl, geboren am 04.01.1942, verwitwet, wohnhaft Am Krähenberg 12, 19322 Wittenberge, Pflegegrad 3 seit 2024, versichert bei der PrignitzCare (Versichertennummer P-604-228-771). Kontaktaufnahme durch die bevollmächtigte Tochter Beate Willer, Lindenstraße 7, 19322 Wittenberge, wohnhaft zwei Straßen entfernt. Beratung am 03.07.2026; Vorsorgevollmacht der Mutter für die Tochter vom 15.03.2023 liegt in Kopie vor.
 
 ## Wohnsituation
 

@@ -4,7 +4,7 @@
 
 ## Vollmacht
 
-Hiermit bevollmächtigen wir, Bertha Tannenberg, geb. 14.06.1972, und Olaf Tannenberg, geb. 17.02.1964, beide wohnhaft Adelheidstrasse 17, 24103 Kiel, als gesetzliche Vertreter unserer minderjährigen Tochter Lena Tannenberg, geb. 03.09.2009, den Rechtsanwalt Helge Holm, Forstweg 11, 24105 Kiel, zur Vertretung in der sozialrechtlichen Angelegenheit "Eingliederungshilfe / Schulbegleitung" gegenüber dem Jugendamt Kiel und ggf. dem Sozialgericht Kiel.
+Hiermit bevollmächtigen wir, Bertha Tannenberg, geb. 14.06.1972, und Olaf Tannenberg, geb. 17.02.1964, beide wohnhaft Adelheidstrasse 17, 24103 Kiel, als gesetzliche Vertreter unserer minderjährigen Tochter Lena Tannenberg, geb. 03.09.2009, den Rechtsanwalt Lasse Holm, Kanzlei Holm · Petersen · Sönnichsen Rechtsanwälte mbB, Holstenstraße 124, 24103 Kiel, zur Vertretung in der sozialrechtlichen Angelegenheit "Eingliederungshilfe / Schulbegleitung" gegenüber dem Jugendamt Kiel und ggf. dem Sozialgericht Kiel.
 
 Die Vollmacht erstreckt sich auch auf:
 

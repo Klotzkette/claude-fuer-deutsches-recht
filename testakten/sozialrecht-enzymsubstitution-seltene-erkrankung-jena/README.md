@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 23 KB) | PDF | [`gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf`](gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf`](gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip) |
 
@@ -20,24 +20,28 @@ Arbeitsakte zu den Plugins `fachanwalt-sozialrecht`, `krankenkassenrecht-kranken
 
 ## Kurzbild
 
-Samira Wehner, 17, leidet an einer seltenen lysosomalen Speichererkrankung. Die Enzymsubstitution Velaglucase-Nord ist für eine eng verwandte Unterform zugelassen; bei Samiras Mutation ist die Anwendung streitig. Die Kinderklinik Jena beantragt die Therapie, weil sonst irreversible neurologische Schäden drohen. Die Krankenkasse lehnt als Off-Label- und Wirtschaftlichkeitsfall ab.
+Samira Wehner, 17, leidet an einer seltenen lysosomalen Speichererkrankung mit neurologischer Beteiligung. Die Enzymsubstitution Velaglucase-Nord ist für eine eng verwandte Unterform zugelassen; bei Samiras Mutation ist die Anwendung streitig. Die Kinderklinik des Universitätsklinikums Jena beantragt die Therapie mit Beginn Anfang August 2026, weil sonst irreversible neurologische Schäden drohen. Die SaalePlus Krankenkasse lehnt nach einer MD-Stellungnahme nach Aktenlage als Off-Label- und Wirtschaftlichkeitsfall ab. Die Eltern widersprechen selbst; die Kanzlei vertieft den Widerspruch und bereitet den Eilantrag vor.
 
-## Aktenstücke
+## Aktenstruktur
 
-| Datei | Inhalt |
-| --- | --- |
-| `01_familienkontakt_und_eilsache.md` | Erstkontakt der Eltern, Schule, Gesundheitslage |
-| `02_kinderklinik_antrag.md` | Klinikbericht mit Behandlungsziel |
-| `03_genetik_und_verlauf.md` | Befunde, Mutation, bisherige Verschlechterung |
-| `04_kassenbescheid_md.md` | MD-Stellungnahme und Kassenablehnung |
-| `05_widerspruch_eltern.md` | Elternwiderspruch und anwaltliche Nachschärfung |
-| `06_schule_teilhabe_pflege.md` | Alltag, Teilhabe, Pflegebelastung |
-| `07_kosten_und_verlauf.csv` | Jahreskosten, Verlauf, Beweisfragen |
-| `08_eilantrag_sg_jena.md` | Antrag, Anordnungsanspruch und Anlagen |
-| `09_kostenvoranschlag_spezialambulanz.md` | Spezialambulanz, Dosisplan, Monitoring und Jahrestherapiekosten |
-| `10_email_schule_teilhabe.eml` | Schule berichtet über Erschöpfung, Fehlzeiten und Hilfebedarf |
-| `11_pflegekasse_kurzprotokoll.txt` | Pflegealltag, Hilfsmittel und Belastungswerte der Familie |
+```
+sozialrecht-enzymsubstitution-seltene-erkrankung-jena/
+├── README.md                              <- diese Übersicht
+├── rubric.yaml                            <- Prüfkriterien für die Bearbeitung
+├── 01_familienkontakt_und_eilsache.md     <- Erstgespräch, Beteiligte, Frist, Auftrag
+├── 02_kinderklinik_antrag.md              <- Kostenübernahmeantrag der Kinderklinik
+├── 03_genetik_und_verlauf.md              <- Genbefund, Neuropädiatrie, Symptomtagebuch
+├── 04_kassenbescheid_md.md                <- MD-Stellungnahme und Ablehnungsbescheid mit Rechtsbehelfsbelehrung
+├── 05_widerspruch_eltern.md               <- Elternwiderspruch und anwaltliche Nachschärfung
+├── 06_schule_teilhabe_pflege.md           <- Schulstellungnahme, häusliche Belastung, Teilhaberisiko
+├── 07_kosten_und_verlauf.csv              <- Kosten- und Verlaufsmatrix des Therapieversuchs
+├── 08_eilantrag_sg_jena.md                <- Entwurf der einstweiligen Anordnung nach § 86b SGG
+├── 09_kostenvoranschlag_spezialambulanz.md <- Dosisplan, Kosten und Abbruchkriterien der Spezialambulanz
+├── 10_email_schule_teilhabe.eml           <- Oberstufenleitung zu Fehlzeiten und Erschöpfung
+├── 11_pflegekasse_kurzprotokoll.txt       <- Pflegeberatung, Alltagshilfebedarf, Pflegetagebuch-Auftrag
+└── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
+```
 
 ## Bearbeitungsziel
 
-Die Akte verbindet Krankenbehandlung, seltene Erkrankung, Off-Label-Nähe, drohenden irreversiblen Schaden, Minderjährigenschutz, Schulteilhabe und Eilrechtsschutz. Sie ist auf genaue Belegarbeit statt pauschaler Härtefallrhetorik angelegt.
+Die Akte verbindet Krankenbehandlung, seltene Erkrankung, Off-Label-Nähe, drohenden irreversiblen Schaden, Minderjährigenschutz, Schulteilhabe und Eilrechtsschutz. Sie ist auf genaue Belegarbeit statt pauschaler Härtefallrhetorik angelegt. Die Kostenangaben der Beteiligten (Jahreskosten laut Klinikantrag, Monatskosten laut Dosisplan) verdienen einen genauen zweiten Blick.

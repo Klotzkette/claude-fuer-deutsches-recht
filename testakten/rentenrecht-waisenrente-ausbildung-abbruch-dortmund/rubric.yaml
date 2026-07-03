@@ -2,8 +2,9 @@ name: rentenrecht-waisenrente-ausbildung-abbruch-dortmund
 description: Waisenrente nach Ausbildungsabbruch mit gesundheitlicher Begründung, Übergangszeit, Studienzusage, Erstattungsbescheid und Widerspruch.
 checks:
   - Altersgrenze und Ausbildungstatbestand sauber prüfen.
-  - Gesundheitlich begründeten Abbruch von bloßer Ausbildungspause unterscheiden.
-  - Rückforderung und Weiterzahlungsanspruch getrennt bearbeiten.
-  - Monatsraster statt pauschaler Lebenslaufwertung verwenden.
-  - Nachweise für jeden Übergang und jede Lücke benennen.
-
+  - Gesundheitlich begründeten Abbruch von bloßer Ausbildungspause unterscheiden; Fehlzeiten und Atteste monatsweise zuordnen.
+  - Rückforderung (Aufhebung, Vertrauensschutz, Anhörung) und Weiterzahlungsanspruch getrennt bearbeiten.
+  - Die behauptete Nichtzustellung des Anhörungsschreibens vom 28.04.2026 als eigenen Prüfpunkt erkennen.
+  - Monatsraster statt pauschaler Lebenslaufwertung verwenden; Widerspruch zwischen Mandantinnenangabe (Rente bis Mai) und Kontoauszug (Zahlung Juni) aufklären.
+  - Einarbeitungsmonat September 2026 und Studienbeginn Oktober 2026 als mögliche unterschiedliche Anknüpfungspunkte behandeln.
+  - Nachweise für jeden Übergang und jede Lücke benennen; Fristen (Widerspruch bis 15.07.2026, Unterlagen bis 31.07.2026) sichern.

@@ -2,8 +2,9 @@ name: rentenrecht-riester-zulagenrueckforderung-augsburg
 description: Riester-Zulagenrückforderung mit Mindesteigenbeitrag, Anbieterhinweis, Kinderzulage, Kindergeldwechsel und Einspruch gegen die Zentrale Zulagenstelle.
 checks:
   - Mindesteigenbeitrag je Jahr aus Vorjahreseinkommen und Zulagen berechnen.
-  - Kinderzulage nicht pauschal verlieren lassen, sondern Kindergeldzuordnung prüfen.
-  - Anbieterhinweis von der behördlichen Zulagenfestsetzung trennen.
-  - Einspruchsfrist aus Zugang des Bescheids sichern.
-  - Jahresmatrix als Grundlage für Beratung und Nachzahlung verwenden.
-
+  - Differenz zwischen Steuerbrutto und rentenversicherungspflichtigem Entgelt als mögliche Erklärung der Rückforderung 2023 erkennen.
+  - Kinderzulage nicht pauschal verlieren lassen, sondern die kindergeldrechtliche Zuordnung für Jonas monatsweise prüfen.
+  - Anbieterhinweis "300 EUR sollten reichen" von der behördlichen Zulagenfestsetzung trennen; Haftungsstrang nur nachrangig.
+  - Einspruchsfrist aus dem Zugang des Bescheids am 14.06.2026 sichern; Nachweisfrist der ZfA zum 10.08.2026 einhalten.
+  - Bereits erfolgte Belastung des Vertragsguthabens bei der Frage der Aussetzung der Vollziehung berücksichtigen.
+  - Jahresmatrix als Grundlage für Beratung und mögliche Nachzahlung verwenden, aber gegen die Arbeitgeberzahlen gegenprüfen.

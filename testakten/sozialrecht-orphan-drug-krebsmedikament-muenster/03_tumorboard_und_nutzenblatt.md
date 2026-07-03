@@ -1,8 +1,11 @@
 # Tumorboard und Nutzenblatt
 
+Universitätsklinikum Münster, Sarkomzentrum
+Auszug aus der Behandlungsdokumentation, der Kanzlei übergeben am 29.06.2026
+
 ## Protokoll Sarkom-Tumorboard vom 29.05.2026
 
-Anwesend: Onkologie, Radiologie, Pathologie, Strahlentherapie, Palliativmedizin, Studienkoordination, Psychoonkologie.
+Vorsitz: Prof. Dr. Ebbinghaus. Anwesend: Onkologie, Radiologie, Pathologie, Strahlentherapie, Palliativmedizin, Studienkoordination, Psychoonkologie.
 
 Fall: Gregor Lütke, 46 Jahre, metastasiertes alveoläres Weichteilsarkom. ECOG 1 bis 2, hohe Motivation, familiär eingebunden. Bildgebung vom 24.05.2026 zeigt Progress der pulmonalen Herde und neue osteolytische Läsion im rechten Os ilium. Schmerzen aktuell mit Oxycodon retard 2 mal 20 mg kontrolliert.
 
@@ -21,13 +24,5 @@ Das Tumorboard empfiehlt Lunazimerab. Die Empfehlung beruht auf fehlenden Standa
 
 ## Nutzenblatt für die Kasse
 
-Die Klinik schätzt die realistische Nutzenerwartung nicht als Heilung, sondern als Verlängerung der krankheitskontrollierten Zeit um etwa 18 bis 24 Monate bei Ansprechen. Die Aussage beruht auf der Studie LUNA-SAR-02, Registerdaten aus Frankreich und dem molekularen Befund des Patienten. Die Klinik räumt ein, dass es keine randomisierte Phase-III-Studie gibt.
-
-## Beweisprobleme
-
-1. Der Patient ist schwer krank, aber nicht unmittelbar moribund.
-2. Die Kosten sind außergewöhnlich hoch.
-3. Die Nutzenlage ist nicht leer, aber unsicher.
-4. Der MD stellt auf fehlende vergleichende Evidenz ab.
-5. Das Gericht muss im Eilverfahren medizinische Plausibilität und Folgenabwägung verbinden.
+Die Klinik schätzt die realistische Nutzenerwartung nicht als Heilung, sondern als Verlängerung der krankheitskontrollierten Zeit um etwa 18 bis 24 Monate bei Ansprechen. Die Aussage beruht auf der Studie LUNA-SAR-02 (einarmige Phase-II-Studie, 41 Patienten, davon 12 mit hoher LZ-4-Expression), Registerdaten aus Frankreich und dem molekularen Befund des Patienten. Die Klinik räumt ein, dass es keine randomisierte Phase-III-Studie gibt und nach der Seltenheit der Erkrankung voraussichtlich auch nicht geben wird.
 

@@ -1,5 +1,10 @@
 # Entwurf Klageerwiderung der Krankenkasse
 
+Weser-Ems Gesundheitskasse
+Justitiariat und Prozessabteilung
+Stau 35, 26122 Oldenburg
+Aktenzeichen: HM-2026-7714-E-K
+
 Nicht eingereicht. Interner Entwurf der Prozessabteilung vom 08.07.2026.
 
 An das Sozialgericht Oldenburg

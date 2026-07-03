@@ -1,34 +1,44 @@
 Bank- und Beteiligungsübersicht
-Nachlass Dr. Martin Seidel
-Arbeitsstand 24.06.2026
+Nachlass Ralf Sander, verstorben am 08.06.2026
+Arbeitsstand 24.06.2026, zusammengestellt von RAin Dr. Weigand aus Bankauskünften, Steuerberatermail und Grundbuchdaten
 
 Konten:
 
 Erfurter Bank Girokonto 10088231
 Saldo Todestag: 84.219,77 EUR
-Eingänge nach Tod: 6.400,00 EUR Miete Lagerhalle, 1.280,00 EUR Privatliquidation
-Abgänge nach Tod: 4.980,00 EUR Bestattung Anzahlung, 2.100,00 EUR Gutachter Fahrzeug
+Eingänge nach Tod: 6.400,00 EUR Miete Lagerhalle, 1.280,00 EUR Erstattung Krankenversicherung
+Abgänge nach Tod: 4.980,00 EUR Bestattung Anzahlung, 2.100,00 EUR Gutachter Oldtimer
 
 Depot Erfurter Bank 770091
-ETF Welt: 310.000,00 EUR Kurswert Todestag
-Bundesanleihe 2030: 120.000,00 EUR nominal
-Einzelaktien Medizintechnik: 96.400,00 EUR Kurswert Todestag
+ETF Welt: 198.600,00 EUR Kurswert Todestag
+Bundesanleihe 2030: 60.000,00 EUR nominal
+Einzelaktien Medizintechnik: 51.400,00 EUR Kurswert Todestag
+Depotwert gesamt am Todestag: rund 310.000,00 EUR (deckt sich mit der Angabe von Jonas in Stück 04)
 
 Beteiligungen:
 
-Seidel Präzision GmbH, 70 Prozent Geschäftsanteil
+Sander Präzisionsteile GmbH, 86 Prozent Geschäftsanteil (HRB 512344, Amtsgericht Jena)
 Streitige Bewertungsbandbreite:
-- Buchwertnahe Betrachtung nach Gesellschaftsvertrag: 1.240.000,00 EUR für 70 Prozent
-- Ertragswert grob nach Steuerberater: 3.360.000,00 bis 4.340.000,00 EUR für 70 Prozent
+- buchwertnahe Betrachtung nach Gesellschaftsvertrag: 2.064.000,00 EUR für 86 Prozent (Grundlage der Angabe von Jonas)
+- Ertragswert grob nach Steuerberater: 4.128.000,00 bis 5.332.000,00 EUR für 86 Prozent
+Dazu: noch nicht ausgezahlte Ausschüttung 2025, Anteil Ralf Sander 154.800,00 EUR
+Forderung aus Darlehen der GmbH-Gesellschafterebene: Darlehen Ralf Sander an die GmbH, valutierend 280.000,00 EUR
+Kaufpreisrestforderung gegen Jonas Mielke-Sander aus Anteilsverkauf 2023: 48.000,00 EUR
 
 Privatimmobilien:
 
-Wohnhaus Erfurt-Bischleben, Grundbuch Bischleben Blatt 1120, geschätzter Marktwert 690.000,00 EUR, valutierendes Darlehen 118.000,00 EUR.
-Ferienwohnung Zinnowitz, Marktwert laut Maklerbrief 312.000,00 EUR, lastenfrei.
+Wohnhaus Erfurt-Bischleben, Grundbuch Bischleben Blatt 1120, Marktwert laut Maklerkurzbewertung vom 19.06.2026: 740.000,00 EUR, valutierendes Darlehen 118.000,00 EUR.
+Ferienwohnung Zinnowitz, Marktwert laut Maklerbrief 312.000,00 EUR, lastenfrei. Diese Position fehlt in der vorläufigen Nachlassaufstellung von Jonas (Stück 04).
+
+Weitere Verbindlichkeiten:
+
+Kontokorrentkredit privat, Erfurter Bank: 102.000,00 EUR zum Todestag.
+(Zusammen mit dem Hausdarlehen ergeben sich private Bankverbindlichkeiten von 220.000,00 EUR; so auch die Angabe von Jonas.)
 
 Offene Fragen:
 
-1. Gehört die noch nicht ausgezahlte Ausschüttung 2025 zum Nachlassbestand oder ist sie gesellschaftsrechtlich anders zuzuordnen?
-2. Ist die Kaufpreisrestforderung gegen Lukas Henning werthaltig und fällig?
-3. Welche Wirkungen hat die Volljährigenadoption für Pflichtteil und gesetzliche Erbfolge, wenn kein Erbvertrag vorliegt?
-4. Welche Bewertung ist für eine kurzfristige Abschlagszahlung tragfähig, ohne die GmbH-Liquidität zu gefährden?
+1. Gehört die noch nicht ausgezahlte Ausschüttung 2025 (154.800,00 EUR) zum Nachlassbestand oder ist sie gesellschaftsrechtlich anders zuzuordnen?
+2. Ist die Kaufpreisrestforderung gegen Jonas Mielke-Sander werthaltig und fällig, und wie verhält sie sich zur Stundungsabrede?
+3. Welche Wirkungen hat die Volljährigenadoption für Pflichtteilsquote und gesetzliche Erbfolge, wenn kein Erbvertrag vorliegt?
+4. Welche Bewertung ist für eine kurzfristige Abschlagszahlung tragfähig, ohne die Liquidität der GmbH zu gefährden?
+5. Warum fehlt die Ferienwohnung Zinnowitz in der Aufstellung der Gegenseite?

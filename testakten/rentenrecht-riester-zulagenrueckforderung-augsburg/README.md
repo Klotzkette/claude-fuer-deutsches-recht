@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 23 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip) |
 
@@ -21,6 +21,26 @@ Arbeitsakte zum Plugin `rentenpruefer`.
 ## Kurzbild
 
 Nadja Erhart, 42, Altenpflegerin in Augsburg, erhält von der Zentralen Zulagenstelle eine Rückforderung mehrerer Riester-Zulagen. Der Anbieter meldete für 2023 und 2024 zu niedrige Eigenbeiträge; zugleich wurden Kinderzulagen für die 2011 und 2016 geborenen Kinder falsch verteilt, weil der geschiedene Vater für ein Jahr die Kindergeldberechtigung wechselte. Die Mandantin hat Dauerzulagenantrag, Anbieterpost, Gehaltsnachweise und Familienkassenbescheide, aber keine saubere Jahresberechnung.
+
+## Aktenstruktur
+
+```
+rentenrecht-riester-zulagenrueckforderung-augsburg/
+├── 01_erstgespraech_riester.md                # Beratungsziel, Familiensituation, Vertrag, Fragen der Mandantin
+├── 02_zfa_rueckforderung.md                   # Festsetzungsbescheid der ZfA mit Rückforderung und Rechtsbehelfsbelehrung
+├── 03_eigenbeitraege_und_zulagen.md           # Jahreskontoauszüge des Anbieters und E-Mail zur Sonderzahlung
+├── 04_familienkasse_kindergeld.md             # Vermerk zum Kindergeldwechsel und zur Zuordnung der Kinder
+├── 05_einspruch_entwurf.md                    # Ausformulierter Einspruch mit Aussetzungsantrag und Anlagen
+├── 06_riester_jahresmatrix.csv                # Jahre, Vorjahreseinkommen, Sollbeitrag, Zulagen, Streitpunkte
+├── 07_anbieterhaftung_beratungsvermerk.md     # Zweiter Beratungsstrang: Ersatzanspruch gegen den Anbieter
+├── 08_anbieter_jahresbescheinigung_und_kontoauszug.md  # Zulagenkonto, Buchungen und interne Servicevermerke
+├── 09_email_zfa_nachweisfrist.eml             # Nachweisanforderung der ZfA mit Frist zum 10.08.2026
+├── 10_telefonnotiz_arbeitgeber_entgelt.txt    # Telefonnotiz zur Differenz Steuerbrutto / SV-Brutto
+├── 11_familienkasse_aenderungsbescheid.md     # Änderungsbescheid der Familienkasse vom 12.09.2024
+├── README.md                                  # Kurzbild, Struktur und Bearbeitungsziel
+├── gesamt-pdf/                                # Konsolidierte Lesefassung der Akte
+└── rubric.yaml                                # Prüfkriterien für die Bearbeitung
+```
 
 ## Aktenstücke
 
@@ -35,7 +55,8 @@ Nadja Erhart, 42, Altenpflegerin in Augsburg, erhält von der Zentralen Zulagens
 | `07_anbieterhaftung_beratungsvermerk.md` | Anbieterhinweis, Schadenlinie und Nachforderung |
 | `08_anbieter_jahresbescheinigung_und_kontoauszug.md` | Anbieterbescheinigung, Zulagenkonto und Vertragsbuchungen |
 | `09_email_zfa_nachweisfrist.eml` | Fristsetzung der Zulagenstelle mit konkreten Nachweiswünschen |
-| `10_telefonnotiz_arbeitgeber_minijob.txt` | Telefonnotiz zu Minijob, Elternzeit und rentenrechtlicher Zuordnung |
+| `10_telefonnotiz_arbeitgeber_entgelt.txt` | Telefonnotiz zum rentenversicherungspflichtigen Vorjahreseinkommen |
+| `11_familienkasse_aenderungsbescheid.md` | Änderungsbescheid zur Kindergeldfestsetzung für Jonas |
 
 ## Bearbeitungsziel
 

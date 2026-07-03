@@ -2,8 +2,9 @@ name: erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg
 description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken, Depotlücke, Pflegebehauptung und Auskunftsstufe.
 checks:
   - Pflichtteil und Pflichtteilsergänzung getrennt berechnen.
-  - Vorbehaltsrechte und Gegenleistungen nicht pauschal behandeln.
-  - Auskunft, Wertermittlung und Zahlungsstufe unterscheiden.
-  - Zehnjahresbetrachtung und wirtschaftlichen Vollzug prüfen.
-  - Zahlung an Moritz als mögliche Anrechnung gesondert würdigen.
-
+  - Vorbehaltsrechte (Wohnungsrecht, Obstwiese, Scheunenpacht, Rückauflassungsvormerkung) und Gegenleistungen nicht pauschal behandeln.
+  - Auskunft, Wertermittlung, eidesstattliche Versicherung und Zahlungsstufe unterscheiden.
+  - Zehnjahresbetrachtung, Fristbeginn und wirtschaftlichen Vollzug der Übertragung 2019 problematisieren.
+  - Zahlung von 35.000 EUR an Moritz als mögliche Anrechnung gesondert würdigen und dabei erkennen, dass eine dem Empfänger mitgeteilte Anrechnungsbestimmung nicht belegt ist.
+  - Diskrepanz zwischen Nachlassaufstellung der Erbin (Stück 02) und Bankauskunft (Stück 08, fortbestehende Bundesanleihe, Überweisungen an Alva und Jannik) als Aufklärungspunkt benennen.
+  - Bewertungsspanne (Geschäftswert 410.000 EUR gegen Maklereinschätzung 740.000 bis 820.000 EUR ohne Innenbesichtigung) nicht als feststehenden Wert übernehmen.

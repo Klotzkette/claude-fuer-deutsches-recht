@@ -2,8 +2,10 @@ name: erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe
 description: Patchwork-Erbfolge mit mehrfachen Ehen, Scheidungen, früherer Stieftochter als Ehefrau, zwei Erbfällen, alten Testamenten und Statusmatrix.
 checks:
   - Moralische Bewertung strikt von Verwandtschaft, Ehe und Testament trennen.
-  - Testamente nach Errichtungszeitpunkt und Scheidungsbezug prüfen.
-  - Fiona bei Armin als Ehefrau, nicht als Kind behandeln.
-  - Fiona bei Clemens als leibliche Tochter behandeln.
-  - Erbfälle Armin und Clemens chronologisch getrennt lösen.
-
+  - Testamente nach Errichtungszeitpunkt und Scheidungsbezug prüfen (1994 vor Scheidung Armin/Beate, 2014 nach Scheidung Armin/Dana, 2018 nach Scheidung Clemens/Dana).
+  - Fiona bei Armin als Ehefrau und testamentarisch Bedachte, nicht als Kind behandeln.
+  - Fiona bei Clemens als leibliche Tochter und testamentarische Alleinerbin behandeln.
+  - Erbfälle Armin (14.05.2026) und Clemens (02.06.2026) chronologisch getrennt lösen.
+  - Auslegungsfragen des Testaments 2014 (Erbeinsetzung oder Vermächtnis, bewusste Zuwendung nach Scheidung, Wirkung der späteren Ehe) offen benennen statt entscheiden.
+  - Beweiswert des nur in Kopie vorliegenden Zettels von 2018 und die Ablieferungspflicht ansprechen.
+  - Unterlagenbesitz und Sicherungsbedarf (Chat-Export, Ordner, Vollmacht) als tatsächliche Punkte aufnehmen.

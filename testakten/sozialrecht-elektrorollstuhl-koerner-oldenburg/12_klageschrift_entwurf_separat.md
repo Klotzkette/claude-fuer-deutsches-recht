@@ -1,6 +1,12 @@
 # Entwurf Klageschrift
 
-Nicht eingereicht. Stand 29.06.2026.
+Kanzlei Ahlers und Brinkmann, Fachanwälte für Sozialrecht
+Gottorpstraße 29, 26122 Oldenburg
+Telefon 0441 92 37 60-0
+Rechtsanwalt Joost Ahlers
+Unser Zeichen: 26-06-KR-1187
+
+Nicht eingereicht. Stand 29.06.2026. Versand per beA nach Mandantenfreigabe.
 
 An das Sozialgericht Oldenburg
 Schloßplatz 10

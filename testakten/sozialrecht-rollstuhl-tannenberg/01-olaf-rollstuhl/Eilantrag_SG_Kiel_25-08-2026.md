@@ -52,7 +52,7 @@ Vorläufig EUR 5.847,00.
 
 Der Antragsteller leidet seit 1998 an schubförmig-progredienter Multipler Sklerose und benötigt mit zunehmender Krankheitsverschlechterung einen Aktivrollstuhl zur Wahrung der elementaren sozialen Teilhabe. Wegen ausgeprägter Hemiparese links (Handkraft 7,2 kg, MRC 3/5) ist er nicht in der Lage, einen Standard-Rollstuhl zu nutzen.
 
-Am 11.02.2026 hat der Antragsteller bei der Antragsgegnerin den Antrag auf Versorgung mit einem Aktivrollstuhl gestellt. Mit Bescheid vom 18.04.2026 wurde der Antrag abgelehnt; der hiergegen am 20.05.2026 erhobene Widerspruch wurde mit Widerspruchs-Bescheid vom 18.08.2026, zugestellt am 21.08.2026, zurückgewiesen. **Klage gegen den Widerspruchs-Bescheid wird parallel mit gleichem Datum erhoben (Az. SG Kiel S 9 KR 187/26).**
+Am 11.02.2026 hat der Antragsteller bei der Antragsgegnerin den Antrag auf Versorgung mit einem Aktivrollstuhl gestellt. Mit Bescheid vom 18.04.2026 wurde der Antrag abgelehnt; der hiergegen am 20.05.2026 erhobene Widerspruch wurde mit Widerspruchs-Bescheid vom 18.08.2026, zugestellt am 21.08.2026, zurückgewiesen. **Klage gegen den Widerspruchs-Bescheid wird parallel mit gleichem Datum erhoben; ein gerichtliches Aktenzeichen liegt noch nicht vor.**
 
 ### 2. Anordnungsgrund — Eilbedürftigkeit
 
@@ -73,7 +73,7 @@ Damit ist der **Anordnungsgrund** im Sinne der zur einstweiligen Anordnung erfor
 
 ### 3. Anordnungsanspruch
 
-Der Anordnungsanspruch — d.h. der materiell-rechtliche Anspruch auf die Hilfsmittel-Versorgung gemäß § 33 SGB V — ist in der Widerspruchs-Begründung sowie in der Klageschrift (Az. SG Kiel S 9 KR 187/26) ausführlich dargestellt. Er ist mit hoher Wahrscheinlichkeit begründet (BSG, Urteil vom 16.09.2004, B 3 KR 17/01 R; BSG, Urteil vom 18.05.2011, B 3 KR 7/10 R).
+Der Anordnungsanspruch — d.h. der materiell-rechtliche Anspruch auf die Hilfsmittel-Versorgung gemäß § 33 SGB V — ist in der Widerspruchs-Begründung sowie in der mit gleichem Datum erhobenen Klageschrift ausführlich dargestellt. Er ist mit hoher Wahrscheinlichkeit begründet (BSG, Urteil vom 16.09.2004, B 3 KR 17/01 R; BSG, Urteil vom 18.05.2011, B 3 KR 7/10 R).
 
 Insbesondere ist nicht erkennbar, dass die Antragsgegnerin im Widerspruchs-Bescheid auf das ergänzende Attest vom 05.05.2026 oder den Reha-Entlassungsbericht aus Damp 2024 inhaltlich Bezug genommen hätte; ihr MDK-Gutachten ist methodisch unzureichend (keine Handkraft-Messung, keine persönliche Untersuchung). Die behauptete "Wohnungsbarriere-freiheit" als Ablehnungs-Grund verkennt die Tatsache, dass der Antragsteller in der Wohnung den Rollstuhl ohnehin nicht benötigt — er benötigt ihn für die **Wege außerhalb der Wohnung**.
 
@@ -104,7 +104,7 @@ Zur Glaubhaftmachung des Anordnungsgrunds und des Anordnungsanspruchs werden fol
 - A-4: Eidesstattliche Versicherung der Tochter Stefanie Tannenberg vom 24.08.2026 (zur Verfügbarkeit als Begleitperson)
 - A-5: Wirtschaftlicher Status des Antragstellers (EU-Rente-Bescheid, Mietvertrag, Kontoauszüge der letzten 3 Monate)
 - A-6: Widerspruchs-Bescheid Nordsee-BKK vom 18.08.2026 nebst Bescheid vom 18.04.2026
-- A-7: Auszug aus der Klageschrift im Hauptsacheverfahren (Az. SG Kiel S 9 KR 187/26) — Begründetheits-Vortrag
+- A-7: Auszug aus der Klageschrift im Hauptsacheverfahren — Begründetheits-Vortrag
 
 ### 6. PKH-Antrag
 

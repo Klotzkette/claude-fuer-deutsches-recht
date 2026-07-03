@@ -1,0 +1,9 @@
+name: sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster
+description: Schwerbehindertenverfahren mit GdB-Erhöhungsantrag, streitigem Merkzeichen G, versorgungsärztlicher Stellungnahme nach Aktenlage und nachgereichten Facharztbefunden.
+checks:
+  - Widerspruchsfrist korrekt berechnen; das rechnerische Fristende 25.07.2026 fällt auf einen Samstag.
+  - Gesamt-GdB-Bildung nach den Versorgungsmedizinischen Grundsätzen erklären und nicht als Addition der Einzel-GdB behandeln.
+  - Die versorgungsärztliche Stellungnahme an ihrer veralteten und unvollständigen Befundgrundlage messen (fehlende Lungenfunktion, fehlende Elektroneurographie).
+  - Merkzeichen G an der tatsächlichen Gehfähigkeit prüfen (Sechs-Minuten-Gehtest, Alltagsprotokoll, Sturz), nicht an Diagnosen.
+  - Die wechselseitige Verstärkung von Polyneuropathie, COPD und Gonarthrose beim Gehen herausarbeiten.
+  - Die Schnittstelle zur Altersrente für schwerbehinderte Menschen erkennen und die Verfahrensdauer daran ausrichten.
