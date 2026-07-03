@@ -26,20 +26,20 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 
 | Nr. | Datei | Inhalt |
 | --- | --- | --- |
-| 01 | `01_mandatsnotiz_erstgespraech.md` | Erstgespräch, Ziele, Fristen, Trennungsdatum, Beteiligte |
-| 02 | `02_trennungs_und_betreuungschronik.md` | Alltag, Betreuungsanteile, Schulwege, Streitpunkte |
-| 03 | `03_kinderdaten_mehrbedarf_sonderbedarf.md` | Kinder, Betreuung, Hort, Musikschule, Brille, Klassenfahrt |
-| 04 | `04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.md` | Gehalt, Dienstwagenverzicht, Fahrtkosten, Nebentätigkeit |
-| 05 | `05_einkommen_martin_gehalt_bonus_nebenerwerb.md` | Gehalt, Bonus, Firmenbeteiligung, Ingenieurbüro |
-| 06 | `06_selbststaendigkeit_martin_konten_und_rechnungen.md` | Nebenerwerb, offene Rechnungen, Materialeinkauf |
-| 07 | `07_wohnwert_familienhaus_lasten_instandhaltung.md` | Haus, Darlehen, Nebenkosten, Instandhaltung, Nutzungsfragen |
-| 08 | `08_vermoegen_anfangsvermoegen_und_zuwendungen.md` | Anfangsvermögen, Schenkungen, Erbschaftsanteile |
-| 09 | `09_vermoegen_endvermoegen_depot_lebensversicherung.md` | Endvermögen, Depot, Versicherung, Fahrzeuge, Konten |
-| 10 | `10_bankbewegungen_und_barabhebungen.md` | auffällige Bewegungen, Umbuchungen, Barabhebungen |
-| 11 | `11_korrespondenz_gegenseite_auskunft.md` | Auskunftsverlangen, Reaktionen, fehlende Belege |
-| 12 | `12_fristsachen_und_unterlagenliste.md` | Fristenblatt, fehlende Dokumente, nächste Schritte |
-| 13 | `13_auskunftsverlangen_anwaltsschreiben_27-05-2026.md` | Auskunftsverlangen der früheren Anwältin Feldmann mit Belegliste und Frist |
-| 14 | `14_verdienstabrechnung_elena_mai_2026.md` | Entgeltabrechnung des MVZ Wetterau für Mai 2026 als Abdruck |
+| 01 | `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch, Ziele, Fristen, Trennungsdatum, Beteiligte |
+| 02 | `02_trennungs_und_betreuungschronik.docx` | Alltag, Betreuungsanteile, Schulwege, Streitpunkte |
+| 03 | `03_kinderdaten_mehrbedarf_sonderbedarf.docx` | Kinder, Betreuung, Hort, Musikschule, Brille, Klassenfahrt |
+| 04 | `04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.docx` | Gehalt, Dienstwagenverzicht, Fahrtkosten, Nebentätigkeit |
+| 05 | `05_einkommen_martin_gehalt_bonus_nebenerwerb.docx` | Gehalt, Bonus, Firmenbeteiligung, Ingenieurbüro |
+| 06 | `06_selbststaendigkeit_martin_konten_und_rechnungen.docx` | Nebenerwerb, offene Rechnungen, Materialeinkauf |
+| 07 | `07_wohnwert_familienhaus_lasten_instandhaltung.docx` | Haus, Darlehen, Nebenkosten, Instandhaltung, Nutzungsfragen |
+| 08 | `08_vermoegen_anfangsvermoegen_und_zuwendungen.docx` | Anfangsvermögen, Schenkungen, Erbschaftsanteile |
+| 09 | `09_vermoegen_endvermoegen_depot_lebensversicherung.docx` | Endvermögen, Depot, Versicherung, Fahrzeuge, Konten |
+| 10 | `10_bankbewegungen_und_barabhebungen.docx` | auffällige Bewegungen, Umbuchungen, Barabhebungen |
+| 11 | `11_korrespondenz_gegenseite_auskunft.docx` | Auskunftsverlangen, Reaktionen, fehlende Belege |
+| 12 | `12_fristsachen_und_unterlagenliste.docx` | Fristenblatt, fehlende Dokumente, nächste Schritte |
+| 13 | `13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx` | Auskunftsverlangen der früheren Anwältin Feldmann mit Belegliste und Frist |
+| 14 | `14_verdienstabrechnung_elena_mai_2026.docx` | Entgeltabrechnung des MVZ Wetterau für Mai 2026 als Abdruck |
 
 ## Datenanhänge
 
@@ -58,20 +58,20 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 
 ```text
 familienrecht-unterhalt-zugewinn-bad-nauheim/
-├── 01_mandatsnotiz_erstgespraech.md            Erstgespräch: Trennung, Ziele, Fristlage
-├── 02_trennungs_und_betreuungschronik.md       Betreuungsalltag und Ereignisliste seit Februar 2026
-├── 03_kinderdaten_mehrbedarf_sonderbedarf.md   Kinder, laufende Kosten, Einmalpositionen
-├── 04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.md   Gehalt, Pauschalen, Nebentätigkeit Elena
-├── 05_einkommen_martin_gehalt_bonus_nebenerwerb.md         Gehalt, Bonusstreit, Firmenwagen Martin
-├── 06_selbststaendigkeit_martin_konten_und_rechnungen.md   Ingenieurbüro MN: Rechnungen, offene Belege
-├── 07_wohnwert_familienhaus_lasten_instandhaltung.md       Haus Hainerweg 18: Darlehen, Lasten, Nutzung
-├── 08_vermoegen_anfangsvermoegen_und_zuwendungen.md        Anfangsvermögen, Tantengeld, Elterndarlehen
-├── 09_vermoegen_endvermoegen_depot_lebensversicherung.md   Endvermögensrohdaten beider Seiten
-├── 10_bankbewegungen_und_barabhebungen.md      Aufzuklärende Kontobewegungen März bis Juni 2026
-├── 11_korrespondenz_gegenseite_auskunft.md     Auskunftsverlangen und lückenhafte Antwort
-├── 12_fristsachen_und_unterlagenliste.md       Fristenblatt und fehlende Unterlagen je Seite
-├── 13_auskunftsverlangen_anwaltsschreiben_27-05-2026.md    Schreiben RAin Feldmann vom 27.05.2026
-├── 14_verdienstabrechnung_elena_mai_2026.md    Entgeltabrechnung MVZ Wetterau Mai 2026
+├── 01_mandatsnotiz_erstgespraech.docx            Erstgespräch: Trennung, Ziele, Fristlage
+├── 02_trennungs_und_betreuungschronik.docx       Betreuungsalltag und Ereignisliste seit Februar 2026
+├── 03_kinderdaten_mehrbedarf_sonderbedarf.docx   Kinder, laufende Kosten, Einmalpositionen
+├── 04_einkommen_elena_arbeitgeber_und_nebentaetigkeit.docx   Gehalt, Pauschalen, Nebentätigkeit Elena
+├── 05_einkommen_martin_gehalt_bonus_nebenerwerb.docx         Gehalt, Bonusstreit, Firmenwagen Martin
+├── 06_selbststaendigkeit_martin_konten_und_rechnungen.docx   Ingenieurbüro MN: Rechnungen, offene Belege
+├── 07_wohnwert_familienhaus_lasten_instandhaltung.docx       Haus Hainerweg 18: Darlehen, Lasten, Nutzung
+├── 08_vermoegen_anfangsvermoegen_und_zuwendungen.docx        Anfangsvermögen, Tantengeld, Elterndarlehen
+├── 09_vermoegen_endvermoegen_depot_lebensversicherung.docx   Endvermögensrohdaten beider Seiten
+├── 10_bankbewegungen_und_barabhebungen.docx      Aufzuklärende Kontobewegungen März bis Juni 2026
+├── 11_korrespondenz_gegenseite_auskunft.docx     Auskunftsverlangen und lückenhafte Antwort
+├── 12_fristsachen_und_unterlagenliste.docx       Fristenblatt und fehlende Unterlagen je Seite
+├── 13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx    Schreiben RAin Feldmann vom 27.05.2026
+├── 14_verdienstabrechnung_elena_mai_2026.docx    Entgeltabrechnung MVZ Wetterau Mai 2026
 ├── csv/
 │   ├── einkommen_2025_2026.csv                 Monatswerte Gehalt, Bonus, Nebentätigkeiten
 │   ├── kinder_mehrbedarf_2026.csv              Kinderkosten und offene Belege

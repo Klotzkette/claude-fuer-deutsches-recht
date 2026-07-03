@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 572 KB) | PDF | [`gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf`](gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 566 KB) | PDF | [`gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf`](gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip) |
 
@@ -68,28 +68,28 @@ Arbeitsakte zum Plugin `normenkontrolle-bauleitplanung`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-tannengarten.md`](01-mandatsuebernahme-tannengarten.md) | Mandatsaufnahmenotiz, Vollmacht BI e.V., erste Erfolgsaussichten |
-| 02 | [`02-bplan-spreepark-2026-text.md`](02-bplan-spreepark-2026-text.md) | B-Plan XV-43d Textfestsetzungen (vollständig) |
-| 03 | [`03-bplan-spreepark-begruendung.md`](03-bplan-spreepark-begruendung.md) | Begründung B-Plan XV-43d, Planziele, Abwägungsdarstellung |
-| 04 | [`04-flaechennutzungsplan-berlin-2026.md`](04-flaechennutzungsplan-berlin-2026.md) | FNP Berlin 2026, Darstellung Plangebiet, Entwicklungsgebot § 8 BauGB |
-| 05 | [`05-aufstellungsbeschluss-bvv-friedrichshain.md`](05-aufstellungsbeschluss-bvv-friedrichshain.md) | Aufstellungsbeschluss BVV 14.06.2022, Bekanntmachungsmangel |
-| 06 | [`06-fruehe-buergerbeteiligung-protokoll.md`](06-fruehe-buergerbeteiligung-protokoll.md) | Protokoll frühzeitige Bürgerbeteiligung, Formalmängel § 3 Abs. 1 BauGB |
-| 07 | [`07-oeffentliche-auslegung-stellungnahmen.md`](07-oeffentliche-auslegung-stellungnahmen.md) | Öffentliche Auslegung § 3 Abs. 2 BauGB, eingegangene Stellungnahmen |
-| 08 | [`08-umweltbericht-spreeufer-park.md`](08-umweltbericht-spreeufer-park.md) | Umweltbericht gem. § 2 Abs. 4 BauGB, Defizitanalyse |
-| 09 | [`09-artenschutzgutachten-zauneidechse.md`](09-artenschutzgutachten-zauneidechse.md) | Artenschutzkomplex Zauneidechse, CEF-Maßnahmen, Kritik |
-| 10 | [`10-laermschutzgutachten-stadtbahn.md`](10-laermschutzgutachten-stadtbahn.md) | Schalltechnische Untersuchung, S-Bahn-Trasse, Abwägungsfehler |
-| 11 | [`11-verkehrsuntersuchung-bplan-spreepark.md`](11-verkehrsuntersuchung-bplan-spreepark.md) | Verkehrsgutachten, Stellplätze, ÖPNV, Erschließung |
-| 12 | [`12-soziale-vertraeglichkeitspruefung.md`](12-soziale-vertraeglichkeitspruefung.md) | Sozialverträglichkeit, Mieten, Verdrängungsrisiko, § 1 Abs. 6 Nr. 2 BauGB |
-| 13 | [`13-abwaegungsdokumentation-bezirksamt.md`](13-abwaegungsdokumentation-bezirksamt.md) | Abwägungsdokumentation Bezirksamt, Mängel, BVerwG-Maßstäbe |
-| 14 | [`14-satzungsbeschluss-bvv.md`](14-satzungsbeschluss-bvv.md) | Satzungsbeschluss BVV 12.03.2026, Verfahrensschritte |
-| 15 | [`15-bekanntmachung-amtsblatt.md`](15-bekanntmachung-amtsblatt.md) | Bekanntmachung Amtsblatt Berlin, § 215 BauGB Rügeobliegenheit |
-| 16 | [`16-antragschrift-normenkontrolle-ovg-berlin.md`](16-antragschrift-normenkontrolle-ovg-berlin.md) | Normenkontrollantrag gem. § 47 VwGO, vollständige Antragschrift |
-| 17 | [`17-eilantrag-zwischenverfuegung-83-vwgo.md`](17-eilantrag-zwischenverfuegung-83-vwgo.md) | Eilantrag § 47 Abs. 6 VwGO, Außervollzugsetzung B-Plan |
-| 18 | [`18-erwiderung-land-berlin.md`](18-erwiderung-land-berlin.md) | Erwiderungsschriftsatz Land Berlin / Bezirk |
-| 19 | [`19-replik-buergerinitiative.md`](19-replik-buergerinitiative.md) | Replik der Antragstellerin (Bürgerinitiative) |
-| 20 | [`20-protokoll-muendliche-verhandlung-ovg.md`](20-protokoll-muendliche-verhandlung-ovg.md) | Protokoll mündliche Verhandlung OVG Berlin-Brandenburg |
-| 21 | [`21-urteil-ovg-berlin-10-a-1-26.md`](21-urteil-ovg-berlin-10-a-1-26.md) | Urteil OVG Berlin-Brandenburg 10 A 1.26, Kassation B-Plan |
-| 22 | [`22-rechtsmittel-bundesverwaltungsgericht.md`](22-rechtsmittel-bundesverwaltungsgericht.md) | Revisionsbeschwerde / Nichtzulassungsbeschwerde BVerwG |
+| 01 | [`01-mandatsuebernahme-tannengarten.docx`](01-mandatsuebernahme-tannengarten.docx) | Mandatsaufnahmenotiz, Vollmacht BI e.V., erste Erfolgsaussichten |
+| 02 | [`02-bplan-spreepark-2026-text.docx`](02-bplan-spreepark-2026-text.docx) | B-Plan XV-43d Textfestsetzungen (vollständig) |
+| 03 | [`03-bplan-spreepark-begruendung.docx`](03-bplan-spreepark-begruendung.docx) | Begründung B-Plan XV-43d, Planziele, Abwägungsdarstellung |
+| 04 | [`04-flaechennutzungsplan-berlin-2026.docx`](04-flaechennutzungsplan-berlin-2026.docx) | FNP Berlin 2026, Darstellung Plangebiet, Entwicklungsgebot § 8 BauGB |
+| 05 | [`05-aufstellungsbeschluss-bvv-friedrichshain.docx`](05-aufstellungsbeschluss-bvv-friedrichshain.docx) | Aufstellungsbeschluss BVV 14.06.2022, Bekanntmachungsmangel |
+| 06 | [`06-fruehe-buergerbeteiligung-protokoll.docx`](06-fruehe-buergerbeteiligung-protokoll.docx) | Protokoll frühzeitige Bürgerbeteiligung, Formalmängel § 3 Abs. 1 BauGB |
+| 07 | [`07-oeffentliche-auslegung-stellungnahmen.docx`](07-oeffentliche-auslegung-stellungnahmen.docx) | Öffentliche Auslegung § 3 Abs. 2 BauGB, eingegangene Stellungnahmen |
+| 08 | [`08-umweltbericht-spreeufer-park.docx`](08-umweltbericht-spreeufer-park.docx) | Umweltbericht gem. § 2 Abs. 4 BauGB, Defizitanalyse |
+| 09 | [`09-artenschutzgutachten-zauneidechse.docx`](09-artenschutzgutachten-zauneidechse.docx) | Artenschutzkomplex Zauneidechse, CEF-Maßnahmen, Kritik |
+| 10 | [`10-laermschutzgutachten-stadtbahn.docx`](10-laermschutzgutachten-stadtbahn.docx) | Schalltechnische Untersuchung, S-Bahn-Trasse, Abwägungsfehler |
+| 11 | [`11-verkehrsuntersuchung-bplan-spreepark.docx`](11-verkehrsuntersuchung-bplan-spreepark.docx) | Verkehrsgutachten, Stellplätze, ÖPNV, Erschließung |
+| 12 | [`12-soziale-vertraeglichkeitspruefung.docx`](12-soziale-vertraeglichkeitspruefung.docx) | Sozialverträglichkeit, Mieten, Verdrängungsrisiko, § 1 Abs. 6 Nr. 2 BauGB |
+| 13 | [`13-abwaegungsdokumentation-bezirksamt.docx`](13-abwaegungsdokumentation-bezirksamt.docx) | Abwägungsdokumentation Bezirksamt, Mängel, BVerwG-Maßstäbe |
+| 14 | [`14-satzungsbeschluss-bvv.docx`](14-satzungsbeschluss-bvv.docx) | Satzungsbeschluss BVV 12.03.2026, Verfahrensschritte |
+| 15 | [`15-bekanntmachung-amtsblatt.docx`](15-bekanntmachung-amtsblatt.docx) | Bekanntmachung Amtsblatt Berlin, § 215 BauGB Rügeobliegenheit |
+| 16 | [`16-antragschrift-normenkontrolle-ovg-berlin.docx`](16-antragschrift-normenkontrolle-ovg-berlin.docx) | Normenkontrollantrag gem. § 47 VwGO, vollständige Antragschrift |
+| 17 | [`17-eilantrag-zwischenverfuegung-83-vwgo.docx`](17-eilantrag-zwischenverfuegung-83-vwgo.docx) | Eilantrag § 47 Abs. 6 VwGO, Außervollzugsetzung B-Plan |
+| 18 | [`18-erwiderung-land-berlin.docx`](18-erwiderung-land-berlin.docx) | Erwiderungsschriftsatz Land Berlin / Bezirk |
+| 19 | [`19-replik-buergerinitiative.docx`](19-replik-buergerinitiative.docx) | Replik der Antragstellerin (Bürgerinitiative) |
+| 20 | [`20-protokoll-muendliche-verhandlung-ovg.docx`](20-protokoll-muendliche-verhandlung-ovg.docx) | Protokoll mündliche Verhandlung OVG Berlin-Brandenburg |
+| 21 | [`21-urteil-ovg-berlin-10-a-1-26.docx`](21-urteil-ovg-berlin-10-a-1-26.docx) | Urteil OVG Berlin-Brandenburg 10 A 1.26, Kassation B-Plan |
+| 22 | [`22-rechtsmittel-bundesverwaltungsgericht.docx`](22-rechtsmittel-bundesverwaltungsgericht.docx) | Revisionsbeschwerde / Nichtzulassungsbeschwerde BVerwG |
 
 ---
 

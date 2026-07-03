@@ -25,14 +25,14 @@ Gesamt-PDF: [`gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_g
 | Datei | Inhalt |
 | --- | --- |
 | `00-aktenuebersicht.md` | kurzer Sachstand, Beteiligte, offene Punkte |
-| `01-partnerauftrag-designschutz.md` | anwaltlicher Arbeitsauftrag mit Fristen und Risikoachse |
+| `01-partnerauftrag-designschutz.docx` | anwaltlicher Arbeitsauftrag mit Fristen und Risikoachse |
 | `02-offenbarungs-chronologie.csv` | Veröffentlichungen, Screenshots, Messe- und Social-Media-Spuren |
-| `03-designvergleich-marktnotiz.md` | Produktvergleich aus Sicht des Mandanten und erste Beweisfragen |
+| `03-designvergleich-marktnotiz.docx` | Produktvergleich aus Sicht des Mandanten und erste Beweisfragen |
 | `04-abmahnentwurf-kurz.docx` | knapper Entwurf für Anspruchsschreiben, bewusst noch unfertig |
 | `05-e-mail-agentur-offenbarung.eml` | Mail der Kreativagentur zur frühen Veröffentlichung |
-| `06-register-und-prioritaetscheck.md` | Register- und Prioritätsnotiz mit Varianten |
+| `06-register-und-prioritaetscheck.docx` | Register- und Prioritätsnotiz mit Varianten |
 | `07-bildanlage-stuhlvergleich.jpg` | Bildanlage mit drei schematischen Produktansichten |
 | `08-budget-und-fristen.xlsx` | Fristen, Kostenannahmen, Entscheidungsoptionen |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `designrecht-geschmacksmusterrecht`, `markenrecht-fashion-luxus`, `gewerblicher-rechtsschutz`

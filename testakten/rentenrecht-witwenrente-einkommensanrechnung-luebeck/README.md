@@ -28,18 +28,18 @@ Die Akte enthält Rentenbescheid, Einkommensunterlagen, Betriebsrentenmitteilung
 
 ```
 rentenrecht-witwenrente-einkommensanrechnung-luebeck/
-├── 01_mandatsnotiz_fristsache.md              # Erstgespräch, Frist, Beteiligte, Beratungsziel
-├── 02_drv_bescheid_witwenrente.md             # DRV-Bewilligungsbescheid mit Berechnung und Rechtsbehelfsbelehrung
-├── 03_einkommen_und_betriebsrente.md          # Vermerk zur Einkommenslage: Lohn, Betriebsrente, Sofortrente
-├── 04_kvdr_und_beitragsabzug.md               # Krankenkassenmitteilung zur KVdR und Beitragsdifferenz
-├── 05_widerspruch_entwurf.md                  # Ausformulierter Widerspruch gegen Anrechnung und Kontenlücke
+├── 01_mandatsnotiz_fristsache.docx              # Erstgespräch, Frist, Beteiligte, Beratungsziel
+├── 02_drv_bescheid_witwenrente.docx             # DRV-Bewilligungsbescheid mit Berechnung und Rechtsbehelfsbelehrung
+├── 03_einkommen_und_betriebsrente.docx          # Vermerk zur Einkommenslage: Lohn, Betriebsrente, Sofortrente
+├── 04_kvdr_und_beitragsabzug.docx               # Krankenkassenmitteilung zur KVdR und Beitragsdifferenz
+├── 05_widerspruch_entwurf.docx                  # Ausformulierter Widerspruch gegen Anrechnung und Kontenlücke
 ├── 06_berechnungsmatrix_witwenrente.csv       # Monatswerte, Anrechnungsbetrag, Zahlbetrag, Prüfvermerke
-├── 07_daenemark_kontenklaerung.md             # Dänische Nachweise und Antrag auf zwischenstaatliche Kontenklärung
-├── 08_arbeitgeberbescheinigung_und_lohnabrechnung.md  # Entgeltbescheinigung mit Zulagen und Juni-Lohnabrechnung
+├── 07_daenemark_kontenklaerung.docx             # Dänische Nachweise und Antrag auf zwischenstaatliche Kontenklärung
+├── 08_arbeitgeberbescheinigung_und_lohnabrechnung.docx  # Entgeltbescheinigung mit Zulagen und Juni-Lohnabrechnung
 ├── 09_email_betriebsrente_nachfrage.eml       # HansePort-Antwort zur Witwenversorgung des Verstorbenen
 ├── 10_kontoauszug_und_fragenliste.txt         # Kontoumsätze und offene Mandantenfragen
-├── 11_hzvk_betriebsrentenmitteilung.md        # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
-├── 12_hl_leben_leistungsmitteilung.md         # Versichererbestätigung der privaten Sofortrente
+├── 11_hzvk_betriebsrentenmitteilung.docx        # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
+├── 12_hl_leben_leistungsmitteilung.docx         # Versichererbestätigung der privaten Sofortrente
 ├── README.md                                  # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                                # Prüfkriterien für die Bearbeitung
@@ -49,18 +49,18 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_fristsache.md` | Erstgespräch, Frist, Beteiligte, Beratungsziel |
-| `02_drv_bescheid_witwenrente.md` | Bewilligungsbescheid mit Rentenbeginn, Zahlbetrag und Berechnung |
-| `03_einkommen_und_betriebsrente.md` | Vermerk zu Lohn, Betriebsrente, privater Sofortrente, Pauschalnetto |
-| `04_kvdr_und_beitragsabzug.md` | Krankenkasse, Kranken- und Pflegeversicherungsbeiträge |
-| `05_widerspruch_entwurf.md` | Widerspruch gegen Einkommensanrechnung und Kontenlücken |
+| `01_mandatsnotiz_fristsache.docx` | Erstgespräch, Frist, Beteiligte, Beratungsziel |
+| `02_drv_bescheid_witwenrente.docx` | Bewilligungsbescheid mit Rentenbeginn, Zahlbetrag und Berechnung |
+| `03_einkommen_und_betriebsrente.docx` | Vermerk zu Lohn, Betriebsrente, privater Sofortrente, Pauschalnetto |
+| `04_kvdr_und_beitragsabzug.docx` | Krankenkasse, Kranken- und Pflegeversicherungsbeiträge |
+| `05_widerspruch_entwurf.docx` | Widerspruch gegen Einkommensanrechnung und Kontenlücken |
 | `06_berechnungsmatrix_witwenrente.csv` | Monatswerte, Freibetrag, Anrechnungsbetrag, Zahlbetrag |
-| `07_daenemark_kontenklaerung.md` | Auslandszeiten, Nachweise und Auskunftsersuchen |
-| `08_arbeitgeberbescheinigung_und_lohnabrechnung.md` | Arbeitgeberbescheinigung, Schichtzulagen und Lohnabrechnungswerte |
+| `07_daenemark_kontenklaerung.docx` | Auslandszeiten, Nachweise und Auskunftsersuchen |
+| `08_arbeitgeberbescheinigung_und_lohnabrechnung.docx` | Arbeitgeberbescheinigung, Schichtzulagen und Lohnabrechnungswerte |
 | `09_email_betriebsrente_nachfrage.eml` | Nachfrage zur Zusatzversorgung und zum Zahlbeginn |
 | `10_kontoauszug_und_fragenliste.txt` | Kontoauszugsausschnitt und Mandantenfragen |
-| `11_hzvk_betriebsrentenmitteilung.md` | Betriebsrentenmitteilung der Zusatzversorgungskasse |
-| `12_hl_leben_leistungsmitteilung.md` | Leistungsmitteilung des privaten Versicherers |
+| `11_hzvk_betriebsrentenmitteilung.docx` | Betriebsrentenmitteilung der Zusatzversorgungskasse |
+| `12_hl_leben_leistungsmitteilung.docx` | Leistungsmitteilung des privaten Versicherers |
 
 ## Bearbeitungsziel
 

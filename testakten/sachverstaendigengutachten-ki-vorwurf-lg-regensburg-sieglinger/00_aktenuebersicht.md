@@ -28,12 +28,12 @@ Bei der Durchsicht des Gutachtens fielen Auffälligkeiten auf, die Anlass zur Pr
 
 ## Verfahrenslage seit Anhörungsantrag
 
-- 02.12.2025: Schriftsatz Klaegerseite — Antrag auf mündliche Anhörung und Aktenherausgabe (vgl. 08_schriftsatzentwurf_anhoerungsantrag.md).
-- 09.12.2025: Verfügung der 4. Zivilkammer mit Anhörungstermin am 22.01.2026 und detaillierten Aktenherausgabeauflagen (vgl. 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.md). Die Kammer fragt explizit nach KI-Einsatz.
-- 08.01.2026: Schriftliche Stellungnahme des Sachverständigen mit eingeräumter Verwendung eines KI-Schreibassistenten "TextPlus AI" sowie mit Eingeständnis der VDE-AR-N-4105-Verkürzung (vgl. 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.md).
+- 02.12.2025: Schriftsatz Klaegerseite — Antrag auf mündliche Anhörung und Aktenherausgabe (vgl. 08_schriftsatzentwurf_anhoerungsantrag.docx).
+- 09.12.2025: Verfügung der 4. Zivilkammer mit Anhörungstermin am 22.01.2026 und detaillierten Aktenherausgabeauflagen (vgl. 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.docx). Die Kammer fragt explizit nach KI-Einsatz.
+- 08.01.2026: Schriftliche Stellungnahme des Sachverständigen mit eingeräumter Verwendung eines KI-Schreibassistenten "TextPlus AI" sowie mit Eingeständnis der VDE-AR-N-4105-Verkürzung (vgl. 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.docx).
 - 22.01.2026: Mündliche Anhörung (Protokoll Bl. ... d. A.). Wesentlich: SV gibt fehlende eigene Messungen, fehlende Wechselrichter-Öffnung und fehlende Modulhalter-Demontage zu.
-- 23.01.2026: Mandanten-Korrespondenz mit Folgefragen (vgl. 18_mandanten_email_sieglinger_nach_anhoerung.md).
-- 23./26.01.2026: Entwurf Befangenheitsantrag (vgl. 16_befangenheitsantrag_entwurf.md) und inhaltliche Skizze des Privatgutachtens Wallner II (vgl. 17_gegen_gutachten_wallner_notiz.md). Frist § 406 Abs. 2 ZPO läuft bis 05.02.2026.
+- 23.01.2026: Mandanten-Korrespondenz mit Folgefragen (vgl. 18_mandanten_email_sieglinger_nach_anhoerung.docx).
+- 23./26.01.2026: Entwurf Befangenheitsantrag (vgl. 16_befangenheitsantrag_entwurf.docx) und inhaltliche Skizze des Privatgutachtens Wallner II (vgl. 17_gegen_gutachten_wallner_notiz.docx). Frist § 406 Abs. 2 ZPO läuft bis 05.02.2026.
 - Nächste Termine: Mandantengespraech 28.01.2026, geplante Einreichung Befangenheitsantrag bis 04.02.2026, Wallner-II-Auftrag nach Aufklärung des Mandanten.
 
 ## Aktuelle Strategieebene
@@ -45,24 +45,24 @@ Bei der Durchsicht des Gutachtens fielen Auffälligkeiten auf, die Anlass zur Pr
 ## Akteninhalt
 
 - 00_aktenuebersicht.md (dieses Dokument)
-- 01_klage_schriftsatz.md
-- 02_klageerwiderung_burgwald.md (fragmentarisch — Anlagenverzeichnis B 1 bis B 7)
-- 03_beweisbeschluss_15_01_2025.md
+- 01_klage_schriftsatz.docx
+- 02_klageerwiderung_burgwald.docx (fragmentarisch — Anlagenverzeichnis B 1 bis B 7)
+- 03_beweisbeschluss_15_01_2025.docx
 - 04_gutachten_pfaffenberger_auszug.txt
 - 05_indizien_ki_einsatz.csv
-- 06_mandantenbesprechung_18_11_2025.md
-- 07_strategieskizze_anwalt.md
-- 08_schriftsatzentwurf_anhoerungsantrag.md
+- 06_mandantenbesprechung_18_11_2025.docx
+- 07_strategieskizze_anwalt.docx
+- 08_schriftsatzentwurf_anhoerungsantrag.docx
 - 09_vergleich_andere_gutachten_pfaffenberger.json (fragmentarisch)
-- 10_protokoll_internes_quality_review.md
+- 10_protokoll_internes_quality_review.docx
 - 11_kostenkalkulation_privatgutachten.csv (Wallner II)
 - 12_email_sachverstaendiger_an_kammer.eml
-- 13_anlagenverzeichnis.md (erweitert um K 10 bis K 13 und G 1 bis G 7)
-- 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.md
-- 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.md
-- 16_befangenheitsantrag_entwurf.md
-- 17_gegen_gutachten_wallner_notiz.md
-- 18_mandanten_email_sieglinger_nach_anhoerung.md
+- 13_anlagenverzeichnis.docx (erweitert um K 10 bis K 13 und G 1 bis G 7)
+- 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.docx
+- 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.docx
+- 16_befangenheitsantrag_entwurf.docx
+- 17_gegen_gutachten_wallner_notiz.docx
+- 18_mandanten_email_sieglinger_nach_anhoerung.docx
 
 Die Akte liegt mit Brüchen, gemischten Formaten und teils nur Bruchstücken vor. Sie spiegelt eine Mandatslage in der Phase der Indizienverdichtung und der ersten Eskalationsstufen wider, in der die Unterlagen noch nicht vollständig geordnet sind.
 

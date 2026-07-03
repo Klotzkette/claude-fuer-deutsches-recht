@@ -26,17 +26,17 @@ Die Akte liegt als verstreuter Ordner mit Markdown, EML, DOCX, XLSX, PDF und Bil
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-projektauftrag-und-vertragsstand.md` | Ausgangslage, Vertrag, Stufenbeauftragung |
-| `02-lph1-grundlagen-und-bedarf.md` | Grundlagenermittlung und Bedarfslücken |
-| `03-lph2-vorplanung-varianten.md` | Varianten, Kostenschätzung, politische Freigabe |
+| `01-projektauftrag-und-vertragsstand.docx` | Ausgangslage, Vertrag, Stufenbeauftragung |
+| `02-lph1-grundlagen-und-bedarf.docx` | Grundlagenermittlung und Bedarfslücken |
+| `03-lph2-vorplanung-varianten.docx` | Varianten, Kostenschätzung, politische Freigabe |
 | `04-lph3-entwurf-und-kostenberechnung.xlsx` | Kostenberechnung und Budgetdrift |
 | `05-lph4-genehmigung-bauamt.eml` | Bauamtsmail mit Auflagen und Unklarheiten |
 | `06-lph5-ausfuehrungsplanung-planindex.docx` | Planindex, fehlende Freigaben, TGA-Schnittstellen |
 | `07-lph6-lv-und-mengenrisiko.xlsx` | Leistungsverzeichnis, Mengen- und Schnittstellenrisiko |
-| `08-lph7-bieterspiegel-vergabevermerk.md` | Angebotswertung und Vergabevorschlag |
-| `09-lph8-baustellenprotokolle.md` | Bauüberwachung, Behinderung, Mängel, Nachtrag |
+| `08-lph7-bieterspiegel-vergabevermerk.docx` | Angebotswertung und Vergabevorschlag |
+| `09-lph8-baustellenprotokolle.docx` | Bauüberwachung, Behinderung, Mängel, Nachtrag |
 | `10-lph8-maengel-und-rechnungspruefung.pdf` | Rechnungs-/Mängelprüfung |
-| `11-lph9-objektbetreuung-gewaehrleistung.md` | Objektbetreuung und Gewährleistungsplan |
+| `11-lph9-objektbetreuung-gewaehrleistung.docx` | Objektbetreuung und Gewährleistungsplan |
 | `12-whiteboard-lph-matrix.jpg` | Foto Planungs-/Bauleitungsboard |
 | `13-whatsapp-baustelle.jpg` | Chat-Screenshot Bauleitung/TGA |
 | `14-anwaltliches-pruefmemo.docx` | Prüfvermerk für Kanzlei/Sachverständige |

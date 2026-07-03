@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 588 KB) | PDF | [`gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf`](gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 573 KB) | PDF | [`gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf`](gesamt-pdf/verkehrsunfall-quotenstreit-tannenbruck-a45_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsunfall-quotenstreit-tannenbruck-a45.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verkehrsunfall-quotenstreit-tannenbruck-a45-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsunfall-quotenstreit-tannenbruck-a45-einzelpdfs.zip) |
 
@@ -59,28 +59,28 @@ Arbeitsakte zum Plugin `fachanwalt-verkehrsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_aktenvorblatt_hoffmann_verkehrsrecht.md`](01_aktenvorblatt_hoffmann_verkehrsrecht.md) | Kanzleivorblatt, Mandantendaten, Aktenzeichen alle Verfahren, Vollmacht |
-| 02 | [`02_unfallaufnahme_polizei_a45.md`](02_unfallaufnahme_polizei_a45.md) | Polizeiliche Unfallaufnahme VD2-2026-00112, Atemalkohol, Maßnahmen |
-| 03 | [`03_blutalkoholgutachten_uniklinik_essen.md`](03_blutalkoholgutachten_uniklinik_essen.md) | BAK-Gutachten RM-2026-00417, 0,98 ‰, Rückrechnung 1,21–1,44 ‰, CDT-Befund |
-| 04 | [`04_strafanzeige_315c_stgb.md`](04_strafanzeige_315c_stgb.md) | Strafanzeige, rechtliche Würdigung § 315c/§ 316 StGB, Verteidigerstrategie |
-| 05 | [`05_bussgeldbescheid_geschwindigkeit_baustelle.md`](05_bussgeldbescheid_geschwindigkeit_baustelle.md) | Bußgeldbescheid 102 EUR, Messmethode ESO, Prüfvermerke |
-| 06 | [`06_einspruch_bussgeld.md`](06_einspruch_bussgeld.md) | Einspruchsschreiben 10.02.2026, formelle + materielle Rügen, Beweisanträge |
-| 07 | [`07_zeugenaussage_pkw_hinter.md`](07_zeugenaussage_pkw_hinter.md) | Zeuge Hockstein (BMW, Standstreifen), 2 Vernehmungen, Glaubwürdigkeitsanalyse |
-| 08 | [`08_zeugenaussage_lkw_fahrer_wieczorek.md`](08_zeugenaussage_lkw_fahrer_wieczorek.md) | Zeuge/Nebenbeschuldigter Wieczorek, Tachographen-Auswertung, Bremsmanöver |
-| 09 | [`09_sachverstaendigengutachten_unfallrekonstruktion.md`](09_sachverstaendigengutachten_unfallrekonstruktion.md) | SV Rennsteig, EDR-Daten, Reaktionszeit, Anhalteweg, Haftungsquoten |
-| 10 | [`10_huk_coburg_schadensregulierung_brief.md`](10_huk_coburg_schadensregulierung_brief.md) | HUK-Coburg-Brief 26.01.2026 (100 %), Replik RA Hoffmann (75/25), § 81 VVG |
-| 11 | [`11_klageandrohung_allianz.md`](11_klageandrohung_allianz.md) | Allianz-Klageandrohung, Schadensaufstellung 7.010 EUR, 50/50-Position |
-| 12 | [`12_quotenberechnung_betriebsgefahr.md`](12_quotenberechnung_betriebsgefahr.md) | § 17 StVG Abwägung, Betriebsgefahr Sattelzug, BGH/OLG-Rechtsprechung |
-| 13 | [`13_vorlaeufige_fahrerlaubnis_entziehung_111a.md`](13_vorlaeufige_fahrerlaubnis_entziehung_111a.md) | § 111a StPO AG Hagen, § 69 StGB Regelvermutung, Beruf-Auswirkungen |
-| 14 | [`14_haftungsklage_gegnerin_passat.md`](14_haftungsklage_gegnerin_passat.md) | LG Hagen 4 O 211/26 Allianz-Klage, Klageerwiderung RA Hoffmann, § 149 ZPO |
-| 15 | [`15_klageschrift_lg_hagen_schmerzensgeld_vornberg.md`](15_klageschrift_lg_hagen_schmerzensgeld_vornberg.md) | Schmerzensgeld Vornberg (Entwurf), 18.000 EUR Klagebetrag, Gegenstrategie |
-| 16 | [`16_mpu_vorbereitung_terminplan.md`](16_mpu_vorbereitung_terminplan.md) | MPU-Struktur, § 13 FeV, Terminplan Januar–November 2026, Abstinenz-Optionen |
-| 17 | [`17_mpu_befunde_charakterliche_eignung.md`](17_mpu_befunde_charakterliche_eignung.md) | DEKRA-Exploration, Leistungstest-Simulation, Laborwert-Verlauf CDT/GGT |
-| 18 | [`18_alkoholabstinenznachweis_haaranalyse.md`](18_alkoholabstinenznachweis_haaranalyse.md) | EtG-Haaranalyse Dr. Voigt, Segmentanalyse, 4,8 pg/mg (Abstinenz belegt) |
-| 19 | [`19_taeter_opfer_ausgleich_vornberg.md`](19_taeter_opfer_ausgleich_vornberg.md) | TOA Waage e.V., Vermittlungsgespräch 02.04.2026, § 46a StGB, Vereinbarungen |
-| 20 | [`20_kanzleinotiz_strategie.md`](20_kanzleinotiz_strategie.md) | Gesamtstrategie alle 4 Verfahrensstränge, Risikoabwägung, Prognosen |
-| 21 | [`21_email_kette_hoffmann_versicherungen.md`](21_email_kette_hoffmann_versicherungen.md) | E-Mail-Korrespondenz RA Hoffmann ↔ HUK-Coburg ↔ Allianz, Januar–April 2026 |
-| 22 | [`22_fristenuebersicht.md`](22_fristenuebersicht.md) | Vollständige Fristenübersicht alle Verfahren, kritische Pfade, Wiedervorlage |
+| 01 | [`01_aktenvorblatt_hoffmann_verkehrsrecht.docx`](01_aktenvorblatt_hoffmann_verkehrsrecht.docx) | Kanzleivorblatt, Mandantendaten, Aktenzeichen alle Verfahren, Vollmacht |
+| 02 | [`02_unfallaufnahme_polizei_a45.docx`](02_unfallaufnahme_polizei_a45.docx) | Polizeiliche Unfallaufnahme VD2-2026-00112, Atemalkohol, Maßnahmen |
+| 03 | [`03_blutalkoholgutachten_uniklinik_essen.docx`](03_blutalkoholgutachten_uniklinik_essen.docx) | BAK-Gutachten RM-2026-00417, 0,98 ‰, Rückrechnung 1,21–1,44 ‰, CDT-Befund |
+| 04 | [`04_strafanzeige_315c_stgb.docx`](04_strafanzeige_315c_stgb.docx) | Strafanzeige, rechtliche Würdigung § 315c/§ 316 StGB, Verteidigerstrategie |
+| 05 | [`05_bussgeldbescheid_geschwindigkeit_baustelle.docx`](05_bussgeldbescheid_geschwindigkeit_baustelle.docx) | Bußgeldbescheid 102 EUR, Messmethode ESO, Prüfvermerke |
+| 06 | [`06_einspruch_bussgeld.docx`](06_einspruch_bussgeld.docx) | Einspruchsschreiben 10.02.2026, formelle + materielle Rügen, Beweisanträge |
+| 07 | [`07_zeugenaussage_pkw_hinter.docx`](07_zeugenaussage_pkw_hinter.docx) | Zeuge Hockstein (BMW, Standstreifen), 2 Vernehmungen, Glaubwürdigkeitsanalyse |
+| 08 | [`08_zeugenaussage_lkw_fahrer_wieczorek.docx`](08_zeugenaussage_lkw_fahrer_wieczorek.docx) | Zeuge/Nebenbeschuldigter Wieczorek, Tachographen-Auswertung, Bremsmanöver |
+| 09 | [`09_sachverstaendigengutachten_unfallrekonstruktion.docx`](09_sachverstaendigengutachten_unfallrekonstruktion.docx) | SV Rennsteig, EDR-Daten, Reaktionszeit, Anhalteweg, Haftungsquoten |
+| 10 | [`10_huk_coburg_schadensregulierung_brief.docx`](10_huk_coburg_schadensregulierung_brief.docx) | HUK-Coburg-Brief 26.01.2026 (100 %), Replik RA Hoffmann (75/25), § 81 VVG |
+| 11 | [`11_klageandrohung_allianz.docx`](11_klageandrohung_allianz.docx) | Allianz-Klageandrohung, Schadensaufstellung 7.010 EUR, 50/50-Position |
+| 12 | [`12_quotenberechnung_betriebsgefahr.docx`](12_quotenberechnung_betriebsgefahr.docx) | § 17 StVG Abwägung, Betriebsgefahr Sattelzug, BGH/OLG-Rechtsprechung |
+| 13 | [`13_vorlaeufige_fahrerlaubnis_entziehung_111a.docx`](13_vorlaeufige_fahrerlaubnis_entziehung_111a.docx) | § 111a StPO AG Hagen, § 69 StGB Regelvermutung, Beruf-Auswirkungen |
+| 14 | [`14_haftungsklage_gegnerin_passat.docx`](14_haftungsklage_gegnerin_passat.docx) | LG Hagen 4 O 211/26 Allianz-Klage, Klageerwiderung RA Hoffmann, § 149 ZPO |
+| 15 | [`15_klageschrift_lg_hagen_schmerzensgeld_vornberg.docx`](15_klageschrift_lg_hagen_schmerzensgeld_vornberg.docx) | Schmerzensgeld Vornberg (Entwurf), 18.000 EUR Klagebetrag, Gegenstrategie |
+| 16 | [`16_mpu_vorbereitung_terminplan.docx`](16_mpu_vorbereitung_terminplan.docx) | MPU-Struktur, § 13 FeV, Terminplan Januar–November 2026, Abstinenz-Optionen |
+| 17 | [`17_mpu_befunde_charakterliche_eignung.docx`](17_mpu_befunde_charakterliche_eignung.docx) | DEKRA-Exploration, Leistungstest-Simulation, Laborwert-Verlauf CDT/GGT |
+| 18 | [`18_alkoholabstinenznachweis_haaranalyse.docx`](18_alkoholabstinenznachweis_haaranalyse.docx) | EtG-Haaranalyse Dr. Voigt, Segmentanalyse, 4,8 pg/mg (Abstinenz belegt) |
+| 19 | [`19_taeter_opfer_ausgleich_vornberg.docx`](19_taeter_opfer_ausgleich_vornberg.docx) | TOA Waage e.V., Vermittlungsgespräch 02.04.2026, § 46a StGB, Vereinbarungen |
+| 20 | [`20_kanzleinotiz_strategie.docx`](20_kanzleinotiz_strategie.docx) | Gesamtstrategie alle 4 Verfahrensstränge, Risikoabwägung, Prognosen |
+| 21 | [`21_email_kette_hoffmann_versicherungen.docx`](21_email_kette_hoffmann_versicherungen.docx) | E-Mail-Korrespondenz RA Hoffmann ↔ HUK-Coburg ↔ Allianz, Januar–April 2026 |
+| 22 | [`22_fristenuebersicht.docx`](22_fristenuebersicht.docx) | Vollständige Fristenübersicht alle Verfahren, kritische Pfade, Wiedervorlage |
 
 ---
 

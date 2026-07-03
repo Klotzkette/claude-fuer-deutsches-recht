@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 551 KB) | PDF | [`gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 538 KB) | PDF | [`gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschafterstreit-squeeze-out-kuechenkoenig-paderborn-einzelpdfs.zip) |
 
@@ -62,28 +62,28 @@ Arbeitsakte zum Plugin `fachanwalt-handels-gesellschaftsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Kanzleinotiz Erstgespräch 16.04.2026, Sachverhaltsaufnahme |
-| 02 | [`02_gesellschafterstruktur_und_chronik.md`](02_gesellschafterstruktur_und_chronik.md) | Beteiligte, Gesellschaftsanteile, Konfliktchronologie |
-| 03 | [`03_gesellschaftsvertrag_analyse.md`](03_gesellschaftsvertrag_analyse.md) | GV-Auszug-Analyse, Squeeze-out-Klausel, Abfindungsregelung |
-| 04 | [`04_gesellschafterversammlung_14042026.md`](04_gesellschafterversammlung_14042026.md) | GV-Protokoll-Auswertung, Abstimmung, Verfahrensmängel |
-| 05 | [`05_squeeze_out_beschluss_rechtslage.md`](05_squeeze_out_beschluss_rechtslage.md) | Squeeze-out GmbH & Co. KG, Rechtsgrundlagen, BGH-Rspr. |
-| 06 | [`06_abfindungsbewertung_streit.md`](06_abfindungsbewertung_streit.md) | Buchwert vs. Ertragswert, IDW S 1, Bewertungsrügen |
-| 07 | [`07_gutachten_ertragswert_idw_s1.md`](07_gutachten_ertragswert_idw_s1.md) | Ertragswertgutachten Küchenkönig, IDW S 1, Kapitalisierungszins |
-| 08 | [`08_anfechtungsklage_lg_bielefeld.md`](08_anfechtungsklage_lg_bielefeld.md) | LG Bielefeld 3 O 41/26, Klagebegründung, einstweiliger Rechtsschutz |
-| 09 | [`09_stille_gesellschaft_karlheinz_wetterhof.md`](09_stille_gesellschaft_karlheinz_wetterhof.md) | Stille Beteiligung, § 230 ff. HGB, Auseinandersetzungsstreit |
-| 10 | [`10_gf_haftung_polska_investition.md`](10_gf_haftung_polska_investition.md) | § 43 GmbHG, Polska-Gründung, Schadensberechnung |
-| 11 | [`11_haftungsklage_geschaeftsfuehrer.md`](11_haftungsklage_geschaeftsfuehrer.md) | Klageentwurf § 43 GmbHG, Beweisthemen, Verjährung |
-| 12 | [`12_wettbewerbsverbot_stefan_geisen.md`](12_wettbewerbsverbot_stefan_geisen.md) | Nachvertragliches Wettbewerbsverbot, HolzART UG, § 161 HGB analog |
-| 13 | [`13_handelsregister_ag_paderborn.md`](13_handelsregister_ag_paderborn.md) | HRA 4188, Umstrukturierungsantrag, Ablehnungsbeschluss |
-| 14 | [`14_beschwerde_olg_hamm_27_wx_22_26.md`](14_beschwerde_olg_hamm_27_wx_22_26.md) | OLG Hamm 27 Wx 22/26, § 58 FamFG, Beschwerdebegründung |
-| 15 | [`15_hinschg_meldung_compliance.md`](15_hinschg_meldung_compliance.md) | HinSchG-Meldung, Schwarzkasse, Meldungsinhalt und Bewertung |
-| 16 | [`16_interne_untersuchung_compliance.md`](16_interne_untersuchung_compliance.md) | Untersuchungsauftrag, forensische Buchprüfung, Maßnahmenplan |
-| 17 | [`17_strafrecht_steuerrecht_interface.md`](17_strafrecht_steuerrecht_interface.md) | § 266 StGB, § 370 AO, Selbstanzeige-Optionen, Risikomatrix |
-| 18 | [`18_gesellschafterversammlung_formalia.md`](18_gesellschafterversammlung_formalia.md) | Einberufung, Formfehler, § 51 GmbHG analog, Heilungsmöglichkeiten |
-| 19 | [`19_gegengutachten_bewertung.md`](19_gegengutachten_bewertung.md) | Peer-Review IDW S 1, Methodenrügen, Gegengutachten-Beauftragung |
-| 20 | [`20_strategie_und_vergleichskorridor.md`](20_strategie_und_vergleichskorridor.md) | Best/Worst-Case, Vergleichsangebot, Zeitachse Prozess |
-| 21 | [`21_vollmacht_und_prozessauftrag.md`](21_vollmacht_und_prozessauftrag.md) | Vollmacht Geisen-Familie, Prozessauftrag LG Bielefeld |
-| 22 | [`22_kanzleistrategie_gesamtschau.md`](22_kanzleistrategie_gesamtschau.md) | Gesamtstrategie, Prioritäten, Kommunikation Mandanten |
+| 01 | [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Kanzleinotiz Erstgespräch 16.04.2026, Sachverhaltsaufnahme |
+| 02 | [`02_gesellschafterstruktur_und_chronik.docx`](02_gesellschafterstruktur_und_chronik.docx) | Beteiligte, Gesellschaftsanteile, Konfliktchronologie |
+| 03 | [`03_gesellschaftsvertrag_analyse.docx`](03_gesellschaftsvertrag_analyse.docx) | GV-Auszug-Analyse, Squeeze-out-Klausel, Abfindungsregelung |
+| 04 | [`04_gesellschafterversammlung_14042026.docx`](04_gesellschafterversammlung_14042026.docx) | GV-Protokoll-Auswertung, Abstimmung, Verfahrensmängel |
+| 05 | [`05_squeeze_out_beschluss_rechtslage.docx`](05_squeeze_out_beschluss_rechtslage.docx) | Squeeze-out GmbH & Co. KG, Rechtsgrundlagen, BGH-Rspr. |
+| 06 | [`06_abfindungsbewertung_streit.docx`](06_abfindungsbewertung_streit.docx) | Buchwert vs. Ertragswert, IDW S 1, Bewertungsrügen |
+| 07 | [`07_gutachten_ertragswert_idw_s1.docx`](07_gutachten_ertragswert_idw_s1.docx) | Ertragswertgutachten Küchenkönig, IDW S 1, Kapitalisierungszins |
+| 08 | [`08_anfechtungsklage_lg_bielefeld.docx`](08_anfechtungsklage_lg_bielefeld.docx) | LG Bielefeld 3 O 41/26, Klagebegründung, einstweiliger Rechtsschutz |
+| 09 | [`09_stille_gesellschaft_karlheinz_wetterhof.docx`](09_stille_gesellschaft_karlheinz_wetterhof.docx) | Stille Beteiligung, § 230 ff. HGB, Auseinandersetzungsstreit |
+| 10 | [`10_gf_haftung_polska_investition.docx`](10_gf_haftung_polska_investition.docx) | § 43 GmbHG, Polska-Gründung, Schadensberechnung |
+| 11 | [`11_haftungsklage_geschaeftsfuehrer.docx`](11_haftungsklage_geschaeftsfuehrer.docx) | Klageentwurf § 43 GmbHG, Beweisthemen, Verjährung |
+| 12 | [`12_wettbewerbsverbot_stefan_geisen.docx`](12_wettbewerbsverbot_stefan_geisen.docx) | Nachvertragliches Wettbewerbsverbot, HolzART UG, § 161 HGB analog |
+| 13 | [`13_handelsregister_ag_paderborn.docx`](13_handelsregister_ag_paderborn.docx) | HRA 4188, Umstrukturierungsantrag, Ablehnungsbeschluss |
+| 14 | [`14_beschwerde_olg_hamm_27_wx_22_26.docx`](14_beschwerde_olg_hamm_27_wx_22_26.docx) | OLG Hamm 27 Wx 22/26, § 58 FamFG, Beschwerdebegründung |
+| 15 | [`15_hinschg_meldung_compliance.docx`](15_hinschg_meldung_compliance.docx) | HinSchG-Meldung, Schwarzkasse, Meldungsinhalt und Bewertung |
+| 16 | [`16_interne_untersuchung_compliance.docx`](16_interne_untersuchung_compliance.docx) | Untersuchungsauftrag, forensische Buchprüfung, Maßnahmenplan |
+| 17 | [`17_strafrecht_steuerrecht_interface.docx`](17_strafrecht_steuerrecht_interface.docx) | § 266 StGB, § 370 AO, Selbstanzeige-Optionen, Risikomatrix |
+| 18 | [`18_gesellschafterversammlung_formalia.docx`](18_gesellschafterversammlung_formalia.docx) | Einberufung, Formfehler, § 51 GmbHG analog, Heilungsmöglichkeiten |
+| 19 | [`19_gegengutachten_bewertung.docx`](19_gegengutachten_bewertung.docx) | Peer-Review IDW S 1, Methodenrügen, Gegengutachten-Beauftragung |
+| 20 | [`20_strategie_und_vergleichskorridor.docx`](20_strategie_und_vergleichskorridor.docx) | Best/Worst-Case, Vergleichsangebot, Zeitachse Prozess |
+| 21 | [`21_vollmacht_und_prozessauftrag.docx`](21_vollmacht_und_prozessauftrag.docx) | Vollmacht Geisen-Familie, Prozessauftrag LG Bielefeld |
+| 22 | [`22_kanzleistrategie_gesamtschau.docx`](22_kanzleistrategie_gesamtschau.docx) | Gesamtstrategie, Prioritäten, Kommunikation Mandanten |
 
 ---
 

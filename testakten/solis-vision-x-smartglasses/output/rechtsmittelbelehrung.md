@@ -1,3 +1,0 @@
-Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des vollständig abgefassten Urteils bei dem Landgericht Hamburg in 20355 Hamburg schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung des vollständig abgefassten Urteils schriftlich zu begründen. Die Berufung ist nur statthaft, wenn der Wert der Beschwer 600 EUR übersteigt oder die Berufung im Urteil zugelassen ist.
-
-Vor dem Berufungsgericht besteht Anwaltszwang. Die Berufungsschrift und die Berufungsbegründungsschrift müssen von einer bei einem deutschen Gericht zugelassenen Rechtsanwältin oder einem Rechtsanwalt eingelegt und unterzeichnet werden.

@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 616 KB) | PDF | [`gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf`](gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 608 KB) | PDF | [`gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf`](gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim-einzelpdfs.zip) |
 
@@ -59,28 +59,28 @@ Arbeitsakte zum Plugin `fachanwalt-bau-architektenrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstgespräch.md`](01_mandatsaufnahme_erstgespräch.md) | Kanzleinotiz Erstgespräch 14.01.2026, Saalbau Wendelstein gGmbH |
-| 02 | [`02_beteiligte_und_vertragsstruktur.md`](02_beteiligte_und_vertragsstruktur.md) | Beteiligte, Vertragsstruktur, GU-Pauschalvertrag VOB/B |
-| 03 | [`03_werkmangel_rissbildung_bodenplatte.md`](03_werkmangel_rissbildung_bodenplatte.md) | Schadensbild Bodenplatte BK 2, technische Analyse, § 13 VOB/B |
-| 04 | [`04_maengelliste_und_abnahmeverweigerung.md`](04_maengelliste_und_abnahmeverweigerung.md) | 23 Mängelpositionen, Abnahmeverweigerung, § 12 Abs. 3 VOB/B |
-| 05 | [`05_kontaminierter_baugrund_bbodschg.md`](05_kontaminierter_baugrund_bbodschg.md) | Bodenfund 28.01.2026, BBodSchG, Altlastenverdacht, Zustandsverantwortlichkeit |
-| 06 | [`06_hoai_honorarstreit_maierhoffer_streibl.md`](06_hoai_honorarstreit_maierhoffer_streibl.md) | HOAI-Honorarstreit, EuGH C-377/17, Nachtrag Architektenleistungen |
-| 07 | [`07_vob_schiedsgutachten_schlichtung.md`](07_vob_schiedsgutachten_schlichtung.md) | Schiedsgutachterklausel § 18 Nr. 3 VOB/B, Schlichtungsversuch |
-| 08 | [`08_bauablaufstoerung_verzoegerungsentschaedigung.md`](08_bauablaufstoerung_verzoegerungsentschaedigung.md) | Behinderungsanzeige, Baustillstand 82 KT, § 6 VOB/B, Mehrkosten |
-| 09 | [`09_selbststaendiges_beweisverfahren_antrag.md`](09_selbststaendiges_beweisverfahren_antrag.md) | Antragsentwurf SBV §§ 485 ff. ZPO, Beweisfragen, SV-Auswahl |
-| 10 | [`10_gutachten_riedhof_zusammenfassung.md`](10_gutachten_riedhof_zusammenfassung.md) | Gutachten Riedhof GU-01/2026: Befunde, Kausalität, Kostenschätzung 180.200 EUR |
-| 11 | [`11_mängelrüge_fristsetzung.md`](11_mängelrüge_fristsetzung.md) | Mängelrüge mit Fristsetzung an Bauer-Hoch, § 13 Abs. 5 VOB/B |
-| 12 | [`12_klageschrift_lg_traunstein_entwurf.md`](12_klageschrift_lg_traunstein_entwurf.md) | Klageschrift LG Traunstein 2 O 318/26, Werklohn/Mängelschadenersatz |
-| 13 | [`13_sanierungsanordnung_lra_analyse.md`](13_sanierungsanordnung_lra_analyse.md) | Analyse Sanierungsanordnung LRA Rosenheim Az. 33-Bo-2026-117 |
-| 14 | [`14_verhandlung_schiedsgutachter_benennung.md`](14_verhandlung_schiedsgutachter_benennung.md) | Verhandlung Schiedsgutachter-Benennung, Verfahrensprotokoll |
-| 15 | [`15_hoai_gegenschreiben_maierhoffer.md`](15_hoai_gegenschreiben_maierhoffer.md) | Gegenschreiben Maierhoffer + Streibl zum HOAI-Honorarstreit |
-| 16 | [`16_bauer_hoch_antwort_und_gegenposition.md`](16_bauer_hoch_antwort_und_gegenposition.md) | Bauer-Hoch Antwortschreiben: Mängelbestreitung, Gegenposition |
-| 17 | [`17_regress_gegen_stadt_rosenheim.md`](17_regress_gegen_stadt_rosenheim.md) | Prüfvermerk Regressansprüche Stadtwerke Rosenheim + Dr. Eschelmann |
-| 18 | [`18_abnahme_probesaal_teilabnahme.md`](18_abnahme_probesaal_teilabnahme.md) | Förmliche Teilabnahme Probesaal (BK 1), Mängelvorbehalt, § 12 VOB/B |
-| 19 | [`19_strategie_vergleich_kostenprognose.md`](19_strategie_vergleich_kostenprognose.md) | Strategieentwicklung, Vergleichskorridor, Best/Worst-Case-Analyse |
-| 20 | [`20_antrag_selbst_beweisverfahren_lg_traunstein.md`](20_antrag_selbst_beweisverfahren_lg_traunstein.md) | Fertiggestellter Antrag SBV LG Traunstein 2 OH 7/26 |
-| 21 | [`21_schlichtungsantrag_ingenieurekammer.md`](21_schlichtungsantrag_ingenieurekammer.md) | Schlichtungsantrag Bayerische Ingenieurekammer-Bau, Schlichtungsstelle Bau |
-| 22 | [`22_verfahrensstand_und_checkliste.md`](22_verfahrensstand_und_checkliste.md) | Aktueller Verfahrensstand, offene Fristen, Checkliste nächste Schritte |
+| 01 | [`01_mandatsaufnahme_erstgespräch.docx`](01_mandatsaufnahme_erstgespräch.docx) | Kanzleinotiz Erstgespräch 14.01.2026, Saalbau Wendelstein gGmbH |
+| 02 | [`02_beteiligte_und_vertragsstruktur.docx`](02_beteiligte_und_vertragsstruktur.docx) | Beteiligte, Vertragsstruktur, GU-Pauschalvertrag VOB/B |
+| 03 | [`03_werkmangel_rissbildung_bodenplatte.docx`](03_werkmangel_rissbildung_bodenplatte.docx) | Schadensbild Bodenplatte BK 2, technische Analyse, § 13 VOB/B |
+| 04 | [`04_maengelliste_und_abnahmeverweigerung.docx`](04_maengelliste_und_abnahmeverweigerung.docx) | 23 Mängelpositionen, Abnahmeverweigerung, § 12 Abs. 3 VOB/B |
+| 05 | [`05_kontaminierter_baugrund_bbodschg.docx`](05_kontaminierter_baugrund_bbodschg.docx) | Bodenfund 28.01.2026, BBodSchG, Altlastenverdacht, Zustandsverantwortlichkeit |
+| 06 | [`06_hoai_honorarstreit_maierhoffer_streibl.docx`](06_hoai_honorarstreit_maierhoffer_streibl.docx) | HOAI-Honorarstreit, EuGH C-377/17, Nachtrag Architektenleistungen |
+| 07 | [`07_vob_schiedsgutachten_schlichtung.docx`](07_vob_schiedsgutachten_schlichtung.docx) | Schiedsgutachterklausel § 18 Nr. 3 VOB/B, Schlichtungsversuch |
+| 08 | [`08_bauablaufstoerung_verzoegerungsentschaedigung.docx`](08_bauablaufstoerung_verzoegerungsentschaedigung.docx) | Behinderungsanzeige, Baustillstand 82 KT, § 6 VOB/B, Mehrkosten |
+| 09 | [`09_selbststaendiges_beweisverfahren_antrag.docx`](09_selbststaendiges_beweisverfahren_antrag.docx) | Antragsentwurf SBV §§ 485 ff. ZPO, Beweisfragen, SV-Auswahl |
+| 10 | [`10_gutachten_riedhof_zusammenfassung.docx`](10_gutachten_riedhof_zusammenfassung.docx) | Gutachten Riedhof GU-01/2026: Befunde, Kausalität, Kostenschätzung 180.200 EUR |
+| 11 | [`11_mängelrüge_fristsetzung.docx`](11_mängelrüge_fristsetzung.docx) | Mängelrüge mit Fristsetzung an Bauer-Hoch, § 13 Abs. 5 VOB/B |
+| 12 | [`12_klageschrift_lg_traunstein_entwurf.docx`](12_klageschrift_lg_traunstein_entwurf.docx) | Klageschrift LG Traunstein 2 O 318/26, Werklohn/Mängelschadenersatz |
+| 13 | [`13_sanierungsanordnung_lra_analyse.docx`](13_sanierungsanordnung_lra_analyse.docx) | Analyse Sanierungsanordnung LRA Rosenheim Az. 33-Bo-2026-117 |
+| 14 | [`14_verhandlung_schiedsgutachter_benennung.docx`](14_verhandlung_schiedsgutachter_benennung.docx) | Verhandlung Schiedsgutachter-Benennung, Verfahrensprotokoll |
+| 15 | [`15_hoai_gegenschreiben_maierhoffer.docx`](15_hoai_gegenschreiben_maierhoffer.docx) | Gegenschreiben Maierhoffer + Streibl zum HOAI-Honorarstreit |
+| 16 | [`16_bauer_hoch_antwort_und_gegenposition.docx`](16_bauer_hoch_antwort_und_gegenposition.docx) | Bauer-Hoch Antwortschreiben: Mängelbestreitung, Gegenposition |
+| 17 | [`17_regress_gegen_stadt_rosenheim.docx`](17_regress_gegen_stadt_rosenheim.docx) | Prüfvermerk Regressansprüche Stadtwerke Rosenheim + Dr. Eschelmann |
+| 18 | [`18_abnahme_probesaal_teilabnahme.docx`](18_abnahme_probesaal_teilabnahme.docx) | Förmliche Teilabnahme Probesaal (BK 1), Mängelvorbehalt, § 12 VOB/B |
+| 19 | [`19_strategie_vergleich_kostenprognose.docx`](19_strategie_vergleich_kostenprognose.docx) | Strategieentwicklung, Vergleichskorridor, Best/Worst-Case-Analyse |
+| 20 | [`20_antrag_selbst_beweisverfahren_lg_traunstein.docx`](20_antrag_selbst_beweisverfahren_lg_traunstein.docx) | Fertiggestellter Antrag SBV LG Traunstein 2 OH 7/26 |
+| 21 | [`21_schlichtungsantrag_ingenieurekammer.docx`](21_schlichtungsantrag_ingenieurekammer.docx) | Schlichtungsantrag Bayerische Ingenieurekammer-Bau, Schlichtungsstelle Bau |
+| 22 | [`22_verfahrensstand_und_checkliste.docx`](22_verfahrensstand_und_checkliste.docx) | Aktueller Verfahrensstand, offene Fristen, Checkliste nächste Schritte |
 
 ---
 

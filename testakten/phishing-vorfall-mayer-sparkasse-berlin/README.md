@@ -35,10 +35,10 @@ Sie simuliert einen Online-Banking-Phishing-Fall mit Call-ID-Spoofing, pushTAN-F
 - `01_falldaten_mayer_sparkasse.json` - strukturierte Falldaten.
 - `02_transaktionsmatrix.csv` - schadensbezogene Vorgänge.
 - `03_beweis_und_log_matrix.csv` - Beweisfragen und fehlende Banklogs.
-- `04_erstbewertung_675u_675v.md` - juristischer Erstvermerk.
-- `05_grobe_fahrlaessigkeit_ampel.md` - Risikoampel zum Bankeinwand.
-- `06_bankpflichten_und_tech_logs.md` - technische Auffälligkeiten.
-- `07_ombudsmann_und_klagepfad.md` - Verfahrensstrategie.
+- `04_erstbewertung_675u_675v.docx` - juristischer Erstvermerk.
+- `05_grobe_fahrlaessigkeit_ampel.docx` - Risikoampel zum Bankeinwand.
+- `06_bankpflichten_und_tech_logs.docx` - technische Auffälligkeiten.
+- `07_ombudsmann_und_klagepfad.docx` - Verfahrensstrategie.
 - `08_case_gate_input.json` - Input für das Offline-Gate.
 - `09_case_gate_output.json` - Beispiel-Output des Offline-Gates.
 

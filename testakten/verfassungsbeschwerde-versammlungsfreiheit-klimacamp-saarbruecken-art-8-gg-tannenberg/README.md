@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 546 KB) | PDF | [`gesamt-pdf/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg_gesamt.pdf`](gesamt-pdf/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 533 KB) | PDF | [`gesamt-pdf/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg_gesamt.pdf`](gesamt-pdf/verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verfassungsbeschwerde-versammlungsfreiheit-klimacamp-saarbruecken-art-8-gg-tannenberg-einzelpdfs.zip) |
 
@@ -56,28 +56,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandantenbogen-klimacamp-initiative.md`](01-mandantenbogen-klimacamp-initiative.md) | Mandantenbogen Initiative e.V. und Einzelbeschwerdeführer 2-15 |
-| 02 | [`02-anlassverfuegung-stadtrechtsamt-12-03-2026.md`](02-anlassverfuegung-stadtrechtsamt-12-03-2026.md) | Versammlungsverbotsverfügung Stadtrechtsamt Saarbruecken |
-| 03 | [`03-eil-vg-saarlouis-beschluss.md`](03-eil-vg-saarlouis-beschluss.md) | VG Saarlouis 2 K 188/26 — Eil-Beschluss (§ 80 V VwGO) |
-| 04 | [`04-ovg-saarland-beschwerdeentscheidung.md`](04-ovg-saarland-beschwerdeentscheidung.md) | OVG Saarland 1 B 14/26 — Beschwerdeentscheidung |
-| 05 | [`05-verfassungsbeschwerdeschrift-entwurf-v3.md`](05-verfassungsbeschwerdeschrift-entwurf-v3.md) | Entwurf Verfassungsbeschwerdeschrift (Version 3) |
-| 06 | [`06-eilantrag-32-bverfgg.md`](06-eilantrag-32-bverfgg.md) | Eilantrag nach § 32 BVerfGG (einstweilige Anordnung) |
-| 07 | [`07-pruefungsschema-art-8-gg.md`](07-pruefungsschema-art-8-gg.md) | Vollständiges Prüfungsschema Art. 8 GG |
-| 08 | [`08-rechtsprechungskanon-bverfg-versammlung.md`](08-rechtsprechungskanon-bverfg-versammlung.md) | Kanonisierte BVerfG-Rechtsprechung Versammlungsfreiheit |
-| 09 | [`09-pruefung-subsidiaritaet.md`](09-pruefung-subsidiaritaet.md) | Subsidiaritaetspruefung § 90 II BVerfGG |
-| 10 | [`10-fristberechnung-93-bverfgg.md`](10-fristberechnung-93-bverfgg.md) | Fristberechnung § 93 III BVerfGG |
-| 11 | [`11-protokoll-mandantengespraech-vorbereitung.md`](11-protokoll-mandantengespraech-vorbereitung.md) | Protokoll Mandantengespraech und Verfahrensvorbereitung |
-| 12 | [`12-versammlungskonzept-anlage.md`](12-versammlungskonzept-anlage.md) | Versammlungskonzept (Anlage zur Verfassungsbeschwerde) |
-| 13 | [`13-strafanzeige-stellungnahme.md`](13-strafanzeige-stellungnahme.md) | Stellungnahme Ermittlungsverfahren StA Saarbruecken |
-| 14 | [`14-presseanfragen-und-medienarbeit.md`](14-presseanfragen-und-medienarbeit.md) | Presseanfragen und Medienarbeit rund um BVerfG |
-| 15 | [`15-folgenabwaegung-doppelhypothese.md`](15-folgenabwaegung-doppelhypothese.md) | Folgenabwaegung und Doppelhypothese § 32 BVerfGG |
-| 16 | [`16-historische-bruesen-doktrin.md`](16-historische-bruesen-doktrin.md) | Bruesen-Doktrin BVerfGE 69 315 — Entstehung und Fortentwicklung |
-| 17 | [`17-bannmeile-friedlich-funktional.md`](17-bannmeile-friedlich-funktional.md) | Bannmeile, Parlamentsschutz und praktische Konkordanz |
-| 18 | [`18-pruefung-mildere-mittel.md`](18-pruefung-mildere-mittel.md) | Pruefung milderer Mittel — Auflagenalternativen |
-| 19 | [`19-finanzierungsplan-rechtsmittel.md`](19-finanzierungsplan-rechtsmittel.md) | Finanzierungsplan Rechtsmittelverfahren |
-| 20 | [`20-kommunikation-mit-bvg.md`](20-kommunikation-mit-bvg.md) | Kommunikation mit dem Bundesverfassungsgericht |
-| 21 | [`21-pressemitteilung-bverfg-entscheidung.md`](21-pressemitteilung-bverfg-entscheidung.md) | Pressemitteilung nach BVerfG-Entscheidung |
-| 22 | [`22-checkliste-veroeffentlichung-bverfg-website.md`](22-checkliste-veroeffentlichung-bverfg-website.md) | Checkliste Veröffentlichung auf BVerfG-Website |
+| 01 | [`01-mandantenbogen-klimacamp-initiative.docx`](01-mandantenbogen-klimacamp-initiative.docx) | Mandantenbogen Initiative e.V. und Einzelbeschwerdeführer 2-15 |
+| 02 | [`02-anlassverfuegung-stadtrechtsamt-12-03-2026.docx`](02-anlassverfuegung-stadtrechtsamt-12-03-2026.docx) | Versammlungsverbotsverfügung Stadtrechtsamt Saarbruecken |
+| 03 | [`03-eil-vg-saarlouis-beschluss.docx`](03-eil-vg-saarlouis-beschluss.docx) | VG Saarlouis 2 K 188/26 — Eil-Beschluss (§ 80 V VwGO) |
+| 04 | [`04-ovg-saarland-beschwerdeentscheidung.docx`](04-ovg-saarland-beschwerdeentscheidung.docx) | OVG Saarland 1 B 14/26 — Beschwerdeentscheidung |
+| 05 | [`05-verfassungsbeschwerdeschrift-entwurf-v3.docx`](05-verfassungsbeschwerdeschrift-entwurf-v3.docx) | Entwurf Verfassungsbeschwerdeschrift (Version 3) |
+| 06 | [`06-eilantrag-32-bverfgg.docx`](06-eilantrag-32-bverfgg.docx) | Eilantrag nach § 32 BVerfGG (einstweilige Anordnung) |
+| 07 | [`07-pruefungsschema-art-8-gg.docx`](07-pruefungsschema-art-8-gg.docx) | Vollständiges Prüfungsschema Art. 8 GG |
+| 08 | [`08-rechtsprechungskanon-bverfg-versammlung.docx`](08-rechtsprechungskanon-bverfg-versammlung.docx) | Kanonisierte BVerfG-Rechtsprechung Versammlungsfreiheit |
+| 09 | [`09-pruefung-subsidiaritaet.docx`](09-pruefung-subsidiaritaet.docx) | Subsidiaritaetspruefung § 90 II BVerfGG |
+| 10 | [`10-fristberechnung-93-bverfgg.docx`](10-fristberechnung-93-bverfgg.docx) | Fristberechnung § 93 III BVerfGG |
+| 11 | [`11-protokoll-mandantengespraech-vorbereitung.docx`](11-protokoll-mandantengespraech-vorbereitung.docx) | Protokoll Mandantengespraech und Verfahrensvorbereitung |
+| 12 | [`12-versammlungskonzept-anlage.docx`](12-versammlungskonzept-anlage.docx) | Versammlungskonzept (Anlage zur Verfassungsbeschwerde) |
+| 13 | [`13-strafanzeige-stellungnahme.docx`](13-strafanzeige-stellungnahme.docx) | Stellungnahme Ermittlungsverfahren StA Saarbruecken |
+| 14 | [`14-presseanfragen-und-medienarbeit.docx`](14-presseanfragen-und-medienarbeit.docx) | Presseanfragen und Medienarbeit rund um BVerfG |
+| 15 | [`15-folgenabwaegung-doppelhypothese.docx`](15-folgenabwaegung-doppelhypothese.docx) | Folgenabwaegung und Doppelhypothese § 32 BVerfGG |
+| 16 | [`16-historische-bruesen-doktrin.docx`](16-historische-bruesen-doktrin.docx) | Bruesen-Doktrin BVerfGE 69 315 — Entstehung und Fortentwicklung |
+| 17 | [`17-bannmeile-friedlich-funktional.docx`](17-bannmeile-friedlich-funktional.docx) | Bannmeile, Parlamentsschutz und praktische Konkordanz |
+| 18 | [`18-pruefung-mildere-mittel.docx`](18-pruefung-mildere-mittel.docx) | Pruefung milderer Mittel — Auflagenalternativen |
+| 19 | [`19-finanzierungsplan-rechtsmittel.docx`](19-finanzierungsplan-rechtsmittel.docx) | Finanzierungsplan Rechtsmittelverfahren |
+| 20 | [`20-kommunikation-mit-bvg.docx`](20-kommunikation-mit-bvg.docx) | Kommunikation mit dem Bundesverfassungsgericht |
+| 21 | [`21-pressemitteilung-bverfg-entscheidung.docx`](21-pressemitteilung-bverfg-entscheidung.docx) | Pressemitteilung nach BVerfG-Entscheidung |
+| 22 | [`22-checkliste-veroeffentlichung-bverfg-website.docx`](22-checkliste-veroeffentlichung-bverfg-website.docx) | Checkliste Veröffentlichung auf BVerfG-Website |
 
 ---
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 455 KB) | PDF | [`gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf`](gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 441 KB) | PDF | [`gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf`](gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle-einzelpdfs.zip) |
 
@@ -78,28 +78,28 @@ Arbeitsakte zum Plugin `email-umformulierer-berufsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_kanzleiselbstvertretung.md`](01_mandatsannahme_kanzleiselbstvertretung.md) | Mandatsannahme Oktober 2024, Vollmacht aller 10 Erben, interne Kanzleiorganisation |
-| 02 | [`02_beteiligte_verfahren_uebersicht.md`](02_beteiligte_verfahren_uebersicht.md) | Alle 10 Erben mit Quoten, Gegenseite, Notar, RAK, Verfahrenschronologie, Streitwert |
-| 03 | [`03_par43a_abs3_brao_sachlichkeitsgebot.md`](03_par43a_abs3_brao_sachlichkeitsgebot.md) | Sachlichkeitsgebot: Normtext, Tatbestand, Abgrenzung, Analyse der Kröll-E-Mail, Sanktionskatalog |
-| 04 | [`04_kollegiale_korrespondenz_par2_bora.md`](04_kollegiale_korrespondenz_par2_bora.md) | § 2 BORA: Inhalt, Verhältnis zu § 43a BRAO, Fallanalyse, Plugin-Anwendungsfall |
-| 05 | [`05_emotional_email_kroell_an_quistorf_analyse.md`](05_emotional_email_kroell_an_quistorf_analyse.md) | Entstehungskontext, Volltext-Auszug, linguistische Segmentanalyse, Versionshistorie Umformulierung |
-| 06 | [`06_umformulierung_methodik_softening_techniken.md`](06_umformulierung_methodik_softening_techniken.md) | Plugin-Methodik: Detektionsstufen 1–3, fünf Softening-Techniken mit Vorher/Nachher, Grenzen |
-| 07 | [`07_anwaltsbeleidigung_par185_stgb_grenzen.md`](07_anwaltsbeleidigung_par185_stgb_grenzen.md) | § 185 StGB: Tatbestand, Abgrenzung Tatsachenbehauptung/Werturteil, Analyse konkreter Aussagen |
-| 08 | [`08_meinungsfreiheit_art5_gg_kontextuelle_grenze.md`](08_meinungsfreiheit_art5_gg_kontextuelle_grenze.md) | Art. 5 GG, Verfahrensprivileg, Schmähkritik, BVerfGE 82, 272, Schutzstufentabelle |
-| 09 | [`09_drohung_par240_stgb_insolvenz_taktik.md`](09_drohung_par240_stgb_insolvenz_taktik.md) | § 240 StGB: Tatbestandsanalyse Insolvenzdrohung, Verwerflichkeitsmerkmal, zulässige Abgrenzungsformulierungen |
-| 10 | [`10_dsgvo_panne_doxxing_art33_meldung_hba.md`](10_dsgvo_panne_doxxing_art33_meldung_hba.md) | Datenpanne 08.03.2026: Sachverhalt, Art. 33 DSGVO, Fristwahrung, interne Fehleranalyse |
-| 11 | [`11_betroffenenrechte_art34_dsgvo_information.md`](11_betroffenenrechte_art34_dsgvo_information.md) | Art. 34 DSGVO: Hohes-Risiko-Prüfung, Benachrichtigung RAin Tannenkamp, Art. 15–21 DSGVO |
-| 12 | [`12_betroffenenklage_art82_dsgvo_schadensersatz.md`](12_betroffenenklage_art82_dsgvo_schadensersatz.md) | Art. 82 DSGVO: Anspruchsvoraussetzungen, EuGH C-300/21, Haftungsbefreiung, Praxisbewertung |
-| 13 | [`13_mandantenbeschwerde_rak_frankfurt_par73.md`](13_mandantenbeschwerde_rak_frankfurt_par73.md) | Beschwerde Trenkler (Az. RAK-F 188/26): Inhalt, § 73 BRAO, Legitimität, Kanzleireaktion |
-| 14 | [`14_anwaltsgericht_par114_brao_verfahren.md`](14_anwaltsgericht_par114_brao_verfahren.md) | § 114 BRAO: Sanktionskatalog, Verfahrensablauf, Sanktionsprognose Kröll und Tannenkamp |
-| 15 | [`15_pflichtwidrige_aktenfuehrung_par50_brao.md`](15_pflichtwidrige_aktenfuehrung_par50_brao.md) | § 50 BRAO: Drei Dokumentationsmängel, digitale Akte, Aufbewahrungsfristen, Empfehlungen |
-| 16 | [`16_email_systeme_audit_kanzlei_outlook365.md`](16_email_systeme_audit_kanzlei_outlook365.md) | Outlook-Audit: vier Schwachstellen, DLP, Nacht-Quarantäne, Plugin-Add-in-Konzept |
-| 17 | [`17_geschaeftsgeheimnis_geschg_drittinformationen.md`](17_geschaeftsgeheimnis_geschg_drittinformationen.md) | GeschGehG: § 166 HGB vs. Geheimnisschutz, E-Mail-Inhalte als Drittinformationen |
-| 18 | [`18_strafanzeige_par240_stgb_strategische_bewertung.md`](18_strafanzeige_par240_stgb_strategische_bewertung.md) | Gegenstrategie: Strafanzeige vs. Zivilklage, Boomerang-Risiko, Empfehlung Kanzlei |
-| 19 | [`19_versicherungsschutz_berufshaftpflicht.md`](19_versicherungsschutz_berufshaftpflicht.md) | § 51 BRAO: Police, Deckungsrelevanz der Vorfälle, Cyber-Liability, Empfehlungen |
-| 20 | [`20_schulungspflicht_kanzleimitarbeiter.md`](20_schulungspflicht_kanzleimitarbeiter.md) | Drei Schulungsmodule (DSGVO, Berufsrecht, Outlook), Art. 39 DSGVO, Fortbildungspflicht |
-| 21 | [`21_chronologie_eskalationen.md`](21_chronologie_eskalationen.md) | Vollständige Zeitlinie Oktober 2024 – April 2026, vier Eskalationsphasen |
-| 22 | [`22_abschluss_taktische_handlungsempfehlung.md`](22_abschluss_taktische_handlungsempfehlung.md) | Priorisierter Maßnahmenplan (sofortig/kurzfristig/mittelfristig), Mandatsstrategie, Plugin-Rolle |
+| 01 | [`01_mandatsannahme_kanzleiselbstvertretung.docx`](01_mandatsannahme_kanzleiselbstvertretung.docx) | Mandatsannahme Oktober 2024, Vollmacht aller 10 Erben, interne Kanzleiorganisation |
+| 02 | [`02_beteiligte_verfahren_uebersicht.docx`](02_beteiligte_verfahren_uebersicht.docx) | Alle 10 Erben mit Quoten, Gegenseite, Notar, RAK, Verfahrenschronologie, Streitwert |
+| 03 | [`03_par43a_abs3_brao_sachlichkeitsgebot.docx`](03_par43a_abs3_brao_sachlichkeitsgebot.docx) | Sachlichkeitsgebot: Normtext, Tatbestand, Abgrenzung, Analyse der Kröll-E-Mail, Sanktionskatalog |
+| 04 | [`04_kollegiale_korrespondenz_par2_bora.docx`](04_kollegiale_korrespondenz_par2_bora.docx) | § 2 BORA: Inhalt, Verhältnis zu § 43a BRAO, Fallanalyse, Plugin-Anwendungsfall |
+| 05 | [`05_emotional_email_kroell_an_quistorf_analyse.docx`](05_emotional_email_kroell_an_quistorf_analyse.docx) | Entstehungskontext, Volltext-Auszug, linguistische Segmentanalyse, Versionshistorie Umformulierung |
+| 06 | [`06_umformulierung_methodik_softening_techniken.docx`](06_umformulierung_methodik_softening_techniken.docx) | Plugin-Methodik: Detektionsstufen 1–3, fünf Softening-Techniken mit Vorher/Nachher, Grenzen |
+| 07 | [`07_anwaltsbeleidigung_par185_stgb_grenzen.docx`](07_anwaltsbeleidigung_par185_stgb_grenzen.docx) | § 185 StGB: Tatbestand, Abgrenzung Tatsachenbehauptung/Werturteil, Analyse konkreter Aussagen |
+| 08 | [`08_meinungsfreiheit_art5_gg_kontextuelle_grenze.docx`](08_meinungsfreiheit_art5_gg_kontextuelle_grenze.docx) | Art. 5 GG, Verfahrensprivileg, Schmähkritik, BVerfGE 82, 272, Schutzstufentabelle |
+| 09 | [`09_drohung_par240_stgb_insolvenz_taktik.docx`](09_drohung_par240_stgb_insolvenz_taktik.docx) | § 240 StGB: Tatbestandsanalyse Insolvenzdrohung, Verwerflichkeitsmerkmal, zulässige Abgrenzungsformulierungen |
+| 10 | [`10_dsgvo_panne_doxxing_art33_meldung_hba.docx`](10_dsgvo_panne_doxxing_art33_meldung_hba.docx) | Datenpanne 08.03.2026: Sachverhalt, Art. 33 DSGVO, Fristwahrung, interne Fehleranalyse |
+| 11 | [`11_betroffenenrechte_art34_dsgvo_information.docx`](11_betroffenenrechte_art34_dsgvo_information.docx) | Art. 34 DSGVO: Hohes-Risiko-Prüfung, Benachrichtigung RAin Tannenkamp, Art. 15–21 DSGVO |
+| 12 | [`12_betroffenenklage_art82_dsgvo_schadensersatz.docx`](12_betroffenenklage_art82_dsgvo_schadensersatz.docx) | Art. 82 DSGVO: Anspruchsvoraussetzungen, EuGH C-300/21, Haftungsbefreiung, Praxisbewertung |
+| 13 | [`13_mandantenbeschwerde_rak_frankfurt_par73.docx`](13_mandantenbeschwerde_rak_frankfurt_par73.docx) | Beschwerde Trenkler (Az. RAK-F 188/26): Inhalt, § 73 BRAO, Legitimität, Kanzleireaktion |
+| 14 | [`14_anwaltsgericht_par114_brao_verfahren.docx`](14_anwaltsgericht_par114_brao_verfahren.docx) | § 114 BRAO: Sanktionskatalog, Verfahrensablauf, Sanktionsprognose Kröll und Tannenkamp |
+| 15 | [`15_pflichtwidrige_aktenfuehrung_par50_brao.docx`](15_pflichtwidrige_aktenfuehrung_par50_brao.docx) | § 50 BRAO: Drei Dokumentationsmängel, digitale Akte, Aufbewahrungsfristen, Empfehlungen |
+| 16 | [`16_email_systeme_audit_kanzlei_outlook365.docx`](16_email_systeme_audit_kanzlei_outlook365.docx) | Outlook-Audit: vier Schwachstellen, DLP, Nacht-Quarantäne, Plugin-Add-in-Konzept |
+| 17 | [`17_geschaeftsgeheimnis_geschg_drittinformationen.docx`](17_geschaeftsgeheimnis_geschg_drittinformationen.docx) | GeschGehG: § 166 HGB vs. Geheimnisschutz, E-Mail-Inhalte als Drittinformationen |
+| 18 | [`18_strafanzeige_par240_stgb_strategische_bewertung.docx`](18_strafanzeige_par240_stgb_strategische_bewertung.docx) | Gegenstrategie: Strafanzeige vs. Zivilklage, Boomerang-Risiko, Empfehlung Kanzlei |
+| 19 | [`19_versicherungsschutz_berufshaftpflicht.docx`](19_versicherungsschutz_berufshaftpflicht.docx) | § 51 BRAO: Police, Deckungsrelevanz der Vorfälle, Cyber-Liability, Empfehlungen |
+| 20 | [`20_schulungspflicht_kanzleimitarbeiter.docx`](20_schulungspflicht_kanzleimitarbeiter.docx) | Drei Schulungsmodule (DSGVO, Berufsrecht, Outlook), Art. 39 DSGVO, Fortbildungspflicht |
+| 21 | [`21_chronologie_eskalationen.docx`](21_chronologie_eskalationen.docx) | Vollständige Zeitlinie Oktober 2024 – April 2026, vier Eskalationsphasen |
+| 22 | [`22_abschluss_taktische_handlungsempfehlung.docx`](22_abschluss_taktische_handlungsempfehlung.docx) | Priorisierter Maßnahmenplan (sofortig/kurzfristig/mittelfristig), Mandatsstrategie, Plugin-Rolle |
 
 ---
 

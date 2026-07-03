@@ -67,28 +67,28 @@ Arbeitsakte zum Plugin `mandantenanfragen-assistent`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-uebersicht-quartal2-2026.md`](01-uebersicht-quartal2-2026.md) | Quartalsliste aller 8 Erstanfragen, Übersicht, Status |
-| 02 | [`02-anfrage-01-kuendigung-koerber.md`](02-anfrage-01-kuendigung-koerber.md) | Anfrage Körber — fristlose Kündigung, Arbeitsrecht |
-| 03 | [`03-anfrage-02-mietminderung-feldkamp.md`](03-anfrage-02-mietminderung-feldkamp.md) | Anfrage Feldkamp — Mietminderung, Interessenkollision |
-| 04 | [`04-anfrage-03-erbstreit-pellbach.md`](04-anfrage-03-erbstreit-pellbach.md) | Anfrage Pellbach — Erbstreit, Honorarstreit |
-| 05 | [`05-anfrage-04-verkehrsunfall-hagenbroich.md`](05-anfrage-04-verkehrsunfall-hagenbroich.md) | Anfrage Hagenbroich — Verkehrsunfall, Streitwert zu niedrig |
-| 06 | [`06-anfrage-05-baurecht-schwarzbach.md`](06-anfrage-05-baurecht-schwarzbach.md) | Anfrage Schwarzbach — Baurecht, Nachbarstreit |
-| 07 | [`07-anfrage-06-onlineshop-streit-tannenmoor.md`](07-anfrage-06-onlineshop-streit-tannenmoor.md) | Anfrage Tannenmoor GmbH — AGB/IT-Recht, DSGVO-Formular |
-| 08 | [`08-anfrage-07-gesellschafterstreit-merkel-koehn.md`](08-anfrage-07-gesellschafterstreit-merkel-koehn.md) | Anfrage Merkel — Gesellschafterstreit, Interessenkollision |
-| 09 | [`09-anfrage-08-arzthaftung-trambach.md`](09-anfrage-08-arzthaftung-trambach.md) | Anfrage Trambach — Arzthaftung, Weiterleitung |
-| 10 | [`10-konfliktcheck-protokoll.md`](10-konfliktcheck-protokoll.md) | Konflikt-Check-Protokoll Q2, alle 8 Anfragen |
-| 11 | [`11-mandantenfaehigkeit-juristische-personen.md`](11-mandantenfaehigkeit-juristische-personen.md) | Mandatsfähigkeit GmbH/GbR, Vertretungsnachweis |
-| 12 | [`12-rvg-gebuehrenberechnung-uebersicht.md`](12-rvg-gebuehrenberechnung-uebersicht.md) | RVG-Gebührenberechnung §§ 13, 14, 34; VV Nr. 2300 |
-| 13 | [`13-honorarvereinbarung-musterklausel.md`](13-honorarvereinbarung-musterklausel.md) | Zeithonorar-Musterklausel, BRAO § 49b |
-| 14 | [`14-erstberatungsvermerk-anfrage-03.md`](14-erstberatungsvermerk-anfrage-03.md) | Erstberatungsvermerk Pellbach (Erbstreit) |
-| 15 | [`15-erstberatungsvermerk-anfrage-07.md`](15-erstberatungsvermerk-anfrage-07.md) | Erstberatungsvermerk Merkel (vor Konfliktfeststellung) |
-| 16 | [`16-ablehnung-mit-begruendung-anfrage-04.md`](16-ablehnung-mit-begruendung-anfrage-04.md) | Ablehnungsschreiben Hagenbroich, Beratungshilfeverweis |
-| 17 | [`17-weiterleitung-an-kollegen-anfrage-08.md`](17-weiterleitung-an-kollegen-anfrage-08.md) | Weiterleitungsschreiben Trambach → Meinhardt & Partner |
-| 18 | [`18-vollmachten-empfangsbestaetigung.md`](18-vollmachten-empfangsbestaetigung.md) | Vollmachten Q2, Empfangsbestätigungen |
-| 19 | [`19-datenschutzhinweis-mandant.md`](19-datenschutzhinweis-mandant.md) | DSGVO-Hinweispflicht Art. 13, Webformular-Problem |
-| 20 | [`20-kanzlei-statistik-q2.md`](20-kanzlei-statistik-q2.md) | Statistik Q2/2026: Eingänge, Abschlüsse, Rechtsgebiete |
-| 21 | [`21-mandantenzufriedenheit-feedback.md`](21-mandantenzufriedenheit-feedback.md) | Feedback-Auswertung, Bewertungsplattform-Beschwerde |
-| 22 | [`22-quartalsabschluss-vermerk.md`](22-quartalsabschluss-vermerk.md) | Quartalsabschluss-Vermerk Q2/2026 |
+| 01 | [`01-uebersicht-quartal2-2026.docx`](01-uebersicht-quartal2-2026.docx) | Quartalsliste aller 8 Erstanfragen, Übersicht, Status |
+| 02 | [`02-anfrage-01-kuendigung-koerber.docx`](02-anfrage-01-kuendigung-koerber.docx) | Anfrage Körber — fristlose Kündigung, Arbeitsrecht |
+| 03 | [`03-anfrage-02-mietminderung-feldkamp.docx`](03-anfrage-02-mietminderung-feldkamp.docx) | Anfrage Feldkamp — Mietminderung, Interessenkollision |
+| 04 | [`04-anfrage-03-erbstreit-pellbach.docx`](04-anfrage-03-erbstreit-pellbach.docx) | Anfrage Pellbach — Erbstreit, Honorarstreit |
+| 05 | [`05-anfrage-04-verkehrsunfall-hagenbroich.docx`](05-anfrage-04-verkehrsunfall-hagenbroich.docx) | Anfrage Hagenbroich — Verkehrsunfall, Streitwert zu niedrig |
+| 06 | [`06-anfrage-05-baurecht-schwarzbach.docx`](06-anfrage-05-baurecht-schwarzbach.docx) | Anfrage Schwarzbach — Baurecht, Nachbarstreit |
+| 07 | [`07-anfrage-06-onlineshop-streit-tannenmoor.docx`](07-anfrage-06-onlineshop-streit-tannenmoor.docx) | Anfrage Tannenmoor GmbH — AGB/IT-Recht, DSGVO-Formular |
+| 08 | [`08-anfrage-07-gesellschafterstreit-merkel-koehn.docx`](08-anfrage-07-gesellschafterstreit-merkel-koehn.docx) | Anfrage Merkel — Gesellschafterstreit, Interessenkollision |
+| 09 | [`09-anfrage-08-arzthaftung-trambach.docx`](09-anfrage-08-arzthaftung-trambach.docx) | Anfrage Trambach — Arzthaftung, Weiterleitung |
+| 10 | [`10-konfliktcheck-protokoll.docx`](10-konfliktcheck-protokoll.docx) | Konflikt-Check-Protokoll Q2, alle 8 Anfragen |
+| 11 | [`11-mandantenfaehigkeit-juristische-personen.docx`](11-mandantenfaehigkeit-juristische-personen.docx) | Mandatsfähigkeit GmbH/GbR, Vertretungsnachweis |
+| 12 | [`12-rvg-gebuehrenberechnung-uebersicht.docx`](12-rvg-gebuehrenberechnung-uebersicht.docx) | RVG-Gebührenberechnung §§ 13, 14, 34; VV Nr. 2300 |
+| 13 | [`13-honorarvereinbarung-musterklausel.docx`](13-honorarvereinbarung-musterklausel.docx) | Zeithonorar-Musterklausel, BRAO § 49b |
+| 14 | [`14-erstberatungsvermerk-anfrage-03.docx`](14-erstberatungsvermerk-anfrage-03.docx) | Erstberatungsvermerk Pellbach (Erbstreit) |
+| 15 | [`15-erstberatungsvermerk-anfrage-07.docx`](15-erstberatungsvermerk-anfrage-07.docx) | Erstberatungsvermerk Merkel (vor Konfliktfeststellung) |
+| 16 | [`16-ablehnung-mit-begruendung-anfrage-04.docx`](16-ablehnung-mit-begruendung-anfrage-04.docx) | Ablehnungsschreiben Hagenbroich, Beratungshilfeverweis |
+| 17 | [`17-weiterleitung-an-kollegen-anfrage-08.docx`](17-weiterleitung-an-kollegen-anfrage-08.docx) | Weiterleitungsschreiben Trambach → Meinhardt & Partner |
+| 18 | [`18-vollmachten-empfangsbestaetigung.docx`](18-vollmachten-empfangsbestaetigung.docx) | Vollmachten Q2, Empfangsbestätigungen |
+| 19 | [`19-datenschutzhinweis-mandant.docx`](19-datenschutzhinweis-mandant.docx) | DSGVO-Hinweispflicht Art. 13, Webformular-Problem |
+| 20 | [`20-kanzlei-statistik-q2.docx`](20-kanzlei-statistik-q2.docx) | Statistik Q2/2026: Eingänge, Abschlüsse, Rechtsgebiete |
+| 21 | [`21-mandantenzufriedenheit-feedback.docx`](21-mandantenzufriedenheit-feedback.docx) | Feedback-Auswertung, Bewertungsplattform-Beschwerde |
+| 22 | [`22-quartalsabschluss-vermerk.docx`](22-quartalsabschluss-vermerk.docx) | Quartalsabschluss-Vermerk Q2/2026 |
 
 ---
 

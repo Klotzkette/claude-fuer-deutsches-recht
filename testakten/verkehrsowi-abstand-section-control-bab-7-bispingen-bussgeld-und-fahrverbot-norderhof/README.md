@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 267 KB) | PDF | [`gesamt-pdf/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof_gesamt.pdf`](gesamt-pdf/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 264 KB) | PDF | [`gesamt-pdf/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof_gesamt.pdf`](gesamt-pdf/verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-abstand-section-control-bab-7-bispingen-bussgeld-und-fahrverbot-norderhof-einzelpdfs.zip) |
 
@@ -59,28 +59,28 @@ Arbeitsakte zum Plugin `verkehrsowi-verteidiger`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandantenbogen-norderhof.md`](01-mandantenbogen-norderhof.md) | Mandantenbogen Henrik Norderhof-Tannenmoor, Vollmacht, Rechtsschutz |
-| 02 | [`02-anhoerungsbogen-188-a-4711-26.md`](02-anhoerungsbogen-188-a-4711-26.md) | Anhörungsbogen NIBOWS-188-A-4711-26 — Tatvorwurf, Fristen, erste Analyse |
-| 03 | [`03-akteneinsicht-antrag.md`](03-akteneinsicht-antrag.md) | Akteneinsichtsantrag Kanzlei an Bußgeldstelle Hannover |
-| 04 | [`04-messprotokoll-bamv.md`](04-messprotokoll-bamv.md) | BAMV-Messprotokoll Brückenabstandsmessverfahren Messreihe 188 |
-| 05 | [`05-section-control-rohdaten.md`](05-section-control-rohdaten.md) | Section Control Speedcheck-XR Rohdaten und Auswertungsdatensatz |
-| 06 | [`06-eichschein-bamv.md`](06-eichschein-bamv.md) | Eichschein BAMV-Anlage km 187,4 BAB 7, Gültigkeit, Metadaten |
-| 07 | [`07-eichschein-speedcheck-xr.md`](07-eichschein-speedcheck-xr.md) | Eichschein Speedcheck-XR Section Control, Überprüfungsprotokoll |
-| 08 | [`08-faer-auszug-norderhof.md`](08-faer-auszug-norderhof.md) | FAER-Auszug Henrik Norderhof-Tannenmoor, Vorbelastung 2024 |
-| 09 | [`09-einspruchsschrift-188-owi-188-26.md`](09-einspruchsschrift-188-owi-188-26.md) | Einspruchsschrift AG Hamburg-Altona 188 OWi 188/26 |
-| 10 | [`10-beweisantrag-sachverstaendigengutachten.md`](10-beweisantrag-sachverstaendigengutachten.md) | Beweisantrag auf Einholung Sachverständigengutachten Messtechnik |
-| 11 | [`11-pohlmann-wittfeldt-gutachten-zusammenfassung.md`](11-pohlmann-wittfeldt-gutachten-zusammenfassung.md) | SV-Gutachten Dipl.-Ing. Pohlmann-Wittfeldt — Zusammenfassung |
-| 12 | [`12-rechtssprechung-bamv-saarlouis.md`](12-rechtssprechung-bamv-saarlouis.md) | Rechtsprechungsübersicht BAMV: OLG Saarbrücken u.a. |
-| 13 | [`13-fahrverbots-existenzgefaehrdung-pruefung.md`](13-fahrverbots-existenzgefaehrdung-pruefung.md) | Existenzgefährdungsprüfung § 25 StVG / Fahrverbot GF-Stellung |
-| 14 | [`14-vergleichsoffer-staatsanwaltschaft.md`](14-vergleichsoffer-staatsanwaltschaft.md) | Vergleichsangebot Staatsanwaltschaft / Opportunitätsüberlegungen |
-| 15 | [`15-protokoll-amtsgerichtsverhandlung-24-10-2026.md`](15-protokoll-amtsgerichtsverhandlung-24-10-2026.md) | Protokoll Hauptverhandlung AG Hamburg-Altona 24.10.2026 |
-| 16 | [`16-strafmildernde-erwaegungen.md`](16-strafmildernde-erwaegungen.md) | Strafmildernde Erwägungen, Absehen vom Fahrverbot, § 4 BKatV |
-| 17 | [`17-urteilsentwurf-ag-altona.md`](17-urteilsentwurf-ag-altona.md) | Urteilsentwurf AG Hamburg-Altona 188 OWi 188/26 |
-| 18 | [`18-rechtsmittel-rechtsbeschwerde-pruefung.md`](18-rechtsmittel-rechtsbeschwerde-pruefung.md) | Rechtsbeschwerde-Prüfung OLG Hamburg, Zulassungsfragen |
-| 19 | [`19-kostenfestsetzung.md`](19-kostenfestsetzung.md) | Kostenfestsetzung RVG, Auslagen, Abrechnung Rechtsschutz |
-| 20 | [`20-faer-loeschungsfristen.md`](20-faer-loeschungsfristen.md) | FAER-Löschungsfristen, Tilgungsregelung, Übernahme ins FAER |
-| 21 | [`21-versicherungsmeldung-rechtsschutz.md`](21-versicherungsmeldung-rechtsschutz.md) | Versicherungsmeldung Rechtsschutz, Deckungsschutz, Kommunikation |
-| 22 | [`22-checkliste-mandantengespraech-abschluss.md`](22-checkliste-mandantengespraech-abschluss.md) | Checkliste Mandantengespräch und Mandatsabschluss |
+| 01 | [`01-mandantenbogen-norderhof.docx`](01-mandantenbogen-norderhof.docx) | Mandantenbogen Henrik Norderhof-Tannenmoor, Vollmacht, Rechtsschutz |
+| 02 | [`02-anhoerungsbogen-188-a-4711-26.docx`](02-anhoerungsbogen-188-a-4711-26.docx) | Anhörungsbogen NIBOWS-188-A-4711-26 — Tatvorwurf, Fristen, erste Analyse |
+| 03 | [`03-akteneinsicht-antrag.docx`](03-akteneinsicht-antrag.docx) | Akteneinsichtsantrag Kanzlei an Bußgeldstelle Hannover |
+| 04 | [`04-messprotokoll-bamv.docx`](04-messprotokoll-bamv.docx) | BAMV-Messprotokoll Brückenabstandsmessverfahren Messreihe 188 |
+| 05 | [`05-section-control-rohdaten.docx`](05-section-control-rohdaten.docx) | Section Control Speedcheck-XR Rohdaten und Auswertungsdatensatz |
+| 06 | [`06-eichschein-bamv.docx`](06-eichschein-bamv.docx) | Eichschein BAMV-Anlage km 187,4 BAB 7, Gültigkeit, Metadaten |
+| 07 | [`07-eichschein-speedcheck-xr.docx`](07-eichschein-speedcheck-xr.docx) | Eichschein Speedcheck-XR Section Control, Überprüfungsprotokoll |
+| 08 | [`08-faer-auszug-norderhof.docx`](08-faer-auszug-norderhof.docx) | FAER-Auszug Henrik Norderhof-Tannenmoor, Vorbelastung 2024 |
+| 09 | [`09-einspruchsschrift-188-owi-188-26.docx`](09-einspruchsschrift-188-owi-188-26.docx) | Einspruchsschrift AG Hamburg-Altona 188 OWi 188/26 |
+| 10 | [`10-beweisantrag-sachverstaendigengutachten.docx`](10-beweisantrag-sachverstaendigengutachten.docx) | Beweisantrag auf Einholung Sachverständigengutachten Messtechnik |
+| 11 | [`11-pohlmann-wittfeldt-gutachten-zusammenfassung.docx`](11-pohlmann-wittfeldt-gutachten-zusammenfassung.docx) | SV-Gutachten Dipl.-Ing. Pohlmann-Wittfeldt — Zusammenfassung |
+| 12 | [`12-rechtssprechung-bamv-saarlouis.docx`](12-rechtssprechung-bamv-saarlouis.docx) | Rechtsprechungsübersicht BAMV: OLG Saarbrücken u.a. |
+| 13 | [`13-fahrverbots-existenzgefaehrdung-pruefung.docx`](13-fahrverbots-existenzgefaehrdung-pruefung.docx) | Existenzgefährdungsprüfung § 25 StVG / Fahrverbot GF-Stellung |
+| 14 | [`14-vergleichsoffer-staatsanwaltschaft.docx`](14-vergleichsoffer-staatsanwaltschaft.docx) | Vergleichsangebot Staatsanwaltschaft / Opportunitätsüberlegungen |
+| 15 | [`15-protokoll-amtsgerichtsverhandlung-24-10-2026.docx`](15-protokoll-amtsgerichtsverhandlung-24-10-2026.docx) | Protokoll Hauptverhandlung AG Hamburg-Altona 24.10.2026 |
+| 16 | [`16-strafmildernde-erwaegungen.docx`](16-strafmildernde-erwaegungen.docx) | Strafmildernde Erwägungen, Absehen vom Fahrverbot, § 4 BKatV |
+| 17 | [`17-urteilsentwurf-ag-altona.docx`](17-urteilsentwurf-ag-altona.docx) | Urteilsentwurf AG Hamburg-Altona 188 OWi 188/26 |
+| 18 | [`18-rechtsmittel-rechtsbeschwerde-pruefung.docx`](18-rechtsmittel-rechtsbeschwerde-pruefung.docx) | Rechtsbeschwerde-Prüfung OLG Hamburg, Zulassungsfragen |
+| 19 | [`19-kostenfestsetzung.docx`](19-kostenfestsetzung.docx) | Kostenfestsetzung RVG, Auslagen, Abrechnung Rechtsschutz |
+| 20 | [`20-faer-loeschungsfristen.docx`](20-faer-loeschungsfristen.docx) | FAER-Löschungsfristen, Tilgungsregelung, Übernahme ins FAER |
+| 21 | [`21-versicherungsmeldung-rechtsschutz.docx`](21-versicherungsmeldung-rechtsschutz.docx) | Versicherungsmeldung Rechtsschutz, Deckungsschutz, Kommunikation |
+| 22 | [`22-checkliste-mandantengespraech-abschluss.docx`](22-checkliste-mandantengespraech-abschluss.docx) | Checkliste Mandantengespräch und Mandatsabschluss |
 
 ---
 

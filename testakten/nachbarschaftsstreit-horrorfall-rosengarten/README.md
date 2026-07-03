@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1142 KB) | PDF | [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1139 KB) | PDF | [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nachbarschaftsstreit-horrorfall-rosengarten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten-einzelpdfs.zip) |
 
@@ -41,24 +41,24 @@ Die Unterlagen liegen parallel in mehreren Datenformaten vor: E-Mail, Excel, Wha
 
 | Datei | Inhalt |
 |---|---|
-| [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Kanzleinotiz mit Sachverhaltsaufnahme |
-| [`02_lage_grundstuecke_grenze.md`](02_lage_grundstuecke_grenze.md) | Flurstücke, Grenzpunkte, Liegenschaftskarte, Vermessungszweifel |
-| [`03_bautagebuch_carport_ueberbau.md`](03_bautagebuch_carport_ueberbau.md) | Bauverlauf, Widerspruch, Carport, Dachrinne |
-| [`04_fotodokumentation_und_messliste.md`](04_fotodokumentation_und_messliste.md) | Foto- und Messplan als Textakte |
-| [`05_baumgutachten_platane_wurzeln_aeste.md`](05_baumgutachten_platane_wurzeln_aeste.md) | Baumsachverständigen-Notiz |
-| [`06_chat_email_eskalation.md`](06_chat_email_eskalation.md) | E-Mails und Messenger-Auszüge |
-| [`07_bauamt_ordnungsamt_vorgaenge.md`](07_bauamt_ordnungsamt_vorgaenge.md) | Behördenkontakte und Zuständigkeitswirrwarr |
+| [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Kanzleinotiz mit Sachverhaltsaufnahme |
+| [`02_lage_grundstuecke_grenze.docx`](02_lage_grundstuecke_grenze.docx) | Flurstücke, Grenzpunkte, Liegenschaftskarte, Vermessungszweifel |
+| [`03_bautagebuch_carport_ueberbau.docx`](03_bautagebuch_carport_ueberbau.docx) | Bauverlauf, Widerspruch, Carport, Dachrinne |
+| [`04_fotodokumentation_und_messliste.docx`](04_fotodokumentation_und_messliste.docx) | Foto- und Messplan als Textakte |
+| [`05_baumgutachten_platane_wurzeln_aeste.docx`](05_baumgutachten_platane_wurzeln_aeste.docx) | Baumsachverständigen-Notiz |
+| [`06_chat_email_eskalation.docx`](06_chat_email_eskalation.docx) | E-Mails und Messenger-Auszüge |
+| [`07_bauamt_ordnungsamt_vorgaenge.docx`](07_bauamt_ordnungsamt_vorgaenge.docx) | Behördenkontakte und Zuständigkeitswirrwarr |
 | [`08_kosten_schaeden_angebote.csv`](08_kosten_schaeden_angebote.csv) | Kosten und Angebote (CSV) |
-| [`09_anwaltsschreiben_kessler.md`](09_anwaltsschreiben_kessler.md) | Gegnerisches Schreiben |
-| [`10_aufforderungsschreiben_albers_entwurf.md`](10_aufforderungsschreiben_albers_entwurf.md) | Entwurf eines Anspruchsschreibens |
-| [`11_eilrechtsschutz_und_beweissicherung.md`](11_eilrechtsschutz_und_beweissicherung.md) | Eil- und Beweissicherungsvermerk |
-| [`12_vergleichsentwurf_rosengartenfrieden.md`](12_vergleichsentwurf_rosengartenfrieden.md) | Vergleichsentwurf mit Vollzugsplan |
-| [`13_zeugenliste_und_anwohner.md`](13_zeugenliste_und_anwohner.md) | Zeugen, Anwohner, Handwerker, Behördenkontakte |
-| [`14_telefonprotokolle_kanzlei.md`](14_telefonprotokolle_kanzlei.md) | Sechs Telefonprotokolle aus dem Kanzleisystem |
-| [`15_starkregen_dachrinne_kellerfeuchte.md`](15_starkregen_dachrinne_kellerfeuchte.md) | Starkregen, Dachrinne, Kellerfeuchte, Versicherung und Kausalitätsproblem |
-| [`16_notweg_hammerschlag_handwerkertermin.md`](16_notweg_hammerschlag_handwerkertermin.md) | Notweg-/Hammerschlagskonflikt um Handwerkerzugang und Minibagger |
-| [`17_kamera_licht_drohne_datenschutz.md`](17_kamera_licht_drohne_datenschutz.md) | Kamera, Lichtstrahler, Drohne, Beweissicherung und Persönlichkeitsrecht |
-| [`18_ortstermin_konfliktmatrix.md`](18_ortstermin_konfliktmatrix.md) | Ortsterminvermerk mit Konfliktmatrix und offenen Beweisfragen |
+| [`09_anwaltsschreiben_kessler.docx`](09_anwaltsschreiben_kessler.docx) | Gegnerisches Schreiben |
+| [`10_aufforderungsschreiben_albers_entwurf.docx`](10_aufforderungsschreiben_albers_entwurf.docx) | Entwurf eines Anspruchsschreibens |
+| [`11_eilrechtsschutz_und_beweissicherung.docx`](11_eilrechtsschutz_und_beweissicherung.docx) | Eil- und Beweissicherungsvermerk |
+| [`12_vergleichsentwurf_rosengartenfrieden.docx`](12_vergleichsentwurf_rosengartenfrieden.docx) | Vergleichsentwurf mit Vollzugsplan |
+| [`13_zeugenliste_und_anwohner.docx`](13_zeugenliste_und_anwohner.docx) | Zeugen, Anwohner, Handwerker, Behördenkontakte |
+| [`14_telefonprotokolle_kanzlei.docx`](14_telefonprotokolle_kanzlei.docx) | Sechs Telefonprotokolle aus dem Kanzleisystem |
+| [`15_starkregen_dachrinne_kellerfeuchte.docx`](15_starkregen_dachrinne_kellerfeuchte.docx) | Starkregen, Dachrinne, Kellerfeuchte, Versicherung und Kausalitätsproblem |
+| [`16_notweg_hammerschlag_handwerkertermin.docx`](16_notweg_hammerschlag_handwerkertermin.docx) | Notweg-/Hammerschlagskonflikt um Handwerkerzugang und Minibagger |
+| [`17_kamera_licht_drohne_datenschutz.docx`](17_kamera_licht_drohne_datenschutz.docx) | Kamera, Lichtstrahler, Drohne, Beweissicherung und Persönlichkeitsrecht |
+| [`18_ortstermin_konfliktmatrix.docx`](18_ortstermin_konfliktmatrix.docx) | Ortsterminvermerk mit Konfliktmatrix und offenen Beweisfragen |
 
 ### E-Mails (.eml)
 

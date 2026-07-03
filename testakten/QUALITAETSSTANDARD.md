@@ -21,6 +21,15 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 - Belege nicht nur behaupten, sondern als Datei, Tabelle, E-Mail, Scan oder Foto anlegen.
 - Juristische Spezialfragen nicht spoilern; die Akte darf neugierig machen, soll aber nicht lösen.
 
+## Dateiformate im Akten-ZIP — Grundregel für alle Testakten
+
+Der Akten-ZIP-Export ist das Herzstück der Lebensnähe: ein hybrider, bewusst unaufgeräumter Formatemix, wie er im Anwaltsalltag anfällt. Daran wird gezeigt, wie eine KI echte Dateien liest, umbenennt und umwandelt. Deshalb gilt verbindlich — auch für jede künftig von Menschen oder Coding-Agents erzeugte Testakte:
+
+- **Kein Markdown als Aktenstück.** Aktenstücke liegen in lebensechten Formaten vor: gut formatierte Word-Dokumente mit Briefkopf (DOCX, Times New Roman 11 pt), generierte oder gescannt wirkende PDFs, krude Excel-Tabellen (XLSX/CSV), echte E-Mail-Dateien (EML), Screenshots und Fotos (JPG/PNG), Chat-Exporte (TXT) und gelegentlich eine PowerPoint. Je gemischter, desto besser — Inhalt und Nummerierung bleiben mit dem Gesamt-PDF identisch.
+- **Markdown ist nur erlaubt** für README, `rubric.yaml`-Begleitung und Meta-/Lösungsdateien, die `scripts/testakte_file_filter.py` ohnehin vom PDF/ZIP-Export ausschließt.
+- **Werkzeuge:** `scripts/convert-testakte-aktenstuecke-nativ.py` wandelt Markdown-Aktenstücke in formatierte DOCX um (bestehende gleichnamige DOCX-Zwillinge gewinnen); `scripts/validate-testakten-keine-markdown-aktenstuecke.py` prüft die Regel repo-weit. Der Gesamt-PDF-Builder liest DOCX, XLSX, PDF, Bilder und EML nativ.
+- **Neue Akten** werden von Anfang an in nativen Formaten angelegt; wer schneller in Markdown entwirft, konvertiert vor dem Commit und baut das Gesamt-PDF neu.
+
 ## Technische Qualität
 
 - Gesamt-PDF ohne offensichtlichen Textüberlauf, mit lesbarem Cover und Dateiabschnitten.

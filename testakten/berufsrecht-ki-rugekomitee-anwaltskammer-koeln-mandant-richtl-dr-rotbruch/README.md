@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 353 KB) | PDF | [`gesamt-pdf/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch_gesamt.pdf`](gesamt-pdf/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 340 KB) | PDF | [`gesamt-pdf/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch_gesamt.pdf`](gesamt-pdf/berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-berufsrecht-ki-rugekomitee-anwaltskammer-koeln-mandant-richtl-dr-rotbruch-einzelpdfs.zip) |
 
@@ -90,28 +90,28 @@ Arbeitsakte zum Plugin `berufsrecht-ki-vertragspruefung`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsuebernahme_rotbruch_doppelmandat_brao.md`](01_mandatsuebernahme_rotbruch_doppelmandat_brao.md) | Mandatsübernahme, KI-Einsatz, Doppelmandat-Dokumentation, AGB-Klausel |
-| 02 | [`02_beteiligte_und_verfahren_uebersicht.md`](02_beteiligte_und_verfahren_uebersicht.md) | Beteiligte, Verfahrensübersicht, Schadensbild |
-| 03 | [`03_haftungsklage_habernau_lg_koeln_2o188_26.md`](03_haftungsklage_habernau_lg_koeln_2o188_26.md) | Klageschrift, Pflichtverletzungen, Schadensberechnung, Streitpunkte |
-| 04 | [`04_ki_einsatz_kanzleisorgfalt_par43a_brao.md`](04_ki_einsatz_kanzleisorgfalt_par43a_brao.md) | Sorgfaltspflichten bei KI-Einsatz, JuristAssist-Schwächen, KI-VO-Vorschau |
-| 05 | [`05_mandantenaufklaerung_par11_brao_par4_bora.md`](05_mandantenaufklaerung_par11_brao_par4_bora.md) | Aufklärungspflicht, Defizite, AGB als unzureichender Ersatz |
-| 06 | [`06_dsgvo_par28_avv_juristassist_pro_cloud.md`](06_dsgvo_par28_avv_juristassist_pro_cloud.md) | Art. 28 DSGVO, fehlender AVV, Bußgeldrisiko, Maßnahmen |
-| 07 | [`07_geheimnisschutz_par203_stgb_par43a_par2_brao.md`](07_geheimnisschutz_par203_stgb_par43a_par2_brao.md) | § 203 StGB, Cloud-KI und strafrechtliche Dimension |
-| 08 | [`08_kammer_ruegeverfahren_par73_brao_koeln.md`](08_kammer_ruegeverfahren_par73_brao_koeln.md) | Rügeverfahren RAK Köln, fünf Vorwürfe, Verfahrensablauf, Ausgänge |
-| 09 | [`09_anwaltsgericht_par114_brao_strafmasspruefung.md`](09_anwaltsgericht_par114_brao_strafmasspruefung.md) | Anwaltsgericht, Strafmaßprüfung, Sanktionen |
-| 10 | [`10_berufshaftpflicht_ki_ausschluss_allianz.md`](10_berufshaftpflicht_ki_ausschluss_allianz.md) | § 51 BRAO, KI-Ausschlussklausel, Deckungsablehnung, Marktentwicklung |
-| 11 | [`11_agb_kontrolle_par307_bgb_ki_klausel.md`](11_agb_kontrolle_par307_bgb_ki_klausel.md) | § 307 BGB, Einbeziehungs- und Inhaltskontrolle, Transparenzgebot |
-| 12 | [`12_ki_vo_eu_ai_act_high_risk_legal_einordnung.md`](12_ki_vo_eu_ai_act_high_risk_legal_einordnung.md) | EU AI Act 2024/1689, Anhang III Nr. 8, Hochrisiko-KI, Deployer-Pflichten |
-| 13 | [`13_aufsichtspflichtmangel_kanzleiorganisation.md`](13_aufsichtspflichtmangel_kanzleiorganisation.md) | Organisationspflichten, Vier-Augen-Prinzip, KI-Workflow-Defizite |
-| 14 | [`14_geschaeftsgeheimnis_geschg_konkurrenten.md`](14_geschaeftsgeheimnis_geschg_konkurrenten.md) | GeschGehG, Mandantendaten als Geschäftsgeheimnis, KI-Systemtransparenz |
-| 15 | [`15_dokumentationspflicht_aktenfuehrung_par50_brao.md`](15_dokumentationspflicht_aktenfuehrung_par50_brao.md) | § 50 BRAO, fehlende Dokumente, prozessuale Folgen (§ 444 ZPO) |
-| 16 | [`16_bgh_xii_zr_75_22_kontrolle_ehevertrag.md`](16_bgh_xii_zr_75_22_kontrolle_ehevertrag.md) | BGH XII ZR 75/22, Kernbereichsdoktrin, Zweistufen-Prüfung, Rechtsprechungsübersicht |
-| 17 | [`17_subsumtion_par280_par675_bgb_anwaltsvertrag.md`](17_subsumtion_par280_par675_bgb_anwaltsvertrag.md) | Vollständige Subsumtion §§ 280, 675 BGB, Ergebnis |
-| 18 | [`18_mitverschulden_par254_bgb_habernau.md`](18_mitverschulden_par254_bgb_habernau.md) | § 254 BGB, Mitverschuldens-Argumente, Anscheinsbeweis, Ergebnis |
-| 19 | [`19_quotelung_haftung_und_versicherer_regress.md`](19_quotelung_haftung_und_versicherer_regress.md) | Quotelung, Gesamtschuld, Regress gegen LegalTech GmbH, Haftungslandschaft |
-| 20 | [`20_vergleichsstrategie_und_mediation.md`](20_vergleichsstrategie_und_mediation.md) | Vergleichsoptionen, Mediation § 278a ZPO, Empfehlung |
-| 21 | [`21_chronologie_verfahrensgesamt.md`](21_chronologie_verfahrensgesamt.md) | Vollständige Chronologie aller Verfahrensstränge |
-| 22 | [`22_abschluss_handlungsempfehlungen_ki_kanzlei.md`](22_abschluss_handlungsempfehlungen_ki_kanzlei.md) | Sofortmaßnahmen, Reformbedarf, Fähigkeitsübersicht Plugin |
+| 01 | [`01_mandatsuebernahme_rotbruch_doppelmandat_brao.docx`](01_mandatsuebernahme_rotbruch_doppelmandat_brao.docx) | Mandatsübernahme, KI-Einsatz, Doppelmandat-Dokumentation, AGB-Klausel |
+| 02 | [`02_beteiligte_und_verfahren_uebersicht.docx`](02_beteiligte_und_verfahren_uebersicht.docx) | Beteiligte, Verfahrensübersicht, Schadensbild |
+| 03 | [`03_haftungsklage_habernau_lg_koeln_2o188_26.docx`](03_haftungsklage_habernau_lg_koeln_2o188_26.docx) | Klageschrift, Pflichtverletzungen, Schadensberechnung, Streitpunkte |
+| 04 | [`04_ki_einsatz_kanzleisorgfalt_par43a_brao.docx`](04_ki_einsatz_kanzleisorgfalt_par43a_brao.docx) | Sorgfaltspflichten bei KI-Einsatz, JuristAssist-Schwächen, KI-VO-Vorschau |
+| 05 | [`05_mandantenaufklaerung_par11_brao_par4_bora.docx`](05_mandantenaufklaerung_par11_brao_par4_bora.docx) | Aufklärungspflicht, Defizite, AGB als unzureichender Ersatz |
+| 06 | [`06_dsgvo_par28_avv_juristassist_pro_cloud.docx`](06_dsgvo_par28_avv_juristassist_pro_cloud.docx) | Art. 28 DSGVO, fehlender AVV, Bußgeldrisiko, Maßnahmen |
+| 07 | [`07_geheimnisschutz_par203_stgb_par43a_par2_brao.docx`](07_geheimnisschutz_par203_stgb_par43a_par2_brao.docx) | § 203 StGB, Cloud-KI und strafrechtliche Dimension |
+| 08 | [`08_kammer_ruegeverfahren_par73_brao_koeln.docx`](08_kammer_ruegeverfahren_par73_brao_koeln.docx) | Rügeverfahren RAK Köln, fünf Vorwürfe, Verfahrensablauf, Ausgänge |
+| 09 | [`09_anwaltsgericht_par114_brao_strafmasspruefung.docx`](09_anwaltsgericht_par114_brao_strafmasspruefung.docx) | Anwaltsgericht, Strafmaßprüfung, Sanktionen |
+| 10 | [`10_berufshaftpflicht_ki_ausschluss_allianz.docx`](10_berufshaftpflicht_ki_ausschluss_allianz.docx) | § 51 BRAO, KI-Ausschlussklausel, Deckungsablehnung, Marktentwicklung |
+| 11 | [`11_agb_kontrolle_par307_bgb_ki_klausel.docx`](11_agb_kontrolle_par307_bgb_ki_klausel.docx) | § 307 BGB, Einbeziehungs- und Inhaltskontrolle, Transparenzgebot |
+| 12 | [`12_ki_vo_eu_ai_act_high_risk_legal_einordnung.docx`](12_ki_vo_eu_ai_act_high_risk_legal_einordnung.docx) | EU AI Act 2024/1689, Anhang III Nr. 8, Hochrisiko-KI, Deployer-Pflichten |
+| 13 | [`13_aufsichtspflichtmangel_kanzleiorganisation.docx`](13_aufsichtspflichtmangel_kanzleiorganisation.docx) | Organisationspflichten, Vier-Augen-Prinzip, KI-Workflow-Defizite |
+| 14 | [`14_geschaeftsgeheimnis_geschg_konkurrenten.docx`](14_geschaeftsgeheimnis_geschg_konkurrenten.docx) | GeschGehG, Mandantendaten als Geschäftsgeheimnis, KI-Systemtransparenz |
+| 15 | [`15_dokumentationspflicht_aktenfuehrung_par50_brao.docx`](15_dokumentationspflicht_aktenfuehrung_par50_brao.docx) | § 50 BRAO, fehlende Dokumente, prozessuale Folgen (§ 444 ZPO) |
+| 16 | [`16_bgh_xii_zr_75_22_kontrolle_ehevertrag.docx`](16_bgh_xii_zr_75_22_kontrolle_ehevertrag.docx) | BGH XII ZR 75/22, Kernbereichsdoktrin, Zweistufen-Prüfung, Rechtsprechungsübersicht |
+| 17 | [`17_subsumtion_par280_par675_bgb_anwaltsvertrag.docx`](17_subsumtion_par280_par675_bgb_anwaltsvertrag.docx) | Vollständige Subsumtion §§ 280, 675 BGB, Ergebnis |
+| 18 | [`18_mitverschulden_par254_bgb_habernau.docx`](18_mitverschulden_par254_bgb_habernau.docx) | § 254 BGB, Mitverschuldens-Argumente, Anscheinsbeweis, Ergebnis |
+| 19 | [`19_quotelung_haftung_und_versicherer_regress.docx`](19_quotelung_haftung_und_versicherer_regress.docx) | Quotelung, Gesamtschuld, Regress gegen LegalTech GmbH, Haftungslandschaft |
+| 20 | [`20_vergleichsstrategie_und_mediation.docx`](20_vergleichsstrategie_und_mediation.docx) | Vergleichsoptionen, Mediation § 278a ZPO, Empfehlung |
+| 21 | [`21_chronologie_verfahrensgesamt.docx`](21_chronologie_verfahrensgesamt.docx) | Vollständige Chronologie aller Verfahrensstränge |
+| 22 | [`22_abschluss_handlungsempfehlungen_ki_kanzlei.docx`](22_abschluss_handlungsempfehlungen_ki_kanzlei.docx) | Sofortmaßnahmen, Reformbedarf, Fähigkeitsübersicht Plugin |
 
 ---
 

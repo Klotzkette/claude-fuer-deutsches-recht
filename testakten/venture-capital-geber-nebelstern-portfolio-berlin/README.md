@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 162 KB) | PDF | [`gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf`](gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 160 KB) | PDF | [`gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf`](gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip) |
 
@@ -22,35 +22,35 @@ VC-Geber-Akte eines Berliner Family-Office-nahen Venture-Investors, der drei Inv
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-deal-cockpit.md` | Pipeline-Übersicht, Status und nächste Handlungen. |
-| `02-investment-these-family-office.md` | Investmentthese, Mandat, rote Linien. |
-| `03-pitchdeck-notizen-ki-saas.md` | Notizen zum KI-SaaS-Pre-Seed-Deal. |
-| `04-series-a-robotik-term-sheet.md` | Fragmentarisches Series-A-Term-Sheet. |
-| `05-bridge-climate-portfolio.md` | Bridge-/Down-Round-Problem im Bestand. |
+| `01-deal-cockpit.docx` | Pipeline-Übersicht, Status und nächste Handlungen. |
+| `02-investment-these-family-office.docx` | Investmentthese, Mandat, rote Linien. |
+| `03-pitchdeck-notizen-ki-saas.docx` | Notizen zum KI-SaaS-Pre-Seed-Deal. |
+| `04-series-a-robotik-term-sheet.docx` | Fragmentarisches Series-A-Term-Sheet. |
+| `05-bridge-climate-portfolio.docx` | Bridge-/Down-Round-Problem im Bestand. |
 | `06-cap-table-und-dilution.xlsx` | Cap Table, Verwässerung und Follow-on-Szenarien. |
 | `07-founder-update-ki-saas.eml` | Founder Update mit KPIs und Runway-Problemen. |
 | `08-co-investor-mail-syndikat.eml` | Co-Investoren-Abstimmung zur Runde. |
 | `09-whatsapp-screenshot-founder.jpg` | Screenshot-artige Bildanlage mit hektischem Gründerchat. |
-| `10-kyc-aml-sanctions-check.md` | KYC/AML/Sanktionsnotiz. |
-| `11-dd-request-list.md` | Datenraum-Lückenliste. |
+| `10-kyc-aml-sanctions-check.docx` | KYC/AML/Sanktionsnotiz. |
+| `11-dd-request-list.docx` | Datenraum-Lückenliste. |
 | `12-ic-memo-entwurf.docx` | Investment-Committee-Memo. |
 | `13-follow-on-reserve-plan.csv` | Reserve- und Wiedervorlageplan. |
-| `14-legitime-deal-taktik.md` | Harte, aber saubere Deal-Taktik. |
-| `15-vc-taskboard.md` | Aufgabenboard für junge VC-Analysten. |
-| `16-board-observer-note.md` | Board-Observer-Notiz zum Robotik-Startup. |
-| `17-safe-wandeldarlehen-vergleich.md` | SAFE vs. deutsches Wandeldarlehen. |
-| `18-bafin-kagb-grenznotiz.md` | Fonds-/Vertriebsaufsichtsrisiko. |
-| `19-founder-reference-call-notes.md` | Reference-Call-Notizen. |
-| `20-quarterly-recap-portfolio.md` | Quartals-Recap für Family Office. |
-| `21-ic-memo-langfassung.md` | Ausführliches IC-Memo mit Deal-Empfehlung. |
-| `22-wandeldarlehen-term-sheet-kognitix.md` | Deutsches Wandeldarlehen als Term-Sheet. |
-| `23-side-letter-und-mfn-register.md` | Side Letter und MFN-Register. |
-| `24-closing-agenda-greifarm-series-a.md` | Closing Agenda Series A. |
-| `25-reference-call-transkript-auszug.md` | Reference-Call-Auszug. |
-| `26-us-ch-uk-bridge-memo.md` | US-/CH-/UK-Brückenmemo. |
-| `27-down-round-board-note-moosstrom.md` | Board Note zur Bridge/Down Round. |
-| `28-portfolio-reminder-log.md` | Reminder-Log für Portfolio und Pipeline. |
-| `29-investor-update-an-family-office.md` | Update an das Family Office. |
+| `14-legitime-deal-taktik.docx` | Harte, aber saubere Deal-Taktik. |
+| `15-vc-taskboard.docx` | Aufgabenboard für junge VC-Analysten. |
+| `16-board-observer-note.docx` | Board-Observer-Notiz zum Robotik-Startup. |
+| `17-safe-wandeldarlehen-vergleich.docx` | SAFE vs. deutsches Wandeldarlehen. |
+| `18-bafin-kagb-grenznotiz.docx` | Fonds-/Vertriebsaufsichtsrisiko. |
+| `19-founder-reference-call-notes.docx` | Reference-Call-Notizen. |
+| `20-quarterly-recap-portfolio.docx` | Quartals-Recap für Family Office. |
+| `21-ic-memo-langfassung.docx` | Ausführliches IC-Memo mit Deal-Empfehlung. |
+| `22-wandeldarlehen-term-sheet-kognitix.docx` | Deutsches Wandeldarlehen als Term-Sheet. |
+| `23-side-letter-und-mfn-register.docx` | Side Letter und MFN-Register. |
+| `24-closing-agenda-greifarm-series-a.docx` | Closing Agenda Series A. |
+| `25-reference-call-transkript-auszug.docx` | Reference-Call-Auszug. |
+| `26-us-ch-uk-bridge-memo.docx` | US-/CH-/UK-Brückenmemo. |
+| `27-down-round-board-note-moosstrom.docx` | Board Note zur Bridge/Down Round. |
+| `28-portfolio-reminder-log.docx` | Reminder-Log für Portfolio und Pipeline. |
+| `29-investor-update-an-family-office.docx` | Update an das Family Office. |
 | `30-lawyer-call-note.docx` | Anwaltscall mit offenen Rechtsfragen. |
 | `31-founder-update-standard.docx` | Founder-Update-Standard. |
 | `32-email-unterlagenrequest-kognitix.eml` | E-Mail mit Unterlagenanforderung. |

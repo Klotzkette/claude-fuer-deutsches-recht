@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 678 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 668 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-longcovid-erwerbsminderung-feldermann-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig-einzelpdfs.zip) |
 
@@ -65,28 +65,28 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 
 | Nr. | Dateiname | Inhalt |
 |---|---|---|
-| 01 | `01_aktenvorblatt_sonnemann.md` | Aktenvorblatt, Mandantendaten, Verfahrensübersicht |
-| 02 | `02_kanzleinotiz_erstgespraech_feldermann.md` | Protokoll Erstgespräch 17.02.2026 |
-| 03 | `03_anamnese_chronologie_2021_2026.md` | Vollständige Erkrankungs- und Verfahrenschronologie |
-| 04 | `04_bescheid_ukbw_bk3101_28_01_2026.md` | Bescheid BGW/UKBW BK 3101 + Kanzleibewertung |
-| 05 | `05_widerspruch_bk3101_ukbw.md` | Widerspruchsschriftsatz BGW BK 3101 (Entwurf) |
-| 06 | `06_bescheid_drv_em_rente.md` | Bescheid DRV EM-Rente + Kanzleibewertung |
-| 07 | `07_widerspruch_drv_em_rente.md` | Widerspruchsschriftsatz DRV EM-Rente (Entwurf) |
-| 08 | `08_bescheid_lasov_gdb30.md` | Bescheid LASOV GdB 30 + Kanzleibewertung |
-| 09 | `09_widerspruch_lasov_gdb_erhoehung.md` | Widerspruchsbegründung LASOV GdB-Erhöhung |
-| 10 | `10_bescheid_jobcenter_sgbii.md` | Bescheid Jobcenter SGB II + Einkommensberechnung |
-| 11 | `11_widerspruch_jobcenter_sgbii.md` | Widerspruchsschriftsatz Jobcenter |
-| 12 | `12_eilantrag_sg_leipzig_kdu.md` | Eilantrag SG Leipzig KdU (Az. S 7 AS 188/26 ER) |
-| 13 | `13_akteneinsicht_drv_auswertungsbericht.md` | Auswertung DRV-Akte (3 Bände, 340 S.) |
-| 14 | `14_akteneinsicht_ukbw_auswertungsbericht.md` | Auswertung BGW/UKBW-Akte |
-| 15 | `15_befund_charite_longcovid_ambulanz.md` | Befundbericht Prof. Scheibenbogen (Charité, 11/2025) |
-| 16 | `16_befund_skh_psychiatrie.md` | Entlassungsbericht SKH Leipzig Psychiatrie (02/2026) |
-| 17 | `17_pem_tagebuch_auszug.md` | PEM-Tagebuch Auszug (Aug 2025 – Jan 2026, 6 Monate) |
-| 18 | `18_email_kette_sonnemann_traeger.md` | E-Mail-Kette Kanzlei / DRV / BGW (Akteneinsicht) |
-| 19 | `19_mandantenkommunikation.md` | Mandantenkommunikation Feb–März 2026 |
-| 20 | `20_strategie_priorisierung_verfahren.md` | Strategiepapier (vertraulich) |
-| 21 | `21_kostenrisiko_pkh_antrag.md` | PKH-Berechnung und Kostenrisiko |
-| 22 | `22_fristenuebersicht.md` | Fristenübersicht und -kalender |
+| 01 | `01_aktenvorblatt_sonnemann.docx` | Aktenvorblatt, Mandantendaten, Verfahrensübersicht |
+| 02 | `02_kanzleinotiz_erstgespraech_feldermann.docx` | Protokoll Erstgespräch 17.02.2026 |
+| 03 | `03_anamnese_chronologie_2021_2026.docx` | Vollständige Erkrankungs- und Verfahrenschronologie |
+| 04 | `04_bescheid_ukbw_bk3101_28_01_2026.docx` | Bescheid BGW/UKBW BK 3101 + Kanzleibewertung |
+| 05 | `05_widerspruch_bk3101_ukbw.docx` | Widerspruchsschriftsatz BGW BK 3101 (Entwurf) |
+| 06 | `06_bescheid_drv_em_rente.docx` | Bescheid DRV EM-Rente + Kanzleibewertung |
+| 07 | `07_widerspruch_drv_em_rente.docx` | Widerspruchsschriftsatz DRV EM-Rente (Entwurf) |
+| 08 | `08_bescheid_lasov_gdb30.docx` | Bescheid LASOV GdB 30 + Kanzleibewertung |
+| 09 | `09_widerspruch_lasov_gdb_erhoehung.docx` | Widerspruchsbegründung LASOV GdB-Erhöhung |
+| 10 | `10_bescheid_jobcenter_sgbii.docx` | Bescheid Jobcenter SGB II + Einkommensberechnung |
+| 11 | `11_widerspruch_jobcenter_sgbii.docx` | Widerspruchsschriftsatz Jobcenter |
+| 12 | `12_eilantrag_sg_leipzig_kdu.docx` | Eilantrag SG Leipzig KdU (Az. S 7 AS 188/26 ER) |
+| 13 | `13_akteneinsicht_drv_auswertungsbericht.docx` | Auswertung DRV-Akte (3 Bände, 340 S.) |
+| 14 | `14_akteneinsicht_ukbw_auswertungsbericht.docx` | Auswertung BGW/UKBW-Akte |
+| 15 | `15_befund_charite_longcovid_ambulanz.docx` | Befundbericht Prof. Scheibenbogen (Charité, 11/2025) |
+| 16 | `16_befund_skh_psychiatrie.docx` | Entlassungsbericht SKH Leipzig Psychiatrie (02/2026) |
+| 17 | `17_pem_tagebuch_auszug.docx` | PEM-Tagebuch Auszug (Aug 2025 – Jan 2026, 6 Monate) |
+| 18 | `18_email_kette_sonnemann_traeger.docx` | E-Mail-Kette Kanzlei / DRV / BGW (Akteneinsicht) |
+| 19 | `19_mandantenkommunikation.docx` | Mandantenkommunikation Feb–März 2026 |
+| 20 | `20_strategie_priorisierung_verfahren.docx` | Strategiepapier (vertraulich) |
+| 21 | `21_kostenrisiko_pkh_antrag.docx` | PKH-Berechnung und Kostenrisiko |
+| 22 | `22_fristenuebersicht.docx` | Fristenübersicht und -kalender |
 
 ### DOCX-Schriftsätze (3)
 

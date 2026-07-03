@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 359 KB) | PDF | [`gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf`](gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 352 KB) | PDF | [`gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf`](gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen-einzelpdfs.zip) |
 
@@ -58,28 +58,28 @@ Arbeitsakte zum Plugin `geldwaeschepraevention-aml-kyc`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_sandhof_doppelverteidigung.md`](01_mandatsannahme_sandhof_doppelverteidigung.md) | Mandatsannahme durch Quasdorf & Reimers; Doppelverteidigungsthematik; strategischer Überblick |
-| 02 | [`02_beteiligte_verfahren_uebersicht.md`](02_beteiligte_verfahren_uebersicht.md) | Beteiligte, Behörden, Kaufobjekte, Verfahrensstand (Tabellen) |
-| 03 | [`03_gwg_anwendungsbereich_par2_par10.md`](03_gwg_anwendungsbereich_par2_par10.md) | GwG-Anwendungsbereich; § 2 Abs. 1 Nr. 10 GwG; Pflichtenübersicht; AMLD IV/V |
-| 04 | [`04_kyc_pflichten_par10_par11_gwg_smolenski_bluetail.md`](04_kyc_pflichten_par10_par11_gwg_smolenski_bluetail.md) | KYC-Analyse; Was fehlt; § 11 GwG; verstärkte Sorgfalt § 15 GwG |
-| 05 | [`05_ubo_identifizierung_transparenzregister.md`](05_ubo_identifizierung_transparenzregister.md) | UBO-Pflicht; Transparenzregister DE und CY; Befund |
-| 06 | [`06_sanktionscheck_eu_881_smolenski.md`](06_sanktionscheck_eu_881_smolenski.md) | VO (EU) 2024/881; Zeitachse; Pflicht zum Sanktionsscreening; Vorsatzfrage |
-| 07 | [`07_fiu_meldepflicht_par43_gwg_unterlassung.md`](07_fiu_meldepflicht_par43_gwg_unterlassung.md) | FIU; § 43 GwG; Privilegierungsausnahme Anwälte; Rechtsfolgen |
-| 08 | [`08_aml_officer_par7_gwg_geldwaeschebeauftragter.md`](08_aml_officer_par7_gwg_geldwaeschebeauftragter.md) | § 7 GwG; unbesetzte AML-Officer-Stelle; Neubestellungsempfehlung |
-| 09 | [`09_risikoanalyse_par5_gwg_kanzleimethodik.md`](09_risikoanalyse_par5_gwg_kanzleimethodik.md) | § 5 GwG; veraltete Risikoanalyse 2019; NRA 2023; Mängel |
-| 10 | [`10_strafanzeige_par261_stgb_geldwaesche_sandhof.md`](10_strafanzeige_par261_stgb_geldwaesche_sandhof.md) | § 261 StGB (n.F. 2021); Vortat; Vorsatzprüfung; Verteidigungsansätze |
-| 11 | [`11_sanktionsverstoss_par18_sanktdg_strategie.md`](11_sanktionsverstoss_par18_sanktdg_strategie.md) | § 23 SanktDG; § 4 SanktDG Meldepflicht; § 17 AWG; Einfrierung |
-| 12 | [`12_bafin_bussgeld_par17_gwg.md`](12_bafin_bussgeld_par17_gwg.md) | § 56 GwG Bußgeldtatbestände; BaFin-Anhörung; Bußgeldkalkulation; Strategie |
-| 13 | [`13_rak_hamburg_par73_brao_verfahren.md`](13_rak_hamburg_par73_brao_verfahren.md) | § 73, 74 BRAO; Rüge; Widerspruch; mögliche Sanktionen bis § 114 BRAO |
-| 14 | [`14_par43a_brao_sorgfaltspflicht_doppelt.md`](14_par43a_brao_sorgfaltspflicht_doppelt.md) | § 43a BRAO; Unabhängigkeit; Interessenkonflikt Public Law vs. Mandant |
-| 15 | [`15_immobilien_kaufvertrag_amrum_par18_kompromittierung.md`](15_immobilien_kaufvertrag_amrum_par18_kompromittierung.md) | Kaufvertragswirksamkeit; § 134 BGB i.V.m. Sanktionsrecht; Einziehung |
-| 16 | [`16_anwaltsgeheimnis_par203_stgb_gwg_konflikt.md`](16_anwaltsgeheimnis_par203_stgb_gwg_konflikt.md) | § 203 StGB; § 43a Abs. 2 BRAO; § 43 Abs. 2 GwG; Grundkonflikt |
-| 17 | [`17_legal_privilege_par11abs1_gwg_ausnahme.md`](17_legal_privilege_par11abs1_gwg_ausnahme.md) | Legal Privilege im GwG; EuGH C-305/05; Abgrenzung transaktional/Beratung |
-| 18 | [`18_einziehung_par73_stgb_konten_arrest.md`](18_einziehung_par73_stgb_konten_arrest.md) | §§ 73, 73b, 73c, 76a StGB; Honorareinziehung; § 111e StPO Arrest |
-| 19 | [`19_versicherung_berufshaftpflicht_aml_klausel.md`](19_versicherung_berufshaftpflicht_aml_klausel.md) | § 51 BRAO; HDI-Police; AML-Ausschlussklausel; Deckungsszenarien |
-| 20 | [`20_compliance_program_remediation_roadmap.md`](20_compliance_program_remediation_roadmap.md) | Sofortmaßnahmen; Roadmap 90 Tage; Kostenkalkulation; Wirkung auf Verfahren |
-| 21 | [`21_chronologie_aml_versaeumnisse.md`](21_chronologie_aml_versaeumnisse.md) | Zeitstrahl 2019–2026; strukturelle AML-Blindheit; systemisches Organisationsverschulden |
-| 22 | [`22_abschluss_kanzlei_aml_redesign_und_strafverteidigung.md`](22_abschluss_kanzlei_aml_redesign_und_strafverteidigung.md) | Gesamtstrategie; Kernthesen; Zielkorridor; offene Punkte |
+| 01 | [`01_mandatsannahme_sandhof_doppelverteidigung.docx`](01_mandatsannahme_sandhof_doppelverteidigung.docx) | Mandatsannahme durch Quasdorf & Reimers; Doppelverteidigungsthematik; strategischer Überblick |
+| 02 | [`02_beteiligte_verfahren_uebersicht.docx`](02_beteiligte_verfahren_uebersicht.docx) | Beteiligte, Behörden, Kaufobjekte, Verfahrensstand (Tabellen) |
+| 03 | [`03_gwg_anwendungsbereich_par2_par10.docx`](03_gwg_anwendungsbereich_par2_par10.docx) | GwG-Anwendungsbereich; § 2 Abs. 1 Nr. 10 GwG; Pflichtenübersicht; AMLD IV/V |
+| 04 | [`04_kyc_pflichten_par10_par11_gwg_smolenski_bluetail.docx`](04_kyc_pflichten_par10_par11_gwg_smolenski_bluetail.docx) | KYC-Analyse; Was fehlt; § 11 GwG; verstärkte Sorgfalt § 15 GwG |
+| 05 | [`05_ubo_identifizierung_transparenzregister.docx`](05_ubo_identifizierung_transparenzregister.docx) | UBO-Pflicht; Transparenzregister DE und CY; Befund |
+| 06 | [`06_sanktionscheck_eu_881_smolenski.docx`](06_sanktionscheck_eu_881_smolenski.docx) | VO (EU) 2024/881; Zeitachse; Pflicht zum Sanktionsscreening; Vorsatzfrage |
+| 07 | [`07_fiu_meldepflicht_par43_gwg_unterlassung.docx`](07_fiu_meldepflicht_par43_gwg_unterlassung.docx) | FIU; § 43 GwG; Privilegierungsausnahme Anwälte; Rechtsfolgen |
+| 08 | [`08_aml_officer_par7_gwg_geldwaeschebeauftragter.docx`](08_aml_officer_par7_gwg_geldwaeschebeauftragter.docx) | § 7 GwG; unbesetzte AML-Officer-Stelle; Neubestellungsempfehlung |
+| 09 | [`09_risikoanalyse_par5_gwg_kanzleimethodik.docx`](09_risikoanalyse_par5_gwg_kanzleimethodik.docx) | § 5 GwG; veraltete Risikoanalyse 2019; NRA 2023; Mängel |
+| 10 | [`10_strafanzeige_par261_stgb_geldwaesche_sandhof.docx`](10_strafanzeige_par261_stgb_geldwaesche_sandhof.docx) | § 261 StGB (n.F. 2021); Vortat; Vorsatzprüfung; Verteidigungsansätze |
+| 11 | [`11_sanktionsverstoss_par18_sanktdg_strategie.docx`](11_sanktionsverstoss_par18_sanktdg_strategie.docx) | § 23 SanktDG; § 4 SanktDG Meldepflicht; § 17 AWG; Einfrierung |
+| 12 | [`12_bafin_bussgeld_par17_gwg.docx`](12_bafin_bussgeld_par17_gwg.docx) | § 56 GwG Bußgeldtatbestände; BaFin-Anhörung; Bußgeldkalkulation; Strategie |
+| 13 | [`13_rak_hamburg_par73_brao_verfahren.docx`](13_rak_hamburg_par73_brao_verfahren.docx) | § 73, 74 BRAO; Rüge; Widerspruch; mögliche Sanktionen bis § 114 BRAO |
+| 14 | [`14_par43a_brao_sorgfaltspflicht_doppelt.docx`](14_par43a_brao_sorgfaltspflicht_doppelt.docx) | § 43a BRAO; Unabhängigkeit; Interessenkonflikt Public Law vs. Mandant |
+| 15 | [`15_immobilien_kaufvertrag_amrum_par18_kompromittierung.docx`](15_immobilien_kaufvertrag_amrum_par18_kompromittierung.docx) | Kaufvertragswirksamkeit; § 134 BGB i.V.m. Sanktionsrecht; Einziehung |
+| 16 | [`16_anwaltsgeheimnis_par203_stgb_gwg_konflikt.docx`](16_anwaltsgeheimnis_par203_stgb_gwg_konflikt.docx) | § 203 StGB; § 43a Abs. 2 BRAO; § 43 Abs. 2 GwG; Grundkonflikt |
+| 17 | [`17_legal_privilege_par11abs1_gwg_ausnahme.docx`](17_legal_privilege_par11abs1_gwg_ausnahme.docx) | Legal Privilege im GwG; EuGH C-305/05; Abgrenzung transaktional/Beratung |
+| 18 | [`18_einziehung_par73_stgb_konten_arrest.docx`](18_einziehung_par73_stgb_konten_arrest.docx) | §§ 73, 73b, 73c, 76a StGB; Honorareinziehung; § 111e StPO Arrest |
+| 19 | [`19_versicherung_berufshaftpflicht_aml_klausel.docx`](19_versicherung_berufshaftpflicht_aml_klausel.docx) | § 51 BRAO; HDI-Police; AML-Ausschlussklausel; Deckungsszenarien |
+| 20 | [`20_compliance_program_remediation_roadmap.docx`](20_compliance_program_remediation_roadmap.docx) | Sofortmaßnahmen; Roadmap 90 Tage; Kostenkalkulation; Wirkung auf Verfahren |
+| 21 | [`21_chronologie_aml_versaeumnisse.docx`](21_chronologie_aml_versaeumnisse.docx) | Zeitstrahl 2019–2026; strukturelle AML-Blindheit; systemisches Organisationsverschulden |
+| 22 | [`22_abschluss_kanzlei_aml_redesign_und_strafverteidigung.docx`](22_abschluss_kanzlei_aml_redesign_und_strafverteidigung.docx) | Gesamtstrategie; Kernthesen; Zielkorridor; offene Punkte |
 
 ---
 

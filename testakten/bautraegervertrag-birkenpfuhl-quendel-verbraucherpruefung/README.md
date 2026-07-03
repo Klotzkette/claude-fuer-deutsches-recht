@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 214 KB) | PDF | [`gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf`](gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 212 KB) | PDF | [`gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf`](gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung-einzelpdfs.zip) |
 
@@ -20,7 +20,7 @@ Diese Akte enthält einen vollständigen Bauträgervertrag über die Wohnung 4.2
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-bautraegervertrag-ur-188-2026-kq.md` | Vollständiger Vertragsstoff mit Baubeschreibung als Markdown |
+| `01-bautraegervertrag-ur-188-2026-kq.docx` | Vollständiger Vertragsstoff mit Baubeschreibung als Markdown |
 | `pdfs/01-bautraegervertrag-ur-188-2026-kq.pdf` | PDF-Fassung des Vertrags |
 | `docx/01-bautraegervertrag-ur-188-2026-kq.docx` | Word-Fassung des Vertrags |
 | `emails/00-mandant-mail-notarentwurf-pruefen.eml` | Mandanten-E-Mail zur schnellen Einordnung |

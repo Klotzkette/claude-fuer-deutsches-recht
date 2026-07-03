@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf`](gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf`](gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln-einzelpdfs.zip) |
 
@@ -50,17 +50,17 @@ Nach einem OTA-Update im Februar 2026 fällt erst das Eiswürfelmodul aus, spät
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.md` | Erstgespräch, Fristen, Ziel der Käuferin |
-| `02_bestellung_rechnung_agb.md` | Bestellung, Rechnung, AGB-Auszug, Garantieversprechen |
-| `03_produktbeschreibung_vestacool_fr900.md` | Funktionen, digitale Elemente, Werbeaussagen |
-| `04_update_timeline_firmware_app.md` | Firmware-/App-Timeline und Warnmeldungen |
-| `05_maengelanzeige_temperatur_ice_module.md` | Mängelanzeige, Fristsetzung und Fotos beschrieben |
-| `06_haendlerantwort_nacherfuellung.md` | Händlerantwort mit Ersatzlieferungs-/Reparaturstreit |
-| `07_unabhaengige_reparatur_puetz.md` | Reparaturversuch, Diagnose-Token, Ersatzteil-Pairing |
-| `08_hersteller_service_policy_repair.md` | Herstellerpolicy zu Repair, Ersatzteilen, Sicherheitsgründen |
-| `09_app_screenshots_beschrieben.md` | Screenshots App-Warnungen und Update-Hinweise beschrieben |
-| `10_entwurf_anschreiben_haendler.md` | anwaltlicher Entwurf an Händler und Hersteller |
-| `11_anspruchsmatrix_arbeitsstand.md` | Anspruchsmatrix ohne abschließende Lösung |
+| `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch, Fristen, Ziel der Käuferin |
+| `02_bestellung_rechnung_agb.docx` | Bestellung, Rechnung, AGB-Auszug, Garantieversprechen |
+| `03_produktbeschreibung_vestacool_fr900.docx` | Funktionen, digitale Elemente, Werbeaussagen |
+| `04_update_timeline_firmware_app.docx` | Firmware-/App-Timeline und Warnmeldungen |
+| `05_maengelanzeige_temperatur_ice_module.docx` | Mängelanzeige, Fristsetzung und Fotos beschrieben |
+| `06_haendlerantwort_nacherfuellung.docx` | Händlerantwort mit Ersatzlieferungs-/Reparaturstreit |
+| `07_unabhaengige_reparatur_puetz.docx` | Reparaturversuch, Diagnose-Token, Ersatzteil-Pairing |
+| `08_hersteller_service_policy_repair.docx` | Herstellerpolicy zu Repair, Ersatzteilen, Sicherheitsgründen |
+| `09_app_screenshots_beschrieben.docx` | Screenshots App-Warnungen und Update-Hinweise beschrieben |
+| `10_entwurf_anschreiben_haendler.docx` | anwaltlicher Entwurf an Händler und Hersteller |
+| `11_anspruchsmatrix_arbeitsstand.docx` | Anspruchsmatrix ohne abschließende Lösung |
 | `emails/*.eml` | E-Mail-Verkehr Käuferin, Händler, Hersteller, Werkstatt |
 | `tabellen/*.csv` | Kosten, Fristen, Update-/Temperaturlog |
 | `xlsx/*.xlsx` | strukturierte Fristen- und Mangelmatrix |

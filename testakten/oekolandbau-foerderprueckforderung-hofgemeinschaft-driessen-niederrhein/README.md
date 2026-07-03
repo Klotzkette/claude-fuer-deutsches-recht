@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 511 KB) | PDF | [`gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf`](gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 497 KB) | PDF | [`gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf`](gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein-einzelpdfs.zip) |
 
@@ -59,28 +59,28 @@ Arbeitsakte zum Plugin `fachanwalt-agrarrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Kanzleinotiz Erstgespräch 14.03.2026; sechs Konfliktstränge |
-| 02 | [`02_betriebsbeschreibung_hofgemeinschaft_driessen.md`](02_betriebsbeschreibung_hofgemeinschaft_driessen.md) | Betriebsspiegel, Flächennutzung, Vermarktung |
-| 03 | [`03_ble_vorortkontrolle_und_bescheid_lwk.md`](03_ble_vorortkontrolle_und_bescheid_lwk.md) | BLE-VOK-Bericht, Rückforderungsbescheid 142.350 EUR |
-| 04 | [`04_greening_oevf_rechtslage.md`](04_greening_oevf_rechtslage.md) | Greening-Auflagen, Öko-Äquivalenz, GLÖZ-8-Ausnahme |
-| 05 | [`05_stickstoffsaldo_duengeverordnung.md`](05_stickstoffsaldo_duengeverordnung.md) | DüV §§ 3, 7, Aufzeichnungsmängel und Nachholung |
-| 06 | [`06_drift_schaden_bremm_lg_kleve.md`](06_drift_schaden_bremm_lg_kleve.md) | Bt-Spritzung, Drift-Klage LG Kleve, § 823/§ 906 BGB |
-| 07 | [`07_bioland_aberkennung_schiedsstelle.md`](07_bioland_aberkennung_schiedsstelle.md) | Bioland-Sanktionsordnung, Schiedsverfahren Mainz |
-| 08 | [`08_pachtstreit_lvr_liegenschaft.md`](08_pachtstreit_lvr_liegenschaft.md) | LVR-Kündigung, Aufrechnung, § 591 BGB, § 594e BGB |
-| 09 | [`09_hoffolge_hoefeo_nrw_erbrecht.md`](09_hoffolge_hoefeo_nrw_erbrecht.md) | HöfeO NRW, Hofwert vs. Verkehrswert, OLG-Verfahren |
-| 10 | [`10_tierwohl_galloway_veterinaeramt_wesel.md`](10_tierwohl_galloway_veterinaeramt_wesel.md) | Veterinärbehörde, § 16a TierSchG, Besatzdichte |
-| 11 | [`11_foerderantrag_chronologie_iacs.md`](11_foerderantrag_chronologie_iacs.md) | MAO-NRW 2022/2023, GAPDZV, Auszahlungsübersicht |
-| 12 | [`12_widerspruchsbescheid_analyse.md`](12_widerspruchsbescheid_analyse.md) | Widerspruchsbescheid-Analyse, Klagepunkte, § 80 Abs. 5 VwGO |
-| 13 | [`13_schriftsatz_vg_duesseldorf_klage.md`](13_schriftsatz_vg_duesseldorf_klage.md) | Gliederung und Anträge Klageschrift VG Düsseldorf |
-| 14 | [`14_bioland_richtlinien_oeko_eu_verordnung.md`](14_bioland_richtlinien_oeko_eu_verordnung.md) | VO (EU) 2018/848, Bioland-Richtlinie 4.3.2, Schadensersatz Händler |
-| 15 | [`15_sachverstaendiger_flächenmessung.md`](15_sachverstaendiger_flächenmessung.md) | Gutachtenauftrag SV Arens, RTK-GNSS, TIM-online |
-| 16 | [`16_pachtvertrag_drainage_auswertung.md`](16_pachtvertrag_drainage_auswertung.md) | Pachtvertragsklauseln, Drainage-Dokumentation, Widerklage |
-| 17 | [`17_hoefeordnung_verfahren_olg_duesseldorf.md`](17_hoefeordnung_verfahren_olg_duesseldorf.md) | Hofwert-Berechnung, Abfindung Mathis, OLG-Stellungnahme |
-| 18 | [`18_wirtschaftliche_lage_liquiditaet.md`](18_wirtschaftliche_lage_liquiditaet.md) | Jahresabschluss WJ 2024/2025, Liquiditätsanalyse § 80-Antrag |
-| 19 | [`19_zeugen_beweismittel_uebersicht.md`](19_zeugen_beweismittel_uebersicht.md) | Zeugen alle Verfahren, Sachverständige, Anlageübersicht |
-| 20 | [`20_strategie_und_vergleichskorridor.md`](20_strategie_und_vergleichskorridor.md) | Szenarien Best/Middle/Worst Case, Vergleichskorridore |
-| 21 | [`21_cronologie_kommunikation.md`](21_cronologie_kommunikation.md) | Gesamtchronologie 2022–2026, Fristen-Ampel |
-| 22 | [`22_mareike_druessen_hofuebergabe_vorbereitung.md`](22_mareike_druessen_hofuebergabe_vorbereitung.md) | Erbvertrag, Altenteil, Übergabe-Zeitplan, Junglandwirte-Prämie |
+| 01 | [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Kanzleinotiz Erstgespräch 14.03.2026; sechs Konfliktstränge |
+| 02 | [`02_betriebsbeschreibung_hofgemeinschaft_driessen.docx`](02_betriebsbeschreibung_hofgemeinschaft_driessen.docx) | Betriebsspiegel, Flächennutzung, Vermarktung |
+| 03 | [`03_ble_vorortkontrolle_und_bescheid_lwk.docx`](03_ble_vorortkontrolle_und_bescheid_lwk.docx) | BLE-VOK-Bericht, Rückforderungsbescheid 142.350 EUR |
+| 04 | [`04_greening_oevf_rechtslage.docx`](04_greening_oevf_rechtslage.docx) | Greening-Auflagen, Öko-Äquivalenz, GLÖZ-8-Ausnahme |
+| 05 | [`05_stickstoffsaldo_duengeverordnung.docx`](05_stickstoffsaldo_duengeverordnung.docx) | DüV §§ 3, 7, Aufzeichnungsmängel und Nachholung |
+| 06 | [`06_drift_schaden_bremm_lg_kleve.docx`](06_drift_schaden_bremm_lg_kleve.docx) | Bt-Spritzung, Drift-Klage LG Kleve, § 823/§ 906 BGB |
+| 07 | [`07_bioland_aberkennung_schiedsstelle.docx`](07_bioland_aberkennung_schiedsstelle.docx) | Bioland-Sanktionsordnung, Schiedsverfahren Mainz |
+| 08 | [`08_pachtstreit_lvr_liegenschaft.docx`](08_pachtstreit_lvr_liegenschaft.docx) | LVR-Kündigung, Aufrechnung, § 591 BGB, § 594e BGB |
+| 09 | [`09_hoffolge_hoefeo_nrw_erbrecht.docx`](09_hoffolge_hoefeo_nrw_erbrecht.docx) | HöfeO NRW, Hofwert vs. Verkehrswert, OLG-Verfahren |
+| 10 | [`10_tierwohl_galloway_veterinaeramt_wesel.docx`](10_tierwohl_galloway_veterinaeramt_wesel.docx) | Veterinärbehörde, § 16a TierSchG, Besatzdichte |
+| 11 | [`11_foerderantrag_chronologie_iacs.docx`](11_foerderantrag_chronologie_iacs.docx) | MAO-NRW 2022/2023, GAPDZV, Auszahlungsübersicht |
+| 12 | [`12_widerspruchsbescheid_analyse.docx`](12_widerspruchsbescheid_analyse.docx) | Widerspruchsbescheid-Analyse, Klagepunkte, § 80 Abs. 5 VwGO |
+| 13 | [`13_schriftsatz_vg_duesseldorf_klage.docx`](13_schriftsatz_vg_duesseldorf_klage.docx) | Gliederung und Anträge Klageschrift VG Düsseldorf |
+| 14 | [`14_bioland_richtlinien_oeko_eu_verordnung.docx`](14_bioland_richtlinien_oeko_eu_verordnung.docx) | VO (EU) 2018/848, Bioland-Richtlinie 4.3.2, Schadensersatz Händler |
+| 15 | [`15_sachverstaendiger_flächenmessung.docx`](15_sachverstaendiger_flächenmessung.docx) | Gutachtenauftrag SV Arens, RTK-GNSS, TIM-online |
+| 16 | [`16_pachtvertrag_drainage_auswertung.docx`](16_pachtvertrag_drainage_auswertung.docx) | Pachtvertragsklauseln, Drainage-Dokumentation, Widerklage |
+| 17 | [`17_hoefeordnung_verfahren_olg_duesseldorf.docx`](17_hoefeordnung_verfahren_olg_duesseldorf.docx) | Hofwert-Berechnung, Abfindung Mathis, OLG-Stellungnahme |
+| 18 | [`18_wirtschaftliche_lage_liquiditaet.docx`](18_wirtschaftliche_lage_liquiditaet.docx) | Jahresabschluss WJ 2024/2025, Liquiditätsanalyse § 80-Antrag |
+| 19 | [`19_zeugen_beweismittel_uebersicht.docx`](19_zeugen_beweismittel_uebersicht.docx) | Zeugen alle Verfahren, Sachverständige, Anlageübersicht |
+| 20 | [`20_strategie_und_vergleichskorridor.docx`](20_strategie_und_vergleichskorridor.docx) | Szenarien Best/Middle/Worst Case, Vergleichskorridore |
+| 21 | [`21_cronologie_kommunikation.docx`](21_cronologie_kommunikation.docx) | Gesamtchronologie 2022–2026, Fristen-Ampel |
+| 22 | [`22_mareike_druessen_hofuebergabe_vorbereitung.docx`](22_mareike_druessen_hofuebergabe_vorbereitung.docx) | Erbvertrag, Altenteil, Übergabe-Zeitplan, Junglandwirte-Prämie |
 
 ## Anlagen
 

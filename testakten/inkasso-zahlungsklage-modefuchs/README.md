@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 151 KB) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 150 KB) | PDF | [`gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf`](gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
@@ -42,10 +42,10 @@ Der Prüffokus ist absichtlich scharf: Der Klagegenerator muss erkennen, dass di
 | `01_forderungsdaten_modefuchs.json` | Strukturierte Kerndaten. |
 | `02_mahnlauf_modefuchs.csv` | Mahn- und Zahlungschronologie. |
 | `03_anspruchsmatrix_modefuchs.csv` | Ampel je Forderungsposition. |
-| `04_klagefreigabe.md` | Was darf in die Klage, was nicht. |
-| `05_gerichtsort_pruefung.md` | Gerichtsort-Workflow für Nürnberg/Coburg. |
-| `06_korrigierter_klageauftrag.md` | Sauberer Klageauftrag nach Gatekeeper-Logik. |
-| `07_fehleranalyse_vorhandene_klage.md` | Analyse der vorhandenen Klageschrift. |
+| `04_klagefreigabe.docx` | Was darf in die Klage, was nicht. |
+| `05_gerichtsort_pruefung.docx` | Gerichtsort-Workflow für Nürnberg/Coburg. |
+| `06_korrigierter_klageauftrag.docx` | Sauberer Klageauftrag nach Gatekeeper-Logik. |
+| `07_fehleranalyse_vorhandene_klage.docx` | Analyse der vorhandenen Klageschrift. |
 | `08_claim_gate_input.json` | Maschinelles Input-Beispiel für das Claim-Gate. |
 | `09_claim_gate_output.json` | Erwarteter Gatekeeper-Output. |
 

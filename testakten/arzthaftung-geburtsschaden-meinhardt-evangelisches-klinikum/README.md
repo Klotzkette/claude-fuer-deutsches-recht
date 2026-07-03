@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 537 KB) | PDF | [`gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf`](gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 530 KB) | PDF | [`gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf`](gesamt-pdf/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum-einzelpdfs.zip) |
 
@@ -61,28 +61,28 @@ Arbeitsakte zum Plugin `fachanwalt-medizinrecht`.
 
 | Datei | Inhalt |
 |---|---|
-| [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Detailliertes Erstgespräch November 2024, Sachverhaltsaufnahme, Fristprüfung, Mandatsannahme |
-| [`02_chronologie_geburt_17_18_juli_2024.md`](02_chronologie_geburt_17_18_juli_2024.md) | Minuten-Chronologie der Geburtsnacht, Konfliktstellen, Quellendivergenz |
-| [`03_patientenakte_auszug_geburtshilfe.md`](03_patientenakte_auszug_geburtshilfe.md) | Auszüge Patientenakte: Aufnahme, Partogramm, CTG-Auswertung, OP-Bericht, NICU-Bericht |
-| [`04_ctg_kurven_befundung.md`](04_ctg_kurven_befundung.md) | CTG-Bogen-Analyse, FIGO-Klassifikation, Sachverständigenbefundung, fehlender Bogen 5 |
-| [`05_aufklaerungsprotokoll_oder_dessen_fehlen.md`](05_aufklaerungsprotokoll_oder_dessen_fehlen.md) | Vorhandene Formulare, fehlende Sectio-Aufklärung, Mandantenaussage, § 630e/630h BGB |
-| [`06_schlichtungsantrag_aek_niedersachsen.md`](06_schlichtungsantrag_aek_niedersachsen.md) | Schlichtungsantrag Oktober 2024, Sachverhalt, Fehlervorwürfe, Beweismittel |
-| [`07_schlichtungsentscheid_mai_2025.md`](07_schlichtungsentscheid_mai_2025.md) | Schlichtungsspruch Mai 2025, Feststellungen, Vorschlag EUR 180.000, Klinikablehnung |
-| [`08_sachverstaendigengutachten_zusammenfassung.md`](08_sachverstaendigengutachten_zusammenfassung.md) | 8-seitige Gutachtenzusammenfassung (Geburtshilfe + Neonatologie + Neuropädiatrie) |
-| [`09_klinikkorrespondenz_aufklaerung_und_haftung.md`](09_klinikkorrespondenz_aufklaerung_und_haftung.md) | Schriftwechsel Klinikjustiziar Wendelborg ↔ Kanzlei Dez. 2024 – Mai 2025 |
-| [`10_versicherer_korrespondenz_assekuranzalpha.md`](10_versicherer_korrespondenz_assekuranzalpha.md) | Korrespondenz AssekuranzAlpha AG, Reservierung, Vergleichsangebot EUR 95.000, Ablehnung |
-| [`11_schadensaufstellung_helene.md`](11_schadensaufstellung_helene.md) | Schadenstabelle: Ist-Schäden 2024/25, Pflegekostenprognose, Schmerzensgeld-Vergleichsfälle |
-| [`12_pflegegrad_und_versorgungsamt_helene.md`](12_pflegegrad_und_versorgungsamt_helene.md) | Pflegegrad 5, GdB 100, Merkzeichen, EUTB, Hilfsmittelversorgung, offene Verfahren |
-| [`13_off_label_long_covid_mutter.md`](13_off_label_long_covid_mutter.md) | Long Covid Lina Meinhardt, Maraviroc Off-Label-Antrag, MDK-Ablehnung, Widerspruch |
-| [`14_kassenarzt_schnittstelle_helene.md`](14_kassenarzt_schnittstelle_helene.md) | KV Niedersachsen, SPZ Hannover, Hippotherapie-Streit, Botulinumtoxin-Klage SG |
-| [`15_behandlungsvertrag_630a_analyse.md`](15_behandlungsvertrag_630a_analyse.md) | § 630a ff. BGB, Pflichten, Dokumentation, Beweislastregeln § 630h |
-| [`16_zeugenliste_und_aerzteanhoerung.md`](16_zeugenliste_und_aerzteanhoerung.md) | Zeugen, Sachverständige, Schichtdienstplan, offene Beweisfragen |
-| [`17_strafanzeige_und_einstellung.md`](17_strafanzeige_und_einstellung.md) | Strafanzeige § 229 StGB, Einstellung § 170 II StPO, Klageerzwingung verworfen |
-| [`18_streitwert_berechnung_und_pkh.md`](18_streitwert_berechnung_und_pkh.md) | Streitwert EUR 711.800, GKG-Gebühren, PKH-Berechnung, Kostenrisiko |
-| [`19_zeitstrahl_gesamtfall.md`](19_zeitstrahl_gesamtfall.md) | Gesamtzeitleiste 2024–2025 mit Kreuzbezügen zu Aktenstücken |
-| [`20_klageschrift_entwurf_lg_hildesheim.md`](20_klageschrift_entwurf_lg_hildesheim.md) | Vollständiger Klageentwurf LG Hildesheim: Anträge, Sachverhalt, Rechtslage, Beweise |
-| [`21_vergleichskorridor_und_verhandlungsstrategie.md`](21_vergleichskorridor_und_verhandlungsstrategie.md) | Best/Worst-Case, Mindestvergleich EUR 200.000, LG-Strategie, OLG-Risiko |
-| [`22_dokumentationsmaengel_pflicht_zur_volledition.md`](22_dokumentationsmaengel_pflicht_zur_volledition.md) | Neun Dokumentationsmängel tabellarisch, § 630h Abs. 3 BGB-Folgen, Volleditiionsantrag |
+| [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Detailliertes Erstgespräch November 2024, Sachverhaltsaufnahme, Fristprüfung, Mandatsannahme |
+| [`02_chronologie_geburt_17_18_juli_2024.docx`](02_chronologie_geburt_17_18_juli_2024.docx) | Minuten-Chronologie der Geburtsnacht, Konfliktstellen, Quellendivergenz |
+| [`03_patientenakte_auszug_geburtshilfe.docx`](03_patientenakte_auszug_geburtshilfe.docx) | Auszüge Patientenakte: Aufnahme, Partogramm, CTG-Auswertung, OP-Bericht, NICU-Bericht |
+| [`04_ctg_kurven_befundung.docx`](04_ctg_kurven_befundung.docx) | CTG-Bogen-Analyse, FIGO-Klassifikation, Sachverständigenbefundung, fehlender Bogen 5 |
+| [`05_aufklaerungsprotokoll_oder_dessen_fehlen.docx`](05_aufklaerungsprotokoll_oder_dessen_fehlen.docx) | Vorhandene Formulare, fehlende Sectio-Aufklärung, Mandantenaussage, § 630e/630h BGB |
+| [`06_schlichtungsantrag_aek_niedersachsen.docx`](06_schlichtungsantrag_aek_niedersachsen.docx) | Schlichtungsantrag Oktober 2024, Sachverhalt, Fehlervorwürfe, Beweismittel |
+| [`07_schlichtungsentscheid_mai_2025.docx`](07_schlichtungsentscheid_mai_2025.docx) | Schlichtungsspruch Mai 2025, Feststellungen, Vorschlag EUR 180.000, Klinikablehnung |
+| [`08_sachverstaendigengutachten_zusammenfassung.docx`](08_sachverstaendigengutachten_zusammenfassung.docx) | 8-seitige Gutachtenzusammenfassung (Geburtshilfe + Neonatologie + Neuropädiatrie) |
+| [`09_klinikkorrespondenz_aufklaerung_und_haftung.docx`](09_klinikkorrespondenz_aufklaerung_und_haftung.docx) | Schriftwechsel Klinikjustiziar Wendelborg ↔ Kanzlei Dez. 2024 – Mai 2025 |
+| [`10_versicherer_korrespondenz_assekuranzalpha.docx`](10_versicherer_korrespondenz_assekuranzalpha.docx) | Korrespondenz AssekuranzAlpha AG, Reservierung, Vergleichsangebot EUR 95.000, Ablehnung |
+| [`11_schadensaufstellung_helene.docx`](11_schadensaufstellung_helene.docx) | Schadenstabelle: Ist-Schäden 2024/25, Pflegekostenprognose, Schmerzensgeld-Vergleichsfälle |
+| [`12_pflegegrad_und_versorgungsamt_helene.docx`](12_pflegegrad_und_versorgungsamt_helene.docx) | Pflegegrad 5, GdB 100, Merkzeichen, EUTB, Hilfsmittelversorgung, offene Verfahren |
+| [`13_off_label_long_covid_mutter.docx`](13_off_label_long_covid_mutter.docx) | Long Covid Lina Meinhardt, Maraviroc Off-Label-Antrag, MDK-Ablehnung, Widerspruch |
+| [`14_kassenarzt_schnittstelle_helene.docx`](14_kassenarzt_schnittstelle_helene.docx) | KV Niedersachsen, SPZ Hannover, Hippotherapie-Streit, Botulinumtoxin-Klage SG |
+| [`15_behandlungsvertrag_630a_analyse.docx`](15_behandlungsvertrag_630a_analyse.docx) | § 630a ff. BGB, Pflichten, Dokumentation, Beweislastregeln § 630h |
+| [`16_zeugenliste_und_aerzteanhoerung.docx`](16_zeugenliste_und_aerzteanhoerung.docx) | Zeugen, Sachverständige, Schichtdienstplan, offene Beweisfragen |
+| [`17_strafanzeige_und_einstellung.docx`](17_strafanzeige_und_einstellung.docx) | Strafanzeige § 229 StGB, Einstellung § 170 II StPO, Klageerzwingung verworfen |
+| [`18_streitwert_berechnung_und_pkh.docx`](18_streitwert_berechnung_und_pkh.docx) | Streitwert EUR 711.800, GKG-Gebühren, PKH-Berechnung, Kostenrisiko |
+| [`19_zeitstrahl_gesamtfall.docx`](19_zeitstrahl_gesamtfall.docx) | Gesamtzeitleiste 2024–2025 mit Kreuzbezügen zu Aktenstücken |
+| [`20_klageschrift_entwurf_lg_hildesheim.docx`](20_klageschrift_entwurf_lg_hildesheim.docx) | Vollständiger Klageentwurf LG Hildesheim: Anträge, Sachverhalt, Rechtslage, Beweise |
+| [`21_vergleichskorridor_und_verhandlungsstrategie.docx`](21_vergleichskorridor_und_verhandlungsstrategie.docx) | Best/Worst-Case, Mindestvergleich EUR 200.000, LG-Strategie, OLG-Risiko |
+| [`22_dokumentationsmaengel_pflicht_zur_volledition.docx`](22_dokumentationsmaengel_pflicht_zur_volledition.docx) | Neun Dokumentationsmängel tabellarisch, § 630h Abs. 3 BGB-Folgen, Volleditiionsantrag |
 
 ---
 

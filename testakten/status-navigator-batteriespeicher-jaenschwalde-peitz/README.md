@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 196 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 190 KB) | PDF | [`gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf`](gesamt-pdf/status-navigator-batteriespeicher-jaenschwalde-peitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-status-navigator-batteriespeicher-jaenschwalde-peitz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-status-navigator-batteriespeicher-jaenschwalde-peitz-einzelpdfs.zip) |
 

@@ -24,16 +24,16 @@ Enthalten sind ausformulierte Aktenstücke, der Kontenklärungsbescheid, überse
 
 ```
 rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
-├── 01_mandatsnotiz_fristsache.md              # Person, Zuzug 1992, Bescheidlage, Arbeitsauftrag
-├── 02_drv_bescheid_kontenklaerung_auszug.md   # Kontenklärungsbescheid mit FRG-Vormerkung und Mitwirkungsfrist
-├── 03_arbeitsbuch_uebersetzung_auszug.md      # Beglaubigt übersetzte Arbeitsbuchauszüge mit Auffälligkeiten
-├── 04_lebenslauf_berufsabstieg.md             # Herkunftsberuf, Deutschlandphase, Mandantenperspektive
+├── 01_mandatsnotiz_fristsache.docx              # Person, Zuzug 1992, Bescheidlage, Arbeitsauftrag
+├── 02_drv_bescheid_kontenklaerung_auszug.docx   # Kontenklärungsbescheid mit FRG-Vormerkung und Mitwirkungsfrist
+├── 03_arbeitsbuch_uebersetzung_auszug.docx      # Beglaubigt übersetzte Arbeitsbuchauszüge mit Auffälligkeiten
+├── 04_lebenslauf_berufsabstieg.docx             # Herkunftsberuf, Deutschlandphase, Mandantenperspektive
 ├── 05_archivanfrage_nowosibirsk_email.eml     # E-Mail der Tochter zu Archiv, Fotos und Namensschreibweise
 ├── 06_frg_zeitenmatrix.csv                    # Zeiträume, Belege, DRV-Bewertung und offene Aufgaben
-├── 07_widerspruch_entwurf.md                  # Ausformulierter Widerspruch mit Anlagen und Verfahrensbitte
-├── 08_anlagenverzeichnis_uebersetzung.md      # Übersetzungsmappe mit Qualitätsvermerk
-├── 09_klageraster_sozialgericht.md            # Beweisprogramm und Vergleichsoption für den Klagefall
-├── 10_archivbescheinigung_nowosibirsk_1994.md # Übersetzte Archivbescheinigung mit Fondswechsel-Hinweis
+├── 07_widerspruch_entwurf.docx                  # Ausformulierter Widerspruch mit Anlagen und Verfahrensbitte
+├── 08_anlagenverzeichnis_uebersetzung.docx      # Übersetzungsmappe mit Qualitätsvermerk
+├── 09_klageraster_sozialgericht.docx            # Beweisprogramm und Vergleichsoption für den Klagefall
+├── 10_archivbescheinigung_nowosibirsk_1994.docx # Übersetzte Archivbescheinigung mit Fondswechsel-Hinweis
 ├── README.md                                  # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                                # Prüfkriterien für die Bearbeitung

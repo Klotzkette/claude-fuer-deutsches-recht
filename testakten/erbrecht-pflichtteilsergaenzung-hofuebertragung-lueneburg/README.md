@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 39 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf`](gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg-einzelpdfs.zip) |
 
@@ -26,39 +26,39 @@ Nach dem Tod von Helmut Rieken streitet sein enterbter Sohn Moritz gegen seine S
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_enterbter_sohn.md` | Erstkontakt, Familienlage, Frist, Ziel |
-| `02_testament_und_nachlassverzeichnis.md` | Testament, Nachlassbestand, Auskunftslücken |
-| `03_uebertragungsvertrag_resthof.md` | Notarielle Urkunde der Hofübertragung als Abschrift: Wohnungsrecht, Rückforderung, Gleichstellung |
-| `04_immobilienwerte_und_depot.md` | Wertangaben, Gutachtenstreit, Depotbewegungen |
-| `05_auskunftsschreiben_an_erbin.md` | Anwaltliches Auskunfts- und Wertermittlungsverlangen mit Fristsetzung |
+| `01_mandatsnotiz_enterbter_sohn.docx` | Erstkontakt, Familienlage, Frist, Ziel |
+| `02_testament_und_nachlassverzeichnis.docx` | Testament, Nachlassbestand, Auskunftslücken |
+| `03_uebertragungsvertrag_resthof.docx` | Notarielle Urkunde der Hofübertragung als Abschrift: Wohnungsrecht, Rückforderung, Gleichstellung |
+| `04_immobilienwerte_und_depot.docx` | Wertangaben, Gutachtenstreit, Depotbewegungen |
+| `05_auskunftsschreiben_an_erbin.docx` | Anwaltliches Auskunfts- und Wertermittlungsverlangen mit Fristsetzung |
 | `06_berechnungspfad_pflichtteil.csv` | Nachlass, Ergänzungswerte, Abschmelzung, Quote |
-| `07_stufenklage_entwurf.md` | Entwurf der Stufenklage an das Landgericht Lüneburg |
-| `08_bank_depot_und_schenkungsverkehr.md` | Auskunft des NordBank-Nachlassservice: Kontobewegungen, Depotabflüsse, Vollmacht |
+| `07_stufenklage_entwurf.docx` | Entwurf der Stufenklage an das Landgericht Lüneburg |
+| `08_bank_depot_und_schenkungsverkehr.docx` | Auskunft des NordBank-Nachlassservice: Kontobewegungen, Depotabflüsse, Vollmacht |
 | `09_email_notariat_grundbuchauszug.eml` | Notariatsmail zu Hofübertragung, Wohnungsrecht und Grundbuchstand |
 | `10_ortstermin_hofinventar.txt` | Ortstermin mit Inventar, Tierbestand, Maschinen und Nutzungswerten |
-| `11_sterbeurkunde_abschrift.md` | Beglaubigte Abschrift der Sterbeurkunde des Standesamts Lüneburg |
-| `12_eroeffnungsniederschrift_nachlassgericht.md` | Übersendungsschreiben und Eröffnungsniederschrift des Nachlassgerichts (4 VI 218/26) |
-| `13_grundbuchauszug_kirchgellersen.md` | Abdruck des Grundbuchblatts 812 mit Wohnungsrecht und Rückauflassungsvormerkung |
-| `14_vermerk_zahlung_35000.md` | Handschriftlicher Vermerk des Erblassers zur Zahlung an Moritz nebst Kontobeleg |
+| `11_sterbeurkunde_abschrift.docx` | Beglaubigte Abschrift der Sterbeurkunde des Standesamts Lüneburg |
+| `12_eroeffnungsniederschrift_nachlassgericht.docx` | Übersendungsschreiben und Eröffnungsniederschrift des Nachlassgerichts (4 VI 218/26) |
+| `13_grundbuchauszug_kirchgellersen.docx` | Abdruck des Grundbuchblatts 812 mit Wohnungsrecht und Rückauflassungsvormerkung |
+| `14_vermerk_zahlung_35000.docx` | Handschriftlicher Vermerk des Erblassers zur Zahlung an Moritz nebst Kontobeleg |
 
 ## Aktenstruktur
 
 ```text
 erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg/
-├── 01_mandatsnotiz_enterbter_sohn.md          Erstgespräch: Familienlage, Anlass, Mandatsziel
-├── 02_testament_und_nachlassverzeichnis.md    Testament 2022 und lückenhafte Nachlassangaben der Erbin
-├── 03_uebertragungsvertrag_resthof.md         Notarielle Übergabeurkunde 811/2019 als Abschrift
-├── 04_immobilienwerte_und_depot.md            Maklereinschätzung, Baugrundstücke, Depotverdacht
-├── 05_auskunftsschreiben_an_erbin.md          Kanzleischreiben: Auskunft und Wertermittlung bis 25.07.2026
+├── 01_mandatsnotiz_enterbter_sohn.docx          Erstgespräch: Familienlage, Anlass, Mandatsziel
+├── 02_testament_und_nachlassverzeichnis.docx    Testament 2022 und lückenhafte Nachlassangaben der Erbin
+├── 03_uebertragungsvertrag_resthof.docx         Notarielle Übergabeurkunde 811/2019 als Abschrift
+├── 04_immobilienwerte_und_depot.docx            Maklereinschätzung, Baugrundstücke, Depotverdacht
+├── 05_auskunftsschreiben_an_erbin.docx          Kanzleischreiben: Auskunft und Wertermittlung bis 25.07.2026
 ├── 06_berechnungspfad_pflichtteil.csv         Wertstufen und Streitpunkte für die Pflichtteilsrechnung
-├── 07_stufenklage_entwurf.md                  Klageentwurf mit Auskunfts-, Versicherungs- und Zahlungsstufe
-├── 08_bank_depot_und_schenkungsverkehr.md     NordBank-Nachlassservice: Buchungen, Depot, Vollmacht
+├── 07_stufenklage_entwurf.docx                  Klageentwurf mit Auskunfts-, Versicherungs- und Zahlungsstufe
+├── 08_bank_depot_und_schenkungsverkehr.docx     NordBank-Nachlassservice: Buchungen, Depot, Vollmacht
 ├── 09_email_notariat_grundbuchauszug.eml      Notariat Dr. Wilkens zu Urkunde und Grundbuchstand
 ├── 10_ortstermin_hofinventar.txt              Protokoll des Ortstermins vom 25.06.2026
-├── 11_sterbeurkunde_abschrift.md              Sterbeurkunde S 412/2026 des Standesamts Lüneburg
-├── 12_eroeffnungsniederschrift_nachlassgericht.md  Testamentseröffnung beim AG Lüneburg
-├── 13_grundbuchauszug_kirchgellersen.md       Grundbuch Blatt 812: Eigentum, Abteilung II und III
-├── 14_vermerk_zahlung_35000.md                Vermerk „H. Rieken" vom 03.06.2019 und Überweisungsbeleg
+├── 11_sterbeurkunde_abschrift.docx              Sterbeurkunde S 412/2026 des Standesamts Lüneburg
+├── 12_eroeffnungsniederschrift_nachlassgericht.docx  Testamentseröffnung beim AG Lüneburg
+├── 13_grundbuchauszug_kirchgellersen.docx       Grundbuch Blatt 812: Eigentum, Abteilung II und III
+├── 14_vermerk_zahlung_35000.docx                Vermerk „H. Rieken" vom 03.06.2019 und Überweisungsbeleg
 ├── README.md                                  Diese Übersicht
 ├── rubric.yaml                                Prüfkriterien für die Bearbeitung
 └── gesamt-pdf/

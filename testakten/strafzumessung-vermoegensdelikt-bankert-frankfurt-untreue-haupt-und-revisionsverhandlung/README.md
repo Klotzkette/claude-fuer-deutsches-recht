@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 308 KB) | PDF | [`gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf`](gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 304 KB) | PDF | [`gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf`](gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung-einzelpdfs.zip) |
 
@@ -58,28 +58,28 @@ Arbeitsakte zum Plugin `strafzumessung`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [01-mandatsuebernahme-bankert-strafzumessung.md](01-mandatsuebernahme-bankert-strafzumessung.md) | Kanzleinotiz Erstgespräch, Vollmacht, Mandatsstrategie |
-| 02 | [02-fallgeschichte-untreue-9-mio-eur.md](02-fallgeschichte-untreue-9-mio-eur.md) | Tatgeschichte, Chronik 2020–2024, Beteiligte |
-| 03 | [03-anklageschrift-staatsanwaltschaft-frankfurt.md](03-anklageschrift-staatsanwaltschaft-frankfurt.md) | Anklageschrift StA Frankfurt, Tatvorwurf § 266 StGB |
-| 04 | [04-eroeffnungsbeschluss-lg-frankfurt.md](04-eroeffnungsbeschluss-lg-frankfurt.md) | Eröffnungsbeschluss 5. Große Strafkammer LG Frankfurt |
-| 05 | [05-strafmass-erwartung-staatsanwaltschaft.md](05-strafmass-erwartung-staatsanwaltschaft.md) | StA-Strafmaßvorstellung 6 J 6 M, Begründung |
-| 06 | [06-strafmass-strategie-verteidigung.md](06-strafmass-strategie-verteidigung.md) | Verteidigungsstrategie, 2 J 6 M Bewährungsantrag |
-| 07 | [07-strafzumessungskriterien-46-stgb-katalog.md](07-strafzumessungskriterien-46-stgb-katalog.md) | § 46 StGB Kriterienkatalog, Be- und Entlastung |
-| 08 | [08-tatumstaende-tat-konkrete.md](08-tatumstaende-tat-konkrete.md) | Konkrete Tatumstände, Tatausführung, Schadensverlauf |
-| 09 | [09-tatumstaende-vorsatz-und-motivation.md](09-tatumstaende-vorsatz-und-motivation.md) | Vorsatzform, Motivation, Verschulden |
-| 10 | [10-tat-und-taterpersoenlichkeit.md](10-tat-und-taterpersoenlichkeit.md) | Täterpersönlichkeit, Lebensführung, berufliche Karriere |
-| 11 | [11-lebenslauf-und-vorstrafenfreiheit.md](11-lebenslauf-und-vorstrafenfreiheit.md) | Lebenslauf Bankert, Vorstrafenfreiheit, soziale Einbettung |
-| 12 | [12-folgen-für-taeter-und-familie.md](12-folgen-fuer-taeter-und-familie.md) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
-| 13 | [13-schadenswiedergutmachung-46a-stgb.md](13-schadenswiedergutmachung-46a-stgb.md) | § 46a StGB, Rückzahlung 4,2 Mio. EUR, Familienopfer |
-| 14 | [14-tateinheitliche-und-tatmehrheitliche-bewertung.md](14-tateinheitliche-und-tatmehrheitliche-bewertung.md) | Konkurrenzen, §§ 52–54 StGB, Gesamtstrafenbildung |
-| 15 | [15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.md](15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.md) | BGHSt 1, 50; BGH 1 StR Untreue-Urteile |
-| 16 | [16-spielraum-theorie-bgh-st-7-28.md](16-spielraum-theorie-bgh-st-7-28.md) | BGHSt 7, 28; Spielraum-Theorie, Strafzumessungsrahmen |
-| 17 | [17-strafzumessungsvorschlag-verteidigung-2j6m-bewaehrung.md](17-strafzumessungsvorschlag-verteidigung-2j6m-bewaehrung.md) | Strafzumessungsvorschlag Verteidigung, 2 J 6 M, § 56 StGB |
-| 18 | [18-bewahrungsprognose-56-stgb.md](18-bewahrungsprognose-56-stgb.md) | Bewährungsprognose, § 56 StGB, Auflagen |
-| 19 | [19-plaedoyer-strafzumessungskern.md](19-plaedoyer-strafzumessungskern.md) | Schlussplädoyer Verteidigung, Strafzumessungskern |
-| 20 | [20-urteil-lg-frankfurt-strafmass-3j2m.md](20-urteil-lg-frankfurt-strafmass-3j2m.md) | Urteil LG Frankfurt, 3 J 2 M, keine Bewährung |
-| 21 | [21-revisionsbegruendung-bgh-strafzumessung.md](21-revisionsbegruendung-bgh-strafzumessung.md) | Revisionsbegründung BGH, § 337 StPO, Strafzumessungsfehler |
-| 22 | [22-abschlussvermerk-anwalt.md](22-abschlussvermerk-anwalt.md) | Abschlussvermerk Kanzlei, Mandatsende, Kostennotiz |
+| 01 | [01-mandatsuebernahme-bankert-strafzumessung.docx](01-mandatsuebernahme-bankert-strafzumessung.docx) | Kanzleinotiz Erstgespräch, Vollmacht, Mandatsstrategie |
+| 02 | [02-fallgeschichte-untreue-9-mio-eur.docx](02-fallgeschichte-untreue-9-mio-eur.docx) | Tatgeschichte, Chronik 2020–2024, Beteiligte |
+| 03 | [03-anklageschrift-staatsanwaltschaft-frankfurt.docx](03-anklageschrift-staatsanwaltschaft-frankfurt.docx) | Anklageschrift StA Frankfurt, Tatvorwurf § 266 StGB |
+| 04 | [04-eroeffnungsbeschluss-lg-frankfurt.docx](04-eroeffnungsbeschluss-lg-frankfurt.docx) | Eröffnungsbeschluss 5. Große Strafkammer LG Frankfurt |
+| 05 | [05-strafmass-erwartung-staatsanwaltschaft.docx](05-strafmass-erwartung-staatsanwaltschaft.docx) | StA-Strafmaßvorstellung 6 J 6 M, Begründung |
+| 06 | [06-strafmass-strategie-verteidigung.docx](06-strafmass-strategie-verteidigung.docx) | Verteidigungsstrategie, 2 J 6 M Bewährungsantrag |
+| 07 | [07-strafzumessungskriterien-46-stgb-katalog.docx](07-strafzumessungskriterien-46-stgb-katalog.docx) | § 46 StGB Kriterienkatalog, Be- und Entlastung |
+| 08 | [08-tatumstaende-tat-konkrete.docx](08-tatumstaende-tat-konkrete.docx) | Konkrete Tatumstände, Tatausführung, Schadensverlauf |
+| 09 | [09-tatumstaende-vorsatz-und-motivation.docx](09-tatumstaende-vorsatz-und-motivation.docx) | Vorsatzform, Motivation, Verschulden |
+| 10 | [10-tat-und-taterpersoenlichkeit.docx](10-tat-und-taterpersoenlichkeit.docx) | Täterpersönlichkeit, Lebensführung, berufliche Karriere |
+| 11 | [11-lebenslauf-und-vorstrafenfreiheit.docx](11-lebenslauf-und-vorstrafenfreiheit.docx) | Lebenslauf Bankert, Vorstrafenfreiheit, soziale Einbettung |
+| 12 | [12-folgen-für-taeter-und-familie.md](12-folgen-fuer-taeter-und-familie.docx) | Berufsfolgen, Ehekrise, kranke Ehefrau, Kinder |
+| 13 | [13-schadenswiedergutmachung-46a-stgb.docx](13-schadenswiedergutmachung-46a-stgb.docx) | § 46a StGB, Rückzahlung 4,2 Mio. EUR, Familienopfer |
+| 14 | [14-tateinheitliche-und-tatmehrheitliche-bewertung.docx](14-tateinheitliche-und-tatmehrheitliche-bewertung.docx) | Konkurrenzen, §§ 52–54 StGB, Gesamtstrafenbildung |
+| 15 | [15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.docx](15-strafzumessungs-vergleichsrechtsprechung-bgh-st-1-50.docx) | BGHSt 1, 50; BGH 1 StR Untreue-Urteile |
+| 16 | [16-spielraum-theorie-bgh-st-7-28.docx](16-spielraum-theorie-bgh-st-7-28.docx) | BGHSt 7, 28; Spielraum-Theorie, Strafzumessungsrahmen |
+| 17 | [17-strafzumessungsvorschlag-verteidigung-2j6m-bewaehrung.docx](17-strafzumessungsvorschlag-verteidigung-2j6m-bewaehrung.docx) | Strafzumessungsvorschlag Verteidigung, 2 J 6 M, § 56 StGB |
+| 18 | [18-bewahrungsprognose-56-stgb.docx](18-bewahrungsprognose-56-stgb.docx) | Bewährungsprognose, § 56 StGB, Auflagen |
+| 19 | [19-plaedoyer-strafzumessungskern.docx](19-plaedoyer-strafzumessungskern.docx) | Schlussplädoyer Verteidigung, Strafzumessungskern |
+| 20 | [20-urteil-lg-frankfurt-strafmass-3j2m.docx](20-urteil-lg-frankfurt-strafmass-3j2m.docx) | Urteil LG Frankfurt, 3 J 2 M, keine Bewährung |
+| 21 | [21-revisionsbegruendung-bgh-strafzumessung.docx](21-revisionsbegruendung-bgh-strafzumessung.docx) | Revisionsbegründung BGH, § 337 StPO, Strafzumessungsfehler |
+| 22 | [22-abschlussvermerk-anwalt.docx](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk Kanzlei, Mandatsende, Kostennotiz |
 
 ---
 

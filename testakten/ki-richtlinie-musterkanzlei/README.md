@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 127 KB) | PDF | [`gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf`](gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf`](gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-richtlinie-musterkanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-richtlinie-musterkanzlei-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei-einzelpdfs.zip) |
 

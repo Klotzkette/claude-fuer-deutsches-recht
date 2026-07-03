@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 871 KB) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 864 KB) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip) |
 
@@ -56,28 +56,28 @@ Die Bürgerinitiative „Lebenswerte Uckermark e.V." (247 Mitglieder, Sitz Templ
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01-mandatsuebernahme-vollmacht.md` | Mandatsübernahme, Vollmacht, Interessenkonfliktprüfung |
-| 02 | `02-akteneinsicht-antrag.md` | Antrag Akteneinsicht § 29 VwVfG beim LfU |
-| 03 | `03-klagebefugnis-analyse.md` | Rechtsmemo Klagebefugnis (§ 42 Abs. 2 VwGO, § 2 UmwRG, § 47 VwGO) |
-| 04 | `04-schallgutachten-kritik.md` | Technische Analyse Schallprognose (LAI 2022, Eingangsdaten, Kumulation) |
-| 05 | `05-artenschutz-rotmilan-rüge.md` | Artenschutzrechtliche Rüge Rotmilan-Horst (§ 44 BNatSchG) |
-| 06 | `06-normenkontrolle-regionalplan-vorbereitung.md` | Vorbereitung Normenkontrollantrag OVG (§ 47 VwGO, § 7 ROG) |
-| 07 | `07-klimaklage-verschraenkung.md` | BVerfG-Klimabeschluss, KSG BB, Abwägungsmethodik |
-| 08 | `08-eilantrag-80-abs5-vorbereitung.md` | Vorbereitung Eilantrag § 80 Abs. 5 VwGO |
-| 09 | `09-sofortvollzug-formruege.md` | Formrüge Sofortvollzugsbegründung § 80 Abs. 3 VwGO |
-| 10 | `10-repowering-konzept-rüge.md` | Rüge fehlendes Repowering-Konzept Altanlagen |
-| 11 | `11-gutachterbeauftragung-schall.md` | Gutachterbeauftragung Dipl.-Ing. Riedering (Gegengutachten Schall) |
-| 12 | `12-akteneinsicht-ergebnis.md` | Ergebnisprotokoll Akteneinsicht LfU vom 24.03.2026 |
-| 13 | `13-ifg-antrag-berechnungsgrundlagen.md` | IFG-Antrag Berechnungsgrundlagen Schallsoftware |
-| 14 | `14-nabu-abstimmung-protokoll.md` | Abstimmungsprotokoll mit NABU-Kreisgruppe Uckermark |
-| 15 | `15-drittanfechtung-umwelt-rechtslage.md` | Drittschutz § 5 BImSchG, Schutznormtheorie, Beiladung |
-| 16 | `16-streitwert-kostennotiz.md` | Streitwertberechnung und Kostenrisiko |
-| 17 | `17-salami-taktik-50hertz.md` | Verfahrensrüge Salami-Taktik / 50Hertz-Planfeststellung |
-| 18 | `18-klageerhebung-fristennotiz.md` | Fristen- und Terminkalender |
-| 19 | `19-gegengutachten-artenschutz-beauftragung.md` | Beauftragung Prof. Dr. Krüger (Artenschutz) |
-| 20 | `20-gericht-anfrage-akteneinsicht.md` | Anfrage VG Potsdam nach Klageerhebung |
-| 21 | `21-vorhabentraegerin-schreiben.md` | Außergerichtliches Verhandlungsangebot |
-| 22 | `22-verfahrenschronologie.md` | Verfahrenschronologie und Gesamtübersicht |
+| 01 | `01-mandatsuebernahme-vollmacht.docx` | Mandatsübernahme, Vollmacht, Interessenkonfliktprüfung |
+| 02 | `02-akteneinsicht-antrag.docx` | Antrag Akteneinsicht § 29 VwVfG beim LfU |
+| 03 | `03-klagebefugnis-analyse.docx` | Rechtsmemo Klagebefugnis (§ 42 Abs. 2 VwGO, § 2 UmwRG, § 47 VwGO) |
+| 04 | `04-schallgutachten-kritik.docx` | Technische Analyse Schallprognose (LAI 2022, Eingangsdaten, Kumulation) |
+| 05 | `05-artenschutz-rotmilan-rüge.docx` | Artenschutzrechtliche Rüge Rotmilan-Horst (§ 44 BNatSchG) |
+| 06 | `06-normenkontrolle-regionalplan-vorbereitung.docx` | Vorbereitung Normenkontrollantrag OVG (§ 47 VwGO, § 7 ROG) |
+| 07 | `07-klimaklage-verschraenkung.docx` | BVerfG-Klimabeschluss, KSG BB, Abwägungsmethodik |
+| 08 | `08-eilantrag-80-abs5-vorbereitung.docx` | Vorbereitung Eilantrag § 80 Abs. 5 VwGO |
+| 09 | `09-sofortvollzug-formruege.docx` | Formrüge Sofortvollzugsbegründung § 80 Abs. 3 VwGO |
+| 10 | `10-repowering-konzept-rüge.docx` | Rüge fehlendes Repowering-Konzept Altanlagen |
+| 11 | `11-gutachterbeauftragung-schall.docx` | Gutachterbeauftragung Dipl.-Ing. Riedering (Gegengutachten Schall) |
+| 12 | `12-akteneinsicht-ergebnis.docx` | Ergebnisprotokoll Akteneinsicht LfU vom 24.03.2026 |
+| 13 | `13-ifg-antrag-berechnungsgrundlagen.docx` | IFG-Antrag Berechnungsgrundlagen Schallsoftware |
+| 14 | `14-nabu-abstimmung-protokoll.docx` | Abstimmungsprotokoll mit NABU-Kreisgruppe Uckermark |
+| 15 | `15-drittanfechtung-umwelt-rechtslage.docx` | Drittschutz § 5 BImSchG, Schutznormtheorie, Beiladung |
+| 16 | `16-streitwert-kostennotiz.docx` | Streitwertberechnung und Kostenrisiko |
+| 17 | `17-salami-taktik-50hertz.docx` | Verfahrensrüge Salami-Taktik / 50Hertz-Planfeststellung |
+| 18 | `18-klageerhebung-fristennotiz.docx` | Fristen- und Terminkalender |
+| 19 | `19-gegengutachten-artenschutz-beauftragung.docx` | Beauftragung Prof. Dr. Krüger (Artenschutz) |
+| 20 | `20-gericht-anfrage-akteneinsicht.docx` | Anfrage VG Potsdam nach Klageerhebung |
+| 21 | `21-vorhabentraegerin-schreiben.docx` | Außergerichtliches Verhandlungsangebot |
+| 22 | `22-verfahrenschronologie.docx` | Verfahrenschronologie und Gesamtübersicht |
 
 ### Schriftsätze (DOCX)
 

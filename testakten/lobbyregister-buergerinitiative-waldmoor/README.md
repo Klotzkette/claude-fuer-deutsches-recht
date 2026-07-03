@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 100 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 96 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor-einzelpdfs.zip) |
 
@@ -36,34 +36,34 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | Datei | Inhalt |
 |---|---|
 | [00_aktenuebersicht.md](00_aktenuebersicht.md) | Arbeitsauftrag und Phasen |
-| [01_gruendungsnotiz.md](01_gruendungsnotiz.md) | Netzwerk ohne Rechtsform |
-| [02_petition_entwurf.md](02_petition_entwurf.md) | Petitionsphase |
+| [01_gruendungsnotiz.docx](01_gruendungsnotiz.docx) | Netzwerk ohne Rechtsform |
+| [02_petition_entwurf.docx](02_petition_entwurf.docx) | Petitionsphase |
 | [03_kontaktlog.csv](03_kontaktlog.csv) | Kontakte lokal und Bund |
-| [04_anhoerung_einladung.md](04_anhoerung_einladung.md) | Öffentliche Anhörung |
-| [05_gutachten_kurzfassung.md](05_gutachten_kurzfassung.md) | Grundlegendes Gutachten |
+| [04_anhoerung_einladung.docx](04_anhoerung_einladung.docx) | Öffentliche Anhörung |
+| [05_gutachten_kurzfassung.docx](05_gutachten_kurzfassung.docx) | Grundlegendes Gutachten |
 | [06_spendenliste.csv](06_spendenliste.csv) | Spenden und Finanzierungsquellen |
-| [07_freiwillige_registrierung_vermerk.md](07_freiwillige_registrierung_vermerk.md) | Strategie freiwillige Registrierung |
-| [08_kodex_leitfaden_ehrenamt.md](08_kodex_leitfaden_ehrenamt.md) | Kontaktleitfaden für Ehrenamtliche |
-| [09_finalcheck.md](09_finalcheck.md) | Qualitaetsgate |
+| [07_freiwillige_registrierung_vermerk.docx](07_freiwillige_registrierung_vermerk.docx) | Strategie freiwillige Registrierung |
+| [08_kodex_leitfaden_ehrenamt.docx](08_kodex_leitfaden_ehrenamt.docx) | Kontaktleitfaden für Ehrenamtliche |
+| [09_finalcheck.docx](09_finalcheck.docx) | Qualitaetsgate |
 | [10_whatsapp_export_kernteam.txt](10_whatsapp_export_kernteam.txt) | WhatsApp-Export mit echten Widersprüchen im Kernteam |
 | [11_email_mdb_buero_nachfrage.eml](11_email_mdb_buero_nachfrage.eml) | Rückfrage eines MdB-Büros zu Registerstatus und Finanzierung |
 | [12_gutachten_rechnung_planungsbuero.csv](12_gutachten_rechnung_planungsbuero.csv) | Rechnungsdaten für Gutachten und Kartenanhang |
-| [13_flyertext_alt_neu.md](13_flyertext_alt_neu.md) | Alter und korrigierter Flyertext |
-| [14_spendenkonflikt_windpark.md](14_spendenkonflikt_windpark.md) | Vermerk zur problematischen Windpark-Spende |
+| [13_flyertext_alt_neu.docx](13_flyertext_alt_neu.docx) | Alter und korrigierter Flyertext |
+| [14_spendenkonflikt_windpark.docx](14_spendenkonflikt_windpark.docx) | Vermerk zur problematischen Windpark-Spende |
 | [15_netzwerk_liste_rohdaten.csv](15_netzwerk_liste_rohdaten.csv) | Rohdaten zu Rollen im offenen Netzwerk |
 | [16_registerentwurf_freiwillig.json](16_registerentwurf_freiwillig.json) | Entwurf einer freiwilligen Registrierung |
-| [17_anhoerung_statement_entwurf.md](17_anhoerung_statement_entwurf.md) | Statement für die öffentliche Anhörung |
+| [17_anhoerung_statement_entwurf.docx](17_anhoerung_statement_entwurf.docx) | Statement für die öffentliche Anhörung |
 | [18_presseanfrage_lokalzeitung.txt](18_presseanfrage_lokalzeitung.txt) | Presseanfrage zur Finanzierung |
-| [19_antwortentwurf_presse.md](19_antwortentwurf_presse.md) | Antwortentwurf an die Lokalzeitung |
-| [20_finalcheck_redteam.md](20_finalcheck_redteam.md) | Red-Team-Notiz zur Kampagnenphase |
-| [21_api_monitoring_notiz_waldmoor.md](21_api_monitoring_notiz_waldmoor.md) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
+| [19_antwortentwurf_presse.docx](19_antwortentwurf_presse.docx) | Antwortentwurf an die Lokalzeitung |
+| [20_finalcheck_redteam.docx](20_finalcheck_redteam.docx) | Red-Team-Notiz zur Kampagnenphase |
+| [21_api_monitoring_notiz_waldmoor.docx](21_api_monitoring_notiz_waldmoor.docx) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
 | [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | API-Suche ohne Treffer vor Registrierung |
-| [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff für freiwillige Registrierung |
-| [24_mandantennotiz_erstberatung.md](24_mandantennotiz_erstberatung.md) | Mandantennotiz der Erstberatung mit Hinweisen, Honorarvereinbarung und Aufgabenverteilung |
-| [25_spendenkonflikt_protokoll_personenliste.md](25_spendenkonflikt_protokoll_personenliste.md) | Detailliertes Spendenkonflikt-Protokoll mit Personenliste, Zeitlauf und Plenum-vs-Kernteam-Frage |
-| [26_vorstandssitzung_mitschrift_24_05_2026.md](26_vorstandssitzung_mitschrift_24_05_2026.md) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschluesssen |
-| [27_schriftverkehr_bundestagsverwaltung.md](27_schriftverkehr_bundestagsverwaltung.md) | Anwaeltliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
-| [28_pressetext_eigenes_statement.md](28_pressetext_eigenes_statement.md) | Pressetext der Initiative zur Eintragung und Finanzierung |
+| [23_registerexport_diff_freiwillig.docx](23_registerexport_diff_freiwillig.docx) | Geplanter Registerexport-Diff für freiwillige Registrierung |
+| [24_mandantennotiz_erstberatung.docx](24_mandantennotiz_erstberatung.docx) | Mandantennotiz der Erstberatung mit Hinweisen, Honorarvereinbarung und Aufgabenverteilung |
+| [25_spendenkonflikt_protokoll_personenliste.docx](25_spendenkonflikt_protokoll_personenliste.docx) | Detailliertes Spendenkonflikt-Protokoll mit Personenliste, Zeitlauf und Plenum-vs-Kernteam-Frage |
+| [26_vorstandssitzung_mitschrift_24_05_2026.docx](26_vorstandssitzung_mitschrift_24_05_2026.docx) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschluesssen |
+| [27_schriftverkehr_bundestagsverwaltung.docx](27_schriftverkehr_bundestagsverwaltung.docx) | Anwaeltliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
+| [28_pressetext_eigenes_statement.docx](28_pressetext_eigenes_statement.docx) | Pressetext der Initiative zur Eintragung und Finanzierung |
 
 ## Prüffokus
 

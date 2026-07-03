@@ -22,14 +22,14 @@ StVO-Akte Schulstraße/Lieferzone: Verkehrszeichen, Anordnung, Ausnahmegenehmigu
 
 | Datei | Inhalt |
 |---|---|
-| `01-sachverhalt-und-akte.md` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
+| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
 | `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
 | `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
 | `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
 | `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
 | `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.md` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

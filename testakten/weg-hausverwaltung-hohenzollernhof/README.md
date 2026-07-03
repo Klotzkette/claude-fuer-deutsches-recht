@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 683 KB) | PDF | [`gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf`](gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 678 KB) | PDF | [`gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf`](gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-weg-hausverwaltung-hohenzollernhof-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof-einzelpdfs.zip) |
 
@@ -43,31 +43,31 @@ Diese Verwaltungsakte bildet den laufenden Zustand einer mittelgroßen WEG ab: t
 
 | Datei | Inhalt |
 | --- | --- |
-| `00-stammdaten.md` | Stammdaten WEG, Eigentümerliste, Verwalterin, Beirat |
-| `01-verwaltungsbeirat-notiz.md` | Beiratsnotiz mit Prioritäten und Stimmungslage |
-| `02-einladung-eigentuemerversammlung-entwurf.md` | Rohentwurf Einladung 17.06.2026 |
-| `03-handwerkerangebote-balkone-und-dach.md` | Drei Handwerkerangebote |
-| `04-jahresabrechnung-2025-rohpruefung.md` | Jahresabrechnung 2025 mit Rückfragen |
-| `05-eigentuemer-und-mieterbeschwerden.md` | Beschwerdemails, Hausordnungsstreit |
-| `06-beschlussliste-alt-und-neu.md` | Beschlusssammlung |
-| `07-teilungserklaerung-auszug.md` | Teilungserklärungsauszüge |
-| `08-verwaltervertrag-auszug.md` | Verwaltervertrag-Schlüsselklauseln |
-| `09-wirtschaftsplan-2026-entwurf.md` | Wirtschaftsplan 2026 + Sonderumlage |
-| `10-beschlussvorlagen-eigentuemerversammlung.md` | Beschlussvorlagen EV 17.06.2026 |
-| `11-co2kostaufg-aufteilungspruefung.md` | CO2KostAufG-Aufteilungsprüfung |
-| `12-anfechtungsrisiko-matrix.md` | Anfechtungs-Risiko pro TOP |
-| `13-hausgeldmahnung-pasternak-WE3.md` | Mahnschreiben + Mahnbescheid-Entwurf |
-| `14-fristen-kalender-2026.md` | Fristen-Kalender |
-| `15-anwaltsschreiben-eigentuemer-balkone-droht-klage.md` | Anwaltsschreiben Mautz |
-| `16-protokoll-eigentuemerversammlung-vergangene.md` | Protokoll EV 25.10.2024 |
-| `17-wallbox-antrag-yildiz-WE19.md` | Wallbox-Antrag mit technischer Beschreibung |
-| `18-heizung-wasserschaden-versicherung.md` | Heizungsstörung, Wasserschaden, Versicherung |
-| `19-whatsapp-hausverwaltung-beirat-thread.md` | WhatsApp-Auszug Verwaltung / Beirat |
-| `20-restaurant-geruch-laerm-hof.md` | Restaurant, Geruch, Müll, Hof, Lieferverkehr |
-| `21-fahrrad-tauben-kinder-weihnachtsbaum.md` | Fahrrad, Tauben, Kinder, Weihnachtsbaum |
-| `22-e-mobilitaet-pv-kellerstrom.md` | E-Mobilität, Dach-PV, Steckersolar, Kellerstrom |
-| `23-top-marathon-einladung-und-beschlussfassungen.md` | 18 Tagesordnungspunkte und Protokollhinweise |
-| `24-nebenkosten-ist-plan-vermieterpaket.md` | Ist-/Plan-Abrechnung und Mieterschnittstelle |
+| `00-stammdaten.docx` | Stammdaten WEG, Eigentümerliste, Verwalterin, Beirat |
+| `01-verwaltungsbeirat-notiz.docx` | Beiratsnotiz mit Prioritäten und Stimmungslage |
+| `02-einladung-eigentuemerversammlung-entwurf.docx` | Rohentwurf Einladung 17.06.2026 |
+| `03-handwerkerangebote-balkone-und-dach.docx` | Drei Handwerkerangebote |
+| `04-jahresabrechnung-2025-rohpruefung.docx` | Jahresabrechnung 2025 mit Rückfragen |
+| `05-eigentuemer-und-mieterbeschwerden.docx` | Beschwerdemails, Hausordnungsstreit |
+| `06-beschlussliste-alt-und-neu.docx` | Beschlusssammlung |
+| `07-teilungserklaerung-auszug.docx` | Teilungserklärungsauszüge |
+| `08-verwaltervertrag-auszug.docx` | Verwaltervertrag-Schlüsselklauseln |
+| `09-wirtschaftsplan-2026-entwurf.docx` | Wirtschaftsplan 2026 + Sonderumlage |
+| `10-beschlussvorlagen-eigentuemerversammlung.docx` | Beschlussvorlagen EV 17.06.2026 |
+| `11-co2kostaufg-aufteilungspruefung.docx` | CO2KostAufG-Aufteilungsprüfung |
+| `12-anfechtungsrisiko-matrix.docx` | Anfechtungs-Risiko pro TOP |
+| `13-hausgeldmahnung-pasternak-WE3.docx` | Mahnschreiben + Mahnbescheid-Entwurf |
+| `14-fristen-kalender-2026.docx` | Fristen-Kalender |
+| `15-anwaltsschreiben-eigentuemer-balkone-droht-klage.docx` | Anwaltsschreiben Mautz |
+| `16-protokoll-eigentuemerversammlung-vergangene.docx` | Protokoll EV 25.10.2024 |
+| `17-wallbox-antrag-yildiz-WE19.docx` | Wallbox-Antrag mit technischer Beschreibung |
+| `18-heizung-wasserschaden-versicherung.docx` | Heizungsstörung, Wasserschaden, Versicherung |
+| `19-whatsapp-hausverwaltung-beirat-thread.docx` | WhatsApp-Auszug Verwaltung / Beirat |
+| `20-restaurant-geruch-laerm-hof.docx` | Restaurant, Geruch, Müll, Hof, Lieferverkehr |
+| `21-fahrrad-tauben-kinder-weihnachtsbaum.docx` | Fahrrad, Tauben, Kinder, Weihnachtsbaum |
+| `22-e-mobilitaet-pv-kellerstrom.docx` | E-Mobilität, Dach-PV, Steckersolar, Kellerstrom |
+| `23-top-marathon-einladung-und-beschlussfassungen.docx` | 18 Tagesordnungspunkte und Protokollhinweise |
+| `24-nebenkosten-ist-plan-vermieterpaket.docx` | Ist-/Plan-Abrechnung und Mieterschnittstelle |
 | `eml/*.eml` | E-Mail-Fragmente Mietervertretung, Restaurant, Beirat |
 | `tabellen/*` | CSV und Excel zu Ist-/Plan-Kosten 2025/2026 |
 | `bilder/*.jpg` | Fotoablage mit Schaden-/Konfliktmotiven |

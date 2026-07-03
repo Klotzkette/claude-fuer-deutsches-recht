@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 690 KB) | PDF | [`gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf`](gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 684 KB) | PDF | [`gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf`](gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen-einzelpdfs.zip) |
 
@@ -73,28 +73,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 bu-deckungsklage-pflegekraft-vogelweide-aachen/
 ├── README.md                          ← diese Datei
 │
-├── 01-mandantenakte-stammdaten.md
-├── 02-medizinische-diagnosen-befundchronologie.md
-├── 03-bu-antrag-dbv-winterthur.md
-├── 04-ablehnungsschreiben-dbv-winterthur.md
-├── 05-deckungsanfrage-pruefen.md
-├── 06-ombudsmann-schlichtungsantrag-zusammenfassung.md
-├── 07-rechtliche-analyse-bu-klage.md
-├── 08-do-versicherung-sachverhalt.md
-├── 09-cyber-loesegeld-sanktionsrecht.md
-├── 10-lebensversicherung-rueckkauf-hdi.md
-├── 11-taetigkeitsanalyse-altenpflegerin.md
-├── 12-regress-abwehr-do.md
-├── 13-verfahrensstand-uebersicht.md
-├── 14-beweismittel-liste.md
-├── 15-fristen-und-kostenuebersicht.md
-├── 16-korrespondenz-arbeitgeber.md
-├── 17-rechtsprechungsrecherche.md
-├── 18-mandantenprotokoll.md
-├── 19-hdi-korrespondenz-rueckkauf.md
-├── 20-datenschutz-ransomware-meldung.md
-├── 21-sachverstaendigen-beauftragung.md
-├── 22-abschlussbericht-aktenstand.md
+├── 01-mandantenakte-stammdaten.docx
+├── 02-medizinische-diagnosen-befundchronologie.docx
+├── 03-bu-antrag-dbv-winterthur.docx
+├── 04-ablehnungsschreiben-dbv-winterthur.docx
+├── 05-deckungsanfrage-pruefen.docx
+├── 06-ombudsmann-schlichtungsantrag-zusammenfassung.docx
+├── 07-rechtliche-analyse-bu-klage.docx
+├── 08-do-versicherung-sachverhalt.docx
+├── 09-cyber-loesegeld-sanktionsrecht.docx
+├── 10-lebensversicherung-rueckkauf-hdi.docx
+├── 11-taetigkeitsanalyse-altenpflegerin.docx
+├── 12-regress-abwehr-do.docx
+├── 13-verfahrensstand-uebersicht.docx
+├── 14-beweismittel-liste.docx
+├── 15-fristen-und-kostenuebersicht.docx
+├── 16-korrespondenz-arbeitgeber.docx
+├── 17-rechtsprechungsrecherche.docx
+├── 18-mandantenprotokoll.docx
+├── 19-hdi-korrespondenz-rueckkauf.docx
+├── 20-datenschutz-ransomware-meldung.docx
+├── 21-sachverstaendigen-beauftragung.docx
+├── 22-abschlussbericht-aktenstand.docx
 │
 ├── docx/
 │   ├── 01-klageschrift-bu-rente.docx         ← Klageschrift LG Aachen 5 O 102/26

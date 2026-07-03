@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 160 KB) | PDF | [`gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf`](gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 148 KB) | PDF | [`gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf`](gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kanzlei-allgemein-alltag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag-einzelpdfs.zip) |
 
@@ -64,8 +64,8 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 
 | Datei | Inhalt |
 |-------|--------|
-| [00_simulation/integrationsstatus.md](00_simulation/integrationsstatus.md) | Übersicht aller Integrationen (Outlook, beA, Fristenkalender, Buchhaltung, ELSTER, Payroll) und deren Simulationsstatus |
-| [00_simulation/tagesplan_8h.md](00_simulation/tagesplan_8h.md) | Stundenplan für den simulierten 8-Stunden-Kanzleitag, Slot-Beschreibungen 09:00–18:30 Uhr |
+| [00_simulation/integrationsstatus.md](00_simulation/integrationsstatus.docx) | Übersicht aller Integrationen (Outlook, beA, Fristenkalender, Buchhaltung, ELSTER, Payroll) und deren Simulationsstatus |
+| [00_simulation/tagesplan_8h.md](00_simulation/tagesplan_8h.docx) | Stundenplan für den simulierten 8-Stunden-Kanzleitag, Slot-Beschreibungen 09:00–18:30 Uhr |
 
 ### 01 — Posteingang
 
@@ -73,64 +73,64 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 |-------|--------|
 | [01_posteingang/email_mandantin_meyer.txt](01_posteingang/email_mandantin_meyer.txt) | E-Mail von Clara Meyer mit Schilderung des Schlössertauschs |
 | [01_posteingang/fax_verfügung_amtsgericht.txt](01_posteingang/fax_verfuegung_amtsgericht.txt) | Fax-Verfügung des AG Mitte mit Fristsetzung 23.05.2026 |
-| [01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.md](01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.md) | Beschreibung eines abgeschnittenen WhatsApp-Screenshots (Anlage K5) |
+| [01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.md](01_posteingang/Chatverlauf_Meyer_Kranz_Beschreibung.docx) | Beschreibung eines abgeschnittenen WhatsApp-Screenshots (Anlage K5) |
 
 ### 02 — beA
 
 | Datei | Inhalt |
 |-------|--------|
-| [02_bea/beA_Nachrichtenjournal_Beschreibung.md](02_bea/beA_Nachrichtenjournal_Beschreibung.md) | Beschreibung des beA-Journal-Screenshots |
-| [02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.md) | Inhaltsvermerk für eingegangenes beA-ZIP-Archiv (Klageerwiderung) |
-| [02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.md) | Inhaltsvermerk für Versand-ZIP-Archiv (Schriftsatzantwort) |
+| [02_bea/beA_Nachrichtenjournal_Beschreibung.md](02_bea/beA_Nachrichtenjournal_Beschreibung.docx) | Beschreibung des beA-Journal-Screenshots |
+| [02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Eingang_AG_Mitte_12_C_88_26_Inhaltsvermerk.docx) | Inhaltsvermerk für eingegangenes beA-ZIP-Archiv (Klageerwiderung) |
+| [02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.md](02_bea/beA_Versand_AG_Mitte_12_C_88_26_Inhaltsvermerk.docx) | Inhaltsvermerk für Versand-ZIP-Archiv (Schriftsatzantwort) |
 
 ### 03 — Schreib-Canvas
 
 | Datei | Inhalt |
 |-------|--------|
-| [03_schreibcanvas/canvas_erwartete_karten.md](03_schreibcanvas/canvas_erwartete_karten.md) | Strukturiertes Arbeitsblatt mit Tatsachen-, Rechts-, Antrags- und Zeitkarten für den Schriftsatz Meyer ./. Kranz |
-| [03_schreibcanvas/rohentwurf_schriftsatzantwort.md](03_schreibcanvas/rohentwurf_schriftsatzantwort.md) | Ausgearbeiteter Rohentwurf der Schriftsatzantwort mit Rubrum, Sachverhalt, Rechtswürdigung, einstweiliger Verfügung und Anlagen |
+| [03_schreibcanvas/canvas_erwartete_karten.md](03_schreibcanvas/canvas_erwartete_karten.docx) | Strukturiertes Arbeitsblatt mit Tatsachen-, Rechts-, Antrags- und Zeitkarten für den Schriftsatz Meyer ./. Kranz |
+| [03_schreibcanvas/rohentwurf_schriftsatzantwort.md](03_schreibcanvas/rohentwurf_schriftsatzantwort.docx) | Ausgearbeiteter Rohentwurf der Schriftsatzantwort mit Rubrum, Sachverhalt, Rechtswürdigung, einstweiliger Verfügung und Anlagen |
 
 ### 04 — Zeiten
 
 | Datei | Inhalt |
 |-------|--------|
-| [04_zeiten/zeitnarrative_ledger.md](04_zeiten/zeitnarrative_ledger.md) | Zeiterfassungsjournal für den 20.05.2026 mit narrativen Tätigkeitsbeschreibungen |
+| [04_zeiten/zeitnarrative_ledger.md](04_zeiten/zeitnarrative_ledger.docx) | Zeiterfassungsjournal für den 20.05.2026 mit narrativen Tätigkeitsbeschreibungen |
 
 ### 05 — Rechnungen Ausgang
 
 | Datei | Inhalt |
 |-------|--------|
-| [05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.md](05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.md) | Rechnungsentwurf R-2026-0007 an Clara Meyer — 418,88 EUR brutto — mit vollständigem Briefkopf, Leistungspositionen und Prüfstatus |
-| [05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.md](05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.md) | GoBD-Protokoll R-2026-0007 mit Pflichtangaben-Prüfliste, Versionskontrolle, Archivierungspflichten und offenen Punkten |
-| [05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.md) | Validierungsnotiz für XRechnung-XML (noch nicht generiert) |
-| [05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.md) | Validierungsnotiz für ZUGFeRD PDF/A-3 (noch nicht generiert) |
+| [05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.md](05_rechnungen_ausgang/rechnung_R-2026-0007_entwurf.docx) | Rechnungsentwurf R-2026-0007 an Clara Meyer — 418,88 EUR brutto — mit vollständigem Briefkopf, Leistungspositionen und Prüfstatus |
+| [05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.md](05_rechnungen_ausgang/gobd_protokoll_R-2026-0007.docx) | GoBD-Protokoll R-2026-0007 mit Pflichtangaben-Prüfliste, Versionskontrolle, Archivierungspflichten und offenen Punkten |
+| [05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.docx) | Validierungsnotiz für XRechnung-XML (noch nicht generiert) |
+| [05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.md](05_rechnungen_ausgang/ZUGFeRD_R-2026-0007_Validierungsnotiz.docx) | Validierungsnotiz für ZUGFeRD PDF/A-3 (noch nicht generiert) |
 
 ### 06 — Eingangsrechnungen / UStVA
 
 | Datei | Inhalt |
 |-------|--------|
 | [06_eingangsrechnungen_ustva/eingangsrechnungen_register.csv](06_eingangsrechnungen_ustva/eingangsrechnungen_register.csv) | CSV-Register aller Eingangsrechnungen Mai 2026 |
-| [06_eingangsrechnungen_ustva/ustva_mai_2026_vorbereitung.md](06_eingangsrechnungen_ustva/ustva_mai_2026_vorbereitung.md) | UStVA-Vorbereitungsblatt Mai 2026 mit Kennzahlen-Übersicht |
-| [06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.md](06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.md) | Simulierter ELSTER-Eingabebogen Mai 2026 |
-| [06_eingangsrechnungen_ustva/elster_ausfall_szenario.md](06_eingangsrechnungen_ustva/elster_ausfall_szenario.md) | Protokoll ELSTER-Ausfall 19.05.2026 und Handlungsoptionen |
-| [06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.md](06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.md) | Vollständiges Steuerberater-Übergabepaket mit Ausgangsumsätzen, Eingangsumsätzen, §13b-Behandlung und fünf Rückfragen |
-| [06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.md](06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.md) | Validierungsnotiz für noch nicht validiertes UStVA-XML |
+| [06_eingangsrechnungen_ustva/ustva_mai_2026_vorbereitung.md](06_eingangsrechnungen_ustva/ustva_mai_2026_vorbereitung.docx) | UStVA-Vorbereitungsblatt Mai 2026 mit Kennzahlen-Übersicht |
+| [06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.md](06_eingangsrechnungen_ustva/ustva_elster_eingabebogen_mai_2026.docx) | Simulierter ELSTER-Eingabebogen Mai 2026 |
+| [06_eingangsrechnungen_ustva/elster_ausfall_szenario.md](06_eingangsrechnungen_ustva/elster_ausfall_szenario.docx) | Protokoll ELSTER-Ausfall 19.05.2026 und Handlungsoptionen |
+| [06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.md](06_eingangsrechnungen_ustva/ustva_steuerberater_paket_mai_2026.docx) | Vollständiges Steuerberater-Übergabepaket mit Ausgangsumsätzen, Eingangsumsätzen, §13b-Behandlung und fünf Rückfragen |
+| [06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.md](06_eingangsrechnungen_ustva/UStVA_XML_Validierungsnotiz.docx) | Validierungsnotiz für noch nicht validiertes UStVA-XML |
 
 ### 07 — Tagesabschluss
 
 | Datei | Inhalt |
 |-------|--------|
-| [07_tagesabschluss/offene_punkte.md](07_tagesabschluss/offene_punkte.md) | Tagesabschluss-Protokoll 20.05.2026 mit Ampeln, priorisierten offenen Punkten (Fristen, Rechnungen, HR, Buchhaltung, Integrationen) und Jour-fixe-Vorbereitung |
+| [07_tagesabschluss/offene_punkte.md](07_tagesabschluss/offene_punkte.docx) | Tagesabschluss-Protokoll 20.05.2026 mit Ampeln, priorisierten offenen Punkten (Fristen, Rechnungen, HR, Buchhaltung, Integrationen) und Jour-fixe-Vorbereitung |
 
 ### 08 — HR / Kalender
 
 | Datei | Inhalt |
 |-------|--------|
-| [08_hr_kalender/kanzleikalender_woche_21_2026.md](08_hr_kalender/kanzleikalender_woche_21_2026.md) | Wochenkalender KW 21 mit allen Terminen und Fristen |
-| [08_hr_kalender/jour_fixe_agenda.md](08_hr_kalender/jour_fixe_agenda.md) | Jour-fixe-Agenda 21.05.2026 mit 8 TOPs, Aktionsplänen, Beschlüssen und Protokoll |
-| [08_hr_kalender/krankmeldung_tom_berger.md](08_hr_kalender/krankmeldung_tom_berger.md) | HR-Aktenvermerk Krankmeldung Tom Berger — Datenschutz, Nachweisstatus, Vertretung, Payroll-Auswirkungen, U1-Verfahren |
-| [08_hr_kalender/urlaubsantrag_mara_klein.md](08_hr_kalender/urlaubsantrag_mara_klein.md) | Urlaubsantrag Mara Klein 27.–31.05.2026 — Resturlaubsberechnung, Konfliktprüfung, Vertretungsregelung, Genehmigung unter Vorbehalt |
-| [08_hr_kalender/lohnabrechnung_mai_2026_vorbereitung.md](08_hr_kalender/lohnabrechnung_mai_2026_vorbereitung.md) | Payroll-Vorbereitungsblatt Mai 2026 mit Stunden, Gratifikation und Übermittlungsfristen |
+| [08_hr_kalender/kanzleikalender_woche_21_2026.md](08_hr_kalender/kanzleikalender_woche_21_2026.docx) | Wochenkalender KW 21 mit allen Terminen und Fristen |
+| [08_hr_kalender/jour_fixe_agenda.md](08_hr_kalender/jour_fixe_agenda.docx) | Jour-fixe-Agenda 21.05.2026 mit 8 TOPs, Aktionsplänen, Beschlüssen und Protokoll |
+| [08_hr_kalender/krankmeldung_tom_berger.md](08_hr_kalender/krankmeldung_tom_berger.docx) | HR-Aktenvermerk Krankmeldung Tom Berger — Datenschutz, Nachweisstatus, Vertretung, Payroll-Auswirkungen, U1-Verfahren |
+| [08_hr_kalender/urlaubsantrag_mara_klein.md](08_hr_kalender/urlaubsantrag_mara_klein.docx) | Urlaubsantrag Mara Klein 27.–31.05.2026 — Resturlaubsberechnung, Konfliktprüfung, Vertretungsregelung, Genehmigung unter Vorbehalt |
+| [08_hr_kalender/lohnabrechnung_mai_2026_vorbereitung.md](08_hr_kalender/lohnabrechnung_mai_2026_vorbereitung.docx) | Payroll-Vorbereitungsblatt Mai 2026 mit Stunden, Gratifikation und Übermittlungsfristen |
 | [08_hr_kalender/personalstamm.csv](08_hr_kalender/personalstamm.csv) | Personalstammdaten aller Mitarbeiterinnen |
 
 ### 09 — Buchhaltung / Konto
@@ -139,53 +139,53 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 |-------|--------|
 | [09_buchhaltung_konto/geschaeftskonto_mai_2026.csv](09_buchhaltung_konto/geschaeftskonto_mai_2026.csv) | Simulierter Kontoauszug Geschäftskonto Mai 2026 |
 | [09_buchhaltung_konto/offene_posten_debitoren.csv](09_buchhaltung_konto/offene_posten_debitoren.csv) | Offene-Posten-Liste Debitoren |
-| [09_buchhaltung_konto/zahlungsmatching_erwartung.md](09_buchhaltung_konto/zahlungsmatching_erwartung.md) | Erwartetes Matching-Ergebnis zwischen Kontoauszug und offenen Posten |
-| [09_buchhaltung_konto/bankanbindung_simulation.md](09_buchhaltung_konto/bankanbindung_simulation.md) | Aktenvermerk Bankanbindungs-Simulation — Systemgrenzen, Workflow in 6 Schritten, Matching-Logik, Klärfall 228 EUR, Datenschutz |
-| [09_buchhaltung_konto/datev_uebergabe_simulation.md](09_buchhaltung_konto/datev_uebergabe_simulation.md) | DATEV-ähnliche Übergabe Mai 2026 — Ausgangsrechnungen, Eingangsrechnungen, Zahlungsabstimmung, §13b AI Vendor, fehlende Angaben, Monatsabschluss-Zusammenfassung |
+| [09_buchhaltung_konto/zahlungsmatching_erwartung.md](09_buchhaltung_konto/zahlungsmatching_erwartung.docx) | Erwartetes Matching-Ergebnis zwischen Kontoauszug und offenen Posten |
+| [09_buchhaltung_konto/bankanbindung_simulation.md](09_buchhaltung_konto/bankanbindung_simulation.docx) | Aktenvermerk Bankanbindungs-Simulation — Systemgrenzen, Workflow in 6 Schritten, Matching-Logik, Klärfall 228 EUR, Datenschutz |
+| [09_buchhaltung_konto/datev_uebergabe_simulation.md](09_buchhaltung_konto/datev_uebergabe_simulation.docx) | DATEV-ähnliche Übergabe Mai 2026 — Ausgangsrechnungen, Eingangsrechnungen, Zahlungsabstimmung, §13b AI Vendor, fehlende Angaben, Monatsabschluss-Zusammenfassung |
 
 ### 10 — Output Turbo
 
 | Datei | Inhalt |
 |-------|--------|
-| [10_output_turbo/klage_replik_schnellstart.md](10_output_turbo/klage_replik_schnellstart.md) | Schnellstart-Vorlage Klage / Replik mit Rubrum, Antragsmuster und Strukturvorgaben |
-| [10_output_turbo/replik_pruefmatrix.md](10_output_turbo/replik_pruefmatrix.md) | Prüfmatrix für Repliken — Checkliste inhaltliche und formale Qualitätsanforderungen |
-| [10_output_turbo/anlagenverzeichnis_meyer.md](10_output_turbo/anlagenverzeichnis_meyer.md) | Anlagenverzeichnis für Sache Meyer ./. Kranz |
-| [10_output_turbo/qualitaetsgate_erwartung.md](10_output_turbo/qualitaetsgate_erwartung.md) | Erwartetes Qualitätsgate-Ergebnis für Schriftsatzentwurf |
-| [10_output_turbo/vertragsentwurf_saas_kanzlei.md](10_output_turbo/vertragsentwurf_saas_kanzlei.md) | Entwurf Kanzlei-SaaS-Vertrag mit Datenschutzklausel und KI-Nutzungsbedingungen |
-| [10_output_turbo/handelsregisterabruf_alpha_ug.md](10_output_turbo/handelsregisterabruf_alpha_ug.md) | Simulierter Handelsregisterabruf Alpha Grundstücks-UG |
+| [10_output_turbo/klage_replik_schnellstart.md](10_output_turbo/klage_replik_schnellstart.docx) | Schnellstart-Vorlage Klage / Replik mit Rubrum, Antragsmuster und Strukturvorgaben |
+| [10_output_turbo/replik_pruefmatrix.md](10_output_turbo/replik_pruefmatrix.docx) | Prüfmatrix für Repliken — Checkliste inhaltliche und formale Qualitätsanforderungen |
+| [10_output_turbo/anlagenverzeichnis_meyer.md](10_output_turbo/anlagenverzeichnis_meyer.docx) | Anlagenverzeichnis für Sache Meyer ./. Kranz |
+| [10_output_turbo/qualitaetsgate_erwartung.md](10_output_turbo/qualitaetsgate_erwartung.docx) | Erwartetes Qualitätsgate-Ergebnis für Schriftsatzentwurf |
+| [10_output_turbo/vertragsentwurf_saas_kanzlei.md](10_output_turbo/vertragsentwurf_saas_kanzlei.docx) | Entwurf Kanzlei-SaaS-Vertrag mit Datenschutzklausel und KI-Nutzungsbedingungen |
+| [10_output_turbo/handelsregisterabruf_alpha_ug.md](10_output_turbo/handelsregisterabruf_alpha_ug.docx) | Simulierter Handelsregisterabruf Alpha Grundstücks-UG |
 
 ### 11 — Rechtsprechung
 
 | Datei | Inhalt |
 |-------|--------|
-| [11_rechtsprechung/suchauftrag_meyer_alpha.md](11_rechtsprechung/suchauftrag_meyer_alpha.md) | Rechtsprechungs-Suchauftrag für Sache Meyer — §§ 858 ff. BGB, einstweilige Verfügung |
-| [11_rechtsprechung/fundstellenregister_erwartung.md](11_rechtsprechung/fundstellenregister_erwartung.md) | Erwartete Fundstellen und Zitiernachweise für Besitzschutzansprüche |
-| [11_rechtsprechung/ablageprotokoll_simulation.md](11_rechtsprechung/ablageprotokoll_simulation.md) | Protokoll der simulierten Rechtsprechungsablage |
+| [11_rechtsprechung/suchauftrag_meyer_alpha.md](11_rechtsprechung/suchauftrag_meyer_alpha.docx) | Rechtsprechungs-Suchauftrag für Sache Meyer — §§ 858 ff. BGB, einstweilige Verfügung |
+| [11_rechtsprechung/fundstellenregister_erwartung.md](11_rechtsprechung/fundstellenregister_erwartung.docx) | Erwartete Fundstellen und Zitiernachweise für Besitzschutzansprüche |
+| [11_rechtsprechung/ablageprotokoll_simulation.md](11_rechtsprechung/ablageprotokoll_simulation.docx) | Protokoll der simulierten Rechtsprechungsablage |
 
 ### 12 — Mandatsannahme / GwG
 
 | Datei | Inhalt |
 |-------|--------|
 | [12_mandatsannahme_gwg/erstkontakt_nordstern_lux.txt](12_mandatsannahme_gwg/erstkontakt_nordstern_lux.txt) | Erstkontakt-Nachricht Nordstern Lux S.à r.l. — Anteilskauf mit Immobilienbezug |
-| [12_mandatsannahme_gwg/gwg_fragebogen_rohdaten.md](12_mandatsannahme_gwg/gwg_fragebogen_rohdaten.md) | GwG-Fragebogen Rohdaten — wirtschaftlich Berechtigte, PEP-Prüfung, Mittelherkunft |
-| [12_mandatsannahme_gwg/mandatsannahme_erwartung.md](12_mandatsannahme_gwg/mandatsannahme_erwartung.md) | Erwartetes Mandatsannahme-Ergebnis mit GwG-Freigabe und Ampel |
+| [12_mandatsannahme_gwg/gwg_fragebogen_rohdaten.md](12_mandatsannahme_gwg/gwg_fragebogen_rohdaten.docx) | GwG-Fragebogen Rohdaten — wirtschaftlich Berechtigte, PEP-Prüfung, Mittelherkunft |
+| [12_mandatsannahme_gwg/mandatsannahme_erwartung.md](12_mandatsannahme_gwg/mandatsannahme_erwartung.docx) | Erwartetes Mandatsannahme-Ergebnis mit GwG-Freigabe und Ampel |
 | [12_mandatsannahme_gwg/mandatskontoblatt_erwartung.csv](12_mandatsannahme_gwg/mandatskontoblatt_erwartung.csv) | Mandatskontoblatt Nordstern Lux (Vergütungs- und Forderungsübersicht) |
-| [12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.md](12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.md) | Entwurf Mandatsvereinbarung mit KI- und Datenschutzklauseln |
-| [12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.md](12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.md) | Aktenvermerk Handelsregisterauszug Nordstern |
-| [12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.md](12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.md) | Aktenvermerk Ausweiskopie Mandant |
+| [12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.md](12_mandatsannahme_gwg/mandatsvereinbarung_ki_datenschutz_erwartung.docx) | Entwurf Mandatsvereinbarung mit KI- und Datenschutzklauseln |
+| [12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.md](12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.docx) | Aktenvermerk Handelsregisterauszug Nordstern |
+| [12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.md](12_mandatsannahme_gwg/Ausweiskopie_Falkenstein_Lux_Ablagevermerk.docx) | Aktenvermerk Ausweiskopie Mandant |
 
 ### 13 — Kommandocenter
 
 | Datei | Inhalt |
 |-------|--------|
-| [13_kommandocenter/kommandocenter_schnellstart.md](13_kommandocenter/kommandocenter_schnellstart.md) | Einführungsleitfaden Kommandocenter — Ampel-Bewertung, drei Rückfragen, Routing-Tabelle, Aktenzeichen-Schema, Integrationsübersicht |
-| [13_kommandocenter/offenliste_kanzlei_magic.md](13_kommandocenter/offenliste_kanzlei_magic.md) | Offenliste für nächste beste Aktionen (Magic-Modus) |
+| [13_kommandocenter/kommandocenter_schnellstart.md](13_kommandocenter/kommandocenter_schnellstart.docx) | Einführungsleitfaden Kommandocenter — Ampel-Bewertung, drei Rückfragen, Routing-Tabelle, Aktenzeichen-Schema, Integrationsübersicht |
+| [13_kommandocenter/offenliste_kanzlei_magic.md](13_kommandocenter/offenliste_kanzlei_magic.docx) | Offenliste für nächste beste Aktionen (Magic-Modus) |
 
 ### 14 — Design
 
 | Datei | Inhalt |
 |-------|--------|
-| [14_design/cowork_design_erwartung.md](14_design/cowork_design_erwartung.md) | Design-Erwartung für das Cowork-Dashboard (Nachtblau / Silber / Orange) |
+| [14_design/cowork_design_erwartung.md](14_design/cowork_design_erwartung.docx) | Design-Erwartung für das Cowork-Dashboard (Nachtblau / Silber / Orange) |
 
 ---
 

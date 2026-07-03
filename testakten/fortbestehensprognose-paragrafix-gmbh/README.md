@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 201 KB) | PDF | [`gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf`](gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 210 KB) | PDF | [`gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf`](gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fortbestehensprognose-paragrafix-gmbh-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh-einzelpdfs.zip) |
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 142 KB) | PDF | [`gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf`](gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 141 KB) | PDF | [`gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf`](gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen-einzelpdfs.zip) |
 
@@ -22,9 +22,9 @@ Hochschulrecht: Universität Campus Rheinbogen streitet über eine W3-Berufung, 
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.md` | Erste Lage, Ziel und offene Fragen |
-| `02-zeitstrahl-fristen-und-verfahrensstand.md` | Chronologie und Fristen |
-| `03-normenkette-livecheck.md` | Normenkette und Livecheck-Liste |
+| `01-mandatsnotiz-und-auftrag.docx` | Erste Lage, Ziel und offene Fragen |
+| `02-zeitstrahl-fristen-und-verfahrensstand.docx` | Chronologie und Fristen |
+| `03-normenkette-livecheck.docx` | Normenkette und Livecheck-Liste |
 | `04-berufungskommission-auswahlvermerk.docx` | Auswahlvermerk Berufungskommission |
 | `05-gremien-und-fristenmatrix.xlsx` | Gremien- und Fristenmatrix |
 | `06-senatsvorlage-grundordnung.pdf` | Senatsvorlage Grundordnungsänderung |
@@ -33,10 +33,10 @@ Hochschulrecht: Universität Campus Rheinbogen streitet über eine W3-Berufung, 
 | `09-drittmittelvertrag-auszug.pdf` | Drittmittelvertragsauszug |
 | `10-berufung-beteiligte.csv` | Beteiligte und mögliche Konflikte |
 | `11-rechtsvermerk-senat.docx` | Rechtsvermerk für den Senat |
-| `12-offene-punkte.md` | Offene Punkte und nächste Schritte |
+| `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
 | `13-anlagenindex.csv` | Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Arbeitsweise
 

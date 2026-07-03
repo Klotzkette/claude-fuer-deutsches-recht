@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf`](gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf`](gesamt-pdf/datenschutz-us-transfer-cloudsuite-rheinmain_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain-einzelpdfs.zip) |
 
@@ -36,16 +36,16 @@ Im Mai 2026 fragt die hessische Datenschutzaufsicht nach, auf welcher Grundlage 
 
 | Datei | Inhalt |
 |---|---|
-| `01_behoerdenanfrage_hbdi_2026-05-12.md` | Anfrage der hessischen Datenschutzaufsicht |
-| `02_anbieterprofil_cloudsuite_assist.md` | Anbieter-, Vertrags- und Datenflussprofil |
-| `03_dpf_pruefvermerk_listung_und_luecken.md` | Interner Vermerk zum behaupteten DPF-Listing |
-| `04_transferregister_vvt_auszug.md` | Auszug aus Transferregister und VVT |
-| `05_scc_modul_2_annex_i_bis_iii_arbeitsfassung.md` | Arbeitsfassung SCC-Modulwahl und Anlagen |
-| `06_tia_us_transfer_cloudsuite.md` | Transfer Impact Assessment |
-| `07_tom_verschluesselung_key_management.md` | TOMs und ergänzende Maßnahmen |
+| `01_behoerdenanfrage_hbdi_2026-05-12.docx` | Anfrage der hessischen Datenschutzaufsicht |
+| `02_anbieterprofil_cloudsuite_assist.docx` | Anbieter-, Vertrags- und Datenflussprofil |
+| `03_dpf_pruefvermerk_listung_und_luecken.docx` | Interner Vermerk zum behaupteten DPF-Listing |
+| `04_transferregister_vvt_auszug.docx` | Auszug aus Transferregister und VVT |
+| `05_scc_modul_2_annex_i_bis_iii_arbeitsfassung.docx` | Arbeitsfassung SCC-Modulwahl und Anlagen |
+| `06_tia_us_transfer_cloudsuite.docx` | Transfer Impact Assessment |
+| `07_tom_verschluesselung_key_management.docx` | TOMs und ergänzende Maßnahmen |
 | `08_subprocessor_map.csv` | Subprozessoren und Weiterübermittlungen |
-| `09_antwortentwurf_aufsichtsbehoerde.md` | Antwortentwurf an die Behörde |
-| `10_massnahmenplan_reviewkalender.md` | Maßnahmenplan und Wiedervorlage |
+| `09_antwortentwurf_aufsichtsbehoerde.docx` | Antwortentwurf an die Behörde |
+| `10_massnahmenplan_reviewkalender.docx` | Maßnahmenplan und Wiedervorlage |
 
 ## Vorführziele
 

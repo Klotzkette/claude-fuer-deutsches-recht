@@ -26,15 +26,15 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-lindenwerder.md` | Aktenstück |
-| `02-erbbaugrundbuch-arbeitsauszug.md` | Aktenstück |
-| `03-gemeinde-schreiben-heimfall.md` | Aktenstück |
+| `01-sachverhalt-lindenwerder.docx` | Aktenstück |
+| `02-erbbaugrundbuch-arbeitsauszug.docx` | Aktenstück |
+| `03-gemeinde-schreiben-heimfall.docx` | Aktenstück |
 | `04-bankmail-zustimmung-rang.eml` | E-Mail |
 | `05-erbbauzins-rueckstandslog.xlsx` | Excel-Arbeitsblatt |
 | `06-entwurf-zustimmungsantrag.docx` | Word-Entwurf |
 | `07-baustellenfoto-dach-pv.jpg` | Bildanlage |
 | `08-heimfall-und-vergleichsmatrix.pdf` | PDF-Anlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Gesamt-PDF
 

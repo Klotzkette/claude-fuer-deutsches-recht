@@ -36,7 +36,7 @@ Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 | --- | --- |
 | **Word (DOCX, Times New Roman, 12 pt)** | [asset-purchase-agreement-chaincortex-voracis.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
 | **PDF (Times Roman, A4)** | [asset-purchase-agreement-chaincortex-voracis.pdf](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [09_asset-purchase-agreement-text.md](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.md) |
+| Markdown-Volltext (zum Lesen auf GitHub) | [09_asset-purchase-agreement-text.md](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx) |
 | Gesamte Testakte als ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
 
 Das Template umfasst 11 Paragraphen: Präambel, Vertragsgegenstand mit Datenschutz- und Betriebsübergangsbausteinen, Kaufpreis, Vollzugsvoraussetzungen, Signaturklausel, Haftungsregeln, Compliance-Klausel und Schlussbestimmungen plus Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste, Arbeitnehmerübergang, Kundendaten und Kaufpreis erforderlich.

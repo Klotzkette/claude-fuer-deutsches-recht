@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 119 KB) | PDF | [`gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf`](gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 118 KB) | PDF | [`gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf`](gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenbankrecht-datenabruf-plattform-investitionsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-datenabruf-plattform-investitionsschutz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenbankrecht-datenabruf-plattform-investitionsschutz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-datenabruf-plattform-investitionsschutz-einzelpdfs.zip) |
 
@@ -27,14 +27,14 @@ Diese Akte gehört zu den Plugins `datenbankrecht`, `urheberrecht`, `softwarerec
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
 | `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
 | `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
 | `05-dashboard.csv` | strukturierte Prüfspur |
 | `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
 | `gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf` | Gesamt-PDF der Akte |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Sachstand
 

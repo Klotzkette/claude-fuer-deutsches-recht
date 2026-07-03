@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 189 KB) | PDF | [`gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf`](gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 187 KB) | PDF | [`gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf`](gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente-einzelpdfs.zip) |
 
@@ -26,21 +26,21 @@ Diese Akte gehört zum Plugin `roemisch-katholisches-kirchenrecht`. Sie enthält
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachstandsvermerk-pfarrbuero.md` | Interner Vermerk mit Personen, Rollen, offenen Punkten und Sofortrisiken |
+| `01-sachstandsvermerk-pfarrbuero.docx` | Interner Vermerk mit Personen, Rollen, offenen Punkten und Sofortrisiken |
 | `02-chronologie-und-fristen.csv` | Chronologie mit Rekurs-, Gesprächs- und Registerterminen |
-| `03-taufregisterauszug-und-randvermerke.md` | Registerauszug mit Randvermerken und Unsicherheiten |
-| `04-kirchenaustritt-staatlich-kirchenrechtlich.md` | Staatliche Austrittserklärung und kirchenrechtliche Folgen |
-| `05-eheakte-mischehe-nullitaetsfrage.md` | Ehevorbereitung, Mischehe, Formpflicht, mögliche Nichtigkeitsgründe |
-| `06-sakramentenzulassung-kommunion-beichte.md` | Kommunion, Beichte, Wiederannäherung und Gesprächsplan |
-| `07-katechese-gericht-hoelle-barmherzigkeit.md` | Gericht, Hölle, Umkehr und Barmherzigkeit |
-| `08-pfarrvermoegen-spende-orgelstiftung.md` | Zweckbindung einer Spende und Ordinariatsgenehmigung |
-| `09-ordinariat-schreiben-deutsch.md` | Deutsches Schreiben an das Ordinariat |
-| `10-curia-letter-english.md` | Englischer Vermerk |
-| `11-carta-pastoral-espanol.md` | Spanische pastorale Erklärung |
-| `12-lettera-ufficio-italiano.md` | Italienische Kurienkommunikation |
-| `13-nota-latina.md` | Lateinische Kurznotiz |
-| `14-nota-arabica.md` | Arabische Pastoralnotiz |
-| `15-nota-portuguesa.md` | Portugiesische Familienantwort |
+| `03-taufregisterauszug-und-randvermerke.docx` | Registerauszug mit Randvermerken und Unsicherheiten |
+| `04-kirchenaustritt-staatlich-kirchenrechtlich.docx` | Staatliche Austrittserklärung und kirchenrechtliche Folgen |
+| `05-eheakte-mischehe-nullitaetsfrage.docx` | Ehevorbereitung, Mischehe, Formpflicht, mögliche Nichtigkeitsgründe |
+| `06-sakramentenzulassung-kommunion-beichte.docx` | Kommunion, Beichte, Wiederannäherung und Gesprächsplan |
+| `07-katechese-gericht-hoelle-barmherzigkeit.docx` | Gericht, Hölle, Umkehr und Barmherzigkeit |
+| `08-pfarrvermoegen-spende-orgelstiftung.docx` | Zweckbindung einer Spende und Ordinariatsgenehmigung |
+| `09-ordinariat-schreiben-deutsch.docx` | Deutsches Schreiben an das Ordinariat |
+| `10-curia-letter-english.docx` | Englischer Vermerk |
+| `11-carta-pastoral-espanol.docx` | Spanische pastorale Erklärung |
+| `12-lettera-ufficio-italiano.docx` | Italienische Kurienkommunikation |
+| `13-nota-latina.docx` | Lateinische Kurznotiz |
+| `14-nota-arabica.docx` | Arabische Pastoralnotiz |
+| `15-nota-portuguesa.docx` | Portugiesische Familienantwort |
 | `16-pruefmatrix-cic-katechismus.xlsx` | Excel-Prüfmatrix |
 | `17-email-ordinariat-rueckfrage.eml` | E-Mail aus dem Ordinariat |
 | `18-pastoralbrief-entwurf.docx` | Word-Entwurf eines pastoralen Antwortbriefs |

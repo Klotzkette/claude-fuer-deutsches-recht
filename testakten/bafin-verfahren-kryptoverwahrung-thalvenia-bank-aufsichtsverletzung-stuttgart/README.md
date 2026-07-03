@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 539 KB) | PDF | [`gesamt-pdf/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart_gesamt.pdf`](gesamt-pdf/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 531 KB) | PDF | [`gesamt-pdf/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart_gesamt.pdf`](gesamt-pdf/bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bafin-verfahren-kryptoverwahrung-thalvenia-bank-aufsichtsverletzung-stuttgart-einzelpdfs.zip) |
 
@@ -57,28 +57,28 @@ Arbeitsakte zum Plugin `regulatorisches-recht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-thalvenia.md`](01-mandatsuebernahme-thalvenia.md) | Mandatsübernahme, Vollmacht, Interessenkonflikte, Retainer |
-| 02 | [`02-historische-kryptoverwahrungslizenz-2020.md`](02-historische-kryptoverwahrungslizenz-2020.md) | KWG-Zulassung 2020, Gesellschaftsstruktur, Geschäftsmodell |
-| 03 | [`03-mica-vermoegensanlagengesetz-uebergang.md`](03-mica-vermoegensanlagengesetz-uebergang.md) | MiCAR-Übergang Art. 143, Antrag CASP-Zulassung, Zeitplan |
-| 04 | [`04-bafin-pruefungsmitteilung-2026.md`](04-bafin-pruefungsmitteilung-2026.md) | Sonderprüfungsmitteilung BaFin 188-K-22-2026, Prüfungsumfang |
-| 05 | [`05-pruefungsschwerpunkte-aml-cybersecurity.md`](05-pruefungsschwerpunkte-aml-cybersecurity.md) | Prüfungsschwerpunkte AML und Cyber, Prüferkataloge |
-| 06 | [`06-cybervorfall-januar-2026-meldung-bait.md`](06-cybervorfall-januar-2026-meldung-bait.md) | Ransomware-Angriff 09.01.2026, Meldungsverzug, BAIT Tz. 55 |
-| 07 | [`07-aml-pflichten-gwg-katalog.md`](07-aml-pflichten-gwg-katalog.md) | GwG-Pflichtenkatalog §§ 4-12, 43 GwG, Befundübersicht |
-| 08 | [`08-kundenidentifikation-kyc-mangel.md`](08-kundenidentifikation-kyc-mangel.md) | KYC-Lücken 8 Hochrisiko-Kunden, Quellen-Analyse |
-| 09 | [`09-pep-screening-fehler.md`](09-pep-screening-fehler.md) | PEP-Screening-Fehler, § 10 GwG, 3 nicht erkannte PEPs |
-| 10 | [`10-suspicious-transaction-reports-fiu.md`](10-suspicious-transaction-reports-fiu.md) | STR-Meldepflicht § 43 GwG, FIU-Verfahren 2026-FIU-7711-TN |
-| 11 | [`11-mar-marktmissbrauch-vorwurf-token-tn.md`](11-mar-marktmissbrauch-vorwurf-token-tn.md) | MAR Art. 15, Eigenhandel Token TN, Kursmanipulationsverdacht |
-| 12 | [`12-bafin-anhoerung-juli-2026.md`](12-bafin-anhoerung-juli-2026.md) | Anhörungsschreiben BaFin 14.07.2026, Frist, Strategie |
-| 13 | [`13-stellungnahme-vorstand-thalvenia.md`](13-stellungnahme-vorstand-thalvenia.md) | Vorstandsstellungnahme zur Anhörung, Entlastungsargumente |
-| 14 | [`14-organisationspflichten-marisk-ba-2024.md`](14-organisationspflichten-marisk-ba-2024.md) | MaRisk BA 2024, AT 4.3, BTO 1.1, Risikotragfähigkeit |
-| 15 | [`15-zustaendigkeitsabgrenzung-bafin-fiu-bnetza.md`](15-zustaendigkeitsabgrenzung-bafin-fiu-bnetza.md) | Behördliche Zuständigkeiten, Parallelverfahren, Koordination |
-| 16 | [`16-individual-strafverfahren-vorstand.md`](16-individual-strafverfahren-vorstand.md) | § 261 StGB gegen CCO, § 54a KWG, Trennungsgebot |
-| 17 | [`17-sanktionsrahmen-bussgeld-untersagung.md`](17-sanktionsrahmen-bussgeld-untersagung.md) | § 56 GwG, § 60b GwG, § 6 KWG, Bußgeldrahmen, Untersagung |
-| 18 | [`18-strategie-vergleichsangebot-bafin.md`](18-strategie-vergleichsangebot-bafin.md) | Settlement-Strategie, Undertakings, Vergleichskorridor |
-| 19 | [`19-pressemitteilung-entwurf.md`](19-pressemitteilung-entwurf.md) | Entwurf Pressemitteilung, Reputationsmanagement, Timing |
-| 20 | [`20-aufsichtsratbericht.md`](20-aufsichtsratbericht.md) | Bericht an Aufsichtsrat, § 25d KWG, D&O-Risiko |
-| 21 | [`21-roadmap-remediation-100-tage.md`](21-roadmap-remediation-100-tage.md) | 100-Tage-Remediation-Plan, KPI-Matrix, Meilensteine |
-| 22 | [`22-abschlussvermerk-anwalt.md`](22-abschlussvermerk-anwalt.md) | Anwaltlicher Abschlussvermerk, offene Risiken, Empfehlungen |
+| 01 | [`01-mandatsuebernahme-thalvenia.docx`](01-mandatsuebernahme-thalvenia.docx) | Mandatsübernahme, Vollmacht, Interessenkonflikte, Retainer |
+| 02 | [`02-historische-kryptoverwahrungslizenz-2020.docx`](02-historische-kryptoverwahrungslizenz-2020.docx) | KWG-Zulassung 2020, Gesellschaftsstruktur, Geschäftsmodell |
+| 03 | [`03-mica-vermoegensanlagengesetz-uebergang.docx`](03-mica-vermoegensanlagengesetz-uebergang.docx) | MiCAR-Übergang Art. 143, Antrag CASP-Zulassung, Zeitplan |
+| 04 | [`04-bafin-pruefungsmitteilung-2026.docx`](04-bafin-pruefungsmitteilung-2026.docx) | Sonderprüfungsmitteilung BaFin 188-K-22-2026, Prüfungsumfang |
+| 05 | [`05-pruefungsschwerpunkte-aml-cybersecurity.docx`](05-pruefungsschwerpunkte-aml-cybersecurity.docx) | Prüfungsschwerpunkte AML und Cyber, Prüferkataloge |
+| 06 | [`06-cybervorfall-januar-2026-meldung-bait.docx`](06-cybervorfall-januar-2026-meldung-bait.docx) | Ransomware-Angriff 09.01.2026, Meldungsverzug, BAIT Tz. 55 |
+| 07 | [`07-aml-pflichten-gwg-katalog.docx`](07-aml-pflichten-gwg-katalog.docx) | GwG-Pflichtenkatalog §§ 4-12, 43 GwG, Befundübersicht |
+| 08 | [`08-kundenidentifikation-kyc-mangel.docx`](08-kundenidentifikation-kyc-mangel.docx) | KYC-Lücken 8 Hochrisiko-Kunden, Quellen-Analyse |
+| 09 | [`09-pep-screening-fehler.docx`](09-pep-screening-fehler.docx) | PEP-Screening-Fehler, § 10 GwG, 3 nicht erkannte PEPs |
+| 10 | [`10-suspicious-transaction-reports-fiu.docx`](10-suspicious-transaction-reports-fiu.docx) | STR-Meldepflicht § 43 GwG, FIU-Verfahren 2026-FIU-7711-TN |
+| 11 | [`11-mar-marktmissbrauch-vorwurf-token-tn.docx`](11-mar-marktmissbrauch-vorwurf-token-tn.docx) | MAR Art. 15, Eigenhandel Token TN, Kursmanipulationsverdacht |
+| 12 | [`12-bafin-anhoerung-juli-2026.docx`](12-bafin-anhoerung-juli-2026.docx) | Anhörungsschreiben BaFin 14.07.2026, Frist, Strategie |
+| 13 | [`13-stellungnahme-vorstand-thalvenia.docx`](13-stellungnahme-vorstand-thalvenia.docx) | Vorstandsstellungnahme zur Anhörung, Entlastungsargumente |
+| 14 | [`14-organisationspflichten-marisk-ba-2024.docx`](14-organisationspflichten-marisk-ba-2024.docx) | MaRisk BA 2024, AT 4.3, BTO 1.1, Risikotragfähigkeit |
+| 15 | [`15-zustaendigkeitsabgrenzung-bafin-fiu-bnetza.docx`](15-zustaendigkeitsabgrenzung-bafin-fiu-bnetza.docx) | Behördliche Zuständigkeiten, Parallelverfahren, Koordination |
+| 16 | [`16-individual-strafverfahren-vorstand.docx`](16-individual-strafverfahren-vorstand.docx) | § 261 StGB gegen CCO, § 54a KWG, Trennungsgebot |
+| 17 | [`17-sanktionsrahmen-bussgeld-untersagung.docx`](17-sanktionsrahmen-bussgeld-untersagung.docx) | § 56 GwG, § 60b GwG, § 6 KWG, Bußgeldrahmen, Untersagung |
+| 18 | [`18-strategie-vergleichsangebot-bafin.docx`](18-strategie-vergleichsangebot-bafin.docx) | Settlement-Strategie, Undertakings, Vergleichskorridor |
+| 19 | [`19-pressemitteilung-entwurf.docx`](19-pressemitteilung-entwurf.docx) | Entwurf Pressemitteilung, Reputationsmanagement, Timing |
+| 20 | [`20-aufsichtsratbericht.docx`](20-aufsichtsratbericht.docx) | Bericht an Aufsichtsrat, § 25d KWG, D&O-Risiko |
+| 21 | [`21-roadmap-remediation-100-tage.docx`](21-roadmap-remediation-100-tage.docx) | 100-Tage-Remediation-Plan, KPI-Matrix, Meilensteine |
+| 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Anwaltlicher Abschlussvermerk, offene Risiken, Empfehlungen |
 
 ---
 

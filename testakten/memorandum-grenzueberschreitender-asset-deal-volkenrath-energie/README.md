@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 688 KB) | PDF | [`gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf`](gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 685 KB) | PDF | [`gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf`](gesamt-pdf/memorandum-grenzueberschreitender-asset-deal-volkenrath-energie_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-memorandum-grenzueberschreitender-asset-deal-volkenrath-energie-einzelpdfs.zip) |
 
@@ -69,28 +69,28 @@ Diese Testakte dient der Demonstration und Qualitätsprüfung des Plugins `memor
 ```
 .
 ├── README.md
-├── 01-mandantenbriefing-volkenrath-vorstand.md
-├── 02-sachverhalt-asset-deal-grobskizze.md
-├── 03-rechtsfragenkatalog-vorstandsvorlage.md
-├── 04-memo-i-gesellschaftsrechtliche-zulaessigkeit.md
-├── 05-memo-ii-kartellrechtliche-anmeldung.md
-├── 06-memo-iii-aussenwirtschaftsrechtliche-pruefung.md
-├── 07-memo-iv-arbeitsrechtliche-folgen-613a.md
-├── 08-memo-v-umweltrechtliche-altlasten.md
-├── 09-memo-vi-immobilienrechtliche-uebertragung.md
-├── 10-memo-vii-steuerrechtliche-strukturierung.md
-├── 11-memo-viii-datenschutzrechtliche-uebermittlung-uk.md
-├── 12-memo-ix-energierechtliche-betriebsfortfuehrung.md
-├── 13-memo-x-finanzierungssaeule-debt-equity-bridge.md
-├── 14-zusammenfassende-handlungsempfehlung.md
-├── 15-risiko-matrix-deal-breaker.md
-├── 16-zeitplan-signing-closing.md
-├── 17-projektorganisation-deal-team.md
-├── 18-aufsichtsrat-vorlage-zustimmungspflicht.md
-├── 19-stellungnahme-mitbewerber-pre-empt.md
-├── 20-rechtsgutachten-quintessenz-ammoniak-pipeline.md
-├── 21-fragen-fuer-vendor-q-and-a.md
-├── 22-finales-memorandum-executive-summary.md
+├── 01-mandantenbriefing-volkenrath-vorstand.docx
+├── 02-sachverhalt-asset-deal-grobskizze.docx
+├── 03-rechtsfragenkatalog-vorstandsvorlage.docx
+├── 04-memo-i-gesellschaftsrechtliche-zulaessigkeit.docx
+├── 05-memo-ii-kartellrechtliche-anmeldung.docx
+├── 06-memo-iii-aussenwirtschaftsrechtliche-pruefung.docx
+├── 07-memo-iv-arbeitsrechtliche-folgen-613a.docx
+├── 08-memo-v-umweltrechtliche-altlasten.docx
+├── 09-memo-vi-immobilienrechtliche-uebertragung.docx
+├── 10-memo-vii-steuerrechtliche-strukturierung.docx
+├── 11-memo-viii-datenschutzrechtliche-uebermittlung-uk.docx
+├── 12-memo-ix-energierechtliche-betriebsfortfuehrung.docx
+├── 13-memo-x-finanzierungssaeule-debt-equity-bridge.docx
+├── 14-zusammenfassende-handlungsempfehlung.docx
+├── 15-risiko-matrix-deal-breaker.docx
+├── 16-zeitplan-signing-closing.docx
+├── 17-projektorganisation-deal-team.docx
+├── 18-aufsichtsrat-vorlage-zustimmungspflicht.docx
+├── 19-stellungnahme-mitbewerber-pre-empt.docx
+├── 20-rechtsgutachten-quintessenz-ammoniak-pipeline.docx
+├── 21-fragen-fuer-vendor-q-and-a.docx
+├── 22-finales-memorandum-executive-summary.docx
 ├── memorandum-master-volkenrath-asset-deal-v4-final.docx
 ├── vendor-q-and-a-protokoll.docx
 ├── aufsichtsrat-vorlage-volkenrath.docx

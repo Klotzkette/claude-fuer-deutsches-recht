@@ -6,26 +6,26 @@ Diese Akte umfasst 20 Aktenstücke zur Sanierungssteuerproblematik der Grossbach
 
 | Reihenfolge | Aktenstück | Zweck |
 |---|---|---|
-| 1 | 01_mandatsnotiz_steuerberater_engelmeier.md | Erstkontakt, Sachverhalt, steuerliche Problemlage |
-| 2 | 02_insolvenzantrag_schutzschirm_grossbach.md | Verfahrensgrundlage |
-| 3 | 03_insolvenzplan_eckpunkte_und_quotenverteilung.md | Plan-Eckpunkte (gestaltender Teil) |
-| 4 | 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.md | Quelle des Sanierungsertrags |
-| 5 | 05_sanierungsertragsberechnung_38_mio_eur.md | Rechnerische Herleitung 38 Mio EUR |
-| 6 | 06_verlustvortraege_kst_gewst_steuererklaerung_2025.md | Bestätigte Verlustvorträge |
-| 7 | 07_3a_iii_estg_verrechnungsmatrix.md | Hauptmatrix: 38 - 12 = 26 Mio EUR verbleiben |
-| 8 | 08_3a_iv_estg_antrag_finanzamt_erfurt.md | Antrag der Schuldnerin |
-| 9 | 09_7b_gewstg_parallelantrag_gewerbesteueramt_erfurt.md | Parallel GewSt |
-| 10 | 10_finanzamt_erfurt_zwischenstand_und_verbindliche_auskunft_89_ao.md | Antwort FA Erfurt |
-| 11 | 11_korrespondenz_engelmeier_zu_spaet_antrag_diskussion.md | Praxisproblem: Antrag erst nach Plan |
-| 12 | 12_fg_koeln_12k1413_25_anwendbarkeit_memo.md | Aktuelle Rechtsprechung |
-| 13 | 13_iv_haftung_60_inso_und_steuerberater_haftung.md | Haftungsrisiken IV und StB |
+| 1 | 01_mandatsnotiz_steuerberater_engelmeier.docx | Erstkontakt, Sachverhalt, steuerliche Problemlage |
+| 2 | 02_insolvenzantrag_schutzschirm_grossbach.docx | Verfahrensgrundlage |
+| 3 | 03_insolvenzplan_eckpunkte_und_quotenverteilung.docx | Plan-Eckpunkte (gestaltender Teil) |
+| 4 | 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.docx | Quelle des Sanierungsertrags |
+| 5 | 05_sanierungsertragsberechnung_38_mio_eur.docx | Rechnerische Herleitung 38 Mio EUR |
+| 6 | 06_verlustvortraege_kst_gewst_steuererklaerung_2025.docx | Bestätigte Verlustvorträge |
+| 7 | 07_3a_iii_estg_verrechnungsmatrix.docx | Hauptmatrix: 38 - 12 = 26 Mio EUR verbleiben |
+| 8 | 08_3a_iv_estg_antrag_finanzamt_erfurt.docx | Antrag der Schuldnerin |
+| 9 | 09_7b_gewstg_parallelantrag_gewerbesteueramt_erfurt.docx | Parallel GewSt |
+| 10 | 10_finanzamt_erfurt_zwischenstand_und_verbindliche_auskunft_89_ao.docx | Antwort FA Erfurt |
+| 11 | 11_korrespondenz_engelmeier_zu_spaet_antrag_diskussion.docx | Praxisproblem: Antrag erst nach Plan |
+| 12 | 12_fg_koeln_12k1413_25_anwendbarkeit_memo.docx | Aktuelle Rechtsprechung |
+| 13 | 13_iv_haftung_60_inso_und_steuerberater_haftung.docx | Haftungsrisiken IV und StB |
 | 14 | 14_quittungs_und_zahlungsmatrix_steuer_q1-q4_2026.csv | Liquiditätsspur Steuern |
 | 15 | 15_glaeubigerverzeichnis_und_quoten.csv | Plan-Quoten |
-| 16 | 16_strafrechtliche_risiken_steuerhinterziehung.md | § 370 AO am Rand |
-| 17 | 17_szenario_a_kein_steuerlicher_sanierungsgewinn_durch_3a_iii.md | Hypothese A (Verlustvortrag reicht) |
-| 18 | 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.md | Hypothese B (Antrag rechtzeitig) |
-| 19 | 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.md | Hypothese C (Antrag verspätet, FG-Koeln-Bezug) |
-| 20 | 20_mandantenbrief_grossbach-an-iv-final.md | Abschlussbrief an IV |
+| 16 | 16_strafrechtliche_risiken_steuerhinterziehung.docx | § 370 AO am Rand |
+| 17 | 17_szenario_a_kein_steuerlicher_sanierungsgewinn_durch_3a_iii.docx | Hypothese A (Verlustvortrag reicht) |
+| 18 | 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.docx | Hypothese B (Antrag rechtzeitig) |
+| 19 | 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.docx | Hypothese C (Antrag verspätet, FG-Koeln-Bezug) |
+| 20 | 20_mandantenbrief_grossbach-an-iv-final.docx | Abschlussbrief an IV |
 
 ## Konfliktthemen
 

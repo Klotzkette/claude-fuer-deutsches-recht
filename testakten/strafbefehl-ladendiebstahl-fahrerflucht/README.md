@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 100 KB) | PDF | [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip) |
 
@@ -103,26 +103,26 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 
 | Datei | Inhalt |
 |---|---|
-| [01_mandatsaufnahme_telefonnotiz.md](01_mandatsaufnahme_telefonnotiz.md) | Telefonnotiz Erstkontakt, Sachverhaltsaufnahme, Sofortmaßnahmen |
-| [02_strafbefehl_amtsgericht.md](02_strafbefehl_amtsgericht.md) | Vollständiger Strafbefehl: Rubrum, Tenor, Vorschriften, Rechtsbehelfsbelehrung |
+| [01_mandatsaufnahme_telefonnotiz.docx](01_mandatsaufnahme_telefonnotiz.docx) | Telefonnotiz Erstkontakt, Sachverhaltsaufnahme, Sofortmaßnahmen |
+| [02_strafbefehl_amtsgericht.docx](02_strafbefehl_amtsgericht.docx) | Vollständiger Strafbefehl: Rubrum, Tenor, Vorschriften, Rechtsbehelfsbelehrung |
 | [02_strafbefehl_amtsgericht.docx](02_strafbefehl_amtsgericht.docx) | DOCX-Version des Strafbefehls |
-| [03_zustellungsumschlag_fristscan.md](03_zustellungsumschlag_fristscan.md) | Zustellungsvermerk, Fristberechnung, Risikovermerk |
-| [04_polizeiliche_anhaerung_beschuldigter.md](04_polizeiliche_anhaerung_beschuldigter.md) | Vernehmungsprotokoll Beschuldigte: Belehrung, Schweigen, äußere Feststellungen |
-| [05_ermittlungsakte_inhaltsverzeichnis.md](05_ermittlungsakte_inhaltsverzeichnis.md) | Vollständiges Inhaltsverzeichnis der Ermittlungsakte (Bl. 1–50) |
-| [06_zeugenaussage_ladendetektiv.md](06_zeugenaussage_ladendetektiv.md) | Vernehmungsprotokoll Ladendetektiv Neumann; Verteidigungsnotiz |
-| [07_videovermerk_und_kassenbon.md](07_videovermerk_und_kassenbon.md) | Auswertungsvermerk Video; Kassenbon-Analyse |
-| [08_tagessaetze_einkommen.md](08_tagessaetze_einkommen.md) | Tagessatz-Berechnung, Einkommensanalyse, Anpassungsantrag |
-| [09_bzr_fahreignung_nebenfolgen.md](09_bzr_fahreignung_nebenfolgen.md) | BZR-Auszug, Fahreignung, MPU-Prüfung, berufliche Folgen |
-| [10_akteneinsichtsantrag.md](10_akteneinsichtsantrag.md) | Vollständiger Akteneinsichtsantrag § 147 StPO |
+| [03_zustellungsumschlag_fristscan.docx](03_zustellungsumschlag_fristscan.docx) | Zustellungsvermerk, Fristberechnung, Risikovermerk |
+| [04_polizeiliche_anhaerung_beschuldigter.docx](04_polizeiliche_anhaerung_beschuldigter.docx) | Vernehmungsprotokoll Beschuldigte: Belehrung, Schweigen, äußere Feststellungen |
+| [05_ermittlungsakte_inhaltsverzeichnis.docx](05_ermittlungsakte_inhaltsverzeichnis.docx) | Vollständiges Inhaltsverzeichnis der Ermittlungsakte (Bl. 1–50) |
+| [06_zeugenaussage_ladendetektiv.docx](06_zeugenaussage_ladendetektiv.docx) | Vernehmungsprotokoll Ladendetektiv Neumann; Verteidigungsnotiz |
+| [07_videovermerk_und_kassenbon.docx](07_videovermerk_und_kassenbon.docx) | Auswertungsvermerk Video; Kassenbon-Analyse |
+| [08_tagessaetze_einkommen.docx](08_tagessaetze_einkommen.docx) | Tagessatz-Berechnung, Einkommensanalyse, Anpassungsantrag |
+| [09_bzr_fahreignung_nebenfolgen.docx](09_bzr_fahreignung_nebenfolgen.docx) | BZR-Auszug, Fahreignung, MPU-Prüfung, berufliche Folgen |
+| [10_akteneinsichtsantrag.docx](10_akteneinsichtsantrag.docx) | Vollständiger Akteneinsichtsantrag § 147 StPO |
 | [10_akteneinsichtsantrag.docx](10_akteneinsichtsantrag.docx) | DOCX-Version Akteneinsichtsantrag |
-| [11_einspruch_entwurf_unbeschränkt.md](11_einspruch_entwurf_unbeschraenkt.md) | Unbeschränkter Einspruch mit vorläufiger Begründung |
+| [11_einspruch_entwurf_unbeschränkt.md](11_einspruch_entwurf_unbeschraenkt.docx) | Unbeschränkter Einspruch mit vorläufiger Begründung |
 | [11_einspruch_entwurf_unbeschränkt.docx](11_einspruch_entwurf_unbeschraenkt.docx) | DOCX-Version Einspruch unbeschränkt |
-| [12_einspruch_beschränkt_rechtsfolgen.md](12_einspruch_beschraenkt_rechtsfolgen.md) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
+| [12_einspruch_beschränkt_rechtsfolgen.md](12_einspruch_beschraenkt_rechtsfolgen.docx) | Beschränkter Einspruch (Rechtsfolgen), Anträge zur Strafzumessung |
 | [12_einspruch_beschränkt_rechtsfolgen.docx](12_einspruch_beschraenkt_rechtsfolgen.docx) | DOCX-Version Einspruch beschränkt |
-| [13_hauptverhandlung_plan.md](13_hauptverhandlung_plan.md) | Strukturierter Verhandlungsplan, Phaseneinteilung |
-| [14_zeugenbefragung_fragenkatalog.md](14_zeugenbefragung_fragenkatalog.md) | 43 Fragen für 3 Zeugen, taktisch geordnet |
-| [15_einstellungsstrategie_153_153a.md](15_einstellungsstrategie_153_153a.md) | Strategiepapier §§ 153, 153a StPO; Zeitplan; Mandantenbelehrung |
-| [16_wiedereinsetzung_notfall.md](16_wiedereinsetzung_notfall.md) | Notfall-Wiedereinsetzungsantrag §§ 44, 45 StPO (3 Varianten) |
+| [13_hauptverhandlung_plan.docx](13_hauptverhandlung_plan.docx) | Strukturierter Verhandlungsplan, Phaseneinteilung |
+| [14_zeugenbefragung_fragenkatalog.docx](14_zeugenbefragung_fragenkatalog.docx) | 43 Fragen für 3 Zeugen, taktisch geordnet |
+| [15_einstellungsstrategie_153_153a.docx](15_einstellungsstrategie_153_153a.docx) | Strategiepapier §§ 153, 153a StPO; Zeitplan; Mandantenbelehrung |
+| [16_wiedereinsetzung_notfall.docx](16_wiedereinsetzung_notfall.docx) | Notfall-Wiedereinsetzungsantrag §§ 44, 45 StPO (3 Varianten) |
 | [README.md](README.md) | Diese Übersichtsdatei |
 
 ---

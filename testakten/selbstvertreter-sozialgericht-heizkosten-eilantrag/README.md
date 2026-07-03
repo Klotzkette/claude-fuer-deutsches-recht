@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 70 KB) | PDF | [`gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf`](gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf`](gesamt-pdf/selbstvertreter-sozialgericht-heizkosten-eilantrag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag-einzelpdfs.zip) |
 
@@ -56,14 +56,14 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_bescheid_jobcenter_auszug.md` | vollständiger Bürgergeldbescheid mit Berechnungsblatt, KdUH-Tabelle, Heizkostenangemessenheits-Rechnung und Rechtsbehelfsbelehrung |
-| `02_widerspruch_und_widerspruchsbescheid.md` | Widerspruch per Fax mit Sendebericht, zwei Telefonate Jobcenter, Widerspruchsbescheid und Zustellnotiz, Antwortbrief-Entwurf an Hausverwaltung |
-| `03_miete_heizung_und_konto.md` | Mietvertrag-Auszug, vollständige Heizkostenabrechnung mit Verteilerschlüssel, beide Mahnungen, Kontoauszug, Belege zur Wohnung |
-| `04_eilantrag_sozialgericht_roh.md` | roher Eilantrag mit typischen Selbstvertreter-Schwächen und langem Fragenkatalog |
+| `01_bescheid_jobcenter_auszug.docx` | vollständiger Bürgergeldbescheid mit Berechnungsblatt, KdUH-Tabelle, Heizkostenangemessenheits-Rechnung und Rechtsbehelfsbelehrung |
+| `02_widerspruch_und_widerspruchsbescheid.docx` | Widerspruch per Fax mit Sendebericht, zwei Telefonate Jobcenter, Widerspruchsbescheid und Zustellnotiz, Antwortbrief-Entwurf an Hausverwaltung |
+| `03_miete_heizung_und_konto.docx` | Mietvertrag-Auszug, vollständige Heizkostenabrechnung mit Verteilerschlüssel, beide Mahnungen, Kontoauszug, Belege zur Wohnung |
+| `04_eilantrag_sozialgericht_roh.docx` | roher Eilantrag mit typischen Selbstvertreter-Schwächen und langem Fragenkatalog |
 | `05_fristscan_und_belege.csv` | erweiterte Beleg- und Fristenübersicht mit 25 Einträgen |
-| `06_attest_und_schulbescheinigung.md` | Attest Kinderärztin, Folgeattest mit Mindesttemperaturangabe, Schulbescheinigung Jonas |
-| `07_telefonnotizen_jobcenter.md` | vier Telefonate (Jobcenter, Hausverwaltung, Stadtwerke), Entwurf § 42 SGB I-Vorschussantrag |
-| `08_kdu_konzept_und_internetrecherche.md` | KdU-Konzept-Auszug der Stadt Leipzig mit Tabellen, zehn widersprüchliche Internet-Treffer |
+| `06_attest_und_schulbescheinigung.docx` | Attest Kinderärztin, Folgeattest mit Mindesttemperaturangabe, Schulbescheinigung Jonas |
+| `07_telefonnotizen_jobcenter.docx` | vier Telefonate (Jobcenter, Hausverwaltung, Stadtwerke), Entwurf § 42 SGB I-Vorschussantrag |
+| `08_kdu_konzept_und_internetrecherche.docx` | KdU-Konzept-Auszug der Stadt Leipzig mit Tabellen, zehn widersprüchliche Internet-Treffer |
 
 ## Empfohlener Pluginlauf
 

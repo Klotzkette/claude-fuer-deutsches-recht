@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 82 KB) | PDF | [`gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf`](gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 61 KB) | PDF | [`gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf`](gesamt-pdf/umweltrecht-industrieanlage-genehmigung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-umweltrecht-industrieanlage-genehmigung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung-einzelpdfs.zip) |
 
@@ -88,17 +88,17 @@ Schließlich prüft ein Investor die Übernahme von Gesellschaftsanteilen an der
 | Ordner / Datei | Inhalt |
 |---|---|
 | [01_intake/email_anlagenbetreiber.txt](01_intake/email_anlagenbetreiber.txt) | Erstes E-Mail-Briefing der Betreiberin an die Kanzlei; Auflistung aller Themen |
-| [02_bimschg/aenderungsanzeige_roh.md](02_bimschg/aenderungsanzeige_roh.md) | Vollständige Änderungsanzeige nach § 15 BImSchG mit Briefkopf, Anlagenbeschreibung, Emissionsprognose, Abgrenzung § 16 BImSchG, Nachbarschaftsstellungnahme |
+| [02_bimschg/aenderungsanzeige_roh.md](02_bimschg/aenderungsanzeige_roh.docx) | Vollständige Änderungsanzeige nach § 15 BImSchG mit Briefkopf, Anlagenbeschreibung, Emissionsprognose, Abgrenzung § 16 BImSchG, Nachbarschaftsstellungnahme |
 | [02_bimschg/aenderungsanzeige_roh.docx](02_bimschg/aenderungsanzeige_roh.docx) | DOCX-Fassung der Änderungsanzeige (Word-Dokument) |
-| [03_tehg/zuteilung_dehst_notiz.md](03_tehg/zuteilung_dehst_notiz.md) | Interner Aktenvermerk zur TEHG-Kapazitätsänderungsprüfung + förmliches DEHSt-Schreiben zur Monitoring-Plan-Revision 4 |
+| [03_tehg/zuteilung_dehst_notiz.md](03_tehg/zuteilung_dehst_notiz.docx) | Interner Aktenvermerk zur TEHG-Kapazitätsänderungsprüfung + förmliches DEHSt-Schreiben zur Monitoring-Plan-Revision 4 |
 | [03_tehg/zuteilung_dehst_notiz.docx](03_tehg/zuteilung_dehst_notiz.docx) | DOCX-Fassung des DEHSt-Schreibens |
 | [04_abfall/stoffstromliste.csv](04_abfall/stoffstromliste.csv) | Abfallstrom-Bilanz aller Fraktionen (EAK-Schlüssel, Menge, Einstufung, Entsorger, eANV-Status) |
-| [05_wasser_boden/einleitung_altlast.md](05_wasser_boden/einleitung_altlast.md) | Fachlicher Vermerk zur WHG-Einleitungserlaubnis (Kapazitätsänderung) und Anzeige des Altlastenverdachts Südhalle S-02 nach § 9 BBodSchG |
-| [06_naturschutz/artenschutz_hinweis.md](06_naturschutz/artenschutz_hinweis.md) | Artenschutzrechtliche Vorprüfung (Stufe I) nach § 44 BNatSchG: Fledermäuse, Vogelarten, Zauneidechse, FFH-Bezug |
+| [05_wasser_boden/einleitung_altlast.md](05_wasser_boden/einleitung_altlast.docx) | Fachlicher Vermerk zur WHG-Einleitungserlaubnis (Kapazitätsänderung) und Anzeige des Altlastenverdachts Südhalle S-02 nach § 9 BBodSchG |
+| [06_naturschutz/artenschutz_hinweis.md](06_naturschutz/artenschutz_hinweis.docx) | Artenschutzrechtliche Vorprüfung (Stufe I) nach § 44 BNatSchG: Fledermäuse, Vogelarten, Zauneidechse, FFH-Bezug |
 | [07_uig_ifg/uig_antrag_umweltverband.txt](07_uig_ifg/uig_antrag_umweltverband.txt) | UIG-Antrag des Rheinischen Umweltschutzvereins auf Zugang zu Genehmigungsunterlagen, Emissionsdaten, Geruchsgutachten und Altlastdokumenten |
-| [08_bussgeld/anhoerung_verspätete_meldung.md](08_bussgeld/anhoerung_verspaetete_meldung.md) | Anhörungsschreiben der Bezirksregierung (OWi § 62 BImSchG) + Verteidigungsschreiben der Kanzlei Rosengart & Partner |
+| [08_bussgeld/anhoerung_verspätete_meldung.md](08_bussgeld/anhoerung_verspaetete_meldung.docx) | Anhörungsschreiben der Bezirksregierung (OWi § 62 BImSchG) + Verteidigungsschreiben der Kanzlei Rosengart & Partner |
 | [08_bussgeld/anhoerung_verspätete_meldung.docx](08_bussgeld/anhoerung_verspaetete_meldung.docx) | DOCX-Fassung Anhörung und Verteidigungsentwurf |
-| [09_transaktion/umwelt_dd_roh.md](09_transaktion/umwelt_dd_roh.md) | Umwelt-Due-Diligence-Fragenliste (7 Abschnitte, inkl. Antworten) + Red-Flag-Memo mit Risikomatrix für Anteilskäufer |
+| [09_transaktion/umwelt_dd_roh.md](09_transaktion/umwelt_dd_roh.docx) | Umwelt-Due-Diligence-Fragenliste (7 Abschnitte, inkl. Antworten) + Red-Flag-Memo mit Risikomatrix für Anteilskäufer |
 
 ---
 

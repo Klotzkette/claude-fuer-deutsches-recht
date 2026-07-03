@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf`](gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf`](gesamt-pdf/rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen-einzelpdfs.zip) |
 
@@ -30,15 +30,15 @@ Die Akte verlangt die saubere Trennung von Sterbevierteljahr und Einkommensanrec
 ```
 rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
 ├── README.md                                  ← diese Datei
-├── 01_mandatsaufnahme.md                      ← Kanzleivermerk: Beteiligte, Fristen, Arbeitsauftrag
-├── 02_drv_bescheid_witwenrente.md             ← Bewilligungsbescheid mit Sterbevierteljahr, Anrechnung, Rechtsbehelfsbelehrung
-├── 03_unterstuetzungskasse_leistungsmitteilung.md ← Zahlstelle erklärt Beitragsabzug ab Juni 2026
-├── 04_krankenkasse_beitragsmitteilung.md      ← KVdR-Einordnung, Beitragssätze, angekündigte Nachberechnung
-├── 05_pflegekasse_bescheinigung.md            ← Pflegegrad, gemeldete Pflegeperson, lückenhafte Beitragszeiträume
-├── 06_pflegedienst_leistungsnachweis.md       ← Dokumentationsauszug zum Pflegeumfang der Ehefrau
-├── 07_versicherungsverlauf_auszug_mandantin.md ← Kontoauszug DRV mit Pflegebeiträgen und Speicherlücke
-├── 08_widerspruch_kanzlei.md                  ← fristwahrender Widerspruch mit Auskunftsanträgen
-├── 09_drv_eingangsbestaetigung.md             ← Eingangsbestätigung, Begründungsfrist, Fachreferats-Abgabe
+├── 01_mandatsaufnahme.docx                      ← Kanzleivermerk: Beteiligte, Fristen, Arbeitsauftrag
+├── 02_drv_bescheid_witwenrente.docx             ← Bewilligungsbescheid mit Sterbevierteljahr, Anrechnung, Rechtsbehelfsbelehrung
+├── 03_unterstuetzungskasse_leistungsmitteilung.docx ← Zahlstelle erklärt Beitragsabzug ab Juni 2026
+├── 04_krankenkasse_beitragsmitteilung.docx      ← KVdR-Einordnung, Beitragssätze, angekündigte Nachberechnung
+├── 05_pflegekasse_bescheinigung.docx            ← Pflegegrad, gemeldete Pflegeperson, lückenhafte Beitragszeiträume
+├── 06_pflegedienst_leistungsnachweis.docx       ← Dokumentationsauszug zum Pflegeumfang der Ehefrau
+├── 07_versicherungsverlauf_auszug_mandantin.docx ← Kontoauszug DRV mit Pflegebeiträgen und Speicherlücke
+├── 08_widerspruch_kanzlei.docx                  ← fristwahrender Widerspruch mit Auskunftsanträgen
+├── 09_drv_eingangsbestaetigung.docx             ← Eingangsbestätigung, Begründungsfrist, Fachreferats-Abgabe
 ├── 10_kontoauszug_zahlungseingaenge.txt       ← Zahlungseingänge Juni 2026 mit Notiz der Mandantin
 └── 11_email_nachfragen_tochter.eml            ← Fragen der Tochter, Zeugin für den Erhebungsbogen 2023
 ```

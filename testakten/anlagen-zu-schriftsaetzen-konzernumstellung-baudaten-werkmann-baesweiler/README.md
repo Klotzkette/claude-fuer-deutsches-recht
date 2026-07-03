@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 630 KB) | PDF | [`gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf`](gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 618 KB) | PDF | [`gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf`](gesamt-pdf/anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anlagen-zu-schriftsaetzen-konzernumstellung-baudaten-werkmann-baesweiler-einzelpdfs.zip) |
 
@@ -102,37 +102,37 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_anlagensituation.md`](01_mandatsannahme_anlagensituation.md) | Mandatsannahme, Kanzleinotiz, erste Bestandsaufnahme 3.847 Einzelanlagen |
-| 02 | [`02_beteiligte_und_verfahren_uebersicht.md`](02_beteiligte_und_verfahren_uebersicht.md) | Parteien, drei Verfahren (LG/OLG/DIS), Fristen, Anmerkungen Anlagenstrategie |
-| 03 | [`03_anlagenkonvolut_lg_aachen_strukturierung.md`](03_anlagenkonvolut_lg_aachen_strukturierung.md) | Strukturierungskonzept K1–K247, Nachlagenkonvolut, §§ 130, 142 ZPO |
-| 04 | [`04_anlage_k17_zwischenfall_beruf_rechtlich.md`](04_anlage_k17_zwischenfall_beruf_rechtlich.md) | BSI-Bericht ProTec irrtümlich eingespielt, § 43a BRAO, Sofortmaßnahmen |
-| 05 | [`05_bea_uebertragung_xjustiz_hashprobleme.md`](05_bea_uebertragung_xjustiz_hashprobleme.md) | XJustiz 3.3.1, SHA-256-Abweichungen, RA-Micro-Bug, Berichtigungsupload |
-| 06 | [`06_aufmassprotokolle_echtheitsstreit_par416_zpo.md`](06_aufmassprotokolle_echtheitsstreit_par416_zpo.md) | Echtheitstreit K22/K23/K28/K31/K39, § 416 ZPO, GPS-Metadaten, Gutachten |
-| 07 | [`07_schiedsgericht_dis_sv_2026_088_anlagenformatierung.md`](07_schiedsgericht_dis_sv_2026_088_anlagenformatierung.md) | DIS-Verfahrensanordnung Nr. 3, 4 Originale, USB-Sticks, 1.847-Seiten-Band |
-| 08 | [`08_olg_berufung_14u22_26_anlagensynchronisation.md`](08_olg_berufung_14u22_26_anlagensynchronisation.md) | OLG-Anlagensynchronisation, Druckversionen, § 531 ZPO, BB-Nummern |
-| 09 | [`09_zollpapiere_italien_china_fremdsprache_par184_gvg.md`](09_zollpapiere_italien_china_fremdsprache_par184_gvg.md) | Zollpapiere Colorificio/Shenzhen, § 184 GVG, beglaubigte Übersetzung |
-| 10 | [`10_konformitaetserklaerungen_ce_kennzeichnung_mrl.md`](10_konformitaetserklaerungen_ce_kennzeichnung_mrl.md) | CE-Doku 83 Erklärungen, Maschinenrichtlinie 2006/42/EG, Gesamtanlage |
-| 11 | [`11_fat_sat_reports_lackieranlage_eschweiler.md`](11_fat_sat_reports_lackieranlage_eschweiler.md) | 29 FAT-Reports, 18 SAT-Reports, SAT-014 (Modul 7C offen), Verantwortlichkeit |
-| 12 | [`12_anlagenmatrix_indexerstellung_methodik.md`](12_anlagenmatrix_indexerstellung_methodik.md) | Methodik kanzleiinterne Dok-IDs, Kategorisierung, Hash-Protokoll, Pflege |
-| 13 | [`13_mehrkostenabrechnung_par8_vob_b_anlagenkette.md`](13_mehrkostenabrechnung_par8_vob_b_anlagenkette.md) | § 8 Abs. 2 VOB/B, 47 Nachtragspositionen, Anlagenketten-Schema |
-| 14 | [`14_schweissnaht_protokolle_din_en_iso_3834.md`](14_schweissnaht_protokolle_din_en_iso_3834.md) | 441 Schweißnahtprotokolle, DIN EN ISO 3834-2, WPS/PQR, K66–K75 |
-| 15 | [`15_anlagenkorrektur_einreichung_par139_zpo_hinweis.md`](15_anlagenkorrektur_einreichung_par139_zpo_hinweis.md) | Richterliche Hinweise Dr. Hermanns, K38a-Korrektur, Repräsentativität |
-| 16 | [`16_anlagen_kuerzungsstrategie_konzentration.md`](16_anlagen_kuerzungsstrategie_konzentration.md) | 4 Kürzungsprinzipien, 93,6 % Reduktion, Nachreichungs-Sets |
-| 17 | [`17_anlagenkonvolut_print_logistik_4_originale.md`](17_anlagenkonvolut_print_logistik_4_originale.md) | 4 Originale DIS, 7.600 Druckseiten, USB-Sticks, Versand 31.03.2026 |
-| 18 | [`18_anlagen_qr_codes_querverweise_internal_index.md`](18_anlagen_qr_codes_querverweise_internal_index.md) | QR-Code-System, 288 Querverweise, SharePoint-Index, Python-Skript |
-| 19 | [`19_anlagen_redaktion_drittinteressen_geschaeftsgeheimnis.md`](19_anlagen_redaktion_drittinteressen_geschaeftsgeheimnis.md) | GeschGehG, DSGVO, Einkaufspreise, Personendaten, Redaktionsprotokoll |
-| 20 | [`20_anlagen_sammelband_vortest_lg_richter.md`](20_anlagen_sammelband_vortest_lg_richter.md) | Informeller Vortest VRiLG Hermanns, Feedback, K75a Leseanleitung |
-| 21 | [`21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.md`](21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.md) | § 91 ZPO, Übersetzungskosten 2.400 EUR, Druckkosten, RVG § 3a |
-| 22 | [`22_verfahrensstand_fazit_anlagen_handhabung.md`](22_verfahrensstand_fazit_anlagen_handhabung.md) | Stichtag 15.04.2026, Gesamtfazit, Handlungsempfehlungen |
-| 23 | [`23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.md`](23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.md) | Entscheidung, warum K1 als Konvolut K1.1 bis K1.5 geführt wird |
-| 24 | [`24_k1_deckblatt_und_unteranlagen.md`](24_k1_deckblatt_und_unteranlagen.md) | Deckblatttext, Stempelvorgabe und Unteranlagenlogik für K1 |
-| 25 | [`25_k1_schriftsatz_mapping_belegmatrix.md`](25_k1_schriftsatz_mapping_belegmatrix.md) | Belegmatrix Rn. 7–33: Tatsachenbehauptung, Anlage, Status, Lücken |
-| 26 | [`26_bea_paketierungsplan_lg_aachen_22_04_2026.md`](26_bea_paketierungsplan_lg_aachen_22_04_2026.md) | beA-Teilpakete, Größen, Versandnotiz und Begleitvermerk |
-| 27 | [`27_duplikat_und_hashlog_erlaeuterung.md`](27_duplikat_und_hashlog_erlaeuterung.md) | Versionenentscheidungen, doppelte Dateien, interne Hashlog-Regeln |
-| 28 | [`28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.md`](28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.md) | K4-Kontoauszug, K17-Fehlgriff, K18-Chat, Schwärzungsentscheidungen |
-| 29 | [`29_nachreichungsplan_nach_richterlichem_hinweis.md`](29_nachreichungsplan_nach_richterlichem_hinweis.md) | Reparaturplan nach § 139-ZPO-Hinweisen aus der Güteverhandlung |
-| 30 | [`30_finalcheck_vor_abgabe_22_04_2026.md`](30_finalcheck_vor_abgabe_22_04_2026.md) | Stop-/Gelb-/Grün-Liste vor beA-Abgabe |
-| 31 | [`31_mandanten_nachforderung_kurz_und_praezise.md`](31_mandanten_nachforderung_kurz_und_praezise.md) | Präzise Nachforderung an Mandantin für K4, K18 und K38a |
+| 01 | [`01_mandatsannahme_anlagensituation.docx`](01_mandatsannahme_anlagensituation.docx) | Mandatsannahme, Kanzleinotiz, erste Bestandsaufnahme 3.847 Einzelanlagen |
+| 02 | [`02_beteiligte_und_verfahren_uebersicht.docx`](02_beteiligte_und_verfahren_uebersicht.docx) | Parteien, drei Verfahren (LG/OLG/DIS), Fristen, Anmerkungen Anlagenstrategie |
+| 03 | [`03_anlagenkonvolut_lg_aachen_strukturierung.docx`](03_anlagenkonvolut_lg_aachen_strukturierung.docx) | Strukturierungskonzept K1–K247, Nachlagenkonvolut, §§ 130, 142 ZPO |
+| 04 | [`04_anlage_k17_zwischenfall_beruf_rechtlich.docx`](04_anlage_k17_zwischenfall_beruf_rechtlich.docx) | BSI-Bericht ProTec irrtümlich eingespielt, § 43a BRAO, Sofortmaßnahmen |
+| 05 | [`05_bea_uebertragung_xjustiz_hashprobleme.docx`](05_bea_uebertragung_xjustiz_hashprobleme.docx) | XJustiz 3.3.1, SHA-256-Abweichungen, RA-Micro-Bug, Berichtigungsupload |
+| 06 | [`06_aufmassprotokolle_echtheitsstreit_par416_zpo.docx`](06_aufmassprotokolle_echtheitsstreit_par416_zpo.docx) | Echtheitstreit K22/K23/K28/K31/K39, § 416 ZPO, GPS-Metadaten, Gutachten |
+| 07 | [`07_schiedsgericht_dis_sv_2026_088_anlagenformatierung.docx`](07_schiedsgericht_dis_sv_2026_088_anlagenformatierung.docx) | DIS-Verfahrensanordnung Nr. 3, 4 Originale, USB-Sticks, 1.847-Seiten-Band |
+| 08 | [`08_olg_berufung_14u22_26_anlagensynchronisation.docx`](08_olg_berufung_14u22_26_anlagensynchronisation.docx) | OLG-Anlagensynchronisation, Druckversionen, § 531 ZPO, BB-Nummern |
+| 09 | [`09_zollpapiere_italien_china_fremdsprache_par184_gvg.docx`](09_zollpapiere_italien_china_fremdsprache_par184_gvg.docx) | Zollpapiere Colorificio/Shenzhen, § 184 GVG, beglaubigte Übersetzung |
+| 10 | [`10_konformitaetserklaerungen_ce_kennzeichnung_mrl.docx`](10_konformitaetserklaerungen_ce_kennzeichnung_mrl.docx) | CE-Doku 83 Erklärungen, Maschinenrichtlinie 2006/42/EG, Gesamtanlage |
+| 11 | [`11_fat_sat_reports_lackieranlage_eschweiler.docx`](11_fat_sat_reports_lackieranlage_eschweiler.docx) | 29 FAT-Reports, 18 SAT-Reports, SAT-014 (Modul 7C offen), Verantwortlichkeit |
+| 12 | [`12_anlagenmatrix_indexerstellung_methodik.docx`](12_anlagenmatrix_indexerstellung_methodik.docx) | Methodik kanzleiinterne Dok-IDs, Kategorisierung, Hash-Protokoll, Pflege |
+| 13 | [`13_mehrkostenabrechnung_par8_vob_b_anlagenkette.docx`](13_mehrkostenabrechnung_par8_vob_b_anlagenkette.docx) | § 8 Abs. 2 VOB/B, 47 Nachtragspositionen, Anlagenketten-Schema |
+| 14 | [`14_schweissnaht_protokolle_din_en_iso_3834.docx`](14_schweissnaht_protokolle_din_en_iso_3834.docx) | 441 Schweißnahtprotokolle, DIN EN ISO 3834-2, WPS/PQR, K66–K75 |
+| 15 | [`15_anlagenkorrektur_einreichung_par139_zpo_hinweis.docx`](15_anlagenkorrektur_einreichung_par139_zpo_hinweis.docx) | Richterliche Hinweise Dr. Hermanns, K38a-Korrektur, Repräsentativität |
+| 16 | [`16_anlagen_kuerzungsstrategie_konzentration.docx`](16_anlagen_kuerzungsstrategie_konzentration.docx) | 4 Kürzungsprinzipien, 93,6 % Reduktion, Nachreichungs-Sets |
+| 17 | [`17_anlagenkonvolut_print_logistik_4_originale.docx`](17_anlagenkonvolut_print_logistik_4_originale.docx) | 4 Originale DIS, 7.600 Druckseiten, USB-Sticks, Versand 31.03.2026 |
+| 18 | [`18_anlagen_qr_codes_querverweise_internal_index.docx`](18_anlagen_qr_codes_querverweise_internal_index.docx) | QR-Code-System, 288 Querverweise, SharePoint-Index, Python-Skript |
+| 19 | [`19_anlagen_redaktion_drittinteressen_geschaeftsgeheimnis.docx`](19_anlagen_redaktion_drittinteressen_geschaeftsgeheimnis.docx) | GeschGehG, DSGVO, Einkaufspreise, Personendaten, Redaktionsprotokoll |
+| 20 | [`20_anlagen_sammelband_vortest_lg_richter.docx`](20_anlagen_sammelband_vortest_lg_richter.docx) | Informeller Vortest VRiLG Hermanns, Feedback, K75a Leseanleitung |
+| 21 | [`21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.docx`](21_anlagen_kostenfolge_par91_zpo_anlagenpauschale.docx) | § 91 ZPO, Übersetzungskosten 2.400 EUR, Druckkosten, RVG § 3a |
+| 22 | [`22_verfahrensstand_fazit_anlagen_handhabung.docx`](22_verfahrensstand_fazit_anlagen_handhabung.docx) | Stichtag 15.04.2026, Gesamtfazit, Handlungsempfehlungen |
+| 23 | [`23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.docx`](23_k1_sortierprotokoll_vertrag_auftrag_nachtrag.docx) | Entscheidung, warum K1 als Konvolut K1.1 bis K1.5 geführt wird |
+| 24 | [`24_k1_deckblatt_und_unteranlagen.docx`](24_k1_deckblatt_und_unteranlagen.docx) | Deckblatttext, Stempelvorgabe und Unteranlagenlogik für K1 |
+| 25 | [`25_k1_schriftsatz_mapping_belegmatrix.docx`](25_k1_schriftsatz_mapping_belegmatrix.docx) | Belegmatrix Rn. 7–33: Tatsachenbehauptung, Anlage, Status, Lücken |
+| 26 | [`26_bea_paketierungsplan_lg_aachen_22_04_2026.docx`](26_bea_paketierungsplan_lg_aachen_22_04_2026.docx) | beA-Teilpakete, Größen, Versandnotiz und Begleitvermerk |
+| 27 | [`27_duplikat_und_hashlog_erlaeuterung.docx`](27_duplikat_und_hashlog_erlaeuterung.docx) | Versionenentscheidungen, doppelte Dateien, interne Hashlog-Regeln |
+| 28 | [`28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.docx`](28_redaktionsprotokoll_kontoauszug_und_drittgeheimnisse.docx) | K4-Kontoauszug, K17-Fehlgriff, K18-Chat, Schwärzungsentscheidungen |
+| 29 | [`29_nachreichungsplan_nach_richterlichem_hinweis.docx`](29_nachreichungsplan_nach_richterlichem_hinweis.docx) | Reparaturplan nach § 139-ZPO-Hinweisen aus der Güteverhandlung |
+| 30 | [`30_finalcheck_vor_abgabe_22_04_2026.docx`](30_finalcheck_vor_abgabe_22_04_2026.docx) | Stop-/Gelb-/Grün-Liste vor beA-Abgabe |
+| 31 | [`31_mandanten_nachforderung_kurz_und_praezise.docx`](31_mandanten_nachforderung_kurz_und_praezise.docx) | Präzise Nachforderung an Mandantin für K4, K18 und K38a |
 
 ---
 

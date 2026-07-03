@@ -28,17 +28,17 @@ Jens Malchow, 54, Schichtleiter Wareneingang, ist seit Januar 2024 arbeitsunfäh
 ```
 rentenrecht-erwerbsminderung-reha-ablehnung-leipzig/
 ├── README.md                              ← diese Datei
-├── 01_mandatsaufnahme.md                  ← Kanzleivermerk: Verlauf, Verfahrensstand, Klagefrist, Strategie
-├── 02_hausarzt_attest_widerspruch.md      ← kurzes Attest vom 30.04.2026 als Anlage zum Widerspruch
-├── 03_hausarzt_befundbericht.md           ← ausführlicher Befundbericht vom 11.06.2026 mit Medikation
-├── 04_neurologischer_befundbericht.md     ← NLG-Messung, Polyneuropathie, Sturzgefahr
-├── 05_reha_entlassungsbericht_auszug.md   ← Leistungsbild, dokumentierte Therapieabbrüche, Flur-Wegefähigkeit
-├── 06_drv_ablehnungsbescheid.md           ← Ablehnung vom 17.04.2026 mit Rechtsbehelfsbelehrung
-├── 07_widerspruch_mandant.md              ← selbst verfasster Widerspruch vom 04.05.2026
-├── 08_widerspruchsbescheid.md             ← Zurückweisung vom 12.06.2026, Zugangsvermerk 15.06.2026
-├── 09_arbeitgeberbescheinigung_taetigkeit.md ← Tätigkeitsprofil, gescheitertes BEM, kein leidensgerechter Platz
+├── 01_mandatsaufnahme.docx                  ← Kanzleivermerk: Verlauf, Verfahrensstand, Klagefrist, Strategie
+├── 02_hausarzt_attest_widerspruch.docx      ← kurzes Attest vom 30.04.2026 als Anlage zum Widerspruch
+├── 03_hausarzt_befundbericht.docx           ← ausführlicher Befundbericht vom 11.06.2026 mit Medikation
+├── 04_neurologischer_befundbericht.docx     ← NLG-Messung, Polyneuropathie, Sturzgefahr
+├── 05_reha_entlassungsbericht_auszug.docx   ← Leistungsbild, dokumentierte Therapieabbrüche, Flur-Wegefähigkeit
+├── 06_drv_ablehnungsbescheid.docx           ← Ablehnung vom 17.04.2026 mit Rechtsbehelfsbelehrung
+├── 07_widerspruch_mandant.docx              ← selbst verfasster Widerspruch vom 04.05.2026
+├── 08_widerspruchsbescheid.docx             ← Zurückweisung vom 12.06.2026, Zugangsvermerk 15.06.2026
+├── 09_arbeitgeberbescheinigung_taetigkeit.docx ← Tätigkeitsprofil, gescheitertes BEM, kein leidensgerechter Platz
 ├── 10_au_krankengeld_verlauf.csv          ← AU-, Krankengeld- und Verfahrenschronologie seit Januar 2024
-└── 11_klageentwurf.md                     ← Klageentwurf zum SG Leipzig mit Beweisanregungen
+└── 11_klageentwurf.docx                     ← Klageentwurf zum SG Leipzig mit Beweisanregungen
 ```
 
 ## Bearbeitungsziel

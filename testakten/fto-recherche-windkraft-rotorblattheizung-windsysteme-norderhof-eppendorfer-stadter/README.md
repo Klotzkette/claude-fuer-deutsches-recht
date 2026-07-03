@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 704 KB) | PDF | [`gesamt-pdf/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter_gesamt.pdf`](gesamt-pdf/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 689 KB) | PDF | [`gesamt-pdf/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter_gesamt.pdf`](gesamt-pdf/fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fto-recherche-windkraft-rotorblattheizung-windsysteme-norderhof-eppendorfer-stadter-einzelpdfs.zip) |
 
@@ -58,28 +58,28 @@ Arbeitsakte zum Plugin `patentrecherche`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-windsysteme-fto.md`](01-mandatsuebernahme-windsysteme-fto.md) | Mandatsaufnahme, Auftragsdefinition, AZ SE-2026-FTO-0717 |
-| 02 | [`02-technologiebeschreibung-rotorblattheizung-v3.md`](02-technologiebeschreibung-rotorblattheizung-v3.md) | IceFree v3 — Systemarchitektur, Komponenten, Anspruchsrelevanz |
-| 03 | [`03-recherchestrategie-ipc-cpc-mapping.md`](03-recherchestrategie-ipc-cpc-mapping.md) | IPC/CPC-Klassifikation F03D/H05B, Recherchepfade |
-| 04 | [`04-suchprofile-espacenet-depatisnet-google.md`](04-suchprofile-espacenet-depatisnet-google.md) | Suchstrings, Trefferzahlen, Datenbankauswahl |
-| 05 | [`05-treffer-cluster-1-de-anmeldungen.md`](05-treffer-cluster-1-de-anmeldungen.md) | DE-Anmeldungen — 8 relevante Treffer |
-| 06 | [`06-treffer-cluster-2-ep-erteilungen.md`](06-treffer-cluster-2-ep-erteilungen.md) | EP-Erteilungen inkl. EP 3 218 922 B1 — 7 Treffer |
-| 07 | [`07-treffer-cluster-3-us-patente-vestas.md`](07-treffer-cluster-3-us-patente-vestas.md) | US-Patentblock Vestas — FTO-Risiko USA |
-| 08 | [`08-treffer-cluster-4-cn-patente-goldwind.md`](08-treffer-cluster-4-cn-patente-goldwind.md) | CN-Patente Goldwind, unveröffentlichte Anmeldungen |
-| 09 | [`09-volltextanalyse-ep-3-218-922-b1-vellbruck.md`](09-volltextanalyse-ep-3-218-922-b1-vellbruck.md) | Volltext EP 3 218 922 B1 — Beschreibung, Zeichnungen, Ansprüche |
-| 10 | [`10-anspruchsanalyse-unabhaengige-13-21-vellbruck.md`](10-anspruchsanalyse-unabhaengige-13-21-vellbruck.md) | Unabhängige Ansprüche 1, 3, 21 — Merkmalsanalyse |
-| 11 | [`11-merkmalsvergleich-windsysteme-vs-vellbruck.md`](11-merkmalsvergleich-windsysteme-vs-vellbruck.md) | Merkmalsvergleich IceFree v3 ↔ EP 3 218 922 B1 |
-| 12 | [`12-aequivalenzdoktrin-pruefung.md`](12-aequivalenzdoktrin-pruefung.md) | Äquivalenz nach BGH X ZR 156/12, § 14 PatG |
-| 13 | [`13-stand-der-technik-vorveroeffentlichungen.md`](13-stand-der-technik-vorveroeffentlichungen.md) | Vorveröffentlichungen vor Anmeldetag 2018 |
-| 14 | [`14-neuheitsschaedlichkeit-pruefung.md`](14-neuheitsschaedlichkeit-pruefung.md) | Neuheitsprüfung § 3 PatG, Art. 54 EPÜ |
-| 15 | [`15-erfinderische-taetigkeit-aufgabenloesungsansatz.md`](15-erfinderische-taetigkeit-aufgabenloesungsansatz.md) | PSA nach EPO-Richtlinien, Art. 56 EPÜ |
-| 16 | [`16-fto-risikobewertung-ampel-system.md`](16-fto-risikobewertung-ampel-system.md) | Ampelmatrix: DE/EP/US/CN × Rot/Gelb/Grün |
-| 17 | [`17-handlungsempfehlungen-redesign-lizenz-nichtigkeitsklage.md`](17-handlungsempfehlungen-redesign-lizenz-nichtigkeitsklage.md) | Drei Handlungspfade mit Kosten und Zeitachse |
-| 18 | [`18-patentlandschaft-2026-uebersicht.md`](18-patentlandschaft-2026-uebersicht.md) | Technologielandschaft Rotorblattheizung 2015–2026 |
-| 19 | [`19-konkurrenz-analyse-portfoliostrategie.md`](19-konkurrenz-analyse-portfoliostrategie.md) | Vestas, Goldwind, Siemens Gamesa — Portfolios |
-| 20 | [`20-mediations-versuch-vellbruck-bilateral.md`](20-mediations-versuch-vellbruck-bilateral.md) | Sondierungsgespräch Vellbruck, FRAND-Term-Sheet |
-| 21 | [`21-strategiepapier-vorstand-windsysteme.md`](21-strategiepapier-vorstand-windsysteme.md) | Vorstandsvorlage: Szenarien, Kosten-Risiko, Zeitplan |
-| 22 | [`22-abschlussvermerk-patentanwalt.md`](22-abschlussvermerk-patentanwalt.md) | Abschlussvermerk Dr. Stadter-Birkenhain, Qualitätssicherung |
+| 01 | [`01-mandatsuebernahme-windsysteme-fto.docx`](01-mandatsuebernahme-windsysteme-fto.docx) | Mandatsaufnahme, Auftragsdefinition, AZ SE-2026-FTO-0717 |
+| 02 | [`02-technologiebeschreibung-rotorblattheizung-v3.docx`](02-technologiebeschreibung-rotorblattheizung-v3.docx) | IceFree v3 — Systemarchitektur, Komponenten, Anspruchsrelevanz |
+| 03 | [`03-recherchestrategie-ipc-cpc-mapping.docx`](03-recherchestrategie-ipc-cpc-mapping.docx) | IPC/CPC-Klassifikation F03D/H05B, Recherchepfade |
+| 04 | [`04-suchprofile-espacenet-depatisnet-google.docx`](04-suchprofile-espacenet-depatisnet-google.docx) | Suchstrings, Trefferzahlen, Datenbankauswahl |
+| 05 | [`05-treffer-cluster-1-de-anmeldungen.docx`](05-treffer-cluster-1-de-anmeldungen.docx) | DE-Anmeldungen — 8 relevante Treffer |
+| 06 | [`06-treffer-cluster-2-ep-erteilungen.docx`](06-treffer-cluster-2-ep-erteilungen.docx) | EP-Erteilungen inkl. EP 3 218 922 B1 — 7 Treffer |
+| 07 | [`07-treffer-cluster-3-us-patente-vestas.docx`](07-treffer-cluster-3-us-patente-vestas.docx) | US-Patentblock Vestas — FTO-Risiko USA |
+| 08 | [`08-treffer-cluster-4-cn-patente-goldwind.docx`](08-treffer-cluster-4-cn-patente-goldwind.docx) | CN-Patente Goldwind, unveröffentlichte Anmeldungen |
+| 09 | [`09-volltextanalyse-ep-3-218-922-b1-vellbruck.docx`](09-volltextanalyse-ep-3-218-922-b1-vellbruck.docx) | Volltext EP 3 218 922 B1 — Beschreibung, Zeichnungen, Ansprüche |
+| 10 | [`10-anspruchsanalyse-unabhaengige-13-21-vellbruck.docx`](10-anspruchsanalyse-unabhaengige-13-21-vellbruck.docx) | Unabhängige Ansprüche 1, 3, 21 — Merkmalsanalyse |
+| 11 | [`11-merkmalsvergleich-windsysteme-vs-vellbruck.docx`](11-merkmalsvergleich-windsysteme-vs-vellbruck.docx) | Merkmalsvergleich IceFree v3 ↔ EP 3 218 922 B1 |
+| 12 | [`12-aequivalenzdoktrin-pruefung.docx`](12-aequivalenzdoktrin-pruefung.docx) | Äquivalenz nach BGH X ZR 156/12, § 14 PatG |
+| 13 | [`13-stand-der-technik-vorveroeffentlichungen.docx`](13-stand-der-technik-vorveroeffentlichungen.docx) | Vorveröffentlichungen vor Anmeldetag 2018 |
+| 14 | [`14-neuheitsschaedlichkeit-pruefung.docx`](14-neuheitsschaedlichkeit-pruefung.docx) | Neuheitsprüfung § 3 PatG, Art. 54 EPÜ |
+| 15 | [`15-erfinderische-taetigkeit-aufgabenloesungsansatz.docx`](15-erfinderische-taetigkeit-aufgabenloesungsansatz.docx) | PSA nach EPO-Richtlinien, Art. 56 EPÜ |
+| 16 | [`16-fto-risikobewertung-ampel-system.docx`](16-fto-risikobewertung-ampel-system.docx) | Ampelmatrix: DE/EP/US/CN × Rot/Gelb/Grün |
+| 17 | [`17-handlungsempfehlungen-redesign-lizenz-nichtigkeitsklage.docx`](17-handlungsempfehlungen-redesign-lizenz-nichtigkeitsklage.docx) | Drei Handlungspfade mit Kosten und Zeitachse |
+| 18 | [`18-patentlandschaft-2026-uebersicht.docx`](18-patentlandschaft-2026-uebersicht.docx) | Technologielandschaft Rotorblattheizung 2015–2026 |
+| 19 | [`19-konkurrenz-analyse-portfoliostrategie.docx`](19-konkurrenz-analyse-portfoliostrategie.docx) | Vestas, Goldwind, Siemens Gamesa — Portfolios |
+| 20 | [`20-mediations-versuch-vellbruck-bilateral.docx`](20-mediations-versuch-vellbruck-bilateral.docx) | Sondierungsgespräch Vellbruck, FRAND-Term-Sheet |
+| 21 | [`21-strategiepapier-vorstand-windsysteme.docx`](21-strategiepapier-vorstand-windsysteme.docx) | Vorstandsvorlage: Szenarien, Kosten-Risiko, Zeitplan |
+| 22 | [`22-abschlussvermerk-patentanwalt.docx`](22-abschlussvermerk-patentanwalt.docx) | Abschlussvermerk Dr. Stadter-Birkenhain, Qualitätssicherung |
 
 ---
 

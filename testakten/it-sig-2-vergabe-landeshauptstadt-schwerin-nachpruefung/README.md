@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 688 KB) | PDF | [`gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf`](gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 682 KB) | PDF | [`gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf`](gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip) |
 
@@ -58,28 +58,28 @@ für die **Nahverkehr Schwerin GmbH** (KRITIS-Sektor Verkehr) – geschätzter A
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_ausschreibungsbekanntmachung_ted.md` | TED-Bekanntmachung (Auszug) |
-| 02 | `02_vergabeunterlagen_leistungsbeschreibung.md` | Leistungsbeschreibung SOC + ISB-Beratung |
-| 03 | `03_eignungsanforderungen_kriterienkatalog.md` | Eignungsanforderungen und Kriterienkatalog |
-| 04 | `04_angebot_cybershield_zusammenfassung.md` | Angebotszusammenfassung CyberShield |
-| 05 | `05_referenzliste_cybershield.md` | Referenzliste CyberShield (drei KRITIS-Nachweise) |
-| 06 | `06_ausschlussschreiben_vergabestelle.md` | Ausschlussschreiben der Vergabestelle |
-| 07 | `07_ruege_cybershield_160_gwb.md` | Rüge gem. § 160 Abs. 3 GWB |
-| 08 | `08_ruege_nichtabhilfeschreiben.md` | Nichtabhilfe-Schreiben der Vergabestelle |
-| 09 | `09_nachpruefungsantrag_vk_bund.md` | Nachprüfungsantrag VK 1-32/26 |
-| 10 | `10_stellungnahme_vergabestelle_vk.md` | Stellungnahme Vergabestelle an VK |
-| 11 | `11_erwiderung_cybershield_vk.md` | Erwiderung CyberShield auf Vergabestellen-Stellungnahme |
-| 12 | `12_beiladungsbeschluss_vk.md` | Beiladungsbeschluss ProtectIT |
-| 13 | `13_aufklaerungsanfragen_vk.md` | Aufklärungsanfragen VK an alle Beteiligten |
-| 14 | `14_aufklaerungsprotokoll_protokoll_termin.md` | Protokoll Aufklärungstermin VK |
-| 15 | `15_vergleichsvorschlag_vergabestelle.md` | Vergleichsvorschlag Vergabestelle |
-| 16 | `16_vergleichsannahme_ablehnung_cybershield.md` | Ablehnung Vergleich durch CyberShield |
-| 17 | `17_beschluss_vk_bund.md` | Beschluss VK 1-32/26 |
-| 18 | `18_sofortige_beschwerde_olg_duesseldorf.md` | Sofortige Beschwerde Verg 18/26 OLG Düsseldorf |
-| 19 | `19_de_facto_vergabe_sachverhalt.md` | De-facto-Vergabe SOC-Pilotbetrieb 12/2025 |
-| 20 | `20_de_facto_vergabe_klage.md` | Klageschrift De-facto-Vergabe |
-| 21 | `21_bsi_it_sig2_kritis_analyse.md` | BSI IT-SIG 2.0 / KRITIS-Rechtliche Analyse |
-| 22 | `22_kostenrechnung_verfahren.md` | Kostenrechnung und Verfahrenskosten |
+| 01 | `01_ausschreibungsbekanntmachung_ted.docx` | TED-Bekanntmachung (Auszug) |
+| 02 | `02_vergabeunterlagen_leistungsbeschreibung.docx` | Leistungsbeschreibung SOC + ISB-Beratung |
+| 03 | `03_eignungsanforderungen_kriterienkatalog.docx` | Eignungsanforderungen und Kriterienkatalog |
+| 04 | `04_angebot_cybershield_zusammenfassung.docx` | Angebotszusammenfassung CyberShield |
+| 05 | `05_referenzliste_cybershield.docx` | Referenzliste CyberShield (drei KRITIS-Nachweise) |
+| 06 | `06_ausschlussschreiben_vergabestelle.docx` | Ausschlussschreiben der Vergabestelle |
+| 07 | `07_ruege_cybershield_160_gwb.docx` | Rüge gem. § 160 Abs. 3 GWB |
+| 08 | `08_ruege_nichtabhilfeschreiben.docx` | Nichtabhilfe-Schreiben der Vergabestelle |
+| 09 | `09_nachpruefungsantrag_vk_bund.docx` | Nachprüfungsantrag VK 1-32/26 |
+| 10 | `10_stellungnahme_vergabestelle_vk.docx` | Stellungnahme Vergabestelle an VK |
+| 11 | `11_erwiderung_cybershield_vk.docx` | Erwiderung CyberShield auf Vergabestellen-Stellungnahme |
+| 12 | `12_beiladungsbeschluss_vk.docx` | Beiladungsbeschluss ProtectIT |
+| 13 | `13_aufklaerungsanfragen_vk.docx` | Aufklärungsanfragen VK an alle Beteiligten |
+| 14 | `14_aufklaerungsprotokoll_protokoll_termin.docx` | Protokoll Aufklärungstermin VK |
+| 15 | `15_vergleichsvorschlag_vergabestelle.docx` | Vergleichsvorschlag Vergabestelle |
+| 16 | `16_vergleichsannahme_ablehnung_cybershield.docx` | Ablehnung Vergleich durch CyberShield |
+| 17 | `17_beschluss_vk_bund.docx` | Beschluss VK 1-32/26 |
+| 18 | `18_sofortige_beschwerde_olg_duesseldorf.docx` | Sofortige Beschwerde Verg 18/26 OLG Düsseldorf |
+| 19 | `19_de_facto_vergabe_sachverhalt.docx` | De-facto-Vergabe SOC-Pilotbetrieb 12/2025 |
+| 20 | `20_de_facto_vergabe_klage.docx` | Klageschrift De-facto-Vergabe |
+| 21 | `21_bsi_it_sig2_kritis_analyse.docx` | BSI IT-SIG 2.0 / KRITIS-Rechtliche Analyse |
+| 22 | `22_kostenrechnung_verfahren.docx` | Kostenrechnung und Verfahrenskosten |
 
 ## Anlagen
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 487 KB) | PDF | [`gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf`](gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 485 KB) | PDF | [`gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf`](gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-forschungszulage-sensorik-startup-taunus.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-forschungszulage-sensorik-startup-taunus-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus-einzelpdfs.zip) |
 

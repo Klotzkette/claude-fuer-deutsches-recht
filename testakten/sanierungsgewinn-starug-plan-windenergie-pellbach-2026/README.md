@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 136 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 122 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026-einzelpdfs.zip) |
 
@@ -89,20 +89,20 @@ Hauptproblematik:
 sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 ├── README.md                                                       ← Diese Datei
 ├── 00_aktenuebersicht.md
-├── 01_mandatsnotiz_geschaeftsfuehrer_pellbach.md
-├── 02_starug-anzeige_31_starug_ag_cottbus.md
-├── 03_restrukturierungsplan_4_ff_starug_eckpunkte.md
-├── 04_banken-konsortium_verzichts-und-des-vereinbarung.md
-├── 05_sanierungsertragsberechnung_22mio_plus_des.md
-├── 06_8c_kstg_risiko_und_8d_kstg_antrag.md
-├── 07_3a_iii_estg_verrechnung_und_sanierungsertrag_pruefung.md
-├── 08_3a_iv_estg_antrag_finanzamt_cottbus.md
-├── 09_7b_gewstg_parallelantrag.md
-├── 10_verbindliche_auskunft_89_ao_vor_planbestaetigung.md
-├── 11_fg_koeln_12k1413_25_und_starug_planbestaetigung.md
-├── 12_rb_haftung_und_sachwalter_aufgaben.md
-├── 13_szenario_starug_plan_mit_vs_ohne_des.md
-├── 14_mandantenbrief_pellbach_glasklar_steuern.md
+├── 01_mandatsnotiz_geschaeftsfuehrer_pellbach.docx
+├── 02_starug-anzeige_31_starug_ag_cottbus.docx
+├── 03_restrukturierungsplan_4_ff_starug_eckpunkte.docx
+├── 04_banken-konsortium_verzichts-und-des-vereinbarung.docx
+├── 05_sanierungsertragsberechnung_22mio_plus_des.docx
+├── 06_8c_kstg_risiko_und_8d_kstg_antrag.docx
+├── 07_3a_iii_estg_verrechnung_und_sanierungsertrag_pruefung.docx
+├── 08_3a_iv_estg_antrag_finanzamt_cottbus.docx
+├── 09_7b_gewstg_parallelantrag.docx
+├── 10_verbindliche_auskunft_89_ao_vor_planbestaetigung.docx
+├── 11_fg_koeln_12k1413_25_und_starug_planbestaetigung.docx
+├── 12_rb_haftung_und_sachwalter_aufgaben.docx
+├── 13_szenario_starug_plan_mit_vs_ohne_des.docx
+├── 14_mandantenbrief_pellbach_glasklar_steuern.docx
 ├── 15_finanzplan_und_liquiditaetsmatrix_2026.csv
 └── 16_glaeubigerverzeichnis_starug.csv
 ```

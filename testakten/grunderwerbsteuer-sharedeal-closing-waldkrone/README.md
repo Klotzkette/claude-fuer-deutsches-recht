@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 105 KB) | PDF | [`gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf`](gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 99 KB) | PDF | [`gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf`](gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone-einzelpdfs.zip) |
 
@@ -26,19 +26,19 @@ Die irische **Silver Harbour Capital plc** erwirbt sämtliche Anteile an der **W
 
 | Datei | Inhalt |
 |---|---|
-| `01-partnerauftrag-closing.md` | Auftrag aus dem M&A-Team mit Mandantsnummer, Sensibilität, Fristen |
-| `02-timeline-und-struktur.md` | Beteiligungsstruktur, Deal-Timeline, Schedules, Bedingungen, Eintragungsstand |
-| `03-spa-auszug-tax.md` | Auszug aus dem Kaufvertrag inkl. Definitions, Indemnity, Escrow, Time Limits, Schedule 8 |
+| `01-partnerauftrag-closing.docx` | Auftrag aus dem M&A-Team mit Mandantsnummer, Sensibilität, Fristen |
+| `02-timeline-und-struktur.docx` | Beteiligungsstruktur, Deal-Timeline, Schedules, Bedingungen, Eintragungsstand |
+| `03-spa-auszug-tax.docx` | Auszug aus dem Kaufvertrag inkl. Definitions, Indemnity, Escrow, Time Limits, Schedule 8 |
 | `04-grundbesitzliste-bewertung.csv` | Grundstücke, Werte, Bundesländer, Steuersätze, Plausibilisierung Kaufpreis |
-| `05-anzeige-19-grestg-entwurf.md` | Anzeigeentwurf, Belegenheits-FA, Anlagen, § 6a-Hinweis, interner Pre-Check |
-| `06-finanzamt-doppelbescheid-adV.md` | Telefonnotiz FA Oranienburg, Anhörungsschreiben, AdV-Zielrichtung, Risikomatrix, Mandanten-Bulletpoints (de/en) |
-| `07-tax-indemnity-escrow-review.md` | Review der Steuerklausel mit Amendment-Vorschlag de/en und Verhandlungshebeln |
+| `05-anzeige-19-grestg-entwurf.docx` | Anzeigeentwurf, Belegenheits-FA, Anlagen, § 6a-Hinweis, interner Pre-Check |
+| `06-finanzamt-doppelbescheid-adV.docx` | Telefonnotiz FA Oranienburg, Anhörungsschreiben, AdV-Zielrichtung, Risikomatrix, Mandanten-Bulletpoints (de/en) |
+| `07-tax-indemnity-escrow-review.docx` | Review der Steuerklausel mit Amendment-Vorschlag de/en und Verhandlungshebeln |
 | `08-post-closing-tracker.csv` | Fristen und Verantwortlichkeiten (Erweiterung um Übersetzung, Helaba-Bürgschaft, BMF-Anwendungserlass) |
-| `09-step-plan-deal-notiz.md` | Step Plan v2 mit acht Schritten, Verfahrensgrundlagen, Eskalationsregeln |
-| `10-closing-memo-mandantenversion.md` | Closing Memo v3 für CFO Killeen / GC Brennan, Risikomatrix, Zeitschiene, Vorbehalte |
-| `11-tax-indemnity-letter.md` | SPA Amendment Nr. 1 -- vollständiger Wortlaut mit Cooperation Sec. 16, Escrow-Sicherheitsleistung |
-| `12-bmf-anwendungserlass-bezug.md` | Argumentationslinie für Anhörungsantwort -- Subsidiarität § 1 Abs. 2b vor Abs. 3, BFH-AdV, § 16 GrEStG |
-| `13-kaufpreis-allokation.md` | Plausibilisierungstabelle Kaufpreis -- Grundbesitzwerte -- GrESt-Bemessungsgrundlage; Liquiditätsbedarf |
+| `09-step-plan-deal-notiz.docx` | Step Plan v2 mit acht Schritten, Verfahrensgrundlagen, Eskalationsregeln |
+| `10-closing-memo-mandantenversion.docx` | Closing Memo v3 für CFO Killeen / GC Brennan, Risikomatrix, Zeitschiene, Vorbehalte |
+| `11-tax-indemnity-letter.docx` | SPA Amendment Nr. 1 -- vollständiger Wortlaut mit Cooperation Sec. 16, Escrow-Sicherheitsleistung |
+| `12-bmf-anwendungserlass-bezug.docx` | Argumentationslinie für Anhörungsantwort -- Subsidiarität § 1 Abs. 2b vor Abs. 3, BFH-AdV, § 16 GrEStG |
+| `13-kaufpreis-allokation.docx` | Plausibilisierungstabelle Kaufpreis -- Grundbesitzwerte -- GrESt-Bemessungsgrundlage; Liquiditätsbedarf |
 | `14-eml-mandantenkorrespondenz-killeen.eml` | Mailwechsel mit CFO Killeen zu Q2-Rückstellung, MAR-Frage, Investorenkommunikation |
 
 ## Besonders passende Skills

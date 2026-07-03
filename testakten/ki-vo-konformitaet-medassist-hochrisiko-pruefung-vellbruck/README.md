@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 702 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 685 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck-einzelpdfs.zip) |
 
@@ -79,28 +79,28 @@ Arbeitsakte zum Plugin `ki-vo-ai-act-pruefer`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-vellbruck-medassist.md`](01-mandatsuebernahme-vellbruck-medassist.md) | Mandatsnotiz, Vollmacht, Interessenkonfliktcheck |
-| 02 | [`02-system-beschreibung-medassist-v4.md`](02-system-beschreibung-medassist-v4.md) | Systemarchitektur, GPAI-Basiskomponente, Einsatzbereich |
-| 03 | [`03-einstufung-anhang-iii-7-medizinprodukte.md`](03-einstufung-anhang-iii-7-medizinprodukte.md) | Einstufungsprüfung Hochrisiko-KI, Anhang III Nr. 7 |
-| 04 | [`04-art-9-risikomanagement-pruefung.md`](04-art-9-risikomanagement-pruefung.md) | Art. 9 KI-VO Risikomanagementsystem — Prüfungsbefund |
-| 05 | [`05-art-10-data-governance-pruefung.md`](05-art-10-data-governance-pruefung.md) | Art. 10 KI-VO Daten-Governance — Trainingsdaten, Repräsentativität |
-| 06 | [`06-art-11-tech-dokumentation-pruefung.md`](06-art-11-tech-dokumentation-pruefung.md) | Art. 11 KI-VO Technische Dokumentation — Anhang-IV-Analyse |
-| 07 | [`07-art-12-aufzeichnungspflichten.md`](07-art-12-aufzeichnungspflichten.md) | Art. 12 KI-VO Logging, Audit-Trail, Datenhaltungskonzept |
-| 08 | [`08-art-13-transparenz-anbieter.md`](08-art-13-transparenz-anbieter.md) | Art. 13 KI-VO Transparenz, Gebrauchsanweisung, Pflichten |
-| 09 | [`09-art-14-menschliche-aufsicht.md`](09-art-14-menschliche-aufsicht.md) | Art. 14 KI-VO Aufsichtsdefizit — Kernbefund der Prüfung |
-| 10 | [`10-art-15-genauigkeit-robustheit-cybersicherheit.md`](10-art-15-genauigkeit-robustheit-cybersicherheit.md) | Art. 15 KI-VO Accuracy, Robustheit, Cybersicherheit |
-| 11 | [`11-art-16-pflichten-anbieter.md`](11-art-16-pflichten-anbieter.md) | Art. 16 KI-VO Anbieterpflichten — Gesamtübersicht |
-| 12 | [`12-art-43-konformitaetsbewertung.md`](12-art-43-konformitaetsbewertung.md) | Art. 43 KI-VO Konformitätsbewertungsverfahren |
-| 13 | [`13-art-47-eu-konformitaetserklaerung.md`](13-art-47-eu-konformitaetserklaerung.md) | Art. 47 KI-VO EU-Konformitätserklärung — Entwurf und Analyse |
-| 14 | [`14-art-48-ce-kennzeichnung.md`](14-art-48-ce-kennzeichnung.md) | Art. 48 KI-VO CE-Kennzeichnung — Koordination mit MDR |
-| 15 | [`15-art-49-registrierung-eu-datenbank.md`](15-art-49-registrierung-eu-datenbank.md) | Art. 49 KI-VO EU-Datenbank EUID, Registrierungsstatus |
-| 16 | [`16-grenzwerte-mdr-2017-745-schnittstelle.md`](16-grenzwerte-mdr-2017-745-schnittstelle.md) | MDR (EU) 2017/745 Klasse IIb, Notified Body, Doppelkonformität |
-| 17 | [`17-marktueberwachung-bnetza-zustaendigkeit.md`](17-marktueberwachung-bnetza-zustaendigkeit.md) | BNetzA Marktüberwachung KI-VO, Verfahrensstand, Auskunftspflicht |
-| 18 | [`18-bafin-finanzaufsicht-schnittstelle.md`](18-bafin-finanzaufsicht-schnittstelle.md) | Berührungspunkte mit Finanzaufsicht, Datenschutz Klinik |
-| 19 | [`19-gpai-baseline-llm-komponente.md`](19-gpai-baseline-llm-komponente.md) | GPAI-Analyse Llama-Adaptation, Art. 53 KI-VO, Systemcard |
-| 20 | [`20-handlungsplan-feststellungen.md`](20-handlungsplan-feststellungen.md) | Maßnahmenkatalog, Prioritäten, Fristen, Verantwortliche |
-| 21 | [`21-interne-mandantenpraesentation.md`](21-interne-mandantenpraesentation.md) | Vorstandspräsentation — Kurzfassung aller Befunde |
-| 22 | [`22-abschlussvermerk-rechtsanwalt.md`](22-abschlussvermerk-rechtsanwalt.md) | Rechtliches Gesamturteil, Haftungseinschätzung, Signatur |
+| 01 | [`01-mandatsuebernahme-vellbruck-medassist.docx`](01-mandatsuebernahme-vellbruck-medassist.docx) | Mandatsnotiz, Vollmacht, Interessenkonfliktcheck |
+| 02 | [`02-system-beschreibung-medassist-v4.docx`](02-system-beschreibung-medassist-v4.docx) | Systemarchitektur, GPAI-Basiskomponente, Einsatzbereich |
+| 03 | [`03-einstufung-anhang-iii-7-medizinprodukte.docx`](03-einstufung-anhang-iii-7-medizinprodukte.docx) | Einstufungsprüfung Hochrisiko-KI, Anhang III Nr. 7 |
+| 04 | [`04-art-9-risikomanagement-pruefung.docx`](04-art-9-risikomanagement-pruefung.docx) | Art. 9 KI-VO Risikomanagementsystem — Prüfungsbefund |
+| 05 | [`05-art-10-data-governance-pruefung.docx`](05-art-10-data-governance-pruefung.docx) | Art. 10 KI-VO Daten-Governance — Trainingsdaten, Repräsentativität |
+| 06 | [`06-art-11-tech-dokumentation-pruefung.docx`](06-art-11-tech-dokumentation-pruefung.docx) | Art. 11 KI-VO Technische Dokumentation — Anhang-IV-Analyse |
+| 07 | [`07-art-12-aufzeichnungspflichten.docx`](07-art-12-aufzeichnungspflichten.docx) | Art. 12 KI-VO Logging, Audit-Trail, Datenhaltungskonzept |
+| 08 | [`08-art-13-transparenz-anbieter.docx`](08-art-13-transparenz-anbieter.docx) | Art. 13 KI-VO Transparenz, Gebrauchsanweisung, Pflichten |
+| 09 | [`09-art-14-menschliche-aufsicht.docx`](09-art-14-menschliche-aufsicht.docx) | Art. 14 KI-VO Aufsichtsdefizit — Kernbefund der Prüfung |
+| 10 | [`10-art-15-genauigkeit-robustheit-cybersicherheit.docx`](10-art-15-genauigkeit-robustheit-cybersicherheit.docx) | Art. 15 KI-VO Accuracy, Robustheit, Cybersicherheit |
+| 11 | [`11-art-16-pflichten-anbieter.docx`](11-art-16-pflichten-anbieter.docx) | Art. 16 KI-VO Anbieterpflichten — Gesamtübersicht |
+| 12 | [`12-art-43-konformitaetsbewertung.docx`](12-art-43-konformitaetsbewertung.docx) | Art. 43 KI-VO Konformitätsbewertungsverfahren |
+| 13 | [`13-art-47-eu-konformitaetserklaerung.docx`](13-art-47-eu-konformitaetserklaerung.docx) | Art. 47 KI-VO EU-Konformitätserklärung — Entwurf und Analyse |
+| 14 | [`14-art-48-ce-kennzeichnung.docx`](14-art-48-ce-kennzeichnung.docx) | Art. 48 KI-VO CE-Kennzeichnung — Koordination mit MDR |
+| 15 | [`15-art-49-registrierung-eu-datenbank.docx`](15-art-49-registrierung-eu-datenbank.docx) | Art. 49 KI-VO EU-Datenbank EUID, Registrierungsstatus |
+| 16 | [`16-grenzwerte-mdr-2017-745-schnittstelle.docx`](16-grenzwerte-mdr-2017-745-schnittstelle.docx) | MDR (EU) 2017/745 Klasse IIb, Notified Body, Doppelkonformität |
+| 17 | [`17-marktueberwachung-bnetza-zustaendigkeit.docx`](17-marktueberwachung-bnetza-zustaendigkeit.docx) | BNetzA Marktüberwachung KI-VO, Verfahrensstand, Auskunftspflicht |
+| 18 | [`18-bafin-finanzaufsicht-schnittstelle.docx`](18-bafin-finanzaufsicht-schnittstelle.docx) | Berührungspunkte mit Finanzaufsicht, Datenschutz Klinik |
+| 19 | [`19-gpai-baseline-llm-komponente.docx`](19-gpai-baseline-llm-komponente.docx) | GPAI-Analyse Llama-Adaptation, Art. 53 KI-VO, Systemcard |
+| 20 | [`20-handlungsplan-feststellungen.docx`](20-handlungsplan-feststellungen.docx) | Maßnahmenkatalog, Prioritäten, Fristen, Verantwortliche |
+| 21 | [`21-interne-mandantenpraesentation.docx`](21-interne-mandantenpraesentation.docx) | Vorstandspräsentation — Kurzfassung aller Befunde |
+| 22 | [`22-abschlussvermerk-rechtsanwalt.docx`](22-abschlussvermerk-rechtsanwalt.docx) | Rechtliches Gesamturteil, Haftungseinschätzung, Signatur |
 
 ---
 

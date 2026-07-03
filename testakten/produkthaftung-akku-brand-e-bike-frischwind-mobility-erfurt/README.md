@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 424 KB) | PDF | [`gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf`](gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 420 KB) | PDF | [`gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf`](gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt-einzelpdfs.zip) |
 
@@ -63,28 +63,28 @@ Arbeitsakte zum Plugin `produktrecht` mit Schwerpunkten Produktsicherheit, CE-Ko
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-frischwind.md`](01-mandatsuebernahme-frischwind.md) | Kanzleinotiz Erstgespräch, Vollmacht, Interessenkonflikt |
-| 02 | [`02-produktbeschreibung-e-bike-wind-x7.md`](02-produktbeschreibung-e-bike-wind-x7.md) | Technische Produktbeschreibung Wind-X7, Akku-Spezifikation |
-| 03 | [`03-stoerfallchronik-akku-braende-2025-2026.md`](03-stoerfallchronik-akku-braende-2025-2026.md) | Chronik aller dokumentierten Vorfälle |
-| 04 | [`04-vorfall-1-koepenick-totalbrand-wohnung.md`](04-vorfall-1-koepenick-totalbrand-wohnung.md) | Vorfall 1 — Berlin-Köpenick, 14.03.2025, Personenschaden |
-| 05 | [`05-vorfall-2-leipzig-akku-explosion-fahrt.md`](05-vorfall-2-leipzig-akku-explosion-fahrt.md) | Vorfall 2 — Leipzig, 07.08.2025, Explosion während Fahrt |
-| 06 | [`06-vorfall-3-stuttgart-leichte-rauchentwicklung.md`](06-vorfall-3-stuttgart-leichte-rauchentwicklung.md) | Vorfall 3 — Stuttgart, 02.01.2026, Rauchentwicklung Keller |
-| 07 | [`07-ce-konformitaetsbewertung-pruefung.md`](07-ce-konformitaetsbewertung-pruefung.md) | CE-Konformitätsbewertungsverfahren, benannte Stelle |
-| 08 | [`08-en-15194-pedelec-konformitaet.md`](08-en-15194-pedelec-konformitaet.md) | EN 15194:2017 Pedelec-Norm, Prüfbericht, Abweichungen |
-| 09 | [`09-2006-42-eg-maschinenrichtlinie.md`](09-2006-42-eg-maschinenrichtlinie.md) | Maschinenrichtlinie 2006/42/EG, Anhang I, technische Dokumentation |
-| 10 | [`10-zellanalyse-bms-firmware-bug.md`](10-zellanalyse-bms-firmware-bug.md) | BMS-Firmware-Bug V3.9.1, Sachverständigengutachten, Zellanalyse |
-| 11 | [`11-rapex-meldung-pflichten.md`](11-rapex-meldung-pflichten.md) | RAPEX-Meldepflicht, Fristversäumnis 47 Tage, Konsequenzen |
-| 12 | [`12-marktueberwachung-bnetza-mfs.md`](12-marktueberwachung-bnetza-mfs.md) | BNetzA MFS-2026-RAPEX-1188, Untersagungsdrohung, Widerspruch |
-| 13 | [`13-produktrueckruf-strategie.md`](13-produktrueckruf-strategie.md) | Freiwilliger Rückruf, Rückrufkonzept, Kostenprognose |
-| 14 | [`14-stakeholder-haendlerkommunikation.md`](14-stakeholder-haendlerkommunikation.md) | Händleranschreiben, Rückgabeprotokoll, Vertragshändler-Netz |
-| 15 | [`15-presseerklaerung-vorstand.md`](15-presseerklaerung-vorstand.md) | Presserklärung Sven Frischwind, Krisenkommunikation |
-| 16 | [`16-produkthaftpflichtversicherung-anzeige.md`](16-produkthaftpflichtversicherung-anzeige.md) | Allianz-Anzeige, Deckungsverweigerung, Obliegenheitsverletzung |
-| 17 | [`17-schmerzensgeldforderung-geschaedigter-1-bgh.md`](17-schmerzensgeldforderung-geschaedigter-1-bgh.md) | 280.000 EUR Forderung Raskolnikow, ProdHaftG, BGH-Rspr. |
-| 18 | [`18-prodhaftg-stellungnahme-fertigungsfehler.md`](18-prodhaftg-stellungnahme-fertigungsfehler.md) | § 1, § 3 ProdHaftG, Fertigungsfehler-Analyse, Regressansprüche |
-| 19 | [`19-strafverfahren-eroeffnung-fahrlaessige-koerperverletzung.md`](19-strafverfahren-eroeffnung-fahrlaessige-koerperverletzung.md) | StA Erfurt 188 Js 4711/26, § 229 StGB, Verteidigung CTO |
-| 20 | [`20-gewerbeaufsicht-untersagung-vorlaeufig.md`](20-gewerbeaufsicht-untersagung-vorlaeufig.md) | Gewerbeaufsicht Thüringen, vorläufige Untersagung § 35 GewO |
-| 21 | [`21-redesign-bms-firmware-v4-3.md`](21-redesign-bms-firmware-v4-3.md) | BMS-Firmware V4.3, technisches Redesign, Freigabe-Roadmap |
-| 22 | [`22-abschlussvermerk-anwalt.md`](22-abschlussvermerk-anwalt.md) | Abschlussvermerk RA Roosendaal, Gesamtstrategie, Vergleich |
+| 01 | [`01-mandatsuebernahme-frischwind.docx`](01-mandatsuebernahme-frischwind.docx) | Kanzleinotiz Erstgespräch, Vollmacht, Interessenkonflikt |
+| 02 | [`02-produktbeschreibung-e-bike-wind-x7.docx`](02-produktbeschreibung-e-bike-wind-x7.docx) | Technische Produktbeschreibung Wind-X7, Akku-Spezifikation |
+| 03 | [`03-stoerfallchronik-akku-braende-2025-2026.docx`](03-stoerfallchronik-akku-braende-2025-2026.docx) | Chronik aller dokumentierten Vorfälle |
+| 04 | [`04-vorfall-1-koepenick-totalbrand-wohnung.docx`](04-vorfall-1-koepenick-totalbrand-wohnung.docx) | Vorfall 1 — Berlin-Köpenick, 14.03.2025, Personenschaden |
+| 05 | [`05-vorfall-2-leipzig-akku-explosion-fahrt.docx`](05-vorfall-2-leipzig-akku-explosion-fahrt.docx) | Vorfall 2 — Leipzig, 07.08.2025, Explosion während Fahrt |
+| 06 | [`06-vorfall-3-stuttgart-leichte-rauchentwicklung.docx`](06-vorfall-3-stuttgart-leichte-rauchentwicklung.docx) | Vorfall 3 — Stuttgart, 02.01.2026, Rauchentwicklung Keller |
+| 07 | [`07-ce-konformitaetsbewertung-pruefung.docx`](07-ce-konformitaetsbewertung-pruefung.docx) | CE-Konformitätsbewertungsverfahren, benannte Stelle |
+| 08 | [`08-en-15194-pedelec-konformitaet.docx`](08-en-15194-pedelec-konformitaet.docx) | EN 15194:2017 Pedelec-Norm, Prüfbericht, Abweichungen |
+| 09 | [`09-2006-42-eg-maschinenrichtlinie.docx`](09-2006-42-eg-maschinenrichtlinie.docx) | Maschinenrichtlinie 2006/42/EG, Anhang I, technische Dokumentation |
+| 10 | [`10-zellanalyse-bms-firmware-bug.docx`](10-zellanalyse-bms-firmware-bug.docx) | BMS-Firmware-Bug V3.9.1, Sachverständigengutachten, Zellanalyse |
+| 11 | [`11-rapex-meldung-pflichten.docx`](11-rapex-meldung-pflichten.docx) | RAPEX-Meldepflicht, Fristversäumnis 47 Tage, Konsequenzen |
+| 12 | [`12-marktueberwachung-bnetza-mfs.docx`](12-marktueberwachung-bnetza-mfs.docx) | BNetzA MFS-2026-RAPEX-1188, Untersagungsdrohung, Widerspruch |
+| 13 | [`13-produktrueckruf-strategie.docx`](13-produktrueckruf-strategie.docx) | Freiwilliger Rückruf, Rückrufkonzept, Kostenprognose |
+| 14 | [`14-stakeholder-haendlerkommunikation.docx`](14-stakeholder-haendlerkommunikation.docx) | Händleranschreiben, Rückgabeprotokoll, Vertragshändler-Netz |
+| 15 | [`15-presseerklaerung-vorstand.docx`](15-presseerklaerung-vorstand.docx) | Presserklärung Sven Frischwind, Krisenkommunikation |
+| 16 | [`16-produkthaftpflichtversicherung-anzeige.docx`](16-produkthaftpflichtversicherung-anzeige.docx) | Allianz-Anzeige, Deckungsverweigerung, Obliegenheitsverletzung |
+| 17 | [`17-schmerzensgeldforderung-geschaedigter-1-bgh.docx`](17-schmerzensgeldforderung-geschaedigter-1-bgh.docx) | 280.000 EUR Forderung Raskolnikow, ProdHaftG, BGH-Rspr. |
+| 18 | [`18-prodhaftg-stellungnahme-fertigungsfehler.docx`](18-prodhaftg-stellungnahme-fertigungsfehler.docx) | § 1, § 3 ProdHaftG, Fertigungsfehler-Analyse, Regressansprüche |
+| 19 | [`19-strafverfahren-eroeffnung-fahrlaessige-koerperverletzung.docx`](19-strafverfahren-eroeffnung-fahrlaessige-koerperverletzung.docx) | StA Erfurt 188 Js 4711/26, § 229 StGB, Verteidigung CTO |
+| 20 | [`20-gewerbeaufsicht-untersagung-vorlaeufig.docx`](20-gewerbeaufsicht-untersagung-vorlaeufig.docx) | Gewerbeaufsicht Thüringen, vorläufige Untersagung § 35 GewO |
+| 21 | [`21-redesign-bms-firmware-v4-3.docx`](21-redesign-bms-firmware-v4-3.docx) | BMS-Firmware V4.3, technisches Redesign, Freigabe-Roadmap |
+| 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk RA Roosendaal, Gesamtstrategie, Vergleich |
 
 ---
 

@@ -53,17 +53,17 @@ checks:
   - id: r10-eugh-bonprix-im-dsgvo-skill
     check_type: text_contains
     description: "DSGVO-Analyse referenziert EuGH C-732/22 (Bonprix)"
-    path: "07_kundendaten-dsgvo-analyse.md"
+    path: "07_kundendaten-dsgvo-analyse.docx"
     contains: "C-732/22"
 
   - id: r11-paragraf-160-inso-im-glaeubigerausschuss
     check_type: text_contains
     description: "Glaeubigerausschuss-Beschluss verweist auf $ 160 InsO"
-    path: "06_glaeubigerausschuss-zustimmung-160-inso.md"
+    path: "06_glaeubigerausschuss-zustimmung-160-inso.docx"
     contains: "160"
 
   - id: r12-paragraf-613a-im-arbeitnehmer-skill
     check_type: text_contains
     description: "Arbeitnehmer-Skill referenziert $ 613a BGB"
-    path: "08_betriebsuebergang-613a-bgb.md"
+    path: "08_betriebsuebergang-613a-bgb.docx"
     contains: "613a"

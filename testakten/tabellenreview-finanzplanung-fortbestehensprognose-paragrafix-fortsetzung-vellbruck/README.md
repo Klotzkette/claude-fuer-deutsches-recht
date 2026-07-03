@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 545 KB) | PDF | [`gesamt-pdf/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck_gesamt.pdf`](gesamt-pdf/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 536 KB) | PDF | [`gesamt-pdf/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck_gesamt.pdf`](gesamt-pdf/tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tabellenreview-finanzplanung-fortbestehensprognose-paragrafix-fortsetzung-vellbruck-einzelpdfs.zip) |
 
@@ -58,28 +58,28 @@ Arbeitsakte zum Plugin `tabellenreview-3d`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-paragrafix-reviewauftrag.md`](01-mandatsuebernahme-paragrafix-reviewauftrag.md) | Auftragsannahme, Mandatsbedingungen, Unabhängigkeit |
-| 02 | [`02-modellbeschreibung-fortbestehensprognose.md`](02-modellbeschreibung-fortbestehensprognose.md) | Modellzweck, Prognoserahmen, Parametrisierung |
-| 03 | [`03-modellarchitektur-eingangsblaetter-rechenblaetter-ausgabe.md`](03-modellarchitektur-eingangsblaetter-rechenblaetter-ausgabe.md) | 18-Sheet-Architektur, Datenflüsse, Blattübersicht |
-| 04 | [`04-versionierung-uebersicht-v18-v23.md`](04-versionierung-uebersicht-v18-v23.md) | Versionshistorie v18–v23, Änderungsmatrix |
-| 05 | [`05-review-axe-1-konsistenz-quer-bezuege.md`](05-review-axe-1-konsistenz-quer-bezuege.md) | Querbezugsprüfung, Blatt-zu-Blatt-Konsistenz |
-| 06 | [`06-review-axe-2-plausibilitaet-zahlenstamm.md`](06-review-axe-2-plausibilitaet-zahlenstamm.md) | Plausibilitätstests, Benchmarks, Branchenwerte |
-| 07 | [`07-review-axe-3-formelarchitektur-zirkularitaet.md`](07-review-axe-3-formelarchitektur-zirkularitaet.md) | Formelprüfung, Zirkularbezüge, Namenskonventionen |
-| 08 | [`08-finding-1-zirkularer-bezug-cashflow-zinsen.md`](08-finding-1-zirkularer-bezug-cashflow-zinsen.md) | Finding 1: Zirkulärer Bezug CF/Zinsen — kritisch |
-| 09 | [`09-finding-2-hardcoded-werte-statt-formel.md`](09-finding-2-hardcoded-werte-statt-formel.md) | Finding 2: 47 hardcoded Werte in Rechenbereichen |
-| 10 | [`10-finding-3-falsche-summenformel-bilanzsumme.md`](10-finding-3-falsche-summenformel-bilanzsumme.md) | Finding 3: Fehlerhafter SUM-Bereich Bilanzsumme |
-| 11 | [`11-finding-4-veraltete-prognoseannahmen-zins.md`](11-finding-4-veraltete-prognoseannahmen-zins.md) | Finding 4: Zinsannahme v22→v23 manuell gedrückt |
-| 12 | [`12-finding-5-doppelte-buchungen-rueckstellung.md`](12-finding-5-doppelte-buchungen-rueckstellung.md) | Finding 5: Doppelte Rückstellungsbuchung Pensions |
-| 13 | [`13-finding-6-versteckte-blaetter-mit-restposten.md`](13-finding-6-versteckte-blaetter-mit-restposten.md) | Finding 6: 2 versteckte Sheets, Restpostenproblematik |
-| 14 | [`14-finding-7-fehlende-quellen-szenarioparameter.md`](14-finding-7-fehlende-quellen-szenarioparameter.md) | Finding 7: Szenarioparameter ohne Quellenangabe |
-| 15 | [`15-finding-8-fehlende-szenariorechnung-stress.md`](15-finding-8-fehlende-szenariorechnung-stress.md) | Finding 8: Stress-/Downside-Szenario fehlt komplett |
-| 16 | [`16-finding-9-abweichende-makro-ausfuehrung.md`](16-finding-9-abweichende-makro-ausfuehrung.md) | Finding 9: VBA-Makro überschreibt manuell Sollwerte |
-| 17 | [`17-finding-10-iddw-s-11-konformitaet-fortbestehensprognose.md`](17-finding-10-iddw-s-11-konformitaet-fortbestehensprognose.md) | Finding 10: IDW-S-11-Konformitätslücken |
-| 18 | [`18-handlungsempfehlungen-roadmap-fix.md`](18-handlungsempfehlungen-roadmap-fix.md) | Fix-Roadmap, Prioritäten, Zeitplan, Verantwortliche |
-| 19 | [`19-vergleichsreview-v22-vs-v23.md`](19-vergleichsreview-v22-vs-v23.md) | Detaillierter Diff v22/v23, Manipulationsverdacht |
-| 20 | [`20-stellungnahme-an-geschaeftsfuehrung.md`](20-stellungnahme-an-geschaeftsfuehrung.md) | Formelle Stellungnahme WP an GF/CFO |
-| 21 | [`21-protokoll-review-workshop.md`](21-protokoll-review-workshop.md) | Protokoll Review-Workshop 14.01.2026 |
-| 22 | [`22-abschlussvermerk-reviewer.md`](22-abschlussvermerk-reviewer.md) | Abschlussvermerk, Einschränkungen, Votum |
+| 01 | [`01-mandatsuebernahme-paragrafix-reviewauftrag.docx`](01-mandatsuebernahme-paragrafix-reviewauftrag.docx) | Auftragsannahme, Mandatsbedingungen, Unabhängigkeit |
+| 02 | [`02-modellbeschreibung-fortbestehensprognose.docx`](02-modellbeschreibung-fortbestehensprognose.docx) | Modellzweck, Prognoserahmen, Parametrisierung |
+| 03 | [`03-modellarchitektur-eingangsblaetter-rechenblaetter-ausgabe.docx`](03-modellarchitektur-eingangsblaetter-rechenblaetter-ausgabe.docx) | 18-Sheet-Architektur, Datenflüsse, Blattübersicht |
+| 04 | [`04-versionierung-uebersicht-v18-v23.docx`](04-versionierung-uebersicht-v18-v23.docx) | Versionshistorie v18–v23, Änderungsmatrix |
+| 05 | [`05-review-axe-1-konsistenz-quer-bezuege.docx`](05-review-axe-1-konsistenz-quer-bezuege.docx) | Querbezugsprüfung, Blatt-zu-Blatt-Konsistenz |
+| 06 | [`06-review-axe-2-plausibilitaet-zahlenstamm.docx`](06-review-axe-2-plausibilitaet-zahlenstamm.docx) | Plausibilitätstests, Benchmarks, Branchenwerte |
+| 07 | [`07-review-axe-3-formelarchitektur-zirkularitaet.docx`](07-review-axe-3-formelarchitektur-zirkularitaet.docx) | Formelprüfung, Zirkularbezüge, Namenskonventionen |
+| 08 | [`08-finding-1-zirkularer-bezug-cashflow-zinsen.docx`](08-finding-1-zirkularer-bezug-cashflow-zinsen.docx) | Finding 1: Zirkulärer Bezug CF/Zinsen — kritisch |
+| 09 | [`09-finding-2-hardcoded-werte-statt-formel.docx`](09-finding-2-hardcoded-werte-statt-formel.docx) | Finding 2: 47 hardcoded Werte in Rechenbereichen |
+| 10 | [`10-finding-3-falsche-summenformel-bilanzsumme.docx`](10-finding-3-falsche-summenformel-bilanzsumme.docx) | Finding 3: Fehlerhafter SUM-Bereich Bilanzsumme |
+| 11 | [`11-finding-4-veraltete-prognoseannahmen-zins.docx`](11-finding-4-veraltete-prognoseannahmen-zins.docx) | Finding 4: Zinsannahme v22→v23 manuell gedrückt |
+| 12 | [`12-finding-5-doppelte-buchungen-rueckstellung.docx`](12-finding-5-doppelte-buchungen-rueckstellung.docx) | Finding 5: Doppelte Rückstellungsbuchung Pensions |
+| 13 | [`13-finding-6-versteckte-blaetter-mit-restposten.docx`](13-finding-6-versteckte-blaetter-mit-restposten.docx) | Finding 6: 2 versteckte Sheets, Restpostenproblematik |
+| 14 | [`14-finding-7-fehlende-quellen-szenarioparameter.docx`](14-finding-7-fehlende-quellen-szenarioparameter.docx) | Finding 7: Szenarioparameter ohne Quellenangabe |
+| 15 | [`15-finding-8-fehlende-szenariorechnung-stress.docx`](15-finding-8-fehlende-szenariorechnung-stress.docx) | Finding 8: Stress-/Downside-Szenario fehlt komplett |
+| 16 | [`16-finding-9-abweichende-makro-ausfuehrung.docx`](16-finding-9-abweichende-makro-ausfuehrung.docx) | Finding 9: VBA-Makro überschreibt manuell Sollwerte |
+| 17 | [`17-finding-10-iddw-s-11-konformitaet-fortbestehensprognose.docx`](17-finding-10-iddw-s-11-konformitaet-fortbestehensprognose.docx) | Finding 10: IDW-S-11-Konformitätslücken |
+| 18 | [`18-handlungsempfehlungen-roadmap-fix.docx`](18-handlungsempfehlungen-roadmap-fix.docx) | Fix-Roadmap, Prioritäten, Zeitplan, Verantwortliche |
+| 19 | [`19-vergleichsreview-v22-vs-v23.docx`](19-vergleichsreview-v22-vs-v23.docx) | Detaillierter Diff v22/v23, Manipulationsverdacht |
+| 20 | [`20-stellungnahme-an-geschaeftsfuehrung.docx`](20-stellungnahme-an-geschaeftsfuehrung.docx) | Formelle Stellungnahme WP an GF/CFO |
+| 21 | [`21-protokoll-review-workshop.docx`](21-protokoll-review-workshop.docx) | Protokoll Review-Workshop 14.01.2026 |
+| 22 | [`22-abschlussvermerk-reviewer.docx`](22-abschlussvermerk-reviewer.docx) | Abschlussvermerk, Einschränkungen, Votum |
 
 ---
 

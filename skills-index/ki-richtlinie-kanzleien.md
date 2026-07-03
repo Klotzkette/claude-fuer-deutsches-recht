@@ -1,6 +1,6 @@
 # ki-richtlinie-kanzleien
 
-**59 Skills** · Stand `v417.0.0`
+**59 Skills** · Stand `v418.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-richtlinie-kanzleien/README.md)

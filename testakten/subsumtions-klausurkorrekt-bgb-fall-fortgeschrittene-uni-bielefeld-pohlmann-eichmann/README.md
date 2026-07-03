@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 482 KB) | PDF | [`gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf`](gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 477 KB) | PDF | [`gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf`](gesamt-pdf/subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-subsumtions-klausurkorrekt-bgb-fall-fortgeschrittene-uni-bielefeld-pohlmann-eichmann-einzelpdfs.zip) |
 
@@ -52,28 +52,28 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.md`](01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.md) | Originalfall, Sachverhalt, Bearbeitungshinweise |
+| 01 | [`01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.docx`](01-uebung-fortgeschrittene-fall-radarwarner-und-eigentumserwerb.docx) | Originalfall, Sachverhalt, Bearbeitungshinweise |
 | 02 | [`02-musterloesung-lehrstuhl-pohlmann.md`](02-musterloesung-lehrstuhl-pohlmann.md) | Vollständige Musterlösung im Gutachtenstil |
-| 03 | [`03-bewertungsbogen-fuer-pruefer.md`](03-bewertungsbogen-fuer-pruefer.md) | Bewertungsschema, Gewichtung, Korrekturnormen |
-| 04 | [`04-klausur-01-eichmann-bewertung.md`](04-klausur-01-eichmann-bewertung.md) | Klara Eichmann: 16 Punkte, Einzelbewertung |
-| 05 | [`05-klausur-02-tannenfels-bewertung.md`](05-klausur-02-tannenfels-bewertung.md) | Sven Tannenfels: 10 Punkte, Einzelbewertung |
-| 06 | [`06-klausur-03-roosendaal-bewertung.md`](06-klausur-03-roosendaal-bewertung.md) | Andreas Roosendaal: 7 Punkte, Einzelbewertung |
-| 07 | [`07-klausur-04-wittfeldt-bewertung.md`](07-klausur-04-wittfeldt-bewertung.md) | Heike Wittfeldt: 22 Punkte, Einzelbewertung |
-| 08 | [`08-klausur-05-birkenhain-bewertung.md`](08-klausur-05-birkenhain-bewertung.md) | Konrad Birkenhain: 4 Punkte, Durchfall, Anfechtungsankündigung |
-| 09 | [`09-fehlerinventar-klausuren-1-5.md`](09-fehlerinventar-klausuren-1-5.md) | Fehlerüberblick, Typisierung, Häufigkeiten |
-| 10 | [`10-fehlertyp-1-anspruchsgrundlagen-falsch-gewaehlt.md`](10-fehlertyp-1-anspruchsgrundlagen-falsch-gewaehlt.md) | Fehlertyp 1: falsche oder fehlende Anspruchsgrundlage |
-| 11 | [`11-fehlertyp-2-streitstandsuebersehung.md`](11-fehlertyp-2-streitstandsuebersehung.md) | Fehlertyp 2: Streitstand nicht erkannt oder nicht behandelt |
-| 12 | [`12-fehlertyp-3-falsches-tatbestandsmerkmal.md`](12-fehlertyp-3-falsches-tatbestandsmerkmal.md) | Fehlertyp 3: falsches oder übersehenes Tatbestandsmerkmal |
-| 13 | [`13-fehlertyp-4-subsumtions-zirkularitaet.md`](13-fehlertyp-4-subsumtions-zirkularitaet.md) | Fehlertyp 4: Zirkelschluss in der Subsumtion |
-| 14 | [`14-fehlertyp-5-gutachtenstil-verletzt.md`](14-fehlertyp-5-gutachtenstil-verletzt.md) | Fehlertyp 5: Feststellungsstil statt Gutachtenstil |
-| 15 | [`15-bgh-bezugsrechtsprechung-vii-zr-235-15.md`](15-bgh-bezugsrechtsprechung-vii-zr-235-15.md) | BGH VII ZR 235/15 — Schwarzarbeit, § 134 BGB, Rechtsfolgen |
-| 16 | [`16-strittiger-meinungsstand-larenz-vs-medicus.md`](16-strittiger-meinungsstand-larenz-vs-medicus.md) | Meinungsstreit Larenz/Medicus zur Geschäftsgrundlage und § 138 BGB |
-| 17 | [`17-uebung-folgeklausur-mit-aufbauplan.md`](17-uebung-folgeklausur-mit-aufbauplan.md) | Folgeklausur-Entwurf, Aufbauplan für Klausuranten |
-| 18 | [`18-uebung-musterklausur-wittfeldt-22-punkte.md`](18-uebung-musterklausur-wittfeldt-22-punkte.md) | Wittfeldts Klausur als Musterexemplar (anonymisiert) |
-| 19 | [`19-feedback-an-klausuranten.md`](19-feedback-an-klausuranten.md) | Individuelles Feedback, Gesprächsleitfaden |
-| 20 | [`20-uebungs-leitlinien-naechstes-semester.md`](20-uebungs-leitlinien-naechstes-semester.md) | Konsequenzen aus SS 2026 für WS 2026/27 |
-| 21 | [`21-pruefungsamt-statistik-durchfallquote-32-prozent.md`](21-pruefungsamt-statistik-durchfallquote-32-prozent.md) | Prüfungsamtsstatistik, Notenverteilung, Durchfallquote 32 Prozent |
-| 22 | [`22-abschlussvermerk-lehrstuhl.md`](22-abschlussvermerk-lehrstuhl.md) | Abschlussvermerk, Birkenhain-Anfechtung, Archivierung |
+| 03 | [`03-bewertungsbogen-fuer-pruefer.docx`](03-bewertungsbogen-fuer-pruefer.docx) | Bewertungsschema, Gewichtung, Korrekturnormen |
+| 04 | [`04-klausur-01-eichmann-bewertung.docx`](04-klausur-01-eichmann-bewertung.docx) | Klara Eichmann: 16 Punkte, Einzelbewertung |
+| 05 | [`05-klausur-02-tannenfels-bewertung.docx`](05-klausur-02-tannenfels-bewertung.docx) | Sven Tannenfels: 10 Punkte, Einzelbewertung |
+| 06 | [`06-klausur-03-roosendaal-bewertung.docx`](06-klausur-03-roosendaal-bewertung.docx) | Andreas Roosendaal: 7 Punkte, Einzelbewertung |
+| 07 | [`07-klausur-04-wittfeldt-bewertung.docx`](07-klausur-04-wittfeldt-bewertung.docx) | Heike Wittfeldt: 22 Punkte, Einzelbewertung |
+| 08 | [`08-klausur-05-birkenhain-bewertung.docx`](08-klausur-05-birkenhain-bewertung.docx) | Konrad Birkenhain: 4 Punkte, Durchfall, Anfechtungsankündigung |
+| 09 | [`09-fehlerinventar-klausuren-1-5.docx`](09-fehlerinventar-klausuren-1-5.docx) | Fehlerüberblick, Typisierung, Häufigkeiten |
+| 10 | [`10-fehlertyp-1-anspruchsgrundlagen-falsch-gewaehlt.docx`](10-fehlertyp-1-anspruchsgrundlagen-falsch-gewaehlt.docx) | Fehlertyp 1: falsche oder fehlende Anspruchsgrundlage |
+| 11 | [`11-fehlertyp-2-streitstandsuebersehung.docx`](11-fehlertyp-2-streitstandsuebersehung.docx) | Fehlertyp 2: Streitstand nicht erkannt oder nicht behandelt |
+| 12 | [`12-fehlertyp-3-falsches-tatbestandsmerkmal.docx`](12-fehlertyp-3-falsches-tatbestandsmerkmal.docx) | Fehlertyp 3: falsches oder übersehenes Tatbestandsmerkmal |
+| 13 | [`13-fehlertyp-4-subsumtions-zirkularitaet.docx`](13-fehlertyp-4-subsumtions-zirkularitaet.docx) | Fehlertyp 4: Zirkelschluss in der Subsumtion |
+| 14 | [`14-fehlertyp-5-gutachtenstil-verletzt.docx`](14-fehlertyp-5-gutachtenstil-verletzt.docx) | Fehlertyp 5: Feststellungsstil statt Gutachtenstil |
+| 15 | [`15-bgh-bezugsrechtsprechung-vii-zr-235-15.docx`](15-bgh-bezugsrechtsprechung-vii-zr-235-15.docx) | BGH VII ZR 235/15 — Schwarzarbeit, § 134 BGB, Rechtsfolgen |
+| 16 | [`16-strittiger-meinungsstand-larenz-vs-medicus.docx`](16-strittiger-meinungsstand-larenz-vs-medicus.docx) | Meinungsstreit Larenz/Medicus zur Geschäftsgrundlage und § 138 BGB |
+| 17 | [`17-uebung-folgeklausur-mit-aufbauplan.docx`](17-uebung-folgeklausur-mit-aufbauplan.docx) | Folgeklausur-Entwurf, Aufbauplan für Klausuranten |
+| 18 | [`18-uebung-musterklausur-wittfeldt-22-punkte.docx`](18-uebung-musterklausur-wittfeldt-22-punkte.docx) | Wittfeldts Klausur als Musterexemplar (anonymisiert) |
+| 19 | [`19-feedback-an-klausuranten.docx`](19-feedback-an-klausuranten.docx) | Individuelles Feedback, Gesprächsleitfaden |
+| 20 | [`20-uebungs-leitlinien-naechstes-semester.docx`](20-uebungs-leitlinien-naechstes-semester.docx) | Konsequenzen aus SS 2026 für WS 2026/27 |
+| 21 | [`21-pruefungsamt-statistik-durchfallquote-32-prozent.docx`](21-pruefungsamt-statistik-durchfallquote-32-prozent.docx) | Prüfungsamtsstatistik, Notenverteilung, Durchfallquote 32 Prozent |
+| 22 | [`22-abschlussvermerk-lehrstuhl.docx`](22-abschlussvermerk-lehrstuhl.docx) | Abschlussvermerk, Birkenhain-Anfechtung, Archivierung |
 
 ---
 

@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 371 KB) | PDF | [`gesamt-pdf/wirtschaftsstrafsache-uhaft-bankert-frankfurt_gesamt.pdf`](gesamt-pdf/wirtschaftsstrafsache-uhaft-bankert-frankfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 363 KB) | PDF | [`gesamt-pdf/wirtschaftsstrafsache-uhaft-bankert-frankfurt_gesamt.pdf`](gesamt-pdf/wirtschaftsstrafsache-uhaft-bankert-frankfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wirtschaftsstrafsache-uhaft-bankert-frankfurt-einzelpdfs.zip) |
 
@@ -63,28 +63,28 @@ Arbeitsakte zum Plugin `fachanwalt-strafrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_aktenvorblatt_marx_strafverteidigung.md`](01_aktenvorblatt_marx_strafverteidigung.md) | Aktenvorblatt, Mandatsdaten, Tatvorwürfe-Überblick, Verfahrensstand, Fristen |
-| 02 | [`02_haftbefehl_lg_frankfurt_28_ks_122_25.md`](02_haftbefehl_lg_frankfurt_28_ks_122_25.md) | Haftbefehl LG Frankfurt (Auszug, redigiert) — Tatvorwürfe, Haftgründe, Vollzug |
-| 03 | [`03_anklageschrift_staatsanwaltschaft_auszug.md`](03_anklageschrift_staatsanwaltschaft_auszug.md) | Anklageschrift StA Frankfurt (Auszug) — Wesentliches Ergebnis der Ermittlungen |
-| 04 | [`04_kanzleinotiz_haftbesuch_jva_frankfurt_i.md`](04_kanzleinotiz_haftbesuch_jva_frankfurt_i.md) | Kanzleinotiz Haftbesuch JVA Frankfurt I, 28.04.2025 — Mandantenangaben, Strategie |
-| 05 | [`05_akteneinsichts_antrag_marx.md`](05_akteneinsichts_antrag_marx.md) | Antrag auf Akteneinsicht § 147 StPO, Schriftsatz Dr. Marx an StA Frankfurt |
-| 06 | [`06_zeugenaussage_pollmann_widersprueche.md`](06_zeugenaussage_pollmann_widersprueche.md) | Auswertung Zeuge Pollmann — vier dokumentierte Widersprüche in V1/V2/V3 |
-| 07 | [`07_zeugenaussage_kohlrausch_widersprueche.md`](07_zeugenaussage_kohlrausch_widersprueche.md) | Auswertung Zeugin Kohlrausch — Motivlage, Widersprüche, Eigenstrafbarkeit |
-| 08 | [`08_beweisantrag_sachverstaendiger_maschinenbewertung.md`](08_beweisantrag_sachverstaendiger_maschinenbewertung.md) | Beweisantrag § 244 Abs. 3 StPO auf Gegengutachten Maschinenbewertung |
-| 09 | [`09_durchsuchungsbeschluss_kanzleiraeume.md`](09_durchsuchungsbeschluss_kanzleiraeume.md) | Durchsuchungsbeschluss AG Frankfurt, 10.03.2025 — Kanzleiräume Marx |
-| 10 | [`10_widerspruch_mandatsdaten_53_stpo.md`](10_widerspruch_mandatsdaten_53_stpo.md) | Widerspruch gegen Sicherstellung — § 97, § 148 StPO, BVerfG-Linie |
-| 11 | [`11_verstaendigungsangebot_staatsanwaltschaft.md`](11_verstaendigungsangebot_staatsanwaltschaft.md) | Verständigungsangebot StA § 257c StPO + interner Bewertungsvermerk Dr. Marx |
-| 12 | [`12_haftbeschwerde_117_stpo.md`](12_haftbeschwerde_117_stpo.md) | Haftbeschwerde §§ 304, 117 StPO — vollständiger Schriftsatz, § 116-Antrag |
-| 13 | [`13_nebenklage_abc_grossabnehmer.md`](13_nebenklage_abc_grossabnehmer.md) | Nebenklage ABC Großabnehmer SE — §§ 395, 396 StPO, Zulässigkeit, Strategie |
-| 14 | [`14_steuerhinterziehung_betragsberechnung.md`](14_steuerhinterziehung_betragsberechnung.md) | § 370 AO — Berechnung VZ 2019–2022, Anklage vs. Verteidigung, § 371 AO |
-| 15 | [`15_treuhandvertrag_liechtenstein_anlage_b14.md`](15_treuhandvertrag_liechtenstein_anlage_b14.md) | Treuhandvertrag Anlage B14 — Echtheitsfrage, Gegengutachten, § 266 StGB |
-| 16 | [`16_mandantenbrief_marx_an_bankert.md`](16_mandantenbrief_marx_an_bankert.md) | Mandantenbrief Dr. Marx an Bankert (JVA) — Verfahrensstand, Verständigung |
-| 17 | [`17_email_korrespondenz_marx_staatsanwaltschaft.md`](17_email_korrespondenz_marx_staatsanwaltschaft.md) | Übersicht E-Mail-Korrespondenz mit Inhaltsangaben (Verweise auf eml/) |
-| 18 | [`18_pressemitteilung_staatsanwaltschaft_redacted.md`](18_pressemitteilung_staatsanwaltschaft_redacted.md) | Pressemitteilung StA Frankfurt Nr. 12/2025 (redigiert) + Kanzleivermerk |
-| 19 | [`19_einlassung_entwurf_bankert.md`](19_einlassung_entwurf_bankert.md) | Einlassung des Angeklagten — Entwurf (intern, nicht autorisiert) |
-| 20 | [`20_adhaesionsantrag_abc_3_8_mio.md`](20_adhaesionsantrag_abc_3_8_mio.md) | Adäsionsantrag ABC SE 3.800.000 EUR — §§ 403 ff. StPO, Gegenstrategie |
-| 21 | [`21_kanzleinotiz_strategiekonferenz.md`](21_kanzleinotiz_strategiekonferenz.md) | Strategiekonferenz 20.05.2025 — Vollständige HV-Strategie aller Anklagepunkte |
-| 22 | [`22_fristenkalender_hauptverhandlung_lg.md`](22_fristenkalender_hauptverhandlung_lg.md) | Fristenkalender HV-Beginn 23.06.2025 — Termine, Checkliste, Revisionshinweise |
+| 01 | [`01_aktenvorblatt_marx_strafverteidigung.docx`](01_aktenvorblatt_marx_strafverteidigung.docx) | Aktenvorblatt, Mandatsdaten, Tatvorwürfe-Überblick, Verfahrensstand, Fristen |
+| 02 | [`02_haftbefehl_lg_frankfurt_28_ks_122_25.docx`](02_haftbefehl_lg_frankfurt_28_ks_122_25.docx) | Haftbefehl LG Frankfurt (Auszug, redigiert) — Tatvorwürfe, Haftgründe, Vollzug |
+| 03 | [`03_anklageschrift_staatsanwaltschaft_auszug.docx`](03_anklageschrift_staatsanwaltschaft_auszug.docx) | Anklageschrift StA Frankfurt (Auszug) — Wesentliches Ergebnis der Ermittlungen |
+| 04 | [`04_kanzleinotiz_haftbesuch_jva_frankfurt_i.docx`](04_kanzleinotiz_haftbesuch_jva_frankfurt_i.docx) | Kanzleinotiz Haftbesuch JVA Frankfurt I, 28.04.2025 — Mandantenangaben, Strategie |
+| 05 | [`05_akteneinsichts_antrag_marx.docx`](05_akteneinsichts_antrag_marx.docx) | Antrag auf Akteneinsicht § 147 StPO, Schriftsatz Dr. Marx an StA Frankfurt |
+| 06 | [`06_zeugenaussage_pollmann_widersprueche.docx`](06_zeugenaussage_pollmann_widersprueche.docx) | Auswertung Zeuge Pollmann — vier dokumentierte Widersprüche in V1/V2/V3 |
+| 07 | [`07_zeugenaussage_kohlrausch_widersprueche.docx`](07_zeugenaussage_kohlrausch_widersprueche.docx) | Auswertung Zeugin Kohlrausch — Motivlage, Widersprüche, Eigenstrafbarkeit |
+| 08 | [`08_beweisantrag_sachverstaendiger_maschinenbewertung.docx`](08_beweisantrag_sachverstaendiger_maschinenbewertung.docx) | Beweisantrag § 244 Abs. 3 StPO auf Gegengutachten Maschinenbewertung |
+| 09 | [`09_durchsuchungsbeschluss_kanzleiraeume.docx`](09_durchsuchungsbeschluss_kanzleiraeume.docx) | Durchsuchungsbeschluss AG Frankfurt, 10.03.2025 — Kanzleiräume Marx |
+| 10 | [`10_widerspruch_mandatsdaten_53_stpo.docx`](10_widerspruch_mandatsdaten_53_stpo.docx) | Widerspruch gegen Sicherstellung — § 97, § 148 StPO, BVerfG-Linie |
+| 11 | [`11_verstaendigungsangebot_staatsanwaltschaft.docx`](11_verstaendigungsangebot_staatsanwaltschaft.docx) | Verständigungsangebot StA § 257c StPO + interner Bewertungsvermerk Dr. Marx |
+| 12 | [`12_haftbeschwerde_117_stpo.docx`](12_haftbeschwerde_117_stpo.docx) | Haftbeschwerde §§ 304, 117 StPO — vollständiger Schriftsatz, § 116-Antrag |
+| 13 | [`13_nebenklage_abc_grossabnehmer.docx`](13_nebenklage_abc_grossabnehmer.docx) | Nebenklage ABC Großabnehmer SE — §§ 395, 396 StPO, Zulässigkeit, Strategie |
+| 14 | [`14_steuerhinterziehung_betragsberechnung.docx`](14_steuerhinterziehung_betragsberechnung.docx) | § 370 AO — Berechnung VZ 2019–2022, Anklage vs. Verteidigung, § 371 AO |
+| 15 | [`15_treuhandvertrag_liechtenstein_anlage_b14.docx`](15_treuhandvertrag_liechtenstein_anlage_b14.docx) | Treuhandvertrag Anlage B14 — Echtheitsfrage, Gegengutachten, § 266 StGB |
+| 16 | [`16_mandantenbrief_marx_an_bankert.docx`](16_mandantenbrief_marx_an_bankert.docx) | Mandantenbrief Dr. Marx an Bankert (JVA) — Verfahrensstand, Verständigung |
+| 17 | [`17_email_korrespondenz_marx_staatsanwaltschaft.docx`](17_email_korrespondenz_marx_staatsanwaltschaft.docx) | Übersicht E-Mail-Korrespondenz mit Inhaltsangaben (Verweise auf eml/) |
+| 18 | [`18_pressemitteilung_staatsanwaltschaft_redacted.docx`](18_pressemitteilung_staatsanwaltschaft_redacted.docx) | Pressemitteilung StA Frankfurt Nr. 12/2025 (redigiert) + Kanzleivermerk |
+| 19 | [`19_einlassung_entwurf_bankert.docx`](19_einlassung_entwurf_bankert.docx) | Einlassung des Angeklagten — Entwurf (intern, nicht autorisiert) |
+| 20 | [`20_adhaesionsantrag_abc_3_8_mio.docx`](20_adhaesionsantrag_abc_3_8_mio.docx) | Adäsionsantrag ABC SE 3.800.000 EUR — §§ 403 ff. StPO, Gegenstrategie |
+| 21 | [`21_kanzleinotiz_strategiekonferenz.docx`](21_kanzleinotiz_strategiekonferenz.docx) | Strategiekonferenz 20.05.2025 — Vollständige HV-Strategie aller Anklagepunkte |
+| 22 | [`22_fristenkalender_hauptverhandlung_lg.docx`](22_fristenkalender_hauptverhandlung_lg.docx) | Fristenkalender HV-Beginn 23.06.2025 — Termine, Checkliste, Revisionshinweise |
 
 ---
 

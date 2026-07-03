@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 604 KB) | PDF | [`gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf`](gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 594 KB) | PDF | [`gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf`](gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim-einzelpdfs.zip) |
 
@@ -69,28 +69,28 @@ Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstbesprechung.md`](01_mandatsaufnahme_erstbesprechung.md) | Mandatsaufnahme, Vollmacht, Sachverhaltsüberblick alle Komplexe |
-| 02 | [`02_bafa_owi_verfahren_dual_use.md`](02_bafa_owi_verfahren_dual_use.md) | BAFA OWi-Verfahren § 18 AWG, Rechtsrahmen, Chronologie, Strategie |
-| 03 | [`03_mfr3400x_technische_analyse_dual_use.md`](03_mfr3400x_technische_analyse_dual_use.md) | Technische Analyse MFR-3400X, Listungsprüfung Dual-Use-VO |
-| 04 | [`04_spengler_engineering_lieferkette_ermittlung.md`](04_spengler_engineering_lieferkette_ermittlung.md) | Lieferkettenermittlung, Spengler/Transcaucasia/Razi, Red Flags |
-| 05 | [`05_selbstanzeige_pruefung_paragraf22_owiG.md`](05_selbstanzeige_pruefung_paragraf22_owiG.md) | Prüfvermerk Selbstanzeige § 22 OWiG, Bußgeldstrategie |
-| 06 | [`06_ofac_ear_itar_us_sekundaersanktionen.md`](06_ofac_ear_itar_us_sekundaersanktionen.md) | US-Sekundärsanktionen, OFAC/EAR/ITAR, Nasseri-IP-Risiko |
-| 07 | [`07_korruption_al_quwairy_fcpa_stgb.md`](07_korruption_al_quwairy_fcpa_stgb.md) | Korruption Saudi-Arabien, § 334 StGB, FCPA, OECD-Konvention |
-| 08 | [`08_bmwk_investitionspruefung_tianyuan.md`](08_bmwk_investitionspruefung_tianyuan.md) | Investitionsprüfung § 55 AWV, TianYuan Industrial Group |
-| 09 | [`09_icc_schiedsverfahren_biomechanix.md`](09_icc_schiedsverfahren_biomechanix.md) | ICC-Schiedsverfahren Paris, BioMechanix Pvt. Ltd., 4,8 Mio. EUR |
-| 10 | [`10_cbam_russland_sanktionen_aluminium.md`](10_cbam_russland_sanktionen_aluminium.md) | CBAM VO (EU) 2023/956, Russland-Sanktionen, Aluminium Türkei |
-| 11 | [`11_icp_internes_compliance_programm_audit.md`](11_icp_internes_compliance_programm_audit.md) | ICP-Audit KPMG Law, Feststellungen, Überarbeitungsplan |
-| 12 | [`12_bafa_stellungnahme_entwurf.md`](12_bafa_stellungnahme_entwurf.md) | Entwurf Stellungnahme BAFA-Anhörung (Inhaltszusammenfassung) |
-| 13 | [`13_arrest_antrag_lg_frankfurt.md`](13_arrest_antrag_lg_frankfurt.md) | Dinglicher Arrest §§ 916 ff. ZPO, LG Frankfurt 3-21 O 144/26 |
-| 14 | [`14_nasseri_ip_schutz_geschaeftsgeheimnis.md`](14_nasseri_ip_schutz_geschaeftsgeheimnis.md) | Geschäftsgeheimnisschutz §§ 2/6/23 GeschGehG, IT-Forensik |
-| 15 | [`15_tianyuan_due_diligence_sasac_struktur.md`](15_tianyuan_due_diligence_sasac_struktur.md) | TianYuan Due Diligence, SASAC-Beteiligung, Technologietransfer-Risiko |
-| 16 | [`16_icc_verfahrensstand_schiedsgericht_konstituierung.md`](16_icc_verfahrensstand_schiedsgericht_konstituierung.md) | ICC Schiedsgericht konstituiert, ToR, Preliminary Session, Zeitplan |
-| 17 | [`17_ofac_response_broesel_holzapfel.md`](17_ofac_response_broesel_holzapfel.md) | OFAC-Response Werkmann Pharma Inc., SDN-Risikobewertung |
-| 18 | [`18_oecd_fcpa_selbstpruefung_antikorruption.md`](18_oecd_fcpa_selbstpruefung_antikorruption.md) | OECD-Selbstprüfung, FCPA-VSD beim DOJ, Checkliste Anti-Korruption |
-| 19 | [`19_werkmann_pharma_inc_ear_vsd_bericht.md`](19_werkmann_pharma_inc_ear_vsd_bericht.md) | EAR-VSD bei BIS, US-Komponentenanalyse, Remediation |
-| 20 | [`20_gesamtstrategie_verfahrenskoordination.md`](20_gesamtstrategie_verfahrenskoordination.md) | Gesamtstrategie, Verfahrensübersicht, Risikomatrix |
-| 21 | [`21_verfahrensstand_september_2026.md`](21_verfahrensstand_september_2026.md) | Stichtagsbericht September 2026, alle Verfahren |
-| 22 | [`22_qualitaetssicherung_lehren_compliance_neuaufstellung.md`](22_qualitaetssicherung_lehren_compliance_neuaufstellung.md) | Lehren, Compliance-Neuaufstellung, Aufsichtsratspräsentation |
+| 01 | [`01_mandatsaufnahme_erstbesprechung.docx`](01_mandatsaufnahme_erstbesprechung.docx) | Mandatsaufnahme, Vollmacht, Sachverhaltsüberblick alle Komplexe |
+| 02 | [`02_bafa_owi_verfahren_dual_use.docx`](02_bafa_owi_verfahren_dual_use.docx) | BAFA OWi-Verfahren § 18 AWG, Rechtsrahmen, Chronologie, Strategie |
+| 03 | [`03_mfr3400x_technische_analyse_dual_use.docx`](03_mfr3400x_technische_analyse_dual_use.docx) | Technische Analyse MFR-3400X, Listungsprüfung Dual-Use-VO |
+| 04 | [`04_spengler_engineering_lieferkette_ermittlung.docx`](04_spengler_engineering_lieferkette_ermittlung.docx) | Lieferkettenermittlung, Spengler/Transcaucasia/Razi, Red Flags |
+| 05 | [`05_selbstanzeige_pruefung_paragraf22_owiG.docx`](05_selbstanzeige_pruefung_paragraf22_owiG.docx) | Prüfvermerk Selbstanzeige § 22 OWiG, Bußgeldstrategie |
+| 06 | [`06_ofac_ear_itar_us_sekundaersanktionen.docx`](06_ofac_ear_itar_us_sekundaersanktionen.docx) | US-Sekundärsanktionen, OFAC/EAR/ITAR, Nasseri-IP-Risiko |
+| 07 | [`07_korruption_al_quwairy_fcpa_stgb.docx`](07_korruption_al_quwairy_fcpa_stgb.docx) | Korruption Saudi-Arabien, § 334 StGB, FCPA, OECD-Konvention |
+| 08 | [`08_bmwk_investitionspruefung_tianyuan.docx`](08_bmwk_investitionspruefung_tianyuan.docx) | Investitionsprüfung § 55 AWV, TianYuan Industrial Group |
+| 09 | [`09_icc_schiedsverfahren_biomechanix.docx`](09_icc_schiedsverfahren_biomechanix.docx) | ICC-Schiedsverfahren Paris, BioMechanix Pvt. Ltd., 4,8 Mio. EUR |
+| 10 | [`10_cbam_russland_sanktionen_aluminium.docx`](10_cbam_russland_sanktionen_aluminium.docx) | CBAM VO (EU) 2023/956, Russland-Sanktionen, Aluminium Türkei |
+| 11 | [`11_icp_internes_compliance_programm_audit.docx`](11_icp_internes_compliance_programm_audit.docx) | ICP-Audit KPMG Law, Feststellungen, Überarbeitungsplan |
+| 12 | [`12_bafa_stellungnahme_entwurf.docx`](12_bafa_stellungnahme_entwurf.docx) | Entwurf Stellungnahme BAFA-Anhörung (Inhaltszusammenfassung) |
+| 13 | [`13_arrest_antrag_lg_frankfurt.docx`](13_arrest_antrag_lg_frankfurt.docx) | Dinglicher Arrest §§ 916 ff. ZPO, LG Frankfurt 3-21 O 144/26 |
+| 14 | [`14_nasseri_ip_schutz_geschaeftsgeheimnis.docx`](14_nasseri_ip_schutz_geschaeftsgeheimnis.docx) | Geschäftsgeheimnisschutz §§ 2/6/23 GeschGehG, IT-Forensik |
+| 15 | [`15_tianyuan_due_diligence_sasac_struktur.docx`](15_tianyuan_due_diligence_sasac_struktur.docx) | TianYuan Due Diligence, SASAC-Beteiligung, Technologietransfer-Risiko |
+| 16 | [`16_icc_verfahrensstand_schiedsgericht_konstituierung.docx`](16_icc_verfahrensstand_schiedsgericht_konstituierung.docx) | ICC Schiedsgericht konstituiert, ToR, Preliminary Session, Zeitplan |
+| 17 | [`17_ofac_response_broesel_holzapfel.docx`](17_ofac_response_broesel_holzapfel.docx) | OFAC-Response Werkmann Pharma Inc., SDN-Risikobewertung |
+| 18 | [`18_oecd_fcpa_selbstpruefung_antikorruption.docx`](18_oecd_fcpa_selbstpruefung_antikorruption.docx) | OECD-Selbstprüfung, FCPA-VSD beim DOJ, Checkliste Anti-Korruption |
+| 19 | [`19_werkmann_pharma_inc_ear_vsd_bericht.docx`](19_werkmann_pharma_inc_ear_vsd_bericht.docx) | EAR-VSD bei BIS, US-Komponentenanalyse, Remediation |
+| 20 | [`20_gesamtstrategie_verfahrenskoordination.docx`](20_gesamtstrategie_verfahrenskoordination.docx) | Gesamtstrategie, Verfahrensübersicht, Risikomatrix |
+| 21 | [`21_verfahrensstand_september_2026.docx`](21_verfahrensstand_september_2026.docx) | Stichtagsbericht September 2026, alle Verfahren |
+| 22 | [`22_qualitaetssicherung_lehren_compliance_neuaufstellung.docx`](22_qualitaetssicherung_lehren_compliance_neuaufstellung.docx) | Lehren, Compliance-Neuaufstellung, Aufsichtsratspräsentation |
 
 ---
 

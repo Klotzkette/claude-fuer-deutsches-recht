@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 68 KB) | PDF | [`gesamt-pdf/vollstreckungsmappe-mueller-sparkasse-niederrhein_gesamt.pdf`](gesamt-pdf/vollstreckungsmappe-mueller-sparkasse-niederrhein_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/vollstreckungsmappe-mueller-sparkasse-niederrhein_gesamt.pdf`](gesamt-pdf/vollstreckungsmappe-mueller-sparkasse-niederrhein_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein-einzelpdfs.zip) |
 

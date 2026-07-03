@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 812 KB) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 802 KB) | PDF | [`gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf`](gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen-einzelpdfs.zip) |
 
@@ -69,28 +69,28 @@ Diese Testakte demonstriert den vollständigen Mandatszyklus eines komplexen Ban
 
 | Datei | Inhalt |
 |---|---|
-| `01_aktenvorblatt_pflueger_schoeneberg.md` | Aktenvorblatt mit allen Stammdaten, Verfahrensdaten, Schadensübersicht |
-| `02_chronologie_anlagebetrug_09_2024_04_2026.md` | Vollständige Zeitlinie Sept. 2024 – Apr. 2026 |
-| `03_kanzleinotiz_erstgespraech_wittfeldt.md` | Protokoll Erstgespräch 07.04.2026 (Sachverhalt, Erstbewertung, Beauftragung) |
-| `04_aufstellung_ueberweisungen_sparkasse.md` | Tabellarische Übersicht aller 7 Überweisungen mit Rechtsanalyse |
-| `05_kommunikation_cryptofuturemax_redacted.md` | Redaktierte E-Mail-Auszüge inkl. technischer Header-Analyse (DKIM FAIL, PHP-Backend) |
-| `06_strafanzeige_polizei_bremen_zkd.md` | Vollständige Strafanzeige §§ 263, 263a, 261 StGB, § 54 KWG |
-| `07_klageandrohung_sparkasse_bremen.md` | Außergerichtliche Klageandrohung ./. Sparkasse mit Fristsetzung |
-| `08_wphg_pflichten_pruefung.md` | Rechtliches Memo: WpHG, § 241 Abs. 2 BGB, § 25h KWG – Bankwarnpflicht |
-| `09_rueckforderung_675u_bgb_empfaengerbanken.md` | Rückforderungspaket gegen Empfängerbanken (§ 675u BGB, § 812 BGB, EAPO) |
-| `10_baFin_anzeige_micastablecoin.md` | BaFin-Anzeige wegen MiCA Art. 16/59 und § 32 KWG |
-| `11_kreditkuendigung_sparkasse.md` | Dokumentation Kreditkündigung § 490 BGB inkl. Zahlungsverlauf |
-| `12_widerspruch_kreditkuendigung_490_bgb.md` | Widerspruchsschreiben gegen Kreditkündigung |
-| `13_schufa_eintrag_loeschungsbegehren.md` | Schufa-Negativeintrag + Löschungsbegehren Art. 17 DSGVO |
-| `14_anzeige_verbraucherzentrale_bremen.md` | Meldung + Aufklärungsmuster an Verbraucherzentrale Bremen |
-| `15_psychiatrisches_gutachten_wittfeldt_einsichtsfaehigkeit.md` | Gutachten Dr. Sternberg: Geschäftsfähigkeit, kognitive Vulnerabilität |
-| `16_klageentwurf_lg_bremen_sparkasse.md` | Klageentwurf LG Bremen 4 O 215/26 (§§ 280, 241 Abs. 2 BGB) |
-| `17_klageentwurf_lg_frankfurt_empfaengerbank.md` | Klageentwurf ./. Trustless Banking S.A. + EAPO-Antrag |
-| `18_mandantenkommunikation_daniel_wittfeldt.md` | E-Mail-Korrespondenz mit Auftraggeber Daniel Wittfeldt |
-| `19_kostenrisikoanalyse_klagen.md` | Detaillierte Kostenanalyse: GKG, RVG, PKH, Auslandsverfahren |
-| `20_strategiememorandum_pflueger.md` | Internes Strategiememo Dr. Pflüger (Stärken/Schwächen, Vergleichsstrategie) |
-| `21_email_kette_pflueger_bafin_polizei.md` | Behördenkommunikation: BaFin-Eingang, Polizei Bremen ZKD-Antwort |
-| `22_fristenuebersicht.md` | Vollständige Fristenkontrolle inkl. Verjährungsfristen und Notfallprotokoll |
+| `01_aktenvorblatt_pflueger_schoeneberg.docx` | Aktenvorblatt mit allen Stammdaten, Verfahrensdaten, Schadensübersicht |
+| `02_chronologie_anlagebetrug_09_2024_04_2026.docx` | Vollständige Zeitlinie Sept. 2024 – Apr. 2026 |
+| `03_kanzleinotiz_erstgespraech_wittfeldt.docx` | Protokoll Erstgespräch 07.04.2026 (Sachverhalt, Erstbewertung, Beauftragung) |
+| `04_aufstellung_ueberweisungen_sparkasse.docx` | Tabellarische Übersicht aller 7 Überweisungen mit Rechtsanalyse |
+| `05_kommunikation_cryptofuturemax_redacted.docx` | Redaktierte E-Mail-Auszüge inkl. technischer Header-Analyse (DKIM FAIL, PHP-Backend) |
+| `06_strafanzeige_polizei_bremen_zkd.docx` | Vollständige Strafanzeige §§ 263, 263a, 261 StGB, § 54 KWG |
+| `07_klageandrohung_sparkasse_bremen.docx` | Außergerichtliche Klageandrohung ./. Sparkasse mit Fristsetzung |
+| `08_wphg_pflichten_pruefung.docx` | Rechtliches Memo: WpHG, § 241 Abs. 2 BGB, § 25h KWG – Bankwarnpflicht |
+| `09_rueckforderung_675u_bgb_empfaengerbanken.docx` | Rückforderungspaket gegen Empfängerbanken (§ 675u BGB, § 812 BGB, EAPO) |
+| `10_baFin_anzeige_micastablecoin.docx` | BaFin-Anzeige wegen MiCA Art. 16/59 und § 32 KWG |
+| `11_kreditkuendigung_sparkasse.docx` | Dokumentation Kreditkündigung § 490 BGB inkl. Zahlungsverlauf |
+| `12_widerspruch_kreditkuendigung_490_bgb.docx` | Widerspruchsschreiben gegen Kreditkündigung |
+| `13_schufa_eintrag_loeschungsbegehren.docx` | Schufa-Negativeintrag + Löschungsbegehren Art. 17 DSGVO |
+| `14_anzeige_verbraucherzentrale_bremen.docx` | Meldung + Aufklärungsmuster an Verbraucherzentrale Bremen |
+| `15_psychiatrisches_gutachten_wittfeldt_einsichtsfaehigkeit.docx` | Gutachten Dr. Sternberg: Geschäftsfähigkeit, kognitive Vulnerabilität |
+| `16_klageentwurf_lg_bremen_sparkasse.docx` | Klageentwurf LG Bremen 4 O 215/26 (§§ 280, 241 Abs. 2 BGB) |
+| `17_klageentwurf_lg_frankfurt_empfaengerbank.docx` | Klageentwurf ./. Trustless Banking S.A. + EAPO-Antrag |
+| `18_mandantenkommunikation_daniel_wittfeldt.docx` | E-Mail-Korrespondenz mit Auftraggeber Daniel Wittfeldt |
+| `19_kostenrisikoanalyse_klagen.docx` | Detaillierte Kostenanalyse: GKG, RVG, PKH, Auslandsverfahren |
+| `20_strategiememorandum_pflueger.docx` | Internes Strategiememo Dr. Pflüger (Stärken/Schwächen, Vergleichsstrategie) |
+| `21_email_kette_pflueger_bafin_polizei.docx` | Behördenkommunikation: BaFin-Eingang, Polizei Bremen ZKD-Antwort |
+| `22_fristenuebersicht.docx` | Vollständige Fristenkontrolle inkl. Verjährungsfristen und Notfallprotokoll |
 
 ### Anhänge
 

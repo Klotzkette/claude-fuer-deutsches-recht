@@ -27,7 +27,7 @@ Diese Akte gehört zu den Plugins `internal-investigations-praxis`, `arbeitsrech
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-auftrag-und-scope.md` | Untersuchungsauftrag und gefährlich weiter Scope |
+| `01-auftrag-und-scope.docx` | Untersuchungsauftrag und gefährlich weiter Scope |
 | `02-datenquellen-und-legal-hold.xlsx` | Custodians, Systeme, Löschstopps |
 | `03-whistleblower-mail.eml` | Hinweis mit Bonus-/Kickback-Verdacht |
 | `04-interviewleitfaden.docx` | Entwurf mit Belehrungs- und Protokollfragen |
@@ -38,4 +38,4 @@ Diese Akte gehört zu den Plugins `internal-investigations-praxis`, `arbeitsrech
 
 | Datei | Inhalt |
 | --- | --- |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |

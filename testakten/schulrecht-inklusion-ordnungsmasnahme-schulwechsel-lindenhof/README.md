@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 135 KB) | PDF | [`gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf`](gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 134 KB) | PDF | [`gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf`](gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip) |
 
@@ -22,9 +22,9 @@ Schulrecht: 14-jährige Schülerin mit ADHS-/LRS-Nachteilsausgleich, Mobbingvorw
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.md` | Erste Lage, Ziel und offene Fragen |
-| `02-zeitstrahl-fristen-und-verfahrensstand.md` | Chronologie und Fristen |
-| `03-normenkette-livecheck.md` | Normenkette und Livecheck-Liste |
+| `01-mandatsnotiz-und-auftrag.docx` | Erste Lage, Ziel und offene Fragen |
+| `02-zeitstrahl-fristen-und-verfahrensstand.docx` | Chronologie und Fristen |
+| `03-normenkette-livecheck.docx` | Normenkette und Livecheck-Liste |
 | `04-schreiben-schulleitung-unterrichtsausschluss.docx` | Schreiben der Schulleitung zum Unterrichtsausschluss |
 | `05-fehlzeiten-noten-nachteilsausgleich.xlsx` | Fehlzeiten, Noten und Nachteilsausgleich |
 | `06-foerderplan-und-schulpsychologie.pdf` | Förderplan und schulpsychologische Notiz |
@@ -33,10 +33,10 @@ Schulrecht: 14-jährige Schülerin mit ADHS-/LRS-Nachteilsausgleich, Mobbingvorw
 | `09-klassenkonferenz-protokoll-auszug.pdf` | Protokollauszug Klassenkonferenz |
 | `10-anlagenindex.csv` | Anlagenindex |
 | `11-entwurf-widerspruch-eilantrag.docx` | Entwurf Widerspruch/Eilantrag |
-| `12-offene-punkte.md` | Offene Punkte und nächste Schritte |
+| `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
 | `13-anlagenindex.csv` | Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Arbeitsweise
 

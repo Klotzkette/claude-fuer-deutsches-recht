@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 284 KB) | PDF | [`gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf`](gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 249 KB) | PDF | [`gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf`](gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa-einzelpdfs.zip) |
 
@@ -69,26 +69,26 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 
 | Datei | Inhalt |
 |---|---|
-| [01_mandatsnotiz_erstgespraech.md](01_mandatsnotiz_erstgespraech.md) | Mandatsnotiz vom Erstgespräch 12.05.2026: Sachverhalt, Sofortfragen, Verfahrensalternativen, Vollmacht |
-| [02_unternehmensprofil.md](02_unternehmensprofil.md) | Detailliertes Unternehmensprofil: Stammdaten, Leistungsportfolio, Personal, GuV-Entwicklung, Vermögen |
+| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Mandatsnotiz vom Erstgespräch 12.05.2026: Sachverhalt, Sofortfragen, Verfahrensalternativen, Vollmacht |
+| [02_unternehmensprofil.docx](02_unternehmensprofil.docx) | Detailliertes Unternehmensprofil: Stammdaten, Leistungsportfolio, Personal, GuV-Entwicklung, Vermögen |
 | [03_liquiditaetsstatus.csv](03_liquiditaetsstatus.csv) | 13-Wochen-Liquiditätsplanung KW 20–32 mit wöchentlichen Zu- und Abflüssen, kritischen Salden und Investoren-Szenario |
 | [04_gläubiger_und_sicherheiten.csv](04_glaeubiger_und_sicherheiten.csv) | Vollständige Gläubigerliste (16 Positionen) mit Forderungshöhe, Rang, Sicherheiten, Plangruppe und Planquote |
 | [05_bwa_susa_auszug.csv](05_bwa_susa_auszug.csv) | BWA-Auszug 2023–2026 (Plan) mit GuV-Positionen, Umsatz, EBITDA, Bilanzkennzahlen und monatlichen Ist-Werten |
-| [06_krisenursachen_workshop.md](06_krisenursachen_workshop.md) | Protokoll des Krisenursachen-Workshops vom 19.05.2026 (Ishikawa-Methode, 6 Kategorien, Ranking, Sanierungshebel) |
+| [06_krisenursachen_workshop.docx](06_krisenursachen_workshop.docx) | Protokoll des Krisenursachen-Workshops vom 19.05.2026 (Ishikawa-Methode, 6 Kategorien, Ranking, Sanierungshebel) |
 | [07_sanierungsmassnahmen.csv](07_sanierungsmassnahmen.csv) | Maßnahmenplan mit 14 Einzelmaßnahmen, Wirkungsart, Einmal- und Dauereffekten, Status und Risikobewertung |
-| [08_investor_term_sheet.md](08_investor_term_sheet.md) | Indikativer Term Sheet Nordlicht Turnaround Fonds: Struktur, Konditionen, Sicherheiten, Covenants, offene Punkte |
+| [08_investor_term_sheet.docx](08_investor_term_sheet.docx) | Indikativer Term Sheet Nordlicht Turnaround Fonds: Struktur, Konditionen, Sicherheiten, Covenants, offene Punkte |
 | [09_vergleichsrechnung_arbeitsstand.csv](09_vergleichsrechnung_arbeitsstand.csv) | Vergleichsrechnung je Gläubigergruppe: Plan vs. Übertragungsinsolvenz vs. Zerschlagungsliquidation |
-| [10_gruppen_klassen_entwurf.md](10_gruppen_klassen_entwurf.md) | Gruppen- und Klassenbildung für Insolvenzplan (5 Gruppen) und StaRUG-Plan (3 Klassen) mit Planangeboten |
-| [11_darstellender_teil_rohnotizen.md](11_darstellender_teil_rohnotizen.md) | Rohnotizen darstellender Teil: Schuldnerin, Krisenursachen, Überschuldungsstatus, Fortführungsprognose, Sonderprüfungen |
-| [12_gestaltender_teil_klauselideen.md](12_gestaltender_teil_klauselideen.md) | Klauselentwürfe gestaltender Teil (§ 221 InsO): alle Gruppen, Investor-Darlehen, Planvollzug, Monitoring |
-| [13_steuer_sv_risiken.md](13_steuer_sv_risiken.md) | Steuer- und SV-Risikomemo: Rückstände, Sanierungsgewinn § 3a EStG, § 8c KStG, Insolvenzgeld, Organhaftung |
-| [14_sicherheitenbewertung.md](14_sicherheitenbewertung.md) | Gutachtliche Sicherheitenbewertung (Brandt): Maschinenpark, Globalzession, Leasingobjekte, Prüfaufträge |
+| [10_gruppen_klassen_entwurf.docx](10_gruppen_klassen_entwurf.docx) | Gruppen- und Klassenbildung für Insolvenzplan (5 Gruppen) und StaRUG-Plan (3 Klassen) mit Planangeboten |
+| [11_darstellender_teil_rohnotizen.docx](11_darstellender_teil_rohnotizen.docx) | Rohnotizen darstellender Teil: Schuldnerin, Krisenursachen, Überschuldungsstatus, Fortführungsprognose, Sonderprüfungen |
+| [12_gestaltender_teil_klauselideen.docx](12_gestaltender_teil_klauselideen.docx) | Klauselentwürfe gestaltender Teil (§ 221 InsO): alle Gruppen, Investor-Darlehen, Planvollzug, Monitoring |
+| [13_steuer_sv_risiken.docx](13_steuer_sv_risiken.docx) | Steuer- und SV-Risikomemo: Rückstände, Sanierungsgewinn § 3a EStG, § 8c KStG, Insolvenzgeld, Organhaftung |
+| [14_sicherheitenbewertung.docx](14_sicherheitenbewertung.docx) | Gutachtliche Sicherheitenbewertung (Brandt): Maschinenpark, Globalzession, Leasingobjekte, Prüfaufträge |
 | [15_stimmrechtssimulation.csv](15_stimmrechtssimulation.csv) | Stimmrechtssimulation je Gruppe mit Prognose Ja/Nein/Unklar, Summen- und Kopfmehrheit, Cram-Down-Analyse |
-| [16_stakeholder_q_and_a.md](16_stakeholder_q_and_a.md) | Q&A-Vorbereitung für Gläubigerversammlung: NordBank, LeasingWerk, Stahlhandel, FA, Betriebsrat, Gericht |
-| [17_gerichtliche_route.md](17_gerichtliche_route.md) | Verfahrenswahl-Analyse: StaRUG vs. Eigenverwaltung vs. Regelinsolvenz; Empfehlung + Verfahrensschritte |
+| [16_stakeholder_q_and_a.docx](16_stakeholder_q_and_a.docx) | Q&A-Vorbereitung für Gläubigerversammlung: NordBank, LeasingWerk, Stahlhandel, FA, Betriebsrat, Gericht |
+| [17_gerichtliche_route.docx](17_gerichtliche_route.docx) | Verfahrenswahl-Analyse: StaRUG vs. Eigenverwaltung vs. Regelinsolvenz; Empfehlung + Verfahrensschritte |
 | [18_planvollzug_kalender.csv](18_planvollzug_kalender.csv) | Vollständiger Planvollzugs-Kalender Mai 2026 – August 2030 mit 42 Meilensteinen, Verantwortlichen, Status |
-| [19_redteam_einwaende.md](19_redteam_einwaende.md) | Red-Team-Review: 8 kritische Einwände mit Bewertung und Gegenargumenten; Ampelübersicht |
-| [20_zieloutput_checkliste.md](20_zieloutput_checkliste.md) | Vollständigkeitsprüfung vor Planeinreichung: Pflichtanlagen, prozessuale Voraussetzungen, Kommunikation |
+| [19_redteam_einwaende.docx](19_redteam_einwaende.docx) | Red-Team-Review: 8 kritische Einwände mit Bewertung und Gegenargumenten; Ampelübersicht |
+| [20_zieloutput_checkliste.docx](20_zieloutput_checkliste.docx) | Vollständigkeitsprüfung vor Planeinreichung: Pflichtanlagen, prozessuale Voraussetzungen, Kommunikation |
 | [darstellender_teil_insolvenzplan.docx](darstellender_teil_insolvenzplan.docx) | DOCX: Vollständiger darstellender Teil des Insolvenzplans (ausformuliert, Calibri 11, mit Rubrum und Anlagen) |
 | [gestaltender_teil_insolvenzplan.docx](gestaltender_teil_insolvenzplan.docx) | DOCX: Vollständiger gestaltender Teil des Insolvenzplans (alle Paragrafen, bestimmt und vollziehbar) |
 | [term_sheet_nordlicht.docx](term_sheet_nordlicht.docx) | DOCX: Investor Term Sheet Nordlicht Turnaround Fonds (finale Fassung zur Unterzeichnung) |

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 117 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 110 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll-einzelpdfs.zip) |
 
@@ -51,20 +51,20 @@ Die Akte ist keine glatte Abwicklung, sondern bildet einen realistischen Entsche
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_whatsapp_gruender_chat_woche_1.md` | WhatsApp-Verlauf der Gründer in der ersten Woche |
-| `02_email_aylin_an_jonas_mira_rechtsformwahl.md` | E-Mail mit erster Argumentation für UG vs. GmbH |
-| `03_workshop_protokoll_gruender_offsite.md` | Protokoll des Gründer-Workshops |
-| `04_angel_termsheet_pfaffenrode.md` | Termsheet des Angels mit Vesting und Side-Letter |
-| `05_notarbriefing_vermeulen_entwurf_satzung.md` | Notarbriefing mit Satzungsentwurf und Anmerkungen |
-| `06_musterprotokoll_vs_individuelle_satzung_vergleich.md` | Vergleichstabelle Musterprotokoll vs. individuelle Satzung |
-| `07_sacheinlage_pruefvermerk_domain_repository.md` | Prüfvermerk zur Sacheinlage Domain und Code-Repository |
-| `08_geschaeftsanteile_verteilung_und_vesting.md` | Verteilung der Geschäftsanteile und Vesting-Mechanik |
-| `09_steuerberater_warnung_verdeckte_sacheinlage.md` | Warnung des Steuerberaters |
-| `10_geschaeftsfuehrer_bestellung_181_bgb.md` | Bestellung und Befreiung von Paragraph 181 BGB |
-| `11_transparenzregister_wirtschaftlich_berechtigte.md` | Anmeldung wirtschaftlich Berechtigte |
-| `12_gewerbeanmeldung_finanzamt_berlin_mitte.md` | Gewerbe- und Finanzamtsanmeldung |
-| `13_micar_bafin_ki_vo_vorabklaerung.md` | MiCAR, BaFin und KI-Verordnung |
-| `14_erste_100_tage_plan.md` | Plan für die ersten hundert Tage |
+| `01_whatsapp_gruender_chat_woche_1.docx` | WhatsApp-Verlauf der Gründer in der ersten Woche |
+| `02_email_aylin_an_jonas_mira_rechtsformwahl.docx` | E-Mail mit erster Argumentation für UG vs. GmbH |
+| `03_workshop_protokoll_gruender_offsite.docx` | Protokoll des Gründer-Workshops |
+| `04_angel_termsheet_pfaffenrode.docx` | Termsheet des Angels mit Vesting und Side-Letter |
+| `05_notarbriefing_vermeulen_entwurf_satzung.docx` | Notarbriefing mit Satzungsentwurf und Anmerkungen |
+| `06_musterprotokoll_vs_individuelle_satzung_vergleich.docx` | Vergleichstabelle Musterprotokoll vs. individuelle Satzung |
+| `07_sacheinlage_pruefvermerk_domain_repository.docx` | Prüfvermerk zur Sacheinlage Domain und Code-Repository |
+| `08_geschaeftsanteile_verteilung_und_vesting.docx` | Verteilung der Geschäftsanteile und Vesting-Mechanik |
+| `09_steuerberater_warnung_verdeckte_sacheinlage.docx` | Warnung des Steuerberaters |
+| `10_geschaeftsfuehrer_bestellung_181_bgb.docx` | Bestellung und Befreiung von Paragraph 181 BGB |
+| `11_transparenzregister_wirtschaftlich_berechtigte.docx` | Anmeldung wirtschaftlich Berechtigte |
+| `12_gewerbeanmeldung_finanzamt_berlin_mitte.docx` | Gewerbe- und Finanzamtsanmeldung |
+| `13_micar_bafin_ki_vo_vorabklaerung.docx` | MiCAR, BaFin und KI-Verordnung |
+| `14_erste_100_tage_plan.docx` | Plan für die ersten hundert Tage |
 | `emails/*.eml` | E-Mail-Verkehr Gründer, Angel, Notarin, Steuerberater |
 | `tabellen/*.csv` | Cap-Table-Varianten, Kostenaufstellung Gründung |
 

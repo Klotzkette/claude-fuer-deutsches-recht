@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 772 KB) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 767 KB) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin-einzelpdfs.zip) |
 
@@ -72,18 +72,18 @@ Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierung
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 00 | `00_uebersicht-und-akteneinsicht.md` | Übersichtsblatt, Akteneinsicht, Fristen |
-| 01 | `01_mandatsannahme-insolvenzverwalter.md` | Mandatsannahme durch IV-Kanzlei; Konfliktprüfung |
-| 02 | `02_eroeffnungsbeschluss-ag-charlottenburg.md` | Beschluss des AG Charlottenburg 01.04.2026 |
-| 03 | `03_investorenprozess-und-shortlist.md` | Investorensuche, Shortlist, Eckdaten Bieter |
-| 04 | `04_loi-voracis-ventures.md` | Letter of Intent mit Voracis Ventures GmbH |
-| 05 | `05_due-diligence-bericht.md` | DD-Kurzfassung: IP, Verträge, AN, Daten |
-| 06 | `06_glaeubigerausschuss-zustimmung-160-inso.md` | Beschlussvorlage Gläubigerausschuss §§ 160, 162 InsO |
-| 07 | `07_kundendaten-dsgvo-analyse.md` | DSGVO-Analyse Kundendatenübertragung (B2B vs. B2C) |
-| 08 | `08_betriebsuebergang-613a-bgb.md` | Arbeitnehmerübergang nach § 613a BGB |
-| 09 | `09_asset-purchase-agreement-text.md` | Asset-Purchase-Agreement (Volltext, ausgefüllt) |
-| 10 | `10_closing-memorandum.md` | Closing-Memorandum 01.07.2026 |
-| 11 | `11_post-closing-anzeigen.md` | Post-Closing: Marken-Umschreibung, DSGVO-Information, BAG-Meldung |
+| 00 | `00_uebersicht-und-akteneinsicht.docx` | Übersichtsblatt, Akteneinsicht, Fristen |
+| 01 | `01_mandatsannahme-insolvenzverwalter.docx` | Mandatsannahme durch IV-Kanzlei; Konfliktprüfung |
+| 02 | `02_eroeffnungsbeschluss-ag-charlottenburg.docx` | Beschluss des AG Charlottenburg 01.04.2026 |
+| 03 | `03_investorenprozess-und-shortlist.docx` | Investorensuche, Shortlist, Eckdaten Bieter |
+| 04 | `04_loi-voracis-ventures.docx` | Letter of Intent mit Voracis Ventures GmbH |
+| 05 | `05_due-diligence-bericht.docx` | DD-Kurzfassung: IP, Verträge, AN, Daten |
+| 06 | `06_glaeubigerausschuss-zustimmung-160-inso.docx` | Beschlussvorlage Gläubigerausschuss §§ 160, 162 InsO |
+| 07 | `07_kundendaten-dsgvo-analyse.docx` | DSGVO-Analyse Kundendatenübertragung (B2B vs. B2C) |
+| 08 | `08_betriebsuebergang-613a-bgb.docx` | Arbeitnehmerübergang nach § 613a BGB |
+| 09 | `09_asset-purchase-agreement-text.docx` | Asset-Purchase-Agreement (Volltext, ausgefüllt) |
+| 10 | `10_closing-memorandum.docx` | Closing-Memorandum 01.07.2026 |
+| 11 | `11_post-closing-anzeigen.docx` | Post-Closing: Marken-Umschreibung, DSGVO-Information, BAG-Meldung |
 
 ## Anlagen
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 337 KB) | PDF | [`gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf`](gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 331 KB) | PDF | [`gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf`](gesamt-pdf/legistik-pflichtpostfach_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-legistik-pflichtpostfach-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach-einzelpdfs.zip) |
 

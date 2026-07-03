@@ -26,16 +26,16 @@ Diese Akte bündelt Unterlagen eines laufenden Verfahrens zur Anerkennung als Kr
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandantenbogen-und-status.md` | Statusaufnahme: ungedient, Jahrgang 1998, Antrag im Juni 2026, keine aktive Einberufung |
-| `02-antrag-bapersbw-entwurf.md` | Entwurf des Antrags an das BAPersBw mit Anlagenverzeichnis |
-| `03-persoenliche-gewissensbegruendung-rohfassung.md` | Persönliche Rohfassung mit Bruchstellen und Redaktionsbedarf |
-| `04-lebenslauf-tabellarisch.md` | Tabellarischer Lebenslauf mit gewissensrelevanten Stationen |
-| `05-sachstandsanfrage-nach-vier-monaten.md` | Sachstandsschreiben ohne falsche Untätigkeitsbeschwerde-Rhetorik |
-| `06-anhoerung-bafza-zweifel-und-antwort.md` | Schriftliche Anhörung und Antwortentwurf |
-| `07-rechtsschutz-memo-vwgo-75-und-eilrechtsschutz.md` | Prüfung § 75 VwGO, § 123 VwGO und § 3/§ 13 KDVG |
-| `08-dienstrecht-reservisten-und-fruehere-soldaten-notiz.md` | Zusatznotiz zu Reservisten, Soldatinnen und Gedienten |
-| `09-telefonnotiz-bapersbw.md` | Telefonnotiz zur Registrierung und Zuleitung |
-| `10-fristen-und-nachweislog.md` | Fristenlog, Zugangsnachweise und nächste Schritte |
+| `01-mandantenbogen-und-status.docx` | Statusaufnahme: ungedient, Jahrgang 1998, Antrag im Juni 2026, keine aktive Einberufung |
+| `02-antrag-bapersbw-entwurf.docx` | Entwurf des Antrags an das BAPersBw mit Anlagenverzeichnis |
+| `03-persoenliche-gewissensbegruendung-rohfassung.docx` | Persönliche Rohfassung mit Bruchstellen und Redaktionsbedarf |
+| `04-lebenslauf-tabellarisch.docx` | Tabellarischer Lebenslauf mit gewissensrelevanten Stationen |
+| `05-sachstandsanfrage-nach-vier-monaten.docx` | Sachstandsschreiben ohne falsche Untätigkeitsbeschwerde-Rhetorik |
+| `06-anhoerung-bafza-zweifel-und-antwort.docx` | Schriftliche Anhörung und Antwortentwurf |
+| `07-rechtsschutz-memo-vwgo-75-und-eilrechtsschutz.docx` | Prüfung § 75 VwGO, § 123 VwGO und § 3/§ 13 KDVG |
+| `08-dienstrecht-reservisten-und-fruehere-soldaten-notiz.docx` | Zusatznotiz zu Reservisten, Soldatinnen und Gedienten |
+| `09-telefonnotiz-bapersbw.docx` | Telefonnotiz zur Registrierung und Zuleitung |
+| `10-fristen-und-nachweislog.docx` | Fristenlog, Zugangsnachweise und nächste Schritte |
 
 ## Zugeordnete Plugins
 

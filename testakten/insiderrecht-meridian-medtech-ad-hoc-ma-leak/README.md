@@ -27,7 +27,7 @@ Diese Akte gehört zu den Plugins `insiderrecht-compliance`, `aktienrecht-hauptv
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-zeitstrahl.md` | Projektstand, Kursbewegung, Leak, Gremien |
+| `01-sachverhalt-und-zeitstrahl.docx` | Projektstand, Kursbewegung, Leak, Gremien |
 | `02-insiderliste-arbeitsstand.xlsx` | Projektliste, permanente Insider, Belehrungsstatus |
 | `03-ir-mail-leak.eml` | E-Mail an IR/Legal nach Pressegerücht |
 | `04-aufschubvermerk-vorstand.docx` | Entwurf Aufschubentscheidung |
@@ -38,4 +38,4 @@ Diese Akte gehört zu den Plugins `insiderrecht-compliance`, `aktienrecht-hauptv
 
 | Datei | Inhalt |
 | --- | --- |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |

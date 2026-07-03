@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 81 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 75 KB) | PDF | [`gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf`](gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsgruender-streit-roeschen-tech-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech-einzelpdfs.zip) |
 
@@ -39,21 +39,21 @@ Die Akte ist nicht glatt: Die Satzung ist fortgeschrieben, das SHA enthält engl
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_Satzung_Roeschen_Tech_GmbH.md` | Satzung nach Series A |
-| `02_Shareholder_Agreement.md` | SHA mit Vesting, Drag/Tag, Liquidation Preference |
-| `03_Cap_Table_Vor_und_Nach_KE.md` | Cap Table Arbeitsstände |
-| `04_Einladung_GV_18-06-2026.md` | Einladung und Tagesordnung |
-| `05_GV_Protokoll_18-06-2026_streitig.md` | Streitiges Protokoll |
-| `06_Anfechtungsklage_Christine.md` | Klageentwurf |
-| `07_Eilantrag_LG_und_Registergericht.md` | Eilrechtsschutz |
-| `08_Beirat_Schlichtungs_Empfehlung.md` | Beiratsvorschlag |
-| `09_pruefvermerk_beirat_und_kapitalerhoehung.md` | Prüfvermerk |
-| `10_notarbriefing_registerlogik.md` | Notarbriefing und HR-Fragen |
-| `11_bank_kyc_transparenzregister.md` | Bank/KYC/UBO-Nachfragen |
-| `12_ip_assignment_open_source.md` | IP- und Open-Source-Risiken |
-| `13_founder_vesting_leaver_matrix.md` | Founder Vesting und Leaver-Konflikt |
-| `14_board_pack_cashburn.md` | Board Pack und Cash-Burn-Risiko |
-| `15_datenschutz_ki_compliance_start.md` | Datenschutz/KI-Startcheck |
-| `16_registerbeanstandung_entwurf.md` | mögliche Registerbeanstandung |
+| `01_Satzung_Roeschen_Tech_GmbH.docx` | Satzung nach Series A |
+| `02_Shareholder_Agreement.docx` | SHA mit Vesting, Drag/Tag, Liquidation Preference |
+| `03_Cap_Table_Vor_und_Nach_KE.docx` | Cap Table Arbeitsstände |
+| `04_Einladung_GV_18-06-2026.docx` | Einladung und Tagesordnung |
+| `05_GV_Protokoll_18-06-2026_streitig.docx` | Streitiges Protokoll |
+| `06_Anfechtungsklage_Christine.docx` | Klageentwurf |
+| `07_Eilantrag_LG_und_Registergericht.docx` | Eilrechtsschutz |
+| `08_Beirat_Schlichtungs_Empfehlung.docx` | Beiratsvorschlag |
+| `09_pruefvermerk_beirat_und_kapitalerhoehung.docx` | Prüfvermerk |
+| `10_notarbriefing_registerlogik.docx` | Notarbriefing und HR-Fragen |
+| `11_bank_kyc_transparenzregister.docx` | Bank/KYC/UBO-Nachfragen |
+| `12_ip_assignment_open_source.docx` | IP- und Open-Source-Risiken |
+| `13_founder_vesting_leaver_matrix.docx` | Founder Vesting und Leaver-Konflikt |
+| `14_board_pack_cashburn.docx` | Board Pack und Cash-Burn-Risiko |
+| `15_datenschutz_ki_compliance_start.docx` | Datenschutz/KI-Startcheck |
+| `16_registerbeanstandung_entwurf.docx` | mögliche Registerbeanstandung |
 | `emails/*.eml` | E-Mail-Verkehr Gründer/Notar/Bank/Investor |
 | `tabellen/*.csv` | Cap Table, Closing CPs, UBO-Liste |

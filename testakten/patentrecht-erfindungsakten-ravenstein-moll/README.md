@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1096 KB) | PDF | [`gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf`](gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1093 KB) | PDF | [`gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf`](gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-patentrecht-erfindungsakten-ravenstein-moll.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-patentrecht-erfindungsakten-ravenstein-moll-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll-einzelpdfs.zip) |
 
@@ -37,13 +37,13 @@ Diese Akte bündelt sechs patentrechtliche Mandatslagen aus einer Patentanwalts-
 | --- | --- |
 | `pdfs/originale/` | Eingereichte Original-PDFs zu den sechs Akten und interne Auswertungsmaterialien |
 | `01-aktenuebersicht-und-soforttriage.md` | Kanzleiinterner Überblick, Fristen, Risiken, Skillrouting |
-| `02-akte-a-erfindungsaufnahme-huehnerstall.md` | Erfindungsaufnahme, Merkmale, Offenbarungsrisiken, Rückfragen |
-| `03-akte-a-anspruchsentwurf-v0-3.md` | Arbeitsentwurf Anspruch 1 und Unteransprüche |
-| `04-akte-b-abmahnung-laserduese-claim-chart.md` | Claim Chart Verteidigung und Abmahnreaktion |
-| `05-akte-c-rechercheplan-getraenkehalter.md` | Recherchestrategie, Suchstrings, Prior-Art-Bewertung |
-| `06-akte-d-lizenzvertrag-reviewmatrix.md` | Reviewmatrix Patentlizenz VitaPhotonics/Luminos |
-| `07-akte-e-termsheet-variablenmapping-de-en.md` | Variablenmapping und Klauselcheck DE/EN |
-| `08-akte-f-einspruch-nichtigkeit-fristen.md` | Einspruchs-/Nichtigkeitsstrategie Frosthaus |
+| `02-akte-a-erfindungsaufnahme-huehnerstall.docx` | Erfindungsaufnahme, Merkmale, Offenbarungsrisiken, Rückfragen |
+| `03-akte-a-anspruchsentwurf-v0-3.docx` | Arbeitsentwurf Anspruch 1 und Unteransprüche |
+| `04-akte-b-abmahnung-laserduese-claim-chart.docx` | Claim Chart Verteidigung und Abmahnreaktion |
+| `05-akte-c-rechercheplan-getraenkehalter.docx` | Recherchestrategie, Suchstrings, Prior-Art-Bewertung |
+| `06-akte-d-lizenzvertrag-reviewmatrix.docx` | Reviewmatrix Patentlizenz VitaPhotonics/Luminos |
+| `07-akte-e-termsheet-variablenmapping-de-en.docx` | Variablenmapping und Klauselcheck DE/EN |
+| `08-akte-f-einspruch-nichtigkeit-fristen.docx` | Einspruchs-/Nichtigkeitsstrategie Frosthaus |
 | `emails/` | echte EML-Dateien mit Mandantenkommunikation und Fristdruck |
 | `tabellen/` | CSV-Arbeitstabellen für Fristen, Prior Art, Lizenzfehler und Term-Sheet-Variablen |
 | `docx/` | Arbeitsentwürfe für Anspruch und Mandantenkommunikation |

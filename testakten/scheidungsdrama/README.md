@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 2225 KB) | PDF | [`gesamt-pdf/scheidungsdrama_gesamt.pdf`](gesamt-pdf/scheidungsdrama_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 2214 KB) | PDF | [`gesamt-pdf/scheidungsdrama_gesamt.pdf`](gesamt-pdf/scheidungsdrama_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-scheidungsdrama.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-scheidungsdrama-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama-einzelpdfs.zip) |
 
@@ -60,28 +60,28 @@ Arbeitsakte zum Plugin `kindeswohlgefaehrdung-eilantrag`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Kanzleinotiz Erstgespräch vom 28.11.2024 |
-| 02 | [`02_familienkonstellation_und_trennungschronik.md`](02_familienkonstellation_und_trennungschronik.md) | Familientabelle, Beteiligte, Chronik |
-| 03 | [`03_ehevertrag_oder_kein_ehevertrag.md`](03_ehevertrag_oder_kein_ehevertrag.md) | Kein Ehevertrag; Zugewinngemeinschaft gesetzlich |
-| 04 | [`04_haushaltsstruktur_und_betreuungsanteile.md`](04_haushaltsstruktur_und_betreuungsanteile.md) | Schulen, Hobbys, Wochenroutine, Betreuungsanteile |
-| 05 | [`05_kommunikation_franz_und_studentin.md`](05_kommunikation_franz_und_studentin.md) | Affäre, Nachrichtenauswertung, Mandatsrelevanz |
-| 06 | [`06_alkoholvorfall_22_02_2025_und_meldungen.md`](06_alkoholvorfall_22_02_2025_und_meldungen.md) | Alkohol-Vorfall, Lehrerin Müller-Tessar, Schulpsychologie, JA-Meldung |
-| 07 | [`07_jugendamt_hannover_korrespondenz.md`](07_jugendamt_hannover_korrespondenz.md) | JA-Schriftwechsel, Cochemer-Beratung, Familienhelfer |
-| 08 | [`08_eilantrag_1666_bgb_pruefung.md`](08_eilantrag_1666_bgb_pruefung.md) | § 1666 BGB-Prüfung, § 49 FamFG, taktische Risiken |
-| 09 | [`09_umgangsregelung_entwuerfe_und_aktueller_stand.md`](09_umgangsregelung_entwuerfe_und_aktueller_stand.md) | Drei Umgangsentwürfe, § 159 FamFG, Wechselmodell-Analyse |
-| 10 | [`10_sbgg_mara_personenstandswechsel.md`](10_sbgg_mara_personenstandswechsel.md) | SBGG-Antrag Mara, Ersatzzustimmung, Sorgerecht |
-| 11 | [`11_zugewinnausgleich_vermoegensaufstellung.md`](11_zugewinnausgleich_vermoegensaufstellung.md) | Anfangs-/Endvermögen, Bewertungsfragen |
+| 01 | [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Kanzleinotiz Erstgespräch vom 28.11.2024 |
+| 02 | [`02_familienkonstellation_und_trennungschronik.docx`](02_familienkonstellation_und_trennungschronik.docx) | Familientabelle, Beteiligte, Chronik |
+| 03 | [`03_ehevertrag_oder_kein_ehevertrag.docx`](03_ehevertrag_oder_kein_ehevertrag.docx) | Kein Ehevertrag; Zugewinngemeinschaft gesetzlich |
+| 04 | [`04_haushaltsstruktur_und_betreuungsanteile.docx`](04_haushaltsstruktur_und_betreuungsanteile.docx) | Schulen, Hobbys, Wochenroutine, Betreuungsanteile |
+| 05 | [`05_kommunikation_franz_und_studentin.docx`](05_kommunikation_franz_und_studentin.docx) | Affäre, Nachrichtenauswertung, Mandatsrelevanz |
+| 06 | [`06_alkoholvorfall_22_02_2025_und_meldungen.docx`](06_alkoholvorfall_22_02_2025_und_meldungen.docx) | Alkohol-Vorfall, Lehrerin Müller-Tessar, Schulpsychologie, JA-Meldung |
+| 07 | [`07_jugendamt_hannover_korrespondenz.docx`](07_jugendamt_hannover_korrespondenz.docx) | JA-Schriftwechsel, Cochemer-Beratung, Familienhelfer |
+| 08 | [`08_eilantrag_1666_bgb_pruefung.docx`](08_eilantrag_1666_bgb_pruefung.docx) | § 1666 BGB-Prüfung, § 49 FamFG, taktische Risiken |
+| 09 | [`09_umgangsregelung_entwuerfe_und_aktueller_stand.docx`](09_umgangsregelung_entwuerfe_und_aktueller_stand.docx) | Drei Umgangsentwürfe, § 159 FamFG, Wechselmodell-Analyse |
+| 10 | [`10_sbgg_mara_personenstandswechsel.docx`](10_sbgg_mara_personenstandswechsel.docx) | SBGG-Antrag Mara, Ersatzzustimmung, Sorgerecht |
+| 11 | [`11_zugewinnausgleich_vermoegensaufstellung.docx`](11_zugewinnausgleich_vermoegensaufstellung.docx) | Anfangs-/Endvermögen, Bewertungsfragen |
 | 12 | [`12_zugewinnausgleich_berechnung.xlsx`](xlsx/zugewinnausgleich_berechnung.xlsx) | XLSX-Berechnung Zugewinnausgleich + Sensitivitätsanalyse |
-| 13 | [`13_unterhalt_duesseldorfer_tabelle.md`](13_unterhalt_duesseldorfer_tabelle.md) | Kindesunterhalt Düsseldorfer Tabelle, Mangelfall, 2027 Mara |
+| 13 | [`13_unterhalt_duesseldorfer_tabelle.docx`](13_unterhalt_duesseldorfer_tabelle.docx) | Kindesunterhalt Düsseldorfer Tabelle, Mangelfall, 2027 Mara |
 | 14 | [`14_unterhaltsberechnung_aktuell.xlsx`](xlsx/unterhaltsberechnung_kindesunterhalt_trennungsunterhalt.xlsx) | XLSX-Berechnung Kindes- und Trennungsunterhalt |
-| 15 | [`15_trennungsunterhalt_franz_gegen_hanna.md`](15_trennungsunterhalt_franz_gegen_hanna.md) | § 1361 BGB, 3/7-Methode, Erwerbsobliegenheit Franz |
-| 16 | [`16_versorgungsausgleich_versorgungswerk_und_grv.md`](16_versorgungsausgleich_versorgungswerk_und_grv.md) | AKNS-Vorabauskunft, GRV, interne/externe Teilung |
-| 17 | [`17_immobilie_lindener_hofstrasse_47.md`](17_immobilie_lindener_hofstrasse_47.md) | Wertgutachten, Optionen (Auskauf/Verkauf/Versteigerung) |
-| 18 | [`18_architektenpartGmbB_wert_und_zugewinn.md`](18_architektenpartGmbB_wert_und_zugewinn.md) | PartGmbB-Bewertung, Goodwill, Schwester als Mitgesellschafterin |
-| 19 | [`19_kommunikationsregeln_und_eskalationsmanagement.md`](19_kommunikationsregeln_und_eskalationsmanagement.md) | Kommunikationsprotokoll, Parental Coordination, Eskalationsstufen |
-| 20 | [`20_scheidungsantrag_entwurf.md`](20_scheidungsantrag_entwurf.md) | Entwurf Scheidungsantrag, Verbundverfahren, Zeitplan |
-| 21 | [`21_strategie_und_vergleichskorridor.md`](21_strategie_und_vergleichskorridor.md) | Hebel, Vergleichskorridor, Best/Worst-Case |
-| 22 | [`22_zeugen_beweismittel_und_anhoerung_kinder.md`](22_zeugen_beweismittel_und_anhoerung_kinder.md) | Zeugenliste, Beweismittel, § 158/159/163 FamFG |
+| 15 | [`15_trennungsunterhalt_franz_gegen_hanna.docx`](15_trennungsunterhalt_franz_gegen_hanna.docx) | § 1361 BGB, 3/7-Methode, Erwerbsobliegenheit Franz |
+| 16 | [`16_versorgungsausgleich_versorgungswerk_und_grv.docx`](16_versorgungsausgleich_versorgungswerk_und_grv.docx) | AKNS-Vorabauskunft, GRV, interne/externe Teilung |
+| 17 | [`17_immobilie_lindener_hofstrasse_47.docx`](17_immobilie_lindener_hofstrasse_47.docx) | Wertgutachten, Optionen (Auskauf/Verkauf/Versteigerung) |
+| 18 | [`18_architektenpartGmbB_wert_und_zugewinn.docx`](18_architektenpartGmbB_wert_und_zugewinn.docx) | PartGmbB-Bewertung, Goodwill, Schwester als Mitgesellschafterin |
+| 19 | [`19_kommunikationsregeln_und_eskalationsmanagement.docx`](19_kommunikationsregeln_und_eskalationsmanagement.docx) | Kommunikationsprotokoll, Parental Coordination, Eskalationsstufen |
+| 20 | [`20_scheidungsantrag_entwurf.docx`](20_scheidungsantrag_entwurf.docx) | Entwurf Scheidungsantrag, Verbundverfahren, Zeitplan |
+| 21 | [`21_strategie_und_vergleichskorridor.docx`](21_strategie_und_vergleichskorridor.docx) | Hebel, Vergleichskorridor, Best/Worst-Case |
+| 22 | [`22_zeugen_beweismittel_und_anhoerung_kinder.docx`](22_zeugen_beweismittel_und_anhoerung_kinder.docx) | Zeugenliste, Beweismittel, § 158/159/163 FamFG |
 
 ---
 

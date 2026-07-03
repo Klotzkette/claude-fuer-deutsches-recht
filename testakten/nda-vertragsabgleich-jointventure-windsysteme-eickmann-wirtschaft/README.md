@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 527 KB) | PDF | [`gesamt-pdf/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft_gesamt.pdf`](gesamt-pdf/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 517 KB) | PDF | [`gesamt-pdf/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft_gesamt.pdf`](gesamt-pdf/nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nda-vertragsabgleich-jointventure-windsysteme-eickmann-wirtschaft-einzelpdfs.zip) |
 
@@ -65,28 +65,28 @@ Arbeitsakte zum Plugin `nda-abgleich`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-windsysteme.md`](01-mandatsuebernahme-windsysteme.md) | Mandatsaufnahme, Vollmacht, Interessenkonfliktprüfung |
-| 02 | [`02-projektbeschreibung-jointventure.md`](02-projektbeschreibung-jointventure.md) | JV-Struktur, Beteiligungsverhältnisse, Hintergrund |
-| 03 | [`03-nda-entwurf-eickmann-version-1.md`](03-nda-entwurf-eickmann-version-1.md) | Eickmanns NDA-Ersterstellung v1 (vollständig) |
-| 04 | [`04-nda-gegenentwurf-windsysteme.md`](04-nda-gegenentwurf-windsysteme.md) | Windsystemes Gegenentwurf mit Markups |
-| 05 | [`05-klauselabgleich-vertraulichkeit.md`](05-klauselabgleich-vertraulichkeit.md) | Klauselvergleich: Definition vertrauliche Information |
-| 06 | [`06-klauselabgleich-verwendungszweck.md`](06-klauselabgleich-verwendungszweck.md) | Klauselvergleich: Verwendungszweck und Zweckbindung |
-| 07 | [`07-klauselabgleich-rueckgabepflicht.md`](07-klauselabgleich-rueckgabepflicht.md) | Klauselvergleich: Rückgabe/Vernichtung, Datenträger |
-| 08 | [`08-klauselabgleich-vertragsstrafe.md`](08-klauselabgleich-vertragsstrafe.md) | Klauselvergleich: Vertragsstrafe, AGB-Kontrolle § 307 BGB |
-| 09 | [`09-klauselabgleich-laufzeit.md`](09-klauselabgleich-laufzeit.md) | Klauselvergleich: Laufzeit 7 vs. 3 Jahre, Kompromiss |
-| 10 | [`10-klauselabgleich-gerichtsstand-recht.md`](10-klauselabgleich-gerichtsstand-recht.md) | Klauselvergleich: Rechtswahlklausel, Gerichtsstand |
-| 11 | [`11-klauselabgleich-exportkontrolle-iran.md`](11-klauselabgleich-exportkontrolle-iran.md) | Exportkontroll-Klausel, AWG/AWV, Iran-Sanktionen |
-| 12 | [`12-klauselabgleich-residual-information.md`](12-klauselabgleich-residual-information.md) | Residual-Information-Klausel, GeschGehG-Risiko |
-| 13 | [`13-klauselabgleich-mitarbeiterklausel.md`](13-klauselabgleich-mitarbeiterklausel.md) | Abwerbeverbote, Vertragsstrafe 250.000 EUR, Deckelung |
-| 14 | [`14-klauselabgleich-restrukturierung-konzern.md`](14-klauselabgleich-restrukturierung-konzern.md) | Konzernübertragungsklausel, Change-of-Control |
-| 15 | [`15-streitstand-gerichtsstand-singapur.md`](15-streitstand-gerichtsstand-singapur.md) | SIAC Rules 2016, LG Hamburg, DIS, Vergleich |
-| 16 | [`16-geschgehg-pruefung-angemessene-massnahmen.md`](16-geschgehg-pruefung-angemessene-massnahmen.md) | GeschGehG §§ 2–3, Audit-Checkliste, Empfehlungen |
-| 17 | [`17-eckert-marker-tabelle-fallstricke.md`](17-eckert-marker-tabelle-fallstricke.md) | Marker-Tabelle: kritische Klauselrisiken im Überblick |
-| 18 | [`18-cybertrading-warnliste-fuer-mandant.md`](18-cybertrading-warnliste-fuer-mandant.md) | IT-Security-Hinweise, Cybertrading-Bedenken |
-| 19 | [`19-protokoll-verhandlung-tag-1.md`](19-protokoll-verhandlung-tag-1.md) | Verhandlungsprotokoll Tag 1, Singapur |
-| 20 | [`20-protokoll-verhandlung-tag-2.md`](20-protokoll-verhandlung-tag-2.md) | Verhandlungsprotokoll Tag 2, Singapur |
-| 21 | [`21-finale-version-nda-v7.md`](21-finale-version-nda-v7.md) | Konsolidierte NDA-Fassung v7 (Textfassung MD) |
-| 22 | [`22-abschlussvermerk-anwalt.md`](22-abschlussvermerk-anwalt.md) | Anwaltlicher Abschlussvermerk, Empfehlungen |
+| 01 | [`01-mandatsuebernahme-windsysteme.docx`](01-mandatsuebernahme-windsysteme.docx) | Mandatsaufnahme, Vollmacht, Interessenkonfliktprüfung |
+| 02 | [`02-projektbeschreibung-jointventure.docx`](02-projektbeschreibung-jointventure.docx) | JV-Struktur, Beteiligungsverhältnisse, Hintergrund |
+| 03 | [`03-nda-entwurf-eickmann-version-1.docx`](03-nda-entwurf-eickmann-version-1.docx) | Eickmanns NDA-Ersterstellung v1 (vollständig) |
+| 04 | [`04-nda-gegenentwurf-windsysteme.docx`](04-nda-gegenentwurf-windsysteme.docx) | Windsystemes Gegenentwurf mit Markups |
+| 05 | [`05-klauselabgleich-vertraulichkeit.docx`](05-klauselabgleich-vertraulichkeit.docx) | Klauselvergleich: Definition vertrauliche Information |
+| 06 | [`06-klauselabgleich-verwendungszweck.docx`](06-klauselabgleich-verwendungszweck.docx) | Klauselvergleich: Verwendungszweck und Zweckbindung |
+| 07 | [`07-klauselabgleich-rueckgabepflicht.docx`](07-klauselabgleich-rueckgabepflicht.docx) | Klauselvergleich: Rückgabe/Vernichtung, Datenträger |
+| 08 | [`08-klauselabgleich-vertragsstrafe.docx`](08-klauselabgleich-vertragsstrafe.docx) | Klauselvergleich: Vertragsstrafe, AGB-Kontrolle § 307 BGB |
+| 09 | [`09-klauselabgleich-laufzeit.docx`](09-klauselabgleich-laufzeit.docx) | Klauselvergleich: Laufzeit 7 vs. 3 Jahre, Kompromiss |
+| 10 | [`10-klauselabgleich-gerichtsstand-recht.docx`](10-klauselabgleich-gerichtsstand-recht.docx) | Klauselvergleich: Rechtswahlklausel, Gerichtsstand |
+| 11 | [`11-klauselabgleich-exportkontrolle-iran.docx`](11-klauselabgleich-exportkontrolle-iran.docx) | Exportkontroll-Klausel, AWG/AWV, Iran-Sanktionen |
+| 12 | [`12-klauselabgleich-residual-information.docx`](12-klauselabgleich-residual-information.docx) | Residual-Information-Klausel, GeschGehG-Risiko |
+| 13 | [`13-klauselabgleich-mitarbeiterklausel.docx`](13-klauselabgleich-mitarbeiterklausel.docx) | Abwerbeverbote, Vertragsstrafe 250.000 EUR, Deckelung |
+| 14 | [`14-klauselabgleich-restrukturierung-konzern.docx`](14-klauselabgleich-restrukturierung-konzern.docx) | Konzernübertragungsklausel, Change-of-Control |
+| 15 | [`15-streitstand-gerichtsstand-singapur.docx`](15-streitstand-gerichtsstand-singapur.docx) | SIAC Rules 2016, LG Hamburg, DIS, Vergleich |
+| 16 | [`16-geschgehg-pruefung-angemessene-massnahmen.docx`](16-geschgehg-pruefung-angemessene-massnahmen.docx) | GeschGehG §§ 2–3, Audit-Checkliste, Empfehlungen |
+| 17 | [`17-eckert-marker-tabelle-fallstricke.docx`](17-eckert-marker-tabelle-fallstricke.docx) | Marker-Tabelle: kritische Klauselrisiken im Überblick |
+| 18 | [`18-cybertrading-warnliste-fuer-mandant.docx`](18-cybertrading-warnliste-fuer-mandant.docx) | IT-Security-Hinweise, Cybertrading-Bedenken |
+| 19 | [`19-protokoll-verhandlung-tag-1.docx`](19-protokoll-verhandlung-tag-1.docx) | Verhandlungsprotokoll Tag 1, Singapur |
+| 20 | [`20-protokoll-verhandlung-tag-2.docx`](20-protokoll-verhandlung-tag-2.docx) | Verhandlungsprotokoll Tag 2, Singapur |
+| 21 | [`21-finale-version-nda-v7.docx`](21-finale-version-nda-v7.docx) | Konsolidierte NDA-Fassung v7 (Textfassung MD) |
+| 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Anwaltlicher Abschlussvermerk, Empfehlungen |
 
 ---
 

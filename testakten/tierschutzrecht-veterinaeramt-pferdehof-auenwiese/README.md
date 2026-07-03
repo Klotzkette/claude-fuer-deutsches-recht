@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 87 KB) | PDF | [`gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf`](gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 86 KB) | PDF | [`gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf`](gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip) |
 
@@ -22,14 +22,14 @@ Tierschutzakte Pferdehof Auenwiese: Veterinäramt, Haltungsanordnung, Wegnahme, 
 
 | Datei | Inhalt |
 |---|---|
-| `01-sachverhalt-und-akte.md` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
+| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
 | `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
 | `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
 | `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
 | `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
 | `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.md` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

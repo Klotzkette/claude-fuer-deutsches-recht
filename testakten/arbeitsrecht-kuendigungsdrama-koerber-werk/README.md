@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 563 KB) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 558 KB) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip) |
 
@@ -56,28 +56,28 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 
 | Datei | Inhalt |
 |-------|--------|
-| `01_erstgespraech_mandantennotiz.md` | Detailliertes Erstgesprächsprotokoll vom 30.05.2025: Zeitleiste, Streitstränge, Fristen-Tabelle, Mandatsannahme |
-| `02_lebenslauf_und_stationen_koerber.md` | Lebenslauf Dr. Körber: Promotion, Berufsstationen 2005–2025, persönliche Details |
-| `03_arbeitsvertrag_at_koerber_2012.md` | Vollständiger AT-Arbeitsvertrag mit Nachträgen I (2018) und II (2021) sowie Ergänzungsvereinbarung Senior Advisor |
-| `04_organigramm_und_stellenbeschreibung.md` | Konzern-Organigramm, Werk-Organigramm Eberswalde, vollständige Stellenbeschreibung (identisch mit Vorgänger Wolters) |
+| `01_erstgespraech_mandantennotiz.docx` | Detailliertes Erstgesprächsprotokoll vom 30.05.2025: Zeitleiste, Streitstränge, Fristen-Tabelle, Mandatsannahme |
+| `02_lebenslauf_und_stationen_koerber.docx` | Lebenslauf Dr. Körber: Promotion, Berufsstationen 2005–2025, persönliche Details |
+| `03_arbeitsvertrag_at_koerber_2012.docx` | Vollständiger AT-Arbeitsvertrag mit Nachträgen I (2018) und II (2021) sowie Ergänzungsvereinbarung Senior Advisor |
+| `04_organigramm_und_stellenbeschreibung.docx` | Konzern-Organigramm, Werk-Organigramm Eberswalde, vollständige Stellenbeschreibung (identisch mit Vorgänger Wolters) |
 | `05_au_zeiten_und_krankheitsverlauf.csv` | CSV-Tabelle mit 5 AU-Phasen, ICD-10-Codes, Ärzten, Arbeitstagen |
-| `06_hinschg_anzeige_mai_2024.md` | Wortlaut des EthicsHub-Hinweises, Eingangsbestätigung, Reidentifizierungsindizien |
-| `07_korrespondenz_kemnitz_freundschaftliche_hinweise.md` | Gesprächsnotizen zu drei Kemnitz-Gesprächen Juni/Juli 2024, eskalierender Ton |
-| `08_aufhebungsvertrag_entwurf_steinhoff_mai_2025.md` | Vollständiger Aufhebungsvertragsentwurf mit Kanzleianalyse aller Fallen |
-| `09_kuendigungsschreiben_22_05_2025.md` | Wortlaut der Kündigung, Zugangsnachweis, Fristberechnung |
-| `10_betriebsratsanhoerung_protokoll.md` | Anhörungsschreiben GF, BR-Sitzungsprotokoll 20.05.2025, BR-Widerspruch 22.05.2025 |
-| `11_betriebsratsbeschluss_quorumsstreit.md` | Detaillierter Streit um Ersatzmitglied-Nichtladung, rechtliche Analyse, Heilungsfrage |
-| `12_bem_einladung_nichts_passiert.md` | Körbers BEM-Anfrage 29.07.2024, Abwimmelungs-E-Mail Branitz, Rechtsfolgen für die Kündigungslast |
-| `13_entgelttransparenz_anfrage_und_antwort.md` | § 10 EntgTranspG-Auskunftsersuchen, verspätete Antwort, Median-Analyse, AGG-Indizienlage |
+| `06_hinschg_anzeige_mai_2024.docx` | Wortlaut des EthicsHub-Hinweises, Eingangsbestätigung, Reidentifizierungsindizien |
+| `07_korrespondenz_kemnitz_freundschaftliche_hinweise.docx` | Gesprächsnotizen zu drei Kemnitz-Gesprächen Juni/Juli 2024, eskalierender Ton |
+| `08_aufhebungsvertrag_entwurf_steinhoff_mai_2025.docx` | Vollständiger Aufhebungsvertragsentwurf mit Kanzleianalyse aller Fallen |
+| `09_kuendigungsschreiben_22_05_2025.docx` | Wortlaut der Kündigung, Zugangsnachweis, Fristberechnung |
+| `10_betriebsratsanhoerung_protokoll.docx` | Anhörungsschreiben GF, BR-Sitzungsprotokoll 20.05.2025, BR-Widerspruch 22.05.2025 |
+| `11_betriebsratsbeschluss_quorumsstreit.docx` | Detaillierter Streit um Ersatzmitglied-Nichtladung, rechtliche Analyse, Heilungsfrage |
+| `12_bem_einladung_nichts_passiert.docx` | Körbers BEM-Anfrage 29.07.2024, Abwimmelungs-E-Mail Branitz, Rechtsfolgen für die Kündigungslast |
+| `13_entgelttransparenz_anfrage_und_antwort.docx` | § 10 EntgTranspG-Auskunftsersuchen, verspätete Antwort, Median-Analyse, AGG-Indizienlage |
 | `14_gehaltsvergleich_koerber_wolters.xlsx` | XLSX-Tabelle: Vergütungsvergleich 2018–2025 mit Differenzberechnung, Methodik-Sheet |
-| `15_massenentlassungsanzeige_ankuendigung.md` | Schwellenwert-Check, Konsultationsverfahren-Mängel, Anzeigepflicht vor Kündigung |
-| `16_befristungsanteil_senior_advisor.md` | Verlängerungskette, Überschreitung 24-Monatsschwelle, Schriftformverstoß, TzBfG-Analyse |
-| `17_urlaub_und_freistellung.md` | Resturlaubs-Buchführung 38 Tage, BAG-Rechtsprechung zur Aufforderungspflicht, unwirksame Freistellungsklausel |
-| `18_emails_branitz_aufhebungsdruck.md` | Sechs E-Mails HR-Leiter Branitz mit Druckaufbau, Drohformulierungen, Anwälts-Analyse jeder E-Mail |
-| `19_zeitstrahl_gesamtfall.md` | Chronologie 2012–2025, alle Ereignisse mit Aktenstückverweisen |
-| `20_schriftsatzkern_kuendigungsschutzklage_entwurf.md` | Vollständiger Klageschrift-Entwurf: Anträge, Sachverhalt, Rechtswürdigung, Beweisangebote |
-| `21_verhandlungsstrategie_und_vergleichskoridor.md` | Interne Strategie-Notiz: Hebel-Analyse, Vergleichskorridor mit Einzelpositionen, Best/Worst-Case |
-| `22_zeugenliste_und_beweismittel.md` | Zeugen mit Themen und Risiken, urkundliche Beweismittel, § 142 ZPO-Anträge |
+| `15_massenentlassungsanzeige_ankuendigung.docx` | Schwellenwert-Check, Konsultationsverfahren-Mängel, Anzeigepflicht vor Kündigung |
+| `16_befristungsanteil_senior_advisor.docx` | Verlängerungskette, Überschreitung 24-Monatsschwelle, Schriftformverstoß, TzBfG-Analyse |
+| `17_urlaub_und_freistellung.docx` | Resturlaubs-Buchführung 38 Tage, BAG-Rechtsprechung zur Aufforderungspflicht, unwirksame Freistellungsklausel |
+| `18_emails_branitz_aufhebungsdruck.docx` | Sechs E-Mails HR-Leiter Branitz mit Druckaufbau, Drohformulierungen, Anwälts-Analyse jeder E-Mail |
+| `19_zeitstrahl_gesamtfall.docx` | Chronologie 2012–2025, alle Ereignisse mit Aktenstückverweisen |
+| `20_schriftsatzkern_kuendigungsschutzklage_entwurf.docx` | Vollständiger Klageschrift-Entwurf: Anträge, Sachverhalt, Rechtswürdigung, Beweisangebote |
+| `21_verhandlungsstrategie_und_vergleichskoridor.docx` | Interne Strategie-Notiz: Hebel-Analyse, Vergleichskorridor mit Einzelpositionen, Best/Worst-Case |
+| `22_zeugenliste_und_beweismittel.docx` | Zeugen mit Themen und Risiken, urkundliche Beweismittel, § 142 ZPO-Anträge |
 
 ## Anhänge
 

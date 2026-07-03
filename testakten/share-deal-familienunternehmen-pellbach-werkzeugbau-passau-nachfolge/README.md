@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 609 KB) | PDF | [`gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf`](gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 601 KB) | PDF | [`gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf`](gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge-einzelpdfs.zip) |
 
@@ -79,28 +79,28 @@ Arbeitsakte zum Plugin `mittelstand-corporate-ma`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-pellbach.md`](01-mandatsuebernahme-pellbach.md) | Mandatsnotiz Erstgespräch, Interessenkonfliktprüfung, Vollmacht |
-| 02 | [`02-unternehmenshistorie.md`](02-unternehmenshistorie.md) | Unternehmensgeschichte, Gesellschaftsstruktur, Family Governance |
-| 03 | [`03-vendor-due-diligence-zusammenfassung.md`](03-vendor-due-diligence-zusammenfassung.md) | VDD-Red-Flag-Report, Scope, wesentliche Findings |
-| 04 | [`04-financial-fact-book.md`](04-financial-fact-book.md) | Locked-Box, Kaufpreismechanismus, Leakage-Definitionen, EBITDA-Brücke |
-| 05 | [`05-tax-due-diligence.md`](05-tax-due-diligence.md) | Tax-DD, Schwarze Kasse Polen, § 371 AO, Steuerrisiken |
-| 06 | [`06-legal-due-diligence-arbeitsrecht.md`](06-legal-due-diligence-arbeitsrecht.md) | § 613a BGB, Betriebsrat, Pensionszusage Reinhard, Betriebsübergang |
-| 07 | [`07-legal-due-diligence-it.md`](07-legal-due-diligence-it.md) | IT-Lizenzaudit, DSGVO, OT-Security, kritische Abhängigkeiten |
-| 08 | [`08-environmental-due-diligence.md`](08-environmental-due-diligence.md) | Altlastenverdacht, BBodSchG, Umweltrückstellungen |
-| 09 | [`09-bewertung-multiplikator-vs-dcf.md`](09-bewertung-multiplikator-vs-dcf.md) | EBITDA-Bereinigung, DCF, WACC, Peer-Group, Earn-Out-Wert |
-| 10 | [`10-spa-entwurf-version-3.md`](10-spa-entwurf-version-3.md) | SPA-Klauselüberblick v3, offene Issues, Redline-Status |
-| 11 | [`11-spa-mac-klausel-diskussion.md`](11-spa-mac-klausel-diskussion.md) | MAC-Definition, China-Suzhou, VO (EU) 833/2014, Steinheim-Position |
-| 12 | [`12-earn-out-mechanismus.md`](12-earn-out-mechanismus.md) | EBITDA-Hurdle 18 Mio., Zahlungsmodalitäten, Anti-Manipulation |
-| 13 | [`13-w-and-i-versicherung.md`](13-w-and-i-versicherung.md) | W&I-Prozess, Underwriting, Versicherungsumfang, Ausschlüsse |
-| 14 | [`14-gesellschafterbeschluss-zustimmung.md`](14-gesellschafterbeschluss-zustimmung.md) | GmbHG §§ 51, 53, 55; Beschlussprotokoll, Quorum |
-| 15 | [`15-finanzierungskonzept-mezzanine.md`](15-finanzierungskonzept-mezzanine.md) | PIK-Note, Unitranche, Covenants, LBO-Struktur, Steinheim |
-| 16 | [`16-kartellrechtliche-anmeldung.md`](16-kartellrechtliche-anmeldung.md) | GWB §§ 35 ff, BKartA B 6-188/26, Auflagen-Szenario |
-| 17 | [`17-mitarbeiterkommunikation-day-1.md`](17-mitarbeiterkommunikation-day-1.md) | § 613a BGB-Unterrichtung, Betriebsrat, Day-1-Kommunikation |
-| 18 | [`18-kundenkommunikation-key-accounts.md`](18-kundenkommunikation-key-accounts.md) | Key-Account-Anschreiben, Change-of-Control, Vertraulichkeit |
-| 19 | [`19-signing-protokoll.md`](19-signing-protokoll.md) | Notartermin, UR-Nr. 188/26, Vollmachten, Beurkundungsprotokoll |
-| 20 | [`20-closing-checkliste.md`](20-closing-checkliste.md) | Closing-Conditions, BKartA-Freigabe, MAC-Bestätigung |
-| 21 | [`21-post-merger-integration-100-tage.md`](21-post-merger-integration-100-tage.md) | PMI-Plan, Day-1-Readiness, Synergietracking, Betriebsrat |
-| 22 | [`22-abschlussvermerk.md`](22-abschlussvermerk.md) | Lessons Learned, Mandatsbilanz, Honorarabrechnung, Archivierung |
+| 01 | [`01-mandatsuebernahme-pellbach.docx`](01-mandatsuebernahme-pellbach.docx) | Mandatsnotiz Erstgespräch, Interessenkonfliktprüfung, Vollmacht |
+| 02 | [`02-unternehmenshistorie.docx`](02-unternehmenshistorie.docx) | Unternehmensgeschichte, Gesellschaftsstruktur, Family Governance |
+| 03 | [`03-vendor-due-diligence-zusammenfassung.docx`](03-vendor-due-diligence-zusammenfassung.docx) | VDD-Red-Flag-Report, Scope, wesentliche Findings |
+| 04 | [`04-financial-fact-book.docx`](04-financial-fact-book.docx) | Locked-Box, Kaufpreismechanismus, Leakage-Definitionen, EBITDA-Brücke |
+| 05 | [`05-tax-due-diligence.docx`](05-tax-due-diligence.docx) | Tax-DD, Schwarze Kasse Polen, § 371 AO, Steuerrisiken |
+| 06 | [`06-legal-due-diligence-arbeitsrecht.docx`](06-legal-due-diligence-arbeitsrecht.docx) | § 613a BGB, Betriebsrat, Pensionszusage Reinhard, Betriebsübergang |
+| 07 | [`07-legal-due-diligence-it.docx`](07-legal-due-diligence-it.docx) | IT-Lizenzaudit, DSGVO, OT-Security, kritische Abhängigkeiten |
+| 08 | [`08-environmental-due-diligence.docx`](08-environmental-due-diligence.docx) | Altlastenverdacht, BBodSchG, Umweltrückstellungen |
+| 09 | [`09-bewertung-multiplikator-vs-dcf.docx`](09-bewertung-multiplikator-vs-dcf.docx) | EBITDA-Bereinigung, DCF, WACC, Peer-Group, Earn-Out-Wert |
+| 10 | [`10-spa-entwurf-version-3.docx`](10-spa-entwurf-version-3.docx) | SPA-Klauselüberblick v3, offene Issues, Redline-Status |
+| 11 | [`11-spa-mac-klausel-diskussion.docx`](11-spa-mac-klausel-diskussion.docx) | MAC-Definition, China-Suzhou, VO (EU) 833/2014, Steinheim-Position |
+| 12 | [`12-earn-out-mechanismus.docx`](12-earn-out-mechanismus.docx) | EBITDA-Hurdle 18 Mio., Zahlungsmodalitäten, Anti-Manipulation |
+| 13 | [`13-w-and-i-versicherung.docx`](13-w-and-i-versicherung.docx) | W&I-Prozess, Underwriting, Versicherungsumfang, Ausschlüsse |
+| 14 | [`14-gesellschafterbeschluss-zustimmung.docx`](14-gesellschafterbeschluss-zustimmung.docx) | GmbHG §§ 51, 53, 55; Beschlussprotokoll, Quorum |
+| 15 | [`15-finanzierungskonzept-mezzanine.docx`](15-finanzierungskonzept-mezzanine.docx) | PIK-Note, Unitranche, Covenants, LBO-Struktur, Steinheim |
+| 16 | [`16-kartellrechtliche-anmeldung.docx`](16-kartellrechtliche-anmeldung.docx) | GWB §§ 35 ff, BKartA B 6-188/26, Auflagen-Szenario |
+| 17 | [`17-mitarbeiterkommunikation-day-1.docx`](17-mitarbeiterkommunikation-day-1.docx) | § 613a BGB-Unterrichtung, Betriebsrat, Day-1-Kommunikation |
+| 18 | [`18-kundenkommunikation-key-accounts.docx`](18-kundenkommunikation-key-accounts.docx) | Key-Account-Anschreiben, Change-of-Control, Vertraulichkeit |
+| 19 | [`19-signing-protokoll.docx`](19-signing-protokoll.docx) | Notartermin, UR-Nr. 188/26, Vollmachten, Beurkundungsprotokoll |
+| 20 | [`20-closing-checkliste.docx`](20-closing-checkliste.docx) | Closing-Conditions, BKartA-Freigabe, MAC-Bestätigung |
+| 21 | [`21-post-merger-integration-100-tage.docx`](21-post-merger-integration-100-tage.docx) | PMI-Plan, Day-1-Readiness, Synergietracking, Betriebsrat |
+| 22 | [`22-abschlussvermerk.docx`](22-abschlussvermerk.docx) | Lessons Learned, Mandatsbilanz, Honorarabrechnung, Archivierung |
 
 ---
 

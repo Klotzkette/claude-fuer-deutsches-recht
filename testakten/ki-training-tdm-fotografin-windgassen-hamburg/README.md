@@ -11,7 +11,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 581 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 572 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-training-tdm-fotografin-windgassen-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg-einzelpdfs.zip) |
 
@@ -108,28 +108,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_aktenvorblatt_windgassen.md` | Aktenvorblatt, Fristen, Parteien |
-| 02 | `02_mandantengespraech_erstaufnahme.md` | Erstgespräch-Protokoll, Sachverhalt |
+| 01 | `01_aktenvorblatt_windgassen.docx` | Aktenvorblatt, Fristen, Parteien |
+| 02 | `02_mandantengespraech_erstaufnahme.docx` | Erstgespräch-Protokoll, Sachverhalt |
 | 03 | `03_tdm_opt_out_prüfung_§44b_urhg.md` | Rechtsgutachten § 44b UrhG, Opt-out-Analyse |
-| 04 | `04_laion_serverlog_analyse.md` | IT-Forensik Barkhoff: CCBot-Abruflauf-Nachweis |
-| 05 | `05_filesharing_abmahnung_quetschenpaua_kollegen.md` | Abmahnungsanalyse + Verteidigungsstrategie |
-| 06 | `06_lizenzvertrag_mare_analyse.md` | Lizenzvertrag 2019, Auslegungsstreit Buyout |
-| 07 | `07_gegendarstellung_eppendorfer_wochenanzeiger.md` | Presserecht, Gegendarstellungsentwurf |
-| 08 | `08_schiedsstelle_dpma_vgg_antrag.md` | Schiedsstellenverfahren Sch-Urh 32/26 |
-| 09 | `09_mod_erklaerung_tochter_lia.md` | Bearbeitungsrecht-Klärung Lia-Collagen |
-| 10 | `10_schadensberechnung_ki_training_lizenzanalogie.md` | Schadensberechnung § 97 Abs. 2 UrhG |
-| 11 | `11_klagestrategie_lg_hamburg_imagineArt.md` | Klagestrategie, Anträge, Risiken |
-| 12 | `12_chronologie_ereignisse.md` | Gesamtchronologie aller Ereignisse |
-| 13 | `13_fristenuebersicht_aktuell.md` | Fristkalender, Wiedervorlage |
-| 14 | `14_imagineArt_stilanalyse_sachverstaendiger.md` | Sachverständigen-Anfrage Stilmimikry |
-| 15 | `15_bff_beratungsprotokoll.md` | BFF-Seminar-Notiz Oktober 2023 (retrograd) |
-| 16 | `16_mare_verhandlungskorrespondenz.md` | Mare-Korrespondenz + Antwort-Entwurf |
-| 17 | `17_vg_bildkunst_tarifstreit_ueberblick.md` | VG Bild-Kunst KI-Tarif, VGG-Rechtssystem |
-| 18 | `18_felix_windgassen_minderjaehriger_darlegung.md` | Sekundäre Darlegungslast, Sohn Felix |
-| 19 | `19_lizenzhistorie_windgassen_photo_atelier.md` | Lizenzhistorie-Überblick (→ XLSX) |
-| 20 | `20_imagineArt_recherche_us_gesellschaft.md` | ImagineArt Inc. Delaware, US-Parallelverfahren |
-| 21 | `21_mandantenschreiben_zwischenbericht.md` | Zwischenbericht an Mandantin (Entwurf) |
-| 22 | `22_kostenuebersicht_honorarabrechnung.md` | Honorarabrechnung, Kostenübersicht |
+| 04 | `04_laion_serverlog_analyse.docx` | IT-Forensik Barkhoff: CCBot-Abruflauf-Nachweis |
+| 05 | `05_filesharing_abmahnung_quetschenpaua_kollegen.docx` | Abmahnungsanalyse + Verteidigungsstrategie |
+| 06 | `06_lizenzvertrag_mare_analyse.docx` | Lizenzvertrag 2019, Auslegungsstreit Buyout |
+| 07 | `07_gegendarstellung_eppendorfer_wochenanzeiger.docx` | Presserecht, Gegendarstellungsentwurf |
+| 08 | `08_schiedsstelle_dpma_vgg_antrag.docx` | Schiedsstellenverfahren Sch-Urh 32/26 |
+| 09 | `09_mod_erklaerung_tochter_lia.docx` | Bearbeitungsrecht-Klärung Lia-Collagen |
+| 10 | `10_schadensberechnung_ki_training_lizenzanalogie.docx` | Schadensberechnung § 97 Abs. 2 UrhG |
+| 11 | `11_klagestrategie_lg_hamburg_imagineArt.docx` | Klagestrategie, Anträge, Risiken |
+| 12 | `12_chronologie_ereignisse.docx` | Gesamtchronologie aller Ereignisse |
+| 13 | `13_fristenuebersicht_aktuell.docx` | Fristkalender, Wiedervorlage |
+| 14 | `14_imagineArt_stilanalyse_sachverstaendiger.docx` | Sachverständigen-Anfrage Stilmimikry |
+| 15 | `15_bff_beratungsprotokoll.docx` | BFF-Seminar-Notiz Oktober 2023 (retrograd) |
+| 16 | `16_mare_verhandlungskorrespondenz.docx` | Mare-Korrespondenz + Antwort-Entwurf |
+| 17 | `17_vg_bildkunst_tarifstreit_ueberblick.docx` | VG Bild-Kunst KI-Tarif, VGG-Rechtssystem |
+| 18 | `18_felix_windgassen_minderjaehriger_darlegung.docx` | Sekundäre Darlegungslast, Sohn Felix |
+| 19 | `19_lizenzhistorie_windgassen_photo_atelier.docx` | Lizenzhistorie-Überblick (→ XLSX) |
+| 20 | `20_imagineArt_recherche_us_gesellschaft.docx` | ImagineArt Inc. Delaware, US-Parallelverfahren |
+| 21 | `21_mandantenschreiben_zwischenbericht.docx` | Zwischenbericht an Mandantin (Entwurf) |
+| 22 | `22_kostenuebersicht_honorarabrechnung.docx` | Honorarabrechnung, Kostenübersicht |
 
 ---
 

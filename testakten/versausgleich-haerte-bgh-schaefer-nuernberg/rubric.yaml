@@ -65,4 +65,4 @@ checks:
   - id: r12-paragraph-27-rechtsprechungsspiegel
     check_type: file_exists
     description: "§ 27-Rechtsprechungsspiegel als Aktenstueck vorhanden"
-    path: "11_paragraph_27_rechtsprechungsspiegel.md"
+    path: "11_paragraph_27_rechtsprechungsspiegel.docx"

@@ -25,14 +25,14 @@ Gesamt-PDF: [`gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesam
 | Datei | Inhalt |
 | --- | --- |
 | `00-aktenuebersicht.md` | Sachstand zum Launch, Rollen, Konfliktfelder |
-| `01-launch-legal-memo.md` | Rechts- und Maßnahmenmemo zum Drop |
+| `01-launch-legal-memo.docx` | Rechts- und Maßnahmenmemo zum Drop |
 | `02-supplier-mail-materialien.eml` | Lieferantenmail mit widersprüchlichen Materialangaben |
 | `03-textilkennzeichnung.csv` | Label- und Materialmatrix für fünf Produkte |
 | `04-influencer-release-note.docx` | kurzer Vertrags- und Rechtevermerk zur Creator-Kampagne |
-| `05-safety-und-rueckrufnotiz.md` | Produktsicherheitsnotiz Kinderaccessoire |
+| `05-safety-und-rueckrufnotiz.docx` | Produktsicherheitsnotiz Kinderaccessoire |
 | `06-green-claims-und-retouren.xlsx` | Nachhaltigkeitsclaims, Belege, Retouren- und Dark-Pattern-Risiken |
 | `07-kampagnenbild-und-plattformcopy.jpg` | Bildanlage Kampagne/Copycat |
-| `08-marketplace-takedown-entwurf.md` | Entwurf Notice-and-Action gegen Plattformlisting |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `08-marketplace-takedown-entwurf.docx` | Entwurf Notice-and-Action gegen Plattformlisting |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `fashion-law-moderecht`, `markenrecht-fashion-luxus`, `datenschutzrecht`, `ecommerce-recht`

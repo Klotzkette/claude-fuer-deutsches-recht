@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 683 KB) | PDF | [`gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf`](gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 673 KB) | PDF | [`gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf`](gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip) |
 
@@ -76,28 +76,28 @@ Arbeitsakte zum Plugin `dsa-dma-digitalregulierung`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_dsa_vlop_designation.md`](01_mandatsannahme_dsa_vlop_designation.md) | Mandatsannahme, Sachverhaltsaufnahme, Sofortmaßnahmen |
-| 02 | [`02_beteiligte_verfahrenuebersicht.md`](02_beteiligte_verfahrenuebersicht.md) | Beteiligte, Behörden, Verfahrensübersicht mit Fristen |
-| 03 | [`03_vlop_designation_artikel33_durchgangspflicht.md`](03_vlop_designation_artikel33_durchgangspflicht.md) | VLOP-Designation Art. 33 DSA, Anfechtbarkeit, Pflichtübersicht |
-| 04 | [`04_systemische_risikobewertung_art34_pruefraster.md`](04_systemische_risikobewertung_art34_pruefraster.md) | Risikobewertungs-Prüfraster: Hassrede, Algorithmus, Werbung, Minderjährige |
-| 05 | [`05_risikoreduktion_massnahmen_art35.md`](05_risikoreduktion_massnahmen_art35.md) | Risikominderungsmaßnahmen Art. 35 DSA mit Zeitplan und Budget |
-| 06 | [`06_externer_audit_art37_anbieterauswahl.md`](06_externer_audit_art37_anbieterauswahl.md) | Externer Audit, Anbieterauswahl PwC, Umfang, Vertraulichkeit |
-| 07 | [`07_transparenzberichte_art15_art24_art42_konsolidierung.md`](07_transparenzberichte_art15_art24_art42_konsolidierung.md) | Drei Transparenzpflichten, Konsolidierungskonzept, Koordinationsplan |
-| 08 | [`08_notice_and_action_art16_workflow.md`](08_notice_and_action_art16_workflow.md) | Ist/Soll-Workflow Notice-and-Action, SLA, Benachrichtigungspflichten |
-| 09 | [`09_trusted_flagger_art22_kooperationsabkommen.md`](09_trusted_flagger_art22_kooperationsabkommen.md) | Trusted Flagger, Kooperationsvertrag Deutsche Hass-Stopp e.V. |
-| 10 | [`10_empfehlungsalgorithmus_art27_non_profiling.md`](10_empfehlungsalgorithmus_art27_non_profiling.md) | HalmRank-Analyse, Non-Profiling-Option, DSGVO-Schnittstelle |
-| 11 | [`11_werbe_repository_art39_lueckenanalyse.md`](11_werbe_repository_art39_lueckenanalyse.md) | Repository-Lückenanalyse, Rückfüllungsplan, API für Forscher |
-| 12 | [`12_forschungszugang_art40_dsc_streitfrage.md`](12_forschungszugang_art40_dsc_streitfrage.md) | Forschungsdatenzugang, Ablehnungsanalyse, gestufte Datenzugangsvereinbarung |
-| 13 | [`13_krisenreaktionsmechanismus_art36_konflikt.md`](13_krisenreaktionsmechanismus_art36_konflikt.md) | Art. 36 DSA, Berliner Anschlag, Designationszeitpunkt-Konflikt, Crisis Response Team |
-| 14 | [`14_bnetza_dsc_mahnverfahren_2026_188.md`](14_bnetza_dsc_mahnverfahren_2026_188.md) | Vier Verstöße, Verfahrensrecht, Stellungnahme-Strategie, Eskalationsstufen |
-| 15 | [`15_dma_abgrenzung_artikel3_gatekeeper_nicht.md`](15_dma_abgrenzung_artikel3_gatekeeper_nicht.md) | DMA Art. 3, Schwellenwertanalyse, Gatekeeper-Ablehnung, DSA vs. DMA |
-| 16 | [`16_geldbusse_art74_dsa_simulation.md`](16_geldbusse_art74_dsa_simulation.md) | Art. 74 DSA, Bußgeldrahmen bis 6%, Gesamtsimulation 10–30 Mio. EUR |
-| 17 | [`17_eu_kommission_meldepflichten_art42.md`](17_eu_kommission_meldepflichten_art42.md) | Art. 42 DSA-Pflichtinhalte, Fristen, Koordinationsplan, öffentliches Register |
-| 18 | [`18_aufsichtsabgabe_art43_haushaltsplanung.md`](18_aufsichtsabgabe_art43_haushaltsplanung.md) | Aufsichtsabgabe ca. 285.000 EUR p.a., Berechnungsformel, Haushaltsübersicht |
-| 19 | [`19_klagewege_eugh_vorabentscheidung_artikel267.md`](19_klagewege_eugh_vorabentscheidung_artikel267.md) | EuGH Art. 267 AEUV, Vorabentscheidungsfragen, VG Köln |
-| 20 | [`20_compliance_governance_data_protection_officer.md`](20_compliance_governance_data_protection_officer.md) | Dreistufige Governance, DPO, Art. 20/21 DSA, Schulungskonzept |
-| 21 | [`21_chronologie_und_taktikuebersicht.md`](21_chronologie_und_taktikuebersicht.md) | Ereignischronologie, kritischer Pfad, Taktikübersicht, Eskalationsmatrix |
-| 22 | [`22_abschluss_handlungsempfehlungen_dsa_compliance.md`](22_abschluss_handlungsempfehlungen_dsa_compliance.md) | Konsolidierte Handlungsempfehlungen, Fahrplan, Prognose Verfahrensentwicklung |
+| 01 | [`01_mandatsannahme_dsa_vlop_designation.docx`](01_mandatsannahme_dsa_vlop_designation.docx) | Mandatsannahme, Sachverhaltsaufnahme, Sofortmaßnahmen |
+| 02 | [`02_beteiligte_verfahrenuebersicht.docx`](02_beteiligte_verfahrenuebersicht.docx) | Beteiligte, Behörden, Verfahrensübersicht mit Fristen |
+| 03 | [`03_vlop_designation_artikel33_durchgangspflicht.docx`](03_vlop_designation_artikel33_durchgangspflicht.docx) | VLOP-Designation Art. 33 DSA, Anfechtbarkeit, Pflichtübersicht |
+| 04 | [`04_systemische_risikobewertung_art34_pruefraster.docx`](04_systemische_risikobewertung_art34_pruefraster.docx) | Risikobewertungs-Prüfraster: Hassrede, Algorithmus, Werbung, Minderjährige |
+| 05 | [`05_risikoreduktion_massnahmen_art35.docx`](05_risikoreduktion_massnahmen_art35.docx) | Risikominderungsmaßnahmen Art. 35 DSA mit Zeitplan und Budget |
+| 06 | [`06_externer_audit_art37_anbieterauswahl.docx`](06_externer_audit_art37_anbieterauswahl.docx) | Externer Audit, Anbieterauswahl PwC, Umfang, Vertraulichkeit |
+| 07 | [`07_transparenzberichte_art15_art24_art42_konsolidierung.docx`](07_transparenzberichte_art15_art24_art42_konsolidierung.docx) | Drei Transparenzpflichten, Konsolidierungskonzept, Koordinationsplan |
+| 08 | [`08_notice_and_action_art16_workflow.docx`](08_notice_and_action_art16_workflow.docx) | Ist/Soll-Workflow Notice-and-Action, SLA, Benachrichtigungspflichten |
+| 09 | [`09_trusted_flagger_art22_kooperationsabkommen.docx`](09_trusted_flagger_art22_kooperationsabkommen.docx) | Trusted Flagger, Kooperationsvertrag Deutsche Hass-Stopp e.V. |
+| 10 | [`10_empfehlungsalgorithmus_art27_non_profiling.docx`](10_empfehlungsalgorithmus_art27_non_profiling.docx) | HalmRank-Analyse, Non-Profiling-Option, DSGVO-Schnittstelle |
+| 11 | [`11_werbe_repository_art39_lueckenanalyse.docx`](11_werbe_repository_art39_lueckenanalyse.docx) | Repository-Lückenanalyse, Rückfüllungsplan, API für Forscher |
+| 12 | [`12_forschungszugang_art40_dsc_streitfrage.docx`](12_forschungszugang_art40_dsc_streitfrage.docx) | Forschungsdatenzugang, Ablehnungsanalyse, gestufte Datenzugangsvereinbarung |
+| 13 | [`13_krisenreaktionsmechanismus_art36_konflikt.docx`](13_krisenreaktionsmechanismus_art36_konflikt.docx) | Art. 36 DSA, Berliner Anschlag, Designationszeitpunkt-Konflikt, Crisis Response Team |
+| 14 | [`14_bnetza_dsc_mahnverfahren_2026_188.docx`](14_bnetza_dsc_mahnverfahren_2026_188.docx) | Vier Verstöße, Verfahrensrecht, Stellungnahme-Strategie, Eskalationsstufen |
+| 15 | [`15_dma_abgrenzung_artikel3_gatekeeper_nicht.docx`](15_dma_abgrenzung_artikel3_gatekeeper_nicht.docx) | DMA Art. 3, Schwellenwertanalyse, Gatekeeper-Ablehnung, DSA vs. DMA |
+| 16 | [`16_geldbusse_art74_dsa_simulation.docx`](16_geldbusse_art74_dsa_simulation.docx) | Art. 74 DSA, Bußgeldrahmen bis 6%, Gesamtsimulation 10–30 Mio. EUR |
+| 17 | [`17_eu_kommission_meldepflichten_art42.docx`](17_eu_kommission_meldepflichten_art42.docx) | Art. 42 DSA-Pflichtinhalte, Fristen, Koordinationsplan, öffentliches Register |
+| 18 | [`18_aufsichtsabgabe_art43_haushaltsplanung.docx`](18_aufsichtsabgabe_art43_haushaltsplanung.docx) | Aufsichtsabgabe ca. 285.000 EUR p.a., Berechnungsformel, Haushaltsübersicht |
+| 19 | [`19_klagewege_eugh_vorabentscheidung_artikel267.docx`](19_klagewege_eugh_vorabentscheidung_artikel267.docx) | EuGH Art. 267 AEUV, Vorabentscheidungsfragen, VG Köln |
+| 20 | [`20_compliance_governance_data_protection_officer.docx`](20_compliance_governance_data_protection_officer.docx) | Dreistufige Governance, DPO, Art. 20/21 DSA, Schulungskonzept |
+| 21 | [`21_chronologie_und_taktikuebersicht.docx`](21_chronologie_und_taktikuebersicht.docx) | Ereignischronologie, kritischer Pfad, Taktikübersicht, Eskalationsmatrix |
+| 22 | [`22_abschluss_handlungsempfehlungen_dsa_compliance.docx`](22_abschluss_handlungsempfehlungen_dsa_compliance.docx) | Konsolidierte Handlungsempfehlungen, Fahrplan, Prognose Verfahrensentwicklung |
 
 ---
 

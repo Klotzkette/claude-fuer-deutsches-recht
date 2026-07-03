@@ -15,7 +15,7 @@ checks:
   - id: r03-erstgespraech
     check_type: file_exists
     description: "Erstgespraechs-Notiz vorhanden"
-    path: "01_erstgespraech_mandantennotiz.md"
+    path: "01_erstgespraech_mandantennotiz.docx"
 
   - id: r04-kschg-3-wochen-frist
     check_type: regex_match

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 70 KB) | PDF | [`gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf`](gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 68 KB) | PDF | [`gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf`](gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-private-equity-buyout-schuldschein-npl-heidelberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg-einzelpdfs.zip) |
 
@@ -25,22 +25,22 @@ Passt zu `private-equity-praxis`, `grosskanzlei-corporate-ma`, `corporate-kanzle
 | Datei | Inhalt |
 | --- | --- |
 | `00-aktenuebersicht.md` | Beteiligte, Deal-Knackpunkte |
-| `01-partnerauftrag.md` | Partnerauftrag mit engem Timing |
-| `02-term-sheet-auszug.md` | Term Sheet |
-| `03-datenraumindex.md` | Datenraumindex |
-| `04-schuldschein-notiz.md` | Schuldschein-Transferfragen |
-| `05-lma-facility-notiz.md` | LMA-Facility-Red-Flags |
-| `06-npl-portfolio.md` | NPL/Kundenfinanzierungsportfolio |
-| `07-management-rollover.md` | Management Roll-over |
-| `08-ic-memo-entwurf.md` | IC-Memo |
-| `09-qa-liste.md` | Q&A-Liste |
+| `01-partnerauftrag.docx` | Partnerauftrag mit engem Timing |
+| `02-term-sheet-auszug.docx` | Term Sheet |
+| `03-datenraumindex.docx` | Datenraumindex |
+| `04-schuldschein-notiz.docx` | Schuldschein-Transferfragen |
+| `05-lma-facility-notiz.docx` | LMA-Facility-Red-Flags |
+| `06-npl-portfolio.docx` | NPL/Kundenfinanzierungsportfolio |
+| `07-management-rollover.docx` | Management Roll-over |
+| `08-ic-memo-entwurf.docx` | IC-Memo |
+| `09-qa-liste.docx` | Q&A-Liste |
 | `10-eml-bank-und-agent.eml` | E-Mail Bank/Agent |
 | `11-finanzierungsstruktur.csv` | Finanzierungstabelle |
 | `12-risikoregister.csv` | Risikoampel |
-| `13-management-call-transkript.md` | Management-Call |
-| `14-lender-questions.md` | Fragen an Facility Agent/Zahlstelle |
-| `15-vollgutachten-buyout-finanzierung-und-npl-transfer.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
-| `15-transfer-closing-checkliste.md` | Closing-Checkliste Schuldschein/LMA/NPL |
-| `16-portfolio-tape-analyse.md` | NPL Portfolio Tape Analyse |
-| `17-red-flag-report.md` | Red-Flag-Report |
-| `18-board-paper.md` | Board Paper |
+| `13-management-call-transkript.docx` | Management-Call |
+| `14-lender-questions.docx` | Fragen an Facility Agent/Zahlstelle |
+| `15-vollgutachten-buyout-finanzierung-und-npl-transfer.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
+| `15-transfer-closing-checkliste.docx` | Closing-Checkliste Schuldschein/LMA/NPL |
+| `16-portfolio-tape-analyse.docx` | NPL Portfolio Tape Analyse |
+| `17-red-flag-report.docx` | Red-Flag-Report |
+| `18-board-paper.docx` | Board Paper |

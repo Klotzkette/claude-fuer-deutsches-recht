@@ -21,8 +21,8 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-risiko.md` | Erstnotiz mit Auftrag, Beteiligten, Beitragsrisiko und Sofortmaßnahmen |
-| `02-personen-und-rollen.md` | Rollenübersicht: GF, Honorarkräfte, Anwalt, IT-Freelancer, Lehrbeauftragte |
+| `01-mandatsnotiz-und-risiko.docx` | Erstnotiz mit Auftrag, Beteiligten, Beitragsrisiko und Sofortmaßnahmen |
+| `02-personen-und-rollen.docx` | Rollenübersicht: GF, Honorarkräfte, Anwalt, IT-Freelancer, Lehrbeauftragte |
 | `03-drv-anhoerung-betriebspruefung.pdf` | Anhörungsschreiben zur Betriebsprüfung nach § 28p SGB IV |
 | `04-honorarvertrag-musiklehrer-auszug.docx` | Honorarvertrag mit Freiheitsklauseln und gelebter Planbindung |
 | `05-satzung-und-gf-veto-auszug.docx` | Satzungs-/Geschäftsführerregelung mit 50%-Patt und Nebenabrede |
@@ -33,16 +33,16 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | `10-email-vorstand-risiko.eml` | Vorstand will schnelle, aber nicht kosmetische Sanierung |
 | `11-whatsapp-lehrkraefte-screenshot.jpg` | Lehrkräfte-Chat zu Raumwechsel, Vertretung und Krankheit |
 | `12-schulportal-plan-screenshot.jpg` | Screenshotähnlicher Wochenplan mit Zuteilungen und Pflichtterminen |
-| `13-freier-anwalt-kanzleimitarbeit.md` | Freie anwaltliche Mitarbeit mit Kanzlei-Mail, Mandatskontakt und Versorgungswerk |
-| `14-it-freelancer-lms.md` | IT-Freelancer für Lernplattform mit Jira/Teams/Onsite-Tagen |
-| `15-musikschullehrer-herrenberg-notiz.md` | Didaktische Einordnung Musikschullehrer und Übergangsregelung |
-| `16-gf-50-prozent-patt-und-nebenabrede.md` | Gesellschafter-GF-Frage bei genau 50%, Sperre und Stimmbindung |
-| `17-widerspruchsentwurf-drv.md` | Rohentwurf einer Erwiderung/Widerspruchslinie |
-| `18-risikorechnung-und-szenarien.md` | Beitragsvolumen, Säumniszuschläge, § 266a-StGB-Trigger |
+| `13-freier-anwalt-kanzleimitarbeit.docx` | Freie anwaltliche Mitarbeit mit Kanzlei-Mail, Mandatskontakt und Versorgungswerk |
+| `14-it-freelancer-lms.docx` | IT-Freelancer für Lernplattform mit Jira/Teams/Onsite-Tagen |
+| `15-musikschullehrer-herrenberg-notiz.docx` | Didaktische Einordnung Musikschullehrer und Übergangsregelung |
+| `16-gf-50-prozent-patt-und-nebenabrede.docx` | Gesellschafter-GF-Frage bei genau 50%, Sperre und Stimmbindung |
+| `17-widerspruchsentwurf-drv.docx` | Rohentwurf einer Erwiderung/Widerspruchslinie |
+| `18-risikorechnung-und-szenarien.docx` | Beitragsvolumen, Säumniszuschläge, § 266a-StGB-Trigger |
 | `19-beitragsvolumen.xlsx` | Beitrags- und Szenarienrechnung nach Personengruppen |
-| `20-fragen-an-mandantin.md` | Rückfragenliste für tatsächliche Durchführung |
+| `20-fragen-an-mandantin.docx` | Rückfragenliste für tatsächliche Durchführung |
 | `21-bescheid-entwurf-status.pdf` | Auszug eines Status-/Beitragsbescheidentwurfs |
-| `22-zeugen-und-belege.md` | Zeugen, Belege, Lücken, Kalender und Chatquellen |
-| `23-telefonnotiz-elternbeschwerde.md` | Telefonnotiz zu Unterrichtsausfall und Direktionsdruck |
+| `22-zeugen-und-belege.docx` | Zeugen, Belege, Lücken, Kalender und Chatquellen |
+| `23-telefonnotiz-elternbeschwerde.docx` | Telefonnotiz zu Unterrichtsausfall und Direktionsdruck |
 | `24-verfahrenskalender.csv` | Fristen, Anhörung, Bescheid, Widerspruch, Zahlungsdruck |
 | `25-abschlussmemo-partner.docx` | Partner-Memo mit Sanierungsoptionen und Prozessstrategie |

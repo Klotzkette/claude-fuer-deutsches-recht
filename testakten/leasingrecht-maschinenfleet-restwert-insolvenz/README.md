@@ -27,15 +27,15 @@ Diese Akte gehört zu den Plugins `leasingrecht-praxis`, `bank-rechtsabteilung`,
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
 | `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
 | `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
 | `05-dashboard.csv` | strukturierte Prüfspur |
 | `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
-| `07-objektliste-seriennummern-und-standorte.md` | Objektliste beweglicher Sachen mit Standort- und Zustandsstreit |
-| `08-rueckgabeprotokoll-entwurf-minderwert.md` | Rückgabe-/Minderwertprotokoll mit Beweislogik |
-| `09-softwarelock-und-datenloeschung.md` | Software-Lock, Maschinensteuerung, Datenschutz und Beweissicherung |
+| `07-objektliste-seriennummern-und-standorte.docx` | Objektliste beweglicher Sachen mit Standort- und Zustandsstreit |
+| `08-rueckgabeprotokoll-entwurf-minderwert.docx` | Rückgabe-/Minderwertprotokoll mit Beweislogik |
+| `09-softwarelock-und-datenloeschung.docx` | Software-Lock, Maschinensteuerung, Datenschutz und Beweissicherung |
 | `gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

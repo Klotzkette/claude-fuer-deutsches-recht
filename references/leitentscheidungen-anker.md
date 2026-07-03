@@ -107,6 +107,7 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 - Eigenverwaltung / Schutzschirmverfahren § 270 ff. InsO — BGH IX. Zivilsenat — bundesgerichtshof.de
 - Insolvenzverwalter-Haftung § 60 InsO — BGH IX. Zivilsenat — bundesgerichtshof.de
 - Geschäftsveräußerung im Ganzen § 1 Ia UStG — EuGH (Zita Modes C-497/01, 27.11.2003; Schriever C-444/10, 10.11.2011); BFH (V R 11/13 v. 18.01.2017) — curia.europa.eu + bfh.bund.de
+- StaRUG; Aufhebung der Restrukturierungssache nach Anzeige der Zahlungsunfähigkeit, Ermessen, Drittbeitrag, Rechtsschutzinteresse — BGH IX. Zivilsenat, Beschl. v. 23.04.2026 - IX ZB 18/25 (erste BGH-Entscheidung zum StaRUG; amtliches PDF vom Nutzer beigebracht, liegt der Testakte starug-aufhebung-holding-duesseldorf-ix-zb-18-25 bei) — dennoch vor Verwendung live verifizieren — bundesgerichtshof.de
 - StaRUG; Restrukturierungsbeauftragter, Stabilisierungsanordnung — LG (StaRUG-Gerichte); LG-Hannover/-Köln-Linie 2021-2024; live verifizieren — landesgerichte.de
 
 ## Versicherungsrecht

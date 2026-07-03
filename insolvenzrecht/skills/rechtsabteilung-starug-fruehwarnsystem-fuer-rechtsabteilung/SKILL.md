@@ -50,3 +50,15 @@ Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut
 - Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+
+## Leitentscheidung: BGH zur Aufhebung der Restrukturierungssache — IX ZB 18/25
+
+BGH, Beschluss vom 23.04.2026 — IX ZB 18/25 (ECLI:DE:BGH:2026:230426BIXZB18.25.0; erste höchstrichterliche Entscheidung zum StaRUG; das amtliche Beschluss-PDF liegt im Repo der Testakte starug-aufhebung-holding-duesseldorf-ix-zb-18-25 bei — vor Schriftsatzverwendung an amtlicher Quelle gegenprüfen):
+
+- Zeigt der Schuldner Zahlungsunfähigkeit oder Überschuldung nach Paragraf 32 Abs. 3 StaRUG an, hebt das Restrukturierungsgericht die Restrukturierungssache nach Paragraf 33 Abs. 2 Satz 1 Nr. 1 StaRUG grundsätzlich auf; beim Absehen von der Aufhebung (Halbsatz 2 und 3) hat es Ermessen, und die Darlegungslast für alle Absehens-Umstände trägt der Schuldner.
+- Maßstab des Halbsatzes 2 ist nicht, ob die Insolvenzeröffnung den Gläubigern Vorteile bringt, sondern ob sie offensichtlich nicht im Gesamtinteresse der Gläubiger liegt; bei behaupteten Quotenvorteilen darf das Gericht die Unsicherheit einpreisen, ob die prognostizierte Planquote überhaupt erreichbar ist (im Fall: Planquote 1 Prozent gegen behauptete 0 Prozent, Verteilungsvolumen nur 6.119,51 EUR).
+- Halbsatz 3 scheitert, wenn der Restrukturierungserfolg von einer freiwilligen, rechtlich nicht gesicherten Zuzahlung eines Dritten abhängt (im Fall: nicht einmal unterzeichnete Erklärung über einen Planbeitrag von 42.000 EUR). Planbeiträge Dritter sind deshalb vor der Anzeige verbindlich und werthaltig abzusichern.
+- Die sofortige Beschwerde gegen die Aufhebung bleibt zulässig: Weder der Wirkungsverlust der Anzeige (Paragraf 31 Abs. 4 Nr. 3 StaRUG) noch der Ablauf der Sechs-Monats-Frist (Paragraf 31 Abs. 4 Nr. 4 StaRUG) lassen das Rechtsschutzinteresse entfallen; bei Beschwerdeerfolg erlangt die Anzeige ihre Wirkung wieder, einer erneuten Anzeige bedarf es nicht.
+
+Praxisfolge: Wer den Stabilisierungs- und Restrukturierungsrahmen trotz eingetretener Insolvenzreife halten will, muss Planreife, rechtlich gesicherte Finanzierungsbeiträge und die Quotenlogik der Vergleichsrechnung nach Paragraf 6 Abs. 2 StaRUG konkret dartun — sonst ist der richtige Ort der Krisenbewältigung das Insolvenzverfahren.

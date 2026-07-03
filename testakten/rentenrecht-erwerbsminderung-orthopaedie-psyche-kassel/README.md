@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 31 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel-einzelpdfs.zip) |
 
@@ -24,19 +24,19 @@ Der Fall ist bewusst mehrdeutig: Die Reha sieht noch leichte Tätigkeiten über 
 
 ```
 rentenrecht-erwerbsminderung-orthopaedie-psyche-kassel/
-├── 01_mandatsnotiz_fristsache.md          # Erstaufnahme, Fristen, Gesundheitsthemen, Arbeitsauftrag
-├── 02_drv_ablehnungsbescheid.md           # Ablehnungsbescheid der DRV Hessen mit Rechtsbehelfsbelehrung
-├── 03_reha_entlassungsbericht_auszug.md   # Entlassungsbericht Bad Zwesten mit Leistungsbeurteilung
-├── 04_orthopaedischer_befundbericht.md    # Befundbericht Dr. Lenz mit Kritik an der Reha-Einschätzung
-├── 05_psychotherapie_verlaufsnotiz.md     # Verlaufsnotiz zur depressiven Symptomatik und Belastbarkeit
-├── 06_arbeitgeberbeschreibung_taetigkeit.md  # Tätigkeitsprofil Baumarkt und gescheiterte Umsetzung
-├── 07_tagesprotokoll_mandantin.md         # Tagesprotokoll der Mandantin aus Juni 2026
-├── 08_widerspruch_fristschreiben.md       # Fristwahrender Widerspruch mit Akteneinsichtsantrag
-├── 09_medizinische_beweisfragen.md        # Beweisfragen für Begutachtung und sachverständige Zeugen
+├── 01_mandatsnotiz_fristsache.docx          # Erstaufnahme, Fristen, Gesundheitsthemen, Arbeitsauftrag
+├── 02_drv_ablehnungsbescheid.docx           # Ablehnungsbescheid der DRV Hessen mit Rechtsbehelfsbelehrung
+├── 03_reha_entlassungsbericht_auszug.docx   # Entlassungsbericht Bad Zwesten mit Leistungsbeurteilung
+├── 04_orthopaedischer_befundbericht.docx    # Befundbericht Dr. Lenz mit Kritik an der Reha-Einschätzung
+├── 05_psychotherapie_verlaufsnotiz.docx     # Verlaufsnotiz zur depressiven Symptomatik und Belastbarkeit
+├── 06_arbeitgeberbeschreibung_taetigkeit.docx  # Tätigkeitsprofil Baumarkt und gescheiterte Umsetzung
+├── 07_tagesprotokoll_mandantin.docx         # Tagesprotokoll der Mandantin aus Juni 2026
+├── 08_widerspruch_fristschreiben.docx       # Fristwahrender Widerspruch mit Akteneinsichtsantrag
+├── 09_medizinische_beweisfragen.docx        # Beweisfragen für Begutachtung und sachverständige Zeugen
 ├── 10_fristen_und_leistungsdaten.csv      # Ereignisse, Fristen und Leistungsdaten im Überblick
-├── 11_klagevorbereitung_sozialgericht.md  # Klagekern, Anträge und Beweismittel für den Klagefall
-├── 12_medikamentenplan.md                 # Medikationsplan mit sedierenden Nebenwirkungen
-├── 13_mrt_befund_lws.md                   # Radiologischer MRT-Befund der Lendenwirbelsäule
+├── 11_klagevorbereitung_sozialgericht.docx  # Klagekern, Anträge und Beweismittel für den Klagefall
+├── 12_medikamentenplan.docx                 # Medikationsplan mit sedierenden Nebenwirkungen
+├── 13_mrt_befund_lws.docx                   # Radiologischer MRT-Befund der Lendenwirbelsäule
 ├── README.md                              # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                            # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                            # Prüfkriterien für die Bearbeitung

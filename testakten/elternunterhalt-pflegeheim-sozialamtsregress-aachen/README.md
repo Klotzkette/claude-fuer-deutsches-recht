@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 49 KB) | PDF | [`gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf`](gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 46 KB) | PDF | [`gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf`](gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen-einzelpdfs.zip) |
 
@@ -32,17 +32,17 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.md` | Erstgespräch, Schreiben des Sozialamts, Rechtswahrungsanzeige und Überleitung Paragraf 94 SGB XII |
-| 02 | `02_familien_und_vermoegenslage_mandant.md` | Familienstand, Haushalt, Vermögensübersicht des pflichtigen Kindes |
-| 03 | `03_einkommen_mandant_jahresbruttogrenze.md` | Einkommen, Bonus, Jahresbrutto und die 100.000-EUR-Grenze |
-| 04 | `04_heimkosten_und_sozialhilfeleistung.md` | Heimentgelt, Rente und Pflegeanteil der Mutter, ungedeckter Bedarf |
-| 05 | `05_geschwister_anteilige_haftung.md` | Schwester Carola, anteilige Haftung nach Paragraf 1606 III 1 BGB |
-| 06 | `06_selbstbehalt_elternunterhalt.md` | erhöhter Selbstbehalt beim Elternunterhalt (Arbeitswert) |
-| 07 | `07_schonvermoegen_und_altersvorsorge.md` | Eigenheim, Altersvorsorge, Schonvermögen |
-| 08 | `08_fruehere_schenkungen_mutter.md` | Schenkung an die Enkelin, Rückforderung Paragraf 528 BGB |
-| 09 | `09_auskunftsverlangen_und_auskunftspflicht.md` | Auskunftsverlangen des Sozialamts, Umfang der Auskunftspflicht |
-| 10 | `10_berechnung_einsetzbares_einkommen.md` | Bereinigung und Berechnung des einzusetzenden Einkommens |
-| 11 | `11_einwendungen_verwirkung_leistungsunfaehigkeit.md` | Kontaktabbruch/Verwirkung Paragraf 1611 BGB, Leistungsunfähigkeit |
-| 12 | `12_strategie_und_antwortschreiben_sozialamt.md` | Strategie und Entwurf des Antwortschreibens an das Sozialamt |
-| 13 | `13_vergleichs_und_ratenangebot.md` | Vergleichs- und Ratenangebot |
-| 14 | `14_aktenvermerk_rechenhinweise.md` | Bearbeiterhinweise, offene Punkte, Verifikationsbedarf |
+| 01 | `01_mandatsnotiz_und_rechtswahrungsanzeige_sozialamt.docx` | Erstgespräch, Schreiben des Sozialamts, Rechtswahrungsanzeige und Überleitung Paragraf 94 SGB XII |
+| 02 | `02_familien_und_vermoegenslage_mandant.docx` | Familienstand, Haushalt, Vermögensübersicht des pflichtigen Kindes |
+| 03 | `03_einkommen_mandant_jahresbruttogrenze.docx` | Einkommen, Bonus, Jahresbrutto und die 100.000-EUR-Grenze |
+| 04 | `04_heimkosten_und_sozialhilfeleistung.docx` | Heimentgelt, Rente und Pflegeanteil der Mutter, ungedeckter Bedarf |
+| 05 | `05_geschwister_anteilige_haftung.docx` | Schwester Carola, anteilige Haftung nach Paragraf 1606 III 1 BGB |
+| 06 | `06_selbstbehalt_elternunterhalt.docx` | erhöhter Selbstbehalt beim Elternunterhalt (Arbeitswert) |
+| 07 | `07_schonvermoegen_und_altersvorsorge.docx` | Eigenheim, Altersvorsorge, Schonvermögen |
+| 08 | `08_fruehere_schenkungen_mutter.docx` | Schenkung an die Enkelin, Rückforderung Paragraf 528 BGB |
+| 09 | `09_auskunftsverlangen_und_auskunftspflicht.docx` | Auskunftsverlangen des Sozialamts, Umfang der Auskunftspflicht |
+| 10 | `10_berechnung_einsetzbares_einkommen.docx` | Bereinigung und Berechnung des einzusetzenden Einkommens |
+| 11 | `11_einwendungen_verwirkung_leistungsunfaehigkeit.docx` | Kontaktabbruch/Verwirkung Paragraf 1611 BGB, Leistungsunfähigkeit |
+| 12 | `12_strategie_und_antwortschreiben_sozialamt.docx` | Strategie und Entwurf des Antwortschreibens an das Sozialamt |
+| 13 | `13_vergleichs_und_ratenangebot.docx` | Vergleichs- und Ratenangebot |
+| 14 | `14_aktenvermerk_rechenhinweise.docx` | Bearbeiterhinweise, offene Punkte, Verifikationsbedarf |

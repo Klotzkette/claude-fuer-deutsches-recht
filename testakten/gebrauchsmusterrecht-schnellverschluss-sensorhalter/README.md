@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 158 KB) | PDF | [`gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf`](gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 157 KB) | PDF | [`gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf`](gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter-einzelpdfs.zip) |
 
@@ -27,11 +27,11 @@ Gesamt-PDF: [`gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_ges
 | `00-aktenuebersicht.md` | Beteiligte, technische Kernfrage, Fristenlage |
 | `01-erfinder-mail-prototyp.eml` | E-Mail des Entwicklungsleiters mit missverständlicher Offenbarung |
 | `02-merkmalsgliederung.csv` | erste Merkmalsgliederung des Sensorhalters S-14 |
-| `03-laborbuch-auszug.md` | Entwicklungsnotizen, Tests und Varianten |
-| `04-recherche-und-loeschungsrisiko.md` | Rechercheplan, § 7 GebrMG und Löschungsangriff |
+| `03-laborbuch-auszug.docx` | Entwicklungsnotizen, Tests und Varianten |
+| `04-recherche-und-loeschungsrisiko.docx` | Rechercheplan, § 7 GebrMG und Löschungsangriff |
 | `05-eilnotiz-verletzung-und-schutzschrift.docx` | prozessuale Sofortnotiz zur Verletzungslage |
 | `06-fristen-und-optionen.xlsx` | Fristen, Maßnahmen, Kosten, Entscheidungsmatrix |
 | `07-bildanlage-sensorhalter.jpg` | schematische technische Bildanlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 Passt zu: `gebrauchsmusterrecht`, `patentrecht`, `gewerblicher-rechtsschutz`

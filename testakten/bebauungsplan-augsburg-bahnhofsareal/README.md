@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 176 KB) | PDF | [`gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf`](gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 148 KB) | PDF | [`gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf`](gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip) |
 

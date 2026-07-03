@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 486 KB) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 474 KB) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart-einzelpdfs.zip) |
 
@@ -60,29 +60,29 @@ Arbeitsakte zum Plugin `fachanwalt-erbrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_erstgespraech_mandantennotiz.md`](01_erstgespraech_mandantennotiz.md) | Erstgespräch 22.04.2025, Sachverhaltsaufnahme, Fristen, Sofortmaßnahmen |
-| 02 | [`02_familienkonstellation_und_chronologie.md`](02_familienkonstellation_und_chronologie.md) | Stammbaum, Vermögenschronologie, güterrechtliche Lage |
-| 03 | [`03_testament_09_11_2019_volltext.md`](03_testament_09_11_2019_volltext.md) | Volltext Testament, formelle und materielle Prüfung, Auslegungsfragen |
-| 04 | [`04_notarvermerk_14_06_2023.md`](04_notarvermerk_14_06_2023.md) | Notarprotokoll Welz, Rechtswirkung, Constantins Fehlinterpretation |
-| 05 | [`05_nachlassverzeichnis_initial.md`](05_nachlassverzeichnis_initial.md) | Aktiva/Passiva-Aufstellung, Bewertungsstichtag, Reinnachlass |
-| 06 | [`06_grundstueck_sonnenbergstrasse_wertgutachten_kurzgutachten.md`](06_grundstueck_sonnenbergstrasse_wertgutachten_kurzgutachten.md) | Sachwertverfahren, Vergleichswerte, Wohnrechtsbarwert |
-| 07 | [`07_wertpapierdepot_lampe_hauck_status.md`](07_wertpapierdepot_lampe_hauck_status.md) | Depotliste, Bewertungsstichtag, Bankzugangsproblem |
-| 08 | [`08_krypto_multisig_wallet_dossier.md`](08_krypto_multisig_wallet_dossier.md) | Technisches Dossier Wallet, On-Chain-Adressen, Transaktionshistorie, Rechtsfragen |
-| 09 | [`09_krypto_zugriffsstreit_constantin_vs_erbengemeinschaft.md`](09_krypto_zugriffsstreit_constantin_vs_erbengemeinschaft.md) | Constantins Position, Gegenpositionen, Sicherungsmaßnahmen |
-| 10 | [`10_lebzeitige_schenkungen_chronologie_2018_2024.md`](10_lebzeitige_schenkungen_chronologie_2018_2024.md) | Chronologie Schenkungen, Belege, Anrechnungstabelle § 2325 BGB |
-| 11 | [`11_pflichtteilsberechnung_henrike_und_marie_theres.md`](11_pflichtteilsberechnung_henrike_und_marie_theres.md) | Vollständige Pflichtteilsberechnung mit Ergänzungsanspruch |
-| 12 | [`12_ausschlagung_constantin_29_04_2025.md`](12_ausschlagung_constantin_29_04_2025.md) | Ausschlagung, Fristversäumnis-Problem, Strategie |
-| 13 | [`13_pflichtteilsverzicht_marie_theres_2020.md`](13_pflichtteilsverzicht_marie_theres_2020.md) | Verzichtsvertrag, Anfechtungsversuch § 313 BGB, Risikobewertung |
-| 14 | [`14_erbscheinsantrag_entwurf.md`](14_erbscheinsantrag_entwurf.md) | Antragsentwurf gemeinschaftlicher Erbschein, Unterlagenliste |
-| 15 | [`15_testamentsvollstreckung_unklar.md`](15_testamentsvollstreckung_unklar.md) | TV-Wegfall, § 2200 BGB, Kanzleinachlass Trotz, RAK BW-Anfrage |
-| 16 | [`16_mediationsplan_cochemer_erbmediation.md`](16_mediationsplan_cochemer_erbmediation.md) | Mediationsformat, Ablaufplan, Kernstreitpunkte, Lösungsszenarien |
-| 17 | [`17_nachlassinsolvenz_erwogen.md`](17_nachlassinsolvenz_erwogen.md) | Nachlassverwaltung, Inventarerrichtung, Dreimonatseinrede, Aufgebot |
-| 18 | [`18_korrespondenz_marlies_anwalt_strecker.md`](18_korrespondenz_marlies_anwalt_strecker.md) | Schriftwechsel mit Strecker, Wohnrecht, § 1932 BGB, Stick-Verwahrung |
-| 19 | [`19_zeitstrahl_gesamtfall.md`](19_zeitstrahl_gesamtfall.md) | Detaillierter Zeitstrahl, offene Fristen, kritische Termine |
-| 20 | [`20_klageschriftkern_pflichtteilsergaenzung.md`](20_klageschriftkern_pflichtteilsergaenzung.md) | Entwurf Klageschrift LG Stuttgart, Anträge, Sachverhalt, Rechtsausführungen |
-| 21 | [`21_strategie_vergleichskorridor.md`](21_strategie_vergleichskorridor.md) | Kräfteverhältnisse, Szenarien Best/Worst Case, Vergleichskorridor |
-| 22 | [`22_beweismittel_zeugen_sachverstaendige.md`](22_beweismittel_zeugen_sachverstaendige.md) | Urkundenliste K 1–K 19, Sachverständige, Zeugen, Beweislücken |
-| 23 | [`23_steuerliche_dimension_und_erbschaftsteuer.md`](23_steuerliche_dimension_und_erbschaftsteuer.md) | ErbSt-Berechnung je Erbe, Krypto-Bewertung, Anzeigepflicht, Liquiditätsproblem |
+| 01 | [`01_erstgespraech_mandantennotiz.docx`](01_erstgespraech_mandantennotiz.docx) | Erstgespräch 22.04.2025, Sachverhaltsaufnahme, Fristen, Sofortmaßnahmen |
+| 02 | [`02_familienkonstellation_und_chronologie.docx`](02_familienkonstellation_und_chronologie.docx) | Stammbaum, Vermögenschronologie, güterrechtliche Lage |
+| 03 | [`03_testament_09_11_2019_volltext.docx`](03_testament_09_11_2019_volltext.docx) | Volltext Testament, formelle und materielle Prüfung, Auslegungsfragen |
+| 04 | [`04_notarvermerk_14_06_2023.docx`](04_notarvermerk_14_06_2023.docx) | Notarprotokoll Welz, Rechtswirkung, Constantins Fehlinterpretation |
+| 05 | [`05_nachlassverzeichnis_initial.docx`](05_nachlassverzeichnis_initial.docx) | Aktiva/Passiva-Aufstellung, Bewertungsstichtag, Reinnachlass |
+| 06 | [`06_grundstueck_sonnenbergstrasse_wertgutachten_kurzgutachten.docx`](06_grundstueck_sonnenbergstrasse_wertgutachten_kurzgutachten.docx) | Sachwertverfahren, Vergleichswerte, Wohnrechtsbarwert |
+| 07 | [`07_wertpapierdepot_lampe_hauck_status.docx`](07_wertpapierdepot_lampe_hauck_status.docx) | Depotliste, Bewertungsstichtag, Bankzugangsproblem |
+| 08 | [`08_krypto_multisig_wallet_dossier.docx`](08_krypto_multisig_wallet_dossier.docx) | Technisches Dossier Wallet, On-Chain-Adressen, Transaktionshistorie, Rechtsfragen |
+| 09 | [`09_krypto_zugriffsstreit_constantin_vs_erbengemeinschaft.docx`](09_krypto_zugriffsstreit_constantin_vs_erbengemeinschaft.docx) | Constantins Position, Gegenpositionen, Sicherungsmaßnahmen |
+| 10 | [`10_lebzeitige_schenkungen_chronologie_2018_2024.docx`](10_lebzeitige_schenkungen_chronologie_2018_2024.docx) | Chronologie Schenkungen, Belege, Anrechnungstabelle § 2325 BGB |
+| 11 | [`11_pflichtteilsberechnung_henrike_und_marie_theres.docx`](11_pflichtteilsberechnung_henrike_und_marie_theres.docx) | Vollständige Pflichtteilsberechnung mit Ergänzungsanspruch |
+| 12 | [`12_ausschlagung_constantin_29_04_2025.docx`](12_ausschlagung_constantin_29_04_2025.docx) | Ausschlagung, Fristversäumnis-Problem, Strategie |
+| 13 | [`13_pflichtteilsverzicht_marie_theres_2020.docx`](13_pflichtteilsverzicht_marie_theres_2020.docx) | Verzichtsvertrag, Anfechtungsversuch § 313 BGB, Risikobewertung |
+| 14 | [`14_erbscheinsantrag_entwurf.docx`](14_erbscheinsantrag_entwurf.docx) | Antragsentwurf gemeinschaftlicher Erbschein, Unterlagenliste |
+| 15 | [`15_testamentsvollstreckung_unklar.docx`](15_testamentsvollstreckung_unklar.docx) | TV-Wegfall, § 2200 BGB, Kanzleinachlass Trotz, RAK BW-Anfrage |
+| 16 | [`16_mediationsplan_cochemer_erbmediation.docx`](16_mediationsplan_cochemer_erbmediation.docx) | Mediationsformat, Ablaufplan, Kernstreitpunkte, Lösungsszenarien |
+| 17 | [`17_nachlassinsolvenz_erwogen.docx`](17_nachlassinsolvenz_erwogen.docx) | Nachlassverwaltung, Inventarerrichtung, Dreimonatseinrede, Aufgebot |
+| 18 | [`18_korrespondenz_marlies_anwalt_strecker.docx`](18_korrespondenz_marlies_anwalt_strecker.docx) | Schriftwechsel mit Strecker, Wohnrecht, § 1932 BGB, Stick-Verwahrung |
+| 19 | [`19_zeitstrahl_gesamtfall.docx`](19_zeitstrahl_gesamtfall.docx) | Detaillierter Zeitstrahl, offene Fristen, kritische Termine |
+| 20 | [`20_klageschriftkern_pflichtteilsergaenzung.docx`](20_klageschriftkern_pflichtteilsergaenzung.docx) | Entwurf Klageschrift LG Stuttgart, Anträge, Sachverhalt, Rechtsausführungen |
+| 21 | [`21_strategie_vergleichskorridor.docx`](21_strategie_vergleichskorridor.docx) | Kräfteverhältnisse, Szenarien Best/Worst Case, Vergleichskorridor |
+| 22 | [`22_beweismittel_zeugen_sachverstaendige.docx`](22_beweismittel_zeugen_sachverstaendige.docx) | Urkundenliste K 1–K 19, Sachverständige, Zeugen, Beweislücken |
+| 23 | [`23_steuerliche_dimension_und_erbschaftsteuer.docx`](23_steuerliche_dimension_und_erbschaftsteuer.docx) | ErbSt-Berechnung je Erbe, Krypto-Bewertung, Anzeigepflicht, Liquiditätsproblem |
 
 ---
 

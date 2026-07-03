@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 71 KB) | PDF | [`gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf`](gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf`](gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kernfusion-transrapid-starnberger-see.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kernfusion-transrapid-starnberger-see-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see-einzelpdfs.zip) |
 
@@ -25,19 +25,19 @@ Passt zu `energierecht`, `verkehr-infrastrukturrecht`, `umweltrecht`, `bundesnet
 | Datei | Inhalt |
 | --- | --- |
 | `00-aktenuebersicht.md` | Beteiligte, Standortidee, juristischer Kern |
-| `01-minuten-investorencall.md` | Pitch und technische Korrektur |
-| `02-standort-starnberger-see.md` | Standortnotiz |
-| `03-transrapid-anbindung.md` | Verkehrs- und Infrastrukturstatus |
-| `04-strahlenschutz-und-sicherheit.md` | offene Sicherheitsnachweise |
-| `05-netz-und-vermarktung.md` | Netzanschluss und Strommarkterzählung |
-| `06-foerderung-ip-und-beihilfe.md` | Fördermittel, IP, Beihilfe |
-| `07-memo-an-projektleitung.md` | anwaltliche Kurzeinschätzung |
+| `01-minuten-investorencall.docx` | Pitch und technische Korrektur |
+| `02-standort-starnberger-see.docx` | Standortnotiz |
+| `03-transrapid-anbindung.docx` | Verkehrs- und Infrastrukturstatus |
+| `04-strahlenschutz-und-sicherheit.docx` | offene Sicherheitsnachweise |
+| `05-netz-und-vermarktung.docx` | Netzanschluss und Strommarkterzählung |
+| `06-foerderung-ip-und-beihilfe.docx` | Fördermittel, IP, Beihilfe |
+| `07-memo-an-projektleitung.docx` | anwaltliche Kurzeinschätzung |
 | `08-eml-sicherheitsworkshop.eml` | E-Mail Sicherheit statt Pitch |
 | `09-risikoampel.csv` | Risikoampel |
-| `10-raumordnung-konfliktkarte.md` | Raumordnung, See, Landschaft, Nachbarschaft |
-| `11-ministeriumsvorlage.md` | Ministeriumsvorlage mit überzogenem Narrativ |
-| `12-sicherheitsbeirat-protokoll.md` | technischer Sicherheitsbeirat |
-| `13-ip-foerdermittel-matrix.md` | IP-/Fördermittelmatrix |
-| `14-buergerbrief-entwurf.md` | Bürgerbrief mit juristischer Korrektur |
-| `15-vollgutachten-planung-sicherheit-und-energieanbindung.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
-| `15-behoerdenfragen.md` | Fragenpaket für Behördenvorgespräch |
+| `10-raumordnung-konfliktkarte.docx` | Raumordnung, See, Landschaft, Nachbarschaft |
+| `11-ministeriumsvorlage.docx` | Ministeriumsvorlage mit überzogenem Narrativ |
+| `12-sicherheitsbeirat-protokoll.docx` | technischer Sicherheitsbeirat |
+| `13-ip-foerdermittel-matrix.docx` | IP-/Fördermittelmatrix |
+| `14-buergerbrief-entwurf.docx` | Bürgerbrief mit juristischer Korrektur |
+| `15-vollgutachten-planung-sicherheit-und-energieanbindung.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
+| `15-behoerdenfragen.docx` | Fragenpaket für Behördenvorgespräch |

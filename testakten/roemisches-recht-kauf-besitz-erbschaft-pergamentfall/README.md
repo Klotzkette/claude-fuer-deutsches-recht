@@ -22,15 +22,15 @@ Kauf, Besitzschutz, Servitut, Erbschaft und Digestenargument in einer Lehr- und 
 
 | Datei | Inhalt |
 |---|---|
-| `01-sachverhalt-und-akte.md` | Ausgangslage, Personen, Dokumente und Problemkern |
+| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Dokumente und Problemkern |
 | `02-fristen-risiken-dashboard.csv` | Fristen-, Risiko- und Entscheidungsübersicht |
 | `03-email-mandat-und-rueckfrage.eml` | E-Mail aus dem Mandat |
 | `04-arbeitsvermerk.docx` | Word-Vermerk für die Bearbeitung |
 | `05-dashboard.xlsx` | Excel-/Tracker-Arbeitsblatt |
 | `06-lagekarte.jpg` | Bildanlage als Whiteboard-/Lagekarte |
 | `07-quellen-und-streitpunkte.pdf` | PDF-Memo mit Streitpunkten und Quellenlogik |
-| `08-entwurf-naechster-schritt.md` | Entwurf für Memo, Antrag, Klausel oder Strategie |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `08-entwurf-naechster-schritt.docx` | Entwurf für Memo, Antrag, Klausel oder Strategie |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

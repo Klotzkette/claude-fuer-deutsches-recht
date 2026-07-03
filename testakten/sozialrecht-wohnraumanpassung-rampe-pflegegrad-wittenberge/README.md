@@ -28,15 +28,15 @@ Irmgard Pahl, 84, Pflegegrad 3, lebt in einem Reihenhaus in Wittenberge. Sie geh
 sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 ├── README.md                              <- diese Übersicht
 ├── rubric.yaml                            <- Prüfkriterien für die Bearbeitung
-├── 01_erstgespraech_tochter.md            <- Erstberatung, Wohnsituation, Frist, Ziel
-├── 02_pflegegrad_und_md_gutachten.md      <- Pflegegrad 3, Mobilitätsmodul, Hausarzt-Nachtrag
-├── 03_bauangebot_rampe.md                 <- Angebot der Fachfirma mit Maßen und Alternativen
-├── 04_pflegekasse_bescheid.md             <- Teilbewilligung mit Rechtsbehelfsbelehrung und Telefonnotiz
-├── 05_widerspruch_und_sozialhilfe.md      <- Anwaltlicher Widerspruch, Prüfvermerk, Finanzlage
-├── 06_wohnumfeld_fotos_beschreibung.md    <- Eingang, Maße, Fotobeschreibungen, Winterrisiko
+├── 01_erstgespraech_tochter.docx            <- Erstberatung, Wohnsituation, Frist, Ziel
+├── 02_pflegegrad_und_md_gutachten.docx      <- Pflegegrad 3, Mobilitätsmodul, Hausarzt-Nachtrag
+├── 03_bauangebot_rampe.docx                 <- Angebot der Fachfirma mit Maßen und Alternativen
+├── 04_pflegekasse_bescheid.docx             <- Teilbewilligung mit Rechtsbehelfsbelehrung und Telefonnotiz
+├── 05_widerspruch_und_sozialhilfe.docx      <- Anwaltlicher Widerspruch, Prüfvermerk, Finanzlage
+├── 06_wohnumfeld_fotos_beschreibung.docx    <- Eingang, Maße, Fotobeschreibungen, Winterrisiko
 ├── 07_kosten_traeger_matrix.csv           <- Kostenpositionen, Träger, Finanzierungslücke
-├── 08_eilrechtsschutz_und_ortstermin.md   <- Vermerk zu Eilbedürftigkeit, Beweisfragen, Vergleich
-├── 09_bauamt_ortstermin_und_skizzenmass.md <- Protokoll des Ortstermins mit dem Bauamt
+├── 08_eilrechtsschutz_und_ortstermin.docx   <- Vermerk zu Eilbedürftigkeit, Beweisfragen, Vergleich
+├── 09_bauamt_ortstermin_und_skizzenmass.docx <- Protokoll des Ortstermins mit dem Bauamt
 ├── 10_email_nachbarin_zugang.eml          <- Nachbarin zu Stürzen, Winter und Rampenakzeptanz
 ├── 11_pflegetagebuch_sturzliste.txt       <- Sturzliste und Pflegetagebuch der Tochter
 └── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF

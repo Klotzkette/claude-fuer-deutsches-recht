@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf`](gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf`](gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsa-dma-bayrische-baustube-meissner-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner-einzelpdfs.zip) |
 

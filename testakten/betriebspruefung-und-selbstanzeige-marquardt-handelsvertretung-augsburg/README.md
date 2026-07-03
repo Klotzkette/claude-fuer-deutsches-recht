@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 653 KB) | PDF | [`gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf`](gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 649 KB) | PDF | [`gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf`](gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg-einzelpdfs.zip) |
 
@@ -70,28 +70,28 @@ Arbeitsakte zum Plugin `steuerrecht-anwalt-und-berater`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-marquardt.md`](01-mandatsuebernahme-marquardt.md) | Kanzleinotiz Erstgespräch, Vollmacht, Erstrisikobewertung |
-| 02 | [`02-pruefungsanordnung-finanzamt-augsburg.md`](02-pruefungsanordnung-finanzamt-augsburg.md) | Prüfungsanordnung FA Augsburg-Stadt, § 196 AO |
-| 03 | [`03-pruefungsdauer-pruefungsschwerpunkte.md`](03-pruefungsdauer-pruefungsschwerpunkte.md) | Prüfungsdauer, Schwerpunkte, Prüferinformation |
-| 04 | [`04-pruefjahre-2020-2024.md`](04-pruefjahre-2020-2024.md) | Übersicht Prüfungsjahre, Umsatz- und Ertragsstruktur |
-| 05 | [`05-betriebspruefung-feststellung-1-firmenwagen.md`](05-betriebspruefung-feststellung-1-firmenwagen.md) | Feststellung 1: Pkw-Pool, 1%-Regelung, Fahrtenbuch |
-| 06 | [`06-betriebspruefung-feststellung-2-firmenwohnung.md`](06-betriebspruefung-feststellung-2-firmenwohnung.md) | Feststellung 2: Wohnung Mallorca, vGA, Sohn |
-| 07 | [`07-betriebspruefung-feststellung-3-fremdvergleich-bruder.md`](07-betriebspruefung-feststellung-3-fremdvergleich-bruder.md) | Feststellung 3: Subunternehmer-Bruder, § 8 KStG |
-| 08 | [`08-betriebspruefung-feststellung-4-vorsteuer-portugal.md`](08-betriebspruefung-feststellung-4-vorsteuer-portugal.md) | Feststellung 4: Vorsteuer Portugal, §§ 14, 15 UStG |
-| 09 | [`09-betriebspruefung-feststellung-5-luxemburg-tochter.md`](09-betriebspruefung-feststellung-5-luxemburg-tochter.md) | Feststellung 5: Luxemburg-Tochter, §§ 7 ff. AStG, § 50d |
-| 10 | [`10-betriebspruefung-feststellung-6-kassenfuehrung.md`](10-betriebspruefung-feststellung-6-kassenfuehrung.md) | Feststellung 6: Kassenführungsmängel, GoBD |
-| 11 | [`11-ergebnisbesprechung-protokoll.md`](11-ergebnisbesprechung-protokoll.md) | Protokoll Schlussbesprechung 18.03.2026 |
-| 12 | [`12-ge-aenderter-steuerbescheid-2022.md`](12-ge-aenderter-steuerbescheid-2022.md) | Geänderter Bescheid 2022, Mehrsteuer-Berechnung |
-| 13 | [`13-einspruch-und-aussetzung-vollziehung.md`](13-einspruch-und-aussetzung-vollziehung.md) | Einspruch § 347 AO, AdV § 361 AO |
-| 14 | [`14-selbstanzeige-luxemburg-konstellation.md`](14-selbstanzeige-luxemburg-konstellation.md) | Selbstanzeige § 371 AO, Luxemburg-Konten, Sperrwirkung |
-| 15 | [`15-strafverfahren-eroeffnung-steuerstrafrecht.md`](15-strafverfahren-eroeffnung-steuerstrafrecht.md) | Einleitung Strafverfahren § 370 AO, BuStra Augsburg |
-| 16 | [`16-tatsaechliche-verstaendigung-finanzamt.md`](16-tatsaechliche-verstaendigung-finanzamt.md) | Tatsächliche Verständigung, Bindungswirkung |
-| 17 | [`17-finanzgerichtsklage-fg-muenchen.md`](17-finanzgerichtsklage-fg-muenchen.md) | FG-Klage 1 K 2188/26, §§ 40, 65 FGO |
-| 18 | [`18-bundesfinanzhof-revision-i-r-2188-26.md`](18-bundesfinanzhof-revision-i-r-2188-26.md) | BFH-Revision I R 2188/26, § 115 FGO |
-| 19 | [`19-anwaltsstrategie-strafrechtliche-folgen.md`](19-anwaltsstrategie-strafrechtliche-folgen.md) | Verteidigungsstrategie, strafrechtliche Risiken |
-| 20 | [`20-mandantenpsychologie-belastungssituation.md`](20-mandantenpsychologie-belastungssituation.md) | Belastungssituation GF, Kommunikation, Krisenmanagement |
-| 21 | [`21-handlungsplan-zukunft.md`](21-handlungsplan-zukunft.md) | Compliance-Maßnahmen, Restrukturierung, Zeitplan |
-| 22 | [`22-abschlussvermerk-rechtsanwalt-und-steuerberater.md`](22-abschlussvermerk-rechtsanwalt-und-steuerberater.md) | Gemeinsamer Abschlussvermerk RA/StB |
+| 01 | [`01-mandatsuebernahme-marquardt.docx`](01-mandatsuebernahme-marquardt.docx) | Kanzleinotiz Erstgespräch, Vollmacht, Erstrisikobewertung |
+| 02 | [`02-pruefungsanordnung-finanzamt-augsburg.docx`](02-pruefungsanordnung-finanzamt-augsburg.docx) | Prüfungsanordnung FA Augsburg-Stadt, § 196 AO |
+| 03 | [`03-pruefungsdauer-pruefungsschwerpunkte.docx`](03-pruefungsdauer-pruefungsschwerpunkte.docx) | Prüfungsdauer, Schwerpunkte, Prüferinformation |
+| 04 | [`04-pruefjahre-2020-2024.docx`](04-pruefjahre-2020-2024.docx) | Übersicht Prüfungsjahre, Umsatz- und Ertragsstruktur |
+| 05 | [`05-betriebspruefung-feststellung-1-firmenwagen.docx`](05-betriebspruefung-feststellung-1-firmenwagen.docx) | Feststellung 1: Pkw-Pool, 1%-Regelung, Fahrtenbuch |
+| 06 | [`06-betriebspruefung-feststellung-2-firmenwohnung.docx`](06-betriebspruefung-feststellung-2-firmenwohnung.docx) | Feststellung 2: Wohnung Mallorca, vGA, Sohn |
+| 07 | [`07-betriebspruefung-feststellung-3-fremdvergleich-bruder.docx`](07-betriebspruefung-feststellung-3-fremdvergleich-bruder.docx) | Feststellung 3: Subunternehmer-Bruder, § 8 KStG |
+| 08 | [`08-betriebspruefung-feststellung-4-vorsteuer-portugal.docx`](08-betriebspruefung-feststellung-4-vorsteuer-portugal.docx) | Feststellung 4: Vorsteuer Portugal, §§ 14, 15 UStG |
+| 09 | [`09-betriebspruefung-feststellung-5-luxemburg-tochter.docx`](09-betriebspruefung-feststellung-5-luxemburg-tochter.docx) | Feststellung 5: Luxemburg-Tochter, §§ 7 ff. AStG, § 50d |
+| 10 | [`10-betriebspruefung-feststellung-6-kassenfuehrung.docx`](10-betriebspruefung-feststellung-6-kassenfuehrung.docx) | Feststellung 6: Kassenführungsmängel, GoBD |
+| 11 | [`11-ergebnisbesprechung-protokoll.docx`](11-ergebnisbesprechung-protokoll.docx) | Protokoll Schlussbesprechung 18.03.2026 |
+| 12 | [`12-ge-aenderter-steuerbescheid-2022.docx`](12-ge-aenderter-steuerbescheid-2022.docx) | Geänderter Bescheid 2022, Mehrsteuer-Berechnung |
+| 13 | [`13-einspruch-und-aussetzung-vollziehung.docx`](13-einspruch-und-aussetzung-vollziehung.docx) | Einspruch § 347 AO, AdV § 361 AO |
+| 14 | [`14-selbstanzeige-luxemburg-konstellation.docx`](14-selbstanzeige-luxemburg-konstellation.docx) | Selbstanzeige § 371 AO, Luxemburg-Konten, Sperrwirkung |
+| 15 | [`15-strafverfahren-eroeffnung-steuerstrafrecht.docx`](15-strafverfahren-eroeffnung-steuerstrafrecht.docx) | Einleitung Strafverfahren § 370 AO, BuStra Augsburg |
+| 16 | [`16-tatsaechliche-verstaendigung-finanzamt.docx`](16-tatsaechliche-verstaendigung-finanzamt.docx) | Tatsächliche Verständigung, Bindungswirkung |
+| 17 | [`17-finanzgerichtsklage-fg-muenchen.docx`](17-finanzgerichtsklage-fg-muenchen.docx) | FG-Klage 1 K 2188/26, §§ 40, 65 FGO |
+| 18 | [`18-bundesfinanzhof-revision-i-r-2188-26.docx`](18-bundesfinanzhof-revision-i-r-2188-26.docx) | BFH-Revision I R 2188/26, § 115 FGO |
+| 19 | [`19-anwaltsstrategie-strafrechtliche-folgen.docx`](19-anwaltsstrategie-strafrechtliche-folgen.docx) | Verteidigungsstrategie, strafrechtliche Risiken |
+| 20 | [`20-mandantenpsychologie-belastungssituation.docx`](20-mandantenpsychologie-belastungssituation.docx) | Belastungssituation GF, Kommunikation, Krisenmanagement |
+| 21 | [`21-handlungsplan-zukunft.docx`](21-handlungsplan-zukunft.docx) | Compliance-Maßnahmen, Restrukturierung, Zeitplan |
+| 22 | [`22-abschlussvermerk-rechtsanwalt-und-steuerberater.docx`](22-abschlussvermerk-rechtsanwalt-und-steuerberater.docx) | Gemeinsamer Abschlussvermerk RA/StB |
 
 ---
 

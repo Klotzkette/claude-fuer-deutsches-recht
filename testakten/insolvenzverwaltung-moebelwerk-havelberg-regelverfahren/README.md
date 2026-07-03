@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 209 KB) | PDF | [`gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 172 KB) | PDF | [`gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip) |
 
@@ -71,32 +71,32 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 
 | Datei | Inhalt |
 |---|---|
-| [01_bestellung_vorläufiger_iv.md](01_bestellung_vorlaeufiger_iv.md) | Gerichtsbeschluss zur Bestellung der vorläufigen IV; allgemeines Verfügungsverbot (§§ 21, 22 InsO) |
+| [01_bestellung_vorläufiger_iv.md](01_bestellung_vorlaeufiger_iv.docx) | Gerichtsbeschluss zur Bestellung der vorläufigen IV; allgemeines Verfügungsverbot (§§ 21, 22 InsO) |
 | [01_bestellung_vorläufiger_iv.docx](01_bestellung_vorlaeufiger_iv.docx) | DOCX-Fassung des Bestellungsbeschlusses |
-| [02_eroeffnungsantrag_gläubiger.md](02_eroeffnungsantrag_glaeubiger.md) | Vollständiger Gläubigerantrag Furnier Nord GmbH mit Forderungsnachweis und Insolvenzgründen |
-| [03_schuldnerfragebogen.md](03_schuldnerfragebogen.md) | Aufnahme Schuldnerfragebogen: Betrieb, Personal, Banken, Verbindlichkeiten, Aktiva, Buchführung, Eigenverwaltungswunsch |
+| [02_eroeffnungsantrag_gläubiger.md](02_eroeffnungsantrag_glaeubiger.docx) | Vollständiger Gläubigerantrag Furnier Nord GmbH mit Forderungsnachweis und Insolvenzgründen |
+| [03_schuldnerfragebogen.docx](03_schuldnerfragebogen.docx) | Aufnahme Schuldnerfragebogen: Betrieb, Personal, Banken, Verbindlichkeiten, Aktiva, Buchführung, Eigenverwaltungswunsch |
 | [04_liquiditaetsstatus_bank_opos.csv](04_liquiditaetsstatus_bank_opos.csv) | Wöchentlicher Liquiditätsstatus (April–August 2026); Bankguthaben, fällige Verbindlichkeiten, Lücke |
-| [05_anlageverzeichnis_maschinen.md](05_anlageverzeichnis_maschinen.md) | Vollständiges Anlageverzeichnis (Maschinen, Fahrzeuge, Büro/IT) mit Buchwerten, Erlösschätzungen, Sicherheiten |
+| [05_anlageverzeichnis_maschinen.docx](05_anlageverzeichnis_maschinen.docx) | Vollständiges Anlageverzeichnis (Maschinen, Fahrzeuge, Büro/IT) mit Buchwerten, Erlösschätzungen, Sicherheiten |
 | [06_personalliste_insolvenzgeld.csv](06_personalliste_insolvenzgeld.csv) | Alle 38 Mitarbeiter mit Funktion, Lohnrückständen März/April, Fortführungsrelevanz, Kündigungsdatum |
-| [07_kassensturz_betriebsfortfuehrung.md](07_kassensturz_betriebsfortfuehrung.md) | Kassensturz 07.05.2026; drei Fortführungsszenarien; Entscheidung und Budget |
-| [08_forderungsanmeldungen_sammelakte.md](08_forderungsanmeldungen_sammelakte.md) | Alle 12 angemeldeten Forderungen im Detail; Prüfungsergebnisse; Anfechtungshinweise |
+| [07_kassensturz_betriebsfortfuehrung.docx](07_kassensturz_betriebsfortfuehrung.docx) | Kassensturz 07.05.2026; drei Fortführungsszenarien; Entscheidung und Budget |
+| [08_forderungsanmeldungen_sammelakte.docx](08_forderungsanmeldungen_sammelakte.docx) | Alle 12 angemeldeten Forderungen im Detail; Prüfungsergebnisse; Anfechtungshinweise |
 | [09_tabellenpruefung_stichprobe.csv](09_tabellenpruefung_stichprobe.csv) | Tabellenprüfung aller Gläubiger: festgestellt, bestritten, Belege, Prüferin, Datum |
-| [10_anfechtungsmatrix_lieferant_bank.md](10_anfechtungsmatrix_lieferant_bank.md) | Vier Anfechtungsfälle (§§ 130, 131, 133, 135 InsO) mit Detailanalyse und Zeitplan |
+| [10_anfechtungsmatrix_lieferant_bank.docx](10_anfechtungsmatrix_lieferant_bank.docx) | Vier Anfechtungsfälle (§§ 130, 131, 133, 135 InsO) mit Detailanalyse und Zeitplan |
 | [11_15b_zahlungsanalyse.csv](11_15b_zahlungsanalyse.csv) | Alle 12 Zahlungen ab Insolvenzreife (22.03.2026); Ausnahmen nach § 15b Abs. 2 InsO; Bewertung IV |
-| [12_masseverzeichnis_verwertung.md](12_masseverzeichnis_verwertung.md) | Freie Masse, Absonderungsgut (§§ 50/51), D&O, Anfechtungen; Verwertungsplan; Masseprognose |
-| [13_masseunzulaenglichkeit_entwurf.md](13_masseunzulaenglichkeit_entwurf.md) | Szenario § 208 InsO; Massestand 30.06.2026; Liquiditätslücke; Entscheidung Nicht-Anzeige |
-| [14_sachwalter_eigenverwaltung_notiz.md](14_sachwalter_eigenverwaltung_notiz.md) | Aktenvermerk: Eigenverwaltungsantrag geprüft und abgelehnt; Begründung |
-| [15_zwischenbericht_amtsgericht.md](15_zwischenbericht_amtsgericht.md) | Formeller Zwischenbericht an das AG Stendal nach Ende der Betriebsfortführung |
-| [16_glaeubigerausschuss_protokoll.md](16_glaeubigerausschuss_protokoll.md) | Sitzungsprotokoll Gläubigerausschuss 15.07.2026: Maschinenverwertung und D&O-Vergleich beschlossen |
+| [12_masseverzeichnis_verwertung.docx](12_masseverzeichnis_verwertung.docx) | Freie Masse, Absonderungsgut (§§ 50/51), D&O, Anfechtungen; Verwertungsplan; Masseprognose |
+| [13_masseunzulaenglichkeit_entwurf.docx](13_masseunzulaenglichkeit_entwurf.docx) | Szenario § 208 InsO; Massestand 30.06.2026; Liquiditätslücke; Entscheidung Nicht-Anzeige |
+| [14_sachwalter_eigenverwaltung_notiz.docx](14_sachwalter_eigenverwaltung_notiz.docx) | Aktenvermerk: Eigenverwaltungsantrag geprüft und abgelehnt; Begründung |
+| [15_zwischenbericht_amtsgericht.docx](15_zwischenbericht_amtsgericht.docx) | Formeller Zwischenbericht an das AG Stendal nach Ende der Betriebsfortführung |
+| [16_glaeubigerausschuss_protokoll.docx](16_glaeubigerausschuss_protokoll.docx) | Sitzungsprotokoll Gläubigerausschuss 15.07.2026: Maschinenverwertung und D&O-Vergleich beschlossen |
 | [16_glaeubigerausschuss_massnahme.docx](16_glaeubigerausschuss_massnahme.docx) | DOCX-Beschlussvorlage für den Gläubigerausschuss |
-| [17_schlussbericht_schlussrechnung.md](17_schlussbericht_schlussrechnung.md) | Vollständiger Schlussbericht: Masserealisierung, Schlussrechnung, Forderungstabelle, Verteilungsquote |
+| [17_schlussbericht_schlussrechnung.docx](17_schlussbericht_schlussrechnung.docx) | Vollständiger Schlussbericht: Masserealisierung, Schlussrechnung, Forderungstabelle, Verteilungsquote |
 | [17_schlussbericht.docx](17_schlussbericht.docx) | DOCX-Fassung des Schlussberichts |
 | [18_verteilungsvorschlag.csv](18_verteilungsvorschlag.csv) | Verteilungsplan: alle Gläubiger mit Rang, Feststellungsbetrag, Quote, Auszahlungsbetrag, Zahlungsdatum |
-| [19_planoption_insolvenzplan_starug.md](19_planoption_insolvenzplan_starug.md) | Prüfung Insolvenzplan vs. StaRUG; Vergleichsrechnung; Entscheidung Regelabwicklung |
+| [19_planoption_insolvenzplan_starug.docx](19_planoption_insolvenzplan_starug.docx) | Prüfung Insolvenzplan vs. StaRUG; Vergleichsrechnung; Entscheidung Regelabwicklung |
 | [20_planvergleich_rechnung.csv](20_planvergleich_rechnung.csv) | Tabellarischer Vergleich Plan / Regelabwicklung Fortführung / Zerschlagung je Gruppe |
-| [21_gruppenbildung_planentwurf.md](21_gruppenbildung_planentwurf.md) | Entwurf Gruppenbildung nach § 222 InsO (4 Gruppen); offene Fragen |
-| [22_starug_alternativroute.md](22_starug_alternativroute.md) | Kritische StaRUG-Prüfung: warum das Gesetz im konkreten Fall ausscheidet; Lernnotiz |
-| [23_plan_quality_gate.md](23_plan_quality_gate.md) | Checkliste Planvorlagebereitschaft; Ergebnis: kein Plan (6 von 6 Formalkriterien nicht erfüllt) |
+| [21_gruppenbildung_planentwurf.docx](21_gruppenbildung_planentwurf.docx) | Entwurf Gruppenbildung nach § 222 InsO (4 Gruppen); offene Fragen |
+| [22_starug_alternativroute.docx](22_starug_alternativroute.docx) | Kritische StaRUG-Prüfung: warum das Gesetz im konkreten Fall ausscheidet; Lernnotiz |
+| [23_plan_quality_gate.docx](23_plan_quality_gate.docx) | Checkliste Planvorlagebereitschaft; Ergebnis: kein Plan (6 von 6 Formalkriterien nicht erfüllt) |
 | [anfechtungsschreiben_furnier_nord.docx](anfechtungsschreiben_furnier_nord.docx) | DOCX-Anfechtungsschreiben an Furnier Nord GmbH (§ 131 InsO) |
 | [bericht_berichtstermin_14092026.docx](bericht_berichtstermin_14092026.docx) | DOCX-Bericht zum Berichts- und Prüfungstermin |
 

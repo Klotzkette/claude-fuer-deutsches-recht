@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 86 KB) | PDF | [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf`](gesamt-pdf/verlagsredaktion-morgenlage-fachverlag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verlagsredaktion-morgenlage-fachverlag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verlagsredaktion-morgenlage-fachverlag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verlagsredaktion-morgenlage-fachverlag-einzelpdfs.zip) |
 
@@ -24,19 +24,19 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_morgenlage_postfach.md` | Eingangskorb mit Mails, Fristen, Anhängen und Status, Tagesablauf |
-| `02_heftplan_und_online_first.md` | Heftplan, Rubriken, Seitenbudget, Online-first-Fragen, Vertriebsnotiz |
-| `03_autorenkommunikation_rueckstaende.md` | Mailentwürfe Seidenpfennig, Rabenau, Wendt/Krug; Status-Tabelle Korrespondenz |
-| `04_manuskriptfragment_kommentarupdate.md` | fragmentarisches Kommentarupdate § 38 UrhG mit Lücken, Quellenampel und Hinweisen für die Herausgeberrunde |
-| `05_bildrechte_tabellen_screenshots.md` | Abbildungen, Screenshots, Tabellen, Credits, Rechteampel und Lizenzlaufzeiten |
-| `06_satzfahne_korrekturlauf.md` | Satzfahnennotiz mit 16 Auffälligkeiten, Freigabematrix, Vorschlag Korrekturlauf |
-| `07_metadaten_marketing_vertrieb.md` | Klappentext, Schlagworte, Newsletter, Tonalitätsvorgaben, Vergleich 1./2. Auflage |
-| `08_erwarteter_output.md` | Qualitätsanforderungen für die redaktionelle Bearbeitung, Bewertungsmaßstab |
+| `01_morgenlage_postfach.docx` | Eingangskorb mit Mails, Fristen, Anhängen und Status, Tagesablauf |
+| `02_heftplan_und_online_first.docx` | Heftplan, Rubriken, Seitenbudget, Online-first-Fragen, Vertriebsnotiz |
+| `03_autorenkommunikation_rueckstaende.docx` | Mailentwürfe Seidenpfennig, Rabenau, Wendt/Krug; Status-Tabelle Korrespondenz |
+| `04_manuskriptfragment_kommentarupdate.docx` | fragmentarisches Kommentarupdate § 38 UrhG mit Lücken, Quellenampel und Hinweisen für die Herausgeberrunde |
+| `05_bildrechte_tabellen_screenshots.docx` | Abbildungen, Screenshots, Tabellen, Credits, Rechteampel und Lizenzlaufzeiten |
+| `06_satzfahne_korrekturlauf.docx` | Satzfahnennotiz mit 16 Auffälligkeiten, Freigabematrix, Vorschlag Korrekturlauf |
+| `07_metadaten_marketing_vertrieb.docx` | Klappentext, Schlagworte, Newsletter, Tonalitätsvorgaben, Vergleich 1./2. Auflage |
+| `08_erwarteter_output.docx` | Qualitätsanforderungen für die redaktionelle Bearbeitung, Bewertungsmaßstab |
 | `09_eml_seidenpfennig_kuerzung.eml` | Originalmail Prof. Seidenpfennig vom Fr 29.05. mit Manuskript v7 |
 | `10_eml_rabenau_screenshot.eml` | Originalmail RA Rabenau vom Fr 29.05. zu Bildrechten Folie 12 |
-| `11_vertriebs_jourfixe_notiz.md` | Tagesordnung und Notizen Vertriebs-Jour-fixe Do 04.06. |
-| `12_heftumbruch_konflikt_lektorat.md` | Konflikt Redaktion vs. Lektorat zu Schlusskorrektur, Streichung IV.3, "Datenraum" |
-| `13_honorarrechnung_diskussion_niemczyk.md` | Honorarmahnung Stufe 2 -- Konflikt zwischen Vertragsklausel und mündlicher Pauschalzusage |
+| `11_vertriebs_jourfixe_notiz.docx` | Tagesordnung und Notizen Vertriebs-Jour-fixe Do 04.06. |
+| `12_heftumbruch_konflikt_lektorat.docx` | Konflikt Redaktion vs. Lektorat zu Schlusskorrektur, Streichung IV.3, "Datenraum" |
+| `13_honorarrechnung_diskussion_niemczyk.docx` | Honorarmahnung Stufe 2 -- Konflikt zwischen Vertragsklausel und mündlicher Pauschalzusage |
 
 ## Testziele
 

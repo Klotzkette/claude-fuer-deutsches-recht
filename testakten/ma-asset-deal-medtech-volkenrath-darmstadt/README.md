@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 747 KB) | PDF | [`gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf`](gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 744 KB) | PDF | [`gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf`](gesamt-pdf/ma-asset-deal-medtech-volkenrath-darmstadt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ma-asset-deal-medtech-volkenrath-darmstadt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ma-asset-deal-medtech-volkenrath-darmstadt-einzelpdfs.zip) |
 
@@ -60,28 +60,28 @@ VENERA Investment Group GmbH (Kaeufer)
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsannahme-konfliktpruefung.md` | Mandatsannahme und Interessenkonfliktprüfung |
-| 02 | `02_nda-verhandlung.md` | NDA-Verhandlung und -Abschluss |
-| 03 | `03_loi-term-sheet.md` | Letter of Intent und Term Sheet |
-| 04 | `04_ldd-kick-off-corporate.md` | LDD Workstream Corporate |
-| 05 | `05_ldd-workstream-labour.md` | LDD Workstream Labour/HR |
-| 06 | `06_ldd-workstream-ip.md` | LDD Workstream IP |
-| 07 | `07_ldd-workstream-litigation.md` | LDD Workstream Litigation |
-| 08 | `08_ldd-workstream-real-estate.md` | LDD Workstream Real Estate |
-| 09 | `09_ldd-workstream-compliance.md` | LDD Workstream Public/Compliance |
-| 10 | `10_red-flag-memorandum.md` | Red-Flag-Memorandum (14 kritische Issues) |
-| 11 | `11_spa-strukturierung-locked-box.md` | SPA-Strukturierung, Locked-Box vs. Closing-Accounts |
-| 12 | `12_reps-warranties-indemnities.md` | Representations, Warranties & Indemnities |
-| 13 | `13_wi-versicherung.md` | W&I-Versicherung (AIG vs. Liberty Mutual) |
-| 14 | `14_antitrust-bkarta.md` | Antitrust BKartA Phase I (B 8-188/26) |
-| 15 | `15_antitrust-eu-form-co.md` | EU-Fusionskontrolle Form CO (M.11244) |
-| 16 | `16_fcpa-doi-strafrechtsrisiko.md` | FCPA / DOJ-Subpoena / Strafrechtsrisiko |
-| 17 | `17_betriebsuebergang-613a-bgb.md` | Betriebsübergang nach § 613a BGB |
-| 18 | `18_sozialplan-verhandlung.md` | Sozialplan-Verhandlung Betriebsrat Darmstadt |
-| 19 | `19_earn-out-escrow.md` | Earn-Out-Komponente und Escrow-Konstruktion |
-| 20 | `20_conditions-precedent.md` | Conditions Precedent und Closing-Vorbereitung |
-| 21 | `21_closing-memorandum.md` | Closing-Memorandum und Vollzug |
-| 22 | `22_post-closing-integration.md` | Post-Closing und Integration |
+| 01 | `01_mandatsannahme-konfliktpruefung.docx` | Mandatsannahme und Interessenkonfliktprüfung |
+| 02 | `02_nda-verhandlung.docx` | NDA-Verhandlung und -Abschluss |
+| 03 | `03_loi-term-sheet.docx` | Letter of Intent und Term Sheet |
+| 04 | `04_ldd-kick-off-corporate.docx` | LDD Workstream Corporate |
+| 05 | `05_ldd-workstream-labour.docx` | LDD Workstream Labour/HR |
+| 06 | `06_ldd-workstream-ip.docx` | LDD Workstream IP |
+| 07 | `07_ldd-workstream-litigation.docx` | LDD Workstream Litigation |
+| 08 | `08_ldd-workstream-real-estate.docx` | LDD Workstream Real Estate |
+| 09 | `09_ldd-workstream-compliance.docx` | LDD Workstream Public/Compliance |
+| 10 | `10_red-flag-memorandum.docx` | Red-Flag-Memorandum (14 kritische Issues) |
+| 11 | `11_spa-strukturierung-locked-box.docx` | SPA-Strukturierung, Locked-Box vs. Closing-Accounts |
+| 12 | `12_reps-warranties-indemnities.docx` | Representations, Warranties & Indemnities |
+| 13 | `13_wi-versicherung.docx` | W&I-Versicherung (AIG vs. Liberty Mutual) |
+| 14 | `14_antitrust-bkarta.docx` | Antitrust BKartA Phase I (B 8-188/26) |
+| 15 | `15_antitrust-eu-form-co.docx` | EU-Fusionskontrolle Form CO (M.11244) |
+| 16 | `16_fcpa-doi-strafrechtsrisiko.docx` | FCPA / DOJ-Subpoena / Strafrechtsrisiko |
+| 17 | `17_betriebsuebergang-613a-bgb.docx` | Betriebsübergang nach § 613a BGB |
+| 18 | `18_sozialplan-verhandlung.docx` | Sozialplan-Verhandlung Betriebsrat Darmstadt |
+| 19 | `19_earn-out-escrow.docx` | Earn-Out-Komponente und Escrow-Konstruktion |
+| 20 | `20_conditions-precedent.docx` | Conditions Precedent und Closing-Vorbereitung |
+| 21 | `21_closing-memorandum.docx` | Closing-Memorandum und Vollzug |
+| 22 | `22_post-closing-integration.docx` | Post-Closing und Integration |
 
 ## Anlagen
 

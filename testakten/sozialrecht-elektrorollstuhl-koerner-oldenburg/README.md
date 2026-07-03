@@ -34,22 +34,22 @@ Aktenstand ist der 29.06.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 
 sozialrecht-elektrorollstuhl-koerner-oldenburg/
 ├── README.md                                    <- diese Übersicht
 ├── rubric.yaml                                  <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_und_fristsache.md            <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
-├── 02_ueberweisung_und_hilfsmittelverordnung.md <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
-├── 03_facharztbericht_mobilitaet.md             <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
-├── 04_eigenschilderung_alltag_und_wege.md       <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
-├── 05_wohnungsumfeld_barrierefreiheit.md        <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
-├── 06_kostenvoranschlag_sanitaetshaus.md        <- Technische Versorgung, Zubehör, Kosten, Alternativen
-├── 07_md_stellungnahme_ablehnungsempfehlung.md  <- Medizinischer Dienst, Aktenlage, ablehnende Bewertung
-├── 08_bescheid_krankenkasse_ablehnung.md        <- Ausgangsbescheid mit Rechtsbehelfsbelehrung
-├── 09_privates_reha_gutachten.md                <- Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest
-├── 10_widerspruch_versicherter_ohne_anwalt.md   <- Einfacher, unscharfer Widerspruch des Versicherten
-├── 11_widerspruchsbescheid_krankenkasse.md      <- Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist
-├── 12_klageschrift_entwurf_separat.md           <- Nicht eingereichter Klageentwurf für das Sozialgericht
-├── 13_klageerwiderung_krankenkasse_entwurf.md   <- Verteidigung der Krankenkasse im Klageverfahren
-├── 14_gerichtlicher_hinweis_und_beweisfragen.md <- Gerichtliche Hinweise, Beweisfragen, Vergleichsfenster
-├── 15_urteilsentwurf_zwei_varianten.md          <- Stattgabe- und Abweisungsvariante mit Entscheidungsweichen
-├── 16_fristsachen_anlagen_und_pruefmatrix.md    <- Anlagenverzeichnis, Fristenblatt, Arbeitsmatrix
+├── 01_mandatsnotiz_und_fristsache.docx            <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
+├── 02_ueberweisung_und_hilfsmittelverordnung.docx <- Hausärztliche Überweisung, Verordnung, medizinischer Kern
+├── 03_facharztbericht_mobilitaet.docx             <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko
+├── 04_eigenschilderung_alltag_und_wege.docx       <- Eigene Schilderung des Versicherten zu Wohnung, Wegen, Teilhabe
+├── 05_wohnungsumfeld_barrierefreiheit.docx        <- Altbau, Treppenhaus, Gehweg, Aufzugslage, Umbaugrenzen
+├── 06_kostenvoranschlag_sanitaetshaus.docx        <- Technische Versorgung, Zubehör, Kosten, Alternativen
+├── 07_md_stellungnahme_ablehnungsempfehlung.docx  <- Medizinischer Dienst, Aktenlage, ablehnende Bewertung
+├── 08_bescheid_krankenkasse_ablehnung.docx        <- Ausgangsbescheid mit Rechtsbehelfsbelehrung
+├── 09_privates_reha_gutachten.docx                <- Persönliche Untersuchung, Wohnumfeld, Hilfsmitteltest
+├── 10_widerspruch_versicherter_ohne_anwalt.docx   <- Einfacher, unscharfer Widerspruch des Versicherten
+├── 11_widerspruchsbescheid_krankenkasse.docx      <- Zurückweisung, Rechtsbehelfsbelehrung, Klagefrist
+├── 12_klageschrift_entwurf_separat.docx           <- Nicht eingereichter Klageentwurf für das Sozialgericht
+├── 13_klageerwiderung_krankenkasse_entwurf.docx   <- Verteidigung der Krankenkasse im Klageverfahren
+├── 14_gerichtlicher_hinweis_und_beweisfragen.docx <- Gerichtliche Hinweise, Beweisfragen, Vergleichsfenster
+├── 15_urteilsentwurf_zwei_varianten.docx          <- Stattgabe- und Abweisungsvariante mit Entscheidungsweichen
+├── 16_fristsachen_anlagen_und_pruefmatrix.docx    <- Anlagenverzeichnis, Fristenblatt, Arbeitsmatrix
 ├── csv/
 │   ├── fristen_koerner.csv                      <- Fristen und Verfahrensstatus als Tabelle
 │   └── hilfsmittelvergleich.csv                 <- Funktionaler Vergleich der Hilfsmitteloptionen

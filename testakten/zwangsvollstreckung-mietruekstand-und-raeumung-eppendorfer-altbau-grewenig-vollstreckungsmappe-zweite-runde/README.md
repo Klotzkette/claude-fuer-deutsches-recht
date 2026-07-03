@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 281 KB) | PDF | [`gesamt-pdf/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde_gesamt.pdf`](gesamt-pdf/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 267 KB) | PDF | [`gesamt-pdf/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde_gesamt.pdf`](gesamt-pdf/zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsvollstreckung-mietruekstand-und-raeumung-eppendorfer-altbau-grewenig-vollstreckungsmappe-zweite-runde-einzelpdfs.zip) |
 
@@ -73,30 +73,30 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandantenbriefing-grewenig.md`](01-mandantenbriefing-grewenig.md) | Mandatserteilung, Sachverhalt, Vollstreckungsstand, Prioritäten |
-| 02 | [`02-titel-pruefung-188-c-4711-25.md`](02-titel-pruefung-188-c-4711-25.md) | Prüfungsschema § 704 ff. ZPO, Parteien, Klausel, Zustellung |
-| 03 | [`03-klausel-und-zustellung-checkliste.md`](03-klausel-und-zustellung-checkliste.md) | Checkliste § 724 und § 750 ZPO, Ausführungsprotokoll |
-| 04 | [`04-raeumungsantrag-gv-lattermann.md`](04-raeumungsantrag-gv-lattermann.md) | Vollstreckungsauftrag Raeumung § 885 ZPO an GV Lattermann |
-| 05 | [`05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.md`](05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.md) | PfUEB Lohnpfändung Carmen, Drittschuldner FHH, Berechnung |
-| 06 | [`06-kontopfaendung-sparda-802l-zpo.md`](06-kontopfaendung-sparda-802l-zpo.md) | Kontenauskunft § 802l ZPO, Antrag PfUEB Sparda Hamburg |
-| 07 | [`07-vermoegensauskunft-termin-gv.md`](07-vermoegensauskunft-termin-gv.md) | § 802c ZPO, GV-Termin 04.02.2026, Schuldnerverzeichnis |
-| 08 | [`08-pfaendungsfreigrenzen-tabelle-2026.md`](08-pfaendungsfreigrenzen-tabelle-2026.md) | Tabelle § 850c ZPO 2026, Berechnungsbeispiele Carmen und Heinrich |
-| 09 | [`09-schuldnerschutzantrag-765a-zpo.md`](09-schuldnerschutzantrag-765a-zpo.md) | Antrag Schuldner wegen Erkrankung Hilde, BGH-Linie, Stellungnahme |
-| 10 | [`10-insolvenzantrag-schuldner-risikoanalyse.md`](10-insolvenzantrag-schuldner-risikoanalyse.md) | § 13 InsO, § 112 InsO, Anfechtungsrisiko § 131 InsO, Strategie |
-| 11 | [`11-p-konto-bescheinigung-pruefung.md`](11-p-konto-bescheinigung-pruefung.md) | P-Konto-Bescheinigung Carmen, § 850k ZPO, Abgrenzung Lohnpfändung |
-| 12 | [`12-berliner-raeumung-vs-vollraeumung.md`](12-berliner-raeumung-vs-vollraeumung.md) | Kostenvergleich, Entscheidung Mandantin, Rückfallplanung |
-| 13 | [`13-folge-mietverhaeltnis-und-ankuendigung-bgb.md`](13-folge-mietverhaeltnis-und-ankuendigung-bgb.md) | Nutzungsentschädigung § 546a BGB, Kündigungswirksamkeit, Kaution |
-| 14 | [`14-zvg-pruefung-eigentumsverhaeltnisse.md`](14-zvg-pruefung-eigentumsverhaeltnisse.md) | ZVG-Ausschluss (Mieter kein Eigentümer), Mobiliarpfaendung als Alternative |
-| 15 | [`15-protokoll-gv-pfaendungsversuch.md`](15-protokoll-gv-pfaendungsversuch.md) | GV-Protokoll 29.01.2026, Inventarliste, § 765a-Verzögerung |
-| 16 | [`16-mobiliarpfaendung-katalog.md`](16-mobiliarpfaendung-katalog.md) | Einzelprüfung § 811 ZPO, pfändbare Gegenstände, VW Crafter § 811a ZPO |
-| 17 | [`17-erinnerung-766-zpo-pruefung.md`](17-erinnerung-766-zpo-pruefung.md) | Schuldnerrechtsbehelf § 766 ZPO, drei Einwände geprüft, Stellungnahme |
-| 18 | [`18-vollstreckungserinnerung-fristen.md`](18-vollstreckungserinnerung-fristen.md) | Fristentabelle, Wiedervorlageplan, Ampel-Übersicht |
-| 19 | [`19-vergleichsoption-mit-mietern.md`](19-vergleichsoption-mit-mietern.md) | Angebot Schuldnerseite, Gegenangebot Kanzlei, Entscheidungsmatrix |
-| 20 | [`20-rechnung-an-mandantin.md`](20-rechnung-an-mandantin.md) | Honorarrechnung Nr. 2026-0188-01, RVG VV 3309, Kostenerstattung § 788 ZPO |
-| 21 | [`21-kommunikation-jugendamt-sozialamt.md`](21-kommunikation-jugendamt-sozialamt.md) | JA-Stellungnahme, VG Hamburg 8 K 188/26, Sozialhilfe-Kollision |
-| 22 | [`22-mandantenmemo-go-no-go-raeumung.md`](22-mandantenmemo-go-no-go-raeumung.md) | Go/No-Go-Analyse Raeumung März 2026, Blockierungskriterien, Ausblick |
-| 23 | [`23-kostenfestsetzungsantrag-entwurf.md`](23-kostenfestsetzungsantrag-entwurf.md) | KFB-Entwurf § 103 ff. ZPO, Kostenpositionen Vorprozess, Verfahren |
-| 24 | [`24-mahnbescheid-online-vb-pruefung.md`](24-mahnbescheid-online-vb-pruefung.md) | MahnB/VB-Online für Nutzungsentschädigung § 546a BGB, Titelschaffung |
+| 01 | [`01-mandantenbriefing-grewenig.docx`](01-mandantenbriefing-grewenig.docx) | Mandatserteilung, Sachverhalt, Vollstreckungsstand, Prioritäten |
+| 02 | [`02-titel-pruefung-188-c-4711-25.docx`](02-titel-pruefung-188-c-4711-25.docx) | Prüfungsschema § 704 ff. ZPO, Parteien, Klausel, Zustellung |
+| 03 | [`03-klausel-und-zustellung-checkliste.docx`](03-klausel-und-zustellung-checkliste.docx) | Checkliste § 724 und § 750 ZPO, Ausführungsprotokoll |
+| 04 | [`04-raeumungsantrag-gv-lattermann.docx`](04-raeumungsantrag-gv-lattermann.docx) | Vollstreckungsauftrag Raeumung § 885 ZPO an GV Lattermann |
+| 05 | [`05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx`](05-pfaendungs-und-ueberweisungsbeschluss-stadt-hamburg.docx) | PfUEB Lohnpfändung Carmen, Drittschuldner FHH, Berechnung |
+| 06 | [`06-kontopfaendung-sparda-802l-zpo.docx`](06-kontopfaendung-sparda-802l-zpo.docx) | Kontenauskunft § 802l ZPO, Antrag PfUEB Sparda Hamburg |
+| 07 | [`07-vermoegensauskunft-termin-gv.docx`](07-vermoegensauskunft-termin-gv.docx) | § 802c ZPO, GV-Termin 04.02.2026, Schuldnerverzeichnis |
+| 08 | [`08-pfaendungsfreigrenzen-tabelle-2026.docx`](08-pfaendungsfreigrenzen-tabelle-2026.docx) | Tabelle § 850c ZPO 2026, Berechnungsbeispiele Carmen und Heinrich |
+| 09 | [`09-schuldnerschutzantrag-765a-zpo.docx`](09-schuldnerschutzantrag-765a-zpo.docx) | Antrag Schuldner wegen Erkrankung Hilde, BGH-Linie, Stellungnahme |
+| 10 | [`10-insolvenzantrag-schuldner-risikoanalyse.docx`](10-insolvenzantrag-schuldner-risikoanalyse.docx) | § 13 InsO, § 112 InsO, Anfechtungsrisiko § 131 InsO, Strategie |
+| 11 | [`11-p-konto-bescheinigung-pruefung.docx`](11-p-konto-bescheinigung-pruefung.docx) | P-Konto-Bescheinigung Carmen, § 850k ZPO, Abgrenzung Lohnpfändung |
+| 12 | [`12-berliner-raeumung-vs-vollraeumung.docx`](12-berliner-raeumung-vs-vollraeumung.docx) | Kostenvergleich, Entscheidung Mandantin, Rückfallplanung |
+| 13 | [`13-folge-mietverhaeltnis-und-ankuendigung-bgb.docx`](13-folge-mietverhaeltnis-und-ankuendigung-bgb.docx) | Nutzungsentschädigung § 546a BGB, Kündigungswirksamkeit, Kaution |
+| 14 | [`14-zvg-pruefung-eigentumsverhaeltnisse.docx`](14-zvg-pruefung-eigentumsverhaeltnisse.docx) | ZVG-Ausschluss (Mieter kein Eigentümer), Mobiliarpfaendung als Alternative |
+| 15 | [`15-protokoll-gv-pfaendungsversuch.docx`](15-protokoll-gv-pfaendungsversuch.docx) | GV-Protokoll 29.01.2026, Inventarliste, § 765a-Verzögerung |
+| 16 | [`16-mobiliarpfaendung-katalog.docx`](16-mobiliarpfaendung-katalog.docx) | Einzelprüfung § 811 ZPO, pfändbare Gegenstände, VW Crafter § 811a ZPO |
+| 17 | [`17-erinnerung-766-zpo-pruefung.docx`](17-erinnerung-766-zpo-pruefung.docx) | Schuldnerrechtsbehelf § 766 ZPO, drei Einwände geprüft, Stellungnahme |
+| 18 | [`18-vollstreckungserinnerung-fristen.docx`](18-vollstreckungserinnerung-fristen.docx) | Fristentabelle, Wiedervorlageplan, Ampel-Übersicht |
+| 19 | [`19-vergleichsoption-mit-mietern.docx`](19-vergleichsoption-mit-mietern.docx) | Angebot Schuldnerseite, Gegenangebot Kanzlei, Entscheidungsmatrix |
+| 20 | [`20-rechnung-an-mandantin.docx`](20-rechnung-an-mandantin.docx) | Honorarrechnung Nr. 2026-0188-01, RVG VV 3309, Kostenerstattung § 788 ZPO |
+| 21 | [`21-kommunikation-jugendamt-sozialamt.docx`](21-kommunikation-jugendamt-sozialamt.docx) | JA-Stellungnahme, VG Hamburg 8 K 188/26, Sozialhilfe-Kollision |
+| 22 | [`22-mandantenmemo-go-no-go-raeumung.docx`](22-mandantenmemo-go-no-go-raeumung.docx) | Go/No-Go-Analyse Raeumung März 2026, Blockierungskriterien, Ausblick |
+| 23 | [`23-kostenfestsetzungsantrag-entwurf.docx`](23-kostenfestsetzungsantrag-entwurf.docx) | KFB-Entwurf § 103 ff. ZPO, Kostenpositionen Vorprozess, Verfahren |
+| 24 | [`24-mahnbescheid-online-vb-pruefung.docx`](24-mahnbescheid-online-vb-pruefung.docx) | MahnB/VB-Online für Nutzungsentschädigung § 546a BGB, Titelschaffung |
 
 ---
 

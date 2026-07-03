@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 772 KB) | PDF | [`gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf`](gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 765 KB) | PDF | [`gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf`](gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung-einzelpdfs.zip) |
 
@@ -83,28 +83,28 @@ Arbeitsakte zum Plugin `hausarbeitenmacher`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_sachverhalt_aufgabenstellung_ss26.md`](01_sachverhalt_aufgabenstellung_ss26.md) | Sachverhalt und Aufgabenstellung (Wandersleben SS 26) |
-| 02 | [`02_problemkreis_uebersicht_aufgabenanalyse.md`](02_problemkreis_uebersicht_aufgabenanalyse.md) | Problemliste, Strukturvorschlag, Zeitplanung |
-| 03 | [`03_anspruchsschema_a_gegen_b_par433_par437.md`](03_anspruchsschema_a_gegen_b_par433_par437.md) | Anspruchsschemata A gegen B — §§ 433, 280, 286 |
-| 04 | [`04_anspruchsschema_b_gegen_c_par437_kette.md`](04_anspruchsschema_b_gegen_c_par437_kette.md) | Anspruchsschemata B gegen C — §§ 404, 406, Abtretung |
-| 05 | [`05_aufrechnung_par387_bgb_voraussetzungen.md`](05_aufrechnung_par387_bgb_voraussetzungen.md) | Aufrechnung §§ 387–389 BGB — alle Voraussetzungen, Streitstand § 389 |
-| 06 | [`06_schlechtleistung_par434_par437_bgb_kontrolle.md`](06_schlechtleistung_par434_par437_bgb_kontrolle.md) | Sachmangel § 434 BGB — Subsumtion Farbabplatzung |
-| 07 | [`07_kaufmann_nachbesserung_par439_bgb.md`](07_kaufmann_nachbesserung_par439_bgb.md) | Nacherfüllung § 439 BGB — Verweigerung, Fristsetzungsentbehrlichkeit |
-| 08 | [`08_ruecktritt_par323_par326_bgb_pruefschema.md`](08_ruecktritt_par323_par326_bgb_pruefschema.md) | Rücktritt §§ 323, 326, 437 Nr. 2 BGB — Erheblichkeit, Streitstand |
-| 09 | [`09_schadensersatz_par280_par281_bgb_subsumtion.md`](09_schadensersatz_par280_par281_bgb_subsumtion.md) | Schadensersatz §§ 280, 281 BGB — kleiner/großer SE |
-| 10 | [`10_verbrauchsgueterkauf_par474ff_bgb_drittland.md`](10_verbrauchsgueterkauf_par474ff_bgb_drittland.md) | Verbrauchsgüterkauf §§ 474 ff. BGB — Reform 2022, § 477 |
-| 11 | [`11_zitierweise_methodenlehre_palandt_muekomm.md`](11_zitierweise_methodenlehre_palandt_muekomm.md) | Zitierweise Palandt/MüKo/BGH, Gutachtenstil, Fußnoten |
-| 12 | [`12_streitstandsdarstellung_par389_pluralitaet.md`](12_streitstandsdarstellung_par389_pluralitaet.md) | Streitstand § 389 BGB — Fiktionstheorie vs. teleologische Reduktion |
-| 13 | [`13_aufbau_plan_gutachtenstil_zwischenergebnis.md`](13_aufbau_plan_gutachtenstil_zwischenergebnis.md) | Vollständige Gliederung, Seitenplanung, Checkliste |
-| 14 | [`14_verzug_par286_bgb_mahnung_par280abs2.md`](14_verzug_par286_bgb_mahnung_par280abs2.md) | Verzug § 286 BGB — automatischer Verzug, Vertretenmüssen, § 288 |
-| 15 | [`15_gefahruebergang_par446_par447_bgb.md`](15_gefahruebergang_par446_par447_bgb.md) | Gefahrübergang §§ 446, 447 BGB — Übergabe, Versendungskauf |
-| 16 | [`16_eigentumsuebertragung_par929_par930.md`](16_eigentumsuebertragung_par929_par930.md) | Eigentumsübertragung §§ 929, 930 BGB — Abstraktionsprinzip |
-| 17 | [`17_eingrenzung_aufrechnungslagen_prozessual.md`](17_eingrenzung_aufrechnungslagen_prozessual.md) | Prozessuale Aufrechnung § 322 Abs. 2 ZPO — Hilfsaufrechnung, Streitstand |
-| 18 | [`18_zeitwert_par818abs2_alternative.md`](18_zeitwert_par818abs2_alternative.md) | Bereicherungsrecht § 818 Abs. 2 BGB — Zeitwert, Subsidiärität |
-| 19 | [`19_streitwert_par3_zpo_uebung_punkte.md`](19_streitwert_par3_zpo_uebung_punkte.md) | Streitwert § 3 ZPO, GKG, Wandersleben-Bewertungsmaßstab |
-| 20 | [`20_korrekturlauf_redaktionelle_glaettung.md`](20_korrekturlauf_redaktionelle_glaettung.md) | Korrekturlauf v1 → v3, Stilfehler, Zitatkontrolle, Abgabe |
-| 21 | [`21_pruefer_erwartungen_wandersleben_zitierfreude.md`](21_pruefer_erwartungen_wandersleben_zitierfreude.md) | Prüfer-Erwartungen Wandersleben, Lieblingsstreitstände, Taktik |
-| 22 | [`22_abschluss_ergebnisuebersicht_punktevergabe.md`](22_abschluss_ergebnisuebersicht_punktevergabe.md) | Gesamtergebnis, Streitstandsmatrix, Selbstbewertung |
+| 01 | [`01_sachverhalt_aufgabenstellung_ss26.docx`](01_sachverhalt_aufgabenstellung_ss26.docx) | Sachverhalt und Aufgabenstellung (Wandersleben SS 26) |
+| 02 | [`02_problemkreis_uebersicht_aufgabenanalyse.docx`](02_problemkreis_uebersicht_aufgabenanalyse.docx) | Problemliste, Strukturvorschlag, Zeitplanung |
+| 03 | [`03_anspruchsschema_a_gegen_b_par433_par437.docx`](03_anspruchsschema_a_gegen_b_par433_par437.docx) | Anspruchsschemata A gegen B — §§ 433, 280, 286 |
+| 04 | [`04_anspruchsschema_b_gegen_c_par437_kette.docx`](04_anspruchsschema_b_gegen_c_par437_kette.docx) | Anspruchsschemata B gegen C — §§ 404, 406, Abtretung |
+| 05 | [`05_aufrechnung_par387_bgb_voraussetzungen.docx`](05_aufrechnung_par387_bgb_voraussetzungen.docx) | Aufrechnung §§ 387–389 BGB — alle Voraussetzungen, Streitstand § 389 |
+| 06 | [`06_schlechtleistung_par434_par437_bgb_kontrolle.docx`](06_schlechtleistung_par434_par437_bgb_kontrolle.docx) | Sachmangel § 434 BGB — Subsumtion Farbabplatzung |
+| 07 | [`07_kaufmann_nachbesserung_par439_bgb.docx`](07_kaufmann_nachbesserung_par439_bgb.docx) | Nacherfüllung § 439 BGB — Verweigerung, Fristsetzungsentbehrlichkeit |
+| 08 | [`08_ruecktritt_par323_par326_bgb_pruefschema.docx`](08_ruecktritt_par323_par326_bgb_pruefschema.docx) | Rücktritt §§ 323, 326, 437 Nr. 2 BGB — Erheblichkeit, Streitstand |
+| 09 | [`09_schadensersatz_par280_par281_bgb_subsumtion.docx`](09_schadensersatz_par280_par281_bgb_subsumtion.docx) | Schadensersatz §§ 280, 281 BGB — kleiner/großer SE |
+| 10 | [`10_verbrauchsgueterkauf_par474ff_bgb_drittland.docx`](10_verbrauchsgueterkauf_par474ff_bgb_drittland.docx) | Verbrauchsgüterkauf §§ 474 ff. BGB — Reform 2022, § 477 |
+| 11 | [`11_zitierweise_methodenlehre_palandt_muekomm.docx`](11_zitierweise_methodenlehre_palandt_muekomm.docx) | Zitierweise Palandt/MüKo/BGH, Gutachtenstil, Fußnoten |
+| 12 | [`12_streitstandsdarstellung_par389_pluralitaet.docx`](12_streitstandsdarstellung_par389_pluralitaet.docx) | Streitstand § 389 BGB — Fiktionstheorie vs. teleologische Reduktion |
+| 13 | [`13_aufbau_plan_gutachtenstil_zwischenergebnis.docx`](13_aufbau_plan_gutachtenstil_zwischenergebnis.docx) | Vollständige Gliederung, Seitenplanung, Checkliste |
+| 14 | [`14_verzug_par286_bgb_mahnung_par280abs2.docx`](14_verzug_par286_bgb_mahnung_par280abs2.docx) | Verzug § 286 BGB — automatischer Verzug, Vertretenmüssen, § 288 |
+| 15 | [`15_gefahruebergang_par446_par447_bgb.docx`](15_gefahruebergang_par446_par447_bgb.docx) | Gefahrübergang §§ 446, 447 BGB — Übergabe, Versendungskauf |
+| 16 | [`16_eigentumsuebertragung_par929_par930.docx`](16_eigentumsuebertragung_par929_par930.docx) | Eigentumsübertragung §§ 929, 930 BGB — Abstraktionsprinzip |
+| 17 | [`17_eingrenzung_aufrechnungslagen_prozessual.docx`](17_eingrenzung_aufrechnungslagen_prozessual.docx) | Prozessuale Aufrechnung § 322 Abs. 2 ZPO — Hilfsaufrechnung, Streitstand |
+| 18 | [`18_zeitwert_par818abs2_alternative.docx`](18_zeitwert_par818abs2_alternative.docx) | Bereicherungsrecht § 818 Abs. 2 BGB — Zeitwert, Subsidiärität |
+| 19 | [`19_streitwert_par3_zpo_uebung_punkte.docx`](19_streitwert_par3_zpo_uebung_punkte.docx) | Streitwert § 3 ZPO, GKG, Wandersleben-Bewertungsmaßstab |
+| 20 | [`20_korrekturlauf_redaktionelle_glaettung.docx`](20_korrekturlauf_redaktionelle_glaettung.docx) | Korrekturlauf v1 → v3, Stilfehler, Zitatkontrolle, Abgabe |
+| 21 | [`21_pruefer_erwartungen_wandersleben_zitierfreude.docx`](21_pruefer_erwartungen_wandersleben_zitierfreude.docx) | Prüfer-Erwartungen Wandersleben, Lieblingsstreitstände, Taktik |
+| 22 | [`22_abschluss_ergebnisuebersicht_punktevergabe.docx`](22_abschluss_ergebnisuebersicht_punktevergabe.docx) | Gesamtergebnis, Streitstandsmatrix, Selbstbewertung |
 
 ---
 

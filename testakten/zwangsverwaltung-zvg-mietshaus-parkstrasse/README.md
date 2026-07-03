@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 181 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 143 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-zvg-mietshaus-parkstrasse_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse-einzelpdfs.zip) |
 
@@ -71,21 +71,21 @@ Im Verlauf des Verfahrens (Mai 2026 – Februar 2027) wurden alle Notfallmaßnah
 
 | Datei | Inhalt |
 |---|---|
-| [01_bestellungsbeschluss_zvg.md](01_bestellungsbeschluss_zvg.md) | Anordnungsbeschluss des AG Leipzig vom 03.05.2026; Bestellung der Zwangsverwalterin; Forderungsübersicht; Treuhandkonto; Berichtspflichten |
-| [02_objektaufnahme.md](02_objektaufnahme.md) | Vollständige Bestandserfassung des Gebäudes nach Besitzübernahme; Zustandstabelle aller 12 Einheiten; Schlüsselliste; Versorgungsverträge; Wertschätzung |
-| [03_besitzuebergabe_protokoll.md](03_besitzuebergabe_protokoll.md) | Protokoll der Besitzübernahme 07.05.2026; Zählerstände; festgestellte Mängel; Sofortmaßnahmen; Mieterstatus zum Übernahmezeitpunkt |
+| [01_bestellungsbeschluss_zvg.docx](01_bestellungsbeschluss_zvg.docx) | Anordnungsbeschluss des AG Leipzig vom 03.05.2026; Bestellung der Zwangsverwalterin; Forderungsübersicht; Treuhandkonto; Berichtspflichten |
+| [02_objektaufnahme.docx](02_objektaufnahme.docx) | Vollständige Bestandserfassung des Gebäudes nach Besitzübernahme; Zustandstabelle aller 12 Einheiten; Schlüsselliste; Versorgungsverträge; Wertschätzung |
+| [03_besitzuebergabe_protokoll.docx](03_besitzuebergabe_protokoll.docx) | Protokoll der Besitzübernahme 07.05.2026; Zählerstände; festgestellte Mängel; Sofortmaßnahmen; Mieterstatus zum Übernahmezeitpunkt |
 | [04_mieterliste_rent_roll.csv](04_mieterliste_rent_roll.csv) | Vollständige Mieterliste aller 12 Einheiten mit Kaltmiete, Nebenkosten, Kaution, Rückständen und Status |
 | [05_mietrueckstaende.csv](05_mietrueckstaende.csv) | Chronologische Rückstandserfassung pro Einheit (Mai 2026 – Dezember 2026) mit Kumulierung und Notizen |
-| [06_versicherungen_lasten.md](06_versicherungen_lasten.md) | Gebäudeversicherung (Police, Rückstand, Sofortausgleich); öffentliche Lasten (Grundsteuer, Abfall, Schornstein); monatliche Lastenprognose |
-| [07_instandhaltung_notfall.md](07_instandhaltung_notfall.md) | Übersicht aller 10 Instandhaltungsmaßnahmen M01–M10; Notfallmaßnahmen Dachrinne und Keller mit Belegen; Genehmigungsanträge; Kostenübersicht |
-| [08_betriebskosten_hausgeld.md](08_betriebskosten_hausgeld.md) | Vollständige Betriebskostentabelle nach § 2 BetrKV; NK-Vorauszahlungen je Einheit; Prognose Jahresabrechnung 2026; Hinweis BK-Abrechnung 2025 |
+| [06_versicherungen_lasten.docx](06_versicherungen_lasten.docx) | Gebäudeversicherung (Police, Rückstand, Sofortausgleich); öffentliche Lasten (Grundsteuer, Abfall, Schornstein); monatliche Lastenprognose |
+| [07_instandhaltung_notfall.docx](07_instandhaltung_notfall.docx) | Übersicht aller 10 Instandhaltungsmaßnahmen M01–M10; Notfallmaßnahmen Dachrinne und Keller mit Belegen; Genehmigungsanträge; Kostenübersicht |
+| [08_betriebskosten_hausgeld.docx](08_betriebskosten_hausgeld.docx) | Vollständige Betriebskostentabelle nach § 2 BetrKV; NK-Vorauszahlungen je Einheit; Prognose Jahresabrechnung 2026; Hinweis BK-Abrechnung 2025 |
 | [09_konto_kassenbuch.csv](09_konto_kassenbuch.csv) | Vollständiges Treuhandkonto-Kassenbuch (07.05.2026 – 01.03.2027); alle Einnahmen, Ausgaben, Auskehrungen; laufender Saldo |
-| [10_monatsbericht_gericht.md](10_monatsbericht_gericht.md) | Monatsbericht Mai 2026 an das Vollstreckungsgericht; Einnahmen-Ausgaben-Rechnung; Rückstandsliste; Genehmigungsantrag; Vorschussauffüllung |
-| [11_verteilungsplan_entwurf.md](11_verteilungsplan_entwurf.md) | Verteilungsplan zum 30.09.2026; Einnahmen- und Ausgaben-Gesamtrechnung; Rücklagenplanung; Gläubigerrangfolge nach § 10 ZVG; Auskehrungsantrag |
-| [12_glaeubigerkommunikation.md](12_glaeubigerkommunikation.md) | Vollständige Korrespondenz mit der Sachsen Kreditbank AG (Mai–Oktober 2026); Rechtslage Auskehrungsvorrang; Auskehrungsübersicht |
-| [13_schuldnerwiderspruch.md](13_schuldnerwiderspruch.md) | Schuldner Feldmanns Behauptung von Vorausverfügungen (§ 1124 BGB); rechtliche Bewertung; Schriftverkehr mit RA Dr. Krahl; Vergleich Bäckerei Kranz |
-| [14_insolvenz_schnittstelle.md](14_insolvenz_schnittstelle.md) | Ankündigung Insolvenzantrag durch Schuldner (20.06.2026); Rechtslage Insolvenz vs. Zwangsverwaltung; Monitoring; Vorsorgeplan; Ergebnis: kein Antrag gestellt |
-| [15_schlussrechnung.md](15_schlussrechnung.md) | Vollständige Schlussrechnung 07.05.2026 – 28.02.2027; Gesamteinnahmen und -ausgaben; Vergütungsabrechnung; Kautionsspiegel; Schlussauskehr; Entlastungsantrag |
+| [10_monatsbericht_gericht.docx](10_monatsbericht_gericht.docx) | Monatsbericht Mai 2026 an das Vollstreckungsgericht; Einnahmen-Ausgaben-Rechnung; Rückstandsliste; Genehmigungsantrag; Vorschussauffüllung |
+| [11_verteilungsplan_entwurf.docx](11_verteilungsplan_entwurf.docx) | Verteilungsplan zum 30.09.2026; Einnahmen- und Ausgaben-Gesamtrechnung; Rücklagenplanung; Gläubigerrangfolge nach § 10 ZVG; Auskehrungsantrag |
+| [12_glaeubigerkommunikation.docx](12_glaeubigerkommunikation.docx) | Vollständige Korrespondenz mit der Sachsen Kreditbank AG (Mai–Oktober 2026); Rechtslage Auskehrungsvorrang; Auskehrungsübersicht |
+| [13_schuldnerwiderspruch.docx](13_schuldnerwiderspruch.docx) | Schuldner Feldmanns Behauptung von Vorausverfügungen (§ 1124 BGB); rechtliche Bewertung; Schriftverkehr mit RA Dr. Krahl; Vergleich Bäckerei Kranz |
+| [14_insolvenz_schnittstelle.docx](14_insolvenz_schnittstelle.docx) | Ankündigung Insolvenzantrag durch Schuldner (20.06.2026); Rechtslage Insolvenz vs. Zwangsverwaltung; Monitoring; Vorsorgeplan; Ergebnis: kein Antrag gestellt |
+| [15_schlussrechnung.docx](15_schlussrechnung.docx) | Vollständige Schlussrechnung 07.05.2026 – 28.02.2027; Gesamteinnahmen und -ausgaben; Vergütungsabrechnung; Kautionsspiegel; Schlussauskehr; Entlastungsantrag |
 | [mieterinformation.docx](mieterinformation.docx) | Formelles Anschreiben an alle Mieter über Anordnung der Zwangsverwaltung und Treuhandkonto |
 | [quartalsbericht_q2_2026.docx](quartalsbericht_q2_2026.docx) | Quartalsbericht Q2/2026 (Apr–Jun 2026) an das Vollstreckungsgericht |
 | [genehmigungsantrag_instandhaltung.docx](genehmigungsantrag_instandhaltung.docx) | Antrag an das AG Leipzig auf Genehmigung der Instandhaltungsmaßnahmen M04–M06 |

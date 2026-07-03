@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 26 KB) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 27 KB) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip) |
 
@@ -24,17 +24,17 @@ Enthalten sind Rentenauskunft, Versicherungsverlauf, Arbeitgebernachweise, Pfleg
 
 ```
 rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg/
-├── 01_mandatsnotiz_rentenbeginn.md        # Person, gewünschter Rentenbeginn, streitige Zeiten, Ziel
-├── 02_drv_auskunft_wartezeit.md           # DRV-Auskunft: 406 von 420 Wartezeitmonaten, Nachweisbitte
-├── 03_versicherungsverlauf_luecken.md     # Verlauf mit markierten Lücken und Randbemerkungen
-├── 04_gdb_bescheid_auszug.md              # Feststellungsbescheid GdB 50 mit Nachprüfungsvermerk
-├── 05_arbeitgebernachweise_werft.md       # Arbeitszeugnis, Lohnsteuerkarten und AOK-Karteikarte
-├── 06_pflegezeiten_mutter.md              # Pflege der Mutter 2012 bis 2014 und Meldelücke
+├── 01_mandatsnotiz_rentenbeginn.docx        # Person, gewünschter Rentenbeginn, streitige Zeiten, Ziel
+├── 02_drv_auskunft_wartezeit.docx           # DRV-Auskunft: 406 von 420 Wartezeitmonaten, Nachweisbitte
+├── 03_versicherungsverlauf_luecken.docx     # Verlauf mit markierten Lücken und Randbemerkungen
+├── 04_gdb_bescheid_auszug.docx              # Feststellungsbescheid GdB 50 mit Nachprüfungsvermerk
+├── 05_arbeitgebernachweise_werft.docx       # Arbeitszeugnis, Lohnsteuerkarten und AOK-Karteikarte
+├── 06_pflegezeiten_mutter.docx              # Pflege der Mutter 2012 bis 2014 und Meldelücke
 ├── 07_berechnungsmatrix_wartezeit.csv     # Streitige Zeiträume, Monate, Nachweise, Erfolgschance
-├── 08_widerspruch_und_kontenklaerung.md   # Kontenklärungsantrag und vorsorglicher Widerspruch
-├── 09_mandantenbrief_unterlagenliste.md   # Mandantenbrief mit Unterlagenliste und Fahrplan
+├── 08_widerspruch_und_kontenklaerung.docx   # Kontenklärungsantrag und vorsorglicher Widerspruch
+├── 09_mandantenbrief_unterlagenliste.docx   # Mandantenbrief mit Unterlagenliste und Fahrplan
 ├── 10_rentenbeginn_varianten.csv          # Varianten des Rentenbeginns mit Risiken
-├── 11_pflegekassenbescheid_2013.md        # Pflegekassenbescheid zur Pflegeperson mit 17 Wochenstunden
+├── 11_pflegekassenbescheid_2013.docx        # Pflegekassenbescheid zur Pflegeperson mit 17 Wochenstunden
 ├── README.md                              # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                            # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                            # Prüfkriterien für die Bearbeitung

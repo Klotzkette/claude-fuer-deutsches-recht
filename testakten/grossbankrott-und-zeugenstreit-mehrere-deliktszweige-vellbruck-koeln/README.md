@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 219 KB) | PDF | [`gesamt-pdf/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln_gesamt.pdf`](gesamt-pdf/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 206 KB) | PDF | [`gesamt-pdf/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln_gesamt.pdf`](gesamt-pdf/grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grossbankrott-und-zeugenstreit-mehrere-deliktszweige-vellbruck-koeln-einzelpdfs.zip) |
 
@@ -78,32 +78,32 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Lese-Reihenfolge, Fristen-Kalender, Verfahrensstand |
-| 01 | [`01_mandatsnotiz_erstgespraech.md`](01_mandatsnotiz_erstgespraech.md) | Erstgespräch 13.05.2026 JVA Koeln-Ossendorf — Mandantenangaben, Strategie |
-| 02 | [`02_haftbefehl_ag_koeln_12_05_2026.md`](02_haftbefehl_ag_koeln_12_05_2026.md) | Haftbefehl AG Koeln (502 Gs 4881/26) vom 12.05.2026 |
-| 03 | [`03_durchsuchungsbeschluss_und_protokoll.md`](03_durchsuchungsbeschluss_und_protokoll.md) | Durchsuchungsbeschluss vom 12.05.2026 + Durchsuchungsprotokoll Pellbach-Privat / Geschäftsräume |
-| 04 | [`04_anklageschrift_entwurf.md`](04_anklageschrift_entwurf.md) | Anklageschrift-Entwurf StA Koeln (Stand 27.05.2026, noch nicht eröffnet, Vor-Eröffnung) |
-| 05 | [`05_verteidiger_aktenuebersicht.md`](05_verteidiger_aktenuebersicht.md) | Verteidiger-interne Aktenübersicht, Bänder I bis IX |
-| 06 | [`06_aktenauszug_zeugenvernehmung_quasthoff_01.md`](06_aktenauszug_zeugenvernehmung_quasthoff_01.md) | Aktenauszug 1. Vernehmung Mira Quasthoff, KPI Koeln, 18.03.2026 |
-| 07 | [`07_aktenauszug_zeugenvernehmung_quasthoff_02.md`](07_aktenauszug_zeugenvernehmung_quasthoff_02.md) | Aktenauszug 2. Vernehmung Mira Quasthoff, StA Koeln, 14.04.2026 (mit Inkonsistenzen) |
-| 08 | [`08_aussagepsychologische_analyse_quasthoff_entwurf.md`](08_aussagepsychologische_analyse_quasthoff_entwurf.md) | Aussagepsychologische Vor-Analyse Quasthoff (intern Verteidigung) |
-| 09 | [`09_haftpruefungsantrag_und_haftbeschwerde.md`](09_haftpruefungsantrag_und_haftbeschwerde.md) | Haftprüfungsantrag § 117 StPO + Haftbeschwerde § 304 StPO |
-| 10 | [`10_schutzschrift_entwurf.md`](10_schutzschrift_entwurf.md) | Schutzschrift-Entwurf vor Eröffnungsbeschluss (intern) |
-| 11 | [`11_buchhaltung_jahresabschluss_2024.md`](11_buchhaltung_jahresabschluss_2024.md) | Auszug Jahresabschluss 2024 (Bilanz, GuV-Kerngroessen, Sanierungs-LFR) |
-| 12 | [`12_betriebspruefung_finanzamt_koeln_notiz.md`](12_betriebspruefung_finanzamt_koeln_notiz.md) | Notiz Betriebspruefung Finanzamt Koeln Mitte, Prüfungsergebnis 02/2026 |
-| 13 | [`13_insolvenzantrag_und_eroeffnungsbeschluss.md`](13_insolvenzantrag_und_eroeffnungsbeschluss.md) | Insolvenzantrag 09.03.2025 (Eigenantrag) + Eröffnungsbeschluss AG Koeln 17.04.2025 |
-| 14 | [`14_kfw_coronahilfe_antrag_und_bescheid.md`](14_kfw_coronahilfe_antrag_und_bescheid.md) | KfW-Coronahilfeantrag 11/2022 + Bescheid 12/2022 (Subventionsbetrug-Komplex) |
-| 15 | [`15_email_konvolut_buchhalterin_quasthoff.md`](15_email_konvolut_buchhalterin_quasthoff.md) | E-Mail-Konvolut Pellbach <-> Quasthoff, 10/2024 bis 02/2025 — Spesen-Komplex |
-| 16 | [`16_chat_export_pellbach_und_gattin.md`](16_chat_export_pellbach_und_gattin.md) | Chat-Export (Signal) Pellbach <-> Ehefrau Frieda, 12/2024 bis 03/2025 |
-| 17 | [`17_betriebsrat_mahnschreiben_loehne.md`](17_betriebsrat_mahnschreiben_loehne.md) | Mahnschreiben Betriebsrat (Löhne Q4/2024 + Q1/2025) |
-| 18 | [`18_kontobewegungen_wroclaw_2024_2025.md`](18_kontobewegungen_wroclaw_2024_2025.md) | Beschreibung Kontobewegungen Wroclaw-Tochter 2024-2025 |
-| 19 | [`19_kriminologie_rueckfallprognose_pellbach_notiz.md`](19_kriminologie_rueckfallprognose_pellbach_notiz.md) | Interne Notiz Verteidigung — kriminologische Rückfallprognose |
-| 20 | [`20_pflichtverteidiger_beiordnung_140_141_stpo.md`](20_pflichtverteidiger_beiordnung_140_141_stpo.md) | Antrag auf Pflichtverteidiger-Beiordnung §§ 140, 141 StPO |
-| 21 | [`21_verstaendigungsversuch-257c-stpo-protokoll.md`](21_verstaendigungsversuch-257c-stpo-protokoll.md) | Protokoll Verständigungsversuch § 257c StPO |
-| 22 | [`22_hilfsbeweisantrag_aussagepsy_gutachten.md`](22_hilfsbeweisantrag_aussagepsy_gutachten.md) | Hilfsbeweisantrag § 244 III StPO — aussagepsychologisches SV-Gutachten Quasthoff |
-| 23 | [`23_einlassung_entwurf_pellbach.md`](23_einlassung_entwurf_pellbach.md) | Einlassungs-Entwurf Pellbach (intern) |
-| 24 | [`24_strafzumessungserwaegungen_46_stgb.md`](24_strafzumessungserwaegungen_46_stgb.md) | Strafzumessungserwaegungen § 46 StGB |
-| 25 | [`25_plaedoyer_entwurf_freispruch_einzelpunkte.md`](25_plaedoyer_entwurf_freispruch_einzelpunkte.md) | Plädoyer-Entwurf — Freispruchsantrag für Einzelpunkte |
-| 26 | [`26_pressestrategie_mandantenmitteilung.md`](26_pressestrategie_mandantenmitteilung.md) | Pressestrategie / Mandantenmitteilung |
+| 01 | [`01_mandatsnotiz_erstgespraech.docx`](01_mandatsnotiz_erstgespraech.docx) | Erstgespräch 13.05.2026 JVA Koeln-Ossendorf — Mandantenangaben, Strategie |
+| 02 | [`02_haftbefehl_ag_koeln_12_05_2026.docx`](02_haftbefehl_ag_koeln_12_05_2026.docx) | Haftbefehl AG Koeln (502 Gs 4881/26) vom 12.05.2026 |
+| 03 | [`03_durchsuchungsbeschluss_und_protokoll.docx`](03_durchsuchungsbeschluss_und_protokoll.docx) | Durchsuchungsbeschluss vom 12.05.2026 + Durchsuchungsprotokoll Pellbach-Privat / Geschäftsräume |
+| 04 | [`04_anklageschrift_entwurf.docx`](04_anklageschrift_entwurf.docx) | Anklageschrift-Entwurf StA Koeln (Stand 27.05.2026, noch nicht eröffnet, Vor-Eröffnung) |
+| 05 | [`05_verteidiger_aktenuebersicht.docx`](05_verteidiger_aktenuebersicht.docx) | Verteidiger-interne Aktenübersicht, Bänder I bis IX |
+| 06 | [`06_aktenauszug_zeugenvernehmung_quasthoff_01.docx`](06_aktenauszug_zeugenvernehmung_quasthoff_01.docx) | Aktenauszug 1. Vernehmung Mira Quasthoff, KPI Koeln, 18.03.2026 |
+| 07 | [`07_aktenauszug_zeugenvernehmung_quasthoff_02.docx`](07_aktenauszug_zeugenvernehmung_quasthoff_02.docx) | Aktenauszug 2. Vernehmung Mira Quasthoff, StA Koeln, 14.04.2026 (mit Inkonsistenzen) |
+| 08 | [`08_aussagepsychologische_analyse_quasthoff_entwurf.docx`](08_aussagepsychologische_analyse_quasthoff_entwurf.docx) | Aussagepsychologische Vor-Analyse Quasthoff (intern Verteidigung) |
+| 09 | [`09_haftpruefungsantrag_und_haftbeschwerde.docx`](09_haftpruefungsantrag_und_haftbeschwerde.docx) | Haftprüfungsantrag § 117 StPO + Haftbeschwerde § 304 StPO |
+| 10 | [`10_schutzschrift_entwurf.docx`](10_schutzschrift_entwurf.docx) | Schutzschrift-Entwurf vor Eröffnungsbeschluss (intern) |
+| 11 | [`11_buchhaltung_jahresabschluss_2024.docx`](11_buchhaltung_jahresabschluss_2024.docx) | Auszug Jahresabschluss 2024 (Bilanz, GuV-Kerngroessen, Sanierungs-LFR) |
+| 12 | [`12_betriebspruefung_finanzamt_koeln_notiz.docx`](12_betriebspruefung_finanzamt_koeln_notiz.docx) | Notiz Betriebspruefung Finanzamt Koeln Mitte, Prüfungsergebnis 02/2026 |
+| 13 | [`13_insolvenzantrag_und_eroeffnungsbeschluss.docx`](13_insolvenzantrag_und_eroeffnungsbeschluss.docx) | Insolvenzantrag 09.03.2025 (Eigenantrag) + Eröffnungsbeschluss AG Koeln 17.04.2025 |
+| 14 | [`14_kfw_coronahilfe_antrag_und_bescheid.docx`](14_kfw_coronahilfe_antrag_und_bescheid.docx) | KfW-Coronahilfeantrag 11/2022 + Bescheid 12/2022 (Subventionsbetrug-Komplex) |
+| 15 | [`15_email_konvolut_buchhalterin_quasthoff.docx`](15_email_konvolut_buchhalterin_quasthoff.docx) | E-Mail-Konvolut Pellbach <-> Quasthoff, 10/2024 bis 02/2025 — Spesen-Komplex |
+| 16 | [`16_chat_export_pellbach_und_gattin.docx`](16_chat_export_pellbach_und_gattin.docx) | Chat-Export (Signal) Pellbach <-> Ehefrau Frieda, 12/2024 bis 03/2025 |
+| 17 | [`17_betriebsrat_mahnschreiben_loehne.docx`](17_betriebsrat_mahnschreiben_loehne.docx) | Mahnschreiben Betriebsrat (Löhne Q4/2024 + Q1/2025) |
+| 18 | [`18_kontobewegungen_wroclaw_2024_2025.docx`](18_kontobewegungen_wroclaw_2024_2025.docx) | Beschreibung Kontobewegungen Wroclaw-Tochter 2024-2025 |
+| 19 | [`19_kriminologie_rueckfallprognose_pellbach_notiz.docx`](19_kriminologie_rueckfallprognose_pellbach_notiz.docx) | Interne Notiz Verteidigung — kriminologische Rückfallprognose |
+| 20 | [`20_pflichtverteidiger_beiordnung_140_141_stpo.docx`](20_pflichtverteidiger_beiordnung_140_141_stpo.docx) | Antrag auf Pflichtverteidiger-Beiordnung §§ 140, 141 StPO |
+| 21 | [`21_verstaendigungsversuch-257c-stpo-protokoll.docx`](21_verstaendigungsversuch-257c-stpo-protokoll.docx) | Protokoll Verständigungsversuch § 257c StPO |
+| 22 | [`22_hilfsbeweisantrag_aussagepsy_gutachten.docx`](22_hilfsbeweisantrag_aussagepsy_gutachten.docx) | Hilfsbeweisantrag § 244 III StPO — aussagepsychologisches SV-Gutachten Quasthoff |
+| 23 | [`23_einlassung_entwurf_pellbach.docx`](23_einlassung_entwurf_pellbach.docx) | Einlassungs-Entwurf Pellbach (intern) |
+| 24 | [`24_strafzumessungserwaegungen_46_stgb.docx`](24_strafzumessungserwaegungen_46_stgb.docx) | Strafzumessungserwaegungen § 46 StGB |
+| 25 | [`25_plaedoyer_entwurf_freispruch_einzelpunkte.docx`](25_plaedoyer_entwurf_freispruch_einzelpunkte.docx) | Plädoyer-Entwurf — Freispruchsantrag für Einzelpunkte |
+| 26 | [`26_pressestrategie_mandantenmitteilung.docx`](26_pressestrategie_mandantenmitteilung.docx) | Pressestrategie / Mandantenmitteilung |
 
 ---
 
@@ -131,8 +131,8 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 
 | Datei | Inhalt |
 |---|---|
-| [`bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md`](bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md) | Sicherstellung Privatschreibtisch Pellbach |
-| [`bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md`](bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md) | Lagerhalle Bottrop, Inventar-Diskrepanz, Edelweiss-Schild |
+| [`bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md`](bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.docx) | Sicherstellung Privatschreibtisch Pellbach |
+| [`bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md`](bilder/beweismittel_002_lagerhalle_bottrop_metadaten.docx) | Lagerhalle Bottrop, Inventar-Diskrepanz, Edelweiss-Schild |
 
 ---
 
@@ -198,12 +198,12 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 Empfohlene Lese-Reihenfolge für Verteidiger / Prüfer:
 
 1. `00_aktenuebersicht.md` (Fristen, Personen, Stand)
-2. `01_mandatsnotiz_erstgespraech.md` (Mandantenangaben)
-3. `02_haftbefehl_ag_koeln_12_05_2026.md` (Vorwurfsbeschreibung amtlich)
-4. `04_anklageschrift_entwurf.md` (vollständige Vorwürfe)
-5. `06_aktenauszug_zeugenvernehmung_quasthoff_01.md` und `07_aktenauszug_zeugenvernehmung_quasthoff_02.md` (Belastungsbasis)
-6. `08_aussagepsychologische_analyse_quasthoff_entwurf.md` (Verteidigeranalyse)
-7. `09_haftpruefungsantrag_und_haftbeschwerde.md` (laufende Sache)
-8. `10_schutzschrift_entwurf.md` (Gesamtgegenwehr)
-9. `22_hilfsbeweisantrag_aussagepsy_gutachten.md`
-10. `25_plaedoyer_entwurf_freispruch_einzelpunkte.md`
+2. `01_mandatsnotiz_erstgespraech.docx` (Mandantenangaben)
+3. `02_haftbefehl_ag_koeln_12_05_2026.docx` (Vorwurfsbeschreibung amtlich)
+4. `04_anklageschrift_entwurf.docx` (vollständige Vorwürfe)
+5. `06_aktenauszug_zeugenvernehmung_quasthoff_01.docx` und `07_aktenauszug_zeugenvernehmung_quasthoff_02.docx` (Belastungsbasis)
+6. `08_aussagepsychologische_analyse_quasthoff_entwurf.docx` (Verteidigeranalyse)
+7. `09_haftpruefungsantrag_und_haftbeschwerde.docx` (laufende Sache)
+8. `10_schutzschrift_entwurf.docx` (Gesamtgegenwehr)
+9. `22_hilfsbeweisantrag_aussagepsy_gutachten.docx`
+10. `25_plaedoyer_entwurf_freispruch_einzelpunkte.docx`

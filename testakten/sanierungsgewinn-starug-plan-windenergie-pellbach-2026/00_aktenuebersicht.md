@@ -6,20 +6,20 @@ Diese Akte umfasst 16 Aktenstücke zur Sanierungssteuerproblematik der Pellbach 
 
 | Reihenfolge | Aktenstück | Zweck |
 |---|---|---|
-| 1 | 01_mandatsnotiz_geschaeftsfuehrer_pellbach.md | Erstkontakt, Sachverhalt, steuerliche Problemlage |
-| 2 | 02_starug-anzeige_31_starug_ag_cottbus.md | Verfahrenseintritt |
-| 3 | 03_restrukturierungsplan_4_ff_starug_eckpunkte.md | Plan-Eckpunkte und Gruppen |
-| 4 | 04_banken-konsortium_verzichts-und-des-vereinbarung.md | Quelle des Sanierungsertrags und DES |
-| 5 | 05_sanierungsertragsberechnung_22mio_plus_des.md | Rechnerische Herleitung 22 Mio + DES |
-| 6 | 06_8c_kstg_risiko_und_8d_kstg_antrag.md | Anteilsübertragung > 25 % — § 8d KStG-Antrag |
-| 7 | 07_3a_iii_estg_verrechnung_und_sanierungsertrag_pruefung.md | Verrechnungsmatrix |
-| 8 | 08_3a_iv_estg_antrag_finanzamt_cottbus.md | Antrag § 3a IV |
-| 9 | 09_7b_gewstg_parallelantrag.md | Parallel GewSt |
-| 10 | 10_verbindliche_auskunft_89_ao_vor_planbestaetigung.md | Antrag verbindliche Auskunft |
-| 11 | 11_fg_koeln_12k1413_25_und_starug_planbestaetigung.md | Antragsstellung StaRUG vs. Insolvenzplan |
-| 12 | 12_rb_haftung_und_sachwalter_aufgaben.md | RB-Haftung, Sachwalter-Aufgaben |
-| 13 | 13_szenario_starug_plan_mit_vs_ohne_des.md | Vergleichsrechnung |
-| 14 | 14_mandantenbrief_pellbach_glasklar_steuern.md | Abschlussbrief an Mandantin |
+| 1 | 01_mandatsnotiz_geschaeftsfuehrer_pellbach.docx | Erstkontakt, Sachverhalt, steuerliche Problemlage |
+| 2 | 02_starug-anzeige_31_starug_ag_cottbus.docx | Verfahrenseintritt |
+| 3 | 03_restrukturierungsplan_4_ff_starug_eckpunkte.docx | Plan-Eckpunkte und Gruppen |
+| 4 | 04_banken-konsortium_verzichts-und-des-vereinbarung.docx | Quelle des Sanierungsertrags und DES |
+| 5 | 05_sanierungsertragsberechnung_22mio_plus_des.docx | Rechnerische Herleitung 22 Mio + DES |
+| 6 | 06_8c_kstg_risiko_und_8d_kstg_antrag.docx | Anteilsübertragung > 25 % — § 8d KStG-Antrag |
+| 7 | 07_3a_iii_estg_verrechnung_und_sanierungsertrag_pruefung.docx | Verrechnungsmatrix |
+| 8 | 08_3a_iv_estg_antrag_finanzamt_cottbus.docx | Antrag § 3a IV |
+| 9 | 09_7b_gewstg_parallelantrag.docx | Parallel GewSt |
+| 10 | 10_verbindliche_auskunft_89_ao_vor_planbestaetigung.docx | Antrag verbindliche Auskunft |
+| 11 | 11_fg_koeln_12k1413_25_und_starug_planbestaetigung.docx | Antragsstellung StaRUG vs. Insolvenzplan |
+| 12 | 12_rb_haftung_und_sachwalter_aufgaben.docx | RB-Haftung, Sachwalter-Aufgaben |
+| 13 | 13_szenario_starug_plan_mit_vs_ohne_des.docx | Vergleichsrechnung |
+| 14 | 14_mandantenbrief_pellbach_glasklar_steuern.docx | Abschlussbrief an Mandantin |
 | 15 | 15_finanzplan_und_liquiditaetsmatrix_2026.csv | Liquidität 2026 |
 | 16 | 16_glaeubigerverzeichnis_starug.csv | Banken-Konsortium und Gläubiger |
 

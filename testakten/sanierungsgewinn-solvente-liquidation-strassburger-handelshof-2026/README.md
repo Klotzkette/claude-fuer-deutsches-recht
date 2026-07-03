@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 162 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 151 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026-einzelpdfs.zip) |
 
@@ -80,26 +80,26 @@ Hinzu kommt auf Gesellschafterebene: Auflösungsverlust nach § 17 Abs. 4 EStG, 
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Aktenübersicht, Beteiligte, Chronologie |
-| 01 | [`01_mandatsnotiz_strassburger-wittenburg.md`](01_mandatsnotiz_strassburger-wittenburg.md) | Mandatsnotiz Erstgespräch Frau Strassburger-Wittenburg |
-| 02 | [`02_gesellschafterbeschluss_aufloesung_15_04_2026.md`](02_gesellschafterbeschluss_aufloesung_15_04_2026.md) | Gesellschafterbeschluss Auflösung § 60 GmbHG |
-| 03 | [`03_bekanntmachung_aufloesung_und_glaeubigeraufruf.md`](03_bekanntmachung_aufloesung_und_glaeubigeraufruf.md) | Bekanntmachung im Unternehmensregister, Gläubigeraufruf § 65 GmbHG |
-| 04 | [`04_liquidationsbilanz_zum_15_04_2026.md`](04_liquidationsbilanz_zum_15_04_2026.md) | Liquidations-Eröffnungsbilanz |
-| 05 | [`05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.md`](05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.md) | Darlehensvertrag und qualifizierter Rangrücktritt |
-| 06 | [`06_5_abs_2a_estg_passivierungsverbot_pruefung.md`](06_5_abs_2a_estg_passivierungsverbot_pruefung.md) | Pruefung § 5 Abs. 2a EStG (Passivierungsverbot) |
-| 07 | [`07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.md`](07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.md) | Memo zu BFH II R 19/01 und OFD Frankfurt |
-| 08 | [`08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.md`](08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.md) | Szenario A — Passivierung bis zur Löschung |
-| 09 | [`09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.md`](09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.md) | Szenario B — Ausbuchung in Liquidationsbilanz |
-| 10 | [`10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.md`](10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.md) | Szenario C — Freiwilliger Verzicht |
-| 11 | [`11_3a_estg_pruefung_bei_solventer_liquidation.md`](11_3a_estg_pruefung_bei_solventer_liquidation.md) | § 3a EStG — Voraussetzungen bei solventer Liquidation |
-| 12 | [`12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.md`](12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.md) | § 3a Abs. 3 EStG Verrechnungsreihenfolge |
-| 13 | [`13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.md`](13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.md) | Korrespondenz FA Berlin-Charlottenburg, Antrag verbindliche Auskunft § 89 Abs. 2 AO |
-| 14 | [`14_17_estg_aufloesungsverlust_gesellschafterin.md`](14_17_estg_aufloesungsverlust_gesellschafterin.md) | § 17 EStG Auflösungsverlust Gesellschafterin |
-| 15 | [`15_loeschung_im_handelsregister_und_steuersubjekt_erloeschen.md`](15_loeschung_im_handelsregister_und_steuersubjekt_erloeschen.md) | Löschung HR § 74 GmbHG und Erlöschen Steuersubjekt |
-| 16 | [`16_fg_koeln_13k3006-11_liquidation_und_steuerausfall.md`](16_fg_koeln_13k3006-11_liquidation_und_steuerausfall.md) | Verifizierte FG-Koeln-Linie: Urteil v. 06.03.2012 — 13 K 3006/11 |
+| 01 | [`01_mandatsnotiz_strassburger-wittenburg.docx`](01_mandatsnotiz_strassburger-wittenburg.docx) | Mandatsnotiz Erstgespräch Frau Strassburger-Wittenburg |
+| 02 | [`02_gesellschafterbeschluss_aufloesung_15_04_2026.docx`](02_gesellschafterbeschluss_aufloesung_15_04_2026.docx) | Gesellschafterbeschluss Auflösung § 60 GmbHG |
+| 03 | [`03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx`](03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx) | Bekanntmachung im Unternehmensregister, Gläubigeraufruf § 65 GmbHG |
+| 04 | [`04_liquidationsbilanz_zum_15_04_2026.docx`](04_liquidationsbilanz_zum_15_04_2026.docx) | Liquidations-Eröffnungsbilanz |
+| 05 | [`05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.docx`](05_nachrangiges_darlehen_und_rangruecktritts-vereinbarung.docx) | Darlehensvertrag und qualifizierter Rangrücktritt |
+| 06 | [`06_5_abs_2a_estg_passivierungsverbot_pruefung.docx`](06_5_abs_2a_estg_passivierungsverbot_pruefung.docx) | Pruefung § 5 Abs. 2a EStG (Passivierungsverbot) |
+| 07 | [`07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.docx`](07_bfh_ii_r_19-01_und_ofd_frankfurt_memo.docx) | Memo zu BFH II R 19/01 und OFD Frankfurt |
+| 08 | [`08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.docx`](08_szenario_a_darlehen_bleibt_passiviert_bis_loeschung.docx) | Szenario A — Passivierung bis zur Löschung |
+| 09 | [`09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.docx`](09_szenario_b_darlehen_ausgebucht_in_liquidationsbilanz.docx) | Szenario B — Ausbuchung in Liquidationsbilanz |
+| 10 | [`10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.docx`](10_szenario_c_freiwilliger_verzicht_durch_gesellschafterin.docx) | Szenario C — Freiwilliger Verzicht |
+| 11 | [`11_3a_estg_pruefung_bei_solventer_liquidation.docx`](11_3a_estg_pruefung_bei_solventer_liquidation.docx) | § 3a EStG — Voraussetzungen bei solventer Liquidation |
+| 12 | [`12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.docx`](12_3a_iii_estg_verrechnung_und_keine_verlustvortraege.docx) | § 3a Abs. 3 EStG Verrechnungsreihenfolge |
+| 13 | [`13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.docx`](13_finanzamt_charlottenburg_korrespondenz_und_verbindliche_auskunft.docx) | Korrespondenz FA Berlin-Charlottenburg, Antrag verbindliche Auskunft § 89 Abs. 2 AO |
+| 14 | [`14_17_estg_aufloesungsverlust_gesellschafterin.docx`](14_17_estg_aufloesungsverlust_gesellschafterin.docx) | § 17 EStG Auflösungsverlust Gesellschafterin |
+| 15 | [`15_loeschung_im_handelsregister_und_steuersubjekt_erloeschen.docx`](15_loeschung_im_handelsregister_und_steuersubjekt_erloeschen.docx) | Löschung HR § 74 GmbHG und Erlöschen Steuersubjekt |
+| 16 | [`16_fg_koeln_13k3006-11_liquidation_und_steuerausfall.docx`](16_fg_koeln_13k3006-11_liquidation_und_steuerausfall.docx) | Verifizierte FG-Koeln-Linie: Urteil v. 06.03.2012 — 13 K 3006/11 |
 | 17 | [`17_glaeubigerbefriedigung_lieferanten_fa_lohn.csv`](17_glaeubigerbefriedigung_lieferanten_fa_lohn.csv) | Gläubigerbefriedigung Lieferanten/Löhne/Steuern |
 | 18 | [`18_liquidationsbilanz_szenarien.csv`](18_liquidationsbilanz_szenarien.csv) | Drei Szenarien rechenbar |
-| 19 | [`19_mandantenbrief_strassburger_an_steuerberater.md`](19_mandantenbrief_strassburger_an_steuerberater.md) | Mandantenbrief der Mandantin an Steuerberater |
-| 20 | [`20_finalcheck_und_naechste_schritte.md`](20_finalcheck_und_naechste_schritte.md) | Finalcheck und nächste Schritte |
+| 19 | [`19_mandantenbrief_strassburger_an_steuerberater.docx`](19_mandantenbrief_strassburger_an_steuerberater.docx) | Mandantenbrief der Mandantin an Steuerberater |
+| 20 | [`20_finalcheck_und_naechste_schritte.docx`](20_finalcheck_und_naechste_schritte.docx) | Finalcheck und nächste Schritte |
 
 ---
 

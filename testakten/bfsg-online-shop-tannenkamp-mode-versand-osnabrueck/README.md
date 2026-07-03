@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 430 KB) | PDF | [`gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf`](gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 424 KB) | PDF | [`gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf`](gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck-einzelpdfs.zip) |
 
@@ -79,28 +79,28 @@ Festgestellte Mängel: fehlende Tastatur-Navigation (CSS `outline: none`), 2.317
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_bfsg_erstgespraech_tannenkamp.md`](01_mandatsannahme_bfsg_erstgespraech_tannenkamp.md) | Kanzleinotiz Erstgespräch 17.03.2026 |
-| 02 | [`02_beteiligte_verfahrenuebersicht.md`](02_beteiligte_verfahrenuebersicht.md) | Parteien, Behörden, Chronologie |
-| 03 | [`03_bfsg_anwendungsbereich_par1_par3_pruefung.md`](03_bfsg_anwendungsbereich_par1_par3_pruefung.md) | §§ 1, 3 BFSG Prüfung |
-| 04 | [`04_uebergangsregelung_par38_bfsg_altprodukte.md`](04_uebergangsregelung_par38_bfsg_altprodukte.md) | § 38 BFSG: Altdienst vs. Neudienst |
-| 05 | [`05_standardpruefung_bitv2_wcag21aa_en301549.md`](05_standardpruefung_bitv2_wcag21aa_en301549.md) | Normenhierarchie und Konformitätsvermutung |
-| 06 | [`06_wcag_konkret_tastaturnav_kontrast_alt_texte.md`](06_wcag_konkret_tastaturnav_kontrast_alt_texte.md) | Technische WCAG-Befunde: Audit-Ergebnisse |
-| 07 | [`07_aria_roles_screenreader_audit.md`](07_aria_roles_screenreader_audit.md) | ARIA-Mängel, Screenreader-Test NVDA/VoiceOver |
-| 08 | [`08_pdf_kataloge_par3abs3_ausnahmen.md`](08_pdf_kataloge_par3abs3_ausnahmen.md) | PDF/UA, Altprodukt-Ausnahme |
-| 09 | [`09_meldung_muni_marktueberwachung_verfahren.md`](09_meldung_muni_marktueberwachung_verfahren.md) | MüNI-Verfahren: Sanktionen, Strategie |
-| 10 | [`10_verbandsklage_vz_nrw_lg_hannover_18oh8_26.md`](10_verbandsklage_vz_nrw_lg_hannover_18oh8_26.md) | VRUG-Verbandsklage, Begründetheit |
-| 11 | [`11_erklaerung_zur_barrierefreiheit_par19.md`](11_erklaerung_zur_barrierefreiheit_par19.md) | § 19 BFSG-DV: Erklärungspflicht, Muster |
-| 12 | [`12_feedback_mechanismus_kontaktstelle.md`](12_feedback_mechanismus_kontaktstelle.md) | § 16 BFSG-DV: Feedback-Meldestelle |
-| 13 | [`13_outsourcing_regress_lavendelhaus_design.md`](13_outsourcing_regress_lavendelhaus_design.md) | Werkvertrag-Regress, Schadensquantifizierung |
-| 14 | [`14_eaa_eu_2019_882_richtlinienkonforme_auslegung.md`](14_eaa_eu_2019_882_richtlinienkonforme_auslegung.md) | EAA-Auslegung, Vollharmonisierung |
-| 15 | [`15_bussgeldverteidigung_par37_bfsg_strategie.md`](15_bussgeldverteidigung_par37_bfsg_strategie.md) | § 37 BFSG: Bußgeldbemessung, Szenarien |
-| 16 | [`16_remediation_roadmap_technik_redesign.md`](16_remediation_roadmap_technik_redesign.md) | Sanierungsplan Phase 1–3 |
-| 17 | [`17_selbstueberwachung_din_iso_30071_1.md`](17_selbstueberwachung_din_iso_30071_1.md) | DIN ISO 30071-1 Compliance-Management |
-| 18 | [`18_schulung_mitarbeiter_bfsg_dv.md`](18_schulung_mitarbeiter_bfsg_dv.md) | § 18 BFSG-DV: Schulungskonzept |
-| 19 | [`19_chronologie_marktueberwachung_einigung.md`](19_chronologie_marktueberwachung_einigung.md) | Zeitachse und Einigungsperspektive |
-| 20 | [`20_kostenkalkulation_compliance_invest.md`](20_kostenkalkulation_compliance_invest.md) | Gesamtkosten: Sanierung, Bußgeld, Rechtskosten |
-| 21 | [`21_verbandsklage_klageerwiderung_vorbereitung.md`](21_verbandsklage_klageerwiderung_vorbereitung.md) | Klageerwiderung LG Hannover: Entwurf |
-| 22 | [`22_abschluss_handlungsempfehlungen.md`](22_abschluss_handlungsempfehlungen.md) | Abschluss, Handlungsempfehlungen |
+| 01 | [`01_mandatsannahme_bfsg_erstgespraech_tannenkamp.docx`](01_mandatsannahme_bfsg_erstgespraech_tannenkamp.docx) | Kanzleinotiz Erstgespräch 17.03.2026 |
+| 02 | [`02_beteiligte_verfahrenuebersicht.docx`](02_beteiligte_verfahrenuebersicht.docx) | Parteien, Behörden, Chronologie |
+| 03 | [`03_bfsg_anwendungsbereich_par1_par3_pruefung.docx`](03_bfsg_anwendungsbereich_par1_par3_pruefung.docx) | §§ 1, 3 BFSG Prüfung |
+| 04 | [`04_uebergangsregelung_par38_bfsg_altprodukte.docx`](04_uebergangsregelung_par38_bfsg_altprodukte.docx) | § 38 BFSG: Altdienst vs. Neudienst |
+| 05 | [`05_standardpruefung_bitv2_wcag21aa_en301549.docx`](05_standardpruefung_bitv2_wcag21aa_en301549.docx) | Normenhierarchie und Konformitätsvermutung |
+| 06 | [`06_wcag_konkret_tastaturnav_kontrast_alt_texte.docx`](06_wcag_konkret_tastaturnav_kontrast_alt_texte.docx) | Technische WCAG-Befunde: Audit-Ergebnisse |
+| 07 | [`07_aria_roles_screenreader_audit.docx`](07_aria_roles_screenreader_audit.docx) | ARIA-Mängel, Screenreader-Test NVDA/VoiceOver |
+| 08 | [`08_pdf_kataloge_par3abs3_ausnahmen.docx`](08_pdf_kataloge_par3abs3_ausnahmen.docx) | PDF/UA, Altprodukt-Ausnahme |
+| 09 | [`09_meldung_muni_marktueberwachung_verfahren.docx`](09_meldung_muni_marktueberwachung_verfahren.docx) | MüNI-Verfahren: Sanktionen, Strategie |
+| 10 | [`10_verbandsklage_vz_nrw_lg_hannover_18oh8_26.docx`](10_verbandsklage_vz_nrw_lg_hannover_18oh8_26.docx) | VRUG-Verbandsklage, Begründetheit |
+| 11 | [`11_erklaerung_zur_barrierefreiheit_par19.docx`](11_erklaerung_zur_barrierefreiheit_par19.docx) | § 19 BFSG-DV: Erklärungspflicht, Muster |
+| 12 | [`12_feedback_mechanismus_kontaktstelle.docx`](12_feedback_mechanismus_kontaktstelle.docx) | § 16 BFSG-DV: Feedback-Meldestelle |
+| 13 | [`13_outsourcing_regress_lavendelhaus_design.docx`](13_outsourcing_regress_lavendelhaus_design.docx) | Werkvertrag-Regress, Schadensquantifizierung |
+| 14 | [`14_eaa_eu_2019_882_richtlinienkonforme_auslegung.docx`](14_eaa_eu_2019_882_richtlinienkonforme_auslegung.docx) | EAA-Auslegung, Vollharmonisierung |
+| 15 | [`15_bussgeldverteidigung_par37_bfsg_strategie.docx`](15_bussgeldverteidigung_par37_bfsg_strategie.docx) | § 37 BFSG: Bußgeldbemessung, Szenarien |
+| 16 | [`16_remediation_roadmap_technik_redesign.docx`](16_remediation_roadmap_technik_redesign.docx) | Sanierungsplan Phase 1–3 |
+| 17 | [`17_selbstueberwachung_din_iso_30071_1.docx`](17_selbstueberwachung_din_iso_30071_1.docx) | DIN ISO 30071-1 Compliance-Management |
+| 18 | [`18_schulung_mitarbeiter_bfsg_dv.docx`](18_schulung_mitarbeiter_bfsg_dv.docx) | § 18 BFSG-DV: Schulungskonzept |
+| 19 | [`19_chronologie_marktueberwachung_einigung.docx`](19_chronologie_marktueberwachung_einigung.docx) | Zeitachse und Einigungsperspektive |
+| 20 | [`20_kostenkalkulation_compliance_invest.docx`](20_kostenkalkulation_compliance_invest.docx) | Gesamtkosten: Sanierung, Bußgeld, Rechtskosten |
+| 21 | [`21_verbandsklage_klageerwiderung_vorbereitung.docx`](21_verbandsklage_klageerwiderung_vorbereitung.docx) | Klageerwiderung LG Hannover: Entwurf |
+| 22 | [`22_abschluss_handlungsempfehlungen.docx`](22_abschluss_handlungsempfehlungen.docx) | Abschluss, Handlungsempfehlungen |
 
 ---
 

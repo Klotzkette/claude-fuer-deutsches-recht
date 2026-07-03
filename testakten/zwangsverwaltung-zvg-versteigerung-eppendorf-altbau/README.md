@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 152 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 116 KB) | PDF | [`gesamt-pdf/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau_gesamt.pdf`](gesamt-pdf/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau-einzelpdfs.zip) |
 
@@ -76,31 +76,31 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 | Datei | Format | Inhalt |
 |-------|--------|--------|
-| [00_hinweis_anonymisierung.md](00_hinweis_anonymisierung.md) | MD | Fiktions- und Abgrenzungsvermerk, alle anonymisierten Stammdaten |
-| [01_zvg_portal_rechercheprotokoll.md](01_zvg_portal_rechercheprotokoll.md) | MD | Dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf mit Wiederholungsanweisung |
-| [02_terminsbekanntmachung.md](02_terminsbekanntmachung.md) | MD | Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
-| [03_grundbuchauszug_anonymisiert.md](03_grundbuchauszug_anonymisiert.md) | MD | Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
-| [04_verkehrswertgutachten_kurzfassung.md](04_verkehrswertgutachten_kurzfassung.md) | MD | Gutachten-Kurzfassung: Miettabellen, WEG, Abschläge, Ergebnis 685.000 EUR |
-| [05_mietvertrag_kurznotiz.md](05_mietvertrag_kurznotiz.md) | MD | Mietstruktur, besondere Abreden, Auffälligkeiten (Atelier Nordbogen) |
-| [06_bieterangebot_bewertung.md](06_bieterangebot_bewertung.md) | MD | Bewertung eines vorgerichtlichen Bieterangebots (515.000 EUR); Bietlimit 525.000 EUR |
-| [07_versteigerungsteilnahme_checkliste.md](07_versteigerungsteilnahme_checkliste.md) | MD | Termin-Checkliste: Sicherheitsleistung, Mitzunehmendes, Begriffe, harte Bietregel |
+| [00_hinweis_anonymisierung.docx](00_hinweis_anonymisierung.docx) | MD | Fiktions- und Abgrenzungsvermerk, alle anonymisierten Stammdaten |
+| [01_zvg_portal_rechercheprotokoll.docx](01_zvg_portal_rechercheprotokoll.docx) | MD | Dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf mit Wiederholungsanweisung |
+| [02_terminsbekanntmachung.docx](02_terminsbekanntmachung.docx) | MD | Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
+| [03_grundbuchauszug_anonymisiert.docx](03_grundbuchauszug_anonymisiert.docx) | MD | Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
+| [04_verkehrswertgutachten_kurzfassung.docx](04_verkehrswertgutachten_kurzfassung.docx) | MD | Gutachten-Kurzfassung: Miettabellen, WEG, Abschläge, Ergebnis 685.000 EUR |
+| [05_mietvertrag_kurznotiz.docx](05_mietvertrag_kurznotiz.docx) | MD | Mietstruktur, besondere Abreden, Auffälligkeiten (Atelier Nordbogen) |
+| [06_bieterangebot_bewertung.docx](06_bieterangebot_bewertung.docx) | MD | Bewertung eines vorgerichtlichen Bieterangebots (515.000 EUR); Bietlimit 525.000 EUR |
+| [07_versteigerungsteilnahme_checkliste.docx](07_versteigerungsteilnahme_checkliste.docx) | MD | Termin-Checkliste: Sicherheitsleistung, Mitzunehmendes, Begriffe, harte Bietregel |
 | [08_risikomatrix.csv](08_risikomatrix.csv) | CSV | Strukturierte Risikoübersicht (Wahrscheinlichkeit / Auswirkung) |
 | [09_bietlimit_rechenblatt.csv](09_bietlimit_rechenblatt.csv) | CSV | Einfache Bietlimit-Kalkulation (Verkehrswert minus Risikoabschläge) |
-| [10_quality_gate.md](10_quality_gate.md) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
-| [11_geringstes_gebot_berechnung.md](11_geringstes_gebot_berechnung.md) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
+| [10_quality_gate.docx](10_quality_gate.docx) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
+| [11_geringstes_gebot_berechnung.docx](11_geringstes_gebot_berechnung.docx) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
 | [12_verkehrswertgutachten_vollständig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
-| [12_verkehrswertgutachten_vollständig.md](12_verkehrswertgutachten_vollstaendig.md) | MD | Markdown-Vorschau des Gutachtens |
+| [12_verkehrswertgutachten_vollständig.md](12_verkehrswertgutachten_vollstaendig.docx) | MD | Markdown-Vorschau des Gutachtens |
 | [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | DOCX | Terminprotokoll: Anwesende, Versteigerungsbedingungen, 15 Gebote, Zuschlag |
-| [13_versteigerungstermin_protokoll.md](13_versteigerungstermin_protokoll.md) | MD | Markdown-Vorschau des Terminprotokolls |
+| [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | MD | Markdown-Vorschau des Terminprotokolls |
 | [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | DOCX | Zuschlagsbeschluss mit Rubrum, Tenor, Gründen und Rechtsbehelfsbelehrung |
-| [14_zuschlagsbeschluss.md](14_zuschlagsbeschluss.md) | MD | Markdown-Vorschau des Zuschlagsbeschlusses |
-| [15_schuldnermitteilung.md](15_schuldnermitteilung.md) | MD | Schuldnermitteilung des Zwangsverwalters: Mietkonto, Hausgeld, WEG, Verwalterkosten |
+| [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | MD | Markdown-Vorschau des Zuschlagsbeschlusses |
+| [15_schuldnermitteilung.docx](15_schuldnermitteilung.docx) | MD | Schuldnermitteilung des Zwangsverwalters: Mietkonto, Hausgeld, WEG, Verwalterkosten |
 | [16_bietverzeichnis.xlsx](16_bietverzeichnis.xlsx) | XLSX | Chronologisches Bietverzeichnis: 15 Gebote, 3 Bieter, Deltas, Höchstgebot-Zusammenfassung |
-| [16_bietverzeichnis.md](16_bietverzeichnis.md) | MD | Markdown-Vorschau des Bietverzeichnisses |
+| [16_bietverzeichnis.docx](16_bietverzeichnis.docx) | MD | Markdown-Vorschau des Bietverzeichnisses |
 | [17_teilungsplan.xlsx](17_teilungsplan.xlsx) | XLSX | Teilungsplan §§ 109–145 ZVG: Rangklassen § 10 ZVG, Erlösverteilung, Formelblatt |
-| [17_teilungsplan.md](17_teilungsplan.md) | MD | Markdown-Vorschau des Teilungsplans |
+| [17_teilungsplan.docx](17_teilungsplan.docx) | MD | Markdown-Vorschau des Teilungsplans |
 | [18_verkehrswert_ermittlung.xlsx](18_verkehrswert_ermittlung.xlsx) | XLSX | Zwei-Blatt-Kalkulation: Vergleichswert (Vergleichsdaten + Korrekturen) + Ertragswert (Plausibilisierung) |
-| [18_verkehrswert_ermittlung.md](18_verkehrswert_ermittlung.md) | MD | Markdown-Vorschau der Wertermittlung |
+| [18_verkehrswert_ermittlung.docx](18_verkehrswert_ermittlung.docx) | MD | Markdown-Vorschau der Wertermittlung |
 
 ---
 

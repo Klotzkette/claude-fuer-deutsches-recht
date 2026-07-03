@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 735 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 732 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betreuung-schmalfeld-kontodaten-vertraege-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege-einzelpdfs.zip) |
 
@@ -53,12 +53,12 @@ einer Betreuung. Vorliegen:
 | `04_vertragsregister_schmalfeld.csv` | Vertrags- und Belegregister |
 | `05_schmalfeld_verdaechtige_transaktionen.json` | Eingabe für das Hilfsskript |
 | `06_risikoauswertung_schmalfeld.json` | Referenzauswertung des Hilfsskripts |
-| `07_erstvermerk_betreuungsgericht.md` | Muster für sachlichen Erstvermerk |
-| `08_massnahmenplan.md` | Sofort- und Folgeaufgaben |
-| `09_vertragsauszuege_pruefmappe.md` | Vertragsauszüge, Risikokörbe, Beleglücken und priorisierte Maßnahmen |
-| `10_bankrueckfrage_saldenabgleich_und_onlinebanking.md` | Bankrückfrage, TAN-/Onlinebanking-Themen, Saldenabgleich |
-| `11_telefonakquise_chronologie_und_gedaechtnisprotokolle.md` | Telefonakquise, Haustürkontakte, Gesprächsnotizen und Gedächtnisprotokolle |
-| `12_vertragsmappe_nachgereichte_unterlagen.md` | Detailauswertung nachgereichter Vertragsauszüge |
+| `07_erstvermerk_betreuungsgericht.docx` | Muster für sachlichen Erstvermerk |
+| `08_massnahmenplan.docx` | Sofort- und Folgeaufgaben |
+| `09_vertragsauszuege_pruefmappe.docx` | Vertragsauszüge, Risikokörbe, Beleglücken und priorisierte Maßnahmen |
+| `10_bankrueckfrage_saldenabgleich_und_onlinebanking.docx` | Bankrückfrage, TAN-/Onlinebanking-Themen, Saldenabgleich |
+| `11_telefonakquise_chronologie_und_gedaechtnisprotokolle.docx` | Telefonakquise, Haustürkontakte, Gesprächsnotizen und Gedächtnisprotokolle |
+| `12_vertragsmappe_nachgereichte_unterlagen.docx` | Detailauswertung nachgereichter Vertragsauszüge |
 | `emails/` | EML-Korrespondenz von Bank, Umfeld und Angehörigen |
 | `jpg/` | Foto- und Scanfragmente aus der Wohnungsmappe |
 | `xlsx/pruefmatrix_schmalfeld_vertraege.xlsx` | Vertragsprüfmatrix mit Fristen, Beleglücken und Maßnahmen |

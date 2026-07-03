@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf`](gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf`](gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena-einzelpdfs.zip) |
 
@@ -28,15 +28,15 @@ Samira Wehner, 17, leidet an einer seltenen lysosomalen Speichererkrankung mit n
 sozialrecht-enzymsubstitution-seltene-erkrankung-jena/
 ├── README.md                              <- diese Übersicht
 ├── rubric.yaml                            <- Prüfkriterien für die Bearbeitung
-├── 01_familienkontakt_und_eilsache.md     <- Erstgespräch, Beteiligte, Frist, Auftrag
-├── 02_kinderklinik_antrag.md              <- Kostenübernahmeantrag der Kinderklinik
-├── 03_genetik_und_verlauf.md              <- Genbefund, Neuropädiatrie, Symptomtagebuch
-├── 04_kassenbescheid_md.md                <- MD-Stellungnahme und Ablehnungsbescheid mit Rechtsbehelfsbelehrung
-├── 05_widerspruch_eltern.md               <- Elternwiderspruch und anwaltliche Nachschärfung
-├── 06_schule_teilhabe_pflege.md           <- Schulstellungnahme, häusliche Belastung, Teilhaberisiko
+├── 01_familienkontakt_und_eilsache.docx     <- Erstgespräch, Beteiligte, Frist, Auftrag
+├── 02_kinderklinik_antrag.docx              <- Kostenübernahmeantrag der Kinderklinik
+├── 03_genetik_und_verlauf.docx              <- Genbefund, Neuropädiatrie, Symptomtagebuch
+├── 04_kassenbescheid_md.docx                <- MD-Stellungnahme und Ablehnungsbescheid mit Rechtsbehelfsbelehrung
+├── 05_widerspruch_eltern.docx               <- Elternwiderspruch und anwaltliche Nachschärfung
+├── 06_schule_teilhabe_pflege.docx           <- Schulstellungnahme, häusliche Belastung, Teilhaberisiko
 ├── 07_kosten_und_verlauf.csv              <- Kosten- und Verlaufsmatrix des Therapieversuchs
-├── 08_eilantrag_sg_jena.md                <- Entwurf der einstweiligen Anordnung nach § 86b SGG
-├── 09_kostenvoranschlag_spezialambulanz.md <- Dosisplan, Kosten und Abbruchkriterien der Spezialambulanz
+├── 08_eilantrag_sg_jena.docx                <- Entwurf der einstweiligen Anordnung nach § 86b SGG
+├── 09_kostenvoranschlag_spezialambulanz.docx <- Dosisplan, Kosten und Abbruchkriterien der Spezialambulanz
 ├── 10_email_schule_teilhabe.eml           <- Oberstufenleitung zu Fehlzeiten und Erschöpfung
 ├── 11_pflegekasse_kurzprotokoll.txt       <- Pflegeberatung, Alltagshilfebedarf, Pflegetagebuch-Auftrag
 └── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF

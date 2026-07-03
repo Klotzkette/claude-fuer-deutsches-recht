@@ -22,9 +22,9 @@ Waldkrone HealthTech GmbH erhält einen anonymen Hinweis zu Exportkontrolle, Pro
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-arbeitsauftrag.md` | Erste Lage, Personen, Ziel und offene Fragen |
-| `02-zeitstrahl-und-fristen.md` | Chronologie mit Entscheidungs- und Eskalationspunkten |
-| `03-prueffragen-fuer-erstgespraech.md` | Katalog für das erste strukturierte Gespräch |
+| `01-mandatsnotiz-und-arbeitsauftrag.docx` | Erste Lage, Personen, Ziel und offene Fragen |
+| `02-zeitstrahl-und-fristen.docx` | Chronologie mit Entscheidungs- und Eskalationspunkten |
+| `03-prueffragen-fuer-erstgespraech.docx` | Katalog für das erste strukturierte Gespräch |
 | `04-nda-auszug-clean-team.docx` | NDA-Auszug mit problematischer Schweigeklausel |
 | `05-hinweisfall-triage-und-fristen.xlsx` | Triage- und Fristenliste |
 | `06-hinschg-scope-vermerk.pdf` | Vermerk Anwendungsbereich und Schutzstatus |
@@ -37,12 +37,12 @@ Waldkrone HealthTech GmbH erhält einen anonymen Hinweis zu Exportkontrolle, Pro
 | `13-nda-redline-vermerk.pdf` | Vermerk zur NDA-Redline |
 | `14-bonusentscheidung-risk-note.pdf` | Risk Note Bonus/Repressalie |
 | `15-email-betriebsrat-meldekanal.eml` | Betriebsrat fragt nach Meldekanal und Tool |
-| `16-antwortentwurf-an-hinweisgeber.md` | Antwortentwurf an Hinweisgeber |
+| `16-antwortentwurf-an-hinweisgeber.docx` | Antwortentwurf an Hinweisgeber |
 | `17-datenschutz-meldeakte.pdf` | Datenschutzvermerk Meldeakte |
 | `18-whatsapp-externe-berater.jpg` | WhatsApp mit externer Beraterin |
-| `19-behoerden-routing.md` | Routing möglicher Behörden |
+| `19-behoerden-routing.docx` | Routing möglicher Behörden |
 | `20-board-briefing-hinschg.pdf` | Board-Briefing HinSchG-Fall |
-| `21-offene-punkte-und-lueckenliste.md` | Offene Punkte und Lückenliste |
+| `21-offene-punkte-und-lueckenliste.docx` | Offene Punkte und Lückenliste |
 | `22-anlagenindex.csv` | Anlagenindex |
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |

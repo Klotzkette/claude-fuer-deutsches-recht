@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 70 KB) | PDF | [`gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf`](gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 68 KB) | PDF | [`gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf`](gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt-einzelpdfs.zip) |
 
@@ -47,27 +47,27 @@ Die Akte bündelt mehrere zivilrechtliche Störungen rund um die Bestellung, Lie
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.md` | Erstgespräch mit Klara Windmöller |
-| `02_angebot_ofenhaus_backstein.md` | Angebot Ofen/Lieferung/Montage |
-| `03_bestellung_und_agb_auszug.md` | Bestellung mit AGB-Auszug und Gewährleistungsregeln |
-| `04_montageprotokoll_unterschrift_unleserlich.md` | Montageprotokoll mit Abnahme-Streit |
-| `05_maengelanzeige_und_fotos_beschrieben.md` | Mängelanzeige, Fotos beschrieben |
-| `06_buergschaft_bankhaus_nordtor.md` | Bürgschaftserklärung und Sicherungszweck |
-| `07_goa_nachbarin_krumm_notmassnahme.md` | Notmaßnahme der Nachbarin |
-| `08_versicherer_regressvorbehalt.md` | Versicherer mit Regressvorbehalt |
-| `09_anspruchsmatrix_arbeitsstand.md` | Erste Anspruchsmatrix |
-| `10_fruehe_bewertung_vergleich.md` | Vergleichs- und Beweisstrategie |
-| `11_gutachtenstruktur_bgb_bt.md` | Gutachtenstruktur |
-| `12_klageentwurf_ofenhaus_schlussrate.md` | Klageentwurf Ofenhaus |
-| `13_entwurf_antwort_an_ofenhaus.md` | Antwortentwurf |
-| `14_sachverstaendigenfragen_ofen_brand.md` | Sachverständigenfragen |
-| `15_herstelleranleitung_auszug_beschrieben.md` | Herstelleranleitung als Auszug |
-| `16_nachtrag_servicepauschale_nichtigkeit.md` | Nachtrag/§ 812 BGB |
-| `17_zahlungsplan_und_aufrechnung.md` | Zahlungs- und Aufrechnungslage |
-| `18_buergschaftseinreden_bank.md` | Bürgschaftseinreden |
-| `19_goa_anspruch_krumm.md` | GoA der Nachbarin |
-| `20_delikt_regress_versicherer.md` | Delikt/Regress |
-| `21_verjaehrung_und_beweissicherung.md` | Verjährung/Beweissicherung |
-| `22_vergleichsentwurf.md` | Vergleichsentwurf |
+| `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch mit Klara Windmöller |
+| `02_angebot_ofenhaus_backstein.docx` | Angebot Ofen/Lieferung/Montage |
+| `03_bestellung_und_agb_auszug.docx` | Bestellung mit AGB-Auszug und Gewährleistungsregeln |
+| `04_montageprotokoll_unterschrift_unleserlich.docx` | Montageprotokoll mit Abnahme-Streit |
+| `05_maengelanzeige_und_fotos_beschrieben.docx` | Mängelanzeige, Fotos beschrieben |
+| `06_buergschaft_bankhaus_nordtor.docx` | Bürgschaftserklärung und Sicherungszweck |
+| `07_goa_nachbarin_krumm_notmassnahme.docx` | Notmaßnahme der Nachbarin |
+| `08_versicherer_regressvorbehalt.docx` | Versicherer mit Regressvorbehalt |
+| `09_anspruchsmatrix_arbeitsstand.docx` | Erste Anspruchsmatrix |
+| `10_fruehe_bewertung_vergleich.docx` | Vergleichs- und Beweisstrategie |
+| `11_gutachtenstruktur_bgb_bt.docx` | Gutachtenstruktur |
+| `12_klageentwurf_ofenhaus_schlussrate.docx` | Klageentwurf Ofenhaus |
+| `13_entwurf_antwort_an_ofenhaus.docx` | Antwortentwurf |
+| `14_sachverstaendigenfragen_ofen_brand.docx` | Sachverständigenfragen |
+| `15_herstelleranleitung_auszug_beschrieben.docx` | Herstelleranleitung als Auszug |
+| `16_nachtrag_servicepauschale_nichtigkeit.docx` | Nachtrag/§ 812 BGB |
+| `17_zahlungsplan_und_aufrechnung.docx` | Zahlungs- und Aufrechnungslage |
+| `18_buergschaftseinreden_bank.docx` | Bürgschaftseinreden |
+| `19_goa_anspruch_krumm.docx` | GoA der Nachbarin |
+| `20_delikt_regress_versicherer.docx` | Delikt/Regress |
+| `21_verjaehrung_und_beweissicherung.docx` | Verjährung/Beweissicherung |
+| `22_vergleichsentwurf.docx` | Vergleichsentwurf |
 | `emails/*.eml` | E-Mail-Verkehr |
 | `tabellen/*.csv` | Kosten-/Schadens- und Fristenlisten |

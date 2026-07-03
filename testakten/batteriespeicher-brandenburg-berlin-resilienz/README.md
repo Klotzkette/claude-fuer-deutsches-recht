@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf`](gesamt-pdf/batteriespeicher-brandenburg-berlin-resilienz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-batteriespeicher-brandenburg-berlin-resilienz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-batteriespeicher-brandenburg-berlin-resilienz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-batteriespeicher-brandenburg-berlin-resilienz-einzelpdfs.zip) |
 
@@ -25,25 +25,25 @@ Passt zu `energierecht`, `bundesnetzagentur-verfahren`, `umweltrecht`, `verkehr-
 | Datei | Inhalt |
 | --- | --- |
 | `00-aktenuebersicht.md` | Projektüberblick, Beteiligte, offene Entscheidungen |
-| `01-vorstandsbeschluss-projektfreigabe.md` | Beschlussvorlage mit Annahmen und roten Punkten |
-| `02-standort-und-flaechen.md` | Grundstück, Bauleitplanung, Nachbarschaft |
-| `03-netzanschluss-380kv.md` | Netzanschlussbegehren und Netzebenenlogik |
-| `04-brandschutz-und-havarie.md` | Thermal Runaway, Löschwasser, Feuerwehr |
-| `05-cyber-kritis-sicherheitskonzept.md` | Leitwarte, Fernwartung, Sabotage, KRITIS |
-| `06-dieselgenerator-und-schwarzstart.md` | Notstrom, Emissionen, Betriebsmodell |
-| `07-finanzierung-bank-dd.md` | Bankability, Sicherheiten, Erlösmodell |
-| `08-buergerkommunikation-presse.md` | Presseanfrage, Gemeinde, Einwendungen |
-| `09-mandantenmemo-entwurf.md` | unfertiges anwaltliches Memo mit Lücken |
+| `01-vorstandsbeschluss-projektfreigabe.docx` | Beschlussvorlage mit Annahmen und roten Punkten |
+| `02-standort-und-flaechen.docx` | Grundstück, Bauleitplanung, Nachbarschaft |
+| `03-netzanschluss-380kv.docx` | Netzanschlussbegehren und Netzebenenlogik |
+| `04-brandschutz-und-havarie.docx` | Thermal Runaway, Löschwasser, Feuerwehr |
+| `05-cyber-kritis-sicherheitskonzept.docx` | Leitwarte, Fernwartung, Sabotage, KRITIS |
+| `06-dieselgenerator-und-schwarzstart.docx` | Notstrom, Emissionen, Betriebsmodell |
+| `07-finanzierung-bank-dd.docx` | Bankability, Sicherheiten, Erlösmodell |
+| `08-buergerkommunikation-presse.docx` | Presseanfrage, Gemeinde, Einwendungen |
+| `09-mandantenmemo-entwurf.docx` | unfertiges anwaltliches Memo mit Lücken |
 | `10-eml-netzbetreiber-und-gemeinde.eml` | E-Mail-Kette Netzbetreiber/Gemeinde |
-| `11-projektteam-chat.md` | Chatnotizen mit Widersprüchen |
+| `11-projektteam-chat.docx` | Chatnotizen mit Widersprüchen |
 | `12-kosten-und-zeitplan.csv` | Zahlenmodell grob |
 | `13-risikoregister.csv` | Risikoampel |
-| `14-technikblatt-hersteller-widersprueche.md` | Herstellerangaben, Degradation, Temperatur, Garantien |
-| `15-vollgutachten-batteriespeicher-genehmigung-netz-und-schutz.md` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
-| `15-gemeinderatsvorlage.md` | kommunale Beschlussvorlage mit politischer Überhöhung |
-| `16-feuerwehr-workshop-protokoll.md` | Einsatz-, Löschwasser- und Havariefragen |
-| `17-bank-term-sheet-redlines.md` | Bank-Term-Sheet mit CPs und Sicherheitsauflagen |
-| `18-umwelt-scoping.md` | Umwelt-, Naturschutz-, Wasser- und Bodenfragen |
-| `19-datenschutz-video-leitwarte.md` | Videoüberwachung, Zutritt, Leitwarte, Fernwartung |
-| `20-versicherer-fragenkatalog.md` | Versicherbarkeit, Ausschlüsse, Schadenfall |
-| `21-board-paper-finalfragen.md` | offene Entscheidungspunkte vor Gate 2 |
+| `14-technikblatt-hersteller-widersprueche.docx` | Herstellerangaben, Degradation, Temperatur, Garantien |
+| `15-vollgutachten-batteriespeicher-genehmigung-netz-und-schutz.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
+| `15-gemeinderatsvorlage.docx` | kommunale Beschlussvorlage mit politischer Überhöhung |
+| `16-feuerwehr-workshop-protokoll.docx` | Einsatz-, Löschwasser- und Havariefragen |
+| `17-bank-term-sheet-redlines.docx` | Bank-Term-Sheet mit CPs und Sicherheitsauflagen |
+| `18-umwelt-scoping.docx` | Umwelt-, Naturschutz-, Wasser- und Bodenfragen |
+| `19-datenschutz-video-leitwarte.docx` | Videoüberwachung, Zutritt, Leitwarte, Fernwartung |
+| `20-versicherer-fragenkatalog.docx` | Versicherbarkeit, Ausschlüsse, Schadenfall |
+| `21-board-paper-finalfragen.docx` | offene Entscheidungspunkte vor Gate 2 |

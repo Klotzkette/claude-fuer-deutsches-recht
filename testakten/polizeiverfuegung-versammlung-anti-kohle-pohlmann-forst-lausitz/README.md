@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 114 KB) | PDF | [`gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf`](gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 110 KB) | PDF | [`gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf`](gesamt-pdf/polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-polizeiverfuegung-versammlung-anti-kohle-pohlmann-forst-lausitz-einzelpdfs.zip) |
 

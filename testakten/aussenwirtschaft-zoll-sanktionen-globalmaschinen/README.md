@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 147 KB) | PDF | [`gesamt-pdf/aussenwirtschaft-zoll-sanktionen-globalmaschinen_gesamt.pdf`](gesamt-pdf/aussenwirtschaft-zoll-sanktionen-globalmaschinen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 126 KB) | PDF | [`gesamt-pdf/aussenwirtschaft-zoll-sanktionen-globalmaschinen_gesamt.pdf`](gesamt-pdf/aussenwirtschaft-zoll-sanktionen-globalmaschinen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen-einzelpdfs.zip) |
 
@@ -107,22 +107,22 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 |---|---|
 | [README.md](README.md) | Diese Übersicht: Sachverhalt, Akteure, Zeitleiste und Prüffokus |
 | [01_intake/email_mandant_globalmaschinen.txt](01_intake/email_mandant_globalmaschinen.txt) | Erstanfrage Mandant (Kurzübersicht aller Themen) |
-| [02_waren/produktdaten_cnc_modul.md](02_waren/produktdaten_cnc_modul.md) | Technisches Datenblatt GX-900 + Klassifizierungsbegründung (EU + US EAR) |
-| [03_exportkontrolle/dual_use_pruefung_roh.md](03_exportkontrolle/dual_use_pruefung_roh.md) | Vollständige Dual-Use-Prüfung (2B001.b, Catch-All, ECCN-Vergleich, De-minimis) |
-| [04_sanktionen/sanktionslisten_treffer_roh.md](04_sanktionen/sanktionslisten_treffer_roh.md) | Sanktionslistenscreening-Bericht mit Trefferverdacht (Murat A., Al Noor FZE) |
-| [05_zoll/taric_vzta_ursprung.md](05_zoll/taric_vzta_ursprung.md) | Tarifierungsmemo 8537 10 99 + Entwurf vZTA-Antrag + Ursprungsanalyse |
+| [02_waren/produktdaten_cnc_modul.md](02_waren/produktdaten_cnc_modul.docx) | Technisches Datenblatt GX-900 + Klassifizierungsbegründung (EU + US EAR) |
+| [03_exportkontrolle/dual_use_pruefung_roh.md](03_exportkontrolle/dual_use_pruefung_roh.docx) | Vollständige Dual-Use-Prüfung (2B001.b, Catch-All, ECCN-Vergleich, De-minimis) |
+| [04_sanktionen/sanktionslisten_treffer_roh.md](04_sanktionen/sanktionslisten_treffer_roh.docx) | Sanktionslistenscreening-Bericht mit Trefferverdacht (Murat A., Al Noor FZE) |
+| [05_zoll/taric_vzta_ursprung.md](05_zoll/taric_vzta_ursprung.docx) | Tarifierungsmemo 8537 10 99 + Entwurf vZTA-Antrag + Ursprungsanalyse |
 | [06_cbam/cbam_importe_stahl_aluminium.csv](06_cbam/cbam_importe_stahl_aluminium.csv) | CBAM-Importliste (Rohdaten Q1/2026: Stahl, Aluminium) |
 | [06_cbam/cbam_importe_stahl_aluminium.xlsx](06_cbam/cbam_importe_stahl_aluminium.xlsx) | CBAM-Stoffstromliste (aufbereitet, Excel) |
-| [07_verbrauchsteuer/energieerzeugnisse_lagerung.md](07_verbrauchsteuer/energieerzeugnisse_lagerung.md) | Verbrauchsteuer-Vermerk (Steuerlager, Entlastungsanträge, HZA-Risiken) |
-| [08_antidumping/antidumping_bescheid.md](08_antidumping/antidumping_bescheid.md) | Bescheid HZA + Einspruchs-Entwurf (Verbindungselemente China, 27.448 EUR) |
+| [07_verbrauchsteuer/energieerzeugnisse_lagerung.md](07_verbrauchsteuer/energieerzeugnisse_lagerung.docx) | Verbrauchsteuer-Vermerk (Steuerlager, Entlastungsanträge, HZA-Risiken) |
+| [08_antidumping/antidumping_bescheid.md](08_antidumping/antidumping_bescheid.docx) | Bescheid HZA + Einspruchs-Entwurf (Verbindungselemente China, 27.448 EUR) |
 | [08_antidumping/antidumping_bescheid.docx](08_antidumping/antidumping_bescheid.docx) | Bescheid als DOCX-Binärdatei |
 | [09_awv/awv_zahlungen_roh.csv](09_awv/awv_zahlungen_roh.csv) | AWV-Zahlungsliste (Rohdaten, nicht gemeldet) |
-| [10_aml_kyc/ubo_kyc_sanktionsrisiko.md](10_aml_kyc/ubo_kyc_sanktionsrisiko.md) | KYC-Bericht: Enhanced Due Diligence alle Entitäten, EDD-Bewertung |
-| [11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.md](11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.md) | BAFA-Stellungnahme-Entwurf + Vorbereitung HZA-Prüfung + Risikobeurteilung |
+| [10_aml_kyc/ubo_kyc_sanktionsrisiko.md](10_aml_kyc/ubo_kyc_sanktionsrisiko.docx) | KYC-Bericht: Enhanced Due Diligence alle Entitäten, EDD-Bewertung |
+| [11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.md](11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.docx) | BAFA-Stellungnahme-Entwurf + Vorbereitung HZA-Prüfung + Risikobeurteilung |
 | [11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.docx](11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.docx) | Verteidigungsschriftsatz als DOCX-Binärdatei |
-| [12_presse/krisenkommunikation_entwurf.md](12_presse/krisenkommunikation_entwurf.md) | Q&A-Katalog + Pressemitteilungs-Entwurf + Kommunikationsplan |
+| [12_presse/krisenkommunikation_entwurf.md](12_presse/krisenkommunikation_entwurf.docx) | Q&A-Katalog + Pressemitteilungs-Entwurf + Kommunikationsplan |
 | [12_presse/krisenkommunikation_pressemitteilung.docx](12_presse/krisenkommunikation_pressemitteilung.docx) | Pressemitteilung als DOCX-Binärdatei |
-| [13_icp/exportkontrollsystem_gap.md](13_icp/exportkontrollsystem_gap.md) | ICP-Gap-Analyse (40 Lücken, 20-Punkte-Maßnahmenplan, Kostenrahmen) |
+| [13_icp/exportkontrollsystem_gap.md](13_icp/exportkontrollsystem_gap.docx) | ICP-Gap-Analyse (40 Lücken, 20-Punkte-Maßnahmenplan, Kostenrahmen) |
 
 ---
 

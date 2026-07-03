@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 868 KB) | PDF | [`gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf`](gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 859 KB) | PDF | [`gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf`](gesamt-pdf/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig-einzelpdfs.zip) |
 
@@ -67,28 +67,28 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsnotiz_erstgespraech_pohlmann.md`](01_mandatsnotiz_erstgespraech_pohlmann.md) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, erste Rechtliche Einschätzung |
-| 02 | [`02_beteiligte_verfahrensuebersicht.md`](02_beteiligte_verfahrensuebersicht.md) | Alle Beteiligten, Gegenparteien, Verfahrensübersicht, Vollmachtslage |
-| 03 | [`03_pachtvertrag_analyse_erklaerungsirrtum_119.md`](03_pachtvertrag_analyse_erklaerungsirrtum_119.md) | Gutachten Anfechtung § 119 I BGB — Definitionen, Subsumtion, Rechtsfolgen |
-| 04 | [`04_fristpruefung_121_bgb_unverzueglich.md`](04_fristpruefung_121_bgb_unverzueglich.md) | § 121 BGB Unverzüglichkeit — BGH-Rechtsprechung, Fristberechnung, Risikobewertung |
-| 05 | [`05_geschaeftsfaehigkeit_tilidin_104_105_bgb.md`](05_geschaeftsfaehigkeit_tilidin_104_105_bgb.md) | §§ 104, 105 II BGB — Tilidin-Pharmakologie, Beweissicherungsplan |
-| 06 | [`06_falsus_procurator_177_179_bgb_praktikant_luebbers.md`](06_falsus_procurator_177_179_bgb_praktikant_luebbers.md) | §§ 177, 179 BGB — schwebende Unwirksamkeit, falsus procurator, Minderjährigenschutz |
-| 07 | [`07_vollmacht_ammenwald_167_168_bgb_rechtsschein.md`](07_vollmacht_ammenwald_167_168_bgb_rechtsschein.md) | §§ 167, 168, 170 BGB — Innen-/Außenvollmacht, Erlöschen, Anscheinsvollmacht |
-| 08 | [`08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.md`](08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.md) | §§ 184, 929, 932 BGB — Eigentumsvorbehalt, gutgläubiger Erwerb Schlotterhose |
-| 09 | [`09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.md`](09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.md) | §§ 305, 305c, 307 BGB — überraschende Klausel, Inhaltskontrolle B2B |
-| 10 | [`10_schenkungswiderruf_grober_undank_530_bgb_florian.md`](10_schenkungswiderruf_grober_undank_530_bgb_florian.md) | §§ 530, 531, 532 BGB — grober Undank, Frist, Rechtsfolge Wertersatz |
-| 11 | [`11_verjaehrung_195_199_bgb_forderungsuebersicht.md`](11_verjaehrung_195_199_bgb_forderungsuebersicht.md) | §§ 195, 199, 204 BGB — alle Forderungen mit Verjährungstabelle |
-| 12 | [`12_schadensersatz_280_281_bgb_convotherm_maengel.md`](12_schadensersatz_280_281_bgb_convotherm_maengel.md) | §§ 280, 281 BGB — Sachmangel, Fristsetzung, Aufrechnung, Schadensberechnung |
-| 13 | [`13_anspruchsmatrix_bgb_at_uebersicht.md`](13_anspruchsmatrix_bgb_at_uebersicht.md) | Anspruchsmatrix aller Parteien, BGB-AT-Prüfungsschemata, Klausurliste |
-| 14 | [`14_inhaltsirrtum_vs_motivirrtum_abgrenzung.md`](14_inhaltsirrtum_vs_motivirrtum_abgrenzung.md) | Abgrenzung Erklärungs- / Inhalts- / Motivirrtum; Merkhilfen für Klausur |
-| 15 | [`15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.md`](15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.md) | Duldungs- vs. Anscheinsvollmacht; §§ 170–173 BGB; BGH-Linien |
-| 16 | [`16_nichtigkeit_134_138_bgb_sittenwidrigkeit.md`](16_nichtigkeit_134_138_bgb_sittenwidrigkeit.md) | §§ 134, 138 BGB — Verbotsnorm, Sittenwidrigkeit, Wucher; § 139 Teilnichtigkeit |
-| 17 | [`17_zugang_willenserklarung_130_bgb.md`](17_zugang_willenserklarung_130_bgb.md) | § 130 BGB — Brief, Fax, E-Mail, Empfangsbote, Zugangsvereitelung |
-| 18 | [`18_auslegung_133_157_bgb_vertragsinhalt.md`](18_auslegung_133_157_bgb_vertragsinhalt.md) | §§ 133, 157 BGB — Natürliche/normative Auslegung, Falsa demonstratio |
-| 19 | [`19_schriftsatz_strategie_lg_leipzig_4o188_26.md`](19_schriftsatz_strategie_lg_leipzig_4o188_26.md) | Prozessstrategie Klagerwiderung, Beweislastverteilung, Vergleichsoptionen |
-| 20 | [`20_fristen_rechnung_193_bgb_berechnung.md`](20_fristen_rechnung_193_bgb_berechnung.md) | §§ 186–193 BGB — Praktische Fristberechnungen, Klausur-Merkblatt |
-| 21 | [`21_vertragsschluss_antrag_annahme_145_147_bgb.md`](21_vertragsschluss_antrag_annahme_145_147_bgb.md) | §§ 145–155 BGB — Antrag, Annahme, § 150 II, Invitatio, Schriftformvorbehalt |
-| 22 | [`22_pruefungsschema_gesamtfall_klausur_empfehlung.md`](22_pruefungsschema_gesamtfall_klausur_empfehlung.md) | Gesamtfall-Prüfungsschema, Stolpersteine, BGH-Tabelle, Verfahrensstand |
+| 01 | [`01_mandatsnotiz_erstgespraech_pohlmann.docx`](01_mandatsnotiz_erstgespraech_pohlmann.docx) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, erste Rechtliche Einschätzung |
+| 02 | [`02_beteiligte_verfahrensuebersicht.docx`](02_beteiligte_verfahrensuebersicht.docx) | Alle Beteiligten, Gegenparteien, Verfahrensübersicht, Vollmachtslage |
+| 03 | [`03_pachtvertrag_analyse_erklaerungsirrtum_119.docx`](03_pachtvertrag_analyse_erklaerungsirrtum_119.docx) | Gutachten Anfechtung § 119 I BGB — Definitionen, Subsumtion, Rechtsfolgen |
+| 04 | [`04_fristpruefung_121_bgb_unverzueglich.docx`](04_fristpruefung_121_bgb_unverzueglich.docx) | § 121 BGB Unverzüglichkeit — BGH-Rechtsprechung, Fristberechnung, Risikobewertung |
+| 05 | [`05_geschaeftsfaehigkeit_tilidin_104_105_bgb.docx`](05_geschaeftsfaehigkeit_tilidin_104_105_bgb.docx) | §§ 104, 105 II BGB — Tilidin-Pharmakologie, Beweissicherungsplan |
+| 06 | [`06_falsus_procurator_177_179_bgb_praktikant_luebbers.docx`](06_falsus_procurator_177_179_bgb_praktikant_luebbers.docx) | §§ 177, 179 BGB — schwebende Unwirksamkeit, falsus procurator, Minderjährigenschutz |
+| 07 | [`07_vollmacht_ammenwald_167_168_bgb_rechtsschein.docx`](07_vollmacht_ammenwald_167_168_bgb_rechtsschein.docx) | §§ 167, 168, 170 BGB — Innen-/Außenvollmacht, Erlöschen, Anscheinsvollmacht |
+| 08 | [`08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.docx`](08_schwebende_unwirksamkeit_184_bgb_convotherm_oefen.docx) | §§ 184, 929, 932 BGB — Eigentumsvorbehalt, gutgläubiger Erwerb Schlotterhose |
+| 09 | [`09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.docx`](09_agb_kontrolle_305c_bgb_eigentumsklausel_convotherm.docx) | §§ 305, 305c, 307 BGB — überraschende Klausel, Inhaltskontrolle B2B |
+| 10 | [`10_schenkungswiderruf_grober_undank_530_bgb_florian.docx`](10_schenkungswiderruf_grober_undank_530_bgb_florian.docx) | §§ 530, 531, 532 BGB — grober Undank, Frist, Rechtsfolge Wertersatz |
+| 11 | [`11_verjaehrung_195_199_bgb_forderungsuebersicht.docx`](11_verjaehrung_195_199_bgb_forderungsuebersicht.docx) | §§ 195, 199, 204 BGB — alle Forderungen mit Verjährungstabelle |
+| 12 | [`12_schadensersatz_280_281_bgb_convotherm_maengel.docx`](12_schadensersatz_280_281_bgb_convotherm_maengel.docx) | §§ 280, 281 BGB — Sachmangel, Fristsetzung, Aufrechnung, Schadensberechnung |
+| 13 | [`13_anspruchsmatrix_bgb_at_uebersicht.docx`](13_anspruchsmatrix_bgb_at_uebersicht.docx) | Anspruchsmatrix aller Parteien, BGB-AT-Prüfungsschemata, Klausurliste |
+| 14 | [`14_inhaltsirrtum_vs_motivirrtum_abgrenzung.docx`](14_inhaltsirrtum_vs_motivirrtum_abgrenzung.docx) | Abgrenzung Erklärungs- / Inhalts- / Motivirrtum; Merkhilfen für Klausur |
+| 15 | [`15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.docx`](15_rechtsscheinhaftung_duldungs_anscheinsvollmacht.docx) | Duldungs- vs. Anscheinsvollmacht; §§ 170–173 BGB; BGH-Linien |
+| 16 | [`16_nichtigkeit_134_138_bgb_sittenwidrigkeit.docx`](16_nichtigkeit_134_138_bgb_sittenwidrigkeit.docx) | §§ 134, 138 BGB — Verbotsnorm, Sittenwidrigkeit, Wucher; § 139 Teilnichtigkeit |
+| 17 | [`17_zugang_willenserklarung_130_bgb.docx`](17_zugang_willenserklarung_130_bgb.docx) | § 130 BGB — Brief, Fax, E-Mail, Empfangsbote, Zugangsvereitelung |
+| 18 | [`18_auslegung_133_157_bgb_vertragsinhalt.docx`](18_auslegung_133_157_bgb_vertragsinhalt.docx) | §§ 133, 157 BGB — Natürliche/normative Auslegung, Falsa demonstratio |
+| 19 | [`19_schriftsatz_strategie_lg_leipzig_4o188_26.docx`](19_schriftsatz_strategie_lg_leipzig_4o188_26.docx) | Prozessstrategie Klagerwiderung, Beweislastverteilung, Vergleichsoptionen |
+| 20 | [`20_fristen_rechnung_193_bgb_berechnung.docx`](20_fristen_rechnung_193_bgb_berechnung.docx) | §§ 186–193 BGB — Praktische Fristberechnungen, Klausur-Merkblatt |
+| 21 | [`21_vertragsschluss_antrag_annahme_145_147_bgb.docx`](21_vertragsschluss_antrag_annahme_145_147_bgb.docx) | §§ 145–155 BGB — Antrag, Annahme, § 150 II, Invitatio, Schriftformvorbehalt |
+| 22 | [`22_pruefungsschema_gesamtfall_klausur_empfehlung.docx`](22_pruefungsschema_gesamtfall_klausur_empfehlung.docx) | Gesamtfall-Prüfungsschema, Stolpersteine, BGH-Tabelle, Verfahrensstand |
 
 ### DOCX
 

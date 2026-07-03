@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 121 KB) | PDF | [`gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf`](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf`](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-franchiserecht-systemgastronomie-expansion-streit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-franchiserecht-systemgastronomie-expansion-streit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-franchiserecht-systemgastronomie-expansion-streit-einzelpdfs.zip) |
 
@@ -27,14 +27,14 @@ Diese Akte gehört zu den Plugins `franchiserecht-praxis`, `kartellrecht`, `gese
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
 | `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
 | `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
 | `05-dashboard.csv` | strukturierte Prüfspur |
 | `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
 | `gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf` | Gesamt-PDF der Akte |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Sachstand
 

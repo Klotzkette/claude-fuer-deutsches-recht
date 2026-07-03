@@ -27,7 +27,7 @@ Diese Akte gehört zu den Plugins `krankenkassenrecht-krankenversicherung`, `fac
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
 | `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
 | `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |

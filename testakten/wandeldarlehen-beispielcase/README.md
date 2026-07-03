@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 182 KB) | PDF | [`gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf`](gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 98 KB) | PDF | [`gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf`](gesamt-pdf/wandeldarlehen-beispielcase_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-wandeldarlehen-beispielcase-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase-einzelpdfs.zip) |
 
@@ -39,25 +39,25 @@ Im Februar 2027 startet Sonnenglas eine **Seed-Runde** mit dem Lead-Investor **P
 
 | Datei | Inhalt | Vorschau |
 | --- | --- | --- |
-| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Vollwertiger bilingualer (DE/EN) Wandeldarlehensvertrag, 11 Paragraphen (§ 0 Präambel bis § 10 Schlussbestimmungen), nach Mustervorlage und mit allen Daten gefüllt | [.md](Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) |
-| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Gleicher Inhalt, einsprachig deutsch, einspaltig | [.md](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md) |
-| [Term-Sheet-Sonnenglas-Northstar.docx](Term-Sheet-Sonnenglas-Northstar.docx) | Vor-Vertrag: 24 Parameter (Darlehen, Cap, Discount, CPs, Information Rights, MFN, Drag-/Tag-Bezug) vom 15. April 2026 | [.md](Term-Sheet-Sonnenglas-Northstar.md) |
+| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Vollwertiger bilingualer (DE/EN) Wandeldarlehensvertrag, 11 Paragraphen (§ 0 Präambel bis § 10 Schlussbestimmungen), nach Mustervorlage und mit allen Daten gefüllt | [.md](Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) |
+| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Gleicher Inhalt, einsprachig deutsch, einspaltig | [.md](Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) |
+| [Term-Sheet-Sonnenglas-Northstar.docx](Term-Sheet-Sonnenglas-Northstar.docx) | Vor-Vertrag: 24 Parameter (Darlehen, Cap, Discount, CPs, Information Rights, MFN, Drag-/Tag-Bezug) vom 15. April 2026 | [.md](Term-Sheet-Sonnenglas-Northstar.docx) |
 
 ### Wandlung und Notarunterlagen
 
 | Datei | Inhalt | Vorschau |
 | --- | --- | --- |
-| [Wandlungsmitteilung-Sonnenglas-an-Northstar.docx](Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) | Schreiben der UG an Northstar vom 14. Februar 2027 über den Start der Seed-Runde und die Wandlungspflicht | [.md](Wandlungsmitteilung-Sonnenglas-an-Northstar.md) |
-| [Wandlungserklaerung-Muster.docx](Wandlungserklaerung-Muster.docx) | Wandlungserklärung Northstar vom 22. Februar 2027, Wandlungssumme EUR 261.541,67, 66 neue Anteile zum Cap-Preis EUR 4.000,00 | [.md](Wandlungserklaerung-Muster.md) |
-| [Gesellschafterbeschluss-Kapitalerhöhung-Muster.docx](Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Notariell beurkundeter Beschluss vom 4. März 2027 (UR 0142/2027): Kapitalerhöhung von EUR 1.000 auf EUR 1.374 unter Ausschluss des Bezugsrechts | [.md](Gesellschafterbeschluss-Kapitalerhoehung-Muster.md) |
-| [Notar-Paket-Inhaltsverzeichnis.docx](Notar-Paket-Inhaltsverzeichnis.docx) | Checkliste aller 15 Notarunterlagen (Vorabentwürfe, beigefügte Anlagen, Handelsregisteranmeldung, Gesellschafterliste) | [.md](Notar-Paket-Inhaltsverzeichnis.md) |
+| [Wandlungsmitteilung-Sonnenglas-an-Northstar.docx](Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) | Schreiben der UG an Northstar vom 14. Februar 2027 über den Start der Seed-Runde und die Wandlungspflicht | [.md](Wandlungsmitteilung-Sonnenglas-an-Northstar.docx) |
+| [Wandlungserklaerung-Muster.docx](Wandlungserklaerung-Muster.docx) | Wandlungserklärung Northstar vom 22. Februar 2027, Wandlungssumme EUR 261.541,67, 66 neue Anteile zum Cap-Preis EUR 4.000,00 | [.md](Wandlungserklaerung-Muster.docx) |
+| [Gesellschafterbeschluss-Kapitalerhöhung-Muster.docx](Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Notariell beurkundeter Beschluss vom 4. März 2027 (UR 0142/2027): Kapitalerhöhung von EUR 1.000 auf EUR 1.374 unter Ausschluss des Bezugsrechts | [.md](Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) |
+| [Notar-Paket-Inhaltsverzeichnis.docx](Notar-Paket-Inhaltsverzeichnis.docx) | Checkliste aller 15 Notarunterlagen (Vorabentwürfe, beigefügte Anlagen, Handelsregisteranmeldung, Gesellschafterliste) | [.md](Notar-Paket-Inhaltsverzeichnis.docx) |
 
 ### Cap-Tables
 
 | Datei | Inhalt | Vorschau |
 | --- | --- | --- |
-| [Cap-Table-Pre-Money.xlsx](Cap-Table-Pre-Money.xlsx) | Gesellschafterstruktur vor Auszahlung Wandeldarlehen (Schöneck 60 % / Habersaat 40 %), 1.000 Anteile gesamt, inkl. pro-forma Wandelannahmen | [.md](Cap-Table-Pre-Money.md) |
-| [Cap-Table-Post-Money.xlsx](Cap-Table-Post-Money.xlsx) | Gesellschafterstruktur nach Wandlung + Seed-Runde (1.374 Anteile gesamt, 5 Gesellschafter), Verwässerungs-Check | [.md](Cap-Table-Post-Money.md) |
+| [Cap-Table-Pre-Money.xlsx](Cap-Table-Pre-Money.xlsx) | Gesellschafterstruktur vor Auszahlung Wandeldarlehen (Schöneck 60 % / Habersaat 40 %), 1.000 Anteile gesamt, inkl. pro-forma Wandelannahmen | [.md](Cap-Table-Pre-Money.docx) |
+| [Cap-Table-Post-Money.xlsx](Cap-Table-Post-Money.xlsx) | Gesellschafterstruktur nach Wandlung + Seed-Runde (1.374 Anteile gesamt, 5 Gesellschafter), Verwässerungs-Check | [.md](Cap-Table-Post-Money.docx) |
 
 ## Eckdaten (Quick Reference)
 

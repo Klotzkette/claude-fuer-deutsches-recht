@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 655 KB) | PDF | [`gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf`](gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 650 KB) | PDF | [`gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf`](gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-robotikrecht-roboterflotte-vellbruck-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen-einzelpdfs.zip) |
 
@@ -23,17 +23,17 @@ Die Akte passt zu `robotik-recht` und berührt zusätzlich `ki-vo-ai-act-pruefer
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsaufnahme_krisenlage.md` | Telefonnotiz Kanzlei, Produktlinien, Fristen, Vorfälle |
-| `02_beteiligte_rollenmatrix.md` | Hersteller, Integrator, Betreiber, Lieferanten, Versicherer, Behörden |
-| `03_produktuebersicht_werkbank_c7_lumamove_atlascare.md` | Produkt- und Zweckbestimmungen mit Widersprüchen |
-| `04_betreibervertrag_muenchen_logistikzentrum.md` | RaaS-/Wartungsvertrag mit Betreiberstreit |
-| `05_unfallbericht_lagerhalle.md` | Unfall, Beinaheunfälle, Logdaten, Betriebsrat |
-| `06_marktueberwachung_anschreiben_entwurf.md` | Unterlagenanforderung und Reaktionsfenster |
-| `07_datenschutzbeschwerde_pflegepilot.md` | Sensorik, Patientenzimmer, Beschäftigte, DSFA-Lücken |
-| `08_cybersecurity_cve_patch_dilemma.md` | Schwachstelle, Remote Update, SBOM, Patch-Rollout |
-| `09_ki_vo_klassifizierung_und_zweckwechsel.md` | KI-System, Hochrisiko-Nähe, Zweckänderung durch Betreiber |
-| `10_produkthaftung_mitverschulden_beweislast.md` | Haftungsfragen, Beweislast, Produktakte |
-| `11_beschlussvorlage_geschaeftsfuehrung.md` | Vorstandsvorlage mit Optionen |
+| `01_mandatsaufnahme_krisenlage.docx` | Telefonnotiz Kanzlei, Produktlinien, Fristen, Vorfälle |
+| `02_beteiligte_rollenmatrix.docx` | Hersteller, Integrator, Betreiber, Lieferanten, Versicherer, Behörden |
+| `03_produktuebersicht_werkbank_c7_lumamove_atlascare.docx` | Produkt- und Zweckbestimmungen mit Widersprüchen |
+| `04_betreibervertrag_muenchen_logistikzentrum.docx` | RaaS-/Wartungsvertrag mit Betreiberstreit |
+| `05_unfallbericht_lagerhalle.docx` | Unfall, Beinaheunfälle, Logdaten, Betriebsrat |
+| `06_marktueberwachung_anschreiben_entwurf.docx` | Unterlagenanforderung und Reaktionsfenster |
+| `07_datenschutzbeschwerde_pflegepilot.docx` | Sensorik, Patientenzimmer, Beschäftigte, DSFA-Lücken |
+| `08_cybersecurity_cve_patch_dilemma.docx` | Schwachstelle, Remote Update, SBOM, Patch-Rollout |
+| `09_ki_vo_klassifizierung_und_zweckwechsel.docx` | KI-System, Hochrisiko-Nähe, Zweckänderung durch Betreiber |
+| `10_produkthaftung_mitverschulden_beweislast.docx` | Haftungsfragen, Beweislast, Produktakte |
+| `11_beschlussvorlage_geschaeftsfuehrung.docx` | Vorstandsvorlage mit Optionen |
 | `12_bis_54_*` | Einzelvermerke, E-Mails, Logs, Tabellen, Anhänge, Verträge, Fotos und Auswertungen |
 | `gesamt-pdf/` | Automatisch erzeugte Gesamt-PDF-Fassung der Akte |
 

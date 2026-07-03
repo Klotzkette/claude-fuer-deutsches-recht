@@ -32,18 +32,18 @@ Die Akte ist bewusst auskunfts- und lückengetrieben. Vor einer Bezifferung sind
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsnotiz_trennung_unterhalt.md` | Erstgespräch, Trennung, Kinder, bisherige Zahlungen |
-| 02 | `02_familien_und_kinderdaten.md` | Kinder, Betreuung, Schule, Mehrbedarf |
-| 03 | `03_zahlungsfluss_und_verzug.md` | Zahlungsverlauf, Inverzugsetzung, offene Beträge |
-| 04 | `04_einkommen_lenes_arbeitgeberbescheinigung.md` | Lohn, Steuerklasse, Krankenversicherung, Fahrtkosten |
-| 05 | `05_joris_unvollstaendige_auskunft.md` | Teilunterlagen, Widersprüche, fehlende Jahre |
-| 06 | `06_bwa_fragmente_firmenwagen_entnahmen.md` | BWA-Auszüge, Tesla, Privatanteile, Darlehen |
-| 07 | `07_ferienwohnung_groemitz_hinweise.md` | Vermietungsindizien, Plattform-Screenshots als Notiz |
-| 08 | `08_auskunftsaufforderung_entwurf.md` | Entwurf Auskunfts- und Beleganforderung |
-| 09 | `09_stufenantrag_entwurf.md` | Entwurf Stufenantrag mit Auskunft, Versicherung, Zahlung |
-| 10 | `10_einstweilige_anordnung_vorlaeufiger_unterhalt.md` | EA-Strategie und vorläufige Bezifferung |
-| 11 | `11_belegmatrix_luecken_und_beweiswert.md` | Lückenliste mit Rechtsfolge |
-| 12 | `12_whatsapp_elternchat_unterhalt.md` | Auszug Elternchat zu Geld und Betreuung |
+| 01 | `01_mandatsnotiz_trennung_unterhalt.docx` | Erstgespräch, Trennung, Kinder, bisherige Zahlungen |
+| 02 | `02_familien_und_kinderdaten.docx` | Kinder, Betreuung, Schule, Mehrbedarf |
+| 03 | `03_zahlungsfluss_und_verzug.docx` | Zahlungsverlauf, Inverzugsetzung, offene Beträge |
+| 04 | `04_einkommen_lenes_arbeitgeberbescheinigung.docx` | Lohn, Steuerklasse, Krankenversicherung, Fahrtkosten |
+| 05 | `05_joris_unvollstaendige_auskunft.docx` | Teilunterlagen, Widersprüche, fehlende Jahre |
+| 06 | `06_bwa_fragmente_firmenwagen_entnahmen.docx` | BWA-Auszüge, Tesla, Privatanteile, Darlehen |
+| 07 | `07_ferienwohnung_groemitz_hinweise.docx` | Vermietungsindizien, Plattform-Screenshots als Notiz |
+| 08 | `08_auskunftsaufforderung_entwurf.docx` | Entwurf Auskunfts- und Beleganforderung |
+| 09 | `09_stufenantrag_entwurf.docx` | Entwurf Stufenantrag mit Auskunft, Versicherung, Zahlung |
+| 10 | `10_einstweilige_anordnung_vorlaeufiger_unterhalt.docx` | EA-Strategie und vorläufige Bezifferung |
+| 11 | `11_belegmatrix_luecken_und_beweiswert.docx` | Lückenliste mit Rechtsfolge |
+| 12 | `12_whatsapp_elternchat_unterhalt.docx` | Auszug Elternchat zu Geld und Betreuung |
 
 ## Anhänge
 

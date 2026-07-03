@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 74 KB) | PDF | [`gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf`](gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 73 KB) | PDF | [`gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf`](gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip) |
 
@@ -22,17 +22,17 @@ Luftrechtsakte: Airline-Krise, Flugzeugpfandrecht, LBA, Flughafen-Slot, LuftSiG,
 
 | Datei | Inhalt |
 |---|---|
-| `01-sachverhalt-und-akte.md` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
+| `01-sachverhalt-und-akte.docx` | Ausgangslage, Personen, Behörden/Gegner und Problemkern |
 | `02-fristen-kosten-risiken.csv` | Fristen-, Kosten- und Risikomatrix |
 | `03-email-anfrage-oder-behoerdenpost.eml` | E-Mail/Behördenpost aus der Akte |
 | `04-arbeitsvermerk.docx` | Arbeitsvermerk als Word-Datei |
 | `05-dashboard.xlsx` | Tracker-/Dashboard-Tabelle |
 | `06-bildanlage-lagekarte.jpg` | Bildanlage/Lagekarte als JPG |
-| `07-entwurf-naechster-schritt.md` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
-| `08-langgutachten-und-sachentscheidung.md` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
-| `09-ausformuliertes-aussenschreiben.md` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
-| `10-interne-entscheidungsvorlage.md` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `07-entwurf-naechster-schritt.docx` | Entwurf für Antrag, Widerspruch, Klagebaustein oder Strategie |
+| `08-langgutachten-und-sachentscheidung.docx` | Volltextgutachten mit Sachentscheidung, Normprogramm und Risikopunkten |
+| `09-ausformuliertes-aussenschreiben.docx` | Ausformuliertes Schreiben an Behörde, Verband, Gegner oder Anspruchsgegner |
+| `10-interne-entscheidungsvorlage.docx` | Interne Vorlage mit Entscheidungsvorschlag, Red-Team-Fragen und nächsten Schritten |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Passende Plugins
 

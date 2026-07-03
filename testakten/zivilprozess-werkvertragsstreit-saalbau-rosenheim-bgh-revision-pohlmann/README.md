@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 282 KB) | PDF | [`gesamt-pdf/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann_gesamt.pdf`](gesamt-pdf/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 276 KB) | PDF | [`gesamt-pdf/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann_gesamt.pdf`](gesamt-pdf/zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zivilprozess-werkvertragsstreit-saalbau-rosenheim-bgh-revision-pohlmann-einzelpdfs.zip) |
 
@@ -74,28 +74,28 @@ Arbeitsakte zum Plugin `prozessrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-pohlmann-werkvertrag.md`](01-mandatsuebernahme-pohlmann-werkvertrag.md) | Kanzleinotiz Erstgespräch 14.01.2026; Vollmacht; Konfliktstränge; erste Strategie |
-| 02 | [`02-sachverhalt-saalbau-rosenheim.md`](02-sachverhalt-saalbau-rosenheim.md) | Beteiligte, Bauchronologie, Firmenprofil Beklagte, juristische Kernfragen |
-| 03 | [`03-vorprozessuale-korrespondenz.md`](03-vorprozessuale-korrespondenz.md) | Mängelrüge, Fristsetzung, Abmahnung Kanzlei Roosendaal |
-| 04 | [`04-mahnbescheid-vorab.md`](04-mahnbescheid-vorab.md) | Mahnbescheidsantrag AG Coburg; Widerspruch; Abgabe streitiges Verfahren |
-| 05 | [`05-klageschrift-lg-traunstein.md`](05-klageschrift-lg-traunstein.md) | Vollständige Klageschrift mit Anträgen, Sachverhalt, Rechtswürdigung |
-| 06 | [`06-replik-saalbau-rosenheim.md`](06-replik-saalbau-rosenheim.md) | Klageerwiderung Beklagte; AGB-Verteidigung; Klagerücknahme-Anregung |
-| 07 | [`07-duplik-klaegerin-pohlmann.md`](07-duplik-klaegerin-pohlmann.md) | Duplik Klägerin; Widerlegung Bodenbefund; § 307 BGB; Antrag SV-Gutachten |
-| 08 | [`08-beweisbeschluss-sachverstaendigengutachten.md`](08-beweisbeschluss-sachverstaendigengutachten.md) | Beweisbeschluss § 402 ZPO; Befangenheitsantrag § 406 ZPO und Zurückweisung |
-| 09 | [`09-sachverstaendigengutachten-baurat-zeyer.md`](09-sachverstaendigengutachten-baurat-zeyer.md) | Gutachten SV Zeyer; alle 4 Mängel nachgewiesen; Folgemängelkausalität |
-| 10 | [`10-erweiterung-klage-folgemaengel.md`](10-erweiterung-klage-folgemaengel.md) | Klageerweiterung § 264 ZPO; Folgemängelschäden 237.000 EUR beziffert |
-| 11 | [`11-protokoll-muendliche-verhandlung-lg-traunstein.md`](11-protokoll-muendliche-verhandlung-lg-traunstein.md) | Sitzungsprotokoll 18.05.2027; SV-Befragung; Vergleich gescheitert |
-| 12 | [`12-urteil-lg-traunstein-1-o-2188-25.md`](12-urteil-lg-traunstein-1-o-2188-25.md) | LG-Urteil 22.07.2027; 512.300 EUR zugesprochen; Berufung zugelassen |
-| 13 | [`13-berufungsbegruendung-olg-muenchen.md`](13-berufungsbegruendung-olg-muenchen.md) | Berufungsbegründung Klägerin; § 286 ZPO-Rügen; § 520 ZPO |
-| 14 | [`14-berufungserwiderung-saalbau.md`](14-berufungserwiderung-saalbau.md) | Berufungsbegründung Beklagte; § 531 ZPO; Anschlussberufung |
-| 15 | [`15-protokoll-muendliche-verhandlung-olg.md`](15-protokoll-muendliche-verhandlung-olg.md) | OLG-Verhandlung 12.03.2028; Senatshinweis; Fristversäumnis-Rüge zurückgewiesen |
-| 16 | [`16-urteil-olg-muenchen-13-u-417-26.md`](16-urteil-olg-muenchen-13-u-417-26.md) | OLG-Urteil 30.04.2028; 539.650 EUR; Revision zugelassen § 543 ZPO |
-| 17 | [`17-revisionsbegruendung-bgh-vii-zr-2188-26.md`](17-revisionsbegruendung-bgh-vii-zr-2188-26.md) | Revisionsbegründung Beklagte (RA Wollner); § 307 BGB; grundsätzliche Bedeutung |
-| 18 | [`18-revisionserwiderung-saalbau.md`](18-revisionserwiderung-saalbau.md) | Revisionserwiderung Klägerin (RAin Schottmann); BGH VI ZR 79/11; § 310 BGB |
-| 19 | [`19-revisionsverhandlung-bgh-protokoll.md`](19-revisionsverhandlung-bgh-protokoll.md) | BGH-Verhandlung 14.05.2029; Senatshinweis Zurückverweisung; Plädoyers |
-| 20 | [`20-bgh-revisionsurteil-zurueckverweisung.md`](20-bgh-revisionsurteil-zurueckverweisung.md) | BGH-Urteil 10.09.2029; § 563 ZPO; 429.950 EUR rechtskräftig; 109.700 EUR zurückverwiesen |
-| 21 | [`21-zurueckverweisung-strategie-olg.md`](21-zurueckverweisung-strategie-olg.md) | Strategie OLG-Neuverfahren; Individualaushandeln § 305 BGB; § 767 ZPO |
-| 22 | [`22-abschlussvermerk-anwalt.md`](22-abschlussvermerk-anwalt.md) | Abschlussvermerk Roosendaal; Kostenabrechnung; offene Maßnahmen |
+| 01 | [`01-mandatsuebernahme-pohlmann-werkvertrag.docx`](01-mandatsuebernahme-pohlmann-werkvertrag.docx) | Kanzleinotiz Erstgespräch 14.01.2026; Vollmacht; Konfliktstränge; erste Strategie |
+| 02 | [`02-sachverhalt-saalbau-rosenheim.docx`](02-sachverhalt-saalbau-rosenheim.docx) | Beteiligte, Bauchronologie, Firmenprofil Beklagte, juristische Kernfragen |
+| 03 | [`03-vorprozessuale-korrespondenz.docx`](03-vorprozessuale-korrespondenz.docx) | Mängelrüge, Fristsetzung, Abmahnung Kanzlei Roosendaal |
+| 04 | [`04-mahnbescheid-vorab.docx`](04-mahnbescheid-vorab.docx) | Mahnbescheidsantrag AG Coburg; Widerspruch; Abgabe streitiges Verfahren |
+| 05 | [`05-klageschrift-lg-traunstein.docx`](05-klageschrift-lg-traunstein.docx) | Vollständige Klageschrift mit Anträgen, Sachverhalt, Rechtswürdigung |
+| 06 | [`06-replik-saalbau-rosenheim.docx`](06-replik-saalbau-rosenheim.docx) | Klageerwiderung Beklagte; AGB-Verteidigung; Klagerücknahme-Anregung |
+| 07 | [`07-duplik-klaegerin-pohlmann.docx`](07-duplik-klaegerin-pohlmann.docx) | Duplik Klägerin; Widerlegung Bodenbefund; § 307 BGB; Antrag SV-Gutachten |
+| 08 | [`08-beweisbeschluss-sachverstaendigengutachten.docx`](08-beweisbeschluss-sachverstaendigengutachten.docx) | Beweisbeschluss § 402 ZPO; Befangenheitsantrag § 406 ZPO und Zurückweisung |
+| 09 | [`09-sachverstaendigengutachten-baurat-zeyer.docx`](09-sachverstaendigengutachten-baurat-zeyer.docx) | Gutachten SV Zeyer; alle 4 Mängel nachgewiesen; Folgemängelkausalität |
+| 10 | [`10-erweiterung-klage-folgemaengel.docx`](10-erweiterung-klage-folgemaengel.docx) | Klageerweiterung § 264 ZPO; Folgemängelschäden 237.000 EUR beziffert |
+| 11 | [`11-protokoll-muendliche-verhandlung-lg-traunstein.docx`](11-protokoll-muendliche-verhandlung-lg-traunstein.docx) | Sitzungsprotokoll 18.05.2027; SV-Befragung; Vergleich gescheitert |
+| 12 | [`12-urteil-lg-traunstein-1-o-2188-25.docx`](12-urteil-lg-traunstein-1-o-2188-25.docx) | LG-Urteil 22.07.2027; 512.300 EUR zugesprochen; Berufung zugelassen |
+| 13 | [`13-berufungsbegruendung-olg-muenchen.docx`](13-berufungsbegruendung-olg-muenchen.docx) | Berufungsbegründung Klägerin; § 286 ZPO-Rügen; § 520 ZPO |
+| 14 | [`14-berufungserwiderung-saalbau.docx`](14-berufungserwiderung-saalbau.docx) | Berufungsbegründung Beklagte; § 531 ZPO; Anschlussberufung |
+| 15 | [`15-protokoll-muendliche-verhandlung-olg.docx`](15-protokoll-muendliche-verhandlung-olg.docx) | OLG-Verhandlung 12.03.2028; Senatshinweis; Fristversäumnis-Rüge zurückgewiesen |
+| 16 | [`16-urteil-olg-muenchen-13-u-417-26.docx`](16-urteil-olg-muenchen-13-u-417-26.docx) | OLG-Urteil 30.04.2028; 539.650 EUR; Revision zugelassen § 543 ZPO |
+| 17 | [`17-revisionsbegruendung-bgh-vii-zr-2188-26.docx`](17-revisionsbegruendung-bgh-vii-zr-2188-26.docx) | Revisionsbegründung Beklagte (RA Wollner); § 307 BGB; grundsätzliche Bedeutung |
+| 18 | [`18-revisionserwiderung-saalbau.docx`](18-revisionserwiderung-saalbau.docx) | Revisionserwiderung Klägerin (RAin Schottmann); BGH VI ZR 79/11; § 310 BGB |
+| 19 | [`19-revisionsverhandlung-bgh-protokoll.docx`](19-revisionsverhandlung-bgh-protokoll.docx) | BGH-Verhandlung 14.05.2029; Senatshinweis Zurückverweisung; Plädoyers |
+| 20 | [`20-bgh-revisionsurteil-zurueckverweisung.docx`](20-bgh-revisionsurteil-zurueckverweisung.docx) | BGH-Urteil 10.09.2029; § 563 ZPO; 429.950 EUR rechtskräftig; 109.700 EUR zurückverwiesen |
+| 21 | [`21-zurueckverweisung-strategie-olg.docx`](21-zurueckverweisung-strategie-olg.docx) | Strategie OLG-Neuverfahren; Individualaushandeln § 305 BGB; § 767 ZPO |
+| 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk Roosendaal; Kostenabrechnung; offene Maßnahmen |
 
 ---
 

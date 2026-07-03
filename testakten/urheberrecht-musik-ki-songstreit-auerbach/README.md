@@ -30,21 +30,21 @@ Die Akte enthält E-Mails, Chatverläufe, Notizen, Versionstabellen, ein Split-S
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-kanzleinotiz-erstsortierung.md` | Erstsortierung nach Eingang der Unterlagen |
-| `02-songtext-versionen-und-credits.md` | Textfassungen, Credits und Streitpunkte |
-| `03-melodie-hookline-leadsheet.md` | Notierte Hookline, Motive, Zeitcodes und Vergleichsstellen |
-| `04-ki-prompt-outputlog.md` | Promptlog und KI-Output-Workflow |
-| `05-rechtekette-master-publishing.md` | Rechtekette Komposition, Text, Master, Producer, Verlag |
-| `06-abmahnung-sampling-label.md` | Claim Letter eines konkurrierenden Labels |
-| `07-plattform-takedown-streaming.md` | Plattformmeldung und Reaktionsfenster |
-| `08-software-synth-plugin.md` | Synthesizer-Plugin, Code-/GUI-/Preset-Streit |
-| `09-vergleichsnotiz-releasefenster.md` | Vergleichsnotiz zum geplanten Release |
-| `10-sachverstaendigenbriefing-musikvergleich.md` | Briefing für den technischen Musikvergleich |
-| `11-fragenkatalog-ki-anbieter-neuronest.md` | Fragen an KI-Anbieter zu Output, TDM und Trainingsdaten |
-| `12-cue-sheet-und-gema-vorbereitung.md` | Cue-Sheet, Splits und Verwertungsgesellschaften-Vorbereitung |
-| `13-lizenz-und-vergleichsbausteine.md` | Vergleichs- und Release-Duldungsbausteine |
-| `14-open-source-und-plugin-lizenznotiz.md` | Open-Source- und Softwarelizenzfragen zum Synthesizer-Plugin |
-| `15-prozess-und-eilstrategie.md` | Prozess-, Plattform- und Eilstrategie |
+| `01-kanzleinotiz-erstsortierung.docx` | Erstsortierung nach Eingang der Unterlagen |
+| `02-songtext-versionen-und-credits.docx` | Textfassungen, Credits und Streitpunkte |
+| `03-melodie-hookline-leadsheet.docx` | Notierte Hookline, Motive, Zeitcodes und Vergleichsstellen |
+| `04-ki-prompt-outputlog.docx` | Promptlog und KI-Output-Workflow |
+| `05-rechtekette-master-publishing.docx` | Rechtekette Komposition, Text, Master, Producer, Verlag |
+| `06-abmahnung-sampling-label.docx` | Claim Letter eines konkurrierenden Labels |
+| `07-plattform-takedown-streaming.docx` | Plattformmeldung und Reaktionsfenster |
+| `08-software-synth-plugin.docx` | Synthesizer-Plugin, Code-/GUI-/Preset-Streit |
+| `09-vergleichsnotiz-releasefenster.docx` | Vergleichsnotiz zum geplanten Release |
+| `10-sachverstaendigenbriefing-musikvergleich.docx` | Briefing für den technischen Musikvergleich |
+| `11-fragenkatalog-ki-anbieter-neuronest.docx` | Fragen an KI-Anbieter zu Output, TDM und Trainingsdaten |
+| `12-cue-sheet-und-gema-vorbereitung.docx` | Cue-Sheet, Splits und Verwertungsgesellschaften-Vorbereitung |
+| `13-lizenz-und-vergleichsbausteine.docx` | Vergleichs- und Release-Duldungsbausteine |
+| `14-open-source-und-plugin-lizenznotiz.docx` | Open-Source- und Softwarelizenzfragen zum Synthesizer-Plugin |
+| `15-prozess-und-eilstrategie.docx` | Prozess-, Plattform- und Eilstrategie |
 | `mail/` | EML-Mailwechsel mit Label, Verlag, Plattform und KI-Anbieter |
 | `chat/` | Chat-Export aus der Produktion |
 | `tabellen/` | Split-Sheet, Versionen, Hashes, Streaming-Rohdaten |

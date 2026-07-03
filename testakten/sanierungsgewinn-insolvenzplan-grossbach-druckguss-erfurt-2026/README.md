@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 149 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 135 KB) | PDF | [`gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf`](gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026-einzelpdfs.zip) |
 
@@ -80,26 +80,26 @@ Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag v
 sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 ├── README.md                                                            ← Diese Datei
 ├── 00_aktenuebersicht.md
-├── 01_mandatsnotiz_steuerberater_engelmeier.md
-├── 02_insolvenzantrag_schutzschirm_grossbach.md
-├── 03_insolvenzplan_eckpunkte_und_quotenverteilung.md
-├── 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.md
-├── 05_sanierungsertragsberechnung_38_mio_eur.md
-├── 06_verlustvortraege_kst_gewst_steuererklaerung_2025.md
-├── 07_3a_iii_estg_verrechnungsmatrix.md
-├── 08_3a_iv_estg_antrag_finanzamt_erfurt.md
-├── 09_7b_gewstg_parallelantrag_gewerbesteueramt_erfurt.md
-├── 10_finanzamt_erfurt_zwischenstand_und_verbindliche_auskunft_89_ao.md
-├── 11_korrespondenz_engelmeier_zu_spaet_antrag_diskussion.md
-├── 12_fg_koeln_12k1413_25_anwendbarkeit_memo.md
-├── 13_iv_haftung_60_inso_und_steuerberater_haftung.md
+├── 01_mandatsnotiz_steuerberater_engelmeier.docx
+├── 02_insolvenzantrag_schutzschirm_grossbach.docx
+├── 03_insolvenzplan_eckpunkte_und_quotenverteilung.docx
+├── 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.docx
+├── 05_sanierungsertragsberechnung_38_mio_eur.docx
+├── 06_verlustvortraege_kst_gewst_steuererklaerung_2025.docx
+├── 07_3a_iii_estg_verrechnungsmatrix.docx
+├── 08_3a_iv_estg_antrag_finanzamt_erfurt.docx
+├── 09_7b_gewstg_parallelantrag_gewerbesteueramt_erfurt.docx
+├── 10_finanzamt_erfurt_zwischenstand_und_verbindliche_auskunft_89_ao.docx
+├── 11_korrespondenz_engelmeier_zu_spaet_antrag_diskussion.docx
+├── 12_fg_koeln_12k1413_25_anwendbarkeit_memo.docx
+├── 13_iv_haftung_60_inso_und_steuerberater_haftung.docx
 ├── 14_quittungs_und_zahlungsmatrix_steuer_q1-q4_2026.csv
 ├── 15_glaeubigerverzeichnis_und_quoten.csv
-├── 16_strafrechtliche_risiken_steuerhinterziehung.md
-├── 17_szenario_a_kein_steuerlicher_sanierungsgewinn_durch_3a_iii.md
-├── 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.md
-├── 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.md
-└── 20_mandantenbrief_grossbach-an-iv-final.md
+├── 16_strafrechtliche_risiken_steuerhinterziehung.docx
+├── 17_szenario_a_kein_steuerlicher_sanierungsgewinn_durch_3a_iii.docx
+├── 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.docx
+├── 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.docx
+└── 20_mandantenbrief_grossbach-an-iv-final.docx
 ```
 
 ## Quellennachweis (Rechtsnormen und Rechtsprechung)

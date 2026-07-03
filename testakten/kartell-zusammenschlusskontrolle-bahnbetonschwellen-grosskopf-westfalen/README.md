@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 508 KB) | PDF | [`gesamt-pdf/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen_gesamt.pdf`](gesamt-pdf/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 495 KB) | PDF | [`gesamt-pdf/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen_gesamt.pdf`](gesamt-pdf/kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kartell-zusammenschlusskontrolle-bahnbetonschwellen-grosskopf-westfalen-einzelpdfs.zip) |
 
@@ -66,28 +66,28 @@ Arbeitsakte zum Plugin `kartellrecht-marktabgrenzung-pruefung`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_zusammenschluss_grosskopf.md`](01_mandatsannahme_zusammenschluss_grosskopf.md) | Mandatsannahme, Konfliktprüfung, Fusionskontrollpflicht § 35 Abs. 1a GWB |
-| 02 | [`02_beteiligte_marktstruktur.md`](02_beteiligte_marktstruktur.md) | GBW- und TBA-Profil, Marktstruktur, Wettbewerber, Abnehmer, HHI |
-| 03 | [`03_sachliche_marktabgrenzung_bahnschwellen_holzaltern.md`](03_sachliche_marktabgrenzung_bahnschwellen_holzaltern.md) | Drei Abgrenzungshypothesen, Bedarfsmarktkonzept, Holz-/Stahl-/Verbundschwellen |
-| 04 | [`04_ssnip_test_bedarfsmarktkonzept_bgh.md`](04_ssnip_test_bedarfsmarktkonzept_bgh.md) | SSNIP-Test, BGH KZR 39/85, Cellophan-Fallacy, Angebotssubstitution |
-| 05 | [`05_raeumliche_abgrenzung_de_ewr.md`](05_raeumliche_abgrenzung_de_ewr.md) | Nationaler vs. EWR-Markt, Handelsmuster, Preisunterschiede, Zulassungsbarrieren |
-| 06 | [`06_marktanteile_grosskopf_tannenheim_drittwett.md`](06_marktanteile_grosskopf_tannenheim_drittwett.md) | Marktanteilsmatrix DE/EWR, HHI-Analyse, Untermarkt-Segmente |
-| 07 | [`07_marktbeherrschung_par18_gwb_art102_aeuv.md`](07_marktbeherrschung_par18_gwb_art102_aeuv.md) | § 18 GWB, Art. 102 AEUV, Vermutungstatbestand, Countervailing Buyer Power |
-| 08 | [`08_anmeldung_par39_gwb_bkarta_b6_188_26.md`](08_anmeldung_par39_gwb_bkarta_b6_188_26.md) | § 39 GWB, § 37 GWB (Anteilserwerb), Vollständigkeit, Prüffriststart |
-| 09 | [`09_eu_anmeldung_form_co_komm_92188.md`](09_eu_anmeldung_form_co_komm_92188.md) | Art. 22 FKVO, Form CO, Pre-Notification, SIEC-Test |
-| 10 | [`10_phase_i_voranalyse_pruefraster.md`](10_phase_i_voranalyse_pruefraster.md) | Phase-I-Prüfschritte, Marktbefragung, Verteidigungsargumente, Zeitachse |
-| 11 | [`11_phase_ii_hauptverfahren_drohung.md`](11_phase_ii_hauptverfahren_drohung.md) | Phase-II-Eröffnung, Statement of Objections, mündliche Anhörung, Ministererlaubnis |
-| 12 | [`12_bedingungen_auflagen_carve_out_bielefeld.md`](12_bedingungen_auflagen_carve_out_bielefeld.md) | Carve-out Bielefeld, Erwerber Adlerstein, Monitoring Trustee, § 613a BGB |
-| 13 | [`13_drittbeschwerden_db_ag_groessabnehmer.md`](13_drittbeschwerden_db_ag_groessabnehmer.md) | Art. 18 Abs. 4 FKVO, § 54 GWB, DB-Stellungnahme, Reaktionsstrategie |
-| 14 | [`14_bussgeldverfahren_preisabstimmung_par32_gwb.md`](14_bussgeldverfahren_preisabstimmung_par32_gwb.md) | § 1 GWB, § 81 GWB, Art. 101 AEUV, Bußgeldschätzung, Wechselwirkungen |
-| 15 | [`15_kronzeugenregelung_par81e_gwb_strategie.md`](15_kronzeugenregelung_par81e_gwb_strategie.md) | § 81e GWB Vollerlass/Rabatt, ECN+ Art. 17/18, § 33g GWB, § 298 StGB |
-| 16 | [`16_economic_test_vertikaler_horizontaler_zusamm.md`](16_economic_test_vertikaler_horizontaler_zusamm.md) | Horizontalleitlinien, unilateral/koordinierte Effekte, HHI, UPP-Test, Airtours |
-| 17 | [`17_efficiency_defense_par36_gwb.md`](17_efficiency_defense_par36_gwb.md) | § 36 GWB, Art. 2 Abs. 1 lit. b FKVO, FFD-Voraussetzungen, TBA-Krisensymptome |
-| 18 | [`18_ecn_plus_richtlinie_umsetzung.md`](18_ecn_plus_richtlinie_umsetzung.md) | ECN+ RL 2019/1, 10. GWB-Novelle, § 81e/f GWB, nemo tenetur |
-| 19 | [`19_einigung_milestones_und_freigabeszenarien.md`](19_einigung_milestones_und_freigabeszenarien.md) | Verpflichtungsangebot, Markttest, Freigabeszenarien, Bußgeld-Stand |
-| 20 | [`20_kommunikation_oeffentlichkeit_pressemitteilung.md`](20_kommunikation_oeffentlichkeit_pressemitteilung.md) | Pressestrategie, Mitarbeiterkommunikation, DB-Briefing, Betriebsrat § 106 BetrVG |
-| 21 | [`21_chronologie_und_strategie.md`](21_chronologie_und_strategie.md) | Vollständige Zeitachse, strategische Leitlinien, Best/Worst-Case, Kostenprojekt |
-| 22 | [`22_abschluss_handlungsempfehlung.md`](22_abschluss_handlungsempfehlung.md) | Verfahrensergebnis September 2026, Compliance, Schadensersatzrisiken, Integration |
+| 01 | [`01_mandatsannahme_zusammenschluss_grosskopf.docx`](01_mandatsannahme_zusammenschluss_grosskopf.docx) | Mandatsannahme, Konfliktprüfung, Fusionskontrollpflicht § 35 Abs. 1a GWB |
+| 02 | [`02_beteiligte_marktstruktur.docx`](02_beteiligte_marktstruktur.docx) | GBW- und TBA-Profil, Marktstruktur, Wettbewerber, Abnehmer, HHI |
+| 03 | [`03_sachliche_marktabgrenzung_bahnschwellen_holzaltern.docx`](03_sachliche_marktabgrenzung_bahnschwellen_holzaltern.docx) | Drei Abgrenzungshypothesen, Bedarfsmarktkonzept, Holz-/Stahl-/Verbundschwellen |
+| 04 | [`04_ssnip_test_bedarfsmarktkonzept_bgh.docx`](04_ssnip_test_bedarfsmarktkonzept_bgh.docx) | SSNIP-Test, BGH KZR 39/85, Cellophan-Fallacy, Angebotssubstitution |
+| 05 | [`05_raeumliche_abgrenzung_de_ewr.docx`](05_raeumliche_abgrenzung_de_ewr.docx) | Nationaler vs. EWR-Markt, Handelsmuster, Preisunterschiede, Zulassungsbarrieren |
+| 06 | [`06_marktanteile_grosskopf_tannenheim_drittwett.docx`](06_marktanteile_grosskopf_tannenheim_drittwett.docx) | Marktanteilsmatrix DE/EWR, HHI-Analyse, Untermarkt-Segmente |
+| 07 | [`07_marktbeherrschung_par18_gwb_art102_aeuv.docx`](07_marktbeherrschung_par18_gwb_art102_aeuv.docx) | § 18 GWB, Art. 102 AEUV, Vermutungstatbestand, Countervailing Buyer Power |
+| 08 | [`08_anmeldung_par39_gwb_bkarta_b6_188_26.docx`](08_anmeldung_par39_gwb_bkarta_b6_188_26.docx) | § 39 GWB, § 37 GWB (Anteilserwerb), Vollständigkeit, Prüffriststart |
+| 09 | [`09_eu_anmeldung_form_co_komm_92188.docx`](09_eu_anmeldung_form_co_komm_92188.docx) | Art. 22 FKVO, Form CO, Pre-Notification, SIEC-Test |
+| 10 | [`10_phase_i_voranalyse_pruefraster.docx`](10_phase_i_voranalyse_pruefraster.docx) | Phase-I-Prüfschritte, Marktbefragung, Verteidigungsargumente, Zeitachse |
+| 11 | [`11_phase_ii_hauptverfahren_drohung.docx`](11_phase_ii_hauptverfahren_drohung.docx) | Phase-II-Eröffnung, Statement of Objections, mündliche Anhörung, Ministererlaubnis |
+| 12 | [`12_bedingungen_auflagen_carve_out_bielefeld.docx`](12_bedingungen_auflagen_carve_out_bielefeld.docx) | Carve-out Bielefeld, Erwerber Adlerstein, Monitoring Trustee, § 613a BGB |
+| 13 | [`13_drittbeschwerden_db_ag_groessabnehmer.docx`](13_drittbeschwerden_db_ag_groessabnehmer.docx) | Art. 18 Abs. 4 FKVO, § 54 GWB, DB-Stellungnahme, Reaktionsstrategie |
+| 14 | [`14_bussgeldverfahren_preisabstimmung_par32_gwb.docx`](14_bussgeldverfahren_preisabstimmung_par32_gwb.docx) | § 1 GWB, § 81 GWB, Art. 101 AEUV, Bußgeldschätzung, Wechselwirkungen |
+| 15 | [`15_kronzeugenregelung_par81e_gwb_strategie.docx`](15_kronzeugenregelung_par81e_gwb_strategie.docx) | § 81e GWB Vollerlass/Rabatt, ECN+ Art. 17/18, § 33g GWB, § 298 StGB |
+| 16 | [`16_economic_test_vertikaler_horizontaler_zusamm.docx`](16_economic_test_vertikaler_horizontaler_zusamm.docx) | Horizontalleitlinien, unilateral/koordinierte Effekte, HHI, UPP-Test, Airtours |
+| 17 | [`17_efficiency_defense_par36_gwb.docx`](17_efficiency_defense_par36_gwb.docx) | § 36 GWB, Art. 2 Abs. 1 lit. b FKVO, FFD-Voraussetzungen, TBA-Krisensymptome |
+| 18 | [`18_ecn_plus_richtlinie_umsetzung.docx`](18_ecn_plus_richtlinie_umsetzung.docx) | ECN+ RL 2019/1, 10. GWB-Novelle, § 81e/f GWB, nemo tenetur |
+| 19 | [`19_einigung_milestones_und_freigabeszenarien.docx`](19_einigung_milestones_und_freigabeszenarien.docx) | Verpflichtungsangebot, Markttest, Freigabeszenarien, Bußgeld-Stand |
+| 20 | [`20_kommunikation_oeffentlichkeit_pressemitteilung.docx`](20_kommunikation_oeffentlichkeit_pressemitteilung.docx) | Pressestrategie, Mitarbeiterkommunikation, DB-Briefing, Betriebsrat § 106 BetrVG |
+| 21 | [`21_chronologie_und_strategie.docx`](21_chronologie_und_strategie.docx) | Vollständige Zeitachse, strategische Leitlinien, Best/Worst-Case, Kostenprojekt |
+| 22 | [`22_abschluss_handlungsempfehlung.docx`](22_abschluss_handlungsempfehlung.docx) | Verfahrensergebnis September 2026, Compliance, Schadensersatzrisiken, Integration |
 
 ---
 

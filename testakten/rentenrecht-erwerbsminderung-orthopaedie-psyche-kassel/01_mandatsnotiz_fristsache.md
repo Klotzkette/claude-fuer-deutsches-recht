@@ -1,7 +1,0 @@
-# Mandatsnotiz und Fristsache
-
-Mandantin: Sabine Krüger, geboren 14.02.1971, wohnhaft in Kassel-Bettenhausen. Beruf: gelernte Einzelhandelskauffrau, zuletzt Kassiererin und stellvertretende Schichtleitung in einem Baumarkt. Arbeitsunfähig seit 18.09.2025. Krankengeld läuft voraussichtlich bis 03.03.2027. Antrag auf Rente wegen Erwerbsminderung gestellt am 12.03.2026. Ablehnungsbescheid der DRV Hessen vom 19.06.2026, Zugang am 24.06.2026. Widerspruchsfrist bis 24.07.2026.
-
-Gesundheitliche Themen: Lendenwirbelsäulenstenose L4/L5, chronisches Schmerzsyndrom, depressive Episode mittelgradig, Schlafstörungen durch Schmerzen, Adipositas Grad I, beginnende Polyneuropathie. Reha Bad Zwesten vom 08.04. bis 29.04.2026. Reha-Entlassungsbericht: leichte bis mittelschwere Tätigkeiten sechs Stunden und mehr, keine schweren Lasten, kein dauerndes Stehen. Behandelnder Orthopäde hält bereits Sitzen über 30 Minuten und Stehen über 20 Minuten für problematisch. Psychotherapeutin berichtet über Rückzug, Antriebseinbruch und Konzentrationsdefizite.
-
-Ziel: Fristwahrender Widerspruch mit Akteneinsicht, danach substantiierte Begründung. Wichtig ist nicht nur Diagnose, sondern funktionelles Leistungsbild: Wegefähigkeit, Pausenbedarf, Wechselhaltung, Konzentration, Publikumsverkehr, Kassentätigkeit, realistische Umstellbarkeit. Mandantin ist erschöpft und beantwortet lange Fragen unzuverlässig; Informationen besser über kurze Telefonate und vorhandene Unterlagen sichern.

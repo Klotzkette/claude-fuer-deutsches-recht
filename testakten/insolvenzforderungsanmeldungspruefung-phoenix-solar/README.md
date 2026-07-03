@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 223 KB) | PDF | [`gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf`](gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 185 KB) | PDF | [`gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf`](gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar-einzelpdfs.zip) |
 
@@ -79,24 +79,24 @@ Im Prüfungstermin erhob der Schuldner Wendler **Widerspruch** gegen zwei Forder
 
 | Datei | Inhalt |
 |---|---|
-| [01_gerichtsbeschluss_anmeldefrist.md](01_gerichtsbeschluss_anmeldefrist.md) | Eröffnungsbeschluss AG Potsdam mit Anmeldefrist, Insolvenzverwalterbestellung, Prüfungstermin |
+| [01_gerichtsbeschluss_anmeldefrist.docx](01_gerichtsbeschluss_anmeldefrist.docx) | Eröffnungsbeschluss AG Potsdam mit Anmeldefrist, Insolvenzverwalterbestellung, Prüfungstermin |
 | [02_glaeubigerliste_export.csv](02_glaeubigerliste_export.csv) | Gläubigerliste 25+ Einträge: ID, Name, Anschrift, Vertreter, Kontonummer, Betrag, Bemerkung |
-| [03_eingangsstapel_forderungsanmeldungen.md](03_eingangsstapel_forderungsanmeldungen.md) | Vermerk über 31 Eingänge nach Fristablauf; Tabelle, Prüfungsbefunde, Dubletten, Verspätung |
-| [04_anmeldung_lieferant_solarteile.md](04_anmeldung_lieferant_solarteile.md) | Vollständige Forderungsanmeldung Solarteile Nord GmbH: 5 Rechnungen, EV, Zinsstreit, OPOS-Problem, Schuldnerwiderspruch |
-| [05_anmeldung_bank_darlehen_sicherheit.md](05_anmeldung_bank_darlehen_sicherheit.md) | Havelbank AG: Darlehen 150.000 EUR, Sicherungsübereignung, fehlende Bewertung, Zinsstreit |
-| [06_anmeldung_finanzamt_steuer.md](06_anmeldung_finanzamt_steuer.md) | Finanzamt Potsdam: USt, LSt, Vorsteuerberichtigung § 17 UStG, besonderer Rechtsgrund Steuerstraftat |
-| [07_anmeldung_krankenkasse_sv.md](07_anmeldung_krankenkasse_sv.md) | BKK Handwerk Mitte: SV-Beiträge Feb.–April 2026, Abgrenzung Insolvenz/Masse, Insolvenzgeld |
-| [08_anmeldung_arbeitnehmer_lohn_vbuh.md](08_anmeldung_arbeitnehmer_lohn_vbuh.md) | Lena Vogt: Lohn März/April, Schmerzensgeld, vbuH-Ankreuzung ohne Tatsachenbasis, Widerspruch Schuldner |
-| [09_anmeldung_gesellschafterdarlehen_nachrang.md](09_anmeldung_gesellschafterdarlehen_nachrang.md) | Gründerkreis Phoenix GbR: Gesellschafterdarlehen, Nachrang § 39 InsO, Argument bankähnliche Verzinsung, BGH-Rspr. |
-| [10_anmeldung_vermieter_miete_schaden.md](10_anmeldung_vermieter_miete_schaden.md) | Gewerbepark Babelsberg GmbH: Miete April–Juni 2026, Abgrenzung Masse/Insolvenz, Hallentor-Schadensersatz |
+| [03_eingangsstapel_forderungsanmeldungen.docx](03_eingangsstapel_forderungsanmeldungen.docx) | Vermerk über 31 Eingänge nach Fristablauf; Tabelle, Prüfungsbefunde, Dubletten, Verspätung |
+| [04_anmeldung_lieferant_solarteile.docx](04_anmeldung_lieferant_solarteile.docx) | Vollständige Forderungsanmeldung Solarteile Nord GmbH: 5 Rechnungen, EV, Zinsstreit, OPOS-Problem, Schuldnerwiderspruch |
+| [05_anmeldung_bank_darlehen_sicherheit.docx](05_anmeldung_bank_darlehen_sicherheit.docx) | Havelbank AG: Darlehen 150.000 EUR, Sicherungsübereignung, fehlende Bewertung, Zinsstreit |
+| [06_anmeldung_finanzamt_steuer.docx](06_anmeldung_finanzamt_steuer.docx) | Finanzamt Potsdam: USt, LSt, Vorsteuerberichtigung § 17 UStG, besonderer Rechtsgrund Steuerstraftat |
+| [07_anmeldung_krankenkasse_sv.docx](07_anmeldung_krankenkasse_sv.docx) | BKK Handwerk Mitte: SV-Beiträge Feb.–April 2026, Abgrenzung Insolvenz/Masse, Insolvenzgeld |
+| [08_anmeldung_arbeitnehmer_lohn_vbuh.docx](08_anmeldung_arbeitnehmer_lohn_vbuh.docx) | Lena Vogt: Lohn März/April, Schmerzensgeld, vbuH-Ankreuzung ohne Tatsachenbasis, Widerspruch Schuldner |
+| [09_anmeldung_gesellschafterdarlehen_nachrang.docx](09_anmeldung_gesellschafterdarlehen_nachrang.docx) | Gründerkreis Phoenix GbR: Gesellschafterdarlehen, Nachrang § 39 InsO, Argument bankähnliche Verzinsung, BGH-Rspr. |
+| [10_anmeldung_vermieter_miete_schaden.docx](10_anmeldung_vermieter_miete_schaden.docx) | Gewerbepark Babelsberg GmbH: Miete April–Juni 2026, Abgrenzung Masse/Insolvenz, Hallentor-Schadensersatz |
 | [11_zinsberechnung_streit.csv](11_zinsberechnung_streit.csv) | Zinsberechnungsstreit 8–10 Posten: Gläubiger, Zeitraum, Zinssatz, angemeldet, korrekt, Problem |
 | [12_dublettenverdacht_serienrechnung.csv](12_dublettenverdacht_serienrechnung.csv) | Dubletten 5–6 Einträge: Datei, Gläubiger, Rechnungsnummer, Betrag, Upload, Befund |
-| [13_nachforderungsschreiben_entwurf.md](13_nachforderungsschreiben_entwurf.md) | 5 Nachforderungsschreiben: Havelbank, FA Potsdam, BKK, Lena Vogt, Gewerbepark Babelsberg |
+| [13_nachforderungsschreiben_entwurf.docx](13_nachforderungsschreiben_entwurf.docx) | 5 Nachforderungsschreiben: Havelbank, FA Potsdam, BKK, Lena Vogt, Gewerbepark Babelsberg |
 | [14_pruefungstabelle_arbeitsstand.csv](14_pruefungstabelle_arbeitsstand.csv) | Prüfungstabelle 20+ Zeilen: IFAP-Nr., Gläubiger, Betrag, Feststellung, Bestreiten, Rang, Streitpunkt |
-| [15_pruefungsterminmappe.md](15_pruefungsterminmappe.md) | Prüfungsterminmappe: Übersichtstabelle, streitige Punkte, Checkliste, Teilnehmer |
-| [16_widerspruch_schuldner.md](16_widerspruch_schuldner.md) | Schuldnerwiderspruch Prüfungstermin: Protokollauszug, Widersprüche Wendler + IV, Feststellungsklage-Fristen |
-| [17_feststellungsklage_nachlauf.md](17_feststellungsklage_nachlauf.md) | Streitnachlauf: Übersicht Klagepflichten, Feststellungsklage-Entwurf Solarteile Nord GmbH, Titelumkehr Havelbank |
-| [18_verteilung_189_szenario.md](18_verteilung_189_szenario.md) | § 189-Verteilungsszenario: Masseberechnung, Absonderung, Rückbehalt, Abschlagsquote 1,36 % |
+| [15_pruefungsterminmappe.docx](15_pruefungsterminmappe.docx) | Prüfungsterminmappe: Übersichtstabelle, streitige Punkte, Checkliste, Teilnehmer |
+| [16_widerspruch_schuldner.docx](16_widerspruch_schuldner.docx) | Schuldnerwiderspruch Prüfungstermin: Protokollauszug, Widersprüche Wendler + IV, Feststellungsklage-Fristen |
+| [17_feststellungsklage_nachlauf.docx](17_feststellungsklage_nachlauf.docx) | Streitnachlauf: Übersicht Klagepflichten, Feststellungsklage-Entwurf Solarteile Nord GmbH, Titelumkehr Havelbank |
+| [18_verteilung_189_szenario.docx](18_verteilung_189_szenario.docx) | § 189-Verteilungsszenario: Masseberechnung, Absonderung, Rückbehalt, Abschlagsquote 1,36 % |
 | [20_forderungsanmeldung_lieferant.docx](20_forderungsanmeldung_lieferant.docx) | DOCX: Musterformular Forderungsanmeldung Solarteile Nord GmbH |
 | [21_forderungsanmeldung_bank.docx](21_forderungsanmeldung_bank.docx) | DOCX: Musterformular Forderungsanmeldung Havelbank AG |
 | [22_feststellungsklage_entwurf.docx](22_feststellungsklage_entwurf.docx) | DOCX: Feststellungsklageschrift Solarteile Nord GmbH gegen Marcus Wendler |

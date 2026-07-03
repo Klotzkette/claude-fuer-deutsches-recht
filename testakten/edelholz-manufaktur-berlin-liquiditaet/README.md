@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 251 KB) | PDF | [`gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf`](gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 315 KB) | PDF | [`gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf`](gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-edelholz-manufaktur-berlin-liquiditaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-edelholz-manufaktur-berlin-liquiditaet-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet-einzelpdfs.zip) |
 

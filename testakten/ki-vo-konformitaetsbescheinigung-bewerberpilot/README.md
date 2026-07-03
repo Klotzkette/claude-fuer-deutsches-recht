@@ -36,21 +36,21 @@ Die Anbieterin hat das System als Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang
 
 | Datei | Inhalt |
 |---|---|
-| `01_systembeschreibung_bewerberpilot.md` | Produkt, Zweckbestimmung, Rollen und Einsatzgrenzen |
-| `02_art_3_und_art_6_vermerk.md` | KI-System- und Hochrisiko-Einstufung |
-| `03_risikomanagement_art_9_register.md` | Risikoregister und Maßnahmen |
-| `04_daten_governance_bias_test_art_10.md` | Datensatz-, Bias- und Qualitätsvermerk |
-| `05_technische_dokumentation_anhang_iv_index.md` | Index zur technischen Dokumentation |
-| `06_human_oversight_logging_art_12_14.md` | Logging und menschliche Aufsicht |
-| `07_konformitaetsbewertung_art_43_checkliste.md` | Konformitätsbewertungspfad |
-| `08_konformitaetsbescheinigung_entwurf.md` | Interne Bescheinigung als Entwurf |
-| `09_eu_konformitaetserklaerung_anhang_v_entwurf.md` | EU-Konformitätserklärung als Entwurf |
-| `10_lueckenliste_massnahmenplan.md` | Maßnahmenplan bis Pilotfreigabe |
-| `11_eu_konformitaetserklaerung_unterzeichnungsentwurf.md` | Präzisierter Unterzeichnungsentwurf der EU-Konformitätserklärung mit Begleitnotiz |
-| `12_datenschutzfolgenabschaetzung.md` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO |
-| `13_bias_audit_bericht.md` | Bias-Auditbericht der FairnessLab GmbH mit Massnahmen |
-| `14_konfigurations_logfile_auszug.md` | Konfigurations- und Logfile-Auszug für Pilotzeitraum |
-| `15_bewerber_beschwerde.md` | Bewerber-Beschwerde COMP-2026-0411 mit Pruefung |
+| `01_systembeschreibung_bewerberpilot.docx` | Produkt, Zweckbestimmung, Rollen und Einsatzgrenzen |
+| `02_art_3_und_art_6_vermerk.docx` | KI-System- und Hochrisiko-Einstufung |
+| `03_risikomanagement_art_9_register.docx` | Risikoregister und Maßnahmen |
+| `04_daten_governance_bias_test_art_10.docx` | Datensatz-, Bias- und Qualitätsvermerk |
+| `05_technische_dokumentation_anhang_iv_index.docx` | Index zur technischen Dokumentation |
+| `06_human_oversight_logging_art_12_14.docx` | Logging und menschliche Aufsicht |
+| `07_konformitaetsbewertung_art_43_checkliste.docx` | Konformitätsbewertungspfad |
+| `08_konformitaetsbescheinigung_entwurf.docx` | Interne Bescheinigung als Entwurf |
+| `09_eu_konformitaetserklaerung_anhang_v_entwurf.docx` | EU-Konformitätserklärung als Entwurf |
+| `10_lueckenliste_massnahmenplan.docx` | Maßnahmenplan bis Pilotfreigabe |
+| `11_eu_konformitaetserklaerung_unterzeichnungsentwurf.docx` | Präzisierter Unterzeichnungsentwurf der EU-Konformitätserklärung mit Begleitnotiz |
+| `12_datenschutzfolgenabschaetzung.docx` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO |
+| `13_bias_audit_bericht.docx` | Bias-Auditbericht der FairnessLab GmbH mit Massnahmen |
+| `14_konfigurations_logfile_auszug.docx` | Konfigurations- und Logfile-Auszug für Pilotzeitraum |
+| `15_bewerber_beschwerde.docx` | Bewerber-Beschwerde COMP-2026-0411 mit Pruefung |
 
 ## Vorführziele
 

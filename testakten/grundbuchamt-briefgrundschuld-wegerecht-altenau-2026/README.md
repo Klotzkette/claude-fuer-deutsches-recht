@@ -26,15 +26,15 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-aktenvermerk-grundbuchlage.md` | Aktenstück |
-| `02-grundbuchauszug-arbeitsabschrift.md` | Aktenstück |
-| `03-zwischenverfuegung-grundbuchamt.md` | Aktenstück |
+| `01-aktenvermerk-grundbuchlage.docx` | Aktenstück |
+| `02-grundbuchauszug-arbeitsabschrift.docx` | Aktenstück |
+| `03-zwischenverfuegung-grundbuchamt.docx` | Aktenstück |
 | `04-bankmail-brief-fehlt.eml` | E-Mail |
 | `05-wegerecht-fotozufahrt.jpg` | Bildanlage |
 | `06-vollzug-und-ranglog.xlsx` | Excel-Arbeitsblatt |
 | `07-entwurf-aufgebotsantrag.docx` | Word-Entwurf |
 | `08-kaufvertragsauszug-faelligkeit.pdf` | PDF-Anlage |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Gesamt-PDF
 

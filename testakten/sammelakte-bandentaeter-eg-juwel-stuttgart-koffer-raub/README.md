@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 626 KB) | PDF | [`gesamt-pdf/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub_gesamt.pdf`](gesamt-pdf/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 617 KB) | PDF | [`gesamt-pdf/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub_gesamt.pdf`](gesamt-pdf/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub-einzelpdfs.zip) |
 
@@ -65,28 +65,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_aktenaufnahme_initial_strukturierung.md`](01_aktenaufnahme_initial_strukturierung.md) | Mandatsuebernahme, Verfahrenschronologie, Strukturierung |
-| 02 | [`02_beweismittelverzeichnis_zeugen_spuren_fza_dna.md`](02_beweismittelverzeichnis_zeugen_spuren_fza_dna.md) | Zeugen, Spurenakten, FZA, DNA-Treffer |
-| 03 | [`03_encrochat_skyecc_bandenstruktur_verwertbarkeit.md`](03_encrochat_skyecc_bandenstruktur_verwertbarkeit.md) | EncroChat-Verwertbarkeit BGH 5 StR 457/21, Bandenstruktur |
-| 04 | [`04_tkue_protokolle_auswertung.md`](04_tkue_protokolle_auswertung.md) | TKUe-Anordnungen, 163 tatrelevante Gespräche, Widersprüche |
-| 05 | [`05_observationsberichte_korbiel_vor_tat.md`](05_observationsberichte_korbiel_vor_tat.md) | 21-Tage-Observation, § 163f StPO, 487 Lichtbilder |
-| 06 | [`06_videoaufzeichnungen_koenigstrasse_auswertung.md`](06_videoaufzeichnungen_koenigstrasse_auswertung.md) | Stadtcam + Cafe Westermann, Identifizierungsgrade |
-| 07 | [`07_geldwaesche_btc_hawala_transaktionen.md`](07_geldwaesche_btc_hawala_transaktionen.md) | BTC-Chain-Analysis, Hawala, Einziehung § 73 StGB |
-| 08 | [`08_akteneinsicht_147_stpo_protokoll.md`](08_akteneinsicht_147_stpo_protokoll.md) | Akteneinsichtsprotokoll, Verweigerung SB ECC, Beschwerde |
-| 09 | [`09_beweisantragsskizzen_konfrontationsstrategie.md`](09_beweisantragsskizzen_konfrontationsstrategie.md) | BA-01 bis BA-09, Konfrontationsplan, HV-Zeitplan |
-| 10 | [`10_verstaendigung_257c_stpo_krasniqi.md`](10_verstaendigung_257c_stpo_krasniqi.md) | § 257c StPO, Sondierungsgespraech, Konfliktpunkte |
-| 11 | [`11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.md`](11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.md) | Schwangerschaft, § 116 StPO, Blerim-Kindeswohlfolgen |
-| 12 | [`12_internationale_rechtshilfe_polen_rumaenien.md`](12_internationale_rechtshilfe_polen_rumaenien.md) | IRG, EuHb, Interpol Red Notice Iordache, Vorstrafen Korbiel |
-| 13 | [`13_sicherstellung_verwertungsverfahren_111_stpo.md`](13_sicherstellung_verwertungsverfahren_111_stpo.md) | § 111b StPO, Goldbarren, BTC-Wallets, § 76a StGB |
-| 14 | [`14_nebenklage_adhaesionsverfahren_403_stpo.md`](14_nebenklage_adhaesionsverfahren_403_stpo.md) | § 403 StPO, Schmerzensgeld, Adhäsionsanträge |
-| 15 | [`15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md`](15_sachverstaendiger_aussagepsychologie_gegenueberstellung.md) | CBCA-Analyse, Lineup-Validität, Sternkopf-Vorentwurf |
-| 16 | [`16_plaedoyer_vorbereitung_strafzumessung.md`](16_plaedoyer_vorbereitung_strafzumessung.md) | § 46 StGB, Strafzumessungs-Tabelle, Szenarien |
-| 17 | [`17_sicherungs_beschlagnahme_goldbarren_drebenstedt.md`](17_sicherungs_beschlagnahme_goldbarren_drebenstedt.md) | Goldbarren-Streit, § 73a StGB, Beschwerde Steinbach |
-| 18 | [`18_ki_beweis_index_und_datenbanken.md`](18_ki_beweis_index_und_datenbanken.md) | KI-Beweis-Index, digitale Aktenaufbereitung, Risikomodell |
-| 19 | [`19_zeugenmatrix_vollstandig.md`](19_zeugenmatrix_vollstandig.md) | Kreuztabelle 18 Zeugen x 6 Tatbestandselemente |
-| 20 | [`20_risikoanalyse_verfahrensstrategien.md`](20_risikoanalyse_verfahrensstrategien.md) | Risikograde, Optionen A/B pro Beschuldigtem |
-| 21 | [`21_haftpruefung_haftfortdauer_beschluesse.md`](21_haftpruefung_haftfortdauer_beschluesse.md) | Haftbefehle, Chronologie, § 121 StPO OLG-Vorlage |
-| 22 | [`22_verfahrensstand_abschluss_ausblick.md`](22_verfahrensstand_abschluss_ausblick.md) | Gesamtstand, HV-Zeitachse, Aktenübersicht |
+| 01 | [`01_aktenaufnahme_initial_strukturierung.docx`](01_aktenaufnahme_initial_strukturierung.docx) | Mandatsuebernahme, Verfahrenschronologie, Strukturierung |
+| 02 | [`02_beweismittelverzeichnis_zeugen_spuren_fza_dna.docx`](02_beweismittelverzeichnis_zeugen_spuren_fza_dna.docx) | Zeugen, Spurenakten, FZA, DNA-Treffer |
+| 03 | [`03_encrochat_skyecc_bandenstruktur_verwertbarkeit.docx`](03_encrochat_skyecc_bandenstruktur_verwertbarkeit.docx) | EncroChat-Verwertbarkeit BGH 5 StR 457/21, Bandenstruktur |
+| 04 | [`04_tkue_protokolle_auswertung.docx`](04_tkue_protokolle_auswertung.docx) | TKUe-Anordnungen, 163 tatrelevante Gespräche, Widersprüche |
+| 05 | [`05_observationsberichte_korbiel_vor_tat.docx`](05_observationsberichte_korbiel_vor_tat.docx) | 21-Tage-Observation, § 163f StPO, 487 Lichtbilder |
+| 06 | [`06_videoaufzeichnungen_koenigstrasse_auswertung.docx`](06_videoaufzeichnungen_koenigstrasse_auswertung.docx) | Stadtcam + Cafe Westermann, Identifizierungsgrade |
+| 07 | [`07_geldwaesche_btc_hawala_transaktionen.docx`](07_geldwaesche_btc_hawala_transaktionen.docx) | BTC-Chain-Analysis, Hawala, Einziehung § 73 StGB |
+| 08 | [`08_akteneinsicht_147_stpo_protokoll.docx`](08_akteneinsicht_147_stpo_protokoll.docx) | Akteneinsichtsprotokoll, Verweigerung SB ECC, Beschwerde |
+| 09 | [`09_beweisantragsskizzen_konfrontationsstrategie.docx`](09_beweisantragsskizzen_konfrontationsstrategie.docx) | BA-01 bis BA-09, Konfrontationsplan, HV-Zeitplan |
+| 10 | [`10_verstaendigung_257c_stpo_krasniqi.docx`](10_verstaendigung_257c_stpo_krasniqi.docx) | § 257c StPO, Sondierungsgespraech, Konfliktpunkte |
+| 11 | [`11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.docx`](11_sonderakte_krasniqi_mutterschutz_vollzugslockerung.docx) | Schwangerschaft, § 116 StPO, Blerim-Kindeswohlfolgen |
+| 12 | [`12_internationale_rechtshilfe_polen_rumaenien.docx`](12_internationale_rechtshilfe_polen_rumaenien.docx) | IRG, EuHb, Interpol Red Notice Iordache, Vorstrafen Korbiel |
+| 13 | [`13_sicherstellung_verwertungsverfahren_111_stpo.docx`](13_sicherstellung_verwertungsverfahren_111_stpo.docx) | § 111b StPO, Goldbarren, BTC-Wallets, § 76a StGB |
+| 14 | [`14_nebenklage_adhaesionsverfahren_403_stpo.docx`](14_nebenklage_adhaesionsverfahren_403_stpo.docx) | § 403 StPO, Schmerzensgeld, Adhäsionsanträge |
+| 15 | [`15_sachverstaendiger_aussagepsychologie_gegenueberstellung.docx`](15_sachverstaendiger_aussagepsychologie_gegenueberstellung.docx) | CBCA-Analyse, Lineup-Validität, Sternkopf-Vorentwurf |
+| 16 | [`16_plaedoyer_vorbereitung_strafzumessung.docx`](16_plaedoyer_vorbereitung_strafzumessung.docx) | § 46 StGB, Strafzumessungs-Tabelle, Szenarien |
+| 17 | [`17_sicherungs_beschlagnahme_goldbarren_drebenstedt.docx`](17_sicherungs_beschlagnahme_goldbarren_drebenstedt.docx) | Goldbarren-Streit, § 73a StGB, Beschwerde Steinbach |
+| 18 | [`18_ki_beweis_index_und_datenbanken.docx`](18_ki_beweis_index_und_datenbanken.docx) | KI-Beweis-Index, digitale Aktenaufbereitung, Risikomodell |
+| 19 | [`19_zeugenmatrix_vollstandig.docx`](19_zeugenmatrix_vollstandig.docx) | Kreuztabelle 18 Zeugen x 6 Tatbestandselemente |
+| 20 | [`20_risikoanalyse_verfahrensstrategien.docx`](20_risikoanalyse_verfahrensstrategien.docx) | Risikograde, Optionen A/B pro Beschuldigtem |
+| 21 | [`21_haftpruefung_haftfortdauer_beschluesse.docx`](21_haftpruefung_haftfortdauer_beschluesse.docx) | Haftbefehle, Chronologie, § 121 StPO OLG-Vorlage |
+| 22 | [`22_verfahrensstand_abschluss_ausblick.docx`](22_verfahrensstand_abschluss_ausblick.docx) | Gesamtstand, HV-Zeitachse, Aktenübersicht |
 
 ---
 

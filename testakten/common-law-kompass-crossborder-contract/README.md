@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 83 KB) | PDF | [`gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf`](gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 61 KB) | PDF | [`gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf`](gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-common-law-kompass-crossborder-contract-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract-einzelpdfs.zip) |
 
@@ -72,13 +72,13 @@ Die Verhandlungen sind durch fundamentale Meinungsverschiedenheiten über das an
 
 | Datei | Format | Inhalt |
 |---|---|---|
-| [01_mandantenbriefing.md](01_mandantenbriefing.md) | Markdown | Ausführliches Mandantenbriefing: Sachverhalt, Mandantenziele, Hintergrund Geschäftsbeziehung, rechtliche Risikohinweise, Auftrag (ca. 1.700 Wörter) |
-| [02_bilingual_draft_excerpt.md](02_bilingual_draft_excerpt.md) | Markdown | Bilingualer Vertragsauszug: 5 ausformulierte Klauseln (Governing Law, Dispute Resolution, Indemnification, Limitation of Liability, Force Majeure) – DE \| EN nebeneinander in Tabellen |
+| [01_mandantenbriefing.docx](01_mandantenbriefing.docx) | Markdown | Ausführliches Mandantenbriefing: Sachverhalt, Mandantenziele, Hintergrund Geschäftsbeziehung, rechtliche Risikohinweise, Auftrag (ca. 1.700 Wörter) |
+| [02_bilingual_draft_excerpt.docx](02_bilingual_draft_excerpt.docx) | Markdown | Bilingualer Vertragsauszug: 5 ausformulierte Klauseln (Governing Law, Dispute Resolution, Indemnification, Limitation of Liability, Force Majeure) – DE \| EN nebeneinander in Tabellen |
 | [02_bilingual_draft_excerpt.docx](02_bilingual_draft_excerpt.docx) | DOCX | Druckversion des bilinguale Vertragsauszugs als Word-Dokument |
-| [03_term_sheet_delaware_english_law.md](03_term_sheet_delaware_english_law.md) | Markdown | Vergleichsmatrix 20 Punkte: Delaware/NY Law vs. English Law vs. Deutsches Recht – tabellarisch mit Bewertung |
+| [03_term_sheet_delaware_english_law.docx](03_term_sheet_delaware_english_law.docx) | Markdown | Vergleichsmatrix 20 Punkte: Delaware/NY Law vs. English Law vs. Deutsches Recht – tabellarisch mit Bewertung |
 | [03_term_sheet_delaware_english_law.docx](03_term_sheet_delaware_english_law.docx) | DOCX | Druckversion Term Sheet als Word-Dokument |
-| [04_false_friends_notes.md](04_false_friends_notes.md) | Markdown | 25 False Friends DE/EN erklärt mit Rechtsvergleich und Praxisbeispielen; Zusammenfassungstabelle |
-| [05_email_opposing_counsel.md](05_email_opposing_counsel.md) | Markdown | 3 Verhandlungs-E-Mails (Englisch) mit deutschen Begleitnotizen: Erster Kommentar Gegenseite → Antwort Brandt → Einigung Schiedsklausel |
+| [04_false_friends_notes.docx](04_false_friends_notes.docx) | Markdown | 25 False Friends DE/EN erklärt mit Rechtsvergleich und Praxisbeispielen; Zusammenfassungstabelle |
+| [05_email_opposing_counsel.docx](05_email_opposing_counsel.docx) | Markdown | 3 Verhandlungs-E-Mails (Englisch) mit deutschen Begleitnotizen: Erster Kommentar Gegenseite → Antwort Brandt → Einigung Schiedsklausel |
 
 ---
 

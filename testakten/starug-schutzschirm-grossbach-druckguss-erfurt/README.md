@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 997 KB) | PDF | [`gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf`](gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 988 KB) | PDF | [`gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf`](gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-starug-schutzschirm-grossbach-druckguss-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-schutzschirm-grossbach-druckguss-erfurt-einzelpdfs.zip) |
 
@@ -67,28 +67,28 @@ RA Dr. Maximilian Drosselberg, Fachanwalt für Insolvenz- und Sanierungsrecht
 ```
 starug-schutzschirm-grossbach-druckguss-erfurt/
 ├── README.md                              ← Diese Datei
-├── 01_mandatsgrundlage.md
-├── 02_erstberatungsnotiz.md
-├── 03_schutzschirmantrag_vorbereitung.md
-├── 04_idw_s6_bericht_auszug.md
-├── 05_starug_plan_entwurf.md
-├── 06_restrukturierungssache_anzeige.md
-├── 07_glaeubigerverhandlung_notizen.md
-├── 08_sparkasse_verhandlung_protokoll.md
-├── 09_anfechtungsklage_friedhelm.md
-├── 10_anfechtungsklage_bertha_bonus.md
-├── 11_krypto_verwertungsstrategie.md
-├── 12_glaeubigerantrag_magnesium_voss.md
-├── 13_fristenkalender.md
-├── 14_strategie_memorandum.md
-├── 15_kanzleinotizen_intern.md
-├── 16_korrespondenz_aluminium_stade.md
-├── 17_liquiditaetsanalyse.md
-├── 18_siemens_vertragsstrafe_risiko.md
-├── 19_schutzschirmverwalter_bericht.md
-├── 20_rueckzahlung_gesellschafterdarlehen.md
-├── 21_glaeubigerausschuss_protokoll.md
-├── 22_abschluss_zusammenfassung.md
+├── 01_mandatsgrundlage.docx
+├── 02_erstberatungsnotiz.docx
+├── 03_schutzschirmantrag_vorbereitung.docx
+├── 04_idw_s6_bericht_auszug.docx
+├── 05_starug_plan_entwurf.docx
+├── 06_restrukturierungssache_anzeige.docx
+├── 07_glaeubigerverhandlung_notizen.docx
+├── 08_sparkasse_verhandlung_protokoll.docx
+├── 09_anfechtungsklage_friedhelm.docx
+├── 10_anfechtungsklage_bertha_bonus.docx
+├── 11_krypto_verwertungsstrategie.docx
+├── 12_glaeubigerantrag_magnesium_voss.docx
+├── 13_fristenkalender.docx
+├── 14_strategie_memorandum.docx
+├── 15_kanzleinotizen_intern.docx
+├── 16_korrespondenz_aluminium_stade.docx
+├── 17_liquiditaetsanalyse.docx
+├── 18_siemens_vertragsstrafe_risiko.docx
+├── 19_schutzschirmverwalter_bericht.docx
+├── 20_rueckzahlung_gesellschafterdarlehen.docx
+├── 21_glaeubigerausschuss_protokoll.docx
+├── 22_abschluss_zusammenfassung.docx
 ├── docx/
 │   ├── schutzschirmantrag_ag_erfurt.docx
 │   ├── starug_anzeige_restrukturierungssache.docx

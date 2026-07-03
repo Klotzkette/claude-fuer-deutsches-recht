@@ -22,9 +22,9 @@ Nordstern MedTech GmbH kündigt einer langjährigen Handelsvertreteragentur nach
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-arbeitsauftrag.md` | Erste Lage, Personen, Ziel und offene Fragen |
-| `02-zeitstrahl-und-fristen.md` | Chronologie mit Entscheidungs- und Eskalationspunkten |
-| `03-prueffragen-fuer-erstgespraech.md` | Katalog für das erste strukturierte Gespräch |
+| `01-mandatsnotiz-und-arbeitsauftrag.docx` | Erste Lage, Personen, Ziel und offene Fragen |
+| `02-zeitstrahl-und-fristen.docx` | Chronologie mit Entscheidungs- und Eskalationspunkten |
+| `03-prueffragen-fuer-erstgespraech.docx` | Katalog für das erste strukturierte Gespräch |
 | `04-handelsvertretervertrag-auszug.docx` | Auszug Handelsvertretervertrag |
 | `05-provisionsabrechnung-und-buchauszug-luecken.xlsx` | Provisionsabrechnung und Buchauszugslücken |
 | `06-statuscheck-paragraph-84-hgb.pdf` | Statuscheck § 84 HGB |
@@ -37,12 +37,12 @@ Nordstern MedTech GmbH kündigt einer langjährigen Handelsvertreteragentur nach
 | `13-vergleichsentwurf.docx` | Vergleichsentwurf Arbeitsstand |
 | `14-kartellrecht-vertikal-vermerk.pdf` | Vermerk Onlinevertrieb und Kartellrecht |
 | `15-email-crm-export.eml` | CRM-Export mit Datenschutzbedenken |
-| `16-beweisliste-und-zeugenthemen.md` | Beweisliste und Zeugenthemen |
+| `16-beweisliste-und-zeugenthemen.docx` | Beweisliste und Zeugenthemen |
 | `17-stornoreserve-vermerk.pdf` | Vermerk Stornoreserve und Rückbelastung |
 | `18-screenshot-crm-pipeline.jpg` | CRM-Pipeline-Screenshot |
-| `19-fristen-und-verjaehrung.md` | Fristen und Verjährung |
+| `19-fristen-und-verjaehrung.docx` | Fristen und Verjährung |
 | `20-vorstandsvorlage-vertriebsumstellung.pdf` | Vorstandsvorlage Vertriebsumstellung |
-| `21-offene-punkte-und-lueckenliste.md` | Offene Punkte und Lückenliste |
+| `21-offene-punkte-und-lueckenliste.docx` | Offene Punkte und Lückenliste |
 | `22-anlagenindex.csv` | Anlagenindex |
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |

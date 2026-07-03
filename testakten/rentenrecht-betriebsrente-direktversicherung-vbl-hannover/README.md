@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/rentenrecht-betriebsrente-direktversicherung-vbl-hannover_gesamt.pdf`](gesamt-pdf/rentenrecht-betriebsrente-direktversicherung-vbl-hannover_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/rentenrecht-betriebsrente-direktversicherung-vbl-hannover_gesamt.pdf`](gesamt-pdf/rentenrecht-betriebsrente-direktversicherung-vbl-hannover_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-betriebsrente-direktversicherung-vbl-hannover.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-betriebsrente-direktversicherung-vbl-hannover.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-betriebsrente-direktversicherung-vbl-hannover-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-betriebsrente-direktversicherung-vbl-hannover-einzelpdfs.zip) |
 
@@ -30,16 +30,16 @@ Kein Bescheid ist angegriffen; die Akte ist ein reines Gestaltungs- und Rechenma
 ```
 rentenrecht-betriebsrente-direktversicherung-vbl-hannover/
 ├── README.md                                   ← diese Datei
-├── 01_beratungsvermerk_mandatsaufnahme.md      ← Erstgespräch, drei Entscheidungen, Arbeitsauftrag
-├── 02_drv_rentenauskunft.md                    ← Rentenauskunft mit Abschlagstabelle für drei Beginntermine
-├── 03_zusatzversorgungskasse_auskunft.md       ← Betriebsrente 318,40 EUR, fehlende Zeiten vor 07/2004, Überleitungshinweis
-├── 04_arbeitgeberbescheinigung_entgeltumwandlung.md ← Beschäftigungszeiten, ZVK-Meldung, Entgeltumwandlung seit 2004
-├── 05_direktversicherung_standmitteilung.md    ← Rente oder Kapital, Wahlfrist, fehlende Kostenaufschlüsselung
-├── 06_private_rente_standmitteilung.md         ← Police von 1998 ohne Rentenfaktor, unklares Bezugsrecht
-├── 07_anfrage_direktversicherung.md            ← Auskunftsersuchen der Beraterin mit Fristsetzung
-├── 08_anfrage_private_rente.md                 ← Auskunftsersuchen zu Rentenfaktor, Abruffenster, Bezugsrecht
-├── 09_krankenkasse_auskunft_versorgungsbezuege.md ← Verbeitragung von Betriebsrente, Kapital und privater Rente
-├── 10_renteninformation_2022_vergleich.md      ← ältere Hochrechnung 1.812,45 EUR und Klärungsnotiz
+├── 01_beratungsvermerk_mandatsaufnahme.docx      ← Erstgespräch, drei Entscheidungen, Arbeitsauftrag
+├── 02_drv_rentenauskunft.docx                    ← Rentenauskunft mit Abschlagstabelle für drei Beginntermine
+├── 03_zusatzversorgungskasse_auskunft.docx       ← Betriebsrente 318,40 EUR, fehlende Zeiten vor 07/2004, Überleitungshinweis
+├── 04_arbeitgeberbescheinigung_entgeltumwandlung.docx ← Beschäftigungszeiten, ZVK-Meldung, Entgeltumwandlung seit 2004
+├── 05_direktversicherung_standmitteilung.docx    ← Rente oder Kapital, Wahlfrist, fehlende Kostenaufschlüsselung
+├── 06_private_rente_standmitteilung.docx         ← Police von 1998 ohne Rentenfaktor, unklares Bezugsrecht
+├── 07_anfrage_direktversicherung.docx            ← Auskunftsersuchen der Beraterin mit Fristsetzung
+├── 08_anfrage_private_rente.docx                 ← Auskunftsersuchen zu Rentenfaktor, Abruffenster, Bezugsrecht
+├── 09_krankenkasse_auskunft_versorgungsbezuege.docx ← Verbeitragung von Betriebsrente, Kapital und privater Rente
+├── 10_renteninformation_2022_vergleich.docx      ← ältere Hochrechnung 1.812,45 EUR und Klärungsnotiz
 ├── 11_mehrsaeulenplan.csv                      ← Arbeitsraster der Beraterin über alle vier Säulen
 └── 12_email_mandantin_kapitalwahl.eml          ← Dachsanierung, VBL-Zettel von 1999, Grundsatzfragen
 ```

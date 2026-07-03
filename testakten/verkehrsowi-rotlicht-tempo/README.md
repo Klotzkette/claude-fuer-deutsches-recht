@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 130 KB) | PDF | [`gesamt-pdf/verkehrsowi-rotlicht-tempo_gesamt.pdf`](gesamt-pdf/verkehrsowi-rotlicht-tempo_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 113 KB) | PDF | [`gesamt-pdf/verkehrsowi-rotlicht-tempo_gesamt.pdf`](gesamt-pdf/verkehrsowi-rotlicht-tempo_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-verkehrsowi-rotlicht-tempo-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-einzelpdfs.zip) |
 
@@ -68,24 +68,24 @@ Die Akte enthält drei Verteidigungslinien: die Angreifbarkeit der Fahreridentif
 
 | Datei | Inhalt |
 |---|---|
-| [01_mandantenaufnahme.md](01_mandantenaufnahme.md) | Vollständiger Mandantenfragebogen: persönliche Daten, Sachverhaltsschilderung, berufliche Abhängigkeit, KBA-Stand, Unterlagen-Checkliste, Vergütungsvereinbarung (~1.000 Wörter) |
-| [02_anhoerungsbogen_polizei.md](02_anhoerungsbogen_polizei.md) | Anhörungsformular der Bußgeldstelle Köln: Tatvorwürfe mit Messdetails, Beweismittel, Belehrungen, Mandantennotiz |
-| [03_bussgeldbescheid.md](03_bussgeldbescheid.md) | Vollständiger Bußgeldbescheid: Tenor (Geldbuße 200 EUR, Fahrverbot 1 Monat, 2 Punkte), Begründung, Rechtsbehelfsbelehrung, Fahrverbotshinweis |
+| [01_mandantenaufnahme.docx](01_mandantenaufnahme.docx) | Vollständiger Mandantenfragebogen: persönliche Daten, Sachverhaltsschilderung, berufliche Abhängigkeit, KBA-Stand, Unterlagen-Checkliste, Vergütungsvereinbarung (~1.000 Wörter) |
+| [02_anhoerungsbogen_polizei.docx](02_anhoerungsbogen_polizei.docx) | Anhörungsformular der Bußgeldstelle Köln: Tatvorwürfe mit Messdetails, Beweismittel, Belehrungen, Mandantennotiz |
+| [03_bussgeldbescheid.docx](03_bussgeldbescheid.docx) | Vollständiger Bußgeldbescheid: Tenor (Geldbuße 200 EUR, Fahrverbot 1 Monat, 2 Punkte), Begründung, Rechtsbehelfsbelehrung, Fahrverbotshinweis |
 | [03_bussgeldbescheid.docx](03_bussgeldbescheid.docx) | DOCX-Fassung des Bußgeldbescheids (Behördenbrief-Format) |
-| [04_zustellungsurkunde.md](04_zustellungsurkunde.md) | PZU-Vermerk (07.05.2026), Fristberechnung Einspruch (Ausschlussfrist 21.05.2026), Kanzlei-Fristennotiz |
-| [05_messprotokoll_eso_blitzer.md](05_messprotokoll_eso_blitzer.md) | Vollständiges Messprotokoll ESO TraffiPhot III: Gerätedaten, Eichdaten, Wetter, Kalibrierungsprotokoll, Messergebnisse-Tabelle, Fahrspurkorrektur, Angriffspunkte |
+| [04_zustellungsurkunde.docx](04_zustellungsurkunde.docx) | PZU-Vermerk (07.05.2026), Fristberechnung Einspruch (Ausschlussfrist 21.05.2026), Kanzlei-Fristennotiz |
+| [05_messprotokoll_eso_blitzer.docx](05_messprotokoll_eso_blitzer.docx) | Vollständiges Messprotokoll ESO TraffiPhot III: Gerätedaten, Eichdaten, Wetter, Kalibrierungsprotokoll, Messergebnisse-Tabelle, Fahrspurkorrektur, Angriffspunkte |
 | [05_messprotokoll_eso_blitzer.docx](05_messprotokoll_eso_blitzer.docx) | DOCX-Fassung des Messprotokolls (Behördenformat) |
-| [06_fotoauswertung_fahreridentifikation.md](06_fotoauswertung_fahreridentifikation.md) | Anwaltlicher Auswertungsvermerk zum Frontfoto: Bildbeschreibung, Vergleichsanalyse, Rechtsprechung, Empfehlung Sachverständigengutachten |
-| [07_eichschein_geraeteakte.md](07_eichschein_geraeteakte.md) | Eichschein (LBME NRW, 12.01.2026), Geräteakte mit Wartungshistorie, Schulungsnachweis PHK Kramer, Gültigkeitsprüfung Kanzlei |
-| [08_zeugenvermerk_polizeibeamter.md](08_zeugenvermerk_polizeibeamter.md) | Zeugenvermerk PHK Klaus Kramer: Einsatzdaten, eigene Wahrnehmung, Fahreridentifikation, Fahrspurkorrektur, Kanzleibefragungsplanung |
+| [06_fotoauswertung_fahreridentifikation.docx](06_fotoauswertung_fahreridentifikation.docx) | Anwaltlicher Auswertungsvermerk zum Frontfoto: Bildbeschreibung, Vergleichsanalyse, Rechtsprechung, Empfehlung Sachverständigengutachten |
+| [07_eichschein_geraeteakte.docx](07_eichschein_geraeteakte.docx) | Eichschein (LBME NRW, 12.01.2026), Geräteakte mit Wartungshistorie, Schulungsnachweis PHK Kramer, Gültigkeitsprüfung Kanzlei |
+| [08_zeugenvermerk_polizeibeamter.docx](08_zeugenvermerk_polizeibeamter.docx) | Zeugenvermerk PHK Klaus Kramer: Einsatzdaten, eigene Wahrnehmung, Fahreridentifikation, Fahrspurkorrektur, Kanzleibefragungsplanung |
 | [09_fahrtenbuch_arbeitgeber.csv](09_fahrtenbuch_arbeitgeber.csv) | Fahrtenbuch der GbR, Fahrzeug K-JM 426, März 2026: 34 Einträge mit Datum, Uhrzeit, Nutzer, Zweck, Strecke, km-Stand, Auftragsnummer |
-| [10_punktestand_kba.md](10_punktestand_kba.md) | KBA-Auszug (ZFER): aktuell 1 Punkt, Prognose 3 Punkte nach Rechtskraft, Seminar-Option, Tilgungsfristen |
+| [10_punktestand_kba.docx](10_punktestand_kba.docx) | KBA-Auszug (ZFER): aktuell 1 Punkt, Prognose 3 Punkte nach Rechtskraft, Seminar-Option, Tilgungsfristen |
 | [11_kalender_fahrverbot_härtefall.ics](11_kalender_fahrverbot_haertefall.ics) | ICS-Kalender: Einspruchsfrist, Akteneinsicht, Begründungsfrist, Härtevortrag-Termine (Rheinauhafen, Pulheim etc.), Wahlmonat-Planung, Hauptverhandlung |
-| [12_mandantenchat_und_timeline.md](12_mandantenchat_und_timeline.md) | Realistischer WhatsApp-Chatverlauf (26 Nachrichten, 07.05.–05.06.2026) + tabellarische Verfahrenstimeline |
-| [13_rechtsprechungsnotizen.md](13_rechtsprechungsnotizen.md) | 7 Recherche- und Rechtsprechungsnotizen zu: Fotoidentifikation, Haltereigenschaft, Protokollkorrektur, Eichung nach Reparatur, Härtevortrag, Rotlichtgrenzwert, Akteneinsicht Rohmessdaten |
-| [14_einspruch_entwurf.md](14_einspruch_entwurf.md) | Vollständige Einspruchsbegründung (ca. 1.600 Wörter): 4 Verteidigungslinien, Beweisanträge, Härtevortrag, Anlagenverzeichnis |
+| [12_mandantenchat_und_timeline.docx](12_mandantenchat_und_timeline.docx) | Realistischer WhatsApp-Chatverlauf (26 Nachrichten, 07.05.–05.06.2026) + tabellarische Verfahrenstimeline |
+| [13_rechtsprechungsnotizen.docx](13_rechtsprechungsnotizen.docx) | 7 Recherche- und Rechtsprechungsnotizen zu: Fotoidentifikation, Haltereigenschaft, Protokollkorrektur, Eichung nach Reparatur, Härtevortrag, Rotlichtgrenzwert, Akteneinsicht Rohmessdaten |
+| [14_einspruch_entwurf.docx](14_einspruch_entwurf.docx) | Vollständige Einspruchsbegründung (ca. 1.600 Wörter): 4 Verteidigungslinien, Beweisanträge, Härtevortrag, Anlagenverzeichnis |
 | [14_einspruch_entwurf.docx](14_einspruch_entwurf.docx) | DOCX-Fassung des Einspruchsschreibens (Kanzlei-Briefkopf-Format) |
-| [15_hauptverhandlung_fragenkatalog.md](15_hauptverhandlung_fragenkatalog.md) | 40 Fragen an Zeugen, Sachverständige und Revisionszeugin: strukturiert nach Standort, Rotphase, Fahrspurkorrektur, Fahreridentifikation, Gerät, Glaubwürdigkeit |
+| [15_hauptverhandlung_fragenkatalog.docx](15_hauptverhandlung_fragenkatalog.docx) | 40 Fragen an Zeugen, Sachverständige und Revisionszeugin: strukturiert nach Standort, Rotphase, Fahrspurkorrektur, Fahreridentifikation, Gerät, Glaubwürdigkeit |
 
 ---
 

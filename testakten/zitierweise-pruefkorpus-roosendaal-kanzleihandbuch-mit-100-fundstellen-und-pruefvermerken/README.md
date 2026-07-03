@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 334 KB) | PDF | [`gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf`](gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 329 KB) | PDF | [`gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf`](gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken-einzelpdfs.zip) |
 
@@ -70,28 +70,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-hauszitierregeln-handbuch.md`](01-hauszitierregeln-handbuch.md) | Hauszitierregeln v4.0 — Grundregeln, Hierarchie, Sonderfälle |
-| 02 | [`02-rechtsprechung-bverfg-zitate-pruefkorpus.md`](02-rechtsprechung-bverfg-zitate-pruefkorpus.md) | BVerfG-Zitate Pruefkorpus: Band-Seite, Randnummer, Online-Quelle |
-| 03 | [`03-rechtsprechung-bgh-zitate-pruefkorpus.md`](03-rechtsprechung-bgh-zitate-pruefkorpus.md) | BGH-Zitate Pruefkorpus: BGHZ, NJW, dejure.org-URL |
-| 04 | [`04-rechtsprechung-bfh-bverwg-bsg-bag.md`](04-rechtsprechung-bfh-bverwg-bsg-bag.md) | BFH, BVerwG, BSG, BAG — Pruefkorpus besonderer Senate |
-| 05 | [`05-literatur-kommentare-gruenenberg-umstellung.md`](05-literatur-kommentare-gruenenberg-umstellung.md) | Kommentar-Zitate: Gruenenberg-Umstellung, Randnummern |
-| 06 | [`06-literatur-handbuecher-pruefvermerke.md`](06-literatur-handbuecher-pruefvermerke.md) | Handbuch-Zitate: Herausgeber, Mehrautoren, Bandangabe |
-| 07 | [`07-literatur-aufsaetze-modellwissen-sperre.md`](07-literatur-aufsaetze-modellwissen-sperre.md) | Aufsatz-Zitate: Modellwissen-Sperre, Prüfvermerk |
-| 08 | [`08-beckrs-sperre-faelle.md`](08-beckrs-sperre-faelle.md) | BeckRS-Sperre-Fälle: Lizenzzugang, Prüfvermerk, Alternativen |
-| 09 | [`09-amtliche-quellen-bundesgerichtshof-de-bvg.md`](09-amtliche-quellen-bundesgerichtshof-de-bvg.md) | Amtliche Quellen: bgh.de, bverfg.de — Vorrang und Format |
-| 10 | [`10-freie-quellen-dejure-openjur.md`](10-freie-quellen-dejure-openjur.md) | Freie Quellen: dejure.org, openjur.de — URL-Pflicht |
-| 11 | [`11-pruefvermerk-vorlage.md`](11-pruefvermerk-vorlage.md) | Prüfvermerk-Vorlage v4.0 — alle Typen |
-| 12 | [`12-mehrfach-fundstellen-rangfolge.md`](12-mehrfach-fundstellen-rangfolge.md) | Mehrfach-Fundstellen: Rangfolge BGHZ > NJW > BeckRS |
-| 13 | [`13-internet-url-pflicht-und-archiv.md`](13-internet-url-pflicht-und-archiv.md) | URL-Pflicht, Archivierungsdatum, Wayback Machine |
-| 14 | [`14-fussnoten-format-langzitate-kurzzitate.md`](14-fussnoten-format-langzitate-kurzzitate.md) | Fussnoten-Format: Langzitat, Kurzzitat, a.a.O. |
-| 15 | [`15-buchformate-monographie-festschrift.md`](15-buchformate-monographie-festschrift.md) | Buchformate: Monographie, Festschrift, Sammelband |
-| 16 | [`16-altzitate-palandt-paragraphengeruest.md`](16-altzitate-palandt-paragraphengeruest.md) | Altzitate Palandt: Paragraphengeruest, Migration, Kenntlichmachung |
-| 17 | [`17-eu-recht-und-acj-zitierung.md`](17-eu-recht-und-acj-zitierung.md) | EU-Recht: ECLI, EUR-Lex, EuGH-Zitierung |
-| 18 | [`18-migration-bestandsschriftsaetze.md`](18-migration-bestandsschriftsaetze.md) | Migration Bestandsschriftsätze auf v4.0 |
-| 19 | [`19-glossar-abkuerzungen.md`](19-glossar-abkuerzungen.md) | Glossar juristischer Abkürzungen |
-| 20 | [`20-qualitaetsmessung-pruefkorpus-statistik.md`](20-qualitaetsmessung-pruefkorpus-statistik.md) | Qualitätsmessung: Fehlerquoten, Statistik, Kategorien |
-| 21 | [`21-schulung-mitarbeiter-kanzlei.md`](21-schulung-mitarbeiter-kanzlei.md) | Schulungskonzept v4.0: Präsenz, Tests, Fallbeispiele |
-| 22 | [`22-checkliste-veroeffentlichung-handbuch-v4.md`](22-checkliste-veroeffentlichung-handbuch-v4.md) | Abschlussprüfung und Freigabe-Checkliste Handbuch v4.0 |
+| 01 | [`01-hauszitierregeln-handbuch.docx`](01-hauszitierregeln-handbuch.docx) | Hauszitierregeln v4.0 — Grundregeln, Hierarchie, Sonderfälle |
+| 02 | [`02-rechtsprechung-bverfg-zitate-pruefkorpus.docx`](02-rechtsprechung-bverfg-zitate-pruefkorpus.docx) | BVerfG-Zitate Pruefkorpus: Band-Seite, Randnummer, Online-Quelle |
+| 03 | [`03-rechtsprechung-bgh-zitate-pruefkorpus.docx`](03-rechtsprechung-bgh-zitate-pruefkorpus.docx) | BGH-Zitate Pruefkorpus: BGHZ, NJW, dejure.org-URL |
+| 04 | [`04-rechtsprechung-bfh-bverwg-bsg-bag.docx`](04-rechtsprechung-bfh-bverwg-bsg-bag.docx) | BFH, BVerwG, BSG, BAG — Pruefkorpus besonderer Senate |
+| 05 | [`05-literatur-kommentare-gruenenberg-umstellung.docx`](05-literatur-kommentare-gruenenberg-umstellung.docx) | Kommentar-Zitate: Gruenenberg-Umstellung, Randnummern |
+| 06 | [`06-literatur-handbuecher-pruefvermerke.docx`](06-literatur-handbuecher-pruefvermerke.docx) | Handbuch-Zitate: Herausgeber, Mehrautoren, Bandangabe |
+| 07 | [`07-literatur-aufsaetze-modellwissen-sperre.docx`](07-literatur-aufsaetze-modellwissen-sperre.docx) | Aufsatz-Zitate: Modellwissen-Sperre, Prüfvermerk |
+| 08 | [`08-beckrs-sperre-faelle.docx`](08-beckrs-sperre-faelle.docx) | BeckRS-Sperre-Fälle: Lizenzzugang, Prüfvermerk, Alternativen |
+| 09 | [`09-amtliche-quellen-bundesgerichtshof-de-bvg.docx`](09-amtliche-quellen-bundesgerichtshof-de-bvg.docx) | Amtliche Quellen: bgh.de, bverfg.de — Vorrang und Format |
+| 10 | [`10-freie-quellen-dejure-openjur.docx`](10-freie-quellen-dejure-openjur.docx) | Freie Quellen: dejure.org, openjur.de — URL-Pflicht |
+| 11 | [`11-pruefvermerk-vorlage.docx`](11-pruefvermerk-vorlage.docx) | Prüfvermerk-Vorlage v4.0 — alle Typen |
+| 12 | [`12-mehrfach-fundstellen-rangfolge.docx`](12-mehrfach-fundstellen-rangfolge.docx) | Mehrfach-Fundstellen: Rangfolge BGHZ > NJW > BeckRS |
+| 13 | [`13-internet-url-pflicht-und-archiv.docx`](13-internet-url-pflicht-und-archiv.docx) | URL-Pflicht, Archivierungsdatum, Wayback Machine |
+| 14 | [`14-fussnoten-format-langzitate-kurzzitate.docx`](14-fussnoten-format-langzitate-kurzzitate.docx) | Fussnoten-Format: Langzitat, Kurzzitat, a.a.O. |
+| 15 | [`15-buchformate-monographie-festschrift.docx`](15-buchformate-monographie-festschrift.docx) | Buchformate: Monographie, Festschrift, Sammelband |
+| 16 | [`16-altzitate-palandt-paragraphengeruest.docx`](16-altzitate-palandt-paragraphengeruest.docx) | Altzitate Palandt: Paragraphengeruest, Migration, Kenntlichmachung |
+| 17 | [`17-eu-recht-und-acj-zitierung.docx`](17-eu-recht-und-acj-zitierung.docx) | EU-Recht: ECLI, EUR-Lex, EuGH-Zitierung |
+| 18 | [`18-migration-bestandsschriftsaetze.docx`](18-migration-bestandsschriftsaetze.docx) | Migration Bestandsschriftsätze auf v4.0 |
+| 19 | [`19-glossar-abkuerzungen.docx`](19-glossar-abkuerzungen.docx) | Glossar juristischer Abkürzungen |
+| 20 | [`20-qualitaetsmessung-pruefkorpus-statistik.docx`](20-qualitaetsmessung-pruefkorpus-statistik.docx) | Qualitätsmessung: Fehlerquoten, Statistik, Kategorien |
+| 21 | [`21-schulung-mitarbeiter-kanzlei.docx`](21-schulung-mitarbeiter-kanzlei.docx) | Schulungskonzept v4.0: Präsenz, Tests, Fallbeispiele |
+| 22 | [`22-checkliste-veroeffentlichung-handbuch-v4.docx`](22-checkliste-veroeffentlichung-handbuch-v4.docx) | Abschlussprüfung und Freigabe-Checkliste Handbuch v4.0 |
 
 ---
 

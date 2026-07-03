@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 79 KB) | PDF | [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip) |
 
@@ -59,12 +59,12 @@ Die HeatBridge AG (Hannover), ein privater Wärmecontractor, hatte der Stadt 202
 
 | Datei | Inhalt |
 |---|---|
-| [01_sachverhalt_kommune.md](01_sachverhalt_kommune.md) | Vollständiger Sachverhalt (~1.500 Wörter): alle Beteiligten, Chronologie, Rechtsfragen |
-| [02_foerderbescheid_entwurf.md](02_foerderbescheid_entwurf.md) | Vollständiger Förderbescheid: Tenor, Tranchen, Nebenbestimmungen, Begründung, Rechtsbehelfsbelehrung |
+| [01_sachverhalt_kommune.docx](01_sachverhalt_kommune.docx) | Vollständiger Sachverhalt (~1.500 Wörter): alle Beteiligten, Chronologie, Rechtsfragen |
+| [02_foerderbescheid_entwurf.docx](02_foerderbescheid_entwurf.docx) | Vollständiger Förderbescheid: Tenor, Tranchen, Nebenbestimmungen, Begründung, Rechtsbehelfsbelehrung |
 | [02_foerderbescheid_entwurf.docx](02_foerderbescheid_entwurf.docx) | DOCX-Version des Förderbescheids für den ZIP-Download |
-| [03_richtlinien_umsetzung_notiz.md](03_richtlinien_umsetzung_notiz.md) | Interner Rechtsvermerk: Art. 107 Abs. 1 AEUV, DAWI-Prüfung, AGVO-Prüfung, De-minimis, Handlungsempfehlungen |
-| [04_beschwerde_wettbewerber.md](04_beschwerde_wettbewerber.md) | Vollständige Beschwerde der HeatBridge AG an DG COMP nach Art. 24 Abs. 2 VO (EU) 2015/1589 |
-| [05_vorlagefrage_entwurf.md](05_vorlagefrage_entwurf.md) | Formaler Vorlagebeschluss VG Lüneburg nach Art. 267 AEUV mit vier ausformulierten Vorlagefragen |
+| [03_richtlinien_umsetzung_notiz.docx](03_richtlinien_umsetzung_notiz.docx) | Interner Rechtsvermerk: Art. 107 Abs. 1 AEUV, DAWI-Prüfung, AGVO-Prüfung, De-minimis, Handlungsempfehlungen |
+| [04_beschwerde_wettbewerber.docx](04_beschwerde_wettbewerber.docx) | Vollständige Beschwerde der HeatBridge AG an DG COMP nach Art. 24 Abs. 2 VO (EU) 2015/1589 |
+| [05_vorlagefrage_entwurf.docx](05_vorlagefrage_entwurf.docx) | Formaler Vorlagebeschluss VG Lüneburg nach Art. 267 AEUV mit vier ausformulierten Vorlagefragen |
 | [05_vorlagebeschluss.docx](05_vorlagebeschluss.docx) | DOCX-Version des Vorlagebeschlusses für den ZIP-Download |
 
 ---

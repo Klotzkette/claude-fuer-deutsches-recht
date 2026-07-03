@@ -28,19 +28,19 @@ Helga Bertram, 62, Küchenhilfe in einer Schulkantine in Münster-Hiltrup, hat s
 sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-muenster/
 ├── README.md                                          <- diese Übersicht
 ├── rubric.yaml                                        <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_fristsache.md                      <- Erstgespräch, Frist, Auftrag, Kostenhinweis
-├── 02_bescheid_gdb_ablehnung.md                       <- Bescheid der Stadt Münster mit Rechtsbehelfsbelehrung
-├── 03_hausarzt_befundbericht.md                       <- Hausärztlicher Bericht mit Diagnosen und Medikation
-├── 04_neurologie_bericht.md                           <- Neurologischer Facharztbericht mit Elektroneurographie
-├── 05_pneumologie_lungenfunktion.md                   <- Lungenfunktion und Sechs-Minuten-Gehtest
-├── 06_arbeitsplatznotiz_kantine.md                    <- Notiz der Teamleitung zu Einschränkungen am Arbeitsplatz
-├── 07_alltagsprotokoll_gefaehigkeit.md                <- Wegeprotokoll der Mandantin mit Datum und Metern
-├── 08_widerspruch_entwurf.md                          <- Anwaltlicher Widerspruch mit Akteneinsichtsantrag
-├── 09_befundanforderung_liste.md                      <- Interner Arbeitszettel zu Befundanforderungen
+├── 01_mandatsnotiz_fristsache.docx                      <- Erstgespräch, Frist, Auftrag, Kostenhinweis
+├── 02_bescheid_gdb_ablehnung.docx                       <- Bescheid der Stadt Münster mit Rechtsbehelfsbelehrung
+├── 03_hausarzt_befundbericht.docx                       <- Hausärztlicher Bericht mit Diagnosen und Medikation
+├── 04_neurologie_bericht.docx                           <- Neurologischer Facharztbericht mit Elektroneurographie
+├── 05_pneumologie_lungenfunktion.docx                   <- Lungenfunktion und Sechs-Minuten-Gehtest
+├── 06_arbeitsplatznotiz_kantine.docx                    <- Notiz der Teamleitung zu Einschränkungen am Arbeitsplatz
+├── 07_alltagsprotokoll_gefaehigkeit.docx                <- Wegeprotokoll der Mandantin mit Datum und Metern
+├── 08_widerspruch_entwurf.docx                          <- Anwaltlicher Widerspruch mit Akteneinsichtsantrag
+├── 09_befundanforderung_liste.docx                      <- Interner Arbeitszettel zu Befundanforderungen
 ├── 10_fristen_und_anlagen.csv                         <- Fristenblatt und Eingangsübersicht
-├── 11_klagestrategie_sg.md                            <- Interner Vermerk zur Klagestrategie
-├── 12_akteneinsicht_versorgungsaerztliche_stellungnahme.md <- Übersendungsschreiben und versorgungsärztliche Stellungnahme
-├── 13_orthopaedie_befundbericht.md                    <- Nachgereichter orthopädischer Befund
+├── 11_klagestrategie_sg.docx                            <- Interner Vermerk zur Klagestrategie
+├── 12_akteneinsicht_versorgungsaerztliche_stellungnahme.docx <- Übersendungsschreiben und versorgungsärztliche Stellungnahme
+├── 13_orthopaedie_befundbericht.docx                    <- Nachgereichter orthopädischer Befund
 └── gesamt-pdf/                                        <- konsolidierte Lesefassung als PDF
 ```
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 371 KB) | PDF | [`gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf`](gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 355 KB) | PDF | [`gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf`](gesamt-pdf/grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundstueckskauf-baulast-mehrfamilienhaus-rosenmuendl-stuttgart-ost-einzelpdfs.zip) |
 
@@ -79,28 +79,28 @@ Arbeitsakte zum Plugin `immobilienrechtspraxis`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsannahme_kaufabsicht_rosenmuendl.md`](01_mandatsannahme_kaufabsicht_rosenmuendl.md) | Mandatsannahme, Eckdaten Kaufobjekt, erste Risikoübersicht |
-| 02 | [`02_beteiligte_grundbuchstand_uebersicht.md`](02_beteiligte_grundbuchstand_uebersicht.md) | Beteiligte Parteien, Grundbuchstand Abt. I–III, Baulast-Divergenz |
-| 03 | [`03_baulast_geh_fahrrecht_lbo_bw_par92.md`](03_baulast_geh_fahrrecht_lbo_bw_par92.md) | Baulast § 92 LBO BW, Arglist, Minderungsrecht, Mahnschreiben |
-| 04 | [`04_sachmangel_bleirohre_par437_bgb_pruefung.md`](04_sachmangel_bleirohre_par437_bgb_pruefung.md) | Bleirohrbefund SV Habermeier, §§ 437, 441, 313 BGB, Strategie |
-| 05 | [`05_sonderkuendigungsrecht_par577a_bgb_aushebelung.md`](05_sonderkuendigungsrecht_par577a_bgb_aushebelung.md) | Teilungserklärung, KüSchFristVO BW, Mieterstruktur |
-| 06 | [`06_energieausweis_geg_par80_falsch.md`](06_energieausweis_geg_par80_falsch.md) | GEG § 80, Klasse G statt B, Makler-Haftung, Bußgeld § 108 GEG |
-| 07 | [`07_pflichtteil_par2325_bgb_notarvollmacht.md`](07_pflichtteil_par2325_bgb_notarvollmacht.md) | Schenkung Vater, Abschmelzungsprinzip, Auskunftsanspruch § 2314 BGB |
-| 08 | [`08_erbengemeinschaft_voreigentuemer_par2032.md`](08_erbengemeinschaft_voreigentuemer_par2032.md) | § 2040 BGB, Widerspruch K.H.-F., Handlungsoptionen |
-| 09 | [`09_grundsteuer_reform_klage_lk_stuttgart.md`](09_grundsteuer_reform_klage_lk_stuttgart.md) | LGrStG BW, Messbescheid, Einspruch § 355 AO, Verfassungsrecht |
-| 10 | [`10_weg_reform_2020_2024_umsetzung.md`](10_weg_reform_2020_2024_umsetzung.md) | WEMoG-Mängel, §§ 24/26/19/28 WEG, Rücklage, GB-Eintragung |
-| 11 | [`11_denkmalschutz_paragrafen_dschg_bw_teilstellung.md`](11_denkmalschutz_paragrafen_dschg_bw_teilstellung.md) | DSchG BW §§ 2/8, § 7i EStG, Energiesanierung vs. Denkmal |
-| 12 | [`12_notarvertrag_entwurf_par311b_bgb.md`](12_notarvertrag_entwurf_par311b_bgb.md) | Notarvertrag-Entwurf, §§ 311b, 566 BGB, GrESt, § 14 BNotO |
-| 13 | [`13_finanzierung_grundschuld_par1191_bgb.md`](13_finanzierung_grundschuld_par1191_bgb.md) | BW-Bank, Grundschuld § 1191 BGB, § 800 ZPO, Mietertrag |
-| 14 | [`14_vermessungsamt_grenzfeststellung.md`](14_vermessungsamt_grenzfeststellung.md) | Grenzfeststellung, § 912 BGB Überbau, § 1004 BGB |
-| 15 | [`15_grundbuchamt_eintragung_widerspruch.md`](15_grundbuchamt_eintragung_widerspruch.md) | § 899 BGB Widerspruch, GBO, einstweilige Verfügung K.H.-F. |
-| 16 | [`16_geldwaesche_gwg_par2nr10_kaufpreisherkunft.md`](16_geldwaesche_gwg_par2nr10_kaufpreisherkunft.md) | GwG §§ 2/10/15/43, Kaufpreisherkunft-Nachweis, keine FIU-Meldung |
-| 17 | [`17_kaufvertrag_rueckabwicklung_par437_par326.md`](17_kaufvertrag_rueckabwicklung_par437_par326.md) | Rückabwicklung §§ 323/326/437 BGB, Arglist § 123 BGB |
-| 18 | [`18_klage_lg_stuttgart_4o188_26_minderung.md`](18_klage_lg_stuttgart_4o188_26_minderung.md) | Klage LG Stuttgart 4 O 188/26, Streitwert 340.000 EUR, § 441 BGB |
-| 19 | [`19_versicherung_rechtsschutz_konflikt.md`](19_versicherung_rechtsschutz_konflikt.md) | Roland ARB 2021, Deckungsablehnung, § 128 VVG, Kostenrisiko |
-| 20 | [`20_mieterversammlung_par577a_bgb_information.md`](20_mieterversammlung_par577a_bgb_information.md) | § 566 BGB, Mieterversammlung 08.05.2026, §§ 554/559/577 BGB |
-| 21 | [`21_chronologie_und_strategie_uebersicht.md`](21_chronologie_und_strategie_uebersicht.md) | Zeitstrahl, Verfahrensstränge, Best/Worst-Case, Renditeplanung |
-| 22 | [`22_abschluss_handlungsempfehlung.md`](22_abschluss_handlungsempfehlung.md) | Ergebnisse, offene Verfahren, Mandatsabrechnung, Folgeschritte |
+| 01 | [`01_mandatsannahme_kaufabsicht_rosenmuendl.docx`](01_mandatsannahme_kaufabsicht_rosenmuendl.docx) | Mandatsannahme, Eckdaten Kaufobjekt, erste Risikoübersicht |
+| 02 | [`02_beteiligte_grundbuchstand_uebersicht.docx`](02_beteiligte_grundbuchstand_uebersicht.docx) | Beteiligte Parteien, Grundbuchstand Abt. I–III, Baulast-Divergenz |
+| 03 | [`03_baulast_geh_fahrrecht_lbo_bw_par92.docx`](03_baulast_geh_fahrrecht_lbo_bw_par92.docx) | Baulast § 92 LBO BW, Arglist, Minderungsrecht, Mahnschreiben |
+| 04 | [`04_sachmangel_bleirohre_par437_bgb_pruefung.docx`](04_sachmangel_bleirohre_par437_bgb_pruefung.docx) | Bleirohrbefund SV Habermeier, §§ 437, 441, 313 BGB, Strategie |
+| 05 | [`05_sonderkuendigungsrecht_par577a_bgb_aushebelung.docx`](05_sonderkuendigungsrecht_par577a_bgb_aushebelung.docx) | Teilungserklärung, KüSchFristVO BW, Mieterstruktur |
+| 06 | [`06_energieausweis_geg_par80_falsch.docx`](06_energieausweis_geg_par80_falsch.docx) | GEG § 80, Klasse G statt B, Makler-Haftung, Bußgeld § 108 GEG |
+| 07 | [`07_pflichtteil_par2325_bgb_notarvollmacht.docx`](07_pflichtteil_par2325_bgb_notarvollmacht.docx) | Schenkung Vater, Abschmelzungsprinzip, Auskunftsanspruch § 2314 BGB |
+| 08 | [`08_erbengemeinschaft_voreigentuemer_par2032.docx`](08_erbengemeinschaft_voreigentuemer_par2032.docx) | § 2040 BGB, Widerspruch K.H.-F., Handlungsoptionen |
+| 09 | [`09_grundsteuer_reform_klage_lk_stuttgart.docx`](09_grundsteuer_reform_klage_lk_stuttgart.docx) | LGrStG BW, Messbescheid, Einspruch § 355 AO, Verfassungsrecht |
+| 10 | [`10_weg_reform_2020_2024_umsetzung.docx`](10_weg_reform_2020_2024_umsetzung.docx) | WEMoG-Mängel, §§ 24/26/19/28 WEG, Rücklage, GB-Eintragung |
+| 11 | [`11_denkmalschutz_paragrafen_dschg_bw_teilstellung.docx`](11_denkmalschutz_paragrafen_dschg_bw_teilstellung.docx) | DSchG BW §§ 2/8, § 7i EStG, Energiesanierung vs. Denkmal |
+| 12 | [`12_notarvertrag_entwurf_par311b_bgb.docx`](12_notarvertrag_entwurf_par311b_bgb.docx) | Notarvertrag-Entwurf, §§ 311b, 566 BGB, GrESt, § 14 BNotO |
+| 13 | [`13_finanzierung_grundschuld_par1191_bgb.docx`](13_finanzierung_grundschuld_par1191_bgb.docx) | BW-Bank, Grundschuld § 1191 BGB, § 800 ZPO, Mietertrag |
+| 14 | [`14_vermessungsamt_grenzfeststellung.docx`](14_vermessungsamt_grenzfeststellung.docx) | Grenzfeststellung, § 912 BGB Überbau, § 1004 BGB |
+| 15 | [`15_grundbuchamt_eintragung_widerspruch.docx`](15_grundbuchamt_eintragung_widerspruch.docx) | § 899 BGB Widerspruch, GBO, einstweilige Verfügung K.H.-F. |
+| 16 | [`16_geldwaesche_gwg_par2nr10_kaufpreisherkunft.docx`](16_geldwaesche_gwg_par2nr10_kaufpreisherkunft.docx) | GwG §§ 2/10/15/43, Kaufpreisherkunft-Nachweis, keine FIU-Meldung |
+| 17 | [`17_kaufvertrag_rueckabwicklung_par437_par326.docx`](17_kaufvertrag_rueckabwicklung_par437_par326.docx) | Rückabwicklung §§ 323/326/437 BGB, Arglist § 123 BGB |
+| 18 | [`18_klage_lg_stuttgart_4o188_26_minderung.docx`](18_klage_lg_stuttgart_4o188_26_minderung.docx) | Klage LG Stuttgart 4 O 188/26, Streitwert 340.000 EUR, § 441 BGB |
+| 19 | [`19_versicherung_rechtsschutz_konflikt.docx`](19_versicherung_rechtsschutz_konflikt.docx) | Roland ARB 2021, Deckungsablehnung, § 128 VVG, Kostenrisiko |
+| 20 | [`20_mieterversammlung_par577a_bgb_information.docx`](20_mieterversammlung_par577a_bgb_information.docx) | § 566 BGB, Mieterversammlung 08.05.2026, §§ 554/559/577 BGB |
+| 21 | [`21_chronologie_und_strategie_uebersicht.docx`](21_chronologie_und_strategie_uebersicht.docx) | Zeitstrahl, Verfahrensstränge, Best/Worst-Case, Renditeplanung |
+| 22 | [`22_abschluss_handlungsempfehlung.docx`](22_abschluss_handlungsempfehlung.docx) | Ergebnisse, offene Verfahren, Mandatsabrechnung, Folgeschritte |
 
 ---
 

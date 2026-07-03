@@ -26,20 +26,20 @@ Die Akte liegt als verstreuter Ordner mit Markdown, EML, DOCX, XLSX, PDF und Bil
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-erste-lage.md` | Erstnotiz mit offenen Baustellen |
-| `02-elster-und-finanzamt-fragen.md` | Fragebogen steuerliche Erfassung und Umsatzschätzungen |
-| `03-gewerbe-freiberuf-abgrenzung.md` | Abgrenzung Grafikdesign, Workshops, digitale Vorlagen |
+| `01-mandatsnotiz-erste-lage.docx` | Erstnotiz mit offenen Baustellen |
+| `02-elster-und-finanzamt-fragen.docx` | Fragebogen steuerliche Erfassung und Umsatzschätzungen |
+| `03-gewerbe-freiberuf-abgrenzung.docx` | Abgrenzung Grafikdesign, Workshops, digitale Vorlagen |
 | `04-kundenvertrag-nordstern-agentur.docx` | Vertragsentwurf der Großkundin |
-| `05-rechnung-kleinunternehmer-oder-regel.md` | Rechnungs- und USt-Problem |
-| `06-drv-statusfeststellung-risklog.md` | Scheinselbstständigkeitsindizien |
+| `05-rechnung-kleinunternehmer-oder-regel.docx` | Rechnungs- und USt-Problem |
+| `06-drv-statusfeststellung-risklog.docx` | Scheinselbstständigkeitsindizien |
 | `07-ksk-rueckfrage.eml` | E-Mail zur KSK-Anmeldung |
 | `08-offene-posten-und-liquiditaet.xlsx` | OPOS, Umsatz, Kosten, Rücklagen |
 | `09-angebot-agb-mini.docx` | Angebot/AGB-Entwurf |
 | `10-projektchat-screenshot.jpg` | Chat-/Board-Screenshot |
 | `11-mahnung-und-rechtekette.pdf` | Mahnung, Rechtekette und Eskalation |
-| `12-datenschutz-website-toolstack.md` | Website, Newsletter, KI-Tools, AVV |
-| `13-versicherungen-und-notfallmappe.md` | Versicherungs- und Ausfallplanung |
-| `14-entscheidungsmemo-naechste-30-tage.md` | Arbeitsplan für die nächsten 30 Tage |
+| `12-datenschutz-website-toolstack.docx` | Website, Newsletter, KI-Tools, AVV |
+| `13-versicherungen-und-notfallmappe.docx` | Versicherungs- und Ausfallplanung |
+| `14-entscheidungsmemo-naechste-30-tage.docx` | Arbeitsplan für die nächsten 30 Tage |
 
 ## Gesamt-PDF
 

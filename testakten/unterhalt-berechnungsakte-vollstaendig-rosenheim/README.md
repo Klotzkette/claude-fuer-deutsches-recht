@@ -32,18 +32,18 @@ Die Akte enthält viele Zahlen, aber keine eingefrorene Musterlösung. Vor jeder
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_sachverhalt_und_trennung.md` | Chronologie, Rollen, Trennungsdatum |
-| 02 | `02_kinder_betreuung_mehrbedarf.md` | Kinder, Betreuung, Mehrbedarf, Sonderbedarf |
-| 03 | `03_einkommen_tobias.md` | Einkommen, Bonus, Dienstwagen, Altersvorsorge |
-| 04 | `04_einkommen_mira.md` | Teilzeit, mögliche Erwerbsausweitung, Krankenversicherung |
-| 05 | `05_bereinigungen_schulden_versicherungen.md` | berufsbedingte Aufwendungen, Kredit, Altersvorsorge |
-| 06 | `06_wohnwert_und_hauslasten.md` | Haus, Wohnvorteil, Zins/Tilgung, Nebenkosten |
-| 07 | `07_kindesunterhalt_2026_datenblatt.md` | Düsseldorfer Tabelle 2026, Kindergeld 259 EUR |
-| 08 | `08_trennungsunterhalt_rechenvarianten.md` | Varianten mit Erwerbstätigenbonus |
-| 09 | `09_nachehelicher_unterhalt_varianten.md` | Aufstockung, Betreuung, Befristung, Herabsetzung |
-| 10 | `10_vergleichsangebot_entwurf.md` | Vergleichsvorschlag mit Zahlbeträgen und Anpassungsklausel |
-| 11 | `11_rechenhinweise_kanzlei.md` | Bearbeiterhinweise ohne fertige Lösung |
-| 12 | `12_emailverkehr_zahlenfreigabe.md` | E-Mail-Auszüge zur Zahlenabstimmung |
+| 01 | `01_sachverhalt_und_trennung.docx` | Chronologie, Rollen, Trennungsdatum |
+| 02 | `02_kinder_betreuung_mehrbedarf.docx` | Kinder, Betreuung, Mehrbedarf, Sonderbedarf |
+| 03 | `03_einkommen_tobias.docx` | Einkommen, Bonus, Dienstwagen, Altersvorsorge |
+| 04 | `04_einkommen_mira.docx` | Teilzeit, mögliche Erwerbsausweitung, Krankenversicherung |
+| 05 | `05_bereinigungen_schulden_versicherungen.docx` | berufsbedingte Aufwendungen, Kredit, Altersvorsorge |
+| 06 | `06_wohnwert_und_hauslasten.docx` | Haus, Wohnvorteil, Zins/Tilgung, Nebenkosten |
+| 07 | `07_kindesunterhalt_2026_datenblatt.docx` | Düsseldorfer Tabelle 2026, Kindergeld 259 EUR |
+| 08 | `08_trennungsunterhalt_rechenvarianten.docx` | Varianten mit Erwerbstätigenbonus |
+| 09 | `09_nachehelicher_unterhalt_varianten.docx` | Aufstockung, Betreuung, Befristung, Herabsetzung |
+| 10 | `10_vergleichsangebot_entwurf.docx` | Vergleichsvorschlag mit Zahlbeträgen und Anpassungsklausel |
+| 11 | `11_rechenhinweise_kanzlei.docx` | Bearbeiterhinweise ohne fertige Lösung |
+| 12 | `12_emailverkehr_zahlenfreigabe.docx` | E-Mail-Auszüge zur Zahlenabstimmung |
 
 ## Anhänge
 

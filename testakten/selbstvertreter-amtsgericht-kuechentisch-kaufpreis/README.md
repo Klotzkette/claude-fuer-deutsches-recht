@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/selbstvertreter-amtsgericht-kuechentisch-kaufpreis_gesamt.pdf`](gesamt-pdf/selbstvertreter-amtsgericht-kuechentisch-kaufpreis_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/selbstvertreter-amtsgericht-kuechentisch-kaufpreis_gesamt.pdf`](gesamt-pdf/selbstvertreter-amtsgericht-kuechentisch-kaufpreis_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis-einzelpdfs.zip) |
 
@@ -49,14 +49,14 @@ Mara Hohenstaufen, freiberufliche Übersetzerin aus Hannover, hat bei der Tischl
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_erstnotiz_mara_hohenstaufen.md` | ausführliche Erstnotiz mit Vorgeschichte, Zielen und allen Unsicherheiten |
-| `02_angebot_rechnung_und_lieferzettel.md` | Angebot, AGB-Auszug Rückseite, E-Mail-Bestätigung, Bankbeleg, Lieferzettel beide Versionen, Rechnung, Lieferzusagen-E-Mail |
-| `03_messenger_und_mahnung.md` | vollständiger Messenger-Verlauf, parallele E-Mail-Korrespondenz, Mängelanzeigen, beide Mahnungen, Antwortbrief-Entwurf |
-| `04_klageentwurf_amtsgericht_roh.md` | roher Klageentwurf mit typischen Selbstvertreter-Schwächen und einem langen Fragenkatalog |
+| `01_erstnotiz_mara_hohenstaufen.docx` | ausführliche Erstnotiz mit Vorgeschichte, Zielen und allen Unsicherheiten |
+| `02_angebot_rechnung_und_lieferzettel.docx` | Angebot, AGB-Auszug Rückseite, E-Mail-Bestätigung, Bankbeleg, Lieferzettel beide Versionen, Rechnung, Lieferzusagen-E-Mail |
+| `03_messenger_und_mahnung.docx` | vollständiger Messenger-Verlauf, parallele E-Mail-Korrespondenz, Mängelanzeigen, beide Mahnungen, Antwortbrief-Entwurf |
+| `04_klageentwurf_amtsgericht_roh.docx` | roher Klageentwurf mit typischen Selbstvertreter-Schwächen und einem langen Fragenkatalog |
 | `05_fristscan_und_belege.csv` | erweiterte Beleg- und Fristenübersicht mit 20 Einträgen |
-| `06_voreinschaetzung_tischlermeister.md` | privat eingeholte Notiz Tischlermeister Hentschel mit drei dokumentierten Fertigungsfehlern |
-| `07_foto_inventar_und_verbraucherzentrale.md` | Foto- und Video-Inventar mit Metadaten, Telefonnotiz Verbraucherzentrale, Beratungstermin |
-| `08_internet_recherche_klaegerin.md` | zehn widersprüchliche Internet-Treffer, die das Plugin sortieren und einordnen soll |
+| `06_voreinschaetzung_tischlermeister.docx` | privat eingeholte Notiz Tischlermeister Hentschel mit drei dokumentierten Fertigungsfehlern |
+| `07_foto_inventar_und_verbraucherzentrale.docx` | Foto- und Video-Inventar mit Metadaten, Telefonnotiz Verbraucherzentrale, Beratungstermin |
+| `08_internet_recherche_klaegerin.docx` | zehn widersprüchliche Internet-Treffer, die das Plugin sortieren und einordnen soll |
 
 ## Empfohlener Pluginlauf
 

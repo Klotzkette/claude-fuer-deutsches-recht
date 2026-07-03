@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 577 KB) | PDF | [`gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf`](gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 573 KB) | PDF | [`gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf`](gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim-einzelpdfs.zip) |
 
@@ -80,28 +80,28 @@ Tannenmoor erteilt RA Dr. Roosendaal Auftrag zur Prüfung der Rechtslage.
 
 | Nr. | Datei | Inhalt |
 |-----|-------|--------|
-| 01 | `01-fallschilderung-tannenmoor-werkstatt.md` | Sachverhaltsdarstellung durch RA Dr. Roosendaal |
-| 02 | `02-fragenkatalog-mandant.md` | Fragen des Mandanten Lars Tannenmoor |
-| 03 | `03-erste-grobgutachten-skizze.md` | Erste Rechtsprüfungsskizze |
-| 04 | `04-anwendungsbereich-werkvertrag-823-bgb.md` | Vertragstyp und Deliktsrecht |
-| 05 | `05-wortlautauslegung-mangelbegriff-633.md` | Grammatikalische Auslegung § 633 BGB |
-| 06 | `06-systematische-stellung-werkvertragsrechts.md` | Systematische Auslegung |
-| 07 | `07-historische-auslegung-schuldrechtsmodernisierung-2002.md` | Historische Auslegung |
-| 08 | `08-teleologische-auslegung-mangelschutz.md` | Teleologische Auslegung |
-| 09 | `09-verfassungskonforme-auslegung-art-2-gg.md` | Verfassungskonforme Auslegung |
-| 10 | `10-analogie-zu-kaufrecht-prueft-bgh-vii-zr-2017.md` | Analogie (BGH VII ZR 235/15) |
-| 11 | `11-teleologische-reduktion-bei-illegalen-zwecken.md` | Teleologische Reduktion |
-| 12 | `12-rechtsfortbildung-radarwarner-rechtsprechung.md` | Richterliche Rechtsfortbildung |
-| 13 | `13-konkurrenzen-werk-und-deliktsrecht.md` | Konkurrenzlehre |
-| 14 | `14-bgh-rechtsprechungsanalyse-vii-zr-zum-werkvertrag.md` | BGH-Analyse VII ZR |
-| 15 | `15-bverfg-rechtsprechungslinie-vertragsfreiheit.md` | BVerfG Art. 12 GG |
-| 16 | `16-literaturmeinungen-medicus-larenz-rueckert.md` | Literaturauswertung |
-| 17 | `17-eigene-stellungnahme-loesung.md` | Stellungnahme und Ergebnis |
-| 18 | `18-uebungsklausur-fallabwandlung-i.md` | Übungsklausur Abwandlung I |
-| 19 | `19-uebungsklausur-fallabwandlung-ii.md` | Übungsklausur Abwandlung II |
+| 01 | `01-fallschilderung-tannenmoor-werkstatt.docx` | Sachverhaltsdarstellung durch RA Dr. Roosendaal |
+| 02 | `02-fragenkatalog-mandant.docx` | Fragen des Mandanten Lars Tannenmoor |
+| 03 | `03-erste-grobgutachten-skizze.docx` | Erste Rechtsprüfungsskizze |
+| 04 | `04-anwendungsbereich-werkvertrag-823-bgb.docx` | Vertragstyp und Deliktsrecht |
+| 05 | `05-wortlautauslegung-mangelbegriff-633.docx` | Grammatikalische Auslegung § 633 BGB |
+| 06 | `06-systematische-stellung-werkvertragsrechts.docx` | Systematische Auslegung |
+| 07 | `07-historische-auslegung-schuldrechtsmodernisierung-2002.docx` | Historische Auslegung |
+| 08 | `08-teleologische-auslegung-mangelschutz.docx` | Teleologische Auslegung |
+| 09 | `09-verfassungskonforme-auslegung-art-2-gg.docx` | Verfassungskonforme Auslegung |
+| 10 | `10-analogie-zu-kaufrecht-prueft-bgh-vii-zr-2017.docx` | Analogie (BGH VII ZR 235/15) |
+| 11 | `11-teleologische-reduktion-bei-illegalen-zwecken.docx` | Teleologische Reduktion |
+| 12 | `12-rechtsfortbildung-radarwarner-rechtsprechung.docx` | Richterliche Rechtsfortbildung |
+| 13 | `13-konkurrenzen-werk-und-deliktsrecht.docx` | Konkurrenzlehre |
+| 14 | `14-bgh-rechtsprechungsanalyse-vii-zr-zum-werkvertrag.docx` | BGH-Analyse VII ZR |
+| 15 | `15-bverfg-rechtsprechungslinie-vertragsfreiheit.docx` | BVerfG Art. 12 GG |
+| 16 | `16-literaturmeinungen-medicus-larenz-rueckert.docx` | Literaturauswertung |
+| 17 | `17-eigene-stellungnahme-loesung.docx` | Stellungnahme und Ergebnis |
+| 18 | `18-uebungsklausur-fallabwandlung-i.docx` | Übungsklausur Abwandlung I |
+| 19 | `19-uebungsklausur-fallabwandlung-ii.docx` | Übungsklausur Abwandlung II |
 | 20 | `20-musterloesung-fallabwandlung.md` | Musterlösung Abwandlungen |
-| 21 | `21-merkblatt-aufbau-pruefungsaufbau.md` | Prüfungsaufbau-Merkblatt |
-| 22 | `22-zusammenfassung-methodenkanon.md` | Zusammenfassung Methodenkanon |
+| 21 | `21-merkblatt-aufbau-pruefungsaufbau.docx` | Prüfungsaufbau-Merkblatt |
+| 22 | `22-zusammenfassung-methodenkanon.docx` | Zusammenfassung Methodenkanon |
 
 ## Sonstige Dokumente
 

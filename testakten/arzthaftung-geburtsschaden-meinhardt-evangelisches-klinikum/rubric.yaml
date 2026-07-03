@@ -15,12 +15,12 @@ checks:
   - id: r03-erstgespraech
     check_type: file_exists
     description: "Erstgespraechs-Notiz vorhanden"
-    path: "01_erstgespraech_mandantennotiz.md"
+    path: "01_erstgespraech_mandantennotiz.docx"
 
   - id: r04-chronologie-geburt
     check_type: file_exists
     description: "Chronologie der Geburt"
-    path: "02_chronologie_geburt_17_18_juli_2024.md"
+    path: "02_chronologie_geburt_17_18_juli_2024.docx"
 
   - id: r05-mind-1-docx-attachment
     check_type: file_count

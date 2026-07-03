@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 149 KB) | PDF | [`gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf`](gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 147 KB) | PDF | [`gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf`](gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-solis-vision-x-smartglasses-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses-einzelpdfs.zip) |
 

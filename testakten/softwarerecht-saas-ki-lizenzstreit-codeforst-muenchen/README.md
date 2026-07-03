@@ -21,28 +21,28 @@ Diese Akte bündelt einen laufenden Softwarerechtsfall rund um eine B2B-SaaS-Pla
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.md` | Erste Kanzleinotiz mit Auftrag, Streitwert, Beteiligten und Sofortfragen |
-| `02-zeitstrahl-rechtekette.md` | Chronologie der Entwicklung, Vertragsstände, Zusagen und Eskalation |
-| `03-prueffragen-softwarerecht.md` | Arbeitsauftrag an IT/IP/Data-Reg-Team mit konkreten Prüfpfaden |
+| `01-mandatsnotiz-und-auftrag.docx` | Erste Kanzleinotiz mit Auftrag, Streitwert, Beteiligten und Sofortfragen |
+| `02-zeitstrahl-rechtekette.docx` | Chronologie der Entwicklung, Vertragsstände, Zusagen und Eskalation |
+| `03-prueffragen-softwarerecht.docx` | Arbeitsauftrag an IT/IP/Data-Reg-Team mit konkreten Prüfpfaden |
 | `04-saas-order-form-route-luchs.pdf` | Order Form mit Lizenzmetrik, SLA, Affiliate- und API-Frage |
 | `05-saas-master-agreement-auszug.docx` | Auszug aus dem deutschen SaaS-Rahmenvertrag mit widersprüchlichen IP-Klauseln |
 | `06-us-contractor-agreement-auszug.docx` | US-Contractor-Vertrag mit work-made-for-hire-Formulierung und fehlender Assignment-Reserve |
-| `07-arbeitnehmer-side-project-notiz.md` | Hinweis auf privaten Vorcode einer Mitarbeiterin und § 69b-Problem |
+| `07-arbeitnehmer-side-project-notiz.docx` | Hinweis auf privaten Vorcode einer Mitarbeiterin und § 69b-Problem |
 | `08-oss-sbom-route-luchs.csv` | SBOM mit AGPL-, GPL-, Apache- und kommerziellen Komponenten |
 | `09-rechtekettenmatrix.xlsx` | Rechteketten- und Belegmatrix über Mitarbeiter, Freelancer, Kundenfeedback und OSS |
-| `10-ai-modul-und-datenfluesse.md` | Beschreibung des KI-Moduls, Telemetrie, Trainings-/Inference-Daten |
+| `10-ai-modul-und-datenfluesse.docx` | Beschreibung des KI-Moduls, Telemetrie, Trainings-/Inference-Daten |
 | `11-email-sales-ip-zusage.eml` | Vertrieb verspricht Kunden “all IP and unlimited affiliate use” |
 | `12-email-us-contractor-assignment.eml` | US-Contractor bestreitet Rechteübertragung an Kernmodul |
 | `13-email-kunde-audit-androhung.eml` | Kunde droht Audit, Nachlizenzierung und Zurückbehaltungsrecht an |
-| `14-slack-export-legal-engineering.md` | Engineering-/Legal-Chat mit OSS- und Security-Tonfall |
+| `14-slack-export-legal-engineering.docx` | Engineering-/Legal-Chat mit OSS- und Security-Tonfall |
 | `15-whatsapp-partner-associate.jpg` | Screenshot Partner/Associate zur Sofortsortierung |
 | `16-git-issue-screenshot.jpg` | Git-Issue-Screenshot mit AGPL-Alarm und Hotfix-Druck |
 | `17-whiteboard-architecture.jpg` | Whiteboardfoto der SaaS-/On-Prem-/API-Architektur |
-| `18-lizenzmetrik-streit.md` | Streit über Named User, API Calls, Affiliates, Container und Tochtergesellschaften |
-| `19-data-act-cra-ai-act-gaplog.md` | Gaplog zu Data Act, Cyber Resilience Act, KI-VO und Produkthaftung |
-| `20-source-escrow-trigger-checkliste.md` | Source-Escrow-Trigger und Buildfähigkeitsliste |
-| `21-redline-notizen-deutsches-recht.md` | Redline-Notizen für deutsches Recht, AGB und Haftung |
+| `18-lizenzmetrik-streit.docx` | Streit über Named User, API Calls, Affiliates, Container und Tochtergesellschaften |
+| `19-data-act-cra-ai-act-gaplog.docx` | Gaplog zu Data Act, Cyber Resilience Act, KI-VO und Produkthaftung |
+| `20-source-escrow-trigger-checkliste.docx` | Source-Escrow-Trigger und Buildfähigkeitsliste |
+| `21-redline-notizen-deutsches-recht.docx` | Redline-Notizen für deutsches Recht, AGB und Haftung |
 | `22-anlagenindex.csv` | Akten-/Anlagenindex mit Zuständigkeit und Reifegrad |
-| `23-briefing-us-counsel.md` | Fragenpaket an US-Counsel zu Copyright, Softwarepatent und trade secrets |
+| `23-briefing-us-counsel.docx` | Fragenpaket an US-Counsel zu Copyright, Softwarepatent und trade secrets |
 | `24-oss-notice-draft.pdf` | Entwurf eines OSS-Notice-Pakets |
 | `25-board-briefing-route-luchs.docx` | Board-Briefing für Vorstand/Investor zum Rechteketten- und Kundenrisiko |

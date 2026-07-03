@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip) |
 
@@ -54,20 +54,20 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rück
 
 | Datei | Beschreibung |
 |---|---|
-| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.md](BSAG-Mietvertrag-Vorlage.md) | Generische Vermietungsvorlage der BSAG mit Platzhaltern für alle Mieterdaten, Preise und Sonderbedingungen |
-| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.md](BSAG-TermSheet-Kiosk-Huckelriede.md) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
+| [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.md](BSAG-Mietvertrag-Vorlage.docx) | Generische Vermietungsvorlage der BSAG mit Platzhaltern für alle Mieterdaten, Preise und Sonderbedingungen |
+| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.md](BSAG-TermSheet-Kiosk-Huckelriede.docx) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
 | [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Platzhalter, Typ, Bemerkung) |
-| [02_mapping_notiz.md](02_mapping_notiz.md) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
-| [03_rueckfragen_bsag.md](03_rueckfragen_bsag.md) | Offene Rückfragen an die BSAG vor Erstellung des Clean-Entwurfs |
-| [04_clean_entwurf_checkliste.md](04_clean_entwurf_checkliste.md) | Prüfliste vor Versand des Clean-Entwurfs an Mieter und Vermieter |
+| [02_mapping_notiz.docx](02_mapping_notiz.docx) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
+| [03_rueckfragen_bsag.docx](03_rueckfragen_bsag.docx) | Offene Rückfragen an die BSAG vor Erstellung des Clean-Entwurfs |
+| [04_clean_entwurf_checkliste.docx](04_clean_entwurf_checkliste.docx) | Prüfliste vor Versand des Clean-Entwurfs an Mieter und Vermieter |
 
 ## Testablauf
 
 1. Starte `vaf-kommandocenter`.
 2. Lasse die Vorlage strippen und ein Feldinventar erzeugen (-> `01_feldinventar_bsag.csv`).
-3. Mappe das Term Sheet auf die Mietvertragsvorlage (-> `02_mapping_notiz.md`).
-4. Lasse offene Rückfragen ausgeben (-> `03_rueckfragen_bsag.md`).
-5. Erstelle einen Clean-Entwurf nach Prüfliste (-> `04_clean_entwurf_checkliste.md`).
+3. Mappe das Term Sheet auf die Mietvertragsvorlage (-> `02_mapping_notiz.docx`).
+4. Lasse offene Rückfragen ausgeben (-> `03_rueckfragen_bsag.docx`).
+5. Erstelle einen Clean-Entwurf nach Prüfliste (-> `04_clean_entwurf_checkliste.docx`).
 6. Erst wenn ausdrücklich gewünscht: Track-Changes- oder Redline-Fassung vorbereiten.
 
 ## Prüffokuse

@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 754 KB) | PDF | [`gesamt-pdf/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp_gesamt.pdf`](gesamt-pdf/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 743 KB) | PDF | [`gesamt-pdf/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp_gesamt.pdf`](gesamt-pdf/mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mietstreit-altbau-rosenbluete-leipzig-modernisierung-und-minderung-tannenkamp-einzelpdfs.zip) |
 
@@ -64,28 +64,28 @@ Arbeitsakte zum Plugin `mietrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandatsuebernahme-tannenkamp.md`](01-mandatsuebernahme-tannenkamp.md) | Mandatsnotiz, Vollmacht, Interessenkonfliktprüfung |
-| 02 | [`02-sachverhalt-mietverhaeltnis-2014-leipzig.md`](02-sachverhalt-mietverhaeltnis-2014-leipzig.md) | Mietvertrag, Wohnungsdetails, Chronik seit 2014 |
-| 03 | [`03-zustands-und-mangelliste-altbau.md`](03-zustands-und-mangelliste-altbau.md) | Dokumentation sämtlicher Mängel, Fotonachweise |
-| 04 | [`04-mietminderungs-tabelle-bgh-rechtsprechung.md`](04-mietminderungs-tabelle-bgh-rechtsprechung.md) | Minderungsquoten-Übersicht, BGH-Zitate |
-| 05 | [`05-modernisierungsankuendigung-vermieter-rosenbluete.md`](05-modernisierungsankuendigung-vermieter-rosenbluete.md) | Ankündigungsschreiben des Vermieters, Prüfung §§ 555b–d BGB |
-| 06 | [`06-haerteeinwand-tannenkamp-finanzierung.md`](06-haerteeinwand-tannenkamp-finanzierung.md) | Härteeinwand § 555d Abs. 2 BGB, Einkommensnachweis |
-| 07 | [`07-betriebskostenabrechnung-2024-pruefung.md`](07-betriebskostenabrechnung-2024-pruefung.md) | BetrKV-Prüfung, Rüge Aufzugskosten |
-| 08 | [`08-mietspiegel-leipzig-2026-einordnung.md`](08-mietspiegel-leipzig-2026-einordnung.md) | Einordnung Bestandsmiete nach Mietspiegel Leipzig 2026 |
-| 09 | [`09-mieterhoehungsverlangen-pruefung.md`](09-mieterhoehungsverlangen-pruefung.md) | § 558 BGB Prüfung, Kappungsgrenze, Begründung |
-| 10 | [`10-kuendigung-eigenbedarf-vorbeugend.md`](10-kuendigung-eigenbedarf-vorbeugend.md) | Eigenbedarfskündigung § 573 BGB, Abwehrstrategie |
-| 11 | [`11-schimmel-gutachten-rechtsanwalt-position.md`](11-schimmel-gutachten-rechtsanwalt-position.md) | SV-Gutachten Schimmel, rechtliche Bewertung |
-| 12 | [`12-anhoerung-vermieter-strassburger-antwort.md`](12-anhoerung-vermieter-strassburger-antwort.md) | Stellungnahme Strassburger auf anwaltliche Anfrage |
-| 13 | [`13-klage-amtsgericht-leipzig-mietminderung.md`](13-klage-amtsgericht-leipzig-mietminderung.md) | Klageschrift AG Leipzig, Antrag auf Feststellung Mietminderung |
-| 14 | [`14-schriftsatz-anwalt-vermieter-rosenbluete.md`](14-schriftsatz-anwalt-vermieter-rosenbluete.md) | Klageerwiderung Vermieter RA Dr. Boden-Kassau |
-| 15 | [`15-replik-mandant-tannenkamp.md`](15-replik-mandant-tannenkamp.md) | Replik der Mandantschaft, Beweisanträge |
-| 16 | [`16-gerichtlicher-vergleichsvorschlag.md`](16-gerichtlicher-vergleichsvorschlag.md) | Vergleichsvorschlag des Gerichts, Bewertung |
-| 17 | [`17-protokoll-muendliche-verhandlung.md`](17-protokoll-muendliche-verhandlung.md) | Sitzungsprotokoll AG Leipzig 1 C 417/26 |
-| 18 | [`18-urteil-amtsgericht-leipzig-1-c-417-26.md`](18-urteil-amtsgericht-leipzig-1-c-417-26.md) | Urteil AG Leipzig vom 14.09.2026, Tenor und Gründe |
-| 19 | [`19-berufung-landgericht-leipzig.md`](19-berufung-landgericht-leipzig.md) | Berufungsbegründung Vermieter, LG Leipzig 6 S 184/26 |
-| 20 | [`20-stellungnahme-mieterbund-leipzig.md`](20-stellungnahme-mieterbund-leipzig.md) | Stellungnahme Mieterbund Leipzig e.V. |
-| 21 | [`21-mediationsversuch-stadt-leipzig.md`](21-mediationsversuch-stadt-leipzig.md) | Protokoll Mediationsversuch, gescheiterte Einigung |
-| 22 | [`22-abschlussvermerk-anwalt.md`](22-abschlussvermerk-anwalt.md) | Abschlussvermerk RA, Kostenfestsetzung, Ausblick |
+| 01 | [`01-mandatsuebernahme-tannenkamp.docx`](01-mandatsuebernahme-tannenkamp.docx) | Mandatsnotiz, Vollmacht, Interessenkonfliktprüfung |
+| 02 | [`02-sachverhalt-mietverhaeltnis-2014-leipzig.docx`](02-sachverhalt-mietverhaeltnis-2014-leipzig.docx) | Mietvertrag, Wohnungsdetails, Chronik seit 2014 |
+| 03 | [`03-zustands-und-mangelliste-altbau.docx`](03-zustands-und-mangelliste-altbau.docx) | Dokumentation sämtlicher Mängel, Fotonachweise |
+| 04 | [`04-mietminderungs-tabelle-bgh-rechtsprechung.docx`](04-mietminderungs-tabelle-bgh-rechtsprechung.docx) | Minderungsquoten-Übersicht, BGH-Zitate |
+| 05 | [`05-modernisierungsankuendigung-vermieter-rosenbluete.docx`](05-modernisierungsankuendigung-vermieter-rosenbluete.docx) | Ankündigungsschreiben des Vermieters, Prüfung §§ 555b–d BGB |
+| 06 | [`06-haerteeinwand-tannenkamp-finanzierung.docx`](06-haerteeinwand-tannenkamp-finanzierung.docx) | Härteeinwand § 555d Abs. 2 BGB, Einkommensnachweis |
+| 07 | [`07-betriebskostenabrechnung-2024-pruefung.docx`](07-betriebskostenabrechnung-2024-pruefung.docx) | BetrKV-Prüfung, Rüge Aufzugskosten |
+| 08 | [`08-mietspiegel-leipzig-2026-einordnung.docx`](08-mietspiegel-leipzig-2026-einordnung.docx) | Einordnung Bestandsmiete nach Mietspiegel Leipzig 2026 |
+| 09 | [`09-mieterhoehungsverlangen-pruefung.docx`](09-mieterhoehungsverlangen-pruefung.docx) | § 558 BGB Prüfung, Kappungsgrenze, Begründung |
+| 10 | [`10-kuendigung-eigenbedarf-vorbeugend.docx`](10-kuendigung-eigenbedarf-vorbeugend.docx) | Eigenbedarfskündigung § 573 BGB, Abwehrstrategie |
+| 11 | [`11-schimmel-gutachten-rechtsanwalt-position.docx`](11-schimmel-gutachten-rechtsanwalt-position.docx) | SV-Gutachten Schimmel, rechtliche Bewertung |
+| 12 | [`12-anhoerung-vermieter-strassburger-antwort.docx`](12-anhoerung-vermieter-strassburger-antwort.docx) | Stellungnahme Strassburger auf anwaltliche Anfrage |
+| 13 | [`13-klage-amtsgericht-leipzig-mietminderung.docx`](13-klage-amtsgericht-leipzig-mietminderung.docx) | Klageschrift AG Leipzig, Antrag auf Feststellung Mietminderung |
+| 14 | [`14-schriftsatz-anwalt-vermieter-rosenbluete.docx`](14-schriftsatz-anwalt-vermieter-rosenbluete.docx) | Klageerwiderung Vermieter RA Dr. Boden-Kassau |
+| 15 | [`15-replik-mandant-tannenkamp.docx`](15-replik-mandant-tannenkamp.docx) | Replik der Mandantschaft, Beweisanträge |
+| 16 | [`16-gerichtlicher-vergleichsvorschlag.docx`](16-gerichtlicher-vergleichsvorschlag.docx) | Vergleichsvorschlag des Gerichts, Bewertung |
+| 17 | [`17-protokoll-muendliche-verhandlung.docx`](17-protokoll-muendliche-verhandlung.docx) | Sitzungsprotokoll AG Leipzig 1 C 417/26 |
+| 18 | [`18-urteil-amtsgericht-leipzig-1-c-417-26.docx`](18-urteil-amtsgericht-leipzig-1-c-417-26.docx) | Urteil AG Leipzig vom 14.09.2026, Tenor und Gründe |
+| 19 | [`19-berufung-landgericht-leipzig.docx`](19-berufung-landgericht-leipzig.docx) | Berufungsbegründung Vermieter, LG Leipzig 6 S 184/26 |
+| 20 | [`20-stellungnahme-mieterbund-leipzig.docx`](20-stellungnahme-mieterbund-leipzig.docx) | Stellungnahme Mieterbund Leipzig e.V. |
+| 21 | [`21-mediationsversuch-stadt-leipzig.docx`](21-mediationsversuch-stadt-leipzig.docx) | Protokoll Mediationsversuch, gescheiterte Einigung |
+| 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk RA, Kostenfestsetzung, Ausblick |
 
 ---
 

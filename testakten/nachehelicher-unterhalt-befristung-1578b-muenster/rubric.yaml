@@ -29,19 +29,19 @@ checks:
   - id: r04-1578b-im-befristungsbegehren
     check_type: text_contains
     description: "Befristungsbegehren stützt sich auf § 1578b BGB"
-    path: "08_abaenderung_und_befristungsbegehren.md"
+    path: "08_abaenderung_und_befristungsbegehren.docx"
     contains: "1578b"
 
   - id: r05-239-famfg-statt-238
     check_type: text_contains
     description: "Abänderung eines Vergleichs über § 239 FamFG erkannt"
-    path: "08_abaenderung_und_befristungsbegehren.md"
+    path: "08_abaenderung_und_befristungsbegehren.docx"
     contains: "239 FamFG"
 
   - id: r06-verwirkung-hilfsweise
     check_type: text_contains
     description: "Verwirkung nach § 1579 BGB hilfsweise geprüft"
-    path: "12_strategie_und_vergleichskorridor.md"
+    path: "12_strategie_und_vergleichskorridor.docx"
     contains: "1579"
 
   - id: r07-fachspezifische-wuerdigung
@@ -52,12 +52,12 @@ checks:
   - id: r08-vergleichsprotokoll-vorhanden
     check_type: file_exists
     description: "Protokollabschrift des Vergleichs vom 09.03.2021 liegt als eigenes Aktenstück vor"
-    path: "13_vergleichsprotokoll_2021_abschrift.md"
+    path: "13_vergleichsprotokoll_2021_abschrift.docx"
 
   - id: r09-verdienstbescheinigung-vorhanden
     check_type: file_exists
     description: "Verdienstbescheinigung des Arbeitgebers liegt als eigenes Aktenstück vor"
-    path: "14_verdienstbescheinigung_vosskamp_2026.md"
+    path: "14_verdienstbescheinigung_vosskamp_2026.docx"
 
   - id: r10-titelauslegung
     check_type: human_review

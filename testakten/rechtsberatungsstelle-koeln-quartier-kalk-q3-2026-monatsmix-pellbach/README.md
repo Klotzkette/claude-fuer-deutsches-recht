@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 428 KB) | PDF | [`gesamt-pdf/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach_gesamt.pdf`](gesamt-pdf/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 427 KB) | PDF | [`gesamt-pdf/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach_gesamt.pdf`](gesamt-pdf/rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rechtsberatungsstelle-koeln-quartier-kalk-q3-2026-monatsmix-pellbach-einzelpdfs.zip) |
 
@@ -71,28 +71,28 @@ Arbeitsakte zum Plugin `rechtsberatungsstelle`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-uebersicht-monat-august-2026.md`](01-uebersicht-monat-august-2026.md) | Monatsübersicht August 2026, alle Fälle, Statistik |
-| 02 | [`02-fall-01-energieabsperrung-rwe.md`](02-fall-01-energieabsperrung-rwe.md) | Fall 01: Energieabsperrung Mehrfamilienhaus, BerH |
-| 03 | [`03-fall-02-jobcenter-rueckforderung.md`](03-fall-02-jobcenter-rueckforderung.md) | Fall 02: Jobcenter Rückforderung 8.400 EUR, § 50 SGB II |
-| 04 | [`04-fall-03-vermieterkuendigung-eigenbedarf.md`](04-fall-03-vermieterkuendigung-eigenbedarf.md) | Fall 03: Eigenbedarfskündigung Familie Ozturk-Brenner |
-| 05 | [`05-fall-04-unterhaltsstreit-vater.md`](05-fall-04-unterhaltsstreit-vater.md) | Fall 04: Unterhaltsstreit, PKH-Antrag |
-| 06 | [`06-fall-05-schuldenregulierung-pauschalreise.md`](06-fall-05-schuldenregulierung-pauschalreise.md) | Fall 05: Pauschalreise-Insolvenz, Schulden 6.800 EUR |
-| 07 | [`07-fall-06-aufenthaltstitel-verlust.md`](07-fall-06-aufenthaltstitel-verlust.md) | Fall 06: Aufenthaltstitel-Verlust nach Jobverlust |
-| 08 | [`08-fall-07-mahnbescheid-inkasso.md`](08-fall-07-mahnbescheid-inkasso.md) | Fall 07: Inkasso-Mahnbescheid Telekommunikation |
-| 09 | [`09-fall-08-grundsicherung-ablehnung.md`](09-fall-08-grundsicherung-ablehnung.md) | Fall 08: Grundsicherung abgelehnt, chronische Erkrankung |
-| 10 | [`10-fall-09-arbeitslosengeld-sperrzeit.md`](10-fall-09-arbeitslosengeld-sperrzeit.md) | Fall 09: ALG I Sperrzeit, Aufhebungsvertrag |
-| 11 | [`11-fall-10-fluggast-pauschale.md`](11-fall-10-fluggast-pauschale.md) | Fall 10: Flugausfall, EU-VO 261/2004 |
-| 12 | [`12-beratungshilfeantrag-fall-03.md`](12-beratungshilfeantrag-fall-03.md) | BerH-Antrag Fall 03 (Eigenbedarfskündigung) |
-| 13 | [`13-beratungshilfeantrag-fall-06.md`](13-beratungshilfeantrag-fall-06.md) | BerH-Antrag Fall 06 (Aufenthaltstitel) |
-| 14 | [`14-prozesskostenhilfe-fall-04.md`](14-prozesskostenhilfe-fall-04.md) | PKH-Antrag Fall 04 (Unterhaltsklage) |
-| 15 | [`15-vermittlung-schuldnerberatung-fall-05.md`](15-vermittlung-schuldnerberatung-fall-05.md) | Vermittlung Schuldnerberatung Diakonie, Fall 05 |
-| 16 | [`16-vermittlung-migrationsdienst-fall-06.md`](16-vermittlung-migrationsdienst-fall-06.md) | Vermittlung Migrationsdienst Caritas, Fall 06 |
-| 17 | [`17-musterbrief-widerspruch-jobcenter-fall-02.md`](17-musterbrief-widerspruch-jobcenter-fall-02.md) | Musterbrief Widerspruch Jobcenter, Fall 02 |
-| 18 | [`18-musterbrief-mahnbescheid-widerspruch-fall-07.md`](18-musterbrief-mahnbescheid-widerspruch-fall-07.md) | Musterbrief Widerspruch gegen Mahnbescheid, Fall 07 |
-| 19 | [`19-statistik-monat-august-2026.md`](19-statistik-monat-august-2026.md) | Monatsstatistik August 2026 |
-| 20 | [`20-fortbildungsbedarf-team.md`](20-fortbildungsbedarf-team.md) | Fortbildungsbedarfsanalyse Team |
-| 21 | [`21-supervisionsprotokoll-team.md`](21-supervisionsprotokoll-team.md) | Supervisionsprotokoll Team August 2026 |
-| 22 | [`22-monatsbericht-an-stadt-koeln.md`](22-monatsbericht-an-stadt-koeln.md) | Monatsbericht an Stadt Köln, Abt. 50 |
+| 01 | [`01-uebersicht-monat-august-2026.docx`](01-uebersicht-monat-august-2026.docx) | Monatsübersicht August 2026, alle Fälle, Statistik |
+| 02 | [`02-fall-01-energieabsperrung-rwe.docx`](02-fall-01-energieabsperrung-rwe.docx) | Fall 01: Energieabsperrung Mehrfamilienhaus, BerH |
+| 03 | [`03-fall-02-jobcenter-rueckforderung.docx`](03-fall-02-jobcenter-rueckforderung.docx) | Fall 02: Jobcenter Rückforderung 8.400 EUR, § 50 SGB II |
+| 04 | [`04-fall-03-vermieterkuendigung-eigenbedarf.docx`](04-fall-03-vermieterkuendigung-eigenbedarf.docx) | Fall 03: Eigenbedarfskündigung Familie Ozturk-Brenner |
+| 05 | [`05-fall-04-unterhaltsstreit-vater.docx`](05-fall-04-unterhaltsstreit-vater.docx) | Fall 04: Unterhaltsstreit, PKH-Antrag |
+| 06 | [`06-fall-05-schuldenregulierung-pauschalreise.docx`](06-fall-05-schuldenregulierung-pauschalreise.docx) | Fall 05: Pauschalreise-Insolvenz, Schulden 6.800 EUR |
+| 07 | [`07-fall-06-aufenthaltstitel-verlust.docx`](07-fall-06-aufenthaltstitel-verlust.docx) | Fall 06: Aufenthaltstitel-Verlust nach Jobverlust |
+| 08 | [`08-fall-07-mahnbescheid-inkasso.docx`](08-fall-07-mahnbescheid-inkasso.docx) | Fall 07: Inkasso-Mahnbescheid Telekommunikation |
+| 09 | [`09-fall-08-grundsicherung-ablehnung.docx`](09-fall-08-grundsicherung-ablehnung.docx) | Fall 08: Grundsicherung abgelehnt, chronische Erkrankung |
+| 10 | [`10-fall-09-arbeitslosengeld-sperrzeit.docx`](10-fall-09-arbeitslosengeld-sperrzeit.docx) | Fall 09: ALG I Sperrzeit, Aufhebungsvertrag |
+| 11 | [`11-fall-10-fluggast-pauschale.docx`](11-fall-10-fluggast-pauschale.docx) | Fall 10: Flugausfall, EU-VO 261/2004 |
+| 12 | [`12-beratungshilfeantrag-fall-03.docx`](12-beratungshilfeantrag-fall-03.docx) | BerH-Antrag Fall 03 (Eigenbedarfskündigung) |
+| 13 | [`13-beratungshilfeantrag-fall-06.docx`](13-beratungshilfeantrag-fall-06.docx) | BerH-Antrag Fall 06 (Aufenthaltstitel) |
+| 14 | [`14-prozesskostenhilfe-fall-04.docx`](14-prozesskostenhilfe-fall-04.docx) | PKH-Antrag Fall 04 (Unterhaltsklage) |
+| 15 | [`15-vermittlung-schuldnerberatung-fall-05.docx`](15-vermittlung-schuldnerberatung-fall-05.docx) | Vermittlung Schuldnerberatung Diakonie, Fall 05 |
+| 16 | [`16-vermittlung-migrationsdienst-fall-06.docx`](16-vermittlung-migrationsdienst-fall-06.docx) | Vermittlung Migrationsdienst Caritas, Fall 06 |
+| 17 | [`17-musterbrief-widerspruch-jobcenter-fall-02.docx`](17-musterbrief-widerspruch-jobcenter-fall-02.docx) | Musterbrief Widerspruch Jobcenter, Fall 02 |
+| 18 | [`18-musterbrief-mahnbescheid-widerspruch-fall-07.docx`](18-musterbrief-mahnbescheid-widerspruch-fall-07.docx) | Musterbrief Widerspruch gegen Mahnbescheid, Fall 07 |
+| 19 | [`19-statistik-monat-august-2026.docx`](19-statistik-monat-august-2026.docx) | Monatsstatistik August 2026 |
+| 20 | [`20-fortbildungsbedarf-team.docx`](20-fortbildungsbedarf-team.docx) | Fortbildungsbedarfsanalyse Team |
+| 21 | [`21-supervisionsprotokoll-team.docx`](21-supervisionsprotokoll-team.docx) | Supervisionsprotokoll Team August 2026 |
+| 22 | [`22-monatsbericht-an-stadt-koeln.docx`](22-monatsbericht-an-stadt-koeln.docx) | Monatsbericht an Stadt Köln, Abt. 50 |
 
 ---
 

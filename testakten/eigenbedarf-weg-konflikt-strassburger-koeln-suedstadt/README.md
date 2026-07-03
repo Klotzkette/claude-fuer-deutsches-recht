@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 419 KB) | PDF | [`gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf`](gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 409 KB) | PDF | [`gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf`](gesamt-pdf/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt-einzelpdfs.zip) |
 
@@ -45,28 +45,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/
 ├── README.md                                   ← Diese Datei
 │
-├── 01_aktenvorblatt_hauck_brueggemann.md
-├── 02_mietvertrag_2018_kpl.md
-├── 03_eigenbedarfskuendigung_28_02_2026.md
-├── 04_widerspruch_mieter_sozialklausel_574_bgb.md
-├── 05_kanzleinotiz_erstgespraech_strassburger.md
-├── 06_weg_protokoll_14_04_2026.md
-├── 07_anfechtungsklage_treppenhaussanierung.md
-├── 08_wirtschaftsplan_weg_2026.md
-├── 09_kostenvoranschlag_restaurator_a.md
-├── 10_kostenvoranschlag_restaurator_b.md
-├── 11_kostenvoranschlag_restaurator_c.md
-├── 12_schimmelgutachten_wallesch.md
-├── 13_mietminderungsanzeige_levi_albrecht.md
-├── 14_mahnung_mietrueckstaende_30_prozent.md
-├── 15_weg_beschluss_waermepumpe.md
-├── 16_beg_foerderantrag_skizze.md
-├── 17_schlichtungsvorschlag_mieterverein.md
-├── 18_email_kette_hauck_brueggemann_mieter.md
-├── 19_klageschrift_raeumungs_und_zahlungsklage_entwurf.md
-├── 20_mandantenrundbrief_strassburger.md
-├── 21_strategiememorandum.md
-├── 22_fristenkalender.md
+├── 01_aktenvorblatt_hauck_brueggemann.docx
+├── 02_mietvertrag_2018_kpl.docx
+├── 03_eigenbedarfskuendigung_28_02_2026.docx
+├── 04_widerspruch_mieter_sozialklausel_574_bgb.docx
+├── 05_kanzleinotiz_erstgespraech_strassburger.docx
+├── 06_weg_protokoll_14_04_2026.docx
+├── 07_anfechtungsklage_treppenhaussanierung.docx
+├── 08_wirtschaftsplan_weg_2026.docx
+├── 09_kostenvoranschlag_restaurator_a.docx
+├── 10_kostenvoranschlag_restaurator_b.docx
+├── 11_kostenvoranschlag_restaurator_c.docx
+├── 12_schimmelgutachten_wallesch.docx
+├── 13_mietminderungsanzeige_levi_albrecht.docx
+├── 14_mahnung_mietrueckstaende_30_prozent.docx
+├── 15_weg_beschluss_waermepumpe.docx
+├── 16_beg_foerderantrag_skizze.docx
+├── 17_schlichtungsvorschlag_mieterverein.docx
+├── 18_email_kette_hauck_brueggemann_mieter.docx
+├── 19_klageschrift_raeumungs_und_zahlungsklage_entwurf.docx
+├── 20_mandantenrundbrief_strassburger.docx
+├── 21_strategiememorandum.docx
+├── 22_fristenkalender.docx
 │
 ├── docx/
 │   ├── eigenbedarfskuendigung_28_02_2026.docx

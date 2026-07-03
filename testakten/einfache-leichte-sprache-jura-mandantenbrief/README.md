@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 98 KB) | PDF | [`gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf`](gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 85 KB) | PDF | [`gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf`](gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip) |
 
@@ -99,22 +99,22 @@ Rechtsgrundlagen: § 11 BGG (Behindertengleichstellungsgesetz), BITV 2.0.
 
 | Datei | Format | Inhalt |
 |---|---|---|
-| [`01_original_juristischer_text.md`](01_original_juristischer_text.md) | Markdown | Vollständiger juristischer Mandantenbrief 1 (Heizkosten) mit Rubrum, Briefkopf, Rechtslage, Empfehlung und Anlagen |
+| [`01_original_juristischer_text.docx`](01_original_juristischer_text.docx) | Markdown | Vollständiger juristischer Mandantenbrief 1 (Heizkosten) mit Rubrum, Briefkopf, Rechtslage, Empfehlung und Anlagen |
 | [`01_original_juristischer_text.docx`](01_original_juristischer_text.docx) | DOCX | Druckfertige DOCX-Version des Originalbriefs |
-| [`02_einfache_sprache.md`](02_einfache_sprache.md) | Markdown | Brief 1 in Einfacher Sprache (DIN SPEC 33429) |
-| [`03_leichte_sprache.md`](03_leichte_sprache.md) | Markdown | Brief 1 in Leichter Sprache (Netzwerk Leichte Sprache) |
+| [`02_einfache_sprache.docx`](02_einfache_sprache.docx) | Markdown | Brief 1 in Einfacher Sprache (DIN SPEC 33429) |
+| [`03_leichte_sprache.docx`](03_leichte_sprache.docx) | Markdown | Brief 1 in Leichter Sprache (Netzwerk Leichte Sprache) |
 | [`03_leichte_sprache.docx`](03_leichte_sprache.docx) | DOCX | DOCX-Version der Leichte-Sprache-Fassung Brief 1 |
-| [`04_glossar.md`](04_glossar.md) | Markdown | Vollständiges Glossar mit Sprachstufen-Spalte für Übersetzungsarbeit |
+| [`04_glossar.docx`](04_glossar.docx) | Markdown | Vollständiges Glossar mit Sprachstufen-Spalte für Übersetzungsarbeit |
 | [`05_qualitaetscheck_einfache.json`](05_qualitaetscheck_einfache.json) | JSON | Automatischer Prüfbericht zur Einfachen-Sprache-Fassung |
 | [`06_qualitaetscheck_leichte.json`](06_qualitaetscheck_leichte.json) | JSON | Automatischer Prüfbericht zur Leichte-Sprache-Fassung |
-| [`07_vergleichsdokument_brief1.md`](07_vergleichsdokument_brief1.md) | Markdown | Vergleichsdokument schwer → einfach → leicht für Brief 1, Satz-für-Satz-Analyse |
-| [`08_mandantenbrief2_mietkuendigung_schwer.md`](08_mandantenbrief2_mietkuendigung_schwer.md) | Markdown | Brief 2 -- Mietkündigung der Vermieterin, Schnittstelle Miet- / Sozialrecht (Standardfassung) |
-| [`09_mandantenbrief2_einfache.md`](09_mandantenbrief2_einfache.md) | Markdown | Brief 2 in Einfacher Sprache |
-| [`10_mandantenbrief2_leichte.md`](10_mandantenbrief2_leichte.md) | Markdown | Brief 2 in Leichter Sprache |
-| [`11_vergleichsdokument_brief2.md`](11_vergleichsdokument_brief2.md) | Markdown | Vergleichsdokument schwer → einfach → leicht für Brief 2, mit Bewertung Komplexitätssprung |
-| [`12_mandantenbrief3_betreuung_schwer.md`](12_mandantenbrief3_betreuung_schwer.md) | Markdown | Brief 3 -- Folgebetreuungsverfahren beim Amtsgericht, persönlicher Termin (Standardfassung) |
-| [`13_mandantenbrief3_einfache_und_leichte.md`](13_mandantenbrief3_einfache_und_leichte.md) | Markdown | Brief 3 in Einfacher und in Leichter Sprache mit Übersetzungshinweisen |
-| [`14_bitv_hinweis_und_compliance.md`](14_bitv_hinweis_und_compliance.md) | Markdown | Compliance-Hinweis BITV 2.0, BGG, DIN SPEC 33429, Zielgruppenprüfung, Risiken |
+| [`07_vergleichsdokument_brief1.docx`](07_vergleichsdokument_brief1.docx) | Markdown | Vergleichsdokument schwer → einfach → leicht für Brief 1, Satz-für-Satz-Analyse |
+| [`08_mandantenbrief2_mietkuendigung_schwer.docx`](08_mandantenbrief2_mietkuendigung_schwer.docx) | Markdown | Brief 2 -- Mietkündigung der Vermieterin, Schnittstelle Miet- / Sozialrecht (Standardfassung) |
+| [`09_mandantenbrief2_einfache.docx`](09_mandantenbrief2_einfache.docx) | Markdown | Brief 2 in Einfacher Sprache |
+| [`10_mandantenbrief2_leichte.docx`](10_mandantenbrief2_leichte.docx) | Markdown | Brief 2 in Leichter Sprache |
+| [`11_vergleichsdokument_brief2.docx`](11_vergleichsdokument_brief2.docx) | Markdown | Vergleichsdokument schwer → einfach → leicht für Brief 2, mit Bewertung Komplexitätssprung |
+| [`12_mandantenbrief3_betreuung_schwer.docx`](12_mandantenbrief3_betreuung_schwer.docx) | Markdown | Brief 3 -- Folgebetreuungsverfahren beim Amtsgericht, persönlicher Termin (Standardfassung) |
+| [`13_mandantenbrief3_einfache_und_leichte.docx`](13_mandantenbrief3_einfache_und_leichte.docx) | Markdown | Brief 3 in Einfacher und in Leichter Sprache mit Übersetzungshinweisen |
+| [`14_bitv_hinweis_und_compliance.docx`](14_bitv_hinweis_und_compliance.docx) | Markdown | Compliance-Hinweis BITV 2.0, BGG, DIN SPEC 33429, Zielgruppenprüfung, Risiken |
 
 ---
 

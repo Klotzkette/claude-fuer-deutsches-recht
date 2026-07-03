@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 711 KB) | PDF | [`gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf`](gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 693 KB) | PDF | [`gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf`](gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-governance-konzern-rollout-thalheim-industries.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip) |
 
@@ -96,28 +96,28 @@ Interne Revision (Leiter: Franz-Josef Brammer) entdeckt, dass die Marketingabtei
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-governance-leitlinie-entwurf.md`](01-governance-leitlinie-entwurf.md) | Entwurf KI-Governance-Leitlinie Thalheim Industries SE |
-| 02 | [`02-risikoklassifikations-matrix.md`](02-risikoklassifikations-matrix.md) | Risikoklassifikation der 5 KI-Systeme nach Anh. III KI-VO |
-| 03 | [`03-vorstandsbeschluss.md`](03-vorstandsbeschluss.md) | Vorstandsbeschluss KI-Governance-Programm TI-KI-2026 |
-| 04 | [`04-pflichtenmatrix-fachbereiche.md`](04-pflichtenmatrix-fachbereiche.md) | Pflichtenmatrix Art. 9 ff. KI-VO je Fachbereich |
-| 05 | [`05-ai-literacy-curriculum.md`](05-ai-literacy-curriculum.md) | AI-Literacy-Curriculum und Schulungsplan (Art. 4 KI-VO) |
-| 06 | [`06-vendor-due-diligence-openai.md`](06-vendor-due-diligence-openai.md) | Vendor Due Diligence OpenAI Ireland Ltd. / CodeAssist |
-| 07 | [`07-dpia-recruiting-tool.md`](07-dpia-recruiting-tool.md) | DPIA RecruitAI (Art. 35 DSGVO) — Entwurf |
-| 08 | [`08-incident-response-playbook.md`](08-incident-response-playbook.md) | KI-Incident-Response-Playbook Thalheim Industries |
-| 09 | [`09-rote-listen-verbotene-praktiken.md`](09-rote-listen-verbotene-praktiken.md) | Rote Liste — Verbotene KI-Praktiken nach Art. 5 KI-VO |
-| 10 | [`10-protokoll-ki-komitee-quartal1.md`](10-protokoll-ki-komitee-quartal1.md) | Protokoll KI-Komitee Q1 2026 (14.03.2026) |
-| 11 | [`11-betriebsratsvereinbarung-entwurf.md`](11-betriebsratsvereinbarung-entwurf.md) | Entwurf Betriebsvereinbarung KI-Systeme |
-| 12 | [`12-aufsichtsrat-bericht.md`](12-aufsichtsrat-bericht.md) | Aufsichtsratsbericht KI-Governance Q1 2026 |
-| 13 | [`13-konformitaetspruefung-hr-system.md`](13-konformitaetspruefung-hr-system.md) | Konformitätsprüfung RecruitAI — Auditbericht |
-| 14 | [`14-konformitaetspruefung-kreditscoring.md`](14-konformitaetspruefung-kreditscoring.md) | Konformitätsprüfung CreditVision Score |
-| 15 | [`15-stellungnahme-datenschutzbehoerde.md`](15-stellungnahme-datenschutzbehoerde.md) | Stellungnahme gegenüber LfDI BW (DPIA RecruitAI) |
-| 16 | [`16-interner-audit-bericht.md`](16-interner-audit-bericht.md) | Interner Revisionsbericht KI-Compliance (März 2026) |
-| 17 | [`17-eskalation-vorstandsvorsitz.md`](17-eskalation-vorstandsvorsitz.md) | Eskalationsvorlage an CEO Dr. Thalheim-Lattermann |
-| 18 | [`18-pressemitteilung-entwurf.md`](18-pressemitteilung-entwurf.md) | Pressemitteilungsentwurf: Thalheim startet KI-Governance |
-| 19 | [`19-q-and-a-kundenanfragen.md`](19-q-and-a-kundenanfragen.md) | Q&A zu Kundenanfragen zum KI-Einsatz |
-| 20 | [`20-roadmap-konformitaet-2027.md`](20-roadmap-konformitaet-2027.md) | Konformitäts-Roadmap 2025–2027 |
-| 21 | [`21-budgetplan-governance-funktion.md`](21-budgetplan-governance-funktion.md) | Budgetplan KI-Governance-Funktion 2026/2027 |
-| 22 | [`22-abschlussbericht-projektphase-1.md`](22-abschlussbericht-projektphase-1.md) | Abschlussbericht Projektphase 1 (Bestandsaufnahme) |
+| 01 | [`01-governance-leitlinie-entwurf.docx`](01-governance-leitlinie-entwurf.docx) | Entwurf KI-Governance-Leitlinie Thalheim Industries SE |
+| 02 | [`02-risikoklassifikations-matrix.docx`](02-risikoklassifikations-matrix.docx) | Risikoklassifikation der 5 KI-Systeme nach Anh. III KI-VO |
+| 03 | [`03-vorstandsbeschluss.docx`](03-vorstandsbeschluss.docx) | Vorstandsbeschluss KI-Governance-Programm TI-KI-2026 |
+| 04 | [`04-pflichtenmatrix-fachbereiche.docx`](04-pflichtenmatrix-fachbereiche.docx) | Pflichtenmatrix Art. 9 ff. KI-VO je Fachbereich |
+| 05 | [`05-ai-literacy-curriculum.docx`](05-ai-literacy-curriculum.docx) | AI-Literacy-Curriculum und Schulungsplan (Art. 4 KI-VO) |
+| 06 | [`06-vendor-due-diligence-openai.docx`](06-vendor-due-diligence-openai.docx) | Vendor Due Diligence OpenAI Ireland Ltd. / CodeAssist |
+| 07 | [`07-dpia-recruiting-tool.docx`](07-dpia-recruiting-tool.docx) | DPIA RecruitAI (Art. 35 DSGVO) — Entwurf |
+| 08 | [`08-incident-response-playbook.docx`](08-incident-response-playbook.docx) | KI-Incident-Response-Playbook Thalheim Industries |
+| 09 | [`09-rote-listen-verbotene-praktiken.docx`](09-rote-listen-verbotene-praktiken.docx) | Rote Liste — Verbotene KI-Praktiken nach Art. 5 KI-VO |
+| 10 | [`10-protokoll-ki-komitee-quartal1.docx`](10-protokoll-ki-komitee-quartal1.docx) | Protokoll KI-Komitee Q1 2026 (14.03.2026) |
+| 11 | [`11-betriebsratsvereinbarung-entwurf.docx`](11-betriebsratsvereinbarung-entwurf.docx) | Entwurf Betriebsvereinbarung KI-Systeme |
+| 12 | [`12-aufsichtsrat-bericht.docx`](12-aufsichtsrat-bericht.docx) | Aufsichtsratsbericht KI-Governance Q1 2026 |
+| 13 | [`13-konformitaetspruefung-hr-system.docx`](13-konformitaetspruefung-hr-system.docx) | Konformitätsprüfung RecruitAI — Auditbericht |
+| 14 | [`14-konformitaetspruefung-kreditscoring.docx`](14-konformitaetspruefung-kreditscoring.docx) | Konformitätsprüfung CreditVision Score |
+| 15 | [`15-stellungnahme-datenschutzbehoerde.docx`](15-stellungnahme-datenschutzbehoerde.docx) | Stellungnahme gegenüber LfDI BW (DPIA RecruitAI) |
+| 16 | [`16-interner-audit-bericht.docx`](16-interner-audit-bericht.docx) | Interner Revisionsbericht KI-Compliance (März 2026) |
+| 17 | [`17-eskalation-vorstandsvorsitz.docx`](17-eskalation-vorstandsvorsitz.docx) | Eskalationsvorlage an CEO Dr. Thalheim-Lattermann |
+| 18 | [`18-pressemitteilung-entwurf.docx`](18-pressemitteilung-entwurf.docx) | Pressemitteilungsentwurf: Thalheim startet KI-Governance |
+| 19 | [`19-q-and-a-kundenanfragen.docx`](19-q-and-a-kundenanfragen.docx) | Q&A zu Kundenanfragen zum KI-Einsatz |
+| 20 | [`20-roadmap-konformitaet-2027.docx`](20-roadmap-konformitaet-2027.docx) | Konformitäts-Roadmap 2025–2027 |
+| 21 | [`21-budgetplan-governance-funktion.docx`](21-budgetplan-governance-funktion.docx) | Budgetplan KI-Governance-Funktion 2026/2027 |
+| 22 | [`22-abschlussbericht-projektphase-1.docx`](22-abschlussbericht-projektphase-1.docx) | Abschlussbericht Projektphase 1 (Bestandsaufnahme) |
 
 ---
 

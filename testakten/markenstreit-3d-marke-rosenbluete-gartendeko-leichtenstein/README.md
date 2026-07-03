@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 597 KB) | PDF | [`gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf`](gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 588 KB) | PDF | [`gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf`](gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein-einzelpdfs.zip) |
 
@@ -61,28 +61,28 @@ Arbeitsakte zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstnotiz.md`](01_mandatsaufnahme_erstnotiz.md) | Kanzleinotiz Erstgespräch, Sachverhaltsaufnahme |
-| 02 | [`02_schutzrechtsportfolio_leichtenstein.md`](02_schutzrechtsportfolio_leichtenstein.md) | Übersicht aller Schutzrechte, Registerauszüge |
-| 03 | [`03_3d_marke_unterscheidungskraft_analyse.md`](03_3d_marke_unterscheidungskraft_analyse.md) | Rechtliche Analyse Art. 7 Abs. 1 lit. b UMV, EUIPO-Praxis |
-| 04 | [`04_verletzungsanalyse_flowerworld_ag.md`](04_verletzungsanalyse_flowerworld_ag.md) | Verwechslungsgefahr, Zeichenvergleich, § 14 Abs. 2 MarkenG |
-| 05 | [`05_einstweilige_verfuegung_antrag_und_beschluss.md`](05_einstweilige_verfuegung_antrag_und_beschluss.md) | eV-Antrag, Beschluss LG Mannheim, Vollziehung |
-| 06 | [`06_klage_markenverletzung_lg_mannheim.md`](06_klage_markenverletzung_lg_mannheim.md) | Klagebegründung 7 O 88/26, Streitgegenstand, Anträge |
-| 07 | [`07_schadensberechnung_lizenzanalogie.md`](07_schadensberechnung_lizenzanalogie.md) | Dreifachberechnung, Lizenzsatz, Auskunftsanspruch |
-| 08 | [`08_euipo_nichtigkeitsantrag_bouqart.md`](08_euipo_nichtigkeitsantrag_bouqart.md) | Löschungsantrag, Verfahrensgang, Erwiderung |
-| 09 | [`09_euipo_boards_of_appeal_beschwerde.md`](09_euipo_boards_of_appeal_beschwerde.md) | Beschwerdebegründung R 1322/26-2, Verkehrsdurchsetzung |
-| 10 | [`10_designrecht_geschmacksmuster_neuheit.md`](10_designrecht_geschmacksmuster_neuheit.md) | Neuheitsprüfung, Eigenart, Vintage-Katalog 1962 |
-| 11 | [`11_gutachten_vintage_katalog_1962.md`](11_gutachten_vintage_katalog_1962.md) | Sachverständigengutachten, Beweiswürdigung |
-| 12 | [`12_uwg_abmahnung_rosengarten24.md`](12_uwg_abmahnung_rosengarten24.md) | Abmahnung § 8 UWG, Unterlassungserklärung |
-| 13 | [`13_uwg_klage_olg_karlsruhe.md`](13_uwg_klage_olg_karlsruhe.md) | Berufungsbegründung 6 U 41/26, Rufausbeutung, Schleichwerbung |
-| 14 | [`14_lizenzvertrag_fonderie_roussel_kuendigung.md`](14_lizenzvertrag_fonderie_roussel_kuendigung.md) | Vertragskündigung, Restbestand, nachvertragliches WBV |
-| 15 | [`15_wettbewerbsverbot_restbestand_streit.md`](15_wettbewerbsverbot_restbestand_streit.md) | Nachbindungsklausel, 4.200 Stück Restbestand, Verhandlungsposition |
-| 16 | [`16_domain_streit_rosenmanufaktur_de.md`](16_domain_streit_rosenmanufaktur_de.md) | DENIC-Dispute, UDRP-Grundsätze, Dispute-Eintrag |
-| 17 | [`17_euipo_verteidigungsstrategie_verkehrsdurchsetzung.md`](17_euipo_verteidigungsstrategie_verkehrsdurchsetzung.md) | Verkehrsdurchsetzungsnachweis, Umfragen, Umsatznachweise |
-| 18 | [`18_beweismittel_und_recherche.md`](18_beweismittel_und_recherche.md) | Testkaufsprotokoll, eidesstattliche Versicherungen, Fotos |
-| 19 | [`19_vergleichsverhandlungen_flowerworld.md`](19_vergleichsverhandlungen_flowerworld.md) | Vergleichsgespräch, Lizenzlösungsangebot, Rückruf |
-| 20 | [`20_prozesstaktik_lg_mannheim.md`](20_prozesstaktik_lg_mannheim.md) | Beweisantritte, Gutachterauswahl, Terminsvorbereitung |
-| 21 | [`21_vollstreckung_ordnungsmittelantrag.md`](21_vollstreckung_ordnungsmittelantrag.md) | § 890 ZPO, Ordnungsgeldantrag, Verstöße nach eV |
-| 22 | [`22_gesamtstrategie_und_zeitachse.md`](22_gesamtstrategie_und_zeitachse.md) | Parallelverfahren, Meilensteine, Mandanteninformation |
+| 01 | [`01_mandatsaufnahme_erstnotiz.docx`](01_mandatsaufnahme_erstnotiz.docx) | Kanzleinotiz Erstgespräch, Sachverhaltsaufnahme |
+| 02 | [`02_schutzrechtsportfolio_leichtenstein.docx`](02_schutzrechtsportfolio_leichtenstein.docx) | Übersicht aller Schutzrechte, Registerauszüge |
+| 03 | [`03_3d_marke_unterscheidungskraft_analyse.docx`](03_3d_marke_unterscheidungskraft_analyse.docx) | Rechtliche Analyse Art. 7 Abs. 1 lit. b UMV, EUIPO-Praxis |
+| 04 | [`04_verletzungsanalyse_flowerworld_ag.docx`](04_verletzungsanalyse_flowerworld_ag.docx) | Verwechslungsgefahr, Zeichenvergleich, § 14 Abs. 2 MarkenG |
+| 05 | [`05_einstweilige_verfuegung_antrag_und_beschluss.docx`](05_einstweilige_verfuegung_antrag_und_beschluss.docx) | eV-Antrag, Beschluss LG Mannheim, Vollziehung |
+| 06 | [`06_klage_markenverletzung_lg_mannheim.docx`](06_klage_markenverletzung_lg_mannheim.docx) | Klagebegründung 7 O 88/26, Streitgegenstand, Anträge |
+| 07 | [`07_schadensberechnung_lizenzanalogie.docx`](07_schadensberechnung_lizenzanalogie.docx) | Dreifachberechnung, Lizenzsatz, Auskunftsanspruch |
+| 08 | [`08_euipo_nichtigkeitsantrag_bouqart.docx`](08_euipo_nichtigkeitsantrag_bouqart.docx) | Löschungsantrag, Verfahrensgang, Erwiderung |
+| 09 | [`09_euipo_boards_of_appeal_beschwerde.docx`](09_euipo_boards_of_appeal_beschwerde.docx) | Beschwerdebegründung R 1322/26-2, Verkehrsdurchsetzung |
+| 10 | [`10_designrecht_geschmacksmuster_neuheit.docx`](10_designrecht_geschmacksmuster_neuheit.docx) | Neuheitsprüfung, Eigenart, Vintage-Katalog 1962 |
+| 11 | [`11_gutachten_vintage_katalog_1962.docx`](11_gutachten_vintage_katalog_1962.docx) | Sachverständigengutachten, Beweiswürdigung |
+| 12 | [`12_uwg_abmahnung_rosengarten24.docx`](12_uwg_abmahnung_rosengarten24.docx) | Abmahnung § 8 UWG, Unterlassungserklärung |
+| 13 | [`13_uwg_klage_olg_karlsruhe.docx`](13_uwg_klage_olg_karlsruhe.docx) | Berufungsbegründung 6 U 41/26, Rufausbeutung, Schleichwerbung |
+| 14 | [`14_lizenzvertrag_fonderie_roussel_kuendigung.docx`](14_lizenzvertrag_fonderie_roussel_kuendigung.docx) | Vertragskündigung, Restbestand, nachvertragliches WBV |
+| 15 | [`15_wettbewerbsverbot_restbestand_streit.docx`](15_wettbewerbsverbot_restbestand_streit.docx) | Nachbindungsklausel, 4.200 Stück Restbestand, Verhandlungsposition |
+| 16 | [`16_domain_streit_rosenmanufaktur_de.docx`](16_domain_streit_rosenmanufaktur_de.docx) | DENIC-Dispute, UDRP-Grundsätze, Dispute-Eintrag |
+| 17 | [`17_euipo_verteidigungsstrategie_verkehrsdurchsetzung.docx`](17_euipo_verteidigungsstrategie_verkehrsdurchsetzung.docx) | Verkehrsdurchsetzungsnachweis, Umfragen, Umsatznachweise |
+| 18 | [`18_beweismittel_und_recherche.docx`](18_beweismittel_und_recherche.docx) | Testkaufsprotokoll, eidesstattliche Versicherungen, Fotos |
+| 19 | [`19_vergleichsverhandlungen_flowerworld.docx`](19_vergleichsverhandlungen_flowerworld.docx) | Vergleichsgespräch, Lizenzlösungsangebot, Rückruf |
+| 20 | [`20_prozesstaktik_lg_mannheim.docx`](20_prozesstaktik_lg_mannheim.docx) | Beweisantritte, Gutachterauswahl, Terminsvorbereitung |
+| 21 | [`21_vollstreckung_ordnungsmittelantrag.docx`](21_vollstreckung_ordnungsmittelantrag.docx) | § 890 ZPO, Ordnungsgeldantrag, Verstöße nach eV |
+| 22 | [`22_gesamtstrategie_und_zeitachse.docx`](22_gesamtstrategie_und_zeitachse.docx) | Parallelverfahren, Meilensteine, Mandanteninformation |
 
 ---
 

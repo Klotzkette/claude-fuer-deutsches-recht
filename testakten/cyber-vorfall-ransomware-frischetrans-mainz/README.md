@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 740 KB) | PDF | [`gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf`](gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 730 KB) | PDF | [`gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf`](gesamt-pdf/cyber-vorfall-ransomware-frischetrans-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cyber-vorfall-ransomware-frischetrans-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cyber-vorfall-ransomware-frischetrans-mainz-einzelpdfs.zip) |
 
@@ -80,28 +80,28 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 | Nr. | Dateiname | Inhalt | Größe |
 |---|---|---|---|
-| 01 | `01_aktenvorblatt_drosten_pekonkur.md` | Mandatsblatt, Beteiligte, Fristen | ~4 KB |
-| 02 | `02_chronologie_cyber_vorfall_d0_bis_d7.md` | Stundengenaue Ereignischronologie D+0 bis D+7 | ~8 KB |
-| 03 | `03_erpressungsschreiben_akiranext.md` | Erpressungsschreiben + rechtliche Bewertung | ~7 KB |
-| 04 | `04_kanzleinotiz_erstgespraech_wallbruck.md` | Mandatsgespräch-Notiz, Handlungsplan | ~6 KB |
-| 05 | `05_meldung_lfdi_rlp_art_33_dsgvo.md` | DSGVO-Meldung Art. 33 an LfDI RLP | ~7 KB |
-| 06 | `06_meldung_bsi_nis2.md` | NIS2-Meldung an BSI Außenstelle Frankfurt | ~7 KB |
-| 07 | `07_strafanzeige_zac_mainz.md` | Strafanzeige ZAC Mainz (421 UJs 6611/26) | ~7 KB |
-| 08 | `08_vertragsanalyse_processspark_sla.md` | SLA-Analyse IT-Betriebsvertrag ProcessSpark | ~8 KB |
-| 09 | `09_pflichtverletzung_processspark_cve_2026_0712.md` | Kausalitätsanalyse CVE-2026-0712 | ~7 KB |
-| 10 | `10_klageandrohung_processspark.md` | Klageandrohungsschreiben, Forderung EUR 681.818 | ~7 KB |
-| 11 | `11_dsfa_bem_gesundheitsdaten.md` | DSFA Art. 35 DSGVO — BEM-Gesundheitsdaten | ~7 KB |
-| 12 | `12_meldung_betroffene_art_34_dsgvo.md` | Mitarbeiterbenachrichtigung Art. 34 DSGVO | ~7 KB |
-| 13 | `13_ki_vo_klassifizierung_palettenauge.md` | KI-VO Hochrisiko-Analyse PalettenAuge AI | ~8 KB |
-| 14 | `14_open_source_audit_scheduleherokit.md` | AGPL-3.0 Compliance-Audit TourPlanner | ~7 KB |
-| 15 | `15_versicherungsmeldung_cybercovered.md` | Versicherungsmeldung CyberCovered AG | ~5 KB |
-| 16 | `16_kundenkommunikation_frischbaecker_backhaussued.md` | Kundenkommunikation (2 systemrelevante Kunden) | ~7 KB |
-| 17 | `17_mitarbeiter_information_bem_betroffenheit.md` | Individualkommunikation BEM-Betroffene (38 MA) | ~7 KB |
-| 18 | `18_betriebsrat_anhoerung.md` | BR-Anhörungsprotokoll (§ 87 BetrVG, KI-VO) | ~6 KB |
-| 19 | `19_pressemitteilung_entwurf_redacted.md` | Pressemitteilungs-Entwurf (kanzleigeprüft) | ~5 KB |
-| 20 | `20_strategiememorandum_drosten.md` | Strategiememorandum RA Drosten | ~7 KB |
-| 21 | `21_kostenrisiko_streitwert_analyse.md` | Kostenrisiko / RVG-Streitwertberechnung | ~6 KB |
-| 22 | `22_fristenuebersicht_meldepflichten.md` | Vollständige Fristen- und Terminübersicht | ~6 KB |
+| 01 | `01_aktenvorblatt_drosten_pekonkur.docx` | Mandatsblatt, Beteiligte, Fristen | ~4 KB |
+| 02 | `02_chronologie_cyber_vorfall_d0_bis_d7.docx` | Stundengenaue Ereignischronologie D+0 bis D+7 | ~8 KB |
+| 03 | `03_erpressungsschreiben_akiranext.docx` | Erpressungsschreiben + rechtliche Bewertung | ~7 KB |
+| 04 | `04_kanzleinotiz_erstgespraech_wallbruck.docx` | Mandatsgespräch-Notiz, Handlungsplan | ~6 KB |
+| 05 | `05_meldung_lfdi_rlp_art_33_dsgvo.docx` | DSGVO-Meldung Art. 33 an LfDI RLP | ~7 KB |
+| 06 | `06_meldung_bsi_nis2.docx` | NIS2-Meldung an BSI Außenstelle Frankfurt | ~7 KB |
+| 07 | `07_strafanzeige_zac_mainz.docx` | Strafanzeige ZAC Mainz (421 UJs 6611/26) | ~7 KB |
+| 08 | `08_vertragsanalyse_processspark_sla.docx` | SLA-Analyse IT-Betriebsvertrag ProcessSpark | ~8 KB |
+| 09 | `09_pflichtverletzung_processspark_cve_2026_0712.docx` | Kausalitätsanalyse CVE-2026-0712 | ~7 KB |
+| 10 | `10_klageandrohung_processspark.docx` | Klageandrohungsschreiben, Forderung EUR 681.818 | ~7 KB |
+| 11 | `11_dsfa_bem_gesundheitsdaten.docx` | DSFA Art. 35 DSGVO — BEM-Gesundheitsdaten | ~7 KB |
+| 12 | `12_meldung_betroffene_art_34_dsgvo.docx` | Mitarbeiterbenachrichtigung Art. 34 DSGVO | ~7 KB |
+| 13 | `13_ki_vo_klassifizierung_palettenauge.docx` | KI-VO Hochrisiko-Analyse PalettenAuge AI | ~8 KB |
+| 14 | `14_open_source_audit_scheduleherokit.docx` | AGPL-3.0 Compliance-Audit TourPlanner | ~7 KB |
+| 15 | `15_versicherungsmeldung_cybercovered.docx` | Versicherungsmeldung CyberCovered AG | ~5 KB |
+| 16 | `16_kundenkommunikation_frischbaecker_backhaussued.docx` | Kundenkommunikation (2 systemrelevante Kunden) | ~7 KB |
+| 17 | `17_mitarbeiter_information_bem_betroffenheit.docx` | Individualkommunikation BEM-Betroffene (38 MA) | ~7 KB |
+| 18 | `18_betriebsrat_anhoerung.docx` | BR-Anhörungsprotokoll (§ 87 BetrVG, KI-VO) | ~6 KB |
+| 19 | `19_pressemitteilung_entwurf_redacted.docx` | Pressemitteilungs-Entwurf (kanzleigeprüft) | ~5 KB |
+| 20 | `20_strategiememorandum_drosten.docx` | Strategiememorandum RA Drosten | ~7 KB |
+| 21 | `21_kostenrisiko_streitwert_analyse.docx` | Kostenrisiko / RVG-Streitwertberechnung | ~6 KB |
+| 22 | `22_fristenuebersicht_meldepflichten.docx` | Vollständige Fristen- und Terminübersicht | ~6 KB |
 
 ---
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 70 KB) | PDF | [`gesamt-pdf/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026_gesamt.pdf`](gesamt-pdf/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026_gesamt.pdf`](gesamt-pdf/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026-einzelpdfs.zip) |
 
@@ -40,21 +40,21 @@ Arbeitsakte zum Plugin `normenkontrollrat-nkr`.
 | Nr | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Lese-Reihenfolge, Frist-Kalender, Verfahrensstand |
-| 01 | [`01_eingangstriage_referentenentwurf_14_04_2026.md`](01_eingangstriage_referentenentwurf_14_04_2026.md) | Eingangstriage NKR |
-| 02 | [`02_referentenentwurf_elerrhandregg_eckpunkte.md`](02_referentenentwurf_elerrhandregg_eckpunkte.md) | Eckpunkte ElErrHandRegG |
-| 03 | [`03_ressortbegruendung_bmj_argumentation.md`](03_ressortbegruendung_bmj_argumentation.md) | BMJ-Argumentation |
-| 04 | [`04_erforderlichkeitspruefung_warum_regeln.md`](04_erforderlichkeitspruefung_warum_regeln.md) | NKR-Erforderlichkeitspruefung |
-| 05 | [`05_alternativen_pruefung_freiwillig_vs_zentral_vs_dezentral.md`](05_alternativen_pruefung_freiwillig_vs_zentral_vs_dezentral.md) | Drei Alternativen |
-| 06 | [`06_erfuellungsaufwand_berechnung_wirtschaft_320_mio.md`](06_erfuellungsaufwand_berechnung_wirtschaft_320_mio.md) | Erfuellungsaufwand Wirtschaft |
-| 07 | [`07_erfuellungsaufwand_berechnung_verwaltung_180_mio.md`](07_erfuellungsaufwand_berechnung_verwaltung_180_mio.md) | Erfuellungsaufwand Verwaltung |
-| 08 | [`08_one_in_one_out_pruefung.md`](08_one_in_one_out_pruefung.md) | One-in-one-out-Bilanz |
-| 09 | [`09_mittelstandsfreundlichkeit_kmu_test.md`](09_mittelstandsfreundlichkeit_kmu_test.md) | KMU-Test |
-| 10 | [`10_praktikabilitaet_vollzug_amtsgericht_test.md`](10_praktikabilitaet_vollzug_amtsgericht_test.md) | Vollzug AG-Test |
-| 11 | [`11_digitalcheck_und_ozg_kompatibilitaet.md`](11_digitalcheck_und_ozg_kompatibilitaet.md) | Digitalcheck und OZG |
-| 12 | [`12_eu_ebene_eidas_und_bruessel_ia_vo.md`](12_eu_ebene_eidas_und_bruessel_ia_vo.md) | EU-Ebene |
-| 13 | [`13_nkr_stellungnahme_entwurf_v1.md`](13_nkr_stellungnahme_entwurf_v1.md) | NKR-Stellungnahme V1 |
-| 14 | [`14_nkr_stellungnahme_finale_fassung.md`](14_nkr_stellungnahme_finale_fassung.md) | NKR-Stellungnahme Final |
-| 15 | [`15_jahresbericht_bezug_und_pressehinweis.md`](15_jahresbericht_bezug_und_pressehinweis.md) | Jahresbericht/Presse |
+| 01 | [`01_eingangstriage_referentenentwurf_14_04_2026.docx`](01_eingangstriage_referentenentwurf_14_04_2026.docx) | Eingangstriage NKR |
+| 02 | [`02_referentenentwurf_elerrhandregg_eckpunkte.docx`](02_referentenentwurf_elerrhandregg_eckpunkte.docx) | Eckpunkte ElErrHandRegG |
+| 03 | [`03_ressortbegruendung_bmj_argumentation.docx`](03_ressortbegruendung_bmj_argumentation.docx) | BMJ-Argumentation |
+| 04 | [`04_erforderlichkeitspruefung_warum_regeln.docx`](04_erforderlichkeitspruefung_warum_regeln.docx) | NKR-Erforderlichkeitspruefung |
+| 05 | [`05_alternativen_pruefung_freiwillig_vs_zentral_vs_dezentral.docx`](05_alternativen_pruefung_freiwillig_vs_zentral_vs_dezentral.docx) | Drei Alternativen |
+| 06 | [`06_erfuellungsaufwand_berechnung_wirtschaft_320_mio.docx`](06_erfuellungsaufwand_berechnung_wirtschaft_320_mio.docx) | Erfuellungsaufwand Wirtschaft |
+| 07 | [`07_erfuellungsaufwand_berechnung_verwaltung_180_mio.docx`](07_erfuellungsaufwand_berechnung_verwaltung_180_mio.docx) | Erfuellungsaufwand Verwaltung |
+| 08 | [`08_one_in_one_out_pruefung.docx`](08_one_in_one_out_pruefung.docx) | One-in-one-out-Bilanz |
+| 09 | [`09_mittelstandsfreundlichkeit_kmu_test.docx`](09_mittelstandsfreundlichkeit_kmu_test.docx) | KMU-Test |
+| 10 | [`10_praktikabilitaet_vollzug_amtsgericht_test.docx`](10_praktikabilitaet_vollzug_amtsgericht_test.docx) | Vollzug AG-Test |
+| 11 | [`11_digitalcheck_und_ozg_kompatibilitaet.docx`](11_digitalcheck_und_ozg_kompatibilitaet.docx) | Digitalcheck und OZG |
+| 12 | [`12_eu_ebene_eidas_und_bruessel_ia_vo.docx`](12_eu_ebene_eidas_und_bruessel_ia_vo.docx) | EU-Ebene |
+| 13 | [`13_nkr_stellungnahme_entwurf_v1.docx`](13_nkr_stellungnahme_entwurf_v1.docx) | NKR-Stellungnahme V1 |
+| 14 | [`14_nkr_stellungnahme_finale_fassung.docx`](14_nkr_stellungnahme_finale_fassung.docx) | NKR-Stellungnahme Final |
+| 15 | [`15_jahresbericht_bezug_und_pressehinweis.docx`](15_jahresbericht_bezug_und_pressehinweis.docx) | Jahresbericht/Presse |
 | 16 | [`eml/`](eml/) | Vier EMLs mit dem BMJ-Referenten-Dialog |
 | 17 | [`tabellen/zeitwerttabelle_und_fallzahlen.csv`](tabellen/zeitwerttabelle_und_fallzahlen.csv) | Zeitwerttabelle |
 | 18 | [`tabellen/alternativen_szenarienbilanz.csv`](tabellen/alternativen_szenarienbilanz.csv) | Szenarienbilanz |

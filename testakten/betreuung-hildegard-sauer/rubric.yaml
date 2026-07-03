@@ -15,15 +15,15 @@ checks:
   - id: r03-vermoegensverzeichnis
     check_type: file_exists
     description: "Vermoegensverzeichnis vorhanden"
-    path: "05_Vermoegensverzeichnis_Stand_30-04-2026.md"
+    path: "05_Vermoegensverzeichnis_Stand_30-04-2026.docx"
 
   - id: r04-genehmigungsantrag-1850-bgb
     check_type: file_exists
     description: "Genehmigungsantrag $ 1850 BGB vorhanden"
-    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.md"
+    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx"
 
   - id: r05-paragraf-1850-erwaehnt
     check_type: text_contains
     description: "$ 1850 BGB im Genehmigungsantrag erwaehnt"
-    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.md"
+    path: "09_Genehmigungsantrag_Wohnungsverkauf_Entwurf.docx"
     contains: "1850"

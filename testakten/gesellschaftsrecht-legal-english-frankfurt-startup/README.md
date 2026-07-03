@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 5347 KB) | PDF | [`gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 5193 KB) | PDF | [`gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf`](gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup-einzelpdfs.zip) |
 
@@ -28,29 +28,29 @@ Beurkundender Notar: Notariat Dr. Bertram Veitschegger, Frankfurt am Main, Unter
 
 | Datei | Inhalt |
 | --- | --- |
-| `00-deal-personen-und-zeitleiste.md` | Cast, Zeitleiste 14.02.2022 bis 15.09.2026, Eckdaten |
-| `01-partnerauftrag-emails.md` | Zwei Partner-E-Mails von Westarp an Hildemar K., Donnerstag früh |
-| `02-cap-table-und-gesellschafterliste.md` | Cap Table v19 (current/post-money), Gesellschafterliste nach § 40 GmbHG, Abgleich |
-| `03-term-sheet-auszug.md` | Term Sheet Northbridge vom 14.04.2026, gezeichnet von Ostwald, mit Markups Brackenmuir |
-| `04-sha-satzung-und-vesting-notizen.md` | SHA-Entwurf v2.1 (Brackenmuir) + Satzungs-Entwurf neu (Westarp), interne Vesting-Notizen |
-| `05-dd-red-flags-und-client-fragen.md` | DD-Red-Flags Steuer, IP, Arbeitsrecht, plus offene Mandantenfragen |
-| `06-associate-arbeitsstand.md` | Arbeitsstand Hildemar K. (Stand Donnerstag 11:15), mit Margin-Notes Westarp |
-| `10-wandeldarlehen-tante-ermelind.md` | Convertible Loan Agreement Tante Ermelind UG vom 20.06.2024 |
-| `11-investor-counsel-markup-emails.md` | E-Mail-Roundtrip Brackenmuir ↔ Westarp ↔ Hildemar zum Round-1-Markup |
-| `11n-westarp-randnotiz-zum-entwurf.md` | Randnotiz Westarp zum Entwurf Hildemar K. (Datei 11, E-Mail 3) |
-| `12-notar-checkliste-und-handelsregisterlogik.md` | Pre-Closing-Checkliste Notar/HR, Datenraum-Index „04 Closing/Notary" |
-| `13-side-letter-und-information-rights.md` | Side Letter Northbridge + MFN-Mechanik + Information Rights |
-| `14-board-und-consent-matters-mapping-de-en.md` | Mapping Consent Matters: Beirat / Gesellschafterversammlung / GF-Geschäftsordnung |
-| `15-closing-checkliste-cp.md` | Closing-Checkliste mit CPs und Closing Deliverables |
-| `16-whatsapp-partner-associate-thread.md` | WhatsApp Westarp ↔ Hildemar, Donnerstag 06:58–08:21 |
+| `00-deal-personen-und-zeitleiste.docx` | Cast, Zeitleiste 14.02.2022 bis 15.09.2026, Eckdaten |
+| `01-partnerauftrag-emails.docx` | Zwei Partner-E-Mails von Westarp an Hildemar K., Donnerstag früh |
+| `02-cap-table-und-gesellschafterliste.docx` | Cap Table v19 (current/post-money), Gesellschafterliste nach § 40 GmbHG, Abgleich |
+| `03-term-sheet-auszug.docx` | Term Sheet Northbridge vom 14.04.2026, gezeichnet von Ostwald, mit Markups Brackenmuir |
+| `04-sha-satzung-und-vesting-notizen.docx` | SHA-Entwurf v2.1 (Brackenmuir) + Satzungs-Entwurf neu (Westarp), interne Vesting-Notizen |
+| `05-dd-red-flags-und-client-fragen.docx` | DD-Red-Flags Steuer, IP, Arbeitsrecht, plus offene Mandantenfragen |
+| `06-associate-arbeitsstand.docx` | Arbeitsstand Hildemar K. (Stand Donnerstag 11:15), mit Margin-Notes Westarp |
+| `10-wandeldarlehen-tante-ermelind.docx` | Convertible Loan Agreement Tante Ermelind UG vom 20.06.2024 |
+| `11-investor-counsel-markup-emails.docx` | E-Mail-Roundtrip Brackenmuir ↔ Westarp ↔ Hildemar zum Round-1-Markup |
+| `11n-westarp-randnotiz-zum-entwurf.docx` | Randnotiz Westarp zum Entwurf Hildemar K. (Datei 11, E-Mail 3) |
+| `12-notar-checkliste-und-handelsregisterlogik.docx` | Pre-Closing-Checkliste Notar/HR, Datenraum-Index „04 Closing/Notary" |
+| `13-side-letter-und-information-rights.docx` | Side Letter Northbridge + MFN-Mechanik + Information Rights |
+| `14-board-und-consent-matters-mapping-de-en.docx` | Mapping Consent Matters: Beirat / Gesellschafterversammlung / GF-Geschäftsordnung |
+| `15-closing-checkliste-cp.docx` | Closing-Checkliste mit CPs und Closing Deliverables |
+| `16-whatsapp-partner-associate-thread.docx` | WhatsApp Westarp ↔ Hildemar, Donnerstag 06:58–08:21 |
 | `18-cap-table-und-waterfall.xlsx` | Cap-Table-Modell mit Pool pre-/post-money, Wandeldarlehen und Liquidation-Preference-Waterfall |
 | `18-cap-table-und-waterfall.pdf` | PDF-Ausdruck des Cap-Table-/Waterfall-Arbeitsmodells |
 | `19-notar-scan-beurkundungssprache.pdf` | Notar-Memo Veitschegger zur Beurkundungssprache § 16 BeurkG |
 | `20-whiteboard-foto-deal-map.jpg` | Whiteboard-Foto Deal-Map aus dem Donnerstag-Morgen-Stand |
 | `21-investor-email-screenshot.jpg` | Screenshot einer Investor-E-Mail aus der Mandantenkommunikation |
 | `22-whatsapp-screenshot.jpg` | WhatsApp-Screenshot Westarp/Hildemar |
-| `24-agio-und-kapitalruecklage-streitfrage.md` | Westarp-Notiz an Hildemar zur Satzungsverankerung des Agio |
-| `25-mailbox-und-call-fragmente.md` | Outlook-/Slack-/Call-Fragmente für den Donnerstagvormittag |
+| `24-agio-und-kapitalruecklage-streitfrage.docx` | Westarp-Notiz an Hildemar zur Satzungsverankerung des Agio |
+| `25-mailbox-und-call-fragmente.docx` | Outlook-/Slack-/Call-Fragmente für den Donnerstagvormittag |
 | `26-gesamtakte-kometenfalter-series-a.pdf` | Zusammengeführte PDF-Fassung der Aktenbestandteile |
 | `emails/` | Originaltextstand der gesandten und empfangenen E-Mails als .eml |
 | `chats/` | Originalstand Slack-Thread #project-comet-moth und WhatsApp Westarp/Hildemar (Markdown, jeweils zusätzlich als DOCX und PDF) |

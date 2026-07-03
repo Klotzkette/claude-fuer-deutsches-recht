@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 599 KB) | PDF | [`gesamt-pdf/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben_gesamt.pdf`](gesamt-pdf/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 585 KB) | PDF | [`gesamt-pdf/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben_gesamt.pdf`](gesamt-pdf/drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-drafting-werkstatt-asset-deal-spv-grundstueck-volkenrath-energie-share-deal-und-pivot-anwaltsschreiben-einzelpdfs.zip) |
 
@@ -95,30 +95,30 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01-mandantenbriefing-volkenrath.md`](01-mandantenbriefing-volkenrath.md) | Mandantennotiz Erstgespräch, Vollmacht, GwG-Check |
-| 02 | [`02-term-sheet-spa-v1.md`](02-term-sheet-spa-v1.md) | Term Sheet / Letter of Intent, Exklusivität, Break Fee |
-| 03 | [`03-spa-draft-1-issue-list.md`](03-spa-draft-1-issue-list.md) | SPA Draft 1 — Issue-List und offene Punkte |
-| 04 | [`04-spa-draft-2-redline-summary.md`](04-spa-draft-2-redline-summary.md) | SPA Draft 2 — Redline-Zusammenfassung |
-| 05 | [`05-warranties-katalog-knowledge-qualifier.md`](05-warranties-katalog-knowledge-qualifier.md) | Warranties-Katalog, Knowledge Qualifier, Materiality Auslesen |
-| 06 | [`06-mac-klausel-formulierungsoptionen.md`](06-mac-klausel-formulierungsoptionen.md) | MAC-Klausel, Energiemarkt-Carve-out, Varianten |
-| 07 | [`07-earn-out-2027-definition-ebitda.md`](07-earn-out-2027-definition-ebitda.md) | Earn-Out 2027 — EBITDA-Definition und Streitbeilegung |
-| 08 | [`08-indemnification-cap-basket.md`](08-indemnification-cap-basket.md) | Indemnification: Cap, Basket, De minimis, Survival |
-| 09 | [`09-asset-deal-pivot-grest.md`](09-asset-deal-pivot-grest.md) | Asset-Deal-Pivot wegen GrEStG § 1 Abs. 3 |
-| 10 | [`10-anwaltsschreiben-bka-anmeldung.md`](10-anwaltsschreiben-bka-anmeldung.md) | Anwaltsschreiben an BKartA, GWB § 39 ff. |
-| 11 | [`11-agb-pruefung-engineering-vertrag.md`](11-agb-pruefung-engineering-vertrag.md) | AGB-Pruefung Engineering-Servicevertrag, § 305 ff. BGB |
-| 12 | [`12-word-finish-checkliste.md`](12-word-finish-checkliste.md) | Word-Finish: Formatierung, Querverweise, Defined Terms |
-| 13 | [`13-kanzleistil-grosskanzlei-vs-boutique.md`](13-kanzleistil-grosskanzlei-vs-boutique.md) | Kanzleistil-Kalibrierung Grosskanzlei vs. Boutique |
-| 14 | [`14-redline-workflow-track-changes.md`](14-redline-workflow-track-changes.md) | Redline-Workflow: Word Track Changes, Kommentare |
-| 15 | [`15-schriftsatz-strukturierung-prinzip.md`](15-schriftsatz-strukturierung-prinzip.md) | Schriftsatz-Strukturierung: Antrag, Begründung, Form |
-| 16 | [`16-anwaltsschreiben-an-finanzamt-berlin.md`](16-anwaltsschreiben-an-finanzamt-berlin.md) | Anwaltsschreiben FA Berlin-Mitte, verbindliche Auskunft GrESt |
-| 17 | [`17-disclosure-schedules-management.md`](17-disclosure-schedules-management.md) | Disclosure Schedules: Aufbau, Verweistechnik, Qualifizierung |
-| 18 | [`18-closing-checklist.md`](18-closing-checklist.md) | Closing Checklist: Conditions, Notartermin, Registrierung |
-| 19 | [`19-notartermin-vorbereitung.md`](19-notartermin-vorbereitung.md) | Notartermin-Vorbereitung: Beurkundungsablauf, Vollmachten |
-| 20 | [`20-mandantenmemo-go-no-go.md`](20-mandantenmemo-go-no-go.md) | Go/No-Go-Memo: Risikomatrix, Empfehlung Mandant |
-| 21 | [`21-finale-revision-vor-signing.md`](21-finale-revision-vor-signing.md) | Finale Revision: Last-Minute-Check vor Signing |
-| 22 | [`22-post-signing-housekeeping.md`](22-post-signing-housekeeping.md) | Post-Signing Housekeeping: Closing-Memo, Folgefristen |
-| 23 | [`23-vollmacht-roosendaal-birkenhainer.md`](23-vollmacht-roosendaal-birkenhainer.md) | Vollmacht Volkenrath Energie SE an Roosendaal Birkenhainer Partners mbB |
-| 24 | [`24-agb-bereinigungsprotokoll-esv.md`](24-agb-bereinigungsprotokoll-esv.md) | AGB-Bereinigungsprotokoll Engineering-Servicevertrag: Ergebnis und Disclosure |
+| 01 | [`01-mandantenbriefing-volkenrath.docx`](01-mandantenbriefing-volkenrath.docx) | Mandantennotiz Erstgespräch, Vollmacht, GwG-Check |
+| 02 | [`02-term-sheet-spa-v1.docx`](02-term-sheet-spa-v1.docx) | Term Sheet / Letter of Intent, Exklusivität, Break Fee |
+| 03 | [`03-spa-draft-1-issue-list.docx`](03-spa-draft-1-issue-list.docx) | SPA Draft 1 — Issue-List und offene Punkte |
+| 04 | [`04-spa-draft-2-redline-summary.docx`](04-spa-draft-2-redline-summary.docx) | SPA Draft 2 — Redline-Zusammenfassung |
+| 05 | [`05-warranties-katalog-knowledge-qualifier.docx`](05-warranties-katalog-knowledge-qualifier.docx) | Warranties-Katalog, Knowledge Qualifier, Materiality Auslesen |
+| 06 | [`06-mac-klausel-formulierungsoptionen.docx`](06-mac-klausel-formulierungsoptionen.docx) | MAC-Klausel, Energiemarkt-Carve-out, Varianten |
+| 07 | [`07-earn-out-2027-definition-ebitda.docx`](07-earn-out-2027-definition-ebitda.docx) | Earn-Out 2027 — EBITDA-Definition und Streitbeilegung |
+| 08 | [`08-indemnification-cap-basket.docx`](08-indemnification-cap-basket.docx) | Indemnification: Cap, Basket, De minimis, Survival |
+| 09 | [`09-asset-deal-pivot-grest.docx`](09-asset-deal-pivot-grest.docx) | Asset-Deal-Pivot wegen GrEStG § 1 Abs. 3 |
+| 10 | [`10-anwaltsschreiben-bka-anmeldung.docx`](10-anwaltsschreiben-bka-anmeldung.docx) | Anwaltsschreiben an BKartA, GWB § 39 ff. |
+| 11 | [`11-agb-pruefung-engineering-vertrag.docx`](11-agb-pruefung-engineering-vertrag.docx) | AGB-Pruefung Engineering-Servicevertrag, § 305 ff. BGB |
+| 12 | [`12-word-finish-checkliste.docx`](12-word-finish-checkliste.docx) | Word-Finish: Formatierung, Querverweise, Defined Terms |
+| 13 | [`13-kanzleistil-grosskanzlei-vs-boutique.docx`](13-kanzleistil-grosskanzlei-vs-boutique.docx) | Kanzleistil-Kalibrierung Grosskanzlei vs. Boutique |
+| 14 | [`14-redline-workflow-track-changes.docx`](14-redline-workflow-track-changes.docx) | Redline-Workflow: Word Track Changes, Kommentare |
+| 15 | [`15-schriftsatz-strukturierung-prinzip.docx`](15-schriftsatz-strukturierung-prinzip.docx) | Schriftsatz-Strukturierung: Antrag, Begründung, Form |
+| 16 | [`16-anwaltsschreiben-an-finanzamt-berlin.docx`](16-anwaltsschreiben-an-finanzamt-berlin.docx) | Anwaltsschreiben FA Berlin-Mitte, verbindliche Auskunft GrESt |
+| 17 | [`17-disclosure-schedules-management.docx`](17-disclosure-schedules-management.docx) | Disclosure Schedules: Aufbau, Verweistechnik, Qualifizierung |
+| 18 | [`18-closing-checklist.docx`](18-closing-checklist.docx) | Closing Checklist: Conditions, Notartermin, Registrierung |
+| 19 | [`19-notartermin-vorbereitung.docx`](19-notartermin-vorbereitung.docx) | Notartermin-Vorbereitung: Beurkundungsablauf, Vollmachten |
+| 20 | [`20-mandantenmemo-go-no-go.docx`](20-mandantenmemo-go-no-go.docx) | Go/No-Go-Memo: Risikomatrix, Empfehlung Mandant |
+| 21 | [`21-finale-revision-vor-signing.docx`](21-finale-revision-vor-signing.docx) | Finale Revision: Last-Minute-Check vor Signing |
+| 22 | [`22-post-signing-housekeeping.docx`](22-post-signing-housekeeping.docx) | Post-Signing Housekeeping: Closing-Memo, Folgefristen |
+| 23 | [`23-vollmacht-roosendaal-birkenhainer.docx`](23-vollmacht-roosendaal-birkenhainer.docx) | Vollmacht Volkenrath Energie SE an Roosendaal Birkenhainer Partners mbB |
+| 24 | [`24-agb-bereinigungsprotokoll-esv.docx`](24-agb-bereinigungsprotokoll-esv.docx) | AGB-Bereinigungsprotokoll Engineering-Servicevertrag: Ergebnis und Disclosure |
 
 ---
 

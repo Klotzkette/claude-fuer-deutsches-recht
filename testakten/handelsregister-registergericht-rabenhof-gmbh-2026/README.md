@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 121 KB) | PDF | [`gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf`](gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf`](gesamt-pdf/handelsregister-registergericht-rabenhof-gmbh-2026_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-handelsregister-registergericht-rabenhof-gmbh-2026.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsregister-registergericht-rabenhof-gmbh-2026.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-handelsregister-registergericht-rabenhof-gmbh-2026-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsregister-registergericht-rabenhof-gmbh-2026-einzelpdfs.zip) |
 
@@ -26,11 +26,11 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-registerlage.md` | Aktenstück |
-| `02-beanstandung-registergericht.md` | Aktenstück |
-| `03-gesellschafterliste-version-a.md` | Aktenstück |
-| `04-gesellschafterliste-version-b.md` | Aktenstück |
-| `05-closing-call-notiz.md` | Aktenstück |
+| `01-mandatsnotiz-registerlage.docx` | Aktenstück |
+| `02-beanstandung-registergericht.docx` | Aktenstück |
+| `03-gesellschafterliste-version-a.docx` | Aktenstück |
+| `04-gesellschafterliste-version-b.docx` | Aktenstück |
+| `05-closing-call-notiz.docx` | Aktenstück |
 | `06-entwurf-nachreichung-registergericht.docx` | Word-Entwurf |
 | `07-fristen-und-vollzug.xlsx` | Excel-Arbeitsblatt |
 | `08-email-notarin-an-kanzlei.eml` | E-Mail |

@@ -22,15 +22,15 @@ Historische PrALR-Arbeitsakte zu einem Mühlenstau-, Chaussee- und Entschädigun
 
 | Datei | Inhalt |
 |---|---|
-| `01-sachverhalt-und-auftragsnotiz.md` | Ausgangslage, Personen, Orte, Konflikt und Bearbeitungsauftrag |
-| `02-textzeugen-und-editionsvergleich.md` | Hinweis auf verschiedene Druck-/Digitalisatstände und OCR-Risiken |
+| `01-sachverhalt-und-auftragsnotiz.docx` | Ausgangslage, Personen, Orte, Konflikt und Bearbeitungsauftrag |
+| `02-textzeugen-und-editionsvergleich.docx` | Hinweis auf verschiedene Druck-/Digitalisatstände und OCR-Risiken |
 | `03-fundstellen-und-prueffragen.csv` | Fundstellen-, Prüf- und Unsicherheitenliste |
 | `04-email-mandat-historische-quelle.eml` | Mandantenmail mit Anlagenchaos und konkreten Fragen |
 | `05-arbeitsvermerk-pralr.docx` | Word-Vermerk zur Geltungs-, Quellen- und Fortwirkungsprüfung |
 | `06-dashboard-pralr.xlsx` | Excel-Dashboard mit Quellenampel, Anspruchswegen und To-dos |
 | `07-lagebild-muehle-chaussee.jpg` | Skizzenhaftes Lagebild Mühle, Bach, Chaussee, Damm und Grundstücke |
 | `08-quellenmemo-aufopferung.pdf` | PDF-Memo zur PrALR-Quellenlogik und heutigen Anschlussprüfung |
-| `09-entwurf-naechster-schritt.md` | Entwurf für Rückfragen, Rechercheplan und kurze Mandantenantwort |
+| `09-entwurf-naechster-schritt.docx` | Entwurf für Rückfragen, Rechercheplan und kurze Mandantenantwort |
 
 ## Passende Plugins
 

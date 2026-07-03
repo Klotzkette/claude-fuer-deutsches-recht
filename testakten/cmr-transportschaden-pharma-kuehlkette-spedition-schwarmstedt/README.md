@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 663 KB) | PDF | [`gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf`](gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 652 KB) | PDF | [`gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf`](gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt-einzelpdfs.zip) |
 
@@ -66,28 +66,28 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstgespraech.md`](01_mandatsaufnahme_erstgespraech.md) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, Vollmacht, Verfahrensübersicht |
-| 02 | [`02_beteiligte_und_vertragsstruktur.md`](02_beteiligte_und_vertragsstruktur.md) | Beteiligte (Schwarmstedt, MediVita, HCL Lyon, Petrescu, Behörden), Vertragsstruktur CMR-Kette |
-| 03 | [`03_cmr_haftungsrahmen_art23_art29.md`](03_cmr_haftungsrahmen_art23_art29.md) | Rechtsgutachten Art. 23 Abs. 3 CMR vs. Art. 29 CMR; SZR-Berechnung; Verteidigungsstrategie |
-| 04 | [`04_temperaturlogger_auswertung.md`](04_temperaturlogger_auswertung.md) | DataTrack 4000 Rohdaten; Temperaturkurve; Sachverständigenbefund Kretschmann; Alarmversagen |
-| 05 | [`05_versicherung_helvetia_deckungsablehnung.md`](05_versicherung_helvetia_deckungsablehnung.md) | Helvetia-Deckungsablehnung; § 28 VVG; 72h-Frist; AGB-Prüfung; LG Hamburg 327 O 88/26 |
-| 06 | [`06_subunternehmer_petrescu_regress.md`](06_subunternehmer_petrescu_regress.md) | Regressprüfung Art. 37 CMR; Petrescu-Subfrachtvertrag; Vollstreckung Rumänien |
-| 07 | [`07_balm_bussgeldverfahren_guekG.md`](07_balm_bussgeldverfahren_guekG.md) | BALM-Bussgeldbescheid; GüKG § 1, § 7a; VO (EG) 561/2006; Einspruchsbegründung OWi |
-| 08 | [`08_frachtdiebstahl_ipad_allianz_marine.md`](08_frachtdiebstahl_ipad_allianz_marine.md) | iPad-Diebstahl Sibiu; Pre-Loaded Truck Theft; Allianz-Deckungsablehnung; CMR-Haftung |
-| 09 | [`09_embargovertoss_syrien_zollfahndung.md`](09_embargovertoss_syrien_zollfahndung.md) | Embargo VO (EU) 36/2012; §§ 17, 18 AWG; StA Hannover; Compliance-Bewertung |
-| 10 | [`10_ueberlader_boeschke_regressklage.md`](10_ueberlader_boeschke_regressklage.md) | Überladung BAB A7; § 22 StVO; § 414 HGB; DEKRA-Gutachten; Boeschke-Regress |
-| 11 | [`11_digital_compliance_ecmr_ki_vo.md`](11_digital_compliance_ecmr_ki_vo.md) | eCMR, FrachtPersV, TruckMind KI-VO, DSGVO-AVV, Sanktionslisten-Screening |
-| 12 | [`12_gdp_adr_zertifizierung_pharmatransport.md`](12_gdp_adr_zertifizierung_pharmatransport.md) | GDP-Leitlinien EU 2013/C 68/01; ADR-Zertifizierung; Subunternehmer-Qualifizierung |
-| 13 | [`13_klageerwiderung_lg_hannover_strategie.md`](13_klageerwiderung_lg_hannover_strategie.md) | Klageerwiderung LG Hannover; Klageanträge; Verteidigungsargumente; Kostenrisiko |
-| 14 | [`14_medivita_pharmasendung_warenwert.md`](14_medivita_pharmasendung_warenwert.md) | Vial-Spezifikation; QS-Report MV-2026-001; Kretschmann-Kritik Box-Innentemperatur |
-| 15 | [`15_sachverstaendigengutachten_kretschmann.md`](15_sachverstaendigengutachten_kretschmann.md) | Vorläufiges Gutachten TUH-KT-2026-0088; Ursachentheorie; Alarmversagen DataTrack |
-| 16 | [`16_szr_umrechnung_haftungsberechnung.md`](16_szr_umrechnung_haftungsberechnung.md) | SZR-System IWF; Art. 23 Abs. 3 CMR Berechnung; Szenarien; Art. 24, 26 CMR |
-| 17 | [`17_lenk_ruhezeiten_tachograph.md`](17_lenk_ruhezeiten_tachograph.md) | VO (EG) 561/2006; DTCO-Auswertung; Lenkzeitverstoß; Ruhezeit während Schadenseintritt |
-| 18 | [`18_hgb_425_ff_nationale_haftungsgrundlagen.md`](18_hgb_425_ff_nationale_haftungsgrundlagen.md) | §§ 425, 431, 435 HGB; Abgrenzung CMR/HGB; Rechtsprechungsübersicht |
-| 19 | [`19_kanzleistrategie_mandantenbericht_april2026.md`](19_kanzleistrategie_mandantenbericht_april2026.md) | Mandantenbericht April 2026; Verfahrensübersicht; Compliance-Empfehlungen; Kostenübersicht |
-| 20 | [`20_vergleichsoptionen_und_adr.md`](20_vergleichsoptionen_und_adr.md) | Vergleichskorridore; Mediation; § 153a StPO; OWi-Strategien; Verfahrenspyramide |
-| 21 | [`21_beweismittelverzeichnis_zeugen.md`](21_beweismittelverzeichnis_zeugen.md) | Urkundenliste; Zeugenverzeichnis; Sachverständige; offene Beweiserhebungsmaßnahmen |
-| 22 | [`22_verfahrensstand_chronologie_ausblick.md`](22_verfahrensstand_chronologie_ausblick.md) | Ereignischronologie Jan.–Mai 2026; Fristenübersicht; Risikomatrix; Ausblick 2027 |
+| 01 | [`01_mandatsaufnahme_erstgespraech.docx`](01_mandatsaufnahme_erstgespraech.docx) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, Vollmacht, Verfahrensübersicht |
+| 02 | [`02_beteiligte_und_vertragsstruktur.docx`](02_beteiligte_und_vertragsstruktur.docx) | Beteiligte (Schwarmstedt, MediVita, HCL Lyon, Petrescu, Behörden), Vertragsstruktur CMR-Kette |
+| 03 | [`03_cmr_haftungsrahmen_art23_art29.docx`](03_cmr_haftungsrahmen_art23_art29.docx) | Rechtsgutachten Art. 23 Abs. 3 CMR vs. Art. 29 CMR; SZR-Berechnung; Verteidigungsstrategie |
+| 04 | [`04_temperaturlogger_auswertung.docx`](04_temperaturlogger_auswertung.docx) | DataTrack 4000 Rohdaten; Temperaturkurve; Sachverständigenbefund Kretschmann; Alarmversagen |
+| 05 | [`05_versicherung_helvetia_deckungsablehnung.docx`](05_versicherung_helvetia_deckungsablehnung.docx) | Helvetia-Deckungsablehnung; § 28 VVG; 72h-Frist; AGB-Prüfung; LG Hamburg 327 O 88/26 |
+| 06 | [`06_subunternehmer_petrescu_regress.docx`](06_subunternehmer_petrescu_regress.docx) | Regressprüfung Art. 37 CMR; Petrescu-Subfrachtvertrag; Vollstreckung Rumänien |
+| 07 | [`07_balm_bussgeldverfahren_guekG.docx`](07_balm_bussgeldverfahren_guekG.docx) | BALM-Bussgeldbescheid; GüKG § 1, § 7a; VO (EG) 561/2006; Einspruchsbegründung OWi |
+| 08 | [`08_frachtdiebstahl_ipad_allianz_marine.docx`](08_frachtdiebstahl_ipad_allianz_marine.docx) | iPad-Diebstahl Sibiu; Pre-Loaded Truck Theft; Allianz-Deckungsablehnung; CMR-Haftung |
+| 09 | [`09_embargovertoss_syrien_zollfahndung.docx`](09_embargovertoss_syrien_zollfahndung.docx) | Embargo VO (EU) 36/2012; §§ 17, 18 AWG; StA Hannover; Compliance-Bewertung |
+| 10 | [`10_ueberlader_boeschke_regressklage.docx`](10_ueberlader_boeschke_regressklage.docx) | Überladung BAB A7; § 22 StVO; § 414 HGB; DEKRA-Gutachten; Boeschke-Regress |
+| 11 | [`11_digital_compliance_ecmr_ki_vo.docx`](11_digital_compliance_ecmr_ki_vo.docx) | eCMR, FrachtPersV, TruckMind KI-VO, DSGVO-AVV, Sanktionslisten-Screening |
+| 12 | [`12_gdp_adr_zertifizierung_pharmatransport.docx`](12_gdp_adr_zertifizierung_pharmatransport.docx) | GDP-Leitlinien EU 2013/C 68/01; ADR-Zertifizierung; Subunternehmer-Qualifizierung |
+| 13 | [`13_klageerwiderung_lg_hannover_strategie.docx`](13_klageerwiderung_lg_hannover_strategie.docx) | Klageerwiderung LG Hannover; Klageanträge; Verteidigungsargumente; Kostenrisiko |
+| 14 | [`14_medivita_pharmasendung_warenwert.docx`](14_medivita_pharmasendung_warenwert.docx) | Vial-Spezifikation; QS-Report MV-2026-001; Kretschmann-Kritik Box-Innentemperatur |
+| 15 | [`15_sachverstaendigengutachten_kretschmann.docx`](15_sachverstaendigengutachten_kretschmann.docx) | Vorläufiges Gutachten TUH-KT-2026-0088; Ursachentheorie; Alarmversagen DataTrack |
+| 16 | [`16_szr_umrechnung_haftungsberechnung.docx`](16_szr_umrechnung_haftungsberechnung.docx) | SZR-System IWF; Art. 23 Abs. 3 CMR Berechnung; Szenarien; Art. 24, 26 CMR |
+| 17 | [`17_lenk_ruhezeiten_tachograph.docx`](17_lenk_ruhezeiten_tachograph.docx) | VO (EG) 561/2006; DTCO-Auswertung; Lenkzeitverstoß; Ruhezeit während Schadenseintritt |
+| 18 | [`18_hgb_425_ff_nationale_haftungsgrundlagen.docx`](18_hgb_425_ff_nationale_haftungsgrundlagen.docx) | §§ 425, 431, 435 HGB; Abgrenzung CMR/HGB; Rechtsprechungsübersicht |
+| 19 | [`19_kanzleistrategie_mandantenbericht_april2026.docx`](19_kanzleistrategie_mandantenbericht_april2026.docx) | Mandantenbericht April 2026; Verfahrensübersicht; Compliance-Empfehlungen; Kostenübersicht |
+| 20 | [`20_vergleichsoptionen_und_adr.docx`](20_vergleichsoptionen_und_adr.docx) | Vergleichskorridore; Mediation; § 153a StPO; OWi-Strategien; Verfahrenspyramide |
+| 21 | [`21_beweismittelverzeichnis_zeugen.docx`](21_beweismittelverzeichnis_zeugen.docx) | Urkundenliste; Zeugenverzeichnis; Sachverständige; offene Beweiserhebungsmaßnahmen |
+| 22 | [`22_verfahrensstand_chronologie_ausblick.docx`](22_verfahrensstand_chronologie_ausblick.docx) | Ereignischronologie Jan.–Mai 2026; Fristenübersicht; Risikomatrix; Ausblick 2027 |
 
 ---
 

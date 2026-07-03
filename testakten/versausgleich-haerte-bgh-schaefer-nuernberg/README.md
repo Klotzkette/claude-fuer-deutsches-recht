@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 484 KB) | PDF | [`gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf`](gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 479 KB) | PDF | [`gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf`](gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-versausgleich-haerte-bgh-schaefer-nuernberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg-einzelpdfs.zip) |
 

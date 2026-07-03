@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 72 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 69 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-dublin-bank-frankfurt-branch-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch-einzelpdfs.zip) |
 
@@ -45,33 +45,33 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 |---|---|
 | [00_aktenuebersicht.md](00_aktenuebersicht.md) | Aktenplan, Prüffokus und Arbeitsauftrag |
 | [01_mandatsanfrage_email.txt](01_mandatsanfrage_email.txt) | E-Mail der Bank an die Kanzlei |
-| [02_cro_registerauszug_dublin.md](02_cro_registerauszug_dublin.md) | Irischer Registerauszug |
-| [03_handelsregister_frankfurt_zweigniederlassung.md](03_handelsregister_frankfurt_zweigniederlassung.md) | Handelsregisterauszug der Zweigniederlassung |
-| [04_bafin_passporting_notiz.md](04_bafin_passporting_notiz.md) | Notiz zu BaFin/Passporting und Erlaubnislage |
-| [05_organigramm_legal_entity.md](05_organigramm_legal_entity.md) | Rechtsträger- und Niederlassungsstruktur |
+| [02_cro_registerauszug_dublin.docx](02_cro_registerauszug_dublin.docx) | Irischer Registerauszug |
+| [03_handelsregister_frankfurt_zweigniederlassung.docx](03_handelsregister_frankfurt_zweigniederlassung.docx) | Handelsregisterauszug der Zweigniederlassung |
+| [04_bafin_passporting_notiz.docx](04_bafin_passporting_notiz.docx) | Notiz zu BaFin/Passporting und Erlaubnislage |
+| [05_organigramm_legal_entity.docx](05_organigramm_legal_entity.docx) | Rechtsträger- und Niederlassungsstruktur |
 | [06_kontaktlog_bundestag_bmf.csv](06_kontaktlog_bundestag_bmf.csv) | Kontaktlog mit Bundestag/BMF-Kontakten |
-| [07_regelungsvorhaben_digital_euro.md](07_regelungsvorhaben_digital_euro.md) | Regelungsvorhaben und Interessenbeschreibung |
+| [07_regelungsvorhaben_digital_euro.docx](07_regelungsvorhaben_digital_euro.docx) | Regelungsvorhaben und Interessenbeschreibung |
 | [08_lobbyregister_entwurf_dublin.json](08_lobbyregister_entwurf_dublin.json) | Primaerentwurf Registereintrag Dublin |
 | [09_lobbyregister_entwurf_frankfurt_zweigniederlassung.json](09_lobbyregister_entwurf_frankfurt_zweigniederlassung.json) | Streitiger Zweitentwurf Frankfurt |
-| [10_streitvermerk_doppelregistrierung.md](10_streitvermerk_doppelregistrierung.md) | Variantenvermerk mit Risiken |
-| [11_rfs_anfrage_entwurf.md](11_rfs_anfrage_entwurf.md) | Anfrage an die registerfuehrende Stelle |
+| [10_streitvermerk_doppelregistrierung.docx](10_streitvermerk_doppelregistrierung.docx) | Variantenvermerk mit Risiken |
+| [11_rfs_anfrage_entwurf.docx](11_rfs_anfrage_entwurf.docx) | Anfrage an die registerfuehrende Stelle |
 | [12_finanzaufwendungen_deutschland.csv](12_finanzaufwendungen_deutschland.csv) | Kostenaufteilung Dublin/Frankfurt/Berlin |
-| [13_vorstandsbeschluss_public_policy.md](13_vorstandsbeschluss_public_policy.md) | Board-Minutes und Freigabeproblem |
-| [14_finalcheck_arbeitsblatt.md](14_finalcheck_arbeitsblatt.md) | Qualitaetsgate für den Wizard |
+| [13_vorstandsbeschluss_public_policy.docx](13_vorstandsbeschluss_public_policy.docx) | Board-Minutes und Freigabeproblem |
+| [14_finalcheck_arbeitsblatt.docx](14_finalcheck_arbeitsblatt.docx) | Qualitaetsgate für den Wizard |
 | [15_emailthread_dublin_frankfurt_chaos.eml](15_emailthread_dublin_frankfurt_chaos.eml) | E-Mail-Thread Dublin/Frankfurt mit widersprüchlicher interner Haltung |
-| [16_portal_screenshot_abschrift_dublin.md](16_portal_screenshot_abschrift_dublin.md) | Abschrift des Dublin-Portalentwurfs |
-| [17_portal_screenshot_abschrift_frankfurt_abgebrochen.md](17_portal_screenshot_abschrift_frankfurt_abgebrochen.md) | Abgebrochener Zweitentwurf für Frankfurt |
-| [18_telefonnotiz_rfs_vorfrage.md](18_telefonnotiz_rfs_vorfrage.md) | Telefonnotiz zur unverbindlichen RfS-Vorfrage |
-| [19_meeting_notes_bmf_terminvorbereitung.md](19_meeting_notes_bmf_terminvorbereitung.md) | BMF-Terminvorbereitung mit Offenlegungsproblem |
-| [20_offenlegungssaetze_varianten.md](20_offenlegungssaetze_varianten.md) | Gute und schlechte Offenlegungssaetze |
-| [21_interne_risikoampel.xlsx.md](21_interne_risikoampel.xlsx.md) | MD-Vorschau einer Risikoampel |
+| [16_portal_screenshot_abschrift_dublin.docx](16_portal_screenshot_abschrift_dublin.docx) | Abschrift des Dublin-Portalentwurfs |
+| [17_portal_screenshot_abschrift_frankfurt_abgebrochen.docx](17_portal_screenshot_abschrift_frankfurt_abgebrochen.docx) | Abgebrochener Zweitentwurf für Frankfurt |
+| [18_telefonnotiz_rfs_vorfrage.docx](18_telefonnotiz_rfs_vorfrage.docx) | Telefonnotiz zur unverbindlichen RfS-Vorfrage |
+| [19_meeting_notes_bmf_terminvorbereitung.docx](19_meeting_notes_bmf_terminvorbereitung.docx) | BMF-Terminvorbereitung mit Offenlegungsproblem |
+| [20_offenlegungssaetze_varianten.docx](20_offenlegungssaetze_varianten.docx) | Gute und schlechte Offenlegungssaetze |
+| [21_interne_risikoampel.xlsx.md](21_interne_risikoampel.xlsx.docx) | MD-Vorschau einer Risikoampel |
 | [21_interne_risikoampel.csv](21_interne_risikoampel.csv) | Rohdaten Risikoampel als CSV |
 | [22_kalendereinladung_bundestag.ics](22_kalendereinladung_bundestag.ics) | Kalendereinladung für Bundestagstermin |
-| [23_datenschutz_personenfreigabe.md](23_datenschutz_personenfreigabe.md) | Freigaben betrauter Personen für Registerdaten |
-| [24_kostenstellen_mapping_dublin_frankfurt.md](24_kostenstellen_mapping_dublin_frankfurt.md) | Kostenstellenmapping Dublin/Frankfurt/Berlin |
-| [25_api_abfrageplan_open_data.md](25_api_abfrageplan_open_data.md) | API-Abfrageplan für Dublin/Frankfurt-Dublettencheck |
+| [23_datenschutz_personenfreigabe.docx](23_datenschutz_personenfreigabe.docx) | Freigaben betrauter Personen für Registerdaten |
+| [24_kostenstellen_mapping_dublin_frankfurt.docx](24_kostenstellen_mapping_dublin_frankfurt.docx) | Kostenstellenmapping Dublin/Frankfurt/Berlin |
+| [25_api_abfrageplan_open_data.docx](25_api_abfrageplan_open_data.docx) | API-Abfrageplan für Dublin/Frankfurt-Dublettencheck |
 | [26_api_mock_response_dublin.json](26_api_mock_response_dublin.json) | API-Antwort für den veröffentlichten Dublin-Eintrag |
-| [27_registerexport_diff_dublin.md](27_registerexport_diff_dublin.md) | Diff zwischen Freigabeakte und öffentlichem API/API-Export |
+| [27_registerexport_diff_dublin.docx](27_registerexport_diff_dublin.docx) | Diff zwischen Freigabeakte und öffentlichem API/API-Export |
 
 ## Prüffokus
 

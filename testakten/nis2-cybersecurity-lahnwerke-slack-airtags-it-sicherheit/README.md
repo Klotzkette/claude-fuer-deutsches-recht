@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 269 KB) | PDF | [`gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf`](gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 267 KB) | PDF | [`gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf`](gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit-einzelpdfs.zip) |
 
@@ -22,9 +22,9 @@ Lahnwerke Maschinenbau AG rollt Slack aus, verfolgt LKW-Werkzeugcontainer mit Ai
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-arbeitsauftrag.md` | Erste Lage, Personen, Ziel und offene Fragen |
-| `02-zeitstrahl-und-fristen.md` | Chronologie mit Entscheidungs- und Eskalationspunkten |
-| `03-prueffragen-fuer-erstgespraech.md` | Katalog für das erste strukturierte Gespräch |
+| `01-mandatsnotiz-und-arbeitsauftrag.docx` | Erste Lage, Personen, Ziel und offene Fragen |
+| `02-zeitstrahl-und-fristen.docx` | Chronologie mit Entscheidungs- und Eskalationspunkten |
+| `03-prueffragen-fuer-erstgespraech.docx` | Katalog für das erste strukturierte Gespräch |
 | `04-vorstandsvorlage-cyber-roadmap.docx` | Entwurf Vorstandsvorlage zur Cyber-Roadmap |
 | `05-cyber-risk-register.xlsx` | Risikoregister mit Maßnahmen, Ownern und Fristen |
 | `06-nis2-betroffenheitsvermerk.pdf` | Vermerk zur vorläufigen NIS-2-/BSIG-Betroffenheit |
@@ -37,12 +37,12 @@ Lahnwerke Maschinenbau AG rollt Slack aus, verfolgt LKW-Werkzeugcontainer mit Ai
 | `13-screenshot-siem-alerts.jpg` | SIEM-/SOC-Screenshot als Bilddatei |
 | `14-policy-entwurf-screenshots-und-chat.docx` | Policy-Entwurf Screenshots und Chat |
 | `15-betriebsrat-mdm-airtags.eml` | Betriebsrat verlangt Beteiligung |
-| `16-krisenstabs-runbook-auszug.md` | Runbook-Auszug Krisenstab |
+| `16-krisenstabs-runbook-auszug.docx` | Runbook-Auszug Krisenstab |
 | `17-cloud-provider-c5-luecken.pdf` | Cloud-Provider-Prüfung C5/Region/Exit |
-| `18-java-pki-zertifikatsnotiz.md` | Notiz zu Java-Code-Signing und PKI |
+| `18-java-pki-zertifikatsnotiz.docx` | Notiz zu Java-Code-Signing und PKI |
 | `19-lieferanten-questionnaire.csv` | Supplier-Security-Fragebogen |
 | `20-board-briefing-draft.pdf` | Board-Briefing als Arbeitsstand |
-| `21-offene-punkte-und-lueckenliste.md` | Offene Punkte und Lückenliste |
+| `21-offene-punkte-und-lueckenliste.docx` | Offene Punkte und Lückenliste |
 | `22-anlagenindex.csv` | Anlagenindex |
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |

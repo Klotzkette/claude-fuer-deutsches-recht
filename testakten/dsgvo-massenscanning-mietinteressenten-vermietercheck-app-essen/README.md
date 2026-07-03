@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 840 KB) | PDF | [`gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf`](gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 818 KB) | PDF | [`gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf`](gesamt-pdf/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen-einzelpdfs.zip) |
 
@@ -54,28 +54,28 @@ Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 
 | Nr. | Datei | Inhalt |
 |-----|-------|--------|
-| 01 | `01_mandatsuebernahme-vollmacht.md` | Mandatsuebernahme und Vollmacht |
-| 02 | `02_sachverhaltserfassung-erstberatung.md` | Sachverhaltserfassung Erstberatung |
-| 03 | `03_dsgvo-pruefschema-art6-verarbeitungsgrundlagen.md` | Prüfschema Art. 6 DSGVO Verarbeitungsgrundlagen |
-| 04 | `04_art22-automatisierte-einzelentscheidung-prospectscor.md` | Art. 22 DSGVO Automatisierte Einzelentscheidung |
-| 05 | `05_dsfa-pruefung-art35-hochrisiko-ki.md` | DSFA Art. 35 DSGVO Hochrisiko-KI |
-| 06 | `06_drittlandsuebermittlung-art44-sundara-tech.md` | Drittlandsuebermittlung Art. 44 ff. DSGVO |
-| 07 | `07_datenpanne-art33-sql-injection-cve-2026-0188.md` | Datenpanne Art. 33/34 DSGVO |
-| 08 | `08_ldi-nrw-aufsichtsverfahren-art58-strategie.md` | LDI NRW Aufsichtsverfahren Art. 58 |
-| 09 | `09_bussgeldbemessung-art83-dsgvo.md` | Bussgeldbemessung Art. 83 DSGVO |
-| 10 | `10_sammelklage-vdug-lg-essen-18mass4-26.md` | Sammelklage VDuG LG Essen |
-| 11 | `11_art82-schadensersatz-bagatellgrenze.md` | Art. 82 DSGVO Schadensersatz Bagatellgrenze |
-| 12 | `12_auskunftsersuchen-art15-tannenbruck.md` | Auskunftsersuchen Dr. Tannenbruck |
-| 13 | `13_auskunftsersuchen-art15-drostermann-kaltenbach.md` | Auskunftsersuchen Drostermann / Kaltenbach |
-| 14 | `14_hinschg-meldung-whistleblower-strategie.md` | HinSchG-Meldung Whistleblower |
-| 15 | `15_strafrechtliche-verteidigung-par42-bdsg.md` | Strafverteidigung § 42 BDSG |
-| 16 | `16_auftragsverarbeitung-avv-sundara-tech.md` | Auftragsverarbeitung AVV Sundara Tech |
-| 17 | `17_technisch-organisatorische-massnahmen-tom.md` | Technisch-organisatorische Massnahmen |
-| 18 | `18_betroffenenrechte-widerspruch-loeschung.md` | Betroffenenrechte Widerspruch / Löschung |
-| 19 | `19_iso27001-tisax-compliance-gap-analyse.md` | ISO 27001 / TISAX Gap-Analyse |
-| 20 | `20_prozessstrategie-gesamtkoordination.md` | Prozessstrategie Gesamtkoordination |
-| 21 | `21_verfassungsbeschwerde-skizze-bussgeldbescheid.md` | Verfassungsbeschwerde-Skizze Bussgeldbescheid |
-| 22 | `22_abschlussbericht-handlungsempfehlungen.md` | Abschlussbericht und Handlungsempfehlungen |
+| 01 | `01_mandatsuebernahme-vollmacht.docx` | Mandatsuebernahme und Vollmacht |
+| 02 | `02_sachverhaltserfassung-erstberatung.docx` | Sachverhaltserfassung Erstberatung |
+| 03 | `03_dsgvo-pruefschema-art6-verarbeitungsgrundlagen.docx` | Prüfschema Art. 6 DSGVO Verarbeitungsgrundlagen |
+| 04 | `04_art22-automatisierte-einzelentscheidung-prospectscor.docx` | Art. 22 DSGVO Automatisierte Einzelentscheidung |
+| 05 | `05_dsfa-pruefung-art35-hochrisiko-ki.docx` | DSFA Art. 35 DSGVO Hochrisiko-KI |
+| 06 | `06_drittlandsuebermittlung-art44-sundara-tech.docx` | Drittlandsuebermittlung Art. 44 ff. DSGVO |
+| 07 | `07_datenpanne-art33-sql-injection-cve-2026-0188.docx` | Datenpanne Art. 33/34 DSGVO |
+| 08 | `08_ldi-nrw-aufsichtsverfahren-art58-strategie.docx` | LDI NRW Aufsichtsverfahren Art. 58 |
+| 09 | `09_bussgeldbemessung-art83-dsgvo.docx` | Bussgeldbemessung Art. 83 DSGVO |
+| 10 | `10_sammelklage-vdug-lg-essen-18mass4-26.docx` | Sammelklage VDuG LG Essen |
+| 11 | `11_art82-schadensersatz-bagatellgrenze.docx` | Art. 82 DSGVO Schadensersatz Bagatellgrenze |
+| 12 | `12_auskunftsersuchen-art15-tannenbruck.docx` | Auskunftsersuchen Dr. Tannenbruck |
+| 13 | `13_auskunftsersuchen-art15-drostermann-kaltenbach.docx` | Auskunftsersuchen Drostermann / Kaltenbach |
+| 14 | `14_hinschg-meldung-whistleblower-strategie.docx` | HinSchG-Meldung Whistleblower |
+| 15 | `15_strafrechtliche-verteidigung-par42-bdsg.docx` | Strafverteidigung § 42 BDSG |
+| 16 | `16_auftragsverarbeitung-avv-sundara-tech.docx` | Auftragsverarbeitung AVV Sundara Tech |
+| 17 | `17_technisch-organisatorische-massnahmen-tom.docx` | Technisch-organisatorische Massnahmen |
+| 18 | `18_betroffenenrechte-widerspruch-loeschung.docx` | Betroffenenrechte Widerspruch / Löschung |
+| 19 | `19_iso27001-tisax-compliance-gap-analyse.docx` | ISO 27001 / TISAX Gap-Analyse |
+| 20 | `20_prozessstrategie-gesamtkoordination.docx` | Prozessstrategie Gesamtkoordination |
+| 21 | `21_verfassungsbeschwerde-skizze-bussgeldbescheid.docx` | Verfassungsbeschwerde-Skizze Bussgeldbescheid |
+| 22 | `22_abschlussbericht-handlungsempfehlungen.docx` | Abschlussbericht und Handlungsempfehlungen |
 
 ## Anlagen
 

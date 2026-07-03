@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf`](gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf`](gesamt-pdf/handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-handelsrecht-hgb-kommanditgesellschaft-egbr-statuswechsel-altona-einzelpdfs.zip) |
 
@@ -35,25 +35,25 @@ Elbwerft Solarplanung eGbR aus Hamburg-Altona wächst vom Planungsbüro in den k
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_sachverhalt_partnervermerk.md` | Partnervermerk mit HGB-Fragen |
-| `02_gesellschaftsvertrag_egbr_auszug.md` | eGbR-Vertrag |
-| `03_registerauszug_gesellschaftsregister.md` | Gesellschaftsregister-Notiz |
-| `04_bankterm_sheet_kg_umstellung.md` | Bank fordert KG-Struktur |
-| `05_prokura_rahmenvertrag.md` | Prokura und Rahmenvertrag |
-| `06_handelskauf_maengelruege.md` | Lieferung Wechselrichter und Rüge |
-| `07_statuswechsel_ohg_kg_pruefmatrix.md` | Register-/Statuswechselmatrix |
-| `08_kommanditistenhaftung_notiz.md` | Haftung vor/nach Eintragung |
-| `09_firmenrecht_ihk_beanstandung.md` | IHK-/Register-Firmenproblem |
-| `10_registeranmeldung_entwurf.md` | Registeranmeldung Statuswechsel |
-| `11_gesellschafterbeschluss_statuswechsel.md` | Beschluss Statuswechsel |
-| `12_kg_vertrag_auszug.md` | KG-Vertrag Auszug |
-| `13_prokura_widerruf_und_neuerteilung.md` | Prokura neu ordnen |
-| `14_zwischenverfuegung_registergericht.md` | mögliche Zwischenverfügung |
-| `15_maengelruege_nachfassen_entwurf.md` | Mängelrüge Nachfassen |
-| `16_klageerwiderung_soltronic_arbeitsstand.md` | Klageerwiderung Arbeitsstand |
-| `17_handelsbriefe_signaturen.md` | Handelsbriefe/Signaturen |
-| `18_lager_und_buchfuehrung.md` | Lager und Buchführung |
-| `19_anwaltliches_kurzvotum.md` | Kurzvotum |
-| `20_vergleichsplan_soltronic_bank_investor.md` | Vergleichsplan |
+| `01_sachverhalt_partnervermerk.docx` | Partnervermerk mit HGB-Fragen |
+| `02_gesellschaftsvertrag_egbr_auszug.docx` | eGbR-Vertrag |
+| `03_registerauszug_gesellschaftsregister.docx` | Gesellschaftsregister-Notiz |
+| `04_bankterm_sheet_kg_umstellung.docx` | Bank fordert KG-Struktur |
+| `05_prokura_rahmenvertrag.docx` | Prokura und Rahmenvertrag |
+| `06_handelskauf_maengelruege.docx` | Lieferung Wechselrichter und Rüge |
+| `07_statuswechsel_ohg_kg_pruefmatrix.docx` | Register-/Statuswechselmatrix |
+| `08_kommanditistenhaftung_notiz.docx` | Haftung vor/nach Eintragung |
+| `09_firmenrecht_ihk_beanstandung.docx` | IHK-/Register-Firmenproblem |
+| `10_registeranmeldung_entwurf.docx` | Registeranmeldung Statuswechsel |
+| `11_gesellschafterbeschluss_statuswechsel.docx` | Beschluss Statuswechsel |
+| `12_kg_vertrag_auszug.docx` | KG-Vertrag Auszug |
+| `13_prokura_widerruf_und_neuerteilung.docx` | Prokura neu ordnen |
+| `14_zwischenverfuegung_registergericht.docx` | mögliche Zwischenverfügung |
+| `15_maengelruege_nachfassen_entwurf.docx` | Mängelrüge Nachfassen |
+| `16_klageerwiderung_soltronic_arbeitsstand.docx` | Klageerwiderung Arbeitsstand |
+| `17_handelsbriefe_signaturen.docx` | Handelsbriefe/Signaturen |
+| `18_lager_und_buchfuehrung.docx` | Lager und Buchführung |
+| `19_anwaltliches_kurzvotum.docx` | Kurzvotum |
+| `20_vergleichsplan_soltronic_bank_investor.docx` | Vergleichsplan |
 | `emails/*.eml` | E-Mails Bank/Lieferant/Notar |
 | `tabellen/*.csv` | Warenlieferung, Rüge, Haftsumme |

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 661 KB) | PDF | [`gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf`](gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 653 KB) | PDF | [`gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf`](gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-doping-uvalkanat-handballerin-cas-lausanne.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip) |
 
@@ -51,28 +51,28 @@ Arbeitsakte zum Plugin `fachanwalt-sportrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandantennotiz_erstgespraech.md`](01_mandantennotiz_erstgespraech.md) | Kanzleinotiz Erstgespräch 20.02.2026 |
-| 02 | [`02_personenprofil_uvalkanat.md`](02_personenprofil_uvalkanat.md) | Biografie, Vereinshistorie, Nationalmannschaft |
-| 03 | [`03_nada_kontrolle_befundbericht.md`](03_nada_kontrolle_befundbericht.md) | Trainingskontrolle 18.02.2026, A-Probe-Ergebnis |
-| 04 | [`04_b_probe_analyse_und_ergebnis.md`](04_b_probe_analyse_und_ergebnis.md) | B-Probe Bestätigung 04.03.2026, WADA-akkred. Labor Köln |
-| 05 | [`05_verbotsliste_s4_meldonium_rechtslage.md`](05_verbotsliste_s4_meldonium_rechtslage.md) | WADA-Liste 2026, Meldonium-Chronik seit 2016, Schwellenwert |
-| 06 | [`06_kontaminationsthese_powernutrition.md`](06_kontaminationsthese_powernutrition.md) | Supplement-Analyse, Charge 22-4188, Art. 10.5 NADC |
-| 07 | [`07_sachverstaendiger_laboranalyse_supplement.md`](07_sachverstaendiger_laboranalyse_supplement.md) | Gutachtenauftrag, Analyseergebnisse, Kausalitätskette |
-| 08 | [`08_produkthaftung_powernutrition_gmbh.md`](08_produkthaftung_powernutrition_gmbh.md) | § 1 ProdHaftG, Fehler, Herstellerhaftung, Schadensersatz |
-| 09 | [`09_schriftwechsel_nada_vorabinformation.md`](09_schriftwechsel_nada_vorabinformation.md) | Vorabinformation NADA, Einspruchsfristen, Akteneinsicht |
-| 10 | [`10_dis_sportschiedsgericht_verfahren.md`](10_dis_sportschiedsgericht_verfahren.md) | DSB-Sportschiedsgericht Frankfurt, DIS-SportSchO, Beweisaufnahme |
-| 11 | [`11_beweisaufnahme_zeugen_gutachter.md`](11_beweisaufnahme_zeugen_gutachter.md) | Zeugen, Gutachter, Beweisanträge, Verhandlung |
-| 12 | [`12_schiedsspruch_dis_und_berufungsstrategie.md`](12_schiedsspruch_dis_und_berufungsstrategie.md) | Schiedsspruch DSGSp 12/26, Berufungsentscheidung CAS |
-| 13 | [`13_cas_lausanne_verfahren_einleitung.md`](13_cas_lausanne_verfahren_einleitung.md) | CAS 2026/A/8821, Statement of Appeal, Verfahrensregeln |
-| 14 | [`14_cas_rechtsprechung_mutu_pechstein.md`](14_cas_rechtsprechung_mutu_pechstein.md) | Mutu/Pechstein-Linie, ECHR Art. 6, Verfahrensgrundrechte |
-| 15 | [`15_kuendigung_bsv_sachsen_zwickau.md`](15_kuendigung_bsv_sachsen_zwickau.md) | Fristlose Kündigung § 626 BGB, Sachverhalt, Reaktion |
-| 16 | [`16_kuendigungsschutzklage_arbg_chemnitz.md`](16_kuendigungsschutzklage_arbg_chemnitz.md) | ArbG Chemnitz 4 Ca 88/26, Klagebegründung, Vergleichsoptionen |
-| 17 | [`17_persoenlichkeitsrecht_bild_schlagzeile.md`](17_persoenlichkeitsrecht_bild_schlagzeile.md) | BILD-Schlagzeile „Doping-Selin", § 823 BGB, Unterlassung |
-| 18 | [`18_klage_lg_berlin_unterlassung_geldentschaedigung.md`](18_klage_lg_berlin_unterlassung_geldentschaedigung.md) | LG Berlin 27 O 411/26, Tenor, Streitwert, Gegendarstellung |
-| 19 | [`19_sponsorenvertrag_adidas_moralklausel.md`](19_sponsorenvertrag_adidas_moralklausel.md) | Adidas AG, Suspendierung, Moralklausel, 80.000 EUR Rückforderung |
-| 20 | [`20_icc_schiedsverfahren_zuerich.md`](20_icc_schiedsverfahren_zuerich.md) | ICC Zürich 28-2026/SPO, § 307 BGB, AGB-Kontrolle |
-| 21 | [`21_dhb_ehf_ihf_verbandssanktionen.md`](21_dhb_ehf_ihf_verbandssanktionen.md) | Bundeskaderausschluss DHB, EHF/IHF-Wechselsperre 24 Monate |
-| 22 | [`22_strafanzeige_powernutrition_koerperverletzung.md`](22_strafanzeige_powernutrition_koerperverletzung.md) | § 223 StGB, Strafanzeige, Staatsanwaltschaft Memmingen |
+| 01 | [`01_mandantennotiz_erstgespraech.docx`](01_mandantennotiz_erstgespraech.docx) | Kanzleinotiz Erstgespräch 20.02.2026 |
+| 02 | [`02_personenprofil_uvalkanat.docx`](02_personenprofil_uvalkanat.docx) | Biografie, Vereinshistorie, Nationalmannschaft |
+| 03 | [`03_nada_kontrolle_befundbericht.docx`](03_nada_kontrolle_befundbericht.docx) | Trainingskontrolle 18.02.2026, A-Probe-Ergebnis |
+| 04 | [`04_b_probe_analyse_und_ergebnis.docx`](04_b_probe_analyse_und_ergebnis.docx) | B-Probe Bestätigung 04.03.2026, WADA-akkred. Labor Köln |
+| 05 | [`05_verbotsliste_s4_meldonium_rechtslage.docx`](05_verbotsliste_s4_meldonium_rechtslage.docx) | WADA-Liste 2026, Meldonium-Chronik seit 2016, Schwellenwert |
+| 06 | [`06_kontaminationsthese_powernutrition.docx`](06_kontaminationsthese_powernutrition.docx) | Supplement-Analyse, Charge 22-4188, Art. 10.5 NADC |
+| 07 | [`07_sachverstaendiger_laboranalyse_supplement.docx`](07_sachverstaendiger_laboranalyse_supplement.docx) | Gutachtenauftrag, Analyseergebnisse, Kausalitätskette |
+| 08 | [`08_produkthaftung_powernutrition_gmbh.docx`](08_produkthaftung_powernutrition_gmbh.docx) | § 1 ProdHaftG, Fehler, Herstellerhaftung, Schadensersatz |
+| 09 | [`09_schriftwechsel_nada_vorabinformation.docx`](09_schriftwechsel_nada_vorabinformation.docx) | Vorabinformation NADA, Einspruchsfristen, Akteneinsicht |
+| 10 | [`10_dis_sportschiedsgericht_verfahren.docx`](10_dis_sportschiedsgericht_verfahren.docx) | DSB-Sportschiedsgericht Frankfurt, DIS-SportSchO, Beweisaufnahme |
+| 11 | [`11_beweisaufnahme_zeugen_gutachter.docx`](11_beweisaufnahme_zeugen_gutachter.docx) | Zeugen, Gutachter, Beweisanträge, Verhandlung |
+| 12 | [`12_schiedsspruch_dis_und_berufungsstrategie.docx`](12_schiedsspruch_dis_und_berufungsstrategie.docx) | Schiedsspruch DSGSp 12/26, Berufungsentscheidung CAS |
+| 13 | [`13_cas_lausanne_verfahren_einleitung.docx`](13_cas_lausanne_verfahren_einleitung.docx) | CAS 2026/A/8821, Statement of Appeal, Verfahrensregeln |
+| 14 | [`14_cas_rechtsprechung_mutu_pechstein.docx`](14_cas_rechtsprechung_mutu_pechstein.docx) | Mutu/Pechstein-Linie, ECHR Art. 6, Verfahrensgrundrechte |
+| 15 | [`15_kuendigung_bsv_sachsen_zwickau.docx`](15_kuendigung_bsv_sachsen_zwickau.docx) | Fristlose Kündigung § 626 BGB, Sachverhalt, Reaktion |
+| 16 | [`16_kuendigungsschutzklage_arbg_chemnitz.docx`](16_kuendigungsschutzklage_arbg_chemnitz.docx) | ArbG Chemnitz 4 Ca 88/26, Klagebegründung, Vergleichsoptionen |
+| 17 | [`17_persoenlichkeitsrecht_bild_schlagzeile.docx`](17_persoenlichkeitsrecht_bild_schlagzeile.docx) | BILD-Schlagzeile „Doping-Selin", § 823 BGB, Unterlassung |
+| 18 | [`18_klage_lg_berlin_unterlassung_geldentschaedigung.docx`](18_klage_lg_berlin_unterlassung_geldentschaedigung.docx) | LG Berlin 27 O 411/26, Tenor, Streitwert, Gegendarstellung |
+| 19 | [`19_sponsorenvertrag_adidas_moralklausel.docx`](19_sponsorenvertrag_adidas_moralklausel.docx) | Adidas AG, Suspendierung, Moralklausel, 80.000 EUR Rückforderung |
+| 20 | [`20_icc_schiedsverfahren_zuerich.docx`](20_icc_schiedsverfahren_zuerich.docx) | ICC Zürich 28-2026/SPO, § 307 BGB, AGB-Kontrolle |
+| 21 | [`21_dhb_ehf_ihf_verbandssanktionen.docx`](21_dhb_ehf_ihf_verbandssanktionen.docx) | Bundeskaderausschluss DHB, EHF/IHF-Wechselsperre 24 Monate |
+| 22 | [`22_strafanzeige_powernutrition_koerperverletzung.docx`](22_strafanzeige_powernutrition_koerperverletzung.docx) | § 223 StGB, Strafanzeige, Staatsanwaltschaft Memmingen |
 
 ---
 

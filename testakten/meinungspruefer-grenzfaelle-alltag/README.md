@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 88 KB) | PDF | [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 85 KB) | PDF | [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag-einzelpdfs.zip) |
 
@@ -36,24 +36,24 @@ Die Akte verlangt nacheinander Wortlautsicherung, Kontextklärung, Trennung von 
 
 | Datei | Inhalt |
 |---|---|
-| `01_mandantenmail_erstkontakt.md` | Erstmail der Mandantin mit durcheinandergeworfenen Fällen |
-| `02_x_post_bauprojekt_stadtgruen.md` | X-Thread zum kommunalen Bauprojekt mit Repost-Welle und Whistleblower-DM |
-| `03_linkedin_pinocchio_projektleitung.md` | LinkedIn-Kommentar über Projektleitung und Lieferzusagen, mit Folge-DMs |
-| `04_kantine_gespraechsnotiz_betrieb.md` | Gesprächsnotiz zu Kantinenäußerung im Unternehmen, mit HR-Korrespondenz |
-| `05_elternchat_schule_auszug.md` | Elternchat mit Schulleitungs- und Lehrkraftkritik, Hausverbots-Andeutung |
-| `06_buergermeister_lackaffe_buergerversammlung.md` | Protokollnotiz Bürgerveranstaltung, Lokal-TV und Augenzeugen |
-| `07_belegmappe_tatsachenkern.md` | Belege, Gegenbelege, Whistleblower-Hinweis und offene Lücken |
-| `08_abmahnung_und_aufforderung.md` | Abmahnung, vorformulierte Unterlassungserklärung, Strafanzeige-Vorbehalt |
-| `09_polizeiliche_anhoerung_notiz.md` | Notiz zur Anhörung wegen Beleidigung, Stellungnahmeentwurf |
-| `10_pruefauftrag_kanzlei.md` | Arbeitsauftrag an das Plugin mit erweitertem Fragenkatalog |
-| `11_reaktionsentwurf_roh.md` | Rohentwurf einer zu scharfen Antwort mit Kanzleinotiz |
+| `01_mandantenmail_erstkontakt.docx` | Erstmail der Mandantin mit durcheinandergeworfenen Fällen |
+| `02_x_post_bauprojekt_stadtgruen.docx` | X-Thread zum kommunalen Bauprojekt mit Repost-Welle und Whistleblower-DM |
+| `03_linkedin_pinocchio_projektleitung.docx` | LinkedIn-Kommentar über Projektleitung und Lieferzusagen, mit Folge-DMs |
+| `04_kantine_gespraechsnotiz_betrieb.docx` | Gesprächsnotiz zu Kantinenäußerung im Unternehmen, mit HR-Korrespondenz |
+| `05_elternchat_schule_auszug.docx` | Elternchat mit Schulleitungs- und Lehrkraftkritik, Hausverbots-Andeutung |
+| `06_buergermeister_lackaffe_buergerversammlung.docx` | Protokollnotiz Bürgerveranstaltung, Lokal-TV und Augenzeugen |
+| `07_belegmappe_tatsachenkern.docx` | Belege, Gegenbelege, Whistleblower-Hinweis und offene Lücken |
+| `08_abmahnung_und_aufforderung.docx` | Abmahnung, vorformulierte Unterlassungserklärung, Strafanzeige-Vorbehalt |
+| `09_polizeiliche_anhoerung_notiz.docx` | Notiz zur Anhörung wegen Beleidigung, Stellungnahmeentwurf |
+| `10_pruefauftrag_kanzlei.docx` | Arbeitsauftrag an das Plugin mit erweitertem Fragenkatalog |
+| `11_reaktionsentwurf_roh.docx` | Rohentwurf einer zu scharfen Antwort mit Kanzleinotiz |
 | `12_zeitachse_aeusserungen.csv` | Chronologie der Äußerungen mit Charakter-Tags und Risikoeinstufung |
-| `13_rechtsvergleich_usa_notiz.md` | Interne Nachfrage zum USA-Vergleich und zu First-Amendment-Risiken |
-| `14_social_media_zweitwelle_reaktionen.md` | Repost-Welle, LinkedIn-Reaktionen und Lokalpresse-Echo |
-| `15_anwaltsmahnung_novawerk_rupprecht.md` | Anwaltsschreiben Hagen, Pries & Limmert für Frau Rupprecht |
-| `16_polizei_anzeige_konvolut.md` | Strafanzeige, polizeilicher Vermerk, StA-Telefonat, Verletztenvertretung |
-| `17_whistleblower_statement_okb_insider.md` | Whistleblower-Statement, Quellenschutzfragen und HinSchG-Implikationen |
-| `18_gegendarstellung_und_klarstellung_entwurf.md` | Entwürfe für Klarstellungen, modifizierte Unterlassungserklärungen und Folge-Kommentare |
+| `13_rechtsvergleich_usa_notiz.docx` | Interne Nachfrage zum USA-Vergleich und zu First-Amendment-Risiken |
+| `14_social_media_zweitwelle_reaktionen.docx` | Repost-Welle, LinkedIn-Reaktionen und Lokalpresse-Echo |
+| `15_anwaltsmahnung_novawerk_rupprecht.docx` | Anwaltsschreiben Hagen, Pries & Limmert für Frau Rupprecht |
+| `16_polizei_anzeige_konvolut.docx` | Strafanzeige, polizeilicher Vermerk, StA-Telefonat, Verletztenvertretung |
+| `17_whistleblower_statement_okb_insider.docx` | Whistleblower-Statement, Quellenschutzfragen und HinSchG-Implikationen |
+| `18_gegendarstellung_und_klarstellung_entwurf.docx` | Entwürfe für Klarstellungen, modifizierte Unterlassungserklärungen und Folge-Kommentare |
 
 ## Vorführpfad
 

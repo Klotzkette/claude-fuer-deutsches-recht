@@ -25,7 +25,7 @@ checks:
   - id: r05-paragraf-613a-im-bu-skill
     check_type: text_contains
     description: "Betriebsuebergang-Skill referenziert $ 613a BGB"
-    path: "17_betriebsuebergang-613a-bgb.md"
+    path: "17_betriebsuebergang-613a-bgb.docx"
     contains: "613a"
 
   - id: r06-jpg-transaktionsstruktur

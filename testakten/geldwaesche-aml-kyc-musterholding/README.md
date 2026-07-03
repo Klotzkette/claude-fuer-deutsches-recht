@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1202 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1179 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding-einzelpdfs.zip) |
 
@@ -118,38 +118,38 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | [01_intake/email_vertrieb_eskalation.txt](01_intake/email_vertrieb_eskalation.txt) | Erstmeldung Vertrieb an Compliance zum Neukunden Danube |
 | [01_intake/email_bank_rueckfrage.txt](01_intake/email_bank_rueckfrage.txt) | E-Mail der Hausbank zur Drittzahlung Adriatic Commerce |
 | [01_intake/email_vorstand_klarstellung.txt](01_intake/email_vorstand_klarstellung.txt) | Interne Anfrage Geschäftsführung an Compliance |
-| [01_intake/mandatsnotiz_eingangsgespraech.md](01_intake/mandatsnotiz_eingangsgespraech.md) | Mandatsnotiz zum Eingangs­gespräch bei RA Dr. Heller (05.05.2026) |
+| [01_intake/mandatsnotiz_eingangsgespraech.md](01_intake/mandatsnotiz_eingangsgespraech.docx) | Mandatsnotiz zum Eingangs­gespräch bei RA Dr. Heller (05.05.2026) |
 | [01_intake/mandatsvollmacht.pdf](01_intake/mandatsvollmacht.pdf) | Mandatsvollmacht zugunsten Kanzlei Heller & Schönfeld (PDF) |
 | [01_intake/sachverhaltsmemo.pdf](01_intake/sachverhaltsmemo.pdf) | Sachverhaltsmemo Kanzlei: chronologische Darstellung des Mandats |
-| [02_verpflichtetenstatus/branchenprofil.md](02_verpflichtetenstatus/branchenprofil.md) | Vermerk: Verpflichtetenstatus nach § 2 GwG, Sicherungspflichten |
-| [03_risikoanalyse/risikoanalyse_alt_2024.md](03_risikoanalyse/risikoanalyse_alt_2024.md) | Aktualisierte Risikoanalyse 2026 mit Risikomatrix |
-| [04_kyc/kunde_onboarding_rohdaten.md](04_kyc/kunde_onboarding_rohdaten.md) | KYC-Prüfformular Danube Trade Solutions SRL (ausgefüllt) |
+| [02_verpflichtetenstatus/branchenprofil.md](02_verpflichtetenstatus/branchenprofil.docx) | Vermerk: Verpflichtetenstatus nach § 2 GwG, Sicherungspflichten |
+| [03_risikoanalyse/risikoanalyse_alt_2024.md](03_risikoanalyse/risikoanalyse_alt_2024.docx) | Aktualisierte Risikoanalyse 2026 mit Risikomatrix |
+| [04_kyc/kunde_onboarding_rohdaten.md](04_kyc/kunde_onboarding_rohdaten.docx) | KYC-Prüfformular Danube Trade Solutions SRL (ausgefüllt) |
 | [04_kyc/kyc_checkliste_danube_trade_solutions.xlsx](04_kyc/kyc_checkliste_danube_trade_solutions.xlsx) | XLSX: KYC-Checkliste mit Prüfschritten, Verantwortlichen und Status |
 | [04_kyc/passport_scan_petr_novotny.pdf](04_kyc/passport_scan_petr_novotny.pdf) | Faksimile eines Reisepass-Scans (Identifikationsnachweis UBO-Kandidat) |
 | [04_kyc/handelsregister_auszug_danube.pdf](04_kyc/handelsregister_auszug_danube.pdf) | Handelsregisterauszug Danube Trade Solutions SRL (RO-Register-Auszug) |
-| [05_ubo/ubo_dokumentation.md](05_ubo/ubo_dokumentation.md) | UBO-Dokumentation und Analyse Blue Harbor Holdings Ltd. |
+| [05_ubo/ubo_dokumentation.md](05_ubo/ubo_dokumentation.docx) | UBO-Dokumentation und Analyse Blue Harbor Holdings Ltd. |
 | [05_ubo/ubo_stammbaum_datentafel.xlsx](05_ubo/ubo_stammbaum_datentafel.xlsx) | XLSX: UBO-Stammbaum mit Beteiligungsketten und Quellen |
 | [05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.pdf](05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.pdf) | Strukturchart Danube → Blue Harbor → Adriatic (Druckversion) |
 | [05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png](05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png) | Strukturchart als PNG (Bildschirmversion) |
-| [06_pep_sanktionen/screening_treffer.md](06_pep_sanktionen/screening_treffer.md) | PEP/Sanktionslisten-Trefferbewertung Andrei Moldovan & Blue Harbor |
+| [06_pep_sanktionen/screening_treffer.md](06_pep_sanktionen/screening_treffer.docx) | PEP/Sanktionslisten-Trefferbewertung Andrei Moldovan & Blue Harbor |
 | [06_pep_sanktionen/screening_log_2026.xlsx](06_pep_sanktionen/screening_log_2026.xlsx) | XLSX: Screening-Log 2026 (Treffer, Bewertung, Vier-Augen-Freigabe) |
 | [07_transaktionen/ungewöhnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
-| [07_transaktionen/transaktionsmonitoring_alert.md](07_transaktionen/transaktionsmonitoring_alert.md) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
+| [07_transaktionen/transaktionsmonitoring_alert.md](07_transaktionen/transaktionsmonitoring_alert.docx) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
 | [07_transaktionen/transaktionshistorie_12monate_danube.xlsx](07_transaktionen/transaktionshistorie_12monate_danube.xlsx) | XLSX: 12-Monats-Transaktionshistorie Danube mit Anomalie-Flags |
 | [08_mittelherkunft/source_of_funds_antwort.txt](08_mittelherkunft/source_of_funds_antwort.txt) | Rohdaten Mittelherkunftsantwort |
-| [08_mittelherkunft/mittelherkunftsnachweis_anforderung.md](08_mittelherkunft/mittelherkunftsnachweis_anforderung.md) | Schreiben: Anforderung Mittelherkunftsnachweis an Danube Trade |
+| [08_mittelherkunft/mittelherkunftsnachweis_anforderung.md](08_mittelherkunft/mittelherkunftsnachweis_anforderung.docx) | Schreiben: Anforderung Mittelherkunftsnachweis an Danube Trade |
 | [08_mittelherkunft/email_an_adriatic_commerce.txt](08_mittelherkunft/email_an_adriatic_commerce.txt) | E-Mail an Adriatic Commerce Ltd. zur Klärung der Drittzahlung |
-| [09_verdachtsmeldung/goaml_entwurfsnotiz.md](09_verdachtsmeldung/goaml_entwurfsnotiz.md) | Vollständige Verdachtsmeldung (SAR) an FIU, VM-MH-2026-0041 |
+| [09_verdachtsmeldung/goaml_entwurfsnotiz.md](09_verdachtsmeldung/goaml_entwurfsnotiz.docx) | Vollständige Verdachtsmeldung (SAR) an FIU, VM-MH-2026-0041 |
 | [09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt](09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt) | Eingangsbestätigung FIU zur Verdachtsmeldung VM-MH-2026-0041 |
-| [10_transparenzregister/unstimmigkeit_register.md](10_transparenzregister/unstimmigkeit_register.md) | Unstimmigkeitsmeldung Transparenzregister Immobilien-Tochter |
-| [11_behoerde/auskunftsersuchen_landesaufsicht.md](11_behoerde/auskunftsersuchen_landesaufsicht.md) | Antwortschreiben an RP Darmstadt (Aufsichtsbehörde) |
+| [10_transparenzregister/unstimmigkeit_register.md](10_transparenzregister/unstimmigkeit_register.docx) | Unstimmigkeitsmeldung Transparenzregister Immobilien-Tochter |
+| [11_behoerde/auskunftsersuchen_landesaufsicht.md](11_behoerde/auskunftsersuchen_landesaufsicht.docx) | Antwortschreiben an RP Darmstadt (Aufsichtsbehörde) |
 | [11_behoerde/email_kanzlei_update_mandant.txt](11_behoerde/email_kanzlei_update_mandant.txt) | Kanzlei-Update an Mandant zum Stand des Behördenverfahrens |
 | [12_schulung/schulungsstand.csv](12_schulung/schulungsstand.csv) | Schulungsstand-Übersicht Mitarbeiter |
-| [12_schulung/schulungsunterlage_aml_kyc.md](12_schulung/schulungsunterlage_aml_kyc.md) | Schulungsunterlage Geldwäscheprävention für Mitarbeiter |
+| [12_schulung/schulungsunterlage_aml_kyc.md](12_schulung/schulungsunterlage_aml_kyc.docx) | Schulungsunterlage Geldwäscheprävention für Mitarbeiter |
 | [12_schulung/schulungstracking_2025_2026.xlsx](12_schulung/schulungstracking_2025_2026.xlsx) | XLSX: Schulungstracking 2025/2026 mit Quoten und Auffrischungsfristen |
-| [13_audit/internal_audit_findings.md](13_audit/internal_audit_findings.md) | Internes Audit-Memo AML-Compliance |
+| [13_audit/internal_audit_findings.md](13_audit/internal_audit_findings.docx) | Internes Audit-Memo AML-Compliance |
 | [14_presse/presseanfrage.txt](14_presse/presseanfrage.txt) | Eingehende Presseanfrage |
-| [14_presse/krisenkommunikation_entwurf.md](14_presse/krisenkommunikation_entwurf.md) | Entwurf Krisenkommunikation / Pressemitteilung |
+| [14_presse/krisenkommunikation_entwurf.md](14_presse/krisenkommunikation_entwurf.docx) | Entwurf Krisenkommunikation / Pressemitteilung |
 | [09_verdachtsmeldung/verdachtsmeldung_FIU.docx](09_verdachtsmeldung/verdachtsmeldung_FIU.docx) | DOCX: Verdachtsmeldung SAR (druckfertig) |
 | [11_behoerde/antwort_rp_darmstadt.docx](11_behoerde/antwort_rp_darmstadt.docx) | DOCX: Schreiben an RP Darmstadt / BaFin |
 | [03_risikoanalyse/risikoanalyse_2026.docx](03_risikoanalyse/risikoanalyse_2026.docx) | DOCX: Risikoanalyse 2026 (Vorlage für Behörde) |

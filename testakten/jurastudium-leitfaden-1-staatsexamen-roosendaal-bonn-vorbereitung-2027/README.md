@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 565 KB) | PDF | [`gesamt-pdf/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027_gesamt.pdf`](gesamt-pdf/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 556 KB) | PDF | [`gesamt-pdf/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027_gesamt.pdf`](gesamt-pdf/jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jurastudium-leitfaden-1-staatsexamen-roosendaal-bonn-vorbereitung-2027-einzelpdfs.zip) |
 
@@ -84,28 +84,28 @@ Arbeitsakte zum Plugin `jurastudium`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsuebersicht_examensplanung_roosendaal.md`](01_mandatsuebersicht_examensplanung_roosendaal.md) | Studienbiografie, Ziele, Lernausgangslage |
-| 02 | [`02_stoffplanung_bgb_overview_bonn.md`](02_stoffplanung_bgb_overview_bonn.md) | BGB-Gesamtübersicht AT/SchuldR/SachenR/FamR/ErbR |
-| 03 | [`03_stoffplanung_strafrecht_at_bt.md`](03_stoffplanung_strafrecht_at_bt.md) | StR AT/BT Systematik, Aufbauschemata, Examensrelevanz |
-| 04 | [`04_stoffplanung_oeffentliches_recht_verfassung.md`](04_stoffplanung_oeffentliches_recht_verfassung.md) | GG, Verwaltungsrecht, VwGO, VwVfG, ÖR-Klausuraufbau |
-| 05 | [`05_wahlfach_ipr_schwerpunkt_witzleben.md`](05_wahlfach_ipr_schwerpunkt_witzleben.md) | IPR-Systematik, Rom-I/II-VO, EGBGB, Schwerpunktthemen |
-| 06 | [`06_klausurentraining_aufbau_subsumtion.md`](06_klausurentraining_aufbau_subsumtion.md) | Gutachtenstil, Subsumtionstechnik, Aufbaufehler |
-| 07 | [`07_zeitmanagement_5_stunden_klausur.md`](07_zeitmanagement_5_stunden_klausur.md) | Klausurtaktik, Zeitblöcke, Lesezeit, Abgabemanagement |
-| 08 | [`08_repetitor_alpmann_hemmer_jura_intensiv_vergleich.md`](08_repetitor_alpmann_hemmer_jura_intensiv_vergleich.md) | Repetitorienvergleich, Kosten, Lernkonzepte, Empfehlung |
-| 09 | [`09_probeklausuren_schwaechenanalyse.md`](09_probeklausuren_schwaechenanalyse.md) | Notenübersicht, Fehleranalyse, Verbesserungsplan |
-| 10 | [`10_examensvorbereitungsplan_18_monate.md`](10_examensvorbereitungsplan_18_monate.md) | 18-Monats-Gesamtplan, Meilensteine, Wochenpläne |
-| 11 | [`11_mentor_lehrstuhl_dueck_kontaktpflege.md`](11_mentor_lehrstuhl_dueck_kontaktpflege.md) | Mentorin Dr. Dueck, Lehrstuhlkontakt, Examenstipps |
-| 12 | [`12_nachteilsausgleich_par9_jag_nrw_pfeifferschdt.md`](12_nachteilsausgleich_par9_jag_nrw_pfeifferschdt.md) | Pfeiffersches Drüsenfieber, § 9 JAG NRW, Antrag JPA |
-| 13 | [`13_familienkonflikt_vater_praktikum_diskussion.md`](13_familienkonflikt_vater_praktikum_diskussion.md) | Vater-Tochter-Konflikt, Wirtschaftsanwaltschaft vs. LL.M. |
-| 14 | [`14_schwerpunkthausarbeit_ipr_witzleben.md`](14_schwerpunkthausarbeit_ipr_witzleben.md) | IPR-Hausarbeit, Rom-I/II-VO, Gutachten, Note 11 Punkte |
-| 15 | [`15_jpa_koeln_anmeldebogen_hilfsmittelliste.md`](15_jpa_koeln_anmeldebogen_hilfsmittelliste.md) | JPA-Anmeldung, Zulassungsvoraussetzungen, Hilfsmittel |
-| 16 | [`16_pruefungsangst_psychologische_beratung.md`](16_pruefungsangst_psychologische_beratung.md) | Prüfungsangst, Psychologische Studienberatung Bonn |
-| 17 | [`17_methodenlehre_juristische_arbeitstechnik.md`](17_methodenlehre_juristische_arbeitstechnik.md) | Gutachtenstil, Auslegungsmethoden, juristische Technik |
-| 18 | [`18_aktuelle_rechtsprechung_bgh_olg_klausurrelevant.md`](18_aktuelle_rechtsprechung_bgh_olg_klausurrelevant.md) | BGH/OLG-Entscheidungen, examensrelevante Rechtsprechung |
-| 19 | [`19_examensvorbereitungsklausur_drittversuch.md`](19_examensvorbereitungsklausur_drittversuch.md) | Strafrecht AT Drittversuch, Mentoring, Aufbaukorrektur |
-| 20 | [`20_motivation_pruefungsmotivation_durchhalten.md`](20_motivation_pruefungsmotivation_durchhalten.md) | Motivationsstrategien, Lerngruppe, Selbstwirksamkeit |
-| 21 | [`21_chronologie_examensvorbereitung.md`](21_chronologie_examensvorbereitung.md) | Chronologie September 2025 bis Frühjahr 2027 |
-| 22 | [`22_abschluss_und_examensanmeldung_2027.md`](22_abschluss_und_examensanmeldung_2027.md) | Zulassungsbescheid, finale Vorbereitung, Prüfungsplan |
+| 01 | [`01_mandatsuebersicht_examensplanung_roosendaal.docx`](01_mandatsuebersicht_examensplanung_roosendaal.docx) | Studienbiografie, Ziele, Lernausgangslage |
+| 02 | [`02_stoffplanung_bgb_overview_bonn.docx`](02_stoffplanung_bgb_overview_bonn.docx) | BGB-Gesamtübersicht AT/SchuldR/SachenR/FamR/ErbR |
+| 03 | [`03_stoffplanung_strafrecht_at_bt.docx`](03_stoffplanung_strafrecht_at_bt.docx) | StR AT/BT Systematik, Aufbauschemata, Examensrelevanz |
+| 04 | [`04_stoffplanung_oeffentliches_recht_verfassung.docx`](04_stoffplanung_oeffentliches_recht_verfassung.docx) | GG, Verwaltungsrecht, VwGO, VwVfG, ÖR-Klausuraufbau |
+| 05 | [`05_wahlfach_ipr_schwerpunkt_witzleben.docx`](05_wahlfach_ipr_schwerpunkt_witzleben.docx) | IPR-Systematik, Rom-I/II-VO, EGBGB, Schwerpunktthemen |
+| 06 | [`06_klausurentraining_aufbau_subsumtion.docx`](06_klausurentraining_aufbau_subsumtion.docx) | Gutachtenstil, Subsumtionstechnik, Aufbaufehler |
+| 07 | [`07_zeitmanagement_5_stunden_klausur.docx`](07_zeitmanagement_5_stunden_klausur.docx) | Klausurtaktik, Zeitblöcke, Lesezeit, Abgabemanagement |
+| 08 | [`08_repetitor_alpmann_hemmer_jura_intensiv_vergleich.docx`](08_repetitor_alpmann_hemmer_jura_intensiv_vergleich.docx) | Repetitorienvergleich, Kosten, Lernkonzepte, Empfehlung |
+| 09 | [`09_probeklausuren_schwaechenanalyse.docx`](09_probeklausuren_schwaechenanalyse.docx) | Notenübersicht, Fehleranalyse, Verbesserungsplan |
+| 10 | [`10_examensvorbereitungsplan_18_monate.docx`](10_examensvorbereitungsplan_18_monate.docx) | 18-Monats-Gesamtplan, Meilensteine, Wochenpläne |
+| 11 | [`11_mentor_lehrstuhl_dueck_kontaktpflege.docx`](11_mentor_lehrstuhl_dueck_kontaktpflege.docx) | Mentorin Dr. Dueck, Lehrstuhlkontakt, Examenstipps |
+| 12 | [`12_nachteilsausgleich_par9_jag_nrw_pfeifferschdt.docx`](12_nachteilsausgleich_par9_jag_nrw_pfeifferschdt.docx) | Pfeiffersches Drüsenfieber, § 9 JAG NRW, Antrag JPA |
+| 13 | [`13_familienkonflikt_vater_praktikum_diskussion.docx`](13_familienkonflikt_vater_praktikum_diskussion.docx) | Vater-Tochter-Konflikt, Wirtschaftsanwaltschaft vs. LL.M. |
+| 14 | [`14_schwerpunkthausarbeit_ipr_witzleben.docx`](14_schwerpunkthausarbeit_ipr_witzleben.docx) | IPR-Hausarbeit, Rom-I/II-VO, Gutachten, Note 11 Punkte |
+| 15 | [`15_jpa_koeln_anmeldebogen_hilfsmittelliste.docx`](15_jpa_koeln_anmeldebogen_hilfsmittelliste.docx) | JPA-Anmeldung, Zulassungsvoraussetzungen, Hilfsmittel |
+| 16 | [`16_pruefungsangst_psychologische_beratung.docx`](16_pruefungsangst_psychologische_beratung.docx) | Prüfungsangst, Psychologische Studienberatung Bonn |
+| 17 | [`17_methodenlehre_juristische_arbeitstechnik.docx`](17_methodenlehre_juristische_arbeitstechnik.docx) | Gutachtenstil, Auslegungsmethoden, juristische Technik |
+| 18 | [`18_aktuelle_rechtsprechung_bgh_olg_klausurrelevant.docx`](18_aktuelle_rechtsprechung_bgh_olg_klausurrelevant.docx) | BGH/OLG-Entscheidungen, examensrelevante Rechtsprechung |
+| 19 | [`19_examensvorbereitungsklausur_drittversuch.docx`](19_examensvorbereitungsklausur_drittversuch.docx) | Strafrecht AT Drittversuch, Mentoring, Aufbaukorrektur |
+| 20 | [`20_motivation_pruefungsmotivation_durchhalten.docx`](20_motivation_pruefungsmotivation_durchhalten.docx) | Motivationsstrategien, Lerngruppe, Selbstwirksamkeit |
+| 21 | [`21_chronologie_examensvorbereitung.docx`](21_chronologie_examensvorbereitung.docx) | Chronologie September 2025 bis Frühjahr 2027 |
+| 22 | [`22_abschluss_und_examensanmeldung_2027.docx`](22_abschluss_und_examensanmeldung_2027.docx) | Zulassungsbescheid, finale Vorbereitung, Prüfungsplan |
 
 ---
 

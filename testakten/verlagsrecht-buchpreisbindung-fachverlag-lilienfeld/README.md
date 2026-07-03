@@ -27,14 +27,14 @@ Diese Akte gehört zu den Plugins `verlagsrecht-buchpreisbindung`, `verlagsredak
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.md` | Chronologie, Rollen, erste Streitpunkte |
+| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
 | `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
 | `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
 | `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
 | `05-dashboard.csv` | strukturierte Prüfspur |
 | `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
 | `gesamt-pdf/verlagsrecht-buchpreisbindung-fachverlag-lilienfeld_gesamt.pdf` | Gesamt-PDF der Akte |
-| `90-ergaenzende-korrespondenz-und-vollvermerke.md` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
+| `90-ergaenzende-korrespondenz-und-vollvermerke.docx` | Ausformulierte Korrespondenz, interner Arbeitsvermerk, Entwurfsschreiben und Beweis-/Fristenlogik |
 
 ## Sachstand
 

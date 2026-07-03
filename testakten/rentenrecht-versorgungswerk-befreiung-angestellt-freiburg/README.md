@@ -30,18 +30,18 @@ Die Akte lebt vom Spannungsfeld zwischen Papierlage (Stellenbeschreibung) und ta
 ```
 rentenrecht-versorgungswerk-befreiung-angestellt-freiburg/
 ├── README.md                              ← diese Datei
-├── 01_mandatsaufnahme.md                  ← Kanzleivermerk: Verfahrensstand, Klagefrist, Arbeitsauftrag
-├── 02_arbeitsvertrag_auszug.md            ← Vertragsauszug mit Tätigkeits- und Vergütungsregelung
-├── 03_stellenbeschreibung.md              ← interne Stellenbeschreibung mit Aufgabenanteilen von 2021
-├── 04_kammer_mitgliedsbescheinigung.md    ← Eintragung in die Architektenliste seit 01.02.2024
-├── 05_versorgungswerk_bescheinigung.md    ← Pflichtmitgliedschaft, Beitragskonto, Einschätzung des Versorgungswerks
-├── 06_befreiungsantrag.md                 ← Befreiungsantrag vom 15.04.2024 mit Anlagenliste
-├── 07_drv_ablehnungsbescheid.md           ← Ablehnung vom 08.05.2026 mit Rechtsbehelfsbelehrung
-├── 08_widerspruch_mandant.md              ← selbst verfasster Widerspruch vom 18.05.2026
-├── 09_widerspruchsbescheid.md             ← Zurückweisung vom 10.06.2026, Klage zum SG Freiburg möglich
-├── 10_arbeitgeberbestaetigung_taetigkeit.md ← tatsächliche Aufgabenverteilung, Projekte, Zeugenangebot
+├── 01_mandatsaufnahme.docx                  ← Kanzleivermerk: Verfahrensstand, Klagefrist, Arbeitsauftrag
+├── 02_arbeitsvertrag_auszug.docx            ← Vertragsauszug mit Tätigkeits- und Vergütungsregelung
+├── 03_stellenbeschreibung.docx              ← interne Stellenbeschreibung mit Aufgabenanteilen von 2021
+├── 04_kammer_mitgliedsbescheinigung.docx    ← Eintragung in die Architektenliste seit 01.02.2024
+├── 05_versorgungswerk_bescheinigung.docx    ← Pflichtmitgliedschaft, Beitragskonto, Einschätzung des Versorgungswerks
+├── 06_befreiungsantrag.docx                 ← Befreiungsantrag vom 15.04.2024 mit Anlagenliste
+├── 07_drv_ablehnungsbescheid.docx           ← Ablehnung vom 08.05.2026 mit Rechtsbehelfsbelehrung
+├── 08_widerspruch_mandant.docx              ← selbst verfasster Widerspruch vom 18.05.2026
+├── 09_widerspruchsbescheid.docx             ← Zurückweisung vom 10.06.2026, Klage zum SG Freiburg möglich
+├── 10_arbeitgeberbestaetigung_taetigkeit.docx ← tatsächliche Aufgabenverteilung, Projekte, Zeugenangebot
 ├── 11_beitragsfluss.csv                   ← Monatsraster der Doppelzahlungen seit März 2024
-└── 12_vermerk_klagevorbereitung.md        ← Klagekern, Beweismittel, Schwachstellen, Nebenpunkte
+└── 12_vermerk_klagevorbereitung.docx        ← Klagekern, Beweismittel, Schwachstellen, Nebenpunkte
 ```
 
 ## Bearbeitungsziel
