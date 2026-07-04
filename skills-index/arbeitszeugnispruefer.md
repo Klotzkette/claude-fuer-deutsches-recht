@@ -1,6 +1,6 @@
 # arbeitszeugnispruefer
 
-**30 Skills** · Stand `v419.0.0`
+**30 Skills** · Stand `v420.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/README.md)

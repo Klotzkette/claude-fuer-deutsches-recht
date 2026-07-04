@@ -1,5 +1,38 @@
 # Steuerrecht – Steuerberater und Anwälte
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`steuerrecht-anwalt-und-berater`) | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung** (`beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/gesamt-pdf/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung_gesamt.pdf) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
+| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [`testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
+| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`edelholz-manufaktur-berlin-liquiditaet`) | [Gesamt-PDF lesen](../testakten/edelholz-manufaktur-berlin-liquiditaet/gesamt-pdf/edelholz-manufaktur-berlin-liquiditaet_gesamt.pdf) | [`testakte-edelholz-manufaktur-berlin-liquiditaet.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-edelholz-manufaktur-berlin-liquiditaet.zip) |
+| **Forschungszulage Riedblick Sensorik GmbH** (`forschungszulage-sensorik-startup-taunus`) | [Gesamt-PDF lesen](../testakten/forschungszulage-sensorik-startup-taunus/gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
+| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [`testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
+| **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [`testakte-grundsteuer-rosenwinkel-bescheidkette.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung** (`influencer-recht-creator-sachleistungen-steuer-werbung`) | [Gesamt-PDF lesen](../testakten/influencer-recht-creator-sachleistungen-steuer-werbung/gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf) | [`testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-influencer-recht-creator-sachleistungen-steuer-werbung.zip) |
+| **Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Präzision GmbH & Co. KG Erfurt (2026)** (`sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
+| **Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)** (`sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
+| **Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)** (`sanierungsgewinn-starug-plan-windenergie-pellbach-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
+| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

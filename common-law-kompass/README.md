@@ -1,5 +1,26 @@
 # Common-Law-Kompass für deutsche Wirtschaftsjuristen
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`common-law-kompass`) | [`common-law-kompass.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Common-Law-Kompass: Crossborder Supply & License Agreement** (`common-law-kompass-crossborder-contract`) | [Gesamt-PDF lesen](../testakten/common-law-kompass-crossborder-contract/gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) | [`testakte-common-law-kompass-crossborder-contract.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

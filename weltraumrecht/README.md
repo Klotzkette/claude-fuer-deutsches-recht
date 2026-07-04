@@ -1,5 +1,26 @@
 # Weltraumrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`weltraumrecht`) | [`weltraumrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weltraumrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Nordlicht-Orbit: Satellitenschwarm, Küstenstartplatz und Absturzrisiko** (`weltraumrecht-satellitenschwarm-startplatz-kueste`) | [Gesamt-PDF lesen](../testakten/weltraumrecht-satellitenschwarm-startplatz-kueste/gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf) | [`testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weltraumrecht-satellitenschwarm-startplatz-kueste.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

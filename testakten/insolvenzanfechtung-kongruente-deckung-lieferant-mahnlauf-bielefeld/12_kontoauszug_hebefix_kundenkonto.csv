@@ -1,0 +1,14 @@
+Bankumsaetze HebeFix Beschlagtechnik GmbH;Velberter Bank eG;Konto DE71 3606 0295 0011 4408 12;Filterung Kundenkonto 10447 Teutoburger Moebelwerk GmbH;Export vom 22.05.2026
+Buchungstag;Vorgang;Verwendungszweck;Betrag_EUR
+06.10.2025;SEPA-Lastschrift Einzug;RE-2025-4411 Teutoburger Moebelwerk GmbH;28700,00
+08.10.2025;Lastschrift-Rueckgabe;RE-2025-4411 Rueckgabe AM04 Deckung unzureichend zzgl. Entgelt 7,50;-28707,50
+20.10.2025;SEPA-Lastschrift Einzug;RE-2025-4411 Teutoburger Moebelwerk GmbH 2. Einzug;28700,00
+22.10.2025;Lastschrift-Rueckgabe;RE-2025-4411 Rueckgabe AM04 Deckung unzureichend zzgl. Entgelt 7,50;-28707,50
+12.11.2025;Gutschrift Ueberweisung;RE-2025-4890 Teutoburger Moebelwerk GmbH Projekt Arkadia;6420,00
+01.12.2025;Gutschrift Ueberweisung;RE-2025-4411 Teutoburger Moebelwerk GmbH;28700,00
+19.12.2025;Gutschrift Ueberweisung;RE-2025-4736 Rate 1 gem. Vereinbarung Teutoburger Moebelwerk GmbH;15600,00
+19.12.2025;Gutschrift Ueberweisung;RE-2025-4736 Rate 2 vorgezogen Teutoburger Moebelwerk GmbH;15600,00
+22.12.2025;Gutschrift Ueberweisung;RE-2025-5288 Teutoburger Moebelwerk GmbH Projekt Arkadia;5130,00
+09.01.2026;Gutschrift Ueberweisung;RE-2025-5102 Teutoburger Moebelwerk GmbH inkl. Zinsen folgt gesondert;27500,00
+Anmerkung Buchhaltung;Die Rechnung RE-2025-4736 wurde abweichend vom Ratenplan am 19.12.2025 in einem Betrag ausgeglichen (zwei Teilueberweisungen am selben Tag);;
+Anmerkung Buchhaltung;Verzugszinsen und Verzugspauschalen wurden bis zur Verfahrenseroeffnung nicht gezahlt und sind zur Tabelle angemeldet;;

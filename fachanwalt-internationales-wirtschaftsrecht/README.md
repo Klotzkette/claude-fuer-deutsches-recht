@@ -1,5 +1,26 @@
 # Fachanwalt Internationales Wirtschaftsrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-internationales-wirtschaftsrecht`) | [`fachanwalt-internationales-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Exportkontrolle / Dual-Use — Werkmann Anlagentechnik AG, Mannheim** (`exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim`) | [Gesamt-PDF lesen](../testakten/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim/gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf) | [`testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

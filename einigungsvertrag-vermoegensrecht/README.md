@@ -1,5 +1,26 @@
 # Einigungsvertrag und Vermögensrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`einigungsvertrag-vermoegensrecht`) | [`einigungsvertrag-vermoegensrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Einheitsvertragsakte Lindenau** (`einigungsvertrag-treuhand-mauergrundstueck-lindenau`) | [Gesamt-PDF lesen](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

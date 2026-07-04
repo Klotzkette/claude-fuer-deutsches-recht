@@ -1,5 +1,28 @@
 # Fachanwalt Bau Architektenrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-bau-architektenrecht`) | [`fachanwalt-bau-architektenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bau-architektenrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Bauträgervertrag Birkenpfuhl — Verbraucherprüfung Quendel / Übelacker-Strohmeyer** (`bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung`) | [Gesamt-PDF lesen](../testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf) | [`testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung.zip) |
+| **Kita Mühlenhof Lichtenrade - HOAI-Leistungsphasen und Bauüberwachung 2026** (`hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026`) | [Gesamt-PDF lesen](../testakten/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026/gesamt-pdf/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026_gesamt.pdf) | [`testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip) |
+| **Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [`testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

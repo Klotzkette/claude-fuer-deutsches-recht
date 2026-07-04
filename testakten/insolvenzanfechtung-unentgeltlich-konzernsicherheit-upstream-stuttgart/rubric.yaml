@@ -1,0 +1,27 @@
+name: insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart
+description: Anfechtung einer aufsteigenden Konzernsicherheit (Grundschuld und Buergschaft der Tochter fuer den Konsortialkredit der Mutter) nach Paragraf 134 InsO mit Dreiecksverhaeltnis-Analyse, Werthaltigkeitspruefung des Rueckgriffs und Insolvenzreife-Diskrepanz.
+
+pruefpunkte:
+  - id: p1-dreiecksverhaeltnis
+    beschreibung: Die Sicherheiten wurden fuer eine fremde Schuld (Kredit der Mutter) bestellt. Prueft der Bearbeiter die Unentgeltlichkeit im richtigen Verhaeltnis?
+    erwartung: Der Bearbeiter trennt Deckungsverhaeltnis (Bank-Mutter), Zuwendungsverhaeltnis (Tochter-Bank) und Innenverhaeltnis (Tochter-Mutter) und stellt fuer Paragraf 134 InsO auf das Verhaeltnis der Schuldnerin zur Bank ab: Der Bank floss ein Absonderungsrecht und ein zusaetzlicher Haftungsschuldner zu, ohne dass in das Vermoegen der Tochter eine Gegenleistung gelangte; die an die Mutter ausgezahlte Kreditvaluta ist keine Gegenleistung an die Tochter.
+
+  - id: p2-werthaltigkeit-rueckgriff
+    beschreibung: Entgeltlichkeit koennte sich nur aus einem werthaltigen Rueckgriffsanspruch gegen die Mutter im Bestellungszeitpunkt ergeben. Wertet der Bearbeiter die zeitgenoessischen Unterlagen aus?
+    erwartung: Der Bearbeiter zieht das Sanierungsgutachten vom 28.04.2023 (drohende Zahlungsunfaehigkeit der Mutter, Regressquote im niedrigen einstelligen Prozentbereich im Verwertungsfall), das Rating-Memo vom 05.05.2023 (Rueckgriff "nicht belastbar", Rating 14 von 18) und die Kennzahlen-CSV heran und begruendet, dass der Rueckgriff gerade in dem Szenario wertlos war, in dem die Sicherheit gezogen wird — bewertet aus der Sicht ex ante Mai 2023, nicht in unzulaessiger Rueckschau.
+
+  - id: p3-mittelbare-vorteile
+    beschreibung: Die Bank beruft sich auf Konzernfortbestand, Auftraege der Gruppe, Cash-Pooling und Zeitgewinn als Gegenleistung. Wird das Argument sauber verarbeitet?
+    erwartung: Der Bearbeiter diskutiert den Einwand ernsthaft, arbeitet aber heraus, dass rechtlich ungesicherte Erwerbsaussichten und Fortfuehrungshoffnungen ohne einklagbaren Anspruch keinen Ausgleich in das Vermoegen der Tochter darstellen (Kreditvertrag kennt nur eine Anzeigepflicht zur Auftragsvergabe, eine Ausgleichsvereinbarung wurde nie geschlossen, die Cash-Pool-Forderungen der Tochter von rund 1.9 Mio. EUR fielen aus) — und dass die Frage von der Anfechtung gegenueber der Mutter zu unterscheiden ist.
+
+  - id: p4-kenntnis-irrelevant
+    beschreibung: Die Bank-Erwiderung argumentiert ausfuehrlich mit Vertrauensschutz, Gutglaeubigkeit und Unkenntnis von einer Krise der Tochter. Erkennt der Bearbeiter die Falle?
+    erwartung: Der Bearbeiter stellt klar, dass Paragraf 134 InsO weder Kenntnis noch Boesglaeubigkeit des Anfechtungsgegners voraussetzt; erforderlich sind nur unentgeltliche Leistung, Vornahme innerhalb der Vierjahresfrist und Glaeubigerbenachteiligung. Die Vertrauensschutz-Passagen der Bank gehen tatbestandlich ins Leere.
+
+  - id: p5-frist-und-gegenstand
+    beschreibung: Wird die Vierjahresfrist korrekt gerechnet und der richtige Anfechtungsgegenstand benannt?
+    erwartung: Der Bearbeiter rechnet vom Eroeffnungsantrag der Tochter (02.03.2026) vier Jahre zurueck (Paragrafen 134 Abs. 1, 139 InsO), stellt fest, dass die Bestellung vom 15.05.2023 in der Frist liegt, und benennt als angefochtene Rechtshandlung die Sicherheitenbestellung (nicht erst die Verwertung 2026); als Rechtsfolge nach Paragraf 143 InsO werden Loeschungsbewilligung, Herausgabe der vollstreckbaren Ausfertigung, Ruecknahme des Versteigerungsantrags, Auskehr etwaiger Erloese und Verzicht auf die Buergschaft verlangt.
+
+  - id: p6-insolvenzreife-diskrepanz
+    beschreibung: Der Eigenantrag datiert die Zahlungsunfaehigkeit der Tochter auf den 09.02.2026; Liquiditaetsstatus-CSV und interne E-Mail vom 12.05.2025 zeigen anderes.
+    erwartung: Der Bearbeiter entnimmt der CSV, dass die Unterdeckung ab dem 30.04.2025 dauerhaft ueber 10 Prozent lag (11.22 Prozent am 30.04.2025, 18.74 Prozent am 31.05.2025, danach steigend), also rund zehn Monate vor dem Antrag Zahlungsunfaehigkeit vorlag, benennt die Diskrepanz zum Eigenantrag ausdruecklich und ordnet ein, wofuer der fruehe Eintritt relevant ist (Deckungsanfechtungen, Organhaftung) und wofuer nicht (Tatbestand des Paragraf 134 InsO).

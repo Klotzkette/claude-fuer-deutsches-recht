@@ -1,0 +1,81 @@
+name: insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz
+beschreibung: >
+  Bargeschaefts-Testakte nach Paragraf 142 InsO. Eine Spritzguss-GmbH erhaelt
+  von ihrem Granulatlieferanten nur noch Ware gegen Vorkasse oder Zahlung bei
+  Lieferung (null bis fuenf Tage Vorlauf); im Dreimonatszeitraum fliessen
+  214.000,08 EUR. Prueffragen: Unmittelbarkeit, Gleichwertigkeit trotz
+  4-Prozent-Krisenaufschlags auf zwei Rechnungen, Rueckausnahme fuer die
+  Vorsatzanfechtung (Unlauterkeit und deren Erkennen), Kenntnisindizien der
+  Vorkasse-Umstellung sowie die Diskrepanz zwischen einem neun Monate alten
+  Insolvenzreife-Kurzgutachten und der Datierung im Eigenantrag.
+pruefpunkte:
+  - id: p01-unmittelbarkeit
+    beschreibung: >
+      Die Unmittelbarkeit des Leistungsaustauschs muss anhand der
+      Matching-Tabelle konkret geprueft werden.
+    erwartung: >
+      Aus der CSV wird fuer alle vierzehn Zahlungen der Abstand zwischen
+      Zahldatum und Lieferdatum (null bis fuenf Tage) ermittelt und die
+      Unmittelbarkeit im Sinne des Paragraf 142 Abs. 1 und Abs. 2 Satz 1 InsO
+      bejaht; die Gesamtsumme von 214.000,08 EUR wird korrekt nachgerechnet.
+  - id: p02-gleichwertigkeit-krisenaufschlag
+    beschreibung: >
+      Die Gleichwertigkeit der Gegenleistung muss differenziert beurteilt
+      werden.
+    erwartung: >
+      Fuer zwoelf Zahlungen wird die Gleichwertigkeit anhand des
+      Marktpreisvergleichs bejaht; fuer die Rechnungen VK-2026-0214 und
+      VK-2026-0233 wird der 4-Prozent-Aufschlag (zusammen 1.282,82 EUR brutto)
+      identifiziert und diskutiert, ob insoweit teilweise keine
+      Gleichwertigkeit vorliegt, weil ein Entgelt fuer das Ausfallrisiko keine
+      in das Schuldnervermoegen fliessende Gegenleistung ist; die Gegenposition
+      (marktuebliche Streuung, Skonto- und Vorhaltekostenausgleich) wird
+      erwogen.
+  - id: p03-unlauterkeit-durchgriff-133
+    beschreibung: >
+      Der Pruefungsschwerpunkt der Rueckausnahme des Paragraf 142 Abs. 1 InsO
+      (Vorsatzanfechtung nur bei Unlauterkeit des Schuldners und deren
+      Erkennen durch den Gegner) muss als solcher erkannt und zweiseitig
+      ausgefuehrt werden.
+    erwartung: >
+      Herausgearbeitet wird, dass die blosse Betriebsfortfuehrung trotz
+      Insolvenzreife nicht genuegt, hier aber das seit dem 18.07.2025
+      vorliegende Gutachten, die ignorierte Antragspflicht, das Auflaufen von
+      Steuern und Sozialabgaben bei gleichzeitiger Barzahlung
+      produktionskritischer Lieferanten fuer Unlauterkeit sprechen kann;
+      fuer das Erkennen werden der interne Granova-Vermerk vom 03.11.2025 und
+      der Risikozuschlag gewuerdigt, ohne die Gegenargumente (kein Zugang zum
+      Gutachten, Stillhalten auf 96.413,80 EUR Altforderungen) zu unterschlagen.
+  - id: p04-kenntnis-ambivalenz-vorkasse
+    beschreibung: >
+      Die Umstellung von 60-Tage-Ziel auf Vorkasse muss als ambivalentes
+      Kenntnis-Indiz behandelt werden.
+    erwartung: >
+      Die Bearbeitung stellt beide Deutungen dar: einerseits branchenuebliche,
+      vertraglich vorbehaltene Reaktion auf Zahlungsverzug und
+      Versichererentscheidung, andererseits Indiz dafuer, dass der Lieferant
+      der Zahlungsfaehigkeit des Kunden nicht mehr vertraute (Mahnstufen,
+      Ruecklastschrift vom 17.10.2025, Limitstreichung 28.10.2025); eine
+      einseitige Aufloesung ohne Abwaegung gilt als Fehler.
+  - id: p05-insolvenzreife-diskrepanz
+    beschreibung: >
+      Die Diskrepanz zwischen Kurzgutachten (Zahlungsunfaehigkeit zum
+      30.06.2025) und Eigenantrag (Zahlungsunfaehigkeit erst im April 2026)
+      muss aufgedeckt und verwertet werden.
+    erwartung: >
+      Aus dem Gutachten und der Liquiditaetsstatus-CSV wird die Deckungsluecke
+      von 33.6 Prozent nach vier Wochen (durchgehend ueber 10 Prozent)
+      hergeleitet, die Datierung des Eigenantrags als unzutreffend erkannt und
+      die Folge fuer Paragraf 130 InsO (Zahlungsunfaehigkeit im gesamten
+      Dreimonatszeitraum) sowie fuer eine moegliche Geschaeftsfuehrerhaftung
+      nach Paragraf 15a und Paragraf 15b InsO benannt.
+  - id: p06-rechtsfolgen-antragsstrategie
+    beschreibung: >
+      Rechtsfolge und Antragsstrategie muessen sauber gestaffelt werden.
+    erwartung: >
+      Hauptantrag auf Rueckgewaehr von 214.000,08 EUR nebst Zinsen ab
+      Verfahrenseroeffnung (01.06.2026) nach Paragraf 143 Abs. 1 InsO,
+      Hilfsantrag auf 1.282,82 EUR bei durchgreifendem Bargeschaeftsprivileg;
+      der Hinweis auf das Wiederaufleben der Gegenforderung nach Paragraf 144
+      InsO und die getrennte Behandlung der zur Tabelle angemeldeten
+      Altforderungen von 96.413,80 EUR werden erkannt.

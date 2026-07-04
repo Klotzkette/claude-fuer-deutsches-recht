@@ -1,0 +1,80 @@
+name: insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg
+beschreibung: >
+  Vorsatzanfechtung gegen den Freistaat Bayern (Finanzamt Augsburg-Stadt)
+  im Vierjahreszeitraum des Paragraf 133 Abs. 2 InsO: 30 Ratenzahlungen
+  ueber insgesamt 388.000 EUR nach Umsatzsteuer-Sonderpruefung,
+  Vollstreckungsankuendigung, zwei fruchtlosen Pfaendungsversuchen und
+  zweimal Vollstreckungsaufschub nur gegen Sicherheitsleistung.
+  Prueffragen: Fristberechnung je Rate, Benachteiligungsvorsatz trotz
+  "Kampf ums Ueberleben", Kenntnis des Finanzamts im Spannungsfeld von
+  Paragraf 133 Abs. 3 Satz 2 InsO (Ratenbitte allein genuegt nicht) und
+  Vollstreckungshistorie, Kongruenzfrage bei Zahlungen unter
+  Vollstreckungsdruck, tatsaechlicher Eintritt der Zahlungsunfaehigkeit.
+pruefpunkte:
+  - id: p01-fristberechnung-je-rate
+    beschreibung: >
+      Die Vierjahresfrist des Paragraf 133 Abs. 2 InsO muss je Rate nach
+      Paragraf 140 Abs. 1 InsO auf den jeweiligen Zahlungseingang bezogen
+      werden, nicht auf die Ratenzahlungsvereinbarung vom 24.10.2022.
+    erwartung: >
+      Antrag 02.02.2026, Fristbeginn 02.02.2022; alle 30 Zahlungen vom
+      17.11.2022 bis 17.04.2025 liegen in der Frist. Erkannt wird, dass es
+      auf das Datum der Vereinbarung nicht ankommt und auch die
+      Sicherungsabtretung vom September 2024 als Sicherung erfasst ist.
+  - id: p02-benachteiligungsvorsatz
+    beschreibung: >
+      Der Benachteiligungsvorsatz des Geschaeftsfuehrers muss aus den
+      Aktenstuecken hergeleitet und gegen den Einwand des redlichen
+      Sanierungsversuchs abgewogen werden.
+    erwartung: >
+      Herangezogen werden die eigenen 13-Wochen-Planungen (Unterdeckung
+      19 Prozent 2022, 30.8 Prozent 2024), die E-Mail vom 03.03.2023
+      ("wer am lautesten droht"), der WhatsApp-Verlauf zur Priorisierung
+      und die Steuerberater-Warnung vom 06.03.2023; gewuerdigt wird, dass
+      ohne tragfaehiges Sanierungskonzept die erkannte Zahlungsunfaehigkeit
+      den Vorsatz indiziert.
+  - id: p03-kenntnis-finanzamt-abs3-satz2
+    beschreibung: >
+      Die Kenntnispruefung muss die Wertung des Paragraf 133 Abs. 3 Satz 2
+      InsO (Ratenzahlungsbitte allein kein Kenntnisbeweis) erkennen und
+      gegen die uebrigen Beweisanzeichen abwaegen.
+    erwartung: >
+      Die Ratenbitte wird zutreffend als fuer sich genommen neutral
+      eingeordnet; dagegen gestellt werden Vollstreckungsankuendigung,
+      zwei fruchtlose Pfaendungsversuche (14.09.2022, 28.08.2024), zwei
+      Ruecklastschriften, die Fortsetzung des Aufschubs nur gegen
+      Sicherheitsleistung und die Mahnstufen bei laufenden Voranmeldungen;
+      diskutiert wird, ab welchem Zeitpunkt die Gesamtschau die Kenntnis
+      der (drohenden) Zahlungsunfaehigkeit traegt.
+  - id: p04-abs3-satz1-kongruenz
+    beschreibung: >
+      Die Bearbeitung muss den Massstab des Paragraf 133 Abs. 3 Satz 1 InsO
+      (bei kongruenter Deckung Kenntnis der eingetretenen
+      Zahlungsunfaehigkeit erforderlich) anwenden und die Kongruenzfrage
+      bei Zahlungen unter Vollstreckungsdruck pruefen.
+    erwartung: >
+      Eroertert wird, ob die unter dem Druck angekuendigter und versuchter
+      Vollstreckung geleisteten Raten noch kongruente Deckungen sind, und
+      welche Folgen die Einordnung fuer den Kenntnismassstab des Abs. 3
+      Satz 1 und fuer die Vermutung des Abs. 1 Satz 2 hat.
+  - id: p05-zahlungsunfaehigkeit-diskrepanz
+    beschreibung: >
+      Der Eintritt der Zahlungsunfaehigkeit muss aus BWA-Quartalsreihe und
+      Liquiditaetsplanungen selbststaendig ermittelt und der Datierung im
+      Eigenantrag gegenuebergestellt werden.
+    erwartung: >
+      Aus 08_bwa_quartalsreihe_2022-2025.csv (Unterdeckung durchgehend
+      ueber 10 Prozent ab Q3 2022) und den Planungen 09 und 10 wird
+      Zahlungsunfaehigkeit seit August/September 2022 abgeleitet; die
+      Datierung des Eigenantrags (Anfang 2026) wird als widerlegt erkannt.
+  - id: p06-rechtsfolgen-und-zinsen
+    beschreibung: >
+      Die Rechtsfolgenseite der Anfechtung muss vollstaendig dargestellt
+      werden.
+    erwartung: >
+      Rueckgewaehr von 388.000 EUR nach Paragraf 143 Abs. 1 InsO,
+      Verzinsung, Rueckabwicklung beziehungsweise Freigabe der
+      Sicherungsabtretung, Wiederaufleben der Steuerforderung nach
+      Paragraf 144 InsO und die Einordnung des Freistaats als
+      Anfechtungsgegner (Zurechnung der Kenntnis der Vollstreckungsstelle)
+      werden benannt.

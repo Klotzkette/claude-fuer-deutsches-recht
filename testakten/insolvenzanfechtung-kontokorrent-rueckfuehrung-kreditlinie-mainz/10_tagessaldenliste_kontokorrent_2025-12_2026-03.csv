@@ -1,0 +1,41 @@
+Datum;Buchungstext;Eingang_EUR;Ausgang_EUR;Tagessaldo_EUR;Eingeraeumte_Linie_EUR
+01.12.2025;Saldovortrag;0.00;0.00;-471800.00;480000.00
+02.12.2025;Gutschrift Getraenkefachgrosshandel Rheinlust GmbH Sammelzahlung;28400.00;0.00;-443400.00;480000.00
+03.12.2025;Lastschrift Energieversorgung Mainz-Sued GmbH Abschlag 12/2025;0.00;6200.00;-449600.00;480000.00
+04.12.2025;Gutschrift Weinkontor Rheinblick GmbH RG 2025-1187/1191;19750.00;0.00;-429850.00;480000.00
+05.12.2025;"Anpassungsvereinbarung Nr. 1: Linie auf 360.000 EUR herabgesetzt; Gutschrift POS-Sammel Vinothek";12300.00;0.00;-417550.00;360000.00
+08.12.2025;Ueberweisung Loehne und Gehaelter November 2025;0.00;31000.00;-448550.00;360000.00
+10.12.2025;Gutschrift Winzergenossenschaft Goldbachtal eG Kommissionsabrechnung 11/2025;22150.00;0.00;-426400.00;360000.00
+12.12.2025;Gutschrift Gastronomie-Sammelrechnungen 11/2025;17900.00;0.00;-408500.00;360000.00
+15.12.2025;Lastschrift Miete Kellereigebaeude Laubenheimer Hoehe;0.00;8400.00;-416900.00;360000.00
+17.12.2025;Gutschrift Benelux Vinhandel B.V. Export RG 2025-1204;26750.00;0.00;-390150.00;360000.00
+19.12.2025;Gutschrift Weihnachtsgeschaeft Sammelavis Fachhandel;24300.00;0.00;-365850.00;360000.00
+22.12.2025;Ueberweisungsauftrag Glashandel Rheinglas Bodenheim GmbH 12.400,00 EUR - von Sparkasse nicht ausgefuehrt, Auftrag zurueckgegeben;0.00;0.00;-365850.00;360000.00
+23.12.2025;Gutschrift Sammeleingang Fachhandel Rhein-Main;14050.00;0.00;-351800.00;360000.00
+29.12.2025;Lastschrift Sozialversicherungsbeitraege 12/2025 Handelskrankenkasse Mitte;0.00;9800.00;-361600.00;360000.00
+30.12.2025;Gutschrift Jahresschlussrechnungen Gastronomie;11600.00;0.00;-350000.00;360000.00
+05.01.2026;Gutschrift Getraenkefachgrosshandel Rheinlust GmbH Sammelzahlung;18200.00;0.00;-331800.00;360000.00
+07.01.2026;Ueberweisung Loehne und Gehaelter Dezember 2025;0.00;30500.00;-362300.00;360000.00
+09.01.2026;Gutschrift Weinkontor Rheinblick GmbH RG 2025-1212;16400.00;0.00;-345900.00;360000.00
+13.01.2026;Gutschrift Benelux Vinhandel B.V. Export RG 2025-1219;21300.00;0.00;-324600.00;360000.00
+14.01.2026;Anpassungsvereinbarung Nr. 2: Linie auf 240.000 EUR herabgesetzt;0.00;0.00;-324600.00;240000.00
+16.01.2026;Lastschrift Energieversorgung Mainz-Sued GmbH Abschlag 01/2026;0.00;6100.00;-330700.00;240000.00
+20.01.2026;Gutschrift Winzergenossenschaft Goldbachtal eG Kommissionsabrechnung 12/2025;19750.00;0.00;-310950.00;240000.00
+22.01.2026;Gutschrift Gastronomie-Sammelrechnungen 12/2025;15800.00;0.00;-295150.00;240000.00
+26.01.2026;Zustellung Pfaendungs- und Ueberweisungsbeschluss AG Mainz 34 M 4457/25 (Glaeubigerin Glashandel Rheinglas Bodenheim GmbH, 48.730,12 EUR) an Sparkasse als Drittschuldnerin;0.00;0.00;-295150.00;240000.00
+27.01.2026;Gutschrift Nordika Vin AB Export RG 2026-0012;23900.00;0.00;-271250.00;240000.00
+29.01.2026;Gutschrift Sammeleingang Fachhandel Rhein-Main;12450.00;0.00;-258800.00;240000.00
+30.01.2026;Ueberweisung Loehne Januar 2026 - nur Teilbetrag von Sparkasse ausgefuehrt;0.00;18800.00;-277600.00;240000.00
+03.02.2026;Gutschrift Getraenkefachgrosshandel Rheinlust GmbH Sammelzahlung;26300.00;0.00;-251300.00;240000.00
+05.02.2026;Gutschrift Weinkontor Rheinblick GmbH RG 2026-0019;14750.00;0.00;-236550.00;240000.00
+09.02.2026;Gutschrift Benelux Vinhandel B.V. Export RG 2026-0023;19200.00;0.00;-217350.00;240000.00
+10.02.2026;Anpassungsvereinbarung Nr. 3: Linie auf 120.000 EUR herabgesetzt;0.00;0.00;-217350.00;120000.00
+12.02.2026;Ueberweisungsauftrag Restloehne Januar 2026 11.700,00 EUR - von Sparkasse nicht ausgefuehrt, Auftrag zurueckgegeben;0.00;0.00;-217350.00;120000.00
+13.02.2026;Gutschrift Winzergenossenschaft Goldbachtal eG Kommissionsabrechnung 01/2026;22400.00;0.00;-194950.00;120000.00
+17.02.2026;Gutschrift Gastronomie-Sammelrechnungen 01/2026;17850.00;0.00;-177100.00;120000.00
+19.02.2026;Lastschrift Energieversorgung Mainz-Sued GmbH Abschlag 02/2026;0.00;5300.00;-182400.00;120000.00
+20.02.2026;Gutschrift Nordika Vin AB Export RG 2026-0031;21150.00;0.00;-161250.00;120000.00
+24.02.2026;Gutschrift Sammeleingang Fachhandel Rhein-Main;18700.00;0.00;-142550.00;120000.00
+26.02.2026;Gutschrift POS-Sammel Vinothek 02/2026;12300.00;0.00;-130250.00;120000.00
+27.02.2026;Gutschrift Weinkontor Rheinblick GmbH RG 2026-0036;9850.00;0.00;-120400.00;120000.00
+02.03.2026;Gutschrift Getraenkefachgrosshandel Rheinlust GmbH Teilzahlung;8600.00;0.00;-111800.00;120000.00

@@ -1,5 +1,26 @@
 # See- und Schifffahrtsrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`seerecht-schifffahrtsrecht`) | [`seerecht-schifffahrtsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/seerecht-schifffahrtsrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Schifffahrtsakte** (`seerecht-schiffshypothek-werft-wrack-bermuda`) | [Gesamt-PDF lesen](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf) | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

@@ -1,0 +1,12 @@
+Position;Maschine;Inventarnummer;Anschaffungsjahr;Standort;Buchwert_31-05-2025_EUR
+1;CNC-Drehzentrum Feinmech DZ-450;DP-M-014;2019;Halle 1;185000
+2;5-Achs-Fraeszentrum Feinmech FMX-800;DP-M-017;2020;Halle 1;240000
+3;Flachschleifmaschine Praezisa PS-3;DP-M-006;2017;Halle 1;65000
+4;Haerteofen Thermodur HT-12;DP-M-009;2018;Halle 2;90000
+5;Koordinatenmessmaschine Messtec KMG-7;DP-M-019;2021;Halle 2 Messraum;110000
+6;Drahterodiermaschine Erodix ER-2;DP-M-013;2019;Halle 2;95000
+7;Stanzautomat Stanzwerk SA-160;DP-M-003;2016;Halle 1;120000
+8;Teilereinigungsanlage Purgat RW-4;DP-M-016;2020;Halle 2;60000
+9;Roboter-Beladezelle Automatik RZ-2;DP-M-021;2022;Halle 1;175000
+10;Werkzeugvoreinstellgeraet Optiset WV-1;DP-M-020;2021;Halle 1;40000
+Summe;;;;;1180000

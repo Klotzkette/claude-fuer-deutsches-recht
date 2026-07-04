@@ -1,0 +1,27 @@
+name: insolvenzanfechtung-schenkung-familie-oldenburg
+description: Anfechtung unentgeltlicher Leistungen an Familienmitglieder nach Paragraf 134 InsO mit Fristenfrage, Gegenleistungs-Streit, Gelegenheitsgeschenk-Einwand und einer Insolvenzreife-Diskrepanz zwischen Eigenantrag und Finanzunterlagen.
+
+pruefpunkte:
+  - id: p1-kenntnis-irrelevant
+    beschreibung: Der Familienanwalt und die eidesstattliche Versicherung stellen massiv auf die fehlende Kenntnis der Empfaenger von der Krise ab. Erkennt der Bearbeiter die Falle?
+    erwartung: Der Bearbeiter stellt klar, dass Paragraf 134 InsO weder Kenntnis noch Vorsatz des Empfaengers voraussetzt; die Kenntnis-Argumentation der Gegenseite geht fuer den Anfechtungstatbestand ins Leere und ist allenfalls fuer den Haftungsumfang nach Paragraf 143 Abs. 2 InsO (verschaerfte Haftung bei spaeterer Kenntnis, vgl. Mahnungen-Passage im Chat und in der EV) von Bedeutung.
+
+  - id: p2-vierjahresfrist-erste-tranche
+    beschreibung: Die erste Ueberweisung an die Tochter datiert vom 08.01.2022, der Eroeffnungsantrag vom 10.03.2026. Wird die Frist des Paragraf 134 Abs. 1 InsO korrekt nach Paragraf 139 InsO vom Antragseingang zurueckgerechnet?
+    erwartung: Der Bearbeiter rechnet vier Jahre vor dem 10.03.2026 (Stichtag 10.03.2022), ordnet die Zahlung vom 08.01.2022 als ausserhalb des Zeitraums liegend und damit nach Paragraf 134 InsO nicht anfechtbar ein und reduziert die Forderung gegen die Tochter konsequent auf 30.000 EUR (fuenf Tranchen), statt die pauschalen 36.000 EUR des Verwalterschreibens zu uebernehmen.
+
+  - id: p3-unentgeltlichkeit-pkw
+    beschreibung: Die Pkw-Uebertragung beruft sich auf eine "langjaehrige Mitarbeit" der Ehefrau als Gegenleistung; Lohnjournal, Auslagenerstattungen, WhatsApp ("nur ab und zu die Ablage") und EV ziehen in verschiedene Richtungen.
+    erwartung: Der Bearbeiter prueft die Unentgeltlichkeit anhand der Aktenlage, arbeitet heraus, dass kein Vertrag, kein Verguetungsanspruch und keine Lohnjournal-Eintragung existieren und eine nachtraegliche Anerkennung freiwilliger Familienmitarbeit keine ausgleichende Gegenleistung ist, wuerdigt aber die Gegenindizien (Auslagenerstattungen, Bueromitarbeit) als ambivalent und diskutiert beide Deutungen, statt einseitig zu entscheiden.
+
+  - id: p4-gelegenheitsgeschenk
+    beschreibung: Die 800-EUR-Ueberweisung zum 60. Geburtstag wirft die Ausnahme des Paragraf 134 Abs. 2 InsO auf.
+    erwartung: Der Bearbeiter erkennt die Ausnahme fuer gebraeuchliche Gelegenheitsgeschenke geringen Werts, diskutiert Anlass (runder Geburtstag) und Wertgrenze unter Beruecksichtigung der bereits eingetretenen Krise der Schuldnerin im Mai 2025 und kommt zu einem begruendeten, vertretbaren Ergebnis in beide Richtungen.
+
+  - id: p5-drittzahlung-dachdeckerei
+    beschreibung: Die GmbH hat die private Werklohnschuld des Schwagers direkt an die Dachdeckerei bezahlt. Wer ist richtiger Anfechtungsgegner und was ist mit der behaupteten Geruestbau-Gegenleistung?
+    erwartung: Der Bearbeiter identifiziert den Schwager als Empfaenger der Zuwendung (Befreiung von seiner Verbindlichkeit durch Drittzahlung nach Paragraf 267 BGB), nicht die Dachdeckerei, die nur ihre werthaltige Forderung eingezogen hat, und setzt sich mit der erst nachtraeglich behaupteten, undokumentierten Gegenleistungsabrede (Geruest- und Transporthilfe laut E-Mail vom 16.06.2025 und Anwaltsschreiben) kritisch auseinander.
+
+  - id: p6-insolvenzreife-diskrepanz
+    beschreibung: Der Eigenantrag datiert die Zahlungsunfaehigkeit auf Ende Februar 2026; BWA-Reihe, OPOS-/Liquiditaetsstatus-CSV und die Steuerberater-E-Mail vom 14.04.2025 zeigen anderes.
+    erwartung: Der Bearbeiter entnimmt der CSV, dass die Unterdeckung ab dem 31.03.2025 dauerhaft ueber 10 Prozent lag (16.25 Prozent am 31.03.2025, danach durchgehend steigend), also rund ein Jahr vor dem Antrag Zahlungsunfaehigkeit im Sinne des Paragraf 17 InsO vorlag, benennt die Diskrepanz zum Eigenantrag ausdruecklich und zieht die Konsequenzen fuer die Beweisfuehrung (und fuer moegliche weitere Anspruchsgrundlagen gegen den Geschaeftsfuehrer).

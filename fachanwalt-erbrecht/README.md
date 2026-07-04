@@ -1,5 +1,29 @@
 # Fachanwalt Erbrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-erbrecht`) | [`fachanwalt-erbrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Erbrecht: Patchwork-Erbfolge und Stiefgroßvater in Karlsruhe** (`erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe`) | [Gesamt-PDF lesen](../testakten/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe/gesamt-pdf/erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe_gesamt.pdf) | [`testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-patchwork-stiefgrossvater-erbfolge-karlsruhe.zip) |
+| **Erbrecht: Pflichtteilsergänzung nach Hofübertragung in Lüneburg** (`erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg`) | [Gesamt-PDF lesen](../testakten/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg/gesamt-pdf/erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg_gesamt.pdf) | [`testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-pflichtteilsergaenzung-hofuebertragung-lueneburg.zip) |
+| **Erbrecht: Volljährigenadoption und Unternehmernachlass in Erfurt** (`erbrecht-volljaehrigenadoption-unternehmer-erfurt`) | [Gesamt-PDF lesen](../testakten/erbrecht-volljaehrigenadoption-unternehmer-erfurt/gesamt-pdf/erbrecht-volljaehrigenadoption-unternehmer-erfurt_gesamt.pdf) | [`testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbrecht-volljaehrigenadoption-unternehmer-erfurt.zip) |
+| **Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie** (`erbstreit-krypto-multisig-edelmann-stuttgart`) | [Gesamt-PDF lesen](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) | [`testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

@@ -1,0 +1,86 @@
+name: insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck
+beschreibung: >-
+  Prueft, ob ein Bearbeiter die Anfechtung einer nach dem Eroeffnungsantrag
+  geleisteten kongruenten Beitragszahlung nach Paragraf 130 Abs. 1 Satz 1
+  Nr. 2 InsO beherrscht, die Kenntnis- und Wissenszurechnungsfrage anhand
+  der ambivalenten Beweismittel diskutiert und die in der Akte verborgene
+  Insolvenzreife-Diskrepanz findet.
+pruefpunkte:
+  - id: norm-und-tatbestand
+    beschreibung: >-
+      Die richtige Tatbestandsvariante wird identifiziert und von den
+      Nachbartatbestaenden abgegrenzt.
+    erwartung: >-
+      Der Bearbeiter erkennt, dass die Zahlung vom 26.02.2026 nach dem
+      Fremdantrag vom 09.02.2026 erfolgte und deshalb Paragraf 130 Abs. 1
+      Satz 1 Nr. 2 InsO einschlaegig ist (Alternativen: Kenntnis der
+      Zahlungsunfaehigkeit ODER des Eroeffnungsantrags), dass die Deckung
+      kongruent ist (faellige Beitraege, geschuldete Art) und Paragraf 131
+      InsO daher ausscheidet, und dass die Glaeubigerbenachteiligung durch
+      den Kontoauszug Februar 2026 (Teilloehne, Rueckgaben) belegt wird.
+  - id: kenntnis-eroeffnungsantrag
+    beschreibung: >-
+      Die Beweismittel zur Kenntnis des Eroeffnungsantrags werden
+      vollstaendig gehoben und gewuerdigt.
+    erwartung: >-
+      Der Bearbeiter verknuepft Telefonvermerk vom 17.02.2026, E-Mail-
+      Weiterleitung vom 18.02.2026 (mit ausdruecklicher Anfechtungswarnung)
+      und eidesstattliche Versicherung Kroeger, stellt ihnen den
+      Recherchevermerk zum Bekanntmachungsportal (keine Veroeffentlichung
+      vor dem 10.03.2026) und den entwertenden Kontext (Schikane-Aeusserung
+      des Geschaeftsfuehrers) gegenueber und behandelt die Frage als offene
+      Beweis- und Wertungsfrage statt sie einseitig aufzuloesen.
+  - id: wissenszurechnung-koerperschaft
+    beschreibung: >-
+      Das Problem der Wissenszurechnung innerhalb der Krankenkasse wird
+      erkannt und mit Argumenten beider Seiten entwickelt.
+    erwartung: >-
+      Der Bearbeiter diskutiert, ob das Wissen des Aussendienstlers und der
+      Eingang der E-Mail im persoenlichen Postfach und im Funktionspostfach
+      des Beitragseinzugs der Koerperschaft zuzurechnen ist
+      (Wissensorganisationspflicht, Erkennbarkeit der Entscheidungs-
+      erheblichkeit, kurze Zeitspanne von sechs Arbeitstagen), und referiert
+      die Gegenargumente der Kasse (Unzustaendigkeit des Aussendienstes,
+      ungelesene E-Mail, Geruechtcharakter) fair.
+  - id: kenntnis-zahlungsunfaehigkeit-alternative
+    beschreibung: >-
+      Die zweite Tatbestandsalternative (Kenntnis der Zahlungsunfaehigkeit
+      beziehungsweise entsprechender Umstaende nach Paragraf 130 Abs. 2
+      InsO) wird eigenstaendig geprueft.
+    erwartung: >-
+      Der Bearbeiter wertet das Beitragskonto aus (verspaetete Zahlungen ab
+      August 2025, dreimonatiger Rueckstand trotz Mahnung und
+      Vollstreckungsankuendigung, Kenntnis von 70-Prozent-Teilloehnen aus
+      dem Telefonat) und stellt dem die entlastenden Umstaende gegenueber
+      (vollstaendiger Ausgleich der frueheren Rueckstaende, angekuendigte
+      und tatsaechlich erfolgte Zahlung in einer Summe); er erkennt, dass
+      die Anfechtung nicht am Fehlen der objektiven Zahlungsunfaehigkeit
+      scheitern kann.
+  - id: insolvenzreife-diskrepanz
+    beschreibung: >-
+      Die Diskrepanz zwischen dem Kurzgutachten (Zahlungsunfaehigkeit zum
+      31.03.2025) und der Datierung im Verwalterschreiben (Krise nach
+      aussen manifest erst ab Januar 2026) wird gefunden und rechnerisch
+      nachvollzogen.
+    erwartung: >-
+      Der Bearbeiter entnimmt dem Kurzgutachten und der Anlagen-CSV die
+      Liquiditaetsluecke von 31,6 Prozent zum 31.03.2025 und von 14,6
+      Prozent nach der Drei-Wochen-Betrachtung (jeweils ueber 10 Prozent),
+      datiert die Zahlungsunfaehigkeit damit auf Ende Maerz 2025 — rund
+      zehn bis elf Monate vor dem Fremdantrag — und zieht die Konsequenzen
+      (Beauftragung des Gutachtens 10 Monate vor Antrag, fortgesetzte
+      Geschaeftstaetigkeit trotz Antragspflicht, moegliche Folgeansprueche
+      gegen den Geschaeftsfuehrer als gesonderter Komplex).
+  - id: rechtsfolgen-und-prozess
+    beschreibung: >-
+      Rechtsfolgen und prozessuale Punkte werden zutreffend benannt.
+    erwartung: >-
+      Der Bearbeiter nennt die Rueckgewaehr von 54.320 EUR nebst Zinsen
+      nach Paragraf 143 Abs. 1 InsO, das Wiederaufleben der
+      Beitragsforderung nach Paragraf 144 InsO, die Darlegungs- und
+      Beweislast des Verwalters fuer die Kenntnis, den Beweiswert der
+      eidesstattlichen Versicherung im Verhaeltnis zum Zeugenbeweis und die
+      Zustaendigkeit des Landgerichts Luebeck fuer die Anfechtungsklage;
+      die Saeumniszuschlagsberechnung (53.250 EUR Beitraege, 1.063,50 EUR
+      Saeumniszuschlaege, 6,50 EUR Mahngebuehr) wird rechnerisch
+      nachvollzogen.

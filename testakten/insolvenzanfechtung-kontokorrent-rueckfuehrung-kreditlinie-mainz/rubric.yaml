@@ -1,0 +1,76 @@
+name: insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz
+beschreibung: >
+  Kontokorrent-Anfechtung gegen eine Sparkasse. Keine Kuendigung, sondern
+  dreistufige Herabsetzung der Linie von 480.000 auf 120.000 EUR im
+  Dreimonatszeitraum, Vereinnahmung der Eingaenge zur Saldenreduzierung und
+  Rueckfuehrung des Solls um 360.000 EUR. Prueffragen: Kongruenz oder
+  Inkongruenz der Verrechnungen, Kenntnis aus eigenen Kontodaten,
+  Verrechnung nach Zustellung einer Drittglaeubiger-Kontopfaendung,
+  tatsaechlicher Eintritt der Zahlungsunfaehigkeit.
+pruefpunkte:
+  - id: p01-berechnung-rueckfuehrung
+    beschreibung: >
+      Die Bearbeitung muss die angefochtene Saldenrueckfuehrung selbststaendig
+      aus der Tagessaldenliste nachrechnen.
+    erwartung: >
+      Saldo 02.12.2025 von 471.800,00 EUR, Saldo 02.03.2026 von 111.800,00 EUR,
+      Eingaenge 476.100,00 EUR, zugelassene Verfuegungen 116.100,00 EUR und
+      Verrechnungssaldo 360.000,00 EUR werden zutreffend ermittelt; erkannt
+      wird, dass nur der Verrechnungssaldo (nicht die Summe der Eingaenge)
+      den Anfechtungsanspruch traegt.
+  - id: p02-inkongruenz-linienreduzierung
+    beschreibung: >
+      Die zentrale Rechtsfrage der erzwungenen Linienreduzierung mit
+      anschliessender Verrechnung muss als Kongruenzproblem des Paragraf 131
+      Abs. 1 InsO erkannt und beidseitig diskutiert werden.
+    erwartung: >
+      Herausgearbeitet wird, dass die Verrechnungsbefugnis aus AGB und
+      Paragraf 355 HGB nur bei fortbestehender Wiederausnutzbarkeit der Linie
+      Kongruenz begruendet, waehrend die endgueltige Vereinnahmung auf den
+      erst im Dreimonatszeitraum abgeschlossenen Anpassungsvereinbarungen
+      beruht; die Monatsabschnitte des Paragraf 131 Abs. 1 Nr. 1 bis 3 InsO
+      werden je Verrechnungszeitraum korrekt zugeordnet.
+  - id: p03-kenntnis-aus-kontodaten
+    beschreibung: >
+      Die Beweisanzeichen fuer die Kenntnis der Sparkasse (Paragraf 130
+      Abs. 2 InsO) muessen aus den Datendateien zusammengetragen und gewichtet
+      werden.
+    erwartung: >
+      Genannt und gewuerdigt werden mindestens: 17 Ruecklastschriften seit
+      April 2025 (davon wiederholt Sozialversicherungsbeitraege), zwei
+      Scheckrueckgaben, Kontopfaendungen des Finanzamts (11.09.2025) und der
+      Einzugsstelle (06.11.2025), die zu ueber 95 Prozent ausgereizte Linie
+      sowie der Intensivbetreuungsvermerk vom 24.11.2025 mit Exit-Strategie;
+      zugleich wird der Gegeneinwand der Saisonalitaet erkannt und beantwortet.
+  - id: p04-verrechnung-nach-pfaendung
+    beschreibung: >
+      Die Verrechnung nach Zustellung des Pfaendungs- und
+      Ueberweisungsbeschlusses am 26.01.2026 muss als eigenstaendiger
+      Anfechtungskomplex behandelt werden.
+    erwartung: >
+      Das Verrechnungsvolumen von 207.450,00 EUR ab Zustellung wird aus der
+      Tagessaldenliste errechnet; die Kenntnis von der Einzelzwangsvollstreckung
+      eines Dritten wird als Beweisanzeichen fuer Paragraf 131 Abs. 1 Nr. 3
+      InsO eingeordnet, und der Rangeinwand des AGB-Pfandrechts wird von der
+      anfechtungsrechtlichen Frage getrennt.
+  - id: p05-insolvenzreife-diskrepanz
+    beschreibung: >
+      Die Diskrepanz zwischen dem Eigenantrag (Zahlungsunfaehigkeit Mitte
+      Januar 2026) und den Finanzdaten muss aufgedeckt werden.
+    erwartung: >
+      Aus BWA, Bankspiegel und Ruecklastschriftenliste wird hergeleitet, dass
+      die Liquiditaetsluecke bereits ab April 2025 dauerhaft ueber 10 Prozent
+      lag (April 14.7 Prozent bis Dezember 46.5 Prozent), die
+      Zahlungsunfaehigkeit also rund elf Monate vor dem Antrag eintrat und die
+      Datierung des Eigenantrags unzutreffend ist.
+  - id: p06-kein-bargeschaeft-und-rechtsfolge
+    beschreibung: >
+      Der Bargeschaefts- und Betriebsfortfuehrungseinwand der Sparkasse muss
+      geprueft und die Rechtsfolge zutreffend bestimmt werden.
+    erwartung: >
+      Erkannt wird, dass die Verrechnung von Altkredit gegen neue Eingaenge
+      kein Leistungsaustausch im Sinne des Paragraf 142 Abs. 1 InsO ist, weil
+      die Sparkasse keine neue gleichwertige Gegenleistung in das
+      Schuldnervermoegen erbracht hat; Rueckgewaehr nach Paragraf 143 Abs. 1
+      InsO in Hoehe von 360.000,00 EUR nebst Zinsen ab Verfahrenseroeffnung
+      (01.05.2026) wird zutreffend hergeleitet.

@@ -1,5 +1,26 @@
 # Römisch-katholisches Kirchenrecht CIC und Katechismus
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`roemisch-katholisches-kirchenrecht`) | [`roemisch-katholisches-kirchenrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Kirchenrechtliche Arbeitsakte: Sancta Caecilia, Kirchenaustritt, Sakramente und Ordinariatskommunikation** (`kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente`) | [Gesamt-PDF lesen](../testakten/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente/gesamt-pdf/kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente_gesamt.pdf) | [`testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kirchenrecht-cic-pfarrei-sancta-caecilia-kirchenaustritt-sakramente.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

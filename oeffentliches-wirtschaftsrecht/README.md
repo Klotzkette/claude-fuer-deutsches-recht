@@ -1,5 +1,26 @@
 # Öffentliches Wirtschaftsrecht
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`oeffentliches-wirtschaftsrecht`) | [`oeffentliches-wirtschaftsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/oeffentliches-wirtschaftsrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **ÖPP-Akte Schulcampus Havelstadt** (`oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt`) | [Gesamt-PDF lesen](../testakten/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt/gesamt-pdf/oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt_gesamt.pdf) | [`testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oeffentliches-wirtschaftsrecht-oepp-schulcampus-havelstadt.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

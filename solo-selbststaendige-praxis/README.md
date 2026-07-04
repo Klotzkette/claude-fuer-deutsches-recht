@@ -1,5 +1,26 @@
 # Solo-Selbstständige Praxis
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`solo-selbststaendige-praxis`) | [`solo-selbststaendige-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

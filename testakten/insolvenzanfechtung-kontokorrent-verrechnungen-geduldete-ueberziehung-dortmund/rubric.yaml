@@ -1,0 +1,80 @@
+name: insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund
+beschreibung: >
+  Kontokorrent-Anfechtung gegen eine Volksbank. Linie 250.000 EUR, geduldete
+  Ueberziehung bis knapp 310.000 EUR, im Dreimonatszeitraum 412.000 EUR
+  Eingaenge verrechnet, Rueckfuehrung vom Hoechststand 309.900 EUR auf den
+  Tiefststand 221.480 EUR. Prueffragen: Aufteilung der Rueckfuehrung in einen
+  inkongruenten Teil (geduldete Ueberziehung, Paragraf 131 InsO) und einen
+  kongruenten Teil innerhalb der Linie (Paragraf 130 InsO), richtige
+  Saldodifferenzbetrachtung, Bargeschaeftseinwand, Globalzessions-Einwand
+  gegen die Glaeubigerbenachteiligung, Kenntnis der Bank aus eigenen
+  Kontodaten und Vermerken, tatsaechlicher Eintritt der Zahlungsunfaehigkeit.
+pruefpunkte:
+  - id: p01-aufteilung-kongruent-inkongruent
+    beschreibung: >
+      Die Bearbeitung muss die Saldenrueckfuehrung in den inkongruenten Teil
+      (Rueckfuehrung der nur geduldeten Ueberziehung von 309.900 auf
+      250.000 EUR) und den kongruenten Teil (innerhalb der Linie von 250.000
+      auf den Tiefststand) trennen und die unterschiedlichen
+      Tatbestandsvoraussetzungen der Paragrafen 130 und 131 InsO zuordnen.
+    erwartung: >
+      Erkannt wird, dass die wochenweise widerrufliche Duldung keinen
+      Anspruch auf Kredit gewaehrt, die Rueckfuehrung der Ueberziehung daher
+      nicht "in der Art" beansprucht werden konnte und auf die Kenntnis der
+      Bank insoweit nach Paragraf 131 Abs. 1 Nr. 1 und Nr. 2 InsO nicht
+      ankommt, waehrend der Teil innerhalb der Linie die Kenntnispruefung
+      nach Paragraf 130 Abs. 1 Satz 1 Nr. 1, Abs. 2 InsO erfordert.
+  - id: p02-saldodifferenzrechnung
+    beschreibung: >
+      Die Bearbeitung muss die konkurrierenden Berechnungswege (Anfangssaldo
+      zu Endsaldo, Hoechststand zu Endsaldo, Hoechststand zu Tiefststand)
+      aus der Tagessaldenliste nachrechnen und begruendet waehlen.
+    erwartung: >
+      Hoechststand 309.900,00 EUR am 05.02.2026, Tiefststand 221.480,00 EUR
+      am 08.04.2026, Endsaldo 226.300,00 EUR; die Positionen 83.600,00 EUR,
+      72.450,00 EUR und 88.420,00 EUR werden zutreffend hergeleitet und die
+      Wiederausweitung nach dem Tiefststand als unerheblich fuer die bereits
+      erlangte Deckung eingeordnet.
+  - id: p03-bargeschaeft
+    beschreibung: >
+      Der Bargeschaeftseinwand der Bank (412.000 EUR Eingaenge gegen
+      339.550 EUR wieder zugelassene Verfuegungen) muss geprueft werden.
+    erwartung: >
+      Erkannt wird, dass Paragraf 142 InsO nur den Teil schuetzen kann, dem
+      eine gleichwertige Gegenleistung gegenuebersteht, die angefochtene
+      Spitze der Saldenrueckfuehrung gerade nicht wieder ausgezahlt wurde
+      und das Bargeschaeftsprivileg fuer den inkongruenten Teil von
+      vornherein ausscheidet.
+  - id: p04-globalzession
+    beschreibung: >
+      Der Einwand fehlender Glaeubigerbenachteiligung wegen der Globalzession
+      und des Absonderungsrechts muss erkannt und behandelt werden.
+    erwartung: >
+      Herausgearbeitet wird, dass die Eingaenge ueberwiegend auf erst im
+      Dreimonatszeitraum entstandenen oder werthaltig gewordenen Forderungen
+      beruhen, der Sicherheitenerwerb an solchen Forderungen selbst nach den
+      Paragrafen 130, 131 InsO anfechtbar ist und eine anfechtbar erworbene
+      Sicherheit die Glaeubigerbenachteiligung nicht ausschliesst; die
+      Darlegungslast der Bank fuer altbesicherte Forderungen wird benannt.
+  - id: p05-kenntnis-bank
+    beschreibung: >
+      Die Kenntnispruefung nach Paragraf 130 Abs. 1 und Abs. 2 InsO muss auf
+      die konkreten Beweisanzeichen der Akte gestuetzt werden.
+    erwartung: >
+      Herangezogen werden Engagementvermerk vom 10.12.2025 (Rating 13,
+      Ampel Rot, "nachhaltige Liquiditaetskrise seit dem Fruehjahr 2025"),
+      Einzelfreigaben, die mangels Deckung nicht ausgefuehrten Zahlungen an
+      Finanzamt und AOK, die Betreuer-E-Mail vom 09.02.2026 und das
+      Sicherheitenverstaerkungsverlangen; der Gegeneinwand der blossen
+      bankueblichen Risikovorsorge wird gesehen und gewuerdigt.
+  - id: p06-zahlungsunfaehigkeit-diskrepanz
+    beschreibung: >
+      Der tatsaechliche Eintritt der Zahlungsunfaehigkeit muss aus dem
+      Liquiditaetsstatus selbststaendig ermittelt und der Datierung im
+      Eigenantrag gegenuebergestellt werden.
+    erwartung: >
+      Aus 05_liquiditaetsstatus_stichtage_2025_2026.csv wird die
+      Unterdeckung von mehr als zehn Prozent der faelligen Verbindlichkeiten
+      durchgehend seit Ende April 2025 abgeleitet; die abweichende Datierung im
+      Eigenantrag (Fruehjahr 2026) wird als widerlegt erkannt und die Folge
+      fuer Paragraf 131 Abs. 1 Nr. 2 InsO und die Kenntnispruefung benannt.

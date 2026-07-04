@@ -1,0 +1,29 @@
+Jahr;Personalnr;Name;Funktion;Eintritt;Austritt;Brutto_Jahr_EUR
+2022;001;Bernd Hollmann;Geschaeftsfuehrer;01.07.2004;;96000.00
+2022;003;Dieter Kruse;Polier;01.03.2006;;54600.00
+2022;007;Marek Zielinski;Zimmerer;15.08.2012;;46800.00
+2022;009;Sandra Buethe;Buerokauffrau (Teilzeit 25 Std);01.02.2015;;28450.00
+2022;011;Chinedu Okonkwo;Fahrer/Lagerist;01.09.2017;;36900.00
+2022;012;Timo Gerdes;Dachdecker;01.04.2019;;44200.00
+2022;014;Ole Martens;Auszubildender Zimmerer;01.08.2021;;12840.00
+2023;001;Bernd Hollmann;Geschaeftsfuehrer;01.07.2004;;96000.00
+2023;003;Dieter Kruse;Polier;01.03.2006;;56200.00
+2023;007;Marek Zielinski;Zimmerer;15.08.2012;;48100.00
+2023;009;Sandra Buethe;Buerokauffrau (Teilzeit 25 Std);01.02.2015;;29300.00
+2023;011;Chinedu Okonkwo;Fahrer/Lagerist;01.09.2017;;37800.00
+2023;012;Timo Gerdes;Dachdecker;01.04.2019;;45500.00
+2023;014;Ole Martens;Auszubildender Zimmerer;01.08.2021;;13560.00
+2024;001;Bernd Hollmann;Geschaeftsfuehrer;01.07.2004;;96000.00
+2024;003;Dieter Kruse;Polier;01.03.2006;;57900.00
+2024;007;Marek Zielinski;Zimmerer;15.08.2012;;49500.00
+2024;009;Sandra Buethe;Buerokauffrau (Teilzeit 25 Std);01.02.2015;;30150.00
+2024;011;Chinedu Okonkwo;Fahrer/Lagerist;01.09.2017;;38900.00
+2024;012;Timo Gerdes;Dachdecker;01.04.2019;;46800.00
+2024;014;Ole Martens;Zimmerergeselle (uebernommen 01.08.2024);01.08.2021;;31200.00
+2025;001;Bernd Hollmann;Geschaeftsfuehrer;01.07.2004;;84000.00
+2025;003;Dieter Kruse;Polier;01.03.2006;;58600.00
+2025;007;Marek Zielinski;Zimmerer;15.08.2012;;50200.00
+2025;009;Sandra Buethe;Buerokauffrau (Teilzeit 25 Std);01.02.2015;;30900.00
+2025;011;Chinedu Okonkwo;Fahrer/Lagerist;01.09.2017;;39700.00
+2025;012;Timo Gerdes;Dachdecker;01.04.2019;;47900.00
+2025;014;Ole Martens;Zimmerergeselle;01.08.2021;;33400.00

@@ -1,5 +1,27 @@
 # Fachanwalt Gewerblicher Rechtsschutz
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-gewerblicher-rechtsschutz`) | [`fachanwalt-gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Markenstreit 3D-Marke Rosenbluete — Leichtenstein Gartenkultur vs. FlowerWorld AG u. a.** (`markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein`) | [Gesamt-PDF lesen](../testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/gesamt-pdf/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein_gesamt.pdf) | [`testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip) |
+| **Patentrecht — Erfindungsakten Ravenstein & Moll** (`patentrecht-erfindungsakten-ravenstein-moll`) | [Gesamt-PDF lesen](../testakten/patentrecht-erfindungsakten-ravenstein-moll/gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) | [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

@@ -1,0 +1,84 @@
+name: insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach
+beschreibung: >-
+  Prueft, ob ein Bearbeiter die Kernfrage der Glaeubigerbenachteiligung nach
+  Paragraf 129 InsO bei wertausschoepfender Belastung sauber analysiert, die
+  beiden Anfechtungskomplexe (Grundstuecksverkauf und Provisionszahlung)
+  trennt und die in der Akte verteilten Indizien findet.
+pruefpunkte:
+  - id: benachteiligung-wertausschoepfende-belastung
+    beschreibung: >-
+      Die Kernfrage der Glaeubigerbenachteiligung (Paragraf 129 Abs. 1 InsO)
+      beim Verkauf des belasteten Grundstuecks wird erkannt und anhand der
+      Differenz zwischen Nominalbetrag der Grundschuld (2.100.000 EUR nebst
+      Zinsen) und Valutierung (1.790.000 EUR laut Valutenbestaetigung vom
+      10.11.2025) diskutiert.
+    erwartung: >-
+      Der Bearbeiter stellt dar, dass es fuer die Wertausschoepfung nicht auf
+      den Nominalbetrag, sondern auf die gesicherten Forderungen und den
+      Rueckgewaehranspruch bezueglich des nicht valutierten Teils ankommt,
+      und dass jedenfalls der freie Erloesanteil von 60.000 EUR den
+      Glaeubigern entzogen wurde; die Gegenposition (dinglicher
+      Haftungsumfang inklusive Grundschuldzinsen) wird als vertretbare
+      Argumentation referiert, nicht unterschlagen.
+  - id: eilabschlag-im-gutachten
+    beschreibung: >-
+      Das verdeckte Bewertungsproblem im Verkehrswertgutachten (Aktenstueck 05)
+      wird gefunden: vorlaeufiger Ertragswert 2.050.000 EUR, davon 10 Prozent
+      Marktanpassungsabschlag allein wegen der eiligen Verwertung.
+    erwartung: >-
+      Der Bearbeiter erkennt, dass der Abschlag den individuellen
+      Verwertungsdruck der Schuldnerin und nicht die Marktlage abbildet, dass
+      der Kaufpreis deshalb rund 200.000 EUR unter dem ohne Zeitdruck
+      erzielbaren Wert liegen koennte und dass dies eine unmittelbare
+      Benachteiligung unabhaengig vom Belastungseinwand begruenden kann.
+  - id: provision-unentgeltlichkeit
+    beschreibung: >-
+      Die Provisionszahlung von 60.000 EUR an den Bruder wird als eigener
+      Anfechtungskomplex behandelt und auf Paragraf 134 InsO (hilfsweise
+      Paragraf 133 InsO) geprueft.
+    erwartung: >-
+      Der Bearbeiter zieht die E-Mail der Erwerberin vom 29.09.2025
+      (Erstkontakt aus eigener Ankaufsrecherche) und die E-Mail vom
+      03.11.2025 heran, wuerdigt die zeitliche Abfolge (Vereinbarung erst
+      05.11.2025, eine Woche vor Beurkundung) und die Klausel im Notarvertrag
+      (Maklerkosten nicht angefallen) und diskutiert die Werthaltigkeit der
+      behaupteten Vermittlungsleistung als offene Beweisfrage mit deutlicher
+      Tendenz zur Unentgeltlichkeit; das Naeheverhaeltnis nach Paragraf 138
+      Abs. 2 InsO und seine Beweisfolgen werden angesprochen.
+  - id: insolvenzreife-diskrepanz
+    beschreibung: >-
+      Die Diskrepanz zwischen dem Eigenantrag (Zahlungsunfaehigkeit angeblich
+      erst Anfang Februar 2026) und dem Liquiditaetsstatus (Aktenstueck 10)
+      wird aufgedeckt.
+    erwartung: >-
+      Der Bearbeiter liest aus der CSV ab, dass die Deckungsluecke ab dem
+      15.04.2025 durchgehend ueber 10 Prozent lag (28,2 Prozent am
+      15.04.2025, danach monoton steigend), leitet daraus den Eintritt der
+      Zahlungsunfaehigkeit Mitte April 2025 ab — rund elf Monate vor dem
+      Antrag vom 16.03.2026 — und erklaert, warum die abweichende Behauptung
+      im Eigenantrag den Verwalter nicht bindet.
+  - id: subjektive-indizien
+    beschreibung: >-
+      Die ueber die Akte verteilten Indizien zu Vorsatz und Kenntnis werden
+      gesammelt und je Anfechtungsgegner getrennt gewuerdigt.
+    erwartung: >-
+      Der Bearbeiter benennt mindestens: Lastschriftrueckgaben ab April 2025
+      (Liquiditaetsstatus, Kontoauszug), Beanstandungsschreiben der Bank vom
+      18.09.2025 (in Aktenstueck 07 referiert), Vollstreckungsankuendigung
+      der Stadtkasse vom 08.10.2025, E-Mail vom 03.11.2025; er unterscheidet
+      zwischen dem Wissen des Bruders (stark indiziert) und dem Wissen der
+      Erwerberin (nur schwach indiziert ueber den Gutachtenhinweis auf die
+      Rueckfuehrung faelliger Bankverbindlichkeiten) und loest die
+      Kenntnisfrage nicht einseitig auf.
+  - id: rechtsfolgen-und-strategie
+    beschreibung: >-
+      Die Rechtsfolgen nach Paragraf 143 InsO und eine vertretbare
+      Prozessstrategie werden entwickelt.
+    erwartung: >-
+      Der Bearbeiter unterscheidet Rueckauflassung Zug um Zug gegen
+      Kaufpreisrueckzahlung beziehungsweise Wertersatz gegenueber der
+      Erwerberin von der Zahlungsklage ueber 60.000 EUR gegen den Bruder,
+      erkennt die hoehere Erfolgsaussicht des Provisionskomplexes (der
+      Belastungseinwand greift dort nicht), prueft den
+      Entreicherungseinwand nach Paragraf 143 Abs. 2 InsO und behaelt die
+      Verjaehrung nach Paragraf 146 InsO im Blick.

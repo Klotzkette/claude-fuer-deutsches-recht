@@ -1,5 +1,30 @@
 # Plugin: Gewerblicher Rechtsschutz
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`gewerblicher-rechtsschutz`) | [`gewerblicher-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Lichtbogen-Stuhl L-27: Designschutz, Vorveröffentlichung und Copycat-Marktstart** (`designrecht-geschmacksmuster-lichtbogen-stuhl-copycat`) | [Gesamt-PDF lesen](../testakten/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat/gesamt-pdf/designrecht-geschmacksmuster-lichtbogen-stuhl-copycat_gesamt.pdf) | [`testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-designrecht-geschmacksmuster-lichtbogen-stuhl-copycat.zip) |
+| **Schnellverschluss S-14: Sensorhalter, Gebrauchsmusterabzweigung und Messeoffenbarung** (`gebrauchsmusterrecht-schnellverschluss-sensorhalter`) | [Gesamt-PDF lesen](../testakten/gebrauchsmusterrecht-schnellverschluss-sensorhalter/gesamt-pdf/gebrauchsmusterrecht-schnellverschluss-sensorhalter_gesamt.pdf) | [`testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gebrauchsmusterrecht-schnellverschluss-sensorhalter.zip) |
+| **Patentstreit Vellbruck Medizintechnik ./. TitanOrtho / Bochstaedt — Hüftimplantat Titan EP 3 218 922 B1** (`patent-verletzung-implantat-titan-vellbruck-stuttgart`) | [Gesamt-PDF lesen](../testakten/patent-verletzung-implantat-titan-vellbruck-stuttgart/gesamt-pdf/patent-verletzung-implantat-titan-vellbruck-stuttgart_gesamt.pdf) | [`testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patent-verletzung-implantat-titan-vellbruck-stuttgart.zip) |
+| **Patentrecht — Erfindungsakten Ravenstein & Moll** (`patentrecht-erfindungsakten-ravenstein-moll`) | [Gesamt-PDF lesen](../testakten/patentrecht-erfindungsakten-ravenstein-moll/gesamt-pdf/patentrecht-erfindungsakten-ravenstein-moll_gesamt.pdf) | [`testakte-patentrecht-erfindungsakten-ravenstein-moll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-patentrecht-erfindungsakten-ravenstein-moll.zip) |
+| **Codeforst / Sonnenklee - RouteLuchs** (`softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen`) | [Gesamt-PDF lesen](../testakten/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen/gesamt-pdf/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen_gesamt.pdf) | [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

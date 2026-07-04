@@ -1,0 +1,79 @@
+name: insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld
+beschreibung: >-
+  Prueft, ob ein Bearbeiter die Anfechtung kongruenter Deckungen nach
+  Paragraf 130 Abs. 1 Satz 1 Nr. 1 InsO methodisch sauber auf die
+  Kenntnisfrage zuspitzt, die ambivalente Indizienkette vollstaendig hebt
+  und die Insolvenzreife aus den Rohdaten (BWA, OPOS) selbst rekonstruiert.
+pruefpunkte:
+  - id: norm-und-zeitraum
+    beschreibung: >-
+      Die richtige Anfechtungsnorm und der richtige Dreimonatszeitraum
+      werden bestimmt.
+    erwartung: >-
+      Der Bearbeiter erkennt die Kongruenz aller drei Deckungen (faellige
+      Forderungen, Zahlung in geschuldeter Art), verortet die Zahlungen vom
+      01.12.2025, 19.12.2025 und 09.01.2026 im Zeitraum der letzten drei
+      Monate vor dem Eigenantrag vom 12.01.2026 (Beginn 12.10.2025) und
+      grenzt Paragraf 130 InsO von Paragraf 131 InsO und vom
+      Bargeschaeftseinwand des Paragraf 142 InsO (Altrechnungen, keine neue
+      Gegenleistung) ab.
+  - id: belastende-indizienkette
+    beschreibung: >-
+      Die belastenden Indizien fuer die Kenntnis der Zahlungsunfaehigkeit
+      werden vollstaendig aus den verstreuten Aktenstuecken gesammelt.
+    erwartung: >-
+      Der Bearbeiter benennt mindestens: den dreistufigen Mahnlauf
+      (02.10., 03.11., 24.11.2025), die zwei Lastschriftrueckgaben AM04 vom
+      08.10. und 22.10.2025, die Offenbarungs-E-Mail vom 26.11.2025
+      (Zahlung nur bei Belieferung, sonst Bandstillstand), die
+      Ratenzahlungsbitte vom 02.12.2025 mit Einraeumung eines seit dem
+      Spaetsommer andauernden Engpasses, den internen Vermerk vom
+      05.12.2025 (Bonitaet rot, Gerichtsvollzieherfahrzeug, geschobene
+      Sozialversicherungsbeitraege) und die Branchengeruechte aus der
+      E-Mail vom 29.10.2025.
+  - id: entlastende-indizien
+    beschreibung: >-
+      Die entlastenden Umstaende werden nicht unterschlagen, sondern in die
+      Wuerdigung nach Paragraf 130 Abs. 2 InsO eingestellt.
+    erwartung: >-
+      Der Bearbeiter wuerdigt die vor Faelligkeit bezahlten
+      Zwischenrechnungen RE-2025-4890 und RE-2025-5288, den Pressebericht
+      vom 21.11.2025 ueber den Arkadia-Grossauftrag, die vollstaendige
+      Rueckfuehrung aller Rueckstaende bis zum 09.01.2026 und die konkret
+      unterlegte Abschlagszahlungsperspektive; er diskutiert, ob die
+      bekannten Umstaende einen zwingenden Schluss auf die
+      Zahlungsunfaehigkeit zulassen, und behandelt das Ergebnis als offene,
+      beweiswuerdigend zu entscheidende Frage.
+  - id: insolvenzreife-aus-rohdaten
+    beschreibung: >-
+      Die objektive Zahlungsunfaehigkeit wird ohne Gutachten aus der
+      BWA-Reihe und der OPOS-Liste rekonstruiert.
+    erwartung: >-
+      Der Bearbeiter liest aus der BWA-CSV ab, dass die Unterdeckung ab
+      Februar 2025 dauerhaft ueber 10 Prozent lag (23,5 Prozent im Februar,
+      danach monoton steigend bis 88,7 Prozent im Dezember), stuetzt dies
+      auf die Altersstruktur der OPOS-Liste (offene, ernsthaft
+      eingeforderte Verbindlichkeiten seit Dezember 2024) und datiert den
+      Eintritt der Zahlungsunfaehigkeit damit auf Anfang 2025 — rund ein
+      Jahr vor dem Antrag.
+  - id: diskrepanz-verwalterschreiben
+    beschreibung: >-
+      Der Widerspruch zwischen der Datierung im Anfechtungsschreiben
+      (Zahlungsunfaehigkeit erst ab 12.10.2025) und den mitgelieferten
+      Anlagen wird erkannt und strategisch eingeordnet.
+    erwartung: >-
+      Der Bearbeiter benennt die Diskrepanz ausdruecklich und erkennt ihre
+      Doppelnatur: Sie schwaecht die Konsistenz des Verwaltervortrags,
+      verlaengert aber zugleich den Zeitraum, in dem sich Kenntnis-Indizien
+      beim Anfechtungsgegner ansammeln konnten; je nach Mandats-Perspektive
+      wird daraus die richtige Argumentationslinie entwickelt.
+  - id: rechtsfolgen-und-vergleich
+    beschreibung: >-
+      Rechtsfolgen, Sekundaerpunkte und Vergleichsoptionen werden behandelt.
+    erwartung: >-
+      Der Bearbeiter nennt die Rueckgewaehr nach Paragraf 143 Abs. 1 InsO
+      nebst Zinsen, das Wiederaufleben der Forderung nach Paragraf 144 InsO
+      samt Anmeldung zur Tabelle, die Darlegungs- und Beweislast der
+      Verwalterin fuer objektive Zahlungsunfaehigkeit und Kenntnis zur Zeit
+      jeder einzelnen Zahlung sowie die im Schriftwechsel beidseitig
+      angebotene vergleichsweise Loesung mit realistischer Quotenspanne.
