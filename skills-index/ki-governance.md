@@ -1,6 +1,6 @@
 # ki-governance
 
-**59 Skills** · Stand `v423.0.0`
+**59 Skills** · Stand `v424.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/README.md)

@@ -1,0 +1,16 @@
+Alert_ID;Zeitstempel;Quelle;Regel;Schweregrad;System;Status;Bearbeiter;Bemerkung
+AL-20260608-0114;08.06.2026 14:22:31;Mail-Gateway;Anhang mit Makro zugestellt (nachtraeglich klassifiziert);niedrig;mx-01;automatisch geschlossen;auto;Empfaenger einkauf3@hasetal-versand.de, Anhang Auftrag_2984.xlsm
+AL-20260609-0031;09.06.2026 02:31:07;VPN-Gateway;Anmeldung ausserhalb der Geschaeftszeiten;mittel;vpn-gw-01;geschlossen;auto;Konto svc_backup, Quell-IP 91.242.117.34, als Wartungsfenster eingestuft
+AL-20260610-0007;10.06.2026 01:47:52;Active Directory;Neues privilegiertes Konto angelegt;hoch;dc-01;offen;-;Konto supp0rt_tmp, angelegt durch svc_backup
+AL-20260611-0012;11.06.2026 03:12:44;Firewall;Ausgehende Datenuebertragung ueber Schwellwert;mittel;fw-01;automatisch geschlossen;auto;214 GB seit 02:58 Uhr an 91.242.117.34 Port 443
+AL-20260611-0013;11.06.2026 04:45:10;Firewall;Ausgehende Datenuebertragung ueber Schwellwert;mittel;fw-01;automatisch geschlossen;auto;kumuliert 382 GB an 91.242.117.34, Uebertragung beendet 04:41 Uhr
+AL-20260612-0089;12.06.2026 21:55:41;EDR;Unsignierter Prozess mit Verschluesselungsverhalten gestartet;hoch;fs-02;offen;-;Prozess dv_locker.exe aus C:\Windows\Temp
+AL-20260612-0090;12.06.2026 21:58:12;Windows-Ereignisprotokoll;Loeschung saemtlicher Volumenschattenkopien;hoch;fs-02;offen;-;vssadmin delete shadows /all /quiet
+AL-20260612-0091;12.06.2026 22:14:03;Datei-Audit;Massenhafte Dateiumbenennung auf unbekannte Endung;kritisch;fs-02;geschlossen;J. Plettner;41000 Dateien in 11 Minuten auf Endung .dvlt umbenannt, Ticket INC-4471, 23:41 Uhr als Fehlalarm geschlossen
+AL-20260612-0092;12.06.2026 22:16:58;EDR;Ransomware-Verhaltensmuster erkannt;kritisch;fs-02;geschlossen;J. Plettner;Entropie-Anstieg und Loeschung Originaldateien, mit INC-4471 zusammengefasst
+AL-20260612-0093;12.06.2026 22:23:19;Datei-Audit;Massenhafte Dateiumbenennung auf unbekannte Endung;kritisch;fs-03;geschlossen;J. Plettner;37500 Dateien auf Endung .dvlt, mit INC-4471 zusammengefasst
+AL-20260612-0094;12.06.2026 22:41:37;Monitoring;Backup-Server nicht erreichbar;hoch;bk-01;offen;-;Heartbeat-Ausfall, letzte Sicherung 12.06.2026 20:00 Uhr
+AL-20260612-0095;12.06.2026 22:57:02;EDR;Ransomware-Verhaltensmuster erkannt;kritisch;erp-01;geschlossen;J. Plettner;ERP-Applikationsserver, mit INC-4471 zusammengefasst
+AL-20260613-0004;13.06.2026 08:59:46;Servicedesk-Integration;Mehrere Nutzermeldungen: Dateien nicht lesbar;hoch;fs-02;eskaliert;T. Schwegmann;Endung .dvlt, Textdatei README_DARKVAULT.txt auf allen Freigaben
+AL-20260613-0009;13.06.2026 09:12:20;Active Directory;Massenhafte fehlgeschlagene Anmeldungen;hoch;dc-01;eskaliert;T. Schwegmann;Konto supp0rt_tmp gesperrt
+AL-20260613-0015;13.06.2026 10:14:55;VPN-Gateway;Administrative Deaktivierung aller VPN-Zugaenge;info;vpn-gw-01;dokumentiert;T. Schwegmann;Notabschaltung im Rahmen der Eindaemmung

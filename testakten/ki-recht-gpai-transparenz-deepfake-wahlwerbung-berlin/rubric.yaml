@@ -1,0 +1,113 @@
+name: ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin
+beschreibung: >
+  Schnittstellen-Akte zu GPAI und Deepfake-Transparenz nach der
+  Verordnung (EU) 2024/1689: Eine Berliner Agentur erzeugt mit dem
+  Integrator-Dienst SzenenWerk Studio (Kampagnenschmiede GmbH) auf
+  Basis des GPAI-Modells Nordlys Vision 3 (Nordlys Model Works ApS,
+  Daenemark) zwei fotorealistische Deepfake-Videos eines
+  OB-Kandidaten und veroeffentlicht sie ohne Kennzeichnung.
+  Prueffragen: Deepfake-Kennzeichnungspflichten und deren zeitliche
+  Anwendbarkeit, Pflichtenverteilung GPAI-Anbieter, nachgelagerter
+  Anbieter und Betreiber, Trainingsdaten-Transparenz,
+  aeusserungsrechtliche Parallelebene (einstweilige Verfuegung)
+  und Plattform-Ebene (DSA-Meldung und Entfernung).
+pruefpunkte:
+  - id: p01-datenauswertung-kennzeichnungsluecke
+    beschreibung: >
+      Herstellungskette und Kennzeichnungsluecke muessen aus der
+      Metadaten-CSV (Aktenstueck 03) und der Timeline-CSV
+      (Aktenstueck 04) selbststaendig rekonstruiert und berechnet
+      werden; dabei ist der Zeitzonenunterschied (Metadaten in UTC,
+      Timeline in MESZ) zu beachten.
+    erwartung: >
+      Rekonstruiert wird die Kette: vier Generierungsjobs mit
+      C2PA-Signatur und Wasserzeichen (26.05. bis 01.06.2026, UTC),
+      zwei clean_master-Exporte am 02.06.2026 ohne jede
+      Kennzeichnung, erste Veroeffentlichung am 05.06.2026 um 18:40
+      Uhr MESZ, erste Kennzeichnung (nur Beschreibungszusatz Satire)
+      am 09.06.2026 um 10:15 Uhr MESZ. Errechnet werden die
+      Kennzeichnungsluecke von 87 Stunden und 35 Minuten sowie die
+      kumulierte Reichweite von 412400 Abrufen unmittelbar vor der
+      Kennzeichnung (302700 plus 66200 auf Klipstream plus 43500
+      auf EchoFeed) und die Gesamtabrufe bis zur Entfernung
+      (384900, 84100, 51200).
+  - id: p02-diskrepanz-eidesstattliche-versicherung
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen der eidesstattlichen
+      Versicherung und der objektiven Beweislage muss erkannt und in
+      ihren prozessualen und strafrechtlichen Konsequenzen benannt
+      werden.
+    erwartung: >
+      Der Widerspruch zwischen der Versicherung vom 16.06.2026
+      (Kennzeichnung von Anfang an klar erkennbar) und den
+      Timeline-Daten, dem Screenshot-Vermerk vom 06.06. und
+      08.06.2026, dem Klipstream-Bearbeitungsverlauf sowie dem
+      Signal-Chat (Kennzeichnung machen wir spaeter, erst mal
+      Reichweite; Sprachregelung vom 09.06.2026) wird praezise
+      belegt; angesprochen werden die Folgen fuer die
+      Glaubhaftmachung im Verfuegungsverfahren und das Risiko der
+      Paragrafen 156, 161 StGB.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Die zentrale Normstandsfrage der zeitlichen Anwendbarkeit der
+      Transparenzpflichten muss erkannt und methodisch sauber
+      behandelt werden.
+    erwartung: >
+      Erkannt wird, dass die Deepfake-Transparenzpflichten der
+      Verordnung (EU) 2024/1689 nach der Stammfassung erst ab dem
+      02.08.2026 anwendbar sein duerften und damit moeglicherweise
+      nicht fuer die Veroeffentlichungen vom Juni 2026 galten,
+      waehrend die GPAI-Pflichten seit dem 02.08.2025 gelten; beide
+      Daten werden als amtlich zu verifizieren gekennzeichnet
+      (Omnibus-Vorbehalt), keine Durchfuehrungsrechtsakte werden
+      erfunden, keine Gerichtsentscheidungen zitiert, und die
+      zivilrechtliche Anspruchsbegruendung wird bewusst nicht auf
+      die KI-Verordnung gestuetzt.
+  - id: p04-pflichtenverteilung-wertschoepfungskette
+    beschreibung: >
+      Die Verantwortung je Stufe der Kette (GPAI-Anbieter,
+      nachgelagerter Anbieter, Betreiber, Auftraggeber) muss
+      differenziert zugeordnet werden.
+    erwartung: >
+      Zugeordnet werden: Nordlys (Kennzeichnung ab Werk, aber
+      Kontrolle der Integrator-Ausnahme nur per
+      Selbstzertifizierung), Kampagnenschmiede (clean_master ohne
+      technisch erzwungene Ersatzkennzeichnung trotz
+      Vertragspflicht aus Ziffer 3.2 der Nordlys-AUP,
+      AGB-Abwaelzung auf Kunden), Spreekontor (bewusste Entfernung
+      der Kennzeichnung nach Warn-Dialogen, Veroeffentlichung ohne
+      Offenlegung) und Verein (Auftrag mit gekauftem Moment des
+      Zweifels, Kontoinhaberschaft); die Schutzbehauptung der
+      Trennung von Produktion und Publikation wird kritisch
+      gewuerdigt.
+  - id: p05-aeusserungsrechtliche-ebene
+    beschreibung: >
+      Die presse- und aeusserungsrechtliche Parallelebene muss
+      eigenstaendig und methodisch korrekt geprueft werden.
+    erwartung: >
+      Geprueft werden Unterlassungs- und Beseitigungsanspruch aus
+      Paragrafen 823, 1004 BGB analog mit Paragrafen 22, 23 KUG
+      (Recht am eigenen Bild und an der eigenen Stimme,
+      untergeschobene Aeusserung), die Grenzen der Satire- und
+      Kunstfreiheit bei fehlender Erkennbarkeit im
+      Wahrnehmungszeitpunkt, Verfuegungsgrund und Dringlichkeit
+      (Wahltermin 13.09.2026, Kenntnis 06.06.2026, Antrag
+      15.06.2026) sowie die Wirkungslosigkeit des nachgeschobenen
+      Beschreibungszusatzes fuer die Taeuschungseignung des
+      Videobildes.
+  - id: p06-plattform-und-behoerdenebene
+    beschreibung: >
+      Die DSA-Plattformebene und der marktueberwachungsrechtliche
+      Weg muessen zutreffend dargestellt und voneinander
+      abgegrenzt werden.
+    erwartung: >
+      Benannt werden die Meldung nach Art. 16 DSA vom 08.06.2026,
+      die Entfernungen am 11.06. und 12.06.2026 samt
+      Begruendungspflicht nach Art. 17 DSA, die Reichweiten- und
+      Metadaten-Sicherung durch die Plattform, die Beschwerde an
+      die Bundesnetzagentur vom 17.06.2026 mit den
+      Auskunftsersuchen an Integrator und GPAI-Anbieter
+      (einschliesslich der Koordination mit der daenischen
+      Behoerde) sowie der Umstand, dass zivilrechtliche,
+      plattformrechtliche und marktueberwachungsrechtliche Wege
+      parallel und unabhaengig voneinander laufen.

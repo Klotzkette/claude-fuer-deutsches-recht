@@ -1,0 +1,25 @@
+Dokument_ID;Kategorie;Titel;Datum;Fuehrendes_System
+HR-001;Vertragsunterlagen;Arbeitsvertrag Vertriebsaussendienst;01.04.2018;Personalakte Papier
+HR-002;Vertragsunterlagen;Zusatzvereinbarung Dienstwagen;15.05.2018;Personalakte Papier
+HR-003;Vertragsunterlagen;Provisionsordnung Anlage V2;01.01.2020;Personalakte Papier
+HR-004;Stammdaten;Personalstammblatt;laufend;HR-System PersoNet
+HR-005;Entgelt;Gehaltsabrechnungen 04/2018 bis 02/2026;monatlich;HR-System PersoNet
+HR-006;Entgelt;Bonus- und Provisionsabrechnungen 2018 bis 2025;jaehrlich;HR-System PersoNet
+HR-007;Zeitwirtschaft;Urlaubs- und Abwesenheitskonten;laufend;HR-System PersoNet
+HR-008;Zeitwirtschaft;Krankheitszeiten (Summen, keine Diagnosen);laufend;HR-System PersoNet
+HR-009;Beurteilung;Leistungsbeurteilung 2019;12.12.2019;Personalakte Papier
+HR-010;Beurteilung;Leistungsbeurteilung 2020;10.12.2020;Personalakte Papier
+HR-011;Beurteilung;Leistungsbeurteilung 2021;09.12.2021;Personalakte Papier
+HR-012;Beurteilung;Leistungsbeurteilung 2022;08.12.2022;Personalakte Papier
+HR-013;Beurteilung;Leistungsbeurteilung 2023;07.12.2023;Personalakte Papier
+HR-014;Beurteilung;Leistungsbeurteilung 2024;05.12.2024;Personalakte Papier
+HR-015;Beurteilung;Leistungsbeurteilung 2025 (Entwurf, nicht eroeffnet);28.11.2025;Laufwerk Vertriebsleitung
+HR-016;Zielvereinbarung;Zielvereinbarungen 2019 bis 2025;jaehrlich;Personalakte Papier
+HR-017;Vermerk;Gespraechsvermerk Zielverfehlung H1 2025;17.07.2025;Laufwerk Vertriebsleitung
+HR-018;Vermerk;Gespraechsvermerk Minderleistung mit Massnahmenplan;20.11.2025;Laufwerk Vertriebsleitung
+HR-019;Abmahnung;Abmahnung wegen verspaeteter Besuchsberichte;14.10.2025;Personalakte Papier
+HR-020;Kuendigung;Kuendigungsschreiben betriebsbedingt zum 30.06.2026;26.02.2026;Personalakte Papier
+HR-021;Kuendigung;Anhoerungsunterlagen interne Entscheidungsvorlage;19.02.2026;Laufwerk Geschaeftsfuehrung
+HR-022;Fuhrpark;Fahrtenbuch-Auszuege Dienstwagen 2024 bis 2026;laufend;Fuhrparksystem CarLog
+HR-023;IT-Nutzung;Zugriffsprotokolle CRM 01/2025 bis 02/2026;laufend;CRM SalesCore
+HR-024;Reisekosten;Reisekostenabrechnungen 2018 bis 2026;monatlich;HR-System PersoNet

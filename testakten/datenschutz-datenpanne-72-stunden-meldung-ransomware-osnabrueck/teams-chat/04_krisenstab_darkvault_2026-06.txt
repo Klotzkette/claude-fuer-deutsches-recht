@@ -1,0 +1,46 @@
+Teams-Chat-Export - Kanal "Krisenstab IT / Vorfall DarkVault"
+Hasetal Versandhandel GmbH
+Export erstellt am 18.06.2026 durch den Datenschutzbeauftragten (Dr. K. Rosenthal)
+Teilnehmer: T. Schwegmann (IT-Leiter), J. Plettner (Rufbereitschaft), B. Wiechers (Geschaeftsfuehrung), M. Averbeck (IT-Administration), Dr. K. Rosenthal (Datenschutzbeauftragter)
+Zeitstempel in Ortszeit (MESZ). Wiedergegeben sind die fuer die Rekonstruktion des Kenntniszeitpunkts wesentlichen Nachrichten.
+
+------------------------------------------------------------
+
+[12.06.2026 23:38] J. Plettner: Hab hier nen Sammelalarm auf fs-02, massenhaft Dateiumbenennungen. Sieht auf den ersten Blick nach nem Backup- oder Komprimierungslauf aus. Drei Dateien auf fs-01 stichprobenartig geoeffnet, alles normal.
+
+[12.06.2026 23:41] J. Plettner: Ich schliesse INC-4471 erstmal als Fehlalarm. Wenn morgen was ist, reisst ja jemand die Hotline auf.
+
+[13.06.2026 08:59] T. Schwegmann: Wer hat heute Nacht die Umbenennungsalarme gesehen? Lager meldet gerade, Packlisten sind alle .dvlt und es liegt ne README_DARKVAULT.txt auf jeder Freigabe.
+
+[13.06.2026 09:03] J. Plettner: Das war ich. Hab es als Backup-Lauf eingeschaetzt und geschlossen. Sorry.
+
+[13.06.2026 09:12] T. Schwegmann: Das ist kein Backup. Das ist Ransomware. fs-02, fs-03, ERP sind verschluesselt. Ich fahre gleich raus.
+
+[13.06.2026 09:47] T. Schwegmann: Ich bin jetzt im Serverraum. Bestaetigt: alles verschluesselt, Endung .dvlt, Schattenkopien weg, Backup-Server bk-01 tot. Das ist eine vollstaendige Verschluesselung des Kernbestands. Wir haben ein massives Problem.
+
+[13.06.2026 09:49] B. Wiechers: Wie schlimm? Koennen wir Montag ausliefern?
+
+[13.06.2026 09:52] T. Schwegmann: Nein. Nichts laeuft. Kundendatenbank liegt auf fs-02, die ist mit verschluesselt. Ich schalte jetzt alle Aussenanbindungen ab und hole eine Forensik dazu.
+
+[13.06.2026 10:14] M. Averbeck: VPN, Gastnetz und ERP-Aussenanbindung sind aus. DC ist isoliert.
+
+[13.06.2026 11:06] T. Schwegmann: NordicShield ist beauftragt, Remote-Analyse ab heute Nachmittag.
+
+[13.06.2026 11:20] B. Wiechers: Muessen wir das jetzt schon irgendwo melden? Datenschutz?
+
+[13.06.2026 11:24] T. Schwegmann: Solange wir nicht wissen, ob wirklich Daten abgeflossen sind, wuerde ich noch nichts melden. Verschluesselt heisst ja nicht automatisch geklaut. Erst mal Forensik abwarten.
+
+[13.06.2026 11:31] Dr. K. Rosenthal: Ich sehe das anders. Wir haben hier klar einen Verlust der Verfuegbarkeit von Kundendaten, das ist bereits eine Verletzung. Bitte den Zeitpunkt festhalten, ab wann wir Kenntnis hatten. Aus meiner Sicht ist das jetzt, spaetestens seit heute Vormittag.
+
+[13.06.2026 11:35] B. Wiechers: Lass uns erst die Forensik-Ergebnisse abwarten, bevor wir Fristen lostreten. Ich will keine Meldung, die wir nachher wieder einkassieren muessen.
+
+[15.06.2026 09:34] T. Schwegmann: NordicShield bestaetigt: Datenabfluss, 382 GB, inklusive Kundendatenbank-Dump. Nacht zum 11.06. Das ist jetzt keine reine Verschluesselung mehr, da sind Daten raus.
+
+[15.06.2026 09:41] Dr. K. Rosenthal: Damit steht die Exfiltration fest. Ich bereite die Meldung nach Artikel 33 vor. Wichtig fuer die Akte: Der erste kritische Alarm war Freitag 22:14, ich hatte am Samstag um 11:31 bereits auf Kenntnis hingewiesen. Wir sollten die Behoerde nicht auf "Kenntnis erst Montag" festlegen, das traegt nicht.
+
+[15.06.2026 10:02] B. Wiechers: Wir schreiben Montag als Kenntnis. Vorher war es unklar, ob ueberhaupt Daten betroffen sind. Bitte die Meldung entsprechend fassen.
+
+[15.06.2026 10:05] Dr. K. Rosenthal: Ich vermerke, dass ich das anders bewerte. Fuer die Fristberechnung halte ich Samstagvormittag fuer massgeblich.
+
+------------------------------------------------------------
+Ende des Auszugs.

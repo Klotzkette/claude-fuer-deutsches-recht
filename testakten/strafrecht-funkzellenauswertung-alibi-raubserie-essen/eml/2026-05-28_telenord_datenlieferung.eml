@@ -1,0 +1,39 @@
+From: lea.wittkamp@telenord-mobilfunk.de
+To: jens.kalthoff@sta-essen.nrw.de
+Date: Thu, 28 May 2026 14:48:05 +0200
+Subject: AW: Ersuchen um Verkehrsdatenauskunft - 70 Js 883/26 - Ihr Beschluss AG Essen 44 Gs 2107/26
+
+Sehr geehrter Herr Dr. Kalthoff,
+
+zu Ihrem Ersuchen vom 21.05.2026 uebermitteln wir Ihnen anliegend die
+angeforderten Verkehrsdaten des Anschlusses 0171 5583912 fuer die drei
+angeordneten Zeitraeume als CSV-Datei
+(07_verkehrsdaten_mobilfunk_0171_5583912_2026-05-28.csv, 31 Datensaetze).
+
+Hinweise zur Datenqualitaet:
+
+1. Uebermittelt werden Ereignisdatensaetze (Sprache, SMS, Datenverbindung)
+mit Zellkennung und Standortangabe der Basisstation zum Ereigniszeitpunkt.
+Zwischen den Ereignissen liegen keine Standortinformationen vor.
+
+2. Die Standortangabe bezeichnet den Standort der Antennenanlage, nicht
+den Standort des Endgeraets. Der Versorgungsradius betraegt im staedtischen
+Bereich je nach Auslastung und Topografie etwa 300 bis 800 Meter.
+
+3. Verkehrsdaten zu Datenverbindungen werden bei uns aus
+abrechnungstechnischen Gruenden 90 Tage vorgehalten; die Daten fuer den
+17.04.2026 standen daher noch vollstaendig zur Verfuegung.
+
+Die Auskunft erfolgt gebuehrenpflichtig nach JVEG; die Rechnung geht
+Ihnen gesondert zu. Die Geheimhaltung nach Paragraf 101a Abs. 5 StPO
+wird beachtet.
+
+Mit freundlichen Gruessen
+
+Lea Wittkamp
+Team Sicherheitsbehoerden / Lawful Interception
+TeleNord Mobilfunk GmbH
+Ueberseering 12, 22297 Hamburg
+Telefon 040 6698-4410
+
+Anlage: 07_verkehrsdaten_mobilfunk_0171_5583912_2026-05-28.csv

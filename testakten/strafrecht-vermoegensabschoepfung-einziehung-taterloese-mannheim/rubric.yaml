@@ -1,0 +1,27 @@
+name: strafrecht-vermoegensabschoepfung-einziehung-taterloese-mannheim
+description: Einziehung von Tatertraegen nach den Paragrafen 73 ff. StGB bei gewerbsmaessigem Abrechnungsbetrug eines Pflegedienstes mit eigenstaendiger Berechnung des Erlangten aus CSV-Daten, Streit um das Abzugsverbot fuer Lohnkosten, Drittempfaenger-Einziehung gegen die Ehefrau, Vermoegensarrest auf das Privathaus und einem bewussten Rechenfehler der Staatsanwaltschaft.
+
+pruefpunkte:
+  - id: p1-erlangtes-berechnen
+    beschreibung: Datenauswertungs-Kern: Das Erlangte muss aus der Abrechnungs-CSV und der Tourenplan-CSV selbst berechnet werden.
+    erwartung: Der Bearbeiter stellt die 16.923 abgerechneten Einsaetze (2.030.760 EUR bei 120 EUR je Einsatz) den 13.484 dokumentiert gefahrenen Einsaetzen gegenueber, berechnet die Differenz von 3.439 nicht erbrachten Einsaetzen und beziffert das Erlangte nach dem Bruttoprinzip auf exakt 412.680 EUR; die unstreitig erbrachten Leistungen bleiben ausserhalb der Abschoepfung.
+
+  - id: p2-rechenfehler-sta
+    beschreibung: Die Replik der StA vom 19.06.2026 nennt nach angeblicher Ueberpruefung 416.280 EUR. Wird der Fehler gefunden und lokalisiert?
+    erwartung: Der Bearbeiter rechnet die Zwischensummen der Replik nach und findet den Fehler in der Zwischensumme 2023: Die dort selbst aufgelisteten Monatswerte 80 bis 135 ergeben 1290 Einsaetze und damit 154.800 EUR, nicht 158.400 EUR; die Zwischensumme 2024 (2149 Einsaetze, 257.880 EUR) ist korrekt. Richtig bleibt der Anklagebetrag von 412.680 EUR; der Anpassung nach oben ist zu widersprechen.
+
+  - id: p3-abzugsverbot-lohnkosten
+    beschreibung: Die Verteidigung will 148.560 EUR anteilige Lohnkosten nach Paragraf 73d Abs. 1 Satz 1 StGB abziehen.
+    erwartung: Der Bearbeiter prueft Paragraf 73d Abs. 1 StGB differenziert: Fuer die nicht erbrachten Einsaetze sind keine Aufwendungen angefallen, die dem Erlangten zugeordnet werden koennten; Lohnkosten des legalen Betriebs betreffen die real verguteten Einsaetze; soweit Personal gerade fuer die Tatbegehung (Vervollstaendigen und Nachzeichnen von Leistungsnachweisen) eingesetzt wurde, greift das Abzugsverbot des Satzes 2. Die Gegenposition der Verteidigung (kondiktionsaehnlicher Charakter, keine Doppelbestrafung) wird dargestellt und argumentativ verarbeitet.
+
+  - id: p4-diskrepanz-gps
+    beschreibung: Diskrepanz-Pflichtpunkt: Die Einlassung "alle Touren gefahren, nur Dokumentationsfehler" muss gegen die GPS-CSV gestellt werden.
+    erwartung: Der Bearbeiter benennt den Widerspruch konkret: Am 14.05.2024, 15.05.2024 und 03.06.2024 standen die Fahrzeuge MA-PS 214 und MA-PS 215 laut GPS-CSV ganztaegig mit Zuendung aus und 0 Tageskilometern am Betriebssitz, waehrend 47 Einsaetze ausserhalb der Tour Nord abgerechnet wurden (16, 17 und 14 Einsaetze); die Privatfahrzeug-Behauptung bleibt unsubstantiiert, und die E-Mail der PDL vom 04.06.2024 sowie der WhatsApp-Verlauf widerlegen die Dokumentationsfehler-These zusaetzlich.
+
+  - id: p5-drittempfaenger-ehefrau
+    beschreibung: Einziehung gegen die Ehefrau nach Paragraf 73b StGB fuer 24 Ueberweisungen zu je 2.750 EUR (66.000 EUR).
+    erwartung: Der Bearbeiter prueft Paragraf 73b Abs. 1 Satz 1 Nr. 2 StGB (unentgeltliche oder rechtsgrundlose Uebertragung), wuerdigt das Fehlen von Arbeitsvertrag, Lohnabrechnung und Sozialversicherungsmeldung sowie den Chat ("Muss ich dafuer irgendwas machen?" - "Nein."), und setzt sich mit dem Verteidigungseinwand auseinander, dass die Ueberweisungen ab Januar 2025 nach dem Ende des Tatzeitraums liegen und die Herkunft aus Tatertraegen (Kontosaldo-Argument der StA, Gesamtschuld zur Vermeidung von Doppelabschoepfung) gesondert begruendet werden muss.
+
+  - id: p6-arrest-verhaeltnismaessigkeit
+    beschreibung: Vermoegensarrest nach Paragraf 111e StPO mit Sicherungshypothek auf dem Familienheim, Kontenpfaendungen und Streit um Uebersicherung.
+    erwartung: Der Bearbeiter prueft Arrestgrund (Vermoegensverschiebungen nach der Durchsuchung, Maklerauftrag) und Verhaeltnismaessigkeit der Vollziehung, rechnet den Sicherungsstand nach (100.120.34 EUR gepfaendete Guthaben beim Beschuldigten, 21.480.17 EUR bei der Ehefrau, Hypothek ueber 412.680 EUR bei rund 780.000 EUR Verkehrswert und 118.400 EUR Vorlast) und diskutiert Uebersicherung, Abwendungsbefugnis durch Hinterlegung und die Folgen fuer die Betriebsfortfuehrung mit vertretbarem Ergebnis.

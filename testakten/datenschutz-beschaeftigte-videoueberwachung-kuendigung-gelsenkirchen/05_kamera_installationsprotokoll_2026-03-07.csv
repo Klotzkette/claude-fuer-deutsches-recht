@@ -1,0 +1,7 @@
+Kamera_ID;Montageort;Erfasster_Bereich;Montageart;Aufzeichnung_Beginn;Aufzeichnung_Ende;Aufzeichnungszeiten;Aufloesung;Speicherdauer_Tage
+K1;Packbereich Zone B, Regalgasse 4, Traeger T12;Packtische B1 bis B4, Blickrichtung Sued;verdeckt (Rauchmelder-Attrappe);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35
+K2;Packbereich Zone B, Regalgasse 6, Traeger T18;Packtische B5 bis B8 und Kommissionierwagen-Stellflaeche;verdeckt (Rauchmelder-Attrappe);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35
+K3;Warenausgang, Rolltor 2;Verladerampe und Scannerplatz WA-1;verdeckt (Kabelkanal);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35
+K4;Packbereich Zone A, Traeger T03;Packtische A1 bis A6, Blickrichtung Nord;verdeckt (Rauchmelder-Attrappe);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35
+K5;Durchgang Zone B zum Pausenraum Sued;Durchgangstuer, Getraenkeautomat und Sitzecke Pausenraum (Randbereich, ca. ein Drittel des Raums);verdeckt (Deckenverkleidung);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35
+K6;Vorraum Spinde/Zeiterfassungsterminal;Zeiterfassungsterminal und Spindreihe S1 bis S3;verdeckt (Deckenverkleidung);09.03.2026 00:00;24.04.2026 23:59;durchgehend 24/7;1080p;35

@@ -1,0 +1,15 @@
+Nr;Massnahme;Kategorie;Status_Stand_2026-01;Bemerkung
+T01;Mehrfaktor-Authentisierung fuer VPN-Zugaenge;Zugriffskontrolle;nicht umgesetzt;seit 2024 geplant, Budgetfreigabe offen
+T02;Offline-Backup (Air-Gap) fuer Kundendatenbank und Fileserver;Verfuegbarkeit;nicht vorhanden;Sicherungen nur online auf bk-01 im selben Netzsegment
+T03;Netzsegmentierung Verwaltung/Lager/Serverzone;Netzsicherheit;teilweise umgesetzt;Serverzone nicht von Clientnetz getrennt
+T04;Verschluesselung der Kundendatenbank at rest;Vertraulichkeit;nicht umgesetzt;nur Transportverschluesselung
+T05;Sandbox-Pruefung eingehender E-Mail-Anhaenge;Praevention;nicht vorhanden;Signaturbasierter Virenschutz vorhanden
+T06;Patch-Management mit 30-Tage-Zyklus;Praevention;teilweise umgesetzt;ERP-Server mit Patchstand Februar 2026
+T07;SIEM mit definierter Eskalationsmatrix;Detektion;teilweise umgesetzt;Rufbereitschaft ohne schriftliche Eskalationsregeln fuer kritische Alerts
+T08;Rechtekonzept nach Need-to-know;Zugriffskontrolle;umgesetzt;letzte Rezertifizierung 11/2025
+T09;Protokollierung administrativer Zugriffe;Nachvollziehbarkeit;umgesetzt;Aufbewahrung 90 Tage
+T10;Awareness-Schulung Phishing;Organisation;veraltet;letzte Schulung 09/2023
+T11;IT-Notfallplan mit Meldewegen Datenschutz;Organisation;Entwurf;nicht in Kraft gesetzt, DSB nicht eingebunden
+T12;Passwort-Richtlinie (12 Zeichen, Sperrung nach 10 Fehlversuchen);Zugriffskontrolle;umgesetzt;Dienstkonten ausgenommen
+T13;Deaktivierung von Makros aus dem Internet;Praevention;nicht umgesetzt;Fachbereich Einkauf nutzt Makro-Arbeitsmappen
+T14;Loeschkonzept Kundendaten;Datenminimierung;teilweise umgesetzt;Altkonten seit 2019 nicht bereinigt

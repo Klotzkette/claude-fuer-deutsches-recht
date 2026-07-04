@@ -1,0 +1,148 @@
+Eintrag_ID;Datum;Kunde;Ort;Eintragsart;Inhalt_Auszug;Angelegt_von;MA_Score
+CRM-1003;27.02.2019;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1006;18.03.2019;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1009;06.04.2019;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1012;29.04.2019;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1015;18.05.2019;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1018;06.06.2019;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1021;29.06.2019;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1024;18.07.2019;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1027;06.08.2019;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1030;29.08.2019;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1033;17.09.2019;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1036;06.10.2019;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1039;29.10.2019;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1042;17.11.2019;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1045;06.12.2019;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1048;29.12.2019;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1051;17.01.2020;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1054;05.02.2020;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1057;28.02.2020;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1060;18.03.2020;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1063;06.04.2020;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-Q20201;15.04.2020;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1066;29.04.2020;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1069;18.05.2020;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1072;06.06.2020;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1075;29.06.2020;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-Q20202;15.07.2020;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1078;18.07.2020;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1081;06.08.2020;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1084;29.08.2020;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1087;17.09.2020;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1090;06.10.2020;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-Q20203;15.10.2020;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 4 von 5;o.steinbeis;4
+CRM-1093;29.10.2020;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1096;17.11.2020;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1099;06.12.2020;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1102;29.12.2020;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1105;17.01.2021;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-Q20204;20.01.2021;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1108;05.02.2021;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1111;28.02.2021;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1114;19.03.2021;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1117;07.04.2021;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-Q20211;15.04.2021;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1120;30.04.2021;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1123;19.05.2021;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1126;07.06.2021;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1129;30.06.2021;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-Q20212;15.07.2021;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1132;19.07.2021;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1135;07.08.2021;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1138;30.08.2021;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1141;18.09.2021;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1144;07.10.2021;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-Q20213;15.10.2021;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1147;30.10.2021;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1150;18.11.2021;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1153;07.12.2021;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1156;30.12.2021;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1159;18.01.2022;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-Q20214;20.01.2022;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 4 von 5;o.steinbeis;4
+CRM-1162;06.02.2022;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1165;01.03.2022;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1168;20.03.2022;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1171;08.04.2022;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-Q20221;15.04.2022;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1174;01.05.2022;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1177;20.05.2022;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1180;08.06.2022;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1183;01.07.2022;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-Q20222;15.07.2022;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1186;20.07.2022;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1189;08.08.2022;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1192;31.08.2022;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1195;19.09.2022;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1198;08.10.2022;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-Q20223;15.10.2022;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1201;31.10.2022;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1204;19.11.2022;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1207;08.12.2022;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1210;31.12.2022;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1213;19.01.2023;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-Q20224;20.01.2023;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1216;07.02.2023;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1219;02.03.2023;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1222;21.03.2023;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1225;09.04.2023;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-Q20231;15.04.2023;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1228;02.05.2023;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1231;21.05.2023;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1234;09.06.2023;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1237;02.07.2023;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-Q20232;15.07.2023;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1240;21.07.2023;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1243;09.08.2023;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1246;01.09.2023;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1249;20.09.2023;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1252;09.10.2023;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-Q20233;15.10.2023;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1255;01.11.2023;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1258;20.11.2023;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1261;09.12.2023;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1264;01.01.2024;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1267;20.01.2024;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-Q20234;20.01.2024;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 3 von 5;o.steinbeis;3
+CRM-1270;08.02.2024;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1273;02.03.2024;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1276;21.03.2024;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1279;09.04.2024;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-Q20241;15.04.2024;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1282;02.05.2024;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1285;21.05.2024;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1288;09.06.2024;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1291;02.07.2024;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-Q20242;15.07.2024;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1294;21.07.2024;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1297;09.08.2024;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1300;01.09.2024;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1303;20.09.2024;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1306;09.10.2024;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-Q20243;15.10.2024;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 1 von 5;o.steinbeis;1
+CRM-1309;01.11.2024;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1312;20.11.2024;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1315;09.12.2024;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-1318;01.01.2025;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1321;20.01.2025;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-Q20244;20.01.2025;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1324;08.02.2025;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1327;03.03.2025;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1330;22.03.2025;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-1333;10.04.2025;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-Q20251;15.04.2025;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 2 von 5;o.steinbeis;2
+CRM-1336;03.05.2025;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1339;22.05.2025;Turmquell Getraenke GmbH;Ettlingen;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1342;10.06.2025;Albgruen Medizintechnik AG;Karlsruhe;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;
+CRM-1345;03.07.2025;Pfinztal Elektronik GmbH;Pfinztal;Kontaktnotiz;Telefonat Preisanpassung 2025;m.denzlinger;
+CRM-Q20252;15.07.2025;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 1 von 5;o.steinbeis;1
+CRM-1348;22.07.2025;Murgblick Papierwerke GmbH;Gernsbach;Kontaktnotiz;Demo-Termin Modul Lagersteuerung;m.denzlinger;
+CRM-1351;10.08.2025;Kraichgau Agrarhandel eG;Bretten;Kontaktnotiz;Nachfassen Angebot per E-Mail;m.denzlinger;
+CRM-1354;02.09.2025;Fasanengarten Software GmbH;Karlsruhe;Kontaktnotiz;Jahresgespraech mit Einkaufsleitung;m.denzlinger;
+CRM-1357;21.09.2025;Bruchsaler Pumpenbau GmbH;Bruchsal;Kontaktnotiz;Telefonat Zahlungsziel Rechnung;m.denzlinger;
+CRM-1360;10.10.2025;Durlacher Praezisionsteile GmbH;Karlsruhe;Kontaktnotiz;Vorbereitung Messetermin;m.denzlinger;
+CRM-Q20253;15.10.2025;-;-;Quartalsbewertung Vertrieb;Leistungs-Score Aussendienst Gebiet Nordbaden: 1 von 5;o.steinbeis;1
+CRM-1363;02.11.2025;Badenwerk Kunststofftechnik GmbH;Rastatt;Kontaktnotiz;Telefonat Vertragsverlaengerung Wartungsmodul;m.denzlinger;
+CRM-1366;21.11.2025;Silberburg Logistik AG;Stuttgart;Kontaktnotiz;Vor-Ort-Termin Praesentation Release 8;m.denzlinger;
+CRM-1369;10.12.2025;Hardtwald Maschinenbau GmbH;Eggenstein;Kontaktnotiz;Angebot Lizenzerweiterung versandt;m.denzlinger;
+CRM-1372;02.01.2026;Rheinstrand Chemie GmbH;Woerth;Kontaktnotiz;Eskalationsgespraech Ticketlaufzeiten;m.denzlinger;

@@ -1,0 +1,96 @@
+name: ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg
+beschreibung: >
+  Betreiberpflichten und Grundrechte-Folgenabschaetzung nach der
+  Verordnung (EU) 2024/1689: Die Stadt Duisburg betreibt das
+  Hochrisiko-KI-System AntragsLotse Pro zur Priorisierung von
+  Sozialleistungsantraegen. Das Legacy-Regelwerk R-7 wurde ohne die
+  vom Hersteller geforderten Voraussetzungen aktiviert; Antraege mit
+  auslaendischem Geburtsstaat landeten systematisch in der
+  Warteschlange pruefintensiv. Prueffragen: Verwendung nach
+  Betriebsanleitung, wirksame menschliche Aufsicht, Eingabedaten,
+  Logs, Betroffeneninformation, FRIA-Qualitaet und Aktualisierung,
+  Meldung eines schwerwiegenden Vorfalls, Verantwortungsabgrenzung
+  Anbieter und Betreiber.
+pruefpunkte:
+  - id: p01-datenauswertung-schieflage
+    beschreibung: >
+      Die statistische Schieflage muss aus dem Priorisierungslog
+      (Aktenstueck 06) und den Bearbeitungszeiten (Aktenstueck 07)
+      selbststaendig berechnet werden; keines der Aktenstuecke nennt
+      die Ergebniswerte.
+    erwartung: >
+      Errechnet werden die mittlere Wartezeit von exakt 18 Tagen fuer
+      die 36 Antraege mit Geburtsstaat Deutschland gegenueber exakt
+      54 Tagen fuer die 24 Antraege mit auslaendischem Geburtsstaat
+      (Faktor drei) sowie die Warteschlangen-Anteile pruefintensiv
+      von 4 aus 36 gegenueber 20 aus 24; der Einzelfall AST-2026-0016
+      (Bensaid) wird mit 77 Tagen Wartezeit (09.02.2026 bis
+      27.04.2026) identifiziert. Die Werte werden gegen die
+      25-Prozent-Schwelle aus Abschnitt 8 der Betriebsanleitung und
+      gegen die FRIA-Einstufung gering gehalten.
+  - id: p02-diskrepanz-aufsicht
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen formalem Schulungsnachweis und
+      tatsaechlicher Aufsichtspraxis muss erkannt und rechtlich
+      verwertet werden.
+    erwartung: >
+      Der Widerspruch zwischen dem Schulungsnachweis (Brandhorst in
+      beiden Modulen bestanden) und der E-Mail vom 17.03.2026 (ich
+      klicke die Vorschlaege einfach durch) samt Teams-Chat und
+      Revisionsstichprobe (17 von 20 Faellen ohne Sichtung, keine
+      einzige Rueckstufung) wird benannt; gefolgert wird, dass
+      formale Schulung allein keine wirksame menschliche Aufsicht
+      im Sinne der Betreiberpflichten begruendet.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Der Umgang mit dem beweglichen Normstand der KI-Verordnung
+      (Omnibus-Rechtsakte) muss dem Normstand-Vermerk (Aktenstueck 14)
+      entsprechen.
+    erwartung: >
+      Die Bearbeitung stuetzt sich nur auf die Grundstrukturen der
+      Verordnung (EU) 2024/1689 (Anhang III, Betreiberpflichten,
+      FRIA, Vorfallmeldung), kennzeichnet konkrete Artikel- und
+      Fristangaben als zu verifizieren, empfiehlt die amtliche
+      Verifikation (EUR-Lex, konsolidierte Fassung) vor jeder
+      Verwendung und erfindet keine Durchfuehrungsrechtsakte oder
+      Gerichtsentscheidungen.
+  - id: p04-verwendung-entgegen-betriebsanleitung
+    beschreibung: >
+      Die bestimmungswidrige Verwendung durch die Kommune muss anhand
+      der Betriebsanleitung praezise hergeleitet werden.
+    erwartung: >
+      Herausgearbeitet wird, dass die Aktivierung von R-7 an drei
+      Bedingungen geknuepft war (monatliches Fairness-Monitoring,
+      gruppenbezogene Wartezeitenauswertung, dokumentierte
+      Begruendung) und keine davon erfuellt wurde; die
+      Dienstanweisung weicht mit der Formel anlassbezogen von
+      Abschnitt 8 der Betriebsanleitung ab; die Herstellerantwort
+      vom 26.06.2026 (Verantwortung liegt bei der Konfiguration der
+      Kommune) wird kritisch gewuerdigt, ohne die Offenlegungs- und
+      Produktverantwortung des Anbieters auszublenden.
+  - id: p05-fria-qualitaet
+    beschreibung: >
+      Die FRIA vom 18.12.2025 muss als methodisch defizitaer erkannt
+      und die Aktualisierungspflicht benannt werden.
+    erwartung: >
+      Benannt werden mindestens: die Fehleinstufung des
+      Diskriminierungsrisikos als gering trotz bekannter Aktivierung
+      von R-7, der begruendungslose Verzicht auf gruppenbezogenes
+      Monitoring, die pauschale Miterfassung der R-7-Aktivierung
+      ohne gesonderte Begruendung sowie die Pflicht, die FRIA nach
+      den Revisionsfeststellungen zu aktualisieren und die
+      Betroffenen zu informieren.
+  - id: p06-vorfallmeldung-und-sofortmassnahmen
+    beschreibung: >
+      Meldeweg und Sofortmassnahmen muessen zutreffend eingeordnet
+      werden.
+    erwartung: >
+      Die Meldung vom 19.06.2026 an die Bundesnetzagentur als
+      Marktueberwachungsbehoerde und die Information des Herstellers
+      werden als richtige Adressaten erkannt; die Kette
+      Kenntniserlangung (12.06.2026) zu Meldung (19.06.2026) wird auf
+      Unverzueglichkeit geprueft mit dem Vorbehalt der amtlich zu
+      verifizierenden Fristen; die Sofortmassnahmen (Deaktivierung
+      R-7 zum 15.06.2026, Nachsichtung, Logsicherung) werden
+      gewuerdigt und der noch offene Punkt Betroffeneninformation
+      als Luecke benannt.

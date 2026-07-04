@@ -1,0 +1,32 @@
+datum,uhrzeit,ereignis,richtung,dauer_sek,zellen_id,funkzelle_standort,stadtteil
+2026-04-17,18:12:41,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,19:05:03,Sprachanruf,ankommend,312,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,20:17:56,Datenverbindung,-,0,26743-D2,"Rheinhauser Str. 21, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,21:02:19,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,21:26:44,SMS,abgehend,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,22:40:08,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-04-17,23:31:52,Datenverbindung,-,0,26743-D2,"Rheinhauser Str. 21, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,18:03:17,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,18:41:29,Sprachanruf,ankommend,124,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,19:22:50,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,19:58:36,Datenverbindung,-,0,26743-D2,"Rheinhauser Str. 21, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,20:31:11,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,20:58:07,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,21:14:33,Datenverbindung,-,0,29881-M4,"Aktienstr. 82, 45473 Muelheim an der Ruhr",Muelheim-Winkhausen
+2026-05-02,21:31:02,Datenverbindung,-,0,31544-E7,"Berliner Str. 199, 45144 Essen",Essen-Frohnhausen
+2026-05-02,21:39:48,Datenverbindung,-,0,31544-E7,"Berliner Str. 199, 45144 Essen",Essen-Frohnhausen
+2026-05-02,21:47:21,Datenverbindung,-,0,31544-E7,"Berliner Str. 199, 45144 Essen",Essen-Frohnhausen
+2026-05-02,21:52:39,Datenverbindung,-,0,31544-E7,"Berliner Str. 199, 45144 Essen",Essen-Frohnhausen
+2026-05-02,22:07:54,Datenverbindung,-,0,29881-M4,"Aktienstr. 82, 45473 Muelheim an der Ruhr",Muelheim-Winkhausen
+2026-05-02,22:24:10,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,23:12:45,Sprachanruf,abgehend,46,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-02,23:58:31,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,18:21:05,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,19:03:57,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,19:47:22,Sprachanruf,abgehend,88,26743-D2,"Rheinhauser Str. 21, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,20:36:40,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,21:15:13,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,21:58:36,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,22:04:49,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,22:31:27,Datenverbindung,-,0,26743-D2,"Rheinhauser Str. 21, 47053 Duisburg",Duisburg-Hochfeld
+2026-05-15,23:41:15,Datenverbindung,-,0,26742-D1,"Wanheimer Str. 118, 47053 Duisburg",Duisburg-Hochfeld

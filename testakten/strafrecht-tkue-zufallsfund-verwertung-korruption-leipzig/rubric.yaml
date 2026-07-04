@@ -1,0 +1,27 @@
+name: strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig
+description: Zufallsfund aus einer TKUe nach Paragraf 100a StPO in einem BtM-Verfahren belegt Bestechlichkeit eines Sachbearbeiters der Fahrerlaubnisbehoerde; zu pruefen sind die Verwendungsregel des Paragraf 479 Abs. 2 StPO mit hypothetischem Ersatzeingriff und die Quantifizierung des Telefonat-Termin-Einzahlungs-Musters aus drei CSV-Dateien samt Widerlegung der Flohmarkt-Einlassung durch den Ehefrau-Chat.
+
+pruefpunkte:
+  - id: p1-verwendungsregel-katalogtat
+    beschreibung: Wird die richtige Verwendungsschranke fuer den Zufallsfund identifiziert und angewendet?
+    erwartung: Der Bearbeiter erkennt, dass fuer Erkenntnisse aus einer Massnahme nach Paragraf 100a StPO die Verwendungsregel des Paragraf 479 Abs. 2 Satz 1 in Verbindung mit Paragraf 161 Abs. 3 StPO gilt: Verwendung zu Beweiszwecken nur zur Aufklaerung von Straftaten, zu deren Aufklaerung eine solche Massnahme haette angeordnet werden duerfen. Er stellt fest, dass die Bestechlichkeit nach Paragraf 332 StGB Katalogtat des Paragraf 100a Abs. 2 Nr. 1 StPO ist, und grenzt ab, dass Paragraf 100e Abs. 6 StPO nur fuer Massnahmen nach den Paragrafen 100b und 100c StPO gilt und hier weder direkt noch analog anwendbar ist.
+
+  - id: p2-hypothetischer-ersatzeingriff
+    beschreibung: Streitpunkt Einzelfallschwere und Subsidiaritaet beim hypothetischen Ersatzeingriff (Paragraf 100a Abs. 1 Satz 1 Nr. 2 und 3 StPO).
+    erwartung: Der Bearbeiter prueft, ob die TKUe zur Aufklaerung der Bestechlichkeit haette angeordnet werden duerfen, und verarbeitet beide Positionen: die Verteidigungslinie (sieben Zahlungen zu je 500 EUR als Bagatelle, klassische Ermittlungsmassnahmen verfuegbar) und die StA-Linie (Seriennatur mit angekuendigter Fortsetzung, Amtstraegerstellung, Verkehrsgefaehrdung durch Bescheide ohne Pruefungsnachweis, kein Ermittlungsansatz ohne Kenntnis der Gespraeche). Ein vertretbares, begruendetes Ergebnis in beide Richtungen wird akzeptiert; blosse Behauptungen ohne Subsumtion nicht.
+
+  - id: p3-muster-quantifizieren
+    beschreibung: Datenauswertungs-Kern mit konkreten Werten: Das Muster muss aus Gespraechs-CSV, Terminkalender-CSV und Konto-CSV zusammengesetzt und beziffert werden.
+    erwartung: Der Bearbeiter identifiziert exakt sieben Faelle (Telefonate am 13.10., 27.10., 10.11., 24.11., 08.12., 15.12.2025 und 05.01.2026), weist nach, dass jeweils zwei Tage nach dem Telefonat der Vorsprachetermin und zwei Tage nach dem Termin eine Bareinzahlung von 500 EUR am SB-Automaten erfolgt (Einzahlungen am 17.10., 31.10., 14.11., 28.11., 12.12., 19.12.2025 und 09.01.2026), und beziffert die Gesamtsumme auf 3.500 EUR. Die beiden Einzahlungen von 140 EUR und 95 EUR werden als nicht musterkonform (Sonntage, Flohmarktbezug im Chat) abgegrenzt.
+
+  - id: p4-diskrepanz-flohmarkt-chat
+    beschreibung: Diskrepanz-Pflichtpunkt: Die Flohmarkt-Einlassung des Beschuldigten widerspricht dem Chat mit der Ehefrau.
+    erwartung: Der Bearbeiter stellt die Einlassung vom 08.04.2026 (alle Bareinzahlungen aus Flohmarktverkaeufen, Einzahlung erst ab 500 EUR Ansparsumme) dem Chat gegenueber: Die Ehefrau schreibt am 12.12.2025 "schon wieder 500 vom Kumpel?", der Beschuldigte antwortet ausweichend und kuendigt an, nach "Bogdan" sei Schluss; die Ehefrau datiert am 18.01.2026 den letzten Flohmarkt auf Oktober, obwohl dazwischen fuenf 500-EUR-Einzahlungen liegen. Der Bearbeiter benennt den Widerspruch ausdruecklich und wuerdigt ergaenzend Haftnotiz (sieben Initialen mit 500) und Kalendervermerke.
+
+  - id: p5-dienstpflichtverletzung-abgrenzung
+    beschreibung: Abgrenzung Paragraf 332 zu Paragraf 331 StGB fuer die fuenf Faelle ohne fehlende Nachweise.
+    erwartung: Der Bearbeiter prueft fuer die Faelle Kaplan und Ilic die pflichtwidrige Diensthandlung (Bescheid trotz fehlenden Pruefungsnachweises) und diskutiert fuer die uebrigen fuenf Faelle, ob das entgeltliche Vorziehen bei der Terminvergabe und die Bereitschaft, sich durch den Vorteil beeinflussen zu lassen (Paragraf 332 Abs. 3 Nr. 2 StGB), fuer die Bestechlichkeit genuegt oder nur Vorteilsannahme nach Paragraf 331 StGB vorliegt, und erkennt die Folgefrage, dass Paragraf 331 StGB keine Katalogtat des Paragraf 100a Abs. 2 StPO ist und die Einordnung damit auf die Verwertbarkeitspruefung zurueckwirkt.
+
+  - id: p6-fernwirkung-folgebeweise
+    beschreibung: Reichweite eines etwaigen Verwertungsverbots fuer Terminkalender, Kontodaten, Durchsuchungsfunde und Chat.
+    erwartung: Der Bearbeiter erkennt, dass Durchsuchung, Kalender- und Kontenerhebung auf den TKUe-Erkenntnissen aufbauen, referiert den Grundsatz, dass die StPO keine generelle Fernwirkung kennt und eine Abwaegung im Einzelfall erfordert, und wuerdigt das StA-Argument eines hypothetisch rechtmaessigen Ermittlungsverlaufs (interne Beanstandung der Vorgaenge Kaplan und Ilic bereits am 11.12.2025). Zusaetzlich wird die Verwertbarkeit des Ehefrau-Chats trotz moeglicher Zeugnisverweigerung nach Paragraf 52 StPO als eigenstaendige Frage erkannt und vertretbar beantwortet.

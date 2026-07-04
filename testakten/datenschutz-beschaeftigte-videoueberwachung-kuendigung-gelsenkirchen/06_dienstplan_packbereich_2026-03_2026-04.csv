@@ -1,0 +1,316 @@
+Kalenderwoche;Datum;Schicht;Einsatzbereich;Beschaeftigter
+KW11;09.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Demirel, Erkan
+KW11;09.03.2026;Frueh 06:00-14:00;Warenausgang;Brandhorst, Ute
+KW11;09.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Okonkwo, Grace
+KW11;09.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW11;09.03.2026;Frueh 06:00-14:00;Warenausgang;Dabrowski, Jan
+KW11;09.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Hallmann, Rita
+KW11;09.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Ferreira, Tiago
+KW11;09.03.2026;Spaet 14:00-22:00;Warenausgang;Ostermann, Kai
+KW11;09.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Szymanska, Alina
+KW11;10.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Yesilkaya, Emre
+KW11;10.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW11;10.03.2026;Frueh 06:00-14:00;Warenausgang;Hallmann, Rita
+KW11;10.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Ferreira, Tiago
+KW11;10.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ostermann, Kai
+KW11;10.03.2026;Spaet 14:00-22:00;Warenausgang;Nguyen, Thu
+KW11;10.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Ricken, Sandra
+KW11;10.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Terhorst, Bernd
+KW11;10.03.2026;Spaet 14:00-22:00;Warenausgang;Kowalczyk, Piotr
+KW11;11.03.2026;Frueh 06:00-14:00;Warenausgang;Siebrecht, Marco
+KW11;11.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Dabrowski, Jan
+KW11;11.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Nguyen, Thu
+KW11;11.03.2026;Frueh 06:00-14:00;Warenausgang;Ricken, Sandra
+KW11;11.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Terhorst, Bernd
+KW11;11.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Szymanska, Alina
+KW11;11.03.2026;Spaet 14:00-22:00;Warenausgang;Demirel, Erkan
+KW11;11.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Brandhorst, Ute
+KW11;11.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Okonkwo, Grace
+KW11;12.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ferreira, Tiago
+KW11;12.03.2026;Frueh 06:00-14:00;Warenausgang;Ostermann, Kai
+KW11;12.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Szymanska, Alina
+KW11;12.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Demirel, Erkan
+KW11;12.03.2026;Frueh 06:00-14:00;Warenausgang;Brandhorst, Ute
+KW11;12.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Kowalczyk, Piotr
+KW11;12.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Yesilkaya, Emre
+KW11;12.03.2026;Spaet 14:00-22:00;Warenausgang;Petrenko, Iryna
+KW11;12.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Hallmann, Rita
+KW11;13.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Ricken, Sandra
+KW11;13.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Terhorst, Bernd
+KW11;13.03.2026;Frueh 06:00-14:00;Warenausgang;Kowalczyk, Piotr
+KW11;13.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Yesilkaya, Emre
+KW11;13.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW11;13.03.2026;Spaet 14:00-22:00;Warenausgang;Okonkwo, Grace
+KW11;13.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Siebrecht, Marco
+KW11;13.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Dabrowski, Jan
+KW11;13.03.2026;Spaet 14:00-22:00;Warenausgang;Nguyen, Thu
+KW12;16.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ostermann, Kai
+KW12;16.03.2026;Frueh 06:00-14:00;Warenausgang;Szymanska, Alina
+KW12;16.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Demirel, Erkan
+KW12;16.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Brandhorst, Ute
+KW12;16.03.2026;Frueh 06:00-14:00;Warenausgang;Okonkwo, Grace
+KW12;16.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Yesilkaya, Emre
+KW12;16.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Petrenko, Iryna
+KW12;16.03.2026;Spaet 14:00-22:00;Warenausgang;Hallmann, Rita
+KW12;16.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Ferreira, Tiago
+KW12;17.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Terhorst, Bernd
+KW12;17.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Kowalczyk, Piotr
+KW12;17.03.2026;Frueh 06:00-14:00;Warenausgang;Yesilkaya, Emre
+KW12;17.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Petrenko, Iryna
+KW12;17.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Hallmann, Rita
+KW12;17.03.2026;Spaet 14:00-22:00;Warenausgang;Siebrecht, Marco
+KW12;17.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Dabrowski, Jan
+KW12;17.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Nguyen, Thu
+KW12;17.03.2026;Spaet 14:00-22:00;Warenausgang;Ricken, Sandra
+KW12;18.03.2026;Frueh 06:00-14:00;Warenausgang;Brandhorst, Ute
+KW12;18.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Okonkwo, Grace
+KW12;18.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW12;18.03.2026;Frueh 06:00-14:00;Warenausgang;Dabrowski, Jan
+KW12;18.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Nguyen, Thu
+KW12;18.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Ferreira, Tiago
+KW12;18.03.2026;Spaet 14:00-22:00;Warenausgang;Ostermann, Kai
+KW12;18.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Szymanska, Alina
+KW12;18.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Demirel, Erkan
+KW12;19.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW12;19.03.2026;Frueh 06:00-14:00;Warenausgang;Hallmann, Rita
+KW12;19.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Ferreira, Tiago
+KW12;19.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ostermann, Kai
+KW12;19.03.2026;Frueh 06:00-14:00;Warenausgang;Szymanska, Alina
+KW12;19.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Ricken, Sandra
+KW12;19.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Terhorst, Bernd
+KW12;19.03.2026;Spaet 14:00-22:00;Warenausgang;Kowalczyk, Piotr
+KW12;19.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Yesilkaya, Emre
+KW12;20.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Dabrowski, Jan
+KW12;20.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Nguyen, Thu
+KW12;20.03.2026;Frueh 06:00-14:00;Warenausgang;Ricken, Sandra
+KW12;20.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Terhorst, Bernd
+KW12;20.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Kowalczyk, Piotr
+KW12;20.03.2026;Spaet 14:00-22:00;Warenausgang;Demirel, Erkan
+KW12;20.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Brandhorst, Ute
+KW12;20.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Okonkwo, Grace
+KW12;20.03.2026;Spaet 14:00-22:00;Warenausgang;Siebrecht, Marco
+KW13;23.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Hallmann, Rita
+KW13;23.03.2026;Frueh 06:00-14:00;Warenausgang;Ferreira, Tiago
+KW13;23.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Ostermann, Kai
+KW13;23.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Szymanska, Alina
+KW13;23.03.2026;Frueh 06:00-14:00;Warenausgang;Demirel, Erkan
+KW13;23.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Terhorst, Bernd
+KW13;23.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Kowalczyk, Piotr
+KW13;23.03.2026;Spaet 14:00-22:00;Warenausgang;Yesilkaya, Emre
+KW13;23.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Petrenko, Iryna
+KW13;24.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Nguyen, Thu
+KW13;24.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ricken, Sandra
+KW13;24.03.2026;Frueh 06:00-14:00;Warenausgang;Terhorst, Bernd
+KW13;24.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Kowalczyk, Piotr
+KW13;24.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Yesilkaya, Emre
+KW13;24.03.2026;Spaet 14:00-22:00;Warenausgang;Brandhorst, Ute
+KW13;24.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Okonkwo, Grace
+KW13;24.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Siebrecht, Marco
+KW13;24.03.2026;Spaet 14:00-22:00;Warenausgang;Dabrowski, Jan
+KW13;25.03.2026;Frueh 06:00-14:00;Warenausgang;Szymanska, Alina
+KW13;25.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Demirel, Erkan
+KW13;25.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Brandhorst, Ute
+KW13;25.03.2026;Frueh 06:00-14:00;Warenausgang;Okonkwo, Grace
+KW13;25.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Siebrecht, Marco
+KW13;25.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Petrenko, Iryna
+KW13;25.03.2026;Spaet 14:00-22:00;Warenausgang;Hallmann, Rita
+KW13;25.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Ferreira, Tiago
+KW13;25.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Ostermann, Kai
+KW13;26.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Kowalczyk, Piotr
+KW13;26.03.2026;Frueh 06:00-14:00;Warenausgang;Yesilkaya, Emre
+KW13;26.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Petrenko, Iryna
+KW13;26.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Hallmann, Rita
+KW13;26.03.2026;Frueh 06:00-14:00;Warenausgang;Ferreira, Tiago
+KW13;26.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Dabrowski, Jan
+KW13;26.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Nguyen, Thu
+KW13;26.03.2026;Spaet 14:00-22:00;Warenausgang;Ricken, Sandra
+KW13;26.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Terhorst, Bernd
+KW13;27.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Okonkwo, Grace
+KW13;27.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW13;27.03.2026;Frueh 06:00-14:00;Warenausgang;Dabrowski, Jan
+KW13;27.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Nguyen, Thu
+KW13;27.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ricken, Sandra
+KW13;27.03.2026;Spaet 14:00-22:00;Warenausgang;Ostermann, Kai
+KW13;27.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Szymanska, Alina
+KW13;27.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Demirel, Erkan
+KW13;27.03.2026;Spaet 14:00-22:00;Warenausgang;Brandhorst, Ute
+KW14;30.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Yesilkaya, Emre
+KW14;30.03.2026;Frueh 06:00-14:00;Warenausgang;Petrenko, Iryna
+KW14;30.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Hallmann, Rita
+KW14;30.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Ferreira, Tiago
+KW14;30.03.2026;Frueh 06:00-14:00;Warenausgang;Ostermann, Kai
+KW14;30.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Nguyen, Thu
+KW14;30.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Ricken, Sandra
+KW14;30.03.2026;Spaet 14:00-22:00;Warenausgang;Terhorst, Bernd
+KW14;30.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Kowalczyk, Piotr
+KW14;31.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Siebrecht, Marco
+KW14;31.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Dabrowski, Jan
+KW14;31.03.2026;Frueh 06:00-14:00;Warenausgang;Nguyen, Thu
+KW14;31.03.2026;Frueh 06:00-14:00;Packbereich Zone B;Ricken, Sandra
+KW14;31.03.2026;Frueh 06:00-14:00;Packbereich Zone A;Terhorst, Bernd
+KW14;31.03.2026;Spaet 14:00-22:00;Warenausgang;Szymanska, Alina
+KW14;31.03.2026;Spaet 14:00-22:00;Packbereich Zone B;Demirel, Erkan
+KW14;31.03.2026;Spaet 14:00-22:00;Packbereich Zone A;Brandhorst, Ute
+KW14;31.03.2026;Spaet 14:00-22:00;Warenausgang;Okonkwo, Grace
+KW14;01.04.2026;Frueh 06:00-14:00;Warenausgang;Ferreira, Tiago
+KW14;01.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ostermann, Kai
+KW14;01.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Szymanska, Alina
+KW14;01.04.2026;Frueh 06:00-14:00;Warenausgang;Demirel, Erkan
+KW14;01.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Brandhorst, Ute
+KW14;01.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Kowalczyk, Piotr
+KW14;01.04.2026;Spaet 14:00-22:00;Warenausgang;Yesilkaya, Emre
+KW14;01.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Petrenko, Iryna
+KW14;01.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Hallmann, Rita
+KW14;02.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ricken, Sandra
+KW14;02.04.2026;Frueh 06:00-14:00;Warenausgang;Terhorst, Bernd
+KW14;02.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Kowalczyk, Piotr
+KW14;02.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Yesilkaya, Emre
+KW14;02.04.2026;Frueh 06:00-14:00;Warenausgang;Petrenko, Iryna
+KW14;02.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Okonkwo, Grace
+KW14;02.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Siebrecht, Marco
+KW14;02.04.2026;Spaet 14:00-22:00;Warenausgang;Dabrowski, Jan
+KW14;02.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Nguyen, Thu
+KW14;03.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Demirel, Erkan
+KW14;03.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Brandhorst, Ute
+KW14;03.04.2026;Frueh 06:00-14:00;Warenausgang;Okonkwo, Grace
+KW14;03.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Siebrecht, Marco
+KW14;03.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Dabrowski, Jan
+KW14;03.04.2026;Spaet 14:00-22:00;Warenausgang;Hallmann, Rita
+KW14;03.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ferreira, Tiago
+KW14;03.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Ostermann, Kai
+KW14;03.04.2026;Spaet 14:00-22:00;Warenausgang;Szymanska, Alina
+KW15;06.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Terhorst, Bernd
+KW15;06.04.2026;Frueh 06:00-14:00;Warenausgang;Kowalczyk, Piotr
+KW15;06.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Yesilkaya, Emre
+KW15;06.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW15;06.04.2026;Frueh 06:00-14:00;Warenausgang;Hallmann, Rita
+KW15;06.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Siebrecht, Marco
+KW15;06.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Dabrowski, Jan
+KW15;06.04.2026;Spaet 14:00-22:00;Warenausgang;Nguyen, Thu
+KW15;06.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ricken, Sandra
+KW15;07.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Brandhorst, Ute
+KW15;07.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Okonkwo, Grace
+KW15;07.04.2026;Frueh 06:00-14:00;Warenausgang;Siebrecht, Marco
+KW15;07.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Dabrowski, Jan
+KW15;07.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Nguyen, Thu
+KW15;07.04.2026;Spaet 14:00-22:00;Warenausgang;Ferreira, Tiago
+KW15;07.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ostermann, Kai
+KW15;07.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Szymanska, Alina
+KW15;07.04.2026;Spaet 14:00-22:00;Warenausgang;Demirel, Erkan
+KW15;08.04.2026;Frueh 06:00-14:00;Warenausgang;Petrenko, Iryna
+KW15;08.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Hallmann, Rita
+KW15;08.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ferreira, Tiago
+KW15;08.04.2026;Frueh 06:00-14:00;Warenausgang;Ostermann, Kai
+KW15;08.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Szymanska, Alina
+KW15;08.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Ricken, Sandra
+KW15;08.04.2026;Spaet 14:00-22:00;Warenausgang;Terhorst, Bernd
+KW15;08.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Kowalczyk, Piotr
+KW15;08.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Yesilkaya, Emre
+KW15;09.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Dabrowski, Jan
+KW15;09.04.2026;Frueh 06:00-14:00;Warenausgang;Nguyen, Thu
+KW15;09.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ricken, Sandra
+KW15;09.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Terhorst, Bernd
+KW15;09.04.2026;Frueh 06:00-14:00;Warenausgang;Kowalczyk, Piotr
+KW15;09.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Demirel, Erkan
+KW15;09.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Brandhorst, Ute
+KW15;09.04.2026;Spaet 14:00-22:00;Warenausgang;Okonkwo, Grace
+KW15;09.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Siebrecht, Marco
+KW15;10.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ostermann, Kai
+KW15;10.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Szymanska, Alina
+KW15;10.04.2026;Frueh 06:00-14:00;Warenausgang;Demirel, Erkan
+KW15;10.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Brandhorst, Ute
+KW15;10.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Okonkwo, Grace
+KW15;10.04.2026;Spaet 14:00-22:00;Warenausgang;Yesilkaya, Emre
+KW15;10.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Petrenko, Iryna
+KW15;10.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Hallmann, Rita
+KW15;10.04.2026;Spaet 14:00-22:00;Warenausgang;Ferreira, Tiago
+KW16;13.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Nguyen, Thu
+KW16;13.04.2026;Frueh 06:00-14:00;Warenausgang;Ricken, Sandra
+KW16;13.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Terhorst, Bernd
+KW16;13.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Kowalczyk, Piotr
+KW16;13.04.2026;Frueh 06:00-14:00;Warenausgang;Yesilkaya, Emre
+KW16;13.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Brandhorst, Ute
+KW16;13.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Okonkwo, Grace
+KW16;13.04.2026;Spaet 14:00-22:00;Warenausgang;Siebrecht, Marco
+KW16;13.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Dabrowski, Jan
+KW16;14.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Szymanska, Alina
+KW16;14.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Demirel, Erkan
+KW16;14.04.2026;Frueh 06:00-14:00;Warenausgang;Brandhorst, Ute
+KW16;14.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Okonkwo, Grace
+KW16;14.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW16;14.04.2026;Spaet 14:00-22:00;Warenausgang;Petrenko, Iryna
+KW16;14.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Hallmann, Rita
+KW16;14.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Ferreira, Tiago
+KW16;14.04.2026;Spaet 14:00-22:00;Warenausgang;Ostermann, Kai
+KW16;15.04.2026;Frueh 06:00-14:00;Warenausgang;Kowalczyk, Piotr
+KW16;15.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Yesilkaya, Emre
+KW16;15.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW16;15.04.2026;Frueh 06:00-14:00;Warenausgang;Hallmann, Rita
+KW16;15.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ferreira, Tiago
+KW16;15.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Dabrowski, Jan
+KW16;15.04.2026;Spaet 14:00-22:00;Warenausgang;Nguyen, Thu
+KW16;15.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ricken, Sandra
+KW16;15.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Terhorst, Bernd
+KW16;16.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Okonkwo, Grace
+KW16;16.04.2026;Frueh 06:00-14:00;Warenausgang;Siebrecht, Marco
+KW16;16.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Dabrowski, Jan
+KW16;16.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Nguyen, Thu
+KW16;16.04.2026;Frueh 06:00-14:00;Warenausgang;Ricken, Sandra
+KW16;16.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ostermann, Kai
+KW16;16.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Szymanska, Alina
+KW16;16.04.2026;Spaet 14:00-22:00;Warenausgang;Demirel, Erkan
+KW16;16.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Brandhorst, Ute
+KW16;17.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Hallmann, Rita
+KW16;17.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ferreira, Tiago
+KW16;17.04.2026;Frueh 06:00-14:00;Warenausgang;Ostermann, Kai
+KW16;17.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Szymanska, Alina
+KW16;17.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Demirel, Erkan
+KW16;17.04.2026;Spaet 14:00-22:00;Warenausgang;Terhorst, Bernd
+KW16;17.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Kowalczyk, Piotr
+KW16;17.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Yesilkaya, Emre
+KW16;17.04.2026;Spaet 14:00-22:00;Warenausgang;Petrenko, Iryna
+KW17;20.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW17;20.04.2026;Frueh 06:00-14:00;Warenausgang;Dabrowski, Jan
+KW17;20.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Nguyen, Thu
+KW17;20.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ricken, Sandra
+KW17;20.04.2026;Frueh 06:00-14:00;Warenausgang;Terhorst, Bernd
+KW17;20.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Szymanska, Alina
+KW17;20.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Demirel, Erkan
+KW17;20.04.2026;Spaet 14:00-22:00;Warenausgang;Brandhorst, Ute
+KW17;20.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Okonkwo, Grace
+KW17;21.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ferreira, Tiago
+KW17;21.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ostermann, Kai
+KW17;21.04.2026;Frueh 06:00-14:00;Warenausgang;Szymanska, Alina
+KW17;21.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Demirel, Erkan
+KW17;21.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Brandhorst, Ute
+KW17;21.04.2026;Spaet 14:00-22:00;Warenausgang;Kowalczyk, Piotr
+KW17;21.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Yesilkaya, Emre
+KW17;21.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Petrenko, Iryna
+KW17;21.04.2026;Spaet 14:00-22:00;Warenausgang;Hallmann, Rita
+KW17;22.04.2026;Frueh 06:00-14:00;Warenausgang;Ricken, Sandra
+KW17;22.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Terhorst, Bernd
+KW17;22.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Kowalczyk, Piotr
+KW17;22.04.2026;Frueh 06:00-14:00;Warenausgang;Yesilkaya, Emre
+KW17;22.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Petrenko, Iryna
+KW17;22.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Okonkwo, Grace
+KW17;22.04.2026;Spaet 14:00-22:00;Warenausgang;Siebrecht, Marco
+KW17;22.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Dabrowski, Jan
+KW17;22.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Nguyen, Thu
+KW17;23.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Demirel, Erkan
+KW17;23.04.2026;Frueh 06:00-14:00;Warenausgang;Brandhorst, Ute
+KW17;23.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Okonkwo, Grace
+KW17;23.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Siebrecht, Marco
+KW17;23.04.2026;Frueh 06:00-14:00;Warenausgang;Dabrowski, Jan
+KW17;23.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Hallmann, Rita
+KW17;23.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Ferreira, Tiago
+KW17;23.04.2026;Spaet 14:00-22:00;Warenausgang;Ostermann, Kai
+KW17;23.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Szymanska, Alina
+KW17;24.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Yesilkaya, Emre
+KW17;24.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Petrenko, Iryna
+KW17;24.04.2026;Frueh 06:00-14:00;Warenausgang;Hallmann, Rita
+KW17;24.04.2026;Frueh 06:00-14:00;Packbereich Zone B;Ferreira, Tiago
+KW17;24.04.2026;Frueh 06:00-14:00;Packbereich Zone A;Ostermann, Kai
+KW17;24.04.2026;Spaet 14:00-22:00;Warenausgang;Nguyen, Thu
+KW17;24.04.2026;Spaet 14:00-22:00;Packbereich Zone B;Ricken, Sandra
+KW17;24.04.2026;Spaet 14:00-22:00;Packbereich Zone A;Terhorst, Bernd
+KW17;24.04.2026;Spaet 14:00-22:00;Warenausgang;Kowalczyk, Piotr

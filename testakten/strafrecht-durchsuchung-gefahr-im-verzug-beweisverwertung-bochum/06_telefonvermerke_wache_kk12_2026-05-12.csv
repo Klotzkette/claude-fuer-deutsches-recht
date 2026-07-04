@@ -1,0 +1,10 @@
+uhrzeit,richtung,nebenstelle,gegenstelle,rufnummer_gegenstelle,dauer_sek,gegenstand
+13:04:11,ankommend,KK 12 / -4402,"Buergerin, Laerm",0234 5519873,95,Ruhestoerung Innenstadt; an zustaendige Wache verwiesen
+13:52:36,abgehend,KK 12 / -4402,"Stadt Bochum, Ordnungsamt",0234 910-2210,143,"Rueckfrage Gewerbeuntersagung, anderes Verfahren"
+14:34:02,abgehend,KK 12 / -4415,KHK Odenwald an Kriminaldauerdienst,0234 909-4111,76,Vorabinformation Observationslage Maltheserstr.
+15:06:48,abgehend,KK 12 / -4402,Abschleppdienst Herzog,0234 332415,64,"Sicherstellung Pkw, anderes Verfahren"
+15:37:15,abgehend,KK 12 / -4415,KHK Odenwald an Castor 21 (Diensthandy),0172 4419320,41,Lageabfrage Observation
+16:12:29,abgehend,KK 12 / -4415,"StA Bochum, Eildienst, StAin Dr. Hillmann",0234 967-4211,212,Bericht Lage Maltheserstr.; Anordnung Durchsuchung durch StA wegen Gefahr im Verzug
+16:26:50,ankommend,KK 12 / -4402,"Polizeipraesidium, Pressestelle",0234 909-1021,58,Anfrage anderes Verfahren
+17:22:34,ankommend,KK 12 / -4402,Leitstelle,intern,33,Sachstandsabfrage Einsatz Maltheserstr.
+17:55:08,abgehend,KK 12 / -4415,Kriminaldauerdienst,0234 909-4111,89,Ankuendigung Uebergabe Asservate und Beschuldigter

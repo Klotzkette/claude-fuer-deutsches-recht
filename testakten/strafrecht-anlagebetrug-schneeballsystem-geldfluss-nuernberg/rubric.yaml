@@ -1,0 +1,89 @@
+name: strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg
+beschreibung: >
+  Wirtschaftsstrafsache gegen den Geschaeftsfuehrer der Frankenland
+  Kapitalpartner GmbH (Nuernberg). Von Februar 2023 bis Februar 2026 zahlten
+  61 Anleger insgesamt 4.2 Mio. EUR fuer angebliche
+  Photovoltaik-Projektbeteiligungen mit 8 Prozent Ausschuettung pro Jahr.
+  Der polizeiliche Auswertevermerk liefert bewusst nur Jahressummen; die
+  monatsgenaue Geldflussanalyse (Kipppunkt des Schneeballsystems) muss die
+  Bearbeitung aus der Kontoauszugs-CSV und der Anlegerliste-CSV selbst
+  errechnen und mit der wechselnden Einlassung des Beschuldigten sowie der
+  internen Vertriebsmail vom 17.09.2024 abgleichen.
+pruefpunkte:
+  - id: p01-kipppunkt-berechnung
+    beschreibung: >
+      Der Kipppunkt des Systems muss aus der Monatsuebersicht des
+      Geschaeftskontos monatsgenau errechnet werden.
+    erwartung: >
+      Aus der CSV wird hergeleitet: Die letzte als Projektinvestition
+      deklarierte Zahlung erfolgte im August 2024 (60000.00 EUR); ab
+      September 2024 betragen die Projektinvestitionen in jedem Monat null.
+      Projektertraege gingen nur von Januar bis Dezember 2024 ein (gesamt
+      45616.42 EUR); ab Januar 2025 existiert keinerlei Einnahmequelle
+      ausser den Anlegereinzahlungen, so dass Renditezahlungen und
+      Kapitalrueckzahlungen ab diesem Zeitpunkt denknotwendig allein aus
+      Neueinlagen bedient wurden. Wer bereits ab September 2024 auf ein
+      reines Schneeballsystem schliesst, muss die geringfuegigen
+      Projektertraege bis Dezember 2024 als Randgroesse ausweisen.
+  - id: p02-summen-nachrechnung
+    beschreibung: >
+      Die zentralen Summen muessen aus beiden CSVs nachgerechnet und
+      gegeneinander abgeglichen werden.
+    erwartung: >
+      Einzahlungen 4200000.00 EUR von 61 Anlegern (Jahresscheiben 2023:
+      1240000.00; 2024: 1220000.00; 2025: 1530000.00; 2026: 210000.00);
+      Renditeauszahlungen 455433.69 EUR (identisch als Summe der Spalte der
+      Kontoauszugs-CSV und der Spalte rendite_ausgezahlt_gesamt_eur der
+      Anlegerliste); Kapitalrueckzahlungen 250000.00 EUR an drei kuendigende
+      Anleger (80000.00 am 14.06.2024, 50000.00 am 10.03.2025, 120000.00 am
+      20.11.2025); Projektinvestitionen 945000.00 EUR gleich 22.5 Prozent
+      der Einlagen; Endsaldo 399099.19 EUR per 31.03.2026 gleich arrestiertes
+      Kontoguthaben.
+  - id: p03-diskrepanz-einlassung
+    beschreibung: >
+      Der Widerspruch zwischen der Einlassung des Beschuldigten und der
+      Aktenlage muss konkret belegt werden.
+    erwartung: >
+      Die Erstvernehmung vom 14.04.2026 (saemtliche Gelder in die Projekte
+      geflossen, durchgehend investiert) wird der CSV (nur 22.5 Prozent
+      investiert, letzte Investition August 2024) und der internen E-Mail
+      vom 17.09.2024 (Projektschiene hinten anstellen, Auszahlungen laufen
+      aus dem Bestand, bei Kundenfragen nicht ins Detail gehen)
+      gegenuebergestellt; der Wechsel zur Einlassung vom 09.06.2026
+      (Zwischenparken, zu spaet die Reissleine gezogen) wird als
+      Teilgestaendnis eingeordnet und fuer den Vorsatznachweis ab
+      Spaetsommer 2024 verwertet.
+  - id: p04-betrugsdogmatik-schneeball
+    beschreibung: >
+      Die materielle Pruefung des Betrugs beim Schneeballsystem muss sauber
+      aufgebaut sein.
+    erwartung: >
+      Taeuschung ueber die Mittelverwendung, Irrtum und Vermoegensverfuegung
+      je Anleger, Schadenseintritt bereits mit der Einzahlung
+      (schadensgleiche Vermoegensgefaehrdung wegen fehlender werthaltiger
+      Gegenposition), Gewerbsmaessigkeit und Vermoegensverlust grossen
+      Ausmasses (Paragraf 263 Abs. 3 Satz 2 Nr. 1 und Nr. 2 StGB) sowie das
+      Verhaeltnis zu Paragraf 264a StGB werden normbezogen und ohne
+      erfundene Fundstellen dargestellt; 61 tatmehrheitliche Faelle werden
+      der Anlegerliste zugeordnet.
+  - id: p05-luecke-anklageentwurf
+    beschreibung: >
+      Die im Anklageentwurf offen gelassene Stelle muss erkannt und
+      geschlossen werden.
+    erwartung: >
+      Der interne Vermerk der Dezernentin (Feinauswertung fehlt, Kipppunkt
+      einsetzen) wird identifiziert; die Bearbeitung liefert den fehlenden
+      Baustein mit konkreten Monatsangaben und formuliert den Lueckentext
+      in Ziffer 1.2 des Entwurfs aus. Eine Bearbeitung, die den Entwurf als
+      fertige Anklage behandelt, verfehlt den Arbeitsauftrag.
+  - id: p06-vermoegensabschoepfung-und-privatentnahmen
+    beschreibung: >
+      Vermoegensabschoepfung und Privatentnahmen muessen verknuepft werden.
+    erwartung: >
+      Der Wert des Erlangten wird mit 4200000.00 EUR (Bruttoprinzip)
+      begruendet; der Arrest nach Paragraf 111e StPO und die Einziehung nach
+      Paragraf 73 und Paragraf 73c StGB werden erlaeutert; die
+      Privatentnahmen von 805500.00 EUR einschliesslich 85000.00 EUR
+      Anzahlung Kitzbuehel (Juni 2025) und 38500.00 EUR Pkw-Barkauf
+      (November 2024) werden als Abschoepfungs- und Beweisthema (Verbleib
+      der Gelder) behandelt, ohne sie mit dem Schaden zu verwechseln.

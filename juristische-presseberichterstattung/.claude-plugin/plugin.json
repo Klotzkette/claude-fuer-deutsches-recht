@@ -1,6 +1,6 @@
 {
   "name": "juristische-presseberichterstattung",
-  "version": "423.0.0",
+  "version": "424.0.0",
   "description": "Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,0 +1,95 @@
+name: ki-recht-marktueberwachung-sanktionsverfahren-emotionserkennung-bonn
+beschreibung: >
+  Marktueberwachungs- und Sanktionsverfahren nach der Verordnung
+  (EU) 2024/1689: Ein Bonner Callcenter-Dienstleister analysiert die
+  Stimmen der eigenen Beschaeftigten in Echtzeit auf Emotion und
+  Stresslevel (VoiceMood Sentinel der SentiCore Analytics GmbH).
+  Prueffragen: verbotene Praktik der Emotionserkennung am
+  Arbeitsplatz und Reichweite der Ausnahme fuer medizinische Zwecke
+  und Sicherheitszwecke, Abgrenzung Anbieter und Betreiber,
+  Kooperationspflichten im Aufsichtsverfahren, Sanktionsrahmen und
+  Zumessung, parallele DSGVO-Dimension mit Koordination zur LDI NRW.
+pruefpunkte:
+  - id: p01-datenauswertung-massnahmenquote
+    beschreibung: >
+      Die tatsaechliche Zweckrichtung des Systems muss durch
+      Verknuepfung von Alert-Log (Aktenstueck 07) und Massnahmen-Log
+      (Aktenstueck 08) selbststaendig quantifiziert werden; kein
+      Aktenstueck nennt die Quoten.
+    erwartung: >
+      Errechnet werden 120 Alerts, davon 80 mit Folgemassnahme;
+      exakt 64 von 80 Massnahmen (80 Prozent) sind Leistungs- und
+      Personalmassnahmen (34 Leistungsgespraeche, 14
+      Zielvereinbarungen, 10 Schichtkuerzungen, 6 Abmahnungen) und
+      nur 8 von 80 (10 Prozent) Gesundheitsschutz (5
+      Betriebsarzt-Empfehlungen, 3 Entlastungspausen); daraus wird
+      gefolgert, dass die behauptete Medizin- und
+      Sicherheitsausnahme nicht traegt.
+  - id: p02-diskrepanz-doku-vertrieb
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen Produktdokumentation und
+      Vertriebs-Pitchdeck muss erkannt und fuer die
+      Verantwortungszurechnung verwertet werden.
+    erwartung: >
+      Der Widerspruch zwischen der Zweckbindung der
+      Produktdokumentation (Wellbeing-Feature, keine Leistungs- oder
+      Verhaltenskontrolle) und dem Pitchdeck samt Begleit-E-Mail vom
+      18.06.2025 (Performance-Steigerung durch Emotions-Monitoring,
+      Emotionsprofile fuer die Personalakte, Empfehlung der
+      Wellbeing-Etikettierung gegenueber dem Betriebsrat) wird
+      benannt; die Schutzbehauptung der Verteidigung (eigenmaechtiger
+      Vertriebsmitarbeiter) wird kritisch gewuerdigt.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Der Umgang mit dem beweglichen Normstand muss dem
+      behoerdlichen Normstand-Vermerk (Aktenstueck 12) entsprechen.
+    erwartung: >
+      Die Bearbeitung stuetzt sich auf die Grundstrukturen der
+      Verordnung (EU) 2024/1689 (Praktiken-Verbote, Ausnahme fuer
+      medizinische Zwecke und Sicherheitszwecke, Sanktionsrahmen,
+      Marktueberwachung), kennzeichnet konkrete Artikel- und
+      Fristangaben sowie Bussgeldobergrenzen als amtlich zu
+      verifizieren, erfindet keine Durchfuehrungsrechtsakte und
+      zitiert keine Gerichtsentscheidungen.
+  - id: p04-verbotstatbestand-und-ausnahme
+    beschreibung: >
+      Der Verbotstatbestand der Emotionserkennung am Arbeitsplatz
+      und die Ausnahme muessen methodisch sauber geprueft werden.
+    erwartung: >
+      Herausgearbeitet wird, dass das System Emotionen aus
+      biometrischen Stimmdaten von Beschaeftigten ableitet, dass
+      fuer die Ausnahme die tatsaechliche Zweckrichtung und nicht
+      die Wellbeing-Etikettierung massgeblich ist, dass kein
+      betriebsaerztlicher Prozess existierte (Chat und
+      Stellungnahme der Betreiberin) und dass die
+      Verwendungspraxis (Rankings, dreimal rot gleich
+      Personalgespraech, Abmahnung der Beschwerdefuehrerin am
+      28.01.2026 nach Alerts vom 09.01. und 26.01.2026) die
+      Ausnahme widerlegt.
+  - id: p05-rollenverteilung-anbieter-betreiber
+    beschreibung: >
+      Die Verantwortungsabgrenzung zwischen Anbieterin und
+      Betreiberin muss differenziert vorgenommen werden.
+    erwartung: >
+      Erkannt wird die Doppelverantwortung: Die Anbieterin hat die
+      zweckwidrige Verwendung durch die Vertriebskommunikation
+      gefoerdert und die Team-Care-Konfiguration ohne technische
+      Sicherung ausgeliefert; die Betreiberin hat entgegen der
+      dokumentierten Zweckbindung eingesetzt, die vorausgesetzten
+      Schutzvorkehrungen nicht geschaffen und die Belegschaft mit
+      dem Etikett Wellbeing-Programm getaeuscht; die Zumessung
+      (Kooperation, Weisung vom 06.03.2026, Parallelverfahren der
+      LDI NRW, wirtschaftliche Lage) wird angesprochen.
+  - id: p06-parallele-dsgvo-ebene
+    beschreibung: >
+      Die datenschutzrechtliche Parallelebene und die
+      Behoerdenkoordination muessen zutreffend eingeordnet werden.
+    erwartung: >
+      Benannt werden die eigenstaendige DSGVO-Pruefung der LDI NRW
+      (Beschaeftigtendaten, Art. 6 und 9 DSGVO, Paragraf 26 BDSG,
+      DSFA, Emotionsprofile in Personalakten), das Fehlen einer
+      Sperrwirkung zwischen beiden Verfahren, die Koordination nach
+      dem Vermerk vom 14.04.2026 und die Beruecksichtigung der
+      Doppelsanktionierung bei der Zumessung; zusaetzlich die
+      betriebsverfassungsrechtliche Ebene (Widerruf der Zustimmung,
+      Paragraf 87 Abs. 1 Nr. 6 BetrVG).

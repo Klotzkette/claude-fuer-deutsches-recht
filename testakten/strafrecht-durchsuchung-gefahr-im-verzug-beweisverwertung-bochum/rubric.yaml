@@ -1,0 +1,94 @@
+name: strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum
+beschreibung: >
+  BtM- und Waffenverfahren der StA Bochum. Am 12.05.2026 wird die Wohnung
+  des Beschuldigten ohne richterlichen Beschluss durchsucht, gestuetzt auf
+  Gefahr im Verzug; der Vermerk behauptet, der Bereitschaftsrichter sei
+  telefonisch nicht erreichbar gewesen. Die Bearbeitung muss die Zeitkette
+  aus Einsatzprotokoll-CSV, Telefonvermerk-CSV der Wache und der
+  Erreichbarkeitsauskunft des AG Bochum rekonstruieren, die Diskrepanz zum
+  Durchsuchungsvermerk aufdecken und die Folgen fuer
+  Beweisverwertungsverbot, Fernwirkung und Anklagebestand differenziert
+  entwickeln. Falle: Unabhaengig erlangte Beweise (Observation, Kaeufer,
+  Nachbar) bleiben auch bei einem Verwertungsverbot verwertbar.
+pruefpunkte:
+  - id: p01-zeitkette-rekonstruktion
+    beschreibung: >
+      Die Zeitkette des 12.05.2026 muss aus der Einsatzprotokoll-CSV
+      minutengenau rekonstruiert werden.
+    erwartung: >
+      Beobachtete Uebergabe 14:20:31 Uhr, Anhaltung des Kaeufers 14:26 Uhr,
+      Ruecksprache KK 12 um 14:32 Uhr, Uebernahme Einsatzleitung 14:55 Uhr,
+      Ende Kaeufervernehmung 16:05 Uhr, Anruf bei der StA laut
+      Telefonliste 16:12 Uhr, Eilanordnung 16:55 Uhr, Zugriff 17:05:02 Uhr.
+      Errechnet wird die Spanne von rund zwei Stunden 45 Minuten zwischen
+      Verdachtsgewinnung und Durchsuchung, in der eine richterliche
+      Entscheidung erreichbar gewesen waere.
+  - id: p02-diskrepanz-anrufversuch
+    beschreibung: >
+      Der Widerspruch zwischen Durchsuchungsvermerk und Datenlage zum
+      angeblichen Anrufversuch muss belegt werden.
+    erwartung: >
+      Der Vermerk behauptet einen erfolglosen Anrufversuch gegen 16:50 Uhr;
+      die Telefonvermerk-CSV der Wache weist zwischen 13:04 und 17:55 Uhr
+      keinen ausgehenden Anruf an die Nummern 0234 967-2314 oder
+      0160 4471209 aus, wohl aber den Anruf an die StA um 16:12 Uhr; das
+      Verbindungsprotokoll des Diensthandys zeigt zwischen 11:42 und
+      19:20 Uhr keine eingehenden Anrufe; der Einsatzleiter raeumt ein,
+      selbst nicht gewaehlt und nichts dokumentiert zu haben. Die
+      Bearbeitung benennt diese Quellen konkret und unterscheidet zwischen
+      bewusster Umgehung und Organisationsversagen als offener
+      Beweisfrage.
+  - id: p03-gefahr-im-verzug-pruefung
+    beschreibung: >
+      Die Voraussetzungen der Eilanordnung nach Paragraf 105 Abs. 1 StPO
+      muessen normbezogen und zweiseitig geprueft werden.
+    erwartung: >
+      Dargestellt werden Richtervorbehalt (Art. 13 Abs. 2 GG),
+      einzelfallbezogene Begruendungs- und Dokumentationspflicht, Pflicht
+      zum vorherigen Bemuehen um eine richterliche Entscheidung und das
+      Verbot, die Eile selbst herbeizufuehren; gewuerdigt wird auch die
+      Gegenposition der StA (wachsende Warnungsgefahr nach Anhaltung des
+      Kaeufers, Nutzung der Zeit fuer die Kaeufervernehmung, Vertrauen der
+      Staatsanwaeltin auf die Rueckmeldung); keine Zitate erfundener
+      Gerichtsentscheidungen.
+  - id: p04-verwertungsverbot-abwaegung
+    beschreibung: >
+      Die Verwertungsfrage muss als Abwaegung mit den anerkannten
+      Fallgruppen entwickelt werden.
+    erwartung: >
+      Kein automatisches Verwertungsverbot bei jedem Verstoss; Verbot bei
+      bewusster Umgehung oder willkuergleicher Verkennung des
+      Richtervorbehalts; Auseinandersetzung mit dem hypothetisch
+      rechtmaessigen Ermittlungsverlauf einschliesslich des Einwands, dass
+      dieser Gedanke den Richtervorbehalt nicht aushebeln darf und
+      Dokumentationsmaengel zulasten der Anordnungsgrundlage gehen; der
+      Verwertungswiderspruch nach Paragraf 257 StPO und seine
+      prozessuale Funktion werden korrekt eingeordnet.
+  - id: p05-falle-unabhaengige-beweise
+    beschreibung: >
+      Die Falle der Akte muss erkannt werden: Ein Verwertungsverbot
+      erfasst nicht die unabhaengig erlangten Beweise.
+    erwartung: >
+      Observation der Uebergabe (4.8 g Marihuana beim Kaeufer),
+      Kaeuferangaben und die Aussage des Nachbarn Sanftleben (Anzeige vom
+      05.05.2026, Besucherverkehr, Balkonbeobachtung der Pistole) bleiben
+      verwertbar; der Chatexport vom sichergestellten Handy wird dagegen
+      als Folgebeweis der Durchsuchung identifiziert und die begrenzte
+      Anerkennung einer Fernwirkung im deutschen Recht diskutiert. Eine
+      Bearbeitung, die pauschal Freispruch oder pauschal volle
+      Verwertbarkeit annimmt, verfehlt die geforderte Differenzierung samt
+      Folgenbetrachtung nach Paragraf 207 und Paragraf 209 StPO.
+  - id: p06-mengen-und-wirkstoffrechnung
+    beschreibung: >
+      Die Mengen- und Wirkstoffrechnung aus der Asservatenliste muss
+      nachvollzogen werden.
+    erwartung: >
+      Marihuana netto 476.8 + 305.2 + 241.9 + 152.4 = 1176.3 g, bei
+      14.2 Prozent THC 167.03 g THC (Grenzwert 7.5 g THC um mehr als das
+      Zweiundzwanzigfache ueberschritten); Amphetamin netto 201.5 + 121.0
+      = 322.5 g, bei 18.4 Prozent 59.34 g Base (Grenzwert 10 g); Bargeld
+      18 x 100 + 27 x 50 + 96 x 20 + 143 x 10 + 63 x 5 = 6815.00 EUR.
+      Zutreffende Zuordnung: Cannabis nach Paragraf 34 KCanG, Amphetamin
+      nach Paragraf 29a und Paragraf 30a Abs. 2 Nr. 2 BtMG, Waffenbesitz
+      nach Paragraf 52 WaffG; Bewaffnung als Qualifikation beider
+      Handeltreibens-Tatbestaende.

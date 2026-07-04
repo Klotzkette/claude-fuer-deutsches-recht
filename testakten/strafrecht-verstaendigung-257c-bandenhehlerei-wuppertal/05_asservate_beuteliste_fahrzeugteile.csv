@@ -1,0 +1,14 @@
+Fall_Nr_Anklage;Ankaufsdatum;Herkunft_Diebstahlort;Herkunftsfahrzeug;Uebergabeort;Anzahl_Teile;Ankaufspreis_EUR;Verkaufserloes_EUR;Verkaufsmonat_Plattform
+1;14.06.2024;Duesseldorf;BMW X5 (G05);W-KE 4471, Lagerhalle Nuetzenberger Str.;14;3400.00;9850.00;Juli 2024
+2;09.07.2024;Essen;Audi Q7 (4M);W-KE 4471;11;2800.00;8200.00;August 2024
+3;21.08.2024;Koeln;Mercedes-Benz GLE (V167);W-KE 4471;18;5100.00;15300.00;September 2024
+4;17.09.2024;Wuppertal;BMW 5er (G30);W-KE 4471;15;4200.00;12400.00;Oktober 2024
+5;28.10.2024;Remscheid;Porsche Cayenne (9YA);W-KE 4471;21;6500.00;19750.00;Dezember 2024
+6;19.11.2024;Solingen;VW Touareg (CR);W-KE 4471;13;3900.00;11600.00;Dezember 2024
+7;13.01.2025;Duesseldorf;Mercedes-Benz S-Klasse (W223);W-KE 4471;24;7200.00;21900.00;Februar 2025
+8;04.02.2025;Bochum;Audi A6 (C8);W-KE 4471;10;2600.00;7450.00;Maerz 2025
+9;11.03.2025;Koeln;BMW X6 (G06);W-KE 4471;19;5800.00;17250.00;April 2025
+10;08.04.2025;Leverkusen;Range Rover Sport (L461);W-KE 4471;16;4700.00;13980.00;Mai 2025
+11;20.05.2025;Duesseldorf;Porsche Panamera (971);W-KE 4471;26;8100.00;24300.00;Juni 2025
+12;16.06.2025;Wuppertal;Mercedes-Benz G-Klasse (W463);W-KE 4471;22;6900.00;20670.00;Juli 2025
+Summe;;;;;209;61200.00;182650.00;

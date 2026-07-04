@@ -1,0 +1,61 @@
+Antrags_ID;Eingangsdatum;Leistungsart;Geburtsstaat;Unterlagen_bei_Eingang;Prioritaets_Score;Warteschlange
+AST-2026-0001;12.01.2026;Hilfe zum Lebensunterhalt;Bosnien-Herzegowina;vollstaendig;78;pruefintensiv
+AST-2026-0002;12.01.2026;Hilfe zur Pflege;Deutschland;vollstaendig;42;Standard
+AST-2026-0003;12.01.2026;Grundsicherung im Alter;Deutschland;vollstaendig;52;Standard
+AST-2026-0004;14.01.2026;Grundsicherung im Alter;Deutschland;vollstaendig;30;Standard
+AST-2026-0005;15.01.2026;Grundsicherung im Alter;Irak;vollstaendig;32;Standard
+AST-2026-0006;16.01.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;28;Standard
+AST-2026-0007;16.01.2026;Grundsicherung im Alter;Irak;vollstaendig;74;pruefintensiv
+AST-2026-0008;18.01.2026;Grundsicherung im Alter;Algerien;vollstaendig;93;pruefintensiv
+AST-2026-0009;20.01.2026;Hilfe zur Pflege;Deutschland;vollstaendig;27;Standard
+AST-2026-0010;27.01.2026;Hilfe zur Pflege;Deutschland;vollstaendig;40;Standard
+AST-2026-0011;28.01.2026;Hilfe zum Lebensunterhalt;Deutschland;Nachforderung einzeln;34;Standard
+AST-2026-0012;31.01.2026;Grundsicherung im Alter;Deutschland;vollstaendig;60;Standard
+AST-2026-0013;04.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;27;Standard
+AST-2026-0014;05.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;64;Standard
+AST-2026-0015;06.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;59;Standard
+AST-2026-0016;09.02.2026;Hilfe zum Lebensunterhalt;Algerien;vollstaendig;88;pruefintensiv
+AST-2026-0017;10.02.2026;Eingliederungshilfe;Algerien;vollstaendig;43;Standard
+AST-2026-0018;10.02.2026;Hilfe zur Pflege;Nigeria;vollstaendig;80;pruefintensiv
+AST-2026-0019;13.02.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;51;Standard
+AST-2026-0020;16.02.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;61;Standard
+AST-2026-0021;21.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;41;Standard
+AST-2026-0022;22.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;62;Standard
+AST-2026-0023;27.02.2026;Grundsicherung im Alter;Algerien;vollstaendig;76;pruefintensiv
+AST-2026-0024;27.02.2026;Eingliederungshilfe;Deutschland;vollstaendig;35;Standard
+AST-2026-0025;28.02.2026;Grundsicherung im Alter;Deutschland;vollstaendig;36;Standard
+AST-2026-0026;28.02.2026;Hilfe zum Lebensunterhalt;Irak;vollstaendig;91;pruefintensiv
+AST-2026-0027;01.03.2026;Grundsicherung im Alter;Deutschland;vollstaendig;39;Standard
+AST-2026-0028;01.03.2026;Hilfe zur Pflege;Irak;vollstaendig;38;Standard
+AST-2026-0029;02.03.2026;Grundsicherung im Alter;Deutschland;Nachforderung einzeln;50;Standard
+AST-2026-0030;06.03.2026;Eingliederungshilfe;Deutschland;Nachforderung einzeln;43;Standard
+AST-2026-0031;07.03.2026;Eingliederungshilfe;Syrien;vollstaendig;77;pruefintensiv
+AST-2026-0032;08.03.2026;Eingliederungshilfe;Syrien;vollstaendig;32;Standard
+AST-2026-0033;10.03.2026;Grundsicherung im Alter;Irak;vollstaendig;82;pruefintensiv
+AST-2026-0034;13.03.2026;Grundsicherung im Alter;Tuerkei;vollstaendig;74;pruefintensiv
+AST-2026-0035;14.03.2026;Grundsicherung im Alter;Deutschland;vollstaendig;36;Standard
+AST-2026-0036;16.03.2026;Grundsicherung im Alter;Deutschland;vollstaendig;56;Standard
+AST-2026-0037;18.03.2026;Eingliederungshilfe;Ghana;vollstaendig;74;pruefintensiv
+AST-2026-0038;20.03.2026;Eingliederungshilfe;Nigeria;vollstaendig;86;pruefintensiv
+AST-2026-0039;23.03.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;25;Standard
+AST-2026-0040;25.03.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;70;pruefintensiv
+AST-2026-0041;28.03.2026;Hilfe zur Pflege;Algerien;vollstaendig;79;pruefintensiv
+AST-2026-0042;31.03.2026;Hilfe zur Pflege;Bosnien-Herzegowina;vollstaendig;77;pruefintensiv
+AST-2026-0043;05.04.2026;Grundsicherung im Alter;Ghana;vollstaendig;80;pruefintensiv
+AST-2026-0044;10.04.2026;Hilfe zur Pflege;Deutschland;vollstaendig;82;pruefintensiv
+AST-2026-0045;12.04.2026;Hilfe zum Lebensunterhalt;Bosnien-Herzegowina;Nachforderung einzeln;75;pruefintensiv
+AST-2026-0046;13.04.2026;Grundsicherung im Alter;Deutschland;vollstaendig;63;Standard
+AST-2026-0047;17.04.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;46;Standard
+AST-2026-0048;20.04.2026;Hilfe zur Pflege;Tuerkei;vollstaendig;73;pruefintensiv
+AST-2026-0049;21.04.2026;Grundsicherung im Alter;Deutschland;vollstaendig;64;Standard
+AST-2026-0050;21.04.2026;Hilfe zum Lebensunterhalt;Tuerkei;vollstaendig;78;pruefintensiv
+AST-2026-0051;01.05.2026;Hilfe zur Pflege;Deutschland;vollstaendig;53;Standard
+AST-2026-0052;01.05.2026;Eingliederungshilfe;Tuerkei;vollstaendig;81;pruefintensiv
+AST-2026-0053;02.05.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;19;Standard
+AST-2026-0054;02.05.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;27;Standard
+AST-2026-0055;04.05.2026;Hilfe zum Lebensunterhalt;Deutschland;vollstaendig;42;Standard
+AST-2026-0056;04.05.2026;Eingliederungshilfe;Irak;vollstaendig;72;pruefintensiv
+AST-2026-0057;06.05.2026;Grundsicherung im Alter;Deutschland;vollstaendig;79;pruefintensiv
+AST-2026-0058;08.05.2026;Eingliederungshilfe;Deutschland;Nachforderung einzeln;41;Standard
+AST-2026-0059;08.05.2026;Hilfe zur Pflege;Deutschland;vollstaendig;44;Standard
+AST-2026-0060;09.05.2026;Grundsicherung im Alter;Deutschland;vollstaendig;77;pruefintensiv

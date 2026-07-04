@@ -1,0 +1,60 @@
+From: "Mette Kirkegaard" <legal@nordlys-models.dk>
+To: "Bundesnetzagentur - AI Market Surveillance Unit" <ki-marktueberwachung@bnetza.de>
+Cc: "Digitaliseringsstyrelsen - AI Supervision" <ai-tilsyn@digst.dk>
+Date: Wed, 01 Jul 2026 16:22:31 +0200
+Subject: RE: Request for information - Case KI-MUE-2026/0233 - Nordlys Vision 3 / provenance marking
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Dr. Battenfeld,
+
+Thank you for your request of 22 June 2026. Nordlys Model Works ApS
+is committed to full cooperation with the European market
+surveillance authorities. We respond as follows.
+
+1. Generation logs: The logs for jobs NLV3-88412, NLV3-88467,
+NLV3-88529 and NLV3-88603 are attached (secure link, valid 14
+days). We confirm that all four outputs left our infrastructure
+with an embedded C2PA signature and a visible watermark, and that
+our policy engine issued real-person-likeness and voice-clone
+notices for three of the four jobs. Any subsequent removal of the
+markings occurred downstream, outside our systems.
+
+2. Integrator agreement: A copy is attached (confidential). Clause
+7.4 mirrors section 3.2 of our AUP: the "Studio" tier permits
+watermark removal only where the integrator applies an at least
+equivalent machine-readable substitute marking and contractually
+passes disclosure duties for deep fakes on to its customers.
+Monitoring is currently based on annual self-certification by the
+integrator. We acknowledge that this did not prevent the present
+case; a technical attestation API which verifies substitute
+markings at export time is in development and scheduled for the
+fourth quarter of 2026.
+
+3. Measures taken: On 24 June 2026 we issued a formal remediation
+notice to Kampagnenschmiede GmbH requiring a compliant substitute
+marking mechanism by 31 August 2026, failing which the "Studio"
+tier will be suspended. We have also restricted the
+real-person-likeness capability for that integrator to accounts
+with verified consent workflows.
+
+4. Training-content summary and copyright policy: The current
+versions (v3.2, published 15 May 2026) are available at
+nordlys-models.dk/transparency; PDF copies are attached. Regarding
+data sources relevant to photorealistic renditions of real
+persons, we refer to sections 4 and 6 of the summary (licensed
+stock archives, publicly available web data subject to TDM
+opt-outs). We note your remark on pending omnibus amendments and
+share the view that the exact scope of the applicable provisions
+should be verified against the consolidated legal text.
+
+We remain at your disposal, including for a joint call with the
+Danish supervisory authority.
+
+Kind regards,
+
+Mette Kirkegaard
+Head of Legal
+Nordlys Model Works ApS
+Njalsgade 21, 2300 Copenhagen S, Denmark
+CVR 44821973

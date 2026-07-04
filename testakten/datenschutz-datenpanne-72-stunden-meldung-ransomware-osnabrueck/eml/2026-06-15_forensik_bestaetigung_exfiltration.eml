@@ -1,0 +1,27 @@
+From: "Dr. Ingo Vahlbrecht" <i.vahlbrecht@nordicshield.example>
+To: "Thorben Schwegmann" <t.schwegmann@hasetal-versand.example>
+Cc: "Dr. Klaus Rosenthal" <datenschutz@hasetal-versand.example>, "Bernd Wiechers" <geschaeftsfuehrung@hasetal-versand.example>
+Date: Mon, 15 Jun 2026 09:30:44 +0200
+Subject: Zwischenstand NS-2026-0614-HAS - Datenabfluss bestaetigt
+Message-ID: <ns-zwischen-0614-002@nordicshield.example>
+In-Reply-To: <ns-auftrag-0614-001@nordicshield.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Sehr geehrter Herr Schwegmann,
+
+wir bestaetigen nach Auswertung der Firewall-Protokolle den Abfluss
+von 382 GB in der Nacht zum 11.06.2026 (02:58 bis 04:41 Uhr) an die
+Adresse 91.242.117.34. In den uebertragenen Daten befindet sich ein
+Dump der Kundendatenbank.
+
+Es handelt sich damit nicht nur um eine Verschluesselung, sondern um
+eine bestaetigte Exfiltration personenbezogener Daten. Wir empfehlen,
+die datenschutzrechtlichen Meldepflichten unverzueglich zu pruefen.
+
+Den vollstaendigen Abschlussbericht liefern wir bis zum 22.06.2026.
+
+Mit freundlichen Gruessen
+Dr. Ingo Vahlbrecht
+NordicShield Forensics GmbH

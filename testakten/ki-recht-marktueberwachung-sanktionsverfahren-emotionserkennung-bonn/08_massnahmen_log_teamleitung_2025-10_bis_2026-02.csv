@@ -1,0 +1,81 @@
+Massnahme_ID;Datum;Agent_ID;Ausloesender_Alert;Kategorie;Angeordnet_von;Kurzbeschreibung
+M-0001;08.10.2025;AGT-0124;AL-0002;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0002;12.10.2025;AGT-0112;AL-0003;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0003;12.10.2025;AGT-0110;AL-0004;Team-Coaching Gespraechsfuehrung;Radeke, Timo;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0005;12.10.2025;AGT-0115;AL-0006;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0006;12.10.2025;AGT-0109;AL-0007;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0007;13.10.2025;AGT-0104;AL-0008;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0004;14.10.2025;AGT-0106;AL-0005;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0009;15.10.2025;AGT-0123;AL-0011;Zielvereinbarung Gespraechskennzahlen;Radeke, Timo;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0011;16.10.2025;AGT-0103;AL-0013;Schichtkuerzung;Struckmeier, Pascal;Reduzierung der Schichtstunden im Folgemonat
+M-0010;17.10.2025;AGT-0112;AL-0012;Empfehlung Betriebsarzt;Struckmeier, Pascal;Empfehlung einer Vorstellung beim Betriebsarzt
+M-0008;18.10.2025;AGT-0121;AL-0010;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0014;19.10.2025;AGT-0107;AL-0016;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0012;21.10.2025;AGT-0102;AL-0014;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0015;22.10.2025;AGT-0109;AL-0017;Zielvereinbarung Gespraechskennzahlen;Struckmeier, Pascal;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0016;22.10.2025;AGT-0109;AL-0018;Abmahnung;Ohlsen, Verena;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0013;23.10.2025;AGT-0109;AL-0015;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0017;25.10.2025;AGT-0109;AL-0023;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0018;28.10.2025;AGT-0115;AL-0024;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0020;29.10.2025;AGT-0119;AL-0027;Team-Coaching Gespraechsfuehrung;Ohlsen, Verena;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0019;01.11.2025;AGT-0120;AL-0026;Zielvereinbarung Gespraechskennzahlen;Radeke, Timo;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0021;01.11.2025;AGT-0113;AL-0029;Abmahnung;Struckmeier, Pascal;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0022;11.11.2025;AGT-0113;AL-0032;Zielvereinbarung Gespraechskennzahlen;Struckmeier, Pascal;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0023;11.11.2025;AGT-0123;AL-0033;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0025;12.11.2025;AGT-0113;AL-0035;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0024;14.11.2025;AGT-0105;AL-0034;Team-Coaching Gespraechsfuehrung;Struckmeier, Pascal;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0027;14.11.2025;AGT-0110;AL-0040;Schichtkuerzung;Ohlsen, Verena;Reduzierung der Schichtstunden im Folgemonat
+M-0028;14.11.2025;AGT-0107;AL-0041;Abmahnung;Ohlsen, Verena;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0026;15.11.2025;AGT-0124;AL-0039;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0029;17.11.2025;AGT-0111;AL-0042;Entlastungspause angeordnet;Radeke, Timo;Zusaetzliche Kurzpause im laufenden Dienst
+M-0030;20.11.2025;AGT-0113;AL-0044;Schichtkuerzung;Radeke, Timo;Reduzierung der Schichtstunden im Folgemonat
+M-0032;22.11.2025;AGT-0120;AL-0046;Schichtkuerzung;Radeke, Timo;Reduzierung der Schichtstunden im Folgemonat
+M-0031;23.11.2025;AGT-0121;AL-0045;Team-Coaching Gespraechsfuehrung;Struckmeier, Pascal;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0033;29.11.2025;AGT-0103;AL-0048;Abmahnung;Struckmeier, Pascal;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0035;01.12.2025;AGT-0125;AL-0050;Team-Coaching Gespraechsfuehrung;Ohlsen, Verena;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0034;02.12.2025;AGT-0110;AL-0049;Schichtkuerzung;Radeke, Timo;Reduzierung der Schichtstunden im Folgemonat
+M-0036;02.12.2025;AGT-0125;AL-0051;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0037;05.12.2025;AGT-0120;AL-0053;Zielvereinbarung Gespraechskennzahlen;Radeke, Timo;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0038;08.12.2025;AGT-0104;AL-0054;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0041;08.12.2025;AGT-0116;AL-0057;Schichtkuerzung;Struckmeier, Pascal;Reduzierung der Schichtstunden im Folgemonat
+M-0039;09.12.2025;AGT-0116;AL-0055;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0040;09.12.2025;AGT-0108;AL-0056;Team-Coaching Gespraechsfuehrung;Struckmeier, Pascal;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0042;15.12.2025;AGT-0122;AL-0062;Abmahnung;Radeke, Timo;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0043;21.12.2025;AGT-0107;AL-0066;Zielvereinbarung Gespraechskennzahlen;Radeke, Timo;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0044;23.12.2025;AGT-0112;AL-0067;Schichtkuerzung;Radeke, Timo;Reduzierung der Schichtstunden im Folgemonat
+M-0047;26.12.2025;AGT-0125;AL-0070;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0045;27.12.2025;AGT-0113;AL-0068;Schichtkuerzung;Ohlsen, Verena;Reduzierung der Schichtstunden im Folgemonat
+M-0048;27.12.2025;AGT-0108;AL-0071;Schichtkuerzung;Ohlsen, Verena;Reduzierung der Schichtstunden im Folgemonat
+M-0046;28.12.2025;AGT-0116;AL-0069;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0049;01.01.2026;AGT-0111;AL-0073;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0052;01.01.2026;AGT-0110;AL-0076;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0053;03.01.2026;AGT-0113;AL-0077;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0050;04.01.2026;AGT-0118;AL-0074;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0051;04.01.2026;AGT-0109;AL-0075;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0054;06.01.2026;AGT-0101;AL-0078;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0055;09.01.2026;AGT-0111;AL-0081;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0056;10.01.2026;AGT-0111;AL-0082;Entlastungspause angeordnet;Ohlsen, Verena;Zusaetzliche Kurzpause im laufenden Dienst
+M-0057;12.01.2026;AGT-0117;AL-0083;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0058;19.01.2026;AGT-0108;AL-0085;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0059;19.01.2026;AGT-0120;AL-0088;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0060;24.01.2026;AGT-0118;AL-0089;Team-Coaching Gespraechsfuehrung;Struckmeier, Pascal;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0063;25.01.2026;AGT-0105;AL-0094;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0062;26.01.2026;AGT-0121;AL-0093;Zielvereinbarung Gespraechskennzahlen;Radeke, Timo;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0061;27.01.2026;AGT-0123;AL-0092;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0064;28.01.2026;AGT-0117;AL-0095;Abmahnung;Radeke, Timo;Abmahnung wegen wiederholt negativer Emotions- und Tonalitaetswerte
+M-0065;29.01.2026;AGT-0122;AL-0096;Empfehlung Betriebsarzt;Ohlsen, Verena;Empfehlung einer Vorstellung beim Betriebsarzt
+M-0066;01.02.2026;AGT-0124;AL-0099;Empfehlung Betriebsarzt;Ohlsen, Verena;Empfehlung einer Vorstellung beim Betriebsarzt
+M-0067;03.02.2026;AGT-0107;AL-0100;Schichtkuerzung;Struckmeier, Pascal;Reduzierung der Schichtstunden im Folgemonat
+M-0068;06.02.2026;AGT-0108;AL-0102;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0069;07.02.2026;AGT-0109;AL-0103;Team-Coaching Gespraechsfuehrung;Struckmeier, Pascal;Teilnahme am Gruppen-Coaching Gespraechsfuehrung
+M-0070;11.02.2026;AGT-0106;AL-0104;Leistungsgespraech;Ohlsen, Verena;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0072;14.02.2026;AGT-0103;AL-0107;Entlastungspause angeordnet;Radeke, Timo;Zusaetzliche Kurzpause im laufenden Dienst
+M-0071;15.02.2026;AGT-0101;AL-0106;Empfehlung Betriebsarzt;Ohlsen, Verena;Empfehlung einer Vorstellung beim Betriebsarzt
+M-0074;20.02.2026;AGT-0111;AL-0110;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0076;21.02.2026;AGT-0114;AL-0112;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0073;22.02.2026;AGT-0125;AL-0109;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0075;22.02.2026;AGT-0119;AL-0111;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0077;25.02.2026;AGT-0112;AL-0113;Leistungsgespraech;Struckmeier, Pascal;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0080;27.02.2026;AGT-0109;AL-0118;Zielvereinbarung Gespraechskennzahlen;Ohlsen, Verena;Schriftliche Zielvereinbarung zu AHT und Tonalitaet
+M-0078;28.02.2026;AGT-0110;AL-0115;Leistungsgespraech;Radeke, Timo;Gespraech ueber Gespraechsverhalten und Kennzahlen nach VoiceMood-Alert
+M-0079;01.03.2026;AGT-0112;AL-0116;Empfehlung Betriebsarzt;Struckmeier, Pascal;Empfehlung einer Vorstellung beim Betriebsarzt

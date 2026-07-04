@@ -1,0 +1,78 @@
+name: datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen
+beschreibung: >
+  Verdeckte Videoueberwachung im Packbereich eines Gelsenkirchener
+  Logistikbetriebs nach Inventurdifferenzen; ein Mitarbeiter wird beim
+  Einstecken von Ware gefilmt und fristlos gekuendigt. Prueffragen:
+  Beweisverwertung im Kuendigungsschutzprozess nach Paragraf 26 BDSG und
+  Artikel 5 und 6 DSGVO, Verhaeltnismaessigkeit verdeckter Ueberwachung,
+  Mitbestimmung nach Paragraf 87 Absatz 1 Nummer 6 BetrVG ohne
+  Betriebsvereinbarung, Beschwerde- und Bussgeldverfahren bei der LDI NRW
+  und Ansprueche weiterer gefilmter Beschaeftigter nach Artikel 82 DSGVO.
+pruefpunkte:
+  - id: p01-streubreite-aus-csv
+    beschreibung: >
+      Aus dem Kamera-Installationsprotokoll und dem Dienstplan muss die
+      Streubreite der Ueberwachung quantitativ hergeleitet werden.
+    erwartung: >
+      Erkannt wird, dass sechs Kameras vom 09.03.2026 bis 24.04.2026
+      durchgehend rund um die Uhr ueber 47 Tage aufzeichneten, dass die
+      Kameras K5 und K6 auch den Randbereich des Pausenraums sowie den
+      Spind- und Zeiterfassungsbereich erfassten und dass aus dem
+      Dienstplanabgleich neben Herrn Demirel 14 weitere unbeteiligte
+      Beschaeftigte (insgesamt fuenfzehn) dauerhaft im Bild waren.
+  - id: p02-verhaeltnismaessigkeit-26-bdsg
+    beschreibung: >
+      Die Zulaessigkeit der verdeckten Ueberwachung muss an Paragraf 26
+      Absatz 1 BDSG und den Grundsaetzen der DSGVO gemessen werden.
+    erwartung: >
+      Erkannt wird, dass ein durch Tatsachen begruendeter Verdacht gegen
+      eine bestimmte Person vor der Massnahme nicht bestand, dass mildere
+      Mittel nicht ausgeschoepft waren und dass die dauerhafte, in
+      Sozialbereiche hineinreichende Ueberwachung gegen Datenminimierung
+      (Artikel 5 Absatz 1 Buchstabe c DSGVO) und das Verhaeltnismaessig-
+      keitsgebot verstiess; im Ergebnis lag Unzulaessigkeit vor.
+  - id: p03-diskrepanz-punktuelle-ueberwachung
+    beschreibung: >
+      Der Widerspruch zwischen der Arbeitgeber-Stellungnahme und dem
+      Installationsprotokoll muss benannt werden.
+    erwartung: >
+      Erkannt wird, dass die Stellungnahme an die LDI NRW vom 08.06.2026
+      eine punktuelle, auf den Verdachtsbereich begrenzte Ueberwachung
+      ohne Erfassung von Pausen- und Sozialbereichen behauptet, waehrend
+      das vom Arbeitgeber selbst beigefuegte Installationsprotokoll sechs
+      Kameras, 24/7-Aufzeichnung und die Erfassung von Pausenraum und
+      Spinden ausweist und die Behauptung damit widerlegt.
+  - id: p04-beweisverwertungsverbot
+    beschreibung: >
+      Die Folgen der rechtswidrigen Ueberwachung fuer den
+      Kuendigungsschutzprozess muessen geprueft werden.
+    erwartung: >
+      Erkannt wird, dass aus der rechtswidrigen Beweiserhebung ein
+      Beweisverwertungsverbot folgen kann, dass die Kuendigung allein auf
+      die Aufzeichnung gestuetzt ist und dass ohne verwertbaren Beweis der
+      wichtige Grund nach Paragraf 626 Absatz 1 BGB nicht traegt; die
+      Klagefrist des Paragraf 4 KSchG (Zugang 30.04., Klage 12.05.) ist
+      gewahrt.
+  - id: p05-mitbestimmung-und-dsb
+    beschreibung: >
+      Die betriebsverfassungsrechtliche Ebene und die fehlende Einbindung
+      der Datenschutzbeauftragten muessen behandelt werden.
+    erwartung: >
+      Erkannt wird, dass die Einfuehrung der Ueberwachung der
+      Mitbestimmung nach Paragraf 87 Absatz 1 Nummer 6 BetrVG unterlag,
+      dass keine Betriebsvereinbarung bestand und der Betriebsrat nicht
+      beteiligt wurde, und dass die fehlende Einbindung der Datenschutz-
+      beauftragten (Artikel 38 DSGVO) sowie die unterbliebene
+      Datenschutz-Folgenabschaetzung (Artikel 35 DSGVO) eigenstaendige
+      Verstoesse sind.
+  - id: p06-schadensersatz-weitere-beschaeftigte
+    beschreibung: >
+      Die Ansprueche weiterer gefilmter Beschaeftigter nach Artikel 82
+      DSGVO muessen erkannt werden.
+    erwartung: >
+      Erkannt wird, dass die dauerhaft und ohne Verdacht gefilmten
+      vierzehn unbeteiligten Beschaeftigten immaterielle Schadensersatz-
+      ansprueche nach Artikel 82 DSGVO geltend machen koennen und dass der
+      Arbeitgeber den Verstosz zu vertreten hat, weil er die verdeckte
+      Vollabdeckung angeordnet, den Betriebsrat bewusst ausgeschlossen und
+      die Warnung der Datenschutzbeauftragten uebergangen hat.

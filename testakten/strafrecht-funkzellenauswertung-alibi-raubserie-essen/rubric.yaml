@@ -1,0 +1,90 @@
+name: strafrecht-funkzellenauswertung-alibi-raubserie-essen
+beschreibung: >
+  Haftsache der StA Essen wegen einer Raubserie auf drei
+  Spaetverkaufsstellen (17.04., 02.05. und 15.05.2026). Der Beschuldigte
+  beruft sich fuer alle drei Abende auf ein Alibi bei seiner Schwester in
+  Duisburg-Hochfeld; die Schwester bestaetigt pauschal. Die Bearbeitung
+  muss die Verkehrsdaten-CSV, die Taten-Uebersicht, den Fahrzeiten-Vermerk
+  und den WhatsApp-Export selbst zusammenfuehren und tatgenau
+  differenzieren, wo die Standortdaten belasten und wo sie entlasten.
+  Rechtlich zu pruefen sind die Voraussetzungen des Paragraf 100g StPO,
+  der Beweiswert von Zellen-Standortdaten und die Maengel der
+  Wahllichtbildvorlage.
+pruefpunkte:
+  - id: p01-standortdaten-je-tat
+    beschreibung: >
+      Die Standortlage muss fuer jede der drei Taten getrennt aus der CSV
+      rekonstruiert werden.
+    erwartung: >
+      Tat 1 (17.04., 21:12 Uhr): alle sieben Datensaetze in
+      Duisburg-Hochfeld, keine Ortsnaehe. Tat 2 (02.05., 21:38 Uhr): letzte
+      Duisburger Einbuchung 20:58 Uhr, 21:14 Uhr Muelheim (A40-Route), von
+      21:31 bis 21:52 Uhr vier Datenverbindungen in Zelle 31544-E7 circa
+      350 Meter vom Tatort, ab 22:24 Uhr wieder Duisburg. Tat 3 (15.05.,
+      22:05 bis 22:09 Uhr): durchgehend Duisburg, Einbuchungen 21:58, 22:04
+      und 22:31 Uhr; das Geraet war zur Tatzeit nachweislich nicht am
+      Tatort. Eine Bearbeitung, die pauschal von Belastung oder Entlastung
+      fuer alle drei Taten spricht, verfehlt den Kern.
+  - id: p02-fahrzeiten-und-verkehrsmittel
+    beschreibung: >
+      Die Bewegungsluecken muessen mit dem Fahrzeiten-Vermerk abgeglichen
+      und auf das Verkehrsmittel hin ausgewertet werden.
+    erwartung: >
+      Hinweg 20:58 bis 21:31 Uhr (33 Minuten) und Rueckweg 21:52 bis 22:24
+      Uhr (32 Minuten) am 02.05. passen zur Pkw-Fahrt ueber die A40 (24 bis
+      30 Minuten), nicht zum OePNV (48 bis 57 Minuten); die Bearbeitung
+      verknuepft dies mit dem fehlenden Fuehrerschein des Beschuldigten und
+      dem frei zugaenglichen Polo der Schwester und benennt die groesste
+      Luecke am 15.05. (21:15 bis 21:58 Uhr, 43 Minuten) als fuer eine
+      Hin- und Rueckfahrt unzureichend.
+  - id: p03-diskrepanz-alibi-whatsapp
+    beschreibung: >
+      Der Widerspruch zwischen der pauschalen Alibibestaetigung der
+      Schwester und dem Chatverlauf muss aufgedeckt werden.
+    erwartung: >
+      Die Aussage vom 08.06.2026 (durchgehend, ohne jede Unterbrechung
+      zusammen im Wohnzimmer) kollidiert mit den Nachrichten vom
+      02.05.2026: 21:47 Uhr Beschuldigter bin gleich wieder da (gesendet
+      aus der Tatortzelle laut CSV), 22:19 Uhr Schwester wo bleibst du
+      denn, 22:26 Uhr bin unten mach auf. Die Bearbeitung folgert, dass das
+      Alibi fuer den 02.05. widerlegt und die Glaubhaftigkeit der Zeugin
+      insgesamt gemindert ist, ohne daraus automatisch die Unrichtigkeit
+      des Alibis fuer den 15.05. abzuleiten.
+  - id: p04-100g-stpo-voraussetzungen
+    beschreibung: >
+      Die Rechtmaessigkeit der Verkehrsdatenerhebung muss normbezogen
+      geprueft werden.
+    erwartung: >
+      Pruefung von Paragraf 100g Abs. 1 und Abs. 2 StPO (besonders schwere
+      Katalogtat: besonders schwerer Raub nach Paragraf 250 Abs. 2 StGB,
+      Schwere auch im Einzelfall), Subsidiaritaet und Verhaeltnismaessigkeit
+      (drei eng umgrenzte Zeitfenster, nur der Anschluss des Beschuldigten),
+      Richtervorbehalt und Verfahrenssicherungen nach Paragraf 101a StPO
+      einschliesslich Benachrichtigungspflicht; keine Zitate erfundener
+      Gerichtsentscheidungen.
+  - id: p05-lichtbildvorlage-maengel
+    beschreibung: >
+      Die Maengel des Wiedererkennungsverfahrens muessen identifiziert und
+      in ihrer Beweiswertfolge bewertet werden.
+    erwartung: >
+      Benannt werden die Einzelbildvorzeigung vom 20.05.2026 vor der
+      eigentlichen Vorlage, die Wiederholungsgefahr (Zeuge: dasselbe Foto
+      oder ein aehnliches) und die suggestive Zusammensetzung (nur das Bild
+      des Beschuldigten zeigt eine Halstaetowierung, abweichende
+      Bartbilder); Folge ist ein erheblich geminderter, nicht zwingend
+      vollstaendig entfallender Beweiswert; die Anregung einer korrekt
+      aufgebauten sequenziellen Gegenueberstellung wird positiv gewertet.
+  - id: p06-differenzierte-gesamtwuerdigung
+    beschreibung: >
+      Die Gesamtwuerdigung muss die personenungebundene Natur der
+      Geraetedaten konsequent durchhalten.
+    erwartung: >
+      Die Bearbeitung erkennt das Entweder-Oder-Argument der Verteidigung
+      (Seriennachweis kollidiert mit Entlastung fuer Tat 3) und loest es
+      differenziert auf: Standortdaten belegen den Ort des Geraets, nicht
+      der Person; moegliche Szenarien (Zuruecklassen des Geraets,
+      Mittaeter, anderer Taeter bei Tat 3 trotz Presse-Nachahmungseffekt)
+      werden erwogen; die Beute von insgesamt 3089.10 EUR und die
+      Haftfrage (dringender Tatverdacht je Tat, Fluchtgefahr,
+      Verhaeltnismaessigkeit) werden tatbezogen und nicht pauschal
+      beurteilt.

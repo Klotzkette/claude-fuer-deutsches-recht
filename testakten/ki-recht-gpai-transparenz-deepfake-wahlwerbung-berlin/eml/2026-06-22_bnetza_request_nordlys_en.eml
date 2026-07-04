@@ -1,0 +1,58 @@
+From: "Bundesnetzagentur - AI Market Surveillance Unit" <ki-marktueberwachung@bnetza.de>
+To: "Nordlys Model Works ApS - Legal" <legal@nordlys-models.dk>
+Cc: "Digitaliseringsstyrelsen - AI Supervision" <ai-tilsyn@digst.dk>
+Date: Mon, 22 Jun 2026 11:05:48 +0200
+Subject: Request for information - Regulation (EU) 2024/1689 - Case KI-MUE-2026/0233 - Nordlys Vision 3 / provenance marking (deadline 6 July 2026)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Sir or Madam,
+
+The Bundesnetzagentur, acting as the German market surveillance
+authority for AI systems, is investigating the creation and
+dissemination of two photorealistic deepfake videos of a German
+mayoral candidate (case no. KI-MUE-2026/0233). The videos were
+generated with your model "Nordlys Vision 3" through the downstream
+service "SzenenWerk Studio" operated by Kampagnenschmiede GmbH,
+Berlin. According to the evidence before us, the C2PA provenance
+signature and the visible watermark embedded by your model were
+removed at export stage, and the videos were published without any
+marking.
+
+In coordination with the competent Danish authority (in copy), and
+with reference to the cooperation obligations of providers of
+general-purpose AI models under Regulation (EU) 2024/1689, we
+kindly ask you to provide, by 6 July 2026:
+
+1. The generation logs of the API jobs NLV3-88412, NLV3-88467,
+NLV3-88529 and NLV3-88603 (26 May to 1 June 2026), including any
+policy notices issued to the integrator or end user.
+
+2. A copy of your integrator agreement (tier "Studio") with
+Kampagnenschmiede GmbH, in particular the clauses implementing
+section 3.2 of your Acceptable Use Policy (removal of markings only
+against equivalent substitute marking), and a description of how
+compliance with these clauses is monitored and enforced in
+practice.
+
+3. Information on whether your systems detected the removal of the
+provenance marking in this case, and on any measures taken against
+the integrator since.
+
+4. The current version of your training-content summary and
+copyright policy published under Article 53 of Regulation (EU)
+2024/1689, together with information on the data sources relevant
+to photorealistic renditions of real persons. Please note that the
+exact scope of the applicable provisions is subject to official
+verification in view of pending EU omnibus amendments.
+
+Please quote our case number in all correspondence. This request is
+addressed to you as a voluntary cooperation request; we reserve
+formal measures through the competent authorities.
+
+Yours faithfully,
+
+Dr. Joerg Battenfeld
+Oberregierungsrat
+Bundesnetzagentur, AI Market Surveillance Unit
+Tulpenfeld 4, 53113 Bonn, Germany

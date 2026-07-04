@@ -1,0 +1,65 @@
+Microsoft-Teams-Chat-Export (Auszug)
+Kanal: Teamleitung Bonn - intern
+Exportiert am: 24.03.2026 auf Anforderung der Geschaeftsfuehrung
+(Beweissicherung Verfahren KI-MUE-2026/0147)
+Zeitraum: 07.01.2026 bis 30.01.2026
+
+[07.01.2026 08:52] Timo Radeke:
+Morgen zusammen. Reminder: Monatsauswertung VoiceMood fuer Dezember
+ist im Dashboard. Bitte bis Freitag je Team die drei Agents mit den
+schlechtesten Emotionswerten raussuchen und Gespraechstermine
+machen.
+
+[07.01.2026 09:03] Verena Ohlsen:
+Machen wir. Kleiner Einwand: In der Schulung hiess es doch, das
+Tool sei fuer Fuersorge gedacht, nicht fuer Rankings?
+
+[07.01.2026 09:07] Timo Radeke:
+Die Folien vom Vertrieb waren da deutlich: objektive Grundlage fuer
+Zielvereinbarungen. Steinbuechel will die AHT runter, und das ist
+das Werkzeug dafuer. Fuersorge schliesst ja nicht aus, dass wir
+Klartext reden.
+
+[12.01.2026 17:41] Timo Radeke:
+Leistungsgespraech K. (AGT-0117) erledigt. Emotionsprofil Dezember
+und Alert vom 09.01. vorgelegt. Sie war uneinsichtig ("das Tool
+versteht meinen Akzent nicht"). Beobachten wir weiter.
+
+[13.01.2026 10:15] Pascal Struckmeier:
+Frage: Hat schon mal jemand einen Alert an den Betriebsarzt
+weitergegeben? Ich finde dafuer gar keinen Prozess im Wiki.
+
+[13.01.2026 10:22] Verena Ohlsen:
+Gibt keinen. Ich hatte im November zwei Agents mit "Erschoepfung"
+rot, habe denen von mir aus eine Pause gegeben. Mehr geht ja nicht,
+Betriebsarzt ist nur alle sechs Wochen im Haus.
+
+[13.01.2026 10:31] Timo Radeke:
+Pausen bitte sparsam, das reisst uns die Erreichbarkeit runter.
+Faustregel: Wenn VoiceMood dreimal rot zeigt, gibt es ein
+Personalgespraech, keine Kuschelrunde.
+
+[26.01.2026 11:58] Timo Radeke:
+AGT-0117 heute wieder Alert "Aerger" mit 88. Das ist der vierte
+seit November. Ich stimme mit HR eine Abmahnung ab, Faktenlage ist
+ja sauber dokumentiert.
+
+[26.01.2026 12:05] Verena Ohlsen:
+Bist du sicher, dass wir eine Abmahnung auf die Emotionswerte
+stuetzen koennen? Das Handbuch sagt ausdruecklich, das Tool ist
+keine Leistungskontrolle.
+
+[26.01.2026 12:09] Timo Radeke:
+Das Handbuch hat der Kunde geschrieben, der den Betriebsrat
+beruhigen musste :) Im Ernst: HR sagt, solange wir auch das
+Gespraechsverhalten anfuehren, ist das ok. Die Werte sind ja nur
+die objektive Untermauerung.
+
+[30.01.2026 09:12] Pascal Struckmeier:
+FYI, der Betriebsrat hat sich beschwert und die Zustimmung
+widerrufen. Bitte Auswertungen vorerst nicht mehr per Mail
+verschicken, nur noch im Dashboard ansehen.
+
+[30.01.2026 09:20] Timo Radeke:
+Danke fuer den Hinweis. Gespraechstermine laufen aber weiter, bis
+von oben etwas anderes kommt.

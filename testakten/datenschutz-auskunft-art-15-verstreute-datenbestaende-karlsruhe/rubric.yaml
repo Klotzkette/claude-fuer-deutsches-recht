@@ -1,0 +1,76 @@
+name: datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe
+beschreibung: >
+  Auskunftsverlangen eines ehemaligen Vertriebsmitarbeiters nach
+  Artikel 15 DSGVO gegen ein Karlsruher Softwarehaus zur Vorbereitung
+  eines Kuendigungsschutz-Folgeprozesses. Prueffragen: Umfang des
+  Auskunfts- und Kopieanspruchs nach Artikel 15 Absatz 1 und 3 DSGVO,
+  Behandlung von Beurteilungen, Vermerken und E-Mails ueber den
+  Betroffenen, Grenzen aus Rechten Dritter nach Artikel 15 Absatz 4
+  DSGVO, Exzess-Einwand nach Artikel 12 Absatz 5 DSGVO. Der Umfang ist
+  aus verstreuten System-Verzeichnissen zu bestimmen.
+pruefpunkte:
+  - id: p01-umfang-aus-verzeichnissen
+    beschreibung: >
+      Aus CRM-Export, HR-Aktenverzeichnis, E-Mail-Trefferliste,
+      Ticketliste und Backup-Vermerk muss selbststaendig bestimmt werden,
+      welche Daten auskunfts- und kopiepflichtig sind.
+    erwartung: >
+      Erkannt wird, dass alle den Betroffenen betreffenden Daten
+      unabhaengig vom System erfasst sind: 124 CRM-Kontaktnotizen und 23
+      Leistungs-Scores, 24 HR-Positionen einschliesslich Beurteilungen
+      und Vermerken, 86 E-Mail-Treffer (44 von ihm, 33 an ihn, 9 ueber
+      ihn) und 19 Ticketvorgaenge. Beurteilungen, interne Vermerke und
+      E-Mails ueber den Betroffenen sind einzubeziehen; die Sicherungs-
+      baender muessen nicht zu Auskunftszwecken durchsucht werden, sind
+      aber zu erwaehnen.
+  - id: p02-fehlende-kategorien-abgleich
+    beschreibung: >
+      Die erteilte Auskunft muss gegen die Verzeichnisse abgeglichen und
+      die fehlenden Kategorien identifiziert werden.
+    erwartung: >
+      Erkannt wird, dass die Auskunft vom 08.04.2026 genau zwei
+      Kategorien auslaesst: die 23 quartalsweisen Leistungs-Scores im CRM
+      (Feld MA_Score, Werte 2025 fallend von zwei auf eins) und die
+      Verteiler-E-Mail vom 24.11.2025 an drei Kollegen (Kategorie
+      ueber_ihn in der Trefferliste); zusaetzlich fehlt der Entwurf der
+      Beurteilung 2025.
+  - id: p03-diskrepanz-vollstaendigkeit
+    beschreibung: >
+      Der Widerspruch zwischen der Erklaerung der Vollstaendigkeit und der
+      Aktenlage muss benannt werden.
+    erwartung: >
+      Erkannt wird, dass das Unternehmen die Auskunft als vollstaendig
+      bezeichnet, waehrend der interne Trefferbericht der IT vom
+      19.03.2026 und die E-Mail der Vertriebsleitung vom 24.03.2026
+      belegen, dass beide Kategorien gefunden und bewusst weggelassen
+      wurden; der WhatsApp-Chat bestaetigt die Existenz der Verteiler-Mail
+      und der Scores.
+  - id: p04-rechte-dritter-schwaerzung
+    beschreibung: >
+      Die Grenzen aus Artikel 15 Absatz 4 DSGVO muessen zutreffend
+      angewendet werden.
+    erwartung: >
+      Erkannt wird, dass Rechte Dritter allenfalls die Schwaerzung der
+      Drittangaben (Namen der drei Empfaenger) rechtfertigen, nicht die
+      vollstaendige Zurueckhaltung der Verteiler-Mail; die pauschale
+      Ablehnung des Unternehmens ist unzulaessig, weil der den Betroffenen
+      betreffende Inhalt herauszugeben ist.
+  - id: p05-exzess-und-motiv
+    beschreibung: >
+      Der Exzess-Einwand und die Bedeutung des Prozessvorbereitungs-Motivs
+      muessen gewuerdigt werden.
+    erwartung: >
+      Erkannt wird, dass ein einmaliges, klar umrissenes Auskunftsverlangen
+      nicht nach Artikel 12 Absatz 5 DSGVO exzessiv ist und dass das Motiv
+      der Vorbereitung eines arbeitsgerichtlichen Verfahrens fuer den
+      Anspruch unerheblich ist.
+  - id: p06-schadensersatz-art82
+    beschreibung: >
+      Der Anspruch auf immateriellen Schadensersatz nach Artikel 82 DSGVO
+      und das Verschulden muessen geprueft werden.
+    erwartung: >
+      Erkannt wird, dass die unvollstaendige und wahrheitswidrig als
+      vollstaendig bezeichnete Auskunft einen ersatzfaehigen immateriellen
+      Schaden begruenden kann und dass das Unternehmen den Verstosz zu
+      vertreten hat, weil es sich ueber die ausdrueckliche Empfehlung des
+      eigenen Datenschutzbeauftragten hinweggesetzt hat.

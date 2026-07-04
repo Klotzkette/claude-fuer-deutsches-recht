@@ -1,0 +1,4 @@
+tat_nr,datum,wochentag,uhrzeit_beginn,uhrzeit_ende,objekt,adresse,stadtteil,beute_bargeld_eur,beute_waren_stueck,beute_waren_einzelwert_eur,beute_waren_eur,beute_gesamt_eur,tatwaffe,zeuge
+1,2026-04-17,Freitag,21:12,21:15,Trinkhalle Wichmann,"Altendorfer Str. 448, 45143 Essen",Altendorf,485.00,37,8.50,314.50,799.50,Messer,Renate Wichmann
+2,2026-05-02,Samstag,21:38,21:41,Kiosk Bulut,"Frohnhauser Str. 271, 45144 Essen",Frohnhausen,812.00,24,9.90,237.60,1049.60,Messer,Ercan Bulut
+3,2026-05-15,Freitag,22:05,22:09,City-Spaeti,"Gemarkenstr. 132, 45147 Essen",Holsterhausen,1240.00,0,0.00,0.00,1240.00,Messer,Milan Petrovic

@@ -1,0 +1,27 @@
+name: strafrecht-verstaendigung-257c-bandenhehlerei-wuppertal
+description: Verstaendigung nach Paragraf 257c StPO in einer Bandenhehlerei-Sache vor dem LG Wuppertal mit Rekonstruktion der Verstaendigungs-Chronologie aus E-Mails und Protokollen, fehlender Belehrungs-Protokollierung, Beweiskraft des Protokolls und Loesung des Gerichts nach neuen Erkenntnissen.
+
+pruefpunkte:
+  - id: p1-chronologie-rekonstruktion
+    beschreibung: Die Verstaendigungs-Chronologie ist ueber E-Mails, Eroerterungsvermerk und Protokolle verstreut. Wird sie vollstaendig und in der richtigen Reihenfolge zusammengesetzt?
+    erwartung: Der Bearbeiter rekonstruiert die Kette Sondierungs-E-Mail der Verteidigung vom 16.03.2026, Antwort der StA vom 20.03.2026 (Rahmen zwei Jahre sechs Monate bis drei Jahre zwei Monate), E-Mail an die Kammer vom 30.03.2026, Eroerterung nach Paragrafen 202a und 212 StPO am 27.03.2026 mit Vermerk, Mitteilung nach Paragraf 243 Abs. 4 Satz 1 StPO und Verstaendigung am 28.04.2026, Negativattest am 12.05.2026, und erkennt, dass die E-Mail vom 30.03.2026 zeitlich NACH der Eroerterung vom 27.03.2026 liegt und ebenfalls von der Mitteilungspflicht erfasst ist.
+
+  - id: p2-foermlichkeiten-belehrung-fehlt
+    beschreibung: Datenauswertungs-Kern: Aus dem Protokoll des 1. Sitzungstages muss abgeglichen werden, welche Foermlichkeiten des Verstaendigungsverfahrens dokumentiert sind und welche fehlen.
+    erwartung: Der Bearbeiter prueft anhand des Protokolls vom 28.04.2026 die Kette Mitteilung nach Paragraf 243 Abs. 4 (Ziffer 3), Vorschlag nach Paragraf 257c Abs. 3 (Ziffer 6), Gelegenheit zur Stellungnahme (Ziffer 7), Zustimmungen (Ziffern 8 und 9), Protokollierung der Verstaendigung nach Paragraf 273 Abs. 1a Satz 1 (Ziffer 10) und stellt fest, dass die Belehrung nach Paragraf 257c Abs. 5 StPO an keiner Stelle protokolliert ist, obwohl sie nach Paragraf 273 Abs. 1a Satz 2 StPO zu protokollieren waere.
+
+  - id: p3-diskrepanz-vermerk-protokoll
+    beschreibung: Der Kammervermerk vom 29.04.2026 behauptet eine muendlich erteilte Belehrung, das Protokoll schweigt. Wird der Widerspruch erkannt und ueber Paragraf 274 StPO aufgeloest?
+    erwartung: Der Bearbeiter benennt die Diskrepanz ausdruecklich, erklaert die negative Beweiskraft des Protokolls nach Paragraf 274 Satz 1 StPO (das Schweigen des Protokolls beweist das Unterbleiben der Belehrung), ordnet ein, dass der Vermerk die Beweiskraft nicht ueberwinden kann, und diskutiert die Moeglichkeit einer Protokollberichtigung bei uebereinstimmender sicherer Erinnerung der Urkundspersonen als einzigen gangbaren Weg der Gegenseite.
+
+  - id: p4-loesungsvoraussetzungen
+    beschreibung: Die Kammer will sich wegen des neu entdeckten Erwerbsvorgangs vom 24.10.2025 von der Verstaendigung loesen. Werden die Voraussetzungen des Paragraf 257c Abs. 4 Satz 1 StPO sauber geprueft?
+    erwartung: Der Bearbeiter arbeitet beide Argumentationslinien heraus: einerseits die Verteidigungsposition, dass eine nicht angeklagte neue Tat die Schuldangemessenheit des Rahmens fuer die angeklagten Faelle nicht beruehrt; andererseits die Position von StA und Kammerentwurf, dass die Grundlage der Zusage ein vollstaendiges, aufklaerungsbereites Gestaendnis war und die ausdrueckliche Erklaerung, es habe keine weiteren Ankaeufe gegeben, sich als falsch erwiesen hat. Beide Linien werden aus dem Wortlaut des Paragraf 257c Abs. 4 StPO entwickelt, ohne Gerichtsentscheidungen mit Aktenzeichen zu zitieren.
+
+  - id: p5-verwertungsverbot-reichweite
+    beschreibung: Streit um die Reichweite des Verwertungsverbots nach Paragraf 257c Abs. 4 Satz 3 StPO fuer das Gestaendnis, auch mit Blick auf das neue Verfahren 26 Js 902/26.
+    erwartung: Der Bearbeiter stellt klar, dass das Gestaendnis einschliesslich der schriftlichen Erklaerung (Anlage 1 zum Protokoll) bei einer Loesung nicht verwertet werden darf, diskutiert die umstrittene Fernwirkung beziehungsweise mittelbare Verwertung als Ermittlungsansatz oder Vorhalt, und grenzt davon unabhaengig gewonnene Beweismittel (Chat-Export, Plattform- und Kontodaten, Observation) ab, die dem Verbot nicht unterfallen.
+
+  - id: p6-zahlenwerk-beute
+    beschreibung: Datenauswertung mit konkreten Werten: Beuteliste und Plattform-Auszahlungen muessen rechnerisch nachvollzogen und mit Anklage und Gestaendnis abgeglichen werden.
+    erwartung: Der Bearbeiter rechnet nach, dass die zwoelf Faelle 209 Teile, Ankaufspreise von 61.200 EUR und Verkaufserloese von 182.650 EUR ergeben, dass die Plattform nach Abzug der Gebuehr von acht Prozent (14.612 EUR) genau 168.038 EUR ausgezahlt hat, und ordnet ein, dass sich der Einziehungsantrag nach dem Bruttoprinzip auf den vollen Erloes von 182.650 EUR richtet und nicht auf den Auszahlungsbetrag oder den Gewinn von 121.450 EUR.

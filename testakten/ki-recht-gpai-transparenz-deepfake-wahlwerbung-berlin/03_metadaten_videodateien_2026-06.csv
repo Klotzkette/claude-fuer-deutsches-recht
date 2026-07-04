@@ -1,0 +1,7 @@
+Dateiname;Erstellt_UTC;Generator_Signatur;C2PA_Provenance;Sichtbares_Wasserzeichen;Exportprofil;Bearbeitet_von;Dauer_Sekunden;SHA256_Kurz
+hb_gen_take01.mp4;2026-05-26 09:14:32;Nordlys Vision 3 via SzenenWerk Studio 2.1 (API-Job NLV3-88412);vorhanden (Nordlys-Signatur);ja (Ecke unten rechts);raw_generation;s.odenthal@spreekontor-kommunikation.de;34;9f3a71c2
+hb_gen_take02.mp4;2026-05-27 14:02:11;Nordlys Vision 3 via SzenenWerk Studio 2.1 (API-Job NLV3-88467);vorhanden (Nordlys-Signatur);ja (Ecke unten rechts);raw_generation;s.odenthal@spreekontor-kommunikation.de;41;b04e55d1
+hb_gen_take03.mp4;2026-05-29 10:48:57;Nordlys Vision 3 via SzenenWerk Studio 2.1 (API-Job NLV3-88529);vorhanden (Nordlys-Signatur);ja (Ecke unten rechts);raw_generation;j.pankratz@spreekontor-kommunikation.de;38;7c19e0aa
+hb_gen_take04.mp4;2026-06-01 16:26:40;Nordlys Vision 3 via SzenenWerk Studio 2.1 (API-Job NLV3-88603);vorhanden (Nordlys-Signatur);ja (Ecke unten rechts);raw_generation;j.pankratz@spreekontor-kommunikation.de;44;e881c37f
+hb_kandidat_baustelle_v2.mp4;2026-06-02 12:22:05;SzenenWerk Studio 2.1 Export (Quelle: Take01+Take02);nicht vorhanden (durch Exportprofil entfernt);nein;clean_master (Metadaten- und Markerentfernung);s.odenthal@spreekontor-kommunikation.de;46;31d8a9c4
+hb_kandidat_rathausrede_v1.mp4;2026-06-02 14:47:52;SzenenWerk Studio 2.1 Export (Quelle: Take03+Take04);nicht vorhanden (durch Exportprofil entfernt);nein;clean_master (Metadaten- und Markerentfernung);s.odenthal@spreekontor-kommunikation.de;52;5fbb2e90

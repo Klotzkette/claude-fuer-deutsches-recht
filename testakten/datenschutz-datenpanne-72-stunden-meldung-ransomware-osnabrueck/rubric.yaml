@@ -1,0 +1,84 @@
+name: datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck
+beschreibung: >
+  Datenpanne nach Ransomware mit Exfiltration bei einem Osnabruecker
+  Versandhaendler mit rund zweihundertvierzigtausend Kundenkonten.
+  Prueffragen: Beginn der Zweiundsiebzig-Stunden-Frist nach Artikel 33
+  Absatz 1 DSGVO (Kenntnis), Rechtzeitigkeit und Vollstaendigkeit der
+  Meldung, Erforderlichkeit der Betroffenenbenachrichtigung bei hohem
+  Risiko nach Artikel 34 DSGVO. Der Kenntniszeitpunkt ist aus SIEM-Export,
+  Ticketsystem und Krisen-Chat zu rekonstruieren.
+pruefpunkte:
+  - id: p01-kenntniszeitpunkt-rekonstruktion
+    beschreibung: >
+      Der maszgebliche Kenntniszeitpunkt muss aus dem Zusammenspiel von
+      SIEM-Export, Ticketsystem-Export und Krisen-Chat selbststaendig
+      hergeleitet werden.
+    erwartung: >
+      Erkannt wird, dass der erste kritische Alarm am Freitag 12.06.2026
+      um 22:14 Uhr auftrat und um 23:41 Uhr als Fehlalarm geschlossen
+      wurde, dass am Samstag 13.06.2026 um 09:47 Uhr die vollstaendige
+      Verschluesselung des Kernbestands feststand und der IT-Leiter dies
+      im Chat bestaetigte, und dass die Exfiltration erst am Montag
+      15.06.2026 um 09:30 Uhr forensisch belegt war. Als massgeblicher
+      Kenntniszeitpunkt der Verletzung wird spaetestens Samstagvormittag
+      erkannt, weil bereits der Verlust der Verfuegbarkeit eine Verletzung
+      nach Artikel 4 Nummer 12 DSGVO ist.
+  - id: p02-fristberechnung-minutengenau
+    beschreibung: >
+      Die Zweiundsiebzig-Stunden-Frist muss fuer die verschiedenen
+      Anknuepfungspunkte minutengenau berechnet und gegen den
+      Meldezeitpunkt gestellt werden.
+    erwartung: >
+      Berechnet wird: Anknuepfung Samstag 13.06. fuehrt zu Fristablauf
+      Dienstag 16.06. und einer Verspaetung von rund neunundzwanzig
+      Stunden; Anknuepfung an den kritischen Alarm Freitag 22:14 Uhr
+      fuehrt zu Fristablauf Montag 15.06. 22:14 Uhr und einer Verspaetung
+      von rund zweiundvierzig Stunden; nur die vom Unternehmen gewaehlte
+      Anknuepfung Montag 15.06. 09:30 Uhr fuehrt rechnerisch zu
+      Fristablauf Donnerstag 18.06. 09:30 Uhr und damit scheinbar zur
+      Rechtzeitigkeit. Die Meldung erfolgte Mittwoch 17.06.2026 um
+      16:45 Uhr.
+  - id: p03-diskrepanz-kenntnis-erst-montag
+    beschreibung: >
+      Der Widerspruch zwischen der Meldung und der Aktenlage muss benannt
+      werden.
+    erwartung: >
+      Erkannt wird, dass die Meldung nach Artikel 33 DSGVO Kenntnis erst
+      am Montag 15.06.2026 behauptet, waehrend der Krisen-Chat belegt,
+      dass der IT-Leiter die vollstaendige Verschluesselung bereits am
+      Samstag 13.06.2026 um 09:47 Uhr kannte und der Datenschutz-
+      beauftragte um 11:31 Uhr auf den Fristbeginn hinwies; die
+      Geschaeftsfuehrung wies eine fruehere Meldung ausdruecklich zurueck.
+  - id: p04-erforderlichkeit-betroffenenbenachrichtigung
+    beschreibung: >
+      Die Erforderlichkeit der Benachrichtigung nach Artikel 34 DSGVO und
+      die Maengel des Entwurfs muessen geprueft werden.
+    erwartung: >
+      Erkannt wird, dass wegen des Abflusses von Namen, Adressen und bei
+      sechsundneunzigtausendvierhundert Konten der Bankverbindung sowie
+      der Veroeffentlichung erster Datensaetze ein hohes Risiko besteht
+      und die Benachrichtigung erforderlich ist; die Maengel des Entwurfs
+      (fehlende Datenkategorien, fehlende Kontaktdaten des DSB, fehlende
+      Handlungsempfehlungen, verharmlosende Sprache) werden benannt.
+  - id: p05-tom-und-artikel-32
+    beschreibung: >
+      Die technischen und organisatorischen Masznahmen muessen an
+      Artikel 32 DSGVO gemessen werden.
+    erwartung: >
+      Aus der TOM-Liste werden die zentralen Defizite abgeleitet: keine
+      Mehrfaktor-Authentisierung am VPN, keine Netzsegmentierung, nur
+      Online-Backup im selben Netzsegment, keine Verschluesselung at rest,
+      keine schriftliche Eskalationsmatrix fuer kritische Alarme; diese
+      werden als mitursaechlich fuer den Vorfall und als eigenstaendiger
+      Verstosz gegen Artikel 32 DSGVO eingeordnet.
+  - id: p06-vollstaendigkeit-und-kooperation
+    beschreibung: >
+      Die Vollstaendigkeit der Erstmeldung und die Rolle der Nachmeldung
+      muessen gewuerdigt werden.
+    erwartung: >
+      Erkannt wird, dass die Erstmeldung Angaben zu Erstzugang und
+      Abflussumfang vermissen liesz und diese erst mit der Nachmeldung
+      nach Artikel 33 Absatz 4 DSGVO nachgereicht wurden; die Verspaetung
+      und das Festhalten an einer unzutreffenden Kenntnisangabe werden als
+      belastend, die Sofortmasznahmen und die Kooperation als mildernd
+      eingeordnet.
