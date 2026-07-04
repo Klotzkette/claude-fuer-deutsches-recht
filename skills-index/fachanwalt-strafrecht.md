@@ -1,6 +1,6 @@
 # fachanwalt-strafrecht
 
-**240 Skills** · Stand `v422.0.0`
+**240 Skills** · Stand `v423.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-strafrecht/README.md)

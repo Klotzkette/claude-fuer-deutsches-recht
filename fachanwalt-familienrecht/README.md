@@ -1,5 +1,35 @@
 # Fachanwalt Familienrecht
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-familienrecht`) | [`fachanwalt-familienrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Elternunterhalt Markus Reinhold — Sozialamtsregress für Heimkosten der Mutter Hildegard Reinhold (Angehörigen-Entlastungsgesetz)** (`elternunterhalt-pflegeheim-sozialamtsregress-aachen`) | [Gesamt-PDF lesen](../testakten/elternunterhalt-pflegeheim-sozialamtsregress-aachen/gesamt-pdf/elternunterhalt-pflegeheim-sozialamtsregress-aachen_gesamt.pdf) | [`testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-elternunterhalt-pflegeheim-sozialamtsregress-aachen.zip) |
+| **Familienrecht — Sorge, Umgang und Gewaltschutz in Essen** (`familienrecht-sorge-umgang-gewaltschutz-essen`) | [Gesamt-PDF lesen](../testakten/familienrecht-sorge-umgang-gewaltschutz-essen/gesamt-pdf/familienrecht-sorge-umgang-gewaltschutz-essen_gesamt.pdf) | [`testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-sorge-umgang-gewaltschutz-essen.zip) |
+| **Neumann ./. Neumann - Unterhalt, Betreuung, Wohnwert und Zugewinn** (`familienrecht-unterhalt-zugewinn-bad-nauheim`) | [Gesamt-PDF lesen](../testakten/familienrecht-unterhalt-zugewinn-bad-nauheim/gesamt-pdf/familienrecht-unterhalt-zugewinn-bad-nauheim_gesamt.pdf) | [`testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-unterhalt-zugewinn-bad-nauheim.zip) |
+| **Familienrecht — Wechselmodell, Unterhalt und selbstständiges Einkommen in Kiel** (`familienrecht-wechselmodell-unterhalt-selbststaendige-kiel`) | [Gesamt-PDF lesen](../testakten/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel/gesamt-pdf/familienrecht-wechselmodell-unterhalt-selbststaendige-kiel_gesamt.pdf) | [`testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-wechselmodell-unterhalt-selbststaendige-kiel.zip) |
+| **Familienrecht — Zugewinn, Ferienwohnung und digitale Vermögenswerte in Passau** (`familienrecht-zugewinn-kryptowerte-ferienwohnung-passau`) | [Gesamt-PDF lesen](../testakten/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau/gesamt-pdf/familienrecht-zugewinn-kryptowerte-ferienwohnung-passau_gesamt.pdf) | [`testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-familienrecht-zugewinn-kryptowerte-ferienwohnung-passau.zip) |
+| **Nachehelicher Unterhalt Voßkamp — Herabsetzung und Befristung nach Paragraf 1578b BGB** (`nachehelicher-unterhalt-befristung-1578b-muenster`) | [Gesamt-PDF lesen](../testakten/nachehelicher-unterhalt-befristung-1578b-muenster/gesamt-pdf/nachehelicher-unterhalt-befristung-1578b-muenster_gesamt.pdf) | [`testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachehelicher-unterhalt-befristung-1578b-muenster.zip) |
+| **Scheidung Hanna Trüffelberch / Franz Trüffelberch — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidungsdrama`) | [Gesamt-PDF lesen](../testakten/scheidungsdrama/gesamt-pdf/scheidungsdrama_gesamt.pdf) | [`testakte-scheidungsdrama.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidungsdrama.zip) |
+| **Digitales Stalking und Kontaktverbot Hannover** (`strafrecht-stalking-digitales-kontaktverbot-hannover`) | [Gesamt-PDF lesen](../testakten/strafrecht-stalking-digitales-kontaktverbot-hannover/gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf) | [`testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip) |
+| **Unterhalt Mira Aiblinger ./. Tobias Aiblinger — vollständige Zahlen, Trennungsunterhalt, nacheheliche Varianten** (`unterhalt-berechnungsakte-vollstaendig-rosenheim`) | [Gesamt-PDF lesen](../testakten/unterhalt-berechnungsakte-vollstaendig-rosenheim/gesamt-pdf/unterhalt-berechnungsakte-vollstaendig-rosenheim_gesamt.pdf) | [`testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-berechnungsakte-vollstaendig-rosenheim.zip) |
+| **Unterhalt Lene Harms ./. Joris Harms — Auskunft, Stufenklage, Selbstständigen-Einkommen** (`unterhalt-stufenklage-selbststaendiger-hamburg`) | [Gesamt-PDF lesen](../testakten/unterhalt-stufenklage-selbststaendiger-hamburg/gesamt-pdf/unterhalt-stufenklage-selbststaendiger-hamburg_gesamt.pdf) | [`testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-unterhalt-stufenklage-selbststaendiger-hamburg.zip) |
+| **Aktenkonvolut Schäfer ./. Schäfer — Versorgungsausgleich, Härteklausel Paragraf 27 VersAusglG, Vorbereitung Rechtsbeschwerde BGH** (`versausgleich-haerte-bgh-schaefer-nuernberg`) | [Gesamt-PDF lesen](../testakten/versausgleich-haerte-bgh-schaefer-nuernberg/gesamt-pdf/versausgleich-haerte-bgh-schaefer-nuernberg_gesamt.pdf) | [`testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-versausgleich-haerte-bgh-schaefer-nuernberg.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

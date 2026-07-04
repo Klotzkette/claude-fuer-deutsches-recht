@@ -1,5 +1,30 @@
 # Krankenkassenrecht und Krankenversicherung
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`krankenkassenrecht-krankenversicherung`) | [`krankenkassenrecht-krankenversicherung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krankenkassenrecht-krankenversicherung.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Kaufrecht — Pflegebett, Sensorik und Cloud-Abo in Nürnberg** (`kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg`) | [Gesamt-PDF lesen](../testakten/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg/gesamt-pdf/kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg_gesamt.pdf) | [`testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.zip) |
+| **Akte Lichtenberg: Hilfsmittel, Krankengeld, PKV-Tarifwechsel und Beihilfechaos** (`krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel/gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf) | [`testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel.zip) |
+| **Krankenkassenrechtsakte Off-Label-Use seltene Erkrankung Mainz** (`krankenkassenrecht-off-label-use-seltene-erkrankung-mainz`) | [Gesamt-PDF lesen](../testakten/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz/gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf) | [`testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip) |
+| **Hilfsmittelstreit Elektrorollstuhl Heinz Körner gegen Weser-Ems Gesundheitskasse** (`sozialrecht-elektrorollstuhl-koerner-oldenburg`) | [Gesamt-PDF lesen](../testakten/sozialrecht-elektrorollstuhl-koerner-oldenburg/gesamt-pdf/sozialrecht-elektrorollstuhl-koerner-oldenburg_gesamt.pdf) | [`testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-elektrorollstuhl-koerner-oldenburg.zip) |
+| **Sozialrecht: Enzymsubstitution bei seltener Erkrankung in Jena** (`sozialrecht-enzymsubstitution-seltene-erkrankung-jena`) | [Gesamt-PDF lesen](../testakten/sozialrecht-enzymsubstitution-seltene-erkrankung-jena/gesamt-pdf/sozialrecht-enzymsubstitution-seltene-erkrankung-jena_gesamt.pdf) | [`testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-enzymsubstitution-seltene-erkrankung-jena.zip) |
+| **Sozialrecht: Orphan-Drug-Krebsmedikament in Münster** (`sozialrecht-orphan-drug-krebsmedikament-muenster`) | [Gesamt-PDF lesen](../testakten/sozialrecht-orphan-drug-krebsmedikament-muenster/gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) | [`testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

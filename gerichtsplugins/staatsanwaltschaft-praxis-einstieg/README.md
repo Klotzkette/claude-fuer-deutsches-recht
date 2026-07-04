@@ -1,5 +1,33 @@
 # Staatsanwaltschaft Praxis-Einstieg
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`staatsanwaltschaft-praxis-einstieg`) | [`staatsanwaltschaft-praxis-einstieg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Betäubungsmittel-Kurierfahrt auf der A3 bei Köln** (`strafrecht-btm-kokain-kurierfahrt-a3-koeln`) | [Gesamt-PDF lesen](../../testakten/strafrecht-btm-kokain-kurierfahrt-a3-koeln/gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) | [`testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip) |
+| **Phishing und Bankzugang Leipzig** (`strafrecht-cybercrime-phishing-bankzugang-leipzig`) | [Gesamt-PDF lesen](../../testakten/strafrecht-cybercrime-phishing-bankzugang-leipzig/gesamt-pdf/strafrecht-cybercrime-phishing-bankzugang-leipzig_gesamt.pdf) | [`testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig.zip) |
+| **Häusliche Gewalt und gefährliche Körperverletzung Dresden** (`strafrecht-haeusliche-gewalt-koerperverletzung-dresden`) | [Gesamt-PDF lesen](../../testakten/strafrecht-haeusliche-gewalt-koerperverletzung-dresden/gesamt-pdf/strafrecht-haeusliche-gewalt-koerperverletzung-dresden_gesamt.pdf) | [`testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip) |
+| **Jugendstrafsache Schulhofraub Hamburg-Wilhelmsburg** (`strafrecht-jugendlicher-raub-schulhof-hamburg`) | [Gesamt-PDF lesen](../../testakten/strafrecht-jugendlicher-raub-schulhof-hamburg/gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf) | [`testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip) |
+| **Korruptionsverdacht in der Vergabestelle München** (`strafrecht-korruption-bauamt-vergabestelle-muenchen`) | [Gesamt-PDF lesen](../../testakten/strafrecht-korruption-bauamt-vergabestelle-muenchen/gesamt-pdf/strafrecht-korruption-bauamt-vergabestelle-muenchen_gesamt.pdf) | [`testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen.zip) |
+| **Aussage-gegen-Aussage-Verfahren Mainz** (`strafrecht-sexualdelikt-aussage-gegen-aussage-mainz`) | [Gesamt-PDF lesen](../../testakten/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) | [`testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
+| **Digitales Stalking und Kontaktverbot Hannover** (`strafrecht-stalking-digitales-kontaktverbot-hannover`) | [Gesamt-PDF lesen](../../testakten/strafrecht-stalking-digitales-kontaktverbot-hannover/gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf) | [`testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip) |
+| **Vereinskasse, Sponsoring und Untreue Kassel** (`strafrecht-untreue-vereinskasse-kassel`) | [Gesamt-PDF lesen](../../testakten/strafrecht-untreue-vereinskasse-kassel/gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) | [`testakte-strafrecht-untreue-vereinskasse-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-untreue-vereinskasse-kassel.zip) |
+| **Arbeitsunfähigkeitsbescheinigung im Pflegedienst Bremen** (`strafrecht-urkundenfaelschung-au-pflegedienst-bremen`) | [Gesamt-PDF lesen](../../testakten/strafrecht-urkundenfaelschung-au-pflegedienst-bremen/gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf) | [`testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

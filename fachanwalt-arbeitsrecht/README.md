@@ -1,5 +1,27 @@
 # Fachanwalt Arbeitsrecht
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`fachanwalt-arbeitsrecht`) | [`fachanwalt-arbeitsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-arbeitsrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Kündigungsdrama Körber / Steinhoff Präzisionsguss** (`arbeitsrecht-kuendigungsdrama-koerber-werk`) | [Gesamt-PDF lesen](../testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) | [`testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
+| **Arbeitsunfähigkeitsbescheinigung im Pflegedienst Bremen** (`strafrecht-urkundenfaelschung-au-pflegedienst-bremen`) | [Gesamt-PDF lesen](../testakten/strafrecht-urkundenfaelschung-au-pflegedienst-bremen/gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf) | [`testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

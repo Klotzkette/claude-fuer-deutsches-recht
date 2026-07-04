@@ -1,5 +1,30 @@
 # Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`sozialversicherungsstatus-pruefer`) | [`sozialversicherungsstatus-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Rentenberaterakte Querschnitt Status, Betriebsrente und Rentenanspruch Dortmund** (`rentenberater-status-bav-rentenanspruch-querschnitt-dortmund`) | [Gesamt-PDF lesen](../testakten/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund/gesamt-pdf/rentenberater-status-bav-rentenanspruch-querschnitt-dortmund_gesamt.pdf) | [`testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-status-bav-rentenanspruch-querschnitt-dortmund.zip) |
+| **Rentenberaterakte Statusfeststellung Plattformkuriere Essen** (`rentenberater-statusfeststellung-plattformkurier-essen`) | [Gesamt-PDF lesen](../testakten/rentenberater-statusfeststellung-plattformkurier-essen/gesamt-pdf/rentenberater-statusfeststellung-plattformkurier-essen_gesamt.pdf) | [`testakte-rentenberater-statusfeststellung-plattformkurier-essen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-statusfeststellung-plattformkurier-essen.zip) |
+| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
+| **Statusfeststellungsakte mitarbeitende Familienangehörige Bäckerei Lünen** (`statusfeststellung-familienangehoerige-baeckerei-luenen`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-familienangehoerige-baeckerei-luenen/gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf) | [`testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip) |
+| **Statusfeststellungsakte GmbH-Geschäftsführer Minderheitsbeteiligung Erlangen** (`statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen/gesamt-pdf/statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen_gesamt.pdf) | [`testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-gmbh-geschaeftsfuehrer-minderheit-erlangen.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

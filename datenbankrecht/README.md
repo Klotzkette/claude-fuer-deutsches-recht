@@ -1,5 +1,25 @@
 # Datenbankrecht und Datenbankherstellerrecht
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`datenbankrecht`) | [`datenbankrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Akte Datenspeicher Havel: automatisiertes Auslesen, API, Immobilienportal und KI-Training** (`datenbankrecht-datenabruf-plattform-investitionsschutz`) | [Gesamt-PDF lesen](../testakten/datenbankrecht-datenabruf-plattform-investitionsschutz/gesamt-pdf/datenbankrecht-datenabruf-plattform-investitionsschutz_gesamt.pdf) | [`testakte-datenbankrecht-datenabruf-plattform-investitionsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenbankrecht-datenabruf-plattform-investitionsschutz.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

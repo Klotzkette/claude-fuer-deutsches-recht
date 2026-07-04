@@ -1,5 +1,28 @@
 # Richter Amtsgericht Strafsachen
 
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`richter-amtsgericht-straf`) | [`richter-amtsgericht-straf.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-straf.zip) |
+| **Alle Skills als Markdown** | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Betäubungsmittel-Kurierfahrt auf der A3 bei Köln** (`strafrecht-btm-kokain-kurierfahrt-a3-koeln`) | [Gesamt-PDF lesen](../../testakten/strafrecht-btm-kokain-kurierfahrt-a3-koeln/gesamt-pdf/strafrecht-btm-kokain-kurierfahrt-a3-koeln_gesamt.pdf) | [`testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-btm-kokain-kurierfahrt-a3-koeln.zip) |
+| **Häusliche Gewalt und gefährliche Körperverletzung Dresden** (`strafrecht-haeusliche-gewalt-koerperverletzung-dresden`) | [Gesamt-PDF lesen](../../testakten/strafrecht-haeusliche-gewalt-koerperverletzung-dresden/gesamt-pdf/strafrecht-haeusliche-gewalt-koerperverletzung-dresden_gesamt.pdf) | [`testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-haeusliche-gewalt-koerperverletzung-dresden.zip) |
+| **Jugendstrafsache Schulhofraub Hamburg-Wilhelmsburg** (`strafrecht-jugendlicher-raub-schulhof-hamburg`) | [Gesamt-PDF lesen](../../testakten/strafrecht-jugendlicher-raub-schulhof-hamburg/gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf) | [`testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip) |
+| **Alleinrennen, Unfallflucht und Dashcam Berlin** (`strafrecht-verkehrsunfall-alleinrennen-berlin`) | [Gesamt-PDF lesen](../../testakten/strafrecht-verkehrsunfall-alleinrennen-berlin/gesamt-pdf/strafrecht-verkehrsunfall-alleinrennen-berlin_gesamt.pdf) | [`testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-verkehrsunfall-alleinrennen-berlin.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 

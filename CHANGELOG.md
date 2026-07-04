@@ -1,3 +1,12 @@
+# v423.0.0 — Neue Testakte Geschäftsführerhaftung nach § 15b InsO
+
+- Neue Testakte `geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover`: Systemgastronomie-GmbH (Hannover, elf Filialen, 96 Beschäftigte), Zahlungsunfähigkeit laut Liquiditätsstatus seit September 2025, schriftliche Warnung der Steuerberaterin, Eigenantrag erst am 20. Januar 2026 mit bewusst zu später Datierung der Zahlungsunfähigkeit. Zwischen Insolvenzreife und Antrag flossen 1.238.400 EUR; die Verwalterin fordert 1.080.100 EUR nach § 15b Abs. 4 Satz 1 InsO.
+- Prüfschwerpunkte der Akte: Privilegierung im ordnungsgemäßen Geschäftsgang nur während laufender Antragsfrist und bei echten Sanierungs- oder Antragsvorbereitungsmaßnahmen (§ 15b Abs. 2 und 3 InsO), Nachweis geringerer Masseschmälerung (Abs. 4 Satz 2), „Beraterhonorar" an die Gesellschafter-UG ohne Leistungsnachweise (Abs. 5, verzahnt mit §§ 134, 135 InsO), Steuerzahlungen nach Fristablauf im Spannungsfeld von Abs. 8 und § 69 AO, Arbeitnehmer- gegen Arbeitgeberanteile (§ 266a StGB) sowie D&O-Deckung mit Wissentlichkeits-Ausschluss.
+- Nach der Format-Grundregel gebaut: elf DOCX-Aktenstücke mit Briefkopf, drei rechnerisch konsistente CSV-Finanzwerke (Liquiditätsstatus, BWA-Reihe, kategorisierte Zahlungsauswertung mit exakter Summenprobe), drei EML-Dateien, WhatsApp-Verlauf, Gesamt-PDF, README mit Aktenstruktur und rubric.yaml mit sechs Prüfpunkten. Zentrale Testakten-Übersicht und Plugin-Verdrahtung nachgezogen.
+- Alle Validatoren grün (Marketplace: 233 Plugins, 26154 Skills; Struktur; Frontmatter; Gesamt-PDF: 278 Testakten; Downloadhinweise: 278 Akten; Keine-Markdown-Aktenstücke). Repo-weiter Versions-Bump auf v423.0.0.
+
+---
+
 # v422.0.0 — Neue Strafrechtsakten für Verteidigung, Staatsanwaltschaft, Gericht und Revision
 
 - Zwölf neue zentrale Strafrechtsakten ergänzt: Jugendstrafsache Schulhofraub Hamburg, häusliche Gewalt Dresden, Betäubungsmittel-Kurierfahrt Köln, Phishing Leipzig, Arbeitsunfähigkeits-Urkundenfall Bremen, Alleinrennen Berlin, Aussage-gegen-Aussage Mainz, Untreue Vereinskasse Kassel, Korruptionsverdacht Vergabestelle München, Brandstiftung Magdeburg, Revision Beweisantrag Duisburg und digitales Stalking Hannover.
