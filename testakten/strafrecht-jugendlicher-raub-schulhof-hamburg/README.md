@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf`](gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 40 KB) | PDF | [`gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf`](gesamt-pdf/strafrecht-jugendlicher-raub-schulhof-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-jugendlicher-raub-schulhof-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-jugendlicher-raub-schulhof-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-jugendlicher-raub-schulhof-hamburg-einzelpdfs.zip) |
 
@@ -24,6 +24,8 @@ Emir räumt ein, das Handy für etwa drei Stunden in seinem Besitz gehabt zu hab
 
 Die Schule meldet bereits zwei frühere Konflikte zwischen den Jugendlichen. Die Jugendgerichtshilfe sieht eine stabile Familiensituation, aber erhebliche Schulversäumnisse. Die Verteidigung prüft, ob ein Täter-Opfer-Ausgleich und eine schulische Konfliktvereinbarung eine Verfahrenseinstellung nach Paragraf 45 oder 47 JGG tragen können oder ob wegen der Cutter-Behauptung eine jugendrichterliche Hauptverhandlung realistisch ist.
 
+Der Datenauswertungs-Kern der Akte liegt im Ortungsprotokoll des entwendeten Samsung A54. Nach dem Bericht der Schulleitung hat Finn gegenüber der Vertrauenslehrerin angegeben, Emir habe das Handy sofort ausgeschaltet, damit man es nicht orten könne. Das Protokoll zeigt dagegen fortlaufende Standortimpulse vom Verlassen des Schulgeländes um 13:22 Uhr bis 16:38 Uhr bei stetig sinkendem Akkustand, darunter den aktenkundigen Ortungsimpuls von 16:18 Uhr am Korallusring 7; erst mit 9 Prozent Restakku geht das Gerät offline. Die aktive Besitzzeit, die Offline-Phase bis zum Wiedereinschalten am 13.05.2026 um 19:12 Uhr und die Übergabe an das Polizeikommissariat 44 um 20:41 Uhr lassen sich minutengenau errechnen und mit der Einlassung des Beschuldigten, der Zeugenaussage der Mutter und dem WhatsApp-Verlauf mit der Mitschülerin Noura Haddad abgleichen.
+
 ## Verfahrensstand
 
 Gericht: Amtsgericht Hamburg, Jugendrichterin Abteilung 611
@@ -33,6 +35,21 @@ Staatsanwaltschaft: Staatsanwaltschaft Hamburg, Jugenddezernat 144 Js 2231/26
 Verteidigung oder Vertretung: RAin Celina Radtke, Hamburg-Harburg
 
 Mandatsbezug: Emir Yilmaz, 16 Jahre, Schüler der Stadtteilschule Kirchdorf
+
+## Beteiligte
+
+| Person | Rolle |
+| --- | --- |
+| Emir Yilmaz | Beschuldigter, 16 Jahre, Klasse 10a der Stadtteilschule Kirchdorf |
+| Finn Jansen | Geschädigter, Klasse 9c |
+| Ayla Yilmaz | Mutter und Erziehungsberechtigte des Beschuldigten, Zeugin, hat das Handy übergeben |
+| Derya Yilmaz | Schwester des Beschuldigten, 14 Jahre, betroffen von den Chatnachrichten |
+| Katrin Jansen | Mutter des Geschädigten, Inhaberin des Ortungs-Accounts |
+| Noura Haddad | Zeugin, Mitschülerin, Chatpartnerin des Beschuldigten |
+| Bettina Roggenkamp | Schulleiterin der Stadtteilschule Kirchdorf |
+| Meret Johannsen | Jugendgerichtshilfe, Bezirksamt Hamburg-Mitte |
+| KOK Thies Bargmann | Jugendsachbearbeitung Polizeikommissariat 44 |
+| RAin Celina Radtke | Verteidigung, Hamburg-Harburg |
 
 ## Zeitachse
 
@@ -45,20 +62,31 @@ Mandatsbezug: Emir Yilmaz, 16 Jahre, Schüler der Stadtteilschule Kirchdorf
 | 03.06.2026 | Akteneinsicht digital angekündigt; Videoauswertung noch unvollständig |
 | 15.07.2026 | Termin zur jugendrichterlichen Verhandlung vorgemerkt |
 
-## Dateien in dieser Akte
+## Aktenstruktur
 
-| Datei | Inhalt |
-| --- | --- |
-| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Erstkontakt, Rolle, Sofortfragen und Mandatsziel |
-| [02_sachverhalt_chronologie.docx](02_sachverhalt_chronologie.docx) | ausformulierter Sachverhalt, Zeitachse und offene Widersprüche |
-| [03_ermittlungsakte_auszuege.docx](03_ermittlungsakte_auszuege.docx) | Auszüge aus polizeilichen, staatsanwaltlichen oder gerichtlichen Vermerken |
-| [04_beweismittel_und_arbeitsauftraege.xlsx](04_beweismittel_und_arbeitsauftraege.xlsx) | Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen |
-| [05_fristen_und_verfahrensstand.csv](05_fristen_und_verfahrensstand.csv) | Fristen, Termine, Zustellungen und Wiedervorlagen |
-| [06_email_akteneinsicht_und_rueckfragen.eml](06_email_akteneinsicht_und_rueckfragen.eml) | E-Mail zu Akteneinsicht und Nachforderungen |
-| [07_rechtliche_arbeitsnotiz.docx](07_rechtliche_arbeitsnotiz.docx) | Normanker, Beweislastfragen, taktische Linien |
-| [08_entwurf_verfahrensschritt.docx](08_entwurf_verfahrensschritt.docx) | Entwurf für Stellungnahme, Antrag, Schutzschrift oder Rechtsmittel |
-| [09_originalanlage_behoerdenvermerk.pdf](09_originalanlage_behoerdenvermerk.pdf) | PDF-Anlage mit behördlichem oder fachlichem Vermerk |
-| [rubric.yaml](rubric.yaml) | Prüfpunkte für die fachliche Auswertung |
+```
+strafrecht-jugendlicher-raub-schulhof-hamburg/
+├── 01_mandatsnotiz_erstgespraech.docx                                — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+├── 02_sachverhalt_chronologie.docx                                   — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
+├── 03_ermittlungsakte_auszuege.docx                                  — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
+├── 04_beweismittel_und_arbeitsauftraege.xlsx                         — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen
+├── 05_fristen_und_verfahrensstand.csv                                — Fristen, Termine, Zustellungen und Wiedervorlagen
+├── 06_email_akteneinsicht_und_rueckfragen.eml                        — E-Mail der Verteidigung zu Akteneinsicht und Nachforderungen
+├── 07_rechtliche_arbeitsnotiz.docx                                   — Normanker, Beweislastfragen, taktische Linien
+├── 08_entwurf_verfahrensschritt.docx                                 — Entwurf für Stellungnahme, Antrag und Diversionsanregung
+├── 09_originalanlage_behoerdenvermerk.pdf                            — PDF-Anlage mit behördlichem Vermerk
+├── 10_bericht_jugendgerichtshilfe_2026-06-26.docx                    — Bericht der Jugendgerichtshilfe nach Paragraf 38 JGG mit Diversionsempfehlung
+├── 11_zeugenvernehmung_ayla_yilmaz_2026-06-16.docx                   — Vernehmung der Mutter zu Kellerfund, Übergabe an das PK 44 und Vorgeschichte
+├── 12_ortungsprotokoll_samsung_a54_2026-05-12_bis_2026-05-13.csv     — Standortimpulse, Akkustände und Ortungsanfragen; Kern der Besitzdauer-Berechnung
+├── eml/
+│   ├── 2026-05-19_schulleitung_kirchdorf_an_pk44_vorfallsbericht.eml — Bericht der Schule mit Erstangaben Finns, Videosequenz und zwei Vorkonflikten
+│   ├── 2026-06-11_jugendgerichtshilfe_an_kanzlei_radtke.eml          — JGH-Zwischenstand: Hausbesuch, Fehltage, TOA-Anbahnung
+│   └── 2026-06-24_radtke_an_sta_hamburg_toa_und_ortungsprotokoll.eml — Verteidigung: Diversionsanregung, Ortungs-Diskrepanz, Antrag Klassenchat-Sicherung
+├── whatsapp/
+│   └── chatverlauf.txt                                               — WhatsApp-Export Emir/Noura: Tatnachbesprechung, Schlüsselbund, Rückgabebedingung
+├── rubric.yaml                                                       — Sechs Prüfpunkte für die fachliche Auswertung
+└── README.md                                                         — Diese Übersicht
+```
 
 ## Prüffokus
 

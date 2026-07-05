@@ -1,6 +1,6 @@
 # richter-bverfg-verfassungsbeschwerden
 
-**12 Skills** · Stand `v424.0.0`
+**12 Skills** · Stand `v425.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/gerichtsplugins/richter-bverfg-verfassungsbeschwerden/README.md)

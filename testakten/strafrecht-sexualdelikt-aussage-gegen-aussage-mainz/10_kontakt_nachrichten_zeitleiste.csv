@@ -1,0 +1,16 @@
+Datum;Uhrzeit;Quelle;Ereignis;Ort;Belegstelle;Relevanz_Aussageanalyse
+31.03.2026;20:34;Chat-Export Hartmann (Asservat 1.1);Eintritt Gruppenchat 'Caros Geburtstag', Beitritt zur Feier;Wohnung Vosskamp, Bilhildisstrasse, Mainz;Bl. 61;Anwesenheit belegt
+31.03.2026;22:18;Chat-Export Hartmann (Asservat 1.1);letzte aktive eigene Gruppennachricht Hartmann;Wohnung Vosskamp;Bl. 62;Ausgangspunkt Aktivitaetsende
+31.03.2026;23:47;Aussage Vosskamp;mehrere Gaeste verlassen die Wohnung, Hartmann und Reimers verbleiben;Wohnung Vosskamp;Bl. 78;Personenbewegung
+01.04.2026;00:55;Aussage Hartmann (14.04.);geschildertes Kerngeschehen, Zeitangabe Hartmann;Wohnung Vosskamp;Bl. 44;Kernzeitpunkt laut Aussage
+01.04.2026;01:12;Chat-Export Demir (Asservat 2.1);erste Sprachnachricht Hartmann an Demir, Dauer 0:48;-;Bl. 91;zeitnahe Erstschilderung
+01.04.2026;01:19;Chat-Export Demir (Asservat 2.1);zweite Sprachnachricht Hartmann an Demir, Dauer 1:32;-;Bl. 91;Konstanzabgleich
+01.04.2026;01:27;Chat-Export Demir (Asservat 2.1);dritte Sprachnachricht Hartmann an Demir, Dauer 0:57;-;Bl. 92;Konstanzabgleich
+01.04.2026;01:41;Taxi-Fahrtenprotokoll Funk Mainz eG;Fahrtbeginn, Abholung Bilhildisstrasse;von Wohnung Vosskamp;Bl. 103;objektiver Anker Verlassen
+01.04.2026;02:03;Taxi-Fahrtenprotokoll Funk Mainz eG;Fahrtende Wohnanschrift Hartmann;Wohnung Hartmann;Bl. 103;Ankunft
+01.04.2026;02:18;Verbindungsnachweis (Rufdaten);eingehender Anruf Demir an Hartmann, Dauer 8:12;-;Bl. 96;Kontakt, Stuetze Zeitleiste
+01.04.2026;09:40;Chat-Export Reimers-Hartmann (Asservat 1.2);letzte Nachricht im Zweierchat (Reimers), unbeantwortet;-;Bl. 70;Kontaktabbruch nach Vorfall
+03.04.2026;10:15;Rechtsmedizin Universitaetsmedizin Mainz;koerperliche Untersuchung und Befundaufnahme;Universitaetsmedizin Mainz;Bl. 111;medizinischer Anker
+14.04.2026;09:00;Vernehmungsprotokoll Hartmann;Erstaussage zur Uhrzeit des Verlassens: 'kurz nach 1 Uhr';PP Mainz;Bl. 40;Aussage Hartmann, Zeitangabe 1
+20.05.2026;-;Ergaenzende schriftliche Angabe Hartmann;Zeitangabe des Verlassens: 'gegen 2 Uhr';-;Bl. 121;Aussage Hartmann, Zeitangabe 2 (Folgeangabe)
+22.05.2026;-;Verteidigerschriftsatz Reimers;Angabe Reimers: Hartmann habe die Wohnung 'erst gegen 3 Uhr' verlassen;-;Bl. 130;Aussage Gegenseite, Zeitangabe

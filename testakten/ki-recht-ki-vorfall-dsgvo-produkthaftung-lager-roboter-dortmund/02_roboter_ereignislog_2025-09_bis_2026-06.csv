@@ -1,0 +1,24 @@
+Zeitstempel;Roboter_ID;Ereignis;Sensor_S3_cm;Schwellwert_cm;Not_Halt;Fehlercode;Firmware
+2025-09-20 08:14;RB-07;Objekt erkannt - Not-Halt;95;120;ja;-;4.1
+2025-10-03 11:47;RB-07;Objekt erkannt - Not-Halt;78;120;ja;-;4.1
+2025-10-22 15:02;RB-07;Objekt erkannt - Not-Halt;110;120;ja;-;4.1
+2025-11-05 09:31;RB-07;Objekt erkannt - Not-Halt;63;120;ja;-;4.1
+2025-11-25 10:12;RB-07;Objekt erkannt - Not-Halt;88;120;ja;-;4.2
+2025-12-02 13:40;RB-07;Objekt erkannt - Not-Halt;102;120;ja;-;4.2
+2025-12-09 12:33;RB-07;Sensor-Ausfall S3 - Not-Halt verspaetet (Rueckfallerkennung);999;120;ja (verspaetet);E-SNS-311;4.2
+2025-12-18 08:55;RB-07;Objekt erkannt - Not-Halt;70;120;ja;-;4.2
+2026-01-07 14:22;RB-07;Objekt erkannt - Not-Halt;96;120;ja;-;4.2
+2026-01-15 14:06;RB-07;Sensor-Ausfall S3 - Not-Halt verspaetet (Rueckfallerkennung);999;120;ja (verspaetet);E-SNS-311;4.2
+2026-01-20 12:00;RB-07;Fahrt ohne Objekt;340;120;nein;-;4.2
+2026-01-29 09:08;RB-07;Objekt erkannt - Not-Halt;115;120;ja;-;4.2
+2026-02-11 16:34;RB-07;Objekt erkannt - Not-Halt;82;120;ja;-;4.2
+2026-02-27 10:52;RB-07;Sensor-Ausfall S3 - Not-Halt verspaetet (Rueckfallerkennung);999;120;ja (verspaetet);E-SNS-311;4.2
+2026-03-05 11:19;RB-07;Objekt erkannt - Not-Halt;99;120;ja;-;4.2
+2026-03-15 09:00;RB-07;Fahrt ohne Objekt;512;120;nein;-;4.2
+2026-03-24 07:48;RB-07;Objekt erkannt - Not-Halt;74;120;ja;-;4.2
+2026-04-14 15:57;RB-07;Objekt erkannt - Not-Halt;108;120;ja;-;4.2
+2026-04-30 16:00;RB-07;Fahrt ohne Objekt;410;120;nein;-;4.2
+2026-05-20 10:41;RB-07;Objekt erkannt - Not-Halt;90;120;ja;-;4.2
+2026-06-05 11:00;RB-07;Fahrt ohne Objekt;377;120;nein;-;4.2
+2026-06-10 08:27;RB-07;Objekt erkannt - Not-Halt;85;120;ja;-;4.2
+2026-06-24 09:41;RB-07;Sensor-Ausfall S3 - Person erfasst - Not-Halt NICHT rechtzeitig;999;120;nein;E-SNS-311;4.2

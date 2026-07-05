@@ -1,9 +1,27 @@
 name: strafrecht-korruption-bauamt-vergabestelle-muenchen
-description: Korruptionsakte aus einer kommunalen Vergabestelle mit Bauhofaufträgen, Einladungsvorteilen, Vergabevermerken, Durchsuchung und dienstrechtlichen Nebenfolgen.
-checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Vergabematrix technisch nachrechnen, Vorteilsliste bewerten, dienstliche Zuständigkeit sauber abgrenzen und Stellungnahme ohne vorschnelle Freundschaftsrhetorik vorbereiten.
+description: Korruptionsakte aus einer kommunalen Vergabestelle mit drei Zuschlaegen knapp unter der internen Kontrollschwelle, Einladungsvorteilen und einer als Beratungshonorar getarnten Zahlung; Kern ist der zeitliche Abgleich von Zuschlagsliste, Kalender und Kontobewegungen zur Ableitung der Unrechtsvereinbarung und der Vorteilssumme.
+
+pruefpunkte:
+  - id: p1-rolle-fristen-arbeitsprodukt
+    beschreibung: Verfahrensrolle, Fristen und naechstes Arbeitsprodukt vor der materiellen Pruefung klaeren.
+    erwartung: Der Bearbeiter ordnet die Rolle als Verteidigung des Beschuldigten Markus Eberl ein, erfasst den Verfahrensstand im Verfahren 6 Js 9940/26 der StA Muenchen I und die angekuendigte beamtenrechtliche Anhoerung am 28.06.2026 sowie den moeglichen Termin am 16.09.2026, und benennt als naechstes Arbeitsprodukt eine Stellungnahme statt einer vorschnellen Einlassung.
+
+  - id: p2-belastend-entlastend-trennen
+    beschreibung: Belastende und entlastende Tatsachen je Beweismittel getrennt ausweisen.
+    erwartung: Der Bearbeiter weist belastende Indizien (nachtraeglicher Bewertungsvermerk zu Los 2025-17, E-Mail Kolb vom 08.10.2025, Zeitmuster der Zuwendungen, fehlende Nebentaetigkeitsgenehmigung) und entlastende oder ambivalente Punkte (Eigeninteresse der ruegenden BauTec Sued GmbH, Behauptung marktueblicher Bietervorschlaege) je Beweismittel getrennt aus und vermischt sie nicht.
+
+  - id: p3-sicherstellung-digital
+    beschreibung: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert pruefen.
+    erwartung: Der Bearbeiter prueft die Sicherstellung von Diensthandy und privatem Kalender am 17.03.2026, die freiwillige Nennung des Privatgeraet-Passworts, die Belehrungslage der Beschuldigtenvernehmung vom 18.06.2026 und die Herkunft der WhatsApp-Extraktion (Asservat 2.1) getrennt von der inhaltlichen Wuerdigung.
+
+  - id: p4-abgleich-zuschlaege-vorteile
+    beschreibung: Datenauswertungs-Kern mit konkreten Werten aus der Zuschlagsliste, dem Kalender und den Kontobewegungen.
+    erwartung: Der Bearbeiter setzt 10_vergabe_und_vorteile_abgleich.csv mit dem Auswertevermerk und dem Chat zusammen und stellt fest, dass alle drei Zuschlaege an die Kiesel und Rath GmbH gingen und mit 98400, 97850 und 99200 Euro unter der internen Schwelle von 100000 Euro lagen. Er identifiziert vier Zuwendungen innerhalb von zehn Tagen nach einem Zuschlag (18.03., 11.07., 27.10. und 30.10.2025) mit einer Summe von 5300 Euro und grenzt das Abendessen vom 15.05.2025 ueber 90 Euro als nicht musterkonform ab, weil es 64 Tage vom naechsten vorangehenden Zuschlag entfernt liegt.
+
+  - id: p5-diskrepanz-beratungshonorar
+    beschreibung: Diskrepanz-Pflichtpunkt: Die Einlassung Beratungshonorar widerspricht dem Zeitmuster und der Vorankuendigung.
+    erwartung: Der Bearbeiter stellt die Einlassung vom 18.06.2026 (2500 Euro als privates Beratungshonorar) der Aktenlage gegenueber: keine Nebentaetigkeitsgenehmigung, Zahlungseingang sechs Tage nach dem Zuschlag zu Los 2025-17 und Vorankuendigung durch Kolb am 08.10.2025 als 2500 nach dem Zuschlag mit Verwendungszweck Beratung. Er benennt den Widerspruch ausdruecklich und ordnet ihn der Frage der Unrechtsvereinbarung zu.
+
+  - id: p6-materielle-pruefung-nebenfolgen
+    beschreibung: Subsumtion der Amtsdelikte, Abgrenzung 331 zu 332 StGB und Nebenfolgen mitdenken.
+    erwartung: Der Bearbeiter grenzt Vorteilsannahme nach Paragraf 331 StGB von Bestechlichkeit nach Paragraf 332 StGB anhand der pflichtwidrigen Diensthandlung (Loszuschnitt, Wertungsmanipulation) ab, prueft die Untreue nach Paragraf 266 StGB samt belastbarer Schadensberechnung und denkt Nebenfolgen wie Einziehung des Wertes der Vorteile, dienstrechtliche Folgen und Berufsfolgen ausdruecklich mit, ohne auf vorschnelle Freundschaftsrhetorik auszuweichen.

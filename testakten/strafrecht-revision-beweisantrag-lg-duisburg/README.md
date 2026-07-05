@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf`](gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf`](gesamt-pdf/strafrecht-revision-beweisantrag-lg-duisburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-revision-beweisantrag-lg-duisburg-einzelpdfs.zip) |
 
@@ -24,6 +24,8 @@ Das Hauptverhandlungsprotokoll enthält den Wortlaut des Beweisantrags nur verk�
 
 Die Akte zwingt zur revisionsrechtlichen Präzision: Rügebegründung, Protokolllage, Darlegung der Konnexität, Aufklärungsrüge und Sachrüge müssen sauber getrennt werden. Gleichzeitig ist eine mögliche Protokollberichtigung taktisch zu bewerten.
 
+Der Beweiskern liegt im Abgleich der Hauptverhandlungs-Chronologie mit den beiden Protokollfassungen. Die Datei `10_hauptverhandlung_protokoll_chronologie.csv` erfasst je Sitzungstag die relevanten Vorgänge mit Quelle und Protokolldeckung; erst die Verbindung mit der Gegenüberstellung von amtlichem Protokoll und Verteidiger-Mitschrift sowie der Berichtigungskorrespondenz macht den Verfahrensfehler und die für § 274 StPO maßgeblichen Divergenzen sichtbar.
+
 ## Verfahrensstand
 
 Gericht: Bundesgerichtshof über Landgericht Duisburg, 7 KLs 220 Js 1180/25
@@ -33,6 +35,18 @@ Staatsanwaltschaft: Staatsanwaltschaft Duisburg, 220 Js 1180/25
 Verteidigung oder Vertretung: RA Dr. Enno Falkenberg, Essen
 
 Mandatsbezug: Murat Candan, verurteilt wegen schweren Raubes
+
+## Beteiligte
+
+| Name | Rolle |
+| --- | --- |
+| Murat Candan | Angeklagter und Revisionsführer, verurteilt wegen schweren Raubes |
+| Dennis Krawczyk | Mitangeklagter und Belastungszeuge |
+| Karol Nowak | Taxifahrer, benannter Alibizeuge |
+| VRiLG Dr. Hartmut Söllner | Vorsitzender der 7. Großen Strafkammer |
+| Getränkemarkt Rheinperle | Tatort des abgeurteilten Überfalls |
+| Taxi-Ruf Duisburg | Arbeitgeber des Zeugen Nowak, Fahrtenprotokoll |
+| RA Dr. Enno Falkenberg | Verteidiger und Revisionsführer |
 
 ## Zeitachse
 
@@ -45,20 +59,31 @@ Mandatsbezug: Murat Candan, verurteilt wegen schweren Raubes
 | 07.06.2026 | Protokollberichtigung durch Vorsitzenden angeregt |
 | 18.06.2026 | Erwiderung auf Berichtigungsvermerk vorbereitet |
 
-## Dateien in dieser Akte
+## Aktenstruktur
 
-| Datei | Inhalt |
-| --- | --- |
-| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Erstkontakt, Rolle, Sofortfragen und Mandatsziel |
-| [02_sachverhalt_chronologie.docx](02_sachverhalt_chronologie.docx) | ausformulierter Sachverhalt, Zeitachse und offene Widersprüche |
-| [03_ermittlungsakte_auszuege.docx](03_ermittlungsakte_auszuege.docx) | Auszüge aus polizeilichen, staatsanwaltlichen oder gerichtlichen Vermerken |
-| [04_beweismittel_und_arbeitsauftraege.xlsx](04_beweismittel_und_arbeitsauftraege.xlsx) | Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen |
-| [05_fristen_und_verfahrensstand.csv](05_fristen_und_verfahrensstand.csv) | Fristen, Termine, Zustellungen und Wiedervorlagen |
-| [06_email_akteneinsicht_und_rueckfragen.eml](06_email_akteneinsicht_und_rueckfragen.eml) | E-Mail zu Akteneinsicht und Nachforderungen |
-| [07_rechtliche_arbeitsnotiz.docx](07_rechtliche_arbeitsnotiz.docx) | Normanker, Beweislastfragen, taktische Linien |
-| [08_entwurf_verfahrensschritt.docx](08_entwurf_verfahrensschritt.docx) | Entwurf für Stellungnahme, Antrag, Schutzschrift oder Rechtsmittel |
-| [09_originalanlage_behoerdenvermerk.pdf](09_originalanlage_behoerdenvermerk.pdf) | PDF-Anlage mit behördlichem oder fachlichem Vermerk |
-| [rubric.yaml](rubric.yaml) | Prüfpunkte für die fachliche Auswertung |
+```
+strafrecht-revision-beweisantrag-lg-duisburg/
+├── 01_mandatsnotiz_erstgespraech.docx                  Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+├── 02_sachverhalt_chronologie.docx                     Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
+├── 03_ermittlungsakte_auszuege.docx                    Auszüge aus Verfahrens- und Urteilsunterlagen
+├── 04_beweismittel_und_arbeitsauftraege.xlsx           Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen
+├── 05_fristen_und_verfahrensstand.csv                  Fristen, Termine, Zustellungen und Wiedervorlagen
+├── 06_email_akteneinsicht_und_rueckfragen.eml          E-Mail zu Akteneinsicht und Nachforderungen
+├── 07_rechtliche_arbeitsnotiz.docx                     Normanker, Beweislastfragen, taktische Linien
+├── 08_entwurf_verfahrensschritt.docx                   Entwurf für Rechtsmittelbegründung oder Antrag
+├── 09_originalanlage_behoerdenvermerk.pdf              PDF-Anlage mit behördlichem oder fachlichem Vermerk
+├── 10_hauptverhandlung_protokoll_chronologie.csv      Sitzungschronologie mit Quelle und Protokolldeckung (Datenauswertungs-Kern)
+├── 11_revisionsbegruendung_bgh_2026-05-19.docx         Ausformulierte Revisionsbegründung mit Verfahrens-, Aufklärungs- und Sachrüge
+├── 12_protokollauszug_und_mitschrift_2026-02-12.docx   Gegenüberstellung amtliches Protokoll und Verteidiger-Mitschrift
+├── eml/
+│   ├── 01_falkenberg_protokollberichtigung_2026-06-07.eml Anregung der Protokollberichtigung an den Vorsitzenden
+│   ├── 02_vorsitzender_berichtigungsvermerk_2026-06-15.eml Ablehnung der Berichtigung durch den Vorsitzenden
+│   └── 03_taxiruf_nowak_verfuegbarkeit_2026-05-12.eml     Verfügbarkeit des Zeugen Nowak und Fahrtenprotokoll
+├── whatsapp/
+│   └── chatverlauf.txt                                  Chat Nowak/Disposition der Tatnacht: Aufnahme Bahnhof 21:18 Uhr
+├── README.md                                            Diese Übersicht
+└── rubric.yaml                                          Prüfpunkte für die Bearbeitung der Akte
+```
 
 ## Prüffokus
 

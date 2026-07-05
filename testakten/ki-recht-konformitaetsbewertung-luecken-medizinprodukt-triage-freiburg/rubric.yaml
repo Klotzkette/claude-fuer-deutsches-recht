@@ -1,0 +1,98 @@
+name: ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg
+beschreibung: >
+  Konformitaetsbewertung eines Hochrisiko-KI-Systems an der
+  Schnittstelle zum Medizinprodukterecht nach der Verordnung (EU)
+  2024/1689 und der Verordnung (EU) 2017/745. Die SaniScore
+  Medizintechnik GmbH will das Software-Medizinprodukt TriageAssist
+  in Verkehr bringen. Die technische Dokumentation und der Entwurf
+  der EU-Konformitaetserklaerung behaupten vollstaendige Konformitaet
+  und eine ueber alle Patientengruppen gleichwertige Leistung,
+  waehrend Datenuebersicht, Performance-Log, Aufsichtskonzept und
+  Risikoregister Luecken zeigen. Prueffragen: Genauigkeit und
+  Subgruppenleistung, Daten-Governance, Risikomanagement, menschliche
+  Aufsicht, Protokollierung und Cybersicherheit, Zusammenspiel mit
+  der benannten Stelle sowie Normstand-Sorgfalt.
+pruefpunkte:
+  - id: p01-datenauswertung-sensitivitaet
+    beschreibung: >
+      Die Ueberschaetzung der Genauigkeit fuer die Altersgruppe ab
+      achtzig Jahren muss aus dem Performance-Log (Aktenstueck 06)
+      und der Datenuebersicht (Aktenstueck 05) selbststaendig
+      berechnet werden.
+    erwartung: >
+      Errechnet werden die Gesamtsensitivitaet von vierundneunzig
+      Prozent (vierundneunzig von hundert kritischen Faellen) und die
+      stratifizierten Werte von fuenfzehn von einundzwanzig (rund
+      einundsiebzig Prozent) fuer die Gruppe ab achtzig Jahren
+      gegenueber neunundsiebzig von neunundsiebzig (hundert Prozent)
+      darunter; ergaenzend wird die Unterrepraesentation dieser
+      Gruppe im Training mit rund vier Komma sechs Prozent
+      (zweitausendeinhundertfuenf von fuenfundvierzigtausend-
+      neunhundertzwanzig) und die fragliche Datenqualitaet der Quelle
+      K5 erkannt. Die Werte werden gegen die Behauptung der
+      technischen Dokumentation gehalten, es gebe keine
+      Subgruppenunterschiede ueber drei Prozentpunkte.
+  - id: p02-diskrepanz-konformitaetserklaerung
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen dem Entwurf der
+      EU-Konformitaetserklaerung und der tatsaechlichen Aktenlage
+      muss erkannt und rechtlich verwertet werden.
+    erwartung: >
+      Der Widerspruch zwischen Aktenstueck 11 (vollstaendige
+      Konformitaet, ueber alle Gruppen gleichwertige Leistung,
+      wirksame menschliche Aufsicht) und den Aktenstuecken 06, 07,
+      09, 03 sowie dem Beanstandungsbericht (Aktenstueck 12) wird
+      benannt; gefolgert wird, dass die EU-Konformitaetserklaerung so
+      nicht ausgestellt und das Produkt nicht in Verkehr gebracht
+      werden darf.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Der Umgang mit dem beweglichen Normstand der KI-Verordnung muss
+      dem Normstand-Vermerk (Aktenstueck 13) entsprechen.
+    erwartung: >
+      Die Bearbeitung stuetzt sich nur auf die Grundstrukturen der
+      Verordnung (EU) 2024/1689 und der Verordnung (EU) 2017/745,
+      kennzeichnet konkrete Artikel-, Anhang- und Fristangaben als zu
+      verifizieren, empfiehlt die amtliche Verifikation und erfindet
+      keine Durchfuehrungsrechtsakte, harmonisierten Normen oder
+      Gerichtsentscheidungen; die fiktive Kennnummer der benannten
+      Stelle wird als zu verifizieren behandelt.
+  - id: p04-menschliche-aufsicht-und-risikomanagement
+    beschreibung: >
+      Die Luecken bei menschlicher Aufsicht und Risikomanagement
+      muessen praezise herausgearbeitet werden.
+    erwartung: >
+      Benannt werden das fehlende Uebersteuerungsverfahren, die
+      fehlende Qualifikations- und Schulungsvorgabe, der fehlende
+      Systemhinweis auf Leistungsgrenzen und die fehlende
+      Protokollierung der Uebersteuerungen (Aktenstueck 09 und 08)
+      sowie die unterbliebene Aufnahme des Subgruppenrisikos in das
+      Risikoregister (Aktenstueck 03, Abschnitt 4); gefolgert wird,
+      dass formale Letztentscheidung allein keine wirksame
+      menschliche Aufsicht begruendet.
+  - id: p05-daten-governance-und-cybersicherheit
+    beschreibung: >
+      Daten-Governance, Genauigkeitsnachweis und Cybersicherheit
+      muessen als unvollstaendig erkannt werden.
+    erwartung: >
+      Herausgearbeitet werden die fehlende belegte Repraesentativitaet
+      und Ausgewogenheit der Daten, die mangelhafte Qualitaet der
+      Quelle K5 und die luecken bei Quelle K4 sowie der noch nicht
+      abgeschlossene Penetrationstest und die fehlende
+      Robustheitspruefung gegen adversariale Eingaben und die fehlende
+      Aufbewahrungsfrist der Protokolle.
+  - id: p06-schnittstelle-medizinprodukt-benannte-stelle
+    beschreibung: >
+      Das Zusammenspiel von KI-Verordnung und Medizinprodukterecht
+      und die Rolle der benannten Stelle muessen zutreffend
+      eingeordnet werden.
+    erwartung: >
+      Erkannt wird, dass das Produkt als Software-Medizinprodukt der
+      Klasse IIb und zugleich als Hochrisiko-KI-System einer
+      Konformitaetsbewertung unter Einbindung einer benannten Stelle
+      unterliegt und dass die KI-Anforderungen in das
+      Medizinprodukteverfahren integriert werden koennen; die Frage,
+      ob die benannte Stelle fuer die KI-Verordnung notifiziert ist,
+      wird als zu klaeren benannt; der Beanstandungsbericht wird als
+      Sperre fuer Konformitaetserklaerung und Inverkehrbringen
+      gewuerdigt.

@@ -3,7 +3,23 @@ description: Cybercrime-Akte zu Phishing, Computerbetrug, Kontoleihe, IP-Spuren,
 checks:
   - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
   - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: p03-geldfluss-und-kontoleihe
+    beschreibung: >
+      Aus dem Transaktions- und Login-Log muessen Schadenssumme,
+      Bargeldabhebung und Weiterleitungskette nachgerechnet und gegen die
+      Einlassung gehalten werden, das Konto sei nur fuer einen Kryptohandel
+      verliehen worden.
+    erwartung: >
+      Aus der CSV ergibt sich eine Schadenssumme von 15300 Euro aus zwei
+      Gutschriften von 8400 Euro und 6900 Euro; hiervon wurden 12000 Euro
+      am 19.04.2026 zwischen 07:52 Uhr und 08:33 Uhr, also in 41 Minuten, an
+      drei Automaten in Leipzig-Gruenau mit der Girocard und PIN des
+      Beschuldigten in bar abgehoben, das sind rund 78 Prozent der
+      Schadenssumme; weitere 3300 Euro wurden per Echtzeitueberweisung an
+      die Finanzagenten Kevin Arlt (1800 Euro) und Mandy Roehl (1500 Euro)
+      weitergeleitet. Die persoenliche Barabhebung des Grossteils im
+      eigenen Wohnviertel widerlegt die Einlassung einer blossen
+      Kontoleihe.
   - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
   - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
   - Rohdaten der Banklogs mit Zeitzonen sichern, ATM-Bildqualität prüfen, Einziehungsrisiko berechnen und Stellungnahme zur Kontoleihe vorbereiten.

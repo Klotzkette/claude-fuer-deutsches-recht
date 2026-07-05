@@ -1,0 +1,42 @@
+Microsoft-Teams-Chat-Export (Auszug)
+Kanal: Sozialamt SG Leistung - KOMPASS Anwenderrunde
+Exportiert am: 05.05.2026 durch IT-Koordination (Ticket INC-2026-1197)
+Zeitraum: 04.03.2026 bis 02.04.2026
+
+[04.03.2026 08:52] Katrin Poehlmann:
+Guten Morgen. Kurze Frage: Ich habe hier Leute in Klasse C, die im
+Leistungsverfahren voellig unauffaellig sind. Wenn ich mir die
+Faktoren ansehe, sind das fast nur Bibliotheksmahnungen und
+Parkknoellchen. Ist das gewollt?
+
+[04.03.2026 09:05] Erik Baumgartl:
+Ja, das ist so eingestellt. Der Score zieht die Punkte aus mehreren
+Quellen. Steht in der Systembeschreibung, Version 4.2.
+
+[04.03.2026 09:11] Katrin Poehlmann:
+Aber dann bestrafen wir jemanden bei der Grundsicherung dafuer, dass
+er ein Buch zu spaet zurueckgibt. Das fuehlt sich falsch an.
+
+[12.03.2026 15:22] Katrin Poehlmann:
+Konkreter Fall BK-018: ohne die fachfremden Punkte waere die Frau in
+Klasse A. Mit Bibliothek, Parken, Schwarzfahren und Abfall ist sie in
+C und muss jetzt alle drei Monate vorsprechen. Das ist ein Sprung ueber
+zwei Klassen.
+
+[12.03.2026 15:40] Erik Baumgartl:
+Ich habe das der Projektleitung gemeldet. Antwort war: so beauftragt,
+bitte nicht selbst herausrechnen.
+
+[20.03.2026 11:03] Norbert Kittler:
+Mir faellt auf, dass die Betroffenen gar nicht wissen, woher die
+Punkte kommen. Wenn jemand fragt, was soll ich sagen? Wir haben denen
+gesagt, wir nutzen nur unsere eigenen Leistungsdaten.
+
+[20.03.2026 11:19] Katrin Poehlmann:
+Genau das ist der Punkt. Nach aussen heisst es fachbereichsintern,
+tatsaechlich ziehen wir aus vier weiteren Toepfen. Ich moechte das
+nicht ausbaden, wenn das mal hochkommt.
+
+[02.04.2026 16:47] Erik Baumgartl:
+Es gibt jetzt eine Beschwerde (Frau H., Fall BK-018). Geht ans
+Rechtsamt und wohl auch an den Datenschutz. Mal sehen, was rauskommt.

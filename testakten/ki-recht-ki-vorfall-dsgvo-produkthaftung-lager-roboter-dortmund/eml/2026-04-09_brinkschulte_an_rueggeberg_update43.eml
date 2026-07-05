@@ -1,0 +1,30 @@
+From: "Lennart Brinkschulte" <l.brinkschulte@automove-robotics.de>
+To: "Kai Rueggeberg" <k.rueggeberg@nordlog-distribution.de>
+Date: Thu, 09 Apr 2026 08:52:14 +0200
+Subject: DRINGEND: Sicherheitshinweis SB-2026-03 - Firmware 4.3 fuer RB-07 einspielen
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Sehr geehrter Herr Rueggeberg,
+
+wie gestern telefonisch angekuendigt, haben wir gestern den
+Sicherheitshinweis SB-2026-03 herausgegeben. Unter Firmware 4.2 kann
+der Personenerkennungssensor S3 sporadisch ausfallen (Fehlercode
+E-SNS-311) und faelschlich einen freien Fahrweg melden. Bei Ihrem
+RB-07 ist das laut unseren Ferndaten seit Dezember mehrfach
+aufgetreten, darunter mit ausgeloesten Not-Halts.
+
+Die Firmware 4.3 behebt den Fehler. Bitte spielen Sie das Update
+unverzueglich ein. Bis dahin empfehlen wir dringend, RB-07 nicht in
+Bereichen mit Personenverkehr zu betreiben oder den Bereich
+abzusperren.
+
+Wir koennen das Update aus der Ferne aufspielen, wir brauchen dafuer
+nur ein kurzes Wartungsfenster. Bitte nennen Sie mir einen Termin
+noch in dieser Woche.
+
+Mit freundlichen Gruessen
+Lennart Brinkschulte
+Field Service
+AutoMove Robotics GmbH
+Telefon 0241 56088-140

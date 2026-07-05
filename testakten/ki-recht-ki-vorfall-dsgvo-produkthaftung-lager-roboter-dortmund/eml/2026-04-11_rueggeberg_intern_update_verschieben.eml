@@ -1,0 +1,34 @@
+From: "Kai Rueggeberg" <k.rueggeberg@nordlog-distribution.de>
+To: "Dr. Marius Tenbrock" <m.tenbrock@nordlog-distribution.de>
+Cc: "Petra Wollenweber" <p.wollenweber@nordlog-distribution.de>
+Date: Sat, 11 Apr 2026 17:19:47 +0200
+Subject: AW: Firmware-Update RB-07 - Vorschlag Verschiebung auf nach Peak
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Marius,
+
+AutoMove draengt auf das Firmware-Update 4.3 fuer RB-07 (Sensorfehler
+S3, siehe SB-2026-03). Das Update braucht ein Wartungsfenster und
+danach eine Neukalibrierung, realistisch ein halber Tag Ausfall.
+
+Wir stecken gerade im Quartalspeak. Mein Vorschlag: Wir ziehen das
+Update nach dem 30.06. durch. Bis dahin laeuft RB-07 weiter, wir
+weisen die Schichtleiter an, in Zone C aufmerksam zu sein. Die
+Rueckfallerkennung hat bisher jedes Mal noch gehalten.
+
+Ist das ok fuer dich? Dann plane ich es fuer Anfang Juli.
+
+Gruss
+Kai
+
+--- Urspruengliche Nachricht ---
+Von: Petra Wollenweber
+An: Kai Rueggeberg
+Betreff: Firmware-Update RB-07
+
+Kai, ich sehe das kritisch. Wir haben drei Beinahe-Vorfaelle in den
+Protokollen und einen ausdruecklichen Sicherheitshinweis des
+Herstellers. Wenn da etwas passiert, stehen wir sehr schlecht da. Ich
+plaediere dafuer, RB-07 aus Zone C zu nehmen, bis 4.3 drauf ist.
+Petra

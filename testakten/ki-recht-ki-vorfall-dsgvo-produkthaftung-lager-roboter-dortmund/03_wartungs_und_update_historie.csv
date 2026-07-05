@@ -1,0 +1,8 @@
+Datum;Firmware_von;Firmware_nach;Massnahme;Ticket;Fehler_dokumentiert;Status
+2025-09-12;-;4.1;Inbetriebnahme Roboter AMR T7 (RB-07), Grundkonfiguration;WART-2025-0334;-;abgeschlossen
+2025-11-18;4.1;4.2;Firmware-Update 4.2 (neue Objekterkennung Sensor S3);WART-2025-0511;-;abgeschlossen
+2025-12-09;4.2;4.2;Stoerungsmeldung Sensor S3: sporadischer Signalausfall (E-SNS-311);STOER-2025-0879;E-SNS-311;offen - beobachten
+2026-01-15;4.2;4.2;Erneute Stoerung S3 bei RB-07, Not-Halt ausgeloest;STOER-2026-0042;E-SNS-311;offen - beobachten
+2026-02-27;4.2;4.2;Erneute Stoerung S3 bei RB-07, Not-Halt ausgeloest;STOER-2026-0188;E-SNS-311;offen - beobachten
+2026-04-08;4.2;4.2;Hersteller-Sicherheitshinweis SB-2026-03: Firmware 4.3 behebt E-SNS-311, dringend empfohlen;SICH-2026-0091;E-SNS-311;Update 4.3 verfuegbar - nicht eingespielt
+2026-06-24;4.2;4.2;Unfall RB-07: Person erfasst, Not-Halt nicht rechtzeitig ausgeloest;UNF-2026-0006;E-SNS-311;Anlage stillgelegt

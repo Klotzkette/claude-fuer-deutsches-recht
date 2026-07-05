@@ -3,7 +3,25 @@ description: Betäubungsmittelverfahren nach A3-Kontrolle mit Kokainfund, Durchs
 checks:
   - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
   - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: p03-wirkstoffmenge-und-kuriermuster
+    beschreibung: >
+      Aus Wirkstoffgutachten und Telematik-Zeitreihe muessen die
+      strafzumessungsrelevante Wirkstoffmenge und das Kuriermuster
+      nachgerechnet und gegen die Einlassung des Beschuldigten gehalten
+      werden, er habe nur als Fahrer gehandelt und die Reserveradmulde nie
+      geoeffnet.
+    erwartung: >
+      Aus dem Gutachten ergibt sich eine Gesamtnettomasse von 1990.0 Gramm
+      mit 800.0 Gramm Kokainhydrochlorid aus Asservat 1.1 und 777.15 Gramm
+      aus Asservat 1.2, zusammen 1577.15 Gramm Kokainhydrochlorid; beim
+      Grenzwert von 5 Gramm ist das der 315.43-fache Wert der nicht
+      geringen Menge. Aus der Telematik-Zeitreihe folgen der Zwischenstopp
+      in Venlo-Blerick von 21:17 Uhr bis 21:59 Uhr (42 Minuten) mit
+      geoeffneter Heckklappe von 21:23 Uhr bis 21:31 Uhr (8 Minuten) sowie
+      die um 09:12 Uhr per Chat geaenderte Zieladresse, die erklaert, warum
+      das Fahrzeug bei der Kontrolle auf der Rastanlage Koenigsforst-West in
+      Fahrtrichtung Frankfurt statt in Koeln-Deutz stand; beides widerlegt
+      die Einlassung als blosser ahnungsloser Fahrer.
   - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
   - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
   - Haftprüfung vorbereiten, Dolmetscher- und Belehrungsvermerk anfordern, Rohdaten der Handyforensik sichern und Zusatzfahrer über Vermieter identifizieren.

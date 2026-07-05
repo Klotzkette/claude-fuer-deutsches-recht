@@ -1,0 +1,14 @@
+datum;uhrzeit;quelle;standort;akkustand_prozent;ereignis
+12.05.2026;07:52;Standortimpuls automatisch;Stadtteilschule Kirchdorf, Gebaeude Sued;96;Schul-WLAN verbunden
+12.05.2026;09:36;Standortimpuls automatisch;Stadtteilschule Kirchdorf, Gebaeude Sued;91;Schul-WLAN verbunden
+12.05.2026;11:41;App-Aktivitaet Kontoinhaber;Stadtteilschule Kirchdorf, Gebaeude Sued;88;Messenger-Nutzung im Schul-WLAN
+12.05.2026;13:07;App-Aktivitaet Kontoinhaber;Stadtteilschule Kirchdorf, Gebaeude Sued;84;letzte Nutzung durch den Kontoinhaber, Schul-WLAN
+12.05.2026;13:19;Standortimpuls automatisch;suedlicher Schulhof;83;Standortgenauigkeit 8 Meter
+12.05.2026;13:22;Standortimpuls automatisch;noerdlicher Rand Schulgelaende, Richtung Krieterstrasse;82;Schul-WLAN getrennt, Geraet in Bewegung
+12.05.2026;13:41;Standortimpuls automatisch;Korallusring, Hoehe Hausnummern 5 bis 9;79;Geraet stationaer
+12.05.2026;14:37;Standortimpuls automatisch;Korallusring 7;71;Geraet stationaer
+12.05.2026;15:29;Standortimpuls automatisch;Korallusring 7;43;Geraet stationaer, erhoehter Akkuverbrauch durch Daueranfragen der Ortungsfunktion
+12.05.2026;16:18;Ortungsanfrage Konto Katrin Jansen;Korallusring 7;14;aktenkundiger Ortungsimpuls, Standortgenauigkeit 12 Meter
+12.05.2026;16:38;letzter Standortimpuls;Korallusring 7;9;danach keine Verbindung mehr, Geraet offline
+13.05.2026;19:12;Geraet wieder online;Korallusring 7, Wohnung Familie Yilmaz;34;Ladevorgang aktiv, Ortungsanfrage Konto Katrin Jansen beantwortet
+13.05.2026;20:41;Standortimpuls automatisch;Polizeikommissariat 44, Hamburg-Wilhelmsburg;52;Uebergabe des Geraets durch Ayla Yilmaz an PK 44

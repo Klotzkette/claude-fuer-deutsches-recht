@@ -1,0 +1,8 @@
+Faktor_ID;Bezeichnung;Herkunftskontext;abgebender_Fachbereich;Abzug_pro_Vorfall
+F1;Fehlende Mitwirkung im Leistungsverfahren;fachbereichsintern;Sozialamt;8
+F2;Versaeumter Termin beim Sozialamt;fachbereichsintern;Sozialamt;5
+F3;Unvollstaendige Antragsunterlagen;fachbereichsintern;Sozialamt;4
+G1;Offene Mahnung Stadtbibliothek;kontextfremd;Kultur/Bibliothek;6
+G2;Nicht bezahlter Parkverstoss;kontextfremd;Ordnungsamt;5
+G3;Befoerderungserschleichung OePNV (gemeldet);kontextfremd;Verkehrsbetrieb;10
+G4;Verstoss Abfallsatzung (Sperrmuell);kontextfremd;Abfallwirtschaft;4

@@ -1,0 +1,93 @@
+name: ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund
+beschreibung: >
+  KI-Vorfall mit Doppel- und Dreifachrelevanz nach der Verordnung
+  (EU) 2024/1689, der Datenschutz-Grundverordnung und dem Haftungs-
+  und Arbeitsschutzrecht. Ein autonomer Lagerroboter verletzt einen
+  Leiharbeitnehmer; ursaechlich ist ein seit dem Firmware-Update 4.2
+  bekannter Sensorfehler, dessen Behebung (Firmware 4.3) nicht
+  eingespielt wurde. Zugleich wurde das Objekterkennungsmodell mit
+  unrechtmaessig erhobenen Beschaeftigten-Bewegungsdaten trainiert.
+  Prueffragen: Rekonstruktion der Kausalkette aus den Logs, Meldung
+  des schwerwiegenden Vorfalls, datenschutzrechtliche Meldung,
+  Produkt- und Betreiberhaftung, Arbeitsschutz sowie
+  Normstand-Sorgfalt.
+pruefpunkte:
+  - id: p01-datenauswertung-kausalkette
+    beschreibung: >
+      Die Kausalkette muss aus dem Roboter-Ereignislog (Aktenstueck
+      02) und der Wartungs- und Update-Historie (Aktenstueck 03)
+      selbststaendig rekonstruiert werden.
+    erwartung: >
+      Rekonstruiert wird, dass der Fehlercode E-SNS-311 vor dem
+      Update unter Firmware 4.1 nicht vorkam und erstmals am neunten
+      Dezember zweitausendfuenfundzwanzig nach Installation der
+      Firmware 4.2 am achtzehnten November zweitausendfuenfundzwanzig
+      auftrat, dass drei Beinahe-Vorfaelle mit nur verspaetetem
+      Not-Halt registriert sind (neunter Dezember, fuenfzehnter
+      Januar, siebenundzwanzigster Februar), dass der Hersteller am
+      achten April mit Sicherheitshinweis SB-2026-03 die Firmware 4.3
+      bereitstellte und dass dieses Update am Unfalltag
+      (vierundzwanzigster Juni) nicht installiert war; daraus wird die
+      Kausalkette bekannter Sensorfehler und unterlassenes Update
+      hergeleitet.
+  - id: p02-diskrepanz-unvorhersehbar
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen dem Vorfallsbericht des
+      Betreibers und der tatsaechlichen Datenlage muss erkannt und
+      verwertet werden.
+    erwartung: >
+      Der Widerspruch zwischen der Behauptung unvorhersehbares
+      Einzelereignis (Aktenstueck 01) und den drei dokumentierten
+      Beinahe-Vorfaellen samt ignoriertem Sicherheitshinweis (aus den
+      Aktenstuecken 02, 03, dem Teamchat und der internen
+      E-Mail-Kette) wird benannt; der interne Widerspruch der
+      Sicherheitsfachkraft wird als Beleg verwertet.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Der Umgang mit dem beweglichen Normstand der KI-Verordnung muss
+      dem Normstand-Vermerk (Aktenstueck 11) entsprechen.
+    erwartung: >
+      Die Bearbeitung stuetzt sich nur auf die Grundstrukturen der
+      Verordnung (EU) 2024/1689, der Datenschutz-Grundverordnung und
+      des Haftungsrechts, kennzeichnet konkrete Artikel- und
+      Fristangaben als zu verifizieren, empfiehlt die amtliche
+      Verifikation und erfindet keine Durchfuehrungsrechtsakte,
+      Leitlinien oder Gerichtsentscheidungen; die fiktiven
+      Aktenzeichen werden als solche behandelt.
+  - id: p04-ki-vorfallsmeldung
+    beschreibung: >
+      Die KI-Vorfallsmeldung muss zutreffend eingeordnet werden.
+    erwartung: >
+      Erkannt werden die Bundesnetzagentur als Marktueberwachungs-
+      behoerde fuer KI-Systeme als richtige Adressatin und die
+      Einordnung als schwerwiegender Vorfall (Personenschaden); die
+      Kette Kenntniserlangung zu Meldung wird auf Unverzueglichkeit
+      geprueft mit dem Vorbehalt der amtlich zu verifizierenden
+      Fristen; die Verantwortungsteilung Anbieter und Betreiber wird
+      angesprochen.
+  - id: p05-datenschutz-trainingsdaten
+    beschreibung: >
+      Die datenschutzrechtliche Ebene der unrechtmaessigen
+      Trainingsdaten muss eigenstaendig behandelt werden.
+    erwartung: >
+      Benannt werden die fehlende Rechtsgrundlage, der Verstoss gegen
+      Rechtmaessigkeit und Zweckbindung und die fehlende
+      Anonymisierung bei der Verwendung der Beschaeftigten-
+      Bewegungsdaten (Aktenstuecke 05 und 07) sowie die Meldung an
+      die LDI NRW; herausgearbeitet wird, dass dieser Verstoss
+      unabhaengig neben dem KI-Vorfall besteht und beide
+      Regelungsregime nebeneinander anwendbar sind.
+  - id: p06-haftung-und-arbeitsschutz
+    beschreibung: >
+      Die Haftungs- und Arbeitsschutzebene muss zutreffend
+      eingeordnet werden.
+    erwartung: >
+      Herausgearbeitet werden die Verkehrssicherungs- und
+      Betreiberpflichtverletzung durch Weiterbetrieb trotz bekannter
+      Stoerungen und bereitgestellten Updates, die moegliche
+      Produkthaftung der Herstellerin, die Verteidigung der
+      Herstellerin mit dem Verweis auf das nicht installierte Update
+      sowie die Rolle des Unfallversicherungstraegers und die Frage
+      des Haftungsprivilegs bei Arbeitsunfaellen; die Ursachenanteile
+      von Betreiberin und Herstellerin werden gegeneinander
+      abgewogen.

@@ -1,0 +1,18 @@
+datum;uhrzeit;quelle;ereignis;ort;detail
+08.06.2026;13:47;Mietvertrag Rotterdam Mobility BV;Fahrzeuguebernahme VW T-Roc, Vertrag MV-2026-08114;Rotterdam, Station Waalhaven;Kaution bar, Zusatzfahrer handschriftlich unleserlich
+08.06.2026;13:52;Verbindungsdaten Mobiltelefon Montes;abgehender Anruf an Kontakt Marlin, Dauer 41 Sekunden;Funkzelle Rotterdam-Waalhaven;Rufnummer niederlaendischer Prepaid-Anschluss
+08.06.2026;14:03;Fahrzeugtelematik;Zuendung an;Rotterdam, Station Waalhaven;Fahrtbeginn Werksgelaende
+08.06.2026;14:11;Fahrzeugtelematik;Zuendung aus;Rotterdam, Parkplatz Waalhaven Zuid;Fahrzeug abgestellt, Standzeit bis zum Abend
+08.06.2026;18:32;Verbindungsdaten Mobiltelefon Montes;eingehende Telegram-Nachricht Kontakt Marlin;Funkzelle Rotterdam-Waalhaven;Inhalt siehe wiederhergestellter Chat
+08.06.2026;19:22;Fahrzeugtelematik;Zuendung an, Abfahrt;Rotterdam, Parkplatz Waalhaven Zuid;Fahrtroute Richtung Sueden
+08.06.2026;21:17;Fahrzeugtelematik;Zuendung aus;Venlo-Blerick, Gewerbegebiet Ankerstraat;Beginn Standzeit
+08.06.2026;21:23;Fahrzeugtelematik;Heckklappe geoeffnet;Venlo-Blerick, Gewerbegebiet Ankerstraat;Sensorereignis Heckklappe
+08.06.2026;21:31;Fahrzeugtelematik;Heckklappe geschlossen;Venlo-Blerick, Gewerbegebiet Ankerstraat;Sensorereignis Heckklappe
+08.06.2026;21:31;Verbindungsdaten Mobiltelefon Montes;abgehende Telegram-Nachricht an Kontakt Marlin;Funkzelle Venlo-Blerick;Inhalt siehe wiederhergestellter Chat
+08.06.2026;21:59;Fahrzeugtelematik;Zuendung an, Abfahrt;Venlo-Blerick, Gewerbegebiet Ankerstraat;Ende Standzeit
+08.06.2026;23:02;Fahrzeugtelematik;Zuendung aus;Autohof Frechen-Nord;Uebernachtung im Fahrzeug
+09.06.2026;08:47;Verbindungsdaten Mobiltelefon Montes;abgehender Anruf an Kontakt Marlin, Dauer 62 Sekunden;Funkzelle Frechen;Rufnummer wie am Vortag
+09.06.2026;08:51;Fahrzeugtelematik;Zuendung an, Abfahrt;Autohof Frechen-Nord;Fahrtroute ueber Koelner Ring
+09.06.2026;09:12;Verbindungsdaten Mobiltelefon Montes;eingehende Telegram-Nachricht Kontakt Marlin;Funkzelle Koeln-Poll;Zieladresse geaendert, siehe Chat
+09.06.2026;09:58;Fahrzeugtelematik;Zuendung aus;Rastanlage Koenigsforst-West, A3;Fahrzeug abgestellt auf Pkw-Parkflaeche
+09.06.2026;10:15;Einsatzprotokoll PRev Autobahn Koeln;Beginn der Verkehrskontrolle;Rastanlage Koenigsforst-West, A3;Auffinden der Pakete in der Reserveradmulde im Anschluss

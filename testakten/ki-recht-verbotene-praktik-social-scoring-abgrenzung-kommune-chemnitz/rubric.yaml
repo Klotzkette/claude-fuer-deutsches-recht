@@ -1,0 +1,91 @@
+name: ki-recht-verbotene-praktik-social-scoring-abgrenzung-kommune-chemnitz
+beschreibung: >
+  Abgrenzung zwischen verbotener Praktik der sozialen Bewertung und
+  zulaessiger einzelzweckbezogener Risikobewertung nach der Verordnung
+  (EU) 2024/1689. Die Stadt Chemnitz betreibt das System KOMPASS, das
+  aus fachbereichsinternen und fachfremden Datenquellen einen
+  Kooperations-Score bildet und daran Kontrolldichte und
+  Leistungsgewaehrung knuepft. Gegenueber dem Stadtrat wurde eine
+  Beschraenkung auf fachbereichsinterne Daten erklaert. Prueffragen:
+  kontextuebergreifende Datennutzung, benachteiligende und
+  unverhaeltnismaessige Wirkung, Abgrenzung zur zulaessigen
+  Risikobewertung, datenschutzrechtliche Parallelbewertung,
+  Zustaendigkeit der Marktueberwachung und Normstand-Sorgfalt.
+pruefpunkte:
+  - id: p01-datenauswertung-wirkung
+    beschreibung: >
+      Die benachteiligende Wirkung der kontextfremden Daten muss aus
+      der Faktortabelle (Aktenstueck 04), der Massnahmen-Matrix
+      (Aktenstueck 05) und der Buerger-Stichprobe (Aktenstueck 06)
+      selbststaendig berechnet werden.
+    erwartung: >
+      Errechnet wird, dass von dreissig Faellen achtundzwanzig
+      fachfremde Abzuege tragen, dass sich achtzehn Faelle allein
+      aufgrund kontextfremder Daten um mindestens eine Score-Klasse
+      verschlechtern und dass acht davon in die Klassen C oder D
+      (erhoehte oder verschaerfte Kontrolle bis Leistungskuerzung)
+      abrutschen; der Fall BK-018 wird als Zwei-Klassen-Abstieg von
+      dreiundachtzig Punkten (Klasse A) auf achtundfuenfzig Punkte
+      (Klasse C) identifiziert und der reine kontextfremd-Fall BK-007
+      (von hundert Punkten auf fuenfundsiebzig, Klasse A nach B) als
+      Beleg herangezogen.
+  - id: p02-diskrepanz-datenquellen
+    beschreibung: >
+      Die gewollte Diskrepanz zwischen der erklaerten Datensparsamkeit
+      und der tatsaechlichen Konfiguration muss erkannt werden.
+    erwartung: >
+      Der Widerspruch zwischen der Projektbeschreibung und dem
+      Ratsbeschluss (nur fachbereichsinterne Daten, Aktenstuecke 01
+      und 02) und der Systembeschreibung des Dienstleisters (vier
+      fachfremde Konnektoren, Aktenstueck 03) sowie der Faktortabelle
+      wird benannt; die interne E-Mail-Kette (Semmler und Achterberg)
+      wird als Beleg fuer die bewusste Aktivierung trotz Zusage an den
+      Rat verwertet.
+  - id: p03-normstand-sorgfalt
+    beschreibung: >
+      Der Umgang mit dem beweglichen Normstand der KI-Verordnung muss
+      dem Normstand-Vermerk (Aktenstueck 12) entsprechen.
+    erwartung: >
+      Die Bearbeitung stuetzt sich nur auf die Grundstruktur des
+      Verbots der sozialen Bewertung, kennzeichnet konkrete Artikel-
+      und Fristangaben als zu verifizieren, empfiehlt die amtliche
+      Verifikation und erfindet keine Durchfuehrungsrechtsakte,
+      Leitlinien oder Gerichtsentscheidungen; die fiktiven
+      Aktenzeichen werden als solche behandelt.
+  - id: p04-abgrenzung-verbotene-praktik
+    beschreibung: >
+      Die rechtliche Abgrenzung zwischen verbotener sozialer Bewertung
+      und zulaessiger Risikobewertung muss anhand der Tatbestands-
+      merkmale hergeleitet werden.
+    erwartung: >
+      Herausgearbeitet werden die Merkmale kontextuebergreifende
+      Bewertung (Daten aus Bibliothek, ruhendem Verkehr, OePNV und
+      Abfall fuer Entscheidungen im Leistungsverfahren) und
+      benachteiligende, im Verhaeltnis zum urspruenglichen Kontext
+      unverhaeltnismaessige Wirkung; die Schutzbehauptung der
+      zulaessigen einzelzweckbezogenen Risikobewertung wird kritisch
+      gewuerdigt und im Ergebnis als nicht tragfaehig eingeordnet.
+  - id: p05-datenschutz-parallel
+    beschreibung: >
+      Das Nebeneinander von KI-Verordnung und Datenschutzrecht muss
+      zutreffend erfasst werden.
+    erwartung: >
+      Benannt werden die datenschutzrechtlichen Beanstandungen aus
+      Aktenstueck 11 (Zweckbindung, fehlende Rechtsgrundlage fuer die
+      bereichsuebergreifende Zusammenfuehrung, fehlende Information der
+      Betroffenen, fehlende Datenschutz-Folgenabschaetzung) und der
+      Grundsatz, dass beide Regelungsregime nebeneinander anwendbar
+      sind.
+  - id: p06-zustaendigkeit-und-rechtsfolgen
+    beschreibung: >
+      Zustaendigkeit und Rechtsfolgen muessen richtig eingeordnet
+      werden.
+    erwartung: >
+      Erkannt werden die Bundesnetzagentur als Marktueberwachungs-
+      behoerde fuer KI-Systeme und die Saechsische Datenschutz- und
+      Transparenzbeauftragte als Datenschutzaufsicht; bei Vorliegen
+      einer verbotenen Praktik wird die Unzulaessigkeit des Betriebs
+      und die Moeglichkeit einer Untersagung benannt; als
+      Sofortmassnahmen werden die Deaktivierung der fachfremden
+      Konnektoren, die Information der Betroffenen und die Ueberpruefung
+      der bisherigen Einstufungen empfohlen.

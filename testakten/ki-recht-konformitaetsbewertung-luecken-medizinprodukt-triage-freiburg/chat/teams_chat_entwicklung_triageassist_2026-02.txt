@@ -1,0 +1,53 @@
+Microsoft-Teams-Chat-Export (Auszug)
+Kanal: TriageAssist - Entwicklung und Zulassung
+Exportiert am: 25.06.2026 durch IT (Ticket INC-2026-0442)
+Zeitraum: 09.02.2026 bis 20.02.2026
+
+[09.02.2026 16:41] Jonas Kettler:
+Kurzer Heads-up ans Team: Der Validierungslauf ist durch. Gesamt 94
+Prozent Sensitivitaet. Aber die Altersgruppe ab 80 ist schlecht, nur
+15 von 21 kritischen Faellen erkannt. Das muessen wir ernst nehmen.
+
+[09.02.2026 16:49] Petra Lohmann (Klinische Bewertung):
+Das ist genau die Gruppe, die bei uns am haeufigsten in die
+Notaufnahme kommt. 71 Prozent ist fuer eine Triage eigentlich nicht
+vertretbar.
+
+[09.02.2026 16:53] Jonas Kettler:
+Sehe ich auch so. Ursache ist mMn die Datenlage. Im Training sind
+die ueber 80-Jaehrigen kaum vertreten, und Titisee (K5) hat mieserable
+Labelqualitaet, fast 10 Prozent Fehlerrate.
+
+[10.02.2026 09:12] Tobias Reinke:
+Danke Jonas. Ich verstehe das Problem. Frage ist, wie wir das mit dem
+Zeitplan zusammenbringen. Ich bringe es mit Annika zusammen.
+
+[14.02.2026 18:03] Annika Sperling:
+Ich habe Jonas geschrieben. Wir fuehren in der Zusammenfassung den
+Gesamtwert und ziehen die Subgruppen-Daten als Post-Market nach.
+Bitte keine Formulierung mit "Subgruppenproblem" nach aussen.
+
+[14.02.2026 18:20] Jonas Kettler:
+Ich sage es offen: Mir ist unwohl dabei, in der Doku zu schreiben,
+es gebe keine relevanten Subgruppenunterschiede. Das ist sachlich
+nicht haltbar. Ich will das schriftlich festgehalten haben, dass ich
+darauf hingewiesen habe.
+
+[14.02.2026 18:24] Annika Sperling:
+Dein Hinweis ist dokumentiert, die Mail liegt vor. Wir ziehen es
+nach der Zertifizierung sauber nach. Lass es uns Montag final
+besprechen.
+
+[17.02.2026 10:35] Petra Lohmann (Klinische Bewertung):
+Zur Protokollierung noch: Wenn eine Pflegekraft den Vorschlag
+uebersteuert, wird das aktuell nirgends geloggt. Wir koennen also gar
+nicht nachweisen, ob die menschliche Aufsicht ueberhaupt greift.
+
+[17.02.2026 10:44] Jonas Kettler:
+Korrekt. Und ein Verfahren, wann jemand gegenpruefen muss, gibt es
+auch nicht. Wenn die benannte Stelle da genau hinschaut, faellt uns
+das auf die Fuesse.
+
+[20.02.2026 15:02] Tobias Reinke:
+Ich nehme das mit. Wir dokumentieren die offenen Punkte im
+Aufsichtskonzept als "in Arbeit". Danke euch.

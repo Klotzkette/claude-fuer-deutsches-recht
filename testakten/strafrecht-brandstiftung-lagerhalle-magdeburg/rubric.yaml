@@ -1,9 +1,27 @@
 name: strafrecht-brandstiftung-lagerhalle-magdeburg
-description: Brandstiftungsakte mit Versicherungsmotiv, Brandsachverständigem, Telefonzellen, Kameraausfall, Lagerbestand und Haftprüfung.
-checks:
-  - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
-  - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
-  - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
-  - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
-  - Haftbeschwerde mit Alternativursache vorbereiten, Rohdaten Videoanlage sichern, Versicherungsunterlagen vollständig anfordern und Gutachterfragen zu Tor 3 formulieren.
+description: Brandstiftungsakte mit Versicherungsmotiv, Brandsachverstaendigem, Videoausfall und Zutrittslog; Kern ist das Minutenprotokoll der Brandnacht zur Ableitung des Legungsindizes sowie der Abgleich von Versicherungssumme und Inventarwert zur Ueberversicherung.
+
+pruefpunkte:
+  - id: p1-rolle-fristen-arbeitsprodukt
+    beschreibung: Verfahrensrolle, Fristen und naechstes Arbeitsprodukt vor der materiellen Pruefung klaeren.
+    erwartung: Der Bearbeiter ordnet die Rolle als Verteidigung des Beschuldigten Silvio Brandner ein, erfasst die Untersuchungshaft seit dem 27.05.2026 im Verfahren 1 Js 5582/26 der StA Magdeburg und die in Vorbereitung befindliche Haftbeschwerde, und benennt als naechstes Arbeitsprodukt die Haftbeschwerde mit einer Alternativursache statt einer vorschnellen Sacheinlassung.
+
+  - id: p2-belastend-entlastend-trennen
+    beschreibung: Belastende und entlastende Tatsachen je Beweismittel getrennt ausweisen.
+    erwartung: Der Bearbeiter weist belastende Indizien (Brandbeschleuniger an Tor 3, Werksausweis im Videoausfallfenster, Funkzellennaehe, Deckungserhoehung, Liquiditaetslage) und entlastende oder ambivalente Punkte (gemeldeter Schaltschrankdefekt, Wohnung im selben Funkzellenbereich, ausstehende elektrotechnische Gutachtenergaenzung) je Beweismittel getrennt aus.
+
+  - id: p3-sicherstellung-digital
+    beschreibung: Sicherstellungskette, Belehrung und digitale Originaldaten gesondert pruefen.
+    erwartung: Der Bearbeiter fordert die Rohdaten der Videoanlage und des Zutrittssystems, prueft die Systemzeit und die Ausweiszuordnung des Werksausweises 0447, wuerdigt die Herkunft der WhatsApp-Extraktion (Asservat 3.1, Providersicherung) und die Belehrungslage der Beschuldigtenvernehmung vom 28.05.2026 getrennt von der inhaltlichen Wuerdigung.
+
+  - id: p4-brandnacht-und-ueberversicherung
+    beschreibung: Datenauswertungs-Kern mit konkreten Werten aus Ereignisprotokoll, Gutachten und Versicherungsdaten.
+    erwartung: Der Bearbeiter setzt 10_brandnacht_ereignisprotokoll.csv mit dem Gutachten und der HanseMerkur-Korrespondenz zusammen und stellt fest, dass die Videoaufzeichnung von 01:58 bis 02:31 Uhr, also 33 Minuten, ausfiel, dass der Brandalarm um 02:14 Uhr genau in dieses Fenster faellt (16 Minuten nach Ausfallbeginn) und dass der Werksausweis 0447 des Beschuldigten von 01:52 bis 02:03 Uhr Tor 3 nutzte, wo der Brandbeschleuniger gefunden wurde. Zur Ueberversicherung ermittelt er aus Versicherungssumme (1200000 Euro seit 01.04.2026, zuvor 750000 Euro) und Inventarwert (640000 Euro zum 30.04.2026) eine Ueberdeckung von 560000 Euro und einen Erhoehungsbetrag von 450000 Euro.
+
+  - id: p5-diskrepanz-technischer-defekt
+    beschreibung: Diskrepanz-Pflichtpunkt: Die Einlassung technischer Defekt und Aufenthalt zu Hause widerspricht der Aktenlage.
+    erwartung: Der Bearbeiter stellt die Einlassung vom 28.05.2026 (technischer Defekt am Schaltschrank, Aufenthalt zu Hause) der Aktenlage gegenueber: Brandbeschleunigerspuren und fehlende Lichtbogenspuren am Schaltschrank, Nutzung des Werksausweises 0447 an Tor 3 im Ausfallfenster, Funkzellennaehe sowie die Chatnachrichten vom 17.05.2026 (Fahrt zur Halle, Tor 3) und vom 18.05.2026, 03:40 Uhr (Standort bei der Halle). Er benennt den Widerspruch ausdruecklich.
+
+  - id: p6-materielle-pruefung-nebenfolgen
+    beschreibung: Subsumtion der Brand- und Betrugsdelikte, Haftgruende und Nebenfolgen mitdenken.
+    erwartung: Der Bearbeiter prueft die schwere Brandstiftung nach Paragraf 306a StGB und den versuchten Versicherungsbetrug nach Paragraf 263 StGB samt Vortaeuschen eines Versicherungsfalls, wuerdigt dringenden Tatverdacht und Verdunkelungsgefahr fuer die Haftfrage und denkt Nebenfolgen wie Einziehung und wirtschaftliche Folgen fuer die ElbeLager GmbH ausdruecklich mit.

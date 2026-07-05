@@ -3,7 +3,25 @@ description: Jugendstrafsache nach einem Schulhofraub in Hamburg-Wilhelmsburg mi
 checks:
   - Verfahrensrolle, Fristen und nächstes Arbeitsprodukt vor der materiellen Prüfung klären.
   - Belastende und entlastende Tatsachen nicht vermischen, sondern je Beweismittel ausweisen.
-  - Sicherstellungskette, Belehrung und digitale Originaldaten gesondert prüfen.
+  - id: p03-ortungsprotokoll-besitzdauer
+    beschreibung: >
+      Aus dem Ortungsprotokoll des Samsung A54 muessen Besitzdauer,
+      Offline-Phase und Uebergabezeit minutengenau errechnet und gegen die
+      Angaben der Beteiligten abgeglichen werden.
+    erwartung: >
+      Aus der CSV wird hergeleitet: aktive Besitzzeit vom Verlassen des
+      Schulgelaendes am 12.05.2026 um 13:22 Uhr bis zum letzten
+      Standortimpuls um 16:38 Uhr gleich 3 Stunden 16 Minuten (196
+      Minuten), was die Einlassung des Beschuldigten von etwa drei Stunden
+      stuetzt; Offline-Phase von 16:38 Uhr bis zum Wiedereinschalten am
+      13.05.2026 um 19:12 Uhr gleich 26 Stunden 34 Minuten bei einem
+      Akkustand von zuletzt 9 Prozent (Entladung von 84 auf 9 Prozent),
+      wodurch die Angabe des Geschaedigten aus dem Schulleitungsbericht,
+      das Geraet sei sofort ausgeschaltet worden, widerlegt ist; Uebergabe
+      an das Polizeikommissariat 44 am 13.05.2026 um 20:41 Uhr, also 1
+      Stunde 29 Minuten nach dem Wiedereinschalten, in Uebereinstimmung
+      mit der Vernehmung der Zeugin Ayla Yilmaz und dem aktenkundigen
+      Ortungsimpuls vom 12.05.2026 um 16:18 Uhr.
   - Normanker nur als Arbeitshilfe verwenden und Subsumtion am konkreten Sachverhalt durchführen.
   - Nebenfolgen wie Einziehung, Fahrerlaubnis, Kontaktverbot, Haft oder Berufsfolgen ausdrücklich mitdenken.
   - Antrag auf vollständige Video- und Chat-Auswertung, Schutzschrift zur Pflichtverteidigung und Vorschlag eines Täter-Opfer-Ausgleichs vor Anklageerhebung.

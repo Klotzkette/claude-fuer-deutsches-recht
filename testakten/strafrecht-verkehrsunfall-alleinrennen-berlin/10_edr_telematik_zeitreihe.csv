@@ -1,0 +1,22 @@
+Zeit_s_vor_Aufprall;Uhrzeit;Geschwindigkeit_kmh;Gaspedal_Prozent;Bremsdruck_bar;Motordrehzahl_1_min;Laengsbeschleunigung_g;Ampelphase_Kreuzung_Storkower;Weg_kumuliert_m;Bemerkung
+-20;23:06:52;55;100;0;3290;0.28;Gruen;0.0;Beschleunigungsphase, Vollgas
+-19;23:06:53;62;100;0;3556;0.20;Gruen;16.2;Beschleunigungsphase, Vollgas
+-18;23:06:54;70;100;0;3860;0.23;Gruen;34.6;Beschleunigungsphase, Vollgas
+-17;23:06:55;79;100;0;4202;0.25;Gruen;55.3;Beschleunigungsphase, Vollgas
+-16;23:06:56;89;100;0;4582;0.28;Gruen;78.6;Beschleunigungsphase, Vollgas
+-15;23:06:57;99;100;0;4962;0.28;Gruen;104.7;Beschleunigungsphase, Vollgas
+-14;23:06:58;108;100;0;5304;0.25;Gruen;133.5;Beschleunigungsphase, Vollgas
+-13;23:06:59;116;100;0;5608;0.23;Gruen;164.6;Beschleunigungsphase, Vollgas
+-12;23:07:00;124;100;0;5912;0.23;Gruen;197.9;Beschleunigungsphase, Vollgas
+-11;23:07:01;131;100;0;6178;0.20;Gruen;233.3;Beschleunigungsphase, Vollgas
+-10;23:07:02;137;100;0;6406;0.17;Gelb;270.6;Beschleunigungsphase, Vollgas
+-9;23:07:03;143;100;0;6634;0.17;Gelb;309.4;Beschleunigungsphase, Vollgas
+-8;23:07:04;148;100;0;6824;0.14;Gelb;349.9;Beschleunigungsphase, Vollgas
+-7;23:07:05;151;85;0;6938;0.08;Rot;391.4;Hoechstgeschwindigkeit
+-6;23:07:06;149;15;55;6862;-0.06;Rot;433.1;Bremsbeginn Kurveneinfahrt
+-5;23:07:07;128;0;88;6064;-0.59;Rot;471.5;EDR-Stuetzwert fuenf Sekunden vor Aufprall
+-4;23:07:08;112;0;95;5456;-0.45;Rot;504.9;Haltelinie ueberfahren bei Rot
+-3;23:07:09;96;0;96;4848;-0.45;Rot;533.8;Bremsung, Kontrollverlust
+-2;23:07:10;80;0;90;4240;-0.45;Rot;558.2;Bremsung, Kontrollverlust
+-1;23:07:11;66;0;80;3708;-0.40;Rot;578.5;Bremsung, Kontrollverlust
+0;23:07:12;54;0;66;3252;-0.34;Rot;595.1;Aufprall Laternenmast und geparktes Taxi

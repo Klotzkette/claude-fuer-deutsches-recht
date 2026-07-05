@@ -1,0 +1,10 @@
+Datum;Uhrzeit;Quelle;Ereignis;Beleg
+18.05.2026;01:52;Zutrittslog Securitas;Werksausweis 0447 (Brandner) oeffnet Tor 3 Nebeneingang;Zutrittsprotokoll Bl. 71
+18.05.2026;01:55;Videoanlage;Letzter aufgezeichneter Frame Kameras 3 bis 5;Videoserver-Log Bl. 74
+18.05.2026;01:58;Videoanlage;Totalausfall Aufzeichnungsserver, Aufzeichnung endet;Videoserver-Log Bl. 74
+18.05.2026;02:03;Zutrittslog Securitas;Werksausweis 0447 (Brandner) schliesst Tor 3 Nebeneingang;Zutrittsprotokoll Bl. 71
+18.05.2026;02:14;Brandmeldeanlage;Erstalarm Zone 4 Bereich Tor 3, Wachmann meldet Rauch;BMA-Protokoll Bl. 68
+18.05.2026;02:16;Wachmann Notruf;Notruf 112 durch Wachmann Ronny Naumann;Einsatzprotokoll ILS Bl. 66
+18.05.2026;02:19;Brandmeldeanlage;Folgealarm Zone 5 angrenzender Lagerbereich;BMA-Protokoll Bl. 68
+18.05.2026;02:31;Videoanlage;Aufzeichnung wieder online nach Serverneustart;Videoserver-Log Bl. 74
+18.05.2026;02:38;Feuerwehr;Eintreffen erstes Loeschfahrzeug;Einsatzprotokoll ILS Bl. 66

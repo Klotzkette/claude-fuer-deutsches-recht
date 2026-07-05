@@ -1,0 +1,8 @@
+Klinik_ID;Herkunft;Zeitraum;Datensaetze_Training;davon_ueber80;Datensaetze_Validierung;Val_davon_ueber80;dok_Fehlerrate_Prozent;Datenqualitaet_Hinweis
+K1;Universitaetsklinik Freiburg (Kooperationspartner);2022-01/2023-06;18420;742;52;11;5.1;vollstaendig annotiert
+K2;Klinikum Loerrach;2022-03/2023-06;9310;588;28;6;5.4;vollstaendig annotiert
+K3;Staedtisches Krankenhaus Offenburg;2022-06/2023-08;7640;205;22;4;6.0;vollstaendig annotiert
+K4;Kreisklinik Emmendingen;2022-09/2023-08;5120;96;18;3;6.3;Altersfeld teils leer (Nachtrag)
+K5;Reha-Zentrum Titisee (Zulieferdaten);2021-11/2022-10;3870;410;12;4;9.8;Labels aus Altsystem konvertiert - Qualitaet unklar
+K6;Notfallpraxis-Verbund Suedbaden;2023-01/2023-09;1560;64;8;2;6.1;vollstaendig annotiert
+GESAMT;alle Quellen;;45920;2105;140;30;;

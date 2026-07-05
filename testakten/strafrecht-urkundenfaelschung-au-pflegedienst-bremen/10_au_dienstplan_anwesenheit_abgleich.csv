@@ -1,0 +1,20 @@
+Datum;Wochentag;Dienstplan_Soll;AU_Bescheinigung;eAU_Kasse_gemeldet;Chip_Dienststelle;Tourenlog_Patientenbesuche;Entgeltfortzahlung_EUR;Bemerkung
+13.01.2026;Dienstag;Fruehdienst;ja (Bescheinigung Twardon 13.01.-17.01.);ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+14.01.2026;Mittwoch;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+15.01.2026;Donnerstag;Fruehdienst;ja;ja;ja 06:58;7;148.50;WIDERSPRUCH: trotz AU dokumentierte Patientenbesuche unter Chip-ID Kroll
+16.01.2026;Freitag;Spaetdienst;ja;ja;ja 13:41;6;148.50;WIDERSPRUCH: trotz AU dokumentierte Patientenbesuche unter Chip-ID Kroll
+17.01.2026;Samstag;frei;ja;ja;nein;0;0.00;kein Dienst-Soll, keine Entgeltfortzahlung
+20.01.2026;Dienstag;Fruehdienst;nein;nein;ja 06:52;8;0.00;regulaerer Dienst, Referenzmuster Anwesenheit
+21.01.2026;Mittwoch;Fruehdienst;nein;nein;ja 06:57;8;0.00;regulaerer Dienst
+27.01.2026;Dienstag;Spaetdienst;nein;nein;ja 13:33;7;0.00;regulaerer Dienst
+02.02.2026;Montag;Fruehdienst;nein;nein;ja 06:54;8;0.00;regulaerer Dienst, Tag vor strittigem Zeitraum
+03.02.2026;Dienstag;Fruehdienst;ja (Ausdruck ab 03.02.);nein;ja 06:55;7;148.50;WIDERSPRUCH: Ausdruck weist AU aus, eAU fehlt, zugleich Patientenbesuche dokumentiert
+04.02.2026;Mittwoch;Fruehdienst;ja (Ausdruck ab 03.02.);nein;ja 06:59;8;148.50;WIDERSPRUCH: Ausdruck weist AU aus, eAU fehlt, zugleich Patientenbesuche dokumentiert
+05.02.2026;Donnerstag;Fruehdienst;ja (Ausdruck ab 03.02.);nein;ja 07:02;6;148.50;WIDERSPRUCH: Ausdruck weist AU aus, eAU fehlt, zugleich Patientenbesuche dokumentiert
+06.02.2026;Freitag;Fruehdienst;ja;ja (ab 06.02.);nein;0;148.50;Konsultation Praxis Twardon, eAU ab hier gemeldet - unauffaellig
+07.02.2026;Samstag;frei;ja;ja;nein;0;0.00;kein Dienst-Soll, keine Entgeltfortzahlung
+09.02.2026;Montag;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+10.02.2026;Dienstag;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+11.02.2026;Mittwoch;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+12.02.2026;Donnerstag;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig
+13.02.2026;Freitag;Fruehdienst;ja;ja;nein;0;148.50;AU gemeldet, keine Anwesenheit - unauffaellig

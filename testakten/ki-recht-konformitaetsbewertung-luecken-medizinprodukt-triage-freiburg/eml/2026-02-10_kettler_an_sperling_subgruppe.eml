@@ -1,0 +1,44 @@
+From: "Dr. Jonas Kettler" <j.kettler@saniscore.de>
+To: "Dr. Annika Sperling" <a.sperling@saniscore.de>
+Cc: "Tobias Reinke" <t.reinke@saniscore.de>
+Date: Tue, 10 Feb 2026 11:24:07 +0100
+Subject: Validierung V-2026-03 - Subgruppe ab 80 Jahren problematisch
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hallo Annika,
+
+ich habe den Validierungslauf ausgewertet und muss einen Punkt
+deutlich ansprechen, bevor das in die technische Doku wandert.
+
+Gesamt sieht gut aus: 94 von 100 kritischen Faellen erkannt, also 94
+Prozent Sensitivitaet. Aber wenn ich nach Alter stratifiziere, kippt
+das Bild fuer die Aeltesten:
+
+- unter 80 Jahren: 79 von 79 kritischen Faellen erkannt (100 Prozent)
+- ab 80 Jahren: nur 15 von 21 kritischen Faellen erkannt (rund 71
+  Prozent)
+
+Das sind sechs uebersehene kritische Faelle in genau der Gruppe, die
+in der Notaufnahme besonders vulnerabel ist. Der Grund ist mit hoher
+Wahrscheinlichkeit die duenne Datenlage: Im Trainingsset sind die
+ueber 80-Jaehrigen nur mit knapp fuenf Prozent vertreten (siehe
+Datenuebersicht), und die Titisee-Daten (K5) sind qualitativ heikel.
+
+Meine dringende Empfehlung:
+1. Wir nehmen das als eigenes Risiko ins Risikoregister auf.
+2. Wir schreiben in die Doku KEINE Aussage wie "keine relevanten
+   Subgruppenunterschiede". Das waere sachlich falsch.
+3. Wir sammeln gezielt mehr Daten fuer die Altersgruppe nach und
+   validieren neu.
+
+Ich moechte das nicht unter den Tisch fallen lassen. Bitte lass uns
+kurz telefonieren.
+
+Viele Gruesse
+Jonas
+
+Dr. Jonas Kettler
+Modellentwicklung / Data Science
+SaniScore Medizintechnik GmbH
+Telefon 0761 45098-217

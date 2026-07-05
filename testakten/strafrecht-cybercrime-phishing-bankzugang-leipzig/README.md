@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/strafrecht-cybercrime-phishing-bankzugang-leipzig_gesamt.pdf`](gesamt-pdf/strafrecht-cybercrime-phishing-bankzugang-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/strafrecht-cybercrime-phishing-bankzugang-leipzig_gesamt.pdf`](gesamt-pdf/strafrecht-cybercrime-phishing-bankzugang-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-cybercrime-phishing-bankzugang-leipzig-einzelpdfs.zip) |
 
@@ -24,6 +24,8 @@ Peukert behauptet, er habe sein Konto nur für einen angeblichen Kryptohandel zu
 
 Die Akte zwingt zur Trennung zwischen Haupttat, Kontoleihe, Vorsatz und Vermögensabschöpfung. Der Verteidigungsansatz liegt bei fehlender Kenntnis der Phishingstruktur, begrenzter Tatherrschaft und der Frage, ob die Bank- und Providerdaten lückenlos gesichert wurden.
 
+Der Datenauswertungs-Kern liegt im zusammengeführten Transaktions- und Login-Log. Aus ihm sind die Schadenssumme, die Bargeldabhebungen und die Weiterleitungskette über die Finanzagenten rekonstruierbar, sobald die in unterschiedlichen Zeitzonen geführten Bank- und Serverprotokolle aufeinander abgeglichen werden. Gegen die Einlassung, das Konto sei nur für einen Kryptohandel verliehen worden, steht dabei der Befund, dass der Löwenanteil des Geldes mit der körperlichen Girocard und der PIN des Kontoinhabers an drei Automaten im eigenen Wohnviertel Leipzig-Grünau abgehoben wurde. Diese Diskrepanz und die Höhe der abgeschöpften Summe müssen rechnerisch belegt werden.
+
 ## Verfahrensstand
 
 Gericht: Amtsgericht Leipzig, Schöffengericht Abteilung 212
@@ -33,6 +35,19 @@ Staatsanwaltschaft: Staatsanwaltschaft Leipzig, 212 Js 6180/26
 Verteidigung oder Vertretung: RAin Dr. Hanna Weigand, Leipzig
 
 Mandatsbezug: Jonas Peukert, 24 Jahre, Lagerist, Kontoinhaber
+
+## Beteiligte
+
+| Person | Rolle |
+| --- | --- |
+| Jonas Peukert | Beschuldigter, Kontoinhaber, 24 Jahre |
+| Irmgard Seidel | Geschädigte, 72 Jahre, Bankkundin |
+| Riko | unbekannter Anwerber und Chatkontakt |
+| Kevin Arlt | Finanzagent, Empfänger einer Weiterleitung |
+| Mandy Röhl | Finanzagentin, Empfängerin einer Weiterleitung |
+| Steffen Kolbe | Saxonia Bank AG, Fraud Desk |
+| Dr. Ing. Ulf Sander | Landeskriminalamt Sachsen, Cybercrime |
+| RAin Dr. Hanna Weigand | Verteidigung, Leipzig |
 
 ## Zeitachse
 
@@ -45,20 +60,31 @@ Mandatsbezug: Jonas Peukert, 24 Jahre, Lagerist, Kontoinhaber
 | 19.06.2026 | Durchsuchung Wohnung Peukert |
 | 05.08.2026 | Frist zur Stellungnahme zum IT-Auswertebericht |
 
-## Dateien in dieser Akte
+## Aktenstruktur
 
-| Datei | Inhalt |
-| --- | --- |
-| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Erstkontakt, Rolle, Sofortfragen und Mandatsziel |
-| [02_sachverhalt_chronologie.docx](02_sachverhalt_chronologie.docx) | ausformulierter Sachverhalt, Zeitachse und offene Widersprüche |
-| [03_ermittlungsakte_auszuege.docx](03_ermittlungsakte_auszuege.docx) | Auszüge aus polizeilichen, staatsanwaltlichen oder gerichtlichen Vermerken |
-| [04_beweismittel_und_arbeitsauftraege.xlsx](04_beweismittel_und_arbeitsauftraege.xlsx) | Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen |
-| [05_fristen_und_verfahrensstand.csv](05_fristen_und_verfahrensstand.csv) | Fristen, Termine, Zustellungen und Wiedervorlagen |
-| [06_email_akteneinsicht_und_rueckfragen.eml](06_email_akteneinsicht_und_rueckfragen.eml) | E-Mail zu Akteneinsicht und Nachforderungen |
-| [07_rechtliche_arbeitsnotiz.docx](07_rechtliche_arbeitsnotiz.docx) | Normanker, Beweislastfragen, taktische Linien |
-| [08_entwurf_verfahrensschritt.docx](08_entwurf_verfahrensschritt.docx) | Entwurf für Stellungnahme, Antrag, Schutzschrift oder Rechtsmittel |
-| [09_originalanlage_behoerdenvermerk.pdf](09_originalanlage_behoerdenvermerk.pdf) | PDF-Anlage mit behördlichem oder fachlichem Vermerk |
-| [rubric.yaml](rubric.yaml) | Prüfpunkte für die fachliche Auswertung |
+```
+strafrecht-cybercrime-phishing-bankzugang-leipzig/
+├── 01_mandatsnotiz_erstgespraech.docx                                    — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+├── 02_sachverhalt_chronologie.docx                                       — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
+├── 03_ermittlungsakte_auszuege.docx                                      — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
+├── 04_beweismittel_und_arbeitsauftraege.xlsx                             — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen
+├── 05_fristen_und_verfahrensstand.csv                                    — Fristen, Termine, Zustellungen und Wiedervorlagen
+├── 06_email_akteneinsicht_und_rueckfragen.eml                            — E-Mail der Verteidigung zu Akteneinsicht und Nachforderungen
+├── 07_rechtliche_arbeitsnotiz.docx                                       — Normanker, Beweislastfragen, taktische Linien
+├── 08_entwurf_verfahrensschritt.docx                                     — Entwurf für Stellungnahme und Einziehungsprüfung
+├── 09_originalanlage_behoerdenvermerk.pdf                                — PDF-Anlage mit behördlichem Vermerk
+├── 10_it_auswertebericht_2026-06-30.docx                                 — IT-forensischer Auswertebericht mit Geldfluss, IP-Zuordnung und Zeitzonenabgleich
+├── 11_beschuldigtenvernehmung_peukert_2026-06-19.docx                    — Vernehmung des Beschuldigten mit Einlassung zur Kontoleihe
+├── 12_transaktions_und_loginlog_2026-04-18_bis_2026-04-19.csv            — Transaktions- und Login-Log; Kern der Schadens- und Weiterleitungsberechnung
+├── eml/
+│   ├── 2026-04-10_finanzagenten_anwerbung.eml                            — Anwerbung des Beschuldigten als Zahlungsabwickler über Riko
+│   ├── 2026-04-17_phishing_mail_original.eml                             — Original der Phishing-Nachricht an die Geschädigte
+│   └── 2026-04-28_bank_betrugsabteilung_anzeige.eml                      — Strafanzeige und Transaktionsübersicht der Bank
+├── signal/
+│   └── chatverlauf.txt                                                   — Signal-Verlauf mit Riko: Provision, Abhebung und Weiterleitung
+├── rubric.yaml                                                           — Sechs Prüfpunkte für die fachliche Auswertung
+└── README.md                                                             — Diese Übersicht
+```
 
 ## Prüffokus
 

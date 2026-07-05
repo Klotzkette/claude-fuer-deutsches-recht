@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 36 KB) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip) |
 
@@ -23,6 +23,8 @@ Leonie Hartmann schildert einen nicht einvernehmlichen Übergriff nach einer Fei
 Unmittelbar nach dem Vorfall schrieb Leonie ihrer Freundin Amira mehrere Sprachnachrichten. Diese liegen als Transkript vor. Medizinische Spuren sind unspezifisch; der ärztliche Bericht dokumentiert Belastungssymptome, aber keine eindeutigen Verletzungen. Der Chatverlauf der Wochen zuvor enthält freundliche, teilweise flirtende Nachrichten, nach dem Vorfall aber einen abrupten Abbruch.
 
 Die Akte verlangt besonders präzise, schonende und ergebnisoffene Arbeit: Aussageentstehung, Aussagekonstanz, Belastungsmotive, Schutzrechte, Beweisaufnahme und mögliche sachverständige Unterstützung müssen getrennt werden. Keine Aktennotiz enthält eine Vorentscheidung über Glaubhaftigkeit.
+
+Ein Datenauswertungs-Kern ergibt sich aus der aus mehreren Quellen zusammengeführten Zeitleiste (Datei 10). Chat-Zeitstempel, Zeugenkontakte, ein Taxi-Fahrtenprotokoll und ein Verbindungsnachweis ergeben objektive Anker (erste Sprachnachricht 01:12 Uhr, Taxi-Fahrtbeginn 01:41 Uhr). An diesen Ankern lassen sich die konkurrierenden Zeitangaben messen: die Erstangabe der Geschädigten fügt sich ein, eine spätere Uhrzeitangabe weicht ab (Frage der Aussagekonstanz), und die Angabe des Beschuldigten ("erst gegen 3 Uhr") liegt deutlich außerhalb des belegten Fensters. Der Abgleich dient ausschließlich der Ordnung der Zeitangaben und trifft keine Vorentscheidung über die Glaubhaftigkeit.
 
 ## Verfahrensstand
 
@@ -45,20 +47,46 @@ Mandatsbezug: Leonie Hartmann, Geschädigte und Nebenklageinteressentin
 | 22.05.2026 | Beschuldigtenvernehmung über Verteidigung abgelehnt |
 | 09.09.2026 | Hauptverhandlung noch nicht terminiert; Schutzanträge vorzubereiten |
 
-## Dateien in dieser Akte
+## Beteiligte
 
-| Datei | Inhalt |
+| Rolle | Person / Stelle |
 | --- | --- |
-| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Erstkontakt, Rolle, Sofortfragen und Mandatsziel |
-| [02_sachverhalt_chronologie.docx](02_sachverhalt_chronologie.docx) | ausformulierter Sachverhalt, Zeitachse und offene Widersprüche |
-| [03_ermittlungsakte_auszuege.docx](03_ermittlungsakte_auszuege.docx) | Auszüge aus polizeilichen, staatsanwaltlichen oder gerichtlichen Vermerken |
-| [04_beweismittel_und_arbeitsauftraege.xlsx](04_beweismittel_und_arbeitsauftraege.xlsx) | Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen |
-| [05_fristen_und_verfahrensstand.csv](05_fristen_und_verfahrensstand.csv) | Fristen, Termine, Zustellungen und Wiedervorlagen |
-| [06_email_akteneinsicht_und_rueckfragen.eml](06_email_akteneinsicht_und_rueckfragen.eml) | E-Mail zu Akteneinsicht und Nachforderungen |
-| [07_rechtliche_arbeitsnotiz.docx](07_rechtliche_arbeitsnotiz.docx) | Normanker, Beweislastfragen, taktische Linien |
-| [08_entwurf_verfahrensschritt.docx](08_entwurf_verfahrensschritt.docx) | Entwurf für Stellungnahme, Antrag, Schutzschrift oder Rechtsmittel |
-| [09_originalanlage_behoerdenvermerk.pdf](09_originalanlage_behoerdenvermerk.pdf) | PDF-Anlage mit behördlichem oder fachlichem Vermerk |
-| [rubric.yaml](rubric.yaml) | Prüfpunkte für die fachliche Auswertung |
+| Geschädigte / Mandantin / Nebenklageinteressentin | Leonie Hartmann |
+| Beschuldigter | David Reimers |
+| Zeugin (Freundin) | Amira Demir |
+| Zeugin (Gastgeberin der Feier) | Carolin "Caro" Vosskamp |
+| Rechtsmedizin | Institut für Rechtsmedizin, Universitätsmedizin Mainz; Dr. med. Petra Ellwanger |
+| Psychosoziale Prozessbegleitung | Frauennotruf Mainz e.V. (Kerstin Ohlert) |
+| Staatsanwaltschaft | Staatsanwaltschaft Mainz, 3 Js 3081/26 |
+| Ermittlungsführung | Polizeipräsidium Mainz, K12, KHK'in Andrea Kirschbaum (Tgb.-Nr. PPMZ/1003-0288/2026) |
+| Nebenklagevertretung | RA Dr. Miriam Kelter, Mainz |
+| Gericht | Landgericht Mainz, Jugend- und Schutzkammer 3 |
+
+## Aktenstruktur
+
+```
+strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/
+├── 01_mandatsnotiz_erstgespraech.docx                     Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+├── 02_sachverhalt_chronologie.docx                        Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
+├── 03_ermittlungsakte_auszuege.docx                       Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
+├── 04_beweismittel_und_arbeitsauftraege.xlsx              Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen
+├── 05_fristen_und_verfahrensstand.csv                     Fristen, Termine, Zustellungen und Wiedervorlagen
+├── 06_email_akteneinsicht_und_rueckfragen.eml             E-Mail der Nebenklagevertretung zu Akteneinsicht und Nachforderungen
+├── 07_rechtliche_arbeitsnotiz.docx                        Normanker, Beweislastfragen, taktische Linien
+├── 08_entwurf_verfahrensschritt.docx                      Entwurf für Schutzantrag oder Nebenklageanschluss
+├── 09_originalanlage_behoerdenvermerk.pdf                 PDF-Anlage mit behördlichem oder fachlichem Vermerk
+├── 10_kontakt_nachrichten_zeitleiste.csv                  Aus mehreren Quellen zusammengeführte Zeitleiste mit objektiven Ankern
+├── 11_zeugenvernehmung_demir_2026-04-30.docx              Aussage der Freundin zu Sprachnachrichten und Zeitverlauf
+├── 12_auswertevermerk_zeitleiste_aussagekonstanz_2026-06-18.docx  Ergebnisoffener Abgleich der Zeitangaben mit den objektiven Ankern
+├── eml/
+│   ├── 01_rechtsmedizin_befunduebersendung_2026-04-08.eml     Übersendung des Untersuchungsbefunds, unspezifische Belastungssymptome
+│   ├── 02_frauennotruf_prozessbegleitung_2026-04-20.eml       Angebot psychosozialer Prozessbegleitung nach Paragraf 406g StPO
+│   └── 03_ladung_zeugin_demir_2026-04-22.eml                  Ladung der Zeugin zur Vernehmung mit Bitte um Sicherung der Nachrichten
+├── whatsapp/
+│   └── chatverlauf.txt                                    Chat Hartmann/Reimers: freundlicher Verlauf vorher, abrupter Abbruch danach
+├── README.md                                              Diese Übersicht
+└── rubric.yaml                                            Prüfpunkte für die Bearbeitung der Akte
+```
 
 ## Prüffokus
 

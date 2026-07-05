@@ -1,0 +1,33 @@
+Datum;Buchungsart;Beschreibung;Belegnummer;Betrag_EUR
+12.02.2024;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;4500.00
+18.03.2024;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;4000.00
+22.04.2024;Barabhebung;Bargeldabhebung Schalter, Konto SV Nordpark;-;5500.00
+27.05.2024;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;6000.00
+24.06.2024;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;5000.00
+26.08.2024;Barabhebung;Bargeldabhebung Schalter, Konto SV Nordpark;-;6500.00
+30.09.2024;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;5500.00
+20.01.2025;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;6000.00
+24.02.2025;Barabhebung;Bargeldabhebung Schalter, Konto SV Nordpark;-;7000.00
+31.03.2025;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;6500.00
+28.04.2025;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;4500.00
+26.05.2025;Barabhebung;Bargeldabhebung Schalter, Konto SV Nordpark;-;4000.00
+30.06.2025;Barabhebung;Bargeldabhebung Geldautomat, Konto SV Nordpark;-;6500.00
+05.03.2024;Barausgabe belegt;Trikotsatz Jugend E/D, Sport Kaudel;R-2024-011;1480.00
+14.05.2024;Barausgabe belegt;Turniergebuehren Pfingstturnier 2024, HFV;R-2024-023;950.00
+30.06.2024;Barausgabe belegt;Schiedsrichterkosten Rueckrunde 2023/24;R-2024-031;2640.00
+12.09.2024;Barausgabe belegt;Fahrtkosten Auswaertsspiele Bus Herbst 2024;R-2024-047;1900.00
+20.10.2024;Barausgabe belegt;Baelle und Trainingsmaterial, Sport Kaudel;R-2024-052;780.00
+15.02.2025;Barausgabe belegt;Trikotsatz Herren, Sport Kaudel;R-2025-008;1560.00
+22.04.2025;Barausgabe belegt;Turniergebuehren und Meldegelder 2025, HFV;R-2025-019;1100.00
+28.06.2025;Barausgabe belegt;Schiedsrichterkosten Rueckrunde 2024/25;R-2025-027;2750.00
+30.06.2025;Barausgabe belegt;Fahrtkosten Auswaertsspiele Fruehjahr 2025;R-2025-030;1780.00
+10.11.2024;Barausgabe belegt;Verbandsabgaben HFV Saison 2024/25;R-2024-058;1880.00
+05.12.2024;Barausgabe belegt;Pokale und Ehrungen Weihnachtsfeier;R-2024-061;620.00
+18.03.2025;Barausgabe belegt;Trainingslager Anzahlung Jugend;R-2025-014;1900.00
+12.05.2025;Barausgabe belegt;Platzpflege und Kleingeraete;R-2025-022;540.00
+20.06.2025;Barausgabe belegt;Erste-Hilfe- und Sanitaetsmaterial;R-2025-026;480.00
+15.07.2024;Barausgabe belegt;Getraenke Sommerfest, Getraenke Reinhardt;R-2024-039;1120.00
+08.09.2024;Barausgabe belegt;Schiedsrichterkosten Pokalrunde 2024;R-2024-044;1400.00
+09.07.2024;Quittung nicht anerkannt;Barauslage Turnier (Quittung ohne Aussteller, identisches Schriftbild);Q-ohne-Nr;1850.00
+14.10.2024;Quittung nicht anerkannt;Fahrtkosten (Dublette zu R-2024-047, identisches Schriftbild);Q-ohne-Nr;1200.00
+03.03.2025;Quittung nicht anerkannt;Bewirtung Bar (Quittung ohne Beleggrund);Q-ohne-Nr;1100.00
