@@ -19,7 +19,7 @@ wir sind als Bevollmaechtigte der VermieterCheck Solutions GmbH (Ruhrallee 188, 
 Karl-Heinz Schimmelpfennig-Drosthager) mandatiert und nehmen Bezug auf das laufende
 Aufsichtsverfahren DSB-NW-44/26.
 
-NACHHOLUNG DATENPANNENMELDUNG GEMAeSS ART. 33 ABS. 1 DSGVO
+NACHHOLUNG DATENPANNENMELDUNG Gemäß ART. 33 ABS. 1 DSGVO
 
 Wir zeigen hiermit pflichtgemaess die nachfolgende Datenschutzverletzung an und begruenden
 die Verspaetung der Meldung gemäß Art. 33 Abs. 1 Satz 2 DSGVO.
@@ -39,7 +39,7 @@ b) Datenkategorien und Datensaetze:
    - Sensitivitaet: Hoch (Bonitaetsdaten, finanzielle Informationen)
 
 c) Betroffene Personengruppen:
-   Mietinteressenten, die in der Zeit von Maerz 2023 bis November 2025 über die
+   Mietinteressenten, die in der Zeit von März 2023 bis November 2025 über die
    VermieterCheck-Plattform gescreent wurden.
 
 d) Ungefaehre Anzahl betroffener Personen: 142.300
@@ -49,7 +49,7 @@ e) Wahrscheinliche Folgen:
    Kreditschaeden durch Missbrauch der Negativmerkmale, psychische Belastung der Betroffenen
    durch Kontrollverlust über Finanzdaten.
 
-f) Ergriffene Massnahmen:
+f) Ergriffene Maßnahmen:
    - Patch CVE-2026-0188 eingespielt am 24.11.2025 (DevOps-Team)
    - API-Endpoint vorlaeufig deaktiviert
    - Beauftragung forensische Analyse: SecureProof GmbH, Bochum (Bericht Nr. SP-2025-4417)
@@ -60,7 +60,7 @@ g) Name und Kontaktdaten des Datenschutzbeauftragten:
    Hannelore Kessler-Brandt, DSB VermieterCheck Solutions GmbH
    dsb@vermietercheck.de | Tel. 0201/498820-15
 
-2. BEGRUENDUNG DER VERSPaeTUNG
+2. BEGRÜNDUNG DER VERSPaeTUNG
 
 Die 72-Stunden-Frist des Art. 33 Abs. 1 DSGVO begann mit Kenntniserlangung am 24.11.2025
 (Eingang GuardDuty-Alert beim DevOps-Leiter, Weiterleitung an GF am selben Tag).
@@ -68,10 +68,10 @@ Die 72-Stunden-Frist des Art. 33 Abs. 1 DSGVO begann mit Kenntniserlangung am 24
 Die Unterlassung der fristgemaessen Meldung resultiert aus einem internen Kommunikationsversagen:
 Der GF wurde zwar informiert, traf jedoch keine Anordnung zur Meldung an die LDI NRW. Der
 Datenschutzbeauftragte wurde nicht eingeschaltet. Dies stellt ein ernstes Organisationsversagen
-dar, das die Mandantin bedauert und das Gegenstand interner Massnahmen ist.
+dar, das die Mandantin bedauert und das Gegenstand interner Maßnahmen ist.
 
 Mit der Mandatsuebername durch unsere Kanzlei am 14.01.2026 wurde die Nachholung der Meldung
-unverzueglich eingeleitet.
+unverzüglich eingeleitet.
 
 3. BEIGEFUEGTE ANLAGEN
 
@@ -80,9 +80,9 @@ unverzueglich eingeleitet.
 - Forensik-Timeline CVE-2026-0188
 - Entwurf Betroffenenbenachrichtigung Art. 34 DSGVO
 
-Wir stehen für Rueckfragen und eine muendliche Erlaeuterung jederzeit zur Verfuegung.
+Wir stehen für Rückfragen und eine muendliche Erlaeuterung jederzeit zur Verfügung.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 Dr. Cornelius Specht
 Rechtsanwalt | Fachanwalt für Datenschutzrecht

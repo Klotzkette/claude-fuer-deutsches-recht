@@ -1,18 +1,18 @@
 WhatsApp-Chat-Export (Auszug) - Anlage zum Auswertevermerk vom 20.06.2026 (Bl. 88-90 d. A.)
-Quelle: Mobiltelefon Clara Wienholt (Apple iPhone), vorgelegt durch die Geschaedigte, Screenshots und Export gesichert am 15.06.2026
-Chat: wechselnde Nummern (im Export als "Unbekannt" gefuehrt) | Zeitraum des Auszugs: 20.04.2026 bis 28.06.2026
+Quelle: Mobiltelefon Clara Wienholt (Apple iPhone), vorgelegt durch die Geschädigte, Screenshots und Export gesichert am 15.06.2026
+Chat: wechselnde Nummern (im Export als "Unbekannt" geführt) | Zeitraum des Auszugs: 20.04.2026 bis 28.06.2026
 
 [20.04.2026, 07:12] Unbekannt: Guten Morgen Schatz. Ich denke an dich
-[20.04.2026, 07:41] Clara: Wer ist das? Bitte hoeren Sie auf mir zu schreiben
+[20.04.2026, 07:41] Clara: Wer ist das? Bitte hören Sie auf mir zu schreiben
 [30.04.2026, 23:58] Unbekannt: Du kommst nicht weg. Ich sehe dich jeden Tag
 [01.05.2026, 06:15] Clara: Lass mich in Ruhe, ich rufe die Polizei
-[08.05.2026, 22:05] Unbekannt: Warum hast du das Geraet entfernt? Das war nicht noetig
+[08.05.2026, 22:05] Unbekannt: Warum hast du das Gerät entfernt? Das war nicht nötig
 [08.05.2026, 22:09] Clara: Woher weisst du das. Das ist krank
-[16.05.2026, 12:00] Unbekannt: Ich warte. Wir gehoeren zusammen
+[16.05.2026, 12:00] Unbekannt: Ich warte. Wir gehören zusammen
 [27.05.2026, 22:50] Unbekannt: Bald sind wir wieder zusammen, dann ist alles gut
 [03.06.2026, 10:20] Clara: Es gibt jetzt ein gerichtliches Kontaktverbot. Jeder weitere Kontakt ist strafbar
 [05.06.2026, 21:12] Unbekannt: Kein Gericht haelt mich ab. Du gehoerst zu mir
 [28.06.2026, 19:55] Unbekannt: Bis bald
 
 - Ende des Auszugs -
-Vermerk der Auswertung (KOKin Wehrmann): Die Nachricht vom 08.05.2026, 22:05 Uhr ("warum hast du das Geraet entfernt") faellt auf den Tag nach dem Fund des GPS-Senders am 07.05.2026 und belegt Kenntnis des Absenders vom Tracker. Die Nachrichten vom 05.06.2026 und 28.06.2026 erfolgten nach Wirksamkeit des Kontaktverbots vom 03.06.2026. Die vollstaendige Kanaluebersicht ist in 10_kontaktchronologie_kanaele.csv erfasst.
+Vermerk der Auswertung (KOKin Wehrmann): Die Nachricht vom 08.05.2026, 22:05 Uhr ("warum hast du das Gerät entfernt") fällt auf den Tag nach dem Fund des GPS-Senders am 07.05.2026 und belegt Kenntnis des Absenders vom Tracker. Die Nachrichten vom 05.06.2026 und 28.06.2026 erfolgten nach Wirksamkeit des Kontaktverbots vom 03.06.2026. Die vollständige Kanaluebersicht ist in 10_kontaktchronologie_kanaele.csv erfasst.

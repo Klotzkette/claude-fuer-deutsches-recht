@@ -3,32 +3,32 @@ Kanal: Instandhaltung Logistik - AMR-Flotte
 Exportiert am: 26.06.2026 durch IT (Ticket INC-2026-2205)
 Zeitraum: 09.12.2025 bis 24.06.2026
 
-[09.12.2025 12:40] Kai Rueggeberg:
+[09.12.2025 12:40] Kai Rüggeberg:
 RB-07 hat heute mittag einen Sensor-Ausfall S3 gehabt (E-SNS-311).
-Not-Halt kam ueber die Rueckfallerkennung, aber verspaetet. Bitte
+Not-Halt kam über die Rueckfallerkennung, aber verspaetet. Bitte
 Auge drauf.
 
 [15.01.2026 14:15] Marek Sobczak (Schicht B):
 Schon wieder RB-07 in Zone C. Sensor S3 ist kurz ausgefallen, Roboter
-haette fast einen Kollegen erwischt. Not-Halt kam in letzter Sekunde.
+hätte fast einen Kollegen erwischt. Not-Halt kam in letzter Sekunde.
 Ticket STOER-2026-0042 ist auf.
 
 [27.02.2026 11:00] Marek Sobczak (Schicht B):
 Dritter Vorfall gleicher Art bei RB-07. Das ist kein Zufall mehr. Der
 Sensor spinnt seit dem Update im November.
 
-[27.02.2026 11:12] Kai Rueggeberg:
+[27.02.2026 11:12] Kai Rüggeberg:
 Verstanden. Ich haenge mich an AutoMove ran. Bis dahin bitte in Zone
 C langsam fahren lassen und aufmerksam sein.
 
-[08.04.2026 16:30] Kai Rueggeberg:
+[08.04.2026 16:30] Kai Rüggeberg:
 AutoMove hat den Sicherheitshinweis SB-2026-03 rausgegeben. Firmware
 4.3 behebt den S3-Fehler. Soll dringend eingespielt werden. Die
 empfehlen sogar, RB-07 solange aus Bereichen mit Personen zu nehmen.
 
-[11.04.2026 17:25] Kai Rueggeberg:
+[11.04.2026 17:25] Kai Rüggeberg:
 Ich schlage vor, wir spielen 4.3 nach dem Quartalspeak ein, also nach
-dem 30.06. Wir haben jetzt keine Kapazitaet fuer den Ausfall. Die
+dem 30.06. Wir haben jetzt keine Kapazität für den Ausfall. Die
 Rueckfallerkennung haelt ja bisher.
 
 [11.04.2026 17:44] Petra Wollenweber:
@@ -36,9 +36,9 @@ Ich bin dagegen. Drei Beinahe-Vorfaelle plus Herstellerwarnung. Wenn
 etwas passiert, ist das grob fahrlaessig. Bitte RB-07 aus Zone C
 nehmen.
 
-[14.04.2026 09:02] Kai Rueggeberg:
+[14.04.2026 09:02] Kai Rüggeberg:
 Ist mit Marius besprochen: Update Anfang Juli, bis dahin
-Weiterbetrieb mit erhoehter Aufmerksamkeit. Bitte so umsetzen.
+Weiterbetrieb mit erhöhter Aufmerksamkeit. Bitte so umsetzen.
 
 [24.06.2026 09:55] Marek Sobczak (Schicht B):
 Es ist passiert. RB-07 hat in Zone C einen Leiharbeiter erfasst.

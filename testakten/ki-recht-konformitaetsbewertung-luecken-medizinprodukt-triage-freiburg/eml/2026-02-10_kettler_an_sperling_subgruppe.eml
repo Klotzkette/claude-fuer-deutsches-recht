@@ -11,31 +11,31 @@ Hallo Annika,
 ich habe den Validierungslauf ausgewertet und muss einen Punkt
 deutlich ansprechen, bevor das in die technische Doku wandert.
 
-Gesamt sieht gut aus: 94 von 100 kritischen Faellen erkannt, also 94
+Gesamt sieht gut aus: 94 von 100 kritischen Fällen erkannt, also 94
 Prozent Sensitivitaet. Aber wenn ich nach Alter stratifiziere, kippt
-das Bild fuer die Aeltesten:
+das Bild für die Aeltesten:
 
-- unter 80 Jahren: 79 von 79 kritischen Faellen erkannt (100 Prozent)
-- ab 80 Jahren: nur 15 von 21 kritischen Faellen erkannt (rund 71
+- unter 80 Jahren: 79 von 79 kritischen Fällen erkannt (100 Prozent)
+- ab 80 Jahren: nur 15 von 21 kritischen Fällen erkannt (rund 71
   Prozent)
 
-Das sind sechs uebersehene kritische Faelle in genau der Gruppe, die
+Das sind sechs uebersehene kritische Fälle in genau der Gruppe, die
 in der Notaufnahme besonders vulnerabel ist. Der Grund ist mit hoher
 Wahrscheinlichkeit die duenne Datenlage: Im Trainingsset sind die
-ueber 80-Jaehrigen nur mit knapp fuenf Prozent vertreten (siehe
+über 80-Jaehrigen nur mit knapp fünf Prozent vertreten (siehe
 Datenuebersicht), und die Titisee-Daten (K5) sind qualitativ heikel.
 
 Meine dringende Empfehlung:
 1. Wir nehmen das als eigenes Risiko ins Risikoregister auf.
 2. Wir schreiben in die Doku KEINE Aussage wie "keine relevanten
-   Subgruppenunterschiede". Das waere sachlich falsch.
-3. Wir sammeln gezielt mehr Daten fuer die Altersgruppe nach und
+   Subgruppenunterschiede". Das wäre sachlich falsch.
+3. Wir sammeln gezielt mehr Daten für die Altersgruppe nach und
    validieren neu.
 
-Ich moechte das nicht unter den Tisch fallen lassen. Bitte lass uns
+Ich möchte das nicht unter den Tisch fallen lassen. Bitte lass uns
 kurz telefonieren.
 
-Viele Gruesse
+Viele Grüße
 Jonas
 
 Dr. Jonas Kettler

@@ -3,7 +3,7 @@ Kanal: Sozialamt SG Leistung - KOMPASS Anwenderrunde
 Exportiert am: 05.05.2026 durch IT-Koordination (Ticket INC-2026-1197)
 Zeitraum: 04.03.2026 bis 02.04.2026
 
-[04.03.2026 08:52] Katrin Poehlmann:
+[04.03.2026 08:52] Katrin Pöhlmann:
 Guten Morgen. Kurze Frage: Ich habe hier Leute in Klasse C, die im
 Leistungsverfahren voellig unauffaellig sind. Wenn ich mir die
 Faktoren ansehe, sind das fast nur Bibliotheksmahnungen und
@@ -13,14 +13,14 @@ Parkknoellchen. Ist das gewollt?
 Ja, das ist so eingestellt. Der Score zieht die Punkte aus mehreren
 Quellen. Steht in der Systembeschreibung, Version 4.2.
 
-[04.03.2026 09:11] Katrin Poehlmann:
-Aber dann bestrafen wir jemanden bei der Grundsicherung dafuer, dass
+[04.03.2026 09:11] Katrin Pöhlmann:
+Aber dann bestrafen wir jemanden bei der Grundsicherung dafür, dass
 er ein Buch zu spaet zurueckgibt. Das fuehlt sich falsch an.
 
-[12.03.2026 15:22] Katrin Poehlmann:
-Konkreter Fall BK-018: ohne die fachfremden Punkte waere die Frau in
+[12.03.2026 15:22] Katrin Pöhlmann:
+Konkreter Fall BK-018: ohne die fachfremden Punkte wäre die Frau in
 Klasse A. Mit Bibliothek, Parken, Schwarzfahren und Abfall ist sie in
-C und muss jetzt alle drei Monate vorsprechen. Das ist ein Sprung ueber
+C und muss jetzt alle drei Monate vorsprechen. Das ist ein Sprung über
 zwei Klassen.
 
 [12.03.2026 15:40] Erik Baumgartl:
@@ -28,13 +28,13 @@ Ich habe das der Projektleitung gemeldet. Antwort war: so beauftragt,
 bitte nicht selbst herausrechnen.
 
 [20.03.2026 11:03] Norbert Kittler:
-Mir faellt auf, dass die Betroffenen gar nicht wissen, woher die
+Mir fällt auf, dass die Betroffenen gar nicht wissen, woher die
 Punkte kommen. Wenn jemand fragt, was soll ich sagen? Wir haben denen
 gesagt, wir nutzen nur unsere eigenen Leistungsdaten.
 
-[20.03.2026 11:19] Katrin Poehlmann:
-Genau das ist der Punkt. Nach aussen heisst es fachbereichsintern,
-tatsaechlich ziehen wir aus vier weiteren Toepfen. Ich moechte das
+[20.03.2026 11:19] Katrin Pöhlmann:
+Genau das ist der Punkt. Nach aussen heißt es fachbereichsintern,
+tatsächlich ziehen wir aus vier weiteren Toepfen. Ich möchte das
 nicht ausbaden, wenn das mal hochkommt.
 
 [02.04.2026 16:47] Erik Baumgartl:

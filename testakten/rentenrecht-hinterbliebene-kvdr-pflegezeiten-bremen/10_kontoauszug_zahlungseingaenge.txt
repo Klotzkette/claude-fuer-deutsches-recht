@@ -5,12 +5,12 @@ Konto: Helga Bruns, IBAN DE44 2905 0101 0008 3312 07
 --------------------------------------------------------------
 Buchungstag  Vorgang / Verwendungszweck                 Betrag
 --------------------------------------------------------------
-01.06.2026   GUTSCHRIFT UEBERWEISUNG                  + 164,80
+01.06.2026   GUTSCHRIFT ÜBERWEISUNG                  + 164,80
              UNTERSTUETZUNGSKASSE D. BREMER
              KAFFEEHANDELS E.V.
              LEISTUNG 05/2026 UK-1999-0347
 
-05.06.2026   GUTSCHRIFT UEBERWEISUNG                 + 2.627,04
+05.06.2026   GUTSCHRIFT ÜBERWEISUNG                 + 2.627,04
              RENTEN SERVICE
              NACHZAHLUNG WITWENRENTE 05-06/2026
              VSNR 15 120855 B 508
@@ -25,7 +25,7 @@ Buchungstag  Vorgang / Verwendungszweck                 Betrag
              WITWENRENTE 07/2026
              VSNR 15 120855 B 508
 
-30.06.2026   GUTSCHRIFT UEBERWEISUNG                  + 132,37
+30.06.2026   GUTSCHRIFT ÜBERWEISUNG                  + 132,37
              UNTERSTUETZUNGSKASSE D. BREMER
              KAFFEEHANDELS E.V.
              LEISTUNG 06/2026 UK-1999-0347
@@ -36,4 +36,4 @@ Handschriftliche Notiz der Mandantin am Rand:
 "Mai noch 164,80 - Juni nur 132,37?? Wer zieht hier was ab,
 die Kasse oder die Kaffeekasse? Und ab August sollen von der
 Witwenrente auch noch mal fast 100 Euro weggehen.
-Fuer Frau Feldhusen mitbringen."
+Für Frau Feldhusen mitbringen."

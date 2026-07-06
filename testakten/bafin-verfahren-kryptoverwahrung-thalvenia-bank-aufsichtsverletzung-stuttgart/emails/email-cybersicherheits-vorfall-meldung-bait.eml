@@ -16,7 +16,7 @@ An: Vorstand, CRO, CCO, Leiterin Rechtsabteilung
 LAGEBESCHREIBUNG:
 
 Heute Nacht wurde unser Verwaltungsnetz durch einen Ransomware-Angriff befallen.
-14 Server wurden verschluesselt. Der Angreifer nutzte CVE-2024-21762 (FortiGate VPN).
+14 Server wurden verschlüsselt. Der Angreifer nutzte CVE-2024-21762 (FortiGate VPN).
 
 AKTUELLE SITUATION:
 - Produktionssysteme: NICHT betroffen (Cold Custody physisch isoliert)
@@ -28,14 +28,14 @@ AKTUELLE SITUATION:
 BEREITS ERGRIFFENE MASSNAHMEN:
 - Isolierung betroffener Netzwerksegmente (07:45 Uhr)
 - FortiGate Notfallpatch eingespielt (08:20 Uhr)
-- Backup-Verifikation laeuft
+- Backup-Verifikation läuft
 
 ZU KLAERENDE FRAGE:
 Meldepflicht nach BAIT Tz. 55 (BaFin) und ggf. NIS2 (BSI):
 Wann und was melden wir? Ich empfehle, den Anwalt hinzuzuziehen und
 erst nach Vorliegen der ersten Forensikergebnisse zu melden (Zeitraum: ca. 48-72h).
 
-NAECHSTE SCHRITTE:
+NÄCHSTE SCHRITTE:
 - Vorstandsmeeting 10:00 Uhr (Konferenzraum 2)
 - Forensik-Beginn 11:00 Uhr
 - Erste Lageeinschaetzung Forensik: ca. 13.01.2026

@@ -4,7 +4,7 @@ Az. HH/2022/0884/qES
 
 Datum: 19. April 2022, ca. 09:15 Uhr (Telefonat, ca. 38 Minuten)
 Notiert von: Dr. Veronika Hassenstein-Heepen
-Mandant: Goetz-Sieghart Eberhart-Wolframshausen, Eckendorfer Str. 188, App. 4 OG, 33609 Bielefeld
+Mandant: Götz-Sieghart Eberhart-Wolframshausen, Eckendorfer Str. 188, App. 4 OG, 33609 Bielefeld
 
 ======================================================
 ROEHER GESPRÄCHSINHALT (Stichpunkte/teilweise wörtlich)
@@ -16,7 +16,7 @@ HINTERGRUND (Mandant erzählt):
 - "Ich habe IMMER gezahlt, nur manchmal später oder weniger. Das Leben ist teuer."
 - Vermieterin hat am 08./09.02. per WhatsApp gemahnt ("schon wieder WhatsApp!")
 - Am 10.02.: Sprachnachricht auf WhatsApp -- "sowas als Kündigung???"
-- Dann noch E-Mail mit PDF ohne Signatur -- "ich bin IT-Admin, ich weiss was eine qES ist!"
+- Dann noch E-Mail mit PDF ohne Signatur -- "ich bin IT-Admin, ich weiß was eine qES ist!"
 - Mandant arbeitet als Senior IT-Administrator bei einem mittelständischen Unternehmen
   in Bielefeld-Schildesche. Hat eindeutig technisches Vorwissen re: digitale Signaturen.
 
@@ -32,11 +32,11 @@ FORDERUNGSHÖHE:
 - Vermieterin behauptet EUR 1.696,31 Rückstand
 - Mandant sagt: "Das stimmt nicht! Ich habe in 2021 immer EUR 800,-- gezahlt statt 648,97.
   Das sind Überzahlungen von über EUR 1.800,-- die verrechnet werden müssen!"
-- --> Pruefung: Kontoauszüge anfordern. Klägerin hat wohl Kontoauszug als Anlage K-MIET-2
+- --> Prüfung: Kontoauszüge anfordern. Klägerin hat wohl Kontoauszug als Anlage K-MIET-2
   beigefügt -- muss ich analysieren.
 
 MANDANT-WUNSCH:
-- "Ich will in der Wohnung bleiben. Ich zahle jetzt regelmaessig."
+- "Ich will in der Wohnung bleiben. Ich zahle jetzt regelmäßig."
 - "Aber ich will auch, dass dieses rechtliche Argument zum BGH kommt. Das ist wichtig!"
 - "Können wir nicht einfach sagen: Kündigung unwirksam, ich zahle den Rest, Thema erledigt?"
   --> Erklärt: Das ist der optimale Ausgang, aber Klägerin könnte erneut wirksam kündigen.

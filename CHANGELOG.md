@@ -1,3 +1,12 @@
+# v428.0.0 — Echte Umlaute statt ASCII-Umschrift in allen E-Mail- und Chat-Aktenstücken
+
+- In den Aktenstücken vom Typ E-Mail (EML) und Chat-Export (TXT) stand vielfach ASCII-Umschrift (ue, ae, oe, ss) statt echter Umlaute; die formatierten DOCX-Aktenstücke waren davon nicht betroffen. Über den gesamten Testakten-Bestand (932 EML/TXT-Dateien geprüft) wurden 217 Dateien auf echte Umlaute (ä, ö, ü, ß) umgestellt.
+- Die Ersetzung erfolgte über eine kuratierte, wortgenaue und Groß-/Kleinschreibung erhaltende Positivliste, damit legitime Buchstabenfolgen unangetastet bleiben (neue, Steuer, Dauer, Wasser, dass, muss, Frauen, Nettoeinkommen und Ähnliches). E-Mail-Adressen, URLs und Message-IDs wurden vor der Ersetzung maskiert und blieben unverändert. Eine Fehlkonversionsprüfung über den gesamten Bestand ergab keine falsch gesetzten Umlaute.
+- Die Gesamt-PDFs der 111 betroffenen Testakten wurden neu gebaut, damit die konsolidierten Lesefassungen die korrigierten Texte enthalten.
+- Alle Validatoren grün (301 Testakten; Marketplace 233 Plugins; Struktur; Frontmatter; Downloads; Keine-Markdown-Aktenstücke). Repo-weiter Versions-Bump auf v428.0.0.
+
+---
+
 # v427.0.0 — HOAI-Baurechtsakte auf Vollakten-Niveau, fünfzehn Sozial-, Renten- und Arbeitsrechtsakten geboostet
 
 - Die HOAI-Leistungsphasen-Testakte (Kita Mühlenhof, Berlin-Lichtenrade) von Stichwort-Stummeln auf Vollakten-Niveau gehoben: acht bislang nur 460 bis 685 Zeichen lange Aktenstücke zu vollständig ausformulierten Dokumenten ausgebaut (Architektenvertrag mit Leistungsbild § 34 HOAI und Honorarzonen, vier vollständige Jour-fixe-Protokolle, Vergabevermerk mit Wertungsmatrix, anwaltliches Prüfmemo im Gutachtenstil), fünf EML-Dateien, Kostenverfolgungs-XLSX mit Budgetdrift über die Leistungsphasen und eine HOAI-Honorarberechnungs-CSV als Datenauswertungs-Kern. Zusätzlich vier neue Aktenstücke: Bauzeitenplan mit Vertragsstrafen-Kern (Bauherrin setzt sechs Wochen mit 4.102,56 EUR an, von der Architektin zu vertreten sind nur drei Wochen mit 2.051,28 EUR), Honorar-Teilschlussrechnung über die verdienten 364.056 EUR, Kürzungsschreiben der Bauherrin und Mängelchronologie. Das Gesamt-PDF wuchs von einem dünnen Stub auf eine vollständige Lesefassung.

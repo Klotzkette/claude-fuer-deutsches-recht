@@ -1,6 +1,6 @@
 # buerokratieversteher-entbuerokratisierer
 
-**100 Skills** · Stand `v427.0.0`
+**100 Skills** · Stand `v428.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/buerokratieversteher-entbuerokratisierer/README.md)

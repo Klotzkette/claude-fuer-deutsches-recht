@@ -32,7 +32,7 @@ vorliegen, behalten wir uns vor:
 - die Zahlung gem. § 46 GwG zurueckabzuwickeln
 - die Geschäftsbeziehung mit Danube Trade Solutions SRL gem. § 10 Abs. 9
   GwG zu beenden
-- den Sachverhalt der FIU zur Pruefung vorzulegen
+- den Sachverhalt der FIU zur Prüfung vorzulegen
 
 ------- ENGLISH -------
 
@@ -57,7 +57,7 @@ Failing complete submission by 11 May 2026 we reserve the right to:
 - terminate the business relationship with Danube TS under section 10(9) GwG
 - file a suspicious transaction report with the German FIU
 
-Mit freundlichen Gruessen / Best regards
+Mit freundlichen Grüßen / Best regards
 Thomas Eckhardt
 Geldwäschebeauftragter
 Musterholding GmbH

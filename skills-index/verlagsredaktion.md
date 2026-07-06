@@ -1,6 +1,6 @@
 # verlagsredaktion
 
-**117 Skills** · Stand `v427.0.0`
+**117 Skills** · Stand `v428.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/verlagsredaktion/README.md)

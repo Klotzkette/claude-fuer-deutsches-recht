@@ -1,23 +1,23 @@
 Microsoft-Teams-Chat-Export (Auszug)
 Kanal: Teamleitung Bonn - intern
-Exportiert am: 24.03.2026 auf Anforderung der Geschaeftsfuehrung
+Exportiert am: 24.03.2026 auf Anforderung der Geschäftsführung
 (Beweissicherung Verfahren KI-MUE-2026/0147)
 Zeitraum: 07.01.2026 bis 30.01.2026
 
 [07.01.2026 08:52] Timo Radeke:
-Morgen zusammen. Reminder: Monatsauswertung VoiceMood fuer Dezember
+Morgen zusammen. Reminder: Monatsauswertung VoiceMood für Dezember
 ist im Dashboard. Bitte bis Freitag je Team die drei Agents mit den
 schlechtesten Emotionswerten raussuchen und Gespraechstermine
 machen.
 
 [07.01.2026 09:03] Verena Ohlsen:
 Machen wir. Kleiner Einwand: In der Schulung hiess es doch, das
-Tool sei fuer Fuersorge gedacht, nicht fuer Rankings?
+Tool sei für Fuersorge gedacht, nicht für Rankings?
 
 [07.01.2026 09:07] Timo Radeke:
-Die Folien vom Vertrieb waren da deutlich: objektive Grundlage fuer
-Zielvereinbarungen. Steinbuechel will die AHT runter, und das ist
-das Werkzeug dafuer. Fuersorge schliesst ja nicht aus, dass wir
+Die Folien vom Vertrieb waren da deutlich: objektive Grundlage für
+Zielvereinbarungen. Steinbüchel will die AHT runter, und das ist
+das Werkzeug dafür. Fuersorge schliesst ja nicht aus, dass wir
 Klartext reden.
 
 [12.01.2026 17:41] Timo Radeke:
@@ -27,7 +27,7 @@ versteht meinen Akzent nicht"). Beobachten wir weiter.
 
 [13.01.2026 10:15] Pascal Struckmeier:
 Frage: Hat schon mal jemand einen Alert an den Betriebsarzt
-weitergegeben? Ich finde dafuer gar keinen Prozess im Wiki.
+weitergegeben? Ich finde dafür gar keinen Prozess im Wiki.
 
 [13.01.2026 10:22] Verena Ohlsen:
 Gibt keinen. Ich hatte im November zwei Agents mit "Erschoepfung"
@@ -46,7 +46,7 @@ ja sauber dokumentiert.
 
 [26.01.2026 12:05] Verena Ohlsen:
 Bist du sicher, dass wir eine Abmahnung auf die Emotionswerte
-stuetzen koennen? Das Handbuch sagt ausdruecklich, das Tool ist
+stuetzen können? Das Handbuch sagt ausdrücklich, das Tool ist
 keine Leistungskontrolle.
 
 [26.01.2026 12:09] Timo Radeke:
@@ -61,5 +61,5 @@ widerrufen. Bitte Auswertungen vorerst nicht mehr per Mail
 verschicken, nur noch im Dashboard ansehen.
 
 [30.01.2026 09:20] Timo Radeke:
-Danke fuer den Hinweis. Gespraechstermine laufen aber weiter, bis
+Danke für den Hinweis. Gespraechstermine laufen aber weiter, bis
 von oben etwas anderes kommt.

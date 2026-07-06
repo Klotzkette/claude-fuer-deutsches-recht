@@ -32,7 +32,7 @@ I.   VARIANTE A: VEYRA AI Foundation gGmbH, Frankfurt am Main
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Frankfurt 810 RES 14/26
   Gesellschaft  : gGmbH (gemeinnützig), HRB 118 847
-  Groesse       : Kleine Kapitalgesellschaft; keine Bankverbindlichkeiten
+  Größe       : Kleine Kapitalgesellschaft; keine Bankverbindlichkeiten
   GF            : Dr. Mira Hellinghaus-Karpov (alleinvertretungsber.)
   AR-Vorsitz    : Prof. Dr. Heinrich Osterwald-Bonn
   Kanzlei       : Reher Wennstedt (Dr. Reher-Bornholmsen, federf.)
@@ -72,7 +72,7 @@ II.  VARIANTE B: Herrenbluse & Zwirn Hartmannschmidt AG, Bamberg
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Bamberg 53 RES 7/26
   Gesellschaft  : AG (Open Market, Börse Frankfurt), HRB 4 771, ISIN: DE000HZH0042
-  Groesse       : Mittlerer Konzern; Umsatz ca. EUR 380 Mio. (2025)
+  Größe       : Mittlerer Konzern; Umsatz ca. EUR 380 Mio. (2025)
   Gründung     : 1891 (Familienunternehmen, 5. Generation Hartmannschmidt)
   Vorstand      : Helge Hartmannschmidt (Sprecher), Annika Luettke-Berens (CFO)
   Kanzlei       : Reher Wennstedt (Dr. Reher-Bornholmsen + Dr. Vellmer-Lutz)
@@ -163,7 +163,7 @@ IV.  VARIANTE D: Salaltbar UG (haftungsbeschraenkt), Berlin-Neukölln
 ------------------------------------------------------------------------
   Aktenzeichen  : AG Charlottenburg 36 IN 412/26
   Gesellschaft  : UG (haftungsbeschraenkt), HRB 212 904 B
-  Groesse       : Kleinstunternehmen; 3 Filialen; 6 Mitarbeiter
+  Größe       : Kleinstunternehmen; 3 Filialen; 6 Mitarbeiter
   GF/Gesellsch. : Tarek-Yusuf Celebi-Drebenstedt (geb. 1990, Alleingesellschafter)
   Kanzlei       : RAin Charlotte Wandelmoser, Berlin-Charlottenburg
                   (Kooperationspartnerin Reher Wennstedt im Bereich Kleinstfälle)
@@ -201,7 +201,7 @@ IV.  VARIANTE D: Salaltbar UG (haftungsbeschraenkt), Berlin-Neukölln
 
   EINSCHÄTZUNG:
     Lehrreichster Fall für die Grenzen des StaRUG: Das Gesetz richtet sich an "mittlere
-    und grosse" Unternehmen in der frühen Drohungsphase. Klein-UGs in akuter ZU sind
+    und große" Unternehmen in der frühen Drohungsphase. Klein-UGs in akuter ZU sind
     auf klassisches Insolvenzrecht angewiesen. Das StaRUG ist kein Wundermittel.
     Der Fall verdeutlicht: FRÜHWARNUNG ist entscheidend — ein Jahr früher (2025) wäre
     ein aussergerichtlicher Sanierungsansatz noch realistisch gewesen.
@@ -216,7 +216,7 @@ Rechtsform           | gGmbH              | AG (Open Market)    | SE (Prime Stan
 Krisenstadium        | Droh. ZU § 18 InsO | Droh. ZU § 18 InsO  | Droh. ZU + Ueberschuldungsnaehe | Akute ZU § 17 InsO (!)
 StaRUG anwendbar?    | Ja                 | Ja                  | Ja                   | NEIN (§ 4 StaRUG)
 StaRUG-Instrument    | Restr.plan § 5 ff. | Cross-Class-CD §26  | Stabilisier. §§49-59 | --- (nur § 102)
-Groesse (Schulden)   | EUR ~0,6 Mio.      | EUR ~90 Mio.        | EUR ~550 Mio.        | EUR ~43.000
+Größe (Schulden)   | EUR ~0,6 Mio.      | EUR ~90 Mio.        | EUR ~550 Mio.        | EUR ~43.000
 Gläubigerstruktur   | 1 Hauptgläubiger  | 8 Banken + Anleihe  | Banken + Aktivist    | 3-4 kleine Glaeu.
 Schlechterst.-Gut.?  | Nicht erford.      | Ja (IDW S 11)       | Ja (§ 27 StaRUG)     | n/a
 Insolvenzgefahr akut | Nein (ab Jun 2027) | Nein (Waiver)       | Mittel (EBITDA neg.) | JA — § 15a InsO!
@@ -246,7 +246,7 @@ D. RECHTLICHE SCHLUSSFOLGERUNGEN UND LERNPUNKTE
     - Kleinstunternehmen  (<= EUR 100.000 Schulden)   : kein StaRUG; aussergerichtlich oder InsO
     - Kleine Unt.        (EUR 100.000 - 5 Mio.)       : StaRUG nur wenn früher Zeitpunkt
     - Mittlere Unt.      (EUR 5-50 Mio. Schulden)     : StaRUG Restrukturierungsplan
-    - Grosse Unt.        (> EUR 50 Mio. Schulden)     : Cross-Class-CD + Stabilisierungsanordnung
+    - Große Unt.        (> EUR 50 Mio. Schulden)     : Cross-Class-CD + Stabilisierungsanordnung
 
 5.  AKTIVISTEN-RISIKO (vgl. Variante C):
     Hedgefonds-Aktivismus im deutschen Restrukturierungsrecht nimmt zu. § 26 StaRUG
@@ -275,7 +275,7 @@ E. QUELLEN UND GRUNDLAGEN
 - Market Abuse Regulation (MAR), VO (EU) Nr. 596/2014
 
 ===========================================================================
-VERTRAULICHKEITSHINWEIS: Diese Notiz ist ausschliesslich für den internen
+VERTRAULICHKEITSHINWEIS: Diese Notiz ist ausschließlich für den internen
 Gebrauch der Kanzlei Reher Wennstedt sowie der Kooperationspartnerin
 RAin Wandelmoser bestimmt. Weitergabe an Mandanten oder Dritte bedarf
 der vorherigen schriftlichen Zustimmung von Dr. Tjark Reher-Bornholmsen.

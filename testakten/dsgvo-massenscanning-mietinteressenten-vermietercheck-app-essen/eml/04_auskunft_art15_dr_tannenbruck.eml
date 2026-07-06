@@ -13,11 +13,11 @@ In-Reply-To: <Tannenbruck-Auskunftsersuchen-20251212@uni-duisburg-essen.de>
 Sehr geehrte Frau Dr. Tannenbruck,
 
 wir erhalten uns auf Ihr Auskunftsersuchen gemäß Art. 15 DSGVO vom 12. Dezember 2025
-sowie auf das laufende Klageverfahren LG Essen 4 O 244/26. Wir entschuldigen uns ausdruecklich
+sowie auf das laufende Klageverfahren LG Essen 4 O 244/26. Wir entschuldigen uns ausdrücklich
 für die Versaeumung der Monatsfrist nach Art. 12 Abs. 3 DSGVO und erteilen nunmehr die
-vollstaendige Auskunft.
+vollständige Auskunft.
 
-AUSKUNFT GEMAeSS ART. 15 ABS. 1 DSGVO
+AUSKUNFT Gemäß ART. 15 ABS. 1 DSGVO
 
 Verantwortlicher: VermieterCheck Solutions GmbH, Ruhrallee 188, 45136 Essen
 Datenschutzbeauftragte: Hannelore Kessler-Brandt, dsb@vermietercheck.de, Tel. 0201/498820-15
@@ -33,7 +33,7 @@ Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
    Titel                  | Dr.
    Adresse                | Gildehofstrasse 18, 45127 Essen
    E-Mail-Adresse         | s.tannenbruck@uni-duisburg-essen.de
-   Bewerbungsdatum        | 08. Maerz 2025
+   Bewerbungsdatum        | 08. März 2025
    Bewerbungsobjekt-ID    | ESS-RUE-2025-0144
    Schufa-Score           | 714 Punkte (Score-Datum: 05.03.2025)
    Negativmerkmale Schufa | Keine
@@ -41,26 +41,26 @@ Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
    Familienstatus         | Ledig
    Haushaltsmitglieder    | 1
    ProspectScore          | 78 von 100 (Ampel: ROT)
-   Scoring-Datum          | 08. Maerz 2025
+   Scoring-Datum          | 08. März 2025
    Empfaenger des Scores  | Vermieter H.-D. Krankenhofer, Essen (anonymisiert gemäß berechtigtem Interesse)
 
 2. Verarbeitungszwecke (Art. 15 Abs. 1 lit. a)
-   Erstellung eines Bonitaets-Risikoscores zur Unterstuetzung der Mietentscheidung des Vermieters.
+   Erstellung eines Bonitaets-Risikoscores zur Unterstützung der Mietentscheidung des Vermieters.
 
 3. Empfaenger (Art. 15 Abs. 1 lit. c)
    - Privatvermieter H.-D. Krankenhofer, Essen (Plattform-Interface, kein weiterer Zugriff Dritter)
    - Sundara Tech Pvt. Ltd. (Bengaluru, Indien) -- als Auftragsverarbeiter (Support/Entwicklung)
-     HINWEIS: Der Transfer an Sundara Tech erfolgte ohne SCC, was wir als Verstoss einraeumen.
+     HINWEIS: Der Transfer an Sundara Tech erfolgte ohne SCC, was wir als Verstoß einraeumen.
 
 4. Speicherdauer (Art. 15 Abs. 1 lit. d)
-   24 Monate ab letzter Abfrage (also bis Maerz 2027). Auf Ihren Loeschungsantrag (Art. 17
-   DSGVO) werden Ihre Daten nach Abschluss der laufenden Gerichtsverfahren geloescht,
+   24 Monate ab letzter Abfrage (also bis März 2027). Auf Ihren Loeschungsantrag (Art. 17
+   DSGVO) werden Ihre Daten nach Abschluss der laufenden Gerichtsverfahren gelöscht,
    spaetestens jedoch nach Verfahrensabschluss (Art. 17 Abs. 3 lit. e DSGVO).
 
 5. Rechte auf Berichtigung, Loeschung, Einschraenkung, Widerspruch (Art. 15 Abs. 1 lit. e)
    Sie können Berichtigung (Art. 16), Loeschung (Art. 17), Einschraenkung (Art. 18) und
    Widerspruch (Art. 21) über dsb@vermietercheck.de oder unser Betroffenenportal
-   (in Aufbau: meine-daten.vermietercheck.de, verfuegbar ab 28.02.2026) beantragen.
+   (in Aufbau: meine-daten.vermietercheck.de, verfügbar ab 28.02.2026) beantragen.
 
 6. Beschwerderecht (Art. 15 Abs. 1 lit. f)
    Sie haben das Recht, Beschwerde bei der LDI NRW einzulegen:
@@ -69,7 +69,7 @@ Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
    poststelle@ldi.nrw.de | Tel. 0211/38424-0
 
 7. Herkunft der Daten (Art. 15 Abs. 1 lit. g)
-   - Persoenliche Angaben: Selbstauskunft im Mietinteressenten-Formular
+   - Persönliche Angaben: Selbstauskunft im Mietinteressenten-Formular
    - Schufa-Daten: Schufa Holding AG, Wiesbaden (B2B-API-Abfrage)
 
 8. Automatisierte Entscheidungsfindung / Profiling (Art. 15 Abs. 1 lit. h)
@@ -83,11 +83,11 @@ Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
      - Familienstatus / Haushaltsgroesse: 10% Gewichtung
    
    Ihr ProspectScore von 78 (ROT) resultierte trotz hohem Schufa-Score und stabilem Einkommen
-   massgeblich aus dem Einflussfaktor "Familienstatus / Haushaltsgroesse" und einer
+   maßgeblich aus dem Einflussfaktor "Familienstatus / Haushaltsgroesse" und einer
    Fehlklassifizierung des Berufs "Professorin" als "zeitlich befristetes Beschaeftigungsverhaeltnis"
    durch das Modell (Erkannter Fehler -- wird in Modell v4.0 korrigiert).
    
-   Tragweite: Die Ampelfarbe ROT wurde dem Vermieter uebermittelt und beeinflusste seine
+   Tragweite: Die Ampelfarbe ROT wurde dem Vermieter übermittelt und beeinflusste seine
    Entscheidung über Ihre Bewerbung.
 
 9. Recht auf Kopie (Art. 15 Abs. 3 DSGVO)
@@ -96,15 +96,15 @@ Wir verarbeiten / haben folgende Sie betreffende Daten verarbeitet:
 HINWEIS ZU DEN LAUFENDEN VERFAHREN
 
 Wir bitten um Verstaendnis, dass wir inhaltlich zu den laufenden Gerichtsverfahren (LG Essen
-4 O 244/26) ausschliesslich über unsere Prozessbevollmaechtigte kommunizieren.
+4 O 244/26) ausschließlich über unsere Prozessbevollmaechtigte kommunizieren.
 
-Mit freundlichen Gruessen
+Mit freundlichen Grüßen
 
 Hannelore Kessler-Brandt
 Datenschutzbeauftragte VermieterCheck Solutions GmbH
 dsb@vermietercheck.de | Tel. 0201/498820-15
 
-Miriam Beckenbauer, Rechtsanwaeltin
+Miriam Beckenbauer, Rechtsanwältin
 Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH
 m.beckenbauer@specht-beckenbauer-drosselberg.de
 
