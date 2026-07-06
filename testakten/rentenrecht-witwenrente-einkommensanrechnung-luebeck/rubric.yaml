@@ -1,11 +1,21 @@
 name: rentenrecht-witwenrente-einkommensanrechnung-luebeck
-description: Witwenrente mit Sterbevierteljahr, großer Witwenrente, Einkommensanrechnung, Betriebsrente, privater Sofortrente, KVdR-Abzügen und dänischer Kontenlücke.
+description: Witwenrente mit Sterbevierteljahr, grosser Witwenrente, Einkommensanrechnung, Betriebsrente, privater Sofortrente, KVdR-Abzuegen und daenischer Kontenluecke.
 checks:
-  - Sterbevierteljahr von der Zeit ab August 2026 trennen.
-  - Große Witwenrente und Einkommensanrechnung nach Einkommensarten aufarbeiten.
-  - Bescheidbetrag nicht übernehmen, sondern Zwischenschritte und Freibetrag nachfordern.
-  - Private Sofortrente nicht ohne Prüfung wie Arbeitsentgelt behandeln; Herkunft aus Einmalzahlung würdigen.
-  - Eigene HZVK-Betriebsrente der Witwe von der HansePort-Witwenversorgung des Verstorbenen abgrenzen.
-  - Differenz zwischen Beitragsabzug im Bescheid und Krankenkassenmitteilung erkennen und klären.
-  - Kontenklärung der dänischen Beschäftigungszeiten als eigenen Antrag erkennen; widersprüchliche Arbeitgeberangaben (Nordbaltic Kolding, NordSø Esbjerg) aufklären statt glätten.
-  - Behandlung von Einmalzahlungen (Urlaubsgeld, Jahressonderzahlung) bei der Anrechnung hinterfragen.
+  - id: r01-anrechnung-datenkern
+    beschreibung: Einkommensanrechnung und Zahlbetrag je Monat aus der Tabelle 13_witwenrente_anrechnung_berechnung.csv nachrechnen.
+    erwartung: Freibetrag 1076.86 EUR (26.4 mal Rentenwert 40.79). Im Sterbevierteljahr Mai bis Juli 2026 keine Anrechnung und Zahlbetrag 1287.62 EUR. Ab August 2026 ohne private Sofortrente Nettoeinkommen 1610.56 EUR, Anrechnung 213.48 EUR, Zahlbetrag 1074.14 EUR; mit privater Sofortrente Anrechnung 308.86 EUR, Zahlbetrag 978.76 EUR. Der Bescheidbetrag 458.44 EUR setzt ein Nettoeinkommen von 2222.96 EUR voraus und ist nicht belegbar.
+  - id: r02-sterbevierteljahr-trennen
+    beschreibung: Sterbevierteljahr von der Zeit ab August 2026 trennen.
+    erwartung: Mai bis Juli 2026 ohne Einkommensanrechnung, Anrechnung erst ab 01.08.2026.
+  - id: r03-private-sofortrente
+    beschreibung: Private Sofortrente nicht ohne Pruefung wie Arbeitsentgelt behandeln und die Herkunft aus einer Einmalzahlung wuerdigen.
+    erwartung: Private Sofortrente 238.44 EUR als Ertrag aus einer Einmalzahlung von 72000 EUR aus ererbtem Vermoegen eingeordnet und vorrangig nicht angerechnet.
+  - id: r04-betriebsrente-abgrenzen
+    beschreibung: Eigene HZVK-Betriebsrente der Witwe von der HansePort-Witwenversorgung des Verstorbenen abgrenzen.
+    erwartung: HZVK-Betriebsrente 146.80 EUR als eigenes Einkommen, HansePort-Witwenversorgung 184.60 EUR als nicht anrechenbare Hinterbliebenenleistung behandelt.
+  - id: r05-kvpv-differenz
+    beschreibung: Differenz zwischen Beitragsabzug im Bescheid und Krankenkassenmitteilung erkennen und klaeren.
+    erwartung: Krankenkasse meldet 114.49 EUR plus 35.82 EUR gleich 150.31 EUR, Bescheid weist 117.16 EUR aus, Differenz 33.15 EUR aufgegriffen.
+  - id: r06-daenemark-kontenklaerung
+    beschreibung: Kontenklaerung der daenischen Beschaeftigungszeiten als eigenen Antrag erkennen und widerspruechliche Arbeitgeberangaben aufklaeren.
+    erwartung: Luecke 01.04.1984 bis 31.10.1985 als zwischenstaatliche Kontenklaerung beantragt und die Angaben Nordbaltic A/S Kolding gegen NordSoe Service ApS Esbjerg getrennt geprueft.

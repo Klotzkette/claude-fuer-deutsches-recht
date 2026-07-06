@@ -1,0 +1,18 @@
+zeitraum_von,zeitraum_bis,art_der_zeit,monate,status_drv,belegbar_monate,chance,nachweismittel
+1981-08,1982-01,Berufsausbildung Restzeit,6,fehlt,6,hoch,Gesellenbrief und Innungsbescheinigung
+1983-04,1983-12,Beschaeftigung Altonaer Schiffswerft,9,fehlt,9,hoch,Lohnsteuerkarte 1983; AOK-Karteikarte; Arbeitszeugnis
+1985-01,1985-06,Beschaeftigung Altonaer Schiffswerft,6,fehlt,6,hoch,Lohnsteuerkarte 1985; AOK-Karteikarte; Arbeitszeugnis
+1993-01,1993-09,Arbeitslosigkeit nach Betriebsschliessung,9,ungeklaert,9,mittel,Anfrage Agentur fuer Arbeit
+2012-02,2013-01,Pflege der Mutter (12 Wochenstunden),12,fehlt,12,gering,Pflegekassenbescheid 2012 nennt nur 12 Wochenstunden unter der Grenze von 14
+2013-02,2013-09,Pflege der Mutter (17 Wochenstunden),8,anerkannt,0,keiner,von der DRV gespeichert
+2013-10,2014-05,Pflege der Mutter (17 Wochenstunden),8,fehlt,8,hoch,Pflegekassenbescheid 2013 mit 17 Wochenstunden; Pflegedienstrechnungen; Fortbestand Pflegestufe 2
+2016-04,2016-12,Minijob Nachtverraeumung,9,ohne Pflichtbeitrag,9,gering,Befreiungsstatus und Minijobvertrag pruefen
+# Lesehilfe Datenkern (Werte mit den Aktenstuecken nachrechenbar):
+# Altersrente fuer schwerbehinderte Menschen: Wartezeit 35 Jahre = 420 Kalendermonate; Schwerbehinderteneigenschaft muss zum Rentenbeginn vorliegen.
+# GdB-Status: GdB 50 ab 01.01.2026 (Bescheid Versorgungsamt Hamburg vom 14.02.2026, Zugang 20.02.2026); liegt zum gewuenschten Rentenbeginn 01.11.2026 vor. Naechste Nachpruefung erst 02/2028.
+# Von der DRV anerkannt (Stand 31.05.2026): 406 Kalendermonate. Erforderlich 420. Fehlend: 14 Monate.
+# Laufende Beschaeftigung bis zum Rentenbeginn 01.11.2026: hoechstens 5 weitere Monate (06/2026 bis 10/2026). Danach anerkannt 411; es fehlen noch 9 Monate.
+# Streitige/nachzuweisende Zeiten insgesamt: 6+9+6+9+12+8+9 = 59 Monate (die anerkannten 8 Monate 02-09/2013 sind nicht doppelt zu zaehlen).
+# Mit hoher Erfolgschance belegbar: Ausbildungsrest 6 + Werft 1983 9 + Werft 1985 6 + Pflege 10/2013-05/2014 8 = 29 Monate.
+# Ergebnis: Schon die drei Werft- und Ausbildungszeiten mit hoher Chance (6+9+6 = 21) schliessen die verbleibende Luecke von 9 Monaten. Die Wartezeit von 420 Monaten ist dann erfuellt.
+# Diskrepanz: Die DRV setzt nur 406 anerkannte Monate an; die 14-Monats-Luecke laesst sich durch Beweisersatz fuer die streitigen Werft- und Ausbildungszeiten schliessen.

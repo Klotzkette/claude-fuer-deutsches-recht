@@ -1,0 +1,5 @@
+beitragsjahr,szenario,einkommensbasis,vorjahr,vorjahreseinkommen,vier_prozent,zulagenanspruch,mindesteigenbeitrag,gezahlter_eigenbeitrag,kuerzungsfaktor,gewaehrte_zulage,zulage_nach_pruefung,korrekte_rueckforderung,zfa_rueckforderung
+2023,korrekt_vorjahr_sv_brutto,2022 sv-pflichtig,2022,38940.00,1557.60,775.00,782.60,1020.00,1.000000,775.00,775.00,0.00,188.40
+2023,kontrolle_vorjahr_steuerbrutto,2022 steuerbrutto,2022,37600.00,1504.00,775.00,729.00,1020.00,1.000000,775.00,775.00,0.00,188.40
+2024_jonas_bleibt,korrekt_erster_anspruchszeitraum,2023 sv-pflichtig,2023,41260.00,1650.40,775.00,875.40,1320.00,1.000000,775.00,775.00,0.00,474.15
+2024_jonas_entfaellt,hilfsweise_ohne_jonas_zulage,2023 sv-pflichtig,2023,41260.00,1650.40,475.00,1175.40,1320.00,1.000000,775.00,475.00,300.00,474.15

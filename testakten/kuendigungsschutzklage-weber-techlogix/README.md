@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 60 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 73 KB) | PDF | [`gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf`](gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix-einzelpdfs.zip) |
 
@@ -40,6 +40,8 @@ Am 30. April 2026 wurde Weber per Boten eine ordentliche betriebsbedingte Kündi
 
 Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fehlerhafte oder zumindest lückenhafte Betriebsratsanhörung, eine angreifbare Sozialauswahl (Felix Grunewald, IT-Admin, 32 Jahre, ledig, nur 2 Jahre Betriebszugehörigkeit, wurde nicht entlassen), sowie den Umstand, dass die angebliche unternehmerische Entscheidung — der Outsourcing-Vertrag mit DataFlow Solutions — zum Zeitpunkt der Kündigung noch nicht rechtskräftig besiegelt war. Im Gütetermin signalisierte TechLogix Vergleichsbereitschaft. Die Parteien einigten sich am 18. Juni 2026 auf eine Abfindung von EUR 24.250,00 sowie ein qualifiziertes Zeugnis.
 
+Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematrix.csv`) macht die Fehlauswahl nach § 1 Abs. 3 KSchG rechnerisch nachvollziehbar. Aus Lebensalter, Betriebszugehörigkeit, Unterhaltspflichten und Schwerbehinderung ergeben sich die Sozialpunkte: Weber 15, Grunewald 2, Sonnleitner 13. Weber trägt damit den höchsten Sozialschutz, wird aber gekündigt, während der sozial am wenigsten schutzbedürftige Grunewald weiterbeschäftigt wird. Die Diskrepanz wird durch die interne BR-Anhörungsmail (verspätet, ohne Seite 2 zur Sozialauswahl) und den WhatsApp-Verlauf Weber/Grunewald (Grunewald wurde die Weiterbeschäftigung zugesagt) belegt, während das Begleitschreiben der Geschäftsführerin die noch nicht besiegelte Auslagerung an DataFlow offenlegt.
+
 ---
 
 ## Eckdaten
@@ -68,32 +70,36 @@ Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fe
 
 ---
 
-## Dateien in dieser Akte
+## Aktenstruktur
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
-| [arbeitsvertrag_weber_2018.docx](arbeitsvertrag_weber_2018.docx) | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
-| [arbeitsvertrag_weber_2018.docx](arbeitsvertrag_weber_2018.docx) | DOCX-Original des Arbeitsvertrags |
-| [kuendigungsschreiben_techlogix_30-04-2026.docx](kuendigungsschreiben_techlogix_30-04-2026.docx) | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
-| [kuendigungsschreiben_techlogix_30-04-2026.docx](kuendigungsschreiben_techlogix_30-04-2026.docx) | DOCX-Original Kündigungsschreiben |
-| [betriebsrat_anhoerung_entwurf_roh.docx](betriebsrat_anhoerung_entwurf_roh.docx) | BR-Anhörungsschreiben (unvollständig, Formfehler dokumentiert) |
-| [betriebsrat_anhoerung_entwurf_roh.docx](betriebsrat_anhoerung_entwurf_roh.docx) | DOCX-Fassung des BR-Anhörungsschreibens |
-| [mandantennotiz_erstgespraech_06-05-2026.docx](mandantennotiz_erstgespraech_06-05-2026.docx) | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
-| [notiz_weber_gespraech_maerz_2026.docx](notiz_weber_gespraech_maerz_2026.docx) | Handnotiz des Mandanten zum Gespräch vom 25.03.2026 |
-| [vollmacht_weber.docx](vollmacht_weber.docx) | Prozessvollmacht Weber an RA Steinhauer |
-| [vollmacht_weber.docx](vollmacht_weber.docx) | DOCX-Original Vollmacht |
-| [sozialauswahl_vergleichstabelle_roh.docx](sozialauswahl_vergleichstabelle_roh.docx) | Sozialauswahl-Tabelle Weber/Grunewald/Sonnleitner mit Punkteschema |
-| [kuendigungsschutzklage_weber_14-05-2026.docx](kuendigungsschutzklage_weber_14-05-2026.docx) | Klageschrift ArbG Berlin (Rubrum, Anträge, Begründung, Beweise) |
-| [kuendigungsschutzklage_weber_14-05-2026.docx](kuendigungsschutzklage_weber_14-05-2026.docx) | DOCX-Original Klageschrift |
-| [klageerwiderung_techlogix_28-05-2026.docx](klageerwiderung_techlogix_28-05-2026.docx) | Klageerwiderung der Beklagten (Rubrum, Anträge, Verteidigung) |
-| [klageerwiderung_techlogix_28-05-2026.docx](klageerwiderung_techlogix_28-05-2026.docx) | DOCX-Original Klageerwiderung |
-| [annahmeverzug_berechnung.docx](annahmeverzug_berechnung.docx) | Berechnung Annahmeverzugslohn und Abfindungsalternativen |
-| [annahmeverzug_berechnung.xlsx](annahmeverzug_berechnung.xlsx) | XLSX-Tabelle Annahmeverzug und Abfindungsvergleich |
-| [vergleichsprotokoll_18-06-2026.docx](vergleichsprotokoll_18-06-2026.docx) | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
-| [vergleichsprotokoll_18-06-2026.docx](vergleichsprotokoll_18-06-2026.docx) | DOCX-Original Vergleichsprotokoll |
-| [zwischenzeugnis_weber_31-08-2026.docx](zwischenzeugnis_weber_31-08-2026.docx) | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
-| [zwischenzeugnis_weber_31-08-2026.docx](zwischenzeugnis_weber_31-08-2026.docx) | DOCX-Original Zeugnis |
+| `README.md` | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
+| `arbeitsvertrag_weber_2018.docx` | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
+| `arbeitsvertrag_weber_2018_auszug.txt` | Rohabschrift-Auszug des Arbeitsvertrags |
+| `kuendigungsschreiben_techlogix_30-04-2026.docx` | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
+| `kuendigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
+| `betriebsrat_anhoerung_entwurf_roh.docx` | BR-Anhörungsschreiben (unvollständig, Formfehler dokumentiert) |
+| `betriebsrat_anhoerung_entwurf_roh.txt` | Rohabschrift des BR-Anhörungsschreibens |
+| `mandantennotiz_erstgespraech_06-05-2026.docx` | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
+| `mandantennotiz_erstgespraech_06-05-2026.txt` | Rohabschrift der Mandantennotiz |
+| `notiz_weber_gespraech_maerz_2026.docx` | Handnotiz des Mandanten zum Gespräch vom 25.03.2026 |
+| `notiz_weber_gespraech_maerz_2026.txt` | Rohabschrift der Handnotiz |
+| `vollmacht_weber.docx` | Prozessvollmacht Weber an RA Steinhauer |
+| `vollmacht_weber.txt` | Rohabschrift der Vollmacht |
+| `sozialauswahl_vergleichstabelle_roh.docx` | Sozialauswahl-Tabelle Weber/Grunewald/Sonnleitner mit Punkteschema |
+| `sozialauswahl_punktematrix.csv` | Datenauswertungs-Kern: nachgerechnete Sozialpunktematrix (Weber 15, Grunewald 2, Sonnleitner 13) mit Kündigungskennzeichnung |
+| `kuendigungsschutzklage_weber_14-05-2026.docx` | Klageschrift ArbG Berlin (Rubrum, Anträge, Begründung, Beweise) |
+| `klageerwiderung_techlogix_28-05-2026.docx` | Klageerwiderung der Beklagten (Rubrum, Anträge, Verteidigung) |
+| `annahmeverzug_berechnung.docx` | Berechnung Annahmeverzugslohn und Abfindungsalternativen |
+| `annahmeverzug_berechnung.xlsx` | XLSX-Tabelle Annahmeverzug und Abfindungsvergleich |
+| `vergleichsprotokoll_18-06-2026.docx` | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
+| `zwischenzeugnis_weber_31-08-2026.docx` | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
+| `whatsapp_weber_grunewald.txt` | WhatsApp-Export Weber/Grunewald vom 30.04.2026: Grunewald wurde Weiterbeschäftigung zugesagt (Diskrepanz-Beleg zur Sozialauswahl) |
+| `gespraechsvermerk_haehnel_br_anhoerung.md` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige § 102-Anhörung |
+| `eml/2026-04-28_kreutzfeldt_an_weber_kuendigung_begleitschreiben.eml` | Begleitschreiben der Geschäftsführerin zur Kündigung; DataFlow-Auslagerung noch in finaler Abstimmung |
+| `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete, undatierte und unvollständige Anhörung (Seite 2 zur Sozialauswahl fehlt) |
+| `eml/2026-05-13_steinhauer_an_weber_gueteterminladung.eml` | RA Steinhauer leitet Ladung zum Gütetermin 04.06.2026 weiter |
 
 ---
 

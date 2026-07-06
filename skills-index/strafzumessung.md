@@ -1,6 +1,6 @@
 # strafzumessung
 
-**60 Skills** · Stand `v426.1.0`
+**60 Skills** · Stand `v427.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/strafzumessung/README.md)

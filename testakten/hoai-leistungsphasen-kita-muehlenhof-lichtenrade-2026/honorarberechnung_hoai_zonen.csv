@@ -1,0 +1,10 @@
+LPH,Leistungsphase,anrechenbare_Kosten_EUR,Honorarzone,vH_Satz_Prozent,Grundhonorar_LPH_EUR,Leistungsstand_erbracht_Prozent,verdientes_Teilhonorar_EUR
+1,Grundlagenermittlung,3950000,III,2,9240.0,100,9240.0
+2,Vorplanung,3950000,III,7,32340.0,100,32340.0
+3,Entwurfsplanung,3950000,III,15,69300.0,100,69300.0
+4,Genehmigungsplanung,3950000,III,3,13860.0,100,13860.0
+5,Ausfuehrungsplanung,3950000,III,25,115500.0,100,115500.0
+6,Vorbereitung der Vergabe,3950000,III,10,46200.0,100,46200.0
+7,Mitwirkung bei der Vergabe,3950000,III,4,18480.0,100,18480.0
+8,Objektueberwachung/Bauueberwachung,3950000,III,32,147840.0,40,59136.0
+9,Objektbetreuung,3950000,III,2,9240.0,0,0.0

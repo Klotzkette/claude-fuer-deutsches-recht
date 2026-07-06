@@ -1,0 +1,16 @@
+zeitraum_von,zeitraum_bis,art_der_belegung,belegt_gkv,monate,anmerkung
+1998-01,2003-12,Familienversicherung ueber Ehemann Karl Bruns,ja,72,Helga Bruns nicht erwerbstaetig; familienversichert
+2004-01,2012-12,private Krankenversicherung (freiberufliche Taetigkeit),nein,108,Luecke in der GKV-Belegung; keine gesetzliche Versicherung
+2013-01,2021-04,Pflichtversicherung Beschaeftigung Roestwerk Logistik GmbH,ja,100,bis zur Rentenantragstellung 04/2021
+KIND-1979,Anke Bruns geboren 1979,Kindererziehung Pauschalanrechnung,ja,36,drei Jahre je Kind als Vorversicherungszeit
+KIND-1981,Torben Bruns geboren 1981,Kindererziehung Pauschalanrechnung,ja,36,drei Jahre je Kind als Vorversicherungszeit
+KIND-1984,Wiebke Bruns geboren 1984,Kindererziehung Pauschalanrechnung,ja,36,drei Jahre je Kind als Vorversicherungszeit
+# Lesehilfe Datenkern (Werte mit den Aktenstuecken nachrechenbar):
+# KVdR-Vorversicherungszeit nach Paragraf 5 Absatz 1 Nummer 11 SGB V: In der zweiten Haelfte des Zeitraums von der ersten Erwerbstaetigkeit bis zur Rentenantragstellung muessen mindestens neun Zehntel mit gesetzlicher Krankenversicherung belegt sein.
+# Rahmenfrist: 01.08.1974 (erste Erwerbstaetigkeit) bis 04/2021 (Rentenantragstellung) = 561 Monate. Zweite Haelfte = 280 Monate (01/1998 bis 04/2021).
+# Neun Zehntel von 280 = 252 Monate erforderlich.
+# Tatsaechlich belegte GKV-Monate in der zweiten Haelfte: Familienversicherung 72 + Pflichtversicherung 100 = 172. Luecke durch private KV: 108.
+# Kindererziehungs-Pauschalanrechnung: 3 Kinder mal 36 Monate = 108 Monate (seit 2017 als Vorversicherungszeit anzurechnen).
+# Ergebnis: 172 + 108 = 280 Monate belegt, das sind mehr als 252 -> Vorversicherungszeit erfuellt, KVdR-Pflichtversicherung bleibt.
+# Diskrepanz: Die Weser Krankenkasse zaehlt nur die 172 GKV-Monate, ignoriert die Kindererziehungsanrechnung und kommt auf weniger als 252 -> angeblich nicht erfuellt (Wechsel in die freiwillige Versicherung angedroht).
+# Kontrollrechnung: schon mit nur 2 Kindern waeren es 172 + 72 = 244 Monate und damit unter 252; erst die Anrechnung aller drei Kinder erfuellt die Schwelle.

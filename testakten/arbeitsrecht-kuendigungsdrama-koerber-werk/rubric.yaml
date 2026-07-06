@@ -29,8 +29,9 @@ checks:
     path: "README.md"
     pattern: "(Betriebsrat|BR-Anh|102 BetrVG)"
 
-  - id: r06-mind-1-anlage-attached
-    check_type: file_count
-    description: "mindestens 1 Anlage (eml/docx/xlsx/pdf/jpg)"
-    glob: "*/*.*"
-    min: 1
+  - id: r06-sozialdaten-datenkern
+    check_type: regex_match
+    description: "Datenauswertungs-Kern: AT-Fuehrungskraefte-Sozialdatenmatrix nachrechenbar - Koerber 21 Punkte (hoechster Sozialschutz) und dennoch als einzige gekuendigt, waehrend Imholz Weigand und Ruhland weiterbeschaeftigt werden; Diskrepanz zur Behauptung keine anderweitige Beschaeftigung"
+    path: "23_sozialdaten_at_fuehrungskraefte_matrix.csv"
+    pattern: "Dr. Annika Koerber,Werkleiterin.*,13,3,1,4,0,21,ja"
+    erwartung: "Sozialpunkte Koerber 21, Imholz 10, Weigand 15, Ruhland 10; einzig Koerber gekuendigt trotz hoechstem Sozialschutz und offener Konzernfunktion Salzgitter"

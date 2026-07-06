@@ -16,13 +16,27 @@ checks:
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/kuendigungsschutzklage-weber-techlogix_gesamt.pdf"
 
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
+  - id: r03-kschg-3-wochen-frist
+    check_type: regex_match
+    description: "Drei-Wochen-Frist / Paragraph 4 KSchG (Ablauf 20.05.2026) sichtbar"
+    path: "README.md"
+    pattern: "(3-Wochen|drei.{0,3}Wochen|4 KSchG|20.05.2026|Klagefrist)"
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: r04-betriebsrat-erwaehnt
+    check_type: regex_match
+    description: "Betriebsratsanhoerung Paragraph 102 BetrVG erwaehnt"
+    path: "README.md"
+    pattern: "(Betriebsrat|BR-Anh|102 BetrVG)"
+
+  - id: r05-eml-anlagen
+    check_type: file_count
+    description: "mindestens 3 EML-Anlagen (Kuendigungsbegleitschreiben, BR-Anhoerung, Gueteterminladung)"
+    glob: "eml/*.eml"
+    min: 3
+
+  - id: r06-sozialauswahl-datenkern
+    check_type: regex_match
+    description: "Datenauswertungs-Kern: Sozialauswahl-Punktematrix nachrechenbar - Weber 15 Punkte (hoechster Sozialschutz) gekuendigt, Grunewald nur 2 Punkte behalten; Fehlauswahl nach Paragraph 1 Abs. 3 KSchG"
+    path: "sozialauswahl_punktematrix.csv"
+    pattern: "Marcus Weber,Senior IT-Administrator.*,8,2,1,4,0,15,ja"
+    erwartung: "Sozialpunkte Weber 15, Grunewald 2, Sonnleitner 13; Weber gekuendigt trotz hoechstem Sozialschutz, Grunewald mit geringstem Schutz weiterbeschaeftigt"

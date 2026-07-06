@@ -1,6 +1,6 @@
 # parteienrecht-parteiorganisation
 
-**110 Skills** · Stand `v426.1.0`
+**110 Skills** · Stand `v427.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/parteienrecht-parteiorganisation/README.md)

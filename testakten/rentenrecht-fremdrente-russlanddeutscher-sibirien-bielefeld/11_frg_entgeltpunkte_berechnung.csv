@@ -1,0 +1,6 @@
+szenario,zeile,zeitraum,monate,status,qualifikationsgruppe,ep_je_monat,ep_ungekuerzt,sechstel_faktor,ep_nach_sechstel,begrenzungsfaktor,ep_anrechenbar
+drv,1,1976-09 bis 1981-06,58,anrechnungszeit_offen,,0.000,0.000,1.0000,0.000,0.6,0.000
+drv,2,1981-07 bis 1986-12,66,nachgewiesen,QG3,0.075,4.950,1.0000,4.950,0.6,2.970
+drv,3,1987-01 bis 1992-08,68,glaubhaft_gemacht,QG3,0.075,5.100,0.8333,4.250,0.6,2.550
+mandant,4,1981-07 bis 1986-12,66,nachgewiesen,QG2,0.100,6.600,1.0000,6.600,0.6,3.960
+mandant,5,1987-01 bis 1992-08,68,nachgewiesen,QG2,0.100,6.800,1.0000,6.800,0.6,4.080

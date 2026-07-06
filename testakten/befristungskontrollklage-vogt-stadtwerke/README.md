@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 63 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 80 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-befristungskontrollklage-vogt-stadtwerke-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke-einzelpdfs.zip) |
 
@@ -68,6 +68,20 @@ soll gleichwohl am 13. März 2026 eingereicht werden. Vogt wünscht primär die 
 Stadtwerke ist eine neue Stelle ausgeschrieben — hilfsweise Abfindung oder zumindest ein
 rechtskräftiges Feststellungsurteil.
 
+Datenauswertungs-Kern: Die Vertragsketten- und Beschäftigungsmatrix
+(`vertragskette_beschaeftigungsverlauf.csv`) macht die befristungsrechtliche Prüfung
+rechnerisch nachvollziehbar. Aus ihr ergibt sich, dass die sachgrundlose Befristung vom
+01.03.2024 mit genau 24 Monaten die Höchstdauer des § 14 Abs. 2 Satz 1 TzBfG punktgenau
+ausschöpft, keine (also null) Verlängerungen erfolgten und der Abstand zur Vorbeschäftigung
+(Ferienaushilfe bis 30.09.2021) 2 Jahre und 5 Monate beträgt. Zugleich offenbart die Matrix
+eine Diskrepanz zwischen dem behaupteten Befristungsanlass und der tatsächlichen
+Dauerbeschäftigung: Intern wurde die Stelle dem „Projekt Smart-Meter-Rollout" als
+vorübergehender Mehrbedarf zugeordnet, während Vogt durchgehend reguläres Tagesgeschäft im
+Kundenservice und Vertragsmanagement erledigte. Diese Diskrepanz wird durch die interne
+E-Mail Schönfeld/Ahrends vom 18.12.2025, die Fürsprache des Teamleiters Steinke vom 07.01.2026
+und die Anfrage der Betriebsratsvorsitzenden Öztürk vom 11.02.2026 belegt und durch die
+zeitgleiche Neuausschreibung derselben Aufgaben als unbefristete Regelstelle bestätigt.
+
 ---
 
 ## Eckdaten
@@ -79,6 +93,8 @@ rechtskräftiges Feststellungsurteil.
 | Klägerin | Lena Vogt, Erkstraße 48, 12043 Berlin |
 | Beklagte | Stadtwerke Neukölln GmbH, Britzer Damm 221, 12347 Berlin, HRB 145231 B |
 | Personalreferentin AG | Birgit Schönfeld |
+| Teamleiter Kundenservice AG | Ralf Steinke (Vorgesetzter Vogts) |
+| Kaufmännischer Leiter AG | Dr. Michael Ahrends |
 | Betriebsratsvorsitz | Fatima Öztürk (7 Mitglieder) |
 | Kanzlei | [Kanzleiname], [Anwältin: Rechtsanwältin Hanna Dressel] |
 | Beginn AV | 01.03.2024 |
@@ -92,31 +108,33 @@ rechtskräftiges Feststellungsurteil.
 
 ---
 
-## Dateien in dieser Akte
+## Aktenstruktur
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
-| [mandantennotiz_erstgespraech_09-03-2026.docx](mandantennotiz_erstgespraech_09-03-2026.docx) | Strukturierte Kanzleinotiz zum Erstgespräch vom 09.03.2026 |
-| [mandantennotiz_erstgespräch_09-03-2026.txt](mandantennotiz_erstgespraech_09-03-2026.txt) | Rohabschrift der handschriftlichen Notiz (Original) |
-| [vollmacht_vogt.docx](vollmacht_vogt.docx) | Vollmacht Lena Vogt (DOCX-Fassung) |
-| [vollmacht_vogt.docx](vollmacht_vogt.docx) | Vollmacht Lena Vogt (MD-Vorschau) |
-| [vollmacht_vogt.txt](vollmacht_vogt.txt) | Vollmacht Lena Vogt (Rohabschrift) |
-| [arbeitsvertrag_vogt_2024_per_email.txt](arbeitsvertrag_vogt_2024_per_email.txt) | Arbeitsvertrag 2024 (Abschrift des per E-Mail übersandten PDF) |
-| [arbeitsvertrag_vogt_2024_befristung.docx](arbeitsvertrag_vogt_2024_befristung.docx) | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
-| [arbeitsvertrag_vogt_2024_befristung.docx](arbeitsvertrag_vogt_2024_befristung.docx) | Arbeitsvertrag 2024 MD-Vorschau |
-| [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Auszug Ferienaushilfe-Vertrag 2021 (nur Seite 1, Seite 2 fehlt) |
-| [email_übermittlung_vertrag_feb_2024.txt](email_uebermittlung_vertrag_feb_2024.txt) | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
-| [email_schoenfeld_kein_folgevertrag_jan_2026.txt](email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
-| [klageschrift_vogt_arbg_berlin.docx](klageschrift_vogt_arbg_berlin.docx) | Klageschrift Befristungskontrollklage ArbG Berlin (DOCX) |
-| [klageschrift_vogt_arbg_berlin.docx](klageschrift_vogt_arbg_berlin.docx) | Klageschrift MD-Vorschau |
-| [aktenvermerk_schriftformpruefung.docx](aktenvermerk_schriftformpruefung.docx) | Rechtliche Analyse: Schriftformverstoß § 14 Abs. 4 TzBfG |
-| [betriebsrat_stellungnahme_feb2026.docx](betriebsrat_stellungnahme_feb2026.docx) | Stellungnahme des Betriebsrats zum Auslauf des Vertrages (DOCX) |
-| [betriebsrat_stellungnahme_feb2026.docx](betriebsrat_stellungnahme_feb2026.docx) | Betriebsrat-Stellungnahme MD-Vorschau |
-| [streitwert_annahmeverzug_berechnung.xlsx](streitwert_annahmeverzug_berechnung.xlsx) | Streitwert- und Annahmeverzugslohnberechnung (XLSX) |
-| [streitwert_annahmeverzug_berechnung.docx](streitwert_annahmeverzug_berechnung.docx) | Berechnungen MD-Vorschau |
-| [vergleichsentwurf_vogt_stadtwerke.docx](vergleichsentwurf_vogt_stadtwerke.docx) | Vergleichsentwurf (DOCX) |
-| [vergleichsentwurf_vogt_stadtwerke.docx](vergleichsentwurf_vogt_stadtwerke.docx) | Vergleichsentwurf MD-Vorschau |
+| `README.md` | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
+| `mandantennotiz_erstgespraech_09-03-2026.docx` | Strukturierte Kanzleinotiz zum Erstgespräch vom 09.03.2026 |
+| `mandantennotiz_erstgespraech_09-03-2026.txt` | Rohabschrift der handschriftlichen Notiz (Original) |
+| `vollmacht_vogt.docx` | Vollmacht Lena Vogt (DOCX-Fassung) |
+| `vollmacht_vogt.txt` | Vollmacht Lena Vogt (Rohabschrift) |
+| `arbeitsvertrag_vogt_2024_per_email.txt` | Arbeitsvertrag 2024 (Abschrift des per E-Mail übersandten PDF) |
+| `arbeitsvertrag_vogt_2024_befristung.docx` | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
+| `arbeitsvertrag_ferienaushilfe_2021_auszug.txt` | Auszug Ferienaushilfe-Vertrag 2021 (nur Seite 1, Seite 2 fehlt) |
+| `email_uebermittlung_vertrag_feb_2024.txt` | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
+| `email_schoenfeld_kein_folgevertrag_jan_2026.txt` | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
+| `vertragskette_beschaeftigungsverlauf.csv` | Datenauswertungs-Kern: Vertragskette mit Dauer, Rechtsgrundlage, interner Begründung und tatsächlichem Aufgabentyp (24 Monate, null Verlängerungen, Abstand 2 Jahre 5 Monate) |
+| `personalakten_auszug_beschaeftigungszeiten_vogt.md` | Volltext-Personalakten-Auszug beider Beschäftigungszeiten mit ableitbaren Kennzahlen |
+| `aktenvermerk_dauerarbeitsplatz_vogt.md` | Volltext-Aktenvermerk RAin Dressel: Vertragsketten-Auswertung und Diskrepanz Projektstelle vs. Daueraufgabe |
+| `klageschrift_vogt_arbg_berlin.docx` | Klageschrift Befristungskontrollklage ArbG Berlin (DOCX) |
+| `aktenvermerk_schriftformpruefung.docx` | Rechtliche Analyse: Schriftformverstoß § 14 Abs. 4 TzBfG |
+| `betriebsrat_stellungnahme_feb2026.docx` | Stellungnahme des Betriebsrats zum Auslauf des Vertrages (DOCX) |
+| `streitwert_annahmeverzug_berechnung.xlsx` | Streitwert- und Annahmeverzugslohnberechnung (XLSX) |
+| `streitwert_annahmeverzug_berechnung.docx` | Berechnungen als DOCX |
+| `vergleichsentwurf_vogt_stadtwerke.docx` | Vergleichsentwurf (DOCX) |
+| `whatsapp_vogt_steinke.txt` | WhatsApp-Export Vogt/Steinke vom 15.01.2026: Daueraufgabe, Neuausschreibung als Umgehung (Diskrepanz-Beleg) |
+| `eml/2025-12-18_schoenfeld_an_ahrends_intern_verlaengerung.eml` | Interne Personalabteilungs-Mail: Daueraufgabe, Projektzuordnung nur zur Befristung, Neuausschreibung geplant |
+| `eml/2026-01-07_steinke_an_schoenfeld_weiterbeschaeftigung.eml` | Teamleiter fordert Weiterbeschäftigung; Smart-Meter-Bezug nur Etikett, Team unterbesetzt |
+| `eml/2026-02-11_oeztuerk_an_personalabteilung_betriebsrat.eml` | Betriebsrat rügt Befristung bei dauerhaftem Bedarf und Neuausschreibung derselben Aufgaben |
 
 ---
 

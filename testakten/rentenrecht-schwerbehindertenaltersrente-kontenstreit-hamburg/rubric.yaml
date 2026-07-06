@@ -1,11 +1,69 @@
 name: rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg
-description: Vorgezogene Altersrente für schwerbehinderte Menschen mit streitiger Wartezeit von 35 Jahren, Kontenlücken aus Ausbildung, Werftjahren, Arbeitslosigkeit 1993 und Pflegezeiten sowie Beweisersatz durch Altunterlagen.
-checks:
-  - Schwerbehinderteneigenschaft zum Rentenbeginn, Wartezeit von 420 Monaten und Abschlagsfragen strikt trennen.
-  - Fehlende 14 Monate gegen die streitigen Zeiträume rechnen und je Lücke die Nachweisqualität bewerten.
-  - Alte Lohnsteuerkarten, Arbeitszeugnis und AOK-Karteikarte als Indizienkette (Beweisersatz) einsetzen, ohne sichere Beitragszahlung zu behaupten.
-  - Amtsermittlung anstoßen (Staatsarchiv, Krankenkasse, Agentur für Arbeit, Pflegekasse) statt nur eigene Belege zu sammeln.
-  - Pflegezeiten monatsweise prüfen; Meldelücke nach dem Arbeitgeberwechsel im Oktober 2013 und den Stundenumfang 2012 als getrennte Fragen behandeln.
-  - Minijob 2016 realistisch als geringe Chance einordnen (Befreiungsstatus klären).
-  - Rentenantrag rechtzeitig vor dem 01.11.2026 stellen; Auskunft vom 18.06.2026 nicht mit einem Bescheid verwechseln.
-  - Rentenbeginn-Varianten wirtschaftlich vergleichen, ohne die Kontenklärung vorwegzunehmen.
+beschreibung: >
+  Vorgezogene Altersrente fuer schwerbehinderte Menschen mit streitiger
+  Wartezeit von 35 Jahren (420 Kalendermonate). Die DRV erkennt 406 Monate an;
+  es fehlen 14 Monate, die aus Kontenluecken (Ausbildungsrest, zwei
+  Werftbeschaeftigungen, Arbeitslosigkeit 1993, Pflegezeiten, Minijob 2016)
+  durch Beweisersatz zu schliessen sind. Prueffragen: Wartezeitberechnung aus
+  dem Datenkern, Schwerbehinderteneigenschaft zum Rentenbeginn, Nachweisqualitaet
+  je Luecke, Amtsermittlung und Beweisersatz, rechtzeitiger Antrag, wirtschaftlicher
+  Vergleich der Rentenbeginn-Varianten.
+pruefpunkte:
+  - id: p1-wartezeit-datenkern
+    beschreibung: >
+      Datenauswertungs-Kern - Aus 12_kontenstreit_datenkern.csv und
+      07_berechnungsmatrix_wartezeit.csv muss die Erfuellung der Wartezeit von
+      420 Kalendermonaten selbststaendig nachgerechnet werden.
+    erwartung: >
+      Der Bearbeiter stellt fest, dass die DRV 406 Monate anerkennt, mithin
+      14 Monate fehlen; er erkennt, dass die laufende Beschaeftigung bis zum
+      Rentenbeginn 01.11.2026 hoechstens fuenf weitere Monate (06 bis 10/2026)
+      beisteuert, sodass neun Monate offen bleiben, und dass allein die mit
+      hoher Chance belegbaren Zeiten (Ausbildungsrest sechs, Werft 1983 neun,
+      Werft 1985 sechs, Pflege 10/2013 bis 05/2014 acht Monate) die Luecke
+      schliessen; die anerkannten acht Monate 02 bis 09/2013 werden nicht
+      doppelt gezaehlt.
+  - id: p2-schwerbehinderteneigenschaft-zum-rentenbeginn
+    beschreibung: >
+      Die Schwerbehinderteneigenschaft zum Rentenbeginn, die Wartezeit und die
+      Abschlagsfrage sind strikt zu trennen.
+    erwartung: >
+      Der Bearbeiter bestaetigt, dass der GdB von 50 ab dem 01.01.2026 (Bescheid
+      Versorgungsamt Hamburg vom 14.02.2026) zum gewuenschten Rentenbeginn am
+      01.11.2026 vorliegt, und behandelt die Zugangsvoraussetzung getrennt von
+      der Wartezeiterfuellung und den Rentenabschlaegen bei vorzeitigem Beginn.
+  - id: p3-nachweisqualitaet-und-beweisersatz
+    beschreibung: >
+      Die streitigen Zeiten sind je Luecke nach Nachweisqualitaet zu bewerten,
+      ohne sichere Beitragszahlung zu behaupten.
+    erwartung: >
+      Der Bearbeiter setzt Lohnsteuerkarten, Arbeitszeugnis und AOK-Karteikarte
+      als Indizienkette (Beweisersatz) fuer die Werftzeiten ein, ordnet die
+      Pflegezeit 2012 (nur zwoelf Wochenstunden, unter der Grenze) als gering
+      und den Minijob 2016 als geringe Chance ein und unterscheidet belegbare
+      von nicht belegbaren Zeitraeumen.
+  - id: p4-amtsermittlung
+    beschreibung: >
+      Statt nur eigene Belege zu sammeln, ist die Amtsermittlung anzustossen.
+    erwartung: >
+      Der Bearbeiter regt gezielte Anfragen an Staatsarchiv, Krankenkasse,
+      Agentur fuer Arbeit und Pflegekasse an und ordnet die Meldeluecke nach
+      dem Arbeitgeberwechsel im Oktober 2013 sowie den Stundenumfang 2012 als
+      getrennte Fragen ein.
+  - id: p5-antrag-und-fristen
+    beschreibung: >
+      Der Rentenantrag ist rechtzeitig zu stellen; die Auskunft ist kein
+      Bescheid.
+    erwartung: >
+      Der Bearbeiter sorgt fuer einen rechtzeitigen Rentenantrag vor dem
+      01.11.2026, verwechselt die Auskunft vom 18.06.2026 nicht mit einem
+      Bescheid und plant die Kontenklaerung als vorgelagerten Schritt ein.
+  - id: p6-varianten-und-formalien
+    beschreibung: >
+      Die Rentenbeginn-Varianten sind wirtschaftlich zu vergleichen; das
+      Arbeitsprodukt ist ausformuliert und ohne halluzinierte Fundstellen.
+    erwartung: >
+      Der Bearbeiter vergleicht die Rentenbeginn-Varianten (10_rentenbeginn_varianten.csv)
+      wirtschaftlich, ohne das Ergebnis der Kontenklaerung vorwegzunehmen, und
+      liefert seine Schriftstuecke in vollstaendigen Saetzen und dezimaler
+      Gliederung ohne Zitat von Aktenzeichen aus dem Modellwissen.

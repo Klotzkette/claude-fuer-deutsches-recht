@@ -1,11 +1,21 @@
 name: rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld
-description: Kontenklärung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit, Sechstelkürzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
+description: Kontenklaerung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit, Sechstelkuerzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
 checks:
-  - Nachweis und Glaubhaftmachung strikt trennen und je Zeitraum getrennt bearbeiten.
-  - Qualifikationsgruppenzuordnung anhand der Tätigkeit im Herkunftsgebiet prüfen, nicht anhand der fehlenden deutschen Anerkennung des Abschlusses.
-  - Abweichende Archivnummern über den Fondswechsel R-2214/R-2298 aufklären statt als Widerspruch stehen zu lassen.
-  - Namensvarianten (Klassen/Klasssen) als Transliterationsfrage behandeln und dokumentieren.
-  - Sechstelanrechnung glaubhaft gemachter Zeiten und Entgeltpunktbegrenzung als getrennte Angriffspunkte erkennen.
-  - Erklärung zu ausländischem Rentenbezug fristgerecht abgeben; Mitwirkungsfrist 17.07.2026 und Widerspruchsfrist auseinanderhalten.
-  - Studienzeit 1976 bis 1981 als möglichen Anrechnungszeittatbestand nicht fallen lassen.
-  - Keine ausländerrechtliche Nebenberatung; Fokus auf Versicherungsverlauf und Bewertung.
+  - id: r01-nachweis-glaubhaftmachung-trennen
+    beschreibung: Nachweis und Glaubhaftmachung strikt trennen und je Zeitraum getrennt bearbeiten.
+    erwartung: Zeit 1981-07 bis 1986-12 als nachgewiesen, Zeit 1987-01 bis 1992-08 als glaubhaft gemacht behandelt.
+  - id: r02-qualifikationsgruppe-nach-herkunftstaetigkeit
+    beschreibung: Qualifikationsgruppe anhand der Taetigkeit im Herkunftsgebiet pruefen, nicht anhand der fehlenden deutschen Anerkennung.
+    erwartung: Oberingenieur-Taetigkeit als moegliche QG2 gegen die von der DRV vergebene QG3 abgegrenzt.
+  - id: r03-archivnummern-fondswechsel
+    beschreibung: Abweichende Archivnummern ueber den Fondswechsel aufklaeren statt als Widerspruch stehen zu lassen.
+    erwartung: Wechsel Fonds R-2214 auf R-2298 durch die Aufteilung des Kombinats 1988 erklaert.
+  - id: r04-transliteration-name
+    beschreibung: Namensvarianten Klassen und Klasssen als Transliterationsfrage behandeln und dokumentieren.
+    erwartung: Identitaet ueber Geburtsdatum 14.02.1959 und Geburtsort Karasuk gesichert, dreifaches s als Umschrift erklaert.
+  - id: r05-entgeltpunkte-datenkern
+    beschreibung: Anrechenbare Entgeltpunkte und Kuerzungsbetrag aus der Berechnungstabelle 11_frg_entgeltpunkte_berechnung.csv nachrechnen.
+    erwartung: Szenario drv ergibt 66 mal 0.075 gleich 4.950 EP plus 68 mal 0.075 mal fuenf Sechstel gleich 4.250 EP, Summe 9.200 EP; nach Begrenzung mit Faktor 0.6 verbleiben 5.520 EP anrechenbar, Kuerzungsbetrag 3.680 EP. Szenario mandant mit QG2 und ohne Sechstel ergibt 13.400 EP vor Begrenzung.
+  - id: r06-fristen-auseinanderhalten
+    beschreibung: Mitwirkungsfrist und Widerspruchsfrist auseinanderhalten und Erklaerung zum auslaendischen Rentenbezug fristgerecht abgeben.
+    erwartung: Mitwirkungsfrist 17.07.2026 und Widerspruchsfrist bis 17.07.2026 getrennt behandelt, Erklaerung zum auslaendischen Rentenbezug fristwahrend abgegeben.

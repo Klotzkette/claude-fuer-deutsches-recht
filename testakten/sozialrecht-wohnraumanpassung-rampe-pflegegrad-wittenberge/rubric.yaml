@@ -1,9 +1,21 @@
 name: sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge
-description: Pflegekassenstreit um feste Rampe bei Pflegegrad 3 mit Teilbewilligung, mobiler Alternative, Wohnumfeld, Sturzrisiko und möglicher Sozialhilfe.
+description: Pflegekassenstreit um eine feste Rampe bei Pflegegrad 3 mit Teilbewilligung, mobiler Alternative, Wohnumfeld, Sturzrisiko und moeglicher Sozialhilfe.
 checks:
-  - Pflegegrad und Mobilitätsmodul (Treppensteigen unselbstständig) als Tatsachengrundlage nutzen.
-  - Mobile Rampe funktional gegen feste Rampe vergleichen; Selbstnutzbarkeit als Kernkriterium herausarbeiten.
-  - Zuschussgrenze des § 40 Abs. 4 SGB XI, Eigenanteil und weitere Kostenträger (Sozialamt, Förderprogramme) sauber trennen.
-  - Wohnumfeld konkret aus Maßen, Fotos, Ortsterminprotokoll und Winterrisiko würdigen.
-  - Die nicht völlig deckungsgleichen Angaben zur Zahl der Stürze (Erstgespräch, Hausarzt, Tagebuch, Nachbarin) erkennen und beweiswürdigend einordnen.
-  - Widerspruch nicht als Komfortwunsch, sondern als Selbstständigkeits- und Pflegeerleichterungsthema begründen; keine Beauftragung vor Förderzusage.
+  - id: pflegegrad_mobilitaet
+    beschreibung: Pflegegrad 3 und das Mobilitaetsmodul als Tatsachengrundlage nutzen.
+    erwartung: Treppensteigen ist im MD-Gutachten als unselbststaendig bewertet; die Versicherte verlaesst das Haus nur begleitet und bewaeltigt die drei Aussenstufen nur rueckwaertsgewandt mit Sicherung.
+  - id: mobile_gegen_feste_rampe
+    beschreibung: Die mobile Rampe funktional gegen die feste Rampe vergleichen.
+    erwartung: Selbstnutzbarkeit ist das Kernkriterium; die mobile Schiene wiegt 9.8 kg je Schiene, muss von einer zweiten Person aufgelegt werden und ist bei Naesse und Schnee eingeschraenkt, waehrend die feste Rampe jederzeit ohne fremde Hilfe nutzbar ist.
+  - id: kostentraeger_datenkern
+    beschreibung: Aus der Kostentraeger-Matrix den Zuschussanspruch nachrechnen und die Traeger sauber trennen.
+    erwartung: Gesamtkosten feste Rampe 7920 EUR aus den Einzelpositionen 620 plus 3980 plus 940 plus 1680 plus 700; gesetzlicher Hoechstzuschuss nach Paragraph 40 Absatz 4 SGB XI 4000 EUR; verbleibender Eigenanteil bei Hoechstzuschuss 3920 EUR; der Bescheid bewilligt nur 1180 EUR und bleibt damit 2820 EUR hinter dem Hoechstbetrag zurueck; Finanzierungsluecke beim jetzigen Bescheid 6740 EUR; ergaenzende Hilfe des Sozialamts ist nachrangig.
+  - id: wohnumfeld_wuerdigung
+    beschreibung: Das Wohnumfeld konkret wuerdigen.
+    erwartung: Zu ueberwindende Gesamthoehe 53 cm aus drei Stufen zu je 16 cm und einer Schwelle von 5 cm, Rampenlaenge 6.20 m bei Steigung 5.8 Prozent, Fotos, Ortsterminprotokoll und Winterrisiko sind einzubeziehen.
+  - id: sturzzahl_diskrepanz
+    beschreibung: Die nicht voellig deckungsgleichen Angaben zur Zahl der Stuerze erkennen und beweiswuerdigend einordnen.
+    erwartung: Erstgespraech, Hausarzt, Sturzliste und Nachbarin nennen Stuerze und Beinahestuerze seit Januar 2026 nicht deckungsgleich; die dokumentierten Ereignisse vom 12.01., 25.02. und 14.04.2026 sind einzuordnen.
+  - id: widerspruch_und_beauftragung
+    beschreibung: Den Widerspruch als Selbststaendigkeits- und Pflegeerleichterungsthema begruenden.
+    erwartung: Keine Argumentation als Komfortwunsch; keine Beauftragung vor schriftlicher Foerderzusage, da sonst die Foerderfaehigkeit entfallen kann; das Angebot ist bis 14.09.2026 gueltig.

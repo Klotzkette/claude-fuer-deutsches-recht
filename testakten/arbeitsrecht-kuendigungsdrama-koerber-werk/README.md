@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 558 KB) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 576 KB) | PDF | [`gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf`](gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk-einzelpdfs.zip) |
 
@@ -29,6 +29,7 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 - BR-Widerspruch erging am selben Tag; die Wirksamkeit des Beschlusses ist streitig (fehlendes Ersatzmitglied), nach juristischer Analyse aber aller Voraussicht nach gegeben.
 - 30.05.2025: Mandatsannahme durch RA Dr. Jonas Reuß, Klotzkette Rechtsanwaltsgesellschaft mbH, Berlin. Klagefrist § 4 KSchG: 12.06.2025.
 - Parallel: Entfristungsklage Senior-Advisor-Anteil (mündliche Verlängerungen TzBfG-widrig); Equal-Pay-Nachzahlungsanspruch von ca. 176.000 EUR über vier Jahre; Resturlaub 38 Tage noch offen.
+- Datenauswertungs-Kern: Eine Sozialdaten- und Weiterbeschäftigungsmatrix der AT-Führungskräfte (Aktenstück 23) rechnet die sozialen Schutzpunkte nach: Körber erreicht mit 21 Punkten den höchsten Sozialschutz, wird aber als einzige gekündigt, während die sozial schwächer gestellten Werkleiter Frank Imholz (Salzgitter, 10 Punkte) und Till Weigand (Bautzen, 15 Punkte) sowie der aus der Konzernfunktion in die Linie gewechselte Cornelius Ruhland (Salzgitter, 10 Punkte) weiterbeschäftigt werden, während dessen frühere Konzernfunktion „Leiter Werksinfrastruktur und Prozesse" seither vakant ist. Damit ist die Behauptung „keine anderweitige Beschäftigungsmöglichkeit im Konzern" aus der Kündigung rechnerisch widerlegbar; die interne E-Mail Branitz/Kemnitz vom 06.05.2025 und der WhatsApp-Verlauf mit Imholz bestätigen die offene Stelle in Salzgitter.
 
 ## Was diese Akte demonstriert
 
@@ -52,7 +53,7 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 | Schriftsatzgestaltung | 20 | Vollständiger Klageschrift-Entwurf mit allen Antrags-Formen (Hauptantrag, Hilfsanträge, Schleppnetz) |
 | Mandatsaufnahme / Fristmanagement | 01, 19 | Erstgespräch mit Fristen-Tabelle, Streitstrang-Identifikation, RSV-Deckungsanfrage |
 
-## Aktenstücke
+## Aktenstruktur
 
 | Datei | Inhalt |
 |-------|--------|
@@ -78,6 +79,9 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 | `20_schriftsatzkern_kuendigungsschutzklage_entwurf.docx` | Vollständiger Klageschrift-Entwurf: Anträge, Sachverhalt, Rechtswürdigung, Beweisangebote |
 | `21_verhandlungsstrategie_und_vergleichskoridor.docx` | Interne Strategie-Notiz: Hebel-Analyse, Vergleichskorridor mit Einzelpositionen, Best/Worst-Case |
 | `22_zeugenliste_und_beweismittel.docx` | Zeugen mit Themen und Risiken, urkundliche Beweismittel, § 142 ZPO-Anträge |
+| `23_sozialdaten_at_fuehrungskraefte_matrix.csv` | Datenauswertungs-Kern: Sozialdaten- und Weiterbeschäftigungsmatrix der AT-Führungskräfte mit nachgerechneten Sozialpunkten (Körber 21, Imholz 10, Weigand 15, Ruhland 10) |
+| `24_whatsapp_koerber_imholz.txt` | WhatsApp-Export Körber/Imholz vom 02.05.2025: Salzgitter baut auf, Konzernfunktion offen — belegt Weiterbeschäftigungsmöglichkeit |
+| `25_aktenvermerk_weiterbeschaeftigung_sozialdaten.md` | Interner Aktenvermerk RA Reuß: Auswertung der Sozialdatenmatrix, Weiterbeschäftigungspflicht und Diskrepanz zur Kündigungsbegründung |
 
 ## Anhänge
 
@@ -89,11 +93,22 @@ Arbeitsakte zum Plugin `fachanwalt-arbeitsrecht`.
 ### `xlsx/`
 - `gehaltsvergleich_koerber_wolters.xlsx` — Wie Aktenstück 14; zusätzlich Methodik-Sheet
 
-### `emails/`
+### `eml/`
 - `2024-05-12_anonymer_hinweis_an_ethicshub.eml` — Anonyme Meldung an EthicsHub, RFC-822-Format
 - `2024-07-29_koerber_an_branitz_bem_anfrage.eml` — Körbers BEM-Anfrage an Branitz
+- `2025-05-06_branitz_an_kemnitz_intern_salzgitter.eml` — Interne, vertrauliche E-Mail: räumt offene Konzernfunktion in Salzgitter ein (Diskrepanz-Beleg)
 - `2025-05-08_branitz_an_koerber_aufhebungsdruck.eml` — Branitz E-Mail Nr. 3 (Druckaufbau)
+- `2025-05-15_koerber_an_vorstand_gegendarstellung.eml` — Körbers Gegendarstellung: BEM-Anfrage ignoriert, Versetzungsbereitschaft Salzgitter/Bautzen
+- `2025-05-19_branitz_an_betriebsrat_anhoerung_102.eml` — Anhörungsschreiben § 102 BetrVG an BR-Vorsitzende Trzebinski
 - `2025-05-22_betriebsrat_an_gf_widerspruch.eml` — BR-Widerspruch per E-Mail
+
+## Neue Beteiligte (Datenkern)
+
+| Person | Rolle |
+|--------|-------|
+| Frank Imholz | Werkleiter Salzgitter, weiterbeschäftigt, Vergleichsperson Sozialdatenmatrix |
+| Till Weigand | Werkleiter Bautzen, weiterbeschäftigt, Vergleichsperson Sozialdatenmatrix |
+| Cornelius Ruhland | In die Linie Salzgitter gewechselt; seine frühere Konzernfunktion „Leiter Werksinfrastruktur und Prozesse" ist vakant (Weiterbeschäftigungsmöglichkeit für Körber) |
 
 ### `pdfs/`
 - `au_bescheinigungen_juli_2024_april_2025.pdf` — Sammlungs-PDF aller 5 AU-Episoden mit ICD-10, Ärzten, Anmerkungen

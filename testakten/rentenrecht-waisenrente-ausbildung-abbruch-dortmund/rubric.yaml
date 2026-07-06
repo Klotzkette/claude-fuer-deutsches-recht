@@ -1,10 +1,21 @@
 name: rentenrecht-waisenrente-ausbildung-abbruch-dortmund
-description: Waisenrente nach Ausbildungsabbruch mit gesundheitlicher Begründung, Übergangszeit, Studienzusage, Erstattungsbescheid und Widerspruch.
+description: Waisenrente nach Ausbildungsabbruch mit gesundheitlicher Begruendung, Uebergangszeit, Studienzusage, Erstattungsbescheid und Widerspruch.
 checks:
-  - Altersgrenze und Ausbildungstatbestand sauber prüfen.
-  - Gesundheitlich begründeten Abbruch von bloßer Ausbildungspause unterscheiden; Fehlzeiten und Atteste monatsweise zuordnen.
-  - Rückforderung (Aufhebung, Vertrauensschutz, Anhörung) und Weiterzahlungsanspruch getrennt bearbeiten.
-  - Die behauptete Nichtzustellung des Anhörungsschreibens vom 28.04.2026 als eigenen Prüfpunkt erkennen.
-  - Monatsraster statt pauschaler Lebenslaufwertung verwenden; Widerspruch zwischen Mandantinnenangabe (Rente bis Mai) und Kontoauszug (Zahlung Juni) aufklären.
-  - Einarbeitungsmonat September 2026 und Studienbeginn Oktober 2026 als mögliche unterschiedliche Anknüpfungspunkte behandeln.
-  - Nachweise für jeden Übergang und jede Lücke benennen; Fristen (Widerspruch bis 15.07.2026, Unterlagen bis 31.07.2026) sichern.
+  - id: r01-erstattung-datenkern
+    beschreibung: Erstattungsforderung und Wirkung der Uebergangszeit aus dem Monatsraster 12_waisenrente_monatsraster_berechnung.csv nachrechnen.
+    erwartung: Sechs Monate Januar bis Juni 2026 zu je 307.10 EUR ergeben 1842.60 EUR Ueberzahlung. Das Uebergangszeit-Argument erfasst als vier Kalendermonate vor Studienbeginn Oktober 2026 nur Juni bis September 2026, davon ist unter den zurueckgeforderten Monaten allein Juni 2026 betroffen, so dass die Erstattung hoechstens um 307.10 EUR auf 1535.50 EUR sinkt.
+  - id: r02-altersgrenze-tatbestand
+    beschreibung: Altersgrenze und Ausbildungstatbestand je Monat sauber pruefen.
+    erwartung: Ausbildungstatbestand bis 30.11.2025 bejaht, Luecke ab Januar 2026 erkannt, Cafejob als geringfuegige Beschaeftigung nicht als Ausbildung gewertet.
+  - id: r03-status-gemeldet-gegen-tatsaechlich
+    beschreibung: Diskrepanz zwischen gemeldetem und tatsaechlichem Ausbildungsstatus aufklaeren und krankheitsbedingten Abbruch von freier Pause unterscheiden.
+    erwartung: Formale Einbindung bis 30.11.2025 gegen tatsaechliche regelmaessige Teilnahme bis 14.10.2025 abgegrenzt, krankheitsbedingte Unterbrechung fuer Januar bis Mai 2026 mit Attest vom 05.12.2025 und Stellungnahme vom 18.05.2026 belegt.
+  - id: r04-anhoerung-und-aufhebung
+    beschreibung: Rueckforderung und Weiterzahlungsanspruch trennen und die behauptete Nichtzustellung des Anhoerungsschreibens vom 28.04.2026 als eigenen Pruefpunkt behandeln.
+    erwartung: Aufhebung mit Anhoerungsmangel und Vertrauensschutz geprueft, getrennt vom Anspruchsteil vorgetragen.
+  - id: r05-junizahlung-diskrepanz
+    beschreibung: Widerspruch zwischen Mandantinnenangabe und Kontoauszug aufklaeren.
+    erwartung: Angabe Rente zuletzt im Mai 2026 durch die tatsaechliche Zahlung von 307.10 EUR am 02.06.2026 widerlegt, uebereinstimmend mit dem Erstattungszeitraum Januar bis Juni 2026.
+  - id: r06-anknuepfungspunkte-und-fristen
+    beschreibung: Einarbeitungsmonat und Studienbeginn als moegliche unterschiedliche Anknuepfungspunkte behandeln und Fristen sichern.
+    erwartung: Einarbeitung ab 01.09.2026 und Studienbeginn ab 01.10.2026 unterschieden, Widerspruchsfrist bis 15.07.2026 und Nachweisfrist bis 31.07.2026 eingehalten.

@@ -1,28 +1,27 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
+name: hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026
+description: HOAI-Leistungsphasen und Bauueberwachung beim Kita-Neubau Muehlenhof mit eigenstaendiger Berechnung des bei erreichtem Leistungsstand verdienten Honoraranteils, Aufloesung der Diskrepanz Grundleistung gegen Besondere Leistung, Budgetdrift ueber die Kostenverfolgung, Stufenbeauftragung ohne schriftlichen Abruf sowie Nachtrag ohne Anordnung.
 
-name: "Hoai Leistungsphasen Kita Muehlenhof Lichtenrade 2026"
-plugin: "hoai-leistungsphasen-praxis"
+pruefpunkte:
+  - id: p1-verdientes-honorar-berechnen
+    beschreibung: Datenauswertungs-Kern - Aus dem Vertrag, der Honorar-CSV und den Baustellenprotokollen muss der bei erreichtem Leistungsstand verdiente Honoraranteil berechnet werden.
+    erwartung: Der Bearbeiter verteilt das vereinbarte Grundhonorar von 462.000 EUR nach den Vomhundertsaetzen des Paragraf 34 Absatz 3 HOAI 2021 auf die Leistungsphasen, stellt fest, dass die Leistungsphasen 1 bis 7 vollstaendig (66 vom Hundert gleich 304.920 EUR) und die Leistungsphase 8 zu 40 vom Hundert (aus 147.840 EUR also 59.136 EUR) erbracht sind, und beziffert das verdiente Honorar auf exakt 364.056 EUR netto; er trennt dies vom noch nicht verdienten Rest der Leistungsphase 8.
 
-checks:
-  - id: r01-readme-vorhanden
-    check_type: file_exists
-    description: "README.md vorhanden"
-    path: "README.md"
+  - id: p2-grundleistung-oder-besondere-leistung
+    beschreibung: Diskrepanz-Pflichtpunkt - Die Behauptung der Architektin, Brandschutzkoordination und TGA-Mengenermittlung seien gesondert zu verguetende Besondere Leistungen, muss aufgeloest werden.
+    erwartung: Der Bearbeiter ordnet die Koordination und Integration der Beitraege fachlich Beteiligter sowie das Ermitteln und Zusammenstellen von Mengen als Grundlage der Leistungsverzeichnisse (Leistungsphase 6) nach dem Leistungsbild der Anlage 10 zur HOAI als abgegoltene Grundleistungen ein, weist das Zusatzhonorar von 18.500 EUR zurueck und grenzt davon die eigenstaendige Erstellung des Brandschutzkonzepts ab, die hier der gesondert beauftragte Sachverstaendige Hentschel erbringt.
 
-  - id: r02-gesamt-pdf-vorhanden
-    check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026_gesamt.pdf"
+  - id: p3-anrechenbare-kosten-und-budgetdrift
+    beschreibung: Datenauswertung Kosten - Die Budgetdrift ueber die Leistungsphasen und ihre Wirkung auf das Honorar muss ausgewertet werden.
+    erwartung: Der Bearbeiter zeichnet die Kostenentwicklung von der Kostenschaetzung (4.390.000 EUR) ueber die Kostenberechnung (5.230.000 EUR) und den Kostenanschlag (5.580.000 EUR) bis zur Prognose (5.775.000 EUR) nach, benennt die Ueberschreitung der Kostenobergrenze von 4.500.000 EUR und erkennt, dass nach Paragraf 6 HOAI 2021 die anrechenbaren Kosten aus der Kostenberechnung (3.950.000 EUR) massgeblich sind und die spaetere Kostensteigerung das Honorar nicht selbsttaetig erhoeht.
 
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
+  - id: p4-stufenbeauftragung-ohne-abruf
+    beschreibung: Die Leistungsphasen 4 bis 8 sind erbracht, ein schriftlicher Abruf der Stufe 2 fehlt jedoch.
+    erwartung: Der Bearbeiter prueft, ob trotz des vertraglichen Schriftformerfordernisses eine konkludente Beauftragung vorliegt, weil die Bauherrin die Leistungen ueber Monate entgegengenommen hat, und widerlegt die Auffassung der Bauherrin, die Bauueberwachung sei bereits mit Stufe 1 (nur Leistungsphasen 1 bis 3) pauschal mitbeauftragt; er empfiehlt die schriftliche Nachholung des Abrufs.
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: p5-schlussrechnung-vertragsstrafe-und-einbehalt
+    beschreibung: Datenauswertungs-Kern Rechnungspruefung - Aus Teilschlussrechnung, Kuerzungsschreiben, Bauzeitenplan und Maengelchronologie muss der berechtigt freizugebende Honorarbetrag ermittelt und die Vertragsstrafe richtig berechnet werden.
+    erwartung: Der Bearbeiter erkennt, dass die Bauherrin die Vertragsstrafe mit sechs vollendeten Wochen (4.102,56 EUR bei einem Wochensatz von 0,2 vom Hundert aus 341.880 EUR gleich 683,76 EUR) zu hoch ansetzt, weil nach dem Bauzeitenplan nur drei der sechs Verzugswochen von der Architektin zu vertreten sind (die uebrigen drei Wochen beruhen auf der Nachforderung der Bauaufsicht), sodass die berechtigte Vertragsstrafe 2.051,28 EUR betraegt; er bestaetigt die Ablehnung des Zusatzhonorars von 18.500 EUR als Grundleistung, prueft den Maengeleinbehalt von 18.500 EUR wegen der streitigen Betondeckung und trennt Planungsfehler von Bauausfuehrungsmaengeln; er stellt dem von der Bauherrin freigegebenen Betrag von 41.453,44 EUR den bei nur berechtigter Vertragsstrafe verbleibenden Betrag gegenueber.
+
+  - id: p6-formalien-und-keine-scheinzitate
+    beschreibung: Endprodukte sind ausformuliert, dezimal gegliedert und ohne halluzinierte Fundstellen zu liefern.
+    erwartung: Schriftsaetze, Vertragstext und Memo sind in vollstaendigen Saetzen, in Times New Roman 11 pt und ausschliesslich dezimaler Gliederung abgefasst; es werden keine Gerichtsentscheidungen mit Aktenzeichen aus dem Modellwissen zitiert, sondern nur Normen (HOAI 2021, BGB) benannt und die Live-Verifikation etwaiger Rechtsprechung vorbehalten.

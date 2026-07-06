@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 41 KB) | PDF | [`gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf`](gesamt-pdf/sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge-einzelpdfs.zip) |
 
@@ -34,12 +34,20 @@ sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 ├── 04_pflegekasse_bescheid.docx             <- Teilbewilligung mit Rechtsbehelfsbelehrung und Telefonnotiz
 ├── 05_widerspruch_und_sozialhilfe.docx      <- Anwaltlicher Widerspruch, Prüfvermerk, Finanzlage
 ├── 06_wohnumfeld_fotos_beschreibung.docx    <- Eingang, Maße, Fotobeschreibungen, Winterrisiko
-├── 07_kosten_traeger_matrix.csv           <- Kostenpositionen, Träger, Finanzierungslücke
+├── 07_kosten_traeger_matrix.csv           <- Datenkern: Kostenpositionen, Höchstzuschuss, Eigenanteil, Finanzierungslücke
 ├── 08_eilrechtsschutz_und_ortstermin.docx   <- Vermerk zu Eilbedürftigkeit, Beweisfragen, Vergleich
 ├── 09_bauamt_ortstermin_und_skizzenmass.docx <- Protokoll des Ortstermins mit dem Bauamt
 ├── 10_email_nachbarin_zugang.eml          <- Nachbarin zu Stürzen, Winter und Rampenakzeptanz
 ├── 11_pflegetagebuch_sturzliste.txt       <- Sturzliste und Pflegetagebuch der Tochter
+├── 12_sozialamt_prignitz_zwischennachricht.docx <- Sozialamt zu Nachrang, Höchstzuschuss und Nachweisen
+├── eml/
+│   ├── 01_pflegekasse_eingang_widerspruch.eml <- Pflegekasse bestätigt Widerspruch, nennt Höchstbetrag 4000 EUR
+│   ├── 02_teschner_angebotsklarstellung.eml    <- Fachfirma schlüsselt die 7920 EUR auf, mobile nicht selbst nutzbar
+│   └── 03_md_stellungnahme_selbstnutzbarkeit.eml <- Medizinischer Dienst zur Selbstnutzbarkeit der mobilen Rampe
 └── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
+├── 90_realitaetskern_und_arbeitsauftrag_2026-07-06.docx  # Realitaetskern und Arbeitsauftrag (Ergaenzung v426)
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
+├── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
 ```
 
 ## Bearbeitungsziel

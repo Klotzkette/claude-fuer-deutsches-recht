@@ -1,0 +1,7 @@
+szenario,monat,sterbevierteljahr,zahlbetrag_vor_anrechnung,arbeitsentgelt_brutto,arbeitsentgelt_netto,betriebsrente_netto,private_sofortrente_netto,summe_netto_einkommen,freibetrag,uebersteigensbetrag,anrechnung_berechnet,zahlbetrag_berechnet,anrechnung_bescheid,zahlbetrag_bescheid
+sterbevierteljahr,2026-05,ja,1287.62,2481.20,1488.72,146.80,0.00,1635.52,1076.86,558.66,0.00,1287.62,0.00,1287.62
+sterbevierteljahr,2026-06,ja,1287.62,2534.00,1520.40,146.80,0.00,1667.20,1076.86,590.34,0.00,1287.62,0.00,1287.62
+sterbevierteljahr,2026-07,ja,1287.62,2807.20,1684.32,146.80,0.00,1831.12,1076.86,754.26,0.00,1287.62,0.00,1287.62
+empfehlung_ohne_private,2026-08,nein,1287.62,2439.60,1463.76,146.80,0.00,1610.56,1076.86,533.70,213.48,1074.14,458.44,829.18
+hilfsweise_mit_private,2026-08,nein,1287.62,2439.60,1463.76,146.80,238.44,1849.00,1076.86,772.14,308.86,978.76,458.44,829.18
+empfehlung_mit_jahressonderzahlung_verteilt,2026-11,nein,1287.62,2535.43,1521.26,146.80,0.00,1668.06,1076.86,591.20,236.48,1051.14,0.00,0.00

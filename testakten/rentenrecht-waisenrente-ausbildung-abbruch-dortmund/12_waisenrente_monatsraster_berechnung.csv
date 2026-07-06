@@ -1,0 +1,20 @@
+monat,phase,status_formal,teilnahme_tatsaechlich,tatbestand_waisenrente,anspruch_drv,rente_soll,rente_gezahlt,ueberzahlung,anspruch_uebergangszeit_hilfsweise,einkommen_monat
+2025-04,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-05,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-06,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-07,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-08,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-09,Ausbildung Physiotherapie,angemeldet,regulaer,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-10,Ausbildung Physiotherapie,angemeldet,teilnahme_bis_14.10_dann_abwesend,ausbildung,ja,307.10,307.10,0.00,ja,0.00
+2025-11,Ausbildung Physiotherapie,angemeldet_bis_30.11,durchgehend_abwesend_krank,ausbildung_formal,ja,307.10,307.10,0.00,ja,0.00
+2025-12,nach Kuendigung,abgemeldet,keine,krankheit_uebergang,ja,307.10,307.10,0.00,ja,0.00
+2026-01,Luecke,abgemeldet,keine,keine,nein,0.00,307.10,307.10,nein,468.00
+2026-02,Luecke,abgemeldet,keine,keine,nein,0.00,307.10,307.10,nein,468.00
+2026-03,Luecke,abgemeldet,keine,keine,nein,0.00,307.10,307.10,nein,468.00
+2026-04,Luecke,abgemeldet,keine,keine,nein,0.00,307.10,307.10,nein,468.00
+2026-05,Luecke,abgemeldet,keine,keine,nein,0.00,307.10,307.10,nein,468.00
+2026-06,Luecke,abgemeldet,keine,uebergangszeit_vor_studium,nein,0.00,307.10,307.10,ja,468.00
+2026-07,Luecke,abgemeldet,keine,uebergangszeit_vor_studium,nein,0.00,0.00,0.00,ja,468.00
+2026-08,Luecke,abgemeldet,keine,uebergangszeit_vor_studium,nein,0.00,0.00,0.00,ja,468.00
+2026-09,Einarbeitung Praxisstelle,praxisvertrag,einarbeitung_20h,streitig,nein,0.00,0.00,0.00,ja,450.00
+2026-10,Duales Studium,studienvertrag,studium,ausbildung,ja,307.10,0.00,-307.10,ja,940.00

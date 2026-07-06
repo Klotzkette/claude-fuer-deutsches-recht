@@ -1,0 +1,6 @@
+Vorgang;Bezug_LPH;Soll_Ende;Ist_bzw_Prognose_Ende;Verzug_Kalendertage;Verzugsursache;Von_AN_zu_vertreten
+Ausfuehrungsplanung Freigabestand;LPH5;30.04.2026;12.06.2026;43;Nachforderung Bauaufsicht (Brandschutz) 3 Wochen + interne Planverzoegerung 3 Wochen;teilweise
+Rohbau Beginn;Bauausfuehrung;15.05.2026;29.06.2026;45;Folge verspaetete Ausfuehrungsplanung + Baugrund;teilweise
+Rohbau Fertigstellung;Bauausfuehrung;31.08.2026;offen;0;Behinderungsanzeige Rohbauer laeuft;nein
+TGA Grobmontage;Bauausfuehrung;15.10.2026;offen;0;Kollision Lueftung/Unterzug, Nachtrag N-07;nein
+Bauliche Fertigstellung (Vertragstermin);LPH8;30.11.2026;prognostiziert 22.01.2027;0;Prognose, noch nicht faellig;offen

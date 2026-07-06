@@ -1,0 +1,21 @@
+name: schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal
+description: GdB-Neufeststellung bei spaetdiagnostiziertem Autismus und ADHS mit Streit um die integrative Bildung des Gesamt-GdB, Gleichstellung, Teilhabe am Arbeitsleben und Rentenabgrenzung.
+checks:
+  - id: gesamt_gdb_bildung
+    beschreibung: Den Gesamt-GdB aus der Bewertungstabelle korrekt integrativ nach den Versorgungsmedizinischen Grundsaetzen bilden, nicht addieren.
+    erwartung: Fuehrender Einzel-GdB 40 fuer die Autismus-Spektrum-Stoerung, Anhebung um 10 durch die eigenstaendige depressive Stoerung auf plausibel 50; ADHS und Migraene heben nicht; Bescheidwert 30 liegt 20 darunter; die Addition auf 100 ist ausdruecklich als fehlerhaft zu benennen.
+  - id: diskrepanz_einzelwerte
+    beschreibung: Die abweichenden Einzel-GdB des Aerztlichen Dienstes und der behandelnden Fachaerzte erkennen und beweiswuerdigend einordnen.
+    erwartung: Aerztlicher Dienst setzt ASS 30 und Depression 20, Facharzt und Ambulanz setzen ASS 40 und Depression 30; der Widerspruch stuetzt sich auf die fachaerztlichen Werte.
+  - id: erwerbstaetigkeit_kein_gegenbeweis
+    beschreibung: Herausarbeiten, dass fortbestehende Erwerbstaetigkeit keine geringe Teilhabebeeintraechtigung belegt.
+    erwartung: Die Taetigkeit gelingt nur unter hoher Kompensation und bricht bei Reizueberlastung zusammen; Ausfallzeiten und die stationaere Krisenintervention im Januar 2026 sind zu wuerdigen.
+  - id: begruendungsmaengel_bescheid
+    beschreibung: Die Luecken des Bescheids benennen.
+    erwartung: Fehlende Beruecksichtigung von Arbeitsplatzanpassung, sensorischer Ueberforderung, Meltdowns und der stationaeren Krisenintervention.
+  - id: gleichstellung_teilhabe
+    beschreibung: Gleichstellung und Teilhabe am Arbeitsleben von der Rentenfrage trennen.
+    erwartung: Gleichstellung ueber die Agentur fuer Arbeit und Teilhabeleistungen sind vorrangig; Erwerbsminderungsrente erst bei Scheitern der Teilhabemassnahmen.
+  - id: fristen_und_verfahren
+    beschreibung: Verfahrensstand und Fristen sichern.
+    erwartung: Bescheid vom 19.06.2026, Widerspruch fristgerecht eingelegt; versorgungsaerztliche Nachpruefung angestossen, Akteneinsicht beantragt.

@@ -1,0 +1,9 @@
+name: rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen
+description: Witwenrente mit Einkommensanrechnung, Verbeitragung dreier Zahlungsstroeme in der Krankenversicherung der Rentner, Pflegebeitragsluecken und streitiger KVdR-Vorversicherungszeit.
+checks:
+  - Datenkern nachrechnen - zweite Rahmenfristhaelfte 280 Monate, Schwelle neun Zehntel gleich 252 Monate, belegt aus Familienversicherung 72 und Pflichtversicherung 100 gleich 172 Monate; erst die Kindererziehung mit 3 Kindern mal 36 gleich 108 Monaten fuehrt auf 280 und damit ueber die Schwelle.
+  - Den Fehler der Krankenkasse benennen - sie zaehlt nur die 172 GKV-Monate und uebergeht die Kindererziehungsanrechnung; mit nur zwei Kindern waeren 244 Monate erreicht und die Schwelle verfehlt.
+  - Sterbevierteljahr und Einkommensanrechnung trennen und die Herkunft des angesetzten Nettoeinkommens von 1236.20 EUR ab 01.08.2026 aufklaeren.
+  - Die drei Zahlungsstroeme (eigene Rente, Witwenrente, Versorgungsbezug Unterstuetzungskasse) in der Krankenversicherung der Rentner einzeln verbeitragen und die angekuendigte Nachberechnung ab 05/2023 einordnen.
+  - Pflegebeitragsluecke 07/2023 bis 11/2023 und Beitragsende 03/2024 getrennt pruefen; Zeugin Janssen fuer die Absendung des Erhebungsbogens einsetzen.
+  - Die Erwartung der Mandantin korrigieren - die Pflegebeitraege gehen in ihr eigenes Konto und nicht in das des verstorbenen Ehemannes; Widerspruchsfrist zum 02.07.2026 und Anhoerungsfrist zum 31.07.2026 wahren.

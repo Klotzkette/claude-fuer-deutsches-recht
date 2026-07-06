@@ -1,6 +1,6 @@
 # anlagen-zu-schriftsaetzen
 
-**116 Skills** · Stand `v426.1.0`
+**116 Skills** · Stand `v427.0.0`
 
 - [← Zurück zur Gesamtübersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/anlagen-zu-schriftsaetzen/README.md)

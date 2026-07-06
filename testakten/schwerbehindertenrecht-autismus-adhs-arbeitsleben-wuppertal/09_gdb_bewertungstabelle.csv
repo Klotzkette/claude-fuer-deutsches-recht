@@ -1,0 +1,8 @@
+rang,funktionsbeeintraechtigung,funktionssystem,einzel_gdb_facharzt,einzel_gdb_versorgungsamt,ueberschneidung_mit_fuehrend,integrationsschritt,zwischenstand_gesamt_gdb
+1,Autismus-Spektrum-Stoerung mit Anpassungs- und Reizverarbeitungsstoerung,Psyche,40,30,fuehrend,Ausgangswert,40
+2,Rezidivierende depressive Stoerung,Psyche,30,20,teilweise eigenstaendig,hebt fuehrenden Wert um 10,50
+3,ADHS kombinierter Typ,Psyche,20,0,weitgehend deckungsgleich mit ASS,keine weitere Steigerung,50
+4,Chronische Migraene,Kopf und Nerven,10,10,gering,GdB 10 hebt regelmaessig nicht,50
+5,Ergebnis plausible Bildung,gesamt,0,0,0,integrativ nach VersMedV keine Addition,50
+6,Bescheid-Gesamt-GdB vom 19.06.2026,gesamt,0,0,0,festgestellter Wert,30
+7,Kontrollwert falsche Addition,gesamt,0,0,0,40 plus 30 plus 20 plus 10 waere fehlerhaft,100

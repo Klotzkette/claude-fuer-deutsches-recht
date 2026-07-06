@@ -1,0 +1,10 @@
+phase,datum_beginn,datum_ende,ereignis,gdb_massgeblich,grundlage
+Erstdiagnose,2019-04-08,,Mammakarzinom links Erstdiagnose,,Diagnosestellung
+Ersttherapie,2019-05-20,2019-11-30,Brustoperation Chemotherapie Bestrahlung,50,Heilungsbewaehrungssatz nach Geschwulstentfernung
+Heilungsbewaehrung eins,2019-05-20,2024-05-20,fuenf Jahre ohne Rezidiv,50,Heilungsbewaehrung fuenf Jahre ab Geschwulstentfernung
+Herabsetzung,2024-07-15,,Ablauf Heilungsbewaehrung ohne Rezidiv,30,Restfunktion nach abgelaufener Heilungsbewaehrung
+Rezidiv,2026-02-16,,lokal-regionales Rezidiv axillaere Lymphknoten,Neubeginn,erneute Heilungsbewaehrung wird ausgeloest
+Rezidivtherapie,2026-04-04,laufend,Operation Chemotherapie ab 2026-05-12 Bestrahlung geplant,50,neuer Heilungsbewaehrungssatz nach Geschwulstentfernung
+Heilungsbewaehrung zwei,2026-04-04,2031-04-04,laufende Heilungsbewaehrung nach Rezidiv,50,fuenf Jahre ab Geschwulstentfernung 2026-04-04
+Bescheid,2026-06-16,,festgestellter Gesamt-GdB streitig,40,Brustkrebs 40 Lymphoedem 20 psychisch 10 integrativ 40
+Nachpruefung fruehestens,2031-04-04,,Ende Heilungsbewaehrung zwei,offen,fruehester Zeitpunkt einer Nachpruefung

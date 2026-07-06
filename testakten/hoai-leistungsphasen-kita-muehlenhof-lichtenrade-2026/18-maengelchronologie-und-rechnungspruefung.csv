@@ -1,0 +1,7 @@
+Lfd;Datum_Ruege;Gewerk;Mangel;Frist_Nachbesserung;Status;Minderung_bzw_Kosten_EUR;Rechnungsbezug
+1;18.05.2026;Rohbau;Gruendung Nord-Ost ohne freigegebene Detailplanung ausgefuehrt;05.06.2026;behoben;0,00;Abschlag 3
+2;19.05.2026;TGA;Lueftungstrasse kollidiert mit Unterzug Achse C;28.05.2026;Nachtrag N-07 offen;14800,00;Nachtrag N-07
+3;26.05.2026;Fassade;Befestigungsdetail Holzfassade brandschutzwidrig;12.06.2026;in Nachbesserung;9200,00;Abschlag 4
+4;08.06.2026;Rohbau;Betondeckung Bewehrung Decke ueber EG unterschritten;30.06.2026;streitig;18500,00;einbehalten
+5;22.06.2026;Estrich;Restfeuchte ueber Grenzwert vor Belagsarbeiten;10.07.2026;offen;6400,00;Abschlag 5
+6;29.06.2026;TGA;Dokumentation Dichtheitspruefung Lueftung fehlt;15.07.2026;offen;2100,00;Abschlag 5

@@ -1,0 +1,21 @@
+name: schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock
+description: GdB-Neufeststellung nach Brustkrebsrezidiv mit Streit um die erneute Heilungsbewaehrung, Lymphoedem, Fatigue sowie Krankengeld-, Reha- und Rentenabgrenzung.
+checks:
+  - id: heilungsbewaehrung_zeitleiste
+    beschreibung: Aus der Zeitleiste den GdB-Verlauf und die erneute Heilungsbewaehrung nachrechnen.
+    erwartung: Erstdiagnose 2019 mit Heilungsbewaehrung bis 2024 und GdB 50, danach Herabsetzung auf 30; Rezidiv 2026 mit Geschwulstentfernung am 04.04.2026 loest eine neue Heilungsbewaehrung bis 04.04.2031 aus, waehrend der ein GdB von mindestens 50 massgeblich ist; der Bescheidwert 40 liegt darunter.
+  - id: widerspruch_laufende_therapie
+    beschreibung: Den widerspruechlichen Umgang der Behoerde mit der laufenden Therapie erkennen.
+    erwartung: Die Behoerde nutzt die laufende Therapie zugleich als Anerkennungsgrund und als Begrenzung; die laufende Therapie spricht bei erheblicher gegenwaertiger Teilhabebeeintraechtigung nicht gegen die Feststellung.
+  - id: funktionsfolgen_eigenstaendig
+    beschreibung: Die Funktionsfolgen unabhaengig von der Heilungsbewaehrung wuerdigen.
+    erwartung: Lymphoedem linker Arm Grad zwei mit Belastungsgrenze etwa fuenf Kilogramm, Fatigue, beginnende Polyneuropathie und Schlafstoerungen sind eigenstaendig zu bewerten.
+  - id: schwerbehinderteneigenschaft
+    beschreibung: Die Rechtsfolge der Schwerbehinderteneigenschaft ab Antragstellung pruefen.
+    erwartung: Bei GdB mindestens 50 besteht die Schwerbehinderteneigenschaft ab dem 18.03.2026; hilfsweise erneute Entscheidung nach Beiziehung der vollstaendigen Unterlagen.
+  - id: krankengeld_reha_rente
+    beschreibung: Kurzfristige und mittelfristige Leistungen sichern.
+    erwartung: Entgeltfortzahlung, danach Krankengeld und Nahtlosigkeit; onkologische Reha nach Bestrahlung; Erwerbsminderungsrente nur bei fortbestehender Leistungsminderung.
+  - id: fristen_und_verfahren
+    beschreibung: Verfahrensstand und Fristen sichern.
+    erwartung: Bescheid vom 16.06.2026, Zugang 19.06.2026, Widerspruchsfrist bis 19.07.2026 gewahrt; Akteneinsicht und Nachreichung der onkologischen Unterlagen veranlasst.

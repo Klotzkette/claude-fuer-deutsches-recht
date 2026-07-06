@@ -1,0 +1,19 @@
+zeitraum_von,zeitraum_bis,art_der_zeit,monate,zaehlt_wartezeit_35,zaehlt_wartezeit_45,entgeltpunkte_modell,beleglage,streitpunkt
+1982-09,1990-06,Pflichtbeitrag Beschaeftigung,94,ja,ja,7.05,Howaldt-Werft; vollstaendig gemeldet,keiner
+1990-07,1992-08,Beschaeftigung Nordstahl (Luecke im Konto),26,belegbar,belegbar,1.95,AG-Bescheinigung 12.07.1992; 3 Lohnabrechnungen; AOK-Mitgliedsbescheinigung,AG-Meldung fehlt; Firma 1994 liquidiert; Einzugsstellenanfrage
+1992-09,2000-12,Pflichtbeitrag Beschaeftigung,100,ja,ja,7.90,Foerdewerft; vollstaendig gemeldet,keiner
+2001-01,2001-10,Minijob Baeckerei Petersen (Luecke),10,belegbar,zweifelhaft,0.30,8 Kontoauszuege je 610 DM; Weihnachtskarte; Zeugin Clausen,Entgeltmeldung fehlt; Versicherungspflicht offen
+2001-11,2009-10,Pflichtbeitrag Beschaeftigung,96,ja,ja,7.55,Foerdewerft; vollstaendig gemeldet,keiner
+2009-11,2010-02,Pflege Vater (Kasse zahlte nicht),4,belegbar,streitig,0.18,Pflegekassenbescheinigung 03.05.2011,Kasse zahlte Beitraege erst ab 03/2010
+2010-03,2011-04,Pflege Vater (Beitraege abgefuehrt),14,belegbar,belegbar,0.64,Pflegekassenbescheinigung 03.05.2011,abgefuehrt laut Kasse aber nicht im Konto; Zuordnungsfehler
+2011-05,2014-07,Pflichtbeitrag Beschaeftigung,39,ja,ja,3.05,Foerdewerft bis Betriebsschliessung,keiner
+2014-08,2015-03,Arbeitslosengeldbezug,8,ja,streitig,0.50,Alg-Bescheid 21.08.2014; Abmeldung 02.04.2015,als Anrechnungszeit statt Pflichtbeitragszeit gespeichert
+2015-04,2026-04,Pflichtbeitrag Beschaeftigung,133,ja,ja,10.40,Nordische Schiffstechnik; laufend gemeldet,keiner
+# Lesehilfe Datenkern (Werte mit den Aktenstuecken nachrechenbar):
+# Wartezeit 45 Jahre = 540 Monate. Nur gemeldete Pflichtzeiten (Spalte zaehlt_wartezeit_45 = ja): 94+100+96+39+133 = 462 Monate = 38 Jahre 6 Monate. Deckt sich mit der Rentenauskunft vom 18.05.2026.
+# Fehlend zu 540: 78 Monate = 6.5 Jahre. Deckt sich mit dem Kurzbild.
+# Belegbare/streitige Zusatzmonate: Nordstahl 26 + Minijob 10 + Pflege 4 + Pflege 14 + Alg 8 = 62 Monate. Belegbar-Maximum Stand 04/2026: 462+62 = 524 Monate = 43 Jahre 8 Monate.
+# Konservativ (ohne Minijob und ohne die 4 unbelegten Pflegemonate): 462+26+14+8 = 510 Monate = 42 Jahre 6 Monate.
+# Weiterarbeit 05/2026 bis 12/2027 (abschlagsfreier 45er-Beginn 01.01.2028): 20 Monate. Belegbar-Maximum + Weiterarbeit = 544 Monate -> 540 knapp erreicht. Konservativ + Weiterarbeit = 530 Monate -> 540 verfehlt.
+# Wartezeit 35 Jahre = 420 Monate. Gemeldete Pflichtzeiten + Arbeitslosigkeit als Anrechnungszeit: 462+8 = 470 Monate >= 420 -> erfuellt.
+# Abschlag Wunschbeginn 01.03.2027 bis Regelaltersgrenze 01.01.2030: 34 Monate x 0.3 Prozent = 10.2 Prozent. Deckt sich mit der Rentenauskunft.

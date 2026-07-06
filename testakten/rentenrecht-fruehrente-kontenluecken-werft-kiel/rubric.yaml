@@ -1,0 +1,9 @@
+name: rentenrecht-fruehrente-kontenluecken-werft-kiel
+description: Vorgezogene Altersrente einer Werftmitarbeiterin mit Kontenluecken, streitigen Wartezeitmonaten fuer die Rente fuer langjaehrig und besonders langjaehrig Versicherte sowie Abschlagsfrage beim Wunschbeginn.
+checks:
+  - Datenkern nachrechnen - aus dem Kontenspiegel ergeben sich fuer die Wartezeit von 45 Jahren nur 462 gemeldete Pflichtmonate (38 Jahre 6 Monate) gegenueber bis zu 524 belegbaren Monaten; die 62 streitigen Zusatzmonate (Nordstahl 26, Minijob 10, Pflege 4 und 14, Arbeitslosigkeit 8) und die Luecke von 78 Monaten zu 540 muessen benannt werden.
+  - Wartezeit von 35 und von 45 Jahren strikt trennen - die 35 Jahre sind mit 470 Monaten erfuellt, die 45 Jahre nicht; Anrechnungszeit Arbeitslosigkeit zaehlt fuer 35, nicht ohne Weiteres fuer 45.
+  - Abschlag beim Wunschbeginn 01.03.2027 mit 34 Monaten mal 0.3 Prozent gleich 10.2 Prozent nachvollziehen und die Ausgleichszahlung erst nach Kontenklaerung verorten.
+  - Je Lueckenkomplex die Nachweisqualitaet bewerten - Nordstahl (nur Krankenversicherung, keine Rentenmeldung), Minijob (Mai und Juni bar, ohne Beleg), Pflege (Zuordnungsfehler bei der Einzugsstelle bestaetigt).
+  - Amtsermittlung anstossen (Einzugsstelle, Agentur fuer Arbeit, Pflegekasse) statt nur eigene Belege zu sammeln; die Korrekturmeldung der AOK und die Zwischenmitteilung der DRV auswerten.
+  - Erreichbarkeit des abschlagsfreien 45-Jahre-Beginns zum 01.01.2028 realistisch einordnen - selbst mit Weiterarbeit bis 12/2027 werden 540 Monate nur bei Anerkennung nahezu aller streitigen Zeiten knapp erreicht.

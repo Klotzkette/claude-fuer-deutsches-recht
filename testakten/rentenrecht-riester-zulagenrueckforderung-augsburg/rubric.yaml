@@ -1,10 +1,21 @@
 name: rentenrecht-riester-zulagenrueckforderung-augsburg
-description: Riester-Zulagenrückforderung mit Mindesteigenbeitrag, Anbieterhinweis, Kinderzulage, Kindergeldwechsel und Einspruch gegen die Zentrale Zulagenstelle.
+description: Riester-Zulagenrueckforderung mit Mindesteigenbeitrag, Anbieterhinweis, Kinderzulage, Kindergeldwechsel und Einspruch gegen die Zentrale Zulagenstelle.
 checks:
-  - Mindesteigenbeitrag je Jahr aus Vorjahreseinkommen und Zulagen berechnen.
-  - Differenz zwischen Steuerbrutto und rentenversicherungspflichtigem Entgelt als mögliche Erklärung der Rückforderung 2023 erkennen.
-  - Kinderzulage nicht pauschal verlieren lassen, sondern die kindergeldrechtliche Zuordnung für Jonas monatsweise prüfen.
-  - Anbieterhinweis "300 EUR sollten reichen" von der behördlichen Zulagenfestsetzung trennen; Haftungsstrang nur nachrangig.
-  - Einspruchsfrist aus dem Zugang des Bescheids am 14.06.2026 sichern; Nachweisfrist der ZfA zum 10.08.2026 einhalten.
-  - Bereits erfolgte Belastung des Vertragsguthabens bei der Frage der Aussetzung der Vollziehung berücksichtigen.
-  - Jahresmatrix als Grundlage für Beratung und mögliche Nachzahlung verwenden, aber gegen die Arbeitgeberzahlen gegenprüfen.
+  - id: r01-mindesteigenbeitrag-datenkern
+    beschreibung: Mindesteigenbeitrag und korrekte Rueckforderung aus der Tabelle 12_riester_mindesteigenbeitrag_berechnung.csv nachrechnen.
+    erwartung: Beitragsjahr 2023 aus Vorjahr 2022 rv-Entgelt 38940.00 ergibt vier Prozent 1557.60 minus Zulage 775.00 gleich Mindesteigenbeitrag 782.60; gezahlt 1020.00 deckt ihn, korrekte Rueckforderung 0.00 gegen ZfA-Forderung 188.40. Beitragsjahr 2024 aus Vorjahr 2023 rv-Entgelt 41260.00 ergibt vier Prozent 1650.40 minus 775.00 gleich 875.40; gezahlt 1320.00 deckt ihn, korrekte Rueckforderung 0.00 oder hoechstens 300.00 gegen ZfA-Forderung 474.15.
+  - id: r02-steuerbrutto-gegen-sv-brutto
+    beschreibung: Differenz zwischen Steuerbrutto und rentenversicherungspflichtigem Entgelt als Grund fuer die falsche Rueckforderung erkennen.
+    erwartung: Fuer Vorjahr 2022 SV-Brutto 38940.00 gegen Steuerbrutto 37600.00, fuer Vorjahr 2023 SV-Brutto 41260.00 gegen Steuerbrutto 41820.00 verwendet.
+  - id: r03-kinderzulage-jonas
+    beschreibung: Kinderzulage fuer Jonas nicht pauschal verlieren lassen, sondern die kindergeldrechtliche Zuordnung monatsweise pruefen.
+    erwartung: Erster Anspruchszeitraum Januar 2024 zugunsten der Mutter, daher Kinderzulage Jonas 300.00 fuer das ganze Jahr 2024 bei ihr.
+  - id: r04-anbieterhinweis-abgrenzen
+    beschreibung: Unverbindliche Anbieterempfehlung von der behoerdlichen Zulagenfestsetzung trennen und den Haftungsstrang nur nachrangig fuehren.
+    erwartung: Empfehlung der Sonderzahlung 300.00 EUR als Richtwert ohne Vorjahreseinkommen erkannt, Haftung des Anbieters nachrangig behandelt.
+  - id: r05-fristen-einspruch-nachweis
+    beschreibung: Einspruchsfrist aus dem Zugang am 14.06.2026 sichern und die Nachweisfrist der ZfA einhalten.
+    erwartung: Einspruch fristgerecht ab Zugang 14.06.2026 und Nachweisfrist zum 10.08.2026 eingehalten.
+  - id: r06-aussetzung-vollziehung
+    beschreibung: Bereits erfolgte Belastung des Vertragsguthabens bei der Aussetzung der Vollziehung beruecksichtigen.
+    erwartung: Rueckforderung 662.55 EUR bereits aus dem Vertragsguthaben einbehalten, Antrag auf Aussetzung und Erstattung gestellt.
