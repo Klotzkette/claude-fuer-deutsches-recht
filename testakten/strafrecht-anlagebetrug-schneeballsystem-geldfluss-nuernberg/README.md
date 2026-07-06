@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 120 KB) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 116 KB) | PDF | [`gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf`](gesamt-pdf/strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg-einzelpdfs.zip) |
 
@@ -49,7 +49,6 @@ strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg/
 ├── 07_kontoauszug_geschaeftskonto_monatsuebersicht_2023-02_2026-03.csv — Monatsverdichtung des Geschäftskontos: Einzahlungen, Auszahlungen, Investitionen, Salden
 ├── 08_anlegerliste_frankenland_kapitalpartner_stand_2026-04-14.csv    — 61 Anleger mit Vertragsdaten, Beträgen, Renditezahlungen und Status
 ├── 09_beschuldigtenvernehmung_1_zellinger_2026-04-14.docx             — Erste Vernehmung: alles investiert, Lieferverzögerungen bei Modulen
-├── 10_auswertevermerk_geldfluss_khk_salzner_2026-05-11.docx           — Grobauswertung mit Jahressummen; Feinauswertung ausdrücklich offen
 ├── 11_zeugenvernehmung_meckel_2026-05-19.docx                         — Aussage der Vertriebsleiterin zu Septembermail, Sprachregelungen und Rückzahlung Blankertz
 ├── 12_beschuldigtenvernehmung_2_zellinger_2026-06-09.docx             — Zweite Vernehmung mit Verteidiger: Einlassung wechselt zum Zwischenparken
 ├── 13_verteidigerschriftsatz_grundhoefer_2026-06-22.docx              — Verteidigung: kein Anfangsvorsatz, Beweisanträge, Angriff auf Zeugin Meckel

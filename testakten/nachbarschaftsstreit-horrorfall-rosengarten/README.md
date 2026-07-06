@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1139 KB) | PDF | [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1140 KB) | PDF | [`gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf`](gesamt-pdf/nachbarschaftsstreit-horrorfall-rosengarten_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-nachbarschaftsstreit-horrorfall-rosengarten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-nachbarschaftsstreit-horrorfall-rosengarten-einzelpdfs.zip) |
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 216 KB) | PDF | [`gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf`](gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 215 KB) | PDF | [`gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf`](gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lumen-studios-insolvenz-strafverfahren-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren-einzelpdfs.zip) |
 

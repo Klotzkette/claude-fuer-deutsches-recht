@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 18 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-long-covid-pots-koeln_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-long-covid-pots-koeln_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-long-covid-pots-koeln_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-long-covid-pots-koeln_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-long-covid-pots-koeln-einzelpdfs.zip) |
 

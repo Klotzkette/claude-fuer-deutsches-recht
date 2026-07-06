@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf`](gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf`](gesamt-pdf/berufskrankheit-asbest-schlosser-werft-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-berufskrankheit-asbest-schlosser-werft-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-berufskrankheit-asbest-schlosser-werft-bremen-einzelpdfs.zip) |
 

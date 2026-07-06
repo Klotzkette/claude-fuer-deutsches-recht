@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 36 KB) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf`](gesamt-pdf/strafrecht-sexualdelikt-aussage-gegen-aussage-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-sexualdelikt-aussage-gegen-aussage-mainz-einzelpdfs.zip) |
 
@@ -77,7 +77,6 @@ strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/
 ├── 09_originalanlage_behoerdenvermerk.pdf                 PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_kontakt_nachrichten_zeitleiste.csv                  Aus mehreren Quellen zusammengeführte Zeitleiste mit objektiven Ankern
 ├── 11_zeugenvernehmung_demir_2026-04-30.docx              Aussage der Freundin zu Sprachnachrichten und Zeitverlauf
-├── 12_auswertevermerk_zeitleiste_aussagekonstanz_2026-06-18.docx  Ergebnisoffener Abgleich der Zeitangaben mit den objektiven Ankern
 ├── eml/
 │   ├── 01_rechtsmedizin_befunduebersendung_2026-04-08.eml     Übersendung des Untersuchungsbefunds, unspezifische Belastungssymptome
 │   ├── 02_frauennotruf_prozessbegleitung_2026-04-20.eml       Angebot psychosozialer Prozessbegleitung nach Paragraf 406g StPO

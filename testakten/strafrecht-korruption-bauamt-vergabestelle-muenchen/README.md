@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/strafrecht-korruption-bauamt-vergabestelle-muenchen_gesamt.pdf`](gesamt-pdf/strafrecht-korruption-bauamt-vergabestelle-muenchen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 32 KB) | PDF | [`gesamt-pdf/strafrecht-korruption-bauamt-vergabestelle-muenchen_gesamt.pdf`](gesamt-pdf/strafrecht-korruption-bauamt-vergabestelle-muenchen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-korruption-bauamt-vergabestelle-muenchen-einzelpdfs.zip) |
 
@@ -74,7 +74,6 @@ strafrecht-korruption-bauamt-vergabestelle-muenchen/
 ├── 09_originalanlage_behoerdenvermerk.pdf              PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_vergabe_und_vorteile_abgleich.csv               Zuschlagsliste gegen Zuwendungen und Kontobewegungen (Datenauswertungs-Kern)
 ├── 11_beschuldigtenvernehmung_eberl_2026-06-18.docx    Einlassung Eberl: Freundschaft und "Beratungshonorar"
-├── 12_auswertevermerk_vergabe_vorteile_2026-05-07.docx Polizeilicher Abgleich Zuschläge und Zuwendungen mit Zeitmuster
 ├── eml/
 │   ├── 01_compliance_meldung_loszuschnitte_2026-02-14.eml  Compliance-Meldung über auffällige Loszuschnitte an die Amtsleitung
 │   ├── 02_kolb_leistungsmerkmal_2025-10-08.eml            Kolb schlägt Leistungsmerkmal vor und kündigt Honorar an

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 66 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach-einzelpdfs.zip) |
 

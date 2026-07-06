@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 64 KB) | PDF | [`gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf`](gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 60 KB) | PDF | [`gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf`](gesamt-pdf/strafrecht-funkzellenauswertung-alibi-raubserie-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-funkzellenauswertung-alibi-raubserie-essen-einzelpdfs.zip) |
 
@@ -48,7 +48,6 @@ strafrecht-funkzellenauswertung-alibi-raubserie-essen/
 ├── 07_verkehrsdaten_mobilfunk_0171_5583912_2026-05-28.csv       — 31 Verkehrsdatensätze mit Zellen-ID, Standort und Zeitstempel
 ├── 08_taten_uebersicht_beute_ek_spaeti_2026-05-18.csv           — Taten-Zeitleiste mit Tatzeiten, Adressen und rechnerischer Beute
 ├── 09_lichtbildvorlage_protokoll_bulut_2026-05-27.docx          — Wahllichtbildvorlage mit protokollierter Einzelbildvorzeigung und Auswahlmängeln
-├── 10_auswertevermerk_funkzellen_khk_trosdorf_2026-06-03.docx   — Polizeiliche Auswertung der Standortdaten je Tatabend
 ├── 11_haftbefehl_ag_essen_2026-06-04.docx                       — Haftbefehl wegen besonders schweren Raubes in drei Fällen
 ├── 12_beschuldigtenvernehmung_rautenberg_2026-06-05.docx        — Einlassung: ganzer Abend bei der Schwester, Handy nutzt nur er selbst
 ├── 13_zeugenvernehmung_jasmin_rautenberg_2026-06-08.docx        — Pauschale Alibibestätigung der Schwester, freiwillige Chat-Herausgabe

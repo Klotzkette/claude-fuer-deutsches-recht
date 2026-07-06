@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 771 KB) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 770 KB) | PDF | [`gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf`](gesamt-pdf/insolvenz-asset-deal-chaincortex-ai-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenz-asset-deal-chaincortex-ai-berlin-einzelpdfs.zip) |
 

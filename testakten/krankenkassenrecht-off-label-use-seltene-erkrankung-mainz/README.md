@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf`](gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 18 KB) | PDF | [`gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf`](gesamt-pdf/krankenkassenrecht-off-label-use-seltene-erkrankung-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krankenkassenrecht-off-label-use-seltene-erkrankung-mainz-einzelpdfs.zip) |
 

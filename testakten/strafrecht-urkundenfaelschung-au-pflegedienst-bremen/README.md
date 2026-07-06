@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 37 KB) | PDF | [`gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf`](gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 35 KB) | PDF | [`gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf`](gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip) |
 
@@ -78,7 +78,6 @@ strafrecht-urkundenfaelschung-au-pflegedienst-bremen/
 ├── 09_originalanlage_behoerdenvermerk.pdf                 PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_au_dienstplan_anwesenheit_abgleich.csv             Abgleich AU-Bescheinigung, Dienstplan und Anwesenheit je Tag mit Entgeltfortzahlung
 ├── 11_zeugenvernehmung_pdl_hoevels_2026-06-15.docx        Aussage der PDL zur Tourensoftware und zu den Widerspruchstagen
-├── 12_auswertevermerk_au_abgleich_2026-06-22.docx         Auswertevermerk mit Berechnung des Entgeltfortzahlungsschadens
 ├── eml/
 │   ├── 01_weserblick_personal_an_kroll_anhoerung_2026-03-12.eml   Anhörung durch die Personalleitung mit Konfrontation der Diskrepanz
 │   ├── 02_aok_an_weserblick_eau_rueckfrage_2026-02-27.eml         eAU-Auskunft der Kasse: Meldung erst ab 06.02.2026

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 22 KB) | PDF | [`gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf`](gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf`](gesamt-pdf/rentenberater-bav-firmenberatung-pflegedienst-halle_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-bav-firmenberatung-pflegedienst-halle-einzelpdfs.zip) |
 

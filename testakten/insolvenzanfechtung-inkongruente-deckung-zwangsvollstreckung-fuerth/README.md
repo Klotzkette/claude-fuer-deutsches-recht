@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 60 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth-einzelpdfs.zip) |
 

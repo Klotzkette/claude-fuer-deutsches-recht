@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg_gesamt.pdf`](gesamt-pdf/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg_gesamt.pdf`](gesamt-pdf/sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-teilhabeassistenz-autismus-berufsschule-regensburg-einzelpdfs.zip) |
 

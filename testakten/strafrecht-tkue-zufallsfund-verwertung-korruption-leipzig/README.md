@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 58 KB) | PDF | [`gesamt-pdf/strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig_gesamt.pdf`](gesamt-pdf/strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 56 KB) | PDF | [`gesamt-pdf/strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig_gesamt.pdf`](gesamt-pdf/strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig-einzelpdfs.zip) |
 
@@ -50,7 +50,6 @@ strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig/
 ├── 09_durchsuchungsprotokoll_2026-03-19.docx            Sicherstellungen: Bargeld, Haftnotiz, Kalender, Mobiltelefon, Vorgänge
 ├── 10_beschuldigtenvernehmung_kabusch_2026-04-08.docx   Einlassung: Flohmarkt-Erlöse, keine Zahlungsannahme
 ├── 11_zeugenvernehmung_petrasch_2026-04-21.docx         Vernehmung des BtM-Beschuldigten mit § 55-Verweigerung in Kernfragen
-├── 12_auswertevermerk_mobiltelefon_chat_2026-04-29.docx Auswertung des Ehefrau-Chats und Abgleich mit den Einzahlungen
 ├── 13_anklageschrift_2026-05-27.docx                    Anklage wegen Bestechlichkeit in sieben Fällen mit Einziehungsantrag
 ├── 14_verteidigerschriftsatz_verwertungsverbot_2026-06-16.docx Einwendungen: hypothetischer Ersatzeingriff, Einzelfallschwere, Fernwirkung
 ├── 15_stellungnahme_sta_verwertbarkeit_2026-06-30.docx  Erwiderung der StA zu Katalogtat, § 100e Abs. 6 StPO und Fernwirkung

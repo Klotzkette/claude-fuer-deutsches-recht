@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 58 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz-einzelpdfs.zip) |
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena_gesamt.pdf`](gesamt-pdf/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena_gesamt.pdf`](gesamt-pdf/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena-einzelpdfs.zip) |
 

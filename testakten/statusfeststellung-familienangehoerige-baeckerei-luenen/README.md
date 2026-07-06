@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf`](gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 21 KB) | PDF | [`gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf`](gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip) |
 

@@ -1,3 +1,12 @@
+# v429.0.0 — Lösungsverratende Aktenstücke entfernt, Satzungen und Verträge vollständig ausformuliert
+
+- Über den gesamten Testakten-Bestand wurden 79 Aktenstücke entfernt, die die Bearbeitung in einer Schulungssituation vorwegnahmen und damit die KI-Auswertung entwerteten: 64 kombinierte Realitätskern-/Arbeitsauftrags-Stücke (`90_realitaetskern_und_arbeitsauftrag`), 5 Berechnungsvermerke, die das Ergebnis fertig durchrechneten, 7 Auswertevermerke, die die Beweiswürdigung vorwegnahmen, sowie drei weitere interne Stücke (ein Bearbeiter-Vermerk mit Rechenhinweisen und vorweggenommener Rechenspanne, ein Klagevorbereitungs-Vermerk mit ausformulierter Begründungslinie und ein Partner-Abschlussmemo mit Verteidigungsstrategie). Die zugehörigen README-Bäume und Datei-Tabellen wurden bereinigt.
+- Drei Statusfeststellungs-Akten, in denen die Sozialversicherungspflicht gerade von der Satzung abhängt, geben die maßgebliche Urkunde nun vollständig statt als Auszug wieder: der Gesellschaftsvertrag der Neuralis MedTech GmbH (Minderheits-Gesellschafter-Geschäftsführer, Erlangen), die Satzung der Klingenhain Musikschule gemeinnützige GmbH (50-Prozent-Patt und Gründerbrief-Nebenabrede) und der Dienstleistungsvertrag im Familienbetrieb Bäckerei Kleinschmidt (Lünen). Ergänzend wurde der Geschäftsführer-Anstellungsvertrag der Erlanger Akte vom Auszug auf den Volltext gebracht.
+- Vier Mandats- und Statusnotizen wurden von eingebauten Arbeitsaufträgen, „gewünschten Outputs" und rechtlichen Wertungslinien auf einen neutralen Sachverhalts- und Verfahrensstand umgestellt, damit die rechtliche Bewertung offen bleibt; die belastbaren Tatsachen (etwa handschriftliche Randnotizen auf der Vertragsfassung) blieben erhalten.
+- Die Gesamt-PDFs der 71 betroffenen Testakten wurden neu gebaut, die Download-Abschnitte der READMEs mit den aktualisierten Dateigrößen versehen. Alle Validatoren grün (301 Testakten; Marketplace 234 Plugins; Struktur; Downloads; Keine-Markdown-Aktenstücke; Gesamt-PDF). Repo-weiter Versions-Bump auf v429.0.0.
+
+---
+
 # v428.0.0 — Echte Umlaute statt ASCII-Umschrift in allen E-Mail- und Chat-Aktenstücken
 
 - In den Aktenstücken vom Typ E-Mail (EML) und Chat-Export (TXT) stand vielfach ASCII-Umschrift (ue, ae, oe, ss) statt echter Umlaute; die formatierten DOCX-Aktenstücke waren davon nicht betroffen. Über den gesamten Testakten-Bestand (932 EML/TXT-Dateien geprüft) wurden 217 Dateien auf echte Umlaute (ä, ö, ü, ß) umgestellt.

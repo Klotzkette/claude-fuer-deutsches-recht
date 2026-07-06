@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 44 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 43 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin-einzelpdfs.zip) |
 

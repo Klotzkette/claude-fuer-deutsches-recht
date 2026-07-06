@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 68 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 67 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz-einzelpdfs.zip) |
 

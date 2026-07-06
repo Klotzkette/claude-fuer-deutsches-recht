@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 992 KB) | PDF | [`gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf`](gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 991 KB) | PDF | [`gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf`](gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-starug-schutzschirm-grossbach-druckguss-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-schutzschirm-grossbach-druckguss-erfurt-einzelpdfs.zip) |
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 65 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf`](gesamt-pdf/rentenrecht-witwenrente-einkommensanrechnung-luebeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-witwenrente-einkommensanrechnung-luebeck-einzelpdfs.zip) |
 
@@ -43,7 +43,6 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 ├── 11_hzvk_betriebsrentenmitteilung.docx                # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
 ├── 12_hl_leben_leistungsmitteilung.docx                 # Versichererbestätigung der privaten Sofortrente
 ├── 13_witwenrente_anrechnung_berechnung.csv             # Datenkern: Brutto, Netto, Freibetrag, Anrechnung und Zahlbetrag je Monat
-├── 14_berechnungsvermerk_einkommensanrechnung_2026-07-08.docx # Interner Vermerk, rechnet Anrechnung und Zahlbetrag nach
 ├── 15_widerspruchsbegruendung_anrechnung_2026-07-09.docx # Widerspruchsbegründung an die DRV Nord (Endprodukt)
 ├── 16_whatsapp_tochter_daenemark_ordner.txt             # Chat mit der Tochter zu dänischen Lohnzetteln und Geldsorgen
 ├── eml/
@@ -52,10 +51,9 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 │   └── 03_jessen_intern_anrechnung_nachgerechnet.eml    # Interner Rechenweg, warum 458.44 EUR nicht haltbar ist
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
-└── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 90_realitaetskern_und_arbeitsauftrag_2026-07-06.docx  # Realitaetskern und Arbeitsauftrag (Ergaenzung v426)
+├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
 ├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-├── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
 ```
 
 ## Aktenstücke
@@ -75,7 +73,6 @@ rentenrecht-witwenrente-einkommensanrechnung-luebeck/
 | `11_hzvk_betriebsrentenmitteilung.docx` | Betriebsrentenmitteilung der Zusatzversorgungskasse |
 | `12_hl_leben_leistungsmitteilung.docx` | Leistungsmitteilung des privaten Versicherers |
 | `13_witwenrente_anrechnung_berechnung.csv` | Datenkern: Anrechnung und Zahlbetrag je Monat |
-| `14_berechnungsvermerk_einkommensanrechnung_2026-07-08.docx` | Interner Berechnungsvermerk zur Einkommensanrechnung |
 | `15_widerspruchsbegruendung_anrechnung_2026-07-09.docx` | Widerspruchsbegründung an die DRV Nord |
 | `16_whatsapp_tochter_daenemark_ordner.txt` | Chat mit der Tochter zu den dänischen Lohnzetteln |
 | `eml/01_drv_nord_anrechnung_grundlagen.eml` | Grundlagen der Anrechnung laut DRV Nord |

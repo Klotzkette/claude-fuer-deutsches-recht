@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 648 KB) | PDF | [`gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 646 KB) | PDF | [`gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip) |
 

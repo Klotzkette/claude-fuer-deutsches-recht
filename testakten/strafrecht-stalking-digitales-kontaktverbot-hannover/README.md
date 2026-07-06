@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf`](gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 34 KB) | PDF | [`gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf`](gesamt-pdf/strafrecht-stalking-digitales-kontaktverbot-hannover_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-stalking-digitales-kontaktverbot-hannover.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-stalking-digitales-kontaktverbot-hannover-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafrecht-stalking-digitales-kontaktverbot-hannover-einzelpdfs.zip) |
 
@@ -74,7 +74,6 @@ strafrecht-stalking-digitales-kontaktverbot-hannover/
 ├── 09_originalanlage_behoerdenvermerk.pdf              PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_kontaktchronologie_kanaele.csv                  Kontaktereignisse nach Datum, Kanal und Profil (Datenauswertungs-Kern)
 ├── 11_beschuldigtenvernehmung_mertens_2026-06-15.docx  Einlassung Mertens: nur einmal geschrieben, bestreitet Tracker
-├── 12_auswertevermerk_kontaktchronologie_2026-06-20.docx Polizeilicher Auswertevermerk mit Zählung und Verstößen
 ├── eml/
 │   ├── 01_autohaus_leinau_trackerfund_2026-05-07.eml      Werkstatt meldet Fund des GPS-Senders am Fahrzeug
 │   ├── 02_polizei_gefaehrderansprache_2026-05-09.eml      Polizeivermerk über die Gefährderansprache

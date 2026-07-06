@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 101 KB) | PDF | [`gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf`](gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 99 KB) | PDF | [`gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf`](gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip) |
 

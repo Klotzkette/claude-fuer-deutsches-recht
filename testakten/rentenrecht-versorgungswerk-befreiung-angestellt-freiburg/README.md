@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 34 KB) | PDF | [`gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf`](gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 30 KB) | PDF | [`gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf`](gesamt-pdf/rentenrecht-versorgungswerk-befreiung-angestellt-freiburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-versorgungswerk-befreiung-angestellt-freiburg-einzelpdfs.zip) |
 
@@ -41,7 +41,6 @@ rentenrecht-versorgungswerk-befreiung-angestellt-freiburg/
 ├── 09_widerspruchsbescheid.docx             ← Zurückweisung vom 10.06.2026, Klage zum SG Freiburg möglich
 ├── 10_arbeitgeberbestaetigung_taetigkeit.docx ← tatsächliche Aufgabenverteilung, Projekte, Zeugenangebot
 ├── 11_beitragsfluss.csv                   ← Monatsraster der Doppelzahlungen seit März 2024
-└── 12_vermerk_klagevorbereitung.docx        ← Klagekern, Beweismittel, Schwachstellen, Nebenpunkte
 ```
 
 ## Bearbeitungsziel

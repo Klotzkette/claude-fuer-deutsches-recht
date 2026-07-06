@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 52 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 51 KB) | PDF | [`gesamt-pdf/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld_gesamt.pdf`](gesamt-pdf/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld-einzelpdfs.zip) |
 

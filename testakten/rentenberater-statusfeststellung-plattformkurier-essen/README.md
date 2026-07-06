@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 24 KB) | PDF | [`gesamt-pdf/rentenberater-statusfeststellung-plattformkurier-essen_gesamt.pdf`](gesamt-pdf/rentenberater-statusfeststellung-plattformkurier-essen_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 23 KB) | PDF | [`gesamt-pdf/rentenberater-statusfeststellung-plattformkurier-essen_gesamt.pdf`](gesamt-pdf/rentenberater-statusfeststellung-plattformkurier-essen_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenberater-statusfeststellung-plattformkurier-essen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-statusfeststellung-plattformkurier-essen.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenberater-statusfeststellung-plattformkurier-essen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenberater-statusfeststellung-plattformkurier-essen-einzelpdfs.zip) |
 

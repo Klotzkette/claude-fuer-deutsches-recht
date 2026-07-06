@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 49 KB) | PDF | [`gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf`](gesamt-pdf/rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg-einzelpdfs.zip) |
 
@@ -37,16 +37,14 @@ rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg/
 ├── 11_pflegekassenbescheid_2013.docx        # Pflegekassenbescheid zur Pflegeperson mit 17 Wochenstunden
 ├── 12_kontenstreit_datenkern.csv          # Datenkern: streitige Zeiträume, anerkannte/fehlende Monate, Nachweismittel und Erfolgschance
 ├── 13_bruder_erklaerung_pflege_2026-07-04.docx  # Eidesstattliche Erklärung des Bruders zur Pflege der Mutter
-├── 14_wartezeitberechnung_vermerk_2026-07-08.docx  # Berechnungsvermerk: 406 anerkannte Monate, 14 fehlende, Schließung der Lücke
+├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv  # Fristsachen, Belege und offene Punkte
 ├── eml/
 │   ├── 01_versorgungsamt_gdb_bestaetigung.eml     # Versorgungsamt bestätigt GdB 50 ab 01.01.2026
 │   ├── 02_sanftleben_an_drv_kontenklaerung.eml    # Bevollmächtigte an DRV zur Kontenklärung und Beweisersatz
 │   ├── 03_bruder_thomas_lammers_pflege.eml        # Bruder zu Pflegeumfang und Unterlagen
+│   ├── 2026-07-06_sachstand_nachforderung.eml     # Sachstand zur Nachforderung
 │   └── chatverlauf_lammers_brueder.txt            # Chat der Brüder zur Beschaffung der Alt-Nachweise
 ├── README.md                              # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                            # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                            # Prüfkriterien für die Bearbeitung
-├── 90_realitaetskern_und_arbeitsauftrag_2026-07-06.docx  # Realitaetskern und Arbeitsauftrag (Ergaenzung v426)
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-├── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
 ```

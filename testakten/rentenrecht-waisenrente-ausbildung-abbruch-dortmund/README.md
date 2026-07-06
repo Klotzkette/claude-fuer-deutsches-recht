@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 48 KB) | PDF | [`gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf`](gesamt-pdf/rentenrecht-waisenrente-ausbildung-abbruch-dortmund_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-waisenrente-ausbildung-abbruch-dortmund-einzelpdfs.zip) |
 
@@ -40,7 +40,6 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 ├── 10_jobcenter_uebergang_und_konto.txt                 # Jobcenter-Gesprächsnotiz und Kontoauszug
 ├── 11_studienzusage_und_praxisvertrag.docx              # FH-Zulassung und Praxisvertrag mit Einarbeitungsmonat
 ├── 12_waisenrente_monatsraster_berechnung.csv           # Datenkern: Status, Tatbestand, Übergangszeit, Rente und Überzahlung je Monat
-├── 13_berechnungsvermerk_monatsraster_2026-07-05.docx   # Interner Vermerk, rechnet Erstattung und Übergangszeit-Wirkung nach
 ├── 14_nachweisschreiben_drv_2026-07-06.docx             # Nachweisschreiben an die DRV mit Begründung und AdV-Antrag (Endprodukt)
 ├── 15_whatsapp_klassenleitung_abbruch.txt               # Chat mit der Klassenleitung zu Krankheit, Beurlaubung und Kündigung
 ├── eml/
@@ -49,10 +48,9 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 │   └── 03_thiele_intern_monatsraster.eml                # Interner Rechenweg zur Erstattung und zum Übergangszeit-Argument
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
-└── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 90_realitaetskern_und_arbeitsauftrag_2026-07-06.docx  # Realitaetskern und Arbeitsauftrag (Ergaenzung v426)
+├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
 ├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-├── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
 ```
 
 ## Aktenstücke
@@ -71,7 +69,6 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 | `10_jobcenter_uebergang_und_konto.txt` | Jobcenter-Notiz, Kontoauszug und finanzielle Lage |
 | `11_studienzusage_und_praxisvertrag.docx` | Zulassungsschreiben der FH und Praxisvertrag |
 | `12_waisenrente_monatsraster_berechnung.csv` | Datenkern: Anspruch und Überzahlung je Monat |
-| `13_berechnungsvermerk_monatsraster_2026-07-05.docx` | Interner Berechnungsvermerk zur Erstattung |
 | `14_nachweisschreiben_drv_2026-07-06.docx` | Nachweisschreiben an die DRV mit Begründung und AdV-Antrag |
 | `15_whatsapp_klassenleitung_abbruch.txt` | Chat mit der Klassenleitung zum krankheitsbedingten Abbruch |
 | `eml/01_berufskolleg_teilnahmestatus.eml` | Formaler Status gegen tatsächliche Teilnahme |

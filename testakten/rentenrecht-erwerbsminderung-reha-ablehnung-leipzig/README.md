@@ -9,7 +9,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 31 KB) | PDF | [`gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf`](gesamt-pdf/rentenrecht-erwerbsminderung-reha-ablehnung-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-erwerbsminderung-reha-ablehnung-leipzig-einzelpdfs.zip) |
 

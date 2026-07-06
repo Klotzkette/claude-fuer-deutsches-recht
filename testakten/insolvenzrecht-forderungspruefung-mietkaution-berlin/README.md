@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 18 KB) | PDF | [`gesamt-pdf/insolvenzrecht-forderungspruefung-mietkaution-berlin_gesamt.pdf`](gesamt-pdf/insolvenzrecht-forderungspruefung-mietkaution-berlin_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/insolvenzrecht-forderungspruefung-mietkaution-berlin_gesamt.pdf`](gesamt-pdf/insolvenzrecht-forderungspruefung-mietkaution-berlin_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzrecht-forderungspruefung-mietkaution-berlin.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzrecht-forderungspruefung-mietkaution-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzrecht-forderungspruefung-mietkaution-berlin-einzelpdfs.zip) |
 

@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 34 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 33 KB) | PDF | [`gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf`](gesamt-pdf/sozialrecht-orphan-drug-krebsmedikament-muenster_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-orphan-drug-krebsmedikament-muenster-einzelpdfs.zip) |
 

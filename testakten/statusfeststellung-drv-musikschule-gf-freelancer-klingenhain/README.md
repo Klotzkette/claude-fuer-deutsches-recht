@@ -7,7 +7,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 368 KB) | PDF | [`gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf`](gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 370 KB) | PDF | [`gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf`](gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain-einzelpdfs.zip) |
 
@@ -21,11 +21,11 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-risiko.docx` | Erstnotiz mit Auftrag, Beteiligten, Beitragsrisiko und Sofortmaßnahmen |
+| `01-mandatsnotiz-und-risiko.docx` | Erstnotiz mit Beteiligten, Ausgangslage, betroffenen Gruppen und Verfahrensstand |
 | `02-personen-und-rollen.docx` | Rollenübersicht: GF, Honorarkräfte, Anwalt, IT-Freelancer, Lehrbeauftragte |
 | `03-drv-anhoerung-betriebspruefung.pdf` | Anhörungsschreiben zur Betriebsprüfung nach § 28p SGB IV |
 | `04-honorarvertrag-musiklehrer-auszug.docx` | Honorarvertrag mit Freiheitsklauseln und gelebter Planbindung |
-| `05-satzung-und-gf-veto-auszug.docx` | Satzungs-/Geschäftsführerregelung mit 50%-Patt und Nebenabrede |
+| `05-satzung-und-gf-regelung.docx` | Vollständige Satzung der gGmbH mit Geschäftsführerregelung, 50-Prozent-Patt und Gründerbrief-Nebenabrede |
 | `06-status-indizienmatrix.xlsx` | Matrix zur Statusgewichtung über mehrere Personengruppen |
 | `07-raum-und-unterrichtsplan.csv` | Raum-/Stundenplan als Gegenbeleg zur freien Zeiteinteilung |
 | `08-honorar-und-rechnungsliste.csv` | Rechnungen, Monatsrhythmus, Ausfall- und Ersatzregelung |
@@ -45,4 +45,3 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | `22-zeugen-und-belege.docx` | Zeugen, Belege, Lücken, Kalender und Chatquellen |
 | `23-telefonnotiz-elternbeschwerde.docx` | Telefonnotiz zu Unterrichtsausfall und Direktionsdruck |
 | `24-verfahrenskalender.csv` | Fristen, Anhörung, Bescheid, Widerspruch, Zahlungsdruck |
-| `25-abschlussmemo-partner.docx` | Partner-Memo mit Sanierungsoptionen und Prozessstrategie |

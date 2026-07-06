@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 53 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 48 KB) | PDF | [`gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf`](gesamt-pdf/rentenrecht-riester-zulagenrueckforderung-augsburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-rentenrecht-riester-zulagenrueckforderung-augsburg-einzelpdfs.zip) |
 
@@ -40,7 +40,6 @@ rentenrecht-riester-zulagenrueckforderung-augsburg/
 ├── 10_telefonnotiz_arbeitgeber_entgelt.txt              # Telefonnotiz zur Differenz Steuerbrutto / SV-Brutto
 ├── 11_familienkasse_aenderungsbescheid.docx             # Änderungsbescheid der Familienkasse vom 12.09.2024
 ├── 12_riester_mindesteigenbeitrag_berechnung.csv        # Datenkern: Vorjahresentgelt, vier Prozent, Zulage, Mindesteigenbeitrag, Rückforderung
-├── 13_berechnungsvermerk_mindesteigenbeitrag_2026-07-03.docx # Interner Vermerk, rechnet Mindesteigenbeitrag und Rückforderung nach
 ├── 14_nachweisschreiben_zfa_2026-07-06.docx             # Nachweisschreiben an die ZfA mit Neuberechnung und AdV-Antrag (Endprodukt)
 ├── 15_whatsapp_kindergeld_tobias.txt                    # Chat Mandantin/Kindsvater zum Kindergeld Jonas 2024
 ├── eml/
@@ -49,10 +48,9 @@ rentenrecht-riester-zulagenrueckforderung-augsburg/
 │   └── 03_beratungsstelle_strategie_mindesteigenbeitrag.eml # Rentenberaterin: Neuberechnung gegen die ZfA-Zahlen
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
-└── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 90_realitaetskern_und_arbeitsauftrag_2026-07-06.docx  # Realitaetskern und Arbeitsauftrag (Ergaenzung v426)
+├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
 ├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergaenzung v426)
-├── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
+└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergaenzung v426)
 ```
 
 ## Aktenstücke
@@ -71,7 +69,6 @@ rentenrecht-riester-zulagenrueckforderung-augsburg/
 | `10_telefonnotiz_arbeitgeber_entgelt.txt` | Telefonnotiz zum rentenversicherungspflichtigen Vorjahreseinkommen |
 | `11_familienkasse_aenderungsbescheid.docx` | Änderungsbescheid zur Kindergeldfestsetzung für Jonas |
 | `12_riester_mindesteigenbeitrag_berechnung.csv` | Datenkern: Mindesteigenbeitrag je Jahr und korrekte Rückforderung |
-| `13_berechnungsvermerk_mindesteigenbeitrag_2026-07-03.docx` | Interner Berechnungsvermerk zum Mindesteigenbeitrag |
 | `14_nachweisschreiben_zfa_2026-07-06.docx` | Nachweisschreiben an die ZfA mit Neuberechnung und AdV-Antrag |
 | `15_whatsapp_kindergeld_tobias.txt` | Chat mit dem Kindsvater zur Kindergeldweiterleitung 2024 |
 | `eml/01_suedleben_beitragsauskunft.eml` | Anbieterempfehlung Sonderzahlung 300 EUR |

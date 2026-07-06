@@ -8,7 +8,7 @@ Dieses Aktenpaket gibt es in mehreren Formaten zum Direkt-Download. Das Gesamt-P
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 19 KB) | PDF | [`gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf`](gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 17 KB) | PDF | [`gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf`](gesamt-pdf/sozialrecht-pflegegrad-demenz-nachtwache-trier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier.zip) |
 | Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-pflegegrad-demenz-nachtwache-trier-einzelpdfs.zip) |
 
