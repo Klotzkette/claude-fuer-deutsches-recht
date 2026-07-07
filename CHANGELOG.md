@@ -1,3 +1,11 @@
+# v429.1.0 — Kohärenz- und Faktentreue-Feinschliff der Statusfeststellungs-Akten
+
+- Abschließender Kohärenz- und Sanity-Durchgang über die in v429.0.0 überarbeiteten Statusfeststellungs-Akten: Die neuen Volltext-Urkunden wurden gegen die übrigen Aktenstücke gegengeprüft (Beteiligungsquoten, Mehrheitsschwellen, Abstimmungsergebnisse, Namen, Daten) — alle Werte stimmen überein (etwa das Beiratsvotum „68 Prozent dafür, 32 Prozent dagegen" als Summe der Anteile FrankenHealth 51 plus Seidl 17 gegen Vogt 32; die 75-Prozent-Schwelle für den Verkauf der Patentfamilie NLM-4 deckt sich mit Ziffer 6.2.3 des Gesellschaftsvertrags).
+- In den Beirats- und Gesellschafterprotokollen der Erlanger Akte wurden zwei eingebettete Wertungen entfernt, die das Prüfungsergebnis vorwegnahmen: ein „Dieser Vorgang spricht für Weisungsunterworfenheit"-Zusatz und ein „Auswertungsvermerk", der die entscheidende Trennung von Blockademacht und fehlender Durchsetzungsmacht bereits ausformulierte und die Linie der DRV vorhersagte. Die belegten Tatsachen (Beschlüsse, Abstimmungsergebnisse, Weisung unter Protest) bleiben vollständig erhalten, sodass die Bewertung offen bleibt.
+- Gesamt-PDF der betroffenen Akte neu gebaut. Alle Validatoren grün. Versions-Bump auf v429.1.0.
+
+---
+
 # v429.0.0 — Lösungsverratende Aktenstücke entfernt, Satzungen und Verträge vollständig ausformuliert
 
 - Über den gesamten Testakten-Bestand wurden 79 Aktenstücke entfernt, die die Bearbeitung in einer Schulungssituation vorwegnahmen und damit die KI-Auswertung entwerteten: 64 kombinierte Realitätskern-/Arbeitsauftrags-Stücke (`90_realitaetskern_und_arbeitsauftrag`), 5 Berechnungsvermerke, die das Ergebnis fertig durchrechneten, 7 Auswertevermerke, die die Beweiswürdigung vorwegnahmen, sowie drei weitere interne Stücke (ein Bearbeiter-Vermerk mit Rechenhinweisen und vorweggenommener Rechenspanne, ein Klagevorbereitungs-Vermerk mit ausformulierter Begründungslinie und ein Partner-Abschlussmemo mit Verteidigungsstrategie). Die zugehörigen README-Bäume und Datei-Tabellen wurden bereinigt.
