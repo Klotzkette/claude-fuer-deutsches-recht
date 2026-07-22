@@ -1,6 +1,6 @@
 {
   "name": "legistik-werkstatt",
-  "version": "434.0.2",
+  "version": "434.0.3",
   "description": "Legistik-Werkstatt für Ministerien, Bundestag, Fraktionen/Opposition, Länder, Landtage und Normgeber. Baut Referenten- und Kabinettsentwürfe, Vorlagen aus der Mitte, Änderungs-/Entschließungsanträge, Rechtsverordnungen und Satzungen mit Begründung, Synopse, XML und Prüfpfaden.",
   "license": "Apache-2.0 OR MIT",
   "author": {

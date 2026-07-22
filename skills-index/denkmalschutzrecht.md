@@ -1,6 +1,6 @@
 # denkmalschutzrecht
 
-**50 Skills** · Stand `v434.0.2`
+**50 Skills** · Stand `v434.0.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../denkmalschutzrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,3 +1,11 @@
+# v434.0.3 - Feinerer Look der Gesamt-PDF-Lesefassung
+
+- Jedes Aktenstück im Gesamt-PDF erhält einen klaren, gut scanbaren Dokumentenkopf: eine kleine Kategorie-Zeile (etwa „E-MAILS", „WORD-DOKUMENTE", „CSV-TABELLEN"), darunter der Dateiname als kräftiger Titel in der Hausfarbe und eine feine Trennlinie; liegt die Datei in einem Unterordner, wird der Pfad dezent darunter ausgewiesen. Das ersetzt die bisher unauffällige „Datei:"-Zeile und macht auf einen Blick erkennbar, welches Aktenstück gerade beginnt.
+- Die Trennseiten der layoutgetreu gerenderten Office-Dokumente und der Original-PDF-Anhänge verwenden denselben Kopf, sodass alle Aktenstücke einheitlich eingeleitet werden. Die Fußzeile mit Aktenname und Seitenzahl erscheint jetzt auch auf der ersten Seite.
+- Reine Darstellungsänderung im Builder der Gesamt-PDFs; Inhalte, Reihenfolge und Aktenstücke bleiben unverändert. Die Gesamt-PDFs werden im Release-Lauf mit dem verfeinerten Layout neu gebaut. Repo-weiter Versions-Bump auf v434.0.3.
+
+---
+
 # v434.0.2 - StaRUG- und Insolvenzrechtsanker präzisiert
 
 - Die StaRUG-Planarchitektur ist durchgängig auf die richtigen Normketten zurückgeführt: Planinhalt und Gruppen nach den Paragrafen 5 bis 10, Anlagen nach den Paragrafen 14 und 15, gruppenübergreifende Mehrheitsentscheidung nach den Paragrafen 26 bis 28, Instrumente und Anzeige nach den Paragrafen 29 bis 31 sowie Bestätigung und Minderheitenschutz nach den Paragrafen 60 bis 67 StaRUG.

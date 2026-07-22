@@ -1,6 +1,6 @@
 {
   "name": "schriftsatz-versandwerkstatt",
-  "version": "434.0.2",
+  "version": "434.0.3",
   "description": "Fokussierte Versandwerkstatt fuer fertige Schriftsaetze und Anlagen: konvertiert Dateien in PDF, stempelt Anlagen, prueft Dateinamen, Paketgrenzen, Absender, Signaturweg und Eingang und liefert eine kontrollierte beA-Mappe.",
   "author": {
     "name": "Klotzkette",
