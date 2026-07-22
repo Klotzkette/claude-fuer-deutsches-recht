@@ -1,6 +1,6 @@
 # markenrecht-fashion-luxus
 
-**88 Skills** · Stand `v434.0.2`
+**88 Skills** · Stand `v434.0.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../markenrecht-fashion-luxus/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -132,6 +132,19 @@ s_partlabel = ParagraphStyle(
     fontName=FONT_BOLD, fontSize=11, leading=14, textColor=MUTED,
     spaceAfter=2,
 )
+# Kopf jedes Aktenstuecks im Gesamt-PDF: Kategorie-Kicker, Dateititel, Pfad.
+s_file_kicker = ParagraphStyle(
+    "FileKicker",
+    fontName=FONT_BOLD, fontSize=8, leading=10, textColor=MUTED, spaceAfter=1,
+)
+s_file_title = ParagraphStyle(
+    "FileTitle",
+    fontName=FONT_BOLD, fontSize=13, leading=16, textColor=TEAL, spaceAfter=1,
+)
+s_file_path = ParagraphStyle(
+    "FilePath",
+    fontName=FONT_REG, fontSize=8, leading=10, textColor=MUTED, spaceAfter=4,
+)
 
 # Reihenfolge der Datei-Typen im Gesamt-PDF
 TYPE_ORDER = [
@@ -781,6 +794,46 @@ def collect_files(testakte_dir: Path) -> dict[str, list[Path]]:
     return files_by_type
 
 
+def file_header_flowables(type_key: str, rel: Path) -> list:
+    """Einheitlicher, gut lesbarer Kopf je Aktenstück: Kategorie-Kicker,
+    Dateiname als Titel, ggf. Unterordnerpfad, darunter eine Trennlinie."""
+    kicker = TYPE_LABEL.get(type_key, "Aktenstück")
+    out = [
+        Paragraph(escape(kicker.upper()), s_file_kicker),
+        Paragraph(escape(rel.name), s_file_title),
+    ]
+    if str(rel.parent) not in (".", ""):
+        out.append(Paragraph(escape(str(rel)), s_file_path))
+    out.append(HRFlowable(width="100%", thickness=0.6, color=TEAL,
+                          spaceBefore=1, spaceAfter=8))
+    return out
+
+
+def draw_separator_header(c, kicker: str, label: str) -> None:
+    """Zeichnet den Kopf einer Trennseite (Anhänge) im gleichen Stil wie
+    file_header_flowables: Kategorie-Kicker, Dateititel, ggf. Pfad, Trennlinie."""
+    # Aufrufer übergeben ein Label mit vorangestelltem Etikett
+    # ("PDF-Anhang: pfad" / "Office-Dokument: pfad"); für die Anzeige wird der
+    # reine Pfad verwendet, das Etikett steckt bereits im Kicker.
+    rel = label.split(": ", 1)[-1].strip() if ": " in label else label
+    name = rel.rsplit("/", 1)[-1]
+    c.setFont(FONT_BOLD, 8)
+    c.setFillColor(MUTED)
+    c.drawString(2 * cm, 26.2 * cm, kicker.upper())
+    c.setFont(FONT_BOLD, 13)
+    c.setFillColor(TEAL)
+    c.drawString(2 * cm, 25.5 * cm, name)
+    y_rule = 25.2 * cm
+    if "/" in rel:
+        c.setFont(FONT_REG, 8)
+        c.setFillColor(MUTED)
+        c.drawString(2 * cm, 25.0 * cm, rel)
+        y_rule = 24.7 * cm
+    c.setStrokeColor(TEAL)
+    c.setLineWidth(0.6)
+    c.line(2 * cm, y_rule, 19 * cm, y_rule)
+
+
 def build_text_pdf(
     testakte_dir: Path,
     files: dict[str, list[Path]],
@@ -816,8 +869,7 @@ def build_text_pdf(
             if t in OFFICE_EXTS and f in office_cache:
                 office_attachments.append((str(rel), office_cache[f]))
                 continue
-            flow.append(Paragraph(f"<b>Datei:</b> {escape(str(rel))}", s_meta))
-            flow.append(Spacer(1, 4))
+            flow.extend(file_header_flowables(t, rel))
             try:
                 if t == "md":
                     rendered = md_to_flowables(f.read_text(encoding="utf-8", errors="strict"))
@@ -862,7 +914,7 @@ def build_text_pdf(
     try:
         doc.build(
             flow,
-            onFirstPage=no_header_footer,
+            onFirstPage=hf,
             onLaterPages=hf,
             canvasmaker=invariant_canvas,
         )
@@ -913,16 +965,12 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     c = canvas.Canvas(sep, pagesize=A4, invariant=1)
     c.setTitle(label)
     c.setAuthor("Kanzleiakte")
-    c.setFont(FONT_BOLD, 14)
-    c.setFillColor(TEAL)
-    c.drawString(2 * cm, 25 * cm, "Datei")
-    c.setFont(FONT_REG, 9)
-    c.setFillColor(MUTED)
-    c.drawString(2 * cm, 24.2 * cm, label)
+    draw_separator_header(c, "PDF-Anhang (Originaldokument)", label)
     c.setStrokeColor(BORDER)
     c.setLineWidth(0.3)
     c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
     c.setFont(FONT_REG, 8)
+    c.setFillColor(MUTED)
     c.drawString(2 * cm, 1.2 * cm, testakte_name)
     c.showPage()
     c.save()
@@ -950,16 +998,19 @@ def append_pdf_bytes_with_separator(
     c = canvas.Canvas(sep, pagesize=A4, invariant=1)
     c.setTitle(label)
     c.setAuthor("Kanzleiakte")
-    c.setFont(FONT_BOLD, 14)
-    c.setFillColor(TEAL)
-    c.drawString(2 * cm, 25 * cm, "Datei")
-    c.setFont(FONT_REG, 9)
-    c.setFillColor(MUTED)
-    c.drawString(2 * cm, 24.2 * cm, label)
+    low = label.lower()
+    if low.endswith(".docx"):
+        kicker = "Word-Dokument (Original-Layout)"
+    elif low.endswith(".odt"):
+        kicker = "OpenDocument-Textdatei (Original-Layout)"
+    else:
+        kicker = "Dokument (Original-Layout)"
+    draw_separator_header(c, kicker, label)
     c.setStrokeColor(BORDER)
     c.setLineWidth(0.3)
     c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
     c.setFont(FONT_REG, 8)
+    c.setFillColor(MUTED)
     c.drawString(2 * cm, 1.2 * cm, testakte_name)
     c.showPage()
     c.save()
