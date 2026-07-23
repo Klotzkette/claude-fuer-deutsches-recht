@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-patentanwaelte",
-  "version": "434.0.3",
+  "version": "434.1.0",
   "description": "Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken.",
   "license": "Apache-2.0 OR MIT",
   "author": {

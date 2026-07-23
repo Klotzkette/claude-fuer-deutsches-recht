@@ -1,0 +1,77 @@
+name: erbrecht-vertragserbe-schenkungen-erbvertrag-oldenburg
+beschreibung: >
+  Berufungsverfahren vor dem OLG Oldenburg (8 U 63/26) nach teilweise
+  stattgebendem Urteil des LG Oldenburg (5 O 458/25): Der Sohn ist
+  vertragsmaessig eingesetzter Schlusserbe aus einem Erbvertrag mit nie
+  ausgeuebtem Ruecktrittsvorbehalt; der Erblasser wandte der Tochter
+  lebzeitig die Hofstelle (gegen Wohnungsrecht und Pflegeversprechen),
+  ein Baugrundstueck und Geldbetraege zu. Waehrend des Berufungsverfahrens
+  veroeffentlicht der BGH die Entscheidungsgruende IV ZR 256/25 zum
+  Ruecktrittsvorbehalt; der Senat weist darauf hin und setzt eine
+  Stellungnahmefrist. Zu fertigen sind Stellungnahme, Berufungserwiderung
+  und Begruendung der Anschlussberufung.
+pruefpunkte:
+  - id: p1-datenkern-geldzuwendungen
+    beschreibung: >
+      Datenauswertungs-Kern - Aus 07_geldzuwendungen_konto_2020_2023.csv ist
+      der Umfang der Geldzuwendungen selbststaendig zu ermitteln und dem
+      Hilfsvorbringen der Beklagten (Berufungsbegruendung Ziffer 4,
+      E-Mail der Gegenanwaeltin vom 17.07.2026) gegenueberzustellen.
+    erwartung: >
+      Der Bearbeiter errechnet aus den zwoelf Buchungen die Gesamtsumme von
+      152.000 EUR, erkennt, dass die als Darlehen reklamierten Positionen
+      (14.02.2022 ueber 20.000 EUR und 30.06.2022 ueber 15.000 EUR) im
+      Verwendungszweck nicht als Darlehen bezeichnet sind und weder Zins-
+      noch Rueckzahlungsspur haben, und dass die behaupteten 22.000 EUR
+      Anlassgeschenke mit den tatsaechlich als Weihnachten bezeichneten
+      Buchungen (dreimal 12.000 EUR, zusammen 36.000 EUR) nicht
+      zusammenpassen; die Gegenrechnung 152.000 minus 35.000 minus 22.000
+      gleich 95.000 wird als rechnerisch stimmig, aber tatsaechlich
+      unbelegt eingeordnet.
+  - id: p2-ruecktrittsvorbehalt-bgh
+    beschreibung: >
+      Das zentrale Berufungsargument (bereits der nicht ausgeuebte
+      Ruecktrittsvorbehalt lasse die schutzwuerdige Erberwartung entfallen)
+      ist anhand der ueber den Newsletter eingefuehrten BGH-Entscheidung
+      IV ZR 256/25 zu behandeln.
+    erwartung: >
+      Der Bearbeiter arbeitet heraus, dass nach der neuen BGH-Linie die
+      erbvertragliche Bindung trotz vorbehaltenen Ruecktrittsrechts
+      grundsaetzlich bestehen bleibt, solange der Ruecktritt nicht wirksam
+      erklaert wurde, und wendet dies auf Ziffer 6 des Erbvertrags an
+      (kein Ruecktritt bis zum Erbfall). Er zitiert die Entscheidung nur
+      nach der bereitgestellten Quelle, empfiehlt die Verifikation des
+      Volltexts in der Entscheidungsdatenbank des Bundesgerichtshofs und
+      erfindet keine weiteren Fundstellen.
+  - id: p3-hofstelle-eigeninteresse
+    beschreibung: >
+      Fuer die Anschlussberufung ist das lebzeitige Eigeninteresse bei der
+      Hofstellen-Uebertragung anhand der tatsaechlichen Durchfuehrung zu
+      pruefen (Uebergabevertrag Ziffer 4, Pflegedienst-Rechnungen,
+      Chatverlauf, Kurzgutachten).
+    erwartung: >
+      Der Bearbeiter stellt dem Pflegeversprechen der Beklagten die
+      Rechnungen des Pflegedienstes Huntetal gegenueber (Grundpflege ab
+      Maerz 2022, bezahlt per Lastschrift vom Konto des Erblassers, mit
+      steigendem Umfang bis 2024), wertet die Chataeusserungen vom
+      19.04.2021 und 28.03.2022 als Indizien und setzt die Wertrelation
+      aus dem Kurzgutachten (Verkehrswert 468.000 EUR gegen kapitalisiertes
+      Wohnungsrecht 61.000 EUR und Pflegewert 34.000 EUR) in Beziehung,
+      ohne dem Gericht eine sichere Tatsachenwuerdigung vorwegzunehmen.
+  - id: p4-frist-und-verfahrensrecht
+    beschreibung: >
+      Fristen und verfahrensrechtliche Lage sind korrekt zu erfassen.
+    erwartung: >
+      Der Bearbeiter notiert die Stellungnahmefrist zum 14.08.2026 und den
+      Termin am 29.09.2026, prueft die Dreijahresfrist des Paragrafen 2287
+      Absatz 2 BGB (Erbfall 05.09.2024, Klageerhebung 27.02.2025) und
+      behandelt die Anschlussberufung sowie den Beweisantritt der
+      Gegenseite (Zeugin Lammers) verfahrensgerecht.
+  - id: p5-formalien-und-ausformulierung
+    beschreibung: >
+      Formale Anforderungen an die Arbeitsprodukte.
+    erwartung: >
+      Stellungnahme, Berufungserwiderung und Anschlussberufungsbegruendung
+      werden vollstaendig ausformuliert in ganzen Saetzen mit dezimaler
+      Gliederung geliefert; Aktenzeichen und Fundstellen stammen
+      ausschliesslich aus der Akte, Unsicherheiten werden gekennzeichnet.
