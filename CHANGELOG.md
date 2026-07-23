@@ -1,3 +1,12 @@
+# v434.1.0 - Neue Erbrechtsakte: Vertragserbe gegen lebzeitige Schenkungen (LG und OLG Oldenburg)
+
+- Neue Testakte `erbrecht-vertragserbe-schenkungen-erbvertrag-oldenburg`: Berufungsverfahren vor dem OLG Oldenburg (8 U 63/26) nach teilweise stattgebendem Urteil des LG Oldenburg (5 O 458/25). Der Sohn ist vertragsmäßig eingesetzter Schlusserbe aus einem Erbvertrag von 2008 mit nie ausgeübtem Rücktrittsvorbehalt; der Erblasser übertrug der Tochter lebzeitig die Hofstelle (gegen Wohnungsrecht und Pflegeversprechen), schenkte ihr ein Baugrundstück und überwies ihr in zwölf Tranchen 152.000 EUR. Die Berufung der Beklagten stützt sich darauf, dass schon der Vorbehalt die geschützte Erberwartung entfallen lasse; mitten in das Verfahren fällt die Veröffentlichung der Entscheidungsgründe des BGH in der Sache IV ZR 256/25 zu genau dieser Frage, auf die der Senat mit Stellungnahmefrist hinweist.
+- Vollständig ausformulierte Urkunden und Schriftstücke: Erbvertrag mit Rücktrittsvorbehalt, Übergabevertrag mit Wohnungsrecht und Pflegeverpflichtung, Schenkungsurkunde über den Bauplatz, Urteil des LG Oldenburg im Urteilsstil, Berufungsbegründung der Gegenseite, Verkehrswert-Kurzgutachten, Hinweisverfügung des Senats, drei E-Mails (darunter der Rechtsprechungs-Newsletter zur BGH-Entscheidung) und ein Messenger-Export der Geschwister.
+- Datenauswertungs-Kern mit rekonstruierbarer Diskrepanz: Die Kontoauswertung (zwölf Buchungen, Summe 152.000 EUR) widerlegt das Hilfsvorbringen der Gegenseite (nur 95.000 EUR unentgeltlich; 35.000 EUR Darlehen; 22.000 EUR Anlassgeschenke, die mit den tatsächlich als Weihnachtszuwendungen ausgewiesenen dreimal 12.000 EUR nicht zusammenpassen); die Pflegedienst-Rechnungen (Lastschrift vom Konto des Erblassers) stellen das Pflegeversprechen aus dem Übergabevertrag in Frage. Rubric mit fünf Prüfpunkten, zentrale Aktenübersicht ergänzt.
+- Alle Validatoren grün (302 Testakten; Dokumentqualität; CSV; Downloads; Keine-Markdown-Aktenstücke; Struktur; Marketplace). Repo-weiter Versions-Bump auf v434.1.0.
+
+---
+
 # v434.0.3 - Feinerer Look der Gesamt-PDF-Lesefassung
 
 - Jedes Aktenstück im Gesamt-PDF erhält einen klaren, gut scanbaren Dokumentenkopf: eine kleine Kategorie-Zeile (etwa „E-MAILS", „WORD-DOKUMENTE", „CSV-TABELLEN"), darunter der Dateiname als kräftiger Titel in der Hausfarbe und eine feine Trennlinie; liegt die Datei in einem Unterordner, wird der Pfad dezent darunter ausgewiesen. Das ersetzt die bisher unauffällige „Datei:"-Zeile und macht auf einen Blick erkennbar, welches Aktenstück gerade beginnt.

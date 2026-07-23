@@ -53,9 +53,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 235 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 26226 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 301 zentral / 304 gesamt |
+| **Testakten** | 302 zentral / 305 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v434.0.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v434.1.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -97,7 +97,7 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 /plugin install <plugin-name>@klotzkette-german-legal-skills
 ```
 
-> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 235 Plugins, 26226 Skills und 301 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
+> 💡 **Empfehlung: meistens reicht ein einzelnes Plugin — nicht der ganze Marketplace.** Die Sammel-Downloads (`alle-plugins-megazip.zip`, `alles-komplettpaket.zip`, `marketplace.json` mit `/plugin marketplace add`) ziehen die kompletten 235 Plugins, 26226 Skills und 302 zentrale Testakten auf einmal — das sind je nach Variante mehrere hundert MB. Wenn du weißt, welches Plugin du brauchst (z. B. `liquiditaetsplanung`, `relationstechnik-zivilrecht`, `arbeitsrecht-kuendigung`), lade nur dieses aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest):
 >
 > - `<plugin>.zip` — installierbares Plugin für Claude Code / Claude Desktop / Cowork.
 > - `alle-skills-markdown.zip` — reine `SKILL.md`-Dateien aller Plugins plus Werkstatt- und Schnellstart-Prompts.
@@ -106,7 +106,7 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 >
 > Vorteil: viel kleinerer Download, schnellerer Start, kein Overhead durch ungenutzte Plugins.
 
-> ⏱️ **Geduld beim ersten `marketplace add`.** Die Oberfläche klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 301 zentralen Testakten mit den zugehörigen PDF-Bündeln (rund 170 MB) und der Git-History. Das sind insgesamt mehrere hundert MB, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis die Marketplace-Übersicht geöffnet ist. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
+> ⏱️ **Geduld beim ersten `marketplace add`.** Die Oberfläche klont beim Hinzufügen das **komplette Repository** in den lokalen Plugin-Cache — inklusive der 302 zentralen Testakten mit den zugehörigen PDF-Bündeln (rund 170 MB) und der Git-History. Das sind insgesamt mehrere hundert MB, die einmalig über die GitHub-Leitung gezogen werden. Auf normaler DSL dauert das nach unserer Einschätzung **circa 2 bis 3 Minuten**, je nach Verbindung und GitHub-Edge auch mal etwas länger. Das ist kein Fehler — bitte einfach durchlaufen lassen, bis die Marketplace-Übersicht geöffnet ist. Folge-Updates (`/plugin marketplace update`) sind danach deutlich schneller, weil nur noch der Delta-Pull über die Leitung geht. Wer nur einzelne Plugins ohne Testakten will, kann alternativ einzelne Plugin-ZIPs aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden — siehe nächster Absatz.
 
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
