@@ -1,0 +1,49 @@
+From: Daniel Kruse <d.kruse@elbmarsch-ground.de>
+To: Cem Yıldız <c.yildiz@nordlicht-orbit.de>
+Cc: Antje Römer <a.roemer@elbmarsch-ground.de>, Dr. Nora Thies <n.thies@nordlicht-orbit.de>
+Date: Fri, 17 Jul 2026 11:23:54 +0200
+Subject: EGS-NLO-0716 - fehlende Rohdateien und Zeitreferenz
+Message-ID: <20260717112354.egs-nlo-0716@elbmarsch-ground.de>
+In-Reply-To: <20260716204118.nlo-transfer@nordlicht-orbit.de>
+References: <20260716181942.egs-transfer@elbmarsch-ground.de> <20260716204118.nlo-transfer@nordlicht-orbit.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hallo Cem,
+
+beim Abgleich der Übergabeliste von gestern fehlen auf unserer Seite noch drei Dateien aus eurem Mitschnitt:
+
+1. nlo_s4_rx_20260716_1400_1430.iq;
+2. nlo_command_log_20260716.json;
+3. gnss_reference_offset_20260716.csv.
+
+Bitte sende nicht die Bildschirmfotos aus dem Chat, sondern die Originaldateien einschließlich unveränderter Zeitstempel. Für die Auswertung der 14 verworfenen Netzwerkpakete brauchen wir außerdem die genaue Uhr, auf die euer Recorder NLO-CAP-07 synchronisiert war.
+
+Unsere Antennensteuerung lief auf GNSS-2. Der Offset gegenüber UTC lag nach dem Tagesprotokoll um 14:00 Uhr bei plus 18 Mikrosekunden und um 16:00 Uhr bei plus 21 Mikrosekunden. Wenn euer Recorder auf dem Büro-Zeitserver lief, kann der Unterschied bis zu 340 Millisekunden betragen.
+
+Die Datei EGS-NLO-0716-NET, die ich gestern übergeben habe, endet korrekt um 16:31:44 UTC. Die spätere Kopie mit dem Zusatz „final“ enthält nur den Export bis 15:58 Uhr und sollte nicht verwendet werden.
+
+Bitte schicke die drei Originaldateien bis Montag, 20. Juli, 10:00 Uhr. Der Datenträger NLO-USB-044 ist im Übergabeprotokoll mit der Prüfsumme 4f81c0a7...91d2 dokumentiert.
+
+Viele Grüße
+
+Daniel Kruse
+Funktechnik
+Elbmarsch Ground Services GmbH
+Bützflether Sand 9, 21683 Stade
+Telefon 04141 7762-118
+d.kruse@elbmarsch-ground.de
+
+-----Ursprüngliche Nachricht-----
+Von: Cem Yıldız <c.yildiz@nordlicht-orbit.de>
+Gesendet: Donnerstag, 16. Juli 2026 20:41
+An: Daniel Kruse <d.kruse@elbmarsch-ground.de>
+Betreff: Re: EGS-NLO-0716 - Datenübergabe
+
+Hallo Daniel,
+
+die Kopie ist angekommen. Ich sehe mir morgen früh die Paketverluste und die Zeitbasis an. Zwei Screenshots vom Recorder habe ich schon im Projektordner abgelegt.
+
+Viele Grüße
+Cem

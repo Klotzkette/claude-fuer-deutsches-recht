@@ -28,13 +28,22 @@ Diese Akte gehört zu den Plugins `weltraumrecht`.
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
-| `gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf` | Gesamt-PDF der Akte |
+| `01-behoerdenanschreiben-projektanzeige.docx` | Projektanzeige mit Konstellation, Startplatz, Frequenzen und Abstimmungsbedarf |
+| `02-missionsbeschreibung-nordlicht-1.docx` | technische Missionsbeschreibung für 240 Satelliten und den Erststart |
+| `03-email-hansesat-interferenzmeldung.eml` | Interferenzmeldung der Empfangsstelle Borkum mit Messzeiten und Anhängen |
+| `04-bundesnetzagentur-nachforderung.docx` | behördliche Nachforderung zu Kanälen, Messwerten und internationaler Koordinierung |
+| `05-satellitenregister-stammdaten.csv` | Seriennummern, Massen und Fertigungsstände der 30 Satelliten des Erststarts |
+| `06-frequenzmessung-bodenstation-stade.csv` | zeitgestempelte X-Band-Messwerte der Bodenstation Stade |
+| `07-wsa-sicherheitszonen-anhoerung.docx` | Anhörung zu Sperrkorridor, Schiffsverkehr und Bergung |
+| `08-borealis-anomaliebericht.docx` | detaillierter Bericht zum Telemetrieverlust des Testartikels NLO-PF-03 |
+| `09-versicherer-vorbehaltsschreiben.docx` | vorläufige Deckungseckpunkte und konkret angeforderte Versicherungsunterlagen |
+| `10-email-investoren-due-diligence.eml` | vollständige Unterlagenanforderung aus der Finanzierungsprüfung |
+| `11-telemetrieereignisse-nlo-pf-03.csv` | Ereignisfolge mit Zeitstempeln, Messwerten und Sequenznummern |
+| `12-email-nachforderung-messrohdaten.eml` | E-Mail-Verlauf zu fehlenden Originaldateien und abweichenden Zeitreferenzen |
+| `13-fischerverband-stellungnahme.docx` | Stellungnahme zu betroffenen Fangfahrten, Vorwarnzeit und Umfahrungsaufwand |
+| `14-startplatz-betriebsbericht.docx` | Monatsbericht zu Anlagen, Zufahrt, Umfeldkontakten und Vorfällen |
+| `15-launch-services-vertragsnachtrag.docx` | ausführlicher Vertragsnachtrag zu Startfenster, Anomalie, Bergung und Haftung |
+| `16-bodensegment-uebergabeprotokoll.docx` | Übergabeprotokoll der Bodenstation mit Messwerten und Abweichungen |
 
 ## Sachstand
 

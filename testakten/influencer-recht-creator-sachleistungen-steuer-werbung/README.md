@@ -1,4 +1,4 @@
-# Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerprüfung
+# Akte Luna Kanal: Sachleistungen, Rabattcodes, Musikrechte und Steuerunterlagen
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -22,40 +22,31 @@ Diese Akte gehört zu den Plugins `influencer-recht`, `steuerrecht-anwalt-und-be
 ## Downloads
 
 - [Gesamt-PDF](gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf)
-- Die Einzeldateien in diesem Ordner bilden den Aktenwust aus E-Mail, Tabelle, Vermerk, Bild und Anlagen ab.
+- Die Einzeldateien bilden den ursprünglichen Datenraum aus Verträgen, Kundenbriefings, Abrechnungen, Korrespondenz, Behördenpost und Rohdaten ab.
 
 ## Aktenstücke
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
+| `16_agenturabrechnung_kampagnen_und_sachleistungen.docx` | Agenturabrechnung zu Honoraren, Sachleistungen, Reise und noch nicht abgerechneten Retouren |
+| `17_email_creator_musikdatei_und_rohclip.eml` | Nachricht von Luna Weiß zur Herkunft der Musikdatei, zur Werbeanzeige und zum Rohclip |
+| `18_kampagnenzahlungen_und_sachleistungen_roh.csv` | Export der Agentur zu Kampagnenzahlungen, Produkten, Retouren und Belegen |
+| `19_creator_managementvertrag_2026.docx` | Unterzeichneter Managementvertrag zu Vermittlung, Provision, Abrechnung und Nutzungsumfang |
+| `20_glowgarden_kampagnenauftrag_gg_188.docx` | Kampagnenauftrag mit Veröffentlichungsplan, Honorar, Produktwert und Rabattcode-Laufzeit |
+| `21_audiopeak_produktionsbriefing_ap_77.docx` | Produktionsbriefing zu Vorserienmuster, Tondatei, Drehplan und organischer Veröffentlichung |
+| `22_medienanstalt_auskunftsersuchen_werbekennzeichnung.docx` | Behördliches Auskunftsersuchen zu zwei Beiträgen, Rabattcode und bezahlter Ausspielung |
+| `23_sorgeberechtigte_bestaetigung_minderjaehrigenaufnahme.docx` | Schreiben der Mutter zum ungeplanten Auftritt ihres minderjährigen Sohnes |
+| `24_citysleep_hotelrechnung_gaestedaten.docx` | Hotelabrechnung mit Buchungsdaten, zweitem Gast und vom Kunden beglichenem Betrag |
+| `25_steuerberatung_unterlagenanforderung_q2_2026.docx` | Unterlagenanforderung der Steuerkanzlei mit konkreten Zahlungs- und Sachleistungsvorgängen |
+| `26_email_audiopeak_paid_media_freigabekette.eml` | Vollständige E-Mail-Kette zur Ausspielung des Reels als bezahlte Anzeige |
+| `27_glowgarden_rabattcode_bestellungen_roh.csv` | Einzelbestellungen mit Zeitstempeln, Retouren und Nutzungen nach dem geplanten Kampagnenende |
 | `gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand
 
-- Eine Creatorin erhält Hotelaufenthalt, Kamera und Honorar für mehrere Storys und Reels.
-- Ein Rabattcode läuft weiter, obwohl der Vertrag beendet ist.
-- Die Steuerberatung fragt nach Bewertung der Sachleistungen und Umsatzsteuer.
-- Ein Reel nutzt populäre Musik aus der Plattformbibliothek zusätzlich als Werbeanzeige.
-- Ein Minderjähriger erscheint im Video; die Einwilligung ist nur per Messenger dokumentiert.
-- Die Medienanstalt fragt wegen unklarer Werbekennzeichnung nach.
-
----
-
-<!-- BEGIN nachgereichte-originalunterlagen -->
-## Nachgereichte Originalunterlagen
-
-Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen. Sie enthalten Tatsachen, Rohdaten und Korrespondenz, aber keine rechtliche Lösung.
-
-| Datei | Herkunft und Inhalt |
-| --- | --- |
-| [`16_agenturabrechnung_kampagnen_und_sachleistungen.docx`](16_agenturabrechnung_kampagnen_und_sachleistungen.docx) | Agenturabrechnung mit Zahlungen und tatsächlich erhaltenen Sachen |
-| [`17_email_creator_musikdatei_und_rohclip.eml`](17_email_creator_musikdatei_und_rohclip.eml) | Creator-Mail zur Herkunft der Musik und zum Rohclip |
-| [`18_kampagnenzahlungen_und_sachleistungen_roh.csv`](18_kampagnenzahlungen_und_sachleistungen_roh.csv) | Kampagnen- und Produktdaten mit offenen Retouren |
-
-<!-- END nachgereichte-originalunterlagen -->
+- Luna Weiß wird von der Studio Kanal & Maß Creator Management GmbH betreut; der Vertrag sieht zwanzig Prozent Provision und kampagnenbezogene Einzelaufträge vor.
+- Für GlowGarden erscheinen am 18. Mai 2026 ein Reel und drei Storys. Der Rabattcode LUNA20 bleibt nach der im Auftrag genannten Laufzeit technisch aktiv; die Rohdaten enthalten Verkäufe und Retouren bis Ende Juni.
+- AudioPeak stellt ein Vorserienmuster und eine Tondatei bereit. Der veröffentlichte Clip wird später über das Werbekonto des Kunden als Anzeige ausgespielt.
+- Während des GlowGarden-Drehs gerät der fünfzehnjährige Milan Aydin ungeplant ins Bild. Seine Mutter dokumentiert, was sie zuvor per Messenger freigegeben hatte.
+- Hotel, Bahn, Produkte, Auszahlungen und offene Rabattcodeerlöse tauchen in unterschiedlichen Abrechnungen auf. Die Steuerkanzlei fordert die zugehörigen Originalbelege an.
+- Die Medienanstalt Berlin-Brandenburg verlangt bis zum 23. Juli 2026 Auskunft zu Kennzeichnung, Gegenleistungen, Musikherkunft und bezahlter Ausspielung.

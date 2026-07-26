@@ -50,9 +50,7 @@ sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 │   ├── 01_pflegekasse_eingang_widerspruch.eml <- Pflegekasse bestätigt Widerspruch, nennt Höchstbetrag 4000 EUR
 │   ├── 02_teschner_angebotsklarstellung.eml    <- Fachfirma schlüsselt die 7920 EUR auf, mobile nicht selbst nutzbar
 │   └── 03_md_stellungnahme_selbstnutzbarkeit.eml <- Medizinischer Dienst zur Selbstnutzbarkeit der mobilen Rampe
-├── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
+└── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
 ```
 
 ## Bearbeitungsziel

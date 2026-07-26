@@ -1,28 +1,37 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Leasingrecht Maschinenfleet Restwert Insolvenz"
-plugin: "leasingrecht-praxis"
-
+name: Leasingrecht Maschinenfleet Restwert Insolvenz
+plugin: leasingrecht-praxis
 checks:
-  - id: r01-readme-vorhanden
-    check_type: file_exists
-    description: "README.md vorhanden"
-    path: "README.md"
-
-  - id: r02-gesamt-pdf-vorhanden
-    check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf"
-
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
-
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: Die Aktenbeschreibung ist vorhanden.
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Die vollständige Lesefassung ist gebaut.
+  path: gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf
+- id: r03-vollstaendiger-arbeitsbestand
+  check_type: working_file_count
+  description: Mindestens dreißig exportierbare Originalunterlagen sind vorhanden.
+  min: 30
+- id: r04-leasingvertrag
+  check_type: file_exists
+  description: Der vollständige Leasingvertrag mit Bedingungen ist vorhanden.
+  path: 10-leasingvertrag-volltext-mit-agb.docx
+- id: r05-objektbestand
+  check_type: file_exists
+  description: Die vollständige Objektliste mit Seriennummern und Standorten ist vorhanden.
+  path: 11-objektliste-seriennummern-standorte-vollversion.docx
+- id: r06-verwertungsanzeige
+  check_type: file_exists
+  description: Die Verwertungsanzeige des Insolvenzverwalters ist vorhanden.
+  path: 21-verwertungsanzeige-168-inso.docx
+- id: r07-verwertungserloes
+  check_type: text_contains
+  description: Die Abrechnung enthält den Netto-Verwertungserlös.
+  path: 26-abrechnung-verwertungserloes.csv
+  contains: Verwertungserloes (netto);258.000,00
+- id: r08-auslandseinsatz
+  check_type: text_contains
+  description: Die Korrespondenz dokumentiert den geplanten Auslandseinsatz.
+  path: eml/01_zustimmung_auslandseinsatz_anfrage.eml
+  contains: Pilsen

@@ -71,7 +71,6 @@ insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel/
 │   ├── 2025-11-27_daemmtec_lieferstopp.eml          — Lieferstopp und Gesprächsangebot mit Bitte um Lagerliste
 │   ├── 2025-12-09_hillebrand_intern_ware_sichern.eml — Interne Weisung des Lieferanten-GF („bevor die Bude kippt, nehmen wir Ware")
 │   ├── 2025-12-16_wenzel_uebereignung_entwurf.eml   — Entwurfsabstimmung mit offenem Hinweis auf das Brandau-Risiko
-│   ├── 2026-07-06_sachstand_nachforderung.eml       — Sachstandsanfrage der Verwalterin vor Klageerhebung
 │   ├── 2026-12-08_ladung_zeuge_kurrle.eml           — Ladung des Zeugen Kurrle zum Beweistermin
 │   ├── 2027-06-22_urteilszustellung_salzwedel.eml   — Zustellungsmitteilung des Urteils an die Verwalterin
 │   └── 2027-08-10_zahlungsbestaetigung_daemmtec.eml — Zahlungsbestätigung der Dämmtec Werra GmbH nach Rechtskraft

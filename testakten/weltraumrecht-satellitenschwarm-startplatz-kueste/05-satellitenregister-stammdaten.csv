@@ -1,0 +1,31 @@
+missionskennung;seriennummer;bahn_ebene;position;masse_kg;herstellungsstand;funksystem;geplanter_start
+NORDLICHT-A;NLO-A-001;A;01;32.0;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-002;A;02;32.1;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-003;A;03;31.9;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-004;A;04;32.0;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-005;A;05;31.8;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-006;A;06;32.0;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-007;A;07;32.2;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-008;A;08;32.0;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-009;A;09;31.9;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-010;A;10;32.1;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-011;A;11;32.0;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-012;A;12;31.8;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-013;A;13;32.0;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-014;A;14;32.1;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-015;A;15;31.9;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-016;A;16;32.0;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-017;A;17;32.0;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-018;A;18;32.2;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-019;A;19;31.9;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-020;A;20;32.0;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-021;A;21;32.1;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-022;A;22;32.0;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-023;A;23;31.8;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-024;A;24;32.0;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-025;A;25;32.1;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-026;A;26;31.9;Nutzlasttest;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-027;A;27;32.0;Strukturintegration;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-028;A;28;32.0;Elektronikprüfung;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-029;A;29;32.2;Thermaltest geplant;S-Band X-Band;2027-09-18
+NORDLICHT-A;NLO-A-030;A;30;31.9;Nutzlasttest;S-Band X-Band;2027-09-18

@@ -93,7 +93,25 @@ EXPORT_META_PATTERNS = {
         re.IGNORECASE,
     ),
     "Arbeitsmarker": re.compile(r"\bTODO\b|\[AZ\s+fiktiv\]|\[fiktiv\]", re.IGNORECASE),
+    "Austauschbares Aktenvorblatt": re.compile(
+        r"die akte beginnt nicht mit einem fertigen rechtsproblem|"
+        r"eignet sich der vorgang gut, um nicht nur abstrakt zu prüfen|"
+        r"bitte heute nicht nur eine kurznotiz schicken|"
+        r"eine erste zuordnung zu:|"
+        r"für die nächste bearbeitung fehlen noch die unten markierten unterlagen|"
+        r"ärztliche oder wirtschaftliche kernbelege",
+        re.IGNORECASE,
+    ),
 }
+SYNTHETIC_EMAIL_PATTERN = re.compile(
+    r"(?:@|https?://)[^\s<>/]+[.](?:example|invalid|local|test)\b|"
+    r"\b[a-z0-9][a-z0-9.-]*[.]example\b|"
+    r"@example[.](?:com|de|org)\b|"
+    r"\bbeispielkanzlei\b|"
+    r"\bmandat[.]local\b",
+    re.IGNORECASE,
+)
+BROKEN_ENCODING_MARKERS = ("\ufffd", "Ã", "Â", "â€", "ðŸ")
 REMOVED_AGGREGATES = {
     "arbeitsrecht-kuendigungsdrama-koerber-werk/03_arbeitsvertrag_at_koerber_2012.docx",
     "arbeitsrecht-kuendigungsdrama-koerber-werk/04_organigramm_und_stellenbeschreibung.docx",
@@ -312,6 +330,44 @@ def is_a4(document: Document) -> bool:
     return True
 
 
+def eml_quality_errors(path: Path) -> list[str]:
+    """Prüft eine gespeicherte E-Mail auf portable, unverfälschte Darstellung."""
+    label = path.relative_to(REPO) if path.is_relative_to(REPO) else path
+    errors: list[str] = []
+    raw = path.read_bytes()
+    try:
+        decoded_raw = raw.decode("utf-8")
+    except UnicodeDecodeError as exc:
+        return [f"{label}: E-Mail ist nicht valides UTF-8: {exc}"]
+    try:
+        message = BytesParser(policy=policy.default).parsebytes(raw)
+    except Exception as exc:
+        return [f"{label}: E-Mail nicht lesbar: {exc}"]
+    for header in ("From", "To", "Date", "Subject", "Message-ID"):
+        if not message.get(header):
+            errors.append(f"{label}: E-Mail-Header {header} fehlt")
+    if SYNTHETIC_EMAIL_PATTERN.search(decoded_raw):
+        errors.append(f"{label}: künstliche E-Mail-Domain vorhanden")
+    if re.search(r"[^\x00-\x7f]", decoded_raw):
+        if not message.get("MIME-Version"):
+            errors.append(f"{label}: MIME-Version für Nicht-ASCII-Inhalt fehlt")
+        text_parts = [
+            part for part in message.walk() if part.get_content_maintype() == "text"
+        ]
+        if not text_parts or any(
+            (part.get_content_charset() or "").lower().replace("_", "-") != "utf-8"
+            for part in text_parts
+        ):
+            errors.append(
+                f"{label}: UTF-8-Zeichensatz ist nicht für alle Textteile deklariert"
+            )
+    body = message.get_body(preferencelist=("plain", "html"))
+    rendered = body.get_content() if body is not None else str(message)
+    if any(marker in rendered for marker in BROKEN_ENCODING_MARKERS):
+        errors.append(f"{label}: E-Mail-Inhalt wird fehlerhaft dekodiert")
+    return errors
+
+
 def main() -> int:
     errors: list[str] = []
     checked_files = 0
@@ -330,21 +386,7 @@ def main() -> int:
             )
         if path.suffix.lower() != ".eml":
             continue
-        try:
-            message = eml_message(path)
-        except Exception as exc:
-            errors.append(f"{path.relative_to(REPO)}: E-Mail nicht lesbar: {exc}")
-            continue
-        for header in ("From", "To", "Date", "Subject", "Message-ID"):
-            if not message.get(header):
-                errors.append(
-                    f"{path.relative_to(REPO)}: E-Mail-Header {header} fehlt"
-                )
-        raw = path.read_text(encoding="utf-8", errors="replace").lower()
-        if ".invalid" in raw:
-            errors.append(
-                f"{path.relative_to(REPO)}: künstliche .invalid-Adresse vorhanden"
-            )
+        errors.extend(eml_quality_errors(path))
 
     export_files_checked = 0
     for case in sorted(path for path in TESTAKTEN.iterdir() if path.is_dir()):
@@ -359,6 +401,10 @@ def main() -> int:
             except Exception as exc:
                 errors.append(f"{path.relative_to(REPO)}: Exportquelle nicht lesbar: {exc}")
                 continue
+            if SYNTHETIC_EMAIL_PATTERN.search(text):
+                errors.append(
+                    f"{path.relative_to(REPO)}: künstliche E-Mail-Domain vorhanden"
+                )
             for label, pattern in EXPORT_META_PATTERNS.items():
                 match = pattern.search(text)
                 if match:

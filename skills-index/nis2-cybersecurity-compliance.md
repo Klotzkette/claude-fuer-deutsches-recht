@@ -1,6 +1,6 @@
 # nis2-cybersecurity-compliance
 
-**102 Skills** · Stand `v434.1.0`
+**102 Skills** · Stand `v434.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../nis2-cybersecurity-compliance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

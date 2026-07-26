@@ -1,6 +1,6 @@
 # notariat-alltag
 
-**129 Skills** · Stand `v434.1.0`
+**129 Skills** · Stand `v434.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../notariat-alltag/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

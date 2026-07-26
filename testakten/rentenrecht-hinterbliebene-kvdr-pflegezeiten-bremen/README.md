@@ -54,8 +54,6 @@ rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
     ├── 02_kanzlei_an_weser_kk_kindererziehung.eml ← Kanzlei: drei Kinder mal drei Jahre erfüllen die Schwelle
     ├── 03_pflegekasse_erhebungsbogen.eml        ← Pflegekasse zur Beitragslücke 07/2023 bis 11/2023 und zur Zeugin
     └── chatverlauf_geschwister_bruns.txt        ← WhatsApp-Export der drei Kinder zur Suche der Geburtsurkunden
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
 ```
 
 Der Datenkern in `12_kvdr_vorversicherung_datenkern.csv` macht den KVdR-Streit rechnerisch nachvollziehbar: Zweite Rahmenfristhälfte 280 Monate, Schwelle 252 Monate, belegt 172 Monate, Kindererziehung 108 Monate, zusammen 280 Monate. Die Krankenkasse kommt nur deshalb auf ein Fehlen der Vorversicherungszeit, weil sie die 108 Monate Kindererziehung nicht mitzählt.

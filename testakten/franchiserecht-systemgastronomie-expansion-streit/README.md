@@ -22,25 +22,28 @@ Diese Akte gehört zu den Plugins `franchiserecht-praxis`, `kartellrecht`, `gese
 ## Downloads
 
 - [Gesamt-PDF](gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf)
-- Die Einzeldateien in diesem Ordner bilden den Aktenwust aus E-Mail, Tabelle, Vermerk, Bild und Anlagen ab.
+- Die Einzeldateien enthalten Vertrag und Gebietsanlage, vorvertragliche Prognose, Systemschreiben, Abmahnung, Originalkorrespondenz und Kassendaten.
 
 ## Aktenstücke
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
+| `01-franchisevertrag-knusperkrone-karaca.docx` | Unterzeichneter Franchisevertrag KK-FR-2022-017 für den Standort Münster-Süd |
+| `02-standortfreigabe-und-gebietsanlage.docx` | Vertragliche Gebietsanlage mit Adressen, Radius, Begehungsdaten und Konkurrenzstandorten |
+| `03-investitions-und-ertragsvorschau-2022.docx` | Vorvertragliche Investitions- und Ertragsvorschau mit Vergleichsbetrieben und Eingabewerten |
+| `04-systemrundschreiben-06-2026-lieferantenwechsel.docx` | Rundschreiben zum Lieferantenwechsel, zu neuen Preisen und zur betrieblichen Umstellung |
+| `05-auditaufforderung-kassendaten-03-06-2026.docx` | Schreiben des Partnercontrollings mit konkreten Umsatzabweichungen und angeforderten Exporten |
+| `06-abmahnung-kuendigungsandrohung-11-06-2026.docx` | Kanzleischreiben wegen Kassendaten, Preisaktion und öffentlicher Äußerung |
+| `07-email-expansionsankuendigung-28-05-2026.eml` | Expansionsankündigung für den Standort Münster-Hafen |
+| `08-email-karaca-umsatz-und-gebietsschutz-02-06-2026.eml` | Antwort der Franchisenehmerin mit Umsatzdaten und konkretem Gebietsbezug |
+| `09-email-lieferqualitaet-social-media-10-06-2026.eml` | Betriebliche Nachricht zu Kühlkette, Verpackungen, Beschwerden und Standortkonto |
+| `10-kassenexport-2025-2026.csv` | Rohdatenexport nach Monat und Verkaufskanal mit Bons, Umsatz, Rabatten und Stornos |
 | `gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand
 
-- Ein Franchisegeber will in derselben Stadt zwei neue Standorte eröffnen; der erste Franchisenehmer beruft sich auf Gebietsschutz.
-- Die Rentabilitätsprognose aus der Anbahnung war viel optimistischer als die tatsächlichen Umsätze.
-- Das Systemhandbuch wurde geändert; neue Lieferanten sind teurer und schlechter.
-- Eine Social-Media-Aktion eines Franchisenehmers beschädigt die Marke.
-- Der Franchisegeber verlangt Auditdaten aus dem Kassensystem.
-- Nach Kündigungsandrohung streitet man über Rückbau, Warenbestand und Wettbewerbsverbot.
+- Elif Karaca betreibt seit März 2023 den Standort Münster-Süd auf Grundlage des Vertrags KK-FR-2022-017 und einer gesondert unterzeichneten Gebietsanlage.
+- Die Zentrale prüft einen weiteren Betrieb am Hafenweg 21, der nach der vorliegenden Routenmessung 2,1 Kilometer entfernt liegt.
+- Investitionsplanung, tatsächliche Kanalumsätze und gemeldete Monatswerte lassen sich anhand voneinander unabhängiger Unterlagen nachvollziehen.
+- Ein Lieferantenwechsel führt zu Preissteigerungen, Kühlkettenbeanstandungen und Problemen mit neuen Verpackungen.
+- Das Partnercontrolling verlangt Kassendaten; parallel stehen eine unangemeldete Preisaktion und eine Äußerung auf dem Standortkonto im Streit.

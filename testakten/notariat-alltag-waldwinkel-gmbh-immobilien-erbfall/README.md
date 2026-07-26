@@ -28,13 +28,22 @@ Diese Akte gehört zu den Plugins `notariat-alltag`, `berufsrecht-notare`.
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
-| `gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf` | Gesamt-PDF der Akte |
+| `01-notariat-einladung-beurkundungstermin.docx` | Einladung mit Beteiligten, Terminablauf und konkret benannten Beurkundungsunterlagen |
+| `02-entwurf-anteilskauf-und-abtretung.docx` | ausführlicher Entwurf zur Übertragung des Geschäftsanteils aus dem Nachlass |
+| `03-email-eva-falk-vollmacht-kurier.eml` | Nachricht der Erbin aus Porto mit Kurierdaten und Anlagenverzeichnis |
+| `04-registergericht-zwischenverfuegung.docx` | Zwischenverfügung zu Nennbeträgen, Einziehung und Gesellschafterliste |
+| `05-gesellschafterliste-rohdaten.csv` | Listenstände, Nennbeträge, Prozentangaben und Veränderungsvermerke |
+| `06-grundbuch-bestandsdaten.csv` | Bestandsverzeichnis sowie Eintragungen in den Abteilungen I bis III |
+| `07-weserland-bank-finanzierungsbestaetigung.docx` | Finanzierungsbestätigung mit Rang- und Auszahlungsvoraussetzungen |
+| `08-notariat-auskunftsersuchen-wirtschaftlich-berechtigte.docx` | Unterlagenanforderung zur norwegischen Holding und zum Trust |
+| `09-dolmetscherin-bestaetigung-und-personalien.docx` | Auftragsbestätigung, Personaldaten und Leistungsumfang der Dolmetscherin |
+| `10-email-bank-auszahlungsvoraussetzungen.eml` | E-Mail-Verlauf zur Kaufpreisauszahlung und Rangbestätigung |
+| `11-aktennotiz-telefonat-eva-falk.docx` | ausführliche Gesprächsnotiz zum Nachlass, zur Vollmacht und zum Gesellschafterdarlehen |
+| `12-email-nachforderung-register-und-trustunterlagen.eml` | konkrete Nachforderung fehlender Register-, Trust- und Zahlungsunterlagen |
+| `13-entwurf-grundstueckskaufvertrag.docx` | ausführlicher Kaufvertragsentwurf zum Hofgrundstück in Gertenbach |
+| `14-notariat-vollzugsmitteilung-grundbuchunterlagen.docx` | Anforderung von Löschungsbewilligung und Ablösemitteilung |
+| `15-nachlassgericht-eroeffnungsniederschrift.docx` | Eröffnungsniederschrift zum Testament Karl-Heinz Falk |
+| `16-kaufpreis-zahlungsdaten.csv` | Zahlungswege, Beträge, Konten und Fälligkeitsbezüge beider Vorgänge |
 
 ## Sachstand
 

@@ -1,7 +1,3 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
 name: "Befristungskontrollklage Vogt Stadtwerke"
 plugin: "arbeitsrecht"
 
@@ -18,25 +14,36 @@ checks:
 
   - id: r03-drei-wochen-frist
     check_type: regex_match
-    description: "Drei-Wochen-Frist / Paragraph 17 TzBfG (Ablauf 23.03.2026) sichtbar"
+    description: "Drei-Wochen-Frist nach Paragraf 17 TzBfG mit Ablauf am 23.03.2026 sichtbar"
     path: "README.md"
     pattern: "(3-Wochen|drei.{0,3}Wochen|17 TzBfG|23.03.2026|Fristende)"
 
   - id: r04-schriftform-14-abs-4
     check_type: regex_match
-    description: "Schriftformverstoss Paragraph 14 Abs. 4 TzBfG erwaehnt"
+    description: "Schriftformverstoß nach Paragraf 14 Absatz 4 TzBfG erwähnt"
     path: "README.md"
     pattern: "(14 Abs. 4|Schriftform|126 BGB)"
 
   - id: r05-eml-anlagen
     check_type: file_count
-    description: "mindestens 3 EML-Anlagen (Personalabteilung Verlaengerung, Vorgesetzter Weiterbeschaeftigung, Betriebsrat)"
+    description: "Mindestens drei E-Mail-Anlagen zu Personalabteilung, Vorgesetztem und Betriebsrat vorhanden"
     glob: "eml/*.eml"
     min: 3
 
   - id: r06-vertragskette-datenkern
     check_type: regex_match
-    description: "Datenauswertungs-Kern: Vertragskette nachrechenbar - sachgrundlose Befristung 24 Monate (Hoechstgrenze Paragraph 14 Abs. 2 Satz 1 ausgeschoepft), null Verlaengerungen, Vorbeschaeftigungsabstand 2 Jahre 5 Monate; Diskrepanz Projektstelle Smart-Meter vs Daueraufgabe Kundenservice"
+    description: "Vertragskette weist 24 Monate, null Verlängerungen und die Diskrepanz zwischen Projektetikett und Daueraufgabe aus"
     path: "vertragskette_beschaeftigungsverlauf.csv"
     pattern: "Sachgrundlose Befristung,01.03.2024,28.02.2026,24,.*Daueraufgabe"
-    erwartung: "sachgrundlose Dauer 24 Monate, Verlaengerungen 0, Abstand Vorbeschaeftigung 2 Jahre 5 Monate; interne Deklaration Projekt Smart-Meter-Rollout widerspricht tatsaechlicher Daueraufgabe Kundenservice und Vertragsmanagement"
+    erwartung: "Sachgrundlose Dauer 24 Monate, Verlängerungen null, Abstand der Vorbeschäftigung 2 Jahre 5 Monate; das Projektetikett widerspricht der tatsächlichen Daueraufgabe"
+
+  - id: r07-vorbeschaeftigung-rechtsprechung
+    check_type: regex_match
+    description: "Amtliche Rechtsprechungsanker zur Vorbeschäftigung vollständig eingeordnet"
+    path: "README.md"
+    pattern: "1 BvL 7/14 und 1 BvR 1375/14[\\s\\S]{0,900}7 AZR 733/16"
+
+  - id: r08-exportfaehige-unterlagen
+    check_type: working_file_count
+    description: "Mindestens 19 exportierbare Arbeitsunterlagen vorhanden"
+    min: 19

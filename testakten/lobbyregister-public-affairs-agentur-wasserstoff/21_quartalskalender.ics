@@ -5,55 +5,55 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
-UID:spreebogen-vorfallreview-20260528@spreebogen-reg.example
+UID:spreebogen-vorfallreview-20260528@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260528T080000Z
 DTEND:20260528T083000Z
 SUMMARY:OpenGrid Unterauftrag Lobbyregister-Check
 DESCRIPTION:Pruefung der Vertragsergaenzung mit OpenGrid Events UG (Logistikbeschraenkung) und Bestaetigung der Eintragung als Unterauftragnehmer im Lobbyregister.
 LOCATION:Spreebogen Compliance-Buero
-ORGANIZER;CN=Frederik Holst:mailto:frederik.holst@spreebogen-reg.example
-ATTENDEE;CN=Lea Sommer:mailto:lea.sommer@spreebogen-reg.example
-ATTENDEE;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.example
+ORGANIZER;CN=Frederik Holst:mailto:frederik.holst@spreebogen-reg.de
+ATTENDEE;CN=Lea Sommer:mailto:lea.sommer@spreebogen-reg.de
+ATTENDEE;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.de
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-eintrag-einspielung-20260530@spreebogen-reg.example
+UID:spreebogen-eintrag-einspielung-20260530@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260530T140000Z
 DTEND:20260530T150000Z
 SUMMARY:Lobbyregister Eintragsfassung 26.05.2026 einspielen
 DESCRIPTION:Einspielen der korrigierten Eintragsfassung gemaess 20_registerdiff_alt_neu.md.
 LOCATION:Spreebogen Buero
-ORGANIZER;CN=Frederik Holst:mailto:frederik.holst@spreebogen-reg.example
+ORGANIZER;CN=Frederik Holst:mailto:frederik.holst@spreebogen-reg.de
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-schulung-20260531@spreebogen-reg.example
+UID:spreebogen-schulung-20260531@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260531T100000Z
 DTEND:20260531T120000Z
 SUMMARY:Compliance-Pflichtschulung Bundeskontakte
 DESCRIPTION:Pflichtteilnahme Spreebogen-Team. Themen Offenlegungssaetze, Mandatsbeschraenkung, Vorfallhandling.
 LOCATION:Spreebogen Konferenzraum
-ORGANIZER;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.example
+ORGANIZER;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.de
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-fachgespraech-20260612@spreebogen-reg.example
+UID:spreebogen-fachgespraech-20260612@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260612T063000Z
 DTEND:20260612T083000Z
 SUMMARY:Parlamentarisches Fachgespraech HansaH2 und Nordsee Elektrolyse zum WBG
 DESCRIPTION:Veranstaltung in Konferenzraum Havel. Spreebogen-Team und Auftraggeber. Vor Beginn Offenlegungssatz pruefen.
 LOCATION:Tagungszentrum Spreebogen Konferenzraum Havel Reinhardtstr. 47 10117 Berlin
-ORGANIZER;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.example
-ATTENDEE;CN=Christine Luehrs:mailto:christine.luehrs@hansah2.example
-ATTENDEE;CN=Tarek Abadi:mailto:tarek.abadi@nordsee-elektrolyse.example
+ORGANIZER;CN=Mara Wendt:mailto:mara.wendt@spreebogen-reg.de
+ATTENDEE;CN=Christine Luehrs:mailto:christine.luehrs@hansah2.de
+ATTENDEE;CN=Tarek Abadi:mailto:tarek.abadi@nordsee-elektrolyse.de
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-q2-halbzeit-20260615@spreebogen-reg.example
+UID:spreebogen-q2-halbzeit-20260615@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260615T070000Z
 DTEND:20260615T073000Z
@@ -61,7 +61,7 @@ SUMMARY:Halbzeitcheck Q2-Upload Stellungnahmen
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-q2-finalcheck-20260625@spreebogen-reg.example
+UID:spreebogen-q2-finalcheck-20260625@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260625T140000Z
 DTEND:20260625T150000Z
@@ -69,7 +69,7 @@ SUMMARY:Finalcheck Q2-Upload Stellungnahmen
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-q2-upload-20260630@spreebogen-reg.example
+UID:spreebogen-q2-upload-20260630@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART;VALUE=DATE:20260630
 SUMMARY:Lobbyregister Q2 Stellungnahmen hochladen
@@ -77,7 +77,7 @@ DESCRIPTION:Upload HansaH2- und Konsortiumsstellungnahme im Quartalsupload. Vero
 END:VEVENT
 
 BEGIN:VEVENT
-UID:spreebogen-honorarcheck-20260615@spreebogen-reg.example
+UID:spreebogen-honorarcheck-20260615@spreebogen-reg.de
 DTSTAMP:20260526T080000Z
 DTSTART:20260615T080000Z
 DTEND:20260615T083000Z

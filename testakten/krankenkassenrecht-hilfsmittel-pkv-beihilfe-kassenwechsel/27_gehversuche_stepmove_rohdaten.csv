@@ -1,0 +1,13 @@
+﻿Messung_ID;Datum;Uhrzeit;Hilfsmittel;Stimulationsstufe;Strecke_m;Zeit_s;Stolperereignisse;Pause;Hautreaktion;Bemerkung
+LS267718-01;2026-07-02;09:24;ohne;;10;18.4;1;nein;vorbestehende_Druckstelle;10_Meter_Test
+LS267718-02;2026-07-02;09:28;ohne;;21;37.6;2;nein;unveraendert;Fussschleifen_ab_22m
+LS267718-03;2026-07-02;09:29;ohne;;31;56.0;3;ja;unveraendert;Abbruch
+LS267718-04;2026-07-02;09:47;starre_Orthese;;26;39.0;0;ja;Druckschmerz;erste_Pause
+LS267718-05;2026-07-02;09:50;starre_Orthese;;52;78.0;1;ja;Roetung_Aussenknoechel;zweite_Pause
+LS267718-06;2026-07-02;10:18;StepMove_D2;3;25;30.1;0;nein;keine_neue;Elektrode_korrigiert
+LS267718-07;2026-07-02;10:19;StepMove_D2;3;50;60.3;0;nein;keine_neue;gleichmaessiges_Abrollen
+LS267718-08;2026-07-02;10:20;StepMove_D2;3;74;89.0;0;nein;leichte_Roetung;Durchgang_beendet
+LS267718-09;2026-07-02;10:43;StepMove_D2;4;25;27.8;0;nein;keine_neue;Richtungswechsel
+LS267718-10;2026-07-02;10:44;StepMove_D2;4;50;56.2;0;nein;leichte_Roetung;Zuggefuehl
+LS267718-11;2026-07-02;10:45;StepMove_D2;4;74;83.0;0;nein;leichte_Roetung;Durchgang_beendet
+LS267718-12;2026-07-02;11:18;StepMove_D2;3;60;70.0;0;nein;Roetung_abblassend;Kontrolle_nach_25min

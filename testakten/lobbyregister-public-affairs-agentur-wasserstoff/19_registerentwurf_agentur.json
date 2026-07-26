@@ -14,7 +14,7 @@
     "rechtsform": "GmbH",
     "anschrift": "Reinhardtstr. 47, 10117 Berlin",
     "handelsregister": "HRB 234 781 AG Berlin-Charlottenburg",
-    "internet": "https://www.spreebogen-reg.example",
+    "internet": "https://www.spreebogen-reg.de",
     "geschaeftsfuehrung": ["Mara Wendt (CEO)", "Lea Sommer (COO)"],
     "mitarbeitende_im_lobbyingbereich": 6
   },
@@ -55,7 +55,7 @@
       "auftraggeber": "HansaH2 Storage AG",
       "versanddatum_an_bundesadressaten": "2026-05-20",
       "upload_quartal": "Q2/2026",
-      "veroeffentlichungs_url": "https://www.hansah2.example/positionen",
+      "veroeffentlichungs_url": "https://www.hansah2.de/positionen",
       "status": "vorbereitung_upload"
     },
     {
@@ -63,7 +63,7 @@
       "auftraggeber": "Nordsee Elektrolyse Konsortium GbR",
       "versanddatum_an_bundesadressaten": "2026-05-24",
       "upload_quartal": "Q2/2026",
-      "veroeffentlichungs_url": "https://www.spreebogen-reg.example/clients",
+      "veroeffentlichungs_url": "https://www.spreebogen-reg.de/clients",
       "status": "vorbereitung_upload"
     }
   ],

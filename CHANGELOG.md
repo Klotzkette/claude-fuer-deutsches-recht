@@ -1,3 +1,15 @@
+# v434.2.0 - Testakten als belastbare Originalvorgänge und strengere Qualitätsprüfung
+
+- Sieben zuvor schematische Akten wurden zu konkreten, widerspruchsreichen Originalvorgängen ausgebaut: Franchisestreit, Influencer-Kampagnen, Hilfsmittelversorgung, Maschinenleasing, Notariatsalltag, Buchpreisbindung und Satellitenbetrieb. 70 neue Word-Dokumente, E-Mails und Datentabellen liefern Vertragsstände, Behördenpost, Korrespondenz, Mess- und Zahlungsdaten, ohne die juristische Lösung vorwegzunehmen.
+- 95 austauschbare Aktenvorblätter und Nachforderungsstummel wurden entfernt. Die verbliebenen Unterlagen tragen fallbezogene Absender, Betreffzeilen, Daten, Aktenzeichen und Signaturen; künstliche Reservedomains und sichtbare Arbeitsmarker wurden auch in eingebetteten Word- und PDF-Inhalten beseitigt.
+- 524 E-Mail-Dateien wurden auf portable UTF-8- und MIME-Darstellung vereinheitlicht. Eine neue Releaseprüfung kontrolliert Pflichtkopfzeilen, Zeichensatz, Dekodierung und künstliche Adressen, damit Umlaute und scharfes S in Originaldateien und PDF-Ausgaben stabil bleiben.
+- 195 Aktenrubriken wurden von generischen Platzhalterprüfungen auf den tatsächlich exportierten Dateibestand umgestellt. Fallbezogene Rubriken prüfen zusätzlich zentrale Vertrags-, Bescheid-, Korrespondenz- und Datenspuren; die vollständige Auswertung besteht für 302 fachliche Akten.
+- README-Dateibäume und Dateitabellen werden nun gegen den wirklichen Aktenbestand geprüft. Veraltete Verweise in zwei arbeitsrechtlichen Akten wurden korrigiert; die Vorbeschäftigungsprüfung im Befristungsfall ist präzise auf die Entscheidungen des Bundesverfassungsgerichts vom 6. Juni 2018 und des Bundesarbeitsgerichts vom 23. Januar 2019 zurückgeführt.
+- Alle 303 Gesamt-PDFs wurden aus dem bereinigten Bestand neu gebaut. Dokumentqualität, E-Mail-Portabilität, CSV-Struktur, Downloadziele, Gesamt-PDFs, Pluginstruktur, Marketplace-Import und Frontmatter werden gemeinsam als Release-Gates ausgeführt.
+- Marketplace, sämtliche Plugin-Manifeste, Werkstatt- und Schnellstart-Prompts sowie die zentralen Übersichten wurden auf v434.2.0 synchronisiert.
+
+---
+
 # v434.1.0 - Neue Erbrechtsakte: Vertragserbe gegen lebzeitige Schenkungen (LG und OLG Oldenburg)
 
 - Neue Testakte `erbrecht-vertragserbe-schenkungen-erbvertrag-oldenburg`: Berufungsverfahren vor dem OLG Oldenburg (8 U 63/26) nach teilweise stattgebendem Urteil des LG Oldenburg (5 O 458/25). Der Sohn ist vertragsmäßig eingesetzter Schlusserbe aus einem Erbvertrag von 2008 mit nie ausgeübtem Rücktrittsvorbehalt; der Erblasser übertrug der Tochter lebzeitig die Hofstelle (gegen Wohnungsrecht und Pflegeversprechen), schenkte ihr ein Baugrundstück und überwies ihr in zwölf Tranchen 152.000 EUR. Die Berufung der Beklagten stützt sich darauf, dass schon der Vorbehalt die geschützte Erberwartung entfallen lasse; mitten in das Verfahren fällt die Veröffentlichung der Entscheidungsgründe des BGH in der Sache IV ZR 256/25 zu genau dieser Frage, auf die der Senat mit Stellungnahmefrist hinweist.

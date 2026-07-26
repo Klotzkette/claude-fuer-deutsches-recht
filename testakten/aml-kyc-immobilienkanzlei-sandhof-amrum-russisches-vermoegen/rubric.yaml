@@ -1,40 +1,36 @@
+# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
 name: Aml Kyc Immobilienkanzlei Sandhof Amrum Russisches Vermoegen
 plugin: geldwaeschepraevention-aml-kyc
 checks:
-  - id: r01-readme-vorhanden
-    check_type: file_exists
-    description: README.md vorhanden
-    path: README.md
-  - id: r02-gesamt-pdf-vorhanden
-    check_type: file_exists
-    description: Gesamt-PDF gebaut
-    path: gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: mindestens 1 Markdown-Aktenstueck
-    glob: '*.md'
-    min: 1
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen
-    note: 'Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden'
-  - id: r-gwg-paragrafen
-    check_type: text_contains
-    description: GwG-Paragrafen referenziert
-    path: README.md
-    contains: GwG
-  - id: r-fiu-meldung
-    check_type: text_contains
-    description: FIU-Meldung Paragraf 43 GwG erwaehnt
-    path: README.md
-    contains: FIU
-  - id: r-sanktionsliste
-    check_type: text_contains
-    description: EU-Sanktionsliste / SanktDG referenziert
-    path: README.md
-    contains: Sankt
-  - id: r-paragraf-203-stgb
-    check_type: regex_match
-    description: Paragraf 203 StGB Anwaltsgeheimnis
-    path: README.md
-    pattern: '203'
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: README.md vorhanden
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Gesamt-PDF gebaut
+  path: gesamt-pdf/aml-kyc-immobilienkanzlei-sandhof-amrum-russisches-vermoegen_gesamt.pdf
+- id: r03-mindestens-3-arbeitsunterlagen
+  check_type: working_file_count
+  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
+  min: 3
+- id: r-gwg-paragrafen
+  check_type: text_contains
+  description: GwG-Paragrafen referenziert
+  path: README.md
+  contains: GwG
+- id: r-fiu-meldung
+  check_type: text_contains
+  description: FIU-Meldung Paragraf 43 GwG erwaehnt
+  path: README.md
+  contains: FIU
+- id: r-sanktionsliste
+  check_type: text_contains
+  description: EU-Sanktionsliste / SanktDG referenziert
+  path: README.md
+  contains: Sankt
+- id: r-paragraf-203-stgb
+  check_type: regex_match
+  description: Paragraf 203 StGB Anwaltsgeheimnis
+  path: README.md
+  pattern: '203'

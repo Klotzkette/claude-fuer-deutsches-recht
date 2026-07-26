@@ -1,6 +1,6 @@
 # seerecht-schifffahrtsrecht
 
-**238 Skills** · Stand `v434.1.0`
+**238 Skills** · Stand `v434.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../seerecht-schifffahrtsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

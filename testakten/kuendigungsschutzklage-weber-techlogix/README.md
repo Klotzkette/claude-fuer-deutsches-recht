@@ -17,15 +17,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## ⬇️ Direkt-Download
-
-| Akte | Direkt-Download |
-| --- | --- |
-| `testakte-kündigungsschutzklage-weber-techlogix` (Akte) | [testakte-kündigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
-
-Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
-
-**Beispielfall** für die `kueschk-*`-Skills im Plugin `arbeitsrecht`.
+Arbeitsakte für die `kueschk-*`-Skills im Plugin `arbeitsrecht`.
 Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26**
 
 ---
@@ -78,7 +70,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `arbeitsvertrag_weber_2018.docx` | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle Paragrafen ) |
 | `arbeitsvertrag_weber_2018_auszug.txt` | Rohabschrift-Auszug des Arbeitsvertrags |
 | `kuendigungsschreiben_techlogix_30-04-2026.docx` | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
-| `kündigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
+| `kuendigungsschreiben_techlogix_30-04-2026.txt` | Rohabschrift des Kündigungsschreibens |
 | `betriebsrat_anhoerung_entwurf_roh.docx` | BR-Anhörungsschreiben mit spätem Eingangsstempel und dünner Sozialauswahlbegründung |
 | `betriebsrat_anhoerung_entwurf_roh.txt` | Vollständige Abschrift des BR-Anhörungsschreibens mit Kanzleivermerk |
 | `mandantennotiz_erstgespraech_06-05-2026.docx` | Ausführliche Mandantennotiz, Erstgespräch 06.05.2026 |
@@ -96,7 +88,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `vergleichsprotokoll_18-06-2026.docx` | Prozessvergleich vom 18.06.2026 (Protokoll ArbG Berlin) |
 | `zwischenzeugnis_weber_31-08-2026.docx` | Qualifiziertes Zeugnis TechLogix GmbH für Weber |
 | `whatsapp_weber_grunewald.txt` | WhatsApp-Export Weber/Grunewald vom 30.04.2026: Grunewald wurde Weiterbeschäftigung zugesagt (Diskrepanz-Beleg zur Sozialauswahl) |
-| `gesprächsvermerk_haehnel_br_anhoerung.md` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige Paragraf 102-Anhörung |
+| `gespraechsvermerk_haehnel_br_anhoerung.docx` | Gesprächsvermerk RA Steinhauer zum Telefonat mit BR-Vorsitzendem Hähnel: verspätete und unvollständige Anhörung nach Paragraf 102 BetrVG |
 | `eml/2026-04-28_kreutzfeldt_an_weber_kuendigung_begleitschreiben.eml` | Begleitschreiben der Geschäftsführerin zur Kündigung; DataFlow-Auslagerung noch in finaler Abstimmung |
 | `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete und inhaltlich unzureichende Anhörung zur Sozialauswahl |
 | `eml/2026-05-13_steinhauer_an_weber_gueteterminladung.eml` | RA Steinhauer leitet Ladung zum Gütetermin 04.06.2026 weiter |
@@ -120,7 +112,7 @@ Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens —
 
 **Strategisch/taktisch**
 - Abfindungsberechnung: Faustformel (halbes Monatsgehalt je Beschäftigungsjahr), Bandbreiten, Verhandlungsstrategie
-- Gütertermin-Vorbereitung: realistische Einschätzung, Minimalziel vs. Maximalziel
+- Gütetermin-Vorbereitung: realistische Einschätzung, Minimalziel und Maximalziel
 - Vergleichsprotokoll: Formulierung steuerlich günstiger Abfindungsklauseln, Zeugnisregelung
 
 ---

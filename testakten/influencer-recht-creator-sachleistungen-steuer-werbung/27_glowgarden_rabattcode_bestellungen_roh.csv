@@ -1,0 +1,9 @@
+﻿Bestell_ID;Bestelldatum;Versanddatum;Bruttowarenwert_EUR;Rabattcode;Rabatt_EUR;Retourenstatus;Rueckerstattung_EUR;Auszahlungsstatus
+GG-260518-1042;2026-05-18 18:44;2026-05-19;168.00;LUNA20;33.60;behalten;0.00;freigegeben
+GG-260519-1188;2026-05-19 07:18;2026-05-20;94.00;LUNA20;18.80;vollstaendig_retourniert;75.20;storniert
+GG-260522-1741;2026-05-22 21:06;2026-05-23;232.00;LUNA20;46.40;teilretoure;72.00;offen
+GG-260531-2490;2026-05-31 23:52;2026-06-02;146.00;LUNA20;29.20;behalten;0.00;freigegeben
+GG-260615-3778;2026-06-15 22:39;2026-06-16;118.00;LUNA20;23.60;behalten;0.00;freigegeben
+GG-260620-4011;2026-06-20 10:17;2026-06-22;184.00;LUNA20;36.80;behalten;0.00;nach_kampagnenende
+GG-260623-4197;2026-06-23 15:41;2026-06-24;76.00;LUNA20;15.20;vollstaendig_retourniert;60.80;storniert
+GG-260629-4586;2026-06-29 08:03;2026-06-30;204.00;LUNA20;40.80;behalten;0.00;nach_kampagnenende

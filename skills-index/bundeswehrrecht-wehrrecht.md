@@ -1,6 +1,6 @@
 # bundeswehrrecht-wehrrecht
 
-**106 Skills** · Stand `v434.1.0`
+**106 Skills** · Stand `v434.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bundeswehrrecht-wehrrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
