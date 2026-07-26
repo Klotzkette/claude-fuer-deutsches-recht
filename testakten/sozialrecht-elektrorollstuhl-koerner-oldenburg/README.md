@@ -66,7 +66,6 @@ sozialrecht-elektrorollstuhl-körner-oldenburg/
 ├── 28_beweisbeschluss_sozialgericht.docx                  <- Gerichtlicher Beweisbeschluss mit Beweisfragen
 ├── 29_gerichtliches_sachverstaendigengutachten.docx       <- Gerichtliches Gutachten mit Untersuchungsbefund
 ├── 30_bsg_rechtsprechungsanalyse.docx                     <- Einschlägige BSG-Rechtsprechung zum Basisausgleich
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv     <- Offene Prüfpunkte zu Fristen und Belegen
 ├── csv/
 │   ├── fristen_koerner.csv                              <- Fristen und Verfahrensstatus als Tabelle
 │   ├── hilfsmittelvergleich.csv                         <- Funktionaler Vergleich der Hilfsmitteloptionen
@@ -84,7 +83,6 @@ sozialrecht-elektrorollstuhl-körner-oldenburg/
 │   ├── 2026-06-27_tochter_an_kanzlei.eml                <- Tochter übersendet Unterlagen und schildert den Alltag
 │   └── 2026-07-18_sachbearbeiterin_kanzlei_rueckfrage.eml <- Interne Rückfrage zu Klagefrist und Zeugin
 ├── eml/
-│   ├── 2026-07-06_sachstand_nachforderung.eml           <- Sachstandsanfrage im Verfahren
 │   └── 2026-09-18_gutachterin_uebersendung.eml          <- Übersendung des Gutachtens an das Gericht
 └── gesamt-pdf/                                          <- konsolidierte Lesefassung als PDF
 ```

@@ -1,5 +1,5 @@
 Export aus internem Kanal #wasserstoffpaket, Spreebogen Regulatory GmbH
-Workspace: spreebogen.slack.example
+Workspace: spreebogen.slack.de
 Channel-Members: lea.sommer, nils.tietjen, mara.wendt, tarek.abadi, frederik.holst
 Datum: 21.05.2026 bis 22.05.2026
 

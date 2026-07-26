@@ -50,8 +50,6 @@ rentenrecht-frührente-kontenluecken-werft-kiel/
     ├── 02_aok_einzugsstelle_auskunft.eml        ← AOK Nordwest: Pflege-Zuordnungsfehler bestätigt, Nordstahl/Minijob ohne RV-Meldung
     ├── 03_sohn_thies_baeckerei_hinweis.eml      ← Sohn zur Beleglage des Minijobs (Mai/Juni bar, ohne Beleg)
     └── chatverlauf_thies_familie.txt            ← WhatsApp-Export Mutter/Sohn zur Unterlagensuche
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
 ```
 
 Der Datenkern in `13_kontenspiegel_wartezeit_datenkern.csv` macht den Streit rechnerisch nachvollziehbar: Die DRV setzt für die Wartezeit von 45 Jahren nur die gemeldeten Pflichtzeiten mit 462 Monaten (38 Jahre 6 Monate) an, während aus den Belegen 62 zusätzliche, teils streitige Monate rekonstruierbar sind. Ob der abschlagsfreie 45-Jahre-Beginn zum 01.01.2028 erreichbar ist, hängt daran, welche dieser Monate zählen.

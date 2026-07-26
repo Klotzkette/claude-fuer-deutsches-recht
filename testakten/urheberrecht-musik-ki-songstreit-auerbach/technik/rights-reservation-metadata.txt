@@ -1,7 +1,7 @@
 Website rights reservation snapshot 2026-05-18
 
 robots.txt: User-agent: * / Disallow: /stems/ / Disallow: /private/
-HTML meta on auerbach.example/catalog: ai-training: noai, noimageai
+HTML meta on auerbach.de/catalog: ai-training: noai, noimageai
 Dataset terms: No automated data extraction, text and data mining, model training or embedding without written permission.
 
 Open question: Neuronest says it detects machine-readable rights reservations. It has not confirmed whether these signals are recognized or whether the training corpus contained older mirrors without the meta tag.

@@ -1,8 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Weltraumrecht Satellitenschwarm Startplatz Kueste"
+name: "Weltraumrecht Satellitenschwarm Startplatz Küste"
 plugin: "weltraumrecht"
 
 checks:
@@ -16,13 +12,36 @@ checks:
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/weltraumrecht-satellitenschwarm-startplatz-kueste_gesamt.pdf"
 
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
+  - id: r03-exportfaehige-unterlagen
+    check_type: working_file_count
+    description: "Mindestens 16 exportierbare Arbeitsunterlagen vorhanden"
+    min: 16
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: r04-satellitenstammdaten-vollstaendig
+    check_type: regex_match
+    description: "Stammdaten reichen vom ersten bis zum dreißigsten Satelliten des Erststarts"
+    path: "05-satellitenregister-stammdaten.csv"
+    pattern: "NLO-A-001[\\s\\S]*NLO-A-030"
+
+  - id: r05-frequenzspitze-auswertbar
+    check_type: regex_match
+    description: "Frequenzmessung enthält den Spitzenwert mit Zeitstempel und Messmodus"
+    path: "06-frequenzmessung-bodenstation-stade.csv"
+    pattern: "2026-07-06T21:28:16Z;8260\\.5;120;-84\\.6;.*Testaussendung"
+
+  - id: r06-telemetrieluecke-auswertbar
+    check_type: regex_match
+    description: "Telemetriedaten grenzen letztes und erstes gültiges Paket zeitlich ein"
+    path: "11-telemetrieereignisse-nlo-pf-03.csv"
+    pattern: "LAST_VALID_PACKET[\\s\\S]*FIRST_VALID_PACKET"
+
+  - id: r07-behoerdennachforderung-vorhanden
+    check_type: file_exists
+    description: "Nachforderung der Bundesnetzagentur vorhanden"
+    path: "04-bundesnetzagentur-nachforderung.docx"
+
+  - id: r08-korrespondenz-vorhanden
+    check_type: file_count
+    description: "Mindestens drei eigenständige E-Mail-Unterlagen vorhanden"
+    glob: "*.eml"
+    min: 3

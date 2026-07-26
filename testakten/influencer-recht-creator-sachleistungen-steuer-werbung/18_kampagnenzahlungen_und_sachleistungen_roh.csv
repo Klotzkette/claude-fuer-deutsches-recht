@@ -1,4 +1,4 @@
-﻿Kampagne;Leistungsdatum;Honorar_Brutto_EUR;Agenturzahlung_EUR;Sachleistung;Wert_EUR;Rueckgabe;Beleg
+﻿Kampagne;Leistungsdatum;Honorar_Netto_EUR;Agenturzahlung_EUR;Sachleistung;Wert_EUR;Rueckgabe;Beleg
 GlowGarden;2026-05-18;8200;6560;Kosmetikset;480;nein;Kundenauftrag GG-188
 AudioPeak;2026-05-22;4500;3600;Kopfhörer;620;offen;Versandbeleg AP-77
 CitySleep;2026-06-04;3800;3040;Hotel und Bahn;912;nicht anwendbar;Hotelrechnung

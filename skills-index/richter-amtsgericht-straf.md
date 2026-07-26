@@ -1,6 +1,6 @@
 # richter-amtsgericht-straf
 
-**13 Skills** · Stand `v434.1.0`
+**13 Skills** · Stand `v434.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-amtsgericht-straf/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

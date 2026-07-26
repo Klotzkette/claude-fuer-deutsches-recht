@@ -110,6 +110,30 @@ def main() -> int:
             }
         )
         require(len(schema_errors) == 3, "Plugin, doppelte ID und unbekannter Typ müssen auffallen")
+        legacy_errors = R.rubric_schema_checks(
+            {
+                "name": "Akte",
+                "plugin": next(iter(R.PLUGIN_NAMES)),
+                "checks": [
+                    {
+                        "id": "r03-mindestens-3-aktenstuecke",
+                        "check_type": "file_count",
+                        "description": "mindestens ein Markdown-Aktenstück",
+                        "glob": "*.md",
+                        "min": 1,
+                    },
+                    {
+                        "id": "r04-fachspezifischer-check-zu-ergaenzen",
+                        "check_type": "human_review",
+                        "description": "Fachspezifischer Check ist zu ergänzen",
+                    },
+                ],
+            }
+        )
+        require(
+            len(legacy_errors) == 4,
+            "Legacy-IDs, Markdown-Aktenchecks und offene Platzhalter müssen auffallen",
+        )
         require(
             "formatvorlagen-paradebeispiele" in R.RUBRIC_EXEMPT_SLUGS
             and "megaprompts" in R.RUBRIC_EXEMPT_SLUGS

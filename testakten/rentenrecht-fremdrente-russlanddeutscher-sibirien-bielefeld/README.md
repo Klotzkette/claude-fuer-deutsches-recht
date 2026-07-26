@@ -46,7 +46,5 @@ rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
 │   └── 03_wittkamp_intern_berechnung_qualifikationsgruppe.eml # Interner Rechenweg QG3 gegen QG2 (Grundlage der Tabelle)
 ├── README.md                                             # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
-├── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
-├── 91_fristsachen_belege_offene_punkte_2026-07-06.csv    # Fristsachen, Belege und offene Punkte (Ergänzung v426)
-└── eml/2026-07-06_sachstand_nachforderung.eml            # Sachstand zur Nachforderung (Ergänzung v426)
+└── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
 ```

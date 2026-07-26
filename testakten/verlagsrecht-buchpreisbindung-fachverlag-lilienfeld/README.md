@@ -22,25 +22,29 @@ Diese Akte gehört zu den Plugins `verlagsrecht-buchpreisbindung`, `verlagsredak
 ## Downloads
 
 - [Gesamt-PDF](gesamt-pdf/verlagsrecht-buchpreisbindung-fachverlag-lilienfeld_gesamt.pdf)
-- Die Einzeldateien in diesem Ordner bilden den Aktenwust aus E-Mail, Tabelle, Vermerk, Bild und Anlagen ab.
+- Die Einzeldateien enthalten Verlagsvertrag, Produkt- und Preisstamm, Lagerschadenprotokoll, Abmahnung, Autoren- und Bibliothekskorrespondenz sowie Verkaufsrohdaten.
 
 ## Aktenstücke
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-sachverhalt-und-offene-punkte.docx` | Chronologie, Rollen, erste Streitpunkte |
-| `02-risiko-und-fristenmatrix.xlsx` | Fristen, Zuständigkeiten, Risikoampel |
-| `03-email-auftakt.eml` | Mandats-/Projektauftakt mit Rückfragen |
-| `04-arbeitsvermerk.docx` | interner Arbeitsvermerk |
-| `05-dashboard.csv` | strukturierte Prüfspur |
-| `06-screenshot-notizen.jpg` | Foto/Screenshot einer chaotischen Arbeitsnotiz |
+| `01-verlagsvertrag-bremer-12-09-2023.docx` | Unterzeichneter Verlagsvertrag LV-2023-119 für Print, E-Book und Datenbank |
+| `02-preisfestsetzung-und-produktstammblatt-02-03-2026.docx` | Preis- und Produktmeldung für Einzelausgaben, Pakete und Campuslizenz |
+| `03-lagerschadenprotokoll-remittenden-23-03-2026.docx` | Gemeinsames Sortierprotokoll zu 180 Exemplaren nach einem Transportschaden |
+| `04-abmahnung-preisbindung-05-05-2026.docx` | Abmahnung zu Händlerangebot und vergünstigtem PraxisPlus-Paket |
+| `05-autorenschreiben-abrechnung-13-05-2026.docx` | Auskunftsverlangen des Autors zu Print-, E-Book-, Datenbank- und Lizenzverkäufen |
+| `06-campuslizenzanfrage-hsm-20-05-2026.docx` | Beschaffungsanfrage einer Hochschulbibliothek mit Nutzerkreis und technischen Anforderungen |
+| `07-email-aktionsbundle-freigabe-07-04-2026.eml` | Interne Freigabeanfrage zum abweichenden Aktionspreis |
+| `08-email-haendler-maengelexemplare-27-04-2026.eml` | Händleranfrage zu 64 als B-Ware gelieferten Exemplaren und 17 Verkäufen |
+| `09-email-bildrechte-und-datenbankupdate-18-05-2026.eml` | Lektoratsnachfrage zur Freigabe einer Abbildung für Print und digitale Nutzung |
+| `10-plattformverkaeufe-q1-q2-2026.csv` | Rohdaten nach Kanal, Artikel, Menge, Erlös und Retouren |
 | `gesamt-pdf/verlagsrecht-buchpreisbindung-fachverlag-lilienfeld_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand
 
-- Ein Fachverlag verkauft Printbuch, E-Book und Datenbankzugang als Bundle mit wechselnden Aktionspreisen.
-- Der Autor verlangt Nachvergütung und Auskunft über Plattformverkäufe.
-- Ein Händler bietet Mängelexemplare online zu früh und zu billig an.
-- Die Redaktion will ein Kapitel mit KI-Unterstützung aktualisieren und Drittgrafiken übernehmen.
-- Eine Bibliothek fordert Campuslizenz und E-Lending-Rechte.
-- Eine Abmahnung behauptet Verstoß gegen die Buchpreisbindung.
+- Der Lilienfeld Fachverlag veröffentlicht die dritte Auflage von „Praxis der kommunalen Wärmewende“ als Printbuch, E-Book und Datenbankangebot.
+- Produktstammblatt und interne Freigabekorrespondenz weisen für das Paket PraxisPlus unterschiedliche Preise aus.
+- Nach einem Transportschaden werden 64 äußerlich unauffällige Exemplare als B-Ware an einen Händler geliefert und dort vergünstigt angeboten.
+- Der Autor fordert kanalbezogene Abrechnungsdaten und eine Klärung der Lagerbewegungen.
+- Eine Hochschulbibliothek fragt eine Campuslizenz mit Fernzugriff, Kapiteldownload und Semesterapparat an.
+- Für ein Datenbankupdate fehlt eine eindeutig dokumentierte Freigabe einer übernommenen Abbildung.

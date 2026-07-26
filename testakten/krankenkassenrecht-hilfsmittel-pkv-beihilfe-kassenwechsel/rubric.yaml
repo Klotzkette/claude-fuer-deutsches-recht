@@ -1,28 +1,37 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Krankenkassenrecht Hilfsmittel Pkv Beihilfe Kassenwechsel"
-plugin: "krankenkassenrecht-krankenversicherung"
-
+name: Krankenkassenrecht Hilfsmittel Pkv Beihilfe Kassenwechsel
+plugin: krankenkassenrecht-krankenversicherung
 checks:
-  - id: r01-readme-vorhanden
-    check_type: file_exists
-    description: "README.md vorhanden"
-    path: "README.md"
-
-  - id: r02-gesamt-pdf-vorhanden
-    check_type: file_exists
-    description: "Gesamt-PDF gebaut"
-    path: "gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf"
-
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
-
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+- id: r01-readme-vorhanden
+  check_type: file_exists
+  description: Die Aktenbeschreibung ist vorhanden.
+  path: README.md
+- id: r02-gesamt-pdf-vorhanden
+  check_type: file_exists
+  description: Die vollständige Lesefassung ist gebaut.
+  path: gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf
+- id: r03-vollstaendiger-arbeitsbestand
+  check_type: working_file_count
+  description: Mindestens zwölf exportierbare Originalunterlagen sind vorhanden.
+  min: 12
+- id: r04-neurologischer-arztbrief
+  check_type: file_exists
+  description: Der neurologische Arztbrief zur Fußheberparese ist vorhanden.
+  path: 19_neurologischer_arztbrief_fussheberparese.docx
+- id: r05-verordnung
+  check_type: file_exists
+  description: Die ärztliche Verordnung des erprobten Systems ist vorhanden.
+  path: 20_aerztliche_verordnung_stepmove_d2.docx
+- id: r06-kostentraegerwechsel
+  check_type: file_exists
+  description: Das Schreiben der neuen gesetzlichen Krankenkasse ist vorhanden.
+  path: 23_gkv_mitgliedsbescheinigung_ab_august.docx
+- id: r07-gehversuch-ohne-hilfsmittel
+  check_type: text_contains
+  description: Die Rohdaten dokumentieren den Abbruch ohne Hilfsmittel.
+  path: 27_gehversuche_stepmove_rohdaten.csv
+  contains: LS267718-03;2026-07-02;09:29;ohne
+- id: r08-gehversuch-stepmove
+  check_type: text_contains
+  description: Die Rohdaten dokumentieren den 74-Meter-Versuch mit StepMove.
+  path: 27_gehversuche_stepmove_rohdaten.csv
+  contains: LS267718-08;2026-07-02;10:20;StepMove_D2;3;74;89.0

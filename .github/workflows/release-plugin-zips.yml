@@ -51,6 +51,7 @@ jobs:
         run: |
           python3 scripts/test-release-assets.py
           python3 scripts/test-testakte-pdf-build.py
+          python3 scripts/test-testakten-email-quality.py
 
       - name: Skill-Aktivierungssignale prüfen
         run: python3 scripts/audit-skill-activation.py

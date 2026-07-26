@@ -10,6 +10,7 @@ als frühes Release-Gate.
 
 from __future__ import annotations
 
+import re
 import sys
 from pathlib import Path
 
@@ -31,6 +32,20 @@ EXPECTED_LABELS = (
     "Gesamt-PDF",
     "Akten-ZIP",
     "Einzel-PDF-ZIP",
+)
+TREE_FILE_PATTERN = re.compile(
+    r"^[\s│]*(?:├──|└──)\s+"
+    r"(?P<path>.+?\.(?:csv|docx|eml|ics|jpeg|jpg|json|odt|pdf|png|rtf|"
+    r"tsv|txt|xlsm|xlsx|xml))"
+    r"(?=\s{2,}|\s+(?:#|<-|←|—)|$)",
+    re.IGNORECASE,
+)
+TABLE_FILE_PATTERN = re.compile(
+    r"^\s*\|\s*`"
+    r"(?P<path>[^`]+?\.(?:csv|docx|eml|ics|jpeg|jpg|json|odt|pdf|png|rtf|"
+    r"tsv|txt|xlsm|xlsx|xml))"
+    r"`\s*\|",
+    re.IGNORECASE,
 )
 
 
@@ -69,6 +84,59 @@ def expected_targets(slug: str) -> tuple[str, str, str]:
     )
 
 
+def validate_file_reference(
+    slug: str,
+    directory: Path,
+    raw_path: str,
+    line_number: int,
+    errors: list[str],
+) -> None:
+    """Prüft einen relativen README-Dateieintrag gegen den Aktenbestand."""
+    reference = Path(raw_path)
+    if reference.is_absolute() or ".." in reference.parts:
+        errors.append(
+            f"{slug}: README-Zeile {line_number} enthält unsicheren Pfad {raw_path}"
+        )
+        return
+    if any(char in raw_path for char in "*?["):
+        found = any(path.is_file() for path in directory.glob(raw_path))
+    elif len(reference.parts) > 1:
+        found = path_exists(directory / reference)
+    else:
+        found = any(
+            path.is_file() and path.name == reference.name
+            for path in directory.rglob(reference.name)
+        )
+    if not found:
+        errors.append(
+            f"{slug}: README-Zeile {line_number} nennt fehlende Datei {raw_path}"
+        )
+
+
+def validate_readme_file_references(
+    slug: str,
+    directory: Path,
+    text: str,
+    errors: list[str],
+) -> None:
+    """Prüft Dateieinträge in README-Baumansichten und Dateitabellen."""
+    for line_number, line in enumerate(text.splitlines(), start=1):
+        matches = [
+            match
+            for pattern in (TREE_FILE_PATTERN, TABLE_FILE_PATTERN)
+            if (match := pattern.match(line))
+        ]
+        if not matches:
+            continue
+        validate_file_reference(
+            slug,
+            directory,
+            matches[0].group("path").strip(),
+            line_number,
+            errors,
+        )
+
+
 def validate_local_readme(slug: str, directory: Path, errors: list[str]) -> int:
     readme = directory / "README.md"
     if not path_exists(readme):
@@ -76,6 +144,7 @@ def validate_local_readme(slug: str, directory: Path, errors: list[str]) -> int:
         return 0
 
     text = read_text(readme)
+    validate_readme_file_references(slug, directory, text, errors)
     begin_count = text.count(BEGIN_MARKER)
     end_count = text.count(END_MARKER)
     if begin_count != 1 or end_count != 1:

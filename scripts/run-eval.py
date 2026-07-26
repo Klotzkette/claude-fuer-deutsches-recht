@@ -51,6 +51,10 @@ SUPPORTED_CHECK_TYPES = {
     "json_field_equals",
     "human_review",
 }
+LEGACY_PLACEHOLDER_IDS = {
+    "r03-mindestens-3-aktenstuecke",
+    "r04-fachspezifischer-check-zu-ergaenzen",
+}
 
 
 def resolve_case_path(akte_dir: Path, raw_path: object) -> Path:
@@ -306,6 +310,26 @@ def rubric_schema_checks(rubric: dict) -> list[CheckResult]:
         check_type = check.get("check_type")
         if check_type not in SUPPORTED_CHECK_TYPES:
             problem("rubric-check-type", f"Check {index}: unbekannter Typ {check_type!r}")
+        if check_id in LEGACY_PLACEHOLDER_IDS:
+            problem(
+                "rubric-legacy-check",
+                f"Check {index}: überholter Platzhalter {check_id!r}",
+            )
+        if (
+            check_type == "file_count"
+            and isinstance(check.get("glob"), str)
+            and check["glob"].lower().endswith(".md")
+        ):
+            problem(
+                "rubric-markdown-check",
+                f"Check {index}: Markdown darf kein exportiertes Aktenstück sein",
+            )
+        description = check.get("description")
+        if isinstance(description, str) and "zu ergänzen" in description.lower():
+            problem(
+                "rubric-placeholder-description",
+                f"Check {index}: offene Platzhalterbeschreibung",
+            )
     return problems
 
 

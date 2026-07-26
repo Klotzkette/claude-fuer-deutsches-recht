@@ -1,0 +1,41 @@
+From: Dr. Sven Rathje <s.rathje@hansesat-dienste.de>
+To: Dr. Nele Martens <n.martens@nordlicht-orbit.de>
+Cc: frequenzkoordination@hansesat-dienste.de, operations@nordlicht-orbit.de
+Date: Wed, 08 Jul 2026 14:07:33 +0200
+Subject: Störbeobachtung 8260,5 MHz am 6. Juli - Bitte um Abgleich Ihrer Testaussendungen
+Message-ID: <20260708140733.hs-bkm-882@hansesat-dienste.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Sehr geehrte Frau Dr. Martens,
+
+unsere Empfangsstelle Borkum hat am 6. Juli 2026 zwischen 21:13 UTC und 21:41 UTC wiederholt ein breitbandiges Signal im Bereich 8258,9 bis 8262,1 Megahertz aufgezeichnet. Der stärkste Pegel lag um 21:28:16 UTC bei minus 84,6 dBm.
+
+In diesem Zeitraum war für unseren Dienst HSD-Coast-4 ein geplanter Downlink angemeldet. Bei drei Überflügen erhöhte sich die Paketfehlerrate von üblicherweise unter 0,4 Prozent auf 8,7 Prozent, 11,2 Prozent und 6,9 Prozent.
+
+Unsere Richtungsbestimmung weist mit einer Unsicherheit von etwa 2,3 Grad in den südöstlichen Sektor. Wir haben erfahren, dass Sie in Stade eine X-Band-Bodenstation für NORDLICHT-1 erproben. Bitte teilen Sie uns mit, ob am 6. Juli zwischen 21:00 UTC und 22:00 UTC Testaussendungen stattgefunden haben.
+
+Angehängt erhalten Sie:
+
+1. den Spektrummitschnitt mit Zeitstempeln;
+2. die Antennenpositionen unserer Station;
+3. die Paketfehlerstatistik der betroffenen Überflüge;
+4. die Kalibrierbescheinigung des Messpfads vom 18. Mai 2026.
+
+Wir schlagen einen technischen Abgleich der Rohdaten am 13. oder 14. Juli vor. Unsere Frequenzkoordinatorin Frau Inga Wilms ist unter 04922 9916-44 erreichbar.
+
+Mit freundlichen Grüßen
+
+Dr. Sven Rathje
+Leiter Bodenbetrieb
+HanseSat Dienste GmbH
+Reedestraße 18, 26757 Borkum
+Telefon 04922 9916-31
+s.rathje@hansesat-dienste.de
+
+Attachments:
+spektrum_borkum_2026-07-06.csv
+antennenpositionen_hsd_coast_4.pdf
+paketfehler_ueberfluege_2026-07-06.xlsx
+kalibrierung_messpfad_2026-05-18.pdf

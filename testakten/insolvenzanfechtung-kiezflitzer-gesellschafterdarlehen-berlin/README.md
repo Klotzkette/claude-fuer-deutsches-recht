@@ -79,7 +79,6 @@ insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin/
 │   ├── 2025-10-20_brosekamp_vorschuss.eml           — Anforderung des Vorschusses durch Brosekamp
 │   ├── 2025-10-23_wittkamp_antwort_kollibri.eml     — Antwort zum Stand der Kollibri-Verhandlungen
 │   ├── 2025-11-07_kollibri_absage.eml               — Absage der Kollibri Ventures GmbH
-│   ├── 2026-07-06_sachstand_nachforderung.eml       — Sachstandsanfrage der Verwalterin vor Klageerhebung
 │   ├── 2026-11-20_ladung_zeuge_wittkamp.eml         — Ladung des Zeugen Wittkamp zum Beweistermin
 │   ├── 2027-06-18_urteilszustellung_trux.eml        — Zustellungsmitteilung des Urteils an die Verwalterin
 │   └── 2027-08-30_zahlungsbestaetigung_brosekamp.eml — Zahlungsbestaetigung Brosekamps nach Rechtskraft

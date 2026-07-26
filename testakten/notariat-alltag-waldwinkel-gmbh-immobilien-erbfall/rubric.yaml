@@ -1,8 +1,4 @@
-# Auto-generierte Baseline-Rubric (v301).
-# Manuelle Anpassung empfohlen - mindestens 3 weitere fall-spezifische
-# Pass/Fail-Checks hinzufuegen (BAG-Az., Frist-Erwaehnung, spezifische Anlage).
-
-name: "Notariat Alltag Waldwinkel Gmbh Immobilien Erbfall"
+name: "Notariat Alltag Waldwinkel GmbH Immobilien Erbfall"
 plugin: "notariat-alltag"
 
 checks:
@@ -16,13 +12,36 @@ checks:
     description: "Gesamt-PDF gebaut"
     path: "gesamt-pdf/notariat-alltag-waldwinkel-gmbh-immobilien-erbfall_gesamt.pdf"
 
-  - id: r03-mindestens-3-aktenstuecke
-    check_type: file_count
-    description: "mindestens 1 Markdown-Aktenstueck"
-    glob: "*.md"
-    min: 1
+  - id: r03-exportfaehige-unterlagen
+    check_type: working_file_count
+    description: "Mindestens 16 exportierbare Arbeitsunterlagen vorhanden"
+    min: 16
 
-  - id: r04-fachspezifischer-check-zu-ergaenzen
-    check_type: human_review
-    description: "Fachspezifischer Pass/Fail-Check fuer dieses Mandat fehlt - manuell ergaenzen"
-    note: "Beispiel: Vor jeder Schriftsatz-Ausgabe muss BAG-Az. live verifiziert werden"
+  - id: r04-gesellschafterliste-konsistent
+    check_type: regex_match
+    description: "Gesellschafterliste enthält den neuen Nennbetragsstand für Nachlass und Charlotte Falk"
+    path: "05-gesellschafterliste-rohdaten.csv"
+    pattern: "Nachlass Karl-Heinz Falk.*60000;70\\.5882[\\s\\S]*Charlotte Falk.*25000;29\\.4118"
+
+  - id: r05-grundbuchlast-sichtbar
+    check_type: text_contains
+    description: "Grundbuchdaten weisen das Fahr- und Leitungsrecht aus"
+    path: "06-grundbuch-bestandsdaten.csv"
+    contains: "Fahr- und Leitungsrecht"
+
+  - id: r06-kaufpreisstruktur-sichtbar
+    check_type: regex_match
+    description: "Zahlungsdaten trennen Sicherungsbetrag und Restkaufpreis des Anteilskaufs"
+    path: "16-kaufpreis-zahlungsdaten.csv"
+    pattern: "180000.*Sicherungsbetrag[\\s\\S]*1620000.*Restkaufpreis"
+
+  - id: r07-registerverfuegung-vorhanden
+    check_type: file_exists
+    description: "Registergerichtliche Zwischenverfügung vorhanden"
+    path: "04-registergericht-zwischenverfuegung.docx"
+
+  - id: r08-korrespondenz-vorhanden
+    check_type: file_count
+    description: "Mindestens drei eigenständige E-Mail-Unterlagen vorhanden"
+    glob: "*.eml"
+    min: 3

@@ -1,74 +1,417 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4091
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 56.69291 807.874 Tm
+(Hausarztpraxis Dr\056 Rainer Krumm) Tj
+T*
+ET
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0.360784 0.396078 0.411765 rg
+BT
+1 0 0 1 430.1777 807.874 Tm
+(Patientin AK\05518442 \267 14\05610\0562024) Tj
+T*
+ET
+n
+56.69291 796.5354 m
+538.5827 796.5354 l
+S
+BT
+1 0 0 1 56.69291 32.59843 Tm
+(Vertrauliche Aktenunterlage) Tj
+T*
+ET
+BT
+1 0 0 1 515.2352 32.59843 Tm
+(Seite 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 62.69291 752.5276 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 17 Tf
+21 TL
+(Hausarztpraxis Dr\056 Rainer Krumm) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 730.0276 cm
+q
+0.360784 0.396078 0.411765 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 8.2 Tf
+10.5 TL
+(Breite Stra\337e 7 \267 16225 Eberswalde) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 712.5276 cm
+q
+0.360784 0.396078 0.411765 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 8.2 Tf
+10.5 TL
+(Telefon 03334 33118 \267 praxis\100krumm\056de) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.0276 cm
+q
+0.360784 0.396078 0.411765 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 8.2 Tf
+10.5 TL
+(Dr\056 med\056 Rainer Krumm) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 679.5236 cm
+Q
+q
+1 0 0 1 62.69291 659.3236 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10.2 Tf
+14.2 TL
+(Frau Dr\056 Annika K\366rber) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 638.1236 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10.2 Tf
+14.2 TL
+(Friedrich\055Ebert\055Stra\337e 19) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.9236 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10.2 Tf
+14.2 TL
+(16225 Eberswalde) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 595.7236 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10.2 Tf
+14.2 TL
+(Ausfertigung f\374r die Patientin) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.0543 cm
+Q
+q
+1 0 0 1 62.69291 566.5543 cm
+q
+BT
+1 0 0 1 0 2.3 Tm
+10.5 TL
+/F2 8.2 Tf
+0.360784 0.396078 0.411765 rg
+(Datum\072) Tj
+/F1 8.2 Tf
+( 14\056 Oktober 2024  ) Tj
+(  ) Tj
+/F2 8.2 Tf
+(Aktenzeichen\072) Tj
+/F1 8.2 Tf
+( Patientin AK\05518442 \267 14\05610\0562024) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.4677 cm
+Q
+q
+1 0 0 1 62.69291 531.4677 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 17 Tf
+21 TL
+(\304rztliche Bescheinigung \374ber Arbeitsunf\344higkeit) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 504.4677 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 12 Tf
+15 TL
+(1\056 Feststellung) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.8677 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 32.4 Tm
+/F1 10.2 Tf
+14.2 TL
+(Bei Frau Dr\056 Annika K\366rber wurde Arbeitsunf\344higkeit vom 14\05610\0562024 bis voraussichtlich einschlie\337lich) Tj
+T*
+(25\05610\0562024 festgestellt\056 Die Beurteilung beruht auf pers\366nlicher \344rztlicher Untersuchung und dem zum) Tj
+T*
+(Ausstellungszeitpunkt bekannten Verlauf\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.8677 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 12 Tf
+15 TL
+(2\056 Medizinische Angabe der Patientenausfertigung) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 397.4677 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18.2 Tm
+/F1 10.2 Tf
+14.2 TL
+(Diagnose\072 akute Infektion der oberen Atemwege\056 Diese Angabe ist f\374r die Patientin bestimmt und nicht) Tj
+T*
+(Bestandteil einer Arbeitgeberausfertigung\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.4677 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 12 Tf
+15 TL
+(3\056 Verlaufshinweis) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0677 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18.2 Tm
+/F1 10.2 Tf
+14.2 TL
+(Haus\344rztliche Erstfeststellung\073 Wiedervorstellung bei anhaltendem Fieber oder Atemnot\073) Tj
+T*
+(voraussichtliche Arbeitsaufnahme am 28\056 Oktober\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0677 cm
+q
+0.094118 0.223529 0.254902 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 12 Tf
+15 TL
+(4\056 \334bermittlung) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 280.6677 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 18.2 Tm
+/F1 10.2 Tf
+14.2 TL
+(Die elektronische Meldung an die Krankenkasse wurde am Ausstellungstag veranlasst\056 Bei) Tj
+T*
+(Fortbestehen \374ber das Enddatum hinaus ist eine erneute \344rztliche Feststellung erforderlich\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.7465 cm
+Q
+q
+1 0 0 1 62.69291 229.3465 cm
+q
+BT
+1 0 0 1 0 18.2 Tm
+14.2 TL
+/F2 10.2 Tf
+0 0 0 rg
+(Dr\056 med\056 Rainer Krumm) Tj
+/F1 10.2 Tf
+T*
+(behandelnder Arzt) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/F1 6 0 R
+/F2 7 0 R
 >>
 endobj
 6 0 obj
 <<
-/Author (Klotzkette) /CreationDate (D:20260715113500+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260715113500+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\304rztliche Bescheinigung \374ber Arbeitsunf\344higkeit) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1467
+/Author (Klotzkette)
+/CreationDate (D\07220260715113500\05302\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260715113500\05302\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (\304rztliche Bescheinigung \374ber Arbeitsunf\344higkeit)
+/Trapped /False
 >>
-stream
-Gatm:9iL+2&A@ZcqT,N@`KL/0Hc])L,t57#)eM#F/ctdk.(1uUbHSsh:J3K%L765QO.lu6/ZE*lpUXQK,5U9WpN6RW4GR:i3,eoi"n7nu0`Me]k6JI$iJW6AIjeF1IF"W3ju`kqKM4d"cQk+e!I!]dnEoI3b0iTj*:bLfGt*QIE;7'1>%Jf2NE&2b$R_7Vhb"ipE,N:bq#L#9@K)/qZ3?Mu,R!R'b;@B4(mllP+2A.QQ6spEa"h*dbH`Lhs&)UeESA4pr.sNU/DsF%R892?9LL'G75p:sZQ`t;9O_ZXOZ?'TOZgFZiF6HF;Qut<@i6J?8*d8AC43c^QrOVjB,oW//b*Pl__F8^T%^*_>bH6GI'huc8_!3#7?9C$9d35%>5C?UWsAbs?>H-X^'47a^Hes*Hbb^Ud3G#Ml9uh_gqY*)Y`1.XmfPmuC]b%]7-LJ3)+(c30bkm`djqfm]rF_q!0'5%l0Zj[=Q<k-+HfXB+Jku!@,%p[>NI;Dpd6nto`TYVOh<>i?G-QdQV*WW"n<i?Nnk)+K$!D3gOgo%hIA5,dI_9F"B9#5)8TE2@s"R*r)0Dk,on?UUN5F6#ct;<<0Ki/2=B\U;S8A.S#<?4FmPI,2'FnhYDtR-g'-T:Q^q9ri_jBnKi0-(4`LOR>d>cO<j^0W8P2-c]ARk1.=3FsOg79_hq$jijgsSa5W5q>U!F([<,PFsJT'9C@Emd)3BI*m1tr9-NS!MVksZh*+"u,]j-40#?="m!(;.$s?cjdoG.a4ga4Sg-RuOFS<6rXEC.GnE1F.#]YOo,pIj_$(`NMNU#F$1BD&NjrE/(K1*S*)6qg%Zj8Q\.Zhed6LL&:gsN#MCJ'"ICHM7\Uq]6,om)m3ksh6#q;[O$q9d6JBZdBuI$*W2BjTgOqN)]+b.&jsg%_27mVFOm/Z$im!b<Xr*<J/bM6O3@_=/U/t_U_^]?Ma?*'YPbQKPYbfk&)GU0I3nX#[Ua2ue!\A+q3<_Be\HBYYNQa<!pSdhr1+N<$pJ1#+39CX\E'$R\j?I:q\hhs7Qotuk[]g8r4(Jo4;@?-9:T\'2!YoAJuUlC1&PGq=?0+Ifq\,_K@lVQD!l;"6*YUKX]r9@9+oRQdnSkS1r_Uf&;I44.8tQ3]jldh>U"k?k<;0MRE9Y'7`fsPZn$"];7@4ubCW0$+lD/ra2Wj4gUbA&-[^MqB_nI">3fN-\Jg]8WLD&jD1AEGFg1RcH(iI9I2_<u<hr*.;k?I\)?eT@aG3&9KljnJ8+/i,9dj`l^)o;f\S4c7j:P&Bk'.$?Jl^1"[q5=Pld@Si9^qS_<Mi)]WKsX"Bo9jW\>)$kKKHK?WG)h71$YeAj(E/n]`4++kqHsHe\\:790]G-r'd'-lL>ShBFXgdHfB_KA=sZq28QNrdfbLq.TmP9ojH[Y'nWT_gBG'uWU&dURVaM?ao9%:nsK!``tbbUhQ\uTT9S4hr,D-I5X+8)~>endstream
 endobj
 xref
 0 9
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000912 00000 n 
-0000000971 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000004484 00000 n 
+0000004525 00000 n 
+0000004632 00000 n 
+0000004744 00000 n 
 trailer
 <<
-/ID 
-[<ced79135b3e3b40b654119324d8cac21><ced79135b3e3b40b654119324d8cac21>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
 /Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [ (\316\327\2215\263\343\264\013eA\0312M\214\254\041) (\316\327\2215\263\343\264\013eA\0312M\214\254\041) ]
 >>
 startxref
-2529
+5100
 %%EOF

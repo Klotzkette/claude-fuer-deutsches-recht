@@ -1,0 +1,16 @@
+zeit_utc;quelle;ereigniscode;wert;einheit;sequenz;kommentar
+2026-06-14T03:41:11Z;Thermalkammer;TEMP_SETPOINT;-18.0;Grad_C;4417;Sollwert abgesenkt
+2026-06-14T03:41:16Z;NLO-PF-03;BUS_VOLTAGE;27.9;Volt;188438;Versorgung stabil
+2026-06-14T03:41:18Z;BLS-GS-4;LAST_VALID_PACKET;1;Paket;188440;letztes gültiges Telemetriepaket
+2026-06-14T03:41:19Z;BLS-GS-4;SIGNAL_LEVEL;-112.3;dBm;188440;unter Empfangsschwelle
+2026-06-14T03:42:07Z;Spektrumanalyse;NARROW_SIGNAL;2242.47;MHz;7781;schmales Signal sichtbar
+2026-06-14T03:43:30Z;FM-07;ADAPTER_VOLTAGE;28.0;Volt;92311;keine Unterbrechung erfasst
+2026-06-14T03:44:12Z;NLO-PF-03;WATCHDOG_RESET;1;Ereignis;0;aus späterem Bordprotokoll
+2026-06-14T03:46:30Z;Testleitung;RESTART_COMMAND;7F21;Hex;1034;Neustart ausgelöst
+2026-06-14T03:46:34Z;FM-07;ADAPTER_CURRENT;1.84;Ampere;92394;kurzer Stromanstieg
+2026-06-14T03:47:59Z;Spektrumanalyse;NARROW_SIGNAL_END;2242.47;MHz;8142;Signal nicht mehr sichtbar
+2026-06-14T03:48:52Z;BLS-GS-4;FIRST_VALID_PACKET;1;Paket;188441;Telemetrie wieder empfangen
+2026-06-14T03:48:53Z;NLO-PF-03;BOOT_COUNTER;2;Anzahl;188442;zwei Neustarts protokolliert
+2026-06-14T03:49:20Z;BLS-GS-4;SIGNAL_LEVEL;-76.0;dBm;188458;Signal stabil
+2026-06-14T03:52:00Z;Testleitung;TEST_ABORT;1;Ereignis;1051;Test beendet
+2026-06-14T04:16:22Z;Wareneingang;SEAL_APPLIED;BLS005871;Text;1;Kommunikationsmodul und J14 versiegelt
