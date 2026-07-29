@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+### 3.1. Verwaltungshandeln
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+### 3.2. Zulässigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+### 3.3. Materielle Rechtmäßigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+### 3.4. Eilrechtsschutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Beschwerdemanagement | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verwaltungshandeln | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Fristen- und Zuständigkeitscockpit | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Zulässigkeit | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -94,13 +94,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne |
-| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven |
-| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen |
-| BVerwG, Urteil vom 12.01.2012 - 7 C 5.11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende |
-| BVerwG, Urteil vom 09.12.2015 - 6 C 37.14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -119,11 +113,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
-- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
-- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen Feststellungsklage geklärt werden.
-- BVerwG, Urteil vom 12.01.2012 - 7 C 5.11: Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende und rechtsschutzsichernde Grundlage voraus.
-- BVerwG, Urteil vom 09.12.2015 - 6 C 37.14: Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen überbrücken, nicht lediglich deren künftigen Fortbestand absichern.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -135,15 +125,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VwVfG Paragraf 35; VwVfG Paragraf 28.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verwaltungshandeln.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -173,58 +165,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Beschwerdemanagement
+### 15.1. Verwaltungshandeln
 
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Fristen- und Zuständigkeitscockpit
+### 15.2. Zulässigkeit
 
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Fristenkontrolle
+### 15.3. Materielle Rechtmäßigkeit
 
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Honorar, Gebühren und Vergütung
+### 15.4. Eilrechtsschutz
 
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Kammerbeschwerde Organisationspflic Ki
+### 15.5. Arbeitsprodukt
 
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Kammerbeschwerde Steuerberater Kammerantwort
+### 15.6. Beschwerdemanagement
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Kammerbeschwerde Steuerberater Rechtsprechungsche
+### 15.7. Fristen- und Zuständigkeitscockpit
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Lohnbuchhaltung Fristenversäumnis
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Lohnbuchhaltung Fristenversäumnis Organisationsp
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Lohnbuchhaltung Fristenversäumnis Rechtsprechung
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Mandatskündigung Vor Frist Kammerantwort und Ver
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Mandatskündigung Vor Frist Organisationspflicht
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Mandatskündigung Vor Frist Rechtsprechungscheck
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Qualitätsmanagement Fristen Organisationspflicht
-
-Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs. 1 StBerG — allgemeine Berufspflichten. - Paragraf 57a StBerG — Werbung. - Paragraf 64 StBerG — Gebühren. - Paragraf 67 StBerG — Handakten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 32 StBerG — Hilfeleistung in Steuersachen. - Paragraf 33 StBerG — Befugnis der Steuerberater. - Paragraf 57 Abs.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

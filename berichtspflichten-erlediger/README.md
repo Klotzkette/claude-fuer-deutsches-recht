@@ -55,6 +55,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`abfallnachweis-nachwv-api-zugang`](skills/abfallnachweis-nachwv-api-zugang/SKILL.md), [`arbeitsschutz-unterweisung-nachweise`](skills/arbeitsschutz-unterweisung-nachweise/SKILL.md), [`datenminimierung-geheimnisschutz`](skills/datenminimierung-geheimnisschutz/SKILL.md), [`fuhrpark-telemetrie-datenschutz`](skills/fuhrpark-telemetrie-datenschutz/SKILL.md), [`maschinen-ce-konformitaetsakte`](skills/maschinen-ce-konformitaetsakte/SKILL.md), [`mindestlohndokumentation-arbeitszeit`](skills/mindestlohndokumentation-arbeitszeit/SKILL.md), [`nachweisordner-dokumentenmatrix`](skills/nachweisordner-dokumentenmatrix/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`battg-batterieregister-mengen`](skills/battg-batterieregister-mengen/SKILL.md), [`behoerdenkommunikation`](skills/behoerdenkommunikation/SKILL.md), [`berichtspflichten-register-und-fristenboard`](skills/berichtspflichten-register-und-fristenboard/SKILL.md), [`mutterschutz-gefaehrdungsbeurteilung`](skills/mutterschutz-gefaehrdungsbeurteilung/SKILL.md), [`transparenzregister-gwg-ubo`](skills/transparenzregister-gwg-ubo/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`csrd-esrs-lagebericht`](skills/csrd-esrs-lagebericht/SKILL.md), [`lksg-bafa-bericht`](skills/lksg-bafa-bericht/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`arbeitsunfall-dguv-audit-trail`](skills/arbeitsunfall-dguv-audit-trail/SKILL.md), [`audit-trail-freigabe`](skills/audit-trail-freigabe/SKILL.md), [`energieaudit-edl-entsendungen-a1-eudr`](skills/energieaudit-edl-entsendungen-a1-eudr/SKILL.md) |
@@ -66,7 +67,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -102,6 +103,7 @@ Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Jeder Sk
 | [`idev-estatistik-core`](skills/idev-estatistik-core/SKILL.md) | Wenn es um IDEV und eSTATISTIK.core praktisch nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und... |
 | [`immobilien-gebaeudeenergie-geg`](skills/immobilien-gebaeudeenergie-geg/SKILL.md) | Wenn es um Gebäudeenergie und GEG-Nachweise in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. |
 | [`jahresabschluss-bundesanzeiger-keine`](skills/jahresabschluss-bundesanzeiger-keine/SKILL.md) | Wenn es um Jahresabschluss und Offenlegung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Berichtspflichten Erlediger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md) | Wenn es um Berichtspflichten: Kaltstart und Pflichtenscan in Berichtspflichten-Erlediger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`keine-pflicht-begruendet-ablehnen`](skills/keine-pflicht-begruendet-ablehnen/SKILL.md) | Wenn es um Keine Pflicht: sauber begründet ablehnen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`ki-einsatz-lohnsteuer`](skills/ki-einsatz-lohnsteuer/SKILL.md) | Wenn es um digitale Werkzeuge zum Ausfüllen und Validieren nutzen in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständig... |

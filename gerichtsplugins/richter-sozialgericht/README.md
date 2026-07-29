@@ -126,7 +126,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 3. Prüfung, Anspruch und Subsumtion | [`04-krankenversicherung-pruefung`](skills/04-krankenversicherung-pruefung/SKILL.md), [`05-rentenversicherung-pruefung`](skills/05-rentenversicherung-pruefung/SKILL.md), [`06-unfallversicherung-pruefung`](skills/06-unfallversicherung-pruefung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`04-krankenversicherung-pruefung`](skills/04-krankenversicherung-pruefung/SKILL.md), [`05-rentenversicherung-pruefung`](skills/05-rentenversicherung-pruefung/SKILL.md), [`06-unfallversicherung-pruefung`](skills/06-unfallversicherung-pruefung/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`01-zulaessigkeit-sozialklage`](skills/01-zulaessigkeit-sozialklage/SKILL.md), [`02-amtsermittlung-sozialgericht`](skills/02-amtsermittlung-sozialgericht/SKILL.md), [`09-urteil-sozialgericht`](skills/09-urteil-sozialgericht/SKILL.md), [`10-entscheidungsvorschlag-sozialgericht`](skills/10-entscheidungsvorschlag-sozialgericht/SKILL.md), [`v392-praxisraster-richter-sozialgericht`](skills/v392-praxisraster-richter-sozialgericht/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`03-eilrechtsschutz-paragraf-86b`](skills/03-eilrechtsschutz-paragraf-86b/SKILL.md), [`07-buergergeld-und-sgb-ii`](skills/07-buergergeld-und-sgb-ii/SKILL.md), [`08-schwerbehinderung-und-grad`](skills/08-schwerbehinderung-und-grad/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
@@ -136,7 +136,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -151,6 +151,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-urteil-sozialgericht`](skills/09-urteil-sozialgericht/SKILL.md) | Wenn es um 09 Urteil Sozialgericht in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-entscheidungsvorschlag-sozialgericht`](skills/10-entscheidungsvorschlag-sozialgericht/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Sozialgericht) in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Sozialgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-richter-sozialgericht`](skills/v392-praxisraster-richter-sozialgericht/SKILL.md) | Wenn es um Praxisraster Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

@@ -51,25 +51,25 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Heranziehung und Rolle: Stelle, Auftrag, Datum, Tätigkeit, Beweisfragen, Abschluss und Abrechnungsadressat bestimmen.
+### 3.1. Heranziehung und Rolle
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Heranziehung und Rolle: Stelle, Auftrag, Datum, Tätigkeit, Beweisfragen, Abschluss und Abrechnungsadressat bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Frist und Vorschuss: Beginn der Ausschlussfrist, Eingang der Rechnung, Wiedereinsetzung, Vorschuss und Kostenwarnung sichern.
+### 3.2. Frist und Vorschuss
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Frist und Vorschuss: Beginn der Ausschlussfrist, Eingang der Rechnung, Wiedereinsetzung, Vorschuss und Kostenwarnung sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Rechenblatt: Zeit, Honorargruppe, besondere Leistung, Fahrt, Aufwand, Kopien, Umsatzsteuer und bereits gezahlte Beträge einzeln belegen.
+### 3.3. Rechenblatt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechenblatt: Zeit, Honorargruppe, besondere Leistung, Fahrt, Aufwand, Kopien, Umsatzsteuer und bereits gezahlte Beträge einzeln belegen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Kürzung und Rechtsbehelf: Auftragsüberschreitung, mangelhafte Leistung, Warnpflicht, gerichtliche Festsetzung und Beschwerde prüfen.
+### 3.4. Kürzung und Rechtsbehelf
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Kürzung und Rechtsbehelf: Auftragsüberschreitung, mangelhafte Leistung, Warnpflicht, gerichtliche Festsetzung und Beschwerde prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Abrechnung, Festsetzungsantrag, Kürzungserwiderung, Beschwerde oder Zeugenentschädigungsantrag mit Summenprobe erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Abrechnung, Festsetzungsantrag, Kürzungserwiderung, Beschwerde oder Zeugenentschädigungsantrag mit Summenprobe erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
@@ -128,15 +128,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Abrechnung, Festsetzungsantrag, Kürzungserwiderung, Beschwerde, Vorschussantrag oder Zeugenentschädigung.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind JVEG Paragraf 1 und Paragraf 2; JVEG Paragraf 3.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Ausschlussfrist.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Berechtigter für Heranziehung, Fristwahrung, Zeit, Honorargruppe und Auslage; Staatskasse für Kürzungstatbestand, Überschreitung und Einwendung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise JVEG-Rechenblatt: Tätigkeit, Datum, Dauer, Satz, Betrag, Auslage, Beleg, Kürzung, Zwischensumme und Umsatzsteuer; Festsetzungsantrag: Heranziehung, Fristwahrung, Tätigkeit, Berechnung, Belege, Streitpunkt und bezifferter Antrag.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 17.06.2014 - X ZR 95/11; BGH, Beschluss vom 28.07.2009 - X ZR 139/07.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,24 +170,24 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Ausschlussfrist
 
-Heranziehung und tätigkeitsabhängigen Beginn der dreimonatigen Frist mit Eingangs- und Abschlussnachweisen bestimmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Heranziehung und tätigkeitsabhängigen Beginn der dreimonatigen Frist mit Eingangs- und Abschlussnachweisen bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.2. Zeit und Honorargruppe
 
-Auftrag, Beweisfragen, Tätigkeitsprotokoll, Fachkunde, Zeitansatz und gesetzliche Honorargruppe plausibilisieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Auftrag, Beweisfragen, Tätigkeitsprotokoll, Fachkunde, Zeitansatz und gesetzliche Honorargruppe plausibilisieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.3. Besondere Vergütung
 
-Einverständnis, gerichtliche Zustimmung und ausreichende Einzahlung nach JVEG Paragraf 13 getrennt prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einverständnis, gerichtliche Zustimmung und ausreichende Einzahlung nach JVEG Paragraf 13 getrennt prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.4. Fahrt und sonstige Aufwendungen
 
-Erforderlichkeit, Strecke, Abwesenheit, Beleg, Pauschale, Hilfskraft, Kopie und Umsatzsteuer einzeln berechnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erforderlichkeit, Strecke, Abwesenheit, Beleg, Pauschale, Hilfskraft, Kopie und Umsatzsteuer einzeln berechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.5. Zeugen und ehrenamtliche Richter
 
-Zeitversäumnis, Haushalt, Verdienstausfall, Höchstbetrag und Nachweis nach Berechtigtenrolle zuordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zeitversäumnis, Haushalt, Verdienstausfall, Höchstbetrag und Nachweis nach Berechtigtenrolle zuordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.6. Festsetzung und Beschwerde
 
-bezifferten Antrag, Zuständigkeit, Kürzungspunkt, Beschwerdewert, Zulassung und Einreichungsweg aufbauen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+bezifferten Antrag, Zuständigkeit, Kürzungspunkt, Beschwerdewert, Zulassung und Einreichungsweg aufbauen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

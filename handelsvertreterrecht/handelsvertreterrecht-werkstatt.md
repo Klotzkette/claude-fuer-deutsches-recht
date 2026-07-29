@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+### 3.1. Status und Register
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen.
+### 3.2. Vertretung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Geschäft: Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen.
+### 3.3. Geschäft
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Geschäft: Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Leistungsstörung: Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen.
+### 3.4. Leistungsstörung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Leistungsstörung: Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen verbinden. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Status und Register | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Email Chat Beweise | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Vertretung | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Status und Register.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Status und Register, Vertretung, Geschäft, Leistungsstörung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,58 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO
+### 15.1. Status und Register
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Email Chat Beweise
+### 15.2. Vertretung
 
-Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Fristlose Kündigung nach Paragraf 89a HGB — wichtiger Grund und Rechtsfolgen
+### 15.3. Geschäft
 
-Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach Paragraf 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach Paragraf 89a Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB
+### 15.4. Leistungsstörung
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen verbinden. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot
+### 15.5. Arbeitsprodukt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Kündigungsfristen 89
+### 15.6. Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO
 
-Vertragsdauer, gesetzliche Mindestfristen, Gleichlauf, Zugang, Form und Fristenkalender. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Nachvertragliche Provision
+### 15.7. Email Chat Beweise
 
-Voranbahnung, Auftragseingang, angemessene Frist, Nachfolgerkonflikt und Abrechnung. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Provision nach Vertragsende nach Paragraf 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
-
-Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach Paragraf 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach Paragraf 87 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Provisionsklage nach Paragrafen 87 ff. HGB — Klageschrift, Beweise und Strategie
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Statuscheck Handelsvertreter nach Paragraf 84 HGB
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Authentizität, Kontext, Screenshots, Export, Datenschutz, Geschäftsgeheimnisse und Anlagenlogik. Dieser Skill arbeitet nicht als abstraktes Merkblatt. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

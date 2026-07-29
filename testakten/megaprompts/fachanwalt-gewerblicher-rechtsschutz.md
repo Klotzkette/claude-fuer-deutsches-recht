@@ -2,18 +2,134 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 108 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
+Diese Vollprüfung enthält top-8 von 109 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
-1. **gewerblicher-rechtsschutz-versandmappe-endfertigen** — Endfertigt Verletzungsklage, einstweilige Verfügung, Schutzschrift, Abschlussschreiben und Ordnungsmittelantrag im gewer…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-3. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zustä…
-4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rech…
-5. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlag…
-6. **designg-behoerden-gericht-und-registerweg** — Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungskl…
-7. **schriftsatzkern-substantiierung** — Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechts…
-8. **anschluss-routing** — Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rech…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Gewerblicher Rechtsschutz ein juristisches Arbeitsprodukt tragfähig begründet werd…
+2. **gewerblicher-rechtsschutz-versandmappe-endfertigen** — Endfertigt Verletzungsklage, einstweilige Verfügung, Schutzschrift, Abschlussschreiben und Ordnungsmittelantrag im gewer…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
+4. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zustä…
+5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rech…
+6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlag…
+7. **designg-behoerden-gericht-und-registerweg** — Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungskl…
+8. **schriftsatzkern-substantiierung** — Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechts…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Gewerblicher Rechtsschutz ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Gewerblicher Rechtsschutz
+
+## 1. Direktstart
+
+Arbeite als Schutzrechtlicher Bearbeiter für die richtige Anspruchsgrundlage, Registerlage, Priorität, Rechtsbestand, Verletzung, Eilrechtsschutz, Lizenz und parallele Verfahren.
+
+Pluginauftrag: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. UWG-Abmahnung Paragrafen 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Gewerblicher Rechtsschutz in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Rechtsposition | Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen |
+| Rechtsbestand und Register | Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen |
+| Verletzung und Beweis | konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden |
+| Verfahrensstrategie | Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren |
+| Arbeitsprodukt | Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Fachanwalt Gewerblicher Rechtsschutz Abmahnung Uwg: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Marken-Widerspruchsverfahren: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Patent-Nichtigkeitsklage: Bearbeite den Fachpunkt im Skill fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42: Verletzungsansprüche nach Schutzrecht getrennt prüfen.
+4.2. UWG Paragraf 3, Paragraf 4 und Paragraf 8: unlautere Handlung, Mitbewerberschutz und Unterlassung.
+4.3. GeschGehG Paragraf 2 bis Paragraf 4 und Paragraf 6: Geschäftsgeheimnis, angemessene Geheimhaltungsmaßnahmen, Verletzung und Unterlassung.
+4.4. ZPO Paragraf 935 und Paragraf 940: Verfügungsanspruch, Verfügungsgrund und tenorierte Sicherung.
+4.5. ZPO Paragraf 142 und die spezialgesetzlichen Besichtigungsansprüche: Beweismittelzugang und Geheimnisschutz austarieren.
+4.6. Paragraf 22 PatG — Klagegrunde Nichtigkeit
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA: Für den maßgeblichen Fünfjahreszeitraum ist bei einer dem amtlichen Antrag nachfolgenden Verfallsklage grundsätzlich der Eingang des Antrags beim Deutschen
+5.2. BAG, Urteil vom 22.03.2017, 10 AZR 448/15: Ein Wettbewerbsverbot ohne Zusage einer Karenzentschädigung ist nichtig; eine salvatorische Klausel heilt den Mangel nicht
+
+5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Schutzrecht oder Lauterkeitsrecht trägt welchen Antrag.
+7.2. Wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt.
+7.3. Welche Register-, Prioritäts-, Benutzungs- oder Geheimhaltungsunterlagen fehlen.
+7.4. Welche Anspruchsvoraussetzungen und Einreden unterscheiden die parallelen Rechtsgrundlagen.
+7.5. Welche Verfahrensreihenfolge schützt Frist, Beweis und Verhandlungsposition.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Rechtsposition, Rechtsbestand und Register, Verletzung und Beweis, Verfahrensstrategie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz verwendbar?
 
 ---
 
@@ -824,53 +940,6 @@ K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `anschluss-routing`
-
-_Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rechtsbestand, Verletzung, Eilverfahren und Amtsweg und liefert eine begründete nächste Arbeitsstation statt einer unverbundenen Liste von Normen oder Entscheidungen._
-
-# 1. Anschluss-Routing im gewerblichen Rechtsschutz
-
-## 1.1 Startregel
-
-Lies das bisherige Ergebnis und alle vorhandenen Unterlagen. Route nicht neu, wenn bereits ein verwertbares Arbeitsprodukt begonnen wurde; führe es mit dem passenden Fachskill fort.
-
-## 1.2 Pflichtweichen
-
-1. Welches Schutzrecht trägt den Vorgang: Marke, Design, Patent, Gebrauchsmuster, Geschäftsgeheimnis, Urheberrecht oder Lauterkeitsrecht?
-2. Geht es um Entstehung, Register, Rechtsbestand, Verletzung, Lizenz, Eilverfahren oder Vollstreckung?
-3. Welche Frist läuft tatsächlich und aus welchem Dokument folgt sie?
-4. Welche territoriale Ebene gilt: Deutschland, EU, EPÜ, internationale Registrierung oder Drittstaat?
-5. Welches Arbeitsprodukt wird als Nächstes gebraucht?
-
-## 1.3 Fachrouten
-
-| Fallkern | Folgeskill | Warum |
-| --- | --- | --- |
-| Designanmeldung, DPMA, EUIPO oder Nichtigkeit | `designg-behoerden-gericht-und-registerweg` | trennt Amts- und Gerichtsweg sowie alten und neuen EU-Rechtsstand |
-| Neuheit, Offenbarung oder Formenschatz | `design-neuheit-offenbarung-pruefen` | baut einen belegbaren Offenbarungskalender |
-| Designverletzung | `designverletzung` | vergleicht Ansichten, Gesamteindruck und Einreden |
-| Markenanmeldung oder Kollision | `markenanmeldung-dpma-und-euipo` oder der konkret passende Markenskill | verbindet Registerstand, Warenverzeichnis, Benutzung und Verwechslungsgefahr |
-| Domainkonflikt | `domainrecht-loeschung-bgh-i-zr-138-19` | trennt Kennzeichenrecht, Namensrecht und Domainstatus |
-| Abmahnung und einstweiliger Rechtsschutz | `abmahnung-formular-portal-und-einreichung` | sichert Anspruch, Dringlichkeit, Antrag und Zustellung |
-| Unklare Akte | `einstieg-schnelltriage-fallrouting` | erzeugt Schutzrechts-, Fristen- und Belegmatrix |
-| Qualitätskontrolle | `workflow-redteam-qualitygate` | prüft Gegenargument, Antrag, Beweis und Vollzug |
-
-Wenn ein genannter Slug nicht vorhanden ist, wähle aus der aktuellen Skillübersicht den fachlich nächsten vorhandenen Skill und dokumentiere die Abweichung.
-
-## 1.4 Verfahrenssicherung
-
-1. Sichere amtlichen Registerauszug und angegriffene Entscheidung.
-2. Berechne Fristen aus Zustellung und einschlägiger Verfahrensnorm; übernimm keine Frist aus einem anderen Schutzrecht.
-3. Trenne Amt, Beschwerdekammer, Bundespatentgericht, Gericht der Europäischen Union und Verletzungsgericht.
-4. Weise Entscheidungen nur der Aussage zu, die sie tatsächlich tragen. Eine bloße Aktenzeichenliste ist kein Routingkriterium.
-5. Gib als Ergebnis genau einen Hauptskill und höchstens zwei notwendige Nebenspuren aus.
-
-## 1.5 Ausgabe
-
-Erstelle eine kurze Routingkarte mit Fallkern, Hauptskill, Frist, benötigten Unterlagen, erwartetem Arbeitsprodukt und einem Satz zur Auswahlentscheidung.
 
 ---
 

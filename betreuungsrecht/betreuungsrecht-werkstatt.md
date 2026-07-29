@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Person und Verfahren: Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen.
+### 3.1. Person und Verfahren
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Person und Verfahren: Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Erforderlichkeit und Aufgabenbereich: Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit.
+### 3.2. Erforderlichkeit und Aufgabenbereich
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Erforderlichkeit und Aufgabenbereich: Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Entscheidung und Genehmigung: Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen.
+### 3.3. Entscheidung und Genehmigung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Entscheidung und Genehmigung: Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Rechnungs- und Berichtswesen: Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen.
+### 3.4. Rechnungs- und Berichtswesen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechnungs- und Berichtswesen: Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Fristen- und Risikoampel | BGB Paragraf 1814 und Paragraf 1815 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Person und Verfahren | BGB Paragraf 1814 und Paragraf 1815 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 1821 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage | BGB Paragraf 1821 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Erforderlichkeit und Aufgabenbereich | BGB Paragraf 1821 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan | Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -136,15 +136,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 1814 und Paragraf 1815; BGB Paragraf 1821.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Person und Verfahren.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Aufgabenmatrix: Angelegenheit, Unterstützungsbedarf, vorhandene Hilfe, Wunsch, Vertretungsbedarf, Genehmigung und nächster Schritt; Gerichtsantrag: Anlass, konkrete Gefahr oder Bedarf, Tatsachenbelege, beantragter Aufgabenbereich, mildere Mittel und Eilbedürftigkeit.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 06.07.2011 - XII ZB 80/11; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -174,58 +176,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Fristen- und Risikoampel
+### 15.1. Person und Verfahren
 
-Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich betreuungsrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.2. Erforderlichkeit und Aufgabenbereich
 
-Arbeitsfokus: Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Kalender, Reminder und Fristenmanagement
+### 15.3. Entscheidung und Genehmigung
 
-Arbeitsfokus: Kalender, Reminder und Fristenmanagement. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Kontodaten- und Vertragsverdacht-Prüfung
+### 15.4. Rechnungs- und Berichtswesen
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Vermögensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.5. Arbeitsprodukt
 
-Dieser Skill ist ein konkreter Fachbaustein für betreuungsrecht. Ausgangspunkt ist: Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung
+### 15.6. Fristen- und Risikoampel
 
-Arbeitsfokus: Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich betreuungsrecht sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Betreuungsrecht — Allgemein
+### 15.7. Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Aufgabenkreise festlegen
-
-Arbeitsfokus: Aufgabenkreise festlegen. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Erforderlichkeit der Betreuung. - Paragraf 1815 Abs. 1 BGB — Aufgabenkreis. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bericht: Mandantenkommunikation und Entscheidungsvorlage
-
-Arbeitsfokus: Bericht: Mandantenkommunikation und Entscheidungsvorlage. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Betreuer als Erbe und Beschenkter
-
-Immer dann, wenn die Frage steht, ob ein Berufsbetreuer im Sinne des Paragraf 19 Abs. 2 BtOG durch den Betreuten oder dessen Angehörige durch Verfügung von Todes wegen (Erbe, Vermächtnis, Auflage) oder durch lebzeitige Zuwendung bedacht werden darf, und welche zivil. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung
-
-Wenn der Nutzer wissen will, wer überhaupt Betreuer werden darf, wie sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder wie die Registrierung als beruflicher Betreuer nach Paragrafen 23 ff. BtOG abläuft. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Betreuer: Zahlen, Schwellenwerte und Berechnung
-
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Betreuerpflichten: Formular, Portal und Einreichungslogik
-
-Arbeitsfokus: Betreuerpflichten: Formular, Portal und Einreichungslogik. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen: - Paragraf 1814 Abs. 1 BGB — Betreuungsvoraussetzungen. - Paragraf 1815 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Betreuerpflichten, Genehmigung und Berichtswesen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitsfokus: Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage. Prüfe diese Anker am Sachverhalt.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

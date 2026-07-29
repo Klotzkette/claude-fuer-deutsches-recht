@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 89 Skills des Plugins `selbstvertreter-amtsgericht`.
+Diese Vollprüfung enthält top-10 von 90 Skills des Plugins `selbstvertreter-amtsgericht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-amtsgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-2. **orientierung-selbstvertreter-amtsgericht** — Wenn es um Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten in selbstvertreter-amtsgericht geht: prüft…
-3. **ausnahmen-streitwertgrenze-23-nr-2-gvg** — Wenn es um Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)? in selbstvertreter-amtsgericht g…
-4. **klageerwiderung-replik-anlagen-b1-b2-fortlaufend** — Wenn es um Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen in selbstvertreter-amtsgericht geht: er…
-5. **klageerwiderung-replik-anlagen-b1-b2** — Wenn es um Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren in selbstvertreter-amtsgericht geht: ers…
-6. **richterlicher-hinweis-139-zpo-reaktion** — Wenn es um Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt…
-7. **gerichtskostenvorschuss-12-gkg** — Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstell…
-8. **wann-doch-anwalt-grenzfaelle** — Wenn es um Wann ist es Zeit, doch einen Anwalt zu nehmen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm,…
-9. **anwaltszwang-pruefen-78-zpo** — Wenn es um Brauche ich vor dem Amtsgericht einen Anwalt? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, …
-10. **replik-auf-klageerwiderung-systematik** — Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt de…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Selbstvertreter Amtsgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
+2. **kaltstart-triage** — Wenn es um Kaltstart Triage in selbstvertreter-amtsgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+3. **orientierung-selbstvertreter-amtsgericht** — Wenn es um Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten in selbstvertreter-amtsgericht geht: prüft…
+4. **ausnahmen-streitwertgrenze-23-nr-2-gvg** — Wenn es um Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)? in selbstvertreter-amtsgericht g…
+5. **klageerwiderung-replik-anlagen-b1-b2-fortlaufend** — Wenn es um Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen in selbstvertreter-amtsgericht geht: er…
+6. **klageerwiderung-replik-anlagen-b1-b2** — Wenn es um Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren in selbstvertreter-amtsgericht geht: ers…
+7. **richterlicher-hinweis-139-zpo-reaktion** — Wenn es um Richterlicher Hinweis nach Paragraf 139 ZPO: Was tun? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt…
+8. **gerichtskostenvorschuss-12-gkg** — Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstell…
+9. **wann-doch-anwalt-grenzfaelle** — Wenn es um Wann ist es Zeit, doch einen Anwalt zu nehmen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm,…
+10. **anwaltszwang-pruefen-78-zpo** — Wenn es um Brauche ich vor dem Amtsgericht einen Anwalt? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Selbstvertreter Amtsgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Selbstvertreter Amtsgericht
+
+## 1. Direktstart
+
+Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+
+Pluginauftrag: Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Selbstvertreter Amtsgericht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
+| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen |
+| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen |
+| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln |
+| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Eine Frist verlaengern: Antrag richtig stellen: Bearbeite den Fachpunkt im Skill fristverlaengerung-antrag-225-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Sie sind verklagt: Welche Fristen laufen?: Bearbeite den Fachpunkt im Skill klageerwiderung-fristen-274-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben: Bearbeite den Fachpunkt im Skill wiedereinsetzung-frist-233-zpo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Den Klageantrag richtig formulieren: Bearbeite den Fachpunkt im Skill klageschrift-antrag-bestimmt-formulieren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+4.2. ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+4.3. ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+4.4. ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
+4.5. ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
+4.6. ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Antrag bestimmt und vom Streitgegenstand getragen.
+7.2. Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird.
+7.3. Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
+7.4. Welche Tatsache ist beweisbedürftig, beweisbelastet und beweisangeboten.
+7.5. Welche Verfügung oder welcher Schriftsatz bringt das Verfahren jetzt voran.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+10.2. Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+10.3. Tenorcheck: Hauptsache, Nebenforderung, Kosten, vorläufige Vollstreckbarkeit, Streitwert und Zustellung kontrollieren.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis verwendbar?
 
 ---
 
@@ -1178,174 +1299,6 @@ Selbst wenn am Amtsgericht kein Anwaltszwang besteht, ist Anwaltskontakt besonde
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.
-
----
-
-## Skill: `replik-auf-klageerwiderung-systematik`
-
-_Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Replik: Wie Sie als Kläger auf die Klageerwiderung antworten
-
-## Worum geht es?
-
-Nach Ihrer Klage und der Klageerwiderung des Beklagten haben Sie meist die Moeglichkeit zur **Replik** — also Ihre Antwort auf die Klageerwiderung. Diese Skill zeigt, wie Sie systematisch auf den Beklagten-Vortrag eingehen, neue Tatsachen einfuehren und Beweismittel ergaenzen.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie haben die Klageerwiderung erhalten.
-- Sie ueberlegen, ob Sie reagieren müssen.
-- Sie wollen wissen, wie Sie strukturiert antworten.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Replik**: Antwort des Klägers auf Klageerwiderung.
-- **Duplik**: Antwort des Beklagten auf Replik.
-- **Schriftsatznachlass**: Vom Gericht gewaehrte Frist, um auf neuen Vortrag zu antworten.
-
-## Rechtsgrundlagen
-
-- **§ 282 ZPO** — Rechtzeitiger Vortrag.
-- **§ 296 ZPO** — Praeklusion.
-- **§ 273 ZPO** — Vorbereitung der Verhandlung.
-- **§ 138 ZPO** — Wahrheit, Vollstaendigkeit.
-
-## Schritt-für-Schritt-Anleitung
-
-### Schritt 1 — Klageerwiderung prüfen
-
-Lesen Sie Wort für Wort:
-
-- Welche Tatsachen bestreitet der Beklagte?
-- Welche Einreden erhebt er?
-- Welche neuen Tatsachen behauptet er?
-- Welche Beweismittel benennt er?
-
-### Schritt 2 — Pro Beklagten-Punkt: Reaktion
-
-Wenn Beklagter Tatsache des Klägers bestreitet — müssen Sie Beweis nochmal staerken oder Tatsache substantiieren.
-
-Wenn Beklagter neue Tatsachen vortraegt — Sie müssen darauf reagieren:
-
-- Bestreiten (substantiiert).
-- Zugestehen (wenn wahr).
-- Mit Nichtwissen bestreiten (wenn ausser Ihrer Wahrnehmung).
-
-### Schritt 3 — Auf Einreden reagieren
-
-Wenn Beklagter Verjährung einredet:
-
-- Verjährungs-Berechnung prüfen.
-- Hemmung darlegen (Verhandlungen, Mahnbescheid).
-- Neubeginn prüfen (Anerkenntnis).
-
-Wenn Aufrechnung:
-
-- Wider-Forderung bestreiten.
-- Aufrechnungs-Voraussetzungen prüfen.
-
-Wenn Zurueckbehaltungsrecht:
-
-- Gegenleistung-Pflicht klären.
-
-### Schritt 4 — Beweisangebote ergaenzen
-
-Wenn Ihre Klage Beweis nicht klar hatte, jetzt ergaenzen:
-
-```
-Beweis: Zeugnis des Herrn X,
-[ladungsfaehige Anschrift],
-zum Beweis dafür, dass ...
-```
-
-### Schritt 5 — Replik strukturieren
-
-```
-[Briefkopf]
-
-In der Sache [Klaeger] ./. [Beklagter]
-Aktenzeichen: [AZ]
-
-erwidere ich auf die Klageerwiderung vom
-[Datum] wie folgt:
-
-I. Allgemeines
-
-[Kurze Einleitung, ggf. Verweis auf
-weiteren Vortrag]
-
-II. Stellungnahme zur Klageerwiderung
-
-Zu I. der Klageerwiderung (Sachverhalt):
-[Stellungnahme]
-
-Zu II. der Klageerwiderung (rechtliche
-Wuerdigung):
-[Stellungnahme]
-
-Zu III. der Klageerwiderung (Einreden):
-- Verjährungs-Einrede: [Erwiderung]
-- Aufrechnung: [Erwiderung]
-
-III. Ergaenzender Sachvortrag
-
-[Neue Tatsachen, falls erforderlich]
-
-Beweis: ...
-
-IV. Antraege
-
-Die mit der Klage gestellten Antraege
-werden aufrecht erhalten.
-```
-
-### Schritt 6 — Vom Gericht gesetzte Frist
-
-Das Gericht setzt i. d. R. eine Replik-Frist. Halten Sie diese ein.
-
-Wenn nicht ausreichend: Fristverlaengerung beantragen (Skill `fristverlaengerung-antrag-225-zpo`).
-
-### Schritt 7 — Schweigen als Strategie?
-
-Bei der Replik **nicht** schweigen. Wenn Beklagter neue Tatsachen behauptet und Sie schweigen, kann das Gericht annehmen, Sie haben nichts dagegen.
-
-Es gibt aber Faelle, in denen die Beklagten-Erwiderung nichts neues bringt — dann ist eine kurze Replik möglich:
-
-```
-Ich nehme die Klageerwiderung zur Kenntnis.
-Die mit der Klage gestellten Antraege werden
-aufrecht erhalten. Auf den klaegerischen
-Vortrag wird verwiesen.
-
-Die in der Klageerwiderung erhobenen Einwendungen
-und Bestreitungen werden zurueckgewiesen; sie
-sind nicht substantiiert und stehen im
-Widerspruch zu den als Anlage K1 vorgelegten
-Email-Verkehr.
-```
-
-### Schritt 8 — Praeklusion vermeiden
-
-§ 296 ZPO: Verspaeteter Vortrag wird zurueckgewiesen, wenn dadurch der Termin verzoegert wuerde.
-
-Tragen Sie alles in der Replik vor. Später erst im Termin kommt schlechter an.
-
-## Worauf Sie besonders achten müssen
-
-- **Pro Beklagten-Tatsache eine Antwort** — sonst Geltend.
-- **Beweismittel benennen** auch für neue Tatsachen.
-- **Frist einhalten** oder Verlaengerung beantragen.
-- **Wahrheitspflicht** beachten.
-
-## Typische Fehler
-
-- "Ich antworte nur auf die wichtigsten Punkte." → Auch Nebenpunkte können relevant werden.
-- "Die Replik ist nicht zwingend." → Doch — gegen neuen Beklagten-Vortrag.
-- "Ich warte auf den Termin und sage dann was." → Praeklusions-Gefahr.
-
-## Quellen und Aktualitaet
-
-Stand: 05/2026. ZPO unveraendert.
 
 ---
 

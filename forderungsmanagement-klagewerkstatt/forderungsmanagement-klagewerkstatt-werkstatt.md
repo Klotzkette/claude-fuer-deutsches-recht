@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Aktenkern: Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen.
+### 3.1. Aktenkern
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Aktenkern: Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen.
+### 3.2. Anspruch
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anspruch: Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen.
+### 3.3. Einwendungen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
+### 3.4. Prozess und Titel
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | FMKW: Verbraucherinkasso RDG | BGB Paragraf 241 und Paragraf 280 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Aktenkern | BGB Paragraf 241 und Paragraf 280 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 286 und Paragraf 288 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Werk-/Bauwerklohn-Forderung | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anspruch | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -139,15 +139,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Aktenkern.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Aktenkern, Anspruch, Einwendungen, Prozess und Titel: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -177,58 +179,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. FMKW: Verbraucherinkasso RDG
+### 15.1. Aktenkern
 
-Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. 1. Rolle und Ziel: Wer fragt, welche Rolle, welcher gewünschte Output (Memo, Schriftsatz, Tabelle, Checkliste)? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Werk-/Bauwerklohn-Forderung
+### 15.2. Anspruch
 
-Forderung aus Werk-/Bauvertrag: Fälligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungsprüfung, Sicherungseinbehalt, Mängelrechte als Einwendung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Mietrückstands-Klage
+### 15.3. Einwendungen
 
-Mietrückstand: Zahlungsklage parallel zur Räumungsklage wegen Zahlungsverzugs nach Paragraf 543 Absatz 2 Satz 1 Nummer 3 BGB. Dieser Skill ist ein Arbeitswerkzeug für Mietrückstände im Forderungsmanagement. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Mietrückstand – Zahlungsklage Wohnraum
+### 15.4. Prozess und Titel
 
-Zwei Wege: reine Zahlungsklage auf rückständige Miete oder kombinierte Zahlungs- und Raeumungsklage nach außerordentlicher Kündigung. - Wohnraum Fälligkeit kalendermaessig (Paragraf 556b BGB) → Verzug ohne Mahnung (Paragraf 286 Abs. 2 Nr. 1 BGB). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Werklohnforderung – BGB und Bau
+### 15.5. Arbeitsprodukt
 
-Geltendmachung von Werklohn aus Werkvertrag (Paragrafen 631 ff. BGB) und Bauvertrag (Paragrafen 650a ff. BGB), berücksichtigt insb. die Abnahme als Fälligkeitsausloeser. Grundsatz Paragraf 641 Abs. 1 BGB: Werklohn ist bei Abnahme fällig. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Fristen-Risikoampel
+### 15.6. FMKW: Verbraucherinkasso RDG
 
-Fristverletzungen sind eine der haeufigsten Haftungsquellen. Diese Ampel hilft beim Früherkennen. Rote Ampel verlangt Sofortbearbeitung und Aktennotiz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. 1.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Inkasso-Zahlungsklage-Ersteller
+### 15.7. Werk-/Bauwerklohn-Forderung
 
-1. Liegt ein vollständiger Mahnvorlauf vor (Rechnung mit Fälligkeit, mindestens eine Mahnung mit Fristsetzung)? 2. Ist die Hauptforderung noch nicht vor Klageeinreichung vollständig bezahlt (Erfüllungskontrolle)? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Klagewerkstatt — Laufzeit aus eigenem Skill
-
-1. Ist das hauseigene Klage-Plugin (klagewerkstatt-[kanzlei]) installiert — enthält es assets/vorlagen-leer/standardklage.md und references/hausregeln.json? 2. Sind Sachverhalt, Parteien, Forderungshöhe und Beklagtenanschrift vollständig bekannt? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Klage-Einreichungslogik
-
-Eine inhaltlich richtige Klage scheitert oft an Formalien. Dieser Skill geht die Einreichung Schritt für Schritt durch. Seit 1.1.2022 müssen Rechtsanwaeltinnen Schriftsätze elektronisch einreichen. Verstoß führt zu Unwirksamkeit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Klagefreigabe belegte Forderung
-
-Bevor Klage eingereicht wird durchläuft die Forderung ein Pflicht-Prüfraster. Liefere das Raster und das Freigabe-Vermerksmuster. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Klagewerkstatt — Lernlauf aus eigenen Mustern
-
-Dieser Skill ist der Lernlauf der Klagewerkstatt. Er macht in einem Durchgang vier Dinge: 1. Aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen wird eine hauseigene generische Standardklage-Vorlage destilliert (Markdown + DOCX, mit Platzhaltern). 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Kostenfeststellungsklage nach Zahlung auf die Forderung
-
-Dieser Skill gehört in jede Zahlungsklage-Akte, sobald nach Klageeinreichung etwas passiert, das die Hauptforderung erledigt: Zahlung, Aufrechnung, Stundungseinwand, dauerhafte Einrede, Unmöglichkeit oder Wegfall des Rechtsschutzbedürfnisses. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Mahnbescheid online
-
-Strategische und technische Anleitung zum gerichtlichen Mahnverfahren Paragrafen 688-703d ZPO als kostenguenstige Alternative zur Klage. - Anspruch auf Zahlung bestimmten Geldbetrages in Euro. - Forderung ist nicht von Gegenleistung abhängig oder Gegenleistung erbracht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Mahnbescheid (Online-MB)
-
-Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen Paragraf 690 ZPO, zuständiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch führt in streitiges Verfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Forderung aus Werk-/Bauvertrag: Fälligkeit Paragraf 641 BGB, Abnahme/Abnahmewirkungen, Schlussrechnungsprüfung, Sicherungseinbehalt, Mängelrechte.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

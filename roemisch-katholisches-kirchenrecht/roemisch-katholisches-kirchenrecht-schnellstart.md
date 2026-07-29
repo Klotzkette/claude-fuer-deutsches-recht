@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Verfahren: Antrag, Zuständigkeit, Parteistellung, Frist, Beweis, Anhörung, Dekret, Urteil und Rechtsmittel chronologisch abbilden.
 4. Schnittstelle: kirchliche Rechtsfolge, staatliche Wirkung, Arbeitsrecht, Personenstand, Register und Vertraulichkeit getrennt prüfen.
 5. Arbeitsprodukt: Supplik, Antrag, Dekretentwurf, Aktenvermerk, Eheverfahrensmatrix, Stellungnahme oder Pastoralschreiben erstellen.
-6. Zuständigkeit und Rechtsquelle: Autorität, Gericht, universales Recht, Partikularrecht, Dekret, Statut und maßgebliche Fassung bestimmen.
 
 ## 4. Fallkarte
 
@@ -57,8 +56,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Kirchenrechtsakte: Person, Status, Autorität, Canon, Partikularrecht, Urkunde, Frist, Antrag und Rechtsbehelf; Verfahrensmatrix: Schritt, Zuständiger, Rechtsgrundlage, Beweis, Anhörung, Entscheidung, Zustellung und Rechtsmittel.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Supplik, Antrag, Dekretentwurf, Eheverfahrensmatrix, Aktenvermerk oder Schnittstellenstellungnahme.
+7.2. Normsatz: Den tragenden Anker CIC Canon 16 und Canon 17; CIC Canon 1400 ff. und Canon 1501 ff auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Zuständigkeit und Rechtsquelle konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Antragsteller für Parteistellung, Urkunde und Anspruchstatsachen; kirchliche Autorität für Zuständigkeit, Verfahren und Entscheidungsgrundlage; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Kirchenrechtsakte: Person, Status, Autorität, Canon, Partikularrecht, Urkunde, Frist, Antrag und Rechtsbehelf; Verfahrensmatrix: Schritt, Zuständiger, Rechtsgrundlage, Beweis, Anhörung, Entscheidung, Zustellung und Rechtsmittel. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

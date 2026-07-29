@@ -52,37 +52,37 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen.
+### 3.1. Rolle und Lieferkette
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rolle und Lieferkette: Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen.
+### 3.2. Risikoklasse
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Risikoklasse: Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen.
+### 3.3. Stichtag
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Stichtag: Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie.
+### 3.4. Nachweisakte
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern.
+### 3.5. Behörden- und Sanktionslage
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Behörden- und Sanktionslage: Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.
+### 3.6. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Hochschule: System-Täuschung und Anscheinsbeweis | VO (EU) 2024/1689 Art. 2 und Art. 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Rolle und Lieferkette | VO (EU) 2024/1689 Art. 2 und Art. 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2024/1689 Art. 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Provider-Deployer-Vertragsmatrix | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Risikoklasse | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -137,15 +137,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rolle und Lieferkette.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle]; Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -175,58 +177,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Hochschule: digitale Werkzeuge-Täuschung und Anscheinsbeweis
+### 15.1. Rolle und Lieferkette
 
-Der Skill hilft bei Fällen, in denen eine Hochschule eine Prüfungsleistung wegen angeblicher System-Nutzung beanstandet oder eine Studentin sich gegen einen solchen Vorwurf verteidigt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Provider-Deployer-Vertragsmatrix
+### 15.2. Risikoklasse
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Strafverfolgung: digitale Werkzeuge und Beweisbewertung
+### 15.3. Stichtag
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Zeitlicher Geltungsbereich und Übergangsfristen — europäischer Technikregulierungsrahmen
+### 15.4. Nachweisakte
 
-Die Regulierungsrahmen ist am 1. August 2024 in Kraft getreten (20 Tage nach Veröffentlichung im Amtsblatt der EU am 12. Juli 2024). Noch nicht anwendbar: Die meisten inhaltlichen Pflichten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System
+### 15.5. Behörden- und Sanktionslage
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. europäischer Technikregulierungsrahmen-OWi und interne Untersuchung
+### 15.6. Arbeitsprodukt
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Algorithmische Kollusion und Pricing-digitale Werkzeuge
+### 15.7. Hochschule: System-Täuschung und Anscheinsbeweis
 
-Dynamic Pricing. - Wettbewerberpreis-Monitoring. - Repricing-Bots auf Marktplätzen. - gemeinsame Softwareanbieter für mehrere Wettbewerber. - System-gestützte Rabatt- oder Ausschreibungsstrategie. - Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen
-
-Wer ein Hochrisiko-System-System oder GPAI-Modell unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt, wird Anbieter — unabhängig davon, ob er das System selbst entwickelt hat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-algorithmische Systeme-Office, algorithmische Systeme Board. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Art. 4 europäischer Technikregulierungsrahmen — digitale Werkzeuge-Kompetenz als Compliance-Programm
-
-Art. 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen. - Art. 3 Nr. 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI. - Art. 6, Art. 26, Art. 27, Art. 50 Regulierungsrahmen: Folgepflichten je nach Einsatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. europäischer Technikregulierungsrahmen und Datenschutz-Grundverordnung Art. 22
-
-Ein System-System kann nach Regulierungsrahmen nicht Hochrisiko sein und trotzdem datenschutzrechtlich hochproblematisch. Umgekehrt ersetzt Regulierungsrahmen-Compliance keine Datenschutz-Grundverordnung-Prüfung. 1. Werden personenbezogene Daten verarbeitet? 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Begrenztes Risiko — Transparenzpflichten nach Art. 50 europäischer Technikregulierungsrahmen
-
-Anwendungsbereich: Anbieter von System-Systemen, die direkt mit natürlichen Personen interagieren (Chatbots, virtuelle Assistenten). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen
-
-Unternehmen oder Behörde setzt ein Hochrisiko-System-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Der Skill hilft bei Fällen, in denen eine Hochschule eine Prüfungsleistung wegen angeblicher System-Nutzung beanstandet oder eine Studentin sich.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

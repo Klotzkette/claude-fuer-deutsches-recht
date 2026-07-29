@@ -121,7 +121,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`01-akte-erstdurchsicht-zivil`](skills/01-akte-erstdurchsicht-zivil/SKILL.md), [`12-beweisbeduerftige-tatsachen-isolieren`](skills/12-beweisbeduerftige-tatsachen-isolieren/SKILL.md), [`13-beweislastverteilung-pruefen`](skills/13-beweislastverteilung-pruefen/SKILL.md), [`14-beweismittel-wuerdigen`](skills/14-beweismittel-wuerdigen/SKILL.md), [`15-beweisstation-votum`](skills/15-beweisstation-votum/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`05-anspruchsgrundlagen-identifizieren`](skills/05-anspruchsgrundlagen-identifizieren/SKILL.md), [`17-tatbestand-schreiben`](skills/17-tatbestand-schreiben/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`05-anspruchsgrundlagen-identifizieren`](skills/05-anspruchsgrundlagen-identifizieren/SKILL.md), [`17-tatbestand-schreiben`](skills/17-tatbestand-schreiben/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`02-parteivortrag-strukturieren`](skills/02-parteivortrag-strukturieren/SKILL.md), [`08-beklagtenvortrag-strukturieren`](skills/08-beklagtenvortrag-strukturieren/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`04-klage-antrag-auslegen`](skills/04-klage-antrag-auslegen/SKILL.md), [`20-urteilsentwurf-finalisieren`](skills/20-urteilsentwurf-finalisieren/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`03-streitstand-erfassen`](skills/03-streitstand-erfassen/SKILL.md), [`06-schluessigkeit-pruefen`](skills/06-schluessigkeit-pruefen/SKILL.md), [`07-klaegerstation-votum`](skills/07-klaegerstation-votum/SKILL.md), [`09-einwendungen-einreden-pruefen`](skills/09-einwendungen-einreden-pruefen/SKILL.md), [`10-erheblichkeit-pruefen`](skills/10-erheblichkeit-pruefen/SKILL.md), [`11-beklagtenstation-votum`](skills/11-beklagtenstation-votum/SKILL.md), [`16-tenor-formulieren`](skills/16-tenor-formulieren/SKILL.md), [`18-entscheidungsgruende-aufbauen`](skills/18-entscheidungsgruende-aufbauen/SKILL.md), [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -132,7 +132,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -157,6 +157,7 @@ Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Jeder Sk
 | [`19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit`](skills/19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit/SKILL.md) | Wenn es um 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`20-urteilsentwurf-finalisieren`](skills/20-urteilsentwurf-finalisieren/SKILL.md) | Wenn es um 20 Urteilsentwurf Finalisieren in Relationstechnik Zivilrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil oder Beschluss Zivil) in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Z... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Relationstechnik Zivilrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Relationstechnik Zivilrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

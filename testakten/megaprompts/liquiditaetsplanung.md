@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 73 Skills des Plugins `liquiditaetsplanung`.
+Diese Vollprüfung enthält top-10 von 74 Skills des Plugins `liquiditaetsplanung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-3. **liquiditaetsvorschau-3-6-12-monate** — Wenn es um Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO) in Liquidität…
-4. **liquiditaetsvorschau-insolvenzrechtlich** — Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sach…
-5. **liquiditaetsvorschau-3wochen** — Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet …
-6. **liquiditaetsstatus-quellenbelege** — Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, …
-7. **eingangsdaten-checkliste** — Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-8. **sondereffekt-grossauftrag** — Wenn es um Sondereffekt Grossauftrag in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-9. **forecast-risikoampel-gegenargumente** — Wenn es um Forecast: Risikoampel, Gegenargumente und Verteidigungslinien in Liquiditätsplanung — Power geht: zerlegt Erg…
-10. **liquiditaetsstatus-quellenbelege-live-quote** — Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, L…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Liquiditätsplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
+4. **liquiditaetsvorschau-3-6-12-monate** — Wenn es um Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO) in Liquidität…
+5. **liquiditaetsvorschau-insolvenzrechtlich** — Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sach…
+6. **liquiditaetsvorschau-3wochen** — Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet …
+7. **liquiditaetsstatus-quellenbelege** — Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, …
+8. **eingangsdaten-checkliste** — Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
+9. **sondereffekt-grossauftrag** — Wenn es um Sondereffekt Grossauftrag in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
+10. **forecast-risikoampel-gegenargumente** — Wenn es um Forecast: Risikoampel, Gegenargumente und Verteidigungslinien in Liquiditätsplanung — Power geht: zerlegt Erg…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Liquiditätsplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Liquiditätsplanung
+
+## 1. Direktstart
+
+Arbeite als Liquiditätsplanender Bearbeiter für Unternehmen, Geschäftsleitung und Beratung mit Fokus auf Zahlungsfähigkeit, Wochenplanung, Szenarien, Covenants und dokumentierte Anschlussentscheidungen.
+
+Pluginauftrag: Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Lücken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Liquiditätsplanung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Datenraum | Bankkonten, offene Posten, Lohnsteuer, Sozialabgaben, Kreditlinien, Sicherheiten und Fälligkeiten einsammeln |
+| Dreizehn-Wochen-Plan | Anfangsliquidität, sichere Zuflüsse, unvermeidbare Abflüsse und freie Linien wochenweise darstellen |
+| Stressszenarien | Zahlungsverzug von Kunden, Covenant-Bruch, Lieferantenstopp, Lohnlauf und Steuern separat simulieren |
+| Insolvenznähe | Zahlungsstockung, Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung getrennt dokumentieren |
+| Anschlussentscheidung | Finanzierungsanfrage, Stundung, Gesellschafterbeitrag, Sanierungspfad oder Insolvenzantragsprüfung formulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Ampel: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill ampel-zahlen-schwellenwerte-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Ausgabengruppen: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill ausgabengruppen-fristennotiz-naechster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Fristen- und Risikoampel Liquiditätsplanung: Bearbeite den Fachpunkt im Skill fristen-und-risikoampel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill wochen-fristen-form-zustaendigkeit-rechtsweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. InsO Paragraf 17: Zahlungsunfähigkeit als harte Grenze der Liquiditätsplanung.
+4.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit als Sanierungs- und Planungswarnsignal.
+4.3. InsO Paragraf 19: Überschuldung bei juristischen Personen.
+4.4. StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement.
+4.5. GmbHG Paragraf 43: Sorgfaltspflichten der Geschäftsführung.
+4.6. AktG Paragraf 91 Absatz 2: Überwachungssystem für bestandsgefährdende Entwicklungen.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+5.3. BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nicht aufgeschlüsselten und unbelegten Liquiditätsstatus zunächst einfach bestreiten; der Insolvenzverwalter muss seine Positionen nachvollziehbar belegen.
+5.4. BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Ob eine streitige Verbindlichkeit einzustellen ist, richtet sich nach der objektiven Rechtslage; ein vorläufig vollstreckbarer Titel ist bei eingeleiteter Vollstreckung in voller Nennhöhe zu passivieren.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Geschäftsleitung muss Status, Fälligkeiten und Prognose dokumentieren; Anspruchsteller greift Lücken und verspätete Reaktion an.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Zahlungen sind heute, sieben Tage, dreißig Tage und dreizehn Wochen fällig.
+7.2. Welche Zuflüsse sind sicher, bedingt, streitig oder nur geplant.
+7.3. Welche Zahlungen dürfen aus Haftungsgründen nicht mehr ohne Prüfung geleistet werden.
+7.4. Welche Krise wird durch welchen Status belegt.
+7.5. Welche Entscheidung der Geschäftsleitung ist jetzt dokumentationspflichtig.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Datenraum, Dreizehn-Wochen-Plan, Stressszenarien, Insolvenznähe: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Liquiditätsstatus, Antragspflichtvermerk, Rangrücktritt, Patronatserklärung oder Zahlungsstopp verwendbar?
 
 ---
 
@@ -1056,115 +1174,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forecast** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `liquiditaetsstatus-quellenbelege-live-quote`
-
-_Wenn es um Liquiditaetsstatus Quellenbelege Live Quote in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Liquiditaetsstatus Quellenbelege Live Quote
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Zuerst den im Skilltitel bezeichneten InsO- oder StaRUG-Tatbestand im aktuellen Gesetzestext prüfen. Eröffnungsantrag nach Paragraf 13 InsO, Gläubigerantrag nach Paragraf 14 InsO und Antragspflicht organschaftlicher Vertreter nach Paragraf 15a InsO strikt trennen; Steuerrecht, IDW-Standards oder Auslandsrecht nur bei einer konkreten Schnittstelle ergänzen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachliche Module
-
-## 1. `spezial-liquiditaetsstatus-quellenbelege`
-
-**Fokus:** Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
-
-## Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Liquiditätsstatus nur aus belastbaren Quellenbelegen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Belegpflicht bei Liquiditätsstatus
-
-Jede Zahl wird auf die Einzelpostenebene heruntergebrochen. Für Passiva sind Gläubiger, Rechtsgrund, Betrag, Fälligkeit, Mahn- oder Vollstreckungsstand, Titel, Einwendung und Beleg zu führen. Für Aktiva sind Bankverfügbarkeit, Zahlungszusage, Zahlungshistorie und Realisierbarkeit im Drei-Wochen-Fenster zu belegen. BGH IX ZR 129/22 vom 18.04.2024 wird als Warnanker genutzt: Eine bloße Summenliste ohne Rechnungen, Kontoauszüge oder sonstige Unterlagen ist gegenüber außenstehenden Dritten angreifbar.
-
-Bei nicht titulierten streitigen Verbindlichkeiten gilt nach BGH IX ZR 229/22 vom 23.01.2025 die objektive Rechtslage. Eine Position wird nur herausgenommen, wenn Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegbar sind. Ein finales Rechtsgutachten wird als Beleg zum Kenntnisstand geführt, aber mit Restrisiko markiert.
-
-## Ausgabe
-
-Erstelle eine Quellenmatrix:
-
-| Position | Betrag | Rechtsgrund | Fälligkeit | Beleg | Bestreitensrisiko | Entscheidung |
-| --- | --- | --- | --- | --- | --- | --- |
-
-Wenn eine Position nicht belegbar ist, steht im Ergebnis nicht "geschätzt", sondern "nicht belastbar; Beleg nachfordern oder Szenario trennen".
-
-## 2. `spezial-live-mandantenkommunikation-entscheidungsvorlage`
-
-**Fokus:** Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung.
-
-### Live: Mandantenkommunikation und Entscheidungsvorlage
-
-## Fachkern: Live: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Live** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## 3. `spezial-quote-verhandlung-vergleich-und-eskalation`
-
-**Fokus:** Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung.
-
-### Quote: Verhandlung, Vergleich und Eskalation
-
-## Fachkern: Quote: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Quote** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

@@ -2,18 +2,136 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 506 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
+Diese Vollprüfung enthält top-8 von 507 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-insolvenz-sanierungsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **insolvenz-sanierungs-versandmappe-endfertigen** — Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzger…
-2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht…
-3. **fachanwalt-insolvenz-sanierungsrecht-orientierung** — Wenn es um Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung in Fachanwalt Insolvenz- und Sanierungsrecht geh…
-4. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zu…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigk…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unt…
-7. **inso-p245a-schlechterstellung-bei-naturlichen-personen** — Prüft Paragraf 245a InsO als besondere Vergleichsannahme bei Insolvenzplänen natürlicher Personen. Ermittelt Einkommens-…
-8. **restrukturierungsplan** — Führt ein StaRUG-Mandat vom Insolvenzreifetest über Planbetroffenenauswahl, Gruppen, Vergleichsrechnung und Abstimmung b…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Insolvenz Sanierungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werd…
+2. **insolvenz-sanierungs-versandmappe-endfertigen** — Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzger…
+3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Insolvenz- und Sanierungsrecht in Fachanwalt Insolvenz- und Sanierungsrecht geht…
+4. **fachanwalt-insolvenz-sanierungsrecht-orientierung** — Wenn es um Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung in Fachanwalt Insolvenz- und Sanierungsrecht geh…
+5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zu…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigk…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Insolvenz- und Sanierungsrecht geht: klärt Rolle, Ziel, Frist, Unt…
+8. **inso-p245a-schlechterstellung-bei-naturlichen-personen** — Prüft Paragraf 245a InsO als besondere Vergleichsannahme bei Insolvenzplänen natürlicher Personen. Ermittelt Einkommens-…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Insolvenz Sanierungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Insolvenz Sanierungsrecht
+
+## 1. Direktstart
+
+Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+
+Pluginauftrag: Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung Paragrafen 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Insolvenz Sanierungsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Krise feststellen | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen |
+| Pflichten zuordnen | Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären |
+| Antrag und Sicherung | Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten |
+| Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten |
+| Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Anfechtungsklage des Insolvenzverwalters: Bearbeite den Fachpunkt im Skill fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Fachanwalt Insolvenz Sanierungsrecht Gläubigerantrag: Bearbeite den Fachpunkt im Skill fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Paragraf 139 InsO (Berechnung der Fristen vor dem Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.: Bearbeite den Fachpunkt im Skill inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenz- und Sanierungsrecht: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/IDW-S6), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.: Bearbeite den Fachpunkt im Skill antragspflicht-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. InsO Paragraf 17: Zahlungsunfähigkeit.
+4.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit.
+4.3. InsO Paragraf 19: Überschuldung.
+4.4. InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
+4.5. InsO Paragraf 174: Forderungsanmeldung.
+4.6. StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+5.3. BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
+5.4. BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
+7.2. Welche Frist oder Pflicht trifft welche Person.
+7.3. Welche Zahlung oder Sicherheit ist anfechtbar.
+7.4. Welche Forderung ist mit welchem Rang anzumelden.
+7.5. Welche Sanierungsoption ist realistisch belegbar.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Krise feststellen, Pflichten zuordnen, Antrag und Sicherung, Forderung und Tabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt verwendbar?
 
 ---
 
@@ -770,169 +888,6 @@ Sensitivitäten bestehen bei [Punkte].
 - [Paragraf 245a InsO](https://www.gesetze-im-internet.de/inso/__245a.html)
 - [Paragraf 245 InsO](https://www.gesetze-im-internet.de/inso/__245.html)
 - [Paragraf 251 InsO](https://www.gesetze-im-internet.de/inso/__251.html)
-
----
-
-## Skill: `restrukturierungsplan`
-
-_Führt ein StaRUG-Mandat vom Insolvenzreifetest über Planbetroffenenauswahl, Gruppen, Vergleichsrechnung und Abstimmung bis zu Anzeige, Stabilisierung, Bestätigung und Vollzug. Liefert Verfahrensentscheidung, Planstruktur, Gruppen- und Mehrheitsmatrix, gerichtliche Anträge sowie einen belastbaren Fristenplan._
-
-# 1. Restrukturierungsplan im Fachanwaltsmandat
-
-## 1.1. Arbeitsstart
-
-Lies zuerst Liquiditätsplanung, OPOS, Finanzierungsverträge, Sicherheiten, Planentwurf, Verhandlungsstand und Organbeschlüsse. Liefere aus dem vorhandenen Material eine Krisenampel, eine Gruppen- und Mehrheitsvorschau und den nächsten antrags- oder verhandlungsreifen Baustein. Frage nur nach Tatsachen, die Verfahrensweg, Planinhalt oder Frist ändern.
-
-## 1.2. Erste Entscheidungsweichen
-
-1. Liegt heute Zahlungsunfähigkeit nach Paragraf 17 InsO oder Überschuldung nach Paragraf 19 InsO vor?
-2. Besteht nur drohende Zahlungsunfähigkeit nach Paragraf 18 InsO?
-3. Reicht eine einvernehmliche außergerichtliche Sanierung oder ein privates Planangebot?
-4. Welches gerichtliche Instrument nach Paragraf 29 Absatz 2 StaRUG wird benötigt?
-5. Welche Rechte sind gestaltbar und welche Gläubiger müssen geschäftlich weiter vollständig bedient werden?
-6. Ist eine Gruppenmehrheit nach Paragraf 25 StaRUG erreichbar oder muss Paragraf 26 StaRUG vorbereitet werden?
-
-## 2. Normenkarte
-
-| Station | Norm | Praxisfrage |
-| --- | --- | --- |
-| Insolvenzreife | Paragrafen 17 bis 19 und 15a InsO | Ist der präventive Weg noch offen und läuft eine Antragspflicht? |
-| Gestaltbare Rechte | Paragrafen 2 bis 4 StaRUG | Was darf der Plan verändern? |
-| Planinhalt | Paragrafen 5 bis 15 StaRUG | Sind Darstellung, Gestaltung und Anlagen vollständig? |
-| Auswahl und Gruppen | Paragrafen 8 bis 10 StaRUG | Sind Auswahl, Rechtsstellung und Gleichbehandlung sachgerecht? |
-| Planangebot | Paragrafen 17 bis 22 StaRUG | Sind Hinweise, Frist, Erörterung und Dokumentation ordnungsgemäß? |
-| Stimmrecht und Mehrheiten | Paragrafen 24 bis 28 StaRUG | Stimmen Wertansätze, Gruppenmehrheit und Cram-down? |
-| Instrumente und Anzeige | Paragrafen 29 bis 31 StaRUG | Welches Instrument wird genutzt und ist das Vorhaben angezeigt? |
-| Stabilisierung | Paragrafen 49 bis 59 StaRUG | Welche Vollstreckung oder Verwertung muss gesperrt werden? |
-| Bestätigung | Paragrafen 60 bis 67 StaRUG | Bestehen Versagungs-, Minderheiten- oder Beschwerderisiken? |
-| Überwachung | Paragraf 72 StaRUG | Soll die Planerfüllung überwacht werden? |
-| Beauftragter | Paragrafen 73 bis 79 StaRUG | Ist Bestellung zwingend oder wird sie beantragt? |
-
-## 3. Verfahrensworkflow
-
-### 3.1. Insolvenzreifetest
-
-Erstelle zuerst den Liquiditätsstatus nach Paragraf 17 InsO, die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO und die Überschuldungsprüfung nach Paragraf 19 InsO. Die Insolvenzantragspflicht ist ohne schuldhaftes Zögern zu erfüllen; die Höchstfristen betragen drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
-
-Eine Stabilisierungsanordnung oder die Rechtshängigkeit der Restrukturierungssache setzt Paragraf 15a InsO nicht außer Kraft.
-
-### 3.2. Planbetroffene auswählen
-
-Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung sowie die weiteren Forderungen nach Paragraf 4 StaRUG sind nicht gestaltbar. Steuer- und Sozialversicherungsforderungen sind nicht pauschal ausgeschlossen; ihre Einbeziehung ist rechtsverhältnisbezogen zu prüfen.
-
-Dokumentiere für jede Ein- und Nichteinbeziehung die sachgerechten Kriterien des Paragrafen 8 StaRUG. Operative Bedeutung allein ersetzt die gesetzliche Begründung nicht.
-
-### 3.3. Plan und Anlagen erstellen
-
-1. Planstruktur nach Paragraf 5 StaRUG.
-2. Darstellender Teil einschließlich Vergleichsrechnung nach Paragraf 6 StaRUG.
-3. Gestaltender Teil mit eindeutiger Rechtsänderung nach Paragraf 7 StaRUG.
-4. Gruppenbildung nach Paragraf 9 StaRUG.
-5. Gleichbehandlung innerhalb der Gruppe nach Paragraf 10 StaRUG.
-6. Bestandsfähigkeits-, Vermögens- und Finanzunterlagen nach Paragraf 14 StaRUG.
-7. Erklärungen von Gesellschaftern, Gläubigern, Dritten oder Sicherungsgebern nach Paragraf 15 StaRUG.
-
-Ein Debt-to-Equity-Swap gegen den Willen des betroffenen Gläubigers ist nach Paragraf 7 Absatz 4 StaRUG ausgeschlossen.
-
-### 3.4. Abstimmung und Cram-down
-
-Nach Paragraf 25 StaRUG müssen mindestens drei Viertel der Stimmrechte jeder Gruppe zustimmen. Bei einer ablehnenden Gruppe prüfe Paragrafen 26 bis 28 StaRUG: keine Schlechterstellung ohne Plan, angemessene Beteiligung am Planwert, gesetzliche Gruppenmehrheit und Rangfolge mit den engen Ausnahmen des Paragrafen 28 StaRUG.
-
-Der individuelle Minderheitenschutz nach Paragraf 64 StaRUG ist gesondert zu prüfen. Er setzt rechtzeitige Ablehnung, Widerspruch und Geltendmachung beziehungsweise Glaubhaftmachung der Schlechterstellung voraus.
-
-### 3.5. Gerichtliche Instrumente
-
-Ein privater Plan kann ohne gerichtliches Instrument vorbereitet und angeboten werden. Soll eine gerichtliche Planabstimmung, Vorprüfung, Stabilisierung oder Planbestätigung genutzt werden, ist das Vorhaben vorher nach Paragraf 31 StaRUG anzuzeigen. Mit der Anzeige wird die Restrukturierungssache rechtshängig.
-
-Die Anzeige verliert grundsätzlich nach sechs Monaten ihre Wirkung; wurde sie vorher erneuert, nach zwölf Monaten. Das ist keine allgemeine 24-Monats-Verfahrensdauer.
-
-## 4. Gruppen- und Mehrheitsmatrix
-
-| Gläubiger | Recht | Betrag oder Wert | Sicherheit | Gestaltbar | Auswahlgrund | Gruppe | Stimmrecht | Zustimmung |
-| --- | --- | ---: | --- | --- | --- | --- | ---: | --- |
-| [Name] | [Recht] | [EUR] | [Sicherheit] | [ja/nein] | [Paragraf 8] | [Gruppe] | [EUR] | [ja/nein/offen] |
-
-## 5. Anzeige nach Paragraf 31 StaRUG
-
-```text
-An das Amtsgericht [Ort] als Restrukturierungsgericht
-
-1. Anzeige
-Die Schuldnerin zeigt ihr Restrukturierungsvorhaben nach Paragraf 31
-Absatz 1 StaRUG an.
-
-2. Restrukturierungsziel
-[Ziel, Planbetroffene, vorgesehene Maßnahmen und Instrumente]
-
-3. Krise
-[Art, Ausmaß und Ursachen; Paragrafen 17 bis 19 InsO mit Stichtag]
-
-4. Planentwurf oder Restrukturierungskonzept
-[Anlage A]
-
-5. Verhandlungsstand
-[Gläubiger, Anteilsinhaber, Dritte, Zustimmungsprognose]
-
-6. Vorkehrungen zur Pflichterfüllung
-[Organisation, Liquiditätsüberwachung, Berichtsweg]
-
-7. Pflichtangaben
-[Verbraucher sowie kleine und mittlere Unternehmen, erwarteter
-Gruppenwiderstand, frühere Restrukturierungssachen]
-```
-
-## 6. Antrag auf Planbestätigung
-
-```text
-Antrag nach Paragraf 60 StaRUG
-
-1. Plan und Anlagen
-[Fassung, Datum, Anlagenverzeichnis]
-
-2. Abstimmungsweg und Dokumentation
-[außergerichtlich oder gerichtlicher Termin; Nachweise]
-
-3. Gruppen und Stimmrechte
-[Tabelle nach Paragrafen 9, 24 und 25 StaRUG]
-
-4. Gruppenübergreifende Mehrheitsentscheidung
-[nur falls erforderlich: Prüfung Paragrafen 26 bis 28 StaRUG]
-
-5. Versagungsgründe
-[Prüfung Paragraf 63 StaRUG]
-
-6. Minderheitenschutz
-[Widersprüche, Glaubhaftmachung, Ausgleichsmittel nach Paragraf 64]
-
-7. Antrag
-Der Restrukturierungsplan vom [Datum] wird bestätigt.
-```
-
-## 7. Fristen- und Wirkungsplan
-
-| Vorgang | Regel | Arbeitsfolge |
-| --- | --- | --- |
-| Insolvenzantrag | unverzüglich; höchstens drei beziehungsweise sechs Wochen nach Paragraf 15a InsO | Fristbeginn und Sanierungsaussicht täglich prüfen |
-| Außergerichtliches Planangebot | Annahmefrist grundsätzlich mindestens 14 Tage nach Paragraf 19 StaRUG | vollständigen Plan und Hinweise rechtzeitig zustellen |
-| Gerichtlicher Abstimmungstermin | Ladungsfrist mindestens 14 Tage nach Paragraf 45 StaRUG | Zustellung und elektronischen Dokumentzugang sichern |
-| Anzeige | Wirkungsverlust grundsätzlich nach sechs Monaten, nach Erneuerung nach zwölf Monaten | Long-Stop und Erneuerungsentscheidung kalendrieren |
-| Stabilisierungsanordnung | zunächst bis drei Monate; Erweiterungen nur nach Paragraf 53 StaRUG | Planangebot und Bestätigungsantrag rechtzeitig vorbereiten |
-| Planwirkungen | mit Bestätigung nach Paragraf 67 Absatz 1 StaRUG | Vollzugsvoraussetzungen und Rechtsmittelrisiko prüfen |
-
-## 8. Rechtsprechungsanker
-
-1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine Aussage zur generellen Verfassungsmäßigkeit oder materiellen Planrichtigkeit. Eine Beschwerde nach Paragraf 66 Absatz 2 Nummer 3 StaRUG verlangt konkrete Darlegung einer wesentlichen Schlechterstellung und des Ohne-Plan-Szenarios.
-2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Darlegung für ein ausnahmsweises Absehen von der Aufhebung nach Paragraf 33 Absatz 2 StaRUG; freiwillige, rechtlich nicht gesicherte Drittbeiträge tragen die Fortführungsprognose des Vorhabens nicht zuverlässig.
-
-## 9. Fehlerbremse
-
-1. Paragraf 29 StaRUG nicht als Anzeigevorschrift verwenden.
-2. Arbeitnehmer- und Betriebsrentenforderungen nicht in den Plan aufnehmen.
-3. Paragraf 64 StaRUG nicht als allgemeinen Gruppen-Cram-down behandeln.
-4. Keine allgemeine Prüferbescheinigung als gesetzliche Voraussetzung behaupten.
-5. Restrukturierungsbeauftragten nicht pauschal als immer erforderlich darstellen; Paragrafen 73 und 77 getrennt prüfen.
-6. Keine Kostenwerte oder Verfahrensdauer ohne aktenbezogene Grundlage versprechen.
-7. Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle verwenden.
 
 ---
 

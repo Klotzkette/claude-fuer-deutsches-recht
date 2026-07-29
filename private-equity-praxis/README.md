@@ -64,7 +64,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`esg-sfdr-und-lieferketten-im-pe-mandat`](skills/esg-sfdr-und-lieferketten-im-pe-mandat/SKILL.md), [`kaltstart-deal-und-investor-routing`](skills/kaltstart-deal-und-investor-routing/SKILL.md), [`kanzlei-projektsteuerung-fuer-pe-mandate`](skills/kanzlei-projektsteuerung-fuer-pe-mandate/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`datenraum-index-pe`](skills/datenraum-index-pe/SKILL.md), [`rechtsabteilung-sanierungsgutachten-bei-add-on-krise`](skills/rechtsabteilung-sanierungsgutachten-bei-add-on-krise/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`insolvenzrisiko-fuer-pe-sponsor`](skills/insolvenzrisiko-fuer-pe-sponsor/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`insolvenzrisiko-fuer-pe-sponsor`](skills/insolvenzrisiko-fuer-pe-sponsor/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`anti-bribery-compliance-dd`](skills/anti-bribery-compliance-dd/SKILL.md), [`bidco-stack-und-holdingstruktur`](skills/bidco-stack-und-holdingstruktur/SKILL.md), [`lma-transfer-assignment-schuldschein-darlehen-struktur-npl`](skills/lma-transfer-assignment-schuldschein-darlehen-struktur-npl/SKILL.md), [`pe-in-bank-restrukturierungen`](skills/pe-in-bank-restrukturierungen/SKILL.md), [`portfolio-100-tage-plan`](skills/portfolio-100-tage-plan/SKILL.md), [`schuldschein-darlehen-struktur`](skills/schuldschein-darlehen-struktur/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`ic-memo-und-entscheidungsvorlage`](skills/ic-memo-und-entscheidungsvorlage/SKILL.md), [`mandantenkommunikation-pe`](skills/mandantenkommunikation-pe/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`lma-facility-review-deutsch`](skills/lma-facility-review-deutsch/SKILL.md), [`qualitygate-pe-no-hallucinations`](skills/qualitygate-pe-no-hallucinations/SKILL.md), [`red-team-investment-thesis`](skills/red-team-investment-thesis/SKILL.md), [`tax-audit-post-closing`](skills/tax-audit-post-closing/SKILL.md) |
@@ -76,7 +76,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -129,6 +129,7 @@ Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Jeder S
 | [`intercreditor-und-sicherheitenagent`](skills/intercreditor-und-sicherheitenagent/SKILL.md) | Wenn es um Intercreditor, Security Agent und Sicherheitenpool in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`investorprofil-lp-gp-family-office`](skills/investorprofil-lp-gp-family-office/SKILL.md) | Wenn es um Investorprofil: LP, GP, Family Office, Stiftung, Versicherung in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkte... |
 | [`ip-und-brand-dd-pe`](skills/ip-und-brand-dd-pe/SKILL.md) | Wenn es um IP und Brand DD im PE-Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Private Equity Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-deal-und-investor-routing`](skills/kaltstart-deal-und-investor-routing/SKILL.md) | Wenn es um Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen in Private Equity Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschrit... |
 | [`kanzlei-projektsteuerung-fuer-pe-mandate`](skills/kanzlei-projektsteuerung-fuer-pe-mandate/SKILL.md) | Wenn es um Kanzlei-Projektsteuerung für PE-Mandate in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kvg-erlaubnis-registrierung-auslagerung`](skills/kvg-erlaubnis-registrierung-auslagerung/SKILL.md) | Wenn es um KVG: Erlaubnis, Registrierung und Auslagerung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

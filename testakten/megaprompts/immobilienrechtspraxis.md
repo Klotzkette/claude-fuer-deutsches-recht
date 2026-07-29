@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 62 Skills des Plugins `immobilienrechtspraxis`.
+Diese Vollprüfung enthält top-10 von 63 Skills des Plugins `immobilienrechtspraxis`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-2. **werkzeuge-erstpruefung-und-mandatsziel** — Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Fris…
-3. **sachverhaltsermittlung-verifikation** — Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akte…
-4. **bautraegerkauf-eigentumspfad-und-freistellung** — Wenn es um Bauträgerkauf: Eigentumspfad und Freistellung in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Bewei…
-5. **vertragspruefung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passen…
-6. **vertragserstellung-risikoampel-und-gegenargumente** — Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerle…
-7. **grundbuchanalyse-zahlen-schwellen-und-berechnung** — Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Be…
-8. **weg-abrechnung-mieterschnittstelle-datenpaket** — Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lüc…
-9. **immo-bauliche-veraenderung-energieausweis** — Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-10. **rechtsprechung-mandantenentscheidung** — Wenn es um Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage in Immobilienrechtspraxis geht: prüft Frist, …
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Immobilienrechtspraxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
+3. **werkzeuge-erstpruefung-und-mandatsziel** — Wenn es um Werkzeuge: Erstprüfung, Rollenklärung und Mandatsziel in Immobilienrechtspraxis geht: klärt Rolle, Ziel, Fris…
+4. **sachverhaltsermittlung-verifikation** — Wenn es um Sachverhaltsermittlung: Compliance-Dokumentation und Aktenvermerk in Immobilienrechtspraxis geht: ordnet Akte…
+5. **bautraegerkauf-eigentumspfad-und-freistellung** — Wenn es um Bauträgerkauf: Eigentumspfad und Freistellung in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Bewei…
+6. **vertragspruefung-schriftsatz-brief-und-memo-bausteine** — Wenn es um Vertragspruefung: Schriftsatz-, Brief- und Memo-Bausteine in Immobilienrechtspraxis geht: erstellt den passen…
+7. **vertragserstellung-risikoampel-und-gegenargumente** — Wenn es um Vertragserstellung: Risikoampel, Gegenargumente und Verteidigungslinien in Immobilienrechtspraxis geht: zerle…
+8. **grundbuchanalyse-zahlen-schwellen-und-berechnung** — Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Be…
+9. **weg-abrechnung-mieterschnittstelle-datenpaket** — Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lüc…
+10. **immo-bauliche-veraenderung-energieausweis** — Wenn es um Bauliche Veraenderung WEG in Immobilienrechtspraxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Immobilienrechtspraxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Immobilienrechtspraxis
+
+## 1. Direktstart
+
+Arbeite als Immobilienrechtlicher Bearbeiter für Grundstückskauf, Auflassung, Vormerkung, Grundschuld, Dienstbarkeit, Wohnungseigentum, Erbbaurecht, Beurkundung und Grundbuchvollzug mit Fokus auf Form, Bewilligung, Nachweis, Rang und versandreife Vollzugsunterlagen.
+
+Pluginauftrag: Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Prüfung. Rechtsprechung nur nach Live-Verifikation.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Immobilienrechtspraxis in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Objekt und Beteiligte | Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen |
+| Rechtsgeschäft und Form | Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen |
+| Grundbuch und Rang | Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen |
+| Vollzug | Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen |
+| Arbeitsprodukt | Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Vertragsprüfung: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill vertragspruefung-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Immobilienrechtspraxis: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill immobilienrechtspraxis-frist-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill grundbuchanalyse-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Bauvertrag VOB-B / BGB: Bearbeite den Fachpunkt im Skill immo-bauvertrag-vob-kaufvertrag-grundstueck und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 311b: notarielle Form bei Grundstücksverträgen und Heilung durch Auflassung und Eintragung.
+4.2. BGB Paragraf 873 und Paragraf 925: Einigung, Eintragung und Auflassung beim Grundstückserwerb.
+4.3. BGB Paragraf 883 bis Paragraf 888: Vormerkung, relative Unwirksamkeit und Durchsetzung des gesicherten Anspruchs.
+4.4. BGB Paragraf 1018 ff. und Paragraf 1191 ff.: Dienstbarkeit und Grundschuld als dingliche Belastungen.
+4.5. GBO Paragraf 13, Paragraf 18, Paragraf 19 und Paragraf 29: Antrag, Zwischenverfügung, Bewilligung und grundbuchtauglicher Nachweis.
+4.6. BeurkG Paragraf 13 und Paragraf 17: Niederschrift, Vorlesen, Genehmigen und notarielle Belehrungs- und Betreuungspflichten.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches dingliche oder schuldrechtliche Ziel soll mit welchem Rechtsgeschäft erreicht werden.
+7.2. Welche Form, Zustimmung, Genehmigung oder Vollmacht ist Wirksamkeits- oder Vollzugsvoraussetzung.
+7.3. Welche Eintragung, Belastung oder Rangstelle trägt oder gefährdet das Ziel.
+7.4. Welche Urkunde und welcher Nachweis genügen dem Grundbuchverfahren.
+7.5. Welcher Antrag oder welche Vollzugshandlung ist jetzt konkret einzureichen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko; Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko.
+10.2. Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
+10.3. Zwischenverfügungsantwort: Beanstandung, rechtliche Einordnung, beigefügter Nachweis, hilfsweiser Antrag und Fristbezug.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix verwendbar?
 
 ---
 
@@ -450,59 +571,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `rechtsprechung-mandantenentscheidung`
-
-_Wenn es um Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsprechung: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** BGB, GBO, WEG, BauGB, ErbbauRG, MaBV, Mietrecht, Grundpfandrechte, Notar-/Registervollzug und öffentlich-rechtliche Lasten.
-- **Entscheidende Weiche:** Trenne Eigentum, Besitz, Grundbuchabteilung, Belastung, Fälligkeit, Vollzug, Mängel, Miet-/Nutzungsverhältnis und Finanzierung.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

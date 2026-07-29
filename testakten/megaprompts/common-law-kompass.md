@@ -2,25 +2,140 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `common-law-kompass`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `common-law-kompass`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, U…
-2. **suretyship-schriftsatz-brief-und-memo-bausteine** — Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen ge…
-3. **cl-spezial-precedent-vs-statute** — Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachv…
-4. **bilinguale-client-commercial-sonderfall** — Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen …
-5. **vertragsbegriffe-risikoampel-und-gegenargumente** — Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirt…
-6. **cl-discovery-doc-production-spezial** — Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt…
-7. **cl-vertragsklauseln-vertragsbegriffe-cl** — Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt,…
-8. **discovery-zahlen-schwellen-und-berechnung** — Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
-9. **begriffe-uebersetzung-bilingual-contract** — Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den…
-10. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm…
-11. **anschluss-routing** — Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unte…
-12. **explainer-beweislast-und-darlegungslast** — Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuris…
-13. **indemnity-verhandlung-vergleich-und-eskalation** — Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
-14. **client-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuriste…
-15. **false-friends-contracts** — Wenn es um False Friends in Common-Law-Verträgen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akt…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Common Law Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, U…
+3. **suretyship-schriftsatz-brief-und-memo-bausteine** — Wenn es um Suretyship: Schriftsatz-, Brief- und Memo-Bausteine in Common-Law-Kompass für deutsche Wirtschaftsjuristen ge…
+4. **cl-spezial-precedent-vs-statute** — Wenn es um Common Law: Precedent gegen Statute in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachv…
+5. **bilinguale-client-commercial-sonderfall** — Wenn es um Bilinguale: Compliance-Dokumentation und Aktenvermerk in Common-Law-Kompass für deutsche Wirtschaftsjuristen …
+6. **vertragsbegriffe-risikoampel-und-gegenargumente** — Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirt…
+7. **cl-discovery-doc-production-spezial** — Wenn es um Common Law: Discovery-Spezial in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt…
+8. **cl-vertragsklauseln-vertragsbegriffe-cl** — Wenn es um Common Law: Vertragsklauseln in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt,…
+9. **discovery-zahlen-schwellen-und-berechnung** — Wenn es um Discovery: Zahlen, Schwellenwerte und Berechnung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
+10. **begriffe-uebersetzung-bilingual-contract** — Wenn es um Begriffs- und Übersetzungswerkstatt in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den…
+11. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Sachverhalt, Norm…
+12. **anschluss-routing** — Wenn es um Anschluss-Routing in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: klärt Rolle, Ziel, Frist, Unte…
+13. **explainer-beweislast-und-darlegungslast** — Wenn es um Explainer: Beweislast, Darlegungslast und Substantiierung in Common-Law-Kompass für deutsche Wirtschaftsjuris…
+14. **indemnity-verhandlung-vergleich-und-eskalation** — Wenn es um Indemnity: Verhandlung, Vergleich und Eskalation in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht:…
+15. **client-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuriste…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Common Law Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Common Law Kompass
+
+## 1. Direktstart
+
+Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+
+Pluginauftrag: Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Common Law Kompass in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
+| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen |
+| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden |
+| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Common Law: Vertragsklauseln: Bearbeite den Fachpunkt im Skill cl-vertragsklauseln-vertragsbegriffe-cl und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Consideration: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill consideration-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Discovery: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill discovery-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. False: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill false-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+4.2. Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+4.3. Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
+4.4. CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
+4.5. New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
+4.6. ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
+7.2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
+7.3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
+7.4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
+7.5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Auslands-Zergliederung, Forum, Anwendbares Recht, Materielle Prüfung nach dem berufenen Recht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie verwendbar?
 
 ---
 
@@ -896,55 +1011,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `false-friends-contracts`
-
-_Wenn es um False Friends in Common-Law-Verträgen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# False Friends in Common-Law-Verträgen
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `UCC § 2-201` — Statute of Frauds für Warenkauf.
-- `UCC § 2-313` — express warranties.
-- `UCC § 2-314` — implied warranty of merchantability.
-- `Restatement (Second) of Contracts § 17` — formation by bargain.
-- `Restatement (Second) of Contracts § 71` — consideration.
-- `Restatement (Second) of Contracts § 90` — promissory estoppel.
-- `CISG Art. 14` — Angebot.
-- `CISG Art. 18` — Annahme.
-- `CISG Art. 25` — wesentliche Vertragsverletzung.
-- `CISG Art. 35` — Vertragsmaessigkeit der Ware.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: England Limitation Act 1980 (6 Jahre Contract, 6 Jahre Tort), US-Statutes of Limitations einzelstaatlich (oft 3-6 Jahre), ICC-Schiedsverfahren Antwort 30 Tage.
-- Tragende Normen verifizieren: Englisches Recht (Common Law / Equity), US-Recht (Restatements, UCC), Vergleich BGB-System, IPR-Anknüpfung (Rom I, Rom II), HCCH-Konventionen, New Yorker Übereinkommen (Schiedssprüche) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant mit US/UK-Bezug, Solicitor, Barrister, US-Attorney, deutscher Anwalt, Schiedsgericht (ICC, LCIA, ICDR), High Court, Court of Appeal.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Letter of Engagement, Statement of Claim / Particulars of Claim, Defence, Affidavit, Witness Statement, Discovery/Disclosure, Settlement Agreement — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **False Friends in Common-Law-Verträgen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
 ---
 

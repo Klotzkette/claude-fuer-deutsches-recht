@@ -2,25 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `verkehrsowi-verteidiger`.
+Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `verkehrsowi-verteidiger`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-2. **verkehrsowi-erstpruefung-und-mandatsziel** — Wenn es um Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, F…
-3. **verkehrsowi-rotlicht-abstand-handy** — Wenn es um Rotlicht, Abstand und Handy — Paragrafen 23. 37. 4 StVO in VerkehrsOWi-Verteidiger geht: ordnet Sachverhalt, …
-4. **messung-fahrverbot-punkte** — Wenn es um Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi in VerkehrsOWi-Verteidiger geht: ordnet Akt…
-5. **rotlicht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine in VerkehrsOWi-Verteidiger geht: erstellt den passenden Ent…
-6. **akteneinsicht-internationaler-bezug-und-schnittstellen** — Wenn es um Akteneinsicht: Internationaler Bezug und Schnittstellen in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, …
-7. **alkohol-compliance-dokumentation-und-akte** — Wenn es um Alkohol: Compliance-Dokumentation und Aktenvermerk in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Beleg…
-8. **punkte-rotlicht-verkehrsowi** — Wenn es um Punkte: Risikoampel, Gegenargumente und Verteidigungslinien in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis…
-9. **verkehrsowi-verjaehrung-zustellung** — Wenn es um Verfolgungsverjaehrung und Zustellungsmaengel — Paragraf 31 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist…
-10. **vowi-akteneinsicht-rohmessdaten-leitfaden** — Wenn es um Vowi Akteneinsicht Rohmessdaten Leitfaden in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken…
-11. **geschwindigkeit-verhandlung-vergleich-und-eskalation** — Wenn es um Geschwindigkeit: Verhandlung, Vergleich und Eskalation in VerkehrsOWi-Verteidiger geht: entwickelt Verhandlun…
-12. **handy-zahlen-schwellen-und-berechnung** — Wenn es um Handy: Zahlen, Schwellenwerte und Berechnung in VerkehrsOWi-Verteidiger geht: rechnet Schwellen, Beträge, Var…
-13. **amtsgericht-drogen-interessen-einspruch** — Wenn es um Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage in VerkehrsOWi-Verteidiger geht: prüft Frist, Fo…
-14. **anschluss-routing** — Wenn es um Anschluss-Routing in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-15. **verkehrsowi-haertefall-fahrverbot** — Wenn es um Haertefall-Argumentation beim Fahrverbot — Paragraf 25 StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, For…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verkehrsowi Verteidiger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
+3. **verkehrsowi-erstpruefung-und-mandatsziel** — Wenn es um Verkehrsowi: Erstprüfung, Rollenklärung und Mandatsziel in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, F…
+4. **verkehrsowi-rotlicht-abstand-handy** — Wenn es um Rotlicht, Abstand und Handy — Paragrafen 23. 37. 4 StVO in VerkehrsOWi-Verteidiger geht: ordnet Sachverhalt, …
+5. **messung-fahrverbot-punkte** — Wenn es um Messung, Punkte, Fahrverbot und Verteidigungsziel im Verkehrs-OWi in VerkehrsOWi-Verteidiger geht: ordnet Akt…
+6. **rotlicht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine in VerkehrsOWi-Verteidiger geht: erstellt den passenden Ent…
+7. **akteneinsicht-internationaler-bezug-und-schnittstellen** — Wenn es um Akteneinsicht: Internationaler Bezug und Schnittstellen in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, …
+8. **alkohol-compliance-dokumentation-und-akte** — Wenn es um Alkohol: Compliance-Dokumentation und Aktenvermerk in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Beleg…
+9. **punkte-rotlicht-verkehrsowi** — Wenn es um Punkte: Risikoampel, Gegenargumente und Verteidigungslinien in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis…
+10. **verkehrsowi-verjaehrung-zustellung** — Wenn es um Verfolgungsverjaehrung und Zustellungsmaengel — Paragraf 31 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist…
+11. **vowi-akteneinsicht-rohmessdaten-leitfaden** — Wenn es um Vowi Akteneinsicht Rohmessdaten Leitfaden in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken…
+12. **geschwindigkeit-verhandlung-vergleich-und-eskalation** — Wenn es um Geschwindigkeit: Verhandlung, Vergleich und Eskalation in VerkehrsOWi-Verteidiger geht: entwickelt Verhandlun…
+13. **handy-zahlen-schwellen-und-berechnung** — Wenn es um Handy: Zahlen, Schwellenwerte und Berechnung in VerkehrsOWi-Verteidiger geht: rechnet Schwellen, Beträge, Var…
+14. **amtsgericht-drogen-interessen-einspruch** — Wenn es um Amtsgericht: Mandantenkommunikation und Entscheidungsvorlage in VerkehrsOWi-Verteidiger geht: prüft Frist, Fo…
+15. **anschluss-routing** — Wenn es um Anschluss-Routing in VerkehrsOWi-Verteidiger geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Verkehrsowi Verteidiger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Verkehrsowi Verteidiger
+
+## 1. Direktstart
+
+Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+
+Pluginauftrag: Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Verkehrsowi Verteidiger in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Blitz-Zergliederung | jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
+| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten |
+| Tatbestand | objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen |
+| Prozessuales | Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst |
+| Rechtsfolge | Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Einspruchsfrist und Einspruch — Paragraf 67 OWiG: Bearbeite den Fachpunkt im Skill verkehrsowi-fristen-einspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill anhoerung-verkehrsowi-einspruch-messverfahren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Akteneinsicht und Messakte im OWi-Verfahren: Bearbeite den Fachpunkt im Skill verkehrsowi-akteneinsicht-messakte und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG: Bearbeite den Fachpunkt im Skill verkehrsowi-anhoerung-bussgeldbescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
+4.2. StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
+4.3. StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
+4.4. StPO Paragraf 261: freie richterliche Beweiswürdigung.
+4.5. StPO Paragraf 267: Urteilsgründe im Strafurteil.
+4.6. StGB Paragraf 46: Strafzumessung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+5.2. BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
+5.3. BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
+5.4. BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Tatvorwurf wird mit welcher Norm verbunden.
+7.2. Welche Tatsache wird durch welches Beweismittel getragen.
+7.3. Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
+7.4. Welche Einlassungs- oder Antragsstrategie ist prozessual sauber.
+7.5. Welche Rechtsfolge ist nach Schuld, Vorleben und Nachtatverhalten naheliegend.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Blitz-Zergliederung, Beweise und Einlassung, Tatbestand, Prozessuales: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag verwendbar?
 
 ---
 
@@ -851,90 +969,6 @@ Dieses Anschluss-Routing für **Verkehrsowi Verteidiger** wählt nach dem ersten
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `verkehrsowi-haertefall-fahrverbot`
-
-_Wenn es um Haertefall-Argumentation beim Fahrverbot — Paragraf 25 StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Haertefall-Argumentation beim Fahrverbot — § 25 StVG
-
-## Arbeitsbereich
-
-Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: § 67 OWiG Einspruch 2 Wochen, § 31 OWiG Verjährung 3/6 Monate, § 26 StVG Fahrverbot 4 Monate, § 79 OWiG Rechtsbeschwerde 1 Woche.
-- Tragende Normen verifizieren: StVG §§ 24, 24a, 25, 26, OWiG §§ 17, 26a, 47, 65, 66, 67, 68, 73, 74, 79, 80, BKatV, BußgeldkatalogVO, StVO, FZV, MessgeräteG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Betroffener, Verteidiger, Bußgeldstelle (Polizei/Verwaltungsbehörde), Amtsgericht (Bußgeldrichter), OLG-Senat, PTB (Eichbehörde).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zeugenfragebogen, Anhörungsbogen, Bußgeldbescheid, Einspruchsschrift, Messprotokoll, Eichschein, Hauptverhandlungsprotokoll — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. **Wie hoch ist das Fahrverbot?** — § 25 StVG: 1 bis 3 Monate; Regelfahrverbot im BKat (Bussgeldkatalog) bei bestimmten Verstaessen.
-2. **Ist der Mandant beruflich auf das Fahrzeug angewiesen?** — LKW-Fahrer, Vertreter, Pflegekraft, Taxi/Uber — Haertefall-Argumentation.
-3. **Existenzgefaehrdung nachweisbar?** — Drohende Kuendigung, Arbeitslosenunterstuetzung nicht ausreichend, Eigentümer Kleinstunternehmen.
-4. **Gibt es mildernde Tatumstaende?** — Dringende Notsituation, techisches Versagen, minimale Ueberschreitung.
-5. **Vier-Monats-Frist nutzbar?** — § 25 Abs. 2a StVG: Betroffener kann Beginn des Fahrverbots bis zu 4 Monate nach Rechtskraft hinauszogern (vorteilhaft für Urlaubszeit).
-
-## Zentrale Normen
-
-- **§ 25 Abs. 1 StVG** — Fahrverbot im OWi-Verfahren: 1 bis 3 Monate
-- **§ 25 Abs. 2a StVG** — Vier-Monats-Frist: Betroffener kann Antritt bis 4 Monate nach Rechtskraft hinausschieben
-- **§ 4 Abs. 1 BKatV** — Regelfahrverbot bei bestimmten Grenzwerten; kann unterschritten werden wenn Haertefall vorliegt
-- **§ 17 Abs. 3 OWiG** — Geldbusse als Alternative; Erhoehung möglich statt Fahrverbot
-- **§ 44 StGB** — Fahrverbot als strafrechtliche Nebenstrafe (andere Regelung als § 25 StVG)
-
-## Aktuelle Rechtsprechung
-
-- OLG Frankfurt a.M., Beschl. v. 18.3.2021 - 2 Ss OWi 148/21 (NZV 2021, 448 — Volltext über openjur.de oder offene Justizdatenbank Hessen verifizieren): Berufsbedingte Angewiesenheit ist typischerweise kein Haertefall; der Betroffene muss zusaetzlich darlegen, dass keine Alternative zum Selbstfahren besteht und Existenzgefaehrdung nachweisbar ist.
-- Weitere OLG-Linien (Bayerisches Oberstes Landesgericht, OLG Hamm, OLG Düsseldorf u.a.): konkrete Aktenzeichen vor Versand in openjur.de oder offenen Landesjustiz-Datenbanken aufrufen.
-- BVerfG zum Verhältnismäßigkeitsgrundsatz bei Fahrverbot: laufende Linie; Aktenzeichen vor Versand in bundesverfassungsgericht.de verifizieren.
-
-## Haertefall-Argumentation — Checkliste
-
-```
-BERUFLICHE ANGEWIESENHEIT (schwache Argumentation allein):
-□ Berufsbezeichnung (LKW-Fahrer, Handelsvertreter, etc.)
-□ Fahrzeug notwendig für Berufsausuebung
-□ Keine Moeglichkeit oeff. Nahverkehr zu nutzen (Nachweis?)
-
-EXISTENZGEFAEHRDUNG (staerkere Argumentation):
-□ Drohende Kuendigung durch Arbeitgeber (Bescheinigung!)
-□ Arbeitnehmerarbeitgeber-Bescheinigung: "Fahrverbot = Kuendigung"
-□ Selbststaendiger: Einnahmenausfall konkret beziffert (BWA)
-□ Minijobber / Sozialhilfebeziehende: Existenzminimum betroffen
-□ Keine Alternative vorhanden (keine Mitfahrer, kein Taxi zu vertretbaren Kosten)
-
-MILDERNDE TATUMSTAENDE:
-□ Erstverstos (kein Vorvergehen im BZR Flensburg)
-□ Minimale Geschwindigkeitsueberschreitung an der Grenze zum Fahrverbot
-□ Besondere Notlage zur Tatzeit (medizinischer Notfall, etc.)
-□ Ueberlange Verfahrensdauer (> 2 Jahre seit Tat)
-
-VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
-□ Antrag auf Verschiebung des Fristbeginns (z.B. auf Urlaubszeit)
-□ Zustimmung des Gerichts einholen
-□ Zeitplanung mit Mandant abstimmen
-```
-
-## Schritt-für-Schritt-Workflow
-
-1. **Mandant über realistische Chancen aufklaeren** — Haertefall ist selten anerkannt.
-2. **Beweise sammeln:** Arbeitgeber-Bescheinigung, Einkommensnachweis, Alternativennachweis (OEPNV nicht erreichbar).
-3. **Vier-Monats-Frist als Alternative:** Wenn Haertefall nicht durchsetzbar, Fristverschiebung nach § 25 Abs. 2a StVG beantragen.
-4. **Absehen vom Fahrverbot beantragen:** Statt Fahrverbot erhoehte Geldbusse; § 17 Abs. 3 OWiG i.V.m. § 4 Abs. 4 BKatV.
-5. **In der HV:** Haertefall-Argumente konkret und mit Belegen vortragen; pauschale Berufsnotwendigkeit genuegt nicht.
-
-## Harte Leitplanken
-
-- Haertefall ohne Belege wird nicht anerkannt — Bescheinigungen und Nachweise zwingend.
-- Vier-Monats-Frist immer als Rueckfall-Option vorbereiten.
-- Mandant realistisch informieren — Fahrverbot ist die Regel, Ausnahme ist die Ausnahme.
-- Anwaltliche Endkontrolle bei Haertefall-Argumentation.
 
 ---
 

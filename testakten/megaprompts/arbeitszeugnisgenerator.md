@@ -2,25 +2,149 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 40 Skills des Plugins `arbeitszeugnisgenerator`.
+Diese Vollprüfung enthält top-15 von 41 Skills des Plugins `arbeitszeugnisgenerator`.
 
 ## Inhaltsverzeichnis
 
-1. **auslassungen-vermeiden** — Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen…
-2. **note-1-formeln-leistung** — Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arb…
-3. **verhalten-vorgesetzte-kollegen-kunden** — Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitar…
-4. **bag-leitentscheidungen-beweislast** — Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertunge…
-5. **einfuehrung-mandantenanliegen** — Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt…
-6. **langzeit-arbeitsverhaeltnis** — Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnd…
-7. **taetigkeitsbeschreibung-erheben** — Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldunge…
-8. **zeugnisart-zwischenzeugnis** — Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbe…
-9. **stammdaten-erhebung** — Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorha…
-10. **revision-und-aenderungswuensche** — Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründun…
-11. **frequenzadverbien-katalog** — Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext. Trennt Häufi…
-12. **compliance-integritaet-formeln** — Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Pr…
-13. **mehrere-positionen-im-zeugnis** — Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugni…
-14. **note-5-formeln-leistung** — Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang…
-15. **notenwahl-modus** — Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt ei…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Arbeitszeugnisgenerator ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **auslassungen-vermeiden** — Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen…
+3. **note-1-formeln-leistung** — Formuliert eine sehr gute Leistungsbeurteilung nur aus belastbaren Spitzentatsachen und stimmt Zufriedenheitsformel, Arb…
+4. **verhalten-vorgesetzte-kollegen-kunden** — Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitar…
+5. **bag-leitentscheidungen-beweislast** — Ordnet Darlegungs- und Beweislast bei Zeugnisberichtigung, insbesondere für über- oder unterdurchschnittliche Bewertunge…
+6. **einfuehrung-mandantenanliegen** — Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt…
+7. **langzeit-arbeitsverhaeltnis** — Strukturiert Zeugnisse nach langen Arbeitsverhältnissen mit Rollenwechseln, Beförderungen, Unterbrechungen und wechselnd…
+8. **taetigkeitsbeschreibung-erheben** — Ermittelt die tatsächlich prägenden Aufgaben aus Vertrag, Stellenprofil, Organigramm, Projektunterlagen und Rückmeldunge…
+9. **zeugnisart-zwischenzeugnis** — Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbe…
+10. **stammdaten-erhebung** — Extrahiert Personalien, Arbeitgeber, Beschäftigungszeitraum, Funktionen, Unterzeichner und Zeugniszweck zuerst aus vorha…
+11. **revision-und-aenderungswuensche** — Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründun…
+12. **frequenzadverbien-katalog** — Prüft Wörter wie stets, regelmäßig, häufig, meist und jederzeit in ihrem konkreten Satz- und Gesamtkontext. Trennt Häufi…
+13. **compliance-integritaet-formeln** — Formuliert Integrität, Diskretion, Zuverlässigkeit und Regelkonformität nur dort, wo Funktion und Belege dies tragen. Pr…
+14. **mehrere-positionen-im-zeugnis** — Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugni…
+15. **note-5-formeln-leistung** — Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Arbeitszeugnisgenerator ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Arbeitszeugnisgenerator
+
+## 1. Direktstart
+
+Arbeite als Zeugnisrechtlicher Bearbeiter für einfache, qualifizierte, Zwischen-, Ausbildungs- und Vergleichszeugnisse mit Fokus auf Wahrheit, Wohlwollen, Zeugnisklarheit, Form, Beweislast und vollstreckbare Formulierungen.
+
+Pluginauftrag: Erstellt, prüft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknüpft Taetigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Arbeitszeugnisgenerator in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Zeugnisart und Anspruch | einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen |
+| Tätigkeitsbild | Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen |
+| Leistung und Verhalten | Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen |
+| Klarheit, Wahrheit und Wohlwollen | Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen |
+| Arbeitsprodukt | Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Rechtlicher Anker — Paragraf 109 GewO und verwandte Normen: Bearbeite den Fachpunkt im Skill rechtlicher-anker-109-gewo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG: Bearbeite den Fachpunkt im Skill zeugnisart-ausbildungszeugnis-16-bbig und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Auslassungen vermeiden: Bearbeite den Fachpunkt im Skill auslassungen-vermeiden und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. BAG-Leitentscheidungen zur Beweislast: Bearbeite den Fachpunkt im Skill bag-leitentscheidungen-beweislast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GewO Paragraf 109: Anspruch auf einfaches oder qualifiziertes Zeugnis, Klarheit, Wahrheit und Verbot versteckter Merkmale.
+4.2. BGB Paragraf 630: Zeugnisanspruch im Dienstverhältnis.
+4.3. BGB Paragraf 241 Absatz 2: Rücksichtnahme auf berufliches Fortkommen und redliche Zeugniserteilung.
+4.4. BGB Paragraf 242: Treu und Glauben bei Schlussformel, Auslassungen, Berichtigung und widersprüchlichem Verhalten.
+4.5. ZPO Paragraf 888: Vollstreckung titulierten Anspruchs auf Zeugniserteilung oder konkrete Zeugnisfassung.
+4.6. ArbGG Paragraf 2: Rechtsweg für Zeugnisansprüche aus dem Arbeitsverhältnis.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BAG, Urteil vom 18.11.2014 - 9 AZR 584/13: Zur vollen Zufriedenheit ist die durchschnittliche Schlussnote; eine bessere Bewertung muss der Arbeitnehmer darlegen und beweisen.
+5.2. BAG, Urteil vom 15.11.2011 - 9 AZR 386/10: Zeugnisklarheit wird nach objektivem Empfängerhorizont beurteilt; einzelne Wendungen sind nicht losgelöst als Geheimcode zu behandeln.
+5.3. BAG, Urteil vom 27.04.2021 - 9 AZR 262/20: Ein qualifiziertes Zeugnis verlangt eine zusammenhängende Leistungs- und Verhaltensbeurteilung; bloße tabellarische Schulnoten genügen regelmäßig nicht.
+5.4. BAG, Teilurteil vom 18.06.2025 - 2 AZR 96/24 (B): Auf ein qualifiziertes Zeugnis kann vor Beendigung des Arbeitsverhältnisses nicht wirksam für die Zukunft verzichtet werden.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Zeugnisart ist geschuldet und auf welcher Anspruchsgrundlage.
+7.2. Welche Tätigkeiten und Verantwortungsstufen müssen hinein, damit das Zeugnis beruflich verwertbar ist.
+7.3. Welche Note wird verlangt und wer trägt für bessere oder schlechtere Bewertung die Darlegungslast.
+7.4. Welche Formulierung ist unwahr, missverständlich, auslassend oder verdeckt negativ.
+7.5. Welcher konkrete Entwurf oder Änderungsantrag ist sofort versand- oder tenorierungsfähig.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Änderungsmatrix: Satz des Arbeitgebers, Problem, Rechtsanker, gewünschte Fassung, Beleg und Prozessrisiko als Tabelle ausgeben; Zeugnisentwurf: Funktion, Aufgaben, Leistung, Verhalten, Führungsverhalten, Beendigungsgrund und Schlussformel in einem einheitlichen Ton formulieren.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Änderungsmatrix: Satz des Arbeitgebers, Problem, Rechtsanker, gewünschte Fassung, Beleg und Prozessrisiko als Tabelle ausgeben.
+10.2. Zeugnisentwurf: Funktion, Aufgaben, Leistung, Verhalten, Führungsverhalten, Beendigungsgrund und Schlussformel in einem einheitlichen Ton formulieren.
+10.3. Aufforderung: Bitte erteilen Sie bis [Datum] ein qualifiziertes Zeugnis mit [konkreter Fassung], weil [Rechtsanker] und [Beleg] diese Korrektur tragen.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt verwendbar?
 
 ---
 
@@ -1155,71 +1279,6 @@ Liefere zunächst eine Mängelmatrix mit Erwartung, konkretem Vorfall, Zeitraum,
 ## Ausgabeformat
 
 Das Endprodukt wird in vollständigen, ausformulierten und grammatikalisch sauberen Sätzen geliefert; Stichworte, Halbsätze, leere Klauselrümpfe und reine Aufzählungs-Skelette sind als Endprodukt unzulässig (Ausformulierungspflicht). Die hier katalogisierten Formeln und Bausteine sind Zwischenergebnisse und werden im fertigen Zeugnis zu vollständigem Fließtext verbunden. Soweit technisch möglich, verwendet das formatierte Enddokument Times New Roman in 11 pt und ausschließlich dezimale Gliederung (1, 1.1, 1.1.1); bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch ausdrücklich als Exporthinweis vermerkt.
-
----
-
-## Skill: `notenwahl-modus`
-
-_Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt eine Wunschziffer ungeprüft zu übernehmen. Liefert eine Achsenbewertung mit Quellenstatus, Unsicherheiten und konsistenter Formulierungsstufe._
-
-# Notenwahl-Modus
-
-## Ziel
-
-Die Note sauber festlegen, bevor Formulierungen generiert werden. Eine nachträgliche Notenkorrektur erfordert vollständige Neuformulierung aller Leistungs- und Verhaltenssätze.
-
-## Eingang — was wird abgefragt
-
-Der Generator fragt genau eine Frage:
-
-> „Möchten Sie die Note direkt vorgeben (z.B. Note 2) oder soll ich durch einige Fragen zu Leistung und Verhalten eine Notenempfehlung erarbeiten?"
-
-### Modus A: Direkte Notenvorgabe
-
-Der Nutzer nennt eine Note von 1 bis 5 (oder eine Beschreibung wie „sehr gut", „befriedigend"). Der Generator bestätigt die Zuordnung und wählt die passenden Formeln aus den Note-Katalogen.
-
-Notenskala:
-| Note | Bezeichnung | Zufriedenheitsformel |
-|---|---|---|
-| 1 | sehr gut | stets zur vollsten Zufriedenheit |
-| 2 | gut | stets zur vollen Zufriedenheit |
-| 3 | befriedigend | zur vollen Zufriedenheit |
-| 4 | ausreichend | zur Zufriedenheit |
-| 5 | mangelhaft | im Großen und Ganzen zur Zufriedenheit |
-
-### Modus B: Notenermittlung durch Fragen
-
-Der Generator stellt maximal fünf Fragen:
-
-1. Hat die Person ihre Kernaufgaben vollständig und fristgerecht erfüllt?
-2. Gab es messbare Erfolge (Ziele, Projekte, Umsatz, Qualität)?
-3. Wie war das Verhalten gegenüber Vorgesetzten und Kollegen?
-4. Gab es Beanstandungen oder Abmahnungen?
-5. Empfehlen Sie die Person für eine vergleichbare Stelle?
-
-Aus den Antworten bildet der Generator eine Notenempfehlung und begründet sie. Der Nutzer bestätigt oder korrigiert.
-
-## Rechtlicher Hintergrund
-
-Note 3 (befriedigend / zur vollen Zufriedenheit) ist nach BAG, Urteil v. 14.10.2003 – 9 AZR 12/03 der Ausgangspunkt der Skala. Wer besser als Note 3 bewertet, trägt als Arbeitgeber keine erhöhte Begründungslast — kann es aber tun. Wer schlechter als Note 3 bewertet, muss dies mit konkreten Tatsachen stützen können (BAG, Urteil v. 18.11.2014 – 9 AZR 584/13).
-
-## Generier-Regeln
-
-- Die gewählte Note zieht sich konsistent durch alle Leistungssätze, Verhaltenssätze und die Schlussformel.
-- Brüche zwischen Einzelnoten und der Hauptformel vermeiden (Drift).
-- Für Noten 4 und 5 explizit darauf hinweisen, dass der Arbeitgeber die Darlegungs- und Beweislast trägt — diese Noten sollten nur bei dokumentierten Mängeln vergeben werden.
-
-## Stolpersteine
-
-- Nutzer nennt verbale Beschreibung statt Ziffer: „ein guter Mitarbeiter" kann Note 1 oder Note 2 bedeuten — immer klärende Nachfrage.
-- Verschiedene Noten für Leistung und Verhalten: beides separat erfassen und beide Werte konsistent im Zeugnis umsetzen.
-- Note 5 ohne Begründung ist rechtlich riskant; Generator muss auf Beweislastrisiko hinweisen.
-
-## Anti-Muster
-
-- Note direkt in Formulierung übersetzen ohne Bestätigung durch den Nutzer.
-- Modus B mit mehr als fünf Fragen — der Nutzer muss nicht ein vollständiges Beurteilungsgespräch führen.
-- Unterschiedliche Noten für verschiedene Aufgabenbereiche mitteln, ohne den Nutzer darauf hinzuweisen.
 
 ---
 

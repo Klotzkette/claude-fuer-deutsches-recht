@@ -2,20 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 95 Skills des Plugins `energierecht`.
+Diese Vollprüfung enthält top-10 von 96 Skills des Plugins `energierecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-2. **energierecht-erstpruefung-und-mandatsziel** — Wenn es um Energierecht: Erstprüfung, Rollenklärung und Mandatsziel in Energierecht geht: klärt Rolle, Ziel, Frist, Unte…
-3. **projektfinanzierung-stadtwerke-system** — Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Bele…
-4. **bess-power-quality-emv** — Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-5. **energieprojekt-intake-und-regulierungsweiche** — Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Bel…
-6. **bess-bimschg-und-4-bimschv** — Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-7. **industrie-schriftsatz-brief-und-memo-bausteine** — Wenn es um Industrie: Schriftsatz-, Brief- und Memo-Bausteine in Energierecht geht: erstellt den passenden Entwurf aus S…
-8. **netzanschluss-praesumtion-spezial** — Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-9. **bess-rechtsmittel-und-nachbarabwehr** — Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sach…
-10. **ppa-cppa-vertragsspezialitaeten** — Wenn es um PPA und CPPA: Spezialitaeten in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und n…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Energierecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+3. **energierecht-erstpruefung-und-mandatsziel** — Wenn es um Energierecht: Erstprüfung, Rollenklärung und Mandatsziel in Energierecht geht: klärt Rolle, Ziel, Frist, Unte…
+4. **projektfinanzierung-stadtwerke-system** — Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Bele…
+5. **bess-power-quality-emv** — Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
+6. **energieprojekt-intake-und-regulierungsweiche** — Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Bel…
+7. **bess-bimschg-und-4-bimschv** — Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+8. **industrie-schriftsatz-brief-und-memo-bausteine** — Wenn es um Industrie: Schriftsatz-, Brief- und Memo-Bausteine in Energierecht geht: erstellt den passenden Entwurf aus S…
+9. **netzanschluss-praesumtion-spezial** — Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+10. **bess-rechtsmittel-und-nachbarabwehr** — Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sach…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Energierecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Energierecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Energierecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Produktsicherheit, Rückruf und Haftung: Bearbeite den Fachpunkt im Skill bess-produktsicherheit-haftung-versicherung-schadenfall und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Industrie: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill industrie-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Livecheck: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill livecheck-fristennotiz-versorger und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. PPA und CPPA: Spezialitaeten: Bearbeite den Fachpunkt im Skill ppa-cppa-vertragsspezialitaeten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Energierecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -445,66 +562,6 @@ VwGO, BauGB/Bauordnungsrecht, BImSchG, UmwRG, Nachbarschutz.
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
----
-
-## Skill: `ppa-cppa-vertragsspezialitaeten`
-
-_Wenn es um PPA und CPPA: Spezialitaeten in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# PPA und CPPA: Spezialitaeten
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: PPA und CPPA: Spezialitaeten
-- **Normen-/Quellenanker:** PPA, CPPA.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

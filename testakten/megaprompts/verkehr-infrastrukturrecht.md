@@ -2,25 +2,142 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `verkehr-infrastrukturrecht`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `verkehr-infrastrukturrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-2. **verkehrs-erstpruefung-und-mandatsziel** — Wenn es um Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Z…
-3. **mobilitaetsprojekt-intake** — Wenn es um Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche in Verkehrs- und Infrastrukturrecht g…
-4. **verfahren** — Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstel…
-5. **autonomous-driving-interessen-grossprojekt** — Wenn es um Autonomous: Compliance-Dokumentation und Aktenvermerk in Verkehrs- und Infrastrukturrecht geht: ordnet Akteni…
-6. **parkraum-planfeststellung-strassenbahn** — Wenn es um Parkraum: Schriftsatz-, Brief- und Memo-Bausteine in Verkehrs- und Infrastrukturrecht geht: erstellt den pass…
-7. **foerderung-vergabe-ladeinfrastruktur** — Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passe…
-8. **buergerentscheid-strassenbahn-spezial** — Wenn es um Buergerentscheid Strassenbahn in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-9. **nachhaltige-bahninfrastruktur-emissionen** — Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-10. **verkehr-infrastrukturrecht-sondernutzung** — Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden…
-11. **sondernutzung** — Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
-12. **strassenbahn** — Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
-13. **strassenbahn-risikoampel-und-gegenargumente** — Wenn es um Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien in Verkehrs- und Infrastrukturrecht geht: z…
-14. **grossprojekt-zahlen-schwellen-und-berechnung** — Wenn es um Grossprojekt: Zahlen, Schwellenwerte und Berechnung in Verkehrs- und Infrastrukturrecht geht: rechnet Schwell…
-15. **vifr-planfeststellung-strasse-bauleiter** — Wenn es um Vifr Planfeststellung Strasse Bauleiter in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entw…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verkehr Infrastrukturrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+3. **verkehrs-erstpruefung-und-mandatsziel** — Wenn es um Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Z…
+4. **mobilitaetsprojekt-intake** — Wenn es um Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche in Verkehrs- und Infrastrukturrecht g…
+5. **verfahren** — Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstel…
+6. **autonomous-driving-interessen-grossprojekt** — Wenn es um Autonomous: Compliance-Dokumentation und Aktenvermerk in Verkehrs- und Infrastrukturrecht geht: ordnet Akteni…
+7. **parkraum-planfeststellung-strassenbahn** — Wenn es um Parkraum: Schriftsatz-, Brief- und Memo-Bausteine in Verkehrs- und Infrastrukturrecht geht: erstellt den pass…
+8. **foerderung-vergabe-ladeinfrastruktur** — Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passe…
+9. **buergerentscheid-strassenbahn-spezial** — Wenn es um Buergerentscheid Strassenbahn in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+10. **nachhaltige-bahninfrastruktur-emissionen** — Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+11. **verkehr-infrastrukturrecht-sondernutzung** — Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden…
+12. **sondernutzung** — Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
+13. **strassenbahn** — Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
+14. **strassenbahn-risikoampel-und-gegenargumente** — Wenn es um Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien in Verkehrs- und Infrastrukturrecht geht: z…
+15. **grossprojekt-zahlen-schwellen-und-berechnung** — Wenn es um Grossprojekt: Zahlen, Schwellenwerte und Berechnung in Verkehrs- und Infrastrukturrecht geht: rechnet Schwell…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Verkehr Infrastrukturrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Verkehr Infrastrukturrecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Verkehr Infrastrukturrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Parkraumbewirtschaftung: Formular, Portal und Einreichungslogik: Bearbeite den Fachpunkt im Skill parkraumbewirtschaftung-verkehr und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Fristen- und Risikoampel: Bearbeite den Fachpunkt im Skill verkehr-infrastruktur-fristen-risiko-mandant und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill verkehrsplanung-verfahren-vertragsmodell und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Sondernutzung öffentlicher Strassenflächen: Bearbeite den Fachpunkt im Skill verkehr-infrastrukturrecht-sondernutzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Verkehr Infrastrukturrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -779,71 +896,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vifr-planfeststellung-strasse-bauleiter`
-
-_Wenn es um Vifr Planfeststellung Strasse Bauleiter in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VwVfG § 73 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist, VwGO § 47 Normenkontrolle 1 Jahr, BVerwGO § 50 Abs. 1 Nr. 6 erstinstanzliche Zuständigkeit BVerwG.
-- Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB §§ 38, 246, VwVfG §§ 72-78 (Planfeststellung), VwGO §§ 47 ff., BNatSchG §§ 14, 15, 34, 44, WHG §§ 8, 67, EU-FFH-RL, UmwRG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhörungsverfahren, Beschluss. Prüfraster für Vorhabentraeger und Einwender.
-
-### ViFR: Planfeststellung Strasse
-
-## Spezialwissen: ViFR: Planfeststellung Strasse
-- **Normen-/Quellenanker:** FStrG, UVP.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

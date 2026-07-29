@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Befund: Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren.
 4. Rechtfertigung: grundlegende Veränderung oder unverhältnismäßige Belastung nur anhand der gesetzlichen Kriterien und Unterlagen prüfen.
 5. Arbeitsprodukt: abrufenbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen.
-6. BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix.
 
 ## 4. Fallkarte
 
@@ -30,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BFSG Paragraf 1 bis Paragraf 3; BFSG Paragraf 6 bis Paragraf 14; BFSG Paragraf 16 und Paragraf 17 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix |
+| Tatbestand | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Anwendungsbereich | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prüfstandard | gesetzliche Anforderung, BFSGV, harmonisierte Norm, EN 301 549, WCAG-Kriterium und Versionsstand zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Befund | Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtfertigung | grundlegende Veränderung oder unverhältnismäßige Belastung nur anhand der gesetzlichen Kriterien und Unterlagen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | abrufenbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BITV: Dokumentenmatrix, Lückenliste und Nachforderung | ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Checkout: Beweislast, Darlegungslast und Substantiierung | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schulung: Fristennotiz und nächster Schritt | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Barrierefreiheit Web Checker — Allgemein | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,8 +58,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage, Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg, BITV: Dokumentenmatrix, Lückenliste und Nachforderung, Checkout: Beweislast, Darlegungslast und Substantiierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker BFSG Paragraf 1 bis Paragraf 3; BFSG Paragraf 6 bis Paragraf 14 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Anwendungsbereich konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Anwendungsbereich, Prüfstandard, Befund, Rechtfertigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

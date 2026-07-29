@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Beweisaufnahme begleiten: offene Frage, Antwort, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt und zulässigen Frageweg notieren.
 4. Neutralität und Beratung: Selbstanzeige, Befangenheitsanlass, Verfahrensverständnis, Abstimmungsfrage, Mehrheit und Beratungsgeheimnis trennen.
 5. Arbeitsprodukt: Sitzungsblatt, Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz ohne Vorfestlegung erstellen.
-6. Rolle und Besetzung: Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen.
 
 ## 4. Fallkarte
 
@@ -57,8 +56,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Sitzungsblatt: Rolle, Spruchkörper, Gegenstand, Besetzung, Beweisfragen, offene Punkte, Neutralitätshinweis und nächster Verfahrensschritt; Fragenliste: Beweisthema, offene Frage, Erkenntnisziel, Anschlussfrage, unzulässige Vorannahme und Ergebnisnotiz.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Sitzungsblatt, offene Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz.
+7.2. Normsatz: Den tragenden Anker GVG Paragraf 30; StPO Paragraf 24, Paragraf 30 und Paragraf 31 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Rolle und Besetzung konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Sitzungsblatt: Rolle, Spruchkörper, Gegenstand, Besetzung, Beweisfragen, offene Punkte, Neutralitätshinweis und nächster Verfahrensschritt; Fragenliste: Beweisthema, offene Frage, Erkenntnisziel, Anschlussfrage, unzulässige Vorannahme und Ergebnisnotiz. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

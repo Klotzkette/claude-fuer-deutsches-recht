@@ -30,7 +30,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7; VO (EG) 261/2004 Artikel 5 Absatz 3 |
 | Rechtsprechung | EuGH, Urteil vom 22.12.2008 - C-549/07; EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07 |
-| Tatbestand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU) |
+| Tatbestand | Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +39,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Flug: Massenklage RDG | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderungsschreiben — Mahnung (zweite Stufe) | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich fluggastrechte sofort bearbeitbar: erst Akte lesen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Geltend: Fristen, Form, Zuständigkeit und Rechtsweg | Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klage: Mandantenkommunikation und Entscheidungsvorlage | Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Buchung und Reichweite | Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ereignis und Zeit | Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch | Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entlastung | behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren | Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,14 +56,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 22.12.2008 - C-549/07: Wallentin-Hermann verlangt für außergewöhnliche Umstände ein nicht zur normalen Tätigkeit gehörendes, tatsächlich nicht beherrschbares Ereignis sowie den Nachweis aller zumutbaren Maßnahmen.
-- EuGH, Urteil vom 19.11.2009 - C-402/07 und C-432/07: Sturgeon stellt eine Ankunftsverspätung von mindestens drei Stunden für die Ausgleichsleistung grundsätzlich einer Annullierung gleich.
-- EuGH C-204/08 (Rehder).
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg; Entlastungstest: Ereignis, Herkunft, Beherrschbarkeit, Kausalität, zumutbare Maßnahme, Reserve und Beweisangebot.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Buchung und Reichweite konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg; Entlastungstest: Ereignis, Herkunft, Beherrschbarkeit, Kausalität, zumutbare Maßnahme, Reserve und Beweisangebot. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

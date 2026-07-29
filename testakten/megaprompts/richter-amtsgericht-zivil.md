@@ -2,23 +2,152 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-amtsgericht-zivil`.
+Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-amtsgericht-zivil`.
 
 ## Inhaltsverzeichnis
 
-1. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Urteil Amtsgericht Zivil) in Richter Amtsgericht Zivilsachen geht: ordnet S…
-2. **06-tenor-und-kostenentscheidung** — Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast…
-3. **08-versaeumnisurteil-und-anerkenntnis** — Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Bewei…
-4. **10-entscheidungsvorschlag-zur-richterlichen-pruefung** — Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverha…
-5. **03-akte-erstdurchsicht** — Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhal…
-6. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsz…
-7. **05-beweisaufnahme-kleine-zivilkammer** — Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Bewei…
-8. **09-vergleich-und-erledigung** — Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichsk…
-9. **07-urteilsentwurf-paragraf-313** — Wenn es um 07 Urteilsentwurf Paragraf 313 in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast,…
-10. **v392-praxisraster-richter-amtsgericht-zivil** — Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast,…
-11. **01-eingangspruefung-zustaendigkeit** — Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, R…
-12. **02-streitwert-und-gerichtskosten** — Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, R…
-13. **04-relation-zivilrecht-klein** — Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, G…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Amtsgericht Zivil ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
+2. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Urteil Amtsgericht Zivil) in Richter Amtsgericht Zivilsachen geht: ordnet S…
+3. **06-tenor-und-kostenentscheidung** — Wenn es um 06 Tenor und Kostenentscheidung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast…
+4. **08-versaeumnisurteil-und-anerkenntnis** — Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Bewei…
+5. **10-entscheidungsvorschlag-zur-richterlichen-pruefung** — Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverha…
+6. **03-akte-erstdurchsicht** — Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhal…
+7. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsz…
+8. **05-beweisaufnahme-kleine-zivilkammer** — Wenn es um 05 Beweisaufnahme Kleine Zivilkammer in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Bewei…
+9. **09-vergleich-und-erledigung** — Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichsk…
+10. **07-urteilsentwurf-paragraf-313** — Wenn es um 07 Urteilsentwurf Paragraf 313 in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast,…
+11. **v392-praxisraster-richter-amtsgericht-zivil** — Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast,…
+12. **01-eingangspruefung-zustaendigkeit** — Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, R…
+13. **02-streitwert-und-gerichtskosten** — Wenn es um 02 Streitwert und Gerichtskosten in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, R…
+14. **04-relation-zivilrecht-klein** — Wenn es um 04 Relation Zivilrecht Klein in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, G…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Richter Amtsgericht Zivil ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Richter Amtsgericht Zivil
+
+## 1. Direktstart
+
+Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+
+Pluginauftrag: Amtsrichter Zivilsachen: Schlüssigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorläufige Vollstreckbarkeit Rechtsmittelbelehrung Versäumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Richter Amtsgericht Zivil in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
+| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen |
+| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen |
+| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln |
+| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. 10 Entscheidungsvorschlag Zur Richterlichen Prüfung: Bearbeite den Fachpunkt im Skill 10-entscheidungsvorschlag-zur-richterlichen-pruefung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Praxisraster Amtsgericht Zivil: Bearbeite den Fachpunkt im Skill v392-praxisraster-richter-amtsgericht-zivil und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. 01 Eingangsprüfung Zuständigkeit: Bearbeite den Fachpunkt im Skill 01-eingangspruefung-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. 02 Streitwert und Gerichtskosten: Bearbeite den Fachpunkt im Skill 02-streitwert-und-gerichtskosten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+4.2. ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+4.3. ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+4.4. ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
+4.5. ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
+4.6. ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird
+5.2. BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis alle belastenden und entlastenden Anzeichen würdigen
+5.3. BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag unberücksichtigt lassen
+5.4. BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten Vortrag in der Parteistation verarbeiten
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Antrag bestimmt und vom Streitgegenstand getragen.
+7.2. Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird.
+7.3. Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
+7.4. Welche Tatsache ist beweisbedürftig, beweisbelastet und beweisangeboten.
+7.5. Welche Verfügung oder welcher Schriftsatz bringt das Verfahren jetzt voran.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+10.2. Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+10.3. Tenorcheck: Hauptsache, Nebenforderung, Kosten, vorläufige Vollstreckbarkeit, Streitwert und Zustellung kontrollieren.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis verwendbar?
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
 
 ---
 

@@ -45,7 +45,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`begriffskompass-intake-bgb-at`](skills/begriffskompass-intake-bgb-at/SKILL.md), [`dokumente-intake`](skills/dokumente-intake/SKILL.md), [`einstieg-routing`](skills/einstieg-routing/SKILL.md), [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md), [`workflow-kaltstart-und-routing`](skills/workflow-kaltstart-und-routing/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`dealroom-quellenkarte`](skills/dealroom-quellenkarte/SKILL.md), [`gesellschafterliste-compliance-dokumentation-und-akte`](skills/gesellschafterliste-compliance-dokumentation-und-akte/SKILL.md), [`spezial-dealroom-livequellen-und-rechtsprechungscheck`](skills/spezial-dealroom-livequellen-und-rechtsprechungscheck/SKILL.md), [`unterlagen-luecken`](skills/unterlagen-luecken/SKILL.md), [`workflow-unterlagen-lueckenliste`](skills/workflow-unterlagen-lueckenliste/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`workflow-fristen-und-risikoampel`](skills/workflow-fristen-und-risikoampel/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`workflow-fristen-und-risikoampel`](skills/workflow-fristen-und-risikoampel/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`anfaenger-verhandlung-vergleich-und-eskalation`](skills/anfaenger-verhandlung-vergleich-und-eskalation/SKILL.md), [`fully-diluted-esop-option-pool`](skills/fully-diluted-esop-option-pool/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`chronologie-fristen`](skills/chronologie-fristen/SKILL.md), [`corporate-behoerden-gericht-und-registerweg`](skills/corporate-behoerden-gericht-und-registerweg/SKILL.md), [`legal-schriftsatz-brief-und-memo-bausteine`](skills/legal-schriftsatz-brief-und-memo-bausteine/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`liquidation-preference-partner-briefing`](skills/liquidation-preference-partner-briefing/SKILL.md), [`output-waehlen`](skills/output-waehlen/SKILL.md), [`partner-briefing-memo`](skills/partner-briefing-memo/SKILL.md) |
@@ -59,7 +59,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -90,6 +90,7 @@ Automatisch generierte Komplett-Liste aller 53 Skills in diesem Plugin. Jeder Sk
 | [`gesellschafterliste-compliance-dokumentation-und-akte`](skills/gesellschafterliste-compliance-dokumentation-und-akte/SKILL.md) | Wenn es um Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodu... |
 | [`gesellschaftsrecht-legal`](skills/gesellschaftsrecht-legal/SKILL.md) | Wenn es um Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substan... |
 | [`governance-board-lernpfad-dealroom`](skills/governance-board-lernpfad-dealroom/SKILL.md) | Wenn es um Governance, Board und Consent Matters in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Gesellschaftsrecht Legal English ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Gesellschaftsrecht Legal English - Einstieg in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit... |
 | [`legal-schriftsatz-brief-und-memo-bausteine`](skills/legal-schriftsatz-brief-und-memo-bausteine/SKILL.md) | Wenn es um Legal: Schriftsatz-, Brief- und Memo-Bausteine in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit A... |
 | [`lernpfad-dealroom-simulator`](skills/lernpfad-dealroom-simulator/SKILL.md) | Wenn es um Lernpfad Dealroom-Simulator in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näc... |

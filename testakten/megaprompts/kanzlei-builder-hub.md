@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `kanzlei-builder-hub`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `kanzlei-builder-hub`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Kanzlei-Builder-Hub geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
-2. **skill-installation-security-gate** — Wenn es um Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate in Kanzlei-Builder-Hub geht: ordnet Ak…
-3. **deployment-eigenen-einsteiger** — Wenn es um Deployment: Schriftsatz-, Brief- und Memo-Bausteine in Kanzlei-Builder-Hub geht: erstellt den passenden Entwu…
-4. **automatischer-aktualisierer** — Wenn es um /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review in Kanzlei-Builder-Hub geht: prüft…
-5. **kanzlei-fundstellencheck-zitate-links** — Wenn es um Fundstellenglattzieher / Zitatenkorrektor in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sac…
-6. **qualitaetspruefung-beweislast-und-darlegungslast** — Wenn es um Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung in Kanzlei-Builder-Hub geht: prüft Frist, …
-7. **builder-zahlen-schwellen-und-berechnung** — Wenn es um Builder: Zahlen, Schwellenwerte und Berechnung in Kanzlei-Builder-Hub geht: rechnet Schwellen, Beträge, Varia…
-8. **review-risikoampel-und-gegenargumente** — Wenn es um Review: Risikoampel, Gegenargumente und Verteidigungslinien in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Fr…
-9. **grosskanzlei-rollout-thema-prozesse-abbilden** — Wenn es um Grosskanzlei-Rollout in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
-10. **kanzleiumgebung-khub-sonderfall-livecheck** — Wenn es um Kanzleiumgebung: Verhandlung, Vergleich und Eskalation in Kanzlei-Builder-Hub geht: entwickelt Verhandlungszi…
-11. **rentier-rechtsanwalt-spezial** — Wenn es um Einzelanwalt-Spezial in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
-12. **khub-kanzlei-onboarding-bauleiter** — Wenn es um Khub: Kanzlei-Onboarding Bauleiter in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhal…
-13. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und…
-14. **einsteiger-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Einsteiger: Mandantenkommunikation und Entscheidungsvorlage in Kanzlei-Builder-Hub geht: prüft Frist, Form, Z…
-15. **verwandte-skills-vorschlag** — Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zus…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kanzlei Builder Hub ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbinde…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Kanzlei-Builder-Hub geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+3. **skill-installation-security-gate** — Wenn es um Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate in Kanzlei-Builder-Hub geht: ordnet Ak…
+4. **deployment-eigenen-einsteiger** — Wenn es um Deployment: Schriftsatz-, Brief- und Memo-Bausteine in Kanzlei-Builder-Hub geht: erstellt den passenden Entwu…
+5. **automatischer-aktualisierer** — Wenn es um /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review in Kanzlei-Builder-Hub geht: prüft…
+6. **kanzlei-fundstellencheck-zitate-links** — Wenn es um Fundstellenglattzieher / Zitatenkorrektor in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sac…
+7. **qualitaetspruefung-beweislast-und-darlegungslast** — Wenn es um Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung in Kanzlei-Builder-Hub geht: prüft Frist, …
+8. **builder-zahlen-schwellen-und-berechnung** — Wenn es um Builder: Zahlen, Schwellenwerte und Berechnung in Kanzlei-Builder-Hub geht: rechnet Schwellen, Beträge, Varia…
+9. **review-risikoampel-und-gegenargumente** — Wenn es um Review: Risikoampel, Gegenargumente und Verteidigungslinien in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Fr…
+10. **grosskanzlei-rollout-thema-prozesse-abbilden** — Wenn es um Grosskanzlei-Rollout in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
+11. **kanzleiumgebung-khub-sonderfall-livecheck** — Wenn es um Kanzleiumgebung: Verhandlung, Vergleich und Eskalation in Kanzlei-Builder-Hub geht: entwickelt Verhandlungszi…
+12. **rentier-rechtsanwalt-spezial** — Wenn es um Einzelanwalt-Spezial in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
+13. **khub-kanzlei-onboarding-bauleiter** — Wenn es um Khub: Kanzlei-Onboarding Bauleiter in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhal…
+14. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in Kanzlei-Builder-Hub geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und…
+15. **einsteiger-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Einsteiger: Mandantenkommunikation und Entscheidungsvorlage in Kanzlei-Builder-Hub geht: prüft Frist, Form, Z…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Kanzlei Builder Hub ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Kanzlei Builder Hub
+
+## 1. Direktstart
+
+Arbeite als Dokumentenbearbeiter für Akteninventur, Versionsvergleich, Tabellenprüfung, Vertrags- und Schriftsatzentwurf, Formatkontrolle, Quellenrückverfolgung und sichere Übergabe mit Fokus auf Fundstelle, Konsistenz und reproduzierbaren Bearbeitungsstand.
+
+Pluginauftrag: Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Kanzlei Builder Hub in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Builder: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill builder-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Community: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill community-leistungsmatrix-fristennotiz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Gate: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill gate-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Leistungsmatrix: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill leistungsmatrix-fristennotiz-und-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+4.2. ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+4.3. ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+4.4. ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
+4.5. HGB Paragraf 257 und AO Paragraf 147: Aufbewahrung und Nachvollziehbarkeit geschäftlicher Unterlagen, soweit anwendbar.
+4.6. BRAO Paragrafen 43, 43a, 43e, 46 ff.; BORA Paragrafen 2, 3, 6, 11, 12; RVG/VV RVG bei Kosten- und Vergütungsfragen
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Datei ist die maßgebliche und freigegebene Fassung.
+7.2. Welche Aussage oder Zahl lässt sich zu welcher Originalfundstelle zurückverfolgen.
+7.3. Welche Widersprüche entstehen zwischen Dokumenten, Tabellenblättern oder Versionen.
+7.4. Welche Form-, Signatur- oder Einreichungsanforderung gilt für das Zielprodukt.
+7.5. Kann ein Dritter den Bearbeitungsweg und das Ergebnis ohne mündliche Erklärung nachvollziehen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke.
+10.2. Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+10.3. Übergabevermerk: Auftrag, Eingangsstand, Arbeitsschritte, Ergebnisdateien, offene Punkte, Prüfnachweis und nächster Schritt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk verwendbar?
 
 ---
 
@@ -728,139 +849,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `verwandte-skills-vorschlag`
-
-_Wenn es um /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung
-
-## Triage zu Beginn
-1. Welche Aufgabe wurde gerade abgeschlossen, für die eine Skill-Empfehlung relevant sein koennte?
-2. Ist die Benachrichtigungseinstellung im Kanzleiprofil auf 'alle', 'passend zum Profil' oder 'keine' gesetzt?
-3. Wurden die empfohlenen Skills bereits angesehen oder abgewiesen (Surfaced-Tracking beachten)?
-4. Verarbeitet der zu empfehlende Skill Mandantendaten (DSGVO-Hinweis erforderlich)?
-
-## Zentrale Normen
-- Art. 28 DSGVO — AVV: jeder Community-Skill-Anbieter mit Datenzugriff ist Auftragsverarbeiter
-- Art. 32 DSGVO — TOM: vor Installation eines Community-Skills TOM-Prüfung erforderlich
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht: Community-Skills dürfen keine Mandantengeheimnisse exponieren
-- § 203 StGB — Verletzung von Privatgeheimnissen: gilt auch bei Weiterleitung an Community-Skill-Infrastruktur
-
-## Eingaben
-
-- Aufgabenbeschreibung (was der Nutzer gerade getan hat) — aus dem Kontext oder direkt
-- Kanzleiprofil: `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → Praxisprofil, installierte Skills (bereits installierte nicht vorschlagen), Benachrichtigungseinstellungen
-- Registry-Cache aus `verzeichnis-durchsuchen`
-
-## Ablauf
-
-### Schritt 1: Kanzleiprofil und Registry-Cache laden
-
-Praxisprofil lesen:
-- Benachrichtigungseinstellung: `alle` / `passend zum Profil` / `keine`
-- Wenn `keine`: still beenden (kein Output)
-
-Registry-Cache lesen (aus `verzeichnis-durchsuchen`-Skill). Falls Cache nicht vorhanden oder >7 Tage alt: registries im Hintergrund aktualisieren. Falls keine Registries konfiguriert: nichts empfehlen.
-
-### Schritt 2: Abgleich
-
-Basierend auf der Aufgabenbeschreibung passende Skills in den Registries suchen:
-
-**Abgleichskriterien:**
-- Schlüsselwortüberschneidung zwischen der Aufgabe und Skill-Beschreibungen
-- Praxisprofil-Passung (keine Strafrecht-Skills für einen Vertragsrechtler empfehlen)
-- Noch nicht installiert
-
-**Rechtsgebietsspezifische Erkennung:**
-- Aufgaben mit Bezug zu §§ 622, 626 BGB, KSchG → Arbeitsrecht-Skills
-- Aufgaben mit Bezug zu DSGVO, BDSG, AVV, DSE → Datenschutz-Skills
-- Aufgaben mit Bezug zu NDA, LOI, Term Sheet, M&A → Gesellschaftsrecht/Vertragsrecht-Skills
-- Aufgaben mit Bezug zu § 43a BRAO, Berufsrecht, BRAK → Kanzleiorganisation-Skills
-- Aufgaben mit Bezug zu Schriftsatz, ZPO, Klage, Berufung → Prozessrecht-Skills
-
-**Schwellenwert:** Nur anzeigen, wenn die Übereinstimmung stark ist. Schwache Übereinstimmungen sind Lärm. Lieber nichts anzeigen als zu nerven.
-
-### Schritt 3: Ausgabe
-
-**Bei starker Übereinstimmung:**
-> 💡 Die Community hat einen Skill dafür: **[Name]** aus [Registry] — "[Beschreibung]". `/kanzlei-builder-hub:skill-installierer [name]` zum Ausprobieren.
-
-**Bei keiner starken Übereinstimmung:** Keine Ausgabe. Nicht ankündigen "Ich habe nichts gefunden."
-
-### Schritt 4: Häufigkeitsbegrenzung
-
-Denselben Skill nicht zweimal empfehlen. Wenn der Nutzer ihn beim ersten Mal nicht installiert hat, hat er ihn gesehen und nein entschieden. Abweisungen in `references/surfaced.json` tracken.
-
-### Nutzersteuerung
-
-Gemäß `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` → neue Skill-Benachrichtigungen:
-- **Alle:** Jede Übereinstimmung anzeigen
-- **Passend zum Profil:** Nach Profil filtern (Standard)
-- **Keine:** Dieser Skill ist deaktiviert — bei Aufruf sofort beenden
-
-### Kanzlei-spezifische Hinweise im Surfacing
-
-Wenn ein vorgeschlagener Skill Mandantendaten verarbeiten könnte, folgenden Hinweis ergänzen:
-> "Vor der Installation: Prüfen Sie, ob dieser Skill Mandantendaten verarbeitet. Falls ja, ist eine Auftragsverarbeitung nach Art. 28 DSGVO sowie eine TOM-Prüfung nach Art. 32 DSGVO erforderlich."
-
-## Quellen und Zitierweise
-
-Keine direkten Rechtsnormen in diesem Skill. Bei Empfehlungen datenschutzrelevanter Skills:
-- Art. 28 DSGVO (Auftragsverarbeitung)
-- Art. 32 DSGVO (Datensicherheit)
-- § 43a Abs. 2 BRAO (Verschwiegenheit)
-- Zitierweise nach `../references/zitierweise.md`
-
-## Entscheidungsbaum am Ende
-
-Mit dem Nächste-Schritte-Entscheidungsbaum gemäß `CLAUDE.md` → `## Ausgaben` abschließen. Optionen auf das anpassen, was dieser Skill gerade produziert hat:
-
-> **Wie weiter? Wählen Sie:**
-> 1. **Skill ansehen** — Ich zeige die vollständige SKILL.md des empfohlenen Skills.
-> 2. **Skill installieren** — Ich starte `/kanzlei-builder-hub:skill-installierer [name]` mit dem vollständigen Sicherheits- und Berufsrechtsprüfungs-Ablauf.
-> 3. **Ähnliche Skills suchen** — Ich durchsuche die Registries nach weiteren Skills im gleichen Bereich.
-> 4. **Nicht interessiert** — Ich merke mir das und empfehle diesen Skill nicht mehr.
-> 5. **Sonstiges** — Was möchten Sie mit dieser Empfehlung tun?
-
-## Beispiel
-
-```
-[Nach Vertragsreview mit NDAs]
-
-💡 Die Community hat einen Skill dafür: **nda-prüfung** aus kanzlei-skills —
-"Prüft Geheimhaltungsvereinbarungen auf typische Risikopunkte nach deutschem Recht."
-/kanzlei-builder-hub:skill-installierer nda-prüfung zum Ansehen.
-```
-
-```
-[Nach DSGVO-Aufgabe]
-
-💡 Die Community hat einen Skill dafür: **avv-generator** aus kanzlei-datenschutz-skills —
-"Generiert Auftragsverarbeitungsverträge nach Art. 28 DSGVO."
-/kanzlei-builder-hub:skill-installierer avv-generator zum Ansehen.
-
-Hinweis: Vor der Installation — dieser Skill verarbeitet Mandantendaten. TOM-Prüfung nach
-Art. 32 DSGVO und ggf. AVV mit dem Infrastrukturanbieter erforderlich.
-```
-
-## Risiken / typische Fehler
-
-- **Überempfehlung:** Lieber keine Empfehlung als eine schwache. Mehr als zwei aufeinanderfolgende Empfehlungen ohne Installation durch den Nutzer sind ein Signal, dass die Schwelle zu niedrig ist.
-- **Bereits-installiert-Vergessen:** Immer die Installationsliste prüfen, bevor ein Skill empfohlen wird.
-- **Datenschutzkontextfehlen:** Bei Empfehlungen, die Mandantendaten betreffen könnten, immer den DSGVO/BRAO-Hinweis ergänzen.
-- **Unterbrechung laufender Arbeit:** Empfehlungen nur am Ende einer Aufgabe, nie während.
-
-## Was dieser Skill nicht tut
-
-- Skills installieren.
-- Laufende Aufgaben unterbrechen. Empfehlungen erscheinen am *Ende* einer Aufgabe, nicht mittendrin.
-- Nerven. Ein Hinweis pro Skill, nie.
-- Benachrichtigungen anzeigen, wenn die Einstellung auf `keine` steht.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

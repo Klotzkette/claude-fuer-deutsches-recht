@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Pflichten und Belege: technische Norm, Test, Anleitung, Warnung, Reklamation, Produktbeobachtung und Marktüberwachung prüfen.
 4. Reaktion: Korrektur, Warnung, Rückruf, Behördenmeldung, Kundenkommunikation und Beweissicherung planen.
 5. Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
-6. Fristen- und Risikoampel: Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Produkt und Rolle | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Fehler und Risiko | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflichten und Belege | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Reaktion | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Fristen- und Risikoampel | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Greenwashing-Verteidigung | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| ProdR: Produkthaftung Bauleiter | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produkthaftung für Software und digitale Komponenten | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produkthaftung: Grundlagen, digitales Produkt und Lifecycle | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produktsicherheit GPSR richtig routen | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,8 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fristen- und Risikoampel, Greenwashing-Verteidigung, ProdR: Produkthaftung Bauleiter, Produkthaftung für Software und digitale Komponenten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf.
+7.2. Normsatz: Den tragenden Anker ProdHaftG Paragraf 1; ProdHaftG Paragraf 3 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Produkt und Rolle konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Produkt und Rolle, Fehler und Risiko, Pflichten und Belege, Reaktion: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

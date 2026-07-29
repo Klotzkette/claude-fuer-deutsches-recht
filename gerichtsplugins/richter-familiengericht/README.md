@@ -121,6 +121,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`03-versorgungsausgleich-vorbereiten`](skills/03-versorgungsausgleich-vorbereiten/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`09-beschluss-familiensache-paragraf-38-famfg`](skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md), [`v392-praxisraster-richter-familiengericht`](skills/v392-praxisraster-richter-familiengericht/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`01-zustaendigkeit-und-zuteilung-familiensache`](skills/01-zustaendigkeit-und-zuteilung-familiensache/SKILL.md), [`02-ehesache-scheidung-paragraf-1565`](skills/02-ehesache-scheidung-paragraf-1565/SKILL.md), [`04-kindschaftssache-elterliche-sorge`](skills/04-kindschaftssache-elterliche-sorge/SKILL.md), [`05-umgangsrecht-paragraf-1684-bgb`](skills/05-umgangsrecht-paragraf-1684-bgb/SKILL.md), [`06-kindesunterhalt-duesseldorfer-tabelle`](skills/06-kindesunterhalt-duesseldorfer-tabelle/SKILL.md), [`07-ehegattenunterhalt-trennung-und-nachehe`](skills/07-ehegattenunterhalt-trennung-und-nachehe/SKILL.md), [`08-gewaltschutz-und-eilanordnung`](skills/08-gewaltschutz-und-eilanordnung/SKILL.md), [`10-entscheidungsvorschlag-familienrichter`](skills/10-entscheidungsvorschlag-familienrichter/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -131,7 +132,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -146,6 +147,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-beschluss-familiensache-paragraf-38-famfg`](skills/09-beschluss-familiensache-paragraf-38-famfg/SKILL.md) | Wenn es um Beschluss in Familiensachen nach Paragraf 38 FamFG in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nä... |
 | [`10-entscheidungsvorschlag-familienrichter`](skills/10-entscheidungsvorschlag-familienrichter/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Familienrichter in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sc... |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Familiengericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Familiengericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`v392-praxisraster-richter-familiengericht`](skills/v392-praxisraster-richter-familiengericht/SKILL.md) | Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

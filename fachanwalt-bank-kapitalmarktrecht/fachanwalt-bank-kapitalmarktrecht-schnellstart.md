@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Pflichten und Aufsicht: Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen.
 4. Haftung und Beweis: Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen.
 5. Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
-6. Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage: Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Produkt und Rolle | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragskern | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflichten und Aufsicht | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung und Beweis | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratungshaftung: Zahlen, Schwellenwerte und Berechnung | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklärung, fehlerhafte. | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fehlerhaft: Fristennotiz und nächster Schritt | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung: Beweislast, Darlegungslast und Substantiierung | Produkt, Kunde, Beratung oder Autorisierung, Aufsichtspflicht, Dokumentation, Schaden und Frist in einer Bankakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -59,8 +58,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage, Beratungshaftung: Zahlen, Schwellenwerte und Berechnung, BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme, Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie.
+7.2. Normsatz: Den tragenden Anker KWG Paragraf 32; KWG Paragraf 25a auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Produkt und Rolle konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Produkt und Rolle, Vertragskern, Pflichten und Aufsicht, Haftung und Beweis: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,7 +1,7 @@
 Datei,Typ,Relevanz
-01-mandatsnotiz-und-auftrag.md,MD,mittel
-02-zeitstrahl-fristen-und-verfahrensstand.md,MD,mittel
-03-normenkette-livecheck.md,MD,mittel
+01-mandatsnotiz-und-auftrag.docx,DOCX,hoch
+02-zeitstrahl-fristen-und-verfahrensstand.docx,DOCX,hoch
+03-normenkette-livecheck.docx,DOCX,hoch
 04-berufungskommission-auswahlvermerk.docx,DOCX,hoch
 05-gremien-und-fristenmatrix.xlsx,XLSX,hoch
 06-senatsvorlage-grundordnung.pdf,PDF,hoch
@@ -10,5 +10,6 @@ Datei,Typ,Relevanz
 09-drittmittelvertrag-auszug.pdf,PDF,mittel
 10-berufung-beteiligte.csv,CSV,mittel
 11-rechtsvermerk-senat.docx,DOCX,mittel
-12-offene-punkte.md,MD,mittel
+12-offene-punkte.docx,DOCX,mittel
 13-anlagenindex.csv,CSV,mittel
+14-besprechungsunterlage.pdf,PDF,hoch

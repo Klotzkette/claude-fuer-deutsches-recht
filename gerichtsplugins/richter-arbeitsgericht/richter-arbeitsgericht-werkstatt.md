@@ -24,33 +24,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Vorgang und Frist: Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch.
+### 3.1. Vorgang und Frist
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vorgang und Frist: Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Status und Regelwerk: Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären.
+### 3.2. Status und Regelwerk
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Status und Regelwerk: Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Laufendes Arbeitsverhältnis: Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt.
+### 3.3. Laufendes Arbeitsverhältnis
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Laufendes Arbeitsverhältnis: Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen.
+### 3.4. Konflikt und Trennung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 02 Kündigungsschutzklage Prüfen | BGB Paragraf 611a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Vorgang und Frist | BGB Paragraf 611a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 03 Zahlungsklage Lohn und Gehalt | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Status und Regelwerk | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -118,15 +118,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 611a; BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Vorgang und Frist.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -156,54 +158,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 02 Kündigungsschutzklage Prüfen
+### 15.1. Vorgang und Frist
 
-Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG, Sozialauswahl Paragraf 1 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. 03 Zahlungsklage Lohn und Gehalt
+### 15.2. Status und Regelwerk
 
-Zahlungsklage: fälliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs. 4 BUrlG, Entgeltfortzahlung im Krankheitsfall Paragraf 3 EFZG, Verzugspauschale Paragraf 288 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. 05 Befristung und Teilzeit
+### 15.3. Laufendes Arbeitsverhältnis
 
-Befristungskontrolle TzBfG: sachgrundlose Befristung Paragraf 14 Abs. 2, Sachgrundbefristung Paragraf 14 Abs. 1, Zweckbefristung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. 01 Zuständigkeit und Guetetermin
+### 15.4. Konflikt und Trennung
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. 04 Betriebsübergang und Tarif
+### 15.5. Arbeitsprodukt
 
-Betriebsübergang Paragraf 613a BGB, Eintritt in Arbeitsverhältnisse, Widerspruchsrecht, Informationspflichten Abs. 5; Tarifgebundenheit Paragraf 3 TVG, Tariftreue, Nachwirkung Paragraf 4 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. 06 AGG Diskriminierung
+### 15.6. 02 Kündigungsschutzklage Prüfen
 
-AGG Paragraf 7: Benachteiligungsverbot, geschützte Merkmale Paragraf 1, Beweislastregel Paragraf 22, Entschaedigung und Schadensersatz Paragraf 15, Ausschlussfrist Paragraf 15 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Kündigungsschutzklage Paragraf 4 KSchG: Klagefrist 3 Wochen, Kündigungsgründe (personenbedingt verhaltensbedingt betriebsbedingt) Paragraf 1 KSchG.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. 07 Einstweilige Verfügung Arbeitsrecht
+### 15.7. 03 Zahlungsklage Lohn und Gehalt
 
-Einstweilige Verfügung im Arbeitsrecht: Verfügungsanspruch und -grund Paragraf 940 ZPO, Schutz von Beschäftigungsanspruch, Wettbewerbsverbot, Verschwiegenheit. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. 08 Betriebsverfassung Beschlussverfahren
-
-Beschlussverfahren Paragrafen 80 ff. ArbGG: Beteiligte, Verfahrensgegenstand (Mitbestimmung Paragraf 87 BetrVG, Einigungsstelle Paragraf 76 BetrVG), Antrag im Beschlussverfahren Werkstatt-Assistent für den Vorsitzenden der Kammer am Arbeitsgericht (Paragrafen 16, 17 ArbGG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. 09 Urteil Arbeitsgericht
-
-Urteil Paragraf 60 ArbGG i.V.m. Paragrafen 313 ZPO, Tenor, Tatbestand, Entscheidungsgründe, Streitwert (3 Bruttomonatsgehaelter bei Kündigung), Berufung an LAG Paragraf 64 ArbGG, Revision an BAG Paragraf 72 ArbGG Werkstatt-Assistent für den Vorsitzenden der Kammer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. 10 Entscheidungsvorschlag Arbeitsgericht
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Finale Entscheidung als Volltext (Urteil Arbeitsgericht)
-
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Prozessuale Kniffe und Rechtsprechungsanker
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Praxisraster Arbeitsgericht
-
-Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll. 1. Verfahrensstand und Zuständigkeit bestimmen. 2. Prozess- oder Verfahrensvoraussetzungen prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zahlungsklage: fälliger Arbeitslohn, Annahmeverzug Paragrafen 615 BGB, Urlaubsabgeltung Paragraf 7 Abs.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

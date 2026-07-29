@@ -173,7 +173,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 Verifizierte Aktenzeichen mit offener Quelle:
 
 - BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB (juris.bundesgerichtshof.de)
-- BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag (PM Nr. 225/2025)
+- BGH XI ZR 133/24, Urt. v. 21.10.2025 — Pflichtangaben und Effektivzins beim Immobiliar-Verbraucherdarlehen (amtliche Entscheidungsdatenbank)
 - BGH VI ZR 183/22, Urt. v. 28.1.2025 — SCHUFA-Meldung / DSGVO-Schadensersatz (juris.bundesgerichtshof.de)
 - BGH VI ZR 431/24, Urt. v. 14.10.2025 — SCHUFA Positivdaten / Betrugspraevention (PM Nr. 209/2025)
 - EuGH C-26/22, C-64/22, Urt. v. 7.12.2023 — Restschuldbefreiungs-Speicherung max. 6 Monate (curia.europa.eu)

@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-urheber-medienrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-urheber-medienrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **urheber-medienprozess-versandmappe-endfertigen** — Endfertigt urheber- und medienrechtliche Abmahn-, Verfügungs- und Hauptsacheunterlagen: sichert Veröffentlichung, Werkfa…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
-3. **mandat-triage-urheber-medienrecht** — Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medie…
-4. **fachanwalt-urheber-medienrecht-orientierung** — Wenn es um Fachanwalt fuer Urheber- und Medienrecht — Orientierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, …
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urhe…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Z…
-7. **youtube-uploader-paragraf-97-urhg-eugh-c-682-18** — Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Tr…
-8. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
-9. **urheber-abmahnung-pruefen** — Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber M…
-10. **urhmr-leistungsschutzrecht-presse-spezial** — Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, B…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Urheber Medienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden mus…
+2. **urheber-medienprozess-versandmappe-endfertigen** — Endfertigt urheber- und medienrechtliche Abmahn-, Verfügungs- und Hauptsacheunterlagen: sichert Veröffentlichung, Werkfa…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pas…
+4. **mandat-triage-urheber-medienrecht** — Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medie…
+5. **fachanwalt-urheber-medienrecht-orientierung** — Wenn es um Fachanwalt fuer Urheber- und Medienrecht — Orientierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, …
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urhe…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Z…
+8. **youtube-uploader-paragraf-97-urhg-eugh-c-682-18** — Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Tr…
+9. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
+10. **urheber-abmahnung-pruefen** — Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber M…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Urheber Medienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Urheber Medienrecht
+
+## 1. Direktstart
+
+Arbeite als Urheberrechtlicher Bearbeiter für Werk, Rechtekette, Lizenz, Nutzung, Schranken, Plattformen, Abmahnung und Unterlassung.
+
+Pluginauftrag: Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Urheber Medienrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Schutzgegenstand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen |
+| Rechtekette | Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen |
+| Nutzung | Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen |
+| Schranken | Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden |
+| Arbeitsprodukt | Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-abmahnung-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Lizenzvertrag-Verhandlung: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Filesharing-Abmahnung Verteidigung: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-filesharing-verteidigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Gegendarstellung Presserecht: Bearbeite den Fachpunkt im Skill fachanwalt-urheber-medienrecht-gegendarstellung-presse und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. UrhG Paragraf 2: geschützte Werke.
+4.2. UrhG Paragraf 15: Verwertungsrechte.
+4.3. UrhG Paragraf 31: Einräumung von Nutzungsrechten.
+4.4. UrhG Paragraf 51: Zitatrecht.
+4.5. UrhG Paragraf 97: Unterlassung und Schadensersatz.
+4.6. KUG Paragraf 22 und Paragraf 23: Bildnisschutz und Ausnahmen.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
+5.2. EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
+5.3. EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
+5.4. EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Schutzgegenstand ist betroffen.
+7.2. Wer hat welche Rechte in welcher Kette erworben.
+7.3. Welche konkrete Nutzung löst welches Verwertungsrecht aus.
+7.4. Welche Schranke greift mit welchen Voraussetzungen.
+7.5. Welche Rechtsfolge ist verhältnismäßig und beweisbar.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Schutzgegenstand, Rechtekette, Nutzung, Schranken: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung verwendbar?
 
 ---
 
@@ -1152,63 +1270,6 @@ Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
 ---
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `urhmr-leistungsschutzrecht-presse-spezial`
-
-_Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Prüfraster Verlag und Plattform.
-
-### UrhMR: Leistungsschutzrecht Presse
-
-## Spezialwissen: UrhMR: Leistungsschutzrecht Presse
-- **Normen-/Quellenanker:** UrhG, DSM, BGH.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

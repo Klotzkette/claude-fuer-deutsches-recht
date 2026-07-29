@@ -2,18 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 114 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-sozialrecht`.
+Diese Vollprüfung enthält top-8 von 115 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-sozialrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **sozialgerichtliche-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerich…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-3. **mandat-triage-sozialrecht** — Wenn es um Mandat Triage Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-4. **fachanwalt-sozialrecht-orientierung** — Wenn es um Fachanwalt für Sozialrecht — Orientierung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, R…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und …
-6. **grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii** — Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforder…
-7. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
-8. **klage-sozialgericht** — Wenn es um Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden in Fachanwalt Sozialrecht geh…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Sozialrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
+2. **sozialgerichtliche-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerich…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
+4. **mandat-triage-sozialrecht** — Wenn es um Mandat Triage Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
+5. **fachanwalt-sozialrecht-orientierung** — Wenn es um Fachanwalt für Sozialrecht — Orientierung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, R…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und …
+7. **grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii** — Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforder…
+8. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Sozialrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Sozialrecht
+
+## 1. Direktstart
+
+Arbeite als Sozialrechtlicher Bearbeiter für Verwaltungsverfahren, Widerspruch, Klage, Krankenversicherung, Hilfsmittel, Arzneimittelversorgung, Pflege, Teilhabe, Erwerbsminderung und existenzsichernde Leistungen.
+
+Pluginauftrag: Plugin Fachanwalt für Sozialrecht nach FAO Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch Paragraf 84 SGG Klage Paragraf 87 SGG Eilantrag Paragraf 86b SGG. Bürgergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Sozialrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Bescheidlage | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen |
+| Leistungsrecht | Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen |
+| Medizin | Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen |
+| Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen |
+| Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Mandant ist auf Sozialleistung angewiesen die sofort wegfällt oder verweigert wird (Bürgergeld Wohnungslosigkeit Krankenversicherung): Bearbeite den Fachpunkt im Skill eilantrag-sozialrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. EU-Rente-Antrag: Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-eu-rente-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. SGB-II-Bescheid (Bürgergeld): Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-sgb-ii-bescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung: Bearbeite den Fachpunkt im Skill fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
+4.2. SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
+4.3. SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
+4.4. SGG Paragraf 87: Klagefrist.
+4.5. SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
+4.6. SGG Paragraf 86b: einstweiliger Rechtsschutz.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
+5.2. BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
+5.3. BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
+5.4. BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Bescheid wird mit welchem Ziel angegriffen.
+7.2. Welche Frist läuft und ist Vorverfahren erforderlich.
+7.3. Welche Anspruchsvoraussetzung ist durch welchen Beleg bewiesen.
+7.4. Welche medizinische, pflegerische oder wirtschaftliche Tatsache fehlt.
+7.5. Ob die Ablehnung nur pauschal auf Wirtschaftlichkeit verweist oder die konkrete Funktion des begehrten Mittels widerlegt.
+7.6. Welche existenzielle Folge droht ohne Eilentscheidung.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Bescheidlage, Leistungsrecht, Medizin, Krankenversicherung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich verwendbar?
 
 ---
 
@@ -763,136 +882,6 @@ _Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Ar
 ## 4. Ausgabe
 
 Liefere eine Tagesachse, eine Lücken- und Zurechnungsmatrix, eine Fristenampel und einen ausformulierten Widerspruch oder eine Klagebegründung mit konkreten Beweisangeboten.
-
----
-
-## Skill: `klage-sozialgericht`
-
-_Wenn es um Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: Nur das im Skill betroffene Sozialgesetzbuch und die konkrete Verfahrensnorm heranziehen. Widerspruchsfrist nach Paragraf 84 SGG, Klagefrist nach Paragraf 87 SGG und einstweiliger Rechtsschutz nach Paragraf 86b SGG strikt trennen; Rechtsweg, Statthaftigkeit, aufschiebende Wirkung und Rechtsmittel gesondert prüfen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe).
-
-### Klage zum Sozialgericht
-
-## Fachlicher Kern — Sozialrecht und Sozialversicherungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klage zum Sozialgericht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Immer Verwaltungsakt, Frist, Widerspruch/Klage/eA, Amtsermittlung, medizinische Tatsachen, Mitwirkungspflichten und Beweisgutachten trennen; bei Status § 7 SGB IV: tatsächliche Eingliederung, Weisung, Rechtsmacht und Unternehmerrisiko abgleichen.
-- **Outputpflicht:** Bescheidanalyse in einfacher Sprache, Widerspruch, eA-Antrag, Statusmatrix, medizinische Beweisfragen, Belegliste, Fristenplan oder SG-Schriftsatz.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Voraussetzungen
-
-- **Vorverfahren** durchgeführt — Widerspruchsbescheid liegt vor (§ 78 SGG).
-- **Untätigkeitsklage** alternativ möglich nach drei Monaten Untätigkeit der Widerspruchsbehörde (§ 88 SGG).
-- **Klagefrist** ein Monat ab Zustellung des Widerspruchsbescheids (§ 87 Abs. 1 SGG); ein Jahr bei fehlender Rechtsbehelfsbelehrung (§ 66 Abs. 2 SGG).
-
-## Zuständigkeit
-
-- **Sachlich** Sozialgericht (§ 8 SGG) für Streitigkeiten in den Angelegenheiten der gesetzlichen Sozialversicherung der Grundsicherung für Arbeitsuchende des Asylbewerberleistungsgesetzes und in den überwiegenden Bereichen des SGB.
-- **Örtlich** das SG des gewöhnlichen Aufenthaltsorts des Klägers (§ 57 Abs. 1 SGG); bei juristischen Personen Sitz (§ 57 Abs. 2 SGG).
-
-## Klagearten
-
-- **Anfechtungsklage** § 54 Abs. 1 Var. 1 SGG — Aufhebung eines belastenden Bescheids.
-- **Verpflichtungsklage** § 54 Abs. 1 Var. 2 SGG — Erlass eines abgelehnten Leistungsbescheids.
-- **Leistungsklage** § 54 Abs. 4 / § 54 Abs. 5 SGG — wenn Höhe streitig.
-- **Feststellungsklage** § 55 SGG — Rechtsverhältnis.
-- **Untätigkeitsklage** § 88 SGG — Behörde untätig.
-
-## Klageaufbau
-
-### 1. Rubrum
-
-- Klagepartei mit Vertretung (Anwalt mit beA-Adresse).
-- Beklagte Behörde mit Aktenzeichen Widerspruchsbescheid.
-- Streitgegenstand kurz.
-
-### 2. Anträge
-
-Eindeutige vollstreckbare Anträge:
-
-1. Aufhebung des angefochtenen Bescheids und Widerspruchsbescheids;
-2. Verurteilung der Beklagten zur Gewährung der konkret bezifferten Leistung;
-3. Kostenantrag § 193 SGG (Gerichtskosten- und Auslagenfreiheit in Sozialgerichtsverfahren regelmäßig);
-4. ggf. Antrag auf Bewilligung von Prozesskostenhilfe und Beiordnung;
-5. ggf. Antrag auf Anordnung der aufschiebenden Wirkung (§ 86b Abs. 1 SGG) oder einstweilige Anordnung (§ 86b Abs. 2 SGG) — Eilantrag dann über Skill `eilantrag-sozialrecht`.
-
-### 3. Sachverhalt
-
-Knapp und chronologisch — Antrag Bescheid Widerspruch Widerspruchsbescheid.
-
-### 4. Rechtliche Würdigung
-
-- Anspruchsgrundlage(n).
-- Tatbestandsmerkmale mit Subsumtion.
-- BSG-Rechtsprechung mit Pinpoint.
-- Auseinandersetzung mit der Begründung des Widerspruchsbescheids.
-
-### 5. Beweisangebote
-
-Beweismittel im Sozialgerichtsverfahren (§ 103 SGG Untersuchungsgrundsatz):
-
-- Urkunden (Verwaltungsakte beizuziehen § 119 SGG).
-- Zeugen mit ladungsfähiger Anschrift.
-- Sachverständige (häufig medizinische SV bei SGB IX SGB V).
-- Augenschein.
-- Parteivernehmung.
-
-### 6. Anlagenverzeichnis
-
-Mit Sigel K1 K2 K3. Siehe Skill `anlagen-erstellen`.
-
-## Sonderregeln SGG
-
-- **Kein Anwaltszwang** vor dem SG (§ 73 Abs. 4 SGG).
-- **beA-Pflicht** für Rechtsanwälte (§ 65d SGG iVm § 31a BRAO).
-- **Kostenfreiheit** für Versicherte Leistungsempfänger Behinderte (§ 183 SGG).
-- **Untersuchungsgrundsatz** (§ 103 SGG) — Gericht ermittelt von Amts wegen.
-
-## PKH-Antrag
-
-Bei wirtschaftlicher Bedürftigkeit: PKH nach § 73a SGG iVm §§ 114 ff. ZPO. Verweis auf Skill `prozesskostenhilfe-antrag`.
-
-## Ausgabe
-
-- `klage-<sg>-<az>-<datum>.docx` und Markdown-Spiegel.
-- Anlagenkonvolut nach Skill `anlagen-erstellen`.
-- Fristen in Fristenbuch eingetragen — siehe Skill `fristenbuch-sozialrecht`.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Versand
-
-Über beA — vor Versand der Skill `versand-vor-check` aus `kanzlei-allgemein`.
-
-## Triage — kläre vor Klageerhebung
-
-1. Vorverfahren abgeschlossen? — Widerspruchsbescheid oder Untätigkeit über sechs Monate (§ 88 SGG)?
-2. Klagefrist (ein Monat § 87 SGG) gewahrt? — Datum Zustellung Widerspruchsbescheid + Vier-Tages-Fiktion berechnen
-3. PKH erforderlich? — Prüfung Skill `pkh-erfolgsaussicht-pruefen`, Antrag zeitgleich einreichen
-4. Eilantrag § 86b SGG parallel nötig? — bei Existenzbedrohung oder dringendem Hilfsmittelbedarf
-5. Sachlich und örtlich zuständiges Sozialgericht ermittelt? (§§ 8, 57 SGG)
-
-## Aktuelle Rechtsprechung
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Einwendungen: Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen.
 4. Prozess und Titel: Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen.
 5. Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
-6. AGB Kontrolle Factoringklauseln B2B: Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Aktenkern | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einwendungen | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prozess und Titel | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | AGB Kontrolle Factoringklauseln B2B | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde und Anhörung BaFin Factoring | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kündigung Rahmenvertrag Exit und Rückübertragung | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Output Vertragsentwurf Memo Anzeige | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,8 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder AGB Kontrolle Factoringklauseln B2B, BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag, Beschwerde und Anhörung BaFin Factoring, Factoringvertrag Rahmenvertrag Forderungskauf Kaufpreis Sicherheitseinbehalt: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
+7.2. Normsatz: Den tragenden Anker BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Aktenkern konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Aktenkern, Anspruch, Einwendungen, Prozess und Titel: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

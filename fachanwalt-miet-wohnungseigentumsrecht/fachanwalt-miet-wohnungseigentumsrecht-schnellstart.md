@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
 4. Kündigung und Raeumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
 5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
-6. Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Vertrag und Objekt | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zahlung und Abrechnung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mangel und Nutzung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kündigung und Raeumung | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| WEG-Beschluss und Verwaltung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlussanfechtung nach Paragraf 44 WEG spezial: Klagefrist 1 Monat, Begründungsfrist 2 Monate ab Beschluss. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Betriebskostenabrechnung und Ausschlussfrist prüfen | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erhalt: Fristennotiz und nächster Schritt im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| WEG-Anfechtungsklage Paragraf 44 WEG | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristlose Kündigung wegen Störung: Fachmodul im Miet- und Wohnungseigentumsrecht | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,16 +55,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 259 BGB: geordnete Rechnungslegung und Belegvorlage; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 535 Abs. 1 und 2 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 536 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
-- BGH, Beschl. v. 07.11.2024 – V ZB 6/24 — Bei verspäteter Klagezustellung durch das Gericht trifft den Anfechtungskläger eine Erkundigungsobliegenheit.
-- BGH, Urt. v. 14.02.2025 – V ZR 236/23 — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils.
-- BGH, Urt. v. 14.02.2025 – V ZR 86/24 — Vorbefassungsobliegenheit bei Beschlussersetzungsklage Paragraf 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genügt, in der Versammlung einen Beschluss erbeten zu haben.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abrechnungsfrist und Nachforderung aus Betriebskosten: Paragraf 556 Abs, Beschlussanfechtung nach Paragraf 44 WEG spezial: Klagefrist 1 Monat, Begründungsfrist 2 Monate ab Beschluss., Betriebskostenabrechnung und Ausschlussfrist prüfen, Erhalt: Fristennotiz und nächster Schritt im Miet.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung.
+7.2. Normsatz: Den tragenden Anker BGB Paragraf 535; BGB Paragraf 536 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Vertrag und Objekt konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Vertrag und Objekt, Zahlung und Abrechnung, Mangel und Nutzung, Kündigung und Raeumung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

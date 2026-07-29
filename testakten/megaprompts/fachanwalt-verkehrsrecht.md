@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-verkehrsrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-verkehrsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **verkehrsprozess-versandmappe-endfertigen** — Endfertigt Verkehrsunfall-, Kaskoversicherungs-, Fahrerlaubnis- und Bußgeldschriftsätze: trennt Zivil-, Verwaltungs-, St…
-2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterl…
-3. **mandat-triage-verkehrsrecht** — Wenn es um Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen in Fachanwalt Verk…
-4. **fachanwalt-verkehrsrecht-orientierung** — Wenn es um Fachanwalt für Verkehrsrecht — Orientierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkei…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, F…
-7. **fachanwalt-verkehrsrecht-regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
-8. **kaskoversicherung-unfallort-aufklaerungsobliegenheit** — Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung. Trennt Herbeiführung des Versicherung…
-9. **regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
-10. **versicherer-quotenverhandlung-vergleich** — Wenn es um Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich in Fachanwalt Verke…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Verkehrsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
+2. **verkehrsprozess-versandmappe-endfertigen** — Endfertigt Verkehrsunfall-, Kaskoversicherungs-, Fahrerlaubnis- und Bußgeldschriftsätze: trennt Zivil-, Verwaltungs-, St…
+3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterl…
+4. **mandat-triage-verkehrsrecht** — Wenn es um Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen in Fachanwalt Verk…
+5. **fachanwalt-verkehrsrecht-orientierung** — Wenn es um Fachanwalt für Verkehrsrecht — Orientierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkei…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, F…
+8. **fachanwalt-verkehrsrecht-regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
+9. **kaskoversicherung-unfallort-aufklaerungsobliegenheit** — Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung. Trennt Herbeiführung des Versicherung…
+10. **regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Verkehrsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Verkehrsrecht
+
+## 1. Direktstart
+
+Arbeite als Verkehrsrechtlicher Bearbeiter für Verkehrsunfall, Schadenregulierung, Bußgeld und Fahrerlaubnis mit Fokus auf Haftungsquote, Beweis, Frist und Zahlungsforderung.
+
+Pluginauftrag: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezüge. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (Paragrafen 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Verkehrsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Ereignis und Frist | Unfall, Messung, Bescheid, Fahrerlaubnismaßnahme, Ablehnung und Zugang kalendarisch sichern |
+| Haftung und Anspruch | Beteiligte, Halter, Fahrer, Versicherer, Ursache, Betriebsgefahr, Quote und Anspruchsziel trennen |
+| Schaden und Beleg | Reparatur, Mietwagen, Nutzungsausfall, Gutachten, Haushaltsführung, Personenschaden oder Ausgleichsbetrag nachrechnen |
+| Verteidigung | Messakte, Bedienungsanleitung, Rohdaten, Zeugen, Anscheinsbeweis, Betriebsgefahr oder Mitverschulden prüfen |
+| Arbeitsprodukt | Regulierungsschreiben, Einspruch, Klage, Anspruchstabelle, Vergleich oder Mandantenbrief erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Bußgeldbescheid prüfen: Bearbeite den Fachpunkt im Skill fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Fahrerlaubnis-Entzug: Bearbeite den Fachpunkt im Skill fachanwalt-verkehrsrecht-fahrerlaubnis-entzug und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. MPU-Vorbereitung: Bearbeite den Fachpunkt im Skill fachanwalt-verkehrsrecht-mpu-vorbereitung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Fachanwalt für Verkehrsrecht — Orientierung: Bearbeite den Fachpunkt im Skill fachanwalt-verkehrsrecht-orientierung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. StVG Paragraf 7, Paragraf 17 und Paragraf 18: Halter- und Fahrerhaftung sowie Haftungsverteilung.
+4.2. BGB Paragraf 249, Paragraf 251 und Paragraf 253: Naturalrestitution, Geldersatz und Schmerzensgeld.
+4.3. VVG Paragraf 115: Direktanspruch gegen den Kfz-Haftpflichtversicherer.
+4.4. OWiG Paragraf 66 und Paragraf 67: Bußgeldbescheid und Einspruch.
+4.5. StPO Paragraf 261 in Verbindung mit OWiG: Beweiswürdigung im Bußgeldverfahren.
+4.6. Paragraf 115 Abs. 1 VVG
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Frist läuft und was wurde wann zugestellt oder mitgeteilt.
+7.2. Welche Kausalität ist bewiesen und welches Beweismittel trägt sie.
+7.3. Welche Schadensposition oder Ausgleichsleistung ist rechnerisch offen.
+7.4. Welche Einwendung wird die Gegenseite zuerst bringen.
+7.5. Welcher Zahlungs-, Einspruchs- oder Klagebaustein ist sofort brauchbar.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel; Bußgeld-Einspruch: Bescheid, Zustellung, Messverfahren, Akteneinsicht, konkreter Angriff und Frist.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Regulierungstabelle: Position, Betrag, Beleg, Rechtsgrund, Einwand, Risiko und Zahlungsziel.
+10.2. Bußgeld-Einspruch: Bescheid, Zustellung, Messverfahren, Akteneinsicht, konkreter Angriff und Frist.
+10.3. Unfallforderung: Ereignis, Beteiligte, Haftungsgrund, Quote, Schadensposition, Betrag und Belege.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief verwendbar?
 
 ---
 
@@ -1271,134 +1392,6 @@ Aktueller Stand Mai 2026 (verifizierte Aktenzeichen mit offener Quelle):
 - BGH VI ZR 280/22 v. 12.3.2024 (Sachverstaendigenrisiko)
 - BGH VI ZR 12/24 v. 5.11.2024 (Haushaltsfuehrungsschaden, Mindestlohn als Untergrenze)
 - BGH VI ZR 24/25 v. 14.10.2025 (Art. 103 Abs. 1 GG — Substantiierungsanforderungen Schaden)
-
----
-
-## Skill: `versicherer-quotenverhandlung-vergleich`
-
-_Wenn es um Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich in Fachanwalt Verkehrsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StVG; PflVG; §§ 315c 316 StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie).
-
-### Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
-
-## Eingaben
-
-- Unfallhergang (Polizei, Foto, Zeugen)
-- Mandant (geschädigter Insasse / Fahrer / Halter)
-- Versicherer-Reaktion (Anerkenntnis %, Ablehnung)
-- Schadensart (Sachschaden, Personenschaden, Unterhaltsausfall)
-- Streitwert
-
-## Rechtlicher Rahmen
-
-- **§ 7 StVG** — Halter-Gefährdungshaftung
-- **§ 18 StVG** — Fahrer-Verschulden
-- **§ 254 BGB** — Mitverschulden
-- **§ 11 StVG** — Schmerzensgeld
-- **§ 843 BGB** — Renten-Ersatz vermehrte Bedürfnisse
-- **PflVG** — Pflicht-Versicherung
-- **§ 17 StVG** — Quotelung Halter
-
-## ADR-Pfade
-
-### Pfad 1 — Versicherer-Verhandlung
-
-- Schadensanzeige binnen 7 Tagen
-- Quotenangebot Versicherer
-- Verhandlung mit Sachbearbeiter
-- Vergleichs-Quote 70-90 %
-
-### Pfad 2 — Schiedsgutachten Mitverschuldensquote
-
-- Bei unstreitiger Quote-Frage
-- Sachverständigen-Gutachten DEKRA / TÜV
-- Bindend für Versicherer
-
-### Pfad 3 — Gerichtlicher Vergleich § 278 ZPO
-
-- Güteverhandlung § 278 Abs. 2 ZPO als Pflicht-Termin vor Beweisaufnahme
-- Vergleichsabschluss zu Protokoll § 160 Abs. 3 Nr. 1 ZPO oder per Beschluss § 278 Abs. 6 ZPO (schriftlicher Vergleich)
-- Vor Amts-/Landgericht; bei mittlerem Streitwert besonders effizient
-- Erörterungstermin mit Quotenvorschlag Gericht
-
-### Pfad 4 — Mediation bei Schwerstverletzung
-
-- DGFM-Mediator
-- Bei Querschnitt, Hirnschaden, lebenslange Pflege
-- Lebenslange Renten-Vereinbarung
-
-### Pfad 5 — Versicherungs-Ombudsmann
-
-- Bei Verbraucher mit Versicherer
-- VVR e.V.
-
-## Workflow
-
-### Phase 1 — Unfall-Aufnahme
-
-- Polizei (zwingend bei Personenschaden)
-- Foto-/Zeugen-Dokumentation
-- Krankenhaus-/Werkstatt-Belege
-
-### Phase 2 — Schadensanzeige Versicherer
-
-- Schriftliche Schadensmeldung
-- Schadenshöhe-Beziferung
-- Fragenkatalog Versicherer beantworten
-
-### Phase 3 — Verhandlung
-
-- Versicherer-Quotenvorschlag
-- Gegenangebot
-- Schriftliche Niederlegung
-
-### Phase 4 — Vergleich
-
-- Erledigungs-Klausel
-- Abfindungsbetrag
-- Bei Personenschaden: Renten-Vereinbarung
-
-### Phase 5 — Bei Scheitern Klage
-
-- AG/LG je Streitwert
-- Sachverständigen-Beweis
-- Vergleichstermin vor Gericht
-
-## Strategie und Taktik
-
-- **Mitverschuldensquote nie vor Akteneinsicht akzeptieren**
-- **Schmerzensgeld-Tabelle Hacks / Beck** als Orientierungsmaßstab
-- **130 %-Grenze bei Fahrzeugschaden**: Reparatur kann teurer als Marktwert sein
-- **Vermehrte Bedürfnisse** § 843 BGB lebenslang-Rente bei Schwerstverletzung
-- **Versicherer-Vergleichsdruck**: Klage-Drohung oft Quotenerhöher
-
-## Quellen und Updates
-
-Stand: 05/2026. StVG, § 254 BGB. BGH-Linie zu Schmerzensgeld stabil.
-
-## Aktuelle Rechtsprechung Quotenverhandlung (Stand Mai 2026)
-
-Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufrufen):
-
-- BGH VI ZR 253/22, Urt. v. 16.1.2024 — Werkstattrisiko liegt im Regelfall beim Schädiger. Quelle: juris.bundesgerichtshof.de
-- BGH VI ZR 239/22, Urt. v. 16.1.2024 — Werkstattrisiko bei unbezahlter Rechnung und Abtretung. Quelle: juris.bundesgerichtshof.de
-- BGH VI ZR 280/22, Urt. v. 12.3.2024 — Sachverstaendigenrisiko (Übertragung Werkstattrisiko auf Gutachterkosten). Quelle: juris.bundesgerichtshof.de
-- BGH VI ZR 12/24, Urt. v. 5.11.2024 — Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze, konkrete Stundensatzbegründung erforderlich. Quelle: juris.bundesgerichtshof.de
-- BGH VI ZR 24/25, Urt. v. 14.10.2025 — Substantiierungsanforderungen Schaden; Art. 103 Abs. 1 GG. Quelle: juris.bundesgerichtshof.de
-
-Keine Modellwissen-Zitate. Vor Versand offene Quelle prüfen (juris.bundesgerichtshof.de, dejure.org, openjur.de).
 
 ---
 

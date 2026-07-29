@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen.
+### 3.1. Blitz-Zergliederung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Blitz-Zergliederung: jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen.
+### 3.2. Beweise und Einlassung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Beweise und Einlassung: Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen.
+### 3.3. Tatbestand
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Tatbestand: objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten.
+### 3.4. Prozessuales
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten.
+### 3.5. Rechtsfolge
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | 03 Beweisanträge und Ablehnung | StPO Paragraf 152 Absatz 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Blitz-Zergliederung | StPO Paragraf 152 Absatz 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | StPO Paragraf 160 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | 04 Beweiswürdigung Strafkammer | StPO Paragraf 160 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Beweise und Einlassung | StPO Paragraf 160 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -139,15 +139,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind StPO Paragraf 152 Absatz 2; StPO Paragraf 160.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Blitz-Zergliederung.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Blitz-Zergliederung, Beweise und Einlassung, Tatbestand, Prozessuales: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 30.07.1999 - 1 StR 618/98; BGH, Urteil vom 29.07.1998 - 1 StR 94/98.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -177,54 +179,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. 03 Beweisanträge und Ablehnung
+### 15.1. Blitz-Zergliederung
 
-Beweisanträge Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisanträge, Konnexitaet, Beweisaufnahme im Selbstleseverfahren Paragraf 249 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. 04 Beweiswürdigung Strafkammer
+### 15.2. Beweise und Einlassung
 
-Beweiswürdigung Paragraf 261 StPO bei komplexen Sachverhalten, Aussage gegen Aussage, Indizienprozess, In-dubio-pro-reo, Behandlung von Sachverständigengutachten, Glaubhaftigkeitsfaktoren Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. 06 Maßnahmen Paragraf 61 Stgb
+### 15.3. Tatbestand
 
-Maßnahmen der Besserung und Sicherung Paragraf 61 StGB: Unterbringung im psychiatrischen Krankenhaus Paragraf 63, Entziehungsanstalt Paragraf 64, Sicherungsverwahrung Paragraf 66, Führungsaufsicht Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. 07 Urteilsbegründung Paragraf 267 Lg
+### 15.4. Prozessuales
 
-Urteilsgründe Paragraf 267 StPO bei umfangreichen Strafverfahren: Persönliche Verhältnisse, Tatfeststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßnahmen Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. 01 Eröffnungsverfahren Strafkammer
+### 15.5. Rechtsfolge
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. 02 Hauptverhandlung Große Strafkammer
+### 15.6. 03 Beweisanträge und Ablehnung
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beweisanträge Paragraf 244 StPO, Ablehnungsgründe, Wahrunterstellung, Hilfsbeweisanträge, Konnexitaet, Beweisaufnahme im Selbstleseverfahren.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. 05 Strafzumessung Große Strafkammer
+### 15.7. 04 Beweiswürdigung Strafkammer
 
-Strafzumessung Paragrafen 46-49 StGB: Strafzumessungstatsachen, Strafrahmenverschiebung, besondere gesetzliche Milderungsgründe, Strafaussetzung Paragraf 56 (Bewährungsentscheidung), Verwarnung mit Strafvorbehalt Paragraf 59 Werkstatt-Assistent für den Vorsitzenden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. 08 Berufung Strafkammer
-
-Berufung gegen Amtsgerichtsurteil (Kleine Strafkammer Paragraf 76 GVG), Prüfungsumfang Paragraf 327 StPO, Tatsacheninstanz, Verbot der Schlechterstellung Paragraf 331 StPO Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. 09 Rechtsmittelbelehrung Strafkammer
-
-Tenor Strafkammer, Rechtsmittelbelehrung Revision Paragrafen 333 ff. StPO, Annahmeberufung, Frist, Form, Begründungserfordernis Paragraf 344 StPO Werkstatt-Assistent für den Vorsitzenden der Strafkammer am Landgericht (Paragraf 74 GVG: Schwurgericht, Wirtschaftsstrafkammer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. 10 Entscheidungsvorschlag Strafkammer
-
-Strukturierter Entscheidungsvorschlag für die Kammerberatung: Schuldspruch-Skizze, Strafzumessungs-Skizze, Bewährungsentscheidung, Maßnahmenkonzept, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert Werkstatt-Assistent für den Vorsitzenden der Strafkammer. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Finale Entscheidung als Volltext (Urteil Strafkammer)
-
-Dieser Skill erzeugt die finale Entscheidung des Spruchkörpers nicht als bloßen Vorschlag oder Votum, sondern als versandfertigen Volltext im richtigen Layout — so, wie er das Gericht verlassen würde. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn die Hauptverhandlung aktiv, fair und revisionsfest geführt werden soll. Der Skill hilft bei Beweisanträgen, Hinweisen, Verständigung, Vorhalten, Einziehung, Strafzumessung und Urteilsgründen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Praxisraster Landgericht Strafkammer
-
-Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll. 1. Verfahrensstand und Zuständigkeit bestimmen. 2. Prozess- oder Verfahrensvoraussetzungen prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beweiswürdigung Paragraf 261 StPO bei komplexen Sachverhalten, Aussage gegen Aussage, Indizienprozess, In-dubio-pro-reo, Behandlung.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

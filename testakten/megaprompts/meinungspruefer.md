@@ -2,25 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 53 Skills des Plugins `meinungspruefer`.
+Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `meinungspruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-2. **kaltstart-triage** — Wenn es um Meinungsprüfer - Allgemein in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **meinungspruefer-erstpruefung-und-mandatsziel** — Wenn es um Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel in Meinungsprüfer geht: klärt Rolle, Ziel, Frist,…
-4. **wahrnehmung-berechtigter-zitat** — Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Bew…
-5. **olg-kg-rechtsprechungsbank-verifiziert** — Wenn es um OLG-/KG-Praxis zur Äußerungsprüfung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-6. **nachrede-tatsache** — Wenn es um Nachrede: Schriftsatz-, Brief- und Memo-Bausteine in Meinungsprüfer geht: erstellt den passenden Entwurf aus …
-7. **zivilrecht-unterlassung-abmahnung** — Wenn es um Zivilrechtliche Äußerungsansprüche in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-8. **beleidigung-meinungspruefer** — Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in Meinungsprüfer geht: zerlegt Ergebnis, Fr…
-9. **egmr-art-eugh-grch** — Wenn es um EGMR-Art.-10-Rechtsprechung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und …
-10. **abwaegung-art-arbeitgeber-betrieb** — Wenn es um Art. 5 GG - Abwägung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächste…
-11. **kommunalrecht-buergermeister-machtkritik** — Wenn es um Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt in Meinungsprüfer geht: prüft Frist, Form, Zustän…
-12. **meinung-strafantrag-verfahren** — Wenn es um Meinung: Fristen, Form, Zuständigkeit und Rechtsweg in Meinungsprüfer geht: erstellt den passenden Entwurf au…
-13. **eugh-grch-art-11-rechtsprechung** — Wenn es um EuGH und Art. 11 GRCh in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächst…
-14. **verleumdung-verhandlung-vergleich-und-eskalation** — Wenn es um Verleumdung: Verhandlung, Vergleich und Eskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergl…
-15. **rechtsprechungsbank-verifiziert** — Wenn es um Rechtsprechungsbank - verifiziert in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderun…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Meinungsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
+3. **kaltstart-triage** — Wenn es um Meinungsprüfer - Allgemein in Meinungsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
+4. **meinungspruefer-erstpruefung-und-mandatsziel** — Wenn es um Meinungspruefer: Erstprüfung, Rollenklärung und Mandatsziel in Meinungsprüfer geht: klärt Rolle, Ziel, Frist,…
+5. **wahrnehmung-berechtigter-zitat** — Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Bew…
+6. **olg-kg-rechtsprechungsbank-verifiziert** — Wenn es um OLG-/KG-Praxis zur Äußerungsprüfung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
+7. **nachrede-tatsache** — Wenn es um Nachrede: Schriftsatz-, Brief- und Memo-Bausteine in Meinungsprüfer geht: erstellt den passenden Entwurf aus …
+8. **zivilrecht-unterlassung-abmahnung** — Wenn es um Zivilrechtliche Äußerungsansprüche in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
+9. **beleidigung-meinungspruefer** — Wenn es um Beleidigung: Risikoampel, Gegenargumente und Verteidigungslinien in Meinungsprüfer geht: zerlegt Ergebnis, Fr…
+10. **egmr-art-eugh-grch** — Wenn es um EGMR-Art.-10-Rechtsprechung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und …
+11. **abwaegung-art-arbeitgeber-betrieb** — Wenn es um Art. 5 GG - Abwägung in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächste…
+12. **kommunalrecht-buergermeister-machtkritik** — Wenn es um Kommunalrechtlicher Grenzfall: Bürgermeister und Bauprojekt in Meinungsprüfer geht: prüft Frist, Form, Zustän…
+13. **meinung-strafantrag-verfahren** — Wenn es um Meinung: Fristen, Form, Zuständigkeit und Rechtsweg in Meinungsprüfer geht: erstellt den passenden Entwurf au…
+14. **eugh-grch-art-11-rechtsprechung** — Wenn es um EuGH und Art. 11 GRCh in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächst…
+15. **verleumdung-verhandlung-vergleich-und-eskalation** — Wenn es um Verleumdung: Verhandlung, Vergleich und Eskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergl…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Meinungsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Meinungsprüfer
+
+## 1. Direktstart
+
+Arbeite als Verfassungsrechtlicher Bearbeiter für Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhältnismäßigkeit.
+
+Pluginauftrag: Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, Paragraf 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Meinungsprüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
+| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen |
+| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten |
+| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Strafantrag und Verfahren: Bearbeite den Fachpunkt im Skill strafantrag-194-und-verfahren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Reaktion auf Abmahnung oder Strafanzeige: Bearbeite den Fachpunkt im Skill abmahnung-strafanzeige-reaktion und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill meinung-strafantrag-verfahren und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Zivilrechtliche Äußerungsansprüche: Bearbeite den Fachpunkt im Skill zivilrecht-unterlassung-abmahnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
+4.2. GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
+4.3. GG Artikel 3 Absatz 1: Gleichheitssatz.
+4.4. GG Artikel 12 Absatz 1: Berufsfreiheit.
+4.5. GG Artikel 14 Absatz 1: Eigentum und Inhaltsbestimmung.
+4.6. BVerfGG Paragraf 90: Verfassungsbeschwerde.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+5.2. BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
+5.3. BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
+5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Grundrecht oder Organrecht ist betroffen.
+7.2. Welcher Hoheitsakt und welche Frist sind entscheidend.
+7.3. Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
+7.4. Welcher Eingriff wird durch welche Schranke gerechtfertigt.
+7.5. Ist die Maßnahme im engeren Sinne angemessen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff, Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung verwendbar?
 
 ---
 
@@ -673,99 +791,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `rechtsprechungsbank-verifiziert`
-
-_Wenn es um Rechtsprechungsbank - verifiziert in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rechtsprechungsbank - verifiziert
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Leitentscheidungen
-
-### BVerfG und deutsche Verfassungsleitlinien
-
-| Thema | Entscheidung | Aussage für den | Freie Quelle |
-|---|---|---|---|
-| Normalabwägung und enge Ausnahmen | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 362/18 | Auch grobe Kritik an Amtsträgern verlangt regelmäßig Abwägung; Schmähkritik, Formalbeleidigung und Menschenwürde sind eng zu begründen. | https://www.hrr-strafrecht.de/hrr/bverfg/18/1-bvr-362-18.php |
-| Online-Pranger und Richterkritik | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 2397/19 | Reichweite, Anprangerung und Integritätsangriffe können Ehrschutz deutlich stärken. | https://www.hrr-strafrecht.de/hrr/bverfg/19/1-bvr-2397-19.php |
-| politische Machtkritik | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 1094/19 | Bei Amtsträgern und Politikern ist Machtkritik besonders zu berücksichtigen; sie erlaubt aber nicht jede persönliche Beschimpfung. | https://www.hrr-strafrecht.de/hrr/bverfg/19/1-bvr-1094-19.php |
-| kommunale Amtsträgerin | BVerfG, Beschluss vom 19.05.2020 - 1 BvR 2459/19 | Auch kommunale Amtskritik bleibt abwägungsgebunden; starker Ehrschutz kann bei schwachem Sachbezug überwiegen. | https://www.hrr-strafrecht.de/hrr/bverfg/19/1-bvr-2459-19.php |
-| Persönlichkeitsrecht Betroffener | BVerfG, Beschluss vom 19.12.2021 - 1 BvR 1073/20 | Beleidigung setzt nicht Schmähkritik voraus; Gerichte müssen bei möglicher Beleidigung zugunsten Betroffener ebenfalls korrekt abwägen. | https://dejure.org/dienste/vernetzung/rechtsprechung?Aktenzeichen=1+BvR+1073%2F20&Datum=19.12.2021&Gericht=BVerfG |
-| Kampf ums Recht | BVerfG, Beschluss vom 09.02.2022 - 1 BvR 2588/20 | In Beschwerden und Rechtsverteidigung dürfen auch starke Ausdrücke fallen; Reichweite und Anlass sind wichtig. | https://www.hrr-strafrecht.de/hrr/bverfg/20/1-bvr-2588-20.php |
-| Korruptionsvorwurf im Protest | BVerfG, Beschluss vom 04.04.2024 - 1 BvR 820/24 | Bei öffentlicher Sachdebatte muss genau begründet werden, ob ein strafbarer Tatsachenvorwurf oder eine geschützte Wertung vorliegt. | https://www.hrr-strafrecht.de/hrr/bverfg/24/1-bvr-820-24.php |
-| Systemkritik und Tatsachenabgrenzung | BVerfG, Beschluss vom 11.04.2024 - 1 BvR 2290/23 | Sinnermittlung ist Voraussetzung jeder rechtlichen Würdigung; Systemkritik darf nicht vorschnell als Tatsachenbehauptung verengt werden. | https://rewis.io/urteile/urteil/odx-11-04-2024-1-bvr-229023/ |
-| Anwaltskritik und Mehrdeutigkeit | BVerfG, Beschluss vom 16.01.2025 - 1 BvR 1182/24 | Gerichte müssen den konkreten Aussagegehalt bestimmen, mehrdeutige Begriffe kontextgerecht verstehen und abwägen. | https://www.hrr-strafrecht.de/hrr/bverfg/24/1-bvr-1182-24.php |
-| Schulkonflikt und Kontext | BVerfG, Beschluss vom 11.12.2025 - 1 BvR 986/25 | Auch harte Kritik im Schulkonflikt verlangt Sinnermittlung; Sachbezug verhindert vorschnelle Schmähkritik. | https://www.hrr-strafrecht.de/hrr/bverfg/25/1-bvr-986-25.php |
-
-### EGMR zu Art. 10 EMRK
-
-| Thema | Entscheidung | Aussage für den | Freie Quelle |
-|---|---|---|---|
-| demokratische Grundlinie | EGMR, Urteil vom 07.12.1976 - 5493/72, Handyside/Vereinigtes Königreich | Art. 10 schützt auch störende, schockierende und verletzende Äußerungen; Einschränkungen brauchen demokratische Notwendigkeit. | https://hudoc.echr.coe.int/eng?i=001-57499 |
-| Politikerkritik und Werturteil | EGMR, Urteil vom 08.07.1986 - 9815/82, Lingens/Österreich | Politiker müssen weitergehende Kritik hinnehmen; Werturteile dürfen nicht wie Tatsachen bewiesen werden müssen. | https://hudoc.echr.coe.int/eng?i=001-57523 |
-| grober politischer Spott | EGMR, Urteil vom 01.07.1997 - 20834/92, Oberschlick/Österreich Nr. 2 | Auch ein grober Einzelbegriff kann geschützt sein, wenn er als kontextgebundene politische Reaktion und Werturteil erscheint. | https://hudoc.echr.coe.int/eng?i=001-58044 |
-| faktische Grundlage | EGMR, Urteil vom 27.02.2001 - 26958/95, Jerusalem/Österreich | Werturteile mit schwerem Vorwurf brauchen eine ausreichende Tatsachengrundlage. | https://hudoc.echr.coe.int/eng?i=001-59220 |
-| Art.-8-/Art.-10-Kriterien | EGMR, Urteil vom 07.02.2012 - 39954/08, Axel Springer AG/Deutschland | Abwägung nach Beitrag zur öffentlichen Debatte, Bekanntheit, Vorverhalten, Inhalt, Form, Folgen und Sanktion. | https://hudoc.echr.coe.int/eng?i=001-109034 |
-| anwaltliche Justizkritik | EGMR, Urteil vom 23.04.2015 - 29369/10, Morice/Frankreich | Anwaltliche Kritik an Justizakteuren kann geschützt sein, wenn sie auf Tatsachen beruht und öffentliche Fragen betrifft. | https://hudoc.echr.coe.int/eng?i=001-154265 |
-| Hyperlinkhaftung | EGMR, Urteil vom 04.12.2018 - 11257/16, Magyar Jeti Zrt/Ungarn | Ein Link ist nicht automatisch Billigung des verlinkten Inhalts; Kontext, journalistische Sorgfalt und Kenntnis prüfen. | https://hudoc.echr.coe.int/eng?i=001-187930 |
-| Drittkommentare | EGMR, Urteil vom 15.05.2023 - 45581/15, Sanchez/Frankreich | Verantwortlichkeit für Drittkommentare verlangt rollen-, kenntnis- und reaktionsbezogene Prüfung. | https://hudoc.echr.coe.int/eng?i=001-224928 |
-
-### EuGH und Art. 11 GRCh
-
-| Thema | Entscheidung | Aussage für den | Freie Quelle |
-|---|---|---|---|
-| Datenschutz und journalistische Zwecke | EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia | Journalistische Zwecke sind funktional zu verstehen; Datenschutz und Informationsfreiheit müssen praktisch ausgeglichen werden. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0073 |
-| Video und journalistische Zwecke | EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids | Auch private Veröffentlichungen können journalistische Zwecke verfolgen; Veröffentlichung staatlicher Vorgänge braucht Datenschutzabwägung. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0345 |
-| De-Referenzierung räumlich | EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL | Suchmaschinen-De-Referenzierung ist grundrechtlich und räumlich zu begrenzen; keine pauschale weltweite Löschung. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0507 |
-| Plattform und gleichwertige Inhalte | EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland | Entfernung identischer und gleichwertiger rechtswidriger Inhalte kann angeordnet werden; allgemeine Überwachung bleibt Grenze. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0018 |
-| Uploadfilter und Kommunikationsfreiheit | EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat | Automatisierte Sperren brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation wie Zitat, Kritik und Parodie. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0401 |
-| De-Referenzierung bei Unrichtigkeit | EuGH, Urteil vom 08.12.2022 - C-460/20, Google | Bei angeblich unrichtigen Suchtreffern zählen Nachweis offensichtlicher Unrichtigkeit und Grundrechtsbalance. | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62020CJ0460 |
-
-### Obergerichte: OLG/KG-Praxis
-
-| Thema | Entscheidung | Aussage für den | Freie Quelle |
-|---|---|---|---|
-| Kontext bei strafbarer Beleidigung | OLG Düsseldorf, Beschluss vom 10.07.2006 - III-5 Ss 101/05 - 53/05 I | Auszugsweise Wortlautwiedergabe reicht nicht; Beleidigungsprüfung braucht Einbettung und Abwägung. | https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2006/III_5_Ss_101_05___53_05_Ibeschluss20060710.html |
-| Gutachten und fachliche Kritik | OLG Frankfurt am Main, Urteil vom 30.11.2023 - 16 U 206/21 | Fachliche Bewertung und gutachterliche Kritik sind kontextbezogen zu prüfen; nicht jede rufschädigende Bewertung ist unzulässig. | https://ordentliche-gerichtsbarkeit.hessen.de/presse/ehemaliger-dfb-schiedsrichter-kann-nicht-unterlassen-gutachterlicher-aeusserungen-ueber-ihn |
-| Verdachtsbericht oder Meinung | OLG München, Endurteil vom 05.03.2024 - 18 U 2827/23 Pre | Verdachtsberichterstattung gilt für ungeklärte Tatsachen; Rechtsauffassungen und Bewertungen unstreitig wahrer Tatsachen können Meinung sein. | https://www.gesetze-bayern.de/Content/Document/Y-300-Z-GRURRS-B-2024-N-4812 |
-| Plattformlabel | OLG München, Endurteil vom 09.04.2024 - 18 U 4603/22 Pre | Falschinformationslabel auf Plattformen brauchen vertragliche Grundlage und dürfen Nutzerrechte nicht willkürlich verkürzen. | https://www.gesetze-bayern.de/Content/Document/Y-300-Z-GRURRS-B-2024-N-38301 |
-| innere Tatsachen und Indizien | OLG Köln, Urteil vom 13.06.2024 - 15 U 70/23 | Kenntnis, Absicht und Motiv können beweisbare innere Tatsachen sein; Indizien, Indikativ und Verdachtskennzeichnung sind zentral. | https://nrwe.justiz.nrw.de/olgs/koeln/j2024/15_U_70_23_Urteil_20240613.html |
-| scharfe Social-Media-Wertung | OLG Köln, Urteil vom 27.06.2024 - 15 U 221/22 | Wertung mit Tatsachenkern bleibt abwägungsfähig; unwahre oder nicht erweisliche Tatsachen können die Gesamtäußerung kippen. | https://nrwe.justiz.nrw.de/olgs/koeln/j2024/15_U_221_22_Urteil_20240627.html |
-| Manipulationsvorwurf als Bewertung | OLG Köln, Urteil vom 20.02.2025 - 15 U 231/24 | Überschrift und Beitrag sind zusammen zu lesen; "Manipulation" kann je nach offengelegter Tatsachengrundlage Wertung sein. | https://nrwe.justiz.nrw.de/olgs/koeln/j2025/15_U_231_24_Urteil_20250220.html |
-
-### USA-Vergleich: Supreme Court
-
-| Thema | Entscheidung | Aussage für den | Freie Quelle |
-|---|---|---|---|
-| public official und actual malice | Supreme Court of the United States, 09.03.1964 - New York Times Co. v. Sullivan, 376 U.S. 254 | Amtsträger müssen bei defamation falsity und actual malice zeigen; nicht auf deutsche §§ 185 ff. StGB übertragbar. | https://cdn.loc.gov/service/ll/usrep/usrep376/usrep376254/usrep376254.pdf |
-| private Kläger | Supreme Court of the United States, 25.06.1974 - Gertz v. Robert Welch, Inc., 418 U.S. 323 | Private plaintiffs genießen stärkeren Schutz; gleichwohl First-Amendment-Grenzen bei fault und damages. | https://cdn.loc.gov/service/ll/usrep/usrep418/usrep418323/usrep418323.pdf |
-| Parodie und public figure | Supreme Court of the United States, 24.02.1988 - Hustler Magazine, Inc. v. Falwell, 485 U.S. 46 | Public-figure-Parodie ist stark geschützt, wenn keine vernünftig verstandene falsche Tatsachenbehauptung transportiert wird. | https://cdn.loc.gov/service/ll/usrep/usrep485/usrep485046/usrep485046.pdf |
-| Meinung und beweisbare Tatsache | Supreme Court of the United States, 21.06.1990 - Milkovich v. Lorain Journal Co., 497 U.S. 1 | Das Label "opinion" schützt nicht automatisch, wenn die Äußerung eine beweisbar falsche Tatsachenbehauptung impliziert. | https://cdn.loc.gov/service/ll/usrep/usrep497/usrep497001/usrep497001.pdf |
-| public concern | Supreme Court of the United States, 02.03.2011 - Snyder v. Phelps, 562 U.S. 443 | Rede zu public concern an öffentlichem Ort ist im US-Recht außerordentlich stark geschützt. | https://cdn.loc.gov/service/ll/usrep/usrep562/usrep562443/usrep562443.pdf |
-| false speech | Supreme Court of the United States, 28.06.2012 - United States v. Alvarez, 567 U.S. 709 | Falsche Aussagen sind nicht allein wegen ihrer Falschheit kategorisch ungeschützt. | https://cdn.loc.gov/service/ll/usrep/usrep567/usrep567709/usrep567709.pdf |
-| incitement | Supreme Court of the United States, 09.06.1969 - Brandenburg v. Ohio, 395 U.S. 444 | Incitement verlangt Ausrichtung auf und Wahrscheinlichkeit unmittelbar bevorstehender rechtswidriger Handlung. | https://cdn.loc.gov/service/ll/usrep/usrep395/usrep395444/usrep395444.pdf |
-| true threats | Supreme Court of the United States, 27.06.2023 - Counterman v. Colorado, 600 U.S. 66 | True-threat-Strafbarkeit setzt mindestens recklessness hinsichtlich der bedrohlichen Bedeutung voraus. | https://www.supremecourt.gov/opinions/22pdf/22-138_43j7.pdf |
-
-## Normquellen
-
-- Art. 5 GG: https://www.gesetze-im-internet.de/gg/art_5.html
-- StGB: https://www.gesetze-im-internet.de/stgb/BJNR001270871.html
-- Art. 10 EMRK, EGMR-Guide: https://ks.echr.coe.int/documents/d/echr-ks/guide_art_10_eng-pdf
-- Art. 11 GRCh: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016P011
-
-## Anwendung
-
-Nutze die Bank nicht als starre Ergebnisliste. Sie liefert Prüfmaßstäbe: Sinnermittlung, Meinung/Tatsache, enge Ausnahmen, Normalabwägung, Machtkritik, Kampf ums Recht, Reichweite, Prangerwirkung, europäische Verhältnismäßigkeit und rechtsvergleichende Einordnung.
 
 ---
 

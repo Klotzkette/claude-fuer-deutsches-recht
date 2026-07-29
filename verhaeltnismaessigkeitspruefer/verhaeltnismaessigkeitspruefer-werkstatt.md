@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
+### 3.1. Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
+### 3.2. Zulässigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zulässigkeit: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
+### 3.3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
+### 3.4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG | GG Artikel 1 Absatz 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Beschwerdegegenstand, Hoheitsakt | GG Artikel 1 Absatz 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GG Artikel 2 Absatz 1 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Absolute Grenze: Menschenwürdiges Existenzminimum | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Zulässigkeit | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -144,15 +144,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Beschwerdegegenstand, Hoheitsakt.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff, Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -182,58 +184,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG
+### 15.1. Beschwerdegegenstand, Hoheitsakt
 
-Paragraf 32 Abs. 1 BVerfGG: einstweilige Anordnung zur Abwehr schwerer Nachteile, drohender Gewalt oder aus anderem wichtigem Grund zum gemeinen Wohl. - Paragraf 32 Abs. 6 BVerfGG: zeitliche Grenze der einstweiligen Anordnung. - Art. 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Absolute Grenze: Menschenwürdiges Existenzminimum
+### 15.2. Zulässigkeit
 
-] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gründen. Diese Grenze hat das BVerfG aus Art 1 I GG in Verbindung mit dem Sozialstaatsprinzip Art 20 I GG entwickelt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Absolute Grenze: Menschenwürde Art 1 I GG
+### 15.3. Schutzbereich, Eingriff
 
-] Die Menschenwürde ist die einzige Norm im Grundgesetz, die jeder Abwägung entzogen ist. Wo sie verletzt ist, endet die Verhältnismäßigkeitsprüfung – ohne Stufe 4. - Art 1 I 1 GG: "Die Wuerde des Menschen ist unantastbar." - Art 79 III GG: Änderungsfest (Ewigkeitsklausel). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Absolute Grenze: Wesensgehalt Art 19 II GG
+### 15.4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten
 
-] "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist das, was nach umfassender Verhältnismäßigkeitsprüfung uebrig bleibt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4
+### 15.5. Arbeitsprodukt
 
-Stufe 4 (Angemessenheit) wirkt oft wie Bauchgefühl. Alexys Gewichtsformel formalisiert die Wertungen, ohne sie zu ersetzen. Wer die Formel beherrscht, kann eine Abwägung strukturiert begründen — in Klausur, Schriftsatz oder Gutachten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
+### 15.6. Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG
 
-Das AGG ist die einfachrechtliche Brückennorm zwischen dem verfassungsrechtlichen Diskriminierungsverbot des Art. 3 Abs. 3 GG und den Unionsrichtlinien zur Gleichbehandlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 32 Abs. 1 BVerfGG: einstweilige Anordnung zur Abwehr schwerer Nachteile, drohender Gewalt oder aus anderem wichtigem Grund zum gemeinen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Angemessenheit Abwägung
+### 15.7. Absolute Grenze: Menschenwürdiges Existenzminimum
 
-Auf der vierten Stufe wird abgewogen: Steht der Eingriff in einem ausgewogenen Verhältnis zum Zweckgewinn?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Apotheken Urteil BVerfGE 7 377
-
-Bayerisches Apothekenrecht knüpfte Apotheken-Neukonzessionen an Beduerfnisnachweis (objektive Voraussetzung). Kläger wollte ohne Beduerfnisnachweis Apotheke eröffnen. Senat 1 BVerfG, Beschluss 11.06.1958, BVerfGE 7, 377 (Apotheken-Urteil). Verstoß gegen Art 12 I GG. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG
-
-Art. 3 Abs. 2 und Abs. 3 GG verschaerfen den allgemeinen Gleichheitssatz für bestimmte Merkmale. Anders als bei Art. 3 Abs. 1 GG ist hier die Anknüpfung an das verbotene Merkmal grundsätzlich verboten und nur ausnahmsweise zu rechtfertigen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungsprüfung
-
-Art. 3 Abs. 1 GG verbietet nicht jede Ungleichbehandlung, sondern die ungerechtfertigte. Die Rechtfertigung folgt einer eigenen Dogmatik, die der allgemeinen Verhältnismäßigkeitsprüfung folgt, aber eine vorgelagerte Vergleichsstufe und einen gleitenden Prüfungsmassstab kennt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. ASCII-Prüfungsschema Verhältnismäßigkeit
-
-Das Schema ist ein Darstellungswerkzeug, kein Ersatz für die Wertung. Es muss die vier Stufen der Verhältnismäßigkeit, die Schranken-Schranken und bei kollidierendem Verfassungsrecht die praktische Konkordanz sichtbar machen. - GG Art. 1 Abs. 1, Art. 2 Abs. 1, Art. 5, Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Audiovisuelle Leitentscheidungen Sammlung
-
-1. Offizielle BVerfG-Seite — Entscheidung, Pressemitteilung, Terminhinweis, Verkuendungsvideo nur mit stabiler URL. 2. OEffentlich-rechtliche Mediatheken — nur wenn der Beitrag dauerhaft auffindbar ist oder archiviert werden darf. 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Belgien Redelijkheid und Evenredigheid
-
-Die Belgische Grondwet von 1831 (revidiert 1994) schuetzt klassische Freiheitsrechte in Titel II (Art 8 bis 32 GW). Wesentlich: - Art 10 und 11 GW: allgemeiner Gleichheitssatz und Diskriminierungsverbot. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Bestimmtheit und Normklarheit
-
-] Eingriffsgesetze müssen so klar sein, dass Bürger ihr Verhalten an ihnen ausrichten und Gerichte sie rechtssicher anwenden können. Diese Anforderung ist Vorfrage jeder Verhältnismäßigkeitsprüfung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+] Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gründen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

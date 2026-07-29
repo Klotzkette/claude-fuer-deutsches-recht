@@ -2,18 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 109 Skills (gekürzt für das Arbeitsfenster) des Plugins `normenkontrolle-bauleitplanung`.
+Diese Vollprüfung enthält top-8 von 110 Skills (gekürzt für das Arbeitsfenster) des Plugins `normenkontrolle-bauleitplanung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unt…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterla…
-3. **spezial-pruefung-erstpruefung-und-mandatsziel** — Wenn es um Pruefung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geh…
-4. **pruefung-erstpruefung-und-mandatsziel** — Wenn es um Prüfung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht…
-5. **veraenderungssperre-zurueckstellung-14-15-baugb** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
-6. **veraenderungssperre-zurueckstellung-14-15** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
-7. **einstweilige-anordnung-erforderlichkeit-abs** — Wenn es um Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ord…
-8. **antragstellervertretung-zahlen-schwellen-und-berechnung** — Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 4…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Normenkontrolle Bauleitplanung ein juristisches Arbeitsprodukt tragfähig begründet werden mus…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unt…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: klärt Rolle, Ziel, Frist, Unterla…
+4. **spezial-pruefung-erstpruefung-und-mandatsziel** — Wenn es um Pruefung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geh…
+5. **pruefung-erstpruefung-und-mandatsziel** — Wenn es um Prüfung: Erstprüfung, Rollenklärung und Mandatsziel in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht…
+6. **veraenderungssperre-zurueckstellung-14-15-baugb** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
+7. **veraenderungssperre-zurueckstellung-14-15** — Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf …
+8. **einstweilige-anordnung-erforderlichkeit-abs** — Wenn es um Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ord…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Normenkontrolle Bauleitplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Normenkontrolle Bauleitplanung
+
+## 1. Direktstart
+
+Arbeite als Baurechtlicher Bearbeiter für Bauleitplanung, Normenkontrolle, Bebauungsplan-Festsetzungen, städtebauliche Verträge, Durchführungsverträge, Erschließung und Planerhaltung.
+
+Pluginauftrag: Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach Paragraf 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Normenkontrolle Bauleitplanung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Planangriff und Verfahrensstand | Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen |
+| Festsetzungen | BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen |
+| Städtebauliche Verträge | BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen |
+| Vorhabenbezogener Plan | BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen |
+| Erschließung und Kosten | Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124, Erschließungsbeiträge, Anlagenliste und Umgehungsrisiko ordnen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Eilantrag nach Paragraf 47 Abs. 6 VwGO außerhalb des Baurechts: schwere Nachteile, wichtige Gründe, Vollzugsfolgen und Antragsstrategie.: Bearbeite den Fachpunkt im Skill eilantrag-47-abs-6-ausserhalb-baurecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Eilantrag nach Paragraf 47 Abs. 6 VwGO: Bearbeite den Fachpunkt im Skill eilantrag-47-abs-6-vwgo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill antragstellervertretung-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Bayvgh: Verhandlung, Vergleich und Eskalation: Bearbeite den Fachpunkt im Skill bayvgh-bekanntmachung-beweislast-eilantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BauGB Paragraf 1 Absatz 3: städtebauliche Erforderlichkeit der Planung.
+4.2. BauGB Paragraf 1 Absatz 7: Abwägungsgebot für Plan, Festsetzung und Vertragsfolgen.
+4.3. BauGB Paragraf 2 Absatz 3: Ermittlung und Bewertung des Abwägungsmaterials.
+4.4. BauGB Paragraf 9: textliche und zeichnerische Festsetzungen des Bebauungsplans.
+4.5. BauGB Paragraf 11: städtebaulicher Vertrag mit Kausalität, Angemessenheit und Schriftform.
+4.6. BauGB Paragraf 12: vorhabenbezogener Bebauungsplan und Durchführungsvertrag.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerwG, Urteil vom 25.11.2005 - 4 C 15.04: Kostenübernahme in städtebaulichen Verträgen braucht zurechenbaren städtebaulichen Bezug und darf nicht nicht delegierbare Gemeindeaufgaben verlagern.
+5.2. BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
+5.3. BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Nach der damals geltenden Fassung des BauGB war Paragraf 124 die Spezialregelung für Erschließungsverträge; für heutige Verträge sind BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1 und der nun anders geregelte Paragraf 124 zugrunde zu legen.
+5.4. BVerwG, Urteil vom 25.01.2021 - 9 C 1.19: Der Durchführungsvertrag nach BauGB Paragraf 12 bezieht sich auf die Einzelerschließung und Durchführung eines Vorhabens.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Satzung, Festsetzung oder Vertragsklausel ist genau angegriffen.
+7.2. Welche Rechtsgrundlage trägt die Festsetzung oder Vertragsleistung.
+7.3. Ist die Festsetzung bestimmt, erforderlich und abgewogen.
+7.4. Ist die Vertragsleistung kausal, angemessen, schriftlich und nicht kopplungswidrig.
+7.5. Greifen Planerhaltungsregeln oder ist der Fehler beachtlich.
+7.6. Welcher Rechtsschutzweg passt: Normenkontrolle, Leistungsklage, Feststellung oder Planheilung.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt.
+10.2. Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt] nachvollziehbar, transparent und angemessen zurechenbar ist.
+10.3. Heilungsvermerk: Der Fehler kann nur über ein ergänzendes Verfahren repariert werden, wenn die Gemeinde das fehlende Abwägungsmaterial ermittelt, bewertet und erneut beschließt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung verwendbar?
 
 ---
 
@@ -1113,41 +1238,6 @@ Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungspl
 - BVerwG 12.06.2019, 4 BN 4.19 — Maßstab "schwere Nachteile" beim Eilantrag § 47 Abs. 6 VwGO (bverwg.de)
 - BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als beruecksichtigungspflichtiger Belang (bverwg.de)
 - Aktuelle OVG-/VGH-Beschlüsse vor Ausgabe über landesrecht-[bundesland].de und bverwg.de verifizieren
-
----
-
-## Skill: `antragstellervertretung-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Antragstellervertretung Zahlen Schwellen Und Berechnung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
-
-# Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VwGO § 47 Abs. 2 Antrag 1 Jahr nach Bekanntmachung, BauGB § 3 Abs. 2 Auslegung 1 Monat, Einwendungen 1 Monat, § 215 BauGB Rüge formeller/materieller Fehler 1 Jahr.
-- Tragende Normen verifizieren: VwGO § 47, BauGB §§ 1, 1a, 2, 3, 4, 4a, 10, 13, 13a, 13b, 30, 34, 35, BImSchG, BNatSchG, UVPG, EU-Plan-UP-RL 2001/42 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Bebauungsplan, Begründung mit Umweltbericht, Abwägungsmaterial, Beteiligungsstellungnahmen, Satzungsbeschluss, Normenkontrollantrag, Eilantrag § 47 Abs. 6 VwGO — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Antragstellervertretung: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** VwGO, OVG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Antragstellervertretung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

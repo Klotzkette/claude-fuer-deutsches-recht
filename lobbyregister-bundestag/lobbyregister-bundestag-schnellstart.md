@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Registerinhalt: Mandant, Regelungsvorhaben, Finanzangaben, Zuwendungen, Auftraggeberkette und Aktualisierung prüfen.
 4. Verhalten und Nachweis: Kodex, Kontaktvermerk, Unterlagen, Freigabe, interne Verantwortlichkeit und Fristen sichern.
 5. Arbeitsprodukt: Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen.
-6. Fristen- und Quartalsmonitor: Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Kontakt und Adressat | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflicht und Ausnahme | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Registerinhalt | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhalten und Nachweis | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Fristen- und Quartalsmonitor | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Portal-Account und Rollen | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Adressatenkreis Bundestag und Bundesregierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Unverzügliche Aktualisierung | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anonymisierung und Schutzantrag | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Auftraggeber ermitteln | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -58,8 +57,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Fristen- und Quartalsmonitor, Portal-Account und Rollen, Adressatenkreis Bundestag und Bundesregierung, Unverzügliche Aktualisierung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr.
+7.2. Normsatz: Den tragenden Anker LobbyRG Paragraf 1; LobbyRG Paragraf 2 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Kontakt und Adressat konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Kontakt und Adressat, Pflicht und Ausnahme, Registerinhalt, Verhalten und Nachweis: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

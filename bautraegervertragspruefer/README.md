@@ -92,7 +92,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`drei-dokumente-paket-erzeugen`](skills/drei-dokumente-paket-erzeugen/SKILL.md), [`mandantengutachten-aufbau`](skills/mandantengutachten-aufbau/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`verbraucherstatus-pruefen`](skills/verbraucherstatus-pruefen/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`verbraucherstatus-pruefen`](skills/verbraucherstatus-pruefen/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`agb-kontrolle-klauseln`](skills/agb-kontrolle-klauseln/SKILL.md), [`bautraegervertrag-qualifikation`](skills/bautraegervertrag-qualifikation/SKILL.md), [`bauzeitenplan-verzug`](skills/bauzeitenplan-verzug/SKILL.md), [`mabv-ratenplan-pruefen`](skills/mabv-ratenplan-pruefen/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`weg-beschluss-anfechtung`](skills/weg-beschluss-anfechtung/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`aufforderungsschreiben-bautraeger-und-notar`](skills/aufforderungsschreiben-bautraeger-und-notar/SKILL.md) |
@@ -104,7 +104,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -124,6 +124,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Jeder Sk
 | [`gesamtnichtigkeit-paragraf-306-bgb`](skills/gesamtnichtigkeit-paragraf-306-bgb/SKILL.md) | Wenn es um Gesamtnichtigkeit Paragraf 306 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`hoai-bauueberwachung-private-bauueberwachung`](skills/hoai-bauueberwachung-private-bauueberwachung/SKILL.md) | Wenn es um HOAI, Bauüberwachung und private Bauüberwachung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`insolvenzrisiken-bautraeger`](skills/insolvenzrisiken-bautraeger/SKILL.md) | Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`mabv-ratenplan-pruefen`](skills/mabv-ratenplan-pruefen/SKILL.md) | Wenn es um MaBV-Ratenplan prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`mabv-sicherheit-paragraf-7-pruefen`](skills/mabv-sicherheit-paragraf-7-pruefen/SKILL.md) | Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem S... |
 | [`maengelrechte-633-634-bgb`](skills/maengelrechte-633-634-bgb/SKILL.md) | Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |

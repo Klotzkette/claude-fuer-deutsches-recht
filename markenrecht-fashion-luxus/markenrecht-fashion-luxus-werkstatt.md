@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Zeichen und Schutzweg: Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg.
+### 3.1. Zeichen und Schutzweg
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zeichen und Schutzweg: Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Eintragungsfähigkeit: Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt.
+### 3.2. Eintragungsfähigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Eintragungsfähigkeit: Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Kollision: Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr.
+### 3.3. Kollision
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Kollision: Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Benutzung: Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen.
+### 3.4. Benutzung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Benutzung: Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Verfahren und Produkt: Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen.
+### 3.5. Verfahren und Produkt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verfahren und Produkt: Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Markenrechtliche Abmahnung und Unterlassungserklärung | MarkenG Paragraf 4 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Zeichen und Schutzweg | MarkenG Paragraf 4 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | MarkenG Paragraf 8 und Paragraf 9 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | AGB im Händlervertrag für Luxus-Selektivvertrieb | MarkenG Paragraf 8 und Paragraf 9 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Eintragungsfähigkeit | MarkenG Paragraf 8 und Paragraf 9 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz | Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind MarkenG Paragraf 4; MarkenG Paragraf 8 und Paragraf 9.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Zeichen und Schutzweg.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Zeichen und Schutzweg, Eintragungsfähigkeit, Kollision, Benutzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 11.11.1997 - C-251/95; EuGH, Urteil vom 29.09.1998 - C-39/97.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,58 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Markenrechtliche Abmahnung und Unterlassungserklärung
+### 15.1. Zeichen und Schutzweg
 
-Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. AGB im Händlervertrag für Luxus-Selektivvertrieb
+### 15.2. Eintragungsfähigkeit
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Anti-digitale Werkzeuge-Marken und Authentizitätskennzeichen
+### 15.3. Kollision
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Rechtserhaltende Benutzung
+### 15.4. Benutzung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Beweissicherung, Testkauf und Screenshot
+### 15.5. Verfahren und Produkt
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.6. Markenrechtliche Abmahnung und Unterlassungserklärung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. EUIPO-Beschwerde und EU-Gerichte
+### 15.7. AGB im Händlervertrag für Luxus-Selektivvertrieb
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Sichert EUIPO-Widerspruchsfristen, Gebühren, Substantiierung älterer Rechte, Übersetzungen, Verfahrenssprache.
-
-Sichert EUIPO-Widerspruchsfristen, Gebühren, Substantiierung älterer Rechte, Übersetzungen, Verfahrenssprache, Anlagen und Wiedervorlage im Alicante-Workflow. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Klageanträge im Markenrecht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Luxus: Fristen, Form, Zuständigkeit und Rechtsweg
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Chronologie und Belegmatrix
-
-Dieser Arbeitsgang macht Chronologie und Belegmatrix im Bereich markenrecht-fashion-luxus sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Absolute Schutzhindernisse
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Alicante: Schriftsatz-, Brief- und Memo-Bausteine
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

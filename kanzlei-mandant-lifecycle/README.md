@@ -85,7 +85,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`conflict-after-mandate`](skills/conflict-after-mandate/SKILL.md), [`inhouse-legal-triage`](skills/inhouse-legal-triage/SKILL.md), [`kaltstart-beide-seiten-dashboard`](skills/kaltstart-beide-seiten-dashboard/SKILL.md), [`mandatsannahme-conflict-gwg`](skills/mandatsannahme-conflict-gwg/SKILL.md), [`matter-intake-form-builder`](skills/matter-intake-form-builder/SKILL.md), [`matter-mandantenschulung-mandatsannahme`](skills/matter-mandantenschulung-mandatsannahme/SKILL.md), [`termination-of-mandate`](skills/termination-of-mandate/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`action-item-owner-matrix`](skills/action-item-owner-matrix/SKILL.md), [`audit-response-trail-logs-authority-matrix`](skills/audit-response-trail-logs-authority-matrix/SKILL.md), [`authority-matrix`](skills/authority-matrix/SKILL.md), [`datenschutz-avv-legalops`](skills/datenschutz-avv-legalops/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`dashboard-matter-status`](skills/dashboard-matter-status/SKILL.md), [`weekly-status-report`](skills/weekly-status-report/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`dashboard-matter-status`](skills/dashboard-matter-status/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`weekly-status-report`](skills/weekly-status-report/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`regulatory-remediation-plan`](skills/regulatory-remediation-plan/SKILL.md), [`success-fee-compliance`](skills/success-fee-compliance/SKILL.md), [`vergleichswert-story`](skills/vergleichswert-story/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`risk-register`](skills/risk-register/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`bad-news-memo`](skills/bad-news-memo/SKILL.md), [`fachabteilung-briefing`](skills/fachabteilung-briefing/SKILL.md) |
@@ -98,7 +98,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 116 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -156,6 +156,7 @@ Automatisch generierte Komplett-Liste aller 115 Skills in diesem Plugin. Jeder S
 | [`investigation-governance`](skills/investigation-governance/SKILL.md) | Wenn es um Investigation Governance in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`invoice-review-narratives`](skills/invoice-review-narratives/SKILL.md) | Wenn es um Invoice Review Narratives in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`joint-ai-workspace`](skills/joint-ai-workspace/SKILL.md) | Wenn es um Gemeinsamer digitale Werkzeuge-Workspace in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Kanzlei Mandant Lifecycle ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-beide-seiten-dashboard`](skills/kaltstart-beide-seiten-dashboard/SKILL.md) | Wenn es um Kaltstart für beide Seiten in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kanzlei-ki-tool-mandanteneinwilligung`](skills/kanzlei-ki-tool-mandanteneinwilligung/SKILL.md) | Wenn es um digitale Werkzeuge-Tool und Mandanteneinwilligung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`law-firm-feedback-loop`](skills/law-firm-feedback-loop/SKILL.md) | Wenn es um Law Firm Feedback Loop in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

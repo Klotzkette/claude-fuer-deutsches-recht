@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 72 Skills des Plugins `ecommerce-recht`.
+Diese Vollprüfung enthält top-10 von 73 Skills des Plugins `ecommerce-recht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um E-Commerce-Recht — Allgemein in E-Commerce-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-2. **gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb** — Wenn es um Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB in E-Commerce-Recht geht: ordnet Sach…
-3. **rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation** — Wenn es um Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation in E-Commerce-Recht geht: ordnet Sachverhalt, N…
-4. **informationspflichten-vertragsschluss** — Wenn es um Informationspflichten vor Vertragsschluss Art. 246a EGBGB in E-Commerce-Recht geht: ordnet Sachverhalt, Norm,…
-5. **rechtsabteilung-dark-patterns-und-verbraucherwiderruf** — Wenn es um Rechtsabteilung: Dark Patterns und Verbraucherwiderruf in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Be…
-6. **rechtsabteilung-cross-border-shop-eu-verbraucherrecht** — Wenn es um Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Be…
-7. **rechtsabteilung-online-marktplatz-nach-dsa** — Wenn es um Rechtsabteilung: Online-Marktplatz nach DSA in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, G…
-8. **ki-gestuetzte-klarna-paypal-kuendigungsbutton** — Wenn es um digitale Werkzeuge-gestützte Preisbildung Diskriminierung in E-Commerce-Recht geht: ordnet Akteninhalt, Beleg…
-9. **kundenservice-chatbot-lieferzeiten** — Wenn es um Kundenservice Chatbot digitale Werkzeuge Act Transparenz in E-Commerce-Recht geht: ordnet Akteninhalt, Belege…
-10. **agb-online-altersverifikation-jugendschutz** — Wenn es um AGB im Online-Shop – Einbeziehung Paragraf 305 BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lück…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Ecommerce Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
+2. **kaltstart-triage** — Wenn es um E-Commerce-Recht — Allgemein in E-Commerce-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+3. **gewaehrleistung-digitale-produkte-warenkauf-327-ff-434-ff-bgb** — Wenn es um Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB in E-Commerce-Recht geht: ordnet Sach…
+4. **rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation** — Wenn es um Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation in E-Commerce-Recht geht: ordnet Sachverhalt, N…
+5. **informationspflichten-vertragsschluss** — Wenn es um Informationspflichten vor Vertragsschluss Art. 246a EGBGB in E-Commerce-Recht geht: ordnet Sachverhalt, Norm,…
+6. **rechtsabteilung-dark-patterns-und-verbraucherwiderruf** — Wenn es um Rechtsabteilung: Dark Patterns und Verbraucherwiderruf in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Be…
+7. **rechtsabteilung-cross-border-shop-eu-verbraucherrecht** — Wenn es um Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Be…
+8. **rechtsabteilung-online-marktplatz-nach-dsa** — Wenn es um Rechtsabteilung: Online-Marktplatz nach DSA in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, G…
+9. **ki-gestuetzte-klarna-paypal-kuendigungsbutton** — Wenn es um digitale Werkzeuge-gestützte Preisbildung Diskriminierung in E-Commerce-Recht geht: ordnet Akteninhalt, Beleg…
+10. **kundenservice-chatbot-lieferzeiten** — Wenn es um Kundenservice Chatbot digitale Werkzeuge Act Transparenz in E-Commerce-Recht geht: ordnet Akteninhalt, Belege…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Ecommerce Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Ecommerce Recht
+
+## 1. Direktstart
+
+Arbeite als IT-rechtlicher Bearbeiter für Software, SaaS, IT-Projekte, Cloud, Leistungsstörung, Datenschutzschnittstellen, Service-Level und Vertragsabnahme.
+
+Pluginauftrag: Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Ecommerce Recht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Leistungsmodell | Kauf, Miete, Werk, Dienst, SaaS, Cloud oder Mischvertrag einordnen |
+| Pflichtenheft | Funktion, Schnittstelle, Meilenstein, Testfall, Service-Level und Abnahme festlegen |
+| Störung | Mangel, Verzug, Change Request, Mitwirkungsdefizit und Eskalationsmechanik trennen |
+| Rechte und Daten | Nutzungsrechte, Open Source, Datenschutzschnittstelle, Zugriff und Löschung prüfen |
+| Arbeitsprodukt | IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll, Exit-Plan oder Projektmemo erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Abmahnung einstweilige Verfügung Sofortplan: Bearbeite den Fachpunkt im Skill abmahnung-einstweilige-verfuegung-sofortplan und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Abmahnung UWG Unterlassungserklärung: Bearbeite den Fachpunkt im Skill abmahnung-uwg-abo-falle-accessibility-bfsg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Digitale Inhalte Abo Kündigungsbutton: Bearbeite den Fachpunkt im Skill digitale-inhalte-abo-kuendigungsbutton und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Dropshipping Drittland Zoll Einfuhrumsatzsteuer: Bearbeite den Fachpunkt im Skill dropshipping-drittland-oss-ioss-abmahnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 327: Verbraucherverträge über digitale Produkte.
+4.2. BGB Paragraf 327e: Vertragsmäßigkeit digitaler Produkte.
+4.3. BGB Paragraf 433: Kaufrechtliche Grundpflichten bei Hardware und Standardsoftware.
+4.4. BGB Paragraf 631: Werkvertragliche Pflichten bei Projektleistungen.
+4.5. BGB Paragraf 634: Rechte bei Mängeln des Werkes.
+4.6. BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
+5.2. BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
+5.3. BGH, Urteil vom 04.03.2010 - III ZR 79/09: Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt.
+5.4. BGH, Urteil vom 26.07.2012 - VII ZR 262/11: Eine Entgeltklausel für einen Eintrag in ein Internet-Branchenverzeichnis ist überraschend und wird nicht Vertragsbestandteil, wenn die Leistung nach dem Erscheinungsbild des Formulars unentgeltlich wirkt und die Vergütung drucktechnisch unauffällig verborgen ist.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Auftraggeber für Mangel und Abnahmevorbehalt; Anbieter für Leistung, Change Request, Mitwirkung und Haftungsbegrenzung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Vertragstypen prägen die Leistung.
+7.2. Welche Spezifikation ist messbar und abnahmefähig.
+7.3. Welche Mitwirkung hat gefehlt oder war verzugsrelevant.
+7.4. Welche Nutzungsrechte und Datenpflichten sind erforderlich.
+7.5. Welche Eskalation verhindert Projektstillstand.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Leistungsmodell, Pflichtenheft, Störung, Rechte und Daten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag verwendbar?
 
 ---
 
@@ -662,125 +780,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Qualitätsgate
 Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `agb-online-altersverifikation-jugendschutz`
-
-_Wenn es um AGB im Online-Shop – Einbeziehung Paragraf 305 BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# AGB im Online-Shop – Einbeziehung § 305 BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: AGB im Online-Shop – Einbeziehung § 305 BGB
-- **Normen-/Quellenanker:** BGB Fernabsatz/Widerruf, PAngV, UWG, DSGVO, DDG/DSA, TDDDG, Produktsicherheit, Gewährleistung, Zahlungsdienste und Plattformrecht.
-- **Entscheidende Weiche:** Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten.
-
-## Worum geht es konkret
-
-Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (§ 305 II BGB) und einer Inhaltskontrolle (§§ 307 ff. BGB) standhalten. Im Online-Shop entscheidet die Einbeziehung über die gesamte Vertragsgrundlage (Lieferung, Mängelhaftung, Eigentumsvorbehalt, Streitbeilegung). Der Skill ordnet Einbeziehung, Klauseltypen und Inhaltskontrolle.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Wo sind die AGB im Bestellprozess platziert?
-- Wird vor Bestellabgabe ausdrücklich auf die AGB hingewiesen?
-- Sind die AGB unmittelbar abrufbar und speicherbar?
-- Welche Klauseln sind streitig (Versand, Vorkasse, Eigentumsvorbehalt, Haftungsausschluss, Gerichtsstand)?
-- B2C oder B2B?
-- Schon Abmahnung wegen unwirksamer AGB erhalten?
-
-## Rechtlicher Rahmen
-
-- § 305 II BGB: Einbeziehung – ausdrücklicher Hinweis, zumutbare Kenntnisnahme, Einverständnis.
-- § 305c BGB: Überraschende Klauseln.
-- § 306 BGB: Rechtsfolge der Nichteinbeziehung/Unwirksamkeit – Vertrag im Übrigen wirksam.
-- §§ 307–309 BGB: Inhaltskontrolle, Klauselverbote.
-- § 310 BGB: Anwendungsbereich – AGB auch im B2B, jedoch ohne Verbraucherschutz §§ 308, 309.
-- UWG § 3a: Marktverhaltensregel.
-- UKlaG: Unterlassungsklage Verbraucherverbände.
-- BGH zur Online-AGB-Einbeziehung – ständige Rechtsprechung: Hinweis und Möglichkeit der Kenntnisnahme reichen; Pflicht zur Aktivbestätigung (Checkbox) nicht erforderlich, aber praktisch empfohlen.
-
-## / Schritt für Schritt
-
-1. **Einbeziehungspfad prüfen.** Vor Bestellabgabe Hinweis "Es gelten unsere AGB"; Link unmittelbar zur Volltext-Fassung; Druck- und Speicherfunktion.
-2. **AGB-Inhalt strukturieren.**
- - Geltungsbereich,
- - Vertragsschluss / Angebot,
- - Lieferung und Versand,
- - Preise und Zahlung,
- - Eigentumsvorbehalt,
- - Mängelhaftung / Gewährleistung,
- - Haftungsbegrenzung,
- - Widerrufsrecht (Verlinkung),
- - Streitbeilegung / Gerichtsstand,
- - Datenschutz (Verweis).
-3. **Inhaltskontrolle.**
- - § 309 Nr. 7 BGB: Haftungsausschluss bei Vorsatz/grober Fahrlässigkeit/wesentlichen Pflichten unzulässig.
- - § 309 Nr. 8 BGB: Gewährleistungsausschluss bei Neuware unzulässig.
- - § 309 Nr. 9 BGB: Laufzeit Dauerschuldverhältnisse begrenzt.
- - § 309 Nr. 12 BGB: Vorausabtretung von Gegenforderungen.
-4. **Versionierung.** Stand-Vermerk, Archivierung, Verlauf.
-5. **Update-Mechanismus.** Bei wesentlichen Änderungen: Mitteilung mit Widerspruchsrecht.
-6. **Streitfall.** Klausel angreifen: nicht einbezogen oder unwirksam.
-
-## Trade-off-Matrix
-
-| Klauseltyp | Wirksam B2C | Wirksam B2B |
-| --- | --- | --- |
-| Vollständiger Haftungsausschluss | unwirksam § 309 Nr. 7 | meist unwirksam § 307 |
-| Pauschaler Wertersatz Widerruf | unwirksam | – |
-| Verlängerungsautomatik Abo > 12 Monate | unwirksam § 309 Nr. 9 | unwirksam § 307 |
-| Gerichtsstandsklausel | grundsätzlich § 38 III ZPO | wirksam unter Kaufleuten |
-| Eigentumsvorbehalt | wirksam | wirksam |
-
-## Praxistipps
-
-- Im Bestellprozess: Checkbox "Ich habe die AGB gelesen und akzeptiere sie" mit Link – einbeziehungssicher, aber nicht zwingend.
-- Versionsnummer + Datum in den AGB sichtbar – beweissicher.
-- Bei AGB-Update Bestandsverträge berücksichtigen – Vereinbarung erforderlich (Änderungskündigung oder Zustimmungslösung).
-- Klauseln aus Musterverträgen blind übernehmen – häufig veraltet, vor allem zu § 312k.
-- Internationale Lieferung: Rom-I-Anpassungen, Geo-Blocking-VO.
-
-## Mustertexte
-
-**Einbeziehungshinweis im Checkout:**
-"Mit Klick auf 'zahlungspflichtig bestellen' bestätigen Sie, dass Sie unsere Allgemeinen Geschäftsbedingungen [LINK] und die Widerrufsbelehrung [LINK] gelesen haben und einverstanden sind."
-
-**Standardklauseln (Kurzfassung):**
-- Vertragspartner: [Firma], [Anschrift], [HRB], [USt-IdNr.].
-- Angebot der Waren stellt unverbindliche Aufforderung dar; Vertragsschluss durch Annahmebestätigung des Anbieters.
-- Lieferung: [Standard innerhalb 3–5 Werktagen]; Versandkosten ausgewiesen.
-- Zahlung: [Kreditkarte, PayPal, Klarna, Vorkasse].
-- Eigentumsvorbehalt bis vollständige Zahlung.
-- Gewährleistung gesetzlich; bei Verbrauchern 2 Jahre.
-- Widerrufsbelehrung siehe Anlage.
-
-**Update-Mitteilung:**
-"Wir aktualisieren unsere AGB zum [Datum]. Wesentliche Änderungen: [...]. Sie können den Änderungen binnen 6 Wochen widersprechen; sonst gelten die neuen AGB als angenommen. Volltext: [LINK]."
-
-## Typische Fehler
-
-- AGB nur als PDF zum Download – Kenntnisnahme erschwert, oft nicht ausreichend.
-- Klausel zur Vorauszahlung bei Verbraucherkauf ohne Liefersicherung.
-- Pauschale Bearbeitungsgebühr bei Widerruf.
-- Gerichtsstand auf Sitz des Unternehmers für Verbraucher – unwirksam.
-- Klausel "AGB können jederzeit geändert werden" ohne konkreten Änderungsmechanismus – unwirksam.
-
-## Quellen Stand 06/2026
-
-- §§ 305–310 BGB – Volltext gesetze-im-internet.de.
-- UKlaG, UWG §§ 3a – Volltexte gesetze-im-internet.de.
-- BGH zur Online-AGB-Einbeziehung – ständige Rechtsprechung; Volltexte bundesgerichtshof.de.
-- EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) zur Klauselkontrolle – curia.europa.eu.
-- Verbraucherrechte-RL 2011/83/EU; Klausel-RL 93/13/EWG – EUR-Lex.
-- VZBV – Klagepraxis und Datenbank unwirksamer Klauseln.
 
 ---
 

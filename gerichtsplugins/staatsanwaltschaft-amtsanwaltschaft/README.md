@@ -136,6 +136,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`01-akte-erstdurchsicht-und-anfangsverdacht`](skills/01-akte-erstdurchsicht-und-anfangsverdacht/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`19-sitzungsdienst-und-fragerecht-hauptverhandlung`](skills/19-sitzungsdienst-und-fragerecht-hauptverhandlung/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`04-durchsuchung-und-beschlagnahme-antrag`](skills/04-durchsuchung-und-beschlagnahme-antrag/SKILL.md), [`05-haftbefehlsantrag-und-untersuchungshaft`](skills/05-haftbefehlsantrag-und-untersuchungshaft/SKILL.md), [`13-strafbefehlsantrag-paragraf-407`](skills/13-strafbefehlsantrag-paragraf-407/SKILL.md), [`14-anklageschrift-paragraf-200`](skills/14-anklageschrift-paragraf-200/SKILL.md), [`15-antrag-beschleunigtes-verfahren-paragraf-417`](skills/15-antrag-beschleunigtes-verfahren-paragraf-417/SKILL.md), [`16-sicherungsverfahren-und-massregeln`](skills/16-sicherungsverfahren-und-massregeln/SKILL.md), [`22-strafvollstreckung-paragraf-451`](skills/22-strafvollstreckung-paragraf-451/SKILL.md), [`23-klageerzwingung-und-beschwerdebescheid-paragraf-172`](skills/23-klageerzwingung-und-beschwerdebescheid-paragraf-172/SKILL.md), [`24-abschlussverfuegung-und-entscheidungsvorschlag`](skills/24-abschlussverfuegung-und-entscheidungsvorschlag/SKILL.md), [`25-adhaesionsverfahren-paragraf-403`](skills/25-adhaesionsverfahren-paragraf-403/SKILL.md), [`26-opferschutz-nebenklage-und-verletztenrechte`](skills/26-opferschutz-nebenklage-und-verletztenrechte/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`07-telekommunikationsueberwachung-und-verdeckte-massnahmen`](skills/07-telekommunikationsueberwachung-und-verdeckte-massnahmen/SKILL.md) |
@@ -147,7 +148,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 32 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -180,6 +181,7 @@ Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Jeder Sk
 | [`27-wiederaufnahme-zuungunsten-paragraf-362`](skills/27-wiederaufnahme-zuungunsten-paragraf-362/SKILL.md) | Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung u... |
 | [`28-internationale-rechtshilfe-und-eu-haftbefehl`](skills/28-internationale-rechtshilfe-und-eu-haftbefehl/SKILL.md) | Wenn es um 28 Internationale Rechtshilfe und EU Haftbefehl in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung Volltext in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Staatsanwaltschaft Amtsanwaltschaft ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft`](skills/v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft/SKILL.md) | Wenn es um Praxisraster Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

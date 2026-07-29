@@ -111,7 +111,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 3. Prüfung, Anspruch und Subsumtion | [`01-annahme-pruefung-paragraf-93a`](skills/01-annahme-pruefung-paragraf-93a/SKILL.md), [`02-substantiierungs-pruefung-paragraf-92`](skills/02-substantiierungs-pruefung-paragraf-92/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`01-annahme-pruefung-paragraf-93a`](skills/01-annahme-pruefung-paragraf-93a/SKILL.md), [`02-substantiierungs-pruefung-paragraf-92`](skills/02-substantiierungs-pruefung-paragraf-92/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`04-subsidiaritaet-und-frist`](skills/04-subsidiaritaet-und-frist/SKILL.md), [`06-fachgerichtliche-entscheidung-pruefen`](skills/06-fachgerichtliche-entscheidung-pruefen/SKILL.md), [`09-nichtannahmebeschluss-entwurf`](skills/09-nichtannahmebeschluss-entwurf/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`03-rechtswegerschoepfung-paragraf-90-abs-2`](skills/03-rechtswegerschoepfung-paragraf-90-abs-2/SKILL.md), [`05-grundrechtsdogmatik-pruefen`](skills/05-grundrechtsdogmatik-pruefen/SKILL.md), [`07-kammer-und-senat-zustaendigkeit`](skills/07-kammer-und-senat-zustaendigkeit/SKILL.md), [`08-votum-wissenschaftlicher-mitarbeiter`](skills/08-votum-wissenschaftlicher-mitarbeiter/SKILL.md), [`10-entscheidungsvorschlag-kammer-bverfg`](skills/10-entscheidungsvorschlag-kammer-bverfg/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
@@ -121,7 +121,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +136,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Sk
 | [`09-nichtannahmebeschluss-entwurf`](skills/09-nichtannahmebeschluss-entwurf/SKILL.md) | Wenn es um 09 Nichtannahmebeschluss Entwurf in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-entscheidungsvorschlag-kammer-bverfg`](skills/10-entscheidungsvorschlag-kammer-bverfg/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Kammer BVerfG in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG) in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter BVerfG Verfassungsbeschwerden ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsf... |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

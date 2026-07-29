@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+### 3.1. Verwaltungshandeln
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+### 3.2. Zulässigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+### 3.3. Materielle Rechtmäßigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+### 3.4. Eilrechtsschutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verwaltungshandeln | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Diligence: Compliance-Dokumentation und Aktenvermerk | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Zulässigkeit | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,11 +96,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne |
-| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven |
-| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen |
-| BVerwG, Urteil vom 12.01.2012 - 7 C 5.11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende |
-| BVerwG, Urteil vom 09.12.2015 - 6 C 37.14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen |
+| BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND auf Klimaschutz-Sofortprogramm Paragraf 8 KSG 2021) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aktivlegitimation und Klagebefugnis der nach Paragraf 3 UmwRG anerkannten Umweltvereinigungen |
+| EuGH 08.11.2016, C-243/15 (Lesoochranárske) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbände |
+| EuGH 20.12.2017, C-664/15 (Protect) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Umweltverband muss zumindest objektive Rechtsverletzungen rügen können; Aarhus Art. 9 Abs |
+| BVerwG 17.12.2020, 4 C 5.19 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Umweltverband muss substanziiert darlegen, dass das Vorhaben gegen umweltbezogene Vorschriften verstoesst |
+| BVerwG 18.07.2019, 7 C 26.17 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Anforderungen an UVP-Pflichtigkeit und Nachholbarkeit von Verfahrensfehlern |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -123,11 +123,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
-- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
-- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen Feststellungsklage geklärt werden.
-- BVerwG, Urteil vom 12.01.2012 - 7 C 5.11: Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende und rechtsschutzsichernde Grundlage voraus.
-- BVerwG, Urteil vom 09.12.2015 - 6 C 37.14: Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen überbrücken, nicht lediglich deren künftigen Fortbestand absichern.
 - BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND auf Klimaschutz-Sofortprogramm Paragraf 8 KSG 2021): Aktivlegitimation und Klagebefugnis der nach Paragraf 3 UmwRG anerkannten Umweltvereinigungen.
 - EuGH 08.11.2016, C-243/15 (Lesoochranárske): Aarhus-Konvention Art. 9 Abs. 3 verlangt effektiven Rechtsschutz für Umweltverbände; nationales Recht muss unionsrechtskonform ausgelegt werden.
 - EuGH 20.12.2017, C-664/15 (Protect): Umweltverband muss zumindest objektive Rechtsverletzungen rügen können; Aarhus Art. 9 Abs. 3 ist unmittelbar anwendbar. Quelle: curia.europa.eu.
@@ -144,15 +139,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VwVfG Paragraf 35; VwVfG Paragraf 28.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verwaltungshandeln.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG 30.11.2023, 8 C 7.22 (Klage DUH/BUND; EuGH 08.11.2016, C-243/15 (Lesoochranárske).
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -182,58 +179,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.1. Verwaltungshandeln
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Diligence: Compliance-Dokumentation und Aktenvermerk
+### 15.2. Zulässigkeit
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. ESG, CSRD und Greenwashing-Verteidigung
+### 15.3. Materielle Rechtmäßigkeit
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Greenwashing: Beweislast, Darlegungslast und Substantiierung
+### 15.4. Eilrechtsschutz
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Klimaklagen: Mehrparteienkonflikt und Interessenmatrix
+### 15.5. Arbeitsprodukt
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Klimaklagen und Verbandsklagen nach UmwRG
+### 15.6. Bimschg: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Umweltrecht — Allgemein
+### 15.7. Diligence: Compliance-Dokumentation und Aktenvermerk
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Stoerfall: Fristennotiz und nächster Schritt
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Abfall: Dokumentenmatrix, Lückenliste und Nachforderung
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Abfallrecht und Circular Economy
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Anlagen: Abschlussprodukt und Übergabe
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Boden: Behörden-, Gerichts- oder Registerweg
-
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Bussgeld, Sanktionen und Anhörung im Umweltrecht
-
-Unternehmen erhaelt Anhörung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG Paragrafen 55 67 68 BImSchG Paragrafen 62 64 KrWG Paragrafen 69 70 WHG Paragraf 103 BNatSchG Paragrafen 69 71a Bußgeld bis 100000 EUR. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Compliance, Beauftragte und Schulung im Umweltrecht
-
-Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresabrufen-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG Paragrafen 53-58 KrWG Paragrafen 59 60 WHG Paragrafen 64 65. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

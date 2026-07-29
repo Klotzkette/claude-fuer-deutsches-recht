@@ -6,9 +6,12 @@ ein-Schuss-Prompt verwenden kann.
 Ausgabe: testakten/megaprompts/<plugin>.md
 
 Auswahl-Heuristik:
-- Plugins mit <= 20 Skills: ALLE Skills (Vollintegration)
-- Plugins mit 21-60 Skills: top-15 Skills (Priorisierungsliste pro Plugin)
-- Plugins mit > 60 Skills: SKIP (zu gross fuer Vollprüfung)
+- Plugins mit <= 20 Fachskills: ALLE Skills (Vollintegration)
+- Plugins mit 21-60 Fachskills: top-15 Skills (Priorisierungsliste pro Plugin)
+- Plugins mit 61-100 Fachskills: top-10 Skills
+- Plugins mit > 100 Fachskills: top-8 Skills
+- Der pluginweite Argumentationskern zählt für die Schwelle nicht als
+  zusätzlicher Fachskill, wird aber in der Auswahl vorrangig berücksichtigt.
 - Skill-Auswahl bei mittlerer Groesse:
     * einstieg-routing / kaltstart-triage / mandat-triage immer first
     * weiter nach Frontmatter-description-Laenge (laengere=substantieller)
@@ -58,7 +61,8 @@ def collect_skills(plugin_dir: Path) -> list[tuple[str, Path, str, str]]:
     skills_dir = plugin_dir / 'skills'
     if not skills_dir.is_dir():
         return []
-    priority_first = ['bea-versandmappe-endfertigung',
+    priority_first = ['juristischer-argumentationskern',
+                      'bea-versandmappe-endfertigung',
                       'versandmappe-endfertigen',
                       'anlagen-zu-schriftsaetzen',
                       'vergaberechtliche-pruefung-anwaltlich-vollpruefung',
@@ -125,15 +129,17 @@ def build_megaprompt(plugin_dir: Path) -> str | None:
     if not skills:
         return None
     n_total = len(skills)
-    if n_total > 100:
+    has_argumentation_core = any(slug == "juristischer-argumentationskern" for slug, *_ in skills)
+    tier_total = n_total - int(has_argumentation_core)
+    if tier_total > 100:
         # Mega-grosse Plugins (z.B. arbeitsrecht, gesellschaftsrecht): top-8
         skills = skills[:8]
         coverage = f"top-8 von {n_total} Skills (gekürzt für das Arbeitsfenster)"
-    elif n_total > 60:
+    elif tier_total > 60:
         # Grosse Plugins (z.B. insolvenzrecht): top-10
         skills = skills[:10]
         coverage = f"top-10 von {n_total} Skills"
-    elif n_total > 20:
+    elif tier_total > 20:
         skills = skills[:15]
         coverage = f"top-15 von {n_total} Skills"
     else:

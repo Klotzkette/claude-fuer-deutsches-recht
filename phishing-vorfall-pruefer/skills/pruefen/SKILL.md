@@ -134,20 +134,21 @@ python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
 
-- BGH 22.07.2025 — XI ZR 107/24 (XI. Zivilsenat): Bei Phishing-Anruf und Weitergabe mehrerer TANs an unbekannten Anrufer kann grobe Fahrlässigkeit des Zahlers nach § 675v Abs. 3 Nr. 2 BGB (a. F.) bejaht werden; ein "Augenblicksversagen" kann die Schwere des Verschuldens im Einzelfall mindern. Die Verletzung von Pflichten zur starken Kundenauthentifizierung durch den Zahlungsdienstleister bei frueheren Vorgaengen (z. B. erstmaliges Login) kann über § 254 BGB zur anteiligen Kuerzung der Schadenersatzpflicht des Zahlers fuehren. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=22.07.2025&Aktenzeichen=XI+ZR+107/24
-- BGH 20.05.2025 — XI ZR 22/24 (XI. Zivilsenat): Pflichten der Bank zur Erkennung anomaler Transaktionsmuster im Phishing-Kontext. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.05.2025&Aktenzeichen=XI+ZR+22/24
-- BGH 03.06.2025 — XI ZR 45/24: Authentifizierungsprotokoll und Beweiswert nach § 675w BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=03.06.2025&Aktenzeichen=XI+ZR+45/24
-- BGH 21.10.2025 — XI ZR 133/24: Online-Banking-Authentifizierung und Anwendungsbereich des § 675v BGB. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.10.2025&Aktenzeichen=XI+ZR+133/24
+- BGH, Urteil vom 26.01.2016 - XI ZR 91/14: Ein Anscheinsbeweis für die Autorisierung setzt die allgemeine praktische Unüberwindbarkeit sowie die ordnungsgemäße Anwendung und fehlerfreie Funktion des konkreten Sicherungsverfahrens voraus. Aus einer technisch beanstandungsfrei aufgezeichneten Nutzung folgt kein Erfahrungssatz für grobe Fahrlässigkeit. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%2091/14
+- BGH, Urteil vom 22.07.2025 - XI ZR 107/24: Ob der Zahler seine Pflichten grob fahrlässig verletzt hat, ist anhand des konkreten Täuschungs- und Freigabeablaufs zu würdigen. Wurde für die schädigende Überweisung starke Kundenauthentifizierung verlangt, ist der Gegenanspruch der Bank nicht allein deshalb nach BGB Paragraf 675v Absatz 4 Satz 1 Nummer 1 ausgeschlossen, weil sie beim vorherigen Online-Banking-Login fehlte. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%20107/24
+- BGH, Urteil vom 24.04.2012 - XI ZR 96/11: Ein Kunde handelte im entschiedenen Pharming-Fall fahrlässig, weil er trotz ausdrücklicher Warnung beim Login gleichzeitig zehn TAN eingab. Die Entscheidung trägt keine pauschale Gleichsetzung jedes Phishing-Kontakts mit grober Fahrlässigkeit. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%2096/11
 
-Weitere Entscheidungen vor Ausgabe live in dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen und tragender Aussage verifizieren. PSD3-Entwurf (Payment Services Regulation, COM(2023)367) befindet sich noch im EU-Gesetzgebungsverfahren; Stand bei Verwendung aktuell prüfen.
+Weitere Entscheidungen vor Ausgabe mit Gericht, Datum, Aktenzeichen und tragender Aussage in einer amtlichen oder frei zugänglichen Gerichtsquelle verifizieren. Das europäische Reformvorhaben zum Zahlungsdiensterecht befindet sich im Gesetzgebungsverfahren; seinen Stand vor Verwendung aktuell prüfen.
 
-## Zentrale Normen (Paragrafenkette)
-- § 675u BGB — Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang
-- § 675v BGB — Haftung des Zahlers bei nicht autorisiertem Zahlungsvorgang (grobe Fahrlaessigkeit)
-- § 675w BGB — Nachweis der Authentifizierung und Autorisierung
-- § 675l BGB — Pflichten des Zahlers zum Schutz personalisierter Sicherheitsmerkmale
-- PSD2-RL (EU 2015/2366) — Zahlungsdiensterichtlinie; in BGB umgesetzt
-- PSD3-Vorhaben (Payment Services Regulation, COM(2023)367) und Payment Services Directive 3 — Stand des Gesetzgebungsverfahrens vor Verwendung prüfen
+## Zentrale Normen
+
+- BGB Paragraf 675j: Autorisierung des konkreten Zahlungsvorgangs.
+- BGB Paragraf 675l: Schutz personalisierter Sicherheitsmerkmale und unverzügliche Verlustanzeige.
+- BGB Paragraf 675u: Erstattung bei einem nicht autorisierten Zahlungsvorgang.
+- BGB Paragraf 675v: Gegenanspruch bei zurechenbarer Pflichtverletzung und Grenzen bei fehlender starker Kundenauthentifizierung.
+- BGB Paragraf 675w: Nachweis von Authentifizierung, Aufzeichnung und Störungsfreiheit; bloße technische Nutzung ersetzt nicht automatisch Autorisierung oder grobe Fahrlässigkeit.
+- BGB Paragraf 676b: Anzeigeobliegenheit.
+- Richtlinie (EU) 2015/2366: unionsrechtlicher Rahmen der Zahlungsdienste; Reformstand vor Verwendung aktuell prüfen.
 
 ## Triage zu Beginn
 1. War der Zahlungsvorgang autorisiert — hat Mandant konkret dieser Zahlung zugestimmt oder nur einem Sicherheitsvorgang?

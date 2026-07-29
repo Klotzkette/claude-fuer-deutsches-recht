@@ -32,10 +32,10 @@ Schulrecht: 14-jährige Schülerin mit ADHS-/LRS-Nachteilsausgleich, Mobbingvorw
 | `07-email-eltern-an-schule.eml` | Elternmail an Schule |
 | `08-klassenchat-auszug.jpg` | Klassenchat-Auszug als Screenshot |
 | `09-klassenkonferenz-protokoll-auszug.pdf` | Protokollauszug Klassenkonferenz |
-| `10-anlagenindex.csv` | Anlagenindex |
+| `10-posteingangsregister-schulakte.csv` | Detailliertes Posteingangs- und Verwahrregister |
 | `11-entwurf-widerspruch-eilantrag.docx` | Entwurf Widerspruch/Eilantrag |
 | `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
-| `13-anlagenindex.csv` | Anlagenindex |
+| `13-anlagenindex.csv` | Vollständiger Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
 
 ## Arbeitsweise

@@ -81,7 +81,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md), [`mandatsannahme-risk-committee`](skills/mandatsannahme-risk-committee/SKILL.md), [`mandatsgeheimnis-tooling-market-positioning`](skills/mandatsgeheimnis-tooling-market-positioning/SKILL.md), [`projektmanagement-mandate`](skills/projektmanagement-mandate/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`datenschutz-kanzleibetrieb-datev-finance`](skills/datenschutz-kanzleibetrieb-datev-finance/SKILL.md), [`dms-eakten-equity-partner-esg`](skills/dms-eakten-equity-partner-esg/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`conflict-check-system`](skills/conflict-check-system/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`conflict-check-system`](skills/conflict-check-system/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`compliance-calendar`](skills/compliance-calendar/SKILL.md), [`kanzleistrategie-3-jahre`](skills/kanzleistrategie-3-jahre/SKILL.md), [`pricing-strategie`](skills/pricing-strategie/SKILL.md), [`standortstrategie`](skills/standortstrategie/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`fristenaufsicht-management`](skills/fristenaufsicht-management/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`committee-agenda-report-schreiben-managing`](skills/committee-agenda-report-schreiben-managing/SKILL.md), [`management-report-schreiben`](skills/management-report-schreiben/SKILL.md), [`managing-partner-wochenbrief`](skills/managing-partner-wochenbrief/SKILL.md), [`pitch-debrief`](skills/pitch-debrief/SKILL.md) |
@@ -94,7 +94,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -137,6 +137,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Jeder S
 | [`fristenaufsicht-management`](skills/fristenaufsicht-management/SKILL.md) | Wenn es um Fristenaufsicht Management in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`fte-kapazitaetsmodell`](skills/fte-kapazitaetsmodell/SKILL.md) | Wenn es um FTE-Kapazitätsmodell in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`investment-case-tech`](skills/investment-case-tech/SKILL.md) | Wenn es um Investment Case Legal Tech in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Kanzlei Management ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Kaltstart Kanzlei-Management in Kanzlei Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kanzleistrategie-3-jahre`](skills/kanzleistrategie-3-jahre/SKILL.md) | Wenn es um Drei-Jahres-Strategie in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`karrierepfad-associate-key-account-knowledge`](skills/karrierepfad-associate-key-account-knowledge/SKILL.md) | Wenn es um Karrierepfad Associate Counsel Partner in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

@@ -2,18 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenster) des Plugins `ki-vo-ai-act-pruefer`.
+Diese Vollprüfung enthält top-8 von 123 Skills (gekürzt für das Arbeitsfenster) des Plugins `ki-vo-ai-act-pruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-3. **mechanik-erstpruefung-und-mandatsziel** — Wenn es um Mechanik: Erstprüfung, Rollenklärung und Mandatsziel in europäischem Technikregulierungsrecht geht: klärt Rol…
-4. **hochrisiko-art-abs-aufzeichnungspflichten** — Wenn es um Hochrisiko-digitale Werkzeuge nach Art. 6 Abs. 2 i.V.m. Anhang III europäischer Technikregulierungsrahmen in …
-5. **hochrisiko-genauigkeit-konformitaetsbewertung** — Wenn es um Genauigkeit, Robustheit und Cybersicherheit — Art. 15 europäischer Technikregulierungsrahmen in europäischem …
-6. **gpai-systemisches-risiko-schwelle-10e25-flop** — Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem …
-7. **gpai-systemisches-risiko-urheberrecht-policy** — Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem …
-8. **persoenlicher-anwendungsbereich-polizeiliche** — Wenn es um Persönlicher Anwendungsbereich — Rollen nach Art. 3 europäischer Technikregulierungsrahmen in europäischem Te…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn der europäische Regulierungsrahmen für algorithmische Systeme geprüft und tragfähig begründet we…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und …
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in europäischem Technikregulierungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+4. **mechanik-erstpruefung-und-mandatsziel** — Wenn es um Mechanik: Erstprüfung, Rollenklärung und Mandatsziel in europäischem Technikregulierungsrecht geht: klärt Rol…
+5. **hochrisiko-art-abs-aufzeichnungspflichten** — Wenn es um Hochrisiko-digitale Werkzeuge nach Art. 6 Abs. 2 i.V.m. Anhang III europäischer Technikregulierungsrahmen in …
+6. **hochrisiko-genauigkeit-konformitaetsbewertung** — Wenn es um Genauigkeit, Robustheit und Cybersicherheit — Art. 15 europäischer Technikregulierungsrahmen in europäischem …
+7. **gpai-systemisches-risiko-schwelle-10e25-flop** — Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem …
+8. **gpai-systemisches-risiko-urheberrecht-policy** — Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn der europäische Regulierungsrahmen für algorithmische Systeme geprüft und tragfähig begründet werden muss; verbindet Systemfunktion, Rolle, Risikoklasse, Nachweis, Gegenposition und konkrete Pflichtenfolge._
+
+# Juristischer Argumentationskern - Europäische Systemregulierung
+
+## 1. Direktstart
+
+Arbeite als Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.
+
+Pluginauftrag: Mechanik-Workflow zur Regulierungsrahmen (EU 2024/1689): System-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, System-Kompetenz, Shadow-algorithmische Systeme, Berufsrecht, Hochschul- und Behördenpraxis.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis der Regulierungsprüfung in einem Satz und nenne darin Systemfunktion, Rolle, Risikoklasse und die daraus folgende Pflicht oder Ausnahme. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Rollenmatrix, Risikoeinstufung, Pflichtenplan, Konformitätsakte, Betreiberanweisung, Marktbeobachtungsplan oder Eskalationsvermerk.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Rolle und Lieferkette | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen |
+| Risikoklasse | Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen |
+| Stichtag | Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen |
+| Nachweisakte | Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen |
+| Behörden- und Sanktionslage | Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Provider-Deployer-Vertragsmatrix: Bearbeite den Fachpunkt im Skill provider-deployer-vertragsmatrix und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Zeitlicher Geltungsbereich und Übergangsfristen — Regulierungsrahmen: Bearbeite den Fachpunkt im Skill zeitlicher-geltungsbereich-uebergangsfristen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anbieter-Werden — Art. 25 Regulierungsrahmen: Bearbeite den Fachpunkt im Skill anbieter-werden-art-25 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Regulierungsrahmen und Datenschutz-Grundverordnung Art. 22: Bearbeite den Fachpunkt im Skill automatisierte-entscheidung-dsgvo-art-22 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
+4.2. VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.
+4.3. VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.
+4.4. VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.
+4.5. VO (EU) 2024/1689 Art. 26 und Art. 27: Betreiberpflichten und Grundrechte-Folgenabschätzung.
+4.6. VO (EU) 2024/1689 Art. 50: Transparenzpflichten ab 02.08.2026.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
+5.2. EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
+5.3. BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse braucht normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.
+5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt datengetriebener Systeme.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Funktion und Zweckbestimmung hat das System.
+7.2. Welche Rolle hat der Mandant und wer schuldet welche Pflicht.
+7.3. Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.
+7.4. Welcher Stichtag gilt nach aktuellem Normstand und welcher Quellenstatus belegt ihn.
+7.5. Welche Dokumentation fehlt, obwohl sie für Konformität, Betrieb oder Verteidigung entscheidend ist.
+7.6. Welche Ausgabe löst den nächsten praktischen Engpass: Freigabe, Stopp, Nachforderung, Behördenschreiben oder Roadmap.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle]; Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle].
+10.2. Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
+10.3. Behördenantwort: Die Tatsachenbasis ergibt sich aus [Dokument]; die rechtliche Einordnung stützt sich auf [Norm]; streitig oder offen ist [Punkt].
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
 
 ---
 
@@ -1062,135 +1187,6 @@ Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
 Naechster Skill: [FOLGE-SKILL]
 Geprueft: [NAME], [DATUM]
 ```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `persoenlicher-anwendungsbereich-polizeiliche`
-
-_Wenn es um Persönlicher Anwendungsbereich — Rollen nach Art. 3 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Persoenlicher Anwendungsbereich Polizeiliche; Arbeitsfeld: europäischem Technikregulierungsrecht._
-
-# Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO
-
-## Arbeitsbereich
-
-Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Art. 5 Verbote ab 02.02.2025, Art. 51-55 GPAI ab 02.08.2025, Art. 50 Transparenz ab 02.08.2026, Hochrisiko Anhang III nach Digital-Omnibus-Zeitstrahl spätestens ab 02.12.2027, Anhang I spätestens ab 02.08.2028; vor Außenverwendung amtlichen Stand prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Rollen im Überblick
-
-### Anbieter (provider) — Art. 3 Nr. 3 KI-VO
-
-Wer ein KI-System oder ein GPAI-Modell entwickelt oder entwickeln lässt und es unter seinem eigenen Namen oder seiner Marke in Verkehr bringt oder in Betrieb nimmt — entgeltlich oder unentgeltlich.
-
-Detailprüfung: `rolle-anbieter-pruefen-art-3-nr-3`
-
-### Betreiber (deployer) — Art. 3 Nr. 4 KI-VO
-
-Wer ein KI-System in eigener Verantwortung verwendet, es sei denn, das System wird für persönliche, nicht berufliche Tätigkeiten genutzt.
-
-Detailprüfung: `rolle-betreiber-pruefen-art-3-nr-4`
-
-### Einführer (importer) — Art. 3 Nr. 6 KI-VO
-
-Wer ein in einem Drittland in Verkehr gebrachtes KI-System in der EU in Verkehr bringt.
-
-Detailprüfung: `einfuehrer-importer-pflichten-art-23`
-
-### Händler (distributor) — Art. 3 Nr. 7 KI-VO
-
-Wer ein KI-System in der Lieferkette zur Verfügung stellt, ohne Anbieter oder Einführer zu sein, und wer das System nicht wesentlich verändert.
-
-Detailprüfung: `haendler-distributor-pflichten-art-24`
-
-### Bevollmächtigter — Art. 3 Nr. 5 KI-VO
-
-Eine in der EU ansässige natürliche oder juristische Person, die vom Anbieter eines in einem Drittland ansässigen schriftlich bevollmächtigt wurde, in seinem Namen bestimmte Aufgaben zu erfüllen.
-
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
-
-### Produkthersteller — Art. 3 in Verbindung mit Art. 25 Abs. 1 KI-VO
-
-Wer ein KI-System als Sicherheitsbauteil in ein Produkt integriert, das unter Anhang I gelistete Unionsvorschriften fällt, und das Produkt unter eigenem Namen in Verkehr bringt.
-
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
-
-## Mehrfachrollen
-
-In der Praxis sind Mehrfachrollen häufig:
-
-- Wer ein fremdes KI-System wesentlich verändert und unter eigenem Namen in Verkehr bringt, wird zum Anbieter (Art. 25 KI-VO) → `anbieter-werden-art-25`
-- Wer ein System selbst entwickelt und auch selbst einsetzt, ist gleichzeitig Anbieter und Betreiber.
-- Einführer können unter bestimmten Bedingungen als Anbieter behandelt werden (Art. 23 Abs. 4 KI-VO).
-
-## Routing
-
-| Rolle | Nächster Skill |
-|---|---|
-| Anbieter | `rolle-anbieter-pruefen-art-3-nr-3` |
-| Betreiber | `rolle-betreiber-pruefen-art-3-nr-4` |
-| Einführer | `einfuehrer-importer-pflichten-art-23` |
-| Händler | `haendler-distributor-pflichten-art-24` |
-| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` |
-| Unklare Rolle / Rollenwechsel möglich | `anbieter-werden-art-25` |
-
-## Wichtiger Hinweis
-
-Die Rollenzuordnung bestimmt den gesamten weiteren Prüfverlauf. Falsche Rolleneinschätzungen können dazu führen, dass wesentliche Pflichten übersehen werden. Im Zweifel sind alle in Betracht kommenden Rollen zu prüfen.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Art. 5 KI-VO — verbotene Praktiken (absolut ab 02.02.2025)
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — PERSOENLICHER ANWENDUNGSBEREICH ROLLEN ART 3
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 3 Nr. 3/4 Rn. 12]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

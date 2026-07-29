@@ -36,11 +36,11 @@ Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **phishing-vorfall-
 ## Red-Team-Prüfpunkte Phishing-Vorfall
 1. **Autorisierung:** Wurde die Zahlung tatsächlich nicht autorisiert (§ 675u BGB) oder autorisiert unter Täuschung (§ 675j BGB)? Diese Unterscheidung ist Weichenstellung für die gesamte Rechtsfolgenkette.
 2. **Beweislast:** Bank trägt Beweislast für Autorisierung und ordnungsgemäße Aufzeichnung nach § 675w BGB — wurde das im Schreiben adressiert?
-3. **Mitverschulden:** Wurde § 675v BGB (insb. grobe Fahrlässigkeit Kunde) sauber abgegrenzt? PIN-Weitergabe, Click auf Phishing-Link allein begründet nach BGH keine pauschale grobe Fahrlässigkeit (BGH XI ZR 91/14).
+3. **Gegenanspruch:** Wurde BGB Paragraf 675v sauber abgegrenzt? Aus der technisch beanstandungsfrei aufgezeichneten Nutzung folgt nach BGH XI ZR 91/14 kein Erfahrungssatz grober Fahrlässigkeit; die konkrete Pflichtverletzung und ihr Verschuldensgrad bleiben gesondert festzustellen.
 4. **Frist § 676b Abs. 2 BGB:** 13-Monats-Frist gegenüber Bank, sonst Ausschluss — gewahrt?
 5. **Starke Kundenauthentifizierung:** § 1 Abs. 24 ZAG geprüft? PSD2 Art. 97; bei Verstoß § 675v Abs. 4 BGB: Kunde haftet **nicht**.
 6. **Strafanzeige:** §§ 263a, 269, 202c StGB richtig benannt, ggf. § 202a (Ausspähen Daten), § 269 (Fälschung beweiserheblicher Daten).
 7. **Halluzinations-Check:** Keine erfundenen BGH-Az.; verbreitete Az. sorgfältig prüfen (z. B. BGH XI ZR 91/14 - Phishing).
 
 ## Praxis-Tipp
-Die häufigste Fehlbewertung: pauschale Annahme, der Kunde habe wegen Klick auf Phishing-Link "grobe Fahrlässigkeit" begangen. BGH 26.01.2016, XI ZR 91/14 differenziert: das bloße Folgen eines vortäuschend echten Hinweises trägt nicht zwingend grobe Fahrlässigkeit — entscheidend sind die konkreten Sicherheitsvorkehrungen der Bank und die Erkennbarkeit der Täuschung im Einzelfall.
+Die häufigste Fehlbewertung ist der Sprung von einer protokollierten Authentifizierung zur Autorisierung oder groben Fahrlässigkeit. BGH XI ZR 91/14 verlangt für den Anscheinsbeweis ein im maßgeblichen Zeitpunkt praktisch unüberwindbares, ordnungsgemäß angewandtes und fehlerfrei funktionierendes Sicherungsverfahren; der konkrete Täuschungs- und Freigabeablauf bleibt eigenständig zu würdigen.

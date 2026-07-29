@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `zwangsvollstreckung`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `zwangsvollstreckung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
-2. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel in Zwangsvollstreckung geht: klärt Rolle, Zie…
-3. **mobiliar-gv-auftrag** — Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Bew…
-4. **kontenpfaendung-notar-interessen-online** — Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den pa…
-5. **pfaendungstabelle-pfueb-arbeitsentgelt** — Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfä…
-6. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
-7. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
-8. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
-9. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
-10. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
-11. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
-12. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
-13. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
-14. **vollstreckungsbescheid-zv** — Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sac…
-15. **kontensuche-drittschuldner** — Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sach…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zwangsvollstreckung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbinde…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
+3. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel in Zwangsvollstreckung geht: klärt Rolle, Zie…
+4. **mobiliar-gv-auftrag** — Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Bew…
+5. **kontenpfaendung-notar-interessen-online** — Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den pa…
+6. **pfaendungstabelle-pfueb-arbeitsentgelt** — Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfä…
+7. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
+8. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
+9. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
+10. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
+11. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
+12. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
+13. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
+14. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
+15. **vollstreckungsbescheid-zv** — Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sac…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Zwangsvollstreckung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Zwangsvollstreckung
+
+## 1. Direktstart
+
+Arbeite als Vollstreckungsrechtlicher Bearbeiter für Titel, Klausel, Zustellung, Gerichtsvollzieherauftrag, Forderungspfändung, Pfändungs- und Überweisungsbeschluss, Räumung, Kontenabfrage, Schuldnerschutz und Insolvenzschnittstellen.
+
+Pluginauftrag: Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Zwangsvollstreckung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Titelcheck | vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen |
+| Vollstreckungsweg | bewegliche Sache, Forderung, Konto, Arbeitseinkommen, Herausgabe, Räumung, Grundstück oder Auskunft bestimmen |
+| Antrag | Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen |
+| Schuldnerschutz und Rang | Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren |
+| Arbeitsprodukt | Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill vermoegensauskunft-vollstreckungsbescheid und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Mahnbescheid: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill mahnbescheid-fristennotiz-zv-titel-zv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Vollstreckungsbescheid und Folgeverfahren: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-zv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage: Bearbeite den Fachpunkt im Skill zpo-zwangsvollstreckung-zv-abwehr und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 704 bis Paragraf 750: Titel, Klausel, Zustellung und Vollstreckungsvoraussetzungen.
+4.2. ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
+4.3. ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
+4.4. ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
+4.5. ZPO Paragraf 850 ff.: Pfändungsschutz bei Arbeitseinkommen und Konten.
+4.6. ZPO Paragraf 765a: Vollstreckungsschutz bei sittenwidriger Härte.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor.
+7.2. Ist die Zustellung der vollstreckbaren Ausfertigung nachweisbar.
+7.3. Welcher Vollstreckungsgegenstand verspricht realistisch Befriedigung.
+7.4. Welche Pfändungsgrenze, Vorpfändung oder Insolvenzlage blockiert den Zugriff.
+7.5. Welcher Antrag muss an welches Organ mit welchen Anlagen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage; Vollstreckungsauftrag: Forderung, Vollstreckungsart, bekannte Vermögenswerte, Anlagen, Auskunftsstufen und Zustellungswunsch.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage.
+10.2. Vollstreckungsauftrag: Forderung, Vollstreckungsart, bekannte Vermögenswerte, Anlagen, Auskunftsstufen und Zustellungswunsch.
+10.3. PfÜB-Matrix: Drittschuldner, Forderungsart, Betrag, Nebenforderungen, Rang, Pfändungsschutz und Zustellung.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag verwendbar?
 
 ---
 
@@ -1336,84 +1457,6 @@ Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung
 - `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
 - `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `kontensuche-drittschuldner`
-
-_Wenn es um Kontensuche und Drittschuldnerermittlung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Kontensuche und Drittschuldnerermittlung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Liegt ein vollstreckbarer Titel vor und ist die Forderung mindestens 500 EUR (§ 802l Abs. 1 ZPO)?
-2. War eine Vermögensauskunft des Schuldners bereits unergiebig oder ist der Aufenthalt unbekannt?
-3. Sollen alle drei Auskunftsstellen abgefragt werden (DRV, BZSt, KBA) oder nur eine?
-4. Ist der Schuldner ein Unternehmen — dann Handelsregistereintrag als Informationsquelle?
-
-## Zentrale Normen
-
-- § 802l ZPO — Drittauskünfte (DRV Bund, BZSt/§ 24c KWG, KBA)
-- § 802c ZPO — Vermögensauskunft (primäre Quelle)
-- § 802d ZPO — Sperrfrist 2 Jahre für erneute Vermögensauskunft
-- § 882b ZPO — Schuldnerverzeichnis
-- § 93 Abs. 7 AO — Kontenabrufverfahren BZSt
-- § 24c KWG — Kontenevidenzzentrale BaFin/BZSt
-
-## Startet bei
-
-- Titel vorhanden, aber kein Konto, kein Arbeitgeber, keine sonstige Forderung des Schuldners bekannt
-- Frühere Versuche ergebnislos
-- Vermögensauskunft des Schuldners liegt vor oder Sperrfrist hindert sie nicht
-
-## Rechtsgrundlagen
-
-- § 802l ZPO – Drittauskünfte des Gerichtsvollziehers
-- § 93 Abs. 7 AO – Kontenabrufverfahren über das BZSt
-- § 24c KWG – Kontenevidenzzentrale der BaFin
-- § 802c ZPO – primäre Quelle: Vermögensauskunft
-- § 882b ZPO – Schuldnerverzeichnis
-- § 33 StVG – Halterauskunft KBA
-
-## Workflow
-
-1. **Schuldnerverzeichnis abfragen** über das zentrale Vollstreckungsportal der Länder (`vollstreckungsportal.de`). Kostenpflichtig.
-2. **Vorhandene Vermögensauskunft einsehen**, falls noch nicht zwei Jahre alt.
-3. **Drittauskunft § 802l ZPO** durch den Gerichtsvollzieher beantragen, sobald Forderung mindestens 500 EUR und Vermögensauskunft erfolglos oder Schuldner nicht erreichbar:
- - **Deutsche Rentenversicherung Bund**: aktueller Arbeitgeber oder Rentenzahlstelle
- - **Bundeszentralamt für Steuern (BZSt)**: Kontostammdaten nach § 24c KWG, alle deutschen Kreditinstitute mit Konten des Schuldners
- - **Kraftfahrt-Bundesamt**: KFZ-Halterauskunft
-4. **Ausländische Konten**: nicht über § 802l erreichbar, aber EU-Kontenpfändungsbeschluss (EuKtPVO) ist Alternative über `pfueb-bank`.
-5. **Plausibilitätsprüfung**: Auskunft veraltet sich. Konten existieren ggf. nicht mehr, Arbeitgeber gewechselt.
-6. **Anschluss**: bekannte Bank → `pfueb-bank`, bekannter Arbeitgeber → `pfueb-arbeitsentgelt`.
-
-## Voraussetzungen § 802l ZPO im Einzelnen
-
-- Forderung mindestens 500 EUR (§ 802l Abs. 1 ZPO).
-- Schuldner hat seinen gewöhnlichen Aufenthalt unbekannt **oder** Vermögensauskunft hat keine Befriedigung erwarten lassen **oder** Vermögensauskunft wurde nicht abgegeben.
-- Antrag stets über den Gerichtsvollzieher; der Gerichtsvollzieher leitet die Anfragen weiter und übermittelt das Ergebnis.
-
-## Leitentscheidungen
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Qualitätsgates
-
-- Niemals § 802l ZPO unterhalb der Bagatellgrenze 500 EUR beantragen.
-- Niemals BZSt-Kontenabruf ohne erfolglose Vermögensauskunft oder unbekannten Aufenthalt.
-- Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
-- Doppelte Abfragen vermeiden (Kostenfalle).
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

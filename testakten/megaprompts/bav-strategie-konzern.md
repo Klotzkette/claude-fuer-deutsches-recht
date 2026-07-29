@@ -2,25 +2,149 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `bav-strategie-konzern`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `bav-strategie-konzern`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Fr…
-2. **strategische-erstpruefung-und-mandatsziel** — Wenn es um Strategische: Erstprüfung, Rollenklärung und Mandatsziel in BAV Strategie Konzern — Treuenfels Yamamoto Recht…
-3. **cta-contractual-trust-arrangement-strukturierung** — Wenn es um CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation in BAV Strategie Konzern — Treuenfels Y…
-4. **buyout-ma-country-by-cta-contractual** — Wenn es um Pension Buyout im M&A-Deal — Asset vs. Share Deal in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwält…
-5. **governance-und-anpassungsmechanismen** — Wenn es um Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG in BAV Strategie Kon…
-6. **pensionsmodelle-fuenf-bav-cta-pensionsfond** — Wenn es um Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung in BAV Strategie Konzern — Tr…
-7. **durchfuehrungswege-fuenf-harmonisierung** — Wenn es um Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine in BAV Strategie Konzern — Treuenfels Yamamoto Re…
-8. **harmonisierung-migration-historisch** — Wenn es um Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen in BAV Strategie Konze…
-9. **internationale-buyout-datenflows-und-datenschutz** — Wenn es um Internationale Buyout-Datenflows und Datenschutz in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte…
-10. **bav-grenzueberschreitend-mobil-spezial** — Wenn es um bAV: Grenzueberschreitende Mobilitaet in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordn…
-11. **bav-pensionsfond-rueckdeckung-spezial** — Wenn es um bAV: Pensionsfonds-Rueckdeckung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sac…
-12. **pensionsmodelle-risikoampel-und-gegenargumente** — Wenn es um Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien in BAV Strategie Konzern — Treuenfels Ya…
-13. **japan-bav-und-corporate-pension-iorp** — Wenn es um Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive in BAV Strategie Konzern — Treuenfels Yamamo…
-14. **versorgungsordnung-und-betriebsvereinbarung-drafting** — Wenn es um Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen in BAV Strategie Konzern — Treuenfel…
-15. **pension-buyout-strukturierung-und-de-risking** — Wenn es um Pension Buyout Strukturierung und De-Risking in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geh…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in bAV Strategie Konzern ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: klärt Rolle, Ziel, Fr…
+3. **strategische-erstpruefung-und-mandatsziel** — Wenn es um Strategische: Erstprüfung, Rollenklärung und Mandatsziel in BAV Strategie Konzern — Treuenfels Yamamoto Recht…
+4. **cta-contractual-trust-arrangement-strukturierung** — Wenn es um CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation in BAV Strategie Konzern — Treuenfels Y…
+5. **buyout-ma-country-by-cta-contractual** — Wenn es um Pension Buyout im M&A-Deal — Asset vs. Share Deal in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwält…
+6. **governance-und-anpassungsmechanismen** — Wenn es um Governance und Anpassungsmechanismen — Pension Committee Charter und Paragraf 16 BetrAVG in BAV Strategie Kon…
+7. **pensionsmodelle-fuenf-bav-cta-pensionsfond** — Wenn es um Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung in BAV Strategie Konzern — Tr…
+8. **durchfuehrungswege-fuenf-harmonisierung** — Wenn es um Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine in BAV Strategie Konzern — Treuenfels Yamamoto Re…
+9. **harmonisierung-migration-historisch** — Wenn es um Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen in BAV Strategie Konze…
+10. **internationale-buyout-datenflows-und-datenschutz** — Wenn es um Internationale Buyout-Datenflows und Datenschutz in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte…
+11. **bav-grenzueberschreitend-mobil-spezial** — Wenn es um bAV: Grenzueberschreitende Mobilitaet in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordn…
+12. **bav-pensionsfond-rueckdeckung-spezial** — Wenn es um bAV: Pensionsfonds-Rueckdeckung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sac…
+13. **pensionsmodelle-risikoampel-und-gegenargumente** — Wenn es um Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien in BAV Strategie Konzern — Treuenfels Ya…
+14. **japan-bav-und-corporate-pension-iorp** — Wenn es um Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive in BAV Strategie Konzern — Treuenfels Yamamo…
+15. **versorgungsordnung-und-betriebsvereinbarung-drafting** — Wenn es um Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen in BAV Strategie Konzern — Treuenfel…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in bAV Strategie Konzern ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - bAV Strategie Konzern
+
+## 1. Direktstart
+
+Arbeite als Betriebsrentenrechtlicher Bearbeiter für Zusageart, Durchführungsweg, Entgeltumwandlung, Unverfallbarkeit, Übertragung, Einstandspflicht, Insolvenzsicherung, Anpassung, Systemablösung, Konzernharmonisierung und Pensionsbilanzierung.
+
+Pluginauftrag: Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für bAV Strategie Konzern in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Bestand erfassen | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren |
+| Anspruch rechnen | Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen |
+| Haftung und Deckung | arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen |
+| Änderung und Harmonisierung | Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen |
+| Transaktion und Konzern | Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill altersversorgung-boutique-fristennotiz-psv und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Boutique: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill boutique-fristennotiz-und-naechster-schritt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Drei: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill drei-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Fünf: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill fuenf-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BetrAVG Paragraf 1 und Paragraf 1a: Versorgungszusage, Durchführungswege, Einstandspflicht und Entgeltumwandlung.
+4.2. BetrAVG Paragraf 1b und Paragraf 2: gesetzliche Unverfallbarkeit und Höhe der unverfallbaren Anwartschaft.
+4.3. BetrAVG Paragraf 3 und Paragraf 4: Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen.
+4.4. BetrAVG Paragraf 7 bis Paragraf 15: Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang.
+4.5. BetrAVG Paragraf 16 und Paragraf 17: Anpassungsprüfung laufender Leistungen, persönlicher Geltungsbereich und zwingendes Recht.
+4.6. EStG Paragraf 3 Nummer 63, Paragraf 4d, Paragraf 4e und Paragraf 6a: steuerliche Behandlung nach Durchführungsweg; Beitragsbemessungsgrenze und Jahreswerte vor Berechnung aktuell verifizieren.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BAG, Urteil vom 19.06.2012 - 3 AZR 408/10: Kürzt eine Pensionskasse zugesagte Leistungen, muss der Arbeitgeber nach BetrAVG Paragraf 1 Absatz 1 Satz 3 grundsätzlich für die Differenz einstehen; die Einstandspflicht kann nicht zulasten des Arbeitnehmers abbedungen werden.
+5.2. BAG, Urteil vom 14.07.2015 - 3 AZR 517/13: Bei der Ablösung von Versorgungsregelungen sind erdienter Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse nach dem dreistufigen Prüfungsschema getrennt zu vergleichen.
+5.3. BAG, Urteil vom 09.05.2023 - 3 AZR 226/22: Ob eine Ablösung in geschützte Besitzstände eingreift, ist anhand einer konkreten Vergleichsberechnung im Einzelfall und unter Beachtung von Vertrauensschutz und Verhältnismäßigkeit zu bestimmen.
+
+5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche arbeitsrechtliche Zusage schuldet welcher Arbeitgeber welchem Personenkreis.
+7.2. Welcher Durchführungsweg erfüllt die Zusage und wo verbleibt eine Einstandspflicht.
+7.3. Welche Anwartschaft oder laufende Leistung ist nach welchem Stichtag geschützt und wie ist sie berechnet.
+7.4. Greift die Änderung in erdienten Teilbetrag, erdiente Dynamik oder künftige Zuwächse ein und welcher Grund soll sie tragen.
+7.5. Welche Mitbestimmungs-, Tarif-, Steuer-, Aufsichts-, Insolvenz- und Bilanzfolge löst die Gestaltung aus.
+7.6. Welche Zustimmung, Übertragung, Sicherung und Kommunikation ist für den Vollzug erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht; Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht.
+10.2. Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund.
+10.3. Entscheidungsvorlage: Zielbild, Optionen, Arbeitnehmerwirkung, Kosten, Bilanz, Steuer, Mitbestimmung, Vollzug, Risiko und Empfehlung.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
 
 ---
 
@@ -2191,225 +2315,6 @@ Unternehmens vorbehalten.
 - → `governance-und-anpassungsmechanismen` — Pension Committee, Trustee
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Änderungen der VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsrechte bei BV-Änderungen
-
----
-
-## Skill: `pension-buyout-strukturierung-und-de-risking`
-
-_Wenn es um Pension Buyout Strukturierung und De-Risking in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Pension Buyout Strukturierung und De-Risking
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: BetrAVG § 1b Unverfallbarkeitsfrist 3 Jahre/21. Lebensjahr, § 16 Anpassungsprüfung 3 Jahre, EStG § 3 Nr. 63 Beitragsgrenze 8 % BBG, PSV-Beitrag jährlich.
-- Tragende Normen verifizieren: BetrAVG §§ 1, 1a, 1b, 2, 3, 7, 9, 11, 16, 17, 17b, 18, EStG §§ 3 Nr. 63, 4d, 4e, 6a, 19 Abs. 2, KStG § 5 (Pensionsfonds), VAG (Pensionskassen), HGB § 246 Abs. 2 S. 2, IDW RS HFA 30 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (§ 87 Abs. 1 Nr. 10 BetrVG).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Versorgungsordnung, Pensionszusage, Entgeltumwandlungsvereinbarung, PSV-Anzeige, IFRS/HGB-Pensionsgutachten, versicherungsmathematisches Gutachten, Betriebsvereinbarung bAV — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Pension Buyout Strukturierung und De-Risking
-
-- **bAV-Problem:** Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung.
-- **Normenanker:** BetrAVG, EStG/LSt, SGB IV, HGB/IFRS-Bilanzierung, InsO, ArbGG und arbeitsrechtliche Zusage-/Änderungsdogmatik je nach Durchführungsweg prüfen.
-- **Entscheidende Weiche:** Zusageart, Durchführungsweg, Unverfallbarkeit, Anpassung, PSV-Schutz, Steuer-/SV-Folge und M&A-/Insolvenzrisiko getrennt ausweisen.
-- **Arbeitsprodukt:** bAV-Entscheidungsvorlage mit Leistungsversprechen, Zahlenbasis, Risikoampel, HR-/Finance-To-dos und belastbarer Kommunikationslinie.
-
-## Rechtsgrundlagen
-
-- §§ 236–242 VAG (Pensionsfonds; Genehmigung durch BaFin)
-- §§ 232–235 VAG (Pensionskassen; Genehmigungspflicht)
-- §§ 1, 4 BetrAVG (Portabilität und Übertragung; Zustimmungserfordernis Arbeitnehmer)
-- § 1 Abs. 1 S. 3 BetrAVG (Einstandspflicht des Arbeitgebers — verbleibende Subsidiärhaftung)
-- § 7 BetrAVG (PSV — verbleibende Absicherung)
-- VAG § 314 (Restrukturierung Versicherungsunternehmen — relevant bei Versicherer-Insolvenz)
-- Solvency II (RL 2009/138/EG) — Kapitalausstattung der Versicherungsunternehmen; relevant für Counterparty Risk
-- IORP II Art. 14 ff. (Portfolioübertragung auf EbAV cross-border)
-- IAS 19.8 (qualifying insurance policy als plan asset)
-- IAS 19.44–60 (Bilanztransfer bei plan amendments / settlements)
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Vorgehen
-
-### Schritt 1: De-Risking-Strategie — Instrumentenauswahl
-
-fachliche Leitung stellt zunächst die drei klassischen De-Risking-Instrumente gegenüber:
-
-#### Buy-in
-**Definition:** Arbeitgeber bleibt Versorgungsschuldner; schließt aber eine Versicherung (Gruppenrentenversicherung) ab, die die Versicherungsleistungen exakt den Versorgungsansprüchen entsprechen lässt. Der Versicherungsvertrag ist plan asset (IAS 19.8).
-
-**Eigenschaft:**
-- Kein Rechtsübergang der Verpflichtung auf Versicherer
-- Arbeitgeber bleibt subsidiär haftend (§ 1 Abs. 1 S. 3 BetrAVG)
-- Plan asset-Saldierung nach IAS 19 möglich (qualifying insurance policy)
-- PSV-Pflicht bleibt grundsätzlich bestehen
-
-**Geeignet für:** Erste Stufe De-Risking; Rentner-Kollektiv (cleanest risk transfer)
-
-#### Buy-out (Vollständige Verpflichtungsablösung)
-**Definition:** Rechtsübergang der Versorgungsverpflichtung auf einen Versicherer (Pensionskasse, Lebensversicherer) mit vollständiger Enthaftung des Arbeitgebers.
-
-**Rechtliches Erfordernis:** § 4 Abs. 1 BetrAVG — bei Übertragung auf externen Versorgungsträger ist Zustimmung des Versorgungsberechtigten erforderlich, sofern Rechtsanspruch übergeht. Bei Direktversicherung und Pensionskasse: automatischer Rechtsübergang möglich (§ 4 Abs. 2 BetrAVG bei Einverständnis).
-
-**Eigenschaft:**
-- Vollständige Bilanzentlastung (HGB und IFRS) bei echter Enthaftung
-- IAS 19.99–101: Settlement-Buchung (Gewinn/Verlust aus Verpflichtungsablösung)
-- Regulatorische Genehmigung BaFin erforderlich bei Portfolioübertragung auf Pensionskasse/Pensionsfonds
-
-#### Longevity Swap
-**Definition:** Derivative Absicherung des Langlebigkeitsrisikos ohne Übergang der Verpflichtung; Arbeitgeber zahlt festgelegte Leistungen basierend auf erwarteten Sterblichkeitskurven; Swap-Partner (Bank oder Rückversicherer) zahlt tatsächliche Leistungen.
-
-**Eigenschaft:**
-- Kein Bilanzabgang (nur Hedge-Accounting-Frage unter IFRS 9/IAS 39)
-- Investitionsrisiko und Inflationsrisiko verbleiben beim Arbeitgeber
-- Counterparty Risk (Bonität des Swap-Partners)
-- Typischerweise OTC-Derivat; EMIR-Clearing-Pflicht prüfen
-
-### Schritt 2: Versichererauswahl (marktüblicher Prozess)
-
-fachliche Leitung begleitet den Mandanten bei einem strukturierten Ausschreibungsverfahren (RFP — Request for Proposals). Ohne Nennung realer Versicherer gilt folgendes Prüfschema:
-
-**Auswahlkriterien:**
-1. Solvency II-Bedeckungsquote (Solvency Capital Requirement — SCR-Quote; Mindest: 150 % empfohlen)
-2. Bonität: mindestens BBB+ (S&P/Fitch) oder Aa3 (Moody's) für Langzeit-Engagement
-3. Track Record: Erfahrung mit Gruppenrentenversicherungen vergleichbarer Größenordnung
-4. Preisindikation: EUR-Prämiensatz auf DBO; ggf. Longevity Loading
-5. Konditionen zum Counterparty Risk: Back-to-back Rückversicherung? Kapitalanlage-Transparenz?
-6. BaFin-Lizenz und Genehmigungsstatus
-
-**RFP-Prozess:**
-1. Long-List (vier bis sechs Anbieter) → Versand Information Memorandum
-2. Indikative Angebote → Short-List (zwei bis drei Anbieter)
-3. Due Diligence Daten-Raum (Versicherter Personenkreis, Sterbetafeln, Leistungsdaten)
-4. Verbindliche Angebote → Verhandlung Term Sheet
-5. Signing und Regulatory Filing (BaFin)
-
-### Schritt 3: Regulatorische Genehmigung BaFin
-
-Bei Portfolioübertragung (Buy-out über Pensionskasse oder Pensionsfonds):
-- §§ 232–235 VAG (Pensionskasse): BaFin-Genehmigung der Übertragung gem. § 13 VAG (Bestandsübertragung)
-- §§ 236–242 VAG (Pensionsfonds): Analog
-- Verfahren: Antrag durch übernehmende/abgebende Einrichtung; BaFin-Prüfung ca. drei bis sechs Monate
-- Arbeitnehmer-Information (§ 234 Abs. 5 VAG): Berechtigte müssen über Übertragung informiert werden; Widerspruchsrecht prüfen
-
----
-
-## Templates
-
-### Template 1: Term Sheet Pension Buy-in (Muster)
-
-```
-TERM SHEET — PENSION BUY-IN
-Vertraulich — Entwurf
-
-Auftraggeber: [Konzern Muster AG], Düsseldorf
-Versicherer: [Versicherungsgesellschaft]
-Datum: [Datum]
-Beratung: bAV-Projektteam
- fachliche Leitung
-
-1. GEGENSTAND
- Abschluss einer Gruppenrentenversicherung (Buy-in) zur Absicherung der
- Versorgungsansprüche des Rentner-Kollektivs der [Konzern Muster AG].
-
-2. VERSICHERTER PERSONENKREIS
- Alle Rentenempfänger per Stichtag [Datum]: [Anzahl] Personen
- Gesamte jährliche Rentenlast: EUR [Betrag]
- Hinterbliebenenversorgung: eingeschlossen / nicht eingeschlossen
-
-3. LEISTUNGSUMFANG
- Versicherungsleistungen entsprechen 1:1 den Versorgungsansprüchen gem.
- Versorgungsordnung [Bezeichnung] in der Fassung vom [Datum].
- Anpassungen gem. § 16 BetrAVG: [passthrough / eingeschlossen bis X% / nicht]
-
-4. PRÄMIE
- Einmalprämie (Indikation): EUR [Betrag]
- Entspricht ca. [X]% der IAS 19 DBO des Rentner-Kollektivs
- (Longevity Loading: ca. [X]% über Best-Estimate)
-
-5. LAUFZEIT UND KÜNDIGUNG
- Laufzeit: Lebenslange Rente bis zum Tod des letzten Berechtigten
- Vorzeitige Kündigung: nur mit Rückkaufswert-Vereinbarung; nicht vor [Jahr]
-
-6. QUALIFYING INSURANCE POLICY (IAS 19)
- Beide Parteien bestätigen, dass der Buy-in die Anforderungen an eine
- qualifying insurance policy gem. IAS 19.8 erfüllt (ausschließliche
- Zweckbindung, Zahlungsausfallrisiko beim Versicherer, kein Zugriff Dritter).
-
-7. SUBSIDIÄRHAFTUNG
- Arbeitgeber bleibt gem. § 1 Abs. 1 S. 3 BetrAVG subsidiär haftbar,
- sofern der Versicherer ausfällt. Dieses Restrisiko ist durch Solvency
- II-Kapitalanforderungen begrenzt.
-
-8. WESENTLICHE CLOSING-BEDINGUNGEN
- □ BaFin-Genehmigung (sofern Portfolioübertragung)
- □ Zustimmung Betriebsrat (Information gem. § 87 BetrVG, soweit erforderlich)
- □ Aktualitätsbestätigung Sterbetafeln durch unabhängigen Aktuar
- □ Signing Gruppenversicherungsvertrag
-
-9. GEPLANTER ZEITPLAN
- Indikation: [Datum]
- Due Diligence: [Datum] – [Datum]
- Verbindliches Angebot: [Datum]
- Signing: [Datum]
- Closing/Prämientransfer: [Datum]
-```
-
-### Template 2: Checkliste Buy-out Due Diligence (Datenraum-Anforderungen)
-
-```
-DATENRAUM-ANFORDERUNGEN PENSION BUY-OUT
-bAV-Projektteam · fachliche Leitung
-
-A. VERSORGUNGSBERECHTIGTE
- □ Vollständige Bestandsliste (Name, Geburtsdatum, Rentenbeginn,
- monatliche Rente, Hinterbliebenen-Status)
- □ Sterbetafeln (zuletzt verwendete Grundtafeln — z.B. DAV 2004 R)
- □ Geschlechterverteilung, Altersstruktur
- □ Hinterbliebenen-Proportion (Verhältnis Witwen/Witwer zu Rentnern)
-
-B. LEISTUNGSDATEN
- □ Versorgungsordnung(en) mit allen Anlagen und Änderungen
- □ Anpassungshistorie (§ 16 BetrAVG, letzte zehn Jahre)
- □ Sonderzahlungen, Einmalleistungen (Kapitalwahlrechte)
-
-C. FINANZIELLE DATEN
- □ IAS 19-Gutachten letzter zwei Jahre (inkl. Annahmen)
- □ HGB-Rückstellungen letzter zwei Jahre
- □ PSV-Meldungen letzter zwei Jahre
-
-D. RECHTLICHE DOKUMENTATION
- □ Alle Versorgungsverträge (Einzel- und Kollektivzusagen)
- □ Betriebsvereinbarungen mit BAV-Bezug
- □ Etwaige Rechtsstreitigkeiten (laufend oder drohend)
- □ Sonstige Zusagen (Gesamtzusagen, Auswahlrichtlinien)
-```
-
----
-
-## Fallstricke
-
-1. **Subsidiärhaftung trotz Buy-out:** § 1 Abs. 1 S. 3 BetrAVG verbleibt beim Arbeitgeber — auch nach vollständigem Buy-out. Fällt der Versicherer aus, muss der Arbeitgeber leisten. Bei Solvency II-schwachen Versicherern oder Rückversicherern ist das kein theoretisches Risiko.
-
-2. **Zustimmungserfordernis § 4 Abs. 1 BetrAVG:** Arbeitnehmer/Rentner müssen bei echtem Schuld-Transfer auf Versicherer zustimmen, sofern kein gesetzlich geregelter Transfer-Mechanismus greift. Ohne Zustimmung: nur Buy-in (kein Rechtsübergang).
-
-3. **IAS 19 Settlement-Buchung:** Bei echtem Buy-out (Liability de-recognition) entsteht nach IAS 19.99 ein Settlement Gain/Loss — kann erheblich sein, je nach Verhältnis von Prämienzahlung zu DBO. Dies ist oft ein Überraschungseffekt im P&L.
-
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-5. **BaFin-Verfahrensdauer:** Portfolioübertragungen gem. § 13 VAG können drei bis sechs Monate dauern. Closing-Timelines in M&A-Kontexten müssen dies berücksichtigen.
-
----
-
-## Querverweise zu anderen Skills
-
-- → `cta-contractual-trust-arrangement-strukturierung` — CTA als Vorstufe
-- → `psv-pensionssicherungsverein-und-haftungsketten` — PSV-Konsequenzen
-- → `buyout-im-ma-deal-asset-vs-share` — Buy-out im M&A-Kontext
-- → `internationale-buyout-datenflows-und-datenschutz` — Datenschutz bei Datenraum
-- → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
 
 ---
 

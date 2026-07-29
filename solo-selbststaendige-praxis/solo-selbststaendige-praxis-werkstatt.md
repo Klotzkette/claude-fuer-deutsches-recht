@@ -51,25 +51,25 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Tätigkeit und Rolle: Leistung, Kunde, Dauer, Weisungen, Eingliederung, Preis und Unternehmerrisiko erfassen.
+### 3.1. Tätigkeit und Rolle
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Tätigkeit und Rolle: Leistung, Kunde, Dauer, Weisungen, Eingliederung, Preis und Unternehmerrisiko erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Vertrag und Angebot: Leistungsumfang, Abnahme, Mitwirkung, Nutzungsrechte, Haftung, Kündigung und Zahlung verständlich regeln.
+### 3.2. Vertrag und Angebot
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vertrag und Angebot: Leistungsumfang, Abnahme, Mitwirkung, Nutzungsrechte, Haftung, Kündigung und Zahlung verständlich regeln. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Rechnung und Abgabe: Pflichtangaben, Umsatzsteuerstatus, Beleg, Fälligkeit, Aufbewahrung und Kalender sichern.
+### 3.3. Rechnung und Abgabe
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechnung und Abgabe: Pflichtangaben, Umsatzsteuerstatus, Beleg, Fälligkeit, Aufbewahrung und Kalender sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Risiko und Schutz: Statusfeststellung, Berufsgenossenschaft, Versicherung, Zahlungsausfall, Beschwerde und Krise priorisieren.
+### 3.4. Risiko und Schutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Risiko und Schutz: Statusfeststellung, Berufsgenossenschaft, Versicherung, Zahlungsausfall, Beschwerde und Krise priorisieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Angebot, Auftrag, Rechnung, Mahnung, Behördenantwort, Statusmatrix oder Monatscheck erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Angebot, Auftrag, Rechnung, Mahnung, Behördenantwort, Statusmatrix oder Monatscheck erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
@@ -122,15 +122,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Angebot, Auftrag, Rechnung, Mahnung, Statusmatrix, Behördenantwort oder Monatscheck.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 611a und Paragraf 631; HGB Paragraf 84.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Status und Anmeldung.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Selbstständiger für Leistung, Rechnung, Belege und Abgaben; Auftraggeber oder Behörde für Einwendung, Statusbewertung und belastende Feststellung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Auftragsblatt: Kunde, Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Rechte, Haftung und Zahlung; Statusmatrix: Weisung, Eingliederung, Arbeitsort, Arbeitszeit, Vertretung, Unternehmerrisiko, Marktauftritt und Beleg.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -162,24 +164,24 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ### 15.1. Status und Anmeldung
 
-Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertragswirklichkeit, Weisung, Eingliederung, Unternehmerrisiko, Statusverfahren und erforderliche Anzeigen prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.2. Angebot und Auftrag
 
-Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Nutzungsrechte und Haftung verständlich vereinbaren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Leistung, Ergebnis, Mitwirkung, Termin, Preis, Abnahme, Nutzungsrechte und Haftung verständlich vereinbaren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.3. Rechnung und Steuern
 
-Pflichtangaben, Umsatzsteuerstatus, Fälligkeit, Ausgabe, Beleg, Abgabe und Rücklage ordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Pflichtangaben, Umsatzsteuerstatus, Fälligkeit, Ausgabe, Beleg, Abgabe und Rücklage ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.4. Zahlungsausfall
 
-Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.5. Versicherung und Haftung
 
-Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
 ### 15.6. Liquidität und Krise
 
-offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

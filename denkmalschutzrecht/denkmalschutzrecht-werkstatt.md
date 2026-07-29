@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
+### 3.1. Verwaltungshandeln
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
+### 3.2. Zulässigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
+### 3.3. Materielle Rechtmäßigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
+### 3.4. Eilrechtsschutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Enteignung, Übernahme und Entschädigung | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verwaltungshandeln | VwVfG Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VwVfG Paragraf 28 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Widerspruch und Klagewege im Denkmalrecht | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Zulässigkeit | VwVfG Paragraf 28 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,11 +96,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne |
-| BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven |
-| BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen |
-| BVerwG, Urteil vom 12.01.2012 - 7 C 5.11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende |
-| BVerwG, Urteil vom 09.12.2015 - 6 C 37.14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen |
+| BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -123,11 +119,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
-- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
-- BVerwG, Urteil vom 21.11.1986 - 8 C 127.84: Wird ein Verwaltungsakt nicht wirksam bekanntgegeben, kann sein fehlender Eintritt in die Wirksamkeit mit der negativen Feststellungsklage geklärt werden.
-- BVerwG, Urteil vom 12.01.2012 - 7 C 5.11: Verwaltungsvollstreckung setzt grundsätzlich zuvor einen vollziehbaren Verwaltungsakt als konkretisierende und rechtsschutzsichernde Grundlage voraus.
-- BVerwG, Urteil vom 09.12.2015 - 6 C 37.14: Eine Nebenbestimmung nach Paragraf 36 Absatz 1 zweite Alternative VwVfG darf fehlende Erlassvoraussetzungen überbrücken, nicht lediglich deren künftigen Fortbestand absichern.
 - BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss: Erhaltungspflichten am Baudenkmal sind Inhaltsbestimmung.
 
 ## 9. Prüfraster
@@ -140,15 +131,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VwVfG Paragraf 35; VwVfG Paragraf 28.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verwaltungshandeln.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 —.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -178,58 +171,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Enteignung, Übernahme und Entschädigung
+### 15.1. Verwaltungshandeln
 
-1. Inhalts- und Schrankenbestimmung mit Ausgleich: Wird die Erhaltungspflicht im Einzelfall unzumutbar, sehen die meisten Landesgesetze einen Ausgleichsanspruch vor (finanzielle Hilfe, Verlängerung der Eintragungswirkung, denkmalverträgliche Nutzungsänderung). 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Widerspruch und Klagewege im Denkmalrecht
+### 15.2. Zulässigkeit
 
-Widerspruch: Paragrafen 68 ff. VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht. Einige Länder (etwa Niedersachsen, Bayern in Teilen) haben das Vorverfahren weitgehend abgeschafft; dann führt die Klage unmittelbar zum Verwaltungsgericht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Art. 14 GG — Eigentum und Denkmalschutz
+### 15.3. Materielle Rechtmäßigkeit
 
-Der Skill erklärt, warum die Eintragung und die Erlaubnispflichten verfassungsrechtlich Inhalts- und Schrankenbestimmung sind, wo die Zumutbarkeitsgrenze liegt und wann eine ausgleichspflichtige Inhaltsbestimmung oder eine Enteignung in Betracht kommt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz
+### 15.4. Eilrechtsschutz
 
-Der Föderalismus erklärt, warum es sechzehn Landesgesetze gibt und warum es kein Bundesdenkmalschutzgesetz gibt. Dieser Skill ordnet die Zuständigkeitslage und zeigt, welche bundesrechtlichen Überlagerungen trotzdem mitzudenken sind. - Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Sachgesamtheiten und Gesamtanlagen
+### 15.5. Arbeitsprodukt
 
-Baden-Württemberg kennt mit der Gesamtanlage eine Schutzform für zusammenhängende Bauensembles. Die Wirkung greift auch für einzelne, für sich nicht denkmalwerte Bauten, wenn sie das geschützte Ortsbild prägen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Bauordnungsrechtliche Schnittstelle
+### 15.6. Enteignung, Übernahme und Entschädigung
 
-1. Konzentrationswirkung der Baugenehmigung: In den meisten Bundesländern entscheidet die Bauaufsichtsbehörde im Genehmigungsverfahren nach Landesbauordnung über denkmalrechtliche Belange mit; das Landesamt für Denkmalpflege ist als Fachbehörde zwingend zu beteiligen. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Inhalts- und Schrankenbestimmung mit Ausgleich: Wird die Erhaltungspflicht im Einzelfall unzumutbar, sehen die meisten Landesgesetze.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Bodendenkmäler und Grabungsgenehmigung
+### 15.7. Widerspruch und Klagewege im Denkmalrecht
 
-Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergaenge in Verdachtsflächen sind genehmigungspflichtig nach Art. 7 BayDSchG. Funde unterliegen dem Schatzregal nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Schlösser, Gutsanlagen und Restitution
-
-Brandenburg verzeichnet rund 600 Schlösser und Gutsanlagen, viele in unklarer oder mehrstufig restituierter Eigentumslage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bussgeld- und Ordnungswidrigkeitsverfahren
-
-Bussgeldtatbestände der Landesgesetze: Jede Landesregelung enthält einen Katalog mit Geldbussen bis zu sechsstelligen Betraegen für schwere Verstoesse. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Denkmaleigenschaft feststellen
-
-Trotz unterschiedlicher Formulierungen kommen praktisch alle sechzehn Landesgesetze auf denselben dreigliedrigen Tatbestand: 1. Sache — bewegliche oder unbewegliche Sache, Gebäude, Bauteil, Anlage, Bodenfund, Sachgesamtheit. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Denkmalschutz Baden-Württemberg (DSchG-BW)
-
-Baden-Württemberg unterscheidet Kulturdenkmale und besondere Kulturdenkmale; die Eintragung in das Denkmalbuch ist nachrichtlich für Kulturdenkmale und konstitutiv für besondere Kulturdenkmale. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Denkmalschutz Bayern (BayDSchG)
-
-Bayern hat das älteste flächendeckende Denkmalschutzgesetz der Bundesrepublik (in Kraft seit 1973). Die Denkmaleigenschaft besteht kraft Gesetzes; die Bayerische Denkmalliste ist nachrichtliches Verzeichnis. Der Skill ordnet die Verfahrenswege und die zuständigen Behörden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Denkmalschutz Berlin (DSchG-Bln)
-
-Berlin als Stadt-Land verbindet kommunale und staatliche Denkmalpflege in einem Verwaltungsbau. Die Denkmalliste Berlin ist öffentlich einsehbar; die Eintragung wirkt nachrichtlich. Skill ordnet die spezifischen Wege zwischen Landesdenkmalamt und Bezirksämtern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Stadtmauer Berlin und Berliner Mauerweg als Denkmal
-
-Berlin verbindet historische Stadtmauer (mittelalterlich, vereinzelt erhalten) und Berliner Mauer (1961-1989) als doppeltes Denkmalerbe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Widerspruch: Paragrafen 68 ff. VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

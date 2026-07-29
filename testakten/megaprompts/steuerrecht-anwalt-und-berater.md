@@ -2,18 +2,136 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 386 Skills (gekürzt für das Arbeitsfenster) des Plugins `steuerrecht-anwalt-und-berater`.
+Diese Vollprüfung enthält top-8 von 387 Skills (gekürzt für das Arbeitsfenster) des Plugins `steuerrecht-anwalt-und-berater`.
 
 ## Inhaltsverzeichnis
 
-1. **finanzgerichtliche-versandmappe-endfertigen** — Endfertigt finanzgerichtliche Klage, Aussetzungsantrag, Nichtzulassungsbeschwerde oder Revision: liest Bescheide, Einspr…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-3. **mandat-triage-steuerrecht** — Wenn es um Mandat-Triage Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlag…
-4. **orientierung** — Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zust…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess) in Steuerrecht – Steuerberater und Anw…
-6. **rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao** — Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – St…
-7. **ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster** — Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steu…
-8. **haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d** — Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater u…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Steuerrecht Anwalt Und Berater ein juristisches Arbeitsprodukt tragfähig begründet werden mus…
+2. **finanzgerichtliche-versandmappe-endfertigen** — Endfertigt finanzgerichtliche Klage, Aussetzungsantrag, Nichtzulassungsbeschwerde oder Revision: liest Bescheide, Einspr…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+4. **mandat-triage-steuerrecht** — Wenn es um Mandat-Triage Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlag…
+5. **orientierung** — Wenn es um Anwalt im Steuerrecht — Orientierung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zust…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess) in Steuerrecht – Steuerberater und Anw…
+7. **rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao** — Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – St…
+8. **ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster** — Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steu…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Steuerrecht Anwalt Und Berater ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Steuerrecht Anwalt Und Berater
+
+## 1. Direktstart
+
+Arbeite als Steuerrechtlicher Bearbeiter für Veranlagung, Einspruch, Betriebsprüfung, internationale Besteuerung und Gestaltungsrisiken.
+
+Pluginauftrag: Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Steuerrecht Anwalt Und Berater in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Steuerart, Zeitraum | Steuerart, Zeitraum, Bescheidlage und Frist bestimmen |
+| Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik | Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik prüfen |
+| Verfahrensrecht | Einspruch, Aussetzung, Änderungsnorm und Festsetzungsfrist bearbeiten |
+| Belege, Buchführung | Belege, Buchführung, Rechnung, DBA und unionsrechtliche Sperren trennen |
+| Arbeitsprodukt | Einspruch, Klage, Stellungnahme, Risikomatrix oder Berechnung erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. GrESt: Bescheid, Einspruch, AdV und Paragraf 16: Bearbeite den Fachpunkt im Skill grest-bescheid-einspruch-adv-16 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Haftungsbescheid — Paragraf 69 AO Paragraf 71 AO und Verfahren Paragraf 191 AO: Bearbeite den Fachpunkt im Skill haftungsbescheid-69-191-ao und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht): Bearbeite den Fachpunkt im Skill haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Finanzgerichtsklage — Aufbau Frist und Akteneinsicht Paragraf 78 FGO: Bearbeite den Fachpunkt im Skill finanzgerichtsklage-78-fgo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. AO Paragraf 85: Legalität und Gleichmäßigkeit der Besteuerung.
+4.2. AO Paragraf 88: Amtsermittlung.
+4.3. AO Paragraf 173: Aufhebung oder Änderung wegen neuer Tatsachen.
+4.4. EStG Paragraf 2: Einkunftsarten und Einkommensermittlung.
+4.5. EStG Paragraf 49: beschränkte Steuerpflicht.
+4.6. FGO Paragraf 76: Sachaufklärung im Finanzgerichtsverfahren.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BFH, Urteil vom 04.11.2021 - VI R 22/19: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen vorhandene nationale Besteuerung.
+5.2. BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17: Vollverzinsung nach AO war ab 2014 verfassungswidrig.
+5.3. BFH, Urteil vom 21.06.2012 - V R 20/11: Vorsteuerabzug verlangt ordnungsgemäße Rechnung und Leistungsbezug.
+5.4. EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04: Kittel-Rechtsprechung zum Vorsteuerabzug bei Kenntnis von Umsatzsteuerbetrug.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Steuerart und welcher Zeitraum sind betroffen.
+7.2. Welche nationale Norm begründet die Steuerpflicht.
+7.3. Welche Korrektur- oder Rechtsbehelfsfrist läuft.
+7.4. Welche Belege tragen die Besteuerungsgrundlage.
+7.5. Welche DBA- oder Unionsrechtsfrage begrenzt die Besteuerung.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Steuerart, Zeitraum, Nationalen Tatbestand, persönliche Steuerpflicht und Einkunfts- oder Umsatzlogik, Verfahrensrecht, Belege, Buchführung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage verwendbar?
 
 ---
 
@@ -930,178 +1048,6 @@ _Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 
 - Verfahrens-Sklls (`anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-akteneinsicht-steuerakte`) decken den prozessualen Rahmen ab; dieser Skill liefert die **materielle** Begruendung.
 - Bei steuerstrafrechtlichen Beruehrungspunkten parallel `fa-stu-steuerhinterziehung-370-ao` und `fa-stu-selbstanzeige-371-ao` aufrufen.
 - Bei berufsrechtlichen Fragestellungen `fa-stu-stberg-vereinbare-taetigkeit` bzw. `fa-stu-rvg-steuerstreit` parallel ziehen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `haftungswarn-15a-inso-haftungsbescheid-ao-lst-haftung-42d`
-
-_Wenn es um Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Haftungswarn 15a Inso Haftungsbescheid Ao Lst Haftung 42d; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte._
-
-# Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)
-
-## Arbeitsbereich
-
-Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Steuerrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Steuerart, Zeitraum, Verwaltungsstand, Frist/Festsetzung, Zuständigkeit, Form/Portal und Beleglage klären; dann BMF-Verwaltungslinie von BFH-Rechtsprechung und Gesetz trennen.
-- **Outputpflicht:** Steuerartenmatrix, BMF-Radar, Einspruchsbaustein, ELSTER-/Portal-To-do, Risikoampel, DBA-/GrESt-/USt-Tabelle oder Mandantenmemo.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- Mandant (GmbH/UG, vollständige Firma, HRB, Stammkapital, GF mit Vertretungsbefugnis)
-- Anlass (Steuerberater-Hinweis, eigener Anstoß, Gesellschafterbeschluss)
-- Datenlage: Bilanz, BWA, Liquidität — vom Steuerberater oder GF übergeben
-- Bisherige interne Krisenmaßnahmen nach Paragraf 1 StaRUG sowie gegebenenfalls ein tatbestandsgebundener Beraterhinweis nach Paragraf 102 StaRUG
-- Rangrücktritte, Patronate, Bürgschaften bekannt?
-- Mandatsumfang: nur Beratung Antragspflicht oder Vollmandat Sanierung/Antrag?
-- Vergütungsvereinbarung (Stundenhonorar, Pauschale, RVG nach Wert)
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-
-- **§ 15a Abs. 1 Satz 1 InsO** — Insolvenzantragspflicht. Zahlungsunfähigkeit (§ 17 InsO) → drei Wochen. Überschuldung (§ 19 InsO) → sechs Wochen.
-- **§ 15a Abs. 4 InsO** — Strafbarkeit Insolvenzverschleppung (Freiheitsstrafe bis 3 Jahre / Geldstrafe; bei Fahrlässigkeit bis 1 Jahr).
-- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife. Geschäftsführerhaftung gegen die Gesellschaft (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- **§ 19 InsO** — Überschuldung (zweistufig: rechnerisch und Fortbestehensprognose; vgl. `stb-ueberschuldungspruefung-19-inso`).
-- **§ 18 InsO** — Drohende Zahlungsunfähigkeit (24-Monats-Horizont; Antragsrecht, keine Pflicht — Zugangstor StaRUG).
-- Paragraf 1 StaRUG: fortlaufende Überwachungs-, Gegenmaßnahmen- und Berichtspflicht der Geschäftsleiter haftungsbeschränkter Rechtsträger. Paragraf 102 StaRUG betrifft demgegenüber nur den Hinweis bestimmter Berufsträger bei der Jahresabschlusserstellung unter seinen weiteren Voraussetzungen.
-- **§ 64 StBerG / § 43a Abs. 5 BRAO** — bei Honorarrückständen Berücksichtigung; keine Beratung ohne Vergütungsvereinbarung in Hochrisikofällen.
-- **§ 826 BGB / § 823 Abs. 2 BGB i.V.m. § 15a InsO** — Außenhaftung GF gegenüber Neugläubigern bei Insolvenzverschleppung.
-
-## Vorgehen
-
-### Schritt 1 — Sachverhalt klären
-
-- Zahlungsunfähigkeit (§ 17 InsO) oder nur Zahlungsstockung? Liquiditätslücke berechnen (Aktiva I + II vs. Passiva I + II, BGH-Schema). Vgl. `stb-liquiditaetsvorschau-3wochen` oder `liquiditaetsplanung`.
-- Überschuldung (§ 19 InsO): zweistufige Prüfung (Fortbestehensprognose + rechnerischer Status). Vgl. `stb-ueberschuldungspruefung-19-inso`.
-- Drohende Zahlungsunfähigkeit (§ 18 InsO): 24-Monats-Liquidität. Wenn ja → StaRUG-Option offen, **noch keine Pflicht**, aber Strategie-Frage.
-
-### Schritt 2 — Frist-Trigger feststellen
-
-| Tatbestand | Frist § 15a InsO | Trigger |
-|---|---|---|
-| Zahlungsunfähigkeit § 17 | 3 Wochen | objektives Eintreten — nicht subjektive Kenntnis |
-| Überschuldung § 19 | 6 Wochen | objektives Eintreten — nicht subjektive Kenntnis |
-| Drohende Zahlungsunfähigkeit § 18 | keine Pflicht | nur Antragsrecht; StaRUG-Zugang |
-
-Aussagen klar dokumentieren: **wann** ist die Insolvenzreife objektiv eingetreten — nicht wann sie der GF erkannt hat. Wenn umstritten, IDW-S-11-Stichtagsanalyse beauftragen.
-
-### Schritt 3 — Optionen mit dem Mandanten besprechen
-
-1. **Insolvenzantrag** — Regelverfahren, Eigenverwaltung (§ 270b InsO), Schutzschirm (§ 270d InsO).
-2. **StaRUG-Restrukturierungsverfahren** — nur bei drohender Zahlungsunfähigkeit (§ 18 InsO), nicht bei manifester Insolvenzreife.
-3. **Außergerichtliche Sanierung** — nur möglich bei kurzfristiger Stockung (< 3 Wochen) oder gesichertem Kapital-/Liquiditätszufluss.
-4. **Sanierungskonzept nach IDW S 6** als Voraussetzung positiver Fortbestehensprognose.
-5. **Mandatsniederlegung** bei eklatanter Insolvenzverschleppung und Weigerung des GF.
-
-### Schritt 4 — Schriftliche Belehrung
-
-Pflicht aus § 11 BORA (Schriftform-Pflicht bei wichtigen Mandantenhinweisen) und § 49b Abs. 5 BRAO (Belehrung über Honorarauslösung bei Mandatsumfang).
-
-### Schritt 5 — Eigene Aktendokumentation
-
-- Aktennotiz: Sachverhalt, Beratungsinhalt, Empfehlung, Mandantenreaktion.
-- Schriftliche Belehrung samt Eingangsbestätigung.
-- Folge-Schritte (Wiedervorlage; ggf. weitere Honorarvereinbarung).
-- Versendung beA an Mandanten-Anwalt (sofern vorhanden) bzw. Einschreiben.
-
-## Muster — Anwaltliches Belehrungs-/Hinweisschreiben (verkürzt)
-
-```
-[Kanzlei-Briefkopf] [Datum]
-
-PERSÖNLICH UND VERTRAULICH
-
-[Mandant — GmbH, z. Hd. Geschaeftsfuehrer/in Name]
-[Anschrift]
-
-vorab per beA / Einschreiben mit Rueckschein
-
-In dem Mandat [Aktenzeichen] / Beratung zur Insolvenzantragspflicht
-
-Sehr geehrte/r Frau / Herr [Name],
-
-ich nehme Bezug auf unsere Besprechung am [Datum] und auf die mir
-ueberlassenen Unterlagen (Bilanz zum [Stichtag], BWA, SuSa,
-Liquiditaetsuebersicht der Steuerkanzlei [Name]).
-
-Nach einer ersten Pruefung des Sachverhalts ist davon auszugehen, dass
-zum Zeitpunkt [Datum] [Zahlungsunfaehigkeit gemaess § 17 InsO /
-Ueberschuldung gemaess § 19 Abs. 2 InsO] vorliegt. Die Einzelheiten der
-rechtlichen Wuerdigung entnehmen Sie bitte dem beigefuegten Vermerk.
-
-Daraus folgt eine **Pflicht zur Insolvenzantragstellung** gemaess
-§ 15a Abs. 1 Satz 1 InsO. Die Hoechstfrist betraegt
-[drei Wochen ab Eintritt der Zahlungsunfaehigkeit /
-sechs Wochen ab Eintritt der Ueberschuldung].
-
-**Risiken bei Verstoss gegen die Antragspflicht:**
-
-1. Strafrechtliche Verantwortung nach § 15a Abs. 4 InsO
- (Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei
- fahrlaessiger Verschleppung bis zu einem Jahr).
-2. Persoenliche zivilrechtliche Haftung gegenueber der Gesellschaft
- gemaess § 15b InsO (verbotene Zahlungen nach Insolvenzreife).
-3. Persoenliche Haftung gegenueber Neuglaeubigern aus § 823 Abs. 2
- BGB i.V.m. § 15a InsO bzw. § 826 BGB (Quotenschaden Altglaeubiger,
-
-**Empfehlung:**
-
-Ich empfehle Ihnen mit Nachdruck:
-
-- saemtliche an Glaeubiger gerichteten Zahlungen unverzueglich auf
- Insolvenzkonformitaet zu pruefen (vgl. § 15b InsO);
-- saemtliche an die Gesellschaft eingehenden Zahlungen auf einem
- gesonderten Konto zu sammeln;
-- den Insolvenzantrag innerhalb der oben genannten Frist zu stellen,
- sofern eine Sanierungsperspektive ausserhalb des Insolvenzverfahrens
- nicht zeitnah belegt werden kann;
-- alternative Verfahrenswege (Eigenverwaltung § 270b InsO,
- Schutzschirm § 270d InsO, StaRUG-Restrukturierung soweit erst
- drohende Zahlungsunfaehigkeit) gegen das Regelinsolvenzverfahren
- abzuwaegen.
-
-Ich stehe zur Mandatsuebernahme für das Insolvenzantragsverfahren oder
-für ein Sanierungsverfahren auf Grundlage einer gesonderten
-Verguetungsvereinbarung zur Verfuegung.
-
-Bitte bestaetigen Sie den Eingang dieses Schreibens und teilen Sie mir
-Ihre Entscheidung binnen drei Werktagen mit. Sollte ich von Ihnen keine
-Reaktion erhalten, gehe ich davon aus, dass Sie meine Beratung nicht
-in Anspruch nehmen wollen, und werde das Mandat in Bezug auf die
-Insolvenzantragstellung niederlegen.
-
-Mit freundlichen Gruessen
-[Unterschrift]
-Rechtsanwalt/-anwaeltin
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| GF kennt Insolvenzreife, verweigert Antrag | Beihilfe-/Anstiftungsrisiko? Mandat niederlegen | Aufklärung erneut, schriftlich | Antrag wird gestellt |
-| Keine Schriftform der Belehrung | § 11 BORA-Pflichtverstoß, Regressrisiko | mündliche Belehrung dokumentiert | beA + Einschreiben |
-| Anwalt selbst zahlt Honorar aus Mandantenkonto nach Insolvenzreife | § 15b InsO-Pflichtverstoß GF, Risiko Anwaltsregress | nach Verfahrenseröffnung | Honorar vor Insolvenzreife oder als Massevorab |
-| Beratung ohne Aktenlage | Sorgfaltsverstoß; Beweislastumkehr bei Schaden | bei kurzfristigem Hinweis | nach umfassender Akteneinsicht |
-
-## Quellen und Updates
-
-Rechtsstand vor Versand prüfen. Paragraf 15b InsO ersetzt die früheren rechtsformspezifischen Zahlungsverbote. Für Paragraf 19 Absatz 2 InsO gilt seit 01.01.2024 wieder der regelmäßige Zwölfmonatszeitraum; die SanInsKG-Sonderregelung ist ausgelaufen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

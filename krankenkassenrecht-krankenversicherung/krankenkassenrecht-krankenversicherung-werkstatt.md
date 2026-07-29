@@ -51,41 +51,41 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Bescheidlage: Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen.
+### 3.1. Bescheidlage
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Bescheidlage: Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Leistungsrecht: Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen.
+### 3.2. Leistungsrecht
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Leistungsrecht: Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Medizin: Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen.
+### 3.3. Medizin
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Medizin: Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen.
+### 3.4. Krankenversicherung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Krankenversicherung: Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären.
+### 3.5. Pflege und Teilhabe
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Pflege und Teilhabe: Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Eilrechtsschutz: Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen.
+### 3.6. Eilrechtsschutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Eilrechtsschutz: Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.7. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren.
+### 3.7. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Kassenaufsicht: Beschwerde und BMG/BAS | SGB I Paragraf 38 und Paragraf 40 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bescheidlage | SGB I Paragraf 38 und Paragraf 40 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB X Paragraf 20 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Kassenwahl: Kündigung, Bindungsfrist und Wahltarif | SGB X Paragraf 20 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Leistungsrecht | SGB X Paragraf 20 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich | Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -155,15 +155,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind SGB I Paragraf 38 und Paragraf 40; SGB X Paragraf 20.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Bescheidlage.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Bescheidlage, Leistungsrecht, Medizin, Krankenversicherung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09; BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -193,58 +195,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Kassenaufsicht: Beschwerde und BMG/BAS
+### 15.1. Bescheidlage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Kassenwahl: Kündigung, Bindungsfrist und Wahltarif
+### 15.2. Leistungsrecht
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Kaltstart: Krankenversicherung – Bescheid, Rechnung und Frist
+### 15.3. Medizin
 
-Steuert den Erstkontakt mit einem Krankenversicherungsproblem. Er stellt sicher, dass vor jeder inhaltlichen Prüfung die operativen Grundfragen geklärt sind: Wer ist betroffen, welches Dokument liegt vor, welche Frist läuft und was muss heute entschieden werden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Klagebegründung Sozialgericht: Gesundheitsakte
+### 15.4. Krankenversicherung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. PKV-Ombudsmann und Beschwerdestrategie
+### 15.5. Pflege und Teilhabe
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht
+### 15.6. Eilrechtsschutz
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anordnungsanspruch, Anordnungsgrund, Folgenabwägung und Existenzsicherung darstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung
+### 15.7. Arbeitsprodukt
 
-Trennt Untätigkeitsklage, Genehmigungsfiktion, Eilrechtsschutz und Akteneinsicht bei verzögerter Kassenentscheidung. Berechnet die richtigen Fristen, prüft zureichende Verzögerungsgründe und erstellt Sachstandsschreiben, Akteneinsichtsantrag oder Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Krankenversicherung: Long Covid Post Vac und Beweisprobleme
-
-Dieser Skill bearbeitet Long Covid Post Vac und Beweisprobleme im Bereich Krankenversicherung. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif
-
-Dieser Skill bearbeitet Kassenwahl Kündigung Bindungsfrist Wahltarif im Bereich Krankenversicherung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Krankenversicherung: Untätigkeitsklage Krankenkasse und Akteneinsicht
-
-Dieser Skill bearbeitet Untätigkeitsklage Krankenkasse und Akteneinsicht im Bereich Krankenversicherung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Krankenversicherung: PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht
-
-Dieser Skill bearbeitet PKV Vertrag Antrag Gesundheitsfragen Anzeigepflicht im Bereich Krankenversicherung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Krankenversicherung: Selbstständige Mindestbeitrag und Einkommensteuerbescheid
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Widerspruch, Klage, Eilantrag, Befundanforderung oder Vergleichsvorschlag ausformulieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

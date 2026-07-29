@@ -2,18 +2,142 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 117 Skills (gekürzt für das Arbeitsfenster) des Plugins `verlagsredaktion`.
+Diese Vollprüfung enthält top-8 von 118 Skills (gekürzt für das Arbeitsfenster) des Plugins `verlagsredaktion`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-2. **kaltstart-triage** — Wenn es um Verlagsredaktion — Startdesk in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-3. **verlagsdesk-erstpruefung-und-mandatsziel** — Wenn es um Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, U…
-4. **vlb-katalog-pflege-jur** — Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
-5. **autorenkommunikation-compliance-dokumentation-und-akte** — Wenn es um Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk in Verlagsredaktion geht: ordnet Akteninhalt,…
-6. **kommentar-aktualisierung-randnummern** — Wenn es um Kommentar-Aktualisierung und Randnummern in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-7. **manuskript-merkwuerdige-formate-rettung** — Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
-8. **formatvorlage-check-autor-manuskript** — Wenn es um Formatvorlage-Check (Autor-Manuskript) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verlagsredaktion ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
+3. **kaltstart-triage** — Wenn es um Verlagsredaktion — Startdesk in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+4. **verlagsdesk-erstpruefung-und-mandatsziel** — Wenn es um Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, U…
+5. **vlb-katalog-pflege-jur** — Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
+6. **autorenkommunikation-compliance-dokumentation-und-akte** — Wenn es um Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk in Verlagsredaktion geht: ordnet Akteninhalt,…
+7. **kommentar-aktualisierung-randnummern** — Wenn es um Kommentar-Aktualisierung und Randnummern in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+8. **manuskript-merkwuerdige-formate-rettung** — Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast,…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Verlagsredaktion ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Verlagsredaktion
+
+## 1. Direktstart
+
+Arbeite als Redaktioneller Rechtsbearbeiter für Gerichtsberichte, Entscheidungsnachrichten, Verdachtsberichterstattung, Pressemitteilungen, Interviews, Bildauswahl und Korrekturen mit Fokus auf Aussagetyp, Tatsachengrundlage, Stellungnahme, Identifizierbarkeit und Rechtsmittelstatus.
+
+Pluginauftrag: Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Verlagsredaktion in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Entscheidungsmeldung | Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und belastbare Fundstelle in eine veröffentlichungsfähige Meldung überführen |
+| Verdachtsberichterstattung | Beweistatsachen, Stellungnahmeanfrage, Statussprache, öffentliches Interesse und Identifizierbarkeit vor Veröffentlichung abgleichen |
+| Gerichts- und Sitzungsbericht | Anträge, Beweisaufnahme, Zitate, vorläufige Einschätzungen und nächsten Termin ohne Schuldvorwegnahme einordnen |
+| Bild, Name und Anonymisierung | KUG, Privatheit, Prangerwirkung, Wiedererkennbarkeit und Informationswert in Text, Überschrift und Bild konsistent abwägen |
+| Interview und Stellungnahme | konkrete Fragen, angemessene Antwortfrist, Antwortauswertung und dokumentierten Veröffentlichungsentscheid vorbereiten |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Barrierefreiheit EPUB/PDF: Bearbeite den Fachpunkt im Skill barrierefreiheit-epub-pdf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Bildrechte: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill bildrechte-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Fachliche: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill fachliche-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Haftungsfreistellung Autor / Verlag: Bearbeite den Fachpunkt im Skill haftungsfreistellung-autor-verlag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 5 Absatz 1 und Absatz 2: Meinungs- und Pressefreiheit sowie ihre Schranken.
+4.2. GG Artikel 1 Absatz 1 und Artikel 2 Absatz 1: Schutz des allgemeinen Persönlichkeitsrechts.
+4.3. BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog: Unterlassung, Beseitigung und Ersatz bei Persönlichkeitsrechtsverletzungen.
+4.4. KUG Paragraf 22 und Paragraf 23: Einwilligung, Bildnisse aus dem Bereich der Zeitgeschichte und berechtigte Interessen.
+4.5. GVG Paragraf 169: Öffentlichkeit der Verhandlung und Verbot eigener Ton- und Filmaufnahmen im Sitzungssaal.
+4.6. StGB Paragraf 353d: Grenzen der Mitteilung aus nichtöffentlichen Verhandlungen und amtlichen Dokumenten eines Strafverfahrens.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Beschluss vom 03.11.2025 - 1 BvR 573/25: Presserechtliche Sorgfalt darf nicht schematisch an strafprozessuale Verdachtsstufen gekoppelt werden; Sinngehalt, Beweistatsachen und Abwägung sind fallbezogen zu prüfen.
+5.2. BGH, Urteil vom 16.11.2021 - VI ZR 1241/20: Identifizierende Verdachtsberichterstattung verlangt Mindestbestand an Beweistatsachen, offene Statussprache, öffentliches Interesse und regelmäßig Gelegenheit zur Stellungnahme.
+5.3. BGH, Urteil vom 22.02.2022 - VI ZR 1175/20: Eine unzureichende Möglichkeit zur Stellungnahme kann die Verdachtsberichterstattung rechtswidrig machen; Frist und Fragen müssen den Umständen entsprechen.
+5.4. BGH, Urteil vom 18.11.2014 - VI ZR 76/14: Wird ein zunächst zulässig berichteter Verdacht später ausgeräumt, kommt ein neutral bezeichneter Nachtrag statt einer die frühere Berichterstattung delegitimierenden Richtigstellung in Betracht.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Redaktion für Beweistatsachen, Recherche, Stellungnahmeanfrage und Statussprache; Betroffener für konkrete Unwahrheit, Beeinträchtigung und beanspruchte Abhilfe.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Aussage ist Tatsachenbehauptung, Verdacht, Werturteil oder wörtliches Zitat.
+7.2. Welche belastbaren Beweistatsachen tragen jede identifizierende oder rufbeeinträchtigende Aussage.
+7.3. Wurde der Betroffene konkret, rechtzeitig und dokumentiert mit den tragenden Punkten konfrontiert.
+7.4. Sind Verfahrensstand, Rechtsmittelstatus und Unschuldsvermutung in Überschrift, Bild und Text konsistent.
+7.5. Welche Korrektur-, Nachtrags- oder Sperrentscheidung ist vor Redaktionsschluss erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung; Entscheidungsmeldung: Anlass, Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und Quelle in dieser Reihenfolge.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Quellenmatrix: Aussage, Aussagetyp, Aktenfund, Gegenposition, Stellungnahme, Identifizierungsrisiko, Freigabestatus und Formulierung.
+10.2. Entscheidungsmeldung: Anlass, Tenor, tragende Gründe, praktische Folge, Rechtsmittelstatus und Quelle in dieser Reihenfolge.
+10.3. Redaktionsfreigabe: tragfähige Aussagen, zu kürzende Passagen, gesperrte Identifikatoren, offene Anfrage und Veröffentlichungszeitpunkt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als veröffentlichungsfähige Meldung, Quellenmatrix, Stellungnahmeanfrage, Headline-Set, Redaktionsfreigabe oder Nachtrag verwendbar?
 
 ---
 
@@ -532,109 +656,6 @@ Output: Mueller-Aufsatz_v2-clean.docx
 - Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024, Kapitel "Anfuehrungszeichen, Bindestrich, Sonderzeichen".
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016, S. 23 ff. zur Konsistenz bei Pinpoints.
 - UrhG, [https://www.gesetze-im-internet.de/urhg/](https://www.gesetze-im-internet.de/urhg/) - Hinweis: bei Uebernahme fremder Tabellen / Grafiken aus PDF stets §§ 51, 63 UrhG prüfen.
-
----
-
-## Skill: `formatvorlage-check-autor-manuskript`
-
-_Wenn es um Formatvorlage-Check (Autor-Manuskript) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Formatvorlage-Check (Autor-Manuskript)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VerlG § 17 Ablieferungsfrist, UrhG § 41 Rückrufsrecht wegen Nichtausübung nach 2 Jahren, VG-Wort-Meldungen jährlich, JuSchG-Indizierung sofort wirksam.
-- Tragende Normen verifizieren: UrhG §§ 1, 7, 11, 31, 32, 34, 38, 41, 43, 50, 51, 51a, 53, 87a-h, VerlG, BGB §§ 433, 631, JuSchG, PresseG der Länder, ImpressumsR, DSGVO Art. 85 (Medienprivileg) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verlag, Autor, Lektor, Übersetzer, VG Wort, Lizenzpartner, Vertrieb, Datenschutzbeauftragter, ggf. Bundeszentrale für Kinder- und Jugendmedienschutz.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verlagsvertrag, Übersetzervertrag, Lizenzvertrag, Honorarrechnung, Pflichtexemplarmeldung, VG-Wort-Meldung, Impressum, AGB — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum geht es konkret
-
-Verlage haben Formatvorlagen (DOCX-Templates, LaTeX-Klassen, Schreibrichtlinien). Autorinnen halten sich selten daran. Der Format-Check ist die erste Prüfung nach Manuskripteingang: Stimmen Absatzformate, Ueberschriftenhierarchie, Fussnotenstil, Zitiernormen mit der Verlagsvorlage ueberein? Sie zeigen die Abweichungen, statt sie still zu korrigieren - sonst verlernt die Autorin nie.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-Sie brauchen ihn unmittelbar nach Eingang eines Manuskripts. Klären Sie:
-
-1. Welches Verlagsformat (NJW-Manuskriptrichtlinien, JuS-Vorlage, hauseigener LaTeX-Stil)?
-2. Hat die Autorin die Richtlinien bekommen (mit Datum)?
-3. Welche Toleranzen (welche Abweichungen sind harmlos, welche stoppen die Annahme)?
-4. Wie viel Eingriff vom Lektorat erwuenscht (still korrigieren oder zurueckspielen)?
-
-## Material- bzw. Sachrahmen
-
-- Verlagsformatvorlage (.dotx, Style Guide, LaTeX-Class).
-- Autorenmanuskript.
-- Eingangsmail mit Hinweis auf Manuskriptrichtlinien.
-
-## Praxisleitfaden / Schritt für Schritt
-
-1. **Eingangs-Sicherung.** Manuskript-Original ablegen, Arbeitskopie anlegen mit Versions-Stempel.
-2. **Strukturpruefung.** Ueberschriftenhierarchie (Verlagsvorlage: H1, H2, H3?), maximale Verschachtelungstiefe.
-3. **Absatzformate.** Standardabsatz, Zitatabsatz, Aufzaehlung, Fussnotentext - mit Verlagsformatvorlage abgeglichen?
-4. **Fussnoten.** Position (Seitenfuss vs. Kapitelende), Zitiernorm (siehe `verl-zitierweise-pruefung-zeitschrift-jus-njw`), Nummerierung.
-5. **Sonderzeichen.** § mit U+00A0 davor (geschuetzt), Anfuehrungszeichen, Bindestrich vs. Gedankenstrich.
-6. **Bilder, Tabellen, Schaubilder.** Format, Verankerung, Beschriftung, Quellen.
-7. **Inhaltsverzeichnis und Verweise.** Werden Querverweise automatisch generiert? Funktioniert das ToC?
-8. **Befund-Tabelle.** Spalten: Element, Verlagsvorgabe, Befund, Stop/OK, Anmerkung. An Autorin zurueckspielen.
-
-## Trade-off-Matrix
-
-| Pfad | A: Stille Lektoratskorrektur | B: Manuskript zurueck an Autorin | Empfehlung |
-|------|------------------------------|----------------------------------|------------|
-| Verlagsaufwand | hoch | mittel | A nur bei nahem Druck und kooperativer Autorin |
-| Lerneffekt Autorin | null | hoch | B im Regelfall |
-| Lieferzeit | schnell | langsamer | A bei Zeitnot |
-| Standardfall | B mit fristgebundenem "Nachbessern bis ..." |
-
-## Praxistipps der alten Redaktion
-
-- "Eine Autorin, die ihre Formatfehler nicht selbst korrigiert, wird sie beim naechsten Beitrag wiederholen. Lieber einmal genau zurueckspielen."
-- Nicht jeden Mini-Fehler zurueckweisen - eine Befund-Tabelle mit 50 Punkten frustriert. Top-5-Stops, der Rest als "wuenschenswert".
-- Bei wiederkehrenden Autorinnen einen "Hauseigenen Stilkatalog" pflegen - das spart Arbeit.
-- LaTeX-Manuskripte schauen oft "richtig" aus, haben aber Klassenkonflikte. Probekompilation immer.
-
-## Mustertexte / Vorlagen
-
-**Rueckmeldung an Autorin (Format-Defekt):**
-
-> Sehr geehrter Herr Dr. Schmidt, vielen Dank für Ihr Manuskript zu "[Titel]" vom 02.06.2026. Bei der Eingangspruefung haben wir die Einhaltung der NJW-Manuskriptrichtlinien geprueft (siehe NJW-Hinweise Stand 04/2026, in der Anlage). Sieben Stops haben wir markiert (siehe Befundtabelle, Anlage). Bitte ueberarbeiten Sie das Manuskript bis 16.06.2026. Bei Rueckfragen erreichen Sie uns unter ...
-
-**Befund-Tabelle (Vorlage):**
-
-| # | Element | Verlagsvorgabe | Befund | Stop/OK |
-|---|---------|-----------------|--------|---------|
-| 1 | Ueberschriftenhierarchie | max. 3 Ebenen | 5 Ebenen verwendet | Stop |
-| 2 | Fussnoten-Position | Seitenfuss | Kapitelende | Stop |
-| 3 | Zitierweise BGH | "Datum, Az, NJW Jahr, Seite (Rn)" | "Datum, NJW Jahr, S." (ohne Az.) | Stop |
-| 4 | Anfuehrungszeichen | deutsch ("..." mit unten/oben) | englisch ("...") | wuenschenswert |
-
-**Stilkatalog-Auszug (Beispiel NJW):**
-
-```
-- Paragraphenzeichen § stets mit geschuetztem Leerzeichen davor.
-- Aktenzeichen mit Schraegstrich, ohne Bindestriche: "I ZR 12/24".
-- Randnummer "Rn.", nicht "RN" oder "Tz." (Tz. nur bei BFH).
-- "Bundesgerichtshof" bei Erstnennung, danach "BGH".
-- Datum: "12.05.2026" (DD.MM.YYYY).
-```
-
-## Typische Fehler / Pitfalls
-
-- Befund-Tabelle ohne Prioritaeten - Autorin liest 50 Punkte und uebersieht die 5 wichtigen.
-- Stille Korrektur ohne Hinweis - Autorin lernt nicht.
-- Manuskriptrichtlinien nicht verlinkt - Autorin weiss nicht, wonach sie prüfen soll.
-- LaTeX-Manuskript ohne Probekompilation freigegeben.
-- Zitiernorm-Check vergessen - landet erst in der Fahnenpruefung als Drama.
-
-## Quellen Stand 06/2026
-
-- NJW-Manuskriptrichtlinien (vom Verlag bezogen, Stand jeweils im Manuskriptbearbeitungspaket).
-- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
-- Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
-- Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.
-- Schimmel, Juristische Klausuren und Hausarbeiten richtig formulieren, 13. Aufl. 2022.
 
 ---
 

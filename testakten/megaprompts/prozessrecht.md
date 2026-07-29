@@ -2,20 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 65 Skills des Plugins `prozessrecht`.
+Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `prozessrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **gerichtliche-versandmappe-endfertigen** — Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordne…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-3. **bea-wiedereinsetzung-ersatzeinreichung-2026** — Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Un…
-4. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den pass…
-5. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninha…
-6. **verfahrensart-rechtsweg-zustaendigkeit** — Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständig…
-7. **verkehrsunfall** — Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf …
-8. **schriftsaetze-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf a…
-9. **anwaltsgeheimnis-pruefung** — Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, F…
-10. **eilverfahren-risikoampel-und-gegenargumente** — Wenn es um Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien in Prozessrecht geht: zerlegt Ergebnis, Fri…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Prozessrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
+2. **gerichtliche-versandmappe-endfertigen** — Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordne…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+4. **bea-wiedereinsetzung-ersatzeinreichung-2026** — Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Un…
+5. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den pass…
+6. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninha…
+7. **verfahrensart-rechtsweg-zustaendigkeit** — Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständig…
+8. **verkehrsunfall** — Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf …
+9. **schriftsaetze-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf a…
+10. **anwaltsgeheimnis-pruefung** — Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, F…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Prozessrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Prozessrecht
+
+## 1. Direktstart
+
+Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+
+Pluginauftrag: Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Prozessrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
+| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen |
+| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen |
+| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln |
+| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. beA, Ersatzeinreichung und Wiedereinsetzung: Bearbeite den Fachpunkt im Skill bea-wiedereinsetzung-ersatzeinreichung-2026 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Anspruchstabelle im Zivilprozess: Bearbeite den Fachpunkt im Skill anspruchstabelle und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anspruchstabelle: Bearbeite den Fachpunkt im Skill anspruchstabelle-beweislast und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Anspruchstabelle: Compliance-Dokumentation und Aktenvermerk: Bearbeite den Fachpunkt im Skill anspruchstabelle-gegenseite-interessen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+4.2. ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+4.3. ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+4.4. ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
+4.5. ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
+4.6. ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht
+5.2. BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Die Entscheidung behandelt Auslegung, Umdeutung und Widerruf einer Klagerücknahme sowie die Unverzüglichkeit nach dem damaligen Paragraf 269 Absatz 3 Satz 3
+5.3. BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Paragraf 269 Absatz 3 Satz 2 Halbsatz 2 Alternative 2 ZPO erlaubt grundsätzlich nicht, einen gegenläufigen materiell-rechtlichen Kostenerstattungsanspruch
+
+5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Antrag bestimmt und vom Streitgegenstand getragen.
+7.2. Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird.
+7.3. Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
+7.4. Welche Tatsache ist beweisbedürftig, beweisbelastet und beweisangeboten.
+7.5. Welche Verfügung oder welcher Schriftsatz bringt das Verfahren jetzt voran.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+10.2. Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+10.3. Tenorcheck: Hauptsache, Nebenforderung, Kosten, vorläufige Vollstreckbarkeit, Streitwert und Zustellung kontrollieren.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis verwendbar?
 
 ---
 
@@ -841,56 +964,6 @@ Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `eilverfahren-risikoampel-und-gegenargumente`
-
-_Wenn es um Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien in Prozessrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `Paragraf 195 BGB` — regelmäßige Verjährung.
-- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Eilverfahren: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Eilverfahren** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

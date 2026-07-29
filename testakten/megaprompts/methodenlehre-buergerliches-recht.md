@@ -2,18 +2,139 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 158 Skills (gekürzt für das Arbeitsfenster) des Plugins `methodenlehre-buergerliches-recht`.
+Diese Vollprüfung enthält top-8 von 159 Skills (gekürzt für das Arbeitsfenster) des Plugins `methodenlehre-buergerliches-recht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
-3. **spezial-methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rol…
-4. **methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre Erstpruefung Und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist…
-5. **methodenkritik-larenz-canaris-zivilrecht** — Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerlich…
-6. **gesetzgebung-justiz-wissenschaft-rollen** — Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerlic…
-7. **gesetzesbindung-art-20-gg-pruefprotokoll** — Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachve…
-8. **bverfg-grenzen-richterlicher-rechtsfortbildung** — Wenn es um Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht in Methodenlehre bü…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Methodenlehre Bürgerliches Recht ein juristisches Arbeitsprodukt tragfähig begründet werden m…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
+4. **spezial-methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rol…
+5. **methodenlehre-erstpruefung-und-mandatsziel** — Wenn es um Methodenlehre Erstpruefung Und Mandatsziel in Methodenlehre bürgerliches Recht geht: klärt Rolle, Ziel, Frist…
+6. **methodenkritik-larenz-canaris-zivilrecht** — Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerlich…
+7. **gesetzgebung-justiz-wissenschaft-rollen** — Wenn es um Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung in Methodenlehre bürgerlic…
+8. **gesetzesbindung-art-20-gg-pruefprotokoll** — Wenn es um Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll in Methodenlehre bürgerliches Recht geht: ordnet Sachve…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Methodenlehre Bürgerliches Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Methodenlehre Bürgerliches Recht
+
+## 1. Direktstart
+
+Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+
+Pluginauftrag: Methodenlehre und Rechtsanwendung im deutschen buergerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Praezedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Methodenlehre Bürgerliches Recht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
+| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen |
+| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen |
+| Subsumtion und Gegenprobe | für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen |
+| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg: Bearbeite den Fachpunkt im Skill anspruchsgrundlagen-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg: Bearbeite den Fachpunkt im Skill methodenlehre-anspruchsgrundlagen-normzweck und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Fristen, Form und Zuständigkeit im bürgerlichen Recht: Bearbeite den Fachpunkt im Skill methodenlehre-fristen-form-zustaendigkeit-buergerlichen-recht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Reihenfolge und Bausteine für Schriftsatz, Brief und Memo: Bearbeite den Fachpunkt im Skill methodenlehre-reihenfolge-bausteine-schriftsatz-brief-memo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
+4.2. BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
+4.3. ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
+4.4. ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
+4.5. ZPO Paragraf 253: bestimmter Antrag und hinreichend bestimmter Streitgegenstand.
+4.6. ZPO Paragraf 286: freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
+7.2. Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
+7.3. Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
+7.4. Welches Gegenargument verändert das Ergebnis tatsächlich.
+7.5. Welche Form und Begründungstiefe braucht das gewünschte Endprodukt.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis; Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+10.2. Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+10.3. Zitierkontrolle: Aussage, Quelle, Gericht oder Autor, Datum, Aktenzeichen, Fundstelle, Randnummer, Aussagegehalt und Status.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle verwendbar?
 
 ---
 
@@ -637,106 +758,6 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 - [Art. 100 GG – Vorlagepflicht](https://dejure.org/gesetze/GG/100.html)
 - [BVerfGE 34, 269 – Soraya, Grenzen der Rechtsfortbildung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
 - [Art. 79 GG – Änderung des Grundgesetzes](https://dejure.org/gesetze/GG/79.html)
-
-> Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
-
----
-
-## Skill: `bverfg-grenzen-richterlicher-rechtsfortbildung`
-
-_Wenn es um Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht.
-
-### BVerfG-Grenzen richterlicher Rechtsfortbildung
-
-## Fachlicher Kern — Juristische Methodenlehre
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `BVerfG-Grenzen richterlicher Rechtsfortbildung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** Wortlaut, Systematik, Historie, Telos, Verfassung, Unionsrecht, Analogie, teleologische Reduktion, Generalklauseln, Präjudizien, Beweislast und prozessuale Umsetzbarkeit.
-- **Verifizierte Anker:** Dworkin als Prinzipien-/Integritätskontrolle für hard cases; Kelsen als Normstufen-/Kompetenzhygiene; Canaris-Systemdenken und Larenz-Wertungsjurisprudenz kritisch prüfen, Larenz’ NS-Vergangenheit und autoritäre Ordnungsnähe nicht ausblenden.
-- **Arbeitsmodus:** Keine Formel behaupten („Ausnahmen eng“, „h.M.“), sondern Normzweck, Lücke, Vergleichbarkeit, Kompetenz, Bindung und Folgen offenlegen; Rechtsfortbildung nur mit sauberem Grenzprotokoll.
-- **Outputpflicht:** Auslegungsmatrix, Lückenprotokoll, Schriftsatzargument, Gutachtenbaustein, Richterrechts-Red-Team oder Begründungscheck.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-Das Bundesverfassungsgericht hat in einer langen Linie von Entscheidungen die verfassungsrechtlichen Grenzen richterlicher Rechtsfortbildung präzisiert. Dieses Skill systematisiert diese Rechtsprechungslinie und macht sie für die zivilrechtliche Praxis nutzbar. Es hilft, Verfassungsbeschwerden gegen richterliche Rechtsfortbildung zu begründen oder abzuwehren.
-
-## Mandantenfall
-
-- Ein Zivilgericht weitet die Haftung nach § 823 BGB durch richterrechtliche Rechtsfortbildung auf eine Fallgruppe aus, die der Gesetzgeber erkennbar nicht erfassen wollte. Der Mandant will Verfassungsbeschwerde einlegen und braucht die verfassungsrechtliche Begründung.
-- Das OLG legt eine gesetzliche Regelung im Mietrecht so aus, dass eine für den Vermieter günstige Ausnahme praktisch leerläuft. Der Vermieter rügt, dies überschreite die Grenzen der Normauslegung und stelle eine unzulässige Gesetzeskorrektur dar.
-- Ein BGH-Urteil führt eine neue Haftungskategorie durch Richterrecht ein, für die es im Gesetz keine erkennbare Grundlage gibt. Ein Unternehmen will prüfen, ob dies verfassungsrechtlich angreifbar ist.
-
-## Erste Schritte
-
-1. Identifiziere die konkrete Rechtsfortbildung: Welche Norm wurde wie über ihren Wortlaut hinaus angewandt?
-2. Prüfe die BVerfG-Formel: Ist die Rechtsfortbildung mit dem Wortlaut und dem klar erkennbaren Willen des Gesetzgebers vereinbar?
-3. Untersuche, ob die Fortbildung auf einer verfassungswidrigen Lückenfüllung beruht (contra legem) oder methodisch legitimierbar ist (praeter legem).
-4. Prüfe die Verletzung des Gesetzesvorbehaltsprinzips: Wurden wesentliche Rechtspositionen durch Richterrecht geschaffen, die dem Gesetzgeber vorbehalten sind?
-5. Analysiere die Verletzung des rechtlichen Gehörs nach Art. 103 Abs. 1 GG: War die Rechtsfortbildung für die Partei überraschend und unvorhersehbar?
-6. Formuliere die Verfassungsrüge präzise: Welcher Grundrechtssatz oder welcher Verfassungsgrundsatz wurde durch die Rechtsfortbildung verletzt?
-
-## Rechtsrahmen
-
-- Art. 20 Abs. 3 GG — Bindung der Rechtsprechung an Gesetz und Recht als Kern der verfassungsrechtlichen Grenzen
-- Art. 97 Abs. 1 GG — Unabhängigkeit des Richters, aber nur im Rahmen der Verfassung und des Gesetzes
-- Art. 2 Abs. 1 GG — allgemeine Handlungsfreiheit als durch unzulässige Richterrechtsnormen verletztes Grundrecht
-- Art. 103 Abs. 1 GG — rechtliches Gehör, verletzt bei überraschender Rechtsfortbildung ohne Hinweis
-- Art. 14 GG — Eigentumsfreiheit, bei eigentumsbeeinträchtigender Rechtsfortbildung ohne gesetzliche Grundlage
-- Art. 100 Abs. 1 GG — Vorlagepflicht, wenn Gericht von einem förmlichen Gesetz abweichen will
-
-## Prüfraster
-
-1. Überschreitet die Rechtsfortbildung den Wortlaut der einschlägigen Norm?
-2. Widerspricht sie dem klar erkennbaren Willen des historischen Gesetzgebers?
-3. Ist sie eine unzulässige contra-legem-Entscheidung nach der BVerfG-Formel?
-4. Werden wesentliche Rechtsfragen durch Richterrecht entschieden statt durch den demokratischen Gesetzgeber?
-5. War die Fortbildung für die betroffene Partei überraschend und damit gehörsverletzend?
-6. Verletzt sie ein Grundrecht (Eigentum, Handlungsfreiheit, Gleichheit) ohne gesetzliche Grundlage?
-7. Bestand eine Vorlagepflicht, die das Gericht ignoriert hat?
-8. Ist die Verfassungsbeschwerde fristgerecht und nach Erschöpfung des Rechtswegs zulässig?
-
-## Typische Fallstricke
-
-- Verwechslung zwischen verfassungsrechtlich zulässiger teleologischer Auslegung und unzulässiger Rechtsfortbildung contra legem.
-- Das BVerfG prüft Fachrecht grundsätzlich nicht vollständig — es prüft nur spezifische Verfassungsverletzungen, nicht jede Fehlerhaftigkeit.
-- Die überraschende Rechtsfortbildung verletzt Art. 103 Abs. 1 GG nur, wenn die Partei keine Gelegenheit zur Stellungnahme hatte.
-- Vorlagepflicht nach Art. 100 GG besteht nur bei nachrangigem Recht, nicht bei verfassungskonformer Auslegung.
-- Die Verfassungsbeschwerde gegen richterliche Rechtsfortbildung muss binnen eines Monats nach dem letzten fachgerichtlichen Urteil erhoben werden.
-
-## Vertiefung: Die BVerfG-Prüfungsformel im Einzelnen
-
-Das BVerfG prüft bei Verfassungsbeschwerden gegen richterliche Rechtsfortbildung nach einer eigenen Formel: Es stellt fest, ob die Auslegung des Gerichts mit dem Grundgesetz vereinbar ist, insbesondere ob sie den klar erkennbaren Willen des Gesetzgebers missachtet und damit gegen Art. 2 Abs. 1 GG in Verbindung mit dem Rechtsstaatsprinzip verstößt. Diese Formel begrenzt die Prüfung auf spezifische Verfassungsverstöße.
-
-## Hinweise zur Praxis
-
-Verfassungsbeschwerden gegen richterliche Rechtsfortbildung müssen präzise formuliert werden: Nicht jeder Rechtsfehler ist ein Verfassungsfehler. Die Beschwerdeführer müssen darlegen, welches konkrete Grundrecht verletzt ist und warum die Rechtsfortbildung über den klar erkennbaren Gesetzgeberwillen hinausgeht. Allgemeine Richtigkeitskritik an Fachgerichtsentscheidungen reicht für eine zulässige Verfassungsbeschwerde nicht aus.
-
-## Weiterführende Analyse
-
-Die BVerfG-Formel zur richterlichen Rechtsfortbildung hat sich über Jahrzehnte verfeinert: Vom Soraya-Urteil (1973) über die Bürgschaftsentscheidung (1993) bis zu neueren Entscheidungen zur Mietpreisbremse und zu Arbeitnehmerrechten. Diese Entwicklungslinie zeigt eine zunehmende Bereitschaft des BVerfG, richterliche Rechtsfortbildung als verfassungsmäßig anzuerkennen, solange demokratische Legitimationsanforderungen erfüllt sind.
-
-## Checkliste zur Selbstprüfung
-
-Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: Sind alle Auslegungsmethoden zumindest erwähnt? Ist die Methodenwahl explizit begründet? Sind alle Behauptungen normativ oder empirisch rückgebunden? Ist das Ergebnis konsistent mit vergleichbaren Entscheidungen? Ist die institutionelle Zuständigkeit für die getroffene Entscheidung gewahrt? Wurde die Gegenposition ernsthaft berücksichtigt? Sind alle verwendeten Quellen korrekt angegeben?
-
-## Quellen
-
-- [BVerfGE 34, 269 – Soraya, Grenzen richterlicher Rechtsfortbildung](https://www.bverfg.de/e/rs19730214_1bvr111268.html)
-- [Art. 20 GG bei dejure](https://dejure.org/gesetze/GG/20.html)
-- [Art. 103 GG – rechtliches Gehör](https://dejure.org/gesetze/GG/103.html)
-- [Art. 100 GG – Vorlagepflicht bei dejure](https://dejure.org/gesetze/GG/100.html)
-- [BVerfGE 82, 6 – zu richterlicher Rechtsfortbildung im Arbeitsrecht](https://www.bverfg.de/e/rs19900306_1bvl150187.html)
 
 > Dieses Skill ist Teil des Methodenlehre-Curriculums im Bürgerlichen Recht und steht im Kontext des Rechtsstaats- und Demokratieprinzips des Grundgesetzes.
 

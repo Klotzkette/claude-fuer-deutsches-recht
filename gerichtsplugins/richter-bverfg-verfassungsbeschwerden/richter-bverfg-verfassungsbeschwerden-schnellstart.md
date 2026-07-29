@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen.
 4. Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten.
 5. Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag.
-6. 01 Annahme Prüfung Paragraf 93A: Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren.
 
 ## 4. Fallkarte
 
@@ -30,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1; GG Artikel 3 Absatz 1 |
 | Rechtsprechung | BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56 |
-| Tatbestand | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren |
+| Tatbestand | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
 | Beweislast | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | 01 Annahme Prüfung Paragraf 93A | Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 02 Substantiierungs Prüfung Paragraf 92 | Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 03 Rechtswegerschöpfung Paragraf 90 Abs 2 | Rechtswegerschöpfung Paragraf 90 Abs. 2 BVerfGG: vollständige Erschöpfung des fachgerichtlichen Instanzenzugs. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 04 Subsidiarität und Frist | Materielle Subsidiarität (zumutbare anderweitige Abhilfe, prozessuale Obliegenheiten), Beschwerdefrist Paragraf 93. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 05 Grundrechtsdogmatik Prüfen | Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| 06 Fachgerichtliche Entscheidung Prüfen | Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -62,8 +61,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder 01 Annahme Prüfung Paragraf 93A, 02 Substantiierungs Prüfung Paragraf 92, 03 Rechtswegerschöpfung Paragraf 90 Abs 2, 04 Subsidiarität und Frist: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
+7.2. Normsatz: Den tragenden Anker GG Artikel 1 Absatz 1; GG Artikel 2 Absatz 1 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Beschwerdegegenstand, Hoheitsakt konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff, Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

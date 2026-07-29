@@ -1,3 +1,15 @@
+# v435.0.0 - Schärfere Argumentation und lebensnahe Akten
+
+- Jedes der 235 Plugins erhält einen fachgebietsbezogenen juristischen Argumentationskern. Er führt vom begehrten Ergebnis über Norm, Tatbestandsmerkmal, Aktenfundstelle, Beweis und Beweislast zur stärksten Gegenposition und zur versandfähigen Antwort; passende vorhandene Skills werden dabei nach ihrer konkreten Funktion zugeschaltet.
+- Werkstatt- und Schnellstart-Prompts setzen diese Argumentationskette nun unmittelbar um. Vorhandene Unterlagen werden zuerst ausgewertet, Rückfragen auf entscheidungserhebliche Lücken begrenzt und Quellenstatus, Rechtsfolge, Risiko sowie nächster Schritt im Arbeitsprodukt sichtbar gehalten.
+- Neun bislang schwächere Akten aus Handelsvertreterrecht, Hinweisgeberschutz, Cybersicherheit, Hochschul- und Prüfungsrecht, Schulrecht, Kanzleiorganisation, Markenrecht und Insolvenzrecht wurden vertieft. Neue und überarbeitete Originalunterlagen liefern konkrete Parteien, Zeitachsen, Beträge, Aktenzeichen, Belegketten, Zuständigkeiten und bewusst offene Widersprüche, ohne die juristische Lösung vorwegzunehmen.
+- Handelsvertretervertrag, Kündigungsdaten, Provisionssätze, Wettbewerbsabrede und Fristenlogik wurden aktenübergreifend konsistent gezogen. Die Markenakte verwendet nun durchgängig Register- und Anmeldedaten; die Insolvenzakte stimmt Forderungsanmeldung, Kaution, Bankverrechnung, Tabelle und Rückgabeprotokoll zahlenmäßig aufeinander ab.
+- Wohnungseigentumsrecht, Hauptversammlungsrecht und Zahlungsverkehr verfügen über eigene fachliche Routen mit präzisen Norm-, Beweislast- und Rechtsfolgenketten. Unpassende Sammelanker wurden entfernt; mehrere fehlzugeordnete Entscheidungen des XI. Zivilsenats sind auf ihren wirklichen Gegenstand zurückgeführt und die Phishing-Prüfung auf die einschlägigen Entscheidungen konzentriert.
+- Die Dokumentqualitätsprüfung erkennt zusätzliche schematische Resttexte. Geänderte Word- und PDF-Unterlagen wurden gerendert und visuell auf Seitenumbrüche, Tabellen, Überlagerungen und Leerseiten geprüft.
+- Gesamt-PDFs, flache Originaldatei-ZIPs und flache Einzel-PDF-ZIPs der überarbeiteten Akten wurden neu gebaut. Marketplace, sämtliche Plugin-Manifeste, Promptdateien, Skillübersichten und Asset-Index sind auf v435.0.0 synchronisiert.
+
+---
+
 # v434.2.0 - Testakten als belastbare Originalvorgänge und strengere Qualitätsprüfung
 
 - Sieben zuvor schematische Akten wurden zu konkreten, widerspruchsreichen Originalvorgängen ausgebaut: Franchisestreit, Influencer-Kampagnen, Hilfsmittelversorgung, Maschinenleasing, Notariatsalltag, Buchpreisbindung und Satellitenbetrieb. 70 neue Word-Dokumente, E-Mails und Datentabellen liefern Vertragsstände, Behördenpost, Korrespondenz, Mess- und Zahlungsdaten, ohne die juristische Lösung vorwegzunehmen.

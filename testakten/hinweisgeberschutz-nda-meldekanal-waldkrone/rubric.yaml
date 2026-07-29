@@ -1,16 +1,35 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Hinweisgeberschutz Nda Meldekanal Waldkrone
+name: Hinweisgeberschutz NDA Meldekanal Waldkrone
 plugin: hinweisgeberschutz-compliance
+description: Fallbezogene Qualitätsprüfung des Hinweisfalls mit Meldestelle, Produktakte, Exportvorgang, Personalentscheidung und Transaktions-NDA.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/hinweisgeberschutz-nda-meldekanal-waldkrone_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/hinweisgeberschutz-nda-meldekanal-waldkrone_gesamt.pdf
+  - id: r02-vorgangsnummer
+    check_type: text_contains
+    description: Die Mandatsaufnahme führt die Vorgangsnummer der Meldestelle.
+    path: 01-mandatsnotiz-und-arbeitsauftrag.docx
+    contains: HIN-26-014
+  - id: r03-nachreichung
+    check_type: text_contains
+    description: Die Chronologie enthält die konkrete Nachreichung über den Rückkanal.
+    path: 02-zeitstrahl-und-fristen.docx
+    contains: 30. Mai 2026
+  - id: r04-entscheidung-datensicherung
+    check_type: text_contains
+    description: Die Leitungsvorlage behandelt die sofort zu sichernden Daten.
+    path: 23-entscheidungsvorlage-kurzfassung.docx
+    contains: Welche Daten werden sofort gesichert
+  - id: r05-konferenz-produktakte
+    check_type: text_contains
+    description: Die Fallkonferenz enthält den konkreten Versionskonflikt der Produktakte.
+    path: 24-arbeitsstand-fuer-besprechung.pdf
+    contains: Drei Fassungen mit ähnlichem Namen
+  - id: r06-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens fünfzehn exportierbare Arbeitsunterlagen.
+    min: 15
+  - id: r07-fachpruefung
+    check_type: human_review
+    description: Identitätsdaten, Meldungsinhalt, Personalakte und Transaktionsunterlagen bleiben nach Zugriff, Quelle und Zweck getrennt.

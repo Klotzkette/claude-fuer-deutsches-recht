@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Objekt und Beteiligte: Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen.
+### 3.1. Objekt und Beteiligte
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Objekt und Beteiligte: Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen.
+### 3.2. Rechtsgeschäft und Form
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsgeschäft und Form: Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen.
+### 3.3. Grundbuch und Rang
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Grundbuch und Rang: Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen.
+### 3.4. Vollzug
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vollzug: Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Entschädigung | BGB Paragraf 311b | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Objekt und Beteiligte | BGB Paragraf 311b | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 873 und Paragraf 925 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Grundbuchstreit im Erbbaurecht | BGB Paragraf 873 und Paragraf 925 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Rechtsgeschäft und Form | BGB Paragraf 873 und Paragraf 925 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix | Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -123,15 +123,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 311b; BGB Paragraf 873 und Paragraf 925.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Objekt und Beteiligte.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Grundbuchmatrix: Abteilung, laufende Nummer, Recht, Berechtigter, Rang, Löschungsweg, benötigte Urkunde und Risiko; Vollzugsliste: Schritt, Voraussetzung, Verantwortlicher, Dokument, Frist, Rückmeldung und nächster Antrag.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -161,58 +163,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Entschädigung
+### 15.1. Objekt und Beteiligte
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Grundbuchbezirk, Blatt, Flurstück, Eigentümer, Erwerber, Vertretung, Vollmacht und wirtschaftliches Ziel erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Grundbuchstreit im Erbbaurecht
+### 15.2. Rechtsgeschäft und Form
 
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Kauf, Übertragung, Belastung, Teilung, Erbbaurecht, Bewilligung, Beurkundung und Genehmigung trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Fristen und Reminder
+### 15.3. Grundbuch und Rang
 
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Abteilungen I bis III, Vormerkungen, Dienstbarkeiten, Grundpfandrechte, Rangvorbehalte und Löschungsunterlagen prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Erbbaurechtsvertrag entwerfen
+### 15.4. Vollzug
 
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Antrag, Bewilligung, Auflassung, Unbedenklichkeitsbescheinigung, Genehmigungen, Fälligkeitsmitteilung und Zwischenverfügung ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Steuerliche Schnittstellen
+### 15.5. Arbeitsprodukt
 
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertragsklausel, Vollzugsliste, Grundbuchanalyse, Zwischenverfügungsantwort, Rangmatrix oder Mandantenbrief erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Verkaufsklauseln
+### 15.6. Entschädigung
 
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Laufzeitende und Exitplan
+### 15.7. Grundbuchstreit im Erbbaurecht
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Altlasten und Rückbau
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Change of Control beim Erbbauberechtigten
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Erbbaugrundbuch lesen
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Erbbauakte strukturieren
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Betreiberwechsel
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Vorkaufsrechte im Erbbaurecht
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Gewerbliches Erbbaurecht
-
-Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt. - Paragraf 5 ErbbauRG — Zustimmungserfordernisse. - Paragraf 9a ErbbauRG — Erbbauzinsanpassung. - Paragraf 10 ErbbauRG — Rang und Belastung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 1 Abs. 1 ErbbauRG — Begriff und Inhalt des Erbbaurechts. - Paragraf 2 ErbbauRG — vertragsmäßiger Inhalt.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

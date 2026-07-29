@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UStVAVorbereitung version="1.0" zeitraum="2026-05" status="nicht-uebermittelt">
+  <Unternehmer>
+    <Name>Rechtsanwältin Jana Reuter</Name>
+    <Anschrift>
+      <Strasse>Lindenstraße 14</Strasse>
+      <Postleitzahl>10969</Postleitzahl>
+      <Ort>Berlin</Ort>
+    </Anschrift>
+    <Steuernummer>27/435/12347</Steuernummer>
+    <UStId>DE298765432</UStId>
+  </Unternehmer>
+  <Kontrollstand erstellt="2026-06-03T10:42:00+02:00" bearbeiter="Mara Klein">
+    <FreigabeKanzlei>false</FreigabeKanzlei>
+    <Uebermittlung>false</Uebermittlung>
+    <Uebermittler>Schenk und Adler Steuerberatungsgesellschaft mbH</Uebermittler>
+  </Kontrollstand>
+  <Vorbereitungswerte waehrung="EUR">
+    <Ausgangsumsatz steuersatz="19.00" status="entwurf">
+      <Netto>352.00</Netto>
+      <Steuer>66.88</Steuer>
+      <Quelle>R-2026-0007</Quelle>
+    </Ausgangsumsatz>
+    <Vorsteuer steuersatz="19.00" status="belegt">
+      <Betrag>317.19</Betrag>
+      <Quelle>Eingangsrechnungsregister Belege 001 bis 006</Quelle>
+    </Vorsteuer>
+    <Vorsteuer steuersatz="7.00" status="belegt">
+      <Betrag>4.51</Betrag>
+      <Quelle>Fachliteraturrechnung 2026-05-014</Quelle>
+    </Vorsteuer>
+    <Auslandsleistung status="klaerung-steuerbuero">
+      <Netto>89.00</Netto>
+      <Quelle>Cloud Ledger Europe Ltd.</Quelle>
+    </Auslandsleistung>
+  </Vorbereitungswerte>
+</UStVAVorbereitung>

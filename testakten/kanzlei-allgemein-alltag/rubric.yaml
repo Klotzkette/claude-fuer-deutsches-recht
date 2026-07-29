@@ -1,16 +1,33 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
 name: Kanzlei Allgemein Alltag
 plugin: kanzlei-allgemein
+description: Fallbezogene Qualitätsprüfung des Kanzleialltags mit Posteingang, Fristen, Rechnung, Buchhaltung, Mandatsannahme und Registerunterlagen.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf
+  - id: r02-xrechnung-xml
+    check_type: file_exists
+    description: Die strukturierte Rechnung liegt als auswertbare XML-Datei vor.
+    path: 05_rechnungen_ausgang/XRechnung_R-2026-0007.xml
+  - id: r03-xrechnung-betrag
+    check_type: text_contains
+    description: Das Prüfprotokoll enthält den konkreten Rechnungsbetrag.
+    path: 05_rechnungen_ausgang/XRechnung_R-2026-0007_Validierungsnotiz.docx
+    contains: 418,88 EUR
+  - id: r04-ustva-export
+    check_type: file_exists
+    description: Der vorbereitende UStVA-Datenexport ist vorhanden.
+    path: 06_eingangsrechnungen_ustva/UStVA_2026-05_Datenexport.xml
+  - id: r05-registerdaten
+    check_type: text_contains
+    description: Der Registerauszug enthält Registerblatt und Gesellschaft.
+    path: 12_mandatsannahme_gwg/Handelsregisterauszug_Nordstern_Aktenvermerk.docx
+    contains: HRB 998877 B
+  - id: r06-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens zwanzig exportierbare Arbeitsunterlagen.
+    min: 20
+  - id: r07-fachpruefung
+    check_type: human_review
+    description: Rechnungs-, Buchhaltungs- und Registerdaten sind intern rechnerisch stimmig und bleiben von Freigabe- und Versandnachweisen getrennt.

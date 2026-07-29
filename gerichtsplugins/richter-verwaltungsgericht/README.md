@@ -112,6 +112,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`02-amtsermittlung-und-sachverhaltsfeststellung`](skills/02-amtsermittlung-und-sachverhaltsfeststellung/SKILL.md), [`07-beweisaufnahme-verwaltungsgericht`](skills/07-beweisaufnahme-verwaltungsgericht/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`01-zulaessigkeit-verwaltungsklage`](skills/01-zulaessigkeit-verwaltungsklage/SKILL.md), [`03-begruendetheit-anfechtungsklage`](skills/03-begruendetheit-anfechtungsklage/SKILL.md), [`04-begruendetheit-verpflichtungsklage`](skills/04-begruendetheit-verpflichtungsklage/SKILL.md), [`08-urteilsentwurf-paragraf-117-vwgo`](skills/08-urteilsentwurf-paragraf-117-vwgo/SKILL.md), [`10-entscheidungsvorschlag-verwaltungsgericht`](skills/10-entscheidungsvorschlag-verwaltungsgericht/SKILL.md), [`v392-praxisraster-richter-verwaltungsgericht`](skills/v392-praxisraster-richter-verwaltungsgericht/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`05-eilrechtsschutz-paragraf-80-abs-5`](skills/05-eilrechtsschutz-paragraf-80-abs-5/SKILL.md), [`06-eilrechtsschutz-paragraf-123`](skills/06-eilrechtsschutz-paragraf-123/SKILL.md), [`09-rechtsmittel-vwgo`](skills/09-rechtsmittel-vwgo/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
@@ -121,7 +122,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +137,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-rechtsmittel-vwgo`](skills/09-rechtsmittel-vwgo/SKILL.md) | Wenn es um 09 Rechtsmittel Vwgo in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-entscheidungsvorschlag-verwaltungsgericht`](skills/10-entscheidungsvorschlag-verwaltungsgericht/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächs... |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Verwaltungsgericht) in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkei... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Verwaltungsgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Verwaltungsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-richter-verwaltungsgericht`](skills/v392-praxisraster-richter-verwaltungsgericht/SKILL.md) | Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

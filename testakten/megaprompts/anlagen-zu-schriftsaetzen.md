@@ -2,18 +2,139 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 117 Skills (gekürzt für das Arbeitsfenster) des Plugins `anlagen-zu-schriftsaetzen`.
+Diese Vollprüfung enthält top-8 von 118 Skills (gekürzt für das Arbeitsfenster) des Plugins `anlagen-zu-schriftsaetzen`.
 
 ## Inhaltsverzeichnis
 
-1. **bea-versandmappe-endfertigung** — Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft …
-2. **anlagen-zu-schriftsaetzen** — Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsatz und Aktenordner zuerst, verbindet jede Behauptung mi…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-4. **kaltstart-triage** — Wenn es um Kaltstart Triage in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-5. **anlagenkonvolut-konsolidieren** — Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt …
-6. **anlagenverzeichnis-gericht-kanzlei-und-intern** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
-7. **anlagenverzeichnis-kanzlei-grundaufbau-bea** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
-8. **original-abschrift-kopie-und-elektronische-fassung** — Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Be…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Anlagen Zu Schriftsätzen ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
+2. **bea-versandmappe-endfertigung** — Endfertigung gerichtlicher Schriftsätze und Anlagen für beA und E-Akte: liest zuerst den vorhandenen Aktenordner, prüft …
+3. **anlagen-zu-schriftsaetzen** — Hauptworkflow für gerichtliche Anlagenproduktion: liest Schriftsatz und Aktenordner zuerst, verbindet jede Behauptung mi…
+4. **einstieg-routing** — Wenn es um Einstieg und Routing in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
+5. **kaltstart-triage** — Wenn es um Kaltstart Triage in Anlagen zu Schriftsätzen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
+6. **anlagenkonvolut-konsolidieren** — Konsolidiert mehrere zusammengehörige Belegdateien zu einer gerichtstauglichen Anlage: liest den Bestand zuerst, trennt …
+7. **anlagenverzeichnis-gericht-kanzlei-und-intern** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
+8. **anlagenverzeichnis-kanzlei-grundaufbau-bea** — Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Anlagen Zu Schriftsätzen ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Anlagen Zu Schriftsätzen
+
+## 1. Direktstart
+
+Arbeite als Zivilprozessualer Bearbeiter für Klage, Erwiderung, Relation, Verfügung, Beschluss, Urteil, Anlagenmanagement und Vollstreckungsvorstufe mit Fokus auf Schlüssigkeit, Erheblichkeit, Beweis und Tenor.
+
+Pluginauftrag: Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, führt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prüft ERVV, Signatur, Dateinamen, Empfaenger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Anlagen Zu Schriftsätzen in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Prozessroute | Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern |
+| Antrag und Streitgegenstand | Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen |
+| Relation | Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen |
+| Beweis | Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln |
+| Arbeitsprodukt | Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Anlagen bei Eilantrag und Arrest: Bearbeite den Fachpunkt im Skill anlagen-bei-eilantrag-eu-arrest und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Anlagen in Berufung/Revision: Bearbeite den Fachpunkt im Skill anlagen-berufung-revision-eilantrag-eu-bilder und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anlagen für beA-Versand: Bearbeite den Fachpunkt im Skill anlagen-fuer-bea-versand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Portal, beA und Einreichungslogik: Bearbeite den Fachpunkt im Skill anlagen-portal-bea-einreichungslogik und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 253: Mindestinhalt der Klageschrift und bestimmter Antrag.
+4.2. ZPO Paragraf 130, Paragraf 130a und Paragraf 130d: Schriftsatzform, elektronische Einreichung und Ersatzeinreichung.
+4.3. ZPO Paragraf 138: Wahrheitspflicht, Erklärungslast und Bestreiten.
+4.4. ZPO Paragraf 139: gerichtliche Hinweispflicht und Prozessleitung.
+4.5. ZPO Paragraf 286 und Paragraf 287: Beweiswürdigung und Schadensschätzung.
+4.6. ZPO Paragraf 313, Paragraf 313a und Paragraf 313b: Urteilsaufbau, Tatbestand und abgekürzte Gründe.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Antrag bestimmt und vom Streitgegenstand getragen.
+7.2. Ist der Klägervortrag schlüssig, selbst wenn alles als wahr unterstellt wird.
+7.3. Ist der Beklagtenvortrag erheblich und welche Einwendung trägt er.
+7.4. Welche Tatsache ist beweisbedürftig, beweisbelastet und beweisangeboten.
+7.5. Welche Verfügung oder welcher Schriftsatz bringt das Verfahren jetzt voran.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle.
+10.2. Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+10.3. Tenorcheck: Hauptsache, Nebenforderung, Kosten, vorläufige Vollstreckbarkeit, Streitwert und Zustellung kontrollieren.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis verwendbar?
 
 ---
 
@@ -708,91 +829,6 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
-## Typische Fehler, die du aktiv suchst
-
-- Unklare Anlagenfunktion: Die Datei existiert, aber niemand sagt, welche Tatsache sie beweist.
-- Nummerierung folgt dem Ordner, nicht dem Schriftsatz.
-- Der Schriftsatz versteckt entscheidenden Vortrag in der Anlage.
-- Dateiname, Stempel oder Anlagenverzeichnis widersprechen einander.
-
-## Anschluss-Skills
-
-- `anlagen-zu-schriftsaetzen` für den Hauptworkflow.
-- `anlagen-qualitygate-finalcheck` vor Versand.
-- `schriftsatz-anlagen-mapping` für Belegmatrix und Lückenliste.
-
-## Quellen- und Vorsichtsregel
-
-Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Verwertbarkeit aktuelle amtliche Quellen prüfen: ZPO, BRAO, ERVV, ERVB und gerichtliche Hinweise. Keine BeckRS-/juris-/Literatur-Blindzitate. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
-
-## Vertiefter Anlagen-Workflow
-
-Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Beweisfunktion sichern, dann technische Einreichbarkeit prüfen.
-
-1. **Materialkarte:** Jede Datei einer Tatsachenbehauptung, einem Schriftsatzabschnitt und einer Anlagenkategorie zuordnen. Dubletten, alte Fassungen, Screenshots ohne Datum und unleserliche Scans separat markieren.
-2. **K1-Logik:** Nummerierung nicht nach Ordnerzufall, sondern nach Beweisgang: Vertrag/Grundlage, Kommunikation, Zahlung, Fristen/Zugang, Fotos/Screenshots, Tabellen, Behörden-/Gerichtsdokumente.
-3. **Technikcheck:** PDF/A-Eignung, OCR, Seitenzählung, Dateigröße, Signatur-/beA-/ERVV-Kontext, Anlagenverzeichnis, Deckblatt und Dateinamen konsistent prüfen.
-4. **Prozessrisiko:** Nichts Entscheidendes nur in der Anlage verstecken. Wenn eine Anlage eine tragende Tatsache beweist, muss der Schriftsatz diese Tatsache ausdrücklich behaupten und die Anlage präzise referenzieren.
-5. **Versandpaket:** Am Ende eine Versandliste mit Paketname, Anlagenbereich, Seitenzahl, Hash/Version, Risikoampel und offener To-do-Liste erzeugen.
-
-## Ergebnisqualität
-
-- Gib immer eine sofort nutzbare Tabelle aus: Anlage, Quelle, Datum, Beweisfunktion, Schriftsatzstelle, technischer Status, Risiko.
-- Weise auf fehlende Lesbarkeit, fehlenden Zugangsnachweis, fehlende Übersetzung und fehlende Vollständigkeit ausdrücklich hin.
-- Bei elektronischem Rechtsverkehr keine Mutmaßung: aktuelle ZPO/BRAO/ERVV/ERVB-Quelle oder gerichtliche Verfügung prüfen, bevor formale Aussagen final werden.
-
----
-
-## Skill: `original-abschrift-kopie-und-elektronische-fassung`
-
-_Wenn es um Original, Abschrift, Kopie und elektronische Fassung in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Original Abschrift Kopie Und Elektronische Fassung; Arbeitsfeld: Anlagen zu Schriftsätzen._
-
-# Original, Abschrift, Kopie und elektronische Fassung
-
-## Normenanker
-
-Arbeitsfokus: **Original, Abschrift, Kopie und elektronische Fassung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 130a Abs. 1 ZPO` — elektronisches Dokument.
-- `§ 130a Abs. 3 ZPO` — Signatur/sicherer Übermittlungsweg.
-- ZPO Paragraf 130a Absatz 6 — gerichtlicher Hinweis und unverzügliche geeignete Nachreichung bei technisch ungeeignetem elektronischem Dokument.
-- ZPO Paragraf 130d Sätze 2 bis 4 — Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit.
-- `§ 2 ERVV` — Dateiformate und technische Anforderungen.
-- `§ 3 ERVV` — Übermittlung elektronischer Dokumente.
-- `§ 371a Abs. 1 ZPO` — Beweiswert elektronischer Dokumente.
-- `§ 130 Nr. 6 ZPO` — Schriftsatzsignatur.
-- `§ 299 Abs. 1 ZPO` — Akteneinsicht.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mindestinput
-
-- Dokumentart.
-- Verfahrensart und Gericht.
-- Ob Original vorhanden ist.
-- Streit über Echtheit ja/nein.
-
-## Arbeitsablauf
-
-1. Ordne Dokumentqualität ein.
-2. Prüfe, ob Originalvorlage, Kopie oder Scan genügt.
-3. Markiere Echtheits- und Bestreitensrisiken.
-4. Formuliere Vorlage-/Nachreichungsvorschlag.
-
-## Ausgabe
-
-- Dokumentqualitätsvermerk.
-- Vorlageempfehlung.
-- Schriftsatzbaustein.
 
 ## Typische Fehler, die du aktiv suchst
 

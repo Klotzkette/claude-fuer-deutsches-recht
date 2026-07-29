@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 83 Skills des Plugins `tabellenreview-3d`.
+Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `tabellenreview-3d`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
-3. **tabellenreview-erstpruefung-und-mandatsziel** — Wenn es um Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel in Tabellenreview 3D geht: klärt Rolle, Ziel, Fris…
-4. **zeilenprompts-risikoampel-und-gegenargumente** — Wenn es um Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien in Tabellenreview 3D geht: zerlegt Ergebni…
-5. **onboarding-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Onboarding: Mandantenkommunikation und Entscheidungsvorlage in Tabellenreview 3D geht: prüft Frist, Form, Zus…
-6. **zeilenprompts-risikoampel-gegenargumente** — Wenn es um Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien in Tabellenreview 3D geht: zerlegt Ergebni…
-7. **belegkette-rueckverfolgung-caching-rerun** — Wenn es um /tabellenreview-3d:belegkette-rueckverfolgung in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken u…
-8. **massenpruefung-mehrparteien-konflikt-und-interessen** — Wenn es um Massenpruefung: Mehrparteienkonflikt und Interessenmatrix in Tabellenreview 3D geht: prüft Frist, Form, Zustä…
-9. **spaltenprompts-fristen-form-und-zustaendigkeit** — Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zust…
-10. **spaltenprompts-fristen-form-zustaendigkeit** — Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zust…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Tabellenreview 3D ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Tabellenreview 3D geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
+4. **tabellenreview-erstpruefung-und-mandatsziel** — Wenn es um Tabellenreview: Erstprüfung, Rollenklärung und Mandatsziel in Tabellenreview 3D geht: klärt Rolle, Ziel, Fris…
+5. **zeilenprompts-risikoampel-und-gegenargumente** — Wenn es um Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien in Tabellenreview 3D geht: zerlegt Ergebni…
+6. **onboarding-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Onboarding: Mandantenkommunikation und Entscheidungsvorlage in Tabellenreview 3D geht: prüft Frist, Form, Zus…
+7. **zeilenprompts-risikoampel-gegenargumente** — Wenn es um Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien in Tabellenreview 3D geht: zerlegt Ergebni…
+8. **belegkette-rueckverfolgung-caching-rerun** — Wenn es um /tabellenreview-3d:belegkette-rueckverfolgung in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken u…
+9. **massenpruefung-mehrparteien-konflikt-und-interessen** — Wenn es um Massenpruefung: Mehrparteienkonflikt und Interessenmatrix in Tabellenreview 3D geht: prüft Frist, Form, Zustä…
+10. **spaltenprompts-fristen-form-und-zustaendigkeit** — Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zust…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Tabellenreview 3D ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Tabellenreview 3D
+
+## 1. Direktstart
+
+Arbeite als Dokumentenbearbeiter für Akteninventur, Versionsvergleich, Tabellenprüfung, Vertrags- und Schriftsatzentwurf, Formatkontrolle, Quellenrückverfolgung und sichere Übergabe mit Fokus auf Fundstelle, Konsistenz und reproduzierbaren Bearbeitungsstand.
+
+Pluginauftrag: 3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz abrufen-Trail Belegkette.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Tabellenreview 3D in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Dokument: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill tabellenreview-dokument-behoerden-gerichts-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill arbeitsblatt-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Arbeitsblatt: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill arbeitsblatt-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Dokument: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill dokument-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+4.2. ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+4.3. ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+4.4. ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
+4.5. HGB Paragraf 257 und AO Paragraf 147: Aufbewahrung und Nachvollziehbarkeit geschäftlicher Unterlagen, soweit anwendbar.
+4.6. HGB Paragrafen 238, 257; AO Paragraf 147; ZPO Paragrafen 371 ff. bei Urkunden/elektronischen Dokumenten; Datenschutz-Grundverordnung Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Datei ist die maßgebliche und freigegebene Fassung.
+7.2. Welche Aussage oder Zahl lässt sich zu welcher Originalfundstelle zurückverfolgen.
+7.3. Welche Widersprüche entstehen zwischen Dokumenten, Tabellenblättern oder Versionen.
+7.4. Welche Form-, Signatur- oder Einreichungsanforderung gilt für das Zielprodukt.
+7.5. Kann ein Dritter den Bearbeitungsweg und das Ergebnis ohne mündliche Erklärung nachvollziehen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke.
+10.2. Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+10.3. Übergabevermerk: Auftrag, Eingangsstand, Arbeitsschritte, Ergebnisdateien, offene Punkte, Prüfnachweis und nächster Schritt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk verwendbar?
 
 ---
 
@@ -566,48 +687,6 @@ _Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabel
 - Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Spaltenprompts** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `spaltenprompts-fristen-form-zustaendigkeit`
-
-_Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spaltenprompts Fristen Form Zuständigkeit; Arbeitsfeld: Tabellenreview 3D._
-
-# Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Spezialwissen: Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg
 - **Normen-/Quellenanker:** Aufgabenbezogen statt Platzhalter: HGB §§ 238, 257; AO § 147; ZPO §§ 371 ff. bei Urkunden/elektronischen Dokumenten; DSGVO Art. 5, 6, 32; GoBD; Mandats-/Datenraumvorgaben. Bei rein wirtschaftlicher Tabellenprüfung keine Scheinnorm erfinden.

@@ -2,25 +2,142 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 50 Skills des Plugins `denkmalschutzrecht`.
+Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `denkmalschutzrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg — Routing im Denkmalschutzrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt…
-2. **kaltstart-triage** — Wenn es um Kaltstart — Denkmalschutzrechtliche Triage in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klä…
-3. **erstgespraech-mandatsannahme** — Wenn es um Erstgespräch — Denkmalschutzrechtliche Mandatsannahme in Denkmalschutzrecht — Bundesweiter Rahmen und sechzeh…
-4. **thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt** — Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrec…
-5. **schleswig-holstein-spezial-luebeck-haithabu-wattenmeer** — Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — B…
-6. **rheinland-pfalz-spezial-mittelrheintal-schum-staetten** — Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bunde…
-7. **sachsen-anhalt-spezial-bauhaus-quedlinburg-luther** — Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesw…
-8. **sachsen-spezial-montanregion-erzgebirge-muskauer-park** — Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter…
-9. **niedersachsen-spezial-wattenmeer-fagus-werk** — Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Ra…
-10. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen un…
-11. **nordrhein-westfalen-spezial-zollverein-industriekultur** — Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechz…
-12. **brandenburg-spezial-schloesser-gutsanlagen-restitution** — Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechze…
-13. **art-73-gg-laenderzustaendigkeit** — Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und…
-14. **denkmalschutz-saarland-spezial-voelklinger-huette-welterbe** — Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn g…
-15. **bussgeld-ordnungswidrigkeitsverfahren** — Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ord…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Denkmalschutzrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
+2. **einstieg-routing** — Wenn es um Einstieg — Routing im Denkmalschutzrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klärt…
+3. **kaltstart-triage** — Wenn es um Kaltstart — Denkmalschutzrechtliche Triage in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: klä…
+4. **erstgespraech-mandatsannahme** — Wenn es um Erstgespräch — Denkmalschutzrechtliche Mandatsannahme in Denkmalschutzrecht — Bundesweiter Rahmen und sechzeh…
+5. **thueringen-spezial-wartburg-klassisches-weimar-juedisches-erfurt** — Wenn es um Wartburg, Klassisches Weimar, Bauhaus und juedisch-mittelalterliches Erfurt in Thueringen in Denkmalschutzrec…
+6. **schleswig-holstein-spezial-luebeck-haithabu-wattenmeer** — Wenn es um Luebeck, Haithabu-Danewerk und Wattenmeer als UNESCO-Welterbe in Schleswig-Holstein in Denkmalschutzrecht — B…
+7. **rheinland-pfalz-spezial-mittelrheintal-schum-staetten** — Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bunde…
+8. **sachsen-anhalt-spezial-bauhaus-quedlinburg-luther** — Wenn es um Bauhaus, Quedlinburg und Lutherstaetten als UNESCO-Welterbe in Sachsen-Anhalt in Denkmalschutzrecht — Bundesw…
+9. **sachsen-spezial-montanregion-erzgebirge-muskauer-park** — Wenn es um Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen in Denkmalschutzrecht — Bundesweiter…
+10. **niedersachsen-spezial-wattenmeer-fagus-werk** — Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Ra…
+11. **hessen-spezial-limes-bergpark-wilhelmshoehe** — Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen un…
+12. **nordrhein-westfalen-spezial-zollverein-industriekultur** — Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechz…
+13. **brandenburg-spezial-schloesser-gutsanlagen-restitution** — Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechze…
+14. **art-73-gg-laenderzustaendigkeit** — Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und…
+15. **denkmalschutz-saarland-spezial-voelklinger-huette-welterbe** — Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn g…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Denkmalschutzrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Denkmalschutzrecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Denkmalschutzrecht in Deutschland: Art. 14 GG und Art. 73 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Denkmalschutzrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Widerspruch und Klagewege im Denkmalrecht: Bearbeite den Fachpunkt im Skill widerspruch-und-klagewege und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Art. 14 GG — Eigentum und Denkmalschutz: Bearbeite den Fachpunkt im Skill art-14-gg-eigentum-und-denkmalschutz und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz: Bearbeite den Fachpunkt im Skill art-73-gg-laenderzustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Bauordnungsrechtliche Schnittstelle: Bearbeite den Fachpunkt im Skill bauordnungsrechtliche-schnittstelle und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Denkmalschutzrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -622,51 +739,6 @@ Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNES
 ## Ausgabeformat
 
 Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `bussgeld-ordnungswidrigkeitsverfahren`
-
-_Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Bussgeld- und Ordnungswidrigkeitsverfahren
-
-## Sanktionsregime
-
-- **Bussgeldtatbestaende der Landesgesetze**: Jede Landesregelung enthaelt einen Katalog mit Geldbussen bis zu sechsstelligen Betraegen fuer schwere Verstoesse. Bezug nehmen die Tatbestaende typischerweise auf unerlaubte Veraenderung, unerlaubte Beseitigung, unerlaubte Verbringung, Verstoss gegen Genehmigungsauflagen, Verstoss gegen Vorlagepflichten bei Bodenfunden.
-- **OWiG**: Verfahren nach den allgemeinen Regeln des Ordnungswidrigkeitenrechts; Verteidigung im Verwaltungsverfahren und im verwaltungsbehoerdlichen Bussgeldverfahren.
-- **Paragraf 304 StGB — Sachbeschaedigung**: Bei vorsaetzlicher Beschaedigung eines Denkmals kommt der Straftatbestand der gemeinschaedlichen Sachbeschaedigung in Betracht; die Voraussetzungen muessen gerichtsfest belegt sein.
-
-## Verteidigungslinien
-
-- **Tatbestandlich**: Wurde tatsaechlich eine erlaubnispflichtige Massnahme durchgefuehrt? Stand die Erlaubnis nach Aktenlage in Aussicht?
-- **Subjektiv**: Vorsatz oder Fahrlaessigkeit? In vielen Bussgeldtatbestaenden genuegt Fahrlaessigkeit; eine sorgfaeltige Befragung der Denkmalbehoerde vor Beginn der Massnahme spricht gegen Vorsatz und kann Fahrlaessigkeit ausschliessen.
-- **Verhaeltnismaessigkeit**: Bussgeldhoehe muss zu Tat und Taeterpersoenlichkeit verhaeltnismaessig sein; vorsaetzliche Beschaedigung eines Welterbedenkmals rechtfertigt regelmaessig den oberen Bussgeldrahmen, bagatellartige Ueberschreitungen den unteren.
-- **Nachtraegliche Erlaubnis**: In vielen Faellen ist die nachtraegliche Erlaubnisversagung kein hinreichender Bussgeldgrund, wenn die Massnahme materiell erlaubnisfaehig war.
-
-## Ablauf / Checkliste
-
-1. Bussgeldbescheid auswerten: Tatbestand, subjektive Seite, Hoehe, Rechtsbehelfsbelehrung.
-2. Einspruchsfrist beachten (regelmaessig zwei Wochen nach Paragrafen 67, 68 OWiG).
-3. Akteneinsicht beantragen, alle Behoerdenkontakte vor der Massnahme dokumentieren.
-4. Bei tatbestandlicher Bestreitbarkeit Einspruch einlegen; bei Reduktionsbedarf Verhandlungs-Schreiben an die Behoerde.
-5. Bei Anklagewegen nach Paragraf 304 StGB Strafverteidigerin koordinieren.
-
-## Quellenpflicht
-
-Konkrete Norm- und Rechtsprechungsanker werden vor jeder Ausgabe live in den amtlichen Datenbanken (gesetze-im-internet.de, Landesgesetz-Datenbanken, bundesverfassungsgericht.de, bverwg.de, Landesjustizportale) verifiziert; siehe references/zitierweise.md.
-
-## Ausgabeformat
-
-Strukturierte juristische Stellungnahme in vollständigen Sätzen mit konkreten Norm- und Rechtsprechungs-Ankern und ausdrücklichem Live-Verifikationshinweis pro Aktenzeichen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

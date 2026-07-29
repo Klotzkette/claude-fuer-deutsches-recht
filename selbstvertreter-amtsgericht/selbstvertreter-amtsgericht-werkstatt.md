@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern.
+### 3.1. Prozessroute
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prozessroute: Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen.
+### 3.2. Antrag und Streitgegenstand
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Antrag und Streitgegenstand: Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast.
+### 3.3. Relation
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Relation: Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln.
+### 3.4. Beweis
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Beweis: Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Augenscheinsbeweis: Wenn das Gericht selbst sehen muss | ZPO Paragraf 253 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Prozessroute | ZPO Paragraf 253 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Wer beweist was? Die Beweislast im Zivilprozess | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Antrag und Streitgegenstand | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind ZPO Paragraf 253; ZPO Paragraf 130, Paragraf 130a und Paragraf 130d.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Prozessroute.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum].
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,58 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
+### 15.1. Prozessroute
 
-Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht. Eine Sache (Auto, Wohnung, Foto) wird "in Augenschein genommen" — das Gericht sieht selbst. Diese Form ist nicht haeufig, aber bei konkreten Beobachtungs-Fragen wertvoll. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Gericht, Rechtsweg, Zuständigkeit, Streitwert, Frist, Einreichungsweg und Verfahrensstand sichern. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Wer beweist was? Die Beweislast im Zivilprozess
+### 15.2. Antrag und Streitgegenstand
 
-Im Zivilprozess gilt eine klare Grundregel: Wer eine Norm zu seinen Gunsten geltend macht, muss ihre Voraussetzungen beweisen. Wer das nicht kann, verliert. Diese Regel klingt einfach, ist aber in der Praxis oft unklar. Diese Skill ordnet die Beweislast und zeigt Ausnahmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klageziel, Lebenssachverhalt, Haupt- und Hilfsanträge, Nebenforderungen und Erledigung trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Sammeln Sie Beweise — bevor Sie klagen
+### 15.3. Relation
 
-Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen können (Beweislast). Bevor Sie Klage einreichen, sollten Sie Ihre Beweise zusammenstellen und sortieren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klägerstation auf Schlüssigkeit, Beklagtenstation auf Erheblichkeit, Replik auf Durchschlag und Beweisstation auf Beweislast prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Wann beginnt die Frist? Zustellung protokollieren
+### 15.4. Beweis
 
-Die meisten Prozessfristen beginnen mit der Zustellung eines Schriftstuecks (Klage, Urteil, Beschluss). Sie müssen also wissen, wann genau zugestellt wurde — sonst kennen Sie das Frist-Ende nicht. Diese Skill zeigt, wie Zustellung dokumentiert wird. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beweisthema, Beweismittel, Substantiierung, Beweislast, Beweiswürdigung und Beweisbeschluss aus der Akte entwickeln. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Fristen richtig berechnen
+### 15.5. Arbeitsprodukt
 
-Fristen sind das größte Risiko für Selbstvertreter. Eine verpasste Frist kann den ganzen Prozess kosten. Diese Skill zeigt, wie Sie eine Frist Tag-genau berechnen — nach den Regeln der Paragrafen 187, 188 BGB. - Sie haben eine Frist und wollen das genaue Ende-Datum. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klageschrift, Klageerwiderung, Hinweisverfügung, Beschluss, Urteil, Tenor, Anlagenverzeichnis oder Fristenblatt erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Ein eigenes Fristen-Buch führen
+### 15.6. Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
 
-Anwaltskanzleien führen Fristenkalender mit Mehrfach-Kontrollen, weil Versäumnisse fatale Folgen haben. Als Selbstvertreter brauchen Sie das auch — wenn auch in einfacherer Form. Diese Skill zeigt, wie Sie Ihre Fristen sauber verwalten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Augenscheinsbeweis ist die direkte Wahrnehmung einer Sache durch das Gericht.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Eine Frist verlaengern: Antrag richtig stellen
+### 15.7. Sammeln Sie Beweise — bevor Sie klagen
 
-Manche Fristen können Sie verlaengern lassen — andere nicht. Notfristen sind grundsätzlich nicht verlaengerbar. Richterliche Fristen und manche gesetzliche Fristen können Sie auf Antrag verlaengern. Diese Skill zeigt, wie Sie den Antrag stellen. - Sie schaffen die Frist nicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Was passiert, wenn Sie eine Tatsache nicht beweisen können?
-
-Im Zivilprozess gilt: Wer beweispflichtig ist und nicht beweist, verliert in dieser Tatsache. Das nennt sich Beweislast-Niederlage. Wenn diese Tatsache anspruchsbegründend ist, scheitert die ganze Klage. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Streitwert
-
-Der Streitwert ist der Geldwert des Streits. Er ist Basis für die Gerichtskosten und entscheidet über die sachliche Zuständigkeit (AG vs. LG). Sie müssen ihn in der Klage angeben (Paragraf 253 III ZPO). Bei Geldforderung ist es einfach: der Forderungsbetrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Vereinfachtes Verfahren bis 1.000 EUR (Paragraf 495a ZPO)
-
-Bei Streitwerten bis 1.000 EUR (Stand 2026) kann das Amtsgericht das Verfahren nach billigem Ermessen gestalten — sprich: vereinfachte Form, oft schriftlich ohne muendliche Verhandlung, geringere Förmlichkeit. Das spart Zeit und Geld. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Klage komplett zusammenstellen — Schritt für Schritt
-
-Sie haben Ihre Klageschrift fertig geschrieben und alle Beweisstuecke gesammelt. Jetzt geht es darum, daraus ein vollständiges Klage-Bundle zu machen, das Sie beim Amtsgericht einreichen können — gut sortiert, klar benannt, in der richtigen Reihenfolge und in der richtigen Zahl. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Klage und Anlagen als komplettes Paket für das Amtsgericht
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Klageerwiderung: jeden Punkt der Klage beantworten
-
-In Ihrer Klageerwiderung müssen Sie systematisch auf jeden erheblichen Punkt der Klage eingehen. Was Sie nicht ausdrücklich bestreiten, gilt als zugestanden (Paragraf 138 III ZPO). Das ist eine der haerteren Regeln des Zivilprozesses — und der haeufigste Anfängerfehler. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Sie sind verklagt: Welche Fristen laufen?
-
-Wenn Sie eine Klage zugestellt bekommen, beginnen sofort Fristen zu laufen. Das Gericht ordnet zwischen zwei Verfahrenswegen ein: schriftliches Vorverfahren (Paragraf 276 ZPO) oder früher erster Termin (Paragraf 275 ZPO). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Im Zivilprozess gilt: Wer eine Tatsache behauptet, muss sie beweisen können (Beweislast).. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

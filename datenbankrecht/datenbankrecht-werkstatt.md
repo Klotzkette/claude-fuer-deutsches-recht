@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Schutzgegenstand: Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen.
+### 3.1. Schutzgegenstand
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Schutzgegenstand: Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Investition und Inhaberschaft: Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen.
+### 3.2. Investition und Inhaberschaft
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Investition und Inhaberschaft: Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Nutzungsvorgang: Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben.
+### 3.3. Nutzungsvorgang
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Nutzungsvorgang: Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Einwendungen: Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen.
+### 3.4. Einwendungen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Einwendungen: Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | UrhG Paragraf 87a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Schutzgegenstand | UrhG Paragraf 87a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 87b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit | UrhG Paragraf 87b | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Investition und Inhaberschaft | UrhG Paragraf 87b | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -137,15 +137,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind UrhG Paragraf 87a; UrhG Paragraf 87b.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Schutzgegenstand.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Schutzgegenstand, Investition und Inhaberschaft, Nutzungsvorgang, Einwendungen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 09.11.2004 - C-203/02; EuGH, Urteil vom 09.10.2008 - C-304/07.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -175,58 +177,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
+### 15.1. Schutzgegenstand
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit
+### 15.2. Investition und Inhaberschaft
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke
+### 15.3. Nutzungsvorgang
 
-Datenbankrecht im Urhebervertragsrecht: Paragrafen 31-44 UrhG für Datenbankwerke (Paragraf 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (Paragraf 32 UrhG), Bestseller-Klausel (Paragraf 32a UrhG) und Verlagsrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
+### 15.4. Einwendungen
 
-Haftung und Gewährleistung für Datenbankqualität: Paragrafen 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (Paragraf 823 BGB) bei falschen Einträgen, Datenschutz-Grundverordnung-Berichtigungspflichten (Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch
+### 15.5. Arbeitsprodukt
 
-Dieser Skill bearbeitet API-Nutzung Rate Limits und Vertragsbruch im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag
+### 15.6. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
 
-Dieser Skill bearbeitet Preisvergleich-Abrufwerkzeuge und Plattformvertrag im Bereich Datenbankrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Datenbankrecht: Lizenzanalogie und Unterlassungsvertrag
+### 15.7. Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit
 
-Dieser Skill bearbeitet Lizenzanalogie und Unterlassungsvertrag im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Datenbankrecht: Datenbankrecht und Urhebervertragsrecht
-
-Dieser Skill bearbeitet Datenbankrecht und Urhebervertragsrecht im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Datenbankrecht: Datenqualität Haftung und Gewährleistung
-
-Dieser Skill bearbeitet Datenqualität Haftung und Gewährleistung im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug
-
-Dieser Skill bearbeitet Beweissicherung durch Testabruf-Werkzeug im Bereich Datenbankrecht. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
-
-Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach Paragraf 97 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Abmahnung prüfen im Datenbankrecht — Checkliste und Reaktionsoptionen
-
-Prüfung einer erhaltenen Datenbankrechts-Abmahnung: Berechtigungs-Check des Abmahnenden (Paragraf 87a Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
+### 3.1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
+### 3.2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
+### 3.3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
+### 3.4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Vertragsmarkup und Key Issues | BGB Paragraf 705 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Gesellschaftsform, Registerlage | BGB Paragraf 705 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 105 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis | HGB Paragraf 105 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Satzung, Gesellschaftervereinbarung | HGB Paragraf 105 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,11 +96,11 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH, Urteil vom 29.01.2001 - II ZR 331/00 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten |
-| BGH, Urteil vom 21.04.1997 - II ZR 175/95 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Nach ARAG/Garmenbeck muss der Aufsichtsrat mögliche Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich |
-| BGH, Urteil vom 16.07.2007 - II ZR 3/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung gegenüber der Gesellschaft nach Paragraf 826 BGB ein |
-| BGH, Urteil vom 20.11.2018 - II ZR 12/17 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die formelle Legitimationswirkung der Gesellschafterliste nach Paragraf 16 Absatz 1 GmbHG greift auch bei eingezogenen |
 | BGH Urt. v. 15.10.2007 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung Paragraf 3 Abs. 2 GmbHG zwingend) |
+| BGH Urt. v. 16.02.1981 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | II ZR 168/79 BGHZ 80, 129 (Sachkapitalerhöhung Beschluss mit satzungsändernder Wirkung) |
+| BGH Urt. v. 13.03.1978 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | II ZR 142/76 BGHZ 71, 40 (Kali+Salz Bezugsrechtsausschluss) |
+| BFH Urt. v. 27.05.2009 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | I R 53/08 BFHE 226, 500 BStBl II 2010, 1004 (Aufgeld als Anschaffungskosten) |
+| BFH Urt. v. 03.05.2023 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | IX R 12/22 (Überpari-Emission kein Paragraf 42 AO-Missbrauch) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -123,10 +123,6 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
-- BGH, Urteil vom 21.04.1997 - II ZR 175/95: Nach ARAG/Garmenbeck muss der Aufsichtsrat mögliche Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich prüfen und grundsätzlich verfolgen; ein Absehen verlangt gewichtige Gründe des Gesellschaftswohls.
-- BGH, Urteil vom 16.07.2007 - II ZR 3/04: Trihotel ordnet den existenzvernichtenden Eingriff als Innenhaftung gegenüber der Gesellschaft nach Paragraf 826 BGB ein.
-- BGH, Urteil vom 20.11.2018 - II ZR 12/17: Die formelle Legitimationswirkung der Gesellschafterliste nach Paragraf 16 Absatz 1 GmbHG greift auch bei eingezogenen Geschäftsanteilen.
 - BGH Urt. v. 15.10.2007 — II ZR 216/06 GmbHR 2008, 147 (Sachagio bei Gründung Paragraf 3 Abs. 2 GmbHG zwingend).
 - BGH Urt. v. 16.02.1981 — II ZR 168/79 BGHZ 80, 129 (Sachkapitalerhöhung Beschluss mit satzungsändernder Wirkung).
 - BGH Urt. v. 13.03.1978 — II ZR 142/76 BGHZ 71, 40 (Kali+Salz Bezugsrechtsausschluss).
@@ -143,15 +139,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 705; HGB Paragraf 105.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Gesellschaftsform, Registerlage.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH Urt. v. 15.10.2007; BGH Urt. v. 16.02.1981.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -181,58 +179,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Vertragsmarkup und Key Issues
+### 15.1. Gesellschaftsform, Registerlage
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Agio und Kapitalerhöhungsstruktur
+### 15.2. Satzung, Gesellschaftervereinbarung
 
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Automationen und Monitoring
+### 15.3. Organpflichten, Treuepflichten
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+### 15.4. Transaktionsschritte, Notarform
 
-Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren. 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Corporate Billing Narratives
+### 15.5. Arbeitsprodukt
 
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Board Paper und Business Judgment
+### 15.6. Vertragsmarkup und Key Issues
 
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Board Paper: Rechtsprechungsradar GmbH-Governance
+### 15.7. Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
 
-Nutze diesen Skill, wenn ein Board Paper, Partner-Memo oder Deal-Risikovermerk eine aktuelle gesellschaftsrechtliche Entscheidung nicht nur zitieren, sondern für Signing, Closing, Register, Organhaftung und Verhandlungsposition nutzbar machen soll. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Closing Bible und Archiv
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Konflikt-, GwG- und Sanktionscheck
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Corporate: Erstprüfung, Rollenklärung und Mandatsziel
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Multijurisdiktionale Übersetzungen und Dokumente
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Datenqualität und Qualitätskontrolle im M&A-Mandat
-
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Datenraum-Aufbau
-
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Datenraum Gap-Analyse und Clean Room
-
-Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Normen: Paragrafen 3, Paragrafen 76, Paragrafen 105. - Entscheidungs-/Quellenanker: Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

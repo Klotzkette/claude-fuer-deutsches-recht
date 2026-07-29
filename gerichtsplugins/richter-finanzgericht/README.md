@@ -108,7 +108,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 3. Prüfung, Anspruch und Subsumtion | [`05-est-pruefungsschema`](skills/05-est-pruefungsschema/SKILL.md), [`06-ust-pruefungsschema`](skills/06-ust-pruefungsschema/SKILL.md), [`08-schaetzung-und-betriebspruefung`](skills/08-schaetzung-und-betriebspruefung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`05-est-pruefungsschema`](skills/05-est-pruefungsschema/SKILL.md), [`06-ust-pruefungsschema`](skills/06-ust-pruefungsschema/SKILL.md), [`08-schaetzung-und-betriebspruefung`](skills/08-schaetzung-und-betriebspruefung/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`01-zulaessigkeit-finanzgerichtsklage`](skills/01-zulaessigkeit-finanzgerichtsklage/SKILL.md), [`02-amtsermittlung-finanzgericht`](skills/02-amtsermittlung-finanzgericht/SKILL.md), [`04-steuerbescheid-pruefen`](skills/04-steuerbescheid-pruefen/SKILL.md), [`09-urteil-finanzgericht-und-revision`](skills/09-urteil-finanzgericht-und-revision/SKILL.md), [`10-entscheidungsvorschlag-finanzgericht`](skills/10-entscheidungsvorschlag-finanzgericht/SKILL.md), [`v392-praxisraster-richter-finanzgericht`](skills/v392-praxisraster-richter-finanzgericht/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`03-aussetzung-der-vollziehung`](skills/03-aussetzung-der-vollziehung/SKILL.md), [`07-koerperschaft-und-gewerbesteuer`](skills/07-koerperschaft-und-gewerbesteuer/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
@@ -118,7 +118,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -133,6 +133,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-urteil-finanzgericht-und-revision`](skills/09-urteil-finanzgericht-und-revision/SKILL.md) | Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`10-entscheidungsvorschlag-finanzgericht`](skills/10-entscheidungsvorschlag-finanzgericht/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Finanzgericht) in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Finanzgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-richter-finanzgericht`](skills/v392-praxisraster-richter-finanzgericht/SKILL.md) | Wenn es um Praxisraster Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 65 Skills des Plugins `rechtstheorie-rechtsphilosophie`.
+Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `rechtstheorie-rechtsphilosophie`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-2. **methodenkritik-larenz-canaris-ordnung-system** — Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geh…
-3. **dworkin-law-as-integrity-hard-cases** — Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet …
-4. **besitzdogmatik-historische-schule** — Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachv…
-5. **wissensproblem-dezentrale-information** — Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverh…
-6. **regeln-tacit-knowledge-kognitive-entlastung** — Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
-7. **staat-ordnungsmacht-anti-autoritaerer-check** — Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
-8. **legalitaetsprinzipien-als-rechtsstaatsmotor** — Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, N…
-9. **v392-lesefreude-rechtstheorie-rechtsphilosophie** — Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhal…
-10. **daseinsvorsorge-verwaltungsrealismus** — Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Nor…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Rechtstheorie Rechtsphilosophie ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
+2. **kaltstart-triage** — Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
+3. **methodenkritik-larenz-canaris-ordnung-system** — Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geh…
+4. **dworkin-law-as-integrity-hard-cases** — Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet …
+5. **besitzdogmatik-historische-schule** — Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachv…
+6. **wissensproblem-dezentrale-information** — Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverh…
+7. **regeln-tacit-knowledge-kognitive-entlastung** — Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
+8. **staat-ordnungsmacht-anti-autoritaerer-check** — Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
+9. **legalitaetsprinzipien-als-rechtsstaatsmotor** — Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, N…
+10. **v392-lesefreude-rechtstheorie-rechtsphilosophie** — Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhal…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Rechtstheorie Rechtsphilosophie ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Rechtstheorie Rechtsphilosophie
+
+## 1. Direktstart
+
+Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+
+Pluginauftrag: Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Rechtstheorie Rechtsphilosophie in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
+| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen |
+| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen |
+| Subsumtion und Gegenprobe | für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen |
+| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Lesefreude Rechtstheorie und Rechtsphilosophie: Bearbeite den Fachpunkt im Skill v392-lesefreude-rechtstheorie-rechtsphilosophie und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Systemdenken und Kohärenz: Bearbeite den Fachpunkt im Skill systemdenken-kohaerenz-widerspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Kanzlei-Briefing Rechtstheorie: Bearbeite den Fachpunkt im Skill kanzlei-briefing-rechtstheorie und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Abwägung und Rationalität: Bearbeite den Fachpunkt im Skill abwaegung-transparenz-rationalitaet und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
+4.2. BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
+4.3. ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
+4.4. ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
+4.5. ZPO Paragraf 253: bestimmter Antrag und hinreichend bestimmter Streitgegenstand.
+4.6. ZPO Paragraf 286: freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
+7.2. Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
+7.3. Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
+7.4. Welches Gegenargument verändert das Ergebnis tatsächlich.
+7.5. Welche Form und Begründungstiefe braucht das gewünschte Endprodukt.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis; Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+10.2. Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+10.3. Zitierkontrolle: Aussage, Quelle, Gericht oder Autor, Datum, Aktenzeichen, Fundstelle, Randnummer, Aussagegehalt und Status.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle verwendbar?
 
 ---
 
@@ -491,72 +612,6 @@ _Wenn es um Lesefreude Rechtstheorie und Rechtsphilosophie in Rechtstheorie und 
 4. Dogmatische Funktion benennen.
 5. Rezeptionslinie und heutige Grenze sauber trennen.
 6. Mit einer Merksatz-Synopse schließen.
-
----
-
-## Skill: `daseinsvorsorge-verwaltungsrealismus`
-
-_Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Daseinsvorsorge und Verwaltungsrealismus
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Daseinsvorsorge und Verwaltungsrealismus
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Welche öffentliche Leistung oder Infrastruktur steht im Zentrum?
-2. Wer ist abhängig: Bürger, Unternehmen, Mieter, Patienten, Schüler, Verbraucher, Plattformnutzer, Energieabnehmer?
-3. Welche Verwaltungsmacht entsteht durch Versorgung, Zugang, Tarife, Daten, Genehmigung oder Ausschluss?
-4. Welche Rechtsform wird verwendet: Gesetz, Verwaltungsakt, Vertrag, Satzung, Beleihung, Konzession, Vergabe, Public-Private-Partnership?
-
-## Prüfprogramm
-
-1. **Aufgabe beschreiben:** Versorgung, Schutz, Kontrolle, Planung, Marktordnung oder Krisenbewältigung.
-2. **Rechtsform feststellen:** Welche Form bindet wen?
-3. **Abhängigkeit messen:** Gibt es Ausweichmöglichkeiten oder faktische Monopole?
-4. **Grundrechte prüfen:** Gleichheit, Freiheit, Eigentum, Beruf, Datenschutz, effektiver Rechtsschutz.
-5. **Kontrolle sichern:** Transparenz, Begründung, Akteneinsicht, Widerspruch, Klage, parlamentarische Kontrolle, Rechnungshof, Datenschutzaufsicht.
-6. **Alternativen prüfen:** Mildere Steuerungsform, klarere Norm, bessere Frist, weniger Datenerhebung, weniger Exekutivermessen.
-
-## Leitgedanke
-
-Verwaltungsrealismus ist nützlich, solange er Wirklichkeit in Recht übersetzt. Er wird gefährlich, wenn aus `die Verwaltung muss das leisten` die Behauptung wird, Rechtsform und Grundrechte seien zweitrangig.
-
-## Typische Fälle
-
-- Energie- und Wasserversorgung;
-- öffentliche IT-Infrastruktur;
-- Krankenhausplanung und Gesundheitsversorgung;
-- Verkehrsnetze, Bahnhöfe, Ladeinfrastruktur;
-- Schul- und Hochschulorganisation;
-- Plattform- oder Datenzugang im öffentlichen Auftrag;
-- Krisenbeschaffung und Notfallverwaltung.
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ---
 

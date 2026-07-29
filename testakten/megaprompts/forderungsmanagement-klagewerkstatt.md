@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 85 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
+Diese Vollprüfung enthält top-10 von 86 Skills des Plugins `forderungsmanagement-klagewerkstatt`.
 
 ## Inhaltsverzeichnis
 
-1. **zahlungsklage-versandmappe-endfertigen** — Endfertigt Zahlungsklage, Mahnübergang, Urkundenprozess und Erwiderung im Forderungsmanagement: prüft Anspruch, Fälligke…
-2. **kaltstart-triage** — Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unt…
-3. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Wenn es um Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klä…
-4. **zahlungsklage-behoerden-register** — Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerk…
-5. **spezial-forderungsmanagement-tatbestand-beweis-und-belege** — Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstat…
-6. **spezial-klagefreigabe-belegte-forderung** — Wenn es um Klagefreigabe nur für fällige, belegte und prozessreife Forderungen in Forderungsmanagement — Klagewerkstatt …
-7. **spezial-mahnverfahren-beweislast-und-darlegungslast** — Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: …
-8. **spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste** — Wenn es um Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung in Forderungsmanagement — Klagewerkstatt geht: e…
-9. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstel…
-10. **spezial-forderungen-mehrparteien-konflikt-und-interessen** — Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstell…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Forderungsmanagement Klagewerkstatt ein juristisches Arbeitsprodukt tragfähig begründet werde…
+2. **zahlungsklage-versandmappe-endfertigen** — Endfertigt Zahlungsklage, Mahnübergang, Urkundenprozess und Erwiderung im Forderungsmanagement: prüft Anspruch, Fälligke…
+3. **kaltstart-triage** — Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unt…
+4. **spezial-klagewerkstatt-erstpruefung-und-mandatsziel** — Wenn es um Klagewerkstatt: Erstprüfung, Rollenklärung und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klä…
+5. **zahlungsklage-behoerden-register** — Wenn es um Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts in Forderungsmanagement — Klagewerk…
+6. **spezial-forderungsmanagement-tatbestand-beweis-und-belege** — Wenn es um Forderungsmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forderungsmanagement — Klagewerkstat…
+7. **spezial-klagefreigabe-belegte-forderung** — Wenn es um Klagefreigabe nur für fällige, belegte und prozessreife Forderungen in Forderungsmanagement — Klagewerkstatt …
+8. **spezial-mahnverfahren-beweislast-und-darlegungslast** — Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: …
+9. **spezial-mahnvorlauf-dokumentenmatrix-und-lueckenliste** — Wenn es um Mahnvorlauf: Dokumentenmatrix, Lückenliste und Nachforderung in Forderungsmanagement — Klagewerkstatt geht: e…
+10. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstel…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Forderungsmanagement Klagewerkstatt ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Forderungsmanagement Klagewerkstatt
+
+## 1. Direktstart
+
+Arbeite als Zivilrechtlicher Forderungsbearbeiter für Vertrag, Rechnung, Fälligkeit, Verzug, Einwendungen, Mahnung, Klage, Titel und Vollstreckung.
+
+Pluginauftrag: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Forderungsmanagement Klagewerkstatt in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Aktenkern | Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen |
+| Anspruch | Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen |
+| Einwendungen | Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen |
+| Prozess und Titel | Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen |
+| Arbeitsprodukt | Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Anspruchsschriftsatz Bausteine: Bearbeite den Fachpunkt im Skill anspruchsschriftsatz-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Vollstreckungsbescheid und Folgen: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-folgen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Vollstreckungsbescheid: Bearbeite den Fachpunkt im Skill vollstreckungsbescheid-und-folgen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Zahlungsklage gegen Behörden und juristische Personen öffentlichen Rechts: Bearbeite den Fachpunkt im Skill zahlungsklage-behoerden-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 241 und Paragraf 280: Pflichtverletzung und Schadensersatz.
+4.2. BGB Paragraf 286 und Paragraf 288: Verzug und Verzugszinsen.
+4.3. BGB Paragraf 362: Erfüllung als Einwendung.
+4.4. BGB Paragraf 387: Aufrechnung.
+4.5. ZPO Paragraf 253: Mindestinhalt der Klageschrift.
+4.6. ZPO Paragraf 138: Erklärungslast und Wahrheitspflicht.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
+5.2. BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
+5.3. BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de
+5.4. BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Forderung ist aus welchem Vertrag fällig.
+7.2. Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
+7.3. Welche Einwendungen sind substantiiert und beweisbar.
+7.4. Welche Nebenforderungen sind rechnerisch und rechtlich haltbar.
+7.5. Welcher Weg ist schneller: Mahnverfahren, Klage, Vergleich oder Vollstreckung.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Aktenkern, Anspruch, Einwendungen, Prozess und Titel: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag verwendbar?
 
 ---
 
@@ -556,64 +674,6 @@ Die Beklagte befand sich bei Einreichung der Klage in Schuldnerverzug. Die Kläg
 - [ ] Keine vorschnelle Erledigungserklärung oder Klagerücknahme abgegeben.
 - [ ] Antrag ist als materiell-rechtliche Feststellung formuliert.
 - [ ] Risiko doppelter Kostengeltendmachung ist geprüft.
-
----
-
-## Skill: `spezial-forderungen-mehrparteien-konflikt-und-interessen`
-
-_Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Forderungen: Mehrparteienkonflikt und Interessenmatrix
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `forderungsmanagement-klagewerkstatt`. Ausgangspunkt ist: Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.
-
-Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Forderungen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Forderungen.
-- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
-- **Plugin-Rahmen:** Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und b....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forderungen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 

@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `markenrecht-fashion-luxus`.
+Diese Vollprüfung enthält top-10 von 89 Skills des Plugins `markenrecht-fashion-luxus`.
 
 ## Inhaltsverzeichnis
 
-1. **euipo-e-curia-versandmappe-endfertigen** — Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
-4. **markenrecht-erstpruefung-und-mandatsziel** — Wenn es um Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel in markenrecht-fashion-luxus geht: klärt Rolle, Ziel,…
-5. **rechtsabteilung-plattformhaftung-nach-louboutin-amazon** — Wenn es um Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon in markenrecht-fashion-luxus geht: ordnet Sachverhalt…
-6. **geografische-angaben-kollektiv-gewaehrleistungsmarke** — Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverh…
-7. **rechtsabteilung-influencer-brand-use-und-erschoepfung** — Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
-8. **rechtsabteilung-lookalike-relative** — Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
-9. **discounter-graumarkt-dpma-bpatg-widerspruch** — Wenn es um Erschöpfung, Graumarkt und Brezelmann-Strategie in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, …
-10. **selektiver-vertrieb-coty** — Wenn es um Selektiver Vertrieb für Luxusgüter nach Coty in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Bew…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Markenrecht Fashion Luxus ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
+2. **euipo-e-curia-versandmappe-endfertigen** — Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
+4. **kaltstart-triage** — Wenn es um Kaltstart Triage in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
+5. **markenrecht-erstpruefung-und-mandatsziel** — Wenn es um Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel in markenrecht-fashion-luxus geht: klärt Rolle, Ziel,…
+6. **rechtsabteilung-plattformhaftung-nach-louboutin-amazon** — Wenn es um Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon in markenrecht-fashion-luxus geht: ordnet Sachverhalt…
+7. **geografische-angaben-kollektiv-gewaehrleistungsmarke** — Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverh…
+8. **rechtsabteilung-influencer-brand-use-und-erschoepfung** — Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
+9. **rechtsabteilung-lookalike-relative** — Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
+10. **discounter-graumarkt-dpma-bpatg-widerspruch** — Wenn es um Erschöpfung, Graumarkt und Brezelmann-Strategie in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Markenrecht Fashion Luxus ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Markenrecht Fashion Luxus
+
+## 1. Direktstart
+
+Arbeite als Markenrechtlicher Bearbeiter für DPMA- und EUIPO-Anmeldung, Widerspruch, Benutzungsnachweis, Löschung, Verletzung, Erschöpfung, Lizenz und Portfolioführung.
+
+Pluginauftrag: Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Markenrecht Fashion Luxus in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Zeichen und Schutzweg | Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen |
+| Eintragungsfähigkeit | Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen |
+| Kollision | Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen |
+| Benutzung | Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen |
+| Verfahren und Produkt | Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Markenrechtliche Abmahnung und Unterlassungserklärung: Bearbeite den Fachpunkt im Skill abmahnung-markenrecht-euipo-beschwerdekammer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Klageanträge im Markenrecht: Bearbeite den Fachpunkt im Skill klageantraege-auskunft-madrid-protokoll und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Chronologie und Belegmatrix: Bearbeite den Fachpunkt im Skill markenrecht-benutzungsschonfrist-loeschung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. AGB im Händlervertrag für Luxus-Selektivvertrieb: Bearbeite den Fachpunkt im Skill agb-haendlervertrag-luxus und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. MarkenG Paragraf 4: Entstehung des Markenschutzes durch Eintragung, Benutzung oder notorische Bekanntheit.
+4.2. MarkenG Paragraf 8 und Paragraf 9: absolute und relative Schutzhindernisse strikt trennen.
+4.3. MarkenG Paragraf 14: Ausschließlichkeitsrecht und Verletzungstatbestände.
+4.4. MarkenG Paragraf 42 und Paragraf 43: Widerspruch, Benutzungsschonfrist und Benutzungsnachweis.
+4.5. MarkenG Paragraf 49 bis Paragraf 51: Verfall, Nichtigkeit und ältere Rechte.
+4.6. Unionsmarkenverordnung Artikel 8, 18, 46, 47, 58 und 60: relative Hindernisse, Benutzung, Widerspruch, Verfall und Nichtigkeit vor dem EUIPO.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 11.11.1997 - C-251/95: SABEL verlangt eine umfassende Beurteilung der Verwechslungsgefahr; bloße Assoziation genügt nicht.
+5.2. EuGH, Urteil vom 29.09.1998 - C-39/97: Canon verbindet Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und Kennzeichnungskraft im Wechselwirkungsgrundsatz.
+5.3. EuGH, Urteil vom 22.06.1999 - C-342/97: Lloyd bestimmt den normal informierten, angemessen aufmerksamen und verständigen Durchschnittsverbraucher als Bezugspunkt.
+5.4. EuGH, Urteil vom 06.10.2005 - C-120/04: Medion erfasst die selbständig kennzeichnende Stellung eines Bestandteils in einer zusammengesetzten Marke.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Zeichen beansprucht für welche Waren und Dienstleistungen welchen Zeitrang.
+7.2. Welches absolute oder relative Hindernis ist tatsächlich einschlägig.
+7.3. Welche Benutzung ist in welchem Zeitraum, Gebiet und Warenumfang belegt.
+7.4. Welche konkrete Verletzungshandlung ist markenmäßig und welche Einrede greift.
+7.5. Welcher Antrag und welches Waren- oder Dienstleistungsverzeichnis sind verfahrensfest.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Zeichen und Schutzweg, Eintragungsfähigkeit, Kollision, Benutzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz verwendbar?
 
 ---
 
@@ -699,131 +817,6 @@ Bevor rechtliche Schritte eingeleitet werden, klaere:
 2. Ist die Graumarktware unveraendert oder wurde sie umgepackt/neuetikettiert (§ 24 II MarkenG)?
 3. Liegt ein legitimes Interesse des Markeninhabers vor, das dem Erschoepfungseinwand entgegensteht?
 4. Stammen die Waren aus einem Parallel-Import aus Nicht-EWR-Ländern (kein Erschoepfungsschutz)?
-
-## Aktuelle Rechtsprechung
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `selektiver-vertrieb-coty`
-
-_Wenn es um Selektiver Vertrieb für Luxusgüter nach Coty in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Selektiver Vertrieb für Luxusgüter nach Coty
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
-- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Selektiver Vertrieb für Luxusgüter nach Coty
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Als Anwältin entwerfe ich selektive Vertriebsverträge, die Coty-konform sind, kartellrechtlich standhalten und die Exklusivität von klôtzzkètté SA absichern.
-
-## Rechtsrahmen
-
-- **Art. 101 AEUV:** Kartellverbot — selektive Vertriebssysteme können unter Art. 101 I fallen, sind aber in der Regel nach Art. 101 III freigestellt
-- **Vertikal-GVO (EU) 2022/720:** Gruppenfreistellung für vertikale Vereinbarungen; Marktanteilsschwelle 30 % für Lieferant und Händler; vgl. Skill `vertikale-preisbindung-vbe-vo`
-- **Art. 4 lit. b/c Vertikal-GVO:** Hardcore-Beschränkungen (auch bei Selektivvertrieb)
-- **§ 1 GWB:** Deutsches Kartellverbot (inhaltsgleich mit Art. 101 AEUV für DE-Markt)
-
-## Prüfungsschritte
-
-1. **Selektionskriterien formulieren — Zulässigkeitstest nach Coty:**
-
- **Pflicht-Voraussetzungen (Metro-Kriterien, bestätigt durch Coty):**
- - Kriterium muss durch die Natur der Ware gerechtfertigt sein (qualitative Begründung)
- - Kriterium muss einheitlich und nicht-diskriminierend angewendet werden
- - Kriterium muss verhältnismäßig sein (kein Übermaß)
-
- **Typische qualitative Kriterien für klôtzzkètté:**
- - Flagship-Store oder Shop-in-Shop mit definiertem Design-Standard (Lichtkonzept, Bodenbelag, Display-Materialien nach Brand-Manual)
- - Ausgebildetes Verkaufspersonal (Mindest-Schulungsstunden: 8 h/Jahr bei klôtzzkètté-Akademie)
- - Keine Mischung mit Discount-Waren in unmittelbarer Präsenz
- - Kein Verkauf über Drittmarktplätze ohne Zustimmung klôtzzkètté (Coty-Plattformverbot)
- - Geheimhaltung von Einkaufspreisen (MFN-Klausel — vgl. Skill `agb-haendlervertrag-luxus`)
-
-2. **Plattformverbot formulieren:**
- - Klausel: "Händler darf Vertragsware nicht über Online-Marktplätze Dritter (insbesondere Donauzon, [weitere]) anbieten, es sei denn, klôtzzkètté SA stimmt vorher schriftlich zu."
- - Begründung: Marktplätze entsprechen nicht den Qualitätsstandards des Selektivvertriebssystems; fehlende Kontrolle über Markenpräsentation
- - Coty-Linie: Luxusimage-Argument genügt; kein generelles Internet-Verbot (eigener Online-Shop des Händlers erlaubt)
-
-3. **Kartellrechtliche Freistellung prüfen:**
- - Marktanteil klôtzzkètté < 30 %? → Vertikal-GVO-Freistellung greift automatisch
- - Marktanteil > 30 %? → Einzelfallprüfung nach Art. 101 III AEUV / § 2 GWB
-
-4. **Vertragsdokumentation:**
- - Selektiver Händlervertrag mit vollständigen Kriterien-Katalog (Anlage)
- - Schulungsnachweispflicht (jährlich)
- - Revisionspflicht (klôtzzkètté darf unangekündigt oder mit 24h-Vorankündigung prüfen)
- - Laufzeit: 2-3 Jahre, Kündigung mit 6 Monaten Frist
-
-## Falltypische Konstellationen
-
-### Konstellation 1: Vertragshändler Müller Parfümerie verkauft über Donauzon
-Müller Parfümerie (autorisierter klôtzzkètté-Händler) verkauft Produkte über Donauzon-Marketplace. Verstoß gegen Plattformverbot im Händlervertrag. Abmahnung, Vertragsstrafe (vgl. `agb-haendlervertrag-luxus`), Kündigung des Händlervertrags bei Wiederholung. Rechtliche Basis: Coty-Plattformverbot, kein Kartellrechtsproblem bei Luxusgütern.
-
-### Konstellation 2: Neuer Händlerantrag von Discount-Kette
-Brezelmann Discount KG beantragt Aufnahme ins Händlernetz. Ablehnung auf Basis qualitativer Kriterien (fehlende Schulungskapazität, nicht-konformes Store-Design, Mischsortiment mit Discountware). Dokumentation der Ablehnung mit konkreten Kriterienmängeln (Diskriminierungsschutz: gleiche Maßstäbe für alle Bewerber).
-
-### Konstellation 3: Online-Pure-Player beantragt Partnerschaft
-Reines Online-Unternehmen ohne physischen Store beantragt Händlerpartnerschaft. Nach Coty: Eigener Online-Shop zulässig; aber: Selektion nach Qualitätskriterien für Online-Präsentation (eigene Domain, klôtzzkètté-konforme Produktpräsentation, kein Mischsortiment auf Landing Page). Partnerschaft möglich bei Erfüllung der Qualitätskriterien für Online-Vertrieb.
-
-## Quellen-Hardening
-
-- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
-
-## Templates
-
-### Plattformverbot-Klausel (Händlervertrag)
-```
-§ [X] Verbot des Verkaufs über Drittmarktplätze
-
-Der Händler verpflichtet sich, Vertragsprodukte ausschließlich in
-seinen eigenen stationären und Online-Verkaufskanälen (eigene Website
-mit eigenständiger Domain) zu vertreiben.
-
-Der Verkauf über Drittmarktplätze (insbesondere Donauzon, Amazon,
-eBay, Alibaba oder vergleichbare Plattformen Dritter) ist ohne
-vorherige schriftliche Zustimmung von klôtzzkètté SA untersagt.
-
-Begründung: Die Anforderungen dieser Drittmarktplätze sind nicht
-mit den Qualitäts- und Präsentationsstandards des klôtzzkètté-
-Selektivvertriebssystems vereinbar.
-```
-
-## Verweise auf andere Skills
-
-- `vertikale-preisbindung-vbe-vo` — Preisbindung im selektiven Vertrieb
-- `agb-haendlervertrag-luxus` — AGB-Gestaltung für Händlerverträge
-- `discounter-und-graumarkt-brezelmann` — Erschöpfung und Graumarkt
-- `plattform-piraterie-donauzon` — Verletzungsdurchsetzung gegen Plattform
-
-## Risiken & Stolperfallen
-
-- **Diskriminierungsverbot:** Kriterien müssen auf ALLE Bewerber gleich angewendet werden — Ausnahmen für bevorzugte Händler begründen kartellrechtliche Angreifbarkeit
-- **Jenseits der 30 %-Schwelle:** Bei höherem Marktanteil entfällt die Vertikal-GVO-Freistellung — Einzelfallprüfung erforderlich
-- **Coty gilt nur für Luxus:** Für Standard-Konsumgüter gelten andere Maßstäbe; klôtzzkètté muss das Luxus-Image kontinuierlich pflegen und belegen
-- **Pierre Fabre-Grenze:** Generelles Internet-Verbot bleibt unzulässig; nur Drittmarktplatz-Verbot ist nach Coty zulässig
-
-## Triage-Fragen zum selektiven Vertrieb
-
-Bevor das selektive Vertriebssystem eingerichtet oder ein Haendler ausgeschlossen wird, klaere:
-1. Sind die Selektionskriterien qualitativer Natur (Luxusimage, Service-Level) und nicht bloss quantitativ?
-2. Werden die Kriterien einheitlich und nichtdiskriminierend auf alle Haendler angewendet?
-3. Ist der Ausschluss von Online-Marktplaetzen auf den Schutz des Luxusimages gegruendet (Coty-Linie) oder pauschal?
-4. Besteht ein Marktanteil unter 30 % (Freistellungsschwelle Vertikal-GVO) — wenn nicht, Einzelfallpruefung erforderlich?
 
 ## Aktuelle Rechtsprechung
 

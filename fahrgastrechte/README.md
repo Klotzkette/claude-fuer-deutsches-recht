@@ -58,6 +58,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`ticket-und-reisedaten-erfassen`](skills/ticket-und-reisedaten-erfassen/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`klage-amtsgericht-fahrgast`](skills/klage-amtsgericht-fahrgast/SKILL.md), [`widerspruch`](skills/widerspruch/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`anlagen-bauen`](skills/anlagen-bauen/SKILL.md), [`db-ablehnungsgruende-pruefen`](skills/db-ablehnungsgruende-pruefen/SKILL.md), [`eigenbefoerderung-und-betreuung-art-18`](skills/eigenbefoerderung-und-betreuung-art-18/SKILL.md), [`einfuehrung-vo-2021-782`](skills/einfuehrung-vo-2021-782/SKILL.md), [`entschaedigung-berechnen`](skills/entschaedigung-berechnen/SKILL.md), [`forderung-an-db-erste-stufe`](skills/forderung-an-db-erste-stufe/SKILL.md), [`schlichtung-reise-verkehr-anrufen`](skills/schlichtung-reise-verkehr-anrufen/SKILL.md), [`verspaetung-und-anschlussverlust-einordnen`](skills/verspaetung-und-anschlussverlust-einordnen/SKILL.md), [`vollmacht-mitreisende`](skills/vollmacht-mitreisende/SKILL.md) |
 
@@ -67,7 +68,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -77,6 +78,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`einfuehrung-vo-2021-782`](skills/einfuehrung-vo-2021-782/SKILL.md) | Wenn es um Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`entschaedigung-berechnen`](skills/entschaedigung-berechnen/SKILL.md) | Wenn es um Entschädigung berechnen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`forderung-an-db-erste-stufe`](skills/forderung-an-db-erste-stufe/SKILL.md) | Wenn es um Forderungsschreiben — Erste Stufe in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Fahrgastrechte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Kaltstart Triage in Fahrgastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`klage-amtsgericht-fahrgast`](skills/klage-amtsgericht-fahrgast/SKILL.md) | Wenn es um Klage zum Amtsgericht (Fahrgastrechte) in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | [`schlichtung-reise-verkehr-anrufen`](skills/schlichtung-reise-verkehr-anrufen/SKILL.md) | Wenn es um Schlichtungsstelle Reise & Verkehr e.V. anrufen in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

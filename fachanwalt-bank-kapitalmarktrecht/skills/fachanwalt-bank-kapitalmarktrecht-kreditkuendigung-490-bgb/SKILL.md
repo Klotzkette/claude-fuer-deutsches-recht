@@ -54,7 +54,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand Volltext aufrufen):
 | Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
 |---|---|---|---|---|
 | BGH XI. ZS | XI ZR 22/24 | 20.5.2025 | Verlust des Vorfälligkeitsentschädigungs-Anspruchs bei intransparenter Klausel im Immobiliardarlehen — Bedeutung auch für Kündigungsfolgen (Rückzahlung bereits gezahlter VFE) | juris.bundesgerichtshof.de |
-| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Referenzzins für Zinsanpassungen Prämiensparvertrag | bundesgerichtshof.de PM Nr. 225/2025 |
+| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Pflichtangaben und Effektivzins beim Immobiliar-Verbraucherdarlehen; Bedeutung für Widerrufsfrist und Abwicklung | bundesgerichtshof.de |
 
 Hinweis: Für die spezifischen Anforderungen des § 490 BGB (außerordentliche Kündigung wegen wesentlicher Verschlechterung) konkrete Aktenzeichen XI. ZS / III. ZS BGH vor Versand in juris.bundesgerichtshof.de oder dejure.org aufrufen.
 

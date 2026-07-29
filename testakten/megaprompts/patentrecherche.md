@@ -2,25 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 57 Skills des Plugins `patentrecherche`.
+Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `patentrecherche`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in patentrecherche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten…
-2. **patentrecherche-erstpruefung-und-mandatsziel** — Wenn es um Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel in patentrecherche geht: klärt Rolle, Ziel, Frist…
-3. **dpmaregister-epue-beweislast-erfinderische** — Wenn es um Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine in patentrecherche geht: erstellt den passenden Entwurf…
-4. **recherche-tools-marktuebersicht** — Wenn es um Recherche-Tools: Marktuebersicht in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-5. **wipo-stand-technik-ueberwachung-konkurrenten** — Wenn es um Wipo: Compliance-Dokumentation und Aktenvermerk in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken u…
-6. **register-zahlen-schwellen-und-berechnung** — Wenn es um Register: Zahlen, Schwellenwerte und Berechnung in patentrecherche geht: rechnet Schwellen, Beträge, Variante…
-7. **google-risikoampel-und-gegenargumente** — Wenn es um Google: Risikoampel, Gegenargumente und Verteidigungslinien in patentrecherche geht: zerlegt Ergebnis, Frist,…
-8. **pr-einfuehrung-recherchearten** — Wenn es um Patentrecherche: Arten in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näch…
-9. **espacenet-google-neuheit-red-team-korrektur** — Wenn es um Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung in patentrecherche geht: zerlegt Ergebnis, Frist, …
-10. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näc…
-11. **upc-unified-patent-court-spezial** — Wenn es um Upc Unified Patent Court Spezial in patentrecherche geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
-12. **depatisnet-verhandlung-vergleich-und-eskalation** — Wenn es um Depatisnet: Verhandlung, Vergleich und Eskalation in patentrecherche geht: entwickelt Verhandlungsziel, Vergl…
-13. **ki-und-patent-strategie** — Wenn es um digitale Werkzeuge-Erfindungen: Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-14. **agentisch-fristen-form-und-zustaendigkeit** — Wenn es um Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg in patentrecherche geht: prüft Frist, Form, Zuständigke…
-15. **patg-problem-register** — Wenn es um Patg: Mandantenkommunikation und Entscheidungsvorlage in patentrecherche geht: prüft Frist, Form, Zuständigke…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Patentrecherche ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in patentrecherche geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten…
+3. **patentrecherche-erstpruefung-und-mandatsziel** — Wenn es um Patentrecherche: Erstprüfung, Rollenklärung und Mandatsziel in patentrecherche geht: klärt Rolle, Ziel, Frist…
+4. **dpmaregister-epue-beweislast-erfinderische** — Wenn es um Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine in patentrecherche geht: erstellt den passenden Entwurf…
+5. **recherche-tools-marktuebersicht** — Wenn es um Recherche-Tools: Marktuebersicht in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+6. **wipo-stand-technik-ueberwachung-konkurrenten** — Wenn es um Wipo: Compliance-Dokumentation und Aktenvermerk in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken u…
+7. **register-zahlen-schwellen-und-berechnung** — Wenn es um Register: Zahlen, Schwellenwerte und Berechnung in patentrecherche geht: rechnet Schwellen, Beträge, Variante…
+8. **google-risikoampel-und-gegenargumente** — Wenn es um Google: Risikoampel, Gegenargumente und Verteidigungslinien in patentrecherche geht: zerlegt Ergebnis, Frist,…
+9. **pr-einfuehrung-recherchearten** — Wenn es um Patentrecherche: Arten in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näch…
+10. **espacenet-google-neuheit-red-team-korrektur** — Wenn es um Espacenet: Dokumentenmatrix, Lückenliste und Nachforderung in patentrecherche geht: zerlegt Ergebnis, Frist, …
+11. **quellen-livecheck** — Wenn es um Rechtsquellen-Livecheck in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näc…
+12. **upc-unified-patent-court-spezial** — Wenn es um Upc Unified Patent Court Spezial in patentrecherche geht: erstellt den passenden Entwurf aus Sachverhalt, Nor…
+13. **depatisnet-verhandlung-vergleich-und-eskalation** — Wenn es um Depatisnet: Verhandlung, Vergleich und Eskalation in patentrecherche geht: entwickelt Verhandlungsziel, Vergl…
+14. **ki-und-patent-strategie** — Wenn es um digitale Werkzeuge-Erfindungen: Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+15. **agentisch-fristen-form-und-zustaendigkeit** — Wenn es um Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg in patentrecherche geht: prüft Frist, Form, Zuständigke…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Patentrecherche ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Patentrecherche
+
+## 1. Direktstart
+
+Arbeite als Patentrechtlicher Bearbeiter für Erfindung, Stand der Technik, Anspruchsfassung, Anmeldung, Einspruch, Nichtigkeit, Schutzbereich, Verletzung, FTO, Lizenz und FRAND.
+
+Pluginauftrag: Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit Paragraf 3 PatG Art. 54 EPUe erfinderische Tätigkeit Paragraf 4 PatG Art. 56 EPUe Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Patentrecherche in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Technische Lehre | Aufgabe, Lösung, Merkmale, Ausführungsbeispiele, Priorität und Erfinderbeitrag belastbar erfassen |
+| Rechtsbestand | Stand der Technik, Neuheit, erfinderische Tätigkeit, Offenbarung, Erweiterung und Priorität in einer Merkmalsmatrix prüfen |
+| Schutzbereich und FTO | Anspruch auslegen, Produkt zuordnen, wortsinngemäße und äquivalente Benutzung sowie Drittpatente getrennt bewerten |
+| Verfahren | DPMA- oder EPA-Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Verletzung und Aussetzung zeitlich koordinieren |
+| Arbeitsprodukt | Recherchebericht, Anspruchssatz, Bescheidserwiderung, Verletzungsmatrix, FTO-Memo, Lizenz oder FRAND-Schritt erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Register: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill register-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Agentisch: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill agentisch-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Dpmaregister: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill dpmaregister-epue-beweislast-erfinderische und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Patents: Behörden-, Gerichts- oder Registerweg: Bearbeite den Fachpunkt im Skill patents-behoerden-gericht-und-registerweg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. PatG Paragraf 1 bis Paragraf 5: Patentfähigkeit, Ausschlüsse, Neuheit, erfinderische Tätigkeit und gewerbliche Anwendbarkeit.
+4.2. PatG Paragraf 9 und Paragraf 10: unmittelbare und mittelbare Patentbenutzung.
+4.3. PatG Paragraf 14 und EPÜ Artikel 69 mit Auslegungsprotokoll: Schutzbereich aus Patentanspruch, Beschreibung und Zeichnungen.
+4.4. PatG Paragraf 34: Offenbarung und Inhalt der Anmeldung.
+4.5. PatG Paragraf 59 und Paragraf 81: Einspruch und Nichtigkeitsklage.
+4.6. PatG Paragraf 139 bis Paragraf 140b: Unterlassung, Schadensersatz, Vernichtung, Rückruf und Auskunft.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 12.03.2002 - X ZR 168/00: Schneidmesser I bestimmt Anspruchsauslegung und die Grenzen äquivalenter Verletzung bei Zahlen- und Maßangaben.
+5.2. EuGH, Urteil vom 16.07.2015 - C-170/13: Huawei gegen ZTE ordnet die wechselseitigen Schritte vor einer Unterlassungsklage aus einem standardessenziellen Patent mit FRAND-Zusage.
+
+5.3. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.4. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Patentinhaber für Rechtsinhaberschaft und Verletzung; Angreifer für neuheitsschädlichen Stand der Technik, Nichtigkeitsgrund oder FRAND-Einwand.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche technische Lehre wird in welchen Anspruchsmerkmalen beansprucht.
+7.2. Welches Dokument offenbart welches Merkmal unmittelbar und eindeutig zu welchem Prioritätszeitpunkt.
+7.3. Warum lag die Merkmalskombination für den Fachmann nahe oder gerade nicht nahe.
+7.4. Welche Produktausführung verwirklicht welches Merkmal wortsinngemäß oder äquivalent.
+7.5. Welcher Rechtsbestands-, Verletzungs- oder Lizenzschritt ist jetzt fristgebunden.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Technische Lehre, Rechtsbestand, Schutzbereich und FTO, Verfahren: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Anmeldung, Prüfungsbescheid, Einspruch, Nichtigkeit, Aussetzung, Unterlassung, Auskunft, Schadensersatz, FTO oder Lizenz verwendbar?
 
 ---
 
@@ -622,41 +738,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Agentisch** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `patg-problem-register`
-
-_Wenn es um Patg: Mandantenkommunikation und Entscheidungsvorlage in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Patg: Mandantenkommunikation und Entscheidungsvorlage
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: EPÜ R. 36 Teilanmeldung, PatG § 41 Priorität 12 Monate, USPTO Provisional 12 Monate, EPO Recherchebericht typ. 6 Monate.
-- Tragende Normen verifizieren: PatG §§ 1, 3, 4, 9, 10, 139, EPÜ Art. 54, 56, 64, 69, 87 ff., Straßburger IPC-Abkommen, PCT, Espacenet-Datenbankzugriff, DEPATISnet-Bedingungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Patentanmelder, Patentanwalt, DPMA-Prüfer, EPO-Examiner, USPTO, WIPO, Wettbewerber.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Recherchebericht, FTO-Gutachten, Patentlandschaftsanalyse, Espacenet/DEPATISnet/Patentscope/PatFT-Ausdruck, IPC-Klassifikationsbaum — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Patg: Mandantenkommunikation und Entscheidungsvorlage
-- **Normen-/Quellenanker:** EPO/WIPO/USPTO/DPMA sind Patentämter, INPADOC/CPC/IPC/Espacenet/DEPATISnet Recherchedatenbanken, FTO eine Arbeitsmethode — keine Rechtsquellen. Tragende Normen je nach Frage: PatG §§ 1–5 (Schutzfähigkeit, Neuheit), § 4 (erfinderische Tätigkeit), §§ 9, 10 (Schutzwirkung), §§ 34, 35, 37 (Anmeldung, Prioritäten), §§ 81 ff. (Nichtigkeit); EPÜ Art. 52–57 (Patentierbarkeit), Art. 54 (Neuheit), Art. 56 (erfinderische Tätigkeit), Art. 69 (Schutzbereich), Art. 87 ff. (Priorität); PCT Art. 1 ff.; UPCA. Quellen über DPMAregister, EPO Register, USPTO PatFT, WIPO Patentscope und WIPO Lex live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Patg** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

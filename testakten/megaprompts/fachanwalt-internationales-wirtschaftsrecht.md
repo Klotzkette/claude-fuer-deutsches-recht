@@ -2,20 +2,135 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
+Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-internationales-wirtschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **internationaler-prozess-versandmappe-endfertigen** — Endfertigt grenzüberschreitende Klagen, Erwiderungen und Schiedsschriftsätze: klärt Forum, Verfahrenssprache, Zustellung…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlage…
-3. **mandat-triage-iwr** — Wenn es um Mandat Triage Iwr in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-4. **fachanwalt-internationales-wirtschaftsrecht-orientierung** — Wenn es um Fachanwalt für Internationales Wirtschaftsrecht — Orientierung in Fachanwalt Internationales Wirtschaftsrecht…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständi…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Internationales Wirtschaftsrecht geht: k…
-7. **spezial-grenzueberschreitender-vertragsstreit** — Wenn es um Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in Fachanwalt Internatio…
-8. **intra-eu-investitionsschiedsverfahren-achmea** — Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings. Trennt intra- und extra-uniona…
-9. **uncitral-schriftsatz-brief-und-memo-bausteine** — Wenn es um Uncitral: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Internationales Wirtschaftsrecht geht: erstel…
-10. **einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht** — Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Internationales Wirtschaftsrecht ein juristisches Arbeitsprodukt tragfähig begründ…
+2. **internationaler-prozess-versandmappe-endfertigen** — Endfertigt grenzüberschreitende Klagen, Erwiderungen und Schiedsschriftsätze: klärt Forum, Verfahrenssprache, Zustellung…
+3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlage…
+4. **mandat-triage-iwr** — Wenn es um Mandat Triage Iwr in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+5. **fachanwalt-internationales-wirtschaftsrecht-orientierung** — Wenn es um Fachanwalt für Internationales Wirtschaftsrecht — Orientierung in Fachanwalt Internationales Wirtschaftsrecht…
+6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständi…
+7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Internationales Wirtschaftsrecht geht: k…
+8. **spezial-grenzueberschreitender-vertragsstreit** — Wenn es um Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung in Fachanwalt Internatio…
+9. **intra-eu-investitionsschiedsverfahren-achmea** — Prüft Investitionsschiedsverfahren mit Unionsbezug nach Achmea, Komstroy und PL Holdings. Trennt intra- und extra-uniona…
+10. **uncitral-schriftsatz-brief-und-memo-bausteine** — Wenn es um Uncitral: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Internationales Wirtschaftsrecht geht: erstel…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Internationales Wirtschaftsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Internationales Wirtschaftsrecht
+
+## 1. Direktstart
+
+Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+
+Pluginauftrag: Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Brüssel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Internationales Wirtschaftsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
+| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen |
+| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden |
+| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Fachanwalt Internationales Wirtschaftsrecht Cisg Prüfung: Bearbeite den Fachpunkt im Skill fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Fachanwalt für Internationales Wirtschaftsrecht — Orientierung: Bearbeite den Fachpunkt im Skill fachanwalt-internationales-wirtschaftsrecht-orientierung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Rom-I-Anwendbarkeit: Bearbeite den Fachpunkt im Skill fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Schiedsklausel — Prüfung und Gestaltung: Bearbeite den Fachpunkt im Skill fachanwalt-internationales-wirtschaftsrecht-schiedsklausel und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+4.2. Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+4.3. Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
+4.4. CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
+4.5. New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
+4.6. ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
+7.2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
+7.3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
+7.4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
+7.5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Auslands-Zergliederung, Forum, Anwendbares Recht, Materielle Prüfung nach dem berufenen Recht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie verwendbar?
 
 ---
 
@@ -861,118 +976,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `einstieg-in-den-skill-verbund-internationales-wirtschaftsrecht`
-
-_Wenn es um Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FAO § 5 36 Monate Praxis, CISG Art. 39 angemessene Frist Mängelrüge, Brüssel Ia Art. 35 einstweiliger Rechtsschutz, NYÜ Art. V Anerkennung 3 Jahre.
-- Tragende Normen verifizieren: FAO § 14r, Rom I (VO 593/2008), Rom II (VO 864/2007), Brüssel Ia (VO 1215/2012), CISG, UNCITRAL Model Law, INCOTERMS 2020, IPR-G, AWG, AWV, EU-Sanktionsverordnungen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Internationale Vertragsparteien, ICC, UNCITRAL, Schiedsgericht (DIS, ICC, SCC), nationale Gerichte, Zoll, BAFA, BMWK, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Internationaler Kaufvertrag, Schiedsklausel, ICC-Schiedsverfahren-Eingabe, Exportlizenz BAFA, Sanktionsprüfung, INCOTERMS-Klausel, Letter of Credit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung.
-
-### Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 60 Fälle in den letzten drei Jahren, davon mindestens 30 mit Auslandsbezug.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| UN-Kaufrecht | CISG (BGBl. II 1989 S. 588); aktueller Vertragsstaaten-Stand 12/2024: 97 Staaten — Liste UNCITRAL: https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/status |
-| Gerichtsstand EU | Bruessel Ia VO (EU 1215/2012): https://eur-lex.europa.eu/eli/reg/2012/1215 |
-| Anwendbares Recht Vertrag | Rom I VO (EG 593/2008): https://eur-lex.europa.eu/eli/reg/2008/593 |
-| Anwendbares Recht ausservertraglich | Rom II VO (EG 864/2007): https://eur-lex.europa.eu/eli/reg/2007/864 |
-| Anerkennung Auslandsurteile | HAVUe 2019 (für EU in Kraft seit 01.09.2023; UK seit 01.07.2025): https://www.hcch.net/en/instruments/conventions/full-text/?cid=137 ; Haager Gerichtsstandsuebereinkommen 2005 |
-| Anerkennung Schiedssprueche | New Yorker UN-Uebereinkommen 1958 (über 170 Vertragsstaaten): https://uncitral.un.org/en/texts/arbitration/conventions/foreign_arbitral_awards/status2 |
-| Schiedsverfahren | UNCITRAL Modellgesetz 1985/2006, ICC Rules 2021, LCIA Rules 2020, HKIAC Rules 2024, SIAC Rules 2025 (7th ed.), DIS-SchO 2018, ZPO §§ 1025 ff. (Reform BMJ pendent) |
-| Investitionsschutz | ICSID-Konvention; ICSID Rules 2022 (seit 01.07.2022); BIT-Netzwerk; Achmea (EuGH C-284/16); Komstroy (EuGH C-741/19) intra-EU-Beschraenkung |
-| Welthandel | WTO-Recht (GATT GATS TRIPS DSU); Status Appellate Body weiterhin blockiert; MPIA als Alternative |
-| EU-Aussenhandel | EU-Zollkodex (VO 952/2013); EU-Sanktionsverordnungen (VO 833/2014 zuletzt 16. Paket VO 2025/395 v. 24.02.2025 und 17. Paket 20.05.2025; VO 269/2014); Dual-Use-VO (EU) 2021/821; Anti-Coercion-Instrument VO (EU) 2023/2675 (anwendbar seit 27.12.2023) |
-| Lieferketten | LkSG (BGBl. I 2021, 2959; in Kraft 01.01.2023; aktueller Stand prüfen: BMWE/BAFA Vereinfachungs- und Änderungsgesetz 09/2025, Berichtspflicht-Aussetzung BAFA-Hinweis vom 01.10.2025, Änderungsgesetz voraussichtlich Anfang 2026) und EU CSDDD (Richtlinie (EU) 2024/1760; in Kraft 25.07.2024; Anwendung gestaffelt; nach Omnibus I-Anpassung Umsetzungsfrist 26.07.2028, Anwendung ab 26.07.2029): https://eur-lex.europa.eu/eli/dir/2024/1760 |
-| Wirtschaftliche Zwangsmassnahmen | Anti-Coercion Instrument (VO (EU) 2023/2675; in Kraft 27.12.2023): https://eur-lex.europa.eu/eli/reg/2023/2675 |
-| Internationale Vollstreckung | EuVTVO (VO (EG) 805/2004), EUKoVO (VO (EG) 1896/2006), Bruessel Ia: https://eur-lex.europa.eu/eli/reg/2012/1215 |
-
-## Typische Mandate
-
-- Internationale Vertragsgestaltung (Lieferung Kauf Dienstleistung)
-- Schiedsverfahren (ICC Wien Genf London)
-- Anerkennung und Vollstreckung ausländischer Urteile
-- Investitionsschutz-Schiedsverfahren ICSID
-- EU-Sanktionen Compliance Russland Iran etc.
-- Außenwirtschaftsrecht Genehmigungen Exportkontrolle
-- LkSG-Compliance Lieferantenkette Risikoanalyse
-
-## Fristen
-
-- **CISG-Mängelruege** unverzueglich Art. 39 CISG (binnen angemessener Frist).
-- **Schiedsklage** vertraglich vereinbarte Frist; Verjährung des Hauptanspruchs (oft drei Jahre nach Rom I anwendbarem Recht).
-- **Anerkennung Auslandsurteile** Brüssel Ia VO keine Frist.
-- **EU-Sanktion** sofortige Geltung.
-
-## Hauptforen
-
-- Landgericht und OLG bei Wirtschaftssachen mit Auslandsbezug.
-- BGH ggf. mit Vorlage an EuGH.
-- ICC International Chamber of Commerce.
-- ICSID Washington.
-- WTO Dispute Settlement Body.
-
-## Berufsverband
-
-- ARGE Internationales Wirtschaftsrecht DAV.
-- ICC Germany.
-- DIS Deutsche Institution für Schiedsgerichtsbarkeit.
-
-## Schnittstellen
-
-- **gesellschaftsrecht** bei grenzüberschreitenden M&A.
-- **regulatorisches-recht** bei BaFin-Aufsicht Außenhandel.
-- **fachanwalt-vergaberecht** bei grenzüberschreitender Vergabe.
-- **kanzlei-allgemein** Fristen Versand.
-
-## Vertiefung: Rechtsprechung und Normen IWR
-
-### Schlüssel-Leitsaetze Internationales Wirtschaftsrecht
-
-
-### Normen-Überblick IWR
-| Materie | Zentralnorm |
-|---|---|
-| Intl. Zuständigkeit (EU) | Bruessel Ia VO Art. 4, 7, 25 |
-| Anwendb. Recht Vertrag (EU) | Rom I VO Art. 3, 4 |
-| Anwendb. Recht Delikt (EU) | Rom II VO Art. 4, 14 |
-| UN-Kaufrecht | CISG Art. 1, 6, 39 |
-| Schiedsrecht DE | §§ 1025-1066 ZPO |
-| Intl. Schiedsrecht | NY Convention 1958 |
-| Investitionsschutz | ICSID-Konvention; BIT-Netzwerk |
-| EU-Sanktionen | VO (EG) 765/2006 + Russland-Pakete |
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen IWR Überblick
-| Frist | Norm |
-|---|---|
-| CISG Maengelruege | Art. 39 CISG: unverzueglich; spaetestens 2 Jahre Art. 39 Abs. 2 |
-| Verjaebrung (BGB) | §§ 195, 199 BGB: 3 Jahre |
-| Schiedsklage-Einleitung | Vertraglich vereinbart oder Verjaebrung Hauptanspruch |
-| Vollstreckungsantrag NY Convention | Kein Zeitlimit; aber Einrede möglich |
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

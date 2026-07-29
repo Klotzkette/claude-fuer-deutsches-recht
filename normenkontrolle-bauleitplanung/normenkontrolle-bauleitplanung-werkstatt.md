@@ -25,45 +25,45 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Planangriff und Verfahrensstand: Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen.
+### 3.1. Planangriff und Verfahrensstand
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Planangriff und Verfahrensstand: Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Festsetzungen: BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen.
+### 3.2. Festsetzungen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Festsetzungen: BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Städtebauliche Verträge: BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen.
+### 3.3. Städtebauliche Verträge
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Städtebauliche Verträge: BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Vorhabenbezogener Plan: BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen.
+### 3.4. Vorhabenbezogener Plan
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vorhabenbezogener Plan: BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Erschließung und Kosten: Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124.
+### 3.5. Erschließung und Kosten
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Erschließung und Kosten: Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124, Erschließungsbeiträge, Anlagenliste und Umgehungsrisiko ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Innenentwicklung und Verfahren: BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren.
+### 3.6. Innenentwicklung und Verfahren
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Innenentwicklung und Verfahren: BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.7. Abwägung und Planerhaltung: BauGB Paragraf 1 Absatz 7, Paragrafen 214 und 215, Fehlergewicht und ergänzendes Verfahren darstellen.
+### 3.7. Abwägung und Planerhaltung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Abwägung und Planerhaltung: BauGB Paragraf 1 Absatz 7, Paragrafen 214 und 215, Fehlergewicht und ergänzendes Verfahren darstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.8. Arbeitsprodukt: Normenkontrollantrag, Verteidigungsschriftsatz, Heilungsvermerk, Vertragsprüfung oder Festsetzungssynopse erstellen.
+### 3.8. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Normenkontrollantrag, Verteidigungsschriftsatz, Heilungsvermerk, Vertragsprüfung oder Festsetzungssynopse erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Bayvgh: Verhandlung, Vergleich und Eskalation | BauGB Paragraf 1 Absatz 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Planangriff und Verfahrensstand | BauGB Paragraf 1 Absatz 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BauGB Paragraf 1 Absatz 7 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Bekanntmachung: Beweislast, Darlegungslast und Substantiierung | BauGB Paragraf 1 Absatz 7 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Festsetzungen | BauGB Paragraf 1 Absatz 7 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung | Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -137,15 +137,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Planervermerk, LPH-Nachweis, Honorar, Nachtrag, Mängelverfolgung oder Bauüberwachungsanweisung.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BauGB Paragraf 1 Absatz 3; BauGB Paragraf 1 Absatz 7.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Planangriff und Verfahrensstand.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Planer für Leistungsstand, Koordination und Honorargrund; Auftraggeber für Anordnung, Mitwirkung, Abnahme und Einwand. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG, Urteil vom 25.11.2005 - 4 C 15.04; BVerwG, Urteil vom 29.01.2009 - 4 C 15.07.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -167,60 +169,38 @@ Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklärt? Ist die r
 
 Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.
 
-## 14. Materienbezogene Arbeitsfelder
+## 14. Musterbausteine
 
-### 15.1. Bayvgh: Verhandlung, Vergleich und Eskalation
+- Normenkontrollbaustein: Die Festsetzung [Bezeichnung] ist unwirksam, weil BauGB Paragraf 9 keine tragfähige Rechtsgrundlage für [Regelungsinhalt] eröffnet und der Fehler beachtlich bleibt.
+- Vertragsbaustein: Die Kostenübernahme ist nur tragfähig, wenn [Maßnahme] als Voraussetzung oder Folge des Vorhabens [Projekt] nachvollziehbar, transparent und angemessen zurechenbar ist.
+- Heilungsvermerk: Der Fehler kann nur über ein ergänzendes Verfahren repariert werden, wenn die Gemeinde das fehlende Abwägungsmaterial ermittelt, bewertet und erneut beschließt.
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Antragsteller (Eigentümer, Gemeinde, Verband), Gemeinde als Antragsgegnerin, OVG/VGH (zuständig), BVerwG (4. Senat), Träger öffentlicher Belange. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+## 15. Materienbezogene Arbeitsfelder
 
-### 15.2. Bekanntmachung: Beweislast, Darlegungslast und Substantiierung
+### 15.1. Planangriff und Verfahrensstand
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Satzungsbeschluss, Bekanntmachung, Rügefrist, Antragsteller und Rechtsschutzbedürfnis feststellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Konflikt zwischen Festsetzung und städtebaulichem Vertrag
+### 15.2. Festsetzungen
 
-Dieser Skill prüft Fälle, in denen der Vertrag mehr, weniger oder anderes verspricht als der Bebauungsplan normativ festsetzt. - BauGB Paragraf 9: Festsetzungen als Satzungsrecht. - BauGB Paragraf 11: städtebaulicher Vertrag ohne Ersatz der Abwägung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+BauGB Paragraf 9, BauNVO, Planzeichnung, textliche Festsetzungen, Bestimmtheit und Rechtsgrundlage prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Fristen- und Risikoampel
+### 15.3. Städtebauliche Verträge
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+BauGB Paragraf 11, Folgekosten, Angemessenheit, Kausalität, Schriftform und Rückabwicklung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Jahresfrist Paragraf 47 Abs. 2 VwGO
+### 15.4. Vorhabenbezogener Plan
 
-Der Antrag kann innerhalb eines Jahres nach Bekanntmachung der Rechtsvorschrift gestellt werden - Vor dem 1.1.2007 zwei Jahre - Durch Gesetz vom 22.12.2006 auf ein Jahr verkürzt - Übergangsfristen längst abgelaufen - Der Beschluss als Satzung ist ortsüblich bekanntzumachen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+BauGB Paragraf 12, Vorhaben- und Erschließungsplan, Durchführungsvertrag, Frist und Kosten abgleichen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Jahresfrist, Rüge und Fehlerfolgen im Normenkontrollverfahren
+### 15.5. Erschließung und Kosten
 
-Prüfe sofort, ob ein Normenkontrollantrag oder eine inzidente Planrüge noch zeitlich und materiell offen ist. Nicht allgemein redteamen, sondern Bekanntmachung, Fristbeginn, Rügeobliegenheit und Fehlerart präzise auseinanderhalten. - VwGO Paragraf 47 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertrag nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, heutige Erschließungspflicht nach Paragraf 124, Erschließungsbeiträge, Anlagenliste und Umgehungsrisiko ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Kausalität und Angemessenheit im städtebaulichen Vertrag
+### 15.6. Innenentwicklung und Verfahren
 
-Dieser Skill ist der Belastungstest für Vertragsleistungen: Er fragt, ob die verlangte Leistung dem Vorhaben zurechenbar ist, ob die Höhe vertretbar ist und ob der Vertrag ein verdecktes Planungsentgelt enthält. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+BauGB Paragraf 13, 13a und Übergangsfragen zu 13b, Umweltprüfung und Beteiligung kontrollieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.8. Durchführungsvertrag nach BauGB Paragraf 12
+### 15.7. Abwägung und Planerhaltung
 
-Dieser Skill prüft den Vertrag, der den vorhabenbezogenen Bebauungsplan trägt: Was genau wird gebaut, bis wann, auf wessen Kosten und mit welcher Bindung an Vorhaben- und Erschließungsplan. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Prüft Erschließungsverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, grenzt die heutige.
-
-Prüft Erschließungsverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, grenzt die heutige Erschließungspflicht nach Paragraf 124 und das Beitragsrecht ab und liefert eine belastbare Vertrags-, Kosten- und Nichtigkeitsprüfung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept
-
-Dieser Skill prüft Verträge, mit denen Folgekosten für Schulen, Kindertagesstätten, Verkehr, Grün, Entwässerung oder soziale Infrastruktur auf Vorhabenträger oder Grundstückseigentümer verlagert werden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Formfehler und Nichtigkeit städtebaulicher Verträge
-
-Dieser Skill prüft, ob ein städtebaulicher Vertrag an Schriftform, Beurkundung, fehlender Rechtsgrundlage, unzulässiger Kopplung oder unangemessener Leistung scheitert. - BauGB Paragraf 11 Absatz 3: Schriftform des städtebaulichen Vertrags. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Städtebaulicher Vertrag: Grundlagen nach BauGB Paragraf 11
-
-Dieser Skill prüft, ob eine gemeindliche Vereinbarung wirklich ein städtebaulicher Vertrag ist und ob Leistung, Gegenleistung, Planungsbezug und Verfahrensbindung rechtlich tragfähig zusammenspielen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Rechtsschutz und Streit über städtebauliche Verträge
-
-Dieser Skill ordnet Streitigkeiten über Abschluss, Durchführung, Rückzahlung oder Nichtigkeit städtebaulicher Verträge prozessual und materiell. - VwGO Paragraf 40: Verwaltungsrechtsweg bei öffentlich-rechtlichem Vertrag. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Normenkontrolle Bauleitplanung — Allgemein
-
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+BauGB Paragraf 1 Absatz 7, Paragrafen 214 und 215, Fehlergewicht und ergänzendes Verfahren darstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

@@ -2,18 +2,135 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 114 Skills (gekürzt für das Arbeitsfenster) des Plugins `gesellschaftsgruender`.
+Diese Vollprüfung enthält top-8 von 115 Skills (gekürzt für das Arbeitsfenster) des Plugins `gesellschaftsgruender`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist…
-2. **kaltstart-triage** — Wenn es um Gesellschaftsgründer Allgemein — leichter Kaltstart in gesellschaftsgründer — Gründungsassistent für deutsche…
-3. **gruendungsassistent-erstpruefung-und-mandatsziel** — Wenn es um Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel in gesellschaftsgründer — Gründungsassistent …
-4. **stammkapitalverlust-paragraf-49-gmbhg** — Wenn es um Pflichtversammlung bei Stammkapital-Verlust (Paragraf 49 Abs. 3 GmbHG) in gesellschaftsgründer — Gründungsass…
-5. **erste-vertraege-kunden-lieferanten-miete** — Wenn es um Erste Verträge für Kunden, Lieferanten und Miete in gesellschaftsgründer — Gründungsassistent für deutsche ge…
-6. **ug-vorbereitung** — Wenn es um UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt) in gesellschaftsgründer — Gründungsassistent für…
-7. **sitz-geschaeftsanschrift-briefkastenrisiko** — Wenn es um Sitz, Geschäftsanschrift und Briefkastenrisiko in gesellschaftsgründer — Gründungsassistent für deutsche geht…
-8. **spezial-ueber-schriftsatz-brief-und-memo-bausteine** — Wenn es um Ueber: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Gesellschaftsgründer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in gesellschaftsgründer — Gründungsassistent für deutsche geht: klärt Rolle, Ziel, Frist…
+3. **kaltstart-triage** — Wenn es um Gesellschaftsgründer Allgemein — leichter Kaltstart in gesellschaftsgründer — Gründungsassistent für deutsche…
+4. **gruendungsassistent-erstpruefung-und-mandatsziel** — Wenn es um Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel in gesellschaftsgründer — Gründungsassistent …
+5. **stammkapitalverlust-paragraf-49-gmbhg** — Wenn es um Pflichtversammlung bei Stammkapital-Verlust (Paragraf 49 Abs. 3 GmbHG) in gesellschaftsgründer — Gründungsass…
+6. **erste-vertraege-kunden-lieferanten-miete** — Wenn es um Erste Verträge für Kunden, Lieferanten und Miete in gesellschaftsgründer — Gründungsassistent für deutsche ge…
+7. **ug-vorbereitung** — Wenn es um UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt) in gesellschaftsgründer — Gründungsassistent für…
+8. **sitz-geschaeftsanschrift-briefkastenrisiko** — Wenn es um Sitz, Geschäftsanschrift und Briefkastenrisiko in gesellschaftsgründer — Gründungsassistent für deutsche geht…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Gesellschaftsgründer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Gesellschaftsgründer
+
+## 1. Direktstart
+
+Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+
+Pluginauftrag: Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Gesellschaftsgründer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
+| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen |
+| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen |
+| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen |
+| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Transparenzregister: Bearbeite den Fachpunkt im Skill gesellschaftsgruender-transparenzregister und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Bank, KYC, UBO und Transparenzregister: Bearbeite den Fachpunkt im Skill bank-kyc-ubo-und-transparenzregister und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Geschäftsführer-Anstellungsvertrag GmbH: Bearbeite den Fachpunkt im Skill geschaeftsfuehrervertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. GmbH-Gesellschaftsvertrag (Satzung): Bearbeite den Fachpunkt im Skill gesellschaftsvertrag-gmbh und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+4.2. HGB Paragraf 105: offene Handelsgesellschaft.
+4.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
+4.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+4.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
+4.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Gesellschaftsgründer und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
+7.2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
+7.3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
+7.4. Welche Haftungsnorm und welcher Schaden sind konkret.
+7.5. Welcher Vollzugsschritt ist noch offen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich verwendbar?
 
 ---
 
@@ -618,75 +735,6 @@ Nutze diesen Skill, wenn Sitz, Geschäftsanschrift, Coworking-Adresse oder virtu
 ## Output
 
 Gib eine Sitz- und Anschriftenentscheidung mit Belegliste, Registerangaben und Kommunikations-To-dos aus.
-
----
-
-## Skill: `spezial-ueber-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Ueber: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Ueber: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `gesellschaftsgruender`. Ausgangspunkt ist: Gründungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl über Gesellschaftsvertrag und Geschäftsführervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz für Anwaltsberatung.
-
-Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Ueber**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Ueber.
-- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
-- **Plugin-Rahmen:** Anfängerfreundlicher Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, SHA, Cap Table, Notar, Handelsregister, Bank/KYC, Behörden....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Standard-Bausteine für Gründungsbetreuung
-
-| Baustein | Adressat | Inhalt | Norm |
-| --- | --- | --- | --- |
-| Anmeldungstext HRB | Registergericht | Firma, Sitz, Gegenstand, Stammkapital, GF | Paragraf 8 GmbHG / Paragraf 36 AktG |
-| Notarauftrag | Notar | Vertragsbeurkundung, Anmeldung, Beglaubigungen | Paragraf 2, 15 GmbHG / Paragraf 23 AktG |
-| Gewerbeanzeige | Gewerbeamt | Tätigkeit, Sitz, GF/Inhaber | Paragraf 14 GewO |
-| Transparenzregister-Eintragung | Bundesanzeiger | wirtschaftlich Berechtigte | Paragraf 19, 20 GwG |
-| Mandantenmemo Rechtsformwahl | Mandant | Vor-/Nachteile, Empfehlung, To-dos | – |
-| Geschäftsführervertrag | GF | Vergütung, Befreiung Paragraf 181 BGB, Wettbewerbsverbot, Kündigung | Paragraf 35, 43 GmbHG |
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Bausteinwahl:** Welcher Output ist nötig? Notarauftrag bei Gründung GmbH/AG; Mandantenmemo bei Rechtsformwahl; Geschäftsführervertrag separat (nicht Teil Gesellschaftsvertrag, denn Gesellschaftsvertrag nur "organschaftliches" Verhältnis; Anstellungsverhältnis ist eigenständig).
-3. **Pflichtbestandteile prüfen:** Anmeldungstext HRB enthält Firma, Sitz, Gegenstand, Stammkapital, GF mit Vertretungsregelung (Paragraf 8 GmbHG). Gewerbeanzeige erforderlich vor Geschäftsbeginn, sonst Bußgeld Paragraf 146 Abs. 2 GewO.
-4. **Befreiung Paragraf 181 BGB:** Bei Ein-Personen-GmbH zwingend Insichgeschäfts-Befreiung im Gesellschaftsvertrag und konkrete Erteilung; sonst kann GF mit sich selbst nicht wirksam kontrahieren.
-5. **Anschluss:** Geschäftsführervertrag-Skill `spezial-geschaeftsfuehrervertrag-livequellen-check`; bei Transparenzregister `gesellschaftsgruender-transparenzregister`.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 

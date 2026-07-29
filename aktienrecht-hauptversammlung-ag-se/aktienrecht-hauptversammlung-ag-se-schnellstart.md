@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Wenn du das hier öffnest, willst du eine Hauptversammlung der AG oder SE rechtssicher vorbereiten, durchführen, dokumentieren oder gegen Beschlussmängel absichern.
 
 # Aktienrecht Hauptversammlung AG Se — Schnellstart
 
@@ -17,49 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
-6. Abstimmung und Feststellung: Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen.
+1. Gesellschaft und Versammlungsart: AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen.
+2. Einberufung und Tagesordnung: Fristenkette, Bekanntmachung, Nachweisstichtag, Ergänzungsverlangen, Gegenanträge, Wahlvorschläge und Beschlussvorschläge kalendergenau sichern.
+3. Teilnahme und Durchführung: Anmeldung, Legitimation, Teilnehmerverzeichnis, Versammlungsleitung, Rede- und Frageordnung, Auskunft, Widerspruch und technische Ausfallvorsorge organisieren.
+4. Beschluss und Dokumentation: Mehrheit, Stimmverbote, Abstimmungsfeststellung, notarielle Niederschrift, Registeranmeldung, Veröffentlichung und Beweisakte verbinden.
+5. Beschlussmängel und Output: Nichtigkeit, Anfechtbarkeit, Informationsmangel, Klagefrist, Freigabe, Bestätigung und sofort nutzbaren Kalender, Leitfaden, Q&A-Katalog, Protokoll- oder Schriftsatzentwurf erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Normenanker | AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125; AktG Paragraf 126 und Paragraf 127 |
+| Rechtsprechung | BGH, Urteil vom 25.03.2025 - II ZR 208/22; BGH, Urteil vom 30.06.2015 - II ZR 142/14 |
+| Tatbestand | AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen |
+| Beweislast | Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet Verstoß, Anfechtungsbefugnis, Widerspruch und Klagefrist |
+| Rechtsfolge | Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Abstimmung und Feststellung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anfechtungsklage 243 Aktg | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsichtsratsvergütung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beherrschungs und Gewinnabführungsvertrag | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisakte HV | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Freigabeverfahren | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gesellschaft und Versammlungsart | AG-Typ, Börsennotierung, SE-Bezug, Satzung, Organbeschluss, Präsenz-, Hybrid- oder virtuelle Form und zuständige Stellen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einberufung und Tagesordnung | Fristenkette, Bekanntmachung, Nachweisstichtag, Ergänzungsverlangen, Gegenanträge, Wahlvorschläge und Beschlussvorschläge kalendergenau sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Teilnahme und Durchführung | Anmeldung, Legitimation, Teilnehmerverzeichnis, Versammlungsleitung, Rede- und Frageordnung, Auskunft, Widerspruch und technische Ausfallvorsorge organisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschluss und Dokumentation | Mehrheit, Stimmverbote, Abstimmungsfeststellung, notarielle Niederschrift, Registeranmeldung, Veröffentlichung und Beweisakte verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
-- AktG Paragrafen 118 ff., 121 ff., 126/127, 130, 131, 243 ff., WpHG, MAR, ARUG-II-Regime, SE-VO/SEAG und Satzung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 29.01.2001 - II ZR 331/00: Die Außen-GbR ist rechts- und parteifähig, soweit sie durch Teilnahme am Rechtsverkehr eigene Rechte und Pflichten begründet; für heutige Fälle ist die gesetzliche Neuregelung durch das MoPeG mitzulesen.
-- BGH, Urteil vom 21.04.1997 - II ZR 175/95: Nach ARAG/Garmenbeck muss der Aufsichtsrat mögliche Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich prüfen und grundsätzlich verfolgen; ein Absehen verlangt gewichtige Gründe des Gesellschaftswohls.
+- AktG Paragraf 118 und Paragraf 118a: Präsenzversammlung, elektronische Teilnahme und virtuelle Hauptversammlung.
+- AktG Paragraf 121 bis Paragraf 125: Zuständigkeit, Einberufung, Fristen, Nachweisstichtag und Mitteilungen.
+- AktG Paragraf 126 und Paragraf 127: Gegenanträge und Wahlvorschläge.
+- AktG Paragraf 129 und Paragraf 130: Teilnehmerverzeichnis und notarielle Niederschrift.
+- BGH, Urteil vom 25.03.2025 - II ZR 208/22: Bei einer nicht börsennotierten AG mit Inhaberaktien besteht für den satzungsmäßigen Nachweis der Teilnahme- und Stimmberechtigung ein weiter Gestaltungsspielraum; die Vermutung des AktG Paragraf 123 Absatz 4 Satz 5 gilt nicht für abweichende Satzungsnachweise.
+- BGH, Urteil vom 30.06.2015 - II ZR 142/14: Das Einberufungsorgan kann die Versammlung grundsätzlich absagen, aber nicht mehr, wenn erschienene Aktionäre nach dem angekündigten Beginn im Versammlungsraum zusammengekommen sind.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Abstimmung und Feststellung, Anfechtungsklage 243 Aktg, Aufsichtsratsvergütung, Beherrschungs und Gewinnabführungsvertrag: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug.
+7.2. Normsatz: Den tragenden Anker AktG Paragraf 118 und Paragraf 118a; AktG Paragraf 121 bis Paragraf 125 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Gesellschaft und Versammlungsart konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet Verstoß, Anfechtungsbefugnis, Widerspruch und Klagefrist; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein HV-Fristenblatt: Maßnahme, Norm, Stichtag, Rückrechnung, Verantwortlicher, Nachweis, Freigabe und Eskalation; Q&A-Blatt: Frage, Tagesordnungspunkt, Erforderlichkeit, Tatsachenquelle, Antwort, Verweigerungsgrund, Nachfassfrage und Protokollvermerk. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

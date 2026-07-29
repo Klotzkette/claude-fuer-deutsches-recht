@@ -2,25 +2,150 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `ki-governance`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-governance`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Technik-Governance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-2. **use-case-risk-classification** — Wenn es um Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO in Technik-Governance ge…
-3. **ki-haftung-und-versicherung** — Wenn es um digitale Werkzeuge-Haftung und Versicherung in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast,…
-4. **rollen-rasci-hochrisiko-anhang-incident** — Wenn es um digitale Werkzeuge-Governance Rollen-Modell in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast,…
-5. **governance-compliance-dokumentation-und-akte** — Wenn es um Governance: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Bele…
-6. **ki-rote-linien-art-5-pruefen** — Wenn es um Verbotene digitale Werkzeuge Art. 5 prüfen in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, …
-7. **ki-hochrisiko-anhang-iii-pruefen** — Wenn es um Hochrisiko-digitale Werkzeuge Anhang III in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-8. **review-schriftsatz-brief-und-memo-bausteine** — Wenn es um Review: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf…
-9. **richtlinie-zahlen-schwellen-und-berechnung** — Wenn es um Richtlinie: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, …
-10. **ki-governance-mandatsworkspace-kontexttrennung** — Wenn es um digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung in diesem Spezialbereich geht: zerlegt Erg…
-11. **marketing-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Marketing: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: zerlegt Ergebnis, F…
-12. **dpia-risikoampel-und-gegenargumente** — Wenn es um Dpia: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt Ergebnis, Fr…
-13. **inventar-kontrollen-konformitaetsbewertung** — Wenn es um digitale Werkzeuge-Inventar, Governance und Kontrollen in Technik-Governance geht: zerlegt Ergebnis, Frist, Z…
-14. **konformitaetsbewertung-red-team-und-qualitaetskontrolle** — Wenn es um Konformitaetsbewertung: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Fris…
-15. **triage-haftung-versicherung-anwendungsfall** — Wenn es um Triage: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, U…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristisches Arbeitsprodukt tragfähig begründet w…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Technik-Governance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
+3. **use-case-risk-classification** — Wenn es um Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO in Technik-Governance ge…
+4. **ki-haftung-und-versicherung** — Wenn es um digitale Werkzeuge-Haftung und Versicherung in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast,…
+5. **rollen-rasci-hochrisiko-anhang-incident** — Wenn es um digitale Werkzeuge-Governance Rollen-Modell in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast,…
+6. **governance-compliance-dokumentation-und-akte** — Wenn es um Governance: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Bele…
+7. **ki-rote-linien-art-5-pruefen** — Wenn es um Verbotene digitale Werkzeuge Art. 5 prüfen in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, …
+8. **ki-hochrisiko-anhang-iii-pruefen** — Wenn es um Hochrisiko-digitale Werkzeuge Anhang III in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+9. **review-schriftsatz-brief-und-memo-bausteine** — Wenn es um Review: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf…
+10. **richtlinie-zahlen-schwellen-und-berechnung** — Wenn es um Richtlinie: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, …
+11. **ki-governance-mandatsworkspace-kontexttrennung** — Wenn es um digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung in diesem Spezialbereich geht: zerlegt Erg…
+12. **marketing-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Marketing: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: zerlegt Ergebnis, F…
+13. **dpia-risikoampel-und-gegenargumente** — Wenn es um Dpia: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt Ergebnis, Fr…
+14. **inventar-kontrollen-konformitaetsbewertung** — Wenn es um digitale Werkzeuge-Inventar, Governance und Kontrollen in Technik-Governance geht: zerlegt Ergebnis, Frist, Z…
+15. **konformitaetsbewertung-red-team-und-qualitaetskontrolle** — Wenn es um Konformitaetsbewertung: Red-Team und Qualitätskontrolle in diesem Spezialbereich geht: zerlegt Ergebnis, Fris…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Governance algorithmischer Systeme
+
+## 1. Direktstart
+
+Arbeite als Bearbeiter für europäische Technikregulierung nach VO (EU) 2024/1689 mit Fokus auf Rollen, Risikoklassen, Stichtage, Dokumentationspflichten, Betreiberpflichten, Marktaufsicht und Quellenhygiene.
+
+Pluginauftrag: EU-Regulierungsrahmen + Datenschutz-Grundverordnung – Use-Case-Triage, System-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der Systemrichtlinie.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für die Governance algorithmischer Systeme in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Rolle und Lieferkette | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen |
+| Risikoklasse | Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen |
+| Stichtag | Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen |
+| Nachweisakte | Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen |
+| Behörden- und Sanktionslage | Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. System-Haftung und Versicherung: Bearbeite den Fachpunkt im Skill ki-haftung-und-versicherung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Review: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill review-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Richtlinie: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill richtlinie-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Triage: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill triage-haftung-versicherung-anwendungsfall und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
+4.2. VO (EU) 2024/1689 Art. 5: verbotene Praktiken seit 02.02.2025.
+4.3. VO (EU) 2024/1689 Art. 6 mit Anhang I und III: Hochrisiko-Klassifikation und Pfadtrennung.
+4.4. VO (EU) 2024/1689 Art. 9 bis Art. 15: Risikomanagement, Datenqualität, Dokumentation, Logging, Transparenz, Aufsicht, Genauigkeit und Cybersicherheit.
+4.5. VO (EU) 2024/1689 Art. 26 und Art. 27: Betreiberpflichten und Grundrechte-Folgenabschätzung.
+4.6. VO (EU) 2024/1689 Art. 50: Transparenzpflichten ab 02.08.2026.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
+5.2. EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
+5.3. BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse braucht normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.
+5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt datengetriebener Systeme.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Funktion und Zweckbestimmung hat das System.
+7.2. Welche Rolle hat der Mandant und wer schuldet welche Pflicht.
+7.3. Welche Risikoklasse ist nach Art. 5, Art. 6, Art. 50 oder Kapitel V einschlägig.
+7.4. Welcher Stichtag gilt nach aktuellem Normstand und welcher Quellenstatus belegt ihn.
+7.5. Welche Dokumentation fehlt, obwohl sie für Konformität, Betrieb oder Verteidigung entscheidend ist.
+7.6. Welche Ausgabe löst den nächsten praktischen Engpass: Freigabe, Stopp, Nachforderung, Behördenschreiben oder Roadmap.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle]; Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Einordnungsmemo: Das System ist nach derzeitigem Stand [Rolle/Risikoklasse], weil [Zweckbestimmung] unter [Norm] fällt; Stichtag und Quellenstatus: [Datum/Quelle].
+10.2. Roadmap: Bis [Datum] sind [Dokumentation], [Kontrolle] und [Freigabe] nachzuziehen; offen bleibt [Beleglücke].
+10.3. Behördenantwort: Die Tatsachenbasis ergibt sich aus [Dokument]; die rechtliche Einordnung stützt sich auf [Norm]; streitig oder offen ist [Punkt].
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
 
 ---
 
@@ -997,71 +1122,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Interne Kontrolle (Anhang VI) ist günstiger und schneller, scheitert aber bei nicht-harmonisierten Aspekten. Beauftragung benannter Stelle (Anhang VII) gibt Rechtssicherheit, kostet Zeit (Wartezeit, Auditdurchläufe) und Geld; ist für Markteintritt sensibler Systeme aber empfehlenswert. Hybride Strategie: Anhang VI mit zusätzlichem freiwilligem externem Audit zur Vertrauensbildung.
-
----
-
-## Skill: `triage-haftung-versicherung-anwendungsfall`
-
-_Wenn es um Triage: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Triage: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn gestaffelt (02.02.2025 Verbote, 02.08.2025 GPAI, 02.08.2026 Hochrisiko Anhang III), schwerwiegender Vorfall 15 Tage, DSGVO DPIA vorab.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Triage: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Triage** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

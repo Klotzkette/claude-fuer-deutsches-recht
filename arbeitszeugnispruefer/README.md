@@ -94,6 +94,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`intake-und-stammdaten-pruefen`](skills/intake-und-stammdaten-pruefen/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`beweislast-bag-9-azr-584-13`](skills/beweislast-bag-9-azr-584-13/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`klagestrategie-und-vollstreckung`](skills/klagestrategie-und-vollstreckung/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`aeussere-form-und-briefkopf`](skills/aeussere-form-und-briefkopf/SKILL.md), [`aufforderungsschreiben-berichtigung`](skills/aufforderungsschreiben-berichtigung/SKILL.md), [`mandantenbericht-erstellen`](skills/mandantenbericht-erstellen/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`zeugnisklarheit-objektiver-empfaengerhorizont`](skills/zeugnisklarheit-objektiver-empfaengerhorizont/SKILL.md) |
@@ -105,7 +106,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -121,6 +122,7 @@ Automatisch generierte Komplett-Liste aller 30 Skills in diesem Plugin. Jeder Sk
 | [`fuehrungskraft-verhalten-pruefen`](skills/fuehrungskraft-verhalten-pruefen/SKILL.md) | Wenn es um Fuehrungskraft-Verhalten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`geheimcodes-katalog`](skills/geheimcodes-katalog/SKILL.md) | Wenn es um Geheimcodes-Katalog in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`intake-und-stammdaten-pruefen`](skills/intake-und-stammdaten-pruefen/SKILL.md) | Wenn es um Intake und Stammdaten pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Arbeitszeugnisprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`klagestrategie-und-vollstreckung`](skills/klagestrategie-und-vollstreckung/SKILL.md) | Wenn es um Klagestrategie und Vollstreckung in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | [`mandantenbericht-erstellen`](skills/mandantenbericht-erstellen/SKILL.md) | Wenn es um Mandantenbericht erstellen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`note-1-formeln-erkennen`](skills/note-1-formeln-erkennen/SKILL.md) | Wenn es um Note-1-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
