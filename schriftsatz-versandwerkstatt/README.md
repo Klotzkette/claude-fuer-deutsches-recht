@@ -117,6 +117,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`versandmappe-endfertigen`](skills/versandmappe-endfertigen/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`anlagen-konvertieren-und-sichtpruefen`](skills/anlagen-konvertieren-und-sichtpruefen/SKILL.md), [`hauptdokument-pdf-endfertigen`](skills/hauptdokument-pdf-endfertigen/SKILL.md), [`ordneraufnahme-und-produktionsmatrix`](skills/ordneraufnahme-und-produktionsmatrix/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`anlagen-nummerieren-und-stempeln`](skills/anlagen-nummerieren-und-stempeln/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`signaturweg-und-absender-pruefen`](skills/signaturweg-und-absender-pruefen/SKILL.md), [`stoerung-und-nachreichung-dokumentieren`](skills/stoerung-und-nachreichung-dokumentieren/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`dateinamen-und-paketgrenzen-pruefen`](skills/dateinamen-und-paketgrenzen-pruefen/SKILL.md), [`versandfreigabe-und-eingang-sichern`](skills/versandfreigabe-und-eingang-sichern/SKILL.md) |
@@ -127,7 +128,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 9 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 10 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -135,6 +136,7 @@ Automatisch generierte Komplett-Liste aller 9 Skills in diesem Plugin. Jeder Ski
 | [`anlagen-nummerieren-und-stempeln`](skills/anlagen-nummerieren-und-stempeln/SKILL.md) | Führt den vorhandenen Anlagenkreis K, B, AST oder AG ohne Kollision fort, gleicht jede Kennung mit Schriftsatz und Anlagenverzeichnis ab, stempelt die Bezeichnung gut lesbar rechts oben auf jede PDF-Seite, schützt vorhandenen Inhalt vor... |
 | [`dateinamen-und-paketgrenzen-pruefen`](skills/dateinamen-und-paketgrenzen-pruefen/SKILL.md) | Vergibt robuste, sprechende beA-Dateinamen mit ASCII, Unterstrichen, logischer Reihenfolge und höchstens 80 Zeichen einschließlich Endung, prüft jede Datei gegen die ERVB-Höchstgrenze von 90 Zeichen sowie die Nachrichtengrenzen von 1.000... |
 | [`hauptdokument-pdf-endfertigen`](skills/hauptdokument-pdf-endfertigen/SKILL.md) | Endfertigt den bereits freigegebenen Schriftsatz technisch als separates PDF: sichert die maßgebliche Quelldatei, konvertiert ohne inhaltliche Umschreibung, prüft Rubrum, Anträge, Seitenfolge, einfache Signatur, Schriften, Umbrüche, Meta... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Schriftsatz Versandwerkstatt ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`ordneraufnahme-und-produktionsmatrix`](skills/ordneraufnahme-und-produktionsmatrix/SKILL.md) | Liest einen vorhandenen Schriftsatz- und Anlagenordner vor jeder Rückfrage, erkennt Hauptdokument, Fassungen, bereits verwendete Anlagenkennungen, Dubletten, fehlende Belege und nicht unterstützte Formate und liefert eine konkrete Produk... |
 | [`signaturweg-und-absender-pruefen`](skills/signaturweg-und-absender-pruefen/SKILL.md) | Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die verfahrensbezogene Formroute; unterscheidet persönlichen sicheren Versand mit einfacher Signatur von der qualifizierte... |
 | [`stoerung-und-nachreichung-dokumentieren`](skills/stoerung-und-nachreichung-dokumentieren/SKILL.md) | Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinweis eine belastbare Ereignis- und Dateichronologie: sichert Fehlermeldungen, Versandversuche, Systemstatus, Ersatzweg... |

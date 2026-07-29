@@ -68,7 +68,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-redaktionsauftrag`](skills/kaltstart-redaktionsauftrag/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`faktencheck-quellenmatrix`](skills/faktencheck-quellenmatrix/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`korrektur-gegendarstellung-risiko`](skills/korrektur-gegendarstellung-risiko/SKILL.md), [`verdachtsberichterstattung-pruefung`](skills/verdachtsberichterstattung-pruefung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`korrektur-gegendarstellung-risiko`](skills/korrektur-gegendarstellung-risiko/SKILL.md), [`verdachtsberichterstattung-pruefung`](skills/verdachtsberichterstattung-pruefung/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`wirtschaftsverfahren-compliance-bericht`](skills/wirtschaftsverfahren-compliance-bericht/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`entscheidung-meldung-und-urteilsbericht`](skills/entscheidung-meldung-und-urteilsbericht/SKILL.md), [`gerichtstermin-sitzungsbericht`](skills/gerichtstermin-sitzungsbericht/SKILL.md), [`liveblog-ticker-gericht`](skills/liveblog-ticker-gericht/SKILL.md), [`pressemitteilung-kanzlei-behoerde`](skills/pressemitteilung-kanzlei-behoerde/SKILL.md), [`strafverfahren-unschuldsvermutung`](skills/strafverfahren-unschuldsvermutung/SKILL.md), [`verwaltungsgericht-politikrecht-bericht`](skills/verwaltungsgericht-politikrecht-bericht/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`familien-erbrecht-diskret-bericht`](skills/familien-erbrecht-diskret-bericht/SKILL.md) |
@@ -82,7 +82,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -95,6 +95,7 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Jeder Sk
 | [`gerichtstermin-sitzungsbericht`](skills/gerichtstermin-sitzungsbericht/SKILL.md) | Wenn es um Gerichtstermin Sitzungsbericht in Juristische Presseberichterstattung geht: erstellt aus Terminsnotizen einen präzisen Gerichtsbericht mit Rollen, Anträgen, Beweisaufnahme, Zitaten und nächstem Termin. |
 | [`headline-und-vorspann`](skills/headline-und-vorspann/SKILL.md) | Wenn es um Headline und Vorspann in Juristische Presseberichterstattung geht: entwickelt Headlines und Vorspänne, die schnell sind, aber Verfahrensstatus und Risiko nicht verschärfen. |
 | [`interview-fragekatalog-juristisch`](skills/interview-fragekatalog-juristisch/SKILL.md) | Wenn es um Interview Fragekatalog juristisch in Juristische Presseberichterstattung geht: entwickelt präzise Interviewfragen an Anwälte, Behörden, Unternehmen, Gerichte oder Betroffene ohne Suggestivfallen. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Juristische Presseberichterstattung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-redaktionsauftrag`](skills/kaltstart-redaktionsauftrag/SKILL.md) | Wenn es um Kaltstart Redaktionsauftrag in Juristische Presseberichterstattung geht: klärt Format, Quelle, Status, Betroffene, Redaktionsschluss und Ausgabeform; liefert sofort eine Redaktionsmatrix mit nächstem Textprodukt. |
 | [`korrektur-gegendarstellung-risiko`](skills/korrektur-gegendarstellung-risiko/SKILL.md) | Wenn es um Korrektur Gegendarstellung Risiko in Juristische Presseberichterstattung geht: prüft vor und nach Veröffentlichung Berichtigung, Gegendarstellung, Unterlassung, Richtigstellung und Update-Text. |
 | [`liveblog-ticker-gericht`](skills/liveblog-ticker-gericht/SKILL.md) | Wenn es um Liveblog Ticker Gericht in Juristische Presseberichterstattung geht: strukturiert Liveblog oder Ticker aus Gerichtsterminen mit Zeitmarken, Statussprache und späterer Bereinigung. |

@@ -51,4 +51,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Strafanzeige-Aktenzeichen für späteren Akteneinsichtantrag § 406e StPO.
 
 ## Praxis-Tipp
-Bei BGH-Az.-Zitaten Phishing immer mit Vorsicht: BGH XI ZR 91/14 (26.01.2016) ist anerkannt für "Klick allein nicht grob fahrlässig". Spätere Entscheidungen variieren je nach SCA-Verfahren (push-TAN, smsTAN, App-TAN) — kontextuell prüfen.
+Bei BGH-Aktenzeichen im Phishing-Kontext immer den tatsächlichen Entscheidungsgegenstand sichern: BGH XI ZR 91/14 vom 26.01.2016 betrifft die Voraussetzungen eines Anscheinsbeweises für Autorisierung und die fehlende allgemeine Erfahrungstatsache grober Fahrlässigkeit bei missbräuchlichem Online-Banking. Die Entscheidung enthält keinen abstrakten Rechtssatz, dass ein Klick auf einen Phishing-Link stets unschädlich wäre.

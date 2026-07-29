@@ -1,7 +1,7 @@
 Datei,Dokumenttyp,Wichtigkeit,Bemerkung
-01-mandatsnotiz-und-arbeitsauftrag.md,MD,mittel,"Erste Lage, Personen, Ziel und offene Fragen"
-02-zeitstrahl-und-fristen.md,MD,mittel,Chronologie mit Entscheidungs- und Eskalationspunkten
-03-prueffragen-fuer-erstgespraech.md,MD,mittel,Katalog für das erste strukturierte Gespräch
+01-mandatsnotiz-und-arbeitsauftrag.docx,DOCX,hoch,"Mandatsaufnahme, Beteiligte, Akteneingang und Arbeitsauftrag"
+02-zeitstrahl-und-fristen.docx,DOCX,hoch,Ereignislinie mit Quellen- und Fristenkontrolle
+03-prueffragen-fuer-erstgespraech.docx,DOCX,hoch,Katalog für das erste strukturierte Gespräch
 04-nda-auszug-clean-team.docx,DOCX,hoch,NDA-Auszug mit problematischer Schweigeklausel
 05-hinweisfall-triage-und-fristen.xlsx,XLSX,hoch,Triage- und Fristenliste
 06-hinschg-scope-vermerk.pdf,PDF,hoch,Vermerk Anwendungsbereich und Schutzstatus
@@ -14,10 +14,12 @@ Datei,Dokumenttyp,Wichtigkeit,Bemerkung
 13-nda-redline-vermerk.pdf,PDF,mittel,Vermerk zur NDA-Redline
 14-bonusentscheidung-risk-note.pdf,PDF,mittel,Risk Note Bonus/Repressalie
 15-email-betriebsrat-meldekanal.eml,EML,mittel,Betriebsrat fragt nach Meldekanal und Tool
-16-antwortentwurf-an-hinweisgeber.md,MD,mittel,Antwortentwurf an Hinweisgeber
+16-antwortentwurf-an-hinweisgeber.docx,DOCX,hoch,Antwortentwurf an Hinweisgeber
 17-datenschutz-meldeakte.pdf,PDF,mittel,Datenschutzvermerk Meldeakte
 18-whatsapp-externe-berater.jpg,JPG,mittel,WhatsApp mit externer Beraterin
-19-behoerden-routing.md,MD,mittel,Routing möglicher Behörden
+19-behoerden-routing.docx,DOCX,hoch,Routing möglicher Behörden
 20-board-briefing-hinschg.pdf,PDF,mittel,Board-Briefing HinSchG-Fall
-21-offene-punkte-und-lueckenliste.md,MD,mittel,Offene Punkte und Lückenliste
+21-offene-punkte-und-lueckenliste.docx,DOCX,mittel,Offene Punkte und Lückenliste
 22-anlagenindex.csv,CSV,mittel,Anlagenindex
+23-entscheidungsvorlage-kurzfassung.docx,DOCX,hoch,Entscheidungsliste der Geschäftsführung
+24-arbeitsstand-fuer-besprechung.pdf,PDF,hoch,Fallkonferenz mit Beweissicherungs- und Dokumentenstand

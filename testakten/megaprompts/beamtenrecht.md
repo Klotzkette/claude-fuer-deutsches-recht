@@ -2,18 +2,135 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 178 Skills (gekürzt für das Arbeitsfenster) des Plugins `beamtenrecht`.
+Diese Vollprüfung enthält top-8 von 179 Skills (gekürzt für das Arbeitsfenster) des Plugins `beamtenrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Allgemein in Beamtenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; li…
-2. **disziplinar-bemessung-13-bdg-stufenfolge** — Wenn es um Disziplinarmaßnahme bemessen - Paragraf 13 BDG und Stufenfolge in Beamtenrecht geht: ordnet Sachverhalt, Norm…
-3. **besoldung-versorgung-familienzuschlag** — Wenn es um Versorgung, Familienzuschlag und offene Übertragungsfragen in Beamtenrecht geht: ordnet Sachverhalt, Norm, Be…
-4. **konkurrentenklage-einstweiliger-rechtsschutz** — Wenn es um Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO in Beamtenrecht geht: erstellt den pass…
-5. **pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv** — Wenn es um pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-6. **konkurrentenschutz-nach-ernennung-schadensersatz** — Wenn es um konkurrentenschutz-nach-ernennung-schadensersatz in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, …
-7. **zulagen-ruhegehaltfaehigkeit-und-rueckforderung** — Wenn es um zulagen-ruhegehaltfaehigkeit-und-rueckforderung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
-8. **beihilfe-implantatfaehige-hoergeraete** — Wenn es um Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen in Beamtenrecht geht: rechnet Schwellen…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Beamtenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
+2. **kaltstart-triage** — Wenn es um Allgemein in Beamtenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; li…
+3. **disziplinar-bemessung-13-bdg-stufenfolge** — Wenn es um Disziplinarmaßnahme bemessen - Paragraf 13 BDG und Stufenfolge in Beamtenrecht geht: ordnet Sachverhalt, Norm…
+4. **besoldung-versorgung-familienzuschlag** — Wenn es um Versorgung, Familienzuschlag und offene Übertragungsfragen in Beamtenrecht geht: ordnet Sachverhalt, Norm, Be…
+5. **konkurrentenklage-einstweiliger-rechtsschutz** — Wenn es um Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO in Beamtenrecht geht: erstellt den pass…
+6. **pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv** — Wenn es um pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+7. **konkurrentenschutz-nach-ernennung-schadensersatz** — Wenn es um konkurrentenschutz-nach-ernennung-schadensersatz in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, …
+8. **zulagen-ruhegehaltfaehigkeit-und-rueckforderung** — Wenn es um zulagen-ruhegehaltfaehigkeit-und-rueckforderung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Beamtenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Beamtenrecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Beamtenrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Widerspruch Klage Vwgo: Bearbeite den Fachpunkt im Skill widerspruch-klage-vwgo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Besold Besoldungswiderspruch Zeitnahe Geltendmachung: Bearbeite den Fachpunkt im Skill besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Reaktivierung nach Paragraf 29 BBG — Rückkehr aus dem Ruhestand: Bearbeite den Fachpunkt im Skill reaktivierung-29-bbg-rechtsanspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Fristen Und Sofortmaßnahmen: Bearbeite den Fachpunkt im Skill fristen-und-sofortmassnahmen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Beamtenrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -365,76 +482,6 @@ _Wenn es um zulagen-ruhegehaltfaehigkeit-und-rueckforderung in Beamtenrecht geht
 ## Quellen-Hardening
 
 Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher/frei prüfbarer Quelle. Landesrecht und Beihilferecht live prüfen.
-
----
-
-## Skill: `beihilfe-implantatfaehige-hoergeraete`
-
-_Wenn es um Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen in Beamtenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
-- Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## 1. Zweck und Anwendungsfall
-
-Skill für Beihilfeberechtigte, denen die Beihilfestelle bei der Erstattung hochwertiger Hilfsmittel die volle Kostenerstattung verweigert hat. Anwendung typischerweise bei Hoergeraeten oberhalb des Festbetrags und bei Cochlea-Implantat-Folgekosten.
-
-## 2. Eingaben
-
-- Aerztliche Verordnung Hilfsmittel
-- Kostenvoranschlag des Hilfsmittelerbringers
-- Beihilfebescheid mit Begruendung der Teilablehnung
-- Anlage zur Beihilfeverordnung (z. B. Anlage 6 BBhV)
-- Audiogramm oder vergleichbarer Funktionsnachweis
-
-## 3. Ablauf / Checkliste
-
-### a) Beihilfefaehigkeit dem Grunde nach
-- Hilfsmittel ist beihilfefaehig, wenn medizinisch notwendig und in der Anlage der Beihilfeverordnung gelistet oder gleichgestellt.
-- Anlage 6 BBhV gibt Festbetraege für typische Hilfsmittel vor.
-
-### b) Festbetrag und Mehrkosten
-- Erstattung bis zum Festbetrag.
-- Mehrkosten beihilfefaehig nur bei besonderer medizinischer Notwendigkeit (z. B. hochgradige Schwerhoerigkeit, berufliche Erfordernisse, Kombination mit Cochlea-Implantat).
-
-### c) Medizinische Notwendigkeit
-- Aerztliche Begruendung und audiologischer Nachweis, dass das gewuenschte Geraet erforderlich ist und einfachere Hilfsmittel nicht ausreichen (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen).
-
-### d) Verfahren
-- Widerspruch gegen Beihilfebescheid; Klage zum VG; Aussetzungsantrag bei drohender hoher Belastung.
-- Im Eilrechtsschutz vorläufige Erstattung nur bei akutem Versorgungsbedarf.
-
-### e) Cochlea-Implantat
-- Nachsorge mit Sprachprozessoren und Wartung beihilfefaehig in regelmäßigen Abstaenden; Streit oft um die Generation des Prozessors.
-
-## 4. Quellenpflicht
-
-- Normen: BBhV (insbesondere Anlage 6); landesrechtliche Beihilfeverordnungen.
-- Rspr.: BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Widerspruchsschrift mit medizinischer Begruendung.
-- Antrag auf Erstattung in voller Höhe.
-
-## 6. Verifizierte Quellenanker
-
-- BBhV insbesondere Anlage 6 (Hilfsmittel und Festbetraege); landesrechtliche Beihilfeverordnungen mit eigenen Hilfsmittelverzeichnissen.
-- Festbetragsregelung als Regelgrenze; medizinische Notwendigkeit als Maßstab für beihilfefaehige Mehrkosten.
-- BVerwG zur Beihilfefaehigkeit hochwertiger Hilfsmittel und zur Prüfung medizinischer Notwendigkeit — Datum und Az vor Zitat live verifizieren.
-- Hilfsmittelrichtlinie des G-BA und einschlaegige HNO- und audiologische Leitlinien als Begruendungsgrundlage.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spezialakustik für Berufstaetigkeit als Richter (Verhandlung in großen Saelen). Kostenvoranschlag 5.800 Euro, Festbetrag 1.500 Euro. Skill liefert Widerspruch mit Begruendung der Mehrkosten als medizinisch notwendig.
 
 ---
 

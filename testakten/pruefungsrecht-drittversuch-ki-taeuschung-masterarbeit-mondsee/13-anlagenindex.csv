@@ -1,7 +1,7 @@
 Datei,Typ,Relevanz
-01-mandatsnotiz-und-auftrag.md,MD,mittel
-02-zeitstrahl-fristen-und-verfahrensstand.md,MD,mittel
-03-normenkette-livecheck.md,MD,mittel
+01-mandatsnotiz-und-auftrag.docx,DOCX,hoch
+02-zeitstrahl-fristen-und-verfahrensstand.docx,DOCX,hoch
+03-normenkette-livecheck.docx,DOCX,hoch
 04-bescheid-endgueltig-nicht-bestanden.docx,DOCX,hoch
 05-punkte-und-ruegematrix.xlsx,XLSX,hoch
 06-akteneinsicht-bewertungsbogen.pdf,PDF,hoch
@@ -10,5 +10,6 @@ Datei,Typ,Relevanz
 09-attest-und-ruecktrittsnotiz.pdf,PDF,mittel
 10-fristen-und-rechtsbehelfe.csv,CSV,mittel
 11-entwurf-widerspruch-akteneinsicht.docx,DOCX,mittel
-12-offene-punkte.md,MD,mittel
+12-offene-punkte.docx,DOCX,mittel
 13-anlagenindex.csv,CSV,mittel
+14-besprechungsunterlage.pdf,PDF,hoch

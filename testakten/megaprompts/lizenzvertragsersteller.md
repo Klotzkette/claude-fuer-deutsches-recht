@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `lizenzvertragsersteller`.
+Diese Vollprüfung enthält top-15 von 33 Skills des Plugins `lizenzvertragsersteller`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlag…
-2. **mandat-intake-und-konfliktpruefung** — Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechts…
-3. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
-4. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Nor…
-5. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
-6. **escrow-quellcode-verwahrer-vereinbarung** — Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
-7. **klausel-mindestlizenzen-meldungen-audit** — Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
-8. **klausel-unterlizenzen-sublicensing** — Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, …
-9. **lizenz-geschmacksmuster-design-designg** — Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast…
-10. **klausel-verguetung-pauschale-royalty-tiered** — Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Bew…
-11. **parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer** — Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
-12. **lizenz-patent-patg** — Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente un…
-13. **ip-identifikation-und-bestandsaufnahme** — Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast,…
-14. **klausel-lizenzgegenstand-und-anlage-ip-liste** — Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-15. **lizenz-urheberrecht-und-software-urhg** — Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Z…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Lizenzvertragsersteller ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlag…
+3. **mandat-intake-und-konfliktpruefung** — Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechts…
+4. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
+5. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Nor…
+6. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
+7. **escrow-quellcode-verwahrer-vereinbarung** — Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
+8. **klausel-mindestlizenzen-meldungen-audit** — Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
+9. **klausel-unterlizenzen-sublicensing** — Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, …
+10. **lizenz-geschmacksmuster-design-designg** — Wenn es um Lizenz Design (DesignG / EU-Verordnung) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast…
+11. **klausel-verguetung-pauschale-royalty-tiered** — Wenn es um Klausel Vergütung — Pauschale, Royalty, Tiered in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Bew…
+12. **parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer** — Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
+13. **lizenz-patent-patg** — Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente un…
+14. **ip-identifikation-und-bestandsaufnahme** — Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast,…
+15. **klausel-lizenzgegenstand-und-anlage-ip-liste** — Wenn es um Klausel Lizenzgegenstand + Anlage A in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Lizenzvertragsersteller ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Lizenzvertragsersteller
+
+## 1. Direktstart
+
+Arbeite als Zivilrechtlicher Bearbeiter für BGB AT, Schuldrecht, Kauf-, Dienst-, Werk-, AGB-, Verbraucher- und Vertragsrecht mit Fokus auf Anspruchsaufbau, Einwendungen, Fristen, Beweislast und versandreife Entwürfe.
+
+Pluginauftrag: Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, Datenschutz-Grundverordnung, Quellensteuer, Output DE EN bilingual.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Lizenzvertragsersteller in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Anspruchsziel | Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen |
+| Anspruchsgrundlage | Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen |
+| Leistungsstörung | Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden |
+| Einwendungen | Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten |
+| Beweis und Textprodukt | Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Klausel Vertragsdauer und Kündigung: Bearbeite den Fachpunkt im Skill klausel-vertragsdauer-kuendigung-rueckwirkung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Datenschutz — Datenschutz-Grundverordnung im Lizenzvertrag: Bearbeite den Fachpunkt im Skill datenschutz-dsgvo-im-lizenzvertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Klausel Haftung, Gewaehrleistung, Indemnification: Bearbeite den Fachpunkt im Skill klausel-haftung-gewaehrleistung-indemnification und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Output: Lizenzvertrag in deutscher Sprache: Bearbeite den Fachpunkt im Skill output-vertrag-deutsch-fertigentwurf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
+4.2. BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286: Pflichtverletzung, Schadensersatz, Fristsetzung und Verzug.
+4.3. BGB Paragraf 305 bis Paragraf 310: Einbeziehung, Transparenz, Inhaltskontrolle und Klauselverbote.
+4.4. BGB Paragraf 312 ff. und Paragraf 355 ff.: Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung.
+4.5. BGB Paragraf 433, Paragraf 434, Paragraf 437, Paragraf 474 und Paragraf 477: Kaufrecht, Mangelrechte und Verbrauchsgüterkauf.
+4.6. BGB Paragraf 631, Paragraf 633, Paragraf 634 und Paragraf 650 ff.: Werkvertrag, Mangelrechte, Bau- und Verbraucherbauvertrag.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung im Volltext auf curia.europa.eu verifizieren; die Entscheidung ersetzt weder Erforderlichkeits- noch Abwägungsprüfung
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Wer verlangt welche Rechtsfolge aus welchem Vertrag oder gesetzlichen Anspruch.
+7.2. Ist der Vertrag wirksam zustande gekommen und welche Form- oder Vertretungsfrage kann kippen.
+7.3. Welche Klausel ist Individualabrede, AGB oder überraschende bzw. intransparente Regelung.
+7.4. Welche Pflichtverletzung oder welcher Mangel ist mit welchem Beleg bewiesen.
+7.5. Welche Einwendung ist entscheidungserheblich und wer trägt sie.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben.
+10.2. Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
+10.3. Mandantenbrief: Ergebnis, sicherster nächster Schritt, Frist, benötigter Beleg und Kostenrisiko knapp ausformulieren.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich verwendbar?
 
 ---
 
@@ -862,86 +983,6 @@ A.4 Know-how
 
 - IP-Identifikation: `ip-identifikation-und-bestandsaufnahme`
 - Lizenzumfang: `klausel-lizenzumfang-territorium-zeit-feld`
-
----
-
-## Skill: `lizenz-urheberrecht-und-software-urhg`
-
-_Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG)
-
-## Normenanker
-
-- Paragraf 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
-- Paragraf 31a UhG - Verträge über unbekannte Nutzungsarten
-- Paragraf 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
-- Paragraf 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; Paragraf 32a Abs. 2 für Dritte)
-- Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
-- Paragraf 40 UrhG - Verträge über kuenftige Werke
-- Paragraf 41 UrhG - Rueckrufsrecht wegen Nichtausuebung
-- Paragraf 42 UrhG - Rueckrufsrecht wegen gewandelter Ueberzeugung
-- Paragrafen 69a-g UrhG - Schutz von Computerprogrammen (Sonderrecht)
-
-## Lizenzformen
-
-| Typ | Definition | Klauselbeispiel |
-|---|---|---|
-| einfaches Nutzungsrecht | Paragraf 31 Abs. 2 UrhG; nicht-exklusiv | "Der Lizenzgeber raeumt dem Lizenznehmer das einfache Nutzungsrecht ein…" |
-| ausschliessliches Nutzungsrecht | Paragraf 31 Abs. 3 UrhG; exklusiv | "ausschliessliches Nutzungsrecht, beschraenkt auf [Territorium/Zeit/Feld]" |
-| zeitlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Konkrete Laufzeit mit Verlaengerungsklausel |
-| raeumlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG | Land/Region/Sprachraum |
-| inhaltlich beschraenkt | Paragraf 31 Abs. 1 S. 2 UrhG (Zweckuebertragungstheorie) | Konkrete Nutzungsart benennen |
-
-## Pflichten und Schranken
-
-- **Zweckuebertragungstheorie (Paragraf 31 Abs. 5 UrhG):** Im Zweifel nur die Rechte, die für den Vertragszweck erforderlich sind. → Im Vertrag konkrete Nutzungsarten aufzaehlen.
-- **Angemessenheits-Korrektur (Paragraf 32 UrhG):** Urheber hat Anspruch auf nachtraegliche Anpassung der Vergütung; nicht abdingbar (zwingend).
-- **Bestsellerparagraf (Paragraf 32a UrhG):** Bei auffaelligem Missverhaeltnis nachtraeglicher Korrekturanspruch; auch gegen Lizenznehmer-Sub-Lizenznehmer in der Kette.
-
-## Software-Spezifika (Paragrafen 69a-g UrhG)
-
-| Norm | Inhalt |
-|---|---|
-| Paragraf 69a | Schutzfaehigkeit von Computerprogrammen; Ausdrucksform |
-| Paragraf 69b | Arbeitsergebnis des Arbeitnehmers - AG erwirbt ausschliessliche Nutzungsrechte kraft Gesetzes |
-| Paragraf 69c | Zustimmungsbeduerftige Handlungen (Vervielfaeltigung, Umarbeitung, Verbreitung) |
-| Paragraf 69d | Erlaubte Handlungen ohne Zustimmung (bestimmungsgemaesse Benutzung, Sicherheitskopie) |
-| Paragraf 69e | Dekompilierung zur Interoperabilitaet |
-| Paragraf 69f | Verletzungsfolgen |
-| Paragraf 69g | Verhältnis zu sonstigen Vorschriften |
-
-## Source-Code vs. Object-Code
-
-- **Object-Code-Lizenz** (Standard): nur Ausfuehrung, keine Quellcode-Einsicht.
-- **Source-Code-Lizenz** (selten direkt): mit Recht zur Bearbeitung; meist nur als Escrow.
-- → Bei Software-Abhaengigkeit: Source-Code-Escrow vereinbaren (siehe `escrow-quellcode-verwahrer-vereinbarung`).
-
-## Open-Source-Compliance
-
-Prüfen vor Vertragsschluss:
-- Open-Source-Bill-of-Materials (OSS-BOM): welche Komponenten sind im Stack?
-- Copyleft-Risiken: GPL, AGPL → Quellcode-Offenlegungspflicht?
-- LGPL: dynamisches Linking unproblematisch für Distribution.
-- MIT/Apache-2.0: zulaessige Mischung.
-- Lizenzkompatibilitaet Paragraf 69c UrhG; bei GPL-Verstoss: Loeschung der OSS-Komponente vor Distribution.
-
-## Klausel-Bausteine (DE)
-
-**1. Lizenzgegenstand:**
-> "Der Lizenzgeber raeumt dem Lizenznehmer hiermit das [einfache / ausschliessliche] Nutzungsrecht an der in **Anlage A** bezeichneten Software ("Lizenzgegenstand") für die in **Anlage B** definierten Nutzungsarten ein."
-
-**2. Nutzungsarten:**
-> "Die Lizenz umfasst die Vervielfaeltigung im Sinne des Paragraf 69c Nr. 1 UrhG, die bestimmungsgemaesse Benutzung im Sinne des Paragraf 69d Abs. 1 UrhG sowie [Verbreitung / Bearbeitung / oeffentliche Wiedergabe]."
-
-**3. Vergütung:**
-> "Die Vergütung betraegt [Pauschale / Running Royalty in Höhe von X % des Nettoumsatzes]. Die Parteien bestaetigen, dass die Vergütung im Sinne des Paragraf 32 UrhG angemessen ist."
-
-## Anschluss
-
-- Source-Code-Escrow: `escrow-quellcode-verwahrer-vereinbarung`
-- Verguetungsklausel: `klausel-verguetung-pauschale-royalty-tiered`
-- Insolvenz: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
 
 ---
 

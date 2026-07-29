@@ -24,33 +24,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Vorgang und Frist: Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch.
+### 3.1. Vorgang und Frist
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Vorgang und Frist: Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Status und Regelwerk: Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären.
+### 3.2. Status und Regelwerk
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Status und Regelwerk: Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Laufendes Arbeitsverhältnis: Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt.
+### 3.3. Laufendes Arbeitsverhältnis
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Laufendes Arbeitsverhältnis: Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen.
+### 3.4. Konflikt und Trennung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III | BGB Paragraf 611a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Vorgang und Frist | BGB Paragraf 611a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Tatbestand, Beweis und Belege im Arbeitsrechtsprozess: Darlegungs | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Status und Regelwerk | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -121,15 +121,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 611a; BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Vorgang und Frist.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14; BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -159,58 +161,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ar Aufhebungsvertrag Praxis
+### 15.1. Vorgang und Frist
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Arbeitsrecht Tatbestand Beweis und Belege
+### 15.2. Status und Regelwerk
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns
+### 15.3. Laufendes Arbeitsverhältnis
 
-Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Aufhebungsvertrag Sperrzeit
+### 15.4. Konflikt und Trennung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Befristung Compliance Dokumentation und Akte
+### 15.5. Arbeitsprodukt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer
+### 15.6. Aufhebungsvertrag in der Praxis: Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34.
 
-zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Prüft einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB
+### 15.7. Aufhebungsvertrag und faires Verhandeln prüfen
 
-Prüft einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Aufhebungsvertrag mit Sperrzeit-Vermeidung
-
-Aufhebungsvertrag so gestalten, dass Mandant keine 12-Wochen-Sperrzeit durch die Bundesagentur für Arbeit erleidet (Paragraf 159 SGB III). 1. Wer initiiert? Arbeitgeber oder Arbeitnehmer? 2. Drohende betriebsbedingte Kündigung? Konkretisierbar? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)
-
-1. Liegt schriftlicher Arbeitsvertrag mit Befristung vor Beschäftigungsbeginn vor? 2. Sachgrundbefristung (Paragraf 14 Abs. 1 TzBfG) oder sachgrundlos (Paragraf 14 Abs. 2 TzBfG)? 3. Bei sachgrundloser Befristung: Vorbeschäftigung bei diesem Arbeitgeber? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Kündigungsschutzklage (Paragraf 4 KSchG)
-
-Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der Erstberatung bis zur Klageschrift. Das Fristrisiko (3 Wochen ab Zugang) ist der kritische Faktor; alles andere kann nachgebessert werden. 1. Genaues Zugangsdatum der Kündigung?. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Fao Fristen Form und Zuständigkeit
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Fachanwalt Arbeitsrecht: Kündigung durch Boten Beweisvermerk und Prozessstrategie
-
-Dieser Skill bearbeitet Kündigung durch Boten Beweisvermerk und Prozessstrategie im Bereich Fachanwalt Arbeitsrecht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Fazugang Neu 001 Kündigung Durch Boten Beweisvermerk und Prozes
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Fazugang Neu 004 Inhalt Des Umschlags Bestreiten und Beweisangeb
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Aufhebungsverträge auf Schriftform, Anfechtung und Verletzung des Gebots fairen Verhandelns. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

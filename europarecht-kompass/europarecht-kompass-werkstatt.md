@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Unionsbezug: Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen.
+### 3.1. Unionsbezug
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Unionsbezug: Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Normwirkung: Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang.
+### 3.2. Normwirkung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Normwirkung: Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Materielle Prüfung: Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen.
+### 3.3. Materielle Prüfung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Materielle Prüfung: Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Rechtsschutz: nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen.
+### 3.4. Rechtsschutz
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsschutz: nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | EUV Artikel 4 Absatz 3 und Artikel 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Unionsbezug | EUV Artikel 4 Absatz 3 und Artikel 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | EUV Artikel 19 und AEUV Artikel 267 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | EuGH-Klagearten und Rechtsschutz | EUV Artikel 19 und AEUV Artikel 267 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Normwirkung | EUV Artikel 19 und AEUV Artikel 267 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -136,15 +136,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Unionsbezug.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge; Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -174,58 +176,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.1. Unionsbezug
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. EuGH-Klagearten und Rechtsschutz
+### 15.2. Normwirkung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Vertragsverletzung und Durchsetzung
+### 15.3. Materielle Prüfung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Fristen- und Risikoampel
+### 15.4. Rechtsschutz
 
-Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich europarecht-kompass sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
+### 15.5. Arbeitsprodukt
 
-Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit. - Paragraf 280 Abs. 1 BGB — Pflichtverletzung, Vertretenmüssen, Schaden. - Paragraf 286 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Europarecht-Kompass — Allgemein
+### 15.6. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Beihilfen: Compliance-Dokumentation und Aktenvermerk
+### 15.7. EuGH-Klagearten und Rechtsschutz
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Drafting: Internationaler Bezug und Schnittstellen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Europarecht: Vorlageverfahren Art. 267
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. EU-Rechtsquellen, Charta und Vorlageweiche
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. EU: Petitionsausschuss
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. EU: Vertragsverletzung Art. 258
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. EU: Zuständigkeiten
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. EU: State-Aid-Notifikation
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte (Vorlage Art. 267 AEUV), Bundesregierung. - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Vorlagebeschluss Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: EU-Kommission, Rat, Europäisches Parlament, EuGH, EuG, Mitgliedstaaten, nationale Gerichte.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

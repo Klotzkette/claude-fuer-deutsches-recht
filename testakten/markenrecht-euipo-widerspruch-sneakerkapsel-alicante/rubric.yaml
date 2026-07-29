@@ -10,6 +10,16 @@ checks:
     check_type: file_exists
     description: Das Primäraktenstück 02_mandantenauftrag_widerspruch_2026-06-24.docx ist vorhanden.
     path: 02_mandantenauftrag_widerspruch_2026-06-24.docx
+  - id: registerauszug-anmeldenummer
+    check_type: text_contains
+    description: Der Registerauszug führt die konkrete Unionsmarkenanmeldung.
+    path: 07_markenregisterauszug_kapsel42_2026-07-02.pdf
+    contains: 019188642
+  - id: registerauszug-waren
+    check_type: text_contains
+    description: Der Registerauszug enthält das konkrete Waren- und Dienstleistungsverzeichnis.
+    path: 07_markenregisterauszug_kapsel42_2026-07-02.pdf
+    contains: Sportschuhe
   - id: fachpruefung-01
     check_type: human_review
     description: Dreimonatige Widerspruchsfrist, Gebührenzahlung, Verfahrenssprache und Cooling-off-Phase aus den

@@ -2,20 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 87 Skills des Plugins `corporate-kanzlei`.
+Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `corporate-kanzlei`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
-3. **agio-und-kapitalerhoehungsstruktur** — Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden E…
-4. **npl-distressed-outside-target** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-5. **restructuring-starug** — Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Fin…
-6. **npl-distressed-loan** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-7. **schuldschein-darlehen-signing-closing** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
-8. **translations-multijurisdictional** — Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücke…
-9. **restructuring-starug-insolvenzplan** — Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Pla…
-10. **datenqualitaet-xai-qualitaetskontrolle** — Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zustän…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Corporate Kanzlei ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
+4. **agio-und-kapitalerhoehungsstruktur** — Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden E…
+5. **npl-distressed-outside-target** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
+6. **restructuring-starug** — Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Fin…
+7. **npl-distressed-loan** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
+8. **schuldschein-darlehen-signing-closing** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
+9. **translations-multijurisdictional** — Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücke…
+10. **restructuring-starug-insolvenzplan** — Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Pla…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Corporate Kanzlei ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Corporate Kanzlei
+
+## 1. Direktstart
+
+Arbeite als Gesellschaftsrechtlicher Bearbeiter für GmbH, AG, Personengesellschaften, Organpflichten, Beschlussmängel und Transaktionen.
+
+Pluginauftrag: Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Corporate Kanzlei in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Gesellschaftsform, Registerlage | Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen |
+| Satzung, Gesellschaftervereinbarung | Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen |
+| Organpflichten, Treuepflichten | Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen |
+| Transaktionsschritte, Notarform | Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen |
+| Arbeitsprodukt | Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Multijurisdiktionale Übersetzungen und Dokumente: Bearbeite den Fachpunkt im Skill corporate-kanzlei-translations-multijurisdictional und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Gesellschaftsrecht und Register: Bearbeite den Fachpunkt im Skill gesellschaftsrecht-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Handelsregisterabruf und -analyse: Bearbeite den Fachpunkt im Skill handelsregisterabruf und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Handelsregisterabruf und -analyse: Bearbeite den Fachpunkt im Skill handelsregisterabruf-ki-governance und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
+4.2. HGB Paragraf 105: offene Handelsgesellschaft.
+4.3. GmbHG Paragraf 13: Rechtsnatur der GmbH.
+4.4. GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+4.5. GmbHG Paragraf 43: Sorgfalt und Verantwortlichkeit der Geschäftsführer.
+4.6. AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Corporate Kanzlei und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
+7.2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
+7.3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
+7.4. Welche Haftungsnorm und welcher Schaden sind konkret.
+7.5. Welcher Vollzugsschritt ist noch offen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich verwendbar?
 
 ---
 
@@ -1123,153 +1240,6 @@ Für StaRUG: Gruppen-Cram-down nach Paragrafen 26 bis 28 und individuellen Antra
 5. Wirkung des StaRUG-Plans mit Bestätigung und des Insolvenzplans mit Rechtskraft unterscheiden.
 6. Asset Deal, Paragraf 613a BGB, öffentlich-rechtliche Haftung und Altverbindlichkeiten einzeln prüfen.
 7. Entscheidungen nur mit verifizierter Quelle verwenden.
-
----
-
-## Skill: `datenqualitaet-xai-qualitaetskontrolle`
-
-_Wenn es um Datenqualität und Qualitätskontrolle im M&A-Mandat in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenqualitaet Xai Qualitaetskontrolle; Arbeitsfeld: Corporate-Kanzlei._
-
-# Datenqualität und Qualitätskontrolle im M&A-Mandat
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Datenqualität und Qualitätskontrolle im M&A-Mandat` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Triage — kläre vor jeder Analyse
-
-1. Welche Datenquellen liegen vor — Datenraum, öffentliches Register, Gutachten, Managementangaben, Presseberichte?
-2. Ist der Datenstand verifiziert und aktuell — Datum der letzten Aktualisierung, Version, Vollständigkeitsbestätigung des Verkäufers?
-3. Welches Risikoniveau hat das Ergebnis — geht es in Board Paper, SPA-Warranty-Katalog, DD-Bericht oder nur interne Orientierung?
-4. Wer ist Human-in-the-loop (Senior Associate, Counsel, Partner) und bis wann ist Senior Review einzuholen?
-5. Gibt es bereits bekannte Datenlücken oder Widersprüche zwischen Quellen (z.B. HR-Zahlen vs. HGB-Anhang)?
-
-## Zentrale Grundlagen
-
-- **§ 93 Abs. 1 S. 2 AktG / § 43 Abs. 1 GmbHG** — Business Judgment Rule: Entscheidung muss auf angemessener Information beruhen; fehlerhafte Datenbasis = kein Safe Harbour.
-- **§ 311 AktG** — Abhängigkeitsbericht: Datenqualität entscheidend für Nachteilsfeststellung.
-- **§ 22 WpHG / Art. 17 MAR** — Insiderinformation: fehlerhafte Quellenattribution kann Marktmissbrauchsrisiko auslösen.
-- **§§ 242, 264 HGB** — Buchführungspflichten: Verlässlichkeit der Finanzdaten als Prüfungsgrundlage.
-- **DSGVO Art. 5 Abs. 1 lit. d** — Datenrichtigkeit: personenbezogene Daten müssen sachlich richtig und aktuell sein.
-
-## Prüfmatrix Datenqualitätskontrolle
-
-| Dimension | Prüffrage | Ampel | Maßnahme bei Rot |
-|---|---|---|---|
-| Quellenursprung | Stammt Datum aus Primärquelle (Register, Jahresabschluss) oder Sekundärquelle (Zusammenfassung, Managementvorlage)? | Grün/Gelb/Rot | Primärquelle einholen oder Vorbehalt dokumentieren |
-| Aktualität | Ist Datenstand nicht älter als [6 Monate]? Stichtag bekannt? | Grün/Gelb/Rot | Verkäuferbestätigung anfordern; Bringschuld in SPA |
-| Vollständigkeit | Gibt es erkennbare Lücken — fehlende Perioden, fehlende Gesellschaften, fehlende Tochtergesellschaften? | Grün/Gelb/Rot | Informationsanforderungsliste (Q&A) aufsetzen |
-| Konsistenz | Stimmen Daten in unterschiedlichen Quellen überein — HR-Zahlen = HGB-Anhang = Managementpräsentation? | Grün/Gelb/Rot | Abweichungsanalyse; Eskalation an Owner |
-| Verlässlichkeit der Schlussfolgerung | Ist Schlussfolgerung aus Datenlage logisch zwingend oder spekulativ? | Grün/Gelb/Rot | Vorbehalt einfügen; Human-in-the-loop |
-| Human-in-the-loop | Ist Senior Review vor Verwendung in Board Paper / SPA / DD-Bericht eingeholt? | Grün/Rot | Review dokumentieren; Keine Weiterverwendung ohne Freigabe |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Quellen inventarisieren:** Alle Quellen mit Bezeichnung, Version, Datum, Datenraum-ID und Vollständigkeitsgrad in Belegkette erfassen.
-2. **Risikolevel bestimmen:** Geht Ergebnis in Entscheidungsvorlage (hohes Risiko), DD-Bericht (mittleres Risiko) oder internen Vermerk (niedriges Risiko)?
-3. **Konsistenzcheck:** Zahlen aus mindestens zwei unabhängigen Quellen gegenprüfen; Abweichungen > [10 %] als Konflikt markieren.
-4. **Lückenanalyse:** Fehlende Daten mit verantwortlicher Person und Frist erfassen; keine Lücken stillschweigend interpolieren.
-5. **Schlussfolgerungsprotokoll:** Jede analytische Schlussfolgerung mit Begründung und Unsicherheitsgrad versehen.
-6. **Human-in-the-loop-Gate:** Bei Risikoniveau Hoch: Senior Review vor Weiterverwendung; Freigabe dokumentieren.
-7. **Qualitätsprotokoll finalisieren:** Ergebnis mit Ampelstatus, Belegkette, offenen Punkten und Freigabegrad übergeben.
-
-## Output-Template Qualitätsprotokoll
-
-**Adressat:** Deal-Team intern — Tonfall sachlich-analytisch
-```
-DATENQUALITÄTSPROTOKOLL
-Mandat: [Mandatsname / Deal-Bezeichnung]
-Ersteller: [Name, Funktion]
-Datum: [Datum]
-Version: [Nr.]
-Freigabe durch: [Name, Funktion, Datum]
-
-ANALYSIERTES ERGEBNIS
-Gegenstand: [kurze Beschreibung des Ergebnisses / der Schlussfolgerung]
-Verwendungszweck: [Board Paper / DD-Bericht / SPA-Annex / interner Vermerk]
-Risikoniveau: [Hoch / Mittel / Niedrig]
-
-BELEGKETTE
-| Nr. | Quelle | Dok-Bezeichnung | Version/Datum | Datenraum-ID | Vollständigkeitsstatus |
-|----|--------|-----------------|--------------|--------------|----------------------|
-| 1 | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
-
-KONSISTENZPRÜFUNG
-| Datenpunkt | Quelle 1 | Quelle 2 | Abweichung | Bewertung |
-|-----------|---------|---------|-----------|-----------|
-| [Punkt] | [Wert] | [Wert] | [%/EUR] | [OK/Konflikt] |
-
-BEKANNTE DATENLÜCKEN
-| Nr. | Fehlende Information | Auswirkung auf Analyse | Owner | Frist | Eskalation |
-|----|---------------------|----------------------|-------|-------|------------|
-| 1 | [Lücke] | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
-
-SCHLUSSFOLGERUNG
-[Ergebnis in 2-3 Sätzen; Grad der Sicherheit; Vorbehalte]
-
-HUMAN-IN-THE-LOOP
-Senior Review eingeholt: [Ja / Nein / Ausstehend]
-Reviewer: [Name, Funktion]
-Freigabedatum: [Datum]
-Freigabegrad: [Vollständig / Unter Vorbehalt / Abgelehnt]
-
-OFFENE PUNKTE
-| Nr. | Punkt | Owner | Frist | Eskalationsstufe |
-|----|-------|-------|-------|-----------------|
-| 1 | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Rote Schwellen
-
-- Schlussfolgerung geht in Board Paper oder SPA ohne dokumentierte Belegkette → Stop; Qualitätsprotokoll erstellen.
-- Bekannte Datenlücke wird verschwiegen statt als Vorbehalt dokumentiert → Haftungsrisiko für Anwalt und GF/Vorstand.
-- Human-in-the-loop-Gate übersprungen bei Risikoniveau Hoch → Senior Review sofort nachholen.
-- Widersprüche zwischen Quellen > [10 %] ohne Klärung → Weitergabe stoppen; Eskalation an Owner.
-- Ergebnis aus nicht verifizierbarer Sekundärquelle als Primärfakt dargestellt → Korrektur erforderlich.
-
-## Strategische Hinweise
-
-| Situation | Empfehlung |
-|---|---|
-| Managementangaben ohne schriftliche Grundlage | Als unverified markieren; schriftliche Bestätigung/Garantie im SPA verlangen |
-| Datenraum-Dokument ohne Versionsnummer | Zeitstempel und Datenraum-ID als Proxy nutzen; Verkäufer um Versionshistorie bitten |
-| Widersprüchliche Finanzzahlen | Buchhalterischen Beleg (Jahresabschluss, Steuerklarung) als Anker verwenden; Management um Überleitung bitten |
-| Ergebnis unter Zeitdruck ohne vollständige Daten | Vorbehalt dokumentieren; Eskalationsschwelle klar benennen; Entscheidungsträger informieren |
-
-## Quellen und Vertiefung
-
-- §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
-- §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
-- Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-
-## Übergabe an andere Skills
-
-- `corporate-kanzlei-kommandocenter` — Gesamtkoordination; Eskalation bei roter Schwelle
-- `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
-- `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
-- `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

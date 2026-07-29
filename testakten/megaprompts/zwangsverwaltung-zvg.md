@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `zwangsverwaltung-zvg`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `zwangsverwaltung-zvg`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-2. **zwangsverwaltung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht…
-3. **beschlagnahme-mietverwaltung-start** — Wenn es um Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart in ZVG-Zwangsverwaltung - Verwalter-Co…
-4. **bieterangebote-mieten-oeffentliche** — Wenn es um Bieterangebote: Compliance-Dokumentation und Aktenvermerk in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: o…
-5. **berichte-beschlagnahme-mietverwaltung-besitz** — Wenn es um Berichte: Schriftsatz-, Brief- und Memo-Bausteine in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt …
-6. **betriebskosten-hausgeld-bieterangebot** — Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
-7. **oeffentliche-lasten** — Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
-8. **recherche-zahlen-schwellen-und-berechnung** — Wenn es um Recherche: Zahlen, Schwellenwerte und Berechnung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Sc…
-9. **versteigerungsteilnahme-mehrparteienkonflikt** — Wenn es um Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix in ZVG-Zwangsverwaltung - Verwalter-Cockpi…
-10. **mieten-risikoampel-und-gegenargumente** — Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht:…
-11. **oeffentliche-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geh…
-12. **anschluss-routing** — Wenn es um Anschluss-Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und …
-13. **beschlagnahme-fristen-form-und-zustaendigkeit** — Wenn es um Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
-14. **rechnungslegung-internationaler-bezug-und-schnittstellen** — Wenn es um Rechnungslegung: Internationaler Bezug und Schnittstellen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
-15. **glaeubiger-schuldner-kommunikation** — Wenn es um Gläubiger-, Schuldner- und Drittschuldnerkommunikation in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüf…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zwangsverwaltung Zvg ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbind…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+3. **zwangsverwaltung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsverwaltung: Erstprüfung, Rollenklärung und Mandatsziel in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht…
+4. **beschlagnahme-mietverwaltung-start** — Wenn es um Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart in ZVG-Zwangsverwaltung - Verwalter-Co…
+5. **bieterangebote-mieten-oeffentliche** — Wenn es um Bieterangebote: Compliance-Dokumentation und Aktenvermerk in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: o…
+6. **berichte-beschlagnahme-mietverwaltung-besitz** — Wenn es um Berichte: Schriftsatz-, Brief- und Memo-Bausteine in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt …
+7. **betriebskosten-hausgeld-bieterangebot** — Wenn es um Betriebskosten, Hausgeld und laufende Objektkosten in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
+8. **oeffentliche-lasten** — Wenn es um Öffentliche Lasten und grundstücksbezogene Abgaben in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet …
+9. **recherche-zahlen-schwellen-und-berechnung** — Wenn es um Recherche: Zahlen, Schwellenwerte und Berechnung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: rechnet Sc…
+10. **versteigerungsteilnahme-mehrparteienkonflikt** — Wenn es um Versteigerungsteilnahme: Mehrparteienkonflikt und Interessenmatrix in ZVG-Zwangsverwaltung - Verwalter-Cockpi…
+11. **mieten-risikoampel-und-gegenargumente** — Wenn es um Mieten: Risikoampel, Gegenargumente und Verteidigungslinien in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht:…
+12. **oeffentliche-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Oeffentliche: Mandantenkommunikation und Entscheidungsvorlage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geh…
+13. **anschluss-routing** — Wenn es um Anschluss-Routing in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und …
+14. **beschlagnahme-fristen-form-und-zustaendigkeit** — Wenn es um Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
+15. **rechnungslegung-internationaler-bezug-und-schnittstellen** — Wenn es um Rechnungslegung: Internationaler Bezug und Schnittstellen in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: p…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Zwangsverwaltung Zvg ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Zwangsverwaltung Zvg
+
+## 1. Direktstart
+
+Arbeite als Vollstreckungsrechtlicher Bearbeiter für Titel, Klausel, Zustellung, Gerichtsvollzieherauftrag, Forderungspfändung, Pfändungs- und Überweisungsbeschluss, Räumung, Kontenabfrage, Schuldnerschutz und Insolvenzschnittstellen.
+
+Pluginauftrag: Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Zwangsverwaltung Zvg in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Titelcheck | vollstreckbarer Inhalt, Klausel, Zustellung, Rechtskraft, Bedingung, Sicherheitsleistung und Forderungsstand prüfen |
+| Vollstreckungsweg | bewegliche Sache, Forderung, Konto, Arbeitseinkommen, Herausgabe, Räumung, Grundstück oder Auskunft bestimmen |
+| Antrag | Gerichtsvollzieherauftrag, Pfändungs- und Überweisungsbeschluss, Drittauskunft, Verhaftungsauftrag oder Vollstreckungsschutz passgenau ausfüllen |
+| Schuldnerschutz und Rang | Pfändungsgrenzen, P-Konto, Vorpfändung, Priorität, Insolvenz, Drittwiderspruch und Erinnerung kontrollieren |
+| Arbeitsprodukt | Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Schuldneranschreiben, Erinnerung oder Schutzantrag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Beschlagnahme: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill beschlagnahme-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Räumung, Kündigung und Besitzkonflikte: Bearbeite den Fachpunkt im Skill raeumung-kuendigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Recherche: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill recherche-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Verteilung: Verhandlung, Vergleich und Eskalation: Bearbeite den Fachpunkt im Skill verteilung-zwangsverwaltung-aktenanlage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. ZPO Paragraf 704 bis Paragraf 750: Titel, Klausel, Zustellung und Vollstreckungsvoraussetzungen.
+4.2. ZPO Paragraf 753 bis Paragraf 802l: Gerichtsvollzieherauftrag, Vermögensauskunft, Haftbefehl und Drittauskünfte.
+4.3. ZPO Paragraf 808 ff.: Pfändung körperlicher Sachen.
+4.4. ZPO Paragraf 829 bis Paragraf 835: Pfändung und Überweisung von Forderungen.
+4.5. ZPO Paragraf 850 ff.: Pfändungsschutz bei Arbeitseinkommen und Konten.
+4.6. ZPO Paragraf 765a: Vollstreckungsschutz bei sittenwidriger Härte.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist der Titel inhaltlich vollstreckungsfähig und liegt die richtige Klausel vor.
+7.2. Ist die Zustellung der vollstreckbaren Ausfertigung nachweisbar.
+7.3. Welcher Vollstreckungsgegenstand verspricht realistisch Befriedigung.
+7.4. Welche Pfändungsgrenze, Vorpfändung oder Insolvenzlage blockiert den Zugriff.
+7.5. Welcher Antrag muss an welches Organ mit welchen Anlagen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage; Vollstreckungsauftrag: Forderung, Vollstreckungsart, bekannte Vermögenswerte, Anlagen, Auskunftsstufen und Zustellungswunsch.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Titelcheck: Titelart, Datum, Tenor, Klausel, Zustellung, Betrag, Zinsen, Kosten, Bedingung und Anlage.
+10.2. Vollstreckungsauftrag: Forderung, Vollstreckungsart, bekannte Vermögenswerte, Anlagen, Auskunftsstufen und Zustellungswunsch.
+10.3. PfÜB-Matrix: Drittschuldner, Forderungsart, Betrag, Nebenforderungen, Rang, Pfändungsschutz und Zustellung.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag verwendbar?
 
 ---
 
@@ -791,121 +912,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `glaeubiger-schuldner-kommunikation`
-
-_Wenn es um Gläubiger-, Schuldner- und Drittschuldnerkommunikation in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Gläubiger-, Schuldner- und Drittschuldnerkommunikation
-
-## Arbeitsbereich
-
-Schriftwechsel in der Zwangsverwaltung mit Schuldner Gläubiger Mieter Gericht Versicherern und Dienstleistern. Anwendungsfall Zwangsverwalter muss formgerechte Schreiben an alle Beteiligten erstellen. Normen §§ 150 151 ZVG § 154 ZVG Pflichten § 543 BGB Kündigung § 535 BGB Mietrecht. Prüfraster Adressat Anlass Normbezug Ton Fristen Dokumentation. Output Schreibenpaket mit Vorlagen für alle typischen Kommunikationsanlaesse in der Zwangsverwaltung. Abgrenzung zu zvg-berichtswesen-gericht (nur Gericht) und zvg-miet-und-pachtverwaltung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: ZVG § 149 Beschlagnahme mit Anordnung, Rechnungslegung 12 Monate, Verteilungstermin nach Plan, sofortige Beschwerde 2 Wochen.
-- Tragende Normen verifizieren: ZVG §§ 146-161 (Zwangsverwaltung), 1-150 (Zwangsversteigerung), §§ 869-882 ZPO, GVKostG, RPflG, GBO §§ 19, 20, 53 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Gläubiger, Schuldner, Zwangsverwalter, Vollstreckungsgericht (AG), Rechtspfleger, Grundbuchamt, Mieter, Hausverwaltung.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zwangsverwaltungsantrag, Anordnungsbeschluss, Verwalterbestallung, Verwaltervergütungsfestsetzung, Rechnungslegung, Verteilungsplan, Aufhebungsbeschluss — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Startet bei
-
-- Mieter, Schuldner, Gläubiger oder Behörden informiert werden müssen
-- Konflikte über Zutritt, Mieten oder Maßnahmen entstehen
-- Gerichtskommunikation vorbereitet wird
-
-## Eingaben
-
-- Rolle und Adressat
-- Beschluss, Objekt, Anlass, gewünschte Reaktion
-- Frist, Belege und Tonalität
-
-## Workflow
-
-1. **Adressat klären** - Rolle, Rechte, Pflichten und Zustellweg bestimmen.
-2. **Kernbotschaft** - Was ist passiert, was wird verlangt, bis wann, mit welcher Folge.
-3. **Belege** - Beschluss, Bestallung, Konto, Fotos oder Tabellen beifügen.
-4. **Nachhalten** - Wiedervorlage, Antwortauswertung und Eskalation setzen.
-
-## Ausgabe
-
-- Schreibenentwurf
-- Anlagenliste
-- Wiedervorlage
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitätsgates
-
-- keine Drohung ohne Grundlage
-- Zahlstelle eindeutig
-- Adressat nicht verwechselt
-
-## Rote Schwellen
-
-- Schuldner blockiert Objektzugang
-- Mieter zahlen falsch
-- Gläubiger drängt auf unzulässige Sonderzahlung
-
-## Interne Vorlagen
-
-- assets/templates/schuldner-glaeubiger-kommunikation.md
-- assets/templates/mieterliste-rent-roll.md
-
-## Amtliche Erstquellen
-
-- § 4 ZwVwV
-- § 16 ZwVwV
-
-## Paragrafenkette Gläubiger-Schuldner-Kommunikation
-
-§ 154 ZVG (Aufsicht durch Gericht) → § 153 Abs. 2 ZVG (Auskunftspflicht) → §§ 13-15 ZwVwV (Buchführung Rechnungslegung) → § 20 ZwVwV (Vergütung und Rechenschaft) → § 242 BGB (Treu und Glauben, Auskunftsanspruch analog)
-
-## Triage Kommunikation
-
-1. Wer ist betreibender Gläubiger? (Alle Gläubiger in Rangklassen nach § 10 ZVG erfassen)
-2. Liegt eine Bevollmächtigung des Gläubigers vor? (Ansprechpartner/Kanzlei)
-3. Kommuniziert der Schuldner kooperativ? (Verweigerung → Gerichtsantrag)
-4. Haben weitere Gläubiger beigetreten?
-
-## Output-Template Gläubigerinfo-Schreiben (Auszug)
-
-**Adressat:** Betreibender Gläubiger — Tonfall formell-berichtend
-
-```
-An [GLÄUBIGER / BEVOLLMÄCHTIGTE KANZLEI]
-[ADRESSE]
-
-Zwangsverwaltung [ADRESSE], AZ [X]
-Quartalsbericht [QUARTAL/JAHR]
-
-Sehr geehrte Damen und Herren,
-
-zum Stand der Zwangsverwaltung berichte ich:
-
-Einnahmen [QUARTAL]: [BETRAG]
-Ausgaben [QUARTAL]: [BETRAG]
-Kontostand per [DATUM]: [BETRAG]
-Ausschüttungsfähiger Betrag nach Rücklage: [BETRAG]
-
-Besondere Vorkommnisse: [LEERSTAND REPARATUR RECHTSTREIT]
-
-Nächster Auszahlungsantrag: [DATUM]
-
-[UNTERSCHRIFT ZWANGSVERWALTER]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

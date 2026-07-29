@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verarbeitungsvorgang und Rollen bestimmen.
+### 3.1. Verarbeitungsvorgang und Rollen bestimmen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Verarbeitungsvorgang und Rollen bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen.
+### 3.2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Informationspflichten, Betroffenenrechte und Fristen strukturieren.
+### 3.3. Informationspflichten, Betroffenenrechte und Fristen strukturieren
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Informationspflichten, Betroffenenrechte und Fristen strukturieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen.
+### 3.4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten.
+### 3.5. Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Prüfstation: Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung | Datenschutz-Grundverordnung Artikel 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verarbeitungsvorgang und Rollen bestimmen | Datenschutz-Grundverordnung Artikel 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Datenschutz-Grundverordnung Artikel 6 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit | Datenschutz-Grundverordnung Artikel 6 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Datenschutz-Grundverordnung Artikel 6 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -140,15 +140,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verarbeitungsvorgang und Rollen bestimmen.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Verarbeitungsvorgang und Rollen bestimmen, Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen, Informationspflichten, Betroffenenrechte und Fristen strukturieren, Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 16.07.2020 - C-311/18; EuGH, Urteil vom 04.05.2023 - C-300/21.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -178,58 +180,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung
+### 15.1. Verarbeitungsvorgang und Rollen bestimmen
 
-Verteilung der Datenschutz-Grundverordnung-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter; Trennung von Aussenhaftung gegenüber Betroffenen und Innenregress; Grenzen vertraglicher Haftungsbegrenzungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verarbeitungsvorgang und Rollen bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung
+### 15.2. Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen
 
-Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, Formate, Fristen, Nachweise und Aufbewahrungsausnahmen. Purpose (EN): End-of-contract data return and deletion under Article 28 (3) (g) GDPR. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.3. Informationspflichten, Betroffenenrechte und Fristen strukturieren
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Informationspflichten, Betroffenenrechte und Fristen strukturieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Beweissicherung nach Datenschutzvorfall — Chain of Custody
+### 15.4. Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Bankablehnung wegen Score: Beweisplan
+### 15.5. Datenpanne, Aufsichtsverfahren
 
-Datenschutz-Grundverordnung Art. 15, 17, 21, 22, 82; BGB AGG nur falls einschlägig; ZPO Beweis. - Bank nennt keinen Grund - Score ist nur ein Faktor - Schaden nicht dokumentiert Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Datenschutz Beschwerde Art. 77 Datenschutz-Grundverordnung — Aufsichtsbehörden-Praxis
+### 15.6. AVV-Haftung und Risikoallokation – Art. 82 Datenschutz-Grundverordnung
 
-Sie brauchen den Skill, sobald (a) ein Mandant Beschwerde einlegen will, (b) der Mandant Adressat einer Beschwerde ist und von der Aufsichtsbehörde angehoert wird, oder (c) eine Beschwerde durch Untaetigkeitsklage durchgesetzt werden soll. Sieben-Fragen-Diagnose: 1. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Verteilung der Datenschutz-Grundverordnung-Haftungsrisiken zwischen Verantwortlichem und Auftragsverarbeiter.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Beschwerde Art
+### 15.7. Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g Datenschutz-Grundverordnung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Aufsichtsbeschwerde gegen Auskunftei
-
-Datenschutz-Grundverordnung Art. 57, 58, 77, 78; BDSG/Landesrecht Zuständigkeit; EuGH C-26/22. - falsche Aufsicht - Beschwerde ohne konkrete Anträge - zivilrechtlicher Schaden nicht getrennt Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung
-
-Isolation von Datenschutzmandaten in Mehrmandat-Kanzleien: Jeder Mandant erhält einen eigenen Arbeitsbereich mit eigener Mandatsdatei (mandat.md). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Dsfa: Beweislast, Darlegungslast und Substantiierung
-
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern: 1. Welche Rolle hat die fragende Person und wer ist Gegenüber? 2. Welches konkrete Ziel soll erreicht oder verhindert werden? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Dsv Beweissicherung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach Paragraf 203 StGB
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Dsv Sammelklagen Prävention
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Dsv Sanktion Bescheid oder Anhörung Richtig Lesen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Strukturierung des Endphase-Managements im AVV: Wahlrecht des Verantwortlichen, Formate, Fristen, Nachweise und Aufbewahrungsausnahmen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

@@ -51,37 +51,37 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Reisevertrag: Fahrgast, Ticket, Kaufvorgang, Beförderer, Strecke, Umstiege und Durchgangsfahrkarte belegen.
+### 3.1. Reisevertrag
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Reisevertrag: Fahrgast, Ticket, Kaufvorgang, Beförderer, Strecke, Umstiege und Durchgangsfahrkarte belegen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Störung: Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch erfassen.
+### 3.2. Störung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Störung: Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Wahlrecht: Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen.
+### 3.3. Wahlrecht
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Wahlrecht: Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Geldanspruch: Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen.
+### 3.4. Geldanspruch
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Geldanspruch: Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen.
+### 3.5. Einwendungen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Einwendungen: Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Arbeitsprodukt: Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen.
+### 3.6. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Entschädigung berechnen | VO (EU) 2021/782 Artikel 12 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Reisevertrag | VO (EU) 2021/782 Artikel 12 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2021/782 Artikel 17 und Artikel 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Klage zum Amtsgericht (Fahrgastrechte) | VO (EU) 2021/782 Artikel 17 und Artikel 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Störung | VO (EU) 2021/782 Artikel 17 und Artikel 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VO (EU) 2021/782 Artikel 12; VO (EU) 2021/782 Artikel 17 und Artikel 18.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Reisevertrag.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg; Anspruchsrechnung: Fahrpreis, Verspätungsstufe, Prozentsatz, Entschädigung, Betreuung, Selbstabhilfe und bereits erhaltene Leistung.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 26.09.2013 - C-509/11.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,54 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Entschädigung berechnen
+### 15.1. Reisevertrag
 
-Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8). EVU darf Beträge darunter ablehnen. Bezugsgröße: Tatsächlich entrichteter Fahrpreis. Bei Hin- und Rückfahrt-Beförderungsvertrag: halber Fahrpreis als Bezug (Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fahrgast, Ticket, Kaufvorgang, Beförderer, Strecke, Umstiege und Durchgangsfahrkarte belegen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Klage zum Amtsgericht (Fahrgastrechte)
+### 15.2. Störung
 
-Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten, Streitwert-Risiko, Auslagen). Vor Einreichung Beweislage prüfen — auf konkrete Vorhalt-Antworten der DB reagieren können. Bei komplexen Fällen oder höherem Streitwert anwaltliche Hilfe einholen; ggf. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Fahrgastrechte — Anlagen bauen
+### 15.3. Wahlrecht
 
-Liest den Schriftsatz und identifiziert alle erwähnten Anlagen anhand der Bezeichnung Anlage K 1, Anlage K 2, ... oder Anlage K1, Anlage K2. Erstellt geordnete Liste in Reihenfolge der Erwähnung im Text. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Katalog der DB-Ablehnungsgründe und Gegenargumente
+### 15.4. Geldanspruch
 
-Generell: Beweislast für außergewöhnliche Umstände und die Ergreifung zumutbarer Maßnahmen liegt beim Eisenbahnverkehrsunternehmen (Art. 19 Abs. 10 VO 2021/782 — Wortlaut "nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Eigenbeförderung und Betreuung (Art. 18. 20 VO; Paragraf 11 EVO)
+### 15.5. Einwendungen
 
-Tatbestand: Wenn dem Fahrgast die verfügbaren Optionen für Weiterreise mit geänderter Streckenführung nicht binnen 100 Minuten nach planmäßiger Abfahrtszeit des verspäteten oder ausgefallenen Verkehrsdienstes oder des verpassten Anschlusses mitgeteilt werden, ist der Fahrgast. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn
+### 15.6. Arbeitsprodukt
 
-VO (EU) 2021/782 vom 29. April 2021 — Neufassung, in Kraft seit 7. Juni 2023, ersetzt VO (EG) 1371/2007. ABl. L 172 vom 17.5.2021, S. 1. eur-lex.europa.eu (CELEX 32021R0782). - EVO 2023 — Eisenbahnverkehrs-Verordnung vom 4. August 2023 (BGBl. 2023 I Nr. 208). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Forderungsschreiben — Erste Stufe
+### 15.7. Entschädigung berechnen
 
-DB Dialog GmbH — Servicecenter Fahrgastrechte, 60647 Frankfurt am Main (Postanschrift; korrekter Postweg auch bei Online-Antrag, wenn schriftliche Spur gewünscht). - Alternativ: Online-Formular auf bahn.de/fahrgastrechte oder über die DB Navigator-App. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Schlichtungsstelle Reise & Verkehr e.V. anrufen
-
-1. Vorgerichtliche Geltendmachung beim EVU. Der Anspruch muss zunächst bei der DB / dem EVU geltend gemacht und mindestens vier Wochen lang ohne befriedigende Antwort geblieben oder abgelehnt worden sein. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Ticket- und Reisedaten erfassen
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Verspätung, Zugausfall oder Anschlussverlust einordnen
-
-Fernverkehr (ICE, IC, EC, FlixTrain, ÖBB) → Art. 19 VO ungeschmälert (60/120 Min). - SPNV (RE, RB, S-Bahn im SPNV-Sinn) → Art. 19 VO ungeschmälert PLUS Paragraf 11 EVO Zusatzrechte (20-Min-Schwelle für Alternativzug; 120-EUR-Limit Ersatzbeförderung bei Nachtfahrt). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Vollmacht für Mitreisende
-
-Bei minderjährigen Mitreisenden ist die Vollmacht durch die erziehungsberechtigten Personen zu erteilen (regelmäßig beide Elternteile gemeinsam, sofern beide sorgeberechtigt — Paragraf 1626 BGB): Bei Reisegruppen — Freundeskreis, Kollegen, Vereinsfahrt — gleiches Schema wie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Fahrgastrechte-Widerspruch — Skill
-
-Der Nutzer lädt typischerweise drei Dokumente hoch: 1. Ablehnungsschreiben der DB — der Brief, in dem die DB den Antrag ablehnt (PDF oder Foto). 2. Ursprünglicher Antrag — das vom Nutzer ausgefüllte Fahrgastrechte-Formular bzw. die Bestätigung (PDF, Screenshot oder Foto). 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Kaltstart Triage
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese: - Frist oder Sofortrisiko. - erkannte Rolle, Zielrichtung und Verfahrensstand. - tragende Tatsachen aus dem Material. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Art. 19 VO (EU) 2021/782 — Entschädigung in zwei Stufen: Mindestauszahlung: 4 EUR pro Fahrkarte (Art. 19 Abs. 8).. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

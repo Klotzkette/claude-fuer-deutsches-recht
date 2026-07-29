@@ -1,16 +1,35 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Pruefungsrecht Drittversuch Ki Taeuschung Masterarbeit Mondsee
+name: Prüfungsrecht Drittversuch Täuschung Masterarbeit Mondsee
 plugin: pruefungsrecht-hochschule
+description: Fallbezogene Qualitätsprüfung des Drittversuchs mit Bewertungsakte, Krankheitsvorgang, Täuschungsvorwurf und Akteneinsicht.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee_gesamt.pdf
+  - id: r02-mandantin-und-modul
+    check_type: text_contains
+    description: Die Mandatsaufnahme bezeichnet Mandantin und Modul konkret.
+    path: 01-mandatsnotiz-und-auftrag.docx
+    contains: Quantitative Methoden III
+  - id: r03-pruefungstag
+    check_type: text_contains
+    description: Die Chronologie enthält den konkreten Prüfungstag.
+    path: 02-zeitstrahl-fristen-und-verfahrensstand.docx
+    contains: 08.04.2026
+  - id: r04-besprechung-vier-vorgaenge
+    check_type: text_contains
+    description: Die Besprechungsunterlage trennt die vier Sachverhaltsstränge.
+    path: 14-besprechungsunterlage.pdf
+    contains: Vier getrennte Vorgänge
+  - id: r05-dateisicherung
+    check_type: text_contains
+    description: Die Besprechungsunterlage enthält die konkrete Dateisicherung.
+    path: 14-besprechungsunterlage.pdf
+    contains: Originaldatei schreibgeschützt kopieren
+  - id: r06-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens zehn exportierbare Arbeitsunterlagen.
+    min: 10
+  - id: r07-fachpruefung
+    check_type: human_review
+    description: Bewertung, Krankheitsvorgang, Täuschungsvorwurf und Akteneinsicht werden nicht vermischt und jeweils quellenbezogen bearbeitet.

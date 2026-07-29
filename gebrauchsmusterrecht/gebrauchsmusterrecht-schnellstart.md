@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Rechtsbestand: Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren.
 4. Schutzbereich und Verletzung: Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen.
 5. Arbeitsprodukt: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
-6. Beschwerde Bpatg: Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Schutzweg und Frist | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzgegenstand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsbestand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzbereich und Verletzung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beschwerde Bpatg | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Besichtigung Beschlagnahme und Beweissicherung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Japan Utility Model Vergleich | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klageanträge Verletzung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Lizenzvertrag Gebrauchsmuster | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Neuheitsschonfrist Eigene Offenbarung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,8 +55,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Beschwerde Bpatg, Besichtigung Beschlagnahme und Beweissicherung, Japan Utility Model Vergleich, Klageanträge Verletzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung.
+7.2. Normsatz: Den tragenden Anker GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Schutzweg und Frist konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Schutzweg und Frist, Schutzgegenstand, Rechtsbestand, Schutzbereich und Verletzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

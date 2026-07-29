@@ -123,6 +123,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`03-beweisantraege-und-ablehnung`](skills/03-beweisantraege-und-ablehnung/SKILL.md), [`04-beweiswuerdigung-strafkammer`](skills/04-beweiswuerdigung-strafkammer/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`02-hauptverhandlung-grosse-strafkammer`](skills/02-hauptverhandlung-grosse-strafkammer/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`01-eroeffnungsverfahren-strafkammer`](skills/01-eroeffnungsverfahren-strafkammer/SKILL.md), [`07-urteilsbegruendung-paragraf-267-lg`](skills/07-urteilsbegruendung-paragraf-267-lg/SKILL.md), [`v392-praxisraster-richter-landgericht-strafkammer`](skills/v392-praxisraster-richter-landgericht-strafkammer/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`05-strafzumessung-grosse-strafkammer`](skills/05-strafzumessung-grosse-strafkammer/SKILL.md), [`06-massnahmen-paragraf-61-stgb`](skills/06-massnahmen-paragraf-61-stgb/SKILL.md), [`08-berufung-strafkammer`](skills/08-berufung-strafkammer/SKILL.md), [`09-rechtsmittelbelehrung-strafkammer`](skills/09-rechtsmittelbelehrung-strafkammer/SKILL.md), [`10-entscheidungsvorschlag-strafkammer`](skills/10-entscheidungsvorschlag-strafkammer/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -133,7 +134,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -148,6 +149,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-rechtsmittelbelehrung-strafkammer`](skills/09-rechtsmittelbelehrung-strafkammer/SKILL.md) | Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-entscheidungsvorschlag-strafkammer`](skills/10-entscheidungsvorschlag-strafkammer/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und näch... |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Strafkammer) in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigke... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Landgericht Strafkammer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-richter-landgericht-strafkammer`](skills/v392-praxisraster-richter-landgericht-strafkammer/SKILL.md) | Wenn es um Praxisraster Landgericht Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

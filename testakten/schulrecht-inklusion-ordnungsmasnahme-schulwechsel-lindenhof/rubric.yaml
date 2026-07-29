@@ -1,16 +1,35 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Schulrecht Inklusion Ordnungsmasnahme Schulwechsel Lindenhof
+name: Schulrecht Inklusion Ordnungsmaßnahme Schulwechsel Lindenhof
 plugin: schulrecht-laender
+description: Fallbezogene Qualitätsprüfung der Schulakte mit Unterrichtsausschluss, Chatvorgang, Förderbedarf, Beschulung und Schulwechsel.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf
+  - id: r02-mandantin-konkret
+    check_type: text_contains
+    description: Die Mandatsaufnahme bezeichnet die Schülerin konkret.
+    path: 01-mandatsnotiz-und-auftrag.docx
+    contains: Amalia Reben
+  - id: r03-chronologie-ausfuehrlich
+    check_type: text_contains
+    description: Die Chronologie enthält den konkreten Unterrichtsausschluss.
+    path: 02-zeitstrahl-fristen-und-verfahrensstand.docx
+    contains: 5. Mai 2026
+  - id: r04-posteingang-verzeichnet
+    check_type: text_contains
+    description: Das Posteingangsregister führt Herkunft und Verwahrort.
+    path: 10-posteingangsregister-schulakte.csv
+    contains: Beweismittelordner schreibgeschützt
+  - id: r05-besprechung-chat
+    check_type: text_contains
+    description: Die Besprechungsunterlage behandelt den vollständigen Chatverlauf als offenen Beleg.
+    path: 14-besprechungsunterlage.pdf
+    contains: Originaldatei, vollständiger Verlauf
+  - id: r06-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens zehn exportierbare Arbeitsunterlagen.
+    min: 10
+  - id: r07-fachpruefung
+    check_type: human_review
+    description: Ausschluss, Beschulung, Prüfung, Förderbedarf, Mobbingvorwurf und Schulwechsel sind nach Quelle und Zuständigkeit getrennt dokumentiert.

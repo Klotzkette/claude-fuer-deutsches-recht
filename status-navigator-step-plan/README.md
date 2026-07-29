@@ -159,7 +159,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`status-navigator-einstieg`](skills/status-navigator-einstieg/SKILL.md), [`szenario-mandatsuebernahme`](skills/szenario-mandatsuebernahme/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`dokumenten-inventur-grob`](skills/dokumenten-inventur-grob/SKILL.md), [`dokumententyp-beschluesse`](skills/dokumententyp-beschluesse/SKILL.md), [`dokumententyp-cap-tables`](skills/dokumententyp-cap-tables/SKILL.md), [`dokumententyp-erklaerungen`](skills/dokumententyp-erklaerungen/SKILL.md), [`dokumententyp-korrespondenz`](skills/dokumententyp-korrespondenz/SKILL.md), [`dokumententyp-vertraege`](skills/dokumententyp-vertraege/SKILL.md), [`luecken-notifizieren`](skills/luecken-notifizieren/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`unterschriftspruefung`](skills/unterschriftspruefung/SKILL.md), [`zugang-zustellung-pruefung`](skills/zugang-zustellung-pruefung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`unterschriftspruefung`](skills/unterschriftspruefung/SKILL.md), [`zugang-zustellung-pruefung`](skills/zugang-zustellung-pruefung/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`excel-reiter-beteiligte-optional`](skills/excel-reiter-beteiligte-optional/SKILL.md), [`excel-reiter-fristen-optional`](skills/excel-reiter-fristen-optional/SKILL.md), [`szenario-finanzierungsstruktur-bereinigen`](skills/szenario-finanzierungsstruktur-bereinigen/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`szenario-faelligstellung-vollstreckung`](skills/szenario-faelligstellung-vollstreckung/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`copy-paste-fehler-erkennung`](skills/copy-paste-fehler-erkennung/SKILL.md) |
@@ -171,7 +171,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 36 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -194,6 +194,7 @@ Automatisch generierte Komplett-Liste aller 35 Skills in diesem Plugin. Jeder Sk
 | [`excel-reiter-4-workflow`](skills/excel-reiter-4-workflow/SKILL.md) | Wenn es um Reiter 4 Workflow Step-Plan in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | [`excel-reiter-beteiligte-optional`](skills/excel-reiter-beteiligte-optional/SKILL.md) | Wenn es um Optionaler Reiter Beteiligte in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`excel-reiter-fristen-optional`](skills/excel-reiter-fristen-optional/SKILL.md) | Wenn es um Optionaler Reiter Fristen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Status Navigator Step Plan ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`luecken-notifizieren`](skills/luecken-notifizieren/SKILL.md) | Wenn es um Luecken in Tabellen notifizieren in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | [`padlet-als-werkzeug`](skills/padlet-als-werkzeug/SKILL.md) | Wenn es um Padlet als Status-Navigator-Werkzeug in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`padlet-spalte-1-ueberblick`](skills/padlet-spalte-1-ueberblick/SKILL.md) | Wenn es um Padlet Reiter 1 Überblick aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

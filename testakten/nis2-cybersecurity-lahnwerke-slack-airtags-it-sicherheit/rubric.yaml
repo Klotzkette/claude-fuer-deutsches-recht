@@ -1,16 +1,35 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
-name: Nis2 Cybersecurity Lahnwerke Slack Airtags It Sicherheit
+name: NIS2 Cybersecurity Lahnwerke Slack Airtags IT Sicherheit
 plugin: nis2-cybersecurity-compliance
+description: Fallbezogene Qualitätsprüfung der Betriebs- und Sicherheitsakte mit Fernzugriff, Kollaboration, Ortung, Wiederanlauf und Schlüsselverwaltung.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf
+  - id: r02-mandantin-konkret
+    check_type: text_contains
+    description: Die Mandatsaufnahme bezeichnet die Aktiengesellschaft konkret.
+    path: 01-mandatsnotiz-und-arbeitsauftrag.docx
+    contains: Lahnwerke Maschinenbau AG
+  - id: r03-vpn-ereignis
+    check_type: text_contains
+    description: Die Chronologie führt den konkreten VPN-Login.
+    path: 02-zeitstrahl-und-fristen.docx
+    contains: 7. Mai 2026, 03:14 Uhr
+  - id: r04-erstgespraech-logquellen
+    check_type: text_contains
+    description: Der Gesprächsleitfaden fragt nach den konkreten Logquellen.
+    path: 03-prueffragen-fuer-erstgespraech.docx
+    contains: SIEM-Export, VPN- und Firewall-Logs
+  - id: r05-konferenz-quellenkontrolle
+    check_type: text_contains
+    description: Die Arbeitskonferenz kontrolliert die behauptete MFA-Abdeckung.
+    path: 24-arbeitsstand-fuer-besprechung.pdf
+    contains: MFA-Abdeckung 95 Prozent
+  - id: r06-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens fünfzehn exportierbare Arbeitsunterlagen.
+    min: 15
+  - id: r07-fachpruefung
+    check_type: human_review
+    description: Technische Aussagen sind mit Log, Konfiguration, Ticket oder benanntem Auskunftsträger belegt und von der rechtlichen Einordnung getrennt.

@@ -62,7 +62,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`datenraum-kapitalerhoehung-insiderrecht`](skills/datenraum-kapitalerhoehung-insiderrecht/SKILL.md), [`ins-017-datenraum-transaktion`](skills/ins-017-datenraum-transaktion/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`aufsichtsrat-sonderpruefung-insiderrecht`](skills/aufsichtsrat-sonderpruefung-insiderrecht/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`aufsichtsrat-sonderpruefung-insiderrecht`](skills/aufsichtsrat-sonderpruefung-insiderrecht/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`ins-014-employee-stock-plan`](skills/ins-014-employee-stock-plan/SKILL.md), [`ins-049-sanierung-und-starug`](skills/ins-049-sanierung-und-starug/SKILL.md), [`sanierung-insolvenzreife`](skills/sanierung-insolvenzreife/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`gerichtsverfahren-sanktionen`](skills/gerichtsverfahren-sanktionen/SKILL.md), [`ins-027-gerichtsverfahren`](skills/ins-027-gerichtsverfahren/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`ins-020-output-dossier`](skills/ins-020-output-dossier/SKILL.md), [`output-dossier`](skills/output-dossier/SKILL.md) |
@@ -75,7 +75,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 112 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -163,6 +163,7 @@ Automatisch generierte Komplett-Liste aller 111 Skills in diesem Plugin. Jeder S
 | [`insiderinformation-zwischenschritte`](skills/insiderinformation-zwischenschritte/SKILL.md) | Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Insiderinformati... |
 | [`insiderliste-art18`](skills/insiderliste-art18/SKILL.md) | Wenn es um Insiderliste nach Art. 18 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`insolvenzreife`](skills/insolvenzreife/SKILL.md) | Wenn es um Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Insiderrecht Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. |
 | [`kapitalerhoehung-insiderrecht`](skills/kapitalerhoehung-insiderrecht/SKILL.md) | Wenn es um Kapitalerhöhung – Insiderrechtliche Anforderungen in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken... |
 | [`ki-archivierung`](skills/ki-archivierung/SKILL.md) | Wenn es um digitale Werkzeuge-Prognosemodelle und Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits-... |

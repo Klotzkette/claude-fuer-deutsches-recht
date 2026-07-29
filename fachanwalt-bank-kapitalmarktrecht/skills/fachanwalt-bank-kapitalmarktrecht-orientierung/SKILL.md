@@ -71,7 +71,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
 
 - **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
-- **BGH XI ZR 133/24** v. 21.10.2025 — Referenzzins fuer Zinsanpassungen in Praemiensparvertraegen (Folgeentscheidung). Quelle: bundesgerichtshof.de PM Nr. 225/2025
+- **BGH XI ZR 133/24** v. 21.10.2025 — Pflichtangaben beim Immobiliar-Verbraucherdarlehen: Behandlung der Sicherungszweckvereinbarung, Berechnung des Effektivzinses bei auslaufender Sollzinsbindung und Folgen eines zu niedrig angegebenen Effektivzinses für den Widerrufsfristlauf. Quelle: bundesgerichtshof.de
 - **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
 
 ### EuGH-Linien

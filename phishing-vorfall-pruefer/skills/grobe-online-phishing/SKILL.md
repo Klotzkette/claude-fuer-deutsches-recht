@@ -36,7 +36,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Definition grobe Fahrlässigkeit:** Verletzung der im Verkehr erforderlichen Sorgfalt in besonders schwerem Maße, naheliegende Überlegungen werden nicht angestellt.
 - **Beweislast:** Bank (§ 675w S. 4 BGB), die Behauptung allein genügt nicht.
 - **Typische "grobe Fahrlässigkeit"-Argumente der Bank — und Gegenargumente:**
- - "Kunde klickte auf Link in Phishing-Mail" — laut BGH XI ZR 91/14 (26.01.2016) reicht das *nicht*, sofern Mail täuschend echt war.
+ - "Das Protokoll zeigt eine erfolgreiche Authentifizierung" — daraus folgt nach BGH XI ZR 91/14 (26.01.2016) weder ohne Weiteres die Autorisierung noch ein allgemeiner Anscheinsbeweis grober Fahrlässigkeit; Sicherungsverfahren und konkreter Ablauf sind getrennt zu beweisen.
  - "Kunde gab PIN/TAN über Anruf weiter" — kommt auf Vortäuschungsqualität an; Call-ID-Spoofing kann nicht-grob fahrlässig sein.
  - "Kunde gab mehrere TANs" — könnte grobe Fahrlässigkeit nahelegen, wenn typische Bankhinweise ignoriert wurden.
  - "Kunde hat AGB-Warnhinweise ignoriert" — nur, wenn diese verständlich, prominent und konkret waren.

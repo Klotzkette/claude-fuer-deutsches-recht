@@ -2,18 +2,133 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 111 Skills (gekürzt für das Arbeitsfenster) des Plugins `insiderrecht-compliance`.
+Diese Vollprüfung enthält top-8 von 112 Skills (gekürzt für das Arbeitsfenster) des Plugins `insiderrecht-compliance`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-2. **insiderinformation-zwischenschritte** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-3. **ins-001-insiderinformation-art7** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-4. **employee-schulung** — Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: o…
-5. **analystencall** — Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sa…
-6. **produktzulassung-whistleblower** — Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sa…
-7. **zwischenschritte-ma** — Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet …
-8. **aktienr-anleiheemission** — Wenn es um Aktienrückkaufprogramme – MAR Safe Harbour und Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Insiderrecht Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **kaltstart-triage** — Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
+3. **insiderinformation-zwischenschritte** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+4. **ins-001-insiderinformation-art7** — Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
+5. **employee-schulung** — Wenn es um Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken in Insiderrecht Compliance geht: o…
+6. **analystencall** — Wenn es um Analysten-Calls und Investorenkommunikation – Selective Disclosure in Insiderrecht Compliance geht: ordnet Sa…
+7. **produktzulassung-whistleblower** — Wenn es um Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen in Insiderrecht Compliance geht: ordnet Sa…
+8. **zwischenschritte-ma** — Wenn es um Zwischenschritte bei mehrstufigen Prozessen (M&A / Restrukturierung) in Insiderrecht Compliance geht: ordnet …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Insiderrecht Compliance ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Insiderrecht Compliance
+
+## 1. Direktstart
+
+Arbeite als Kapitalmarktrechtlicher Bearbeiter für Insiderinformation, Insiderhandel, unrechtmäßige Offenlegung, Ad-hoc-Publizität, Aufschub, Insiderliste, Eigengeschäft, Marktsondierung, Handelsverbot und Aufsichtsverfahren.
+
+Pluginauftrag: Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Insiderrecht Compliance in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Information | Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen |
+| Person und Handlung | Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen |
+| Ad-hoc-Entscheidung | Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen |
+| Kontrollen | Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren |
+| Arbeitsprodukt | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Aufsichtsrats-Sonderprüfung – Insiderrecht: Bearbeite den Fachpunkt im Skill aufsichtsrat-sonderpruefung-insiderrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen: Bearbeite den Fachpunkt im Skill datenraum-kapitalerhoehung-insiderrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Insiderinformation nach Art. 7 MAR: Bearbeite den Fachpunkt im Skill ins-001-insiderinformation-art7 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. M&A-Zwischenschritte: Bearbeite den Fachpunkt im Skill ins-002-zwischenschritte-ma und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. MAR Artikel 7: Insiderinformation mit Präzision, Kursrelevanz und Zwischenschritten eines gestreckten Vorgangs.
+4.2. MAR Artikel 8 und Artikel 14: Insidergeschäfte, Empfehlungen, Veranlassung und unrechtmäßige Offenlegung.
+4.3. MAR Artikel 17: unverzügliche Veröffentlichung und dokumentierter Aufschub der Ad-hoc-Mitteilung.
+4.4. MAR Artikel 18 und Artikel 19: Insiderlisten und Eigengeschäfte von Führungskräften.
+4.5. MAR Artikel 11 und die einschlägigen delegierten Rechtsakte: Marktsondierung, Einwilligung, Belehrung und Aufzeichnung.
+4.6. WpHG und WpHGMaAnzV: nationale Zuständigkeit, Meldung, Aufsicht, Sanktion und Verfahrensanforderungen in aktueller Fassung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Information bestand zu welchem Zeitpunkt in welcher Präzision.
+7.2. Warum wäre sie für einen verständigen Anleger erheblich oder nicht erheblich.
+7.3. Wer kannte die Information wann und welche Handlung folgte daraus.
+7.4. Sind Veröffentlichung oder Aufschub vollständig begründet und dokumentiert.
+7.5. Welche Meldungs-, Listen-, Handelsverbots- oder Aufsichtsfolge läuft.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Information, Person und Handlung, Ad-hoc-Entscheidung, Kontrollen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
 
 ---
 
@@ -497,91 +612,6 @@ d) Ist die Information noch nicht öffentlich?
 - Wurden Handelsverbote für alle Wissensträger sichergestellt?
 - Wurde Market Sounding (Art. 11 MAR) korrekt angewendet, sofern potenzielle Investoren
  sondiert wurden?
-
----
-
-## Skill: `aktienr-anleiheemission`
-
-_Wenn es um Aktienrückkaufprogramme – MAR Safe Harbour und Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
-
-## Arbeitsweg
-
-- Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant?
-- MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. 7 MAR, Handels-/Empfehlungs-/Weitergabeverbot nach Art. 14 MAR, Ad-hoc-Publizität nach Art. 17 MAR, Aufschub nach Art. 17 Abs. 4 MAR, Insiderliste nach Art. 18 MAR, Eigengeschäfte von Führungskräften nach Art. 19 MAR.
-- Deutsche Sanktions- und Verfahrensspur live verifizieren: WpHG §§ 119 ff., BaFin-Zuständigkeit, Börsenrecht, ggf. WpÜG/AktG bei Übernahme, Delisting, Kapitalmaßnahme oder Hauptversammlung.
-- Beweise aktenfest sichern: Timeline, Board-/AR-Unterlagen, Datenraum-Log, Insiderlisten-Versionen, Handelsdaten, Kommunikationskanäle, Aufschubvermerk, Veröffentlichungszeitpunkt und BaFin-/DGAP-/EQS-Belege.
-- Strategische Ausgabe wählen: Ad-hoc-Entscheidungsvorlage, Aufschubvermerk, Leak-Response, Handelsstopp-Empfehlung, Insiderlisten-Audit, PDMR-Meldecheck, BaFin-Antwort oder Verteidigungsnotiz.
-- Rechtsprechung und Behördenpraxis nur mit frei prüfbarer Quelle zitieren; keine BeckRS-/juris-Blindzitate und keine alten WpHG-Paragrafen als Ersatz für die unmittelbar geltende MAR verwenden.
-
-## Rechtlicher Rahmen
-
-Aktienrückkaufprogramme können unter den Safe Harbour der DVO (EU) 2016/1052 fallen, wenn
-Volumen-, Preis- und Timing-Beschränkungen eingehalten werden. Außerhalb des Safe Harbour
-gelten die allgemeinen MAR-Verbote. Art. 5 MAR und DVO 2016/1052 regeln die Ausnahme
-abschließend. Ankündigung des Programms ist in der Regel ad-hoc-pflichtig.
-
-Rechtsgrundlagen:
-- Art. 5 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
-- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
-- §§ 71–71e AktG: https://www.gesetze-im-internet.de/aktg/__71.html
-- BaFin-Emittentenleitfaden Kap. VII: https://www.bafin.de/dok/8252648
-
-## Ziel dieses Skills
-
-Dieser Skill stellt sicher, dass Aktienrückkaufprogramme rechtskonform konzipiert,
-angekündigt und durchgeführt werden, und prüft laufend Safe-Harbour-Konformität.
-
-## Arbeitsprogramm
-
-### Schritt 1 – Beschluss und Ermächtigung
-
-- Hauptversammlungsermächtigung nach § 71 Abs. 1 Nr. 8 AktG vorhanden?
-- Volumen (max. 10 % des Grundkapitals), Laufzeit (max. 5 Jahre) und Preisspanne definiert?
-- Board-Beschluss zur Durchführung dokumentiert
-
-### Schritt 2 – Ad-hoc-Ankündigung
-
-- Bekanntgabe des Programms ist typischerweise ad-hoc-pflichtig, sobald Board-Beschluss
- vorliegt (nicht erst bei Start der Käufe)
-- Inhalt: Volumen, Preisspanne, Zweck, Laufzeit, beauftragtes Institut
-
-### Schritt 3 – Safe-Harbour-Bedingungen (DVO 2016/1052)
-
-Tageskauf-Limit: max. 25 % des durchschnittlichen Tagesvolumens der letzten 20 Handelstage
-Preislimit: Höchstkurs = letzter unabhängiger Abschlusskurs oder höchstes aktuelles unabhängiges
- Gebot (je nachdem, welches höher ist)
-Keine Käufe:
- - Während eines Aufschubs nach Art. 17 Abs. 4 MAR (außer im Rahmen eines vorgefassten Plans)
- - In Closed Periods (Art. 19 Abs. 11 MAR, aber nur für PDMR, nicht für Emittenten-Programm direkt)
- - An Tagen, an denen Ad-hoc-Veröffentlichungen geplant sind
-
-### Schritt 4 – Handelsverbote für PDMRs
-
-- Emittent führt Rückkauf → keine MAR-Verletzung durch den Emittenten im Safe Harbour
-- PDMRs: Eigene Handelsverbote bei Insiderinformation bleiben unberührt
-- Keine PDMR-Eigengeschäfte parallel zum Rückkauf, wenn Insiderinformation besteht
-
-### Schritt 5 – Laufende Offenlegung und Nachgang
-
-- Tägliche Meldung der Rückkäufe an Handelsplatz (Art. 5 Abs. 3 MAR)
-- Wöchentliche Veröffentlichung der aggregierten Rückkäufe auf Website
-- Abschlussmitteilung am Ende des Programms
-- Eigene Aktien: Eintrag ins Aktienregister, §§ 71 ff. AktG
-
-## Weitere Hinweise
-
-Aktienrückkäufe über ein separates Handelsmandat (Beauftragung eines unabhängigen
-Intermediärs nach DVO 2016/1052) bieten zusätzlichen Safe-Harbour-Schutz, da die
-Kaufentscheidung nicht mehr vom Emittenten direkt gesteuert wird. Das Mandat muss jedoch
-vor Beginn einer Insiderphase erteilt worden sein und darf während der Insiderphase nicht
-modifiziert werden. Compliance muss das Mandat regelmäßig auf Übereinstimmung mit dem
-Safe Harbour prüfen.
-
-Weitere Quellen:
-- DVO (EU) 2016/1052: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R1052
-- §§ 71 ff. AktG: https://www.gesetze-im-internet.de/aktg/__71.html
 
 ---
 

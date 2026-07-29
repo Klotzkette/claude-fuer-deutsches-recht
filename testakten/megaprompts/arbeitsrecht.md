@@ -2,20 +2,144 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 99 Skills des Plugins `arbeitsrecht`.
+Diese Vollprüfung enthält top-10 von 100 Skills des Plugins `arbeitsrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **arbeitsgerichtliche-versandmappe-endfertigen** — Macht Kündigungsschutz-, Entfristungs- und Zahlungsschriftsätze versandfertig: liest Vertrag, Kündigung, Zugang, Abmahnu…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachsk…
-3. **mandat-triage-arbeitsrecht** — Wenn es um Mandat Triage Arbeitsrecht in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-4. **kueschk-klageschrift-anwalt-baustein** — Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen in Arbeitsrecht geht…
-5. **rechtsstand-mai-2026-faktenbank** — Wenn es um Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026 in Arbeitsrecht geht…
-6. **kueschk-replik-arbeitnehmer-baustein** — Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt…
-7. **entfristung-grundwarnung-drei-wochen-frist** — Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende in Arbeitsrecht ge…
-8. **entfristung-guetetermin-und-kammertermin-sprechzettel** — Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung in Arbeitsrecht geht:…
-9. **kueschk-stricken-anwalt-risiko-und-vergleichsdruck** — Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passe…
-10. **kueschk-muendliche-verhandlung-praxistipps-laie** — Wenn es um Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten in Arbeitsrecht geht: ent…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
+2. **arbeitsgerichtliche-versandmappe-endfertigen** — Macht Kündigungsschutz-, Entfristungs- und Zahlungsschriftsätze versandfertig: liest Vertrag, Kündigung, Zugang, Abmahnu…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachsk…
+4. **mandat-triage-arbeitsrecht** — Wenn es um Mandat Triage Arbeitsrecht in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
+5. **kueschk-klageschrift-anwalt-baustein** — Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen in Arbeitsrecht geht…
+6. **rechtsstand-mai-2026-faktenbank** — Wenn es um Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026 in Arbeitsrecht geht…
+7. **kueschk-replik-arbeitnehmer-baustein** — Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt…
+8. **entfristung-grundwarnung-drei-wochen-frist** — Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende in Arbeitsrecht ge…
+9. **entfristung-guetetermin-und-kammertermin-sprechzettel** — Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung in Arbeitsrecht geht:…
+10. **kueschk-stricken-anwalt-risiko-und-vergleichsdruck** — Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passe…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Arbeitsrecht
+
+## 1. Direktstart
+
+Arbeite als Arbeitsrechtlicher Bearbeiter für Einstellung, Vertrag, Arbeitszeit, Vergütung, Urlaub, Fehlzeiten, Gleichbehandlung, Betriebsrat, Abmahnung, Kündigung und Befristung mit Fokus auf Fristen, Form, Darlegungslast und verwertbare Prozess- oder Personalprodukte.
+
+Pluginauftrag: Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Arbeitsrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Vorgang und Frist | Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern |
+| Status und Regelwerk | Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären |
+| Laufendes Arbeitsverhältnis | Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen |
+| Konflikt und Trennung | Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen |
+| Arbeitsprodukt | Vertrag, Personalvermerk, Anhörung, Abmahnung, Betriebsratsvorlage, Klage, Erwiderung oder Vergleich ausformulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.: Bearbeite den Fachpunkt im Skill zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang: Bearbeite den Fachpunkt im Skill zugang-neu-008-kschklage-frist-streitigem-zugang und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen: Bearbeite den Fachpunkt im Skill entfristung-klageschrift-anwalt-baustein und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Schritt-für-Schritt Klageschrift Entfristungsklage für Laien: Rubrum: Bearbeite den Fachpunkt im Skill entfristung-klageschrift-laie-baustein und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
+4.2. BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
+4.3. KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
+4.4. BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
+4.5. TzBfG Paragraf 14 bis Paragraf 17: Befristung, Schriftform, Rechtsfolge und Befristungskontrollklage.
+4.6. BetrVG Paragraf 87 und Paragraf 102: Mitbestimmung und Anhörung des Betriebsrats vor Kündigung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen.
+5.2. BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
+5.3. BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei beleidigenden Äußerungen in einer Chatgruppe hängt die Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss ihre Berechtigung darlegen.
+5.4. BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Ein Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung ist unzulässig; darauf beruhender Vortrag kann unverwertbar sein.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Arbeitnehmer für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche arbeitsrechtliche Maßnahme ist angegriffen oder vorzubereiten.
+7.2. Welche Ausschluss- oder Klagefrist läuft und ab welchem Ereignis.
+7.3. Welche Form ist Wirksamkeitsvoraussetzung und welches Beweismittel trägt sie.
+7.4. Welche Tatsachen trägt der Arbeitgeber, welche der Arbeitnehmer.
+7.5. Welche Nebenpunkte müssen in Vergleich oder Tenor mitgeregelt werden.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist.
+10.2. Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
+10.3. Mandantenmemo: Die nächste Handlung ist [Klage/Antwort/Vergleich], weil [Frist/Form/Risiko] den weiteren Verlauf bestimmt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung verwendbar?
 
 ---
 
@@ -1347,122 +1471,6 @@ Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendi
 - Prüfe, ob ein Vergleich zu vertretbaren Bedingungen möglich ist.
 - Notiere dir die Wochenfrist des Paragraf 12 KSchG für den Fall, dass das Gericht die Kündigung für unwirksam erklärt.
 - Erwäge einen Auflösungsantrag nach Paragraf 9 KSchG wenn die Rückkehr unzumutbar ist.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
-
-Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `kueschk-muendliche-verhandlung-praxistipps-laie`
-
-_Wenn es um Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation.
-
-### Mündliche Verhandlung: Praxistipps für Laien
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mündliche Verhandlung: Praxistipps für Laien` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Vor dem Termin
-
-**Dokumente vorbereiten:**
-- Alle Dokumente in Ordner: Klageschrift, Kündigung, Arbeitsvertrag, Lohnabrechnungen, alle Schriftwechsel mit Arbeitgeber
-- Notizen zu den wichtigsten Punkten (Sprechzettel aus `kueschk-guetetermin-strategie-und-sprechzettel` oder `kueschk-kammertermin-sprechzettel`)
-- Ausreichend Kopien für Gericht und Gegenseite (meist zwei Kopien jeder Anlage)
-
-**Kleidung:**
-Kein Vorschrift, aber eine gepflegte, seriöse Erscheinung wirkt professionell. Keine Freizeitkleidung, keine Extremes. Schlichte Businesskleidung ist am sichersten.
-
-**Rechtzeitig erscheinen:**
-Mindestens 15 Minuten vor dem Termin am Gericht. Sicherheitskontrollen einrechnen. Saal-Nummer auf Terminmitteilung notieren.
-
-## Im Sitzungssaal
-
-**Anrede des Gerichts:**
-- Vorsitzender: "Herr Vorsitzender" / "Frau Vorsitzende"
-- Gericht insgesamt: "Das Gericht" oder indirekt ansprechen
-
-**Aufstehen:**
-Wenn das Gericht den Saal betritt, stehen alle auf. Wenn der Richter "Bitte Platz nehmen" sagt, setzen.
-
-**Nur reden wenn man dazu aufgefordert wird:**
-Nicht spontan dazwischenrufen, auch wenn die Gegenseite etwas Falsches sagt. Den eigenen Redebeitrag abwarten.
-
-**Wenn du etwas nicht verstehst:**
-Höflich nachfragen: "Entschuldigung, könnten Sie das bitte wiederholen?"
-
-## Emotionen unter Kontrolle halten
-
-Kündigungsschutzprozesse sind emotional belastend. Ärger und Aufregung sind verständlich, aber:
-- Keine Unterbrechungen
-- Keine Drohungen oder Beleidigungen
-- Keine Tränen wenn möglich (Gericht entscheidet nach Recht, nicht nach Sympathie)
-
-## Was tun wenn Vergleich vorgeschlagen wird?
-
-**Typische Situation im Gütetermin:**
-Der Richter fragt: "Wären beide Seiten bereit, über eine einvernehmliche Lösung nachzudenken?"
-
-**Deine Reaktion:**
-1. Nicht sofort zusagen oder ablehnen
-2. Fragen: "Was wäre der Inhalt eines solchen Vergleichs?"
-3. Wenn Zahlen oder Bedingungen genannt werden: "Ich bitte um kurze Unterbrechung / um Bedenkzeit bis [DATUM], um das prüfen zu können."
-4. Alle Punkte des Vergleichs schriftlich festhalten (Skill `kueschk-vergleichsverhandlung-checkliste`)
-
-**Kein Vergleich unter Druck:**
-Ein Vergleich, den du im Stress unterschreibst, ist bindend. Meist gibt es zumindest eine kurze Unterbrechung oder Bedenkzeit bis zum nächsten Tag.
-
-## Triage zu Beginn — kläre vor Ausgabe der Verhandlungstipps
-
-1. Handelt es sich um den Gütertermin (ca. 2–4 Wochen nach Klageerhebung) oder den Kammertermin (Haupttermin mit ehrenamtlichen Richtern)?
-2. Tritt der Nutzer als Laie ohne Anwalt auf (Paragraf 11 Abs. 1 ArbGG: kein Anwaltszwang erste Instanz)?
-3. Liegt ein Vergleichsangebot der Gegenseite vor, das vorbereitet werden muss?
-4. Besteht besonderer Stress- oder Zeitdruck (z.B. Termin innerhalb von 24 Stunden)?
-
-**Ablauf-Übersicht Gütertermin vs. Kammertermin:**
-
-| Merkmal | Gütertermin | Kammertermin |
-|---|---|---|
-| Richterbesetzung | Nur Vorsitzende:r | Kammer (1+2 ehrenamtlich) |
-| Dauer | 10–20 Minuten | 30–90 Minuten |
-| Ziel | Einigung/Vergleich | Urteil oder Vergleich |
-| Schriftsätze | Meist noch keine | Klageerwiderung liegt vor |
-| Beweisaufnahme | Nein | Möglich (Zeugen) |
-
-## Zentrale Normen
-
-- **Paragraf 54 ArbGG** — Güterverhandlung (obligatorisch, Einigungsversuch)
-- **Paragraf 55 ArbGG** — Allgemeine Verfahrensförderung, Gütliche Einigung
-- **Paragraf 60 ArbGG** — Kammertermin; Kammer mit Vorsitzenden und zwei ehrenamtlichen Richtern
-- **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang in erster Instanz
-- **Paragraf 278 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Gütliche Einigung jederzeit möglich
-- **Paragraf 794 Abs. 1 Nr. 1 ZPO** — Gerichtlicher Vergleich als Vollstreckungstitel
-
-## Nach dem Termin
-
-- Protokoll des Vergleichs oder Sitzungsprotokoll aufheben
-- Wenn Urteil ergeht: Rechtsmittelfristen notieren (Berufung beim LAG: einen Monat)
-- Wenn Vergleich geschlossen: Freistellungsdatum, Zeugnis-Zusagen und Abfindungszahlung kontrollieren
 
 ---
 

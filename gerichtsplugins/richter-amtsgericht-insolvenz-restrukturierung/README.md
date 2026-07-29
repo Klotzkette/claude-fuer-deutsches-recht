@@ -109,7 +109,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
-| 3. Prüfung, Anspruch und Subsumtion | [`04-glaeubigerversammlung-und-pruefungstermin`](skills/04-glaeubigerversammlung-und-pruefungstermin/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`04-glaeubigerversammlung-und-pruefungstermin`](skills/04-glaeubigerversammlung-und-pruefungstermin/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`07-insolvenzplan-bestaetigen`](skills/07-insolvenzplan-bestaetigen/SKILL.md), [`08-starug-restrukturierungssache-anzeigen`](skills/08-starug-restrukturierungssache-anzeigen/SKILL.md), [`10-starug-planbestaetigung-und-folgen`](skills/10-starug-planbestaetigung-und-folgen/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`01-eroeffnungsantrag-pruefen-insolvenz`](skills/01-eroeffnungsantrag-pruefen-insolvenz/SKILL.md), [`03-eroeffnungsbeschluss-und-verwalterbestellung`](skills/03-eroeffnungsbeschluss-und-verwalterbestellung/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`02-sicherungsmassnahmen-vor-eroeffnung`](skills/02-sicherungsmassnahmen-vor-eroeffnung/SKILL.md), [`05-restschuldbefreiung-und-schlusstermin`](skills/05-restschuldbefreiung-und-schlusstermin/SKILL.md), [`06-eigenverwaltung-und-schutzschirm`](skills/06-eigenverwaltung-und-schutzschirm/SKILL.md), [`09-starug-stabilisierungsanordnung`](skills/09-starug-stabilisierungsanordnung/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -120,7 +120,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -135,6 +135,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Sk
 | [`09-starug-stabilisierungsanordnung`](skills/09-starug-stabilisierungsanordnung/SKILL.md) | Wenn es um 09 StaRUG Stabilisierungsanordnung in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-starug-planbestaetigung-und-folgen`](skills/10-starug-planbestaetigung-und-folgen/SKILL.md) | Wenn es um 10 StaRUG Planbestätigung und Folgen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss Insolvenz oder Restrukturierung) in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ei... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Amtsgericht Insolvenz Restrukturierung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition un... |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

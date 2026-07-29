@@ -77,6 +77,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`ablauf-laufzeitende-erbbaurecht-aktenstruktur`](skills/ablauf-laufzeitende-erbbaurecht-aktenstruktur/SKILL.md), [`erbbaurecht-aktenstruktur`](skills/erbbaurecht-aktenstruktur/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`erbbaurecht-indexklausel-inflation`](skills/erbbaurecht-indexklausel-inflation/SKILL.md), [`erbbaurechtsvertrag-pflichtinhalt`](skills/erbbaurechtsvertrag-pflichtinhalt/SKILL.md), [`erbbauzins-struktur-erbbauzinsanpassung`](skills/erbbauzins-struktur-erbbauzinsanpassung/SKILL.md), [`heimfall-gruende-indexklausel-inflation`](skills/heimfall-gruende-indexklausel-inflation/SKILL.md), [`verkauf-spa-erbbaurechtsvertrag-pflichtinhalt`](skills/verkauf-spa-erbbaurechtsvertrag-pflichtinhalt/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`erbbaurecht-fristen-und-reminder`](skills/erbbaurecht-fristen-und-reminder/SKILL.md), [`erbbaurecht-schieds-und-gerichtsstand`](skills/erbbaurecht-schieds-und-gerichtsstand/SKILL.md), [`erbbaurecht-vorlage-zustimmungsantrag`](skills/erbbaurecht-vorlage-zustimmungsantrag/SKILL.md), [`kommunale-beschlussvorlage-erbbaurecht`](skills/kommunale-beschlussvorlage-erbbaurecht/SKILL.md), [`rueckbau-am-schieds-gerichtsstand`](skills/rueckbau-am-schieds-gerichtsstand/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`erbbaurecht-mandantenbrief`](skills/erbbaurecht-mandantenbrief/SKILL.md) |
@@ -89,7 +90,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -127,6 +128,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Jeder Sk
 | [`heimfall-verteidigung-insolvenz`](skills/heimfall-verteidigung-insolvenz/SKILL.md) | Wenn es um Heimfall abwehren in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`insolvenz-erbbauberechtigter`](skills/insolvenz-erbbauberechtigter/SKILL.md) | Wenn es um Insolvenz des Erbbauberechtigten in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`instandhaltung-versicherung-investoren-q`](skills/instandhaltung-versicherung-investoren-q/SKILL.md) | Wenn es um Instandhaltung, Versicherung und Betriebspflichten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Na... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Erbbaurecht Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md) | Wenn es um Kaltstart Erbbaurecht in Erbbaurecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | [`kauf-due-kita-sozialimmobilie`](skills/kauf-due-kita-sozialimmobilie/SKILL.md) | Wenn es um Erbbaurecht kaufen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kommunale-beschlussvorlage-erbbaurecht`](skills/kommunale-beschlussvorlage-erbbaurecht/SKILL.md) | Wenn es um Kommunale Beschlussvorlage in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

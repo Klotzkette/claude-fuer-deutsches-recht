@@ -1,23 +1,25 @@
 Datei,Dokumenttyp,Wichtigkeit,Bemerkung
-01-mandatsnotiz-und-arbeitsauftrag.md,MD,mittel,"Erste Lage, Personen, Ziel und offene Fragen"
-02-zeitstrahl-und-fristen.md,MD,mittel,Chronologie mit Entscheidungs- und Eskalationspunkten
-03-prueffragen-fuer-erstgespraech.md,MD,mittel,Katalog für das erste strukturierte Gespräch
+01-mandatsnotiz-und-arbeitsauftrag.docx,DOCX,hoch,"Mandatsaufnahme, Beteiligte, Akteneingang und Arbeitsauftrag"
+02-zeitstrahl-und-fristen.docx,DOCX,hoch,Chronologie mit Quellen- und Fristenkontrolle
+03-prueffragen-fuer-erstgespraech.docx,DOCX,hoch,Katalog für das erste strukturierte Gespräch
 04-handelsvertretervertrag-auszug.docx,DOCX,hoch,Auszug Handelsvertretervertrag
 05-provisionsabrechnung-und-buchauszug-luecken.xlsx,XLSX,hoch,Provisionsabrechnung und Buchauszugslücken
-06-statuscheck-paragraph-84-hgb.pdf,PDF,hoch,Statuscheck § 84 HGB
+06-statuscheck-paragraph-84-hgb.pdf,PDF,hoch,Statuscheck Paragraf 84 HGB
 07-email-kuendigung-onlinevertrieb.eml,EML,hoch,Kündigung wegen Online-Vertriebsumstellung
 08-email-buchauszug-verlangen.eml,EML,mittel,Vertreter verlangt Buchauszug
-09-ausgleich-89b-arbeitsvermerk.pdf,PDF,hoch,Arbeitsvermerk Ausgleich § 89b HGB
-10-wettbewerbsabrede-90a-check.pdf,PDF,mittel,Check Wettbewerbsabrede § 90a HGB
+09-ausgleich-89b-arbeitsvermerk.pdf,PDF,hoch,Arbeitsvermerk Ausgleich Paragraf 89b HGB
+10-wettbewerbsabrede-90a-check.pdf,PDF,mittel,Check Wettbewerbsabrede Paragraf 90a HGB
 11-whatsapp-geschaeftsfuehrer-vertrieb.jpg,JPG,mittel,Chat Geschäftsführer/Vertrieb
 12-kundenliste-auszug.csv,CSV,mittel,Kundenliste mit Neukunden/Bestandskunden
 13-vergleichsentwurf.docx,DOCX,mittel,Vergleichsentwurf Arbeitsstand
 14-kartellrecht-vertikal-vermerk.pdf,PDF,mittel,Vermerk Onlinevertrieb und Kartellrecht
 15-email-crm-export.eml,EML,mittel,CRM-Export mit Datenschutzbedenken
-16-beweisliste-und-zeugenthemen.md,MD,mittel,Beweisliste und Zeugenthemen
+16-beweisliste-und-zeugenthemen.docx,DOCX,hoch,Beweisliste und Zeugenthemen
 17-stornoreserve-vermerk.pdf,PDF,mittel,Vermerk Stornoreserve und Rückbelastung
 18-screenshot-crm-pipeline.jpg,JPG,mittel,CRM-Pipeline-Screenshot
-19-fristen-und-verjaehrung.md,MD,mittel,Fristen und Verjährung
+19-fristen-und-verjaehrung.docx,DOCX,hoch,Fristen und Verjährung
 20-vorstandsvorlage-vertriebsumstellung.pdf,PDF,mittel,Vorstandsvorlage Vertriebsumstellung
-21-offene-punkte-und-lueckenliste.md,MD,mittel,Offene Punkte und Lückenliste
+21-offene-punkte-und-lueckenliste.docx,DOCX,mittel,Offene Punkte und Lückenliste
 22-anlagenindex.csv,CSV,mittel,Anlagenindex
+23-entscheidungsvorlage-kurzfassung.docx,DOCX,hoch,Entscheidungsliste der Geschäftsführung
+24-arbeitsstand-fuer-besprechung.pdf,PDF,hoch,Besprechungsunterlage mit Akten- und Zahlenabgleich

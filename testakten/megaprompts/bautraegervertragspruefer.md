@@ -2,25 +2,144 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 30 Skills des Plugins `bautraegervertragspruefer`.
+Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `bautraegervertragspruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **fertigstellungssicherheit-650m-pruefen** — Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverh…
-2. **teilungserklaerung-gemeinschaftsordnung** — Wenn es um Teilungserklärung und Gemeinschaftsordnung in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweis…
-3. **gemeinschaft-zieht-maengelrechte-an-sich** — Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
-4. **maengelrechte-633-634-bgb** — Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
-5. **mittlere-art-und-guete-und-din** — Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, …
-6. **mabv-sicherheit-paragraf-7-pruefen** — Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-7. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt,…
-8. **baubeschreibung-bausoll-pruefen** — Wenn es um Baubeschreibung und Bausoll prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-9. **fall-fingerabdruck-erstellen** — Wenn es um Fall-Fingerabdruck erstellen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-10. **insolvenzrisiken-bautraeger** — Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-11. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Fris…
-12. **mandantengutachten-aufbau** — Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislas…
-13. **paragraf-308-nr-4-bgb-leistungsaenderung** — Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Z…
-14. **drei-dokumente-paket-erzeugen** — Wenn es um Drei-Dokumente-Paket erzeugen in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
-15. **hoai-bauueberwachung-private-bauueberwachung** — Wenn es um HOAI, Bauüberwachung und private Bauüberwachung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständi…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **fertigstellungssicherheit-650m-pruefen** — Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverh…
+3. **teilungserklaerung-gemeinschaftsordnung** — Wenn es um Teilungserklärung und Gemeinschaftsordnung in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweis…
+4. **gemeinschaft-zieht-maengelrechte-an-sich** — Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
+5. **maengelrechte-633-634-bgb** — Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
+6. **mittlere-art-und-guete-und-din** — Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, …
+7. **mabv-sicherheit-paragraf-7-pruefen** — Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
+8. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt,…
+9. **baubeschreibung-bausoll-pruefen** — Wenn es um Baubeschreibung und Bausoll prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+10. **fall-fingerabdruck-erstellen** — Wenn es um Fall-Fingerabdruck erstellen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
+11. **insolvenzrisiken-bautraeger** — Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
+12. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Fris…
+13. **mandantengutachten-aufbau** — Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislas…
+14. **paragraf-308-nr-4-bgb-leistungsaenderung** — Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Z…
+15. **drei-dokumente-paket-erzeugen** — Wenn es um Drei-Dokumente-Paket erzeugen in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Bauträgervertragsprüfer
+
+## 1. Direktstart
+
+Arbeite als Baurechtlicher Bearbeiter für Bauvertrag, Architektenleistung, Mängel, Nachtrag, Abnahme, Bauzeit, Sicherheiten und Bauprozess.
+
+Pluginauftrag: Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Bauträgervertragsprüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Vertragssoll | Leistungsbeschreibung, Pläne, Nachträge, Termine, Vergütung und Sicherheiten erfassen |
+| Bauablauf | Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen |
+| Mangel | Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden prüfen |
+| Architekt | Leistungsphase, Überwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen |
+| Städtebauliche Verträge | Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Bauträgervertrag-Qualifikation: Bearbeite den Fachpunkt im Skill bautraegervertrag-qualifikation und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Abnahme Sondereigentum Paragraf 640 BGB: Bearbeite den Fachpunkt im Skill abnahme-sondereigentum-paragraf-640 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Gesamtnichtigkeit Paragraf 306 BGB: Bearbeite den Fachpunkt im Skill gesamtnichtigkeit-paragraf-306-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Mängelrechte Paragrafen 633 und 634 BGB: Bearbeite den Fachpunkt im Skill maengelrechte-633-634-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 631: Werkvertragliche Hauptpflichten.
+4.2. BGB Paragraf 633: Sach- und Rechtsmängel des Werkes.
+4.3. BGB Paragraf 634: Rechte des Bestellers bei Mängeln.
+4.4. BGB Paragraf 640: Abnahme.
+4.5. BGB Paragraf 650a: Bauvertrag.
+4.6. BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
+5.2. BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
+5.3. BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
+5.4. BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme ist unwirksam; eine Teilabnahme folgt nicht schon aus einer Vertragsklausel, nach der die Verjährung mit Abnahme der letzten Unternehmerleistung beginnt.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Vertragssoll ist beweisbar vereinbart.
+7.2. Ist abgenommen oder abnahmereif.
+7.3. Welche Mängelrechte sind nach Fristsetzung eröffnet.
+7.4. Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
+7.5. Welche technische Frage muss ein Sachverständiger klären.
+7.6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Vertragssoll, Bauablauf, Mangel, Architekt: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung verwendbar?
 
 ---
 
@@ -834,61 +953,6 @@ Sehr geehrte/r [Mandant/in],
 Betreff: Bautraegervertrag [Projekt, Einheit, Datum] — erforderliche Anpassungen vor Beurkundung
 [Für jeden roten Befund: Original, Begründung, Gegenargument, Antwort, gewünschte Fassung]
 Frist: [Datum]
-```
-
----
-
-## Skill: `hoai-bauueberwachung-private-bauueberwachung`
-
-_Wenn es um HOAI, Bauüberwachung und private Bauüberwachung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# HOAI, Bauüberwachung und private Bauüberwachung
-
-## Wann dieser Skill greift
-
-Wenn der Vertrag keine Aussage darüber enthält, wer die Ausführungsplanung (Leistungsphase 5) und die Objektüberwachung (Leistungsphase 8) schuldet; wenn die Bauüberwachung nur intern durch den Bauträger selbst erfolgt; wenn der Vertrag dem Erwerber den Baustellenzutritt mit eigenen Sachverständigen verbietet oder wenn technische Qualitätsgates fehlen.
-
-## Pflichtnormen
-
-- Paragraf 34 HOAI in Verbindung mit Anlage 10.1 HOAI: Leistungsbild Gebäude und Innenräume, neun Leistungsphasen; Leistungsphase 8 ist Objektüberwachung, Bauüberwachung und Dokumentation — dies ist primär Honorarrecht, aber belastbares Organisationsraster für die Prüfung der Planungs- und Überwachungslogik.
-- Paragraf 650n BGB: Pflicht zur Übergabe von Planungs- und Nachweisunterlagen vor Ausführung und spätestens mit Fertigstellung; gilt auch beim Bautraegervertrag.
-- Paragraf 3 Absatz 2 MaBV: Bautenstand muss objektiv prüfbar sein; rein interne Bauleiterbestätigung des Verkäufers ist keine ausreichende Fälligkeitsgrundlage.
-- Paragraf 307 BGB: Klauseln, die jede private Bautenstandskontrolle oder Sachverständigen-Teilnahme an Abnahmen ausschließen, entwerten MaBV-Fälligkeit, Abnahmeprüfung und Mängelrechte und sind unwirksam.
-
-## Pruefraster
-
-1. **Leistungsphase 5 — Ausführungsplanung**: Liegt ausführungsreife Planung vor? Ohne LPH-5-Logik sind Schall, Abdichtung, Brandschutz, Haustechnik und Baukonstruktion nicht prüfbar.
-2. **Leistungsphase 8 — Objektüberwachung**: Wer überwacht die Bauausführung? Ist der Objektüberwacher unabhängig vom Bauträger? Gibt es Bautenstandsberichte, Mängeltracking und Rechnungsfreigaben?
-3. **Interne Kontrolle**: Rein interne Bauträgerkontrolle ohne unabhängige Fachüberwachung ist kein ausreichender Ersatz; Ampel orange bis rot.
-4. **Private Bauüberwachung durch den Erwerber**: Der Erwerber darf keine Weisungen an Handwerker geben, aber er muss das Recht haben, eigene Sachverständige zu definierten Qualitätsgates (Rohbau, Fenster/Dach, Rohinstallation, Estrich, Abdichtung, Abnahme) mitzunehmen.
-5. **Klauseln gegen private Sachverständige**: Formularmäßige Klauseln, die eigene Baukontrolle, private Sachverständige, Fotodokumentation oder Abnahmebegleitung pauschal ausschließen, sind nach Paragraf 307 BGB unwirksam.
-6. **HOAI als Direktanspruch**: HOAI begründet keinen Direktanspruch des Erwerbers gegen den Architekten des Bauträgers; sie dient als Organisations- und Plausibilitätsraster.
-7. **Dokumentations- und Übergabepaket**: Welche Unterlagen bekommt der Erwerber und die Gemeinschaft nach Fertigstellung? Statik, Brandschutz, Schallschutz, Energie, Revisionsunterlagen, Wartungsanleitungen.
-
-## Leitentscheidungen
-
-Keine eigenständigen quellenhart verifizierten BGH-Entscheidungen zur HOAI-Pflicht des Bauträgers im Megaprompt ausgewiesen. Normative Grundlage ist Paragraf 650n BGB und Paragraf 307 BGB in Verbindung mit der MaBV-Logik.
-
-## Arbeitsprodukt
-
-HOAI-Rollen-Prüfliste mit Bewertung von Planung, Überwachung und Dokumentation; Klauselbefund für Zutrittsverbote; Forderung nach vertraglicher Sachverständigenrechts-Regelung und Dokumentationsübergabe.
-
-## Musterbaustein
-
-```text
-HOAI- und Bauüberwachungs-Prüfung
-
-Leistungsphase 5 — Ausführungsplanung:       [vorhanden / unklar / fehlend]
-Leistungsphase 8 — Objektüberwachung:        [unabhängiger Objektüberwacher / nur interne Kontrolle → 🔴]
-Bautenstandsberichte für MaBV-Raten:         [vorhanden und erwerberprüfbar / nur Bauleiterbestätigung → 🔴]
-Sachverständigen-Zutrittsrecht Erwerber:     [geregelt / ausgeschlossen → 🔴 nach Paragraf 307 BGB]
-Dokumentationsübergabe laut Vertrag:         [vollständig / pauschal / fehlend]
-
-Forderung private Bauüberwachung:
-"Bitte ergänzen Sie eine Regelung, wonach der Erwerber nach angemessener Voranmeldung und unter Beachtung der Sicherheitsvorgaben einen eigenen Sachverständigen zu den folgenden Qualitätsgates hinzuziehen darf: Rohbau, Fenster und Dach, Rohinstallation, Estrich, Abdichtung Tiefgarage, Bezugsfertigkeit und Abnahme. Die Fälligkeit von MaBV-Raten darf nicht allein durch eine interne Bauleiterbestätigung des Verkäufers ausgelöst werden."
-
-Dokumentationsforderung:
-Der Bauträger stellt dem Erwerber und der Gemeinschaft der Wohnungseigentümer spätestens mit Fertigstellung folgende Unterlagen zur Verfügung: geprüfte Statik, Brandschutznachweise, Schallschutznachweis, Energieausweis und GEG-Nachweise, Revisionspläne, Wartungsanleitungen für alle technischen Anlagen und Fachunternehmererklärungen.
 ```
 
 ---

@@ -63,7 +63,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`datenschutz-mitgliederliste`](skills/datenschutz-mitgliederliste/SKILL.md), [`verein-dokumentenpaket-politik-social-media`](skills/verein-dokumentenpaket-politik-social-media/SKILL.md), [`verein-livequellen-check`](skills/verein-livequellen-check/SKILL.md), [`vereinsvermoegen-konto-versicherung-verein`](skills/vereinsvermoegen-konto-versicherung-verein/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`haftung-vorstand-ehrenamtspauschale`](skills/haftung-vorstand-ehrenamtspauschale/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`haftung-vorstand-ehrenamtspauschale`](skills/haftung-vorstand-ehrenamtspauschale/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`satzung-grundstruktur`](skills/satzung-grundstruktur/SKILL.md), [`veranstaltung-planen`](skills/veranstaltung-planen/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`anfechtung-beschluss`](skills/anfechtung-beschluss/SKILL.md), [`aufloesung-liquidation-beschlussvorlagen`](skills/aufloesung-liquidation-beschlussvorlagen/SKILL.md), [`beschlussvorlagen`](skills/beschlussvorlagen/SKILL.md), [`gemeinnuetzigkeit-antrag`](skills/gemeinnuetzigkeit-antrag/SKILL.md), [`registergericht-rueckfrage`](skills/registergericht-rueckfrage/SKILL.md), [`ruecklagen-mittelverwendung-rundbrief`](skills/ruecklagen-mittelverwendung-rundbrief/SKILL.md), [`transparenzregister-gwg-umlaufbeschluss`](skills/transparenzregister-gwg-umlaufbeschluss/SKILL.md), [`umlaufbeschluss`](skills/umlaufbeschluss/SKILL.md), [`verein-als-zweckbetrieb-anfechtung-beschluss`](skills/verein-als-zweckbetrieb-anfechtung-beschluss/SKILL.md), [`vorstandswahl-vorstandswechsel-register`](skills/vorstandswahl-vorstandswechsel-register/SKILL.md), [`vorstandswechsel-register`](skills/vorstandswechsel-register/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`rundbrief-mitglieder`](skills/rundbrief-mitglieder/SKILL.md) |
@@ -76,7 +76,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -97,6 +97,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Sk
 | [`haftung-vorstand-ehrenamtspauschale`](skills/haftung-vorstand-ehrenamtspauschale/SKILL.md) | Wenn es um Haftung Vorstand in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`hilfsverein-wohlfahrt-hybride-virtuelle`](skills/hilfsverein-wohlfahrt-hybride-virtuelle/SKILL.md) | Wenn es um Hilfs- und Wohlfahrtsverein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`hybride-virtuelle-versammlung`](skills/hybride-virtuelle-versammlung/SKILL.md) | Wenn es um Hybride und virtuelle Versammlung in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Vereinsrecht Vereinsmanager ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Vereinsrecht — Allgemein in Vereinsrecht und Vereinsmanager geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | [`kassenwart-finanzen`](skills/kassenwart-finanzen/SKILL.md) | Wenn es um Kassenwart und Finanzen in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. |
 | [`kegelclub-freizeitverein-verein-kulturverein`](skills/kegelclub-freizeitverein-verein-kulturverein/SKILL.md) | Wenn es um Kegelclub/Freizeitverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Sch... |

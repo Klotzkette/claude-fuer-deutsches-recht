@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Zeugnisart und Anspruch: einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen.
+### 3.1. Zeugnisart und Anspruch
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zeugnisart und Anspruch: einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Tätigkeitsbild: Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen.
+### 3.2. Tätigkeitsbild
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Tätigkeitsbild: Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen.
+### 3.3. Leistung und Verhalten
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Leistung und Verhalten: Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
+### 3.4. Klarheit, Wahrheit und Wohlwollen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Beweislast nach BAG 9 AZR 584.13 | GewO Paragraf 109 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Zeugnisart und Anspruch | GewO Paragraf 109 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 630 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Klagestrategie und Vollstreckung | BGB Paragraf 630 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Tätigkeitsbild | BGB Paragraf 630 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GewO Paragraf 109; BGB Paragraf 630.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Zeugnisart und Anspruch.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Änderungsmatrix: Satz des Arbeitgebers, Problem, Rechtsanker, gewünschte Fassung, Beleg und Prozessrisiko als Tabelle ausgeben; Zeugnisentwurf: Funktion, Aufgaben, Leistung, Verhalten, Führungsverhalten, Beendigungsgrund und Schlussformel in einem einheitlichen Ton formulieren.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BAG, Urteil vom 18.11.2014 - 9 AZR 584/13; BAG, Urteil vom 15.11.2011 - 9 AZR 386/10.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,58 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Beweislast nach BAG 9 AZR 584.13
+### 15.1. Zeugnisart und Anspruch
 
-Die Beweislastverteilung im Zeugnisstreit ist zwingend zu kommunizieren, bevor ein Mandant eine Berichtigungsstrategie entwickelt. Das BAG hat die Grundregel in mehreren Entscheidungen gefestigt: Note 3 ist der Ausgangspunkt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+einfach, qualifiziert, Zwischen-, End- oder Ausbildungszeugnis, Fälligkeit, Titel und Vergleichslage bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Klagestrategie und Vollstreckung
+### 15.2. Tätigkeitsbild
 
-Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der nächste Schritt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Funktion, Aufgaben, Führung, Projekte, Verantwortung, Sonderzweck und Karriereanschluss präzise erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Aeussere Form und Briefkopf prüfen
+### 15.3. Leistung und Verhalten
 
-Ein Arbeitszeugnis muss den im Geschäftsleben ueblichen Anforderungen genügen. Der Prüfer untersucht die aeussere Form unabhängig von Noten und Formulierungen, weil formale Mängel eigene Berichtigungspunkte sind und das Zeugnis in der Praxis entwerten können, selbst wenn. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Einzelleistungen, Gesamtformel, Sozialverhalten, Führungsverhalten, Schlussnote und Widersprüche abgleichen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Ampel-Einschaetzung pro Satz
+### 15.4. Klarheit, Wahrheit und Wohlwollen
 
-Die satzweise Einschaetzungsmatrix ist das methodische Kernwerkzeug der Zeugnisprüfung. Für jeden notenrelevanten Satz werden fünf Informationen erhoben und in einer Tabellenzeile zusammengefasst. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Aufforderungsschreiben Berichtigung
+### 15.5. Arbeitsprodukt
 
-Das außergerichtliche Aufforderungsschreiben ist das erste formale Instrument der Berichtigungsstrategie. Es erfullt drei Funktionen: Es gibt dem Arbeitgeber eine faire Korrekturgelegenheit, es schaerft die Streitpunkte und es schafft die Grundlage fur Fristsetzung und Verzug. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zeugnisentwurf, Änderungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsbaustein erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Auslassungen erkennen
+### 15.6. Klagestrategie und Vollstreckung
 
-Schweigen ist im Arbeitszeugnis kein neutraler Zustand. Wenn ein Zeugnis zu einer für die Position erwarteten Eigenschaft schweigt, schließt der kundige Leser darauf, dass die Eigenschaft nicht vorhanden oder problematisch war. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wenn das Aufforderungsschreiben fruchtlos bleibt oder der Arbeitgeber nur unzureichend reagiert, ist die Klage auf Zeugnisberichtigung der nächste.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Beendigungsgrund prüfen
+### 15.7. Aeussere Form und Briefkopf prüfen
 
-Der Beendigungsabschnitt nennt, wie das Arbeitsverhaltnis endete. Er ist rechtlich nicht zwingend Bestandteil des Zeugnisses, ist aber in der Praxis fast immer vorhanden und trägt eigene Signale. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Doppelboeden und Verneinungen erkennen
-
-Doppelte Verneinungen und versteckte Abschwaecher gehoeren zu den raffinierteren Techniken negativer Zeugniscodierung. Sie klingen beim fluchtigen Lesen positiv, enthalten aber eine sprachliche Einschränkung, die der kundige Empfaenger sofort registriert. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Einführung
-
-klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Frequenzadverbien prüfen
-
-Frequenzadverbien geben an, wie oft etwas geschieht, nicht wie gut. In der Zeugnissprache werden sie dennoch zur Notensteuerung eingesetzt und können eine Bewertungsaussage abschwaechen, wenn sie einen eigentlich positiven Satz einschränken. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Führungskraft-Verhalten prüfen
-
-Zeugnisse für Führungskraefte unterliegen erhöhten Prüfanforderungen. Neben den Standardachsen Leistung, Verhalten und Engagement muss das Zeugnis explizit Aussagen zur Mitarbeiterführung und zur Loyalitaet gegenüber dem Unternehmen enthalten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Geheimcodes-Katalog
-
-Geheimzeichen und Formulierungen, die etwas anderes aussagen als ihr Wortlaut, sind nach Paragraf 109 Absatz 2 Satz 2 GewO unzulässig. Der Prüfer identifiziert diese Codes, benennt die riskante Lesart und markiert jeden Code als orangen oder roten Befund. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Intake und Stammdaten prüfen
-
-Der Prüfer erfasst die Stammdaten unmittelbar aus dem vorliegenden Zeugnis, nicht per Interview. Was fehlt oder unklar ist, wird als gekennzeichnete Annahme geführt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Mandantenbericht erstellen
-
-Der Mandantenbericht ist das fertige Arbeitsprodukt der Zeugnisprüfung. Er richtet sich an den Mandanten oder die Mandantin und soll verstaendlich, konkret und handlungsorientiert sein. Kein Fachvokabular ohne Erklärung, keine offenen Enden, keine unverbindlichen Wendungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ein Arbeitszeugnis muss den im Geschäftsleben ueblichen Anforderungen genügen.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

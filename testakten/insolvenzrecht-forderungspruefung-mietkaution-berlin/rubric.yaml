@@ -10,6 +10,16 @@ checks:
     check_type: file_exists
     description: Das Primäraktenstück 02_mietvertrag_kautionsklausel_auszug_2022.docx ist vorhanden.
     path: 02_mietvertrag_kautionsklausel_auszug_2022.docx
+  - id: tabellenauszug-aktenzeichen
+    check_type: text_contains
+    description: Der Tabellenauszug führt das konkrete Insolvenzverfahren.
+    path: 07_auszug_insolvenztabelle_2026-07-06.pdf
+    contains: 36g IN 892/26
+  - id: tabellenauszug-kaution
+    check_type: text_contains
+    description: Der Tabellenauszug enthält das konkrete Kautionsguthaben.
+    path: 07_auszug_insolvenztabelle_2026-07-06.pdf
+    contains: 64400,00 EUR
   - id: fachpruefung-01
     check_type: human_review
     description: Kautionsart, Verpfändung, Bankverrechnung und insolvenzrechtliche Zuordnung von Aussonderung, Absonderung

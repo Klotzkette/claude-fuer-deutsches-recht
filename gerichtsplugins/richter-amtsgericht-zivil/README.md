@@ -113,7 +113,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`01-eingangspruefung-zustaendigkeit`](skills/01-eingangspruefung-zustaendigkeit/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`03-akte-erstdurchsicht`](skills/03-akte-erstdurchsicht/SKILL.md), [`05-beweisaufnahme-kleine-zivilkammer`](skills/05-beweisaufnahme-kleine-zivilkammer/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`10-entscheidungsvorschlag-zur-richterlichen-pruefung`](skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`10-entscheidungsvorschlag-zur-richterlichen-pruefung`](skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`09-vergleich-und-erledigung`](skills/09-vergleich-und-erledigung/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`02-streitwert-und-gerichtskosten`](skills/02-streitwert-und-gerichtskosten/SKILL.md), [`07-urteilsentwurf-paragraf-313`](skills/07-urteilsentwurf-paragraf-313/SKILL.md), [`08-versaeumnisurteil-und-anerkenntnis`](skills/08-versaeumnisurteil-und-anerkenntnis/SKILL.md), [`v392-praxisraster-richter-amtsgericht-zivil`](skills/v392-praxisraster-richter-amtsgericht-zivil/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`04-relation-zivilrecht-klein`](skills/04-relation-zivilrecht-klein/SKILL.md), [`06-tenor-und-kostenentscheidung`](skills/06-tenor-und-kostenentscheidung/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -124,7 +124,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -139,6 +139,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-vergleich-und-erledigung`](skills/09-vergleich-und-erledigung/SKILL.md) | Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`10-entscheidungsvorschlag-zur-richterlichen-pruefung`](skills/10-entscheidungsvorschlag-zur-richterlichen-pruefung/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Zur Richterlichen Prüfung in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Amtsgericht Zivil) in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-,... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Amtsgericht Zivil ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`v392-praxisraster-richter-amtsgericht-zivil`](skills/v392-praxisraster-richter-amtsgericht-zivil/SKILL.md) | Wenn es um Praxisraster Amtsgericht Zivil in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

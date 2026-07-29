@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Ad-hoc-Entscheidung: Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen.
 4. Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren.
 5. Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen.
-6. Ad-hoc-Publizität nach Art. 17 MAR: Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war.
 
 ## 4. Fallkarte
 
@@ -30,7 +29,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | MAR Artikel 7; MAR Artikel 8 und Artikel 14; MAR Artikel 17 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war |
+| Tatbestand | Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen |
 | Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Information | Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Person und Handlung | Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ad-hoc-Entscheidung | Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kontrollen | Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ad-hoc-Publizität nach Art. 17 MAR | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kaltstart Insiderrecht | Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Analysten-Calls und Investorenkommunikation – Selective Disclosure | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anleiheemission – Insiderrechtliche Anforderungen | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Archivierung – MAR-konforme Aufbewahrung | Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,8 +55,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Ad-hoc-Publizität nach Art. 17 MAR, Aktienrückkaufprogramme – MAR Safe Harbour und Compliance, Kaltstart Insiderrecht, Analysten-Calls und Investorenkommunikation – Selective Disclosure: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker MAR Artikel 7; MAR Artikel 8 und Artikel 14 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Information konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Information, Person und Handlung, Ad-hoc-Entscheidung, Kontrollen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

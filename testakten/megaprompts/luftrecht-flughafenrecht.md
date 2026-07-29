@@ -2,18 +2,135 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 239 Skills (gekürzt für das Arbeitsfenster) des Plugins `luftrecht-flughafenrecht`.
+Diese Vollprüfung enthält top-8 von 240 Skills (gekürzt für das Arbeitsfenster) des Plugins `luftrecht-flughafenrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Luftrecht und Flughafenrecht - Allgemeiner Einstieg in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, …
-2. **zuverlaessigkeitsueberpruefung** — Wenn es um Zuverlässigkeitsüberprüfung LuftSiG Paragraf 7 – Versagung, Widerruf und Rechtsschutz in Luftrecht und Flugha…
-3. **pfaendung-flugzeug-deutschland** — Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation in Luftrecht und Flughafenrecht ge…
-4. **aircraft-arrest-airline-finanzielle** — Wenn es um Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest in Luftrecht und Flughafenrecht geht: e…
-5. **slots-und-koordination** — Wenn es um Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstel…
-6. **flughafen-planfeststellung** — Wenn es um Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt…
-7. **passagierrechte-schnittstelle** — Wenn es um Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung in Luftrecht und Flughafenrecht geht: erstellt d…
-8. **lba-airline-flughafen-flugzeugleasing** — Wenn es um LBA-Zuständigkeit prüfen – Behörde korrekt adressieren in Luftrecht und Flughafenrecht geht: erstellt den pas…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Luftrecht Flughafenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
+2. **kaltstart-triage** — Wenn es um Luftrecht und Flughafenrecht - Allgemeiner Einstieg in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, …
+3. **zuverlaessigkeitsueberpruefung** — Wenn es um Zuverlässigkeitsüberprüfung LuftSiG Paragraf 7 – Versagung, Widerruf und Rechtsschutz in Luftrecht und Flugha…
+4. **pfaendung-flugzeug-deutschland** — Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation in Luftrecht und Flughafenrecht ge…
+5. **aircraft-arrest-airline-finanzielle** — Wenn es um Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest in Luftrecht und Flughafenrecht geht: e…
+6. **slots-und-koordination** — Wenn es um Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstel…
+7. **flughafen-planfeststellung** — Wenn es um Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt…
+8. **passagierrechte-schnittstelle** — Wenn es um Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung in Luftrecht und Flughafenrecht geht: erstellt d…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Luftrecht Flughafenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Luftrecht Flughafenrecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Luftrecht Flughafenrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Flugzeugrolle Und Register: Bearbeite den Fachpunkt im Skill luft-004-flugzeugrolle-und-register und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Airline Register Auswerten: Bearbeite den Fachpunkt im Skill luft-022-airline-register-auswerten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Flughafen Register Auswerten: Bearbeite den Fachpunkt im Skill luft-032-flughafen-register-auswerten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Flugzeugleasing Register Auswerten: Bearbeite den Fachpunkt im Skill luft-042-flugzeugleasing-register-auswerten und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Luftrecht Flughafenrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -589,97 +706,6 @@ Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergän
 - Behördenanschreiben stets mit Aktenzeichen und Fristbenennung versehen.
 - Klagefristen und Widerspruchsfristen sofort bei Mandatsannahme kalendarisch sichern.
 - Bei grenzüberschreitenden Sachverhalten internationalen Normenkonflikt prüfen.
-
-### Dokumentationspflichten
-
-Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzufordern:
-
-- Aktueller LBA-Luftfahrzeugrolle-Auszug mit Eigentumsangaben
-- AG-Braunschweig-Registerauszug (Luftfahrzeugpfandrecht)
-- Cape-Town-Registerauszug (ICAO International Registry)
-- Gültige Betriebsgenehmigung und AOC-Kopie
-- Leasingvertrag oder Eigentumsnachweis
-- Aktuelle Behördenbescheide und Aufsichtskorrespondenz
-
----
-
-## Skill: `lba-airline-flughafen-flugzeugleasing`
-
-_Wenn es um LBA-Zuständigkeit prüfen – Behörde korrekt adressieren in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: LuftVG; LuftSiG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Airline erhält Widerrufsbescheid der Betriebsgenehmigung vom LBA; Mandant fragt ob Widerspruch ans LBA oder an ein Landesministerium zu richten ist.
-- Kleines Charterunternehmen möchte AOC beantragen und ist unsicher ob LBA oder Landesluftfahrtbehörde Sachsen-Anhalt zuständig ist.
-- Halter eines Ultraleichtflugzeugs streitet über Eintrag in Luftsportgeräteverzeichnis; Behörde hat falsche Stelle angeschrieben.
-
-## Erste Schritte
-
-1. Bescheidaussteller identifizieren: LBA oder Landesluftfahrtbehörde.
-2. Sachgebiets-Mapping nach LuftVG §§ 29-31: LBA für Betriebsgenehmigung Luftfahrzeugrolle AOC-Kern Musterzulassung; Länder für Flugplätze Lizenzen Luftsportgeräte.
-3. EU-Recht-Ebene prüfen: EASA für Musterzulassung Pilotenlizenz.
-4. Aufsichtsstaat nach EU-VO 1008/2008 Art. 4 bestimmen: Hauptgeschäftssitz entscheidet.
-5. Rechtsschutzbehelf bestimmen: Widerspruch an erlassende Behörde (§ 68 VwGO) dann Klage beim zuständigen VG.
-6. Zuständigkeitsvermerk mit Begründung und Adressat des Widerspruchs erstellen.
-
-## Rechtsrahmen
-
-- **LuftVG § 29 Abs. 1**: Aufsicht über Luftfahrt durch LBA und Landesluftfahrtbehörden.
-- **LuftVG § 31**: Bundesbehörden-Aufgaben des LBA; abschließende Aufzählung.
-- **LuftVZO § 14**: Eintragung von Flugzeugen in Luftfahrzeugrolle durch LBA.
-- **EU-VO 1008/2008 Art. 4**: Aufsicht durch Mitgliedstaat des Hauptgeschäftssitzes.
-- **LuftVG § 20**: Betriebsgenehmigung durch LBA für gewerblichen Linienverkehr.
-- **VwGO § 68**: Widerspruchspflicht; Widerspruch an erlassende Behörde.
-
-## Prüfraster
-
-1. Hat LBA oder Landesbehörde den Bescheid erlassen?
-2. Welchem Sachgebiet ist der Streit zuzuordnen?
-3. Ist EASA-Recht vorrangig und schließt nationale Behördenzuständigkeit aus?
-4. Gilt der EU-Aufsichtsstaat-Grundsatz (Hauptgeschäftssitz)?
-5. Ist Widerspruchsbehörde identisch mit Ausgangsbehörde?
-6. Ist einstweiliger Rechtsschutz wegen Sofortvollziehbarkeit nötig?
-
-## Typische Fallstricke
-
-- Widerspruch an falsche Behörde; führt zu Fristablauf ohne Hemmung.
-- EASA-Zuständigkeit mit LBA-Zuständigkeit verwechselt.
-- Aufsichtsstaat-Prinzip ignoriert: Airline mit Hauptsitz in Irland muss bei IAA klagen.
-- Widerspruchserfordernis übersehen bei Bescheiden mit Sofortvollzug.
-
-## Vertiefung Zuständigkeit
-
-Die Zuständigkeitsfrage ist bei luftrechtlichen Mandaten häufig das erste Hindernis. Folgende Abgrenzungen sind besonders fehlerträchtig:
-
-- **LBA vs. Landesluftfahrtbehörde**: Das LBA ist für bundesrechtliche Aufgaben zuständig (Betriebsgenehmigung AOC Register); Landesbehörden überwachen den regionalen Luftverkehr und Kleinflugplätze.
-- **EASA vs. nationale Behörde**: Seit Inkrafttreten der EASA-Basisverordnung (VO 2018/1139) hat EASA Direktzuständigkeit für Zulassungen von Luftfahrzeugen und Organisationen; das LBA bleibt für betriebliche Zulassungen zuständig.
-- **Verwaltungsgericht vs. Zivilgericht**: Bescheide einer Luftfahrtbehörde sind vor dem VG anzufechten; privatrechtliche Ansprüche (Leasingstreit Schaden) gehören vor die Zivilgerichte.
-
-## Quellen
-
-- LuftVG: https://www.gesetze-im-internet.de/luftvg/BJNR006810922.html
-- LuftVZO: https://www.gesetze-im-internet.de/luftvzo/
-- LBA Aufgaben: https://www.lba.de/DE/Aufgaben/aufgaben_node.html
-- EU-VO 1008/2008: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32008R1008
-
-## Hinweise für die Praxis
-
-Dieser Skill deckt den Bereich Luftrecht ab. Folgende praktische Hinweise ergänzen die obigen Ausführungen:
-
-- Zuständigkeitsirrtümer sind die häufigste Fehlerquelle in luftrechtlichen Mandaten; immer zuerst klären.
-- Sowohl LBA als auch Landesbehörde können Bescheide erlassen; Abgrenzung nach Sachmaterie.
-- Bei europäischen Sachverhalten immer prüfen ob EASA-Direktzuständigkeit besteht (VO 2018/1139).
-- Zeitpunkt der Behördenentscheidung dokumentieren; Fristbeginn ab Zustellung des Bescheids.
 
 ### Dokumentationspflichten
 

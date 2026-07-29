@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 52 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
+Diese Vollprüfung enthält top-15 von 53 Skills des Plugins `word-legal-ai-plugin-and-skill-for-german-lawyers`.
 
 ## Inhaltsverzeichnis
 
-1. **writing-einstieg-routing** — Wenn es um Einstieg und Routing in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-2. **orientierung-drafting-partner-kommentar** — Wenn es um Orientierung und Drafting-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-3. **englische-vertraege-deutsches-recht** — Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juris…
-4. **transparenzgebot-bgb-us-uk** — Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhal…
-5. **kaltstart-risikoampel-und-gegenargumente** — Wenn es um Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien in Word-Workflows für deutsche Juristen geht: …
-6. **bilinguales-writing-englische-vertraege** — Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninha…
-7. **klageerwiderung-substantiiertes-bestreiten** — Wenn es um Klageerwiderung und substantiiertes Bestreiten in diesem Spezialbereich geht: erstellt den passenden Entwurf …
-8. **dokumentarchitektur-vertrag-englischer** — Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf au…
-9. **force-majeure-geheimhaltung-nda** — Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Er…
-10. **revisions-prozess-ueberarbeiten-richterlesbar** — Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, L…
-11. **klage-drafting-mandantenmemo-partner** — Wenn es um Klage-Drafting nach Paragraf 253 ZPO in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachve…
-12. **argumentationsarchitektur-schreiben** — Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachver…
-13. **cowork-cloud-kollaboration-drafting** — Wenn es um Cowork und Cloud-Kollaboration im Drafting in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken …
-14. **b2b-vs-b2c-klausel-strategie** — Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweisla…
-15. **verweis-querverweis-dokument-finish** — Wenn es um Verweis- und Querverweis-Technik in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn im Word-Dokumentenworkflow ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **writing-einstieg-routing** — Wenn es um Einstieg und Routing in Word-Workflows für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
+3. **orientierung-drafting-partner-kommentar** — Wenn es um Orientierung und Drafting-Triage in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
+4. **englische-vertraege-deutsches-recht** — Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juris…
+5. **transparenzgebot-bgb-us-uk** — Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhal…
+6. **kaltstart-risikoampel-und-gegenargumente** — Wenn es um Kaltstart: Risikoampel, Gegenargumente und Verteidigungslinien in Word-Workflows für deutsche Juristen geht: …
+7. **bilinguales-writing-englische-vertraege** — Wenn es um Bilinguales Legal Writing für deutsche Anwälte in Word-Workflows für deutsche Juristen geht: ordnet Akteninha…
+8. **klageerwiderung-substantiiertes-bestreiten** — Wenn es um Klageerwiderung und substantiiertes Bestreiten in diesem Spezialbereich geht: erstellt den passenden Entwurf …
+9. **dokumentarchitektur-vertrag-englischer** — Wenn es um Dokumentarchitektur: Vertrag und Schriftsatz in diesem Spezialbereich geht: erstellt den passenden Entwurf au…
+10. **force-majeure-geheimhaltung-nda** — Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Er…
+11. **revisions-prozess-ueberarbeiten-richterlesbar** — Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, L…
+12. **klage-drafting-mandantenmemo-partner** — Wenn es um Klage-Drafting nach Paragraf 253 ZPO in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachve…
+13. **argumentationsarchitektur-schreiben** — Wenn es um Argumentationsarchitektur Schreiben in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachver…
+14. **cowork-cloud-kollaboration-drafting** — Wenn es um Cowork und Cloud-Kollaboration im Drafting in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken …
+15. **b2b-vs-b2c-klausel-strategie** — Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweisla…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn im Word-Dokumentenworkflow ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition, Version und Ausgabeziel._
+
+# Juristischer Argumentationskern - Word-Dokumentenworkflow
+
+## 1. Direktstart
+
+Arbeite als Dokumentenbearbeiter für Akteninventur, Versionsvergleich, Tabellenprüfung, Vertrags- und Schriftsatzentwurf, Formatkontrolle, Quellenrückverfolgung und sichere Übergabe mit Fokus auf Fundstelle, Konsistenz und reproduzierbaren Bearbeitungsstand.
+
+Pluginauftrag: Word Legal Tech for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für den Word-Dokumentenworkflow in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge, entscheidenden Prüfpunkt und Ausgabeziel. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Inventur und Version | Datei, Typ, Datum, Autor, Fassung, Signatur, Dublette, Lesbarkeit und maßgeblichen Stand erfassen |
+| Fundstellenlinie | jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen |
+| Vergleich und Redline | Einfügung, Streichung, Widerspruch, fehlende Anlage, Rechenabweichung und materielle Auswirkung markieren |
+| Tabellen- und Rechenprüfung | Formel, Einheit, Bezugszelle, Rundung, Summenprobe, Filter und Exportverlust kontrollieren |
+| Entwurf und Format | Zielgruppe, Dokumenttyp, Gliederung, Form, Signatur, Anlagen und Einreichungskanal vor Ausgabe festlegen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Kündigungsklauseln und Vertragsbeendigung: Bearbeite den Fachpunkt im Skill kuendigungsklauseln-und-vertragsbeendigung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Vertragsstrafe nach Paragrafen 339-345 BGB: Bearbeite den Fachpunkt im Skill vertragsstrafe-339-bgb und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anspruchsgrundlage und Rechtsfolgen-Klauseln: Bearbeite den Fachpunkt im Skill anspruchsgrundlage-rechtsfolge-b2b-klauseln und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Bedingungen aufschiebend, auflösend, Fristen: Bearbeite den Fachpunkt im Skill bedingungen-aufschiebend-aufloesend-fristen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 126, Paragraf 126a und Paragraf 126b: Schriftform, elektronische Form und Textform.
+4.2. ZPO Paragraf 130a: Anforderungen an elektronische Dokumente im gerichtlichen Verfahren.
+4.3. ZPO Paragraf 138 und Paragraf 253: Tatsachenvortrag, Erklärungslast, Antrag und Streitgegenstand.
+4.4. ZPO Paragraf 286 und Paragraf 371a: Beweiswürdigung und Beweiskraft elektronischer Dokumente.
+4.5. HGB Paragraf 257 und AO Paragraf 147: Aufbewahrung und Nachvollziehbarkeit geschäftlicher Unterlagen, soweit anwendbar.
+4.6. Paragraf 158 BGB: Aufschiebende und auflösende Bedingung. Die Wirkung tritt mit dem Eintritt der Bedingung ein bzw. fällt mit ihm weg
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Bearbeiter für Version, Fundstelle, Rechenweg und Übergabe; offene oder widersprüchliche Originaldaten werden nicht stillschweigend harmonisiert.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Datei ist die maßgebliche und freigegebene Fassung.
+7.2. Welche Aussage oder Zahl lässt sich zu welcher Originalfundstelle zurückverfolgen.
+7.3. Welche Widersprüche entstehen zwischen Dokumenten, Tabellenblättern oder Versionen.
+7.4. Welche Form-, Signatur- oder Einreichungsanforderung gilt für das Zielprodukt.
+7.5. Kann ein Dritter den Bearbeitungsweg und das Ergebnis ohne mündliche Erklärung nachvollziehen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke; Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Dokumentenregister: Datei, Typ, Datum, Version, Autor, Signatur, Bezug, Fundstelle, Status und Lücke.
+10.2. Abweichungsmatrix: Punkt, Quelle A, Quelle B, Unterschied, Auswirkung, Klärung und Verantwortlicher.
+10.3. Übergabevermerk: Auftrag, Eingangsstand, Arbeitsschritte, Ergebnisdateien, offene Punkte, Prüfnachweis und nächster Schritt.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Dokumentenregister, Abweichungsmatrix, Redline, Prüftabelle, Entwurf, Exportpaket oder Übergabevermerk verwendbar?
 
 ---
 
@@ -1258,172 +1379,6 @@ B2B-Variante:
 - § 377 HGB (Rügepflicht im Handelskauf).
 - BGH-Linie zur Ausstrahlung des § 309 BGB auf § 307 BGB im B2B ist vom Nutzer fundstellengenau zu verifizieren.
 - Zitierweise: `references/zitierweise.md`.
-
----
-
-## Skill: `verweis-querverweis-dokument-finish`
-
-_Wenn es um Verweis- und Querverweis-Technik in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Verweis- und Querverweis-Technik
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSGVO Art. 33 Datenpanne 72h, ZPO § 130d aktive beA-Nutzung seit 01.01.2022, GwG § 8 Aufbewahrung 5 Jahre, KI-VO Art. 50 Kennzeichnung.
-- Tragende Normen verifizieren: BRAO §§ 43a, 49b, DSGVO Art. 6, 28, 32, 35, BORA § 19a (technische Sorgfalt), beA-Bedingungen, ZPO § 130a (eVa), § 130d (aktive Nutzungspflicht), GwG § 8 Aufbewahrung — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anwalt, Sekretariat, IT-Verantwortlicher, Datenschutzbeauftragter, KI-Anbieter (Auftragsverarbeiter), Kammer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Word-Dokumentvorlage, beA-Schriftsatz, AV-Vertrag mit KI-Anbieter, DSFA, Sicherheitskonzept, AGB-/Mandantenklauseln zu KI-Einsatz — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Vertrag oder Schriftsatz mit Verweisstruktur
-- Anlagenliste
-- Verwendete Gesetze und Verordnungen
-- Optional: Versionsstand zur Konsistenzpruefung
-
-## Rechtlicher und methodischer Rahmen
-
-- § 305 Abs. 2 BGB: Einbeziehung von AGB. Verweis auf AGB muss klar und auffindbar sein.
-- §§ 133, 157 BGB: Auslegung. Defekte Verweise werden gegen den Verwender ausgelegt (§ 305c Abs. 2 BGB).
-- Zitierweise nach `references/zitierweise.md` für externe Verweise auf Rechtsprechung und Literatur.
-- Technische Umsetzung: Wenn Word genutzt wird, reichen normale Querverweise oder eine bewusste manuelle Endkontrolle. Keine Makros, kein VBA, keine Automatisierungslogik.
-
-## Ablauf / Checkliste
-
-1. **Interne Verweise inventarisieren.** Welche Klauseln verweisen aufeinander?
-2. **Anlagen inventarisieren.** Welche Anlagen werden zitiert? Sind sie alle vorhanden?
-3. **Externe Verweise prüfen.** Sind Gesetzesangaben aktuell? Sind Rspr.-Zitate verifiziert?
-4. **Verweisform prüfen.** Klauselnummer und Klauselueberschrift nennen ("§ 7 Abs. 2 (Haftung)").
-5. **Verweise nach Renumbering kontrollieren.** Keine toten Verweise nach Verschiebung von Klauseln oder Anlagen.
-6. **Konsistenzpruefung.** Volltextsuche nach "siehe oben", "vorstehend", "nachstehend".
-7. **Anlagenverzeichnis erstellen.** Anlage 1 bis Anlage n.
-
-### Interne Verweise: Drei Regeln
-
-1. **Klauselnummer plus Ueberschrift.** "§ 7 Abs. 2 (Haftung)" statt "vorstehender Absatz".
-2. **Richtung explizit.** "siehe § 5" oder "wie in § 5 geregelt", nicht "siehe oben".
-3. **Voll qualifiziert.** "Anlage 3 (Leistungsbeschreibung)", nicht "Anlage".
-
-### Externe Verweise: Zitiermuster
-
-- Gesetz: "§ 433 Abs. 1 Satz 1 BGB"
-- EU-Recht: "Art. 6 Abs. 1 lit. f DSGVO"
-- Rspr.: "BGH, Urt. v. TT.MM.JJJJ - Az. ..., [freie Quelle] Rn. ..."
-- Mehrere Normen: "§§ 280 Abs. 1, 281 Abs. 1 und Abs. 2 BGB"
-
-Externe Rspr.- und Literaturverweise nur, wenn verifiziert. Siehe `references/zitierweise.md`.
-
-### Anlagenverwaltung: Drei-Punkte-Prinzip
-
-| Schritt | Beispiel |
-|---|---|
-| 1. Benennen | "Anlage 3 (Leistungsbeschreibung)" im Anlagenverzeichnis |
-| 2. Definieren | "Anlage 3 bezeichnet die in Anlage 3 zu diesem Vertrag enthaltene Leistungsbeschreibung." im Definitionen-Abschnitt |
-| 3. Einfuehren | "Der Lieferant erbringt die in Anlage 3 (Leistungsbeschreibung) beschriebenen Leistungen." in der operativen Klausel |
-
-### Beispiel: konsolidierter Verweisapparat
-
-```
-§ 1 Definitionen
-
-"Anlage 1" bezeichnet die in Anlage 1 zu diesem Vertrag enthaltene
-Leistungsbeschreibung.
-
-"Anlage 2" bezeichnet die in Anlage 2 zu diesem Vertrag enthaltene
-Preisliste.
-
-§ 3 Leistung
-Der Lieferant erbringt die in Anlage 1 (Leistungsbeschreibung) im
-Einzelnen beschriebenen Leistungen.
-
-§ 4 Verguetung
-Die Verguetung richtet sich nach Anlage 2 (Preisliste).
-
-§ 6 Maengelhaftung
-(1) ...
-(2) Bei Verzug gilt zusaetzlich § 4 Abs. 3 (Verzug).
-(3) ...
-
-§ 7 Haftung
-(1) ...
-(2) ...
-Schadensersatzansprueche aus § 6 Abs. 2 (Maengelhaftung) und aus § 8
-(Geheimhaltung) sind in der Hoehe nach diesem § 7 begrenzt.
-
-Anlagenverzeichnis
-Anlage 1 - Leistungsbeschreibung
-Anlage 2 - Preisliste
-Anlage 3 - Lieferplan
-```
-
-### Klausel-Spinne vermeiden
-
-Eine Klausel-Spinne entsteht, wenn ein Begriff durch mehrere Klauseln laeuft, die sich gegenseitig verweisen, ohne dass die Hauptregel klar ist.
-
-**Anti-Pattern:**
-
-```
-§ 3 ... soweit nicht in § 5 anders geregelt ...
-§ 5 ... vorbehaltlich § 3 und § 7 ...
-§ 7 ... unter Bezugnahme auf § 5 und § 3 ...
-```
-
-**Loesung:** Hauptregel in einer Klausel. Andere Klauseln verweisen nur in eine Richtung. Tabelle Verweis-Graph zeichnen.
-
-### vorstehender und nachstehender
-
-Vermeiden Sie diese Begriffe in operativen Klauseln. Sie sind Auslegungsmuell. Wenn unausweichlich, ergaenzen Sie die Klauselnummer:
-
-- Statt "vorstehender Absatz" schreiben Sie "Abs. 1".
-- Statt "vorstehender Paragraph" schreiben Sie "§ 6".
-- Statt "nachstehender Absatz" schreiben Sie "Abs. 3".
-
-## Typische Drafting-Fehler
-
-- **Tote Verweise nach Renumbering.** Klauselnummern wurden verschoben, aber die Verweise im Text nicht nachgezogen.
-- **"Siehe oben" ohne Bezugsstelle.** Kein Reviewer findet die Stelle.
-- **Anlage zitiert, aber nicht vorhanden.** Anlagenverzeichnis prüfen.
-- **Externe Verweise auf veraltete Normen.** § Nummern haben sich geaendert (z.B. nach Schuldrechtsmodernisierung 2002, AGB-Reform 2002, BDSG-DSGVO-Umstellung 2018).
-- **Rspr.-Zitate aus Modellwissen.** Verifikationspflicht nach `references/zitierweise.md`.
-- **Klausel-Spinne.** Mehrfach kreisende Verweise. Hauptregel konsolidieren.
-
-## Beispiel
-
-**Aufgabe:** Prüfen Sie den Verweisapparat folgender Klausel:
-
-```
-§ 7 Haftung
-Soweit nicht im Vorstehenden anders bestimmt, haftet der Lieferant nur,
-soweit dies in den nachstehenden Bestimmungen vorgesehen ist, wobei die
-Regelungen in § 5 (Maengelhaftung) und in den dort genannten Anlagen
-zu beachten sind, vorbehaltlich der Sonderregelungen in den Anlagen
-zur Geheimhaltung.
-```
-
-**Prüfbericht:**
-
-- "im Vorstehenden": ohne Bezug. Streichen.
-- "in den nachstehenden Bestimmungen": keine Klauselnummer. Konkretisieren.
-- "in den dort genannten Anlagen": Verweis zweiter Stufe. Direkt auf die Anlage zeigen.
-- "Anlagen zur Geheimhaltung": ist eine Anlage gemeint oder mehrere? Nummerieren.
-
-**Loesung:**
-
-```
-§ 7 Haftung
-(1) Der Lieferant haftet nach Massgabe dieses § 7 in Verbindung mit
- § 6 (Maengelhaftung).
-(2) Die Haftung für Geheimhaltungsverstoesse richtet sich nach § 8
- (Geheimhaltung) und Anlage 8 (Geheimhaltungsregeln).
-(3) Im Uebrigen ist die Haftung ausgeschlossen.
-```
-
-## Quellen (Stand 05/2026)
-
-- § 305 Abs. 2 BGB, § 305c Abs. 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
-- `references/zitierweise.md` für externe Verweise.
-- Normale Word-Querverweise können helfen; Makros, VBA und Office-Automatisierung sind für diesen Skill bewusst ausgeschlossen.
 
 ---
 

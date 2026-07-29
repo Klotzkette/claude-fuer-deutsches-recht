@@ -2,20 +2,141 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 62 Skills des Plugins `subsumtions-pruefer`.
+Diese Vollprüfung enthält top-10 von 63 Skills des Plugins `subsumtions-pruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-2. **spezial-interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
-3. **interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, …
-4. **waehlen-rechtsprechung-recherche-europarecht** — Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, …
-5. **einschlaegige-normen-vorschlagen-de** — Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Bewei…
-6. **eu-abgrenzung-einschlaegige-normen** — Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
-7. **eu-vorabentscheidung-falsche-wiese** — Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast,…
-8. **spezial-schritt-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf a…
-9. **subsumtion-obersatz-rewrite-klausurton-triage** — Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
-10. **tbm-grundrechte-grch-kandidatenloesung** — Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Subsumtions Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
+3. **spezial-interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiver: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
+4. **interaktiver-erstpruefung-und-mandatsziel** — Wenn es um Interaktiv: Erstprüfung, Rollenklärung und Mandatsziel in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, …
+5. **waehlen-rechtsprechung-recherche-europarecht** — Wenn es um Rechtsprechung, Recherche und Europarechtsbezug wählen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, …
+6. **einschlaegige-normen-vorschlagen-de** — Wenn es um Einschlägige Normen vorschlagen — Deutsches Recht in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Bewei…
+7. **eu-abgrenzung-einschlaegige-normen** — Wenn es um Deutsches Recht und Unionsrecht — Abgrenzung in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
+8. **eu-vorabentscheidung-falsche-wiese** — Wenn es um EU-Vorabentscheidung prüfen (Art. 267 AEUV) in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast,…
+9. **spezial-schritt-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schritt: Schriftsatz-, Brief- und Memo-Bausteine in Subsumtions-Prüfer geht: erstellt den passenden Entwurf a…
+10. **subsumtion-obersatz-rewrite-klausurton-triage** — Wenn es um Subsumtion: Obersatz – Definition – Untersatz – Ergebnis in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Subsumtions Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Subsumtions Prüfer
+
+## 1. Direktstart
+
+Arbeite als Juristischer Methodenbearbeiter für Sachverhaltsordnung, Anspruchsaufbau, Subsumtion, Gegenprüfung, Zitierkontrolle, verständliche Sprache und versandreife Memos mit Fokus auf entscheidungserhebliche Tatsachen und nachvollziehbare Belegketten.
+
+Pluginauftrag: Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Subsumtions Prüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auftrag und Adressat | Rechtsfrage, gewünschtes Produkt, Empfänger, Frist und Entscheidungsschwelle in einem Satz festlegen |
+| Sachverhalt | Chronologie, Beteiligte, Dokumentfundstellen, unstreitige Tatsachen, Behauptungen und Lücken sauber trennen |
+| Normstruktur | Anspruchsgrundlage oder Prüfungsmaßstab in Tatbestandsmerkmale, Rechtsfolge, Einwendungen und Beweislast zerlegen |
+| Subsumtion und Gegenprobe | für jedes Merkmal Tatsache, Beleg, Schluss, stärkstes Gegenargument und Gegenbeweis ausweisen |
+| Arbeitsprodukt | Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief, Entscheidungsbaum oder Zitierkontrolle vollständig ausformulieren |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Output: Antrag, Beschwerde, Klageschrift: Bearbeite den Fachpunkt im Skill output-antrag-beschwerde-klageschrift und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill europarecht-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Konkurrenzen und Anspruchsgrundlagen: Bearbeite den Fachpunkt im Skill konkurrenzen-anspruchsgrundlagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Rechtsfolgen: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill rechtsfolgen-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Ausgangspunkt juristischer Begründung.
+4.2. BGB Paragraf 133 und Paragraf 157: Auslegung nach wirklichem Willen, Treu und Glauben sowie Verkehrssitte.
+4.3. ZPO Paragraf 138: vollständiger und wahrheitsgemäßer Tatsachenvortrag sowie Erklärungslast.
+4.4. ZPO Paragraf 139: richterliche Erörterungs- und Hinweispflicht als Kontrollmaßstab für lückenhaften Vortrag.
+4.5. ZPO Paragraf 253: bestimmter Antrag und hinreichend bestimmter Streitgegenstand.
+4.6. ZPO Paragraf 286: freie Beweiswürdigung auf Grundlage des gesamten Prozessstoffs.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche konkrete Rechtsfrage muss der Adressat entscheiden oder beantworten.
+7.2. Welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich.
+7.3. Welche Fundstelle trägt die Tatsache und welcher Punkt bleibt nur Behauptung.
+7.4. Welches Gegenargument verändert das Ergebnis tatsächlich.
+7.5. Welche Form und Begründungstiefe braucht das gewünschte Endprodukt.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis; Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Subsumtionszeile: Normmerkmal, Definition, Tatsache, Aktenfund, Schluss, Gegenargument, Beweislast und Zwischenergebnis.
+10.2. Kurzvermerk: Frage, Kurzantwort, tragende Tatsachen, Rechtsanker, Risiko, Empfehlung und nächster Schritt.
+10.3. Zitierkontrolle: Aussage, Quelle, Gericht oder Autor, Datum, Aktenzeichen, Fundstelle, Randnummer, Aussagegehalt und Status.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle verwendbar?
 
 ---
 
@@ -707,101 +828,6 @@ Hier [liegt vor / fehlt es an]: [Sachverhaltsbeschreibung].
 Ergebnis:
 TBM [Name] ist [erfüllt / nicht erfüllt / fraglich].
 ```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `tbm-grundrechte-grch-kandidatenloesung`
-
-_Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Gegen-TBM und Einreden prüfen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn — kläre vor der Gegenprüfung
-
-1. Ist der Anspruch dem Grunde nach bereits positiv subsumiert?
-2. Welche Einwendungen hat der Anspruchsgegner erhoben oder könnte er erheben?
-3. Besteht eine Aufrechnungslage (§§ 387 ff. BGB)? — fällig, gleichartig, gegenseitig?
-4. Ist Verjährung eingreifend? → Skill `verjaehrung-fristen-pruefen` parallel nutzen
-5. Hat der Gläubiger durch sein Verhalten einen Vertrauenstatbestand gesetzt? → Verwirkung prüfen
-
-## Zentrale Paragrafenkette
-
-- §§ 104-113 BGB — Geschäftsfähigkeit (rechtshindernde Einwendung bei Mangel)
-- § 125 BGB — Nichtigkeit wegen Formmangels
-- §§ 119, 120, 123 i.V.m. § 142 Abs. 1 BGB — Anfechtung (ex tunc-Nichtigkeit)
-- §§ 305-310 BGB — AGB-Recht, Einbeziehung und Inhaltskontrolle
-- § 362 BGB — Erfüllung als rechtsvernichtende Einwendung
-- §§ 387-396 BGB — Aufrechnung (Aufrechnungslage, Aufrechnungserklärung)
-- § 397 BGB — Erlass (vertraglicher Forderungsverzicht)
-- §§ 194-217 BGB — Verjährung (Einrede, nicht Einwendung — § 214 BGB)
-- § 273 BGB, § 320 BGB — Zurückbehaltungsrecht, Einrede des nicht erfüllten Vertrags
-- § 242 BGB — Verwirkung (Treu und Glauben)
-
-## Systematik der Gegenrechte
-
-### 1. Rechtshindernde Einwendungen (Anspruch entsteht gar nicht)
-
-Rechtshindernde Einwendungen verhindern die Entstehung des Anspruchs:
-- **Geschäftsunfähigkeit** (§ 104 BGB): Rechtsgeschäft nichtig; Anspruch nie entstanden
-- **Formmangel** (§ 125 BGB): Nichtigkeit bei Nichteinhaltung der gesetzlichen Form
-- **Sittenwidrigkeit / Gesetzesverstoß** (§§ 134/138 BGB): Nichtigkeit
-- **Anfechtung** (§§ 119/120/123 BGB i.V.m. § 142 Abs. 1 BGB): Nichtigkeit ex tunc (rückwirkend)
-- **AGB-Unwirksamkeit** (§§ 305 ff. BGB): Klausel nicht wirksam einbezogen oder inhaltlich unwirksam
-- **Unmöglichkeit bei Vertragsschluss** (§ 311a BGB): Primärleistungspflicht entfällt
-
-### 2. Rechtsvernichtende Einwendungen (Anspruch ist erloschen)
-
-- **Erfüllung** (§ 362 BGB): Leistung bewirkt; Anspruch erloschen
-- **Aufrechnung** (§§ 387 ff. BGB): Gegenforderung des Schuldners; Fälligkeit, Gleichartigkeit, Aufrechnungslage
-- **Erlass** (§ 397 BGB): Vertraglicher Verzicht auf Forderung
-- **Rücktritt** (§§ 346 ff. BGB): Rückabwicklung; Rücktrittsrecht muss vorliegen
-- **Widerruf** (§§ 355 ff. BGB): Verbraucherverträge; Widerrufsfrist 14 Tage; beginnt mit ordnungsgemäßer Belehrung
-
-### 3. Rechtshemmende Einreden (Anspruch besteht, ist aber nicht durchsetzbar)
-
-- **Verjährung** (§§ 194 ff. BGB): Einrede, nicht Einwendung; muss erhoben werden (§ 214 BGB). Regelfall: 3 Jahre, Kenntnis ab Jahresende. Details in Skill `verjaehrung-fristen-pruefen`.
-- **Zurückbehaltungsrecht** (§ 273 BGB / § 320 BGB): Leistung Zug-um-Zug; Fälligkeit der Gegenforderung
-- **Einrede des nicht erfüllten Vertrags** (§ 320 BGB): Vorleistungspflicht beachten
-- **Stundung**: Fälligkeit noch nicht eingetreten
-
-### 4. Verwirkung (§ 242 BGB)
-
-
-### 5. Mitverschulden (§ 254 BGB)
-
-Kein vollständiger Ausschluss, aber Kürzung des Anspruchs. Das System fragt: Hat der Anspruchsteller selbst zum Schaden beigetragen? Welcher Anteil?
-
-## Entscheidungsbaum Gegenprüfung
-
-```
-Ist ein Nichtigkeitsgrund vorhanden?
-├─ Ja → rechtshindernde Einwendung → Anspruch nicht entstanden
-└─ Nein → Ist ein Erlöschensgrund vorhanden?
- ├─ Ja → rechtsvernichtende Einwendung → Anspruch erloschen
- └─ Nein → Liegt eine Einrede vor (Verjährung, ZBR, § 320)?
- ├─ Ja (und erhoben) → Anspruch nicht durchsetzbar
- └─ Nein → Mitverschulden § 254 BGB prüfen → Quote
-```
-
-## Ausgabe
-
-Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreifend / fraglich). Gesamtergebnis: Anspruch besteht vollständig / gemindert / nicht durchsetzbar / nicht entstanden.
-
-**Adressat:** Richter/Anwalt — Tonfall sachlich-juristisch
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

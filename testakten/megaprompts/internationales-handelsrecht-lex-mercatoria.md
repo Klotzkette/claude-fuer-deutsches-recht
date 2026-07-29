@@ -2,18 +2,133 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 192 Skills (gekürzt für das Arbeitsfenster) des Plugins `internationales-handelsrecht-lex-mercatoria`.
+Diese Vollprüfung enthält top-8 von 193 Skills (gekürzt für das Arbeitsfenster) des Plugins `internationales-handelsrecht-lex-mercatoria`.
 
 ## Inhaltsverzeichnis
 
-1. **kaltstart-triage** — Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Le…
-2. **unidroit-hardship** — Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und…
-3. **cisg-schadensersatz-und-mitigation** — Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geh…
-4. **penalty-vs-liquidated-damages** — Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
-5. **cisg-wesentliche-vertragsverletzung** — Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet…
-6. **unidroit-force-majeure** — Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
-7. **cisg-anwendungsbereich** — Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhal…
-8. **cisg-ware-dokumente-digitalisierung** — Wenn es um Ware, Dokumente und Digitalisierung (CISG Art. 34-35) in Internationales Handelsrecht und Lex Mercatoria geht…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Internationales Handelsrecht Lex Mercatoria ein juristisches Arbeitsprodukt tragfähig begründ…
+2. **kaltstart-triage** — Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Le…
+3. **unidroit-hardship** — Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und…
+4. **cisg-schadensersatz-und-mitigation** — Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geh…
+5. **penalty-vs-liquidated-damages** — Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
+6. **cisg-wesentliche-vertragsverletzung** — Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet…
+7. **unidroit-force-majeure** — Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
+8. **cisg-anwendungsbereich** — Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhal…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Internationales Handelsrecht Lex Mercatoria ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Internationales Handelsrecht Lex Mercatoria
+
+## 1. Direktstart
+
+Arbeite als Bearbeiter für grenzüberschreitende Mandate: Kollisionsrecht, internationale Zuständigkeit, CISG und Einheitsrecht, Schiedsverfahren, Anerkennung und Vollstreckung sowie Exportkontrolle. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Auslands-Zergliederung (Parteien und Sitzstaaten, Vertrags- und Gerichtsstandsklauseln, Anknüpfungsmomente, Fristen), danach folgt das gewünschte Arbeitsprodukt.
+
+Pluginauftrag: Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Internationales Handelsrecht Lex Mercatoria in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
+| Forum | internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen |
+| Materielle Prüfung nach dem berufenen Recht | bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden |
+| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. CISG Vertragsschluss: Bearbeite den Fachpunkt im Skill ihl-004-cisg-vertragsschluss und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. CISG Wesentliche Vertragsverletzung: Bearbeite den Fachpunkt im Skill ihl-005-cisg-wesentliche-vertragsverletzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. CISG Fristen Und Notices: Bearbeite den Fachpunkt im Skill ihl-008-cisg-fristen-und-notices und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Unidroit Principles Als Vertragsrecht: Bearbeite den Fachpunkt im Skill ihl-014-unidroit-principles-als-vertragsrecht und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. Brüssel-Ia-VO Artikel 4, 7 und 25: allgemeiner und besonderer Gerichtsstand sowie Gerichtsstandsvereinbarung.
+4.2. Rom-I-VO Artikel 3 und 4: Rechtswahl und objektive Anknüpfung vertraglicher Schuldverhältnisse; Artikel 9: Eingriffsnormen.
+4.3. Rom-II-VO Artikel 4: Erfolgsortanknüpfung außervertraglicher Schuldverhältnisse.
+4.4. CISG Artikel 1 und 6: Anwendungsbereich und Abwahl; Artikel 38 und 39: Untersuchungs- und Rügepflicht; Artikel 74: Schadensersatz.
+4.5. New Yorker Übereinkommen Artikel II und V: Schiedsvereinbarung und Anerkennungsversagungsgründe.
+4.6. ZPO Paragraf 293: Ermittlung ausländischen Rechts durch das Gericht.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Klausel regelt Forum und Recht, und ist sie wirksam vereinbart.
+7.2. Welches Gericht oder Schiedsgericht ist zuständig, und wo droht ein Parallelverfahren.
+7.3. Welches Sachrecht ist berufen, und gilt CISG oder nationales Recht.
+7.4. Wie wird der Inhalt ausländischen Rechts belastbar ermittelt.
+7.5. Wo wird vollstreckt, und welche Anerkennungs-, Zustellungs- oder Sanktionshürde steht davor.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Auslands-Zergliederung, Forum, Anwendbares Recht, Materielle Prüfung nach dem berufenen Recht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie verwendbar?
 
 ---
 
@@ -381,58 +496,6 @@ Das UN-Kaufrecht (CISG, Wien 1980, in Kraft seit 1988) gilt in 97 Vertragsstaate
 - Vertragsstaaten-Liste UNCITRAL laufend prüfen (uncitral.un.org/en/texts/saleofgoods)
 - Bei Art. 3 Werklieferung: Wertanteil Material vs. Dienstleistung nach Vertragsursprung
 - Autonome Auslegung: keine Rückgriffe auf BGB-Dogmatik bei CISG-Begriffen
-
----
-
-## Skill: `cisg-ware-dokumente-digitalisierung`
-
-_Wenn es um Ware, Dokumente und Digitalisierung (CISG Art. 34-35) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Art. 35 CISG bestimmt die Vertragsmäßigkeit der Ware in subjektiver (Art. 35 Abs. 1) und objektiver (Abs. 2) Hinsicht. Besondere Bedeutung hat der besondere Zweck des Käufers (lit. b: Kenntnis des Verkäufers). Digitalisierung berührt CISG: elektronische Frachtdokumente, elektronische Konnossemente und E-Akkreditive erfordern Anpassung.
-
-## Kernnormen / Kernquellen
-
-- **Art. 34 CISG**: Dokumente — Pflicht zur Übergabe, Recht zur Fehlerbereinigung vor Fälligkeitstag
-- **Art. 35 Abs. 1 CISG**: Vertragsmäßigkeit nach Menge, Qualität, Art, Verpackung
-- **Art. 35 Abs. 2 CISG**: Objektivstandards — gewöhnliche Eignung (lit. a), besonderer Zweck (lit. b), Probe/Muster (lit. c), übliche Verpackung (lit. d)
-- **Art. 35 Abs. 3 CISG**: Ausnahme bei Kenntnis des Käufers vom Mangel
-- **CMI Rules for Electronic Bills of Lading 1990**: Pionierrahmen für E-Konnossement
-- **MLETR (UNCITRAL 2017)**: Model Law on Electronic Transferable Records
-
-## Schlüsselbegriffe
-
-- Subjektiver Standard (Art. 35 Abs. 1) vs. objektiver Standard (Abs. 2)
-- Besonderer Zweck: Käufer muss Zweck mitgeteilt haben; Verkäufer durfte nicht auf Inkompetenz vertrauen
-- Haltbarkeit: Ware muss auch bei Ankunft nach gewöhnlicher Transportzeit noch gebrauchsfähig sein
-- Elektronisches Konnossement: Negotiability, Single-Document-Prinzip erhalten?
-- eUCP 2.0 (ICC 2019): elektronische Dokumente im Akkreditivrecht
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Muss Ware öffentlich-rechtliche Anforderungen des Käuferlands erfüllen (Lebensmittelrecht, CE-Kennzeichnung)?
-2. Art. 35 Abs. 2 lit. b besonderer Zweck: Reicht allgemeine Branchenkenntnis des Verkäufers?
-3. Elektronisches Konnossement: Wann liegt "Besitz" im Sinne des Transportrechts vor?
-4. eUCP 2.0: Akzeptiert die akkreditivausstellende Bank rein digitale Dokumente?
-5. Verpackungsmangel: Führt schlechte Verpackung zu Haftung für Transportschäden?
-
-## Methodik
-
-- Art. 35 Prüfung: Erst subjektiv (Vertragsinhalt), dann objektiv (Standards)
-- Öffentlich-rechtliche Anforderungen: Grundsatz Verkäufersphäre, Ausnahmen bei Spezialwissen
-- Digitalisierung: MLETR-Umsetzungsstand im relevanten Land prüfen (uncitral.un.org)
-- eUCP 2.0 Anpassungsklausel in Akkreditiv explizit einbeziehen
 
 ---
 

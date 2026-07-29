@@ -2,20 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 94 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
+Diese Vollprüfung enthält top-10 von 95 Skills des Plugins `berufsrecht-ki-vertragspruefung`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlag…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-3. **consumer-ki-datentransfer-eu-erforderlichkeit** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
-4. **consumer-ki-vs-43e-dienstleister** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
-5. **ki-erforderlichkeit-no-training-mandanten** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
-6. **ki-erforderlichkeit-ex-ante-vermerk** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
-7. **art-50-ki-vo-schriftsatz-marketing-chatbot** — Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlic…
-8. **vorpruefung-fristen-form-zustaendigkeit-rechtsweg** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
-9. **vorpruefung-fristen-form-und-zustaendigkeit** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
-10. **vertragspruefung-fristennotiz-naechster** — Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständ…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn Verträge über algorithmische Systeme berufsrechtlich geprüft und tragfähig begründet werden müss…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlag…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in anwaltlichem Berufsrecht und Vertragsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen u…
+4. **consumer-ki-datentransfer-eu-erforderlichkeit** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
+5. **consumer-ki-vs-43e-dienstleister** — Wenn es um Consumer-digitale Werkzeuge vs. Paragraf-43e-Dienstleister in anwaltlichem Berufsrecht und Vertragsprüfung ge…
+6. **ki-erforderlichkeit-no-training-mandanten** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
+7. **ki-erforderlichkeit-ex-ante-vermerk** — Wenn es um Ex-ante-Vermerk zur Erforderlichkeit in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt…
+8. **art-50-ki-vo-schriftsatz-marketing-chatbot** — Wenn es um Art. 50 europäischer Technikregulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot in anwaltlic…
+9. **vorpruefung-fristen-form-zustaendigkeit-rechtsweg** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
+10. **vorpruefung-fristen-form-und-zustaendigkeit** — Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zus…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn Verträge über algorithmische Systeme berufsrechtlich geprüft und tragfähig begründet werden müssen; verbindet Vertragsfundstellen mit Pflicht, Risiko, stärkster Gegenposition und belastbarer Klauselfolge._
+
+# Juristischer Argumentationskern - Berufsrechtliche Systemvertragsprüfung
+
+## 1. Direktstart
+
+Arbeite als berufsrechtlicher Vertragsprüfer für Geheimnisschutz, sorgfältige Dienstleisterauswahl, Weisungs- und Kontrollrechte, Datenflüsse, Unterauftragnehmer, Telemetrie, Trainingsausschluss, Löschung, Haftung und Exit.
+
+Pluginauftrag: Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, Regulierungsrahmen-Rollen, Art.-50-Transparenz, Schatten-Systeme und Klauselvorschläge.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis der berufsrechtlichen Systemvertragsprüfung in einem Satz und nenne darin Einsatzrolle, betroffene Berufspflicht, stärkstes Vertragsdefizit und erforderliche Vertragsfolge. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Risikovermerk, Klauseländerung, Nachforderung, Freigabe unter Auflagen, Aussetzungsentscheidung oder Ablehnung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Vertragsprüfung: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill vertragspruefung-fristennotiz-naechster und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Art. 50 Regulierungsrahmen: Schriftsatz, Marketing, Legal Update und Chatbot: Bearbeite den Fachpunkt im Skill art-50-ki-vo-schriftsatz-marketing-chatbot und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Anbietern: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill anbietern-schriftsatz-brief-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Brao: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill brao-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Berufsrecht Ki Vertragsprüfung und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -557,57 +674,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `vertragspruefung-fristennotiz-naechster`
-
-_Wenn es um Vertragspruefung: Fristennotiz und nächster Schritt in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vertragspruefung Fristennotiz Naechster._
-
-# Vertragspruefung: Fristennotiz und nächster Schritt
-
-## Spezialwissen: Vertragspruefung: Fristennotiz und nächster Schritt
-- **Normen-/Quellenanker:** AI, WP, BRAO, StBerG, WPO, PAO, BNotO, KI.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragsprüfung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Prüfablauf bei Legal-AI-Vertrag
-1. **Dokumentenbestand sichten**: Hauptvertrag/AGB, AVV nach Art. 28 DSGVO, SCC bei Drittlandtransfer, TOMs, Sub-Processor-Liste, Trust-Center-Informationen, etwaige Anhänge (Sicherheits-, Notfallplan).
-2. **Verpflichtungserklärung** nach § 203 Abs. 4 S. 2 Nr. 1 StGB i. V. m. §§ 43e BRAO / 62a StBerG / 50a WPO einholen und archivieren.
-3. **Trainingsausschluss** und **No-Logs-Klausel** vertraglich verankern; Default-Einstellungen prüfen (Trainingsnutzung opt-out vs. opt-in).
-4. **Datenresidenz** vertraglich fixieren (EU/EWR oder DPF-zertifizierte US-Region); Eskalationsklausel bei Transfer in Drittland ohne Garantie.
-5. **Audit- und Auskunftsrecht** für Berufsträger durchsetzen (Mindeststandard: jährlich, schriftlich, Vor-Ort bei Verdacht).
-6. **Berufshaftpflicht prüfen**: KI-Risiko im Versicherungsschutz; ggf. Anpassung gemäß § 51 BRAO.
-7. **Mandanteneinwilligung** vorbereiten, sofern erforderlich (Konstellationen mit qualifizierter Offenbarung).
-
-## Typische Fristen in Vertragsverhandlung
-- **Sofort (vor Tool-Einsatz)**: Verpflichtung Dienstleister, AVV, Schweigepflichthinweis nach § 203 StGB.
-- **30 Tage vor Inkrafttreten**: Information Sub-Dienstleisterkette (DSGVO Art. 28 Abs. 2).
-- **Quartalsweise**: Reviews der TOMs, Veränderungen bei Anbieter prüfen.
-- **Jährlich**: Audit/Selbstauskunft Dienstleister.
-- **Anlassbezogen**: Datenpanne, Datenschutzvorfall, Anbieterwechsel.
-
-## Nächste Schritte nach Prüfung
-- **Grün**: Freigabe mit Auflagen (Logging, Schulung, Klassifizierung Mandantendaten).
-- **Gelb**: Nachverhandlung mit konkreten Klauseländerungen (Trainingsausschluss, Datenresidenz, Audit-Recht).
-- **Rot**: Stopp; alternatives Tool prüfen oder vertragliche Nachschärfung als Hard-Stop-Bedingung formulieren.
-
-## Trade-off
-Schnelle Einführung neuer Legal-AI-Tools verlangt nach Berufsträger-Sorgfalt. Maßgeblich sind Tool-Auswahl, Mandanten- und Berufsgeheimnisschutz, dokumentierte Endkontrolle und Aktualisierung bei neuen Kammerhinweisen, Rechtsprechung oder Gesetzesänderungen.
 
 ---
 

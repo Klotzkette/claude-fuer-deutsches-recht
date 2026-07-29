@@ -102,6 +102,13 @@ EXPORT_META_PATTERNS = {
         r"ärztliche oder wirtschaftliche kernbelege",
         re.IGNORECASE,
     ),
+    "Austauschbare Kurzunterlage": re.compile(
+        r"diese unterlage bündelt (?:den arbeitsstand|die lage) für die (?:nächste|erste) besprechung|"
+        r"was muss entschieden werden\?\s*welche quelle fehlt\?|"
+        r"für diese akte liegt (?:noch )?keine echte|"
+        r"dieser aktenvermerk ersetzt keinen echten registerabruf",
+        re.IGNORECASE,
+    ),
 }
 SYNTHETIC_EMAIL_PATTERN = re.compile(
     r"(?:@|https?://)[^\s<>/]+[.](?:example|invalid|local|test)\b|"

@@ -2,25 +2,143 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `krisenfrueherkennung-starug`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `krisenfrueherkennung-starug`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen …
-2. **start-chronologie-fristen** — Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlu…
-3. **rollierende-liquiditaetsplanung-24-monate-template** — Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-M…
-4. **paragraph-102-starug-warnpflicht-bei-rechtsberatern** — Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses. Trennt den gesetzl…
-5. **drohende-zahlungsunfaehigkeit** — Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger…
-6. **insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist** — Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldu…
-7. **mandantenbrief-warnung-paragraph-starug** — Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige …
-8. **restrukturierungsplan-architektur-rollierende** — Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestal…
-9. **paragraph-1-starug-pflichten-und-24-monats-horizont** — Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24…
-10. **stabilisierungsanordnung-und-vollstreckungssperre** — Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Ve…
-11. **restructuring-lounge-impulsvortrag-toolkit** — Wenn es um Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung in Krisenfrüherkennung und StaRUG-Management geht: ord…
-12. **cross-class-cram-down-und-absolute-priority** — Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung,…
-13. **zahlungsunfaehigkeit-compliance-dokumentation-und-akte** — Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management …
-14. **warnpflicht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine in Krisenfrüherkennung und StaRUG-Management geht: erste…
-15. **gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg** — Wenn es um Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise in Krisenfrüherkennung und StaRU…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Krisenfrüherkennung StaRUG ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Krisenfrüherkennung und StaRUG-Management geht: klärt Rolle, Ziel, Frist, Unterlagen …
+3. **start-chronologie-fristen** — Startet ein Krisen- oder Restrukturierungsmandat ohne Leerlauf, wertet vorhandene Unterlagen zuerst aus und trennt Zahlu…
+4. **rollierende-liquiditaetsplanung-24-monate-template** — Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-M…
+5. **paragraph-102-starug-warnpflicht-bei-rechtsberatern** — Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses. Trennt den gesetzl…
+6. **drohende-zahlungsunfaehigkeit** — Prüft drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger…
+7. **insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist** — Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldu…
+8. **mandantenbrief-warnung-paragraph-starug** — Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige …
+9. **restrukturierungsplan-architektur-rollierende** — Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestal…
+10. **paragraph-1-starug-pflichten-und-24-monats-horizont** — Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24…
+11. **stabilisierungsanordnung-und-vollstreckungssperre** — Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Ve…
+12. **restructuring-lounge-impulsvortrag-toolkit** — Wenn es um Impulsvortrag-Toolkit — StaRUG und Krisenfrüherkennung in Krisenfrüherkennung und StaRUG-Management geht: ord…
+13. **cross-class-cram-down-und-absolute-priority** — Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung,…
+14. **zahlungsunfaehigkeit-compliance-dokumentation-und-akte** — Wenn es um Zahlungsunfaehigkeit: Compliance-Dokumentation und Aktenvermerk in Krisenfrüherkennung und StaRUG-Management …
+15. **warnpflicht-schriftsatz-brief-und-memo-bausteine** — Wenn es um Warnpflicht: Schriftsatz-, Brief- und Memo-Bausteine in Krisenfrüherkennung und StaRUG-Management geht: erste…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Krisenfrüherkennung StaRUG ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Krisenfrüherkennung StaRUG
+
+## 1. Direktstart
+
+Arbeite als Insolvenzrechtlicher Bearbeiter für Krisenfrüherkennung, Insolvenzantrag, Forderungsanmeldung, Anfechtung, Plan und Sanierung.
+
+Pluginauftrag: Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Krisenfrüherkennung StaRUG in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Krise feststellen | Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen |
+| Pflichten zuordnen | Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären |
+| Antrag und Sicherung | Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten |
+| Forderung und Tabelle | Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten |
+| Anfechtung und Plan | Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Krisenstadien: Fristennotiz und nächster Schritt: Bearbeite den Fachpunkt im Skill krisenstadien-fristennotiz-starug-gf-haftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. 1. Insolvenzantragspflicht nach Paragraf 15a InsO: Bearbeite den Fachpunkt im Skill insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill starug-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Stabilisierungsanordnung: Red-Team und Qualitätskontrolle: Bearbeite den Fachpunkt im Skill starug-stabilisierungsanordnung-vollstreckungsstopp und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. InsO Paragraf 17: Zahlungsunfähigkeit.
+4.2. InsO Paragraf 18: drohende Zahlungsunfähigkeit.
+4.3. InsO Paragraf 19: Überschuldung.
+4.4. InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
+4.5. InsO Paragraf 174: Forderungsanmeldung.
+4.6. StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
+5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+5.3. BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
+5.4. BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
+7.2. Welche Frist oder Pflicht trifft welche Person.
+7.3. Welche Zahlung oder Sicherheit ist anfechtbar.
+7.4. Welche Forderung ist mit welchem Rang anzumelden.
+7.5. Welche Sanierungsoption ist realistisch belegbar.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Krise feststellen, Pflichten zuordnen, Antrag und Sicherung, Forderung und Tabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt verwendbar?
 
 ---
 
@@ -1748,216 +1866,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`
-
-_Wenn es um Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise
-
-## Arbeitsbereich
-
-Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG; § 1 StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt — sie ist das scharfe Ende eines stumpfer werdenden Unternehmens. § 43 GmbHG und § 93 AktG halten das Heft des Handelns mit voller Kraft gegen die Person des Managers, sobald die Krise eintritt und Pflichten verletzt wurden. Wer in der Krise nicht dokumentiert, nicht eskaliert und nicht handelt, findet sich später als Beklagter in einem Regressprozess wieder, in dem er beweisen muss, dass er alles richtig gemacht hat.
-
----
-
-## Rechtsgrundlagen
-
-- § 43 GmbHG (Sorgfaltspflicht und Verantwortlichkeit der Geschäftsführer)
-- § 93 AktG (Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder)
-- § 93 Abs. 2 S. 2 AktG (Beweislastumkehr)
-- § 15a InsO (Insolvenzantragspflicht)
-- § 15b InsO (Zahlungsverbote nach Insolvenzreife)
-- § 1 StaRUG (Krisenfrüherkennungspflicht)
-- **BGH II ZR 206/22 vom 23.07.2024** — Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden bleibt bestehen, solange die durch ihn geschaffene Gefährdungslage fortwirkt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-- **BGH 5 StR 287/24 vom 27.02.2025** — Faktischer Geschäftsführer / Firmenbestattung: auch Hintermänner ohne Außenauftritt. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=27.02.2025&Aktenzeichen=5+StR+287/24>
-- **BGH IV ZR 66/25 vom 19.11.2025** — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; § 15a / § 15b InsO nicht koppelbar. Stärkt die Deckungsposition des GF und des Insolvenzverwalters.
-- IDW S 6 (Sanierungskonzepte)
-
----
-
-## Pflichten
-
-### 1. Sorgfaltsmaßstab — Der ordentliche und gewissenhafte Geschäftsleiter
-
-§ 43 Abs. 1 GmbHG verpflichtet jeden Geschäftsführer, die "Sorgfalt eines ordentlichen Geschäftsmannes" anzuwenden. § 93 Abs. 1 AktG formuliert für den Vorstand den Standard des "ordentlichen und gewissenhaften Geschäftsleiters". Beide Standards sind in der Krise verschärft: Je größer die Gefährdungslage, desto enger der Handlungsspielraum und desto strenger die Anforderungen an Dokumentation und Begründung.
-
-### 2. Business Judgment Rule in der Krise
-
-Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Geschäftsleiter bei unternehmerischen Entscheidungen, wenn er:
-
-1. Zum Zeitpunkt der Entscheidung vernünftigerweise annehmen durfte, auf Basis angemessener Informationen zu handeln,
-2. Nicht von sachfremden Interessen geleitet war,
-3. Zum Wohl der Gesellschaft handelte.
-
-**In der Krise gilt:** Die Business Judgment Rule greift nur noch eingeschränkt. Je näher die Insolvenz, desto weniger Ermessen hat der Geschäftsführer — und desto mehr Pflichten rücken in den Vordergrund:
-
-| Krisenstadium | BJR-Spielraum | Schwerpunkt-Pflicht |
-|---|---|---|
-| Normalbetrieb | Breit | Unternehmerische Gestaltung |
-| Strategiekrise | Mittel | Frühwarnsystem, § 1 StaRUG |
-| Liquiditätskrise | Eng | 13-Wochen-Planung, Gläubigerinfo |
-| Drohende ZU | Sehr eng | § 29 StaRUG prüfen, Berater hinzuziehen |
-| Eingetretene ZU | Null | § 15a InsO: Antragspflicht, § 15b InsO: Zahlungsverbot |
-
-### 3. Beweislastumkehr nach § 93 Abs. 2 S. 2 AktG
-
-§ 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.** Für GmbH-Geschäftsführer wird die Beweislastumkehr entsprechend angewandt (vgl. konkrete BGH-Linie, vor Ausgabe Aktenzeichen über dejure.org / openjur.de verifizieren).
-
-- Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
-- Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.
-- Wer keine Berater hinzugezogen hat, kann den Sorgfaltsnachweis nicht mit Sachverstand belegen.
-
-### 4. § 15b InsO — Zahlungsverbot nach Insolvenzreife
-
-Seit dem 1. Januar 2021 (SanInsFoG) gilt das Zahlungsverbot des § 15b InsO: Nach Eintritt der Insolvenzreife darf der Geschäftsführer keine Zahlungen mehr leisten, die mit der Sorgfalt eines ordentlichen Kaufmanns nicht vereinbar sind. Erlaubt sind nur noch Zahlungen im gewöhnlichen Geschäftsgang. Verletzungen führen zur persönlichen Haftung.
-
-### 5. Subsidiaritätsverhältnis StaRUG / InsO
-
-Das StaRUG ist ein vorinsolvenzliches Instrument. Es schützt denjenigen, der rechtzeitig handelt — also bei drohender Zahlungsunfähigkeit (§ 18 InsO), nicht bei eingetretener. Das Verhältnis:
-
-```
-StaRUG-Zugang: Drohende Zahlungsunfähigkeit (§ 18 InsO) — 24-Monats-Horizont
-InsO-Pflicht: Eingetretene Zahlungsunfähigkeit (§ 17 InsO) ODER Überschuldung (§ 19 InsO)
-Drei-Wochen-Frist: Ab Kenntnis des Insolvenzgrundes
-```
-
-Wer den StaRUG-Zug verpasst, weil er zu spät erkannt hat, steht im InsO-Verfahren — und haftet nach § 15a, § 15b InsO persönlich.
-
----
-
-## Vorgehen
-
-### Schritt 1: Haftungsrisikocheck in der Krise
-
-Jeder Geschäftsführer sollte in der Krise monatlich prüfen:
-
-- [ ] Liegt eine aktuelle Liquiditätsplanung (min. 24 Monate) vor?
-- [ ] Sind Gesellschafter und ggf. Aufsichtsrat informiert?
-- [ ] Sind alle Berater (StB, WP, RA) eingebunden?
-- [ ] Wurden Krisenmaßnahmen beschlossen und protokolliert?
-- [ ] Ist die Insolvenzreife ausgeschlossen (aktuelles Gutachten)?
-- [ ] Wurden keine masseschmälernden Zahlungen geleistet?
-
-### Schritt 2: Enthaftungsstrategie
-
-Enthaftung durch Dokumentation und professionelle Begleitung:
-
-1. **Formal beschlossene Maßnahmenpläne** mit Datum und Unterschrift
-2. **Externe Sachverständige** (IDW S 6 Gutachten, Sanierungsberater)
-3. **Gesellschafterbeschlüsse** über die Strategie
-4. **Bankkommunikation** schriftlich und protokolliert
-5. **§ 102 StaRUG Warnhinweise** von Beratern empfangen und bestätigt
-
-### Schritt 3: D&O-Versicherung prüfen
-
-D&O-Deckung in der Krise analysieren:
-
-- Anzeigepflicht des Schadensfalls prüfen
-- Ausschlussklauseln für wissentliche Pflichtverletzungen kennen
-- Selbstbehalt nach § 93 Abs. 2 S. 3 AktG: mind. 10 % bis 150 % der Jahresvergütung
-
----
-
-## Templates
-
-### Muster: Haftungsrisiko-Protokoll (monatliche GF-Selbstprüfung)
-
-```
-Haftungsrisiko-Protokoll
-Gesellschaft: [Firma]
-Monat: [MM/JJJJ]
-Erstellt von: [Name GF]
-
-1. LIQUIDITÄTSLAGE
- Liquiditätsreichweite aktuell: [x] Monate
- Vormonat: [x] Monate
- Trend: [Verbesserung / stabil / Verschlechterung]
-
-2. FRÜHWARNINDIKATOREN
- EBITDA lfd. Jahr: EUR [___] (Plan: EUR [___])
- Net-Debt/EBITDA: [x,xx]x
- Covenant-Headroom: [x] %
-
-3. MASSNAHMEN
- Laufende Maßnahmen: [Beschreibung]
- Neu beschlossen: [Beschreibung]
- Verantwortlich: [Name]
- Frist: [Datum]
-
-4. ESKALATION
- Gesellschafter informiert am: [Datum / noch nicht]
- AR informiert am: [Datum / nicht anwendbar]
- Berater (StB/WP/RA) informiert am: [Datum]
-
-5. INSOLVENZREIFE-PRÜFUNG
- Zahlungsunfähigkeit eingetreten? [ ] Ja [ ] Nein
- Überschuldung eingetreten? [ ] Ja [ ] Nein
- Grundlage der Einschätzung: [eigene Analyse / Beratertestat / IDW S 11 Gutachten]
-
-Unterschrift: _________________________ Datum: _____________
-```
-
-### Muster: Beschluss Gesellschafterversammlung — Krisenmaßnahmenpaket
-
-```
-Niederschrift über Gesellschafterbeschluss
-
-Gesellschaft: [Firma GmbH]
-Datum: [TT.MM.JJJJ]
-Anwesend: alle Gesellschafter / [x von y Anteilen]
-
-Die Gesellschafterversammlung beschließt einstimmig / mit [x/y-Mehrheit]:
-
-1. Die Geschäftsführung wird beauftragt, ein Krisenfrüherkennungssystem
- nach § 1 StaRUG und IDW PS 340 n.F. zu implementieren.
-2. Es wird eine rollierende 24-Monats-Liquiditätsplanung eingeführt
- mit monatlicher Berichterstattung an die Gesellschafter.
-3. Die Geschäftsführung wird ermächtigt, externe Restrukturierungsberater
- zu beauftragen.
-4. Sanierungsmaßnahmen gemäß Anlage 1 werden genehmigt.
-
-[Ort], [Datum]
-Unterschriften aller Gesellschafter: _______________________
-```
-
----
-
-## Fallstricke
-
-1. **Ressortteilung schützt nicht vollständig** — jeder Geschäftsführer bleibt für Finanzfragen mit verantwortlich, auch wenn formal ein anderer GF das Finanzressort leitet (Gesamtverantwortung).
-
-2. **Gesellschafterweisung schützt nicht in der Insolvenz** — Weisungen der Gesellschafter entbinden den GF nicht von der Insolvenzantragspflicht nach § 15a InsO.
-
-3. **Sanierungsbonus ist kein Freifahrtschein** — Zahlungen zur Vermeidung der Insolvenz können nach Insolvenzreife trotzdem anfechtbar sein.
-
-4. **D&O-Versicherung ist keine Blankodeckung** — vorsätzliche oder wissentliche Pflichtverletzungen sind regelmäßig ausgeschlossen. Wer Protokolle fälscht oder Insolvenzreife verbirgt, haftet persönlich ohne Versicherungsschutz.
-
-5. **Quasi-Geschäftsführer haften wie echte** — faktische Geschäftsführer (Gesellschafter mit Dominanz über die GF) unterliegen denselben Haftungsregeln, auch ohne formelle Bestellung.
-
----
-
-## Triage — Erste Einordnung
-
-Bevor losgelegt wird, klaere:
-1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
-2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
-3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
-4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?
 
 ---
 

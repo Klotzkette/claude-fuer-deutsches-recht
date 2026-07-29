@@ -2,25 +2,140 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `barrierefreiheit-web-checker`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `barrierefreiheit-web-checker`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
-2. **barrierefreiheits-erstpruefung-und-mandatsziel** — Wenn es um Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel in Barrierefreiheit Web Checker geht: klärt Rol…
-3. **scope-bfsg-screenreader-semantik-abnahme** — Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm,…
-4. **kontrast-farbe-motion-responsive** — Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislas…
-5. **audit-barrierefreiheits-bfsg** — Wenn es um Audit: Schriftsatz-, Brief- und Memo-Bausteine in Barrierefreiheit Web Checker geht: erstellt den passenden E…
-6. **pdfs-compliance-dokumentation-und-akte** — Wenn es um Pdfs: Compliance-Dokumentation und Aktenvermerk in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Bel…
-7. **schulung-und-rolle-accessibility-champion** — Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-8. **screenreader-semantik-aria** — Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-9. **bf-pdf-schriftsaetze-versand** — Wenn es um BF: PDF-Schriftsatz-Versand in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-10. **tastatur-fokus-ueberwachungsstelle** — Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-11. **formulare-zahlen-schwellen-und-berechnung** — Wenn es um Formulare: Zahlen, Schwellenwerte und Berechnung in Barrierefreiheit Web Checker geht: rechnet Schwellen, Bet…
-12. **wcag-risikoampel-und-gegenargumente** — Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergeb…
-13. **bf-kiosk-selbstbedienung-mediendienste** — Wenn es um BF: Kiosk-Terminals in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-14. **bf-kanzleiwebsite-konkret** — Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
-15. **remediation-roadmap-dokumentation** — Wenn es um Remediation-Roadmap und Dokumentation in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücke…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Barrierefreiheit Web Checker ein juristisches Arbeitsprodukt tragfähig begründet werden muss;…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
+3. **barrierefreiheits-erstpruefung-und-mandatsziel** — Wenn es um Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel in Barrierefreiheit Web Checker geht: klärt Rol…
+4. **scope-bfsg-screenreader-semantik-abnahme** — Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm,…
+5. **kontrast-farbe-motion-responsive** — Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislas…
+6. **audit-barrierefreiheits-bfsg** — Wenn es um Audit: Schriftsatz-, Brief- und Memo-Bausteine in Barrierefreiheit Web Checker geht: erstellt den passenden E…
+7. **pdfs-compliance-dokumentation-und-akte** — Wenn es um Pdfs: Compliance-Dokumentation und Aktenvermerk in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Bel…
+8. **schulung-und-rolle-accessibility-champion** — Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+9. **screenreader-semantik-aria** — Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
+10. **bf-pdf-schriftsaetze-versand** — Wenn es um BF: PDF-Schriftsatz-Versand in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+11. **tastatur-fokus-ueberwachungsstelle** — Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
+12. **formulare-zahlen-schwellen-und-berechnung** — Wenn es um Formulare: Zahlen, Schwellenwerte und Berechnung in Barrierefreiheit Web Checker geht: rechnet Schwellen, Bet…
+13. **wcag-risikoampel-und-gegenargumente** — Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergeb…
+14. **bf-kiosk-selbstbedienung-mediendienste** — Wenn es um BF: Kiosk-Terminals in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
+15. **bf-kanzleiwebsite-konkret** — Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Barrierefreiheit Web Checker ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Barrierefreiheit Web Checker
+
+## 1. Direktstart
+
+Arbeite als Barrierefreiheitsrechtlicher Bearbeiter für BFSG, BFSGV, BGG, BITV, digitale Produkte und Dienstleistungen, Konformitätsnachweis, Marktüberwachung, Verbraucherrechte und technische Abhilfe.
+
+Pluginauftrag: Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, abrufen, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Barrierefreiheit Web Checker in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Anwendungsbereich | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen |
+| Prüfstandard | gesetzliche Anforderung, BFSGV, harmonisierte Norm, EN 301 549, WCAG-Kriterium und Versionsstand zuordnen |
+| Befund | Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren |
+| Rechtfertigung | grundlegende Veränderung oder unverhältnismäßige Belastung nur anhand der gesetzlichen Kriterien und Unterlagen prüfen |
+| Arbeitsprodukt | abrufenbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. BF: PDF-Schriftsatz-Versand: Bearbeite den Fachpunkt im Skill bf-pdf-schriftsaetze-versand und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill bfsgv-schulung-fristennotiz-agentur-abnahme und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Erklärung: Mehrparteienkonflikt und Interessenmatrix: Bearbeite den Fachpunkt im Skill erklaerung-interessen-formulare-pdfs und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Formulare: Zahlen, Schwellenwerte und Berechnung: Bearbeite den Fachpunkt im Skill formulare-zahlen-schwellen-und-berechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BFSG Paragraf 1 bis Paragraf 3: Anwendungsbereich, Begriffe und Barrierefreiheitsanforderungen.
+4.2. BFSG Paragraf 6 bis Paragraf 14: Pflichten von Hersteller, Einführer, Händler und Dienstleistungserbringer rollenbezogen trennen.
+4.3. BFSG Paragraf 16 und Paragraf 17: grundlegende Veränderung und unverhältnismäßige Belastung mit dokumentierter Einzelfallprüfung.
+4.4. BFSG Paragraf 20 bis Paragraf 30: Marktüberwachung und Maßnahmen bei Produkt- oder Dienstleistungsverstößen.
+4.5. BFSG Paragraf 32 bis Paragraf 34: Verbraucher- und Verbandsrechte, Rechtsbehelf und Schlichtung.
+4.6. BFSGV und harmonisierte Normen: konkrete technische Anforderungen und Konformitätsvermutung nur mit Versionsstand anwenden.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches gesetzliche Regime gilt für Anbieter, Produkt oder Dienstleistung.
+7.2. Welche konkrete Anforderung und welcher technische Prüfstandard sind einschlägig.
+7.3. Ist der Fehler reproduzierbar und welche Nutzergruppe oder Funktion betrifft er.
+7.4. Welche Abhilfe ist technisch möglich, fristgerecht und nachweisbar.
+7.5. Welche Informations-, Dokumentations-, Schlichtungs- oder Marktüberwachungsfolge entsteht.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Anwendungsbereich, Prüfstandard, Befund, Rechtfertigung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
 
 ---
 
@@ -784,63 +899,6 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `remediation-roadmap-dokumentation`
-
-_Wenn es um Remediation-Roadmap und Dokumentation in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Remediation-Roadmap und Dokumentation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Dieses Fachmodul arbeitet nach Audit oder Beschwerde einen Plan aus, der Entwickler, Management, Rechtsabteilung und Nutzerkontakt zusammenbringt.
-
-## Priorisierung
-
-1. Blocker in Kernprozessen: Login, Checkout, Antrag, Zahlung, Terminbuchung.
-2. Tastaturfallen und Fokusverlust.
-3. Fehlende Labels und Fehlermeldungen.
-4. Kontrast/Reflow.
-5. Dokumente mit rechtlich wesentlichen Informationen.
-6. Kosmetische oder seltene Barrieren.
-
-## Roadmap
-
-| Ticket | Problem | Nutzerimpact | Rechtsrisiko | Owner | Frist | Re-Test |
-| --- | --- | --- | --- | --- | --- | --- |
-
-## Nachweisakte
-
-- Auditdatum
-- Maßstab
-- Stichprobe
-- Toolversionen
-- manuelle Prüfprotokolle
-- Tickets
-- Re-Test
-- offene Restbarrieren mit Begründung
-- Kommunikationsnachweise
-
-## Merksatz
-
-Ein Maßnahmenplan ist kein Ausredenpapier. Er muss zeigen, was wann behoben wird, wer verantwortlich ist und wie der Fix geprüft wird.
-
-## Schneller Arbeitsmodus
-
-- Lege den Scope fest: Website, App, PDF, Checkout, Formular, Intranet oder öffentliche Stelle; dazu Normrahmen BFSG/BITV/WAD/EN 301 549/WCAG.
-- Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
-- Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
-- Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
 
 ---
 

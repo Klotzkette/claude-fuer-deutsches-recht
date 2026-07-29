@@ -2,25 +2,144 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 30 Skills des Plugins `bautraegervertrag-pruefer`.
+Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `bautraegervertrag-pruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz** — Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sach…
-2. **abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte** — Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverh…
-3. **unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung** — Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverha…
-4. **vollstaendige-fertigstellung-schlussrate-und-aussenanlagen** — Wenn es um Vollständige Fertigstellung, Schlussrate und Außenanlagen in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt…
-5. **nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht** — Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
-6. **wohnungseigentum-teilungserklaerung-und-erstverwalter** — Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
-7. **bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt** — Wenn es um Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
-8. **druckmuster-schluessel-vormerkung-und-zahlung** — Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Bew…
-9. **preisanpassung-315-saldierung-und-loesungsrecht** — Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Aktenin…
-10. **mabv-agb-klauselmatrix-rot-orange-gruen** — Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
-11. **prozessstrategie-zahlung-feststellung-und-vorschuss** — Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden …
-12. **fall-fingerabdruck-und-schnelltriage** — Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen un…
-13. **din-anerkannte-regeln-technik-und-standardwechsel** — Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, N…
-14. **quellenhygiene-rechtsprechungsanker-und-bughunt** — Wenn es um Quellenhygiene, Rechtsprechungsanker und Bug-Hunt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
-15. **agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung** — Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, …
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bauträgervertrag Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
+2. **eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz** — Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sach…
+3. **abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte** — Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverh…
+4. **unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung** — Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverha…
+5. **vollstaendige-fertigstellung-schlussrate-und-aussenanlagen** — Wenn es um Vollständige Fertigstellung, Schlussrate und Außenanlagen in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt…
+6. **nachzuegler-altbau-sanierung-und-kaufrecht-werkrecht** — Wenn es um Nachzügler, Altbau, Sanierung und Kaufrecht/Werkrecht in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
+7. **wohnungseigentum-teilungserklaerung-und-erstverwalter** — Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, No…
+8. **bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt** — Wenn es um Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
+9. **druckmuster-schluessel-vormerkung-und-zahlung** — Wenn es um Druckmuster, Schlüssel, Vormerkung und Zahlung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Bew…
+10. **preisanpassung-315-saldierung-und-loesungsrecht** — Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Aktenin…
+11. **mabv-agb-klauselmatrix-rot-orange-gruen** — Wenn es um MaBV-/AGB-Klauselmatrix Rot-Orange-Grün in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast…
+12. **prozessstrategie-zahlung-feststellung-und-vorschuss** — Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden …
+13. **fall-fingerabdruck-und-schnelltriage** — Wenn es um Fall-Fingerabdruck und Schnelltriage in Bauträgervertrag-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen un…
+14. **din-anerkannte-regeln-technik-und-standardwechsel** — Wenn es um DIN, anerkannte Regeln der Technik und Standardwechsel in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, N…
+15. **quellenhygiene-rechtsprechungsanker-und-bughunt** — Wenn es um Quellenhygiene, Rechtsprechungsanker und Bug-Hunt in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Bauträgervertrag Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Bauträgervertrag Prüfer
+
+## 1. Direktstart
+
+Arbeite als Baurechtlicher Bearbeiter für Bauvertrag, Architektenleistung, Mängel, Nachtrag, Abnahme, Bauzeit, Sicherheiten und Bauprozess.
+
+Pluginauftrag: Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, Paragrafen 650u/650v BGB, Paragraf 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Bauträgervertrag Prüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Vertragssoll | Leistungsbeschreibung, Pläne, Nachträge, Termine, Vergütung und Sicherheiten erfassen |
+| Bauablauf | Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen |
+| Mangel | Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden prüfen |
+| Architekt | Leistungsphase, Überwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen |
+| Städtebauliche Verträge | Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Bauzeit, Verzug, Vertragsstrafe und höhere Gewalt: Bearbeite den Fachpunkt im Skill bauzeit-verzug-vertragsstrafe-und-hoehere-gewalt und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden: Bearbeite den Fachpunkt im Skill beurkundung-verbraucherfrist-notar-und-bezugsurkunden und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Geschäftsführer-, Architekten- und Bautenstandshaftung: Bearbeite den Fachpunkt im Skill geschaeftsfuehrer-architekt-und-bautenstandshaftung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Notarhaftung, Belehrung und Streitverkündung: Bearbeite den Fachpunkt im Skill notarhaftung-belehrung-und-streitverkuendung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 631: Werkvertragliche Hauptpflichten.
+4.2. BGB Paragraf 633: Sach- und Rechtsmängel des Werkes.
+4.3. BGB Paragraf 634: Rechte des Bestellers bei Mängeln.
+4.4. BGB Paragraf 640: Abnahme.
+4.5. BGB Paragraf 650a: Bauvertrag.
+4.6. BGB Paragraf 650q: Architekten- und Ingenieurvertrag.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
+5.2. BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
+5.3. BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
+5.4. BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme ist unwirksam; eine Teilabnahme folgt nicht schon aus einer Vertragsklausel, nach der die Verjährung mit Abnahme der letzten Unternehmerleistung beginnt.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Vertragssoll ist beweisbar vereinbart.
+7.2. Ist abgenommen oder abnahmereif.
+7.3. Welche Mängelrechte sind nach Fristsetzung eröffnet.
+7.4. Welche Bauzeit- oder Nachtragsfolge ist kausal belegt.
+7.5. Welche technische Frage muss ein Sachverständiger klären.
+7.6. Welche Festsetzung oder städtebauliche Vertragsbindung begrenzt Planung, Genehmigung oder Kostenweitergabe.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Vertragssoll, Bauablauf, Mangel, Architekt: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung verwendbar?
 
 ---
 
@@ -606,56 +725,6 @@ Für Normen: `gesetze-im-internet.de`, Bundesgesetzblatt, Landesrechtportale. F�
 ## Ausgabe
 
 Am Ende jeder Analyse: geprüfte Normen, verifizierte Entscheidungen, ungeklärte Prüfhinweise, bewusst nicht verwendete Fundstellen.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `agb-klauselkontrolle-beweislast-und-tatsachenbestaetigung`
-
-_Wenn es um AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung in Bauträgervertrag-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# AGB-Klauselkontrolle, Beweislast und Tatsachenbestätigung
-
-## Prüfgegenstand
-
-Bauträgerverträge bleiben regelmäßig AGB, auch wenn der Notar den Entwurf formuliert oder die Urkunde feierlich verlesen wird. Individualabrede liegt nur vor, wenn der konkrete Klauselinhalt ernsthaft zur Disposition stand.
-
-## Normenanker
-
-§§ 305, 305c Abs. 2, 306, 307 Abs. 1/2, 308 Nr. 4, 309 Nr. 1, Nr. 2 lit. a, Nr. 7, Nr. 8 lit. b, Nr. 12 lit. a/b, Nr. 13, Nr. 15, 310 Abs. 3, 315, 444, 639, 650m Abs. 2, 650u, 650v BGB; §§ 3, 7, 12 MaBV; § 17 BeurkG.
-
-## Harte Treffer
-
-- Pauschale Bestätigung, alle Anlagen erhalten, verstanden und fachkundig geprüft zu haben.
-- Bestätigung, es gebe keine Nebenabreden, obwohl Prospekt, Showroom, Rendering oder Vertriebsmail konkret Erwartungen geweckt haben.
-- Beweislast für Bautenstand, Zugang, Anlagenkenntnis oder fehlendes Vertretenmüssen wird dem Erwerber zugeschoben.
-- Zustimmungspflichten zu Änderungen der Teilungserklärung ohne einzeln benannte triftige Gründe.
-- Einseitige Leistungsbestimmungsrechte für Material, Grundriss, Fassade, Technik, Gemeinschaftsflächen oder Ausstattungsstandard ohne Zumutbarkeitsgrenze, Gleichwertigkeitsmaßstab und Dokumentationspflicht.
-- Vormerkungslöschung oder Rücktrittsvollmacht aufgrund einseitiger Behauptung des Bauträgers.
-- Verzicht oder Entwertung der § 650m Abs. 2 BGB-Sicherheit.
-- Mängelrügefristen als Ausschlussfristen, verkürzte Bauwerksverjährung oder Ausschluss von § 637 BGB ohne tragfähigen Grund.
-
-## Klauseltechnik
-
-Keine geltungserhaltende Reduktion zugunsten des Bauträgers. Bei Verstoß gegen AGB-Recht sauber § 306 BGB anwenden: Klausel fällt, Vertrag bleibt mit gesetzlicher Lage bestehen. Bei mehrdeutigen Klauseln kundenfeindlichste Auslegung im Kontrollschritt nutzen.
-
-## Leistungsbestimmung und Änderungsvorbehalt
-
-§ 315 BGB hilft nur, wenn der Vertrag überhaupt eine wirksame Leistungsbestimmung zulässt. Im Bauträgervertrag müssen Änderungsvorbehalte den Anlass, den betroffenen Leistungsbereich, den Gleichwertigkeitsmaßstab, die Informationspflicht und die Auswirkung auf Preis, Bauzeit und WEG-Unterlagen benennen. Ein bloßes „gleichwertig nach Wahl des Bauträgers“ ist für Verbraucher besonders gefährlich, wenn Prospekt, Bemusterung und Baubeschreibung konkretere Erwartungen geweckt haben.
-
-## Ausgabe
-
-| Klausel | Befund | Norm | konkrete Benachteiligung | Gegenargument | Antwort | neue Fassung |
-| --- | --- | --- | --- | --- | --- | --- |
-
-Jede Tabellenzeile muss den Originalwortlaut oder die Klauselnummer nennen.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

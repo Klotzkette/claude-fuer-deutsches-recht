@@ -111,6 +111,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`02-kuendigungsschutzklage-pruefen`](skills/02-kuendigungsschutzklage-pruefen/SKILL.md), [`03-zahlungsklage-lohn-und-gehalt`](skills/03-zahlungsklage-lohn-und-gehalt/SKILL.md), [`05-befristung-und-teilzeit`](skills/05-befristung-und-teilzeit/SKILL.md), [`07-einstweilige-verfuegung-arbeitsrecht`](skills/07-einstweilige-verfuegung-arbeitsrecht/SKILL.md), [`08-betriebsverfassung-beschlussverfahren`](skills/08-betriebsverfassung-beschlussverfahren/SKILL.md), [`09-urteil-arbeitsgericht`](skills/09-urteil-arbeitsgericht/SKILL.md), [`10-entscheidungsvorschlag-arbeitsgericht`](skills/10-entscheidungsvorschlag-arbeitsgericht/SKILL.md), [`v392-praxisraster-richter-arbeitsgericht`](skills/v392-praxisraster-richter-arbeitsgericht/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`01-zustaendigkeit-und-guetetermin`](skills/01-zustaendigkeit-und-guetetermin/SKILL.md), [`04-betriebsuebergang-und-tarif`](skills/04-betriebsuebergang-und-tarif/SKILL.md), [`06-agg-diskriminierung`](skills/06-agg-diskriminierung/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
 
@@ -120,7 +121,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -135,6 +136,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-urteil-arbeitsgericht`](skills/09-urteil-arbeitsgericht/SKILL.md) | Wenn es um 09 Urteil Arbeitsgericht in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`10-entscheidungsvorschlag-arbeitsgericht`](skills/10-entscheidungsvorschlag-arbeitsgericht/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Arbeitsgericht in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Arbeitsgericht) in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Arbeitsgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`v392-praxisraster-richter-arbeitsgericht`](skills/v392-praxisraster-richter-arbeitsgericht/SKILL.md) | Wenn es um Praxisraster Arbeitsgericht in Arbeitsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

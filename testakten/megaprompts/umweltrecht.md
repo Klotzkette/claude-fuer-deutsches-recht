@@ -2,25 +2,142 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `umweltrecht`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `umweltrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fac…
-2. **umweltrecht-erstpruefung-und-mandatsziel** — Wenn es um Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterl…
-3. **uwr-wasserrechtliche-erlaubnis-leitfaden** — Wenn es um Uwr Wasserrechtliche Erlaubnis Leitfaden in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-4. **klimaklagen-mehrparteien-konflikt-und-interessen** — Wenn es um Klimaklagen: Mehrparteienkonflikt und Interessenmatrix in Umweltrecht geht: erstellt den passenden Entwurf au…
-5. **diligence-greenwashing-beweislast-klimaklagen** — Wenn es um Diligence: Compliance-Dokumentation und Aktenvermerk in Umweltrecht geht: erstellt den passenden Entwurf aus …
-6. **naturschutz-schriftsatz-brief-und-memo-bausteine** — Wenn es um Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine in Umweltrecht geht: erstellt den passenden Entwurf aus …
-7. **verfahren** — Wenn es um Umweltrechtliche Verwaltungs- und Gerichtsverfahren in Umweltrecht geht: erstellt den passenden Entwurf aus S…
-8. **wasser-abfall-circular-umweltrecht-schulung** — Wenn es um Wasser: Risikoampel, Gegenargumente und Verteidigungslinien in Umweltrecht geht: zerlegt Ergebnis, Frist, Zus…
-9. **umwelt-umweltrecht-umwrg** — Wenn es um Umwelt: Zahlen, Schwellenwerte und Berechnung in Umweltrecht geht: rechnet Schwellen, Beträge, Varianten und …
-10. **greenwashing-beweislast-und-darlegungslast** — Wenn es um Greenwashing: Beweislast, Darlegungslast und Substantiierung in Umweltrecht geht: prüft Frist, Form, Zuständi…
-11. **lieferkettensorgfalt-lksg-red-naturschutz** — Wenn es um Lieferkettensorgfalt: Formular, Portal und Einreichungslogik in Umweltrecht geht: prüft Frist, Form, Zuständi…
-12. **uwr-emissionshandel-ets-spezial** — Wenn es um Umwelt: ETS und CBAM in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten S…
-13. **verfahren-verhandlung-vergleich-und-eskalation** — Wenn es um Verfahren: Verhandlung, Vergleich und Eskalation in Umweltrecht geht: entwickelt Verhandlungsziel, Vergleichs…
-14. **immissionsschutz-bimschg** — Wenn es um Immissionsschutz und BImSchG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Bewei…
-15. **wasser-bodenschutz-uwr-altlasten-bimschg** — Wenn es um Wasser- und Bodenschutzrecht in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Bewei…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Umweltrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkre…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fac…
+3. **umweltrecht-erstpruefung-und-mandatsziel** — Wenn es um Umweltrecht: Erstprüfung, Rollenklärung und Mandatsziel in Umweltrecht geht: klärt Rolle, Ziel, Frist, Unterl…
+4. **uwr-wasserrechtliche-erlaubnis-leitfaden** — Wenn es um Uwr Wasserrechtliche Erlaubnis Leitfaden in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
+5. **klimaklagen-mehrparteien-konflikt-und-interessen** — Wenn es um Klimaklagen: Mehrparteienkonflikt und Interessenmatrix in Umweltrecht geht: erstellt den passenden Entwurf au…
+6. **diligence-greenwashing-beweislast-klimaklagen** — Wenn es um Diligence: Compliance-Dokumentation und Aktenvermerk in Umweltrecht geht: erstellt den passenden Entwurf aus …
+7. **naturschutz-schriftsatz-brief-und-memo-bausteine** — Wenn es um Naturschutz: Schriftsatz-, Brief- und Memo-Bausteine in Umweltrecht geht: erstellt den passenden Entwurf aus …
+8. **verfahren** — Wenn es um Umweltrechtliche Verwaltungs- und Gerichtsverfahren in Umweltrecht geht: erstellt den passenden Entwurf aus S…
+9. **wasser-abfall-circular-umweltrecht-schulung** — Wenn es um Wasser: Risikoampel, Gegenargumente und Verteidigungslinien in Umweltrecht geht: zerlegt Ergebnis, Frist, Zus…
+10. **umwelt-umweltrecht-umwrg** — Wenn es um Umwelt: Zahlen, Schwellenwerte und Berechnung in Umweltrecht geht: rechnet Schwellen, Beträge, Varianten und …
+11. **greenwashing-beweislast-und-darlegungslast** — Wenn es um Greenwashing: Beweislast, Darlegungslast und Substantiierung in Umweltrecht geht: prüft Frist, Form, Zuständi…
+12. **lieferkettensorgfalt-lksg-red-naturschutz** — Wenn es um Lieferkettensorgfalt: Formular, Portal und Einreichungslogik in Umweltrecht geht: prüft Frist, Form, Zuständi…
+13. **uwr-emissionshandel-ets-spezial** — Wenn es um Umwelt: ETS und CBAM in Umweltrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten S…
+14. **verfahren-verhandlung-vergleich-und-eskalation** — Wenn es um Verfahren: Verhandlung, Vergleich und Eskalation in Umweltrecht geht: entwickelt Verhandlungsziel, Vergleichs…
+15. **immissionsschutz-bimschg** — Wenn es um Immissionsschutz und BImSchG in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Bewei…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Umweltrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Umweltrecht
+
+## 1. Direktstart
+
+Arbeite als Verwaltungsrechtlicher Bearbeiter für Verwaltungsakt, Widerspruch, Klage, Eilrechtsschutz, Ermessen, Satzungen und behördliche Verfahren.
+
+Pluginauftrag: Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Umweltrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Verwaltungshandeln | Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen |
+| Zulässigkeit | Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen |
+| Materielle Rechtmäßigkeit | Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen |
+| Eilrechtsschutz | aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren |
+| Arbeitsprodukt | Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Diligence: Compliance-Dokumentation und Aktenvermerk: Bearbeite den Fachpunkt im Skill diligence-greenwashing-beweislast-klimaklagen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. ESG, CSRD und Greenwashing-Verteidigung: Bearbeite den Fachpunkt im Skill esg-greenwashing-klimaklagen-verbandsklage und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Klimaklagen: Mehrparteienkonflikt und Interessenmatrix: Bearbeite den Fachpunkt im Skill klimaklagen-mehrparteien-konflikt-und-interessen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Klimaklagen und Verbandsklagen nach UmwRG: Bearbeite den Fachpunkt im Skill klimaklagen-verbandsklage-umwrg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
+4.2. VwVfG Paragraf 28: Anhörung Beteiligter.
+4.3. VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
+4.4. VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+4.5. VwGO Paragraf 80 Absatz 5: Eilrechtsschutz gegen sofort vollziehbare Verwaltungsakte.
+4.6. VwGO Paragraf 123: einstweilige Anordnung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Bestimme zuerst den konkreten Streitpunkt in Umweltrecht und öffne den dazu in Abschnitt 3.1 verknüpften Fachskill. Ein fachgebietsweiter Leitfall ersetzt keine streitpunktgenaue Recherche.
+5.2. Übernimm eine Entscheidung nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Rechtssatz und Tatsachenkontext sicher feststehen.
+5.3. Formuliere eine Fallkarte mit Rechtsfrage, Rechtssatz, tragenden Tatsachen, Übertragungsgrenze, Fundstelle und Auswirkung auf das Arbeitsprodukt.
+5.4. Fehlt ein sicherer Anker, benenne die offene Recherchefrage ohne Aktenzeichen. Eine nicht belegte Entscheidung ist kein Hilfsargument.
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Handlungsform liegt vor.
+7.2. Welche Klage- oder Antragsart ist statthaft.
+7.3. Welche formellen Fehler können geheilt werden und welche nicht.
+7.4. Welche Ermessensfehler oder Abwägungsdefizite tragen den Angriff.
+7.5. Welche vorläufige Regelung ist im Eilverfahren erforderlich.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur verwendbar?
 
 ---
 
@@ -1015,169 +1132,6 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - `umweltrecht-verfahren` — Klageverfahren Geruestvorbereitung
 - `energieanlagen-bimschg-genehmigung-verfahren` — Spezial-Energieanlagen
 - `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz nach Genehmigung
-
----
-
-## Skill: `wasser-bodenschutz-uwr-altlasten-bimschg`
-
-_Wenn es um Wasser- und Bodenschutzrecht in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Wasser- und Bodenschutzrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: BImSchG § 10 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist 1 Monat, BBodSchG Sanierungsuntersuchung 1 Jahr, Störfall-Anzeige unverzüglich.
-- Tragende Normen verifizieren: BImSchG, KrWG, WHG, BNatSchG, UVPG, BBodSchG, ChemG, StörfallV (12. BImSchV), TA Luft, TA Lärm, EU-IED 2010/75, UmwRG, EU-FFH-RL, EU-WRRL — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger, Genehmigungsbehörde, Umweltverbände (BUND, NABU), VG, OVG, BVerwG (7. Senat), EU-KOM, Sachverständige.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Immissionsschutzrechtliche Genehmigung, UVP-Bericht, FFH-Verträglichkeitsstudie, Sanierungsplan, Verbandsklage, Einwendung, TA-Luft-/TA-Lärm-Berechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage — klaere zuerst
-
-1. Geht es um Wasserrecht (Einleitung, Entnahme, Gewaesserbenutzung) oder Bodenschutz/Altlasten?
-2. WHG-Erlaubnis vorhanden oder Altlast-Bescheid (§§ 9, 10 BBodSchG) vom Umweltamt?
-3. Wer ist Verantwortlicher — Verursacher, Grundstueckseigentuemer, Gesamtrechtsnachfolger?
-4. Ist ein Sanierungsplan nach §§ 13, 14 BBodSchG erforderlich?
-5. Bestehen Erstattungsansprueche gegen Mitverantwortliche (§ 24 BBodSchG)?
-6. Besteht Freistellungs- oder Haftungsregelung im Kaufvertrag?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Zentrale Normen und Paragrafenkette
-
-- **§ 8 WHG** — Grundsatz Erlaubnispflicht für Gewaesserbenutzung
-- **§ 9 WHG** — Benutzungen (Entnahme, Einleitung, Aufstau)
-- **§ 10 WHG** — Erlaubnis (gebundene Entscheidung vs. Bewilligung)
-- **§ 12 WHG** — Versagungsgrundsaetze (schaedliche Gewaesserveraenderung)
-- **§ 57 WHG** — Direkteinleitung in Gewaesser (Abwasser; Erlaubnispflicht)
-- **§ 4 BBodSchG** — Verpflichtung zur Sanierung (Verursacher, Rechtsnachfolger, Eigentümer)
-- **§ 9 BBodSchG** — Untersuchungsanordnung (orientierend, Detailuntersuchung)
-- **§ 10 BBodSchG** — Sanierungsanordnung
-- **§ 13 BBodSchG** — Sanierungsplan-Pflicht bei Altlasten
-- **§ 24 BBodSchG** — Kostenerstattungsanspruch zwischen Pflichtigen (Gesamtschuldner-Ausgleich)
-- **§ 1 BodSchV** — Prüfw- und Maßnahmenwerte Boden
-
-## Schritt-für-Schritt-Workflow
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-### A) Wasserrecht: Einleitungs-/Entnahme-Erlaubnis
-
-1. **Benutzung einordnen**: § 9 WHG — Einleitung, Entnahme, Aufstau, Versickerung.
-2. **Erlaubnisantrag stellen**: § 10 WHG — Antrag an Untere Wasserbehoerde (Kreise, kreisfr. Staedte).
-3. **UVP-Screening**: UVPG Anlage 1 — Entnahme ab bestimmter Menge UVP-pflichtig.
-4. **Inhalt Antrag**: Technische Beschreibung, Mengenangaben, Einleit-Stelle, Vorbehandlung.
-5. **Auflagen akzeptieren oder anfechten**: Grenzwerte WRRL (Wasserrahmenrichtlinie 2000/60/EG), AbwV.
-6. **Ueberwachung**: Eigenkontrollen nach WasserVO, Berichtspflichten.
-
-### B) Bodenschutz: Altlast und Sanierung
-
-1. **Altlast-Feststellung prüfen**: Ist ein § 2 Abs. 5 BBodSchG-Altlast (Altlastenflaeche, Altstandort) festgestellt?
-2. **Untersuchungsanordnung erhalten** (§ 9 BBodSchG): Historische Erkundung, Detailuntersuchung.
-3. **Sanierungsverantwortlicher bestimmen**: Verursacher, Rechtsnachfolger, Eigentümer — in dieser Reihenfolge (§ 4 BBodSchG).
-4. **Sanierungsplan erstellen** (§ 13 BBodSchG): Technische Maßnahmen, Zeitplan, Kosten-Schaetzung.
-5. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-6. **Erstattungsanspruch geltend machen**: § 24 BBodSchG gegen Mitverantwortliche — Gesamtschuldner-Ausgleich; Verjaeahrung 10 Jahre.
-
-### Entscheidungsbaum Bodenschutz
-
-```
-Kontamination festgestellt?
- JA → Wer hat verursacht?
- Bekannter Verursacher/Rechtsnachfolger → § 4 Abs. 3 BBodSchG-Haftung
- Nur Eigentuemer bekannt → Eigentuemer-Haftung § 4 Abs. 3; Verhaeltnismaessigkeit pruefen
- → Sanierungsanordnung § 10 BBodSchG:
- Unverhältnismaessig? (Kosten > Grundstueckswert) → Anfechtung
- Gesamtschuldner? → Erstattungsklage § 24 BBodSchG
-```
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Stellungnahme gegen Sanierungsanordnung Wasser-Boden | Stellungnahme nach Schema; Template unten |
-| Variante A — Sanierungsanordnung teilweise berechtigt | Teilaner-kenntnis der Anordnung; Umfang und Kosten verhandeln |
-| Variante B — Kausalitaet unklar mehrere Verursacher | Kausalitaets-Einwand; Miturheberschaft anderer Verursacher prüfen |
-| Variante C — Sanierungskosten wirtschaftlich existenzbedrohend | Verhältnismäßigkeitspruefung; Teilsanierung als Kompromiss anbieten |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template: Stellungnahme gegen Sanierungsanordnung
-
-**Adressat:** Bodenbehoerde — Tonfall: sachlich-juristisch
-
-```
-An die [UNTERE BODENBEHOERDE / KREISBEHOERDE]
-
-Stellungnahme / Widerspruch
-
-Betroffene/r: [NAME MANDANT], [ADRESSE]
-Ihr Bescheid: [DATUM], Az. [AZ.]
-
-I. Widerspruch
-Hiermit legen wir frist- und formgerecht Widerspruch gegen die
-Sanierungsanordnung vom [DATUM] ein.
-
-II. Unverhaelaenismaessigkeit
-Die angeordneten Sanierungskosten betragen ca. [BETRAG] EUR.
-Der Verkehrswert des Grundstuecks betraegt [BETRAG] EUR (Gutachten Anlage).
-wenn Sanierungskosten den Grundstueckswert wesentlich uebersteigen und
-kein ueberragend schutzwuerdiges öffentliches Interesse besteht.
-
-III. Verursacher-Vorrang
-Eigentlicher Verursacher ist [FIRMA/PERSON] (Nachweise Anlage).
-Vor Inanspruchnahme des Eigentuemers ist der Verursacher vorrangig
-heranzuziehen (§ 4 Abs. 3 S. 1 BBodSchG).
-
-IV. Antrag
-Wir beantragen Aufhebung der Anordnung, hilfsweise Reduzierung auf
-Massnahmen bis [BETRAG] EUR.
-
-Anlagen: Gutachten Grundstueckswert, Historische Nutzungsnachweise, Vollmacht
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Fristen-Überblick
-
-| Schritt | Frist | Grundlage |
-|---|---|---|
-| Widerspruch Wasserbehoerde | 1 Monat | § 70 VwGO |
-| Widerspruch Bodenschutz | 1 Monat | § 70 VwGO |
-| Klage VG | 1 Monat | § 74 VwGO |
-| Erstattungsanspruch § 24 BBodSchG | 10 Jahre ab Sanierungsende | § 24 Abs. 2 BBodSchG |
-| Wasserrechtliche Verjaeahrung | 3 Jahre (BGB §§ 195 199) bei privatrechtlichen Anspruechen | — |
-
-## Vertiefung: WRRL-Verschlechterungsverbot
-
-- Art. 4 Abs. 1 WRRL: Mitgliedstaaten müssen Verschlechterung des Zustands von Wasserkörpern verhindern.
-- BGH-Linie: OWG-Einleit-Erlaubnis muss WRRL-Konformitaet beachten; keine blosse formale Genehmigung.
-- Klimawandel-Folge: Sinkende Gewaesserspiegel erhoehen Einleit-Restriktionen für Industrie.
-
-## Anschluss-Skills
-
-- `umweltrecht-transaktionen-dd` — Altlasten in M&A
-- `umweltrecht-verfahren` — Klage gegen Sanierungsanordnung
-- `umweltrecht-immissionsschutz-bimschg` — Betriebsgenehmigung mit Wasserrechtsbezug
-- `umweltrecht-bussgeld-sanktionen` — Verstoss Wasserrecht
 
 ---
 

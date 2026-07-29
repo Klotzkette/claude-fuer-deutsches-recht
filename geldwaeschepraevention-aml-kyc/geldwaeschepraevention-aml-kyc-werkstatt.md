@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verpflichteter und Produkt: Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen.
+### 3.1. Verpflichteter und Produkt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verpflichteter und Produkt: Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Risikoanalyse und KYC: Identität, Vertretung, Eigentumskette, PEP, Sanktionen, Zweck und Mittelherkunft prüfen.
+### 3.2. Risikoanalyse und KYC
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Risikoanalyse und KYC: Identität, Vertretung, Eigentumskette, PEP, Sanktionen, Zweck und Mittelherkunft prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Monitoring und Meldung: Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen.
+### 3.3. Monitoring und Meldung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Monitoring und Meldung: Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Transparenzregister: wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen.
+### 3.4. Transparenzregister
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Transparenzregister: wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Geldwaeschepräventition AML/KYC — Allgemein | GwG Paragraf 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verpflichteter und Produkt | GwG Paragraf 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GwG Paragraf 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | GwG Paragraf 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Risikoanalyse und KYC | GwG Paragraf 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr | Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -135,15 +135,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GwG Paragraf 2; GwG Paragraf 5.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verpflichteter und Produkt.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Verpflichteter und Produkt, Risikoanalyse und KYC, Monitoring und Meldung, Transparenzregister: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 26.06.2007 - C-305/05; EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -173,58 +175,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Geldwaeschepräventition AML/KYC — Allgemein
+### 15.1. Verpflichteter und Produkt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage
+### 15.2. Risikoanalyse und KYC
 
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Identität, Vertretung, Eigentumskette, PEP, Sanktionen, Zweck und Mittelherkunft prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Testlauf: Beweislast, Darlegungslast und Substantiierung
+### 15.3. Monitoring und Meldung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. AML: Krypto Travel Rule
+### 15.4. Transparenzregister
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. AML: Trade-Based
+### 15.5. Arbeitsprodukt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. AML: FIU-Verdachtsmeldung
+### 15.6. GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Awareness: Zahlen, Schwellenwerte und Berechnung
+### 15.7. AML: Krypto Travel Rule
 
-rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Behördenverfahren: Schriftsatz-, Brief- und Memo-Bausteine
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. abrufen und interne Revision
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Verpflichteter (Paragraf 2 GwG), Geldwäschebeauftragter, BaFin, FIU (Zoll), Aufsichtsbehörden (Kammern), AMLA (ab 2025), Strafverfolgung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Aufsicht, Prüfung und Behördenverfahren
-
-Begleitung von Behördenverfahren BaFin-Prüfungen FIU-Nachfragen und Maßnahmenbescheiden. Anwendungsfall Aufsichtsbehörde hat Auskunftsersuchen gestellt oder Vor-Ort-Prüfung angekündigt. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Bußgeld, Haftung und Reputation
-
-1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor? 2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschäftsführer oder Verwaltungsrat? 3. Welche Remediation-Maßnahmen wurden bereits eingeleitet? 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Datenqualität, Register und Screening-Tools
-
-Prüft Datenqualität im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Gruppenweite Compliance und Outsourcing
-
-Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Immobilien, Güterhandel und Nichtfinanzsektor
-
-AML/KYC-Prüfung für Immobilienmakler Güterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Güterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen Paragraf 2 Abs. 1 Nr. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

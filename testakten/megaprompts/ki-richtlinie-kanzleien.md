@@ -2,25 +2,146 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `ki-richtlinie-kanzleien`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-richtlinie-kanzleien`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Kanzleirichtlinien für digitale Werkzeuge geht: klärt Rolle, Ziel, Frist, Unterlagen …
-2. **pflegt-erstpruefung-und-mandatsziel** — Wenn es um Pflegt: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, U…
-3. **automatisierte-entscheidungen-art-22-dsgvo** — Wenn es um Automatisierte Entscheidungen Art. 22 DSGVO in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachver…
-4. **start-chronologie-fristen** — Wenn es um digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein in diesem Spezialbereich geht: …
-5. **syndikus-schriftsatz-brief-und-memo-bausteine** — Wenn es um Syndikus: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwu…
-6. **rechtsabteilungen-syndikus-verordnung** — Wenn es um Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt…
-7. **kennzeichnungspflichten-veroeffentlichungen** — Wenn es um Kennzeichnungspflichten für Veröffentlichungen in diesem Spezialbereich geht: erstellt den passenden Entwurf …
-8. **dsgvo-compliance-dokumentation-und-akte** — Wenn es um DSGVO: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, L…
-9. **nutzung-mandatsdaten** — Wenn es um Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Fo…
-10. **vo-hochrisiko-kirk-fortbildung-bauleiter** — Wenn es um europäischer Technikregulierungsrahmen Hochrisiko Personalwesen in diesem Spezialbereich geht: zerlegt Ergebn…
-11. **bora-brak-dsgvo** — Wenn es um Bora: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, Varian…
-12. **executive-summary-1-pager-template** — Wenn es um Executive Summary 1-Pager Template in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nach…
-13. **ki-vo-betreiber-pflichten** — Wenn es um europäischer Technikregulierungsrahmen Betreiber-Pflichten in diesem Spezialbereich geht: zerlegt Ergebnis, F…
-14. **brao-quellenkarte** — Wenn es um Brao Quellenkarte in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-15. **anonymisierung-pseudonymisierung** — Wenn es um Anonymisierung und Pseudonymisierung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Na…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn eine Systemrichtlinie für Kanzleien tragfähig begründet werden muss; verbindet Einsatzfall, Beru…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Kanzleirichtlinien für digitale Werkzeuge geht: klärt Rolle, Ziel, Frist, Unterlagen …
+3. **pflegt-erstpruefung-und-mandatsziel** — Wenn es um Pflegt: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, U…
+4. **automatisierte-entscheidungen-art-22-dsgvo** — Wenn es um Automatisierte Entscheidungen Art. 22 DSGVO in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachver…
+5. **start-chronologie-fristen** — Wenn es um digitale Werkzeuge-Richtlinie für Kanzleien und Rechtsabteilungen — Allgemein in diesem Spezialbereich geht: …
+6. **syndikus-schriftsatz-brief-und-memo-bausteine** — Wenn es um Syndikus: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwu…
+7. **rechtsabteilungen-syndikus-verordnung** — Wenn es um Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt…
+8. **kennzeichnungspflichten-veroeffentlichungen** — Wenn es um Kennzeichnungspflichten für Veröffentlichungen in diesem Spezialbereich geht: erstellt den passenden Entwurf …
+9. **dsgvo-compliance-dokumentation-und-akte** — Wenn es um DSGVO: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, L…
+10. **nutzung-mandatsdaten** — Wenn es um Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Fo…
+11. **vo-hochrisiko-kirk-fortbildung-bauleiter** — Wenn es um europäischer Technikregulierungsrahmen Hochrisiko Personalwesen in diesem Spezialbereich geht: zerlegt Ergebn…
+12. **bora-brak-dsgvo** — Wenn es um Bora: Zahlen, Schwellenwerte und Berechnung in diesem Spezialbereich geht: rechnet Schwellen, Beträge, Varian…
+13. **executive-summary-1-pager-template** — Wenn es um Executive Summary 1-Pager Template in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nach…
+14. **ki-vo-betreiber-pflichten** — Wenn es um europäischer Technikregulierungsrahmen Betreiber-Pflichten in diesem Spezialbereich geht: zerlegt Ergebnis, F…
+15. **brao-quellenkarte** — Wenn es um Brao Quellenkarte in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn eine Systemrichtlinie für Kanzleien tragfähig begründet werden muss; verbindet Einsatzfall, Berufspflicht, technische Kontrolle, Verantwortlichkeit, stärkste Gegenposition und konkrete Regelungsfolge._
+
+# Juristischer Argumentationskern - Systemrichtlinie für Kanzleien
+
+## 1. Direktstart
+
+Arbeite als Kanzleiorganisatorischer Bearbeiter für Mandatsannahme, Interessenkontrolle, Vollmacht, Fristen, elektronische Einreichung, Aufgabenverteilung, Budget, Rechnung, Aktenführung und Mandatsabschluss mit Fokus auf Verantwortlichkeit und belegten Übergaben.
+
+Pluginauftrag: Erstellt und pflegt eine berufsrechtskonforme System-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, Datenschutz-Grundverordnung, Regulierungsrahmen sowie BRAK- und DAV-Hinweisen.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für die Systemrichtlinie in einem Satz und nenne darin Einsatzfall, verantwortliche Rolle, betroffene Berufspflicht und erforderliche Kontrollregel. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Freigaberegel, Verbotsfall, Vier-Augen-Kontrolle, Dokumentationspflicht, Vorfallweg, Löschvorgabe oder Schulungsbaustein.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Mandatsannahme | Beteiligte, Gegner, Interessenkontrolle, Identität, Umfang, Vollmacht, Vergütung und Annahmebestätigung sichern |
+| Fristenkontrolle | Auslöser, Bekanntgabe, Kalenderberechnung, Eintrag, Gegenkontrolle, Verantwortlicher und Vertretung dokumentieren |
+| Bearbeitung und Freigabe | Arbeitsauftrag, Aktenstand, offene Entscheidung, Vieraugenkontrolle, Budget und Freigabefassung führen |
+| Elektronischer Versand | Empfänger, Dateiformat, Signatur, Anlagen, Übermittlungsweg, Eingangsbestätigung und Fehlerreaktion prüfen |
+| Abrechnung und Fremdgeld | Gebührentatbestand, Gegenstandswert, Vereinbarung, Vorschuss, Fremdgeld, Rechnung und Zahlungslauf abstimmen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Auftragsverarbeitungsvertrag prüfen: Bearbeite den Fachpunkt im Skill auftragsverarbeitungsvertrag-pruefen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Musterklauseln IT-Vertrag: Bearbeite den Fachpunkt im Skill musterklauseln-it-vertrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Syndikus: Schriftsatz-, Brief- und Memo-Bausteine: Bearbeite den Fachpunkt im Skill syndikus-schriftsatz-brief-und-memo-bausteine und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung: Bearbeite den Fachpunkt im Skill automatisierte-entscheidungen-art-22-dsgvo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BRAO Paragraf 43a Absatz 2 und Absatz 4: Verschwiegenheit und Verbot widerstreitender Interessen.
+4.2. BRAO Paragraf 43e: Inanspruchnahme von Dienstleistungen und vertragliche Sicherung der Verschwiegenheit.
+4.3. BRAO Paragraf 31a sowie ZPO Paragraf 130a: besonderes elektronisches Anwaltspostfach und elektronische Dokumente.
+4.4. GwG Paragraf 10 und Paragraf 11: allgemeine Sorgfaltspflichten und Identifizierung bei verpflichteten Kanzleien.
+4.5. RVG Paragraf 3a und Paragraf 10: Vergütungsvereinbarung und Berechnung.
+4.6. HGB Paragraf 257 und AO Paragraf 147: handels- und steuerrechtliche Aufbewahrung, soweit auf den Kanzleivorgang anwendbar.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. Suche Rechtsprechung erst anhand der präzisen Streitfrage. Verwende eine Entscheidung nur nach Prüfung von Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage in einer belastbaren Quelle.
+
+5.2. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.3. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Ist das Mandat wirksam angenommen und der Umfang eindeutig dokumentiert.
+7.2. Sind Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
+7.3. Welche Frist oder Freigabe ist der nächste nicht reversible Schritt.
+7.4. Ist der Versand technisch und rechtlich vollständig nachgewiesen.
+7.5. Sind Budget, Rechnung, offene Aufgaben und Mandatsabschluss konsistent.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt; Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Mandatsblatt: Beteiligte, Gegner, Gegenstand, Umfang, Vollmacht, Interessenkontrolle, Frist, Bearbeiter, Budget und nächster Schritt.
+10.2. Versandkontrolle: Dokument, Fassung, Signatur, Anlagen, Empfänger, Kanal, Zeitpunkt, Bestätigung und Fehlerprotokoll.
+10.3. Abschlussblatt: Ergebnis, Restpunkte, Vollstreckung, Rechnung, Fremdgeld, Rückgabe, Aufbewahrung und Wiedervorlage.
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt verwendbar?
 
 ---
 
@@ -1270,111 +1391,6 @@ Diese Quellenkarte sichert für **KI-Richtlinie für Kanzleien** jede tragende A
 
 - Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.
-
----
-
-## Skill: `anonymisierung-pseudonymisierung`
-
-_Wenn es um Anonymisierung und Pseudonymisierung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Anonymisierung und Pseudonymisierung
-
-## Arbeitsbereich
-
-Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Die Anonymisierung von Mandatsdaten vor der Eingabe in KI-Systeme ist eine der wichtigsten praktischen Schutzmaßnahmen in der Kanzlei. Echte Anonymisierung — bei der ein Personenbezug nicht mehr herstellbar ist — schließt die Anwendbarkeit der DSGVO aus und reduziert das Berufsrechtsrisiko erheblich. Pseudonymisierung mindert das Risiko, schließt die DSGVO aber nicht aus. Dieser Skill beschreibt ein praxistaugliches Stufenmodell.
-
-## Rechtlicher Hintergrund
-
-Erwägungsgrund 26 DSGVO: Anonymisierte Daten fallen nicht unter die DSGVO — aber die Anonymisierung muss irreversibel sein. Art. 4 Nr. 5 DSGVO: Pseudonymisierung als Verarbeitungstechnik, die den Personenbezug ohne Zusatzinformationen nicht mehr herstellen lässt. Art. 5 Abs. 1 lit. c DSGVO: Datenminimierungsgrundsatz. Art. 25 DSGVO: Datenschutz durch Technikgestaltung (Privacy by Design). § 43a Abs. 2 BRAO: Die Anonymisierung reduziert das Risiko eines Geheimnisverrats, da der Chatbot ohne Personenbezug keine Mandanteninformationen identifizieren kann. Erwägungsgrund 28 DSGVO: Pseudonymisierung als geeignete Schutzmaßnahme.
-
-## Vorlagentext / Bausteine
-
-**Baustein Anonymisierungspflicht:**
-Vor der Eingabe mandatsbezogener Informationen in KI-Systeme sind alle personenbezogenen Daten zu anonymisieren. Die Anonymisierung hat so vollständig zu sein, dass aus dem anonymisierten Text keine Rückschlüsse auf die betroffene Person möglich sind. Zu anonymisierende Informationen umfassen mindestens: vollständige Namen aller Beteiligten, Adressen und Kontaktdaten, Aktenzeichen und Verfahrensnummern, Kontonummern und Finanzdaten, Geburtsdaten sowie alle Angaben, die in Kombination zur Identifizierung führen könnten.
-
-**Baustein Platzhalter-Schema:**
-Beim Ersetzen personenbezogener Daten durch Platzhalter wird folgendes Schema verwendet:
-- Mandanten: "[Mandant-1]", "[Mandant-2]" etc.
-- Gegner: "[Gegner-1]", "[Gegner-2]" etc.
-- Zeuginnen und Zeugen: "[Zeuge-1]", "[Zeuge-2]" etc.
-- Unternehmen: "[Unternehmen-A]", "[Unternehmen-B]" etc.
-- Aktenzeichen: "[Az-1]", "[Az-2]" etc.
-- Adressen: "[Adresse-1]" etc.
-
-**Baustein Re-Identifikationscheck:**
-Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person auf verbliebene Re-Identifikationsrisiken zu überprüfen (Vier-Augen-Prinzip). Besonders kritisch zu prüfen sind seltene Kombinationen von Merkmalen (z.B. spezifische Branche + bestimmter Regionalmarkt + besonderes Schadensgeschehen), die auch ohne Namen zur Identifizierung führen können.
-
-## Hinweise zur Aktualisierung
-
-Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten
-- Art. 4 Nr. 5 DSGVO — Pseudonymisierung
-- Erwaegungsgrund 26 DSGVO — Anonymisierung und Re-Identifikationsrisiko
-- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
-- § 203 StGB — Berufsgeheimnis
-
-## Triage zu Beginn
-1. Handelt es sich um echte Anonymisierung oder nur Pseudonymisierung — besteht ein Zuordnungsschluessel?
-2. Welche Datenkategorien sind betroffen — besondere Kategorien nach Art. 9 DSGVO?
-3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) möglich?
-4. Wird das Dokument in einem KI-System mit Training verarbeitet — besteht Risiko des Modell-Memorizings?
-5. Ist der Anonymisierungsprozess dokumentiert und vieraugengeprueft?
-
-## Output-Template — Anonymisierungsprotokoll
-**Adressat:** Kanzlei intern (Akte) — Tonfall: knapp, dokumentierend
-```
-ANONYMISIERUNGSPROTOKOLL
-[DATUM] — [AKTENZEICHEN] — Dokument: [BEZEICHNUNG]
-
-Anonymisiert von: [NAME]
-Datum: [DATUM]
-Verfahren: Platzhalter-Schema (M1/G1/Z1/Az-1)
-
-Ersetzte Kategorien:
-☑ Namen
-☑ Adressen
-☑ Aktenzeichen
-☑ Geburtsdaten
-☑ Kontonummern
-☐ Gesundheitsdaten (falls betroffen)
-☐ Sonstige: [BESCHREIBUNG]
-
-Re-Identifikationsrisiko-Check:
-Vier-Augen-Pruefung durch: [NAME]
-Ergebnis: [KEIN RISIKO / RISIKO — WEITERE SCHWAERZUNG: BESCHREIBUNG]
-
-Anonymisierungsgrad: [ANONYMISIERT / PSEUDONYMISIERT]
-DSGVO anwendbar: [JA / NEIN]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-
-## Quellenkontrolle
-
-Die Richtlinie muss Berufsrecht, Verschwiegenheit, Datenschutz, Arbeitsrecht und technische Organisation getrennt abbilden. Paragraf 43a Absatz 2 und Paragraf 43e BRAO, Paragraf 203 StGB sowie Artikel 5, 28 und 32 DSGVO nur für den jeweils geregelten Vorgang verwenden. Rechtsprechung nur mit einer konkret passenden tragenden Aussage aufnehmen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

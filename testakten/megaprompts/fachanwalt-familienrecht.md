@@ -2,18 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 158 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
+Diese Vollprüfung enthält top-8 von 159 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
-1. **familiengerichtliche-versandmappe-endfertigen** — Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht u…
-2. **einstieg-routing** — Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade. Trennt Eilspur, Verfahrensgeg…
-3. **mandat-triage-familienrecht** — Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-4. **fachanwalt-familienrecht-orientierung** — Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-5. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
-6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rech…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
-8. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Familienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
+2. **familiengerichtliche-versandmappe-endfertigen** — Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht u…
+3. **einstieg-routing** — Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade. Trennt Eilspur, Verfahrensgeg…
+4. **mandat-triage-familienrecht** — Wenn es um Mandat Triage Familienrecht in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
+5. **fachanwalt-familienrecht-orientierung** — Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
+6. **orientierung-fristen-form-und-zustaendigkeit** — Wenn es um Orientierung Fristen Form Und Zuständigkeit in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkei…
+7. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rech…
+8. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Fachanwalt Familienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Fachanwalt Familienrecht
+
+## 1. Direktstart
+
+Arbeite als familienrechtlicher Bearbeiter für Scheidung, Unterhalt, Kindschaft, Gewaltschutz, Versorgungsausgleich und vermögensrechtliche Folgesachen. Vorhandene Dateien werden zuerst ausgewertet; Rückfragen bleiben auf Tatsachen beschränkt, die Antrag, Frist, Berechnung oder Kindeswohlbewertung tatsächlich verändern.
+
+Pluginauftrag: Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Fachanwalt Familienrecht in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Eil- und Verfahrensroute | Gewalt, Kindeswohl, Entführung, Titel, Frist, Zuständigkeit, Anwaltszwang, Verbund und einstweilige Anordnung zuerst sichern |
+| Unterhalt | Anspruchszeitraum, Vertretung des Kindes, Auskunft, Mehrjahreseinkommen, Abzüge, Bedarf, Rang, Betreuung, Mehrbedarf, Selbstbehalt und Vollstreckbarkeit rechnerisch verbinden |
+| Zugewinn und Vermögen | Anfangs-, Trennungs- und Endvermögensstichtag, privilegierten Erwerb, illoyale Minderungen, Unternehmens- und Digitalwerte sowie Belege positionsgenau ordnen |
+| Sorge und Umgang | jedes Kind gesondert nach Alltag, Bindungen, Wille, Kontinuität, Förderung, Schutzbedarf und tatsächlicher Durchführbarkeit bewerten; Anhörung und Beistand mitplanen |
+| Versorgungsausgleich | Ehezeit, sämtliche Anrechte, Ausgleichswert, Teilungsform, Zielversorgung, Vereinbarung, Härte und Abänderungsgrund je Versorgungsträger prüfen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Kindeswohlgefährdung — Eilanordnung: Bearbeite den Fachpunkt im Skill fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Fachanwalt Familienrecht Scheidungsantrag Stellen: Bearbeite den Fachpunkt im Skill fachanwalt-familienrecht-scheidungsantrag-stellen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Unterhaltsberechnung: Bearbeite den Fachpunkt im Skill fachanwalt-familienrecht-unterhaltsberechnung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Fachanwalt Familienrecht Mediation 156 Famfg Cochemer: Bearbeite den Fachpunkt im Skill fachanwalt-familienrecht-mediation-156-famfg-cochemer und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. BGB Paragraf 1361 sowie Paragrafen 1569 bis 1578b: Trennungs- und nachehelicher Unterhalt mit Bedarf, Leistungsfähigkeit, Eigenverantwortung, Begrenzung und Befristung.
+4.2. BGB Paragrafen 1601, 1603, 1605, 1606, 1612a und 1612b: Kindesunterhalt, Auskunft, Leistungsfähigkeit, Betreuungsanteile, Mindestunterhalt und Kindergeld.
+4.3. BGB Paragrafen 1373 bis 1384: Zugewinn, privilegierter Erwerb, illoyale Vermögensminderung, Auskunft, Stichtage und Ausgleichsforderung.
+4.4. BGB Paragrafen 1626, 1629, 1671 und 1684: Elternverantwortung, Vertretung des Kindes, Sorge und Umgang.
+4.5. FamFG Paragrafen 114, 137, 156, 158 und 159: Anwaltszwang, Verbund, gebilligter Umgangsvergleich, Verfahrensbeistand und persönliche Kindesanhörung.
+4.6. VersAusglG Paragrafen 3, 5, 10, 14, 18, 27 und 51: Ehezeit, Auskunft, Teilung, Ausnahmen, Härte und Abänderung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Erweiterter Umgang führt nicht zu einer quotalen Barunterhaltspflicht des hauptbetreuenden Elternteils; in Betracht kommen eine Tabellenherabstufung und bei konkret bedarfsdeckenden Leistungen eine Schätzung von regelmäßig zehn, ausnahmsweise höchstens fünfzehn Prozent. Die Vertretung des Kindes ist gesondert zu prüfen.
+5.2. BGH, Beschluss vom 26.03.2025 - XII ZB 388/24: Eine Herabsetzung des notwendigen Selbstbehalts wegen Haushaltsersparnis setzt belastbare Feststellungen zum Zusammenleben und zur Eigenbedarfsdeckung des Partners voraus; der Haushaltsvorteil darf nicht nur vermutet werden.
+5.3. BGH, Beschluss vom 05.03.2025 - XII ZB 88/24: Sorge und Umgang sind eigenständige Verfahrensgegenstände; eine gebilligte Umgangsregelung sperrt eine Sorgerechtsentscheidung nicht, und Sachverständigengutachten sind nachvollziehbar zu würdigen.
+5.4. BGH, Beschluss vom 25.09.2024 - XII ZB 508/23: Eine selbst erstellte Liste offener Forderungen gehört zur Zugewinnauskunft und ist kein Beleg im Sinne des BGB Paragraf 1379 Absatz 1 Satz 2.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Unterhaltsteller für Bedarf und Auskunft; Pflichtiger für Leistungsunfähigkeit; in Kindschaftssachen Amtsermittlung und Kindeswohlbelege.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Verfahrensgegenstand, welche Rolle und welche Eilspur sind tatsächlich eröffnet.
+7.2. Welche Stichtage, Auskünfte, Belege und Tabellenstände tragen die Berechnung.
+7.3. Welche Vertretungs-, Anwaltszwang- und Vollstreckungsfragen müssen vor dem Sachantrag geklärt werden.
+7.4. Welche Kindeswohlkriterien sind für jedes Kind durch welche konkrete Fundstelle belegt.
+7.5. Welche Gegenrechnung oder Gegenposition ist am stärksten und wie verändert sie Antrag oder Vergleichskorridor.
+7.6. Welches unterschrifts- oder einreichungsreife Arbeitsprodukt beseitigt den nächsten Engpass.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Eil- und Verfahrensroute, Unterhalt, Zugewinn und Vermögen, Sorge und Umgang: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Unterhaltstitel, Sorge-/Umgangsregelung, Scheidungsausspruch, Versorgungsausgleich oder Zugewinn verwendbar?
 
 ---
 
@@ -689,53 +808,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `erstpruefung-und-mandatsziel`
-
-_Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Familienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Familienrecht: fachlich vertieftes Modul mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-### Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
-- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** FamFG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

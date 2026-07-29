@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Monitoring und Meldung: Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen.
 4. Transparenzregister: wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen.
 5. Arbeitsprodukt: KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen.
-6. Geldwaeschepräventition AML/KYC — Allgemein: Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Geldwaeschepräventition AML/KYC — Allgemein | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verpflichteter und Produkt | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risikoanalyse und KYC | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Monitoring und Meldung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Transparenzregister | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Testlauf: Beweislast, Darlegungslast und Substantiierung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AML: Krypto Travel Rule | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AML: Trade-Based | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AML: FIU-Verdachtsmeldung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,8 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Geldwaeschepräventition AML/KYC — Allgemein, GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage, Testlauf: Beweislast, Darlegungslast und Substantiierung, AML: Krypto Travel Rule: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr.
+7.2. Normsatz: Den tragenden Anker GwG Paragraf 2; GwG Paragraf 5 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Verpflichteter und Produkt konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Verpflichteter und Produkt, Risikoanalyse und KYC, Monitoring und Meldung, Transparenzregister: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsverzug rechtssicher aussprechen oder abwehren.
+Wenn du das hier öffnest, willst du einen Vorgang der Gemeinschaft der Wohnungseigentümer sofort nach Beschlusskompetenz, ordnungsmäßiger Verwaltung, Kostenfolge, Frist und ausführbarem Verwaltungsschritt ordnen.
 
 # Weg Hausverwaltung — Schnellstart
 
@@ -17,53 +17,52 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 3. Kernroute
 
-1. Vertrag und Objekt: Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen.
-2. Zahlung und Abrechnung: Rückstaende, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
-3. Mangel und Nutzung: Anzeige, Beweis, Minderungsquote, Zurückbehaltung und Instandsetzung trennen.
-4. Kündigung und Raeumung: Kündigungsgrund, Fristen, Schutzvorschriften, Amtsgerichtszuständigkeit und Vollstreckung abbilden.
-5. WEG-Beschluss und Verwaltung: Beschluss, Einladungsfehler, Beschlusskompetenz, ordnungsmäßige Verwaltung und Klagefrist prüfen.
-6. Eigentümerkommunikation und Beschwerden: Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren.
+1. Gemeinschaft und Gegenstand: Einheit, Gemeinschafts- oder Sondereigentum, Gemeinschaftsordnung, Beteiligte, Vertretung und konkretes Verwaltungsziel feststellen.
+2. Beschlussarbeit: Beschlusskompetenz, Einberufung, Tagesordnung, Bestimmtheit, Mehrheit, Verkündung, Niederschrift und Beschlusssammlung lückenlos prüfen.
+3. Finanzen: Wirtschaftsplan, Vorschüsse, Abrechnungsspitzen, Rücklage, Hausgeld, Sonderumlage, Kostenart und Verteilungsschlüssel rechnerisch mit Beleg verbinden.
+4. Maßnahme und Pflicht: Erhaltung, bauliche Veränderung, privilegierte Maßnahme, Verwalterhandlung, Handwerkerauftrag, Versicherung und Kostenfolge trennen.
+5. Rechtsschutz und Output: Monats- und Zweimonatsfrist, Klagegegner, Amtsgericht, Antrag, Begründungsstoff und sofort nutzbaren Beschluss-, Protokoll-, Abrechnungs- oder Schriftsatzentwurf erstellen.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 535; BGB Paragraf 536; BGB Paragraf 543 und Paragraf 569 |
-| Rechtsprechung | BGH, Urteil vom 18.03.2015 - VIII ZR 185/14; BGH, Urteil vom 18.03.2015 - VIII ZR 242/13 |
-| Tatbestand | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren |
-| Beweislast | Vermieter für Rückstand, Kündigungsgrund und Abrechnung; Mieter für Mangelanzeige, Zahlung, Schonfrist und Einwendungen |
-| Rechtsfolge | Zahlung, Minderung, Kündigung, Räumung, Instandsetzung oder Abrechnungsberichtigung |
+| Normenanker | WEG Paragraf 9a und Paragraf 18; WEG Paragraf 19; WEG Paragraf 20 und Paragraf 21 |
+| Rechtsprechung | BGH, Urteil vom 19.07.2024 - V ZR 102/23; BGH, Urteil vom 20.09.2024 - V ZR 195/23 |
+| Tatbestand | Einheit, Gemeinschafts- oder Sondereigentum, Gemeinschaftsordnung, Beteiligte, Vertretung und konkretes Verwaltungsziel feststellen |
+| Beweislast | Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit; der anfechtende Eigentümer bezeichnet den Beschlussmangel innerhalb der Begründungsfrist und belegt dessen Tatsachengrundlage |
+| Rechtsfolge | Beschlussentwurf, Einladung, Niederschrift, Abrechnungsblatt, Verwaltervermerk, Eigentümeranschreiben oder Beschlussklage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Eigentümerkommunikation und Beschwerden | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einladung, Tagesordnung und Fristen | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im WEG- und Hausverwaltungsrecht: fachlich vertieftes Modul. | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Gemeinschaft und Gegenstand | Einheit, Gemeinschafts- oder Sondereigentum, Gemeinschaftsordnung, Beteiligte, Vertretung und konkretes Verwaltungsziel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlussarbeit | Beschlusskompetenz, Einberufung, Tagesordnung, Bestimmtheit, Mehrheit, Verkündung, Niederschrift und Beschlusssammlung lückenlos prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Finanzen | Wirtschaftsplan, Vorschüsse, Abrechnungsspitzen, Rücklage, Hausgeld, Sonderumlage, Kostenart und Verteilungsschlüssel rechnerisch mit Beleg verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Maßnahme und Pflicht | Erhaltung, bauliche Veränderung, privilegierte Maßnahme, Verwalterhandlung, Handwerkerauftrag, Versicherung und Kostenfolge trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
-- BGB Paragraf 535: Hauptpflichten aus dem Mietvertrag.
-- BGB Paragraf 536: Mietminderung bei Sach- und Rechtsmängeln.
-- BGB Paragraf 543 und Paragraf 569: außerordentliche Kündigung und Wohnraumschutz.
-- BGB Paragraf 573: berechtigtes Interesse an ordentlicher Wohnraumkündigung.
-- BGB Paragrafen 535 ff., 556 ff., 558 ff., 573 ff.; BetrKV; HeizKV; WEG Paragrafen 18-28, 43-45; ZPO bei Räumung/Eilrechtsschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 556 BGB: mietrechtliche Abrechnung, Frist und Einwendungen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragrafen 242, 305, 307, 633 ff., 634a, 640 BGB; Paragraf 9a WEG; Paragrafen 203, 204 BGB; Paragrafen 485 ff. ZPO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel für unrenoviert oder renovierungsbedürftig überlassenen Wohnraum ist ohne angemessenen Ausgleich unwirksam; den Anfangszustand beweist der Mieter, den Ausgleich der Vermieter.
-- BGH, Urteil vom 18.03.2015 - VIII ZR 242/13: Formularmäßige Quotenabgeltungsklauseln sind wegen der mehrfach hypothetischen und nicht sicher einschätzbaren Kostenbelastung unwirksam.
-- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Beschlüsse zu Jahresabrechnung/Wirtschaftsplan sind nach neuem Recht auf Vorschüsse, Nachschüsse und Vorschussanpassungen auszulegen.
-- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung sind für die Ungültigkeit relevant, wenn sie die Abrechnungsspitze/Zahlungspflicht betreffen.
+- WEG Paragraf 9a und Paragraf 18: Rechtsstellung der Gemeinschaft und Verwaltung des gemeinschaftlichen Eigentums.
+- WEG Paragraf 19: Anspruch auf ordnungsmäßige Verwaltung und gesetzliche Mindestmaßnahmen.
+- WEG Paragraf 20 und Paragraf 21: bauliche Veränderungen, Gestattung und Kostentragung.
+- WEG Paragraf 23 bis Paragraf 25: Beschlussfassung, Versammlung, Einberufung und Stimmrecht.
+- BGH, Urteil vom 19.07.2024 - V ZR 102/23: Ein nach dem 30.11.2020 als Genehmigung der Gesamt- und Einzelabrechnungen formulierter Beschluss ist regelmäßig auf Nachschüsse und Vorschussanpassungen auszulegen.
+- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Ein Fehler der Jahresabrechnung trägt die Ungültigerklärung des Beschlusses nach WEG Paragraf 28 Absatz 2 nur, wenn er sich auf Abrechnungsspitze und Zahlungspflicht auswirkt.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder Eigentümerkommunikation und Beschwerden, Einladung, Tagesordnung und Fristen, Fristen- und Risikoampel, Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertieftes.: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Beschlussentwurf, Einladung, Niederschrift, Abrechnungsblatt, Verwaltervermerk, Eigentümeranschreiben oder Beschlussklage.
+7.2. Normsatz: Den tragenden Anker WEG Paragraf 9a und Paragraf 18; WEG Paragraf 19 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Gemeinschaft und Gegenstand konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit; der anfechtende Eigentümer bezeichnet den Beschlussmangel innerhalb der Begründungsfrist und belegt dessen Tatsachengrundlage; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Beschlussentwurf: Kompetenzgrundlage, konkrete Maßnahme, Kostenrahmen, Verteilungsschlüssel, Fälligkeit, Vollzugsbefugnis und Dokumentationsauftrag; Beschlussprüfmatrix: Tagesordnung, Wortlaut, Kompetenz, Bestimmtheit, Mehrheit, ordnungsmäßige Verwaltung, Kostenfolge, Frist und Angriff. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

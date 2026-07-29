@@ -2,25 +2,148 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 57 Skills des Plugins `europarecht-kompass`.
+Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `europarecht-kompass`.
 
 ## Inhaltsverzeichnis
 
-1. **einstieg-routing** — Wenn es um Einstieg und Routing in Europarecht-Kompass für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen …
-2. **europarecht-erstpruefung-und-mandatsziel** — Wenn es um Europarecht: Erstprüfung, Rollenklärung und Mandatsziel in Europarecht-Kompass für deutsche Juristen geht: kl…
-3. **vorrang-unmittelbare-wirkung-effet-utile** — Wenn es um Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen in Europarecht-Kompass für deutsche Jurist…
-4. **richtlinien-schriftsatz-brief-und-memo-bausteine** — Wenn es um Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine in Europarecht-Kompass für deutsche Juristen geht: erste…
-5. **er-vorlageverfahren-eur-kommissionsverfahren** — Wenn es um Europarecht: Vorlageverfahren Art. 267 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt,…
-6. **grundfreiheiten-zahlen-schwellen-und-berechnung** — Wenn es um Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung in Europarecht-Kompass für deutsche Juristen geht: rec…
-7. **beihilfen-drafting-europarecht** — Wenn es um Beihilfen: Compliance-Dokumentation und Aktenvermerk in Europarecht-Kompass für deutsche Juristen geht: ordne…
-8. **unmittelbare-risikoampel-und-gegenargumente** — Wenn es um Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien in Europarecht-Kompass für deutsche Juriste…
-9. **eur-kommissionsverfahren-art-258-spezial** — Wenn es um EU: Vertragsverletzung Art. 258 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, …
-10. **europarecht-vorlageverfahren-art-267** — Wenn es um Vorlageverfahren Art. 267 AEUV in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, B…
-11. **petitionsausschuss-mandantenentscheidung** — Wenn es um Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage in Europarecht-Kompass für deutsche Juris…
-12. **europarecht-mandantenmemo** — Wenn es um Mandantenmemo und Executive Briefing in Europarecht-Kompass für deutsche Juristen geht: erstellt den passende…
-13. **europarecht-vertragsverletzung-durchsetzung** — Wenn es um Vertragsverletzung und Durchsetzung in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden…
-14. **europarecht-verordnung-beschluss-soft-law** — Wenn es um Verordnung, Beschluss und Soft Law in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden …
-15. **rechtsquellen-beweislast-darlegungslast** — Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Europarecht-Kompass für deutsche Juristen ge…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Europarecht Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbinde…
+2. **einstieg-routing** — Wenn es um Einstieg und Routing in Europarecht-Kompass für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen …
+3. **europarecht-erstpruefung-und-mandatsziel** — Wenn es um Europarecht: Erstprüfung, Rollenklärung und Mandatsziel in Europarecht-Kompass für deutsche Juristen geht: kl…
+4. **vorrang-unmittelbare-wirkung-effet-utile** — Wenn es um Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen in Europarecht-Kompass für deutsche Jurist…
+5. **richtlinien-schriftsatz-brief-und-memo-bausteine** — Wenn es um Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine in Europarecht-Kompass für deutsche Juristen geht: erste…
+6. **er-vorlageverfahren-eur-kommissionsverfahren** — Wenn es um Europarecht: Vorlageverfahren Art. 267 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt,…
+7. **grundfreiheiten-zahlen-schwellen-und-berechnung** — Wenn es um Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung in Europarecht-Kompass für deutsche Juristen geht: rec…
+8. **beihilfen-drafting-europarecht** — Wenn es um Beihilfen: Compliance-Dokumentation und Aktenvermerk in Europarecht-Kompass für deutsche Juristen geht: ordne…
+9. **unmittelbare-risikoampel-und-gegenargumente** — Wenn es um Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien in Europarecht-Kompass für deutsche Juriste…
+10. **eur-kommissionsverfahren-art-258-spezial** — Wenn es um EU: Vertragsverletzung Art. 258 in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, …
+11. **europarecht-vorlageverfahren-art-267** — Wenn es um Vorlageverfahren Art. 267 AEUV in Europarecht-Kompass für deutsche Juristen geht: ordnet Sachverhalt, Norm, B…
+12. **petitionsausschuss-mandantenentscheidung** — Wenn es um Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage in Europarecht-Kompass für deutsche Juris…
+13. **europarecht-mandantenmemo** — Wenn es um Mandantenmemo und Executive Briefing in Europarecht-Kompass für deutsche Juristen geht: erstellt den passende…
+14. **europarecht-vertragsverletzung-durchsetzung** — Wenn es um Vertragsverletzung und Durchsetzung in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden…
+15. **europarecht-verordnung-beschluss-soft-law** — Wenn es um Verordnung, Beschluss und Soft Law in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden …
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Europarecht Kompass ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Europarecht Kompass
+
+## 1. Direktstart
+
+Arbeite als Unionsrechtlicher Bearbeiter für Primärrecht, Sekundärrecht, Grundfreiheiten, Unionsgrundrechte, Richtlinienwirkung, Staatshaftung, Beihilfen und Vorlagefragen mit Fokus auf Normwirkung, Anwendungsvorrang und verwertbare nationale oder unionsrechtliche Arbeitsprodukte.
+
+Pluginauftrag: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Europarecht Kompass in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Unionsbezug | Beteiligte, Maßnahme, Mitgliedstaat, Organ, Rechtsakt, Binnenmarktbezug und zeitlicher Anwendungsbereich feststellen |
+| Normwirkung | Primärrecht, Verordnung, Richtlinie, Beschluss, unmittelbare Wirkung, richtlinienkonforme Auslegung und Anwendungsvorrang trennen |
+| Materielle Prüfung | Grundfreiheit, Diskriminierung, Beschränkung, Rechtfertigung, Verhältnismäßigkeit, Wettbewerb oder Beihilfe aufbauen |
+| Rechtsschutz | nationales Verfahren, Vorlagefrage, Kommissionsverfahren, Unionsklage, Frist und vorläufigen Rechtsschutz bestimmen |
+| Arbeitsprodukt | Europarechtsmemo, Vorlagefragen, Umsetzungscheck, Verhältnismäßigkeitsmatrix, Stellungnahme oder Schriftsatzbaustein erstellen |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. EuGH-Klagearten und Rechtsschutz: Bearbeite den Fachpunkt im Skill europarecht-klagearten-eugh und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Vertragsverletzung und Durchsetzung: Bearbeite den Fachpunkt im Skill europarecht-vertragsverletzung-durchsetzung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Vorlageverfahren Art. 267 AEUV: Bearbeite den Fachpunkt im Skill europarecht-vorlageverfahren-art-267 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: Bearbeite den Fachpunkt im Skill denkfehler-fristen-form-und-zustaendigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. EUV Artikel 4 Absatz 3 und Artikel 5: loyale Zusammenarbeit, Einzelermächtigung, Subsidiarität und Verhältnismäßigkeit.
+4.2. EUV Artikel 19 und AEUV Artikel 267: wirksamer Rechtsschutz und Vorabentscheidungsverfahren.
+4.3. AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49, Artikel 56 und Artikel 63: Diskriminierungsverbot und Grundfreiheiten.
+4.4. AEUV Artikel 101, Artikel 102 und Artikel 107: Kartellverbot, Missbrauchskontrolle und Beihilfenverbot.
+4.5. AEUV Artikel 258 bis Artikel 260: Vertragsverletzungsverfahren und Folgen der Nichtbefolgung.
+4.6. AEUV Artikel 288: Handlungsformen der Union und Bindungswirkung von Verordnung, Richtlinie und Beschluss.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. EuGH, Urteil vom 05.02.1963 - 26/62: Van Gend en Loos zur unmittelbaren Wirkung hinreichend klarer und unbedingter unionsrechtlicher Bestimmungen.
+5.2. EuGH, Urteil vom 15.07.1964 - 6/64: Costa gegen ENEL zum Vorrang des Unionsrechts gegenüber entgegenstehendem nationalem Recht.
+5.3. EuGH, Urteil vom 19.11.1991 - C-6/90 und C-9/90: Francovich zur unionsrechtlichen Staatshaftung bei qualifizierter Nichtumsetzung einer Richtlinie.
+
+5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
+7.2. Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
+7.3. Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
+7.4. Welche Rechtfertigung, Ausnahme oder Verhältnismäßigkeitsprüfung ist entscheidend.
+7.5. Welches Gericht oder Organ kann den gewünschten Rechtsschutz gewähren.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge; Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Fachliche Formulierungsansätze
+
+10.1. Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge.
+10.2. Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit.
+10.3. Vorlagefrage: Ist [Unionsnorm] dahin auszulegen, dass [präzise nationale Konfliktlage und entscheidungserhebliche Alternative].
+
+## 11. Qualitätskontrolle
+
+11.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+11.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+11.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+11.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+11.7. Ist das Ergebnis unmittelbar als Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk verwendbar?
 
 ---
 
@@ -843,48 +966,6 @@ Anfechtbarkeit Art. 263: [JA — faktische Rechtswirkung / NEIN]
 <!-- END ausformulierungspflicht (autogen) -->
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `rechtsquellen-beweislast-darlegungslast`
-
-_Wenn es um Rechtsquellen: Beweislast, Darlegungslast und Substantiierung in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Rechtsquellen: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** EU.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsquellen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

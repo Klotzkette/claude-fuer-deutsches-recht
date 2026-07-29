@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Honorar und Nachtrag: Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen.
 4. Haftung und Überwachung: Planungsfehler, Koordination, Vergabe, Bauüberwachung, Kostenfortschreibung, Mängelverfolgung, Kausalität und Mitverantwortung trennen.
 5. Arbeitsprodukt: Leistungsstandsmatrix, Honorarprüfung, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk, Projektbericht oder Anspruchsschreiben erstellen.
-6. HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken: Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,11 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| HOAI Querschnitt: Prüft planungsgrundlage | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kostenobergrenze, Budget und Haftung | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| LPH 1 Grundlagenermittlung: Identifiziert typische haftungsrisiken und beweisvorsorge | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| LPH 1 Grundlagenermittlung: Ordnet vertrag | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| LPH 2 Vorplanung: Identifiziert typische haftungsrisiken und beweisvorsorge | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrag und Zeitstand | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistungsstand | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Honorar und Nachtrag | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung und Überwachung | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -56,13 +54,17 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - HOAI Paragraf 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BGB Paragrafen 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 04.07.2019 - C-377/17: Die verbindlichen Mindest- und Höchstsätze der früheren HOAI verstießen gegen die Dienstleistungsrichtlinie.
-- EuGH, Urteil vom 18.01.2022 - C-261/20: In einem Rechtsstreit ausschließlich zwischen Privaten muss das alte nationale Mindestsatzrecht nicht allein aufgrund des Unionsrechts unangewendet bleiben.
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Leistungsstandsmatrix: Leistungsphase, Grundleistung, geschuldeter Erfolg, Planstand, Beleg, Erfüllungsgrad, Mangel und nächste Handlung; Honorarblatt: Fassung, Leistungsbild, anrechenbare Kosten, Honorarzone, Satz, Prozentsatz, Zu- und Abschlag, Nebenkosten und Zahlung.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht.
+7.2. Normsatz: Den tragenden Anker BGB Paragraf 650p und Paragraf 650q; BGB Paragraf 650r und Paragraf 650s auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Vertrag und Zeitstand konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Leistungsstandsmatrix: Leistungsphase, Grundleistung, geschuldeter Erfolg, Planstand, Beleg, Erfüllungsgrad, Mangel und nächste Handlung; Honorarblatt: Fassung, Leistungsbild, anrechenbare Kosten, Honorarzone, Satz, Prozentsatz, Zu- und Abschlag, Nebenkosten und Zahlung. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

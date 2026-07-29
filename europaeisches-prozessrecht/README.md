@@ -51,7 +51,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`euipo-eu-gericht-route`](skills/euipo-eu-gericht-route/SKILL.md), [`kaltstart-verfahrensrouting`](skills/kaltstart-verfahrensrouting/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`vertraulichkeit-beweis-anlagen`](skills/vertraulichkeit-beweis-anlagen/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`amtshaftung-art-268-340`](skills/amtshaftung-art-268-340/SKILL.md), [`kosten-und-prozessrisiko`](skills/kosten-und-prozessrisiko/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`amtshaftung-art-268-340`](skills/amtshaftung-art-268-340/SKILL.md), [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`kosten-und-prozessrisiko`](skills/kosten-und-prozessrisiko/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`muendliche-verhandlung-plaedoyer`](skills/muendliche-verhandlung-plaedoyer/SKILL.md), [`vergleich-ruecknahme-erledigung`](skills/vergleich-ruecknahme-erledigung/SKILL.md), [`vertragsverletzung-art-258-260`](skills/vertragsverletzung-art-258-260/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`eug-nichtigkeitsklage-art-263`](skills/eug-nichtigkeitsklage-art-263/SKILL.md), [`fristberechnung-verfahrenssprache`](skills/fristberechnung-verfahrenssprache/SKILL.md), [`klagebefugnis-private-plaumann`](skills/klagebefugnis-private-plaumann/SKILL.md), [`schriftsatzbau-eugh-eug`](skills/schriftsatzbau-eugh-eug/SKILL.md), [`untatigkeitsklage-art-265`](skills/untatigkeitsklage-art-265/SKILL.md), [`urteilsauswertung-folgeverfahren`](skills/urteilsauswertung-folgeverfahren/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`e-curia-versandmappe-endfertigen`](skills/e-curia-versandmappe-endfertigen/SKILL.md) |
@@ -64,7 +64,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 22 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -77,6 +77,7 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Jeder Sk
 | [`euipo-eu-gericht-route`](skills/euipo-eu-gericht-route/SKILL.md) | Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit Fristen, Prüfungsumfang und Anfechtungszielen. |
 | [`fristberechnung-verfahrenssprache`](skills/fristberechnung-verfahrenssprache/SKILL.md) | Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne Review-Termine für EuGH- und EuG-Verfahren. |
 | [`intervention-streithelfer`](skills/intervention-streithelfer/SKILL.md) | Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schriftsatzgrenzen, Vertraulichkeit und Koordination mit Hauptpartei. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Europäisches Prozessrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-verfahrensrouting`](skills/kaltstart-verfahrensrouting/SKILL.md) | Routet unionsprozessuale Mandate schnell auf Vorlage, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiligen Rechtsschutz oder Rechtsmittel und liefert sofort Fristen-, Zuständigkeits- und Dokumentenplan. |
 | [`klagebefugnis-private-plaumann`](skills/klagebefugnis-private-plaumann/SKILL.md) | Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie. |
 | [`kosten-und-prozessrisiko`](skills/kosten-und-prozessrisiko/SKILL.md) | Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster, reputationssensibler Punkte und Folgeentscheidungen. |

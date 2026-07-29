@@ -42,7 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Abs. 4**: Haftungsbegrenzung 50 EUR entfällt nicht, wenn der Zahler weder vorsätzlich noch grob fahrlässig gehandelt hat.
 
 ## Schlüssel-Rechtsprechung zu grober Fahrlässigkeit
-- **BGH XI ZR 91/14** (Urteil vom 26.01.2016): Bloße Weitergabe der TAN aufgrund Phishing-Mail begründet nicht ohne weiteres groben Verkehrspflichtverstoß; Würdigung der Gesamtumstände erforderlich.
+- **BGH XI ZR 91/14** (Urteil vom 26.01.2016): Ein Anscheinsbeweis für Autorisierung setzt ein praktisch unüberwindbares, konkret ordnungsgemäß angewandtes und fehlerfrei funktionierendes Sicherungsverfahren voraus; aus einer protokollierten Nutzung folgt kein allgemeiner Anscheinsbeweis grober Fahrlässigkeit.
 - **BGH XI ZR 96/11** (Urteil vom 24.04.2012): Anscheinsbeweis grober Fahrlässigkeit durch erfolgreichen Einsatz des Sicherungsverfahrens widerlegbar bei plausibler Phishing-Erklärung.
 - Verifizierung aktueller Rechtsprechung über CURIA / openJur / Rechtsprechung-im-Internet.de unter den genannten Aktenzeichen.
 

@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Verfahrensroute: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz.
+### 3.1. Verfahrensroute
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verfahrensroute: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Zuständigkeit und Rolle: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle.
+### 3.2. Zuständigkeit und Rolle
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zuständigkeit und Rolle: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Zulässigkeit: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag.
+### 3.3. Zulässigkeit
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Zulässigkeit: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.
+### 3.4. Einreichung und Anlagen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument.
+### 3.5. Begründung und Gegenposition
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Begründung und Gegenposition: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Unionsamtshaftung | EUV Artikel 19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Verfahrensroute | EUV Artikel 19 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | AEUV Artikel 256 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Nichtigkeitsklage nach Art. 263 AEUV | AEUV Artikel 256 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Zuständigkeit und Rolle | AEUV Artikel 256 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie | Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,15 +130,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind EUV Artikel 19; AEUV Artikel 256.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Verfahrensroute.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Fristenblatt: Verfahrensart, Gericht, auslösender Akt, Zustellung, Fristende, e-Curia-Reserve und verantwortlicher Einreicher werden als Tabelle ausgegeben; Klagekern: Der Antrag richtet sich gegen [Akt/Unterlassen], ist nach [Norm] statthaft und stützt sich vorrangig auf [Klagegrund] mit [Beleg].
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 15.07.1963 - 25/62; EuGH, Urteil vom 06.10.1982 - 283/81.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -168,58 +170,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art.
+### 15.1. Verfahrensroute
 
-Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden, Kausalität und Bezifferung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte
+### 15.2. Zuständigkeit und Rolle
 
-Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer Akt, Klagegründe, Anlagenlogik und Antragssatz. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne.
+### 15.3. Zulässigkeit
 
-Berechnet unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne Review-Termine für EuGH- und EuG-Verfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Prüft individuelle und unmittelbare Betroffenheit Privater nach Art.
+### 15.4. Einreichung und Anlagen
 
-Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung.
+### 15.5. Begründung und Gegenposition
 
-Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwerden, Fristenkontrolle, Rechtsschutzbedürfnis und Antragsfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV
+### 15.6. Unionsamtshaftung
 
-Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehene Stellungnahme, Klage, Zwangsgeld und strategische Parallelverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge.
+### 15.7. Nichtigkeitsklage nach Art. 263 AEUV
 
-Steuert vertrauliche Fassungen, Anlagenverzeichnis, Geschäftsgeheimnisse, Beweisangebote, Aktenauszüge und Schwärzungen in Verfahren vor Gerichtshof, Gericht und Beschwerdekammern. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle.
-
-Führt durch e-Curia-Einreichung, Anlagen, Zustellung, Dateibenennung, Vertreterrolle, Fristenkontrolle und Empfangsprüfung vor EuGH und Gericht der Europäischen Union. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht.
-
-Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der Europäischen Union: bestimmt Spruchkörper, Klageart, Frist und Verfahrenssprache, prüft Anträge und Vertretungsnachweise, ordnet Anlagen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art.
-
-Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni iuris, Interessenabwägung und Belegpflicht. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art.
-
-Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé und Vorlagepflicht letzter Instanzen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof.
-
-Routet Marken- und Designverfahren vom EUIPO über Beschwerdekammer, Gericht der Europäischen Union und Gerichtshof mit Fristen, Prüfungsumfang und Anfechtungszielen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen
-
-Plant Streitbeitritt und Intervention nach Satzung und Verfahrensordnungen: Interesse am Ausgang, Frist, Rolle, Schriftsatzgrenzen, Vertraulichkeit und Koordination mit Hauptpartei. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster.
-
-Erstellt Kosten-, Dauer- und Risikomatrix für unionsprozessuale Verfahren, inklusive Vergleichsfenster, reputationssensibler Punkte und Folgeentscheidungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüft Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer Akt, Klagegründe.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

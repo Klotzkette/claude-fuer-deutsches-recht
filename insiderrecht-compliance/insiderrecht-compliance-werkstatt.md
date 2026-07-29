@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Information: Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen.
+### 3.1. Information
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Information: Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Person und Handlung: Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen.
+### 3.2. Person und Handlung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Person und Handlung: Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Ad-hoc-Entscheidung: Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen.
+### 3.3. Ad-hoc-Entscheidung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Ad-hoc-Entscheidung: Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren.
+### 3.4. Kontrollen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Kontrollen: Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ad-hoc-Publizität nach Art. 17 MAR | MAR Artikel 7 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Information | MAR Artikel 7 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | MAR Artikel 8 und Artikel 14 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aktienrückkaufprogramme – MAR Safe Harbour und Compliance | MAR Artikel 8 und Artikel 14 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Person und Handlung | MAR Artikel 8 und Artikel 14 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -122,15 +122,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind MAR Artikel 7; MAR Artikel 8 und Artikel 14.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Information.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Information, Person und Handlung, Ad-hoc-Entscheidung, Kontrollen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -160,58 +162,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Ad-hoc-Publizität nach Art. 17 MAR
+### 15.1. Information
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Inhalt, Entstehungszeitpunkt, Präzision, Emittentenbezug, Kursrelevanz und Vertraulichkeit feststellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
+### 15.2. Person und Handlung
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Kaltstart Insiderrecht
+### 15.3. Ad-hoc-Entscheidung
 
-Dieser Skill führt nicht schematisch durch Kaltstart Insiderrecht, sondern zwingt zu einer prüfbaren Arbeitsspur: Sachverhalt, Norm, Tatbestandsmerkmal, Subsumtion, Gegenargument, Beleg und Ergebnis werden getrennt. - Information, Emittent, Instrument und Handelsplatz erfassen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Analysten-Calls und Investorenkommunikation – Selective Disclosure
+### 15.4. Kontrollen
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Anleiheemission – Insiderrechtliche Anforderungen
+### 15.5. Arbeitsprodukt
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Archivierung – MAR-konforme Aufbewahrung
+### 15.6. Ad-hoc-Publizität nach Art. 17 MAR
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Aufschubentscheidung nach Art. 17 Abs. 4 MAR
+### 15.7. Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
 
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Aufsichtsrats-Sonderprüfung – Insiderrecht
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Bankaufsichtliches Handeln – Insiderrecht und MAR
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Externe Berater – Kanzleien, Wirtschaftsprüfer, Banken
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Berater-Depot und Treuhandkonten – Insiderrecht
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Closed Periods nach Art. 19 Abs. 11 MAR
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Covenant Breach – Insiderrecht und Ad-hoc-Pflicht
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
-
-Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich und potenziell erheblich kursrelevant? - MAR-Pflichten getrennt prüfen: Insiderinformation nach Art. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Emittent, Instrument, Handelsplatz, Zeitpunkt und Informationskette feststellen: Wer wusste wann was, war die Information präzise, nicht öffentlich.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

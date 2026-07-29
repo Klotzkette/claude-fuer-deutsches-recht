@@ -2,18 +2,137 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 161 Skills (gekürzt für das Arbeitsfenster) des Plugins `krankenkassenrecht-krankenversicherung`.
+Diese Vollprüfung enthält top-8 von 162 Skills (gekürzt für das Arbeitsfenster) des Plugins `krankenkassenrecht-krankenversicherung`.
 
 ## Inhaltsverzeichnis
 
-1. **krankenkassenprozess-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder P…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
-3. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
-4. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
-5. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
-6. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
-7. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
-8. **digitale-gesundheitsanwendungen-diga-antrag-und-erprobung** — Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung ge…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Krankenkassenrecht Krankenversicherung ein juristisches Arbeitsprodukt tragfähig begründet we…
+2. **krankenkassenprozess-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder P…
+3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
+4. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
+5. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
+6. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
+7. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
+8. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Krankenkassenrecht Krankenversicherung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Krankenkassenrecht Krankenversicherung
+
+## 1. Direktstart
+
+Arbeite als Sozialrechtlicher Bearbeiter für Verwaltungsverfahren, Widerspruch, Klage, Krankenversicherung, Hilfsmittel, Arzneimittelversorgung, Pflege, Teilhabe, Erwerbsminderung und existenzsichernde Leistungen.
+
+Pluginauftrag: Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Krankenkassenrecht Krankenversicherung in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Bescheidlage | Verwaltungsakt, Widerspruch, Klagefrist, Leistungsträger und Leistungsart erfassen |
+| Leistungsrecht | Bedarf, Anspruchsgrundlage, Wirtschaftlichkeit, Leistungsausschluss und Zuständigkeit trennen |
+| Medizin | Diagnose, Leitlinie, Nutzenbeleg, MD-Stellungnahme, behandelnde Ärzte und Gegengutachten ordnen |
+| Krankenversicherung | Hilfsmittel, Arzneimittel, Orphan Drug, Off-Label-Lage, Krankenhaus- oder Vertragsarztpfad prüfen |
+| Pflege und Teilhabe | Pflegegrad, Modulbewertung, Wohnumfeld, Barrierefreiheit und Kostenträgerabgrenzung klären |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht: Bearbeite den Fachpunkt im Skill krankenversicherung-pkv-vertrag-antrag-betriebliche und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit: Bearbeite den Fachpunkt im Skill kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Krankenversicherung: Kassenwahl Kündigung Bindungsfrist Wahltarif: Bearbeite den Fachpunkt im Skill kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Krankenversicherung: Widerspruch gegen Leistungsablehnung Frist und Begründung: Bearbeite den Fachpunkt im Skill kv-024-widerspruch-ablehnung-frist-begruendung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. SGB I Paragraf 38 und Paragraf 40: Rechtsanspruch und Entstehung des Anspruchs bei Vorliegen der gesetzlichen Voraussetzungen; Ermessensleistungen sind nach Paragraf 39 gesondert zu prüfen.
+4.2. SGB X Paragraf 20: Amtsermittlung im Sozialverwaltungsverfahren.
+4.3. SGB X Paragraf 24: Anhörung vor belastendem Verwaltungsakt.
+4.4. SGG Paragraf 87: Klagefrist.
+4.5. SGG Paragraf 103: Amtsermittlung im sozialgerichtlichen Verfahren.
+4.6. SGG Paragraf 86b: einstweiliger Rechtsschutz.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Urteil vom 09.02.2010 - 1 BvL 1/09: existenzsichernde Leistungen müssen transparent und realitätsgerecht bemessen sein.
+5.2. BVerfG, Urteil vom 05.11.2019 - 1 BvL 7/16: Sanktionen im Grundsicherungsrecht unterliegen strenger Verhältnismäßigkeitskontrolle.
+5.3. BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
+5.4. BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Versicherter liefert Befund, Bedarf, Teilhabe- und Eilbelege.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Bescheid wird mit welchem Ziel angegriffen.
+7.2. Welche Frist läuft und ist Vorverfahren erforderlich.
+7.3. Welche Anspruchsvoraussetzung ist durch welchen Beleg bewiesen.
+7.4. Welche medizinische, pflegerische oder wirtschaftliche Tatsache fehlt.
+7.5. Ob die Ablehnung nur pauschal auf Wirtschaftlichkeit verweist oder die konkrete Funktion des begehrten Mittels widerlegt.
+7.6. Welche existenzielle Folge droht ohne Eilentscheidung.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Bescheidlage, Leistungsrecht, Medizin, Krankenversicherung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Widerspruch, Klage, einstweiliger Rechtsschutz, Leistungsbescheid oder Vergleich verwendbar?
 
 ---
 
@@ -379,115 +498,6 @@ Dieser Skill bearbeitet **Kaltstart Krankenversicherung Bescheid Rechnung und Fr
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `digitale-gesundheitsanwendungen-diga-antrag-und-erprobung`
-
-_Wenn es um Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Kläre **Anspruchsvoraussetzungen, Verordnungsverfahren, Freischaltung durch die Kasse und den Erprobungsprozess**.
-
-## Rechtlicher Rahmen
-
-- **§ 33a SGB V** – DiGA: Anspruch auf digitale Gesundheitsanwendungen
-- **§ 139e SGB V** – DiGA-Verzeichnis des BfArM
-- **DiGAV** (Digitale-Gesundheitsanwendungen-Verordnung) – Anforderungen und Zulassung
-- **§ 92 SGB V** – G-BA: keine eigene DiGA-Richtlinie (Verzeichnis des BfArM maßgeblich)
-- BfArM (Bundesinstitut für Arzneimittel und Medizinprodukte): führt DiGA-Verzeichnis
-- BSG B 1 KR 3/24 R (DiGA, erster ausstehender BSG-Entscheid)
-
-## DiGA-Systematik
-
-| Phase | Inhalt | Verzeichnisstatus |
-|-------|--------|------------------|
-| Vorläufige Aufnahme (Erprobung) | 12 Monate; Hersteller muss Nutzenbeweis erbringen | Verzeichnis „vorläufig" |
-| Dauerhafte Aufnahme | Positiver Nutzennachweis; oder weiterhin Erprobung | Verzeichnis „dauerhaft" |
-| Streichung | Kein Nutzennachweis; Listung endet | Aus Verzeichnis entfernt |
-
-## Prüfprogramm
-
-### Schritt 1 – DiGA im Verzeichnis?
-- BfArM-DiGA-Verzeichnis online: aktuelle Liste aller zugelassenen DiGA
-- Vorläufig oder dauerhaft? → Beide GKV-erstattungsfähig
-- Diagnose: für welche Indikation ist die DiGA zugelassen?
-
-### Schritt 2 – Verordnung
-- Verordnungsrecht: Arzt oder Psychotherapeut (Kassenzulassung)
-- Formular: Spezialverordnungs-Formular oder auf Standardrezept mit ICD-10
-- Einlösecode auf Rezept: für App-Freischaltung erforderlich
-
-### Schritt 3 – Genehmigung durch Kasse
-- § 33a Abs. 2: Kasse muss DiGA genehmigen wenn im Verzeichnis und Verordnung vorliegt
-- 14-Tage-Frist für Kasse; danach Genehmigungsfiktion (§ 13 Abs. 3a SGB V analog)
-- Kasse stellt Freischaltcode aus; Versicherter gibt Code in App ein
-
-### Schritt 4 – Zuzahlung
-- 10 % je DiGA, mind. 5 €, max. 10 € (wie andere GKV-Leistungen)
-- Befreiungsgrenze: Belastungsgrenze 2 % des Bruttoeinkommens (§ 62 SGB V)
-
-### Schritt 5 – DiGA-Erprobungsphase
-- Hersteller muss in 12-monatiger Erprobungsphase Nutzendaten liefern
-- Kasse zahlt in Erprobungsphase; auch wenn Nutzenbeweis noch aussteht
-- Keine Erstattung nach Streichung aus Verzeichnis
-
-## Typische Fallen
-
-- **Veraltetes Verzeichnis**: BfArM aktualisiert laufend; vor Verordnung aktuellen Stand prüfen.
-- **Off-Label DiGA**: DiGA für andere als zugelassene Indikation verordnet → Kasse kann ablehnen.
-- **Datenschutz in DiGA**: Gesundheitsdaten verarbeitet; DSGVO; BfArM prüft bei Zulassung; Versicherter muss Einwilligung geben.
-- **Interoperabilität ePA**: DiGA kann Daten in ePA übertragen; opt-in durch Versicherten.
-
-## Output-Formate
-
-- DiGA-Verordnungsanleitung (für Arzt)
-- Genehmigungsantrag Kasse
-- Widerspruch gegen DiGA-Ablehnung
-- Genehmigungsfiktion-Schreiben
-- DiGA-Datenschutzcheckliste
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- [§ 33a SGB V – DiGA](https://www.gesetze-im-internet.de/sgb_5/__33a.html)
-- [§ 139e SGB V – DiGA-Verzeichnis](https://www.gesetze-im-internet.de/sgb_5/__139e.html)
-- [BfArM DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
-- [DiGAV – Zulassungsverordnung](https://www.gesetze-im-internet.de/digav/)
-- [dejure.org § 33a SGB V](https://dejure.org/gesetze/SGB_V/33a.html)
-- [GKV-Spitzenverband DiGA](https://www.gkv-spitzenverband.de)
-
-## Schritt 5 – Widerspruch bei Ablehnung einer DiGA
-
-- Krankenkasse muss innerhalb von 3 Wochen über DiGA-Antrag entscheiden (§ 33a Abs. 4 SGB V)
-- Ablehnungsgründe: DiGA nicht im BfArM-Verzeichnis, kein ärztliches/psychotherapeutisches Votum, Indikation nicht erfüllt
-- Widerspruch: Ärztliche Verordnung + Diagnosebeleg beifügen
-- Bei Erprobungs-DiGA: Zusatznutzen noch nicht belegt, aber Anspruch trotzdem bei Vorliegen der Voraussetzungen
-
-## Weiterführende Quellen
-
-- [§ 33a SGB V – Digitale Gesundheitsanwendungen](https://www.gesetze-im-internet.de/sgb_5/__33a.html)
-- [BfArM – DiGA-Verzeichnis](https://diga.bfarm.de/de/verzeichnis)
-- [G-BA – DiGA-Richtlinie](https://www.g-ba.de/richtlinien/107/)
-- [GKV-Spitzenverband – DiGA-Informationen](https://www.gkv-spitzenverband.de)
 
 ---
 

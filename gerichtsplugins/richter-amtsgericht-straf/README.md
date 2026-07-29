@@ -123,6 +123,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 2. Unterlagen, Sachverhalt und Quellen | [`01-akte-erstdurchsicht-strafsache`](skills/01-akte-erstdurchsicht-strafsache/SKILL.md), [`04-beweisaufnahme-und-beweisantraege`](skills/04-beweisaufnahme-und-beweisantraege/SKILL.md), [`05-beweiswuerdigung-strafrecht`](skills/05-beweiswuerdigung-strafrecht/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`03-hauptverhandlung-vorbereiten`](skills/03-hauptverhandlung-vorbereiten/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`02-zustaendigkeit-und-eroeffnungsbeschluss`](skills/02-zustaendigkeit-und-eroeffnungsbeschluss/SKILL.md), [`08-urteilsbegruendung-paragraf-267-stpo`](skills/08-urteilsbegruendung-paragraf-267-stpo/SKILL.md), [`09-strafbefehl-und-beschleunigtes-verfahren`](skills/09-strafbefehl-und-beschleunigtes-verfahren/SKILL.md), [`v392-praxisraster-richter-amtsgericht-straf`](skills/v392-praxisraster-richter-amtsgericht-straf/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`06-strafzumessung-paragraf-46-stgb`](skills/06-strafzumessung-paragraf-46-stgb/SKILL.md), [`07-tenor-und-rechtsmittelbelehrung-straf`](skills/07-tenor-und-rechtsmittelbelehrung-straf/SKILL.md), [`10-entscheidungsvorschlag-strafrichter`](skills/10-entscheidungsvorschlag-strafrichter/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -133,7 +134,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -148,6 +149,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-strafbefehl-und-beschleunigtes-verfahren`](skills/09-strafbefehl-und-beschleunigtes-verfahren/SKILL.md) | Wenn es um 09 Strafbefehl und Beschleunigtes Verfahren in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`10-entscheidungsvorschlag-strafrichter`](skills/10-entscheidungsvorschlag-strafrichter/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Strafrichter in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken un... |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl) in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit K... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Amtsgericht Straf ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`v392-praxisraster-richter-amtsgericht-straf`](skills/v392-praxisraster-richter-amtsgericht-straf/SKILL.md) | Wenn es um Praxisraster Amtsgericht Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

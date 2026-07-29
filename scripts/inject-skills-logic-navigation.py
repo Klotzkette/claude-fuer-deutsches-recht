@@ -37,6 +37,7 @@ PRIORITY_GROUPS: list[tuple[str, tuple[str, ...]]] = [
 ]
 
 EXACT_GROUPS: dict[str, str] = {
+    "juristischer-argumentationskern": "3. Prüfung, Anspruch und Subsumtion",
     "einfuehrung-mandantenanliegen": "1. Einstieg und Fallrouting",
     "rollen-und-harness-wahl": "1. Einstieg und Fallrouting",
     "zeugnisart-einfach": "1. Einstieg und Fallrouting",

@@ -2,25 +2,147 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `staatsanwaltschaft-amtsanwaltschaft`.
+Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `staatsanwaltschaft-amtsanwaltschaft`.
 
 ## Inhaltsverzeichnis
 
-1. **11-einstellung-aus-opportunitaet-paragraf-153-und-153a** — Wenn es um 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordne…
-2. **09-sachverstaendige-und-koerperliche-untersuchung** — Wenn es um 09 Sachverstaendige und Koerperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sac…
-3. **02-zustaendigkeit-sta-und-amtsanwaltschaft** — Wenn es um 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prü…
-4. **07-telekommunikationsueberwachung-und-verdeckte-massnahmen** — Wenn es um 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen in Staatsanwaltschaft und Amtsanwaltschaft geht: ers…
-5. **08-beschuldigtenvernehmung-und-belehrung** — Wenn es um 08 Beschuldigtenvernehmung und Belehrung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
-6. **12-teileinstellung-paragraf-154-und-154a** — Wenn es um 12 Teileinstellung Paragraf 154 und 154a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
-7. **17-einziehung-und-vermoegensabschoepfung** — Wenn es um 17 Einziehung und Vermoegensabschoepfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
-8. **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Wenn es um 23 Klageerzwingung und Beschwerdebescheid Paragraf 172 in Staatsanwaltschaft und Amtsanwaltschaft geht: erste…
-9. **24-abschlussverfuegung-und-entscheidungsvorschlag** — Wenn es um 24 Abschlussverfuegung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt d…
-10. **15-antrag-beschleunigtes-verfahren-paragraf-417** — Wenn es um 15 Antrag Beschleunigtes Verfahren Paragraf 417 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den…
-11. **26-opferschutz-nebenklage-und-verletztenrechte** — Wenn es um 26 Opferschutz Nebenklage und Verletztenrechte in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den …
-12. **18-jugendsache-und-diversion-paragraf-45-jgg** — Wenn es um 18 Jugendsache und Diversion Paragraf 45 JGG in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pa…
-13. **20-plaedoyer-und-schlussvortrag-paragraf-258** — Wenn es um 20 Plaedoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pa…
-14. **05-haftbefehlsantrag-und-untersuchungshaft** — Wenn es um 05 Haftbefehlsantrag und Untersuchungshaft in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pass…
-15. **27-wiederaufnahme-zuungunsten-paragraf-362** — Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pass…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Staatsanwaltschaft Amtsanwaltschaft ein juristisches Arbeitsprodukt tragfähig begründet werde…
+2. **11-einstellung-aus-opportunitaet-paragraf-153-und-153a** — Wenn es um 11 Einstellung Aus Opportunitaet Paragraf 153 und 153a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordne…
+3. **09-sachverstaendige-und-koerperliche-untersuchung** — Wenn es um 09 Sachverstaendige und Koerperliche Untersuchung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sac…
+4. **02-zustaendigkeit-sta-und-amtsanwaltschaft** — Wenn es um 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prü…
+5. **07-telekommunikationsueberwachung-und-verdeckte-massnahmen** — Wenn es um 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen in Staatsanwaltschaft und Amtsanwaltschaft geht: ers…
+6. **08-beschuldigtenvernehmung-und-belehrung** — Wenn es um 08 Beschuldigtenvernehmung und Belehrung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
+7. **12-teileinstellung-paragraf-154-und-154a** — Wenn es um 12 Teileinstellung Paragraf 154 und 154a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
+8. **17-einziehung-und-vermoegensabschoepfung** — Wenn es um 17 Einziehung und Vermoegensabschoepfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt,…
+9. **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Wenn es um 23 Klageerzwingung und Beschwerdebescheid Paragraf 172 in Staatsanwaltschaft und Amtsanwaltschaft geht: erste…
+10. **24-abschlussverfuegung-und-entscheidungsvorschlag** — Wenn es um 24 Abschlussverfuegung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt d…
+11. **15-antrag-beschleunigtes-verfahren-paragraf-417** — Wenn es um 15 Antrag Beschleunigtes Verfahren Paragraf 417 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den…
+12. **26-opferschutz-nebenklage-und-verletztenrechte** — Wenn es um 26 Opferschutz Nebenklage und Verletztenrechte in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den …
+13. **18-jugendsache-und-diversion-paragraf-45-jgg** — Wenn es um 18 Jugendsache und Diversion Paragraf 45 JGG in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pa…
+14. **20-plaedoyer-und-schlussvortrag-paragraf-258** — Wenn es um 20 Plaedoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pa…
+15. **05-haftbefehlsantrag-und-untersuchungshaft** — Wenn es um 05 Haftbefehlsantrag und Untersuchungshaft in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den pass…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Staatsanwaltschaft Amtsanwaltschaft ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Staatsanwaltschaft Amtsanwaltschaft
+
+## 1. Direktstart
+
+Arbeite als Strafrechtlicher Bearbeiter für Ermittlungsverfahren, Anklage, Hauptverhandlung, Rechtsfolgen und Verteidigungsschrift. Arbeite sofort am konkreten Fall: Die erste Ausgabe ist immer die Tatkomplex-Zergliederung (je Tat im prozessualen Sinn: Vorwurf, Norm, Beweismittel, Einlassung, Frist), danach folgt das gewünschte Arbeitsprodukt.
+
+Pluginauftrag: Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plaedoyer, Rechtsmittel und Vollstreckung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Staatsanwaltschaft Amtsanwaltschaft in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Blitz-Zergliederung | jeden Tatkomplex als Zeile erfassen mit Vorwurf, Norm, Beweismitteln, Einlassung und laufenden Fristen; Verfahrensstand und Beschuldigtenstatus benennen |
+| Beweise und Einlassung | Zeugen, Urkunden, Sachverständige, digitale Spuren und Schweigerechte trennen; Belastbarkeit und Verwertbarkeit je Beweismittel bewerten |
+| Tatbestand | objektive und subjektive Merkmale, Konkurrenzen, Versuch, Teilnahme und Rechtfertigung prüfen; je Merkmal die tragende Tatsache benennen |
+| Prozessuales | Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst |
+| Rechtsfolge | Strafrahmen, Milderung, Nebenfolgen, Bewährung und Einstellungschancen ausarbeiten; Ergebnis als klare Empfehlung mit Alternative |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. 23 Klageerzwingung und Beschwerdebescheid Paragraf 172: Bearbeite den Fachpunkt im Skill 23-klageerzwingung-und-beschwerdebescheid-paragraf-172 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. 04 Durchsuchung und Beschlagnahme Antrag: Bearbeite den Fachpunkt im Skill 04-durchsuchung-und-beschlagnahme-antrag und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. 05 Haftbefehlsantrag und Untersuchungshaft: Bearbeite den Fachpunkt im Skill 05-haftbefehlsantrag-und-untersuchungshaft und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Strafbefehlsantrag nach Paragraf 407 StPO: Bearbeite den Fachpunkt im Skill 13-strafbefehlsantrag-paragraf-407 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. StPO Paragraf 152 Absatz 2: Legalitätsprinzip und Anfangsverdacht.
+4.2. StPO Paragraf 160: Pflicht zur Erforschung belastender und entlastender Umstände.
+4.3. StPO Paragraf 170: Abschlussentscheidung der Staatsanwaltschaft.
+4.4. StPO Paragraf 261: freie richterliche Beweiswürdigung.
+4.5. StPO Paragraf 267: Urteilsgründe im Strafurteil.
+4.6. StGB Paragraf 46: Strafzumessung.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BGH, Urteil vom 30.07.1999 - 1 StR 618/98: Hat das Gericht ausnahmsweise ein Glaubhaftigkeitsgutachten eingeholt, müssen Hypothesenbildung, wissenschaftlicher Methodenstand, Transparenz und alternative Entstehungserklärungen nachvollziehbar geprüft werden; die Entscheidung ist kein allgemeiner Aussage-gegen-Aussage-Anker.
+5.2. BGH, Urteil vom 29.07.1998 - 1 StR 94/98: Ist der einzige Belastungszeuge in Teilen seiner Aussage widerlegt, darf das Gericht dem verbleibenden Aussagekern nur bei gewichtigen, außerhalb der Aussage liegenden Gründen folgen und muss diese in den Urteilsgründen darlegen.
+5.3. BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
+5.4. BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welcher Tatvorwurf wird mit welcher Norm verbunden.
+7.2. Welche Tatsache wird durch welches Beweismittel getragen.
+7.3. Welche Beweisverwertungs- oder Aussageprobleme sind entscheidend.
+7.4. Welche Einlassungs- oder Antragsstrategie ist prozessual sauber.
+7.5. Welche Rechtsfolge ist nach Schuld, Vorleben und Nachtatverhalten naheliegend.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Blitz-Zergliederung, Beweise und Einlassung, Tatbestand, Prozessuales: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag verwendbar?
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
 
 ---
 
@@ -1302,101 +1424,6 @@ Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. 
 
 - **Davor**: `04-durchsuchung-und-beschlagnahme-antrag` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Haftbefehlsantrag und Untersuchungshaft trägt.
 - **Danach**: `06-vorlaeufige-festnahme-und-eilkompetenz` - Folgeskill nutzen, sobald Haftbefehlsantrag und Untersuchungshaft entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
-
-- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
-- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
-- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
-- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
-- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
-
----
-
-## Skill: `27-wiederaufnahme-zuungunsten-paragraf-362`
-
-_Wenn es um 27 Wiederaufnahme Zuungunsten Paragraf 362 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# 27 Wiederaufnahme Zuungunsten Paragraf 362
-
-## Zweck
-
-Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Prüfungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
-
-## Rolle
-
-
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
-
-## Rechtsrahmen
-
-StPO, StGB, GVG, GG, RiStBV, OrgStA
-
-## Pflichtschritte
-
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
-4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
-
-## Output
-
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Normen & Rechtsprechung
-
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
-
-## Prüf- und Arbeitslogik
-
-1. Wiederaufnahme Zuungunsten Paragraf 362: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
-2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
-3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
-4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
-5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
-
-## Typische Fallstricke
-
-- Die Wiederaufnahmegruende werden über den Wortlaut des Paragraf 362 StPO hinaus ausgedehnt; der Antrag ist unzulaessig.
-- Der verfassungsrechtliche Rahmen aus Art. 103 Abs. 3 GG wird nicht reflektiert.
-- Die Beweismittel sind nicht hinreichend dargelegt; der Antrag bleibt formal mangelhaft.
-- Der Antrag erschoepft sich in einer abweichenden Beweiswuerdigung statt in neuen Tatsachen oder Beweismitteln.
-
-## Antrags- bzw. Verfügungs-Bausteine
-
-### Baustein A
-
-```text
-Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
-```
-
-### Baustein B
-
-```text
-Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Wiederaufnahme Zuungunsten Paragraf 362 trägt.
-- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeskill nutzen, sobald Wiederaufnahme Zuungunsten Paragraf 362 entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
 

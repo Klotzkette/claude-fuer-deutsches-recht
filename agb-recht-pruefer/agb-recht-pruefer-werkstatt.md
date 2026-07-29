@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen.
+### 3.1. Anspruchsziel
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anspruchsziel: Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen.
+### 3.2. Anspruchsgrundlage
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anspruchsgrundlage: Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden.
+### 3.3. Leistungsstörung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Leistungsstörung: Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten.
+### 3.4. Einwendungen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Einwendungen: Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen.
+### 3.5. Beweis und Textprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Agb Anwaltsvertrag und Allg Mandatsbedingungen | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Anspruchsziel | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Formulararbeitsvertrag | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anspruchsgrundlage | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,11 +96,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung |
-| BGH II ZR 30/10 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Verfahrensgrundsätze als Prüfungsmassstab |
-| BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen |
-| BGH VII ZR 168/13 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln |
-| BAG, Urteil vom 25.08.2010 - 10 AZR 275/09 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine |
+| BGH, Urteil vom 29.07.2021 - III ZR 192/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Inhaltskontrolle nach BGB Paragraf 307 Absatz 1 Satz 1 verlangt eine umfassende Abwägung der wechselseitigen |
+| BGH, Urteil vom 07.04.2022 - I ZR 212/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Im Unterlassungsverfahren nach UKlaG sind Klauseln getrennt nach Regelungsgehalt zu prüfen |
+| BGH, Urteil vom 19.01.2023 - VII ZR 34/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Weicht eine Klausel von wesentlichen Grundgedanken des dispositiven Rechts ab, spricht BGB Paragraf 307 Absatz 2 Nummer |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -115,7 +113,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
 - Paragrafen 305-310 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BRAO Paragrafen 43, 49b zur Honorarvereinbarung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschraenkung nur für einfache Fahrlaessigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 52 BRAO: in vorformulierten Mandatsbedingungen ist eine Haftungsbeschränkung nur für einfache Fahrlässigkeit und nur bis zur vierfachen Mindestversicherungssumme zulässig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 25, 39 BGB Vereinsrecht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 305-310 BGB AGB-Recht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -124,11 +122,9 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 
 ## 8. Leitentscheidungen
 
-- BGH IX ZR 119/14 zur Anwaltshonorarvereinbarung.
-- BGH II ZR 30/10: Verfahrensgrundsätze als Prüfungsmassstab.
-- BGH I ZR 41/03 zur Haftung für Subunternehmer in Transportverträgen.
-- BGH VII ZR 168/13: bei Bauvertrag haften Werkunternehmer für Subunternehmer wie für eigenes Handeln.
-- BAG, Urteil vom 25.08.2010 - 10 AZR 275/09: Entspricht der Versetzungsvorbehalt erkennbar dem Weisungsrecht aus Paragraf 106 Satz 1 GewO, findet keine Angemessenheitskontrolle nach Paragraf 307 Absatz 1.
+- BGH, Urteil vom 29.07.2021 - III ZR 192/20: Die Inhaltskontrolle nach BGB Paragraf 307 Absatz 1 Satz 1 verlangt eine umfassende Abwägung der wechselseitigen Interessen unter Berücksichtigung von Gegenstand, Zweck und Eigenart des Vertrags.
+- BGH, Urteil vom 07.04.2022 - I ZR 212/20: Im Unterlassungsverfahren nach UKlaG sind Klauseln getrennt nach Regelungsgehalt zu prüfen; der Senat beanstandete unter anderem Kosten-, Schadensersatz- und Haftungsausschlüsse in Paketbeförderungsbedingungen.
+- BGH, Urteil vom 19.01.2023 - VII ZR 34/20: Weicht eine Klausel von wesentlichen Grundgedanken des dispositiven Rechts ab, spricht BGB Paragraf 307 Absatz 2 Nummer 1 für eine unangemessene Benachteiligung; Vertragszweck und Risikozuweisung bleiben konkret zu würdigen.
 
 ## 9. Prüfraster
 
@@ -140,15 +136,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Anspruchsziel.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Anspruchsmatrix: Anspruchsgrundlage, Tatbestandsmerkmal, Tatsache, Beleg, Gegenargument, Beweislast und Rechtsfolge als Tabelle ausgeben; Klauselprüfung: Einbeziehung, Transparenz, Leitbildabweichung, unangemessene Benachteiligung und Ersatzfolge getrennt bewerten.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 29.07.2021 - III ZR 192/20; BGH, Urteil vom 07.04.2022 - I ZR 212/20.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -178,58 +176,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Agb Anwaltsvertrag und Allg Mandatsbedingungen
+### 15.1. Anspruchsziel
 
-Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Leistung, Zahlung, Nacherfüllung, Rücktritt, Minderung, Schadensersatz, Unterlassung oder Vertragsfassung bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Formulararbeitsvertrag
+### 15.2. Anspruchsgrundlage
 
-Klauselproblem (Formulararbeitsvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Vertragstyp, Zustandekommen, Form, Vertretung, Einbeziehung und AGB-Kontrolle in der richtigen Reihenfolge prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Agb für Vereinsausschluss und Haftung
+### 15.3. Leistungsstörung
 
-Klauselproblem (Agb Für Vereinsausschluss Und Haftung): AGB-Klauseln zum Vereinsausschluss und zur Haftung im Verein. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Pflichtverletzung, Mangel, Fristsetzung, Vertretenmüssen, Schaden und Kausalität mit Belegen verbinden. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Agb Haftung Erfüllungsgehilfen
+### 15.4. Einwendungen
 
-Klauselproblem (Agb Haftung Erfüllungsgehilfen): AGB-Haftung für Erfüllungsgehilfen. Skill klärt die AGB-rechtliche Behandlung von Haftungsausschlüssen für Erfüllungsgehilfen (Paragraf 278 BGB) und die Wechselwirkung mit Paragraf 309 Nr. 7 BGB. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Erfüllung, Aufrechnung, Verjährung, Ausschluss, Widerruf, Anfechtung und treuwidriges Verhalten getrennt abarbeiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Agb im Arbeitsvertrag 310 Abs 4 Vertieft
+### 15.5. Beweis und Textprodukt
 
-Paragraf 310 Abs. 4 Satz 1 BGB: Tarifverträge, Betriebsvereinbarungen und Dienstvereinbarungen unterliegen nicht der AGB-Kontrolle. - Paragraf 310 Abs. 4 Satz 2 BGB: bei Arbeitsverträgen ist auf die Besonderheiten des Arbeitsrechts angemessen Rücksicht zu nehmen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anspruchsmatrix, Redline, Mahnung, Rücktritt, Klageentwurf, Mandantenbrief oder Vergleichsvorschlag erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Agb im Bankvertrag Sparkassen und Banken
+### 15.6. Agb Anwaltsvertrag und Allg Mandatsbedingungen
 
-Klauselproblem (Agb Im Bankvertrag Sparkassen Und Banken): AGB-Kontrolle im Bankvertrag. Skill behandelt die Banken-AGB Sparkassen-AGB und Allgemeinen Geschäftsbedingungen der Volks- und Raiffeisenbanken Klauseln zu Entgelten Änderungen einseitige Vertragsanpassung BGH-Linie. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Agb Anwaltsvertrag Und Allg Mandatsbedingungen): AGB im Anwaltsvertrag und Allgemeine Mandatsbedingungen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Agb im Bauvertrag Vob B 2024
+### 15.7. Formulararbeitsvertrag
 
-Klauselproblem (Agb Im Bauvertrag Vob B 2024): AGB-Kontrolle der VOB-B im Bauvertrag. Skill klärt die BGH-Linie zur AGB-rechtlichen Behandlung der VOB-B insgesamt und einzelner Klauseln. Behandelt das Privileg der VOB-B unter Paragraf 310 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Agb im Leasingvertrag Fortwirkung
-
-Klauselproblem (Agb Im Leasingvertrag Fortwirkung): AGB im Leasingvertrag. Skill klärt AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Mängelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Kardinalpflichten
-
-Klauselproblem (Kardinalpflichten): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Konzernklausel
-
-Klauselproblem (Konzernklausel): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Lagerbedingungen
-
-Klauselproblem (Lagerbedingungen): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. - AGB-Weiche: Einbeziehung (Paragraf 305 BGB), überraschende Klausel (Paragraf 305c BGB), Transparenz (Paragraf 307 Abs. 1 S. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Subunternehmer
-
-Klauselproblem (Subunternehmer): prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Agb Vertragsstrafe 309 Nr 6
-
-Klauselproblem (Agb Vertragsstrafe 309 Nr 6): AGB-Vertragsstrafe nach Paragraf 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Annahmefrist Leistungsfrist 308
-
-Klauselproblem (Annahmefrist Leistungsfrist 308): prüft die AGB-Kontrolle quellenstreng entlang BGB Paragrafen 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Klauselproblem (Formulararbeitsvertrag): prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

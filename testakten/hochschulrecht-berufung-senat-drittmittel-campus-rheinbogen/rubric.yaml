@@ -1,16 +1,30 @@
-# Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
 name: Hochschulrecht Berufung Senat Drittmittel Campus Rheinbogen
 plugin: hochschulrecht-laender
+description: Fallbezogene Qualitätsprüfung des Berufungsverfahrens mit Listenbildung, Drittmittelbezug, Gremienweg und Grundordnungsänderung.
 checks:
-- id: r01-readme-vorhanden
-  check_type: file_exists
-  description: README.md vorhanden
-  path: README.md
-- id: r02-gesamt-pdf-vorhanden
-  check_type: file_exists
-  description: Gesamt-PDF gebaut
-  path: gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf
-- id: r03-mindestens-3-arbeitsunterlagen
-  check_type: working_file_count
-  description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
-  min: 3
+  - id: r01-gesamt-pdf-vorhanden
+    check_type: file_exists
+    description: Das Gesamt-PDF ist gebaut.
+    path: gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf
+  - id: r02-mandantin-und-listenplatz
+    check_type: text_contains
+    description: Die Mandatsaufnahme führt Mandantin und Listenplatz.
+    path: 01-mandatsnotiz-und-auftrag.docx
+    contains: Prof. Dr. Eveline Bornhorst
+  - id: r03-verfahrenschronologie
+    check_type: text_contains
+    description: Die Chronologie enthält die konkrete W3-Denomination.
+    path: 02-zeitstrahl-fristen-und-verfahrensstand.docx
+    contains: W3 Maschinenelement-Konstruktion
+  - id: r04-besprechung-drittmittel
+    check_type: text_contains
+    description: Die Besprechungsunterlage benennt den konkreten Drittmittelkonflikt.
+    path: 14-besprechungsunterlage.pdf
+    contains: Kooperation zwischen Tannwald
+  - id: r05-arbeitsunterlagen
+    check_type: working_file_count
+    description: Die Akte enthält mindestens zehn exportierbare Arbeitsunterlagen.
+    min: 10
+  - id: r06-fachpruefung
+    check_type: human_review
+    description: Listenbildung, Befangenheit, Drittmittelbezug, Senatsbefassung und Satzungsänderung sind als getrennte Verfahrensstränge dokumentiert.

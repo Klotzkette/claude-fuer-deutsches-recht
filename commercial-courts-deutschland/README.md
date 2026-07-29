@@ -155,7 +155,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`claim-intake-chamber-vs-conference`](skills/claim-intake-chamber-vs-conference/SKILL.md), [`commercial-court-kaltstart-interview`](skills/commercial-court-kaltstart-interview/SKILL.md), [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`limitation-and-tolling-check`](skills/limitation-and-tolling-check/SKILL.md), [`zustandigkeit-119b-gvg-check`](skills/zustandigkeit-119b-gvg-check/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`limitation-and-tolling-check`](skills/limitation-and-tolling-check/SKILL.md), [`zustandigkeit-119b-gvg-check`](skills/zustandigkeit-119b-gvg-check/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`englische-verfahrenssprache-late-submissions`](skills/englische-verfahrenssprache-late-submissions/SKILL.md), [`klageschrift-english-limitation-tolling`](skills/klageschrift-english-limitation-tolling/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`bilingual-client-board-briefing`](skills/bilingual-client-board-briefing/SKILL.md), [`commercial-court-versandmappe-endfertigen`](skills/commercial-court-versandmappe-endfertigen/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`redteam-commercial-court-qualitygate`](skills/redteam-commercial-court-qualitygate/SKILL.md) |
@@ -167,7 +167,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 59 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -207,6 +207,7 @@ Automatisch generierte Komplett-Liste aller 58 Skills in diesem Plugin. Jeder Sk
 | [`issues-list-and-roadmap`](skills/issues-list-and-roadmap/SKILL.md) | Wenn es um Issues List in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`judgment-publication-jurisdiction-clause`](skills/judgment-publication-jurisdiction-clause/SKILL.md) | Wenn es um Judgment Publication in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
 | [`jurisdiction-clause-drafting-de-en`](skills/jurisdiction-clause-drafting-de-en/SKILL.md) | Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Commercial Courts Deutschland ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Commercial Courts Deutschland — Allgemein in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`klageschrift-english-limitation-tolling`](skills/klageschrift-english-limitation-tolling/SKILL.md) | Wenn es um Statement of Claim in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | [`late-submissions-296-zpo`](skills/late-submissions-296-zpo/SKILL.md) | Wenn es um Late Submissions in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

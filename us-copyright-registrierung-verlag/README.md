@@ -80,7 +80,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`werkdaten-standard-zertifikat-archiv`](skills/werkdaten-standard-zertifikat-archiv/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`publication-status-usa-ausland-online`](skills/publication-status-usa-ausland-online/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`publication-status-usa-ausland-online`](skills/publication-status-usa-ausland-online/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`vara-visual-verlags-batchplan-versand`](skills/vara-visual-verlags-batchplan-versand/SKILL.md), [`verlags-batchplan-serien-und-backlist`](skills/verlags-batchplan-serien-und-backlist/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`ai-output-authorship-title17`](skills/ai-output-authorship-title17/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`backlist-rights-gap-audit`](skills/backlist-rights-gap-audit/SKILL.md) |
@@ -92,7 +92,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 101 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -147,6 +147,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Jeder S
 | [`injunction-impoundment-502-503`](skills/injunction-impoundment-502-503/SKILL.md) | Wenn es um Injunction und Impoundment in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten... |
 | [`international-berne-joint-authorship-library`](skills/international-berne-joint-authorship-library/SKILL.md) | Wenn es um International Copyright, Berne und URAA in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`joint-authorship-wmfh`](skills/joint-authorship-wmfh/SKILL.md) | Wenn es um Joint Authorship und Work Made for Hire in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollision... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in US Copyright Registrierung Verlag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Allgemein in US Copyright Act und Registrierung für deutsche Verlage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. |
 | [`library-archives-108`](skills/library-archives-108/SKILL.md) | Wenn es um Libraries und Archives Paragraf 108 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Pr... |
 | [`litigation-readiness-section-411-412`](skills/litigation-readiness-section-411-412/SKILL.md) | Wenn es um Litigation Readiness 411 und 412 in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begrün... |

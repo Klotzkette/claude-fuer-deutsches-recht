@@ -111,6 +111,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 | Arbeitsphase | Typische Skills |
 | --- | --- |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`03-gesellschaftsvertrag-pruefen-gmbh`](skills/03-gesellschaftsvertrag-pruefen-gmbh/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`07-zwischenverfuegung-und-beschwerde`](skills/07-zwischenverfuegung-und-beschwerde/SKILL.md), [`09-vereins-und-genossenschaftsregister`](skills/09-vereins-und-genossenschaftsregister/SKILL.md), [`10-entscheidungsvorschlag-register`](skills/10-entscheidungsvorschlag-register/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`01-anmeldung-pruefen-zustaendigkeit`](skills/01-anmeldung-pruefen-zustaendigkeit/SKILL.md), [`02-firmenrecht-pruefen`](skills/02-firmenrecht-pruefen/SKILL.md), [`04-vertretungsmacht-und-prokura`](skills/04-vertretungsmacht-und-prokura/SKILL.md), [`05-kapitalerhoehung-und-kapitalherabsetzung`](skills/05-kapitalerhoehung-und-kapitalherabsetzung/SKILL.md), [`06-umwandlung-eintragen`](skills/06-umwandlung-eintragen/SKILL.md), [`08-loeschung-von-amts-wegen`](skills/08-loeschung-von-amts-wegen/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -121,7 +122,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,6 +137,7 @@ Automatisch generierte Komplett-Liste aller 12 Skills in diesem Plugin. Jeder Sk
 | [`09-vereins-und-genossenschaftsregister`](skills/09-vereins-und-genossenschaftsregister/SKILL.md) | Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | [`10-entscheidungsvorschlag-register`](skills/10-entscheidungsvorschlag-register/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Beschluss Handelsregister) in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, P... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Amtsgericht Handelsregister ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

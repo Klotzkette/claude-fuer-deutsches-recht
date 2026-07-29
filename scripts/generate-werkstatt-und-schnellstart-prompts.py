@@ -128,6 +128,26 @@ PROSE_REPLACEMENTS = (
     ("Hoechst", "Höchst"),
     ("fuenf", "fünf"),
     ("Fuenf", "Fünf"),
+    ("Geringfueg", "Geringfüg"),
+    ("geringfueg", "geringfüg"),
+    ("Geldbusse", "Geldbuße"),
+    ("geldbusse", "geldbuße"),
+    ("Gemeinnuetz", "Gemeinnütz"),
+    ("gemeinnuetz", "gemeinnütz"),
+    ("Beschraenk", "Beschränk"),
+    ("beschraenk", "beschränk"),
+    ("Fahrlaess", "Fahrläss"),
+    ("fahrlaess", "fahrläss"),
+    ("Begruend", "Begründ"),
+    ("begruend", "begründ"),
+    ("Endgueltig", "Endgültig"),
+    ("endgueltig", "endgültig"),
+    ("Buergerlich", "Bürgerlich"),
+    ("buergerlich", "bürgerlich"),
+    ("Zugaeng", "Zugäng"),
+    ("zugaeng", "zugäng"),
+    ("Voelkerrecht", "Völkerrecht"),
+    ("voelkerrecht", "völkerrecht"),
     ("vorlaeufig", "vorläufig"),
     ("Vorlaeufig", "Vorläufig"),
     ("ueber", "über"),
@@ -774,6 +794,7 @@ SOURCE_NOISE_BITS = (
 
 CURATED_PROFILE_KEYS = {
     "agrar",
+    "aktg_hv",
     "design",
     "dokumentenworkflow",
     "ehrenamtliche_richter",
@@ -784,9 +805,11 @@ CURATED_PROFILE_KEYS = {
     "marke",
     "patent",
     "presse",
+    "phishing",
     "rechtsgeschichte",
     "selbststaendige",
     "sport",
+    "weg",
 }
 
 CURATED_NORM_PROFILE_KEYS = CURATED_PROFILE_KEYS | {"technikregulierung"}
@@ -794,6 +817,24 @@ CURATED_CASE_PROFILE_KEYS = CURATED_PROFILE_KEYS | {
     "betreuung",
     "hoai",
     "technikregulierung",
+}
+
+PROFILE_CASE_SKIP_KEYS = {
+    "gesellschaft",
+    "verwaltung",
+}
+
+CASE_RESEARCH_ONLY_SLUGS = {
+    "notariat-alltag",
+    "rechtsberatungsstelle",
+}
+
+PLUGIN_CASE_OVERRIDES: dict[str, tuple[str, ...]] = {
+    "agb-recht-pruefer": (
+        "BGH, Urteil vom 29.07.2021 - III ZR 192/20: Die Inhaltskontrolle nach BGB Paragraf 307 Absatz 1 Satz 1 verlangt eine umfassende Abwägung der wechselseitigen Interessen unter Berücksichtigung von Gegenstand, Zweck und Eigenart des Vertrags.",
+        "BGH, Urteil vom 07.04.2022 - I ZR 212/20: Im Unterlassungsverfahren nach UKlaG sind Klauseln getrennt nach Regelungsgehalt zu prüfen; der Senat beanstandete unter anderem Kosten-, Schadensersatz- und Haftungsausschlüsse in Paketbeförderungsbedingungen.",
+        "BGH, Urteil vom 19.01.2023 - VII ZR 34/20: Weicht eine Klausel von wesentlichen Grundgedanken des dispositiven Rechts ab, spricht BGB Paragraf 307 Absatz 2 Nummer 1 für eine unangemessene Benachteiligung; Vertragszweck und Risikozuweisung bleiben konkret zu würdigen.",
+    ),
 }
 
 
@@ -967,7 +1008,11 @@ def skill_directory_priority(path: Path) -> tuple[int, int, str]:
 
 def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
     items = []
-    skill_dirs = [sd for sd in (plugin_dir / "skills").glob("*") if sd.is_dir()]
+    skill_dirs = [
+        sd
+        for sd in (plugin_dir / "skills").glob("*")
+        if sd.is_dir() and sd.name != "juristischer-argumentationskern"
+    ]
     for sd in sorted(skill_dirs, key=skill_directory_priority)[:30]:
         slug = sd.name
         skill_file = sd / "SKILL.md"
@@ -1303,7 +1348,76 @@ def profile_fields(
     overrides = PROFILE_FIELD_OVERRIDES.get(profile.key)
     if overrides:
         return [(title, clean(detail, 180)) for title, detail in overrides[:max_items]]
-    return skill_fields(skill_material, max_items)
+    fields: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for station in profile.stationen:
+        text = clean(station, 240).rstrip(".")
+        if ":" in text:
+            title, detail = text.split(":", 1)
+        else:
+            parts = [part.strip() for part in text.split(",") if part.strip()]
+            title = ", ".join(parts[:2]) if len(parts) >= 2 else " ".join(text.split()[:6])
+            detail = text
+        title = clean(title, 90).rstrip(" .:-")
+        detail = clean(detail, 180).rstrip(" .")
+        key = re.sub(r"\W+", "", title.lower())
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        fields.append((title, detail))
+        if len(fields) >= max_items:
+            return fields
+
+    noise_bits = (
+        "allgemein",
+        "aktenanlage",
+        "beweislast",
+        "chronologie",
+        "deal",
+        "einstieg",
+        "fehlerkatalog",
+        "kaltstart",
+        "luecken",
+        "quality",
+        "quelle",
+        "red-team",
+        "routing",
+        "start",
+        "workflow",
+    )
+    for title, detail in skill_fields(skill_material, max_items * 3):
+        lowered = title.lower()
+        if any(bit in lowered for bit in noise_bits):
+            continue
+        key = re.sub(r"\W+", "", lowered)
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        fields.append((title, detail))
+        if len(fields) >= max_items:
+            break
+    return fields
+
+
+def station_instruction(station: str) -> str:
+    text = clean(station, 240).rstrip(" .")
+    if ":" in text:
+        title, detail = (part.strip() for part in text.split(":", 1))
+    else:
+        title, detail = "Prüfstation", text
+    return (
+        f"Arbeitsgriff {title}: {detail}. Ordne jedem Punkt den konkreten Aktenfund, "
+        "die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe "
+        "mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem "
+        "nächsten Verfahrensschritt."
+    )
+
+
+def station_heading(station: str) -> str:
+    text = clean(station, 220).rstrip(" .")
+    if ":" in text:
+        return clean(text.split(":", 1)[0], 90).rstrip(" .:-")
+    return clean(text, 110).rstrip(" .:-")
 
 
 def detail_question(detail: str) -> str:
@@ -1331,6 +1445,8 @@ def detail_question(detail: str) -> str:
 def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
     hay = f"{profile.key} {field} {detail}".lower()
     if profile.key in PROFILE_FIELD_OVERRIDES and detail:
+        return clean(detail, 180).rstrip(" .")
+    if profile.key in {"aktg_hv", "phishing", "weg"} and detail:
         return clean(detail, 180).rstrip(" .")
     if profile.key == "eu_prozess":
         return "Klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern"
@@ -1475,13 +1591,7 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
 
 def quick_stations(profile: ThemenProfil, skill_material: list[dict[str, str]]) -> list[str]:
     if profile.key != "default" or not skill_material:
-        out = [clean(station, 230) for station in profile.stationen[:6]]
-        if skill_material and len(out) < 6:
-            for field, detail in profile_fields(profile, skill_material, 6):
-                out.append(f"{field}: {quick_grip(profile, field, detail)}.")
-                if len(out) >= 6:
-                    break
-        return out[:6]
+        return [clean(station, 230) for station in profile.stationen[:6]]
     out: list[str] = []
     for field, detail in profile_fields(profile, skill_material, 6):
         out.append(f"{field}: {quick_grip(profile, field, detail)}.")
@@ -1517,7 +1627,9 @@ BEWEISLAST_MERKER = {
     "insolvenz": "Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.",
     "steuer": "Finanzbehörde für steuerbegründende Tatsachen; Steuerpflichtiger für Begünstigung, Betriebsausgaben und Nachweise.",
     "gesellschaft": "Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.",
+    "aktg_hv": "Die Gesellschaft belegt Einberufung, Bekanntmachung, Anmeldung, Teilnahmeprüfung, Auskunft, Abstimmung und Niederschrift; der Anfechtungskläger bezeichnet Verstoß, Anfechtungsbefugnis, Widerspruch und Klagefrist.",
     "bank": "Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht.",
+    "phishing": "Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret.",
     "datenbank": "Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft.",
     "lobbyregister": "Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß.",
     "geldwaesche": "Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion.",
@@ -1551,6 +1663,7 @@ BEWEISLAST_MERKER = {
     "verkehr": "Geschädigter oder Reisender für Ereignis, Schaden, Verspätung und Belege; Gegner für Mitverschulden, Ausschluss und außergewöhnliche Umstände.",
     "vollstreckung": "Gläubiger für Titel, Klausel, Zustellung und Forderungsstand; Schuldner oder Dritter für Schutz, Erfüllung, Insolvenz und Gegenrechte.",
     "immobilien": "Antragsteller für Antrag, Bewilligung, Vertretung und Nachweis; Beteiligte für Rang, Genehmigung, Löschung und entgegenstehende Rechte.",
+    "weg": "Die Gemeinschaft belegt Beschlusstext, ordnungsmäßige Vorbereitung, Kostenposition, Schlüssel und Fälligkeit; der anfechtende Eigentümer bezeichnet den Beschlussmangel innerhalb der Begründungsfrist und belegt dessen Tatsachengrundlage.",
     "eu_recht": "Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.",
     "methodik": "Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen.",
     "betreuung": "Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen.",
@@ -1581,7 +1694,9 @@ RECHTSFOLGE_MERKER = {
     "insolvenz": "Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.",
     "steuer": "Einspruch, Änderungsantrag, Aussetzung, Schätzungsangriff, Haftungsabwehr oder Klage.",
     "gesellschaft": "Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.",
+    "aktg_hv": "Einberufungsunterlage, HV-Fristenblatt, Q&A-Katalog, Beschluss, Niederschrift, Anfechtungsprüfung, Freigabe oder Registervollzug.",
     "bank": "Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie.",
+    "phishing": "Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr.",
     "datenbank": "Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben.",
     "lobbyregister": "Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr.",
     "geldwaesche": "Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr.",
@@ -1615,6 +1730,7 @@ RECHTSFOLGE_MERKER = {
     "verkehr": "Regulierungsschreiben, Anspruchstabelle, Einspruch, Klage, Vergleich, Fristenblatt oder Mandantenbrief.",
     "vollstreckung": "Titelcheck, Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsaufstellung, Erinnerung oder Schutzantrag.",
     "immobilien": "Grundbuchanalyse, Vertragsklausel, Vollzugsliste, Bewilligung, Zwischenverfügungsantwort oder Rangmatrix.",
+    "weg": "Beschlussentwurf, Einladung, Niederschrift, Abrechnungsblatt, Verwaltervermerk, Eigentümeranschreiben oder Beschlussklage.",
     "eu_recht": "Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk.",
     "methodik": "Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle.",
     "betreuung": "Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan.",
@@ -1826,6 +1942,14 @@ def build_werkstatt(plugin_dir: Path) -> str:
         extracted_norms = []
     if profile.key in CURATED_CASE_PROFILE_KEYS:
         extracted_cases = []
+    if profile.key in PROFILE_CASE_SKIP_KEYS:
+        profile_cases = []
+    if slug in CASE_RESEARCH_ONLY_SLUGS:
+        profile_cases = []
+        extracted_cases = []
+    if slug in PLUGIN_CASE_OVERRIDES:
+        profile_cases = list(PLUGIN_CASE_OVERRIDES[slug])
+        extracted_cases = []
     extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     fields = profile_fields(profile, skill_material, 7)
     norm_pool = (profile_norms + extracted_norms)[:8]
@@ -1856,9 +1980,9 @@ def build_werkstatt(plugin_dir: Path) -> str:
 
     for idx, station in enumerate(stations, 1):
         lines += [
-            f"### 3.{idx}. {clean(station, 140)}",
+            f"### 3.{idx}. {station_heading(station)}",
             "",
-            "Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.",
+            station_instruction(station),
             "",
         ]
 
@@ -1936,15 +2060,17 @@ def build_werkstatt(plugin_dir: Path) -> str:
         f"{len(profile.pruefraster)+1}. Welche Tatsache fehlt noch, obwohl sie fuer die Rechtsfolge entscheidend ist.",
         f"{len(profile.pruefraster)+2}. Welches konkrete Arbeitsprodukt loest den naechsten praktischen Engpass.",
         "",
-        "## 10. Schriftsatz- und Memo-Gerüst",
+        "## 10. Argumentations- und Entwurfsgerüst",
         "",
-        "1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.",
-        "2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.",
-        "3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.",
-        "4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.",
-        "5. Gegenargumente mit Beweislast und Risiko.",
-        "6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.",
-        "7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und naechstem Output.",
+        f"10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: {consequence_marker(profile)}.",
+        f"10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind {join_anchors(norm_pool[:2], 180)}.",
+        f"10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig {fields[0][0] if fields else profile.pruefraster[0]}.",
+        "10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.",
+        f"10.5. Beweislast: {evidence_marker(profile)}. Zeige ausdrücklich, welche Folge ein offener Beweis hat.",
+        "10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.",
+        "10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.",
+        f"10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise {output_hint(profile, fields)}.",
+        f"10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind {join_anchors(case_pool[:2], 180) if case_pool else 'erst nach verifizierter Recherche einzusetzen'}.",
         "",
         "## 11. Outputvarianten und Empfängerwunsch",
         "",
@@ -1980,31 +2106,15 @@ def build_werkstatt(plugin_dir: Path) -> str:
     # Make narrow prompts less skeletal by adding a profile- or skill-derived issue catalog.
     if fields:
         lines += ["", "## 15. Materienbezogene Arbeitsfelder", ""]
-        if profile.key in PROFILE_FIELD_OVERRIDES:
-            for idx, (title, detail) in enumerate(fields, 1):
-                lines.append(f"### 15.{idx}. {title}")
-                lines.append("")
-                lines.append(f"{detail}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
-                lines.append("")
-        else:
-            seen_fields: set[str] = set()
-            idx = 0
-            for item in skill_material:
-                desc = item["desc"] or item["body"]
-                if not desc:
-                    continue
-                title = field_title(desc, item["slug"])
-                key = re.sub(r"\W+", "", title.lower())
-                if key in seen_fields:
-                    continue
-                seen_fields.add(key)
-                idx += 1
-                lines.append(f"### 15.{idx}. {title}")
-                lines.append("")
-                lines.append(f"{field_detail(desc, item.get('body', ''), title)}. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.")
-                lines.append("")
-                if idx >= 14:
-                    break
+        for idx, (title, detail) in enumerate(fields, 1):
+            lines.append(f"### 15.{idx}. {title}")
+            lines.append("")
+            lines.append(
+                f"{detail}. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, "
+                "Gegenposition und konkreter Rechtsfolge. Output: ausformulierter "
+                "Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt."
+            )
+            lines.append("")
 
     text = "\n".join(lines).strip() + "\n"
     if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
@@ -2084,6 +2194,14 @@ def build_schnellstart(plugin_dir: Path) -> str:
         extracted_cases = []
     profile_norms = [] if profile.key == "default" else list(profile.normen[:4])
     profile_cases = [] if profile.key == "default" else list(profile.entscheidungen[:2])
+    if profile.key in PROFILE_CASE_SKIP_KEYS:
+        profile_cases = []
+    if slug in CASE_RESEARCH_ONLY_SLUGS:
+        profile_cases = []
+        extracted_cases = []
+    if slug in PLUGIN_CASE_OVERRIDES:
+        profile_cases = list(PLUGIN_CASE_OVERRIDES[slug][:2])
+        extracted_cases = []
     extracted_cases = dedupe_cases(profile_cases, extracted_cases)
     norm_pool = (profile_norms + extracted_norms)[:6]
     case_pool = (profile_cases + extracted_cases)[:4]
@@ -2156,11 +2274,17 @@ def build_schnellstart(plugin_dir: Path) -> str:
         "",
         "## 7. Antwortform",
         "",
-        f"Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: {output_hint(profile, fields)}.",
+        f"7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise {consequence_marker(profile)}.",
+        f"7.2. Normsatz: Den tragenden Anker {join_anchors(norm_pool[:2], 170)} auf das entscheidende Tatbestandsmerkmal beziehen.",
+        f"7.3. Aktenfund: Für {fields[0][0] if fields else 'den Fallkern'} konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.",
+        f"7.4. Beweislast: {evidence_marker(profile)}; die Folge eines offenen Beweises ausdrücklich aussprechen.",
+        "7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.",
+        "7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.",
+        f"7.7. Ausgang: Erzeuge als ersten Baustein {output_hint(profile, fields)}. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.",
         "",
         "## 8. Stop",
         "",
-        "Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
+        "Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")

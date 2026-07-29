@@ -75,7 +75,7 @@ Vor Versand jeweils Volltext in offener Quelle (juris.bundesgerichtshof.de, deju
 | Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
 |---|---|---|---|---|
 | BGH XI. ZS | XI ZR 22/24 | 20.5.2025 | Verbraucherdarlehen Immobilien: AGB-Klausel zur Vorfälligkeitsentschädigung muss Berechnung transparent darstellen; intransparente Klausel führt zum Verlust des Anspruchs auf Vorfälligkeitsentschädigung | juris.bundesgerichtshof.de |
-| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Referenzzins für Zinsanpassungen in Prämiensparverträgen (Folgeentscheidung) | bundesgerichtshof.de PM Nr. 225/2025 |
+| BGH XI. ZS | XI ZR 133/24 | 21.10.2025 | Pflichtangaben und Effektivzins beim Immobiliar-Verbraucherdarlehen; Bedeutung für Widerrufsfrist und Abwicklung | bundesgerichtshof.de |
 | BGH XI. ZS | XI ZR 553/19 | 2024 | Stärkung der Rechte von Darlehensnehmern bei Altforderungen — Volltext und Datum vor Versand verifizieren | juris.bundesgerichtshof.de |
 
 Hinweis: Es gibt keine Praejudizienbindung im deutschen Recht (Ausnahme § 31 BVerfGG). BGH-Linien werden zitiert als Auslegungshilfe, nicht als verbindliches Recht.
@@ -238,6 +238,6 @@ Kapitalmarktrecht]
 - PRIIPs-VO (EU) Nr. 1286/2014 — KID-Pflicht für verpackte Anlageprodukte
 - Aktuelle Aktenzeichen (Volltext jeweils vor Versand prüfen in juris.bundesgerichtshof.de, dejure.org, openjur.de, curia.europa.eu):
  - BGH XI ZR 22/24, Urt. v. 20.5.2025 — Vorfälligkeitsentschädigung intransparente AGB
- - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Referenzzins Prämiensparvertrag
+ - BGH XI ZR 133/24, Urt. v. 21.10.2025 — Pflichtangaben und Effektivzins beim Immobiliar-Verbraucherdarlehen
  - LG Nürnberg-Fürth, Urt. v. 21.2.2025 — PRIIPs-KID Gesamtrisikoindikator bei offenem Immobilienfonds (nicht rechtskräftig; instanzgerichtlich)
 - Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; nicht aus Modellwissen.

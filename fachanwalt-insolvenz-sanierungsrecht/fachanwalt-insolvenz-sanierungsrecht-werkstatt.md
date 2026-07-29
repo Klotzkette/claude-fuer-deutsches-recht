@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen.
+### 3.1. Krise feststellen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären.
+### 3.2. Pflichten zuordnen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
+### 3.3. Antrag und Sicherung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
+### 3.4. Forderung und Tabelle
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+### 3.5. Anfechtung und Plan
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Absonderungsrecht Paragraf 50 InsO | InsO Paragraf 17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Krise feststellen | InsO Paragraf 17 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 18 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO | InsO Paragraf 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Pflichten zuordnen | InsO Paragraf 18 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -142,15 +142,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind InsO Paragraf 17; InsO Paragraf 18.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Krise feststellen.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Krise feststellen, Pflichten zuordnen, Antrag und Sicherung, Forderung und Tabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -180,58 +182,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Absonderungsrecht Paragraf 50 InsO
+### 15.1. Krise feststellen
 
-Prüfe Absonderungsrecht Paragraf 50 InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen. - Paragraf 50 InsO - Paragraf 17 Abs. 1 und 2 InsO - Paragraf 19 Abs. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Anfechtungsklage Verwalter
+### 15.2. Pflichten zuordnen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Wenn es um vorläufige Eigenverwaltung nach Paragraf 270b InsO oder den Schutzschirm nach Paragraf 270d InsO geht
+### 15.3. Antrag und Sicherung
 
-trennt Zugang, Eigenverwaltungsplanung, Bescheinigung, Planfrist und Abbruchrisiken; liefert eine belastbare Antrags- und Entscheidungsmappe. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Anfechtungsklage des Insolvenzverwalters
+### 15.4. Forderung und Tabelle
 
-1. Welche Rechtshandlungen sollen eingeklagt werden, einzeln mit Datum, Betrag und Empfänger? 2. Ist der Zeitpunkt nach Paragraf 140 InsO geklärt oder nur das Buchungsdatum bekannt? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Inso P006 Sofortige Beschwerde
+### 15.5. Anfechtung und Plan
 
-Inso P003e Unternehmensgruppe P004b ordnet den Fall über die tragenden Prüfungslinien: Paragraf 3e InsO (Unternehmensgruppe) im Mandat prüfen, Paragraf 4b InsO (Rückzahlung und Anpassung der gestundeten, Paragraf 4c InsO (Aufhebung der Stundung) im Mandat prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Inso P043 Haftung Mehrerer Personen
+### 15.6. Absonderungsrecht Paragraf 50 InsO
 
-Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Prüfe Absonderungsrecht Paragraf 50 InsO von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Inso P060 Haftung Des Insolvenzverwalters
+### 15.7. Anfechtungsklage des Insolvenzverwalters nach Paragrafen 129-147 InsO vorbereiten: Tatbestand je Rechtshandlung
 
-Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Inso P071 Haftung Der Mitglieder Des Glaubigerausschusses
-
-Inso P279 Gegenseitige P336 Vertrag P043 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 279 InsO (Gegenseitige Verträge) im Mandat prüfen, Paragraf 336 InsO (Vertrag über einen unbeweglichen Gegenstand) im, Paragraf 43 InsO (Haftung mehrerer Personen) im Mandat. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Inso P093 Personliche Haftung Der Gesellschafter
-
-Inso P092 Gesamtschaden P093 Personliche P227 ordnet den Fall über die tragenden Prüfungslinien: Paragraf 92 InsO (Gesamtschaden) im Mandat prüfen, Paragraf 93 InsO (Persönliche Haftung der Gesellschafter) im, Paragraf 227 InsO (Haftung des Schuldners) im Mandat prüfen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Inso P104 Fixgeschafte Finanzleistungen Vertragliches Liquidatio
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Inso P109 Schuldner Als Mieter oder Pachter
-
-Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Inso P110 Schuldner Als Vermieter oder Verpachter
-
-Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Inso P111 Veraußerung Des Miet oder Pachtobjekts
-
-Inso P109 Schuldner P110 P111 Veraußerung ordnet den Fall über die tragenden Prüfungslinien: Paragraf 109 InsO (Schuldner als Mieter oder Pächter) im Mandat, Paragraf 110 InsO (Schuldner als Vermieter oder Verpächter) im, Paragraf 111 InsO (Veräußerung des Miet. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Inso P116 Erloschen von Geschaftsbesorgungsvertragen
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

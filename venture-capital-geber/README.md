@@ -84,7 +84,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | Arbeitsphase | Typische Skills |
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`deal-triage-score`](skills/deal-triage-score/SKILL.md), [`founder-update-intake`](skills/founder-update-intake/SKILL.md), [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md), [`kaltstart-vc-cockpit`](skills/kaltstart-vc-cockpit/SKILL.md), [`ma-sale-startup`](skills/ma-sale-startup/SKILL.md), [`swiss-ag-startup-investment`](skills/swiss-ag-startup-investment/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`kagb-aif-bafin-grenzcheck`](skills/kagb-aif-bafin-grenzcheck/SKILL.md), [`pitchdeck-und-teaser-analyse`](skills/pitchdeck-und-teaser-analyse/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`kagb-aif-bafin-grenzcheck`](skills/kagb-aif-bafin-grenzcheck/SKILL.md), [`pitchdeck-und-teaser-analyse`](skills/pitchdeck-und-teaser-analyse/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`gwg-ubo-transparenzregister`](skills/gwg-ubo-transparenzregister/SKILL.md), [`notar-register-closing`](skills/notar-register-closing/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`follow-on-ic-memo`](skills/follow-on-ic-memo/SKILL.md), [`ic-memo-generator`](skills/ic-memo-generator/SKILL.md), [`output-generator-pack`](skills/output-generator-pack/SKILL.md) |
 | 7. Kontrolle, Qualität und Gegenprüfung | [`fdi-und-fusionskontrolle-bei-minderheit`](skills/fdi-und-fusionskontrolle-bei-minderheit/SKILL.md), [`qualitygate-no-hallucinations`](skills/qualitygate-no-hallucinations/SKILL.md) |
@@ -96,7 +96,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 106 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -151,6 +151,7 @@ Automatisch generierte Komplett-Liste aller 105 Skills in diesem Plugin. Jeder S
 | [`investment-committee-minutes-task-reminder-system`](skills/investment-committee-minutes-task-reminder-system/SKILL.md) | Wenn es um Investment Committee Minutes in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`investor-reporting-ans-family-office`](skills/investor-reporting-ans-family-office/SKILL.md) | Wenn es um Investor Reporting ans Family Office in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`investorprofil-family-office-fonds-angel`](skills/investorprofil-family-office-fonds-angel/SKILL.md) | Wenn es um Investorprofil: Family Office, Fonds, Angel in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Venture Capital Geber ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kagb-aif-bafin-grenzcheck`](skills/kagb-aif-bafin-grenzcheck/SKILL.md) | Wenn es um KAGB/AIF/BaFin-Grenzcheck in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kaltstart-triage`](skills/kaltstart-triage/SKILL.md) | Wenn es um Kaltstart und Fallrouting in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kaltstart-vc-cockpit`](skills/kaltstart-vc-cockpit/SKILL.md) | Wenn es um VC-Kaltstart-Cockpit in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

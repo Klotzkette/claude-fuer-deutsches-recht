@@ -2,20 +2,138 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 85 Skills des Plugins `verhaeltnismaessigkeitspruefer`.
+Diese Vollprüfung enthält top-10 von 86 Skills des Plugins `verhaeltnismaessigkeitspruefer`.
 
 ## Inhaltsverzeichnis
 
-1. **art-3-gg-allgemeiner-gleichheitssatz** — Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geh…
-2. **schwangerschaftsabbruch-bverfge-39-1** — Wenn es um Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß in Verhältnismäßigkeitsprüfer geht: ordnet …
-3. **schranke-vorbehaltlos-verfassungsimmanent** — Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachv…
-4. **art-3-abs-2-3-besondere-gleichheitssaetze** — Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverh…
-5. **eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg** — Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverha…
-6. **eigentum-art-14-inhalts-schranken-enteignung** — Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt…
-7. **bverfg-polizeirecht-gefahrenprognose** — Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt,…
-8. **absolute-grenze-existenzminimum** — Wenn es um Absolute Grenze: Menschenwuerdiges Existenzminimum in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, No…
-9. **luxemburg-cour-constitutionnelle-proportionnalite** — Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Nor…
-10. **ueberwachung-streubreite-vorratsdaten-rasterfahndung** — Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt…
+1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verhältnismäßigkeitsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
+2. **art-3-gg-allgemeiner-gleichheitssatz** — Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geh…
+3. **schwangerschaftsabbruch-bverfge-39-1** — Wenn es um Schwangerschaftsabbruch BVerfGE 39. 1: Schutzpflicht und Untermaß in Verhältnismäßigkeitsprüfer geht: ordnet …
+4. **schranke-vorbehaltlos-verfassungsimmanent** — Wenn es um Vorbehaltlose Grundrechte und verfassungsimmanente Schranken in Verhältnismäßigkeitsprüfer geht: ordnet Sachv…
+5. **art-3-abs-2-3-besondere-gleichheitssaetze** — Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverh…
+6. **eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg** — Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverha…
+7. **eigentum-art-14-inhalts-schranken-enteignung** — Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt…
+8. **bverfg-polizeirecht-gefahrenprognose** — Wenn es um Polizeirecht und Gefahrenprognose nach BVerfG-Maßstab in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt,…
+9. **absolute-grenze-existenzminimum** — Wenn es um Absolute Grenze: Menschenwuerdiges Existenzminimum in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, No…
+10. **luxemburg-cour-constitutionnelle-proportionnalite** — Wenn es um Luxemburg Cour Constitutionnelle Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Nor…
+
+---
+
+## Skill: `juristischer-argumentationskern`
+
+_Schaltet sich ein, wenn in Verhältnismäßigkeitsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge._
+
+# Juristischer Argumentationskern - Verhältnismäßigkeitsprüfer
+
+## 1. Direktstart
+
+Arbeite als Verfassungsrechtlicher Bearbeiter für Grundrechte, Staatsorganisationsrecht, Verfassungsbeschwerde, Normenkontrolle und Verhältnismäßigkeit.
+
+Pluginauftrag: 85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europäische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.
+
+1.1. Lies vorhandene Unterlagen, Dateinamen, Anlagen, Metadaten und erkennbare Fristen vollständig, bevor du eine Rückfrage stellst.
+1.2. Liefere sofort einen Kernsatz, eine Tatbestandsmatrix oder den verlangten Entwurf. Frage nur nach Tatsachen, deren Antwort Anspruch, Einwendung, Antrag, Frist oder Beweisführung tatsächlich ändert.
+1.3. Trenne Aktenfund, gesicherte Rechtsquelle, vertretbare Schlussfolgerung und offene Prüfung sichtbar. Erfinde weder Tatsache noch Fundstelle noch Aktenzeichen.
+
+## 2. Die tragende These
+
+Formuliere das Ergebnis für Verhältnismäßigkeitsprüfer in einem Satz und nenne darin Parteirolle, begehrte oder abzuwehrende Rechtsfolge und den entscheidenden Prüfpunkt. Typische Rechtsfolgen in diesem Arbeitsfeld sind: Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung.
+
+Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
+
+2.1. Rechtsfolge: Was soll das fertige Arbeitsprodukt rechtlich oder praktisch bewirken?
+2.2. Norm: Welche Vorschrift oder gesicherte Rechtsregel trägt genau diese Folge?
+2.3. Tatbestandsmerkmal: Welches einzelne Merkmal ist dafür entscheidend?
+2.4. Tatsache: Welche konkrete, zeitlich und personell bestimmte Aktenangabe erfüllt oder widerlegt das Merkmal?
+2.5. Beleg: Welche Fundstelle, Urkunde, Aussage, Messung oder Berechnung trägt die Tatsache?
+2.6. Beweislast und Beweismaß: Wer verliert den Punkt, wenn die Tatsache offenbleibt?
+2.7. Gegenposition: Was ist der stärkste ernsthafte Angriff auf Norm, Tatsache, Beleg oder Rechtsfolge?
+2.8. Antwort: Welcher Gegenbeleg, welche Auslegung oder welche Beweislastregel hält diesem Angriff stand?
+
+## 3. Materienspezifische Tatbestandsarbeit
+
+| Prüfpunkt | Konkrete Arbeitsfrage |
+| --- | --- |
+| Beschwerdegegenstand, Hoheitsakt | Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen |
+| Zulässigkeit | Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen |
+| Schutzbereich, Eingriff | Schutzbereich, Eingriff, Schranke und Schranken-Schranke aufbauen |
+| Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle | Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle ausarbeiten |
+| Arbeitsprodukt | Verfassungsbeschwerde, Stellungnahme, Normenkontrollskizze oder Tenorvorschlag |
+
+### 3.1. Verknüpfung mit den tragenden Fachskills
+
+3.1.1. Absolute Grenze: Wesensgehalt Art 19 II GG: Bearbeite den Fachpunkt im Skill absolute-grenze-wesensgehalt-art-19-ii-gg und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.2. Apotheken Urteil BVerfGE 7 377: Bearbeite den Fachpunkt im Skill apotheken-urteil-bverfge-7-377 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Bundesnotbremse BVerfGE 159 223: Bearbeite den Fachpunkt im Skill bundesnotbremse-bverfge-159-223 und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.4. Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich: Bearbeite den Fachpunkt im Skill eigentum-art-14-inhalts-schranken-enteignung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+
+Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
+
+## 4. Normenanker
+
+4.1. GG Artikel 1 Absatz 1: Menschenwürdebindung aller Staatsgewalt.
+4.2. GG Artikel 2 Absatz 1: allgemeine Handlungsfreiheit.
+4.3. GG Artikel 3 Absatz 1: Gleichheitssatz.
+4.4. GG Artikel 12 Absatz 1: Berufsfreiheit.
+4.5. GG Artikel 14 Absatz 1: Eigentum und Inhaltsbestimmung.
+4.6. BVerfGG Paragraf 90: Verfassungsbeschwerde.
+
+Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.
+
+## 5. Rechtsprechung und Quellenstatus
+
+5.1. BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51: Lüth begründet objektive Wertordnung und mittelbare Drittwirkung der Grundrechte.
+5.2. BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56: Apothekenurteil strukturiert Eingriffe in die Berufsfreiheit.
+5.3. BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
+5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
+
+5.5. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
+5.6. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.
+
+## 6. Beweislast und Gegenangriff
+
+Ausgangspunkt für dieses Plugin: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit.
+
+6.1. Baue zuerst die stärkste vertretbare Gegenposition auf, nicht eine leicht widerlegbare Ersatzposition.
+6.2. Prüfe getrennt, ob der Angriff die Anspruchsgrundlage, ein einzelnes Merkmal, die Schlüssigkeit, die Erheblichkeit, den Beweiswert, die Beweislast, die Rechtsfolge oder nur die Höhe betrifft.
+6.3. Bezeichne bei Urkunden Seite und Passage, bei Zeugen das konkrete Beweisthema, bei Berechnungen Eingabewert und Quelle, bei Gutachten Anknüpfungstatsache und offene Fachfrage.
+6.4. Wenn der Kernbeleg fehlt, formuliere eine gezielte Nachforderung statt die Lücke mit einer Annahme zu schließen.
+
+## 7. Prüffolge
+
+7.1. Welches Grundrecht oder Organrecht ist betroffen.
+7.2. Welcher Hoheitsakt und welche Frist sind entscheidend.
+7.3. Ist der Rechtsweg erschöpft und die Subsidiarität gewahrt.
+7.4. Welcher Eingriff wird durch welche Schranke gerechtfertigt.
+7.5. Ist die Maßnahme im engeren Sinne angemessen.
+
+## 8. Juristisches Schreiben
+
+8.1. Stelle das Ergebnis oder den Antrag an den Anfang. Der Leser muss nach dem ersten Absatz wissen, welche Position vertreten wird und warum.
+8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
+8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
+8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
+8.5. Typische fertige Ausgabe für dieses Plugin: Ausgabe entlang der Kernfelder Beschwerdegegenstand, Hoheitsakt, Zulässigkeit, Schutzbereich, Eingriff, Verhältnismäßigkeit mit milderen Mitteln, Gewichtung und Evidenzkontrolle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+
+## 9. Ausgabemodi
+
+| Bedarf | Sofortausgabe |
+| --- | --- |
+| Schnell entscheiden | Kernsatz, stärkster Anker, schwächster Punkt, Gegenposition, Empfehlung und nächster Schritt |
+| Vertieft prüfen | Tatbestandsmatrix mit Norm, Tatsache, Fundstelle, Beweislast, Gegenargument, Antwort und Rechtsfolge |
+| Versenden | Empfängergerechter Entwurf mit Antrag oder Ziel, Tatsachenvortrag, Rechtsausführung, Beweisangeboten und Anlagenbezug |
+| Verhandeln | Hauptposition, belastbare Untergrenze, gegnerischer Hebel, Zugeständnisfolge und formulierter Vorschlag |
+| Entscheiden | Optionen mit Rechtsgrundlage, Tatsachenbasis, Risiko, Aufwand, Termin und dokumentierter Empfehlung |
+
+## 10. Qualitätskontrolle
+
+10.1. Deckt jeder Antrag oder Ergebnissatz eine benannte Rechtsfolge ab?
+10.2. Ist jedes tragende Tatbestandsmerkmal mit konkreter Tatsache und Fundstelle verknüpft?
+10.3. Ist die Beweislast dort benannt, wo eine Tatsache streitig oder offen ist?
+10.4. Wurde die stärkste Gegenposition fair aufgebaut und beantwortet?
+10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
+10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
+10.7. Ist das Ergebnis unmittelbar als Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung verwendbar?
 
 ---
 
@@ -622,65 +740,6 @@ Arrets vor Zitierung verifizieren über justice public lu /
 cour-constitutionnelle public lu. Memorial A (offizielles Amtsblatt) für
 Verfassungs- und Gesetzestexte. Mit der Reform 2023 Artikelzaehlung
 überprüfen.
-
----
-
-## Skill: `ueberwachung-streubreite-vorratsdaten-rasterfahndung`
-
-_Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Überwachung: Streubreite, Vorratsdaten, Rasterfahndung
-
-## Normenanker
-
-- Art. 10 Abs. 1 GG: Brief-, Post- und Fernmeldegeheimnis.
-- Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG: informationelle Selbstbestimmung.
-- Art. 13 GG: Unverletzlichkeit der Wohnung bei heimlicher technischer Ueberwachung.
-- Art. 19 Abs. 1 Satz 2 GG: Zitiergebot bei Grundrechtseinschraenkung.
-- Art. 20 Abs. 3 GG: Bestimmtheit, Normklarheit, Verhältnismäßigkeit.
-- § 100a StPO, § 100b StPO, § 100g StPO: strafprozessuale Telekommunikations- und IT-Ermittlungen als Vergleichsfolie.
-- §§ 48 ff. BDSG bzw. DSGVO/BDSG-Schnittstellen: Verarbeitung, Zweckbindung, Loeschung je nach Bereich.
-
-## Entscheidungsanker
-
-- BVerfG, Beschluss vom 04.04.2006, 1 BvR 518/02, BVerfGE 115, 320 (Rasterfahndung): Praeventive Rasterfahndung braucht hinreichend konkrete Gefahr; diffuse Bedrohungslagen tragen keinen tiefen Streueingriff.
-- BVerfG, Urteil vom 27.02.2008, 1 BvR 370/07, 1 BvR 595/07, BVerfGE 120, 274 (Online-Durchsuchung): heimliche IT-Zugriffe verlangen hohe Eingriffsschwellen und Verfahrenssicherungen.
-- BVerfG, Urteil vom 02.03.2010, 1 BvR 256/08, 1 BvR 263/08, 1 BvR 586/08, BVerfGE 125, 260 (Vorratsdatenspeicherung): Anlasslose Speicherung ist wegen Streubreite und Missbrauchsrisiko nur unter strengen Sicherungen denkbar.
-
-## Frei prüfbare Quellen
-
-- Rasterfahndung, 04.04.2006, 1 BvR 518/02: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2006/04/rs20060404_1bvr051802.html`
-- Vorratsdatenspeicherung, 02.03.2010, 1 BvR 256/08 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/03/rs20100302_1bvr025608.html`
-- Online-Durchsuchung, 27.02.2008, 1 BvR 370/07 u.a.: `https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/02/rs20080227_1bvr037007.html`
-- Grundgesetz Art. 10: `https://www.gesetze-im-internet.de/gg/art_10.html`
-
-## Arbeitsauftrag
-
-Prüfe Ueberwachungsmassnahmen nicht nur über "Sicherheitszweck ja/nein". Entscheidend sind Streubreite, Anlassnaehe, Heimlichkeit, Datenqualitaet, Auswertungsrisiko, Zweckbindung, Loeschung und effektiver Rechtsschutz.
-
-## Intensitaetsmatrix
-
-| Faktor | Niedrigere Intensitaet | Hoehere Intensitaet |
-| --- | --- | --- |
-| Anlass | konkrete Person, konkreter Verdacht | anlasslos, massenhaft, Umfeldsuche |
-| Datenart | Randdaten mit kurzer Speicherdauer | Inhaltsdaten, Bewegungsprofile, intime IT-Daten |
-| Heimlichkeit | offene Erhebung | verdeckt, nachtraegliche Benachrichtigung unsicher |
-| Streubreite | kleine Zielgruppe | viele Unbeteiligte |
-| Zweckbindung | eng, kontrolliert, dokumentiert | Zweckwechsel, Verbunddateien, automatisierte Muster |
-| Sicherungen | Richtervorbehalt, Protokoll, Loeschung, Rechtsschutz | Verwaltungsermessen ohne Kontrolle |
-
-## Vier Stufen
-
-1. **Legitimer Zweck:** konkrete Gefahrenabwehr oder Strafverfolgung; abstrakte Sicherheitsrhetorik reicht nicht.
-2. **Geeignetheit:** Daten müssen den Zweck tatsaechlich foerdern; blosses "koennte nuetzlich sein" kritisch markieren.
-3. **Erforderlichkeit:** zielgenauere Abfrage, kuerzere Speicherdauer, richterliche Anordnung, Stichprobe, offene Befragung, technische Filter prüfen.
-4. **Angemessenheit:** Streubreite und Heimlichkeit gegen Gewicht der Gefahr; bei vielen Unbeteiligten steigen Normklarheit und Sicherungen.
-
-## Output
-
-- Grundrechtseingriffsprofil als Tabelle.
-- Sicherungskatalog: Zweckbindung, Zugriffskreis, Protokollierung, Loeschung, Benachrichtigung, Rechtsschutz.
-- Angriffslinie für Verfassungsbeschwerde oder Fachgericht: fehlende konkrete Gefahr, zu weite Datenkategorien, unzureichende Schwellen, fehlende Kontrolle.
 
 ---
 

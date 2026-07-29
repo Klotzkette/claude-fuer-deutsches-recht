@@ -248,7 +248,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`einstieg-routing`](skills/einstieg-routing/SKILL.md), [`hr-personal-kanzlei-intake`](skills/hr-personal-kanzlei-intake/SKILL.md), [`intake`](skills/intake/SKILL.md), [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md), [`kaltstart-routing-triage`](skills/kaltstart-routing-triage/SKILL.md), [`kanzlei-cowork-kaltstart-interview`](skills/kanzlei-cowork-kaltstart-interview/SKILL.md), [`look-feel-mandatsannahme-gwg`](skills/look-feel-mandatsannahme-gwg/SKILL.md), [`mandatsannahme-gwg`](skills/mandatsannahme-gwg/SKILL.md), [`mandatsvereinbarung-postlauf`](skills/mandatsvereinbarung-postlauf/SKILL.md), [`posteingang-ausgang-sekretariats-tagesbrief`](skills/posteingang-ausgang-sekretariats-tagesbrief/SKILL.md), [`workflow-kaltstart-und-routing`](skills/workflow-kaltstart-und-routing/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`akte-anlegen-und-aktenzeichen-zuordnen`](skills/akte-anlegen-und-aktenzeichen-zuordnen/SKILL.md), [`aktenbestand-pflege-bea-versand`](skills/aktenbestand-pflege-bea-versand/SKILL.md), [`aktenzeichen`](skills/aktenzeichen/SKILL.md), [`kanzlei-rechtsprechungsrecherche-fristenbuch`](skills/kanzlei-rechtsprechungsrecherche-fristenbuch/SKILL.md), [`mandantenakte-anlegen-mandantenbrief-vorlagen`](skills/mandantenakte-anlegen-mandantenbrief-vorlagen/SKILL.md), [`timesheet-aktenzeitung-umgang-ki`](skills/timesheet-aktenzeitung-umgang-ki/SKILL.md), [`umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`](skills/umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten/SKILL.md) |
-| 3. Prüfung, Anspruch und Subsumtion | [`versand-check-weihnachtskarten`](skills/versand-check-weihnachtskarten/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md), [`versand-check-weihnachtskarten`](skills/versand-check-weihnachtskarten/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`monitor-vertragsentwurf`](skills/monitor-vertragsentwurf/SKILL.md), [`vertragsentwurf`](skills/vertragsentwurf/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`fristenbuch-fuehren`](skills/fristenbuch-fuehren/SKILL.md), [`handelsregisterabruf`](skills/handelsregisterabruf/SKILL.md) |
 | 6. Ergebnis, Schreiben und Kommunikation | [`mandantenbrief-vorlagen`](skills/mandantenbrief-vorlagen/SKILL.md), [`output-versand`](skills/output-versand/SKILL.md), [`sekretariats-tagesbrief`](skills/sekretariats-tagesbrief/SKILL.md) |
@@ -261,7 +261,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 52 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -281,6 +281,7 @@ Automatisch generierte Komplett-Liste aller 51 Skills in diesem Plugin. Jeder Sk
 | [`hr-personal-kanzlei-intake`](skills/hr-personal-kanzlei-intake/SKILL.md) | Wenn es um HR und Personalverwaltung in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`intake`](skills/intake/SKILL.md) | Wenn es um Intake und Eingangstriage in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`integrationen-simulation-kanzlei`](skills/integrationen-simulation-kanzlei/SKILL.md) | Wenn es um Integrationen und Simulationsmodus in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Kanzlei Allgemein ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`kaltstart-routing`](skills/kaltstart-routing/SKILL.md) | Wenn es um Kanzlei-Allgemein Kaltstart in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kaltstart-routing-triage`](skills/kaltstart-routing-triage/SKILL.md) | Wenn es um Kaltstart Routing Triage in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. |
 | [`kanzlei-automationen-bea-journal`](skills/kanzlei-automationen-bea-journal/SKILL.md) | Wenn es um Automationen und Routinen in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. |

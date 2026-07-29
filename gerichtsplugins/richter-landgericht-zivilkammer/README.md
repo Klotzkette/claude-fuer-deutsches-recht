@@ -113,6 +113,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 | --- | --- |
 | 1. Einstieg und Fallrouting | [`01-eingang-und-besetzung`](skills/01-eingang-und-besetzung/SKILL.md) |
 | 2. Unterlagen, Sachverhalt und Quellen | [`04-beweisbeschluss-und-sachverstaendiger`](skills/04-beweisbeschluss-und-sachverstaendiger/SKILL.md), [`05-zeugenbeweis-und-parteivernehmung`](skills/05-zeugenbeweis-und-parteivernehmung/SKILL.md) |
+| 3. Prüfung, Anspruch und Subsumtion | [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) |
 | 4. Gestaltung, Strategie und Verhandlung | [`09-vergleich-und-mediation`](skills/09-vergleich-und-mediation/SKILL.md) |
 | 5. Verfahren, Behörde und Gericht | [`03-fruehe-erste-verfuegung-paragraf-139`](skills/03-fruehe-erste-verfuegung-paragraf-139/SKILL.md), [`06-urteil-grosses-zivilurteil`](skills/06-urteil-grosses-zivilurteil/SKILL.md), [`07-berufungsverfahren-paragraf-511-ff`](skills/07-berufungsverfahren-paragraf-511-ff/SKILL.md), [`v392-praxisraster-richter-landgericht-zivilkammer`](skills/v392-praxisraster-richter-landgericht-zivilkammer/SKILL.md) |
 | 8. Spezialmodule und Schnittstellen | [`02-grosse-relation-zivilrecht`](skills/02-grosse-relation-zivilrecht/SKILL.md), [`08-kostenentscheidung-und-streitwert`](skills/08-kostenentscheidung-und-streitwert/SKILL.md), [`10-entscheidungsvorschlag-kammer`](skills/10-entscheidungsvorschlag-kammer/SKILL.md), [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md), [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) |
@@ -123,7 +124,7 @@ Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Die alphabet
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
+Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Jeder Skillname öffnet die zugehörige `SKILL.md`; Beschreibungen stammen aus deren `description`-Feld.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -138,6 +139,7 @@ Automatisch generierte Komplett-Liste aller 13 Skills in diesem Plugin. Jeder Sk
 | [`09-vergleich-und-mediation`](skills/09-vergleich-und-mediation/SKILL.md) | Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. |
 | [`10-entscheidungsvorschlag-kammer`](skills/10-entscheidungsvorschlag-kammer/SKILL.md) | Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`99-finale-entscheidung-volltext`](skills/99-finale-entscheidung-volltext/SKILL.md) | Wenn es um Finale Entscheidung als Volltext (Urteil Zivilkammer) in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigke... |
+| [`juristischer-argumentationskern`](skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Richter Landgericht Zivilkammer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. |
 | [`prozessuale-kniffe-und-rechtsprechungsanker`](skills/prozessuale-kniffe-und-rechtsprechungsanker/SKILL.md) | Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix. |
 | [`v392-praxisraster-richter-landgericht-zivilkammer`](skills/v392-praxisraster-richter-landgericht-zivilkammer/SKILL.md) | Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. |
 

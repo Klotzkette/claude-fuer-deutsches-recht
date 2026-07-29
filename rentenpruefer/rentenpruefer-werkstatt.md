@@ -51,37 +51,37 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Rentenauftrag: Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen.
+### 3.1. Rentenauftrag
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rentenauftrag: Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Versicherungsverlauf: Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären.
+### 3.2. Versicherungsverlauf
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Versicherungsverlauf: Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Anspruch und Höhe: Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen.
+### 3.3. Anspruch und Höhe
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anspruch und Höhe: Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Hinterbliebene und Familie: Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen.
+### 3.4. Hinterbliebene und Familie
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Hinterbliebene und Familie: Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte.
+### 3.5. Private und betriebliche Ebene
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Private und betriebliche Ebene: Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren.
+### 3.6. Rechtsweg
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | auslandszeiten-ohne-abkommen-beweisstrategie | SGB VI Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Rentenauftrag | SGB VI Paragraf 35 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SGB VI Paragraf 36 und Paragraf 38 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | berufswechsel-angestellte-selbständige-freiberufler | SGB VI Paragraf 36 und Paragraf 38 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Versicherungsverlauf | SGB VI Paragraf 36 und Paragraf 38 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -143,15 +143,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rentenauftrag.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Rentenauftrag, Versicherungsverlauf, Anspruch und Höhe, Hinterbliebene und Familie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -181,58 +183,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. auslandszeiten-ohne-abkommen-beweisstrategie
+### 15.1. Rentenauftrag
 
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. berufswechsel-angestellte-selbständige-freiberufler
+### 15.2. Versicherungsverlauf
 
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Bescheid Widerspruch Klage Sozialgericht
+### 15.3. Anspruch und Höhe
 
-Erstelle zuerst ein Fristenblatt. Danach kommt die Fehlerhypothese. 1. Verfügungssatz, Berechnung und Begründung trennen. 2. Rechtsbehelfsbelehrung prüfen. 3. Fehlerhypothese mit Monatsraster oder medizinischem Befund verbinden. 4. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. beweisnot-eidesstattliche-erklärung-zeugen
+### 15.4. Hinterbliebene und Familie
 
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. DRV Kontenklärung Beweisersatz
+### 15.5. Private und betriebliche Ebene
 
-Liefere eine Beweislandkarte. Ziel ist nicht, „Unterlagen fehlen“ festzustellen, sondern den besten Ersatzbeleg zu finden. - SGB VI Paragraf 149: Kontenklärung. - SGB X Paragraf 20 und 21: Amtsermittlung und Beweismittel. - SGG Paragraf 103: Sachaufklärung im Gerichtsverfahren. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Private Rentenversicherung im Rentenfahrplan
+### 15.6. Rechtsweg
 
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. rentenbescheid-prüfen-widerspruch
+### 15.7. auslandszeiten-ohne-abkommen-beweisstrategie
 
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. widerspruch-sozialgericht-klage
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. ärzte-apotheker-architekten-versorgungswerk
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. aktenstruktur-und-dokumentenintake
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. altersrente-langjährig-besonders-langjährig
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Angestellten-Rentenfahrplan Erstberatung
-
-Beginne mit einem einseitigen Rentenfahrplan. Wenn noch Unterlagen fehlen, markiere Annahmen, aber liefere trotzdem eine belastbare erste Route. Frage nur nach: 1. Geburtsdatum, aktueller Beschäftigungsstatus und gewünschter Ausstieg. 2. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. anwälte-versorgungswerk-spezial
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. arbeitslosigkeit-buergergeld-und-rente
-
-Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente. - Paragraf 50 SGB VI — Wartezeiten. - Paragraf 51 SGB VI — anrechenbare Zeiten. - Paragraf 55 SGB VI — Beitragszeiten. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Paragraf 35 SGB VI — Regelaltersrente. - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte. - Paragraf 43 SGB VI — Erwerbsminderungsrente.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

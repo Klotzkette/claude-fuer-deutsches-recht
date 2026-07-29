@@ -22,7 +22,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 3. Nutzungsvorgang: Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben.
 4. Einwendungen: Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen.
 5. Arbeitsprodukt: Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen.
-6. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht: Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen.
 
 ## 4. Fallkarte
 
@@ -39,12 +38,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
+| Schutzgegenstand | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Investition und Inhaberschaft | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nutzungsvorgang | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einwendungen | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht: API-Nutzung Rate Limits und Vertragsbruch | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -61,8 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-Lagebild: drei bis sieben Sätze. Prüfung: Tatbestandsmerkmale mit Belegen, Beweislast und Gegenargument. Ergebnis: klare Empfehlung mit Rechtsfolge und Quellenstatus. Anschluss: Frist, fehlender Beleg, nächstes Dokument. Typische Ausgabe: Ausgabe entlang der Kernfelder API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht, Beweissicherung durch Testabruf-Werkzeug — Zulässigkeit und Verwertbarkeit, Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke, Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern: Kurzvermerk.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben.
+7.2. Normsatz: Den tragenden Anker UrhG Paragraf 87a; UrhG Paragraf 87b auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Schutzgegenstand konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Schutzgegenstand, Investition und Inhaberschaft, Nutzungsvorgang, Einwendungen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Stoppe bei ungeklärter Frist, fehlender Vollmacht, fehlendem Kernbeleg oder Entscheidung mit hohem Haftungsrisiko und gib zuerst eine Lückenliste aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

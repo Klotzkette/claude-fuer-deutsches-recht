@@ -25,37 +25,37 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung.
+### 3.1. Bestand erfassen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Bestand erfassen: Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall.
+### 3.2. Anspruch rechnen
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Anspruch rechnen: Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung.
+### 3.3. Haftung und Deckung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Haftung und Deckung: arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang.
+### 3.4. Änderung und Harmonisierung
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Änderung und Harmonisierung: Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten.
+### 3.5. Transaktion und Konzern
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Transaktion und Konzern: Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.6. Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage.
+### 3.6. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg | BetrAVG Paragraf 1 und Paragraf 1a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Bestand erfassen | BetrAVG Paragraf 1 und Paragraf 1a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BetrAVG Paragraf 1b und Paragraf 2 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Boutique: Fristennotiz und nächster Schritt | BetrAVG Paragraf 1b und Paragraf 2 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Anspruch rechnen | BetrAVG Paragraf 1b und Paragraf 2 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -116,15 +116,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 7. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 8. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Bestand erfassen.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Systemmatrix: Zusage, Rechtsgrund, Personenkreis, Durchführungsweg, Finanzierung, Leistung, Anpassung, PSV, Bilanz und Änderungsrecht; Besitzstandsvergleich: Person, Stichtag, Altleistung, Neuleistung, erdienter Teilbetrag, erdiente Dynamik, künftiger Zuwachs und Rechtfertigungsgrund.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BAG, Urteil vom 19.06.2012 - 3 AZR 408/10; BAG, Urteil vom 14.07.2015 - 3 AZR 517/13.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -154,58 +156,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
+### 15.1. Bestand erfassen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Boutique: Fristennotiz und nächster Schritt
+### 15.2. Anspruch rechnen
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Fristen- und Risikoampel
+### 15.3. Haftung und Deckung
 
-Dieser Arbeitsgang macht Fristen- und Risikoampel im Bereich bav-strategie-konzern sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. PSV — Pensionssicherungsverein und Haftungsketten
+### 15.4. Änderung und Harmonisierung
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Alt- und Neusystem personenbezogen vergleichen, drei Stufen, Gleichbehandlung, Mitbestimmung, Tarifvorrang und Übergangsrecht prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Restrukturierung: Beweislast, Darlegungslast und Substantiierung
+### 15.5. Transaktion und Konzern
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Betriebsübergang, Umwandlung, Übertragung, Abfindungsverbot, internationale Schnittstellen, Daten und Verantwortlichkeiten ordnen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. bAV: CTA Treuhand
+### 15.6. Arbeitsprodukt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. bAV: Fünftelregelung Auszahlung
+### 15.7. Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. bAV: Grenzüberschreitende Mobilität
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. bAV: Konzern-Design
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. bAV: Pensionsfonds-Rückdeckung
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Benefits: Mandantenkommunikation und Entscheidungsvorlage
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Pension Buyout im M&A-Deal — Asset vs. Share Deal
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger, PSVaG (Insolvenzsicherung), Versorgungsausgleichskasse, Betriebsrat (Paragraf 87 Abs. 1 Nr. 10 BetrVG). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Country-by-Country Benefits-Matrix für Konzerne
-
-entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Arbeitgeber, Arbeitnehmer, Pensionskasse, Pensionsfonds, Versicherer, Versorgungsträger.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.

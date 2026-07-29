@@ -51,33 +51,33 @@ Arbeite danach in drei Ebenen: Prüfkern, Gegenargument, Arbeitsprodukt. Keine V
 
 ## 3. Werkstattfluss
 
-### 3.1. Rechtsposition: Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen.
+### 3.1. Rechtsposition
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsposition: Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.2. Rechtsbestand und Register: Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen.
+### 3.2. Rechtsbestand und Register
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Rechtsbestand und Register: Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.3. Verletzung und Beweis: konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden.
+### 3.3. Verletzung und Beweis
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verletzung und Beweis: konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.4. Verfahrensstrategie: Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren.
+### 3.4. Verfahrensstrategie
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Verfahrensstrategie: Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
-### 3.5. Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen.
+### 3.5. Arbeitsprodukt
 
-Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, einschlägige Norm und Beweislast zuordnen, Gegenargument prüfen, Ergebnisbaustein mit Risiko und nächstem Schritt liefern.
+Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen. Ordne jedem Punkt den konkreten Aktenfund, die steuernde Norm, die Beweislast und die stärkste Gegenposition zu; schließe mit einem ausformulierten Ergebnisbaustein, dem verbleibenden Risiko und dem nächsten Verfahrensschritt.
 
 ## 4. Rechtsprechungs-Fallkarte
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Patent-Nichtigkeitsklage | MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Rechtsposition | MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Rechtsbestand und Register | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz | Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -114,7 +114,7 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 - Paragraf 4 PatG — Erfinderische Taetigkeit (nicht naheliegend); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 21 Abs. 1 Nr. 2 PatG — Unzureichende Offenbarung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 81 PatG — Nichtigkeitsklage vor BPatG; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 65 PatG — Beschraenkung des Patentanspruchs durch Inhaber; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 65 PatG — Beschränkung des Patentanspruchs durch Inhaber; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 110 PatG — Berufung zum BGH (Nichtigkeitssenat X. ZS); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
@@ -132,15 +132,17 @@ Arbeite diese Station in einem Durchgang: Tatsachenkern und Belege erfassen, ein
 6. Welche Tatsache fehlt noch, obwohl sie für die Rechtsfolge entscheidend ist.
 7. Welches konkrete Arbeitsprodukt löst den nächsten praktischen Engpass.
 
-## 10. Schriftsatz- und Memo-Gerüst
+## 10. Argumentations- und Entwurfsgerüst
 
-1. Überschrift mit Verfahrensstand, Beteiligten, Datum und Ziel.
-2. Kurzlage in drei bis sieben Sätzen mit Frist, Streitkern und Ergebnisrichtung.
-3. Sachverhalt nur mit belegten Tatsachen; streitige Punkte werden als streitig markiert.
-4. Rechtliche Prüfung nach Tatbestandsmerkmalen, nicht nach Bauchgefühl.
-5. Gegenargumente mit Beweislast und Risiko.
-6. Ergebnis, Antrag, Formulierungsvorschlag oder Entscheidungsoption.
-7. Anschlussliste mit Fristen, Dokumenten, Ansprechpartnern und nächstem Output.
+10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz.
+10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42; UWG Paragraf 3, Paragraf 4 und Paragraf 8.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rechtsposition.
+10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.
+10.5. Beweislast: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
+10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.
+10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Rechtsposition, Rechtsbestand und Register, Verletzung und Beweis, Verfahrensstrategie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA; BAG, Urteil vom 22.03.2017, 10 AZR 448/15.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -170,58 +172,30 @@ Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zust
 
 ## 15. Materienbezogene Arbeitsfelder
 
-### 15.1. Patent-Nichtigkeitsklage
+### 15.1. Rechtsposition
 
-1. Patent-Art: DE-Patent (DPMA), EP-Patent klassisch (vor BPatG) oder Einheitspatent EPG/UPC? 2. Strategische Rolle: Offensiv (fremdes Patent raumen) oder defensiv (Verletzungsklage abwehren)? 3. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Schutzrecht, Geschäftsgeheimnis, Wettbewerbsposition, Inhaber, Lizenz, Priorität und territoriale Reichweite bestimmen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.2. Faevvollzug Neu 006 Abschlussschreiben Kosten und Frist
+### 15.2. Rechtsbestand und Register
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Eintragung, Benutzung, Jahresgebühr, Nichtigkeits- oder Löschungsangriff und Parallelverfahren prüfen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.3. Prüft Filesharing-Abmahnungen auf Rechtekette, Anschlussinhaberschaft, Täterschaft, sekundäre Darlegungslast.
+### 15.3. Verletzung und Beweis
 
-Prüft Filesharing-Abmahnungen auf Rechtekette, Anschlussinhaberschaft, Täterschaft, sekundäre Darlegungslast, Schadensersatz und Kostenbegrenzung und erstellt eine fristgerechte Verteidigungsposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+konkrete Handlung, Merkmals- oder Zeichenvergleich, Kenntnis, Beweissicherung und Geheimnisschutz verbinden. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.4. Gewerblichen Tatbestand Beweis und Belege
+### 15.4. Verfahrensstrategie
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.5. Lizenzanaloger Fristennotiz und Nächster Schritt
+### 15.5. Arbeitsprodukt
 
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unterlassungserklärung, Antrag, Erwiderung, Vergleich oder Lizenz erstellen. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.6. Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren.
+### 15.6. Patent-Nichtigkeitsklage
 
-Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, Beweislast und Verfahrensweg und erstellt einen vollständigen Antrag oder eine Verteidigung mit Benutzungsbelegmatrix. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+1. Patent-Art: DE-Patent (DPMA), EP-Patent klassisch (vor BPatG) oder Einheitspatent EPG/UPC? 2.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
 
-### 15.7. Prüft nachvertragliche Wettbewerbsverbote von Arbeitnehmern auf Schriftform, berechtigtes Interesse, Reichweite.
+### 15.7. Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung.
 
-Prüft nachvertragliche Wettbewerbsverbote von Arbeitnehmern auf Schriftform, berechtigtes Interesse, Reichweite, Karenzentschädigung und Anrechnung und erstellt eine klare Bindungs- oder Freigabeposition. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.8. Rechtsschutz Fristen Form und Zuständigkeit
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.9. Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage
-
-Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.10. Rechtsschutz: Fristen, Form, Zuständigkeit und Rechtsweg
-
-Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.11. Verfügung: Beweislast, Darlegungslast und Substantiierung
-
-Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.12. Verletzungsklage: Sonderfall und Edge-Case-Prüfung
-
-Dieser Skill ist ein konkreter Fachbaustein für fachanwalt-gewerblicher-rechtsschutz. Ausgangspunkt ist: Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO Paragraf 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezüge. Markenanmeldung DPMA EUIPO. Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.13. Einstweilige Verfügung: Beweislast und Darlegungslast
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
-
-### 15.14. Verletzungsklage: Sonderfälle und Edge Cases
-
-Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail). Output: Ergebnisbaustein mit Risiko, Belegstelle und nächstem Schritt.
+Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf.. Verbinde den Punkt mit Aktenfund, Norm, Beweislast, Gegenposition und konkreter Rechtsfolge. Output: ausformulierter Ergebnisbaustein mit Belegstelle, Risiko und nächstem Schritt.
