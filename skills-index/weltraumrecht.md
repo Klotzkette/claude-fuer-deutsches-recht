@@ -1,6 +1,6 @@
 # weltraumrecht
 
-**181 Skills** · Stand `v436.0.0`
+**181 Skills** · Stand `v436.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../weltraumrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
+Wenn du das hier öffnest, willst du eine berufsrechtliche Frage der Anwaltschaft, des Notariats oder der prüfenden Berufe nach Pflicht, Aufsicht, Sanktion und sicherem Arbeitsprodukt ordnen.
 
 # Berufsgerichtliche Verfahren Freie Berufe — Schnellstart
 
@@ -10,60 +10,61 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welche Handlungsform liegt vor.
-2. Welche Klage- oder Antragsart ist statthaft.
-3. Welche formellen Fehler können geheilt werden und welche nicht.
-4. Engpass dieses Gebiets zuerst sichern: Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
-5. Beweislage ordnen: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
-6. Erstes Arbeitsprodukt liefern: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Welches Berufsgesetz und welche Satzungsnorm tragen den Vorwurf oder die Gestaltung.
+2. Ist die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor.
+3. Welche Kollisionsprüfung ist dokumentiert und wer hat wann geprüft.
+4. Engpass dieses Gebiets zuerst sichern: Eine Kammer- oder berufsgerichtliche Frist läuft oder eine Durchsuchung steht im Raum.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen.
 
 ## 3. Kernroute
 
-1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
-2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
-3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
-4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
-5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
+2. Pflichtenprüfung: Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten.
+3. Aufsichts- und Verfahrenslage: Kammerverfahren, Rüge, Missbilligung, berufsgerichtliches Verfahren und Parallelität zum Strafverfahren ordnen.
+4. Risikoabschätzung: Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten.
+5. Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
-| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
-| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Normenanker | BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46; BORA und FAO |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
+| Tatbestand | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verwaltungshandeln | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Rechtmäßigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Berufsgericht Beweisaufnahme: Präventions- und Organisationspaket | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Berufsträger und Pflichtenkreis | Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflichtenprüfung | Verschwiegenheit, Kollision, Fremdgeld, Werbung, Fortbildung und Aufsichtsanfragen getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsichts- und Verfahrenslage | Tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risikoabschätzung | Sanktionsrahmen, Registerfolgen, Versicherungsfragen und Mandatsauswirkungen bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
-- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
-- VwVfG Paragraf 28: Anhörung Beteiligter.
-- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
-- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- BRAO Paragraf 43a und Paragraf 43e: Grundpflichten, Verschwiegenheit und Inanspruchnahme von Dienstleistern.
+- BRAO Paragraf 45 und Paragraf 46: Tätigkeitsverbote und Syndikusrechtsanwälte.
+- BORA und FAO: Berufsordnung und Fachanwaltschaften als Satzungsrecht der Kammern.
+- BNotO Paragraf 14 und Paragraf 17: Amtspflichten und Gebührenbindung des Notars.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
-7.2. Normsatz: Den tragenden Anker VwVfG Paragraf 35; VwVfG Paragraf 28 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Verwaltungshandeln konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker BRAO Paragraf 43a und Paragraf 43e; BRAO Paragraf 45 und Paragraf 46 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Berufsträger und Pflichtenkreis konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei ist die verschwiegenheit betroffen und liegt eine tragfähige befreiung oder ausnahme vor an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen; Kollisionsvermerk: Beteiligte, frühere Mandate, Prüfweg, Ergebnis, Freigabe mit Datum und Zeichner. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn sofortvollzug oder vollstreckung steht unmittelbar bevor. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn eine kammer- oder berufsgerichtliche frist läuft oder eine durchsuchung steht im raum. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

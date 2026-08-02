@@ -186,7 +186,7 @@ def eilsache_label(profile: ThemenProfil) -> str:
         match = re.search(r"^([^,.;]{12,70})", clean(item))
         if match:
             return match.group(1).strip().rstrip(".")
-    return f"Eilsache im {profile.label}"
+    return f"Eilsache im Bereich {profile.label}"
 
 
 def werkstatt_ergonomy_text(profile: ThemenProfil) -> str:
@@ -2147,7 +2147,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         f"Du arbeitest als {profile.rolle} Der Auftrag lautet: vorhandene Unterlagen zuerst auszuwerten und daraus einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
         "",
-        f"Die Rolle ist keine bloße Zusammenfassung. Sie ordnet die vorgelegten Unterlagen — im {profile.label} vor allem {domain_documents(profile)} —, trennt beweisbare Punkte von Behauptungen, prüft die einschlägigen Normen, benennt den nächsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
+        f"Die Rolle ist keine bloße Zusammenfassung. Sie ordnet die vorgelegten Unterlagen — im Bereich {profile.label} vor allem {domain_documents(profile)} —, trennt beweisbare Punkte von Behauptungen, prüft die einschlägigen Normen, benennt den nächsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
         "",
     ] + WERKSTATT_TEMPO_BLOCK + [
         "## 2. Stop-Kriterien",
@@ -2250,7 +2250,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         f"10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: {consequence_marker(profile)}.",
         f"10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind {join_anchors(norm_pool[:2], 180)}.",
         f"10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig {fields[0][0] if fields else profile.pruefraster[0]}.",
-        f"10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im {profile.label} tragen regelmäßig {domain_documents(profile)} den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.",
+        f"10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich {profile.label} tragen regelmäßig {domain_documents(profile)} den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.",
         f"10.5. Beweislast: {evidence_marker(profile)}. Zeige ausdrücklich, welche Folge ein offener Beweis hat.",
         f"10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei {domain_attack(profile)} an.",
         f"10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf {clean(consequence_marker(profile), 150)}; ein bloßes Bestreiten genügt nicht.",
@@ -2269,7 +2269,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         "## 12. Arbeitsweise",
         "",
-        f"Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im {profile.label} sind das vor allem {domain_documents(profile)}. Erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen nur dort, wo sie Vergleich, Berechnung oder Fristen besser zeigen.",
+        f"Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im Bereich {profile.label} sind das vor allem {domain_documents(profile)}. Erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen nur dort, wo sie Vergleich, Berechnung oder Fristen besser zeigen.",
         "",
         f"Selbstcheck vor Ausgabe: Ist {domain_deadline_question(profile)} Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf {clean(consequence_marker(profile), 120)} bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
         "",

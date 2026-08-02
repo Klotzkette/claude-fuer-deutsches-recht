@@ -1,6 +1,6 @@
 # internal-investigations-praxis
 
-**110 Skills** · Stand `v436.0.0`
+**110 Skills** · Stand `v436.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../internal-investigations-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
