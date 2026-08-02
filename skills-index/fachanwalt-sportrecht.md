@@ -1,6 +1,6 @@
 # fachanwalt-sportrecht
 
-**79 Skills** · Stand `v435.1.0`
+**79 Skills** · Stand `v435.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-sportrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -37,7 +37,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-**Version:** 435.1.0
+**Version:** 435.1.1
 **Mandantin:** klôtzzkètté SA, Paris/Mailand — Haute-Couture-Label, Geschäftsführerin Comtesse Beatrice de Klotzzkettie
 **US-Tochter:** klôtzzkètté Inc., 712 Fifth Avenue, New York, NY 10019
 **Kanzlei DE:** Steinacker Lichtenberg, München (Boutique-IP-Kanzlei)
