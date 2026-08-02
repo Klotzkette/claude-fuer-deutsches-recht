@@ -46,5 +46,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_archivauskunft_flurstueck_184_7.docx`](12_archivauskunft_flurstueck_184_7.docx) | Archivauskunft mit konkreten Beständen und Fundstellen |
 | [`13_email_nachbarin_grenzzaun_und_nutzung.eml`](13_email_nachbarin_grenzzaun_und_nutzung.eml) | Zeitzeugenmail zur Nutzung und früheren Grenzlage |
 | [`14_archivfundstellen_flurstueck_184_7.csv`](14_archivfundstellen_flurstueck_184_7.csv) | Unbearbeitete Archivsignaturen und Randvermerke |
+| [`15_telefonvermerk_maessner_vermessung_2014.md`](15_telefonvermerk_maessner_vermessung_2014.md) | Telefonvermerk zu Holzpfosten, Grenzverhandlung 2014 und Treuhandordner im Keller |
+| [`16_chatverlauf_auenfeld_maass_juli_2026.txt`](16_chatverlauf_auenfeld_maass_juli_2026.txt) | Chatauszug der Mandantin mit Ingrid Maaß zu Abgabedatum, Foto 1985 und Gartenheft |
+| [`17_email_amt_offene_vermoegensfragen_2026-07-06.eml`](17_email_amt_offene_vermoegensfragen_2026-07-06.eml) | Behördenauskunft zur Antragskartei mit Hinweis auf nicht auffindbaren Vorgang Nr. 233 |
 
 <!-- END nachgereichte-originalunterlagen -->

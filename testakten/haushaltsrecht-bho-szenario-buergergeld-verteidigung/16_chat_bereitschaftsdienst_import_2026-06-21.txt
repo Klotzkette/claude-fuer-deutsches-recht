@@ -1,0 +1,19 @@
+Chat-Export Fachverfahren HHV-Bund, Kanal "Bereitschaft ZH2"
+Exportiert am 26.06.2026, 14:03 Uhr, durch s.maessler
+Zeitraum: 21.06.2026 - 22.06.2026
+
+[21.06.2026 22:21] bereitschaft01 (T. Grewe): Import KM_2026_05_v2.xml hängt bei 97%. Anzeige steht seit 3 Minuten.
+[21.06.2026 22:24] bereitschaft01 (T. Grewe): jetzt Timeout-Meldung. Kein Abschlussstatus im Protokoll.
+[21.06.2026 22:26] hotline_hhv (M. Okonkwo): Bekanntes Verhalten bei großen XML seit dem Release 4.2. Steht der Job noch in der Queue?
+[21.06.2026 22:31] bereitschaft01 (T. Grewe): Queue zeigt nichts mehr an. Mittelbindung seh ich auch nicht. Sieht für mich nach Abbruch aus.
+[21.06.2026 22:33] hotline_hhv (M. Okonkwo): Dann kannst du neu anstoßen. Vorher bitte Protokollauszug sichern.
+[21.06.2026 22:34] bereitschaft01 (T. Grewe): mach ich. Protokoll gesichert unter P-2026-1721. Starte aber erst nach Mitternacht neu, dann ist der Tagesabschluss durch.
+[22.06.2026 00:07] bereitschaft01 (T. Grewe): Import neu gestartet.
+[22.06.2026 00:19] bereitschaft01 (T. Grewe): durchgelaufen, Beleg L-2026-05-07-B, gebucht. Feierabend.
+[22.06.2026 08:52] hotline_hhv (M. Okonkwo): kurzer Nachtrag von der Frühschicht: der erste Lauf hat wohl doch gebucht, nur die Anzeige war weg. Bitte mal die Tagesliste vom 21. gegenprüfen.
+[22.06.2026 09:40] bereitschaft01 (T. Grewe): bin heute nicht im Haus, kann das erst Dienstag machen. Beleg A müsste dann L-2026-05-07-A sein??
+[22.06.2026 09:41] hotline_hhv (M. Okonkwo): vermutlich ja. Ticket 88413 ist offen, ich häng die Protokolle dran.
+[26.06.2026 11:47] s.maessler: Zur Info: Doppelbindung heute beim Tageslistenabgleich bestätigt, Beleg B um 11:42 storniert. Vermerk folgt. Bitte Ticket 88413 nicht schließen, der BRH will die Originalprotokolle sehen.
+[26.06.2026 11:52] hotline_hhv (M. Okonkwo): verstanden, Ticket bleibt offen.
+
+Ende des Exports
