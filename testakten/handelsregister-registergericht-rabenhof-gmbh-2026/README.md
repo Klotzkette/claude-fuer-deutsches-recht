@@ -57,5 +57,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_notariat_nachreichung_gesellschafterliste.docx`](12_notariat_nachreichung_gesellschafterliste.docx) | Notarielle Nachreichung zur konkret fehlerhaften Gesellschafterliste |
 | [`13_email_bank_zahlung_kapitalerhoehung.eml`](13_email_bank_zahlung_kapitalerhoehung.eml) | Bankmail zum tatsächlichen Zahlungseingang |
 | [`14_geschaeftsanteile_einreichungsstand_roh.csv`](14_geschaeftsanteile_einreichungsstand_roh.csv) | Unbereinigter und berichtigter Anteilsstand nebeneinander |
+| [`15_telefonvermerk_geschaeftsstelle_registergericht.md`](15_telefonvermerk_geschaeftsstelle_registergericht.md) | Telefonvermerk RAin Fendrich zum Sachstand nach der Nachreichung vom 4. Juni |
+| [`16_email_salomon_closing_fenster.eml`](16_email_salomon_closing_fenster.eml) | Investorin Dr. Salomon drängt wegen IC-Mandat und Closing-Fenster auf belastbare Aussage |
+| [`17_beanstandungen_nachreichung_status_roh.csv`](17_beanstandungen_nachreichung_status_roh.csv) | Statusliste der vier Beanstandungspunkte mit Nachreichungsdaten und offener Insolvenzgerichts-Bestätigung |
 
 <!-- END nachgereichte-originalunterlagen -->

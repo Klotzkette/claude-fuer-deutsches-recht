@@ -1,0 +1,8 @@
+﻿Datum;Position;Menge;Betrag_EUR;Beleg;Status;Bemerkung
+08.05.2026;Technische Freigabe Baltic Motion;1;0,00;Freigabevermerk QS 15:40 Uhr;erledigt;Freigabe durch F. Weiß
+11.05.2026;Gemeinsame Befundaufnahme Tor 6;1;1.850,00;interne Kostenstelle 4410;gebucht;Personal- und Kranaufwand
+12.05.2026;Bestellung Baltic Motion 4 Turbinenlager;4;61.600,00;BE-2026-0912;bestellt;Liefertermin 15.05. bestätigt
+12.05.2026;Expresszuschlag Kurier Baltic Motion;1;4.200,00;BE-2026-0912;bestellt;Anlieferung vor 10:00 Uhr
+13.05.2026;Umplanung Schichten Linie 2 KW 20;1;6.480,00;Schichtplan V3;vorläufig;Mehrarbeit Frühschicht
+15.05.2026;Planwert Stillstand Linie 2 je Produktionstag;1;78.000,00;Planrechnung Produktionssteuerung;Planwert;ersparte Energie- und Fremdkosten nicht abgezogen
+18.05.2026;Fehlmenge für Produktionslauf;2;offen;Materialauszug Linie 2;offen;Deckung durch Trocknung oder Nachbestellung ungeklärt

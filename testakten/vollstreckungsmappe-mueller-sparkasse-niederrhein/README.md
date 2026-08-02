@@ -64,7 +64,10 @@ vollstreckungsmappe-mueller-sparkasse-niederrhein/
 - 00_aktenuebersicht.md
 - 01_grundschuld_mueller/
 - 02_kontopfaendung_kuechen-mueller-gmbh/
+  - 04_drittschuldnererklaerung_postbank.md (Erklärung der Postbank nach Paragraf 840 ZPO mit P-Konto-Angaben und Handvermerk)
 - 03_kryptowallets_mueller/
+  - 05_gv_protokoll_ledger_termin_12_06_2026.md (Abschrift des GV-Protokolls zum Pfändungsversuch: Ledger verwahrt, PIN verweigert, Seed-Kapsel angeblich beim Bruder)
+- 04_email_lemm_an_boehringer_ratenangebot.eml (Sparkassen-Mail zu Ratenangebot Müller, Anruf der Ehefrau und Stand der Drittschuldnererklärungen)
 - originale/ (gescannte Schriftstuecke - in dieser Akte nur als Text beschrieben)
 - README.md
 ```

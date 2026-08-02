@@ -71,6 +71,15 @@ Alle Zeugnisse enthalten:
 - Schlussformel auf Vollständigkeit prüfen
 - Aus den Befunden eine Mandantenkommunikation, ein Berichtigungsverlangen oder eine Klagestrategie entwickeln
 
+## Weitere Aktenstücke zum Mandat Hagedorn (Az. 26-0618-A)
+
+| Datei | Inhalt |
+| --- | --- |
+| [`01-sachverhalt-und-offene-punkte.docx`](01-sachverhalt-und-offene-punkte.docx) | Mandatsaufnahme Wiebke Hagedorn: Zwischenzeugnis vom 29. Mai 2026, Auffälligkeiten, streitiger Hintergrund, offene Beschaffung |
+| [`12-email-nachforderung-originale.eml`](12-email-nachforderung-originale.eml) | Kanzleiinterne E-Mail zur Nachforderung der Originalunterlagen vor der Besprechung am 4. Juni 2026 |
+| [`13-email-weiterleitung-voss-intern.eml`](13-email-weiterleitung-voss-intern.eml) | Von der Mandantin weitergeleitete interne Nachricht des Filialleiters Voß vom 14. Februar 2024 zur Kassendifferenz von 74,30 Euro |
+| [`14-telefonvermerk-kruse-stellungnahme.md`](14-telefonvermerk-kruse-stellungnahme.md) | Telefonvermerk vom 12. Juni 2026: Arbeitgeber-Stellungnahme verschoben, Angaben von Frau Kruse zur Entstehung der gekürzten Zeugnisfassung |
+
 ## Technisches
 
 - Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen "...", Halbgeviertstrich und korrekt gesetzten Umlauten

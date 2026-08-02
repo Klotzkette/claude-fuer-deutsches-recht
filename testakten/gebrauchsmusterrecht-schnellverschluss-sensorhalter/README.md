@@ -48,5 +48,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_laborbuch_auszug_schnellverschluss_s14.docx`](12_laborbuch_auszug_schnellverschluss_s14.docx) | Laborbuchauszug mit Prototypen, Chargen und Fehlbeobachtungen |
 | [`13_email_konstrukteur_messefoto.eml`](13_email_konstrukteur_messefoto.eml) | Konstrukteursmail zur tatsächlichen Messevorführung |
 | [`14_pruefwerte_s14_prototypen.csv`](14_pruefwerte_s14_prototypen.csv) | Unbearbeitete Prüfwerte der Versuchsreihe |
+| [`15_telefonvermerk_haendleranfrage_nordsnap.md`](15_telefonvermerk_haendleranfrage_nordsnap.md) | Telefonvermerk der Kanzlei zum Testkauf des Wettbewerberprodukts MW-NordSnap |
+| [`16_email_vertrieb_kundenanfrage_nordsnap.eml`](16_email_vertrieb_kundenanfrage_nordsnap.eml) | Vertriebsmail zu einer Kundenanfrage mit Konkurrenzangebot von Messwerk Nord |
+| [`17_bestellungen_prototypenteile_chargen.csv`](17_bestellungen_prototypenteile_chargen.csv) | Bestell- und Chargenliste der Prototypenteile mit Lieferdaten |
 
 <!-- END nachgereichte-originalunterlagen -->

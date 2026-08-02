@@ -53,10 +53,12 @@ ki-recht-ki-vorfall-dsgvo-produkthaftung-lager-roboter-dortmund/
 ├── 09_haftungskorrespondenz_anwalt_2026-07-02.docx                 — Anwaltliches Aufforderungsschreiben an Betreiberin und Herstellerin
 ├── 10_herstellerantwort_haftung_automove_2026-07-03.docx           — Herstellerin verweist auf unterlassene Installation der Firmware 4.3
 ├── 11_normstand_vermerk_2026-07-04.docx                            — Rechtsstand über drei Ebenen, Omnibus-Vorbehalt, Verifikationsanordnung
+├── 12_zwischennachricht_bnetza_2026-07-10.md                       — Zwischennachricht der Marktüberwachungsbehörde mit Unterlagen-Nachforderung und Frist 31.07.2026
 ├── eml/
 │   ├── 2026-04-09_brinkschulte_an_rueggeberg_update43.eml          — Hersteller drängt dringend auf Installation der Firmware 4.3
 │   ├── 2026-04-11_rueggeberg_intern_update_verschieben.eml         — Betreiber verschiebt Update auf nach dem Peak; SiFa widerspricht
-│   └── 2026-06-26_wollenweber_an_leitung_widerspruch.eml           — SiFa widerspricht der Darstellung unvorhersehbar nach dem Unfall
+│   ├── 2026-06-26_wollenweber_an_leitung_widerspruch.eml           — SiFa widerspricht der Darstellung unvorhersehbar nach dem Unfall
+│   └── 2026-07-07_flexperson_an_nordlog_sachstand_wojcik.eml       — Verleiherin meldet AU-Zeiten Wójcik und fragt nach Gefährdungsbeurteilung und Unterlagen
 ├── chat/
 │   └── teams_chat_instandhaltung_rb07_2025-12_bis_2026-06.txt      — Chatverlauf der Instandhaltung mit drei Beinahe-Vorfällen und Update-Verschiebung
 ├── rubric.yaml                                                     — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

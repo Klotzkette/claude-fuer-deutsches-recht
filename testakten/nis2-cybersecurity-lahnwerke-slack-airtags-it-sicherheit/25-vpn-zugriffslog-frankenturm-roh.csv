@@ -1,0 +1,8 @@
+zeitpunkt;konto;quelle_ip;ziel_system;dauer_min;ticketnummer;bemerkung
+2026-04-14 09:12;svc-frankenturm;185.44.72.19;Pressenlinie P2 HMI;38;WART-2026-0412;geplante Wartung laut Auftrag
+2026-04-29 22:47;svc-frankenturm;185.44.72.23;Pressenlinie P2 SPS;112;;kein Ticket auffindbar
+2026-05-07 03:18;svc-frankenturm;185.44.72.23;Pressenlinie P2 SPS;74;;Login außerhalb Servicefenster, Anlass ungeklärt
+2026-05-07 03:19;svc-frankenturm;185.44.72.23;Dateiablage ENG-SHARE;9;;Zugriff auf Ordner Konstruktion, laut Berechtigungskonzept nicht vorgesehen
+2026-05-12 10:05;svc-frankenturm;185.44.72.19;Pressenlinie P2 HMI;41;WART-2026-0503;Firmwareupdate dokumentiert
+2026-05-23 16:44;svc-frankenturm;185.44.72.23;Pressenlinie P2 SPS;3;;Verbindungsaufbau, nach MFA-Umstellung abgebrochen
+2026-05-30 08:02;svc-frankenturm;185.44.72.19;Pressenlinie P2 HMI;27;WART-2026-0561;Abnahme mit Begleitung IT-Betrieb

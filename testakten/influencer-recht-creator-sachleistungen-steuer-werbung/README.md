@@ -40,6 +40,8 @@ Diese Akte gehört zu den Plugins `influencer-recht`, `steuerrecht-anwalt-und-be
 | `25_steuerberatung_unterlagenanforderung_q2_2026.docx` | Unterlagenanforderung der Steuerkanzlei mit konkreten Zahlungs- und Sachleistungsvorgängen |
 | `26_email_audiopeak_paid_media_freigabekette.eml` | Vollständige E-Mail-Kette zur Ausspielung des Reels als bezahlte Anzeige |
 | `27_glowgarden_rabattcode_bestellungen_roh.csv` | Einzelbestellungen mit Zeitstempeln, Retouren und Nutzungen nach dem geplanten Kampagnenende |
+| `28_messenger_export_aydin_freigabe.txt` | von Selin Aydin nachgereichter Chat-Export zur Aufnahme ihres Sohnes, ohne die Sprachnachricht vom Drehtag |
+| `29_telefonvermerk_medienanstalt_frist.md` | Vermerk der Agentur über das Telefonat mit der Medienanstalt zu Teilfristen und zum Rabattcode-Hinweis |
 | `gesamt-pdf/influencer-recht-creator-sachleistungen-steuer-werbung_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

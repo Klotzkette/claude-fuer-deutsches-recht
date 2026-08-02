@@ -53,5 +53,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`14_forderungsbestand_und_rechnungsfreigaben.docx`](14_forderungsbestand_und_rechnungsfreigaben.docx) | Finance-Bericht zum unveränderten Forderungs- und Freigabestand |
 | [`15_email_partner_rabattzusage.eml`](15_email_partner_rabattzusage.eml) | Partnermail zum tatsächlich zugesagten Rabattumfang |
 | [`16_offene_forderungen_systemexport_roh.csv`](16_offene_forderungen_systemexport_roh.csv) | Systemexport mit strittigen und technischen Positionen |
+| [`17_chat_export_associates_winter_bleibtreu.txt`](17_chat_export_associates_winter_bleibtreu.txt) | Messenger-Export der beiden belasteten Associates zu Auslastung, Headhunter-Kontakt und Stay Interviews |
+| [`18_telefonvermerk_maerkische_energie_forderung.md`](18_telefonvermerk_maerkische_energie_forderung.md) | Finance-Telefonat zur offenen Rechnung über 241.800 EUR mit Kostenstellen-Aufteilung und Zahlzusage |
 
 <!-- END nachgereichte-originalunterlagen -->

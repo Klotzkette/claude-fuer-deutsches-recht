@@ -39,6 +39,9 @@ Die Rosenwinkel Hausverwaltung GmbH verwaltet ein denkmalgeschütztes Wohn- und 
 | `10-lageplan-notiz.docx` | Lagebewertung, BGF/Wohnfläche-Aufmaß, Bodenrichtwert-Argumentation für Schriftsatz |
 | `11-erinnerung-mahnung-tabelle.csv` | Chronologie aller Bescheide, Fristen, Mahnstufen, Säumniszuschläge |
 | `12-bescheide-konvolut-grundsteuer-a-vs-b.docx` | Detailprüfung Grundsteuer A vs. B, nachträglich aufgetauchter Bescheid 2025, Kataster-Auszug |
+| `13-email-eigentuemerin-krachtburg-nachfrage.eml` | Aufgebrachte Eigentümerin des 2. OG fragt nach Flächenansatz, Umlage und Zahlungspflicht |
+| `14-telefonvermerk-stadtkasse-stundung.md` | Telefonat mit der Stadtkasse zu offener Rate Q2, Säumniszuschlägen und unvollständigem Stundungsantrag |
+| `15-mahnung-stadtkasse-q2-2026.md` | Abschrift der maschinellen Mahnung der Stadtkasse über 4.972,60 EUR mit Zahlungsfrist 20.07.2026 |
 
 ## Besonders passende Skills
 

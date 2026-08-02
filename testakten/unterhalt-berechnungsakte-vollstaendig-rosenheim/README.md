@@ -57,3 +57,5 @@ Die Akte enthält viele Zahlen, aber keine eingefrorene Musterlösung. Vor jeder
 | `csv/kinderkosten_2026.csv` | Mehrbedarf/Sonderbedarf |
 | `emails/2026-05-18_zahlenfreigabe_tobias_anwalt.eml` | Freigabe Einkommenszahlen |
 | `emails/2026-05-21_mira_fragt_varianten.eml` | Mandantin fragt Varianten |
+| `emails/2026-06-09_ra_tobias_dienstwagen_hauskonto.eml` | Gegneranwalt zu Dienstwagenvereinbarung, geänderter Hauskonto-Einzahlung und Unterhaltsabschlag ab Juni |
+| `csv/hauskonto_umsaetze_februar_juni_2026.csv` | Umsätze des gemeinsamen Hauskontos Februar bis Juni 2026 mit Darlehensrate, Abschlägen und Daueraufträgen |

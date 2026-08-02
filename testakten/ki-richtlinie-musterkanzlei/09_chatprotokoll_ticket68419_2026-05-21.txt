@@ -1,0 +1,17 @@
+Exportierter Chatverlauf - Kundenportal IT-Service Havel, Vorgang 68419
+Export erstellt am 21.05.2026, 16:02 Uhr, durch M. Schulte
+
+[21.05.26, 08:41] Miriam Schulte: Guten Morgen Herr Voss, ergänzend zu meiner Mail: Frau Rahmani sieht den Ordner Müller ./. Hansebau seit ca. 08:10. Zugang ist gesperrt. Bitte dringend Protokolle ziehen.
+[21.05.26, 08:44] Daniel Voss: Guten Morgen, habs gesehen. Kollege zieht gerade die Logs. Melde mich.
+[21.05.26, 09:32] Daniel Voss: Zwischenstand: Die Berechtigung wurde am 16.05. um 23:41 durch das Wartungsskript gesetzt, zusammen mit 3 weiteren Konten der Gruppe RG-Gesellschaftsrecht. Ein Dateiaufruf aus dem Ordner ist bis jetzt nicht im Log.
+[21.05.26, 09:35] Miriam Schulte: Welche 3 Konten? Das brauche ich für Frau Dr. König.
+[21.05.26, 09:41] Daniel Voss: schulte-m, mertens-j und das Sammelkonto bibliothek. Beim Sammelkonto können wir nicht sagen wer dahinter sitzt, das läuft ohne Personenzuordnung.
+[21.05.26, 09:43] Miriam Schulte: Das Sammelkonto schon wieder... Bitte auch sperren bis das geklärt ist.
+[21.05.26, 09:44] Daniel Voss: Sammelkonto sperren kann ich nur mit Freigabe von Hr. Brehm, das steht so in der Berechtigunsmatrix vom Februar.
+[21.05.26, 10:05] Miriam Schulte: Herr Brehm ist bis 13:30 nicht erreichbar. Frau Dr. König sitzt in einer Verhandlung.
+[21.05.26, 11:52] Daniel Voss: Ok, wir lassen es vorerst offen, aber loggen jeden Zugriff gesondert mit. Ist das ok so?
+[21.05.26, 15:36] Daniel Voss: Gruppenregel ist korrigiert, die Vorlage hatte den alten Mandatsordner noch drin. Frau Rahmani kann entsperrt werden. Schriftlicher Protokollauszug geht morgen per Mail an verwaltung@.
+[21.05.26, 15:49] Miriam Schulte: Danke. Entsperrung bitte erst nach Rücksprache mit Frau Dr. König, ich richte es aus.
+[21.05.26, 15:51] Daniel Voss: Alles klar. Noch was: die 90 Tage Protokollspeicherung laufen für den Zeitraum vor dem 22.02. bald ab, falls sie da noch was brauchen bitte bald melden.
+
+-- Ende des Exports --

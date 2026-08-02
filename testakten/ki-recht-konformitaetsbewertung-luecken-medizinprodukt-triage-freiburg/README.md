@@ -53,10 +53,12 @@ ki-recht-konformitaetsbewertung-luecken-medizinprodukt-triage-freiburg/
 ├── 11_entwurf_eu_konformitaetserklaerung_2026-05.docx                     — Entwurf behauptet vollständige Konformität und gleichwertige Leistung (Diskrepanz)
 ├── 12_vermerk_benannte_stelle_beanstandungen_2026-06.docx                 — Vier wesentliche Beanstandungen; widerlegt den Erklärungsentwurf
 ├── 13_normstand_vermerk_2026-07-01.docx                                   — Rechtsstand KI-Verordnung, Omnibus-Vorbehalt, Verifikationsanordnung
+├── 14_besprechungsnotiz_zeitplan_2026-02-16.md                            — Unvollständige Notiz der Montagsbesprechung zu Validierung, Doku-Formulierung und Zeitplan
 ├── eml/
 │   ├── 2026-02-10_kettler_an_sperling_subgruppe.eml                       — Warnung der Modellentwicklung: 71 Prozent bei über 80-Jährigen, Datenlage dünn
 │   ├── 2026-02-14_sperling_an_kettler_zeitplan.eml                        — Entscheidung, nur den Gesamtwert zu führen; Ursprung der Diskrepanz
-│   └── 2026-06-24_reinke_an_gf_nach_audit.eml                             — Nach dem Beanstandungsbericht: Umsteuern, Erklärung zurücknehmen
+│   ├── 2026-06-24_reinke_an_gf_nach_audit.eml                             — Nach dem Beanstandungsbericht: Umsteuern, Erklärung zurücknehmen
+│   └── 2026-06-26_halbach_fristen_nachaudit.eml                           — Fristen der benannten Stelle: Maßnahmenplan, Nachaudit-Termin, K5-Konvertierungsdoku
 ├── chat/
 │   └── teams_chat_entwicklung_triageassist_2026-02.txt                    — Teamchat zu Subgruppenproblem, fehlender Protokollierung und Aufsicht
 ├── rubric.yaml                                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
