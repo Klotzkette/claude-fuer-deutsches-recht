@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Urkundenfälschungs- und Betrugsverdacht um veränderte Arbeitsunfähigkeitsnachweise in einem ambulanten
   Pflegedienst mit Praxissoftware-Spuren und arbeitsrechtlichen Folgen.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 12_eau_datensatzauskunft_aok_2026-06-18.docx ist vorhanden.
+    path: 12_eau_datensatzauskunft_aok_2026-06-18.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

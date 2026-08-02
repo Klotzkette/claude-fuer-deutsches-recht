@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Betäubungsmittelverfahren nach A3-Kontrolle mit Kokainfund, Durchsuchung, DNA-Spuren, Handyforensik,
   Kurierwissen und Haftfrage.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_belehrungs_und_dolmetschervermerk_2026-06-09.docx ist vorhanden.
+    path: 13_belehrungs_und_dolmetschervermerk_2026-06-09.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

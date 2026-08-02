@@ -64,7 +64,7 @@ Mandatsbezug: Clara Wienholt, Geschädigte und Antragstellerin im Gewaltschutzve
 
 ```
 strafrecht-stalking-digitales-kontaktverbot-hannover/
-├── 01_mandatsnotiz_erstgespraech.docx                  Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `12_providerauskunft_rufnummern_und_sim_2026-07-02.docx` | Providerauskunft zu Rufnummern, SIM-Registrierung und Gerätekennungen |
 ├── 02_sachverhalt_chronologie.docx                     Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                    Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx           Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

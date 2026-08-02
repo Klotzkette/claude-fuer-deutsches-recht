@@ -65,7 +65,7 @@ Mandatsbezug: Rafael Montes, 31 Jahre, Fahrer eines Mietwagens
 
 ```
 strafrecht-btm-kokain-kurierfahrt-a3-koeln/
-├── 01_mandatsnotiz_erstgespraech.docx                                 — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_belehrungs_und_dolmetschervermerk_2026-06-09.docx` | Belehrungs- und Dolmetschervermerk der Nachtvernehmung |
 ├── 02_sachverhalt_chronologie.docx                                    — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                                   — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx                          — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

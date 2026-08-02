@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Untreueverfahren gegen einen Vereinsvorstand mit Kassenbuch, Sponsoringgeldern, Barabhebungen, Einziehungsfragen
   und zivilrechtlicher Rückforderung.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_kontoauszuege_vereinskonto_2025.csv ist vorhanden.
+    path: 13_kontoauszuege_vereinskonto_2025.csv
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
