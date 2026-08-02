@@ -65,7 +65,7 @@ Mandatsbezug: Jonas Peukert, 24 Jahre, Lagerist, Kontoinhaber
 
 ```
 strafrecht-cybercrime-phishing-bankzugang-leipzig/
-├── 01_mandatsnotiz_erstgespraech.docx                                    — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `17_atm_bildauswertung_2026-06-11.docx` | Auswertung der Geldautomatenaufzeichnungen mit Speicherfristen |
 ├── 02_sachverhalt_chronologie.docx                                       — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                                      — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx                             — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

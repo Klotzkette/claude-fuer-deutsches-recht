@@ -67,7 +67,7 @@ Mandatsbezug: Emir Yilmaz, 16 Jahre, Schüler der Stadtteilschule Kirchdorf
 
 ```
 strafrecht-jugendlicher-raub-schulhof-hamburg/
-├── 01_mandatsnotiz_erstgespraech.docx                                — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_chatauswertung_klassengruppe_2026-05-14.docx` | Auswertung der Nachrichtenverläufe aus der Klassengruppe |
 ├── 02_sachverhalt_chronologie.docx                                   — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                                  — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx                         — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

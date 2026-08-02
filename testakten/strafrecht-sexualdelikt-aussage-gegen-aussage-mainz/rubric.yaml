@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Sensible Sexualstrafsache aus Mainz mit Aussagekonstanz, Chatkontext, Nebenklage, Schutzinteressen
   und sachverständiger Aussageanalyse ohne Vorfestlegung.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_rechtsmedizinischer_befundbericht_2026-04-07.docx ist vorhanden.
+    path: 13_rechtsmedizinischer_befundbericht_2026-04-07.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

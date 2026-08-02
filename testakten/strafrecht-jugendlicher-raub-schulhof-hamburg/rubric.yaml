@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Jugendstrafsache nach einem Schulhofraub in Hamburg-Wilhelmsburg mit Cutter-Drohung, Handyortung, Jugendgerichtshilfe,
   Diversionsfrage und Pflichtverteidigung.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_chatauswertung_klassengruppe_2026-05-14.docx ist vorhanden.
+    path: 13_chatauswertung_klassengruppe_2026-05-14.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

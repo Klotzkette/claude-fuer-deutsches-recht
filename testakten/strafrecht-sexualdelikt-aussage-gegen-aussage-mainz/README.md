@@ -67,7 +67,7 @@ Mandatsbezug: Leonie Hartmann, Geschädigte und Nebenklageinteressentin
 
 ```
 strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/
-├── 01_mandatsnotiz_erstgespraech.docx                     Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_rechtsmedizinischer_befundbericht_2026-04-07.docx` | Rechtsmedizinischer Befundbericht mit Spurensicherung |
 ├── 02_sachverhalt_chronologie.docx                        Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                       Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx              Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen
