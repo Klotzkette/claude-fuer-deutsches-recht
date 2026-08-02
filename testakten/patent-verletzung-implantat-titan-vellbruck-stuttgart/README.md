@@ -142,6 +142,7 @@ Zusätzlicher FRAND-Konflikt mit US-Schwesterfirma Vellbruck MedTech Inc. wegen 
 | [`emails/2026-03-10_zoll_frankfurt_grenzbeschlagnahme_anzeige.eml`](emails/2026-03-10_zoll_frankfurt_grenzbeschlagnahme_anzeige.eml) | HZA Frankfurt: amtswegige Zuückhaltung 14 Titanschäfte aus China (Zhejiang MedTech) |
 | [`emails/2026-04-02_titanortho_an_kanzlei_settlement_proposal.eml`](emails/2026-04-02_titanortho_an_kanzlei_settlement_proposal.eml) | TitanOrtho (RA Kowalczyk, Wroclaw): Vergleichsangebot (2 % Lizenz, 180.000 EUR Schadensersatz) |
 | [`emails/2026-04-18_drostmann_zeugenvorladung.eml`](emails/2026-04-18_drostmann_zeugenvorladung.eml) | RA Dr. Karstens an RA Stierle (Bev. Drostmann): Zeugenvorladung GeschG-Verfahren, § 23 GeschG |
+| [`emails/2026-04-27_zoll_frankfurt_zweite_zurueckhaltung.eml`](emails/2026-04-27_zoll_frankfurt_zweite_zurueckhaltung.eml) | HZA Frankfurt: Bewilligung des Antrags auf Tätigwerden und Zurückhaltung weiterer 40 Titanschäfte, Frist zehn Arbeitstage |
 
 ---
 
