@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Ermittlungsakte zu häuslicher Gewalt in Dresden mit ärztlichem Befund, Nachbarzeugen, Kontaktverbot,
   Aussagekonstanz und Verteidigungs- wie Opferschutzperspektive.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_lichtbildmappe_verletzungsdokumentation_2026-06-04.docx ist vorhanden.
+    path: 13_lichtbildmappe_verletzungsdokumentation_2026-06-04.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

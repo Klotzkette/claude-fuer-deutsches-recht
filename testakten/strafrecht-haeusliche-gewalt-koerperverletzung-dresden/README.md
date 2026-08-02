@@ -65,7 +65,7 @@ Mandatsbezug: Marlene Krüger, Nebenklageinteressentin und Geschädigte
 
 ```
 strafrecht-haeusliche-gewalt-koerperverletzung-dresden/
-├── 01_mandatsnotiz_erstgespraech.docx                                — Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_lichtbildmappe_verletzungsdokumentation_2026-06-04.docx` | Lichtbildmappe mit Verletzungsdokumentation und Bodycam-Hinweis |
 ├── 02_sachverhalt_chronologie.docx                                   — ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                                  — Auszüge aus polizeilichen und staatsanwaltlichen Vermerken mit Beweismittelübersicht
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx                         — Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

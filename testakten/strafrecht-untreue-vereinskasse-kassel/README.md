@@ -68,7 +68,7 @@ Mandatsbezug: SV Nordpark Kassel e.V., vertreten durch die neue Vorsitzende Jutt
 
 ```
 strafrecht-untreue-vereinskasse-kassel/
-├── 01_mandatsnotiz_erstgespraech.docx                     Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_kontoauszuege_vereinskonto_2025.csv` | Kontoauszüge des Vereinskontos für das Jahr 2025 |
 ├── 02_sachverhalt_chronologie.docx                        Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                       Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx              Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

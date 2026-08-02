@@ -1,3 +1,13 @@
+# v435.2.0 - Fünfzehn weitere Testakten ohne Mandatsnotiz
+
+- Zusammenfassende Mandatsnotizen verraten in einer Prüfungssituation zu viel: Sie referieren den Sachverhalt, ordnen die Belege vor und nehmen die Bewertung teilweise vorweg. In fünfzehn weiteren Testakten sind sie jetzt durch die Primärbelege ersetzt, die sie bisher nur beschrieben haben.
+- Drei Kaufrechtsakten (Smartwatch Hannover, Pflegebett Nürnberg, Wallbox Essen) hatten nahezu wortgleiche Schablonennotizen, aber keinen Kaufbeleg. Ergänzt wurden Rechnung und Beratungsbogen mit der vereinbarten Beschaffenheit, Kaufvertrag mit den Bedingungen des Cloud-Dienstes sowie Angebot, Rechnung und Abnahmeprotokoll zur Wallbox. Damit liegen Kaufdatum, Beschaffenheitsvereinbarung und Verjährungsbeginn erstmals als Urkunde vor.
+- Zwölf Strafrechtsakten folgten einer gemeinsamen Notizschablone mit einer Zeile konkreter Sofortmaßnahmen. Die dort benannten, aber fehlenden Beweismittel sind jetzt vorhanden: Belehrungs- und Dolmetschervermerk der Nachtvernehmung, Lichtbildmappe zur Verletzungsdokumentation mit Bodycam-Löschfrist, Auskunft der Krankenkasse über gespeicherte eAU-Datensätze, Sicherstellungs- und Auswerteprotokoll zur Dashcam, Providerauskunft zu Rufnummern und SIM-Registrierung, Kontoauszüge des Vereinskontos, Brandursachengutachten, rechtsmedizinischer Befundbericht, Auswertung der Geldautomatenaufzeichnungen und Auswertung der Nachrichtenverläufe aus der Klassengruppe.
+- Die neuen Stücke enthalten Tatsachen, Zeitstempel, Speicherfristen und technische Einschränkungen, aber keine Bewertung und keinen Arbeitsauftrag. Rubriken und READMEs der betroffenen Akten wurden angepasst, die Prüfpunkte auf die neuen Primärbelege umgestellt.
+- Gesamt-PDFs der fünfzehn Akten neu gebaut. Validatoren grün (Eval 302 All-Pass, Dokumentqualität 53 Akten, Struktur, Marketplace). Versions-Bump auf v435.2.0.
+
+---
+
 # v435.1.1 - Formathinweise aus den Aktenstücken entfernt
 
 - Der Release-Lauf zu v435.1.0 scheiterte an der Dokumentqualitätsprüfung: Vier neue Aktenstücke der Freiburger Versorgungswerksakte trugen am Fuß die Zeile „Formathinweis: Dieses Aktenstück wird in Times New Roman, 11 pt, mit ausschließlich dezimaler Gliederung ausgegeben." Der Prüfer wertet diesen Satz zu Recht als verräterischen Metahinweis: In einem lebensechten Schreiben aus der Akte steht keine Anweisung an den Setzer.

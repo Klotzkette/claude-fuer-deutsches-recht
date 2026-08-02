@@ -37,7 +37,7 @@ Käuferin erwirbt eine Smartwatch mit EKG-Funktion, Sturzerkennung und Gesundhei
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
+| `16_kaufbeleg_und_garantiebedingungen.docx` | Rechnung, Beratungsbogen und Garantiebedingungen zur MediPulse Watch S3 |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |

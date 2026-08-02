@@ -1,6 +1,6 @@
 # aussenwirtschaft-zoll-sanktionen
 
-**125 Skills** · Stand `v435.1.1`
+**125 Skills** · Stand `v435.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../aussenwirtschaft-zoll-sanktionen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

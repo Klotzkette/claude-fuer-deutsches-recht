@@ -4,10 +4,6 @@ description: Revisionsakte nach Verurteilung vor dem Landgericht Duisburg mit Pr
   und Aufklaerungsruege; Kern ist der Abgleich der Hauptverhandlungs-Chronologie mit zwei Protokollfassungen zur
   Rekonstruktion des Verfahrensfehlers.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

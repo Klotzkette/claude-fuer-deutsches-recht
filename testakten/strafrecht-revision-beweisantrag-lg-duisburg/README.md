@@ -64,7 +64,6 @@ Mandatsbezug: Murat Candan, verurteilt wegen schweren Raubes
 
 ```
 strafrecht-revision-beweisantrag-lg-duisburg/
-├── 01_mandatsnotiz_erstgespraech.docx                  Erstkontakt, Rolle, Sofortfragen und Mandatsziel
 ├── 02_sachverhalt_chronologie.docx                     Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                    Auszüge aus Verfahrens- und Urteilsunterlagen
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx           Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

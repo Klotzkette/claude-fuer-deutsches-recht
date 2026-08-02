@@ -67,7 +67,7 @@ Mandatsbezug: Kemal Arslan, 29 Jahre, Kfz-Mechatroniker
 
 ```
 strafrecht-verkehrsunfall-alleinrennen-berlin/
-├── 01_mandatsnotiz_erstgespraech.docx                     Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `13_dashcam_sicherstellung_und_auswertevermerk_2026-05-28.docx` | Sicherstellungs- und Auswerteprotokoll zur Dashcam-Aufzeichnung |
 ├── 02_sachverhalt_chronologie.docx                        Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                       Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx              Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

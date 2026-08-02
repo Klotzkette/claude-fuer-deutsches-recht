@@ -4,10 +4,6 @@ description: Korruptionsakte aus einer kommunalen Vergabestelle mit drei Zuschla
   Einladungsvorteilen und einer als Beratungshonorar getarnten Zahlung; Kern ist der zeitliche Abgleich von Zuschlagsliste,
   Kalender und Kontobewegungen zur Ableitung der Unrechtsvereinbarung und der Vorteilssumme.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

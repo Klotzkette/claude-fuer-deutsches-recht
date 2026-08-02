@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Verkehrsstrafakte zu einem nächtlichen Alleinrennen in Berlin mit Dashcam, EDR-Daten, Unfallflucht,
   Führerscheinmaßnahme und Schadensgutachten.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_dashcam_sicherstellung_und_auswertevermerk_2026-05-28.docx ist vorhanden.
+    path: 13_dashcam_sicherstellung_und_auswertevermerk_2026-05-28.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

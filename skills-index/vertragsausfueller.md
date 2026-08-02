@@ -1,6 +1,6 @@
 # vertragsausfueller
 
-**61 Skills** · Stand `v435.1.1`
+**61 Skills** · Stand `v435.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../vertragsausfueller/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

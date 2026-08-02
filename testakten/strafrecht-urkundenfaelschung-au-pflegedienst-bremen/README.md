@@ -68,7 +68,7 @@ Mandatsbezug: Nadine Kroll, Pflegefachkraft im ambulanten Dienst
 
 ```
 strafrecht-urkundenfaelschung-au-pflegedienst-bremen/
-├── 01_mandatsnotiz_erstgespraech.docx                     Erstkontakt, Rolle, Sofortfragen und Mandatsziel
+| `12_eau_datensatzauskunft_aok_2026-06-18.docx` | Auskunft der Krankenkasse über die gespeicherten eAU-Datensätze |
 ├── 02_sachverhalt_chronologie.docx                        Ausformulierter Sachverhalt, Zeitachse und offene Widersprüche
 ├── 03_ermittlungsakte_auszuege.docx                       Auszüge aus polizeilichen und staatsanwaltlichen Vermerken
 ├── 04_beweismittel_und_arbeitsauftraege.xlsx              Beweismittelmatrix mit Belastungs- und Entlastungsrichtungen

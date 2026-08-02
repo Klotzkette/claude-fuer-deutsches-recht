@@ -4,10 +4,10 @@ description: Brandstiftungsakte mit Versicherungsmotiv, Brandsachverstaendigem, 
   ist das Minutenprotokoll der Brandnacht zur Ableitung des Legungsindizes sowie der Abgleich von Versicherungssumme
   und Inventarwert zur Ueberversicherung.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 13_brandursachengutachten_2026-06-12.docx ist vorhanden.
+    path: 13_brandursachengutachten_2026-06-12.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.

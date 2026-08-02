@@ -3,10 +3,10 @@ plugin: "fachanwalt-strafrecht"
 description: Cybercrime-Akte zu Phishing, Computerbetrug, Kontoleihe, IP-Spuren, TAN-Freigaben, Geldwäscheverdacht
   und digitaler Beweissicherung.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-neu-primaerbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Primaerbeleg 17_atm_bildauswertung_2026-06-11.docx ist vorhanden.
+    path: 17_atm_bildauswertung_2026-06-11.docx
   - id: datei-02-sachverhalt-chronologie
     check_type: file_exists
     description: Das Primäraktenstück 02_sachverhalt_chronologie.docx ist für die Fallauswertung vorhanden.
