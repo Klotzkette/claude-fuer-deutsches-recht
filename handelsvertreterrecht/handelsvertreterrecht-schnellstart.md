@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Wer ist aus welchem Grund Kaufmann und welche Registerlage ist veröffentlicht.
+2. Wer handelte mit welcher Vertretungsmacht und welcher Rechtsschein greift.
+3. Welcher HGB-Vertragstyp und welche Sonderregel verdrängen allgemeines BGB-Recht.
+4. Engpass dieses Gebiets zuerst sichern: Kaufmannsstatus oder Vertretungsmacht wird nur aus der Geschäftsbezeichnung abgeleitet.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Vertretung | Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geschäft | Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungsstörung | Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -62,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Status und Register konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei wer handelte mit welcher vertretungsmacht und welcher rechtsschein greift an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Status und Register, Vertretung, Geschäft, Leistungsstörung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn kaufmannsstatus oder vertretungsmacht wird nur aus der geschäftsbezeichnung abgeleitet. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

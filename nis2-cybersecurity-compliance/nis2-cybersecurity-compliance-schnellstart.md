@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Einrichtung und welcher Rechtsrahmen sind betroffen.
+2. Welche Maßnahme ist organisatorisch, technisch oder vertraglich geschuldet.
+3. Welche Frist läuft für Meldung, Kundeninformation oder Aufsicht.
+4. Engpass dieses Gebiets zuerst sichern: Incident-Frist oder Aufsichtsmeldung kann laufen.
+5. Beweislage ordnen: Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand.
+6. Erstes Arbeitsprodukt liefern: Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen.
 
 ## 3. Kernroute
 
@@ -60,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BSIG Paragraf 8a; BSIG Paragraf 8b auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Einrichtung und Scope konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche maßnahme ist organisatorisch, technisch oder vertraglich geschuldet an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Einrichtung und Scope, Risikomanagement, Incident, Aufsicht und Nachweis: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn incident-frist oder aufsichtsmeldung kann laufen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

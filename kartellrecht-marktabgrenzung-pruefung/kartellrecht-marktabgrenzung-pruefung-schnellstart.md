@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welcher Markt ist betroffen und welche Marktmacht ist belegbar.
+2. Welches Verhalten beschränkt Wettbewerb nach Zweck oder Wirkung.
+3. Welche Belege zeigen Kontakt, Daten, Preis, Strategie oder Umsetzung.
+4. Engpass dieses Gebiets zuerst sichern: Durchsuchung, Auskunftsverlangen oder Bußgeldfrist steht im Raum.
+5. Beweislage ordnen: Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen.
+6. Erstes Arbeitsprodukt liefern: Risikomemo, Abstellungszusage, Schadensmatrix, Klageentwurf oder Verteidigungslinie erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Verhalten | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtfertigung und Ausnahme | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schaden und Bußgeld | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition | Markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -62,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GWB Paragraf 1; GWB Paragraf 18 bis Paragraf 20 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Markt und Beteiligte konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welches verhalten beschränkt wettbewerb nach zweck oder wirkung an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Markt und Beteiligte, Verhalten, Rechtfertigung und Ausnahme, Schaden und Bußgeld: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn durchsuchung, auskunftsverlangen oder bußgeldfrist steht im raum. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

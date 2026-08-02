@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Fassung von Satzung, Code oder Wettkampfreglement galt beim Ereignis.
+2. Welche interne Instanz ist vor welchem staatlichen oder schiedsgerichtlichen Weg auszuschöpfen.
+3. Welche kurze Frist hängt an Zustellung, Wettkampf oder Saisonwechsel.
+4. Engpass dieses Gebiets zuerst sichern: Die anwendbare Regelfassung, Zustellung oder interne Rechtsmittelfrist ist nicht gesichert.
+5. Beweislage ordnen: Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung.
+6. Erstes Arbeitsprodukt liefern: Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 25 ff; BGB Paragraf 242 und Paragraf 315; ZPO Paragraf 1025, Paragraf 1032 und Paragraf 1059 |
 | Rechtsprechung | BVerfG, Beschluss vom 03.06.2022 - 1 BvR 2103/16; BAG, Urteil vom 16.01.2018 - 7 AZR 312/16 |
-| Tatbestand | Regelwerkfassung, Zustellung, internes Rechtsmittel, Gleichbehandlung, Verhältnismäßigkeit und Eilbedarf prüfen |
-| Beweislast | Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung |
-| Rechtsfolge | Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,8 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Dopingverfahren | Probe, Kette des Gewahrsams, Substanz, Verschuldensgrad, Sanktion, Rechtsmittel und Wettkampfkalender verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Athleten- und Trainervertrag | Befristung, Vergütung, Einsatz, Verletzung, Bildrechte, Freistellung und Beendigung redlinen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Transfer und Spielberechtigung | Registrierung, Transferfenster, Ausbildungsentschädigung, Freizügigkeit und vorläufige Teilnahme klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schiedsverfahren und Eilrechtsschutz | Schiedsklausel, interne Ausschöpfung, Frist, Panel, Öffentlichkeit, Antrag und Aufhebungskontrolle planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sponsoring und Vermarktung | Exklusivität, Moralklausel, Kennzeichnung, Verbandsrechte, Leistungsstörung und Exit-Szenario verhandeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 25 ff; BGB Paragraf 242 und Paragraf 315 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Verbandsentscheidung konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Verband oder Anspruchsteller für Regelwerk, Tatbestand, Zustellung und Maßnahme; Athlet oder Verein für Gegenbeleg, Fristwahrung, Eilbedarf und Einwendung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche interne instanz ist vor welchem staatlichen oder schiedsgerichtlichen weg auszuschöpfen an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Verbandsbeschwerde, Eilantrag, Schiedsschriftsatz, Vertragsredline, Spielberechtigungsantrag oder Sponsoringvermerk ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Sportfallkarte: Beteiligter, Regelwerkfassung, Entscheidung, Zustellung, interne Instanz, externe Instanz, Frist, Eilantrag und Beleg; Verbandsangriff: Satzungsgrundlage, Tatbestand, Verfahrensfehler, Gleichbehandlung, Verhältnismäßigkeit, Antrag und Sicherungsmaßnahme. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn die anwendbare regelfassung, zustellung oder interne rechtsmittelfrist ist nicht gesichert. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

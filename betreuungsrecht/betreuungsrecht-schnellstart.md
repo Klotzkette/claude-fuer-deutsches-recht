@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche konkrete Angelegenheit kann der Betroffene krankheitsbedingt nicht selbst besorgen.
+2. Welche Unterstützung oder Vollmacht macht eine Betreuung ganz oder teilweise entbehrlich.
+3. Welcher aktuelle Wunsch ist feststellbar und wie wird er dokumentiert.
+4. Engpass dieses Gebiets zuerst sichern: Akute Gesundheitsgefahr, Freiheitsentziehung oder Wohnungsverlust steht bevor; dann Eilweg und Genehmigung zuerst prüfen.
+5. Beweislage ordnen: Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen.
+6. Erstes Arbeitsprodukt liefern: Aufgabenmatrix: Angelegenheit, Unterstützungsbedarf, vorhandene Hilfe, Wunsch, Vertretungsbedarf, Genehmigung und nächster Schritt.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 1814 und Paragraf 1815; BGB Paragraf 1821; BGB Paragraf 1823 und Paragraf 1824 |
 | Rechtsprechung | BGH, Beschluss vom 06.07.2011 - XII ZB 80/11; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 |
-| Tatbestand | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen |
-| Beweislast | Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen |
-| Rechtsfolge | Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,8 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Erforderlichkeit und Aufgabenbereich | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Entscheidung und Genehmigung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechnungs- und Berichtswesen | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -54,7 +51,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 1821 Abs. 1 BGB — Wunschbindung auch in Vermögensfragen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1823 BGB — Vertretungsmacht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 1835 BGB — Aufwendungsersatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 1838 BGB — Vermögenssorge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -62,10 +58,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 1814 und Paragraf 1815; BGB Paragraf 1821 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Person und Verfahren konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche unterstützung oder vollmacht macht eine betreuung ganz oder teilweise entbehrlich an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Aufgabenmatrix: Angelegenheit, Unterstützungsbedarf, vorhandene Hilfe, Wunsch, Vertretungsbedarf, Genehmigung und nächster Schritt; Gerichtsantrag: Anlass, konkrete Gefahr oder Bedarf, Tatsachenbelege, beantragter Aufgabenbereich, mildere Mittel und Eilbedürftigkeit. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn akute gesundheitsgefahr, freiheitsentziehung oder wohnungsverlust steht bevor; dann eilweg und genehmigung zuerst prüfen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche einzelne Zahlung war autorisiert und welche nur technisch authentifiziert.
+2. Welche Handlung nahm der Zahler bei welcher Anzeige, Warnung und Gesprächssituation tatsächlich vor.
+3. Welche Protokolle beweisen Verfahren, dynamische Verknüpfung, Störungsfreiheit und konkrete Freigabe.
+4. Engpass dieses Gebiets zuerst sichern: Konto, Zugang, Karte oder Endgerät ist noch nicht gesperrt oder eine Rückholung noch möglich.
+5. Beweislage ordnen: Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch..
+6. Erstes Arbeitsprodukt liefern: Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 675j; BGB Paragraf 675l; BGB Paragraf 675u |
 | Rechtsprechung | BGH, Urteil vom 26.01.2016 - XI ZR 91/14; BGH, Urteil vom 22.07.2025 - XI ZR 107/24 |
-| Tatbestand | Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren |
-| Beweislast | Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret |
-| Rechtsfolge | Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,7 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Zahlungskette | jede Buchung nach Betrag, Empfänger, Zeitpunkt, Auftrag, Autorisierung, Gerät, TAN-Anzeige, Freigabeschritt und Rückholung einzeln erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Technischer Nachweis | Authentifizierungsprotokoll, Gerätebindung, IP- und Sitzungsdaten, dynamische Verknüpfung, Warntexte, Störung und Anomalieprüfung konkret anfordern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch und Gegenanspruch | Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke Kundenauthentifizierung und mögliche Anspruchskürzung getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
 
 ## 6. Anker
 
@@ -59,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 675j; BGB Paragraf 675l auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Sofortsicherung konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche handlung nahm der zahler bei welcher anzeige, warnung und gesprächssituation tatsächlich vor an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Zahlungsmatrix: Buchung, Autorisierung, Authentifizierung, Gerät, Anzeige, TAN oder Freigabe, Empfänger, Bankprotokoll, Einwendung und Rechtsfolge; Beleganforderung: Bitte übermitteln Sie bis [Datum] die vollständigen Authentifizierungs-, Sitzungs-, Geräte-, Warn- und Transaktionsprotokolle für [Buchung]. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn konto, zugang, karte oder endgerät ist noch nicht g

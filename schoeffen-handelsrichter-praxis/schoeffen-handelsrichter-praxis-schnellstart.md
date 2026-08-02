@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welcher Spruchkörper und welche gesetzliche Rolle gelten in der konkreten Verfahrensart.
+2. Besteht ein persönlicher, sachlicher oder medialer Vorbezug, der offenzulegen ist.
+3. Welche Tatsachenfrage darf in der Sitzung offen und nicht suggestiv geklärt werden.
+4. Engpass dieses Gebiets zuerst sichern: Befangenheitsanlass, eigene Vorbefassung oder Kontakt zu Beteiligten ist erkennbar; dann sofort gegenüber dem Vorsitz offenlegen.
+5. Beweislage ordnen: Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung.
+6. Erstes Arbeitsprodukt liefern: Sitzungsblatt: Rolle, Spruchkörper, Gegenstand, Besetzung, Beweisfragen, offene Punkte, Neutralitätshinweis und nächster Verfahrensschritt.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | GVG Paragraf 30; StPO Paragraf 24, Paragraf 30 und Paragraf 31; StPO Paragraf 240 Absatz 2 |
 | Rechtsprechung | BGH, Beschluss vom 02.02.2022 - 5 StR 153/21; BGH, Beschluss vom 14.10.2020 - 1 StR 616/19 |
-| Tatbestand | Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen |
-| Beweislast | Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung |
-| Rechtsfolge | Sitzungsblatt, offene Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,8 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Neutralität und Selbstanzeige | persönlichen oder sachlichen Vorbezug ohne eigene Vorentscheidung unverzüglich gegenüber dem Vorsitz offenlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweisaufnahme und Fragerecht | offene Tatsachenfrage, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt sitzungsbezogen notieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beratung und Mehrheit | Schuld-, Rechtsfolgen- und Nebenfrage trennen, gesetzliche Mehrheit bestimmen und abweichende Sicht sachlich einbringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Teilnahmefähigkeit | Müdigkeit, Hören, Sprache, Verständnis oder Unterbrechungsbedarf sofort anzeigen und verfahrensfest behandeln. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beratungsgeheimnis und Medien | Hauptverhandlungsöffentlichkeit, nichtöffentliche Beratung, Aktenwissen, Eigenrecherche und Medienkontakt strikt trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,10 +57,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GVG Paragraf 30; StPO Paragraf 24, Paragraf 30 und Paragraf 31 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Rolle und Besetzung konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Gericht sichert Besetzung und Verfahren; der ehrenamtliche Richter legt Neutralitätsrisiken offen und stützt Tatsachenfragen ausschließlich auf die Verhandlung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei besteht ein persönlicher, sachlicher oder medialer vorbezug, der offenzulegen ist an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Sitzungsblatt, offene Fragenliste, Neutralitätsvermerk, Beratungsstruktur oder Nachbereitungsnotiz ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Sitzungsblatt: Rolle, Spruchkörper, Gegenstand, Besetzung, Beweisfragen, offene Punkte, Neutralitätshinweis und nächster Verfahrensschritt; Fragenliste: Beweisthema, offene Frage, Erkenntnisziel, Anschlussfrage, unzulässige Vorannahme und Ergebnisnotiz. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn befangenheitsanlass, eigene vorbefassung oder kontakt zu beteiligten ist erkennbar; dann sofort gegenüber dem vorsitz offenlegen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

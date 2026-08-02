@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Unionsnorm gilt sachlich, persönlich, räumlich und zeitlich.
+2. Welche Wirkung entfaltet sie im Verhältnis Staat zu Bürger oder zwischen Privaten.
+3. Welche nationale Norm oder Maßnahme kollidiert damit und welche Rechtsfolge folgt daraus.
+4. Engpass dieses Gebiets zuerst sichern: Richtlinienbestimmung, Umsetzungsfrist oder Adressatenverhältnis ist unklar; dann keine unmittelbare Wirkung behaupten.
+5. Beweislage ordnen: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit.
+6. Erstes Arbeitsprodukt liefern: Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267; AEUV Artikel 18, Artikel 34 bis Artikel 36, Artikel 45, Artikel 49 |
 | Rechtsprechung | EuGH, Urteil vom 05.02.1963 - 26/62; EuGH, Urteil vom 15.07.1964 - 6/64 |
-| Tatbestand | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen |
-| Beweislast | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit |
-| Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,8 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Normwirkung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Materielle Prüfung | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtsschutz | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg | Unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -54,7 +51,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 263 AEUV — Nichtigkeitsklage; Fristen; Klagebefugnis privilegierter/nicht-privilegierter Klager; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 265 AEUV — Untaetigkeitsklage; Voraussetzungen: vorherige Aufforderung + 2 Monate Nichtreagieren; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 268 AEUV iVm Art. 340 AEUV — Amtshaftungsklage; hinreichend qualifizierter Rechtsverstoß; Schaden; Kausalität; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 267 AEUV — Vorabentscheidungsverfahren als indirekter Rechtsschutz-Weg für Private; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -62,10 +58,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker EUV Artikel 4 Absatz 3 und Artikel 5; EUV Artikel 19 und AEUV Artikel 267 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Unionsbezug konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche wirkung entfaltet sie im verhältnis staat zu bürger oder zwischen privaten an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Wirkungsmatrix: Unionsnorm, Rechtsakt, Bestimmtheit, Frist, Adressatenverhältnis, nationale Kollisionsnorm und Rechtsfolge; Grundfreiheitenprüfung: Schutzbereich, Beschränkung, Diskriminierung, Rechtfertigungsgrund, Geeignetheit, Erforderlichkeit und Angemessenheit. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn richtlinienbestimmung, umsetzungsfrist oder adressatenverhältnis ist unklar; dann keine unmittelbare wirkung behaupten. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

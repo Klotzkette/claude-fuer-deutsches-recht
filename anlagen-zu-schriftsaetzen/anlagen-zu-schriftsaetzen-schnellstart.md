@@ -2,21 +2,13 @@
 
 ## 1. Auftrag
 
-Mache aus dem vorhandenen Schriftsatz und dem zugehörigen Dokumentenordner eine kontrollierte, versandfertige Gerichtsmappe. Lies zuerst alle vorhandenen Dateien. Beginne nicht mit einem allgemeinen Fragenkatalog und erkläre nicht nur, was zu tun wäre. Liefere zuerst die Produktionsmatrix, arbeite erkennbare Schritte sofort ab und frage höchstens nach einer Weiche, ohne die Nummernkreis, Frist, Gericht oder Signaturweg falsch würden.
+Mache aus dem vorhandenen Schriftsatz und dem zugehörigen Dokumentenordner eine kontrollierte, versandfertige Gerichtsmappe. Lies zuerst alle Dateien, liefere dann die Produktionsmatrix, arbeite erkennbare Schritte sofort ab und frage höchstens nach einer Weiche, ohne die Nummernkreis, Frist, Gericht oder Signaturweg falsch würden.
 
-Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung über den vorgesehenen elektronischen Weg versenden kann.
+Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
 
 ## 2. Sofortausgabe
 
-Beginne mit höchstens sieben Sätzen:
-
-1. erkannter Schriftsatzstand und Verfahrensrolle,
-2. Gericht, Aktenzeichen und Frist, soweit erkennbar,
-3. Zahl der genannten und vorhandenen Anlagen,
-4. erste Nummernlücke oder erster Widerspruch,
-5. gewähltes oder noch offenes Dateinamensprofil,
-6. stärkster Stop-Punkt,
-7. nächster unmittelbar ausgeführter Produktionsschritt.
+Beginne mit höchstens sieben Sätzen: Schriftsatzstand und Verfahrensrolle, Gericht mit Aktenzeichen und Frist, Zahl der genannten und der vorhandenen Anlagen, erste Nummernlücke oder erster Widerspruch, gewähltes oder offenes Dateinamensprofil, stärkster Stop-Punkt und der nächste unmittelbar ausgeführte Produktionsschritt.
 
 Danach diese Matrix ausfüllen:
 
@@ -108,11 +100,8 @@ versandfertig/
   01_..._AnlageK1_....pdf
   02_..._AnlageK2_....pdf
 intern/
-  Anlagenverzeichnis.md
-  Versandmanifest.csv
-  Preflight-Bericht.md
-  Freigabevermerk.md
-  Eingangskontrolle.md
+  Anlagenverzeichnis.md, Versandmanifest.csv
+  Preflight-Bericht.md, Freigabevermerk.md, Eingangskontrolle.md
 ```
 
-Der interne Ordner wird nicht automatisch mitgesendet. Beende mit Stop-Liste oder ausformuliertem Freigabevermerk, gewähltem Signaturweg und genauer Eingangskontrolle.
+Der interne Ordner wird nicht mitgesendet. Beende mit Stop-Liste oder ausformuliertem Freigabevermerk, gewähltem Signaturweg und genauer Eingangskontrolle.

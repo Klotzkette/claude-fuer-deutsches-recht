@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Forderung ist aus welchem Vertrag fällig.
+2. Welche Belege tragen Leistung, Rechnung, Zugang und Verzug.
+3. Welche Einwendungen sind substantiiert und beweisbar.
+4. Engpass dieses Gebiets zuerst sichern: Verjährung, Ausschlussfrist oder Zuständigkeit ist unklar.
+5. Beweislage ordnen: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung.
+6. Erstes Arbeitsprodukt liefern: Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen.
 
 ## 3. Kernroute
 
@@ -55,11 +57,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 569 Abs. 3 BGB Sonderregel Wohnraum:; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 14 VOB/B (bei vereinbarter VOB/B): prüfbare Schlussrechnung mit Prüfungsfrist 30 Tage / 60 Tage bei öffentlichem Auftraggeber; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 8 VOB/B Kündigung Auftraggeber (jederzeit ohne Grund möglich); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11: Tatsachenvortrag ist schlüssig, wenn die behaupteten Tatsachen zusammen mit einem Rechtssatz den geltend gemachten Anspruch oder die Einwendung tragen; unnötige Einzeldetails darf das Gericht nicht verlangen.
-- BGH, Urteil vom 04.05.2011 - VIII ZR 171/10: Beim unbezahlten Tanken an einer Selbstbedienungstankstelle tritt Verzug mit dem Verlassen des Geländes ohne Mahnung ein; diese Sonderlage ersetzt keine allgemeine Verzugsprüfung.
-- BGH VIII ZR 261/06 Schonfrist ord. Kündigung bundesgerichtshof.de.
-- BGH VII ZR 162/00 VOB/B AGB bundesgerichtshof.de.
-- EuGH C-377/17 HOAI curia.europa.eu.
 
 ## 7. Antwortform
 
@@ -67,10 +64,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Aktenkern konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche belege tragen leistung, rechnung, zugang und verzug an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Aktenkern, Anspruch, Einwendungen, Prozess und Titel: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn verjährung, ausschlussfrist oder zuständigkeit ist unklar. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Ist der Beteiligte Verpflichteter und welche Sorgfaltspflicht gilt.
+2. Welche Identitäts- und Eigentumskettenbelege fehlen.
+3. Welche Tatsache begründet nur erhöhtes Risiko und welche bereits Verdacht.
+4. Engpass dieses Gebiets zuerst sichern: Verdachtsmeldung, Transaktionsstopp oder Tipping-off-Risiko steht im Raum.
+5. Beweislage ordnen: Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion.
+6. Erstes Arbeitsprodukt liefern: KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Risikoanalyse und KYC | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Monitoring und Meldung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Transparenzregister | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -55,8 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 2 GwG (Verpflichtete); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 3 GwG (Wirtschaftlich Berechtigte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 5-8 GwG (Risikoanalyse, Risikomanagement, interne Sicherungsmaßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 26.06.2007 - C-305/05: Ordre des barreaux begrenzt und bestätigt Geldwäschemeldepflichten im Lichte anwaltlicher Berufsausübung.
-- EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20: Öffentlicher Zugriff auf Transparenzregisterdaten wirtschaftlich Berechtigter bedarf strenger Grundrechtsbegrenzung.
 
 ## 7. Antwortform
 
@@ -64,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GwG Paragraf 2; GwG Paragraf 5 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Verpflichteter und Produkt konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche identitäts- und eigentumskettenbelege fehlen an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Verpflichteter und Produkt, Risikoanalyse und KYC, Monitoring und Meldung, Transparenzregister: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn verdachtsmeldung, transaktionsstopp oder tipping-off-risiko steht im raum. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
