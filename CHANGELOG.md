@@ -1,3 +1,11 @@
+# v435.1.1 - Formathinweise aus den Aktenstücken entfernt
+
+- Der Release-Lauf zu v435.1.0 scheiterte an der Dokumentqualitätsprüfung: Vier neue Aktenstücke der Freiburger Versorgungswerksakte trugen am Fuß die Zeile „Formathinweis: Dieses Aktenstück wird in Times New Roman, 11 pt, mit ausschließlich dezimaler Gliederung ausgegeben." Der Prüfer wertet diesen Satz zu Recht als verräterischen Metahinweis: In einem lebensechten Schreiben aus der Akte steht keine Anweisung an den Setzer.
+- Die Zeile wurde aus allen 49 betroffenen DOCX-Aktenstücken entfernt, also auch aus älteren Beständen in Datenschutz-, KI-Recht- und HOAI-Akten. Das Hausformat selbst bleibt unverändert: Times New Roman 11 pt, A4, dezimale Gliederung sind im Dokument gesetzt und müssen nicht im Text behauptet werden.
+- Gesamt-PDFs der neun betroffenen Akten neu gebaut. Dokumentqualität, Eval und die übrigen Validatoren grün. Versions-Bump auf v435.1.1.
+
+---
+
 # v435.1.0 - Gebietsspezifische Prompts, Briefköpfe in den Aktenstücken, erste Akten ohne Mandatsnotiz
 
 - **Werkstatt-Prompts entgenerisiert.** Die grossen Prompts waren zu weiten Teilen austauschbare Hülle: 45 Prozent der Substanzzeilen standen wortgleich in mindestens der Hälfte aller 220 Plugins. Der Generator leitet die Ausgabeformate, die Rückfragenbremse, die Mini-Gerüste, das Argumentationsgerüst, die Arbeitsweise, den Selbstcheck und die Qualitätskontrolle jetzt aus den Profildaten des jeweiligen Rechtsgebiets ab (Prüfraster, Stop-Kriterien, Stationen, Skelette, Beweislast- und Rechtsfolgemerker) und ergänzt gebietstypische Dokumenttypen, Angriffspunkte der Gegenseite und Fristfragen. Der Anteil geteilter Inhaltszeilen sank auf 17 Prozent; gemeinsam bleiben nur Arbeitsmodus, Quellendisziplin, Abbruchkriterien und Formatvorgaben.

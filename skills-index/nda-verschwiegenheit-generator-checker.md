@@ -1,6 +1,6 @@
 # nda-verschwiegenheit-generator-checker
 
-**102 Skills** · Stand `v435.1.0`
+**102 Skills** · Stand `v435.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../nda-verschwiegenheit-generator-checker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

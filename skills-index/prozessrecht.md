@@ -1,6 +1,6 @@
 # prozessrecht
 
-**66 Skills** · Stand `v435.1.0`
+**66 Skills** · Stand `v435.1.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../prozessrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
