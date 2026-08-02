@@ -1,6 +1,6 @@
 # ki-richtlinie-kanzleien
 
-**60 Skills** · Stand `v435.2.0`
+**60 Skills** · Stand `v436.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-richtlinie-kanzleien/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

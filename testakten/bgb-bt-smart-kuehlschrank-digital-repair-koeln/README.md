@@ -51,7 +51,6 @@ Nach einem OTA-Update im Februar 2026 fällt erst das Eiswürfelmodul aus, spät
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch, Fristen, Ziel der Käuferin |
 | `02_bestellung_rechnung_agb.docx` | Bestellung, Rechnung, AGB-Auszug, Garantieversprechen |
 | `03_produktbeschreibung_vestacool_fr900.docx` | Funktionen, digitale Elemente, Werbeaussagen |
 | `04_update_timeline_firmware_app.docx` | Firmware-/App-Timeline und Warnmeldungen |

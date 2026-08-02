@@ -1,6 +1,6 @@
 # parteienrecht-parteiorganisation
 
-**111 Skills** · Stand `v435.2.0`
+**111 Skills** · Stand `v436.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../parteienrecht-parteiorganisation/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
