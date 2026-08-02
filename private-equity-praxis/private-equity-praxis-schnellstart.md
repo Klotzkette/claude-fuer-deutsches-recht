@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Maßnahme rechtssicher beschließen und dokumentieren.
+Wenn du das hier öffnest, willst du eine Transaktion vom Term Sheet bis zum Vollzug nach Struktur, Due Diligence, Garantien, Vollzugsbedingungen und Zeitplan ordnen.
 
 # Private Equity Praxis — Schnellstart
 
@@ -10,49 +10,48 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welche Gesellschaftsform und welche Rechtsquelle bestimmen den Fall.
-2. Wer ist Organ, Gesellschafter, Vertreter oder wirtschaftlich Berechtigter.
-3. Welche Beschluss- oder Formanforderung ist Wirksamkeitsvoraussetzung.
-4. Engpass dieses Gebiets zuerst sichern: Notarielle Form oder Registerfrist ist ungeklärt.
-5. Beweislage ordnen: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment.
-6. Erstes Arbeitsprodukt liefern: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+1. Welche Struktur minimiert Haftung, Steuerlast und Vollzugsrisiken für die Mandantenseite.
+2. Welche DD-Befunde tragen eine Garantie, welche eine Freistellung, welche einen Preisabschlag.
+3. Welche Vollzugsbedingungen sind zwingend und wer trägt das Freigaberisiko.
+4. Engpass dieses Gebiets zuerst sichern: Exklusivität, Angebotsfrist oder Vollzugsdatum läuft in unter zwei Wochen ab.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung.
 
 ## 3. Kernroute
 
-1. Gesellschaftsform, Registerlage, Beteiligungen und Organe feststellen.
-2. Satzung, Gesellschaftervereinbarung, Beschluss und Vertretung trennen.
-3. Organpflichten, Treuepflichten, Zustimmungserfordernisse und Haftung prüfen.
-4. Transaktionsschritte, Notarform, Closing-Bedingungen und Registervollzug planen.
-5. Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragungsvertrag oder Klageentwurf erstellen.
+1. Struktur und Beteiligte: Share oder Asset Deal, Erwerbsvehikel, Kapitalstruktur und Gremienvorbehalte feststellen.
+2. Due Diligence: Befunde nach Deal-Breaker, Garantiethema, Freistellungsthema und Kaufpreisfaktor ordnen.
+3. Vertragsarchitektur: Kaufgegenstand, Kaufpreisformel, Garantien, Freistellungen, Covenants und Haftungsgrenzen anlegen.
+4. Vollzug: Bedingungen, Freigaben, Finanzierungssicherheit und Closing-Mechanik mit Zeitplan sichern.
+5. Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremienvorlage oder Wandeldarlehensvertrag ausformulieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | BGB Paragraf 705; HGB Paragraf 105; GmbHG Paragraf 13 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen |
-| Beweislast | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment |
-| Rechtsfolge | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich |
+| Normenanker | BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15; BGB Paragraf 311 Absatz 2 und Paragraf 280 |
+| Rechtsprechung | BGH, Urteil vom 29.01.2001 - II ZR 331/00; BGH, Urteil vom 21.04.1997 - II ZR 175/95 |
+| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Gesellschaftsform, Registerlage | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Satzung, Gesellschaftervereinbarung | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Organpflichten, Treuepflichten | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transaktionsschritte, Notarform | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Add-on-Akquisition im Portfolio | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Struktur und Beteiligte | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Due Diligence | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragsarchitektur | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzug | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
-- BGB Paragraf 705: Gesellschaftsvertrag der Gesellschaft bürgerlichen Rechts.
-- HGB Paragraf 105: offene Handelsgesellschaft.
-- GmbHG Paragraf 13: Rechtsnatur der GmbH.
-- GmbHG Paragraf 15: Übertragung von Geschäftsanteilen.
+- BGB Paragraf 433 und Paragraf 453: Kauf von Rechten und sonstigen Gegenständen als Grundlage des Share Deal.
+- GmbHG Paragraf 15: Form der Abtretung von Geschäftsanteilen.
+- BGB Paragraf 311 Absatz 2 und Paragraf 280: vorvertragliche Pflichten und Haftung im Verhandlungsstadium.
+- AktG Paragraf 93 und GmbHG Paragraf 43: Organpflichten bei Transaktionsentscheidungen.
 - BGB-Gesellschaftsrecht, GmbHG, HGB-Personengesellschaftsrecht (insb. Paragrafen 161 ff. HGB Kommanditgesellschaft), KAGB-Begriffe (Paragraf 1 KAGB AIF-Definition, Paragraf 1 Abs; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 161 ff. HGB Kommanditgesellschaft; Paragrafen 705 ff. BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 18 Abs. 1 Nr. 4 EStG, Paragraf 3 Nr. 40a EStG zur Carry-Besteuerung in Personengesellschaft; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -60,14 +59,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-7.2. Normsatz: Den tragenden Anker BGB Paragraf 705; HGB Paragraf 105 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Gesellschaftsform, Registerlage konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Gesellschaftsform, Registerlage, Satzung, Gesellschaftervereinbarung, Organpflichten, Treuepflichten, Transaktionsschritte, Notarform: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15 auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Struktur und Beteiligte konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche dd-befunde tragen eine garantie, welche eine freistellung, welche einen preisabschlag an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Garantiekatalog-Zeile: Thema, Garantietext, Wissensqualifikation, Haftungsgrenze, Verjährung; Gremienvorlage: Transaktion, Struktur, Chancen, Risiken, Bedingungen, Beschlussvorschlag. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn notarielle form oder registerfrist ist ungeklärt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn exklusivität, angebotsfrist oder vollzugsdatum läuft in unter zwei wochen ab. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

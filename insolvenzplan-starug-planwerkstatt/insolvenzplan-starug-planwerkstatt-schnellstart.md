@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
+Wenn du das hier öffnest, willst du eine Unternehmenskrise vor der Insolvenz ordnen: Früherkennung, Fortbestehensprognose, StaRUG-Instrumente und Planarchitektur.
 
 # Insolvenzplan StaRUG Planwerkstatt — Schnellstart
 
@@ -10,48 +10,48 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Liegt Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit oder Überschuldung vor.
-2. Welche Frist oder Pflicht trifft welche Person.
-3. Welche Zahlung oder Sicherheit ist anfechtbar.
-4. Engpass dieses Gebiets zuerst sichern: Insolvenzantragspflicht kann laufen.
-5. Beweislage ordnen: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation.
-6. Erstes Arbeitsprodukt liefern: Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+1. Liegt Insolvenzreife vor oder droht sie nur, und ab wann lief die Antragsfrist.
+2. Tragen Planungsrechnung und Prämissen die Fortbestehensprognose.
+3. Welches Instrument erreicht das Sanierungsziel mit dem geringsten Eingriff.
+4. Engpass dieses Gebiets zuerst sichern: Zahlungsunfähigkeit ist eingetreten; Antragsfrist läuft, keine Zahlungen ohne Prüfung.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation.
 
 ## 3. Kernroute
 
-1. Krise feststellen: Liquiditätsstatus, Fälligkeiten, Fortbestehensprognose und Zahlungsstockung trennen.
-2. Pflichten zuordnen: Geschäftsleitung, Gläubiger, Berater, Insolvenzgericht und Verwalterrolle klären.
-3. Antrag und Sicherung: Insolvenzantrag, vorläufige Maßnahmen, Masseerhalt und Kommunikation vorbereiten.
-4. Forderung und Tabelle: Anmeldung, Bestreiten, Feststellung, Sicherheiten und Aussonderung aufbereiten.
-5. Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteiligung, Sanierungsvergleich und Planlogik prüfen.
+1. Krisenstadium: Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen.
+2. Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
+3. Instrumentenwahl: freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen.
+4. Planarchitektur: Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen.
+5. Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | InsO Paragraf 17; InsO Paragraf 18; InsO Paragraf 19 |
+| Normenanker | StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b; InsO Paragraf 17 bis Paragraf 19 |
 | Rechtsprechung | BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16 |
 | Tatbestand | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen |
-| Beweislast | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation |
-| Rechtsfolge | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Krise feststellen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflichten zuordnen | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Antrag und Sicherung | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forderung und Tabelle | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krisenstadium | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prognose | Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Instrumentenwahl | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Planarchitektur | Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker
 
-- InsO Paragraf 17: Zahlungsunfähigkeit.
-- InsO Paragraf 18: drohende Zahlungsunfähigkeit.
-- InsO Paragraf 19: Überschuldung.
-- InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
+- StaRUG Paragraf 1: Krisenfrüherkennung und Krisenmanagement als Organpflicht.
+- InsO Paragraf 15a und Paragraf 15b: Antragspflicht und Zahlungen nach Insolvenzreife.
+- InsO Paragraf 17 bis Paragraf 19: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung mit Fortbestehensprognose.
+- StaRUG Paragraf 29 ff.: Instrumente des Stabilisierungs- und Restrukturierungsrahmens.
 - Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -59,14 +59,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt.
-7.2. Normsatz: Den tragenden Anker InsO Paragraf 17; InsO Paragraf 18 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Krise feststellen konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Krise feststellen, Pflichten zuordnen, Antrag und Sicherung, Forderung und Tabelle: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Krisenstadium konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei tragen planungsrechnung und prämissen die fortbestehensprognose an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation; Planbaustein: Gruppe, Eingriff, Begründung, Vergleichsrechnung, Abstimmungsergebnis. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn insolvenzantragspflicht kann laufen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn zahlungsunfähigkeit ist eingetreten; antragsfrist läuft, keine zahlungen ohne prüfung. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

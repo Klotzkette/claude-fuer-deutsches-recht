@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
+Wenn du das hier öffnest, willst du ein Verfahren gegenüber einer Regulierungs- oder Wirtschaftsaufsichtsbehörde nach Zuständigkeit, Eingriffsgrundlage, Verfahrensrechten und Antwortstrategie ordnen.
 
 # Regulatorisches Recht — Schnellstart
 
@@ -10,49 +10,49 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welche Handlungsform liegt vor.
-2. Welche Klage- oder Antragsart ist statthaft.
-3. Welche formellen Fehler können geheilt werden und welche nicht.
-4. Engpass dieses Gebiets zuerst sichern: Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
-5. Beweislage ordnen: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
-6. Erstes Arbeitsprodukt liefern: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Welche Eingriffs- oder Anspruchsgrundlage trägt das Verlangen und deckt sie den Umfang.
+2. Welche Geschäftsgeheimnisse sind betroffen und wie werden sie geschützt.
+3. Welche Frist läuft und ist eine Verlängerung beantragt.
+4. Engpass dieses Gebiets zuerst sichern: Ein Auskunfts- oder Anhörungstermin läuft in unter zwei Wochen ab.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte.
 
 ## 3. Kernroute
 
-1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
-2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
-3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
-4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
-5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen.
+2. Eingriffsgrundlage: Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen.
+3. Verfahrensrechte: Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern.
+4. Antwortstrategie: Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen.
+5. Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
-| Rechtsprechung | EuGH, Urt. v. 13.02.2025; EuGH, Urt. v. 02.12.2025 |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
-| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
-| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Normenanker | EnWG; TKG; GewO Paragraf 35 |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
+| Tatbestand | zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verwaltungshandeln | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Rechtmäßigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behörde und Verfahren | zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eingriffsgrundlage | Auskunftsverlangen, Festlegung, Untersagung oder Missbrauchsverfügung mit Norm und Reichweite prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrensrechte | Anhörung, Akteneinsicht, Geheimnisschutz und Fristverlängerung sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Antwortstrategie | Umfang der Auskunft, Schwärzungen, Teillieferung und Schutzschriften abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | DORA-IKT-Vertragsprüfung | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
-- VwVfG Paragraf 28: Anhörung Beteiligter.
-- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
-- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- EnWG: Netzzugang, Entgeltregulierung, Missbrauchsaufsicht und Festlegungen der Bundesnetzagentur.
+- TKG: Marktregulierung, Frequenz- und Nummernverwaltung, Kundenschutz.
+- GewO Paragraf 35: Gewerbeuntersagung bei Unzuverlässigkeit.
+- IFG und Landespressegesetze: Informationszugang und Auskunftsansprüche gegenüber Behörden.
 - DORA-Verordnung: VO (EU) 2022/2554 v. 14.12.2022, ABl. L 333/1; Geltungsbeginn 17.01.2025 (Art. 64 II); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 28 DORA – allgemeine Grundsätze für Vertragsvereinbarungen mit IKT-Drittdienstleistern; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 29 DORA – Vorabbewertung des IKT-Konzentrationsrisikos; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
@@ -60,14 +60,14 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
-7.2. Normsatz: Den tragenden Anker VwVfG Paragraf 35; VwVfG Paragraf 28 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Verwaltungshandeln konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker EnWG; TKG auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Behörde und Verfahren konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche geschäftsgeheimnisse sind betroffen und wie werden sie geschützt an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Auskunftsantwort: Verlangen, Rechtsgrundlagenprüfung, gelieferte Daten, Schwärzungen mit Begründung, Vorbehalte; Stellungnahme: Sachverhalt, Eingriffsgrundlage, Verhältnismäßigkeit, Zusagenangebot, Anträge. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn sofortvollzug oder vollstreckung steht unmittelbar bevor. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn ein auskunfts- oder anhörungstermin läuft in unter zwei wochen ab. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

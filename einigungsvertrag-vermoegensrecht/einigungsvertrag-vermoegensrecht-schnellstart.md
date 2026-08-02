@@ -1,4 +1,4 @@
-Wenn du das hier öffnest, willst du einen Verwaltungsakt anfechten und vorläufigen Rechtsschutz erreichen.
+Wenn du das hier öffnest, willst du eine Norm, eine Verwaltungsvorschrift, einen Haushaltsvorgang oder eine Berichtspflicht sauber herleiten, prüfen oder entbürokratisieren.
 
 # Einigungsvertrag Vermögensrecht — Schnellstart
 
@@ -10,60 +10,62 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Welche Handlungsform liegt vor.
-2. Welche Klage- oder Antragsart ist statthaft.
-3. Welche formellen Fehler können geheilt werden und welche nicht.
-4. Engpass dieses Gebiets zuerst sichern: Sofortvollzug oder Vollstreckung steht unmittelbar bevor.
-5. Beweislage ordnen: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit.
-6. Erstes Arbeitsprodukt liefern: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Trägt die Ermächtigungsgrundlage Inhalt, Zweck und Ausmaß der Regelung.
+2. Sind Zuständigkeit und Verfahren der normsetzenden Stelle gewahrt.
+3. Welcher Erfüllungsaufwand entsteht und welche Pflicht lässt sich streichen oder pauschalieren.
+4. Engpass dieses Gebiets zuerst sichern: Die Ermächtigungsgrundlage ist zweifelhaft; ohne sie keine Verordnung und keine Satzung.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Normgerüst: Eingangsformel, Regelungsteil, Ordnungswidrigkeiten, Übergangsrecht, Inkrafttreten, Begründung.
 
 ## 3. Kernroute
 
-1. Verwaltungshandeln: Verwaltungsakt, Realakt, Satzung, Nebenbestimmung oder Vollstreckung erkennen.
-2. Zulässigkeit: Statthafte Klageart, Klagebefugnis, Vorverfahren, Frist und Gericht bestimmen.
-3. Materielle Rechtmäßigkeit: Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit prüfen.
-4. Eilrechtsschutz: aufschiebende Wirkung, Vollziehungsinteresse, Folgenabwägung und Sicherungsanordnung strukturieren.
-5. Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Bescheidprüfung oder Vergleichsvorschlag erstellen.
+1. Normvorhaben oder Vorgang: Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen.
+2. Rechtsförmlichkeit: Aufbau, Eingangsformel, Zitiergebot, Übergangsrecht und Inkrafttreten prüfen.
+3. Folgenabschätzung: Erfüllungsaufwand, Berichtspflichten, Evaluierung und Bürokratiekosten beziffern.
+4. Verfahren: Ressortabstimmung, Beteiligungen, Kabinett, Gremien oder Rat mit Fristen ordnen.
+5. Arbeitsprodukt: Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren.
 
 ## 4. Fallkarte
 
 | Punkt | Sofortgriff |
 | --- | --- |
-| Normenanker | VwVfG Paragraf 35; VwVfG Paragraf 28; VwVfG Paragraf 40 |
-| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
-| Beweislast | Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit |
-| Rechtsfolge | Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur |
+| Normenanker | GG Artikel 80; GGO und Handbuch der Rechtsförmlichkeit; NKRG |
+| Rechtsprechung | BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2; BVerwG, Urteil vom 17.02.1984 - 7 C 8.82 |
+| Tatbestand | Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen |
+| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
+| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
 
 ## 5. Einsatzfelder
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verwaltungshandeln | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Rechtmäßigkeit | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eilrechtsschutz | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschlussfristen und Bestandskraft | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Normvorhaben oder Vorgang | Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsförmlichkeit | Aufbau, Eingangsformel, Zitiergebot, Übergangsrecht und Inkrafttreten prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Folgenabschätzung | Erfüllungsaufwand, Berichtspflichten, Evaluierung und Bürokratiekosten beziffern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren | Ressortabstimmung, Beteiligungen, Kabinett, Gremien oder Rat mit Fristen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Normtext mit Begründung, Prüfvermerk, Haushaltsvermerk oder Entlastungsvorschlag ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ausschlussfristen und Bestandskraft | Zuständige Stelle bestimmen und Adressaten richtig wählen: Anmelder/Berechtigter, BARoV (Bundesamt für zentrale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
-- VwVfG Paragraf 35: Verwaltungsakt als zentrale Handlungsform.
-- VwVfG Paragraf 28: Anhörung Beteiligter.
-- VwVfG Paragraf 40: Ermessen und Ermessensgrenzen.
-- VwGO Paragraf 42: Anfechtungs- und Verpflichtungsklage.
+- GG Artikel 80: Verordnungsermächtigung mit Inhalt, Zweck und Ausmaß.
+- GGO und Handbuch der Rechtsförmlichkeit: Aufbau, Eingangsformel, Zitierweise und Verfahren von Rechtsnormen.
+- NKRG: Prüfung des Erfüllungsaufwands durch den Nationalen Normenkontrollrat.
+- BHO und Landeshaushaltsordnungen: Wirtschaftlichkeit, Zuwendungen und Haushaltsvollzug.
+- BVerfG, Beschluss vom 14.05.1985 - 2 BvR 397/82, 2 BvR 398/82 und 2 BvR 399/82: Artikel 19 Absatz 4 GG verlangt einen wirksamen Rechtsweg auch gegen als Gesetz erlassene Bebauungspläne.
+- BVerwG, Urteil vom 17.02.1984 - 7 C 8.82: Ob eine Regelung Inhaltsbestimmung oder selbständig anfechtbare Nebenbestimmung ist, richtet sich nach ihrem objektiven Erklärungsgehalt, nicht nach ihrer Bezeichnung.
 
 ## 7. Antwortform
 
-7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur.
-7.2. Normsatz: Den tragenden Anker VwVfG Paragraf 35; VwVfG Paragraf 28 auf das entscheidende Tatbestandsmerkmal beziehen.
-7.3. Aktenfund: Für Verwaltungshandeln konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
-7.4. Beweislast: Behörde trägt Tatsachengrundlage, Ermessen und Verfahren; Bürger belegt Betroffenheit, Frist und Eilbedürftigkeit; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit an.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Widerspruch, Anfechtung, Verpflichtung, Eilantrag, Abhilfe oder Bescheidkorrektur ziehen und das verbleibende Risiko abstufen.
-7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Verwaltungshandeln, Zulässigkeit, Materielle Rechtmäßigkeit, Eilrechtsschutz: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
+7.1. Kernsatz: Parteirolle, Ziel und Rechtsfolge sofort benennen; hier typischerweise Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt.
+7.2. Normsatz: Den tragenden Anker GG Artikel 80; GGO und Handbuch der Rechtsförmlichkeit auf das entscheidende Tatbestandsmerkmal beziehen.
+7.3. Aktenfund: Für Normvorhaben oder Vorgang konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
+7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind zuständigkeit und verfahren der normsetzenden stelle gewahrt an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
+7.7. Ausgang: Erzeuge als ersten Baustein Normgerüst: Eingangsformel, Regelungsteil, Ordnungswidrigkeiten, Übergangsrecht, Inkrafttreten, Begründung; Prüfvermerk: Vorhaben, Ermächtigung, Rechtsförmlichkeit, Erfüllungsaufwand, Ergebnis mit Auflagen. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn sofortvollzug oder vollstreckung steht unmittelbar bevor. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn die ermächtigungsgrundlage ist zweifelhaft; ohne sie keine verordnung und keine satzung. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -1,3 +1,13 @@
+# v436.1.0 - Themenprofile gesplittet: kein Sammelprofil mehr über acht Plugins
+
+- Die Werkstatt- und Schnellstart-Prompts wurden bisher aus 75 Themenprofilen erzeugt, von denen acht als Sammelbecken dienten: verwaltung bediente 37 Plugins, bgb 16, gesellschaft 14, straf 13, methodik 12, zivilprozess, international und insolvenz je 9. Plugins wie Beamtenrecht, Versammlungsrecht und Tierschutzrecht bekamen denselben fachlichen Anker.
+- Vierzehn neue Subprofile spalten die Sammelbecken auf: Berufsrecht der freien Berufe, Umwelt- und Planungsrecht, Bildungs- und Wissenschaftsrecht, öffentlicher Dienst mit Sicherheits- und Migrationsrecht, Regulierungsverwaltung, Staatsorganisation und Normsetzung, Verbraucherrecht, Vertragsgestaltung, M&A und Finanzierung, Strafjustiz, juristische Ausbildung, zivilrichterliche Arbeit, Transport- und Außenhandelsrecht sowie Sanierung und StaRUG. Jedes Subprofil bringt eigene Rolle, Normanker, Stationen, Prüfraster, Stop-Kriterien und Dokumentskelette mit; Leitentscheidungen werden nur vom Elternprofil übernommen oder um allgemein bekannte Klassiker ergänzt (Brokdorf, Beamtenstreik, numerus clausus, prüfungsspezifischer Bewertungsspielraum).
+- Kein Profil bedient mehr als acht Plugins; 79 Plugin-Zuordnungen wurden explizit umgehängt. 224 Werkstatt-Prompts sind dadurch fachlich enger gefasst, die Schnellstarts bleiben unter dem Zeichenlimit; der Anteil geteilter Inhaltszeilen sinkt leicht.
+- Nebenbei behoben: Die Formulierung "im <Profilname>" erzeugte bei Profilnamen ohne Rechts-Endung grammatisch falsche Sätze; der Generator schreibt jetzt durchgehend "im Bereich <Profilname>".
+- Generatorkette und Indizes neu erzeugt. Validatoren grün (Eval 302 All-Pass, Struktur, Navigation, Marketplace, Sperrmuster). Versions-Bump auf v436.1.0.
+
+---
+
 # v436.0.0 - Alle Mandatsnotizen ersetzt, Schablonentexte ausgekämmt
 
 - **Letzte 68 Mandatsnotizen entfernt.** Zusammenfassende Mandatsnotizen und Mandatsaufnahmen verraten in einer Prüfungssituation zu viel. Nach den fünfzehn Akten aus v435.2.0 sind jetzt alle verbliebenen 68 Notizen aus 67 Testakten entfernt — von Anfechtung Leipzig über die zwölf Strafrechtsakten, die Renten- und Statusfeststellungsakten bis zu den Sanierungs- und Werkakten. Rubriken, Akten-READMEs, Anlagenindizes, Fristenkalender und Querverweise wurden bereinigt; sechs Rubrik-Prüfpunkte, die auf die Notizen zeigten, prüfen jetzt Primärdokumente.
