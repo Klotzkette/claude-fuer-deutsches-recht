@@ -173,6 +173,7 @@ Arbeitsakte zum Plugin `kanzlei-builder-hub`.
 | [`emails/2026-04-02_efs_stuttgart_marken_widerspruch.eml`](emails/2026-04-02_efs_stuttgart_marken_widerspruch.eml) | EFS Kanzlei Stuttgart (RA Brecker): Abmahnung wegen UM 018-188-466 |
 | [`emails/2026-04-22_cybersquatter_efs_recht_de.eml`](emails/2026-04-22_cybersquatter_efs_recht_de.eml) | Domains4Fun GmbH: "Transferangebot" EUR 8.500 für efs-recht.de |
 | [`emails/2026-05-08_allianz_an_kanzlei_haftpflicht_angebot.eml`](emails/2026-05-08_allianz_an_kanzlei_haftpflicht_angebot.eml) | Allianz: Bestätigung Berufshaftpflichtpolizze 10-12-345678-9 |
+| [`emails/2026-06-12_brecker_koexistenz_gegenentwurf.eml`](emails/2026-06-12_brecker_koexistenz_gegenentwurf.eml) | RA Brecker: Gegenentwurf zur Koexistenzvereinbarung mit Gebietsabgrenzung, Domain- und Registerpunkten, Frist 30.06.2026 |
 
 ### PDFs (redacted)
 

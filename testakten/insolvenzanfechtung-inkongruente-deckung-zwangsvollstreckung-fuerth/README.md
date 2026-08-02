@@ -69,6 +69,7 @@ insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth/
 ├── eml/
 │   ├── 2025-11-10_ratenzahlungsbitte_frankenletter.eml — Ratenzahlungsbitte der Schuldnerin mit offener Krisenschilderung
 │   ├── 2025-11-14_karow_ablehnung_raten.eml            — Ablehnung der Raten unter Hinweis auf die Warenkreditversicherung
+│   ├── 2026-02-19_ebner_intern_bericht_vollstreckung.eml — Interner Bericht der Gläubigerin nach der Barzahlung an der Rampe („solange bei denen noch Geld reinkommt")
 │   ├── 2026-03-03_pflugbeil_intern_freigabe_gv_zahlung.eml — Interne Freigabe der 20.000-EUR-Zahlung („sonst stehen die am 11.03. wieder auf dem Hof")
 │   ├── 2026-11-05_ladung_zeuge_karow.eml            — Ladung des Zeugen Karow zum Beweistermin
 │   ├── 2027-07-12_urteilszustellung_wehrfritz.eml   — Zustellungsmitteilung des Urteils an den Verwalter

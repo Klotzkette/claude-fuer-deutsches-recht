@@ -149,7 +149,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `lizenzhistorie_windgassen_18400_bilder.xlsx` | Lizenzhistorie 18.400 Bilder nach Verwertungskategorie; Jahresumsatz 2021–2025; Opt-out-Status |
 | `schadensberechnung_ki_training_lizenzanalogie.xlsx` | Schadensberechnung § 97 Abs. 2 UrhG; Tarifvergleich; Streitwert; Kosten-Risiko-Matrix |
 
-### eml/ (6 E-Mails)
+### eml/ (7 E-Mails)
 | Datei | Inhalt |
 |---|---|
 | `mare_bildband_angebot_2026-01-12.eml` | Mare GmbH: Bildband-Angebot 1.200 EUR |
@@ -158,6 +158,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `windgassen_an_kreidler_bremer_sohn_felix_2026-01-23.eml` | Mandantin an RA: Mitteilung nach Felix-Gespräch |
 | `waldorf_frommer_abmahnung_eingang_2026-01-09.eml` | Waldorf Frommer: Abmahnungs-E-Mail |
 | `imagineart_us_counsel_antwort_2026-01-28.eml` | ImagineArt Inc. Legal Department: Antwort auf vorgerichtliche Aufforderung |
+| `windgassen_vertragskopie_mare_2026-02-02.eml` | Mandantin an RA: aufgefundener eigener Vertragsdurchschlag 2019 ohne Buyout-Stempel, Hinweis auf möglichen Schweiz-Nachtrag |
 
 ### pdfs/ (4 PDFs, teils redacted)
 | Datei | Inhalt |
@@ -194,7 +195,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | Nummerierte DOCX-Aktenstücke | 22 |
 | DOCX-Anhänge | 3 |
 | XLSX-Anhänge | 2 |
-| EML-Anhänge | 6 |
+| EML-Anhänge | 7 |
 | PDF-Anhänge (teils redacted) | 4 |
 | JPG-Anhänge | 3 |
-| **Anhänge gesamt** | **18** |
+| **Anhänge gesamt** | **19** |

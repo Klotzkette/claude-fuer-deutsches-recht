@@ -30,6 +30,9 @@ StVO-Akte Schulstraße/Lieferzone: Verkehrszeichen, Anordnung, Ausnahmegenehmigu
 | `05_verkehrszaehlung_buchenweg_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
 | `06_email_elternvertretung_beobachtungen_2026-08-18.eml` | E-Mail mit vollständigem Header: Zweiter Morgen Schulstraße / Lieferverkehr und freie  Ladefläche |
 | `07_fahrernotiz_lieferung_2026-08-19.docx` | Fahrernotiz zur Lieferung Filiale Buchenweg 18 |
+| `08_telefonvermerk_maessner_kruse_2026-08-21.md` | Telefonvermerk der Straßenverkehrsbehörde: Antragstand, fehlender Fahrzeugschein BS-KR 422, Containerfrage Lindenplatz |
+| `09_email_disposition_intern_2026-08-19.eml` | Interne E-Mail der Disposition an die Geschäftsführung zur Einfahrt am 19. August und zur fehlenden Eingangsbestätigung |
+| `10_zwischennachricht_stadt_ausnahmeantrag_2026-08-25.md` | Zwischennachricht der Stadt: Unterlagen vollständig, Sammelentscheidung über acht Anträge, keine vorläufige Duldung |
 ## Passende Plugins
 
 `strassenverkehrsrecht-stvo`
