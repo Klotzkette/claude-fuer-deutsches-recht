@@ -53,3 +53,6 @@ Die Dokumente stammen aus unterschiedlichen Bearbeitungsständen. Angaben zu Lau
 | [05_begehung_zaehler_und_maengel_roh.csv](05_begehung_zaehler_und_maengel_roh.csv) | Unbereinigter Export der Begehungsfeststellungen und Zählerstände |
 | [06_email_bsag_betriebskosten_zaehler.eml](06_email_bsag_betriebskosten_zaehler.eml) | Nachricht der Vermieterin zu Betriebskosten und Zählerzuordnung |
 | [07_bank_finanzierungsbestaetigung_umbau.docx](07_bank_finanzierungsbestaetigung_umbau.docx) | Finanzierungsbestätigung für den geplanten Umbau |
+| [08_email_elektriker_lastmanagement_angebot.eml](08_email_elektriker_lastmanagement_angebot.eml) | Nachricht des Elektrobetriebs mit zwei Varianten zur Anschlussleistung |
+| [09_angebote_abluft_fettabscheider_vergleich.csv](09_angebote_abluft_fettabscheider_vergleich.csv) | Angebotsübersicht zu Abluftführung und Fettabscheider |
+| [10_telefonvermerk_bsag_uebergabetermin_lotto.md](10_telefonvermerk_bsag_uebergabetermin_lotto.md) | Telefonvermerk zu Übergabetermin, Lottobestätigung und Fettabscheider |

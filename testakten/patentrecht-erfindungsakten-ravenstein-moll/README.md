@@ -29,6 +29,7 @@ Alois Buchensteiner beschreibt eine mechanisch-elektronische Torsteuerung für e
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf`](pdfs/originale/Patent_Akte_A_Erfinder_Huehnerstall.pdf) | Mandatsakte mit Erfinderschilderung, Skizzen, Gesprächsnotizen und Anmeldeunterlagen |
 | [`emails/2026-02-05_buchensteiner_erfindung_huehnerstall.eml`](emails/2026-02-05_buchensteiner_erfindung_huehnerstall.eml) | Erste Mandanten-E-Mail mit Anlagenbezug und Termindruck |
+| [`emails/2026-02-19_buchensteiner_gemeindeblatt_foto.eml`](emails/2026-02-19_buchensteiner_gemeindeblatt_foto.eml) | Nachtrag des Erfinders zum Foto im Gemeindeblatt Dezember 2025 und zur Anfrage des Nachbarn |
 
 ### Akte B: Abmahnung wegen einer Laserdüse
 
@@ -38,6 +39,7 @@ Die Timmermann Präzisionstechnik GmbH erhält wegen der Düse „Flow-Edge“ e
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf`](pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf) | Abmahnung, Patentunterlagen, Produktbeschreibung und interne Entwicklungsbelege |
 | [`emails/2026-04-23_timmermann_abmahnung_laserduese.eml`](emails/2026-04-23_timmermann_abmahnung_laserduese.eml) | Weiterleitung der Abmahnung durch die Mandantin |
+| [`2026-05-04_telefonvermerk_flowedge_frist.md`](2026-05-04_telefonvermerk_flowedge_frist.md) | Telefonvermerk zu Fristverlängerung bis 20.05.2026, Messehinweis der Gegenseite und aufgefundenen Unterlagen von 2019 |
 
 ### Akte C: Prior-Art-Recherche zu einem Getränkehalter
 
@@ -65,6 +67,12 @@ Die Frosthaus Systeme GmbH erwägt ein Vorgehen gegen das europäische Patent EP
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_F_Einspruch_und_Nichtigkeit.pdf`](pdfs/originale/Patent_Akte_F_Einspruch_und_Nichtigkeit.pdf) | Patentakte mit Registerstand, Prior Art, Eingangsnachweis und Unternehmensunterlagen |
 | [`emails/2026-04-03_strzelecki_frosthaus_einspruch.eml`](emails/2026-04-03_strzelecki_frosthaus_einspruch.eml) | Mandanten-E-Mail zu Frist, Wettbewerbsprodukt und Unterlagenbestand |
+
+### Kanzleiübergreifende Stücke
+
+| Datei | Dokument |
+| --- | --- |
+| [`2026-04-08_fristenliste_auszug.csv`](2026-04-08_fristenliste_auszug.csv) | Auszug aus der laufenden Fristenliste der Kanzlei mit Fristen, Terminen und Bearbeitungsstand aller fünf Mandate |
 
 ## Arbeitsweise
 

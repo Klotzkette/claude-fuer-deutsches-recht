@@ -31,7 +31,10 @@ Die RheinMain Sensors GmbH verhandelt mit Blue Harbor (UK) Ltd. und deren amerik
 | `05b_brandt_response_2024-04-03.eml` | Antwort der deutschen Kanzlei |
 | `05c_dispute_clause_agreed_draft_2024-04-12.eml` | Nachricht zum Stand der Schiedsklausel |
 | `05d_client_signing_logistics_2024-04-18.eml` | Nachricht der Geschäftsführerin vor dem Signing |
+| `05e_reimers_reiselogistik_2024-04-19.eml` | Nachricht der Assistenz zu Reise, Vollmacht und Zahlenkorrektur vor dem Signing |
 | `06_clause_positions.csv` | Arbeitsliste der offenen Klauselpositionen |
 | `07_redline_versions.csv` | Versionsliste aus dem Transaktionsordner |
+| `08_telefonvermerk_foerster_2024-04-19.md` | Telefonvermerk zum Haftungslimit, zur Update-Laufzeit und zu den Terminunterlagen |
+| `09_zeiterfassung_mandat_2024-03_2024-04.csv` | Zeiterfassung der Kanzlei für März und April 2024 |
 
 Passendes Plugin: `common-law-kompass`.

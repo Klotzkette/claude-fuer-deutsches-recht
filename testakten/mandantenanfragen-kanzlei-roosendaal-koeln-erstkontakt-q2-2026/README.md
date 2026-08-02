@@ -118,6 +118,7 @@ Arbeitsakte zum Plugin `mandantenanfragen-assistent`.
 | [`emails/email-anfrage-03-pellbach.eml`](emails/email-anfrage-03-pellbach.eml) | Erstanfrage Margarethe Pellbach — Erbstreit |
 | [`emails/email-rueckfrage-pellbach.eml`](emails/email-rueckfrage-pellbach.eml) | Rückfrage Kanzlei an Frau Pellbach — Honorarvereinbarung |
 | [`emails/email-ablehnung-anfrage-04.eml`](emails/email-ablehnung-anfrage-04.eml) | Ablehnungsmail an Hagenbroich — Streitwert zu niedrig |
+| [`emails/email-hagenbroich-reaktion-ablehnung.eml`](emails/email-hagenbroich-reaktion-ablehnung.eml) | Verärgerte Antwort Hagenbroich auf die Ablehnung — Fragen zur Beratungshilfe, Bewertungsdrohung |
 | [`emails/email-mandatsbestaetigung-anfrage-07.eml`](emails/email-mandatsbestaetigung-anfrage-07.eml) | Mandatsbestätigung an Merkel (vor Konfliktfeststellung) |
 
 ### PDFs

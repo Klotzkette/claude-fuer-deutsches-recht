@@ -56,5 +56,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_arbeitgeberbestaetigung_lebenslaufstationen.docx`](16_arbeitgeberbestaetigung_lebenslaufstationen.docx) | Arbeitgeberbestätigung zu konkret ausgeübten sozialen Tätigkeiten |
 | [`17_email_freund_erinnerung_schulzeit.eml`](17_email_freund_erinnerung_schulzeit.eml) | Private Erinnerungsmail mit klar benannten Wahrnehmungsgrenzen |
 | [`18_termine_und_unterlagen_fundliste.csv`](18_termine_und_unterlagen_fundliste.csv) | Fundliste real vorhandener biografischer Unterlagen |
+| [`19_erklaerung_kiessling_unterzeichnet.md`](19_erklaerung_kiessling_unterzeichnet.md) | Unterzeichnete Erklärung des Schulfreundes zu selbst wahrgenommenen biografischen Stationen |
+| [`emails/2026-10-28_bapersbw-an-kanzlei-zwischennachricht.eml`](emails/2026-10-28_bapersbw-an-kanzlei-zwischennachricht.eml) | Zwischennachricht des BAPersBw mit Vorgangsnummer, Abgabe an das BAFzA und Hinweis auf offene Anhörungsantwort |
 
 <!-- END nachgereichte-originalunterlagen -->

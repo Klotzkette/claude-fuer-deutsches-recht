@@ -1,0 +1,14 @@
+probe_nr,entnahmestelle,entnahmedatum,tiefe_m,parameter,messwert,einheit,bemerkung
+RKS-S02-01,Südhalle S-02 ehem. Galvanikbecken Nord,10.06.2026,"0,8",Chrom gesamt,412,mg/kg TS,Feststoff
+RKS-S02-01,Südhalle S-02 ehem. Galvanikbecken Nord,10.06.2026,"0,8",Nickel,286,mg/kg TS,Feststoff
+RKS-S02-01,Südhalle S-02 ehem. Galvanikbecken Nord,10.06.2026,"2,4",Chrom gesamt,151,mg/kg TS,Feststoff
+RKS-S02-02,Südhalle S-02 Rampe Ost,10.06.2026,"1,2",Zink,890,mg/kg TS,Feststoff
+RKS-S02-02,Südhalle S-02 Rampe Ost,10.06.2026,"1,2",LHKW summarisch,"3,4",mg/kg TS,Feststoff
+RKS-S02-03,Südhalle S-02 Mittelgang,11.06.2026,"1,0",Chrom gesamt,38,mg/kg TS,Feststoff
+GWM-S02-A,Grundwassermessstelle Südhalle abstromig,17.06.2026,"6,1",Chrom(VI),94,µg/l,Wasserprobe
+GWM-S02-A,Grundwassermessstelle Südhalle abstromig,17.06.2026,"6,1",Nickel,61,µg/l,Wasserprobe
+GWM-S02-A,Grundwassermessstelle Südhalle abstromig,17.06.2026,"6,1",LHKW summarisch,12,µg/l,Wasserprobe
+GWM-S02-B,Grundwassermessstelle Südhalle anstromig,17.06.2026,"5,8",Chrom(VI),unter Bestimmungsgrenze,µg/l,Wasserprobe
+GWM-S02-B,Grundwassermessstelle Südhalle anstromig,17.06.2026,"5,8",Nickel,7,µg/l,Wasserprobe
+RKS-S02-04,Südhalle S-02 Tor Süd,11.06.2026,"1,6",Zink,7120,mg/kg TS,Messwert unplausibel; Wiederholungsmessung durch Labor angekündigt
+RKS-S02-04,Südhalle S-02 Tor Süd,11.06.2026,"1,6",pH-Wert,"5,9",ohne,Feststoffeluat

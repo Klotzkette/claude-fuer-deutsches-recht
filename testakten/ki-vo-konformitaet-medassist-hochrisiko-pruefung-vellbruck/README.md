@@ -120,6 +120,7 @@ Arbeitsakte zum Plugin `ki-vo-ai-act-pruefer`.
 | [`email-anfrage-bnetza-zustaendigkeit.eml`](email-anfrage-bnetza-zustaendigkeit.eml) | EML | E-Mail: Anfrage an BNetzA zur Zuständigkeit |
 | [`email-bfarm-medizinprodukt-schnittstelle.eml`](email-bfarm-medizinprodukt-schnittstelle.eml) | EML | E-Mail: BfArM Rückmeldung MDR-KI-VO-Schnittstelle |
 | [`email-vellbruck-an-vorstand-zwischenbefund.eml`](email-vellbruck-an-vorstand-zwischenbefund.eml) | EML | E-Mail: Vellbruck → Vorstand MedAssist, Zwischenbefund |
+| [`incident-log-2025-auszug.csv`](incident-log-2025-auszug.csv) | CSV | Von MedAssist übergebener Incident-Log-Auszug 2025 mit Lücken, nachträglich geändertem Eintrag und widersprüchlichen Statusangaben |
 | [`eu-konformitaetserklaerung-entwurf.pdf`](eu-konformitaetserklaerung-entwurf.pdf) | PDF | EU-Konformitätserklärung Entwurf (Art. 47 KI-VO) |
 | [`bnetza-leitfaden-marktueberwachung-zusammenfassung.pdf`](bnetza-leitfaden-marktueberwachung-zusammenfassung.pdf) | PDF | Zusammenfassung BNetzA-Leitfaden Marktüberwachung KI-VO |
 | [`medassist-systemarchitektur.jpg`](medassist-systemarchitektur.jpg) | JPG | Systemarchitekturdiagramm MedAssist v4 |

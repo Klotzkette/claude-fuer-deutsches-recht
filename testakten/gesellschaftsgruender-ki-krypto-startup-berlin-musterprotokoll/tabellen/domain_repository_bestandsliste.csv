@@ -1,0 +1,9 @@
+Position;Bezeichnung;Inhaberin;Registrar_bzw_Host;Registriert_seit;Laufende_Kosten_EUR_Jahr;Wertansatz_Mira_EUR;Bemerkung
+Domain;neurochain.io;Mira Holzbach (privat);Gandi SAS;2023-11-08;48;6000;Hauptdomain, E-Mail läuft bereits darüber
+Domain;neurochain-labs.de;Mira Holzbach (privat);INWX GmbH;2024-02-19;9;800;Weiterleitung auf neurochain.io
+Domain;neurochainlabs.com;Mira Holzbach (privat);Gandi SAS;2024-02-19;14;1500;noch ungenutzt
+Domain;datenschmiede.ai;Mira Holzbach (privat);Gandi SAS;2025-06-30;72;2500;für Tokenisierungs-Produkt reserviert, Name noch offen
+Domain;agentmesh.eu;Mira Holzbach (privat);INWX GmbH;2025-09-12;12;400;Vorratsregistrierung
+Repository;neurochain-core (privat);Jonas Kreutzberger (GitHub-Account privat);GitHub Inc.;2024-08-01;0;15000;Solidity-Protokoll, 41 000 Zeilen, 2 externe Contributors ohne schriftliche Vereinbarung
+Repository;orchestrator-poc;Aylin Soeren (GitLab privat);GitLab Inc.;2025-03-15;0;8000;Python, enthält Code aus Zeit beim früheren Arbeitgeber, Abgrenzung ungeklärt
+Marke;Wortmarke NEUROCHAIN LABS (Anmeldung geplant);noch niemand;DPMA;;;0;Anmeldung nach Gründung vorgesehen, Recherche vom 20.05.2026 ergab ältere Wortmarke NEUROCHAIN in Klasse 42 (EUIPO, Dritter)

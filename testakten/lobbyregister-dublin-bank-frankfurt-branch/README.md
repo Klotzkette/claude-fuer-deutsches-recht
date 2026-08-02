@@ -72,6 +72,8 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [25_api_abfrageplan_open_data.docx](25_api_abfrageplan_open_data.docx) | API-Abfrageplan für Dublin/Frankfurt-Dublettencheck |
 | [26_api_mock_response_dublin.json](26_api_mock_response_dublin.json) | API-Antwort für den veröffentlichten Dublin-Eintrag |
 | [27_registerexport_diff_dublin.docx](27_registerexport_diff_dublin.docx) | Diff zwischen Freigabeakte und öffentlichem API/API-Export |
+| [28_email_rfs_eingangsbestaetigung.eml](28_email_rfs_eingangsbestaetigung.eml) | Eingangsbestätigung der registerführenden Stelle mit Nachforderungen und Hinweis auf laufende Registrierungsverantwortung |
+| [29_protokollfragment_compliance_call_dublin_frankfurt.md](29_protokollfragment_compliance_call_dublin_frankfurt.md) | Unvollständiges Protokoll des Compliance-Calls: Terminlage Juli, Streit um den Finanzblock des Portalentwurfs |
 
 ## Prüffokus
 

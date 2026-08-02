@@ -1,0 +1,8 @@
+incident_id;datum;klinik;modul;beschreibung;schweregrad_intern;status;gemeldet_an
+INC-2025-004;2025-01-19;Partnerklinik A (Mannheim);Dispositionsmodul;Priorisierung Stufe 3 statt Stufe 1 bei Brustschmerz-Anruf mit ausländischem Akzent, Disponentin korrigierte manuell;hoch;geschlossen;interner Qualitätszirkel
+INC-2025-011;2025-03-02;Partnerklinik B (Karlsruhe);NLU-Modul;Spracherkennung brach bei Hintergrundgeräuschen ab, Anruf wurde ohne Klassifikation in die Warteschlange gelegt (11 Minuten);mittel;geschlossen;niemand extern
+INC-2025-017;2025-04-27;Partnerklinik A (Mannheim);Dispositionsmodul;Doppelte Alarmierung Rettungsmittel nach Systemneustart, Update-Hotfix 4.1.2 eingespielt;niedrig;geschlossen;Hersteller-Ticket 8841
+INC-2025-023;2025-06-14;Partnerklinik C (Freiburg);NLU-Modul;Kindernotfall als Erwachsenenfall klassifiziert, Altersangabe aus dem Gespräch nicht übernommen;hoch;offen laut Log, laut Vermerk Vogelkamp aber behoben;interner Qualitätszirkel
+INC-2025-031;2025-08-30;Partnerklinik B (Karlsruhe);Gesamtsystem;Ausfall Cloud-Anbindung 02:14 bis 03:47 Uhr, Rückfall auf manuelle Disposition, kein Protokolleintrag im Audit-Log für 41 Minuten;hoch;geschlossen;niemand extern
+INC-2025-038;2025-10-08;Partnerklinik A (Mannheim);Dispositionsmodul;Eintrag nachträglich geändert, ursprüngliche Beschreibung im Änderungsverlauf nicht mehr vorhanden;unbewertet;offen;unklar
+INC-2025-044;2025-12-21;Partnerklinik C (Freiburg);NLU-Modul;Beschwerde einer Disponentin über wiederholte Fehlklassifikation bei Dialektsprechern, Sammelticket angelegt;mittel;offen;Hersteller-Ticket 9310

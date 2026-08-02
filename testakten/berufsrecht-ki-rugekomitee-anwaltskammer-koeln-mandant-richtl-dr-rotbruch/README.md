@@ -36,6 +36,8 @@ Stichtag des Aktenbestands ist der 15. April 2026. Der zivilrechtliche Güteterm
 | [`docx/klageerwiderung_habernau_2o188_26.docx`](docx/klageerwiderung_habernau_2o188_26.docx) | Klageerwiderung des Rechtsanwalts |
 | [`docx/stellungnahme_rak_koeln_ruegeverfahren.docx`](docx/stellungnahme_rak_koeln_ruegeverfahren.docx) | Stellungnahme im berufsaufsichtlichen Verfahren |
 | [`pdfs/ehevertrag_habernau_modifikation_redacted.pdf`](pdfs/ehevertrag_habernau_modifikation_redacted.pdf) | Anonymisierte Abschrift des notariellen Ehevertrags vom 28. April 2022 |
+| [`04_telefonvermerk_bremer_rotbruch_2026-04-09.md`](04_telefonvermerk_bremer_rotbruch_2026-04-09.md) | Telefonvermerk der Verteidigung: Erinnerung Rotbruchs an ein Beratungstelefonat im April 2022, Zeiterfassung, Vergleichsrahmen |
+| [`05_sms_verlauf_rotbruch_habernau_april_2022.txt`](05_sms_verlauf_rotbruch_habernau_april_2022.txt) | Unvollständig wiederhergestellter SMS-Verlauf zwischen Rotbruch und der Mandantin vor der Beurkundung |
 
 ### Korrespondenz
 
@@ -45,6 +47,7 @@ Stichtag des Aktenbestands ist der 15. April 2026. Der zivilrechtliche Güteterm
 | [`emails/2026-02-28_rak_koeln_an_rotbruch_ruegeverfahren.eml`](emails/2026-02-28_rak_koeln_an_rotbruch_ruegeverfahren.eml) | Anhörungsschreiben der Rechtsanwaltskammer Köln |
 | [`emails/2026-03-10_allianz_versicherung_ki_klausel.eml`](emails/2026-03-10_allianz_versicherung_ki_klausel.eml) | Schreiben des Berufshaftpflichtversicherers zur Deckungsprüfung |
 | [`emails/2026-03-24_juristassist_an_kanzlei_avv.eml`](emails/2026-03-24_juristassist_an_kanzlei_avv.eml) | Auskunft des eingesetzten Vertragsprüfdienstes zu Vertrags- und Protokollunterlagen |
+| [`emails/2026-04-08_bremer_an_allianz_deckung_widerspruch.eml`](emails/2026-04-08_bremer_an_allianz_deckung_widerspruch.eml) | Einwendungen des Verteidigers gegen die Deckungsablehnung mit Fragen zur Einbeziehung der AVB-Fassung 2023 |
 | [`emails/2026-04-15_habernau_klagevertreterin.eml`](emails/2026-04-15_habernau_klagevertreterin.eml) | Vergleichskorrespondenz der Klägervertreterin |
 
 ### Zahlen und technische Anlagen

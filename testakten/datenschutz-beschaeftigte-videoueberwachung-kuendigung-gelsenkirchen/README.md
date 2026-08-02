@@ -56,10 +56,12 @@ datenschutz-beschaeftigte-videoueberwachung-kuendigung-gelsenkirchen/
 ├── 13_arbeitgeber_stellungnahme_ldi_2026-06-08.docx    — Stellungnahme, behauptet punktuelle Überwachung (Diskrepanz)
 ├── 14_dsb_vermerk_nicht_einbezogen_2026-05-04.docx     — DSB-Vermerk zu fehlender Einbindung und Unverhältnismäßigkeit
 ├── 15_gueteverhandlung_protokoll_2026-07-01.docx       — Güteverhandlungsprotokoll mit Hinweis auf Verwertungsverbot
+├── 16_retouren_log_packbereich_2026-04.csv             — Retourenlog April 2026 mit belegten und beleglosen Rückläufern am Packtisch B6
 ├── eml/
 │   ├── 2026-02-25_gf_an_detektei_beauftragung.eml      — GF beauftragt volle Abdeckung und schließt Betriebsrat aus
 │   ├── 2026-04-23_detektei_an_gf_treffer.eml           — Detektei meldet Treffer und erfasste Unbeteiligte
-│   └── 2026-05-04_dsb_an_gf_warnung.eml                — DSB warnt vor unzutreffender Darstellung gegenüber der Behörde
+│   ├── 2026-05-04_dsb_an_gf_warnung.eml                — DSB warnt vor unzutreffender Darstellung gegenüber der Behörde
+│   └── 2026-06-19_ldi_nrw_zwischennachricht_vor_ort.eml — Zwischennachricht der LDI NRW mit Nachfragen und Ankündigung einer Vor-Ort-Prüfung
 ├── whatsapp/
 │   └── chatverlauf_packbereich_kollegen_2026.txt       — Chat der Kollegen; belegt Überwachung von Pausenraum und Spinden
 ├── rubric.yaml                                         — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

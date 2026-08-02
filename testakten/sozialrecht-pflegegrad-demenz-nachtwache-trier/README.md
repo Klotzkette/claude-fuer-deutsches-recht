@@ -29,6 +29,14 @@ Der 84-jährige frühere Steinmetz Anton Birk soll trotz fortgeschrittener Demen
 
 `fachanwalt-sozialrecht`, `pflegeversicherung`, `selbstvertreter-sozialgericht`, `richter-sozialgericht`.
 
+## Nachgereichte Unterlagen
+
+| Datei | Inhalt |
+| --- | --- |
+| `08_rechnung_nachtbereitschaft_01_bis_05_juli_2026.md` | Rechnung des Pflegedienstes Porta Nigra über die ersten fünf Nächte Nachtbereitschaft (1.034,50 EUR) |
+| `09_sms_verlauf_mara_birk_karin_lauer_juni_2026.txt` | SMS-Verlauf der Tochter mit der Nachbarin Karin Lauer zu Nachtereignissen, Gutachterbesuch und Bescheid |
+| `eml/2026-07-13_pflegekasse_zwischennachricht_widerspruch.eml` | Zwischennachricht der Pflegekasse: Eingang des Widerspruchs, erneute Begutachtung angefordert, Unterlagen bis 31.07.2026 |
+
 ## Sachverhaltskern
 
 Anton Birk lebt in Trier-Euren in einer engen Erdgeschosswohnung mit zwei Stufen zum Bad und einem Herd mit alten Drehreglern. Nachts verlässt er mehrfach das Bett, sucht den verstorbenen Bruder im Innenhof und lässt Wasser laufen. Die Tochter Mara Birk führt seit April 2026 ein Belastungsprotokoll. Es enthält Uhrzeiten, Sturzspuren, vergessene Medikamentengaben und die Zeiten der ambulanten Pflege. Der MD-Besuch dauerte nach ihrer Notiz 29 Minuten. Die Pflegekasse Knappschaft-Mosel hält Pflegegrad 2 für ausreichend. Der Widerspruch läuft noch; die Monatsfrist endet am 17.07.2026. Die Familie kann private Nachtwache nur zwei Wochen finanzieren.

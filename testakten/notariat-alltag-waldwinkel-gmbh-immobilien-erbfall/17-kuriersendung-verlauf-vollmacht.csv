@@ -1,0 +1,9 @@
+sendungsnummer;datum;uhrzeit;ort;status;quelle
+PX 440 718 392 PT;2026-06-08;16:42;Porto Campanhã Annahmestelle;Sendung angenommen;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-09;03:15;Lissabon Luftfrachtzentrum;Export vorbereitet;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-10;05:58;Madrid Barajas Verteilzentrum;Eingang Umschlagpunkt;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-10;22:31;Madrid Barajas Verteilzentrum;Weiterleitung verzögert - Kapazitätsengpass;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-12;11:04;Madrid Barajas Verteilzentrum;Sendung liegt weiterhin im Verteilzentrum;telefonische Auskunft Hotline laut Vermerk Seidel
+PX 440 718 392 PT;2026-06-15;06:20;Frankfurt Flughafen Eingangszentrum;Eingang Deutschland;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-16;07:45;Kassel Zustellbasis;In Zustellung;Sendungsverfolgung Iberia Express Courier
+PX 440 718 392 PT;2026-06-16;13:12;Witzenhausen Marktstraße 18;Zugestellt - Empfang Brandt Notariat;Zustellbeleg Unterschrift
