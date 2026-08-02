@@ -69,7 +69,8 @@ Arbeitsakte zum Plugin `bgb-at-pruefer`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsnotiz_erstgespraech_pohlmann.docx`](01_mandatsnotiz_erstgespraech_pohlmann.docx) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, erste Rechtliche Einschätzung |
+| 01a | [`01a_vollmacht_mandantin.docx`](01a_vollmacht_mandantin.docx) | Vollmacht der Mandantin vom 14.03.2026 für alle vier Streitkomplexe |
+| 01b | [`01b_quittung_kostenvorschuss.docx`](01b_quittung_kostenvorschuss.docx) | Quittung über den Kostenvorschuss von 3.500 EUR |
 | 02 | [`02_beteiligte_verfahrensuebersicht.docx`](02_beteiligte_verfahrensuebersicht.docx) | Alle Beteiligten, Gegenparteien, Verfahrensübersicht, Vollmachtslage |
 | 03 | [`03_pachtvertrag_analyse_erklaerungsirrtum_119.docx`](03_pachtvertrag_analyse_erklaerungsirrtum_119.docx) | Gutachten Anfechtung § 119 I BGB — Definitionen, Subsumtion, Rechtsfolgen |
 | 04 | [`04_fristpruefung_121_bgb_unverzueglich.docx`](04_fristpruefung_121_bgb_unverzueglich.docx) | § 121 BGB Unverzüglichkeit — BGH-Rechtsprechung, Fristberechnung, Risikobewertung |

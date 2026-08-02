@@ -38,7 +38,6 @@ Redaktionsakte zu einem geplanten Bericht über ein Wirtschaftsstrafverfahren ge
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Mandatsnotiz Erstgespräch |
 | `02_chronologie_arbeitsstand.docx` | Chronologie Arbeitsstand |
 | `03_sachverhalt_aus_mandantensicht.docx` | Sachverhalt aus Mandantensicht |
 | `04_gegenseite_standpunkt.docx` | Standpunkt der Gegenseite |

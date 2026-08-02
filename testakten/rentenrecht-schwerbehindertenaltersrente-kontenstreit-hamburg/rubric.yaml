@@ -6,10 +6,6 @@ description: 'Vorgezogene Altersrente fuer schwerbehinderte Menschen mit streiti
   Prueffragen: Wartezeitberechnung aus dem Datenkern, Schwerbehinderteneigenschaft zum Rentenbeginn, Nachweisqualitaet
   je Luecke, Amtsermittlung und Beweisersatz, rechtzeitiger Antrag, wirtschaftlicher Vergleich der Rentenbeginn-Varianten.'
 checks:
-  - id: datei-01-mandatsnotiz-rentenbeginn
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_rentenbeginn.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_rentenbeginn.docx
   - id: datei-02-drv-auskunft-wartezeit
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_auskunft_wartezeit.docx ist für die Fallauswertung vorhanden.

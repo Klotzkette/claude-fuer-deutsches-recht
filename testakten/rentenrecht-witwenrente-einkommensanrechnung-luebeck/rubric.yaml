@@ -3,10 +3,10 @@ plugin: "rentenpruefer"
 description: Witwenrente mit Sterbevierteljahr, grosser Witwenrente, Einkommensanrechnung, Betriebsrente, privater
   Sofortrente, KVdR-Abzuegen und daenischer Kontenluecke.
 checks:
-  - id: datei-01-mandatsnotiz-fristsache
+  - id: datei-14-daenemark-mappe
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_fristsache.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_fristsache.docx
+    description: Die Abschrift der Mappe Dänemark 1984 bis 1986 ist als eigenes Aktenstück vorhanden.
+    path: 14_daenemark_mappe_nordbaltic_unterlagen.docx
   - id: datei-02-drv-bescheid-witwenrente
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_bescheid_witwenrente.docx ist für die Fallauswertung vorhanden.

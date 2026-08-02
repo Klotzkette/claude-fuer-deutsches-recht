@@ -27,7 +27,6 @@ Die Akte liegt als verstreuter Ordner mit Markdown, EML, DOCX, XLSX, PDF und Bil
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-erste-lage.docx` | Erstnotiz mit offenen Baustellen |
 | `02-elster-und-finanzamt-fragen.docx` | Fragebogen steuerliche Erfassung und Umsatzschätzungen |
 | `03-gewerbe-freiberuf-abgrenzung.docx` | Abgrenzung Grafikdesign, Workshops, digitale Vorlagen |
 | `04-kundenvertrag-nordstern-agentur.docx` | Vertragsentwurf der Großkundin |

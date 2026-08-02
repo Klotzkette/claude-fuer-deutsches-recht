@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: Arbeitsunfall eines Lagerleiters durch Sturz an einer klemmenden Ueberladebruecke, mit Kameraausfall,
   Vorschaden an der Schulter und vollstaendigem Instanzenzug von Anhoerung bis Sachverstaendigengutachten.
 checks:
-  - id: datei-01-mandatsnotiz-bg-fristsache
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_bg_fristsache.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_bg_fristsache.docx
   - id: datei-02-unfallanzeige-arbeitgeber
     check_type: file_exists
     description: Das Primäraktenstück 02_unfallanzeige_arbeitgeber.docx ist für die Fallauswertung vorhanden.

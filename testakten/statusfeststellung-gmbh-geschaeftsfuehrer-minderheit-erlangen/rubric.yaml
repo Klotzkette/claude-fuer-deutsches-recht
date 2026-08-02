@@ -3,10 +3,6 @@ plugin: "sozialversicherungsstatus-pruefer"
 description: Statusfeststellung eines Minderheits-Gesellschafter-Geschaeftsfuehrers mit 32 Prozent, gestaffelter
   Sperrminoritaet, Buergschaft, DRV-Verfahren von Anhoerung bis Vergleich.
 checks:
-  - id: datei-01-mandatsnotiz-clearingstelle
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_clearingstelle.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_clearingstelle.docx
   - id: datei-02-gesellschaftsvertrag
     check_type: file_exists
     description: Das Primäraktenstück 02_gesellschaftsvertrag.docx ist für die Fallauswertung vorhanden.

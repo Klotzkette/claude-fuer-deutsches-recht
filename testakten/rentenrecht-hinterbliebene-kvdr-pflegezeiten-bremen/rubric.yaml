@@ -3,10 +3,6 @@ plugin: "rentenpruefer"
 description: Witwenrente mit Einkommensanrechnung, Verbeitragung dreier Zahlungsstroeme in der Krankenversicherung
   der Rentner, Pflegebeitragsluecken und streitiger KVdR-Vorversicherungszeit.
 checks:
-  - id: datei-01-mandatsaufnahme
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsaufnahme.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsaufnahme.docx
   - id: datei-02-drv-bescheid-witwenrente
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_bescheid_witwenrente.docx ist für die Fallauswertung vorhanden.

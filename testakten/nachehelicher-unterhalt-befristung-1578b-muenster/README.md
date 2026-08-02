@@ -33,7 +33,6 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsnotiz_erstgespraech.docx`](01_mandatsnotiz_erstgespraech.docx) | Erstgespräch, Beteiligte, Mandantenziel, offene Punkte |
 | 02 | [`02_ehe_und_familienchronik.docx`](02_ehe_und_familienchronik.docx) | Ehe- und Familienchronik, Stationen, Trennung und Scheidung |
 | 03 | [`03_einkommen_pflichtiger.docx`](03_einkommen_pflichtiger.docx) | Bereinigtes Nettoeinkommen des Pflichtigen (Arbeitswerte) |
 | 04 | [`04_einkommen_berechtigte.docx`](04_einkommen_berechtigte.docx) | Einkommen der Berechtigten, Erwerbsobliegenheit, Aufstockung |
@@ -57,7 +56,6 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 
 ```text
 nachehelicher-unterhalt-befristung-1578b-münster/
-├── 01_mandatsnotiz_erstgespraech.docx            Erstberatung: Beteiligte, Ziel, offene Punkte
 ├── 02_ehe_und_familienchronik.docx               Eckdaten der Ehe, Umzüge, Rollenverteilung
 ├── 03_einkommen_pflichtiger.docx                 Einkommen und Abzugsposten Dr. Voßkamp (Arbeitswerte)
 ├── 04_einkommen_berechtigte.docx                 Einkommen und Erwerbsobliegenheit Carola Voßkamp

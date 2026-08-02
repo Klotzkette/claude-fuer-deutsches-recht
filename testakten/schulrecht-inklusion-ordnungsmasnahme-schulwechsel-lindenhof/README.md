@@ -23,7 +23,6 @@ Schulrecht: 14-jährige Schülerin mit ADHS-/LRS-Nachteilsausgleich, Mobbingvorw
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.docx` | Erste Lage, Ziel und offene Fragen |
 | `02-zeitstrahl-fristen-und-verfahrensstand.docx` | Chronologie und Fristen |
 | `03-normenkette-livecheck.docx` | Normenkette und Livecheck-Liste |
 | `04-schreiben-schulleitung-unterrichtsausschluss.docx` | Schreiben der Schulleitung zum Unterrichtsausschluss |

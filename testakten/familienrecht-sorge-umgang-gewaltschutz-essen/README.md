@@ -38,7 +38,6 @@ Eilsache nach Trennung der Eheleute Derya und Cem Aydin in Essen. Es gibt einen 
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Ausführlicher Kanzleivermerk zu Polizeieinsatz, Schutzbedarf, Wohnung, Kindern, Umgangsziel und sofortiger Beweissicherung |
 | `02_chronologie_arbeitsstand.docx` | Zeitachse mit Uhrzeiten, Quellen, Widersprüchen und getrennter Fristspur für Gewaltschutz, Wohnung und Umgang |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete, differenzierte Erklärung Derya Aydins zum Ereignis, früheren Konflikten, Kindern und gewünschtem Umgang |
 | `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Cem Aydins mit abweichender Ereignisschilderung, Wohnungsabholung und stufenweisem Umgangsvorschlag |

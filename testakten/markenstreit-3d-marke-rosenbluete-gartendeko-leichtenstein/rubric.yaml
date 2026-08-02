@@ -2,6 +2,10 @@
 name: Markenstreit 3D Marke Rosenbluete Gartendeko Leichtenstein
 plugin: fachanwalt-gewerblicher-rechtsschutz
 checks:
+- id: datei-01a-vollmacht
+  check_type: file_exists
+  description: Die Vollmacht der Mandantin (Anlage A-1) ist als eigenes Aktenstück vorhanden.
+  path: 01a_vollmacht_anlage_a1.docx
 - id: r01-readme-vorhanden
   check_type: file_exists
   description: README.md vorhanden

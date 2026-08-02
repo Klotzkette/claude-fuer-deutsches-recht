@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: Schwerbehindertenverfahren mit GdB-Erhöhungsantrag, streitigem Merkzeichen G, versorgungsärztlicher
   Stellungnahme nach Aktenlage und nachgereichten Facharztbefunden.
 checks:
-  - id: datei-01-mandatsnotiz-fristsache
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_fristsache.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_fristsache.docx
   - id: datei-02-bescheid-gdb-ablehnung
     check_type: file_exists
     description: Das Primäraktenstück 02_bescheid_gdb_ablehnung.docx ist für die Fallauswertung vorhanden.

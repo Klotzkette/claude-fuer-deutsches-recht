@@ -3,10 +3,6 @@ plugin: "rentenpruefer"
 description: Abgelehnte Erwerbsminderungsrente mit Diskrepanz zwischen Reha-Entlassungsbericht und behandelnden
   Ärzten, gemischter orthopädisch-psychischer Lage, Widerspruch und Klagevorbereitung.
 checks:
-  - id: fristsache-vorhanden
-    check_type: file_exists
-    description: Die fristensichernde Mandatsnotiz ist vorhanden.
-    path: 01_mandatsnotiz_fristsache.docx
   - id: leistungsdaten-vorhanden
     check_type: file_exists
     description: Die strukturierte Fristen- und Leistungsdatentabelle ist vorhanden.

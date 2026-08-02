@@ -25,7 +25,6 @@ Datenauswertungs-Kern: Die Kontoauswertung (zwölf Buchungen, Summe 152.000 EUR)
 
 ```
 erbrecht-vertragserbe-schenkungen-erbvertrag-oldenburg/
-├── 01_mandatsnotiz_berufung.docx                    # Beteiligte, Erbvertragslage, Verfahrensstand, Fristen
 ├── 02_erbvertrag_2008.docx                          # Vollständiger Erbvertrag mit Schlusserbeneinsetzung und Rücktrittsvorbehalt
 ├── 03_uebergabevertrag_hofstelle_2021.docx          # Vollständiger Übergabevertrag mit Wohnungsrecht und Pflegeverpflichtung
 ├── 04_schenkungsvertrag_baugrundstueck_2022.docx    # Vollständige Schenkungsurkunde über den Bauplatz Hundsmühlen

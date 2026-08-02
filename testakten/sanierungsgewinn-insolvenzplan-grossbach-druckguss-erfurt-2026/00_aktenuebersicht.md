@@ -6,7 +6,6 @@ Diese Akte umfasst 20 Aktenstücke zur Sanierungssteuerproblematik der Grossbach
 
 | Reihenfolge | Aktenstück | Zweck |
 |---|---|---|
-| 1 | 01_mandatsnotiz_steuerberater_engelmeier.docx | Erstkontakt, Sachverhalt, steuerliche Problemlage |
 | 2 | 02_insolvenzantrag_schutzschirm_grossbach.docx | Verfahrensgrundlage |
 | 3 | 03_insolvenzplan_eckpunkte_und_quotenverteilung.docx | Plan-Eckpunkte (gestaltender Teil) |
 | 4 | 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.docx | Quelle des Sanierungsertrags |

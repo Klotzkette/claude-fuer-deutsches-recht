@@ -3,10 +3,6 @@ plugin: "fachanwalt-erbrecht"
 description: Unternehmernachlass mit Volljährigenadoption, Alleinerbeneinsetzung, Pflichtteil leiblicher Kinder,
   GmbH-Bewertung und Erbscheinstaktik.
 checks:
-  - id: datei-01-mandatsnotiz-leibliche-tochter
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_leibliche_tochter.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_leibliche_tochter.docx
   - id: datei-02-adoptionsbeschluss-und-beziehung
     check_type: file_exists
     description: Die eigenständige Ausfertigung des Adoptionsbeschlusses ist für die Fallauswertung vorhanden.

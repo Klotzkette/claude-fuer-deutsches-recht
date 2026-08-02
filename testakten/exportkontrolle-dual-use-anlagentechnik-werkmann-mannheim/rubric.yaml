@@ -2,6 +2,10 @@
 name: Exportkontrolle Dual Use Anlagentechnik Werkmann Mannheim
 plugin: fachanwalt-internationales-wirtschaftsrecht
 checks:
+- id: datei-01a-vollmacht
+  check_type: file_exists
+  description: Die notariell beglaubigte Vollmacht (Anlage 01/A) ist als eigenes Aktenstück vorhanden.
+  path: 01a_vollmacht_anlage_01a.docx
 - id: r01-readme-vorhanden
   check_type: file_exists
   description: README.md vorhanden

@@ -90,7 +90,6 @@ Hauptproblematik:
 sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 ├── README.md                                                       ← Diese Datei
 ├── 00_aktenuebersicht.md
-├── 01_mandatsnotiz_geschaeftsfuehrer_pellbach.docx
 ├── 02_starug-anzeige_31_starug_ag_cottbus.docx
 ├── 03_restrukturierungsplan_4_ff_starug_eckpunkte.docx
 ├── 04_banken-konsortium_verzichts-und-des-vereinbarung.docx

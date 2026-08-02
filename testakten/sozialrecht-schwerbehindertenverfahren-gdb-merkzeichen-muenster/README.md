@@ -29,7 +29,6 @@ Helga Bertram, 62, Küchenhilfe in einer Schulkantine in Münster-Hiltrup, hat s
 sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-münster/
 ├── README.md                                          <- diese Übersicht
 ├── rubric.yaml                                        <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_fristsache.docx                      <- Erstgespräch, Frist, Auftrag, Kostenhinweis
 ├── 02_bescheid_gdb_ablehnung.docx                       <- Bescheid der Stadt Münster mit Rechtsbehelfsbelehrung
 ├── 03_hausarzt_befundbericht.docx                       <- Hausärztlicher Bericht mit Diagnosen und Medikation
 ├── 04_neurologie_bericht.docx                           <- Neurologischer Facharztbericht mit Elektroneurographie

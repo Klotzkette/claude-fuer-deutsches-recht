@@ -30,7 +30,6 @@ Maren Thies, 63, seit 1982 im Kieler Werftumfeld, will im Frühjahr 2027 vorzeit
 ```
 rentenrecht-frührente-kontenluecken-werft-kiel/
 ├── README.md                                  ← diese Datei
-├── 01_mandatsaufnahme.docx                      ← Kanzleivermerk: Lückenkomplexe, Wunschtermin, Arbeitsauftrag
 ├── 02_drv_versicherungsverlauf.docx             ← Kontostand mit drei ungeklärten Zeiträumen
 ├── 03_drv_rentenauskunft.docx                   ← Abschlagsbild, 45-Jahre-Stand, Ausgleichszahlungs-Vorbehalt
 ├── 04_arbeitgeberbescheinigung_nordstahl_1992.docx ← Originalbescheinigung der liquidierten Arbeitgeberin

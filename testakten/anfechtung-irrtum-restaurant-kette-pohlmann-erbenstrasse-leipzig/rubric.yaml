@@ -2,6 +2,14 @@
 name: Anfechtung Irrtum Restaurant Kette Pohlmann Erbenstrasse Leipzig
 plugin: bgb-at-pruefer
 checks:
+- id: datei-01a-vollmacht
+  check_type: file_exists
+  description: Die Vollmacht der Mandantin vom 14.03.2026 ist als eigenes Aktenstück vorhanden.
+  path: 01a_vollmacht_mandantin.docx
+- id: datei-01b-quittung
+  check_type: file_exists
+  description: Die Quittung über den Kostenvorschuss ist als eigenes Aktenstück vorhanden.
+  path: 01b_quittung_kostenvorschuss.docx
 - id: r01-readme-vorhanden
   check_type: file_exists
   description: README.md vorhanden

@@ -23,7 +23,6 @@ Lahnwerke Maschinenbau AG rollt Slack aus, verfolgt LKW-Werkzeugcontainer mit Ai
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-arbeitsauftrag.docx` | Erste Lage, Personen, Ziel und offene Fragen |
 | `02-zeitstrahl-und-fristen.docx` | Chronologie mit Entscheidungs- und Eskalationspunkten |
 | `03-prueffragen-fuer-erstgespraech.docx` | Katalog für das erste strukturierte Gespräch |
 | `04-vorstandsvorlage-cyber-roadmap.docx` | Entwurf Vorstandsvorlage zur Cyber-Roadmap |

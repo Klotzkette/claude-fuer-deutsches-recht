@@ -2,10 +2,6 @@ name: erbrecht-digitaler-nachlass-passwortsafe-berlin
 plugin: "fachanwalt-erbrecht"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte erbrecht-digitaler-nachlass-passwortsafe-berlin.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
   - id: datei-02-chronologie-arbeitsstand
     check_type: file_exists
     description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.

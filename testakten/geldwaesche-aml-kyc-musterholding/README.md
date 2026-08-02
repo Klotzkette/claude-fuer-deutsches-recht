@@ -116,7 +116,6 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | [01_intake/email_vertrieb_eskalation.eml](01_intake/email_vertrieb_eskalation.eml) | E-Mail des Vertriebs zur ausstehenden Freigabe von Danube |
 | [01_intake/email_bank_rueckfrage.eml](01_intake/email_bank_rueckfrage.eml) | E-Mail der Hausbank zur Drittzahlung von Adriatic Commerce |
 | [01_intake/email_vorstand_klarstellung.eml](01_intake/email_vorstand_klarstellung.eml) | Interne Weisung der Geschäftsführung an Compliance |
-| [01_intake/mandatsnotiz_eingangsgespraech.docx](01_intake/mandatsnotiz_eingangsgespraech.docx) | Mandatsnotiz zum Eingangs­gespräch bei RA Dr. Heller (05.05.2026) |
 | [01_intake/mandatsvollmacht.pdf](01_intake/mandatsvollmacht.pdf) | Mandatsvollmacht zugunsten Kanzlei Heller & Schönfeld (PDF) |
 | [01_intake/sachverhaltsmemo.pdf](01_intake/sachverhaltsmemo.pdf) | Sachverhaltsmemo Kanzlei: chronologische Darstellung des Mandats |
 | [02_verpflichtetenstatus/branchenprofil.docx](02_verpflichtetenstatus/branchenprofil.docx) | Vermerk: Verpflichtetenstatus nach § 2 GwG, Sicherungspflichten |

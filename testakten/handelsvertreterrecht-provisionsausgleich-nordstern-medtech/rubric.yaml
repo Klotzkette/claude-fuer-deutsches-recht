@@ -6,10 +6,10 @@ checks:
     check_type: file_exists
     description: Das Gesamt-PDF ist gebaut.
     path: gesamt-pdf/handelsvertreterrecht-provisionsausgleich-nordstern-medtech_gesamt.pdf
-  - id: r02-mandatsaufnahme-konkret
+  - id: r02-vertrag-konkret
     check_type: text_contains
-    description: Die Mandatsaufnahme bezeichnet Mandantin und Ansprechpartner konkret.
-    path: 01-mandatsnotiz-und-arbeitsauftrag.docx
+    description: Der Handelsvertretervertrag bezeichnet Mandantin und Ansprechpartner konkret.
+    path: 04-handelsvertretervertrag-auszug.docx
     contains: Thorsten Altfeld
   - id: r03-kuendigung-in-chronologie
     check_type: text_contains

@@ -48,7 +48,6 @@ Die Akte bündelt mehrere zivilrechtliche Störungen rund um die Bestellung, Lie
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch mit Klara Windmöller |
 | `02_angebot_ofenhaus_backstein.docx` | Angebot Ofen/Lieferung/Montage |
 | `03_bestellung_und_agb_auszug.docx` | Bestellung mit AGB-Auszug und Gewährleistungsregeln |
 | `04_montageprotokoll_unterschrift_unleserlich.docx` | Montageprotokoll mit Abnahme-Streit |

@@ -8,8 +8,8 @@ checks:
     path: gesamt-pdf/hinweisgeberschutz-nda-meldekanal-waldkrone_gesamt.pdf
   - id: r02-vorgangsnummer
     check_type: text_contains
-    description: Die Mandatsaufnahme führt die Vorgangsnummer der Meldestelle.
-    path: 01-mandatsnotiz-und-arbeitsauftrag.docx
+    description: Die Akte führt die Vorgangsnummer der Meldestelle.
+    path: 07-email-hinweisgeber-rueckkanal.eml
     contains: HIN-26-014
   - id: r03-nachreichung
     check_type: text_contains

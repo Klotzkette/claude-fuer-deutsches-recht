@@ -23,7 +23,6 @@ Diese Akte bündelt einen laufenden Softwarerechtsfall rund um eine B2B-SaaS-Pla
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.docx` | Erste Kanzleinotiz mit Auftrag, Streitwert, Beteiligten und Sofortfragen |
 | `02-zeitstrahl-rechtekette.docx` | Chronologie der Entwicklung, Vertragsstände, Zusagen und Eskalation |
 | `03-prueffragen-softwarerecht.docx` | Arbeitsauftrag an IT/IP/Data-Reg-Team mit konkreten Prüfpfaden |
 | `04-saas-order-form-route-luchs.pdf` | Order Form mit Lizenzmetrik, SLA, Affiliate- und API-Frage |

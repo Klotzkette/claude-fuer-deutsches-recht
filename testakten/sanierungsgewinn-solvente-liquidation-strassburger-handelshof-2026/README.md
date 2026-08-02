@@ -81,7 +81,6 @@ Hinzu kommt auf Gesellschafterebene: Auflösungsverlust nach § 17 Abs. 4 EStG, 
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Aktenübersicht, Beteiligte, Chronologie |
-| 01 | [`01_mandatsnotiz_strassburger-wittenburg.docx`](01_mandatsnotiz_strassburger-wittenburg.docx) | Mandatsnotiz Erstgespräch Frau Strassburger-Wittenburg |
 | 02 | [`02_gesellschafterbeschluss_aufloesung_15_04_2026.docx`](02_gesellschafterbeschluss_aufloesung_15_04_2026.docx) | Gesellschafterbeschluss Auflösung § 60 GmbHG |
 | 03 | [`03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx`](03_bekanntmachung_aufloesung_und_glaeubigeraufruf.docx) | Bekanntmachung im Unternehmensregister, Gläubigeraufruf § 65 GmbHG |
 | 04 | [`04_liquidationsbilanz_zum_15_04_2026.docx`](04_liquidationsbilanz_zum_15_04_2026.docx) | Liquidations-Eröffnungsbilanz |

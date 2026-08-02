@@ -1,6 +1,6 @@
 # zwangsverwaltung-zvg
 
-**59 Skills** · Stand `v435.2.0`
+**59 Skills** · Stand `v436.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zwangsverwaltung-zvg/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

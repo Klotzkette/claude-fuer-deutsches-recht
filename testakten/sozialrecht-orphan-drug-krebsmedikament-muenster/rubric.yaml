@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: Eilfall zur Kostenübernahme eines extrem teuren Orphan-Drug-Krebsmedikaments mit Tumorboard, MD-Ablehnung,
   Kassenbescheid und Eilantrag.
 checks:
-  - id: datei-01-mandatsnotiz-eilfall
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_eilfall.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_eilfall.docx
   - id: datei-02-onkologischer-antrag
     check_type: file_exists
     description: Das Primäraktenstück 02_onkologischer_antrag.docx ist für die Fallauswertung vorhanden.

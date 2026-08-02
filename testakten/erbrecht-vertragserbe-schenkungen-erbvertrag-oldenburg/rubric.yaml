@@ -8,10 +8,6 @@ description: 'Berufungsverfahren vor dem OLG Oldenburg (8 U 63/26) nach teilweis
   Ruecktrittsvorbehalt; der Senat weist darauf hin und setzt eine Stellungnahmefrist. Zu fertigen sind
   Stellungnahme, Berufungserwiderung und Begruendung der Anschlussberufung.'
 checks:
-  - id: datei-01-mandatsnotiz
-    check_type: file_exists
-    description: Die Mandatsnotiz mit Beteiligten, Verfahrensstand und Fristen ist vorhanden.
-    path: 01_mandatsnotiz_berufung.docx
   - id: datei-02-erbvertrag
     check_type: file_exists
     description: Der vollstaendige Erbvertrag von 2008 mit Ruecktrittsvorbehalt ist vorhanden.

@@ -27,7 +27,6 @@ Nach dem Tod von Helmut Rieken streitet sein enterbter Sohn Moritz gegen seine S
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_enterbter_sohn.docx` | Erstkontakt, Familienlage, Frist, Ziel |
 | `02_testament_helmut_rieken_2022.docx` | Eigenständige Abschrift des Testaments mit Originalzustand und Ablieferung |
 | `02a_privates_nachlassverzeichnis_alva_rieken.docx` | Gesonderte private Nachlassaufstellung der Erbin mit Belegstand |
 | `03_uebertragungsvertrag_resthof.docx` | Notarielle Urkunde der Hofübertragung als Abschrift: Wohnungsrecht, Rückforderung, Gleichstellung |

@@ -27,7 +27,6 @@ Die Akte liegt in zwei Formen vor: als verstreute Dokumente mit E-Mails, Word-/E
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-registerlage.docx` | Aktenstück |
 | `02-beanstandung-registergericht.docx` | Aktenstück |
 | `03-gesellschafterliste-version-a.docx` | Aktenstück |
 | `04-gesellschafterliste-version-b.docx` | Aktenstück |

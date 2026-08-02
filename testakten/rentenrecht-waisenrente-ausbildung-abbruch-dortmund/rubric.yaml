@@ -3,10 +3,6 @@ plugin: "rentenpruefer"
 description: Waisenrente nach Ausbildungsabbruch mit gesundheitlicher Begruendung, Uebergangszeit, Studienzusage,
   Erstattungsbescheid und Widerspruch.
 checks:
-  - id: datei-01-mandatsnotiz-waisenrente
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_waisenrente.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_waisenrente.docx
   - id: datei-02-drv-einstellungsbescheid
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_einstellungsbescheid.docx ist für die Fallauswertung vorhanden.

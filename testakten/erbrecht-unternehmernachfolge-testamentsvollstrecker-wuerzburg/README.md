@@ -38,7 +38,6 @@ Nachlass des Maschinenbauunternehmers Heinrich Baumann mit GmbH-Anteilen, Testam
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Kanzleivermerk zu Nachlass, Beteiligungsstruktur, Testamentsvollstreckung, Bankdruck, Pflichtteil und Mandatskonflikten |
 | `02_chronologie_arbeitsstand.docx` | Zeitachse vom Unternehmertestament bis zur offenen Gesellschafterliste mit Vollzugsstatus und Abhängigkeiten |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung der Geschäftsführerin Mara Baumann zu Nachfolgeplanung, Bank, Liquidität und Verhältnis zu Tilo |
 | `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Tilo Baumanns zu Auskunft, unabhängiger Unternehmensbewertung, Testamentsvollstreckung und Vergleich |

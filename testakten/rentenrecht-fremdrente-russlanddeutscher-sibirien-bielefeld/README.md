@@ -27,7 +27,6 @@ Der Datenauswertungs-Kern liegt in der Entgeltpunkt-Berechnungstabelle (`11_frg_
 
 ```
 rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
-├── 01_mandatsnotiz_fristsache.docx                       # Person, Zuzug 1992, Bescheidlage, Arbeitsauftrag
 ├── 02_drv_bescheid_kontenklaerung_auszug.docx            # Kontenklärungsbescheid mit FRG-Vormerkung und Mitwirkungsfrist
 ├── 03_arbeitsbuch_uebersetzung_auszug.docx               # Beglaubigt übersetzte Arbeitsbuchauszüge mit Auffälligkeiten
 ├── 04_lebenslauf_berufsabstieg.docx                      # Herkunftsberuf, Deutschlandphase, Mandantenperspektive
@@ -38,8 +37,10 @@ rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
 ├── 09_klageraster_sozialgericht.docx                     # Beweisprogramm und Vergleichsoption für den Klagefall
 ├── 10_archivbescheinigung_nowosibirsk_1994.docx          # Übersetzte Archivbescheinigung mit Fondswechsel-Hinweis
 ├── 11_frg_entgeltpunkte_berechnung.csv                   # Datenkern: Monate, Tabellenwert, Sechstel, Begrenzung, anrechenbare EP
+├── 12_email_cousine_olga_nowosibirsk.eml                 # E-Mail der Cousine mit Archivauskunft zu Fonds und Qualifikation
 ├── 13_erklaerung_auslaendischer_rentenbezug_2026-07-03.docx # Mitwirkungserklärung zum ausländischen Rentenbezug (Endprodukt)
 ├── 14_whatsapp_tochter_archiv.txt                        # Chat Tochter/Rentenberater zu Apostille, Archiv und Namensfrage
+├── 15_vertriebenenausweis_bvfg_kopie.docx                # Bescheinigung nach dem Bundesvertriebenengesetz (Kopie)
 ├── eml/
 │   ├── 01_drv_westfalen_mitwirkung_erklaerung.eml        # DRV Westfalen: Mitwirkungsfrist, Fonds R-2214/R-2298, Sechstel
 │   ├── 02_landsmannschaft_uebersetzung_transliteration.eml # Landsmannschaft: Transliteration Klassen/Klassen, Fondswechsel

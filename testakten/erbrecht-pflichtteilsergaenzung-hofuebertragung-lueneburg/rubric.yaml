@@ -3,10 +3,6 @@ plugin: "fachanwalt-erbrecht"
 description: Pflichtteils- und Pflichtteilsergänzungsakte mit Hofübertragung, Vorbehaltsrechten, Baugrundstücken,
   Depotlücke, Pflegebehauptung und Auskunftsstufe.
 checks:
-  - id: datei-01-mandatsnotiz-enterbter-sohn
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_enterbter_sohn.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_enterbter_sohn.docx
   - id: datei-02-testament-und-nachlassverzeichnis
     check_type: file_exists
     description: Die eigenständige Testamentsabschrift ist für die Fallauswertung vorhanden.

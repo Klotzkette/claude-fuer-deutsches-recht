@@ -29,7 +29,6 @@ Der Datenauswertungs-Kern liegt im Monatsraster (`12_waisenrente_monatsraster_be
 
 ```
 rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
-├── 01_mandatsnotiz_waisenrente.docx                     # Lebenslauf, Frist, Bescheidlage, Beratungsziel
 ├── 02_drv_einstellungsbescheid.docx                     # Einstellungs- und Erstattungsbescheid mit Rechtsbehelfsbelehrung
 ├── 03_ausbildungsnachweise.docx                         # Abitur, Bundesfreiwilligendienst, Ausbildung, Studienzusage
 ├── 04a_hausaerztliche_bescheinigung_2025-12-05.docx     # Eigenständige hausärztliche Bescheinigung
@@ -59,7 +58,6 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_waisenrente.docx` | Lebenslauf, Frist, Beratungsziel |
 | `02_drv_einstellungsbescheid.docx` | Einstellung der Halbwaisenrente und Erstattungsforderung |
 | `03_ausbildungsnachweise.docx` | Schule, Bundesfreiwilligendienst, Ausbildung, Studienzusage |
 | `04a_hausaerztliche_bescheinigung_2025-12-05.docx` | Hausärztlicher Befund zum konkreten Abbruchzeitraum |

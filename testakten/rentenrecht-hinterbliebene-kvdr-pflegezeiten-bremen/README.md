@@ -34,7 +34,6 @@ Neu hinzugekommen ist ein vierter Streitpunkt: Die Weser Krankenkasse stellt nac
 ```
 rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
 ├── README.md                                  ← diese Datei
-├── 01_mandatsaufnahme.docx                      ← Kanzleivermerk: Beteiligte, Fristen, Arbeitsauftrag
 ├── 02_drv_bescheid_witwenrente.docx             ← Bewilligungsbescheid mit Sterbevierteljahr, Anrechnung, Rechtsbehelfsbelehrung
 ├── 03_unterstuetzungskasse_leistungsmitteilung.docx ← Zahlstelle erklärt Beitragsabzug ab Juni 2026
 ├── 04_krankenkasse_beitragsmitteilung.docx      ← KVdR-Einordnung, Beitragssätze, angekündigte Nachberechnung

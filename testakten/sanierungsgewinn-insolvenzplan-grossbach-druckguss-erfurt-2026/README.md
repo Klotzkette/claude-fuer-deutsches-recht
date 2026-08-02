@@ -81,7 +81,6 @@ Der Verlustvortrag von 12 Mio EUR (KSt) reicht nicht aus, den Sanierungsertrag v
 sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 ├── README.md                                                            ← Diese Datei
 ├── 00_aktenuebersicht.md
-├── 01_mandatsnotiz_steuerberater_engelmeier.docx
 ├── 02_insolvenzantrag_schutzschirm_grossbach.docx
 ├── 03_insolvenzplan_eckpunkte_und_quotenverteilung.docx
 ├── 04_forderungsverzicht_verzichtsvereinbarung-glaeubigerausschuss.docx

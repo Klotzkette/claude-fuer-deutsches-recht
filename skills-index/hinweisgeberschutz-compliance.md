@@ -1,6 +1,6 @@
 # hinweisgeberschutz-compliance
 
-**102 Skills** · Stand `v435.2.0`
+**102 Skills** · Stand `v436.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hinweisgeberschutz-compliance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

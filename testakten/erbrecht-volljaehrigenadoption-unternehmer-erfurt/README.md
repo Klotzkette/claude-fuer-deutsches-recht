@@ -27,7 +27,6 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Mitarb
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_leibliche_tochter.docx` | Erstkontakt, Beteiligte, Ziel |
 | `02_adoptionsbeschluss_amtsgericht_erfurt_2024.docx` | Ausfertigung des Adoptionsbeschlusses mit Gründen und Rechtskraft |
 | `02a_beziehungsdarstellung_adoptionsakte.docx` | Gesonderter Quellenvermerk zu Beziehungstatsachen und Aktenstand |
 | `02b_email_steuerberater_nachfolgeplanung_2025.eml` | Zeitnahe Korrespondenz zur getrennten gesellschaftlichen Nachfolgeplanung |

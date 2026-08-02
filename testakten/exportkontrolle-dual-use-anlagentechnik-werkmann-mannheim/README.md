@@ -71,7 +71,7 @@ Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstbesprechung.docx`](01_mandatsaufnahme_erstbesprechung.docx) | Mandatsaufnahme, Vollmacht, Sachverhaltsüberblick alle Komplexe |
+| 01a | [`01a_vollmacht_anlage_01a.docx`](01a_vollmacht_anlage_01a.docx) | Notariell beglaubigte Vollmacht der Mandantin (Anlage 01/A) |
 | 02 | [`02_bafa_owi_verfahren_dual_use.docx`](02_bafa_owi_verfahren_dual_use.docx) | BAFA OWi-Verfahren § 18 AWG, Rechtsrahmen, Chronologie, Strategie |
 | 03 | [`03_mfr3400x_technische_analyse_dual_use.docx`](03_mfr3400x_technische_analyse_dual_use.docx) | Technische Analyse MFR-3400X, Listungsprüfung Dual-Use-VO |
 | 04 | [`04_spengler_engineering_lieferkette_ermittlung.docx`](04_spengler_engineering_lieferkette_ermittlung.docx) | Lieferkettenermittlung, Spengler/Transcaucasia/Razi, Red Flags |

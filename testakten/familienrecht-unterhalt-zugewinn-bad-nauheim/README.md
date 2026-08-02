@@ -27,7 +27,6 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 
 | Nr. | Datei | Inhalt |
 | --- | --- | --- |
-| 01 | `01_mandatsnotiz_erstgespraech.docx` | Erstgespräch, Ziele, Fristen, Trennungsdatum, Beteiligte |
 | 02 | `02_trennungs_und_betreuungschronik.docx` | Alltag, Betreuungsanteile, Schulwege, Streitpunkte |
 | 03 | `03_kinderdaten_mehrbedarf_sonderbedarf.docx` | Kinder, Betreuung, Hort, Musikschule, Brille, Klassenfahrt |
 | 04a | `04a_arbeitgeberbescheinigung_elena_neumann_2026.docx` | Eigenständige Arbeitgeberbescheinigung zu Gehalt, Sonderzahlungen, Arbeitszeit und Dienstwagenverzicht |
@@ -63,7 +62,6 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 
 ```text
 familienrecht-unterhalt-zugewinn-bad-nauheim/
-├── 01_mandatsnotiz_erstgespraech.docx            Erstgespräch: Trennung, Ziele, Fristlage
 ├── 02_trennungs_und_betreuungschronik.docx       Betreuungsalltag und Ereignisliste seit Februar 2026
 ├── 03_kinderdaten_mehrbedarf_sonderbedarf.docx   Kinder, laufende Kosten, Einmalpositionen
 ├── 04a_arbeitgeberbescheinigung_elena_neumann_2026.docx      Gehalt, Arbeitszeit und Sonderzahlungen Elena
