@@ -57,5 +57,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_einsatzbestaetigung_wasserbau_mexiko.docx`](16_einsatzbestaetigung_wasserbau_mexiko.docx) | Personalstellenbestätigung zu Einsatzzeiten und realen Aufgaben |
 | [`17_email_projektleiterin_aufgabenverteilung.eml`](17_email_projektleiterin_aufgabenverteilung.eml) | Erinnerungsmail der damaligen Projektleiterin |
 | [`18_reise_und_baustellentage_mexiko.csv`](18_reise_und_baustellentage_mexiko.csv) | Reise- und Baustellentage mit Nachweisstatus |
+| [`19_gedaechtnisvermerk_rabenhorst_telefonat_personalstelle.md`](19_gedaechtnisvermerk_rabenhorst_telefonat_personalstelle.md) | Gedächtnisvermerk des Mandanten zum Telefonat mit der Personalstelle vom 05.05.2026 |
+| [`20_uebersetzungen_spanische_nachweise_status.csv`](20_uebersetzungen_spanische_nachweise_status.csv) | Liste der spanischsprachigen Nachweise mit Übersetzungs- und Bearbeitungsstand |
 
 <!-- END nachgereichte-originalunterlagen -->
