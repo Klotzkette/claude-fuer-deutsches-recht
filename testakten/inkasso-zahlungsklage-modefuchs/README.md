@@ -48,6 +48,7 @@ Der Prüffokus ist absichtlich scharf: Der Klagegenerator muss erkennen, dass di
 | `07_fehleranalyse_vorhandene_klage.docx` | Analyse der vorhandenen Klageschrift. |
 | `08_claim_gate_input.json` | Maschinelles Input-Beispiel für das Claim-Gate. |
 | `09_claim_gate_output.json` | Erwarteter Gatekeeper-Output. |
+| `10_email_zahlungseingang_modefuchs_inkasso.eml` | E-Mail-Wechsel Buchhaltung ModeFuchs / InkassoZentrale vom 1. und 2. Juli 2025: verspätet gemeldete Direktzahlung, offene Restpositionen, Rückfrage zur Auskehrung. |
 
 ## Erwartetes Testergebnis
 

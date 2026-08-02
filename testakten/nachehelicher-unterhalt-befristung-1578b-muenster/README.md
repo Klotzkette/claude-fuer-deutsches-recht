@@ -46,10 +46,11 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 | 12 | [`12_strategie_und_vergleichskorridor.docx`](12_strategie_und_vergleichskorridor.docx) | Paragraf 1578b- und Paragraf 1579-Bewertung, Strategie, Vergleichskorridor, Antrag |
 | 13 | [`13_vergleichsprotokoll_2021_abschrift.docx`](13_vergleichsprotokoll_2021_abschrift.docx) | Protokoll des Unterhaltsvergleichs vom 09.03.2021 (44 F 2189/19) als Abschrift |
 | 14 | [`14_verdienstbescheinigung_vosskamp_2026.docx`](14_verdienstbescheinigung_vosskamp_2026.docx) | Verdienstbescheinigung des Marienhospitals mit Monatsbezügen Januar bis Mai 2026 |
+| 15 | [`15_telefonvermerk_vosskamp_2026-07-09.md`](15_telefonvermerk_vosskamp_2026-07-09.md) | Telefonvermerk zum Mandantengespräch nach Eingang der gegnerischen Stellungnahme, Beobachtungen zu den Wohnverhältnissen |
 
 ## Anlagen
 
-- `emails/` — Mandantenkorrespondenz und Auskunftsaufforderung nach Paragraf 1605 BGB.
+- `emails/` — Mandantenkorrespondenz, Auskunftsaufforderung nach Paragraf 1605 BGB und Antwortschreiben der gegnerischen Bevollmächtigten.
 - `csv/` — Einkommens- und Zahlungsübersicht (Arbeitswerte).
 
 ## Aktenstruktur
@@ -69,11 +70,13 @@ nachehelicher-unterhalt-befristung-1578b-münster/
 ├── 12_strategie_und_vergleichskorridor.docx      Bewertung, Korridor, Antragseckpunkte
 ├── 13_vergleichsprotokoll_2021_abschrift.docx    Protokollabschrift des Vergleichs vom 09.03.2021
 ├── 14_verdienstbescheinigung_vosskamp_2026.docx  Arbeitgeberbescheinigung mit Monatsbezügen 2026
+├── 15_telefonvermerk_vosskamp_2026-07-09.md      Telefonvermerk nach gegnerischer Stellungnahme
 ├── csv/
 │   └── einkommens_und_zahlungsuebersicht.csv   Einkommens- und Zahlungsübersicht (Arbeitswerte)
 ├── emails/
 │   ├── 2026-06-11_vosskamp_an_kanzlei_unterlagen.eml        Mandant übersendet Unterlagen
-│   └── 2026-06-15_kanzlei_an_carola_auskunftsaufforderung_1605.eml  Auskunftsaufforderung
+│   ├── 2026-06-15_kanzlei_an_carola_auskunftsaufforderung_1605.eml  Auskunftsaufforderung
+│   └── 2026-07-06_ra_wittenbrink_antwort_auskunftsaufforderung.eml  Antwort der Gegenseite mit Fristbitte
 ├── README.md                                   Diese Übersicht
 ├── rubric.yaml                                 Prüfkriterien für die Bearbeitung
 └── gesamt-pdf/

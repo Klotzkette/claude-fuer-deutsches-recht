@@ -84,6 +84,7 @@ Großbatteriespeicher 200 MW / 400 MWh auf Konversionsfläche neben Kraftwerk J�
 41. EPC-Anzahlungsrechnung Sungrow über 18 Mio EUR aus Tranche 2 (Vorauszahlungsbond Bank of China)
 42. Zugangsbestätigung Anlage 4 Stadtwerke Cottbus — Drawstop-Punkt (iii) geheilt
 43. Forensik-Protokoll Cap-Table V2 (Inkubator-IT Cottbus, keine Außenverwendung der V2-Linie nachgewiesen)
+44. Mitschrift-Fragment der außerordentlichen Gesellschafterversammlung 24.06.2026 (Sekretariat Pawlowski; Abberufungsantrag ohne Mehrheit, zwei Handschrift-Seiten fehlen, Ladungsrüge NordCap)
 
 ## Anhänge – Step-Plan-Excel und PDF
 - `25_step_plan_excel_lausitzstorage.xlsx` – ausgefülltes Excel-Template gemäß Plugin-Vorlage (4 Reiter: Übersicht / Verfügbar / Fehlend / Erstellung u. Beschaffung) mit Ampelfärbung

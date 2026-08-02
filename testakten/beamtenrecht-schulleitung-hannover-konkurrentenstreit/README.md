@@ -59,5 +59,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`17_protokoll_auswahlgespraech_schulleitung.docx`](17_protokoll_auswahlgespraech_schulleitung.docx) | Ablaufprotokoll der tatsächlich geführten Auswahlgespräche |
 | [`18_email_elternrat_sanierungsschreiben.eml`](18_email_elternrat_sanierungsschreiben.eml) | Elternratsmail zur Herkunft eines angesprochenen Schreibens |
 | [`19_bewertungsboegen_rohpunkte.csv`](19_bewertungsboegen_rohpunkte.csv) | Nicht konsolidierte Einzelbewertungen der Kommission |
+| [`20_zwischennachricht_vg_hannover.md`](20_zwischennachricht_vg_hannover.md) | Zwischennachricht des VG Hannover (2 B 2647/26) mit Stillhalteerklärung, Beiladung und Auflagen |
+| [`21_chat_falkenberg_dernedde.txt`](21_chat_falkenberg_dernedde.txt) | Chat-Export der Antragstellerin mit dem Ganztagskoordinator zu einem Schulbesuch des Ausgewählten vor der Konkurrentenmitteilung |
 
 <!-- END nachgereichte-originalunterlagen -->

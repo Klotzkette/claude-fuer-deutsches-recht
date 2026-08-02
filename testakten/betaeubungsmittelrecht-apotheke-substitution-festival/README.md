@@ -30,6 +30,9 @@ BtM-Akte: Apotheke, Substitution, Festivalfund, nicht geringe Menge, BtM-Rezept,
 | `05_aservate_rezepte_und_telefonzeiten.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
 | `06_email_festival_sanitaetsdienst_fund_2026-07-12.eml` | E-Mail mit vollständigem Header: Fund Buprenorphin mit Apothekenquittung / Uferklang 11. Juli |
 | `07_arztpraxis_telefonvermerk_takehome.docx` | Telefon- und Verordnungsvermerk zur Take-home-Abgabe |
+| `08_chatexport_jonas_ruess_2026-07-11.txt` | Polizeilich gesicherter Nachrichtenexport: Blister-Weitergabe an „Cem F." und Verlust der Gürteltasche |
+| `09_email_apotheke_nachreichung_2026-07-16.eml` | E-Mail mit vollständigem Header: Nachreichung Warenbewegungen, Videoauszug, fehlende Stellungnahme Rüß |
+| `10_abschrift_notizzettel_tresorbuch.md` | Abschrift eines handschriftlichen Zählzettels aus dem BtM-Journal mit Bestandsnotizen vom 8. bis 10. Juli |
 ## Passende Plugins
 
 `betaeubungsmittelrecht`

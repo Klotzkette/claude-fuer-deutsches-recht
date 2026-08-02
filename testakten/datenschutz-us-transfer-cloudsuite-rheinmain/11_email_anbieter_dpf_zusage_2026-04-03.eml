@@ -1,0 +1,44 @@
+From: Kyle Brennan <kyle.brennan@cloudsuite.com>
+To: Markus Deininger <m.deininger@rheinmain-praezisionstechnik.de>
+Cc: Nora Weidemann <n.weidemann@rheinmain-praezisionstechnik.de>
+Date: Fri, 03 Apr 2026 17:41:12 +0200
+Subject: RE: RE: Frage Datenstandort / US-Transfer CloudSuite Assist + ReplyPilot
+Message-ID: <CAK4u9pR33btq18a@mail.cloudsuite.com>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Hi Markus,
+
+thanks for the follow-up! Quick answers below:
+
+1) Data residency: production data for EU enterprise customers stays in Frankfurt with backup in Dublin, as per the Order Form.
+2) US transfers: CloudSuite participates in the EU-U.S. Data Privacy Framework and provides the 2021 Standard Contractual Clauses as fallback for all enterprise customers. So you are covered either way.
+3) ReplyPilot: the model provider only sees a short ticket excerpt, no training on customer prompts.
+
+I will send over the certification link separately, our legal team is updating the trust center page this quarter.
+
+Best,
+Kyle
+
+Kyle Brennan | Senior Account Executive EMEA
+CloudSuite | San José, CA
+
+-----Ursprüngliche Nachricht-----
+Von: Markus Deininger <m.deininger@rheinmain-praezisionstechnik.de>
+Gesendet: Freitag, 3. April 2026 11:02
+An: Kyle Brennan <kyle.brennan@cloudsuite.com>
+Betreff: RE: Frage Datenstandort / US-Transfer CloudSuite Assist + ReplyPilot
+
+Hallo Kyle,
+
+danke für das Telefonat gestern. Wie besprochen bräuchte ich noch kurz schriftlich: liegen die Daten wirklich komplett in Frankfurt? Und was ist mit dem neuen KI-Modul, da meinte unser Legal-Team wir brauchen dazu was Belastbares wegen USA. Reicht da eure Zertifizierung? Bitte einmal kurz bestätigen, wir wollen das Modul nächste Woche freischalten.
+
+Und noch was: welcher Rechtsträger ist da eigentlich zertifiziert, CloudSuite Ireland oder die Inc.? Unser Vertrag läuft ja über Irland.
+
+Danke dir und schönes Wochenende
+Markus
+
+Markus Deininger
+Strategischer Einkauf
+RheinMain Präzisionstechnik GmbH, Hanauer Landstraße 188, 60314 Frankfurt am Main

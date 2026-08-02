@@ -108,10 +108,12 @@ Die Mandantin ist Eigentümerin eines Gründerzeit-Mietshauses unmittelbar an de
 
 ### 09 — Chronologie Mandantin
 - `01-chronologie-vogt-kraemer.md` — handschriftliche Aufzeichnungen 2022–2024
+- `02-email-vogt-kraemer-rodung-2025-02-17.eml` — Eilmeldung der Mandantin: Baufeldfreimachung, Nistkästen am Stellwerk entfernt
 
 ### 10 — Schriftsätze
 - `01-normenkontrollantrag-bayvgh.md` / `.docx` — Hauptsacheantrag
 - `02-eilantrag-47-abs-6-vwgo.md` / `.docx` — Eilantrag
+- `03-zwischennachricht-bayvgh-2024-11-26.md` — Eingangsbestätigung des BayVGH mit Aktenzeichen 15 N 24.2201 / 15 NE 24.2202, Fristen und vorläufigem Streitwert
 
 ### 11 — Fristen
 - `fristenkalender.md` / `.xlsx` — neun Fristen, farbcodiert

@@ -53,6 +53,8 @@ Der Erfurter Unternehmer Ralf Sander adoptierte 2024 seinen langjährigen Mitarb
 | `18_telefonnotiz_nele_aus_dem_auto.docx` | Telefonnotiz zur bislang fehlenden Ferienwohnung Zinnowitz |
 | `19_postausgang_und_fristenblatt.docx` | Getrennte Fristen und Versandnachweise für Adoption, Erbschein und Auskunft |
 | `20_rvg_kostenentwurf.docx` | Kosten-, Vorschuss- und Fremdkostenübersicht mit offenen Gegenstandswerten |
+| `21_chatverlauf_nele_peer.txt` | Geschwister-Chat: Kenntnis von der Adoption, fehlende Ferienwohnung, Familienessen |
+| `22_bankauskunft_girokonto_buchungen.csv` | Bankauskunft: Buchungen auf dem Girokonto nach dem Todestag bis Ende Juli 2026 |
 | `xlsx/nachlass_beteiligung_belegstatus.xlsx` | Nachlasswerte, Gesellschaftsereignisse und Belegstatus |
 
 ## Ordnerlogik

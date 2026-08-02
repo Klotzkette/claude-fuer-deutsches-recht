@@ -56,5 +56,6 @@ Elbwerft Solarplanung eGbR aus Hamburg-Altona wächst vom Planungsbüro in den k
 | `18_lager_und_buchfuehrung.docx` | Lager und Buchführung |
 | `19_anwaltliches_kurzvotum.docx` | Kurzvotum |
 | `20_vergleichsplan_soltronic_bank_investor.docx` | Vergleichsplan |
-| `emails/*.eml` | E-Mails Bank/Lieferant/Notar |
+| `21_technikerchat_wechselrichter.txt` | Chat-Export der Techniker: Fehlerentdeckung am 22.04.2026, Fehlercode E-4417, gesperrte Palette |
+| `emails/*.eml` | E-Mails Bank/Lieferant/Notar/Investor (u. a. `email-investor-moeller-beitritt.eml`: Einlage erst nach Eintragung, Firmenfrage, Zeitplan) |
 | `tabellen/*.csv` | Warenlieferung, Rüge, Haftsumme |

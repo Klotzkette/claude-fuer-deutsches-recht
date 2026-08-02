@@ -69,5 +69,6 @@ Die Akte bündelt mehrere zivilrechtliche Störungen rund um die Bestellung, Lie
 | `20_delikt_regress_versicherer.docx` | Delikt/Regress |
 | `21_verjaehrung_und_beweissicherung.docx` | Verjährung/Beweissicherung |
 | `22_vergleichsentwurf.docx` | Vergleichsentwurf |
-| `emails/*.eml` | E-Mail-Verkehr |
+| `23_abschrift_notizzettel_krumm.md` | Abschrift des handschriftlichen Notizzettels der Nachbarin zu Wasseraustritt, Schlüsseldienst und Brandabend |
+| `emails/*.eml` | E-Mail-Verkehr, darunter die Antwort des Ofenhauses auf die Mängelanzeige mit Fristsetzung zur Schlussrate |
 | `tabellen/*.csv` | Kosten-/Schadens- und Fristenlisten |

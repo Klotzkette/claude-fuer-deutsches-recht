@@ -84,6 +84,7 @@ Arbeitsakte zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 | 20 | [`20_prozesstaktik_lg_mannheim.docx`](20_prozesstaktik_lg_mannheim.docx) | Beweisantritte, Gutachterauswahl, Terminsvorbereitung |
 | 21 | [`21_vollstreckung_ordnungsmittelantrag.docx`](21_vollstreckung_ordnungsmittelantrag.docx) | § 890 ZPO, Ordnungsgeldantrag, Verstöße nach eV |
 | 22 | [`22_gesamtstrategie_und_zeitachse.docx`](22_gesamtstrategie_und_zeitachse.docx) | Parallelverfahren, Meilensteine, Mandanteninformation |
+| 23 | [`23_monitoring_testkaeufe_flowerworld_2026-06.csv`](23_monitoring_testkaeufe_flowerworld_2026-06.csv) | Rohliste der Filial- und Online-Kontrollen nach der einstweiligen Verfügung mit Befunden und Belegen |
 
 ---
 

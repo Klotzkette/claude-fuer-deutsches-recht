@@ -86,6 +86,8 @@ Die Akte enthält drei Verteidigungslinien: die Angreifbarkeit der Fahreridentif
 | [14_einspruch_entwurf.docx](14_einspruch_entwurf.docx) | Vollständige Einspruchsbegründung (ca. 1.600 Wörter): 4 Verteidigungslinien, Beweisanträge, Härtevortrag, Anlagenverzeichnis |
 | [14_einspruch_entwurf.docx](14_einspruch_entwurf.docx) | DOCX-Fassung des Einspruchsschreibens (Kanzlei-Briefkopf-Format) |
 | [15_hauptverhandlung_fragenkatalog.docx](15_hauptverhandlung_fragenkatalog.docx) | 40 Fragen an Zeugen, Sachverständige und Revisionszeugin: strukturiert nach Standort, Rotphase, Fahrspurkorrektur, Fahreridentifikation, Gerät, Glaubwürdigkeit |
+| [16_email_rechtsschutz_deckungszusage.eml](16_email_rechtsschutz_deckungszusage.eml) | Deckungszusage der Rheinland Rechtsschutz AG vom 27.05.2026: Kostenschutz erste Instanz, Selbstbeteiligung, Vorbehalt bei Gutachterkosten |
+| [17_zwischennachricht_ag_koeln.md](17_zwischennachricht_ag_koeln.md) | Zwischennachricht des AG Köln (813 OWi 1244/26) vom 21.07.2026: Akteneingang, Terminvorschläge Oktober, fehlende Rohmessdaten |
 
 ---
 

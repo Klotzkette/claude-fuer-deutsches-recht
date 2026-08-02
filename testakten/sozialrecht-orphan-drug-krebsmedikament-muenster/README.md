@@ -42,6 +42,9 @@ sozialrecht-orphan-drug-krebsmedikament-münster/
 ├── 09_apotheke_kostenvoranschlag_herstellung.docx <- Kostenvoranschlag der Klinikapotheke mit Lieferrisiken
 ├── 10_email_klinik_soforttermin.eml         <- Klinik-E-Mail zu Termin, Zeitfenster und Abbruchrisiko
 ├── 11_pflegebericht_schmerzprotokoll.txt    <- Häusliches Pflege- und Schmerzprotokoll der Ehefrau
+├── 12_abschrift_notizzettel_teresa_luetke.md <- Abschrift des handschriftlichen Notizzettels zum Kassentelefonat (Anlage T-1)
+├── 13_email_apotheke_reservierung_2026-07-02.eml <- Apotheken-E-Mail zu Reservierungsfrist, einmaliger Verlängerung und Bestellvorlauf
+├── 14_haushaltsuebersicht_eheleute_luetke.csv <- Einnahmen, Ausgaben und Guthaben der Eheleute für die Glaubhaftmachung
 └── gesamt-pdf/                              <- konsolidierte Lesefassung als PDF
 ```
 

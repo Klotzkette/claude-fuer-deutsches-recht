@@ -34,5 +34,8 @@ Dr. Eberwein Übelacker-Strohmeyer hat am 14. März 2026 den Vertrag über Wohnu
 | `06_vertrieb_reservierung_2026-03-13.eml` | Nachricht der Vertriebsleitung |
 | `07_sonderwunschliste_wohnung_4_27.csv` | offene Sonderwünsche und Angebote |
 | `08_kanzlei_rueckfrage_teilungsnachtrag_2026-03-17.eml` | erste Rückmeldung der Rechtsanwältin |
+| `09_kontoauszug_reservierung_privat.csv` | privater Kontoauszug des Käufers mit Reservierungszahlung und Bemusterungsabschlag |
+| `10_sms_verlauf_vertrieb_quendel.txt` | Nachrichtenverlauf zwischen Käufer und Vertriebsleitung vom 11. bis 17. März 2026 |
+| `emails/01-notariat-anlagen-nachreichung.eml` | Nachreichung von Urkundenanlagen durch das Notariat mit abweichend datierter Baubeschreibung |
 
 Passende Plugins: `bautraegervertrag-pruefer`, `fachanwalt-bau-architektenrecht`, `immobilienrechtspraxis` und `weg-hausverwaltung`.

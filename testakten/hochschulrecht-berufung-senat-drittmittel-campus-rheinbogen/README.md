@@ -36,6 +36,9 @@ Hochschulrecht: Universität Campus Rheinbogen streitet über eine W3-Berufung, 
 | `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
 | `13-anlagenindex.csv` | Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
+| `15-email-rektorat-akteneinsicht.eml` | Justiziariat gewährt Akteneinsicht nur mit Auszügen und Schwärzungen |
+| `16-telefonvermerk-personalrat.md` | Telefonat mit dem Personalratsvorsitzenden zur fehlenden Vorlage |
+| `17-fristen-und-wiedervorlagen.csv` | Fristen- und Wiedervorlagenblatt der Kanzlei |
 
 ## Arbeitsweise
 

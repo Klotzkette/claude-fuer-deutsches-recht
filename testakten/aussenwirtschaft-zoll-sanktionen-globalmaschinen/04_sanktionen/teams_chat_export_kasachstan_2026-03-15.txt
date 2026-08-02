@@ -1,0 +1,22 @@
+Microsoft Teams – Chat-Export (Auszug)
+Exportiert durch IT-Forensik im Rahmen des Legal Hold am 13.04.2026, 16:52 Uhr
+Chat: 1:1, Thomas Bergmann (Vertriebsleitung) / Deniz Karaca (Area Sales Manager Türkei/Zentralasien)
+Angeforderter Zeitraum: 10.03.2026 bis 20.03.2026
+Hinweis Export: Zwei Nachrichten vom 15.03.2026 wurden vom Absender nachträglich gelöscht und sind im Export nur als Löschvermerk enthalten.
+
+[13.03.2026 08:41] Karaca: Morgen Thomas. Yildirim hat gestern abend nochmal angerufen, die wollen die 25 GX-900 unbedingt noch im März. Zahlung soll wieder gesplittet laufen, ein Teil über die Al Noor in Dubai wie im Januar
+[13.03.2026 08:47] Bergmann: warum schon wieder über Dubai? die Rechnung geht an Turan, dann soll auch Turan zahlen
+[13.03.2026 08:52] Karaca: sagt er wegen Devisenbewirtschaftung, die Lira-Konten sind wohl gerade schwierig. Kann ich nicht prüfen
+[13.03.2026 09:15] Bergmann: ok. und der Endkunde? Mehlhorn nervt mich seit Tagen wegen der Endverbleibserklärung, da steht immer noch nur "Almaty" drauf
+[13.03.2026 09:18] Karaca: Atyrau Machinery Partners LLP, mehr hab ich auch nicht. Yildirim sagt der Endkunde will nicht dass sein Name rumgereicht wird, Wettbewerbsgründe
+[15.03.2026 14:02] Karaca: Thomas, kurze Rückmeldung von Yildirim zu der Frage von Frau Mehlhorn ob Lieferungen richtung Russland ausgeschlossen sind
+[15.03.2026 14:03] Karaca: er meinte wörtlich, wenn das mit den Papieren zu kompliziert wird, "dann halt über Kasachstan". Ich weiss ehrlich nicht was ich davon halten soll
+[15.03.2026 14:09] Bergmann: [Nachricht gelöscht am 15.03.2026, 18:44]
+[15.03.2026 14:11] Karaca: verstehe. Und was schreib ich Mehlhorn?
+[15.03.2026 14:12] Bergmann: [Nachricht gelöscht am 15.03.2026, 18:45]
+[15.03.2026 14:26] Karaca: ok. Ich schick ihr die EVE so wie sie ist und schreib dass der Endkunde bestätigt ist. Den Rest klären wir wenn die Anzahlung da ist
+[16.03.2026 07:58] Bergmann: Anzahlung 125k ist avisiert für den 22.3., kommt von Turan direkt. Damit ist das Thema Dubai ja erstmal durch
+[16.03.2026 08:03] Karaca: für die Anzahlung ja. Die Provision Januar lief aber über Al Noor, falls das nochmal jemand fragt
+[16.03.2026 08:05] Bergmann: fragt keiner
+
+Ende des Auszugs. Vollständiger Export mit Metadaten auf Sicherungsdatenträger LH-2026-GM-03 (Verwahrung Rechtsabteilung).

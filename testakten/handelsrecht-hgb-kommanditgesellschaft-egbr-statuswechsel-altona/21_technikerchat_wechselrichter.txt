@@ -1,0 +1,15 @@
+Chat-Export interner Firmenmessenger Elbwerft Solar, Kanal "technik-service"
+Export angefertigt am 20.05.2026 auf Bitte der Kanzlei (Beleg zur Mängelrüge Soltronic)
+Zeitraum: 22.04.2026 bis 24.04.2026
+
+[22.04.2026 09:47] Deniz Yalcin (Servicetechniker): moin, wir haben ein problem auf der baustelle gewerbepark. beim einbinden der neuen wechselrichter in den batteriespeicher schmieren mir die dinger bei der netzumschaltung ab. schon der dritte heute
+[22.04.2026 09:52] Mats Hollstein (Lager): die aus der soltronic lieferung vom 4.4.? die standen bei uns nur im regal, wareneingang war ohne auffälligkeiten, kartons alle heile
+[22.04.2026 10:15] Deniz Yalcin: ja genau die. im normalen netzbetrieb laufen die einwandfrei, das merkst du erst wenn du die umschaltung auf inselbetrieb testest. fehlercode E-4417, laut handbuch firmware
+[22.04.2026 11:38] Deniz Yalcin: hab jetzt alle 12 vom stellplatz A durchgetestet, davon 4 mit dem fehler. mach nachher noch die aus halle 2
+[22.04.2026 16:20] Deniz Yalcin: stand jetzt: 40 geräte geprüft, 11 mit E-4417. seriennummern hab ich in die liste im laufwerk eingetragen, ordner soltronic_04-2026
+[22.04.2026 16:24] Mats Hollstein: puh. sag mal lutz bescheid, der hat den rahmenvertrag mit denen gemacht
+[22.04.2026 16:31] Deniz Yalcin: hab herrn meinhard grad auf mailbox gesprochen. der is bis donnerstag auf der messe in münchen
+[23.04.2026 08:05] Mats Hollstein: theda war eben unten im lager und hat sich zwei von den betroffenen geräten angeschaut, sie will erst wissen ob ein firmware update von soltronic das behebt bevor wir da ein fass aufmachen
+[23.04.2026 08:11] Deniz Yalcin: update hab ich gestern abend bei einem gerät versucht, version 3.1.8 lässt sich nicht aufspielen, bricht bei 60% ab. hab screenshots
+[24.04.2026 14:52] Mats Hollstein: kurze info, meinhard ist zurück, montag früh termin mit ihm und theda dazu. bis dahin keine weiteren geräte von der lieferung verbauen, hab die palette gesperrt
+[24.04.2026 14:55] Deniz Yalcin: ok. die 3 schon verbauten im gewerbepark lass ich im netzbetrieb laufen, inselbetrieb hab ich beim kunden erstmal deaktiviert, der weiß bescheid

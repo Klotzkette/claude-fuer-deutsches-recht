@@ -67,6 +67,7 @@ Die Akte bildet den gesamten Bogen von der frühen Projektklärung bis zur laufe
 | `37_claim_fristsachen_matrix.csv` | Claim-, Fristen- und Entscheidungsregister |
 | `38_rechtsabteilung_sachstandsvermerk.docx` | Sachstandsvermerk der Rechtsabteilung |
 | `39_mail_lph8_bleiben_statt_ausweichen.eml` | Mail der Projektleitung zur LPH-8-Steuerung |
+| `40_telefonvermerk_bauoberleitung_nachtrag01.md` | Telefonvermerk der Bauoberleitung vom 7. Juli 2026: Wasserandrang, Pumpenmiete, Stillstandsandrohung der ARGE und Ortstermin Portal West |
 
 ## Zugeordnete Plugins
 

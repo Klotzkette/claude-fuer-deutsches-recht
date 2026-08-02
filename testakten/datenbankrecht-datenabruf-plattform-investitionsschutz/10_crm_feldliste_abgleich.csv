@@ -1,0 +1,10 @@
+Feld;Im_CRM_Export_12_02_2026;In_bereinigter_Datei_laut_Ruess;Spaltenkopf_laut_QuadratLotse_30_06_2026;Anmerkung
+Firmenname;ja;ja;firma;deckungsgleich
+Ort;ja;ja;ort;deckungsgleich
+Telefon_Zentrale;ja;ja;tel_allgemein;Formatierung abweichend, teils mit Vorwahl in Klammern
+Mobilnummer_Ansprechpartner;ja;laut Rüß gelöscht;mobil;Spalte laut Wiechert vorhanden, aber angeblich überwiegend leer
+E_Mail_Ansprechpartner;ja;laut Rüß gelöscht;kontakt_mail;Widerspruch zur Angabe von Herrn Rüß, Klärung offen
+Notizfeld_Vertrieb;ja;laut Rüß gelöscht;nicht vorgelesen;Herr Wiechert brach die Aufzählung nach sieben Spalten ab
+Objektbestand_Anzahl;ja;ja;objekte_n;Zahlenwerte stichprobenhaft identisch mit CRM-Stand Februar
+Letzter_Kontakt_Datum;ja;unklar;last_touch;von Herrn Rüß im Gespräch am 23.06.2026 nicht erwähnt
+Zeilenzahl_gesamt;18442;laut Rüß 6000 bis 8000;7128;Angaben weichen voneinander ab, Quelle jeweils mündlich bzw. E-Mail vom 26.06.2026

@@ -36,6 +36,8 @@ Schulrecht: 14-jährige Schülerin mit ADHS-/LRS-Nachteilsausgleich, Mobbingvorw
 | `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
 | `13-anlagenindex.csv` | Vollständiger Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
+| `15-antwort-schule-akteneinsicht.eml` | Antwort des Sekretariats: Einsichtstermin, unfertiges Konferenzprotokoll, keine Videodatei bei der Schule |
+| `16-chatverlauf-eltern-elternvertreterin.txt` | Chat-Export Katrin Reben und Nina Rausch: Herkunft des Videos, Protokollauszug, Kündigung der Ganztagsbetreuung |
 
 ## Arbeitsweise
 

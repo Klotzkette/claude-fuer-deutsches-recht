@@ -55,6 +55,8 @@ Die Akte verlangt nacheinander Wortlautsicherung, Kontextklärung, Trennung von 
 | `16_polizei_anzeige_konvolut.docx` | Strafanzeige, polizeilicher Vermerk, StA-Telefonat, Verletztenvertretung |
 | `17_whistleblower_statement_okb_insider.docx` | Whistleblower-Statement, Quellenschutzfragen und HinSchG-Implikationen |
 | `18_gegendarstellung_und_klarstellung_entwurf.docx` | Entwürfe für Klarstellungen, modifizierte Unterlassungserklärungen und Folge-Kommentare |
+| `19_elternchat_export_klasse7b_roh.txt` | Roher Chat-Export der Gruppe "7b Eltern Austausch" vom 13. bis 16.05.2026 mit Screenshot-Streit und Hausverbots-Gerücht |
+| `20_hanselicht_hr_gespraechsprotokoll_fragment.md` | Unvollständiges HR-Protokoll des Personalgesprächs vom 19.05.2026 bei HanseLicht |
 
 ## Vorführpfad
 

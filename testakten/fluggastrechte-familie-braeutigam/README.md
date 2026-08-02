@@ -140,6 +140,9 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 | `Notiz_Sebastian.txt` | Text | Rohe Mandantennotiz vom 20.05.2026 (Telefonat) | Chaotisch, emotional, viele Details vermischt |
 | `Bildbeschreibung_IMG_2451_Notizzettel_Bangkok.docx` | Text | Beschreibung Handy-Foto (handschriftl. Notiz am Schalter) | Beweis für fehlende Voucher und Aussage PSA-Mitarbeiter |
 | `Chatverlauf_Yasmin_Leila_Bangkok.docx` | Text | Beschreibung WhatsApp Yasmin↔Schwester Leila | Emotionale Dokumentation der Chaossituation in der Nacht |
+| `Kreditkartenabrechnung_Visa_Auszug_April_2026.csv` | CSV | Auszug Visa ****4471 mit den Bangkok-Umsätzen | Fremdwährungsbeträge, Kurse und Auslandseinsatzentgelt je Umsatz |
+| `Email_Yasmin_an_Sebastian_Dienstausfall.eml` | E-Mail | Yasmin an Sebastian mit Unterlagen der Klinik-Personalabteilung | Unbezahlte Fehlzeit 14.04.2026, Bruttoabzug 289,74 EUR, Diensttausch |
+| `Telefonvermerk_HUK_Deckungsanfrage.md` | Text | Kanzleivermerk zum Telefonat mit HUK-Coburg vom 03.06.2026 | Schadennummer, Selbstbeteiligung 150 EUR, Deckungszusage avisiert |
 
 ---
 

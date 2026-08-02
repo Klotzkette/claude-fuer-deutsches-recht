@@ -33,5 +33,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_werftarbeitsbuch_arbeitsplaetze_1974_1992.docx`](13_werftarbeitsbuch_arbeitsplaetze_1974_1992.docx) | Betriebsarchiv-Auskunft mit konkreten Dock- und Materialfundstellen |
 | [`14_email_ehemaliger_kollege_rohrisolierung.eml`](14_email_ehemaliger_kollege_rohrisolierung.eml) | Zeugennachricht eines früheren Arbeitsvorbereiters |
 | [`15_kolonnenbuch_fundstellen_asbest.csv`](15_kolonnenbuch_fundstellen_asbest.csv) | Rohabschrift der erhaltenen Kolonnenbücher |
+| [`16_email_zeuge_brase_antwort.eml`](16_email_zeuge_brase_antwort.eml) | Antwort des früheren Kollegen Willi Brase auf das Zeugenanschreiben zur Fähre Nordlicht 1978 |
+| [`17_telefonvermerk_bg_widerspruchseingang.md`](17_telefonvermerk_bg_widerspruchseingang.md) | Kanzleivermerk zum Telefonat mit der BG über Widerspruchseingang und Nachermittlung |
+| [`18_behandlungstermine_fahrtkosten.csv`](18_behandlungstermine_fahrtkosten.csv) | Termin- und Fahrtkostenliste der laufenden Radio-Chemotherapie |
 
 <!-- END nachgereichte-originalunterlagen -->

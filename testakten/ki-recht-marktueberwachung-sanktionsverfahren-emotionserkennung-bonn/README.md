@@ -54,9 +54,11 @@ ki-recht-marktueberwachung-sanktionsverfahren-emotionserkennung-bonn/
 ├── 12_normstand_vermerk_bnetza_2026-06-10.docx                    — Normstand der KI-Verordnung, Omnibus-Vorbehalt, Verifikationsanordnung
 ├── 13_entwurf_untersagungs_und_bussgeldverfuegung_2026-06-15.docx — Entwurf: Untersagung, Löschung, Geldbußen 420.000/260.000 EUR, Begründung
 ├── 14_verteidigungsschrift_senticore_2026-06-29.docx              — Verteidigung: Zweckbestimmung, „eigenmächtiger" Vertrieb, Zumessungsrügen
+├── 15_telefonvermerk_bnetza_fristverlaengerung_2026-06-17.md      — Behördenvermerk: Fristverlängerung für SentiCore, Freistellung Brockschnieder, Gesprächsangebot
 ├── eml/
 │   ├── 2025-06-18_brockschnieder_pitch_an_telavena.eml            — Übersendung des Pitchdecks samt „Wellbeing-Programm"-Kommunikationsempfehlung
 │   ├── 2026-02-25_bnetza_eingangsbestaetigung_karahan.eml         — Eingangsbestätigung der Behörde mit Verfahrenshinweisen
+│   ├── 2026-03-06_rundschreiben_steinbuechel_teamleitungen.eml    — Rundschreiben der Geschäftsführung: keine Personalmaßnahmen mehr auf Alert-Basis
 │   └── 2026-04-09_ldi_nrw_an_bnetza_zustaendigkeit.eml            — Koordinierungsvorschlag der LDI NRW zum Parallelverfahren
 ├── chat/
 │   └── teams_chat_teamleitung_telavena_2026-01.txt                — Teamleitungs-Chat: Rankings, „dreimal rot = Personalgespräch", Abmahnung AGT-0117

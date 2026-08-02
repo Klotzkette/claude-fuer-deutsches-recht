@@ -1,0 +1,12 @@
+datum;uhrzeit;beleg;bewegungsart;menge;lagerplatz;benutzer;vermerk
+2026-03-16;06:40;WE-260316-102;Wareneingang Nachdruck;1800;A-03-4;noack;Lieferung Druckerei, Palette 1 bis 10
+2026-03-18;09:12;LS-260318-311;Auslieferung Buchhandel;214;A-03-4;petrovic;Sammelauslieferung Barsortiment
+2026-03-23;07:55;SPERR-260323-04;Sperrung Palette 4;180;Tor 3;noack;Transportschaden, siehe NB-REK-260323-17
+2026-03-23;10:20;UB-260323-21;Umbuchung;90;C-17-1;petrovic;Kategorie A verkaufsfähig
+2026-03-23;10:32;UB-260323-22;Umbuchung;64;C-17-2;petrovic;Kategorie B, Sperrhinweis Freigabe Verlag ausstehend
+2026-03-23;10:41;UB-260323-23;Umbuchung;26;R-04;petrovic;Kategorien C und D gesperrt
+2026-04-02;11:05;LS-260402-489;Auslieferung Buchhandel;291;A-03-4;noack;Monatslauf April
+2026-04-17;15:48;UB-260417-77;Umbuchung;64;V-02-6;temp_azubi;Abruf Vertrieb lt. Telefon, Vorgangsnr. fehlt
+2026-04-20;08:03;LS-260420-774;Auslieferung;64;V-02-6;noack;Empfänger Remittenda Handelsgesellschaft mbH, Vermerk B-Ware aus Transportschaden
+2026-04-24;13:37;RT-260424-58;Retoure Buchhandel;12;A-03-4;petrovic;Remittenden März, unbeschädigt
+2026-04-30;16:55;INV-260430-09;Bestandskontrolle;0;C-17-2;noack;Platz C-17-2 leer, Sperrschild noch vorhanden, Differenzmeldung an Verlag offen

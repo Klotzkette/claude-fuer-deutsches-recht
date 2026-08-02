@@ -47,7 +47,9 @@ Scheidungsfolgenakte der Eheleute Krammer in Passau mit Ferienwohnung, Depot, Pr
 | `08_grundbuch_darlehensstand_ferienwohnung.docx` | Bankbestätigung zu stichtagsbezogenen Darlehenssalden, Sondertilgung, Eigentumsquote und Grundschuld |
 | `09_entwurf_naechstes_schreiben.docx` | Auskunftsschreiben mit Datenstruktur für Wallet, Ferienwohnung, Praxisforderungen, Sicherung und Vergleich |
 | `10_steuerberater_bewertungspaket.docx` | Vollständige Unterlagenanforderung für eine Praxisbewertung mit gesonderter Forderungs- und Methodenprüfung |
+| `11_chatexport_milena_sebastian.txt` | Messenger-Auszug der Eheleute vom 20.12.2025 bis 14.03.2026 zu Wohnungsschlüsseln, Kontotransfers, Depotauflösung und einem Hardware-Stick |
 | `csv/kontoabgaenge_dezember_2025.csv` | Konto- und Transferdaten aus dem Trennungszeitraum für den Abgleich mit Primärbelegen |
+| `csv/hausratliste_streitig.csv` | Streitige Hausratsliste mit Anschaffungsdaten, Belegen und abweichenden Angaben beider Seiten |
 | `emails/2026-06-14_milena_wallet_screenshots.eml` | Mandantenmail zur Herkunft und begrenzten Aussagekraft der Wallet-Screenshots |
 | `pdfs/maklerkurzbewertung_ferienwohnung.pdf` | Vorläufige Immobilienwertspanne mit noch offenen Objekt- und Marktdaten |
 | `xlsx/zugewinn_arbeitsmatrix.xlsx` | Arbeitsmatrix für Anfangsvermögen, privilegierten Erwerb, Endvermögen, Schulden und ungeklärte Positionen |

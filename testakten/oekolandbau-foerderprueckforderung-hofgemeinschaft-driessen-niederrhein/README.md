@@ -83,6 +83,7 @@ Arbeitsakte zum Plugin `fachanwalt-agrarrecht`.
 | 20 | [`20_strategie_und_vergleichskorridor.docx`](20_strategie_und_vergleichskorridor.docx) | Szenarien Best/Middle/Worst Case, Vergleichskorridore |
 | 21 | [`21_cronologie_kommunikation.docx`](21_cronologie_kommunikation.docx) | Gesamtchronologie 2022–2026, Fristen-Ampel |
 | 22 | [`22_mareike_druessen_hofuebergabe_vorbereitung.docx`](22_mareike_druessen_hofuebergabe_vorbereitung.docx) | Erbvertrag, Altenteil, Übergabe-Zeitplan, Junglandwirte-Prämie |
+| 23 | [`23_kontoauszug_volksbank_niederrhein_februar_2026.csv`](23_kontoauszug_volksbank_niederrhein_februar_2026.csv) | Kontoauszug Februar 2026 des Betriebskontos, Endsaldo 94.200,00 EUR, u. a. Pachtzahlung LVR unter Vorbehalt |
 
 ## Anlagen
 

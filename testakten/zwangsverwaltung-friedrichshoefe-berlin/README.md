@@ -83,6 +83,9 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | 8 | Eröffnungsbeschluss | nach 19.07.2024 |
 | IV — Zwangsverwaltung | | |
 | 9 ff. | Anordnungsbeschluss, Besitzübernahmeprotokoll, Mieterliste (Rent Roll), Versicherungsunterlagen, Kontoeröffnung Anderkonto, Erstbericht Zwangsverwalterin, § 155-Verteilungsrechnungen, Mietkorrespondenz, Instandhaltungsmaßnahmen, Schlussrechnung (in Vorbereitung) |
+| 10 | Umsatzliste Anderkonto Berliner Volksbank Oktober 2024 (`10_Anderkonto_Umsatzliste_10-2024.csv`) — Mieteingänge, Bewirtschaftungsausgaben, Versicherungsleistung | 31.10.2024 |
+| 11 | E-Mail des Hausmeisters Cortinhal (`11_Email_Hausmeister_Cortinhal_29-11-2024.eml`) — Heizungsstörung Haus 145, Konferenzraumbelegung, Beobachtungen bei Aurelius | 29.11.2024 |
+| 12 | Telefonvermerk zur Räumungssache Aurelius (`12_Telefonvermerk_Aurelius_22-01-2025.md`) — Räumungs- und Ratenzahlungsangebot des Gegenanwalts | 22.01.2025 |
 
 ## Rechtliche Knackpunkte
 

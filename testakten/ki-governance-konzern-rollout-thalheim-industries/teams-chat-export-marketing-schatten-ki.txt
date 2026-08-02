@@ -1,0 +1,19 @@
+Microsoft-Teams-Chatexport, gesichert durch die Konzernrevision am 12.03.2026 im Rahmen der Feststellung INC-2026-003 (Sicherungsvermerk REV-2026-FJB-0038, Export aus dem Kanal "MKT Kreativ intern")
+Beteiligte: Tobias Rennecke (Marketing, Kampagnenmanagement), Svenja Ohlendorf (Marketing, Grafik), Dr. Philipp Sonntag (Leiter Marketing)
+Zeitraum des Auszugs: 04.07.2025 bis 09.03.2026 (Auszug, nicht fortlaufend)
+
+[04.07.2025, 10:12] Tobias Rennecke: Svenja, ich hab jetzt den Midjourney-Account über meine Firmenkreditkarte laufen. 96 Dollar im Monat, bucht sich als "Software Kleinbetrag". Läuft über die API direkt in unseren Kampagnenordner.
+[04.07.2025, 10:15] Svenja Ohlendorf: Super. Die Anbindung hat der Werkstudent gebaut? Funktioniert das mit den Produktbildern?
+[04.07.2025, 10:19] Tobias Rennecke: Ja, Skript liegt auf dem Abteilungslaufwerk unter MKT/tools/mj-pipeline. Ich lad da auch die Referenzfotos aus dem Anlagenkatalog hoch, dann stimmt der Stil.
+[04.07.2025, 10:21] Svenja Ohlendorf: Referenzfotos aus dem Katalog? Sind da nicht teilweise Kundenanlagen drauf?
+[04.07.2025, 10:24] Tobias Rennecke: Nur die alten Broschüren. Wird schon passen.
+[11.09.2025, 14:41] Svenja Ohlendorf: Müssen wir das Tool eigentlich irgendwo anmelden? Es gab doch diese Rundmail von Frau Kühnhausen mit dem KI-Inventar.
+[11.09.2025, 14:48] Tobias Rennecke: Hab ich Philipp gefragt, er meinte sinngemäß, solange das nur intern Entwürfe produziert, ist das kein "System" im Sinne der Liste. Die Freigabe-Diskussion würde uns Monate kosten, das Weihnachtsmailing wartet nicht.
+[11.09.2025, 14:52] Svenja Ohlendorf: Ok... ich hätts gern schriftlich von ihm.
+[11.09.2025, 15:03] Dr. Philipp Sonntag: Ich lese mit. Lasst uns das mündlich lassen. Wir melden das Tool an, sobald der Prozess dafür praktikabel ist. Bis dahin bitte keine Kundendaten in die Pipeline, dann sehe ich da kein Thema.
+[20.01.2026, 09:02] Svenja Ohlendorf: Der Werkstudent ist ab Februar weg. Wer pflegt dann das Skript? Ich hab keinen Zugriff auf den API-Schlüssel.
+[20.01.2026, 09:10] Tobias Rennecke: Schlüssel liegt im Skript, ich schick dir den Pfad. Nicht weitersagen 🙂
+[09.03.2026, 08:44] Tobias Rennecke: Heads-up: Revision hat bei der Kreditkartenprüfung nach der "Software Kleinbetrag"-Buchung gefragt. Ich hab gesagt, das ist ein Grafiktool.
+[09.03.2026, 08:47] Dr. Philipp Sonntag: Bitte keine weiteren Auskünfte ohne mich. Ich kläre das mit Herrn Brammer direkt.
+
+Ende des Auszugs. Vermerk der Revision: Vollständiger Export (2.114 Nachrichten) in der Beweismittelablage INC-2026-003/02; vorstehender Auszug enthält die für die Feststellung maßgeblichen Passagen.

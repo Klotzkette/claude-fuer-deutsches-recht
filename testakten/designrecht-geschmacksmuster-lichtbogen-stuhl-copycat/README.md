@@ -49,5 +49,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_testkauf_wareneingang_nordufer_stuhl.docx`](12_testkauf_wareneingang_nordufer_stuhl.docx) | Testkaufprotokoll mit Sicherung und konkreten Messungen |
 | [`13_email_designer_entwurfsstaende.eml`](13_email_designer_entwurfsstaende.eml) | Designermail zu datierten Entwurfsständen |
 | [`14_vermessung_l27_und_n18_roh.csv`](14_vermessung_l27_und_n18_roh.csv) | Unbewertete Vergleichsmessungen beider Stühle |
+| [`15_telefonvermerk_strauss_rautenkranz_2026-07-08.md`](15_telefonvermerk_strauss_rautenkranz_2026-07-08.md) | Telefonvermerk der Kanzlei zu Händlernachfragen, Mailänder Gästeliste und nachzureichenden Belegen |
+| [`16_chat_export_rautenkranz_brenner.txt`](16_chat_export_rautenkranz_brenner.txt) | WhatsApp-Auszug Mandantin/Agentur zu Story-Rohdatei, Abrufzahlen und Freigabechat |
 
 <!-- END nachgereichte-originalunterlagen -->

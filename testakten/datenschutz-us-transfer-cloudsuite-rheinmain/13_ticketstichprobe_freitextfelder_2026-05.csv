@@ -1,0 +1,8 @@
+Ticket-ID;Erstellt;Kunde;Bearbeiter;Freitextbefund;An ReplyPilot übermittelt;Maßnahme
+TCK-88412;12.03.2026;Bergmann Anlagenbau KG;Support 1st Level;Ansprechpartner schreibt Kollege sei "nach Bandscheiben-OP bis Mai raus";ja;Passage am 19.05.2026 geschwärzt
+TCK-88977;02.04.2026;Fördertechnik Sauerland GmbH;Support 2nd Level (US);Privatnummer des Ansprechpartners im Ticketverlauf;ja;Nummer entfernt am 19.05.2026
+TCK-89104;09.04.2026;intern angelegt durch Vertrieb;Vertriebsleiter Böhnke;Zwei Bewerberkontakte als "potenzielle Sales-Kandidaten" mit Lebenslauf-Notizen;nein;Datensätze am 14.05.2026 gelöscht und als Abweichung dokumentiert
+TCK-89233;17.04.2026;Habermann & Sohn Werkzeugbau;Support 1st Level;Hinweis auf laufenden Rechtsstreit des Kunden mit Spediteur im Freitext;ja;Ticket am 20.05.2026 auf Schutzbedarf "erhöht" gesetzt
+TCK-89561;05.05.2026;Bergmann Anlagenbau KG;Support 1st Level;Urlaubsabwesenheit und Vertretungsregelung mit Namen dritter Personen;ja;keine, Prüfung offen
+TCK-89728;14.05.2026;Elsässer Präzisionsteile GmbH;Support 2nd Level (US);Freitext enthält Zugangsdaten zum Kundenportal des Kunden;nein;Passwort-Reset veranlasst am 15.05.2026
+TCK-89802;18.05.2026;Fördertechnik Sauerland GmbH;Support 1st Level;unauffällig;ja;keine

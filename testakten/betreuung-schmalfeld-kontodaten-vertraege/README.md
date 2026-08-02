@@ -59,7 +59,8 @@ einer Betreuung. Vorliegen:
 | `10_bankrueckfrage_saldenabgleich_und_onlinebanking.docx` | Bankrückfrage, TAN-/Onlinebanking-Themen, Saldenabgleich |
 | `11_telefonakquise_chronologie_und_gedaechtnisprotokolle.docx` | Telefonakquise, Haustürkontakte, Gesprächsnotizen und Gedächtnisprotokolle |
 | `12_vertragsmappe_nachgereichte_unterlagen.docx` | Detailauswertung nachgereichter Vertragsauszüge |
-| `emails/` | EML-Korrespondenz von Bank, Umfeld und Angehörigen |
+| `13_mahnung_digitalschutz24_2026-06-15.md` | Abschrift der zweiten Mahnung von Digital-Schutz24 über 256,00 EUR mit zurückgewiesener Kündigung der Betreuerin |
+| `emails/` | EML-Korrespondenz von Bank, Umfeld und Angehörigen, darunter Bankantwort vom 04.06.2026 zur Rückholung der Auslandszahlungen |
 | `jpg/` | Foto- und Scanfragmente aus der Wohnungsmappe |
 | `xlsx/pruefmatrix_schmalfeld_vertraege.xlsx` | Vertragsprüfmatrix mit Fristen, Beleglücken und Maßnahmen |
 | `originale/` | Originalunterlagen als PDFs |

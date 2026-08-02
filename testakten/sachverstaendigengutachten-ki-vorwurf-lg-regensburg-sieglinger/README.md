@@ -45,6 +45,8 @@ Die Akte endet während der laufenden Beweisaufnahme. Sie enthält Parteivortrag
 | 16 | `16_angebot_privatsachverstaendige_wallner.docx` | Angebot für Strangmessung, Geräteprüfung und Öffnung von Dachanschlüssen |
 | 17 | `17_deckungsanfrage_rechtsschutz_27_01_2026.eml` | Deckungsanfrage zu den ergänzenden Untersuchungskosten |
 | 18 | `18_mandantenmail_nach_anhoerung_23_01_2026.eml` | Mandantenangaben zu Fotos, Rechnungen, Kosten und Terminlage |
+| 19 | `19_antwort_rechtsschutz_deckung_09_02_2026.eml` | Teilweise Deckungszusage des Versicherers mit Nachfragen zur ergänzenden Begutachtung |
+| 20 | `20_zwischenverfuegung_kammer_12_02_2026.md` | Fristsetzung nach der Anhörung, Hinweise zur ergänzenden Beweiserhebung und zum Vorschuss |
 
 ## Sachgerechter Einstieg
 
