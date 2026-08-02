@@ -70,6 +70,7 @@ insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund/
 │   ├── 2026-02-09_bank_eingaenge_stehen_lassen.eml        — Betreuer-E-Mail: Duldung nur wochenweise, Rückgabe AOK- und Lieferantenzahlung
 │   ├── 2026-02-10_gf_bitte_um_freigabe_loehne.eml         — Geschäftsführer bittet um Freigabe von Löhnen und AOK-Rate
 │   ├── 2026-03-05_bank_intern_sicherheiten_exit.eml       — Interne Bank-E-Mail: Sicherheitenverstärkung, Exit-Pfad, Kündigungsvorbereitung
+│   ├── 2026-03-18_kortner_an_buschkamp_zahlliste.eml      — Buchhaltung an GF: Freigabeliste KW 12, Leasingrückläufer, AOK- und Finanzamtsmahnungen, Löhne März
 │   ├── 2026-12-22_vergleichsvorschlag_uebersendung.eml    — Übersendung des Vergleichsvorschlags an die Bankanwälte
 │   └── 2027-02-04_zahlungseingang_bestaetigung.eml        — Bestätigung Zahlungseingang Vergleichsbetrag
 ├── rubric.yaml                                            — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

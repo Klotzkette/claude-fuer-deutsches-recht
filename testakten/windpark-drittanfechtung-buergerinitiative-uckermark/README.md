@@ -102,6 +102,7 @@ Die Bürgerinitiative „Lebenswerte Uckermark e.V." (247 Mitglieder, Sitz Templ
 | `eml/02-maaßmann-mandatsbestaetigung.eml` | Mandatsbestätigung mit Kostenhinweis (18.03.2026) |
 | `eml/03-lfu-akteneinsicht-antwort.eml` | LfU gewährt Akteneinsicht (21.03.2026) |
 | `eml/04-nabu-kartierungsdaten-übermittlung.eml` | NABU sendet Rotmilan-Kartierungsdaten (29.03.2026) |
+| `eml/05-riedering-zwischenstand-schall.eml` | Zwischenstand des Schallgutachters: Datenblatt Rev. 4 liegt vor, Betriebsdaten der Altanlagen fehlen (18.04.2026) |
 
 ### Behördenunterlagen / Gutachten (PDF)
 
@@ -154,10 +155,10 @@ Die Bürgerinitiative „Lebenswerte Uckermark e.V." (247 Mitglieder, Sitz Templ
 | Markdown-Aktenstücke | 22 | `.md` |
 | Schriftsätze | 3 | `.docx` |
 | Tabellen | 2 | `.xlsx` |
-| E-Mails | 4 | `.eml` |
+| E-Mails | 5 | `.eml` |
 | Behördenunterlagen | 2 | `.pdf` |
 | Grafiken/Karten | 3 | `.jpg` |
-| **Gesamt** | **36** | |
+| **Gesamt** | **37** | |
 
 ### Testabdeckung der Skills
 
