@@ -1,6 +1,6 @@
 # fachanwalt-miet-wohnungseigentumsrecht
 
-**384 Skills** · Stand `v435.1.1`
+**384 Skills** · Stand `v435.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-miet-wohnungseigentumsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
