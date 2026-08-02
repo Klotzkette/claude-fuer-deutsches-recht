@@ -99,7 +99,9 @@ sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 ├── 17_szenario_a_kein_steuerlicher_sanierungsgewinn_durch_3a_iii.docx
 ├── 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.docx
 ├── 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.docx
-└── 20_mandantenbrief_grossbach-an-iv-final.docx
+├── 20_mandantenbrief_grossbach-an-iv-final.docx
+├── 21_telefonvermerk_weissbrod_fa_erfurt_2026-07-08.md
+└── 22_email_gewerbesteueramt_zwischennachricht_7b.eml
 ```
 
 ## Quellennachweis (Rechtsnormen und Rechtsprechung)

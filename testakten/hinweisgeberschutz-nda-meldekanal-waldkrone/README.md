@@ -46,6 +46,8 @@ Waldkrone HealthTech GmbH erhält einen anonymen Hinweis zu Exportkontrolle, Pro
 | `22-anlagenindex.csv` | Anlagenindex |
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |
+| `25-interviewprotokoll-fragment-hagedorn.md` | Unvollständiges Protokoll des Interviews mit Einkaufsleiter Hagedorn vom 24. Mai |
+| `26-email-it-zeitstempel-export.eml` | IT-Zwischenstand zur Zeitstempel-Abweichung, Audit Trail beim Portalanbieter angefordert |
 
 ## Arbeitsweise
 

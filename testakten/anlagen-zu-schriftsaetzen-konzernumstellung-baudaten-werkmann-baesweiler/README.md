@@ -174,6 +174,7 @@ Stand April 2026: Die Klage ist beim LG Aachen eingereicht. Die Güteverhandlung
 | [`2026-04-21_stang_an_soehnchen_k1_sortierung.eml`](2026-04-21_stang_an_soehnchen_k1_sortierung.eml) | Lea Stang schlägt K1-Konvolut K1.1 bis K1.5 vor; K4 bleibt gelb |
 | [`2026-04-22_soehnchen_an_team_finalcheck_anlagen.eml`](2026-04-22_soehnchen_an_team_finalcheck_anlagen.eml) | Team-Anweisung: erst Matrix, dann K1, K4, K17-Suche, beA-Paketierung |
 | [`2026-04-22_lg_aachen_telefonnotiz_knoops_anlagenpakete.eml`](2026-04-22_lg_aachen_telefonnotiz_knoops_anlagenpakete.eml) | Telefonnotiz zur Geschäftsstelle: mehrere beA-Pakete, klare Dateinamen |
+| [`2026-04-23_lg_aachen_knoops_paket4_rueckfrage.eml`](2026-04-23_lg_aachen_knoops_paket4_rueckfrage.eml) | Rückfrage der Geschäftsstelle zu Sendung 4: leere K38a-Datei, Dateizahl-Abweichung, Frist zur Nachreichung |
 
 ### PDFs
 

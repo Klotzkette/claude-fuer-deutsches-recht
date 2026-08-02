@@ -66,6 +66,7 @@ geschaeftsfuehrerhaftung-15b-inso-zahlungen-nach-insolvenzreife-hannover/
 ├── 23_teilanerkenntnis_verteidiger.docx                   — Teilanerkenntnis über 48.000,00 EUR (Beraterhonorar), Vergleichsanregung für den Restbetrag von 1.032.100,00 EUR
 ├── 24_teilanerkenntnisurteil_und_vergleich.docx           — Teilanerkenntnisurteil und Vergleich nach § 278 Abs. 6 ZPO: zusätzlich 420.000,00 EUR, Kostenquote 40:60
 ├── 25_deckungsanfrage_do_versicherer_abschluss.docx       — Deckungsentscheidung: anteilige Deckung, Ausschluss wissentlicher Pflichtverletzung für den anerkannten Betrag
+├── 26_abschrift_notizzettel_petersilie_2026-01-06.md      — Abschrift des handschriftlichen Zahlungszettels der Buchhaltung vom 6. Januar 2026 mit Durchstreichungen und Randbemerkungen
 ├── eml/
 │   ├── 2025-09-30_gf_an_steuerberaterin_antwort.eml       — Geschäftsführer weist Warnung zurück: „Weihnachtsgeschäft", Antrag erst nach Bankgespräch
 │   ├── 2025-10-06_gastroquell_lieferstopp_androhung.eml   — Dritte Mahnstufe, Umstellung auf Vorkasse, widerlegt die Stundungsbehauptung

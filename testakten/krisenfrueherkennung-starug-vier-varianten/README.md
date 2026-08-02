@@ -246,6 +246,7 @@ mehr greift, aber eine geordnete Insolvenz noch möglich ist.
 | `01_veyra_Anzeige_Restrukturierungssache_AG-Frankfurt_12-05-2026.pdf` | A | PDF | Anzeige der Restrukturierungssache gem. § 31 StaRUG beim AG Frankfurt |
 | `01_veyra_Handnotiz_Hellinghaus-Karpov_10-05-2026.pdf` | A | PDF | Handschriftliche Notiz der GF (Gelber Block); interne Entscheidungsdokumentation |
 | `01_veyra_Liquiditaetsplan_24-Monate_Stand-30-04-2026.xlsx` | A | XLSX | 24-Monats-Liquiditätsplan mit Ampel-Logik, Szenarien Base/Best/Stress |
+| `01_veyra_Mail_Nordlicht-Cloud_Zahlungsrueckstand_02-05-2026.eml` | A | EML | Nordlicht Cloud: drei offene Rechnungen über EUR 354.000, Abschaltungsankündigung zum 15.05.2026, Gesprächsangebot Stundung |
 | `02_hartmann_Gesellschaftsprofil_Ersterfassung_15-04-2026.pdf` | B | PDF | Gesellschaftsprofil + Krisendiagnose + Covenant-Analyse (internes Mandatsdossier) |
 | `02_hartmann_BWA_Q1-2026_15-04-2026.pdf` | B | PDF | BWA Q1/2026 mit Vergleich Q1/2025; EBITDA-Brückenrechnung |
 | `02_hartmann_Bankenrunde_Protokoll_05-05-2026.pdf` | B | PDF | Bankenrunden-Protokoll (8 Teilnehmer); Standstill-Vereinbarung unterzeichnet |
@@ -258,10 +259,11 @@ mehr greift, aber eine geordnete Insolvenz noch möglich ist.
 | `04_salaltbar_Warnschreiben_§102_StaRUG_29-04-2026.pdf` | D | PDF | § 102-Warnschreiben RAin Wandelmoser an Çelebi-Drebenstedt |
 | `04_salaltbar_Mail-Kette_Celebi-Drebenstedt-an-Wandelmoser_27-04-2026.pdf` | D | PDF | Vollständige E-Mail-Kette (3 Nachrichten, 27.–28.04.2026); Mandatsanbahnung |
 | `04_salaltbar_Filialkostenrechnung_2025.xlsx` | D | XLSX | Filialübersicht + Verbindlichkeiten-Blatt; GuV je Filiale; Ampelkennzeichnung |
+| `04_salaltbar_Verbindlichkeiten_Stand_26-04-2026.csv` | D | CSV | Fällige Verbindlichkeiten je Gläubiger mit Mahnstand; Summe EUR 43.300 gegen Kassenbestand EUR 3.400 |
 | `Mandatsuebersicht_alle_4_Varianten_22-05-2026.pdf` | alle | PDF | Kanzlei-Übersicht aller 4 Mandate; Statusübersicht; Az. und nächste Schritte |
 | `Notiz_Vergleich_Krisenstadien.txt` | alle | TXT | Interne Kanzleinotiz; synoptischer Vergleich Krisenstadien + Lernpunkte |
 
-**Gesamt: 20 Einzeldateien** (5 × Variante A, 4 × Variante B, 4 × Variante C, 4 × Variante D + 2 übergreifend)
+**Gesamt: 22 Einzeldateien** (6 × Variante A, 4 × Variante B, 4 × Variante C, 5 × Variante D + 2 übergreifend)
 
 ---
 

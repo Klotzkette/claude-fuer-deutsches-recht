@@ -45,10 +45,12 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 ├── 12_waisenrente_monatsraster_berechnung.csv           # Datenkern: Status, Tatbestand, Übergangszeit, Rente und Überzahlung je Monat
 ├── 14_nachweisschreiben_drv_2026-07-06.docx             # Nachweisschreiben an die DRV mit Begründung und AdV-Antrag (Endprodukt)
 ├── 15_whatsapp_klassenleitung_abbruch.txt               # Chat mit der Klassenleitung zu Krankheit, Beurlaubung und Kündigung
+├── 16_kontoauszug_juli_2026.csv                         # Sparkassen-Export Juli 2026 ohne Rentenzahlung, mit Lohn und Daueraufträgen
 ├── eml/
 │   ├── 01_berufskolleg_teilnahmestatus.eml              # Berufskolleg: formaler Status bis 30.11.2025 gegen Teilnahme bis 14.10.2025
 │   ├── 02_mutter_anhoerung_und_junizahlung.eml          # Mutter: nicht zugegangene Anhörung und bestätigte Junizahlung
-│   └── 03_thiele_intern_monatsraster.eml                # Interner Rechenweg zur Erstattung und zum Übergangszeit-Argument
+│   ├── 03_thiele_intern_monatsraster.eml                # Interner Rechenweg zur Erstattung und zum Übergangszeit-Argument
+│   └── 04_elif_kontoauszuege_junizahlung.eml            # Mandantin korrigiert ihre Angabe zur Junizahlung und meldet defekten Briefkasten
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
@@ -74,6 +76,8 @@ rentenrecht-waisenrente-ausbildung-abbruch-dortmund/
 | `12_waisenrente_monatsraster_berechnung.csv` | Datenkern: Anspruch und Überzahlung je Monat |
 | `14_nachweisschreiben_drv_2026-07-06.docx` | Nachweisschreiben an die DRV mit Begründung und AdV-Antrag |
 | `15_whatsapp_klassenleitung_abbruch.txt` | Chat mit der Klassenleitung zum krankheitsbedingten Abbruch |
+| `16_kontoauszug_juli_2026.csv` | Kontoauszug Juli 2026 ohne Rentenzahlung, mit Lohn- und Dauerauftragsbuchungen |
+| `eml/04_elif_kontoauszuege_junizahlung.eml` | Mandantin bestätigt die Junizahlung, meldet den defekten Briefkasten und fragt nach den FH-Nachweisen |
 | `eml/01_berufskolleg_teilnahmestatus.eml` | Formaler Status gegen tatsächliche Teilnahme |
 | `eml/02_mutter_anhoerung_und_junizahlung.eml` | Nicht zugegangene Anhörung und Junizahlung |
 | `eml/03_thiele_intern_monatsraster.eml` | Interner Rechenweg zur Erstattung |

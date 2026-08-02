@@ -1,0 +1,23 @@
+Subject: HIN-26-014 - Zeitstempel Portalexport / Downloadordner - erste Feststellungen
+From: Bastian Rautenberg <it-sicherheit@waldkrone.de>
+To: legal@waldkrone.de
+Cc: David =?utf-8?q?Holl=C3=A4nder?= <hollaender@brettschneider-hollaender.de>
+Date: Thu, 04 Jun 2026 16:47:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Message-ID: <20260604164700.its-0448@waldkrone.de>
+
+Hallo zusammen,
+
+zu der Frage aus dem Fristenblatt (Upload 21:14 Uhr laut Portaloberfläche gegen 20:14 Uhr im Downloadordner) haben wir uns die Systeme angesehen. Zwischenstand:
+
+Die Portaloberfläche zeigt Zeiten in der im Benutzerprofil eingestellten Zone an. Beim Konto der Meldestelle ist Europe/Berlin hinterlegt, also im Mai Sommerzeit. Unser Downloadserver schreibt die Dateizeiten dagegen in UTC ins Log, das ist bei dem Altsystem seit der Migration 2023 so. Das würde genau eine Stunde Differenz erklären, aber wir wollen das nicht einfach unterstellen: Für den fraglichen Anhang fehlt uns noch der Original-Zeitstempel aus der Datenbank des Portalanbieters. Den Audit Trail haben wir dort am 02.06. schriftlich angefordert (Ticket VLX-88431), Rückmeldung laut Hotline "im Laufe der Woche", bis heute nichts da. Ich hake Montag nach.
+
+Was wir schon sagen können: Der Anhang wurde nach dem Serverlog nur einmal hochgeladen, es gibt keinen zweiten Upload und keine Löschung. Die Prüfsumme der Datei im Downloadordner stimmt mit der im Portal angezeigten überein, insofern identischer Stand.
+
+Bitte bis zur Antwort des Anbieters keine der beiden Uhrzeiten als gesichert behandeln. Sobald der Audit Trail da ist, schicke ich einen kurzen Abgleich.
+
+Viele Grüße
+Bastian Rautenberg
+IT-Sicherheit / Systembetrieb, Durchwahl -448

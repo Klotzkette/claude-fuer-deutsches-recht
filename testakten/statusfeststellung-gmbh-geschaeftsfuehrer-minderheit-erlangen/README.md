@@ -58,7 +58,7 @@ Enthalten sind ausformulierte Aktenstücke, Bescheide, Notarurkunden, Handelsreg
 | `32_gehaltsabrechnungen_auszuege.docx` | Gehaltsabrechnungen ohne Sozialversicherungsabzug über den Verfahrenszeitraum |
 | `33_verfahrenskalender.csv` | Fristen und Verfahrensstationen von Antrag bis Vergleich |
 | `emails/` | E-Mail-Wechsel zwischen Gesellschaftern und zum Abberufungsbeschluss |
-| `eml/` | E-Mail-Korrespondenz mit der DRV zu Nachbesserung und Vergleich |
+| `eml/` | E-Mail-Korrespondenz mit der DRV zu Nachbesserung und Vergleich, einschließlich der überarbeiteten Beitragsaufstellung mit Erläuterung der Bonuszahlungen 2024 |
 | `csv/` | Urlaubstage und variable Vergütung im Zeitverlauf |
 | `xlsx/` | Zahlungsflüsse aus Bürgschaft und Gesellschafterdarlehen |
 | `pdfs/` | Vollständige Bürgschaftsurkunde der finanzierenden Bank mit Sicherungszweck, Höchstbetrag, Laufzeit und Unterschriften |

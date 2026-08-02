@@ -91,6 +91,7 @@ Verheiratet, 2 Kinder (Liam 11, Marlene 8)
 | 20 | `20_strategie_priorisierung_verfahren.docx` | Strategiepapier (vertraulich) |
 | 21 | `21_kostenrisiko_pkh_antrag.docx` | PKH-Berechnung und Kostenrisiko |
 | 22 | `22_fristenuebersicht.docx` | Fristenübersicht und -kalender |
+| 23 | `23_mahnung_vermieter_guenther_2026-03-16.md` | Schriftliche Mahnung des Vermieters mit Rückstandsaufstellung, Fristsetzung 31.03.2026 und Ratenangebot |
 
 ### DOCX-Schriftsätze (3)
 

@@ -46,6 +46,8 @@ Nordstern MedTech GmbH kündigt einer langjährigen Handelsvertreteragentur nach
 | `22-anlagenindex.csv` | Anlagenindex |
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |
+| `25-email-nordstern-antwort-buchauszug.eml` | Antwort Nordstern auf das Buchauszugsverlangen mit Gesprächsangebot |
+| `26-stornoreserve-buchungen-2024-2025.csv` | Einbehalte der Jahre 2024 bis 2026 mit fehlenden Stornogründen und Freigaben |
 
 ## Arbeitsweise
 

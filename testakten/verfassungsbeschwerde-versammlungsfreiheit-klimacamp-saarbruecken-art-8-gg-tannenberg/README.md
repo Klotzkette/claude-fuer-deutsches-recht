@@ -106,6 +106,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 |---|---|
 | [`emails/2026-03-13_initiative-an-kanzlei-mandatserteilung.eml`](emails/2026-03-13_initiative-an-kanzlei-mandatserteilung.eml) | Initiative Saarbrücken an Kanzlei: Mandatserteilung |
 | [`emails/2026-03-14_kanzlei-intern-arbeitsverteilung.eml`](emails/2026-03-14_kanzlei-intern-arbeitsverteilung.eml) | Kanzlei intern: Arbeitsverteilung und Strategie |
+| [`emails/2026-03-15_initiative-an-kanzlei-ovg-ablehnung.eml`](emails/2026-03-15_initiative-an-kanzlei-ovg-ablehnung.eml) | Initiative an Kanzlei nach OVG-Ablehnung: Räumung des Camp-Versuchs, vier Anzeigen, Presseanfragen, Vereinskasse |
 | [`emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml`](emails/2026-03-16_kanzlei-an-generalsekretaer-bverfg-eilantrag.eml) | Kanzlei an Generalsekretär BVerfG: Eilantrag § 32 BVerfGG |
 | [`emails/2026-03-17_pressestelle-bverfg-an-kanzlei.eml`](emails/2026-03-17_pressestelle-bverfg-an-kanzlei.eml) | Pressestelle BVerfG an Kanzlei: Stellungnahme zur Anfrage |
 

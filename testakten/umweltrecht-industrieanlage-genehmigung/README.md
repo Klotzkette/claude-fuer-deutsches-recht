@@ -88,14 +88,17 @@ Schließlich prüft ein Investor die Übernahme von Gesellschaftsanteilen an der
 | Ordner / Datei | Inhalt |
 |---|---|
 | [01_intake/email_anlagenbetreiber.eml](01_intake/email_anlagenbetreiber.eml) | Vollständiges E-Mail-Briefing zu Linie 4, Beschwerden, UIG-Antrag und Anhörung |
+| [01_intake/telefonvermerk_bergerhausen_fundament.md](01_intake/telefonvermerk_bergerhausen_fundament.md) | Telefonvermerk der Kanzlei: Fundamenttermin, verschobene Trocknerlieferung, behördliche Nachforderung, neue Geruchsbeschwerde |
 | [02_bimschg/aenderungsanzeige_roh.docx](02_bimschg/aenderungsanzeige_roh.docx) | Vollständige Änderungsanzeige nach § 15 BImSchG mit Briefkopf, Anlagenbeschreibung, Emissionsprognose, Abgrenzung § 16 BImSchG, Nachbarschaftsstellungnahme |
 | [02_bimschg/aenderungsanzeige_roh.docx](02_bimschg/aenderungsanzeige_roh.docx) | DOCX-Fassung der Änderungsanzeige (Word-Dokument) |
 | [03_tehg/zuteilung_dehst_notiz.docx](03_tehg/zuteilung_dehst_notiz.docx) | Interner Aktenvermerk zur TEHG-Kapazitätsänderungsprüfung + förmliches DEHSt-Schreiben zur Monitoring-Plan-Revision 4 |
 | [03_tehg/zuteilung_dehst_notiz.docx](03_tehg/zuteilung_dehst_notiz.docx) | DOCX-Fassung des DEHSt-Schreibens |
 | [04_abfall/stoffstromliste.csv](04_abfall/stoffstromliste.csv) | Abfallstrom-Bilanz aller Fraktionen (EAK-Schlüssel, Menge, Einstufung, Entsorger, eANV-Status) |
 | [05_wasser_boden/einleitung_altlast.docx](05_wasser_boden/einleitung_altlast.docx) | Fachlicher Vermerk zur WHG-Einleitungserlaubnis (Kapazitätsänderung) und Anzeige des Altlastenverdachts Südhalle S-02 nach § 9 BBodSchG |
+| [05_wasser_boden/rammkernsondierung_s02_messwerte.csv](05_wasser_boden/rammkernsondierung_s02_messwerte.csv) | Labor-Messwerte der orientierenden Untersuchung Südhalle S-02 (Boden- und Grundwasserproben, ein unplausibler Wert in Wiederholung) |
 | [06_naturschutz/artenschutz_hinweis.docx](06_naturschutz/artenschutz_hinweis.docx) | Artenschutzrechtliche Vorprüfung (Stufe I) nach § 44 BNatSchG: Fledermäuse, Vogelarten, Zauneidechse, FFH-Bezug |
 | [07_uig_ifg/uig_antrag_umweltverband.txt](07_uig_ifg/uig_antrag_umweltverband.txt) | UIG-Antrag des Rheinischen Umweltschutzvereins auf Zugang zu Genehmigungsunterlagen, Emissionsdaten, Geruchsgutachten und Altlastdokumenten |
+| [07_uig_ifg/zwischennachricht_bezirksregierung_uig.md](07_uig_ifg/zwischennachricht_bezirksregierung_uig.md) | Zwischennachricht der Bezirksregierung zum UIG-Antrag: Fristverlängerung, Drittbeteiligung der RS GmbH, gesonderte Prüfung des OWi-Vorgangs |
 | [08_bussgeld/anhoerung_verspätete_meldung.docx](08_bussgeld/anhoerung_verspaetete_meldung.docx) | Anhörungsschreiben der Bezirksregierung (OWi § 62 BImSchG) + Verteidigungsschreiben der Kanzlei Rosengart & Partner |
 | [08_bussgeld/anhoerung_verspätete_meldung.docx](08_bussgeld/anhoerung_verspaetete_meldung.docx) | DOCX-Fassung Anhörung und Verteidigungsentwurf |
 | [09_transaktion/umwelt_dd_roh.docx](09_transaktion/umwelt_dd_roh.docx) | Umwelt-Due-Diligence-Fragenliste (7 Abschnitte, inkl. Antworten) + Red-Flag-Memo mit Risikomatrix für Anteilskäufer |

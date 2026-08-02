@@ -88,6 +88,7 @@ Arbeitsakte zum Plugin `mietrecht`.
 | 20 | [`20-stellungnahme-mieterbund-leipzig.docx`](20-stellungnahme-mieterbund-leipzig.docx) | Stellungnahme Mieterbund Leipzig e.V. |
 | 21 | [`21-mediationsversuch-stadt-leipzig.docx`](21-mediationsversuch-stadt-leipzig.docx) | Protokoll Mediationsversuch, gescheiterte Einigung |
 | 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk RA, Kostenfestsetzung, Ausblick |
+| 23 | [`23-lueftungsprotokoll-tannenkamp-november-2025.csv`](23-lueftungsprotokoll-tannenkamp-november-2025.csv) | Abschrift des handschriftlichen Lüftungs- und Messprotokolls des Mandanten (November 2025) mit Feuchtewerten und Randnotizen |
 
 ---
 
