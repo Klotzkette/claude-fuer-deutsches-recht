@@ -56,5 +56,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_gemeindekasse_erbbauzins_zahlungsverlauf.docx`](12_gemeindekasse_erbbauzins_zahlungsverlauf.docx) | Gemeindekassen-Schreiben zum realen Buchungsverlauf |
 | [`13_email_finanzierende_bank_zustimmung.eml`](13_email_finanzierende_bank_zustimmung.eml) | Bankmail mit konkreten fehlenden Originalunterlagen |
 | [`14_erbbauzins_kassenkonto_roh.csv`](14_erbbauzins_kassenkonto_roh.csv) | Unbereinigtes Erbbauzinskonto mit Teilzahlungen |
+| [`15_email_sonnenufer_an_bank_2026-07-08.eml`](15_email_sonnenufer_an_bank_2026-07-08.eml) | Antwort der Geschäftsführerin an die Bank: fehlende Vertragsseiten, Zahlungsplan, gescheiterte Juni-Überweisung, Fristverlängerungsbitte |
+| [`16_telefonvermerk_gemeindekasse_gross_2026-07-06.md`](16_telefonvermerk_gemeindekasse_gross_2026-07-06.md) | Telefonvermerk zur Klärung der Januar-Sammelzahlung, Kontovollmachts-Panne und Zahlungszusagen |
+| [`17_mahnung_gemeindekasse_2026-07-16.md`](17_mahnung_gemeindekasse_2026-07-16.md) | Zweite Mahnung der Gemeindekasse über 13712 Euro mit Frist 30. Juli und Abgabehinweis an die Liegenschaftsverwaltung |
 
 <!-- END nachgereichte-originalunterlagen -->
