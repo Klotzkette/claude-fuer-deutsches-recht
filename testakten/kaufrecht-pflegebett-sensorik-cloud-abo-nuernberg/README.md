@@ -65,5 +65,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_schichtbericht_pflegedienst_alarmkette.docx`](13_schichtbericht_pflegedienst_alarmkette.docx) | Pflegedienstlicher Schichtabgleich zur ausgefallenen Alarmkette |
 | [`14_email_tochter_nachtalarm_und_abo.eml`](14_email_tochter_nachtalarm_und_abo.eml) | Beschwerdemail der Tochter mit konkretem Nachtvorfall |
 | [`15_alarmprotokoll_carerest_400_juni_juli.csv`](15_alarmprotokoll_carerest_400_juni_juli.csv) | Rohdaten aus Bettanzeige, App und Schichtbuch |
+| [`emails/2026-07-10_wohngut_antwort_ticket_884190.eml`](emails/2026-07-10_wohngut_antwort_ticket_884190.eml) | Serviceantwort zu Ticket, Tarifzuordnung und Fernprüfungstermin |
+| [`17_notaufnahme_kurzbericht_2026-07-09.md`](17_notaufnahme_kurzbericht_2026-07-09.md) | Kurzbericht der Notaufnahme zum nächtlichen Sturz vom 09.07.2026 |
 
 <!-- END nachgereichte-originalunterlagen -->

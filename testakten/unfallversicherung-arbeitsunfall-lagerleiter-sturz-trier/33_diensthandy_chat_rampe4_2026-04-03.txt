@@ -1,0 +1,20 @@
+Export Firmen-Messenger "MoselCom" — Moisel Logistik GmbH, Standort Trier
+Gruppe: "Frühschicht Halle 1" (Mitglieder am 03.04.2026: K. Möller, D. Auer, B. Kopp, S. Lehnert, Disposition Tor 1-6)
+Export erstellt am 24.06.2026 durch IT auf Anforderung QM (Ticket QM-2026-0412), Auszug 03.04.2026, 05:45 bis 08:30 Uhr
+Anmerkung IT: Zeitstempel Serverzeit MESZ. Sprachnachrichten werden im Export nur als Platzeintrag [Audionachricht] geführt und liegen gesondert vor.
+
+[05:53] Disposition: Havelmann steht an Tor 4, Fahrer sagt er hat Zeitfenster bis 7:30, danach Standgeld. Rampe 4 geht laut Nachtschicht wieder nicht richtig.
+[06:04] D. Auer: Hab das grad bei der Übergabe an Karsten weitergegeben. Brücke ist heut Nacht 2x hängen geblieben, wir habens gelassen.
+[06:09] K. Möller: Bin gleich vorne. Nauheim fängt erst um 7 an oder?
+[06:10] D. Auer: Jo, 7 Uhr. Techniker von Rampotec kommt eh erst Mittwoch.
+[06:13] Disposition: Fahrer wird ungemütlich, können wir den auf Tor 2 umziehen?
+[06:15] K. Möller: Tor 2 ist bis 8 belegt mit der Kühlware. Ich guck mir 4 selber an, vielleicht ist es nur der Hebel wie letzte Woche.
+[06:22] B. Kopp: Soll ich rüberkommen? Bin noch bei den Staplern.
+[06:24] K. Möller: Ne mach erst die Ladelisten fertig, ich sag Bescheid.
+[06:37] K. Möller: [Audionachricht]
+[06:44] B. Kopp: @alle Karsten ist an Rampe 4 runtergestürzt, Ersthelfer ist dran, bitte Tor 4 freihalten!!
+[06:46] S. Lehnert: Hab den Sturz gesehen, bin vor Ort. Er ist ansprechbar, Schulter und Kopf. Verbandskasten ist da.
+[06:47] D. Auer: Rettungsdienst ist gerufen. Frau Probst ist informiert.
+[06:51] Disposition: Havelmann-Fahrer umgesetzt auf Tor 5, bitte keine Abfertigung mehr über 4.
+[07:12] D. Auer: RTW ist da. Bitte niemand an die Brücke fassen, bleibt so stehen wie sie ist.
+[08:16] D. Auer: Info an alle: Rampe 4 bleibt gesperrt bis auf Weiteres, Anweisung Frau Probst. Fragen zum Vorfall bitte nur an QM, nicht untereinander spekulieren.

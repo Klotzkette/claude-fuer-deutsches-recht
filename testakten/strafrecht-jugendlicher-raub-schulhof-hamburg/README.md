@@ -79,10 +79,12 @@ strafrecht-jugendlicher-raub-schulhof-hamburg/
 ├── 10_bericht_jugendgerichtshilfe_2026-06-26.docx                    — Bericht der Jugendgerichtshilfe nach Paragraf 38 JGG mit Diversionsempfehlung
 ├── 11_zeugenvernehmung_ayla_yilmaz_2026-06-16.docx                   — Vernehmung der Mutter zu Kellerfund, Übergabe an das PK 44 und Vorgeschichte
 ├── 12_ortungsprotokoll_samsung_a54_2026-05-12_bis_2026-05-13.csv     — Standortimpulse, Akkustände und Ortungsanfragen; Kern der Besitzdauer-Berechnung
+├── 14_telefonvermerk_toa_fachstelle_2026-07-06.md                    — Telefonvermerk der Verteidigung zum Stand des Ausgleichsverfahrens und zu den Gesprächsthemen beider Familien
 ├── eml/
 │   ├── 2026-05-19_schulleitung_kirchdorf_an_pk44_vorfallsbericht.eml — Bericht der Schule mit Erstangaben Finns, Videosequenz und zwei Vorkonflikten
 │   ├── 2026-06-11_jugendgerichtshilfe_an_kanzlei_radtke.eml          — JGH-Zwischenstand: Hausbesuch, Fehltage, TOA-Anbahnung
-│   └── 2026-06-24_radtke_an_sta_hamburg_toa_und_ortungsprotokoll.eml — Verteidigung: Diversionsanregung, Ortungs-Diskrepanz, Antrag Klassenchat-Sicherung
+│   ├── 2026-06-24_radtke_an_sta_hamburg_toa_und_ortungsprotokoll.eml — Verteidigung: Diversionsanregung, Ortungs-Diskrepanz, Antrag Klassenchat-Sicherung
+│   └── 2026-07-02_sta_hamburg_zwischennachricht_toa.eml              — Zwischennachricht der Staatsanwaltschaft: TOA-Auftrag, Chat-Sicherung, Terminstand
 ├── whatsapp/
 │   └── chatverlauf.txt                                               — WhatsApp-Export Emir/Noura: Tatnachbesprechung, Schlüsselbund, Rückgabebedingung
 ├── rubric.yaml                                                       — Sechs Prüfpunkte für die fachliche Auswertung

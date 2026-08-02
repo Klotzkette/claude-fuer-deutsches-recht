@@ -102,6 +102,7 @@ Diese Testakte dient der Demonstration und Qualitätsprüfung des Plugins `memor
 ├── email-anfrage-bkartellamt-anmeldepflicht.eml
 ├── email-bmwk-investitionspruefung-vorab.eml
 ├── email-cfo-an-kanzlei-zeitplan.eml
+├── email-betriebsrat-standortgarantie-helgoland.eml
 ├── memorandum-executive-summary-v4-final.pdf
 ├── risikomatrix-overview.pdf
 ├── transaktionsstruktur-diagramm.jpg

@@ -105,6 +105,7 @@ Arbeitsakte zum Plugin `subsumtions-pruefer`.
 | [`emails/email-pruefungsamt-statistik.eml`](emails/email-pruefungsamt-statistik.eml) | Prüfungsamt: Statistik-Durchsage, 32 Prozent Durchfall |
 | [`emails/email-fachschaft-klausurnachbesprechung.eml`](emails/email-fachschaft-klausurnachbesprechung.eml) | Fachschaft: Einladung Klausurnachbesprechung |
 | [`emails/email-kollege-tannenfels-bewertungsfrage.eml`](emails/email-kollege-tannenfels-bewertungsfrage.eml) | Dr. Tannenmoor an Dr. Eichmann-Roosendaal: Bewertungsstreit Birkenhain |
+| [`emails/email-klausurant-birkenhain-einsicht-und-widerspruch.eml`](emails/email-klausurant-birkenhain-einsicht-und-widerspruch.eml) | Konrad Birkenhain: Einsichtsantrag, Widerspruchsankündigung und Rügen zu Randbemerkungen und Zweitkorrektur |
 
 ### PDFs
 

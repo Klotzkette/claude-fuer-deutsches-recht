@@ -63,6 +63,7 @@ Nach dem Tod des Fotografen Armin Lohse streiten Ehefrau, Tochter aus erster Ehe
 | `emails/2026-06-24_ralf_lohse_verweigerung.eml` | Ralf Lohse: Verweigerung der Herausgabe |
 | `emails/2026-06-27_bank_zugang_hinweis.eml` | Stadtsparkasse Berlin: Kontosperre und Hinweis auf Lastschrift |
 | `emails/2026-06-30_jana_lohse_nachfrage.eml` | Jana Lohse: Nachfrage zu Zettel und Leica |
+| `emails/2026-07-03_nordfenster_eilige_lizenzanfrage.eml` | Bildagentur Nordfenster: eilige Verlagsanfrage Serie Hafenlicht, Frist 10. Juli, fehlende Originaldateien |
 | `pdfs/passwortsafe_fundnotiz.pdf` | Fund- und Zustandsprotokoll mit Belegkette |
 | `pdfs/kontosperrvermerk_stadtsparkasse.pdf` | Bankseitiger Sperr- und Buchungsvermerk |
 | `pdfs/nordfenster_honorarabrechnung_auszug.pdf` | Nachvollziehbare Lizenz- und Honorarabrechnung |

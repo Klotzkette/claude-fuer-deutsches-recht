@@ -1,0 +1,8 @@
+Datum;Vorgang;Betrag_EUR;Zahlungsweise;Status;Bemerkung
+21.04.2026;Kontoeinrichtung MediPulse-Konto und Gerätekopplung;0,00;keine;abgeschlossen;Basis-Gesundheitspaket ohne Entgelt
+21.04.2026;Aktivierung EKG-Berichte und Sturzerkennung;0,00;keine;abgeschlossen;PDF-Export in der App verfügbar
+28.05.2026;EKG-Bericht als PDF exportiert;0,00;keine;abgeschlossen;letzter dokumentierter Export ohne Tarifhinweis
+19.06.2026;Aktualisierung Firmware 8.4.2 und App 6.12;0,00;keine;abgeschlossen;Hinweisfenster zu neuem Tarifmodell laut Kundin weggeklickt
+10.07.2026;Exportversuch EKG-Bericht;0,00;keine;abgebrochen;Anzeige Plus-Tarif erforderlich
+12.07.2026;Angebot Testmonat Plus-Tarif angezeigt;0,00;keine;nicht angenommen;Kundin hat Testmonat nicht aktiviert
+01.08.2026;Vorgemerkte Abbuchung Plus-Tarif bei Aktivierung;6,99;Kreditkarte hinterlegt;offen;nur bei Aktivierung des Tarifs
