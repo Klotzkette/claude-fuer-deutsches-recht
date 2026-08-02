@@ -37,7 +37,7 @@ Familie kauft ein Pflegebett mit Sturzsensorik, Nachtalarm und Angehörigen-App.
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | 01 mandatsnotiz erstgespräch.docx |
+| `16_kaufvertrag_und_abo_bedingungen.docx` | Kaufvertrag, Übergabe und Bedingungen des Dienstes CareRest Connect |
 | `02_chronologie_arbeitsstand.docx` | 02 chronologie arbeitsstand.docx |
 | `03_sachverhalt_aus_mandantensicht.docx` | 03 sachverhalt aus mandantensicht.docx |
 | `04_gegenseite_standpunkt.docx` | 04 gegenseite standpunkt.docx |

@@ -2,10 +2,10 @@ name: kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg
 plugin: "bgb-bt-pruefer"
 description: Fachspezifische Qualitätsprüfung der vollständigen Akte kaufrecht-pflegebett-sensorik-cloud-abo-nuernberg.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
+  - id: datei-16-kaufbeleg
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
+    description: Der Kaufbeleg 16_kaufvertrag_und_abo_bedingungen.docx ist vorhanden.
+    path: 16_kaufvertrag_und_abo_bedingungen.docx
   - id: datei-02-chronologie-arbeitsstand
     check_type: file_exists
     description: Das Primäraktenstück 02_chronologie_arbeitsstand.docx ist vorhanden.
