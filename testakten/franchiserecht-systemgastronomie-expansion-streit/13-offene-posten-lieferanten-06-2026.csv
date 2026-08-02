@@ -1,0 +1,7 @@
+﻿rechnungsnr;datum;lieferung;position;netto_eur;faellig_am;status;bemerkung
+GK-2026-05518;2026-05-18;98122;Tiefkühlware Sammel KW20;2412,80;2026-06-01;bezahlt 2026-05-29;
+GK-2026-05887;2026-05-25;98167;Tiefkühlware Sammel KW21;2688,45;2026-06-08;bezahlt 2026-06-05;
+GK-2026-06231;2026-06-02;98214;Tiefkühlware Sammel KW22;2534,10;2026-06-16;offen;Skonto verpasst
+GK-2026-06590;2026-06-09;98271;Tiefkühlware Sammel KW23;2901,75;2026-06-23;offen;Teilgutschrift GS-2026-08812 über 187,60 angekündigt
+KK-Z-2026-1104;2026-06-01;;Verpackung Burgerboxen KK-VP-2201 3200 Stück;1184,00;2026-06-15;zurückgehalten;Reklamation Lasche, Rücksprache Rickert offen
+KK-Z-2026-0988;2026-05-04;;Verpackung Burgerboxen KK-VP-2201 3200 Stück;1184,00;2026-05-18;bezahlt 2026-05-15;
