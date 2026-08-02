@@ -61,7 +61,6 @@ Arbeitsakte zum Plugin `fachanwalt-bau-architektenrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstgespräch.docx`](01_mandatsaufnahme_erstgespräch.docx) | Kanzleinotiz Erstgespräch 14.01.2026, Saalbau Wendelstein gGmbH |
 | 02 | [`02_beteiligte_und_vertragsstruktur.docx`](02_beteiligte_und_vertragsstruktur.docx) | Beteiligte, Vertragsstruktur, GU-Pauschalvertrag VOB/B |
 | 03 | [`03_werkmangel_rissbildung_bodenplatte.docx`](03_werkmangel_rissbildung_bodenplatte.docx) | Schadensbild Bodenplatte BK 2, technische Analyse, § 13 VOB/B |
 | 04 | [`04_maengelliste_und_abnahmeverweigerung.docx`](04_maengelliste_und_abnahmeverweigerung.docx) | 23 Mängelpositionen, Abnahmeverweigerung, § 12 Abs. 3 VOB/B |

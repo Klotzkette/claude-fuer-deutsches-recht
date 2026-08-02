@@ -41,7 +41,6 @@ Doreen Kahl, geboren am 30.05.1976, Verkäuferin in einer Buchhandlung in Rostoc
 ```
 schwerbehindertenrecht-krebs-rezidiv-heilungsbewaehrung-rostock/
 ├── README.md                                   <- diese Übersicht
-├── 01_mandatsnotiz_onkologie.docx              <- Mandat, Erst- und Rezidiverkrankung, Verfahrensstand
 ├── 02_onkologiebericht.docx                     <- Diagnose, Funktionsfolgen, Prognose
 ├── 03_bescheid_gdb_40.docx                      <- Feststellungsbescheid mit Einzel-GdB und Begründung
 ├── 04_therapiekalender.csv                      <- Behandlungstermine, Folgen, Arbeitsausfall

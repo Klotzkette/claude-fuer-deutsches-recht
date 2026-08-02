@@ -33,7 +33,6 @@ Die Akte ist bewusst auskunfts- und lückengetrieben. Vor einer Bezifferung sind
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | `01_mandatsnotiz_trennung_unterhalt.docx` | Erstgespräch, Trennung, Kinder, bisherige Zahlungen |
 | 02 | `02_familien_und_kinderdaten.docx` | Kinder, Betreuung, Schule, Mehrbedarf |
 | 03 | `03_zahlungsfluss_und_verzug.docx` | Zahlungsverlauf, Inverzugsetzung, offene Beträge |
 | 04 | `04_einkommen_lenes_arbeitgeberbescheinigung.docx` | Lohn, Steuerklasse, Krankenversicherung, Fahrtkosten |

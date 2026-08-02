@@ -69,7 +69,6 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 
 | Datei | Inhalt |
 |---|---|
-| [01_mandatsnotiz_erstgespraech.docx](01_mandatsnotiz_erstgespraech.docx) | Mandatsnotiz vom Erstgespräch 12.05.2026: Sachverhalt, Sofortfragen, Verfahrensalternativen, Vollmacht |
 | [02_unternehmensprofil.docx](02_unternehmensprofil.docx) | Detailliertes Unternehmensprofil: Stammdaten, Leistungsportfolio, Personal, GuV-Entwicklung, Vermögen |
 | [03_liquiditaetsstatus.csv](03_liquiditaetsstatus.csv) | 13-Wochen-Liquiditätsplanung KW 20–32 mit wöchentlichen Zu- und Abflüssen, kritischen Salden und Investoren-Szenario |
 | [04_gläubiger_und_sicherheiten.csv](04_glaeubiger_und_sicherheiten.csv) | Vollständige Gläubigerliste (16 Positionen) mit Forderungshöhe, Rang, Sicherheiten, Plangruppe und Planquote |
@@ -92,7 +91,6 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 | [darstellender_teil_insolvenzplan.docx](darstellender_teil_insolvenzplan.docx) | DOCX: Vollständiger darstellender Teil des Insolvenzplans (ausformuliert, Calibri 11, mit Rubrum und Anlagen) |
 | [gestaltender_teil_insolvenzplan.docx](gestaltender_teil_insolvenzplan.docx) | DOCX: Vollständiger gestaltender Teil des Insolvenzplans (alle Paragrafen, bestimmt und vollziehbar) |
 | [term_sheet_nordlicht.docx](term_sheet_nordlicht.docx) | DOCX: Investor Term Sheet Nordlicht Turnaround Fonds (finale Fassung zur Unterzeichnung) |
-| [mandatsnotiz_erstgespraech.docx](mandatsnotiz_erstgespraech.docx) | DOCX: Mandatsnotiz im Briefkopf-Format (Kanzlei Westphal & Partner) |
 
 ---
 

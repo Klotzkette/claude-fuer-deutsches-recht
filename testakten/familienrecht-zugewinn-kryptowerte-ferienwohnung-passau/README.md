@@ -38,7 +38,6 @@ Scheidungsfolgenakte der Eheleute Krammer in Passau mit Ferienwohnung, Depot, Pr
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Kanzleivermerk zu Stichtagen, Erbschaft, Ferienwohnung, Praxis, Depot, digitalen Vermögenswerten und Sicherungsziel |
 | `02_chronologie_arbeitsstand.docx` | Stichtagsbezogene Zeitachse mit Belegketten vom Anfangsvermögen bis zur Auskunftsaufforderung |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Milena Krammers zu Mittelherkunft, Wallet-Wahrnehmungen, Depottilgung, Praxis und Hausrat |
 | `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Sebastian Krammers zu Eigenadressen, gemeinsamer Finanzierung, Depot und Praxisbewertung |

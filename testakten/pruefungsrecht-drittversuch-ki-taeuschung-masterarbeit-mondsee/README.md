@@ -23,7 +23,6 @@ Prüfungsrecht: Studentin Jana Mondsee erhält endgültiges Nichtbestehen nach O
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.docx` | Erste Lage, Ziel und offene Fragen |
 | `02-zeitstrahl-fristen-und-verfahrensstand.docx` | Chronologie und Fristen |
 | `03-normenkette-livecheck.docx` | Normenkette und Livecheck-Liste |
 | `04-bescheid-endgueltig-nicht-bestanden.docx` | Bescheid endgültig nicht bestanden |
@@ -37,6 +36,7 @@ Prüfungsrecht: Studentin Jana Mondsee erhält endgültiges Nichtbestehen nach O
 | `12-offene-punkte.docx` | Offene Punkte und nächste Schritte |
 | `13-anlagenindex.csv` | Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
+| `15-hausarbeit-auszug-und-literaturverzeichnis.docx` | Abgegebene Hausarbeit: Deckblatt, Gliederung, Textauszug und Literaturverzeichnis |
 
 ## Arbeitsweise
 

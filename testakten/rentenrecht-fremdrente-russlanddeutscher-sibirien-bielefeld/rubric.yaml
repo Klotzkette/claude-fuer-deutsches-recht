@@ -3,10 +3,14 @@ plugin: "rentenpruefer"
 description: Kontenklaerung eines 1992 zugezogenen Russlanddeutschen mit FRG-Zeiten, Qualifikationsgruppenstreit,
   Sechstelkuerzung glaubhaft gemachter Zeiten und abweichenden Archivnummern.
 checks:
-  - id: datei-01-mandatsnotiz-fristsache
+  - id: datei-12-email-cousine
     check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_fristsache.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_fristsache.docx
+    description: Die E-Mail der Cousine aus Nowosibirsk zur Archivauskunft ist als eigenes Aktenstück vorhanden.
+    path: 12_email_cousine_olga_nowosibirsk.eml
+  - id: datei-15-vertriebenenausweis
+    check_type: file_exists
+    description: Die Bescheinigung nach dem Bundesvertriebenengesetz ist als eigenes Aktenstück vorhanden.
+    path: 15_vertriebenenausweis_bvfg_kopie.docx
   - id: datei-02-drv-bescheid-kontenklaerung-auszug
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_bescheid_kontenklaerung_auszug.docx ist für die Fallauswertung vorhanden.

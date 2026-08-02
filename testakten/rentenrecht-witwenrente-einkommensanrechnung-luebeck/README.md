@@ -31,7 +31,6 @@ Der Datenauswertungs-Kern liegt in der Anrechnungstabelle (`13_witwenrente_anrec
 
 ```
 rentenrecht-witwenrente-einkommensanrechnung-lübeck/
-├── 01_mandatsnotiz_fristsache.docx                      # Erstgespräch, Frist, Beteiligte, Beratungsziel
 ├── 02_drv_bescheid_witwenrente.docx                     # DRV-Bewilligungsbescheid mit Berechnung und Rechtsbehelfsbelehrung
 ├── 03_einkommen_und_betriebsrente.docx                  # Vermerk zur Einkommenslage: Lohn, Betriebsrente, Sofortrente
 ├── 04a_hansekrankenkasse_kvdr_mitteilung_2026-06-25.docx # Eigenständige Krankenkassenmitteilung
@@ -46,6 +45,7 @@ rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 ├── 11_hzvk_betriebsrentenmitteilung.docx                # HZVK-Schreiben zur eigenen Betriebsrente der Mandantin
 ├── 12_hl_leben_leistungsmitteilung.docx                 # Versichererbestätigung der privaten Sofortrente
 ├── 13_witwenrente_anrechnung_berechnung.csv             # Datenkern: Brutto, Netto, Freibetrag, Anrechnung und Zahlbetrag je Monat
+├── 14_daenemark_mappe_nordbaltic_unterlagen.docx        # Abschrift der Mappe Dänemark 1984 bis 1986 (Lohnzettel, Besatzungslisten, Gewerkschaftsschreiben)
 ├── 15_widerspruchsbegruendung_anrechnung_2026-07-09.docx # Widerspruchsbegründung an die DRV Nord (Endprodukt)
 ├── 16_whatsapp_tochter_daenemark_ordner.txt             # Chat mit der Tochter zu dänischen Lohnzetteln und Geldsorgen
 ├── eml/
@@ -61,7 +61,6 @@ rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_fristsache.docx` | Erstgespräch, Frist, Beteiligte, Beratungsziel |
 | `02_drv_bescheid_witwenrente.docx` | Bewilligungsbescheid mit Rentenbeginn, Zahlbetrag und Berechnung |
 | `03_einkommen_und_betriebsrente.docx` | Vermerk zu Lohn, Betriebsrente, privater Sofortrente, Pauschalnetto |
 | `04a_hansekrankenkasse_kvdr_mitteilung_2026-06-25.docx` | Krankenkassenmitteilung zu Beiträgen und Nachweisen |
@@ -75,6 +74,7 @@ rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 | `10_kontoauszug_und_fragenliste.txt` | Kontoauszugsausschnitt und Mandantenfragen |
 | `11_hzvk_betriebsrentenmitteilung.docx` | Betriebsrentenmitteilung der Zusatzversorgungskasse |
 | `12_hl_leben_leistungsmitteilung.docx` | Leistungsmitteilung des privaten Versicherers |
+| `14_daenemark_mappe_nordbaltic_unterlagen.docx` | Abschrift der Dänemark-Mappe des Verstorbenen mit Lohnzetteln und Gewerkschaftsschreiben |
 | `13_witwenrente_anrechnung_berechnung.csv` | Datenkern: Anrechnung und Zahlbetrag je Monat |
 | `15_widerspruchsbegruendung_anrechnung_2026-07-09.docx` | Widerspruchsbegründung an die DRV Nord |
 | `16_whatsapp_tochter_daenemark_ordner.txt` | Chat mit der Tochter zu den dänischen Lohnzetteln |

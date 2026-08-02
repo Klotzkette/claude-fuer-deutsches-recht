@@ -46,7 +46,6 @@ Die Initiative Lausitzer Lebensraum e.V. meldet für den 17. Juni 2026 in Forst 
 
 ## Aktenstücke
 
-01. Mandatsnotiz Erstgespräch Pohlmann-Brandenburg
 02. Beteiligte und Verfahrensübersicht
 03. Versammlungsanmeldung 27.05.2026
 04. Eingangsbestaetigung Ordnungsamt 28.05.2026

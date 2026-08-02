@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: Aenderungsantrag bei Parkinson mit Streit um das Merkzeichen G und den Grad der Behinderung, motorische
   Fluktuationen sowie spaetere Altersrente fuer schwerbehinderte Menschen.
 checks:
-  - id: datei-01-mandatsnotiz-gdb-merkzeichen
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_gdb_merkzeichen.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_gdb_merkzeichen.docx
   - id: datei-02-bescheid-versorgungsamt
     check_type: file_exists
     description: Das Primäraktenstück 02_bescheid_versorgungsamt.docx ist für die Fallauswertung vorhanden.

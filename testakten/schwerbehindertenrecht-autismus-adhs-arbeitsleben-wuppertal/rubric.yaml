@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: GdB-Neufeststellung bei spaetdiagnostiziertem Autismus und ADHS mit Streit um die integrative Bildung
   des Gesamt-GdB, Gleichstellung, Teilhabe am Arbeitsleben und Rentenabgrenzung.
 checks:
-  - id: datei-01-mandatsnotiz-neurodivergenz
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_neurodivergenz.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_neurodivergenz.docx
   - id: datei-02-bescheid-gdb-30
     check_type: file_exists
     description: Das Primäraktenstück 02_bescheid_gdb_30.docx ist für die Fallauswertung vorhanden.

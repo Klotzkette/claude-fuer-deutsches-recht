@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: GdB-Neufeststellung nach Brustkrebsrezidiv mit Streit um die erneute Heilungsbewaehrung, Lymphoedem,
   Fatigue sowie Krankengeld-, Reha- und Rentenabgrenzung.
 checks:
-  - id: datei-01-mandatsnotiz-onkologie
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_onkologie.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_onkologie.docx
   - id: datei-02-onkologiebericht
     check_type: file_exists
     description: Das Primäraktenstück 02_onkologiebericht.docx ist für die Fallauswertung vorhanden.

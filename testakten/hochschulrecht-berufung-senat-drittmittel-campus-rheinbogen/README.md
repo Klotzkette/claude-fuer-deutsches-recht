@@ -23,7 +23,6 @@ Hochschulrecht: Universität Campus Rheinbogen streitet über eine W3-Berufung, 
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-auftrag.docx` | Erste Lage, Ziel und offene Fragen |
 | `02-zeitstrahl-fristen-und-verfahrensstand.docx` | Chronologie und Fristen |
 | `03-normenkette-livecheck.docx` | Normenkette und Livecheck-Liste |
 | `04-berufungskommission-auswahlvermerk.docx` | Auswahlvermerk Berufungskommission |

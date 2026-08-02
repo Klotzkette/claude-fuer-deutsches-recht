@@ -33,7 +33,10 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01a | `01a_mandatsnotiz_markus_reinhold_2026-01-19.docx` | Eigenständiger Kanzleivermerk zum Erstgespräch, Familienlage, Einkommensfragen und Unterlagenstand |
+| 01c | `01c_heimvertrag_st_gertrud_auszug.docx` | Wohn- und Betreuungsvertrag mit dem Seniorenzentrum St. Gertrud, Entgeltbestandteile |
+| 01d | `01d_pflegegradbescheid_mutter.docx` | Bescheid der Pflegekasse über die Einstufung der Mutter in den Pflegegrad 4 |
+| 01e | `01e_heimkosten_dezemberabrechnung_2025.docx` | Entgeltabrechnung des Heims für Dezember 2025 mit Direktzahlungen und Eigenanteil |
+| 01f | `01f_einkommensteuerbescheid_2024.docx` | Einkommensteuerbescheid 2024 der Eheleute Reinhold (Zusammenveranlagung) |
 | 01b | `01b_rechtswahrungsanzeige_staedteregion_aachen_2026-01-12.docx` | Förmliche Rechtswahrungsanzeige der StädteRegion Aachen mit Auskunftsverlangen und Frist |
 | 02 | `02_familien_und_vermoegenslage_mandant.docx` | Familienstand, Haushalt, Vermögensübersicht des pflichtigen Kindes |
 | 03 | `03_einkommen_mandant_jahresbruttogrenze.docx` | Einkommen, Bonus, Jahresbrutto und die 100.000-EUR-Grenze |

@@ -38,7 +38,6 @@ Trennung von Rieke und Malte Henning in Kiel mit zwei Kindern, praktiziertem Wec
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Kanzleivermerk zu Betreuungswirklichkeit, Selbstständigeneinkommen, Kinderkosten, Zahlungen und Mandatsziel |
 | `02_chronologie_arbeitsstand.docx` | Zeitachse und Zahlungsübersicht mit Quellen, Auskunftslücken und abweichenden Elternkalendern |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Rieke Hennings zu tatsächlicher Betreuung, Kosten, Praxiseinkommen und gewünschter Zwischenregelung |
 | `04_gegenseite_standpunkt.docx` | Anwaltsschreiben Malte Hennings zu Betreuungszeiten, Mehrjahreseinkommen, Sachleistungen und Zwischenzahlung |

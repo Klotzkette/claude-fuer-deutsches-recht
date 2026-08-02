@@ -8,8 +8,8 @@ checks:
     path: gesamt-pdf/hochschulrecht-berufung-senat-drittmittel-campus-rheinbogen_gesamt.pdf
   - id: r02-mandantin-und-listenplatz
     check_type: text_contains
-    description: Die Mandatsaufnahme führt Mandantin und Listenplatz.
-    path: 01-mandatsnotiz-und-auftrag.docx
+    description: Der Auswahlvermerk führt Mandantin und Listenplatz.
+    path: 04-berufungskommission-auswahlvermerk.docx
     contains: Prof. Dr. Eveline Bornhorst
   - id: r03-verfahrenschronologie
     check_type: text_contains

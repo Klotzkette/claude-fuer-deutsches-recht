@@ -32,7 +32,6 @@ Kein Bescheid ist angegriffen; die Akte ist ein reines Gestaltungs- und Rechenma
 ```
 rentenrecht-betriebsrente-direktversicherung-vbl-hannover/
 ├── README.md                                   ← diese Datei
-├── 01_beratungsvermerk_mandatsaufnahme.docx      ← Erstgespräch, drei Entscheidungen, Arbeitsauftrag
 ├── 02_drv_rentenauskunft.docx                    ← Rentenauskunft mit Abschlagstabelle für drei Beginntermine
 ├── 03_zusatzversorgungskasse_auskunft.docx       ← Betriebsrente 318,40 EUR, fehlende Zeiten vor 07/2004, Überleitungshinweis
 ├── 04_arbeitgeberbescheinigung_entgeltumwandlung.docx ← Beschäftigungszeiten, ZVK-Meldung, Entgeltumwandlung seit 2004

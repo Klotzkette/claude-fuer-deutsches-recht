@@ -30,7 +30,6 @@ Jens Malchow, 54, Schichtleiter Wareneingang, ist seit Januar 2024 arbeitsunfäh
 ```
 rentenrecht-erwerbsminderung-reha-ablehnung-leipzig/
 ├── README.md                              ← diese Datei
-├── 01_mandatsaufnahme.docx                  ← Kanzleivermerk: Verlauf, Verfahrensstand, Klagefrist, Strategie
 ├── 02_hausarzt_attest_widerspruch.docx      ← kurzes Attest vom 30.04.2026 als Anlage zum Widerspruch
 ├── 03_hausarzt_befundbericht.docx           ← ausführlicher Befundbericht vom 11.06.2026 mit Medikation
 ├── 04_neurologischer_befundbericht.docx     ← NLG-Messung, Polyneuropathie, Sturzgefahr

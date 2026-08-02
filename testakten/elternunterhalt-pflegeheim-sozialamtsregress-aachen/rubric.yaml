@@ -10,6 +10,22 @@ expected_use:
   - Antwortschreiben an das Sozialamt und Vergleichs- oder Ratenangebot entwerfen
 
 checks:
+  - id: datei-01c-heimvertrag
+    check_type: file_exists
+    description: Der Heimvertrag mit dem Seniorenzentrum St. Gertrud ist als eigenes Aktenstück vorhanden.
+    path: 01c_heimvertrag_st_gertrud_auszug.docx
+  - id: datei-01d-pflegegradbescheid
+    check_type: file_exists
+    description: Der Pflegegradbescheid der Pflegekasse ist als eigenes Aktenstück vorhanden.
+    path: 01d_pflegegradbescheid_mutter.docx
+  - id: datei-01e-dezemberabrechnung
+    check_type: file_exists
+    description: Die Heimkosten-Dezemberabrechnung 2025 ist als eigenes Aktenstück vorhanden.
+    path: 01e_heimkosten_dezemberabrechnung_2025.docx
+  - id: datei-01f-est-bescheid
+    check_type: file_exists
+    description: Der Einkommensteuerbescheid 2024 des Mandanten ist als eigenes Aktenstück vorhanden.
+    path: 01f_einkommensteuerbescheid_2024.docx
   - id: r01-readme-vorhanden
     check_type: file_exists
     description: "README.md vorhanden"

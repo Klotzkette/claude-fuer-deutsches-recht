@@ -25,7 +25,6 @@ Der Fall ist bewusst mehrdeutig: Die Reha sieht noch leichte Tätigkeiten über 
 
 ```
 rentenrecht-erwerbsminderung-orthopädie-psyche-kassel/
-├── 01_mandatsnotiz_fristsache.docx          # Erstaufnahme, Fristen, Gesundheitsthemen, Arbeitsauftrag
 ├── 02_drv_ablehnungsbescheid.docx           # Ablehnungsbescheid der DRV Hessen mit Rechtsbehelfsbelehrung
 ├── 03_reha_entlassungsbericht_auszug.docx   # Entlassungsbericht Bad Zwesten mit Leistungsbeurteilung
 ├── 04_orthopaedischer_befundbericht.docx    # Befundbericht Dr. Lenz mit Kritik an der Reha-Einschätzung

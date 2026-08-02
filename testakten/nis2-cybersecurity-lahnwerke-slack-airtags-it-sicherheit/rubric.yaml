@@ -8,8 +8,8 @@ checks:
     path: gesamt-pdf/nis2-cybersecurity-lahnwerke-slack-airtags-it-sicherheit_gesamt.pdf
   - id: r02-mandantin-konkret
     check_type: text_contains
-    description: Die Mandatsaufnahme bezeichnet die Aktiengesellschaft konkret.
-    path: 01-mandatsnotiz-und-arbeitsauftrag.docx
+    description: Die Vorstandsvorlage bezeichnet die Aktiengesellschaft konkret.
+    path: 04-vorstandsvorlage-cyber-roadmap.docx
     contains: Lahnwerke Maschinenbau AG
   - id: r03-vpn-ereignis
     check_type: text_contains

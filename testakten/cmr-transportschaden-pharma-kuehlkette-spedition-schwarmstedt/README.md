@@ -67,7 +67,6 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstgespraech.docx`](01_mandatsaufnahme_erstgespraech.docx) | Kanzleinotiz Erstgespräch 14.03.2026; Sachverhalt, Vollmacht, Verfahrensübersicht |
 | 02 | [`02_beteiligte_und_vertragsstruktur.docx`](02_beteiligte_und_vertragsstruktur.docx) | Beteiligte (Schwarmstedt, MediVita, HCL Lyon, Petrescu, Behörden), Vertragsstruktur CMR-Kette |
 | 03 | [`03_cmr_haftungsrahmen_art23_art29.docx`](03_cmr_haftungsrahmen_art23_art29.docx) | Rechtsgutachten Art. 23 Abs. 3 CMR vs. Art. 29 CMR; SZR-Berechnung; Verteidigungsstrategie |
 | 04 | [`04_temperaturlogger_auswertung.docx`](04_temperaturlogger_auswertung.docx) | DataTrack 4000 Rohdaten; Temperaturkurve; Sachverständigenbefund Kretschmann; Alarmversagen |

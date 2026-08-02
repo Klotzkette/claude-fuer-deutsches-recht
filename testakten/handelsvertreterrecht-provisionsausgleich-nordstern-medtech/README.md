@@ -23,7 +23,6 @@ Nordstern MedTech GmbH kündigt einer langjährigen Handelsvertreteragentur nach
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-arbeitsauftrag.docx` | Erste Lage, Personen, Ziel und offene Fragen |
 | `02-zeitstrahl-und-fristen.docx` | Chronologie mit Entscheidungs- und Eskalationspunkten |
 | `03-prueffragen-fuer-erstgespraech.docx` | Katalog für das erste strukturierte Gespräch |
 | `04-handelsvertretervertrag-auszug.docx` | Auszug Handelsvertretervertrag |

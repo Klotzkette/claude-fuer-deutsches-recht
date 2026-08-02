@@ -116,7 +116,6 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 |---|---|
 | [README.md](README.md) | Gesamtüberblick, Sachverhalt, Eckdaten, Zeitleiste, Dateiverzeichnis |
 | [01_intake/email_mandant_stadtwerke.eml](01_intake/email_mandant_stadtwerke.eml) | Projektanfrage der Stadtwerke zum Quartier Hafenbogen |
-| [01_intake/mandatsnotiz_erstgespraech.docx](01_intake/mandatsnotiz_erstgespraech.docx) | Interner Aktenvermerk zum Erstgespräch vom 15.03.2024 |
 | [02_projekt/quartier_wärme_strom_konzept.docx](02_projekt/quartier_waerme_strom_konzept.docx) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
 | [03_netzanschluss/netzanschluss_sonderkonstellation.docx](03_netzanschluss/netzanschluss_sonderkonstellation.docx) | Rechtlicher Vermerk: Netzanschluss, Kundenanlage vs. GVN, Messkonzept |
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | Netzanschlussbegehren vom 14.11.2024 (Schreiben SWKK an Netzbetreiber) |

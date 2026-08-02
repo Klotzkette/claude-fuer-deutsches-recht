@@ -8,8 +8,8 @@ checks:
     path: gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf
   - id: r02-mandantin-konkret
     check_type: text_contains
-    description: Die Mandatsaufnahme bezeichnet die Schülerin konkret.
-    path: 01-mandatsnotiz-und-auftrag.docx
+    description: Das Schreiben der Schulleitung bezeichnet die Schülerin konkret.
+    path: 04-schreiben-schulleitung-unterrichtsausschluss.docx
     contains: Amalia Reben
   - id: r03-chronologie-ausfuehrlich
     check_type: text_contains

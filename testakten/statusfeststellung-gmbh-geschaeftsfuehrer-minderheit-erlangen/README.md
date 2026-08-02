@@ -25,7 +25,6 @@ Enthalten sind ausformulierte Aktenstücke, Bescheide, Notarurkunden, Handelsreg
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_clearingstelle.docx` | Erstnotiz mit Beteiligten, Anteilsverhältnissen und Verfahrensstand |
 | `02_gesellschaftsvertrag.docx` | Vollständiger Gesellschaftsvertrag mit Beirat, Mehrheitserfordernissen, Wettbewerbsverbot, Vinkulierung, Einziehung und Abfindung |
 | `03_geschaeftsfuehrervertrag.docx` | Anstellungsvertrag mit Vergütung, Urlaub, Zustimmungsvorbehalten und Kündigungsregeln |
 | `04_beiratsprotokolle.docx` | Beiratssitzungen mit Eingriffen in Budget, Personal und Patentverwertung |

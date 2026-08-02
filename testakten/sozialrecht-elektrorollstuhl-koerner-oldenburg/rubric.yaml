@@ -3,10 +3,6 @@ plugin: "fachanwalt-sozialrecht"
 description: Hilfsmittelstreit um Elektrorollstuhl nach Paragraf 33 SGB V mit MD-Ablehnung, privatem Reha-Gutachten,
   vollstaendiger Klage, Kassenverteidigung, Beweisbeschluss und gerichtlichem Sachverstaendigengutachten.
 checks:
-  - id: datei-01-mandatsnotiz-und-fristsache
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_und_fristsache.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_und_fristsache.docx
   - id: datei-02-ueberweisung-und-hilfsmittelverordnung
     check_type: file_exists
     description: Die eigenständige fachärztliche Überweisung ist für die Fallauswertung vorhanden.

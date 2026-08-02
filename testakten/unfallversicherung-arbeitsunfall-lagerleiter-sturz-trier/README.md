@@ -25,7 +25,6 @@ Enthalten sind ausformulierte Aktenstücke, Formulare, medizinische Verlaufsberi
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_bg_fristsache.docx` | Erste Mandatsnotiz mit Fristenlage |
 | `02_unfallanzeige_arbeitgeber.docx` | Unfallanzeige des Arbeitgebers, Auszug mit internem Nachtrag |
 | `05_zeugen_und_kamera.docx` | Erste Zeugennotizen und Kameraausfall |
 | `07_verletztengeld_und_lohn.csv` | Lohn- und Verletztengeldübersicht |

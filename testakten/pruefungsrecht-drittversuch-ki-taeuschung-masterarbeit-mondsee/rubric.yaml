@@ -2,14 +2,18 @@ name: Prüfungsrecht Drittversuch Täuschung Masterarbeit Mondsee
 plugin: pruefungsrecht-hochschule
 description: Fallbezogene Qualitätsprüfung des Drittversuchs mit Bewertungsakte, Krankheitsvorgang, Täuschungsvorwurf und Akteneinsicht.
 checks:
+  - id: datei-15-hausarbeit
+    check_type: file_exists
+    description: Der Auszug der abgegebenen Hausarbeit mit Literaturverzeichnis ist als eigenes Aktenstück vorhanden.
+    path: 15-hausarbeit-auszug-und-literaturverzeichnis.docx
   - id: r01-gesamt-pdf-vorhanden
     check_type: file_exists
     description: Das Gesamt-PDF ist gebaut.
     path: gesamt-pdf/pruefungsrecht-drittversuch-ki-taeuschung-masterarbeit-mondsee_gesamt.pdf
   - id: r02-mandantin-und-modul
     check_type: text_contains
-    description: Die Mandatsaufnahme bezeichnet Mandantin und Modul konkret.
-    path: 01-mandatsnotiz-und-auftrag.docx
+    description: Der Zeitstrahl bezeichnet Mandantin und Modul konkret.
+    path: 02-zeitstrahl-fristen-und-verfahrensstand.docx
     contains: Quantitative Methoden III
   - id: r03-pruefungstag
     check_type: text_contains

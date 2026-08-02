@@ -25,7 +25,6 @@ Die Akte passt zu `robotik-recht` und berührt zusätzlich `ki-vo-ai-act-pruefer
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsaufnahme_krisenlage.docx` | Telefonnotiz Kanzlei, Produktlinien, Fristen, Vorfälle |
 | `02_beteiligte_rollenmatrix.docx` | Hersteller, Integrator, Betreiber, Lieferanten, Versicherer, Behörden |
 | `03_produktuebersicht_werkbank_c7_lumamove_atlascare.docx` | Produkt- und Zweckbestimmungen mit Widersprüchen |
 | `04_betreibervertrag_muenchen_logistikzentrum.docx` | RaaS-/Wartungsvertrag mit Betreiberstreit |

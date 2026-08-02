@@ -43,7 +43,6 @@ Helga Rottmann, geboren am 09.12.1963, Sachbearbeiterin in Teilzeit beim Hochsau
 ```
 schwerbehindertenrecht-parkinson-merkzeichen-g-arnsberg/
 ├── README.md                                   <- diese Übersicht
-├── 01_mandatsnotiz_gdb_merkzeichen.docx        <- Mandat, Diagnose, Verfahren, Rentenbezug
 ├── 02_bescheid_versorgungsamt.docx              <- Bescheid GdB 40, Ablehnung Merkzeichen G
 ├── 03_neurologie_befund.docx                    <- neurologischer Befund, Hoehn und Yahr, Freezing
 ├── 04_gehtagebuch.csv                           <- Strecke, Hilfsmittel, Ereignis, Zeuge

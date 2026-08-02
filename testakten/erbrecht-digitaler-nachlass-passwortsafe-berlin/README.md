@@ -38,7 +38,6 @@ Nach dem Tod des Fotografen Armin Lohse streiten Ehefrau, Tochter aus erster Ehe
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Ausführliche Mandatsaufnahme mit Beteiligten, Sicherungslage, Geräten und laufenden Aufträgen |
 | `02_chronologie_arbeitsstand.docx` | Beleggestützte Zeitachse mit Datenbewegungen, Fundkette und offenen Widersprüchen |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Eva Lohses zu Atelier, Testament, Geräten und Aufträgen |
 | `04_gegenseite_standpunkt.docx` | Ralf Lohses Stellungnahme zu Verwahrung, Retuschearbeiten und neutraler Sicherung |

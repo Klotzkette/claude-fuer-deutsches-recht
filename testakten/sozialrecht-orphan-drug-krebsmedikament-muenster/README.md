@@ -29,7 +29,6 @@ Gregor Lütke, 46, hat ein metastasiertes alveoläres Weichteilsarkom. Die Unive
 sozialrecht-orphan-drug-krebsmedikament-münster/
 ├── README.md                                <- diese Übersicht
 ├── rubric.yaml                              <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_eilfall.docx               <- Erstkontakt, Frist, Erste Einschätzung, Auftrag
 ├── 02_onkologischer_antrag.docx               <- Kostenübernahmeantrag der Universitätsklinik
 ├── 03a_tumorboardprotokoll_2026-05-29.docx    <- Eigenständiges interdisziplinäres Tumorboardprotokoll
 ├── 03b_nutzen_risiko_stellungnahme_telvuranib_2026-06-02.docx <- Gesonderte ärztliche Nutzen-Risiko-Stellungnahme

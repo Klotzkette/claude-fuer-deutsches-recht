@@ -23,7 +23,6 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-mandatsnotiz-und-risiko.docx` | Erstnotiz mit Beteiligten, Ausgangslage, betroffenen Gruppen und Verfahrensstand |
 | `02-personen-und-rollen.docx` | Rollenübersicht: GF, Honorarkräfte, Anwalt, IT-Freelancer, Lehrbeauftragte |
 | `03-drv-anhoerung-betriebspruefung.pdf` | Anhörungsschreiben zur Betriebsprüfung nach Paragraf 28p SGB IV |
 | `04-honorarvertrag-musiklehrer-auszug.docx` | Honorarvertrag mit Freiheitsklauseln und gelebter Planbindung |

@@ -6,7 +6,6 @@ Diese Akte umfasst 16 Aktenstücke zur Sanierungssteuerproblematik der Pellbach 
 
 | Reihenfolge | Aktenstück | Zweck |
 |---|---|---|
-| 1 | 01_mandatsnotiz_geschaeftsfuehrer_pellbach.docx | Erstkontakt, Sachverhalt, steuerliche Problemlage |
 | 2 | 02_starug-anzeige_31_starug_ag_cottbus.docx | Verfahrenseintritt |
 | 3 | 03_restrukturierungsplan_4_ff_starug_eckpunkte.docx | Plan-Eckpunkte und Gruppen |
 | 4 | 04_banken-konsortium_verzichts-und-des-vereinbarung.docx | Quelle des Sanierungsertrags und DES |

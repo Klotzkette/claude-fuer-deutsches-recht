@@ -103,7 +103,6 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 
 | Datei | Inhalt |
 |---|---|
-| [01_mandatsaufnahme_telefonnotiz.docx](01_mandatsaufnahme_telefonnotiz.docx) | Telefonnotiz Erstkontakt, Sachverhaltsaufnahme, Sofortmaßnahmen |
 | [02_strafbefehl_amtsgericht.docx](02_strafbefehl_amtsgericht.docx) | Vollständiger Strafbefehl: Rubrum, Tenor, Vorschriften, Rechtsbehelfsbelehrung |
 | [02_strafbefehl_amtsgericht.docx](02_strafbefehl_amtsgericht.docx) | DOCX-Version des Strafbefehls |
 | [03_zustellungsumschlag_fristscan.docx](03_zustellungsumschlag_fristscan.docx) | Zustellungsvermerk, Fristberechnung, Risikovermerk |

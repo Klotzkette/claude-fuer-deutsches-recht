@@ -79,7 +79,6 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | Nr. | Datei | Inhalt |
 |---|---|---|
 | 00 | [`00_aktenuebersicht.md`](00_aktenuebersicht.md) | Lese-Reihenfolge, Fristen-Kalender, Verfahrensstand |
-| 01 | [`01_mandatsnotiz_erstgespraech.docx`](01_mandatsnotiz_erstgespraech.docx) | Erstgespräch 13.05.2026 JVA Köln-Ossendorf — Mandantenangaben, Strategie |
 | 02 | [`02_haftbefehl_ag_koeln_12_05_2026.docx`](02_haftbefehl_ag_koeln_12_05_2026.docx) | Haftbefehl AG Köln (502 Gs 4881/26) vom 12.05.2026 |
 | 03 | [`03_durchsuchungsbeschluss_und_protokoll.docx`](03_durchsuchungsbeschluss_und_protokoll.docx) | Durchsuchungsbeschluss vom 12.05.2026 + Durchsuchungsprotokoll Pellbach-Privat / Geschäftsräume |
 | 04 | [`04_anklageschrift_entwurf.docx`](04_anklageschrift_entwurf.docx) | Anklageschrift-Entwurf StA Köln (Stand 27.05.2026, noch nicht eröffnet, Vor-Eröffnung) |
@@ -199,7 +198,6 @@ Diese Akte demonstriert besonders folgende Skills aus dem Plugin `fachanwalt-str
 Empfohlene Lese-Reihenfolge für Verteidiger / Prüfer:
 
 1. `00_aktenuebersicht.md` (Fristen, Personen, Stand)
-2. `01_mandatsnotiz_erstgespraech.docx` (Mandantenangaben)
 3. `02_haftbefehl_ag_koeln_12_05_2026.docx` (Vorwurfsbeschreibung amtlich)
 4. `04_anklageschrift_entwurf.docx` (vollständige Vorwürfe)
 5. `06_aktenauszug_zeugenvernehmung_quasthoff_01.docx` und `07_aktenauszug_zeugenvernehmung_quasthoff_02.docx` (Belastungsbasis)

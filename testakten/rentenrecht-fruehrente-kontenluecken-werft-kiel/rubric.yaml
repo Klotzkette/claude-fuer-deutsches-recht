@@ -3,10 +3,6 @@ plugin: "rentenpruefer"
 description: Vorgezogene Altersrente einer Werftmitarbeiterin mit Kontenluecken, streitigen Wartezeitmonaten fuer
   die Rente fuer langjaehrig und besonders langjaehrig Versicherte sowie Abschlagsfrage beim Wunschbeginn.
 checks:
-  - id: datei-01-mandatsaufnahme
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsaufnahme.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsaufnahme.docx
   - id: datei-02-drv-versicherungsverlauf
     check_type: file_exists
     description: Das Primäraktenstück 02_drv_versicherungsverlauf.docx ist für die Fallauswertung vorhanden.

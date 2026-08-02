@@ -3,10 +3,6 @@ plugin: "fachanwalt-familienrecht"
 description: Akte Neumann zu Kindesunterhalt, Trennungsunterhalt, Wohnwert, Auskunft und Zugewinn mit gemischten
   Unterlagen.
 checks:
-  - id: datei-01-mandatsnotiz-erstgespraech
-    check_type: file_exists
-    description: Das Primäraktenstück 01_mandatsnotiz_erstgespraech.docx ist für die Fallauswertung vorhanden.
-    path: 01_mandatsnotiz_erstgespraech.docx
   - id: datei-02-trennungs-und-betreuungschronik
     check_type: file_exists
     description: Das Primäraktenstück 02_trennungs_und_betreuungschronik.docx ist für die Fallauswertung vorhanden.

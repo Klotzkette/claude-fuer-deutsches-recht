@@ -38,7 +38,6 @@ Pflichtteilsstreit nach dem Tod von Helga Martensen. Vorwegübertragung eines Ha
 
 | Datei | Inhalt |
 | --- | --- |
-| `01_mandatsnotiz_erstgespraech.docx` | Ausführlicher Kanzleivermerk zu Erbfolge, Hausübertragung, Depot, Nachlasspositionen, Mandatsziel und Fristensicherung |
 | `02_chronologie_arbeitsstand.docx` | Zehnstufige Zeitachse mit Quelle, Belegstatus und offenen Punkten von der Übertragung bis zur Mandatsübernahme |
 | `03_sachverhalt_aus_mandantensicht.docx` | Unterzeichnete Erklärung Anja Martensens zu Nutzung des Hauses, Depoterträgen, Pflege und fehlenden Nachlasspositionen |
 | `04_gegenseite_standpunkt.docx` | Vollständiges Anwaltsschreiben Karsten Martensens mit abweichender Darstellung zu Nießbrauch, Pflege, Investitionen und Depot |

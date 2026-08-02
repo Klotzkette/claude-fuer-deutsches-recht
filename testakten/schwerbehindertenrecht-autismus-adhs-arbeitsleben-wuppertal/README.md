@@ -43,7 +43,6 @@ Julian Arendt, geboren am 28.07.1988, technischer Zeichner bei der Bergische Anl
 ```
 schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal/
 ├── README.md                                   <- diese Übersicht
-├── 01_mandatsnotiz_neurodivergenz.docx         <- Mandat, Diagnosen, rentenberaterliche Perspektive
 ├── 02_bescheid_gdb_30.docx                      <- Feststellungsbescheid GdB 30 mit Begründungslücken
 ├── 03_autismusambulanz_bericht.docx             <- Diagnostik, Teilhabe, arbeitsbezogene Empfehlung
 ├── 04_arbeitgeber_bem_notiz.docx                <- Fehlzeiten, Konfliktpunkte, BEM-Angebot

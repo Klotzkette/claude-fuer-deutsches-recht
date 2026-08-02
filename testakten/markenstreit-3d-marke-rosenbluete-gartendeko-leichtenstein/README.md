@@ -62,7 +62,7 @@ Arbeitsakte zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 
 | Nr. | Datei | Inhalt |
 |---|---|---|
-| 01 | [`01_mandatsaufnahme_erstnotiz.docx`](01_mandatsaufnahme_erstnotiz.docx) | Kanzleinotiz Erstgespräch, Sachverhaltsaufnahme |
+| 01a | [`01a_vollmacht_anlage_a1.docx`](01a_vollmacht_anlage_a1.docx) | Vollmacht der Mandantin für Verletzungsverfahren und EUIPO-Verteidigung (Anlage A-1) |
 | 02 | [`02_schutzrechtsportfolio_leichtenstein.docx`](02_schutzrechtsportfolio_leichtenstein.docx) | Übersicht aller Schutzrechte, Registerauszüge |
 | 03 | [`03_3d_marke_unterscheidungskraft_analyse.docx`](03_3d_marke_unterscheidungskraft_analyse.docx) | Rechtliche Analyse Art. 7 Abs. 1 lit. b UMV, EUIPO-Praxis |
 | 04 | [`04_verletzungsanalyse_flowerworld_ag.docx`](04_verletzungsanalyse_flowerworld_ag.docx) | Verwechslungsgefahr, Zeichenvergleich, § 14 Abs. 2 MarkenG |

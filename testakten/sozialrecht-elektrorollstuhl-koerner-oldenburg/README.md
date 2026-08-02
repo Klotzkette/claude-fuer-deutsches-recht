@@ -35,7 +35,6 @@ Aktenstand ist der 25.09.2026. Der Widerspruchsbescheid vom 24.06.2026 wurde am 
 sozialrecht-elektrorollstuhl-körner-oldenburg/
 ├── README.md                                            <- diese Übersicht
 ├── rubric.yaml                                          <- Prüfkriterien für die Bearbeitung
-├── 01_mandatsnotiz_und_fristsache.docx                    <- Erstgespräch, Fristen, Beteiligte, Anspruchsziel
 ├── 02_ueberweisung_facharzt_2026-05-08.docx               <- Eigenständige hausärztliche Überweisung mit konkreter Fragestellung
 ├── 02a_hilfsmittelverordnung_elektrorollstuhl_2026-05-16.docx <- Gesonderte Hilfsmittelverordnung mit Untersuchung und Versorgungsziel
 ├── 03_facharztbericht_mobilitaet.docx                     <- Orthopädisch-neurologischer Befund, Gangbild, Sturzrisiko

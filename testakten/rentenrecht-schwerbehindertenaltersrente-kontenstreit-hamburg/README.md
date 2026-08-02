@@ -25,7 +25,6 @@ Enthalten sind Rentenauskunft, Versicherungsverlauf, Arbeitgebernachweise, Pfleg
 
 ```
 rentenrecht-schwerbehindertenaltersrente-kontenstreit-hamburg/
-├── 01_mandatsnotiz_rentenbeginn.docx        # Person, gewünschter Rentenbeginn, streitige Zeiten, Ziel
 ├── 02_drv_auskunft_wartezeit.docx           # DRV-Auskunft: 406 von 420 Wartezeitmonaten, Nachweisbitte
 ├── 03_versicherungsverlauf_luecken.docx     # Verlauf mit markierten Lücken und Randbemerkungen
 ├── 04_gdb_bescheid_auszug.docx              # Feststellungsbescheid GdB 50 mit Nachprüfungsvermerk
