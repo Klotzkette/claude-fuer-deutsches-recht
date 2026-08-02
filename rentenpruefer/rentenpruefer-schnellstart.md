@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Rentenart und welcher Stichtag entscheiden den Fall.
+2. Welche Monate tragen Wartezeit oder Entgeltpunkte und welche Monate sind nur behauptet.
+3. Welche Berechnung hängt an Einkommen, Zulagen, Abschlägen oder Beiträgen zur Kranken- und Pflegeversicherung.
+4. Engpass dieses Gebiets zuerst sichern: Bescheidzugang, Rentenbeginn oder Widerspruchsfrist ist unklar.
+5. Beweislage ordnen: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen.
+6. Erstes Arbeitsprodukt liefern: Rechtsweg: Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren.
 
 ## 3. Kernroute
 
@@ -43,8 +45,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Versicherungsverlauf | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch und Höhe | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Hinterbliebene und Familie | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Private und betriebliche Ebene | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsweg | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -56,8 +57,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 35 SGB VI — Regelaltersrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 36 SGB VI — Altersrente für langjährig Versicherte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 43 SGB VI — Erwerbsminderungsrente; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R: Mehrere gewöhnliche Leistungseinschränkungen können durch besondere Additions- und Verstärkungswirkung ernsthafte Zweifel an der Einsetzbarkeit auf dem allgemeinen Arbeitsmarkt begründen.
-- BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R: Der Vormerkungsbescheid stellt Art und Zeitraum rentenrechtlicher Zeiten bindend fest; ihre abschließende Anrechnung und Bewertung erfolgt erst im Leistungsbescheid.
 
 ## 7. Antwortform
 
@@ -65,10 +64,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Rentenauftrag konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche monate tragen wartezeit oder entgeltpunkte und welche monate sind nur behauptet an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Rentenauftrag, Versicherungsverlauf, Anspruch und Höhe, Hinterbliebene und Familie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn bescheidzugang, rentenbeginn oder widerspruchsfrist ist unklar. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

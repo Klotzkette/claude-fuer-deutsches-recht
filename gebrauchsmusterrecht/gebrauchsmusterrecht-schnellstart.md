@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Ist die technische Lehre als Gebrauchsmustergegenstand zulässig oder als Verfahren ausgeschlossen.
+2. Sind Abzweigungs-, Prioritäts- und Schonfrist anhand amtlicher Daten eingehalten.
+3. Welcher Stand der Technik nimmt welches Anspruchsmerkmal vorweg oder legt die Kombination nahe.
+4. Engpass dieses Gebiets zuerst sichern: Abzweigungs-, Prioritäts- oder Schonfrist ist offen.
+5. Beweislage ordnen: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede.
+6. Erstes Arbeitsprodukt liefern: Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Schutzgegenstand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Rechtsbestand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Schutzbereich und Verletzung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde Bpatg | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -59,10 +60,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Schutzweg und Frist konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei sind abzweigungs-, prioritäts- und schonfrist anhand amtlicher daten eingehalten an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Schutzweg und Frist, Schutzgegenstand, Rechtsbestand, Schutzbereich und Verletzung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn abzweigungs-, prioritäts- oder schonfrist ist offen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

@@ -20,7 +20,7 @@ from themen_profile import profile_for, ThemenProfil
 
 
 REPO = Path(__file__).resolve().parent.parent
-MAX_FAST = 7500
+MAX_FAST = 7000
 WERKSTATT_TEMPO_BLOCK = [
     "### 1.1. Arbeitsmodus: schnell und belastbar",
     "",
@@ -35,34 +35,219 @@ SCHNELLSTART_TEMPO_BLOCK = [
     "Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder ein Ordner vorhanden sind, lies zuerst die Unterlagen und liefere sofort ein Lagebild mit Fundstellenlinie, Frist, Risiko und nächstem Schritt. Frage höchstens zwei Punkte nach, und nur wenn der nächste Schritt sonst falsch würde. Tabellen nur für Fristen, Belege, Beträge, Tatbestandsmerkmale oder Varianten.",
     "",
 ]
-WERKSTATT_ERGONOMY_TEXT = """### 1.2. Ausgabeformate für schnelle Lieferung
+EILSACHE_LABEL = {
+    "arbeits": "Kündigung, Befristungsende oder Massenentlassung",
+    "hr": "Personalmaßnahme mit laufender Anhörungsfrist",
+    "zeugnis": "Zeugnisberichtigung vor Bewerbungsschluss",
+    "miet": "Räumung, Kündigung oder Mieterhöhungsfrist",
+    "famil": "Gewaltschutz, Umgang oder einstweilige Anordnung",
+    "straf": "Haft, Durchsuchung oder Beschlagnahme",
+    "insolvenz": "Antragspflicht, Anfechtungsfrist oder Massesicherung",
+    "verwaltung": "Widerspruchsfrist, sofortige Vollziehung oder Eilantrag",
+    "sozial": "Bescheidzugang, Widerspruchs- oder Eilantragsfrist",
+    "zivilprozess": "Klagefrist, Einspruch oder Berufungsbegründung",
+    "gesellschaft": "Beschlussanfechtung, Ladung oder Handelsregisterfrist",
+    "steuer": "Einspruchsfrist, Vollziehungsaussetzung oder Prüfungsanordnung",
+    "bau": "Abnahme, Behinderungsanzeige oder Mängelrüge",
+    "vergabe": "Rüge, Angebotsfrist oder Nachprüfungsantrag",
+    "datenschutz": "Meldefrist nach Datenpanne oder Auskunftsfrist",
+    "medizin": "Behandlungsfehler mit drohender Verjährung",
+    "ip": "Abmahnfrist, Verfügungsverfahren oder Prioritätsfrist",
+    "bgb": "Verjährung, Rücktritts- oder Anfechtungsfrist",
+    "erbrecht": "Ausschlagung, Pflichtteil oder Erbscheinsfrist",
+}
 
-| Bedarf | Sofortausgabe | Qualitätsgriff |
-| --- | --- | --- |
-| Frist oder Eilsache | Fristenblatt mit nächstem Handlungstag | Fristbeginn, Fristende, Zuständigkeit und Zustellungsweg trennen |
-| Schriftsatz oder Antrag | Antragssatz plus drei tragende Begründungsabsätze | Jede Tatsache bekommt Beleg oder Lückenmarke |
-| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |
-| Interner Vermerk | Kurzlage, Rechtsanker, Entscheidungsvorschlag | offene Tatsachen nicht als Rechtsunsicherheit tarnen |
-| Vertrag oder Klausel | Entwurfsfassung mit Kommentarrand | sichere Fassung, ausgewogene Fassung und Risikofassung unterscheiden |
-| Gericht oder Behörde | Verfügung, Beschluss- oder Bescheidentwurf | Tenor, Gründe, Nebenentscheidungen und Zustellung mitdenken |
 
-### 1.3. Rückfragenbremse
+DOMAIN_DOCUMENTS = {
+    "arbeits": "Arbeitsvertrag, Abmahnung, Anhörungsprotokoll, Kündigungsschreiben und Zugangsnachweis",
+    "hr": "Personalakte, Zielvereinbarung, Anhörung und Betriebsvereinbarung",
+    "zeugnis": "Zeugnisentwurf, Beurteilungsbogen und Tätigkeitsbeschreibung",
+    "miet": "Mietvertrag, Betriebskostenabrechnung, Mängelanzeige und Kündigungsschreiben",
+    "famil": "Einkommensbelege, Jugendamtsvermerk, Umgangsprotokoll und Vermögensverzeichnis",
+    "straf": "Ermittlungsakte, Vernehmungsprotokoll, Durchsuchungsbeschluss und Auswertebericht",
+    "insolvenz": "Gutachten, Kontoauszüge, Buchhaltung, Forderungsanmeldung und Zahlungsverzeichnis",
+    "verwaltung": "Bescheid, Zustellungsnachweis, Behördenakte und Anhörungsvermerk",
+    "sozial": "Bescheid, Widerspruchsbescheid, ärztliche Befunde und Versicherungsverlauf",
+    "zivilprozess": "Klageschrift, Anlagenkonvolut, Protokoll und Zustellungsurkunde",
+    "gesellschaft": "Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug",
+    "steuer": "Steuerbescheid, Prüfungsbericht, Buchführung und Einspruchsschreiben",
+    "bau": "Bauvertrag, Leistungsverzeichnis, Bautagebuch, Abnahmeprotokoll und Nachtragsangebot",
+    "vergabe": "Vergabeunterlagen, Angebot, Vergabevermerk und Rügeschreiben",
+    "datenschutz": "Verarbeitungsverzeichnis, Auftragsverarbeitungsvertrag, Löschkonzept und Meldeformular",
+    "medizin": "Behandlungsdokumentation, Aufklärungsbogen, Befunde und Sachverständigengutachten",
+    "ip": "Schutzrechtsregister, Lizenzvertrag, Abmahnung und Benutzungsnachweis",
+    "bgb": "Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll",
+    "erbrecht": "Testament, Erbvertrag, Nachlassverzeichnis, Grundbuchauszug und Kontoauswertung",
+}
 
-1. Wenn Dokumente oder ein Ordner vorliegen, zuerst lesen und verwerten; nicht nacherzählen lassen und nicht um Uploads bitten, die schon vorhanden sind.
-2. Wenn der Nutzer nur den Skill startet, mit dem vorhandenen Kontext beginnen: Aktenkern, Frist, Rechtsanker, erstes Arbeitsprodukt.
-3. Wenn Informationen fehlen, nur die Punkte fragen, die das nächste Arbeitsprodukt ändern.
-4. Wenn mehrere Wege möglich sind, die zwei stärksten Varianten mit Entscheidungskriterium zeigen.
-5. Wenn eine Frist, Zuständigkeit oder Form unklar ist, zuerst diesen Engpass sichern.
-6. Wenn der Nutzer nur ein Ergebnis braucht, keine Lehrbuchprüfung ausgeben; die Begründung bleibt knapp und belastbar.
+DOMAIN_ATTACK = {
+    "arbeits": "Fristversäumnis, fehlerhafter Anhörung oder unzureichender Sozialauswahl",
+    "hr": "unwirksamer Beteiligung des Betriebsrats oder fehlender Dokumentation",
+    "zeugnis": "der Tatsachengrundlage der Bewertung und der Üblichkeit der Formulierung",
+    "miet": "Formfehlern der Kündigung, Abrechnungsfristen und fehlender Mangelanzeige",
+    "famil": "der Einkommensermittlung, der Bedarfsberechnung und dem Kindeswohlmaßstab",
+    "straf": "Beweisverwertungsverboten, Aussagekonstanz und alternativen Geschehensabläufen",
+    "insolvenz": "dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme",
+    "verwaltung": "Zuständigkeit, Anhörung, Ermessensausübung und Verhältnismäßigkeit",
+    "sozial": "der medizinischen Bewertung, dem Zugangszeitpunkt und der Mitwirkungsobliegenheit",
+    "zivilprozess": "Substantiierung, Beweisantritt und Präklusion",
+    "gesellschaft": "Ladungs- und Beschlussmängeln sowie der Vertretungsmacht",
+    "steuer": "Schätzungsbefugnis, Mitwirkungspflicht und Festsetzungsverjährung",
+    "bau": "Abnahmewirkung, Mängelrüge und Bauzeitverzug",
+    "vergabe": "Rügepräklusion, Wertungsfehlern und Transparenzverstößen",
+    "datenschutz": "Rechtsgrundlage, Erforderlichkeit und Meldefristen",
+    "medizin": "Kausalität, Aufklärungsumfang und Befunderhebungspflicht",
+    "ip": "Schutzfähigkeit, Verwechslungsgefahr und rechtserhaltender Benutzung",
+    "bgb": "Zugang, Verjährung und der Auslegung der Vereinbarung",
+    "erbrecht": "der Auslegung der Verfügung, der Bindungswirkung und der Bewertung",
+}
 
-### 1.4. Mini-Gerüste
+DOMAIN_DEADLINE_QUESTION = {
+    "arbeits": "die Dreiwochenfrist ab Zugang der Kündigung benannt?",
+    "miet": "die Widerspruchs- oder Abrechnungsfrist benannt?",
+    "straf": "die Frist für Einspruch, Revision oder Haftprüfung benannt?",
+    "insolvenz": "die Antrags-, Anfechtungs- oder Anmeldefrist benannt?",
+    "verwaltung": "die Monatsfrist ab Bekanntgabe des Bescheids benannt?",
+    "sozial": "die Widerspruchs- oder Klagefrist ab Bescheidzugang benannt?",
+    "zivilprozess": "die Einlassungs-, Berufungs- oder Begründungsfrist benannt?",
+    "steuer": "die Einspruchsfrist und die Festsetzungsverjährung benannt?",
+    "vergabe": "die Rüge- und Nachprüfungsfrist benannt?",
+    "datenschutz": "die Zweiundsiebzig-Stunden-Meldefrist benannt?",
+    "ip": "die Widerspruchs-, Prioritäts- oder Dringlichkeitsfrist benannt?",
+    "erbrecht": "die Ausschlagungs-, Pflichtteils- oder Verjährungsfrist benannt?",
+    "famil": "die Frist für Beschwerde oder einstweilige Anordnung benannt?",
+}
 
-- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil [Norm] an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke]. Nächster Schritt: [Handlung].
-- Schriftsatzkern: Der Antrag ist begründet, weil [Tatsache] durch [Beweismittel] belegt ist und [Norm] daraus [Rechtsfolge] ableitet.
-- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg/Norm/Beweislast]. Prozessrisiko: [niedrig/mittel/hoch].
-- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg kann [Tatbestandsmerkmal] nicht tragfähig beurteilt werden.
-- Entscheidungsvorschlag: Option A ist schneller, Option B ist belastbarer. Ich empfehle [Option], weil [entscheidender Grund].
-"""
+
+def domain_documents(profile: ThemenProfil) -> str:
+    """Nennt die Dokumenttypen, die in diesem Gebiet tatsaechlich anfallen."""
+    if profile.key in DOMAIN_DOCUMENTS:
+        return DOMAIN_DOCUMENTS[profile.key]
+    if profile.skelette:
+        return clean(profile.skelette[0], 130).rstrip(".")
+    return "die vorgelegten Urkunden, Bescheide und Korrespondenz"
+
+
+def domain_attack(profile: ThemenProfil) -> str:
+    """Benennt den typischen Angriffspunkt der Gegenseite im Gebiet."""
+    if profile.key in DOMAIN_ATTACK:
+        return DOMAIN_ATTACK[profile.key]
+    if len(profile.pruefraster) > 1:
+        return clean(profile.pruefraster[1], 140).rstrip(".").lower()
+    return "Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg"
+
+
+def domain_deadline_question(profile: ThemenProfil) -> str:
+    """Formuliert die Fristfrage des Gebiets statt einer Universalfrage."""
+    if profile.key in DOMAIN_DEADLINE_QUESTION:
+        return DOMAIN_DEADLINE_QUESTION[profile.key]
+    return "die maßgebliche Frist mit Beginn, Lauf und Ende benannt?"
+
+
+def schnellstart_direktstart(profile: ThemenProfil) -> list[str]:
+    """Erzeugt den Einstieg aus dem Pruefraster des Gebiets.
+
+    Frueher standen hier vier fuer alle Plugins wortgleiche Saetze. Jetzt fuehrt
+    der Einstieg genau die Schritte auf, die in diesem Rechtsgebiet zuerst
+    getan werden: die erste Leitfrage, der gebietstypische Engpass, die
+    Beweislage und das erste Arbeitsprodukt.
+    """
+    steps: list[str] = []
+    raster = [clean(item, 190).rstrip(".") for item in profile.pruefraster[:3]]
+    for item in raster:
+        steps.append(item)
+    if profile.stop:
+        engpass = clean(profile.stop[0], 165).rstrip(".")
+        steps.append(f"Engpass dieses Gebiets zuerst sichern: {engpass}")
+    if len(steps) < 4 and profile.stationen:
+        steps.append(clean(profile.stationen[0], 190).rstrip("."))
+    steps.append(
+        f"Beweislage ordnen: {clean(evidence_marker(profile), 190)}"
+    )
+    produkt = (
+        clean(profile.skelette[0], 200).rstrip(".")
+        if profile.skelette
+        else clean(profile.stationen[-1], 200).rstrip(".")
+        if profile.stationen
+        else "Kurzvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt"
+    )
+    # Stationstexte beginnen haeufig selbst mit "Arbeitsprodukt:"; das Praefix
+    # wuerde sich sonst doppeln.
+    produkt = re.sub(r"^Arbeitsprodukt:\s*", "", produkt).strip()
+    steps.append(f"Erstes Arbeitsprodukt liefern: {produkt}")
+    return [f"{idx}. {step}." for idx, step in enumerate(steps[:6], 1)]
+
+
+def eilsache_label(profile: ThemenProfil) -> str:
+    """Benennt die typische Eilsache des Gebiets statt einer Universalfloskel."""
+    if profile.key in EILSACHE_LABEL:
+        return EILSACHE_LABEL[profile.key]
+    for item in profile.stop:
+        match = re.search(r"^([^,.;]{12,70})", clean(item))
+        if match:
+            return match.group(1).strip().rstrip(".")
+    return f"Eilsache im {profile.label}"
+
+
+def werkstatt_ergonomy_text(profile: ThemenProfil) -> str:
+    """Baut Ausgabeformate, Rueckfragenbremse und Mini-Gerueste fachgebietsspezifisch.
+
+    Die Bloecke waren frueher fuer alle Plugins wortgleich. Sie werden jetzt aus
+    den Profildaten (Stop-Kriterien, Stationen, Pruefraster, Skelette, Beweis-
+    und Rechtsfolgemerker) abgeleitet, damit jedes Rechtsgebiet seinen eigenen
+    Arbeitsablauf sieht statt einer Universalformel.
+    """
+    engpass = clean(profile.stop[0], 150).rstrip(".") if profile.stop else "Frist, Form oder Zuständigkeit ungeklärt"
+    eilname = eilsache_label(profile)
+    produkt = clean(profile.skelette[0], 190).rstrip(".") if profile.skelette else clean(
+        profile.stationen[-1], 190
+    ).rstrip(".") if profile.stationen else "Antragssatz plus tragende Begründung"
+    einstieg = clean(profile.pruefraster[0], 150).rstrip(".") if profile.pruefraster else "Tatbestand und Rechtsfolge trennen"
+    beweis = clean(evidence_marker(profile), 165)
+    folge = clean(consequence_marker(profile), 165)
+    norm = anchor_head(profile.normen[0], 90) if profile.normen else "der tragende Normanker"
+    station_rows = [clean(item, 175).rstrip(".") for item in profile.stationen[1:3]]
+
+    rows = [
+        f"| Eilfall: {eilname} | Fristenblatt mit nächstem Handlungstag | {engpass} zuerst klären |",
+        f"| Tragendes Arbeitsprodukt | {produkt} | jede Tatsache bekommt Beleg oder Lückenmarke |",
+        f"| Prüfeinstieg | Kurzvermerk entlang der Leitfrage | {einstieg} |",
+        f"| Beweisführung | Beweismittelspiegel je Tatbestandsmerkmal | {beweis} |",
+        f"| Rechtsfolgenseite | Tenor-, Antrags- oder Bescheidfassung | {folge} |",
+    ]
+    for idx, station in enumerate(station_rows, 1):
+        rows.append(f"| Zwischenstation {idx} | Arbeitsstand mit Belegstelle | {station} |")
+    rows.append(
+        "| Mandantenantwort | verständlicher Ergebnisbrief mit Optionen | Empfehlung, Risiko und Kostenfolge getrennt ausweisen |"
+    )
+
+    bremse = [
+        f"1. Liegen Unterlagen vor, zuerst {einstieg.lower()} und dann erst fragen.",
+        f"2. Der Engpass dieses Gebiets hat Vorrang: {engpass}.",
+        f"3. Beweislage vor Rechtsmeinung ordnen: {beweis}.",
+        "4. Bei mehreren Wegen die zwei stärksten Varianten mit Entscheidungskriterium zeigen.",
+        "5. Nur die Punkte nachfragen, die das nächste Arbeitsprodukt ändern.",
+    ]
+
+    geruest = [
+        f"- Sofortvermerk: Nach derzeitigem Stand spricht mehr für [Ergebnis], weil {norm} an [Tatbestandsmerkmal] anknüpft und [Beleg] diesen Punkt trägt. Offen bleibt [Lücke].",
+        f"- Kernsatz des Arbeitsprodukts: {produkt}.",
+        f"- Beweissatz: [Tatsache] ist durch [Beweismittel] belegt; im Übrigen gilt: {beweis}.",
+        f"- Rechtsfolgensatz: Daraus folgt {folge}.",
+        f"- Gegenposition: Die Gegenseite wird einwenden, dass [Argument]. Dagegen spricht [Beleg oder Norm]. Risiko: [niedrig/mittel/hoch].",
+        f"- Nachforderung: Bitte reichen Sie [Dokument] bis [Datum] ein; ohne diesen Beleg bleibt {einstieg.lower()} offen.",
+    ]
+
+    return (
+        "### 1.2. Ausgabeformate für schnelle Lieferung\n\n"
+        "| Bedarf | Sofortausgabe | Qualitätsgriff |\n| --- | --- | --- |\n"
+        + "\n".join(rows)
+        + "\n\n### 1.3. Rückfragenbremse\n\n"
+        + "\n".join(bremse)
+        + "\n\n### 1.4. Mini-Gerüste\n\n"
+        + "\n".join(geruest)
+        + "\n"
+    )
 WERKSTATT_FINAL_CHECK_LINES = """- Erstes Ergebnis steht oben, nicht am Ende versteckt.
 - Jede offene Tatsache ist als Nachforderung formuliert.
 - Jede Rechtsfrage hat mindestens einen Normanker.
@@ -1962,7 +2147,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
         "",
         f"Du arbeitest als {profile.rolle} Der Auftrag lautet: vorhandene Unterlagen zuerst auszuwerten und daraus einen belastbaren, fachlich sortierten Arbeitsstand mit verwertbarem Ergebnis zu erstellen. Gegenstand dieses Prompts ist: {intro}",
         "",
-        "Die Rolle ist keine bloße Zusammenfassung. Sie ordnet Tatsachen, trennt beweisbare Punkte von Behauptungen, prueft die einschlaegigen Normen, formuliert den naechsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
+        f"Die Rolle ist keine bloße Zusammenfassung. Sie ordnet die vorgelegten Unterlagen — im {profile.label} vor allem {domain_documents(profile)} —, trennt beweisbare Punkte von Behauptungen, prüft die einschlägigen Normen, benennt den nächsten Arbeitsschritt und erzeugt ein direkt verwendbares Produkt.",
         "",
     ] + WERKSTATT_TEMPO_BLOCK + [
         "## 2. Stop-Kriterien",
@@ -2065,10 +2250,10 @@ def build_werkstatt(plugin_dir: Path) -> str:
         f"10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: {consequence_marker(profile)}.",
         f"10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind {join_anchors(norm_pool[:2], 180)}.",
         f"10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig {fields[0][0] if fields else profile.pruefraster[0]}.",
-        "10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle. Eine streitige Behauptung bleibt als solche bezeichnet.",
+        f"10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im {profile.label} tragen regelmäßig {domain_documents(profile)} den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.",
         f"10.5. Beweislast: {evidence_marker(profile)}. Zeige ausdrücklich, welche Folge ein offener Beweis hat.",
-        "10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff auf Norm, Tatbestand, Beleg, Kausalität, Höhe oder Verfahrensweg.",
-        "10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge; ein bloßes Bestreiten genügt nicht.",
+        f"10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei {domain_attack(profile)} an.",
+        f"10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf {clean(consequence_marker(profile), 150)}; ein bloßes Bestreiten genügt nicht.",
         f"10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise {output_hint(profile, fields)}.",
         f"10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind {join_anchors(case_pool[:2], 180) if case_pool else 'erst nach verifizierter Recherche einzusetzen'}.",
         "",
@@ -2079,18 +2264,18 @@ def build_werkstatt(plugin_dir: Path) -> str:
         f"| schnell entscheiden | Kurzvermerk | Fallkern, {join_anchors(norm_pool[:2], 120)}, Risiko, nächster Schritt |",
         f"| vertieft prüfen | Tatbestandsmatrix | Norm, Merkmal, Beleg, Beweislast, Gegenargument, Rechtsfolge |",
         f"| versenden | Entwurf | Antrag oder Tenor, Begründung, Anlagen, Frist, Zustellungsweg |",
-        f"| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten-/Zeitrisiko, Empfehlung |",
-        f"| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte |",
+        f"| beraten | Mandantenbrief | Ergebnis, Optionen, Kosten- und Zeitrisiko, Empfehlung zu {clean(consequence_marker(profile), 110)} |",
+        f"| verhandeln | Vergleichs- oder Klauselvorschlag | sichere Fassung, risikobewusste Fassung, offene Punkte bei {domain_attack(profile)} |",
         "",
         "## 12. Arbeitsweise",
         "",
-        "Arbeite zuerst aktennah, dann normnah, dann produktnah. Wenn Dokumente oder ein Ordner vorliegen, werden sie ohne weitere Vorfrage gelesen, eingeordnet und mit Fundstelle verarbeitet. Wenn der Nutzer nur den Prompt startet, prüfe zuerst, ob Kontext, Dateien oder ein Arbeitsordner erkennbar sind; erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert. Tabellen sind erlaubt, wenn sie Vergleich, Berechnung oder Fristen besser zeigen.",
+        f"Arbeite zuerst aktennah, dann normnah, dann produktnah. Liegen Unterlagen vor, werden sie ohne Vorfrage gelesen und mit Fundstelle verarbeitet; im {profile.label} sind das vor allem {domain_documents(profile)}. Erst wenn wirklich keine Unterlagen vorliegen, werden höchstens vier gezielte Fragen gestellt. Jede Antwort wird in ganzen Sätzen formuliert; Tabellen nur dort, wo sie Vergleich, Berechnung oder Fristen besser zeigen.",
         "",
-        "Selbstcheck vor Ausgabe: Ist die Frist benannt? Ist die Form geklaert? Ist die richtige Rolle getroffen? Ist die Rechtsfolge aus einer Norm abgeleitet? Ist das Arbeitsprodukt tatsaechlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
+        f"Selbstcheck vor Ausgabe: Ist {domain_deadline_question(profile)} Ist die Form geklärt? Ist die Rechtsfolge aus einer Norm abgeleitet und auf {clean(consequence_marker(profile), 120)} bezogen? Ist das Arbeitsprodukt tatsächlich verwendbar? Sind offene Tatsachen von offenen Rechtsfragen getrennt?",
         "",
         "## 13. Qualitätskontrolle und Abschluss",
         "",
-        "Zum Abschluss wird das Ergebnis auf Widersprueche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollstaendige Antraege, Rechenfehler und unpassenden Ton geprueft. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurueckstellen.",
+        f"Zum Abschluss wird das Ergebnis auf Widersprüche, fehlende Belege, falsche Zuständigkeit, unklare Fristen, unvollständige Anträge, Rechenfehler und unpassenden Ton geprüft. Besonders zu kontrollieren ist in diesem Gebiet: {clean(profile.pruefraster[-1], 170).rstrip('.') if profile.pruefraster else 'die Ableitung der Rechtsfolge aus dem Tatbestand'}. Danach folgt eine knappe Anschlussliste: sofort erledigen, nachfordern, entscheiden, entwerfen, einreichen oder zurückstellen.",
         "",
         "## 14. Musterbausteine",
         "",
@@ -2120,7 +2305,7 @@ def build_werkstatt(plugin_dir: Path) -> str:
     if len(text.encode("utf-8")) < 12 * 1024 and "Ausgabeformate für schnelle Lieferung" not in text:
         text = text.replace(
             "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip(),
-            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip() + "\n\n" + WERKSTATT_ERGONOMY_TEXT.rstrip(),
+            "\n".join(WERKSTATT_TEMPO_BLOCK).rstrip() + "\n\n" + werkstatt_ergonomy_text(profile).rstrip(),
             1,
         )
     if len(text.encode("utf-8")) < 12 * 1024 and "Schlusskontrolle für Tempo" not in text:
@@ -2218,10 +2403,7 @@ def build_schnellstart(plugin_dir: Path) -> str:
     ] + SCHNELLSTART_TEMPO_BLOCK + [
         "## 2. Direktstart",
         "",
-        "1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.",
-        "2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.",
-        "3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.",
-        "4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.",
+    ] + schnellstart_direktstart(profile) + [
         "",
         "## 3. Kernroute",
         "",
@@ -2278,13 +2460,13 @@ def build_schnellstart(plugin_dir: Path) -> str:
         f"7.2. Normsatz: Den tragenden Anker {join_anchors(norm_pool[:2], 170)} auf das entscheidende Tatbestandsmerkmal beziehen.",
         f"7.3. Aktenfund: Für {fields[0][0] if fields else 'den Fallkern'} konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.",
         f"7.4. Beweislast: {evidence_marker(profile)}; die Folge eines offenen Beweises ausdrücklich aussprechen.",
-        "7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.",
-        "7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.",
+        f"7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei {domain_attack(profile)} an.",
+        f"7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf {clean(consequence_marker(profile), 130)} ziehen und das verbleibende Risiko abstufen.",
         f"7.7. Ausgang: Erzeuge als ersten Baustein {output_hint(profile, fields)}. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.",
         "",
         "## 8. Stop",
         "",
-        "Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
+        f"Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn {clean(profile.stop[0], 180).rstrip('.').lower() if profile.stop else 'Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind'}. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.",
         "",
     ]
     text = sanitize("\n".join(lines).strip() + "\n")

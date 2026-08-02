@@ -1,6 +1,6 @@
 # pruefungsrecht-hochschule
 
-**109 Skills** · Stand `v435.0.0`
+**109 Skills** · Stand `v435.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../pruefungsrecht-hochschule/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

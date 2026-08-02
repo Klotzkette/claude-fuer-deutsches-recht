@@ -36,7 +36,6 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 ## Dokumente
 
 - 00_aktenübersicht.md
-- 01_mandatsnotiz_erstgespräch.docx
 - 02_emailkette_online_auktion.eml
 - 03_chat_export_werkstattgruppe.docx
 - 04_vollmacht_werkstattbedarf.docx
@@ -58,3 +57,8 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 - 20_kandidatenlösung_walram_9punkte.docx
 - 21_korrekturmatrix_fehlerdiagnose.docx
 - 22_probanden_feedback_rückgabe.docx
+- 23_inserat_altwerk_aw_77_426.docx
+- 25_quittung_giselher_messingtypen_2026-04-16.docx
+- 27_bestellbestaetigung_wendelbert_eisenhut_2026-04-15.docx
+- eml/24_altwerk_eingangsbestaetigung_2026-04-09.eml
+- eml/26_sms_export_theudelinde_2026-04-17.txt

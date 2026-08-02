@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnisgenerator",
-  "version": "435.0.0",
+  "version": "435.1.0",
   "description": "Erstellt, prueft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknuepft Taetigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt.",
   "license": "Apache-2.0 OR MIT",
   "author": {

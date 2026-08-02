@@ -1,6 +1,6 @@
 # fachanwalt-it-recht
 
-**139 Skills** · Stand `v435.0.0`
+**139 Skills** · Stand `v435.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-it-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

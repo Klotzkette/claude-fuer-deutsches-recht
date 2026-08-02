@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welches Produkt, welche Charge, welche Version und welche Nutzung sind betroffen.
+2. Welche Sicherheitserwartung war im Zeitpunkt des Inverkehrbringens berechtigt.
+3. Welche Warnung, Anleitung, Norm oder Beobachtungslage trägt die Entscheidung.
+4. Engpass dieses Gebiets zuerst sichern: Gefahr für Leben, Gesundheit oder erhebliche Sachwerte ist nicht ausgeschlossen.
+5. Beweislage ordnen: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung.
+6. Erstes Arbeitsprodukt liefern: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behördenantwort oder Verteidigungsschreiben erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Fehler und Risiko | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pflichten und Belege | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Reaktion | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Risikoampel | Produktversion, Fehlerart, Sicherheitserwartung, Warnung, Beobachtung, Rückrufbedarf und Haftungsfolge sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -55,8 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 9 ProdSG Meldepflicht: Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß Paragraf 39 ProdSG bis 100.000 EUR Bußgeld; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten. - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH, Urteil vom 16.06.2009 - VI ZR 107/08: Ein Konstruktionsfehler liegt vor, wenn das Produkt unter dem bei Inverkehrbringen nach Wissenschaft und Technik objektiv möglichen und zumutbaren Sicherheitsstandard bleibt; eine überlegene Alternative muss praktisch serienreif sein.
-- BGH, Urteil vom 05.02.2013 - VI ZR 1/12: Die berechtigte Sicherheitserwartung schützt grundsätzlich bei vorhersehbarer üblicher Verwendung unter Beachtung der Gebrauchs- und Installationsanleitung.
 
 ## 7. Antwortform
 
@@ -64,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker ProdHaftG Paragraf 1; ProdHaftG Paragraf 3 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Produkt und Rolle konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche sicherheitserwartung war im zeitpunkt des inverkehrbringens berechtigt an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Produkt und Rolle, Fehler und Risiko, Pflichten und Belege, Reaktion: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn gefahr für leben, gesundheit oder erhebliche sachwerte ist nicht ausgeschlossen. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

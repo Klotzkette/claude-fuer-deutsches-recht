@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Satzung, Wahlordnung und gesetzliche Fassung gelten.
+2. Welches Organ ist für Maßnahme, Wahl oder Rechtsbehelf zuständig.
+3. Sind Einladung, Antragsrecht, Kandidatenvorstellung, geheime Wahl und Ergebnisfeststellung ordnungsgemäß.
+4. Engpass dieses Gebiets zuerst sichern: Satzung, Wahlordnung oder Ladungsnachweis fehlt.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Einladung, Wahlleitfaden, Beschluss, Protokoll, Schiedsantrag, Wahlvorschlag oder Rechenschaftsvermerk erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Zuständigkeit und Verfahren | Organ, Gebietsverband, Einladung, Frist, Antragsrecht, Tagesordnung, Delegation und Öffentlichkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Mitglied oder Bewerber | Status, Stimmrecht, Wählbarkeit, Chancengleichheit, Gehör, Befangenheit und Dokumentation sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Finanzierung und Rechenschaft | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Einladung, Wahlleitfaden, Beschluss, Protokoll, Schiedsantrag, Wahlvorschlag oder Rechenschaftsvermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristkalender Partei | Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach: 1. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -55,7 +56,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Art. 38 I 2 GG (freies Mandat, Indemnität, Stimmgleichheit), Art. 46-48 GG (Indemnität, Immunität, Behinderungsverbot); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 137 I GG ermöglicht Inkompatibilitätsregelungen (Beamte, Soldaten); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 108e StGB Abgeordnetenbestechung: subjektiver Tatbestand erfordert "Auftrag" (Stimme/Handeln) als Gegenleistung; bloß Wahlkampfspende reicht nicht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Urteil vom 17.01.2017 - 2 BvB 1/13: Verfassungsfeindliche Ziele allein genügen für ein Parteiverbot nicht; erforderlich sind planvolles Handeln und konkrete Anhaltspunkte von Gewicht, die einen Erfolg zumindest möglich erscheinen lassen.
 
 ## 7. Antwortform
 
@@ -63,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker GG Artikel 21; PartG Paragraf 6 bis Paragraf 16 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Regelwerk konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welches organ ist für maßnahme, wahl oder rechtsbehelf zuständig an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Regelwerk, Zuständigkeit und Verfahren, Mitglied oder Bewerber, Finanzierung und Rechenschaft: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn satzung, wahlordnung oder ladungsnachweis fehlt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

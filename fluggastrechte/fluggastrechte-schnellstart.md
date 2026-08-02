@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Gilt die VO (EG) 261/2004 für Abflug, Ankunft, Unternehmen und Buchungskette.
+2. Welche Störung liegt vor und wie groß ist die Verspätung am Endziel.
+3. Welche Distanzstufe, Kürzung und bereits erbrachte Leistung bestimmen den Betrag.
+4. Engpass dieses Gebiets zuerst sichern: Buchung, ausführendes Luftfahrtunternehmen oder tatsächliche Ankunftszeit am Endziel ist nicht belegt.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg.
 
 ## 3. Kernroute
 
@@ -43,8 +45,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Ereignis und Zeit | Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruch | Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Entlastung | behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahren | Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,7 +55,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 29 ZPO (Erfüllungsort); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte über Basiszinssatz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 195 BGB — Regelmäßige Verjährungsfrist drei Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 
@@ -63,10 +62,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker VO (EG) 261/2004 Artikel 3; VO (EG) 261/2004 Artikel 4 bis Artikel 7 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Buchung und Reichweite konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche störung liegt vor und wie groß ist die verspätung am endziel an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Flugmatrix: Segment, Flugnummer, Unternehmen, Planzeit, Istzeit, Störung, Ursache, Endzielverlust und Beleg; Entlastungstest: Ereignis, Herkunft, Beherrschbarkeit, Kausalität, zumutbare Maßnahme, Reserve und Beweisangebot. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn buchung, ausführendes luftfahrtunternehmen oder tatsächliche ankunftszeit am endziel ist nicht belegt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

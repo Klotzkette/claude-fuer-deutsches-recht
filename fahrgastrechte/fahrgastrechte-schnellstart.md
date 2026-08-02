@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Liegt eine Durchgangsfahrkarte oder ein einheitlicher Erwerbsvorgang vor.
+2. Welche Verspätung war zu erwarten und wann wurde das Endziel tatsächlich erreicht.
+3. Welches Wahlrecht wurde angeboten, gewählt oder nach Fristablauf selbst ausgeübt.
+4. Engpass dieses Gebiets zuerst sichern: Ticket, Kaufvorgang, Reiseplan oder tatsächliche Ankunftszeit am Ziel fehlt.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg.
 
 ## 3. Kernroute
 
@@ -30,10 +32,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | VO (EU) 2021/782 Artikel 12; VO (EU) 2021/782 Artikel 17 und Artikel 18; VO (EU) 2021/782 Artikel 19 |
 | Rechtsprechung | EuGH, Urteil vom 26.09.2013 - C-509/11 |
-| Tatbestand | Fahrgast, Ticket, Kaufvorgang, Beförderer, Strecke, Umstiege und Durchgangsfahrkarte belegen |
-| Beweislast | Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse |
-| Rechtsfolge | Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -43,8 +42,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Störung | Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Wahlrecht | Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geldanspruch | Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Fahrgastrechteformular, Forderung, Widerspruch, Schlichtungsantrag, Belegmatrix oder Zahlungsklage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -62,10 +59,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker VO (EU) 2021/782 Artikel 12; VO (EU) 2021/782 Artikel 17 und Artikel 18 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Reisevertrag konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welche verspätung war zu erwarten und wann wurde das endziel tatsächlich erreicht an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Reisekette: Ticket, Segment, Plan, Ist, Anschluss, Information, Alternative, Ankunft und Beleg; Anspruchsrechnung: Fahrpreis, Verspätungsstufe, Prozentsatz, Entschädigung, Betreuung, Selbstabhilfe und bereits erhaltene Leistung. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn ticket, kaufvorgang, reiseplan oder tatsächliche ankunftszeit am ziel fehlt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

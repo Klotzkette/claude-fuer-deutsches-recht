@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welche Satzungsfassung und welcher Registerstand gelten am Stichtag.
+2. Welches Organ ist zuständig und wurde ordnungsgemäß einberufen.
+3. Welche Mehrheit und welche besondere Form verlangt Gesetz oder Satzung.
+4. Engpass dieses Gebiets zuerst sichern: Satzungsfassung, Einladung oder Registerauszug fehlt.
+5. Beweislage ordnen: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse.
+6. Erstes Arbeitsprodukt liefern: Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen.
 
 ## 3. Kernroute
 
@@ -42,8 +44,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Mitgliedschaft | Aufnahme, Beitrag, Rechte, Pflichten, Ordnungsmaßnahme, Austritt und Ausschluss mit Satzungsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Versammlung | Einberufung, Frist, Tagesordnung, Teilnahme, Leitung, Abstimmung, Mehrheit, Protokoll und Anfechtungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorstand und Haftung | Bestellung, Amtszeit, Ressort, Vertretung, Interessenkonflikt, Entlastung und Vermögensschaden trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung Vorstand | Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -62,10 +63,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 21 bis Paragraf 35; BGB Paragraf 31, Paragraf 31a und Paragraf 31b auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Vereinsstatus konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Anspruchsteller für anspruchsbegründende Tatsachen; Gegner für Einwendungen, Fristablauf, Erfüllung und Ausschlüsse; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei welches organ ist zuständig und wurde ordnungsgemäß einberufen an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Vereinsstatus, Mitgliedschaft, Versammlung, Vorstand und Haftung: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn satzungsfassung, einladung oder registerauszug fehlt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

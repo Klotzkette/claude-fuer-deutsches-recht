@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welcher Personalvorgang muss bis wann von wem entschieden oder dokumentiert werden.
+2. Welche Vertragsklausel, gesetzliche Pflicht oder Beteiligungsvorgabe steuert den Vorgang.
+3. Welche Personalakten-, Zeit-, Vergütungs- oder Kommunikationsbelege tragen die Entscheidung.
+4. Engpass dieses Gebiets zuerst sichern: Klage-, Ausschluss-, Anhörungs- oder Erklärungsfrist läuft und der Zugang ist nicht belegt.
+5. Beweislage ordnen: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung.
+6. Erstes Arbeitsprodukt liefern: HR-Vorgangsblatt: Person, Anlass, Ziel, Rechtsanker, Frist, Beteiligung, Beleg, Entscheidung, Textprodukt und Verantwortlicher.
 
 ## 3. Kernroute
 
@@ -29,10 +31,7 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | --- | --- |
 | Normenanker | BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16; BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3 |
 | Rechtsprechung | BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21; BAG, Urteil vom 27.07.2017 - 2 AZR 681/16 |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
-| Beweislast | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung |
-| Rechtsfolge | Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck |
-| Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
+
 
 ## 5. Einsatzfelder
 
@@ -42,7 +41,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 | Vertrags- und Statuscheck | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Laufender Betrieb | Zeitraum, Anspruch, Berechnung, Nachweis, Ausschlussfrist, Beteiligungsrecht und Buchungs- oder Antworttext verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beschwerde und Konflikt | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
 
 ## 6. Anker
 
@@ -60,10 +58,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Vorgang und Verantwortlicher konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei unwirksamer Beteiligung des Betriebsrats oder fehlender Dokumentation an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung. ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein HR-Vorgangsblatt: Person, Anlass, Ziel, Rechtsanker, Frist, Beteiligung, Beleg, Entscheidung, Textprodukt und Verantwortlicher; Personalvermerk: Ausgangslage, gesicherte Tatsachen, Anhörung, Maßstab, Optionen, Risiko, Empfehlung und Freigabe. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn klage-, ausschluss-, anhörungs- oder erklärungsfrist läuft und der zugang ist nicht belegt. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstat

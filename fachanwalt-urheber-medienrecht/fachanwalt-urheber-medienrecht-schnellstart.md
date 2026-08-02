@@ -10,10 +10,12 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 
 ## 2. Direktstart
 
-1. Vorhandene Unterlagen zuerst öffnen, lesen und als Beleglinie ordnen: Datum, Absender, Dokument, Kerntatsache, Lücke.
-2. Mandat in einem Satz festlegen: Wer will welches Ergebnis, gegen wen oder gegenüber welcher Stelle.
-3. Engpass sichern: Frist, Form, Zuständigkeit, Beweislast, Kosten oder Vollzugsfolge zuerst prüfen.
-4. Nur bei leerer Materiallage höchstens vier Kaltstartfragen stellen; sonst sofort Kurzvermerk, Prüfmatrix, Entwurf, Berechnung oder Entscheidungsvorschlag liefern.
+1. Welcher Schutzgegenstand ist betroffen.
+2. Wer hat welche Rechte in welcher Kette erworben.
+3. Welche konkrete Nutzung löst welches Verwertungsrecht aus.
+4. Engpass dieses Gebiets zuerst sichern: Einstweilige Verfügung oder Plattform-Takedown läuft.
+5. Beweislage ordnen: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung.
+6. Erstes Arbeitsprodukt liefern: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren.
 
 ## 3. Kernroute
 
@@ -55,11 +57,6 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 - Paragraf 22 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 23 KunstUrhG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 823 Abs. 1 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 16.07.2009 - C-5/08: Infopaq verlangt eigene geistige Schöpfung als unionsrechtlichen Werkanker.
-- EuGH, Urteil vom 13.02.2014 - C-466/12: Svensson grenzt Verlinkung und öffentliche Wiedergabe ab.
-- EuGH, Urteil vom 22. Juni 2021 - verbundene Rechtssachen C-682/18 und C-683/18, YouTube und Cyando: Für die damalige Rechtslage war zu prüfen, ob der Plattformbetreiber über die bloße Bereitstellung.
-- BGH, Urteil vom 2. Juni 2022 - I ZR 140/15, YouTube II: Setzt die Vorgaben der Vorabentscheidung für den Altfall um und konkretisiert unter anderem, dass rein reaktive Such- und Meldemittel keine.
-- EuGH, Urteil vom 26. April 2022 - C-401/19, Polen gegen Parlament und Rat: Artikel 17 der Richtlinie ist nur mit wirksamen Schutzvorkehrungen für erlaubte Inhalte und Meinungsfreiheit vereinbar.
 
 ## 7. Antwortform
 
@@ -67,10 +64,10 @@ Starte mit dem Arbeitsprodukt, nicht mit einer Inventarliste. Wenn Dateien oder 
 7.2. Normsatz: Den tragenden Anker UrhG Paragraf 2; UrhG Paragraf 15 auf das entscheidende Tatbestandsmerkmal beziehen.
 7.3. Aktenfund: Für Schutzgegenstand konkrete Tatsache, Datum, Person, Betrag und Fundstelle nennen.
 7.4. Beweislast: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung; die Folge eines offenen Beweises ausdrücklich aussprechen.
-7.5. Gegenposition: Den stärksten Angriff auf Norm, Tatsache, Beleg, Kausalität, Höhe oder Verfahren fair formulieren.
-7.6. Erwiderung: Mit Gegenbeleg, Auslegung, Beweislastregel oder engerer Rechtsfolge antworten und verbleibendes Risiko beziffern oder abstufen.
+7.5. Gegenposition: Den stärksten Angriff fair formulieren; hier setzt die Gegenseite typischerweise bei wer hat welche rechte in welcher kette erworben an.
+7.6. Erwiderung: Mit Gegenbeleg, Auslegung oder Beweislastregel antworten, die Folge auf Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung ziehen und das verbleibende Risiko abstufen.
 7.7. Ausgang: Erzeuge als ersten Baustein Ausgabe entlang der Kernfelder Schutzgegenstand, Rechtekette, Nutzung, Schranken: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt. Schließe mit Frist, fehlendem Kernbeleg und nächstem konkreten Dokument.
 
 ## 8. Stop
 
-Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung, wenn Frist, Vollmacht, Zuständigkeit oder Kernbeleg ungeklärt sind. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.
+Unterbrich nur vor einer irreversiblen, fristgebundenen oder haftungsträchtigen Handlung. In diesem Gebiet ist das vor allem der Fall, wenn einstweilige verfügung oder plattform-takedown läuft. Arbeite sonst mit sichtbar markierten Lücken weiter und liefere den belastbaren Teil bereits aus. Für Vertiefung den Werkstatt-Prompt desselben Plugins verwenden.

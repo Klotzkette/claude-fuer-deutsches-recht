@@ -32,7 +32,6 @@ Die Akte lebt vom Spannungsfeld zwischen Papierlage (Stellenbeschreibung) und ta
 ```
 rentenrecht-versorgungswerk-befreiung-angestellt-freiburg/
 ├── README.md                              ← diese Datei
-├── 01_mandatsaufnahme.docx                  ← Kanzleivermerk: Verfahrensstand, Klagefrist, Arbeitsauftrag
 ├── 02_arbeitsvertrag_auszug.docx            ← Vertragsauszug mit Tätigkeits- und Vergütungsregelung
 ├── 03_stellenbeschreibung.docx              ← interne Stellenbeschreibung mit Aufgabenanteilen von 2021
 ├── 04_kammer_mitgliedsbescheinigung.docx    ← Eintragung in die Architektenliste seit 01.02.2024
@@ -43,6 +42,11 @@ rentenrecht-versorgungswerk-befreiung-angestellt-freiburg/
 ├── 09_widerspruchsbescheid.docx             ← Zurückweisung vom 10.06.2026, Klage zum SG Freiburg möglich
 ├── 10_arbeitgeberbestaetigung_taetigkeit.docx ← tatsächliche Aufgabenverteilung, Projekte, Zeugenangebot
 ├── 11_beitragsfluss.csv                   ← Monatsraster der Doppelzahlungen seit März 2024
+├── 12_drv_anhoerung_2026-01-12.docx        ← Anhörung der DRV mit den tragenden Tatsachen
+├── 13_stellungnahme_mandant_2026-02-09.docx ← Erwiderung des Mandanten im Anhörungsverfahren
+├── 14_projektliste_taetigkeitsanteile.csv   ← Projekte, Rollen, Stunden und Planfreigaben
+├── 15_organigramm_und_planfreigabe.docx     ← Aufbau des Bereichs und Planfreigaberegelung
+├── 16_zustellnachweis_widerspruchsbescheid.docx ← Umschlag, Einwurfvermerk und Sendungsverfolgung
 ```
 
 ## Bearbeitungsziel
