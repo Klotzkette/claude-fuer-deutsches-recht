@@ -51,6 +51,7 @@ strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig/
 ├── 09_durchsuchungsprotokoll_2026-03-19.docx            Sicherstellungen: Bargeld, Haftnotiz, Kalender, Mobiltelefon, Vorgänge
 ├── 10_beschuldigtenvernehmung_kabusch_2026-04-08.docx   Einlassung: Flohmarkt-Erlöse, keine Zahlungsannahme
 ├── 11_zeugenvernehmung_petrasch_2026-04-21.docx         Vernehmung des BtM-Beschuldigten mit § 55-Verweigerung in Kernfragen
+├── 12_vermerk_flohmarkt_standlisten_2026-05-11.md       Vermerk zu Markttagen und Standanmeldungen im Abgleich mit den Bareinzahlungen
 ├── 13_anklageschrift_2026-05-27.docx                    Anklage wegen Bestechlichkeit in sieben Fällen mit Einziehungsantrag
 ├── 14_verteidigerschriftsatz_verwertungsverbot_2026-06-16.docx Einwendungen: hypothetischer Ersatzeingriff, Einzelfallschwere, Fernwirkung
 ├── 15_stellungnahme_sta_verwertbarkeit_2026-06-30.docx  Erwiderung der StA zu Katalogtat, § 100e Abs. 6 StPO und Fernwirkung
@@ -58,7 +59,8 @@ strafrecht-tkue-zufallsfund-verwertung-korruption-leipzig/
 ├── eml/
 │   ├── 01_kpi_an_sta_zufallsfund_2026-01-21.eml         Übersendung des Zufallsfund-Vermerks an die StA mit Verwendungsanregung
 │   ├── 02_stadt_leipzig_an_sta_kalenderexport_2026-03-24.eml Übersendung von Kalenderexport, Vorgangsliste und interner Beanstandung
-│   └── 03_hentschke_an_sta_akteneinsicht_2026-04-14.eml Akteneinsicht in die TKÜ-Sonderakte und Ankündigung des Verwertungswiderspruchs
+│   ├── 03_hentschke_an_sta_akteneinsicht_2026-04-14.eml Akteneinsicht in die TKÜ-Sonderakte und Ankündigung des Verwertungswiderspruchs
+│   └── 04_markttreff_an_kpi_standlisten_2026-05-08.eml  Auskunft der Flohmarktveranstalterin zu Markttagen und Standanmeldungen
 ├── whatsapp/
 │   └── chatverlauf.txt                                  Chat Kabusch/Ehefrau: "schon wieder 500 vom Kumpel?" und Flohmarkt-Einträge
 ├── README.md                                            Diese Übersicht
