@@ -129,6 +129,7 @@ Arbeitsakte zum Plugin `email-umformulierer-berufsrecht`.
 | [`emails/2026-02-14_kroell_an_quistorf_umformulierung_v3.eml`](emails/2026-02-14_kroell_an_quistorf_umformulierung_v3.eml) | Plugin-Umformulierung v3 (BORA-konform) — hätte anstelle des Originals versandt werden sollen |
 | [`emails/2026-02-22_tannenkamp_an_notar_scharf.eml`](emails/2026-02-22_tannenkamp_an_notar_scharf.eml) | Scharfer Brief RAin Tannenkamp an Notar-Vertreter Dr. Rüdell — grenzwertige Sachlichkeit |
 | [`emails/2026-03-08_doxxing_panne_cc_alle_erben.eml`](emails/2026-03-08_doxxing_panne_cc_alle_erben.eml) | Datenpanne: falscher Anhang mit privater Adresse RAin Tannenkamp an alle 10 Erben |
+| [`emails/2026-03-11_trenkler_an_kroell_datenpanne_beschwerde.eml`](emails/2026-03-11_trenkler_an_kroell_datenpanne_beschwerde.eml) | Miterbe Trenkler rügt Datenpanne und Nacht-Mail, setzt Frist und kündigt Kammerbeschwerde an |
 | [`emails/2026-03-22_rak_frankfurt_an_kanzlei_anhoerung.eml`](emails/2026-03-22_rak_frankfurt_an_kanzlei_anhoerung.eml) | Anhörungsschreiben RAK Frankfurt (Az. RAK-F 188/26), 30-Tage-Frist zur Stellungnahme |
 
 ### PDFs
