@@ -1,0 +1,11 @@
+Vertragsnr,Vertragsart,Schuldner,Ursprungsbetrag_EUR,Offener_Saldo_EUR,Rückstand_seit,Sicherheit,Mahnstand,Abtretungsinformation_erteilt
+KF-2019-0044,Darlehen,Metallbau Grieshaber GmbH,480000,312400,2024-11,Sicherungsübereignung Fräszentrum,3. Mahnung 14.04.2026,nein
+KF-2020-0102,Ratenzahlungsvereinbarung,Drehtechnik Sültz KG,260000,148900,2025-03,verlängerter Eigentumsvorbehalt,2. Mahnung 02.03.2026,nein
+KF-2020-0117,Darlehen,CNC-Service Bopp e.K.,190000,171200,2025-01,Sicherungsübereignung zwei Bearbeitungszentren,gekündigt 19.05.2026,ja
+KF-2021-0031,Leasingähnliche Nutzungsüberlassung,Präzisionsteile Warnke GmbH,510000,402700,2024-08,Eigentum an der Anlage bei HPT,Rechtsanwalt eingeschaltet,ja
+KF-2021-0078,Darlehen,Ostrach Maschinen Handels GmbH,340000,296500,2025-06,keine dokumentiert,1. Mahnung 11.05.2026,nein
+KF-2022-0009,Ratenzahlungsvereinbarung,Feinwerktechnik Adamczyk (Einzelunternehmer),120000,88300,2025-04,einfacher Eigentumsvorbehalt,2. Mahnung 20.04.2026,unklar
+KF-2022-0056,Darlehen,Zerspanung Hödlmayr GmbH & Co. KG,410000,377900,2024-12,Sicherungsübereignung; Anlage laut Außendienst nicht mehr am Standort,gekündigt 07.04.2026,ja
+KF-2023-0012,Ratenzahlungsvereinbarung,Blechform Krettnach UG,95000,61150,2025-09,keine dokumentiert,1. Mahnung 08.06.2026,nein
+KF-2023-0040,Darlehen,Werkzeugschleiferei Dünnwald GmbH,275000,244800,2025-05,Sicherungsübereignung Schleifzentrum,Stundungsbitte vom 28.05.2026 unbeantwortet,nein
+KF-2024-0007,Darlehen,Apparatebau Fentsch GmbH (Insolvenzantrag 03/2026),620000,589600,2025-10,Sicherungsübereignung; Aus- und Absonderung ungeklärt,Forderung beim vorläufigen Verwalter angemeldet,ja
