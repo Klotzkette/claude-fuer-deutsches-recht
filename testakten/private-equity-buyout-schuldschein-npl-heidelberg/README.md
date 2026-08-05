@@ -45,3 +45,5 @@ Passt zu `private-equity-praxis`, `grosskanzlei-corporate-ma`, `corporate-kanzle
 | `16-portfolio-tape-analyse.docx` | NPL Portfolio Tape Analyse |
 | `17-red-flag-report.docx` | Red-Flag-Report |
 | `18-board-paper.docx` | Board Paper |
+| `19-eml-zahlstelle-schuldschein-register.eml` | Zahlstellenauskunft: Tranchen, Registerstand, Übertragungs- und Kontrollwechselklauseln |
+| `20-npl-portfolio-tape-auszug.csv` | Auszug aus dem Portfolio Tape der Kundenfinanzierungen mit Vertragsart, Sicherheit und Mahnstand |
