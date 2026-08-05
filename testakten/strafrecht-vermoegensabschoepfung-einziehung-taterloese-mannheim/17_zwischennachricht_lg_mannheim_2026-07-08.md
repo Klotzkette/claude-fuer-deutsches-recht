@@ -1,9 +1,0 @@
-# Zwischennachricht des Landgerichts Mannheim
-
-Landgericht Mannheim, Wirtschaftsstrafkammer, A 1, 68159 Mannheim. Geschäftsnummer der Kammer in der Strafsache gegen Trautwein, Aktenzeichen der Staatsanwaltschaft Mannheim 616 Js 20481/25. Mannheim, den 8. Juli 2026. Elektronisch übermittelt an Rechtsanwältin Dr. Franziska Ehrle, Mannheim, und an die Staatsanwaltschaft Mannheim.
-
-In der Strafsache gegen Holger Trautwein wegen des Verdachts des gewerbsmäßigen Betruges wird der Eingang des Antrags der Verteidigung vom 29. Juni 2026 auf Aufhebung, hilfsweise Beschränkung des Vermögensarrests vom 6. Februar 2026 (Amtsgericht Mannheim, 42 Gs 214/26) bestätigt. Der Antrag ist der Staatsanwaltschaft Mannheim mit Verfügung vom heutigen Tage zur Stellungnahme binnen zwei Wochen übersandt worden. Die Staatsanwaltschaft ist zugleich gebeten worden, sich zu der im Antrag aufgezeigten Abweichung zwischen dem in der Anklageschrift genannten Betrag von 412.680,00 Euro und dem in der Replik vom 19. Juni 2026 genannten Betrag von 416.280,00 Euro zu erklären und die maßgebliche Berechnungstabelle in elektronisch auswertbarer Form nachzureichen.
-
-Die Kammer weist darauf hin, dass über den Antrag nach Eingang der Stellungnahme ohne mündliche Verhandlung entschieden werden soll. Der Verteidigung bleibt nachgelassen, auf die Stellungnahme der Staatsanwaltschaft binnen einer Woche nach Zugang zu erwidern. Über die Eröffnung des Hauptverfahrens ist noch nicht entschieden; die Kammer beabsichtigt, hierüber zusammenhängend mit der Arrestfrage zu beraten. Die von der Einziehungsbeteiligten mit Schreiben vom 6. Juli 2026 unmittelbar bei der Kammer eingereichte Anfrage zur Freigabe von Kontoguthaben ist zuständigkeitshalber der Verteidigerin zur Kenntnis gebracht worden, da die Einziehungsbeteiligte anwaltlich vertreten ist.
-
-Auf Anordnung: Justizhauptsekretärin Brendel als Urkundsbeamtin der Geschäftsstelle.
