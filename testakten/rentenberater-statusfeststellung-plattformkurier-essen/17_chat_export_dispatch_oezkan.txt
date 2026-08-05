@@ -1,0 +1,24 @@
+Chat-Export RuhrKurier Dispatch-Kanal, Direktnachrichten mit Selim Özkan
+Export erstellt am 09.07.2026 über die App-Funktion "Verlauf senden", Zeitraum 12.05.2026 bis 20.06.2026. Reihenfolge wie im System. Teilnehmer: S. Özkan (Kurier 188), Disposition (Kranz, Mäßler).
+
+12.05.2026 07:41 Kranz: Morgen Selim, kannst du heute den 12-16 Block noch mit übernehmen? Meyerdirks ist krank und Dr. Reuter macht wieder Druck wegen der Proben
+12.05.2026 07:44 Özkan: geht klar, aber ich schaff die Steele-Stops dann nich alle bis 16 uhr
+12.05.2026 07:45 Kranz: lass die zwei letzten weg, die geb ich an Pavel. Danke dir!!
+18.05.2026 10:52 Özkan: hab ne panne, kette gerissen, steh an der rüttenscheider. 3 lieferungen noch offen
+18.05.2026 10:53 Mäßler: hast du die im system auf offen gestellt?
+18.05.2026 10:57 Özkan: ja aber app zeigt fehler an, lädt nicht hoch
+18.05.2026 11:34 Mäßler: system hat dich gesperrt, sorry, das macht der automatisch bei 3 offenen. ich krieg das erst heut abend wieder raus
+18.05.2026 11:36 Özkan: super. und der nachmittagsblock? den hatte ich schon angenommen
+18.05.2026 11:41 Mäßler: is schon automatisch weitervergeben. kann ich nix machen
+18.05.2026 19:02 Mäßler: sperre ist raus. wegen den 3 offenen meldet sich morgen Herr Groß bei dir
+04.06.2026 09:10 Özkan: ich lehn den 12er block heute ab, hab nen termin
+04.06.2026 09:14 Kranz: ok eingetragen. denk dran das drückt dein ranking, war diese woche schon die zweite
+04.06.2026 09:16 Özkan: ich weiß. termin is wichtig
+11.06.2026 16:20 Kranz: Selim, Donnerstag Laborroute Nord wie immer? Dr. Reuter hat extra nach dir gefragt
+11.06.2026 16:48 Özkan: ja mach ich. aber ab juli will ich donnerstags frei, hab ich dir ja schonmal gesagt
+11.06.2026 16:50 Kranz: schau ich mir an, versprechen kann ich nix. juli is dünn besetzt
+20.06.2026 08:15 Mäßler: an alle Kuriere: ab sofort bitte JEDE routenänderung vorher kurz hier melden, nicht einfach in der app umstellen. gab beschwerden
+20.06.2026 08:22 Özkan: auch wenns nur 2 stops getauscht sind??
+20.06.2026 08:24 Mäßler: ja, alles. anweisung von oben
+
+Ende des Exports. Ältere Nachrichten sind laut App nur 60 Tage gespeichert und im Export nicht enthalten.
