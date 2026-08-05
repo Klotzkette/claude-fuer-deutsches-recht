@@ -53,7 +53,7 @@ rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
     ├── 01_weser_kk_kvdr_ueberpruefung.eml       ← Krankenkasse: Vorversicherungszeit angeblich nicht erfüllt (172 von 252)
     ├── 02_kanzlei_an_weser_kk_kindererziehung.eml ← Kanzlei: drei Kinder mal drei Jahre erfüllen die Schwelle
     ├── 03_pflegekasse_erhebungsbogen.eml        ← Pflegekasse zur Beitragslücke 07/2023 bis 11/2023 und zur Zeugin
-    ├── 04_weser_kk_geburtsurkunden_nachforderung.eml ← Krankenkasse fordert Geburtsurkunden nach und fragt nach Beschäftigung 1988 bis 1991
+    ├── 04_weser_kk_geburtsurkunden_nachforderung.eml ← Krankenkasse fordert Geburtsurkunden nach und verlangt Nachweis der PKV-Zeit 2004 bis 2012
     └── chatverlauf_geschwister_bruns.txt        ← WhatsApp-Export der drei Kinder zur Suche der Geburtsurkunden
 ```
 

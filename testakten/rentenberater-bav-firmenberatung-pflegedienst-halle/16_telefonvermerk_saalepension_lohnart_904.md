@@ -4,7 +4,7 @@ PflegeZeit Saale GmbH · Personalabteilung · Merseburger Straße 144, 06110 Hal
 
 Halle (Saale), 14. Juli 2026
 
-Telefonat mit der SaalePension Pensionskasse AG, Firmenkundenservice, Frau Dittrich, 10:20 bis 10:55 Uhr. Gesprächsführung: Saskia Stoll, Personalabteilung. Anlass war die Vorbereitung der Betriebsratssitzung vom 20. Juli und die Abstimmung der Zuschusszahlungen mit dem Kassenbestand.
+Telefonat mit der SaalePension Pensionskasse AG, Firmenkundenservice, Frau Dittrich, 10:20 bis 10:55 Uhr. Gesprächsführung: Saskia Stoll, Personalabteilung. Anlass war die Vorbereitung der Betriebsratssitzung am 20. Juli und die Abstimmung der Zuschusszahlungen mit dem Kassenbestand.
 
 ## 1 Angaben der Pensionskasse
 
