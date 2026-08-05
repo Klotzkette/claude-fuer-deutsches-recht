@@ -50,6 +50,6 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_email_creator_nutzungsumfang.eml`](13_email_creator_nutzungsumfang.eml) | Creator-Mail zu Rohmaterial, Musik und noch fehlender Freigabe |
 | [`14_materialchargen_und_pruefbelege.csv`](14_materialchargen_und_pruefbelege.csv) | Ballen- und Prüfbelegdaten aus der Produktion |
 | [`15_zwischennachricht_modehafen_takedown.eml`](15_zwischennachricht_modehafen_takedown.eml) | Zwischenstand der Plattform zu Vorgang NTC-2026-19077 mit Rückfragen und Fristsetzung |
-| [`16_testkauf_vermerk_night_moth_coat.md`](16_testkauf_vermerk_night_moth_coat.md) | Vermerk über Testkauf des Copycat-Mantels: Bestellung, Lieferung aus Venlo, Vergleich mit Muster NF-01 |
+| [`16_testkauf_vermerk_night_moth_coat.docx`](16_testkauf_vermerk_night_moth_coat.docx) | Vermerk über Testkauf des Copycat-Mantels: Bestellung, Lieferung aus Venlo, Vergleich mit Muster NF-01 |
 
 <!-- END nachgereichte-originalunterlagen -->

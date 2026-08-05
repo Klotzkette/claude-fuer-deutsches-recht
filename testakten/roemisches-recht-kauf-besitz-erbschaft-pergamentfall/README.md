@@ -46,7 +46,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_restaurierungsprotokoll_pergament_und_tafeln.docx`](12_restaurierungsprotokoll_pergament_und_tafeln.docx) | Konservatorisches Primärprotokoll ohne rechtliche Deutung |
 | [`13_email_kurator_fundkiste_1938.eml`](13_email_kurator_fundkiste_1938.eml) | Kuratorenmail zur lückenhaften Herkunftskette |
 | [`14_objektinventar_sammlung_valeria_roh.csv`](14_objektinventar_sammlung_valeria_roh.csv) | Museumsinventar mit sichtbaren Befunden |
-| [`15_telefonvermerk_robert_valeria.md`](15_telefonvermerk_robert_valeria.md) | Telefonvermerk zum Gespräch mit dem erkrankten Vater der Erben |
+| [`15_telefonvermerk_robert_valeria.docx`](15_telefonvermerk_robert_valeria.docx) | Telefonvermerk zum Gespräch mit dem erkrankten Vater der Erben |
 | [`16_email_kanzlei_seiffert_fristsetzung.eml`](16_email_kanzlei_seiffert_fristsetzung.eml) | Anwaltliches Herausgabeverlangen mit Frist bis 31. Mai 2026 |
 | [`17_leih_und_rueckgabebuch_roh.csv`](17_leih_und_rueckgabebuch_roh.csv) | Buchauszüge 1938 bis 1972 mit Gegenzeichnungen und Nachtrag |
 

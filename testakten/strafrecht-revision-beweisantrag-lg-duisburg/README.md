@@ -75,7 +75,7 @@ strafrecht-revision-beweisantrag-lg-duisburg/
 ├── 10_hauptverhandlung_protokoll_chronologie.csv      Sitzungschronologie mit Quelle und Protokolldeckung (Datenauswertungs-Kern)
 ├── 11_revisionsbegruendung_bgh_2026-05-19.docx         Ausformulierte Revisionsbegründung mit Verfahrens-, Aufklärungs- und Sachrüge
 ├── 12_protokollauszug_und_mitschrift_2026-02-12.docx   Gegenüberstellung amtliches Protokoll und Verteidiger-Mitschrift
-├── 13_telefonvermerk_zeuge_nowak_2026-06-20.md         Telefonvermerk zum Erinnerungsstand des Zeugen, GPS-Verlauf und Urlaubszeiten
+├── 13_telefonvermerk_zeuge_nowak_2026-06-20.docx         Telefonvermerk zum Erinnerungsstand des Zeugen, GPS-Verlauf und Urlaubszeiten
 ├── eml/
 │   ├── 01_falkenberg_protokollberichtigung_2026-06-07.eml Anregung der Protokollberichtigung an den Vorsitzenden
 │   ├── 02_vorsitzender_berichtigungsvermerk_2026-06-15.eml Ablehnung der Berichtigung durch den Vorsitzenden

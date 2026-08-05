@@ -35,7 +35,7 @@ Eine frühere OP-Pflegerin beantragt Erwerbsminderungsrente. Die DRV stützt sic
 | --- | --- |
 | `eml/2026-07-09_schoening_zutrittssystem_export.eml` | Personalabteilung übersendet den Zutrittssystem-Export mit Hinweisen zu Abweichungen |
 | `zutrittssystem_zentral_op_mai_2026.csv` | Rohexport des Zutrittssystems für Mai 2026, Ausweisnummer 04471 |
-| `08_telefonvermerk_drv_servicezentrum_2026-07-13.md` | Telefonvermerk zum Widerspruchseingang und zur Aktenübersendung |
+| `08_telefonvermerk_drv_servicezentrum_2026-07-13.docx` | Telefonvermerk zum Widerspruchseingang und zur Aktenübersendung |
 
 ## Sachverhaltskern
 

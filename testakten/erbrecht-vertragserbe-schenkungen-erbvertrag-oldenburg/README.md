@@ -34,7 +34,7 @@ erbrecht-vertragserbe-schenkungen-erbvertrag-oldenburg/
 ├── 08_pflegedienst_rechnungen_2022_2024.csv         # Rechnungen Pflegedienst Huntetal, Zahlung vom Konto des Erblassers
 ├── 09_kurzgutachten_hofstelle_2021.docx             # Verkehrswert der Hofstelle zum Stichtag 03.05.2021
 ├── 10_olg_hinweisverfuegung_2026-07-16.docx         # Hinweis des Senats auf BGH IV ZR 256/25, Frist und Termin
-├── 11_telefonvermerk_pflegedienst_huntetal_2026-07-24.md # Telefonat mit der Pflegedienstleitung zu Beginn, Umfang und Dokumentation der Versorgung
+├── 11_telefonvermerk_pflegedienst_huntetal_2026-07-24.docx # Telefonat mit der Pflegedienstleitung zu Beginn, Umfang und Dokumentation der Versorgung
 ├── eml/
 │   ├── 01_newsletter_bgh_vertragserbe_2026-07-08.eml   # Newsletter zu den Entscheidungsgründen IV ZR 256/25
 │   ├── 02_mandant_weiterleitung_frage_2026-07-10.eml   # Mandant fragt nach Bedeutung für die Berufung

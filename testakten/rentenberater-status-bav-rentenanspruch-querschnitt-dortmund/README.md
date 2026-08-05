@@ -33,7 +33,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_arbeitgeber_zeitennachweis_servicetechnik.docx`](13_arbeitgeber_zeitennachweis_servicetechnik.docx) | Arbeitgeberauskunft zu gelebter Einsatzsteuerung und Zeitlücken |
 | [`14_email_mandant_fehlende_zeiten.eml`](14_email_mandant_fehlende_zeiten.eml) | Mandantenmail zu Sammelzahlung und Direktversicherung |
 | [`15_versicherungs_und_einsatzzeiten_roh.csv`](15_versicherungs_und_einsatzzeiten_roh.csv) | Versicherungs- und Einsatzzeiträume aus mehreren Quellen |
-| [`16_telefonvermerk_brockmann_fricke_versorgung.md`](16_telefonvermerk_brockmann_fricke_versorgung.md) | Telefonvermerk zur Erinnerung der früheren Personalsachbearbeiterin an Fricke-Versorgung und Betriebsübergang |
+| [`16_telefonvermerk_brockmann_fricke_versorgung.docx`](16_telefonvermerk_brockmann_fricke_versorgung.docx) | Telefonvermerk zur Erinnerung der früheren Personalsachbearbeiterin an Fricke-Versorgung und Betriebsübergang |
 | [`17_email_steuerkanzlei_radke_rechnungen_2020.eml`](17_email_steuerkanzlei_radke_rechnungen_2020.eml) | Nachtrag der Steuerkanzlei zu fehlenden Rechnungen 2020 und offener Sammelzahlung |
 | [`18_kontoauszug_lewe_geschaeftskonto_2020_auszug.csv`](18_kontoauszug_lewe_geschaeftskonto_2020_auszug.csv) | Kontoauszug-Auszug mit Sammelzahlung 8700 Euro und laufenden Zahlungen 2020 |
 

@@ -39,7 +39,7 @@ rentenrecht-erwerbsminderung-orthopädie-psyche-kassel/
 ├── 13_mrt_befund_lws.docx                   # Radiologischer MRT-Befund der Lendenwirbelsäule
 ├── 14_email_drv_eingangsbestaetigung_akteneinsicht.eml  # DRV-Zwischennachricht zu Widerspruchseingang und Aktenübersendung
 ├── 15_krankengeld_zahluebersicht_bkk.csv    # Zahlungszeiträume und Beträge des Krankengeldes seit Oktober 2025
-├── 16_telefonvermerk_kanzlei_sostmann.md    # Telefonnotiz des Sekretariats zu Krankengeldende, Terminen und Aktenlage
+├── 16_telefonvermerk_kanzlei_sostmann.docx    # Telefonnotiz des Sekretariats zu Krankengeldende, Terminen und Aktenlage
 ├── README.md                              # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                            # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                            # Prüfkriterien für die Bearbeitung

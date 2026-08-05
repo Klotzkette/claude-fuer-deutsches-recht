@@ -39,7 +39,7 @@ Die Timmermann Präzisionstechnik GmbH erhält wegen der Düse „Flow-Edge“ e
 | --- | --- |
 | [`pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf`](pdfs/originale/Patent_Akte_B_Abmahnung_Laserduese.pdf) | Abmahnung, Patentunterlagen, Produktbeschreibung und interne Entwicklungsbelege |
 | [`emails/2026-04-23_timmermann_abmahnung_laserduese.eml`](emails/2026-04-23_timmermann_abmahnung_laserduese.eml) | Weiterleitung der Abmahnung durch die Mandantin |
-| [`2026-05-04_telefonvermerk_flowedge_frist.md`](2026-05-04_telefonvermerk_flowedge_frist.md) | Telefonvermerk zu Fristverlängerung bis 20.05.2026, Messehinweis der Gegenseite und aufgefundenen Unterlagen von 2019 |
+| [`2026-05-04_telefonvermerk_flowedge_frist.docx`](2026-05-04_telefonvermerk_flowedge_frist.docx) | Telefonvermerk zu Fristverlängerung bis 20.05.2026, Messehinweis der Gegenseite und aufgefundenen Unterlagen von 2019 |
 
 ### Akte C: Prior-Art-Recherche zu einem Getränkehalter
 

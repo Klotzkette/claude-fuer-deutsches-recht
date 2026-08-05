@@ -42,7 +42,7 @@ Die irische **Silver Harbour Capital plc** erwirbt sämtliche Anteile an der **W
 | `13-kaufpreis-allokation.docx` | Plausibilisierungstabelle Kaufpreis -- Grundbesitzwerte -- GrESt-Bemessungsgrundlage; Liquiditätsbedarf |
 | `14-eml-mandantenkorrespondenz-killeen.eml` | Mailwechsel mit CFO Killeen zu Q2-Rückstellung, MAR-Frage, Investorenkommunikation |
 | `15-eml-bescheideingang-haveltor.eml` | Interne Eilmeldung zum Eingang des ersten Bescheids des FA Oranienburg mit Eckdaten und Fristnotierung |
-| `16-rechnung-uebersetzungsbuero-lichtblau.md` | Rechnung des Übersetzungsbüros für die beglaubigte Übersetzung der Tax-Klauseln |
+| `16-rechnung-uebersetzungsbuero-lichtblau.docx` | Rechnung des Übersetzungsbüros für die beglaubigte Übersetzung der Tax-Klauseln |
 | `17-teams-chat-tax-team-bescheidwoche.txt` | Interner Chat-Export der Bescheidwoche zu zweitem Bescheid, Helaba-Befristung und Verkäuferin |
 
 ## Besonders passende Skills

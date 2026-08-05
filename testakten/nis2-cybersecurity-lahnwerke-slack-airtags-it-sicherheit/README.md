@@ -47,7 +47,7 @@ Lahnwerke Maschinenbau AG rollt Slack aus, verfolgt LKW-Werkzeugcontainer mit Ai
 | `23-entscheidungsvorlage-kurzfassung.docx` | Kurzfassung Entscheidungsvorlage |
 | `24-arbeitsstand-fuer-besprechung.pdf` | Besprechungsunterlage Arbeitsstand |
 | `25-vpn-zugriffslog-frankenturm-roh.csv` | VPN-Zugriffslog des Servicekontos svc-frankenturm mit Logins ohne Ticket |
-| `26-telefonvermerk-rehbaum-vpn-siebter-mai.md` | Telefonvermerk Wenstedt/Rehbaum/Seifert zum ungeklärten Zugriff vom 7. Mai und zugesagten Nachweisen |
+| `26-telefonvermerk-rehbaum-vpn-siebter-mai.docx` | Telefonvermerk Wenstedt/Rehbaum/Seifert zum ungeklärten Zugriff vom 7. Mai und zugesagten Nachweisen |
 
 ## Arbeitsweise
 

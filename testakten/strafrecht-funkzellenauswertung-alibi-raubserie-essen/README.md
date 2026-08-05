@@ -49,7 +49,7 @@ strafrecht-funkzellenauswertung-alibi-raubserie-essen/
 ├── 07_verkehrsdaten_mobilfunk_0171_5583912_2026-05-28.csv       — 31 Verkehrsdatensätze mit Zellen-ID, Standort und Zeitstempel
 ├── 08_taten_uebersicht_beute_ek_spaeti_2026-05-18.csv           — Taten-Zeitleiste mit Tatzeiten, Adressen und rechnerischer Beute
 ├── 09_lichtbildvorlage_protokoll_bulut_2026-05-27.docx          — Wahllichtbildvorlage mit protokollierter Einzelbildvorzeigung und Auswahlmängeln
-├── 10_durchsuchungsbericht_wohnung_rautenberg_2026-06-05.md     — Durchsuchung bei Festnahme: Handy, Sneaker, Kapuzenpullover, Bargeld, Polo-Zweitschlüssel; kein Messer
+├── 10_durchsuchungsbericht_wohnung_rautenberg_2026-06-05.docx     — Durchsuchung bei Festnahme: Handy, Sneaker, Kapuzenpullover, Bargeld, Polo-Zweitschlüssel; kein Messer
 ├── 11_haftbefehl_ag_essen_2026-06-04.docx                       — Haftbefehl wegen besonders schweren Raubes in drei Fällen
 ├── 12_beschuldigtenvernehmung_rautenberg_2026-06-05.docx        — Einlassung: ganzer Abend bei der Schwester, Handy nutzt nur er selbst
 ├── 13_zeugenvernehmung_jasmin_rautenberg_2026-06-08.docx        — Pauschale Alibibestätigung der Schwester, freiwillige Chat-Herausgabe

@@ -64,7 +64,7 @@ insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg/
 ├── 23_urteil_lg_regensburg_2027-06-22.docx           — Urteil: Verurteilung zu Zahlung und Herausgabe
 ├── 24_kostenfestsetzungsbeschluss_2027-08-05.docx    — Kostenfestsetzung zugunsten des Verwalters
 ├── 25_schlussvermerk_verwalter_2027-09-20.docx       — Abschliessender Vermerk nach Rechtskraft und Erfuellung
-├── 26_protokollfragment_gesellschafterversammlung_2025-07-22.md — Unvollständiges Protokoll der Gesellschafterversammlung Juli 2025: Verrechnungskonto, Linienfreigabe, Lieferantenrückstände, Kastl-Kündigung
+├── 26_protokollfragment_gesellschafterversammlung_2025-07-22.docx — Unvollständiges Protokoll der Gesellschafterversammlung Juli 2025: Verrechnungskonto, Linienfreigabe, Lieferantenrückstände, Kastl-Kündigung
 ├── csv/                                               — Zahlungseingang der Masse
 ├── xlsx/                                              — Streitwert- und Kostenberechnung
 ├── jpg/                                               — Fotodokumentation Werkshalle

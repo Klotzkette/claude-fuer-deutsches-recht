@@ -56,7 +56,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`22_rechnungskuerzung_sachverhaltsabgleich.docx`](22_rechnungskuerzung_sachverhaltsabgleich.docx) | Mandantenschreiben mit einzelnen beanstandeten Buchungspositionen |
 | [`23_email_general_counsel_prioritaeten.eml`](23_email_general_counsel_prioritaeten.eml) | Priorisierungsmail des General Counsel |
 | [`24_zeiteintraege_juni_roh.csv`](24_zeiteintraege_juni_roh.csv) | Unveränderte Zeiteinträge mit offenen Zuordnungen |
-| [`25_telefonvermerk_cfo_rechnungsfreigabe.md`](25_telefonvermerk_cfo_rechnungsfreigabe.md) | Telefonvermerk mit dem CFO zu beanstandeten Rechnungspositionen und Freigabe |
+| [`25_telefonvermerk_cfo_rechnungsfreigabe.docx`](25_telefonvermerk_cfo_rechnungsfreigabe.docx) | Telefonvermerk mit dem CFO zu beanstandeten Rechnungspositionen und Freigabe |
 | [`emails/26_kanzlei-an-gc-leistungsaufstellung-nachtrag.eml`](emails/26_kanzlei-an-gc-leistungsaufstellung-nachtrag.eml) | Antwortmail der Kanzlei mit aufgeschlüsselter Leistungsaufstellung, Gutschrift und Anlagenliste |
 
 <!-- END nachgereichte-originalunterlagen -->

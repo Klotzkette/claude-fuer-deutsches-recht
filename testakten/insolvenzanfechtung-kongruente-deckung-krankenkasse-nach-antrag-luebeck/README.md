@@ -65,7 +65,7 @@ insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck/
 ├── 23_vergleichsannahme_verwalter.docx                     Annahme des Vergleichsvorschlags durch den Verwalter
 ├── 24_feststellungsbeschluss_vergleich_luebeck.docx        Feststellungsbeschluss § 278 VI ZPO
 ├── 25_schlussvermerk_verwalter_luebeck.docx                Aktenvermerk: Abschluss des Anfechtungsverfahrens
-├── 26_anhoerungsverfuegung_ag_luebeck_2026-02-11.md        Anhörungsverfügung des AG Lübeck zum Fremdantrag mit Zustellungsvermerk vom 13.02.2026
+├── 26_anhoerungsverfuegung_ag_luebeck_2026-02-11.docx        Anhörungsverfügung des AG Lübeck zum Fremdantrag mit Zustellungsvermerk vom 13.02.2026
 ├── xlsx/
 │   └── beitragszahlungen_anfechtungszeitraum.xlsx          Tabellarische Beitragszahlungen im Anfechtungszeitraum
 └── eml/

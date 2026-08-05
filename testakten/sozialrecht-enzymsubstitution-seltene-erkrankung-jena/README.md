@@ -43,7 +43,7 @@ sozialrecht-enzymsubstitution-seltene-erkrankung-jena/
 ├── 10_email_schule_teilhabe.eml           <- Oberstufenleitung zu Fehlzeiten und Erschöpfung
 ├── 11_pflegekasse_kurzprotokoll.txt       <- Pflegeberatung, Alltagshilfebedarf, Pflegetagebuch-Auftrag
 ├── 12_email_wehner_zwischenstand_2026-07-06.eml <- Mutter an Kanzlei: Kassenanruf, Schmerzepisode, Deckungszusage
-├── 13_telefonvermerk_saaleplus_2026-07-08.md <- Telefonat mit der Widerspruchsstelle, erneute MD-Vorlage
+├── 13_telefonvermerk_saaleplus_2026-07-08.docx <- Telefonat mit der Widerspruchsstelle, erneute MD-Vorlage
 └── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
 ```
 

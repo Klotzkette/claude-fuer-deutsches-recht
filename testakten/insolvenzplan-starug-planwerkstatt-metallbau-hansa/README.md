@@ -89,7 +89,7 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 | [19_stimmrechtsliste_glaeubigergruppen.docx](19_stimmrechtsliste_glaeubigergruppen.docx) | Stimmrechtsliste aller Gläubigergruppen zum Erörterungs- und Abstimmungstermin |
 | [20_zieloutput_checkliste.docx](20_zieloutput_checkliste.docx) | Vollständigkeitsprüfung vor Planeinreichung: Pflichtanlagen, prozessuale Voraussetzungen, Kommunikation |
 | [21_email_nordbank_kontokorrent_2026-05-20.eml](21_email_nordbank_kontokorrent_2026-05-20.eml) | E-Mail der NordBank nach dem Gespräch vom 19.05.2026: Rückführung, Stillhalte-Bedingungen, rote Linien |
-| [22_telefonvermerk_stahlhandel_kueste_2026-05-27.md](22_telefonvermerk_stahlhandel_kueste_2026-05-27.md) | Telefonvermerk mit dem Stahllieferanten: Kreditversicherungslimit, Vorkasse, Eigentumsvorbehalt, Termin 09.06.2026 |
+| [22_telefonvermerk_stahlhandel_kueste_2026-05-27.docx](22_telefonvermerk_stahlhandel_kueste_2026-05-27.docx) | Telefonvermerk mit dem Stahllieferanten: Kreditversicherungslimit, Vorkasse, Eigentumsvorbehalt, Termin 09.06.2026 |
 | [darstellender_teil_insolvenzplan.docx](darstellender_teil_insolvenzplan.docx) | DOCX: Vollständiger darstellender Teil des Insolvenzplans (ausformuliert, Calibri 11, mit Rubrum und Anlagen) |
 | [gestaltender_teil_insolvenzplan.docx](gestaltender_teil_insolvenzplan.docx) | DOCX: Vollständiger gestaltender Teil des Insolvenzplans (alle Paragrafen, bestimmt und vollziehbar) |
 | [term_sheet_nordlicht.docx](term_sheet_nordlicht.docx) | DOCX: Investor Term Sheet Nordlicht Turnaround Fonds (finale Fassung zur Unterzeichnung) |

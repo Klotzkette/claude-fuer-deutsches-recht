@@ -56,7 +56,7 @@ strafrecht-vermoegensabschoepfung-einziehung-taterloese-mannheim/
 ├── 14_verteidigerschriftsatz_ehrle_2026-05-28.docx      Angriff auf die Mengenberechnung und Streit um den Lohnkostenabzug
 ├── 15_replik_sta_berechnung_2026-06-19.docx             Replik der StA mit überprüfter, nach Tatjahren aufgegliederter Berechnung
 ├── 16_antrag_arrestaufhebung_2026-06-29.docx            Antrag auf Aufhebung bzw. Beschränkung des Arrests (Verhältnismäßigkeit)
-├── 17_zwischennachricht_lg_mannheim_2026-07-08.md       Eingangsbestätigung der Kammer, Stellungnahmefrist der StA und Nachfrage zur Betragsdivergenz
+├── 17_zwischennachricht_lg_mannheim_2026-07-08.docx       Eingangsbestätigung der Kammer, Stellungnahmefrist der StA und Nachfrage zur Betragsdivergenz
 ├── eml/
 │   ├── 01_wanka_an_trautwein_touren_2024-06-04.eml      Sichergestellte interne E-Mail der PDL zu nicht gefahrenen, abgerechneten Touren
 │   ├── 02_aok_an_sta_nachreichung_2025-10-21.eml        Nachreichung der Datenexporte und Einzelnachweise durch die Kasse

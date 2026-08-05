@@ -77,7 +77,7 @@ strafrecht-btm-kokain-kurierfahrt-a3-koeln/
 ├── 10_wirkstoffgutachten_lka_nrw_auszug_2026-06-29.docx               — Behördengutachten: 1990.0 g Substanz, 1577.15 g Kokainhydrochlorid, Grenzwertüberschreitung
 ├── 11_zeugenvernehmung_bianca_ferreira_2026-06-24.docx                — Lebensgefährtin: 500 Euro Fahrtlohn, zwei frühere Fahrten, Barzahlungen nach der Maitour
 ├── 12_telematik_und_funkzellendaten_2026-06-08_bis_2026-06-09.csv     — Zeitreihe Telematik/Verbindungsdaten; Kern der Venlo-Stopp- und Routenauswertung
-├── 14_telefonvermerk_kanzlei_ferreira_2026-07-07.md                   — Anruf der Lebensgefährtin: Geldumschlag mit Zettel, unbekannter Besucher, Besuchserlaubnis
+├── 14_telefonvermerk_kanzlei_ferreira_2026-07-07.docx                   — Anruf der Lebensgefährtin: Geldumschlag mit Zettel, unbekannter Besucher, Besuchserlaubnis
 ├── eml/
 │   ├── 2026-06-17_zfa_essen_an_sta_koeln_erkenntnismitteilung.eml     — ZFA: Venlo-Stopp, Heckklappensensor, bekannte Umschlagörtlichkeit, frühere Anmietungen
 │   ├── 2026-06-23_rotterdam_mobility_an_zfa_auskunft.eml              — Vermieterin: Vertrag MV-2026-08114, Konto "marlin-transport", drei Voranmietungen, Telematikexport

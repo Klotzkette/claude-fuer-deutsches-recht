@@ -49,7 +49,7 @@ Nach dem Tod von Helmut Rieken streitet sein enterbter Sohn Moritz gegen seine S
 | `16_fristkalender_und_postausgang.docx` | Fristen, Vorfristen, Versandkanäle und Zustellungsnachweise |
 | `17_sachverstaendigenanfrage_hofwert.docx` | Bewertungsanfrage für zwei Stichtage mit Rechte- und Unterlagenmatrix |
 | `18_email_gegenanwaeltin_ohlendorf_2026-07-13.eml` | Teillieferung der Gegenseite: Bestattungsrechnung, Kaufpreisfluss Bardowick, Pflegeaufstellung und Gutachtervorschlag |
-| `19_gedaechtnisnotiz_feddersen_2026-07-16.md` | Abschrift der handschriftlichen Erinnerung des Gesellen zum Gespräch über den Werkstattzuschuss im Juni 2019 |
+| `19_gedaechtnisnotiz_feddersen_2026-07-16.docx` | Abschrift der handschriftlichen Erinnerung des Gesellen zum Gespräch über den Werkstattzuschuss im Juni 2019 |
 | `99a_ackerpachtvertrag_2020.docx` | Eigenständige Pachtvertragsausfertigung mit handschriftlichem Zusatz |
 | `99b_pflegekalender_alva_rieken_2022_2026.docx` | Übertragung des privaten Pflegekalenders mit Doppelzeiten und Zahlungen |
 | `99c_pflegeheimschreiben_kurzzeitpflege_2026.docx` | Gesonderte Heimverwaltungsauskunft zu Aufenthalt, Besuch und Kosten |

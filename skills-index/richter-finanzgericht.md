@@ -1,6 +1,6 @@
 # richter-finanzgericht
 
-**14 Skills** · Stand `v436.1.0`
+**14 Skills** · Stand `v437.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-finanzgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

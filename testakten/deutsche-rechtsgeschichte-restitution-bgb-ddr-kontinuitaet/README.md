@@ -47,7 +47,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_email_enkelin_familienunterlagen.eml`](13_email_enkelin_familienunterlagen.eml) | Familienmail zu Fotos, Brief und Namensvarianten |
 | [`14_archivsignaturen_und_namensvarianten.csv`](14_archivsignaturen_und_namensvarianten.csv) | Signaturen und Fehlstellen ohne rechtliche Schlussfolgerung |
 | [`15_email_wohnbau_rechtsabteilung.eml`](15_email_wohnbau_rechtsabteilung.eml) | Rechtsabteilung der Wohnbau übersendet Kaufvertragsauszug 1998 und meldet Kopie des Investitionsvorrangbescheids ohne Zustellvermerk |
-| [`16_telefonvermerk_ehemalige_sachbearbeiterin_berger.md`](16_telefonvermerk_ehemalige_sachbearbeiterin_berger.md) | Telefonvermerk der Kanzlei zur Ermittlung der früheren Kreisamts-Mitarbeiterin Ingeborg Berger |
+| [`16_telefonvermerk_ehemalige_sachbearbeiterin_berger.docx`](16_telefonvermerk_ehemalige_sachbearbeiterin_berger.docx) | Telefonvermerk der Kanzlei zur Ermittlung der früheren Kreisamts-Mitarbeiterin Ingeborg Berger |
 | [`17_kostenmitteilung_reproduktionen_blha.csv`](17_kostenmitteilung_reproduktionen_blha.csv) | Kostenpositionen des Landeshauptarchivs für Reproduktionen und Digitalisate |
 
 <!-- END nachgereichte-originalunterlagen -->

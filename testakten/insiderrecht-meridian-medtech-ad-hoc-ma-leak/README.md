@@ -39,6 +39,6 @@ Diese Akte gehört zu den Plugins `insiderrecht-compliance`, `aktienrecht-hauptv
 
 | Datei | Inhalt |
 | --- | --- |
-| `07-telefonvermerk-compliance-breisach.md` | Telefonvermerk Compliance zum Mitarbeitergeschäft Breisach vom 31.05.2026, widersprüchliche Angaben zur Orderaufgabe |
+| `07-telefonvermerk-compliance-breisach.docx` | Telefonvermerk Compliance zum Mitarbeitergeschäft Breisach vom 31.05.2026, widersprüchliche Angaben zur Orderaufgabe |
 | `08-chat-export-kellermann-arens-leaknacht.txt` | Messenger-Export IR/CFO aus der Nacht des Leaks 03./04.06.2026 |
 | `09-email-bankhaus-cronegg-orderdetails.eml` | Auskunft der Depotbank zu den beiden Mitarbeiterorders vom 31.05.2026 und zur Sperrliste |

@@ -32,7 +32,7 @@ BtM-Akte: Apotheke, Substitution, Festivalfund, nicht geringe Menge, BtM-Rezept,
 | `07_arztpraxis_telefonvermerk_takehome.docx` | Telefon- und Verordnungsvermerk zur Take-home-Abgabe |
 | `08_chatexport_jonas_ruess_2026-07-11.txt` | Polizeilich gesicherter Nachrichtenexport: Blister-Weitergabe an „Cem F." und Verlust der Gürteltasche |
 | `09_email_apotheke_nachreichung_2026-07-16.eml` | E-Mail mit vollständigem Header: Nachreichung Warenbewegungen, Videoauszug, fehlende Stellungnahme Rüß |
-| `10_abschrift_notizzettel_tresorbuch.md` | Abschrift eines handschriftlichen Zählzettels aus dem BtM-Journal mit Bestandsnotizen vom 8. bis 10. Juli |
+| `10_abschrift_notizzettel_tresorbuch.docx` | Abschrift eines handschriftlichen Zählzettels aus dem BtM-Journal mit Bestandsnotizen vom 8. bis 10. Juli |
 ## Passende Plugins
 
 `betaeubungsmittelrecht`

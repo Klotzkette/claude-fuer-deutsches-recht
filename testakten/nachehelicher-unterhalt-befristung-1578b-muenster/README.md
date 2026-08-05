@@ -46,7 +46,7 @@ Die Akte arbeitet mit Arbeitswerten zu Einkommen, Selbstbehalt, Wohnvorteil und 
 | 12 | [`12_strategie_und_vergleichskorridor.docx`](12_strategie_und_vergleichskorridor.docx) | Paragraf 1578b- und Paragraf 1579-Bewertung, Strategie, Vergleichskorridor, Antrag |
 | 13 | [`13_vergleichsprotokoll_2021_abschrift.docx`](13_vergleichsprotokoll_2021_abschrift.docx) | Protokoll des Unterhaltsvergleichs vom 09.03.2021 (44 F 2189/19) als Abschrift |
 | 14 | [`14_verdienstbescheinigung_vosskamp_2026.docx`](14_verdienstbescheinigung_vosskamp_2026.docx) | Verdienstbescheinigung des Marienhospitals mit Monatsbezügen Januar bis Mai 2026 |
-| 15 | [`15_telefonvermerk_vosskamp_2026-07-09.md`](15_telefonvermerk_vosskamp_2026-07-09.md) | Telefonvermerk zum Mandantengespräch nach Eingang der gegnerischen Stellungnahme, Beobachtungen zu den Wohnverhältnissen |
+| 15 | [`15_telefonvermerk_vosskamp_2026-07-09.docx`](15_telefonvermerk_vosskamp_2026-07-09.docx) | Telefonvermerk zum Mandantengespräch nach Eingang der gegnerischen Stellungnahme, Beobachtungen zu den Wohnverhältnissen |
 
 ## Anlagen
 
@@ -70,7 +70,7 @@ nachehelicher-unterhalt-befristung-1578b-münster/
 ├── 12_strategie_und_vergleichskorridor.docx      Bewertung, Korridor, Antragseckpunkte
 ├── 13_vergleichsprotokoll_2021_abschrift.docx    Protokollabschrift des Vergleichs vom 09.03.2021
 ├── 14_verdienstbescheinigung_vosskamp_2026.docx  Arbeitgeberbescheinigung mit Monatsbezügen 2026
-├── 15_telefonvermerk_vosskamp_2026-07-09.md      Telefonvermerk nach gegnerischer Stellungnahme
+├── 15_telefonvermerk_vosskamp_2026-07-09.docx      Telefonvermerk nach gegnerischer Stellungnahme
 ├── csv/
 │   └── einkommens_und_zahlungsuebersicht.csv   Einkommens- und Zahlungsübersicht (Arbeitswerte)
 ├── emails/

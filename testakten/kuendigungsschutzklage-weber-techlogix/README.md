@@ -93,7 +93,7 @@ Datenauswertungs-Kern: Die Sozialauswahl-Punktematrix (`sozialauswahl_punktematr
 | `eml/2026-04-28_haehnel_an_kreutzfeldt_br_anhoerung_verspaetet.eml` | BR-Vorsitzender rügt verspätete und inhaltlich unzureichende Anhörung zur Sozialauswahl |
 | `eml/2026-05-13_steinhauer_an_weber_gueteterminladung.eml` | RA Steinhauer leitet Ladung zum Gütetermin 04.06.2026 weiter |
 | `eml/2026-09-17_weber_an_steinhauer_abfindung_zeugnis.eml` | Weber meldet ausbleibende Abfindungszahlung trotz Frist 15.09.2026 und fragt nach Vergleichskopie für die Agentur |
-| `kostenrechnung_steinhauer_23-06-2026.md` | Kostenrechnung der Kanzlei Steinhauer & Vonau nach RVG mit Vorschussverrechnung |
+| `kostenrechnung_steinhauer_23-06-2026.docx` | Kostenrechnung der Kanzlei Steinhauer & Vonau nach RVG mit Vorschussverrechnung |
 
 ---
 

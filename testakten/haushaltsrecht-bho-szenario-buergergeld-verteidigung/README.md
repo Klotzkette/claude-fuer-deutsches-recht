@@ -46,7 +46,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_mittelzuweisung_haushaltsvollzug_2026.docx`](12_mittelzuweisung_haushaltsvollzug_2026.docx) | Ressortschreiben zum tatsächlichen Buchungsstand |
 | [`13_email_ressortabgleich_faelligkeiten.eml`](13_email_ressortabgleich_faelligkeiten.eml) | Fachmail zu abweichenden Länderabrufen |
 | [`14_buchungen_und_mittelbindungen_roh.csv`](14_buchungen_und_mittelbindungen_roh.csv) | Rohbuchungen mit Storno- und Prüfstatus |
-| [`15_telefonvermerk_kuestenmark_korrekturdatei.md`](15_telefonvermerk_kuestenmark_korrekturdatei.md) | Telefonvermerk vom 6. Juli 2026: Küstenmark verschiebt die Korrekturdatei auf den 8. Juli, 61 Doppelfälle in der Differenzliste |
+| [`15_telefonvermerk_kuestenmark_korrekturdatei.docx`](15_telefonvermerk_kuestenmark_korrekturdatei.docx) | Telefonvermerk vom 6. Juli 2026: Küstenmark verschiebt die Korrekturdatei auf den 8. Juli, 61 Doppelfälle in der Differenzliste |
 | [`16_chat_bereitschaftsdienst_import_2026-06-21.txt`](16_chat_bereitschaftsdienst_import_2026-06-21.txt) | Chat-Export des Bereitschaftsdienstes zur Importnacht 21./22. Juni mit Timeout, Neustart und Ticket 88413 |
 | [`17_email_nordland_kassenzeichen_korrekturbuchungen.eml`](17_email_nordland_kassenzeichen_korrekturbuchungen.eml) | E-Mail der Landeskasse Nordland: Kassenzeichen-Umstellung erklärt die zwei abweichenden Korrekturbuchungen aus dem Aprilabruf |
 

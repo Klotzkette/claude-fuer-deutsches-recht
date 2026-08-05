@@ -43,7 +43,7 @@ rentenrecht-betriebsrente-direktversicherung-vbl-hannover/
 ├── 10_renteninformation_2022_vergleich.docx      ← ältere Hochrechnung 1.812,45 EUR und Klärungsnotiz
 ├── 11_mehrsaeulenplan.csv                      ← Arbeitsraster der Beraterin über alle vier Säulen
 ├── 12_email_mandantin_kapitalwahl.eml          ← Dachsanierung, VBL-Zettel von 1999, Grundsatzfragen
-├── 13_antwort_direktversicherung.md            ← Antwort der Hannoversche Vorsorge: Werte für drei Abruftermine, Rentenfaktor, Kostenausweis 2004–2011 noch offen
+├── 13_antwort_direktversicherung.docx            ← Antwort der Hannoversche Vorsorge: Werte für drei Abruftermine, Rentenfaktor, Kostenausweis 2004–2011 noch offen
 ├── 14_email_vbl_zwischennachricht.eml          ← VBL bestätigt Pflichtversicherung 1999–2004, Meldelücke zweites Halbjahr 2001, Überleitung nur auf Antrag
 └── 15_haushaltsrechnung_ellersen.csv           ← Monatliche Ausgabenübersicht der Mandantin mit Dachrücklage und offenen Posten
 ```

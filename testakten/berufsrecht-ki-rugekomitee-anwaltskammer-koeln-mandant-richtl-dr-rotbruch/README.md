@@ -36,7 +36,7 @@ Stichtag des Aktenbestands ist der 15. April 2026. Der zivilrechtliche Güteterm
 | [`docx/klageerwiderung_habernau_2o188_26.docx`](docx/klageerwiderung_habernau_2o188_26.docx) | Klageerwiderung des Rechtsanwalts |
 | [`docx/stellungnahme_rak_koeln_ruegeverfahren.docx`](docx/stellungnahme_rak_koeln_ruegeverfahren.docx) | Stellungnahme im berufsaufsichtlichen Verfahren |
 | [`pdfs/ehevertrag_habernau_modifikation_redacted.pdf`](pdfs/ehevertrag_habernau_modifikation_redacted.pdf) | Anonymisierte Abschrift des notariellen Ehevertrags vom 28. April 2022 |
-| [`04_telefonvermerk_bremer_rotbruch_2026-04-09.md`](04_telefonvermerk_bremer_rotbruch_2026-04-09.md) | Telefonvermerk der Verteidigung: Erinnerung Rotbruchs an ein Beratungstelefonat im April 2022, Zeiterfassung, Vergleichsrahmen |
+| [`04_telefonvermerk_bremer_rotbruch_2026-04-09.docx`](04_telefonvermerk_bremer_rotbruch_2026-04-09.docx) | Telefonvermerk der Verteidigung: Erinnerung Rotbruchs an ein Beratungstelefonat im April 2022, Zeiterfassung, Vergleichsrahmen |
 | [`05_sms_verlauf_rotbruch_habernau_april_2022.txt`](05_sms_verlauf_rotbruch_habernau_april_2022.txt) | Unvollständig wiederhergestellter SMS-Verlauf zwischen Rotbruch und der Mandantin vor der Beurkundung |
 
 ### Korrespondenz

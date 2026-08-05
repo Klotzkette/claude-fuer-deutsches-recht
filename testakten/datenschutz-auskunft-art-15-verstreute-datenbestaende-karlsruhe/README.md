@@ -53,7 +53,7 @@ datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe/
 ├── 12_beschwerde_lfdi_bw_2026-05-11.docx                 — Beschwerde nach Artikel 77 DSGVO an den LfDI Baden-Württemberg
 ├── 13_zwischennachricht_lfdi_bw_2026-05-27.docx          — Behördliche Zwischennachricht mit vorläufiger Einschätzung
 ├── 14_klageentwurf_auskunft_art82_2026-06-30.docx        — Klageentwurf auf Auskunft und Schadensersatz nach Artikel 82 DSGVO
-├── 15_telefonvermerk_wehrle_denzlinger_2026-06-08.md     — Telefonvermerk der Kanzlei: Score-Folien in Vertriebsrunden, Hinweise Kümmel, Bewerbungen
+├── 15_telefonvermerk_wehrle_denzlinger_2026-06-08.docx     — Telefonvermerk der Kanzlei: Score-Folien in Vertriebsrunden, Hinweise Kümmel, Bewerbungen
 ├── eml/
 │   ├── 2026-03-19_it_trefferbericht_an_hr.eml            — IT meldet: Scores und Verteiler-Mail gefunden
 │   ├── 2026-03-24_vertriebsleitung_an_hr.eml             — Vertriebsleitung rät, beide Kategorien wegzulassen

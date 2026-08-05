@@ -59,7 +59,7 @@ Mara Hohenstaufen, freiberufliche Übersetzerin aus Hannover, hat bei der Tischl
 | `07_foto_inventar_und_verbraucherzentrale.docx` | Foto- und Video-Inventar mit Metadaten, Telefonnotiz Verbraucherzentrale, Beratungstermin |
 | `08_internet_recherche_klaegerin.docx` | zehn widersprüchliche Internet-Treffer, die das Plugin sortieren und einordnen soll |
 | `09_email_inkasso_sievering.eml` | Zahlungsaufforderung des Inkassobüros Sievering & Partner mit Kostenaufstellung und Frist 26. Juni 2026 |
-| `10_telefonvermerk_rechtsantragstelle.md` | eigene Telefonnotiz der Klägerin zum Anruf bei der Rechtsantragstelle des Amtsgerichts Hannover |
+| `10_telefonvermerk_rechtsantragstelle.docx` | eigene Telefonnotiz der Klägerin zum Anruf bei der Rechtsantragstelle des Amtsgerichts Hannover |
 | `11_kontoauszug_ausgaben.csv` | Kontoauszug-Auszug mit Anzahlung, Ersatztisch, Porto und weiteren Ausgaben rund um den Streit |
 
 ## Empfohlener Pluginlauf

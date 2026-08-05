@@ -52,7 +52,7 @@ Die Akte setzt nicht bei einer fertigen Fallzusammenfassung an. Grundbuch, Mietv
 | [`18_verkehrswert_ermittlung.xlsx`](18_verkehrswert_ermittlung.xlsx) | XLSX | Rohdaten und Rechenschritte aus der Wertermittlung |
 | [`19_email_mieter_innenbesichtigung.eml`](19_email_mieter_innenbesichtigung.eml) | EML | E-Mail des Mieters: Ablehnung der Innenbesichtigung, Erklärung zu Klingelschild und Barkaution |
 | [`20_mietkonto_zwangsverwaltung_auszug.csv`](20_mietkonto_zwangsverwaltung_auszug.csv) | CSV | Kontoauszug des Zwangsverwalters mit Mieteingängen, Hausgeld, Vergütung und offener Kautionsfrage |
-| [`21_telefonvermerk_weg_sonderumlage.md`](21_telefonvermerk_weg_sonderumlage.md) | MD | Telefonvermerk mit dem WEG-Verwalter zur Kostenschätzung und zur Versammlung über die Sonderumlage |
+| [`21_telefonvermerk_weg_sonderumlage.docx`](21_telefonvermerk_weg_sonderumlage.docx) | DOCX | Telefonvermerk mit dem WEG-Verwalter zur Kostenschätzung und zur Versammlung über die Sonderumlage |
 
 ### Termin und weiterer Verfahrensstand
 

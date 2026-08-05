@@ -54,7 +54,7 @@ strafrecht-verstaendigung-257c-bandenhehlerei-wuppertal/
 ├── 14_beschlussentwurf_loesung_verstaendigung_2026-06-22.docx Kammerentwurf: Entfallen der Bindung und Verwertungsverbot
 ├── 15_verteidigerschriftsatz_fehling_2026-06-26.docx    Rüge des Belehrungsmangels, § 274 StPO, Angriff auf die Lösungsvoraussetzungen
 ├── 16_stellungnahme_sta_2026-07-01.docx                 Erwiderung der StA zu Lösung, Protokollberichtigung und Verwertungsverbot
-├── 17_telefonvermerk_fehling_sowinski_2026-07-03.md     Telefonvermerk der Verteidigung: Einlassung des Mandanten zum Chat, Kontosperrung Teilemarkt24, Besprechungstermin
+├── 17_telefonvermerk_fehling_sowinski_2026-07-03.docx     Telefonvermerk der Verteidigung: Einlassung des Mandanten zum Chat, Kontosperrung Teilemarkt24, Besprechungstermin
 ├── eml/
 │   ├── 01_fehling_an_sta_sondierung_2026-03-16.eml      Vertrauliche Sondierung der Verteidigung mit Bewährungswunsch
 │   ├── 02_sta_an_fehling_antwort_2026-03-20.eml         Antwort der StA mit Strafrahmenvorstellung und Anregung einer Erörterung

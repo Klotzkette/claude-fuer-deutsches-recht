@@ -43,4 +43,4 @@ Passt zu `energierecht`, `verkehr-infrastrukturrecht`, `umweltrecht`, `bundesnet
 | `15-vollgutachten-planung-sicherheit-und-energieanbindung.docx` | Ausformuliertes Vollgutachten mit Normprogramm, Subsumtion, Beweisstrategie und nächstem Schritt |
 | `15-behoerdenfragen.docx` | Fragenpaket für Behördenvorgespräch |
 | `16-eml-gemeinde-rueckfragen.eml` | Rückfragen der Gemeinde zu Evakuierungskonzept, Biotopen, Transrapid-Status und Flugblatt |
-| `17-telefonvermerk-landesplanung.md` | Telefonvermerk zur Vorabanfrage bei der höheren Landesplanungsbehörde mit Unterlagenliste |
+| `17-telefonvermerk-landesplanung.docx` | Telefonvermerk zur Vorabanfrage bei der höheren Landesplanungsbehörde mit Unterlagenliste |

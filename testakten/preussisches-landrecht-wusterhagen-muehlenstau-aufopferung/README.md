@@ -32,7 +32,7 @@ Historische PrALR-Arbeitsakte zu einem Mühlenstau-, Chaussee- und Entschädigun
 | `07-lagebild-muehle-chaussee.jpg` | Skizzenhaftes Lagebild Mühle, Bach, Chaussee, Damm und Grundstücke |
 | `08-quellenmemo-aufopferung.pdf` | PDF-Memo zur PrALR-Quellenlogik und heutigen Anschlussprüfung |
 | `09-entwurf-naechster-schritt.docx` | Entwurf für Rückfragen, Rechercheplan und kurze Mandantenantwort |
-| `10-telefonvermerk-heimatarchiv.md` | Telefonat mit dem Heimatarchiv zu Foto 1898, Karteikartennotiz und Beschwerdevorgang 1902–1904 |
+| `10-telefonvermerk-heimatarchiv.docx` | Telefonat mit dem Heimatarchiv zu Foto 1898, Karteikartennotiz und Beschwerdevorgang 1902–1904 |
 | `11-email-bentheim-nachbarwiese.eml` | Nachbar Bentheim zur überfluteten Wiese, zum verengten Durchlass und zum Zuständigkeits-Hin-und-Her 2011 |
 | `12-schadenaufstellung-februar-2026.csv` | Kostenaufstellung der Mandantin nach dem Starkregen mit Belegstatus und offenen Positionen |
 

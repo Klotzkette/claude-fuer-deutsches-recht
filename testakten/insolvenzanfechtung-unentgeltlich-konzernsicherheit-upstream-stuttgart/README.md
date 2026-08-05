@@ -66,7 +66,7 @@ insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart/
 ├── 23_vergleichsverhandlungsprotokoll_2026-02-02.docx     Vergleichsbereitschaft nach der Beweisaufnahme, Angebot 480.000 gegen Forderung 620.000 EUR
 ├── 24_vergleichsvereinbarung_bank_2027-02-16.docx          Vergleich über 545.000 EUR in drei Raten, Kostenquote 45:55
 ├── 25_schlussvermerk_verwalterin_abschluss.docx            Schlussvermerk: Vergleich vollständig bezahlt, Ansprüche gegen Konsortin nicht weiterverfolgt
-├── 26_telefonvermerk_mangold_hetzel.md                     Telefonvermerk mit dem Verwalter der Mutter: Tabelle, Quotenerwartung, Cash-Pooling-Abstimmung
+├── 26_telefonvermerk_mangold_hetzel.docx                     Telefonvermerk mit dem Verwalter der Mutter: Tabelle, Quotenerwartung, Cash-Pooling-Abstimmung
 ├── csv/
 │   ├── fristenliste_verjaehrung_paragraf_146_inso.csv      Verjährungsprüfung Paragraf 146 InsO für beide Sicherheiten
 │   └── ratenzahlungen_vergleich_bank.csv                   Ratenzahlungsplan und Zahlungseingänge des Vergleichsbetrags

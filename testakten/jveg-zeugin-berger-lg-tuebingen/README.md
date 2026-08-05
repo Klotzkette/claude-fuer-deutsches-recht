@@ -79,7 +79,7 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 | [05_rechner_input_berger.json](05_rechner_input_berger.json) | Eingabeparameter für automatisierten JVEG-Rechner |
 | [06_antwortbaustein.docx](06_antwortbaustein.docx) | Argumentationshilfe und Musterformulierungen zur Reaktion auf Vorschussablehnung |
 | [07_rechner_output_berger.json](07_rechner_output_berger.json) | Berechnungsergebnis des JVEG-Rechners inkl. Warnhinweisen |
-| [08_hotelrechnung_gaestehaus_neckarblick.md](08_hotelrechnung_gaestehaus_neckarblick.md) | Hotelrechnung über 197,00 EUR mit Bestätigung, dass günstigere Zimmer belegt waren |
+| [08_hotelrechnung_gaestehaus_neckarblick.docx](08_hotelrechnung_gaestehaus_neckarblick.docx) | Hotelrechnung über 197,00 EUR mit Bestätigung, dass günstigere Zimmer belegt waren |
 | [09_email_berger_an_kanzlei_belege.eml](09_email_berger_an_kanzlei_belege.eml) | E-Mail der Zeugin zum Festsetzungsbeschluss, zur BWA-Übersetzung und zu offenen Belegfragen |
 | [berechnung_zeugenentschaedigung_berger.xlsx](berechnung_zeugenentschaedigung_berger.xlsx) | Detailliertes Excel-Rechenblatt: Fahrtkosten, Übernachtung, Verdienstausfall, Zeitversäumnis |
 | [berechnung_zeugenentschaedigung_berger.docx](berechnung_zeugenentschaedigung_berger.docx) | Markdown-Vorschau des Rechenblatts |

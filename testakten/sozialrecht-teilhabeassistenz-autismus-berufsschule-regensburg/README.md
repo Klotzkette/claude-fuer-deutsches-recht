@@ -42,7 +42,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 
 | Datei | Herkunft und Inhalt |
 | --- | --- |
-| [`08_telefonvermerk_agentur_fuer_arbeit_2026-07-09.md`](08_telefonvermerk_agentur_fuer_arbeit_2026-07-09.md) | Telefonvermerk der Kanzlei mit dem Reha-Team der Agentur für Arbeit zu Antragslage und Fallkonferenz |
+| [`08_telefonvermerk_agentur_fuer_arbeit_2026-07-09.docx`](08_telefonvermerk_agentur_fuer_arbeit_2026-07-09.docx) | Telefonvermerk der Kanzlei mit dem Reha-Team der Agentur für Arbeit zu Antragslage und Fallkonferenz |
 | [`09_sms_verlauf_ulrike_levin_april_2026.txt`](09_sms_verlauf_ulrike_levin_april_2026.txt) | SMS-Auszug Mutter und Sohn aus der April-Blockwoche mit dem Vorfall an der Bushaltestelle |
 | [`eml/2026-07-14_assistenzdienst_kapazitaet_september.eml`](eml/2026-07-14_assistenzdienst_kapazitaet_september.eml) | Angebot eines Assistenzdienstes mit Fachkraft, Stundensatz und Fristsetzung für die Kostenzusage |
 

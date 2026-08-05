@@ -50,7 +50,7 @@ Nachlass des Maschinenbauunternehmers Heinrich Baumann mit GmbH-Anteilen, Testam
 | `11_gesellschafterversammlung_18_mai.docx` | Niederschrift zu Vertretung, Investitionsplan, Bankabruf und Protokollvorbehalten |
 | `12_telefonnotiz_bank_claudia_rehm.docx` | Telefonvermerk zu Liquiditätsreserve, Bankunterlagen und Unterschriftenmatrix |
 | `13_fristkalender_und_postausgang.docx` | Fristen, Datenraumversionen, Banktermine und Versandnachweise |
-| `14_telefonvermerk_notarin_kueppers.md` | Telefonvermerk zur Gesellschafterliste: fehlendes Testamentsvollstreckerzeugnis, Zeitfenster, Stellungnahme für die Bank |
+| `14_telefonvermerk_notarin_kueppers.docx` | Telefonvermerk zur Gesellschafterliste: fehlendes Testamentsvollstreckerzeugnis, Zeitfenster, Stellungnahme für die Bank |
 | `emails/2026-07-03_rehm_unterschriftenmatrix.eml` | E-Mail der Bank mit Unterschriftenmatrix, Unterlagenliste zum 10.07. und Sitzungstermin des Kreditkomitees |
 | `csv/gesellschaftsrechtliche_to_dos.csv` | Vollzugsliste für Register, Gesellschafterversammlung, Bank, Gutachter und Nachlassverwaltung |
 | `emails/2026-06-30_mara_bankdruck.eml` | E-Mail der Geschäftsführerin zur Kreditfrist und den Folgen für Löhne, Lieferanten und Investition |

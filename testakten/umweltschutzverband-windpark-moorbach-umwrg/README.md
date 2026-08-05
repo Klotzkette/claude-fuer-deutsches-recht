@@ -47,7 +47,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_email_landwirtin_mahd_und_nahrungssuche.eml`](13_email_landwirtin_mahd_und_nahrungssuche.eml) | Landwirtinnenmail zu Mahd und eigener Wahrnehmung |
 | [`14_feldbeobachtungen_m1_m4_rohdaten.csv`](14_feldbeobachtungen_m1_m4_rohdaten.csv) | Unbewertete Beobachtungsdaten der vier Punkte |
 | [`15_email_umweltamt_zwischennachricht_unterlagen_2026-07-01.eml`](15_email_umweltamt_zwischennachricht_unterlagen_2026-07-01.eml) | Zwischennachricht des Umweltamts zu nachgereichten Anlagen, fehlendem Änderungsvermerk und Fristfrage |
-| [`16_telefonvermerk_hanne_strauss_zweitkontrolle_2026-07-09.md`](16_telefonvermerk_hanne_strauss_zweitkontrolle_2026-07-09.md) | Telefonvermerk zur vorgezogenen zweiten Gehölzkontrolle und zwei noch nicht erfassten Beobachtungen |
-| [`17_abschrift_revierbuch_ruess_april_juni_2026.md`](17_abschrift_revierbuch_ruess_april_juni_2026.md) | Abschrift der handschriftlichen Revierbucheinträge April bis Juni mit unleserlichen Stellen |
+| [`16_telefonvermerk_hanne_strauss_zweitkontrolle_2026-07-09.docx`](16_telefonvermerk_hanne_strauss_zweitkontrolle_2026-07-09.docx) | Telefonvermerk zur vorgezogenen zweiten Gehölzkontrolle und zwei noch nicht erfassten Beobachtungen |
+| [`17_abschrift_revierbuch_ruess_april_juni_2026.docx`](17_abschrift_revierbuch_ruess_april_juni_2026.docx) | Abschrift der handschriftlichen Revierbucheinträge April bis Juni mit unleserlichen Stellen |
 
 <!-- END nachgereichte-originalunterlagen -->

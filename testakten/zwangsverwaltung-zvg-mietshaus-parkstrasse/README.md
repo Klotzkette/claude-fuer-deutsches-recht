@@ -87,7 +87,7 @@ Im Verlauf des Verfahrens (Mai 2026 – Februar 2027) wurden alle Notfallmaßnah
 | [14_insolvenz_schnittstelle.docx](14_insolvenz_schnittstelle.docx) | Ankündigung Insolvenzantrag durch Schuldner (20.06.2026); Rechtslage Insolvenz vs. Zwangsverwaltung; Monitoring; Vorsorgeplan; Ergebnis: kein Antrag gestellt |
 | [15_schlussrechnung.docx](15_schlussrechnung.docx) | Vollständige Schlussrechnung 07.05.2026 – 28.02.2027; Gesamteinnahmen und -ausgaben; Vergütungsabrechnung; Kautionsspiegel; Schlussauskehr; Entlastungsantrag |
 | [16_email_baeckerei_kranz_feuchtigkeit.eml](16_email_baeckerei_kranz_feuchtigkeit.eml) | E-Mail Werner Kranz (GE01) vom 15.06.2026: Feuchtigkeit Backstube, Zahlungsstopp, Teilzahlungsangebot 1.500 EUR |
-| [17_telefonvermerk_matuschek_we02.md](17_telefonvermerk_matuschek_we02.md) | Telefonvermerk vom 27.05.2026: Barzahlung der Maimiete WE02 an den Schuldner, fehlende Quittung, Umstellung auf Treuhandkonto |
+| [17_telefonvermerk_matuschek_we02.docx](17_telefonvermerk_matuschek_we02.docx) | Telefonvermerk vom 27.05.2026: Barzahlung der Maimiete WE02 an den Schuldner, fehlende Quittung, Umstellung auf Treuhandkonto |
 | [mieterinformation.docx](mieterinformation.docx) | Formelles Anschreiben an alle Mieter über Anordnung der Zwangsverwaltung und Treuhandkonto |
 | [quartalsbericht_q2_2026.docx](quartalsbericht_q2_2026.docx) | Quartalsbericht Q2/2026 (Apr–Jun 2026) an das Vollstreckungsgericht |
 | [genehmigungsantrag_instandhaltung.docx](genehmigungsantrag_instandhaltung.docx) | Antrag an das AG Leipzig auf Genehmigung der Instandhaltungsmaßnahmen M04–M06 |

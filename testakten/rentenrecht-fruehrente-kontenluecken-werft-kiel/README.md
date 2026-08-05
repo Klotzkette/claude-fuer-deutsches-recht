@@ -42,9 +42,9 @@ rentenrecht-frührente-kontenluecken-werft-kiel/
 ├── 11_drv_zwischennachricht.docx                ← Einleitung der Kontenklärung, Vordrucke, Einzelanfragen
 ├── 12_beratervermerk_monatsraster.csv           ← Monatsraster: Kontostand, Beleglage, Streitpunkt je Zeitraum
 ├── 13_kontenspiegel_wartezeit_datenkern.csv     ← Datenkern: Zeitart, Monate, Wartezeit-35/45-Zählung, Entgeltpunkte, Beleglage; Wartezeit und Abschlag nachrechenbar
-├── 14_zeugenerklaerung_clausen_2026-06-30.md    ← schriftliche Zeugenerklärung der Filialleiterin zum Minijob 2001
-├── 15_drv_zwischenmitteilung_kontenklaerung_2026-07-04.md ← Zwischenstand der DRV Nord: Pflegezeit gutgeschrieben, Nordstahl/Alg/Minijob offen
-├── 16_telefonvermerk_pflegekasse_2026-07-08.md  ← Telefonvermerk zur Beitragslücke November 2009 bis Februar 2010 bei der Pflegekasse
+├── 14_zeugenerklaerung_clausen_2026-06-30.docx    ← schriftliche Zeugenerklärung der Filialleiterin zum Minijob 2001
+├── 15_drv_zwischenmitteilung_kontenklaerung_2026-07-04.docx ← Zwischenstand der DRV Nord: Pflegezeit gutgeschrieben, Nordstahl/Alg/Minijob offen
+├── 16_telefonvermerk_pflegekasse_2026-07-08.docx  ← Telefonvermerk zur Beitragslücke November 2009 bis Februar 2010 bei der Pflegekasse
 ├── eml/
     ├── 01_kanzlei_an_drv_kontenklaerung.eml     ← Kanzlei übersendet Nachweise, stellt drei Anträge
     ├── 02_aok_einzugsstelle_auskunft.eml        ← AOK Nordwest: Pflege-Zuordnungsfehler bestätigt, Nordstahl/Minijob ohne RV-Meldung

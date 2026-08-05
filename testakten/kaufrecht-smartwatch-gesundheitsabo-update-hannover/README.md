@@ -65,7 +65,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_serviceprotokoll_smartwatch_messvergleich.docx`](13_serviceprotokoll_smartwatch_messvergleich.docx) | Werkstattprotokoll mit Gerätebefund und Vergleichsmessungen |
 | [`14_email_kardiologie_messabweichungen.eml`](14_email_kardiologie_messabweichungen.eml) | Kardiologische E-Mail zu gleichzeitig erhobenen Werten |
 | [`15_geraetelog_watch_s3_juni_juli_2026.csv`](15_geraetelog_watch_s3_juni_juli_2026.csv) | Unveränderte Diagnose- und Ereigniszeilen |
-| [`17_telefonvermerk_medipulse_hotline.md`](17_telefonvermerk_medipulse_hotline.md) | Telefonvermerk der Kanzlei zu Aussagen des Herstellerservice über Firmware, Tarifumstellung und Sammelvorgang |
+| [`17_telefonvermerk_medipulse_hotline.docx`](17_telefonvermerk_medipulse_hotline.docx) | Telefonvermerk der Kanzlei zu Aussagen des Herstellerservice über Firmware, Tarifumstellung und Sammelvorgang |
 | [`emails/2026-07-14_medipulse_plus_tarif.eml`](emails/2026-07-14_medipulse_plus_tarif.eml) | Herstellerantwort: PDF-Export und Cloudversand seit App 6.12 nur im Plus-Tarif |
 | [`csv/abo_zahlungshistorie_medipulse.csv`](csv/abo_zahlungshistorie_medipulse.csv) | Konto- und Abohistorie des MediPulse-Kontos mit Tarifumstellung |
 

@@ -46,7 +46,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_zaehlerwechselprotokoll_und_displayanzeige.docx`](12_zaehlerwechselprotokoll_und_displayanzeige.docx) | Zählerwechselprotokoll mit Geräte- und Portalangaben |
 | [`13_email_plattform_preisaenderung_und_kuendigung.eml`](13_email_plattform_preisaenderung_und_kuendigung.eml) | Plattformmail zur Aktivierung und angekündigten Abbuchung |
 | [`14_messwerte_und_portalereignisse_roh.csv`](14_messwerte_und_portalereignisse_roh.csv) | Unbearbeitete Mess- und Portalereignisse |
-| [`15_telefonvermerk_rhein_inkasso_2026-08-20.md`](15_telefonvermerk_rhein_inkasso_2026-08-20.md) | Eigene Gesprächsnotiz Eßwein zum Telefonat mit Rhein Inkasso über Forderung und Aktivierungsprotokoll |
+| [`15_telefonvermerk_rhein_inkasso_2026-08-20.docx`](15_telefonvermerk_rhein_inkasso_2026-08-20.docx) | Eigene Gesprächsnotiz Eßwein zum Telefonat mit Rhein Inkasso über Forderung und Aktivierungsprotokoll |
 | [`16_sms_verlauf_tilman_jonas_juni_bis_august_2026.txt`](16_sms_verlauf_tilman_jonas_juni_bis_august_2026.txt) | SMS-Export Vater und Sohn vom Zählerwechsel bis zum Inkassobrief |
 | [`17_kontoauszug_esswein_juli_august_2026.csv`](17_kontoauszug_esswein_juli_august_2026.csv) | Kontoumsätze mit Lastschrift und Rückgabe der 26,70 Euro |
 

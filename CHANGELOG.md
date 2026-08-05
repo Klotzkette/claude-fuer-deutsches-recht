@@ -1,3 +1,15 @@
+# v437.0.0 - Testakten ausgebaut: 511 fragmentarische Primärstücke in 267 Akten
+
+- Die Testakten waren an vielen Stellen zu glatt und zu dünn: Wo im Anwaltsalltag E-Mail-Wechsel, Telefonvermerke, Kontoauszüge, Chatverläufe und Zwischennachrichten der Gerichte und Behörden anfallen, lag in den Akten oft nur das förmliche Kernstück. Diese Runde ergänzt 511 neue Primär-Aktenstücke in 267 der 302 Akten.
+- Verteilung der Gattungen: 214 E-Mails mit vollständigen Kopfzeilen und Alltagston, 166 Schriftstücke (Telefon- und Aktenvermerke, Mahnungen, Rechnungen, Zustellnachweise, Zwischennachrichten, Abschriften handschriftlicher Notizzettel, Protokollfragmente), 85 Tabellen mit Zahlenwerk (Kontoauszüge, Zugriffs- und Eventlogs, Fristenlisten, Messreihen) und 46 Chat- und SMS-Exporte.
+- Der Ausbau folgt dem Aktenumfang: dünne Akten unter fünfzehn Stücken erhielten drei neue Belege, mittlere zwei, große eines. Neue Stücke sind absichtlich fragmentarisch: unvollständige Verläufe, abgeschnittene Screenshots, widersprüchliche Detailangaben, Zahlenlücken, alltagssprachliche Verkürzungen. Sie enthalten ausschließlich Tatsachen und Stimmen der Beteiligten.
+- Keine Lösungshinweise: Kein neues Stück enthält rechtliche Bewertung, Subsumtion, Arbeitsauftrag oder Prüfungshinweise. Namen, Daten, Beträge und Aktenzeichen sind aus dem jeweiligen Bestand übernommen; neue Nebenpersonen und Nebenschauplätze bleiben widerspruchsfrei zum vorhandenen Material.
+- Alle neuen Markdown-Stücke wurden in DOCX mit Hausformat konvertiert (Times New Roman 11 pt, A4, dezimale Gliederung), Briefköpfe nach Absenderklasse gesetzt und die Gesamt-PDFs der betroffenen Akten neu gebaut. Akten-READMEs führen jedes neue Stück in ihrer Dokumentliste.
+- Validatoren grün: Eval 302 All-Pass, Dokumentqualität (1024 formale Dokumente, 7580 Exportdateien), CSV-Prüfung (567 Tabellen), Keine-Markdown-Aktenstücke, Gesamt-PDF, Struktur, Navigation, Marketplace. Zwei Umlaut-Ersatzschreibungen und eine Spaltenverschiebung in einem Tachographenauszug wurden korrigiert. Versions-Bump auf v437.0.0.
+- Offen für die nächste Runde: 35 Akten aus dem letzten Bearbeitungsblock haben noch keine neuen Stücke erhalten.
+
+---
+
 # v436.1.0 - Themenprofile gesplittet: kein Sammelprofil mehr über acht Plugins
 
 - Die Werkstatt- und Schnellstart-Prompts wurden bisher aus 75 Themenprofilen erzeugt, von denen acht als Sammelbecken dienten: verwaltung bediente 37 Plugins, bgb 16, gesellschaft 14, straf 13, methodik 12, zivilprozess, international und insolvenz je 9. Plugins wie Beamtenrecht, Versammlungsrecht und Tierschutzrecht bekamen denselben fachlichen Anker.

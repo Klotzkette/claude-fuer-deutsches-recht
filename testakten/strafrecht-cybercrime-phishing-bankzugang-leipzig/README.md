@@ -112,6 +112,6 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`17_email_kontoinhaber_sms_und_anruf.eml`](17_email_kontoinhaber_sms_und_anruf.eml) | Kontoinhabermail zum konkreten Anruf und SMS-Code |
 | [`18_login_und_transaktionsereignisse_roh.csv`](18_login_und_transaktionsereignisse_roh.csv) | Unveränderte Login- und Transaktionsereignisse |
 | [`eml/2026-07-13_sta_zwischennachricht_asservate.eml`](eml/2026-07-13_sta_zwischennachricht_asservate.eml) | Zwischennachricht der Staatsanwaltschaft zu Akteneinsicht, Sonderband EDV, Asservaten und verlängerter Frist |
-| [`19_telefonvermerk_peukert_kontaktversuch_riko.md`](19_telefonvermerk_peukert_kontaktversuch_riko.md) | Telefonvermerk der Verteidigung zu einem Kontaktversuch mit ausländischer Nummer und Angaben zur Provision |
+| [`19_telefonvermerk_peukert_kontaktversuch_riko.docx`](19_telefonvermerk_peukert_kontaktversuch_riko.docx) | Telefonvermerk der Verteidigung zu einem Kontaktversuch mit ausländischer Nummer und Angaben zur Provision |
 
 <!-- END nachgereichte-originalunterlagen -->

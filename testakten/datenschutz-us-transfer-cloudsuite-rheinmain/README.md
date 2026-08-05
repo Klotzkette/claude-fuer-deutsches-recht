@@ -48,7 +48,7 @@ Im Mai 2026 fragt die hessische Datenschutzaufsicht nach, auf welcher Grundlage 
 | `09_antwortentwurf_aufsichtsbehoerde.docx` | Antwortentwurf an die Behörde |
 | `10_massnahmenplan_reviewkalender.docx` | Maßnahmenplan und Wiedervorlage |
 | `11_email_anbieter_dpf_zusage_2026-04-03.eml` | E-Mail-Wechsel Einkauf/Anbieter mit der DPF-Zusage und unbeantworteter Rechtsträgerfrage |
-| `12_telefonvermerk_hbdi_2026-05-26.md` | Telefonvermerk mit der Aufsichtsbehörde zu Einreichungsform, Schwärzungen und Beschwerdehintergrund |
+| `12_telefonvermerk_hbdi_2026-05-26.docx` | Telefonvermerk mit der Aufsichtsbehörde zu Einreichungsform, Schwärzungen und Beschwerdehintergrund |
 | `13_ticketstichprobe_freitextfelder_2026-05.csv` | Stichprobe von Supporttickets mit Freitext-Fehlbefüllungen und ReplyPilot-Übermittlungsstatus |
 
 ## Vorführziele

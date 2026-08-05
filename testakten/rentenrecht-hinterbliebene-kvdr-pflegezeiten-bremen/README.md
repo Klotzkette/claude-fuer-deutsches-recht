@@ -45,9 +45,9 @@ rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
 ├── 10_kontoauszug_zahlungseingaenge.txt         ← Zahlungseingänge Juni 2026 mit Notiz der Mandantin
 ├── 11_email_nachfragen_tochter.eml              ← Fragen der Tochter, Zeugin für den Erhebungsbogen 2023
 ├── 12_kvdr_vorversicherung_datenkern.csv        ← Datenkern: Rahmenfrist, Belegungszeiten, Kindererziehung; Neun-Zehntel-Belegung nachrechenbar
-├── 13_anwaltliche_stellungnahme_kvdr_2026-07-03.md ← Stellungnahme an die Krankenkasse: Kindererziehung führt über die Schwelle
-├── 14_drv_bescheinigung_kindererziehungszeiten_2026-06-29.md ← DRV-Bescheinigung der drei Kindererziehungszeiten
-├── 15_telefonvermerk_drv_widerspruch_2026-07-10.md ← Telefonat mit dem Fachreferat: Anlage zur Anrechnung folgt, Verläufe getrennt, Zahlung läuft weiter
+├── 13_anwaltliche_stellungnahme_kvdr_2026-07-03.docx ← Stellungnahme an die Krankenkasse: Kindererziehung führt über die Schwelle
+├── 14_drv_bescheinigung_kindererziehungszeiten_2026-06-29.docx ← DRV-Bescheinigung der drei Kindererziehungszeiten
+├── 15_telefonvermerk_drv_widerspruch_2026-07-10.docx ← Telefonat mit dem Fachreferat: Anlage zur Anrechnung folgt, Verläufe getrennt, Zahlung läuft weiter
 ├── rubric.yaml                                  ← Prüfkriterien für die Bearbeitung
 ├── eml/
     ├── 01_weser_kk_kvdr_ueberpruefung.eml       ← Krankenkasse: Vorversicherungszeit angeblich nicht erfüllt (172 von 252)

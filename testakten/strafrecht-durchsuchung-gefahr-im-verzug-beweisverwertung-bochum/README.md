@@ -55,7 +55,7 @@ strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum/
 ├── 14_verteidigerschriftsatz_verwertungswiderspruch_2026-06-24.docx — Zeitketten-Argumentation, Verwertungsverbot, Fernwirkung, § 209 StPO
 ├── 15_stellungnahme_sta_2026-06-30.docx                            — Organisationsversagen statt Umgehung, hypothetisch rechtmäßiger Verlauf, unabhängige Beweise
 ├── 16_gerichtlicher_hinweis_lg_bochum_2026-07-02.docx              — Vorläufige Kammerbewertung und Aufklärungsauflagen nach § 202 StPO
-├── 17_besuchsvermerk_jva_kowalczik_2026-07-17.md                   — Besuchsvermerk der Verteidigerin: Schilderung des Mandanten, wechselnde Angaben zum Notizbuch
+├── 17_besuchsvermerk_jva_kowalczik_2026-07-17.docx                   — Besuchsvermerk der Verteidigerin: Schilderung des Mandanten, wechselnde Angaben zum Notizbuch
 ├── eml/
 │   ├── 2026-05-28_aksoy_verteidigungsanzeige_akteneinsicht.eml     — Verteidigungsanzeige mit gezielter Anforderung der Eilanordnungs-Dokumentation
 │   ├── 2026-06-05_aksoy_anfrage_ag_bochum_dienstplan.eml           — Anfrage nach § 475 StPO zur Erreichbarkeit des Bereitschaftsrichters

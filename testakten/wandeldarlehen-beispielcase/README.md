@@ -65,7 +65,7 @@ Im Februar 2027 startet Sonnenglas eine **Seed-Runde** mit dem Lead-Investor **P
 | --- | --- | --- |
 | [Email-CP-Erfuellung-Auszahlung-Northstar.eml](Email-CP-Erfuellung-Auszahlung-Northstar.eml) | E-Mail Schöneck an Northstar vom 11. Mai 2026: CP-Unterlagen, ausstehende D&O-Bestätigung, Bitte um Auszahlung der EUR 250.000 | [.eml](Email-CP-Erfuellung-Auszahlung-Northstar.eml) |
 | [Kontoauszug-Sonnenglas-Mai-2026.csv](Kontoauszug-Sonnenglas-Mai-2026.csv) | Kontoauszug Berliner Sparkasse Mai 2026 mit Darlehenseingang am 20. Mai 2026 und laufenden Betriebsausgaben | [.csv](Kontoauszug-Sonnenglas-Mai-2026.csv) |
-| [Telefonvermerk-Notariat-Beurkundungstermin.md](Telefonvermerk-Notariat-Beurkundungstermin.md) | Vermerk vom 18. Februar 2027 zur Terminabstimmung mit dem Notariat Wendthusen, Unterlagenliste und offene Vollmachtsfragen | [.md](Telefonvermerk-Notariat-Beurkundungstermin.md) |
+| [Telefonvermerk-Notariat-Beurkundungstermin.docx](Telefonvermerk-Notariat-Beurkundungstermin.docx) | Vermerk vom 18. Februar 2027 zur Terminabstimmung mit dem Notariat Wendthusen, Unterlagenliste und offene Vollmachtsfragen | [.md](Telefonvermerk-Notariat-Beurkundungstermin.docx) |
 
 ## Eckdaten (Quick Reference)
 

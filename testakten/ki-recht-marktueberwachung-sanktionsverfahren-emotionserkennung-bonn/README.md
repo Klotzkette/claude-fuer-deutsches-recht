@@ -54,7 +54,7 @@ ki-recht-marktueberwachung-sanktionsverfahren-emotionserkennung-bonn/
 ├── 12_normstand_vermerk_bnetza_2026-06-10.docx                    — Normstand der KI-Verordnung, Omnibus-Vorbehalt, Verifikationsanordnung
 ├── 13_entwurf_untersagungs_und_bussgeldverfuegung_2026-06-15.docx — Entwurf: Untersagung, Löschung, Geldbußen 420.000/260.000 EUR, Begründung
 ├── 14_verteidigungsschrift_senticore_2026-06-29.docx              — Verteidigung: Zweckbestimmung, „eigenmächtiger" Vertrieb, Zumessungsrügen
-├── 15_telefonvermerk_bnetza_fristverlaengerung_2026-06-17.md      — Behördenvermerk: Fristverlängerung für SentiCore, Freistellung Brockschnieder, Gesprächsangebot
+├── 15_telefonvermerk_bnetza_fristverlaengerung_2026-06-17.docx      — Behördenvermerk: Fristverlängerung für SentiCore, Freistellung Brockschnieder, Gesprächsangebot
 ├── eml/
 │   ├── 2025-06-18_brockschnieder_pitch_an_telavena.eml            — Übersendung des Pitchdecks samt „Wellbeing-Programm"-Kommunikationsempfehlung
 │   ├── 2026-02-25_bnetza_eingangsbestaetigung_karahan.eml         — Eingangsbestätigung der Behörde mit Verfahrenshinweisen

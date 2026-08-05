@@ -1,6 +1,6 @@
 # strafbefehl-verteidiger
 
-**61 Skills** · Stand `v436.1.0`
+**61 Skills** · Stand `v437.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../strafbefehl-verteidiger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

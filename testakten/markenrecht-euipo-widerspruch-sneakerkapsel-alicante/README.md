@@ -46,6 +46,6 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_email_vertrieb_archivkarton_und_spanienbeleg.eml`](13_email_vertrieb_archivkarton_und_spanienbeleg.eml) | Vertriebsmail zu Spaniengeschäft, Retouren und Archivfund |
 | [`14_rohverkaufsliste_kapsel42_2021_2026.csv`](14_rohverkaufsliste_kapsel42_2021_2026.csv) | Unbereinigte Verkaufsbelege mit Fundstellen |
 | [`eml/2026-07-14_llorca_vidal_antwort_cooling_off.eml`](eml/2026-07-14_llorca_vidal_antwort_cooling_off.eml) | Antwort der Gegenvertreter Llorca & Vidal auf den Cooling-off-Vorschlag mit Gegenforderungen |
-| [`15_telefonvermerk_cordsen_vidal_antwort_2026-07-16.md`](15_telefonvermerk_cordsen_vidal_antwort_2026-07-16.md) | Telefonvermerk Dr. Mertens/Cordsen zur Vidal-Antwort, Spanienplänen und Belegstand |
+| [`15_telefonvermerk_cordsen_vidal_antwort_2026-07-16.docx`](15_telefonvermerk_cordsen_vidal_antwort_2026-07-16.docx) | Telefonvermerk Dr. Mertens/Cordsen zur Vidal-Antwort, Spanienplänen und Belegstand |
 
 <!-- END nachgereichte-originalunterlagen -->

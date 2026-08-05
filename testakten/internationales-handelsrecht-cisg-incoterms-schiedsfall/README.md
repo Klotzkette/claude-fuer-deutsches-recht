@@ -46,7 +46,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_wareneingangspruefung_turbinenlager.docx`](12_wareneingangspruefung_turbinenlager.docx) | Werkseitige Wareneingangsprüfung mit Messwerten und Sicherungszustand |
 | [`13_email_spedition_umschlag_rotterdam.eml`](13_email_spedition_umschlag_rotterdam.eml) | Speditionsmail zu Umschlag und Wetterereignis |
 | [`14_lieferlose_messwerte_transport.csv`](14_lieferlose_messwerte_transport.csv) | Rohdaten der betroffenen und unauffälligen Lieferteile |
-| [`15_telefonvermerk_transportversicherer.md`](15_telefonvermerk_transportversicherer.md) | Telefonvermerk Holst/Reimers/Paulsen zu fehlenden Unterlagen, Trocknungsfreigabe und Deckungsvorbehalt |
+| [`15_telefonvermerk_transportversicherer.docx`](15_telefonvermerk_transportversicherer.docx) | Telefonvermerk Holst/Reimers/Paulsen zu fehlenden Unterlagen, Trocknungsfreigabe und Deckungsvorbehalt |
 | [`16_email_brueggemann_linie2_ersatzlager.eml`](16_email_brueggemann_linie2_ersatzlager.eml) | Interne Produktionsmail zu Stillstand Linie 2, Baltic-Motion-Bestellung und montierten Einheiten |
 | [`17_stillstand_ersatzbeschaffung_linie2_roh.csv`](17_stillstand_ersatzbeschaffung_linie2_roh.csv) | Rohliste Ersatzbeschaffung, Zuschläge und Stillstands-Planwerte Linie 2 |
 

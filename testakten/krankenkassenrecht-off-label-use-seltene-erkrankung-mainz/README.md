@@ -33,7 +33,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_neurologischer_verlaufsbericht_neravexor.docx`](13_neurologischer_verlaufsbericht_neravexor.docx) | Ausführlicher neurologischer Verlaufsbericht mit Vorbehandlungen |
 | [`14_email_klinikapotheke_beschaffung_und_kosten.eml`](14_email_klinikapotheke_beschaffung_und_kosten.eml) | Apothekenmail zu konkreter Beschaffung und Kühlkette |
 | [`15_verlauf_labor_gehstrecke_2025_2026.csv`](15_verlauf_labor_gehstrecke_2025_2026.csv) | Zeitlich geordnete Rohwerte ohne Wirksamkeitsprognose |
-| [`16_telefonvermerk_unimedizin_therapieslot.md`](16_telefonvermerk_unimedizin_therapieslot.md) | Telefonat mit der Spezialambulanz vom 02.07.2026 zu Aufnahme, Fristen und Zusatzstellungnahme |
+| [`16_telefonvermerk_unimedizin_therapieslot.docx`](16_telefonvermerk_unimedizin_therapieslot.docx) | Telefonat mit der Spezialambulanz vom 02.07.2026 zu Aufnahme, Fristen und Zusatzstellungnahme |
 | [`17_haushaltsuebersicht_familie_tunc.csv`](17_haushaltsuebersicht_familie_tunc.csv) | Einnahmen, Ausgaben und Vermögen der Eheleute Tunc mit Belegstand |
 
 <!-- END nachgereichte-originalunterlagen -->

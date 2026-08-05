@@ -52,7 +52,7 @@ ki-recht-verbotene-praktik-social-scoring-abgrenzung-kommune-chemnitz/
 ├── 10_anhoerung_bundesnetzagentur_2026-06.docx            — Anhörung der Marktüberwachungsbehörde, Fragenkatalog, Untersagungshinweis
 ├── 11_dsgvo_parallelvermerk_2026-06.docx                  — Datenschutzrechtliche Parallelbewertung (Zweckbindung, Rechtsgrundlage, DSFA)
 ├── 12_normstand_vermerk_2026-07-01.docx                   — Rechtsstand KI-Verordnung, Omnibus-Vorbehalt, Verifikationsanordnung
-├── 13_telefonvermerk_bnetza_2026-06-24.md                 — Telefonat Rechtsamt/Bundesnetzagentur zu Frist, Vergleichsrechnung und Konnektor-Deaktivierung
+├── 13_telefonvermerk_bnetza_2026-06-24.docx                 — Telefonat Rechtsamt/Bundesnetzagentur zu Frist, Vergleichsrechnung und Konnektor-Deaktivierung
 ├── eml/
 │   ├── 2025-12-03_semmler_an_achterberg_konnektoren.eml   — Projektleitung wünscht fachfremde Konnektoren trotz Zusage an den Rat
 │   ├── 2025-12-05_achterberg_antwort_konnektoren.eml      — Dienstleister warnt vor verbotener sozialer Bewertung

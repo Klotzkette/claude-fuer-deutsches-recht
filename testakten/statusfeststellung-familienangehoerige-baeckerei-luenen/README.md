@@ -34,7 +34,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`14_email_tochter_dienstplan_und_vertretung.eml`](14_email_tochter_dienstplan_und_vertretung.eml) | Eigenständige E-Mail zu tatsächlich gelebtem Dienstplan |
 | [`15_dienstplaene_und_rechnungen_roh.csv`](15_dienstplaene_und_rechnungen_roh.csv) | Wochenwerte aus Plänen und Rechnungsjournal |
 | [`16_familienchat_dienstplan_export.txt`](16_familienchat_dienstplan_export.txt) | Chat-Export der Familiengruppe mit Dienstplänen, abgelehntem Urlaub und Vertretung Frau Rüß |
-| [`17_telefonvermerk_drv_clearingstelle.md`](17_telefonvermerk_drv_clearingstelle.md) | Telefonvermerk Groß/Behrend zu Fristverlängerung bis 05.08.2026 und nachgeforderten Aufzeichnungen |
+| [`17_telefonvermerk_drv_clearingstelle.docx`](17_telefonvermerk_drv_clearingstelle.docx) | Telefonvermerk Groß/Behrend zu Fristverlängerung bis 05.08.2026 und nachgeforderten Aufzeichnungen |
 | [`18_fremdkunden_rechnungsjournal_roh.csv`](18_fremdkunden_rechnungsjournal_roh.csv) | Rechnungsjournal Kleinschmidt Büroservice mit Fremdkunden und offener Juni-Rechnung |
 
 <!-- END nachgereichte-originalunterlagen -->

@@ -42,7 +42,7 @@ sozialrecht-schwerbehindertenverfahren-gdb-merkzeichen-münster/
 ├── 12a_uebersendung_akteneinsicht_stadt_muenster.docx   <- Eigenständiges Übersendungsschreiben zur Akteneinsicht
 ├── 12b_versorgungsaerztliche_stellungnahme_2026-06-12.docx <- Gesonderte versorgungsärztliche Stellungnahme
 ├── 13_orthopaedie_befundbericht.docx                    <- Nachgereichter orthopädischer Befund
-├── 14_zwischennachricht_stadt_widerspruch_2026-07-06.md <- Eingangsbestätigung der Stadt mit Hinweisen zum Verfahrensgang
+├── 14_zwischennachricht_stadt_widerspruch_2026-07-06.docx <- Eingangsbestätigung der Stadt mit Hinweisen zum Verfahrensgang
 ├── 15_email_bertram_an_kanzlei_2026-07-16.eml           <- E-Mail der Mandantin zu Fußbefund, Sturz vom 22.04. und Rentenfrage
 ├── 16_gehstrecken_handyapp_export.csv                   <- Export der Handy-App mit Wegstrecken, Zeiten und Pausen
 └── gesamt-pdf/                                        <- konsolidierte Lesefassung als PDF

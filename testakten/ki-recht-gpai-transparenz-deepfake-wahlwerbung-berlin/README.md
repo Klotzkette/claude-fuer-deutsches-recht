@@ -54,7 +54,7 @@ ki-recht-gpai-transparenz-deepfake-wahlwerbung-berlin/
 ├── 12_antwort_kampagnenschmiede_2026-06-29.docx                   — Antwort des Integrators: AGB-Abwälzung, Zahlen zu „clean_master", Sofortmaßnahmen
 ├── 13_plattform_korrespondenz_klipstream_2026-06.docx             — DSA-Meldung, Zwischennachricht, Entfernungsentscheidung, Reichweiten-Auskunft
 ├── 14_normstand_vermerk_2026-07-02.docx                           — Normstand: zeitliche Anwendbarkeit der Transparenzpflichten, Omnibus-Vorbehalt
-├── 15_rechnung_spreekontor_phase2_2026-06-05.md                   — Rechnung der Agentur an den Verein: Produktionspositionen, weiterberechnetes SzenenWerk-Kontingent
+├── 15_rechnung_spreekontor_phase2_2026-06-05.docx                   — Rechnung der Agentur an den Verein: Produktionspositionen, weiterberechnetes SzenenWerk-Kontingent
 ├── eml/
 │   ├── 2026-05-11_auftrag_stadtwende_an_spreekontor.eml           — Auftrag des Vereins: „Moment des Zweifels" als gekaufter Effekt
 │   ├── 2026-05-15_spreekontor_rueckfrage_kennzeichnung.eml        — Agentur empfiehlt Veröffentlichung ohne Wasserzeichen, „nachschärfen" bei Rückfragen

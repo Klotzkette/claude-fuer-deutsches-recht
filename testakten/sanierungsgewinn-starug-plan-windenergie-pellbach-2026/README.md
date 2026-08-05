@@ -106,7 +106,7 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 ├── 15_finanzplan_und_liquiditaetsmatrix_2026.csv
 ├── 16_glaeubigerverzeichnis_starug.csv
 ├── 17_email_nordkurland_bank_planvollzug.eml      ← Konsortialführerin zu Beurkundungstermin, Vollzugsunterlagen und Stundungskonten nach Rechtskraft
-└── 18_telefonvermerk_finanzamt_cottbus_rueckfragen.md ← Telefonat mit dem FA Cottbus vom 16.07.2026 zu Auskunftsstand, Anlage 12 und Gebühr
+└── 18_telefonvermerk_finanzamt_cottbus_rueckfragen.docx ← Telefonat mit dem FA Cottbus vom 16.07.2026 zu Auskunftsstand, Anlage 12 und Gebühr
 ```
 
 ## Quellennachweis (Rechtsnormen und Rechtsprechung)

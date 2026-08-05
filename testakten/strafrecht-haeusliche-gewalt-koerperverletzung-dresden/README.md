@@ -77,7 +77,7 @@ strafrecht-haeusliche-gewalt-koerperverletzung-dresden/
 ├── 10_polizeilicher_einsatzbericht_2026-06-04.docx                   — Einsatzbericht vom Tatabend mit Erstangaben und Nachbarzeugen
 ├── 11_beschuldigteneinlassung_verteidiger_2026-06-22.docx           — Schriftliche Einlassung des Beschuldigten über seinen Verteidiger
 ├── 12_eskalationschronologie_2026-03-22_bis_2026-06-06.csv           — Chronologie aus Notrufen, Einsätzen, Beratungen und Klinikaufnahme; Kern der Eskalationsauswertung
-├── 14_abschrift_notizzettel_krueger_kontaktversuche.md               — Abschrift eines handschriftlichen Merkzettels der Geschädigten zu Kontaktversuchen nach der Wegweisung
+├── 14_abschrift_notizzettel_krueger_kontaktversuche.docx               — Abschrift eines handschriftlichen Merkzettels der Geschädigten zu Kontaktversuchen nach der Wegweisung
 ├── eml/
 │   ├── 2026-06-06_polizei_gefaehrderansprache_vermerk.eml            — Vermerk zur Gefährderansprache mit Bestreiten früherer Einsätze
 │   ├── 2026-06-08_klinikum_attestuebersendung.eml                    — Übersendung des ärztlichen Befundes durch die Notaufnahme

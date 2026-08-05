@@ -48,6 +48,6 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`14_betroffenenbuchungen_rohdaten_auszug.csv`](14_betroffenenbuchungen_rohdaten_auszug.csv) | Noch unbereinigte Buchungen aus dem Betroffenenpostfach |
 | [`15_email_maass_aufgabenboard_2026-07-16.eml`](15_email_maass_aufgabenboard_2026-07-16.eml) | Private Mail von Dennis Maaß mit Board-Tickets FIT-2311 und FIT-2340 und Bitte um Vertraulichkeitszusage |
 | [`16_hotline_rueckrufliste_meldungen_2026-07.csv`](16_hotline_rueckrufliste_meldungen_2026-07.csv) | Rückrufliste der Hotline mit fünf neuen Meldungen ABO-851 bis ABO-855, teils lückenhaft |
-| [`17_abschrift_notizzettel_besprechung_2026-07-17.md`](17_abschrift_notizzettel_besprechung_2026-07-17.md) | Abschrift eines handschriftlichen Besprechungszettels Brüggemann/Mäßler zum Stand des Betroffenenpools |
+| [`17_abschrift_notizzettel_besprechung_2026-07-17.docx`](17_abschrift_notizzettel_besprechung_2026-07-17.docx) | Abschrift eines handschriftlichen Besprechungszettels Brüggemann/Mäßler zum Stand des Betroffenenpools |
 
 <!-- END nachgereichte-originalunterlagen -->

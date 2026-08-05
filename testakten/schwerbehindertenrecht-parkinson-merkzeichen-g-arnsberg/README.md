@@ -78,7 +78,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_physiotherapie_gehstreckenbericht.docx`](16_physiotherapie_gehstreckenbericht.docx) | Physiotherapeutischer Bericht mit gemessenen Strecken und Freezing |
 | [`17_email_ehefrau_stuerze_wege.eml`](17_email_ehefrau_stuerze_wege.eml) | Ehegattenmail mit konkreten Alltagssituationen |
 | [`18_sturz_und_gehprotokoll_roh.csv`](18_sturz_und_gehprotokoll_roh.csv) | Zeitnah geführtes Sturz- und Gehprotokoll |
-| [`19_telefonvermerk_zeugin_yilmaz_sturz.md`](19_telefonvermerk_zeugin_yilmaz_sturz.md) | Telefonvermerk des Bevollmächtigten zur Nachbarin als Zeugin des Sturzes vom 3. Juni |
+| [`19_telefonvermerk_zeugin_yilmaz_sturz.docx`](19_telefonvermerk_zeugin_yilmaz_sturz.docx) | Telefonvermerk des Bevollmächtigten zur Nachbarin als Zeugin des Sturzes vom 3. Juni |
 | [`eml/04_widerspruchsstelle_zwischennachricht.eml`](eml/04_widerspruchsstelle_zwischennachricht.eml) | Zwischennachricht der Widerspruchsstelle: Abgabe an den versorgungsärztlichen Dienst und Unterlagenanforderung |
 
 <!-- END nachgereichte-originalunterlagen -->
