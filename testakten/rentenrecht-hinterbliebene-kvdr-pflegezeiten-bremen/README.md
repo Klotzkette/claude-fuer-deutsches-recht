@@ -47,11 +47,13 @@ rentenrecht-hinterbliebene-kvdr-pflegezeiten-bremen/
 ├── 12_kvdr_vorversicherung_datenkern.csv        ← Datenkern: Rahmenfrist, Belegungszeiten, Kindererziehung; Neun-Zehntel-Belegung nachrechenbar
 ├── 13_anwaltliche_stellungnahme_kvdr_2026-07-03.md ← Stellungnahme an die Krankenkasse: Kindererziehung führt über die Schwelle
 ├── 14_drv_bescheinigung_kindererziehungszeiten_2026-06-29.md ← DRV-Bescheinigung der drei Kindererziehungszeiten
+├── 15_telefonvermerk_drv_widerspruch_2026-07-10.md ← Telefonat mit dem Fachreferat: Anlage zur Anrechnung folgt, Verläufe getrennt, Zahlung läuft weiter
 ├── rubric.yaml                                  ← Prüfkriterien für die Bearbeitung
 ├── eml/
     ├── 01_weser_kk_kvdr_ueberpruefung.eml       ← Krankenkasse: Vorversicherungszeit angeblich nicht erfüllt (172 von 252)
     ├── 02_kanzlei_an_weser_kk_kindererziehung.eml ← Kanzlei: drei Kinder mal drei Jahre erfüllen die Schwelle
     ├── 03_pflegekasse_erhebungsbogen.eml        ← Pflegekasse zur Beitragslücke 07/2023 bis 11/2023 und zur Zeugin
+    ├── 04_weser_kk_geburtsurkunden_nachforderung.eml ← Krankenkasse fordert Geburtsurkunden nach und fragt nach Beschäftigung 1988 bis 1991
     └── chatverlauf_geschwister_bruns.txt        ← WhatsApp-Export der drei Kinder zur Suche der Geburtsurkunden
 ```
 

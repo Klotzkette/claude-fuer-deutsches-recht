@@ -135,6 +135,7 @@ Arbeitsakte zum Plugin `hausarbeitenmacher`.
 | [`emails/2026-05-08_lehrstuhl_an_pohlmann_klarstellung.eml`](emails/2026-05-08_lehrstuhl_an_pohlmann_klarstellung.eml) | Klarstellung Lehrstuhl (Dr. Klausberg) zu Rückfragen |
 | [`emails/2026-05-22_pohlmann_an_familie_zeitdruck.eml`](emails/2026-05-22_pohlmann_an_familie_zeitdruck.eml) | Pohlmann an Familie — Zeitdruck, Korrekturstand |
 | [`emails/2026-06-04_pohlmann_an_pruefungssekretariat_abgabe.eml`](emails/2026-06-04_pohlmann_an_pruefungssekretariat_abgabe.eml) | Ankündigung Abgabe an Prüfungssekretariat |
+| [`emails/2026-07-20_lehrstuhl_an_studenten_rueckgabe_besprechung.eml`](emails/2026-07-20_lehrstuhl_an_studenten_rueckgabe_besprechung.eml) | Rundmail des Lehrstuhls: Rückgabe, Notenstatistik, Besprechungs- und Klausurtermin |
 
 ### PDFs
 
