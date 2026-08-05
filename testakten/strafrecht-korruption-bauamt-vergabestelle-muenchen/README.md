@@ -108,5 +108,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_vergabeakte_eingang_angebote_und_bewirtung.docx`](16_vergabeakte_eingang_angebote_und_bewirtung.docx) | Vergabeaktenvermerk zu Dateien, Terminen und Bewertungsständen |
 | [`17_email_bieter_rechnung_mittagessen.eml`](17_email_bieter_rechnung_mittagessen.eml) | Originale interne Bietermail zum unvollständigen Bewirtungsbeleg |
 | [`18_angebote_bewertung_versionen_roh.csv`](18_angebote_bewertung_versionen_roh.csv) | Angebots- und Matrixversionen ohne vorweggenommene Würdigung |
+| [`19_kontoauszug_eberl_oktober_november_2025.csv`](19_kontoauszug_eberl_oktober_november_2025.csv) | Kontoumsätze Eberl mit Gutschrift Beratungshonorar und Weiterleitung aufs Sparkonto |
+| [`20_anhoerung_baureferat_disziplinarverfahren_2026-06-28.md`](20_anhoerung_baureferat_disziplinarverfahren_2026-06-28.md) | Anhörungsschreiben des Baureferats zur Einleitung und Aussetzung des Disziplinarverfahrens |
 
 <!-- END nachgereichte-originalunterlagen -->

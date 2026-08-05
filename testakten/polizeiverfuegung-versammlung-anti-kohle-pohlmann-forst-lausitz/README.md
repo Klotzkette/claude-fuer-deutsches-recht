@@ -71,6 +71,8 @@ Die Initiative Lausitzer Lebensraum e.V. meldet für den 17. Juni 2026 in Forst 
 24. Vorbereitung Fortsetzungsfeststellungsklage (Wiederholungsgefahr + Rehabilitation)
 25. Pressespiegel Lausitzer Rundschau, Maerkische Allgemeine, Tagesspiegel, RBB
 26. Verhältnismäßigkeitsprüfung Klausurspur (vier Stufen pro Auflage)
+27. E-Mail Ordnungsamt Forst 12.06.: praktische Abstimmung Marktplatz zwischen Spargelmarkt und Versammlung
+28. Pegelmessprotokoll der Polizei vom Versammlungstag 13.06. (CSV, Messpunkt Berliner Straße 47)
 
 ## Normen und Rechtsprechung
 

@@ -38,6 +38,7 @@ sozialrecht-rollstuhl-tannenberg/
 ├── Familien-Stammbaum.docx                              <- Verwandtschaft, Haushalte, Versicherungen, PKH-Lage
 ├── Fristen_Familie_Tannenberg.xlsx                    <- Fristenübersicht als Tabelle mit Verfahrensverlauf
 ├── Fristen_Familie_Tannenberg.docx                      <- Lesefassung der Fristen-XLSX
+├── Email_Sanitaetshaus_Olaf_Rollstuhl_12-08-2026.eml    <- Sanitätshaus zu abgelaufenem Kostenvoranschlag, Lieferzeit und untauglicher Leihversorgung
 ├── 01-olaf-rollstuhl/                                 <- Hilfsmittelstreit Aktivrollstuhl (SGB V)
 │   ├── Notiz_Kanzlei_Erstgespraech.txt                <- Erstgespräch und Auftragsklärung
 │   ├── Verordnung_Muster16_09-02-2026.docx            <- Ärztliche Verordnung des Aktivrollstuhls

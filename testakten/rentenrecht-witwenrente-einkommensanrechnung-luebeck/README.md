@@ -48,10 +48,12 @@ rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 ├── 14_daenemark_mappe_nordbaltic_unterlagen.docx        # Abschrift der Mappe Dänemark 1984 bis 1986 (Lohnzettel, Besatzungslisten, Gewerkschaftsschreiben)
 ├── 15_widerspruchsbegruendung_anrechnung_2026-07-09.docx # Widerspruchsbegründung an die DRV Nord (Endprodukt)
 ├── 16_whatsapp_tochter_daenemark_ordner.txt             # Chat mit der Tochter zu dänischen Lohnzetteln und Geldsorgen
+├── 17_telefonvermerk_petersen_monatswert.md             # Telefonvermerk zum maschinellen Rechenlauf und zur Kontenklärung
 ├── eml/
 │   ├── 01_drv_nord_anrechnung_grundlagen.eml            # DRV Nord: Freibetrag, Gesamtbrutto und einbezogene Renten
 │   ├── 02_arbeitgeber_entgelt_klarstellung.eml          # Arbeitgeber: laufendes Entgelt gegen Einmalzahlungen
-│   └── 03_jessen_intern_anrechnung_nachgerechnet.eml    # Interner Rechenweg, warum 458.44 EUR nicht haltbar ist
+│   ├── 03_jessen_intern_anrechnung_nachgerechnet.eml    # Interner Rechenweg, warum 458.44 EUR nicht haltbar ist
+│   └── 04_atp_hilleroed_zwischenbescheid.eml            # ATP Hillerød: erfasste Beitragszeiten und Archivrecherche
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
@@ -81,6 +83,8 @@ rentenrecht-witwenrente-einkommensanrechnung-lübeck/
 | `eml/01_drv_nord_anrechnung_grundlagen.eml` | Grundlagen der Anrechnung laut DRV Nord |
 | `eml/02_arbeitgeber_entgelt_klarstellung.eml` | Laufendes Entgelt gegen Einmalzahlungen |
 | `eml/03_jessen_intern_anrechnung_nachgerechnet.eml` | Interne Nachrechnung des Anrechnungsbetrags |
+| `17_telefonvermerk_petersen_monatswert.md` | Telefonvermerk zum Rechenlauf der Anrechnung und zum Stand der Kontenklärung |
+| `eml/04_atp_hilleroed_zwischenbescheid.eml` | Zwischenbescheid der ATP Hillerød zu den dänischen Beitragszeiten |
 
 ## Bearbeitungsziel
 

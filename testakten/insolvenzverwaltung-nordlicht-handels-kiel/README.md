@@ -126,6 +126,7 @@ Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige For
 | `24_schlussbericht.docx` | Schlussbericht (Langfassung) |
 | `25_schlussverzeichnis.docx` | Schlussverzeichnis |
 | `26_aufhebungsbeschluss.docx` | Aufhebungsbeschluss |
+| `eml/06_antwort_finanzamt_steuererstattung.eml` | Antwort des Finanzamts zur Steuererstattung 2008–2012 und zu den Erstattungszinsen |
 | `emails/`, `eml/` | Korrespondenz Verwalter, Bank, WP, Finanzamt |
 | `csv/` | Forderungstabelle, Treuhandkonto-Bewegungen |
 | `xlsx/` | Masseentwicklung 2013-2024 |

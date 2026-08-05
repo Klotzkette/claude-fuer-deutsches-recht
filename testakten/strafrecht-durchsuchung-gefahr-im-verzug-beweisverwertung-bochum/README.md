@@ -55,10 +55,12 @@ strafrecht-durchsuchung-gefahr-im-verzug-beweisverwertung-bochum/
 ├── 14_verteidigerschriftsatz_verwertungswiderspruch_2026-06-24.docx — Zeitketten-Argumentation, Verwertungsverbot, Fernwirkung, § 209 StPO
 ├── 15_stellungnahme_sta_2026-06-30.docx                            — Organisationsversagen statt Umgehung, hypothetisch rechtmäßiger Verlauf, unabhängige Beweise
 ├── 16_gerichtlicher_hinweis_lg_bochum_2026-07-02.docx              — Vorläufige Kammerbewertung und Aufklärungsauflagen nach § 202 StPO
+├── 17_besuchsvermerk_jva_kowalczik_2026-07-17.md                   — Besuchsvermerk der Verteidigerin: Schilderung des Mandanten, wechselnde Angaben zum Notizbuch
 ├── eml/
 │   ├── 2026-05-28_aksoy_verteidigungsanzeige_akteneinsicht.eml     — Verteidigungsanzeige mit gezielter Anforderung der Eilanordnungs-Dokumentation
 │   ├── 2026-06-05_aksoy_anfrage_ag_bochum_dienstplan.eml           — Anfrage nach § 475 StPO zur Erreichbarkeit des Bereitschaftsrichters
-│   └── 2026-06-08_ag_bochum_antwort_dienstplan.eml                 — Antwort der Gerichtsverwaltung mit Kernaussagen zum Verbindungsprotokoll
+│   ├── 2026-06-08_ag_bochum_antwort_dienstplan.eml                 — Antwort der Gerichtsverwaltung mit Kernaussagen zum Verbindungsprotokoll
+│   └── 2026-07-14_sta_bochum_zwischennachricht_aufklaerungsauflagen.eml — Zwischennachricht der StA: Urlaub des Richters, gelöschte Verkehrsdaten, Nachtragsvermerk
 ├── whatsapp/
 │   └── chatverlauf.txt                                             — Chatexport vom sichergestellten Handy (Verkaufskommunikation, Folgebeweis-Frage)
 ├── rubric.yaml                                                     — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

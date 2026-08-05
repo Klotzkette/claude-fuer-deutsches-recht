@@ -65,6 +65,8 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | `beweismittel/` | AGB beide Parteien, Bestellbestätigung mit FOB Galway, Gutachten, Screenshots, Gerät-Spezifikation |
 | `output/` | Hier landen Relationsgutachten, Tenorentwurf, Urteilsentwurf, DOCX/PDF |
 | `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Workflow-Vermerk |
+| [`anlage_k5_email_support_lir_optics.eml`](anlage_k5_email_support_lir_optics.eml) | Support-Antwort der Beklagten zu Aufnahme-Symbol, Cloud-Buffering, Serverstandorten und Face Insights |
+| [`anlage_k6_messprotokoll_datenuebertragung.csv`](anlage_k6_messprotokoll_datenuebertragung.csv) | Roh-Messprotokoll des Sachverständigen zu Datenübertragungen des Testgeräts in die USA und nach Singapur |
 
 ## Bearbeitungsablauf
 

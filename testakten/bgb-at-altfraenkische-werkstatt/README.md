@@ -62,3 +62,5 @@ Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Onlin
 - 27_bestellbestaetigung_wendelbert_eisenhut_2026-04-15.docx
 - eml/24_altwerk_eingangsbestaetigung_2026-04-09.eml
 - eml/26_sms_export_theudelinde_2026-04-17.txt
+- eml/28_email_krummstab_preisberichtigung_2026-04-15.eml (Anbieterin beruft sich auf Verschreiber 1.480 statt 14.800 EUR und verweigert die Lieferung)
+- 29_mahnung_eisenhut_restbetrag_messingtypen_2026-05-08.md (Zahlungserinnerung über den offenen Restbetrag von 380 EUR mit Gesprächsnotizen zur Rückgabefrage)

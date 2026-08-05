@@ -68,6 +68,7 @@ eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/
 ├── 20_mandantenrundbrief_strassburger.docx
 ├── 21_strategiememorandum.docx
 ├── 22_fristenkalender.docx
+├── 23_terminsverfuegung_ag_koeln_16_06_2026.md   ← Verfügung im Räumungsverfahren: Zustellung, schriftliches Vorverfahren, Termin 22.09.2026, vorläufiger Streitwert
 │
 ├── docx/
 │   ├── eigenbedarfskuendigung_28_02_2026.docx

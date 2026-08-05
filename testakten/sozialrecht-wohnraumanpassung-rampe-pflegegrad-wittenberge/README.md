@@ -46,10 +46,12 @@ sozialrecht-wohnraumanpassung-rampe-pflegegrad-wittenberge/
 ├── 10_email_nachbarin_zugang.eml          <- Nachbarin zu Stürzen, Winter und Rampenakzeptanz
 ├── 11_pflegetagebuch_sturzliste.txt       <- Sturzliste und Pflegetagebuch der Tochter
 ├── 12_sozialamt_prignitz_zwischennachricht.docx <- Sozialamt zu Nachrang, Höchstzuschuss und Nachweisen
+├── 13_einkommen_vermoegen_nachweisliste.csv <- Von der Tochter zusammengestellte Einkommens- und Vermögensliste für das Sozialamt
 ├── eml/
 │   ├── 01_pflegekasse_eingang_widerspruch.eml <- Pflegekasse bestätigt Widerspruch, nennt Höchstbetrag 4000 EUR
 │   ├── 02_teschner_angebotsklarstellung.eml    <- Fachfirma schlüsselt die 7920 EUR auf, mobile nicht selbst nutzbar
-│   └── 03_md_stellungnahme_selbstnutzbarkeit.eml <- Medizinischer Dienst zur Selbstnutzbarkeit der mobilen Rampe
+│   ├── 03_md_stellungnahme_selbstnutzbarkeit.eml <- Medizinischer Dienst zur Selbstnutzbarkeit der mobilen Rampe
+│   └── 04_pflegekasse_terminvorschlag_ortstermin.eml <- Pflegekasse schlägt Ortstermin am 22.07.2026 vor und stellt das Widerspruchsverfahren zurück
 └── gesamt-pdf/                            <- konsolidierte Lesefassung als PDF
 ```
 

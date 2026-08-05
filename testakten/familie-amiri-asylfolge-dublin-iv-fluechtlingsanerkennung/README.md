@@ -85,6 +85,7 @@ Arbeitsakte zum Plugin `fachanwalt-migrationsrecht`.
 | 20 | [`20_verhandlungsvorbereitung_vg_hannover.docx`](20_verhandlungsvorbereitung_vg_hannover.docx) | Beweisanträge, Sachverständige, Mandantencoaching |
 | 21 | [`21_kostenrecht_pkh_beratungshilfe.docx`](21_kostenrecht_pkh_beratungshilfe.docx) | PKH § 114 ZPO, Beratungshilfe § 1 BerHG, § 83 AsylG |
 | 22 | [`22_gesamtchronologie_und_ausblick.docx`](22_gesamtchronologie_und_ausblick.docx) | Zeitachse aller Verfahren, Risikobewertung, nächste Schritte |
+| eml/06 | [`eml/06_mhh_kinderkardiologie_op_termin.eml`](eml/06_mhh_kinderkardiologie_op_termin.eml) | MHH-Terminplanung zur Herz-OP von Reza jr. mit offenen Punkten zu Dolmetscher und Kostenübernahme |
 
 ---
 

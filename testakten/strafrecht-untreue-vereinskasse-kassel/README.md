@@ -80,11 +80,13 @@ strafrecht-untreue-vereinskasse-kassel/
 ├── 10_kassenbuch_kontoabgleich.csv                        Barabhebungen, anerkannte Belege und nicht anerkannte Quittungen
 ├── 11_kassenpruefungsbericht_2026-01-15.docx              Prüfbericht mit Ermittlung des Fehlbetrags von 48.620 Euro
 ├── 12_beschuldigtenvernehmung_schulte_2026-05-12.docx     Einlassung: bare Auslagen, Belege beim Umzug verloren
+├── 14_privates_tabellenblatt_schulte_asservat.csv         Abschrift des bei der Durchsuchung gefundenen privaten Tabellenblatts mit Auswertungsspalte
 ├── eml/
 │   ├── 01_kassenpruefer_trautmann_an_vorstand_2026-01-16.eml   Prüfbericht-Mitteilung mit erster Bezifferung der Beleglücke
 │   ├── 02_melzer_an_schulte_belegaufforderung_2026-02-06.eml   Aufforderung zur Belegvorlage unter Fristsetzung
 │   ├── 03_schulte_an_melzer_belege_verloren_2026-02-11.eml     Bestreiten des Beschuldigten und Berufung auf verlorene Belege
-│   └── 04_sparkasse_kontoauskunft_2026-06-02.eml              Bankauskunft: dreizehn Barabhebungen über 71.500 Euro
+│   ├── 04_sparkasse_kontoauskunft_2026-06-02.eml              Bankauskunft: dreizehn Barabhebungen über 71.500 Euro
+│   └── 05_ortmann_an_melzer_bargeld_jugend_2026-06-14.eml     Jugendwart listet erhaltene Bargeldumschläge auf, lückenhaft und ohne Quittungen
 ├── whatsapp/
 │   └── chatverlauf.txt                                    Chat Schulte/Ortmann mit Hinweis auf geliehenes Kassengeld
 ├── README.md                                              Diese Übersicht

@@ -120,6 +120,7 @@ Arbeitsakte zum Plugin `urteilsbauer-relationsmacher`.
 | [`emails/terminladung-parteien-17-09-2026.eml`](emails/terminladung-parteien-17-09-2026.eml) | Geschäftsstelle an beide Parteienvertreter: Ladung Haupttermin 17.09.2026 |
 | [`emails/bestellung-sachverstaendiger-vellbruck.eml`](emails/bestellung-sachverstaendiger-vellbruck.eml) | Richterin Dr. Tannenberg-Eichmüller an Prof. Vellbruck: Beauftragung Gerichtsgutachten |
 | [`emails/fristverlaengerungsantrag-klaegerin.eml`](emails/fristverlaengerungsantrag-klaegerin.eml) | RAin Dr. Feldkötter-Haas an Geschäftsstelle: Fristverlängerungsantrag Schriftsatz |
+| [`emails/antwort-geschaeftsstelle-fristverlaengerung.eml`](emails/antwort-geschaeftsstelle-fristverlaengerung.eml) | Geschäftsstelle an beide Vertreter: Fristverlängerung bewilligt, Zustellungsproblem bei Zeuge Eickenmüller, fehlendes Empfangsbekenntnis |
 | [`emails/interner-mailverteiler-sitzungstag.eml`](emails/interner-mailverteiler-sitzungstag.eml) | Geschäftsstelle intern: Sitzungstagorganisation 17.09.2026, Saalplan, Zeugenladungen |
 
 ### PDFs

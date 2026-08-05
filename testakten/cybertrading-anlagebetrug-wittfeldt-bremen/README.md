@@ -92,6 +92,7 @@ Diese Testakte demonstriert den vollständigen Mandatszyklus eines komplexen Ban
 | `20_strategiememorandum_pflueger.docx` | Internes Strategiememo Dr. Pflüger (Stärken/Schwächen, Vergleichsstrategie) |
 | `21_email_kette_pflueger_bafin_polizei.docx` | Behördenkommunikation: BaFin-Eingang, Polizei Bremen ZKD-Antwort |
 | `22_fristenuebersicht.docx` | Vollständige Fristenkontrolle inkl. Verjährungsfristen und Notfallprotokoll |
+| `23_chat_export_whatsapp_volkmann.txt` | Gesicherter WhatsApp-Chat-Auszug Mandantin ./. „Account-Manager Volkmann" (Sept. 2024 – Apr. 2025) |
 
 ### Anhänge
 
