@@ -115,6 +115,8 @@ Rechtsgrundlagen: § 11 BGG (Behindertengleichstellungsgesetz), BITV 2.0.
 | [`12_mandantenbrief3_betreuung_schwer.docx`](12_mandantenbrief3_betreuung_schwer.docx) | Markdown | Brief 3 -- Folgebetreuungsverfahren beim Amtsgericht, persönlicher Termin (Standardfassung) |
 | [`13_mandantenbrief3_einfache_und_leichte.docx`](13_mandantenbrief3_einfache_und_leichte.docx) | Markdown | Brief 3 in Einfacher und in Leichter Sprache mit Übersetzungshinweisen |
 | [`14_bitv_hinweis_und_compliance.docx`](14_bitv_hinweis_und_compliance.docx) | Markdown | Compliance-Hinweis BITV 2.0, BGG, DIN SPEC 33429, Zielgruppenprüfung, Risiken |
+| [`15_telefonvermerk_rueckmeldung_neumann.docx`](15_telefonvermerk_rueckmeldung_neumann.docx) | Markdown | Telefonvermerk der Kanzlei: Rückmeldung von Frau Neumann und Betreuerin Schmuck mit wörtlichen Verständnisfragen |
+| [`16_email_betreuerin_schmuck_unterlagen.eml`](16_email_betreuerin_schmuck_unterlagen.eml) | EML | E-Mail der Betreuerin mit Unterlagenübersendung, fehlenden Mietvertragsseiten und Wünschen zur verständlichen Fassung |
 
 ---
 

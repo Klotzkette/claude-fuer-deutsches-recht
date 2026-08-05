@@ -83,6 +83,7 @@ Arbeitsakte zum Plugin `verkehrsowi-verteidiger`.
 | 20 | [`20-faer-loeschungsfristen.docx`](20-faer-loeschungsfristen.docx) | FAER-Löschungsfristen, Tilgungsregelung, Übernahme ins FAER |
 | 21 | [`21-versicherungsmeldung-rechtsschutz.docx`](21-versicherungsmeldung-rechtsschutz.docx) | Versicherungsmeldung Rechtsschutz, Deckungsschutz, Kommunikation |
 | 22 | [`22-checkliste-mandantengespraech-abschluss.docx`](22-checkliste-mandantengespraech-abschluss.docx) | Checkliste Mandantengespräch und Mandatsabschluss |
+| 23 | [`23-tachograph-auszug-hh-ns-3201-04-02-2026.csv`](23-tachograph-auszug-hh-ns-3201-04-02-2026.csv) | Massenspeicherauszug des digitalen Kontrollgeräts HH-NS 3201 für den Tattag mit Geschwindigkeitsprofil, Kalibrier- und Uhrzeitdaten |
 
 ---
 

@@ -84,7 +84,7 @@ Federführend: RA Dr. Cornelius Specht (Datenschutzrecht)
 |--------|--------|
 | `docx/` | Schriftsätze: Stellungnahme LDI NRW, Klageerwiderung VDuG, Verfassungsbeschwerde-Skizze |
 | `xlsx/` | Verarbeitungsverzeichnis VVT Art. 30 DSGVO; Bussgeldbemessungs-Matrix Art. 83 |
-| `eml/` | E-Mails an LDI NRW, Sundara Tech, HinSchG-Meldestelle, Betroffene Tannenbruck |
+| `eml/` | E-Mails an LDI NRW, Sundara Tech, HinSchG-Meldestelle, Betroffene Tannenbruck; dazu `05_ldi_nrw_zwischennachricht_vorortpruefung.eml` (Zwischennachricht der LDI NRW mit Nachforderungen zur Datenpannenmeldung und Ankündigung der Vor-Ort-Prüfung am 26.03.2026) |
 | `pdfs/` | LDI-Anhörungsschreiben (redacted); Penetrationstest-Bericht-Auszug (redacted) |
 | `jpg/` | Architektur-Diagramm ProspectScore Pro; Bussgeld-Bemessungs-Diagramm; DSFA-Workflow |
 

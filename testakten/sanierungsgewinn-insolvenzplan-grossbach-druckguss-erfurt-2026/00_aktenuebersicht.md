@@ -25,6 +25,8 @@ Diese Akte umfasst 20 Aktenstücke zur Sanierungssteuerproblematik der Grossbach
 | 18 | 18_szenario_b_steuerlicher_sanierungsgewinn_und_3a_iv_antrag.docx | Hypothese B (Antrag rechtzeitig) |
 | 19 | 19_szenario_c_antrag_verspaetet_und_fg_koeln_linie.docx | Hypothese C (Antrag verspätet, FG-Koeln-Bezug) |
 | 20 | 20_mandantenbrief_grossbach-an-iv-final.docx | Abschlussbrief an IV |
+| 21 | 21_telefonvermerk_weissbrod_fa_erfurt_2026-07-08.md | Telefonvermerk StB Voltz: Eingangsbestätigung FA, Nachforderung Anlage 7c und Stellungnahme Frage 5 |
+| 22 | 22_email_gewerbesteueramt_zwischennachricht_7b.eml | Zwischennachricht Gewerbesteueramt Erfurt: Unterlagenanforderung bis 14.08.2026 |
 
 ## Konfliktthemen
 

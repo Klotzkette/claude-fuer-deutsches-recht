@@ -139,6 +139,7 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 |-------|--------|
 | [09_buchhaltung_konto/geschaeftskonto_mai_2026.csv](09_buchhaltung_konto/geschaeftskonto_mai_2026.csv) | Simulierter Kontoauszug Geschäftskonto Mai 2026 |
 | [09_buchhaltung_konto/offene_posten_debitoren.csv](09_buchhaltung_konto/offene_posten_debitoren.csv) | Offene-Posten-Liste Debitoren |
+| [09_buchhaltung_konto/telefonnotiz_klaerfall_lindner_2026-05-22.docx](09_buchhaltung_konto/telefonnotiz_klaerfall_lindner_2026-05-22.docx) | Telefonnotiz zum ungeklärten Zahlungseingang 228,00 EUR von W. Lindner |
 | [09_buchhaltung_konto/zahlungsmatching_erwartung.docx](09_buchhaltung_konto/zahlungsmatching_erwartung.docx) | Erwartetes Matching-Ergebnis zwischen Kontoauszug und offenen Posten |
 | [09_buchhaltung_konto/bankanbindung_simulation.docx](09_buchhaltung_konto/bankanbindung_simulation.docx) | Aktenvermerk Bankanbindungs-Simulation — Systemgrenzen, Workflow in 6 Schritten, Matching-Logik, Klärfall 228 EUR, Datenschutz |
 | [09_buchhaltung_konto/datev_uebergabe_simulation.docx](09_buchhaltung_konto/datev_uebergabe_simulation.docx) | DATEV-ähnliche Übergabe Mai 2026 — Ausgangsrechnungen, Eingangsrechnungen, Zahlungsabstimmung, §13b AI Vendor, fehlende Angaben, Monatsabschluss-Zusammenfassung |

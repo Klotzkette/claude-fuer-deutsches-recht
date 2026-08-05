@@ -90,7 +90,7 @@ VENERA Investment Group GmbH (Kaeufer)
 |---|---|
 | `docx/` | SPA-Hauptvertrag-Auszug, Antitrust-Anmeldung Form CO, Sozialplan-Entwurf |
 | `xlsx/` | Due-Diligence-Findings-Matrix, Earn-Out-Berechnung 3-Jahres-Cashflow |
-| `eml/` | E-Mails CFO Schwarzbeck, BKartA Bonn, DZ Privatbank Luxembourg, Betriebsrat |
+| `eml/` | E-Mails CFO Schwarzbeck, BKartA Bonn, DZ Privatbank Luxembourg, Betriebsrat; dazu `05_notariat_geilenkirchen_vollzugstermin.eml` mit der Vollzugsliste der Notarin zum Termin 31.07.2026 (offene Unterlagen, Escrow-Valuta, Löschungsbewilligung) |
 | `pdfs/` | LOI Term Sheet (redacted), Red-Flag-Memorandum-Auszug (redacted) |
 | `jpg/` | Konzernstruktur-Diagramm, Transaktionsstruktur, FraktoMedis-Werk Darmstadt |
 

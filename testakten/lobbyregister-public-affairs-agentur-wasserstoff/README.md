@@ -67,6 +67,7 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [29_termin_briefing_bmwk_30_05.docx](29_termin_briefing_bmwk_30_05.docx) | Termin-Briefing für Staatssekretariatsgespräch im BMWK |
 | [30_honorarrechnung_mit_aufwand.docx](30_honorarrechnung_mit_aufwand.docx) | Honorarrechnung Mai 2026 HansaH2 mit Aufwandsstunden |
 | [31_compliance_memo_doppelmandat.docx](31_compliance_memo_doppelmandat.docx) | Compliance-Memo zum Doppelmandat im selben Regelungsvorhaben |
+| [32_email_antwort_spreebogen_vorfall_opengrid.eml](32_email_antwort_spreebogen_vorfall_opengrid.eml) | Antwort der Agentur an HansaH2 zu Eintragskorrektur und Versandkette des OpenGrid-Vorfalls |
 
 ## Prüffokus
 

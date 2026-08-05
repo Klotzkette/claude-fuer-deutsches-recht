@@ -88,6 +88,7 @@ Arbeitsakte zum Plugin `fachanwalt-transport-speditionsrecht`.
 | 20 | [`20_vergleichsoptionen_und_adr.docx`](20_vergleichsoptionen_und_adr.docx) | Vergleichskorridore; Mediation; § 153a StPO; OWi-Strategien; Verfahrenspyramide |
 | 21 | [`21_beweismittelverzeichnis_zeugen.docx`](21_beweismittelverzeichnis_zeugen.docx) | Urkundenliste; Zeugenverzeichnis; Sachverständige; offene Beweiserhebungsmaßnahmen |
 | 22 | [`22_verfahrensstand_chronologie_ausblick.docx`](22_verfahrensstand_chronologie_ausblick.docx) | Ereignischronologie Jan.–Mai 2026; Fristenübersicht; Risikomatrix; Ausblick 2027 |
+| 23 | [`23_chat_disposition_fahrer_schadensnacht.txt`](23_chat_disposition_fahrer_schadensnacht.txt) | Gesicherter Chat Disposition Warnecke / Fahrer Catalin Petrescu, 13.–14. Januar 2026: Fehler F-27, ausgebliebener App-Alarm, Kühler-Diesel, Annahmeverweigerung Lyon |
 
 ---
 

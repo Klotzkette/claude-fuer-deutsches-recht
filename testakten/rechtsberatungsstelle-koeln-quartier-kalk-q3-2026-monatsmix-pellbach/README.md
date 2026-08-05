@@ -123,6 +123,7 @@ Arbeitsakte zum Plugin `rechtsberatungsstelle`.
 | [`emails/email-stadt-koeln-monatsbericht.eml`](emails/email-stadt-koeln-monatsbericht.eml) | Stadt Köln Abt. 50: Empfangsbestätigung Monatsbericht |
 | [`emails/email-fachanwalt-migration-vermittlung.eml`](emails/email-fachanwalt-migration-vermittlung.eml) | RA Cakmak (Fachanwalt Migrationsrecht): Vermittlung Fall 06 |
 | [`emails/email-schuldnerberatung-diakonie-vermittlung.eml`](emails/email-schuldnerberatung-diakonie-vermittlung.eml) | Diakonie Köln Schuldnerberatung: Terminbestätigung Fall 05 |
+| [`emails/email-rwe-hausanschluss-fall01-energiesperre.eml`](emails/email-rwe-hausanschluss-fall01-energiesperre.eml) | RWE Energie: Auskunft zu Gassperrung, Rückstand und abgelehntem Zahlungsaufschub, Fall 01 |
 
 ### PDFs
 

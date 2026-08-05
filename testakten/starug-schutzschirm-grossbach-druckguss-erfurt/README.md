@@ -101,7 +101,8 @@ starug-schutzschirm-grossbach-druckguss-erfurt/
 │   ├── 01_sparkasse_kuerzung_eingang.eml
 │   ├── 02_aluminium_stade_mahnung.eml
 │   ├── 03_drosselberg_mandat_annahme.eml
-│   └── 04_bitvavo_wallet_auskunft.eml
+│   ├── 04_bitvavo_wallet_auskunft.eml
+│   └── 05_betriebsrat_fragen_belegschaft.eml   (Betriebsrat: Gerüchte in der Belegschaft, Lohnsorgen, Bitte um Betriebsversammlung)
 ├── pdfs/
 │   ├── sanierungskonzept_auszug_idw_s6.pdf
 │   └── sparkasse_kk_kuerzung_schreiben.pdf

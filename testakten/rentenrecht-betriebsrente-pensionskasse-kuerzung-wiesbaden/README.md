@@ -32,3 +32,11 @@ Eine Rentnerin erhält Kürzungen aus einer regulierten Pensionskasse. Der früh
 ## Sachverhaltskern
 
 Brigitte Lampe arbeitete 31 Jahre bei Rhein-Main Drucktechnik AG. Die Pensionskasse senkt laufende Leistungen ab August 2026 um 8,4 Prozent; der Arbeitgeber bietet nur eine freiwillige Einmalzahlung an. Die Versorgungsordnung aus 1998 enthält Arbeitgeberzusage, Pensionskassenweg und eine Anpassungsklausel. Die Kommunikation der letzten Jahre ist widersprüchlich. Die Akte enthält alte Betriebsvereinbarung, Rentenmitteilungen, Kürzungsankündigung, Bilanzhinweise und ein Mandantenprotokoll. Es geht um Anspruchsgegner, Verjährung, Anpassungsprüfung und praktische Vergleichsoptionen.
+
+## Weitere Aktenstücke
+
+| Datei | Beschreibung |
+|---|---|
+| [08_telefonvermerk_lampe_2026-07-12.docx](08_telefonvermerk_lampe_2026-07-12.docx) | Telefonvermerk zu Angebotsfrist, Unterlagen und Zeugen der Betriebsversammlung 1999 |
+| [eml/2026-07-09_clara_lampe_alter_laptop_emailverlauf.eml](eml/2026-07-09_clara_lampe_alter_laptop_emailverlauf.eml) | Nachricht der Tochter mit Abschrift der teilweise wiederhergestellten E-Mail von 2021 |
+| [eml/2026-07-16_drucktechnik_zwischennachricht_auskunft.eml](eml/2026-07-16_drucktechnik_zwischennachricht_auskunft.eml) | Zwischennachricht des Arbeitgebers mit Teilauskunft und verlängerter Angebotsfrist |

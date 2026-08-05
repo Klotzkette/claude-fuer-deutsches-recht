@@ -135,6 +135,8 @@ Der BGH bestätigte dieses Argument 2024 als Leitsatz c).
 | `Aufstellung_Kosten_und_Schaeden.xlsx` | Excel | Streitwertberechnung, Verfahrenskosten nach Instanzen, Gesamtschaden Klägerin | Formeln; Gesamtschaden ca. EUR 28.415,90; 4 Abschnitte inkl. Mahnungshistorie-Zeitpunkte |
 | `Mandantengespraech_Eberhart_Notiz.txt` | Text | Roh-Gesprächsnotiz RA Hassenstein-Heepen vom 19.04.2022 | Authentisch chaotisch; zeigt Mandantenperspektive; handschriftlicher Nachtrag von Dez. 2024 |
 | `Chatverlauf_Mieter_Anwalt_2022-04.docx` | Chatbeschreibung | WhatsApp-Chat: Mieter sendet Fotos der Klageschrift an Anwältin (April 2022) | Zeigt Handnotizen des Mieters auf dem Transfervermerk; Beweis für Mandatsanbahnung |
+| `Kontoauszug_Eberhart_Mietzahlungen_2021.csv` | CSV | Onlinebanking-Export des Mieters: Mietzahlungen Januar 2021 bis Februar 2022 | Belegt die 800-Euro-Überweisungen ab Februar 2021 und die Teilzahlung vom 09.02.2022 |
+| `Email_Eberhart_Kontoexport_an_Anwaeltin_2022-04.eml` | E-Mail | Mieter übersendet den Kontoexport an RA Hassenstein-Heepen (21.04.2022) | Eigene Verrechnungsdarstellung des Mieters; bestreitet die Rückstandshöhe von EUR 1.696,31 |
 
 ---
 

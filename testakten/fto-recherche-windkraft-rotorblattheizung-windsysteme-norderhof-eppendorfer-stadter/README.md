@@ -109,6 +109,7 @@ Arbeitsakte zum Plugin `patentrecherche`.
 | [`emails/email-windsysteme-cto-fto-auftrag.eml`](emails/email-windsysteme-cto-fto-auftrag.eml) | CTO Norderhof AG erteilt FTO-Auftrag |
 | [`emails/email-patentanwalt-recherchestrategie.eml`](emails/email-patentanwalt-recherchestrategie.eml) | PA Dr. Eppendorfer legt Recherchestrategie fest |
 | [`emails/email-vellbruck-vorabkontakt-lizenz.eml`](emails/email-vellbruck-vorabkontakt-lizenz.eml) | Sondierungsgespräch Vellbruck — FRAND-Bereitschaft |
+| [`emails/email-vellbruck-antwort-sondierung.eml`](emails/email-vellbruck-antwort-sondierung.eml) | Antwort Vellbrucks: Gesprächsbereitschaft, bestehende Retrofit-Lizenz, Terminvorschlag 08.04.2026, Rückfrage zum Husumer Messestand |
 | [`emails/email-bgh-anfrage-az-x-zr.eml`](emails/email-bgh-anfrage-az-x-zr.eml) | Anfrage BGH-Dokumentationsstelle Äquivalenzrechtsprechung |
 | [`emails/email-bvg-strategiepapier-vorstand.eml`](emails/email-bvg-strategiepapier-vorstand.eml) | Übermittlung Strategiepapier an Vorstand Windsysteme |
 

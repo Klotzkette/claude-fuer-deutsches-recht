@@ -150,6 +150,12 @@ Interne Revision (Leiter: Franz-Josef Brammer) entdeckt, dass die Marketingabtei
 | [`email-konzernrevision-feststellungen.eml`](email-konzernrevision-feststellungen.eml) | Konzernrevision: Feststellungen Schatten-KI Marketing |
 | [`email-openai-vendor-zertifizierung.eml`](email-openai-vendor-zertifizierung.eml) | OpenAI Ireland: Antwort zu Konformitätsdokumentation |
 
+### Chat-Exporte (TXT)
+
+| Datei | Inhalt |
+|---|---|
+| [`teams-chat-export-marketing-schatten-ki.txt`](teams-chat-export-marketing-schatten-ki.txt) | Von der Revision gesicherter Teams-Chatauszug der Marketingabteilung zur nicht genehmigten Midjourney-Pipeline (INC-2026-003) |
+
 ### PDFs
 
 | Datei | Inhalt |

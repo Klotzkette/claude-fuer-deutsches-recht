@@ -1,0 +1,15 @@
+datum;uhrzeit_utc;uhrzeit_lokal;geschwindigkeit_kmh;kilometerstand_km;fahrerkarte_slot_1;taetigkeit;bemerkung
+04.02.2026;13:10;14:10;89;412844.1;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;Auszug Massenspeicher VDO DTCO 4.1, Auslesung 20.02.2026 durch Fuhrparkleiter Bendix Ohrt
+04.02.2026;13:12;14:12;97;412847.3;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:14;14:14;99;412850.6;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:16;14:16;100;412853.9;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:18;14:18;101;412857.2;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:20;14:20;103;412860.6;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:21;14:21;104;412862.3;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;Minutenmaximum laut Geschwindigkeitsprofil 106 km/h
+04.02.2026;13:22;14:22;104;412864.0;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;Minutenmaximum laut Geschwindigkeitsprofil 107 km/h
+04.02.2026;13:23;14:23;101;412865.7;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:25;14:25;98;412869.0;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;
+04.02.2026;13:30;14:30;86;412876.8;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Lenken;Abfahrt Bispingen laut Positionsdaten passiert
+04.02.2026;13:47;14:47;0;412898.4;NORDERHOF-TANNENMOOR HENRIK D1110428800210;Pause;Rastanlage Stillhorn West, Standzeit 46 Minuten
+04.02.2026;;;;;;;Hinweisfeld der Auslesesoftware: letzte Kalibrierung des Kontrollgeräts am 11.09.2025 bei Reifenwechsel, Wegdrehzahl w = 5218 Imp/km, nächste Kalibrierung fällig 11.09.2027
+04.02.2026;;;;;;;Hinweisfeld der Auslesesoftware: Zeitabweichung Geräteuhr bei Auslesung minus 2 Minuten gegenüber UTC festgestellt und korrigiert

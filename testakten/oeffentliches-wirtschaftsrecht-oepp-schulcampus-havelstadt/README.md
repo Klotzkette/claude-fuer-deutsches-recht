@@ -30,6 +30,9 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `05_bieterfragen_und_datenraumzugriffe.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
 | `06_email_kreditkomitee_bedingungen_2026-06-26.eml` | E-Mail mit vollständigem Header: Projekt Havelstadt Schulcampus / offene Kreditbedingungen |
 | `07_baugrund_nachtrag_nordrand.docx` | Ergänzende Baugrunderkundung am Nordrand des Schulcampus |
+| `08_telefonvermerk_kommunalaufsicht_2026-06-29.docx` | Telefonvermerk zur Voranfrage bei der Kommunalaufsicht: Genehmigungserfordernis, Unterlagenliste, Bearbeitungsdauer |
+| `09_email_labor_maerkisch_analytik_2026-06-30.eml` | Teilbefund des Labors Märkisch zu den Einzelproben B19 und B20 mit noch offener Nachmessung |
+| `10_angebote_interimscontainer.csv` | Angebotsübersicht für die Klassencontainer des Interimsbetriebs mit fünf Einträgen |
 ## Passende Plugins
 
 `oeffentliches-wirtschaftsrecht`

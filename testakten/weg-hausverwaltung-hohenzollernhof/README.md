@@ -69,7 +69,7 @@ Diese Verwaltungsakte bildet den laufenden Zustand einer mittelgroßen WEG ab: t
 | `22-e-mobilitaet-pv-kellerstrom.docx` | E-Mobilität, Dach-PV, Steckersolar, Kellerstrom |
 | `23-top-marathon-einladung-und-beschlussfassungen.docx` | 18 Tagesordnungspunkte und Protokollhinweise |
 | `24-nebenkosten-ist-plan-vermieterpaket.docx` | Ist-/Plan-Abrechnung und Mieterschnittstelle |
-| `eml/*.eml` | E-Mail-Fragmente Mietervertretung, Restaurant, Beirat |
+| `eml/*.eml` | E-Mail-Fragmente Mietervertretung, Restaurant, Beirat; darunter `04-betreiber-il-tiglio-antwort-wartungsnachweise.eml` mit der Antwort des Betreibers Caruso zu Abluftwartung, Fettabscheider, Lieferzeiten, Müllraum und Hofdurchfahrt |
 | `tabellen/*` | CSV und Excel zu Ist-/Plan-Kosten 2025/2026 |
 | `bilder/*.jpg` | Fotoablage mit Schaden-/Konfliktmotiven |
 | `Gesamtakte_Hohenzollernhof_WEG_Hausverwaltung.pdf` | Konsolidierte Aktenfassung mit mindestens 100 Seiten |

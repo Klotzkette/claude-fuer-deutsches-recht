@@ -30,6 +30,9 @@ Schifffahrtsakte: Werftvertrag, Schiffshypothek, Bermuda-Flagge, Wrack, Arrest, 
 | `05_ereignislog_havarie_und_hafenmassnahmen.csv` | Rohdatenexport mit 7 Einträgen und unveränderten Quellenangaben |
 | `06_email_pi_deckungsvorbehalt_2026-04-07.eml` | E-Mail mit vollständigem Header: Without prejudice / NORDLICHT VALE casualty Emden / P&I 441-982 |
 | `07_kapitaensbericht_wassereinbruch_2026-04-06.docx` | Master’s report concerning water ingress at berth 7 |
+| `08_zahlungserinnerung_werft_2026-03-27.docx` | Zahlungserinnerung der Werft über 425100,00 Euro mit Fristsetzung zum 3. April und Zurückbehaltung der Klassenbescheinigungen |
+| `09_chatprotokoll_lenz_voss_2026-04-06.txt` | Gesicherter Chatverlauf Kapitän Lenz / Werft-Projektleiter Voss aus der Havarienacht, u. a. zum fehlenden Abdrückprotokoll |
+| `10_liegeplatz_und_bergungskosten_aufstellung.csv` | Laufende Kostenaufstellung zu Schleppern, Ölsperre, Tauchern und angekündigtem Liegeplatz-Nutzungsausfall |
 ## Passende Plugins
 
 `seerecht-schifffahrtsrecht`

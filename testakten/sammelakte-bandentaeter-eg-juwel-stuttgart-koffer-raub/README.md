@@ -119,6 +119,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | [`eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml`](eml/2026-01-12_kanzlei_an_generalstaatsanwaltschaft_krakau.eml) | Anfrage Vorstrafen-Auskünfte an Prokuratura Okregowa Krakow |
 | [`eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml`](eml/2026-01-22_kanzlei_an_jva_schwaebisch_gmuend.eml) | Antrag Mutter-Kind-Einheit und Videotelefonie für Krasniqi |
 | [`eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml`](eml/2026-02-01_kanzlei_an_nebenklaege_brandes_weiss.eml) | Abstimmung Adhäsionsverfahren mit Nebenklagevertreter |
+| [`eml/2026-02-06_jva_schwaebisch_gmuend_an_kanzlei_antwort.eml`](eml/2026-02-06_jva_schwaebisch_gmuend_an_kanzlei_antwort.eml) | Zwischenbescheid der JVA: Warteliste Mutter-Kind-Einheit, Interimsmaßnahmen, Videotelefonie-Termine unter Gerichtsvorbehalt |
 
 ---
 

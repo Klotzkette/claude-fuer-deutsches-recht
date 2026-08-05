@@ -47,8 +47,10 @@ Trennung von Rieke und Malte Henning in Kiel mit zwei Kindern, praktiziertem Wec
 | `08_praxis_einkommensauskunft_mehrjahresbild.docx` | Auskunftserklärung des Selbstständigen mit Einkunftsarten, Belegverzeichnis, Buchungserläuterungen und Vollständigkeitsversicherung |
 | `09_entwurf_naechstes_schreiben.docx` | Schreiben zu Auskunftslücken, Kalenderabgleich, vorläufiger Zahlung und Organisation der Kinderkosten |
 | `10_schulische_stellungnahme.docx` | Gemeinsame Auskunft von Gymnasium und Grundschule zu Abholungen, Krankheit, Kinderäußerungen und Portalregel |
+| `11_chatverlauf_eltern_juni_juli.txt` | Nachrichtenverlauf der Eltern zu Übernachtungszahlen, Musikschule, Klassenfahrt, Krankheitsbetreuung und Ferientausch |
 | `csv/fristen_und_zahlungen.csv` | Monatliche Zahlungs- und Fristenübersicht für Auskunft, Rückstand und Zwischenregelung |
 | `emails/2026-07-02_rieke_an_kanzlei.eml` | Mandantenmail zu Kalenderabweichungen, Bonus und ausstehenden Kosten |
+| `emails/2026-07-16_gegenanwalt_an_kanzlei.eml` | Schreiben der Gegenseite: Jahresabschluss 2023, Reisedaten Ferienwoche, Teilzahlung Klassenfahrt, Zwischenzahlung ab August |
 | `pdfs/schulbescheinigung_nora_henning.pdf` | Eigenständige Schulbescheinigung zu Schulbesuch, Musikprofil und Klassenfahrt |
 | `pdfs/kostenmitteilung_nora_henning.pdf` | Gesonderte Zahlungsmitteilung der Schulkasse mit Fälligkeiten und Kontoverbindung |
 | `tabellen/betreuungstage_und_einkommen.xlsx` | Rechenmappe mit Betreuungstagen, Mehrjahreseinkommen und getrennten Kinderbedarfen |

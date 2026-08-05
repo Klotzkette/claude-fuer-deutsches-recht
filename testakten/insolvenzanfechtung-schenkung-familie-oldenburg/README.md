@@ -73,6 +73,7 @@ insolvenzanfechtung-schenkung-familie-oldenburg/
 │   ├── 2024-09-12_hollmann_steuerberater_pkw.eml        GF an Steuerberater zur Umschreibung des X3 und zur "engen" Lage
 │   ├── 2025-04-14_steuerberater_warnung_liquiditaet.eml Steuerberater-Warnung zur Deckungslücke und zu Krisenpflichten (April 2025)
 │   ├── 2025-06-16_tietjen_dachrechnung.eml              Schwager bittet um Bezahlung der Dachrechnung "über die Firma"
+│   ├── 2026-06-16_lena_hollmann_antwort_anfechtung.eml  Persönliche Antwort der Tochter: Verwendung des Geldes, Kontostand, Kenntnis erst Februar 2026
 │   ├── 2026-12-05_ladung_zeuge_wienken.eml              Ladung des Zeugen zum Beweistermin
 │   ├── 2027-05-12_urteilszustellung_feddersen.eml       Zustellung des Urteils an den Verwalter
 │   └── 2027-08-31_zahlungsbestaetigung_bruns.eml        Bestätigung der vollständigen Zahlung durch alle drei Beklagten

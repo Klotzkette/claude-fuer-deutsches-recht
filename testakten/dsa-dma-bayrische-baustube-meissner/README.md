@@ -60,6 +60,8 @@ HRB Bamberg 11 247
 | 14 | Kostenrechnung interne Schätzung | 22.05.2026 |
 | 15 | Anlagenverzeichnis | 26.05.2026 |
 | 16 | Pressespiegel und Branchenmitteilungen | div. |
+| 17 | Kundinnen-E-Mail: Auftragsstornierung nach Account-Sperre, Abwanderung zu Lindheim & Söhne | 17.04.2026 |
+| 18 | Telefonvermerk Dr. Vogelbroich: Stand des Art.-40-Antrags beim irischen DSC, Frage der Namensnennung | 27.05.2026 |
 
 ## Statusübersicht
 

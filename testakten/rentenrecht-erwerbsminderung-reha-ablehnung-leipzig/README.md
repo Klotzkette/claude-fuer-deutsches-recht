@@ -39,7 +39,10 @@ rentenrecht-erwerbsminderung-reha-ablehnung-leipzig/
 ├── 08_widerspruchsbescheid.docx             ← Zurückweisung vom 12.06.2026, Zugangsvermerk 15.06.2026
 ├── 09_arbeitgeberbescheinigung_taetigkeit.docx ← Tätigkeitsprofil, gescheitertes BEM, kein leidensgerechter Platz
 ├── 10_au_krankengeld_verlauf.csv          ← AU-, Krankengeld- und Verfahrenschronologie seit Januar 2024
-└── 11_klageentwurf.docx                     ← Klageentwurf zum SG Leipzig mit Beweisanregungen
+├── 11_klageentwurf.docx                     ← Klageentwurf zum SG Leipzig mit Beweisanregungen
+├── 12_email_malchow_an_kanzlei.eml          ← Mandantenmail vom 01.07.2026: Sturz im Hausflur, Meldetermin der Agentur, Wartezeit Psychotherapie
+├── 13_telefonvermerk_praxis_seibt.docx        ← Telefonat mit der Hausarztpraxis vom 03.07.2026 zu Sturzbefund und Therapieplatz
+└── 14_sms_verlauf_malchow_sohn.txt          ← SMS-Verlauf Vater/Sohn rund um Sturz vom 27.06.2026 und Arztbesuch
 ```
 
 ## Bearbeitungsziel

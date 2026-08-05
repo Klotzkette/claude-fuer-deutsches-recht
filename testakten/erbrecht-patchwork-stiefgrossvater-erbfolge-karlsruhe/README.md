@@ -52,6 +52,8 @@ Vier Jugendfreunde aus Karlsruhe heirateten, trennten sich und verbanden ihre Fa
 | `18_telefonnotiz_fiona_nach_gericht.docx` | Telefonnotiz zu möglichem Ehevertrag und Fundfotos nach dem Gerichtstermin |
 | `19_fristkalender_und_postausgang.docx` | Getrennte Fristen und Versandnachweise für beide Nachlassverfahren |
 | `20_rvg_kostenentwurf.docx` | Kosten- und Streitwertnotiz mit getrennten Auslagen je Erbfall |
+| `21_nachrichtenexport_lutz_fundfotos.txt` | Kurznachrichten des Steuerberaters Lutz vom Fundtag mit Fotos von Schublade und Zettel 2018 |
+| `22_email_notariat_holl_urkundenverzeichnis.eml` | Auskunft des Notariats Dr. Holl zur Urkunde URNr. 1712/2021 und zu den Abschriftsvoraussetzungen |
 | `xlsx/nachlasspositionen_und_belegstatus.xlsx` | Nachlasswerte, Urkunden und Belegstatus für Armin und Clemens |
 
 ## Ordnerlogik

@@ -100,6 +100,8 @@ Hinzu kommt auf Gesellschafterebene: Auflösungsverlust nach § 17 Abs. 4 EStG, 
 | 18 | [`18_liquidationsbilanz_szenarien.csv`](18_liquidationsbilanz_szenarien.csv) | Drei Szenarien rechenbar |
 | 19 | [`19_mandantenbrief_strassburger_an_steuerberater.docx`](19_mandantenbrief_strassburger_an_steuerberater.docx) | Mandantenbrief der Mandantin an Steuerberater |
 | 20 | [`20_finalcheck_und_naechste_schritte.docx`](20_finalcheck_und_naechste_schritte.docx) | Finalcheck und nächste Schritte |
+| 21 | [`21_kontoauszug_geschaeftskonto_mai_2026.csv`](21_kontoauszug_geschaeftskonto_mai_2026.csv) | Kontoauszug Mai 2026: Gläubigerzahlungen, Forderungseingänge, Liquiditätshilfe der Gesellschafterin |
+| 22 | [`22_zwischennachricht_finanzamt_verbindliche_auskunft_2026-06-18.docx`](22_zwischennachricht_finanzamt_verbindliche_auskunft_2026-06-18.docx) | Zwischennachricht des FA Berlin-Charlottenburg mit Nachforderungen und Frist zum Auskunftsantrag |
 
 ---
 

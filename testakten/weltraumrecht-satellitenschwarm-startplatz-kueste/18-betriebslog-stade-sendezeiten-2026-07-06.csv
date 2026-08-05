@@ -1,0 +1,7 @@
+zeit_utc;anlage;betriebsart;frequenz_mhz;eirp_dbw;dauer_s;operator;bemerkung
+2026-07-06T19:02:10Z;Stade ANT-1;Empfang Tracking;8262.0;;1840;Römer;Überflug Fremdsatellit, nur Empfang
+2026-07-06T20:41:33Z;Stade ANT-2;Testaussendung Kalibrierung;8259.8;27.4;420;Kruse;Kalibrierziel Ballonreflektor, Protokoll KAL-26-31
+2026-07-06T20:58:05Z;Stade ANT-2;Testaussendung Kalibrierung;8261.2;27.4;600;Kruse;zweite Sequenz, Abbruch wegen Regenband
+2026-07-06T21:10:47Z;Stade ANT-2;Testaussendung Kalibrierung;8260.5;30.1;1290;Kruse;dritte Sequenz, Leistung erhöht, Ende 21:32:17
+2026-07-06T21:39:02Z;Stade ANT-1;Empfang S-Band;2242.5;;760;Römer;Telemetrietest Tischaufbau CM-44, kein Uplink
+2026-07-06T22:15:20Z;Stade ANT-2;Ruhezustand;;;;;Anlage verriegelt, Schichtende 22:30

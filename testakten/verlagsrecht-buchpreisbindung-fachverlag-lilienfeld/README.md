@@ -38,6 +38,9 @@ Diese Akte gehört zu den Plugins `verlagsrecht-buchpreisbindung`, `verlagsredak
 | `08-email-haendler-maengelexemplare-27-04-2026.eml` | Händleranfrage zu 64 als B-Ware gelieferten Exemplaren und 17 Verkäufen |
 | `09-email-bildrechte-und-datenbankupdate-18-05-2026.eml` | Lektoratsnachfrage zur Freigabe einer Abbildung für Print und digitale Nutzung |
 | `10-plattformverkaeufe-q1-q2-2026.csv` | Rohdaten nach Kanal, Artikel, Menge, Erlös und Retouren |
+| `11-lagerbewegungsjournal-auszug-16-03-bis-30-04-2026.csv` | Nordbuch-Bewegungsjournal zur ISBN mit Sperrung, Umbuchungen und Auslieferung der 64 Exemplare |
+| `12-telefonvermerk-ebner-nordbuch-28-04-2026.docx` | Telefonvermerk zur Frage, wer den Abruf der B-Ware veranlasst hat, mit abweichenden Angaben |
+| `13-email-intern-krisenrunde-06-05-2026.eml` | Interne Mail der Geschäftsführerin nach Eingang der Abmahnung mit Rechercheaufträgen |
 | `gesamt-pdf/verlagsrecht-buchpreisbindung-fachverlag-lilienfeld_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

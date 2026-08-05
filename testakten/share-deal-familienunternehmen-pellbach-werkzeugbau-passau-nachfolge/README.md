@@ -131,6 +131,7 @@ Arbeitsakte zum Plugin `mittelstand-corporate-ma`.
 | [`emails/email-bieter-roosendaal-private-equity.eml`](emails/email-bieter-roosendaal-private-equity.eml) | Steinheim Capital Partners — Bieterbrief, Indikatives Angebot |
 | [`emails/email-bafin-meldung-vorabbescheid.eml`](emails/email-bafin-meldung-vorabbescheid.eml) | BaFin-Vorabbescheid: keine Erlaubnispflicht nach KWG |
 | [`emails/email-bkartellamt-anmeldepflicht.eml`](emails/email-bkartellamt-anmeldepflicht.eml) | BKartA — Eingangsbestätigung Anmeldung B 6-188/26 |
+| [`emails/email-bkartellamt-zwischennachricht-auskunftsverlangen.eml`](emails/email-bkartellamt-zwischennachricht-auskunftsverlangen.eml) | BKartA — Auskunftsverlangen in Phase I mit Frist 19.06.2026 und Fristanlauf-Hinweis |
 | [`emails/email-steuerberater-w-und-i-pruefung.eml`](emails/email-steuerberater-w-und-i-pruefung.eml) | StB Dr. Haslinger — Tax-DD-Abschlussbericht, W&I-Scope |
 
 ### PDFs

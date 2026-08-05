@@ -92,6 +92,7 @@ Arbeitsakte zum Plugin `normenkontrolle-bauleitplanung`.
 | 20 | [`20-protokoll-muendliche-verhandlung-ovg.docx`](20-protokoll-muendliche-verhandlung-ovg.docx) | Protokoll mündliche Verhandlung OVG Berlin-Brandenburg |
 | 21 | [`21-urteil-ovg-berlin-10-a-1-26.docx`](21-urteil-ovg-berlin-10-a-1-26.docx) | Urteil OVG Berlin-Brandenburg 10 A 1.26, Kassation B-Plan |
 | 22 | [`22-rechtsmittel-bundesverwaltungsgericht.docx`](22-rechtsmittel-bundesverwaltungsgericht.docx) | Revisionsbeschwerde / Nichtzulassungsbeschwerde BVerwG |
+| 23 | [`23-zauneidechsen-kartierung-rohdaten-2025.csv`](23-zauneidechsen-kartierung-rohdaten-2025.csv) | Rohdaten der fünf BUND-Begehungen 2025 mit Fundzahlen je Teilfläche und Kontrolle des Ersatzhabitats |
 
 ---
 

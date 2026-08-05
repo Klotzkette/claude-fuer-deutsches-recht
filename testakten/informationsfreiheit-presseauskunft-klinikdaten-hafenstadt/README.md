@@ -46,5 +46,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_klinikdatenstelle_datenabzug_belegungszahlen.docx`](12_klinikdatenstelle_datenabzug_belegungszahlen.docx) | Klinikinterner Datenstellenvermerk zu Abweichungen im Rohabzug |
 | [`13_email_reporterin_nachfrage_rohdaten.eml`](13_email_reporterin_nachfrage_rohdaten.eml) | Konkrete Presseanfrage mit Veröffentlichungsanlass |
 | [`14_intensivbelegung_monatswerte_roh.csv`](14_intensivbelegung_monatswerte_roh.csv) | Monatswerte mit offenen Umbuchungen und Quellenfeldern |
+| [`15_email_klinikum_justiziariat_einwaende_2026-07-08.eml`](15_email_klinikum_justiziariat_einwaende_2026-07-08.eml) | Justiziariat des Klinikums bittet um Zurückstellung der Änderungsprotokolle wegen Beschäftigtendaten |
+| [`16_zwischennachricht_stadt_teilzugang_2026-07-10.docx`](16_zwischennachricht_stadt_teilzugang_2026-07-10.docx) | Zwischennachricht der Stadt zu Teilzugang, offenem Protokollteil und reduzierter Gebührenschätzung |
+| [`17_notaufnahme_zeitstempel_pruefliste.csv`](17_notaufnahme_zeitstempel_pruefliste.csv) | Monatliche Notaufnahme-Fallzahlen mit fehlenden und nachgetragenen Zeitstempeln |
 
 <!-- END nachgereichte-originalunterlagen -->

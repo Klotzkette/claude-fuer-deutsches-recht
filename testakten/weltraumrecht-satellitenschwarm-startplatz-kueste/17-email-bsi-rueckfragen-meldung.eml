@@ -1,0 +1,30 @@
+From: Meldestelle BSI <meldestelle@bsi.bund.de>
+To: Cem Yıldız <c.yildiz@nordlicht-orbit.de>
+Cc: Dr. Nora Thies <n.thies@nordlicht-orbit.de>
+Date: Mon, 20 Jul 2026 09:12:41 +0200
+Subject: Vorgang BSI-2026-041188 / Telemetrieverlust NLO-PF-03 - Rückfragen zur Meldung vom 16.06.2026
+Message-ID: <e94d02c7b1584f6c8a27@bsi.bund.de>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Sehr geehrter Herr Yıldız,
+
+zu Ihrer Meldung vom 16.06.2026 zum Telemetrieverlust des Testartikels NLO-PF-03 am 14.06.2026 (Dauer nach Ihrer Angabe sieben Minuten und 34 Sekunden) bitten wir um folgende ergänzende Angaben:
+
+1. Sie hatten mitgeteilt, dass die Spektrumanalyse um 03:42:07 UTC ein schmales Signal bei 2242,47 Megahertz zeigte. Bitte teilen Sie mit, ob diese Frequenz von einem eigenen Sender Ihres Unternehmens, der Borealis Launch Services AS oder eines Dienstleisters belegt war und welche Geräte im Umkreis von 500 Metern um die Thermalkammer sendefähig waren.
+
+2. Bitte übermitteln Sie die Zugriffsprotokolle des Recorders NLO-CAP-07 und des Kommandorechners für den Zeitraum 13.06.2026, 18:00 UTC, bis 14.06.2026, 06:00 UTC, sowie eine Liste der Konten mit Fernzugriff auf das Bodensegment in Stade einschließlich des Datums der letzten Passwortänderung.
+
+3. In Ihrer Meldung war von 14 verworfenen Netzwerkpaketen die Rede. Bitte reichen Sie den zugehörigen Mitschnitt im Original nach, nicht als Bildschirmfoto, und benennen Sie die Zeitquelle, auf die der aufzeichnende Rechner synchronisiert war.
+
+4. Teilen Sie bitte mit, ob seit dem 14.06.2026 vergleichbare Auffälligkeiten aufgetreten sind und ob externe Forensikdienstleister beauftragt wurden.
+
+Um Rückmeldung bis zum 07.08.2026 wird gebeten. Bitte geben Sie in der Antwort die Vorgangsnummer BSI-2026-041188 an. Für eine Einstufung des Vorgangs ist die Vollständigkeit der technischen Unterlagen maßgeblich; eine Bewertung ist mit diesem Schreiben nicht verbunden.
+
+Mit freundlichen Grüßen
+Im Auftrag
+
+Referat OC 24
+Bundesamt für Sicherheit in der Informationstechnik
+Godesberger Allee 87, 53175 Bonn

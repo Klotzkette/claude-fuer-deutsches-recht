@@ -79,10 +79,12 @@ strafrecht-verkehrsunfall-alleinrennen-berlin/
 ├── 10_edr_telematik_zeitreihe.csv                         Sekundengenaue EDR-/Telematikdaten mit Ampelphase und kumuliertem Weg
 ├── 11_sachverstaendigengutachten_edr_2026-06-20.docx      Gutachtenauszug: Höchstgeschwindigkeit, Beschleunigungsdauer, Bremsweg, Rotlicht
 ├── 12_zeugenvernehmung_wysocki_2026-06-05.docx            Aussage des Lieferwagenfahrers zu Beschleunigung und Überholvorgang
+├── 14_zwischennachricht_ag_tiergarten_terminierung_2026-07-10.docx   Zwischennachricht des Gerichts zu Terminverlegung und Ausweichterminen
 ├── eml/
 │   ├── 01_beauftragung_sachverstaendiger_edr_2026-06-01.eml   Gutachtenauftrag zur EDR-Auslesung und Bremswegrekonstruktion
 │   ├── 02_zeuge_wysocki_videohinweis_2026-05-25.eml           Zeugenhinweis mit Angebot der Dashcam-Aufnahme
-│   └── 03_werkstatt_schadensgutachten_2026-06-08.eml         Schadensgutachten BMW 440i und geparktes Taxi
+│   ├── 03_werkstatt_schadensgutachten_2026-06-08.eml         Schadensgutachten BMW 440i und geparktes Taxi
+│   └── 04_taxiunternehmen_schadensregulierung_2026-06-22.eml  Zahlungsaufforderung des Taxiunternehmens mit Verdienstausfall und Fristsetzung
 ├── whatsapp/
 │   └── chatverlauf.txt                                    Chats Arslan/Derya und Arslan/Tuncay zu Fahrt und Unfallflucht
 ├── README.md                                              Diese Übersicht

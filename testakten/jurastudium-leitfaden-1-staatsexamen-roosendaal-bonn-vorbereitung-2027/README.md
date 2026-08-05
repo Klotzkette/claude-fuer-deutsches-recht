@@ -137,6 +137,7 @@ Arbeitsakte zum Plugin `jurastudium`.
 | [`emails/2026-04-12_vater_an_anika_praktikum_diskussion.eml`](emails/2026-04-12_vater_an_anika_praktikum_diskussion.eml) | Vater Gerhard: Drängen auf Wirtschaftsanwaltspraktikum |
 | [`emails/2026-04-22_jpa_koeln_anmeldung_eingang.eml`](emails/2026-04-22_jpa_koeln_anmeldung_eingang.eml) | JPA Köln: Eingangsbestätigung Prüfungsanmeldung |
 | [`emails/2026-05-15_roosendaal_an_lerngruppe_motivation.eml`](emails/2026-05-15_roosendaal_an_lerngruppe_motivation.eml) | Annika an Lerngruppe: Motivationsrunde nach Krise |
+| [`emails/2026-07-06_jpa_koeln_zwischennachricht_nachteilsausgleich.eml`](emails/2026-07-06_jpa_koeln_zwischennachricht_nachteilsausgleich.eml) | JPA Köln: Zwischennachricht zum Nachteilsausgleich, Nachforderung fachärztlicher und amtsärztlicher Unterlagen |
 
 ### PDFs
 

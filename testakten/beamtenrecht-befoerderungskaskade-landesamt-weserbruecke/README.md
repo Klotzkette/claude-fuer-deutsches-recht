@@ -58,5 +58,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_personalverfuegung_rotation_referate.docx`](16_personalverfuegung_rotation_referate.docx) | Konkrete Personalverfügung mit Aufgaben und Befristung |
 | [`17_email_personalrat_abfolge_umsetzungen.eml`](17_email_personalrat_abfolge_umsetzungen.eml) | Personalratsmail zur tatsächlichen Umsetzungskaskade |
 | [`18_personalbewegungen_mai_juli_roh.csv`](18_personalbewegungen_mai_juli_roh.csv) | Rohdaten der parallelen Personalbewegungen |
+| [`19_abschrift_notizzettel_leitungsrunde.docx`](19_abschrift_notizzettel_leitungsrunde.docx) | Abschrift eines handschriftlichen Notizzettels aus der Leitungsrunde vom 10. Februar 2026 mit Reihenfolge- und Profilnotizen |
+| [`20_zwischennachricht_vg_weserbruecke.docx`](20_zwischennachricht_vg_weserbruecke.docx) | Zwischennachricht des VG Weserbrücke (13 B 2144/26): Zustellung, Vorlagefristen, Freihaltezusage des Antragsgegners |
 
 <!-- END nachgereichte-originalunterlagen -->

@@ -68,6 +68,7 @@ insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz/
 ├── xlsx/
 │   └── zeitliche_zuordnung_zahlungen_lieferungen.xlsx      — Tabellarische Zuordnung Zahlungen/Lieferungen (SV-Gutachten)
 ├── eml/
+│   ├── 2025-10-28_nordkredit_limitstreichung.eml          — Warenkreditversicherer streicht das Limit für die Schuldnerin auf null (mit Begründung)
 │   ├── 2025-11-06_wandelt_bitte_zahlungsziel.eml          — Geschäftsführerin bittet um 14-Tage-Ziel und kündigt Ratenvorschlag an
 │   ├── 2026-02-02_sarrasin_krisenaufschlag.eml            — Vertriebsleiter führt den Risikozuschlag von 4 Prozent ein
 │   ├── 2026-02-03_wandelt_antwort_krisenaufschlag.eml     — Geschäftsführerin protestiert und akzeptiert; Hinweise auf Bankgespräche

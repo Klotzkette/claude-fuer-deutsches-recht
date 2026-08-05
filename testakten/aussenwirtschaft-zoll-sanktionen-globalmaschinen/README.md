@@ -110,6 +110,7 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 | [02_waren/produktdaten_cnc_modul.docx](02_waren/produktdaten_cnc_modul.docx) | Technisches Datenblatt GX-900 + Klassifizierungsbegründung (EU + US EAR) |
 | [03_exportkontrolle/dual_use_pruefung_roh.docx](03_exportkontrolle/dual_use_pruefung_roh.docx) | Vollständige Dual-Use-Prüfung (2B001.b, Catch-All, ECCN-Vergleich, De-minimis) |
 | [04_sanktionen/sanktionslisten_treffer_roh.docx](04_sanktionen/sanktionslisten_treffer_roh.docx) | Sanktionslistenscreening-Bericht mit Trefferverdacht (Murat A., Al Noor FZE) |
+| [04_sanktionen/teams_chat_export_kasachstan_2026-03-15.txt](04_sanktionen/teams_chat_export_kasachstan_2026-03-15.txt) | Teams-Chat-Export Bergmann/Karaca mit der Passage "dann halt über Kasachstan" und Löschvermerken |
 | [05_zoll/taric_vzta_ursprung.docx](05_zoll/taric_vzta_ursprung.docx) | Tarifierungsmemo 8537 10 99 + Entwurf vZTA-Antrag + Ursprungsanalyse |
 | [06_cbam/cbam_importe_stahl_aluminium.csv](06_cbam/cbam_importe_stahl_aluminium.csv) | CBAM-Importliste (Rohdaten Q1/2026: Stahl, Aluminium) |
 | [06_cbam/cbam_importe_stahl_aluminium.xlsx](06_cbam/cbam_importe_stahl_aluminium.xlsx) | CBAM-Stoffstromliste (aufbereitet, Excel) |
@@ -122,6 +123,7 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 | [11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.docx](11_pruefung_ermittlung/hza_bafa_pruefung_anhoerung.docx) | Verteidigungsschriftsatz als DOCX-Binärdatei |
 | [12_presse/krisenkommunikation_entwurf.docx](12_presse/krisenkommunikation_entwurf.docx) | Q&A-Katalog + Pressemitteilungs-Entwurf + Kommunikationsplan |
 | [12_presse/krisenkommunikation_pressemitteilung.docx](12_presse/krisenkommunikation_pressemitteilung.docx) | Pressemitteilung als DOCX-Binärdatei |
+| [12_presse/presseanfrage_swz_2026-04-14.eml](12_presse/presseanfrage_swz_2026-04-14.eml) | Presseanfrage der Süddeutschen Wirtschaftszeitung vom 14.04.2026 mit vier Einzelfragen und Fristsetzung 16:00 Uhr |
 | [13_icp/exportkontrollsystem_gap.docx](13_icp/exportkontrollsystem_gap.docx) | ICP-Gap-Analyse (40 Lücken, 20-Punkte-Maßnahmenplan, Kostenrahmen) |
 
 ---

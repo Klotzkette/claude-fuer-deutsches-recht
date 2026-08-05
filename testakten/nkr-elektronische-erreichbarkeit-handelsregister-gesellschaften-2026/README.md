@@ -56,9 +56,10 @@ Arbeitsakte zum Plugin `normenkontrollrat-nkr`.
 | 13 | [`13_nkr_stellungnahme_entwurf_v1.docx`](13_nkr_stellungnahme_entwurf_v1.docx) | NKR-Stellungnahme V1 |
 | 14 | [`14_nkr_stellungnahme_finale_fassung.docx`](14_nkr_stellungnahme_finale_fassung.docx) | NKR-Stellungnahme Final |
 | 15 | [`15_jahresbericht_bezug_und_pressehinweis.docx`](15_jahresbericht_bezug_und_pressehinweis.docx) | Jahresbericht/Presse |
-| 16 | [`eml/`](eml/) | Vier EMLs mit dem BMJ-Referenten-Dialog |
-| 17 | [`tabellen/zeitwerttabelle_und_fallzahlen.csv`](tabellen/zeitwerttabelle_und_fallzahlen.csv) | Zeitwerttabelle |
-| 18 | [`tabellen/alternativen_szenarienbilanz.csv`](tabellen/alternativen_szenarienbilanz.csv) | Szenarienbilanz |
+| 16 | [`16_telefonvermerk_registergericht_charlottenburg.docx`](16_telefonvermerk_registergericht_charlottenburg.docx) | Telefonvermerk Vollzugsfragen AG Charlottenburg |
+| 17 | [`eml/`](eml/) | Fünf EMLs mit dem BMJ-Referenten-Dialog, zuletzt Zwischenstand der Ressortabstimmung vom 09.06.2026 |
+| 18 | [`tabellen/zeitwerttabelle_und_fallzahlen.csv`](tabellen/zeitwerttabelle_und_fallzahlen.csv) | Zeitwerttabelle |
+| 19 | [`tabellen/alternativen_szenarienbilanz.csv`](tabellen/alternativen_szenarienbilanz.csv) | Szenarienbilanz |
 
 ## Passende Skills (Plugin `normenkontrollrat-nkr`)
 

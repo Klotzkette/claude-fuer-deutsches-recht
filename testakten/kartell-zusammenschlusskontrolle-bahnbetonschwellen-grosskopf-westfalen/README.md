@@ -118,6 +118,7 @@ Arbeitsakte zum Plugin `kartellrecht-marktabgrenzung-pruefung`.
 | [`emails/2026-03-15_eu_komm_an_kanzlei_taskforce.eml`](emails/2026-03-15_eu_komm_an_kanzlei_taskforce.eml) | EU-Kommission DG COMP — Fallzuteilung COMP M.92188, Art.-22-Verweisung |
 | [`emails/2026-04-02_db_ag_konzerneinkauf_marktbefragung.eml`](emails/2026-04-02_db_ag_konzerneinkauf_marktbefragung.eml) | DB InfraGO AG Konzernrechtsdienst — Stellungnahme Drittbetroffene |
 | [`emails/2026-04-22_kanzlei_an_kronzeuge_strategie.eml`](emails/2026-04-22_kanzlei_an_kronzeuge_strategie.eml) | Kanzlei Schwertbeck an GBW — dringende Entscheidung Kronzeugenantrag |
+| [`emails/2026-06-24_eu_komm_auskunftsverlangen_markttest.eml`](emails/2026-06-24_eu_komm_auskunftsverlangen_markttest.eml) | EU-Kommission Case Team — Auskunftsverlangen Nr. 4 zum Carve-out-Markttest mit Frist 03.07.2026 |
 
 ### PDFs
 

@@ -133,6 +133,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | [07_transaktionen/ungewöhnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
 | [07_transaktionen/transaktionsmonitoring_alert.docx](07_transaktionen/transaktionsmonitoring_alert.docx) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
 | [07_transaktionen/transaktionshistorie_12monate_danube.xlsx](07_transaktionen/transaktionshistorie_12monate_danube.xlsx) | XLSX: 12-Monats-Transaktionshistorie Danube mit Anomalie-Flags |
+| [07_transaktionen/telefonvermerk_hausbank_carpathian_2026-05-22.docx](07_transaktionen/telefonvermerk_hausbank_carpathian_2026-05-22.docx) | Telefonvermerk zur zweiten Drittzahlung über 480000 Euro von Carpathian Consulting LLC und deren Separierung |
 | [08_mittelherkunft/source_of_funds_antwort.eml](08_mittelherkunft/source_of_funds_antwort.eml) | Antwort zur Drittzahlung und zu noch fehlenden Mittelherkunftsbelegen |
 | [08_mittelherkunft/mittelherkunftsnachweis_anforderung.docx](08_mittelherkunft/mittelherkunftsnachweis_anforderung.docx) | Schreiben: Anforderung Mittelherkunftsnachweis an Danube Trade |
 | [08_mittelherkunft/email_an_adriatic_commerce.eml](08_mittelherkunft/email_an_adriatic_commerce.eml) | E-Mail an Adriatic Commerce Ltd. zur Klärung der Drittzahlung |

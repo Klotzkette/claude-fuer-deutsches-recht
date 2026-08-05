@@ -59,11 +59,13 @@ ki-recht-betreiberpflichten-fria-sozialamt-jobcenter-duisburg/
 ├── 12_meldung_marktueberwachung_bnetza_2026-06-19.docx           — Vorfallmeldung der Stadt an die Bundesnetzagentur mit Sofortmaßnahmen
 ├── 13_antwort_civitas_software_2026-06-26.docx                   — Hersteller schiebt die Verantwortung auf die Konfiguration der Kommune
 ├── 14_normstand_vermerk_2026-07-01.docx                          — Normstand der KI-Verordnung, Omnibus-Vorbehalt, Verifikationsanordnung
+├── 15_telefonvermerk_bensaid_2026-05-07.docx                       — Telefonvermerk Amt 50: Nachfrage der Betroffenen zu Wartezeit, „anderer Warteschlange" und Datenverwendung
 ├── eml/
 │   ├── 2026-03-17_brandhorst_an_it_durchklicken.eml              — „Ich klicke die Vorschläge einfach durch" — widerlegt die wirksame Aufsicht
 │   ├── 2026-03-18_oezdemir_antwort_ticket.eml                    — IT bestätigt R-7-Aktivierung und nur einmalig gezogenen Monitoring-Bericht
 │   ├── 2026-06-22_presseanfrage_rheinische_stimme.eml            — Presseanfrage mit fünf Fragen und Fristsetzung
-│   └── 2026-06-23_pressestelle_intern_antwortentwurf.eml         — Interner Freigabe-Entwurf der Pressestelle mit Sprachregelung
+│   ├── 2026-06-23_pressestelle_intern_antwortentwurf.eml         — Interner Freigabe-Entwurf der Pressestelle mit Sprachregelung
+│   └── 2026-06-30_bnetza_eingangsbestaetigung_rueckfragen.eml    — Bundesnetzagentur bestätigt die Vorfallmeldung und fordert Konfigurations-, Log- und FRIA-Unterlagen nach
 ├── chat/
 │   └── teams_chat_sachgebiet_leistung_2026-02_bis_2026-04.txt    — Teams-Chat des Sachgebiets: P-Fälle-Stau, Geburtsort-Auffälligkeit, Fall AST-2026-0016
 ├── rubric.yaml                                                   — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

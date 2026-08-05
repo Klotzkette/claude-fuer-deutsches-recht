@@ -51,3 +51,5 @@ Die Akte enthält Arbeitswerte zur Grenze von 100.000 Euro, zum Elternunterhalt 
 | 12a | `12a_kanzleivermerk_antwortstrategie_sozialamt.docx` | Interner Kanzleivermerk zu Tatsachen, Beleglage, Auskunftsumfang und Verhandlungsweg |
 | 12b | `12b_antwortschreiben_sozialamt_2026-02-12.docx` | Davon getrenntes ausgehendes Antwortschreiben an die StädteRegion mit Anlagenverzeichnis |
 | 13 | `13_vergleichs_und_ratenangebot.docx` | Vergleichs- und Ratenangebot |
+| 14 | `14_mahnung_st_gertrud_eigenanteil_februar.docx` | Zahlungserinnerung des Heims vom 16.03.2026: Rücklastschrift des Eigenanteils Februar, angekündigte Entgelterhöhung zum 01.04.2026 |
+| — | `emails/2026-02-24_sozialamt_rueckfrage_schenkungen.eml` | Rückfrage der StädteRegion zur Überweisung von 30000 Euro an die Enkelin, zur Fahrzeugüberlassung 2018 und zur fehlenden Bescheinigung der Schwester |

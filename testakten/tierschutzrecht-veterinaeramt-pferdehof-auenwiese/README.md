@@ -30,6 +30,9 @@ Tierschutzakte Pferdehof Auenwiese: Veterinäramt, Haltungsanordnung, Wegnahme, 
 | `05_traenken_und_stallkontrollen_roh.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
 | `06_email_hufschmied_termine_2026-06-19.eml` | E-Mail mit vollständigem Header: Auenwiese / Miro, Flocke, Tessa, Juri und Bente / nächste Termine |
 | `07_tierarztbericht_stute_nala_2026-06-15.docx` | Ambulanter Untersuchungs- und Behandlungsbericht |
+| `08_telefonvermerk_veterinaerdienst_2026-06-25.docx` | Vermerk über Anruf von Frau Rehbein: Schwimmertausch, Nachtkontrollen, Frage nach Kostenbescheid |
+| `09_email_einstellerin_absagen_2026-06-26.eml` | E-Mail einer Reitschüler-Mutter zu ausgefallenen Stunden, Gerüchten auf dem Hof und der 10er-Karte |
+| `10_rechnung_lohmann_traenke_2026-06-26.docx` | Rechnung der Wasser- und Weidetechnik Lohmann GmbH über den Notdiensteinsatz an der Tränke Nord |
 ## Passende Plugins
 
 `tierschutzrecht`

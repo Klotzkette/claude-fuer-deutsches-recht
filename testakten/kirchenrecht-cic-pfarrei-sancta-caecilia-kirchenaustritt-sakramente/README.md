@@ -46,6 +46,8 @@ Diese Akte gehört zum Plugin `roemisch-katholisches-kirchenrecht`. Sie enthält
 | `17-email-ordinariat-rueckfrage.eml` | E-Mail aus dem Ordinariat |
 | `18-pastoralbrief-entwurf.docx` | Word-Entwurf eines pastoralen Antwortbriefs |
 | `19-whiteboard-kanonische-lage.jpg` | Foto/Schaubild der Fallstruktur |
+| `20-telefonnotiz-spendenangebot-orgel.docx` | Telefonnotiz des Pfarrbüros vom 10.05.2026: Spendenangebot, Stiftertafel, Gedenkmesse, Mitspracherecht |
+| `21-email-trauungsanfrage-kunigunde.eml` | E-Mail der Braut vom 04.05.2026: Trauungswunsch, anglikanischer Taufschein, Gewissensfrage des Bräutigams |
 
 ## Arbeitsauftrag
 

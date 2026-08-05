@@ -44,6 +44,8 @@ Diese Akte gehört zu den Plugins `weltraumrecht`.
 | `14-startplatz-betriebsbericht.docx` | Monatsbericht zu Anlagen, Zufahrt, Umfeldkontakten und Vorfällen |
 | `15-launch-services-vertragsnachtrag.docx` | ausführlicher Vertragsnachtrag zu Startfenster, Anomalie, Bergung und Haftung |
 | `16-bodensegment-uebergabeprotokoll.docx` | Übergabeprotokoll der Bodenstation mit Messwerten und Abweichungen |
+| `17-email-bsi-rueckfragen-meldung.eml` | Rückfragen des BSI zum Vorgang BSI-2026-041188 mit angeforderten Protokollen und Frist |
+| `18-betriebslog-stade-sendezeiten-2026-07-06.csv` | Betriebslog der Bodenstation Stade mit Kalibrieraussendungen am Abend des 6. Juli 2026 |
 
 ## Sachstand
 

@@ -104,6 +104,8 @@ Berufsbetreuers eingereicht.
 | 11 | `11_Notiz_Betreuer_Hausbesuch_28-04-2026.txt` | Text | Aktennotiz Hausbesuch Betreuer im Heim, 28.04.2026 | § 1863 BGB |
 | 12 | `12_Mietvertrag_Wohnung_alt.pdf` | PDF | ⚠️ Historischer Mietvertrag 1968 – **irrtümlich abgeheftet**, nicht relevant | – |
 | 13 | `Fehlblatt_13_Foto_Wohnung_aussen.docx` | Fehlblatt | Angekündigtes Foto der Wohnung – **fehlt in der Akte** | – |
+| 14 | `14_Email_Tochter_Aufschub_12-05-2026.eml` | E-Mail | Tochter bittet erneut um Aufschub; Heim Elbblick Hamburg, Bilder und Silberbesteck, Terminwunsch nach Pfingsten | Paragraf 1821 BGB |
+| 15 | `15_Hausgeld_Zahlungen_Leerwohnung_2025-2026.csv` | CSV | Zahlungsliste Hausgeld und Nebenkosten der Leerwohnung Januar 2025 bis April 2026 (WEG-Verwaltung Grunewald & Partner) | Paragraf 1865 BGB |
 
 ---
 

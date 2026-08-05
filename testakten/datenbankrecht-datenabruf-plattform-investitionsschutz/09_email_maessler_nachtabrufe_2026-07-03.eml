@@ -1,0 +1,25 @@
+From: Tanja =?utf-8?q?M=C3=A4=C3=9Fler?= <t.maessler@havelimmo.de>
+To: Dr. Marlene =?utf-8?b?UsO8w58=?= <m.ruess@havelimmo.de>
+Cc: rechtsabteilung@havelimmo.de
+Date: Fri, 3 Jul 2026 07:52:18 +0200
+Subject: Nachtabrufe 1./2. Juli - kurzer Zwischenstand vor der Telko
+Message-ID: <9f31c7b2ae04d81155c2@havelimmo.de>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Guten Morgen Frau Dr. Rüß,
+
+kurz vor der Telko, damit Sie es nicht erst aus dem Wochenbericht erfahren: wir hatten in der Nacht vom 1. auf den 2. Juli wieder auffällige Abrufe, diesmal deutlich kleiner. Zwischen 02:10 und 04:40 Uhr rund 61.000 Aufrufe aus dem Bereich 193.34.101.0/24, das ist NICHT einer der beiden Bereiche aus dem Juni. Genutzt wurden drei Konten, alle am 29. Juni neu registriert, alle mit Wegwerfadressen (zwei mal mailfix.ee, einmal postbox-nord.com).
+
+Das Client-Merkmal ist diesmal nicht ql-fetch, sondern ein generischer Browser-String. ABER: die Abfragereihenfolge (erst Objektprofil, dann Preishistorie, dann Standortattribute) ist praktisch identisch zum Muster aus Mai/Juni, auch wieder Ratenwechsel knapp unterm Limit, diesmal alle 9 Minuten. Kann Zufall sein, kann auch jemand sein der dazugelernt hat. Ich will da nichts reininterpretiern, das ist erstmal nur Beobachtung.
+
+Konten sind seit gestern 05:12 Uhr gesperrt, Logs gesichert (Hashes hänge ich heute nachmittag ans Manifest an, Herr Kern ist im Urlaub, mach ich selber). Die estnische Registrar-Adresse passt übrigens geografisch zu dem was Herr Maaß am Dienstag über den Dienstleister in Tallinn gesagt hat, aber das ist wie gesagt nur ein Bauchgefühl und kein Beleg.
+
+Sollen wir das der Kanzlei Eßwein gleich mitgeben oder erst intern sauber aufbereiten? Ich wäre für gleich mitgeben, sonst heißt es nachher wieder wir hätten was zurückgehalten Richtung Datenraum.
+
+Viele Grüße, auch an die Kollegen aus Legal
+
+Tanja Mäßler
+Leiterin IT-Sicherheit
+HavelImmo Daten GmbH, Speicherstadt 14, 14467 Potsdam

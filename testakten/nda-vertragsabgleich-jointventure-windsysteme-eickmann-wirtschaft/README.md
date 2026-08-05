@@ -118,6 +118,7 @@ Arbeitsakte zum Plugin `nda-abgleich`.
 | [`emails/email-anwalt-bedenken-residual-clause.eml`](emails/email-anwalt-bedenken-residual-clause.eml) | RA Roosendaal: rechtliche Bedenken Residual-Klausel |
 | [`emails/email-bafa-vorabauskunft-iran-projekt.eml`](emails/email-bafa-vorabauskunft-iran-projekt.eml) | BAFA-Vorabauskunft Az. 4022-26/Iran-WS-188 |
 | [`emails/email-verhandlungseinladung-singapur.eml`](emails/email-verhandlungseinladung-singapur.eml) | Einladung Verhandlungstage Singapur, SIAC-Tagungsraum |
+| [`emails/email-it-security-zwischenbericht-cybertrading.eml`](emails/email-it-security-zwischenbericht-cybertrading.eml) | Zwischenstand der Umfeldprüfung: Eickmann Digital Assets, Warnlisten-Treffer, Registerauszüge ausstehend |
 
 ### PDFs
 

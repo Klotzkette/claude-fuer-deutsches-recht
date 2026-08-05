@@ -55,6 +55,7 @@ VC-Geber-Akte eines Berliner Family-Office-nahen Venture-Investors, der drei Inv
 | `30-lawyer-call-note.docx` | Anwaltscall mit offenen Rechtsfragen. |
 | `31-founder-update-standard.docx` | Founder-Update-Standard. |
 | `32-email-unterlagenrequest-kognitix.eml` | E-Mail mit Unterlagenanforderung. |
+| `33-founder-chat-export-kognitix.txt` | Chat-Export mit der Gründerin zu IP-Assignment, Trainingsdaten-Herkunft und Runway. |
 
 ## Passende Plugins
 

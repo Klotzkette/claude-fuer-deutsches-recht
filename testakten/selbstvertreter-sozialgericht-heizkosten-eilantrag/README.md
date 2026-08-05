@@ -83,6 +83,8 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 | `07d_telefonnotiz_stadtwerke_2026-05-28.docx` | Auskunft zu Preisänderungen und fehlender Verbrauchsaufteilung |
 | `07e_entwurf_vorschussantrag_2026-05-12.docx` | noch nicht versandter Antrag nach Paragraf 42 SGB I |
 | `08_kdu_konzept_und_internetrecherche.docx` | KdU-Konzept-Auszug der Stadt Leipzig mit Tabellen, zehn widersprüchliche Internet-Treffer |
+| `09_chatverlauf_nachbarin_januar2026.txt` | Messenger-Verlauf mit der Nachbarin Hentschel: Briefkastenleerung im Januar, klemmende Klappe, Rückfrage zum Jobcenter-Brief |
+| `10_bescheinigung_saalekliniken_halle_2026-05-30.docx` | Bescheinigung der Saalekliniken Halle über den stationären Aufenthalt des Vaters vom 9. bis 31. Januar 2026 mit dokumentierten Gesprächsterminen |
 
 ## Empfohlener Pluginlauf
 

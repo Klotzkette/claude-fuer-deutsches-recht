@@ -73,6 +73,8 @@ testakten/legistik-pflichtpostfach/
   anlagen/
     nkr-stellungnahme.md
     notifizierung-2015-1535.md
+    stellungnahme-verbaendeanhoerung-berw.md   # Verbandsstellungnahme BERW: Erfuellungsaufwand, Uebergangsfrist, Zustellfiktion
+  ressortabstimmung_mitzeichnung_bmf.eml       # BMF-Mitzeichnung mit Massgaben zur AO-Folgeaenderung und zum Zollaufwand
   output/                  # leer am Anfang, wird vom render.py gefuellt
 ```
 

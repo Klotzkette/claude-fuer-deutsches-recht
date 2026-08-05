@@ -79,10 +79,12 @@ strafrecht-urkundenfaelschung-au-pflegedienst-bremen/
 ├── 09_originalanlage_behoerdenvermerk.pdf                 PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_au_dienstplan_anwesenheit_abgleich.csv             Abgleich AU-Bescheinigung, Dienstplan und Anwesenheit je Tag mit Entgeltfortzahlung
 ├── 11_zeugenvernehmung_pdl_hoevels_2026-06-15.docx        Aussage der PDL zur Tourensoftware und zu den Widerspruchstagen
+├── 13_einzelverbindungsnachweis_mobil_kroll_2026-02.csv   Einzelverbindungsnachweis des Mobilanschlusses der Mandantin für den strittigen Zeitraum
 ├── eml/
 │   ├── 01_weserblick_personal_an_kroll_anhoerung_2026-03-12.eml   Anhörung durch die Personalleitung mit Konfrontation der Diskrepanz
 │   ├── 02_aok_an_weserblick_eau_rueckfrage_2026-02-27.eml         eAU-Auskunft der Kasse: Meldung erst ab 06.02.2026
-│   └── 03_praxis_twardon_an_weserblick_dementi_2026-03-18.eml     Dementi der Praxis zur rückwirkenden Bescheinigung
+│   ├── 03_praxis_twardon_an_weserblick_dementi_2026-03-18.eml     Dementi der Praxis zur rückwirkenden Bescheinigung
+│   └── 04_praxis_radtke_an_breuer_benutzerkennung_2026-07-06.eml  Praxismanagerin zu Benutzerkennung MW-02, Rückrufbuch und gelöschter Telefonliste
 ├── whatsapp/
 │   └── chatverlauf.txt                                    Chat Kroll/Kolb zu Krankschreibung trotz gefahrener Touren
 ├── README.md                                              Diese Übersicht

@@ -105,6 +105,7 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | `28_Hauptverhandlungsprotokoll.docx` | Protokoll der Hauptverhandlung |
 | `29_Urteil_Amtsgericht_Frankfurt.docx` | Urteil des Amtsgerichts Frankfurt am Main |
 | `emails/`, `eml/` | E-Mail-Verkehr Geschäftsführer, Steuerberater, Bank, Vermieter |
+| `eml/06_klingmann_erinnerung_buchfuehrung.eml` | Dritte Erinnerung des Steuerberaters: fehlende Buchhaltungsunterlagen seit Oktober 2023 |
 | `csv/` | Gläubigerliste, Umsatzentwicklung 2022-2024 |
 | `xlsx/` | Deckungslücken-Monatsverlauf |
 | `jpg/` | Fotodokumentation Büro Goethestraße |

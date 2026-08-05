@@ -62,6 +62,8 @@ Nach einem OTA-Update im Februar 2026 fällt erst das Eiswürfelmodul aus, spät
 | `10_entwurf_anschreiben_haendler.docx` | anwaltlicher Entwurf an Händler und Hersteller |
 | `11_anspruchsmatrix_arbeitsstand.docx` | Anspruchsmatrix ohne abschließende Lösung |
 | `emails/*.eml` | E-Mail-Verkehr Käuferin, Händler, Hersteller, Werkstatt |
+| `emails/email-hausverwaltung-an-mandantin-wasserschaden.eml` | Hausverwaltung meldet Feuchtigkeitsschaden in der Wohnung darunter und auffällige Stromzählerstände |
 | `tabellen/*.csv` | Kosten, Fristen, Update-/Temperaturlog |
+| `tabellen/entsorgte-lebensmittel-belegliste.csv` | Aufstellung entsorgter Lebensmittel mit teils fehlenden Belegen und geschätzten Beträgen |
 | `xlsx/*.xlsx` | strukturierte Fristen- und Mangelmatrix |
 | `docx/*.docx` | Entwurfsbrief und Reparaturprotokoll |

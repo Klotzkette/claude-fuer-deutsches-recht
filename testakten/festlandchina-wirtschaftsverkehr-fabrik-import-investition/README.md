@@ -46,5 +46,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_zollbeschau_container_shenzhen_hamburg.docx`](12_zollbeschau_container_shenzhen_hamburg.docx) | Zollbeschau mit konkreten Modell- und Serienabweichungen |
 | [`13_email_lieferant_funkmodul_seriennummern.eml`](13_email_lieferant_funkmodul_seriennummern.eml) | Lieferantenmail aus der Produktionsakte |
 | [`14_container_packliste_seriennummern_roh.csv`](14_container_packliste_seriennummern_roh.csv) | Unbereinigte Pack- und Seriennummernliste |
+| [`15_telefonvermerk_zollstelle_standgeld.docx`](15_telefonvermerk_zollstelle_standgeld.docx) | Telefonvermerk Morgenstern/Köster zu Nachreichungen, Mustern und Standgeld |
+| [`16_email_ufer_wendler_chen_bo_rueckmeldung.eml`](16_email_ufer_wendler_chen_bo_rueckmeldung.eml) | Interne Mail zu erneutem Anruf Chen Bo, Werkzeug M24 und verschobener Videoinspektion |
+| [`17_zwischenabrechnung_hanseport_standgeld_roh.csv`](17_zwischenabrechnung_hanseport_standgeld_roh.csv) | Rohdaten der Hanseport-Zwischenabrechnung mit Standgeld, Beschaubegleitung und Lagergeld |
 
 <!-- END nachgereichte-originalunterlagen -->

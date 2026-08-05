@@ -66,6 +66,9 @@ Die HeatBridge AG (Hannover), ein privater Wärmecontractor, hatte der Stadt 202
 | [04_beschwerde_wettbewerber.docx](04_beschwerde_wettbewerber.docx) | Vollständige Beschwerde der HeatBridge AG an DG COMP nach Art. 24 Abs. 2 VO (EU) 2015/1589 |
 | [05_vorlagefrage_entwurf.docx](05_vorlagefrage_entwurf.docx) | Formaler Vorlagebeschluss VG Lüneburg nach Art. 267 AEUV mit vier ausformulierten Vorlagefragen |
 | [05_vorlagebeschluss.docx](05_vorlagebeschluss.docx) | DOCX-Version des Vorlagebeschlusses für den ZIP-Download |
+| [06_email_rennekamp_gloeckner_august2023.eml](06_email_rennekamp_gloeckner_august2023.eml) | Interner E-Mail-Wechsel Wirtschaftsförderung/Rechtsamt vom August 2023: Zeitdruck vor Bescheiderlass, offene Mehrkostenberechnung der KWL |
+| [07_telefonvermerk_beihilfestelle_land.docx](07_telefonvermerk_beihilfestelle_land.docx) | Telefonvermerk vom 6. Dezember 2023: Beihilfereferat des Nds. Wirtschaftsministeriums fordert Unterlagen zur Auskunftsanordnung SA.2023/0847 an |
+| [08_auszahlungsplan_kaemmerei.csv](08_auszahlungsplan_kaemmerei.csv) | Aufstellung der Kämmerei zu Mittelbindung, ausgezahlter Tranche 1 und gesperrten Tranchen 2 und 3 |
 
 ---
 

@@ -1,0 +1,8 @@
+Buchungstag;Wertstellung;Buchungstext;Auftraggeber_Empfänger;Verwendungszweck;Betrag_EUR;Saldo_EUR
+01.07.2026;01.07.2026;Dauerauftrag;Stadtwerke Karlsruhe;Abschlag Strom Gas Rheinstraße 208;-142,00;2.318,44
+06.07.2026;06.07.2026;Kartenzahlung;Edeka Südwest;Einkauf 04.07. Karlsruhe;-83,17;2.235,27
+15.07.2026;15.07.2026;Lastschrift;MeterCloud Services GmbH;Rechnung MC-2026-44118 KomfortPlus Mandat 4401882;-26,70;2.208,57
+16.07.2026;15.07.2026;Lastschriftrückgabe;MeterCloud Services GmbH;Rückgabe auf Weisung des Kontoinhabers MC-2026-44118;+26,70;2.235,27
+28.07.2026;28.07.2026;Gutschrift;Deutsche Rentenversicherung Bund;Laufende Zahlung August 2026;+1.874,32;4.109,59
+03.08.2026;03.08.2026;Dauerauftrag;Stadtwerke Karlsruhe;Abschlag Strom Gas Rheinstraße 208;-142,00;3.967,59
+11.08.2026;11.08.2026;Kartenzahlung;Apotheke am Werderplatz;Einkauf 11.08. Karlsruhe;-24,90;3.942,69

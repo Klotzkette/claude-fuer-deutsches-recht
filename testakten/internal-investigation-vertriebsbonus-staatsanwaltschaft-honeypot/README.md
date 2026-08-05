@@ -39,3 +39,6 @@ Diese Akte gehört zu den Plugins `internal-investigations-praxis`, `arbeitsrech
 
 | Datei | Inhalt |
 | --- | --- |
+| `07-teams-chat-sondertopf-export.txt` | Gesicherter Teams-Chat Meinhard/Brandl zu Sondertopf, Rabattfreigaben und Seewochenende |
+| `08-telefonvermerk-staatsanwaltschaft.docx` | Anruf eines Oberstaatsanwalts mit Bitte um freiwillige Herausgabe der Untersuchungsergebnisse |
+| `09-spesenabrechnung-seminar-november-2025.csv` | Spesenbelege des angeblichen Anwenderseminars mit fehlender Teilnehmerliste |

@@ -122,6 +122,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | [`emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml`](emails/2025-04-02_roosendaal_an_pohlmann-wittfeldt_pruefauftrag.eml) | Roosendaal an Pohlmann-Wittfeldt: Prüfauftrag Prüfkorpus |
 | [`emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml`](emails/2025-05-15_mitarbeitende_an_lattermann_beck-anfrage.eml) | Mitarbeiter an Knowledge: Beck-Online-Lizenzanfrage |
 | [`emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml`](emails/2025-06-20_hu-berlin_an_pohlmann-wittfeldt_korrespondenz.eml) | HU Berlin an Pohlmann-Wittfeldt: Lehrauftrag Zitierweise |
+| [`emails/2025-07-08_lattermann_an_partnerrunde_lizenzinventar.eml`](emails/2025-07-08_lattermann_an_partnerrunde_lizenzinventar.eml) | Lattermann an Partnerrunde: Lizenzinventar, Sperrvermerk-Zahlen Q2 und Angebote für Referendarszugänge |
 
 ### PDFs
 

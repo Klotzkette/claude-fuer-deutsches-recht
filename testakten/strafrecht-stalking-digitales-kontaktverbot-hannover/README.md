@@ -75,11 +75,13 @@ strafrecht-stalking-digitales-kontaktverbot-hannover/
 ├── 09_originalanlage_behoerdenvermerk.pdf              PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_kontaktchronologie_kanaele.csv                  Kontaktereignisse nach Datum, Kanal und Profil (Datenauswertungs-Kern)
 ├── 11_beschuldigtenvernehmung_mertens_2026-06-15.docx  Einlassung Mertens: nur einmal geschrieben, bestreitet Tracker
+├── 13_telefonvermerk_mandantin_2026-07-17.docx            Telefonvermerk: Zettel am Fahrzeug der Schwester, unterdrückte Anrufe, Mandantin kennt keine Marion Kessler
 ├── eml/
 │   ├── 01_autohaus_leinau_trackerfund_2026-05-07.eml      Werkstatt meldet Fund des GPS-Senders am Fahrzeug
 │   ├── 02_polizei_gefaehrderansprache_2026-05-09.eml      Polizeivermerk über die Gefährderansprache
 │   ├── 03_familiengericht_kontaktverbot_2026-06-03.eml    Zustellung der einstweiligen Gewaltschutzanordnung
-│   └── 04_meta_law_enforcement_teilauskunft_2026-06-24.eml Teilauskunft der Plattform zu den vier Instagram-Konten
+│   ├── 04_meta_law_enforcement_teilauskunft_2026-06-24.eml Teilauskunft der Plattform zu den vier Instagram-Konten
+│   └── 05_sta_zwischennachricht_plattformdaten_2026-07-22.eml Zwischennachricht der Staatsanwaltschaft: Erinnerungsfrist, Zeugin Kessler, GPS-Sender in Untersuchung
 ├── whatsapp/
 │   └── chatverlauf.txt                                  Chat der wechselnden Nummern: Drohungen und "warum hast du das Geraet entfernt"
 ├── README.md                                            Diese Übersicht

@@ -97,6 +97,8 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | [21_gruppenbildung_planentwurf.docx](21_gruppenbildung_planentwurf.docx) | Entwurf Gruppenbildung nach § 222 InsO (4 Gruppen); offene Fragen |
 | [22_starug_alternativroute.docx](22_starug_alternativroute.docx) | Kritische StaRUG-Prüfung: warum das Gesetz im konkreten Fall ausscheidet; Lernnotiz |
 | [23_plan_quality_gate.docx](23_plan_quality_gate.docx) | Checkliste Planvorlagebereitschaft; Ergebnis: kein Plan (6 von 6 Formalkriterien nicht erfüllt) |
+| [24_email_furnier_nord_antwort_anfechtung.eml](24_email_furnier_nord_antwort_anfechtung.eml) | Antwort der Furnier Nord GmbH auf das Anfechtungsschreiben: Fristbitte, eigene Sachverhaltsdarstellung, Tabellenfrage |
+| [25_telefonvermerk_havelbank_verwertungserloes.docx](25_telefonvermerk_havelbank_verwertungserloes.docx) | Telefonvermerk mit der Havelbank zu Absonderungserlösen, Kostenbeiträgen und Kontoabwicklung |
 | [anfechtungsschreiben_furnier_nord.docx](anfechtungsschreiben_furnier_nord.docx) | DOCX-Anfechtungsschreiben an Furnier Nord GmbH (§ 131 InsO) |
 | [bericht_berichtstermin_14092026.docx](bericht_berichtstermin_14092026.docx) | DOCX-Bericht zum Berichts- und Prüfungstermin |
 

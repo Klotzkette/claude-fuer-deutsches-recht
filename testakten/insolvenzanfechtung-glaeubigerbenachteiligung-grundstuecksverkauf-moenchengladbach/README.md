@@ -78,6 +78,7 @@ insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladba
 └── eml/
     ├── 2025-09-29_rheinpark_erstkontakt.eml                Erstkontakt der Erwerberin direkt beim Geschäftsführer aus eigener Ankaufsrecherche
     ├── 2025-11-03_vondering_provision.eml                  E-Mail des Geschäftsführers an den Bruder zur Ausgestaltung der „Provision"
+    ├── 2026-06-24_stefan_vondering_antwort_anfechtung.eml  Antwort des Bruders auf die Anfechtung: Golfclub-Kontakt, behauptete Leistungen, Entreicherung, Ratenangebot
     ├── 2026-09-08_terminsladung_gutachterin.eml            Terminsladung mit mündlicher Gutachtenerläuterung
     ├── 2026-11-24_vergleichsannahme_rheinpark.eml          Vergleichsannahme der Beklagten
     └── 2027-02-02_zahlungseingang_zweite_rate.eml          Bestätigung des vollständigen Zahlungseingangs

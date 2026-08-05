@@ -78,10 +78,12 @@ strafrecht-sexualdelikt-aussage-gegen-aussage-mainz/
 ├── 09_originalanlage_behoerdenvermerk.pdf                 PDF-Anlage mit behördlichem oder fachlichem Vermerk
 ├── 10_kontakt_nachrichten_zeitleiste.csv                  Aus mehreren Quellen zusammengeführte Zeitleiste mit objektiven Ankern
 ├── 11_zeugenvernehmung_demir_2026-04-30.docx              Aussage der Freundin zu Sprachnachrichten und Zeitverlauf
+├── 14_zwischennachricht_lg_mainz_zeugenschutz_2026-07-28.docx   Zwischennachricht der Kammer zu Terminplanung, Wartebereich und Videoanlage
 ├── eml/
 │   ├── 01_rechtsmedizin_befunduebersendung_2026-04-08.eml     Übersendung des Untersuchungsbefunds, unspezifische Belastungssymptome
 │   ├── 02_frauennotruf_prozessbegleitung_2026-04-20.eml       Angebot psychosozialer Prozessbegleitung nach Paragraf 406g StPO
-│   └── 03_ladung_zeugin_demir_2026-04-22.eml                  Ladung der Zeugin zur Vernehmung mit Bitte um Sicherung der Nachrichten
+│   ├── 03_ladung_zeugin_demir_2026-04-22.eml                  Ladung der Zeugin zur Vernehmung mit Bitte um Sicherung der Nachrichten
+│   └── 04_taxi_fahrtdaten_funk_mainz_2026-05-06.eml           Fahrtdaten der Taxizentrale mit Bestellzeit, Fahrtverlauf und Fahrerhinweis
 ├── whatsapp/
 │   └── chatverlauf.txt                                    Chat Hartmann/Reimers: freundlicher Verlauf vorher, abrupter Abbruch danach
 ├── README.md                                              Diese Übersicht

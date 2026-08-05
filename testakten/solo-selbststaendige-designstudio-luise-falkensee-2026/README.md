@@ -61,5 +61,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_aenderungsauftrag_verpackungsserie_waldglas.docx`](16_aenderungsauftrag_verpackungsserie_waldglas.docx) | Nachträglicher Kundenauftrag mit Rechten, Umfang und Zahlungsreibung |
 | [`17_email_druckerei_offene_dateien.eml`](17_email_druckerei_offene_dateien.eml) | Technische Originalmail der Druckvorstufe |
 | [`18_offene_posten_und_aenderungsstunden.csv`](18_offene_posten_und_aenderungsstunden.csv) | Offene Posten und tatsächlich gebuchte Änderungsstunden |
+| [`19_chat_export_waldglas_korrekturlauf.txt`](19_chat_export_waldglas_korrekturlauf.txt) | WhatsApp-Export der Projektgruppe Waldglas zu Korrekturläufen, Andrucktermin und IBAN-Klärung |
+| [`20_telefonvermerk_ksk_rueckruf.docx`](20_telefonvermerk_ksk_rueckruf.docx) | Eigene Notiz zum KSK-Rückruf mit Vorgangsnummer, fehlenden Nachweisen und Bearbeitungsstand |
 
 <!-- END nachgereichte-originalunterlagen -->

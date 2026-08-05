@@ -73,5 +73,6 @@ insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld/
     ├── 2025-11-26_baender_still.eml                        E-Mail des Schuldner-Geschäftsführers: Zahlung nur bei fortgesetzter Belieferung
     ├── 2025-11-28_grossauftrag_intern.eml                  Interne Abwägung des Vertriebsleiters vor der Geschäftsführungsrunde
     ├── 2026-07-14_uebersendung_klageerwiderung.eml         Übersendung der Klageerwiderung an die Verwalterin
-    └── 2026-12-05_vergleich_bestaetigung.eml               Bestätigung des Feststellungsbeschlusses und Zahlungsaufforderung
+    ├── 2026-12-05_vergleich_bestaetigung.eml               Bestätigung des Feststellungsbeschlusses und Zahlungsaufforderung
+    └── 2026-12-19_zahlungsavis_rate1.eml                   Zahlungsavis der Buchhaltung zur ersten Rate; Rückfrage nach IBAN des Massekontos und zur Kostenerstattung
 ```

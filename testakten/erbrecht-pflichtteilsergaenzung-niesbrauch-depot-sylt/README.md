@@ -51,8 +51,10 @@ Pflichtteilsstreit nach dem Tod von Helga Martensen. Vorwegübertragung eines Ha
 | `12_vollmacht_anja_martensen.docx` | Mandatsvollmacht mit Umfang, Beschränkungen und Identitätsprüfung |
 | `12a_postausgang_und_fristen_2026-07.docx` | Gesondertes Kanzleiprotokoll zu Versand, Zustellung und Wiedervorlagen |
 | `13_rvg_kostenentwurf.docx` | Kosten-, Vorschuss- und Fremdkostenübersicht ohne verfrühte Wertfestlegung |
+| `14_nachrichtenverlauf_karsten_anja_gesichert.txt` | Gesicherter Chatverlauf mit Karstens Vergleichsangebot Depot gegen Ferienvermietung und Fristdruck |
 | `csv/beleganforderung.csv` | Strukturierte Beleganforderung für die fehlenden Nachlass-, Grundstücks-, Depot- und Pflegeunterlagen |
 | `emails/2026-06-28_anja_fragt_nach_depot.eml` | Mandantenmail zu Depotübertragung, Ertragszahlungen und noch vorhandenen Kontoauszügen |
+| `emails/2026-07-07_inselbank_nachtrag_dauerauftrag.eml` | Nachtrag der Inselbank zu Einrichtung, Änderung und Löschung des Dauerauftrags Theo Martensens |
 | `pdfs/gutachterkurzbrief_keitum.pdf` | Sachverständiger Markt- und Unterlagenbrief mit zwei Stichtagen und Kostenangebot |
 | `xlsx/pflichtteilsergaenzung_wertband.xlsx` | Intern abgestimmte Immobilien-, Depot- und Nachlasswerte mit Quellen und offenen Fragen |
 

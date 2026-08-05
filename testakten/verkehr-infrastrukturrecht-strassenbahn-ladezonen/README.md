@@ -114,10 +114,13 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 | [03_strassenbahn/linienfuehrung_betroffene.docx](03_strassenbahn/linienfuehrung_betroffene.docx) | Stellungnahme VBF zu Linienführung und Betroffenen |
 | [03_strassenbahn/planfeststellungsbeschluss_auszug.docx](03_strassenbahn/planfeststellungsbeschluss_auszug.docx) | Auszug Planfeststellungsbeschluss (Tenor, Nebenbestimmungen) |
 | [03_strassenbahn/planfeststellungsbeschluss_auszug.docx](03_strassenbahn/planfeststellungsbeschluss_auszug.docx) | DOCX-Fassung des Planfeststellungsbeschluss-Auszugs |
+| [03_strassenbahn/email_bezirksregierung_einwendungen.eml](03_strassenbahn/email_bezirksregierung_einwendungen.eml) | Zwischennachricht der Bezirksregierung Westmark: 143 Einwendungen, Erwiderungsfrist, Ablaufplan Erörterungstermin |
 | [04_ladeinfrastruktur/ladepunkte_netzanschluss.docx](04_ladeinfrastruktur/ladepunkte_netzanschluss.docx) | Aktenvermerk Planungsamt: Ladeinfrastruktur und Sondernutzung |
+| [04_ladeinfrastruktur/telefonvermerk_westmark_netz.docx](04_ladeinfrastruktur/telefonvermerk_westmark_netz.docx) | Telefonvermerk vom 9. April 2025: verspätetes Netzanschlussangebot, Kostenvarianten für Standort S3 |
 | [05_parkraum_wirtschaftsverkehr/lieferzonen_konzept.csv](05_parkraum_wirtschaftsverkehr/lieferzonen_konzept.csv) | Konzeptübersicht Ladezonen (Tabelle) |
 | [05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.docx](05_parkraum_wirtschaftsverkehr/ladeszonenkonzept_stellungnahme.docx) | E-Mail Bürgerinitiative zu Ladezonen |
 | [06_schulwegsicherheit/gefahrenstellen.docx](06_schulwegsicherheit/gefahrenstellen.docx) | Aktenvermerk Planungsamt: Schulwegsicherheit Tempo 30 |
+| [06_schulwegsicherheit/verkehrszaehlung_gartenstrasse.csv](06_schulwegsicherheit/verkehrszaehlung_gartenstrasse.csv) | Zählprotokoll November 2025: Bringverkehr, Halten in zweiter Reihe und gefahrene Geschwindigkeiten an der Grundschule Nord |
 | [07_verfahren/widerspruch_anwohner.docx](07_verfahren/widerspruch_anwohner.docx) | Widerspruchsschreiben Anwohner Gartenstraße |
 | [07_verfahren/widerspruch_anwohner.docx](07_verfahren/widerspruch_anwohner.docx) | DOCX-Fassung des Widerspruchsschreibens |
 | [08_foerderung_vergabe/foerdermittel_vergabe.docx](08_foerderung_vergabe/foerdermittel_vergabe.docx) | Förderbescheid GVFG + Vergabeunterlagen |

@@ -1,0 +1,7 @@
+Bestellnr;Bestelldatum;Lieferant;Position;Menge;Charge;Lieferdatum;Bemerkung
+B-2026-0114;2026-01-14;Kunststoffwerk Priegnitz GmbH;Rastkeil-Rohling PA gefüllt;30;ohne Chargenangabe;2026-02-02;Musterbau für Messeaufbau, Rest im Laborschrank
+B-2026-0141;2026-02-06;Federn Albrecht KG;Schenkelfeder 16 N und 18 N gemischt;50;F-0378;2026-02-13;Nachbestellung nach Bruch beim Handmuster
+B-2026-0233;2026-05-12;Kunststoffwerk Priegnitz GmbH;Spritzguss Trägerplatte und Klinke;120;PA-260520;2026-05-22;erste Werkzeugcharge für Versuchsreihe
+B-2026-0241;2026-05-12;Federn Albrecht KG;Schenkelfeder 18 N;120;F-0412;2026-05-25;für Prototypen S14-A und S14-B
+B-2026-0289;2026-06-08;Kunststoffwerk Priegnitz GmbH;Spritzguss Klinke geändert, Haltenase plus 0.4 mm;80;PA-260611;2026-06-16;Änderungsstand für S14-C und S14-D
+B-2026-0290;2026-06-08;Kabelwerk Spree GmbH;Bogenführung Kabelentlastung;80;KS-1188;2026-06-18;Teilmenge zurückgestellt, Abrieb noch offen

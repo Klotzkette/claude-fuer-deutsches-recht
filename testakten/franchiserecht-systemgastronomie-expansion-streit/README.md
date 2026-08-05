@@ -38,6 +38,9 @@ Diese Akte gehört zu den Plugins `franchiserecht-praxis`, `kartellrecht`, `gese
 | `08-email-karaca-umsatz-und-gebietsschutz-02-06-2026.eml` | Antwort der Franchisenehmerin mit Umsatzdaten und konkretem Gebietsbezug |
 | `09-email-lieferqualitaet-social-media-10-06-2026.eml` | Betriebliche Nachricht zu Kühlkette, Verpackungen, Beschwerden und Standortkonto |
 | `10-kassenexport-2025-2026.csv` | Rohdatenexport nach Monat und Verkaufskanal mit Bons, Umsatz, Rabatten und Stornos |
+| `11-gespraechsvermerk-handelshof-16-06-2026.docx` | Abgetippter, unvollständiger Gesprächsvermerk zum Termin im Handelshof mit Positionen beider Seiten |
+| `12-email-goldkorn-reklamation-98271-12-06-2026.eml` | Antwort des Lieferanten Goldkorn zur Reklamation der Lieferung 98271 mit Teilgutschrift |
+| `13-offene-posten-lieferanten-06-2026.csv` | Offene-Posten-Liste zu Goldkorn-Rechnungen und Verpackungsabrechnungen der Zentrale |
 | `gesamt-pdf/franchiserecht-systemgastronomie-expansion-streit_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

@@ -64,6 +64,7 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstraßen-Tr
 | [26_vorstandssitzung_mitschrift_24_05_2026.docx](26_vorstandssitzung_mitschrift_24_05_2026.docx) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschlüsssen |
 | [27_schriftverkehr_bundestagsverwaltung.docx](27_schriftverkehr_bundestagsverwaltung.docx) | Anwältliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
 | [28_pressetext_eigenes_statement.docx](28_pressetext_eigenes_statement.docx) | Pressetext der Initiative zur Eintragung und Finanzierung |
+| [29_whatsapp_abschrift_westhoff_seeger.txt](29_whatsapp_abschrift_westhoff_seeger.txt) | Abschrift der WhatsApp-Screenshots Westhoff/Seeger zur bedingten Windpark-Spende, letzter Screenshot unvollständig |
 
 ## Prüffokus
 

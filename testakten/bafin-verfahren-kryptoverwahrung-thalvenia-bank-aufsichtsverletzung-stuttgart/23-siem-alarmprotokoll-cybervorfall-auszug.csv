@@ -1,0 +1,13 @@
+Zeitstempel;Quelle;Ereignis;Schweregrad;Bearbeiter;Statusvermerk
+08.01.2026 23:41:07;VPN-GW-01 (FortiGate);Mehrfache fehlgeschlagene Admin-Anmeldungen aus 185.220.x.x;Mittel;SOC Nachtschicht Danilenko;als Fehlalarm geschlossen 23:58
+09.01.2026 01:33:52;VPN-GW-01 (FortiGate);Erfolgreiche Admin-Anmeldung aus unbekanntem Netz, Session 88412;Hoch;unbearbeitet;automatische Eskalation fehlgeschlagen, Mailrelay Wartungsfenster
+09.01.2026 02:17:04;SIEM Korrelationsregel CC-07;Lateralbewegung in Segment COLD-CUST-ADM erkannt, Erstalarm IT-Notfall;Kritisch;SOC Nachtschicht Danilenko;Ticket INC-2026-0114 eröffnet
+09.01.2026 02:26:40;COLD-CUST-ADM-SRV2;Anlage neues Dienstkonto svc_backup2 durch Session 88412;Kritisch;SOC Nachtschicht Danilenko;Konto 02:41 deaktiviert
+09.01.2026 02:58:13;COLD-CUST-ADM-SRV2;Start Verschlüsselungsprozess auf Testverzeichnis, abgebrochen durch EDR;Kritisch;EDR automatisch;Prozess isoliert, Host vom Netz getrennt
+09.01.2026 03:12:29;Firewall Segment COLD-CUST;Komplette Segmenttrennung manuell ausgelöst;Info;Rufbereitschaft Yilmaz;Freigabe durch Schichtleiter
+09.01.2026 04:05:11;Ticketsystem;INC-2026-0114 auf IT-Notfall Stufe 2 hochgestuft;Info;Yilmaz;Benachrichtigungsliste Stufe 2 ausgelöst, CISO-Pager keine Bestätigung
+09.01.2026 08:30:47;Ticketsystem;Telefonische Unterrichtung CISO Thorvaldsson, Rückruf bestätigt;Info;Yilmaz;Protokollnotiz nachgetragen 09:02
+09.01.2026 11:15:33;COLD-CUST-ADM-SRV1;Forensik-Image gestartet, Dienstleister Cortexis GmbH beauftragt;Info;Thorvaldsson;Beauftragung mündlich, Bestellung folgt
+10.01.2026 16:42:18;Ticketsystem;Lagebericht 1 an Vorstand versandt;Info;Thorvaldsson;Verteiler Vellbruck, Thalheim-Lattermann
+12.01.2026 09:37:55;Ticketsystem;Rückfrage Rechtsabteilung zu Meldepflichten dokumentiert;Info;Rechtsabteilung Grunewald;Klärung Zuständigkeit noch offen
+13.01.2026 14:32:09;Ticketsystem;Erstmeldung an BaFin per Melderportal abgesendet;Info;Grunewald;Eingangsbestätigung 14:36 im Ticket abgelegt

@@ -38,6 +38,8 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 | `11_vertriebs_jourfixe_notiz.docx` | Tagesordnung und Notizen Vertriebs-Jour-fixe Do 04.06. |
 | `12_heftumbruch_konflikt_lektorat.docx` | Konflikt Redaktion vs. Lektorat zu Schlusskorrektur, Streichung IV.3, "Datenraum" |
 | `13_honorarrechnung_diskussion_niemczyk.docx` | Honorarmahnung Stufe 2 -- Konflikt zwischen Vertragsklausel und mündlicher Pauschalzusage |
+| `14_eml_aulich_fahnenstatus.eml` | Montagsmail der Herstellung: Druckslot-Bestätigung, fehlende Abbildung Seite 47, Titel-Diskrepanz, Paginierungsfehler |
+| `15_mahnlauf_export_lichtblau.csv` | Rohexport des Mahnservice Lichtblau mit fünf offenen Vorgängen, darunter RG 2026/0218 (Niemczyk) |
 
 ## Testziele
 

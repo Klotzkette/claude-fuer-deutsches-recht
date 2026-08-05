@@ -150,6 +150,8 @@ Koordination: P. Forsythe-Vanderhof
 | `Notiz_Comtesse_handschriftlich.txt` | Text | Abschrift der handschriftlichen Fax-Notiz der Comtesse aus Capri (14.03.2026, 23:47 MEZ): emotional, mehrsprachig, strategische Anweisungen | Tinte verschmiert (wahrsch. Rotwein); Rechtschreibfehler; P.P.S. über persönliche Begegnung mit Brezelmann |
 | `Chatverlauf_Comtesse_Anwaeltin_2026-03-14.docx` | Beschreibung | WhatsApp-Konversation Comtesse ↔ Dr. Steinacker-von Tarsis, 14.03.2026 22:12–22:27 MEZ: Reaktion auf Instagram-Post von Brezelmann | 5 Emoji-Typen/Nachricht; Champagner-Emoji-Beleg; DSA-Notice-Erwähnung |
 | `Bildbeschreibung_Messeauftritt_Brezelmann_Pitti_2026-03-10.docx` | Beschreibung | Fotodokumentation Stand B-44 Pitti Uomo (10.03.2026): T-Shirts BTM-MEN-022 mit K°°-Druck, Roll-Up-Banner, Parfumflakons | Aufnahme Nr. 7 von 14; Gesichter erkennbar; Etiketten lesbar; Beweiswert sehr hoch |
+| `Mail_Spuernase_Nachkontrolle_Filialen_2026-06-19.eml` | E-Mail | Zwischenbericht Spürnase-Couture zur Nachkontrolle 16.–18.06.2026: Bad Mergentheim geräumt, Crailsheim mit neuer Ware aus Kaunas, Restposten Tauberbischofsheim, 6 neue Drittanbieter-Angebote auf donauzon.de | Verbindung zur Pinkerton-Feststellung "KLOTZ TEXTILES LTD, Kaunas"; Belege 4471, 4472, 88123 |
+| `Testkaeufe_Nachkontrolle_2026-06.csv` | CSV | Rohdaten der Testkäufe und Onlinesichtung Juni 2026 mit Belegnummern, Preisen und Kennzeichnungen | Ergänzt den Zwischenbericht der Detektei; 5 Einträge |
 
 ---
 

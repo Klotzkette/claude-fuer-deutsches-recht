@@ -110,6 +110,7 @@ Arbeitsakte zum Plugin `fachanwalt-verkehrsrecht`.
 | [`eml/2026-02-07_huk_coburg_an_hoffmann_deckung.eml`](eml/2026-02-07_huk_coburg_an_hoffmann_deckung.eml) | HUK-Coburg zu Deckungsfrage § 81 VVG, 07.02.2026 |
 | [`eml/2026-03-12_sta_hagen_eingangsbestaetigung_akteneinsicht.eml`](eml/2026-03-12_sta_hagen_eingangsbestaetigung_akteneinsicht.eml) | StA Hagen bestätigt Fristverlängerung + TOA-Hinweis, 12.03.2026 |
 | [`eml/2026-04-16_hoffmann_an_tannenbruck_mpu_update.eml`](eml/2026-04-16_hoffmann_an_tannenbruck_mpu_update.eml) | RA Hoffmann informiert Mandanten über Haaranalyse + Verfahrensstand, 16.04.2026 |
+| [`eml/2026-04-24_allianz_an_hoffmann_quotenvorschlag.eml`](eml/2026-04-24_allianz_an_hoffmann_quotenvorschlag.eml) | Allianz-Regulierungsvorschlag 60/40 mit Bindefrist 15.05.2026, 24.04.2026 |
 
 ### PDFs
 

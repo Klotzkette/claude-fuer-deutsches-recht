@@ -49,6 +49,7 @@ strafrecht-funkzellenauswertung-alibi-raubserie-essen/
 ├── 07_verkehrsdaten_mobilfunk_0171_5583912_2026-05-28.csv       — 31 Verkehrsdatensätze mit Zellen-ID, Standort und Zeitstempel
 ├── 08_taten_uebersicht_beute_ek_spaeti_2026-05-18.csv           — Taten-Zeitleiste mit Tatzeiten, Adressen und rechnerischer Beute
 ├── 09_lichtbildvorlage_protokoll_bulut_2026-05-27.docx          — Wahllichtbildvorlage mit protokollierter Einzelbildvorzeigung und Auswahlmängeln
+├── 10_durchsuchungsbericht_wohnung_rautenberg_2026-06-05.docx     — Durchsuchung bei Festnahme: Handy, Sneaker, Kapuzenpullover, Bargeld, Polo-Zweitschlüssel; kein Messer
 ├── 11_haftbefehl_ag_essen_2026-06-04.docx                       — Haftbefehl wegen besonders schweren Raubes in drei Fällen
 ├── 12_beschuldigtenvernehmung_rautenberg_2026-06-05.docx        — Einlassung: ganzer Abend bei der Schwester, Handy nutzt nur er selbst
 ├── 13_zeugenvernehmung_jasmin_rautenberg_2026-06-08.docx        — Pauschale Alibibestätigung der Schwester, freiwillige Chat-Herausgabe
@@ -58,7 +59,8 @@ strafrecht-funkzellenauswertung-alibi-raubserie-essen/
 ├── eml/
 │   ├── 2026-05-21_sta_essen_ersuchen_telenord.eml               — Übersendung des Beschlusses an den Anbieter, Bitte um CSV-Lieferung
 │   ├── 2026-05-28_telenord_datenlieferung.eml                   — Datenlieferung mit Hinweisen zu Zellradius und Speicherfristen
-│   └── 2026-06-16_verteidigung_akteneinsicht_rohdaten.eml       — Verteidigung fordert Rohdaten und Lichtbildbögen an
+│   ├── 2026-06-16_verteidigung_akteneinsicht_rohdaten.eml       — Verteidigung fordert Rohdaten und Lichtbildbögen an
+│   └── 2026-06-22_sta_essen_antwort_rohdaten_lichtbildboegen.eml — Antwort der StA: CSV-Übermittlung, Lichtbildscans, offene KTU- und Handyauswertung
 ├── whatsapp/
 │   └── chatverlauf.txt                                          — Chatexport Jasmin/Kevin mit der Nachricht vom 02.05.2026, 21:47 Uhr
 ├── rubric.yaml                                                  — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

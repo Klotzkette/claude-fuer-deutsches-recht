@@ -102,6 +102,7 @@ Arbeitsakte zum Plugin `immobilienrechtspraxis`.
 | 20 | [`20_mieterversammlung_par577a_bgb_information.docx`](20_mieterversammlung_par577a_bgb_information.docx) | § 566 BGB, Mieterversammlung 08.05.2026, §§ 554/559/577 BGB |
 | 21 | [`21_chronologie_und_strategie_uebersicht.docx`](21_chronologie_und_strategie_uebersicht.docx) | Zeitstrahl, Verfahrensstränge, Best/Worst-Case, Renditeplanung |
 | 22 | [`22_abschluss_handlungsempfehlung.docx`](22_abschluss_handlungsempfehlung.docx) | Ergebnisse, offene Verfahren, Mandatsabrechnung, Folgeschritte |
+| 23 | [`23_trinkwasseranalyse_bleiwerte_talstrasse_188.csv`](23_trinkwasseranalyse_bleiwerte_talstrasse_188.csv) | Laborrohdaten der Trinkwasserbeprobung vom 09.03.2026 je Wohneinheit mit Bleiwerten und Grenzwertabgleich |
 
 ---
 

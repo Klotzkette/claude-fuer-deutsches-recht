@@ -121,6 +121,8 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | Netzanschlussbegehren vom 14.11.2024 (Schreiben SWKK an Netzbetreiber) |
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | DOCX-Version des Netzanschlussbegehrens |
 | [03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.docx](03_netzanschluss/antwortschreiben_netzbetreiber_2025-01.docx) | Antwortschreiben Netzgesellschaft Westfalen GmbH vom 07.01.2025 |
+| [03_netzanschluss/telefonvermerk_kasparek_bindefrist_2026-06-10.docx](03_netzanschluss/telefonvermerk_kasparek_bindefrist_2026-06-10.docx) | Telefonvermerk mit NGW zu Bindefrist 30.06.2026, drohender BKZ-Erhöhung und Teilannahme-Frage |
+| [bnetza_zwischennachricht_2026-06-16.eml](bnetza_zwischennachricht_2026-06-16.eml) | Zwischennachricht der BNetzA: Eingangsbestätigung der Stellungnahme und Nachforderung von Unterlagen bis 17.07.2026 |
 | [04_vertraege/waermeliefervertrag_preisanpassung.docx](04_vertraege/waermeliefervertrag_preisanpassung.docx) | Vollständiger Wärmeliefervertrag mit Preisanpassungsklausel |
 | [04_vertraege/waermeliefervertrag_hafenbogen.docx](04_vertraege/waermeliefervertrag_hafenbogen.docx) | DOCX-Version des Wärmeliefervertrags |
 | [04_vertraege/mieterstromvertrag_muster.docx](04_vertraege/mieterstromvertrag_muster.docx) | Mieterstromvertrag-Muster (vollständig, >1500 Wörter) |

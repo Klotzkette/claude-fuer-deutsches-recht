@@ -46,11 +46,13 @@ rentenrecht-riester-zulagenrueckforderung-augsburg/
 ├── 12_riester_mindesteigenbeitrag_berechnung.csv        # Datenkern: Vorjahresentgelt, vier Prozent, Zulage, Mindesteigenbeitrag, Rückforderung
 ├── 14_nachweisschreiben_zfa_2026-07-06.docx             # Nachweisschreiben an die ZfA mit Neuberechnung und AdV-Antrag (Endprodukt)
 ├── 15_whatsapp_kindergeld_tobias.txt                    # Chat Mandantin/Kindsvater zum Kindergeld Jonas 2024
+├── 16_entgeltuebersicht_steuer_sv_2022_2025.csv         # Gegenüberstellung Steuerbrutto und SV-Entgelt 2022 bis 2025
 ├── eml/
 │   ├── 01_suedleben_beitragsauskunft.eml                # Anbieter: unverbindliche Empfehlung Sonderzahlung 300 EUR
 │   ├── 2024-12-19_suedleben_an_erhart_sonderzahlung.eml # Originalnachricht zur empfohlenen Sonderzahlung
 │   ├── 02_familienkasse_kindergeld_jonas.eml            # Familienkasse Bayern Süd: Kindergeldmonate Jonas 2024, erster Anspruchszeitraum
-│   └── 03_beratungsstelle_strategie_mindesteigenbeitrag.eml # Rentenberaterin: Neuberechnung gegen die ZfA-Zahlen
+│   ├── 03_beratungsstelle_strategie_mindesteigenbeitrag.eml # Rentenberaterin: Neuberechnung gegen die ZfA-Zahlen
+│   └── 04_zfa_eingangsbestaetigung_nachweise.eml        # ZfA: Eingangsbestätigung, Datenabgleich, AdV offen
 ├── README.md                                            # Kurzbild, Struktur und Bearbeitungsziel
 ├── gesamt-pdf/                                           # Konsolidierte Lesefassung der Akte
 └── rubric.yaml                                           # Prüfkriterien für die Bearbeitung
@@ -81,6 +83,8 @@ rentenrecht-riester-zulagenrueckforderung-augsburg/
 | `eml/2024-12-19_suedleben_an_erhart_sonderzahlung.eml` | Vollständige Originalnachricht mit Reichweite und Einschränkungen |
 | `eml/02_familienkasse_kindergeld_jonas.eml` | Kindergeldmonate Jonas 2024 und erster Anspruchszeitraum |
 | `eml/03_beratungsstelle_strategie_mindesteigenbeitrag.eml` | Neuberechnung der Rentenberaterin gegen die ZfA-Zahlen |
+| `eml/04_zfa_eingangsbestaetigung_nachweise.eml` | Eingangsbestätigung der ZfA mit Bearbeitungsstand, Rückfragen und offenem AdV-Antrag |
+| `16_entgeltuebersicht_steuer_sv_2022_2025.csv` | Gegenüberstellung Steuerbrutto und rentenversicherungspflichtiges Entgelt 2022 bis 2025 |
 
 ## Bearbeitungsziel
 

@@ -121,13 +121,14 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | `betroffenenverzeichnis_anonymisiert.xlsx` | 280 betroffene Personen (pseudonymisiert), BEM-Kennzeichnung |
 | `sla_schaden_berechnung.xlsx` | Schadensberechnung mit Ausfallzeiten, ProcessSpark-Regressforderung EUR 681.818 |
 
-### eml/ (4 E-Mails)
+### eml/ (5 E-Mails)
 | Datei | Inhalt |
 |---|---|
 | `01_drosten_an_lfdi_rlp_art33.eml` | RA Drosten → LfDI RLP: DSGVO-Meldung Übermittlung |
 | `02_drosten_an_processspark_klageandrohung.eml` | RA Drosten → ProcessSpark: Klageandrohung |
 | `03_drosten_an_cybercovered_versicherungsmeldung.eml` | RA Drosten → CyberCovered: Schadensmeldung |
 | `04_wallbruck_an_drosten_erstmeldung.eml` | Wallbruck → Drosten: Erstmeldung des Vorfalls |
+| `05_lfdi_rlp_eingangsbestaetigung_rueckfragen.eml` | LfDI RLP → Drosten: Eingangsbestätigung, Az. 41.06-3/26-0847, fünf Rückfragen mit Frist 26.05.2026 |
 
 ### pdfs/ (2 PDF-Dokumente)
 | Datei | Inhalt |

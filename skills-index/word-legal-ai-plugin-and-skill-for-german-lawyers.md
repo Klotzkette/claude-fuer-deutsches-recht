@@ -1,6 +1,6 @@
 # word-legal-ai-plugin-and-skill-for-german-lawyers
 
-**53 Skills** · Stand `v436.1.0`
+**53 Skills** · Stand `v437.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../word-legal-ai-plugin-and-skill-for-german-lawyers/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -75,5 +75,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_onkologischer_verlaufsbericht_rezidiv.docx`](16_onkologischer_verlaufsbericht_rezidiv.docx) | Onkologischer Verlauf mit messbaren Funktionsbeeinträchtigungen |
 | [`17_email_arbeitgeber_fehlzeiten_anpassung.eml`](17_email_arbeitgeber_fehlzeiten_anpassung.eml) | Arbeitgebermail zur tatsächlich gelebten Arbeitsplatzanpassung |
 | [`18_therapie_lymphoedem_und_belastung.csv`](18_therapie_lymphoedem_und_belastung.csv) | Therapie-, Mess- und Fehlzeitendaten |
+| [`19_telefonvermerk_brenner_lagus.docx`](19_telefonvermerk_brenner_lagus.docx) | Telefonvermerk des Bevollmächtigten zu Aktenlage und Operationsdatum |
+| [`eml/04_lagus_zwischennachricht_widerspruch.eml`](eml/04_lagus_zwischennachricht_widerspruch.eml) | Zwischennachricht der Widerspruchsstelle mit Verfahrensstand und Fristen |
 
 <!-- END nachgereichte-originalunterlagen -->

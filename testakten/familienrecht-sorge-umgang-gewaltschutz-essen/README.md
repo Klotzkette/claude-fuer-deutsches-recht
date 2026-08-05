@@ -48,6 +48,8 @@ Eilsache nach Trennung der Eheleute Derya und Cem Aydin in Essen. Es gibt einen 
 | `09_entwurf_naechstes_schreiben.docx` | Konkreter Eilantragsentwurf zu Schutzanordnung, Wohnung, Umgang, Anhörung, Aufklärung und Glaubhaftmachung |
 | `10a_jugendamt_hausbesuchsvermerk_2026-06-26.docx` | Eigenständiger Jugendamtsvermerk zu Hausbesuch, Wohnlage, Einzelgesprächen mit den Kindern und unmittelbaren Beobachtungen |
 | `10b_jugendamt_vorlaeufiger_hilfeplan_2026-06-27.docx` | Davon getrennter vorläufiger Hilfeplan mit Zielen, Zuständigkeiten, Übergaberegeln und Folgeterminen |
+| `11_elternchat_auszug_2026-06.txt` | Export aus der Eltern-App mit Reisestreit im Mai, ausgefallener Abholung am 21.06. und strittigem Tablet-Kontakt |
+| `12_amtsgericht_zwischennachricht_2026-07-08.docx` | Gerichtliche Zwischennachricht mit Geschäftsnummern, Anhörungstermin 13.07.2026 und Auflagen zur Nachreichung |
 | `csv/fristen_eilsache.csv` | Fristen- und Terminspur für Wegweisung, Eilantrag, Anhörung und Umgangsbegleitung |
 | `emails/2026-07-03_schule_abholfrage.eml` | Schulmail zur praktischen Abholung und zu fehlenden gerichtlichen Nachweisen |
 | `pdfs/fotoblatt_tuer_und_flur.pdf` | Fotografische Dokumentation von Türzarge, Flur und Wäschekorb mit beschränktem Beweiswert |

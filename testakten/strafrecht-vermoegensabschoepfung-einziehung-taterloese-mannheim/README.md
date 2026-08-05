@@ -56,10 +56,12 @@ strafrecht-vermoegensabschoepfung-einziehung-taterloese-mannheim/
 ├── 14_verteidigerschriftsatz_ehrle_2026-05-28.docx      Angriff auf die Mengenberechnung und Streit um den Lohnkostenabzug
 ├── 15_replik_sta_berechnung_2026-06-19.docx             Replik der StA mit überprüfter, nach Tatjahren aufgegliederter Berechnung
 ├── 16_antrag_arrestaufhebung_2026-06-29.docx            Antrag auf Aufhebung bzw. Beschränkung des Arrests (Verhältnismäßigkeit)
+├── 17_zwischennachricht_lg_mannheim_2026-07-08.docx       Eingangsbestätigung der Kammer, Stellungnahmefrist der StA und Nachfrage zur Betragsdivergenz
 ├── eml/
 │   ├── 01_wanka_an_trautwein_touren_2024-06-04.eml      Sichergestellte interne E-Mail der PDL zu nicht gefahrenen, abgerechneten Touren
 │   ├── 02_aok_an_sta_nachreichung_2025-10-21.eml        Nachreichung der Datenexporte und Einzelnachweise durch die Kasse
-│   └── 03_ehrle_an_sta_akteneinsicht_2026-03-16.eml     Akteneinsichtsgesuch der Verteidigung mit Ankündigung der Nachberechnung
+│   ├── 03_ehrle_an_sta_akteneinsicht_2026-03-16.eml     Akteneinsichtsgesuch der Verteidigung mit Ankündigung der Nachberechnung
+│   └── 04_silvia_trautwein_an_ehrle_konten_2026-07-03.eml  Einziehungsbeteiligte zu Kontopfändung, Steuerberaterschreiben und Bürotätigkeit
 ├── whatsapp/
 │   └── chatverlauf.txt                                  Chat-Auszüge Trautwein/Wanka (Abrechnungspraxis) und Trautwein/Ehefrau (Zahlungen)
 ├── README.md                                            Diese Übersicht

@@ -81,6 +81,7 @@ Arbeitsakte zum Plugin `regulatorisches-recht`.
 | 20 | [`20-aufsichtsratbericht.docx`](20-aufsichtsratbericht.docx) | Bericht an Aufsichtsrat, § 25d KWG, D&O-Risiko |
 | 21 | [`21-roadmap-remediation-100-tage.docx`](21-roadmap-remediation-100-tage.docx) | 100-Tage-Remediation-Plan, KPI-Matrix, Meilensteine |
 | 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Anwaltlicher Abschlussvermerk, offene Risiken, Empfehlungen |
+| 23 | [`23-siem-alarmprotokoll-cybervorfall-auszug.csv`](23-siem-alarmprotokoll-cybervorfall-auszug.csv) | Auszug aus dem SIEM-Alarmprotokoll 8.–13. Januar 2026 mit Erstalarm, Eskalationslücken und BaFin-Erstmeldung |
 
 ---
 

@@ -54,10 +54,12 @@ schwerbehindertenrecht-autismus-adhs-arbeitsleben-wuppertal/
 ├── 10_versorgungsaerztliche_stellungnahme_09062026.docx <- interne gutachterliche Stellungnahme (Einzel-GdB 30)
 ├── 11_nervenaerztlicher_befundbericht_reinsch.docx <- fachärztlicher Befund mit Einzel-GdB 40 und 30
 ├── 12_chat_vertrauensperson.txt                 <- Chat mit der Schwerbehindertenvertretung
+├── 13_erprobungsprotokoll_bem_fragment.docx       <- ungeprüfte Mitschrift zum Zwischenstand der BEM-Erprobung vom 24.07.2026
 ├── eml/
 │   ├── 01_versorgungsamt_eingangsbestaetigung.eml <- Eingangsbestätigung Widerspruch, Hinweis GdB-Bildung
 │   ├── 02_facharzt_befunduebersendung.eml        <- Facharzt übersendet Befund und Einzel-GdB-Einschätzung
-│   └── 03_bevollmaechtigte_gdb_bildung.eml        <- Bevollmächtigte legt die Gesamt-GdB-Bildung offen
+│   ├── 03_bevollmaechtigte_gdb_bildung.eml        <- Bevollmächtigte legt die Gesamt-GdB-Bildung offen
+│   └── 04_klinik_entlassungsbericht_anforderung.eml <- Klinik zum stationären Aufenthalt Januar 2026: Entlassungsbericht nur gegen Schweigepflichtentbindung
 └── gesamt-pdf/                                   <- konsolidierte Lesefassung als PDF
 ```
 

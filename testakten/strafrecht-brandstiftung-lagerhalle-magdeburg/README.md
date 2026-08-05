@@ -76,10 +76,12 @@ strafrecht-brandstiftung-lagerhalle-magdeburg/
 ├── 10_brandnacht_ereignisprotokoll.csv                Minutenprotokoll aus Zutrittslog, Video, BMA und Zeugenzeiten (Datenauswertungs-Kern)
 ├── 11_beschuldigtenvernehmung_brandner_2026-05-28.docx Einlassung Brandner: technischer Defekt, war zu Hause
 ├── 12_brandursachengutachten_vorab_2026-05-19.docx     Vorabgutachten: Brandbeschleuniger an Tor 3, technischer Defekt nicht belegt
+├── 14_telefonvermerk_wachmann_naumann_2026-06-04.docx    Telefonat des Verteidigers mit Wachmann Naumann zu Rundgang, Videoausfällen und Werksausweisen
 ├── eml/
 │   ├── 01_bankmahnung_kreditkuendigung_2026-05-06.eml     Letzte Mahnung der Hausbank vor Kreditkündigung (Motiv)
 │   ├── 02_hansemerkur_deckung_inventar_2026-05-20.eml     Versicherer nennt Deckungssummen und fragt Inventarwert ab
-│   └── 03_securitas_uebersendung_logs_2026-05-19.eml      Wachdienst übersendet Zutritts- und Alarmprotokoll der Tatnacht
+│   ├── 03_securitas_uebersendung_logs_2026-05-19.eml      Wachdienst übersendet Zutritts- und Alarmprotokoll der Tatnacht
+│   └── 04_elektro_stoerungshistorie_tor3_2026-06-05.eml   Elektrobetrieb übersendet Einsatzhistorie zum Schaltschrank Tor 3 mit nicht beauftragter Sanierung
 ├── whatsapp/
 │   └── chatverlauf.txt                                  Chat Brandner/Bruder: Versicherung erhöht, Mahnung, Fahrt zur Halle
 ├── README.md                                            Diese Übersicht

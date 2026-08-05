@@ -54,10 +54,12 @@ strafrecht-anlagebetrug-schneeballsystem-geldfluss-nuernberg/
 ├── 12_beschuldigtenvernehmung_2_zellinger_2026-06-09.docx             — Zweite Vernehmung mit Verteidiger: Einlassung wechselt zum Zwischenparken
 ├── 13_verteidigerschriftsatz_grundhoefer_2026-06-22.docx              — Verteidigung: kein Anfangsvorsatz, Beweisanträge, Angriff auf Zeugin Meckel
 ├── 14_anklageschrift_entwurf_sta_2026-06-30.docx                      — Anklageentwurf mit internem Lücken-Vermerk zur Kipppunkt-Berechnung
+├── 15_abschrift_notizzettel_asservat_a09_2026-05-13.docx                — Abschrift eines im Kontoauszugsordner aufgefundenen handschriftlichen Zettels mit Monatszahlen
 ├── eml/
 │   ├── 2024-09-17_zellinger_intern_vertriebsteam_projektschiene.eml   — Interne Mail: Projektschiene hinten anstellen, Auszahlungen aus dem Bestand
 │   ├── 2026-01-28_kronawitter_zahlungsaufforderung.eml                — Letzte Zahlungsaufforderung des Anlegers vor der Strafanzeige
-│   └── 2026-02-04_zellinger_antwort_kronawitter.eml                   — Vertröstende Antwort: Mittelabruf aus der Projektgesellschaft verzögert
+│   ├── 2026-02-04_zellinger_antwort_kronawitter.eml                   — Vertröstende Antwort: Mittelabruf aus der Projektgesellschaft verzögert
+│   └── 2026-07-06_frankenbank_nachtrag_kontoauskunft.eml              — Nachtrag der Hausbank zu Unterkonto, Verfügungsberechtigung, Barverkehr und Schrankfach
 ├── whatsapp/
 │   └── chatverlauf.txt                                                — Chatexport Zellinger/Meckel: Zusagen, Sprachregelung, „wenn der Februar nicht kommt"
 ├── rubric.yaml                                                        — Sechs Prüfpunkte zur Bewertung einer Bearbeitung

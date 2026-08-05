@@ -48,6 +48,7 @@ In der Insolvenz einer Co-Working-Gesellschaft streiten Vermieter, Bank und Unte
 | `23_schriftverkehr_verwalter_vermieterin.docx` | Schriftwechsel Verwalterin - Vermieterin |
 | `24_musterrueckgabeprotokoll_vergleichsobjekt.docx` | Musterrückgabeprotokoll Vergleichsobjekt |
 | `emails/`, `eml/` | Korrespondenz Verwalterin, Vermieterin, Unterkunden, Sachverständiger |
+| `eml/06_widerspruch_deposit_freelanc.eml` | Unterkunde Freelance Base UG reicht Zahlungsnachweis zum bestrittenen Deposit nach |
 | `csv/` | Kontobewegungen, Deposit-Übersicht Unterkunden |
 | `xlsx/` | Forderungsprüfung-Kalkulation |
 | `pdfs/` | Original-PDF-Beleg Kostenvoranschlag Elektrotechnik |

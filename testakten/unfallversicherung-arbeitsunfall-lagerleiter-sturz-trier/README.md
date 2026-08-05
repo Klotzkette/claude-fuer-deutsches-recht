@@ -52,6 +52,7 @@ Enthalten sind ausformulierte Aktenstücke, Formulare, medizinische Verlaufsberi
 | `30_verletztengeld_mde_rentenberechnung.xlsx` | Verletztengeldberechnung mit AAW-Vergleich, MdE- und Rentenberechnung |
 | `31_bg_reha_empfehlung.docx` | Berufsgenossenschaftliche Reha-Empfehlung mit Stufenplan |
 | `32_fristenkalender_verfahren.csv` | Fristen- und Verfahrenskalender von Unfall bis Gutachten |
+| `33_diensthandy_chat_rampe4_2026-04-03.txt` | Export des Firmen-Messengers vom Unfallmorgen: wartender LKW, Zeitdruck, Entscheidung des Mandanten, Sturzmeldung |
 | `emails/` | Interne Betriebsleiter-Mail und Klinik-Befundübersendung |
 | `eml/` | Verfahrenskorrespondenz zwischen Kanzlei und Mandant |
 | `csv/` | Wartungsbuchauszug Rampe 4 und Arbeitsunfähigkeitszeiten |

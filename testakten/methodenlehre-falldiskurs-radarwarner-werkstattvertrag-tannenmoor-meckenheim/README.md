@@ -106,6 +106,7 @@ Tannenmoor erteilt RA Dr. Roosendaal Auftrag zur Prüfung der Rechtslage.
 
 ## Sonstige Dokumente
 
+- `31_mahnung_werklohn_tannenmoor.docx` — Zahlungserinnerung und Mahnung der Werkstatt an Sauer-Hellbrunn über 2.380 EUR Werklohn
 - `gutachten-methodenanwendung-radarwarner.docx` — Ausführliches Gutachten (DOCX)
 - `klausurkonzept-radarwarner-i-staatsexamen.docx` — Klausurkonzept Staatsexamen (DOCX)
 - `referat-handout-uebung-im-buergerlichen-recht.docx` — Referat-Handout (DOCX)

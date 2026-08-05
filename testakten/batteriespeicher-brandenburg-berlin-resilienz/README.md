@@ -48,3 +48,5 @@ Passt zu `energierecht`, `bundesnetzagentur-verfahren`, `umweltrecht`, `verkehr-
 | `19-datenschutz-video-leitwarte.docx` | Videoüberwachung, Zutritt, Leitwarte, Fernwartung |
 | `20-versicherer-fragenkatalog.docx` | Versicherbarkeit, Ausschlüsse, Schadenfall |
 | `21-board-paper-finalfragen.docx` | offene Entscheidungspunkte vor Gate 2 |
+| `22-eml-netzbetreiber-studienangebot.eml` | Angebot des Übertragungsnetzbetreibers zur Netzverträglichkeitsstudie mit Anschlusspunkten, Entgelt und Warteschlangenposition |
+| `23-feuerwehr-nachforderungen-status.csv` | Statusliste der Nachforderungen aus dem Feuerwehr-Workshop mit Fristen und offenen Widersprüchen |

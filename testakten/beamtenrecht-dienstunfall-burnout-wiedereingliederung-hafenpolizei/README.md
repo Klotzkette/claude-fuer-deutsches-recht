@@ -57,5 +57,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`16_schichtfuehrerbericht_einsatzbelastung.docx`](16_schichtfuehrerbericht_einsatzbelastung.docx) | Schichtführerbericht zum konkreten Gefahrguteinsatz |
 | [`17_email_betriebsaerztin_belastungsgrenzen.eml`](17_email_betriebsaerztin_belastungsgrenzen.eml) | Betriebsärztliche E-Mail mit funktionalen Belastungsgrenzen |
 | [`18_schichten_mehrarbeit_januar_februar.csv`](18_schichten_mehrarbeit_januar_februar.csv) | Plan- und Istschichten aus dem Dienstsystem |
+| [`19_chat_groessen_tarnow_februar.txt`](19_chat_groessen_tarnow_februar.txt) | Gesicherter Chat-Export mit der Kollegin Tarnow zum Beinaheunfall am Kai 24 und den Nächten danach |
+| [`20_telefonvermerk_personalreferat_wiedereingliederung.docx`](20_telefonvermerk_personalreferat_wiedereingliederung.docx) | Telefonvermerk des Personalreferats vom 15. Juli 2026 zu Wiedereingliederungsbeginn, Einsatzort, Zulagen und amtsärztlichem Termin |
 
 <!-- END nachgereichte-originalunterlagen -->

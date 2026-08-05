@@ -1,0 +1,9 @@
+Vorgang;Eingang;Kanal;PLZ_Kunde;Betreff;Kurzbeschreibung;Status;Bearbeiter
+KD-2026-08841;25.06.2026 09:12;Telefon;49080;Verdächtige E-Mail mit echter Bestellnummer;Kunde erhielt E-Mail mit korrekter Bestellnummer vom März 2026 und Aufforderung zur erneuten Zahlung per Link;an Datenschutzbeauftragten weitergeleitet;S. Kordes
+KD-2026-08867;25.06.2026 14:47;E-Mail;30453;Woher haben Fremde meine Adresse;Kundin fragt ob ihre Daten betroffen sind und verlangt schriftliche Bestätigung;Antwortentwurf liegt beim Datenschutzbeauftragten;M. Tebbe
+KD-2026-08903;26.06.2026 10:03;Telefon;49413;Unberechtigte Lastschrift 49.90 EUR;Kunde meldet Abbuchung durch unbekanntes Unternehmen und hat Rückgabe über seine Bank veranlasst;dokumentiert, Hinweis auf Bank erteilt;S. Kordes
+KD-2026-08918;26.06.2026 16:31;E-Mail;26121;Auskunft nach Artikel 15 DSGVO;Kunde verlangt Kopie aller gespeicherten Daten und Angaben zu Empfängern binnen eines Monats;Frist notiert 26.07.2026;Dr. Rosenthal
+KD-2026-08977;29.06.2026 08:55;Telefon;49084;Passwort-Reset funktioniert nicht;Kundin kommt seit dem erzwungenen Reset nicht ins Konto, Hotline-Warteschleife am Wochenende überlastet;gelöst am 30.06.2026;M. Tebbe
+KD-2026-09034;01.07.2026 11:20;E-Mail;48429;Phishing-Anruf mit Bankdaten;Kunde berichtet von Anruf, bei dem die letzten vier Stellen seiner IBAN korrekt genannt wurden;an Datenschutzbeauftragten weitergeleitet;S. Kordes
+KD-2026-09102;06.07.2026 13:42;E-Mail;49565;Schadensersatzforderung;Kundin kündigt anwaltliche Geltendmachung von Schadensersatz an und verweist auf die Benachrichtigung vom 26.06.2026;an Geschäftsführung vorgelegt;B. Wiechers
+KD-2026-09155;13.07.2026 09:38;Telefon;49074;Erneute Phishing-Welle;Kunde meldet zweite E-Mail-Welle mit Bezug auf Bestellhistorie, leitet Beispiel weiter;Beispiel an Forensik übergeben;M. Tebbe

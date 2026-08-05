@@ -75,6 +75,7 @@ Originalformat aus dem Mailprogramm, mit Headern, Datum, From/To, Betreff.
 | [`emails/2025-04-02_bauamt-an-albers_carport-zustaendigkeit.eml`](emails/2025-04-02_bauamt-an-albers_carport-zustaendigkeit.eml) | Bauamt-Antwort, Az. Bau-Rdk-25/0973 |
 | [`emails/2025-08-24_albers-an-versicherung_kellerfeuchte.eml`](emails/2025-08-24_albers-an-versicherung_kellerfeuchte.eml) | Schadenmeldung an Wohngebäudeversicherung nach Starkregen |
 | [`emails/2025-10-17_albers-an-kanzlei_kamera-licht-drohne.eml`](emails/2025-10-17_albers-an-kanzlei_kamera-licht-drohne.eml) | Mandantenmail zu Kamera, Lichtstrahler und Drohne |
+| [`emails/2026-06-05_krane-an-welling_ortstermin-zugangsforderung.eml`](emails/2026-06-05_krane-an-welling_ortstermin-zugangsforderung.eml) | Antwort der Gegenseite auf das Schreiben vom 29.05.2026: Vermessungstermin, neuer Zugangstermin, Baustopp an der Poolgrube |
 
 ### WhatsApp
 

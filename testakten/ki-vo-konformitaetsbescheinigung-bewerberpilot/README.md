@@ -52,6 +52,8 @@ Die Anbieterin hat das System als Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang
 | `13_bias_audit_bericht.docx` | Bias-Auditbericht der FairnessLab GmbH mit Maßnahmen |
 | `14_konfigurations_logfile_auszug.docx` | Konfigurations- und Logfile-Auszug für Pilotzeitraum |
 | `15_bewerber_beschwerde.docx` | Bewerber-Beschwerde COMP-2026-0411 mit Prüfung |
+| `16_email_lexicore_nachweis_weiterleitung.eml` | Weiterleitung der knappen LexiCore-Antwort zur Nachweisanforderung TD-04 an die Geschäftsführung |
+| `17_gespraechsvermerk_elbtal_stellenausschreibung.docx` | Vermerk zur Videokonferenz mit Elbtal über die erneut ausgeschriebene Pflege-Stelle und den Ablauf der Ablehnung |
 
 ## Vorführziele
 

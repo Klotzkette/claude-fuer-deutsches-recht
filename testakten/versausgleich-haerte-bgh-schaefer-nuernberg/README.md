@@ -53,6 +53,7 @@ Die Mandantin hat die Kanzlei beauftragt, **einen beim Bundesgerichtshof zugelas
 | 16 | Vermerk Beauftragung BGH-Anwalt | md |
 | 17 | Übergabeprotokoll an Korrespondenzkanzlei | md |
 | — | Mailverkehr | emails/ |
+| — | Einlegungs- und Begründungsanzeige der BGH-Kanzlei mit Aktenzeichen XII ZB 587/22 | [emails/2022-12-16_ehrlinger_einlegung_bgh_aktenzeichen.eml](emails/2022-12-16_ehrlinger_einlegung_bgh_aktenzeichen.eml) |
 | — | Auskünfte der Versorgungsträger | pdfs/ |
 | — | Beschlüsse AG Nürnberg-Fürth und OLG Nürnberg | docx/ |
 | — | Vollmacht, notarielle Vereinbarung, Beschwerdeschrift | docx/ |

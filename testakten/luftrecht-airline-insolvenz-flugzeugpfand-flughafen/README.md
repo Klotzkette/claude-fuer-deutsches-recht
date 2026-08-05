@@ -35,6 +35,8 @@ Die Akte dokumentiert den Stand bis zur vorläufigen insolvenzgerichtlichen Sich
 | `16-flughafenentgeltordnung-auszug.docx` | Entgeltordnung Flughafen Dortmund (Auszug) |
 | `17-rechnung-flughafen-landeentgelte-standgebuehren.csv` | Offene Landeentgelte und Standgebühren (6 Monate) |
 | `24-wertgutachten-dekra-aviation.docx` | Wertgutachten DEKRA Aviation |
+| `eml/06_flughafen_forderungsstand_januar_2026.eml` | Forderungsstand des Flughafens zu D-AWRB nach Verfahrenseröffnung |
+| `csv/verbleib_technische_unterlagen_d_awrb.csv` | Verbleib der technischen Unterlagen MSN 6217 nach der Übergabe |
 
 ## Kernunterlagen
 

@@ -134,6 +134,8 @@ zeitgleiche Neuausschreibung derselben Aufgaben als unbefristete Regelstelle bes
 | `eml/2025-12-18_schoenfeld_an_ahrends_intern_verlaengerung.eml` | Interne Personalabteilungs-Mail: Daueraufgabe, Projektzuordnung nur zur Befristung, Neuausschreibung geplant |
 | `eml/2026-01-07_steinke_an_schoenfeld_weiterbeschaeftigung.eml` | Teamleiter fordert Weiterbeschäftigung; Smart-Meter-Bezug nur Etikett, Team unterbesetzt |
 | `eml/2026-02-11_oeztuerk_an_personalabteilung_betriebsrat.eml` | Betriebsrat rügt Befristung bei dauerhaftem Bedarf und Neuausschreibung derselben Aufgaben |
+| `ladung_guetetermin_arbg_berlin.docx` | Gerichtliche Eingangsmitteilung und Ladung zur Güteverhandlung am 21.04.2026 (28 Ca 1492/26) mit Auflagen an beide Parteien |
+| `eml/2026-04-21_dressel_an_vogt_bericht_gueteverhandlung.eml` | Mandantenbericht der Prozessbevollmächtigten: Gütetermin ohne Einigung, Abfindungsangebot 4.500 EUR, Kammertermin 14.07.2026 |
 
 ---
 

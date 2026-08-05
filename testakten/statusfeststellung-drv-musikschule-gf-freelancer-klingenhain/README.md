@@ -46,3 +46,5 @@ Diese Akte bündelt eine Status- und Betriebsprüfungsakte einer gemeinnützigen
 | `22-zeugen-und-belege.docx` | Zeugen, Belege, Lücken, Kalender und Chatquellen |
 | `23-telefonnotiz-elternbeschwerde.docx` | Telefonnotiz zu Unterrichtsausfall und Direktionsdruck |
 | `24-verfahrenskalender.csv` | Fristen, Anhörung, Bescheid, Widerspruch, Zahlungsdruck |
+| `25-sms-export-vertretungen-krankmeldungen.txt` | SMS-Auszug Diensthandy Sekretariat: Krankmeldungen, Raumverlegungen, zentrale Preisfestsetzung, Konferenzpflicht |
+| `26-email-rechtsstelle-kuendigung-familie-k.eml` | E-Mail-Wechsel Verwaltungsleitung/Remstädt zur Kündigung Familie K. mit Weisung, Diktatvorlage und Pauschalen-Bitte |

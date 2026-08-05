@@ -50,9 +50,11 @@ Die Unterlagen stammen aus mehreren Quellen und Bearbeitungsständen: Gesprächs
 | [`10_bankauskunft_immobilienfinanzierung.docx`](10_bankauskunft_immobilienfinanzierung.docx) | Darlehenssaldo, Zinsbindung und Sicherheitenangaben der Bank |
 | [`11_familienfinanzen_belege_roh.xlsx`](11_familienfinanzen_belege_roh.xlsx) | Unbereinigte Kontobewegungen und Belegzuordnungen |
 | [`12_betreuungszeiten_und_kinderkosten_roh.xlsx`](12_betreuungszeiten_und_kinderkosten_roh.xlsx) | Rohübertrag aus Kalendern, Nachrichten und Kinderkostenbelegen |
+| [`13_sms_verlauf_hanna_franz_uebergaben.txt`](13_sms_verlauf_hanna_franz_uebergaben.txt) | Von der Mandantin übergebener SMS-Verlauf der Eheleute zu Übergaben, Vorfall und Kinderkosten |
 | [`emails/2024-11-19_hanna_an_kanzlei_erstanfrage.eml`](emails/2024-11-19_hanna_an_kanzlei_erstanfrage.eml) | Erstanfrage der Mandantin mit vollständigem E-Mail-Header |
 | [`emails/2025-02-25_jugendamt_an_kanzlei_meldung.eml`](emails/2025-02-25_jugendamt_an_kanzlei_meldung.eml) | Eingangsbestätigung des Jugendamts |
 | [`emails/2025-04-30_franz_anwalt_an_kanzlei_wechselmodell.eml`](emails/2025-04-30_franz_anwalt_an_kanzlei_wechselmodell.eml) | Nachricht der Gegenvertretung zu den Betreuungszeiten |
+| [`emails/2025-05-19_ganzhorn_an_kanzlei_stellungnahme_vorfall.eml`](emails/2025-05-19_ganzhorn_an_kanzlei_stellungnahme_vorfall.eml) | Darstellung des Ehemanns zum Abend des 22.02.2025 durch die Gegenvertretung |
 | [`emails/2025-07-10_schulleitung_an_kanzlei_mara_situation.eml`](emails/2025-07-10_schulleitung_an_kanzlei_mara_situation.eml) | Mitteilung der Schulleitung zu Beobachtungen im Schulalltag |
 | [`pdfs/auskunft_versorgungswerk_architektenkammer.pdf`](pdfs/auskunft_versorgungswerk_architektenkammer.pdf) | Auskunft des berufsständischen Versorgungswerks |
 | [`pdfs/wertgutachten_immobilie_lindener_hofstrasse.pdf`](pdfs/wertgutachten_immobilie_lindener_hofstrasse.pdf) | Verkehrswertgutachten zum Familienhaus |

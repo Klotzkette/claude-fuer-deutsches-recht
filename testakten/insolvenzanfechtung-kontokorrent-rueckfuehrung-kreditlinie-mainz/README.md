@@ -65,6 +65,7 @@ insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz/
 ├── 23_zeugenvernehmungsprotokoll_vietinghoff_2027-02-09.docx — Aussage der Sparkassen-Sachbearbeiterin zur Kenntnis
 ├── 24_urteil_lg_mainz_2027-05-18.docx                     — Urteil: Verurteilung zur Rückgewähr von 360.000 EUR nebst Zinsen
 ├── 25_schlussvermerk_verwalterin_2027-07-02.docx          — Abschließender Vermerk nach Rechtskraft und Zahlungseingang
+├── 26_sms_verlauf_sattlmaier_tremmel.txt                  — SMS-Verlauf GF/Firmenkundenbetreuer: Linienkürzungen, Einzelfreigaben, Lohnrückgabe, Antragsankündigung
 ├── csv/                                                    — Fristenliste Berufung/Verjährung
 ├── xlsx/                                                   — Zinsberechnung Urteilssumme
 ├── jpg/                                                    — Fotodokumentation Weinlager

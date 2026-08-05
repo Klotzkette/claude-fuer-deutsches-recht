@@ -93,6 +93,7 @@ Arbeitsakte zum Plugin `fachanwalt-internationales-wirtschaftsrecht`.
 | 20 | [`20_gesamtstrategie_verfahrenskoordination.docx`](20_gesamtstrategie_verfahrenskoordination.docx) | Gesamtstrategie, Verfahrensübersicht, Risikomatrix |
 | 21 | [`21_verfahrensstand_september_2026.docx`](21_verfahrensstand_september_2026.docx) | Stichtagsbericht September 2026, alle Verfahren |
 | 22 | [`22_qualitaetssicherung_lehren_compliance_neuaufstellung.docx`](22_qualitaetssicherung_lehren_compliance_neuaufstellung.docx) | Lehren, Compliance-Neuaufstellung, Aufsichtsratspräsentation |
+| 23 | [`23_chatprotokoll_meusel_spengler_whatsapp.txt`](23_chatprotokoll_meusel_spengler_whatsapp.txt) | Gesicherter WhatsApp-Verlauf Meusel/Spengler-Roth Juni bis September 2024, Zürich-Teheran-Hinweis |
 
 ---
 

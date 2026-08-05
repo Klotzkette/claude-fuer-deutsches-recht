@@ -101,6 +101,8 @@ Im Prüfungstermin erhob der Schuldner Wendler **Widerspruch** gegen zwei Forder
 | [21_forderungsanmeldung_bank.docx](21_forderungsanmeldung_bank.docx) | DOCX: Musterformular Forderungsanmeldung Havelbank AG |
 | [22_feststellungsklage_entwurf.docx](22_feststellungsklage_entwurf.docx) | DOCX: Feststellungsklageschrift Solarteile Nord GmbH gegen Marcus Wendler |
 | [23_nachforderungsschreiben_sammel.docx](23_nachforderungsschreiben_sammel.docx) | DOCX: Nachforderungsschreiben Insolvenzverwalter (alle Adressaten) |
+| [24_email_solarteile_nachfrage_widerspruch.eml](24_email_solarteile_nachfrage_widerspruch.eml) | E-Mail der Solarteile Nord GmbH: Nachfragen zu Schuldnerwiderspruch, Rechnung SN-2026-016 und Klagefrist |
+| [25_telefonvermerk_vogt_insolvenzgeld.docx](25_telefonvermerk_vogt_insolvenzgeld.docx) | Telefonvermerk der Verwalterkanzlei: Insolvenzgeld-Auszahlung an Lena Vogt, Stundenzettel, Schmerzensgeld-Rückfrage |
 
 ---
 

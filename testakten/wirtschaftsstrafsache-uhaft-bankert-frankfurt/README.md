@@ -115,6 +115,7 @@ Arbeitsakte zum Plugin `fachanwalt-strafrecht`.
 | [`eml/02_sta_an_marx_akteneinsicht_01042025.eml`](eml/02_sta_an_marx_akteneinsicht_01042025.eml) | StA Wallisch an Marx: Akteneinsicht gewährt, 01.04.2025 |
 | [`eml/03_marx_an_kanzleirezeption_08052025.eml`](eml/03_marx_an_kanzleirezeption_08052025.eml) | Marx an Kanzleirezeption: Medienanfragen, Termine, 08.05.2025 |
 | [`eml/04_sta_an_marx_haftbeschwerde_12052025.eml`](eml/04_sta_an_marx_haftbeschwerde_12052025.eml) | StA Wallisch an Marx: Stellungnahme Haftbeschwerde, 12.05.2025 |
+| [`eml/05_kraemer_an_marx_adhaesion_vergleich_20052025.eml`](eml/05_kraemer_an_marx_adhaesion_vergleich_20052025.eml) | RA Krämer an Marx: Gesprächsangebot Zivilvergleich, Adhäsionsantrag ABC SE, 20.05.2025 |
 
 ### PDFs
 

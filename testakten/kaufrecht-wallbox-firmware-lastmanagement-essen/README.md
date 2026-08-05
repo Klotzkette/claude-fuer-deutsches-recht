@@ -65,5 +65,7 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`13_installationsmessung_wallbox_lastmanagement.docx`](13_installationsmessung_wallbox_lastmanagement.docx) | Elektrotechnisches Messprotokoll unter Last |
 | [`14_email_netzbetreiber_steuerbefehl.eml`](14_email_netzbetreiber_steuerbefehl.eml) | Netzbetreiberauskunft zum fehlenden Reduzierungsbefehl |
 | [`15_ladevorgaenge_heliocharge_w7_juni_juli.csv`](15_ladevorgaenge_heliocharge_w7_juni_juli.csv) | Lade- und Leistungsrohdaten vor Ort |
+| [`17_telefonvermerk_haendler_steinkamp_2026-07-20.docx`](17_telefonvermerk_haendler_steinkamp_2026-07-20.docx) | Telefonvermerk mit dem Händler zu Angebotsinhalt, weiteren betroffenen Kunden und Vor-Ort-Termin |
+| [`emails/2026-07-17_hersteller_ticket_774921.eml`](emails/2026-07-17_hersteller_ticket_774921.eml) | Herstellerantwort zu Cloudprofil, kostenpflichtigem Connect-Pro-Paket und Kulanzangebot |
 
 <!-- END nachgereichte-originalunterlagen -->

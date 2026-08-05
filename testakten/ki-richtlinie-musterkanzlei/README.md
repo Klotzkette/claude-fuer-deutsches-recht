@@ -33,5 +33,8 @@ Die Akte dokumentiert die Einführung eines digitalen Recherche- und Textsystems
 | `06_dienstleister_vertragsanlagen_2026-05-19.eml` | Antwort des IT-Dienstleisters zu Vertragsanlagen |
 | `07_fortbildungsnachweise_2026.csv` | Nachweisliste aus der Personalverwaltung |
 | `08_telefonnotiz_freigabefrage_2026-05-22.eml` | E-Mail-Notiz des Partnersekretariats |
+| `09_chatprotokoll_ticket68419_2026-05-21.txt` | exportierter Portal-Chat mit dem IT-Dienstleister zum Berechtigungsvorfall |
+| `10_besprechungsprotokoll_fragment_partnerkreis_2026-05-28.docx` | unvollständiger Protokollauszug der Partnerkreissitzung, Seiten 3 und 4 fehlen |
+| `11_angebot_protokollspeicherung_2026-05-26.eml` | Angebot der IT-Service Havel GmbH zur erweiterten Protokollspeicherung |
 
 Passendes Plugin: `ki-richtlinie-kanzleien`.

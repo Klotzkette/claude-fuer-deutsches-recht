@@ -56,5 +56,7 @@ Die Akte ist nicht glatt: Die Satzung ist fortgeschrieben, das SHA enthält engl
 | `14_board_pack_cashburn.docx` | Board Pack und Cash-Burn-Risiko |
 | `15_datenschutz_ki_compliance_start.docx` | Datenschutz/KI-Startcheck |
 | `16_registerbeanstandung_entwurf.docx` | mögliche Registerbeanstandung |
+| `17_chat_gruender_signal_export.txt` | Gründer-Chat vor und nach der Versammlung: Bridge-Vorschlag, Runway, Klageankündigung |
 | `emails/*.eml` | E-Mail-Verkehr Gründer/Notar/Bank/Investor |
+| `emails/email-pimu-closing-frist.eml` | Pi Mu Holding zu Einzahlung erst nach Eintragung, Long Stop Date und UBO-Nachweisen |
 | `tabellen/*.csv` | Cap Table, Closing CPs, UBO-Liste |

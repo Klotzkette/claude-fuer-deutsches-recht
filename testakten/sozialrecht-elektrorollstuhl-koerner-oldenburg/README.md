@@ -80,7 +80,8 @@ sozialrecht-elektrorollstuhl-körner-oldenburg/
 │   └── gehweg_peterstrasse.jpg                          <- Bildbeschreibung Gehweg im Nahbereich
 ├── emails/
 │   ├── 2026-06-27_tochter_an_kanzlei.eml                <- Tochter übersendet Unterlagen und schildert den Alltag
-│   └── 2026-07-18_sachbearbeiterin_kanzlei_rueckfrage.eml <- Interne Rückfrage zu Klagefrist und Zeugin
+│   ├── 2026-07-18_sachbearbeiterin_kanzlei_rueckfrage.eml <- Interne Rückfrage zu Klagefrist und Zeugin
+│   └── 2026-09-23_tochter_an_kanzlei_nach_gutachten.eml <- Tochter zu neuem Sturz, Abstellplatzfrage und Termin am 22.10.
 ├── eml/
 │   └── 2026-09-18_gutachterin_uebersendung.eml          <- Übersendung des Gutachtens an das Gericht
 └── gesamt-pdf/                                          <- konsolidierte Lesefassung als PDF

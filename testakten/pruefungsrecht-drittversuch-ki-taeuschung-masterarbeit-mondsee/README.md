@@ -37,6 +37,8 @@ Prüfungsrecht: Studentin Jana Mondsee erhält endgültiges Nichtbestehen nach O
 | `13-anlagenindex.csv` | Anlagenindex |
 | `14-besprechungsunterlage.pdf` | Besprechungsunterlage |
 | `15-hausarbeit-auszug-und-literaturverzeichnis.docx` | Abgegebene Hausarbeit: Deckblatt, Gliederung, Textauszug und Literaturverzeichnis |
+| `16-antwort-pruefungsamt-akteneinsicht-termin.eml` | Antwort des Prüfungsamts: Einsichtstermin ohne Kopien, Prüfbericht und Protokoll zurückgehalten |
+| `17-gedaechtnisprotokoll-klausurtag.docx` | Gedächtnisprotokoll der Studentin zum Klausurtag mit Schwächeanfall und Unterbrechung |
 
 ## Arbeitsweise
 

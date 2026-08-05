@@ -52,6 +52,7 @@ Ein Medizintechnikzulieferer mit öffentlichem Förderdarlehen, FDA-Delay und Li
 | `27_kaufinteressent_nda_loi.docx` | NDA und LOI mit Kaufinteressent Sensortech Holding |
 | `28_anzeige_drohende_zahlungsunfaehigkeit_18_inso_notiz.docx` | Interne Notiz zur Anzeige drohender Zahlungsunfähigkeit |
 | `emails/`, `eml/` | E-Mail-Korrespondenz zwischen Geschäftsführung, Sachwalter, IG Metall, Investor |
+| `eml/07_aufbaubank_foerderdarlehen.eml` | Thüringer Aufbaubank zum Förderdarlehen: offene Rate, fehlender Verwendungsnachweis, Sicherungseigentum, Standortbindung |
 | `csv/` | Kontobewegungen, Fristenliste Schutzschirmverfahren |
 | `xlsx/` | Streitige Forderungen, aktualisierte 13-Wochen-Liquiditätsplanung |
 | `pdfs/` | Original-PDF-Belege (u.a. Kündigungsschreiben COFINSURE) |

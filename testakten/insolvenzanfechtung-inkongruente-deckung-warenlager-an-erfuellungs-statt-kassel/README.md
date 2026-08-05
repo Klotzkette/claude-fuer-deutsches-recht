@@ -62,6 +62,7 @@ insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel/
 ├── 20_replik_verwalterin_2026-11-09.docx            — Replik zum Klageverfahren: Vertiefung Liquiditätslage und Kenntnisindizien
 ├── 21_duplik_appelt_2026-11-30.docx                 — Duplik: Angriff auf Sanierungsgutachten und Bewertungsansatz
 ├── 22_beweisbeschluss_lg_kassel_2026-12-14.docx      — Beweisbeschluss: Zeugenvernehmung Kurrle, Sachverständigengutachten zur Zahlungsunfähigkeit
+├── 22a_protokollauszug_zeugenvernehmung_kurrle_2027-01-21.docx — Protokollauszug des Beweistermins: Aussage Kurrle mit Vorhalten aus dem Chatverlauf
 ├── 23_sachverstaendigengutachten_osterhage_2027-03-08.docx — Gutachten Osterhage: Zahlungsunfähigkeit bereits ab 01.02.2025 belegt
 ├── 24_urteil_lg_kassel_2027-06-21.docx              — Urteil: Verurteilung zur Rückgewähr dem Grunde und ganz überwiegend der Höhe nach
 ├── 25_schlussvermerk_verwalterin_2027-08-16.docx     — Schlussvermerk: Zahlungseingang, Verfahrensabschluss, Massequote

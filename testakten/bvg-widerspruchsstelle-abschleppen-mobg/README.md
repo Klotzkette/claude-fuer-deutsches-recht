@@ -57,6 +57,7 @@ Jeder Vorgangsordner enthält in der Regel:
 testakten/bvg-widerspruchsstelle-abschleppen-mobg/
   README.md                                      <- dies hier
   Fristen_Widerspruchsverfahren.docx               <- alle Fristen auf einen Blick
+  Posteingangsliste_Widerspruchsstelle_2026.csv    <- Eingangsregister aller sechs Widersprüche mit Sachstand laut Laufzettel
   01-klar-haltestelle-kantstrasse/
     Gebuehrenbescheid_BVG_2026-05-04.pdf
     Umsetzungsprotokoll_2026-05-02.pdf

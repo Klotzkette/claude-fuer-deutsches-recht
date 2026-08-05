@@ -110,7 +110,7 @@ Diese Akte ist eine Arbeitsakte für die Plugins `fachanwalt-insolvenz-sanierung
 | `xlsx/` | Kundendaten-B2B (12 juristische Personen); Asset-Inventur; AN-Liste mit Übernahmestatus; Massekostenkalkulation nach Closing. Eine B2C-Übertragungsliste wird wegen der beendeten Verträge nicht als Erwerberanlage geführt. |
 | `csv/` | Liquiditätsplan 12 Monate; Bieter-Vergleich (4 Bieter, ausgewählter Voracis fett); Kaufpreisraten-Zahlungsplan |
 | `jpg/` | Transaktionsstruktur (Organigramm), Asset-Verwertungsmatrix (Verwalter-Tafel), Closing-Workshop-Whiteboard, Eingangsbestätigung beA + AG-Stempel, Closing-Unterzeichnung im Notariat |
-| `eml/` | DSGVO-Information an Privatkunden (Entwurf); § 613a-Unterrichtung an AN; Gläubigerausschuss-Einberufung 17.06.2026; LOI-Übersendung an Voracis; Treuhandkonto-Zahlungsbestätigung; Widerspruch Frau Kettlitz; IT-Gutachter-Rückfrage GPL; Mangelanzeige Käuferin; IV-Antwort Gewährleistung |
+| `eml/` | DSGVO-Information an Privatkunden (Entwurf); § 613a-Unterrichtung an AN; Gläubigerausschuss-Einberufung 17.06.2026; LOI-Übersendung an Voracis; Treuhandkonto-Zahlungsbestätigung; Widerspruch Frau Kettlitz; IT-Gutachter-Rückfrage GPL; Mangelanzeige Käuferin; IV-Antwort Gewährleistung; Käuferin-Bestätigung Retention-Freigabe mit offenem Domain-Transfer (`11_kaeuferin_bestaetigung_retention_freigabe.eml`) |
 
 ## Relevante Normen (Stand 06/2026)
 

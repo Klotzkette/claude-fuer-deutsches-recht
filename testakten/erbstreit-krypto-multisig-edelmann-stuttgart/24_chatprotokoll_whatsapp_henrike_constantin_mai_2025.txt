@@ -1,0 +1,23 @@
+WhatsApp-Chat mit Constantin (Export aus dem Telefon von Dr. Henrike Edelmann, erstellt 02.06.2025, der Kanzlei Klotzkette am 03.06.2025 übergeben)
+Hinweis der Mandantin auf dem Ausdruck: Ältere Nachrichten vor dem 08.05. habe ich versehentlich gelöscht, da war aber nur Organisatorisches zur Beerdigung.
+
+[08.05.25, 19:14] Henrike: Constantin, deine Mail an Frau Steinkamp hat Mama sehr aufgewühlt. Können wir zwei mal normal telefonieren, ohne Anwälte?
+[08.05.25, 21:40] Constantin: Es gibt nichts zu telefonieren. Ich hab nur aufgeschrieben was Fakt ist. Papa hat mir die Wallet anvertraut, das weißt du genauso gut wie ich
+[08.05.25, 21:52] Henrike: Ich weiß, dass du dich gekümmert hast. Aber "anvertraut" und "geschenkt" ist nicht dasselbe und das 1,1 Mio Thema betrifft uns alle vier
+[08.05.25, 22:03] Constantin: drei. Ich hab ausgeschlagen
+[12.05.25, 10:22] Henrike: Warst du am Samstag bei Mama? Sie sagt du hast nach Papas Ledger gefragt und warst im Arbeitszimmer
+[12.05.25, 11:37] Constantin: Ich war da um meine alten Sachen zu holen. Und ja, ich hab gefragt ob der Stick noch im Tresor liegt, weil ich wissen muss ob die Firmware ein Update braucht bevor das Ding irgendwann gar nicht mehr lesbar ist. Das nennt man Verantwortung
+[12.05.25, 11:39] Henrike: Papas Ledger bleibt bei Mama unter Verschluss bis das geregelt ist. Das haben wir bei der Inventarisierung im März so vereinbart, du warst am 13.3. doch selbst dabei
+[12.05.25, 11:44] Constantin: Vereinbart habt ihr das. Ich hab zugeschaut
+[19.05.25, 23:56] Constantin: Damit du es von mir hörst und nicht von deiner Anwältin: ich hab die Wallet-Konfiguration bei mir neu aufgesetzt und mit den xpubs durchgeprüft. Meine zwei Schlüssel funktionieren. Signieren kann ich allein nichts, falls ihr Panik habt. Aber wenn der Trotz-Schlüssel auftaucht, will ich dabei sein, bevor irgendwer was bewegt
+[20.05.25, 07:31] Henrike: Was heißt WENN er auftaucht? Weißt du was über den Verbleib?
+[20.05.25, 08:15] Constantin: Papa hat 2022 mal gesagt, Trotz hätte seinen Schlüssel "in der Kanzlei wie ein Testament" verwahrt. Mehr weiß ich nicht. Frag doch die Abwicklerin von der Kanzlei, ihr habt doch für sowas eure Leute
+[20.05.25, 08:19] Henrike: Und der fünfte? Mama sagt bis heute, sie hat nie einen bekommen
+[20.05.25, 08:26] Constantin: Dann hat Papa ihren im Schließfach in Esslingen deponiert, ohne es ihr zu sagen. Wäre typisch. Er hat ihr das Ding 2021 am Küchentisch hingelegt, ich saß daneben. Dass sie das "vergessen" hat, sagt einiges
+[20.05.25, 08:31] Henrike: Oder du verwechselst das mit dem Backup-Umschlag. Ich war Weihnachten 2021 auch da und da ging es um die Depotunterlagen
+[20.05.25, 08:44] Constantin: Glaub was du willst. Ich lass mir jedenfalls nicht von Streckers Mandantin erzählen was Papa gewollt hat
+[26.05.25, 18:02] Henrike: Frau Steinkamp schlägt eine neutrale Verwahrung aller Geräte vor, auch deiner beiden, bei einem Notar. Machst du da mit?
+[26.05.25, 19:47] Constantin: Meine Schlüssel verlassen meine Wohnung nicht. Punkt
+[26.05.25, 19:49] Constantin: Und sag deiner Anwältin, die Formulierung "mutmaßliche Krypto-Auszahlungen an C." aus dem Schenkungspapier nehme ich persönlich. Die 380.000 waren für die Firma, das war ein Darlehen, das Papa später erlassen hat. Das ist was anderes
+[26.05.25, 19:58] Henrike: Ein erlassenes Darlehen ist doch genau das worüber wir reden. Hast du dazu Unterlagen?
+[27.05.25, 00:12] Constantin: Irgendwo Mails von Papa. Ich such sie raus wenn ich Zeit hab

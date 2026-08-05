@@ -1,6 +1,6 @@
 # Release-Asset-Index
 
-Stand: v436.1.0, automatisch aktualisierte Asset-Übersicht
+Stand: v437.0.0, automatisch aktualisierte Asset-Übersicht
 
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 

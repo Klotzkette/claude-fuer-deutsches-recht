@@ -67,7 +67,9 @@ Die Akte ist keine glatte Abwicklung, sondern bildet einen realistischen Entsche
 | `13_micar_bafin_ki_vo_vorabklaerung.docx` | MiCAR, BaFin und KI-Verordnung |
 | `14_erste_100_tage_plan.docx` | Plan für die ersten hundert Tage |
 | `emails/*.eml` | E-Mail-Verkehr Gründer, Angel, Notarin, Steuerberater |
+| `emails/email-notariat-terminbestaetigung-beurkundung.eml` | Terminbestätigung des Notariats für den 15.06.2026 mit Unterlagenliste und zwei offenen Punkten |
 | `tabellen/*.csv` | Cap-Table-Varianten, Kostenaufstellung Gründung |
+| `tabellen/domain_repository_bestandsliste.csv` | Bestandsliste der Domains, Repositories und geplanten Marke mit Inhabern, Kosten und Wertansätzen |
 
 ## Quellen und Rechtsstand
 

@@ -29,6 +29,14 @@ Eine frühere OP-Pflegerin beantragt Erwerbsminderungsrente. Die DRV stützt sic
 
 `rentenpruefer`, `fachanwalt-sozialrecht`, `teilhaberecht-rehabilitation`, `richter-sozialgericht`.
 
+## Nachgereichte Unterlagen
+
+| Datei | Inhalt |
+| --- | --- |
+| `eml/2026-07-09_schoening_zutrittssystem_export.eml` | Personalabteilung übersendet den Zutrittssystem-Export mit Hinweisen zu Abweichungen |
+| `zutrittssystem_zentral_op_mai_2026.csv` | Rohexport des Zutrittssystems für Mai 2026, Ausweisnummer 04471 |
+| `08_telefonvermerk_drv_servicezentrum_2026-07-13.docx` | Telefonvermerk zum Widerspruchseingang und zur Aktenübersendung |
+
 ## Sachverhaltskern
 
 Saskia Renneberg war OP-Pflegerin in Köln-Merheim. Seit einer Infektion im November 2024 bestehen POTS, Belastungsintoleranz, Brain Fog und wiederholte Synkopen. Der Arbeitgeber kann nur noch zwei Stunden Verwaltungsaufgaben pro Tag anbieten. Die DRV lehnt volle und teilweise Erwerbsminderung ab. Sie nimmt sechs Stunden leichte Tätigkeit an, ohne die Crash-Tage nach Belastung gesondert zu bewerten. Die Widerspruchsfrist läuft am 22.07.2026 ab. Es gibt ein Reha-Entlassungsbericht, ein kardiales Kipptischprotokoll, Arbeitsunfähigkeitszeiten und eine Haushaltsdarstellung des Ehemanns.

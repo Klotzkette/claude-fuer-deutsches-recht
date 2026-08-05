@@ -86,7 +86,7 @@ für die **Nahverkehr Schwerin GmbH** (KRITIS-Sektor Verkehr) – geschätzter A
 
 - `docx/` — Rügeschriftsatz § 160 GWB, Nachprüfungsantrag VK, Vergleichsvorschlag
 - `xlsx/` — Bewertungsmatrix Zuschlagskriterien, Eignungsreferenzen-Tabelle CyberShield
-- `eml/` — E-Mail-Korrespondenz (4 Nachrichten)
+- `eml/` — E-Mail-Korrespondenz (5 Nachrichten, zuletzt `05_olg_duesseldorf_zwischennachricht_verg_18_26.eml`: Eingangsbestätigung und Zwischennachricht des Vergabesenats mit Fristen und Terminavis)
 - `pdfs/` — Vergabe-Vermerk-Auszug, TED-Bekanntmachung (Auszug)
 - `jpg/` — Organigramm Vergabestelle, Bieter-Konstellation, BSI-Schutzziel-Pyramide
 

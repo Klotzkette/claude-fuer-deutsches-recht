@@ -122,6 +122,8 @@ Die Anwältin erkennt die Fristkritikalität: Einspruchsfrist läuft am **25. Ma
 | [14_zeugenbefragung_fragenkatalog.docx](14_zeugenbefragung_fragenkatalog.docx) | 43 Fragen für 3 Zeugen, taktisch geordnet |
 | [15_einstellungsstrategie_153_153a.docx](15_einstellungsstrategie_153_153a.docx) | Strategiepapier §§ 153, 153a StPO; Zeitplan; Mandantenbelehrung |
 | [16_wiedereinsetzung_notfall.docx](16_wiedereinsetzung_notfall.docx) | Notfall-Wiedereinsetzungsantrag §§ 44, 45 StPO (3 Varianten) |
+| [17_email_mandantin_probezeit_fahrverbot.eml](17_email_mandantin_probezeit_fahrverbot.eml) | Mandantinnenmail zu Termin, Fahrverbotssorgen, Schulweg der Tochter und Schramme am eigenen Fahrzeug |
+| [18_kostenvoranschlag_werkstatt_golf_froehlich.docx](18_kostenvoranschlag_werkstatt_golf_froehlich.docx) | Kostenvoranschlag der Werkstatt für den beschädigten VW Golf der Zeugin Fröhlich über 1.180 EUR |
 | [README.md](README.md) | Diese Übersichtsdatei |
 
 ---

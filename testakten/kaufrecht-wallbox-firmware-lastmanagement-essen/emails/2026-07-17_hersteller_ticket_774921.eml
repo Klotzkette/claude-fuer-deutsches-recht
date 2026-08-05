@@ -1,0 +1,41 @@
+From: HelioCharge Support <support@heliocharge-systems.de>
+To: Alina Voß <alina.voss@posteo.de>
+Date: Fri, 17 Jul 2026 16:03:29 +0200
+Subject: Ticket 774921 - Ladeleistung W7 / Cloudprofil Eco-Dynamic / Drittanbieterzähler
+Message-ID: <hc.774921.20260717160329@heliocharge-systems.de>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Sehr geehrte Frau Voß,
+
+vielen dank für Ihre Geduld zu Ticket 774921. Nach Rücksprache mit unserem
+Plattformteam können wir folgendes mitteilen:
+
+Ihre Wallbox HelioCharge W7 wurde im Zuge des Plattform-Rollouts vom 18.05.2026
+automatisch dem Cloudprofil Eco-Dynamic zugeordnet. Das Profil steuert die
+Lastverteilung serverseitig. Lokale Änderungen im Installateurmenü werden bei
+bestehender Netzwerkverbindung durch die Synchronisierung überschrieben, das ist
+kein Fehler sondern vorgesehenes Verhalten der Plattform.
+
+Die Einbindung von Fremdzählern (z.B. Volstrom EM-3) über die offene Schnittstelle
+ist seit der Plattformumstellung Bestandteil des Pakets HelioCharge Connect Pro
+(4,99 Euro monatlich, monatlich kündbar). Im Basisprofil wird der Fremdzähler nicht
+mehr ausgewertet, dadurch greift die konservative Begrenzung der Ladeleistung. Als
+Kulanz können wir Ihnen Connect Pro für 6 Monate kostenfrei freischalten, dazu
+benötigen wir Ihre Zustimmung und die Geräte-ID (Typenschild, beginnt mit HCW7-).
+
+Ein Zurückspielen einer älteren Firmware bieten wir aus Sicherheitsgründen nicht
+an. Zum Ereignisspeicher: die fehlenden Werte des Stromwandlers C2 zwischen 23. und
+25. Juni sind uns aus anderen Vorgängen bekannt, das Plattformteam prüft noch die
+Ursache, ein Termin dafür liegt uns nicht vor.
+
+Bitte antworten Sie unter Beibehaltung der Ticketnummer. Telefonisch erreichen Sie
+uns Mo-Fr 8-17 Uhr unter 0800 5540210.
+
+Mit freundlichen Grüßen
+
+Deniz Karahan
+Technischer Support Level 2
+HelioCharge Systems GmbH
+Siemensstraße 27 · 71254 Ditzingen

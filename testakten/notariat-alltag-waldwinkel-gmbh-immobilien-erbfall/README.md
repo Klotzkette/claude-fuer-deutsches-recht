@@ -44,6 +44,8 @@ Diese Akte gehört zu den Plugins `notariat-alltag`, `berufsrecht-notare`.
 | `14-notariat-vollzugsmitteilung-grundbuchunterlagen.docx` | Anforderung von Löschungsbewilligung und Ablösemitteilung |
 | `15-nachlassgericht-eroeffnungsniederschrift.docx` | Eröffnungsniederschrift zum Testament Karl-Heinz Falk |
 | `16-kaufpreis-zahlungsdaten.csv` | Zahlungswege, Beträge, Konten und Fälligkeitsbezüge beider Vorgänge |
+| `17-kuriersendung-verlauf-vollmacht.csv` | Sendungsverlauf des Kurierumschlags mit der Originalvollmacht von Porto bis zur Zustellung in Witzenhausen |
+| `18-email-anwalt-dorn-einziehung.eml` | Anwaltsschreiben für Felix Dorn: fehlende Einladung, Widerspruch gegen die Einziehung, Klageankündigung |
 
 ## Sachstand
 

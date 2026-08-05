@@ -1,0 +1,8 @@
+Zeitstempel;Richtung;Zielserver;Land;Protokoll;Datenmenge_MB;Inhaltstyp;Bemerkung
+2026-02-21 10:04:12;ausgehend;ingest-us-east.soliscloud.com;USA;TLS 1.3 Port 443;38.4;Videostream Buffering;Werkszustand, erste Inbetriebnahme, keine Einwilligungsabfrage angezeigt
+2026-02-21 10:04:19;ausgehend;telemetry.soliscloud.com;USA;TLS 1.3 Port 443;0.7;Geräte-Telemetrie;Seriennummer LO-SVX-2025-44712 im Klartext-Header
+2026-02-21 10:11:47;ausgehend;faceapi-sg.soliscloud.com;Singapur;TLS 1.3 Port 443;2.9;Bildausschnitte Gesichter;drei Personen im Testraum, Funktion Face Insights aktiv
+2026-02-21 10:12:03;eingehend;faceapi-sg.soliscloud.com;Singapur;TLS 1.3 Port 443;0.1;Antwortdaten Namen;Einblendung von zwei Namen ins Sichtfeld beobachtet
+2026-02-22 14:32:55;ausgehend;ingest-us-east.soliscloud.com;USA;TLS 1.3 Port 443;412.6;Videostream Buffering;durchgehende Übertragung über 34 Minuten Straßenszene
+2026-02-22 15:09:31;ausgehend;ingest-us-east.soliscloud.com;USA;TLS 1.3 Port 443;11.2;Videostream Restdaten;Übertragung lief nach Deaktivierung in den Einstellungen noch 87 Sekunden weiter
+2026-02-23 09:18:40;ausgehend;update.soliscloud.com;USA;TLS 1.3 Port 443;1.4;Konfigurationsabgleich;Buffering nach Neustart wieder aktiviert, Einstellung nicht dauerhaft gespeichert

@@ -52,6 +52,7 @@ Diese Akte gehört zu den Plugins `leasingrecht-praxis`, `bank-rechtsabteilung`,
 | `28-schadensersatzberechnung-restwert-vertrag.xlsx` | Schadensersatzberechnung Objekte 11/12 (Pilsen) |
 | `29-email-servicetechniker-vor-ort-zustand.eml` | Servicetechniker-Bericht zum Vor-Ort-Zustand |
 | `eml/` | E-Mail-Verkehr zu Auslandseinsatz, Versicherung, Mahnwesen und Zahlungsverzug |
+| `eml/06_antwort_rotorwerk_cz_verbleib_objekte_11_12.eml` | Antwort der Rotorwerk CZ s.r.o. zum Verbleib der Objekte 11/12, Teilausbau und behaupteter Nutzungsvereinbarung |
 | `csv/` | Zahlungsverlauf Leasingraten, Objektliste-Kurzübersicht |
 | `xlsx/` | Restwert-Szenarien |
 | `jpg/` | Fotodokumentation Rückholung Halle A |

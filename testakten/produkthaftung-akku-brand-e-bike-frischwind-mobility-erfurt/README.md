@@ -116,6 +116,7 @@ Arbeitsakte zum Plugin `produktrecht` mit Schwerpunkten Produktsicherheit, CE-Ko
 | [`eml/email-haftpflicht-versicherer-meldung.eml`](eml/email-haftpflicht-versicherer-meldung.eml) | Allianz Haftpflicht an Frischwind, vorläufige Deckungsablehnung |
 | [`eml/email-zulieferer-akku-chinatech.eml`](eml/email-zulieferer-akku-chinatech.eml) | ChinaTech ShenZhen an CTO, Haftungsablehnung |
 | [`eml/email-staatsanwaltschaft-erfurt-anfrage.eml`](eml/email-staatsanwaltschaft-erfurt-anfrage.eml) | StA Erfurt an RA Roosendaal, Verfahrensanfrage |
+| [`eml/email-haendler-rueckmeldung-rueckruf.eml`](eml/email-haendler-rueckmeldung-rueckruf.eml) | Vertragshändler Nr. 31 (Jena) bestätigt Rückruf-Eingang, meldet Rückgabezahlen, Portalfehler und einen Kunden, der die Rückgabe verweigert |
 
 ### PDFs
 

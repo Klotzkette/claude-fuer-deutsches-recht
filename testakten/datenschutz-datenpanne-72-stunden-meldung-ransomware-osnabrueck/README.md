@@ -51,12 +51,14 @@ datenschutz-datenpanne-72-stunden-meldung-ransomware-osnabrueck/
 ├── 11_tom_liste_stand_2026-01.csv                     — Technische und organisatorische Maßnahmen, Stand vor dem Vorfall
 ├── 12_eingangsbestaetigung_meldeportal_2026-06-17.docx — Automatische Eingangsbestätigung der Behörde mit Uhrzeit
 ├── 13_dsb_vermerk_fristberechnung_2026-06-25.docx     — DSB-Vermerk mit Gegenmeinung zur Fristberechnung
+├── 14_hotline_beschwerden_export_2026-07.csv          — Hotline-Export: Phishing-Wellen, unberechtigte Lastschrift, Auskunfts- und Schadensersatzverlangen
 ├── teams-chat/
 │   └── 04_krisenstab_darkvault_2026-06.txt            — Krisen-Chat des IT-Krisenstabs; belegt Kenntnis am Samstagvormittag
 ├── eml/
 │   ├── 2026-06-08_phishing_auftrag_2984.eml           — Phishing-Mail mit Makro-Anhang als Erstzugangsvektor
 │   ├── 2026-06-13_erpresserschreiben_darkvault.eml    — Lösegeldforderung mit Bestätigung des Datenabflusses
-│   └── 2026-06-15_forensik_bestaetigung_exfiltration.eml — Forensik-Mail, bestätigt Exfiltration am 15.06. 09:30 Uhr
+│   ├── 2026-06-15_forensik_bestaetigung_exfiltration.eml — Forensik-Mail, bestätigt Exfiltration am 15.06. 09:30 Uhr
+│   └── 2026-06-23_presseanfrage_leakseite.eml         — Presseanfrage zum Leakseiten-Eintrag mit Fragenkatalog und Antwortfrist
 ├── rubric.yaml                                        — Sechs Prüfpunkte zur Bewertung einer Bearbeitung
 └── README.md                                          — Diese Übersicht
 ```

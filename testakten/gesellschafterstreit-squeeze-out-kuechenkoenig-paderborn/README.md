@@ -85,6 +85,7 @@ Arbeitsakte zum Plugin `fachanwalt-handels-gesellschaftsrecht`.
 | 20 | [`20_strategie_und_vergleichskorridor.docx`](20_strategie_und_vergleichskorridor.docx) | Best/Worst-Case, Vergleichsangebot, Zeitachse Prozess |
 | 21 | [`21_vollmacht_und_prozessauftrag.docx`](21_vollmacht_und_prozessauftrag.docx) | Vollmacht Geisen-Familie, Prozessauftrag LG Bielefeld |
 | 22 | [`22_kanzleistrategie_gesamtschau.docx`](22_kanzleistrategie_gesamtschau.docx) | Gesamtstrategie, Prioritäten, Kommunikation Mandanten |
+| eml/05 | [`eml/05_hinschg_nachtragsmeldung_anonym.eml`](eml/05_hinschg_nachtragsmeldung_anonym.eml) | Anonymer Nachtrag zu 2026/IM-003 mit drei prüfbaren Vorgängen, Geldweg und Hinweis auf das Kassenbuch |
 
 ---
 

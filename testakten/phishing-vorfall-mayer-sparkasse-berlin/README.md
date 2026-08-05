@@ -41,6 +41,7 @@ Sie simuliert einen Online-Banking-Phishing-Fall mit Call-ID-Spoofing, pushTAN-F
 - `07_ombudsmann_und_klagepfad.docx` - Verfahrensstrategie.
 - `08_case_gate_input.json` - Input für das Offline-Gate.
 - `09_case_gate_output.json` - Beispiel-Output des Offline-Gates.
+- `10_verfuegung_lg_berlin_terminierung.docx` - Abschrift der gerichtlichen Verfügung: Termin 21.04.2026, Fristen, Vorlageanordnung zu den pushTAN-Protokollen.
 
 ## Testlauf
 

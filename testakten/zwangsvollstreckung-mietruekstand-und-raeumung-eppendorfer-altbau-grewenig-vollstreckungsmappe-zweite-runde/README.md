@@ -99,6 +99,7 @@ Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Im Akten-ZIP
 | 22 | [`22-mandantenmemo-go-no-go-raeumung.docx`](22-mandantenmemo-go-no-go-raeumung.docx) | Go/No-Go-Analyse Räumung März 2026, Blockierungskriterien, Ausblick |
 | 23 | [`23-kostenfestsetzungsantrag-entwurf.docx`](23-kostenfestsetzungsantrag-entwurf.docx) | KFB-Entwurf § 103 ff. ZPO, Kostenpositionen Vorprozess, Verfahren |
 | 24 | [`24-mahnbescheid-online-vb-pruefung.docx`](24-mahnbescheid-online-vb-pruefung.docx) | MahnB/VB-Online für Nutzungsentschädigung § 546a BGB, Titelschaffung |
+| 25 | [`25-zahlungseingaenge-forderungskonto-2026-07.csv`](25-zahlungseingaenge-forderungskonto-2026-07.csv) | Zahlungseingänge März bis Juli 2026: Lohnpfändung, Versteigerungserlös, Kontopfändung, unklarer Abschlag des Schuldners |
 
 ---
 

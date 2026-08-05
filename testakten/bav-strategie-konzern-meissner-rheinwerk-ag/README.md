@@ -145,6 +145,8 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 | `Bilanzielle_Auswirkungen_HGB_IFRS.xlsx` | Excel | Pensionsrückstellungen HGB/IFRS/§ 6a EStG; Sensitivitätsanalyse; Meilensteine | 5 Tabs: Rollforward IAS 19; HGB; § 6a; Sensitivität; Meilensteine |
 | `Notiz_Mandantengespraech_Vorstand.txt` | Text | Chaotische handschriftliche Mitschrift Kick-off 14.01.2026 | Nicht autorisiert; enthält Hintergrundinfos COO, BR-Lage, Kyoto-Video |
 | `Aktenvermerk_WhatsApp_CFO_an_Partner_2026-04-08.docx` | Beschreibung | WhatsApp CFO → Sompeh-Ostermann (08.04.2026, 21:37 Uhr) | Original aus Datenschutzgründen nicht in Akte; Inhalt sinngemäß dokumentiert |
+| `Stundenreport_Q1_2026_Treuenfels_Yamamoto.csv` | CSV | Interner Stundenreport Januar bis 08.04.2026 je Berufsträger mit Stundensätzen | Summe ca. EUR 2,38 Mio. netto; Grundlage der WhatsApp-Nachfrage des CFO |
+| `Email_PSVaG_Rueckfragen_Buyout_2026-05-12.eml` | E-Mail | PSVaG-Rückfragen zum Buyout Hanseatica, Bestandsliste und Gleichwertigkeitsbescheinigung | Frist 12.06.2026; Bezug Vorbehaltszahlung EUR 2.777.060 |
 
 ---
 

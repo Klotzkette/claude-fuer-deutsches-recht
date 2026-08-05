@@ -129,6 +129,8 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | `Aufstellung_Provisionsstreitwert.xlsx` | Excel | Streitwertaufstellung, Zeithonorare, RVG-Vergleich, Zinsberechnung | 2 Tabellenblätter; Formeln, Summenzeilen, bedingte Formatierung |
 | `Notiz_Erstgespraech_Haspelbeck.txt` | Text | Rohe Anwaltsnotiz vom Erstgespräch 15.08.2023 | Chaotisch, mit Mandanten-O-Tönen, internen Einschätzungen |
 | `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.docx` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; "Waaaas?!" |
+| `Kontoauszug_Haspelbeck_Juni_2023.csv` | CSV | Kontoauszug Juni 2023 mit der Überweisung vom 02.06.2023 über EUR 8.810,76 an die Beklagte | Verwendungszweck nennt Rechnung 2023-0183; daneben Alltagsbuchungen |
+| `Email_Haspelbeck_an_Hagelbrand_Differenzbetrag.eml` | E-Mail | Korbinian Haspelbeck an Dr. Hagelbrand, 04.09.2023, zur Herkunft der Differenz von EUR 73,42 | Mandant kann die Mehrzahlung selbst nicht sicher erklären |
 
 ---
 

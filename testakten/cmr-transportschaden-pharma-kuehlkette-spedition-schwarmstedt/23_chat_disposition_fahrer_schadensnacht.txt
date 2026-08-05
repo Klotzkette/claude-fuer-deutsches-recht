@@ -1,0 +1,23 @@
+Chat-Export Messenger, gesichert am 21.01.2026 durch die Disposition der Schwarmstedt Logistik GmbH
+Beweissicherung zum Transport CMR-2026-DE-001-0018
+Teilnehmer: Heiko Warnecke (Disposition Schwarmstedt), Catalin Petrescu (Fahrer, Petrescu Transport SRL)
+
+[13.01.2026, 19:12] Heiko Warnecke: Catalin, Standort? Lyon will morgen früh anliefern, Zeitfenster 08:00 bis 10:00.
+[13.01.2026, 19:26] Catalin Petrescu: Bin hinter Dijon, viel Verkehr heute. Mache Pause auf Aire de Bourg-en-Bresse, Ruhezeit bis 04:30 circa.
+[13.01.2026, 19:28] Heiko Warnecke: Ok. Kühler auf 2 bis 8 Grad, Anzeige checken vor dem Schlafen. Ist die MediVita Ladung, ganz wichtig.
+[13.01.2026, 19:41] Catalin Petrescu: Anzeige sagt 4.6 Grad, alles gut. App auch grün.
+[14.01.2026, 04:47] Catalin Petrescu: Guten morgen. Aggregat hat Fehler F-27 im Display, ist aber wieder gelaufen nach Neustart. Anzeige jetzt 6.8 Grad.
+[14.01.2026, 04:52] Catalin Petrescu: Kein Alarm auf Telefon gekommen in der Nacht, App war grün. Weiss nicht wie lange Fehler war.
+[14.01.2026, 06:03] Heiko Warnecke: Moin. F-27 ist Abtauung oder Sensor, steht im Handbuch im Seitenfach. 6.8 ist noch im Fenster. Fahr los, Fenster in Lyon nicht verpassen.
+[14.01.2026, 06:04] Heiko Warnecke: Hast du ein Foto vom Display gemacht?
+[14.01.2026, 06:19] Catalin Petrescu: Foto habe ich von 04:45. Von Nacht natürlich nicht, habe geschlafen.
+[14.01.2026, 08:34] Catalin Petrescu: Bin in Lyon, Rampe 3. Apotheker liest Logger aus.
+[14.01.2026, 09:58] Catalin Petrescu: Problem. Die sagen Logger zeigt über 14 Grad in der Nacht, 03:18 bis 03:54. Nehmen Ware nicht an. Was soll ich machen?
+[14.01.2026, 10:01] Heiko Warnecke: Nichts unterschreiben ausser Vorbehalt. Frachtbrief Feld 24 muss der Vorbehalt rein. Ich ruf den Chef an.
+[14.01.2026, 10:22] Heiko Warnecke: Chef sagt: Ware bleibt auf dem Auflieger, Kühlung an, du wartest auf Anweisung. Schreib mir die Aggregat-Stunden und den Diesel Stand vom Kühler auf.
+[14.01.2026, 10:39] Catalin Petrescu: Ok. Aggregat 12447 Stunden. Tank Kühler war heute morgen fast leer, habe aufgefüllt in Bourg 05:10. Quittung habe ich.
+[14.01.2026, 10:41] Heiko Warnecke: Fast leer?? Davon hast du nichts geschrieben.
+[14.01.2026, 10:44] Catalin Petrescu: Dachte ist normal nach 2 Tage. Sorry. Steht auch auf Quittung, 61 Liter.
+[14.01.2026, 11:52] Heiko Warnecke: Ok, alles dokumentieren, nichts löschen. Frau Dr. Hammerschmidt meldet sich wegen Protokoll. Wie besprochen: Fotos von Display, Logger, Frachtbrief, Quittung an mich per Mail, heute noch.
+
+Ende des Exports

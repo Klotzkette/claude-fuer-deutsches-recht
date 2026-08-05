@@ -1,0 +1,18 @@
+Buchungsdatum;Vorgang;Betrag EUR;Gegenseite;Bemerkung
+02.12.2025;Mieteingang Dezember;1580,00;Sommer, Lukas;Verwendungszweck Miete 12/25
+15.12.2025;Hausgeld Dezember;-512,00;WEG Eppendorfer Mühlenbogen 16, Konto Eppendorfer Immobilienverwaltung GmbH;laufender Wirtschaftsplan
+02.01.2026;Mieteingang Januar;1580,00;Sommer, Lukas;Verwendungszweck Miete 1/26
+15.01.2026;Hausgeld Januar;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+19.01.2026;Kleinreparatur Heizungsventil;-148,75;Fa. Rothert Haustechnik, Hamburg;Rechnung 26-0119, Beauftragung Zwangsverwalter
+02.02.2026;Mieteingang Februar;1580,00;Sommer, Lukas;Verwendungszweck Miete 2/26
+16.02.2026;Hausgeld Februar;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+27.02.2026;Vergütung Zwangsverwalter Q4/2025;-892,50;Benderoth & Kassel Immobilienverwaltung GmbH;Festsetzung AG Hamburg 71 L 44/25 vom 18.02.2026
+02.03.2026;Mieteingang März;1580,00;Sommer, Lukas;Verwendungszweck Miete 3/26
+16.03.2026;Hausgeld März;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+01.04.2026;Mieteingang April;1580,00;Sommer, Lukas;Verwendungszweck Miete 4/26
+15.04.2026;Hausgeld April;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+04.05.2026;Mieteingang Mai;1580,00;Sommer, Lukas;Verwendungszweck nur Name, Zuordnung durch Verwalter
+15.05.2026;Hausgeld Mai;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+02.06.2026;Mieteingang Juni;1580,00;Sommer, Lukas;Verwendungszweck Miete 6/26
+15.06.2026;Hausgeld Juni;-512,00;WEG Eppendorfer Mühlenbogen 16;laufender Wirtschaftsplan
+30.06.2026;Anfrage Kautionskonto;0,00;Nordelbe Kreditbank AG;kein auf die Schuldner oder den Mieter lautendes Mietkautionskonto ermittelt, Rückfrage beim Mieter läuft

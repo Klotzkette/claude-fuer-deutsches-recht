@@ -87,6 +87,7 @@ Arbeitsakte zum Plugin `fachanwalt-erbrecht`.
 | 21 | [`21_strategie_vergleichskorridor.docx`](21_strategie_vergleichskorridor.docx) | Kräfteverhältnisse, Szenarien Best/Worst Case, Vergleichskorridor |
 | 22 | [`22_beweismittel_zeugen_sachverstaendige.docx`](22_beweismittel_zeugen_sachverstaendige.docx) | Urkundenliste K 1–K 19, Sachverständige, Zeugen, Beweislücken |
 | 23 | [`23_steuerliche_dimension_und_erbschaftsteuer.docx`](23_steuerliche_dimension_und_erbschaftsteuer.docx) | ErbSt-Berechnung je Erbe, Krypto-Bewertung, Anzeigepflicht, Liquiditätsproblem |
+| 24 | [`24_chatprotokoll_whatsapp_henrike_constantin_mai_2025.txt`](24_chatprotokoll_whatsapp_henrike_constantin_mai_2025.txt) | WhatsApp-Export Henrike/Constantin Mai 2025: Schlüsselverbleib, Wallet-Neuaufsatz, Darlehensbehauptung zu den 380 TEUR |
 
 ---
 

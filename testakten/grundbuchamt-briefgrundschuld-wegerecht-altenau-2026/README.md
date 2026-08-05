@@ -56,5 +56,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_bankarchiv_suche_grundschuldbrief.docx`](12_bankarchiv_suche_grundschuldbrief.docx) | Bankarchiv-Auskunft zum tatsächlichen Suchstand des Briefs |
 | [`13_email_verkaeufer_dachbodenfund.eml`](13_email_verkaeufer_dachbodenfund.eml) | Verkäufermail zu Dachbodenfund und Wegeskizze |
 | [`14_belastungen_und_urkundenfundstellen.csv`](14_belastungen_und_urkundenfundstellen.csv) | Belastungen und Urkundenfundstellen aus verschiedenen Quellen |
+| [`15_email_bank_kartonsuche_ergebnis.eml`](15_email_bank_kartonsuche_ergebnis.eml) | Bankmail zum Ergebnis der Kartonsuche: leere Briefhülle S-4418, Mikrofilm-Lücke, Zeuge Bode |
+| [`16_telefonvermerk_grundbuchamt_frist.docx`](16_telefonvermerk_grundbuchamt_frist.docx) | Telefonvermerk des Notariats mit dem Grundbuchamt zu Fristlauf, Vertretungsnachweis und Grundakteneinsicht |
+| [`17_ortstermin_wegerecht_vermerk.docx`](17_ortstermin_wegerecht_vermerk.docx) | Ortsterminvermerk der Käuferin mit Wegmaßen, Angaben des Nachbarn Kießling und Fotoliste |
 
 <!-- END nachgereichte-originalunterlagen -->

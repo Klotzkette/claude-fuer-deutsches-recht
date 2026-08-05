@@ -62,8 +62,8 @@ defekt (Reparaturangebot 28 TEUR). Großauftrag Hotel Lützowufer LZF-2025-08
 | `02_bwa/` | BWA Januar–April 2026, BWA-Kommentar des Steuerberaters |
 | `03_susa/` | Summen- und Saldenliste per 30.04.2026 |
 | `04_offene_posten/` | OPOS Debitoren, OPOS Kreditoren |
-| `05_bank/` | Bankauszüge Februar–April 2026 (Auszug) |
-| `06_steuern_sv/` | USt-Voranmeldungen, Bescheid Krankenkasse, FA-Mahnung |
+| `05_bank/` | Bankauszüge Februar–April 2026 (Auszug); E-Mail der MBS-Firmenkundenbetreuung vom 12.05.2026 (`email_mbs_firmenkunden_2026-05-12.eml`) zu Linienauslastung, Sanierungskonzept und Termin |
+| `06_steuern_sv/` | USt-Voranmeldungen, Bescheid Krankenkasse, FA-Mahnung; Vollstreckungsankündigung der AOK Berlin vom 28.04.2026 (`aok_vollstreckungsankuendigung_2026-04-28.md`) |
 | `07_auftraege/` | Auftragsbestand mit Lieferterminen und Zahlungszielen |
 | `08_vertraege/` | Leasing, Kreditverträge, Miete |
 

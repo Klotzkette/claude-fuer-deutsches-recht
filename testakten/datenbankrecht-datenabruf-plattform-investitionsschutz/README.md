@@ -35,6 +35,9 @@ Diese Akte gehört zu den Plugins `datenbankrecht`, `urheberrecht`, `softwarerec
 | `05_hashmanifest_und_logsegmente.csv` | Rohdatenexport mit 6 Einträgen und unveränderten Quellenangaben |
 | `06_email_investor_datenasset_due_diligence.eml` | E-Mail mit vollständigem Header: Projekt Speicher / Datenherkunft, API-Vorfall und Data-Asset-Anlage |
 | `07_abmahnschreiben_quadratlotse_2026-06-24.docx` | Abrufe aus der HavelImmo-Datenbank und Nutzung von Maklerkontaktdaten |
+| `08_telefonvermerk_bestandsaufnahme_2026-06-30.docx` | Vermerk zur Videokonferenz über die technische Bestandsaufnahme mit QuadratLotse |
+| `09_email_maessler_nachtabrufe_2026-07-03.eml` | Interne Meldung der IT-Sicherheit über eine neue, kleinere Abrufwelle Anfang Juli |
+| `10_crm_feldliste_abgleich.csv` | Feldweiser Abgleich CRM-Export, bereinigte Datei und Import bei QuadratLotse |
 ## Sachstand
 
 - Ein Immobilienportal entdeckt massenhafte API-Zugriffe eines Preisvergleichsdienstes.

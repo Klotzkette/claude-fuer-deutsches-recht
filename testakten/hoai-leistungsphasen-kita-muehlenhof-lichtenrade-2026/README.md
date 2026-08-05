@@ -46,25 +46,25 @@ Die Akte liegt als verstreuter Ordner mit Markdown, EML, XLSX, CSV, PDF und Bild
 
 | Datei | Inhalt |
 | --- | --- |
-| `01-projektauftrag-und-vertragsstand.md` | Architektenvertrag-Auszug: Leistungsbild § 34 HOAI, Honorarzone, anrechenbare Kosten, Stufenbeauftragung, Vertragsstrafe, Kündigung, Vertragsstandvermerk |
-| `02-lph1-grundlagen-und-bedarf.md` | Grundlagenermittlung, offene Bedarfslücken, nicht freigegebene Aussagen |
-| `03-lph2-vorplanung-varianten.md` | Varianten A/B/C, Kostenschätzung DIN 276, politische Freigabe Variante B |
+| `01-projektauftrag-und-vertragsstand.docx` | Architektenvertrag-Auszug: Leistungsbild § 34 HOAI, Honorarzone, anrechenbare Kosten, Stufenbeauftragung, Vertragsstrafe, Kündigung, Vertragsstandvermerk |
+| `02-lph1-grundlagen-und-bedarf.docx` | Grundlagenermittlung, offene Bedarfslücken, nicht freigegebene Aussagen |
+| `03-lph2-vorplanung-varianten.docx` | Varianten A/B/C, Kostenschätzung DIN 276, politische Freigabe Variante B |
 | `04-lph3-entwurf-und-kostenberechnung.xlsx` | Kostenverfolgung Schätzung/Berechnung/Anschlag/Ist, anrechenbare Kosten, Entscheidungen |
 | `05-lph4-genehmigung-bauamt.eml` | Nachforderung der Bauaufsicht mit Auflagen |
-| `06-lph5-ausfuehrungsplanung-planindex.md` | Planindex, Schnittstelle TGA/Tragwerk, fehlende Freigabe |
+| `06-lph5-ausfuehrungsplanung-planindex.docx` | Planindex, Schnittstelle TGA/Tragwerk, fehlende Freigabe |
 | `07-lph6-lv-und-mengenrisiko.xlsx` | LV, Vergabe-Budgetdrift der Lose, Mengengerüst |
-| `08-lph7-bieterspiegel-vergabevermerk.md` | Bieterspiegel, Wertungsmatrix, Vergabevorschlag, Förderbezug |
-| `09-lph8-baustellenprotokolle.md` | Vier Jour-fixe-Protokolle: Behinderung, Kollision, Nachtrag N-07, Leistungsstand |
+| `08-lph7-bieterspiegel-vergabevermerk.docx` | Bieterspiegel, Wertungsmatrix, Vergabevorschlag, Förderbezug |
+| `09-lph8-baustellenprotokolle.docx` | Vier Jour-fixe-Protokolle: Behinderung, Kollision, Nachtrag N-07, Leistungsstand |
 | `10-lph8-maengel-und-rechnungspruefung.pdf` | Mängelliste und Rechnungsprüfung |
-| `11-lph9-objektbetreuung-gewaehrleistung.md` | Objektbetreuung, Gewährleistungsplan, Beauftragungsrisiko |
+| `11-lph9-objektbetreuung-gewaehrleistung.docx` | Objektbetreuung, Gewährleistungsplan, Beauftragungsrisiko |
 | `12-whiteboard-lph-matrix.jpg` | Foto Planungs-/Bauleitungsboard |
 | `13-whatsapp-baustelle.jpg` | Chat-Screenshot Bauleitung/TGA |
-| `14-anwaltliches-pruefmemo.md` | Vollständiges Gutachten: Honorar, Stufenabruf, Grundleistung/Besondere Leistung, Nachtrag, Bauzeit |
+| `14-anwaltliches-pruefmemo.docx` | Vollständiges Gutachten: Honorar, Stufenabruf, Grundleistung/Besondere Leistung, Nachtrag, Bauzeit |
 | `15-entscheidungslog-und-fristen.csv` | Entscheidungs- und Fristenlog |
 | `16-bauzeitenplan-soll-ist-und-vertragsstrafe.csv` | Soll-/Ist-Termine je Vorgang, Verzugstage, Verzugsursache und wer sie zu vertreten hat — Grundlage der Vertragsstrafenberechnung |
-| `17-honorarschlussrechnung-und-nachtrag.md` | Teilschlussrechnung der Architektin über 364.056 EUR verdientes Grundhonorar plus 18.500 EUR Nachtrag für behauptete besondere Leistungen |
+| `17-honorarschlussrechnung-und-nachtrag.docx` | Teilschlussrechnung der Architektin über 364.056 EUR verdientes Grundhonorar plus 18.500 EUR Nachtrag für behauptete besondere Leistungen |
 | `18-maengelchronologie-und-rechnungspruefung.csv` | Mängelrügen mit Frist, Status und Einbehalt; Grundlage der Rechnungsprüfung und des Gewährleistungseinbehalts |
-| `19-kuerzungsschreiben-bauherrin.md` | Antwort der Bauherrin: Nachtrag abgelehnt, Vertragsstrafe (6 Wochen) und Mängeleinbehalt abgezogen, Kostenobergrenze gerügt |
+| `19-kuerzungsschreiben-bauherrin.docx` | Antwort der Bauherrin: Nachtrag abgelehnt, Vertragsstrafe (6 Wochen) und Mängeleinbehalt abgezogen, Kostenobergrenze gerügt |
 | `honorarberechnung_hoai_zonen.csv` | HOAI-Honorarermittlung je LPH: anrechenbare Kosten, Zone, v.-H.-Satz, Teilhonorar, Leistungsstand |
 | `eml/` | Projektkorrespondenz: TGA-Kollision, Budgetdrift, Nachtrag N-07, Brandschutzdetail, Nachtragsangebot Zusatzhonorar |
 

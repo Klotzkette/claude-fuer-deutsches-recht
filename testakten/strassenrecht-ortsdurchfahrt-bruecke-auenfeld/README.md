@@ -46,5 +46,8 @@ Diese Dateien ergänzen den Datenraum um später eingegangene Primärunterlagen.
 | [`12_brueckenpruefung_auenfeld_schadstellen.docx`](12_brueckenpruefung_auenfeld_schadstellen.docx) | Technischer Sonderprüfbericht mit Messwerten und Schadstellen |
 | [`13_email_busunternehmen_umleitung.eml`](13_email_busunternehmen_umleitung.eml) | Betriebsmail des Busunternehmens zur realen Umleitungsfolge |
 | [`14_verkehrszaehlung_bruecke_werktage.csv`](14_verkehrszaehlung_bruecke_werktage.csv) | Verkehrszählung ohne rechtliche oder technische Bewertung |
+| [`15_telefonvermerk_muehle_silostand_2026-07-02.docx`](15_telefonvermerk_muehle_silostand_2026-07-02.docx) | Telefonvermerk des Fachdienstes: verkürzter Silostand der Mühle und Anfrage Wirtschaftsweg Nord |
+| [`16_email_anwohnerin_niederwiese_umleitungsverkehr.eml`](16_email_anwohnerin_niederwiese_umleitungsverkehr.eml) | Beschwerde einer Anwohnerin über Umleitungs-Schwerverkehr, Zaunschaden und Schulweg in Niederwiese |
+| [`17_stundennachweise_ampelbetrieb_esswein.csv`](17_stundennachweise_ampelbetrieb_esswein.csv) | Stundennachweise der Straßenbau Eßwein GmbH für Ampelbetrieb und Verkehrssicherung |
 
 <!-- END nachgereichte-originalunterlagen -->

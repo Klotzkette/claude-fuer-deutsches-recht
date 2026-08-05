@@ -1,6 +1,6 @@
 # 00 Aktenübersicht und Lesepfad — Pellbach Windenergie StaRUG
 
-Diese Akte umfasst 16 Aktenstücke zur Sanierungssteuerproblematik der Pellbach Windenergie GmbH im StaRUG-Restrukturierungsverfahren AG Cottbus 92 RES 14/26.
+Diese Akte umfasst 18 Aktenstücke zur Sanierungssteuerproblematik der Pellbach Windenergie GmbH im StaRUG-Restrukturierungsverfahren AG Cottbus 92 RES 14/26.
 
 ## Lesereihenfolge (Empfehlung)
 
@@ -21,6 +21,8 @@ Diese Akte umfasst 16 Aktenstücke zur Sanierungssteuerproblematik der Pellbach 
 | 14 | 14_mandantenbrief_pellbach_glasklar_steuern.docx | Abschlussbrief an Mandantin |
 | 15 | 15_finanzplan_und_liquiditaetsmatrix_2026.csv | Liquidität 2026 |
 | 16 | 16_glaeubigerverzeichnis_starug.csv | Banken-Konsortium und Gläubiger |
+| 17 | 17_email_nordkurland_bank_planvollzug.eml | Planvollzug: Beurkundung, Registeranmeldung, Stundungskonten |
+| 18 | 18_telefonvermerk_finanzamt_cottbus_rueckfragen.md | Sachstand verbindliche Auskunft und Gebühr |
 
 ## Konfliktthemen
 
