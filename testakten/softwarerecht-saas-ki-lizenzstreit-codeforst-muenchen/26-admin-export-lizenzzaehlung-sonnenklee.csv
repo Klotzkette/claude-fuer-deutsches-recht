@@ -1,0 +1,20 @@
+Mandant;Gesellschaft;Kontotyp;Anzahl_aktiv;Inaktiv_ueber_90_Tage;Letzter_Zugriff;Auth_Methode;Hinweis
+SK-000;Sonnenklee AG Zentrale München;Named User;168;14;03.06.2026 07:52;SSO Entra ID;im Vertrag namentlich benannt
+SK-011;Sonnenklee Fleet Services GmbH;Named User;71;6;03.06.2026 06:41;SSO Entra ID;im Vertrag namentlich benannt
+SK-012;Sonnenklee Logistik Süd GmbH;Named User;58;3;02.06.2026 22:17;SSO Entra ID;Rollout 11.01.2026
+SK-013;Sonnenklee Mobility Austria GmbH;Named User;44;9;02.06.2026 19:05;SSO Entra ID;Rollout 11.01.2026
+SK-014;Sonnenklee Depot Nordwest GmbH;Named User;39;1;03.06.2026 05:58;SSO Entra ID;Rollout 11.01.2026
+SK-090;Kranzbichler Nutzfahrzeugtechnik e.K.;Named User;16;0;02.06.2026 17:44;Gastzugang über Zentrale;als Werkstattpartner angelegt
+SK-091;Werkstatt Auerbach und Vogl GmbH;Named User;13;2;02.06.2026 16:30;Gastzugang über Zentrale;als Werkstattpartner angelegt
+SK-092;Reifendienst Hallertau GmbH;Named User;8;0;30.05.2026 11:12;Gastzugang über Zentrale;als Werkstattpartner angelegt
+SK-000;Sonnenklee AG Zentrale München;Serviceaccount;41;5;03.06.2026 07:59;Client Secret;Nachtlauf Depotplanung
+SK-011;Sonnenklee Fleet Services GmbH;Serviceaccount;14;0;03.06.2026 07:59;Client Secret;Schnittstelle Werkstattplanung
+SK-012;Sonnenklee Logistik Süd GmbH;Serviceaccount;11;1;03.06.2026 04:20;Client Secret;Tourenimport aus Altsystem
+SK-090;Kranzbichler Nutzfahrzeugtechnik e.K.;Serviceaccount;10;0;02.06.2026 21:03;Client Secret;Auftragsabruf, Anlage ohne Ticket
+SK-000;Sonnenklee AG Zentrale München;API-Token;33;7;03.06.2026 08:01;Bearer Token;13 Token ohne hinterlegten Eigentümer
+SK-011;Sonnenklee Fleet Services GmbH;API-Token;9;0;03.06.2026 07:48;Bearer Token;Telemetrieabruf LuchsBox
+SK-013;Sonnenklee Mobility Austria GmbH;API-Token;6;2;01.06.2026 23:36;Bearer Token;Test- und Produktivumgebung nicht getrennt
+SK-014;Sonnenklee Depot Nordwest GmbH;API-Token;3;0;03.06.2026 03:11;Bearer Token;Erstanlage 14.01.2026
+SK-000;Sonnenklee AG Zentrale München;Container-Instanz mit eigenem Auth-Key;26;0;03.06.2026 08:02;Zertifikat;Orchestrierung, Skalierung automatisch
+SK-011;Sonnenklee Fleet Services GmbH;Container-Instanz mit eigenem Auth-Key;11;0;03.06.2026 08:02;Zertifikat;Nachtfahrten-Preprocessor
+SK-012;Sonnenklee Logistik Süd GmbH;Container-Instanz mit eigenem Auth-Key;6;0;02.06.2026 23:59;Zertifikat;seit 21.05.2026 im Zählbericht geführt

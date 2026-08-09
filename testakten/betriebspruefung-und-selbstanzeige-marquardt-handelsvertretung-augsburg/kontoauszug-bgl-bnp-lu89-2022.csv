@@ -1,0 +1,10 @@
+Konto_IBAN;Kontoinhaber;Buchungsdatum;Valuta;Buchungstext;Referenz;Betrag_EUR;Saldo_EUR
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;01.01.2022;01.01.2022;Saldovortrag zum Jahresbeginn;VORTRAG-2022;0,00;214.380,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;31.03.2022;31.03.2022;Ausschüttung Investmentfonds A ISIN LU0298395324 Quartal 1;AUSS-2022-0331-A;6.420,00;220.800,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;30.06.2022;30.06.2022;Ausschüttung Investmentfonds A ISIN LU0298395324 Quartal 2;AUSS-2022-0630-A;6.180,00;226.980,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;15.07.2022;15.07.2022;Dividende SICAV Halbjahresausschüttung;DIV-2022-0715-SICAV;4.950,00;231.930,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;29.07.2022;29.07.2022;Depotführungsgebühr Halbjahr;GEB-2022-H1;-180,00;231.750,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;30.09.2022;30.09.2022;Ausschüttung Investmentfonds A ISIN LU0298395324 Quartal 3;AUSS-2022-0930-A;5.310,00;237.060,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;14.10.2022;17.10.2022;Wertpapierkauf Investmentfonds B ISIN LU1188283245;KAUF-2022-1014-B;-20.000,00;217.060,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;15.12.2022;15.12.2022;Dividende SICAV Nachzahlung Geschäftsjahr 2021;DIV-2022-1215-SICAV;1.940,00;219.000,00
+LU89 1234 5678 9012 3456;Reinhard Marquardt-Eichenmüller;30.12.2022;30.12.2022;Kontoführung Jahresentgelt;GEB-2022-JAHR;-95,00;218.905,00

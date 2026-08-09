@@ -9,8 +9,8 @@ Diese Vollprüfung enthält top-15 von 33 Skills des Plugins `lizenzvertragserst
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Lizenzvertragsersteller ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **einstieg-routing** — Wenn es um Anwalts-Dashboard Lizenzvertragsersteller in Lizenzvertragsersteller geht: klärt Rolle, Ziel, Frist, Unterlag…
 3. **mandat-intake-und-konfliktpruefung** — Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechts…
-4. **kartellrecht-tt-gvo-eu-316-2014** — Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordne…
-5. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
+4. **klausel-exklusivitaet-sole-non-exclusive** — Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, N…
+5. **insolvenz-fortbestand-paragraf-103-inso-lizenz** — Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Nor…
 6. **klausel-haftung-gewaehrleistung-indemnification** — Wenn es um Klausel Haftung, Gewaehrleistung, Indemnification in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, …
 7. **escrow-quellcode-verwahrer-vereinbarung** — Wenn es um Escrow / Quellcode-Verwahrer-Vereinbarung in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
 8. **klausel-mindestlizenzen-meldungen-audit** — Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweisla…
@@ -182,7 +182,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 ## Risiko-Ampel
 
 - **Insolvenz-Risiko Lizenzgeber:** 🔴 bei Software-Abhaengigkeit ohne Escrow · 🟠 bei mittelgrosser Lizenzgeberin · 🟢 etablierter Konzern.
-- Kartellrecht TTBER: Kritisch bei einem gemeinsamen Marktanteil der Wettbewerber über 20 Prozent oder einem Anteil einer Partei unter Nichtwettbewerbern über 30 Prozent sowie bei Kernbeschränkungen oder ausgeschlossenen Klauseln. Auch unterhalb der Schwelle ist der konkrete Klauselinhalt zu prüfen.
+- **Kartellrecht TT-GVO:** 🔴 bei Marktanteil > 30 % (Wettbewerber) bzw. > 20 % (vertikal) · 🟠 bei Schranken-Klauseln (Kernbeschraenkungen) · 🟢 bei reinem KMU.
 - **Steuern/Quellensteuer:** 🔴 bei Cross-Border ohne DBA-Prüfung · 🟠 bei DBA mit Quellensteuer-Reduktion · 🟢 bei rein nationaler Lizenz.
 
 ## Anschluss-Skills (Router)
@@ -206,7 +206,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - **DesignG** §§ 31 ff.; **GebrMG** §§ 22 ff.
 - **GeschGehG** §§ 1-12 (Schutz von Geschäftsgeheimnissen; Lizenz nach § 3)
 - **InsO** § 103 (Wahlrecht des Verwalters bei gegenseitigen Vertraegen)
-- Verordnung (EU) 2026/877 und Leitlinien C/2026/2323 - seit 1. Mai 2026 geltender Rahmen für Technologietransfervereinbarungen
+- **VO (EU) Nr. 316/2014 (TT-GVO)** — Technologietransfer-Gruppenfreistellung
 - **Rom-I-VO** Art. 4 (Lizenzvertraege Statut)
 
 ## Genau eine Rueckfrage (nur wenn noetig)
@@ -260,78 +260,6 @@ _Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht:
 
 ---
 
-## Skill: `kartellrecht-tt-gvo-eu-316-2014`
-
-_Prüft Technologielizenzverträge nach Artikel 101 AEUV und der seit 1. Mai 2026 geltenden Verordnung (EU) 2026/877. Ordnet Wettbewerbsverhältnis, Technologie- und Produktmärkte, Marktanteile, Kernbeschränkungen, ausgeschlossene Klauseln und Einzelfreistellung; liefert TTBER-Matrix und belastbare Klauselkorrekturen._
-
-# Kartellrechtliche Prüfung nach der TTBER 2026
-
-## 1. Rechtsstand und Quellen
-
-- Verordnung (EU) 2026/877 gilt seit 1. Mai 2026 bis 30. April 2038.
-- Leitlinien der Kommission C/2026/2323 erläutern Anwendungsbereich, Märkte, Marktanteile, Kernbeschränkungen und ausgeschlossene Beschränkungen.
-- Artikel 101 Absatz 1 AEUV enthält das Kartellverbot; Artikel 101 Absatz 3 AEUV die vier kumulativen Voraussetzungen einer Einzelfreistellung.
-- Die Verordnung (EU) Nummer 316/2014 ist abgelaufen. Der unveränderte Skill-Slug dient nur der Kompatibilität und ist kein Rechtsstandsanker.
-
-## 2. Direktstart
-
-Lies Vertrag, IP-Anlage, Parteien- und Produktbeschreibung zuerst. Liefere dann eine TTBER-Kurzkarte mit:
-
-1. Wettbewerber oder Nichtwettbewerber bei Vertragsschluss.
-2. lizenzierte Technologierechte und Vertragsprodukte.
-3. relevante Technologie- und Produktmärkte.
-4. Marktanteile mit Quelle und Bezugsjahr.
-5. verdächtige Klauseln nach Artikel 4 oder Artikel 5 TTBER.
-6. konkrete Redline oder Prüfauftrag für Artikel 101 Absatz 3 AEUV.
-
-Frage nur nach Daten, die Wettbewerbsverhältnis, Marktdefinition, Schwelle oder Klauselbewertung ändern.
-
-## 3. Anwendungsbereich und Schwellen
-
-Die TTBER erfasst Vereinbarungen zwischen zwei Unternehmen, durch die Technologierechte zur Produktion von Vertragsprodukten lizenziert oder übertragen werden. Reine Marken- oder sonstige Rechtepakete fallen nicht automatisch darunter; bei gemischten Verträgen ist ihre unmittelbare Beziehung zur Produktion der Vertragsprodukte zu prüfen.
-
-| Konstellation | Safe-Harbour-Schwelle | Rechenregel |
-| --- | --- | --- |
-| Wettbewerber | gemeinsamer Anteil höchstens 20 Prozent | Technologie- und Produktmärkte getrennt prüfen |
-| Nichtwettbewerber | Anteil jeder Partei höchstens 30 Prozent | Technologie- und Produktmärkte getrennt prüfen |
-
-Wird eine Schwelle während der Vertragslaufzeit überschritten, bleibt der Safe Harbour nach Artikel 8 Buchstabe e TTBER für drei aufeinanderfolgende Kalenderjahre nach dem Überschreitungsjahr bestehen. Oberhalb der Schwelle ist die Vereinbarung nicht automatisch verboten; sie benötigt eine Einzelfallprüfung.
-
-## 4. Klauselprüfung
-
-### 4.1. Kernbeschränkungen nach Artikel 4
-
-Trenne Wettbewerber- und Nichtwettbewerberverträge. Prüfe insbesondere Preisbindung, Outputbeschränkung, Markt- oder Kundenteilung sowie Beschränkungen aktiver und passiver Verkäufe anhand der jeweiligen Tatbestandsvariante und Ausnahme. Eine Kernbeschränkung entzieht grundsätzlich der gesamten Vereinbarung den Safe Harbour.
-
-### 4.2. Ausgeschlossene Beschränkungen nach Artikel 5
-
-- Exklusive Rücklizenz oder Übertragung von Verbesserungen des Lizenznehmers ist nicht gruppenfreigestellt; die neue Fassung unterscheidet dabei nicht mehr nach abtrennbaren und nicht abtrennbaren Verbesserungen.
-- No-Challenge-Klauseln sind nicht gruppenfreigestellt. Das Kündigungsrecht bei einem Angriff ist nur im Rahmen einer exklusiven Lizenz von der ausdrücklichen Ausnahme erfasst und zusätzlich auf seine tatsächliche wettbewerbliche Wirkung zu prüfen.
-- Weitere Forschungs- oder Nutzungseinschränkungen sind anhand der genauen Vertrags- und Wettbewerbskonstellation zu prüfen.
-
-Eine ausgeschlossene Beschränkung verliert für sich den Safe Harbour; der übrige Vertrag kann weiter freigestellt sein.
-
-## 5. Arbeitsprodukt
-
-Erstelle eine zeilenweise Matrix:
-
-| Klausel | Wettbewerbsbezug | TTBER-Norm | Tatbestandsbefund | Ausnahme | Rechtsfolge | Redline |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Vertragsfundstelle] | [Markt oder Verhalten] | [Artikel] | [belegt oder offen] | [konkret] | [Safe Harbour oder Einzelprüfung] | [Ersatztext] |
-
-Bei einer Einzelfreistellung behandle getrennt: Effizienzgewinn, angemessene Verbraucherbeteiligung, Unerlässlichkeit und verbleibender Wettbewerb. Weise jedem Punkt Tatsachen und Belege zu.
-
-## 6. Qualitätskontrolle
-
-1. Aktuelle Verordnung und Leitlinien sind mit Datum und Fundstelle bezeichnet.
-2. Wettbewerbsverhältnis und Marktanteile sind nicht vertauscht.
-3. Marktanteil und Produkt- oder Technologiebezug beruhen auf einer genannten Quelle.
-4. Artikel 4 und Artikel 5 werden in ihrer unterschiedlichen Rechtsfolge getrennt.
-5. Ein Überschreiten der Schwelle wird nicht als automatisches Verbot dargestellt.
-6. Jede beanstandete Klausel erhält einen konkreten, geschäftlich brauchbaren Redline-Vorschlag.
-
----
-
 ## Skill: `klausel-exklusivitaet-sole-non-exclusive`
 
 _Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
@@ -374,6 +302,73 @@ _Wenn es um Klausel Exklusivitaet — sole, exclusive, non-exclusive in Lizenzve
 - Vergütung: `klausel-verguetung-pauschale-royalty-tiered`
 - Sub-Lizenzen: `klausel-unterlizenzen-sublicensing`
 - Kartellrecht: `kartellrecht-tt-gvo-eu-316-2014`
+
+---
+
+## Skill: `insolvenz-fortbestand-paragraf-103-inso-lizenz`
+
+_Wenn es um Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Insolvenz-Fortbestand der Lizenz (Paragraf 103 InsO)
+
+## Problem
+
+Wird der **Lizenzgeber insolvent**, hat der Insolvenzverwalter nach Paragraf 103 InsO das **Wahlrecht**:
+- Erfuellung verlangen (Lizenz besteht fort) oder
+- Erfuellung verweigern (Lizenz endet; Schadensersatzanspruch des Lizenznehmers ist nachrangige Insolvenzforderung).
+
+Praxis: Verwalter waehlen typischerweise Erfuellungsverweigerung, wenn das IP an einen anderen Investor verkauft werden soll - mit hoeherem Erlos.
+
+## BGH-Linie (h. M.)
+
+| Entscheidung | Tragende Aussage |
+|---|---|
+| BGH, Urteil vom 17.11.2005 - IX ZR 162/04 | Lizenzverträge können als Dauernutzungsverträge dem Wahlrecht nach Paragraf 103 InsO unterliegen, wenn bei Verfahrenseröffnung beiderseits Hauptleistungspflichten offen sind |
+| BGH, Urteil vom 21.10.2015 - I ZR 173/14 (Ecosoil) | Ein Lizenzkauf ist regelmäßig beiderseits vollständig erfüllt, sobald die Lizenz eingeräumt und der Kaufpreis gezahlt ist; dann greift Paragraf 103 InsO nicht allein wegen fortdauernder Nutzung |
+| BGH IX ZR 220/09 (2012) | Bei dinglich uebertragener Lizenz kein Wahlrecht (keine gegenseitige Pflicht mehr offen) |
+
+→ Wer dinglich uebertragene Lizenz mit Voraussetzungen für Bestaendigkeit gestaltet, schuetzt den Lizenznehmer.
+
+## Gestaltungsmoeglichkeiten
+
+### A. Sicherungslizenz (bedingt aufschiebend)
+
+Lizenz wird nur aufschiebend bedingt durch eine Bedingung gewaehrt, die jedenfalls eintritt (z. B. Zahlung des Lizenzgebers an einen Sicherheitsempfaenger). Verwalter findet im Insolvenzfall keine gegenseitig offene Pflicht mehr - Paragraf 103 InsO greift nicht.
+
+### B. Vollabgeschlossene Lizenz mit Royalty-Vorauszahlung
+
+Wenn der Lizenznehmer alle Lizenzgebuehren upfront zahlt: keine offenen gegenseitigen Pflichten mehr - Paragraf 103 InsO greift nicht.
+
+### C. Escrow als Realisierungsweg
+
+Insolvenz-Trigger fuehrt zur Source-Code-Herausgabe (siehe `escrow-quellcode-verwahrer-vereinbarung`). Praktisch loest das Wartung, nicht die Lizenz selbst.
+
+### D. Kollektivvereinbarung mit Sicherheitennehmer (Bank)
+
+Bank gibt Lizenz als Sicherheit; im Insolvenzfall verwertet die Bank die Sicherheit (nicht der Verwalter) - Paragraf 103 InsO entfaellt.
+
+## Klausel-Baustein
+
+> **Paragraf 16 Insolvenzfestigkeit.**
+>
+> (1) Die Parteien sind sich einig, dass die in diesem Vertrag eingeraeumten Nutzungsrechte als dinglich uebertragen gelten, soweit dies nach deutschem Recht zulässig ist.
+>
+> (2) Sollte ein Insolvenzverfahren über das Vermögen des Lizenzgebers eroeffnet werden, gilt die Hinterlegung beim Escrow-Agent gemäß Paragraf 14 als Sicherungsmittel im Sinne der Paragrafen 50, 51 InsO. Der Lizenznehmer ist berechtigt, die hinterlegten Materialien zu nutzen, soweit zur Wartung und Fortfuehrung des Lizenzbetriebs erforderlich, ohne dass dies einer Erfuellungswahl nach Paragraf 103 InsO bedarf.
+>
+> (3) Bereits gezahlte Lizenzgebuehren für den vereinbarten Lizenzzeitraum stehen dem Lizenznehmer als bedingt erworbene Nutzungsrechte zu und unterliegen nicht dem Wahlrecht des Insolvenzverwalters.
+>
+> (4) Sofern Absatz 1 bis 3 rechtlich nicht durchgreifen, vereinbaren die Parteien eine Sicherungsabtretung des Lizenzgegenstands an [Sicherheitennehmer] gemäß separater Sicherungsabrede.
+
+## Hinweise
+
+- Paragraf 103 InsO ist h. M. zwingendes Recht; vertragliche Abdingung dabei begrenzt.
+- Die hier vorgeschlagene Klausel ist eine Best-Effort-Konstruktion; im konkreten Fall ist die Wirksamkeit gegen den Verwalter immer streitig.
+- Praxis: Escrow + Sicherungslizenz + dingliche Voll-Uebertragung kombinieren.
+
+## Anschluss
+
+- Escrow: `escrow-quellcode-verwahrer-vereinbarung`
+- Sicherheiten: `sicherungslizenz-pfandrecht-an-immaterialguetern`
 
 ---
 
@@ -805,7 +800,7 @@ _Wenn es um Lizenz Patent (PatG) in Lizenzvertragsersteller geht: ordnet Sachver
 - Paragrafen 33 ff. PatG - Anmeldung, Erteilungsverfahren DPMA
 - EPUe - Europaeisches Patentuebereinkommen; EPA-Patente
 - ArbnErfG - Arbeitnehmererfindergesetz; Paragraf 9 Vergütung Erfinder
-- Verordnung (EU) 2026/877 (TTBER) - seit 1. Mai 2026 geltende Technologietransfer-Gruppenfreistellung
+- VO (EU) Nr. 316/2014 (TT-GVO) - Technologietransfer-Gruppenfreistellung
 
 ## Lizenzformen
 

@@ -1,6 +1,6 @@
 # lobbyregister-bundestag
 
-**53 Skills** · Stand `v439.0.1`
+**53 Skills** · Stand `v439.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../lobbyregister-bundestag/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

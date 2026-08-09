@@ -43,6 +43,8 @@ Die Unterlagen liefern Sachverhalt, Belege, Zahlungsflüsse und Lücken. Sie ent
 | 12 | `12_fristsachen_und_unterlagenliste.docx` | Fristenblatt, fehlende Dokumente, nächste Schritte |
 | 13 | `13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx` | Auskunftsverlangen der früheren Anwältin Feldmann mit Belegliste und Frist |
 | 14 | `14_verdienstabrechnung_elena_mai_2026.docx` | Entgeltabrechnung des MVZ Wetterau für Mai 2026 als Abdruck |
+| 15 | `15_chatverlauf_elena_martin_maerz_bis_juni_2026.txt` | Nachrichtenexport der Eheleute zu Raten, Barabhebung, Brille, Wärmepumpe, Betreuung und Depotverkauf |
+| 16 | `16_telefonvermerke_kanzlei_juni_2026.md` | Telefonvermerke zu Kontostand, Brillenrechnung und Gespräch mit dem gegnerischen Anwalt |
 | 99 | `99_nachtrag_depot_bonus_kindesmehrbedarf.docx` | Posteingangs- und Prüfvermerk zu Depot, Bonus und Lerntherapie |
 
 ## Datenanhänge
@@ -78,6 +80,8 @@ familienrecht-unterhalt-zugewinn-bad-nauheim/
 ├── 12_fristsachen_und_unterlagenliste.docx       Fristenblatt und fehlende Unterlagen je Seite
 ├── 13_auskunftsverlangen_anwaltsschreiben_27-05-2026.docx    Schreiben RAin Feldmann vom 27.05.2026
 ├── 14_verdienstabrechnung_elena_mai_2026.docx    Entgeltabrechnung MVZ Wetterau Mai 2026
+├── 15_chatverlauf_elena_martin_maerz_bis_juni_2026.txt      Nachrichtenexport März bis Juni 2026, lückenhaft
+├── 16_telefonvermerke_kanzlei_juni_2026.md       Drei Telefonvermerke vom 25. und 26.06.2026
 ├── 99_nachtrag_depot_bonus_kindesmehrbedarf.docx Posteingang und fallbezogene Prüfzuordnung
 ├── csv/
 │   ├── einkommen_2025_2026.csv                 Monatswerte Gehalt, Bonus, Nebentätigkeiten

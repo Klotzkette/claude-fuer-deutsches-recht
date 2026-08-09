@@ -278,14 +278,15 @@ Diese Skill akzeptiert keine Eingaben. Für alle Mandantenbriefe: `/mandantenbri
 
 ### Hintergrund der Aufteilung
 
-Verständliche Mandantenkommunikation sichert eine ordnungsgemäße Beratung. Inhalt, Folgen, Fristen und nächste Handlungen müssen so erklärt werden, dass der Empfänger sie erfassen und eine informierte Entscheidung treffen kann. Die Nachfolge-Skills trennen deshalb kurze Routinekorrespondenz von einer inhaltlichen Statusmitteilung.
+Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine Serviceleistung. Unverständliche Korrespondenz verletzt die anwaltliche Aufklärungspflicht (§ 43a BRAO, BGH-Rspr.) und kann zur Haftung führen. Die Aufteilung in zwei fokussierte Skills verstärkt diese Pflicht, indem sie die Standards für jeden Typ explizit macht.
 
 ### Relevante Normen für die Nachfolge-Skills
 
-- **Paragraf 6 Absatz 2 RDG** — Unentgeltliche Rechtsdienstleistungen außerhalb enger persönlicher Beziehungen müssen durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erbracht werden. Anleitung umfasst Einweisung, Fortbildung und die im Einzelfall erforderliche Mitwirkung.
-- **Paragraf 43a Absatz 3 BRAO** — Für den anleitenden Rechtsanwalt gilt das Sachlichkeitsgebot; bewusste Unwahrheiten und anlasslose herabsetzende Äußerungen sind unzulässig.
-- **Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB** — Für anwaltlich geführte Mandate tragen angemessene Unterrichtung und Auskunftspflicht die klare Statuskommunikation.
-- **Paragrafen 2 und 3 BerHG** — Bei Beratungshilfe sind Gegenstand und Reichweite der bewilligten Beratung zu beachten.
+- **§ 43a Abs. 4 BRAO** — Sachlichkeitsgebot: Mandantenbriefe müssen sachlich, klar und nicht irreführend sein; gilt auch für studentische Beratungsstellen unter Aufsicht.
+- **§ 11a BRAO** — Zusammenarbeit in studentischen Beratungsstellen: Briefe gehen unter Aufsicht des Supervisors heraus; vor Versand ist die Supervisoren-Freigabe einzuholen.
+- **§ 6 Abs. 2 RDG** — Aufsichtspflicht: Mandantenkorrespondenz ist ein nach außen gehendes Leistungsergebnis und unterliegt der inhaltlichen Supervisoren-Kontrolle.
+- **Art. 13 DSGVO** — Informationspflichten: Falls ein Brief erstmals über die Verarbeitung personenbezogener Daten informiert, müssen DSGVO-Pflichtangaben enthalten sein.
+- **§§ 2, 3 BerHG** — Beratungshilfe: Bei Mandanten mit Beratungshilfe-Schein muss die Korrespondenz den Leistungsrahmen einhalten; keine Erweiterung ohne neuen Schein.
 
 ### Quellenregel
 
@@ -312,7 +313,7 @@ Vollständiger Ablauf in den jeweiligen SKILL.md-Dateien:
 1. Zielgruppe festlegen (Bildungshintergrund, Sprache, besondere Umstände des Mandanten)
 2. Verständlichkeitsstandards der Klinik anwenden (Klinik-Konfiguration → plain-language-standard)
 3. Kein Fachjargon ohne Erläuterung; kurze Sätze; konkrete Handlungsanweisungen
-4. Anleitung und erforderliche Mitwirkung nach Paragraf 6 Absatz 2 RDG vor Versand sichern
+4. Supervisoren-Routing nach § 6 Abs. 2 RDG vor Versand
 
 ## Beispiel
 
@@ -334,9 +335,9 @@ Ergebnis: Eine klare Terminbestätigung mit Ort, Zeit, Mitnahme-Unterlagen und K
 ## Risiken und typische Fehler
 
 - **Verweis auf diese Skill in älteren Materialien:** Semesterskripte und Tutorenmaterialien auf die neuen Skills umschreiben.
-- **Verständlichkeitsstandards als optional behandeln:** Frist, Folge und Handlungsauftrag müssen für den konkreten Empfänger erfassbar sein; im anwaltlich geführten Mandat tragen Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB die Unterrichtung.
+- **Verständlichkeitsstandards als optional behandeln:** Die Pflicht zur verständlichen Mandantenkommunikation ergibt sich aus § 43a BRAO und BGH-Rspr. Sie gilt auch für Studenten in der Beratungsstelle unter Supervisorenaufsicht.
 - **Fachbegriffe ohne Erläuterung:** Begriffe wie "Widerspruchsfrist", "Vollstreckungstitel" oder "Klagefrist" sind für viele Mandanten unverständlich. Immer in Klammern oder mit einfachem Folgesatz erläutern.
-- **Versand ohne erforderliche Anleitung:** Vor einem rechtlich inhaltlichen Schreiben ist die nach Paragraf 6 Absatz 2 RDG im Einzelfall erforderliche Mitwirkung der anleitenden Person zu dokumentieren.
+- **Versand ohne Supervisoren-Freigabe:** Kein Mandantenbrief verlässt die Beratungsstelle ohne Freigabe, auch keine kurze Terminbestätigung.
 
 ## Quellenpflicht
 
@@ -422,10 +423,12 @@ _Wenn es um Fallstatus: Zielgruppengerechte Fallzusammenfassung in Plugin für d
 
 ### Kernvorschriften
 
-- **Paragraf 6 Absatz 2 RDG** — Die unentgeltliche Rechtsdienstleistung außerhalb enger persönlicher Beziehungen wird durch eine befugte Person, eine Person mit Befähigung zum Richteramt oder unter deren Anleitung erbracht; Art und Umfang der Mitwirkung richten sich nach dem Einzelfall.
-- **Paragraf 43a Absatz 2 BRAO** — Der anleitende Rechtsanwalt wahrt die Verschwiegenheit und verpflichtet mitwirkende Hilfspersonen in Textform, soweit die gesetzlichen Voraussetzungen vorliegen.
-- **Paragraf 11 BORA sowie Paragrafen 675 und 666 BGB** — Im anwaltlich geführten Mandat sind wesentliche Vorgänge angemessen mitzuteilen und Auskünfte über den Bearbeitungsstand zu erteilen.
-- **Paragrafen 130, 130a und 130d ZPO** — Für einen gerichtlichen Schriftsatz sind Inhalt, elektronische Form und der vorgeschriebene Übermittlungsweg gesondert zu prüfen; ein bloßer interner Statusbericht ist noch kein Gerichtsschriftsatz.
+- **§ 6 RDG** — Informationspflicht: Mandanten sind über den Verfahrensstand verständlich zu informieren; liegt in der Eigenverantwortung des Studentenn unter Supervisoren-Aufsicht.
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Statusberichte enthalten vertrauliche Mandantendaten; keine Weitergabe ohne Einwilligung.
+- **§ 11a BRAO** — Studentische Rechtsanwaltsbeschäftigung: Studenten in Beratungsstellen handeln unter Aufsicht; Statusberichte an Gerichte gehen erst nach Supervisoren-Freigabe heraus.
+- **§§ 128–142 ZPO** — Schriftsätze an Gericht: Form- und Inhaltsvorgaben für gerichtliche Statusberichte; örtliche Geschäftsordnungen beachten.
+- **§ 81 VwVfG** — Verfahrensabschluss und Mitteilungspflichten der Behörde; spiegelbildlich Informationspflicht des Vertreters gegenüber dem Mandanten.
+- **Art. 13, 14 DSGVO** — Informationspflichten beim Umgang mit personenbezogenen Daten; Statusberichte, die Verarbeitungen beschreiben, müssen den Datenschutzvorgaben genügen.
 
 ### Quellenregel
 
@@ -449,7 +452,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Fachjargon
 
 *Prüfvermerk für den Studentenn (nicht für den Mandanten — vor Versand entfernen):*
-`[ENTWURF — erfordert fachliche Prüfung und den vorgesehenen Anleitungsschritt]`
+`[KI-GESTÜTZTER ENTWURF — erfordert studentische Prüfung und Supervisionsschritt per Klinik-Konfiguration]`
 
 Verfahrensrechtlicher Hinweis: Manche Beratungsstellen (insb. unter BRAO-Aufsicht) haben spezifische Unterschriftsblöcke für Briefe unter Studentenn-Aufsicht. Anforderungen mit dem Supervisor klären.
 
@@ -478,7 +481,7 @@ unter Aufsicht von [Supervisorenname, Rechtsanwalt/-anwältin]
 [Name der Beratungsstelle]
 ```
 
-**Vor Versand:** Das Versenden eines Mandantenstatus ist eine folgenschwere Handlung. Die nach Paragraf 6 Absatz 2 RDG erforderliche Anleitung und Mitwirkung müssen dokumentiert sein. Alle internen Vermerke wie `[ENTWURF]` oder `[PRÜFEN]` sind aus der Mandantenversion zu entfernen.
+**Vor Versand:** Das Versenden eines Mandantenstatus ist eine folgenschwere Handlung. Gate: Supervisionsmodell der Klinik (§ 6 Abs. 2 RDG). Bestätigen, dass der Entwurf dem Supervisionsprozess entsprechend geprüft wurde und alle internen Vermerke (`[KI-GESTÜTZTER ENTWURF]`, `[PRÜFEN]` etc.) aus der Mandantenversion entfernt wurden.
 
 ### Modus: Intern (für den Supervisor)
 

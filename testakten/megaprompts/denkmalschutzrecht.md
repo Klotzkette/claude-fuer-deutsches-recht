@@ -20,7 +20,7 @@ Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `denkmalschutzrecht
 12. **nordrhein-westfalen-spezial-zollverein-industriekultur** — Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechz…
 13. **brandenburg-spezial-schloesser-gutsanlagen-restitution** — Wenn es um Schloesser, Gutsanlagen und Restitution in Brandenburg in Denkmalschutzrecht — Bundesweiter Rahmen und sechze…
 14. **art-73-gg-laenderzustaendigkeit** — Wenn es um Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und…
-15. **enteignung-uebernahme-und-entschaedigung** — Prüft unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltend…
+15. **denkmalschutz-saarland-spezial-voelklinger-huette-welterbe** — Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn g…
 
 ---
 
@@ -711,68 +711,42 @@ Knappe Zuständigkeitsanalyse in vollständigen Sätzen, die das anwendbare Land
 
 ---
 
-## Skill: `enteignung-uebernahme-und-entschaedigung`
+## Skill: `denkmalschutz-saarland-spezial-voelklinger-huette-welterbe`
 
-_Prüft unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG. Liefert eine belegte Wirtschaftlichkeitsrechnung, eine abgestufte Antragsstrategie und einen prozessfesten Tatsachen- und Beweisplan._
+_Wenn es um Voelklinger Huette als UNESCO-Welterbe im Saarland in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
 
-# Enteignung, Übernahme und Entschädigung im Denkmalschutz
+# Voelklinger Huette als UNESCO-Welterbe im Saarland
 
-## 1. Direktstart
+## Zweck und Anwendungsfall
 
-Lies Bescheid, Denkmaleintragung, Nutzungs- und Sanierungskonzept, Kostenangebote, Förderbescheide, Ertragsdaten und Eigentumsnachweise zuerst. Liefere eine vorläufige Einordnung, ob noch eine zumutbare Nutzung, eine Genehmigungs- oder Ausnahmegestaltung, ein gesetzlicher Ausgleich, ein Übernahmeanspruch oder ein Enteignungsvorgang zu prüfen ist. Frage zunächst nur nach Bundesland und konkret angegriffener Maßnahme, wenn beides nicht aus der Akte hervorgeht.
+Dieser Skill vertieft eine landesspezifische Besonderheit, die im allgemeinen Bundesland-Skill nur kurz angerissen wird. Er liefert die juristische Tiefe für Mandate, in denen genau diese Besonderheit den Streit dominiert.
 
-## 2. Verfassungsrechtliche Ausgangslinie
+## Inhaltlicher Schwerpunkt
 
-Denkmalschutzbestimmungen sind grundsätzlich Inhalts- und Schrankenbestimmungen des Eigentums nach Artikel 14 Absatz 1 Satz 2 GG. Eine Eigentumsbelastung wird nicht allein deshalb zur Enteignung, weil sie wirtschaftlich schwer wiegt. Zuerst ist zu prüfen, ob das konkrete Landesrecht durch Genehmigung, Ausnahme, Befreiung, Förderung, Ausgleich oder Übernahme eine unverhältnismäßige Belastung vermeidet.
+Die Voelklinger Huette ist die weltweit einzige erhaltene Anlage der vollstaendigen Roheisenproduktion aus dem 19. und 20. Jahrhundert. Welterbe seit dem 18. Dezember 1994. Mandatslagen: Konservierungsmassnahmen an Hochoefen und Wassertuermen, Umnutzung von Werkshallen als Veranstaltungs- und Ausstellungsraeume, Bauvorhaben in der direkten Umgebung. Foerderung erfolgt ueber die Weltkulturerbe-Voelklinger-Huette-Europaeisches-Zentrum-fuer-Kunst-und-Industriekultur-gGmbH und ueber BKM-Programme.
 
-Artikel 14 Absatz 3 GG gilt nur für eine Enteignung zum Wohl der Allgemeinheit auf gesetzlicher Grundlage. Art und Ausmaß der Entschädigung müssen gesetzlich geregelt sein; ihre Höhe ist unter gerechter Abwägung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Ein Verkehrswertautomatismus darf nicht behauptet werden.
+## Ablauf / Checkliste
 
-## 3. Leitentscheidung
+1. Klären, ob die landesspezifische Besonderheit tatsächlich einschlägig ist (Belegenheit, Eintragungsstatus, Maßnahme).
+2. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben live verifizieren.
+3. Mit dem allgemeinen Bundesland-Skill und den Querschnittsskills verzahnen.
+4. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
 
-BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226: Denkmalschutz muss die Belange des Eigentümers berücksichtigen. Wird eine bisher zulässige Nutzung ohne tragfähige Ausweichmöglichkeit ausgeschlossen und bleibt auch eine Veräußerung praktisch unmöglich, kann eine unverhältnismäßige Belastung vorliegen. Nutze die Entscheidung als verfassungsrechtlichen Maßstab; den konkreten Anspruch und den richtigen Adressaten liefert allein das einschlägige Landesrecht.
+## Quellenpflicht
 
-## 4. Landesrecht zuerst
+Norm-Anker aus der amtlichen Landesgesetz-Datenbank; Welterbe-Texte aus dem UNESCO-Welterbezentrum (whc.unesco.org); Rechtsprechung mit Gericht, Datum, Aktenzeichen, frei zugänglicher Quelle.
 
-1. Bestimme Bundesland, Gesetzesfassung und maßgeblichen Entscheidungszeitpunkt.
-2. Ermittle die genaue Eingriffsnorm und sämtliche gesetzlichen Korrektive: Genehmigung, Ausnahme, Befreiung, Zuschuß, Ausgleich, Entschädigung, Übernahme oder Enteignung.
-3. Prüfe Anspruchsberechtigten, Anspruchsgegner, Antragserfordernis, Frist, Zuständigkeit, Bewertungsmaßstab und Rechtsweg aus dem Normtext.
-4. Übertrage keine Übernahme- oder Entschädigungsregel eines anderen Landes. Auch Träger, Verfahren und Rechtsfolge unterscheiden sich.
-5. Prüfe daneben nur dann BauGB, Naturschutz- oder sonstiges Fachrecht, wenn der konkrete Eingriff hierauf beruht; fremde Ausgleichsregime sind kein Ersatz für eine fehlende denkmalrechtliche Anspruchsgrundlage.
+## Ausgabeformat
 
-## 5. Wirtschaftliche Zumutbarkeit
+Juristische Stellungnahme zur landesspezifischen Besonderheit in vollständigen Sätzen mit konkreten Norm- und Welterbe-Ankern.
 
-Baue eine nachvollziehbare Stichtagsrechnung mit mindestens folgenden Positionen:
-
-- denkmalbedingte und ohnehin erforderliche Erhaltungsaufwendungen getrennt;
-- belastbare Kostenangebote, Bauabschnitte, Preisstand und Risikozuschläge;
-- Fördermittel, Steuerbegünstigungen und sonstige Entlastungen nur, soweit rechtlich und tatsächlich erreichbar;
-- gegenwärtige und realistisch genehmigungsfähige Nutzungserträge;
-- Finanzierung, laufende Bewirtschaftung und Restwert;
-- eigene Erwerbsentscheidung und vorhersehbare Lasten, soweit nach Landesrecht oder Abwägung erheblich;
-- alternative denkmalverträgliche Nutzungen und nachweisbar gescheiterte Vermarktung.
-
-Jede Zahl erhält Datum, Quelle, Annahme und offene Beweisfrage. Ein Privatgutachten wird nicht als feststehende Tatsache behandelt; behördliche Gegenannahmen werden mit eigener Tatsachengrundlage und Rechenwirkung daneben gestellt.
-
-## 6. Verfahrensstrategie
-
-1. Sichere Bestandskraft, Vollziehung, laufende Erhaltungsanordnungen und drohende Substanzverluste.
-2. Formuliere das primäre Nutzungs- oder Genehmigungsziel und sachgerechte Hilfsanträge.
-3. Biete mildere Mittel mit Plan, Kosten und denkmalfachlicher Begründung an.
-4. Stelle den landesrechtlichen Ausgleichs- oder Übernahmeantrag nur mit genau bezeichneter Norm, vollständiger Wirtschaftlichkeitsrechnung und richtigem Adressaten.
-5. Trenne verwaltungsgerichtlichen Rechtsschutz gegen die Maßnahme von einem gegebenenfalls gesonderten Entschädigungsrechtsweg.
-6. Behandle eine Enteignung als eigenständigen hoheitlichen Vorgang; formuliere sie nicht als frei wählbare Ersatzleistung des Eigentümers.
-
-## 7. Beweisplan
-
-Erfasse Denkmaleigenschaft und Schutzumfang, Zustand und Ursachen, zulässige Nutzungen, Genehmigungshistorie, Sanierungsvarianten, Kosten, Förderfähigkeit, Ertrag, Finanzierbarkeit und Veräußerbarkeit. Ordne jedem Punkt Urkunde, Zeugen, sachverständige Frage, Ortstermin oder Behördenakte zu. Stelle bei divergierenden Gutachten die abweichenden Prämissen zeilenweise gegenüber.
-
-## 8. Lieferstücke
-
-- Kurzvermerk mit Landesnorm, verfassungsrechtlichem Maßstab und nächster Verfahrenshandlung;
-- Wirtschaftlichkeitsmatrix mit Quellen- und Variantenspalte;
-- Genehmigungs-, Ausgleichs- oder Übernahmeantrag mit Hilfsanträgen;
-- Klage- oder Eilantragsgerüst mit bestimmtem Antrag und Beweisangebot;
-- Mandantenbrief mit realistischer Verfahrens-, Kosten- und Zeitachse.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

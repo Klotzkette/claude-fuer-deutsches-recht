@@ -1,6 +1,6 @@
 {
   "name": "bundesnetzagentur-verfahren",
-  "version": "439.0.1",
+  "version": "439.1.0",
   "description": "Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services.",
   "keywords": [
     "bundesnetzagentur",

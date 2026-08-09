@@ -47,3 +47,5 @@ Diese Akte bündelt einen laufenden Softwarerechtsfall rund um eine B2B-SaaS-Pla
 | `23-briefing-us-counsel.docx` | Fragenpaket an US-Counsel zu Copyright, Softwarepatent und trade secrets |
 | `24-oss-notice-draft.pdf` | Entwurf eines OSS-Notice-Pakets |
 | `25-board-briefing-route-luchs.docx` | Board-Briefing für Vorstand/Investor zum Rechteketten- und Kundenrisiko |
+| `26-admin-export-lizenzzaehlung-sonnenklee.csv` | Rohexport der Konten, Serviceaccounts, API-Token und Container-Instanzen je Gesellschaft und Werkstattpartner |
+| `27-email-nearshore-graphweaver-buildlog.eml` | Nearshore-Entwickler berichtet in Alltagston über GraphWeaver im Nightly-Image, eine Firmware-Kopie und das geschlossene Ticket CF-1187 |

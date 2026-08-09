@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `verkehr-infrastruk
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verkehr Infrastrukturrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
 2. **einstieg-routing** — Wenn es um Einstieg und Routing in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
 3. **verkehrs-erstpruefung-und-mandatsziel** — Wenn es um Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Z…
-4. **ladeinfrastruktur** — Prüft öffentliche und private Ladeinfrastruktur vom Standort über Netzanschluss, AFIR und Ladesäulenverordnung bis zu Ge…
-5. **mobilitaetsprojekt-intake** — Wenn es um Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche in Verkehrs- und Infrastrukturrecht g…
-6. **verfahren** — Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstel…
-7. **autonomous-driving-interessen-grossprojekt** — Wenn es um Autonomous: Compliance-Dokumentation und Aktenvermerk in Verkehrs- und Infrastrukturrecht geht: ordnet Akteni…
-8. **parkraum-planfeststellung-strassenbahn** — Wenn es um Parkraum: Schriftsatz-, Brief- und Memo-Bausteine in Verkehrs- und Infrastrukturrecht geht: erstellt den pass…
-9. **foerderung-vergabe-ladeinfrastruktur** — Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passe…
-10. **buergerentscheid-strassenbahn-spezial** — Wenn es um Buergerentscheid Strassenbahn in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-11. **nachhaltige-bahninfrastruktur-emissionen** — Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-12. **verkehr-infrastrukturrecht-sondernutzung** — Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden…
-13. **sondernutzung** — Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
-14. **strassenbahn** — Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
-15. **strassenbahn-risikoampel-und-gegenargumente** — Wenn es um Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien in Verkehrs- und Infrastrukturrecht geht: z…
+4. **mobilitaetsprojekt-intake** — Wenn es um Mobilitätsprojekt-Intake mit Rechtsweg-, Förder- und Beteiligungsweiche in Verkehrs- und Infrastrukturrecht g…
+5. **verfahren** — Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstel…
+6. **autonomous-driving-interessen-grossprojekt** — Wenn es um Autonomous: Compliance-Dokumentation und Aktenvermerk in Verkehrs- und Infrastrukturrecht geht: ordnet Akteni…
+7. **parkraum-planfeststellung-strassenbahn** — Wenn es um Parkraum: Schriftsatz-, Brief- und Memo-Bausteine in Verkehrs- und Infrastrukturrecht geht: erstellt den pass…
+8. **foerderung-vergabe-ladeinfrastruktur** — Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passe…
+9. **buergerentscheid-strassenbahn-spezial** — Wenn es um Buergerentscheid Strassenbahn in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+10. **nachhaltige-bahninfrastruktur-emissionen** — Wenn es um Bahninfrastruktur: Emissionen in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
+11. **verkehr-infrastrukturrecht-sondernutzung** — Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden…
+12. **sondernutzung** — Wenn es um Sondernutzung öffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
+13. **strassenbahn** — Wenn es um Strassenbahn und OEPNV — Infrastrukturrecht in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden …
+14. **strassenbahn-risikoampel-und-gegenargumente** — Wenn es um Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien in Verkehrs- und Infrastrukturrecht geht: z…
+15. **grossprojekt-zahlen-schwellen-und-berechnung** — Wenn es um Grossprojekt: Zahlen, Schwellenwerte und Berechnung in Verkehrs- und Infrastrukturrecht geht: rechnet Schwell…
 
 ---
 
@@ -232,88 +232,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `ladeinfrastruktur`
-
-_Prüft öffentliche und private Ladeinfrastruktur vom Standort über Netzanschluss, AFIR und Ladesäulenverordnung bis zu Gebäude-, Miet-, WEG- und Straßenrecht. Liefert eine stichtagsbezogene Pflichtenmatrix, Behörden- und Netzbetreiberkommunikation sowie einen belastbaren Genehmigungs- und Vollzugsplan._
-
-# Ladeinfrastruktur Elektromobilität
-
-## 1. Direktstart
-
-Lies zuerst Standortplan, Leistungsdaten, Netzbetreiberkorrespondenz, Betreiberkonzept, Eigentums- oder Mietunterlagen und vorhandene Bescheide. Liefere sofort eine erste Einordnung zu Öffentlichkeit, Anschluss, Genehmigungen und nächstem Vollzugsschritt. Frage nur nach einem Punkt, wenn ohne ihn die Einordnung kippt, insbesondere Standortzugang, Summen-Bemessungsleistung, Gebäudetyp oder Betreiberrolle.
-
-## 2. Vier Eingangstore
-
-### 2.1. Öffentlichkeit
-
-Bestimme, ob der Standort der Allgemeinheit zugänglich ist. Ein Ladepunkt auf Privatgrund kann öffentlich zugänglich sein; Zugangsbeschränkungen, Öffnungszeiten oder eine Beschränkung auf eine allgemeine Kundengruppe schließen dies nicht ohne Weiteres aus. Ein nur für einen begrenzten und bestimmten Personenkreis zugänglicher Betriebsparkplatz ist gesondert zu behandeln.
-
-### 2.2. Standort und Projektart
-
-Trenne Einzelstellplatz, Wohnungseigentumsanlage, Mietobjekt, Kundenparkplatz, Parkhaus, Betriebshof und öffentliche Verkehrsfläche. Erfasse Neubau, größere Renovierung oder Bestand, Zahl und Lage der Stellplätze, Ladeleistung, Leitungsweg, Lastmanagement, Messkonzept und geplanten Betriebsbeginn.
-
-### 2.3. Netz und Elektrik
-
-Trenne den Anspruch auf Netzanschluss von der Mitteilung oder Zustimmung zur einzelnen Ladeeinrichtung. Sichere Anschlussbegehren, Netzverträglichkeitsprüfung, Kostenvoranschlag, Baukostenzuschuss, Hausanschlussleistung, technische Anschlussbedingungen und eine mögliche flexible Netzanschlussvereinbarung.
-
-### 2.4. Betreiber- und Nutzungsverhältnis
-
-Bestimme Eigentümer, Anschlussnehmer, Anschlussnutzer, Betreiber des Ladepunkts, Mobilitätsdienstleister und Letztverbraucher. Prüfe, wer investiert, Strom beschafft, Preise setzt, Daten übermittelt, Wartung übernimmt und gegenüber Behörde, Netzbetreiber und Nutzer verantwortlich ist.
-
-## 3. Rechtsrahmen mit Stand 2026
-
-### 3.1. Öffentliche Ladepunkte
-
-- Verordnung (EU) 2023/1804: Artikel 2 und Artikel 5 steuern insbesondere Öffentlichkeit, Ad-hoc-Laden, Zahlungsoptionen und Preistransparenz.
-- Ladesäulenverordnung in der seit 1. Januar 2026 geltenden Fassung: Paragraf 2 definiert den öffentlich zugänglichen Ladepunkt; Paragraf 3 betrifft technische Anforderungen; Paragraf 4 regelt Anzeige und Nachweise; Paragraf 5 enthält Prüfungs-, Nachrüstungs- und Untersagungsbefugnisse der Bundesnetzagentur.
-- Die Inbetriebnahme ist nach Paragraf 4 Ladesäulenverordnung grundsätzlich spätestens zwei Wochen danach elektronisch anzuzeigen; Außerbetriebnahme und Betreiberwechsel sind unverzüglich anzuzeigen. Prüfe die jeweils verlangten Datensätze und Nachweise im aktuellen Portal.
-
-### 3.2. Netzanschluss
-
-- Paragraf 17 EnWG erfasst auch Ladepunkte für Elektromobile und verlangt angemessene, diskriminierungsfreie und transparente Anschlussbedingungen. Eine Ablehnung setzt die gesetzlichen Unmöglichkeits- oder Unzumutbarkeitsgründe und eine Begründung in Textform voraus.
-- Paragraf 18 EnWG und die Niederspannungsanschlussverordnung steuern den Anschluss von Letztverbrauchern in Niederspannung.
-- Nach Paragraf 19 Absatz 2 NAV ist jede Ladeeinrichtung vor Inbetriebnahme mitzuteilen. Überschreitet die Summen-Bemessungsleistung zwölf Kilovoltampere je elektrischer Anlage, ist vorher die Zustimmung des Netzbetreibers erforderlich; bei Ablehnung sind Hinderungsgrund, Abhilfemaßnahmen und Zeitbedarf offenzulegen.
-- Paragraf 14a EnWG und die aktuellen Festlegungen der Bundesnetzagentur sind einzubeziehen, wenn es um steuerbare Verbrauchseinrichtungen, Netzentgelt oder Steuerbarkeit geht.
-
-### 3.3. Gebäude, Wohnungseigentum und Miete
-
-- Das GEIG regelt Leitungs- und Ladeinfrastruktur bei bestimmten neuen oder renovierten Wohn- und Nichtwohngebäuden. Prüfe Stellplatzzahl, Gebäudetyp, Lage der Stellplätze, Renovierungsumfang und Ausnahmen nach den Paragrafen 6 bis 10 und 14 GEIG, statt pauschal eine Ausstattungspflicht anzunehmen.
-- Nach Paragraf 20 Absatz 2 Nummer 2 WEG kann jeder Wohnungseigentümer angemessene bauliche Veränderungen zum Laden elektrisch betriebener Fahrzeuge verlangen; über die Durchführung ist im Rahmen ordnungsmäßiger Verwaltung zu beschließen. Kosten- und Nutzungsfolgen sind getrennt nach Paragraf 21 WEG zu prüfen.
-- Paragraf 554 BGB gibt dem Mieter grundsätzlich einen Anspruch auf Erlaubnis einer dem Laden dienenden baulichen Veränderung, begrenzt durch die Zumutbarkeitsabwägung. Planung, Fachunternehmer, Versicherung, Rückbau, Sicherheit und laufende Kosten gehören in den Erlaubnisentwurf.
-
-### 3.4. Bau- und Straßenrecht
-
-Prüfe Landesbauordnung, Stellplatzrecht, Denkmalschutz, Brandschutz und örtliche Satzungen am konkreten Standort. Auf öffentlicher Verkehrsfläche sind Widmung, Sondernutzung, straßenrechtliche Zuständigkeit, Leitungsverlegung, Verkehrsführung, Barrierefreiheit und gegebenenfalls Vergaberecht getrennt zu bearbeiten. Eine Genehmigungsfreiheit nach Bauordnungsrecht ersetzt keine straßenrechtliche Erlaubnis und keine Zustimmung des Eigentümers.
-
-## 4. Arbeitsworkflow
-
-1. Erstelle ein Aktenblatt mit Standort, Betreiber, Eigentümer, Nutzerkreis, Leistung, Zahl der Ladepunkte, Betriebsbeginn und Zieltermin.
-2. Entscheide anhand der tatsächlichen Zugangssituation, ob jeder Ladepunkt öffentlich zugänglich ist; dokumentiere Öffnungszeiten, Schranken, Nutzerkreis und Beschilderung mit Fotos und Planfundstellen.
-3. Baue eine Anschlussmatrix aus vorhandener und beantragter Leistung, Lastprofil, Netzebene, Hausanschluss, Mitteilung, Zustimmung, Kosten und offenem Netzausbau.
-4. Prüfe AFIR und Ladesäulenverordnung nur für die betroffenen Ladepunkte und führe jede Pflicht mit Verantwortlichem, Frist, Nachweis und Portalstatus.
-5. Prüfe Gebäude-, WEG-, Miet-, Bau- und Straßenrecht anhand des konkreten Standorts und kennzeichne Beschluss, Gestattung, Genehmigung oder Sondernutzung jeweils getrennt.
-6. Formuliere die nächste Kommunikation: Netzanschlussbegehren, Nachforderung an den Netzbetreiber, WEG-Beschlussvorschlag, Mieterantrag, Behördenanfrage oder Betreiberanzeige.
-7. Schließe mit einem Vollzugsplan bis Inbetriebnahme und einer Nachlaufkontrolle für Anzeige, Eichung, Preisdarstellung, Wartung und Betreiberwechsel.
-
-## 5. Beleg- und Fehlerkontrolle
-
-- Keine Förderzusage oder Programmnummer aus älteren Unterlagen fortschreiben. Förderprogramme, Antragsberechtigung und Verbot des vorzeitigen Maßnahmenbeginns werden am Tag der Antragstellung in der Primärquelle geprüft.
-- Netzanschluss nach Paragraf 17 oder 18 EnWG nicht mit dem Zustimmungsvorbehalt für Ladeeinrichtungen nach Paragraf 19 NAV verwechseln.
-- Öffentlich zugänglich nicht mit öffentlichem Eigentum gleichsetzen.
-- Bei mehreren Ladepunkten Summenleistung, Pool, Betreiber und Anzeigeobjekt nicht ungeprüft gleichsetzen.
-- Angaben zu Leistung, Inbetriebnahme und Betreiber müssen in Planung, Netzbetreiberakte, Anzeige und Nutzerinformation übereinstimmen.
-
-## 6. Lieferstücke
-
-- stichtagsbezogene Pflichten- und Genehmigungsmatrix;
-- vollständiges Netzanschluss- oder Zustimmungsbegehren mit Anlagenliste;
-- WEG-Beschlussantrag oder mietrechtlicher Gestattungsantrag;
-- Sondernutzungs- und Behördenfahrplan;
-- Anzeige- und Nachweisblatt nach der Ladesäulenverordnung;
-- Inbetriebnahmecheck mit Verantwortlichem, Termin und Abschlussbeleg.
 
 ---
 
@@ -940,6 +858,41 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Strassenbahn** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `grossprojekt-zahlen-schwellen-und-berechnung`
+
+_Wenn es um Grossprojekt: Zahlen, Schwellenwerte und Berechnung in Verkehrs- und Infrastrukturrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+
+# Grossprojekt: Zahlen, Schwellenwerte und Berechnung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VwVfG § 73 Auslegung 1 Monat / Einwendungen 1 Monat, UmwRG § 4 Klagefrist, VwGO § 47 Normenkontrolle 1 Jahr, BVerwGO § 50 Abs. 1 Nr. 6 erstinstanzliche Zuständigkeit BVerwG.
+- Tragende Normen verifizieren: FStrG, BWaStrG, AEG, BImSchG, UVPG, ROG, BauGB §§ 38, 246, VwVfG §§ 72-78 (Planfeststellung), VwGO §§ 47 ff., BNatSchG §§ 14, 15, 34, 44, WHG §§ 8, 67, EU-FFH-RL, UmwRG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Vorhabenträger (Bund, Land, DB Netz, Autobahn GmbH), Planfeststellungsbehörde, Anhörungsbehörde, anerkannte Umweltvereinigungen (BUND, NABU), VG, OVG, BVerwG (1. Senat).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Planfeststellungsbeschluss, Erörterungsprotokoll, UVP-Bericht, FFH-Verträglichkeitsstudie, Einwendung, Klage zum BVerwG, Erlaubnis nach § 67 WHG — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Grossprojekt: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grossprojekt** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

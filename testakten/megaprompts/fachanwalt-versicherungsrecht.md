@@ -175,7 +175,7 @@ _Wenn es um Anwalts-Dashboard Fachanwalt Versicherungsrecht in Fachanwalt Versic
 | --- | --- | --- |
 | Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | Die frühere sechsmonatige Klagefrist aus Paragraf 12 Absatz 3 VVG alter Fassung ist seit 2008 entfallen; der heutige Paragraf 12 VVG regelt die Versicherungsperiode. Regelmäßig gelten die Paragrafen 195 und 199 BGB; die Anspruchsanmeldung kann nach Paragraf 15 VVG hemmen. Daneben Police, AVB, Anzeige- und Gestaltungsfristen jeweils getrennt prüfen. | Frist aus Entstehung, Fälligkeit, Zugang und Kenntnis berechnen |
+| Eilfrist | **§ 12 VVG: 1 Monat** (a. F.) ist überholt; Klagefrist gibt es nicht mehr. Aber: § 195 BGB Verjährung 3 Jahre. § 28 IV VVG: Obliegenheitsverletzung — Belehrungspflicht des Versicherers. § 19 VVG: Anzeigepflicht vorvertraglich; Rücktritt 1 Monat ab Kenntnis. § 14 VVG: Fälligkeit nach Erhebung der nötigen Erhebungen. | Frist aus Zugangs-/Kenntnisdatum berechnen |
 | Hauptanspruch | Versicherungsleistung aus jeweiligem Vertrag (BU, D&O, RS, Kasko, Haftpflicht, KH); §§ 1, 100, 115 VVG; § 86 VVG Regress; § 28 VVG Obliegenheitsverletzung; § 19 VVG Anzeigepflicht; § 215 VVG Gerichtsstand. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
 | Zuständigkeit | § 215 VVG: Wohnsitz Versicherungsnehmer (zwingend für Verbraucher). Sonst §§ 12, 17 ZPO. Bei BU/PKV häufig LG (Streitwert). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
