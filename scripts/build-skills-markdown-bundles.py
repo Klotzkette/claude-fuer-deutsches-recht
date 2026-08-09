@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 Baut pro Plugin ein ZIP-Bundle mit allen Skill-Markdown-Dateien (SKILL.md)
-sowie den plugin-lokalen Werkstatt- und Schnellstart-Prompts. Die einzelnen
-Plugin-Bundles werden im Komplettpaket mitgefuehrt; als Release-Asset liegt
-wegen der Asset-Grenze nur das Sammel-ZIP alle-skills-markdown.zip oben.
+und dem Plugin-README. Werkstatt- und Schnellstart-Prompts bleiben bewusst
+außerhalb aller ZIPs als einzelne Markdown-Downloads. Die Plugin-Bundles
+werden im Komplettpaket mitgeführt; als Release-Asset liegt wegen der
+Asset-Grenze nur das Sammel-ZIP alle-skills-markdown.zip oben.
 
 Aufruf:
     python3 scripts/build-skills-markdown-bundles.py <output-dir>
@@ -43,29 +44,10 @@ def collect_skill_files(plugin_dir: Path) -> list[Path]:
     return sorted(skills_dir.glob("*/SKILL.md"))
 
 
-def prompt_stem(plugin_name: str) -> str:
-    return plugin_name
-
-
-def collect_prompt_files(repo_root: Path, plugin_name: str, plugin_dir: Path) -> list[Path]:
-    """Schnellstart/Werkstatt einsammeln, falls vorhanden."""
-    stem = prompt_stem(plugin_name)
-    candidates = [
-        plugin_dir / f"{stem}-schnellstart.md",
-        plugin_dir / f"{stem}-werkstatt.md",
-    ]
-    out: list[Path] = []
-    for path in candidates:
-        if path.is_file() and path not in out:
-            out.append(path)
-    return out
-
-
 def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) -> tuple[Path, int]:
     plugin_name = plugin["name"]
     plugin_dir = resolve_plugin_dir(repo_root, plugin["source"])
     skills = collect_skill_files(plugin_dir)
-    prompt_files = collect_prompt_files(repo_root, plugin_name, plugin_dir)
 
     # Plugin-README als Index mitnehmen
     plugin_readme = plugin_dir / "README.md"
@@ -80,9 +62,6 @@ def build_plugin_bundle(plugin: dict[str, str], repo_root: Path, out_dir: Path) 
             # arcname: <plugin>/skills/<skill-slug>/SKILL.md
             rel = skill_md.relative_to(plugin_dir)
             zf.write(skill_md, arcname=f"{plugin_name}/{rel}")
-            n_files += 1
-        for prompt_md in prompt_files:
-            zf.write(prompt_md, arcname=f"{plugin_name}/{prompt_md.name}")
             n_files += 1
     return bundle_path, n_files
 
@@ -121,9 +100,9 @@ def main():
         total_files += n_files
 
     print(f"Individual bundles erzeugt: {len(individual)}")
-    print(f"Skill/Mini-Prompt-Dateien gesamt: {total_files}")
+    print(f"README- und Skill-Dateien gesamt: {total_files}")
     if empty:
-        print(f"Plugins ohne Skills/Mini-Prompt (kein ZIP): {len(empty)}")
+        print(f"Plugins ohne README oder Skills (kein ZIP): {len(empty)}")
         for p in empty:
             print(f"  - {p}")
 

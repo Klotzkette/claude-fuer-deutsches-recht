@@ -1,6 +1,6 @@
 # Release-Asset-Index
 
-Stand: v439.0.0, automatisch aktualisierte Asset-Übersicht
+Stand: v439.0.1, automatisch aktualisierte Asset-Übersicht
 
 [Repository-Start](README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Skill-Gesamtübersicht](SKILLS.md) · [Testakten](testakten/README.md) · [Aktueller Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest)
 
@@ -12,7 +12,7 @@ Stand: v439.0.0, automatisch aktualisierte Asset-Übersicht
 | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | Alle Skills als Markdown-Bundles, zusätzlich pro Plugin einzeln im Komplettpaket. |
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelpaket der jeweils flachen Akten-ZIPs mit Originalformaten und zugehörigem Gesamt-PDF. |
 | [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelpaket der jeweils flachen Einzel-PDF-ZIPs; jede auswertbare Unterlage liegt darin als eigene A4-PDF vor. |
-| [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt- und Schnellstart-Prompts liegen als Markdown-Dateien in den Plugin-ZIPs. |
+| [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Plugins, Skills, Testakten, Marketplace und Übersichten. Werkstatt und Schnellstart bleiben außerhalb der Archive als Markdown-Direktdownloads. |
 | [`checksums-sha256.txt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | SHA-256-Prüfsummen für Release-Assets. |
 
 ## Kanzleianleitungen
