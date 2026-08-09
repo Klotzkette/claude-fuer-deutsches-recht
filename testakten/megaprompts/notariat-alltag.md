@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Notariat Alltag ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet ko…
 2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Notariat im Alltag geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-3. **032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht** — Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bi…
-4. **054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen** — Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche W…
-5. **grundbuchantrag-rangstelle-notarielle** — Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht:…
-6. **021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok** — Wenn es um Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation in Notariat im Alltag geht: o…
-7. **050-grundbuchauszug-lesen-abteilung-ii-und-iii** — Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, N…
-8. **notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest** — Wenn es um Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste in Notariat im Alltag geht: ordnet …
+3. **grundbuchantrag-rangstelle-notarielle** — Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht:…
+4. **021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok** — Wenn es um Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation in Notariat im Alltag geht: o…
+5. **050-grundbuchauszug-lesen-abteilung-ii-und-iii** — Wenn es um Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III in Notariat im Alltag geht: ordnet Sachverhalt, N…
+6. **notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest** — Wenn es um Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste in Notariat im Alltag geht: ordnet …
+7. **035-aufgebotsverfahren-verlorener-grundschuldbrief** — Wenn es um Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief in Notariat im Alltag geht: erstellt den…
+8. **037-datenschutz-im-notariat-aktenversand-und-cloudgrenz** — Wenn es um Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen in Notariat im Alltag geht: ordnet A…
 
 ---
 
@@ -178,200 +178,6 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 ## Fachlicher Anker — Notariat
 
 Tragende Anker: BNotO, BeurkG, GNotKG, GBO. Tatsächliche Fundstellen werden über dejure.org, openJur, gesetze-im-internet.de, BGH-/BVerfG-/EuGH-/EuG-Datenbank live geprüft und nicht aus Modellwissen finalisiert.
-
----
-
-## Skill: `032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht`
-
-_Steuert Barkapital- und Sachkapitalerhöhungen bei GmbH und AG vom Beschluss über Übernahme oder Zeichnung und Einlage bis zur Registereintragung. Prüft Mehrheit, notarielle Form, Bezugsrecht, Sacheinlage, Versicherungen und Vollzugsunterlagen und liefert Beschluss-, Erklärungs- und Anmeldepaket._
-
-# Notariat im Alltag: Kapitalerhöhung, Sacheinlage und Bezugsrecht
-
-## 1. Direktstart
-
-Lies zuerst Satzung, aktuellen Registerauszug, Gesellschafterliste oder Aktionärsstruktur, Finanzierungsvereinbarung, Bewertungsunterlagen und Entwürfe. Ermittle Rechtsform, Erhöhungsart, Ausgangs- und Zielkapital, neue Nennbeträge, Übernehmer, Gegenleistung, Bezugsrechtslage und gewünschten Vollzugstermin. Frage nur nach einer Angabe, die Beschluss, Form oder Anmeldung tatsächlich verändert.
-
-## 2. GmbH: Beschluss und notarielle Form
-
-Eine Erhöhung des Stammkapitals ändert den Gesellschaftsvertrag. Prüfe deshalb:
-
-1. Beschlusskompetenz und Beschlussgegenstand nach den Paragrafen 53 und 55 GmbHG.
-2. Dreiviertelmehrheit der abgegebenen Stimmen nach Paragraf 53 Absatz 2 GmbHG sowie strengere Satzungsvorgaben und Stimmverbote.
-3. Notarielle Beurkundung des Beschlusses nach Paragraf 53 Absatz 3 GmbHG. Bei einer einstimmigen Beschlussfassung ist die dort angeordnete Verweisung auf Paragraf 2 Absatz 3 GmbHG für die Online-Beurkundung gesondert zu prüfen.
-4. Genaue Neufassung von Stammkapital, Zahl und Nennbeträgen der Geschäftsanteile sowie etwaiger Agio-, Nebenleistungs- oder Sonderrechtsregelungen.
-5. Vollständigen Satzungswortlaut und notarielle Bescheinigung für die Anmeldung nach Paragraf 54 GmbHG.
-
-## 3. GmbH: Übernahme und Einlage
-
-Für jeden neuen Geschäftsanteil ist nach Paragraf 55 Absatz 1 GmbHG eine notariell aufgenommene oder beglaubigte Übernahmeerklärung erforderlich. Diese Form gilt unabhängig davon, ob ein bestehender oder neuer Gesellschafter übernimmt; eine bloße Schriftform oder eine Analogie zu Paragraf 15 Absatz 3 GmbHG genügt nicht.
-
-Die Übernahmeerklärung muss Übernehmer, Nennbetrag und die übernommenen weiteren Leistungen erkennen lassen. Gleiche sie mit Beschluss, Satzung und Zeichnungsliste ab. Prüfe bei Bareinlagen die Leistungsvoraussetzungen des Paragraf 57 Absatz 2 GmbHG in Verbindung mit den dort in Bezug genommenen Gründungsvorschriften. Unterstelle keinen pauschalen Mindestzahlbetrag ohne Kenntnis des bereits eingezahlten Stammkapitals und der konkreten Einforderung.
-
-Arbeitsprodukt: Übernahmematrix mit Person, neuem Geschäftsanteil, Nennbetrag, Agio, Form, Unterzeichnungsdatum, Einlage, Zahlungsbeleg und offener Bedingung.
-
-## 4. GmbH: Sacheinlage und verdeckte Sacheinlage
-
-Bei Sacheinlagen sind Gegenstand und Nennbetrag nach Paragraf 56 GmbHG im Beschluss festzusetzen. Prüfe Eigentum, Verfügungsbefugnis, Übertragungsakt, Bewertungsstichtag, Werthaltigkeit, Belastungen, Nutzungsübergang und tatsächliche freie Verfügung der Geschäftsführung. Trenne offene Sacheinlage, verdeckte Sacheinlage und Hin-und-her-Zahlen. Ein Wertgutachten ersetzt weder die genaue Festsetzung noch den dinglichen Vollzug.
-
-Arbeitsprodukt: Sacheinlagenakte mit Beschreibung, Rechtsinhaber, Bewertung, Übertragungsdokument, Belastung, Einbringungszeitpunkt, Registerbeleg und Differenzrisiko.
-
-## 5. GmbH: Anmeldung und Wirksamkeit
-
-Bereite die Anmeldung nach Paragraf 57 GmbHG erst vor, wenn Beschluss, Übernahmen und erforderliche Leistungen deckungsgleich belegt sind. Prüfe:
-
-1. Vertretungs- und Unterzeichnungsberechtigung aller Geschäftsführer.
-2. Versicherungen und beizufügende Unterlagen in der aktuellen Gesetzesfassung.
-3. Zahlungs- oder Übertragungsbelege ohne unzulässige Scheinsicherheit.
-4. Vollständigen Satzungswortlaut mit Bescheinigung nach Paragraf 54 Absatz 1 GmbHG.
-5. Aktualisierte Gesellschafterliste nach Paragraf 40 GmbHG und ihren richtigen Einreichungszeitpunkt.
-6. Wirksamkeit der Satzungsänderung erst mit Registereintragung nach Paragraf 54 Absatz 3 GmbHG.
-
-## 6. AG: ordentliche Kapitalerhöhung
-
-Bei der AG führe Hauptversammlungsbeschluss, notarielle Niederschrift, Zeichnung, Einlage und Anmeldung als getrennte Stationen:
-
-1. Beschluss und Mehrheit nach Paragraf 182 AktG; notarielle Niederschrift nach Paragraf 130 AktG.
-2. Bezugsrecht, Bezugsfrist und ein möglicher Ausschluss nach Paragraf 186 AktG einschließlich Bericht, sachlicher Rechtfertigung und Ausgabebetrag.
-3. Zeichnung der neuen Aktien in der gesetzlich vorgeschriebenen Form.
-4. Bareinlage oder Sacheinlage, Prüfungsunterlagen und Werthaltigkeit.
-5. Anmeldung und Eintragung nach den Paragrafen 188 und 189 AktG.
-
-Bei genehmigtem Kapital sind Ermächtigungsrahmen, Laufzeit, Restbetrag, Zustimmung des Aufsichtsrats, Bezugsrechtskompetenz und Satzungsanpassung nach den Paragrafen 202 bis 206 AktG gesondert zu prüfen.
-
-## 7. Bezugsrechts- und Verwässerungskontrolle
-
-Rechne Altbestand, Bezugsverhältnis, Ausgabebetrag, Agio, Zielbeteiligung und Verwässerung für jede Variante. Trenne gesetzliches Bezugsrecht, wirksamen Ausschluss, vertragliches Beteiligungsrecht, Stimmbindung und schuldrechtliche Verwässerungsschutzklausel. Ein gesellschaftsrechtlich wirksamer Beschluss kann daneben einen Beteiligungsvertrag verletzen.
-
-## 8. Vollzugspaket
-
-Liefere je nach Rechtsform:
-
-- beurkundungsreifen Beschluss mit präziser Satzungsänderung;
-- Übernahme- oder Zeichnungserklärungen;
-- Einlage- und Sacheinlagenmatrix;
-- notarielle Handelsregisteranmeldung mit Anlagenindex;
-- aktualisierte Gesellschafterliste oder Satzungsfassung;
-- Vollzugskalender mit Unterzeichnung, Zahlung, Anmeldung, Zwischenverfügung, Eintragung und Benachrichtigung.
-
-## 9. Schlusskontrolle
-
-1. Stimmen Ausgangskapital, Erhöhungsbetrag, Zielkapital und Summe der neuen Nennbeträge centgenau überein?
-2. Sind Mehrheit nach Paragraf 53 Absatz 2 GmbHG und notarielle Form nach Absatz 3 getrennt richtig behandelt?
-3. Liegt für jeden GmbH-Geschäftsanteil eine formgerechte Übernahmeerklärung nach Paragraf 55 Absatz 1 GmbHG vor?
-4. Ist jede Sacheinlage konkret bezeichnet, bewertet und tatsächlich übertragbar?
-5. Sind Beschluss, Satzung, Übernahme, Anmeldung und Gesellschafterliste widerspruchsfrei?
-6. Wird die Registereintragung nicht mit einer bloßen Anmeldung verwechselt?
-
-## 10. Amtliche Quellen
-
-- Paragraf 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
-- Paragraf 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
-- Paragraf 57 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__57.html
-- Paragraf 182 AktG: https://www.gesetze-im-internet.de/aktg/__182.html
-- Paragraf 186 AktG: https://www.gesetze-im-internet.de/aktg/__186.html
-- **Mandantenmail** (Ablauf, Einzahlungspflicht, Registerfrist)
-
-Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
-
----
-
-## Skill: `054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen`
-
-_Prüft bei notariellen Vorgängen mit Auslandsbeteiligung Identität, Vertretungsnachweis, anwendbares Recht, steuerliche Warnsignale, Mitteilungspflichten und die Grenze zwischen rechtlicher Belehrung und Steuerberatung; liefert Urkundenhinweise, Nachforderungsliste und Vollzugsvermerk._
-
-# Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die einschlägigen Normen über amtliche Bundes-, Landes- und Unionsportale prüfen; Entscheidungen nur mit kontrolliertem Gericht, Datum, Aktenzeichen und tragender Passage verwenden.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsbereich
-
-Wenn ausländische oder im Ausland ansässige Personen an deutschen Grundstücks- oder Gesellschaftsgeschäften beteiligt sind, entstehen besondere Nachweis-, Kollisions- und Steuerfragen. Kläre, welche rechtliche Tragweite der Notar nach Paragraf 17 BeurkG erläutern muss, welche Mitteilungen zum Vollzug gehören und an welcher Stelle eine gesonderte steuerliche Beratung erforderlich ist. Unterstelle keine allgemeine notarielle Pflicht zur umfassenden Steuerberatung.
-
-Rechtsgrundlagen: Paragraf 17 BeurkG, Paragraf 49 EStG, Paragrafen 48 bis 48d EStG, Paragrafen 1 bis 7 GrEStG, Paragraf 34 ErbStG, Paragrafen 139a bis 139d AO, EGBGB und das im Einzelfall anwendbare Doppelbesteuerungsabkommen.
-
-## Beschränkte Steuerpflicht nach Paragraf 49 EStG
-
-Bei einer Person ohne Wohnsitz oder gewöhnlichen Aufenthalt im Inland ist zuerst zu bestimmen, ob der konkrete Vorgang inländische Einkünfte nach Paragraf 49 EStG auslösen kann. Bei Gesellschaften sind Körperschaftsteuerrecht, Rechtsform und Doppelbesteuerungsabkommen gesondert zu prüfen.
-
-Bei einem Grundstücksverkauf durch einen Auslandsbeteiligten:
-- Veräußerer, steuerlichen Ansässigkeitsstaat, Objekt, Erwerbs- und Veräußerungsdatum erfassen.
-- Mögliche inländische Einkünfte nach Paragraf 49 EStG und bei Privatvermögen ein privates Veräußerungsgeschäft nach Paragraf 23 EStG markieren.
-- Das anwendbare Doppelbesteuerungsabkommen und eine mögliche Veranlagung durch den Steuerberater prüfen lassen.
-- Keinen allgemeinen Steuerabzug des Käufers aus Paragraf 50a EStG ableiten. Paragraf 50a Absatz 7 EStG setzt für sonst nicht erfasste Einkünfte eine konkrete Anordnung des zuständigen Finanzamts voraus.
-
-## Bauabzugsteuer nach Paragraf 48 EStG
-
-Bei einer Bauleistung im Inland kann der unternehmerische oder öffentlich-rechtliche Leistungsempfänger nach Paragraf 48 EStG zum Steuerabzug von 15 Prozent verpflichtet sein. Entscheidend sind Leistung, Leistungsempfänger, Gegenleistung, Ausnahmen und eine gültige Freistellungsbescheinigung; der Sitz des Bauunternehmers allein entscheidet die Frage nicht.
-
-Für den notariellen Vorgang ist nur festzuhalten, ob eine erkennbare Bauleistung und ein möglicher Abzugstatbestand eine fachsteuerliche Klärung vor Fälligkeit verlangen. Die konkrete Berechnung und Anmeldung gehören in die steuerliche Beratung.
-
-## Grunderwerbsteuer nach den Paragrafen 1 bis 7 GrEStG
-
-Der Erwerb eines inländischen Grundstücks kann unabhängig vom Wohnsitz der Beteiligten Grunderwerbsteuer auslösen.
-
-Bei Anteilsübertragungen an grundbesitzenden Gesellschaften sind insbesondere die jeweils aktuelle Fassung des Paragraf 1 GrEStG, Beteiligungsquoten, Erwerbergruppe und zeitliche Zusammenhänge fachsteuerlich zu prüfen.
-
-## Meldepflicht des Notars nach Paragraf 34 ErbStG
-
-Prüfe die Anzeige- und Mitteilungspflichten nach Paragraf 34 ErbStG anhand der konkreten Urkunde und dokumentiere Empfänger, Frist, übermittelte Fassung und Versandnachweis.
-
-## Identifizierung Auslandsbeteiligter (GwG)
-
-Bei ausländischen juristischen Personen sind Existenz, Vertretungsmacht und Aktualität mit geeigneten Register- oder Behördennachweisen zu belegen. Ob Apostille, Legalisation oder Übersetzung erforderlich ist, richtet sich nach Herkunftsstaat, Urkundenart und anwendbaren Übereinkommen. Wirtschaftlich Berechtigte und ein erhöhtes Risiko sind nach den Paragrafen 10 bis 15 GwG fallbezogen zu prüfen.
-
-## Grenzen der notariellen Hinweispflicht
-
-Der Notar erläutert nach Paragraf 17 BeurkG die rechtliche Tragweite des beurkundeten Geschäfts. Daraus folgt keine schematische Pflicht, sämtliche steuerlichen Folgen zu berechnen oder eine steueroptimale Gestaltung zu entwickeln. Dokumentiere erkennbare steuerliche Warnsignale, eine ausdrücklich übernommene Zusatzberatung und die Empfehlung, vor Bindung oder Fälligkeit steuerlichen Rat einzuholen.
-
-Zulässige Hinweise:
-- „Der Vorgang kann inländische Ertragsteuer auslösen. Bitte lassen Sie Ansässigkeit, Erwerbsdatum, Nutzung und Doppelbesteuerungsabkommen vor der Beurkundung steuerlich prüfen."
-- „Die Anteilsübertragung kann wegen inländischen Grundbesitzes grunderwerbsteuerlich relevant sein. Eine steuerliche Prüfung wird empfohlen."
-
-Ohne gesondert übernommenen und fachlich abgesicherten Auftrag zu vermeiden:
-- Konkrete Steuerhöhe berechnen
-- Empfehlen, ob eine Gestaltung steueroptimal ist
-
-## Prüfprogramm
-
-- Wohnsitz/Sitz der Beteiligten: Deutschland oder Ausland?
-- Bei Auslandsgesellschaft: geeigneter aktueller Existenz- und Vertretungsnachweis vorhanden; Apostille, Legalisation und Übersetzung fallbezogen geklärt?
-- GwG: erhöhtes Risiko wegen Hochrisikoland?
-- Hinweis auf mögliche steuerliche Implikationen erteilt und dokumentiert?
-- Mitteilungspflicht nach Paragraf 34 ErbStG anhand der konkreten Urkunde geprüft?
-
-## Typische Fallen
-
-- Apostille oder Übersetzung schematisch verlangen, ohne Staat, Urkundenart und Befreiungsabkommen zu prüfen.
-- Paragraf 50a EStG als automatische Kaufpreiseinbehaltung bei einem Grundstücksverkauf behandeln.
-- Bauabzugsteuer allein aus dem ausländischen Sitz des Unternehmers ableiten.
-- Eine konkrete Ertragsteuer ungeprüft ausrechnen oder als sicher darstellen.
-- Mitteilung nach Paragraf 34 ErbStG bei einer gemischten Schenkung ungeprüft unterlassen.
-
-## Rechtsquellen
-
-- Paragraf 17 BeurkG: https://www.gesetze-im-internet.de/beurkg/__17.html
-- Paragraf 49 EStG: https://www.gesetze-im-internet.de/estg/__49.html
-- Paragraf 50a EStG: https://www.gesetze-im-internet.de/estg/__50a.html
-- Paragraf 48 EStG: https://www.gesetze-im-internet.de/estg/__48.html
-- Paragraf 1 GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__1.html
-- Paragraf 34 ErbStG: https://www.gesetze-im-internet.de/erbstg_1974/__34.html
-- Paragrafen 10 bis 15 GwG: https://www.gesetze-im-internet.de/gwg_2017/__10.html
-
-## Output-Formate
-
-- Steuerliche-Hinweis-Checkliste für die Urkunde
-- Protokoll zum erhöhten GwG-Risiko bei einer Auslandsgesellschaft
-- Anforderungsliste für Existenz- und Vertretungsnachweise
-- Mandantenmail zur gesonderten steuerlichen Prüfung
-- Interner Vermerk zur Mitteilung nach Paragraf 34 ErbStG
-
-Quellenkontrolle: https://www.gesetze-im-internet.de | https://www.rechtsprechung-im-internet.de | https://www.bnotk.de
 
 ---
 
@@ -810,6 +616,199 @@ Nach Ablauf der gesetzlichen Aufbewahrungsfristen sind personenbezogene Daten gr
 - **Archivierungs-Fristen-Übersicht** (Urschrift / Nebenakte / GwG)
 - **Mandanten-Schlussschreiben** (mit Aufbewahrungshinweis)
 - **Wiedervorlage-Offene-Reste** (Tabelle für Folgeereignisse)
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+
+---
+
+## Skill: `035-aufgebotsverfahren-verlorener-grundschuldbrief`
+
+_Wenn es um Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck und Anwendungsbereich
+
+Ein verlorener oder vernichteter Grundschuldbrief ist ein ernsthaftes Vollzugsproblem: Ohne Brief kann die Briefgrundschuld nicht übertragen oder gelöscht werden. Das Aufgebotsverfahren ermöglicht die Kraftloserklärung des Briefes und die Neubriefung oder Löschung.
+
+Rechtsgrundlagen: § 1162 BGB (Aufgebot Hypothekenbrief), §§ 466–481 FamFG (Aufgebotsverfahren), § 1163 BGB (Eigentümergrundschuld), § 27 GBO (Löschung ohne Brief), § 1192 BGB (Grundschuld-Verweisung auf Hypothek), GBO § 56–68 (Grundbuchberichtigung).
+
+## Wann Aufgebotsverfahren?
+
+Ein Aufgebotsverfahren ist nötig, wenn:
+- Grundschuldbrief verloren oder vernichtet (nicht nur verlegt)
+- Brief nicht auffindbar und Löschung oder Übertragung der Grundschuld nötig
+- Die briefführende Bank oder der Gläubiger kann Brief nicht vorlegen
+
+Alternative: Gläubiger erklärt unter Vorlage eidesstattlicher Versicherung, dass Brief vernichtet wurde → Grundbuchamt kann Briefkraftloserklärung ohne FamFG ermöglichen (§ 67 GBO, Ermessen).
+
+## Verfahrensablauf (§§ 466–481 FamFG)
+
+1. **Antrag beim Amtsgericht** (§ 470 FamFG): Gläubiger oder Grundstückseigentümer stellt Antrag.
+2. **Inhalt des Antrags:** Bezeichnung der Grundschuld (Grundbuch, Betrag, Gläubiger), Darlegung des Verlustes.
+3. **Aufgebotsbekanntmachung:** Amtsgericht fordert öffentlich auf, dass Inhaber des Briefes sich meldet (§ 474 FamFG). Mindestfrist: 6 Monate.
+4. **Ausschlussurteil:** Wenn sich kein Berechtigter meldet, erklärt das Gericht den Brief für kraftlos (§ 478 FamFG). Neuer Brief wird ausgestellt oder Löschung ohne Brief beantragt.
+5. **Grundbuchamt:** Nach Kraftloserklärung Antrag auf Neubriefung oder Löschung (§ 27 GBO).
+
+## Notar im Aufgebotsverfahren
+
+- **Antragstellung:** Notar stellt Antrag beim Amtsgericht für den Antragsteller.
+- **Koordination:** Vollzugsüberwachung; Kaufpreis und Löschungsunterlagen bis Aufgebot abgeschlossen koordinieren.
+- **Eidesstattliche Versicherung:** Notar nimmt eidesstattliche Erklärung des Gläubigers über Verlust des Briefes auf (§ 156 StGB: Strafbarkeit falscher eidesstattlicher Versicherung).
+
+## Zeitrahmen
+
+Das Aufgebotsverfahren dauert i.d.R. 6–12 Monate. Wird in der Zwischenzeit ein Grundstückskauf vollzogen, kann der Notar die Kaufpreisfälligkeit unter den Vorbehalt der Kraftloserklärung stellen oder über Notaranderkonto abwickeln.
+
+## Prüfprogramm
+
+- Liegt wirklich ein Verlust vor (nicht nur Verwahrungsproblem)?
+- Ist eine eidesstattliche Erklärung des Gläubigers ausreichend für das Grundbuchamt (§ 67 GBO)?
+- Wer stellt Antrag (Gläubiger oder Eigentümer)?
+- Wie wird Vollzug in der Wartezeit abgesichert?
+- Kosten für Aufgebotsverfahren kommuniziert?
+
+## Typische Fallen
+
+- Aufgebot beantragt, aber Brief ist nur verlegt → unnötige Kosten und Zeitverlust.
+- Kraftloserklärung nicht abgewartet, Löschung trotzdem beantragt → Zurückweisung.
+- Eidesstattliche Versicherung ohne Notar-Aufnahme → Beweisschwäche.
+- Kaufpreisfälligkeit ohne Sicherung während des Aufgebots.
+
+## Rechtsquellen
+
+- § 1162 BGB: https://dejure.org/gesetze/BGB/1162.html
+- §§ 466–481 FamFG: https://dejure.org/gesetze/FamFG/466.html
+- § 27 GBO: https://dejure.org/gesetze/GBO/27.html
+- § 67 GBO: https://dejure.org/gesetze/GBO/67.html
+- BGH zum Aufgebotsverfahren: https://www.bgh.de
+- BNotK Grundbuchrecht: https://www.bnotk.de
+
+## Output-Formate
+
+- **Aufgebot-Antragsentwurf** (nach § 470 FamFG)
+- **Eidesstattliche Versicherung** (Verlust-Erklärung)
+- **Vollzugs-Sicherungsplan** (Kaufpreis in Wartezeit)
+- **Mandantenmail** (Zeitrahmen, Kosten, Alternativen)
+- **Grundbuchantrag nach Kraftloserklärung** (Muster)
+
+Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Kostenhinweise
+
+Aufgebotsverfahren-Kosten: Gerichtskosten nach FamGKG, i.d.R. 0,5 Gebühr des Grundschuldbetrags. Notar: Antragstellung KV Nr. 22200 GNotKG (0,5 Gebühr). Bekanntmachungskosten trägt Antragsteller. Alternativlösung über § 67 GBO (eidesstattliche Versicherung beim Grundbuchamt): günstiger, schneller, abhängig von Behördenpraxis.
+
+## Eidesstattliche Versicherung als Alternative
+
+Manche Grundbuchämter akzeptieren eine notariell aufgenommene eidesstattliche Versicherung des Gläubigers, dass der Brief vernichtet oder verloren ist, ohne formales Aufgebotsverfahren (§ 67 GBO). Diese schnellere und günstigere Option sollte zuerst geprüft werden. Im Zweifel vorher beim Grundbuchamt anfragen.
+
+---
+
+## Skill: `037-datenschutz-im-notariat-aktenversand-und-cloudgrenz`
+
+_Wenn es um Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck und Anwendungsbereich
+
+Das Notariat verarbeitet besonders sensible personenbezogene Daten (Vermögensverhältnisse, Gesundheitsdaten in Vorsorgevollmachten, biometrische Daten). Kläre DSGVO-Pflichten, sicheren Aktenversand und Grenzen der Cloud-Nutzung.
+
+Rechtsgrundlagen: DSGVO (EU) 2016/679, BDSG 2018, §§ 29–30 BNotO (Verschwiegenheitspflicht), § 18 BNotO (Aktenaufbewahrung), GwG §§ 8, 10 (GwG-Dokumentation), BeurkG § 54 (Urkundenaufbewahrung), Landesnotargesetze.
+
+## DSGVO-Grundpflichten im Notariat
+
+| Pflicht | Norm | Umsetzung |
+|---|---|---|
+| Verzeichnis der Verarbeitungstätigkeiten | Art. 30 DSGVO | Alle Verarbeitungsprozesse dokumentieren |
+| Datenschutzerklärung | Art. 13, 14 DSGVO | Mandanten bei Erstbeauftragung informieren |
+| Technisch-organisatorische Maßnahmen | Art. 32 DSGVO | Verschlüsselung, Zugangskontrollen |
+| Auftragsverarbeitung | Art. 28 DSGVO | AV-Vertrag mit Software-Anbietern |
+| Datenpanne | Art. 33 DSGVO | Meldung an Aufsichtsbehörde in 72 h |
+| Datenlöschung | Art. 17 DSGVO | Aufbewahrungsfristen beachten |
+
+## Verschwiegenheitspflicht vs. DSGVO
+
+Die notarielle Verschwiegenheitspflicht (§ 29 BNotO) geht über die DSGVO hinaus. Datenweitergabe an Dritte (außer Register und Gerichte) ist nur mit Einwilligung der Beteiligten oder gesetzlicher Grundlage (GwG, Strafrecht) zulässig. Die DSGVO erlaubt Verarbeitung für Erfüllung des Amtes als Rechtsgrundlage (Art. 6 Abs. 1 lit. c, e DSGVO).
+
+## Sicherer Aktenversand
+
+**Unverschlüsselte E-Mail ist keine sichere Übertragung.** DSGVO Art. 32 verlangt angemessene Sicherheit. Optionen:
+- **beN (besonderes elektronisches Notarpostfach):** Ende-zu-Ende-verschlüsselt; für Austausch mit Gerichten, Notaren, Anwälten
+- **Verschlüsselte E-Mail:** S/MIME oder PGP – aufwändig, für Mandantenkommunikation selten praktikabel
+- **Passwortgeschütztes PDF:** Mindeststandard für sensitive Inhalte per E-Mail
+- **Verschlüsselter Cloud-Share-Link:** mit Ablaufdatum und Passwort
+
+## Cloud-Nutzung: Grenzen
+
+Cloud-Dienste für Aktenverarbeitung:
+- **Europäische Cloud** (AWS EU, Microsoft EU, Ionos): grundsätzlich DSGVO-konform mit AV-Vertrag
+- **US-Cloud ohne EU-Verarbeitung:** Drittlandübermittlung → Standard-Vertragsklauseln (Art. 46 DSGVO) nötig
+- **Verboten:** Übertragung notarieller Urkunden an US-Dienste ohne SCCs
+- **KI-Tools:** Verarbeitung von Mandantendaten durch KI-Dienste erfordert DSGVO-Prüfung und AV-Vertrag
+
+## Aufbewahrungsfristen
+
+- Urkundsrolle: 100 Jahre (§ 18 Abs. 1 DONot)
+- Nebenakten: 30 Jahre (§ 50 DONot)
+- GwG-Dokumentation: 5 Jahre (§ 8 Abs. 4 GwG)
+- Personenbezogene Daten (DSGVO): Grundsatz Datensparsamkeit, Löschen nach Wegfall Zweck
+
+## Prüfprogramm
+
+- Ist ein AV-Vertrag mit allen Software-Anbietern abgeschlossen?
+- Wird Aktenversand per E-Mail ausreichend gesichert (PDF-Kennwort oder beN)?
+- Cloud-Dienst EU-basiert und DSGVO-konform?
+- Datenpannenprozess dokumentiert (72h-Meldepflicht)?
+- Mandanten über Datenverarbeitung informiert (Art. 13 DSGVO)?
+
+## Typische Fallen
+
+- Unverschlüsselte E-Mail mit Kauf- oder Erbvertragsanhang → Datenpanne.
+- US-Cloud ohne SCCs → Art. 46 DSGVO-Verstoß.
+- Keine AV-Verträge mit Softwareanbietern → Haftungsrisiko.
+- GwG-Dokumentation zu früh gelöscht.
+- KI-Tools mit Mandantendaten ohne DSGVO-Prüfung genutzt.
+
+## Rechtsquellen
+
+- DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+- § 29 BNotO: https://dejure.org/gesetze/BNotO/29.html
+- BDSG: https://www.gesetze-im-internet.de/bdsg_2018/
+- GwG § 8: https://dejure.org/gesetze/GwG/8.html
+- BNotK Datenschutz-Leitfaden: https://www.bnotk.de
+
+## Output-Formate
+
+- **DSGVO-Checkliste** (alle Pflichten im Überblick)
+- **Aktenversand-Sicherheitsbewertung** (E-Mail / beN / Cloud)
+- **Cloud-Dienst-Prüfbogen** (EU / SCCs / AV-Vertrag)
+- **Datenpannen-Meldeprotokoll** (72h-Verfahren)
+- **Mandanteninfo** (Art. 13 DSGVO-Informationsblatt)
 
 Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.gesetze-im-internet.de | https://www.bnotk.de | https://www.bgh.de | https://www.bverfg.de
 

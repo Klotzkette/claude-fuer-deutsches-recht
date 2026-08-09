@@ -36,7 +36,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-**Version:** 439.0.1
+**Version:** 439.1.0
 **Autor:** Klotzkette
 
 ---

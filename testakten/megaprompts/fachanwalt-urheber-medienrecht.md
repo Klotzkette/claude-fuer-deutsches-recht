@@ -13,9 +13,9 @@ Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-urheber
 5. **fachanwalt-urheber-medienrecht-orientierung** — Wenn es um Fachanwalt fuer Urheber- und Medienrecht — Orientierung in Fachanwalt Urheber Medienrecht geht: prüft Frist, …
 6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen in Fachanwalt Urhe…
 7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Z…
-8. **link-haftung-paragraf-7-tmg** — Prüft Linkhaftung nach Urheberrecht, DDG und DSA. Trennt eigene öffentliche Wiedergabe des Linksetzers von der beschränk…
-9. **youtube-uploader-paragraf-97-urhg-eugh-c-682-18** — Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Tr…
-10. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
+8. **youtube-uploader-paragraf-97-urhg-eugh-c-682-18** — Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Tr…
+9. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordne…
+10. **urheber-abmahnung-pruefen** — Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber M…
 
 ---
 
@@ -607,99 +607,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `link-haftung-paragraf-7-tmg`
-
-_Prüft Linkhaftung nach Urheberrecht, DDG und DSA. Trennt eigene öffentliche Wiedergabe des Linksetzers von der beschränkten Verantwortlichkeit eines Vermittlungsdienstes, gewichtet Gewinnerzielungsabsicht und Kenntnis, sichert Hinweis und Reaktion und liefert Abmahnungs-, Verteidigungs- oder Entfernungstext._
-
-# Linkhaftung nach Urheberrecht, DDG und DSA
-
-## 1. Direktstart
-
-Lies zuerst die verlinkende Veröffentlichung, die Zielseite, Screenshots, Quelltext- oder Zeitstempel, Hinweise des Rechtsinhabers und Reaktionen des Betreibers. Wenn nur eine URL vorliegt, halte Ziel, Veröffentlichungszeit, Abrufzeit, Weiterleitungskette und sichtbare Zugangsbeschränkungen fest. Frage erst danach höchstens zwei Punkte nach, die Anspruch oder Eilmaßnahme tatsächlich verändern.
-
-Liefere als ersten Baustein eine Linkmatrix mit fünf Spalten: Linksetzer und Zweck, Zielinhalt und Rechte, Zugangsweg, Kenntnis oder Gewinnerzielungsabsicht, Anspruch und nächster Schritt.
-
-## 2. Rechtsfrage richtig trennen
-
-Prüfe nicht pauschal eine angebliche Plattformhaftung. Trenne drei Rollen:
-
-1. Der Linksetzer kann durch den Link selbst eine urheberrechtliche öffentliche Wiedergabe vornehmen.
-2. Wer sich den Zielinhalt erkennbar zu eigen macht, kann für die Aussage oder Rechtsverletzung wie für eigenen Inhalt einstehen.
-3. Ein Vermittlungsdienst kann für fremde Informationen den Haftungsregeln der Artikel 4 bis 8 DSA und des DDG unterfallen. Das ist eine andere Prüfung als die Verantwortlichkeit des redaktionellen Linksetzers.
-
-Ordne daneben Persönlichkeitsrecht, Wettbewerbsrecht, Markenrecht oder Strafrecht nur ein, wenn der konkrete Zielinhalt diese Anspruchsgrundlage trägt.
-
-## 3. Normenanker
-
-- UrhG Paragraf 15 Absatz 2 und Paragraf 19a: öffentliche Wiedergabe und öffentliches Zugänglichmachen.
-- UrhG Paragraf 51: Zitatrecht nur bei eigenständigem Zitatzweck, erkennbarem Zusammenhang und gebotenem Umfang.
-- UrhG Paragraf 97 und Paragraf 97a: Unterlassung, Schadensersatz und Anforderungen an die Abmahnung.
-- Artikel 3 Absatz 1 der Richtlinie 2001/29/EG: unionsrechtlicher Ausgangspunkt der öffentlichen Wiedergabe.
-- DSA Artikel 4 bis 6: beschränkte Verantwortlichkeit für reine Durchleitung, Caching und Hosting.
-- DSA Artikel 8 und Artikel 16: keine allgemeine Überwachungspflicht; Melde- und Abhilfeverfahren für Hostingdienste.
-- DDG Paragraf 7: Geltung der DSA-Haftungsregeln für Diensteanbieter; das frühere TMG ist seit dem 14. Mai 2024 nicht mehr der aktuelle Ausgangspunkt.
-- DDG Paragraf 8: Sperranspruch bei Verletzungen geistigen Eigentums, wenn dem Rechtsinhaber keine andere Abhilfe möglich ist.
-- BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog sowie UWG Paragraf 8: delikts- oder wettbewerbsrechtliche Ansprüche nur nach gesonderter Tatbestandsprüfung.
-
-## 4. Entscheidungsanker
-
-- EuGH, Urteil vom 13.02.2014, C-466/12, Svensson: Ein Link auf mit Zustimmung frei zugängliche Werke erreicht grundsätzlich kein neues Publikum; Zugangsbeschränkungen und Zustimmungslage bleiben entscheidend.
-- EuGH, Urteil vom 08.09.2016, C-160/15, GS Media: Bei einem nicht gewinnorientierten Linksetzer sind Kenntnis und Erkennbarkeit der rechtswidrigen Erstveröffentlichung konkret zu prüfen. Bei Gewinnerzielungsabsicht wird Kenntnis vermutet; der Linksetzer muss die erforderlichen Nachforschungen darlegen.
-- BGH, Urteil vom 18.06.2015, I ZR 74/14, Haftung für Hyperlink: Ein geschäftlicher Link begründet nicht allein Verantwortung. Zueigenmachen, erkennbare Rechtsverletzung, Hinweis, zumutbare Prüfung und Reaktion sind getrennt zu würdigen.
-
-Nutze die Entscheidungen nicht als Schlagwort. Stelle jeweils fest, welche tatsächliche Weiche des Falls der Leitsatz steuert und ob spätere unionsrechtliche Rechtsprechung den nationalen Maßstab ergänzt.
-
-## 5. Tatbestandsmatrix
-
-### 5.1. Zielinhalt und Rechte
-
-Bestimme Werk, Lichtbild, Film, Text, Datenbank, Marke oder persönlichkeitsrechtlich relevante Aussage. Kläre Rechteinhaber, Lizenzkette, ursprüngliche Veröffentlichung, Zustimmung und territoriale Reichweite. Ein Link auf rechtmäßig frei zugänglichen Inhalt ist anders zu behandeln als ein Link auf eine Umgehungsseite, ein geleaktes Dokument oder eine offensichtlich unbefugte Kopie.
-
-### 5.2. Technischer Zugang
-
-Halte fest, ob der Link nur verweist, einbettet, framed, eine Paywall oder sonstige Schutzmaßnahme umgeht, auf einen Download führt oder über Weiterleitungen ein anderes Ziel erreicht. Sichere Datum und Uhrzeit, weil Zielinhalte austauschbar sind.
-
-### 5.3. Zweck und Kenntnis
-
-Prüfe Gewinnerzielungsabsicht bezogen auf den konkreten Internetauftritt. Erfasse Abmahnung, Hinweis-E-Mail, Presseanfrage, interne Freigabe, redaktionelle Recherche und erkennbare Warnsignale. Trenne positive Kenntnis, fahrlässige Unkenntnis und die unionsrechtliche Kenntnisvermutung.
-
-### 5.4. Zueigenmachen und Kontext
-
-Werte Überschrift, Begleittext, Vorschaubild, Gestaltung, Quelle und Distanzierung aus. Eine formelhafte Distanzierung ersetzt keine Prüfung. Entscheidend ist, ob der verständige Nutzer den fremden Inhalt als eigene Aussage oder als bloßen Quellenhinweis wahrnimmt.
-
-### 5.5. Reaktion nach Hinweis
-
-Dokumentiere Eingang, Konkretheit und Belege des Hinweises, interne Weiterleitung, Prüfung, Entfernung oder Sperrung und Antwortzeit. Prüfe, ob nur der einzelne Link, ein wiederkehrendes Muster oder ein klar bezeichnetes Werk betroffen ist.
-
-## 6. Beweislast und Beweissicherung
-
-Der Anspruchsteller muss Werk, Berechtigung, konkrete Linkhandlung und Rechtsverletzung schlüssig belegen. Kenntnis, Gewinnerzielungsabsicht und Umgehungswirkung sind anhand der verfügbaren Indizien zu würdigen. Der gewinnorientierte Linksetzer muss seine Nachforschungen und eine widerlegte Kenntnisvermutung nachvollziehbar dokumentieren.
-
-Sichere vollständige Screenshots mit Adresszeile und Zeitstempel, HTML- oder Weiterleitungsdaten, ursprüngliche und spätere Zielstände, Veröffentlichungs- und Änderungszeit, Hinweisnachricht, Empfangsnachweis und Reaktionsprotokoll. Behaupte keinen historischen Seitenstand ohne belastbaren Nachweis.
-
-## 7. Arbeitsablauf
-
-1. Erstelle eine Chronologie von Erstveröffentlichung, Linksetzung, Hinweis, Prüfung und Reaktion.
-2. Ordne für jeden Link Zielwerk, Rechteinhaber, Zustimmungslage und Zugangshürde zu.
-3. Entscheide zuerst öffentliche Wiedergabe, danach Zueigenmachen und erst anschließend eine etwaige Vermittlerhaftung.
-4. Prüfe Gewinnerzielungsabsicht und Kenntnis mit konkreten Belegen und Gegenindizien.
-5. Bestimme Anspruch, Wiederholungsgefahr, Dringlichkeit, Gerichtsstand, Streitwert und erforderliche Anlagen.
-6. Formuliere das passende Produkt und führe einen Gegencheck aus Sicht der Gegenseite durch.
-
-## 8. Arbeitsprodukte
-
-- Linkmatrix mit URL, Zielinhalt, Rechtekette, Zugang, Kenntnisindiz, Rechtsfolge und Beleg.
-- Entfernungsschreiben mit genauer Linkbezeichnung, Werk, Berechtigung, Rechtsgrund, Frist und Belegen.
-- Abmahnungsprüfung mit Anspruch, Wiederholungsgefahr, Unterlassungsfassung, Kosten, Einwendungen und Reaktionsvorschlag.
-- Verteidigungsschreiben mit fehlender öffentlicher Wiedergabe, fehlendem Zueigenmachen, Kenntnislage, Reaktion und Beweisangeboten.
-- Eilantrags- oder Klagebaustein mit Antrag, konkreter Verletzungsform, Dringlichkeit, Glaubhaftmachung und Anlagenverzeichnis.
-
-## 9. Schlusskontrolle
-
-Prüfe vor Ausgabe: Ist das DDG statt des aufgehobenen TMG als aktueller nationaler Rahmen verwendet? Sind Linksetzer und Vermittlungsdienst getrennt? Ist die Zustimmungslage belegt? Sind Gewinnerzielungsabsicht, Kenntnis und Hinweisreaktion fallbezogen gewürdigt? Ist jede URL mit einem gesicherten Seitenstand verbunden? Passt die begehrte Unterlassung zur konkreten Verletzungsform, ohne rechtmäßige Links pauschal zu erfassen?
-
----
-
 ## Skill: `youtube-uploader-paragraf-97-urhg-eugh-c-682-18`
 
 _Prüft Urheberrechtsverletzungen durch Nutzeruploads und die Haftung von Plattform, Uploader und weiteren Beteiligten. Trennt Alt- und Neurecht, öffentliche Wiedergabe, UrhDaG, Kenntnis, Blockierung, Nutzerrechte, Auskunft und Schaden und liefert Notice, Klage und Verteidigung._
@@ -1053,6 +960,314 @@ Bevor die Opt-out-Strategie und ggf. Klage eingeleitet wird, klaere:
 - **Auskunftsanspruch § 101 UrhG bei KI-Trainingsdaten:** Linie der Instanzgerichte (LG / OLG) sowie BGH-Linie zu TDM und Auskunft / Schadensersatz live ueber dejure.org und openjur.de verifizieren.
 - **CDPA, KI-Office, Verlegerklagen:** Mehrere Verlegerklagen gegen GPAI-Anbieter sind in EU-Mitgliedstaaten anhaengig. Konkrete Aktenzeichen und Verfahrensstand live ueber nationale Gerichtsdatenbanken und curia.europa.eu pruefen.
 - **DSA + Empfehlungssysteme:** Falls KI-generierte Inhalte ueber VLOPs verbreitet werden, parallele DSA-Pflichten beachten (Art. 28 Abs. 2 DSA — Minderjaehrigenschutz, Art. 34 DSA — Risikobewertung).
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `urheber-abmahnung-pruefen`
+
+_Wenn es um Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen
+
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
+- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung).
+
+### Urheber-Abmahnung prüfen
+
+## Kernsachverhalt & Mandantenfragen
+
+Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empfänger – unbedachte Anerkenntnis, vorbehaltlose Unterlassungserklärung, überhöhter Streitwert – kosten oft mehr als eine sofortige anwaltliche Reaktion. Gleichzeitig ist die Abmahnung für den Abmahner das strategische Instrument, um Wiederholungsgefahr zu dokumentieren und einen Vollstreckungstitel zu schaffen.
+
+**8 Kaltstart-Rückfragen:**
+
+1. Was ist der genaue Vorwurf? Welches Werk soll verletzt worden sein (Foto, Text, Musik, Software)? Wie lautet die Verletzungshandlung?
+2. Wann wurde die Abmahnung erhalten und welche Frist zur Unterlassungserklärung ist gesetzt?
+3. Ist der Mandant Verbraucher oder Unternehmer? Bei Verbraucher-Abmahnung: § 97a Abs. 3 UrhG (Streitwertbegrenzung EUR 1.000) prüfen.
+4. Welche Beweise legt der Abmahner für die Rechtsverletzung vor (Screenshot, Logfile, IP-Adressen-Auskunft)?
+5. Hat der Mandant die Verletzungshandlung begangen oder könnte ein Dritter (Familie, Untermieter, Gäste im WLAN) verantwortlich sein?
+6. Wurde bereits eine Reaktion abgegeben oder etwas anerkannt, das Ansprüche auslösen könnte?
+7. Hat der Abmahner die Aktivlegitimation belegt (Lizenzkette, Originalurheber, VG-Auftrag)?
+8. Liegt eine "massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
+
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|---|---|
+| § 2 UrhG | Werkarten und Schöpfungshöhe; persönliche geistige Schöpfung |
+| § 2 Abs. 2 UrhG | Werkdefinition: Individualität als Mindestschwelle |
+| § 7 UrhG | Urheber: stets natürliche Person der Schöpfung |
+| § 15 UrhG | Ausschließliche Verwertungsrechte: Übersicht |
+| § 16 UrhG | Vervielfältigungsrecht |
+| § 17 UrhG | Verbreitungsrecht |
+| § 19a UrhG | Recht der öffentlichen Zugänglichmachung (Internet, Filesharing) |
+| § 31 UrhG | Nutzungsrechte; ausschließliche Lizenz = Aktivlegitimation |
+| § 51 UrhG | Zitatrecht; Voraussetzungen: Beleg, Erkennbarkeit |
+| § 51a UrhG | Karikatur, Parodie, Pastiche (seit 2021) |
+| § 53 UrhG | Privatkopie; nicht aus rechtswidriger Quelle |
+| § 59 UrhG | Panoramafreiheit |
+| § 69a UrhG | Software-Schutz; niedrige Schöpfungsschwelle |
+| § 72 UrhG | Lichtbilder (einfache Fotos): 50 Jahre Schutzfrist |
+| § 97 Abs. 1 UrhG | Unterlassungsanspruch |
+| § 97 Abs. 2 UrhG | Schadensersatz: drei Berechnungsalternativen |
+| § 97a UrhG | Abmahnung: Form, Inhalt, Kostendeckelung |
+| § 97a Abs. 3 UrhG | Streitwertbegrenzung EUR 1.000 bei Verbraucher-Abmahnung |
+| § 97a Abs. 4 UrhG | Kostenerstattung bei unberechtigter Abmahnung |
+| § 101 UrhG | Auskunftsanspruch gegen Verletzer und Dritte |
+| § 102 UrhG | Verjährung: 3 Jahre / 10 Jahre Restschadensersatz |
+
+---
+
+## Leitentscheidungen
+
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+
+---
+
+## Prüfschema Urheber-Abmahnung
+
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Werkqualität: Werkart prüfen (§ 2 UrhG); persönliche geistige Schöpfung vorhanden? Kleine Münze ausreichend | § 2 UrhG |
+| 2 | Aktivlegitimation: Ist Abmahner Urheber, Inhaber ausschließlicher Lizenz oder VG-Wahrnehmungsberechtigter? Lizenzkette dokumentiert? | §§ 7, 31 UrhG |
+| 3 | Verletzungshandlung: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Zeitpunkt und Umfang der Handlung? | §§ 16, 17, 19a UrhG |
+| 5 | Schranken prüfen: Zitatrecht § 51, Parodie § 51a, Privatkopie § 53, Panoramafreiheit § 59? | §§ 51, 51a, 53, 59 UrhG |
+| 6 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret, Frist gesetzt, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
+| 7 | Verbraucher-Abmahnung: § 97a Abs. 3 UrhG – Streitwert begrenzt auf EUR 1.000 bei einfach gelagerter Verletzung | § 97a Abs. 3 UrhG |
+| 9 | Unterlassungserklärung prüfen: Ist die vorformulierte Erklärung zu weit gefasst? Modifizierung nötig? | § 97a UrhG |
+| 10 | Verjährung prüfen: 3 Jahre ab Kenntnis (§ 102 UrhG i.V.m. § 195 BGB); Restschadensersatz 10 Jahre | § 102 UrhG |
+| 11 | Strategie festlegen: modifizierte UE, Zurückweisung, Vergleich, negative Feststellungsklage | § 256 ZPO |
+| 12 | Unberechtigte Abmahnung: Gegenanspruch § 97a Abs. 4 UrhG prüfen | § 97a Abs. 4 UrhG |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abmahnung Urheberrecht prüfen und reagieren | Gegendarstellung / UE; Template unten |
+| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
+| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner prüfen § 97a Abs. 4 UrhG |
+| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbausteine
+
+### Baustein 1 – Modifizierte Unterlassungserklärung (Hamburger Brauch)
+
+```
+[Name des Mandanten, Anschrift]
+
+An [Abmahnkanzlei]
+Aktenzeichen Abmahner: [...]
+
+Modifizierte strafbewehrte Unterlassungserklärung
+(ohne Anerkennung einer Rechtspflicht)
+
+Hiermit verpflichtet sich [Name des Mandanten],
+
+es unter Vermeidung einer für jeden Fall der schuldhaften
+Zuwiderhandlung zu zahlenden Vertragsstrafe, deren Höhe
+von der Gläubigerseite nach billigem Ermessen (§ 315 BGB)
+zu bestimmen und im Streitfall durch das zuständige Gericht
+zu überprüfen ist,
+
+zu unterlassen,
+
+das Werk [genaue Bezeichnung: z.B. Lichtbild mit Beschreibung,
+Datum der Aufnahme / Erstveröffentlichung]
+
+ohne Einwilligung der Rechteinhaberin zu vervielfältigen
+(§ 16 UrhG) oder öffentlich zugänglich zu machen (§ 19a UrhG).
+
+Diese Erklärung:
+1. gilt ausschließlich für die benannte konkrete Verletzungsform
+ und kerngleiche Handlungen
+2. enthält kein Anerkenntnis bzgl. Schadensersatz, Auskunft
+ oder Kostenforderungen
+3. begrenzt die Kostenforderung auf § 97a Abs. 3 UrhG soweit
+ der Mandant als Verbraucher ohne gewerbliche Tätigkeit gehandelt hat
+
+[Datum]
+[Unterschrift Mandant]
+[Begleitschreiben: kein Anerkenntnis]
+```
+
+### Baustein 2 – Antwortschreiben: Zurückweisung mangels Aktivlegitimation
+
+```
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
+
+Ihre Abmahnung vom [Datum]
+
+Sehr geehrte Damen und Herren,
+
+wir zeigen die anwaltliche Vertretung des/der [Mandant] an.
+
+Ihre Abmahnung wird aus folgenden Gründen zurückgewiesen:
+
+I. Fehlende Aktivlegitimation
+
+Sie haben bislang nicht belegt, dass Ihre Mandantschaft Inhaber
+ausschließlicher Nutzungsrechte an dem in Rede stehenden Werk ist.
+
+Insbesondere fehlt:
+– Nachweis der Urheberschaft (Name des Urhebers, Zeitpunkt der Schöpfung)
+– Lizenzkette (Übertragungsvertrag mit Nachweis der ausschließlichen Lizenz)
+– Bei VG: Wahrnehmungsvertrag für den in Frage stehenden Nutzungsbereich
+
+Wir fordern Sie auf, die Aktivlegitimation innerhalb von [7] Tagen vollständig zu belegen.
+
+II. Bestreiten der Verletzungshandlung
+
+[ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
+Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
+kommen [Familienangehörige, Gäste] in Betracht.]
+
+III. Streitwertbegrenzung § 97a Abs. 3 UrhG
+
+Der Mandant ist Verbraucher. Die einfach gelagerte Verletzung
+außerhalb gewerblicher Tätigkeit begrenzt den Streitwert für die
+Berechnung der Abmahnkosten auf EUR 1.000 (§ 97a Abs. 3 UrhG).
+
+[Ort, Datum]
+[Unterschrift Kanzlei]
+```
+
+### Baustein 3 – Negative Feststellungsklage (bei unberechtigter Abmahnung)
+
+```
+AN DAS LANDGERICHT [...]
+
+Kläger: [Mandant, Anschrift]
+Beklagte: [Abmahner, Anschrift]
+
+Streitwert: [nach Abmahnforderung]
+
+KLAGEBEGRÜNDUNG – NEGATIVE FESTSTELLUNGSKLAGE
+
+Die Klage richtet sich gegen unberechtigte Inanspruchnahme
+durch die beklagte Partei.
+
+Es wird beantragt festzustellen, dass dem Beklagten gegenüber
+dem Kläger aus der Nutzung des Werks [Bezeichnung] keinerlei
+urheberrechtliche Ansprüche – insbesondere nicht auf Unterlassung,
+Schadensersatz oder Auskunft – zustehen.
+
+Begründung:
+[Werkqualität verneint: Das verwendete Bild/Text ist gemeinfrei
+/ unterschreitet die Schöpfungshöhe § 2 Abs. 2 UrhG / ist ein
+Lichtbild § 72 UrhG mit abgelaufener Schutzfrist]
+ODER
+[Aktivlegitimation fehlt: Beklagte hat Rechtekette nicht belegt]
+ODER
+[Erlaubnissachverhalt: Nutzung war durch § 51 UrhG Zitatrecht /
+§ 51a UrhG Parodie gerechtfertigt]
+
+[Ort, Datum, Unterschrift]
+```
+
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Konstellation | Beweislast |
+|---|---|
+| Werkqualität | Abmahner trägt Schutzwürdigkeit; bei bekanntem Werktyp (Foto, Text) vermutet; bei sehr kurzem Text: bestreiten möglich |
+| Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig |
+| Verletzungshandlung (Filesharing) | Abmahner trägt IP-Adressen-Zuordnung und Zeitpunkt; Anschlussinhaber bedient sekundäre Darlegungslast |
+| Schranke (Zitatrecht, Parodie) | Nutzer/Beklagte trägt Voraussetzungen der Schranke |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Gesetzte Frist (typisch 5–14 Tage) | Frist zur Abgabe der Unterlassungserklärung; bei Überschreitung droht einstweilige Verfügung | § 97a UrhG |
+| 3 Jahre | Regelverjährung Schadensersatz; ab Kenntnis von Verletzung und Person | § 102 UrhG, § 195 BGB |
+| 10 Jahre | Restschadensersatz ohne Kenntnis | § 102 UrhG |
+| Sofort | Negative Feststellungsklage: nach Erhalt der Abmahnung möglich; schafft günstigen Gerichtsstand | § 256 ZPO |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| "Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
+| "Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Abmahnkosten (Verbraucher, einfach gelagert) | § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 → ca. EUR 124 Anwaltsgebühr (VV-RVG 2300, 1,3) |
+| Abmahnkosten (Unternehmen, gewerblich) | Streitwert EUR 6.000–50.000 je nach Werk und Reichweite; EUR 500–2.000 Anwaltskosten |
+| Verletzeraufschlag | Umstritten; BGH lässt bis 100 % zu; in der Praxis oft 50–100 % |
+| Unberechtigte Abmahnung | § 97a Abs. 4 UrhG: Kostenerstattung; Streitwert = Abmahnforderung |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Berechtigte Verletzung, Verbraucher | Modifizierte UE abgeben; Kosten auf § 97a Abs. 3 UrhG begrenzen; Schadensersatz verhandeln |
+| Filesharing, unklare Täterschaft | Sekundäre Darlegungslast bedienen; Alternativtäter benennen; keine UE-Abgabe ohne Prüfung |
+| Gewerbliche Bildnutzung ohne Lizenz | Unterlassungserklärung modifiziert; Lizenzanalogie verhandeln; keine Wildwest-Zahlung |
+| Seriell wirkende Massenabmahnung | § 97a Abs. 4 UrhG prüfen; Anzeige beim zuständigen Gericht; Schutzschrift |
+| Verjährung droht auszulaufen | Negative Feststellungsklage vor Ablauf der Verjährung des Abmahners |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – ergänzende Tiefenprüfung
+- `fachanwalt-urheber-medienrecht-mod-erklaerung` – modifizierte Unterlassungserklärung
+- `gegendarstellung-presse` – bei persönlichkeitsrechtlichen Aspekten
+- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` – bei KI-Training-Themen
+
+---
+
+## Triage-Fragen bei Urheber-Abmahnungs-Prüfung
+
+Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
+1. Besteht Werkqualitaet (§ 2 II UrhG — persoenlich-geistige Schoepfung, Schoeupfungshoehe)?
+2. Ist der Abmahnende tatsaechlich der Rechteinhaber oder ein autorisierter Lizenznehmer (Aktivlegitimation)?
+3. Greift eine gesetzliche Schranke — Zitat, Parodie, Unterrichtsgebrauch, TDM?
+4. Wurde die Frist zur Reaktion auf die Abmahnung korrekt berechnet (regelmaeßig 7-14 Tage, Fristbeginn = Zugang)?
+
+## Aktuelle Rechtsprechung
+
+
+
+
+---
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

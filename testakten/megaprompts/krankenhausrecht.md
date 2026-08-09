@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-10 von 69 Skills des Plugins `krankenhausrecht`.
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Krankenhausrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
 2. **kaltstart-triage** — Wenn es um Krankenhausrecht — Allgemein in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden…
-3. **triage-notaufnahme-ueberlastung-dokumentation** — Steuert Routine- und Überlastungstriage in der Notaufnahme nach aktuellem Rechtsstand. Trennt Ersteinschätzung, Re-Triag…
-4. **triage-notaufnahme-vergaberecht-krankenhaus** — Bereitet die Beschaffung und Einführung eines Triage- oder Notaufnahme-Systems im Krankenhaus vor. Verknüpft Bedarfsbesc…
-5. **vorhalteverguetung-leistungsgruppen-krankenhausreform** — Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Bew…
-6. **sektorenuebergreifende-versorgung-level-ii-klinik** — Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisl…
-7. **krankenhausfinanzierungsgesetz-khg-grundstruktur** — Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisla…
-8. **md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung** — Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden …
+3. **vorhalteverguetung-leistungsgruppen-krankenhausreform** — Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Bew…
+4. **sektorenuebergreifende-versorgung-level-ii-klinik** — Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisl…
+5. **krankenhausfinanzierungsgesetz-khg-grundstruktur** — Wenn es um Krankenhausfinanzierungsgesetz KHG Grundstruktur in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweisla…
+6. **triage-notaufnahme-ueberlastung-dokumentation** — Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
+7. **md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung** — Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden …
+8. **triage-notaufnahme-vergaberecht-krankenhaus** — Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen u…
 9. **investitionsfoerderung-einzelfoerderung** — Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden E…
 10. **klage-klinikakten-bescheide-klinikverbund** — Wenn es um Klage gegen Budgetbescheid oder Schiedsstellenentscheidung in Krankenhausrecht geht: erstellt den passenden E…
 
@@ -314,151 +314,6 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `triage-notaufnahme-ueberlastung-dokumentation`
-
-_Steuert Routine- und Überlastungstriage in der Notaufnahme nach aktuellem Rechtsstand. Trennt Ersteinschätzung, Re-Triage, Ressourcenknappheit, Organisationsverantwortung und Haftungsaufarbeitung; berücksichtigt die Nichtigkeit des Paragraf 5c IfSG und liefert SOP, Ereignischronologie, Beweismatrix und Maßnahmenplan._
-
-# Triage, Überlastung und Dokumentation in der Notaufnahme
-
-## 1. Direktstart
-
-Lies Notaufnahmeprotokoll, Triagebogen, Kurve, Dienstplan, Bettenstatus, Leitstellenkommunikation und SOP zuerst. Liefere dann:
-
-1. eine Minutenchronologie vom Erstkontakt bis zur Behandlung oder Verlegung,
-2. den medizinischen Triagepfad mit Erst- und Re-Triage,
-3. die organisatorischen Engpässe mit verantwortlicher Funktion,
-4. die rechtlich offenen Punkte und
-5. die sofortige Schutz- oder Aufklärungsmaßnahme.
-
-Frage nur nach, wenn Zeitpunkt, Zustandsänderung, Verantwortlicher oder konkreter Ressourcenengpass nicht aus den Unterlagen hervorgeht.
-
-## 2. Rechtsstand
-
-- BGB Paragraf 630a bis Paragraf 630h steuern Behandlungsvertrag, Information, Einwilligung, Dokumentation und beweisrechtliche Folgen.
-- GG Artikel 3 Absatz 3 Satz 2 schützt vor Benachteiligung wegen einer Behinderung.
-- BVerfG, Beschluss vom 16. Dezember 2021 - 1 BvR 1541/20: Der Gesetzgeber musste wirksamen Schutz vor Benachteiligungsrisiken behinderter Menschen bei pandemiebedingter Triage schaffen.
-- BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23: Paragraf 5c IfSG ist mit Artikel 12 Absatz 1 GG unvereinbar und nichtig. Die Vorschrift darf deshalb nicht als geltende Triagegrundlage oder SOP-Vorgabe behandelt werden.
-- Landesberufsrecht, Krankenhausrecht, Rettungsdienstrecht, G-BA-Vorgaben und fachlich anerkannte Triage- oder Notfallstandards sind nach Bundesland, Einrichtung und Zeitpunkt aktuell zu prüfen.
-- Empfehlungen medizinischer Fachgesellschaften können den fachlichen Standard erläutern, sind aber keine gesetzliche Ermächtigungsgrundlage.
-
-## 3. Falltrennung
-
-| Lage | Leitfrage | Primärer Nachweis |
-| --- | --- | --- |
-| Routine-Ersteinschätzung | Wurde Dringlichkeit nach eingeführtem System richtig erfasst? | Triagebogen, Vitalwerte, Qualifikation |
-| Wartezeit und Zustandsänderung | War eine rechtzeitige Re-Triage organisiert und durchgeführt? | Verlauf, Wartebereichsprotokoll, Alarm |
-| Überlastung ohne absolute Knappheit | Wurden Personal, Räume, Verlegung und Aufnahmesteuerung ausgeschöpft? | Dienstplan, Bettenboard, Leitstellenkontakt |
-| Tatsächliche Ressourcenknappheit | Welche konkrete Ressource fehlte wann und welche diskriminierungsfreie Entscheidung wurde dokumentiert? | Kapazitätsstatus, Entscheidungsteam, Kriterien |
-| Schadensfall | Welche Verzögerung war für welche gesundheitliche Folge ursächlich? | vollständige Behandlungsakte, Gutachtenfragen |
-
-## 4. Prüfroutine
-
-1. Erstkontakt, Beschwerden, Vitalparameter, Schmerz, Triagekategorie und qualifizierte Person feststellen.
-2. Wartezeit, Kontrollen, Zustandsänderungen, Beschwerden von Angehörigen und Re-Triage lückenlos ordnen.
-3. Behandlungsplätze, Personal, Diagnostik, Intensivkapazität, Verlegung und Leitstellenstatus minutengenau rekonstruieren.
-4. Medizinischen Standard, Organisationspflicht und persönliche Entscheidung getrennt bewerten.
-5. Benachteiligungsrisiken und sachfremde Kriterien ausdrücklich prüfen; Paragraf 5c IfSG nicht anwenden.
-6. Dokumentationslücken, nachträgliche Einträge, Zeitstempelabweichungen und Verantwortungswechsel markieren.
-7. Aus jeder Abweichung eine Sofortmaßnahme, Ursachenanalyse, Dauermaßnahme und Wirksamkeitskontrolle ableiten.
-
-## 5. Arbeitsprodukte
-
-### 5.1. Ereignischronologie
-
-| Uhrzeit | Patientenzustand | Handlung oder Unterlassen | Verantwortliche Funktion | Quelle | offene Frage |
-| --- | --- | --- | --- | --- | --- |
-
-### 5.2. Beweismatrix
-
-| Prüfpunkt | fachlicher oder rechtlicher Maßstab | Beleg | Gegenbeleg | Bewertung | Gutachtenfrage |
-| --- | --- | --- | --- | --- | --- |
-
-### 5.3. Maßnahmenplan
-
-| Ursache | Sofortmaßnahme | Dauermaßnahme | Verantwortlicher | Termin | Wirksamkeitsnachweis |
-| --- | --- | --- | --- | --- | --- |
-
-## 6. Qualitätskontrolle
-
-1. Routine-Triage und absolute Ressourcenknappheit sind nicht gleichgesetzt.
-2. Jede Uhrzeit ist einer Originalquelle zugeordnet.
-3. Medizinische Priorisierung, Organisationsmangel und Diskriminierungsfrage bleiben getrennt.
-4. Paragraf 5c IfSG wird nur als nichtige historische Vorschrift erläutert.
-5. Empfehlungen werden als fachliche Quelle, nicht als Gesetz bezeichnet.
-6. Das Ergebnis enthält SOP-Änderung oder Verfahrensprodukt statt bloßer Kritik.
-
----
-
-## Skill: `triage-notaufnahme-vergaberecht-krankenhaus`
-
-_Bereitet die Beschaffung und Einführung eines Triage- oder Notaufnahme-Systems im Krankenhaus vor. Verknüpft Bedarfsbeschreibung, Los- und Verfahrenswahl, Eignung, Wertung, Datenschutz, Interoperabilität, Schulung und Abnahme; liefert Leistungsbeschreibung, Kriterienmatrix, Vergabevermerk und Einführungsplan._
-
-# Triage-System für die Notaufnahme beschaffen und einführen
-
-## 1. Direktstart
-
-Lies Bedarfsanforderung, bestehende SOP, Fallzahlen, Systemlandschaft, Budget, Zeitplan und Beschaffungsunterlagen. Liefere zuerst ein Beschaffungscockpit mit Bedarf, geschätztem Auftragswert, Vergaberegime, kritischen Muss-Anforderungen, Datenschutz- und Interoperabilitätsrisiken sowie nächstem Dokument.
-
-## 2. Normen- und Quellenrahmen
-
-- GWB Paragraf 97 ff.: Wettbewerbsgrundsätze, Verfahrensrahmen und Rechtsschutz oberhalb des Schwellenwerts.
-- VgV: Auftragswertschätzung, Verfahrenswahl, Leistungsbeschreibung, Eignung, Zuschlagskriterien, Dokumentation und Kommunikation.
-- UVgO oder Landesrecht: Unterschwellenvergabe nach anwendbarer Haushalts- und Verwaltungsvorschrift.
-- Datenschutz-Grundverordnung Artikel 5, Artikel 6, Artikel 9, Artikel 25, Artikel 28 und Artikel 32: Gesundheitsdaten, Datenschutz durch Technikgestaltung, Auftragsverarbeitung und Sicherheit.
-- Krankenhaus-, Medizinprodukte- und IT-Sicherheitsrecht: Systemklassifikation, Betreiberpflichten, Schnittstellen und klinischer Einsatz nach konkretem Produkt prüfen.
-- BVerfG, Beschluss vom 23. September 2025 - 1 BvR 2284/23 und 1 BvR 2285/23: Paragraf 5c IfSG ist nichtig und darf nicht als verbindliche fachliche Muss-Anforderung ausgeschrieben werden.
-
-## 3. Leistungsbeschreibung
-
-Beschreibe funktional und herstellerneutral:
-
-1. Einsatzort, Fallzahl, Nutzerrollen und Betriebszeiten.
-2. Ersteinschätzung, Re-Triage, Warnwerte und Eskalationslogik.
-3. Schnittstellen zu Krankenhausinformationssystem, Labor, Bildgebung, Bettenboard und Rettungsleitstelle.
-4. Rollen, Rechte, Protokollierung, Ausfallbetrieb, Datensicherung und Löschung.
-5. Schulung, Testbetrieb, Migration, Abnahme, Support, Reaktionszeiten und Exit.
-6. Nachweis des eingeführten fachlichen Systems, ohne ein bestimmtes Produkt verdeckt vorzugeben.
-
-## 4. Vergabematrix
-
-| Punkt | Festlegung | Beleg | Risiko | nächste Handlung |
-| --- | --- | --- | --- | --- |
-| Auftragsgegenstand und Lose | [Software, Implementierung, Betrieb, Schulung] | Bedarfsakte | unzulässige Bündelung | Losentscheidung begründen |
-| Auftragswert | [Betrag und Laufzeit] | Markterkundung | falsches Verfahren | Schätzung dokumentieren |
-| Mindestanforderung | [funktionaler Bedarf] | klinische SOP | Produktlenkung | neutral formulieren |
-| Zuschlagskriterium | [Qualität und Preis] | Bewertungsleitfaden | intransparente Wertung | Unterkriterien festlegen |
-| Datenverarbeitung | [Rolle und Hosting] | Datenfluss | Gesundheitsdatenrisiko | Vertrag und TOM prüfen |
-| Abnahme | [Testszenario] | Abnahmeplan | produktiver Fehlstart | Pilot und Rückfallplan |
-
-## 5. Einführungs- und Abnahmeplan
-
-1. Prozessaufnahme und klinische Freigabe.
-2. Datenschutz-, Sicherheits- und Schnittstellenprüfung.
-3. Konfiguration ohne unzulässige oder sachfremde Priorisierungskriterien.
-4. Schulung nach Nutzerrolle und dokumentierter Kompetenzprüfung.
-5. Pilotbetrieb mit Testfällen, Fehlerspeicher und Abnahmekriterien.
-6. Produktivsetzung mit Fallback, Support, Re-Triage-Audit und Wirksamkeitskontrolle.
-
-## 6. Arbeitsprodukte
-
-- funktionale Leistungsbeschreibung,
-- Eignungs- und Zuschlagskriterienmatrix,
-- Vergabevermerk einschließlich Los- und Verfahrenswahl,
-- Datenschutz- und Schnittstellenanlage,
-- Test-, Abnahme- und Rolloutplan,
-- Antwort auf Bieterfrage oder Rüge.
-
-## 7. Qualitätskontrolle
-
-1. Klinische Anforderung und vergaberechtliche Wertung sind getrennt.
-2. Jede Muss-Anforderung ist fachlich erforderlich und prüfbar.
-3. Kein abgelaufenes oder nichtiges Gesetz wird als Produktspezifikation verwendet.
-4. Bewertungsmethode und Unterkriterien sind vor Angebotsöffnung festgelegt.
-5. Datenschutz, Interoperabilität, Ausfallbetrieb und Exit sind abnahmefähig beschrieben.
-6. Der Vergabevermerk erklärt jede wesentliche Weichenstellung mit Aktenbeleg.
-
----
-
 ## Skill: `vorhalteverguetung-leistungsgruppen-krankenhausreform`
 
 _Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
@@ -715,6 +570,85 @@ Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt di
 
 ---
 
+## Skill: `triage-notaufnahme-ueberlastung-dokumentation`
+
+_Wenn es um Triage Notaufnahme Ueberlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Triage Notaufnahme Ueberlastung Dokumentation
+
+## Worum geht es konkret
+Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
+- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
+- Liegen Dokumentationsstandards, Schulungsnachweise vor?
+- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
+- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
+
+## Rechtlicher Rahmen
+- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Ueberweisungspflicht in Notlage.
+- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
+- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
+- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
+- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
+- **MD-Strukturpruefung** und MBO-Aerzte.
+
+## Workflow / Schritt fuer Schritt
+1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
+2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
+3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
+4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
+5. **Ueberlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
+6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
+
+## Trade-off-Matrix
+
+| Lage | Triagesystem | Risiko |
+|---|---|---|
+| Routinenotaufnahme | MTS/ESI | wenig |
+| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
+| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
+| Ueberlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
+
+## Praxistipps
+- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
+- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
+- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
+- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
+- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Ueberlastung.
+
+## Mustertexte
+**Triage-Dokumentation (Routine):**
+> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+
+**Vorfallmemo Triagefehler:**
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Massnahmen: Schulung, Audit, Eskalationspfad.
+
+## Typische Fehler
+- Triage durch ungeschultes Personal.
+- Re-Triage fehlt bei langen Wartezeiten.
+- Dokumentation unvollstaendig — Beweisnot bei Haftung.
+- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
+- Aufnahmestatus nicht abgemeldet trotz Ueberlastung.
+
+## Querverweise
+- `notfallstufen-und-sicherstellungszuschlaege`
+- `intensivmedizin-beatmung-verlegung`
+- `rettungsdienst-schnittstelle-aufnahme-pflicht`
+- `patientenrechte-behandlungsvertrag-aufklaerung`
+- `dokumentation-aufbewahrung-beweislast`
+- `haftpflichtfall-krankenhaus-gutachtenstrategie`
+
+## Quellen Stand 06/2026
+- BVerfG 16.12.2021, 1 BvR 1541/20.
+- § 5c IfSG.
+- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+
+---
+
 ## Skill: `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
 
 _Wenn es um MD-Prüfung Krankenhausabrechnung Prüfverfahrensvereinbarung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
@@ -805,6 +739,111 @@ Konkret zu prüfen:
 - MD-Reform
 - § 275 SGB V
 - § 275c SGB V
+
+---
+
+## Skill: `triage-notaufnahme-vergaberecht-krankenhaus`
+
+_Wenn es um Triage Notaufnahme Überlastung Dokumentation in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+
+# Triage Notaufnahme Überlastung Dokumentation
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Triage Notaufnahme Überlastung Dokumentation
+- **Normen-/Quellenanker:** KHG/KHEntgG, SGB V, Krankenhausplanung der Länder, Qualitätsvorgaben, Vergütung, MD-Prüfung, Haftung, Datenschutz und Arbeits-/Medizinprodukterecht.
+- **Entscheidende Weiche:** Planung/Zulassung, Vergütung, Behandlungspflicht, Organisation, Qualität, Datenschutz, Haftung und Behördenkommunikation trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+Notaufnahmen müssen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Überlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
+- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
+- Liegen Dokumentationsstandards, Schulungsnachweise vor?
+- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
+- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
+
+## Rechtlicher Rahmen
+- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Überweisungspflicht in Notlage.
+- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
+- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
+- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
+- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
+- **MD-Strukturpruefung** und MBO-Aerzte.
+
+## / Schritt für Schritt
+1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
+2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
+3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
+4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
+5. **Überlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
+6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
+
+## Trade-off-Matrix
+
+| Lage | Triagesystem | Risiko |
+|---|---|---|
+| Routinenotaufnahme | MTS/ESI | wenig |
+| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
+| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
+| Überlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
+
+## Praxistipps
+- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
+- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
+- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
+- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
+- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Überlastung.
+
+## Mustertexte
+**Triage-Dokumentation (Routine):**
+> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+
+**Vorfallmemo Triagefehler:**
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Maßnahmen: Schulung, Audit, Eskalationspfad.
+
+## Typische Fehler
+- Triage durch ungeschultes Personal.
+- Re-Triage fehlt bei langen Wartezeiten.
+- Dokumentation unvollstaendig — Beweisnot bei Haftung.
+- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
+- Aufnahmestatus nicht abgemeldet trotz Überlastung.
+
+## Quellen Stand 06/2026
+- BVerfG 16.12.2021, 1 BvR 1541/20.
+- § 5c IfSG.
+- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- GWB §§ 97 ff.
 
 ---
 

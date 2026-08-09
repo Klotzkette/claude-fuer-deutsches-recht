@@ -40,6 +40,8 @@ Diese Akte gehört zu den Plugins `krankenkassenrecht-krankenversicherung`, `fac
 | `25_hausarztbericht_druckstelle_rechnung.docx` | Hausärztlicher Befund zur Druckstelle mit Rechnung und Zahlungsnachweis |
 | `26_email_pkv_sanitaetshaus_zustaendigkeit.eml` | E-Mail-Kette zwischen Patientin, PKV und Sanitätshaus zu Bestellung und Ausgabe |
 | `27_gehversuche_stepmove_rohdaten.csv` | Messreihen mit Uhrzeiten, Gehstrecken, Zeiten, Stolperereignissen und Hautreaktionen |
+| `28_telefonvermerk_rueckfragen_kostentraeger.md` | Telefonvermerk der Beratungsstelle über Gespräche mit gesetzlicher Kasse, Beihilfestelle und Sanitätshaus |
+| `29_kontoauszug_auszug_juni_juli_2026.csv` | Kontoauszugsauszug mit Kartenzahlungen, Beitragseinzug und der Buchung LS GmbH 280,00 |
 | `gesamt-pdf/krankenkassenrecht-hilfsmittel-pkv-beihilfe-kassenwechsel_gesamt.pdf` | Gesamt-PDF der Akte |
 
 ## Sachstand

@@ -12,15 +12,15 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `zwangsvollstreckun
 4. **mobiliar-gv-auftrag** — Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Bew…
 5. **kontenpfaendung-notar-interessen-online** — Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den pa…
 6. **pfaendungstabelle-pfueb-arbeitsentgelt** — Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfä…
-7. **pfueb-raeumung-schuldnerschutz-beweislast** — Erstellt und prüft Pfändungs- und Überweisungsbeschlüsse: Titel, Klausel, Zustellung, Forderung, Drittschuldner, Zuständ…
-8. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
-9. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
-10. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
-11. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
-12. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
-13. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
-14. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
-15. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
+7. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
+8. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
+9. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
+10. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
+11. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
+12. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
+13. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
+14. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
+15. **vollstreckungsbescheid-zv** — Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sac…
 
 ---
 
@@ -565,52 +565,6 @@ Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater,
 - Bei Sozialleistungen § 54 SGB I prüfen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `pfueb-raeumung-schuldnerschutz-beweislast`
-
-_Erstellt und prüft Pfändungs- und Überweisungsbeschlüsse: Titel, Klausel, Zustellung, Forderung, Drittschuldner, Zuständigkeit, Rang, Erklärung, Kontenschutz und Rechtsbehelfe werden zu Antrag, Zustellungsauftrag oder Verteidigungslinie verarbeitet._
-
-# Pfändungs- und Überweisungsbeschluss: Antrag und Verteidigung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Pfändungs- und Überweisungsbeschluss
-- **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Pfändungs- und Überweisungsbeschluss prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen PfÜB (Pfändungs- und Überweisungsbeschluss)
-- **Rechtsgrundlage (§§ 829, 835 ZPO):** Pfändung der Geldforderung des Schuldners gegen Dritten (Drittschuldner) durch Beschluss des Vollstreckungsgerichts; gleichzeitige Überweisung zur Einziehung (§ 835 ZPO).
-- **Voraussetzungen (§ 750 ZPO):** Vollstreckungstitel mit vollstreckbarer Ausfertigung, Vollstreckungsklausel, Zustellung an den Schuldner vor Pfändung.
-- **Zuständigkeit (§ 828 ZPO):** Funktionell und örtlich das Amtsgericht des Schuldnerwohnsitzes (Rechtspfleger).
-- **Wirkung der Pfändung (Paragraf 829 Absatz 3 ZPO):** Das Pfändungspfandrecht entsteht mit Zustellung des Beschlusses an den Drittschuldner. Das Arrestatorium untersagt ihm die Zahlung an den Schuldner; Überweisung und Einziehungsbefugnis richten sich nach den Paragrafen 835 und 836 ZPO.
-- **Drittschuldnererklärung (Paragraf 840 ZPO):** Wird die Erklärung mit der Zustellung verlangt, muss der Drittschuldner binnen zwei Wochen insbesondere Anerkennung und Zahlungsbereitschaft, konkurrierende Ansprüche und Vorpfändungen offenlegen. Unterlassung oder unrichtige Erklärung kann Schadensersatz auslösen.
-- **Pfändungsfreigrenzen (§ 850c ZPO):** Pfändbar nur über dem Freibetrag (alle zwei Jahre angepasste Pfändungsfreigrenzentabelle - Juli 2025 / Juli 2027). Bei Kontopfändung: P-Konto (§§ 850k, 850l ZPO) mit Grundfreibetrag und Erhöhungsbeträgen für Unterhaltspflichten.
-- Paragraf 850c ZPO: Die Pfändungsfreigrenzen werden jährlich zum 1. Juli angepasst. Für den Zeitraum 1. Juli 2026 bis 30. Juni 2027 gilt BGBl. 2026 I Nr. 80; vor jeder Berechnung die amtliche Tabelle prüfen.
-- **Erinnerung gegen PfÜB (§ 766 ZPO):** Vollstreckungserinnerung beim Vollstreckungsgericht; keine Frist, aber zügige Erhebung. Klauselgegenklage (§ 768 ZPO) und Vollstreckungsgegenklage (§ 767 ZPO) bei materiellen Einwendungen.
-- **Praktiker-Tipp:** Vor PfÜB-Antrag stets Vermögensauskunft (§ 802c ZPO) und § 802l ZPO Kontensuche prüfen, um geeignete Drittschuldner zu identifizieren. Bei mehreren Pfändungen zählt der Rang der Zustellung beim Drittschuldner.
 
 ---
 
@@ -1414,6 +1368,95 @@ Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbe
 - XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
 - Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
 - Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `vollstreckungsbescheid-zv`
+
+_Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Vollstreckungsbescheid und Folgeverfahren
+
+## Arbeitsbereich
+
+Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu mahnbescheid-online-mobiliar-gv (Mahnbescheid-Antrag) und kommandocenter. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. Ist die Widerspruchsfrist von 2 Wochen ab Zustellung des Mahnbescheids abgelaufen?
+2. Wurde der VB-Antrag rechtzeitig gestellt (innerhalb 6 Monaten nach MB-Zustellung, § 701 ZPO)?
+3. Hat der Schuldner Einspruch gegen den VB erhoben — wenn ja, Übergang ins Streitverfahren?
+4. Ist der Schuldner insolvent — § 89 InsO Vollstreckungsverbot prüfen?
+
+## Zentrale Normen
+
+- § 699 ZPO — Antrag auf Vollstreckungsbescheid (frühestens 14 Tage nach MB-Zustellung)
+- § 700 ZPO — Einspruch gegen VB (Frist 2 Wochen ab Zustellung)
+- § 701 ZPO — 6-Monats-Frist für VB-Antrag ab MB-Zustellung
+- § 796 Abs. 1 ZPO — VB trägt Klausel kraft Gesetzes
+- § 204 Abs. 2 S. 1 BGB — Ende der Verjährungshemmung bei Verfahrenseinstellung
+- § 705 ZPO — Rechtskraft des VB nach Ablauf der Einspruchsfrist
+
+## Rechtsgrundlagen
+
+- **§ 699 ZPO** – Vollstreckungsbescheid auf Antrag nach Ablauf der Widerspruchsfrist; nicht früher als 14 Tage nach Zustellung des Mahnbescheids (§ 699 Abs. 1 S. 2 ZPO).
+- **§ 700 ZPO** – Einspruch innerhalb von 2 Wochen ab Zustellung des VB; Verfahren wird auf Antrag ans Streitgericht abgegeben (§ 700 Abs. 3 ZPO).
+- **§ 796 Abs. 1 ZPO** – VB ist Vollstreckungstitel mit Klausel von Gesetzes wegen; gesonderte Klauselerteilung nicht erforderlich.
+- **§ 700 Abs. 1 ZPO** – VB wirkt wie ein für vorläufig vollstreckbar erklärtes Versäumnisurteil; Sicherheitsleistung nicht erforderlich.
+- **§ 705 ZPO** – Rechtskraft tritt ein mit Ablauf der Einspruchsfrist (§ 700 Abs. 1 i.V.m. § 705 S. 2 ZPO).
+
+## VB beantragen
+
+1. **Voraussetzungen prüfen**:
+ - Mahnbescheid erlassen und dem Antragsgegner zugestellt
+ - Frist von 14 Tagen ab Zustellung verstrichen
+ - Kein Widerspruch eingelegt (oder nur Teilwiderspruch – dann VB nur über unbestrittenen Teil)
+ - VB-Antrag innerhalb von 6 Monaten nach Mahnbescheid-Zustellung gestellt § 701 ZPO – sonst Verfall des Mahnbescheids
+2. **Antrag stellen** über [online-mahnantrag.de](https://www.online-mahnantrag.de): Antragsart "Vollstreckungsbescheid beantragen", Aktenzeichen des Mahnbescheids angeben, Versandverlust meldet System eigenständig.
+3. **Erlass und Zustellung** des VB an Antragsgegner von Amts wegen § 699 Abs. 4 ZPO.
+4. **Wiedervorlage** 3 Wochen nach VB-Erlass: Einspruch erfolgt? Wenn nicht: Rechtskraft, vollstrecken.
+
+## Vollstreckung aus dem VB
+
+Der VB ist sofort vollstreckbar (§ 700 Abs. 1 ZPO) **ohne** Sicherheitsleistung. Er trägt die Klausel kraft Gesetzes § 796 Abs. 1 ZPO. Es genügt:
+
+1. **Ausfertigung des VB** mit Zustellnachweis als Vollstreckungstitel.
+2. **Vollstreckung beginnen**: PfÜB, Mobiliarvollstreckung, Vermögensauskunft, je nach Zielobjekt – Skill `kommandocenter` einsteigen lassen.
+
+## Reaktion auf Einspruch nach VB
+
+- **Einspruch innerhalb der 2-Wochen-Frist § 700 Abs. 1 ZPO**: Verfahren geht auf Antrag eines Beteiligten ans Streitgericht. Eingang dort = Klagebegründungspflicht innerhalb von 2 Wochen § 697 ZPO. Gerichtsgebühren werden fällig (3,0-Verfahrensgebühr Nr. 1210 KV GKG abzüglich der 0,5 aus dem Mahnverfahren).
+- **Verspäteter Einspruch**: gilt als Einspruch und ist als unzulässig zu verwerfen, wenn nicht Wiedereinsetzung in den vorigen Stand § 233 ZPO begehrt und gewährt wird.
+- **Teileinspruch**: nur der bestrittene Teil geht ins Streitverfahren; der unbestrittene Teil bleibt rechtskräftig und vollstreckbar.
+
+## Häufige Stolpersteine
+
+- **6-Monats-Frist** § 701 ZPO – nicht der Mahnbescheid, sondern der VB-Antrag muss innerhalb dieser Frist gestellt werden. Versäumnis = Antrag erneut.
+- **Zustellungsnachweis fehlt**: VB darf nicht erlassen werden, wenn Mahnbescheid nicht zugestellt wurde; bei Auslandszustellung oft Verzögerung.
+- **Einspruch nicht gegen VB, sondern gegen "Anspruch" formuliert** – wird vom Gericht als Einspruch ausgelegt § 133 BGB, wenn Wille erkennbar.
+- **Mahnbescheid an falsche Anschrift zugestellt**: Heilung § 189 ZPO nur bei tatsächlichem Zugang; sonst muss erneut zugestellt werden, dann läuft Frist neu.
+
+## Qualitätsgates
+
+- Niemals VB vollstrecken, ohne Zustellnachweis vorzulegen § 750 ZPO.
+- Bei Insolvenz nach VB-Erlass: keine Einzelzwangsvollstreckung mehr § 89 InsO, Forderung zur Tabelle anmelden.
+
+## Querverweise
+
+- `mahnbescheid-online-mobiliar-gv` – Mahnantrag.
+- `titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
+- `pfueb-bank`, `pfueb-arbeitsentgelt`, `mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
+- `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 

@@ -1,3 +1,13 @@
+# v439.1.0 - Nachrunde Testakten: 22 weitere Aktenstücke in vierzehn Akten
+
+- Aus dem in v437.0.0 offen gebliebenen Block sind vierzehn Akten nachgezogen: AML-Immobilienmandat Amrum, Anfechtungsfall Erbenstraße, Kündigungsdrama Körber-Werk, Betriebsprüfung Marquardt, Unterhalt und Zugewinn Bad Nauheim, HOAI-Kita Mühlenhof, Bürgerentscheid Morgenfurt, Hilfsmittelstreit PKV und Beihilfe, SaaS-Lizenzstreit Codeforst, StaRUG-Aufhebung Düsseldorf, Stufenklage Hamburg, KI-Songstreit Auerbach, Wahlkampfrecht Morgenstadt und Werkmangel Saalbau Rosenheim.
+- 22 neue Primärstücke in derselben Machart wie die große Ausbau-Runde: Telefonvermerke, Behörden- und Gerichtszwischennachrichten, E-Mail-Wechsel im Alltagston, Zahlungs- und Terminlisten. Ausschließlich Tatsachen, keine Bewertung, keine Prüfungshinweise; Namen, Daten und Beträge aus dem jeweiligen Bestand.
+- Markdown-Stücke in DOCX mit Hausformat konvertiert, Briefköpfe nach Absenderklasse gesetzt, Gesamt-PDFs der vierzehn Akten neu gebaut.
+- Validatoren grün: Dokumentqualität 1029 formale Dokumente und 7620 Exportdateien, CSV-Prüfung 570 Tabellen, Eval 302 All-Pass. Versions-Bump auf v439.1.0.
+- Weiterhin offen: 21 Akten des Blocks konnten wegen eines API-Sitzungslimits nicht mehr bearbeitet werden und bleiben für die nächste Runde vorgemerkt.
+
+---
+
 # v439.0.1 - Hilfsprompts strikt von Plugin-Installationen getrennt
 
 - Werkstatt- und Schnellstart-Prompts bleiben nun ausschließlich direkte Markdown-Downloads. Der Release-Bau schließt beide Dateitypen aus allen 235 installierbaren Plugin-ZIPs aus, damit sie beim Plugin-Import weder mit hochgeladen noch als zusätzlicher Plugin-Inhalt bereitgestellt werden.

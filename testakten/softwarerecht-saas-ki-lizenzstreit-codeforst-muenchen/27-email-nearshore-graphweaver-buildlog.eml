@@ -1,0 +1,31 @@
+From: Wojtek Lisniak <w.lisniak@nearcode-krakau.pl>
+To: Jost Reimers <jost.reimers@codeforst.de>
+Cc: Kira Nordhoff <kira.nordhoff@codeforst.de>, Mara Wendelstein <mara.wendelstein@codeforst.de>
+Subject: Re: GraphWeaver - wo steckt das jetzt wirklich drin
+Date: Wed, 03 Jun 2026 09:22:00 +0200
+Message-ID: <20260603.092200.graphweaver@nearcode-krakau.pl>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo Jost, hallo Kira,
+
+ich hab heute morgen die Buildlogs von Oktober 2024 bis jetzt durchgeschaut, so gut das ging. Kurz und ehrlich: GraphWeaver 3.4.1 ist nicht nur dev dependency. Wir haben das am 07.10.2024 eingebaut, damals wirklich nur für lokale Tests, aber im Nightly-Image liegt die Bibliothek seit dem Release 2024.11 mit im Container. Ich sehe sie in der Layer-Liste von routeluchs-preprocessor:2024.11 bis :2026.05. Sorry, das hätt ich früher merken müssen.
+
+Zweite Sache die ihr wissen solltet: in der LuchsBox-Firmware ist auch eine Kopie drin, aber eine ältere, 2.9.x. Das hat Piotr damals reinkopiert weil der Buildserver offline war. Es gibt dazu kein Ticket, nur ein Commit mit der Nachricht "temp fix, remove later". Der Commit ist vom 22.11.2024, Autor ist mit einer privaten Adresse eingetragen, piotr.k@gmx.net.
+
+Ticket CF-1187 ist am 03.12.2024 geschlossen worden, Kommentar war "closed - Sonnenklee pilot priority". Ich hab das Ticket nicht geschlossen, ich sehe da Maras Namen, aber Mara sagt sie erinnert sich nicht. Vielleicht hat das jemand über die Bulk-Funktion gemacht, das war die Woche wo wir 60 Tickets aufgeräumt haben.
+
+Was ich noch nicht sagen kann: ob der Preprocessor bei Sonnenklee tatsächlich über die Netzwerkschnittstelle aufgerufen wird oder nur intern. Die Metriken dazu liegen bei euch, ich hab keinen Zugriff auf das Produktivmonitoring. Und die Nachtfahrten laufen ohne den Service nicht, das hab ich getestet, es kommt sofort ein Timeout in der Tourenberechnung, nach 30 Sekunden.
+
+Ich hab die Logs als tar.gz auf den Sicherungsordner gelegt, Pfad steht unten. Bitte sagt mir ob ich das Rausnehmen jetzt angehen soll oder ob wir warten. Ich brauch dafür mindestens drei Wochen und einen Ersatz für die Kantenglättung, sonst werden die Routen schlechter, das haben wir im Januar schon mal gesehen.
+
+Grüße aus Krakau
+Wojtek
+
+--
+Wojtek Lisniak
+NearCode Krakau sp. z o.o.
+ul. Długa 41, 31-147 Kraków
+w.lisniak@nearcode-krakau.pl
+Sicherungsordner: /backup/codeforst/2026-06-03/buildlogs_graphweaver.tar.gz

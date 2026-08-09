@@ -10,12 +10,12 @@ Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `mietrecht`.
 2. **mietprozess-versandmappe-endfertigen** — Endfertigt Räumungs-, Zahlungs-, Mängel-, Kautions- und Mieterhöhungsschriftsätze: liest Mietvertrag, Kündigung, Zustell…
 3. **einstieg-routing** — Wenn es um Einstieg und Routing in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachs…
 4. **mandat-triage-mietrecht** — Wenn es um Mandat-Triage Mietrecht in Mietrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-5. **amtlichen-amtsgericht-sonderfall** — Erstellt für mietrechtliche Verfahren vor dem Amtsgericht eine belastbare Risikoampel: Zuständigkeit, Anträge, Darlegung…
-6. **amtsgericht-sonderfall-und-edge-case** — Beherrscht mietrechtliche Sonderlagen vor dem Amtsgericht, insbesondere Parteiwechsel, Räumung mit Zahlung, unbekannte B…
-7. **klageentwurf-beweislast-und-darlegungslast** — Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwur…
-8. **mieterhoehungs-compliance-dokumentation-und-akte** — Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lück…
-9. **mieteranfragen-beantworten** — Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken…
-10. **quellen-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht) in Mietrecht geht: erstellt den passenden Entwurf aus Sac…
+5. **klageentwurf-beweislast-und-darlegungslast** — Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwur…
+6. **mieterhoehungs-compliance-dokumentation-und-akte** — Wenn es um Mieterhoehungs: Compliance-Dokumentation und Aktenvermerk in Mietrecht geht: ordnet Akteninhalt, Belege, Lück…
+7. **mieteranfragen-beantworten** — Wenn es um Mieteranfragen beantworten (Vermieter / Hausverwaltung) in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken…
+8. **quellen-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsatz-, Brief- und Memo-Bausteine (Mietrecht) in Mietrecht geht: erstellt den passenden Entwurf aus Sac…
+9. **betriebskostenabrechnung-belege-und-formelpruefer** — Wenn es um Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen in Mietrecht geht: prüft Frist,…
+10. **spezial-quellen-schriftsatz-brief-und-memo-bausteine** — Wenn es um Quellen: Schriftsatz-, Brief- und Memo-Bausteine in Mietrecht geht: erstellt den passenden Entwurf aus Sachve…
 
 ---
 
@@ -386,81 +386,6 @@ Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenroll
 
 ---
 
-## Skill: `amtlichen-amtsgericht-sonderfall`
-
-_Erstellt für mietrechtliche Verfahren vor dem Amtsgericht eine belastbare Risikoampel: Zuständigkeit, Anträge, Darlegungslast, Beweismittel, Einwendungen und Vergleichskorridor werden aus der Akte zu einer Klage- oder Verteidigungslinie verdichtet._
-
-# Amtsgerichtliche Risikoampel und Verteidigungslinien
-
-## 1. Direktstart
-
-Lies zuerst Mietvertrag, Nachträge, Mietkonto, Kündigungen, Abmahnungen, Mängelanzeigen, Abrechnungen, Zustellungsbelege und gerichtliche Verfügungen. Erzeuge unmittelbar eine einseitige Risikoampel mit Antragsziel, Tatsachenkern, stärkstem Beleg, stärkstem Gegenargument, Frist und nächstem Schritt. Frage nur nach einem Umstand, wenn er Zuständigkeit, Antrag oder Beweisführung tatsächlich ändert.
-
-## 2. Prozessroute
-
-1. Trenne Wohnraum, Geschäftsraum und Wohnungseigentum. Wohnraummietsachen gehören nach Paragraf 23 Nummer 2a GVG streitwertunabhängig zum Amtsgericht; bei Geschäftsraummiete gelten die allgemeinen Wertgrenzen.
-2. Formuliere das konkrete Begehren: Zahlung, Räumung, Feststellung, Mängelbeseitigung, Duldung, Belegeinsicht oder Beschlusskontrolle. Prüfe Bestimmtheit, Fälligkeit und objektive Klagehäufung.
-3. Zerlege Anspruch und Einwendungen in Tatsachen, Norm, Beleg und Beweisangebot. Ordne Mietkonto, Zugang, Mangelanzeige, Gebrauchsnachteil, Abrechnung und Beschlussfassung jeweils einer beweisbedürftigen Tatsache zu.
-4. Baue die stärkste Gegenposition aus Sicht der Gegenseite. Prüfe insbesondere Schonfristzahlung, Sozialwiderspruch, Aufrechnung, Zurückbehaltungsrecht, Verjährung, Präklusion und prozessuale Darlegungslücken.
-5. Berechne Hauptforderung, Zinsen, Nutzungsentschädigung und Streitwert getrennt. Markiere jede Zahl, die nicht aus einem Aktenstück reproduzierbar ist.
-
-## 3. Rechtsprechungsanker
-
-- BGH, Urteil vom 18. März 2015 - VIII ZR 185/14: Eine formularmäßige Schönheitsreparaturklausel benachteiligt den Mieter unangemessen, wenn ihm die Wohnung unrenoviert oder renovierungsbedürftig ohne angemessenen Ausgleich überlassen wurde.
-- BGH, Urteil vom 18. März 2015 - VIII ZR 242/13: Der Mieter trägt die Darlegungs- und Beweislast für den unrenovierten Anfangszustand; Beweisangebote deshalb am Übergabezustand ausrichten.
-- BGH, Urteil vom 23. Oktober 2024 - VIII ZR 106/23: Der Ausgleich des Mietrückstands innerhalb der Schonfrist beseitigt die fristlose, nicht aber die auf denselben Rückstand gestützte ordentliche Kündigung.
-- Entscheidungen nur nach Prüfung von Gericht, Datum, Aktenzeichen, Leitsatz und Übertragbarkeit zitieren. Der Anker ersetzt nicht die Subsumtion unter den dokumentierten Sachverhalt.
-
-## 4. Ausgabe
-
-Liefere eine Risikoampel und danach den sofort verwendbaren Entwurf. Jede rote oder gelbe Position nennt fehlenden Beleg, Prozessfolge und Heilungsmöglichkeit. Klage- und Verteidigungsfassung enthalten Anträge, chronologischen Sachvortrag, Beweisangebote, rechtliche Würdigung, Anlagenbezüge und eine kontrollierbare Berechnung.
-
----
-
-## Skill: `amtsgericht-sonderfall-und-edge-case`
-
-_Beherrscht mietrechtliche Sonderlagen vor dem Amtsgericht, insbesondere Parteiwechsel, Räumung mit Zahlung, unbekannte Bewohner, Zustellungsprobleme, Widerklage, Aufrechnung und Vollstreckung; liefert eine prozessfeste Weichenstellung mit Entwurf._
-
-# Amtsgerichtliche Sonderlagen im Mietprozess
-
-## 1. Direktstart
-
-Lies die vorhandene Gerichts- und Vertragsakte zuerst. Gib binnen eines Arbeitsgangs eine Prozessweiche aus: zuständiges Gericht, richtige Parteien, statthafte Anträge, Zustellungsweg, kritische Frist, Beweisproblem und nächster Schriftsatz. Rückfragen sind auf die zwei Punkte zu begrenzen, ohne die ein Antrag unbestimmt oder gegen den falschen Gegner gerichtet wäre.
-
-## 2. Sonderlagenmatrix
-
-| Sonderlage | Sofortprüfung | Arbeitsprodukt |
-| --- | --- | --- |
-| Mitbewohner oder Untermieter unbekannt | Besitzlage, Räumungsschuldner, ladungsfähige Anschrift, Titelreichweite | Parteien- und Besitzmatrix |
-| Eigentümer- oder Vermieterwechsel | Aktivlegitimation, Paragraf 566 BGB, Abtretung, Grundbuch- und Übergabedatum | Legitimationsvermerk |
-| Räumung und Zahlung verbunden | Wohnraumzuständigkeit, Anspruchszeiträume, Nutzungsentschädigung, Teilklage | bezifferte Antragsfassung |
-| Aufrechnung oder Widerklage | Konnexität, Bestimmtheit, Fälligkeit, Belege, Streitwert | Erwiderungs- und Rechenbaustein |
-| Zugang oder Zustellung streitig | Zugangsnachweis, Ersatzzustellung, öffentliche Zustellung nur als letzter Weg | Beweis- und Zustellungsplan |
-| Vollstreckung nach Räumungstitel | Titel gegen Besitzer, Berliner Räumung, Vollstreckungsschutz, Verwahrung | Vollstreckungsauftrag und Kostenplan |
-
-## 3. Prüfablauf
-
-1. Ordne Wohnraum, Geschäftsraum oder Wohnungseigentum zu und bestimme die Zuständigkeit.
-2. Gleiche Vertragspartei, Eigentümer, Besitzer, Abtretung und Prozesspartei mit Urkunden und Meldedaten ab.
-3. Formuliere Haupt- und Hilfsanträge, ohne Räumung, Herausgabe, Zahlung und Duldung zu vermengen.
-4. Baue eine Zeitachse aus Vertrag, Pflichtverletzung, Abmahnung, Kündigung, Zugang, Schonfrist und Rechtshängigkeit.
-5. Verknüpfe jede streitige Tatsache mit Beweisangebot und Anlage; benenne sekundäre Darlegungslast nur, wenn ihre Voraussetzungen dargelegt sind.
-6. Prüfe Kosten, vorläufige Vollstreckbarkeit, Räumungsfrist und Anschlussvollstreckung bereits vor Einreichung.
-
-## 4. Leitplanken
-
-- Paragraf 23 Nummer 2a GVG: ausschließliche Zuständigkeit des Amtsgerichts für Wohnraummietsachen unabhängig vom Streitwert.
-- Paragrafen 253 und 260 ZPO: bestimmter Antrag und objektive Klagehäufung.
-- Paragrafen 546 und 546a BGB: Rückgabe und Nutzungsentschädigung nach Vertragsende.
-- Paragraf 885a ZPO: beschränkter Vollstreckungsauftrag bei Räumung; Titel und tatsächliche Besitzlage vorher abgleichen.
-- BGH, Urteil vom 23. Oktober 2024 - VIII ZR 106/23: Wirkungen einer Schonfristzahlung auf außerordentliche und ordentliche Kündigung getrennt behandeln.
-
-## 5. Ausgabe
-
-Liefere zuerst die Prozessweiche in Tabellenform und danach den einreichungsfähigen Entwurf. Offene Stellen erhalten keine Leerformel, sondern eine präzise Nachforderung mit Beweiszweck und der Folge, die ohne den Beleg droht.
-
----
-
 ## Skill: `klageentwurf-beweislast-und-darlegungslast`
 
 _Wenn es um Klageentwurf: Beweislast, Darlegungslast und Substantiierung in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
@@ -682,6 +607,91 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `betriebskostenabrechnung-belege-und-formelpruefer`
+
+_Wenn es um Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+
+# Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Rechtskern
+- **Abrechnungspflicht und Fristen:** § 556 Abs. 3 BGB; Nachforderung grundsätzlich nur bei rechtzeitiger Abrechnung, Einwendungen binnen zwölf Monaten.
+- **Umlage:** Betriebskosten nur bei wirksamer Vereinbarung; BetrKV, HeizkostenV, § 556a BGB, Gewerbe-Vorwegabzug nur bei relevanter Mehrbelastung.
+- **BGH-Linie:** BGH, Urteil vom 20.01.2016 - VIII ZR 93/15: Bei den Gesamtkosten genügt der umlagefähige Gesamtbetrag, nicht jede Vorberechnung; BGH, Urteil vom 15.12.2021 - VIII ZR 66/20: Belegeinsicht betrifft grundsätzlich Originale, Kopien/Scans nur ausnahmsweise.
+
+## Arbeitsmodus
+1. Mietvertrag, Abrechnungszeitraum, Wirtschaftseinheit und Vorauszahlungen erfassen.
+2. Je Kostenart prüfen: umlagefähig, belegt, Zeitraum korrekt, Umlageschlüssel vereinbart/gesetzlich, Vorwegabzug, Leerstand, Nutzerwechsel.
+3. Heiz-/Warmwasserkosten gesondert nach HeizkostenV prüfen.
+4. Formelle Fehler von materiellen Fehlern trennen; nur das richtige Angriffsziel wählen.
+
+---
+
+## Skill: `spezial-quellen-schriftsatz-brief-und-memo-bausteine`
+
+_Wenn es um Quellen: Schriftsatz-, Brief- und Memo-Bausteine in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+
+# Quellen: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `mietrecht`. Ausgangspunkt ist: Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.
+
+Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Quellen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Quellen.
+- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
+- **Plugin-Rahmen:** Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Quellen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
 
 ---
 

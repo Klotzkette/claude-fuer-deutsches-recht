@@ -665,7 +665,7 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 _Wenn es um Körperverletzung Paragrafen 223. 230 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
 
-# Körperverletzung nach Paragrafen 223 und 230 StGB
+# Körperverletzung §§ 223, 230 StGB
 
 ## Arbeitsweg
 
@@ -683,15 +683,14 @@ StGB §§ 223, 224, 230; StPO § 158.
 
 Konkret zu prüfen:
 
-- Paragraf 223 StGB: vorsätzliche Körperverletzung.
-- Paragraf 224 StGB: gefährliche Körperverletzung; Qualifikationsmerkmal und konkreten Tatbeitrag jedes Beteiligten getrennt prüfen.
-- Paragraf 226 StGB: schwere Folge, Kausalität und wenigstens Fahrlässigkeit hinsichtlich der Folge.
-- Paragraf 230 StGB: Paragraf 223 StGB wird grundsätzlich nur auf Strafantrag verfolgt; ohne Antrag ist zu prüfen und zu begründen, ob die Strafverfolgungsbehörde ein besonderes öffentliches Interesse annimmt.
-- Paragraf 77b StGB: Dreimonatsfrist für den Strafantrag ab Kenntnis von Tat und Täter.
+- § 223 StGB (Körperverletzung)
+- § 224 StGB (gefährliche KV)
+- § 226 StGB (schwere KV)
+- § 230 StGB (Antragsdelikt § 223)
 
 ## Red Flags
 
-- Paragraf 223 StGB ohne Prüfung von Strafantrag, Antragsfrist und besonderem öffentlichen Interesse als stets von Amts wegen verfolgbar behandeln
+- § 223 als immer Offizialdelikt
 - Fotos ohne Datum
 - Notwehrlage ungeprüft
 
