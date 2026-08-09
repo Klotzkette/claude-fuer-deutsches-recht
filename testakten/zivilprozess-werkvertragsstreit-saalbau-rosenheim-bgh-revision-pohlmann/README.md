@@ -98,6 +98,7 @@ Arbeitsakte zum Plugin `prozessrecht`.
 | 20 | [`20-bgh-revisionsurteil-zurueckverweisung.docx`](20-bgh-revisionsurteil-zurueckverweisung.docx) | BGH-Urteil 10.09.2029; § 563 ZPO; 429.950 EUR rechtskräftig; 109.700 EUR zurückverwiesen |
 | 21 | [`21-zurueckverweisung-strategie-olg.docx`](21-zurueckverweisung-strategie-olg.docx) | Strategie OLG-Neuverfahren; Individualaushandeln § 305 BGB; § 767 ZPO |
 | 22 | [`22-abschlussvermerk-anwalt.docx`](22-abschlussvermerk-anwalt.docx) | Abschlussvermerk Roosendaal; Kostenabrechnung; offene Maßnahmen |
+| 23 | [`23-elektronischer-zustellnachweis-bgh-revisionsurteil.docx`](23-elektronischer-zustellnachweis-bgh-revisionsurteil.docx) | Elektronischer Zustellnachweis mit Absender, Übermittlungskennung und ursprünglichem Dateinamen |
 
 ---
 

@@ -124,6 +124,7 @@ Arbeitsakte zum Plugin `dsa-dma-digitalregulierung`.
 | Datei | Inhalt |
 |---|---|
 | [`emails/2026-03-14_eu_kommission_designation_brief.eml`](emails/2026-03-14_eu_kommission_designation_brief.eml) | EU-Kommission designiert Halmweise.de als VLOP (Az. CASE COMP M.92188) |
+| [`emails/2026-04-01_fiedler-moeller_an_maassen_queue-auszug.eml`](emails/2026-04-01_fiedler-moeller_an_maassen_queue-auszug.eml) | Interne Nachricht zur Moderations-Queue, Personalausstattung und Berechnungsbasis der 11,3 Werktage |
 | [`emails/2026-04-02_bnetza_dsc_mahnung.eml`](emails/2026-04-02_bnetza_dsc_mahnung.eml) | BNetzA-Mahnschreiben (Az. BNetzA-DSC-2026-188) — vier Verstöße, Frist 30.04.2026 |
 | [`emails/2026-04-12_trusted_flagger_kooperationsanfrage.eml`](emails/2026-04-12_trusted_flagger_kooperationsanfrage.eml) | Deutsche Hass-Stopp e.V. beantragt Trusted-Flagger-Kooperation (Art. 22 DSA) |
 | [`emails/2026-04-20_kanzlei_an_geschaeftsfuehrung_dsa.eml`](emails/2026-04-20_kanzlei_an_geschaeftsfuehrung_dsa.eml) | Kanzlei Klotzkette: Statusbericht und dringende Maßnahmen an Geschäftsführung |

@@ -41,6 +41,8 @@ rentenrecht-fremdrente-russlanddeutscher-sibirien-bielefeld/
 ├── 13_erklaerung_auslaendischer_rentenbezug_2026-07-03.docx # Mitwirkungserklärung zum ausländischen Rentenbezug (Endprodukt)
 ├── 14_whatsapp_tochter_archiv.txt                        # Chat Tochter/Rentenberater zu Apostille, Archiv und Namensfrage
 ├── 15_vertriebenenausweis_bvfg_kopie.docx                # Bescheinigung nach dem Bundesvertriebenengesetz (Kopie)
+├── 16_uebersetzerin_rueckfrage_vollstaendiges_arbeitsbuch.eml # Rückfrage zu Originalvorlage, Namensschreibweise und Fondsnummern
+├── 17_telefonvermerk_mandant_originalunterlagen.docx      # Gespräch zu Arbeitsbuch, Archivpapier und Unterlagen von 2011
 ├── eml/
 │   ├── 01_drv_westfalen_mitwirkung_erklaerung.eml        # DRV Westfalen: Mitwirkungsfrist, Fonds R-2214/R-2298, Sechstel
 │   ├── 02_landsmannschaft_uebersetzung_transliteration.eml # Landsmannschaft: Transliteration Klassen/Klassen, Fondswechsel

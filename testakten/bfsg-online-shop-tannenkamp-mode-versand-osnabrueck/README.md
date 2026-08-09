@@ -127,6 +127,7 @@ Festgestellte Mängel: fehlende Tastatur-Navigation (CSS `outline: none`), 2.317
 | Datei | Inhalt |
 |---|---|
 | [`emails/2026-03-12_vz_nrw_an_tannenkamp_abmahnung.eml`](emails/2026-03-12_vz_nrw_an_tannenkamp_abmahnung.eml) | VZ NRW — Verstoßmeldung § 33 BFSG, 12.03.2026 |
+| [`emails/2026-03-17_kundenservice_an_it_checkout_screenreader.eml`](emails/2026-03-17_kundenservice_an_it_checkout_screenreader.eml) | Interne Weiterleitung dreier Kundenkontakte zu Screenreader, Tastatur und Checkout, 17.03.2026 |
 | [`emails/2026-03-22_muni_an_kanzlei_anhoerung.eml`](emails/2026-03-22_muni_an_kanzlei_anhoerung.eml) | MüNI LAVES — Anhörungsschreiben, 22.03.2026 |
 | [`emails/2026-04-05_lavendelhaus_design_regressfrage.eml`](emails/2026-04-05_lavendelhaus_design_regressfrage.eml) | Lavendelhaus Design — Haftungsverweigerung, 05.04.2026 |
 | [`emails/2026-04-18_geschaeftsfuehrung_an_kanzlei_kosten.eml`](emails/2026-04-18_geschaeftsfuehrung_an_kanzlei_kosten.eml) | GF Tannenkamp — Kostenfrage, 18.04.2026 |

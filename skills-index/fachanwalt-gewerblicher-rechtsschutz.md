@@ -1,6 +1,6 @@
 # fachanwalt-gewerblicher-rechtsschutz
 
-**109 Skills** · Stand `v439.1.0`
+**109 Skills** · Stand `v439.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-gewerblicher-rechtsschutz/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

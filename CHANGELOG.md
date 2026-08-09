@@ -1,3 +1,40 @@
+# v439.2.0 - Verbleibende Testakten mit lebensnahen Primärstücken ausgebaut
+
+- Die noch offene Ausbaurunde ist abgeschlossen: 26 neue Primärstücke ergänzen 21 fachlich sehr unterschiedliche Akten aus Medizin-, Beamten-, Bereicherungs-, Digital-, Sport-, Gesellschafts-, Insolvenz-, Presse-, Renten-, Robotik-, Straf- und Zivilprozessrecht.
+- Hinzugekommen sind dreizehn vollständige E-Mail-Dateien, vier Chat- und SMS-Exporte, vier konsistente CSV-Zahlenwerke sowie fünf als Kanzlei- oder Behördenstücke gesetzte DOCX-Dokumente. Die Verteilung folgt dem Aktenumfang: kleine Akten erhielten drei, mittlere zwei und große Akten ein zusätzliches Stück.
+- Jedes neue Dokument bleibt bewusst fragmentarisch und lebensnah. Es ergänzt konkrete Tatsachen, Namen, Daten, Beträge, Vorgänge und Kommunikationsspuren, ohne rechtliche Bewertung, Lösungshinweis oder Arbeitsauftrag vorwegzunehmen.
+- Die READMEs der 21 Akten wurden um ihre neuen Bestandteile ergänzt. Zwei ältere Verweise auf bereits konvertierte Telefonvermerke wurden von Markdown auf DOCX berichtigt; die Aktenübersichten stimmen damit wieder mit den tatsächlich angebotenen Dateien überein.
+- Sämtliche 21 ausgebauten Gesamt-PDFs wurden aus den aktuellen Originaldateien neu aufgebaut und visuell auf Lesbarkeit, Seitenumbrüche, Umlaute, Tabellenfortsetzungen und vollständige E-Mail-Köpfe geprüft.
+- Ein vollständiger Veröffentlichungslauf hat zusätzlich 74 künstliche Nachrichtenkennungen und 26 zu knappe Bestands-E-Mails sichtbar gemacht. Die Kennungen verwenden nun fallpassende Absenderdomänen; jede betroffene Nachricht wurde mit konkreten Vorgängen, Daten, Beträgen, Anlagen oder Verfahrensbezügen ergänzt. Dadurch wurden 24 weitere Gesamt-PDFs neu aufgebaut.
+- Die Arbeitsdateien- und Einzel-PDF-Archive wurden für alle 303 Akten neu abgeglichen. Beide Archivarten bleiben flach; das Arbeitsdateien-Archiv enthält keine Markdown-Unterlagen.
+- 22 abgeleitete Vollprüfungen wurden reproduzierbar mit ihren aktuellen Fachquellen synchronisiert, damit lokaler Stand und Veröffentlichungsworkflow dieselben Dateien erzeugen.
+
+| Akte | Neu | Konkrete Ergänzung |
+|---|---:|---|
+| Arzthaftung Geburtsschaden Meinhardt | 1 | Einsatzplan des Pflegedienstes mit SPZ-Begleitung und Eigenanteil |
+| Beamtenrecht Richterlaufbahn Mondsee | 1 | Handschriftlicher Gesprächszettel nach dem gerichtlichen Erörterungstermin |
+| Bereicherung Doppelverkauf Oldtimer | 1 | Kontoauszug mit vier zeitlich zugeordneten Sonderbewegungen |
+| Barrierefreiheit Onlineshop Tannenkamp | 1 | Interne Weiterleitung dreier konkreter Kundenkontakte zu Checkout und Screenreader |
+| Dopingverfahren Uvalkanat | 1 | Zeitnaher Chat zu Einnahme, Charge, Dose und Trainingskontrolle |
+| Vertragswerkstatt Volkenrath Energie | 1 | Notariatsmail zu Ausweisen, Fassungsstand, Zugang und Signing-Ablauf |
+| Digitalplattform Körnerstrom | 1 | Interne Nachricht zur Moderationswarteschlange, Besetzung und Laufzeitberechnung |
+| Forschungszulage Sensorik | 1 | Laborjournal-Rohdaten mit fünf Messreihen und Fortsetzungsentscheidungen |
+| Fortbestehensprognose Paragrafix | 2 | Unterlagenabgleich der Steuerberaterin und Vertriebsstand zu Jahresvorauszahlungen |
+| Gesellschaftsrecht Legal English | 1 | Mandantenmail zu Originalen, Cap Table und Anreise zur Beurkundung |
+| Großbankrott und Zeugenstreit | 1 | Standortmail zu Frachtmappen, Umbuchung und Palettenlisten |
+| Insolvenzanfechtung Kiezflitzer | 1 | Buchhaltungsmail zu einer zurückgegebenen Leasinglastschrift |
+| Insolvenzanfechtung Finanzamt Augsburg | 1 | Buchhaltungsmail zur ersten zurückgegebenen Vergleichsrate |
+| Verdachtsberichterstattung Köln | 2 | Telefonvermerk zur Verteidigerstellungnahme und Redaktionschat zur Bildauswahl |
+| Fremdrente Russlanddeutscher Bielefeld | 2 | Übersetzerinnen-Rückfrage zum Arbeitsbuch und Telefonvermerk zu Originalunterlagen |
+| Versorgungswerk Befreiung Freiburg | 2 | Personalmail zur Stellenbeschreibung und Chat zu Planfreigaben |
+| Robotikrecht Roboterflotte München | 1 | Servicemail zu offenen Fernzugriffssitzungen |
+| Strafzumessung Bankert Frankfurt | 1 | Telefonvermerk zum Bestätigungsschreiben über einen Zahlungseingang |
+| Tabellenreview Fortbestehensprognose | 1 | Zeitgestempelter Rohabzug aus sechs geprüften Modellzellen |
+| Verbraucherinsolvenz Reimers | 2 | Nachricht zu wiedergefundenen Unterlagen und SMS-Verlauf zur Drittmittelzusage |
+| Zivilprozess Werkvertragsstreit Rosenheim | 1 | Elektronischer Zustellnachweis mit Übermittlungskennung und Originaldateiname |
+
+---
+
 # v439.1.0 - Nachrunde Testakten: 22 weitere Aktenstücke in vierzehn Akten
 
 - Aus dem in v437.0.0 offen gebliebenen Block sind vierzehn Akten nachgezogen: AML-Immobilienmandat Amrum, Anfechtungsfall Erbenstraße, Kündigungsdrama Körber-Werk, Betriebsprüfung Marquardt, Unterhalt und Zugewinn Bad Nauheim, HOAI-Kita Mühlenhof, Bürgerentscheid Morgenfurt, Hilfsmittelstreit PKV und Beihilfe, SaaS-Lizenzstreit Codeforst, StaRUG-Aufhebung Düsseldorf, Stufenklage Hamburg, KI-Songstreit Auerbach, Wahlkampfrecht Morgenstadt und Werkmangel Saalbau Rosenheim.

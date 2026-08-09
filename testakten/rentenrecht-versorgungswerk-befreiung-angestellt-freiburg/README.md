@@ -47,6 +47,8 @@ rentenrecht-versorgungswerk-befreiung-angestellt-freiburg/
 ├── 14_projektliste_taetigkeitsanteile.csv   ← Projekte, Rollen, Stunden und Planfreigaben
 ├── 15_organigramm_und_planfreigabe.docx     ← Aufbau des Bereichs und Planfreigaberegelung
 ├── 16_zustellnachweis_widerspruchsbescheid.docx ← Umschlag, Einwurfvermerk und Sendungsverfolgung
+├── 17_personalabteilung_stellenbeschreibung_2021.eml ← Personal-E-Mail zur Herkunft der Stellenbeschreibung
+├── 18_signal_nils_rademacher_planfreigaben.txt ← Nachrichtenverlauf zu Projekten, Freigaben und Arbeitgeberbestätigung
 ```
 
 ## Bearbeitungsziel

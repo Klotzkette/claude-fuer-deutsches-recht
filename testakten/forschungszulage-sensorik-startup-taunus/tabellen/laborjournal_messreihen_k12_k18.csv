@@ -1,0 +1,6 @@
+Datum,Messreihe,Messgröße_oder_Versuchsbezug,Beobachtung,Fortsetzung,Beleg
+2025-02-12,K-12,Condensate-Delta v2,"Feuchtewechsel erkannt, Fehlalarmquote 11 Prozent",Variante v2 verworfen,Laborjournal AP2
+2025-02-18,K-13,Vibration B,Scheinspitzen im Temperaturgradienten,Zusätzlicher Vibrationsfilter,Laborjournal AP2
+2025-03-03,K-14,Transfer Linie A zu Linie B,Abbruch bei niedriger Luftströmung,Parameterfenster neu angesetzt,Laborjournal AP3
+2025-03-19,K-16,Edge-Speicher,Voller Modellzustand nicht ladbar,Modellreduktion fortgesetzt,Git-Review AE-251
+2025-04-08,K-18,Referenzsensor mit Kondensatfilm,Drift am Referenzsensor beobachtet,Plausibilitätsprüfung ergänzt,Laborjournal AP3

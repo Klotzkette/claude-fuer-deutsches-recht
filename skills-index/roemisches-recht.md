@@ -1,6 +1,6 @@
 # roemisches-recht
 
-**285 Skills** · Stand `v439.1.0`
+**285 Skills** · Stand `v439.2.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../roemisches-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

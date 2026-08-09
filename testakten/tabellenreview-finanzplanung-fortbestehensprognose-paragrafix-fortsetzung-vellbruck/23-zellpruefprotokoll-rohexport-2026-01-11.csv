@@ -1,0 +1,7 @@
+Prüfzeit,Datei,Blatt,Zelle,Inhalt_v23,Verknüpfungsziel,Anzeigeformat,Bearbeiterkürzel
+2026-01-11 09:17:22,PFX-FoBP-Modell-v23-final.xlsx,ZINS-SCHULDEN,C5,0.049,PARAM!B12,0.0%,KF
+2026-01-11 09:21:06,PFX-FoBP-Modell-v23-final.xlsx,PLAN-CF,H8,42,PARAM!B19,0,KF
+2026-01-11 09:24:51,PFX-FoBP-Modell-v23-final.xlsx,PLAN-GuV,F22,0.072,PARAM!B5,0.0%,KF
+2026-01-11 09:31:14,PFX-FoBP-Modell-v23-final.xlsx,LIQUIDITÄT,D11,350000,PARAM!B25,#.##0,KF
+2026-01-11 09:36:40,PFX-FoBP-Modell-v23-final.xlsx,PERSONAL,G18,3,PARAM!B31,0,KF
+2026-01-11 10:02:19,PFX-FoBP-Modell-v23-final.xlsx,PLAN-BILANZ,B44,=SUM(PB!B12:PB!B42),PB!B12:PB!B43,#.##0,KF

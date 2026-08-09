@@ -1,0 +1,5 @@
+Buchungstag,Wertstellung,Auftraggeber_oder_Empfänger,Betrag_EUR,Kontoverbindung_oder_Referenz,Buchungstext
+05.03.2025,05.03.2025,Theresia Bagheri-Aichholz,600000.00,DE88 3806 0186 0000 1234 56,Anzahlung Kaufvertrag Mercedes-Benz 300 SL vom 03.03.2025
+18.03.2025,18.03.2025,Heinz-Albrecht Trappenfels,850000.00,DE88 3806 0186 0000 1234 56,Anzahlung Kaufvertrag Mercedes-Benz 300 SL vom 14.03.2025
+01.04.2025,01.04.2025,Heinz-Albrecht Trappenfels,200000.00,DE88 3806 0186 0000 1234 56,Teilzahlung Restkaufpreis Mercedes-Benz 300 SL
+16.04.2025,16.04.2025,Schmiedeknecht-Restaurations-KG,-78000.00,Zahlungsauftrag vom 15.04.2025,Überweisung Werkauftrag Mercedes-Benz 300 SL

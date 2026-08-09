@@ -82,6 +82,7 @@ Arbeitsakte zum Plugin `tabellenreview-3d`.
 | 20 | [`20-stellungnahme-an-geschaeftsfuehrung.docx`](20-stellungnahme-an-geschaeftsfuehrung.docx) | Formelle Stellungnahme WP an GF/CFO |
 | 21 | [`21-protokoll-review-workshop.docx`](21-protokoll-review-workshop.docx) | Protokoll Review-Workshop 14.01.2026 |
 | 22 | [`22-abschlussvermerk-reviewer.docx`](22-abschlussvermerk-reviewer.docx) | Abschlussvermerk, Einschränkungen, Votum |
+| 23 | [`23-zellpruefprotokoll-rohexport-2026-01-11.csv`](23-zellpruefprotokoll-rohexport-2026-01-11.csv) | Zeitgestempelter Rohabzug aus sechs geprüften Modellzellen |
 
 ---
 

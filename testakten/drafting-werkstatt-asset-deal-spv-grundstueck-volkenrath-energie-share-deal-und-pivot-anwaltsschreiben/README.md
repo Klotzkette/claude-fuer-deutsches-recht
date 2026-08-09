@@ -148,6 +148,7 @@ Volkenrath Energie SE beabsichtigt den Verkauf ihrer Tochtergesellschaft Volkenr
 | [`emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml`](emails/2026-04-02_kanzlei-intern-drafting-arbeitsverteilung.eml) | Kanzlei intern: Drafting-Arbeitsverteilung Dr. Roosendaal / Pohlmann |
 | [`emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml`](emails/2026-07-14_gegenseite-schaefer-schoeneberg-markup.eml) | Schäfer Schöneberg Stoll an Kanzlei: Markup SPA v2 |
 | [`emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml`](emails/2026-08-05_kanzlei-an-bkarta-vorabstimmung.eml) | Kanzlei an BKartA: Vorabstimmung Fusionskontrolle GWB § 39 |
+| [`emails/2026-12-15_notariat-signinglogistik-ur-188-26.eml`](emails/2026-12-15_notariat-signinglogistik-ur-188-26.eml) | Notariat an Deal-Team: Zugang, Ausweise, Fassungsstand und Ablauf am Signing-Tag |
 
 ### PDFs
 

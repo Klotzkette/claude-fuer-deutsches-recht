@@ -44,6 +44,7 @@ Beurkundender Notar: Notariat Dr. Bertram Veitschegger, Frankfurt am Main, Unter
 | `14-board-und-consent-matters-mapping-de-en.docx` | Mapping Consent Matters: Beirat / Gesellschafterversammlung / GF-Geschäftsordnung |
 | `15-closing-checkliste-cp.docx` | Closing-Checkliste mit CPs und Closing Deliverables |
 | `16-whatsapp-partner-associate-thread.docx` | WhatsApp Westarp ↔ Hildemar, Donnerstag 06:58–08:21 |
+| `emails/17a-kunigunde-an-westarp-originale-und-anreise.eml` | Mandantenmail zu Originalunterlagen, Cap-Table-Fassung und Anreise zum Signing |
 | `18-cap-table-und-waterfall.xlsx` | Cap-Table-Modell mit Pool pre-/post-money, Wandeldarlehen und Liquidation-Preference-Waterfall |
 | `18-cap-table-und-waterfall.pdf` | PDF-Ausdruck des Cap-Table-/Waterfall-Arbeitsmodells |
 | `19-notar-scan-beurkundungssprache.pdf` | Notar-Memo Veitschegger zur Beurkundungssprache § 16 BeurkG |
@@ -68,5 +69,5 @@ Beurkundender Notar: Notariat Dr. Bertram Veitschegger, Frankfurt am Main, Unter
 
 - Die DOCX- und PDF-Versionen der Memo-Texte liegen im selben Verzeichnis und sind im Memo-Layout der Kanzlei Hagemann & Westarp gesetzt (Times New Roman 11 pt, Blocksatz, Mandatslabel im Seitenkopf, Vertraulichkeitsvermerk im Seitenfuß). Chat- und Screenshot-Material bleibt im jeweiligen Kommunikationslook.
 - Die Datei `26-gesamtakte-kometenfalter-series-a.pdf` enthält eine zusammengeführte Lesefassung der Aktenbestandteile mit Excel-Ausdruck, Bildfragmenten und E-Mail-Anhang.
-- E-Mails liegen zusätzlich als .eml im Unterordner `emails/` und sind in Outlook direkt öffenbar. Der Ordner enthält Partnerauftrag, CFO-Zahlenstand, Investor-Counsel-Mail, Mandantenmail und Notariatskorrespondenz.
-- Chatverläufe (Slack #project-comet-moth, WhatsApp Westarp/Hildemar) liegen im Unterordner `chats/` als Markdown sowie je als eigene DOCX und PDF.
+- E-Mails liegen zusätzlich als .eml im Unterordner `emails/` und sind in Outlook direkt öffnbar. Der Ordner enthält Partnerauftrag, CFO-Zahlenstand, Investor-Counsel-Mail, Mandantenmail, Signing-Logistik und Notariatskorrespondenz.
+- Chatverläufe (Slack #project-comet-moth, WhatsApp Westarp/Hildemar) liegen im Unterordner `chats/` als eigene DOCX- und PDF-Fassungen.
